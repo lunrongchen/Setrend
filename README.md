@@ -1,1 +1,1 @@
-Sentiment analysis and stock trend prediction for Tweets 
+#Sentiment analysis and stock trend prediction for Tweets 
