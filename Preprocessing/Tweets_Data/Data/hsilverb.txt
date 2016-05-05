@@ -1,0 +1,60 @@
+hsilverb	716003480687788033	2016-04-01T20:45:07	SPX “X”s: YTD SPX is up 1.41%, ex-financials it is up 2.65% (88% more), ex energy it is up 1.39%, and ex-$AAPL it is up 1.31%
+hsilverb	715285378157051904	2016-03-30T21:11:38	SPX Q1,’16 dividend payment up 4.6% over Q1,’15, but it failed to set a new record, as the prior seven quarters had each done
+hsilverb	712272713448968192	2016-03-22T13:40:22	SPX Q1,’16 shares appear to be set to add another boost to Q1,’16 EPS, as buyback impact continues
+hsilverb	712272626178101248	2016-03-22T13:40:02	For Q4,’15 25% of the SPX issues used buybacks to reduce shares by at least 4% Y/Y, therefore increasing EPS by at least 4%
+hsilverb	712272486092513280	2016-03-22T13:39:28	SPX issues set 2015(or any12-mo period)shareholder return record, as buybacks and divs come in at $955 billion, up from $904billion in 2014
+hsilverb	712272342148186112	2016-03-22T13:38:54	SPX 2015 buybacks up 3.1% to $572 billion over 2014’s $554 billion, but up 8.7% ex-energy’s 62.7% decline
+hsilverb	710929998102859776	2016-03-18T20:44:54	AAPL was added to the DJIA one year ago, as T was deleted; AAPL is down 17.6%, with T up 14.8%-&gt;the impact reduced the DJIA 187 points
+hsilverb	710530979627180032	2016-03-17T18:19:21	SPX fell10.51%fr2015close(2043.94)to 2/11/16 low(1829.08),but since up11.79%,w/YTDpositive for the first time this year-intraday or closing
+hsilverb	710417972674822144	2016-03-17T10:50:18	SPX capital expenditures declined 2.8% in 2015, but ex-energy’s 26.7% decline the rest of the index is up 8.2% for the year
+hsilverb	709482735769878528	2016-03-14T20:54:00	OK to turn your back on the market on the Ides of March: SPX up 61.5% of the time vs historical 52.1%,w/avg 1.15%gain, vs. historical 0.75%
+hsilverb	709033234676518912	2016-03-13T15:07:51	YTD dividend update: for U.S. common stocks, energy accounts for 50% of the dividend cuts and 77% of the aggregate dividend dollar cuts
+hsilverb	708299284555366400	2016-03-11T14:31:23	SPX opens higher, as week-to-date turns positive,up 0.12%-potential 4th week of gains (cum: 7.38%), last run was 6 weeks (8.69%) in Nov.’15
+hsilverb	707341890845286400	2016-03-08T23:07:03	S&amp;P Dow Jones to create REIT sector fr Finls (eff Sep,’15); proforma: REITs yield 3.46%, Finls decline to 1.98%fr2.25% w/higher div tax qual
+hsilverb	706519916338352129	2016-03-06T16:40:49	MSFT is first SPX issue to have $100B in cash&amp;equivalent in their current assets($AAPL has $38B, &amp;$178B under“investments”-mostly level 2)
+hsilverb	706257321748537344	2016-03-05T23:17:21	Time to buy the Bull an AARP membership? 84 months old Wednesday, average is 59; SPX up 16.78% annualized from then, 19.29% with dividends
+hsilverb	704442419304128512	2016-02-29T23:05:35	SPX was the index out for Feb,’16: SPX -0.13% (total return), S&amp;P MidCap400 +1.41%, S&amp;P SmallCap600 +1.12%, DJIA +0.75%
+hsilverb	704411289720909824	2016-02-29T21:01:53	Not again: today’s 0.83% loss turned February negative (-0.43%), just as the 12/31/2015 0.94% loss turned all of 2015 negative (-0.72%)
+hsilverb	703617037793415168	2016-02-27T16:25:49	SPX sets monthly dividend payment record at $46.3B; YTD indicated dividend rate up 1.1% (94 increases), even as energy cuts (7 YTD)continue
+hsilverb	702656671479365632	2016-02-25T00:49:39	Dug up the SPX ex-financials (b3d sign): YTD SPX -5.58% (-6.27% fr’14), ex Financials -4.18% (-4.34%), ex energy -5.63% (-4.43%)
+hsilverb	702491649398730753	2016-02-24T13:53:55	Ridicules stat:S&amp;P 500issues which starts wtih "’A" avg -7.27%YTD(54 issues)vs -5.75%for the rest;in’15 "A” was +4.75% vs -4.81%for the rest
+hsilverb	701902416220962816	2016-02-22T22:52:31	S&amp;P Global BMI markets adds $2.22 trillion from recent 2/11/16 low, but still off $2.93T YTD; SPX added $1.03T, but still off 0.86T YTD
+hsilverb	701890587025403906	2016-02-22T22:05:31	SPX up 6.37% from its recent 2/11/16 low(130 up at least 10%,1 dn at least 10%) but still 4.82% off YTD (146 off at least 10%, 35 up 10%+)
+hsilverb	701819388635250688	2016-02-22T17:22:36	SPX holdings opening gains&amp;back in trading range(happening more and more),as the month-to-date turns positive(+0.1%;Jan was -5.1%;YTD-5.0%)
+hsilverb	701431382258671620	2016-02-21T15:40:48	SPX 2015 operating is 9.1% lower than 2014; if I exclude energy (posted a loss in each of the 4 quarters), the S&amp;P 500 ex-energy is up 4.1%
+hsilverb	700698761727594496	2016-02-19T15:09:37	Negative:$SPX avg div incr continues to slow, YTD 7.7% vs. 10.0% for ’14, 11.1% for ’14, as cuts increase YTD -$3.1B vs -$0.7B for YTD Feb15
+hsilverb	700698427319984128	2016-02-19T15:08:18	Positive: SPX ind div reach $390B – expect $400B by the time I open my pool(Jun14 $350B; Mar,’13 $300B)
+hsilverb	700116122553688064	2016-02-18T00:34:25	PRCL, the highest priced stock in the SPX, became the first SPX to gain $100 in a day; the pre-split GOOG added $93; AZO is #2, at $754
+hsilverb	700116009538187265	2016-02-18T00:33:58	SPX posts 3 days of 1%+ (5.36% cum),last done in Oct,’13(5.98%);last 4 day run was in Oct,’82 (10.24%); Jun,’38 had a 6 and Aug,’32 had a 5
+hsilverb	695731016263213056	2016-02-05T22:09:34	Apple ($AAPL) ends the week as the largest SPX issue again, $47 billion higher than Alphabet ($GOOG, GOOGL)
+hsilverb	695716196986056704	2016-02-05T21:10:41	Furious Friday continues: SPX Friday moves -1.85% this week, +2.48%, +2.03% &amp; -2.16%; prior 3 all off least 1% &amp; week before that was +2%
+hsilverb	694639709323137024	2016-02-02T21:53:07	Its official:Alphabet ($GOOG /L) is the 12 company to hold the position of highest market value in the SPX w/$531B,displacing AAPL w/$527B
+hsilverb	694485494516813824	2016-02-02T11:40:19	SuperBowl:InfoTec best when AFC wins(avg19.0%vs10.7%),Financials w/NFC win(avg12.9%vs3.3%) via David Silverblatt(son, freshman at Bentley U)
+hsilverb	694267846793236481	2016-02-01T21:15:28	GOOG beats expectations, moves up over 8% - on a full market value it is now more than APPL, and the largest publicly traded company
+hsilverb	693409985196326913	2016-01-30T12:26:38	The “A” race, not in Iowa/New Hampshire; SPX uses float weight with AAPL at $541B &amp; GOOG at $443B, but $GOOG’s full market value is $517B
+hsilverb	693082981548818432	2016-01-29T14:47:14	W/56% SPX Q4rpted73%beat OperEPS,38% beat As Reported(GAAP), 47% beat sales;more companies cite cost-cuttings,special items incr,sales miss
+hsilverb	692840193263476736	2016-01-28T22:42:29	The full market value of GOOG, which includes all their shares (‘A’, ‘B’ &amp; ‘C’) is within 3% of AAPL, even as the index weight is 20% away
+hsilverb	690723348033200132	2016-01-23T02:30:53	U.S. common stocks do better than globals, as the U.S. is now 51.57% of global equities (51.13% at year-end 2015) – highest since May 2004
+hsilverb	690714983139774465	2016-01-23T01:57:39	S&amp;P rebalances S&amp;P High Yield Dividend Aristocrat Index, adds: DCI, IBM, LANC, LECO, NJR, NEE, PII, RNR, and RLI; no deletes
+hsilverb	690713557135167488	2016-01-23T01:51:59	Markets rebound, but still 2nd worst opening (14 days) for DJI (-9.70%, $-490 Bil) in history, and 3rd worst for SPX (-7.93%,$-1.18 Tril)
+hsilverb	690297528407953408	2016-01-21T22:18:50	283 SPX issues are at least 20% lower than their 2015-current high price; the SPX is off 12.74% from its 5/21/15 high
+hsilverb	689834645962297344	2016-01-20T15:39:30	At 10:30 a.m., DJIA YTD 10.03% decline is the worst ever (1897), with the SPX off 10.05% second to the 2009 10.85% opening 12-day decline
+hsilverb	689212955293028353	2016-01-18T22:29:08	AAPL reports 1/26 (after close), and is expected to account for 7.12% of SPX earnings for Q4,’15, even as it is 3.28% of the market value
+hsilverb	688130039867555840	2016-01-15T22:46:00	Global markets off $3.83 trillion, including U.S. $1.87 trillion (S&amp;P 500 $1.41T) and non-U.S off $1.95 trillion
+hsilverb	688119702212624384	2016-01-15T22:04:56	SPX and  DJIA off to the worst 10-day opening; SPX off $1.41 trillion, DJIA off $547 billion
+hsilverb	687408385621397506	2016-01-13T22:58:25	SPX YTD off $1.33 Trillion, as U.S. stocks (incl 500) off $1.77 Trillion; global stocks (incl U.S.) off $3.17 Trillion
+hsilverb	687388635243610113	2016-01-13T21:39:56	SPX officially in correction, off 11.29% from 5/21/15 high; ex energy’s 31.19% decline from then the SPX is off 9.53%
+hsilverb	686969733485346817	2016-01-12T17:55:22	S&amp;P SmallCap 600 Energy is off 3.7% and is off 77% (-77% - not a typo) since Jun,’14, when oil was at $105 – and is now playing with $30
+hsilverb	686682479575625728	2016-01-11T22:53:55	SPX slightly up, 0.09%, but worst 6-day start (-5.88%, -$1.04 Trillion); U.S. stocks off $1.37 Trillion YTD, non-US off 1.47 trillion YTD
+hsilverb	686627028901216256	2016-01-11T19:13:35	SPX in correction mode, as it is currently the worst 6-day open (for DJI as well)
+hsilverb	685623479539003393	2016-01-09T00:45:50	SPX lost $1.05 trillion this week, as non-US markets lost $1.59 Trillion, taking $2.64 trillion out of the pockets of investors
+hsilverb	685582468456550400	2016-01-08T22:02:52	SPX declines 5.96%, costing investors $1.05 TRILLION; at year-end 1982 the S&amp;P 500 was worth 1.02 TRILLION
+hsilverb	685568435506561027	2016-01-08T21:07:06	Preliminary close: worst 5-day opening in history for SPX, -5.97% and DJIA, -6.19%
+hsilverb	685244168826937344	2016-01-07T23:38:35	S&amp;P Global Broad Market Index declines $2.3 trillion YTD
+hsilverb	685222107261841408	2016-01-07T22:10:55	SPX sets worst opening for a 4-day period ever – off 4.93%, costing investors $864 billion
+hsilverb	684405995611766784	2016-01-05T16:07:59	Avg SPX dividend increase in 2015 significantly decreases to 13.08% from 2014’s 17.50%, as SPX set 5th yr of double-digit payment increase
+hsilverb	684405775553409024	2016-01-05T16:07:07	Q4,’15 U.S.stock dividends:increases dn 22%, cuts increase 112%;energy accounts for 48% of cuts &amp; 80% of the dollars 
+hsilverb	682972984676610048	2016-01-01T17:13:43	U.S. carries the global mkts(S&amp;P BMI):2015 Global off 3.89%,off6.30%ex-US; 2yrs off 2.00%,off11.58% ex-US; 3yrs up 18.72%, but up 0.25%ex-US
+hsilverb	682703300496601088	2015-12-31T23:22:05	SPX ends year down 0.73% (up 1.38% w/divs); ex-energy’s 23.55% decline it would be up 1.37%; ex-$AAPL’s 4.65% fall it would be dn 0.60%
+hsilverb	682655850503208960	2015-12-31T20:13:32	TheDomino 401kRIA SPDJIndices  I do not; I have ex/AAPL and ex/Energy; will send out tonight
+hsilverb	682364847149953024	2015-12-31T00:57:11	SPX cash dividends set 5th year of double-digit increases &amp; 4th year of record payments; expect another record in 2016, but slower growth
