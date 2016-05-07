@@ -49,13 +49,17 @@ def label_nominal(rates):
                 result[date] = 1
         else:
             if value < 0:
-                result[date] = -2
+                result[date] = -1
             else:
-                result[date] = 2
+                result[date] = 1
     return result
 
 if __name__ == "__main__":
     indices=read_indices('YAHOO-INDEX_DJI.csv')
     rates=index_changing_rate(indices)
     labels=label_nominal(rates)
-    print(labels)
+    count=0
+    for value in labels.values():
+        if value==-1:
+            count+=1
+    print(count)

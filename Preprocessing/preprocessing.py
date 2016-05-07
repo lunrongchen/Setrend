@@ -9,9 +9,11 @@ import unicodedata
 import string
 import datetime
 import threading
+import financial_dictionary
 
 stemmer = PorterStemmer()
 stop_words=set(stopwords.words('english'))
+financial_dict=financial_dictionary.build_dictionary()
 
 def read_reviews(path):
     "Read review text content and arrange them in dates"
@@ -32,6 +34,9 @@ def read_reviews(path):
             if time_stamp<lower_bound:
                 continue
             words[3] = words[3].translate(None, string.punctuation)
+            if not financial_dictionary.contain_financial_topic(words[3],financial_dict):
+                #print('filtered out')
+                continue
             if date in reviews:
                 reviews[date].append(words[3])
             else:
@@ -157,5 +162,11 @@ def extract_features(reviews,local_copy):
 
 if __name__ == "__main__":
     reviews = read_reviews("Tweets_Data/Data")
+    for date in reviews:
+        print(reviews[date])
+    #count=0
+    #for date in reviews:
+        #count+=len(reviews[date])
+    #print(count)
     extract_features(reviews,True)
 

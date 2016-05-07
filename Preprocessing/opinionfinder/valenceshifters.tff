@@ -1,0 +1,90 @@
+#These were collected by Jan from polanyi's chapter and Israel chapter
+#from pragmatics book.  But added to from training set.
+type=negation len=1 word1=no pos1=anypos stemmed1=n
+type=negation len=1 word1=not pos1=anypos stemmed1=n
+type=negation len=1 word1=n't pos1=anypos stemmed1=n
+type=negation len=1 word1=never pos1=anypos stemmed1=n
+type=negation len=1 word1=neither pos1=anypos stemmed1=n
+type=negation len=1 word1=nor pos1=anypos stemmed1=n
+type=negation len=1 word1=none pos1=anypos stemmed1=n
+type=negation len=1 word1=nobody pos1=anypos stemmed1=n
+type=negation len=1 word1=nowhere pos1=anypos stemmed1=n
+type=negation len=1 word1=nothing pos1=anypos stemmed1=n
+type=negation len=1 word1=cannot pos1=anypos stemmed1=n
+type=negation len=1 word1=without pos1=anypos stemmed1=n
+type=negation len=2 word1=no pos1=anypos stemmed1=n word2=one pos2=anypos stemmed2=n
+type=negation len=2 word1=no pos1=anypos stemmed1=n word2=way pos2=anypos stemmed2=n
+type=negation len=3 word1=in pos1=anypos stemmed1=n word2=no pos2=anypos stemmed2=n word3=way pos3=anypos stemmed3=n
+type=notshifter len=2 word1=not pos1=anypos stemmed1=n word2=only pos2=anypos stemmed2=n
+type=notshifter len=2 word1=not pos1=anypos stemmed1=n word2=just pos2=anypos stemmed2=n
+type=notshifter len=2 word1=if pos1=anypos stemmed1=n word2=not pos2=anypos stemmed2=n
+type=notshifter len=5 word1=nothing pos1=anypos stemmed1=n word2=to pos2=anypos stemmed2=n word3=be pos3=anypos stemmed3=n word4=gained pos4=anypos stemmed4=n word5=by pos5=anypos stemmed5=n
+type=notshifter len=4 word1=nothing pos1=anypos stemmed1=n word2=to pos2=anypos stemmed2=n word3=gain pos3=anypos stemmed3=n word4=by pos4=anypos stemmed4=n
+type=genshifter len=1 word1=little pos1=anypos stemmed1=n
+type=shiftneg len=2 word1=failure pos1=anypos stemmed1=n word2=of pos2=anypos stemmed2=n
+type=shiftneg len=2 word1=failure pos1=anypos stemmed1=n word2=to pos2=anypos stemmed2=n
+type=shiftneg len=3 word1=no pos1=anypos stemmed1=n word2=reason pos2=anypos stemmed2=n word3=for pos3=anypos stemmed3=n
+type=shiftneg len=3 word1=no pos1=anypos stemmed1=n word2=reason pos2=anypos stemmed2=n word3=to pos3=anypos stemmed3=n
+type=shiftneg len=1 word1=failed pos1=verb stemmed1=n word2=to pos2=anypos stemmed2=n
+type=shiftneg len=1 word1=fails pos1=verb stemmed1=n word2=to pos2=anypos stemmed2=n
+type=shiftneg len=1 word1=fail pos1=verb stemmed1=n word2=to pos2=anypos stemmed2=n
+type=shiftneg len=1 word1=lost pos1=verb stemmed1=n
+type=shiftneg len=1 word1=lose pos1=verb stemmed1=n
+type=shiftneg len=1 word1=loses pos1=verb stemmed1=n
+type=shiftneg len=2 word1=refused pos1=verb stemmed1=n word2=to pos2=anypos stemmed2=n
+type=shiftneg len=1 word1=refuse pos1=verb stemmed1=n word2=to pos2=anypos stemmed2=n
+type=shiftneg len=1 word1=refuses pos1=verb stemmed1=n word2=to pos2=anypos stemmed2=n
+type=shiftneg len=1 word1=denied pos1=verb stemmed1=n
+type=shiftneg len=1 word1=deny pos1=verb stemmed1=n
+type=shiftneg len=1 word1=denies pos1=verb stemmed1=n
+type=shiftneg len=1 word1=lack pos1=verb stemmed1=n
+type=shiftneg len=2 word1=lack pos1=noun stemmed1=n word2=of pos2=anypos stemmed2=n
+type=shiftneg len=1 word1=lacks pos1=verb stemmed1=n
+type=shiftneg len=1 word1=lacked pos1=verb stemmed1=n
+type=shiftneg len=2 word1=affront pos1=anypos stemmed1=n word2=to pos2=anypos stemmed2=n
+type=shiftneg len=2 word1=forced pos1=verb stemmed1=n word2=to pos2=anypos stemmed2=n
+type=shiftneg len=4 word1=at pos1=anypos stemmed1=n word2=the pos2=anypos stemmed2=n word3=expense pos3=anypos stemmed3=n word4=of pos4=anypos stemmed4=n
+type=shiftneg len=2 word1=assissinate pos1=anypos stemmed1=y word2=the pos2=anypos stemmed2=n
+type=shiftneg len=2 word1=violator pos1=anypos stemmed1=y word2=of pos2=anypos stemmed2=n
+type=shiftneg len=1 word1=violate pos1=verb stemmed1=n
+type=shiftneg len=1 word1=violates pos1=verb stemmed1=n
+type=shiftneg len=1 word1=violated pos1=verb stemmed1=n
+type=shiftneg len=1 word1=violating pos1=verb stemmed1=n
+type=shiftneg len=2 word1=violation pos1=anypos stemmed1=n word2=of pos2=anypos stemmed2=n
+type=shiftneg len=2 word1=threat pos1=anypos stemmed1=n word2=to pos2=anypos stemmed2=n
+type=shiftneg len=1 word1=threatens pos1=verb stemmed1=n
+type=shiftneg len=1 word1=forget pos1=verb stemmed1=n
+type=shiftneg len=1 word1=forgetting pos1=verb stemmed1=n
+type=shiftneg len=1 word1=forgets pos1=verb stemmed1=n
+type=shiftneg len=1 word1=forgot pos1=verb stemmed1=n
+type=shiftneg len=1 word1=damage pos1=verb stemmed1=n
+type=shiftneg len=1 word1=damaging pos1=verb stemmed1=n
+type=shiftneg len=1 word1=damaged pos1=verb stemmed1=n
+type=shiftneg len=1 word1=damages pos1=verb stemmed1=n
+type=shiftneg len=1 word1=abuse pos1=verb stemmed1=n
+type=shiftneg len=2 word1=abuse pos1=noun stemmed1=n word2=of pos2=anypos stemmed2=n
+type=shiftneg len=1 word1=abuses pos1=verb stemmed1=n
+type=shiftneg len=1 word1=abused pos1=verb stemmed1=n
+type=shiftneg len=1 word1=abusing pos1=verb stemmed1=n
+type=shiftneg len=2 word1=disruption pos1=noun stemmed1=n word2=of pos2=anypos stemmed2=n
+type=shiftneg len=1 word1=crush pos1=verb stemmed1=n
+type=shiftneg len=1 word1=crushes pos1=verb stemmed1=n
+type=shiftneg len=1 word1=crushed pos1=verb stemmed1=n
+type=shiftneg len=1 word1=crushing pos1=verb stemmed1=n
+type=shiftneg len=1 word1=dwindling pos1=anypos stemmed1=n
+type=shiftneg len=1 word1=declining pos1=anypos stemmed1=n
+type=shiftneg len=2 word1=crime pos1=anypos stemmed1=n word2=against pos2=anypos stemmed2=n
+type=shiftpos len=1 word1=abate pos1=verb stemmed1=n
+type=shiftpos len=1 word1=abating pos1=verb stemmed1=n
+type=shiftpos len=1 word1=abated pos1=verb stemmed1=n
+type=shiftpos len=1 word1=abates pos1=verb stemmed1=n
+type=shiftpos len=2 word1=without pos1=verb stemmed1=n word2=fail pos2=anypos stemmed2=n
+type=shiftneg len=1 word1=unfeasible pos1=anypos stemmed1=n
+type=shiftneg len=1 word1=impossible pos1=anypos stemmed1=n
+type=shiftneg len=1 word1=so-called pos1=anypos stemmed1=n
+type=shiftneg len=1 word1=two-sided pos1=anypos stemmed1=n
+type=shiftneg len=2 word1=hard pos1=anypos stemmed1=n word2=to pos2=anypos stemmed2=n 
+type=shiftneg len=3 word1=not pos1=anypos stemmed1=n word2=care pos2=anypos stemmed2=n word3=for pos3=anypos stemmed3=n
+type=shiftneg len=3 word1=not pos1=anypos stemmed1=n word2=care pos2=anypos stemmed2=n word3=about pos3=anypos stemmed3=n
+type=shiftneg len=3 word1=n't pos1=anypos stemmed1=n word2=care pos2=anypos stemmed2=n word3=for pos3=anypos stemmed3=n
+type=shiftneg len=3 word1=n't pos1=anypos stemmed1=n word2=care pos2=anypos stemmed2=n word3=about pos3=anypos stemmed3=n

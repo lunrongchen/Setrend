@@ -5,6 +5,10 @@ STRONG_NEGATIVE = "strongneg"
 WEAK_POSITIVE = "weakpos"
 STRONG_POSITIVE = "strongpos"
 NEUTRAL = "neutral"
+STRONG_NEGATIVE_SCORE=-2
+STRONG_POSITIVE_SCORE=2
+WEAK_NEGATIVE_SCORE=-1
+WEAK_POSITIVE_SCORE=1
 
 
 def read_data(filename):
@@ -33,13 +37,13 @@ def opinionfinder_separator(data):
     negative = open("negative.txt", "w")
     for table in data:
         if table["mpqapolarity"] == WEAK_NEGATIVE:
-            negative.write(table["word1"] + "," + table["pos1"] + "," + "-1\n")
+            negative.write(table["word1"] + "," + table["pos1"] + "," + str(WEAK_NEGATIVE_SCORE)+ "\n")
         elif table["mpqapolarity"] == STRONG_NEGATIVE:
-            negative.write(table["word1"] + "," + table["pos1"] + "," + "-2\n")
+            negative.write(table["word1"] + "," + table["pos1"] + "," + str(STRONG_NEGATIVE_SCORE) + "\n")
         elif table["mpqapolarity"] == STRONG_POSITIVE:
-            positive.write(table["word1"] + "," + table["pos1"] + "," + "2\n")
+            positive.write(table["word1"] + "," + table["pos1"] + "," + str(STRONG_POSITIVE_SCORE) + "\n")
         elif table["mpqapolarity"] == WEAK_POSITIVE:
-            positive.write(table["word1"] + "," + table["pos1"] + "," + "1\n")
+            positive.write(table["word1"] + "," + table["pos1"] + "," + str(WEAK_POSITIVE_SCORE) + "\n")
     positive.close()
     negative.close()
 
