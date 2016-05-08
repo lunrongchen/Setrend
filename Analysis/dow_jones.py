@@ -49,9 +49,9 @@ def label_nominal(rates):
                 result[date] = 1
         else:
             if value < 0:
-                result[date] = -1
+                result[date] = -2
             else:
-                result[date] = 1
+                result[date] = 2
     return result
 
 if __name__ == "__main__":

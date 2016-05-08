@@ -5,6 +5,11 @@ import csv
 import dow_jones
 import numpy as np
 import datetime
+# This file contains feature of word vector.
+# Every dimension correspond to the frequency of word times sentiments defined in the sentimental dictionary.
+# Make sure you have run preprocessing.py, dictionary_separator.py before this analysis.
+# See function create features.
+
 
 def intersect(a, b):
     """ return the intersection of two lists """
@@ -54,6 +59,8 @@ def read_bag_of_word(path):
 
 
 def create_features(bag, sentiments, word_vector):
+    "This function creates word vector of words in reviews for every day."
+    # Every dimension correspond to the frequency of word times sentiments defined in the sentimental dictionary.
     features = {}
     for date in bag:
         features[date] = []
@@ -65,33 +72,7 @@ def create_features(bag, sentiments, word_vector):
                 features[date].append(0)
     return features
 
-
-if __name__ == "__main__":
-    #read in pre-processed features
-    print('reading preprocessed data')
-    bag = read_bag_of_word('features')
-    #read in sentimental dictionary
-    print('reading dictionary')
-    [word_vector, sentiments] = read_dictionary("positive.txt", "negative.txt")
-    word_vector=set(word_vector)
-    word_set = set()
-    for date in bag.keys():
-        for word in bag[date]:
-            if word in word_vector:
-                word_set.add(word)
-    #print(len(word_vector))
-    #extract word vector
-    print('extracting features')
-    word_vector = list(word_set)
-    features=create_features(bag,sentiments,word_vector)
-    print('word_vector size is '+str(len(word_vector)))
-    print(word_vector)
-    #for date in features:
-        #print(features[date])
-    #read in dow_jones indices
-    indices=dow_jones.read_indices('YAHOO-INDEX_DJI.csv')
-    rates=dow_jones.index_changing_rate(indices)
-    labels=dow_jones.label_nominal(rates)
+def svm_analysis(features,labels):
     #training svm
     print('start to train SVM')
     print('get dates')
@@ -113,8 +94,6 @@ if __name__ == "__main__":
         x.append(feature)
         y.append(labels[time_stamp])
     print('svm training starts')
-    print(len(x))
-    print(len(y))
     x = np.array(x)
     #x.reshape(-1,1)
     clf = svm.SVC()
@@ -126,3 +105,27 @@ if __name__ == "__main__":
         test=[features[time_stamp]]
         #print(test)
         print(str(labels[time_stamp])+','+str(clf.predict(test)))
+
+if __name__ == "__main__":
+    #read in pre-processed features
+    print('reading preprocessed data')
+    bag = read_bag_of_word('features')
+    #read in sentimental dictionary
+    print('reading dictionary')
+    [word_vector, sentiments] = read_dictionary("positive.txt", "negative.txt")
+    word_vector=set(word_vector)
+    word_set = set()
+    # word_vector is the intersection of dictionary and words used in all reviews.
+    for date in bag.keys():
+        for word in bag[date]:
+            if word in word_vector:
+                word_set.add(word)
+    #extract word vector
+    print('extracting features')
+    word_vector = list(word_set)
+    features=create_features(bag,sentiments,word_vector)
+    print('word_vector size is '+str(len(word_vector)))
+    #read in dow_jones indices
+    labels=dow_jones.label_nominal(dow_jones.index_changing_rate(dow_jones.read_indices('YAHOO-INDEX_DJI.csv')))
+    #go into svm
+    svm_analysis(features,labels)

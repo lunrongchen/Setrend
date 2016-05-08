@@ -8,6 +8,8 @@ import dow_jones
 import numpy as np
 from sklearn import svm
 import datetime
+# This file contains feature of word vector. Each dimension indicates the count for each sentimental categories.
+# Make sure you have run preprocessing.py, dictionary_separator.py before this analysis.
 
 dow_jones_labels = dow_jones.label_nominal(dow_jones.index_changing_rate(dow_jones.read_indices('YAHOO-INDEX_DJI.csv')))
 
@@ -20,6 +22,7 @@ def predict_label(bag,word_vector,sentiments,date):
     return result>0
 
 def create_feature_matrix(bag,sentiments):
+    "Extract features from bag of words"
     features=np.empty([len(dow_jones_labels),4])
     feature_dict={}
     target=[]
@@ -49,27 +52,15 @@ def create_feature_matrix(bag,sentiments):
         features[i,3]=weak_negative_count
         feature_dict[date]=features[i,0:4]
         i+=1
+    # features is an n*4 np array. Each row is a feature of sentiments for that particular day.
+    # target is the list of dow jones labels for all dates aligned with features.
+    # feature_dict is the dictionary for features using date as key
     return [features,target,feature_dict]
 
-
-
-def main():
-    #read in pre-processed features
-    print('reading preprocessed data')
-    bag = read_bag_of_word('features')
-    #read in sentimental dictionary
-    print('reading dictionary')
-    [word_vector, sentiments] = read_dictionary("positive.txt", "negative.txt")
-    word_vector=set(word_vector)
-    count=0
-    features,target,features_dict=create_feature_matrix(bag, sentiments)
-    #print(type(features_dict))
-    #print(target)
-    dates=dow_jones_labels.keys()
-    dates = [datetime.datetime.strptime(ts, "%Y-%m-%d") for ts in dates]
-    dates.sort()
-    dates = [datetime.datetime.strftime(ts, "%Y-%m-%d") for ts in dates]
-    fold=5
+def cross_validation(fold,dates,features_dict):
+    "Cross-alidation using SVM and sentimental features"
+    # The most important aspect is that using previous months to predict several days afterwards has accuracy 75%.
+    # All folds have accuracy greater than benchmark
     chunk=len(dates)/fold
     average=0
     for i in range(0,fold):
@@ -93,13 +84,30 @@ def main():
         count=0
         for date in testing_keys:
             prediction = clf.predict([features_dict[date]])
-            if prediction[0] == dow_jones_labels[date]:
+            if prediction[0] * dow_jones_labels[date]>0:
                 count += 1
         accuracy=float(count)/len(testing_set)
         print(testing_keys)
         print("accuracy={0}".format(accuracy))
         average+=accuracy
     print('{0}-fold cross validation accuracy={1}'.format(fold,average/fold))
+
+def main():
+    #read in pre-processed features
+    print('reading preprocessed data')
+    bag = read_bag_of_word('features')
+    #read in sentimental dictionary
+    print('reading dictionary')
+    [word_vector, sentiments] = read_dictionary("positive.txt", "negative.txt")
+    features,target,features_dict=create_feature_matrix(bag, sentiments)
+    # Sort dates in order
+    dates=dow_jones_labels.keys()
+    dates = [datetime.datetime.strptime(ts, "%Y-%m-%d") for ts in dates]
+    dates.sort()
+    dates = [datetime.datetime.strftime(ts, "%Y-%m-%d") for ts in dates]
+    # 5 fold cross-validation
+    fold=5
+    cross_validation(fold, dates, features_dict)
     #for date in dow_jones_labels:
         #prediction=predict_label(bag,word_vector,sentiments,date)
        # prediction=clf.predict([dict[date]])
