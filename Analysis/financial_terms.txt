@@ -1,0 +1,319 @@
+Advance Line
+Decline Line
+Accumulation Index
+Share Price Index
+All Ords
+American-Style Option 
+Arbitrage
+Ask
+Asset Allocation
+Asset Backing
+Assets
+At Par
+ASIC
+Automatic Exercise
+Averaging Up or Down
+Averaging Down
+Back Testing
+Balanced Portfolio
+Balance of Payments
+Balance Sheet
+Bear
+Bear Trap
+Beta
+Bid
+Black-Scholes Option Pricing Model
+Bonus Shares
+Breadth
+Market
+Bull
+Bull Trap
+Call Option
+Candlestick Charts
+Capital Gain
+Capital Gains Tax
+CGT
+Capital Growth
+Capital Loss
+Capitalisation
+Capitalization Weighted Index
+Carrying Charge
+Cash and Carry
+Cash Flow
+Cash Management
+Cash Management Trust
+CMT
+Cash Settlement
+Certificate
+Collateral
+Commission
+Commodity
+Company
+Compliance
+Compounding
+Congestion Area
+Consolidation
+Consumer Price Index
+CPI
+Contingent Liability
+Convertible Notes
+Correction
+Retracement
+Counter-Cyclical
+Cum Dividend
+Currency Risk
+Current Account
+Cyclical Stocks
+Day Order
+Day Trading
+Daily Range
+Debenture
+Debt to
+Deficit
+Deflation
+Delisting
+Delta
+Depreciation
+Depression
+Derivative Security
+Discount
+Diversification
+Dividend
+Drawdown
+Due Diligence
+Earnings Multiple
+Earnings Per Share
+EPS
+Earnings Yield
+Econometrics
+Efficient Market Hypothesis
+Elliot Wave Theory
+Emerging Markets
+Eurodollars
+European-Style Options
+Exchange Rate
+Exchange Traded Option
+Ex-Dividend
+Exercise
+Exercise Price
+Expiration Date
+Federal Reserve
+Fibonacci
+Financial Times Stock Exchange
+FTSE
+First Notice Day
+Fiscal Policy
+Fixed Interest
+Float
+Franked Dividends
+Fundamental Analysis
+Futures
+Gilt
+Gold Standard
+Good Till Canceled
+Greenback
+Greenmail
+Gross
+Gross Domestic Product
+GDP
+Gross National Product
+GNP
+Group of Seven
+G7
+Growth Assets
+Growth Fund
+Hang Seng Index
+Hedge Fund
+Hedging
+Historical Volatility
+Horizontal Integration
+Household Sector
+Hyperinflation
+Imputation Credit
+In The Money
+Indemnity
+Index
+Index Arbitrage
+Index Fund
+Index Option
+Industrial
+Inflation
+Inflation Hedge
+Infrastructure
+Inside Day
+Insider Trading
+Insolvency
+Institutional Investor
+Interest Rate Futures
+Intrinsic Value
+Inverted Yield Curve
+January Effect
+Junk Bond
+Keynesian Economics 
+Lagging Indicators
+Laissez-faire
+Last Trading Day
+Law of Supply
+Leading Indicators
+Leverage
+Leveraged Buy-out
+LBO
+Liabilities
+Limit Order
+Liquidation
+Liquid Market
+Listed Company
+Listing Rules
+Local
+Long
+London Interbank Offered Rate
+LIBOR
+London International Financial
+LIFFE
+Macro Economics
+Management Buy-in
+MBI
+Management Buy-out
+MBO
+Margin
+Margin Call
+Market Capitalisation
+Market Maker
+Market-If-Touched
+Market-on-close
+Market
+Market Order
+Mark-to-Market
+Merger
+Microeconomics
+Modeling
+Modern Portfolio Theory
+MPT
+Monetary Policy
+Money Market
+Money Supply
+Naked Option
+NASDAQ Composite Index
+National Accounts
+National Savings
+Negative Gearing
+Net
+Net Asset Backing
+Net Asset Value
+New Issue
+New York Stock Exchange
+NYSE
+Nikkei Dow Index
+Noise
+Novation
+NYSE Composite Index
+NZSE30
+Offer
+Off Market
+Open Interest
+Open Order
+Open Outcry
+Option Buyer
+OPTION Taker
+Option Premium
+Option Writer
+Option Clearing House
+OCH
+Out-of-the-Money
+Overbought
+Oversold
+Oversubscribed 
+Over-the-Counter Option
+OTC
+Pooled Investments
+Portfolio Investment
+Portfolio Insurance
+Preference Shares
+Premium
+Price/Earnings Ratio
+P/E Ratio
+Price Range
+Primary Market
+Prime Rate
+Private Placement
+Private Sector
+Productivity
+Program Trading
+Promissory Note
+Prospectus
+Proxy
+Public Sector
+Put Call Ratio
+Put Option
+Rate of Return
+Real Interest
+Real Return
+Receiver
+Receivership
+Reflation
+Reserve Bank of Australia
+RBA
+Reserves
+Resistance
+Return On Assets
+Return On Equity
+Rights Issue
+S&P 500
+Scalp
+Scrip
+Seasonally Adjusted
+Secondary Market
+Sector
+Short
+Selling Short
+Short Interest
+Short Interest Ratio
+Slippage
+Split
+Spread
+Stag
+Stop Order
+SEATS
+Support
+Supply-side
+Surplus
+Swap
+Swaption
+Switching
+Sydney
+Sydney Futures Exchange
+SFE
+Takeover
+Technical Analysis
+Theoretical Value
+Tiger
+Time value
+Top-down
+Tokyo Price Index
+TOPIX
+Trade-Weighted Index
+TWI
+Trend
+Turnover
+Underlying
+Underperformance
+Undervalued
+Underweight
+Underwriter
+Unfranked Dividends
+Unsecured Creditor
+Utility
+Value Investing
+Venture Capital
+Vertical Integration
+Volatility
+Volume
+Wall Street
+Warrant
+Wasting Asset
+Weighting
+White
+Yield
+Yield Curve
+Yield to Maturity
+Zero Coupon Bonds

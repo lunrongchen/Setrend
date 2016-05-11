@@ -1,5 +1,5 @@
-from svm_analysis import read_dictionary
-from svm_analysis import read_bag_of_word
+from NN_analysis import read_dictionary
+from NN_analysis import read_bag_of_word
 from dictionary_separator import WEAK_NEGATIVE_SCORE
 from dictionary_separator import WEAK_POSITIVE_SCORE
 from dictionary_separator import STRONG_NEGATIVE_SCORE
@@ -8,18 +8,28 @@ import dow_jones
 import numpy as np
 from sklearn import svm
 import datetime
+from pybrain.datasets import SupervisedDataSet
+from pybrain.supervised.trainers import BackpropTrainer
+from pybrain.tools.shortcuts import buildNetwork
+
 # This file contains feature of word vector. Each dimension indicates the count for each sentimental categories.
 # Make sure you have run preprocessing.py, dictionary_separator.py before this analysis.
-
-dow_jones_labels = dow_jones.label_nominal(dow_jones.index_changing_rate(dow_jones.read_indices('YAHOO-INDEX_DJI.csv')))
+#dow_jones.label_nominal(
+dow_jones_labels = dow_jones.index_changing_rate(dow_jones.read_indices('YAHOO-INDEX_DJI.csv'))
 
 def predict_label(bag,word_vector,sentiments,date):
     words=bag[date]
-    result=0
+    result=0.
+    sum=0
     for word in words:
         if word in word_vector:
             result+=words[word]['count']*sentiments[word]['sentiment']
-    return result>0
+            sum+=words[word]['count']
+    print("{0},{1}".format(result,sum))
+    if result/sum>0.08:
+        return 1
+    else:
+        return -1
 
 def create_feature_matrix(bag,sentiments):
     "Extract features from bag of words"
@@ -28,28 +38,34 @@ def create_feature_matrix(bag,sentiments):
     target=[]
     i=0
     for date in dow_jones_labels:
+        if date not in bag:
+            continue
         target.append(dow_jones_labels[date])
-        strong_positive_count=0
-        strong_negative_count=0
-        weak_positive_count=0
-        weak_negative_count=0
+        strong_positive_count=0.
+        strong_negative_count=0.
+        weak_positive_count=0.
+        weak_negative_count=0.
         for word in bag[date]:
             if word in sentiments:
                 if sentiments[word]['sentiment']==STRONG_POSITIVE_SCORE:
                     strong_positive_count+=bag[date][word]['count']
                 else:
-                   if sentiments[word]['sentiment'] == STRONG_NEGATIVE_SCORE:
-                       strong_negative_count += bag[date][word]['count']
-                   else:
+                    if sentiments[word]['sentiment'] == STRONG_NEGATIVE_SCORE:
+                        strong_negative_count += bag[date][word]['count']
+                    else:
                         if sentiments[word]['sentiment'] == WEAK_NEGATIVE_SCORE:
                             weak_negative_count += bag[date][word]['count']
                         else:
                             if sentiments[word]['sentiment'] == WEAK_POSITIVE_SCORE:
                                 weak_positive_count += bag[date][word]['count']
-        features[i,0]=strong_positive_count
-        features[i,1]=weak_positive_count
-        features[i,2]=strong_negative_count
-        features[i,3]=weak_negative_count
+        total=strong_positive_count+strong_negative_count+weak_positive_count+weak_negative_count
+        features[i,0]=strong_positive_count#/total
+        features[i,1]=weak_positive_count#/total
+        features[i,2]=strong_negative_count#/total
+        features[i,3]=weak_negative_count#/total
+        #features[i,0]=(strong_positive_count+weak_positive_count)/total
+        #features[i,1]=(strong_negative_count+weak_negative_count)/total
+        print("{0},{1},{2},{3},{4}".format(features[i,0],features[i,1],features[i,2],features[i,3],target[i]))
         feature_dict[date]=features[i,0:4]
         i+=1
     # features is an n*4 np array. Each row is a feature of sentiments for that particular day.
@@ -84,6 +100,7 @@ def cross_validation(fold,dates,features_dict):
         count=0
         for date in testing_keys:
             prediction = clf.predict([features_dict[date]])
+            print("predict={0},actual={1}".format(prediction[0],dow_jones_labels[date]))
             if prediction[0] * dow_jones_labels[date]>0:
                 count += 1
         accuracy=float(count)/len(testing_set)
@@ -107,13 +124,27 @@ def main():
     dates = [datetime.datetime.strftime(ts, "%Y-%m-%d") for ts in dates]
     # 5 fold cross-validation
     fold=5
-    cross_validation(fold, dates, features_dict)
+    #print(features)
+    ds = SupervisedDataSet(4, 1)
+    ds.setField('input', features)
+    target=np.array(target).reshape( -1, 1 )
+    ds.setField('target', target)
+    net = buildNetwork(4, 40, 1, bias=True)
+    trainer = BackpropTrainer(net, ds)
+    trainer.trainUntilConvergence(verbose=True, validationProportion=0.15, maxEpochs=10000, continueEpochs=10)
+    count=0
+    for i in range(0,len(target)):
+        print("predict={0},actual={1}".format(net.activate(features[i]),target[i]))
+        if net.activate(features[i])*target[i]>0:
+            count+=1
+    print("accuracy={0}".format(float(count) / len(dow_jones_labels)))
+    #cross_validation(fold, dates, features_dict)
+    #count=0
     #for date in dow_jones_labels:
-        #prediction=predict_label(bag,word_vector,sentiments,date)
-       # prediction=clf.predict([dict[date]])
-        #if prediction[0]==dow_jones_labels[date]:
-         #   count+=1
-        #print("predicted={0},actual={1}".format(prediction[0],dow_jones_labels[date]))
+       # prediction=predict_label(bag,set(word_vector),sentiments,date)
+      #  if prediction==dow_jones_labels[date]:
+      #      count+=1
+     #   print("predicted={0},actual={1}".format(prediction,dow_jones_labels[date]))
     #print("accuracy={0}".format(float(count)/len(dow_jones_labels)))
 
 if __name__ == '__main__':

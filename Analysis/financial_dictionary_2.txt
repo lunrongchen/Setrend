@@ -1,0 +1,359 @@
+Abandoned Baby
+Above the Market
+Absolute Breadth Index
+ABI
+Absolute Price Oscillator
+APO
+Accredited Investor
+Accrued Interest
+Accumulation
+AD Line
+Advance Decline Line
+Advance Decline Ratio
+Advancing
+Advancing Declining Issues
+Adverse Excursion
+ADX
+After Hours
+Against Actuals
+Aggregate Exercise Price
+Agricultural Commodities Index
+ACI
+Alpha
+American Depository Receipt
+ADR
+AMEX
+Amortization
+Analysis of Variance
+Analyst
+Andrew's Pitchfork
+Announcement Date
+Annual Report
+Annualized
+Arbitrage
+Area Pattern
+Arithmetic Scaling
+Linear Scaling
+Arms Index
+TRIN
+Aroon
+Ascending Trend Channel
+Ascending Triangle
+Ask
+Assets
+At the Money
+Average Directional Index
+ADX
+Average True Range
+ATR
+Back Testing
+Bar Chart
+Confidence Index
+Basing
+Basis
+Bear
+Bear Spread
+Bear Trap
+Below the Market
+Beta
+Bid
+Black Box
+Block
+Blowoff
+Blue Chip Stock
+Bollinger Bands
+Bond Price
+Bond Yield
+Breadth
+Breadth Thrust
+Breakaway Gap
+Breakout
+Bull
+Bull Bear Ratio
+Bull Market
+Bull Trap
+Bullish Percent Index
+BPI
+Bump and Run Reversal
+Buy Signal
+Buy Stop
+Buyback
+Buying Climax
+Buying on Margin
+Call Option
+Candlestick Chart
+Capital Gain
+CBOE
+Nasdaq
+Chaikin Money Flow
+CMF
+Chaikin Oscillator
+Channel
+Channel Line
+Commodities
+Commodity Channel Index
+CCI
+Confirmation
+Contingent Deferred Sales Charge
+CDSC
+Continuation Pattern
+Correction
+CRB Index
+Crossover
+Cup with Handle
+Cyclical Stocks
+Dark Cloud Cover
+Day Trading
+Declining
+Directional Movement Indicator
+DMI
+Distribution
+Divergence
+Doji
+Double Bottom
+Double Top
+Industrial Average
+INDU
+Transportation Average
+TRAN
+Utilities Average
+UTIL
+Dow Theory
+Down Trendline
+Downside
+Tasuki Gap
+Dragonfly
+Elliott Wave Analysis
+Energy Commodities Index
+ECI
+Engulfing Pattern
+Envelopes
+ETF
+Evening Doji Star
+Evening Star
+Ex-Dividend Date
+Exhaustion Gap
+Extended
+Falling Three Methods
+Falling Wedge
+Fibonacci Numbers
+Flag
+Fundamental Analysis
+Futures
+Gap
+Gap Breakaway
+Gap Common
+Gap Continuation
+Gap Exhaustion
+Gap Measuring
+Gap Up/Down
+Gravestone Doji
+Hammer
+Hanging Man
+Harami
+Harami Cross
+Head and Shoulders Bottom
+Head and Shoulders Top
+HOLDRs
+Horizontal Line
+Implied Volatility
+Indicator
+Industrial Metals Commodities Index
+IMCI
+Industry
+Initial Public Offering
+IPO
+Intermarket Analysis
+International WEBS
+Inverted Hammer
+iShares
+Key Reversal
+Laggard
+Leader
+Limit Orde
+Line Chart
+Linear Scaling
+Arithmetic Scaling
+Liquidity
+Livestock Commodities Index
+LCI
+Logarithmic Scaling
+Logarithmic Percentage
+Long-Legged Doji
+Low Pole
+LP
+MACD
+Moving Average Convergence
+Moving Average Divergence
+Market Capitalization
+Market Order
+Marubozu
+McClellan Oscillator
+McClellan Summation Index
+Momentum
+Money Flow Index
+MFI
+Morning Doji Star
+Moving Average
+MA
+Multicollinearity
+NASDAQ
+100 Index
+Composite Index
+Negative Directional Indicator
+DI
+Net Asset Value
+NAV
+Net New Highs
+New Highs
+New Lows
+NYSE
+Offer
+On Balance Volume
+OBV
+Open Interest
+Oscillator
+Over The Counter
+OTC
+Overbought
+Oversold
+Outside Day
+Paper Trade
+Pennant
+Penny Stock
+Percent Investment Advisors Bullish
+Percentage Price Oscillator
+PPO
+Percentage Volume Oscillator
+PVO
+Piercing Line
+Pivot Point
+Chart
+Buy Signal
+Price Objective
+PSell Signal
+Position Trading
+Positive Directional Indicator
+PPO
+Precious Metals Commodities Index
+PMCI
+Price By Volume
+Price Channels
+Price Momentum Oscillator
+PMO
+Price Objective
+Price Oscillator
+PO
+Price Patterns
+Price Relative
+Earnings Ratio
+Proxy
+Put Option
+Call Ratio
+Put Ratio
+R Squared
+Range
+Rate-of-Change
+Ratio Analysis
+Reaction High
+Reaction Low
+Reaction Rally
+Rectangle
+Relative Strength Index
+RSI
+Resistance
+Retracement
+Reversal - Inside Day
+Reversal - Outside Day
+Reversal Amount
+Reversal Pattern
+Reversal Spike
+Reverse Stock Split
+Reward-to-Risk Ratio
+Rising Three Methods
+Rising Wedge
+Rounding Bottom
+RSI
+Runaway Gap
+Russell 2000
+100 Index
+Mid Cap
+400 Index 
+Small Cap
+600 Index
+Scan
+Sector
+Securities and Exchange Commission
+SEC
+Selling Climax
+Semi-Logarithmic
+Sentiment Indicators
+Shakeout
+Shooting Star
+Short Selling
+Signal Line
+Simple Average
+Size
+Slope
+SPDR
+Spinning Top
+Split
+Spread
+Spring
+Standard Deviation
+Stochastic Oscillator
+StochRSI
+200-day Moving Average
+50-day Moving Average
+Stop Loss Order
+Stop-And-Reversal Indicator
+Summation Index
+Support
+Swing Charting
+Symmetrical Triangle
+T-Bill
+TED Spread
+Three Black Crows
+Three White Soldiers
+Top-Down Approach
+Topping
+Trailing Stop
+Treasury Bill
+Treasury Bond
+Treasury Note
+Trend
+Trendline
+Trendlines
+Triangles
+Trigger Line
+TRIN
+Triple Bottom
+Triple Top
+TRIX
+Typical Price
+Ultimate Oscillator
+Up Trendline
+Upside Gap Two Crows
+Upside Tasuki Gap
+Upthrust
+US Dollar Index
+USD
+Value Line
+Composite Average
+VLACA
+Visual Analysis
+Volatility
+Volatility Index
+Volume
+Volume Oscillator
+Washout Day
+Wedge
+Weekly Reversal
+Weighted Average
+Whipsaw
+Wilder, Welles
+Williams
+Wilshire
+5000 Total Market Index
+WLSH
+Yield Curve

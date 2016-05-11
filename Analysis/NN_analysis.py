@@ -5,6 +5,9 @@ import csv
 import dow_jones
 import numpy as np
 import datetime
+from pybrain.datasets import SupervisedDataSet
+from pybrain.supervised.trainers import BackpropTrainer
+from pybrain.tools.shortcuts import buildNetwork
 # This file contains feature of word vector.
 # Every dimension correspond to the frequency of word times sentiments defined in the sentimental dictionary.
 # Make sure you have run preprocessing.py, dictionary_separator.py before this analysis.
@@ -65,14 +68,18 @@ def create_features(bag, sentiments, word_vector):
     for date in bag:
         features[date] = []
         print('processing '+date)
+        sum=0.
         for word in word_vector:
             if word in bag[date]:
-                features[date].append(bag[date][word]['count']*sentiments[word]['sentiment'])
+                features[date].append(bag[date][word]['count'])
+                sum+=bag[date][word]['count']
             else:
                 features[date].append(0)
+        for i in range(0,len(features[date])):
+            features[date][i]/=sum
     return features
 
-def svm_analysis(features,labels):
+def NN_analysis(features,labels):
     #training svm
     print('start to train SVM')
     print('get dates')
@@ -93,18 +100,25 @@ def svm_analysis(features,labels):
         #print(list(feature))
         x.append(feature)
         y.append(labels[time_stamp])
-    print('svm training starts')
+    print('NN training starts')
     x = np.array(x)
     #x.reshape(-1,1)
-    clf = svm.SVC()
-    clf.fit(x, y)
+    ds = SupervisedDataSet(len(x[0]), 1)
+    ds.setField('input', x)
+    y=np.array(y).reshape( -1, 1 )
+    print(y)
+    ds.setField('target', y)
+    net = buildNetwork(len(x[0]), 500, 1, bias=True)
+    trainer = BackpropTrainer(net, ds)
+    trainer.trainUntilConvergence(verbose=True, validationProportion=0.15, maxEpochs=10000, continueEpochs=10)
     print ("fit finished")
     #training_indices=np.random.choice(len(dates), len(dates)/10)
-    for date in dates[1:62]:
-        time_stamp=datetime.datetime.strftime(date, "%Y-%m-%d")
-        test=[features[time_stamp]]
-        #print(test)
-        print(str(labels[time_stamp])+','+str(clf.predict(test)))
+    count=0
+    for i in range(0,len(x)):
+        print("predict={0},actual={1}".format(net.activate(x[i]), y[i]))
+        if net.activate(x[i]) * y[i] > 0:
+            count += 1
+    print("accuracy={0}".format(float(count) / len(labels)))
 
 if __name__ == "__main__":
     #read in pre-processed features
@@ -126,6 +140,6 @@ if __name__ == "__main__":
     features=create_features(bag,sentiments,word_vector)
     print('word_vector size is '+str(len(word_vector)))
     #read in dow_jones indices
-    labels=dow_jones.label_nominal(dow_jones.index_changing_rate(dow_jones.read_indices('YAHOO-INDEX_DJI.csv')))
-    #go into svm
-    svm_analysis(features,labels)
+    labels=dow_jones.index_changing_rate(dow_jones.read_indices('YAHOO-INDEX_DJI.csv'))
+    #start training
+    NN_analysis(features,labels)
