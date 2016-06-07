@@ -1,0 +1,960 @@
+carlcarrie	726247081564753920	2016-04-30T03:09:31	Paper on generalized integer programming  
+carlcarrie	726180985663053824	2016-04-29T22:46:53	Intraday FX trading USD/EUR examined from an empirical market dynamic perspective  • paper 
+carlcarrie	726179038910357504	2016-04-29T22:39:09	Predicting volatility spillover into Japanese equity markets paper from related after markets trading  
+carlcarrie	726177070791987201	2016-04-29T22:31:20	Predicting the bid/ask transaction spread using a new closed form estimation technique - Paper  
+carlcarrie	726174957726736384	2016-04-29T22:22:56	Market microstructure paper uses Bhattacharyya distance to reduce covariance dimensionality - Paper &amp; R code rstats 
+carlcarrie	726082552713326592	2016-04-29T16:15:45	Hmmm the new mathematical realities of extinction | in TheAtlantic 
+carlcarrie	726080867903365120	2016-04-29T16:09:03	FT on the new cognitive shift around Banks perceive targeting 10 percent ROE  
+carlcarrie	726077659411812353	2016-04-29T15:56:18	Machines avoiding repeating human error and bias - article on machine learning  
+carlcarrie	726073257401667584	2016-04-29T15:38:49	billtannenhan but overall - good progress on what could become a really useful app one day
+carlcarrie	726073091705737216	2016-04-29T15:38:09	billtannenhan identifying relevant streams through followed Twitter peeps would also be useful -
+carlcarrie	726072813791121408	2016-04-29T15:37:03	billtannenhan using NLG is great - but need ml technology to identify relevant stories otherwise there is just too much to sift through
+carlcarrie	726072474887184385	2016-04-29T15:35:42	billtannenhan downloaded Zolt - Good easy to use UI, good natural language generation - main quibble - not enough news personalization
+carlcarrie	726071799306436608	2016-04-29T15:33:01	Unmasking ZeroHedge - Tyler Durden revealed to be 3 men: Ivandjiiski, Backshall and Lokey  
+carlcarrie	726069114419183616	2016-04-29T15:22:21	FT - US renews push for monitoring equity market - Consolidated Audit Trail - BigData 
+carlcarrie	726068214606651394	2016-04-29T15:18:46	US money market fund reform - FT article 
+carlcarrie	726065834817265664	2016-04-29T15:09:19	Blockchain opportunity cost perspective 
+carlcarrie	726058242326024192	2016-04-29T14:39:09	Namibia and other equity frontier markets present liquidity analysis challenges - new metric proposed in this paper 
+carlcarrie	726056624704643076	2016-04-29T14:32:43	Factor model for Asia markets adjusts for differences between developed and frontier markers - eg frozen liquidity 
+carlcarrie	726055037059911681	2016-04-29T14:26:24	Paper on information asymmetry, deception, liquidity, fragmentation and equity microstructure - historical survey 
+carlcarrie	725871467104186368	2016-04-29T02:16:58	New Presentation on MiFID II and Cross Border Banking 
+carlcarrie	725867546101071873	2016-04-29T02:01:23	Cybersecurity and vulnerability of our Satellite system in space - in WIRED 
+carlcarrie	725865732521734146	2016-04-29T01:54:11	OpenGamma and Clearmatics demo blockchain Distributed Automation Technology applied to asset valuation... 
+carlcarrie	725660356161474560	2016-04-28T12:18:05	Paper on trading in size (blocks, workups, matches) and impact on price formation mechanisms across multiple asset classes
+carlcarrie	725659835174424576	2016-04-28T12:16:01	Machine learning applied to limit order books - lob paper - spatial neural networks, cross-entropy discussed 
+carlcarrie	725658002108354560	2016-04-28T12:08:44	how social media is reshaping financial services: driving efficiencies &amp; product innovation - World Economic Forum 
+carlcarrie	725655906038353920	2016-04-28T12:00:24	Iosco Cybersecurity report - financial markets 
+carlcarrie	725650314649546752	2016-04-28T11:38:11	Price efficiency of markets in conjunction with high frequency trading hft - paper 
+carlcarrie	725526438590341120	2016-04-28T03:25:57	The predictive powers of realized skewness and kurtosis moments of asset returns - paper 
+carlcarrie	725503934186577920	2016-04-28T01:56:31	FaceNet - facial recognition using more scalable and compact Euclidian distance algorithm   
+carlcarrie	725501595891425281	2016-04-28T01:47:14	Paper on the relationship between high returns and trading intensity as a result of asymmetric information   
+carlcarrie	725296401249386496	2016-04-27T12:11:52	Sentosa – An Simple Open Source High Frequency Automatic Algorithmic Trading System in R rstats 
+carlcarrie	725294995444514817	2016-04-27T12:06:16	quantingaway this zerohedge article chronicles typical momentum plays that didn't work in q1  
+carlcarrie	725294467591340032	2016-04-27T12:04:11	quantingaway ... I will scan for something 1Qish but the best original paper on the subject -- oldie but goodie is  
+carlcarrie	725293617317855232	2016-04-27T12:00:48	quantingaway I do vaguely remember a few stories - these momentum crashes happen quite often in a lifetime   
+carlcarrie	724894945312673792	2016-04-26T09:36:37	Article on death spiral characteristics of a few global investment banks amidst structural decline in trading 
+carlcarrie	724893689101819904	2016-04-26T09:31:38	Ode to the The Stanford Encyclopedia of Philosophy 
+carlcarrie	724890719215861760	2016-04-26T09:19:49	Dissertation on a Dynamic Factor Model of Contagion across major markets  
+carlcarrie	724890177135632384	2016-04-26T09:17:40	Lizard report on common factor performance across developed and emerging markets  
+carlcarrie	724553393663053824	2016-04-25T10:59:25	Classification based deep neural networks for finance     paper
+carlcarrie	724552750244220928	2016-04-25T10:56:51	A Deep Learning ebook   
+carlcarrie	724385090713845761	2016-04-24T23:50:38	Spectrograms and subharmonic analysis of Freddie Mercury’s vocal acoustic flexibility | paper 
+carlcarrie	724252393131638785	2016-04-24T15:03:21	Swift code, Bank’s lack of firewall and $10 switches lead to hacker stealing $81 million cyber-heist | NYPost 
+carlcarrie	724251547702550528	2016-04-24T14:59:59	NYPost - "Bank jobs disappear as Banks go Digital" 
+carlcarrie	724234519260332033	2016-04-24T13:52:19	Excel interactive tile dataviz  
+carlcarrie	724233181411565569	2016-04-24T13:47:00	Capitalizing on external fintech innovation - no choose or right choice for Banks? 
+carlcarrie	724232594515222528	2016-04-24T13:44:40	Agree wholeheartedly BUT   It does not mean you should not try or no company would ever innovate after the 1st time 
+carlcarrie	724224508752744448	2016-04-24T13:12:32	The Snowden effect on Twitter 
+carlcarrie	724224046431395840	2016-04-24T13:10:42	Article: Befriending your AI powered chat bot? 
+carlcarrie	724205951826444289	2016-04-24T11:58:48	Morgan Stanley Investment Research on net stable funding ratio and impact of Basel III on liquidity and banking  
+carlcarrie	724198746154737666	2016-04-24T11:30:10	Paper on applying deep learning techniques on financial time series ml 
+carlcarrie	724198164497108992	2016-04-24T11:27:52	Statistical arbitrage of S&amp;P 500 index returns using Deep Neural networks, gradient random forest trees ml • paper 
+carlcarrie	724065870855680001	2016-04-24T02:42:10	AI and Google's future GOOG 
+carlcarrie	724042027902611456	2016-04-24T01:07:26	Robots that adapt to human behavior  
+carlcarrie	724041793587806208	2016-04-24T01:06:30	NYT on looming dystopian dark age  
+carlcarrie	723980459420557312	2016-04-23T21:02:47	Paper introduces a novel liquidity indicator for corporate bonds 
+carlcarrie	723926195910414338	2016-04-23T17:27:09	rstats 
+carlcarrie	723910572882952192	2016-04-23T16:25:04	How GPS devices may be re-wiring our Brains... 
+carlcarrie	723902673695682560	2016-04-23T15:53:41	SVM ml for analyzing high frequency  trading returns    hft paper
+carlcarrie	723889154627670016	2016-04-23T14:59:58	Common volatility factor structure     Paper
+carlcarrie	723848081305944065	2016-04-23T12:16:45	Google's DeepMind founder and uber Artificial intelligence guru on our AI inspired future  
+carlcarrie	723846385536253953	2016-04-23T12:10:01	How blockchain will revolutionise proof - good article 
+carlcarrie	723845670424199169	2016-04-23T12:07:10	When hacking legally pays 
+carlcarrie	723845554921451520	2016-04-23T12:06:43	Detailed hacking FaceBook exploit and in the process, uncovering a Backdoor script and telling about it - FB 
+carlcarrie	723844836189700096	2016-04-23T12:03:51	Edward Snowden: The Internet Is Broken | 10K documents released  
+carlcarrie	723837436850262016	2016-04-23T11:34:27	Optimal trade execution paper bases algorithm on continuos stochastic control and extends Almgren framework 
+carlcarrie	723526991727702017	2016-04-22T15:00:51	Presentation on machine learning on intra-day trading data ml 
+carlcarrie	723526107744636928	2016-04-22T14:57:21	Active vs Passive - a perspective    
+carlcarrie	723308316261273601	2016-04-22T00:31:55	Ray Kurzweil On Three Technologies Will Define Our Future 
+carlcarrie	723302200802443269	2016-04-22T00:07:37	What Are Factor Model ETFs? 
+carlcarrie	723287668017258496	2016-04-21T23:09:52	When capital prefers venture  over public markets - why? Flow characteristics, heading and lifecycle... | TechCrunch 
+carlcarrie	723258970664738816	2016-04-21T21:15:50	High touch and low touch is consolidating to a degree - report by Greenwich profiled 
+carlcarrie	723227597837094912	2016-04-21T19:11:10	ITG paper on intraday liquidity, volatility and spread attributes TCA 
+carlcarrie	723222907476955138	2016-04-21T18:52:32	FT on systematic investing and the algorithms that may be both herding and exacerbating volatility - good read  
+carlcarrie	723221315277209600	2016-04-21T18:46:13	Interesting paper on Spectral Portfolio Theory and return, alpha, beta and covariance decomposition in spectral form 
+carlcarrie	722792155110977541	2016-04-20T14:20:53	The "ethos" behind hyper-automation and applied data science in trading is discussed in this blog  
+carlcarrie	722741543254257665	2016-04-20T10:59:46	New 856 page Ebook on Data Science - regressions, splines, machine learning and more...   
+carlcarrie	722740820143640576	2016-04-20T10:56:54	4 factor model includes Gross Profitability as an investment factor and is applied to CDAX stocks in Germany - paper 
+carlcarrie	722740147679326208	2016-04-20T10:54:13	Love my Echo - and here is the Real Story of How Amazon Created the Echo  
+carlcarrie	722468789510631424	2016-04-19T16:55:56	Liquidity as a factor to generate returns - Bloomberg article Amihud 
+carlcarrie	722468210814099456	2016-04-19T16:53:38	The impact of Dodd-Frank Act and Basel 3 on Liquidity 
+carlcarrie	722467682721865728	2016-04-19T16:51:33	Paper on Liquidity - measurement, systematic risks, Betas, and serial correlation (applied to Finnish markets) 
+carlcarrie	722423172763643904	2016-04-19T13:54:41	Pre/open trades and price and liquidity dynamics pre-open at the TSE (Tokyo) paper 
+carlcarrie	722378586699796480	2016-04-19T10:57:30	Blockchain as a platform for Digitizations report by E&amp;Y    
+carlcarrie	722014172062605312	2016-04-18T10:49:27	Economics of Principal vs Agency Trading   
+carlcarrie	721913057681752065	2016-04-18T04:07:40	Artificial Intelligence technology by Reactive reads Japanese handwriting without any programmer’s language skill 
+carlcarrie	721881591061037056	2016-04-18T02:02:37	Twitter as a productivity augmentation tool ... 
+carlcarrie	721880823855714304	2016-04-18T01:59:34	Touché  
+carlcarrie	721871221479096322	2016-04-18T01:21:25	Several essays on algorithmic trading - market structure and efficiency   
+carlcarrie	721853929965883392	2016-04-18T00:12:42	Nomura and Russell presentations on Smart Beta and Factor Investing   
+carlcarrie	721852357827543040	2016-04-18T00:06:28	SSGA on Factor Investing based disruption - report 
+carlcarrie	721829466285150208	2016-04-17T22:35:30	Ultra high frequency trading metrics and analysis of trading and market quality  hft Paper  
+carlcarrie	721827149129347072	2016-04-17T22:26:17	Machine learning, optimization and algorithmic optimization using a massively parallel GPGPU architecture ml 
+carlcarrie	721826164600397825	2016-04-17T22:22:23	Market Microstructure of European Equity Exchanges - tick by tick analysis of passive/aggressive behavior of orders 
+carlcarrie	721660193919102976	2016-04-17T11:22:52	Paper on estimating arbitrage activity in beta and momentum strategies by tweaking Lou and Polk's Comom and Cobar  
+carlcarrie	721302120356519937	2016-04-16T11:40:01	Baseball and Beta distributions in R - rstats lgm 
+carlcarrie	721301340799037444	2016-04-16T11:36:55	When a pie chart is just not good enough - R rstats blog post  
+carlcarrie	721164531528024064	2016-04-16T02:33:17	Microeconomics of bank equities trading businesses and the importance of scale 
+carlcarrie	720934012341063680	2016-04-15T11:17:17	Goldman's cost strategy pivot and head count impact article 
+carlcarrie	720933581472796672	2016-04-15T11:15:34	10x10kcuba and Cuba's emerging tech opportunities - in TechCrunch 
+carlcarrie	720932901399961601	2016-04-15T11:12:52	Accenture report on FinTech investments and trends   
+carlcarrie	720930449351131136	2016-04-15T11:03:08	Janus' (not PIMCO's) Bill Gross blog post on Zeno's Paradox and Fixed income investments  
+carlcarrie	720914366669987840	2016-04-15T09:59:13	Paper models financial markets in Kolmogorov algebraic topologies of time series   
+carlcarrie	720906535149387776	2016-04-15T09:28:06	Mathematical optimization of your Fantasy Football Draft • paper NFL Math 
+carlcarrie	720900728739532801	2016-04-15T09:05:02	Deep learning applied to statistical arbitrage • paper 
+carlcarrie	720804016830226432	2016-04-15T02:40:44	Chatbot gold rush? 
+carlcarrie	720572993714417664	2016-04-14T11:22:43	Derivative pricing based on post financial crisis inspired xVA modeling • paper 
+carlcarrie	720572445376278528	2016-04-14T11:20:33	Financial Weapons of War • Law Review Paper 
+carlcarrie	720547161465831424	2016-04-14T09:40:05	FB Chat Bot Revolution 
+carlcarrie	720546313281081344	2016-04-14T09:36:42	Fake Merger Filing? 
+carlcarrie	720544056980455424	2016-04-14T09:27:44	Machine learning applied to classifying and predicting mid-prices in order books ml lob  
+carlcarrie	720542162841137152	2016-04-14T09:20:13	Estimating factors and factor structure on intra day data using a PCA model • paper 
+carlcarrie	720435346899673088	2016-04-14T02:15:46	Open sourcing hardware and software as a rational strategy for world dominance in VR and across the Web   
+carlcarrie	720415569162477568	2016-04-14T00:57:11	Paper on impact of stock loan finance on corporate behavior and stock liquidity conditions 
+carlcarrie	719840777854128128	2016-04-12T10:53:10	Blog post - machine learning, indifference curves and microeconomics ml 
+carlcarrie	719837370972049408	2016-04-12T10:39:37	FastCompany on neural net powered AI 
+carlcarrie	719726372961316864	2016-04-12T03:18:33	Creatives wanted to accelerate anthropomorphic conversational chatty robots   
+carlcarrie	719705151544639489	2016-04-12T01:54:14	Impact of Basel III and Dodd Frank on market liquidity post financial-crisis • paper 
+carlcarrie	719703120503300097	2016-04-12T01:46:10	How will Blockchain change economics, diffusion and social hierarchies in Banking? • paper 
+carlcarrie	719700581212942337	2016-04-12T01:36:04	SharpeR • R package rstats 
+carlcarrie	719699615910621184	2016-04-12T01:32:14	Congressional Research report: high frequency trading hft 
+carlcarrie	719697040138178563	2016-04-12T01:22:00	Updated paper on dark pools - taxonomy, dynamic interrelationship model 
+carlcarrie	719460910327156736	2016-04-11T09:43:42	ATS Stats T1 wk 21 Mar  1 UBS 15.1% 366M 2 IEX 3 CS 4 DB 5 MS 6 BRC 7 JPM 8 ML 9 LVL 10 GS  fintech hft 
+carlcarrie	719207830457331712	2016-04-10T16:58:03	Mathics an open source alternative to Mathematica... 
+carlcarrie	719201962345041923	2016-04-10T16:34:44	IoT data ownership battles and a NYC startup called Stae | in Fortune 
+carlcarrie	719198773478617089	2016-04-10T16:22:04	Microsoft releases their Chat bot framework as C# open source     Tay
+carlcarrie	719158001328852992	2016-04-10T13:40:03	Peak America? 
+carlcarrie	719011515089739776	2016-04-10T03:57:58	Chat Bots!  | in The Economist 
+carlcarrie	718968099496726529	2016-04-10T01:05:27	Quantum - augmented Machine Learning paper ml 
+carlcarrie	718809391701630977	2016-04-09T14:34:48	Numericable-SFR raises $5.2bn in US debt market as biggest Junk bond deal ever | in FT 
+carlcarrie	718764376015126528	2016-04-09T11:35:55	Article on IBM Watson and recent applications of AI • 
+carlcarrie	718763499002966016	2016-04-09T11:32:26	When Is the Singularity? - NYT  AI 
+carlcarrie	718763093434699776	2016-04-09T11:30:50	PCA Analysis of FX Market Data to classify abnormal market data •  
+carlcarrie	718656707233259521	2016-04-09T04:28:05	On those FB VR and Chat Bot innovations...  
+carlcarrie	718656051877429248	2016-04-09T04:25:29	Machine Learning to model limit order books •   paper lob ml  
+carlcarrie	718655358470877184	2016-04-09T04:22:44	"Imperial Ambitions" for Zuckenberg?  VR, chat bots and other innovations that FB are making  In TheEconomist 
+carlcarrie	718634565934399489	2016-04-09T03:00:06	Paper on intra-day, high frequency methods of volatility and tail-risk metrics 
+carlcarrie	718633317235560448	2016-04-09T02:55:09	TheAtlantic on Lincos, the Math-Based Language to communicate with extraterrestrials 
+carlcarrie	718212657065693184	2016-04-07T23:03:35	How to Think Exponentially... 
+carlcarrie	718211878485389312	2016-04-07T23:00:30	FCA targets fintech in its regulatory oversight Plan for 2016/2017 
+carlcarrie	718037761845026816	2016-04-07T11:28:37	Market liquidity and the relationship with time varying Crash Risk - paper 
+carlcarrie	717916217797976064	2016-04-07T03:25:39	Fintech’s $138 billion opportunity | discussed in TechCrunch 
+carlcarrie	717914374376185856	2016-04-07T03:18:19	Orbeus, a visual recognition AI startup just acquired by Amazon... 
+carlcarrie	717852100382826496	2016-04-06T23:10:52	Tick value effects at microscopic and macroscopic regimes analyzed in this statistical limit order book paper • lob 
+carlcarrie	717851499917942784	2016-04-06T23:08:29	GliaStudio is an AI startup that generates streaming videos out of articles • NLP VLP 
+carlcarrie	717850746591567872	2016-04-06T23:05:29	Article on FinTech prediction firm Predata using novel algorithmic and data consolidation methods 
+carlcarrie	717849253595521024	2016-04-06T22:59:33	The link between Twitter Sentiment Spikes and Product Sales is explored in this paper -  
+carlcarrie	717732254680760320	2016-04-06T15:14:38	The U.K. regulators and Barclays are linked to a Retail Blockchain Product called Circle in this article  
+carlcarrie	717728849463795713	2016-04-06T15:01:07	Tax inversions: what the new rules mean for multinationals | in FT 
+carlcarrie	717662417052897280	2016-04-06T10:37:08	George Johnson re-evaluates his former position on Go, human minds and AlphaGo 
+carlcarrie	717305761605500928	2016-04-05T10:59:55	Stanford lecture &amp; presentation on virtual reality - an overview  
+carlcarrie	717272468407226368	2016-04-05T08:47:37	"Early stage FinTech investors require depth of industry knowledge and sector insights on oppty": parkparadigm anthemis Money2020Europe
+carlcarrie	717299872769159168	2016-04-05T10:36:31	Limit order book model with a Queue-reactive attributes and a closed form formula dynamic lob • paper 
+carlcarrie	717299299500081152	2016-04-05T10:34:14	Tweaking classical pairs trading • paper 
+carlcarrie	717298273749450752	2016-04-05T10:30:09	Natural Language Processing - for the curious but not for academics or computer science cognoscenti  
+carlcarrie	717277101137727488	2016-04-05T09:06:01	Bitcoin exists in virtual cyberspace as well as in physical geographies according to this paper 
+carlcarrie	717139003397509120	2016-04-04T23:57:16	kcbighuge many thanks - your comments add fuel to the effort
+carlcarrie	716943392467496960	2016-04-04T10:59:59	Good broad survey of Deep Learning methods and accomplishments features in this presentation  
+carlcarrie	716942959804071936	2016-04-04T10:58:16	Introduction to Machine Learning Ebook • ml 
+carlcarrie	716941643253989376	2016-04-04T10:53:02	KPMG report on fintech funding trends and impact on industry transformation 
+carlcarrie	716940322194997248	2016-04-04T10:47:47	Credit Suisse and the Signac AI partnership with Palantir to identify rogue trading • IS article  
+carlcarrie	716939819553800192	2016-04-04T10:45:47	What are the Panama Papers? | in TheGuardian  
+carlcarrie	716639862569492481	2016-04-03T14:53:52	Whazzup NY, NY has the x-factor and this old Sax Subway Showdown proves it...  
+carlcarrie	716609584429981696	2016-04-03T12:53:33	A movie about the unparalleled magical mathematical mind of Ramanujan   
+carlcarrie	716606677290717184	2016-04-03T12:42:00	quantingaway more CRM harvesting, more sentience &amp; KYC, more beta/alpha science, more distributed steam IQ, not a quick FIX pun intended!
+carlcarrie	716606146212143105	2016-04-03T12:39:53	quantingaway ... Just one step in the (r)evolution of *most* trading becoming a commoditized service ... But the client facing side needs..
+carlcarrie	716605731693326336	2016-04-03T12:38:14	quantingaway AI, quant and algo led dislocation happens faster with trading than with the diverse needs client handling - CRD desks are...
+carlcarrie	716604608492265472	2016-04-03T12:33:47	quantingaway the race is on for the tech empowered and over for the Latents, Laggards and Luddites
+carlcarrie	716604276819304448	2016-04-03T12:32:28	quantingaway machines (aka AI)  haven't involved that far that fast and a sales trader who is empowered with a good machine is King!
+carlcarrie	716603918357282816	2016-04-03T12:31:02	quantingaway ... Definitely and they have a powerful focus on functional and appealing design to drive adoption 
+carlcarrie	716603251597119488	2016-04-03T12:28:23	quantingaway ... By then again - that's just ME thinking, feeling and emoting aloud and does anyone really know what will happen?
+carlcarrie	716602865872211968	2016-04-03T12:26:51	quantingaway ... That will force reshaping of financial businesses at sell side and increased tech service models w/ lower human capital
+carlcarrie	716602466536669185	2016-04-03T12:25:16	quantingaway ... But process will accelerate this year and next even as valuations of FinTech Unicorns wane and more mainstreaming occurs
+carlcarrie	716602026277343232	2016-04-03T12:23:31	quantingaway algo and quantified trading trends coupled with tech stack innovations will accelerate human capital dislocation &amp; shifts
+carlcarrie	716601427871862784	2016-04-03T12:21:08	quantingaway ... The impact on institutional investment finance and trading has regulatory buffers will take a bit longer to complete...
+carlcarrie	716601136250286080	2016-04-03T12:19:59	quantingaway - the impact of FinTech and innovation on payments, retail and consumer finance is acute and near term whereas...
+carlcarrie	716599713009639424	2016-04-03T12:14:20	Pedantic or not, Personality apparently Influences Reactions to Written Errors in Email Messages • paper 
+carlcarrie	716598912694493184	2016-04-03T12:11:09	Or AT LEAST read this FT article     But the Citi report is a MUST read if you are in Finance or FinTech
+carlcarrie	716598026568118272	2016-04-03T12:07:37	Goldman's research report on Virtual Reality - another really good read today.   
+carlcarrie	716595396856922113	2016-04-03T11:57:10	Nine future scenarios arising from the growing use of robots and AI analyzed  
+carlcarrie	716594780189364224	2016-04-03T11:54:43	. And if the report is too long too read, then AT LEAST read this Business Insider summary   
+carlcarrie	716587876218179585	2016-04-03T11:27:17	Must weekend read   Citigroup paper on digital disruption 
+carlcarrie	716587343508086784	2016-04-03T11:25:10	Who am I if not an autocomplete in Google?  In TheGuardian   
+carlcarrie	716583714738855937	2016-04-03T11:10:45	Google's (aka Alphabet's) strategy around Artificial Intelligence... 
+carlcarrie	716582303485571072	2016-04-03T11:05:09	For math geek wannabes, aficionados and others who want an intuitive understanding of principles in Calculus • paper 
+carlcarrie	716581275121876993	2016-04-03T11:01:04	New column on Impossibly delicious puzzles | in FiveThirtyEight | theRiddler 
+carlcarrie	716580324252262400	2016-04-03T10:57:17	Paper on trading venue commonality of stock liquidity • transatlantic commonality explored in this paper 
+carlcarrie	716579714333286400	2016-04-03T10:54:51	SnappyData, supports OLTP, OLAP, and stream analytics in a single integrated solution that works with Spark • paper 
+carlcarrie	716578801770213376	2016-04-03T10:51:14	Deep Spiking Neural Net- works (SNNs) profiled and their performance characteristics are profiled in this paper 
+carlcarrie	716578224235495424	2016-04-03T10:48:56	A computer language for high performance trading  is discussed in this Presentation on Pony 
+carlcarrie	716577150493728769	2016-04-03T10:44:40	Long tail stock returns follow Power Law distributions that are explained by Time varying volatility models • paper 
+carlcarrie	716576309040779264	2016-04-03T10:41:20	Paper on a drop in replacement JVM that is optimized for distributed not monolithic systems - aka Taurus 
+carlcarrie	716574419859206144	2016-04-03T10:33:49	Can't drive, doesn't want to work - the story of an insanely good software .... 
+carlcarrie	716573339838447618	2016-04-03T10:29:32	AI talent scarcity and impact on research at Universities vs firms like Google  | in The Economist 
+carlcarrie	716458311869140994	2016-04-03T02:52:27	Paper by Andrew Lo on Hedge Funds (2015) 
+carlcarrie	716451745480773632	2016-04-03T02:26:21	Presentation on sentiment, factor building and alpha 
+carlcarrie	716451090842193920	2016-04-03T02:23:45	Econometric Factor Model - paper 
+carlcarrie	716289134965481472	2016-04-02T15:40:12	Paper • analysis of foreign investor flows in stock market in India and impact on volatility and other dynamics 
+carlcarrie	716265331346554880	2016-04-02T14:05:37	Oculus 'Always On' Services and Data Privacy - VR fb 
+carlcarrie	716256410607226884	2016-04-02T13:30:10	New Stock liquidity measure compared against Amihud and other metrics • paper 
+carlcarrie	716254565969043457	2016-04-02T13:22:50	The mathematical genealogy project powered by machine learning -  evolution of math • paper   
+carlcarrie	716251752224399363	2016-04-02T13:11:39	Deep Learning on Spark 
+carlcarrie	716235261231951872	2016-04-02T12:06:07	Virtual Reality Is Reshaping Industries - article | in Fast Company 
+carlcarrie	716232820214087680	2016-04-02T11:56:25	Cognition redux - unshackling the mind to be more creative - paper 
+carlcarrie	716081822841638912	2016-04-02T01:56:25	Shifting supervisory responsibilities for compliance officers at investment banks • Deloitte Report  
+carlcarrie	716081045670653953	2016-04-02T01:53:20	Noise-robust estimators, Hausman tests, intraday trading and market structure noise •paper 
+carlcarrie	715895751725883392	2016-04-01T13:37:02	Chat bots, their artificial intelligence and a corporate strategy based on their ascendancy   
+carlcarrie	715846959458873344	2016-04-01T10:23:09	Airbnb open sources caravel: Caravel is a visual data exploration platform written in Python 
+carlcarrie	715845762320633859	2016-04-01T10:18:24	Block chain database paper • distributed BigchainDB  
+carlcarrie	715845455268212736	2016-04-01T10:17:10	Stock prediction by harvesting data in financial statements using NLP ml and Python 
+carlcarrie	715845135054073856	2016-04-01T10:15:54	Paper on Twitter crowds and  FOMC sentiment • paper NLP ml 
+carlcarrie	715844491173826561	2016-04-01T10:13:21	OCC report on derivatives trading  
+carlcarrie	715843272355266561	2016-04-01T10:08:30	EDHEC paper in Journal of Index Investing on Smart Beta   
+carlcarrie	715840600294162432	2016-04-01T09:57:53	Option implied prices &amp; other price discovery in US &amp; AUS stock market /• dissertation  
+carlcarrie	715838657454804992	2016-04-01T09:50:10	Missing warrant canary at Reddit leads to NSL speculation  
+carlcarrie	715666791914143744	2016-03-31T22:27:14	When bigger is better in high frequency trading...  
+carlcarrie	715493533713567748	2016-03-31T10:58:46	FT on FinTech disruption and correlated impact on jobs in Banking and Consumer Finance  
+carlcarrie	715470982618550273	2016-03-31T09:29:09	Paper on liquidity order imbalance for different flow channels (eg program trading and cash equity)  
+carlcarrie	715362496689938438	2016-03-31T02:18:04	Scoring-as-a-Service To Operationalize Algorithms 
+carlcarrie	715360303693897728	2016-03-31T02:09:21	Why the home run inflection in baseball?  
+carlcarrie	715358718569873408	2016-03-31T02:03:03	edward snowden noam chomsky  glenn greenwald Perspectives on data privacy: 
+carlcarrie	715107745524015104	2016-03-30T09:25:47	Paper on leveraging Twitter sentiment &amp; machine learning for stock market prediction in a frontier market ml 
+carlcarrie	714983113986846720	2016-03-30T01:10:32	Hmmm  I grew up in the South Bronx, so these two NYT articles piqued my interest    
+carlcarrie	714627527474589697	2016-03-29T01:37:34	US and Global Models Alpha in securities finance report  
+carlcarrie	714588853751955456	2016-03-28T23:03:53	AAPL investing mobile 
+carlcarrie	714622076758437888	2016-03-29T01:15:54	Hey AppleSupport - time for a statement on ios93 link and crash problems; in the meantime Puffin &amp; Maxthon cloud browsers are workarounds
+carlcarrie	714262545289322499	2016-03-28T01:27:15	270 page Presentation on data structures and algorithms - basic to advanced 
+carlcarrie	714257429446402049	2016-03-28T01:06:56	JPMorgan Asset Management  Report on "divergent opportunities" 
+carlcarrie	714256159398559744	2016-03-28T01:01:53	FTSE Country Classification    
+carlcarrie	714255331203936256	2016-03-28T00:58:35	Open Economy Macroeconomics - an open sourced ebook    
+carlcarrie	714253990486282243	2016-03-28T00:53:16	Noam Chomsky syntactical sugar and the "insufficient, improbable and preposterous" | in The Economist 
+carlcarrie	714130292726956032	2016-03-27T16:41:44	Reflection-removing FFT algorithm can filter those distortions from pictures | MIT 
+carlcarrie	714084858763612160	2016-03-27T13:41:12	Strategies for countries to catch up digitally   
+carlcarrie	714080582343467008	2016-03-27T13:24:12	Paper on a pairwise stock price Convergence/Divergence Indicator using intraday correlations 
+carlcarrie	714072823476695040	2016-03-27T12:53:22	Paper incorporates trading volume into improving conditional risk forecasts of stock markets  
+carlcarrie	713923974749691905	2016-03-27T03:01:54	The cycle may be ending for advantaged companies of scale and hyper profits • TheEconomist   
+carlcarrie	713922672330219520	2016-03-27T02:56:43	AI based long-term investment strategy vs S&amp;P 500 index and Us Government &amp; Bond Index• paper 
+carlcarrie	713920706766049281	2016-03-27T02:48:55	Closed form model for trading in noisy markets - correlation information structure • paper 
+carlcarrie	713776115312103425	2016-03-26T17:14:21	McKinsey report on global flows and interconnectedness %IoT    
+carlcarrie	713771891115368448	2016-03-26T16:57:34	Short sale constraints in imperfectly competitive markets • paper 
+carlcarrie	713770660250693634	2016-03-26T16:52:41	Report on mechanics of portfolio transition management by Russell Invrlestments 
+carlcarrie	713716938577461249	2016-03-26T13:19:13	BBVA research section on RegTech component of FinTech starting on page 16 
+carlcarrie	713716234836164608	2016-03-26T13:16:25	Blockchain innovation in Israel • report  
+carlcarrie	713708793595559938	2016-03-26T12:46:51	Oracle report on the rise of data as a form of capital 
+carlcarrie	713707949873565696	2016-03-26T12:43:29	Banking fees shrink and the biggest share of the shrinking pie goes to ....   
+carlcarrie	713703120023457792	2016-03-26T12:24:18	Quantum Graphs   
+carlcarrie	713702298690695169	2016-03-26T12:21:02	Forbes on 4 FinTech firms in Europe to track 
+carlcarrie	713701607519686657	2016-03-26T12:18:17	Article on how 4 Startups Leverage machine learning in enhancing cybersecurity  
+carlcarrie	713699417447141376	2016-03-26T12:09:35	Paper on "banging the close" market manipulation practices and implications on price impact and optimal execution 
+carlcarrie	713697843941404672	2016-03-26T12:03:20	Presentation on describing an intraday approach to trading commodities using using Logistic &amp; Bayesian ml 
+carlcarrie	713692780510445569	2016-03-26T11:43:13	Paper analyzes realtime streaming stock clustering behaviors and machine learning to generate trading alpha ml 
+carlcarrie	713677809399500800	2016-03-26T10:43:43	Paper on applying a range of machine learning methods with simple technical indicators to trading stocks  
+carlcarrie	713555980227895296	2016-03-26T02:39:37	FT on the uncertainty of investing in Artificial Intelligence AI 
+carlcarrie	713536778079232000	2016-03-26T01:23:19	ApplevsFBI Why few hackers are lining up to help the FBI? | LATimes 
+carlcarrie	713520000905191424	2016-03-26T00:16:39	The Block is Back   
+carlcarrie	713518910579015681	2016-03-26T00:12:19	Smart Beta Report 
+carlcarrie	713518486216187904	2016-03-26T00:10:38	Python PCA open source code 
+carlcarrie	713501828323872768	2016-03-25T23:04:26	Untangling spaghetti code of Academics | in The Economist 
+carlcarrie	712247610396901376	2016-03-22T12:00:37	What Difference Do New Factor Models Make in Portfolio Allocation? 
+carlcarrie	713391972388630528	2016-03-25T15:47:55	Another rogue Möbius strip mitigation tactic and venture with Palantir branded Signac 
+carlcarrie	713391199751704577	2016-03-25T15:44:50	Möbius Strip spiral of Illiquidity article   
+carlcarrie	713390430369525760	2016-03-25T15:41:47	Credit Suisse, a Möbius strip of concealed positions and a strategy to mitigate 
+carlcarrie	713386402273181696	2016-03-25T15:25:47	Market making, automated, algorithmic and high frequency trading under MiFID   
+carlcarrie	713384261508792320	2016-03-25T15:17:16	Accenture report on MiFIR transaction reporting requirements    
+carlcarrie	713383716647735297	2016-03-25T15:15:06	MiFID II trade surveillance requirements explained here... 
+carlcarrie	713383470270169088	2016-03-25T15:14:07	MiFID 1 &amp; 2 - comparison of BestEx obligations and preparation needed... 
+carlcarrie	713382868093968384	2016-03-25T15:11:44	Analyzing the relationship between investor sentiment &amp; returns using wavelets • paper  
+carlcarrie	713381572033036288	2016-03-25T15:06:35	Aggregate volatility and the economy - a countercyclical relationship • paper 
+carlcarrie	713358623368421376	2016-03-25T13:35:24	Brisk and mortar banking, their online apps and the FinTech disruptors profiled in this article   
+carlcarrie	713358191854280706	2016-03-25T13:33:41	Self driving auto technology race | in WSJ   
+carlcarrie	713201154063220736	2016-03-25T03:09:40	Chat bots trained on Twitter could work like - paper  
+carlcarrie	713200721785696256	2016-03-25T03:07:57	It could have been far worse if the chat bot was trained on movie dialogue - paper on how that chat bot might work  
+carlcarrie	713200306650292224	2016-03-25T03:06:18	The singularity did not seem that far away today even if the design was defective   
+carlcarrie	713196293011673089	2016-03-25T02:50:21	Bayesian analysis of prioritization of issues in bank supervision • paper 
+carlcarrie	713195660657434624	2016-03-25T02:47:50	Smart contracts and the embedded code that provides their intelligence • white paper  
+carlcarrie	713195197350412289	2016-03-25T02:46:00	Modeling online search behavior and the linkage to information asymmetry, returns and liquidity 
+carlcarrie	713194010886737921	2016-03-25T02:41:17	Visualizing the evolution of risk taking in the Brain | in theAtlantic 
+carlcarrie	713193484342190080	2016-03-25T02:39:11	TheAtlantic discussion of the Unlearning paper referenced in my previous tweet  
+carlcarrie	713192496570974210	2016-03-25T02:35:16	The advantages of forgetting are not just for humans but machines can unlearn and be beneficiaries as well • paper 
+carlcarrie	713045102185340931	2016-03-24T16:49:34	The SEC is Shrinking the pool of startup investors... 
+carlcarrie	712981925225439237	2016-03-24T12:38:32	Article on how Wall Street ranks its top paying trading/research clients   
+carlcarrie	712980087113654272	2016-03-24T12:31:13	No surprise that regulators are way, way, way behind FinTech disruptors   
+carlcarrie	712979514419200000	2016-03-24T12:28:57	When regulators can peek inside source code of algorithmic trading firms... RegAT HFT 
+carlcarrie	712814265204387841	2016-03-24T01:32:18	Event stream processing at Uber - presentation 
+carlcarrie	712811131404947456	2016-03-24T01:19:51	Spatial data modeling and visualization for NBA players • paper   
+carlcarrie	712805536551591936	2016-03-24T00:57:37	ZWins - an alternative to wins above replacement metric modeled in this paper along with other z-score derivatives   
+carlcarrie	712804861713235968	2016-03-24T00:54:56	Implied volatility of professional sports games modeled • paper   
+carlcarrie	712629509556727808	2016-03-23T13:18:09	Wharton and FinTech...  
+carlcarrie	712628822676475904	2016-03-23T13:15:25	Blockchain fintech startups getting funding include Rootstock   
+carlcarrie	712620123559968769	2016-03-23T12:40:51	Minimum variance delta is John Hull and Alan White's latest contribution to option delta hedging  
+carlcarrie	712619215417638912	2016-03-23T12:37:15	DIY Quant trading in the desert article in business 
+carlcarrie	712609727818178561	2016-03-23T11:59:33	Paper on stock buy back liquidity  
+carlcarrie	712581899508690944	2016-03-23T10:08:58	...And discerning reality becomes more difficult 
+carlcarrie	712581306463490048	2016-03-23T10:06:37	A real time video Filter algorithm Lets Users Add Their Faces To YouTube Videos In Real Time 
+carlcarrie	712578991991996417	2016-03-23T09:57:25	Paper compares multiple methods of liquidity measurement - Amihud vs a new trade sequence price impact approach 
+carlcarrie	712575031331667968	2016-03-23T09:41:41	FCA paper on corporate bond liquidity uses principal components with liquidity indicators  
+carlcarrie	712573141168553984	2016-03-23T09:34:10	Tacit collusion may be an inevitable consequence of using algorithms • paper 
+carlcarrie	712572471875080193	2016-03-23T09:31:30	"I see chat bots… they’re everywhere!" 
+carlcarrie	712569962251034626	2016-03-23T09:21:32	Former nuclear physicist turned finQuant Henri Waelbroeck explains how machine learning mitigates  HFT 
+carlcarrie	712435205571796994	2016-03-23T00:26:04	Bank of the future   
+carlcarrie	712405553071452160	2016-03-22T22:28:14	And discussed here as well ...  
+carlcarrie	712405226368663553	2016-03-22T22:26:56	Ex-Lehman CFO Erin Callan's Memoir discussed in Fortune 
+carlcarrie	712245226589523968	2016-03-22T11:51:09	Optimal liquidation paper - resilience of liquidity and components of impact analyzed 
+carlcarrie	712244281415749632	2016-03-22T11:47:24	Paper on combining many distinct Alpha 
+carlcarrie	712115686903037952	2016-03-22T03:16:24	Paper - beyond multi factor models... 
+carlcarrie	712102816244998145	2016-03-22T02:25:16	The 10 year History and Future of Twitter as told by Jack Dorsey - BloombergBusiness 
+carlcarrie	712101979401625600	2016-03-22T02:21:56	Deep Learning Tutorial Ebook  
+carlcarrie	712097188218855425	2016-03-22T02:02:54	Principal Component Analysis (PCA) in R and Python • a guide 
+carlcarrie	712096764992552961	2016-03-22T02:01:13	Classifying NBA plays using neural networks • paper 
+carlcarrie	712092513310543872	2016-03-22T01:44:19	"The unbearable lightness of technology"  | in FT Alphaville 
+carlcarrie	712091334862086144	2016-03-22T01:39:38	ETFs and inter-market linkages - tail wagging the dog effects • paper 
+carlcarrie	711939021384097793	2016-03-21T15:34:24	WSJ Blog - Interest in Bitcoin Tech stack (Blockchain) grows on Wall Street  
+carlcarrie	711898380709064704	2016-03-21T12:52:55	Diffusion curves and algorithmic curation may be keys to the ascendancy of Facebook &amp; Instagram over Twitter - 
+carlcarrie	711897599025016832	2016-03-21T12:49:48	The Productivity Paradox - accelerating AI and Robotics and yet global productivity continues secular decline 
+carlcarrie	711896823326236672	2016-03-21T12:46:43	UBS Presentation innovation investments: blockchain, fintech investments &amp; client collaboration (pg 8 infographic) 
+carlcarrie	711893921840947200	2016-03-21T12:35:11	iMessage encryption bug discovered  Washington Post story  
+carlcarrie	711607399749173248	2016-03-20T17:36:39	G5 liquidity herd behavior examined in this paper   
+carlcarrie	711213145834979329	2016-03-19T15:30:02	⭐⭐⭐   h/t p_giannuzzo 
+carlcarrie	711551906448084994	2016-03-20T13:56:09	WSJ on the evolutionary ascendancy of artificial intelligence 
+carlcarrie	711539966359298048	2016-03-20T13:08:42	SciFi perspectives on AI and Robotics ushered singularity | in TheGuardian 
+carlcarrie	711539516331466753	2016-03-20T13:06:55	Flaws in AlphaGo AI technology? 
+carlcarrie	711536830395584512	2016-03-20T12:56:14	No need to tip your automated server at Eatsa &amp; what do these advancements mean for most service jobs? | TheGuardian 
+carlcarrie	711535359532863489	2016-03-20T12:50:24	Bayesian decomposition of Alpha and Beta in portfolios regardless of stationarity or returns generating process 
+carlcarrie	711526337975025664	2016-03-20T12:14:33	Apple vs. the F.B.I.: NYT Pundits debate the outcome and inevitable chaos AppleVsFBI 
+carlcarrie	711513681369153536	2016-03-20T11:24:15	Goldman Sachs | Outlook 2016 - New normal is lower corporate debt liquidity | and other key themes  
+carlcarrie	711512954106204160	2016-03-20T11:21:22	Paper on systemic risks of hedge funds pre and post the financial crisis 
+carlcarrie	711512417403011072	2016-03-20T11:19:14	Meeting Cost Calculator by HBR - before a meeting is scheduled - is it worth it?  
+carlcarrie	711510792898809856	2016-03-20T11:12:46	Goldman Sachs on the disturbing efficacy of capitalism  
+carlcarrie	711363769918746625	2016-03-20T01:28:33	Visualizing networks (and graphs) using R rstats • paper •  
+carlcarrie	711362125344727042	2016-03-20T01:22:01	Open sourced implementation of chat protocol that features end to end encryption DHT BitChat  and Bit Torrent 
+carlcarrie	711360670852325376	2016-03-20T01:16:15	Definitely mixed feelings about 140 characters limit in Twitter. Collateral: Pictures and links should not count. 
+carlcarrie	711359093831811072	2016-03-20T01:09:59	Resources for Machine Learning related to Trading and Finance - article  
+carlcarrie	711357838178848769	2016-03-20T01:04:59	Digital divide in the post- Snowden era • paper • policy, privacy, surveillance &amp; capitalism implications  
+carlcarrie	711356795034411008	2016-03-20T01:00:50	Machine learning that is effective while maintaining privacy of data • ml paper 
+carlcarrie	711355676057063424	2016-03-20T00:56:24	Behavioral biases for research analysts including inertia and resulting frictional dynamics analyzed in this paper 
+carlcarrie	711220082559619072	2016-03-19T15:57:36	ABN Amro   Report on factor based investing    
+carlcarrie	711218281181528064	2016-03-19T15:50:26	Simple Bayesian signal based trading strategy in Python discussed in this blog 
+carlcarrie	711216504801501184	2016-03-19T15:43:23	Intense liquidity dynamics and linked reduction of information held by electronic market makers • AMM paper 
+carlcarrie	711183257430323200	2016-03-19T13:31:16	600 web sites on R listed rstats  
+carlcarrie	711178088994967552	2016-03-19T13:10:44	How Many Decimals of Pi Does NASA and JPL labs need? 
+carlcarrie	711177557832507392	2016-03-19T13:08:37	Paper on Blockchain liquidity / funding   
+carlcarrie	711177100594692096	2016-03-19T13:06:48	The linkage between information and liquidity in order driven markets • lob paper 
+carlcarrie	711176640051728385	2016-03-19T13:04:58	OliverWyman - new report on global liquidity risk for wholesale banks and asset managers includes stats 
+carlcarrie	711020587095879681	2016-03-19T02:44:52	Paper on the multidimensionality of liquidity - market impact curves, price uncertainty...   
+carlcarrie	710767220209664000	2016-03-18T09:58:05	Blog post on using Tensor Flow ml to predict several global financial markets in the cloud • Jupyter python 
+carlcarrie	710766076741734400	2016-03-18T09:53:32	Benefits of visualizing what a deep neural network is doing when analyzing images • paper  
+carlcarrie	710763035695194112	2016-03-18T09:41:27	Deloitte on disruptive forces reshaping finance - eg shift in geographic and demographic distribution of wealth  
+carlcarrie	710525769500528641	2016-03-17T17:58:39	We wrote about IEX – how it works, the types of liquidity it attracts, and how it fits into the NMS – full report at 
+carlcarrie	710754905594712064	2016-03-18T09:09:09	EVERYTHING in being disrupted and what does that mean? | in TechCrunch | 
+carlcarrie	710654559513923584	2016-03-18T02:30:24	Deep Learning Is Going to Take us from "Linear to Parabolic" acceleration to Singularity - AlphaGo aftermath 
+carlcarrie	710507111051038720	2016-03-17T16:44:30	PwC report on FinTech and Banking - really good read - thanks DIPISA4  
+carlcarrie	710409507332071424	2016-03-17T10:16:39	Optimizing algorithmic trading leveraging limit order book order imbalance information 
+carlcarrie	710409183812829184	2016-03-17T10:15:22	Paper on leveraging order imbalance in high frequency trading hft liquidity alpha 
+carlcarrie	710396053216952320	2016-03-17T09:23:12	Paper develops consistent estimators (eg of realized volatility) by removing market structure noise in realtime data 
+carlcarrie	710395235818463232	2016-03-17T09:19:57	Dynamic Hash Table as the basis for a fast, reliable and scaleable pub sub system paper dht  
+carlcarrie	710301673709826051	2016-03-17T03:08:10	Scaling Deep Learning and AI at Google - video and blog post 
+carlcarrie	709886158482907144	2016-03-15T23:37:03	Forbes excellent article on 10 Quantum truths 
+carlcarrie	709693923397144576	2016-03-15T10:53:11	"Is Passive Investment Actively Hurting the Economy?"  In The New Yorker 
+carlcarrie	709692112288280576	2016-03-15T10:45:59	Paper adapts Heston stochastic volatility model to high frequency trading data - paper 
+carlcarrie	709669958289068032	2016-03-15T09:17:57	The positive link between informed trading and liquidity levels in a limit order book   lob paper 
+carlcarrie	709669208636923904	2016-03-15T09:14:59	AlphaGo, Killer robots and digital doctors and the 10 year acceleration into the -AI singularity | in The Guardian 
+carlcarrie	709668449899966464	2016-03-15T09:11:58	System architecture for Squall, an open sourced scale able realtime analytics query engine  
+carlcarrie	709574187225128960	2016-03-15T02:57:24	Wavelet analysis of trading volume variance - paper 
+carlcarrie	709573372083113985	2016-03-15T02:54:09	Fragmentation of FTSE stocks - market impact, quality and utility - paper 
+carlcarrie	709306243618308096	2016-03-14T09:12:41	Asset Managers that hold large ETF positions *underperform* their benchmarks • paper concludes their lack of skill.. 
+carlcarrie	709189665132322817	2016-03-14T01:29:26	NYT - should all research papers be free? 
+carlcarrie	709189271748538369	2016-03-14T01:27:53	Moore's Law is over...what does that mean? | in TheEconomist    
+carlcarrie	709152795421704193	2016-03-13T23:02:56	Dynamic, decision-theory based Factor based passive replication of hedge fund returns - paper  
+carlcarrie	709058819847016448	2016-03-13T16:49:30	Paper on semantic hashing using a greedy learning algorithm for fast document retrieval ml  
+carlcarrie	709054832083128320	2016-03-13T16:33:40	Paper on equity market structure in Germany 
+carlcarrie	709054561542152193	2016-03-13T16:32:35	Modeling impact of high frequency trading hft &amp; asymmetric information on markets and social welfare 
+carlcarrie	709053808408719360	2016-03-13T16:29:36	Interesting paper: dynamic trade sign cross–correlators for stock pairs apha  
+carlcarrie	709008341763297281	2016-03-13T13:28:56	Mark Zuckerberg interview - discusses VR, AI and the future of Facebook 
+carlcarrie	709004116308180992	2016-03-13T13:12:08	Americans believe most jobs will be eliminated in 50 years by AI automation and Robotics  
+carlcarrie	709002151356461058	2016-03-13T13:04:20	Hedge funds performance attribution paper - persistent factors    
+carlcarrie	709001253452455936	2016-03-13T13:00:46	Paper on intraday return predictability using knowledge of algorithmic trading orders 
+carlcarrie	708999730576158720	2016-03-13T12:54:43	Time Series when sourced in JSON for analysis in R s the subject of this  R-bloggers post rstats 
+carlcarrie	708999023760384000	2016-03-13T12:51:54	Salesforce open sources Time series monitoring and alerting platform dubbed Argus 
+carlcarrie	708998068688003072	2016-03-13T12:48:06	Blockchain basics in financial services  
+carlcarrie	708996622445842433	2016-03-13T12:42:21	Traders Magazine article: Waiting for Blockchain to harness clearing and settlement potential 
+carlcarrie	708996035633422336	2016-03-13T12:40:02	Machine learning based artificial vision dissertation - over 300 pages also discusses current state of art well Ml 
+carlcarrie	708700868938502144	2016-03-12T17:07:08	Spurious correlations in BigData 
+carlcarrie	708680200981237761	2016-03-12T15:45:01	CAPM2 factor model adjusted for utility - paper  
+carlcarrie	708663516367089664	2016-03-12T14:38:43	The typo that foiled the billion dollar hack in WIrED  
+carlcarrie	708663241141035008	2016-03-12T14:37:37	More on Farook, Facebook and FBI-Apple Saga | in WIRED 
+carlcarrie	708645790961549313	2016-03-12T13:28:17	Financial Tick Data time series lovers rejoice • new Linear causal analysis algorithm using frequency domain methods 
+carlcarrie	708645001144766465	2016-03-12T13:25:08	Cool new algorithm for preserving the essence of imagery when hashing • instance-based hashing paper 
+carlcarrie	708643842170421252	2016-03-12T13:20:32	Facebook's server stack profiled    
+carlcarrie	708643273301217280	2016-03-12T13:18:16	Hadoop, Spark, Deep Learning Mesh stack on a single GPU profiled @ Yahoo  
+carlcarrie	708642301426475009	2016-03-12T13:14:25	Sorting, classifying and visualizing Wikipedia beautifully   
+carlcarrie	708641760331825152	2016-03-12T13:12:16	A timeline of artificial intelligence victories in animated splendor from  1997-3041 | in The Verge 
+carlcarrie	708640731209076736	2016-03-12T13:08:10	Bank FinTech investments profiled in this CNBC story &amp; video   
+carlcarrie	708640089824501763	2016-03-12T13:05:37	FT article on how FinTech IS disrupting Finance      • good weekend read 
+carlcarrie	708639068662456320	2016-03-12T13:01:34	On existentialism, bad hair days and other philosophical dilemmas | in Prospect Magazineo 
+carlcarrie	708638335942660096	2016-03-12T12:58:39	Podcast on Megatrends in financial markets by CFTC's Giancarlo   
+carlcarrie	708637582884806656	2016-03-12T12:55:40	An AlphaGo developer mind profiled in FT Weekend  
+carlcarrie	708636786516480000	2016-03-12T12:52:30	Predictability presets and information filters for financial time series • GP ml paper 
+carlcarrie	708635303209254912	2016-03-12T12:46:36	Paper on measuring the impact of high frequency trading on order flow toxicity and variance • VPIN 
+carlcarrie	708634030753841152	2016-03-12T12:41:33	Presentation on Microsoft Trill - a Streaming realtime and batched historical analytics query engine with alerting 
+carlcarrie	708268788379160576	2016-03-11T12:30:12	Paper on the impact of correlated high frequency trading hft 
+carlcarrie	708123820733939712	2016-03-11T02:54:09	AI culled vacation video - who needs a video editor??   
+carlcarrie	708115189909028864	2016-03-11T02:19:52	Go Andover!  
+carlcarrie	708111042052792320	2016-03-11T02:03:23	Worldwide city living ranked in this interactive infographic visualization  | in The Economist 
+carlcarrie	708110277762551808	2016-03-11T02:00:20	Can Apache Spark be used for deep learning IoT streams?   Paper  
+carlcarrie	708109645139865604	2016-03-11T01:57:50	With Elon Musk calling the Deep Mind Go win a 10 year AI acceleration, how far do other experts think Super AI is? 
+carlcarrie	708109065512230912	2016-03-11T01:55:31	And the psychological perspective of experience in augmenting intelligence to beat a Go champion   
+carlcarrie	708108589022453761	2016-03-11T01:53:38	Evolutionary algorithms to automate theorem proofs - paper 
+carlcarrie	708108199233232896	2016-03-11T01:52:05	Google's Deep Mind paper on The AI algorithms behind beating the Go champion 
+carlcarrie	708107658243514368	2016-03-11T01:49:56	AI, deep learning and production - a presentation  
+carlcarrie	708106903650508800	2016-03-11T01:46:56	Presentation on the current and near future state of AI 
+carlcarrie	708106443157807104	2016-03-11T01:45:06	Showdown between the ancient game of Go and the postmodern artificially intelligent computer | in The Economist 
+carlcarrie	708106115859533825	2016-03-11T01:43:48	Elon Musk on Google Deepmind's Go Victory and 10 year Dystopian acceleration Singularity 
+carlcarrie	708105546000424960	2016-03-11T01:41:32	Toyota Hires Jaybridge Robotics Team for AI Talent continuing a trend of firms acquiring scare experts at a premium 
+carlcarrie	707895269384392705	2016-03-10T11:45:58	Alphas and Risks of over-night trading • paper 
+carlcarrie	707894439344218112	2016-03-10T11:42:41	This issue of the Journal of  Network Theory in Finance features articles on Risk and Eccentricity in Asset Mgt.  
+carlcarrie	707885901863645184	2016-03-10T11:08:45	The post tech boom - in TechCrunch 
+carlcarrie	707882799861202944	2016-03-10T10:56:25	BIS report on BigData and how it is used to shape Central Bank policy 
+carlcarrie	707882128625819648	2016-03-10T10:53:45	Computing the value of court space ownership in the NBA  
+carlcarrie	707881362460700676	2016-03-10T10:50:43	What's the performance of Morningstar's STAR rating system? • paper 
+carlcarrie	707878084112994304	2016-03-10T10:37:41	juliasilge it hurts the mind to to think that ... Please make it stop!
+carlcarrie	707875627655962624	2016-03-10T10:27:55	Long term Leverage Rotation based Stock Trading Strategy alpha  
+carlcarrie	707871273125335040	2016-03-10T10:10:37	HBR on some novel uses for sentiment analytics  
+carlcarrie	707756878244216832	2016-03-10T02:36:03	Paper on time series rules and motifs 
+carlcarrie	707542866554458112	2016-03-09T12:25:39	Forecast portfolio returns using machine learning &amp; surprising predictor variables eg short term returns ml • paper 
+carlcarrie	707521565961940992	2016-03-09T11:01:01	Blockchain based digital securitization of smart contracts • paper 
+carlcarrie	707518515352358912	2016-03-09T10:48:53	matt_levine on startup Aestheic Integration and Proving Algorithms in market structure   
+carlcarrie	707408570699141121	2016-03-09T03:32:00	A bit more refined is ... Buckets for NBA stats   
+carlcarrie	707406604568756224	2016-03-09T03:24:12	R, Shiny and source code for visualizing NBA shot selection rstats  
+carlcarrie	707173538457903104	2016-03-08T11:58:04	Lightweight encryption of data and indexes in the cloud to mitigate data privacy and info security concerns • paper 
+carlcarrie	707171735322365952	2016-03-08T11:50:54	irenealdridge  - happy to post your paper. Am back in NY so next few weeks are good for catch up before next trip
+carlcarrie	707169926667235328	2016-03-08T11:43:43	The link between asymmetric information in stock option implied underlying price and stock price • alpha paper 
+carlcarrie	707049130737192961	2016-03-08T03:43:43	Microsoft to release SQL Server for Linux as open source apparently 
+carlcarrie	706795419985166336	2016-03-07T10:55:34	Paper by irenealdridge on detecting front running behavior around macroeconomic news   
+carlcarrie	706790023035805696	2016-03-07T10:34:07	Why FinTech is a difficult and challenging industry and why investing in it can be a bigger risk that it appears  
+carlcarrie	706785441136177152	2016-03-07T10:15:55	Paper on an integrated Copula-based pairs trading framework on constituents of S&amp;P 100 • Alpha paper 
+carlcarrie	706552633356644352	2016-03-06T18:50:49	MIT SMR on The Talent Dividend - and the massive analytics skills gap 
+carlcarrie	706551842373816320	2016-03-06T18:47:40	Goldman Sachs on Oil &amp; Market Volatility spike and link to M&amp;A deal flow decline - video perspective  
+carlcarrie	706540563592585216	2016-03-06T18:02:51	Dissertation on liquidity resilience in the limit order book lob 
+carlcarrie	706463512177074176	2016-03-06T12:56:41	DiggerBigMac WIRED maxkeiser - finally there are risks of bank, market and govt collapse   
+carlcarrie	706457789720305664	2016-03-06T12:33:57	Notable Hedge funds and their Quantum Computing plays | in AutomatedTrader 
+carlcarrie	706457247694643201	2016-03-06T12:31:47	Accelerating techno-innovation and decelerating productivity paradox | in the NYT 
+carlcarrie	706456079006351362	2016-03-06T12:27:09	In a post-robotic world - paychecks are not tied to work   NYT view:    Star Trek view: 
+carlcarrie	706449884598177792	2016-03-06T12:02:32	Article on The rural battle over high frequency trading in Kent hft Mast | in TheGuardian 
+carlcarrie	706444978738823168	2016-03-06T11:43:02	Full March BIS report on Banking and Financial Markets 
+carlcarrie	706444672307167232	2016-03-06T11:41:49	BIS on impact of accelerating electonification of Fixed Income Markets 
+carlcarrie	706443862047330304	2016-03-06T11:38:36	JesLozRob joseche_jagg criptográfico monedas siguen exigiendo la innovación para aumentar la flexibilidad y la transparencia de pago
+carlcarrie	706442654549155840	2016-03-06T11:33:48	IOSCO 2016 - 91 page report on capital markets trends and their drivers    
+carlcarrie	706441090145112064	2016-03-06T11:27:35	E&amp;Y on Market Abuse Directive 
+carlcarrie	706421213694926848	2016-03-06T10:08:36	DiggerBigMac WIRED maxkeiser - some Bitcoin risks: quantum decryption, tax avoidance, tech obsolescence are multi jurisdictional &amp; global
+carlcarrie	706419933358518272	2016-03-06T10:03:31	DiggerBigMac WIRED maxkeiser - yes, there is an early mover arbitrage advantage until regulators become aware of different risk profiles
+carlcarrie	706419160419586048	2016-03-06T10:00:27	Deloitte Report on Disrupting and thereby Re-Imagining Banking    
+carlcarrie	706415672788709377	2016-03-06T09:46:35	Q&amp;A: Andrew Ng, chief scientist at Baidu on AI, Deep Learning and Self-Driving Cars 
+carlcarrie	706414930686251008	2016-03-06T09:43:38	Chocolate's surprising cognitive enhancing power: Washington Post article &amp; research paper    
+carlcarrie	706411423178625024	2016-03-06T09:29:42	Deep Learning - why is this segment of machine learning and AI so important?  
+carlcarrie	706409827371712512	2016-03-06T09:23:21	KPMG report on Disrupting capital markets and one key advantage of most FinTech firms   
+carlcarrie	706405879772528640	2016-03-06T09:07:40	WSJ on the rapid growth of VC investments to open source tech firms   
+carlcarrie	706326609842802688	2016-03-06T03:52:41	Apache proposal for Quarks...   IoT streaming analytics
+carlcarrie	706324774016962560	2016-03-06T03:45:23	The problem of Regulating what most don't understand - Bitcoin &amp; Blockchain in WIRED 
+carlcarrie	706323716272168961	2016-03-06T03:41:11	Quarks: streaming IoT analytics open sourced here:  
+carlcarrie	706322954565656578	2016-03-06T03:38:09	Open Blockchain | a fabric architecture of digital events &amp; open sourced here:    
+carlcarrie	706321797013225472	2016-03-06T03:33:33	Juno, JPMorgan's crypto ledger project presentation &amp; open source code:   blockchain 
+carlcarrie	706319419715276800	2016-03-06T03:24:07	Business Insider - Blockchain Basics &amp; Banking 
+carlcarrie	706222255769055237	2016-03-05T20:58:01	How should Banks respond to 2K FinTech firms? | by McKinsey &amp; Company 
+carlcarrie	706191600431570944	2016-03-05T18:56:12	thisisinsider andrecb1 ...   More on the investment backing Magic Leap in WIRED   
+carlcarrie	706182345624260608	2016-03-05T18:19:26	Dangers and risks of robotic, autonomous weapons beyond just hacking and bugs - report by former Pentagon official 
+carlcarrie	706130526852292609	2016-03-05T14:53:31	Super-hackable PINs to avoid and why   
+carlcarrie	706121474294292480	2016-03-05T14:17:33	A Visualization of 2 Million Chess Games 
+carlcarrie	706112935483944961	2016-03-05T13:43:37	Rolling Stone Magazine on Artificial Intelligence and the threat of Singularity 
+carlcarrie	706112589558882304	2016-03-05T13:42:14	Jamie Dimon on the Future of Finance - in depth interview 
+carlcarrie	705993380803825664	2016-03-05T05:48:33	Presentation on spurious time series regressions 
+carlcarrie	705993025835630592	2016-03-05T05:47:08	Analyzing Massive number of time series similarity with an algorithm that is faster than Euclidean distance • paper 
+carlcarrie	705989530575380480	2016-03-05T05:33:15	Paper on detecting corporate accounting fraud using SVM ml (machine learning)  IS
+carlcarrie	705531827990216704	2016-03-03T23:14:30	Paper on decomposing volume volatility in trading stocks with investment horizon spillovers  
+carlcarrie	705364791842508800	2016-03-03T12:10:46	Regime shifts and equity correlations • paper 
+carlcarrie	705364527056101376	2016-03-03T12:09:42	Prediction quality for correlations between stocks &amp; commodities can be improvise by varying in-sample data • paper 
+carlcarrie	705364095856410624	2016-03-03T12:08:00	Time-varying Spillover correlation between the MSE and other stock markets globally analyzed in this paper 
+carlcarrie	705360361227210752	2016-03-03T11:53:09	Paper on a low frequency liquidity flow proxy for stocks 
+carlcarrie	705286446949781504	2016-03-03T06:59:27	Network model of the stock market: Time-lagged correlations centrality visualized • paper    
+carlcarrie	705086215406665729	2016-03-02T17:43:48	Good nuanced analysis of the Apple vs FBI standoff and the associated All Writs Act of 1789 applevsfbi 
+carlcarrie	704961492966371329	2016-03-02T09:28:12	Predicting order imbalance using daily data • paper 
+carlcarrie	704960262420480000	2016-03-02T09:23:18	Big orders and their use in a model of stock price prediction • data calibrated from Chinese stock market 
+carlcarrie	704959119829106688	2016-03-02T09:18:46	New TCA transaction cost model optimized for prevalence of hft is linear &amp; incorporates order flow memory • paper 
+carlcarrie	704958185656991746	2016-03-02T09:15:03	Tech Bubble deflation or winners momentum - Bloomberg article 
+carlcarrie	704956862861582336	2016-03-02T09:09:48	RegTech component of FinTech status report - Deloitte   
+carlcarrie	704651397107728384	2016-03-01T12:55:59	Limit Order Book lob dynamics modeled incorporating a Hawkes process  
+carlcarrie	704637052776783872	2016-03-01T11:58:59	Fintech startup leadership in the UK in part is driven be these factors...  
+carlcarrie	704625241532796929	2016-03-01T11:12:03	Optimal VWAP trading • paper  
+carlcarrie	704624888095633408	2016-03-01T11:10:39	Paper on a search engine design that allows for searching on the sentiment of text streams, social media and news 
+carlcarrie	704624176594821120	2016-03-01T11:07:49	Simple Pairs Trading GOOG vs GOOGL  using a mean reversion SVM based ml model 
+carlcarrie	704622896497434624	2016-03-01T11:02:44	For those who are slaves to PowerPoint, this is how McKinsey empowers the slaves better... 
+carlcarrie	704619251928330240	2016-03-01T10:48:15	Hacking hackers?! 
+carlcarrie	704618607590952960	2016-03-01T10:45:41	Profile of A man who lives at the intersection of machine intelligence and quantum physics
+carlcarrie	704617652032028672	2016-03-01T10:41:54	All about Elio, a Billion-Dollar Startup in just Two Days 
+carlcarrie	704252224239702016	2016-02-29T10:29:49	Making the sense of the world through the prism of AI and The Visual Genome project ... 
+carlcarrie	704251489368326144	2016-02-29T10:26:54	Quantifying the majority illusion and 'class size bias effects' in social networks and political campaigns • paper 
+carlcarrie	704250489551110144	2016-02-29T10:22:55	octonion WiredUK ... Then again wouldn't need AI for that :)  ... Soliloquy finito!
+carlcarrie	704249966315900928	2016-02-29T10:20:50	octonion WiredUK Mobile-friendly - Whether 'tis Nobler in the mind to suffer the slings of Carmelo
+carlcarrie	704249374797340672	2016-02-29T10:18:29	octonion WiredUK then again what would a Knocks fan listen to when Clyde Frazier retires... Shakespearean interpretation might be apropos
+carlcarrie	704249004293541888	2016-02-29T10:17:01	octonion WiredUK lol. tough market today in pitching iambic pentameter sonnets in Central Park, me thinks he's best recast as an IP lawyer
+carlcarrie	704248075171266560	2016-02-29T10:13:20	McKinsey on how to value Unicorns, social media and high tech companies 
+carlcarrie	704247551785041920	2016-02-29T10:11:15	WIRED on using Google's AI technology to predict what Shakespeare might be writing if he was alive today  
+carlcarrie	704227892868337664	2016-02-29T08:53:08	ETF creation/redemption liquidity flows and return impact on underlying stocks • paper 
+carlcarrie	704227250854629376	2016-02-29T08:50:35	Blockchain and real-time settlements | in FT Alphaville 
+carlcarrie	703576716149702657	2016-02-27T13:45:35	Android phone hack source code now freely in the wild...  
+carlcarrie	703574547031785472	2016-02-27T13:36:58	A famous philosopher opines on the dark side of the information revolution | in The Atlantic singularity 
+carlcarrie	703571627628490752	2016-02-27T13:25:22	WIRED - "misleading dichotomies like 'privacy versus security'" in AppleVsFBI CryptoWar 
+carlcarrie	703570974042628096	2016-02-27T13:22:46	'Forcing Apple to Hack That iPhone Sets a Dangerous Precedent' | congressman opinion in WIRED AppleVsFBI cryptowar 
+carlcarrie	703567363229282304	2016-02-27T13:08:25	So how impregnable is the Apple IPhone?  Low tech hack    applevsfbi cryptowar
+carlcarrie	703566305857806336	2016-02-27T13:04:13	What about the other backdoor that exists in the applevsfbi cryptowar - fingerprints...  
+carlcarrie	703562674857238528	2016-02-27T12:49:47	CNN on cryptowar economics in applevsfbi - "Billions at Stake" and look who is at the back door? 
+carlcarrie	703561800059633669	2016-02-27T12:46:19	The Verge on applevsfbi cryptowar - "this case will end up at the Supreme Court" 
+carlcarrie	703559898043457537	2016-02-27T12:38:45	AV980 in developed markets, much of the classical opportunities in lob latency arb has faded but new related opportunities exist...
+carlcarrie	703559267064946688	2016-02-27T12:36:15	AV980 moreover, execution algorithms need to be incorporate price and volume prediction tools to be marginally more efficient vs benchmarks
+carlcarrie	703558973572706304	2016-02-27T12:35:05	AV980 it doesn't stop DRW, Citadel, JaneStreet and others for researching that ever so slight and downward trending lob advantage in PnL
+carlcarrie	703556882267504640	2016-02-27T12:26:46	And TheEconomist deeper dive on applevsfbi 
+carlcarrie	703556577048002560	2016-02-27T12:25:34	Hmmm   innovations like NextShares ETFs are worrisome on so many levels - caveat emptor!  
+carlcarrie	703554586070667264	2016-02-27T12:17:39	TheEconomist opines on AppleVsFBI - paraphrased: Apple needs to offer alternative solution to FBI 
+carlcarrie	703343812496728066	2016-02-26T22:20:07	NYT - "The Robots Are Coming for Wall Street" -   Must Read article 
+carlcarrie	703222755337105409	2016-02-26T14:19:04	The Oscars: as the visualisation of GoogleTrends but for Wikipedia data with rstats  
+carlcarrie	703224456366391296	2016-02-26T14:25:50	Visualization of Data Science Balkanization 
+carlcarrie	703224051658059776	2016-02-26T14:24:13	Blockchain led transformation of Capital Markets report - good read  by Oliver Wyman  
+carlcarrie	703162984336523264	2016-02-26T10:21:34	Liquidity queue dynamics of a limit order book and how influenced by market orders • lob paper  
+carlcarrie	703162244431876096	2016-02-26T10:18:37	Limit order book imbalance lob based predictive model and trading strategies 
+carlcarrie	703027368995196928	2016-02-26T01:22:41	Rchaeology: Idioms of R Programming   rstats  paper 
+carlcarrie	703026855037833216	2016-02-26T01:20:38	Network representation and analysis in R rstats • presentation •   … 
+carlcarrie	703024290027937793	2016-02-26T01:10:26	Benchmark construction paper    
+carlcarrie	703023500378972160	2016-02-26T01:07:18	Factor exposures across market cycles and macroeconomic conditions • paper 
+carlcarrie	703022752618438659	2016-02-26T01:04:20	Smart Beta factor exposures paper   
+carlcarrie	702825007001554944	2016-02-25T11:58:34	Pricing interest rate options under negative interest rate regimes • paper 
+carlcarrie	702824774913941504	2016-02-25T11:57:38	Counter cyclical Volatility skews and the macroeconomy • paper 
+carlcarrie	702823769958645760	2016-02-25T11:53:39	Reliable privacy mechanism via encrypted database in cloud • paper 
+carlcarrie	702822981576294400	2016-02-25T11:50:31	Asymmetric information: negative vs positive news before corporate events - paper  
+carlcarrie	702822516776181762	2016-02-25T11:48:40	"Betting Against Winners" is a paper that dynamically models stock mispricing under short-selling constraints 
+carlcarrie	702810792807276544	2016-02-25T11:02:05	Zuckerberg Touts Virtual Meetups 
+carlcarrie	702809400730324992	2016-02-25T10:56:33	Microsoft Research paper on CryptoNets - machine learning on cloud based encrypted databases for data privacy 
+carlcarrie	702808495666679808	2016-02-25T10:52:57	Short primer on Short Selling - paper 
+carlcarrie	702808048075722752	2016-02-25T10:51:10	Short Selling paper - informativeness in dark pools vs exchanges and other stylistic attributes  
+carlcarrie	702807229985112064	2016-02-25T10:47:55	Limit order book paper that conditions on picking-off risk and trade informativeness lob 
+carlcarrie	702694854632067072	2016-02-25T03:21:23	A Legal perspective on forced decryption and the Constitution  
+carlcarrie	702694278334648321	2016-02-25T03:19:06	WIRED on the motion in question - Apple vs FBI  
+carlcarrie	702692939185655808	2016-02-25T03:13:46	Drake equation on finding aliens may be wrong? Paper explains how unusual our planet is   
+carlcarrie	702676429859917825	2016-02-25T02:08:10	Order size and limit order book dynamics - Hawkes lob 
+carlcarrie	702675411726147584	2016-02-25T02:04:07	Complying while not Compromising security in a meaningful way is not one of the big problems I suspect for Apple's legion of resources
+carlcarrie	702674883046670338	2016-02-25T02:02:01	ignoring the moral and social implications - most of the technology exists to provide multiple private keys for each factor for FBI, err NSA
+carlcarrie	702672940228329473	2016-02-25T01:54:18	TheGuardian: "The FBI wants a backdoor only it can use – but wanting it doesn’t make it possible" 
+carlcarrie	702670174462287873	2016-02-25T01:43:19	Deutsche Bank position paper on Fintech 
+carlcarrie	702327125945262080	2016-02-24T03:00:10	Business Insider profiles the equity agency electronic vs legacy inventory FICC "tribal wars"  
+carlcarrie	702326409428148224	2016-02-24T02:57:19	Another deck, presented by Daniel Pinto that captures JPMorgan's tech investment thinking   
+carlcarrie	702322673955819524	2016-02-24T02:42:28	Equity index methodologies - collection of essays 
+carlcarrie	702322497157521408	2016-02-24T02:41:46	S&amp;P Dow Jones Index mathematics methodology guide 
+carlcarrie	702321344877305857	2016-02-24T02:37:11	Fabozzi on factor based investing  
+carlcarrie	702318490355699712	2016-02-24T02:25:51	The NewYorker on The Dangerous All Writs Act Precedent in the Apple Encryption case  
+carlcarrie	702232689626234881	2016-02-23T20:44:54	Alpha Mirage or Smart Beta?   
+carlcarrie	702219220080316416	2016-02-23T19:51:23	Smart Beta ETF - factorization paper 
+carlcarrie	702169260949372928	2016-02-23T16:32:52	Hmmm. Would have to agree. Makes this issue a very thorny one for national security...  astroehlein Snowden
+carlcarrie	702168895638151172	2016-02-23T16:31:25	FT on regulations &amp; major refactoring the Derivatives market and the $27Bn in costs projected for Investment Banks 
+carlcarrie	702164724872568834	2016-02-23T16:14:50	FT article visualizes &amp; compares commutes in major global cities including London, Hong Kong and NY  
+carlcarrie	702156575767719939	2016-02-23T15:42:27	Perspective: Why has Microsoft and Google open sourced their AI technology stacks?  
+carlcarrie	702155674764111874	2016-02-23T15:38:52	Rebuilding Banking trust or is society better off allowing fintech services firms to drive innovation and capturfe market share - blog
+carlcarrie	702138561320120320	2016-02-23T14:30:52	A Yahoo sale could reap less than sum of recent acquisitions - epic FAIL in strategy and execution  
+carlcarrie	702136902640652288	2016-02-23T14:24:17	Profile of PhD quant-coder-traders - article in NYT 
+carlcarrie	702135879662440449	2016-02-23T14:20:13	With 18k developers, 9Bn spend and massive IP creation, JPMorgan's CFO recasts the Bank as a FinTech company - pg 11 
+carlcarrie	702134476315480064	2016-02-23T14:14:38	Paper on a mixed frequency including intraday stochastic volatility (MFSV) model and persistence dynamics for stocks 
+carlcarrie	702109993043156992	2016-02-23T12:37:21	Dissertation on non-linear time series prediction  
+carlcarrie	702108663784337408	2016-02-23T12:32:04	asset return factor model on intra-day data - sector, covariance optimizations in this paper  
+carlcarrie	702076811283398656	2016-02-23T10:25:30	Paper uses Wavelet Transform (MODWT) for 3-way analysis of stock prices, interest rates and exchange rates in India 
+carlcarrie	702074409637560321	2016-02-23T10:15:57	Presentation on a new time series library for Spark 
+carlcarrie	702074045488111616	2016-02-23T10:14:31	Presentation on   'Confronting Uncertainty' 
+carlcarrie	701770597831987201	2016-02-22T14:08:43	NYSE shifts to new matching engine technology - article  
+carlcarrie	701769814621159424	2016-02-22T14:05:36	Tabbgroup article on MIfid 2 and greater dependency on more data fields and improved architecture for compliance  
+carlcarrie	701722529535303680	2016-02-22T10:57:43	The inevitable, inexorable grip of Bayesian thinking on R practitioners rstats 
+carlcarrie	701722041494409217	2016-02-22T10:55:46	shobeirf datoinc / nice contribution • and the buried  linked paper on spammer detection is 
+carlcarrie	701718666077933568	2016-02-22T10:42:21	Modeling cognitive ability in Dogs • paper 
+carlcarrie	692760355693432832	2016-01-28T17:25:14	The Numba team loves all kinds of feedback.    pydata numba performancepython Thanks for posting the results:  
+carlcarrie	701715875708141568	2016-02-22T10:31:16	Multiplicative MIDAS Realized DCC (MMReDCC) model of realized covariances is faster and more robust • paper 
+carlcarrie	701715234629750784	2016-02-22T10:28:43	Cross asset correlation modeled in this paper using a threshold conditional correlation (TCC) model 
+carlcarrie	701714838310035457	2016-02-22T10:27:09	Changes in expected transaction costs for small orders on Johannesburg Stock Exchange after fee changes • paper 
+carlcarrie	701404388049473536	2016-02-21T13:53:32	Latency Arbitrage - profitability and prevalence of hft arbitrage strategies in the US • paper 
+carlcarrie	701398382603063300	2016-02-21T13:29:40	Humbled by the comment - And thanks 
+carlcarrie	701397908000743424	2016-02-21T13:27:47	Information asymmetry in emerging markets by fund type paper 
+carlcarrie	701397396216012800	2016-02-21T13:25:45	Analyzing and visualizing using R, Clinton State Dept Email Dumps rstats - part 1 
+carlcarrie	701394790747865088	2016-02-21T13:15:24	Citigroup presentation on Blockchain  
+carlcarrie	701394371527180289	2016-02-21T13:13:44	Paper on trustworthy data feeds for smart contracts  
+carlcarrie	701393296900358144	2016-02-21T13:09:27	White Paper · by Ethereum • on their Blockchain implementation.  
+carlcarrie	701392284663881729	2016-02-21T13:05:26	Paper modeling order flow intensity with a parametric simulation limit order book model lob liquidity 
+carlcarrie	701391467743412224	2016-02-21T13:02:11	Paper on using a novel information density indicator to determine level of overtly informed stock movement  
+carlcarrie	700685076669968384	2016-02-19T14:15:15	2 part article on building trading models: (via quandl )   
+carlcarrie	700684037141082112	2016-02-19T14:11:07	Incubating Blockchain disruption is not just being explored and incubated in developed markets -   
+carlcarrie	700683193238687745	2016-02-19T14:07:45	Business Insider on BAML report:  "joint meltdown" of oil and interest rate declines &amp; corresponding impact on MSCI  
+carlcarrie	700681228136030208	2016-02-19T13:59:57	Google's JigSaw incubator and a reshaping of the FinTech space  
+carlcarrie	700680154025037826	2016-02-19T13:55:41	BusinessInsider reports on an EM meltdown scenario concisely in an infographic   
+carlcarrie	700679779003928576	2016-02-19T13:54:11	44K lines of IBM written HyperLedger code, a JPX proof of concept underscores Blockchain FinTech  momentum 
+carlcarrie	700678770361937921	2016-02-19T13:50:11	Custom Blockchains on a design by Microsoft reported by WIRED  
+carlcarrie	700677555653742594	2016-02-19T13:45:21	On my Birthday wish lists:     AND   Yes, am NERDY!
+carlcarrie	700513582774140928	2016-02-19T02:53:47	19 year old codes a Bot for parking tickets 
+carlcarrie	700510566838882304	2016-02-19T02:41:48	Algorithm to detect anomalies in streaming time series data - Numenta Anomaly Benchmark (NAB) • paper 
+carlcarrie	700506842108141568	2016-02-19T02:27:00	Dynamic investment many-factor model using decision trees • paper by Keith L Miller (ex Citigroup) 
+carlcarrie	700504921964150784	2016-02-19T02:19:22	Algorithms for a post Quantum Computing world  
+carlcarrie	700502938935017472	2016-02-19T02:11:30	Approximation Algorithms    
+carlcarrie	700501463294935040	2016-02-19T02:05:38	Pedestrian recognition algorithms are key algorithmic automotive innovations...and they are now really accurate 
+carlcarrie	700499511215583232	2016-02-19T01:57:52	open source code for a new image detection algorithm    
+carlcarrie	700498360315338753	2016-02-19T01:53:18	Algorithms to  protect privacy within various social network subgroups &amp; not others • Prof. Michael Kearns paper 
+carlcarrie	700496268787900416	2016-02-19T01:44:59	Other algorithms are being critiqued heavily including notably - Twitter  
+carlcarrie	700495488630571008	2016-02-19T01:41:53	... The Guardian perspective on the rogue algorithm   
+carlcarrie	700495145481932802	2016-02-19T01:40:31	Rogue killing algorithm? 
+carlcarrie	700333601964089351	2016-02-18T14:58:36	Citi Markets Presentation on Euro government bond liquidity and automation 
+carlcarrie	700332246868299779	2016-02-18T14:53:13	Cftc paper on impact of algorithmic trading on macro news announcements  &amp; classic: 
+carlcarrie	700316029726154752	2016-02-18T13:48:47	European corporate bond illiquidity and shock regimes paper   
+carlcarrie	700314739944116224	2016-02-18T13:43:39	Negative interest rates as a policy instrument - an FT perspective  
+carlcarrie	700314160257724417	2016-02-18T13:41:21	Active, passive and (discussed in this FT article) the inexorable growth of alternative investments  
+carlcarrie	700312888939057152	2016-02-18T13:36:18	A feature selection framework and the machine learning algorithms that use them    ml paper 
+carlcarrie	699803358182445057	2016-02-17T03:51:36	When is a Lead Safe in the NBA?   90% confidence for nearly equal teams is about 18 points by half-time  Derived... 
+carlcarrie	699798709576585216	2016-02-17T03:33:08	Sentiment vs Search in election prediction | in TheGuardian 
+carlcarrie	699625514240188419	2016-02-16T16:04:55	Estimating the factors in a model - paper 
+carlcarrie	699425711300485120	2016-02-16T02:50:58	Global study of momentum in stock returns 
+carlcarrie	699421201391865856	2016-02-16T02:33:03	Avoiding machine and deep learning based facial recognition - using subversion and filters - paper 
+carlcarrie	699359630477099009	2016-02-15T22:28:24	Momentarian, conditionally persistent returns and the Unicorn hedge funds that profit from them - paper 
+carlcarrie	699358769181024257	2016-02-15T22:24:58	Robust 3 factor model of stock returns in China 
+carlcarrie	699355841720360962	2016-02-15T22:13:20	Why aren't SMB, HML or WML factors priced in German stock returns? 
+carlcarrie	699316602341302273	2016-02-15T19:37:25	Generalizing SVM ml - paper 
+carlcarrie	699281684093669376	2016-02-15T17:18:40	Deconstructing the flash crash - paper  
+carlcarrie	699281293641719808	2016-02-15T17:17:07	R package rstats for hft or at least intraday trading strategies with optimization and back testing  
+carlcarrie	699235106158940160	2016-02-15T14:13:35	Presentation on Machine Learning and Web based BigData • ml 
+carlcarrie	699234445635805184	2016-02-15T14:10:57	Forester report on BigData Hadoop vendor landscape and competitive dynamics 
+carlcarrie	699206340854603776	2016-02-15T12:19:16	Empirically modeling limit order book flows as a pony process with state dependent intensities • lob paper 
+carlcarrie	699204875444473857	2016-02-15T12:13:27	Excellent paper! Twitter sentiment impact on stock returns by souzatharsis &amp; psychsignal  
+carlcarrie	699103818366193664	2016-02-15T05:31:53	liquidity-sensitive trading conducted by corporate bond funds and their price impact 
+carlcarrie	699103227883757568	2016-02-15T05:29:32	Dividends and abnormal stock price impact   tca paper 
+carlcarrie	699098559455617024	2016-02-15T05:10:59	FinTech industry report | by McKinsey &amp; Company 
+carlcarrie	698969774852874240	2016-02-14T20:39:15	schembor   if it were that simple I wouldn't bother...   Multiple sources, searches; often links get sent to me for review/posting...
+carlcarrie	698956473662095360	2016-02-14T19:46:23	Paper on automated Twitter sentiment driven crypto-currency trading  
+carlcarrie	698956061781442561	2016-02-14T19:44:45	Dynamic optimization in automated trading - HJB equations and real world microstructure - paper  
+carlcarrie	698881287680032768	2016-02-14T14:47:38	TheAtlantic mainstreams Gravitational Waves and Einstein's theory  
+carlcarrie	698874761900900356	2016-02-14T14:21:42	Interesting paper coauthored by Andrew Lo on dynamic equity / debt financing and improved net returns for drug firms 
+carlcarrie	698873770627436544	2016-02-14T14:17:46	Lagged implied volatilities and their predictive power on stock returns - returns spillover paper 
+carlcarrie	698872214226104320	2016-02-14T14:11:34	Paper - factor structure of asset returns and variance of idiosyncratic returns 
+carlcarrie	698860536486830081	2016-02-14T13:25:10	Weekend effect of diminished stock option returns analyzed in this paper 
+carlcarrie	698859919223685120	2016-02-14T13:22:43	Pricing political mayhem 
+carlcarrie	698838799070134272	2016-02-14T11:58:48	Twitter’s Problem Isn’t Twitter | in Vanity Fair 
+carlcarrie	698830386135244801	2016-02-14T11:25:22	Modeling the advantages of being fast in processing news and events on PnL • hft vs lft trading paper  
+carlcarrie	698828658656595968	2016-02-14T11:18:30	Limit order book modeling in R rstats • 'obAnalytics' Package lob 
+carlcarrie	698828112709206016	2016-02-14T11:16:20	Paper • earnings news • information asymmetry cost component, liquidity and Post Earnings Announcement Drift 
+carlcarrie	698825326055550976	2016-02-14T11:05:15	Paper decomposes intraday stick returns into news and non-news related movements 
+carlcarrie	698824857602154496	2016-02-14T11:03:24	intraday periodicity, correlation and volatility interaction of returns, volatility, volume of precious metals paper 
+carlcarrie	698561496972976132	2016-02-13T17:36:54	The Economist on European Banking Crisis 
+carlcarrie	698554924293038080	2016-02-13T17:10:47	Dystopian weekend continues with this Guardian dark story of unemployment in a world dominated by AI and Sex Bots 
+carlcarrie	698551382773800961	2016-02-13T16:56:42	Intra-day volatility estimation and other stylistic attributes of a stock analyzed hft style - tick by tick • paper 
+carlcarrie	698539816661741568	2016-02-13T16:10:45	gwolfe3 lol - searching for time series visualizations then  Professor Deibold's Ebook on time series econometrics  
+carlcarrie	698512334113923072	2016-02-13T14:21:32	Basics of Behavioral Economics - blog post 
+carlcarrie	698509590481276929	2016-02-13T14:10:38	NYT on how a recession could unfold and look like in 2016 
+carlcarrie	698502591144136704	2016-02-13T13:42:49	zerohedge on the spiraling doom loop of negative interest rates &amp; our dystopian future    
+carlcarrie	698500777728417793	2016-02-13T13:35:37	Using the MaVis framework to optimize the visualization of time series comovements • paper   
+carlcarrie	698499752158175232	2016-02-13T13:31:33	Unified model for text data mining - scalable with low computational intensity   NLP in this Ph.d Thesis 
+carlcarrie	698207652640374785	2016-02-12T18:10:51	Extracting alpha hidden and commingled with trading noise - blog post 
+carlcarrie	698206815344058368	2016-02-12T18:07:31	WIRED on Google's Chip Strategy and its impact on computer hardware and chip industries  
+carlcarrie	698113176957755392	2016-02-12T11:55:26	The New Frontier of Negative Interest Rates: economic perspective - in Bloomberg View 
+carlcarrie	697978227478769667	2016-02-12T02:59:11	BigchainDB - paper on scalable and distributed blockchain database 
+carlcarrie	697919418081398786	2016-02-11T23:05:30	Deep feature synthesis:   man vs machine,   intuition vs algorithmic expressiveness  ml MIT paper 
+carlcarrie	697837733696421888	2016-02-11T17:40:55	Cut $600mm in expenses to just get to a 7% ROE, lower than cost of capital and few growth prospects: name that Bank? 
+carlcarrie	697745607503572992	2016-02-11T11:34:50	TheEconomist take on (European) Banking Tanking   
+carlcarrie	697744522504183808	2016-02-11T11:30:32	Hmmm in bear markets correlation races to 1 :) OR  CleverHedge law - in down markets tsunamis develop!  
+carlcarrie	697743839491137538	2016-02-11T11:27:49	One Baidu algorithm to translate multiple languages on Github, paper   
+carlcarrie	697741484095836161	2016-02-11T11:18:27	IBM is in Blockchain - all in   
+carlcarrie	697740742207393792	2016-02-11T11:15:30	Paper analyzes quantitative easing induced volatility spillovers across markets and asset classes 
+carlcarrie	697738750324056064	2016-02-11T11:07:36	Foundations of Machine Learning Ebook ml - 427 pages of fun!   
+carlcarrie	697738310366715904	2016-02-11T11:05:51	Deep Alpha - harvesting product review data using deep learning techniques paper 
+carlcarrie	697737838994067457	2016-02-11T11:03:58	IS Paper harvests corporate fundamental financial stats algorithmically to discern fraud in financial statements 
+carlcarrie	697737359425720320	2016-02-11T11:02:04	Short paper on SentAMaL - Twitter sentiment CNN based AI and NLP algorithms used for building trading algorithms 
+carlcarrie	697736604354531328	2016-02-11T10:59:04	Dissertation on machine learning techniques in applied econometrics  
+carlcarrie	697735323808370688	2016-02-11T10:53:59	Automating prediction AI paper using deep feature synthesis  
+carlcarrie	697734314881130497	2016-02-11T10:49:58	Google's Deepmind AI technology used to beat GO champion  profiled in this paper:   
+carlcarrie	697624367228940288	2016-02-11T03:33:05	Now that negative interest rates have become standardized as a central bank policy tool - is there a lower bound?! 
+carlcarrie	697622821778939904	2016-02-11T03:26:56	WSJ - What happens when everyone can understand what we say no matter what language we speak? ml translation 
+carlcarrie	697564863267278849	2016-02-10T23:36:38	BIS presentation on Global Outlook, risk themes, impact of low interest rates and debt and early warning indicators 
+carlcarrie	697563756306505728	2016-02-10T23:32:14	FX Spot Market Microstructure Presentation (2015) 
+carlcarrie	697561196808028160	2016-02-10T23:22:04	High frequency trading PCA factor model - paper 
+carlcarrie	697461105208205312	2016-02-10T16:44:20	Identifying Bitcoin users with the bread crumb patterns they leave behind... IS 
+carlcarrie	697395462886846464	2016-02-10T12:23:29	Inverse ETF paper - impact on component stocks, aggregate volatility and other market quality measures analyzed 
+carlcarrie	697394734885691392	2016-02-10T12:20:36	Leveraged ETFs and the implied volatility paradox - presentation on the dynamics   
+carlcarrie	697389124173561856	2016-02-10T11:58:18	Conscious computing anyone? singularity 
+carlcarrie	697386876282478593	2016-02-10T11:49:22	Bitcoin, Blockchain and all things crypto - the new 300+ page Ebook   // Princeton University Press 
+carlcarrie	697367201377030144	2016-02-10T10:31:11	Who says contract lawyers can't inject humor into their work? 
+carlcarrie	697366756239794176	2016-02-10T10:29:25	Google every so quietly launches an AWS Lambda competitive business division and a new event trigger service 
+carlcarrie	697273326532743168	2016-02-10T04:18:10	On Cocos  pricing and risk analysis of contingent convertibles and their embedded options - paper 
+carlcarrie	697272308466110464	2016-02-10T04:14:07	Option implied lending fees and volatility arbitrage with shorting costs examined in this paper 
+carlcarrie	697270492865110016	2016-02-10T04:06:54	Deep Hashing ml paper 
+carlcarrie	697258138509172741	2016-02-10T03:17:49	Algorithmic statistical arbitrage strategy using limit order book imbalance as a key state variable 
+carlcarrie	697257067833384962	2016-02-10T03:13:34	Vanguard paper on Index Tracking 
+carlcarrie	697256003486806016	2016-02-10T03:09:20	Tail risks, factor betas, bid ask spreads and trading volume linked in this intra day stock trading paper 
+carlcarrie	697228182227972096	2016-02-10T01:18:47	Informed liquidity metric in trading: volume coefficient of variation VCV (ratio of standard deviation to mean) 
+carlcarrie	697212648220467201	2016-02-10T00:17:03	Paper discusses optimizing the tracking of a stock index where the full replication constraint is relaxed 
+carlcarrie	697166113797447681	2016-02-09T21:12:08	The Economist on the trouble with Twitter - twtr 
+carlcarrie	697164438068027392	2016-02-09T21:05:29	Article: Big Banks eye more cost cuts, increased technology investments and outsourcing to improve profitability 
+carlcarrie	697163916611350530	2016-02-09T21:03:25	Kevin's take on  The non-Liquidity Crisis and Rigged Markets (video) 
+carlcarrie	697153225837973504	2016-02-09T20:20:56	Of course they will... 
+carlcarrie	697059887705157633	2016-02-09T14:10:02	CDS charts are pricing in Banking fear-factor - spreads are rising asymptotically! 
+carlcarrie	697045661074771968	2016-02-09T13:13:30	FT perspective on Big Bank Sell-Off... 
+carlcarrie	697044887418626049	2016-02-09T13:10:26	Zero knowledge proof algorithm developed at MIT is the basis for a Bitcoin alternative  
+carlcarrie	697042335641833472	2016-02-09T13:00:17	Volatility - short term, long term, autocorrelated, estimated   
+carlcarrie	697030681369669633	2016-02-09T12:13:59	Knightian uncertainty in equity markets?   Paper 
+carlcarrie	697010352618397696	2016-02-09T10:53:12	Ripples in space-time?  
+carlcarrie	697007700174102528	2016-02-09T10:42:40	"the impact of trade duration, quote duration and other exogenous variables on ex-ante liquidity..." HFT Liquidity 
+carlcarrie	697006934763925506	2016-02-09T10:39:37	Presentation on MIT Poker Bots  competition   sponsored by Jump Trading, DRW, Citadel and others 
+carlcarrie	696875654785200129	2016-02-09T01:57:58	FT on ‘smart beta’ wars 
+carlcarrie	696646627902230528	2016-02-08T10:47:53	Last August this paper was published highlighting closing auction manipulation on Hong Kong Stock Exchange IS 
+carlcarrie	696645924559446016	2016-02-08T10:45:06	Paper on liquidity risk in portfolio selection and optimization  
+carlcarrie	696542714159112192	2016-02-08T03:54:58	Blockchain in Capital Markets  Oliver Wyman and Euroclear report  
+carlcarrie	696480475314053121	2016-02-07T23:47:39	Review of papers on equity liquidity  
+carlcarrie	696460914120355840	2016-02-07T22:29:56	Google’s Quantum Dream Machine and the impact that Google can have with it  
+carlcarrie	696446015830941696	2016-02-07T21:30:44	Twitter sentiment polarity on stocks analyzed in this paper   
+carlcarrie	696435069221781504	2016-02-07T20:47:14	News shocks and abnormal price impact of stocks   
+carlcarrie	696417522376183808	2016-02-07T19:37:30	News sentiment price impact of stocks paper 
+carlcarrie	696415013926539264	2016-02-07T19:27:32	Arbitrage paper - impact of informed and noise ETF trading activities vs. underlying 
+carlcarrie	696414587965566976	2016-02-07T19:25:51	Collection of papers on market microstructure - Helsinki intraday liquidity 
+carlcarrie	696368824069836800	2016-02-07T16:24:00	FrankPasquale speppet paulohm - linked now, thanks :)
+carlcarrie	696368217984524288	2016-02-07T16:21:35	Blockchain based smart contract system dubbed Hawk analyzed in this paper 
+carlcarrie	696367891449516036	2016-02-07T16:20:17	The efficacy of technical indicators - econometric analysis paper 
+carlcarrie	696367164157251584	2016-02-07T16:17:24	Stylized facts and skews of equity returns and directional signals - empirical paper  
+carlcarrie	696366095805059072	2016-02-07T16:13:09	Modeling European stock prices using econometric analysis of social media - sentiment 
+carlcarrie	696363948753424384	2016-02-07T16:04:37	A new framework for measuring, modelling, and forecasting risk across global assets and asset classes - paper 
+carlcarrie	696362362840944641	2016-02-07T15:58:19	Intraday index returns analyzed - GARCH one minute log-returns analyzed in this paper 
+carlcarrie	696361933956653057	2016-02-07T15:56:37	Heston stochastic model based electronic option market making amm 
+carlcarrie	696361445500522496	2016-02-07T15:54:41	Liquidity paper on limit order book resiliency after market order sweeps lob 
+carlcarrie	696361204214800384	2016-02-07T15:53:43	Dissertation on optimizing algorithmic trading - stochastic models and calibration issues discussed - lob paper 
+carlcarrie	696360746553217024	2016-02-07T15:51:54	The link between volatility and liquidity in China's futures commodities markets - paper 
+carlcarrie	696136898427908096	2016-02-07T01:02:24	Paper estimates low frequency order imbalance 
+carlcarrie	696003911250014208	2016-02-06T16:13:58	Algorithmic Twitter? 
+carlcarrie	695999613317287936	2016-02-06T15:56:53	Ebook - optimizing algorithmic trading, automated market making and liquidation - lob amm 
+carlcarrie	695968365324664832	2016-02-06T13:52:43	Dissertation on stock market liquidity resilience at the limit order book level lob 
+carlcarrie	695559259065577473	2016-02-05T10:47:04	Hmmm.  "Bankers Fight For Scraps" 
+carlcarrie	695554891679449088	2016-02-05T10:29:43	Clearly Masterful... :) 
+carlcarrie	695554178312228864	2016-02-05T10:26:53	To what extent is modularization of financial services the key to expanding forward ROE?    
+carlcarrie	695550280092483584	2016-02-05T10:11:24	... Blockchain Masterclass presentation by Professor Michael Mainelli  
+carlcarrie	695549387951509504	2016-02-05T10:07:51	cleverhedge here is an alternative link to same paper: 
+carlcarrie	695547466838577152	2016-02-05T10:00:13	What is and what isn’t a ‘blockchain’?   By Chris_Skinner 
+carlcarrie	695542257244631040	2016-02-05T09:39:31	Heron, Twitter's open sourced stream based processing - it outperforms Storm - paper   
+carlcarrie	695366843511341056	2016-02-04T22:02:29	Facebook says there are now just 3.57 degrees of separation between everyone on Earth 
+carlcarrie	695319250215505920	2016-02-04T18:53:22	MIT Technology Review:  AI-Powered Hedge Funds using Chaotic dynamics, Behavioral and Bayesian techniques 
+carlcarrie	695298273867915264	2016-02-04T17:30:01	Ethics and Algorithms 
+carlcarrie	695191887674744832	2016-02-04T10:27:16	Mark Suster's State of Venture Capital - in Fortune 
+carlcarrie	695188520634286080	2016-02-04T10:13:53	The Problems With Blockchain In Finance | TechCrunch FinTech perspective  
+carlcarrie	694836778453327872	2016-02-03T10:56:12	97 variable model used to determine if publications reduce predictability of stock returns - aka take the juice out  
+carlcarrie	694833936376139776	2016-02-03T10:44:54	Not surprising that Twitter and Yahoo are following same dark compress, dress and sell strategy 
+carlcarrie	694831904353341441	2016-02-03T10:36:50	MIT SMR - Avoiding Analytical Myopia 
+carlcarrie	694831117103427584	2016-02-03T10:33:42	The Big (Big!) Question About Yahoo Is Its Future | in FastCompany 
+carlcarrie	694661233618845696	2016-02-02T23:18:38	Alas, Twitter ($TWTR) misses the mark with latest product improvements - no IoT strategy, no growth, dormant users 
+carlcarrie	694648735171809280	2016-02-02T22:28:59	Twitter as the inversion of News and a key to establishing its identity in the social market realm - theGuardian 
+carlcarrie	694641585544368130	2016-02-02T22:00:34	Stifel on why Twitter TWTR is not a stock they recommend holding and why... 
+carlcarrie	694578307203997696	2016-02-02T17:49:07	On the same topic of asymmetric news diffusion and competitive dynamics is this 2015 paper   
+carlcarrie	694577348298039296	2016-02-02T17:45:19	Incorporating order flow into adjusted optimal execution and TCA 
+carlcarrie	694498346816401408	2016-02-02T12:31:23	Twitter API data show the number of tweets may be in steep decline 
+carlcarrie	694491807762235392	2016-02-02T12:05:24	Hebbian based deep learning paper  
+carlcarrie	694472162741088256	2016-02-02T10:47:20	If you haven't already read JoF News Trading and Speed by Professors Foucault, Hombert and Rosu - YOU SHOULD! hft 
+carlcarrie	694471058859147264	2016-02-02T10:42:57	What Is Blockchain? - WSJ 
+carlcarrie	694469428369563648	2016-02-02T10:36:28	HFT in the Banana Land | Sniper In Mahwah 
+carlcarrie	694468272687861760	2016-02-02T10:31:53	The hidden costs of collaboration  | in The Economist 
+carlcarrie	694454621109145600	2016-02-02T09:37:38	Modeling transaction cost anomalies with a multi factor model and a taxonomy TCA 
+carlcarrie	694453956546859008	2016-02-02T09:35:00	The BIS report on electronic trading in fixed income markets - market structure  
+carlcarrie	694453512932057088	2016-02-02T09:33:14	Patent on a Sports limit order book and exchange... 
+carlcarrie	694452996755865600	2016-02-02T09:31:11	The Popular Science article that explains the perception. breakthrough in simple terms  
+carlcarrie	694452464037281792	2016-02-02T09:29:04	Paper on the link between object perception and neural activity  
+carlcarrie	694446275912142848	2016-02-02T09:04:29	What does the self-learning AI program like GO mean in terms of singularity, society and the science of AI? 
+carlcarrie	694208752736718848	2016-02-01T17:20:39	On fixing Twitter... 
+carlcarrie	694207420726407170	2016-02-01T17:15:21	FT Alphaville | on collateralized settlement risks - netting, liquidity sacrifices and general collateral abuse 
+carlcarrie	694191320815030273	2016-02-01T16:11:22	Next AI Benchmark: Computers to Make Sense of the World - visual and textual recognition  
+carlcarrie	694178701618069504	2016-02-01T15:21:14	Matt Levine and his question about Blockchain in the Digital Asset Holdings and Jpmorgan test? 
+carlcarrie	694175068423852032	2016-02-01T15:06:48	nanexllc agreed. I'm shocked that they haven't been asked to leave given the misrepresentations and their oversight roles...
+carlcarrie	694134512427626496	2016-02-01T12:25:38	The SEC’s ATS Transparency Rules - one take 
+carlcarrie	694000367533686785	2016-02-01T03:32:36	Citi: Blockchain technology could turn banks to 'dumb pipes' 
+carlcarrie	693999781933355008	2016-02-01T03:30:16	Blythe Masters and JPMorgan trial blockchain project | in FT 
+carlcarrie	693992517386264576	2016-02-01T03:01:24	Games of the future developed by Algorithms in WIRED 
+carlcarrie	693992048920281088	2016-02-01T02:59:32	Metropolis-Hastings algorithm in R | rstats 
+carlcarrie	693991243714576384	2016-02-01T02:56:20	An Artificial Intelligence Algorithm (AI) Can Write Political Speeches  
+carlcarrie	693988837115215872	2016-02-01T02:46:47	High frequency trading impact under the new normal of higher volatility Australian stocks -businessinsider 
+carlcarrie	693988037420781569	2016-02-01T02:43:36	Barclays and Credit Suisse to Settle ‘Dark Pool’ allegations: $154.3 million - NYT 
+carlcarrie	693788762896211968	2016-01-31T13:31:45	Peak chat? 
+carlcarrie	693788247512739840	2016-01-31T13:29:42	Paper by MIT-er on automated software bug detection 
+carlcarrie	693784452154138624	2016-01-31T13:14:37	How informed are short sellers globally - paper? (Alas, older data set) 
+carlcarrie	693782583377805312	2016-01-31T13:07:12	BloombergView on Gordon's Growth thesis  
+carlcarrie	693781271433080833	2016-01-31T13:01:59	NYT Krugman's take on Gordon's thesis on innovation, growth and social welfare  
+carlcarrie	693780452520386560	2016-01-31T12:58:44	In mid October of last year Goldman Sachs did a report on the Productivity Paradox &amp; Professor Robert Gordon's view 
+carlcarrie	693777973653159936	2016-01-31T12:48:53	Paper on a mixed frequency stochastic volatility (MFSV) model for intraday return modeling 
+carlcarrie	693775611597328384	2016-01-31T12:39:30	The Fourth Industrial Revolution Is impacting how we Sleep, per chance, how we dream... 
+carlcarrie	693774544117587968	2016-01-31T12:35:15	On lessons spanning Shakespeare and Uber on creative innovation 
+carlcarrie	693772639773540352	2016-01-31T12:27:41	IncaTrades ... for what are we without our frivolous arcane triviality...nothing
+carlcarrie	693771886824722432	2016-01-31T12:24:42	WIRED on Viv, the new AI technology by the ex-Siri inventors  
+carlcarrie	693752452080910336	2016-01-31T11:07:28	Viv, the Zuckenberg backed AI and voice recognition technology that could transform how we work and live 
+carlcarrie	693511484706545667	2016-01-30T19:09:57	Accountability when algorithms go rogue or dark in WIRED 
+carlcarrie	693505490341515264	2016-01-30T18:46:08	Entangled Multiverses 
+carlcarrie	693482531270828032	2016-01-30T17:14:54	The End of Twitter?   In The New Yorker 
+carlcarrie	693133978656710656	2016-01-29T18:09:52	10 countries have 5Y govt bonds with negative yields 
+carlcarrie	693078976030445570	2016-01-29T14:31:19	Market Impact Paradoxes - 2014; not sure how I missed this TCA presentation back then.  
+carlcarrie	693073657023860736	2016-01-29T14:10:11	BoJ Announcement today: negative interest rates    and the Quant of the year who models that  
+carlcarrie	693072445306200064	2016-01-29T14:05:22	DTCC White Paper on potential of distributed ledgers / Blockchain in settlement to disrupt  legacy infrastructure   
+carlcarrie	693033229864009728	2016-01-29T11:29:32	Presentation on optimal stock trading - optimal clearing frequency, batch auctions 
+carlcarrie	693031689086484480	2016-01-29T11:23:25	Momentum is a factor, but higher order moments are also useful predictors of returns - e.g. Acceleration &amp; Gamma 
+carlcarrie	693030116956463104	2016-01-29T11:17:10	Paper models the impact of latency on transaction costs and uses dynamic programming to optimize execution TCA 
+carlcarrie	693027367506317312	2016-01-29T11:06:14	Partial Covariance across 12 major US sector ETFs increase portfolio diversification - paper   
+carlcarrie	693025575934545921	2016-01-29T10:59:07	On Blockchain and Distributed Ledgers   88 Page report by the UK Chief Science Advisor on their value  
+carlcarrie	693023087806279680	2016-01-29T10:49:14	Paper about applying Blockchain thinking to a new stock market - key challenges  
+carlcarrie	693018779308138497	2016-01-29T10:32:07	Bitcoin exposure through a trust vehicle?  
+carlcarrie	693018009426743296	2016-01-29T10:29:03	What is a Blockchain? PwC vs Deloitte faceoff...   
+carlcarrie	693016599536730112	2016-01-29T10:23:27	The interest in leveraging Blockchain for European trade settlements can be understood better from this prism  
+carlcarrie	692966763160588288	2016-01-29T07:05:25	Deloitte on Blockchain   
+carlcarrie	692965916993306624	2016-01-29T07:02:03	Paper on yet another limit order book model assuming non realistic time-homogeneity,l and uniform order size 
+carlcarrie	692965454432837632	2016-01-29T07:00:13	Stochastics in trading Ebook - Martingales 
+carlcarrie	692863661379989505	2016-01-29T00:15:44	Paper on mind reading perceptions from electrical signatures on the surface of the brain 
+carlcarrie	692738160028184577	2016-01-28T15:57:02	Paper on high frequency periodicity of trading    fourier hft 
+carlcarrie	692737654648131585	2016-01-28T15:55:01	Best ex, block trades and fragmented trading market microstructure analyzed in this paper - Sweden equities data set 
+carlcarrie	692679473259483136	2016-01-28T12:03:50	Unconventional startup wisdom from Peter Thiel 
+carlcarrie	692373478016679936	2016-01-27T15:47:55	IBM Presentation on Blockchain, IoT and Smart Contracts - emerging disruptive forces  
+carlcarrie	692372953741332480	2016-01-27T15:45:50	Blindly-signed smart contracts paper   blockchain 
+carlcarrie	692371844867948544	2016-01-27T15:41:26	Banks, BlockChains and Smart Contracts - article  
+carlcarrie	692299760154329088	2016-01-27T10:54:59	investment models and algorithmic execution is becoming smarter - paper models intelligent agent based trading   
+carlcarrie	692298727487356928	2016-01-27T10:50:53	Paper on anticipating high frequency liquidity (with apologies for those who say hft liquidity is an oxymoron) 
+carlcarrie	692297424400949248	2016-01-27T10:45:42	Complexity as latent systemic risk in highly automated trading based markets hft flash crash 
+carlcarrie	692296649197162496	2016-01-27T10:42:38	Paper by Terrence Hendershott on why limit orders have overtaken market orders in price discovery lob hft 
+carlcarrie	692244115556294657	2016-01-27T07:13:53	Paper models ETF trading volume as a proxy for demand - eg for commodity ETFs 
+carlcarrie	692032514593034240	2016-01-26T17:13:03	Paper: Dark Side of excessive Private Equity: lower aggregate investment, lower transparency &amp; higher risks 
+carlcarrie	692031896595881984	2016-01-26T17:10:36	Paper linking stock liquidity risk with returns (based on Warsaw stock exchange data) 
+carlcarrie	691896889453707264	2016-01-26T08:14:07	The rise of Artificial Intelligence technology at Hedge Funds - machine learning based Alpha ml | in WIRED   
+carlcarrie	691757814260338688	2016-01-25T23:01:29	FT article on status of Blockchain at big banks 
+carlcarrie	691591645410791424	2016-01-25T12:01:12	HUBO the 4th industrial revolution Robot exemplar   
+carlcarrie	691591018219769856	2016-01-25T11:58:42	The inexorable link between low interest rates and high tech: 4th industrial revolution ushered in by Robotics &amp; AI  
+carlcarrie	691510183403585538	2016-01-25T06:37:30	Paper on  dynamic conditional correlations between the Chinese sector and S&amp;P500 index returns  
+carlcarrie	691345079420739585	2016-01-24T19:41:26	Apparently, hackers can secretly tap into corporate and government meetings 
+carlcarrie	691252107333206016	2016-01-24T13:31:59	On January 23 it's good to know that 23! Is also 23 digits long and 23 is prime itself 
+carlcarrie	691249045529042944	2016-01-24T13:19:49	Did you know that 1920 was Peak Horse? Uberization &amp;  disrupted future of auto-mobility industry in Barclay's Report 
+carlcarrie	691248298431221760	2016-01-24T13:16:51	KPMG report on shared services models and other frontiers of FinTech, finance and insurance 
+carlcarrie	691246466413760512	2016-01-24T13:09:34	Article on R3 consortium and Blockchain progress 
+carlcarrie	691243709761994752	2016-01-24T12:58:37	And the associated video   
+carlcarrie	691243400637628416	2016-01-24T12:57:24	Must read UBS Research Paper on investing in Extreme Automation and the 4th industrial revolution AI Blockchain 
+carlcarrie	691236665264857088	2016-01-24T12:30:38	Implied volatility surface modeled robustly using sigmoid polynomials - paper  
+carlcarrie	691234604183896065	2016-01-24T12:22:26	The growth of leveraged ETFs (LETF) and their options markets also linked to ETF implied volatility - paper 
+carlcarrie	691231375446413312	2016-01-24T12:09:37	Paper models asset pricing with disaster risk equity premiums 
+carlcarrie	691215640535891968	2016-01-24T11:07:05	Algorithmic humor detection ... Not a joke, a paper nlp AI trained on cartoons 
+carlcarrie	691206985891577856	2016-01-24T10:32:42	IncaTrades   700+ page compendium of papers of state-of-the-art in Natural Language Processing NLP   :)
+carlcarrie	691201302563545089	2016-01-24T10:10:07	Paper is a 75 page primer on Natural Language Processing NLP and ml associated neural network techniques  
+carlcarrie	690911206484414464	2016-01-23T14:57:22	WSJ Are We At   Peak FinTech? 
+carlcarrie	690897659327025152	2016-01-23T14:03:32	seouldan   You are inconvincible!  Moving on...
+carlcarrie	690802133738762248	2016-01-23T07:43:57	Deloitte report on several cognitive technologies and their aggregate disruptive potential    
+carlcarrie	690800230892204033	2016-01-23T07:36:24	seouldan the IoT examples,  extend even into sports with cross-disciplinary benefits (health, performance)  
+carlcarrie	690798363483230208	2016-01-23T07:28:58	seouldan   Cybersecurity and data privacy notwithstanding, IoT in just about every industry will be transformative  
+carlcarrie	690788367219433472	2016-01-23T06:49:15	Yes-pedes! Mets
+carlcarrie	690795348974026752	2016-01-23T07:17:00	seouldan Danny, it seems like you have IoT skepticism  :)   @ 1 Terabyte/flight - what say you of IoT tradeoffs:  
+carlcarrie	690788135710674944	2016-01-23T06:48:20	Deloitte report on tech led Banking Transformation - IoT Robotics AI Blockchain 
+carlcarrie	690702437016039424	2016-01-23T01:07:48	WIRED.UK article on ever expanding surface-area of cyber-threat to IOT 
+carlcarrie	690670519738355712	2016-01-22T23:00:58	Machine Learning for developers - parts 1 and 2 for ml newbies   
+carlcarrie	690662288978767872	2016-01-22T22:28:16	TheGuardian on   Space Junk Wars...  
+carlcarrie	690661003906924544	2016-01-22T22:23:09	Bloomberg article on Artificial Intelligence, machine learning and the explosive market growth of infused products 
+carlcarrie	690658929664225281	2016-01-22T22:14:55	The compelling model of escalator dynamics in London - walking vs standing on the left     
+carlcarrie	690655334411669504	2016-01-22T22:00:38	Paper compares 2 models and predicts lob spread reversion post liquidity shocks ml regression 
+carlcarrie	690584940346523656	2016-01-22T17:20:54	Search for Super Algorithms -   deep learning ml based investment algorithms  good article in FT 
+carlcarrie	690567522400235524	2016-01-22T16:11:42	Oliver Wyman report on modular future of financial services and fintech  
+carlcarrie	690564582855811072	2016-01-22T16:00:01	The evolving blurred lines of electronic FX market structure - Finextra article  
+carlcarrie	690563215944728577	2016-01-22T15:54:35	Paper on using deep learning based ml on financial news and company public filings nlp to predict stock prices   
+carlcarrie	690169255619260416	2016-01-21T13:49:07	Paper models the spatial structure of limit order books with a new neural net architecture ml lob 
+carlcarrie	690040010305703936	2016-01-21T05:15:33	Languages and Dialects - in theAtlantic 
+carlcarrie	690017982127337472	2016-01-21T03:48:01	Davos 2016 — the rise of AI and the Digital Economy business   | In FT Business video:   
+carlcarrie	689564755443355648	2016-01-19T21:47:03	Regulatory inspired global liquidity crisis looms is subject of this article   
+carlcarrie	689563247658172416	2016-01-19T21:41:04	Paper on how volume order imbalance impacts optimal algorithmic trading - liquidity  
+carlcarrie	689560810738180096	2016-01-19T21:31:23	Paper on the link between stock volatility &amp; intraday price jumps to macroeconomic news   
+carlcarrie	689378037876465664	2016-01-19T09:25:06	BBC: Hawking on humanity’s existential risk  
+carlcarrie	689002824189923328	2016-01-18T08:34:08	Apple’s purchase of Emotient and AI-infused impact on cross industry competitive dynamics article  
+carlcarrie	688850717474336769	2016-01-17T22:29:43	Smart contracts blockchain use cases and BitShares 2.0 discussed here 
+carlcarrie	688844714829721600	2016-01-17T22:05:52	Greenwich report on Japanese Equity Market Structure Dynamics    
+carlcarrie	688728869646434306	2016-01-17T14:25:33	Managing Algorithms to maximize their value | in HBR   
+carlcarrie	688725167342682112	2016-01-17T14:10:50	Big, Fat EBook on Algorithms  
+carlcarrie	688192940347273218	2016-01-16T02:55:57	TheEconomist - Tech startups are Ruthless Meritocracies   
+carlcarrie	687051760813248513	2016-01-12T23:21:19	NBA floor spacing analyzed dynamically in R - blog and source code rstats  
+carlcarrie	686593724248244224	2016-01-11T17:01:14	Using graph theory to show irreversibility of financial time series and link to entropy paper 
+carlcarrie	686593095958265856	2016-01-11T16:58:45	New Stephen Hawking co-authored paper on Black Holes - information paradoxes and soft hair in their vernacular 
+carlcarrie	686585246532280320	2016-01-11T16:27:33	A Strategist’s Guide to Blockchain - use cases, key outcomes and nature of transformation report 
+carlcarrie	686583379169394690	2016-01-11T16:20:08	ITG report on Global Circuit Breakers defined and compared   market microstructure  
+carlcarrie	686582524097597441	2016-01-11T16:16:44	BoC Presentation on  Shanghai-Hong Kong Stock Connect includes flow Volumes and market microstructure  
+carlcarrie	686559745054904320	2016-01-11T14:46:13	Neural network architectures for limit order book modeling  lob paper  
+carlcarrie	686408564445847553	2016-01-11T04:45:29	Fin-tech and Whaling | in The Economist 
+carlcarrie	685170808109531140	2016-01-07T18:47:05	Paper on identifying fake reviews (aka deception) using machine language - ml nlp  
+carlcarrie	685104936217096192	2016-01-07T14:25:20	CLOUD based Business Intelligence report - vendors and their strategies compared by forrester BI 
+carlcarrie	685095410621353984	2016-01-07T13:47:29	Paper on simulating limit order books dynamically - lob model 
+carlcarrie	685095108212076544	2016-01-07T13:46:16	Reversion prediction after liquidity shocks to limit order books while adjusting for volatility paper lob 
+carlcarrie	685063549601857537	2016-01-07T11:40:52	KPMG frontiers of finance e-zine - Blockchain, offshoring rethink and data transformation 
+carlcarrie	685061569076568065	2016-01-07T11:33:00	Deep Grammar - deep learning based grammar fixer-upper ml nlp 
+carlcarrie	684957246195941376	2016-01-07T04:38:28	CNN on Algorithmic Credit Scoring in China 
+carlcarrie	684747266066903041	2016-01-06T14:44:04	REPLACING lawyers with AI    Or, not-so-fast 
+carlcarrie	684737023807197184	2016-01-06T14:03:22	CalTech Paper describes precisely what happens in your mind when reaching a consensus with colleagues at work  
+carlcarrie	684733875235479552	2016-01-06T13:50:52	The link between trading volume and volatility on the NSE and the corollary impact of expirations explored here  
+carlcarrie	684732630126989314	2016-01-06T13:45:55	Automated Trading article on integrating sentiment into the trading process  
+carlcarrie	684374726236606465	2016-01-05T14:03:44	Paper on tactical asset allocation with a macroeconomic factor model  
+carlcarrie	684374232420204546	2016-01-05T14:01:46	Simple primer on trading ETFs in Journal of Trading 
+carlcarrie	684324033186287616	2016-01-05T10:42:18	Behold the power of PI, a Parallel in-memory skip list based Index, faster than b-tree based algorithms 
+carlcarrie	684112762633453568	2016-01-04T20:42:47	.helenarney extends Tom Lehrer's chemical element song with today's 4 new ones. 
+carlcarrie	683688449354936320	2016-01-03T16:36:43	WildML ml blog post about deep learning, memory and comprehension  
+carlcarrie	683685427862212609	2016-01-03T16:24:42	Dynamic factor model for stock returns and their correlations paper  
+carlcarrie	683682137355214848	2016-01-03T16:11:38	Transaction costs and trade throughout for corporate bonds TCA and dealer impact  
+carlcarrie	683681888481996801	2016-01-03T16:10:39	Multivariate analysis of a 3 factor information based trading model - paper 
+carlcarrie	683680437684842496	2016-01-03T16:04:53	Paper on the key challenges involved in machine learning based visual recognition  
+carlcarrie	683676936590200832	2016-01-03T15:50:58	Bitcoin algorithmic trading leveraging Twitter Sentiment ml paper  
+carlcarrie	683653509435273217	2016-01-03T14:17:52	Extreme Classification - multi- classes machine learning algorithms discussed in this presentation  
+carlcarrie	683650069518757888	2016-01-03T14:04:12	Netflix Algorithms Unboxed in this paper   
+carlcarrie	683635116636291072	2016-01-03T13:04:47	Ode to a predecessor, the archetype to Lotus and Excel, the original in its simple glory: VisiCalc | in TheGuardian 
+carlcarrie	683504787460087809	2016-01-03T04:26:54	R package for Bayesian structure learning in graph models   - rstats paper  
+carlcarrie	683495086290763776	2016-01-03T03:48:21	Bayesian Monte Carlo Analysis in JavaScript source code: bayes.js 
+carlcarrie	683438422434910208	2016-01-03T00:03:12	Statistical anomalies in Chinese stock markets profiled here: positive return skewness, anti-leverage, reverse vol 
+carlcarrie	683349040780697600	2016-01-02T18:08:01	An improved Blockchain protocol design called MultiChain described in this paper 
+carlcarrie	683296505290166272	2016-01-02T14:39:16	Why Bitcoin still Matters | in TechCrunch 
+carlcarrie	683294852373737472	2016-01-02T14:32:42	Forecasting Shock Factors | in FT 
+carlcarrie	683294154185650177	2016-01-02T14:29:56	Liquidity (IPO) challenges for private tech companies - article in FT with good visualization of Global IPOs 
+carlcarrie	683292956426649601	2016-01-02T14:25:10	Philosophy of Computer Science Ebook ((c) 2015) 
+carlcarrie	683292192081862656	2016-01-02T14:22:08	Artificial Intelligence Ebook - over 1K pages - albeit dated on ML and deep learning techniques; but, a good intro 
+carlcarrie	683290878752985088	2016-01-02T14:16:55	Presentation on evolution of Artificial Intelligence AI from Turing Machines to Watson to Deep Learning 
+carlcarrie	683290065481654272	2016-01-02T14:13:41	Everyday AI in every way real, accessible and useful | in WIRED  
+carlcarrie	683277619106807809	2016-01-02T13:24:13	A proposal for scaling the Blockchain with SCP - Singapore conference presentation pptx 
+carlcarrie	683276098805841920	2016-01-02T13:18:11	Revealing shorts in the EU uncovers negative returns over longer term - paper 
+carlcarrie	683274979765563392	2016-01-02T13:13:44	Paper empirically analyzes the lead/lag flow relationship between ETFs (SPY) &amp; underlying Cash stocks analytically  
+carlcarrie	683274097254641664	2016-01-02T13:10:14	Paper coherently structures snippets from classical market microstructure, algorithmic trading &amp; market-making  
+carlcarrie	683271980536205318	2016-01-02T13:01:49	Paper examines the contemporaneous lead/lag relationships between stock options and spot trading &amp; volume in India 
+carlcarrie	683037656448630784	2016-01-01T21:30:42	robertiati will do. :)
+carlcarrie	682973520859656195	2016-01-01T17:15:51	Augmentation of Intelligence by combining "AI" and Human "I" article 
+carlcarrie	682970704422301700	2016-01-01T17:04:39	The inevitability of Blockchain in Banking  
+carlcarrie	682970129534205953	2016-01-01T17:02:22	Foursquare's disruptive forecasting potential in their Pilgrim technology unleashed on Apple 
+carlcarrie	682966660601495552	2016-01-01T16:48:35	How are visualized recognized and recorded?   
+carlcarrie	682964966396276736	2016-01-01T16:41:51	VR and the NFL article in WIRED 
+carlcarrie	682954617349648384	2016-01-01T16:00:44	Generating MindMap Visualizations of relationships from Word2Vec models NLP 
+carlcarrie	682953944851701761	2016-01-01T15:58:03	Definitely disagree that Robot and AI concerns have peaked - but 'panic' is not the right word either singularity 
+carlcarrie	682952846975840256	2016-01-01T15:53:42	WIRED on OpenAI and mitigating the AI singularity 
+carlcarrie	682952012271620096	2016-01-01T15:50:23	The disconnect of Privilege, Pathology and Power  By Paul Krugman in the NYT 
+carlcarrie	682950946838679552	2016-01-01T15:46:08	New technologies that let you Feel the hologram   
+carlcarrie	682935171893559296	2016-01-01T14:43:27	Are you addicted to distraction?   
+carlcarrie	682933656021766144	2016-01-01T14:37:26	BlockChain for Beginners 
+carlcarrie	682933247962169345	2016-01-01T14:35:49	Game Changer: Beware the only real Unicorn with designs on FinTech   
+carlcarrie	682923954651181056	2016-01-01T13:58:53	Paper is only 12 pages, but it is really the BEST tutorial on Principal Component Analysis PCA on the Planet 
+carlcarrie	682788381416361984	2016-01-01T05:00:10	Happy New Year
+carlcarrie	682764219079639040	2016-01-01T03:24:09	Robotic Receptionist   
+carlcarrie	682759001705164801	2016-01-01T03:03:25	Goldman's chart of biggest companies of the world highlights the ascendancy of technology   
+carlcarrie	682758190140899329	2016-01-01T03:00:12	2015! A year for math proofs  
+carlcarrie	682652739994828800	2015-12-31T20:01:10	Nasdaq Linq Enabled 1st Private Securities Issuance Using vendor  and Blockchain - article 
+carlcarrie	682651651254153216	2015-12-31T19:56:51	Paper explores different potential use cases for Blockchain technology - archetypal and future 
+carlcarrie	682650736765857796	2015-12-31T19:53:13	Paper on generic market making using genetic algorithms and surprising use of NetLogo language to represent agents 
+carlcarrie	682506021022101504	2015-12-31T10:18:10	Google's "Thought Vector" Algorithms profiled in this article 
+carlcarrie	682504151037775872	2015-12-31T10:10:44	Unicorn takes all - NewYorker feature on convergence to single monopolistic tech winners and market implications 
+carlcarrie	682491858413551620	2015-12-31T09:21:53	Introduction to Machine Learning ml and BigData for Economists - blog post 
+carlcarrie	682485960832102401	2015-12-31T08:58:27	I enjoyed this applied Game Theory article - Strategies for 14 Classic Games | in TheWashingtonPost chess 
+carlcarrie	682437953755451393	2015-12-31T05:47:41	Queue imbalance and predictive efficiency for limit order book dynamics - paper 
+carlcarrie	682435363562983425	2015-12-31T05:37:24	HBR: Leaders usually skilled in one or the other? strategy OR execution, not both   
+carlcarrie	682433920953114624	2015-12-31T05:31:40	Article: China and Clinton Agree: Traders Should Pay for Canceled Orders to reduce market manipulation  
+carlcarrie	682432324710051840	2015-12-31T05:25:19	Kurzweil on The top AI breakthroughs of 2015 
+carlcarrie	681836424128249858	2015-12-29T13:57:26	Report on BlockChain and Payment processing &amp; spending by Commercial Retail Banks  
+carlcarrie	681833126843277312	2015-12-29T13:44:19	seouldan hat tip for   Springer's stochastic calculus Ebook   
+carlcarrie	681812254715678720	2015-12-29T12:21:23	Chaos and Fractals Ebook (2003 classic - nearly 900 pages)  Via MarcosCarreira 
+carlcarrie	681716278994845696	2015-12-29T06:00:01	Volatility and the link to mispricing thresholds adjusted for trading impact costs on the NSE in India 
+carlcarrie	681322091069702145	2015-12-28T03:53:39	The Black Chamber, Snowden and Cryptographic History | in The Economist 
+carlcarrie	681294859739660288	2015-12-28T02:05:27	Gil_Forbes ... this 2013 NYT article references a similar classic decision dilemma   
+carlcarrie	681293830474326016	2015-12-28T02:01:21	Gil_Forbes decisions like the one posed in the paper aren't avoidable with autonomous vehicles ... Even if randomizing the decision
+carlcarrie	681292965084573696	2015-12-28T01:57:55	Gil_Forbes - lol  philosophers conjure, humans wonder and algorithms ponder    
+carlcarrie	681120593211736064	2015-12-27T14:32:58	Presentation on String Algorithms  
+carlcarrie	681120127602003968	2015-12-27T14:31:07	Cyborgs in traffic and the near term impact of driverless cars on society - paper 
+carlcarrie	681119632841945088	2015-12-27T14:29:09	Self-driving vehicles and the ethical driving algorithms that empower them - paper   
+carlcarrie	680836972533911553	2015-12-26T19:45:58	Impact of tick size on high frequency trading behavior paper in Australia   …
+carlcarrie	680835963841581060	2015-12-26T19:41:57	Paper in a new method of measuring tail risks at high frequency by using cross section of intraday bid ask spreads  
+carlcarrie	680801288590852096	2015-12-26T17:24:10	The state of the art in distributed machine learning algorithms and clustering - ml presentation   

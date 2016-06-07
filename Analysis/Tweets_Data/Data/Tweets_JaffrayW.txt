@@ -1,0 +1,207 @@
+JaffrayW	725738873272291328	2016-04-28T17:30:05	Here are a few words to our customers from Baron Schwartz, VividCortex's CEO, on our $4.5M of Series A funding  
+JaffrayW	725128935290318851	2016-04-27T01:06:25	Random shoutout to the Theano devs, who I think have been doing an amazing job, and have pioneered some incredibly impactful ideas.
+JaffrayW	725017997924917248	2016-04-26T17:45:35	Could be Great but Not Quite Clear Yet start-ups have 50x higher chance of funding if prior round investor is super respected
+JaffrayW	724292812095680513	2016-04-24T17:43:57	"Finding global optimizers is trivial. But finding models that generalize well is much more subtle."  deeplearning
+JaffrayW	724270620058374144	2016-04-24T16:15:46	"When it comes to gauging best execution, that exercise is akin to a game of whack-a-mole" 
+JaffrayW	723927811308814337	2016-04-23T17:33:34	Triforcetrader egrefen No worries. I very often fail to understand people.
+JaffrayW	722589178492428289	2016-04-20T00:54:19	The ability of a field to accept a contribution from an outsider seems to be very indicative of its ability to make progress.
+JaffrayW	723699900400046082	2016-04-23T02:27:56	Prince's vision for lifting up black youths: Get them to code: 
+JaffrayW	723886307810922496	2016-04-23T14:48:39	No, we don't exploit complexity-generated inefficiencies. We only trade the simplest instruments: stocks &amp; futures. Triforcetrader egrefen
+JaffrayW	723882978003324928	2016-04-23T14:35:25	DavidTaggart Mostly a .Net shop. I'm coding in F# now, it has been a revelation to become a much more functional programmer (pun intended).
+JaffrayW	723882236890763264	2016-04-23T14:32:29	Using unnecessary complexity to sell things is a primary part of Wall Street's business model. egrefen tyillc MikeSigner mcuban
+JaffrayW	723875153684340736	2016-04-23T14:04:20	If all aspects of finance were as well explained as they are in The Big Short, no one would put up with the crap that happens on Wall Street
+JaffrayW	703359101850537984	2016-02-26T23:20:52	Provocative.   An object lesson that measures such as GDP fail to capture changes in quality. 
+JaffrayW	723752235675619328	2016-04-23T05:55:54	If children learn early that "haven't got the faintest idea" is a valid response to a questions they will be less annoying as grownups
+JaffrayW	722064824759369728	2016-04-18T14:10:44	Today, we announced cvent has agreed to be acquired for $1.65B ($36 per share). Read more on my LinkedIn: 
+JaffrayW	722141979618975745	2016-04-18T19:17:19	Rich client GUI frameworks were one thing that drove OO into nearly every team.I'm increasingly sure web frameworks will drive functional.
+JaffrayW	720924249914019841	2016-04-15T10:38:29	Contrary to pop. belief, ind. ownership* of US stocks is actually quite high:  *Direct, indirect.  V bySamRo, SL 
+JaffrayW	720689213121961984	2016-04-14T19:04:32	Is it just me or are tweets really just not enough to get a point of any subtlety across? I think I made my point.
+JaffrayW	719741821644054528	2016-04-12T04:19:57	For decades our parents fought communism and socialism only to have their kids scream for it in their colleges and in the streets.
+JaffrayW	719320846704209921	2016-04-11T00:27:08	carlmalamud any in the Virginia area?
+JaffrayW	717839953678483456	2016-04-06T22:22:36	Folks, Kimserey_Lam is unstoppable - please give him some RT love  fsharp websharper
+JaffrayW	718977156186009600	2016-04-10T01:41:26	Kimserey_Lam's blog is an impressive guide to the features of WebSharper, subscribe if you're into F# + JS UI  
+JaffrayW	718865838405619714	2016-04-09T18:19:06	tyillc could it be these economists don't understand transparency is the foundation on which all of economics is built?
+JaffrayW	718865645211750401	2016-04-09T18:18:20	Of course, there is an interesting question, why are Nobel prize winning economists so easy to debunk when talking about financial crisis?
+JaffrayW	718794877274877952	2016-04-09T13:37:07	What a week! We had Square Root Day (4/4/16), Power of Two Day (4/8/16) and today--Perfect Square Day! (4/9/16)
+JaffrayW	717945415744643072	2016-04-07T05:21:40	Reading through the code of this tflearn library. This looks... familiar...
+JaffrayW	717857911930683392	2016-04-06T23:33:58	From page 14, of Reg NMS. How does an internalizer help with this? 
+JaffrayW	717450681657999361	2016-04-05T20:35:46	"Size" (in gigabytes) of a leak is misleading to how much info it has. A scan of a paper doc has as many bytes as 1000s of pages of plaintxt
+JaffrayW	717185051004260354	2016-04-05T03:00:15	Impossible. Improbable. Inevitable.  
+JaffrayW	716975575823323138	2016-04-04T13:07:52	HardSFMovies An unexpected code behavior turns an advanced AI rogue. It continues to outwardly behave nicely until the movie's abrupt end.
+JaffrayW	716974181892562944	2016-04-04T13:02:20	HardSFMovies In the first-ever credible sighting of an alien probe, a scientist spots a tiny nanomachine under a microscope.
+JaffrayW	716251596414394368	2016-04-02T13:11:02	Dave Matthews’ farm is immediately across the street from Trump Winery. It’s got this new sign, facing the winery. 
+JaffrayW	715543928410402816	2016-03-31T14:19:01	China Hedge funds are talking about China A50 futures at 16:47hr when S&amp;P announced negative outlook. FAT finger? 
+JaffrayW	715335788981063680	2016-03-31T00:31:57	From Philosophy of Pseudoscience (Pigliucci &amp; Boudry, 2013), h/t Derek Berger 
+JaffrayW	715339811284975616	2016-03-31T00:47:56	Here is the real unanticipated impact of California's $15 minimum wage: right now you're gonna hear more about Fresno than San Francisco.
+JaffrayW	715127028685492224	2016-03-30T10:42:24	"The Yellen Fed is like a poker player who always folds whenever you shake up the pot a little bit..." 
+JaffrayW	714975721693777920	2016-03-30T00:41:10	Seriously? Regulators are struggling to make sense of market data, and you want them data mining smart contracts?! 
+JaffrayW	714967246657880064	2016-03-30T00:07:29	lpolovets why folks don't do 30% warrant coverage + flat round instead of 30% down round makes zero sense to me
+JaffrayW	714450733987467264	2016-03-28T13:55:03	My article on off-exchange market makers and the duty of best execution - spread the word! . . . 
+JaffrayW	714272969296621568	2016-03-28T02:08:41	JWMason1 I find it odd that you think it shouldn't matter in setting minimum wages that an apt. in NY costs a lot more in rent than in AL.
+JaffrayW	714256151408414720	2016-03-28T01:01:51	Curious if arindube predicts CA's $15 min wage will lead to substantial job loss in poorer areas of state.
+JaffrayW	713477659657900034	2016-03-25T21:28:24	pdacosta Its part of the game to retain opacity so they can make money from information asymmetry 
+JaffrayW	713373908855033857	2016-03-25T14:36:08	MRVAssociates We know nothing more about the contents of the black box banks then we did before crisis
+JaffrayW	713371631285104640	2016-03-25T14:27:05	MRVAssociates In Transparency Games, discuss in detail bank supervisory process not designed to prevent failure  
+JaffrayW	712724831075246081	2016-03-23T19:36:56	(2/n) if a trading desk does its job as a market maker to clients, it ends up with mark to market losses. It's utterly normal to take those
+JaffrayW	712724531513856000	2016-03-23T19:35:44	I am calling "bollocks" on Tidjane Thiam. I think he knows very well what happens to a debt trading desk in fast illiquid markets. (1/n)
+JaffrayW	712976619955232768	2016-03-24T12:17:27	How flow trading desks in illiquids make $ 1) Panicked custys 2) Bid/offer 3) New issues 4) Better info  How they lose $ 1) positioning
+JaffrayW	713268329948057600	2016-03-25T07:36:36	AutoML workshop at ICML2016.  
+JaffrayW	713045667770335232	2016-03-24T16:51:49	AI at center of Google is like black hole at the center of Milky Way. Difficult to observe directly, but tremendous influence.
+JaffrayW	712791765078638593	2016-03-24T00:02:54	jake_f I'm never going to understand the obsessive view that absolute liquidity at all times is a) necessary b) desirable c) even possible
+JaffrayW	712663449428500480	2016-03-23T15:33:01	Oh my god SwiftOnSecurity is literally becoming a Microsoft product 
+JaffrayW	712420125480079361	2016-03-22T23:26:08	This is like Christmas for HFT that thrives in complex market structure.  All sorts of new strategies just waiting to be thought up.
+JaffrayW	710482093655064577	2016-03-17T15:05:05	To process huge data streams, we use sketches. Our new ebook explains the unique approach.  
+JaffrayW	711895277104312321	2016-03-21T12:40:35	We’re hiring sales reps! Please RT. Need experience with complex (preferably six-figure+) enterprise sales. 
+JaffrayW	711111088625094656	2016-03-19T08:44:29	"Insanity is doing the same thing over and over, and expecting different results."  So is deliberate practice.
+JaffrayW	709565957400862720	2016-03-15T02:24:41	Cellular automata are very simple --&gt; see usage as a random-number generator in Mathematica.  
+JaffrayW	709540841254227972	2016-03-15T00:44:53	DavidBrin elonmusk credit where it's due, this is largely Solomonoff's brilliant insight.
+JaffrayW	709521158538792961	2016-03-14T23:26:41	Cool ElonMusk aphorism: "Interesting to think of physics as a set of compression algorithms for the universe." 
+JaffrayW	709539068787494912	2016-03-15T00:37:51	This is in response to this article from Scientific American about the final digits of consecutive prime numbers. 
+JaffrayW	709477972818980864	2016-03-14T20:35:04	Patterns in the final digits of prime numbers. For base-19, the patterns are much stronger than base-10. 
+JaffrayW	709472564356255744	2016-03-14T20:13:35	The base-10 final digit patterns are downright boring. Folks should check out the last digit patterns using base-19 etc. sciam evelynjlamb
+JaffrayW	709212323827752962	2016-03-14T02:59:29	I am a big believer in rewriting your software from scratch once in a while.
+JaffrayW	709083677993598976	2016-03-13T18:28:17	Proud of being gentle with the waiter &amp; tough with powerful ass***les rather than reverse.  … 
+JaffrayW	709053994103083008	2016-03-13T16:30:20	The successor of AlphaGo should be BettaGo and include online adaptation to the opponent.  During her PhD at NYU,... 
+JaffrayW	709023770959351809	2016-03-13T14:30:14	Thinking time (mins): LeeSedol vs. AlphaGo, 4th game. dataviz  
+JaffrayW	708668011264090112	2016-03-12T14:56:34	"That Go win is not so impressive because it uses so much compute power" is not a smart thing to say. It will be in your pocket in 2 years.
+JaffrayW	708509819804766208	2016-03-12T04:27:59	48% vs 8% for everyone else. Maybe he did break basketball. StephenCurry30 
+JaffrayW	708308548028141569	2016-03-11T15:08:12	Finance is an industry run for/by employees, that demands other industries be run for/by shareholders
+JaffrayW	708466182957834240	2016-03-12T01:34:35	The best way to improve your library: actually sit down with first-time users and watch them figuring things out (or not).
+JaffrayW	707227341504716800	2016-03-08T15:31:52	My feed is alive with P-value talk, but there is so much more snout to this crocodile. 
+JaffrayW	707209257666613249	2016-03-08T14:20:00	Dreams can definitely help learning because certain dream pieces get committed to LTM. So glad you clarified this! 
+JaffrayW	706881106331758593	2016-03-07T16:36:03	Just got my copy … available for pre-order at Amazon, should be shipping soon 
+JaffrayW	706710881652965376	2016-03-07T05:19:38	Such a valuable insight. Companies should have someone who watches over time the way CFOs watch over money. 
+JaffrayW	706555275256401923	2016-03-06T19:01:19	Top bottlenecks in cville/UVA: real estate, silos, innovation leadership. SEatUVA thebridgepai UVALVG uvavpr 
+JaffrayW	706554286247944194	2016-03-06T18:57:23	Could have been $25m 6 months ago if UVA wasn't alone. Prob not true anymore SEatUVA thebridgepai UVALVG uvavpr 
+JaffrayW	706475736778022913	2016-03-06T13:45:15	if Drexel can do a $3.5B innovation district, surely UVA can do a $35M one? tjmiano thebridgepai UVALVG uvavpr 
+JaffrayW	706526988455038976	2016-03-06T17:08:55	An article on what Drexel University is doing in Philadelphia:  
+JaffrayW	705159889484541952	2016-03-02T22:36:33	often overlooked, but really interesting how much the production of high-quality datasets allows for breakthroughs in machine learning.
+JaffrayW	702683890511716352	2016-02-25T02:37:49	Japan got paid $464 million to borrow thanks to negative interest rates. 
+JaffrayW	701463454499012608	2016-02-21T17:48:14	AndrewHuszar boldest insightful insider turned outsider critic of our biased,twisted fin mkt overseers.Must watch 
+JaffrayW	700407698647601152	2016-02-18T19:53:02	AndrewHuszar is fabulous in this interview. A MUST watch if you want to understand the federalreserve ttmygh 
+JaffrayW	701426551871639552	2016-02-21T15:21:36	Over the next year, I hope more ppl appreciate the utility of zip &amp; transpose. Once you get them, you won't know how you lived w/o them.
+JaffrayW	701400951563878405	2016-02-21T13:39:52	If you want software that performs well, there are worse ideas than giving your engineers "underpowered" computers to develop on.
+JaffrayW	700817300576989185	2016-02-19T23:00:39	. CodeSpark: The California startup that’s using apps and games to teach coding to 5-year-olds  via LASchoolReport.
+JaffrayW	699016478012608512	2016-02-14T23:44:50	A moment that became inevitable with the first round of QE.  
+JaffrayW	698043085238902785	2016-02-12T07:16:55	To make science papers more accurate: Use holdout sets (like machine learning)  v MaxCRoser 
+JaffrayW	698105109490876416	2016-02-12T11:23:22	Trader_Dante after 10 yrs in the prop industry I can safely say there's an inverse correlation between level of academia and success.
+JaffrayW	696462458974769152	2016-02-07T22:36:04	I asked "what if pairing promotes verbalisation, reducing insights?" SalFreudenberg 's view  
+JaffrayW	696410635899371526	2016-02-07T19:10:08	TWTR will have a problem when people stop complaining
+JaffrayW	695864344928743425	2016-02-06T06:59:23	.sigkill bhcarpenter Twitter will only get better if their leadership (jack) &amp; their coders become heavy users &amp; eat their own dog food.👍
+JaffrayW	695957409123188736	2016-02-06T13:09:11	Mono-tasking is really the best and only way to write software. The context switching is a real killer!!!
+JaffrayW	695139645231886338	2016-02-04T06:59:41	Never gets old. 
+JaffrayW	675336945887789057	2015-12-11T15:30:49	Leave it to twitter to demonstrate in its own survey that it has no idea why people use Twitter. 
+JaffrayW	695812504749002752	2016-02-06T03:33:23	IvanTheK I hope you are right...  So much of this could be fixed with a better onboarding / "how to use this thing" experience.
+JaffrayW	695341437068529664	2016-02-04T20:21:32	The apocalypse happens when Facebook adds a "friend request all this friend's friends" button. 
+JaffrayW	695385986092544000	2016-02-04T23:18:33	Halsrethink I personally know more than a few of today's cenbankers,and many in the past.I fear fragility of world mkts now underestimated
+JaffrayW	694543815642849281	2016-02-02T15:32:04	JoeSaluzzi Market wide circuit breakers are not a panacea.  They blew up in China and could have blown up here on Aug 24.
+JaffrayW	694225454375436289	2016-02-01T18:27:01	fsharp community my gig may be up soon. Any interesting contract gigs out there?  DM me.
+JaffrayW	694278495640363009	2016-02-01T21:57:47	samim basically he's just saying to Wall Street - you should learn linear algebra because that is what we do
+JaffrayW	694315313580630020	2016-02-02T00:24:05	Don't know Snapchat at all, but Twitter could recommend awesome content &amp; potential follows if they were ML-savvy. 
+JaffrayW	693595513770369024	2016-01-31T00:43:51	So cool! Some of my MIT colleagues have invented a way to automatically detect &amp; repair common software bugs.  2MA
+JaffrayW	364989455414726657	2013-08-07T06:00:42	If you don’t actively fight for simplicity in software, complexity will win.  …and it will suck.
+JaffrayW	692370807490793472	2016-01-27T15:37:18	JaffrayW They don't come on BBGTV therefore they don't exist.
+JaffrayW	692369559467212800	2016-01-27T15:32:21	This ranking doesn't include quantitative hedge funds such as Renaissance Technologies, DE Shaw, and Two Sigma. Why? 
+JaffrayW	692136202787540992	2016-01-27T00:05:04	The Foos: 2015 in Images and Song -  codeSpark
+JaffrayW	691952846762287104	2016-01-26T11:56:29	My take on Robin Hanson's forthcoming book *The Age of Em*, 
+JaffrayW	691817381400813569	2016-01-26T02:58:11	RobinWigg any WSJ editor with a pulse would've done Flash Boys a world of good. Y'know, facts and reporting and all.
+JaffrayW	691791354083577856	2016-01-26T01:14:46	Sport has the power to make you feel on top of the world 1 minute &amp; on bottom the next. You have to remember truth is somewhere in between
+JaffrayW	691676827170009088	2016-01-25T17:39:40	Michael Lewis thinks Michael Lewis is great, not sure about those other guys 
+JaffrayW	691709391859511296	2016-01-25T19:49:05	In 1987 Warren Buffett predicted that quantitative trading would not be successful.   
+JaffrayW	691706342244007937	2016-01-25T19:36:57	My Quora answer to  What does Warren Buffett think of quantitative hedge funds?
+JaffrayW	685548333163663360	2016-01-08T19:47:14	I really dislike checking my email in the morning. It's like you get a TODO list sampled from the universe every morning.
+JaffrayW	691660880090509312	2016-01-25T16:36:18	‘I’ve never gotten over the feeling when I learnt Goldman Sachs had designed securities that would fail, so they could then short them’ - ML
+JaffrayW	690649205459783680	2016-01-22T21:36:16	Non-rebate patent appl from DEShaw on slowing markets down:  
+JaffrayW	691634366007656448	2016-01-25T14:50:57	To eliminate any confusion, this is a bengoertzel quote from the Wired article.  
+JaffrayW	691617707532390400	2016-01-25T13:44:45	The author creates an imaginary difference between "AI" and machine learning techniques. 
+JaffrayW	690512576078311425	2016-01-22T12:33:21	We (100+ contributors) gave away scikit-learn for free (with support) researchparasites all we got was 2000+ citations, startups, &amp; science
+JaffrayW	690592346723983360	2016-01-22T17:50:20	You either have an absurdly non-standard definition of front-running, or you don't get the concept of market impact. 
+JaffrayW	690591675811524608	2016-01-22T17:47:40	RGNewJr ThemisSal was talking about &gt;1 day holding periods. It is irrelevant whether you call it trading or investing.  mechmarkets
+JaffrayW	690588841938403328	2016-01-22T17:36:25	TabbJalexander RGNewJr ThemisSal Passive child orders will move the market too. Even with zero intermediaries/"order anticipation"
+JaffrayW	690587362196324352	2016-01-22T17:30:32	RGNewJr ThemisSal Incorrect. Markets w/o intermediaries exhibit impact. See, eg square-root impact in bitcoin mkt 
+JaffrayW	690590127568068608	2016-01-22T17:41:31	ThemisSal mechmarkets RGNewJr Yes, yes we are (at my firm). Average holding period 3 weeks.
+JaffrayW	690589756774858754	2016-01-22T17:40:03	Yes!  This is why viewing quotes through a net lens is so much better. It is what smart algos do anyhow. 
+JaffrayW	690572056249917440	2016-01-22T16:29:43	ThemisSal AlgoTrdr callieabost ltabb You know that liquidity tends to be tighter on rebated markets by almost exactly the rebate amount?
+JaffrayW	690588318380204034	2016-01-22T17:34:20	“Immutability Changes Everything” 
+JaffrayW	690296323661115392	2016-01-21T22:14:03	Odd political cycle when the two frontrunners in both major parties are among the most unelectable candidates either party could choose.
+JaffrayW	690223167495917568	2016-01-21T17:23:21	"it is true that we don’t want to be the third GSE" - The Bernanke No worries. You're the #1 GSE.
+JaffrayW	689928344180297728	2016-01-20T21:51:50	Like mysteries? Read how a VividCortex agent uncovered an issue in the Go standard library:  
+JaffrayW	689256332701110273	2016-01-19T01:21:30	avantgame Literacy Bridge, UNICEF, and ARM Unite to Help 40,000 People Living in Extreme Poverty. 
+JaffrayW	689222099005784064	2016-01-18T23:05:28	One very poor person worth $1 has more wealth than one-tenth of the world's population. (Same idiotic logic) 
+JaffrayW	689085905798303744	2016-01-18T14:04:17	I didn't much care 4 MikeGrunwald's review of The Big Short,which wasn't a review but an attempt to rewrite history 
+JaffrayW	689105276394434560	2016-01-18T15:21:15	JaffrayW But the twitter does not have time! They are busy handcrafting "moments" with soccer and celeb gossip for you!
+JaffrayW	689102200715481088	2016-01-18T15:09:02	Twitter could create their own SuperLists by analyzing the best lists by topic. Standard machine learning recommendations. cc: Twitter
+JaffrayW	689100850996858885	2016-01-18T15:03:40	There are some amazing Twitter lists out there, but they are very hard to find. Twitter should have "Lists" as a Search option.
+JaffrayW	688810315513991169	2016-01-17T19:49:11	What The Big Short Gets Right (and What Politico Gets Wrong) 
+JaffrayW	688809572060930048	2016-01-17T19:46:14	"...it's a mistake. If it's too cold in the room,u don't fix the problem by holding a candle under the thermometer," 
+JaffrayW	688250762334343170	2016-01-16T06:45:43	mutable by default is the ultimate premature optimization
+JaffrayW	688492069694783488	2016-01-16T22:44:35	adamdavidson mikegrunwald  3) Complex Derivatives are/were used to hide leverage/game regulations. Value to markets otherwise close to 0
+JaffrayW	688491394403553280	2016-01-16T22:41:54	adamdavidson mikegrunwald  2) CDO accounting, which over valued Super Senior, allowed bankers to get paid up front for fake profits
+JaffrayW	688490985781858305	2016-01-16T22:40:17	adamdavidson mikegrunwald Few other points 1) Relationship between rating agencies banks outright corrupt
+JaffrayW	688490519496921090	2016-01-16T22:38:26	adamdavidson As a trader at Citi for 20 years, (and a PhD in math who worked in Derivatives) I agree with almost all of this mikegrunwald
+JaffrayW	688461623091179520	2016-01-16T20:43:36	5. MikeGrunwald This makes me-and many others-believe that w/o CDOs the crisis would have been much less severe.
+JaffrayW	688407141057740800	2016-01-16T17:07:07	Interest rate analysis via the latest Howard Marks letter 
+JaffrayW	688136421555613697	2016-01-15T23:11:22	VIX is 35% below Aug highs while global stocks are 3% below Aug lows. VT ACWI complacency 
+JaffrayW	687325279405080576	2016-01-13T17:28:11	Reddit AMA on $1,000,000 Preregistration Challenge going right now: 
+JaffrayW	686949747891003392	2016-01-12T16:35:57	You can find this quote in Joseph T. Salerno's article, David Bowie, RIP:  
+JaffrayW	686837565077467136	2016-01-12T09:10:10	Unexpected impact of negative interest rates - Swiss Canton stops accepting early tax payments, as depositing cash is costing them money!
+JaffrayW	686441187297726465	2016-01-11T06:55:07	I am hearing rumors that perfectly informed rational agents overinvested in their ability to produce commodities. 
+JaffrayW	686319465097760768	2016-01-10T22:51:26	background to ILMN blood test move--our story on HopkinsMedicine  that broke open this concept 1.5 years ago  
+JaffrayW	686314838235189249	2016-01-10T22:33:03	The evaluation system for health products is totally unprepared for technological change like this.  
+JaffrayW	686294073741676544	2016-01-10T21:10:32	Brilliant sentence juxtaposition on OpenAI's careers page 
+JaffrayW	686192766628540416	2016-01-10T14:27:59	Progressive government: making many a drop poorer to make 1 super rich and 3 yrs later denounce them as an oligarch. 
+JaffrayW	686183195545571328	2016-01-10T13:49:57	Memorizers are lowest achievers in math  MTBoS
+JaffrayW	684194339027722240	2016-01-05T02:06:56	Fascinating thing about Silicon Valley is # of top-end people effectively working entirely to fund charities. 
+JaffrayW	686024583120613376	2016-01-10T03:19:40	The Lottery exploits + steals from the poor + uneducated to fund middle class education. ReverseRobinHood Wicked 
+JaffrayW	685684589138849792	2016-01-09T04:48:40	Reading a book on genetics. If Nature came for an interview at Google I'd recommend not hiring on grounds of unmaintainable code.
+JaffrayW	685960468230361088	2016-01-09T23:04:54	Here's the correlation between economic freedom and per capita GDP, you commie morons resistcapitalism 
+JaffrayW	685919197117968387	2016-01-09T20:20:55	trengriffin yes. Worst incentives and results. Staggering they are still important given they were a central cause of the last crisis.
+JaffrayW	685876853048000513	2016-01-09T17:32:39	Good move YCombinator! Paultoo is as smart as you'd expect the creator of gmail and FriendFeed to be. Congrats pb! 
+JaffrayW	685602157681340416	2016-01-08T23:21:06	paulg Are you familiar with Motte-and-Bailey doctrines? I think you have encountered one: 
+JaffrayW	684919452887068672	2016-01-07T02:08:17	Maybe China should re-think those circuit breakers, because they don't seem to be working to calm traders down.  
+JaffrayW	684913592475385856	2016-01-07T01:45:00	PatrickMcGee_ circuit breaker needs changing. As we saw other day distance too small, it will go straight to 7%
+JaffrayW	684767508281344000	2016-01-06T16:04:30	John4man don't understand why people shame others for speculating when they themselves are no more capable of predictions on that timescale
+JaffrayW	684766619017605120	2016-01-06T16:00:58	John4man Why, do you suppose, people on both sides are so confident in predicting what will happen to machine intelligence in 50 years?
+JaffrayW	684763488279986176	2016-01-06T15:48:32	Completing Your Side Quests  feedly
+JaffrayW	684559868997439489	2016-01-06T02:19:25	pmarca I haven't heard a single person say curtail startups bc they're the reason for inequality so didn't understand PG's essay ¯\_(ツ)_/¯
+JaffrayW	684421505980215296	2016-01-05T17:09:37	Moving the character limit from 140-&gt;10,000 is a disaster unless large incentives exist to minimize chars. Twitter 
+JaffrayW	684216296318218240	2016-01-05T03:34:11	This is a must-read for every high school student. Spectacular essay from pmarca on education &amp; your career: 
+JaffrayW	684216785860575233	2016-01-05T03:36:08	The bridge of a ship 
+JaffrayW	684159320653561856	2016-01-04T23:47:47	Existence of poverty is a problem; existence of wealth is not. Inequality inevitably casts rich people as the problem.
+JaffrayW	683682088684396544	2016-01-03T16:11:26	I just published "The Elements of Python Style", a guide I hope can be a kind of "Strunk &amp; White" for Python code: 
+JaffrayW	683337357215412225	2016-01-02T17:21:36	Economic Inequality: 
+JaffrayW	682658767947849728	2015-12-31T20:25:08	In 2015 VividCortex grew 4x customers, more than 7x revenue... thank you to our customers and team. 
+JaffrayW	683350053180674048	2016-01-02T18:12:03	cimmerian999 davealevine pmarca well said~key is to make sure failure can actually happen.
+JaffrayW	683358512852938752	2016-01-02T18:45:40	You can now visit us at  to catch a glimpse of the future of access.
+JaffrayW	683350088362659840	2016-01-02T18:12:11	Take advantage of power outages. It's the best possible time to get a good look at the night sky.
+JaffrayW	683312962354950144	2016-01-02T15:44:40	.PsychologyBrief If u want non-dickish explication of "over-fitting the noise" NateSilver538 's The Signal + the Noise is gr8
+JaffrayW	683312607042879488	2016-01-02T15:43:15	PsychologyBrief WiringTheBrain StuartJRitchie omg! However, I have to say Taleb's original statistical argument seems persuasive
+JaffrayW	683056577641840640	2016-01-01T22:45:53	By some metrics, Ice Age humans were healthier than we are.  And they lived about as long IF they made it past childhood.
+JaffrayW	682688682332012544	2015-12-31T22:24:00	I'll take Michael Burry over his naysayers any day of the week. 
+JaffrayW	682238338368057344	2015-12-30T16:34:29	@kfoner thunk_life Watching backflips Java projects have to engage in to avoid memory leaks due to strictness is a pastime of mine.
+JaffrayW	681998687531171840	2015-12-30T00:42:12	Spoof Me Once, Shame on You: Spoof Me Twice, Shame on Me  via streetwiseprof
+JaffrayW	681976791381049346	2015-12-29T23:15:12	Yes, things could've been different.  LHSummers 
+JaffrayW	681856620339433474	2015-12-29T15:17:41	Finished reading "The Idea Factory", a history of Bell Labs. Got a bit carried away with review  v nice read though!
+JaffrayW	681632280540876801	2015-12-29T00:26:14	“America’s premier self-loathing plutocrat" &lt;- profile of tech investor NickHanauer's efforts to lift min wage 👍🏻 
+JaffrayW	681607094987022336	2015-12-28T22:46:09	It's amazing how having lists of functions (and maybe some metadata) can simplify what would otherwise be very complex code.
+JaffrayW	681628526999502848	2015-12-29T00:11:19	.SenGillibrand nytimes A national $15 minimum wage would be economically devastating for many less affluent parts of our country.
+JaffrayW	681512772039921664	2015-12-28T16:31:21	"...if you aint cheating, you aint trying.” BCS  
+JaffrayW	681299924449910785	2015-12-28T02:25:34	Piece neglects to mention that many DeepMind researchers assume they are on path to create superintelligence. 
+JaffrayW	681194307714416640	2015-12-27T19:25:53	The Man Who Tried to Redeem the World with Logic   via NautilusMag ArtificialIntelligence 
+JaffrayW	680958587519299584	2015-12-27T03:49:13	See kids, anything is possible. You can  try to represent the Democrats to run for POTUS &amp; not know about collateral 
+JaffrayW	680206815095861248	2015-12-25T02:01:57	A belated blog post on my impressions from NIPS... 
+JaffrayW	679727769203380224	2015-12-23T18:18:23	Male privilege in tech is when you know women who have to block 250+ Twitter users due to harassment/abuse. And you have to block ZERO.
+JaffrayW	680057422048825344	2015-12-24T16:08:18	deronaucoin griverorz jakevdp My favorite topic these days is: optimization and statistics are both branches of applied math.
+JaffrayW	680072897579380736	2015-12-24T17:09:48	Optimization: convert numpy array to memoryview for faster random access   via tritemio_sc 
+JaffrayW	669705588897542144	2015-11-26T02:33:49	I dream of the day that US equities trade on a single venue, with cheap colo and data for all, housed in a data center alongside futs/opts.
+JaffrayW	680005468291477505	2015-12-24T12:41:52	My wife: "At a dinner party where the guests' politics are all the same, everybody's IQ goes down 30 points." 
+JaffrayW	679475625313333248	2015-12-23T01:36:27	E.W Dijkstra asking the local university to keep teaching haskell instead of Java or C++ in 2001 
+JaffrayW	679098783607578624	2015-12-22T00:39:01	"It is ludicrous to believe that asset bubbles can only be recognized in hindsight." - Michael Burry
+JaffrayW	679096855045738496	2015-12-22T00:31:21	RudyHavenstein Isn't it fitting for irrational market bubbles to be "managed" by irrational people that don't believe irrationality exists?
+JaffrayW	679094980066091008	2015-12-22T00:23:54	Jeremy Grantham on Greenspan, Bernanke (Yellen) and the Efficient Market Hypothesis, from "Wall Street Revalued" 
+JaffrayW	679041462831472640	2015-12-21T20:51:15	New kaggle computer vision challenge! Predict Yelp restaurant attributes only from photos  
+JaffrayW	679034849676496896	2015-12-21T20:24:58	"I'm sorry I filed software patents.  A lot of them.  I have no intention on ever doing so again" 
+JaffrayW	678664491110899712	2015-12-20T19:53:18	Noahpinion right, and there is evidence of major inefficiencies in finance. Explosion in size of sector w/o obvious benefit to productivity
+JaffrayW	677839838675116032	2015-12-18T13:16:25	gappy3000 Yes, I am somewhat familiar with deep learning compression work. While this work is encouraging, I'm hoping for more elegance.
+JaffrayW	677831573459308544	2015-12-18T12:43:35	Maggiemakar That paper is interesting, but I am far more interested and optimistic about dramatically reducing the number of parameters.
+JaffrayW	677829805937659904	2015-12-18T12:36:33	.Maggiemakar Vastly simplifying deep learning methods while retaining the core functionality is on my list of things I believe possible.

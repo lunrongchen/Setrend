@@ -1,0 +1,330 @@
+neilazous	726048297706614784	2016-04-29T13:59:38	RVM Model Portfolio: Closing long 3mo/1yr FVA on USD/JPY at 10.95 vol. timestamp
+neilazous	725728379945644033	2016-04-28T16:48:23	RVM Model Portfolio: selling 416,106 YNDX w/ limit 20.00 OTD (vs 14.6446 cost basis); taking profit on partial position post pos earnings.
+neilazous	725283250210541568	2016-04-27T11:19:36	An Update on Our Trading Strategies…FOMC Trading Regime Matrix - See Sight Beyond Sight  
+neilazous	725128120395792384	2016-04-27T01:03:10	dmvarg Don't care if FOMC raises rates or not; Only care what others think FOMC will do so I can trade probabilities (buy 25% vs. sell 75%)
+neilazous	725060349460910080	2016-04-26T20:33:52	RVM Model Portfolio: Working to buy 1,391 10yr futures (TYM6) for 128-25 overnight timestamp
+neilazous	725058974538686464	2016-04-26T20:28:25	RVM Model Portfolio: Short 10yr Futures Replacement: Bot 1,391 TYM6 for 129-05; Bot 1,508 TYM6 129-127.25 put spread for 28 ticks to open.
+neilazous	725039186886201344	2016-04-26T19:09:47	US Fixed Income Observation - 7 consecutive losing sessions for ALL the benchmark Treasuries across ALL maturities.
+neilazous	724967157931630594	2016-04-26T14:23:34	RVM Model Portfolio: Rolled long FTSE A50 futures to May from April for -10 (sold 571 XUJ6 vs. bot XUK6); positive roll yield     timestamp
+neilazous	724934381371052032	2016-04-26T12:13:19	RVM Model Portfolio: Bot 16,500 L H7 P98.00 for 0.5 ticks; new book overlay (tail risk hedge) on Brexit. See Sight Beyond Sight. timestamp
+neilazous	724692264111472640	2016-04-25T20:11:14	Bonds Longs - 10yr &amp; 2yr futures going out at the low prints; this on a day when Oil -2% &amp; stocks never trading positive; that is noteworthy
+neilazous	724665525792591872	2016-04-25T18:24:59	RVM Model Portfolio: Bot 12,000 AAPL 5/20/16 115-120 call spreads for $0.25 to open. See Trade Lab shortly for details. timestamp
+neilazous	724561083172806657	2016-04-25T11:29:58	The Most Important Asset in the World this Week is the Dollar-Yen - See Sight Beyond Sight  
+neilazous	723861579805155328	2016-04-23T13:10:23	USD positioning turned net short at –USD2.3bn, for the first time since May 2014. (Source: CFTC IMM data, JPM)
+neilazous	723565429818556416	2016-04-22T17:33:36	RVM Model Portfolio - Post +4% move, raise trailing stop on XBI/XLP to 1.06 or break-even. timestamp
+neilazous	723565168404389888	2016-04-22T17:32:33	RVM Model Portfolio - Long XBI/XLP ratio Vol Wgt Update - sold 176,745 XBI at 57.60; reduce 1/3rd XBI per pre-defined game plan each 4% gain
+neilazous	723515666251296768	2016-04-22T14:15:51	RVM Model Portfolio: Working to buy 229,793 ASHR until 4 pm EST &amp; 571 XUJ6 futures until 2 pm EST; new China stock proxy longs timestamp
+neilazous	723510969423527937	2016-04-22T13:57:11	RVM Model Portfolio: Bot 16,600 FXI 8/19/16 C37 for $0.93 to open (ref TV $0.90); new long; risking 50 bps of NAV; 1 unit. timetamp
+neilazous	722828971407056897	2016-04-20T16:47:10	Oil Optics: CLK6 expires at 2:30 pm ET; tomorrow, contango puts the barrel +$1.40; TV or non-futures traders will be surprised at new price.
+neilazous	722794571160240128	2016-04-20T14:30:29	One Stock a Sector Does Make - KO earnings reaction leading indicator for Staples sector - elevated multiple &amp; crowded defensive positing.
+neilazous	722777159962607616	2016-04-20T13:21:18	Japanese Equities: UBS Retail has had 25 consecutive days of net outflows from EWJ. (Source: UBS Electronic Trading) ETF
+neilazous	722773763016658944	2016-04-20T13:07:48	Short US Fixed Income is Better than Short US Equities - See Sight Beyond Sight  
+neilazous	722441064519438337	2016-04-19T15:05:46	RVM Model Portfolio: Bot 100mm EUR/USD for 113.80 to cover short (entry price 113.84), stop was 114.65 but electing early to not lose.
+neilazous	722408589042847745	2016-04-19T12:56:43	Fixed Income Will Shortly Force You to Trade the Inflation Impulse - See Sight Beyond Sight  
+neilazous	722039885419450368	2016-04-18T12:31:38	Sight Beyond Sight - No Fancy Title Today...Just the Most Important Observations - see  
+neilazous	721828138251087873	2016-04-17T22:30:13	fxmacro Wonder if oil bears are nervous the barrel's low price was 1st 5 mins of trading &amp; Brent (COM6-CON6) contango didn't widen at all?
+neilazous	721022918520619008	2016-04-15T17:10:34	RVM Model Portfolio: Bot $95.5mm USD/JPY 4/17/17 C123 for 0.6291% USD (51.144 USD / 68.343 pips, 11.2 vol); book overlay on BoJ helicopter $
+neilazous	721018078142840833	2016-04-15T16:51:20	Quote of Day: "Ex-energy &amp; FX, earnings are great…and ex-the 12th hole at Augusta Jordan Spieth won the Masters “ Avondale Asset Management
+neilazous	720692852213346306	2016-04-14T19:19:00	Crude Oil Observation - Avg daily sigma 2.7%, 21-day ATR 1.74, today -0.93% &amp; 1.32 &gt; read professionals pausing into options expiry &amp; DOHA.
+neilazous	720647119841964033	2016-04-14T16:17:17	RVM Model Portfolio: Sold 10,000 BAC 4/15/16 C14 at $0.29 to close; position flat (avg price $0.22 on 2/26/16)
+neilazous	720644384979611648	2016-04-14T16:06:24	RVM Model Portfolio: Sold 10,000 BAC 4/15/16 C14 at $0.27 to close; leave 10k (avg price $0.22 on 2/26/16)
+neilazous	720585016959496193	2016-04-14T12:10:30	Skynet Attacked...Billionaires to Have a Day in the Sun vs. the Machines - see SBS here  
+neilazous	720275916660736002	2016-04-13T15:42:15	RVM Model Portfolio: Bot 4,800 TUM6 5/20/16 109.125 puts for 4 ticks; working order outlined in SBS this a.m. filled post US retail sales.
+neilazous	720267584700977152	2016-04-13T15:09:08	RVM Model Portfolio: Bot USD/BRL (spot ref price 3.5445) to close out 100% of position; booking profits; reducing gross risk.
+neilazous	720222437665873920	2016-04-13T12:09:44	Sight Beyond Sight - Enough Talk...It's Time to Trade - see  
+neilazous	720200109796016128	2016-04-13T10:41:01	RVM Model Portfolio: Sold 304 May16 Silver (SIK6) at 16.05; Bot 188 Apr16 Gold (GCJ6) for 1244.50; XAUXAG ratio ref: 77.58; profit taking.
+neilazous	719991330156490752	2016-04-12T20:51:24	RVM Model Portfolio - Sold 1391 TYM6 at 130-18, 100k dvo1, adding to existing short position. See Sight Beyond Sight tomorrow. timestamp
+neilazous	719990849661181952	2016-04-12T20:49:29	RVM Model Portfolio - sold 100mm EUR/USD at 1.1384. New short. See Sight Beyond Sight tomorrow. timestamp
+neilazous	719959210038071297	2016-04-12T18:43:46	georgepearkes key takeaway regarding CL1 - continuous contract - broke longest streak below 200-DMAVG in history today on closing basis.
+neilazous	719938076185927684	2016-04-12T17:19:47	georgepearkes Easier to buy RUB/CHF as you get paid on both legs (i.e. large combined carry) rather than  pay the contango in the barrel.
+neilazous	719936535005671425	2016-04-12T17:13:40	georgepearkes Yes, George. However, that is CL1 - the continuous contract. I want to see Dec16 in both WTI &amp; Brent follow for confirmation.
+neilazous	719935500363132929	2016-04-12T17:09:33	When was the last time XLE, USD/NOK, &amp; RUBCHF were all trading over the 200-DMAVG? The answer is 2014. Have your attention yet?
+neilazous	719879688198426624	2016-04-12T13:27:47	Is There Such Thing as a Mini-Inflation Scare? Did the Market Start Trading One? see SBS  
+neilazous	719842519375343617	2016-04-12T11:00:05	RVM Model Portfolio: Sold 703 Jun16 10-year Bund future (RXM6) at 163.62; 100k DV01, new position
+neilazous	719842301628006400	2016-04-12T10:59:13	RVM Model Portfolio: Sold 1391 Jun16 10-year Treasury future (TYM6) at 130-23; 100K DV01, new position
+neilazous	719816720597282816	2016-04-12T09:17:34	RVM Model Portfolio: Sold 30mm USD/SEK at 8.0620; already short EUR/SEK &amp; long SEK/CHF; adding more SEK length...
+neilazous	719675929115680769	2016-04-11T23:58:07	S&amp;P 500 – Definition of 'Rounding Top' - Something you don't see too often... SPY VIX VXX 
+neilazous	719675197230604288	2016-04-11T23:55:12	Here is a collage of illustrations showing the extreme signals for a forthcoming reversal in equity volatility. VXX 
+neilazous	719674346269224961	2016-04-11T23:51:49	Contango narrowing in Brent faster than WTI crude oil; Brent-led FX like Norwegian krone (NOK) hit acceleration pt. 
+neilazous	719670019735625728	2016-04-11T23:34:38	Yellen's/Draghi's Daddy - CNY basket overlaid w/ EU banks (SX7E) &amp; 1yr slope of the US interest rate curve (ED3/ED7) 
+neilazous	719669758573088768	2016-04-11T23:33:35	Every 2-mo a diff market proxy drives cross-asset correlation; current speed governor for risk assets is CNY basket. 
+neilazous	719514286205308933	2016-04-11T13:15:48	Talking Points Widespread to Start the Week…Here are the Most Important Observations...see  
+neilazous	718150497782394881	2016-04-07T18:56:35	georgepearkes ericbeebo Everyone mystified how yen moves 5 figures in 3-days but vols up 1.25 pts only; if SPX -1% tomorrow yen IV unlocks
+neilazous	718069665625481217	2016-04-07T13:35:24	Sight Beyond Sight - The Intelligence Not In Your Morning Call or Reading    
+neilazous	717740711609769985	2016-04-06T15:48:15	RVM Model Portfolio: Buying 30mm XBI/XLP ratio for 1.06 (Long XBI 56.58 vs. Sell Short XLP 53.43); new RV position. See Trade Lab timestamp
+neilazous	717689756633567232	2016-04-06T12:25:46	Sight Beyond Sight - Great Concern Over S&amp;P 500 &amp; Dollar-Yen Correlation Reinserting Itself  
+neilazous	717332176698740736	2016-04-05T12:44:52	Sight Beyond Sight - Reading the Tea Leaves of Global Macro Not a Bedtime Story for Children  
+neilazous	717316400172367872	2016-04-05T11:42:11	RVM Model Portfolio: Selling 341 CCK6 over the next two hours. Not near stop; closing down long ag/soft positions to reduce gross exposure.
+neilazous	717043353586688000	2016-04-04T17:37:12	RVM Model Portfolio: stopped out of long KCN6 (July Coffee) between 124.85 - 125.00 per pre-defined game plan for gains/losses.
+neilazous	716966225893523458	2016-04-04T12:30:43	We Are Focused on European Assets to Start the Second Quarter..See Sight Beyond Sight here  
+neilazous	716748233003892740	2016-04-03T22:04:29	RVM Model Portfolio: Sold 265 CLK6 futures between 36.35-36.41; stopped out at 50-DMAVG per pre-defined game plan for managing gains/losses.
+neilazous	715512275185115136	2016-03-31T12:13:14	US Dollar Goal Posts…Long Crude Oil…Trading Regime Matrix for NFP Tomorrow..See SBS here  
+neilazous	715466013182201856	2016-03-31T09:09:24	RVM Model Portfolio: Over the next 1-hr, buying 10mm worth of May16 Crude Oil (265 CLK6 futures), starting new long, see Sight Beyond Sight.
+neilazous	715269097232187394	2016-03-30T20:06:56	Chicago Fed President Evans introduced a new phrase when describing pace of Fed rate hikes - “very shallow.” Presumed to mean two or less.
+neilazous	715192541029785600	2016-03-30T15:02:44	US dollar index (DXY) - today formed a "death cross" where the 50- moves down/thru the 200-day moving average; viewed as technically bearish
+neilazous	715191208612610048	2016-03-30T14:57:26	Since March FOMC 2-weeks ago, 5-year real yield -39 bps; magnitude of easing of financial conditions equivelent to?
+neilazous	715140291888603137	2016-03-30T11:35:06	The 2nd Quarter Started Yesterday..Rotation &amp; Risk-Seeking Underway..See Sight Beyond Sight  
+neilazous	714866583953350657	2016-03-29T17:27:29	RVM Model Portfolio: Filled on GTC sell order for 5,330 EDJ6 99.25 calls at 3.5 ticks
+neilazous	714866215274082304	2016-03-29T17:26:01	RVM Model Portfolio: Sold 24,000 EDN6 (July on Sep) 99.00 puts at 1.5 ticks; closing long leg of conditional bear steepener
+neilazous	714794324475650048	2016-03-29T12:40:21	Early Signs Investors Start to Rearrange CRIB Back to BRIC - See Sight Beyond Sight  
+neilazous	713359679309627392	2016-03-25T13:39:35	US corporate profit recession confirmed today by back-to-back negative quarterly readings () 
+neilazous	712966465729785857	2016-03-24T11:37:06	Despite China Sending a Signal that the Position Shake Out is Over, It May Not End Until Tue  
+neilazous	712618541686648832	2016-03-23T12:34:34	US Equities Back in Vogue...Our Notes Transcribed from Conversations with Risk Takers  See  
+neilazous	712350535781900289	2016-03-22T18:49:37	Random fact of the day - We are Mice Running in a Wheel - 12-month total return for XOM +3.77% vs. SPX -0.19%.
+neilazous	712292854043906048	2016-03-22T15:00:24	RVM Model Portfolio: Buying 147 Jul16 Coffee (KCN6) over the day, stop at 8% lower or 4 SD's. Increasing El Nino bet in Ags
+neilazous	712259113485516800	2016-03-22T12:46:20	Three Possible Reactions to The Terror Event...See Sight Beyond Sight  
+neilazous	711957929285591040	2016-03-21T16:49:32	RVM Model Portfolio: Bot 666 ESJ6 April 2000-1940 put spread for $9.00. 6.6:1 payout if SP mean reverts to 50-dma at +2 z-scores now
+neilazous	711956098593456129	2016-03-21T16:42:16	RVM Model Portfolio: Bot 1333 ESJ6 April 2000-1950-1900 put butterfly for $4.50. 11:1 payout if SP mean reverts to 50-dma at +2 z-scores now
+neilazous	711933814734516224	2016-03-21T15:13:43	RVM Model Portfolio: Working to sell 5,330 EDJ6 99.25 calls at 3 ticks GTC; part of EDJ6C 99.25-99.375-99.5 call fly
+neilazous	711893339155668993	2016-03-21T12:32:53	Bears Are All Out Saying that the Quarter-End is for Sale Already - See Sight Beyond Sight  
+neilazous	710844941002522624	2016-03-18T15:06:55	CNY basket lowest fix since inception in Dec; ability to devalue &amp; keep CNY stronger vs. USD impressive. (H/T M.G.) 
+neilazous	710416896793952256	2016-03-17T10:46:01	US dollar Weakness - Key reason why many are waking up to red prices is on account of EU Banks (SX7E) breaking through the ECB Mar 10th low.
+neilazous	710192956876136452	2016-03-16T19:56:10	RVM Model Portfolio: sold 18mm USD/NOK at 8.4580; adding 50% to short pos into Norges bank; Sept cut off table tomorrow, ie NOK unlocks.
+neilazous	710189655891812353	2016-03-16T19:43:03	With Fed saying to be long inflation &amp; USD TWI first break of 200-DMAVG in this cycle, what is your favorite trade?
+neilazous	710183549366833152	2016-03-16T19:18:47	RVM Model Portfolio: Buying 5mm YNDX over-the-day, part of long Oil, RUB, NOK long position, doubling size on chart break...
+neilazous	710175938374406144	2016-03-16T18:48:32	RVM Model Portfolio: working order filled; sold 4800 EDU6/EDU7 at 0.34 (vs. orig cost basis 0.34).
+neilazous	710174327140950016	2016-03-16T18:42:08	RVM Model Portfolio: working to sell 4800 EDU6/EDU7 at 0.34 to close steepener
+neilazous	710081707433660416	2016-03-16T12:34:06	Don’t Forget About Crude Oil Just Because of Today’s FOMC Meeting...See Sight Beyond Sight   
+neilazous	709714693666033664	2016-03-15T12:15:43	Trading Resumes Tomorrow...Not By Choice...See Sight Beyond Sight for why  
+neilazous	709375980972994560	2016-03-14T13:49:48	Overnight Price Action Indicative of Asset Allocation…Underweights Being Closed  See  
+neilazous	708396384198782977	2016-03-11T20:57:14	RVM Model Portfolio: Bot 65mm notional USD/CNH 12/31/16 expiry 6.80/7.20 call spread (8.7/10.7 vol ref) for $602k premium (20 bps of NAV)
+neilazous	708394187704700928	2016-03-11T20:48:30	RVM Model Portfolio: Bidding for 4800 (120K DV01) Sep16-Sep17 (EDU6EDU7) steepener for 0.34; good-til-canceled
+neilazous	708391212579987456	2016-03-11T20:36:41	RVM Model Portfolio: Sold 36,000 EDM6 99.125 puts at 3.25 ticks; Bot 24,000 EDN6 (July on Sep) 99.00 puts for 5.375 ticks
+neilazous	708345555852910592	2016-03-11T17:35:15	RVM Model Portfolio: Buying 5mm YNDX over-the-day; levering long RUB/CHF fx position with stock
+neilazous	708314484897669122	2016-03-11T15:31:47	RVM Model Portfolio:  sold 23.684mm XAU/XAG ratio at 80.8991 (booked as -188 GCJ6 at 1258.00 vs. +304 SIK6 for 15.57)
+neilazous	708308590617104384	2016-03-11T15:08:22	RVM Model Portfolio: Bot 27.27mm BRL/CNH for 1.7897 (spot ref, book as indiv legs); new long
+neilazous	708307710622736384	2016-03-11T15:04:52	RVM Model Portfolio: Bot 16mm RUB/CHF for .01413; new long
+neilazous	708307438714249216	2016-03-11T15:03:47	RVM Model Portfolio: sold 36mm USD/NOK at 8.425; new short
+neilazous	707976270739599360	2016-03-10T17:07:51	bespokeinvest The funny thing is that the ATM option straddle for the next 4-weeks is ~250 bps, which also includes the SNB-BOJ-FED.
+neilazous	707940774420332544	2016-03-10T14:46:48	Today’s ECB Meeting is a Short-Term Game Changer and Very Positive for Risk Assets     See  
+neilazous	707561990965878784	2016-03-09T13:41:39	We Can All Learn A Lot Today By Looking at the Two Perceived Safe Havens in the World  see  
+neilazous	707546740967215106	2016-03-09T12:41:03	RVM Model Portfolio: Bot 2579 TYM6 for 129-04+. Closing out remaining short, booking profit (orig entry price 130-31), reducing risk pre-ECB
+neilazous	707206136433401856	2016-03-08T14:07:36	Japanese Fixed Income Highlights The Concern Over The ECB Meeting On Thursday see  
+neilazous	706895799045767168	2016-03-07T17:34:26	RVM Model Portfolio: Bot 6,000 EDN6 98.875 Puts for 1.75 ticks; rolling hedge in Eurodollar Risk Premium strategy to Sept futures basis
+neilazous	706851132413448192	2016-03-07T14:36:57	Last Weeks Asset Allocation - US high yield funds saw record inflows (US$5.3bn) vs. US govt bonds largest withdrawal in 52-weeks (-US$2.4bn)
+neilazous	706791866273021952	2016-03-07T10:41:27	It's official - biggest ironore daily price change (dollar &amp; percent terms) since indexation began. MBIOI-62 at $63.74 - up $9.99/t (18.6%)
+neilazous	706559595238563840	2016-03-06T19:18:29	WarGames Have Started...Next 48-Hours Dictated By A Black Box if Crude Oil Goes Up - See  
+neilazous	705791871491153920	2016-03-04T16:27:49	RVM Model Portfolio: Bot 1000 TYM6 for 129-00; taking profit on 25% of position (initially sold 4000 @ 130-31); PT remains 128-00 on balance
+neilazous	705765858870763521	2016-03-04T14:44:27	RVM Model Portfolio: Sold 67,553 GS at $155.96 (vs. $148.03 cost basis); booking profits
+neilazous	705765559502315520	2016-03-04T14:43:16	RVM Model Portfolio: Sold 260,078 Citigroup $42.95 (vs. $38.45 cost basis); booking profits
+neilazous	705764638475075584	2016-03-04T14:39:36	RVM Model Portfolio: Sold 20,000 EEM 3/18/16 C31.5 at $1.23 to close (vs. $0.33 cost basis); booking profits.
+neilazous	705746609175465985	2016-03-04T13:27:58	RVM Model Portfolio: Placed limit order to buy 1000 TYM6 for 129-00; taking profit on 25% of position.
+neilazous	705701656831336448	2016-03-04T10:29:20	Canada sold all of Its remaining Gold reserves in February   (H/T JG)
+neilazous	705497275431260160	2016-03-03T20:57:12	RVM Model Portfolio: Sold 1850 ESH6 3/18/16 C1990 at $25.25 to close (vs. $9.75 cost basis); taking profit; reached price target.
+neilazous	705384588848324609	2016-03-03T13:29:26	Not Many Assets to Chase Anymore Cannot Be Further from the Truth According to Crude Oil  
+neilazous	705358395482759168	2016-03-03T11:45:21	RVM Model Portfolio: Bot 2678 CLM6 5/17/16 45-50 call spreads for $0.56 to open; spent 50 bps of NAV; see Sight Beyond Sight today for why.
+neilazous	705026717564452864	2016-03-02T13:47:22	15 Minutes of Fame for Emerging Markets…Professionals Begin to Add Select Risk See  
+neilazous	705018935960334338	2016-03-02T13:16:27	RVM Model Portfolio: Placed limit order to buy 1000 TYM6 for 129-00; taking profit on 25% of position.
+neilazous	704736841694629888	2016-03-01T18:35:31	Emerging Markets: EEM in Feb had "inside month"; today already taken the "monthly" out; EMB intraday broke 200-DMAVG, 1st time in 9-months.
+neilazous	704731860237209602	2016-03-01T18:15:43	RVM Model Portfolio: Getting long INR vs. SGD &amp; TWD; sold 55.55mm SGD/INR at 48.4939 (spot ref) &amp; 66.37mm TWD/INR at 2.049 (spot ref).
+neilazous	704664926703521792	2016-03-01T13:49:45	The Pain Trade is Not Just in Equities…It is Across Asset Classes...See Sight Beyond Sight  
+neilazous	704407531674865664	2016-02-29T20:46:57	Crude Oil Stability View Strengthens - Dec16 WTI (CLZ6) &amp; Brent (COZ6) both closed today above 50-DMAVG on MONTH END, 1st time in 4-months.
+neilazous	704313789420797953	2016-02-29T14:34:27	Here We Go Again...The Policy Divergence Theme Resuscitated...Inflation the Exorcist  see  
+neilazous	704267204351676416	2016-02-29T11:29:20	RVM Model Portfolio: Bot 200mm S. Korea CDS for 68 bps; adding to existing book overlay; see Sight Beyond Sight timestamp
+neilazous	703290176915836929	2016-02-26T18:46:59	RVM Model Portfolio: Sold 815,660 BAC at 12.81 vs bot 20,000 BAC 4/15/16 C14 for $0.22 to open; taking profit rolling into stock replacement
+neilazous	702983051433926656	2016-02-25T22:26:34	RVM Model Portfolio - Today we flipped our book around &amp; added many pro-risk trades. See  
+neilazous	702959023386140673	2016-02-25T20:51:06	17thStCap make no mistake, banks are not too big to fail, they are expensive to live; but they are reasonable upside beta if SPX breaks "W"
+neilazous	702953601891770368	2016-02-25T20:29:33	17thStCap crude stability, recession risk stability, worst sector &amp; same as EEM, positions washed out, if risk bounces, etc.
+neilazous	702952633481469952	2016-02-25T20:25:42	RVM Model Portfolio: Bot USD/JPY 3m1y FVA (FWD strike vol ref 11.33, ATM vol 11.60); pure play over next 3-mo on yen vol going higher.
+neilazous	702947181095993345	2016-02-25T20:04:02	Model Portfolio Update - Bot 10mm bucks each of GS, BAC, C; adding long market beta.
+neilazous	702933789656412160	2016-02-25T19:10:49	If the Mar E-mini S&amp;Ps (ESH6) can trade above 50-DMAVG for 1st time since Dec 30th time to start watching WTI/Brent (CLZ6 &amp; COZ6) for same.
+neilazous	702932565242617856	2016-02-25T19:05:58	US Equities: Mar E-mini S&amp;Ps (ESH6) trade above 50 day moving average (1939.50) for first time since Dec 30th. Hard to ignore even if a bear
+neilazous	702908342365196288	2016-02-25T17:29:42	FZucchi Thanks for that heads up, that Tweet has been replied to with the correct "1990" call strike, not "1900" as prev Tweeted.
+neilazous	702908135397310464	2016-02-25T17:28:53	@rareviewmacro Update - correction - meant "1990" calls, not "1900" as previously tweeted. timestamp
+neilazous	702907174486478848	2016-02-25T17:25:04	RVM Model Portfolio: Bot 310 ESH6 for 1930.25; covering short; scratch. flipping short-term long.
+neilazous	702907051702358016	2016-02-25T17:24:35	RVM Model Portfolio: Bot 1850 ESH6C 3/16/16 C1900 for 9.75 to open; risking 30 bps of NAV; new long on "W" Index break higher coming.
+neilazous	702906173486452736	2016-02-25T17:21:05	RVM Model Portfolio: Sold 3579 TYM6 (June 10yrs) at 130-31; 300k DV01; new short on fixed income.
+neilazous	702905794912722944	2016-02-25T17:19:35	RVM Model Portfolio: Sold 2000 ESU6 9/16/16 P1500 to buy 4000 ESZ6 12/16/16 P1500 for $14.50 "as if one-up"; rolling out for Elections.
+neilazous	702905085660160003	2016-02-25T17:16:46	RVM Model Portfolio: Bot 108mm CHF/JPY for 113.97; closing short; booking profit.
+neilazous	702904937924182016	2016-02-25T17:16:11	RVM Model Portfolio: Bot 44.125mm EUR/JPY for 124.32; closing short; booking profits.
+neilazous	702904796563562496	2016-02-25T17:15:37	RVM Model Portfolio: Sold 300 CLJ6 3/16/16 P26 at $0.28 to close; moving on from short crude oil.
+neilazous	702904580502323200	2016-02-25T17:14:45	RVM Model Portfolio: Bot 304 CLJ6 for $31.60; covering short; taking profit.
+neilazous	702857288491646976	2016-02-25T14:06:50	The Overnight Randomness is a Symptom of Nervousness…Don’t Read Too Much into It Today  
+neilazous	702527874914512897	2016-02-24T16:17:52	Heads Up - Dollar-Yen (USD/JPY) is 8 pips away from breaking down &amp; thru the Feb 11th intra-day low, the day the Oil/SPY rally started.
+neilazous	702488631697604609	2016-02-24T13:41:56	ukarlewitz both WTI Crude Oil &amp; SP Emini futures trading below their VWAP from Feb 11th as well. Professionals will be quicker to sell risk
+neilazous	702482601978810368	2016-02-24T13:17:58	Expectations to Begin This Week All Sliding…New Risk Properly Introduced…Crude Oil &amp; SPX Below the VWAP 
+neilazous	702451532030222336	2016-02-24T11:14:30	simondiamondzzz Interesting observation but what are you suggesting this means for the CP market?
+neilazous	702178222948098050	2016-02-23T17:08:28	Too Big to Fail or Too Expensive to Live? - HSBC compliance officers total 9k (up from 1500 in 2010) x $150k salary = $1.35 bln fixed cost.
+neilazous	702177052535947265	2016-02-23T17:03:49	Banks not "Too Big to Fail, Too Expensive to Live" - Barclays review of GS 10k was 31 pages, pages 23-31 were on Litigation Proceedings.
+neilazous	702133971128344576	2016-02-23T14:12:38	Sticking to Our Framework for Lower Risk Assets Prices http://1Q8Jh53 
+neilazous	702103786253324288	2016-02-23T12:12:41	RVM Model Portfolio: Working to sell 30mm ESH6 at 1950; cancels working order at 1944.50 from last night. timestamp
+neilazous	701955561668136960	2016-02-23T02:23:42	RVM Model Portfolio: Sold 10mm Crude Oil (CLJ6) at $33.02; new short; working to sell 10mm more at 34.04; see Sight Beyond Sight tomorrow.
+neilazous	701954989367889921	2016-02-23T02:21:25	RVM Model Portfolio: sold 30mm SP Emini (ESH6) at 1930.50; new short; working to sell 30mm more at 1944.50. See Sight Beyond Sight tomorrow.
+neilazous	701817402384732160	2016-02-22T17:14:42	reuterssteves BafMacro 9,000 box checkers trained to watch 20 seconds of a 2 hour movie  x $150,000 salary = $1.35 billion fixed cost.
+neilazous	701746510204182528	2016-02-22T12:33:00	Given correlation btwn Oil &amp; SPY, we will follow IHS CERAWeek conference this week in Houston - often dubbed the Davos of energy industry.
+neilazous	701375073823956992	2016-02-21T11:57:03	Given correlation btwn Oil &amp; SPY, we will follow IHS CERAWeek conference this week in Houston - often dubbed the Davos of energy industry.
+neilazous	700350500525502464	2016-02-18T16:05:45	RVM Model Portfolio: Working to buy 341 COCOA FUTURES (CCK6 May16) OTD. New long.
+neilazous	700330980519899136	2016-02-18T14:48:11	Real Money Are Sellers of Equities Into This Rally…Threshold Not Reached For Significant Repricing of Fed 
+neilazous	699874298325037056	2016-02-17T08:33:30	Today, HK reported $23.7bn in imports from China in Dec. Jan 13th China recorded $46bn in exports to HK. $22.3bn gap 2nd highest on record.
+neilazous	699688024347643904	2016-02-16T20:13:19	Bounces in SPY, Oil, TYA not strong enough to shift Fed probabilities; FOMC model shows STIRS not crossed threshold. 
+neilazous	699633742680293376	2016-02-16T16:37:37	US Equity Option Expiry Position Lite: btwn 1800-1900 $39 bn net puts (kick in  =&lt;1850) vs btwn 1900-2000 $27 bn net calls (kick in =&gt;1950)
+neilazous	699590190491422720	2016-02-16T13:44:33	OPEC’s Pain Threshold Not Been Reached…Risk Assets Very Correlated to that Disappointment  
+neilazous	698253520919797760	2016-02-12T21:13:06	RVM Model Portfolio: Placing buy-stop for 44.125mm EUR/JPY for 131.36, GTC order. Timestamp
+neilazous	698162645027966976	2016-02-12T15:12:00	See our attached crudeoil correlation matrix showing you how everything is ALL ONE TRADE at the moment. 
+neilazous	698162539931287552	2016-02-12T15:11:35	This cycle diagram is a great visual showing how circular &amp; self-reinforcing the issues in the market are currently. 
+neilazous	698161153445384193	2016-02-12T15:06:04	Euro-Yen (EUR/JPY) breaks 200 "week" MAVG &amp; long-term shelf; the rest is noise. 
+neilazous	698159455805038593	2016-02-12T14:59:20	RVM Model Portfolio: Sold 44.125mm EUR/JPY at 127.02; new short; stop 131.36; risking 50 bps of NAV.
+neilazous	698156294033825792	2016-02-12T14:46:46	RVM Model Portfolio: Per working order sold EDH6-EDM6 (4k at 0.005, 4k at 0.01, 4k at 0.02, avg = 0.01166). timestamp
+neilazous	698107213823549440	2016-02-12T11:31:44	Global stocks officially entered a bear market on Thursday evening; MSCI Index, closed -20% from recent highs to meet technical definition.
+neilazous	697865469320151040	2016-02-11T19:31:08	RVM Model Portfolio: Sold 4000 EDH6EDM6 at 0.005, working to sell 4k at 0.01 and 4k at 0.02.
+neilazous	697806926218993664	2016-02-11T15:38:30	See our attached crudeoil correlation matrix showing you how everything is ALL ONE TRADE at the moment. 
+neilazous	697760953815994368	2016-02-11T12:35:49	This cycle diagram is a great visual showing how circular &amp; self-reinforcing the issues in the market are currently. 
+neilazous	697737940663955456	2016-02-11T11:04:23	Observation - UST 10-yr yield at 1.62% and now below both Italy &amp; Spain yields.
+neilazous	697723906166276096	2016-02-11T10:08:36	RVM Model Portfolio Update - Bot 48.875mm KRW/JPY for 9.251; covering short (vs. entry 9.812) post 4.5-SD move overnight.
+neilazous	697609638859173888	2016-02-11T02:34:33	Crude Oil is a Live Grenade into Mid-Next Week…Every Asset is All One Trade Again  
+neilazous	697586596837748737	2016-02-11T01:02:59	RVM Model Portfolio: Sold 54mm CHF/JPY at 116.09; doubling short on technical break lower that is showing who the true safe-have these days.
+neilazous	697514242640125952	2016-02-10T20:15:29	RVM Model Portfolio: Bot 300 CLHJP 3/16/16 P26 for $1.04 to open new short in crude oil. See Sight Beyond Sight tomorrow for details.
+neilazous	697513658314858496	2016-02-10T20:13:09	RVM Model Portfolio: Bot 1000 CLH6P 2/17/16 P25 for $0.29 to open new short in crude oil. See Sight Beyond Sight tomorrow for details.
+neilazous	697410712688320512	2016-02-10T13:24:05	Neil Azous cited by CNBC re article - Bank investors are getting very nervous 
+neilazous	697408678006276096	2016-02-10T13:16:00	The Only Help Today is Going to Employees at a Bank…SPX, Crude Oil &amp; Gold Longs Off-Sides  
+neilazous	697192141894844416	2016-02-09T22:55:34	Today marked 3rd consecutive day of no IG corporate primary market activity (rare); highlights sensitivity by Treasurers to funding concerns
+neilazous	697155501025529857	2016-02-09T20:29:58	Crude Oil (CLH6): the barrel is -2.5% away from Jan low vs. +22.5% away from Jan high; latest CFTC position data shows longs @ 8-month high.
+neilazous	697150729455271937	2016-02-09T20:11:00	Chair Yellen HH schedule on the Hill tomorrow: headlines hit wires at 8:30 am, testimony begins at 10:00 am, Q&amp;A starts at ~10:30 EST. fomc
+neilazous	697119363040747520	2016-02-09T18:06:22	Gold futures OI +$2.5bln yest (5.3% of OI, 3.7 z-score 1-day increase); 2nd largest 1-day increase (as % of total OI) over past 5 years (MS)
+neilazous	697116470304755712	2016-02-09T17:54:52	Yesterday, BAC implied volatility JUMPED 10 points, up +1.2 today. BAC vs. market volatility (i.e. VIX) exploding. 
+neilazous	697104087054229504	2016-02-09T17:05:40	January 2016 largest net inflows in Treasury ETF's since UBS began recording data in 2010. Only 1-day in 2016 UBS Retail was net sellers.
+neilazous	697103713526218752	2016-02-09T17:04:11	Yesterday, retail investors showed largest inflows in Precious Metal ETF's since January 30th, 2015. (Source: UBS Electronic Trading) GDX
+neilazous	697102712702431232	2016-02-09T17:00:12	MLP ETF (AMLP) -17.3% last 3-days; Per UBS "retail" turned net buyers in 2016, Feb on pace for largest monthly net inflows they ever had.
+neilazous	697068798633975808	2016-02-09T14:45:27	Another Day &amp; Another Narrative Introduced to Market Place…This Time You Can’t Hide from It   
+neilazous	697042892704129026	2016-02-09T13:02:30	RVM Model Portfolio: Bot 37.5mm AUD/JPY at 80.131; covering short; booking profits.
+neilazous	696765528740917250	2016-02-08T18:40:21	RVM Model Portfolio: Sold 4000 EDH6/EDH7 at 0.135; stopped out.
+neilazous	696693618678067200	2016-02-08T13:54:37	For all the talk about Crude Oil bottoming the barrel is much closer to the Jan low than the high &amp; that is with longs at a new 8-month high
+neilazous	696688755084808192	2016-02-08T13:35:17	Special Sun Edition: Anti-Risk Parity Trade; Sept FOMC Probabilities Fulcrum Lever for USD  
+neilazous	696688696117063680	2016-02-08T13:35:03	Markets closed for Carnival Monday: Argentina, Brazil, Bolivia, Ecuador, Panama, Slovenia, Uruguay, Venezuela.
+neilazous	696680671184613376	2016-02-08T13:03:10	RVM Model Portfolio: Bot 4000 EDH6/EDH7 for 0.175 avg per working order. timestamp
+neilazous	696669097959038976	2016-02-08T12:17:11	RVM Model Portfolio: Bidding 0.185 for 4000 EDH6/EDH7; adding steepener bias into Chair Yellen HH testimony.
+neilazous	696442152134582272	2016-02-07T21:15:22	Special Sun Edition: Anti-Risk Parity Trade; Sept FOMC Probabilities Fulcrum Lever for USD  
+neilazous	695746101358563328	2016-02-05T23:09:31	Crude Oil long position grows +4.17% WoW, follows last week's +8.65% increase, now at 8-month high, filled Jun15 gap 
+neilazous	695721848714223617	2016-02-05T21:33:09	allstarcharts #1 quant factor last year (+25% in EU &amp; US) was L/S 12-mo Momo in top vs. bottom 15% of Russell 3000; its -7% last 5-days.
+neilazous	695721362086891523	2016-02-05T21:31:13	allstarcharts its not that momo is being impaired it is that the quant strategies are leading the unwind of it 1st time in 12-months.
+neilazous	695720874016698368	2016-02-05T21:29:16	allstarcharts It not just the cool kid stocks like FANG but SX5E, DAX, NDX, RTY all made new "closing lows" for 2016 today.
+neilazous	695720133185163264	2016-02-05T21:26:20	Reminder - Sun Feb 7th - update on China's FX reserves; important data as capital flight is a key premise to China/Global bear views.
+neilazous	695719995767177216	2016-02-05T21:25:47	Important - SX5E, DAX, NDX, RTY, FANG made new "closing lows" for 2016 today. Risk is not a bounce but that NKY and SPX play catch up next.
+neilazous	695673552276713473	2016-02-05T18:21:14	Always great to be on with you guys!  
+neilazous	695656281907073024	2016-02-05T17:12:36	To highlight the view that US Housing is being dragged into cyclicality issues see S15HOME vs. Industrial sector. 
+neilazous	695655973529251840	2016-02-05T17:11:23	To highlight the view that US has reached "Peak Auto" production see S15AUTO vs. Industrial sector. 
+neilazous	695655664476094464	2016-02-05T17:10:09	To highlight the degree of rotation into Consumer Staples &amp; away from Discretionary. 
+neilazous	695655459886342144	2016-02-05T17:09:20	To highlight degree of rotation into DEFENSIVE sectors - Telecom off grid, Staples bordering it, Utilities close 3rd 
+neilazous	695649876533710848	2016-02-05T16:47:09	SX5E, DAX, NDX, RTY, FANG likely to make new "closing lows" - Give you 2 guesses which index is next inline; 1st guess does not count - SPX.
+neilazous	695631496204439552	2016-02-05T15:34:07	RVM Model Portfolio: Bot 133mm EUR/SEK 11/09/16 P9.00 for 112.821 EUR (7.9 IV, ref 9.4302) to open; building short EUR/SEK position.
+neilazous	695629320711176192	2016-02-05T15:25:28	RVM Model Portfolio: Sold 33mm EUR/SEK at 9.4272; starting to build new short; see Sight Beyond Sight Monday for details.
+neilazous	695623316422463488	2016-02-05T15:01:37	Observation - If US beta - the NDX 100 - stays down at these levels, the index will make a new 2016 closing low today. QQQ
+neilazous	695325195456921600	2016-02-04T19:16:59	How should the Japanese yen (JPY) strength be characterized?  A) Heart Breaking B) Soul Crushing C) Bone Crushing D) Ruining Lives E) Terror
+neilazous	695305938186735616	2016-02-04T18:00:28	Add to calendar - Sun Feb 7th - update on China's FX reserves; important data as capital flight is a key premise to China/Global bear views.
+neilazous	695282119795458048	2016-02-04T16:25:49	A new favorite toy - Let the wheel decide why the market is moving -  
+neilazous	695278600673759232	2016-02-04T16:11:50	Deutsche Bank pfd stock down 3-4 pts today; +300 bps in yield; like the CoCo bonds market re-pricing DB to suspend dividend/coupon payment.
+neilazous	695278349455876096	2016-02-04T16:10:50	Observation - Post today's data, paid forecasters uniting around 0.4% GDP for Q4, down from 0.7%; within margin of error of swinging to 0/-.
+neilazous	695240259483914240	2016-02-04T13:39:29	The Straw That Broke the Camel’s Back…US Employment Report Trading Regime Matrix   
+neilazous	695025704623345664	2016-02-03T23:26:55	Watch Neil Azous segment on CNBC Trading Nation today - Frontier markets sell off 
+neilazous	695023460729364480	2016-02-03T23:18:00	Watch Neil Azous segment on CNBC Trading Nation Power Lunch today -  Have professional investors become ‘impaired’? 
+neilazous	694996400103428097	2016-02-03T21:30:28	Today was the largest 1-day drop in percentage terms for the US dollar trade weighted basket in history outside of the 2008 and 1998 crises.
+neilazous	694992591272722433	2016-02-03T21:15:20	Watch Neil Azous segment live on CNBC Trading Nation 'Power Lunch' today - How stocks will find a bottom 
+neilazous	694924230346039296	2016-02-03T16:43:42	Agenda by speculators very strong; despite very bearish API/DOE data for Crude Oil its "sell the rumor, cover the news"; same as last week.
+neilazous	694923449320476673	2016-02-03T16:40:36	Our model says the unconditional probability of a CUT or HIKE by Fed in 2Q (i.e. June) at roughly same now (~16%) ; also same for Sept too.
+neilazous	694884089271181312	2016-02-03T14:04:11	Time to Add Some Risk…Many Ways to Express Bullish/Bearish Views…Stop Losses Clearly Defined  
+neilazous	694875242074890241	2016-02-03T13:29:02	RVM Model Portfolio: Bot 4800 EDU6 99.625 calls to open for 2.5 ticks; at least 8x payout if Fed eases by September
+neilazous	694874337740996608	2016-02-03T13:25:26	RVM Model Portfolio: Bot 2665 EDZ6 99.5-99.75 call spread to open for 4.5 ticks; 5.5x payout if Fed eases in 2016.
+neilazous	694870077540286465	2016-02-03T13:08:31	RVM Model Portfolio: Sold 54mm CHF/JPY at 117.526; adding to yen longs. See Sight Beyond Sight for details.
+neilazous	694868767172661248	2016-02-03T13:03:18	RVM Model Portfolio: Bot 100m Korea 5YR CDS for 69.334; beginning to build short Korean credit position. See Sight Beyond Sight for details.
+neilazous	694868501077585920	2016-02-03T13:02:15	RVM Model Portfolio: Sold 48.875mm KRW/JPY 9.812; adding to yen longs; See Sight Beyond Sight for details.
+neilazous	694643667974356997	2016-02-02T22:08:50	Crude Oil - Neil Azous' latest views &amp; observations can be seen here  IBKR_TI
+neilazous	694593336867426304	2016-02-02T18:48:51	RVM Model Portfolio: Sold 7.5mm AUD/JPY at 84.885; just adding small to existing position for proper sizing.
+neilazous	694587721352925185	2016-02-02T18:26:32	RVM Model Portfolio: Bot 500 ESU6 9/16/16 P1500 for $30.75; adding final unit of S&amp;P 500 short risk for book overlay.
+neilazous	694560926050185216	2016-02-02T16:40:03	Solvency Risk Repricing: DB 6% EUR CoCo bond -2.4 pts today to 82 (+10% yld); -10 pts last 8-days; stock -27% &amp; CDS +54 bps last 15-days.
+neilazous	694530733109559300	2016-02-02T14:40:05	RVM Model Portfolio: Sold 30mm AUD/JPY at 84.935; new short timestamp
+neilazous	694511409326063617	2016-02-02T13:23:18	New Longs in Crude Oil Now Underwater…Existing Longs in Europe Rotating to US Equities   
+neilazous	694265047519006721	2016-02-01T21:04:20	Top 4 - Market Cap Roulette - So Facebook passes Exxon Mobil today &amp; Google, if prices stay this high post earnings, passes Apple today.
+neilazous	694124664998723584	2016-02-01T11:46:31	See Sight Beyond Sight Special Sunday Edition to learn about this week's main talking points  
+neilazous	693988194195476484	2016-02-01T02:44:13	See Sight Beyond Sight Special Sunday Edition to learn about this week's main talking points  
+neilazous	693192277494255616	2016-01-29T22:01:32	Fixed Income entered Silly Season today; new probabilities (see attached) highlight asymmetry in EDH6/EDM6 steepener 
+neilazous	693145248307007488	2016-01-29T18:54:39	RVM Model Portfolio: Buying 12,000 EDH6/EDM6 for 0.05 ticks OTD; 300k DV01; See Sight Beyond Sight Monday morning for details.
+neilazous	693027404248383488	2016-01-29T11:06:23	The new Central Bank Jargon - Bank of Japan has 3 arrows &amp; can now ease in Quality, Quantity &amp; Rates - "QQRE". Fits alongside "QECB" in EU.
+neilazous	692810663463391232	2016-01-28T20:45:08	To highlight importance of tonight's BoJ meeting USD/JPY implied volatility trading @ 31 mid, highest level since Abenomics began (h/t MG)
+neilazous	692784597164236803	2016-01-28T19:01:33	Convergence - Ford Motor (F) making new lows; Santander Consumer USA (SC) making new lows; two axes - Bernstein &amp; MS - calling peak Autos.
+neilazous	692776481546735616	2016-01-28T18:29:19	Earnings Scorecard - 28% of SP500 reported: 71% above vs. 15% below expectations vs. avg. beat since 1Q04 66%. (Source: MS)
+neilazous	692776434708934656	2016-01-28T18:29:07	Revenue Scorecard - 28% of SP500 reported: 49% above vs. 46% below expectations vs. avg. past 8 quarters 54% sales beat. (Source: MS)
+neilazous	692776375762210816	2016-01-28T18:28:53	Guidance Scorecard - 28% of SP500 reported: For every 1 company that raised guidance, 3.17 lowered it; avg. 10yr ratio is 2.67. (Source: MS)
+neilazous	692749007307837440	2016-01-28T16:40:08	Please RT. See attached note on why we are doubling our downside S&amp;P 500 protection. 
+neilazous	692747859255521280	2016-01-28T16:35:34	RVM Model Portfolio - Bot 500 ESU6 9/16/16 P1500 for $35.00 to open; adding to existing book overlay hedge.
+neilazous	692727101611442177	2016-01-28T15:13:05	RVM Model Portfolio: Bot 30mm EUR/JPY for 129.93; removing event risk ahead of BoJ tonight; discussion has become too extreme &amp; 2-ways.
+neilazous	692699304327274496	2016-01-28T13:22:38	Based on the Clear Agenda in Oil by Professionals It Is Responsible to Put a Hedge in Place  
+neilazous	692445723690979329	2016-01-27T20:35:00	Who touches 200-week moving average 1st? SPY @ 178.56 vs 187.30 last or AAPL @ 91.73 vs 93.60 last price. Not since pre-GFC APPL &lt;200-WMAVG.
+neilazous	692444744031535105	2016-01-27T20:31:06	Pre-earnings tonight FB been trading heavy well before FOMC; highlight this bec not 1 icon name yet to have good earnings print this season.
+neilazous	692444000402407424	2016-01-27T20:28:09	Which is a bigger statement for Chair Yellen: 1) the SPY has dropped 2.33% since 2 p.m. EST or 2) this is the largest hourly candle in 2016.
+neilazous	692409202157993984	2016-01-27T18:09:52	Boldest call of day - Downgrade Apple's "bonds" from MP to UP; spread curve too flat, feel safer in MSFT &amp; AMZN bonds (Source: CreditSights)
+neilazous	692376504190287873	2016-01-27T15:59:56	RVM Model Portfolio - Bot 20,000 EEM 3/18/16 C31.5 for $0.33 to open; spent ~20 bps of NAV to hedge crude oil bounce &amp; ultra-dovish FOMC.
+neilazous	692330046112055297	2016-01-27T12:55:20	There is Now a Closet Long Position in Crude Oil…Introducing Our Event Regime Matrix  
+neilazous	692012524418535424	2016-01-26T15:53:37	RVM Model Portfolio: Bot 35mm SEK/CFH for 11.8875, new long, risking 20 bps of NAV, stop 100-DMAVG or 3-SDs, technical breakout.
+neilazous	691980030105223168	2016-01-26T13:44:30	FOMC Tomorrow a Non-Event...Introducing Our Regime Matrix...Financials (XLF) a Key Focus   
+neilazous	691742864141914116	2016-01-25T22:02:05	From peak-to-trough since last Wed's lows, SP Eminis (ESH6) has retraced ~38.2% FIB &amp; Crude Oil (CLH6) has retraced ~61.8% FIB of the gains.
+neilazous	691707412139655168	2016-01-25T19:41:13	Crude Oil closes on lows; 7.6% range; usual relationships reinsert themselves (IWM u/p SPY, L/S 12-mo Momo +1.85%, HY spread +15 bps wider)
+neilazous	691663256851709953	2016-01-25T16:45:45	Stunning Observation - Financials vs. S&amp;P 500 (XLF/SPY ratio) 14-day RSI at ~13, lower than GFC. 
+neilazous	691619909961408513	2016-01-25T13:53:30	The New Found Faith that Crude Oil and S&amp;P 500 Have Bottomed is Very High…We Remain Atheist  
+neilazous	690993989584076800	2016-01-23T20:26:19	Watch Neil Azous on IBKR webinar - The Federal Reserve Tool Kit - give a Rareview at preparing for an FOMC meeting 
+neilazous	690302580392607744	2016-01-21T22:38:55	Interesting - ABX, largest name in GDX, $3 bln impairment charge, lowers gold price assumption to $1,000/oz for 2016 &amp; $1,200/oz long term.
+neilazous	690177551768129536	2016-01-21T14:22:05	Margin Call Extends Beyond Energy…Only Weak-Handed Players Left to Play a Bounce in Risk  
+neilazous	689857421100072960	2016-01-20T17:10:00	Stock Market Internal Observation - NYSE breadth 96% negative today; equivalent to August 24, 2015 puke.
+neilazous	689842389251416064	2016-01-20T16:10:16	Crude Oil Fact: Monthly 14-period RSI in CL1 hasn't been below 30 since the 1985 oil crash; we've now seen it twice in the past 12 months.
+neilazous	689821935648272384	2016-01-20T14:49:00	Sight Beyond Sight - Those Calling for a Bounce in Risk Assets Still Don’t Get the Joke  
+neilazous	689492182651121664	2016-01-19T16:58:41	Join Neil Azous w/ IBKR &amp; IBKR_TI  at 1pm EST to go over his Federal Reserve tool kit &amp; how he trades global macro 
+neilazous	689451059543027712	2016-01-19T14:15:16	Fixed Income Overshoot Two-Times That of Equities…Remain True to Our Framework  
+neilazous	688108865766834176	2016-01-15T21:21:52	macroinsightgrp That depends on the asset class. Based on probabilities I would rather bet US rates move overdone, not equities.
+neilazous	688106511357247488	2016-01-15T21:12:31	Pendulum Swing - 2016 market-implied odds of an interest rate CUT are actually more than twice as high as seeing four interest rate hikes.
+neilazous	688082615136550913	2016-01-15T19:37:34	Close for Sale - SPY puts expiry on close today (vs SPX on open); P187 1.2 bln &amp; P185 600mm net put open interest; last price 186.65. gamma
+neilazous	688061401013817344	2016-01-15T18:13:16	News: NeilAzous cited by Reuters re Wall Street selloff, options expiration boost trading volume 
+neilazous	688048326088982528	2016-01-15T17:21:18	lebas_janney "gradually" is a loose description when yuan volatility up 3x &amp; FX reserves -25% in 18-months.
+neilazous	688047847179182080	2016-01-15T17:19:24	lebas_janney Tell that to CVA desk that cant distinguish bet a RWA &amp; capital ratios, i.e. duration not being considered, only notional exp.
+neilazous	688047322270416896	2016-01-15T17:17:19	lebas_janney IRS are unable to be arbitraged; hence they are a better gauge of "fair value" than UST's atm due to balance sheet issues.
+neilazous	688006985187520513	2016-01-15T14:37:02	lebas_janney then we would have to imply China FX was never weaker, Dodd-Frank never mattered, &amp; banks will carry inventory again :)
+neilazous	688003494704459776	2016-01-15T14:23:10	Fixed Income - remember if you adjust for the 35 bps move in swap spreads the UST 10-year yield is at 1.65%, i.e. already well through 2%.
+neilazous	687980002223243264	2016-01-15T12:49:49	Today is Options expiration in equities, see my attached trading comments &amp; why re-hedging is costly SPY VIX VXX 
+neilazous	687969288930652160	2016-01-15T12:07:14	On 1yr SNB anniversary see lessons learned From Switzerland w/ Love: Some Hard Truths About Central Banks &amp; Risk 
+neilazous	687666800654417922	2016-01-14T16:05:16	RVM Model Portfolio: Sold 100,000 XBI at 54.68; was token long in JPM H/C conference; no follow through; reducing long. timestamp
+neilazous	687638889905942528	2016-01-14T14:14:21	Sight Beyond Sight - More to Crude Oil and S&amp;P 500 than Options Expiration and the Chinese Yuan 
+neilazous	687368737259913217	2016-01-13T20:20:52	"This Buds for You" - Record day in IG issuance due to $46 bln Anheuser-Busch deal; high cash balances come running when A- priced like BBB.
+neilazous	687304989396578306	2016-01-13T16:07:33	.boes_  BoJ also bought “corporate bonds” at negative yield for 1st time last night as well.
+neilazous	687263402998296576	2016-01-13T13:22:18	Sight Beyond Sight - The Bounce in Treasury Yields Likely to be More Durable than the S&amp;P 500 
+neilazous	686947746155212800	2016-01-12T16:28:00	RVM Model Portfolio: Bot 5,600 EDM6 99.00/98.875/98.75 put option butterflies for 1.5 ticks. Risking 7 bps of NAV.
+neilazous	686947668866772992	2016-01-12T16:27:41	RVM Model Portfolio: Bot 5,330 EDJ6 99.25/99.375/99.50 call option butterflies for 2.25 ticks. Risking 10 bps of NAV.
+neilazous	686939435624218624	2016-01-12T15:54:58	Crude Oil taking seriously new time value of Saudi's ability to raise equity (ARAMCO +1 trln) &amp; debt (debt/GDP 40%) to weaken rest of world.
+neilazous	686937185812090880	2016-01-12T15:46:02	RVM Model Portfolio: Bot 1000 ESU6P (SP Emini Sept) 1500 puts for 31.25 to open; beginning to build structural book hedge.
+neilazous	686913403391184896	2016-01-12T14:11:32	Classic Counter-Trend Tuesday…Consensus is the Bounce in the S&amp;P 500 Started 
+neilazous	686623661688754177	2016-01-11T19:00:12	Stock Market Update - Hearing pension fund asset allocation out of SPY and into Powerball.
+neilazous	686582937689653248	2016-01-11T16:18:23	RVM Model Portfolio: Bought 100,000 XBI for 57.83; anticipatory unit into JPM H/C; will grow it on positive newsflow.
+neilazous	686541924719816704	2016-01-11T13:35:24	Strong Hands Standing Up to Sell S&amp;P 500 &amp; USD/JPY Following Any Short-Term Bounce 
+neilazous	686322633189752833	2016-01-10T23:04:01	RVM Model Portfolio: Sold 30mm EUR/JPY at 128.10
+neilazous	686319724263796736	2016-01-10T22:52:28	Heads up! On 8/24 ZARJPY fell from 9.50 to 9.00 (-5.2%); same day USDJPY fell 3 big figures in 2 minutes; ZARJPY currently -6% Mrs.Watanabe
+neilazous	685604660120522752	2016-01-08T23:31:03	CFTC IMM Data - JPY positioning turns outright long for the first time in the Abe era (Source: JPM) yen
+neilazous	685490886290092032	2016-01-08T15:58:57	Quant Factor: #1 strategy in 2016 (+2.5% YTD) same as 2015 (+23%); Long/Short 12-month momentum (Long top 15% vs. Short bottom 15% of R3000)
+neilazous	685215784046587905	2016-01-07T21:45:48	Not calling for it but on China stability tonight the assets that look set to partially mean revert would be Gold down, AUD/JPY up, DAX up.
+neilazous	685213766766690304	2016-01-07T21:37:47	Oil - OPEC Basket (OPECDALY Index) closes below 30, Saudi discussing intro VAT tax &amp; IPO Aramco (w/b world's largest co); CDS &amp; SAR at wides
+neilazous	685113894512246785	2016-01-07T15:00:55	Story No Longer Just About Crude Oil &amp; Yuan…The ECB &amp; FED Enter the Narrative…Regime Matrix for NFP Report Tomororw 
+neilazous	685047064342953985	2016-01-07T10:35:22	@rareviewmacro Bot 72mm EUR/GBP for .7436; stopped out short position per our pre-defined game plan for gains &amp; losses.
+neilazous	685046000357085184	2016-01-07T10:31:08	@rareviewmacro ESH6 sell-stop order elected overnight; position flat.
+neilazous	684854722805760002	2016-01-06T21:51:04	RVM Model Portfolio - GTC order - place sell-stop at 1960 on 600 ESH6 (SP Emini); will roll-up trailing stop to 1979.75 if ESH6 trades 2000.
+neilazous	684828857678082048	2016-01-06T20:08:17	RVM Model Portfolio - Trade 2: Bot 14,400 EDZ6 99.375 calls for 2.5 ticks, see Trade Lab for details
+neilazous	684828813063237632	2016-01-06T20:08:07	RVM Model Portfolio - Trade 3: Bot 6,000 EDJ6 99.00 puts for 2 ticks, see Trade Lab for details
+neilazous	684828766426775553	2016-01-06T20:07:56	RVM Model Portfolio - Trade 1: Sold 10,285 EDZ6 98.875 straddles at 35 ticks, see Trade Lab for details
+neilazous	684816471051087872	2016-01-06T19:19:04	Powerful - WTI, Brent, XLE, XOP, OIH, CAD, NOK, RUB make new lows today; rejects 3 bullish catalysts: inventory data, N. Korea, Iran/Saudi.
+neilazous	684734042114244608	2016-01-06T13:51:32	Dislocation Across Asset Classes Strong Enough to Entice New Token Positions for First Time in 2016 
+neilazous	684709445801213952	2016-01-06T12:13:47	RVM Model Portfolio: Bot 600 ESH6 (SP Emini) for 1979.75; new long; see Sight Beyond Sight today for details. timestamp
+neilazous	684442887845720064	2016-01-05T18:34:35	CAD, RUB, NOK new lows but no new low in crude oil for 2-weeks highlights that "time" at lower range beginning to matter more fundamentally.
+neilazous	684390684028211200	2016-01-05T15:07:09	S&amp;P 500 Being Led by Japanese Yen…Yen Strength is a New Theme Developing Few are Prepared For 
+neilazous	683972758926180352	2016-01-04T11:26:27	Japanese yen breaks 23.6% FIB level going back to beginning of Abenomics vs. GBP, SGD, CNH last night; big change in global risk construct.
+neilazous	683967260105568256	2016-01-04T11:04:36	O/n forex updates due to low Oil or strong USD: Angola devalues Kwanza 13%; Vietnam reduced dong’s reference rate for 1st time since August
+neilazous	683774151446937605	2016-01-03T22:17:16	Wrong Way First (WWF) Trading a Key Theme to Start 2016; Learn more in today's special edition of Sight Beyond Sight 
+neilazous	683679145314906112	2016-01-03T15:59:45	RVM Model Portfolio: First trade of 2016; selling short 72mm EUR/GBP over first 24hrs of trading. See Sight Beyond Sight for trade details.
+neilazous	683678845543837701	2016-01-03T15:58:33	Sight Beyond Sight - Special Sunday Edition - You’re Only as Good as Your Last Best Trade 
+neilazous	682509701494521856	2015-12-31T10:32:47	RVM Model Portfolio: Sold 60mm SEK/CHF at 11.8041. timestamp
+neilazous	682509436225716226	2015-12-31T10:31:44	RVM Model Portfolio: Sold 50mm USD/CHF at .9929. timestamp
+neilazous	682508291008770048	2015-12-31T10:27:11	RVM Model Portfolio: Sold 250mm EUR/USD 4/30/16 P1.05 at 100.174 USD PIPS (10.681% vol, spot ref 1.0901) to close. timestamp
+neilazous	681433005403979777	2015-12-28T11:14:23	RVM Model Portfolio: closed out of long RUB/CHF &amp; short USD/RUB positions. timestamp
+neilazous	677597500312854528	2015-12-17T21:13:27	Enjoyed presenting our models/views via CQGInc &amp; alongside JohnNetto. Watch it here  
+neilazous	677515760701472768	2015-12-17T15:48:39	Gold looks in the abyss, there's nothing staring back at him. At this moment, Gold has not found his character to keep him out of the abyss.
+neilazous	677480510302625792	2015-12-17T13:28:35	A Non-Consensus Case to Be Long on Both the US Dollar and Fixed Income; See Sight Beyond Sight today for details. 
+neilazous	677154497429417984	2015-12-16T15:53:07	Pick your prison - Château d'If, Alcatraz, Su Chou - but the professional community excited to be finally released from the zero bound!
+neilazous	676817244131827712	2015-12-15T17:33:00	RVM Model Portfolio: Sold 15mm USD/RUB at 69.7075; adding to existing short on oil exhibiting signs of bottoming for 2015.
+neilazous	676791533388042240	2015-12-15T15:50:50	RVM Model Portfolio: Bot 5000 x 10,000 VIX 12/16/15 18-25 1x2 call spread for $2.80 to close. timestamp
+neilazous	676762693852905472	2015-12-15T13:56:14	We Are All Just One Leveraged Small Cap …A Regime Matrix for Tomorrow’s FOMC Meeting 
+neilazous	676554496772841472	2015-12-15T00:08:56	hmmacro Not scared; caught long Yen well overall; don't like current location due to surprise BOJ factor this week; a trade "I don't need".
+neilazous	676507212945211392	2015-12-14T21:01:03	RVM Model Portfolio: Bot 20mm CHFJPY for 122.690; closing short; reducing long Yen risk ahead of BoJ meeting.

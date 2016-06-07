@@ -1,0 +1,720 @@
+TWCBreaking	726244374300876800	2016-04-30T02:58:46	Tornado Warning for Bossier and Caddo Parishes in LA until 10:30 PM CDT 
+TWCBreaking	726208486523064322	2016-04-30T00:36:10	Tornado Warning for Cherokee, Nacogdoches and Rusk Counties in TX until 8:15 PM CDT 
+TWCBreaking	726208211422867457	2016-04-30T00:35:04	Tornado Warning for Hughes County in OK until 8:00 PM CDT 
+TWCBreaking	726203540104859648	2016-04-30T00:16:30	Tornado Warning for Camp, Cass, Harrison, Marion, Morris and Upshur Counties in TX until 8:00 PM CDT 
+TWCBreaking	726198464812470272	2016-04-29T23:56:20	Tornado Warning for Camp, Morris, Titus and Upshur Counties in TX until 7:30 PM CDT 
+TWCBreaking	726195061558382592	2016-04-29T23:42:49	Tornado Warning for Camp, Upshur and Wood Counties in TX until 7:30 PM CDT 
+TWCBreaking	726193852327960577	2016-04-29T23:38:01	Tornado Warning for Okfuskee County in OK until 7:15 PM CDT 
+TWCBreaking	726190955301208064	2016-04-29T23:26:30	Tornado Warning for Nevada County in AR until 7:00 PM CDT 
+TWCBreaking	726190656624807938	2016-04-29T23:25:19	Tornado Warning for Camp, Upshur and Wood Counties in TX until 7:00 PM CDT 
+TWCBreaking	726186610492997633	2016-04-29T23:09:14	Tornado Warning for Bosque County in TX until 6:45 PM CDT 
+TWCBreaking	726183249509117954	2016-04-29T22:55:53	Tornado Warning for Smith, Upshur and Wood Counties in TX until 6:45 PM CDT 
+TWCBreaking	726180015612686336	2016-04-29T22:43:02	Tornado Warning for Hempstead and Nevada Counties in AR until 6:30 PM CDT 
+TWCBreaking	726177842434711552	2016-04-29T22:34:24	Tornado Warning for Smith County in TX until 6:15 PM CDT 
+TWCBreaking	726175275671646208	2016-04-29T22:24:12	Tornado Warning for Little River County in AR until 6:00 PM CDT 
+TWCBreaking	726175264011493376	2016-04-29T22:24:09	Tornado Warning for Bowie County in TX until 6:00 PM CDT 
+TWCBreaking	726174599856066560	2016-04-29T22:21:30	Tornado Warning for Henderson and Van Zandt Counties in TX until 6:00 PM CDT 
+TWCBreaking	726170343585411073	2016-04-29T22:04:36	Tornado Warning for Van Zandt County in TX until 5:45 PM CDT 
+TWCBreaking	726167834250735617	2016-04-29T21:54:37	Tornado Warning for Henderson County in TX until 5:30 PM CDT 
+TWCBreaking	726164965258711040	2016-04-29T21:43:13	Tornado Warning for Grayson County in TX until 5:15 PM CDT 
+TWCBreaking	726161578542784512	2016-04-29T21:29:46	Tornado Warning for Cleveland, Grady and McClain Counties in OK until 5:15 PM CDT 
+TWCBreaking	726159183968538625	2016-04-29T21:20:15	Tornado Warning for Grayson County in TX until 4:45 PM CDT 
+TWCBreaking	726153156787208192	2016-04-29T20:56:18	Tornado Warning for Caddo, Comanche and Grady Counties in OK until 4:45 PM CDT 
+TWCBreaking	726146908884860928	2016-04-29T20:31:28	Tornado Warning for Monroe County in MS until 4:15 PM CDT 
+TWCBreaking	726144327907311616	2016-04-29T20:21:13	Tornado Warning for Caddo, Comanche and Grady Counties in OK until 4:00 PM CDT 
+TWCBreaking	726130735036260352	2016-04-29T19:27:12	Tornado Warning for Calhoun, Chickasaw and Pontotoc Counties in MS until 3:15 PM CDT 
+TWCBreaking	726016753122201600	2016-04-29T11:54:17	Tornado Warning for Lamb County in TX until 7:15 AM CDT 
+TWCBreaking	725788822244462593	2016-04-28T20:48:34	Tornado Warning for Wayne County in IN until 5:15 PM EDT 
+TWCBreaking	725772638543437824	2016-04-28T19:44:15	Tornado Warning for Rush County in IN until 4:15 PM EDT 
+TWCBreaking	725768254996639744	2016-04-28T19:26:50	Tornado Warning for Boone and Hamilton Counties in IN until 3:45 PM EDT 
+TWCBreaking	725639582570582016	2016-04-28T10:55:32	Tornado Warning for Harrison County in MS until 6:30 AM CDT 
+TWCBreaking	725634657513926657	2016-04-28T10:35:58	Tornado Warning for Harrison County in MS until 6:00 AM CDT 
+TWCBreaking	725508802041155586	2016-04-28T02:15:52	Tornado Warning for Adams County in IL until 9:45 PM CDT 
+TWCBreaking	725508794529107968	2016-04-28T02:15:50	Tornado Warning for Lewis County in MO until 9:45 PM CDT 
+TWCBreaking	725495596740542464	2016-04-28T01:23:23	Tornado Warning for Lewis, Marion and Shelby Counties in MO until 9:00 PM CDT 
+TWCBreaking	725485353239371776	2016-04-28T00:42:41	Tornado Warning for Scotland County in MO until 8:15 PM CDT 
+TWCBreaking	725484726522273792	2016-04-28T00:40:12	Tornado Warning for Knox County in MO until 8:00 PM CDT 
+TWCBreaking	725484565616156672	2016-04-28T00:39:33	Tornado Warning for Lewis and Marion Counties in MO until 8:15 PM CDT 
+TWCBreaking	725482966760058880	2016-04-28T00:33:12	Tornado Warning for Richland County in IL until 8:15 PM CDT 
+TWCBreaking	725478762276478976	2016-04-28T00:16:30	Tornado Warning for Cumberland, Effingham and Shelby Counties in IL until 8:00 PM CDT 
+TWCBreaking	725477862392795136	2016-04-28T00:12:55	Tornado Warning for Christian County in IL until 8:00 PM CDT 
+TWCBreaking	725473900595826689	2016-04-27T23:57:11	Tornado Warning for Montgomery County in IL until 7:30 PM CDT 
+TWCBreaking	725471200219009024	2016-04-27T23:46:27	Tornado Warning for Effingham County in IL until 7:15 PM CDT 
+TWCBreaking	725471033185071104	2016-04-27T23:45:47	Tornado Warning for Daviess County in KY until 7:15 PM CDT 
+TWCBreaking	725469011425665024	2016-04-27T23:37:45	Tornado Warning for Christian County in IL until 7:15 PM CDT 
+TWCBreaking	725468720970141697	2016-04-27T23:36:36	Tornado Warning for Fayette County in IL until 7:00 PM CDT 
+TWCBreaking	725468047029338112	2016-04-27T23:33:55	Tornado Warning for Daviess County in KY until 6:45 PM CDT 
+TWCBreaking	725467671064539136	2016-04-27T23:32:25	Tornado Warning for Montgomery County in IL until 7:00 PM CDT 
+TWCBreaking	725462250585100292	2016-04-27T23:10:53	Tornado Warning for Daviess and McLean Counties in KY until 6:30 PM CDT 
+TWCBreaking	725459719574286336	2016-04-27T23:00:50	Tornado Warning for Hopkins and McLean Counties in KY until 6:15 PM CDT 
+TWCBreaking	725455834340184064	2016-04-27T22:45:23	Tornado Warning for Adair, Madison and Union Counties in IA until 6:30 PM CDT 
+TWCBreaking	725448351173369857	2016-04-27T22:15:39	Tornado Warning for McLean and Webster Counties in KY until 5:45 PM CDT 
+TWCBreaking	725448090702864384	2016-04-27T22:14:37	Tornado Warning for Adams, Ringgold, Taylor and Union Counties in IA until 6:00 PM CDT 
+TWCBreaking	725447515126923265	2016-04-27T22:12:20	Tornado Warning for Daviess County in MO until 5:45 PM CDT 
+TWCBreaking	725445192191348736	2016-04-27T22:03:06	Tornado Warning for Muhlenberg County in KY until 5:30 PM CDT 
+TWCBreaking	725444951962583040	2016-04-27T22:02:09	Tornado Warning for Ohio County in KY until 5:30 PM CDT 
+TWCBreaking	725442570365468672	2016-04-27T21:52:41	Tornado Warning for Hopkins and Webster Counties in KY until 5:15 PM CDT 
+TWCBreaking	725442360230834176	2016-04-27T21:51:51	Tornado Warning for Daviess County in MO until 5:15 PM CDT 
+TWCBreaking	725440776486817792	2016-04-27T21:45:33	Tornado Warning for Hopkins and Muhlenberg Counties in KY until 5:15 PM CDT 
+TWCBreaking	725439136635604994	2016-04-27T21:39:02	Tornado Warning for Taylor County in IA until 5:15 PM CDT 
+TWCBreaking	725438485528616960	2016-04-27T21:36:27	Tornado Warning for Muhlenberg County in KY until 5:00 PM CDT 
+TWCBreaking	725434226301005824	2016-04-27T21:19:32	Tornado Warning for Hopkins and Muhlenberg Counties in KY until 4:45 PM CDT 
+TWCBreaking	725423616599314432	2016-04-27T20:37:22	Tornado Warning for Douglas County in NE until 4:00 PM CDT 
+TWCBreaking	725420221134045184	2016-04-27T20:23:53	Tornado Warning for Montgomery County in IA until 4:00 PM CDT 
+TWCBreaking	725414060326416385	2016-04-27T19:59:24	Tornado Warning for Montgomery and Page Counties in IA until 3:30 PM CDT 
+TWCBreaking	725410554722930688	2016-04-27T19:45:28	Tornado Warning for Fremont County in IA until 3:30 PM CDT 
+TWCBreaking	725408344937103361	2016-04-27T19:36:41	Tornado Warning for Montgomery and Page Counties in IA until 3:00 PM CDT 
+TWCBreaking	725312345493270529	2016-04-27T13:15:13	Tornado Warning for Vernon Parish in LA until 8:30 AM CDT 
+TWCBreaking	725303596368039936	2016-04-27T12:40:27	Tornado Warning for Vernon Parish in LA until 8:15 AM CDT 
+TWCBreaking	725295612451676161	2016-04-27T12:08:44	Tornado Warning for Bienville, Jackson, Lincoln, Ouachita and Union Parishes in LA until 7:45 AM CDT 
+TWCBreaking	725286791117332480	2016-04-27T11:33:40	Tornado Warning for Bienville, Jackson, Lincoln, Natchitoches and Winn Parishes in LA until 7:15 AM CDT 
+TWCBreaking	725276918291927040	2016-04-27T10:54:26	Tornado Warning for Liberty County in TX until 6:15 AM CDT 
+TWCBreaking	725268555873161216	2016-04-27T10:21:13	Tornado Warning for Polk and San Jacinto Counties in TX until 5:45 AM CDT 
+TWCBreaking	725260869693665281	2016-04-27T09:50:40	Tornado Warning for Liberty, Montgomery and San Jacinto Counties in TX until 5:15 AM CDT 
+TWCBreaking	725257276076883968	2016-04-27T09:36:23	Tornado Warning for Harris and Montgomery Counties in TX until 5:00 AM CDT 
+TWCBreaking	725221665219584001	2016-04-27T07:14:53	Tornado Warning for Christian, Douglas and Taney Counties in MO until 2:45 AM CDT 
+TWCBreaking	725217713719644160	2016-04-27T06:59:11	Tornado Warning for Stone and Taney Counties in MO until 2:30 AM CDT 
+TWCBreaking	725208900123815937	2016-04-27T06:24:10	Tornado Warning for Franklin County in AR until 2:00 AM CDT 
+TWCBreaking	725206139126730752	2016-04-27T06:13:11	Tornado Warning for Carroll, Madison and Washington Counties in AR until 2:00 AM CDT 
+TWCBreaking	725205020392595457	2016-04-27T06:08:45	Tornado Warning for Crawford, Franklin and Sebastian Counties in AR until 1:45 AM CDT 
+TWCBreaking	725198227079716864	2016-04-27T05:41:45	Tornado Warning for Madison and Washington Counties in AR until 1:15 AM CDT 
+TWCBreaking	725198046624014336	2016-04-27T05:41:02	Tornado Warning for Benton County in AR until 1:15 AM CDT 
+TWCBreaking	725191312706686976	2016-04-27T05:14:17	Tornado Warning for Washington County in AR until 12:45 AM CDT 
+TWCBreaking	725191304980762625	2016-04-27T05:14:15	Tornado Warning for Adair County in OK until 12:45 AM CDT 
+TWCBreaking	725188114616983552	2016-04-27T05:01:34	Tornado Warning for Delaware County in OK until 12:15 AM CDT 
+TWCBreaking	725184023811612672	2016-04-27T04:45:19	Tornado Warning for Adair, Cherokee and Sequoyah Counties in OK until 12:15 AM CDT 
+TWCBreaking	725181680277807104	2016-04-27T04:36:00	Tornado Warning for Adair, Cherokee, Delaware and Mayes Counties in OK until 12:00 AM CDT 
+TWCBreaking	725176400353730560	2016-04-27T04:15:01	Tornado Warning for Cherokee, McIntosh, Muskogee and Sequoyah Counties in OK until 11:45 PM CDT 
+TWCBreaking	725176126646018052	2016-04-27T04:13:56	Tornado Warning for Craig County in OK until 11:45 PM CDT 
+TWCBreaking	725173007660933122	2016-04-27T04:01:32	Tornado Warning for Cherokee, Mayes, Rogers and Wagoner Counties in OK until 11:45 PM CDT 
+TWCBreaking	725169298658873344	2016-04-27T03:46:48	Tornado Warning for Cass County in MO until 11:15 PM CDT 
+TWCBreaking	725164365385621505	2016-04-27T03:27:12	Tornado Warning for Rogers, Tulsa and Wagoner Counties in OK until 11:00 PM CDT 
+TWCBreaking	725162206761881601	2016-04-27T03:18:37	Tornado Warning for Fannin and Grayson Counties in TX until 10:45 PM CDT 
+TWCBreaking	725160387079888896	2016-04-27T03:11:23	Tornado Warning for Grayson County in TX until 10:45 PM CDT 
+TWCBreaking	725157805473173504	2016-04-27T03:01:08	Tornado Warning for Creek, Osage, Pawnee and Tulsa Counties in OK until 10:30 PM CDT 
+TWCBreaking	725157134061555712	2016-04-27T02:58:28	Tornado Warning for Grayson County in TX until 10:30 PM CDT 
+TWCBreaking	725155703363510272	2016-04-27T02:52:47	Tornado Warning for Osage County in OK until 10:15 PM CDT 
+TWCBreaking	725154732545699840	2016-04-27T02:48:55	Tornado Warning for Johnston County in OK until 10:15 PM CDT 
+TWCBreaking	725138963233558529	2016-04-27T01:46:15	Tornado Warning for Cooke County in TX until 9:30 PM CDT 
+TWCBreaking	725138945198034944	2016-04-27T01:46:11	Tornado Warning for Lincoln, Logan and Oklahoma Counties in OK until 9:15 PM CDT 
+TWCBreaking	725123561988313089	2016-04-27T00:45:03	Tornado Warning for Phillips and Smith Counties in KS until 8:15 PM CDT 
+TWCBreaking	725103479434289152	2016-04-26T23:25:15	Tornado Warning for Greene, Monroe and Owen Counties in IN until 8:00 PM EDT 
+TWCBreaking	725098772640886784	2016-04-26T23:06:33	Tornado Warning for Nuckolls and Thayer Counties in NE until 6:30 PM CDT 
+TWCBreaking	725098529945849856	2016-04-26T23:05:35	Tornado Warning for Spencer, Vanderburgh and Warrick Counties in IN until 6:30 PM CDT 
+TWCBreaking	725096187791953920	2016-04-26T22:56:17	Tornado Warning for Spencer, Vanderburgh and Warrick Counties in IN until 6:30 PM CDT 
+TWCBreaking	725096179982196737	2016-04-26T22:56:15	Tornado Warning for Henderson County in KY until 6:30 PM CDT 
+TWCBreaking	725092232097734656	2016-04-26T22:40:34	Tornado Warning for Haskell County in TX until 6:15 PM CDT 
+TWCBreaking	725084341299232768	2016-04-26T22:09:13	Tornado Warning for Shawnee County in KS until 5:45 PM CDT 
+TWCBreaking	725081864570986497	2016-04-26T21:59:22	Tornado Warning for Tillman County in OK until 5:45 PM CDT 
+TWCBreaking	725081853917585408	2016-04-26T21:59:20	Tornado Warning for Tillman County in OK until 5:45 PM CDT 
+TWCBreaking	725065712134279169	2016-04-26T20:55:11	Tornado Warning for Sumner County in KS until 4:45 PM CDT 
+TWCBreaking	725063248228302848	2016-04-26T20:45:24	Tornado Warning for Geary, Riley and Wabaunsee Counties in KS until 4:15 PM CDT 
+TWCBreaking	725057809981779969	2016-04-26T20:23:47	Tornado Warning for Lyon and Wabaunsee Counties in KS until 4:00 PM CDT 
+TWCBreaking	725055222632972288	2016-04-26T20:13:30	Tornado Warning for Sumner County in KS until 4:00 PM CDT 
+TWCBreaking	724420988461436928	2016-04-25T02:13:17	Tornado Warning for Geary and Wabaunsee Counties in KS until 9:45 PM CDT 
+TWCBreaking	724410117240680448	2016-04-25T01:30:05	Tornado Warning for Freeborn and Steele Counties in MN until 8:45 PM CDT 
+TWCBreaking	724408409580134401	2016-04-25T01:23:18	Tornado Warning for Rice, Steele and Waseca Counties in MN until 8:45 PM CDT 
+TWCBreaking	724402599034679296	2016-04-25T01:00:13	Tornado Warning for Geary and Riley Counties in KS until 8:30 PM CDT 
+TWCBreaking	724396331263877120	2016-04-25T00:35:18	Tornado Warning for Geary and Riley Counties in KS until 8:00 PM CDT 
+TWCBreaking	724395119122620416	2016-04-25T00:30:29	Tornado Warning for Galveston and Harris Counties in TX until 8:00 PM CDT 
+TWCBreaking	724391478680657920	2016-04-25T00:16:01	Tornado Warning for Washington County in KS until 7:45 PM CDT 
+TWCBreaking	724387112284385280	2016-04-24T23:58:40	Tornado Warning for Brazoria, Galveston and Harris Counties in TX until 7:30 PM CDT 
+TWCBreaking	724385979369291776	2016-04-24T23:54:10	Tornado Warning for Republic County in KS until 7:30 PM CDT 
+TWCBreaking	724379759824662528	2016-04-24T23:29:27	Tornado Warning for Galveston and Harris Counties in TX until 7:00 PM CDT 
+TWCBreaking	724373373740961794	2016-04-24T23:04:05	Tornado Warning for Nuckolls County in NE until 6:30 PM CDT 
+TWCBreaking	724372267560378368	2016-04-24T22:59:41	Tornado Warning for Saline County in KS until 6:45 PM CDT 
+TWCBreaking	724359670509371392	2016-04-24T22:09:38	Tornado Warning for Saline County in KS until 6:00 PM CDT 
+TWCBreaking	724352262076682240	2016-04-24T21:40:11	Tornado Warning for Ellsworth and Lincoln Counties in KS until 5:30 PM CDT 
+TWCBreaking	724342189430427649	2016-04-24T21:00:10	Tornado Warning for Barton, Ellsworth and Lincoln Counties in KS until 4:45 PM CDT 
+TWCBreaking	723066106580103168	2016-04-21T08:29:28	Tornado Warning for Comanche, Erath and Hamilton Counties in TX until 4:00 AM CDT 
+TWCBreaking	722664236665696256	2016-04-20T05:52:35	Tornado Warning for Palo Pinto and Parker Counties in TX until 1:15 AM CDT 
+TWCBreaking	722179099351916545	2016-04-18T21:44:49	Tornado Warning for Webb County in TX until 5:15 PM CDT 
+TWCBreaking	722173205092241409	2016-04-18T21:21:24	Tornado Warning for Webb County in TX until 4:45 PM CDT 
+TWCBreaking	722166720564056064	2016-04-18T20:55:38	Tornado Warning for Webb County in TX until 4:30 PM CDT 
+TWCBreaking	722011803794845697	2016-04-18T10:40:03	Tornado Warning for Liberty County in TX until 6:15 AM CDT 
+TWCBreaking	721999802473426945	2016-04-18T09:52:21	Tornado Warning for Harris County in TX until 5:15 AM CDT 
+TWCBreaking	721981278715715584	2016-04-18T08:38:45	Tornado Warning for Harris County in TX until 4:15 AM CDT 
+TWCBreaking	721975012626792448	2016-04-18T08:13:51	Tornado Warning for Harris County in TX until 3:45 AM CDT 
+TWCBreaking	721928297198649344	2016-04-18T05:08:13	Tornado Warning for Harris and Montgomery Counties in TX until 12:45 AM CDT 
+TWCBreaking	721879602436571136	2016-04-18T01:54:43	Tornado Warning for Webb County in TX until 9:45 PM CDT 
+TWCBreaking	721875451472261120	2016-04-18T01:38:14	Tornado Warning for Webb County in TX until 9:00 PM CDT 
+TWCBreaking	721869376157167617	2016-04-18T01:14:05	Tornado Warning for La Salle and Webb Counties in TX until 8:45 PM CDT 
+TWCBreaking	721857645494185984	2016-04-18T00:27:28	Tornado Warning for La Salle County in TX until 8:00 PM CDT 
+TWCBreaking	721850361129009153	2016-04-17T23:58:32	Tornado Warning for La Salle County in TX until 7:30 PM CDT 
+TWCBreaking	721845078252085248	2016-04-17T23:37:32	Tornado Warning for La Salle County in TX until 7:00 PM CDT 
+TWCBreaking	721809184929353728	2016-04-17T21:14:54	Tornado Warning for Atascosa County in TX until 4:45 PM CDT 
+TWCBreaking	721688618129969152	2016-04-17T13:15:49	Tornado Warning for Hamilton and Mills Counties in TX until 8:45 AM CDT 
+TWCBreaking	721682633265008640	2016-04-17T12:52:02	Tornado Warning for Hamilton and Mills Counties in TX until 8:15 AM CDT 
+TWCBreaking	721676556423200768	2016-04-17T12:27:53	Tornado Warning for Coryell, Hamilton, Lampasas and Mills Counties in TX until 8:00 AM CDT 
+TWCBreaking	721549228875513856	2016-04-17T04:01:56	Tornado Warning for Clay and Wichita Counties in TX until 11:30 PM CDT 
+TWCBreaking	721527776747003904	2016-04-17T02:36:41	Tornado Warning for Tillman County in OK until 10:00 PM CDT 
+TWCBreaking	721508251188072448	2016-04-17T01:19:06	Tornado Warning for Fisher and Nolan Counties in TX until 9:00 PM CDT 
+TWCBreaking	721502847695593472	2016-04-17T00:57:38	Tornado Warning for Reagan County in TX until 8:30 PM CDT 
+TWCBreaking	721500993460920320	2016-04-17T00:50:16	Tornado Warning for Scurry County in TX until 8:15 PM CDT 
+TWCBreaking	721487936630366208	2016-04-16T23:58:23	Tornado Warning for Fisher and Jones Counties in TX until 7:30 PM CDT 
+TWCBreaking	721484191297220608	2016-04-16T23:43:30	Tornado Warning for Borden, Howard, Mitchell and Scurry Counties in TX until 7:30 PM CDT 
+TWCBreaking	721480524707934208	2016-04-16T23:28:56	Tornado Warning for Fisher County in TX until 7:00 PM CDT 
+TWCBreaking	721476919468777472	2016-04-16T23:14:36	Tornado Warning for Cottle, Dickens, King and Motley Counties in TX until 6:45 PM CDT 
+TWCBreaking	721474168605122560	2016-04-16T23:03:40	Tornado Warning for Fisher County in TX until 6:30 PM CDT 
+TWCBreaking	721470264089780224	2016-04-16T22:48:09	Tornado Warning for Dickens and King Counties in TX until 6:15 PM CDT 
+TWCBreaking	721448504111923200	2016-04-16T21:21:41	Tornado Warning for Dickens and King Counties in TX until 4:45 PM CDT 
+TWCBreaking	721186414113591296	2016-04-16T04:00:14	Tornado Warning for Hartley County in TX until 11:30 PM CDT 
+TWCBreaking	721163583938125824	2016-04-16T02:29:31	Tornado Warning for Morton and Stevens Counties in KS until 10:00 PM CDT 
+TWCBreaking	721161700477505536	2016-04-16T02:22:02	Tornado Warning for Oldham County in TX until 10:00 PM CDT 
+TWCBreaking	721153846739775490	2016-04-16T01:50:50	Tornado Warning for Morton County in KS until 9:15 PM CDT 
+TWCBreaking	721151561657757696	2016-04-16T01:41:45	Tornado Warning for Baca County in CO until 8:30 PM MDT 
+TWCBreaking	721148968764182528	2016-04-16T01:31:27	Tornado Warning for Morton and Stevens Counties in KS until 9:15 PM CDT 
+TWCBreaking	721146535719735297	2016-04-16T01:21:47	Tornado Warning for Baca County in CO until 7:45 PM MDT 
+TWCBreaking	721144161445883905	2016-04-16T01:12:20	Tornado Warning for Texas County in OK until 9:00 PM CDT 
+TWCBreaking	721139130269171712	2016-04-16T00:52:21	Tornado Warning for Cimarron and Texas Counties in OK until 8:15 PM CDT 
+TWCBreaking	721124051670818816	2016-04-15T23:52:26	Tornado Warning for Cimarron and Texas Counties in OK until 7:15 PM CDT 
+TWCBreaking	721124038781734912	2016-04-15T23:52:23	Tornado Warning for Dallam and Sherman Counties in TX until 7:15 PM CDT 
+TWCBreaking	721112014609715200	2016-04-15T23:04:36	Tornado Warning for Kit Carson County in CO until 5:30 PM MDT 
+TWCBreaking	721109671570907136	2016-04-15T22:55:17	Tornado Warning for Dallam and Hartley Counties in TX until 6:30 PM CDT 
+TWCBreaking	721106314798084096	2016-04-15T22:41:57	Tornado Warning for Kit Carson County in CO until 5:15 PM MDT 
+TWCBreaking	721086364607860737	2016-04-15T21:22:41	Tornado Warning for Kiowa County in CO until 3:30 PM MDT 
+TWCBreaking	721086029856264193	2016-04-15T21:21:21	Tornado Warning for Cheyenne County in CO until 3:45 PM MDT 
+TWCBreaking	721075584525164544	2016-04-15T20:39:50	Tornado Warning for Kiowa County in CO until 3:15 PM MDT 
+TWCBreaking	721067618241675264	2016-04-15T20:08:11	Tornado Warning for Kiowa County in CO until 2:45 PM MDT 
+TWCBreaking	721063531685130240	2016-04-15T19:51:57	Tornado Warning for Bent and Kiowa Counties in CO until 2:15 PM MDT 
+TWCBreaking	720202518764986368	2016-04-13T10:50:35	Tornado Warning for Assumption, Lafourche and St. James Parishes in LA until 6:15 AM CDT 
+TWCBreaking	719678063991087104	2016-04-12T00:06:36	Tornado Warning for Rains and Van Zandt Counties in TX until 7:30 PM CDT 
+TWCBreaking	719675208446050304	2016-04-11T23:55:15	Tornado Warning for Harrison and Marion Counties in TX until 8:00 PM CDT 
+TWCBreaking	719674238081216512	2016-04-11T23:51:23	Tornado Warning for Bienville Parish in LA until 7:15 PM CDT 
+TWCBreaking	719666513792249856	2016-04-11T23:20:42	Tornado Warning for Harrison, Marion and Upshur Counties in TX until 7:00 PM CDT 
+TWCBreaking	719665699514220544	2016-04-11T23:17:28	Tornado Warning for Throckmorton County in TX until 6:45 PM CDT 
+TWCBreaking	719653707206426625	2016-04-11T22:29:48	Tornado Warning for Camp, Franklin, Upshur and Wood Counties in TX until 6:30 PM CDT 
+TWCBreaking	719648978954903552	2016-04-11T22:11:01	Tornado Warning for Hopkins County in TX until 5:45 PM CDT 
+TWCBreaking	719635683741011968	2016-04-11T21:18:11	Tornado Warning for Montague and Wise Counties in TX until 4:45 PM CDT 
+TWCBreaking	719631036578050048	2016-04-11T20:59:43	Tornado Warning for Jack, Montague and Wise Counties in TX until 4:45 PM CDT 
+TWCBreaking	719622876022726656	2016-04-11T20:27:18	Tornado Warning for Clay County in TX until 4:15 PM CDT 
+TWCBreaking	719592546603667462	2016-04-11T18:26:47	Tornado Warning for Columbia and Union Counties in AR until 2:15 PM CDT 
+TWCBreaking	719581048812638208	2016-04-11T17:41:05	Tornado Warning for Columbia, Hempstead, Lafayette, Miller, Nevada and Union Counties in AR until 1:30 PM CDT 
+TWCBreaking	719350593559465984	2016-04-11T02:25:21	Tornado Warning for Cotton County in OK until 10:00 PM CDT 
+TWCBreaking	719350572269174784	2016-04-11T02:25:15	Tornado Warning for Clay and Wichita Counties in TX until 10:00 PM CDT 
+TWCBreaking	719340698718183425	2016-04-11T01:46:01	Tornado Warning for Wichita County in TX until 9:30 PM CDT 
+TWCBreaking	718037015883681792	2016-04-07T11:25:39	Tornado Warning for Hillsborough and Pinellas Counties in FL until 8:00 AM EDT 
+TWCBreaking	718025861279064064	2016-04-07T10:41:20	Tornado Warning for Pinellas County in FL until 7:00 AM EDT 
+TWCBreaking	718012349542584320	2016-04-07T09:47:38	Tornado Warning for Pasco County in FL until 6:15 AM EDT 
+TWCBreaking	717968693989285888	2016-04-07T06:54:10	Tornado Warning for Baker, Calhoun and Dougherty Counties in GA until 3:30 AM EDT 
+TWCBreaking	717963881264467969	2016-04-07T06:35:03	Tornado Warning for Calhoun, Clay, Randolph and Terrell Counties in GA until 3:00 AM EDT 
+TWCBreaking	717952365559611392	2016-04-07T05:49:17	Tornado Warning for Marion, Stewart and Webster Counties in GA until 2:30 AM EDT 
+TWCBreaking	717945905983332354	2016-04-07T05:23:37	Tornado Warning for Barbour County in AL until 1:30 AM CDT 
+TWCBreaking	717940777595183104	2016-04-07T05:03:14	Tornado Warning for Lee and Russell Counties in AL until 12:30 AM CDT 
+TWCBreaking	717939478396952577	2016-04-07T04:58:04	Tornado Warning for Russell County in AL until 12:30 AM CDT 
+TWCBreaking	717939201153458176	2016-04-07T04:56:58	Tornado Warning for Barbour and Bullock Counties in AL until 12:45 AM CDT 
+TWCBreaking	717933494563831808	2016-04-07T04:34:18	Tornado Warning for Lee County in AL until 12:00 AM CDT 
+TWCBreaking	716293411192504320	2016-04-02T15:57:11	Tornado Warning for Hillsborough and Pasco Counties in FL until 12:30 PM EDT 
+TWCBreaking	716169089681494017	2016-04-02T07:43:11	Tornado Warning for Hamilton and Suwannee Counties in FL until 4:15 AM EDT 
+TWCBreaking	716011025292599297	2016-04-01T21:15:05	Tornado Warning for Atkinson, Bacon, Clinch, Coffee and Ware Counties in GA until 5:45 PM EDT 
+TWCBreaking	715941025219354624	2016-04-01T16:36:56	Tornado Warning for Terrebonne Parish in LA until 12:15 PM CDT 
+TWCBreaking	715920658044227584	2016-04-01T15:16:00	Tornado Warning for Emanuel County in GA until 11:30 AM EDT 
+TWCBreaking	715911844154720256	2016-04-01T14:40:59	Tornado Warning for Emanuel and Treutlen Counties in GA until 11:15 AM EDT 
+TWCBreaking	715884655547813888	2016-04-01T12:52:57	Tornado Warning for Bleckley, Laurens, Twiggs and Wilkinson Counties in GA until 9:30 AM EDT 
+TWCBreaking	715871114195374080	2016-04-01T11:59:08	Tornado Warning for Twiggs and Wilkinson Counties in GA until 8:30 AM EDT 
+TWCBreaking	715864034906537984	2016-04-01T11:31:00	Tornado Warning for Houston, Peach and Twiggs Counties in GA until 8:00 AM EDT 
+TWCBreaking	715854823250198528	2016-04-01T10:54:24	Tornado Warning for Crawford, Peach and Taylor Counties in GA until 7:30 AM EDT 
+TWCBreaking	715795193493131266	2016-04-01T06:57:27	Tornado Warning for Crawford, Marion, Talbot, Taylor and Upson Counties in GA until 3:30 AM EDT 
+TWCBreaking	715735628663488512	2016-04-01T03:00:46	Tornado Warning for Franklin County in TN until 10:30 PM CDT 
+TWCBreaking	715726790660980736	2016-04-01T02:25:39	Tornado Warning for Madison County in AL until 10:00 PM CDT 
+TWCBreaking	715724912019640320	2016-04-01T02:18:11	Tornado Warning for Blount and Jefferson Counties in AL until 10:00 PM CDT 
+TWCBreaking	715719283766988800	2016-04-01T01:55:49	Tornado Warning for Limestone, Madison and Morgan Counties in AL until 9:30 PM CDT 
+TWCBreaking	715714224408780804	2016-04-01T01:35:43	Tornado Warning for Lawrence and Morgan Counties in AL until 9:00 PM CDT 
+TWCBreaking	715705249000853504	2016-04-01T01:00:03	Tornado Warning for Fayette and Walker Counties in AL until 8:45 PM CDT 
+TWCBreaking	715701907755376642	2016-04-01T00:46:46	Tornado Warning for Giles and Lawrence Counties in TN until 8:15 PM CDT 
+TWCBreaking	715697896310513666	2016-04-01T00:30:50	Tornado Warning for Limestone County in AL until 8:00 PM CDT 
+TWCBreaking	715697861602619392	2016-04-01T00:30:41	Tornado Warning for Lincoln County in TN until 8:00 PM CDT 
+TWCBreaking	715697699207512064	2016-04-01T00:30:03	Tornado Warning for Marion and Walker Counties in AL until 8:15 PM CDT 
+TWCBreaking	715696601210064896	2016-04-01T00:25:41	Tornado Warning for Giles County in TN until 8:00 PM CDT 
+TWCBreaking	715694683947540480	2016-04-01T00:18:04	Tornado Warning for Madison County in AL until 7:45 PM CDT 
+TWCBreaking	715694630960914432	2016-04-01T00:17:51	Tornado Warning for Lincoln County in TN until 7:45 PM CDT 
+TWCBreaking	715692300081299457	2016-04-01T00:08:35	Tornado Warning for Giles County in TN until 7:30 PM CDT 
+TWCBreaking	715690883216113664	2016-04-01T00:02:58	Tornado Warning for Fayette County in AL until 7:45 PM CDT 
+TWCBreaking	715689876583100416	2016-03-31T23:58:58	Tornado Warning for Fayette County in AL until 8:00 PM CDT 
+TWCBreaking	715688725720616963	2016-03-31T23:54:23	Tornado Warning for Lauderdale, Limestone and Madison Counties in AL until 7:30 PM CDT 
+TWCBreaking	715688717168447488	2016-03-31T23:54:21	Tornado Warning for Lincoln County in TN until 7:30 PM CDT 
+TWCBreaking	715687066894348288	2016-03-31T23:47:48	Tornado Warning for Giles and Marshall Counties in TN until 7:15 PM CDT 
+TWCBreaking	715685118224957440	2016-03-31T23:40:03	Tornado Warning for Decatur and Grady Counties in GA until 8:30 PM EDT 
+TWCBreaking	715683787426762753	2016-03-31T23:34:46	Tornado Warning for Lauderdale and Limestone Counties in AL until 7:00 PM CDT 
+TWCBreaking	715682159877459968	2016-03-31T23:28:18	Tornado Warning for Grady and Mitchell Counties in GA until 8:00 PM EDT 
+TWCBreaking	715682102927228928	2016-03-31T23:28:04	Tornado Warning for Grady and Mitchell Counties in GA until 8:00 PM EDT 
+TWCBreaking	715680905608564736	2016-03-31T23:23:19	Tornado Warning for Lamar and Pickens Counties in AL until 7:30 PM CDT 
+TWCBreaking	715680872800780288	2016-03-31T23:23:11	Tornado Warning for Lamar and Pickens Counties in AL until 7:30 PM CDT 
+TWCBreaking	715679984346529793	2016-03-31T23:19:39	Tornado Warning for Choctaw and Clarke Counties in AL until 7:00 PM CDT 
+TWCBreaking	715679976536715267	2016-03-31T23:19:37	Tornado Warning for Lowndes County in MS until 6:45 PM CDT 
+TWCBreaking	715679956580175873	2016-03-31T23:19:32	Tornado Warning for Choctaw and Clarke Counties in AL until 7:00 PM CDT 
+TWCBreaking	715679757430497281	2016-03-31T23:18:45	Tornado Warning for Giles and Lawrence Counties in TN until 6:45 PM CDT 
+TWCBreaking	715679726933676033	2016-03-31T23:18:38	Tornado Warning for Giles and Lawrence Counties in TN until 6:45 PM CDT 
+TWCBreaking	715677340739592192	2016-03-31T23:09:09	Tornado Warning for Choctaw County in AL until 6:30 PM CDT 
+TWCBreaking	715671192925962241	2016-03-31T22:44:43	Tornado Warning for Giles and Lawrence Counties in TN until 6:15 PM CDT 
+TWCBreaking	715670596932206596	2016-03-31T22:42:21	Tornado Warning for Marshall and Maury Counties in TN until 6:30 PM CDT 
+TWCBreaking	715664722968780801	2016-03-31T22:19:01	Tornado Warning for Maury County in TN until 5:45 PM CDT 
+TWCBreaking	715657022381772800	2016-03-31T21:48:25	Tornado Warning for Hickman, Lewis and Maury Counties in TN until 5:30 PM CDT 
+TWCBreaking	715648860735942658	2016-03-31T21:15:59	Tornado Warning for Hickman, Lewis and Perry Counties in TN until 5:00 PM CDT 
+TWCBreaking	715642245437739009	2016-03-31T20:49:41	Tornado Warning for Perry and Wayne Counties in TN until 4:15 PM CDT 
+TWCBreaking	715642215242948609	2016-03-31T20:49:34	Tornado Warning for Perry and Wayne Counties in TN until 4:15 PM CDT 
+TWCBreaking	715640877218070528	2016-03-31T20:44:15	Tornado Warning for Shelby and Spencer Counties in KY until 5:00 PM EDT 
+TWCBreaking	715640849095241728	2016-03-31T20:44:09	Tornado Warning for Shelby and Spencer Counties in KY until 5:00 PM EDT 
+TWCBreaking	715639729841004544	2016-03-31T20:39:42	Tornado Warning for Decatur, Hardin and Henderson Counties in TN until 4:30 PM CDT 
+TWCBreaking	715639702498385921	2016-03-31T20:39:35	Tornado Warning for Decatur, Hardin and Henderson Counties in TN until 4:30 PM CDT 
+TWCBreaking	715639691945488384	2016-03-31T20:39:33	Tornado Warning for Decatur, Hardin and Henderson Counties in TN until 4:30 PM CDT 
+TWCBreaking	715639674828525568	2016-03-31T20:39:29	Tornado Warning for Decatur, Hardin and Henderson Counties in TN until 4:30 PM CDT 
+TWCBreaking	715639662946033664	2016-03-31T20:39:26	Tornado Warning for Decatur, Hardin and Henderson Counties in TN until 4:30 PM CDT 
+TWCBreaking	715639632591851520	2016-03-31T20:39:19	Tornado Warning for Decatur, Hardin and Henderson Counties in TN until 4:30 PM CDT 
+TWCBreaking	715532037214441472	2016-03-31T13:31:46	Tornado Warning for Perry County in MS until 9:00 AM CDT 
+TWCBreaking	715522566102724616	2016-03-31T12:54:08	Tornado Warning for Forrest and Lamar Counties in MS until 8:30 AM CDT 
+TWCBreaking	715499909537902593	2016-03-31T11:24:06	Tornado Warning for Tangipahoa and Washington Parishes in LA until 7:00 AM CDT 
+TWCBreaking	715498019806797825	2016-03-31T11:16:35	Tornado Warning for Pike and Walthall Counties in MS until 6:45 AM CDT 
+TWCBreaking	715497970280443905	2016-03-31T11:16:24	Tornado Warning for Tangipahoa and Washington Parishes in LA until 6:45 AM CDT 
+TWCBreaking	715494443424481280	2016-03-31T11:02:23	Tornado Warning for Tangipahoa Parish in LA until 6:15 AM CDT 
+TWCBreaking	715484721862422529	2016-03-31T10:23:45	Tornado Warning for East Baton Rouge, East Feliciana and St. Helena Parishes in LA until 6:00 AM CDT 
+TWCBreaking	715390603228413953	2016-03-31T04:09:45	Tornado Warning for Desha and Drew Counties in AR until 12:00 AM CDT 
+TWCBreaking	715390302261895172	2016-03-31T04:08:34	Tornado Warning for Chicot County in AR until 12:00 AM CDT 
+TWCBreaking	715390287342735360	2016-03-31T04:08:30	Tornado Warning for Bolivar and Washington Counties in MS until 12:00 AM CDT 
+TWCBreaking	715359202797957120	2016-03-31T02:04:59	Tornado Warning for Cherokee County in KS until 9:30 PM CDT 
+TWCBreaking	715357030014300160	2016-03-31T01:56:21	Tornado Warning for Delaware and Mayes Counties in OK until 9:30 PM CDT 
+TWCBreaking	715346412167237633	2016-03-31T01:14:09	Tornado Warning for Craig County in OK until 8:45 PM CDT 
+TWCBreaking	715345102449696768	2016-03-31T01:08:57	Tornado Warning for Mayes and Rogers Counties in OK until 9:00 PM CDT 
+TWCBreaking	715340862385860608	2016-03-31T00:52:06	Tornado Warning for Craig and Nowata Counties in OK until 8:15 PM CDT 
+TWCBreaking	715335171201871872	2016-03-31T00:29:29	Tornado Warning for Rogers and Tulsa Counties in OK until 8:15 PM CDT 
+TWCBreaking	715334860701708288	2016-03-31T00:28:15	Tornado Warning for Bienville and Webster Parishes in LA until 8:15 PM CDT 
+TWCBreaking	715332281913618432	2016-03-31T00:18:00	Tornado Warning for Bradley, Cleveland, Drew and Lincoln Counties in AR until 8:00 PM CDT 
+TWCBreaking	715331893005144064	2016-03-31T00:16:28	Tornado Warning for Nowata and Washington Counties in OK until 7:45 PM CDT 
+TWCBreaking	715330416421437440	2016-03-31T00:10:36	Tornado Warning for Columbia and Union Counties in AR until 8:00 PM CDT 
+TWCBreaking	715327942578966528	2016-03-31T00:00:46	Tornado Warning for Desha and Drew Counties in AR until 7:45 PM CDT 
+TWCBreaking	715324394352971776	2016-03-30T23:46:40	Tornado Warning for Osage, Pawnee and Tulsa Counties in OK until 7:30 PM CDT 
+TWCBreaking	715319654508396544	2016-03-30T23:27:50	Tornado Warning for Osage and Washington Counties in OK until 7:00 PM CDT 
+TWCBreaking	715318009414287360	2016-03-30T23:21:18	Tornado Warning for Columbia, Lafayette, Miller and Nevada Counties in AR until 7:00 PM CDT 
+TWCBreaking	715317441539088384	2016-03-30T23:19:02	Tornado Warning for Cleveland and Jefferson Counties in AR until 7:00 PM CDT 
+TWCBreaking	715316444070678528	2016-03-30T23:15:04	Tornado Warning for Camp, Franklin, Titus, Upshur and Wood Counties in TX until 7:00 PM CDT 
+TWCBreaking	715311209021513729	2016-03-30T22:54:16	Tornado Warning for Dallas and Grant Counties in AR until 6:30 PM CDT 
+TWCBreaking	715301437501087744	2016-03-30T22:15:27	Tornado Warning for Johnson County in TX until 5:30 PM CDT 
+TWCBreaking	715297086162350080	2016-03-30T21:58:09	Tornado Warning for Bowie, Camp, Cass, Morris, Red River, Titus and Upshur Counties in TX until 5:45 PM CDT 
+TWCBreaking	715286840924737536	2016-03-30T21:17:26	Tornado Warning for Osage County in OK until 4:45 PM CDT 
+TWCBreaking	715285805980262401	2016-03-30T21:13:20	Tornado Warning for Camp, Upshur and Wood Counties in TX until 5:00 PM CDT 
+TWCBreaking	715269078210863104	2016-03-30T20:06:51	Tornado Warning for Smith County in TX until 3:45 PM CDT 
+TWCBreaking	714285573985275905	2016-03-28T02:58:46	Tornado Warning for Shelby County in OH until 11:30 PM EDT 
+TWCBreaking	714255728878301184	2016-03-28T01:00:10	Tornado Warning for Muhlenberg County in KY until 8:30 PM CDT 
+TWCBreaking	714249416224452608	2016-03-28T00:35:05	Tornado Warning for Muhlenberg County in KY until 8:00 PM CDT 
+TWCBreaking	714244957834313728	2016-03-28T00:17:22	Tornado Warning for Christian County in KY until 7:45 PM CDT 
+TWCBreaking	713171186243346432	2016-03-25T01:10:35	Tornado Warning for Osceola County in FL until 9:45 PM EDT 
+TWCBreaking	713135812787855360	2016-03-24T22:50:01	Tornado Warning for Broward and Palm Beach Counties in FL until 7:15 PM EDT 
+TWCBreaking	713084011304779776	2016-03-24T19:24:11	Tornado Warning for Butler, Conecuh, Covington and Crenshaw Counties in AL until 3:00 PM CDT 
+TWCBreaking	713079328964096000	2016-03-24T19:05:35	Tornado Warning for Conecuh and Covington Counties in AL until 2:30 PM CDT 
+TWCBreaking	712854867560284160	2016-03-24T04:13:39	Tornado Warning for Stone County in MO until 11:45 PM CDT 
+TWCBreaking	712849062580518912	2016-03-24T03:50:35	Tornado Warning for Barry and Stone Counties in MO until 11:15 PM CDT 
+TWCBreaking	712845795439955968	2016-03-24T03:37:36	Tornado Warning for Benton, Madison and Washington Counties in AR until 11:15 PM CDT 
+TWCBreaking	712840448360878081	2016-03-24T03:16:21	Tornado Warning for Washington County in AR until 10:45 PM CDT 
+TWCBreaking	712837691163824128	2016-03-24T03:05:24	Tornado Warning for Washington County in AR until 10:30 PM CDT 
+TWCBreaking	712821749847445505	2016-03-24T02:02:03	Tornado Warning for Tarrant County in TX until 9:30 PM CDT 
+TWCBreaking	712816476198076416	2016-03-24T01:41:06	Tornado Warning for Latimer and Pushmataha Counties in OK until 9:15 PM CDT 
+TWCBreaking	711037096849330176	2016-03-19T03:50:28	Tornado Warning for St. Bernard Parish in LA until 11:15 PM CDT 
+TWCBreaking	710626487540449280	2016-03-18T00:38:52	Tornado Warning for Jackson County in MS until 8:15 PM CDT 
+TWCBreaking	710591907634683905	2016-03-17T22:21:27	Tornado Warning for Pearl River County in MS until 5:45 PM CDT 
+TWCBreaking	710587501858000896	2016-03-17T22:03:57	Tornado Warning for Harrison and Jackson Counties in MS until 5:30 PM CDT 
+TWCBreaking	710581085554417664	2016-03-17T21:38:27	Tornado Warning for Harrison County in MS until 5:15 PM CDT 
+TWCBreaking	710547930474684416	2016-03-17T19:26:42	Tornado Warning for Natchitoches and Winn Parishes in LA until 3:00 PM CDT 
+TWCBreaking	710476667798425600	2016-03-17T14:43:32	Tornado Warning for Bowie and Red River Counties in TX until 10:15 AM CDT 
+TWCBreaking	710416211511672833	2016-03-17T10:43:18	Tornado Warning for Parker County in TX until 6:15 AM CDT 
+TWCBreaking	709945989008732160	2016-03-16T03:34:48	Tornado Warning for Kankakee County in IL until 11:00 PM CDT 
+TWCBreaking	709942877434961920	2016-03-16T03:22:26	Tornado Warning for Iroquois and Kankakee Counties in IL until 10:45 PM CDT 
+TWCBreaking	709921840081149953	2016-03-16T01:58:51	Tornado Warning for Carroll County in IL until 9:30 PM CDT 
+TWCBreaking	709916638322106368	2016-03-16T01:38:10	Tornado Warning for Lee County in IL until 9:15 PM CDT 
+TWCBreaking	709915511753019392	2016-03-16T01:33:42	Tornado Warning for Whiteside County in IL until 9:00 PM CDT 
+TWCBreaking	709908548776366080	2016-03-16T01:06:02	Tornado Warning for Peoria, Tazewell and Woodford Counties in IL until 8:30 PM CDT 
+TWCBreaking	709907238916194305	2016-03-16T01:00:49	Tornado Warning for Carroll County in IL until 8:30 PM CDT 
+TWCBreaking	709907224928190465	2016-03-16T01:00:46	Tornado Warning for Clinton and Jackson Counties in IA until 8:30 PM CDT 
+TWCBreaking	709904117104152576	2016-03-16T00:48:25	Tornado Warning for Menard and Sangamon Counties in IL until 8:15 PM CDT 
+TWCBreaking	709902854949974016	2016-03-16T00:43:24	Tornado Warning for Peoria County in IL until 8:15 PM CDT 
+TWCBreaking	709901726451519488	2016-03-16T00:38:55	Tornado Warning for Clinton County in IA until 8:15 PM CDT 
+TWCBreaking	709899983906930688	2016-03-16T00:32:00	Tornado Warning for Rock Island and Whiteside Counties in IL until 8:15 PM CDT 
+TWCBreaking	709899957327650816	2016-03-16T00:31:53	Tornado Warning for Clinton and Scott Counties in IA until 8:15 PM CDT 
+TWCBreaking	709898588126482432	2016-03-16T00:26:27	Tornado Warning for Morgan and Sangamon Counties in IL until 8:00 PM CDT 
+TWCBreaking	709894945486688261	2016-03-16T00:11:58	Tornado Warning for Henry and Rock Island Counties in IL until 8:00 PM CDT 
+TWCBreaking	709894935747530752	2016-03-16T00:11:56	Tornado Warning for Scott County in IA until 8:00 PM CDT 
+TWCBreaking	709892506616336385	2016-03-16T00:02:17	Tornado Warning for Morgan County in IL until 7:30 PM CDT 
+TWCBreaking	709892127656779777	2016-03-16T00:00:47	Tornado Warning for Fulton and Knox Counties in IL until 7:30 PM CDT 
+TWCBreaking	709885391961100288	2016-03-15T23:34:01	Tornado Warning for Fulton and Knox Counties in IL until 7:00 PM CDT 
+TWCBreaking	709884228624748544	2016-03-15T23:29:23	Tornado Warning for McDonough and Warren Counties in IL until 7:15 PM CDT 
+TWCBreaking	709878578125496320	2016-03-15T23:06:56	Tornado Warning for Hancock and McDonough Counties in IL until 7:00 PM CDT 
+TWCBreaking	709878277905584129	2016-03-15T23:05:45	Tornado Warning for Hancock and Henderson Counties in IL until 7:00 PM CDT 
+TWCBreaking	709878256564981760	2016-03-15T23:05:39	Tornado Warning for Des Moines and Lee Counties in IA until 7:00 PM CDT 
+TWCBreaking	709868658177146880	2016-03-15T22:27:31	Tornado Warning for Hancock County in IL until 6:15 PM CDT 
+TWCBreaking	709868649931145217	2016-03-15T22:27:29	Tornado Warning for Lee County in IA until 6:15 PM CDT 
+TWCBreaking	709868641127260160	2016-03-15T22:27:27	Tornado Warning for Clark County in MO until 6:15 PM CDT 
+TWCBreaking	709455268543791104	2016-03-14T19:04:51	Tornado Warning for Darke, Miami and Shelby Counties in OH until 3:30 PM EDT 
+TWCBreaking	709446093784768512	2016-03-14T18:28:24	Tornado Warning for Darke County in OH until 3:00 PM EDT 
+TWCBreaking	709443253033013249	2016-03-14T18:17:06	Tornado Warning for Darke, Miami and Montgomery Counties in OH until 2:45 PM EDT 
+TWCBreaking	709433705194856448	2016-03-14T17:39:10	Tornado Warning for Darke, Miami, Montgomery and Preble Counties in OH until 2:15 PM EDT 
+TWCBreaking	709214878381187072	2016-03-14T03:09:38	Tornado Warning for Mississippi County in AR until 11:00 PM CDT 
+TWCBreaking	709214862610550786	2016-03-14T03:09:34	Tornado Warning for Lauderdale and Tipton Counties in TN until 11:00 PM CDT 
+TWCBreaking	709206522266411014	2016-03-14T02:36:25	Tornado Warning for DeSoto County in MS until 10:15 PM CDT 
+TWCBreaking	709206492671401984	2016-03-14T02:36:18	Tornado Warning for Shelby County in TN until 10:15 PM CDT 
+TWCBreaking	709205687805476864	2016-03-14T02:33:07	Tornado Warning for Bolivar County in MS until 10:15 PM CDT 
+TWCBreaking	709199518638538753	2016-03-14T02:08:36	Tornado Warning for Crittenden, Cross, Mississippi and Poinsett Counties in AR until 10:00 PM CDT 
+TWCBreaking	709199507561455616	2016-03-14T02:08:33	Tornado Warning for Tipton County in TN until 10:00 PM CDT 
+TWCBreaking	709197880339206144	2016-03-14T02:02:05	Tornado Warning for Chicot County in AR until 9:45 PM CDT 
+TWCBreaking	709192059429658625	2016-03-14T01:38:57	Tornado Warning for Crittenden, Lee and St. Francis Counties in AR until 9:30 PM CDT 
+TWCBreaking	709192044283998208	2016-03-14T01:38:54	Tornado Warning for DeSoto and Tunica Counties in MS until 9:30 PM CDT 
+TWCBreaking	709190487970697218	2016-03-14T01:32:43	Tornado Warning for Arkansas, Desha, Jefferson and Lincoln Counties in AR until 9:15 PM CDT 
+TWCBreaking	709187809798586368	2016-03-14T01:22:04	Tornado Warning for Crittenden, Cross and St. Francis Counties in AR until 9:00 PM CDT 
+TWCBreaking	709183616308219904	2016-03-14T01:05:24	Tornado Warning for Lee and Phillips Counties in AR until 8:45 PM CDT 
+TWCBreaking	709183061225644033	2016-03-14T01:03:12	Tornado Warning for Woodruff County in AR until 8:30 PM CDT 
+TWCBreaking	709180823207956481	2016-03-14T00:54:18	Tornado Warning for Ashley County in AR until 9:00 PM CDT 
+TWCBreaking	709180501571932160	2016-03-14T00:53:02	Tornado Warning for White County in AR until 8:30 PM CDT 
+TWCBreaking	709177395098419200	2016-03-14T00:40:41	Tornado Warning for Cross and St. Francis Counties in AR until 8:30 PM CDT 
+TWCBreaking	709176142800916481	2016-03-14T00:35:42	Tornado Warning for Lee and Phillips Counties in AR until 8:15 PM CDT 
+TWCBreaking	709174906856968192	2016-03-14T00:30:48	Tornado Warning for Hempstead and Nevada Counties in AR until 8:15 PM CDT 
+TWCBreaking	709174761704718337	2016-03-14T00:30:13	Tornado Warning for Arkansas and Monroe Counties in AR until 8:15 PM CDT 
+TWCBreaking	709172778683895808	2016-03-14T00:22:20	Tornado Warning for Monroe, Prairie and Woodruff Counties in AR until 8:00 PM CDT 
+TWCBreaking	709170368368345088	2016-03-14T00:12:46	Tornado Warning for Bradley, Calhoun and Cleveland Counties in AR until 8:00 PM CDT 
+TWCBreaking	709169349546811392	2016-03-14T00:08:43	Tornado Warning for Union County in AR until 8:00 PM CDT 
+TWCBreaking	709169336485683200	2016-03-14T00:08:40	Tornado Warning for Claiborne Parish in LA until 8:00 PM CDT 
+TWCBreaking	709167853165883393	2016-03-14T00:02:46	Tornado Warning for Arkansas County in AR until 7:45 PM CDT 
+TWCBreaking	709165734266429440	2016-03-13T23:54:21	Tornado Warning for Prairie County in AR until 7:30 PM CDT 
+TWCBreaking	709165688758214658	2016-03-13T23:54:10	Tornado Warning for Faulkner, Lonoke and White Counties in AR until 7:30 PM CDT 
+TWCBreaking	709162620910067712	2016-03-13T23:41:59	Tornado Warning for Lonoke County in AR until 7:30 PM CDT 
+TWCBreaking	709162081849712640	2016-03-13T23:39:50	Tornado Warning for Arkansas, Jefferson and Lincoln Counties in AR until 7:00 PM CDT 
+TWCBreaking	709158034891612160	2016-03-13T23:23:45	Tornado Warning for Faulkner, Perry and Pulaski Counties in AR until 7:00 PM CDT 
+TWCBreaking	709153480254947328	2016-03-13T23:05:39	Tornado Warning for Lonoke County in AR until 6:45 PM CDT 
+TWCBreaking	709152255019081729	2016-03-13T23:00:47	Tornado Warning for Faulkner, Perry, Pulaski and Saline Counties in AR until 6:30 PM CDT 
+TWCBreaking	709147544878624770	2016-03-13T22:42:04	Tornado Warning for Pulaski and Saline Counties in AR until 6:15 PM CDT 
+TWCBreaking	709144178614083585	2016-03-13T22:28:42	Tornado Warning for Garland, Perry and Saline Counties in AR until 6:00 PM CDT 
+TWCBreaking	709135668622991361	2016-03-13T21:54:53	Tornado Warning for Garland and Montgomery Counties in AR until 5:30 PM CDT 
+TWCBreaking	709129539201290241	2016-03-13T21:30:31	Tornado Warning for Garland and Montgomery Counties in AR until 5:00 PM CDT 
+TWCBreaking	709125126030118912	2016-03-13T21:12:59	Tornado Warning for Montgomery County in AR until 4:30 PM CDT 
+TWCBreaking	709123089771077632	2016-03-13T21:04:54	Tornado Warning for Scott County in AR until 4:30 PM CDT 
+TWCBreaking	709121022260150272	2016-03-13T20:56:41	Tornado Warning for Montgomery and Polk Counties in AR until 4:15 PM CDT 
+TWCBreaking	709112920731324417	2016-03-13T20:24:29	Tornado Warning for Howard and Sevier Counties in AR until 4:00 PM CDT 
+TWCBreaking	708051614225944578	2016-03-10T22:07:14	Tornado Warning for Smith County in MS until 4:30 PM CST 
+TWCBreaking	707571303167856644	2016-03-09T14:18:39	Tornado Warning for San Augustine and Shelby Counties in TX until 9:00 AM CST 
+TWCBreaking	707531836130328576	2016-03-09T11:41:49	Tornado Warning for Smith County in TX until 6:30 AM CST 
+TWCBreaking	707433454296821761	2016-03-09T05:10:53	Tornado Warning for Bienville, Claiborne, Jackson and Lincoln Parishes in LA until 12:15 AM CST 
+TWCBreaking	702672398080839680	2016-02-25T01:52:09	Tornado Warning for St. Marys County in MD until 9:15 PM EST 
+TWCBreaking	702670910034042881	2016-02-25T01:46:14	Tornado Warning for Gates and Hertford Counties in NC until 9:15 PM EST 
+TWCBreaking	702670901842571265	2016-02-25T01:46:12	Tornado Warning for Isle of Wight, Southampton and City of Suffolk Counties in VA until 9:15 PM EST 
+TWCBreaking	702664481369780224	2016-02-25T01:20:41	Tornado Warning for St. Marys County in MD until 8:45 PM EST 
+TWCBreaking	702662847260549120	2016-02-25T01:14:12	Tornado Warning for Gates County in NC until 8:45 PM EST 
+TWCBreaking	702650473933729792	2016-02-25T00:25:02	Tornado Warning for Charles City, Henrico, King William and New Kent Counties in VA until 8:00 PM EST 
+TWCBreaking	702645863269531648	2016-02-25T00:06:42	Tornado Warning for COUNTYNAME and St. Marys Counties in MD until 7:45 PM EST 
+TWCBreaking	702640687041261568	2016-02-24T23:46:08	Tornado Warning for Dinwiddie, Prince George and Sussex Counties in VA until 7:15 PM EST 
+TWCBreaking	702638762136743938	2016-02-24T23:38:29	Tornado Warning for Essex, Northumberland, Richmond and Westmoreland Counties in VA until 7:15 PM EST 
+TWCBreaking	702638083598979073	2016-02-24T23:35:48	Tornado Warning for Charles City, New Kent, Prince George and City of Hopewell Counties in VA until 7:15 PM EST 
+TWCBreaking	702636555957985281	2016-02-24T23:29:43	Tornado Warning for Johnston, Sampson, Wayne and Wilson Counties in NC until 7:15 PM EST 
+TWCBreaking	702636551197462528	2016-02-24T23:29:42	Tornado Warning for Johnston, Sampson, Wayne and Wilson Counties in NC until 7:15 PM EST 
+TWCBreaking	702631917317804032	2016-02-24T23:11:18	Tornado Warning for Northampton County in NC until 6:45 PM EST 
+TWCBreaking	702631907402461184	2016-02-24T23:11:15	Tornado Warning for Brunswick, Greensville, Sussex and City of Emporia Counties in VA until 6:45 PM EST 
+TWCBreaking	702630340087558145	2016-02-24T23:05:01	Tornado Warning for Caroline and Hanover Counties in VA until 6:30 PM EST 
+TWCBreaking	702628689415016448	2016-02-24T22:58:28	Tornado Warning for Cumberland and Sampson Counties in NC until 6:30 PM EST 
+TWCBreaking	702627352455438337	2016-02-24T22:53:09	Tornado Warning for Chesterfield, Hanover, Henrico and City of Richmond Counties in VA until 6:30 PM EST 
+TWCBreaking	702627238244544512	2016-02-24T22:52:42	Tornado Warning for Johnston and Wayne Counties in NC until 6:30 PM EST 
+TWCBreaking	702625138089418752	2016-02-24T22:44:21	Tornado Warning for Bladen and Robeson Counties in NC until 6:30 PM EST 
+TWCBreaking	702625132997529601	2016-02-24T22:44:20	Tornado Warning for Dillon County in SC until 6:30 PM EST 
+TWCBreaking	702624488060428289	2016-02-24T22:41:46	Tornado Warning for Franklin, Vance, Wake and Warren Counties in NC until 6:30 PM EST 
+TWCBreaking	702624483635437569	2016-02-24T22:41:45	Tornado Warning for Franklin, Vance, Wake and Warren Counties in NC until 6:30 PM EST 
+TWCBreaking	702624477738201088	2016-02-24T22:41:44	Tornado Warning for Franklin, Vance, Wake and Warren Counties in NC until 6:30 PM EST 
+TWCBreaking	702624467135008768	2016-02-24T22:41:41	Tornado Warning for Franklin, Vance, Wake and Warren Counties in NC until 6:30 PM EST 
+TWCBreaking	702623946647056384	2016-02-24T22:39:37	Tornado Warning for Caroline, Goochland, Hanover and Louisa Counties in VA until 6:15 PM EST 
+TWCBreaking	702623943270625280	2016-02-24T22:39:36	Tornado Warning for Caroline, Goochland, Hanover and Louisa Counties in VA until 6:15 PM EST 
+TWCBreaking	702623938140975105	2016-02-24T22:39:35	Tornado Warning for Caroline, Goochland, Hanover and Louisa Counties in VA until 6:15 PM EST 
+TWCBreaking	702622664163131392	2016-02-24T22:34:31	Tornado Warning for Amelia, Chesterfield, Dinwiddie and Nottoway Counties in VA until 6:15 PM EST 
+TWCBreaking	702621109485641728	2016-02-24T22:28:21	Tornado Warning for Amelia, Goochland, Hanover, Henrico and Powhatan Counties in VA until 6:00 PM EST 
+TWCBreaking	702619697359917056	2016-02-24T22:22:44	Tornado Warning for Caroline, Goochland, Hanover, Louisa and Powhatan Counties in VA until 5:45 PM EST 
+TWCBreaking	702619690934210560	2016-02-24T22:22:43	Tornado Warning for Caroline, Goochland, Hanover, Louisa and Powhatan Counties in VA until 5:45 PM EST 
+TWCBreaking	702619689130786816	2016-02-24T22:22:42	Tornado Warning for Caroline, Goochland, Hanover, Louisa and Powhatan Counties in VA until 5:45 PM EST 
+TWCBreaking	702619686605750272	2016-02-24T22:22:41	Tornado Warning for Caroline, Goochland, Hanover, Louisa and Powhatan Counties in VA until 5:45 PM EST 
+TWCBreaking	702619683376074753	2016-02-24T22:22:41	Tornado Warning for Caroline, Goochland, Hanover, Louisa and Powhatan Counties in VA until 5:45 PM EST 
+TWCBreaking	702619682986074112	2016-02-24T22:22:41	Tornado Warning for Caroline, Goochland, Hanover, Louisa and Powhatan Counties in VA until 5:45 PM EST 
+TWCBreaking	702619642599075841	2016-02-24T22:22:31	Tornado Warning for Franklin, Vance and Wake Counties in NC until 5:45 PM EST 
+TWCBreaking	702619546637594624	2016-02-24T22:22:08	Tornado Warning for Vance and Warren Counties in NC until 5:45 PM EST 
+TWCBreaking	702619526324617216	2016-02-24T22:22:03	Tornado Warning for Cumberland, Harnett and Sampson Counties in NC until 6:00 PM EST 
+TWCBreaking	702616878343020544	2016-02-24T22:11:32	Tornado Warning for Beaufort, Mainland Hyde and Washington Counties in NC until 6:00 PM EST 
+TWCBreaking	702616813926895616	2016-02-24T22:11:17	Tornado Warning for Brunswick, Dinwiddie, Lunenburg, Mecklenburg and Nottoway Counties in VA until 5:45 PM EST 
+TWCBreaking	702615195219156992	2016-02-24T22:04:51	Tornado Warning for Franklin, Granville, Vance and Warren Counties in NC until 5:45 PM EST 
+TWCBreaking	702615127854440448	2016-02-24T22:04:35	Tornado Warning for Cumberland, Harnett, Hoke and Sampson Counties in NC until 5:30 PM EST 
+TWCBreaking	702613615338201089	2016-02-24T21:58:34	Tornado Warning for Spotsylvania, Stafford and City of Fredericksburg Counties in VA until 5:45 PM EST 
+TWCBreaking	702611886995480576	2016-02-24T21:51:42	Tornado Warning for Dorchester, Somerset and Wicomico Counties in MD until 5:30 PM EST 
+TWCBreaking	702611882989850624	2016-02-24T21:51:41	Tornado Warning for Accomack County in VA until 5:30 PM EST 
+TWCBreaking	702610846858358784	2016-02-24T21:47:34	Tornado Warning for Fluvanna, Goochland and Louisa Counties in VA until 5:15 PM EST 
+TWCBreaking	702609282815033345	2016-02-24T21:41:21	Tornado Warning for Amelia, Cumberland, Lunenburg, Nottoway and Prince Edward Counties in VA until 5:15 PM EST 
+TWCBreaking	702608898486718464	2016-02-24T21:39:49	Tornado Warning for Brunswick, Lunenburg and Mecklenburg Counties in VA until 5:15 PM EST 
+TWCBreaking	702604144897449984	2016-02-24T21:20:56	Tornado Warning for Chatham, Harnett, Lee and Wake Counties in NC until 5:00 PM EST 
+TWCBreaking	702602566463455232	2016-02-24T21:14:40	Tornado Warning for Chatham, Durham and Orange Counties in NC until 5:00 PM EST 
+TWCBreaking	702602435588542464	2016-02-24T21:14:09	Tornado Warning for Charlotte and Halifax Counties in VA until 4:45 PM EST 
+TWCBreaking	702601085677019136	2016-02-24T21:08:47	Tornado Warning for Fluvanna County in VA until 4:45 PM EST 
+TWCBreaking	702600120349491200	2016-02-24T21:04:57	Tornado Warning for Durham, Granville, Person and Vance Counties in NC until 5:00 PM EST 
+TWCBreaking	702598796513923073	2016-02-24T20:59:41	Tornado Warning for Granville and Person Counties in NC until 4:45 PM EST 
+TWCBreaking	702597477367570432	2016-02-24T20:54:26	Tornado Warning for Gloucester, Mathews, York and City of Poquoson Counties in VA until 4:30 PM EST 
+TWCBreaking	702597331892342784	2016-02-24T20:53:52	Tornado Warning for Chatham, Lee and Moore Counties in NC until 4:30 PM EST 
+TWCBreaking	702596788209917953	2016-02-24T20:51:42	Tornado Warning for Prince Edward County in VA until 4:30 PM EST 
+TWCBreaking	702594752533803008	2016-02-24T20:43:37	Tornado Warning for Appomattox, Campbell and Charlotte Counties in VA until 4:15 PM EST 
+TWCBreaking	702590673518604288	2016-02-24T20:27:24	Tornado Warning for Appomattox and Campbell Counties in VA until 4:00 PM EST 
+TWCBreaking	702587628567171072	2016-02-24T20:15:18	Tornado Warning for Campbell, Charlotte, Halifax and Pittsylvania Counties in VA until 3:45 PM EST 
+TWCBreaking	702586747662659584	2016-02-24T20:11:48	Tornado Warning for Caroline, Goochland, Hanover, Louisa and Powhatan Counties in VA until 3:45 PM EST 
+TWCBreaking	702586615840034816	2016-02-24T20:11:17	Tornado Warning for Chatham, Lee and Randolph Counties in NC until 3:45 PM EST 
+TWCBreaking	702582376740757504	2016-02-24T19:54:26	Tornado Warning for Caswell County in NC until 3:30 PM EST 
+TWCBreaking	702582376249970688	2016-02-24T19:54:26	Tornado Warning for Halifax, Pittsylvania and City of Danville Counties in VA until 3:30 PM EST 
+TWCBreaking	702579141250396160	2016-02-24T19:41:35	Tornado Warning for Pittsylvania and City of Danville Counties in VA until 3:15 PM EST 
+TWCBreaking	702568971128610816	2016-02-24T19:01:10	Tornado Warning for Charlotte and DeSoto Counties in FL until 1:30 PM CST 
+TWCBreaking	702568968158990336	2016-02-24T19:01:09	Tornado Warning for Charlotte and DeSoto Counties in FL until 2:30 PM EST 
+TWCBreaking	702567046354067457	2016-02-24T18:53:31	Tornado Warning for Martin and Pitt Counties in NC until 2:30 PM EST 
+TWCBreaking	702562869808799745	2016-02-24T18:36:55	Tornado Warning for Charlotte and DeSoto Counties in FL until 2:00 PM EST 
+TWCBreaking	702562866696552448	2016-02-24T18:36:55	Tornado Warning for Charlotte and DeSoto Counties in FL until 1:00 PM CST 
+TWCBreaking	702562863487934464	2016-02-24T18:36:54	Tornado Warning for Charlotte and DeSoto Counties in FL until 2:00 PM EST 
+TWCBreaking	702561235091324928	2016-02-24T18:30:26	Tornado Warning for Greene, Lenoir and Pitt Counties in NC until 2:00 PM EST 
+TWCBreaking	702555338013167617	2016-02-24T18:07:00	Tornado Warning for Charlotte, DeSoto and Sarasota Counties in FL until 12:30 PM CST 
+TWCBreaking	702555329972695041	2016-02-24T18:06:58	Tornado Warning for Charlotte, DeSoto and Sarasota Counties in FL until 1:30 PM EST 
+TWCBreaking	702555180282175489	2016-02-24T18:06:22	Tornado Warning for Duplin and Lenoir Counties in NC until 1:45 PM EST 
+TWCBreaking	702555176540905472	2016-02-24T18:06:21	Tornado Warning for Duplin and Lenoir Counties in NC until 1:45 PM EST 
+TWCBreaking	702554458882871296	2016-02-24T18:03:30	Tornado Warning for Wayne County in NC until 1:30 PM EST 
+TWCBreaking	702552355682693120	2016-02-24T17:55:09	Tornado Warning for Indian River County in FL until 1:30 PM EST 
+TWCBreaking	702548460038287360	2016-02-24T17:39:40	Tornado Warning for Duplin County in NC until 1:15 PM EST 
+TWCBreaking	702547786307280896	2016-02-24T17:36:59	Tornado Warning for Sampson County in NC until 1:00 PM EST 
+TWCBreaking	702546340929081344	2016-02-24T17:31:15	Tornado Warning for Charlotte and Sarasota Counties in FL until 12:00 PM CST 
+TWCBreaking	702546334813847553	2016-02-24T17:31:13	Tornado Warning for Charlotte and Sarasota Counties in FL until 1:00 PM EST 
+TWCBreaking	702546181746896897	2016-02-24T17:30:37	Tornado Warning for Hardee, Hillsborough, Manatee and Polk Counties in FL until 1:00 PM EST 
+TWCBreaking	702539079494160385	2016-02-24T17:02:23	Tornado Warning for Hardee, Hillsborough and Manatee Counties in FL until 12:30 PM EST 
+TWCBreaking	702531844139421696	2016-02-24T16:33:38	Tornado Warning for Alexander, Catawba, Iredell and Lincoln Counties in NC until 12:30 PM EST 
+TWCBreaking	702521753751277569	2016-02-24T15:53:32	Tornado Warning for Cumberland County in NC until 11:45 AM EST 
+TWCBreaking	702520529534619648	2016-02-24T15:48:41	Tornado Warning for Bladen and Robeson Counties in NC until 11:30 AM EST 
+TWCBreaking	702505572923367424	2016-02-24T14:49:15	Tornado Warning for Pasco, Polk and Sumter Counties in FL until 10:15 AM EST 
+TWCBreaking	702480641066053632	2016-02-24T13:10:10	Tornado Warning for Oconee County in SC until 8:45 AM EST 
+TWCBreaking	702480638683717632	2016-02-24T13:10:10	Tornado Warning for Stephens County in GA until 8:45 AM EST 
+TWCBreaking	702432193197555712	2016-02-24T09:57:40	Tornado Warning for Coffee and Jeff Davis Counties in GA until 5:30 AM EST 
+TWCBreaking	702407754250633216	2016-02-24T08:20:33	Tornado Warning for Dodge and Wilcox Counties in GA until 3:45 AM EST 
+TWCBreaking	702398251660677120	2016-02-24T07:42:47	Tornado Warning for Ben Hill, Dougherty, Lee, Turner and Worth Counties in GA until 3:30 AM EST 
+TWCBreaking	702389798623952897	2016-02-24T07:09:12	Tornado Warning for Baker, Dougherty, Mitchell and Worth Counties in GA until 3:00 AM EST 
+TWCBreaking	702388509491990528	2016-02-24T07:04:05	Tornado Warning for Dougherty, Lee and Worth Counties in GA until 2:45 AM EST 
+TWCBreaking	702383407058329600	2016-02-24T06:43:48	Tornado Warning for Baker, Early, Miller and Mitchell Counties in GA until 2:30 AM EST 
+TWCBreaking	702376429099622400	2016-02-24T06:16:04	Tornado Warning for Calhoun, Jackson and Liberty Counties in FL until 1:45 AM EST 
+TWCBreaking	702375582689062915	2016-02-24T06:12:43	Tornado Warning for Decatur, Early, Miller and Seminole Counties in GA until 2:00 AM EST 
+TWCBreaking	702370475507380224	2016-02-24T05:52:25	Tornado Warning for Calhoun, Dougherty, Lee, Terrell and Worth Counties in GA until 1:30 AM EST 
+TWCBreaking	702362921133850625	2016-02-24T05:22:24	Tornado Warning for Bay County in FL until 12:00 AM CST 
+TWCBreaking	702360073901875201	2016-02-24T05:11:05	Tornado Warning for Henry County in AL until 12:00 AM CST 
+TWCBreaking	702360065316155397	2016-02-24T05:11:03	Tornado Warning for Calhoun, Clay, Early and Randolph Counties in GA until 1:00 AM EST 
+TWCBreaking	702360025155686400	2016-02-24T05:10:53	Tornado Warning for Calhoun, Clay, Early and Randolph Counties in GA until 1:00 AM EST 
+TWCBreaking	702360020768460800	2016-02-24T05:10:52	Tornado Warning for Calhoun, Clay, Early and Randolph Counties in GA until 1:00 AM EST 
+TWCBreaking	702345937029451776	2016-02-24T04:14:55	Tornado Warning for Dale, Geneva, Henry and Houston Counties in AL until 11:00 PM CST 
+TWCBreaking	702324149453135872	2016-02-24T02:48:20	Tornado Warning for Walton County in FL until 9:15 PM CST 
+TWCBreaking	702323027032158209	2016-02-24T02:43:52	Tornado Warning for Okaloosa and Santa Rosa Counties in FL until 9:15 PM CST 
+TWCBreaking	702322086254018560	2016-02-24T02:40:08	Tornado Warning for Okaloosa County in FL until 9:15 PM CST 
+TWCBreaking	702313543631155200	2016-02-24T02:06:11	Tornado Warning for Okaloosa and Santa Rosa Counties in FL until 8:30 PM CST 
+TWCBreaking	702300461328519169	2016-02-24T01:14:12	Tornado Warning for Baldwin County in AL until 8:15 PM CST 
+TWCBreaking	702300457188732930	2016-02-24T01:14:11	Tornado Warning for Escambia County in FL until 8:15 PM CST 
+TWCBreaking	702294506209546242	2016-02-24T00:50:32	Tornado Warning for Marengo County in AL until 7:45 PM CST 
+TWCBreaking	702289167414218753	2016-02-24T00:29:20	Tornado Warning for Baldwin, Clarke, Mobile and Washington Counties in AL until 7:15 PM CST 
+TWCBreaking	702288179991150592	2016-02-24T00:25:24	Tornado Warning for Sumter County in AL until 7:30 PM CST 
+TWCBreaking	702284562630508545	2016-02-24T00:11:02	Tornado Warning for Choctaw, Clarke and Washington Counties in AL until 7:00 PM CST 
+TWCBreaking	702281387911413760	2016-02-23T23:58:25	Tornado Warning for Forrest County in MS until 6:45 PM CST 
+TWCBreaking	702281374779084802	2016-02-23T23:58:22	Tornado Warning for Clarke and Lauderdale Counties in MS until 6:45 PM CST 
+TWCBreaking	702280570638716928	2016-02-23T23:55:10	Tornado Warning for Mobile County in AL until 6:30 PM CST 
+TWCBreaking	702280565827866624	2016-02-23T23:55:09	Tornado Warning for George County in MS until 6:30 PM CST 
+TWCBreaking	702279465590624257	2016-02-23T23:50:46	Tornado Warning for Jackson County in MS until 6:15 PM CST 
+TWCBreaking	702279420300537857	2016-02-23T23:50:36	Tornado Warning for St. Tammany Parish in LA until 6:15 PM CST 
+TWCBreaking	702277464525897728	2016-02-23T23:42:49	Tornado Warning for Hancock, Harrison and Pearl River Counties in MS until 6:15 PM CST 
+TWCBreaking	702273433850085376	2016-02-23T23:26:48	Tornado Warning for Washington County in AL until 6:15 PM CST 
+TWCBreaking	702273427936129024	2016-02-23T23:26:47	Tornado Warning for Greene and Wayne Counties in MS until 6:15 PM CST 
+TWCBreaking	702269132926889984	2016-02-23T23:09:43	Tornado Warning for St. Tammany Parish in LA until 5:45 PM CST 
+TWCBreaking	702269126228574208	2016-02-23T23:09:41	Tornado Warning for Hancock and Pearl River Counties in MS until 5:45 PM CST 
+TWCBreaking	702263848435208192	2016-02-23T22:48:43	Tornado Warning for St. Tammany Parish in LA until 5:15 PM CST 
+TWCBreaking	702263374571122689	2016-02-23T22:46:50	Tornado Warning for Forrest and Jones Counties in MS until 5:30 PM CST 
+TWCBreaking	702262963416109057	2016-02-23T22:45:12	Tornado Warning for Greene, Perry and Wayne Counties in MS until 5:30 PM CST 
+TWCBreaking	702260422313816064	2016-02-23T22:35:06	Tornado Warning for St. John The Baptist Parish in LA until 5:00 PM CST 
+TWCBreaking	702259532924190720	2016-02-23T22:31:34	Tornado Warning for Forrest County in MS until 5:30 PM CST 
+TWCBreaking	702258478442614784	2016-02-23T22:27:23	Tornado Warning for St. Tammany and Tangipahoa Parishes in LA until 5:00 PM CST 
+TWCBreaking	702256023231311873	2016-02-23T22:17:37	Tornado Warning for Yazoo County in MS until 5:15 PM CST 
+TWCBreaking	702252102152617984	2016-02-23T22:02:03	Tornado Warning for St. John The Baptist, St. Tammany and Tangipahoa Parishes in LA until 4:30 PM CST 
+TWCBreaking	702250716023271425	2016-02-23T21:56:32	Tornado Warning for Pearl River County in MS until 4:30 PM CST 
+TWCBreaking	702249650724564992	2016-02-23T21:52:18	Tornado Warning for Pearl River County in MS until 4:00 PM CST 
+TWCBreaking	702249612996775937	2016-02-23T21:52:09	Tornado Warning for Forrest, Lamar and Marion Counties in MS until 4:45 PM CST 
+TWCBreaking	702246258849624064	2016-02-23T21:38:49	Tornado Warning for Ascension, Livingston, St. James and St. John The Baptist Parishes in LA until 4:15 PM CST 
+TWCBreaking	702241388285423616	2016-02-23T21:19:28	Tornado Warning for Ascension, Assumption, Iberville and St. James Parishes in LA until 3:45 PM CST 
+TWCBreaking	702239378077147136	2016-02-23T21:11:29	Tornado Warning for Ascension, East Baton Rouge and Iberville Parishes in LA until 3:45 PM CST 
+TWCBreaking	702219335297675264	2016-02-23T19:51:50	Tornado Warning for Washington Parish in LA until 2:15 PM CST 
+TWCBreaking	702219331040489472	2016-02-23T19:51:49	Tornado Warning for Walthall County in MS until 2:15 PM CST 
+TWCBreaking	702209194611478528	2016-02-23T19:11:33	Tornado Warning for St. Helena and Tangipahoa Parishes in LA until 1:45 PM CST 
+TWCBreaking	702206260624556032	2016-02-23T18:59:53	Tornado Warning for Pearl River County in MS until 1:30 PM CST 
+TWCBreaking	702201354224214016	2016-02-23T18:40:23	Tornado Warning for Livingston, St. Helena and Tangipahoa Parishes in LA until 1:15 PM CST 
+TWCBreaking	702190803666374656	2016-02-23T17:58:28	Tornado Warning for St. Tammany Parish in LA until 12:30 PM CST 
+TWCBreaking	702187670273806337	2016-02-23T17:46:01	Tornado Warning for Ascension, East Baton Rouge and Iberville Parishes in LA until 12:15 PM CST 
+TWCBreaking	702179609387728897	2016-02-23T17:13:59	Tornado Warning for Jefferson Parish in LA until 11:30 AM CST 
+TWCBreaking	702179171611508736	2016-02-23T17:12:15	Tornado Warning for St. Charles and St. John The Baptist Parishes in LA until 11:30 AM CST 
+TWCBreaking	702171961913270272	2016-02-23T16:43:36	Tornado Warning for St. Charles Parish in LA until 11:15 AM CST 
+TWCBreaking	702120058470793216	2016-02-23T13:17:21	Tornado Warning for Brazoria and Galveston Counties in TX until 7:45 AM CST 
+TWCBreaking	702115368727240704	2016-02-23T12:58:43	Tornado Warning for Bee, Refugio and San Patricio Counties in TX until 7:45 AM CST 
+TWCBreaking	699590049411649536	2016-02-16T13:44:00	Tornado Warning for Carteret County in NC until 9:15 AM EST 
+TWCBreaking	699577269832908800	2016-02-16T12:53:13	Tornado Warning for Broward and Miami-Dade Counties in FL until 8:15 AM EST 
+TWCBreaking	699565828165890048	2016-02-16T12:07:45	Tornado Warning for Broward County in FL until 7:30 AM EST 
+TWCBreaking	699549228020813828	2016-02-16T11:01:47	Tornado Warning for Palm Beach County in FL until 6:30 AM EST 
+TWCBreaking	699533257570791424	2016-02-16T09:58:19	Tornado Warning for Collier and Hendry Counties in FL until 5:30 AM EST 
+TWCBreaking	699524380297048065	2016-02-16T09:23:03	Tornado Warning for Brevard County in FL until 5:00 AM EST 
+TWCBreaking	699518820566724608	2016-02-16T09:00:57	Tornado Warning for Collier County in FL until 4:30 AM EST 
+TWCBreaking	699518136337326080	2016-02-16T08:58:14	Tornado Warning for Glades County in FL until 4:30 AM EST 
+TWCBreaking	699515578512375808	2016-02-16T08:48:04	Tornado Warning for Brevard, Orange and Osceola Counties in FL until 4:30 AM EST 
+TWCBreaking	699512609779757056	2016-02-16T08:36:17	Tornado Warning for Charlotte and Lee Counties in FL until 3:00 AM CST 
+TWCBreaking	699512603048087552	2016-02-16T08:36:15	Tornado Warning for Charlotte and Lee Counties in FL until 4:00 AM EST 
+TWCBreaking	699397450553905152	2016-02-16T00:58:41	Tornado Warning for Lee and Russell Counties in AL until 7:30 PM CST 
+TWCBreaking	699370196385951744	2016-02-15T23:10:23	Tornado Warning for Butler, Covington and Crenshaw Counties in AL until 6:00 PM CST 
+TWCBreaking	699353950672162816	2016-02-15T22:05:49	Tornado Warning for Elmore, Macon and Montgomery Counties in AL until 4:30 PM CST 
+TWCBreaking	699351724478205953	2016-02-15T21:56:59	Tornado Warning for Conecuh and Escambia Counties in AL until 4:45 PM CST 
+TWCBreaking	699342923230392321	2016-02-15T21:22:00	Tornado Warning for Escambia County in AL until 4:00 PM CST 
+TWCBreaking	699342912358711296	2016-02-15T21:21:58	Tornado Warning for Escambia and Santa Rosa Counties in FL until 4:00 PM CST 
+TWCBreaking	699325029947830272	2016-02-15T20:10:54	Tornado Warning for Jasper and Newton Counties in MS until 2:45 PM CST 
+TWCBreaking	699324588765753344	2016-02-15T20:09:09	Tornado Warning for Simpson and Smith Counties in MS until 3:15 PM CST 
+TWCBreaking	699318922927943680	2016-02-15T19:46:38	Tornado Warning for Clarke and Washington Counties in AL until 2:30 PM CST 
+TWCBreaking	699313955273965569	2016-02-15T19:26:54	Tornado Warning for Jasper and Smith Counties in MS until 2:30 PM CST 
+TWCBreaking	699312187999784961	2016-02-15T19:19:52	Tornado Warning for Walthall County in MS until 1:45 PM CST 
+TWCBreaking	699304735875031040	2016-02-15T18:50:16	Tornado Warning for Pike County in MS until 1:15 PM CST 
+TWCBreaking	699302450830794752	2016-02-15T18:41:11	Tornado Warning for Simpson and Smith Counties in MS until 1:45 PM CST 
+TWCBreaking	699301419153657857	2016-02-15T18:37:05	Tornado Warning for Clarke and Washington Counties in AL until 1:15 PM CST 
+TWCBreaking	699300397580554240	2016-02-15T18:33:01	Tornado Warning for Clarke and Wilcox Counties in AL until 1:15 PM CST 
+TWCBreaking	699298898695712768	2016-02-15T18:27:04	Tornado Warning for Attala and Winston Counties in MS until 1:30 PM CST 
+TWCBreaking	699295421659631617	2016-02-15T18:13:15	Tornado Warning for East Feliciana, St. Helena and Tangipahoa Parishes in LA until 12:45 PM CST 
+TWCBreaking	699295416987181057	2016-02-15T18:13:14	Tornado Warning for Amite County in MS until 12:45 PM CST 
+TWCBreaking	699294843260940288	2016-02-15T18:10:57	Tornado Warning for Butler, Conecuh and Monroe Counties in AL until 12:45 PM CST 
+TWCBreaking	699293911060078593	2016-02-15T18:07:15	Tornado Warning for Leake County in MS until 1:00 PM CST 
+TWCBreaking	699293720198324229	2016-02-15T18:06:29	Tornado Warning for Clarke and Washington Counties in AL until 12:45 PM CST 
+TWCBreaking	699291824351944704	2016-02-15T17:58:57	Tornado Warning for Copiah, Lawrence, Lincoln and Simpson Counties in MS until 1:00 PM CST 
+TWCBreaking	699289763665149952	2016-02-15T17:50:46	Tornado Warning for Rankin County in MS until 12:45 PM CST 
+TWCBreaking	699288243271905280	2016-02-15T17:44:44	Tornado Warning for East Feliciana and West Feliciana Parishes in LA until 12:15 PM CST 
+TWCBreaking	699288237190156288	2016-02-15T17:44:42	Tornado Warning for Amite and Wilkinson Counties in MS until 12:15 PM CST 
+TWCBreaking	699285551464091648	2016-02-15T17:34:02	Tornado Warning for St. Landry Parish in LA until 12:00 PM CST 
+TWCBreaking	699281446456823809	2016-02-15T17:17:43	Tornado Warning for Greene County in MS until 11:45 AM CST 
+TWCBreaking	699279169285296128	2016-02-15T17:08:40	Tornado Warning for Madison County in MS until 12:15 PM CST 
+TWCBreaking	699276792612286465	2016-02-15T16:59:13	Tornado Warning for Hinds County in MS until 12:00 PM CST 
+TWCBreaking	699269049885159424	2016-02-15T16:28:27	Tornado Warning for Avoyelles Parish in LA until 11:15 AM CST 
+TWCBreaking	695031734295928840	2016-02-03T23:50:53	Tornado Warning for Bryan, Bulloch and Evans Counties in GA until 7:15 PM EST 
+TWCBreaking	695018666207805440	2016-02-03T22:58:57	Tornado Warning for Bryan, Chatham and Effingham Counties in GA until 6:30 PM EST 
+TWCBreaking	695006993375842305	2016-02-03T22:12:34	Tornado Warning for Bryan, Liberty, Long and Tattnall Counties in GA until 5:45 PM EST 
+TWCBreaking	695006568379584512	2016-02-03T22:10:53	Tornado Warning for Bryan, Chatham, Effingham and Liberty Counties in GA until 6:00 PM EST 
+TWCBreaking	694982738500136960	2016-02-03T20:36:11	Tornado Warning for Bacon and Coffee Counties in GA until 4:00 PM EST 
+TWCBreaking	694972470139334656	2016-02-03T19:55:23	Tornado Warning for Chesterfield, Kershaw, Lee, Richland and Sumter Counties in SC until 4:00 PM EST 
+TWCBreaking	694967625944662016	2016-02-03T19:36:08	Tornado Warning for Lexington and Richland Counties in SC until 3:30 PM EST 
+TWCBreaking	694966510800867328	2016-02-03T19:31:42	Tornado Warning for Baker, Calhoun and Miller Counties in GA until 3:00 PM EST 
+TWCBreaking	694856453346099200	2016-02-03T12:14:22	Tornado Warning for Covington and Crenshaw Counties in AL until 7:00 AM CST 
+TWCBreaking	694748375250399232	2016-02-03T05:04:55	Tornado Warning for Pickens County in AL until 11:30 PM CST 
+TWCBreaking	694741951099199488	2016-02-03T04:39:23	Tornado Warning for Perry County in AL until 11:30 PM CST 
+TWCBreaking	694705270333661184	2016-02-03T02:13:38	Tornado Warning for Lamar and Marion Counties in AL until 9:00 PM CST 
+TWCBreaking	694698833297567744	2016-02-03T01:48:03	Tornado Warning for Lowndes and Noxubee Counties in MS until 8:45 PM CST 
+TWCBreaking	694670479081078784	2016-02-02T23:55:23	Tornado Warning for Lamar and Pickens Counties in AL until 7:00 PM CST 
+TWCBreaking	694668589064818688	2016-02-02T23:47:52	Tornado Warning for Fayette County in AL until 6:30 PM CST 
+TWCBreaking	694667445924077568	2016-02-02T23:43:20	Tornado Warning for Lowndes County in MS until 6:45 PM CST 
+TWCBreaking	694662245704343556	2016-02-02T23:22:40	Tornado Warning for Lawrence and Wayne Counties in TN until 5:45 PM CST 
+TWCBreaking	694657172311900160	2016-02-02T23:02:30	Tornado Warning for Fayette, Lamar, Pickens and Tuscaloosa Counties in AL until 6:00 PM CST 
+TWCBreaking	694654864945582080	2016-02-02T22:53:20	Tornado Warning for Noxubee County in MS until 6:00 PM CST 
+TWCBreaking	694652884017778689	2016-02-02T22:45:28	Tornado Warning for Marshall and Tate Counties in MS until 5:30 PM CST 
+TWCBreaking	694649426153832448	2016-02-02T22:31:43	Tornado Warning for Kemper, Neshoba and Newton Counties in MS until 5:30 PM CST 
+TWCBreaking	694647361532899328	2016-02-02T22:23:31	Tornado Warning for Pickens and Sumter Counties in AL until 5:30 PM CST 
+TWCBreaking	694645832419651584	2016-02-02T22:17:27	Tornado Warning for Noxubee County in MS until 4:45 PM CST 
+TWCBreaking	694645372312924161	2016-02-02T22:15:37	Tornado Warning for Muhlenberg County in KY until 4:45 PM CST 
+TWCBreaking	694635419539894272	2016-02-02T21:36:04	Tornado Warning for Hopkins, McLean and Muhlenberg Counties in KY until 4:15 PM CST 
+TWCBreaking	694633605109166080	2016-02-02T21:28:51	Tornado Warning for Dickson, Houston and Montgomery Counties in TN until 4:00 PM CST 
+TWCBreaking	694632904467427328	2016-02-02T21:26:04	Tornado Warning for Kemper and Lauderdale Counties in MS until 4:30 PM CST 
+TWCBreaking	694631778191958016	2016-02-02T21:21:36	Tornado Warning for Noxubee and Winston Counties in MS until 4:15 PM CST 
+TWCBreaking	694626613867098112	2016-02-02T21:01:04	Tornado Warning for Kemper and Neshoba Counties in MS until 3:30 PM CST 
+TWCBreaking	694625876504289281	2016-02-02T20:58:09	Tornado Warning for Houston and Humphreys Counties in TN until 3:30 PM CST 
+TWCBreaking	694623471196704768	2016-02-02T20:48:35	Tornado Warning for Lauderdale and Newton Counties in MS until 3:45 PM CST 
+TWCBreaking	694620982779064320	2016-02-02T20:38:42	Tornado Warning for Clay County in MS until 3:45 PM CST 
+TWCBreaking	694616595356778496	2016-02-02T20:21:16	Tornado Warning for Neshoba County in MS until 3:15 PM CST 
+TWCBreaking	694612509324505089	2016-02-02T20:05:02	Tornado Warning for Choctaw and Oktibbeha Counties in MS until 3:00 PM CST 
+TWCBreaking	694612477284208640	2016-02-02T20:04:54	Tornado Warning for Jasper, Scott and Smith Counties in MS until 2:45 PM CST 
+TWCBreaking	694611639115448322	2016-02-02T20:01:34	Tornado Warning for Chester, Henderson and Madison Counties in TN until 2:30 PM CST 
+TWCBreaking	692732695013519360	2016-01-28T15:35:19	Tornado Warning for Palm Beach County in FL until 11:00 AM EST 
+TWCBreaking	692390541435224065	2016-01-27T16:55:43	Tornado Warning for Collier County in FL until 12:30 PM EST 
+TWCBreaking	692380521456865281	2016-01-27T16:15:54	Tornado Warning for Broward and Palm Beach Counties in FL until 11:45 AM EST 
+TWCBreaking	692353401854652417	2016-01-27T14:28:08	Tornado Warning for Broward and Palm Beach Counties in FL until 10:00 AM EST 
+TWCBreaking	692343727688282112	2016-01-27T13:49:42	Tornado Warning for Palm Beach County in FL until 9:15 AM EST 
+TWCBreaking	692305031261847557	2016-01-27T11:15:56	Tornado Warning for Lower Keys in Monroe County in FL until 5:45 AM CST 
+TWCBreaking	692305020524613632	2016-01-27T11:15:53	Tornado Warning for Lower Keys in Monroe County in FL until 6:45 AM EST 
+TWCBreaking	692297372160819202	2016-01-27T10:45:30	Tornado Warning for Collier and Lower Keys in Monroe Counties in FL until 5:15 AM CST 
+TWCBreaking	692297366901108736	2016-01-27T10:45:29	Tornado Warning for Collier and Lower Keys in Monroe Counties in FL until 6:15 AM EST 
+TWCBreaking	692290508224356352	2016-01-27T10:18:13	Tornado Warning for Collier and Lower Keys in Monroe Counties in FL until 4:45 AM CST 
+TWCBreaking	692290496878792704	2016-01-27T10:18:11	Tornado Warning for Collier and Lower Keys in Monroe Counties in FL until 5:45 AM EST 
+TWCBreaking	691036369481641984	2016-01-23T23:14:43	Tornado Warning for Tehama County in CA until 4:00 PM PST 
+TWCBreaking	691026716152606720	2016-01-23T22:36:22	Tornado Warning for Tehama County in CA until 3:15 PM PST 
+TWCBreaking	690576400290451460	2016-01-22T16:46:58	Tornado Warning for Volusia County in FL until 12:30 PM EST 
+TWCBreaking	690492301580197888	2016-01-22T11:12:48	Tornado Warning for Franklin County in FL until 6:45 AM EST 
+TWCBreaking	690492298287681536	2016-01-22T11:12:47	Tornado Warning for Franklin County in FL until 5:45 AM CST 
+TWCBreaking	690472460215390208	2016-01-22T09:53:57	Tornado Warning for Bay and Gulf Counties in FL until 4:45 AM CST 
+TWCBreaking	690472453684891648	2016-01-22T09:53:55	Tornado Warning for Bay and Gulf Counties in FL until 5:45 AM EST 
+TWCBreaking	690469475481616384	2016-01-22T09:42:05	Tornado Warning for Calhoun County in FL until 4:30 AM CST 
+TWCBreaking	690454838111395840	2016-01-22T08:43:56	Tornado Warning for Bay County in FL until 3:30 AM CST 
+TWCBreaking	690441027409281025	2016-01-22T07:49:03	Tornado Warning for Geneva County in AL until 2:15 AM CST 
+TWCBreaking	690440113680183297	2016-01-22T07:45:25	Tornado Warning for Holmes and Walton Counties in FL until 2:15 AM CST 
+TWCBreaking	690398077950259201	2016-01-22T04:58:23	Tornado Warning for Baldwin and Escambia Counties in AL until 11:30 PM CST 
+TWCBreaking	690335582820700161	2016-01-22T00:50:03	Tornado Warning for Covington, Forrest, Jones, Lamar and Marion Counties in MS until 7:30 PM CST 
+TWCBreaking	690334843247448064	2016-01-22T00:47:07	Tornado Warning for Pearl River County in MS until 7:15 PM CST 
+TWCBreaking	690334841162895360	2016-01-22T00:47:06	Tornado Warning for Washington Parish in LA until 7:15 PM CST 
+TWCBreaking	690326583635095552	2016-01-22T00:14:17	Tornado Warning for Washington Parish in LA until 6:45 PM CST 
+TWCBreaking	690322146044678144	2016-01-21T23:56:39	Tornado Warning for Tangipahoa Parish in LA until 6:30 PM CST 
+TWCBreaking	690321117123194880	2016-01-21T23:52:34	Tornado Warning for Tangipahoa and Washington Parishes in LA until 6:15 PM CST 
+TWCBreaking	690320486392160256	2016-01-21T23:50:04	Tornado Warning for Newton and Scott Counties in MS until 6:45 PM CST 
+TWCBreaking	690317149584228352	2016-01-21T23:36:48	Tornado Warning for Pike County in MS until 6:15 PM CST 
+TWCBreaking	690314802552438784	2016-01-21T23:27:29	Tornado Warning for Simpson County in MS until 6:15 PM CST 
+TWCBreaking	690314401413345281	2016-01-21T23:25:53	Tornado Warning for Livingston, St. Helena and Tangipahoa Parishes in LA until 6:00 PM CST 
+TWCBreaking	690304723337908225	2016-01-21T22:47:25	Tornado Warning for East Baton Rouge and East Feliciana Parishes in LA until 5:30 PM CST 
+TWCBreaking	690302764191055872	2016-01-21T22:39:38	Tornado Warning for Copiah and Simpson Counties in MS until 5:45 PM CST 
+TWCBreaking	690302413220118528	2016-01-21T22:38:15	Tornado Warning for Plaquemines Parish in LA until 5:15 PM CST 
+TWCBreaking	690298570226806784	2016-01-21T22:22:58	Tornado Warning for Pointe Coupee and West Feliciana Parishes in LA until 5:00 PM CST 
+TWCBreaking	690297310979297281	2016-01-21T22:17:58	Tornado Warning for Copiah, Franklin, Jefferson and Lincoln Counties in MS until 5:15 PM CST 
+TWCBreaking	690296305352966144	2016-01-21T22:13:58	Tornado Warning for Copiah, Hinds, Rankin and Simpson Counties in MS until 5:15 PM CST 
+TWCBreaking	690295328885501954	2016-01-21T22:10:06	Tornado Warning for Iberville, Pointe Coupee and West Baton Rouge Parishes in LA until 5:00 PM CST 
+TWCBreaking	690292857563836416	2016-01-21T22:00:16	Tornado Warning for Copiah, Franklin, Jefferson and Lincoln Counties in MS until 5:00 PM CST 
+TWCBreaking	690283209997713409	2016-01-21T21:21:56	Tornado Warning for Adams, Franklin and Jefferson Counties in MS until 4:15 PM CST 
+TWCBreaking	690269829895356416	2016-01-21T20:28:46	Tornado Warning for Wilkinson County in MS until 3:15 PM CST 
+TWCBreaking	690269355574108160	2016-01-21T20:26:53	Tornado Warning for Concordia Parish in LA until 3:30 PM CST 
+TWCBreaking	690269352814215168	2016-01-21T20:26:52	Tornado Warning for Adams County in MS until 3:30 PM CST 
+TWCBreaking	690267391641522177	2016-01-21T20:19:05	Tornado Warning for Avoyelles Parish in LA until 2:45 PM CST 
+TWCBreaking	690251899606433792	2016-01-21T19:17:31	Tornado Warning for Natchitoches and Sabine Parishes in LA until 1:45 PM CST 
+TWCBreaking	690243541562441728	2016-01-21T18:44:19	Tornado Warning for Beauregard Parish in LA until 1:30 PM CST 
+TWCBreaking	690243529428238336	2016-01-21T18:44:16	Tornado Warning for Jasper and Newton Counties in TX until 1:30 PM CST 
+TWCBreaking	690233649417977856	2016-01-21T18:05:00	Tornado Warning for Jasper and Tyler Counties in TX until 12:45 PM CST 
+TWCBreaking	690233172500451328	2016-01-21T18:03:06	Tornado Warning for Jasper and Newton Counties in TX until 12:45 PM CST 
+TWCBreaking	690129552111243265	2016-01-21T11:11:21	Tornado Warning for Rapides and Vernon Parishes in LA until 5:45 AM CST 
+TWCBreaking	688693243622498305	2016-01-17T12:03:59	Tornado Warning for Martin County in FL until 7:30 AM EST 
+TWCBreaking	688680358275973120	2016-01-17T11:12:47	Tornado Warning for Glades, Hendry and Palm Beach Counties in FL until 6:45 AM EST 
+TWCBreaking	688666612807761920	2016-01-17T10:18:09	Tornado Warning for Collier County in FL until 5:45 AM EST 
+TWCBreaking	688663950569811968	2016-01-17T10:07:35	Tornado Warning for Charlotte County in FL until 5:30 AM EST 
+TWCBreaking	688663941166153729	2016-01-17T10:07:32	Tornado Warning for Charlotte County in FL until 4:30 AM CST 
+TWCBreaking	688658355632525312	2016-01-17T09:45:21	Tornado Warning for Charlotte, DeSoto and Sarasota Counties in FL until 4:15 AM CST 
+TWCBreaking	688658310052974593	2016-01-17T09:45:10	Tornado Warning for Charlotte, DeSoto and Sarasota Counties in FL until 5:15 AM EST 
+TWCBreaking	688650963377205248	2016-01-17T09:15:58	Tornado Warning for DeSoto, Hardee, Manatee, Polk and Sarasota Counties in FL until 4:45 AM EST 
+TWCBreaking	688646081941389317	2016-01-17T08:56:35	Tornado Warning for Manatee County in FL until 4:30 AM EST 
+TWCBreaking	688644336053956608	2016-01-17T08:49:38	Tornado Warning for Charlotte and Sarasota Counties in FL until 3:15 AM CST 
+TWCBreaking	688644310456123392	2016-01-17T08:49:32	Tornado Warning for Charlotte and Sarasota Counties in FL until 4:15 AM EST 
+TWCBreaking	688643250433867776	2016-01-17T08:45:19	Tornado Warning for Hardee, Hillsborough, Manatee and Polk Counties in FL until 4:15 AM EST 
+TWCBreaking	688641682451988480	2016-01-17T08:39:06	Tornado Warning for Sarasota County in FL until 4:15 AM EST 
+TWCBreaking	688639059829235712	2016-01-17T08:28:40	Tornado Warning for Manatee County in FL until 4:00 AM EST 
+TWCBreaking	688630951279104000	2016-01-17T07:56:27	Tornado Warning for Manatee and Sarasota Counties in FL until 3:30 AM EST 
+TWCBreaking	688095512294113281	2016-01-15T20:28:48	Tornado Warning for Lower Keys in Monroe County in FL until 3:00 PM CST 
+TWCBreaking	688095506409500672	2016-01-15T20:28:47	Tornado Warning for Lower Keys in Monroe County in FL until 4:00 PM EST 
+TWCBreaking	688072819209469953	2016-01-15T18:58:38	Tornado Warning for Palm Beach County in FL until 2:30 PM EST 
+TWCBreaking	688065340408901632	2016-01-15T18:28:55	Tornado Warning for Palm Beach County in FL until 2:00 PM EST 
+TWCBreaking	688061110214242304	2016-01-15T18:12:06	Tornado Warning for Palm Beach County in FL until 1:45 PM EST 
+TWCBreaking	688055848216612864	2016-01-15T17:51:12	Tornado Warning for Palm Beach County in FL until 1:15 PM EST 
+TWCBreaking	688035606388170752	2016-01-15T16:30:46	Tornado Warning for Collier, Glades and Hendry Counties in FL until 12:15 PM EST 
+TWCBreaking	688025938681020416	2016-01-15T15:52:21	Tornado Warning for Lee County in FL until 11:15 AM EST 
+TWCBreaking	687399426114088961	2016-01-13T22:22:49	Tornado Warning for Tehama County in CA until 3:15 PM PST 
+TWCBreaking	687398350254157825	2016-01-13T22:18:32	Tornado Warning for Shasta and Tehama Counties in CA until 2:45 PM PST 
+TWCBreaking	685982574917754880	2016-01-10T00:32:45	Tornado Warning for Lee County in FL until 8:00 PM EST 
+TWCBreaking	685971984975450113	2016-01-09T23:50:40	Tornado Warning for Lee County in FL until 7:15 PM EST 
+TWCBreaking	685715016578764800	2016-01-09T06:49:34	Tornado Warning for St. Martin Parish in LA until 1:15 AM CST 
+TWCBreaking	685693943825084416	2016-01-09T05:25:50	Tornado Warning for Avoyelles Parish in LA until 12:00 AM CST 
+TWCBreaking	685653578308927488	2016-01-09T02:45:26	Tornado Warning for Beauregard Parish in LA until 9:15 PM CST 
+TWCBreaking	685653573724590080	2016-01-09T02:45:25	Tornado Warning for Newton County in TX until 9:15 PM CST 
+TWCBreaking	685646973634920448	2016-01-09T02:19:11	Tornado Warning for Beauregard and Calcasieu Parishes in LA until 8:45 PM CST 
+TWCBreaking	685645935821471745	2016-01-09T02:15:04	Tornado Warning for Hardin, Jasper and Newton Counties in TX until 8:45 PM CST 
+TWCBreaking	685637536685805568	2016-01-09T01:41:41	Tornado Warning for Hardin, Jasper and Jefferson Counties in TX until 8:15 PM CST 
+TWCBreaking	684871283620761600	2016-01-06T22:56:52	Tornado Warning for San Diego County in CA until 3:30 PM PST 
+TWCBreaking	684870697651339265	2016-01-06T22:54:33	Tornado Warning for San Diego County in CA until 3:45 PM PST 
+TWCBreaking	681631173395615744	2015-12-29T00:21:50	Tornado Warning for McDowell County in NC until 7:45 PM EST 
+TWCBreaking	681624944338309120	2015-12-28T23:57:05	Tornado Warning for McDowell and Rutherford Counties in NC until 7:30 PM EST 
+TWCBreaking	680946593466585090	2015-12-27T03:01:33	Elsewhere over southern Plains, ice storm warnings issued for potentially crippling ice storm in W Oklahoma Goliath 
+TWCBreaking	680920697200373761	2015-12-27T01:18:39	Tornado Warning including Farmersville TX, Princeton TX, Lucas TX until 7:45 PM CST 
+TWCBreaking	680919542407757824	2015-12-27T01:14:04	Tornado Warning including Farmersville TX, Princeton TX, Lucas TX until 7:45 PM CST 
+TWCBreaking	680919482420838401	2015-12-27T01:13:50	Tornado Warning including Seagoville TX, Forney TX, Sunnyvale TX until 7:45 PM CST 
+TWCBreaking	680915391179259904	2015-12-27T00:57:34	A large, damaging tornado is located near Rowlett, Texas, moving northeast. Debris (ball) is showing up on radar. 
+TWCBreaking	680910972970766336	2015-12-27T00:40:01	Tornado Warning including Dallas TX, Garland TX, Plano TX until 7:30 PM CST 
+TWCBreaking	680908865727234048	2015-12-27T00:31:38	Tornado Warning including Ennis TX, Bardwell TX, Garrett TX until 7:00 PM CST 
+TWCBreaking	680908149595979776	2015-12-27T00:28:48	Tornado Warning including Dallas TX, Mesquite TX, University Park TX until 6:45 PM CST 
+TWCBreaking	680907450443247616	2015-12-27T00:26:01	Tornado warning continues for Dallas, Texas, storm may be weakening, but has a history of extreme winds over 100 mph 

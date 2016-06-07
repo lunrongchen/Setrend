@@ -1,0 +1,300 @@
+quandl	726041223899697152	2016-04-29T13:31:31	currankelleher zanstrong open data from quandl  ❓  📃  🇮🇳 
+quandl	725790905458782208	2016-04-28T20:56:51	.TEKamel: "Hosting data on-premise is absolutely the right thing to do -- if it's 1995." FISD Toronto bmo
+quandl	725780564188520449	2016-04-28T20:15:45	.TEKamel talks unstructured/alternative data at FISD Toronto bmo 
+quandl	725715579496108033	2016-04-28T15:57:31	.crandl ToppingCapital jgallagherjr quandl Here's what's interesting-- venture backed M&amp;A  relative to IPO
+quandl	725691591160160256	2016-04-28T14:22:12	micahstubbs zanstrong currankelleher Thank you, Micah! Please let us know if we can help with anything.
+quandl	725672296606629888	2016-04-28T13:05:32	zanstrong currankelleher quandl aggregates this sort of financial time series data and has a great modern UI 
+quandl	725672919712432132	2016-04-28T13:08:01	zanstrong currankelleher I like quandl because  1) price is either free or clearly stated  2) can buy online, w/o a 📞 phone call
+quandl	725423357315801088	2016-04-27T20:36:20	crushspread  Glad we could help!
+quandl	725335422247657472	2016-04-27T14:46:55	Did a project entirely in python using matplotlib, pandas and the quandl module. No excel at all. Can't believe how efficient it was
+quandl	725016707111247872	2016-04-26T17:40:27	WooTrader and Quandl interview for market data  
+quandl	725230550580076544	2016-04-27T07:50:12	WooTrader proves what startups can accomplish when they get the data they need - Quandl Resource Hub 
+quandl	724682558038921216	2016-04-25T19:32:40	Best of Last 2 Weeks:   w/ TuringFinance Clenow GFrankHarris ThinkNewfound Quandl QuantatRisk QuantStratTradR
+quandl	724640822755397632	2016-04-25T16:46:49	WooTrader proves what startups can accomplish when they get the data they need [quandl] 
+quandl	724641363996880898	2016-04-25T16:48:59	travelphoto True, they're not mutually exclusive.
+quandl	722649869425512448	2016-04-20T04:55:29	From my favorite data source quandl 
+quandl	724630264970895361	2016-04-25T16:04:52	omegapointhq  Thank you!
+quandl	724629076498079744	2016-04-25T16:00:09	figure8labs Thank you, Alexis! We're glad you like it.
+quandl	724094967061213185	2016-04-24T04:37:47	quandl super useful API, thanks for making it!
+quandl	723590186207043586	2016-04-22T19:11:58	plotlygraphs 3d rolling returns on Fama/French factors w/ quandl rstats htmlwidgets  
+quandl	723553786766069763	2016-04-22T16:47:20	Analysts who get it right: a list of the top analysts on TipRanks and the most profitable calls made by each: 
+quandl	723538967325331456	2016-04-22T15:48:27	Thanks for including quandl! Exciting to see the best and brightest in FinTech, all at one event FTX16 fintech 
+quandl	723260308576301057	2016-04-21T21:21:09	.adhonore says FinTech consists of good calories and empty calories, and quandl is the former FTX16 fintech 
+quandl	723233952761282561	2016-04-21T19:36:26	yieldoppression Glad you like it! It was great talking to you, and let us know if you'd like more quandl shirts! 
+quandl	723223945122570240	2016-04-21T18:56:40	quandl markets are lusting for data. FTX16 just took a saucy turn!
+quandl	723225598299090944	2016-04-21T19:03:14	Trek10inc TEKamel We would love to talk to you!
+quandl	723224275545645056	2016-04-21T18:57:58	yieldoppression Thanks for the shoutout!
+quandl	723224057773068288	2016-04-21T18:57:06	Alternative data revolution quandl FTX16 I've been a happy customer! 
+quandl	723221719842848770	2016-04-21T18:47:49	Tammer quandl talking alternative data opportunities FTX16 
+quandl	723223309672964096	2016-04-21T18:54:08	"The three most important resources this century will be, in order, water, oil and data.” - TEKamel FTX16 
+quandl	722785318861012993	2016-04-20T13:53:43	Tomorrow, TEKamel, CEO of quandl, will speak about Wall Street's rapidly growing demand for alternative data FinTechChicago FTX16
+quandl	722430299171328000	2016-04-19T14:23:00	quandl Great graphic! What do you think about combining diffused data sets to find new insights? Edge can be found in "data rediscovery"
+quandl	722470785919643648	2016-04-19T17:03:52	omegapointhq Thank you! And agreed. Combining diffused data sets effectively can make old data new again (and alpha-generating).
+quandl	721704034315431936	2016-04-17T14:17:05	The Changing Generations of Financial Data, via Quandl: 
+quandl	721356234218057728	2016-04-16T15:15:03	~Top Daily Pick~   h/t quandl 
+quandl	721808205639204864	2016-04-17T21:11:01	quandl great resource for financial data  datascience projects. Using it to compare commodity with Bitcoin prices. analyticbridge
+quandl	720991225554276353	2016-04-15T15:04:38	Excellent walkthrough of the new wave of financial data from our likeminded friends quandl BigData fintech 
+quandl	720673504761405440	2016-04-14T18:02:07	Because you can never have enough BigData or AlphaMojo: UforikaEdge quandl 
+quandl	720635252104937475	2016-04-14T15:30:07	How do you integrate non-traditional data sources into your analysis to find where the bullet holes aren’t? 
+quandl	720608732565151744	2016-04-14T13:44:44	Your competitors are trading on alternative data. Are you?  data
+quandl	719920888876023808	2016-04-12T16:11:30	Join LaurenKolodny trippjones11 ceonyc hirschb Thurs for the Alley vs. the Valley! RSVP:  
+quandl	718058140974100481	2016-04-07T12:49:36	My new article on mean reversion, momentum, and volatility term structure: 
+quandl	720330831022002176	2016-04-13T19:20:27	The Changing Generations of Financial Data   (thoughtful piece from Quandl about the evolution of "edge" data)
+quandl	720313131801509889	2016-04-13T18:10:08	Top Analysts Who Get It Right 
+quandl	720271995728887809	2016-04-13T15:26:40	Alternative Data: The Spectrum of Diffusion  
+quandl	720146621120528384	2016-04-13T07:08:28	The Changing Generations of Financial Data [Quandl] 
+quandl	719670075863597056	2016-04-11T23:34:51	Excited to announce our partnership with quandl to host our index data! 
+quandl	719562555325288450	2016-04-11T16:27:36	coryhaupt Thank you, Cory!
+quandl	719169568959107072	2016-04-10T14:26:01	Thanks to quandl for your platform.  If data = equals power, quandl is a supercharger.
+quandl	718450978685612034	2016-04-08T14:50:36	BookMapXray  Thanks, Jim!
+quandl	718256096427827200	2016-04-08T01:56:12	Nice quandl 
+quandl	718184261572923392	2016-04-07T21:10:45	If you used USDA &gt; WSJ &gt; Quandl cash ag prices, Quandl lost publishing rights. Most are back online. Fast work! 
+quandl	718450008568303616	2016-04-08T14:46:44	BrightonCap Thank you! Our data team worked hard to make the interruption as short as possible.
+quandl	717727615788908545	2016-04-06T14:56:12	RangaEunny Thank you! We're glad you like it.
+quandl	717640747739033600	2016-04-06T09:11:02	My new playground after enigma_io is Quandl. Open Data opening up exciting ventures
+quandl	717347685414469632	2016-04-05T13:46:30	Meet the winners of the 2016 Big Data Big Impact competition!  dataanalytics UBC 
+quandl	715951652470071296	2016-04-01T17:19:10	AbleMarkets Daily Aggressive HFT Index downloads on Quandl have exceeded 20,000! Thanks to all who downloaded:  !
+quandl	717076219498332161	2016-04-04T19:47:48	If you had to thin-slice/fingerprint "startup potential" of a country, what top 5 variables would you look at? cc: pmarca cdixon quandl
+quandl	717100889442557952	2016-04-04T21:25:49	vgr pmarca cdixon 5)  ease of doing business
+quandl	717100780478717952	2016-04-04T21:25:23	vgr pmarca cdixon # of young people, education,basic infrastructure, lucrative potential customer base (either large, or rich) and ...
+quandl	715674123960061956	2016-03-31T22:56:22	.carlcarrie added to our growing list of "other aggregators". Along with Quantivity, the best at curating academic quantitative content.
+quandl	715611180765736960	2016-03-31T18:46:15	Quandl Introduces Institutional-Grade Bitcoin Data 
+quandl	715600840434823168	2016-03-31T18:05:10	lordezar Not at the moment, but we do offer intraday data: 
+quandl	715572273089024000	2016-03-31T16:11:39	Meet tomorrow's data superstars  
+quandl	715509255298760704	2016-03-31T12:01:14	Institutional-grade bitcoin data for app developers, technical analysts and risk model builders  cryptocurrency
+quandl	715357689317101568	2016-03-31T01:58:58	Just released: premium bitcoin and digital currency data on Quandl  bitcoin cryptocurrency
+quandl	715335415159500800	2016-03-31T00:30:27	New institutional-grade bitcoin data on Quandl  bitcoin cryptocurrency
+quandl	715295546735476736	2016-03-30T21:52:02	Quandl partners with bravenewcoin to release the most comprehensive bitcoin data in the world:  bitcoin
+quandl	715249352676143105	2016-03-30T18:48:29	Quandl introduces institutional-grade bitcoin data  bitcoin cryptocurrency
+quandl	714883614597636097	2016-03-29T18:35:10	A Monte Carlo Simulation function for your back-test results in R [Open Source Quant] 
+quandl	714825989247905792	2016-03-29T14:46:11	bondskew bmiller22 Thank you for using Quandl! Please let us know if we can help with anything.
+quandl	713047634601086976	2016-03-24T16:59:38	The Comprehensive Guide to Stock Price Calculation [Quandl] 
+quandl	713108384862584832	2016-03-24T21:01:02	an incredible development resource - made available for the good will of the public - quandl zillow datascience 
+quandl	713083377511825408	2016-03-24T19:21:40	you may *think* you know, but interesting to see timeseries data broken out -  How Stock Price are Made  via quandl
+quandl	713093826882179072	2016-03-24T20:03:11	Stock price adjustments: you use them every day, but do you truly understand how they work? We break it down for you 
+quandl	713083754865147904	2016-03-24T19:23:10	The best quants understand the financial math behind historical stock data. Here’s your comprehensive guide: 
+quandl	711983026016628736	2016-03-21T18:29:16	Best Links of the Last Two Weeks:   With MHallsMoore, Millennial_Inv, GekkoQuant and InvestingIdiocy
+quandl	712011420423036930	2016-03-21T20:22:05	TIL:  Quandl serves close to a hundred distinct data requests every second.
+quandl	711977422518919169	2016-03-21T18:07:00	History is a limited resource.  Once you've mined it, you cannot revisit it.
+quandl	710949662677712898	2016-03-18T22:03:03	Want to see our API at work? Check out this automatic trend detection of AAPL (Apple) from Sep 2011 to Jan 2015 
+quandl	711957811010379776	2016-03-21T16:49:04	3 out of the largest 10 hedge funds in the world use Quandl data: 
+quandl	711004076486471680	2016-03-19T01:39:16	thalesians Certainly! We'll let you know when it's up.
+quandl	710994881561415680	2016-03-19T01:02:44	This is an actual quote from the movie -- not tweaked in any way!  
+quandl	710948943199399936	2016-03-18T22:00:11	One morning I shot an elephant within my parameters. How he got within my parameters, I don't know. QuantMovieQuotes
+quandl	710937665634484224	2016-03-18T21:15:22	"Life is an out-of-sample dataset. You never know what you're gonna get."  -- Forrest Gump, data analyst. QuantMovieQuotes
+quandl	710931536619638784	2016-03-18T20:51:01	"I'll be back-testing." -- The Terminator, cyborg assassin data analyst.  QuantMovieQuotes
+quandl	710930497992593409	2016-03-18T20:46:53	"How do you like them residuals?"- Will Hunting (Good Will Hunting) QuantMovieQuotes
+quandl	710925321395159040	2016-03-18T20:26:19	I always wanted to be an analyst. To me that was better than president. To be an analyst was to own the world."-Henry Hill QuantMovieQuotes
+quandl	710891180674797568	2016-03-18T18:10:39	"You're gonna need a bigger training set." -- Martin Brody, analyst. QuantMovieQuotes
+quandl	710899918701858816	2016-03-18T18:45:23	"Just what do you think you're testing against Dave?" -- HAL 9000, machine learning expert.  QuantMovieQuotes
+quandl	710901883263709184	2016-03-18T18:53:11	"Get busy testing, or get busy losing" - Andy Dufresne, analyst. QuantMovieQuotes
+quandl	710890992673554432	2016-03-18T18:09:55	"I love the smell of machine-learning in the morning." -- Bill Kilgore, data scientist. QuantMovieQuotes
+quandl	710891370630631424	2016-03-18T18:11:25	swarajkumar224 
+quandl	710890382075138048	2016-03-18T18:07:29	"I'm going to make him a model he can't refute" -- Vito Corleone, portfolio manager. QuantMovieQuotes
+quandl	710890227259146240	2016-03-18T18:06:52	"Round up the usual datasets." -- Captain Renault, data integrator. QuantMovieQuotes
+quandl	710889869698961408	2016-03-18T18:05:27	"Show me the out-of-sample results!" -- Jerry Maguire, data scientist. QuantMovieQuotes
+quandl	710889587820744704	2016-03-18T18:04:20	"I know what you're thinking. Did I use six degrees of freedom or only five? Well, did ya, punk?" -- Dirty Harry, analyst. QuantMovieQuotes
+quandl	710889469944041472	2016-03-18T18:03:51	Time for some Friday twitter fun: famous quotes by data analysts in the movies. Add your own QuantMovieQuotes!
+quandl	710843544500576257	2016-03-18T15:01:22	The Seven Deadly Sins of Quantitive Data Analysis with quandl datascience 
+quandl	710396053216952320	2016-03-17T09:23:12	Paper develops consistent estimators (eg of realized volatility) by removing market structure noise in realtime data 
+quandl	710824991621783552	2016-03-18T13:47:39	WintermeW Agreed! It could apply to analysts in general.
+quandl	710709638199697408	2016-03-18T06:09:16	If anyone is looking to use financial data in their projects - I found the quandl API useful, well documented, and easy to work with.
+quandl	710824522375680000	2016-03-18T13:45:47	thalesians Awesome! Let us know if you need any help.
+quandl	710427629019598849	2016-03-17T11:28:40	This is also true outside of financial data analysis :) 
+quandl	710481756424695808	2016-03-17T15:03:45	Bill_Kos Thanks for reading, Bill!
+quandl	710481035545419777	2016-03-17T15:00:53	thalesians Thank you for reading!
+quandl	710450261085569026	2016-03-17T12:58:36	7 deadly sins of a quant, when building models, from quandl  - nice read!
+quandl	710460717128929281	2016-03-17T13:40:09	7DeadlySinsofQuants PRIDE: The market knows more than you and always will. Forget this truth at your peril. 
+quandl	710455681774653440	2016-03-17T13:20:08	7DeadlySinsofQuants ENVY: To be like the best, emulate their rigor &amp; discipline, not their models. Copycats fail 
+quandl	710450932950159361	2016-03-17T13:01:16	7DeadlySinsofQuants ANGER: Never get emotional. All models eventually fail. Recognize failure &amp; react rationally. 
+quandl	710445672449839104	2016-03-17T12:40:22	7DeadlySinsofQuants SLOTH: If you are lazy or sloppy with your data, you will fail. 
+quandl	710440629151637504	2016-03-17T12:20:19	7DeadlySinsofQuants LUST: You will be tempted to iterate on out-of-sample data. Don't do it. 
+quandl	710435911079763968	2016-03-17T12:01:35	7DeadlySinsofQuants GLUTTONY: Do not extend your model beyond its natural scope. Stick to what you know. 
+quandl	710430507629211648	2016-03-17T11:40:06	7DeadlySinsofQuants GREED: Do not overfit your model. Stay lean. 
+quandl	710425510975815680	2016-03-17T11:20:15	7DeadlySinsofQuants Sooner or later, every quant is tempted by forbidden fruit.  
+quandl	710135482529615873	2016-03-16T16:07:47	The Seven Deadly Sins of Quantitative Data Analysts [quandl] 
+quandl	710069872026320896	2016-03-16T11:47:04	With the addition of nickel and tin, and night-time trading hours, Shanghai has become a key metal futures market. 
+quandl	709889415271714816	2016-03-15T23:50:00	Throwing more data at a problem can occasionally make up for shortfalls in analytic skill.  But only up to a certain point.
+quandl	709837123868860416	2016-03-15T20:22:13	"There are over 100 apps built on Quandl’s API, all created by our community." tekamel on quandl's app ecosystem. 
+quandl	709803109753757696	2016-03-15T18:07:03	"For market micro-structure trades, the binding constraint is usually balance sheet" + more wisdom from a quant: 
+quandl	709783598606503936	2016-03-15T16:49:31	It turns out that extracting relevant, useful, useable signals from a vast sea of data is hard. Who knew?
+quandl	709743486703181824	2016-03-15T14:10:08	Financial data for 2000+ Chinese companies is hard to find, but we have it &amp; more thanks to DataYes:  china data
+quandl	709722208990400512	2016-03-15T12:45:35	What makes an analyst worth your time: I was recently invited by Quandl to write a blog post about my opinion ... 
+quandl	709474737764888576	2016-03-14T20:22:13	Looking for signals in minute-bar data?  Check out Quandl's new intraday US equity data: 
+quandl	709440772395966464	2016-03-14T18:07:15	The market ranges from perfect efficiency to perfect inefficiency. At each extreme, making money is hard.
+quandl	709421090456641536	2016-03-14T16:49:03	Young traders aim to be smart.  Old traders prefer being lucky.
+quandl	708594565754843136	2016-03-12T10:04:44	I do agree with quote from Wesley Gray though 
+quandl	708350792751816704	2016-03-11T17:56:04	12. In our own small way, that's what we're trying to change at Quandl.
+quandl	708350747671449600	2016-03-11T17:55:53	11. The real world of data is messy, opaque and uncooperative. Tedious, tricky and time-consuming.
+quandl	708350627697594368	2016-03-11T17:55:24	10. ... remains science fiction to this day.
+quandl	708350575390429184	2016-03-11T17:55:12	9. The idea that you can quickly identify the data you need, access it, trust its quality, merge and transform it, share it ...
+quandl	708350448097427456	2016-03-11T17:54:41	8. The glaring failure?  Data.
+quandl	708350409891573761	2016-03-11T17:54:32	7. Every aspect of the Knowledge Navigator video rings true to life in 2016, except one.
+quandl	708350346205200384	2016-03-11T17:54:17	6. Pretty impressive!
+quandl	708350310041968640	2016-03-11T17:54:09	5. And above all, they predicted a global connected repository of all human knowledge.  Aka, the internet.
+quandl	708350251346862080	2016-03-11T17:53:55	4. They also designed recognizably modern communication, calendar, and productivity apps.
+quandl	708350189715722240	2016-03-11T17:53:40	3. Apple correctly predicted hardware form factors, multi-touch, voice recognition, personal AI assistants and other UI advances
+quandl	708350148989030400	2016-03-11T17:53:30	2. For a 1987 production, this video is astonishingly prescient.
+quandl	708350038766981125	2016-03-11T17:53:04	1. It's been almost 30 years since Apple created the famous "Knowledge Navigator" video: 
+quandl	708021086282186753	2016-03-10T20:05:56	Hedge HFT, improve Sharpe ratio, predict volatility with AbleMarkets Daily Aggressive HFT Index, now on Quandl: 
+quandl	708040256596123648	2016-03-10T21:22:06	Instant classic blog post by mattturck: "Can the Bloomberg Terminal be toppled?"  . Comments also excellent.
+quandl	708008102776410113	2016-03-10T19:14:20	The best processes, in data analysis or elsewhere, merge these strengths.
+quandl	708006309434679296	2016-03-10T19:07:12	Humans are good at identification, classification, disambiguation, edge cases. Machines are good at repetition, efficiency, core tasks.
+quandl	707986640350875649	2016-03-10T17:49:03	Do the Fama-French factors work in emerging markets?  Interesting new research: 
+quandl	707945403451367424	2016-03-10T15:05:11	"A business with terrific economics can be a bad investment if it is bought at too high a price." Buffettisms 
+quandl	707933367170420736	2016-03-10T14:17:22	8. And now this data is available to retail investors, via Quandl:  
+quandl	707933321255395328	2016-03-10T14:17:11	7. Not only is this data available, we also have the computing power to make sense of it all. Parse, process and synthesize.
+quandl	707933277798207488	2016-03-10T14:17:00	6. Today we have access to virtually infinite amounts of investor opinion, thanks to blogs, social media and self-publishing.
+quandl	707933245166493696	2016-03-10T14:16:53	5. But today we have the internet. And the internet changes everything.
+quandl	707933207958835200	2016-03-10T14:16:44	4. This was inaccurate, inefficient, unscaleable and unreliable; prone to selection bias, confirmation bias, and countless other flaws.
+quandl	707933150136111105	2016-03-10T14:16:30	3. Historically, sentiment traders relied on anecdote, observation and pattern-matching, to gauge the general mood.
+quandl	707933103814266880	2016-03-10T14:16:19	2. Some use fundamental analysis; others use technical indicators; still others trade based on psychology and sentiment.
+quandl	707933052685709313	2016-03-10T14:16:07	1. For as long as there have been stock markets, there have been investors trying to beat the markets.
+quandl	707893554937470976	2016-03-10T11:39:10	#7: Pride. The market knows more than you and always will. Forget this truth at your peril.
+quandl	707746579885719552	2016-03-10T01:55:08	#6: Envy. To be like the best, emulate their rigor and discipline; not their models. Copycats fail.
+quandl	707696168214646784	2016-03-09T22:34:49	#5: Anger. Never get emotional. All models eventually fail. Recognize failure, and react rationally.
+quandl	707648602890379264	2016-03-09T19:25:49	#4: Sloth. If you are lazy or sloppy with your data, you will fail.
+quandl	707603021048446976	2016-03-09T16:24:41	#3: Lust. You will be tempted to iterate on out-of-sample data. Don't do it.
+quandl	707575241623642112	2016-03-09T14:34:18	#2: Gluttony. Do not extend your model beyond its natural scope. Stick to what you know.
+quandl	707575026267062272	2016-03-09T14:33:27	#1: Greed. Do not overfit your model. Stay lean and parsimonious.
+quandl	707574879768469504	2016-03-09T14:32:52	The Seven Deadly Sins of Quantitative Analysts:
+quandl	707367857982709760	2016-03-09T00:50:14	1 data point in a vacuum is meaningless.  10 data points can tell a story.  100 data points can reveal a pattern.
+quandl	707347773293793280	2016-03-08T23:30:25	NickatFP Good idea!  We'll put that together as soon as we can.
+quandl	707315476326645760	2016-03-08T21:22:05	Our coverage of European futures now includes three immaculate databases designed for professional data users: 
+quandl	707281547985027073	2016-03-08T19:07:16	A tool for every job and every job has its own tool.  The state of data analysis in 2016: 
+quandl	707261875805949952	2016-03-08T17:49:06	Data used to be a scarce resource: hard to produce, hard to acquire, hard to use effectively.  Not any more. 
+quandl	707220635118903296	2016-03-08T15:05:13	100s of financial indicators for 1000s of Chinese companies, now on Quandl: 
+quandl	707199651733250048	2016-03-08T13:41:50	Darwinian allocation of risk capital seems to be more popular than ever these days. 
+quandl	707005440756989954	2016-03-08T00:50:07	"But if the value comes from combining different data sets, so does the headache" - the NYT on a pre-Quandl world: 
+quandl	706953102650384384	2016-03-07T21:22:08	"Over the long run, portfolios with programmatic circuit breakers tend to underperform those without." 
+quandl	706930594987577344	2016-03-07T19:52:42	crushspread Investigating.
+quandl	706919116616167424	2016-03-07T19:07:05	Peak hedge fund?  Recent closures suggest an industry in the midst of transformation: 
+quandl	706905925962088448	2016-03-07T18:14:41	Good data does not excuse bad analysis.  And good analysis cannot redeem bad data. 
+quandl	706884781959680000	2016-03-07T16:50:39	"Trend-Following Works".  Recent research summarized by larryswedroe:    (h/t quantocracy)
+quandl	706875148494905344	2016-03-07T16:12:23	Intraday data is finally here!  Quandl launches 5 databases of minute bar data for US equities: 
+quandl	706864235423334400	2016-03-07T15:29:01	Explore the variety of alternative data being used within the finance industry in quandl's presentation at FTX16 
+quandl	706508611174924288	2016-03-06T15:55:53	thedamon Unfortunately we don't have a good free source for TSE stocks. Your best alternative is  - hope this helps!
+quandl	705865921919844352	2016-03-04T21:22:04	No matter how smart you are, you can still get stuck in a local minimum.
+quandl	705832084355600384	2016-03-04T19:07:37	The Zoolander Effect: when models come back from the dead. 
+quandl	705812358602629120	2016-03-04T17:49:14	Close-based volatility over-reacts to big daily moves and under-measures intraday vol.  Use tick-based vol instead. 
+quandl	705644877426462721	2016-03-04T06:43:43	Quantocracy’s Daily Wrap for 03/03/2016 
+quandl	705555983267995648	2016-03-04T00:50:29	Data gains value from context. The more context (related data) you have, the more valuable your data.
+quandl	705503542669406208	2016-03-03T21:22:06	Fun article by Cantab Capital: "Tech is Alpha". .   (h/t the excellent quantocracy)
+quandl	705469562381271040	2016-03-03T19:07:05	Do programmatic circuit-breakers and stop-losses help or hinder automated trading strategies? 
+quandl	705449935957843968	2016-03-03T17:49:06	ICYMI: Jeremy Grantham's quarterly letter to investors: 
+quandl	705408740967772160	2016-03-03T15:05:24	What are world markets doing? Barchart's global indexes show the answer: 
+quandl	705373983257059328	2016-03-03T12:47:17	Glencore lost $5 billion in 2015.  With commodity price action like this, it's no surprise: 
+quandl	705193632748408833	2016-03-03T00:50:38	What good is data if you can't use it the way you want?  
+quandl	705141181521514496	2016-03-02T21:22:13	Resist the temptation to add degrees of freedom. The added explanatory power is rarely worth the reduced robustness.
+quandl	705107197261438976	2016-03-02T19:07:10	"Take a tedious, half-hour process and cut it down to 10 seconds" - tekamel's goal when building quandl: 
+quandl	705087546812977153	2016-03-02T17:49:05	Unorthodox datasets are a potent source for new trading ideas: 
+quandl	705046282176483328	2016-03-02T15:05:07	"It’s better to have a partial interest in the Hope Diamond than to own all of a rhinestone." Buffett, 2015: 
+quandl	705011578635157504	2016-03-02T12:47:13	Getting started in futures trading?  Learn the jargon with Quandl's futures glossary: 
+quandl	704831122048487424	2016-03-02T00:50:09	Data should not cost the earth. Quandl's startup data plans help entrepreneurs get high-quality data at low prices. 
+quandl	704778741810122752	2016-03-01T21:22:00	Data, markets, analogies, history: where one professional portfolio manager gets ideas for her trades. 
+quandl	704744776009175040	2016-03-01T19:07:02	"Data! Data! Data! I can’t make bricks without clay!" - Sherlock Holmes, The Adventure of the Copper Beeches
+quandl	704725196574482436	2016-03-01T17:49:14	We've partnered with Barchart, one of the top fintech firms in the world! See their European futures data here: 
+quandl	704683913910816768	2016-03-01T15:05:12	A high point in any thoughtful investor's calendar: Berkshire Hathaway's annual letter to shareholders. 
+quandl	704649152161046528	2016-03-01T12:47:04	Data used to be a scarce resource. Now it is ubiquitous. This changes everything.
+quandl	704468702557769728	2016-03-01T00:50:01	"Excel is fragile, impossible to audit, operationally risky, non-performant, and prone to hanging. I still use it." 
+quandl	704416367747928065	2016-02-29T21:22:04	Data is as data does. Data is never valuable or powerful in itself. Its worth lies in what you do with it.
+quandl	704382387006914560	2016-02-29T19:07:02	Get 100+ fundamental indicators and ratios for thousands of Chinese public companies through DataYes on Quandl 
+quandl	704362763133575169	2016-02-29T17:49:03	"My biggest fear is data contamination." How one quant guards against biased model outcomes. 
+quandl	704321478448320512	2016-02-29T15:05:00	Launching a data marketplace: Quandl’s 1-year restrospective. 
+quandl	704286774756036609	2016-02-29T12:47:06	Today's best data analysts are data wranglers, modelers, optimizers, visualizers and communicators, all in one. 
+quandl	703381587254255616	2016-02-27T00:50:13	Chinese ag futures trading accounts for 58% of the global market. See the raw data: 
+quandl	703329196727263233	2016-02-26T21:22:02	"Why isn’t there a site where I can type "uranium prices" and get a clean dataset?" How tekamel founded quandl: 
+quandl	703295274798735360	2016-02-26T19:07:14	"It’s easy to fool yourself into thinking you’ve built a predictive model": wise words from a professional quant. 
+quandl	703275613482778624	2016-02-26T17:49:07	The value of data is the value of the insight that can be extracted from it.  Without that insight, data is worthless.
+quandl	703234343276310530	2016-02-26T15:05:07	China in the news: explore Quandl's data on Chinese stocks, fundamentals, industry and economy:  
+quandl	703199586484097024	2016-02-26T12:47:00	"Economics does not change when you cross borders", and other ways to test model robustness. 
+quandl	703019189578166275	2016-02-26T00:50:10	Simulating PL from gamma-hedging a position intraday is the best way to calculate the "true" volatility of a stock. 
+quandl	702966831578017792	2016-02-25T21:22:07	Latest free data on Quandl: futures data from Dalian, CFFEX, Zhengzhou and Shanghai.  
+quandl	702920062760517632	2016-02-25T18:16:17	Interview with a Quant, Part 3:  a portfolio manager at a large hedge fund answers reader questions. 
+quandl	702919996700237825	2016-02-25T18:16:01	Interview with a Quant, Part 2:  converting theoretical models into production trading strategies. 
+quandl	702919922532409344	2016-02-25T18:15:43	Interview with a Quant: Quandl asks a professional portfolio manager how she creates new trading models. 
+quandl	702649315555217408	2016-02-25T00:20:26	tad_zs Thanks for the shoutout, Tad!
+quandl	702555486084796416	2016-02-24T18:07:35	is easy to think you’ve built a predictive model,when you’ve merely overfitted   via quandl 
+quandl	702549805067866112	2016-02-24T17:45:00	How do you determine if the trading strategy is dead or just having a bad time?  quandl
+quandl	702517113106206721	2016-02-24T15:35:06	Quantocracy Thank you for the RT! You're on our required reading list.
+quandl	702504180100046849	2016-02-24T14:43:43	A Quants Approach to Building Trading Strategies: Part Three [Quandl] 
+quandl	702186148362321920	2016-02-23T17:39:58	FayeKilburn We loved the article, Faye!
+quandl	701483553607946240	2016-02-21T19:08:06	Quandl Applies Search to Firms’ Internal Data 
+quandl	702114254619435008	2016-02-23T12:54:17	I had a really cool opportunity to speak with Brandon on his TradingStory podcast this week. You can listen here:  🔊
+quandl	701809739257110529	2016-02-22T16:44:15	The Best Links While I Was Away:   With TuringFinance, Quandl, InvestingIdiocy, AlphaArchitect and ThinkNewfound
+quandl	701802243432062976	2016-02-22T16:14:28	chatwithtraders Thank you, Aaron!
+quandl	701344130975150080	2016-02-21T09:54:05	[READ] A Quant’s Approach to Building Trading Strategies – Part Two:  by Quandl
+quandl	700750913649020929	2016-02-19T18:36:51	p_giannuzzo Glad you liked it, Pierluigi!
+quandl	700743014562426880	2016-02-19T18:05:28	Want to talk to other analysts about what Quandl data they use and why? There's a thread on reddit:  DataAnalytics
+quandl	700723429469609984	2016-02-19T16:47:39	BookMapXray Our engineering team will be thrilled to hear that!
+quandl	700715103318978561	2016-02-19T16:14:33	BookMapXray Thank you, Jim! p.s. Nice profile pic!
+quandl	700714649428238336	2016-02-19T16:12:45	bennpeifert Thank you for reading, Benn! If you have any questions for our quant, she'd love to answer them.
+quandl	700685076669968384	2016-02-19T14:15:15	2 part article on building trading models: (via quandl )   
+quandl	700425022691745792	2016-02-18T21:01:53	quandl quant interview part 2: quality reading... 
+quandl	700410312852287488	2016-02-18T20:03:26	Here’s the second part of our interview with a quant. She’ll respond to questions in the comment section! 
+quandl	700020027546824704	2016-02-17T18:12:34	.michael_fich from quandl talking to teamgort at BitmakerHQ about overcoming Imposter syndrome as a junior dev! 
+quandl	699824969770016768	2016-02-17T05:17:29	Amazing product!!! Thanks for your wonderful work! 
+quandl	700001652552687617	2016-02-17T16:59:34	Profee_l Thank you!!
+quandl	699082507178876929	2016-02-15T04:07:12	Data Hungry? Stream free financial, economic, social data straight into Excel quandl 
+quandl	698892768081530881	2016-02-14T15:33:15	Chris Stevens, Head of Free Data quandl, presenting at utscfinancehacks UTSCLibrary 
+quandl	698552647381618688	2016-02-13T17:01:44	essentials of quandl - learn more about them at  utscfinancehacks
+quandl	698258194129297409	2016-02-12T21:31:41	tad_zs Thank you, Tad!
+quandl	698201732912914433	2016-02-12T17:47:19	Excited to meet tomorrow’s leaders in finance and technology at utscfinancehacks tomorrow!
+quandl	698181659888201728	2016-02-12T16:27:33	stockvider Thank you for your support!!!
+quandl	697844721637523457	2016-02-11T18:08:41	A Quant's Approach to Building Trading Strategies: Part One [Quandl] 
+quandl	697823879209881600	2016-02-11T16:45:52	This Saturday, we’ll show UofT students how to use quandl at utscfinancehacks
+quandl	694528383678435328	2016-02-02T14:30:45	"Realized volatility prediction is useful for implied volatility prediction, but not in the way you would expect” 
+quandl	694203596368252929	2016-02-01T17:00:09	Is GeorgeSoros right to bet against Asian currencies?  China Currency
+quandl	694061510088232960	2016-02-01T07:35:33	Quandl Tutorial: learn to use quandl in R  rstats DataScience
+quandl	694091494140088320	2016-02-01T09:34:42	How to get financial and economics data in R by using quandl 
+quandl	693134813302116352	2016-01-29T18:13:11	The rollout of XBRL is complete--it’s poised to unlock huge amounts of value in small cap stocks  XBRL Smallcap
+quandl	693079190736867330	2016-01-29T14:32:10	Need Chinese futures data?  China Futures
+quandl	692814650350567425	2016-01-28T21:00:59	Interview with georgesoros in nytimesbooks:"‘The EU is on the verge of collapse."  Soros EuropeanUnion
+quandl	692745381201969152	2016-01-28T16:25:44	Just released: free Chinese futures databases  Futures China
+quandl	692711347818098690	2016-01-28T14:10:29	Thanks to whalecalls' suggestion, we just added data directly from OKCoin Bitcoin Exchange. Get it here:  bitcoin
+quandl	692709529897664512	2016-01-28T14:03:16	whalecalls You got it! We just added data directly from the OKCoin Bitcoin Exchange: . Hope this helps :)
+quandl	692639935698976768	2016-01-28T09:26:43	quandl and alteryx make the most awesome financial data suite :)
+quandl	692456434278219776	2016-01-27T21:17:33	Bill Ackman explains why pershingsquare suffered "worst annual performance ever."  
+quandl	692424592393179137	2016-01-27T19:11:02	whalecalls Unfortunately, that's the data provided by the source: . We'll continue to monitor it for updates.
+quandl	692417298427187202	2016-01-27T18:42:03	Lots of interesting tidbits in Bill Ackman's annual letter to pershingsquare investors 
+quandl	691629652004245508	2016-01-25T14:32:13	By bundling data, traditional providers limit what analysts can do with the data they’ve paid for 
+quandl	690572353949061120	2016-01-22T16:30:54	The new financial analyst: how technology is revolutionizing equity research 
+quandl	690545034832257024	2016-01-22T14:42:20	Great insight from TEKamel and Quandl on the future of financial data  via newrulesinvest
+quandl	690276729022099456	2016-01-21T20:56:11	Excited! SAPLumira open sourced extension on Quandl site!  Kudos vamsiraju! SAPAnalytics 
+quandl	690204831236026368	2016-01-21T16:10:29	Unbundling financial data, Tammer Kamel’s Quandl is powering an entire finance app ecosystem 
+quandl	690184394909216768	2016-01-21T14:49:17	@mattgonz0 If there's any way we can help get you started, just let us know
+quandl	690182437264084992	2016-01-21T14:41:30	Looking for index constituents? ISO country or currency codes? Futures metadata?  Quandl has you covered: 
+quandl	689916212038373380	2016-01-20T21:03:37	jkregenstein You made our day, Jonathan!
+quandl	689829050337067008	2016-01-20T15:17:16	The days of single-tool specialists are over. The best analysts know that different tasks require different tools. 
+quandl	689169199600656384	2016-01-18T19:35:15	KristinBurke16 Yes, you can do that! Send an email to connect@quandl.com and we'll walk you through it.
+quandl	689096253980983296	2016-01-18T14:45:24	PaulCynic Thank you, Paul! We love making data analysts happy!
+quandl	688000892344340480	2016-01-15T14:12:49	Wrangling data doesn't need to be a chore 
+quandl	687670575909584896	2016-01-14T16:20:16	Quandl now has largest futures data collection on the internet: 
+quandl	679130891118080000	2015-12-22T02:46:36	Dave Ambrose daveambrose writes ProductHunt: quandl is breaking down walls and making the world smarter! 
+quandl	679127815091052544	2015-12-22T02:34:23	daveambrose ProductHunt writes about how quandl is breaking down walls and making the world smarter! 
+quandl	672843594701606912	2015-12-04T18:23:08	Thrilled to announce that barchart European futures data is now available on quandl: 
+quandl	666667595903459328	2015-11-17T17:21:55	✨ Announcement ✨ 100% of Plotly's JavaScript charting library is now free and open-source.  
+quandl	661999032764534784	2015-11-04T20:10:43	t_dunmore please send us an e-mail at connect@quandl.com and we are happy to assist!!
+quandl	649719406621274112	2015-10-01T22:55:52	Data is Happiness.
+quandl	643070172404695041	2015-09-13T14:34:11	quandl ,  powered by Quandl data from Quotemedia, Stevens Analytics, and ORATS. ZOONOVA® is a Free Fintech web app
+quandl	634366962773164032	2015-08-20T14:10:44	Some ClosingBellCo data is now listed on quandl. Now you can use crowdsourced stock ratings in your algos. Next step… quantopian stocks
+quandl	634440928133029888	2015-08-20T19:04:39	Sandbox is psyched to welcome quandl and ZacksResearch to the family! 
+quandl	625469250346553344	2015-07-27T00:54:24	biofeed thalesians georgepearkes Zacks has what you're looking for: 
+quandl	624581658465824768	2015-07-24T14:07:26	added seasonality code to PyThalesians  - eg. FX spot seasonality plot with quandl data! 
+quandl	624383850093936640	2015-07-24T01:01:25	.quandl has some amazing free data sets. I don't use them enough, but look at this stuff! Really cool. 
+quandl	621404790933819392	2015-07-15T19:43:41	WOW! Our original quandl free data  set hit 1.3 MM downloads.
+quandl	621017887101194240	2015-07-14T18:06:16	Welcome WooTrader to the family of QuandlApps!
+quandl	620604546553933824	2015-07-13T14:43:48	Want to track when corporations buy their own stock?  US corporate buyback data:  
+quandl	618824876711931905	2015-07-08T16:52:02	gbatuyong sorry, not possible.  but your need is noted.  will see what we can do with next version of API.
+quandl	618823982633123840	2015-07-08T16:48:29	chhantyal Hi Nar.  not sure exactly what you want to do.  perhaps you need continuous contracts:  
+quandl	611201791791890432	2015-06-17T16:00:37	And the next new Quandl IAs is a home value lookup for the US. Works with place names &amp; zips  
+quandl	611147562582675456	2015-06-17T12:25:08	The first of two new InstantAnswers by Quandl, this one gets company fundamentals for you:   
+quandl	610465296135098368	2015-06-15T15:14:03	Price histories for individual historical contracts for 50 different futures.   
+quandl	606149365124628482	2015-06-03T17:24:05	FayeKilburn any specific points for improvement?
+quandl	606145032207241216	2015-06-03T17:06:51	For example:  Beijing Creative Distribution Automation Co.,Ltd.  ChineseStock 
+quandl	606144220949143552	2015-06-03T17:03:38	Chinese stock prices from DataYes   
+quandl	604839089834209281	2015-05-31T02:37:31	Fintech APIs roundup: quandl looks far ahead of xignite. While kimono_sec + thinknum still in early stage. Any that I'm missing?
+quandl	604562134899507200	2015-05-30T08:16:59	Find the InfoTrie FinSentS News Stock Sentiment indicators on   by quandl
+quandl	604737419611656192	2015-05-30T19:53:30	57even thanks for the note; please email the url to connect@quandl.com.  We'll check it out.
+quandl	604385255429115904	2015-05-29T20:34:08	LRRoberts0122 Thanks, Lindsay!
+quandl	602941017919201280	2015-05-25T20:55:15	Python NumPy / SciPy / Pandas Cheat Sheet for DataScientists:  BigData DataScience by quandl

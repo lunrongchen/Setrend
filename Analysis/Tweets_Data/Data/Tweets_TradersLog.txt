@@ -1,0 +1,1080 @@
+TradersLog	726228369738702848	2016-04-30T01:55:10	10:00am ET: Revised University of Michigan Inflation Expectations 
+TradersLog	726047210941612032	2016-04-29T13:55:19	10:00am ET: Revised University of Michigan Consumer Sentiment 
+TradersLog	726043474219401216	2016-04-29T13:40:28	9:45am ET: Chicago PMI 
+TradersLog	726024543098310656	2016-04-29T12:25:14	8:30am ET: Canada IPPI m/m 
+TradersLog	726024542901116928	2016-04-29T12:25:14	8:30am ET: Canada GDP m/m 
+TradersLog	726024542804647937	2016-04-29T12:25:14	8:30am ET: Personal Spending m/m 
+TradersLog	726024542196523012	2016-04-29T12:25:14	8:30am ET: Canada RMPI m/m 
+TradersLog	726024541886111744	2016-04-29T12:25:14	8:30am ET: Personal Income m/m 
+TradersLog	726024541609320448	2016-04-29T12:25:14	8:30am ET: Employment Cost Index q/q 
+TradersLog	726016983637057536	2016-04-29T11:55:12	8:00am ET: MPC Member Cunliffe Speaks 
+TradersLog	726011732901158912	2016-04-29T11:34:20	Market Minute – firm yen rattles global markets  USDJPY GC_F SPY USDX
+TradersLog	725971674311581697	2016-04-29T08:55:09	5:00am ET: Eurozone Unemployment Rate 
+TradersLog	725971674278010880	2016-04-29T08:55:09	5:00am ET: Eurozone CPI Flash Estimate y/y 
+TradersLog	725971673527291904	2016-04-29T08:55:09	5:00am ET: Italian Prelim CPI m/m 
+TradersLog	725964132021854209	2016-04-29T08:25:11	4:30am ET: UK Net Lending to Individuals m/m 
+TradersLog	725964131812151298	2016-04-29T08:25:11	4:30am ET: UK Mortgage Approvals 
+TradersLog	725964130830659584	2016-04-29T08:25:11	4:30am ET: UK M4 Money Supply m/m 
+TradersLog	725956582811521024	2016-04-29T07:55:11	4:00am ET: Italian Monthly Unemployment Rate 
+TradersLog	725956582761193473	2016-04-29T07:55:11	4:00am ET: SNB Chairman Jordan Speaks 
+TradersLog	725941480284545024	2016-04-29T06:55:10	3:00am ET: Spanish Flash GDP q/q 
+TradersLog	725941479386943492	2016-04-29T06:55:10	3:00am ET: KOF Economic Barometer 
+TradersLog	725937732992700417	2016-04-29T06:40:17	2:45am ET: French Consumer Spending m/m 
+TradersLog	725937730354434051	2016-04-29T06:40:16	2:45am ET: French Preliminary CPI m/m 
+TradersLog	725926365636104192	2016-04-29T05:55:07	2:00am ET: German Retail Sales m/m 
+TradersLog	725918816983617536	2016-04-29T05:25:07	1:30am ET: French Prelim GDP q/q 
+TradersLog	725892444651311105	2016-04-29T03:40:19	11:45pm ET: RBA Assist Governor Debelle Speaks 
+TradersLog	725858436467068934	2016-04-29T01:25:11	9:30pm ET: Australia PPI q/q 
+TradersLog	725858435481358336	2016-04-29T01:25:11	9:30pm ET: Australia Private Sector Credit m/m 
+TradersLog	725850889009909761	2016-04-29T00:55:12	9:00pm ET: ANZ Business Confidence 
+TradersLog	725822227476807680	2016-04-28T23:01:18	7:05pm ET: GfK Consumer Confidence 
+TradersLog	725816943496859649	2016-04-28T22:40:19	6:45pm ET: New Zealand Building Consents m/m 
+TradersLog	725749275951554560	2016-04-28T18:11:25	2 Reasons to Avoid Stocks: Bad Earnings, China  SPY
+TradersLog	725692380108734465	2016-04-28T14:25:20	10:30am ET: Natural Gas Storage 
+TradersLog	725662168906125312	2016-04-28T12:25:17	8:30am ET: Advance GDP Price Index q/q 
+TradersLog	725662168167927809	2016-04-28T12:25:17	8:30am ET: Initial Jobless Claims 
+TradersLog	725662168100786176	2016-04-28T12:25:17	8:30am ET: Advance GDP q/q 
+TradersLog	725625255310561285	2016-04-28T09:58:36	Introduction to Market Profile 
+TradersLog	725622801869189120	2016-04-28T09:48:52	Understanding Support and Resistance 
+TradersLog	725592956305084416	2016-04-28T07:50:16	3:55am ET: German Unemployment Change 
+TradersLog	725579099712983040	2016-04-28T06:55:12	3:00am ET: Spanish Unemployment Rate 
+TradersLog	725579097225699328	2016-04-28T06:55:12	3:00am ET: Spanish Flash CPI y/y 
+TradersLog	725563986935209984	2016-04-28T05:55:09	2:00am ET: UK Nationwide HPI m/m 
+TradersLog	725548888158031872	2016-04-28T04:55:09	1:00am ET: Japan Housing Starts y/y 
+TradersLog	725548887365304321	2016-04-28T04:55:09	1:00am ET: BOJ Outlook Report 
+TradersLog	725496044813967360	2016-04-28T01:25:10	9:30pm ET: Australia Import Prices q/q 
+TradersLog	725473413603704832	2016-04-27T23:55:15	7:50pm ET: Japan Retail Sales y/y 
+TradersLog	725470945775915008	2016-04-27T23:45:26	7:50pm ET: Japan Preliminary Industrial Production m/m 
+TradersLog	725465862833070083	2016-04-27T23:25:14	7:30pm ET: Japan Household Spending y/y 
+TradersLog	725465862791135232	2016-04-27T23:25:14	7:30pm ET: Japan Unemployment Rate 
+TradersLog	725465861927088128	2016-04-27T23:25:14	7:30pm ET: Japan National Core CPI y/y 
+TradersLog	725465861075685378	2016-04-27T23:25:14	7:30pm ET: Tokyo Core CPI y/y 
+TradersLog	725428131738308608	2016-04-27T20:55:19	5:00pm ET: RBNZ Rate Statement 
+TradersLog	725428131734118401	2016-04-27T20:55:19	5:00pm ET: RBNZ Official Cash Rate 
+TradersLog	725340319538098177	2016-04-27T15:06:23	Twitter’s Jack Dorsey one-on-one with CNBC  TWTR
+TradersLog	725337498453442560	2016-04-27T14:55:10	Here’s What Apple Should Do Next  AAPL
+TradersLog	725329990020116481	2016-04-27T14:25:20	10:30am ET: Crude Oil Inventories 
+TradersLog	725322441627734017	2016-04-27T13:55:20	10:00am ET: Pending Home Sales m/m 
+TradersLog	725299780650438656	2016-04-27T12:25:17	8:30am ET: Goods Trade Balance 
+TradersLog	725287337693958144	2016-04-27T11:35:51	Roundup of AAPL stories 
+TradersLog	725283644877709312	2016-04-27T11:21:10	Market Minute: Apple revenue decline, equities mixed  AAPL SPY AUDUSD
+TradersLog	725262023802515456	2016-04-27T09:55:15	6:00am ET: UK CBI Realized Sales 
+TradersLog	725239355615358976	2016-04-27T08:25:11	4:30am ET: UK Prelim GDP q/q 
+TradersLog	725239355590230016	2016-04-27T08:25:11	4:30am ET: UK Index of Services 3m/3m 
+TradersLog	725232100971008000	2016-04-27T07:56:21	Twitter Posts Disappointing Revenue and Forecast  TWTR
+TradersLog	725231814764290048	2016-04-27T07:55:13	4:00am ET: Eurozone M3 Money Supply y/y 
+TradersLog	725231812499349505	2016-04-27T07:55:12	4:00am ET: Eurozone Private Loans y/y 
+TradersLog	725230818512277504	2016-04-27T07:51:15	Will the Fed Give the Dollar Any Love?  USDX
+TradersLog	725228154403561472	2016-04-27T07:40:40	USD/CAD seeks new lows as Fed decision looms and oil remains buoyant  USDCAD
+TradersLog	725225921628782592	2016-04-27T07:31:48	What’s next for Apple?  AAPL
+TradersLog	725225306685059072	2016-04-27T07:29:21	Is Apple going rotten?  AAPL
+TradersLog	725201595105959937	2016-04-27T05:55:08	2:00pm ET: FOMC Statement 
+TradersLog	725201594938200064	2016-04-27T05:55:08	2:00am ET: UBS Consumption Indicator 
+TradersLog	725201594439065600	2016-04-27T05:55:08	2:00pm ET: Federal Funds Rate 
+TradersLog	725201594237763584	2016-04-27T05:55:08	2:00am ET: German Import Prices m/m 
+TradersLog	725201593822490624	2016-04-27T05:55:08	2:00am ET: GfK German Consumer Climate 
+TradersLog	725178946065711104	2016-04-27T04:25:08	12:30am ET: Japan All Industries Activity m/m 
+TradersLog	725133659750158336	2016-04-27T01:25:11	9:30pm ET: Australia CPI q/q 
+TradersLog	725092179379630080	2016-04-26T22:40:21	6:45pm ET: New Zealand Trade Balance 
+TradersLog	725010755590959104	2016-04-26T17:16:48	Long or Short USD/JPY  USDJPY
+TradersLog	725008681897725952	2016-04-26T17:08:34	#1 Apple analyst on earnings  AAPL
+TradersLog	725005378602291200	2016-04-26T16:55:26	1:00pm ET: MPC Member Cunliffe Speaks 
+TradersLog	724960080693727233	2016-04-26T13:55:27	10:00am ET: CB Consumer Confidence 
+TradersLog	724960080525942784	2016-04-26T13:55:26	10:00am ET: Richmond Manufacturing Index 
+TradersLog	724957597363785729	2016-04-26T13:45:34	9:50am  ET: BOC Governor Poloz Speaks 
+TradersLog	724956325210365952	2016-04-26T13:40:31	9:45am ET: Flash Services PMI 
+TradersLog	724952511656910849	2016-04-26T13:25:22	9:30pm ET: Australia Trimmed Mean CPI q/q 
+TradersLog	724944981857832960	2016-04-26T12:55:27	9:00am ET: S&amp;P/CS Composite-20 HPI y/y 
+TradersLog	724943729648406529	2016-04-26T12:50:28	8:55am ET: BOC Governor Poloz Speaks 
+TradersLog	724940185499258880	2016-04-26T12:36:23	All eyes on Apple earnings: Here’s what to watch  AAPL
+TradersLog	724937394454065152	2016-04-26T12:25:18	8:30am ET: Durable Goods Orders m/m 
+TradersLog	724921973260845056	2016-04-26T11:24:01	What to expect when Facebook reports its quarterly earnings on Wednesday  FB
+TradersLog	724912918358286337	2016-04-26T10:48:02	Cable Soars as Brexit Recedes – But are UK Voters Lying to Pollsters?  GBPUSD
+TradersLog	724910460684910592	2016-04-26T10:38:16	Market Minute: Sterling pushes higher and oil holds steady  GBPUSD CL_F OIL AAPL
+TradersLog	724878737804775424	2016-04-26T08:32:13	How China’s Tech Regulations Impact Apple  AAPL
+TradersLog	724877223967232000	2016-04-26T08:26:12	Goldman’s mass market online bank  GS
+TradersLog	724876971734405121	2016-04-26T08:25:12	4:30am ET: UK BBA Mortgage Approvals 
+TradersLog	724869370246250496	2016-04-26T07:54:59	Global Tensions Lessened, but Bound to Increase Ahead of June FOMC Meeting  SPY USDX
+TradersLog	724864703944622081	2016-04-26T07:36:27	USD/CHF retreats from resistance ahead of FOMC  USDCHF
+TradersLog	724684065669021697	2016-04-25T19:38:39	Saudi Arabia addicted to oil, says deputy crown prince  CL_F USO OIL XOM BP RIG
+TradersLog	724633091998908416	2016-04-25T16:16:06	USD/JPY pares gains ahead of Fed/BoJ  USDJPY
+TradersLog	724630268720635904	2016-04-25T16:04:53	Apple now ‘outdated?’  AAPL TSLA
+TradersLog	724597660569751552	2016-04-25T13:55:19	10:00am ET: New Home Sales 
+TradersLog	724593369037586432	2016-04-25T13:38:16	Tech wreck earnings  IBM MSFT GOOG
+TradersLog	724582592985600002	2016-04-25T12:55:26	9:00am ET: Belgian NBB Business Climate 
+TradersLog	724576992180469760	2016-04-25T12:33:11	Andrei Knight Webinar: Trading the Forex Market 
+TradersLog	724559000281485312	2016-04-25T11:21:41	Equities in retreat, oil prices drop  SPY CL_F OIL USO USDJPY
+TradersLog	724544391923294208	2016-04-25T10:23:39	Google and Microsoft Called a Truce  GOOG MSFT
+TradersLog	724537245559066624	2016-04-25T09:55:15	6:00am ET: CBI Industrial Order Expectations 
+TradersLog	724508417356914688	2016-04-25T08:00:42	German Ifo Business Climate 106.6 vs. 107.1 expected 
+TradersLog	724507029604339713	2016-04-25T07:55:11	4:00am ET: German Ifo Business Climate 
+TradersLog	724504015661211648	2016-04-25T07:43:12	Apple could face its first earnings drop for more than a decade  AAPL
+TradersLog	723552489530900480	2016-04-22T16:42:11	Day Trading Techniques for the ES, 6E and Index Futures 
+TradersLog	723506757285347330	2016-04-22T13:40:27	9:45am ET: Flash Manufacturing PMI 
+TradersLog	723487833579765760	2016-04-22T12:25:15	8:30am ET: Canada Retail Sales m/m 
+TradersLog	723487833558753280	2016-04-22T12:25:15	8:30am ET: Canada CPI m/m 
+TradersLog	723434961307459585	2016-04-22T08:55:10	5:00am ET: Italian Retail Sales m/m 
+TradersLog	723419870004535296	2016-04-22T07:55:12	4:00am ET: Eurozone Flash Manufacturing PMI 
+TradersLog	723419869551558656	2016-04-22T07:55:12	4:00am ET: Eurozone Flash Services PMI 
+TradersLog	723412311575158784	2016-04-22T07:25:10	3:30am ET: German Flash Manufacturing PMI 
+TradersLog	723412310329450497	2016-04-22T07:25:09	3:30am ET: German Flash Services PMI 
+TradersLog	723404768081666049	2016-04-22T06:55:11	3:00am ET: French Flash Services PMI 
+TradersLog	723404765577646082	2016-04-22T06:55:10	3:00am ET: French Flash Manufacturing PMI 
+TradersLog	723367009904259072	2016-04-22T04:25:09	12:30am ET: Japan Tertiary Industry Activity m/m 
+TradersLog	723155662725910528	2016-04-21T14:25:20	10:30am ET: Natural Gas Storage 
+TradersLog	723148126337544193	2016-04-21T13:55:23	10:00am ET: Eurozone Consumer Confidence 
+TradersLog	723148125762912256	2016-04-21T13:55:23	10:00pm ET: Japan Flash Manufacturing PMI 
+TradersLog	723148125683236864	2016-04-21T13:55:23	10:00am ET: BOE Governor Carney Speaks 
+TradersLog	723148125544820736	2016-04-21T13:55:23	10:00am ET: CB Leading Index m/m 
+TradersLog	723133051778260992	2016-04-21T12:55:29	9:00am ET: HPI m/m 
+TradersLog	723125457269432320	2016-04-21T12:25:18	8:30am ET: ECB Press Conference 
+TradersLog	723125457164488704	2016-04-21T12:25:18	8:30am ET: Initial Jobless Claims 
+TradersLog	723125456971665408	2016-04-21T12:25:18	8:30am ET: Philly Fed Manufacturing Index 
+TradersLog	723114144099143680	2016-04-21T11:40:21	7:45am ET: ECB Minimum Bid Rate 
+TradersLog	723065030833516544	2016-04-21T08:25:11	4:30am ET: UK Retail Sales m/m 
+TradersLog	723065030053400577	2016-04-21T08:25:11	4:30am ET: UK Public Sector Net Borrowing 
+TradersLog	723061318329241600	2016-04-21T08:10:26	This ‘Foolproof’ Apple Trading Strategy Will Fail This Year  AAPL
+TradersLog	723034346370793473	2016-04-21T06:23:16	Will Euro Spiral Lower on ECB?  EURUSD
+TradersLog	723027267853651969	2016-04-21T05:55:08	2:00am ET: Switzerland Trade Balance 
+TradersLog	722981974219038720	2016-04-21T02:55:09	11:00pm ET: New Zealand Credit Card Spending y/y 
+TradersLog	722959334225907712	2016-04-21T01:25:11	9:30pm ET: NAB Quarterly Business Confidence 
+TradersLog	722917846901067776	2016-04-20T22:40:20	6:45pm ET: New Zealand Visitor Arrivals m/m 
+TradersLog	722828917422342144	2016-04-20T16:46:58	AUD/USD continues rally at 10-month high, but can the recovery last?  AUDUSD
+TradersLog	722827254041022464	2016-04-20T16:40:21	Why gold is ready to breakout  GLD GC_F SLV SPY
+TradersLog	722793266945617921	2016-04-20T14:25:18	10:30am ET: Crude Oil Inventories 
+TradersLog	722785732629282816	2016-04-20T13:55:22	10:00am ET: Existing Home Sales 
+TradersLog	722770629666201600	2016-04-20T12:55:21	9:00am ET: MPC Member McCafferty Speaks 
+TradersLog	722763053075415040	2016-04-20T12:25:14	8:30am ET: Canada Wholesale Sales m/m 
+TradersLog	722762601420169216	2016-04-20T12:23:27	Brexit Starting to Take Toll on UK Economy  GBPUSD
+TradersLog	722725307195789312	2016-04-20T09:55:15	6:00am ET: ECB President Draghi Speaks 
+TradersLog	722710188231368704	2016-04-20T08:55:10	5:00am ET: ZEW Economic Expectations 
+TradersLog	722702638492598272	2016-04-20T08:25:10	4:30am ET: UK Average Earnings Index 3m/y 
+TradersLog	722702638182227968	2016-04-20T08:25:10	4:30am ET: UK Unemployment Rate 
+TradersLog	722702637326577665	2016-04-20T08:25:10	4:30am ET: UK Claimant Count Change 
+TradersLog	722698889929891841	2016-04-20T08:10:17	4:15pm ET: BOC Governor Poloz Speaks 
+TradersLog	722686860682784770	2016-04-20T07:22:29	ECB Ahead: Will EUR/USD finally breakout above resistance?  EURUSD
+TradersLog	722664873809862656	2016-04-20T05:55:07	2:00am ET: German PPI m/m 
+TradersLog	722581837135114240	2016-04-20T00:25:09	8:30pm ET: Australia MI Leading Index m/m 
+TradersLog	722571800610213888	2016-04-19T23:45:16	7:50pm ET: Japan Trade Balance 
+TradersLog	722524945134317568	2016-04-19T20:39:05	Webinar: Day Trading Techniques for the ES, 6E and Index Futures  EminiMind
+TradersLog	722517437397278720	2016-04-19T20:09:15	What’s propelling the stock market rebound?  SPY
+TradersLog	722515445111209985	2016-04-19T20:01:20	Apple Just Snatched Up a Senior Tesla Executive  AAPL TSLA
+TradersLog	722513421225357312	2016-04-19T19:53:17	Ron Paul: buy silver!  SLV GLD
+TradersLog	722448448541368320	2016-04-19T15:35:07	What to watch when Yahoo reports  YHOO
+TradersLog	722444074553339904	2016-04-19T15:17:44	Eye on Instagram’s revenue growth  FB
+TradersLog	722234558486298624	2016-04-19T01:25:11	9:30pm ET: Australia Monetary Policy Meeting Minutes 
+TradersLog	722068499162669056	2016-04-18T14:25:20	10:30am ET: Australia CB Leading Index m/m 
+TradersLog	722060957619482628	2016-04-18T13:55:22	10:00am ET: NAHB Housing Market Index 
+TradersLog	722038279596613632	2016-04-18T12:25:15	8:30am ET: Canada Foreign Securities Purchases 
+TradersLog	722038278707392512	2016-04-18T12:25:15	8:30am ET: FOMC Member Dudley Speaks 
+TradersLog	722000530164330496	2016-04-18T09:55:15	6:00am ET: German Buba Monthly Report 
+TradersLog	721872151490519040	2016-04-18T01:25:07	9:30pm ET: Australia New Motor Vehicle Sales m/m 
+TradersLog	721835783913664513	2016-04-17T23:00:36	7:01pm ET: UK Rightmove HPI m/m 
+TradersLog	721830656414760960	2016-04-17T22:40:14	6:45pm ET: New Zealand CPI q/q 
+TradersLog	721698511918665728	2016-04-17T13:55:08	10:00am ET: Governing Council Member Wilkins Speaks 
+TradersLog	721640370749181952	2016-04-17T10:04:06	Week Ahead — Google earnings, New York primary  GOOG MSFT EURUSD
+TradersLog	721064378297139201	2016-04-15T19:55:19	4:00pm ET: TIC Long-Term Purchases 
+TradersLog	720973780739366912	2016-04-15T13:55:19	10:00am ET: Preliminary University of Michigan Consumer Sentiment 
+TradersLog	720973780231790592	2016-04-15T13:55:18	10:00am ET: Preliminary University of Michigan Inflation Expectations 
+TradersLog	720962510569005056	2016-04-15T13:10:32	9:15am ET: Capacity Utilization Rate 
+TradersLog	720962510237671424	2016-04-15T13:10:31	9:15am ET: Industrial Production m/m 
+TradersLog	720951115060285440	2016-04-15T12:25:15	8:30am ET: Empire State Manufacturing Index 
+TradersLog	720951113047023617	2016-04-15T12:25:14	8:30am ET: Canada Manufacturing Sales m/m 
+TradersLog	720898246193868800	2016-04-15T08:55:10	5:00am ET: Eurozone Trade Balance 
+TradersLog	720890698594127872	2016-04-15T08:25:10	4:30am ET: UK Construction Output m/m 
+TradersLog	720885087353446400	2016-04-15T08:02:52	Facebook’s F8 Conference Was All About the Bots  FB
+TradersLog	720883147718529024	2016-04-15T07:55:10	4:00am ET: Italian Trade Balance 
+TradersLog	720880510424076288	2016-04-15T07:44:41	The 10 Key Differences Between Bull and Bear Rallies… 
+TradersLog	720830282694135808	2016-04-15T04:25:06	12:30am ET: Japan Revised Industrial Production m/m 
+TradersLog	720792558901833728	2016-04-15T01:55:12	10:00pm ET: China Industrial Production y/y 
+TradersLog	720792558318809088	2016-04-15T01:55:12	10:00pm ET: China GDP q/y 
+TradersLog	720792556829872131	2016-04-15T01:55:11	10:00pm ET: China Retail Sales y/y 
+TradersLog	720792556628549632	2016-04-15T01:55:11	10:00pm ET: China Fixed Asset Investment ytd/y 
+TradersLog	720792556389408773	2016-04-15T01:55:11	10:00pm ET: NBS Press Conference 
+TradersLog	720785015399956481	2016-04-15T01:25:13	9:30pm ET: RBA Financial Stability Review 
+TradersLog	720701992738365440	2016-04-14T19:55:19	4:00pm ET: MPC Member Shafik Speaks 
+TradersLog	720658387856437249	2016-04-14T17:02:03	1:01pm ET: 30-year Bond Auction 
+TradersLog	720618941492686848	2016-04-14T14:25:18	10:30am ET: Natural Gas Storage 
+TradersLog	720611399676899328	2016-04-14T13:55:20	10:00am ET: FOMC Member Powell Speaks 
+TradersLog	720588734631133188	2016-04-14T12:25:16	8:30am ET: Initial Jobless Claims 
+TradersLog	720588734543097856	2016-04-14T12:25:16	8:30am ET: Canada NHPI m/m 
+TradersLog	720588733075038208	2016-04-14T12:25:16	8:30am ET: CPI m/m 
+TradersLog	720566082839388160	2016-04-14T10:55:16	7:00am ET: UK Asset Purchase Facility 
+TradersLog	720566082780708864	2016-04-14T10:55:16	7:00am ET: MPC Asset Purchase Facility Votes 
+TradersLog	720566082474491904	2016-04-14T10:55:16	7:00am ET: UK Monetary Policy Summary 
+TradersLog	720566082197655552	2016-04-14T10:55:16	7:00am ET: UK MPC Official Bank Rate Votes 
+TradersLog	720566080738107394	2016-04-14T10:55:15	7:00am ET: UK Official Bank Rate 
+TradersLog	720535871821385728	2016-04-14T08:55:13	5:00am ET: Eurozone Final Core CPI y/y 
+TradersLog	720535869141184512	2016-04-14T08:55:12	5:00am ET: Eurozone Final CPI y/y 
+TradersLog	720509477552791553	2016-04-14T07:10:20	3:15am ET: Switzerland PPI m/m 
+TradersLog	720456617930727429	2016-04-14T03:40:17	11:45pm ET: Japan 30-year Bond Auction 
+TradersLog	720422623616897028	2016-04-14T01:25:12	9:30pm ET: Australia Employment Change 
+TradersLog	720422620680720387	2016-04-14T01:25:12	9:30pm ET: Australia Unemployment Rate 
+TradersLog	720415076151242752	2016-04-14T00:55:13	9:00pm ET: MI Inflation Expectations 
+TradersLog	720386426601349121	2016-04-13T23:01:22	7:01pm ET: RICS House Price Balance 
+TradersLog	720377339784359936	2016-04-13T22:25:16	6:30pm ET: Business NZ Manufacturing Index 
+TradersLog	720309408136179712	2016-04-13T17:55:20	2:00pm ET: Beige Book 
+TradersLog	720296053640196096	2016-04-13T17:02:16	1:01pm ET: 10-year Bond Auction 
+TradersLog	720267929586110464	2016-04-13T15:10:31	11:15am ET: BOC Press Conference 
+TradersLog	720256567547924480	2016-04-13T14:25:22	10:30am ET: Crude Oil Inventories 
+TradersLog	720249012511764480	2016-04-13T13:55:20	10:00am ET: Canada Overnight Rate 
+TradersLog	720249011752562688	2016-04-13T13:55:20	10:00am ET: BOC Monetary Policy Report 
+TradersLog	720249011727441921	2016-04-13T13:55:20	10:00am ET: BOC Rate Statement 
+TradersLog	720249009873367040	2016-04-13T13:55:20	10:00am ET: Business Inventories m/m 
+TradersLog	720241448914853889	2016-04-13T13:25:17	9:30am ET: UK CB Leading Index m/m 
+TradersLog	720226342499917824	2016-04-13T12:25:15	8:30am ET: PPI m/m 
+TradersLog	720226341736595456	2016-04-13T12:25:15	8:30am ET: Retail Sales m/m 
+TradersLog	720173468403306496	2016-04-13T08:55:09	5:00am ET: Eurozone Industrial Production m/m 
+TradersLog	720165904424820736	2016-04-13T08:25:06	4:30am ET: BOE Credit Conditions Survey 
+TradersLog	720139519052378112	2016-04-13T06:40:15	2:45am ET: French Final CPI m/m 
+TradersLog	720018753614934017	2016-04-12T22:40:22	6:45pm ET: New Zealand FPI m/m 
+TradersLog	719863957654278145	2016-04-12T12:25:16	8:30am ET: Import Prices m/m 
+TradersLog	719826199502041088	2016-04-12T09:55:14	6:00am ET: NFIB Small Business Index 
+TradersLog	719803532728233984	2016-04-12T08:25:10	4:30am ET: UK PPI Input m/m 
+TradersLog	719803532367503361	2016-04-12T08:25:10	4:30am ET: PPI Output m/m 
+TradersLog	719803532321431552	2016-04-12T08:25:10	4:30am ET: HPI y/y 
+TradersLog	719803532233347072	2016-04-12T08:25:10	4:30am ET: UK RPI y/y 
+TradersLog	719803530727538689	2016-04-12T08:25:09	4:30am ET: UK CPI y/y 
+TradersLog	719765767789658112	2016-04-12T05:55:06	2:00pm ET: Federal Budget Balance 
+TradersLog	719765767068192768	2016-04-12T05:55:06	2:00am ET: German WPI m/m 
+TradersLog	719765766531334144	2016-04-12T05:55:05	2:00am ET: German Final CPI m/m 
+TradersLog	719765766371950592	2016-04-12T05:55:05	2:00am ET: Japan Preliminary  Machine Tool Orders y/y 
+TradersLog	719589369519161344	2016-04-11T18:14:09	The 10 Key Differences Between Bull and Bear Rallies… 
+TradersLog	718437045002235904	2016-04-08T13:55:14	10:00am ET: UK NIESR GDP Estimate 
+TradersLog	718437044993843200	2016-04-08T13:55:14	10:00am ET: Wholesale Inventories m/m 
+TradersLog	718414375531474944	2016-04-08T12:25:09	8:30am ET: Canada Employment Change 
+TradersLog	718414372931022848	2016-04-08T12:25:08	8:30am ET: Canada Unemployment Rate 
+TradersLog	718414372238962688	2016-04-08T12:25:08	8:30am ET: FOMC Member Dudley Speaks 
+TradersLog	718410612968132608	2016-04-08T12:10:12	8:15am ET: Canada Housing Starts 
+TradersLog	718353962068533249	2016-04-08T08:25:05	4:30am ET: UK Industrial Production m/m 
+TradersLog	718353960705388544	2016-04-08T08:25:05	4:30am ET: UK Manufacturing Production m/m 
+TradersLog	718353959283507200	2016-04-08T08:25:04	4:30am ET: UK Goods Trade Balance 
+TradersLog	718351558526791680	2016-04-08T08:15:32	The 10 Key Differences Between Bull and Bear Rallies… 
+TradersLog	718088126082715649	2016-04-07T14:48:45	Is Vladimir Putin the Richest Man in the World? 
+TradersLog	717195107624202245	2016-04-05T03:40:13	11:45pm ET: 10-year Bond Auction 
+TradersLog	717161115923431424	2016-04-05T01:25:08	9:30pm ET: Australia Trade Balance 
+TradersLog	717138474856542208	2016-04-04T23:55:10	8:00pm ET: Japan Average Cash Earnings y/y 
+TradersLog	717130933179183104	2016-04-04T23:25:12	7:30pm ET: AIG Services Index 
+TradersLog	716987480038367232	2016-04-04T13:55:10	10:00am ET: Factory Orders m/m 
+TradersLog	716987479962812417	2016-04-04T13:55:10	10:00am ET: BOC Gov Poloz Speaks 
+TradersLog	716987479858016256	2016-04-04T13:55:10	10:00am ET: Labor Market Conditions Index m/m 
+TradersLog	716972390295666688	2016-04-04T12:55:13	9:00pm ET: ANZ Commodity Prices m/m 
+TradersLog	715930550897344512	2016-04-01T15:55:19	12:00pm ET: FOMC Member Mester Speaks 
+TradersLog	715900314994483200	2016-04-01T13:55:10	10:00am ET: ISM Manufacturing PMI 
+TradersLog	715900314466037760	2016-04-01T13:55:10	10:00am ET: ISM Manufacturing Prices 
+TradersLog	715900313937555456	2016-04-01T13:55:10	10:00am ET: Revised University of Michigan Inflation Expectations 
+TradersLog	715900313929170945	2016-04-01T13:55:10	10:00am ET: Construction Spending m/m 
+TradersLog	715900311999787009	2016-04-01T13:55:09	10:00am ET: Revised University of Michigan Consumer Sentiment 
+TradersLog	715896553488171008	2016-04-01T13:40:13	9:45am ET: Final Manufacturing PMI 
+TradersLog	715892758377062400	2016-04-01T13:25:08	9:30am ET: RBC Manufacturing PMI 
+TradersLog	715877646773694464	2016-04-01T12:25:06	8:30am ET: US Unemployment Rate 
+TradersLog	715877646463332353	2016-04-01T12:25:05	8:30am ET: Average Hourly Earnings m/m 
+TradersLog	715877646232592384	2016-04-01T12:25:05	8:30am ET: Non-Farm Payrolls 
+TradersLog	715871019119067136	2016-04-01T11:58:45	3 Numbers: Another solid US jobs report expected 
+TradersLog	715869284023582720	2016-04-01T11:51:52	When It Comes to Trading Stocks, Just How Insane Are You? 
+TradersLog	715825741154369539	2016-04-01T08:58:50	Facebook's Instant Articles Pose a Threat to Google  FB GOOG
+TradersLog	715230476114477056	2016-03-30T17:33:28	Central banks will never admit they’ve run out of ammunition, but they have 
+TradersLog	713647087100043264	2016-03-26T08:41:39	Crude Oil Peaks and Troughs Over the Past Century 
+TradersLog	713443499836903432	2016-03-25T19:12:40	Dan Zanger – “10 Keys I Use to Recognize Market Reversals” 
+TradersLog	713333141113544704	2016-03-25T11:54:08	Introduction to Market Profile 
+TradersLog	712787366189146112	2016-03-23T23:45:25	7:50pm ET: BOJ Summary of Opinions 
+TradersLog	712755934221746177	2016-03-23T21:40:31	5:45pm ET: New Zealand Trade Balance 
+TradersLog	712646411570036738	2016-03-23T14:25:19	10:30am ET: Crude Oil Inventories 
+TradersLog	712638861768318976	2016-03-23T13:55:19	10:00am ET: SNB Quarterly Bulletin 
+TradersLog	712638861738909696	2016-03-23T13:55:19	10:00am ET: New Home Sales 
+TradersLog	712638861243990016	2016-03-23T13:55:19	10:00am ET: Belgian NBB Business Climate 
+TradersLog	712623760285835264	2016-03-23T12:55:19	9:00am ET: FOMC Member Bullard Speaks 
+TradersLog	712618735480266752	2016-03-23T12:35:21	8:40am ET: German Buba President Weidmann Speaks 
+TradersLog	712578420803301376	2016-03-23T09:55:09	6:00am ET: Switzerland ZEW Economic Expectations 
+TradersLog	712276454009139201	2016-03-22T13:55:14	10:00am ET: Richmond Manufacturing Index 
+TradersLog	712276452281073665	2016-03-22T13:55:14	10:00am ET: Belgian NBB Business Climate 
+TradersLog	712272707577110528	2016-03-22T13:40:21	9:45am ET: Flash Manufacturing PMI 
+TradersLog	712268895214821377	2016-03-22T13:25:12	9:30am ET: MPC Member Forbes Speaks 
+TradersLog	712261348336472065	2016-03-22T12:55:13	9:00am ET: HPI m/m 
+TradersLog	712216032274997248	2016-03-22T09:55:09	6:00am ET: Eurozone ZEW Economic Sentiment 
+TradersLog	712216031754907649	2016-03-22T09:55:08	6:00am ET: German ZEW Economic Sentiment 
+TradersLog	712208468535590912	2016-03-22T09:25:05	5:30am ET: UK Public Sector Net Borrowing 
+TradersLog	712208467663183872	2016-03-22T09:25:05	5:30am ET: UK PPI Input m/m 
+TradersLog	712208467336011776	2016-03-22T09:25:05	5:30am ET: UK HPI y/y 
+TradersLog	712208467252142080	2016-03-22T09:25:05	5:30am ET: UK CPI y/y 
+TradersLog	712208466987896832	2016-03-22T09:25:05	5:30am ET: UK PPI Output m/m 
+TradersLog	712208466711093250	2016-03-22T09:25:05	5:30am ET: UK RPI y/y 
+TradersLog	712200926266826752	2016-03-22T08:55:07	5:00am ET: Eurozone Flash Services PMI 
+TradersLog	712200922806484993	2016-03-22T08:55:06	5:00am ET: Eurozone Flash Manufacturing PMI 
+TradersLog	712200921762107392	2016-03-22T08:55:06	5:00am ET: German Ifo Business Climate 
+TradersLog	712193371117375488	2016-03-22T08:25:06	4:30am ET: German Flash Manufacturing PMI 
+TradersLog	712193365434089472	2016-03-22T08:25:04	4:30am ET: German Flash Services PMI 
+TradersLog	712095240530874368	2016-03-22T01:55:10	10:00pm ET: Japan Flash Manufacturing PMI 
+TradersLog	712076410811248641	2016-03-22T00:40:20	8:45pm ET: RBA Assistant Governor Edey Speaks 
+TradersLog	712072598503477248	2016-03-22T00:25:11	8:30pm ET: Australia HPI q/q 
+TradersLog	712021445719805953	2016-03-21T21:01:56	Soft Dollar Prompts JP Morgan Eurozone Downgrade 
+TradersLog	711929168469086208	2016-03-21T14:55:15	11:00am ET: Eurozone Consumer Confidence 
+TradersLog	711921607657259009	2016-03-21T14:25:12	10:30am ET: Australia CB Leading Index m/m 
+TradersLog	711914067615719424	2016-03-21T13:55:15	10:00am ET: Existing Home Sales 
+TradersLog	711868734084931584	2016-03-21T10:55:06	7:00am ET: German Buba Monthly Report 
+TradersLog	711868731253780480	2016-03-21T10:55:06	7:00am ET: UK CBI Industrial Order Expectations 
+TradersLog	711863654149447680	2016-03-21T10:34:55	Understanding Support and Resistance 
+TradersLog	710887313740582912	2016-03-18T17:55:17	2:00pm ET: FOMC Member Bullard Speaks 
+TradersLog	710841995938422786	2016-03-18T14:55:13	11:00am ET: FOMC Member Rosengren Speaks 
+TradersLog	710826887950573568	2016-03-18T13:55:11	10:00am ET: Preliminary University of Michigan Inflation Expectations 
+TradersLog	710826887728201728	2016-03-18T13:55:11	10:00am ET: Preliminary University of Michigan Consumer Sentiment 
+TradersLog	710811793569009664	2016-03-18T12:55:12	9:00am ET: FOMC Member Dudley Speaks 
+TradersLog	710804223840096261	2016-03-18T12:25:07	8:30am ET: Canada Retail Sales m/m 
+TradersLog	710804223395495938	2016-03-18T12:25:07	8:30am ET: Canada CPI m/m 
+TradersLog	710796669818957824	2016-03-18T11:55:06	8:00am ET: BOE Quarterly Bulletin 
+TradersLog	710745827002732545	2016-03-18T08:33:04	‘Uber for Massages' Startup Soothe Raises 35M 
+TradersLog	710744536750923776	2016-03-18T08:27:57	What's in Store at Apple's March 21st Event  AAPL
+TradersLog	710613036160196609	2016-03-17T23:45:25	7:50pm ET: Japan Monetary Policy Meeting Minutes 
+TradersLog	710472091427061760	2016-03-17T14:25:21	10:30am ET: Natural Gas Storage 
+TradersLog	710464544200597504	2016-03-17T13:55:21	10:00am ET: JOLTS Job Openings 
+TradersLog	710464544141910016	2016-03-17T13:55:21	10:00am ET: CB Leading Index m/m 
+TradersLog	710441885236662273	2016-03-17T12:25:19	8:30am ET: Initial Jobless Claims 
+TradersLog	710441884502659072	2016-03-17T12:25:19	8:30am ET: US Current Account 
+TradersLog	710441883772829696	2016-03-17T12:25:19	8:30am ET: Canada Wholesale Sales m/m 
+TradersLog	710441883458215936	2016-03-17T12:25:19	8:30am ET: Philly Fed Manufacturing Index 
+TradersLog	710434343718678529	2016-03-17T11:55:21	8:00am ET: UK MPC Asset Purchase Facility Votes 
+TradersLog	710434343370551296	2016-03-17T11:55:21	8:00am ET: Monetary Policy Summary 
+TradersLog	710434343257300992	2016-03-17T11:55:21	8:00am ET: UK Asset Purchase Facility 
+TradersLog	710434341801877504	2016-03-17T11:55:20	8:00am ET: MPC Official Bank Rate Votes 
+TradersLog	710434341667602432	2016-03-17T11:55:20	8:00am ET: UK Official Bank Rate 
+TradersLog	710404109082480641	2016-03-17T09:55:12	6:00am ET: Eurozone Final CPI y/y 
+TradersLog	710404109082468352	2016-03-17T09:55:12	6:00am ET: Eurozone Trade Balance 
+TradersLog	710389008371687424	2016-03-17T08:55:12	5:00am ET: Italian Trade Balance 
+TradersLog	710381453998202880	2016-03-17T08:25:11	4:30am ET: Switzerland Libor Rate 
+TradersLog	710381453213868032	2016-03-17T08:25:11	4:30am ET: SNB Monetary Policy Assessment 
+TradersLog	710377716802052096	2016-03-17T08:10:20	4:15am ET: PPI m/m 
+TradersLog	710355049357156352	2016-03-17T06:40:16	2:45am ET: SECO Economic Forecasts 
+TradersLog	710351241356906496	2016-03-17T06:25:08	2:30am ET: BOJ Gov Kuroda Speaks 
+TradersLog	710260679673028609	2016-03-17T00:25:16	8:30pm ET: Australia Unemployment Rate 
+TradersLog	710260678880268289	2016-03-17T00:25:16	8:30pm ET: RBA Bulletin 
+TradersLog	710260677810765826	2016-03-17T00:25:16	8:30pm ET: Australia Employment Change 
+TradersLog	710250654296645632	2016-03-16T23:45:26	7:50pm ET: Japan Trade Balance 
+TradersLog	710222960695574530	2016-03-16T21:55:23	6:05pm ET: RBA Assist Gov Debelle Speaks 
+TradersLog	710219201106067456	2016-03-16T21:40:27	5:45pm ET: New Zealand GDP q/q 
+TradersLog	710170110498045952	2016-03-16T18:25:23	2:30pm ET: FOMC Press Conference 
+TradersLog	710162557751918592	2016-03-16T17:55:22	2:00pm ET: FOMC Economic Projections 
+TradersLog	710162556594360325	2016-03-16T17:55:22	2:00pm ET: Federal Funds Rate 
+TradersLog	710162555512229888	2016-03-16T17:55:22	2:00pm ET: FOMC Statement 
+TradersLog	710109702089252864	2016-03-16T14:25:20	10:30am ET: Crude Oil Inventories 
+TradersLog	710094600791265280	2016-03-16T13:25:20	9:30am ET: UK CB Leading Index m/m 
+TradersLog	710090888530231296	2016-03-16T13:10:35	9:15am ET: Industrial Production m/m 
+TradersLog	710090886751920128	2016-03-16T13:10:34	9:15am ET: Capacity Utilization Rate 
+TradersLog	710079502571937792	2016-03-16T12:25:20	8:30am ET: UK Annual Budget Release 
+TradersLog	710079502240632832	2016-03-16T12:25:20	8:30am ET: Canada Foreign Securities Purchases 
+TradersLog	710079500642603008	2016-03-16T12:25:20	8:30am ET: US Building Permits 
+TradersLog	710079500604854272	2016-03-16T12:25:20	8:30am ET: Canada Manufacturing Sales m/m 
+TradersLog	710079500579676160	2016-03-16T12:25:20	8:30am ET: Housing Starts 
+TradersLog	710079500390944769	2016-03-16T12:25:20	8:30am ET: CPI m/m 
+TradersLog	710034169141788672	2016-03-16T09:25:12	5:30am ET: UK Claimant Count Change 
+TradersLog	710034167405346816	2016-03-16T09:25:11	5:30am ET: UK Average Earnings Index 3m/y 
+TradersLog	710034166914654209	2016-03-16T09:25:11	5:30am ET: UK Unemployment Rate 
+TradersLog	709883182569627648	2016-03-15T23:25:14	7:30pm ET: Australia MI Leading Index m/m 
+TradersLog	709856825907290113	2016-03-15T21:40:30	5:45pm ET: New Zealand Current Account 
+TradersLog	709830366270459904	2016-03-15T19:55:21	4:00pm ET: TIC Long-Term Purchases 
+TradersLog	709739766418436098	2016-03-15T13:55:21	10:00am ET: NAHB Housing Market Index 
+TradersLog	709739764510027776	2016-03-15T13:55:20	10:00am ET: Business Inventories m/m 
+TradersLog	709717099816607744	2016-03-15T12:25:17	8:30am ET: Empire State Manufacturing Index 
+TradersLog	709717099195797504	2016-03-15T12:25:17	8:30am ET: Retail Sales m/m 
+TradersLog	709717098512162816	2016-03-15T12:25:16	8:30am ET: PPI m/m 
+TradersLog	709679324010520577	2016-03-15T09:55:10	6:00am ET: Eurozone Employment Change q/q 
+TradersLog	709645377926991873	2016-03-15T07:40:17	3:45am ET: French Final CPI m/m 
+TradersLog	709596265579941888	2016-03-15T04:25:08	12:30am ET: Japan Tertiary Industry Activity m/m 
+TradersLog	709596265491918848	2016-03-15T04:25:08	12:30am ET: Japan Revised Industrial Production m/m 
+TradersLog	709535892902420481	2016-03-15T00:25:14	8:30pm ET: Australia New Motor Vehicle Sales m/m 
+TradersLog	709535892566884353	2016-03-15T00:25:13	8:30pm ET: Australia Monetary Policy Meeting Minutes 
+TradersLog	709452916684410880	2016-03-14T18:55:30	3:00pm ET: RBNZ Gov Wheeler Speaks 
+TradersLog	709316941396221952	2016-03-14T09:55:11	6:00am ET: Eurozone Industrial Production m/m 
+TradersLog	709163435662176256	2016-03-13T23:45:13	7:50pm ET: Japan Core Machinery Orders m/m 
+TradersLog	708667820666707968	2016-03-12T14:55:49	What the Rumors are Suggesting About the iPhone 7  AAPL
+TradersLog	708282647005429760	2016-03-11T13:25:16	8:30am ET: Canada Employment Change 
+TradersLog	708282646808436736	2016-03-11T13:25:16	8:30am ET: US Import Prices m/m 
+TradersLog	708282645902450688	2016-03-11T13:25:16	8:30am ET: Canada Unemployment Rate 
+TradersLog	708222229071446016	2016-03-11T09:25:12	4:30am ET: UK Consumer Inflation Expectations 
+TradersLog	708222229063057408	2016-03-11T09:25:12	4:30am ET: UK Trade Balance Trade Balance 
+TradersLog	708222228748439552	2016-03-11T09:25:12	4:30am ET: UK Construction Output m/m 
+TradersLog	708214681157181440	2016-03-11T08:55:12	4:00am ET: Italian Industrial Production m/m 
+TradersLog	708184468964573184	2016-03-11T06:55:09	2:00am ET: German WPI m/m 
+TradersLog	708184468947730432	2016-03-11T06:55:09	2:00am ET: German Final CPI m/m 
+TradersLog	708076317858783232	2016-03-10T23:45:24	6:50pm ET: Japan BSI Manufacturing Index 
+TradersLog	708044875011387392	2016-03-10T21:40:27	4:45pm ET: New Zealand FPI m/m 
+TradersLog	708041049067884545	2016-03-10T21:25:15	4:30pm ET: Business NZ Manufacturing Index 
+TradersLog	708037297808211969	2016-03-10T21:10:21	4:15pm ET: BOC Governor Poloz Speaks 
+TradersLog	708003318312865792	2016-03-10T18:55:19	2:00pm ET: Federal Budget Balance 
+TradersLog	707989775555424256	2016-03-10T18:01:30	1:01pm ET: 30-year Bond Auction 
+TradersLog	707950449345880064	2016-03-10T15:25:14	10:30am ET: Natural Gas Storage 
+TradersLog	707920244128538625	2016-03-10T13:25:13	8:30am ET: Canada NHPI m/m 
+TradersLog	707920243541340160	2016-03-10T13:25:13	8:30am ET: Canada Capacity Utilization Rate 
+TradersLog	707920243134492672	2016-03-10T13:25:13	8:30am ET: ECB Press Conference 
+TradersLog	707920241972613121	2016-03-10T13:25:12	8:30am ET: Initial Jobless Claims 
+TradersLog	707908939795410945	2016-03-10T12:40:18	7:45am ET: ECB Minimum Bid Rate 
+TradersLog	707852266804477952	2016-03-10T08:55:06	4:00am ET: Italian Quarterly Unemployment Rate 
+TradersLog	707850144604151808	2016-03-10T08:46:40	UK newspaper The Sun carries the story saying the Queen is voting for Brexit 
+TradersLog	707849913892249600	2016-03-10T08:45:45	Ten Lessons I Have Learned in Working With Traders 
+TradersLog	707361710307467264	2016-03-09T00:25:48	7:30pm ET: Australia Home Loans m/m 
+TradersLog	707351591804923904	2016-03-08T23:45:36	6:50pm ET: Japan M2 Money Stock y/y 
+TradersLog	707346492764381184	2016-03-08T23:25:20	6:30pm ET: Westpac Consumer Sentiment 
+TradersLog	707248457665400832	2016-03-08T16:55:47	12:00pm ET: MPC Member Weale Speaks 
+TradersLog	707195522424115200	2016-03-08T13:25:26	8:30am ET: Canada Building Permits m/m 
+TradersLog	707191822829936640	2016-03-08T13:10:44	8:15am ET: Canada Housing Starts 
+TradersLog	707157757070319616	2016-03-08T10:55:22	6:00am ET: NFIB Small Business Index 
+TradersLog	707142630057111552	2016-03-08T09:55:15	5:00am ET: Eurozone Revised GDP q/q 
+TradersLog	707131355931533312	2016-03-08T09:10:27	4:15am ET: BOE Gov Carney Speaks 
+TradersLog	707116247238971392	2016-03-08T08:10:25	3:15am ET: Switzerland CPI m/m 
+TradersLog	707108691032608768	2016-03-08T07:40:24	2:45am ET: French Trade Balance 
+TradersLog	707108690873159680	2016-03-08T07:40:24	2:45am ET: French Government Budget Balance 
+TradersLog	707097317602623488	2016-03-08T06:55:12	2:00am ET: German Industrial Production m/m 
+TradersLog	707093577315315712	2016-03-08T06:40:20	1:45am ET: Switzerland Unemployment Rate 
+TradersLog	707082208822075392	2016-03-08T05:55:10	1:00am ET: Japan Economy Watchers Sentiment 
+TradersLog	707067112347537409	2016-03-08T04:55:10	12:00am ET: Japan Consumer Confidence 
+TradersLog	707048292060766208	2016-03-08T03:40:23	10:45pm ET: Japan 30-year Bond Auction 
+TradersLog	706999199511023620	2016-03-08T00:25:19	7:30pm ET: NAB Business Confidence 
+TradersLog	706993205678612481	2016-03-08T00:01:30	7:01pm ET: BRC Retail Sales Monitor y/y 
+TradersLog	706989189129183232	2016-03-07T23:45:32	6:50pm ET: Japan Current Account 
+TradersLog	706989188625911808	2016-03-07T23:45:32	6:50pm ET: Japan Final GDP q/q 
+TradersLog	706989188546166786	2016-03-07T23:45:32	6:50pm ET: Japan Final GDP Price Index y/y 
+TradersLog	706989187870941184	2016-03-07T23:45:32	6:50pm ET: Japan Bank Lending y/y 
+TradersLog	706981635670056960	2016-03-07T23:15:31	6:20pm ET: RBA Deputy Gov Lowe Speaks 
+TradersLog	706957741831692288	2016-03-07T21:40:34	4:45pm ET: New Zealand Manufacturing Sales q/q 
+TradersLog	706931291468464129	2016-03-07T19:55:28	3:00pm ET: Consumer Credit m/m 
+TradersLog	706901094182612992	2016-03-07T17:55:29	1:00pm ET: FOMC Member Fischer Speaks 
+TradersLog	706901093477969921	2016-03-07T17:55:28	1:00pm ET: FOMC Member Brainard Speaks 
+TradersLog	706855765512945666	2016-03-07T14:55:21	10:00am ET: Labor Market Conditions Index m/m 
+TradersLog	706772651541405696	2016-03-07T09:25:05	4:30am ET: Sentix Investor Confidence 
+TradersLog	706767620226326528	2016-03-07T09:05:06	4:10am ET: MPC Member Haldane Speaks 
+TradersLog	706765835457658880	2016-03-07T08:58:00	The 10 Key Differences Between Bull and Bear Rallies… 
+TradersLog	706043891116597248	2016-03-05T09:09:15	Finding High-Probability Entries and Exits when Trend Following in the Forex Market 
+TradersLog	705564738034536448	2016-03-04T01:25:16	8:30pm ET: Japan Average Cash Earnings y/y 
+TradersLog	705549640263966720	2016-03-04T00:25:17	7:30pm ET: Australia Retail Sales m/m 
+TradersLog	705447780798566401	2016-03-03T17:40:32	12:45pm ET: MPC Member Haldane Speaks 
+TradersLog	705413745258991616	2016-03-03T15:25:17	10:30am ET: Natural Gas Storage 
+TradersLog	705406189606047744	2016-03-03T14:55:16	10:00am ET: Factory Orders m/m 
+TradersLog	705406189484511232	2016-03-03T14:55:16	10:00am ET: ISM Non-Manufacturing PMI 
+TradersLog	705402482982313984	2016-03-03T14:40:32	9:45am ET: US Final Services PMI 
+TradersLog	705383536803618816	2016-03-03T13:25:15	8:30am ET: Revised Nonfarm Productivity q/q 
+TradersLog	705383535939620864	2016-03-03T13:25:15	8:30am ET: Initial Jobless Claims 
+TradersLog	705383535029428224	2016-03-03T13:25:14	8:30am ET: Revised Unit Labor Costs q/q 
+TradersLog	705368431995047936	2016-03-03T12:25:13	7:30am ET: Challenger Job Cuts y/y 
+TradersLog	705330665005387778	2016-03-03T09:55:09	5:00am ET: Eurozone Retail Sales m/m 
+TradersLog	705323094479654912	2016-03-03T09:25:04	4:30am ET: UK Services PMI 
+TradersLog	705316372792909824	2016-03-03T08:58:22	4:00am ET: Eurozone Final Services PMI 
+TradersLog	705206163479142401	2016-03-03T01:40:26	8:45pm ET: Caixin Services PMI 
+TradersLog	705187253526667268	2016-03-03T00:25:17	7:30pm ET: Australia Trade Balance 
+TradersLog	705179720250425345	2016-03-02T23:55:21	7:00pm ET: ANZ Commodity Prices m/m 
+TradersLog	705157049261359105	2016-03-02T22:25:16	5:30pm ET: AIG Services Index 
+TradersLog	705104253363339265	2016-03-02T18:55:28	2:00pm ET: Beige Book 
+TradersLog	705051392575148033	2016-03-02T15:25:25	10:30am ET: Crude Oil Inventories 
+TradersLog	705028749876727808	2016-03-02T13:55:27	9:00am ET: MPC Member Cunliffe Speaks 
+TradersLog	705018761162711040	2016-03-02T13:15:45	BEAT ==&gt; ADP Non-Farm Employment Change 214K vs. 190K expected SPY USDX
+TradersLog	705017384701190144	2016-03-02T13:10:17	8:15am ET: ADP Non-Farm Employment Change 
+TradersLog	704968273625026560	2016-03-02T09:55:08	5:00am ET: MPC Member Broadbent Speaks 
+TradersLog	704968273125838852	2016-03-02T09:55:08	5:00am ET: Eurozone PPI m/m 
+TradersLog	704960716118355968	2016-03-02T09:25:06	4:30am ET: UK Construction PMI 
+TradersLog	704938057670205440	2016-03-02T07:55:04	3:00am ET: Spanish Unemployment Change 
+TradersLog	704880230402560000	2016-03-02T04:05:17	How to Profit from Market Retracements 
+TradersLog	704824868257329152	2016-03-02T00:25:18	7:30pm ET: Australia GDP q/q 
+TradersLog	704814910186905600	2016-03-01T23:45:44	7:00pm ET: HIA New Home Sales m/m 
+TradersLog	704814909855551488	2016-03-01T23:45:43	6:50pm ET: Japan Monetary Base y/y 
+TradersLog	704792259263389696	2016-03-01T22:15:43	Five Fibonacci Tricks 
+TradersLog	704681467092344832	2016-03-01T14:55:28	10:00am ET: ISM Manufacturing PMI 
+TradersLog	704681466790285316	2016-03-01T14:55:28	10:00am ET: Construction Spending m/m 
+TradersLog	704681466488348676	2016-03-01T14:55:28	10:00am ET: ISM Manufacturing Prices 
+TradersLog	704677744697802757	2016-03-01T14:40:41	9:45am ET: Final Manufacturing PMI 
+TradersLog	704673934956994562	2016-03-01T14:25:32	9:30am ET: RBC Manufacturing PMI 
+TradersLog	704658778495586304	2016-03-01T13:25:19	8:30am ET: Canada GDP m/m 
+TradersLog	704605908291219456	2016-03-01T09:55:14	5:00am ET: Eurozone Unemployment Rate 
+TradersLog	704598354118971392	2016-03-01T09:25:13	4:30am ET: UK Manufacturing PMI 
+TradersLog	704590810470285312	2016-03-01T08:55:14	4:00am ET: Eurozone Final Manufacturing PMI 
+TradersLog	704590809744723968	2016-03-01T08:55:14	4:00am ET: Italian Monthly Unemployment Rate 
+TradersLog	704589576615108609	2016-03-01T08:50:20	3:55am ET: German Unemployment Change 
+TradersLog	704589576174751744	2016-03-01T08:50:20	3:55am ET: German Final Manufacturing PMI 
+TradersLog	704588321670955008	2016-03-01T08:45:21	3:50am ET: French Final Manufacturing PMI 
+TradersLog	704587096804220928	2016-03-01T08:40:29	3:45am ET: Italian Manufacturing PMI 
+TradersLog	704583259959721984	2016-03-01T08:25:14	3:30am ET: Switzerland Manufacturing PMI 
+TradersLog	704579542380371968	2016-03-01T08:10:28	3:15am ET: Spanish Manufacturing PMI 
+TradersLog	704579542288039936	2016-03-01T08:10:27	3:15am ET: Switzerland Retail Sales y/y 
+TradersLog	704579529415774209	2016-03-01T08:10:24	Ten Lessons I Have Learned in Working With Traders 
+TradersLog	704537944053444608	2016-03-01T05:25:10	12:30am ET: Australia Commodity Prices y/y 
+TradersLog	704522855015436288	2016-03-01T04:25:12	11:30pm ET: FOMC Member Dudley Speaks 
+TradersLog	704511585432244227	2016-03-01T03:40:25	10:45pm ET: Japan 10-y Bond Auction 
+TradersLog	704507754573078528	2016-03-01T03:25:12	10:30pm ET: RBA Rate Statement 
+TradersLog	704507754053046274	2016-03-01T03:25:12	10:30pm ET: Australia Cash Rate 
+TradersLog	704503996774486017	2016-03-01T03:10:16	Understanding Support and Resistance 
+TradersLog	704485137619275776	2016-03-01T01:55:20	9:00pm ET: Japan Final Manufacturing PMI 
+TradersLog	704481392638484482	2016-03-01T01:40:27	8:45pm ET: China Caixin Manufacturing PMI 
+TradersLog	704470031791480832	2016-03-01T00:55:18	8:00pm ET: China Non-Manufacturing PMI 
+TradersLog	704470031745347584	2016-03-01T00:55:18	8:00pm ET: China Manufacturing PMI 
+TradersLog	704462470115622913	2016-03-01T00:25:15	7:30pm ET: Australia Current Account 
+TradersLog	704462469905911808	2016-03-01T00:25:15	7:30pm ET: Australia Building Approvals m/m 
+TradersLog	704454912529317888	2016-02-29T23:55:13	Introduction to Market Profile 
+TradersLog	704452517611118596	2016-02-29T23:45:42	6:50pm ET: Japan Capital Spending q/y 
+TradersLog	704447369727893504	2016-02-29T23:25:15	6:30pm ET: Japan Unemployment Rate 
+TradersLog	704447369446887424	2016-02-29T23:25:15	6:30pm ET: Japan Household Spending y/y 
+TradersLog	704432288667475968	2016-02-29T22:25:19	5:30pm ET: Australia AIG Manufacturing Index 
+TradersLog	704421037849628672	2016-02-29T21:40:37	4:45pm ET: New Zealand Overseas Trade Index q/q 
+TradersLog	704320375040163840	2016-02-29T15:00:37	MISS ==&gt; Pending Home Sales m/m -2.5% vs. 0.5% expected, 0.1% prior SPY USDX
+TradersLog	704319085379723264	2016-02-29T14:55:30	10:00am ET: Pending Home Sales m/m 
+TradersLog	704315329917362177	2016-02-29T14:40:34	9:45am ET: Chicago PMI 
+TradersLog	704305447680008194	2016-02-29T14:01:18	EUR/USD Falls to 4 Week Lows Amid Deflation Fears  EURUSD
+TradersLog	704296406597689344	2016-02-29T13:25:23	8:30am ET: Canada RMPI m/m 
+TradersLog	704296406572466176	2016-02-29T13:25:23	8:30am ET: Canada Current Account 
+TradersLog	704296406543167488	2016-02-29T13:25:23	8:30am ET: Canada IPPI m/m 
+TradersLog	704279177009238016	2016-02-29T12:16:55	Major Bearish Crossover Forming on S&amp;P 500 Monthly Chart  SPY SPX
+TradersLog	704248865042665472	2016-02-29T10:16:28	“Golden Cross” Forming in COMEX Gold Futures  GLD GC_F
+TradersLog	704243525525889024	2016-02-29T09:55:15	5:00am ET: Eurozone CPI Flash Estimate y/y 
+TradersLog	704243525483888640	2016-02-29T09:55:15	5:00am ET: Italian Preliminary CPI m/m 
+TradersLog	704235967117467648	2016-02-29T09:25:13	4:30am ET: UK Mortgage Approvals 
+TradersLog	704235967117402112	2016-02-29T09:25:13	4:30am ET: UK M4 Money Supply m/m 
+TradersLog	704235966802894849	2016-02-29T09:25:13	4:30am ET: UK Net Lending to Individuals m/m 
+TradersLog	704213319884922880	2016-02-29T07:55:13	3:00am ET: KOF Economic Barometer 
+TradersLog	704198240665735168	2016-02-29T06:55:18	2:00am ET: German Retail Sales m/m 
+TradersLog	704198240313458688	2016-02-29T06:55:18	2:00am ET: German Import Prices m/m 
+TradersLog	704167997083099136	2016-02-29T04:55:07	12:00am ET: Japan Housing Starts y/y 
+TradersLog	704100053321912324	2016-02-29T00:25:08	7:30pm ET: Australia Company Operating Profits q/q 
+TradersLog	704100052873158656	2016-02-29T00:25:08	7:30pm ET: Australia Private Sector Credit m/m 
+TradersLog	704092507056021504	2016-02-28T23:55:09	7:00pm ET: Australia MI Inflation Gauge m/m 
+TradersLog	704092506162655233	2016-02-28T23:55:09	7:00pm ET: ANZ Business Confidence 
+TradersLog	704090026964099072	2016-02-28T23:45:18	6:50pm ET: Japan Preliminary Industrial Production m/m 
+TradersLog	704090026704039936	2016-02-28T23:45:18	6:50pm ET: Japan Retail Sales y/y 
+TradersLog	704058594786832386	2016-02-28T21:40:24	4:45pm ET: New Zealand Building Consents m/m 
+TradersLog	703574568531787777	2016-02-27T13:37:03	Mobile World Congress 2016: 4 Top Tech Trends  FB AAPL HPW MSFT SNE QCOM
+TradersLog	703235728818499584	2016-02-26T15:10:37	10:15am ET: FOMC Member Powell Speaks 
+TradersLog	703231892863188994	2016-02-26T14:55:23	10:00am ET: Revised University of Michigan Inflation Expectations 
+TradersLog	703231892393435136	2016-02-26T14:55:23	10:00am ET: Revised University of Michigan Consumer Sentiment 
+TradersLog	703209217293996032	2016-02-26T13:25:17	8:30am ET: Goods Trade Balance 
+TradersLog	703209217189154816	2016-02-26T13:25:17	8:30am ET: Personal Spending m/m 
+TradersLog	703209217138814976	2016-02-26T13:25:17	8:30am ET: US Prelim GDP q/q 
+TradersLog	703209216845201408	2016-02-26T13:25:16	8:30am ET: Prelim GDP Price Index q/q 
+TradersLog	703209216832573442	2016-02-26T13:25:16	8:30am ET: Personal Income m/m 
+TradersLog	703209216828436480	2016-02-26T13:25:16	8:30am ET: Core PCE Price Index m/m 
+TradersLog	703146553616134144	2016-02-26T09:16:16	Xiaomi Reveals 'Flagship Killer' Smartphone  AAPL SSNLF QCOM
+TradersLog	703126153586831360	2016-02-26T07:55:13	3:00am ET: Spanish Flash CPI y/y 
+TradersLog	703122394433527808	2016-02-26T07:40:16	2:45am ET: French Prelim CPI m/m 
+TradersLog	703122393963720705	2016-02-26T07:40:16	2:45am ET: French Consumer Spending m/m 
+TradersLog	703103484816551937	2016-02-26T06:25:08	1:30pm ET: FOMC Member Brainard Speaks 
+TradersLog	703080845700104192	2016-02-26T04:55:10	12:00am ET: BOJ Core CPI y/y 
+TradersLog	703006985533444096	2016-02-26T00:01:41	7:05pm ET: UK GfK Consumer Confidence 
+TradersLog	702997831313969152	2016-02-25T23:25:18	6:30pm ET: Tokyo Core CPI y/y 
+TradersLog	702997830944874496	2016-02-25T23:25:18	6:30pm ET: Japan National Core CPI y/y 
+TradersLog	702971500169732098	2016-02-25T21:40:40	4:45pm ET: New Zealand Trade Balance 
+TradersLog	702877057802477568	2016-02-25T15:25:24	10:30am ET: Natural Gas Storage 
+TradersLog	702854422037184512	2016-02-25T13:55:27	9:00am ET: HPI m/m 
+TradersLog	702846834990051329	2016-02-25T13:25:18	8:30am ET: Initial Jobless Claims 
+TradersLog	702846834239213569	2016-02-25T13:25:18	8:30am ET: Canada Corporate Profits q/q 
+TradersLog	702846833882767361	2016-02-25T13:25:18	8:30am ET: Core Durable Goods Orders m/m 
+TradersLog	702793957437210625	2016-02-25T09:55:11	5:00am ET: Italian Retail Sales m/m 
+TradersLog	702793957244276736	2016-02-25T09:55:11	5:00am ET: Eurozone Final CPI y/y 
+TradersLog	702786413197180928	2016-02-25T09:25:12	4:30am ET: UK Index of Services 3m/3m 
+TradersLog	702786413071364100	2016-02-25T09:25:12	4:30am ET: UK Preliminary Business Investment q/q 
+TradersLog	702786412895211520	2016-02-25T09:25:12	4:30am ET: UK Second Estimate GDP q/q 
+TradersLog	702778864632766465	2016-02-25T08:55:12	4:00am ET: Eurozone Private Loans y/y 
+TradersLog	702778864158838784	2016-02-25T08:55:12	4:00am ET: Eurozone M3 Money Supply y/y 
+TradersLog	702748653904130048	2016-02-25T06:55:10	2:00am ET: GfK German Consumer Climate 
+TradersLog	702650539759247361	2016-02-25T00:25:17	7:30pm ET: Australia Private Capital Expenditure q/q 
+TradersLog	702642996009934849	2016-02-24T23:55:19	7:00pm ET: FOMC Member Bullard Speaks 
+TradersLog	702609070394621953	2016-02-24T21:40:30	4:45pm ET: New Zealand Visitor Arrivals m/m 
+TradersLog	702555005451165696	2016-02-24T18:05:40	1:10pm ET: MPC Member Cunliffe Speaks 
+TradersLog	702549997603127296	2016-02-24T17:45:46	12:50pm ET: BOC Governing Council Member Schembri Speaks 
+TradersLog	702514673988587520	2016-02-24T15:25:25	10:30am ET: Crude Oil Inventories 
+TradersLog	702507136622972928	2016-02-24T14:55:27	10:00am ET: New Home Sales 
+TradersLog	702503417558769664	2016-02-24T14:40:41	9:45am ET: Flash Services PMI 
+TradersLog	702446702180114432	2016-02-24T10:55:19	6:00am ET: UK CBI Realized Sales 
+TradersLog	702424035330793477	2016-02-24T09:25:15	4:30am ET: BBA Mortgage Approvals 
+TradersLog	702386270392205312	2016-02-24T06:55:11	2:00am ET: UBS Consumption Indicator 
+TradersLog	702288175994118145	2016-02-24T00:25:23	7:30pm ET: Australia Wage Price Index q/q 
+TradersLog	702288173754421248	2016-02-24T00:25:23	7:30pm ET: Australia Construction Work Done q/q 
+TradersLog	702278144418512898	2016-02-23T23:45:31	6:50pm ET: Japan SPPI y/y 
+TradersLog	702175053203509248	2016-02-23T16:55:53	12:00pm ET: MPC Member Haldane Speaks 
+TradersLog	702144767732359168	2016-02-23T14:55:32	10:00am ET: Richmond Manufacturing Index 
+TradersLog	702144766968995840	2016-02-23T14:55:32	10:00am ET: CB Consumer Confidence 
+TradersLog	702144766574731265	2016-02-23T14:55:32	10:00am ET: Existing Home Sales 
+TradersLog	702129678484639744	2016-02-23T13:55:34	9:00am ET: Belgian NBB Business Climate 
+TradersLog	702129678249754625	2016-02-23T13:55:34	9:00am ET: S&amp;P/CS Composite-20 HPI y/y 
+TradersLog	702122103227752448	2016-02-23T13:25:28	8:30pm ET: FOMC Member Fischer Speaks 
+TradersLog	702116842521960450	2016-02-23T13:04:34	Brexit: Could Boris Johnson Keep Britain out of the EU?  GBPUSD
+TradersLog	702088162684903424	2016-02-23T11:10:36	6:15am ET: SNB Chairman Jordan Speaks 
+TradersLog	702069209749184512	2016-02-23T09:55:18	5:00am ET: UK Inflation Report Hearings 
+TradersLog	702054108308574209	2016-02-23T08:55:17	4:00am ET: German Ifo Business Climate 
+TradersLog	702023888117571584	2016-02-23T06:55:12	2:00am ET: German Final GDP q/q 
+TradersLog	701789903269584896	2016-02-22T15:25:26	10:30am ET: Australia CB Leading Index m/m 
+TradersLog	701778648874033152	2016-02-22T14:40:42	9:45am ET: Flash Manufacturing PMI 
+TradersLog	701741082648911873	2016-02-22T12:11:26	GBP/USD Plummets to 1 Month Lows Amid Brexit Fears  GBPUSD
+TradersLog	701721927040245760	2016-02-22T10:55:19	6:00am ET: UK CBI Industrial Order Expectations 
+TradersLog	701714836959469568	2016-02-22T10:27:09	Gann’s 29 Rules of Success 
+TradersLog	701710675849179136	2016-02-22T10:10:36	Samsung Launches S7 in Barcelona  AAPL SSNLF
+TradersLog	701692991061282816	2016-02-22T09:00:20	Understanding Support and Resistance 
+TradersLog	701691708149469184	2016-02-22T08:55:14	4:00am ET: Eurozone Flash Services PMI 
+TradersLog	701691707885281281	2016-02-22T08:55:14	4:00am ET: Eurozone Flash Manufacturing PMI 
+TradersLog	701684148411490304	2016-02-22T08:25:12	3:30am ET: German Flash Manufacturing PMI 
+TradersLog	701684147962699776	2016-02-22T08:25:12	3:30am ET: German Flash Services PMI 
+TradersLog	701680442345451521	2016-02-22T08:10:28	3:15am ET: Switzerland PPI m/m 
+TradersLog	701676606461452289	2016-02-22T07:55:14	3:00am ET: French Flash Manufacturing PMI 
+TradersLog	701676606448861185	2016-02-22T07:55:14	3:00am ET: French Flash Services PMI 
+TradersLog	701586005544062977	2016-02-22T01:55:13	9:00pm ET: Japan Flash Manufacturing PMI 
+TradersLog	701586004667457536	2016-02-22T01:55:13	9:00pm ET: New Zealand Credit Card Spending y/y 
+TradersLog	701528125159710725	2016-02-21T22:05:13	5:10pm ET: RBA Assist Gov Debelle Speaks 
+TradersLog	701344435704037376	2016-02-21T09:55:18	Chicago Traders Group February meetup  Chicago Meetup trading
+TradersLog	700695225614909440	2016-02-19T14:55:34	10:00am ET: Eurozone Consumer Confidence 
+TradersLog	700687639603781632	2016-02-19T14:25:26	9:30am ET: UK CB Leading Index m/m 
+TradersLog	700672540327464960	2016-02-19T13:25:26	8:30am ET: CPI m/m 
+TradersLog	700672539698315265	2016-02-19T13:25:25	8:30am ET: Canada Retail Sales m/m 
+TradersLog	700664968656633856	2016-02-19T12:55:20	8:00am ET: FOMC Member Mester Speaks 
+TradersLog	700645318317051905	2016-02-19T11:37:15	Dan Zanger – “10 Keys I Use to Recognize Market Reversals” 
+TradersLog	700613808079896576	2016-02-19T09:32:03	UK Retail Sales m/m 2.3% vs. 0.7% expected, -0.9% prior  GBPUSD
+TradersLog	700612105855180800	2016-02-19T09:25:17	4:30am ET: UK Retail Sales m/m 
+TradersLog	700612105851035648	2016-02-19T09:25:17	4:30am ET: UK Public Sector Net Borrowing 
+TradersLog	700574331282333696	2016-02-19T06:55:11	2:00am ET: German PPI m/m 
+TradersLog	700536585784311808	2016-02-19T04:25:12	11:30pm ET: Japan All Industries Activity m/m 
+TradersLog	700347915924074497	2016-02-18T15:55:29	11:00am ET: Crude Oil Inventories 
+TradersLog	700340411651526656	2016-02-18T15:25:40	10:30am ET: Natural Gas Storage 
+TradersLog	700332826793791488	2016-02-18T14:55:32	10:00am ET: CB Leading Index m/m 
+TradersLog	700310139115565057	2016-02-18T13:25:22	8:30am ET: Canada Wholesale Sales m/m 
+TradersLog	700310138910089216	2016-02-18T13:25:22	8:30am ET: Philly Fed Manufacturing Index 
+TradersLog	700310138184429568	2016-02-18T13:25:22	8:30am ET: Initial Jobless Claims 
+TradersLog	700295047498047488	2016-02-18T12:25:24	7:30am ET: ECB Monetary Policy Meeting Accounts 
+TradersLog	700242168204693504	2016-02-18T08:55:17	4:00am ET: Eurozone Current Account 
+TradersLog	700240926095056896	2016-02-18T08:50:21	3:55am ET: MPC Member Cunliffe Speaks 
+TradersLog	700211951113216000	2016-02-18T06:55:13	2:00am ET: Switzerland Trade Balance 
+TradersLog	700128915277410305	2016-02-18T01:25:15	8:30pm ET: China PPI y/y 
+TradersLog	700128915268988928	2016-02-18T01:25:15	8:30pm ET: China CPI y/y 
+TradersLog	700113827770277888	2016-02-18T00:25:18	7:30pm ET: Australia Unemployment Rate 
+TradersLog	700113827405373440	2016-02-18T00:25:18	7:30pm ET: Australia Employment Change 
+TradersLog	700103813219414016	2016-02-17T23:45:31	6:50pm ET: Japan Trade Balance 
+TradersLog	700091237563506688	2016-02-17T22:55:32	6:00pm ET: FOMC Member Bullard Speaks 
+TradersLog	700072379687550976	2016-02-17T21:40:36	4:45pm ET: New Zealand PPI Output q/q 
+TradersLog	700072379452628992	2016-02-17T21:40:36	4:45pm ET: New Zealand PPI Input q/q 
+TradersLog	700030809814777858	2016-02-17T18:55:25	2:00pm ET: FOMC Meeting Minutes 
+TradersLog	699959198038228992	2016-02-17T14:10:52	9:15am ET: Capacity Utilization Rate 
+TradersLog	699959197237166081	2016-02-17T14:10:51	9:15am ET: Industrial Production m/m 
+TradersLog	699947749400256513	2016-02-17T13:25:22	8:30am ET: Housing Starts 
+TradersLog	699947748569849860	2016-02-17T13:25:22	8:30am ET: PPI m/m 
+TradersLog	699947748225896448	2016-02-17T13:25:22	8:30am ET: Canada Foreign Securities Purchases 
+TradersLog	699947748221648896	2016-02-17T13:25:22	8:30am ET: Building Permits 
+TradersLog	699894887966232577	2016-02-17T09:55:19	5:00am ET: Switzerland ZEW Economic Expectations
+TradersLog	699888775946752000	2016-02-17T09:31:02	UK Unemployment Rate 5.1% vs. 5.0% expected, 5.1% prior  GBPUSD
+TradersLog	699887319952842752	2016-02-17T09:25:15	4:30am ET: UK Average Earnings Index 3m/y 
+TradersLog	699887319034236928	2016-02-17T09:25:14	4:30am ET: UK Unemployment Rate 
+TradersLog	699887318832934913	2016-02-17T09:25:14	4:30am ET: UK Claimant Count Change 
+TradersLog	699751445361532929	2016-02-17T00:25:19	7:30pm ET: FOMC Member Rosengren Speaks 
+TradersLog	699741476532711424	2016-02-16T23:45:43	6:50pm ET: Japan Core Machinery Orders m/m 
+TradersLog	699736336585072641	2016-02-16T23:25:17	6:30pm ET: Australia MI Leading Index m/m 
+TradersLog	699698630765182976	2016-02-16T20:55:28	4:00pm ET: TIC Long-Term Purchases 
+TradersLog	699608046255939584	2016-02-16T14:55:30	10:00am ET: NAHB Housing Market Index 
+TradersLog	699587306630606848	2016-02-16T13:33:06	NY Empire State Manufacturing Index (Feb) -16.64 vs. -10.00 expected 
+TradersLog	699585366534320129	2016-02-16T13:25:23	8:30am ET: Canada Manufacturing Sales m/m 
+TradersLog	699585366106439680	2016-02-16T13:25:23	8:30am ET: Empire State Manufacturing Index 
+TradersLog	699534862601084928	2016-02-16T10:04:42	Eurozone ZEW Economic Sentiment 13.6 vs. 10.3 expected, 22.7 prior
+TradersLog	699533799730868224	2016-02-16T10:00:29	BEAT ==&gt; German ZEW Economic Sentiment 1.0 vs. 0.1 expected, 10.2 prior  EURUSD DAX
+TradersLog	699532493511397376	2016-02-16T09:55:17	5:00am ET: German ZEW Economic Sentiment 
+TradersLog	699532493058404353	2016-02-16T09:55:17	5:00am ET: Eurozone ZEW Economic Sentiment 
+TradersLog	699524938655465473	2016-02-16T09:25:16	4:30am ET: PPI Output m/m 
+TradersLog	699524938391224320	2016-02-16T09:25:16	4:30am ET: UK CPI y/y 
+TradersLog	699524937128808448	2016-02-16T09:25:16	4:30am ET: UK HPI y/y 
+TradersLog	699524937011367936	2016-02-16T09:25:16	4:30am ET: UK PPI Input m/m 
+TradersLog	699517389717835776	2016-02-16T08:55:16	4:00am ET: Italian Trade Balance 
+TradersLog	699411688676835329	2016-02-16T01:55:15	9:00pm ET: New Zealand Inflation Expectations q/q 
+TradersLog	699389030178406401	2016-02-16T00:25:13	7:30pm ET: Australia Monetary Policy Meeting Minutes 
+TradersLog	699347579436474368	2016-02-15T21:40:30	4:45pm ET: New Zealand Retail Sales q/q 
+TradersLog	699230505573740544	2016-02-15T13:55:18	9:00am ET: ECB President Draghi Speaks 
+TradersLog	699170074565943296	2016-02-15T09:55:10	5:00am ET: Eurozone Trade Balance 
+TradersLog	699153467210915840	2016-02-15T08:49:10	Introduction to Market Profile 
+TradersLog	698448084444061696	2016-02-13T10:06:14	Ten Lessons I Have Learned in Working With Traders 
+TradersLog	698158489173147648	2016-02-12T14:55:29	10:00am ET: Preliminary University of Michigan Consumer Sentiment 
+TradersLog	698158489118572544	2016-02-12T14:55:29	10:00am ET: FOMC Member Dudley Speaks 
+TradersLog	698158489068249090	2016-02-12T14:55:29	10:00am ET: Preliminary University of Michigan Inflation Expectations 
+TradersLog	698158488984358912	2016-02-12T14:55:29	10:00am ET: Business Inventories m/m 
+TradersLog	698135818108542976	2016-02-12T13:25:24	8:30am ET: Import Prices m/m 
+TradersLog	698135818016321537	2016-02-12T13:25:24	8:30am ET: Retail Sales m/m 
+TradersLog	698082953121943552	2016-02-12T09:55:20	5:00am ET: Eurozone Industrial Production m/m 
+TradersLog	698082952555659265	2016-02-12T09:55:20	5:00am ET: Eurozone Flash GDP q/q 
+TradersLog	698075389692940288	2016-02-12T09:25:17	4:30am ET: UK Construction Output m/m 
+TradersLog	698067837944991744	2016-02-12T08:55:16	4:00am ET: Italian Prelim GDP q/q 
+TradersLog	698065856740380672	2016-02-12T08:47:24	Five Fibonacci Tricks 
+TradersLog	698049005817896960	2016-02-12T07:40:26	2:45am ET: French Preliminary Non-Farm Payrolls q/q 
+TradersLog	698037619003940864	2016-02-12T06:55:11	2:00am ET: German Final CPI m/m 
+TradersLog	698037618920046592	2016-02-12T06:55:11	2:00am ET: German WPI m/m 
+TradersLog	698037618890665984	2016-02-12T06:55:11	2:00am ET: German Prelim GDP q/q 
+TradersLog	697939492133584900	2016-02-12T00:25:16	7:30pm ET: Australia Home Loans m/m 
+TradersLog	697909309473161218	2016-02-11T22:25:20	5:30pm ET: RBA Governor Stevens Speaks 
+TradersLog	697898056142946304	2016-02-11T21:40:37	4:45pm ET: New Zealand FPI m/m 
+TradersLog	697843365648457728	2016-02-11T18:03:18	1:01pm ET: 30-year Bond Auction 
+TradersLog	697803649414725632	2016-02-11T15:25:29	10:30am ET: Natural Gas Storage 
+TradersLog	697796121704407040	2016-02-11T14:55:34	10:00am ET: Fed Chair Yellen Testifies 
+TradersLog	697773438119837696	2016-02-11T13:25:26	8:30am ET: Initial Jobless Claims 
+TradersLog	697773437675245569	2016-02-11T13:25:26	8:30am ET: Canada NHPI m/m 
+TradersLog	697726580592930818	2016-02-11T10:19:14	Dan Zanger – “10 Keys I Use to Recognize Market Reversals”  SPY
+TradersLog	697723698468540416	2016-02-11T10:07:47	The 10 Key Differences Between Bull and Bear Rallies… 
+TradersLog	697694175207256064	2016-02-11T08:10:28	3:15am ET: Switzerland CPI m/m 
+TradersLog	697571208540385280	2016-02-11T00:01:51	7:01pm ET: UK RICS House Price Balance 
+TradersLog	697569596744843265	2016-02-10T23:55:26	7:00pm ET: Australia MI Inflation Expectations 
+TradersLog	697531831311319040	2016-02-10T21:25:22	4:30pm ET: Business NZ Manufacturing Index 
+TradersLog	697494101374140416	2016-02-10T18:55:27	2:00pm ET: Federal Budget Balance 
+TradersLog	697481041464922113	2016-02-10T18:03:33	1:01pm ET: 10-year Bond Auction 
+TradersLog	697441254762741761	2016-02-10T15:25:27	10:30am ET: Crude Oil Inventories 
+TradersLog	697433732458872832	2016-02-10T14:55:34	10:00am ET: UK NIESR GDP Estimate 
+TradersLog	697433732152688642	2016-02-10T14:55:34	10:00am ET: Fed Chair Yellen Testifies 
+TradersLog	697403704950059008	2016-02-10T12:56:15	Introduction to Market Profile 
+TradersLog	697366982761586688	2016-02-10T10:30:19	What is your favorite stock market analytical/technical/screening software that you use? 
+TradersLog	697350606915248128	2016-02-10T09:25:15	4:30am ET: UK Industrial Production m/m 
+TradersLog	697350606487470080	2016-02-10T09:25:15	4:30am ET: UK Manufacturing Production m/m 
+TradersLog	697349212321804288	2016-02-10T09:19:42	Using Market Internals to Improve Your Trading 
+TradersLog	697347817636032513	2016-02-10T09:14:10	Yellen Testimony Eyed as Markets Price Out Hikes 
+TradersLog	697343060141801472	2016-02-10T08:55:16	4:00am ET: Italian Industrial Production m/m 
+TradersLog	697324232385105920	2016-02-10T07:40:27	2:45am ET: French Industrial Production m/m 
+TradersLog	697207168576131072	2016-02-09T23:55:17	7:00pm ET: HIA New Home Sales m/m 
+TradersLog	697204726270656512	2016-02-09T23:45:34	6:50pm ET: Japan PPI y/y 
+TradersLog	697199622729629696	2016-02-09T23:25:18	6:30pm ET: Westpac Consumer Sentiment 
+TradersLog	697071322484994048	2016-02-09T14:55:28	10:00am ET: Wholesale Inventories m/m 
+TradersLog	697071322271236097	2016-02-09T14:55:28	10:00am ET: JOLTS Job Openings 
+TradersLog	697010897655590912	2016-02-09T10:55:22	6:00am ET: NFIB Small Business Index 
+TradersLog	696988231427092481	2016-02-09T09:25:18	4:30am ET: UK Trade Balance 
+TradersLog	696961848537702400	2016-02-09T07:40:28	2:45am ET: French Government Budget Balance 
+TradersLog	696950462831050752	2016-02-09T06:55:13	2:00am ET: German Industrial Production m/m 
+TradersLog	696950461975416832	2016-02-09T06:55:13	2:00am ET: German Trade Balance 
+TradersLog	696946712821239808	2016-02-09T06:40:19	1:45am ET: Switzerland Unemployment Rate 
+TradersLog	696935350644666373	2016-02-09T05:55:10	1:00am ET: Japan Prelim Machine Tool Orders y/y 
+TradersLog	696901448622329861	2016-02-09T03:40:27	10:45pm ET: Japan 30-year Bond Auction 
+TradersLog	696852341224534017	2016-02-09T00:25:19	7:30pm ET: NAB Business Confidence 
+TradersLog	696846393739182084	2016-02-09T00:01:41	7:01pm ET: UK BRC Retail Sales Monitor y/y 
+TradersLog	696842354121187328	2016-02-08T23:45:38	6:50pm ET: Japan M2 Money Stock y/y 
+TradersLog	696741072991580160	2016-02-08T17:03:11	12:05pm ET: Governing Council Member Lane Speaks
+TradersLog	696740224290967552	2016-02-08T16:59:48	A Dying Breed: Currency Traders Are Left Out of New Wall Street 
+TradersLog	696708949651931140	2016-02-08T14:55:32	10:00am ET: Labor Market Conditions Index m/m 
+TradersLog	696686256328175616	2016-02-08T13:25:21	8:30am ET: Canada Building Permits m/m 
+TradersLog	696677372821704704	2016-02-08T12:50:03	Gold Surges to 3 Month Highs Amid Global Economic Fears, Softer Dollar  GC_F GLD USDX
+TradersLog	696664367371284480	2016-02-08T11:58:23	Apple at major 50% retracement level 
+TradersLog	696627441406767104	2016-02-08T09:31:39	MISS ==&gt; Feb Sentix Investor Confidence 6.0 vs. 7.2 expected, 9.6 prior EUR/USD Euro Eurozone
+TradersLog	696625828369661952	2016-02-08T09:25:14	4:30am ET: Sentix Investor Confidence 
+TradersLog	696588051095666689	2016-02-08T06:55:08	2:00am ET: German Industrial Production m/m 
+TradersLog	696557852626964482	2016-02-08T04:55:08	12:00am ET: Japan Economy Watchers Sentiment 
+TradersLog	696318924800061440	2016-02-07T13:05:43	The 10 Key Differences Between Bull and Bear Rallies… 
+TradersLog	695599100977405952	2016-02-05T13:25:23	8:30am ET: US Unemployment Rate 
+TradersLog	695599100331495424	2016-02-05T13:25:23	8:30am ET: Canada Trade Balance 
+TradersLog	695599100167921670	2016-02-05T13:25:23	8:30am ET: Canada Unemployment Rate 
+TradersLog	695599100084011008	2016-02-05T13:25:23	8:30am ET: US Trade Balance 
+TradersLog	695599099601670144	2016-02-05T13:25:23	8:30am ET: Average Hourly Earnings m/m 
+TradersLog	695599099186388992	2016-02-05T13:25:23	8:30am ET: Canada Employment Change 
+TradersLog	695516031729721345	2016-02-05T07:55:18	3:00am ET: Switzerland Foreign Currency Reserves 
+TradersLog	695512298245459969	2016-02-05T07:40:28	2:45am ET: French Government Budget Balance 
+TradersLog	695512297414987776	2016-02-05T07:40:28	2:45am ET: French Trade Balance 
+TradersLog	695500903005216768	2016-02-05T06:55:11	2:00am ET: German Factory Orders m/m 
+TradersLog	695470708433010688	2016-02-05T04:55:12	12:00am ET: Japan Leading Indicators 
+TradersLog	695236676923293696	2016-02-04T13:25:15	8:30am ET: Non-Farm Employment Change 
+TradersLog	695215964779081728	2016-02-04T12:02:57	UK Official Bank Rate 0.50% vs. 0.50% expected
+TradersLog	695214061076742144	2016-02-04T11:55:23	7:00am ET: UK Monetary Policy Summary 
+TradersLog	695214060959358976	2016-02-04T11:55:23	7:00am ET: MPC Official Bank Rate Votes 
+TradersLog	695214060799942656	2016-02-04T11:55:23	7:00am ET: BOE Inflation Report 
+TradersLog	695172272965943296	2016-02-04T09:09:20	Introduction to Market Profile 
+TradersLog	695171274285412352	2016-02-04T09:05:22	4:10am ET: Eurozone Retail PMI 
+TradersLog	695168739675918337	2016-02-04T08:55:17	4:00am ET: ECB Economic Bulletin 
+TradersLog	695153642870063104	2016-02-04T07:55:18	3:00am ET: ECB President Draghi Speaks 
+TradersLog	695142341586374656	2016-02-04T07:10:24	2:15am ET: FOMC Member Rosengren Speaks 
+TradersLog	695134833257926656	2016-02-04T06:40:33	1:45am ET: Switzerland SECO Consumer Climate 
+TradersLog	695040402634727428	2016-02-04T00:25:19	7:30pm ET: NAB Quarterly Business Confidence 
+TradersLog	695010250995404802	2016-02-03T22:25:31	5:30pm ET: RBNZ Assist Gov McDermott Speaks 
+TradersLog	694904567042064386	2016-02-03T15:25:34	10:30am ET: Crude Oil Inventories 
+TradersLog	694897033761681409	2016-02-03T14:55:38	10:00am ET: ISM Non-Manufacturing PMI 
+TradersLog	694893277775028224	2016-02-03T14:40:42	9:45am ET: Final Services PMI 
+TradersLog	694870601551446016	2016-02-03T13:10:36	8:15am ET: ADP Non-Farm Employment Change 
+TradersLog	694821455066984448	2016-02-03T09:55:18	5:00am ET: Italian Prelim CPI m/m 
+TradersLog	694821454706262016	2016-02-03T09:55:18	5:00am ET: Eurozone Retail Sales m/m 
+TradersLog	694816088362717184	2016-02-03T09:33:59	4 Hour Market Rhythm (MACD) Strategy 
+TradersLog	694813892804001792	2016-02-03T09:25:15	4:30am ET: UK Services PMI 
+TradersLog	694806351021789184	2016-02-03T08:55:17	4:00am ET: Final Services PMI 
+TradersLog	694805123348955136	2016-02-03T08:50:24	3:55am ET: German Final Services PMI 
+TradersLog	694803891511259136	2016-02-03T08:45:31	3:50am ET: French Final Services PMI 
+TradersLog	694802623195668480	2016-02-03T08:40:28	3:45am ET: Italian Services PMI 
+TradersLog	694795072664178688	2016-02-03T08:10:28	3:15am ET: Spanish Services PMI 
+TradersLog	694738380911972352	2016-02-03T04:25:12	11:30pm ET: BOJ Gov Kuroda Speaks 
+TradersLog	694696902672150529	2016-02-03T01:40:23	8:45pm ET: Caixin Services PMI 
+TradersLog	694678002005860353	2016-02-03T00:25:16	7:30pm ET: Australia Trade Balance 
+TradersLog	694678001880010752	2016-02-03T00:25:16	7:30pm ET: Australia Building Approvals m/m 
+TradersLog	694672068714090496	2016-02-03T00:01:42	7:01pm ET: BRC Shop Price Index y/y 
+TradersLog	694666733781700608	2016-02-02T23:40:30	6:45pm ET: RBNZ Gov Wheeler Speaks 
+TradersLog	694647815256043525	2016-02-02T22:25:19	5:30pm ET: Australia AIG Services Index 
+TradersLog	694636534125977600	2016-02-02T21:40:30	4:45pm ET: New Zealand Labor Cost Index q/q 
+TradersLog	694636533232619520	2016-02-02T21:40:29	4:45pm ET: New Zealand Unemployment Rate 
+TradersLog	694636533194854400	2016-02-02T21:40:29	4:45pm ET: New Zealand Employment Change q/q 
+TradersLog	694579966021914624	2016-02-02T17:55:43	1:00pm ET: FOMC Member George Speaks 
+TradersLog	694564809887608837	2016-02-02T16:55:29	12:00am ET: Japan Consumer Confidence 
+TradersLog	694534622487678976	2016-02-02T14:55:32	10:00am ET: IBD/TIPP Economic Optimism 
+TradersLog	694459069931876352	2016-02-02T09:55:19	5:00am ET: Eurozone Unemployment Rate 
+TradersLog	694459069147516929	2016-02-02T09:55:19	5:00am ET: Eurozone PPI m/m 
+TradersLog	694451515289911300	2016-02-02T09:25:18	4:30am ET: UK Construction PMI 
+TradersLog	694443955006611456	2016-02-02T08:55:15	4:00am ET: Italian Monthly Unemployment Rate 
+TradersLog	694442714646102016	2016-02-02T08:50:19	3:55am ET: German Unemployment Change 
+TradersLog	694432692608307200	2016-02-02T08:10:30	3:15am ET: Switzerland Retail Sales y/y 
+TradersLog	694428856674062336	2016-02-02T07:55:15	3:00am ET: Spanish Unemployment Change 
+TradersLog	694364707461971968	2016-02-02T03:40:21	10:45pm ET: Japan 10-year Bond Auction 
+TradersLog	694360887625400320	2016-02-02T03:25:10	10:30pm ET: RBA Rate Statement 
+TradersLog	694360886723645442	2016-02-02T03:25:10	10:30pm ET: RBA Cash Rate 
+TradersLog	694308077064056833	2016-02-01T23:55:19	7:00pm ET: ANZ Commodity Prices m/m 
+TradersLog	694305605880782852	2016-02-01T23:45:30	6:50pm ET: Japan Monetary Base y/y 
+TradersLog	694278587051085825	2016-02-01T21:58:08	Is Apple set to lead the virtual reality space?  AAPL
+TradersLog	694270123394359296	2016-02-01T21:24:30	Will the RBA be Next to Ease?  AUDUSD
+TradersLog	694217505640939522	2016-02-01T17:55:25	1:00pm ET: FOMC Member Fischer Speaks 
+TradersLog	694187293955981312	2016-02-01T15:55:22	11:00am ET: ECB President Draghi Speaks 
+TradersLog	694172196340682754	2016-02-01T14:55:23	10:00am ET: ISM Manufacturing Prices 
+TradersLog	694168452748062722	2016-02-01T14:40:30	9:45am ET: Final Manufacturing PMI 
+TradersLog	694164625777168384	2016-02-01T14:25:18	9:30am ET: RBC Manufacturing PMI 
+TradersLog	694164222557753344	2016-02-01T14:23:42	The 10 Key Differences Between Bull and Bear Rallies… 
+TradersLog	694162525366173696	2016-02-01T14:16:57	More Bad News out of China as Factory Activity Slips  SSEC SPY CMG
+TradersLog	694161717333483520	2016-02-01T14:13:44	Is Cable Carving out a Bottom?  GBPUSD
+TradersLog	694149506330402817	2016-02-01T13:25:13	8:30am ET: Personal Income m/m 
+TradersLog	694149506271744001	2016-02-01T13:25:13	8:30am ET: Personal Spending m/m 
+TradersLog	694149506091323392	2016-02-01T13:25:13	8:30am ET: Core PCE Price Index m/m 
+TradersLog	694143702344863744	2016-02-01T13:02:09	Google Wallet creator: Why credit cards will soon be extinct  GOOG AAPL V
+TradersLog	694137323966074880	2016-02-01T12:36:49	Dollar Mixed to Start the Week  USDX EURUSD USDJPY CL_F
+TradersLog	694136119412297728	2016-02-01T12:32:01	Gann’s 29 Rules of Success 
+TradersLog	694132934408847360	2016-02-01T12:19:22	Day Trading Futures with Tick Charts and Heikin Ashi Candlesticks 
+TradersLog	694113854486355968	2016-02-01T11:03:33	Will Alphabet pass Apple as the World’s Most Valuable Company?  GOOG AAPL
+TradersLog	694110916800028672	2016-02-01T10:51:53	New Month, Same Drivers  SPY USDX
+TradersLog	694089089738510337	2016-02-01T09:25:09	4:30am ET: UK Mortgage Approvals 
+TradersLog	694089088782176256	2016-02-01T09:25:08	4:30am ET: UK Manufacturing PMI 
+TradersLog	694089088769642496	2016-02-01T09:25:08	4:30am ET: UK Net Lending to Individuals m/m 
+TradersLog	694089088744439808	2016-02-01T09:25:08	4:30am ET: UK M4 Money Supply m/m 
+TradersLog	694081526355591168	2016-02-01T08:55:05	4:00am ET: Eurozone Final Manufacturing PMI 
+TradersLog	694080287987384320	2016-02-01T08:50:10	3:55am ET: German Final Manufacturing PMI 
+TradersLog	694079021311770625	2016-02-01T08:45:08	3:50am ET: French Final Manufacturing PMI 
+TradersLog	694077763351941120	2016-02-01T08:40:08	3:45am ET: Italian Manufacturing PMI 
+TradersLog	694073982488805376	2016-02-01T08:25:07	3:30am ET: Switzerland Manufacturing PMI 
+TradersLog	694070214573625344	2016-02-01T08:10:09	3:15am ET: Spanish Manufacturing PMI 
+TradersLog	694028685976932356	2016-02-01T05:25:07	12:30am ET: Australia Commodity Prices y/y 
+TradersLog	693975847192100865	2016-02-01T01:55:10	9:00pm ET: Japan Final Manufacturing PMI 
+TradersLog	693972112365785089	2016-02-01T01:40:19	8:45pm ET: China Caixin Manufacturing PMI 
+TradersLog	693960752294682624	2016-02-01T00:55:11	8:00pm ET: China Manufacturing PMI 
+TradersLog	693960751854272513	2016-02-01T00:55:11	8:00pm ET: China Non-Manufacturing PMI 
+TradersLog	693938107025113089	2016-01-31T23:25:12	6:30pm ET: Australia MI Inflation Gauge m/m 
+TradersLog	693923004192002048	2016-01-31T22:25:11	5:30pm ET: AIG Manufacturing Index 
+TradersLog	693911703420035072	2016-01-31T21:40:17	4:45pm ET: New Zealand Visitor Arrivals m/m 
+TradersLog	692975548201582592	2016-01-29T07:40:20	2:45am ET: French Prelim CPI m/m 
+TradersLog	692975548029603840	2016-01-29T07:40:20	2:45am ET: French Consumer Spending m/m 
+TradersLog	692964191976710144	2016-01-29T06:55:12	2:00am ET: German Retail Sales m/m 
+TradersLog	692956629655015425	2016-01-29T06:25:09	1:30am ET: French Prelim GDP q/q 
+TradersLog	692933979884908546	2016-01-29T04:55:09	12:00am ET: BOJ Outlook Report 
+TradersLog	692933979436158976	2016-01-29T04:55:09	12:00am ET: Japan Housing Starts y/y 
+TradersLog	692933978895048704	2016-01-29T04:55:09	12:00am ET: BOJ Core CPI y/y 
+TradersLog	692775757676986369	2016-01-28T18:26:26	Finally, a glimmer of hope for crude oil prices?  CL_F USO XOM BP RIG
+TradersLog	692755154081284097	2016-01-28T17:04:34	Under Armour adds tech to clothing business  UA
+TradersLog	692751565141196800	2016-01-28T16:50:18	Amazon Is Creating Its Own Streaming Music Service to Compete With Apple Music: Report  AMZN BABA
+TradersLog	692702579717988352	2016-01-28T13:35:39	How to Survive and Prosper in this Global Financial Crisis   elliottwaveintl
+TradersLog	692691296243294208	2016-01-28T12:50:49	Roundup of Apple stories  AAPL
+TradersLog	692689462241947649	2016-01-28T12:43:32	Heard on the Street: Optimism Ahead for Apple Stock?  AAPL
+TradersLog	692688507890987008	2016-01-28T12:39:44	Why Jan FOMC Statement Should Make Dollar Bulls Worried  USDX EURUSD
+TradersLog	692669418644598784	2016-01-28T11:23:53	Is Apple’s Winning Streak Finally Over?  AAPL
+TradersLog	692503701244792833	2016-01-28T00:25:23	7:30pm ET: Australia Import Prices q/q 
+TradersLog	692493682960961540	2016-01-27T23:45:34	6:50pm ET: Japan Retail Sales y/y 
+TradersLog	692462231112531968	2016-01-27T21:40:35	4:45pm ET: New Zealand Trade Balance 
+TradersLog	692435796419284993	2016-01-27T19:55:33	3:00pm ET: RBNZ Rate Statement 
+TradersLog	692435795962126338	2016-01-27T19:55:33	3:00pm ET: New Zealand Official Cash Rate 
+TradersLog	692420680290275329	2016-01-27T18:55:29	2:00pm ET: FOMC Statement 
+TradersLog	692420679631765509	2016-01-27T18:55:29	2:00pm ET: Federal Funds Rate 
+TradersLog	692367824115888130	2016-01-27T15:25:27	10:30am ET: Crude Oil Inventories 
+TradersLog	692360286389587969	2016-01-27T14:55:30	10:00am ET: New Home Sales 
+TradersLog	692277184845733888	2016-01-27T09:25:17	4:30am ET: UK BBA Mortgage Approvals 
+TradersLog	692239407710085121	2016-01-27T06:55:10	2:00am ET: UK Nationwide HPI m/m 
+TradersLog	692239407471071236	2016-01-27T06:55:10	2:00am ET: UBS Consumption Indicator 
+TradersLog	692239407269744641	2016-01-27T06:55:10	2:00am ET: GfK German Consumer Climate 
+TradersLog	692141273189326848	2016-01-27T00:25:13	7:30pm ET: Australia Trimmed Mean CPI q/q 
+TradersLog	692141272673488897	2016-01-27T00:25:13	7:30pm ET: Australia CPI q/q 
+TradersLog	692126181777412096	2016-01-26T23:25:15	6:30pm ET: Australia MI Leading Index m/m 
+TradersLog	691997853691027456	2016-01-26T14:55:19	10:00am ET: Richmond Manufacturing Index 
+TradersLog	691997852445310976	2016-01-26T14:55:19	10:00am ET: CB Consumer Confidence 
+TradersLog	691995596467671040	2016-01-26T14:46:21	Here Is What to Look for in Facebook’s Fourth Quarter Earnings Report  FB
+TradersLog	691994112313155584	2016-01-26T14:40:27	9:45am ET: Flash Services PMI 
+TradersLog	691985123038883841	2016-01-26T14:04:44	Commerce faces chaos as Amazon takes over  AMZN
+TradersLog	691982746399457280	2016-01-26T13:55:17	9:00am ET: HPI m/m 
+TradersLog	691982745933864960	2016-01-26T13:55:17	9:00am ET: S&amp;P/CS Composite-20 HPI y/y 
+TradersLog	691971678595895298	2016-01-26T13:11:19	Wall Street awaits Apple earnings: Here’s what to expect  AAPL
+TradersLog	691970253526540289	2016-01-26T13:05:39	EUR: Parity By Mid-2016: JPY: Looking To Renew Shorts – Nomura  via forexcrunch
+TradersLog	691953614080851970	2016-01-26T11:59:32	George Soros: Donald Trump, Ted Cruz Are ‘Doing the Work of ISIS’ 
+TradersLog	691952806677385216	2016-01-26T11:56:19	Fed expectations ahead of FOMC  SPY USDX
+TradersLog	691951712467292160	2016-01-26T11:51:58	GBP/JPY keeps afloat above lows but downside risk remains  GBPJPY
+TradersLog	691950345635889152	2016-01-26T11:46:32	Will Oil Help Drive Risk FX Higher?  AUDUSD EURUSD CL_F
+TradersLog	691948645520900097	2016-01-26T11:39:47	It may Feel Bad, but Its Different  SPY CL_F
+TradersLog	691933652805107712	2016-01-26T10:40:12	5:45am ET: BOE Governor Carney Speaks 
+TradersLog	691909856631099392	2016-01-26T09:05:39	Hands-on with Mate 8: Chinese smartphone giant enters U.S.  AAPL
+TradersLog	691906522947911680	2016-01-26T08:52:24	What to Watch Tuesday: Tech Giant Releases Quarterly Results  AAPL PG LMT JNJ T
+TradersLog	691901944630263808	2016-01-26T08:34:13	Dollar Back in Focus, Here’s What to Expect from FOMC  EURUSD USDX
+TradersLog	691185408378540032	2016-01-24T09:06:57	Google paid Apple $1B in 2014 to be its default search engine, according to a report 
+TradersLog	691183898164924416	2016-01-24T09:00:57	FX: 3 Central Bank Meetings, 3 Reasons to be Worried  EURUSD GBP/USD USDCAD USDX
+TradersLog	690548361867481089	2016-01-22T14:55:33	10:00am ET: Existing Home Sales 
+TradersLog	690548361779363840	2016-01-22T14:55:33	10:00am ET: CB Leading Index m/m 
+TradersLog	690544614919532544	2016-01-22T14:40:40	9:45am ET: Flash Manufacturing PMI 
+TradersLog	690525684515655680	2016-01-22T13:25:27	8:30am ET: Canada CPI m/m 
+TradersLog	690503016835850240	2016-01-22T11:55:22	7:00am ET: MPC Member Cunliffe Speaks 
+TradersLog	690483603499794432	2016-01-22T10:38:14	Cramer: Oil could go to $10 
+TradersLog	690480205585072128	2016-01-22T10:24:44	Euro to Fall as ECB Prepares Market for More Easing  EURUSD
+TradersLog	690478851588243456	2016-01-22T10:19:21	Dan Zanger – “10 Keys I Use to Recognize Market Reversals” 
+TradersLog	690465258935316480	2016-01-22T09:25:20	4:30am ET: UK Retail Sales m/m 
+TradersLog	690465257890922496	2016-01-22T09:25:20	4:30am ET: UK Public Sector Net Borrowing 
+TradersLog	690457699251834880	2016-01-22T08:55:18	4:00am ET: Eurozone Flash Manufacturing PMI 
+TradersLog	690457699239247872	2016-01-22T08:55:18	4:00am ET: Eurozone Flash Services PMI 
+TradersLog	690450138834186240	2016-01-22T08:25:15	3:30am ET: German Flash Manufacturing PMI 
+TradersLog	690450137932533760	2016-01-22T08:25:15	3:30am ET: German Flash Services PMI 
+TradersLog	690442599992311808	2016-01-22T07:55:18	3:00am ET: French Flash Manufacturing PMI 
+TradersLog	690442599690326016	2016-01-22T07:55:18	3:00am ET: French Flash Services PMI 
+TradersLog	690438838217474048	2016-01-22T07:40:21	2:45am ET: ECB President Draghi Speaks 
+TradersLog	690345905992630272	2016-01-22T01:31:04	8:35pm ET: Japan Flash Manufacturing PMI 
+TradersLog	690193490572091392	2016-01-21T15:25:25	10:30am ET: Natural Gas Storage 
+TradersLog	690185956972969984	2016-01-21T14:55:29	10:00am ET: Eurozone Consumer Confidence 
+TradersLog	690163291126120448	2016-01-21T13:25:25	8:30am ET: Initial Jobless Claims 
+TradersLog	690163291079974914	2016-01-21T13:25:25	8:30am ET: Philly Fed Manufacturing Index 
+TradersLog	690163290069176320	2016-01-21T13:25:25	8:30am ET: ECB Press Conference 
+TradersLog	690152007034880002	2016-01-21T12:40:35	7:45am ET: Eurozone Minimum Bid Rate 
+TradersLog	690099891092230148	2016-01-21T09:13:30	The 10 Key Differences Between Bull and Bear Rallies… 
+TradersLog	690083926086422528	2016-01-21T08:10:03	The Netflix network  NFLX AMZN
+TradersLog	690079916084326400	2016-01-21T07:54:07	Apple Q4 earnings won’t save stock: Analyst  AAPL
+TradersLog	689872778946854913	2016-01-20T18:11:02	Gann’s 29 Rules of Success 
+TradersLog	689859749299355648	2016-01-20T17:19:15	Apple facing even more product concerns?  AAPL
+TradersLog	689839906487689216	2016-01-20T16:00:24	Goldman Sachs Earnings Fall Amid $5 Billion Mortgage Securities Settlement  GS
+TradersLog	689838595188867074	2016-01-20T15:55:12	Netflix accelerates internationally  NFLX
+TradersLog	689836222374633473	2016-01-20T15:45:46	Oil Under $28: Counting the Cost  CL_F
+TradersLog	689833970008219648	2016-01-20T15:36:49	USD/JPY falls to one-year low on drops in stocks, US CPI  USDJPY
+TradersLog	689749640611270656	2016-01-20T10:01:43	Financial analyst: It’s time to cut up Yahoo!  YHOO MSFT BABA
+TradersLog	689747477113741312	2016-01-20T09:53:08	Yahoo Worth More Dead than Alive  YHOO
+TradersLog	689744401128628224	2016-01-20T09:40:54	How Iran returns to the oil market  CL_F OIL USO XOM BP
+TradersLog	689589485428981760	2016-01-19T23:25:19	6:30pm ET: Australia Westpac Consumer Sentiment 
+TradersLog	689563129974525952	2016-01-19T21:40:36	4:45pm ET: New Zealand CPI q/q 
+TradersLog	689461188346839040	2016-01-19T14:55:31	10:00am ET: NAHB Housing Market Index 
+TradersLog	689435478295126016	2016-01-19T13:13:21	The gold market in 90 seconds  GC_F GLD
+TradersLog	689378093211844608	2016-01-19T09:25:20	4:30am ET: UK PPI Input m/m 
+TradersLog	689378092935053312	2016-01-19T09:25:20	4:30am ET: UK PPI Output m/m 
+TradersLog	689359259088347137	2016-01-19T08:10:29	3:15am ET: Switzerland PPI m/m 
+TradersLog	689340319222132737	2016-01-19T06:55:14	2:00am ET: German Final CPI m/m 
+TradersLog	689264826665807873	2016-01-19T01:55:15	9:00pm ET: China GDP q/y 
+TradersLog	689264826523238400	2016-01-19T01:55:15	9:00pm ET: China Retail Sales y/y 
+TradersLog	689264826493857793	2016-01-19T01:55:15	9:00pm ET: China Fixed Asset Investment ytd/y 
+TradersLog	689264826468691968	2016-01-19T01:55:15	9:00pm ET: China NBS Press Conference 
+TradersLog	689264826451931137	2016-01-19T01:55:15	9:00pm ET: China Industrial Production y/y 
+TradersLog	689008418036813825	2016-01-18T08:56:22	Lifting of Iran sanctions adds to panic about oil oversupply  CL_F OIL USO XOM BP
+TradersLog	689008149894971393	2016-01-18T08:55:18	4:00am ET: Italian Trade Balance 
+TradersLog	688671109345095680	2016-01-17T10:36:02	White House closely watching stock market selloff  SPY USDX CL_F
+TradersLog	688667244176474112	2016-01-17T10:20:40	Stocks Pummeled Amid Oil and China Fears  SPY CL_F
+TradersLog	687988958232461312	2016-01-15T13:25:24	8:30am ET: Retail Sales m/m 
+TradersLog	687988957427167232	2016-01-15T13:25:24	8:30am ET: Empire State Manufacturing Index 
+TradersLog	687988957116796928	2016-01-15T13:25:24	8:30am ET: PPI m/m 
+TradersLog	687974047762743297	2016-01-15T12:26:09	US stock futures tank as oil plunges  SPY CL_F
+TradersLog	687945896554807296	2016-01-15T10:34:17	Will Alphabet overtake Apple as world’s biggest company? (Market Cap 488 Billion vs. 539 Billion)  AAPL GOOG
+TradersLog	687943594590769156	2016-01-15T10:25:08	Wall Street Bounce  SPY AAPL INTC JPM
+TradersLog	687936076732887040	2016-01-15T09:55:16	5:00am ET: Eurozone Trade Balance Trade 
+TradersLog	687928541447585792	2016-01-15T09:25:20	4:30am ET: BOE Credit Conditions Survey 
+TradersLog	687928540969435136	2016-01-15T09:25:19	4:30am ET: UK Construction Output m/m 
+TradersLog	687902122227187712	2016-01-15T07:40:21	2:45am ET: French Gov Budget Balance 
+TradersLog	687748767982989312	2016-01-14T21:30:58	Day Trading Futures with Tick Charts and Heikin Ashi Candlesticks 
+TradersLog	687696337731719168	2016-01-14T18:02:38	1:01pm ET: 30-year Bond Auction 
+TradersLog	687656763718561792	2016-01-14T15:25:23	10:30am ET: Natural Gas Storage 
+TradersLog	687648182680031233	2016-01-14T14:51:17	Fed’s Bullard: Oil Price Drop has Implications for Monetary Policy  CL_F DXY SPY
+TradersLog	687627476919554048	2016-01-14T13:29:00	GoPro Shares Free Fall in After Hours Session  GPRO
+TradersLog	687626555489693696	2016-01-14T13:25:20	8:30am ET: Initial Jobless Claims 
+TradersLog	687626555481272321	2016-01-14T13:25:20	8:30am ET: Import Prices m/m 
+TradersLog	687626555317710849	2016-01-14T13:25:20	8:30am ET: FOMC Member Bullard Speaks 
+TradersLog	687626555317698560	2016-01-14T13:25:20	8:30am ET: Canada NHPI m/m 
+TradersLog	687624679268466688	2016-01-14T13:17:53	Can GoPro Come Back?  GPRO
+TradersLog	687611454841839616	2016-01-14T12:25:20	7:30am ET: ECB Monetary Policy Meeting Accounts 
+TradersLog	687603913026043906	2016-01-14T11:55:22	7:00am ET: UK Asset Purchase Facility 
+TradersLog	687603913017659392	2016-01-14T11:55:22	7:00am ET: BOE Official Bank Rate 
+TradersLog	687603912677961730	2016-01-14T11:55:22	7:00am ET: MPC Asset Purchase Facility Votes 
+TradersLog	687603912581472256	2016-01-14T11:55:22	7:00am ET: BOE Monetary Policy Summary 
+TradersLog	687603912577298433	2016-01-14T11:55:22	7:00am ET: MPC Official Bank Rate Votes 
+TradersLog	687592016528719872	2016-01-14T11:08:06	Can oil fall to $10 a barrel?  CL_F OIL XOM BP RIG
+TradersLog	687586592521891841	2016-01-14T10:46:33	Tech Giants Take a Stake in Virtual Reality  FB AAPL GOOG MSFT
+TradersLog	687558574076243968	2016-01-14T08:55:12	4:00am ET: Italian Industrial Production m/m 
+TradersLog	687528365771853824	2016-01-14T06:55:10	2:00am ET: German WPI m/m 
+TradersLog	687513263442124801	2016-01-14T05:55:10	1:00am ET: Japan Prelim Machine Tool Orders y/y 
+TradersLog	687430228176695302	2016-01-14T00:25:12	7:30pm ET: Australia Employment Change 
+TradersLog	687430228000509953	2016-01-14T00:25:12	7:30pm ET: Australia Unemployment Rate 
+TradersLog	687420202447929344	2016-01-13T23:45:22	6:50pm ET: Japan PPI y/y 
+TradersLog	687420202179506176	2016-01-13T23:45:22	6:50pm ET: Japan Core Machinery Orders m/m 
+TradersLog	687347195209740288	2016-01-13T18:55:16	2:00pm ET: Beige Book 
+TradersLog	687347195117498368	2016-01-13T18:55:16	2:00pm ET: Federal Budget Balance 
+TradersLog	687333465897971712	2016-01-13T18:00:42	1:01pm ET: 10-year Bond Auction 
+TradersLog	687317426690736129	2016-01-13T16:56:58	4 Hour Market Rhythm (MACD) Strategy 
+TradersLog	687310400556298241	2016-01-13T16:29:03	Webinar: Day Trading Futures with Tick Charts and Heikin Ashi Candlesticks  EminiMind
+TradersLog	687057861189451776	2016-01-12T23:45:33	6:50pm ET: Japan M2 Money Stock y/y 
+TradersLog	686924471039586304	2016-01-12T14:55:30	10:00am ET: JOLTS Job Openings 
+TradersLog	686924470527889408	2016-01-12T14:55:30	10:00am ET: NIESR GDP Estimate 
+TradersLog	686924470238494721	2016-01-12T14:55:30	10:00am ET: IBD/TIPP Economic Optimism 
+TradersLog	686913245806997504	2016-01-12T14:10:54	9:15am ET: BOE Gov Carney Speaks 
+TradersLog	686864035866882048	2016-01-12T10:55:22	6:00am ET: NFIB Small Business Index 
+TradersLog	686856462501572608	2016-01-12T10:25:16	5:30am ET: FOMC Member Fischer Speaks 
+TradersLog	686856462451224576	2016-01-12T10:25:16	5:30am ET: BOJ Gov Kuroda Speaks
+TradersLog	686841356141113344	2016-01-12T09:25:14	4:30am ET: UK Manufacturing Production m/m 
+TradersLog	686841355612614657	2016-01-12T09:25:14	4:30am ET: UK Industrial Production m/m 
+TradersLog	686773391731339266	2016-01-12T04:55:10	12:00am ET: Japan Consumer Confidence 
+TradersLog	686773391685193729	2016-01-12T04:55:10	12:00am ET: Japan Economy Watchers Sentiment 
+TradersLog	686699533582118912	2016-01-12T00:01:41	7:01pm ET: BRC Retail Sales Monitor y/y 
+TradersLog	686697932553347072	2016-01-11T23:55:20	7:00pm ET: ANZ Commodity Prices m/m 
+TradersLog	686695443175227392	2016-01-11T23:45:26	6:50pm ET: Japan Current Account 
+TradersLog	686695441728188416	2016-01-11T23:45:26	6:50pm ET: Japan Bank Lending y/y 
+TradersLog	686569577812226049	2016-01-11T15:25:17	10:30am ET: BOC Business Outlook Survey 
+TradersLog	686562026903191552	2016-01-11T14:55:17	10:00am ET: Labor Market Conditions Index m/m 
+TradersLog	686535596362350592	2016-01-11T13:10:16	8:15am ET: Canada Housing Starts 
+TradersLog	686512842460270592	2016-01-11T11:39:51	David Bowie dead: musical genius was a financial innovator 
+TradersLog	685271007700058112	2016-01-08T01:25:14	8:30pm ET: Japan Average Cash Earnings y/y 
+TradersLog	685255908998385664	2016-01-08T00:25:14	7:30pm ET: Australia Retail Sales m/m 
+TradersLog	685225716867317761	2016-01-07T22:25:16	5:30pm ET: AIG Construction Index 
+TradersLog	685120021752877056	2016-01-07T15:25:16	10:30am ET: Natural Gas Storage 
+TradersLog	685112469245804544	2016-01-07T14:55:16	10:00am ET: Ivey PMI 
+TradersLog	685089807828168704	2016-01-07T13:25:13	8:30am ET: Initial Jobless Claims 
+TradersLog	685088575881351169	2016-01-07T13:20:19	8:25am ET: BOC Gov Poloz Speaks 
+TradersLog	685074707314524163	2016-01-07T12:25:12	7:30am ET: Challenger Job Cuts y/y 
+TradersLog	685041210407432192	2016-01-07T10:12:06	Webinar: Day Trading Futures with Tick Charts and Heikin Ashi Candlesticks  EminiMind
+TradersLog	685038969596284928	2016-01-07T10:03:12	Eurozone Unemployment Rate 10.5% vs. 10.7% expected
+TradersLog	684550065311100928	2016-01-06T01:40:28	8:45pm ET: Caixin Services PMI 
+TradersLog	684525167301771264	2016-01-06T00:01:32	7:01pm ET: BRC Shop Price Index y/y 
+TradersLog	684500946269941760	2016-01-05T22:25:17	5:30pm ET: AIG Services Index 
+TradersLog	684365062933446657	2016-01-05T13:25:20	8:30am ET: Canada RMPI m/m 
+TradersLog	684365062790889472	2016-01-05T13:25:20	8:30am ET: Canada IPPI m/m 
+TradersLog	684312183027712002	2016-01-05T09:55:12	5:00am ET: Eurozone CPI Flash Estimate y/y 
+TradersLog	684312183006752769	2016-01-05T09:55:12	5:00am ET: Italian Prelim CPI m/m 
+TradersLog	684304645808898048	2016-01-05T09:25:15	4:30am ET: UK Construction PMI 
+TradersLog	684295851460706305	2016-01-05T08:50:19	3:55am ET: German Unemployment Change 
+TradersLog	684281988732289024	2016-01-05T07:55:14	3:00am ET: Spanish Unemployment Change 
+TradersLog	684217862257545220	2016-01-05T03:40:25	10:45pm ET: Japan 10-y Bond Auction 
+TradersLog	684158759363547136	2016-01-04T23:45:33	6:50pm ET: Japan Monetary Base y/y 
+TradersLog	684102676066516993	2016-01-04T20:02:42	Dow industrials haven’t started the year this horribly in 84 years 
+TradersLog	684025352373559296	2016-01-04T14:55:27	10:00am ET: US Construction Spending m/m 
+TradersLog	684025352205766656	2016-01-04T14:55:27	10:00am ET: ISM Manufacturing Prices 
+TradersLog	684025352201580544	2016-01-04T14:55:27	10:00am ET: ISM Manufacturing PMI 
+TradersLog	684021632772497408	2016-01-04T14:40:40	9:45am ET: US Final Manufacturing PMI 
+TradersLog	684017793583431681	2016-01-04T14:25:25	9:30am ET: Canada RBC Manufacturing PMI 
+TradersLog	683942249407901696	2016-01-04T09:25:13	4:30am ET: UK Net Lending to Individuals m/m 
+TradersLog	683942248187297792	2016-01-04T09:25:13	4:30am ET: UK Manufacturing PMI 
+TradersLog	683942248183164928	2016-01-04T09:25:13	4:30am ET: UK Mortgage Approvals 
+TradersLog	683942248011173888	2016-01-04T09:25:13	4:30am ET: UK M4 Money Supply m/m 
+TradersLog	683934729796743169	2016-01-04T08:55:21	4:00am ET: Eurozone Final Manufacturing PMI 
+TradersLog	683933475007774724	2016-01-04T08:50:21	3:55am ET: German Final Manufacturing PMI 
+TradersLog	683932233619664897	2016-01-04T08:45:25	3:50am ET: French Final Manufacturing PMI 
+TradersLog	683930962149961728	2016-01-04T08:40:22	3:45am ET: Italian Manufacturing PMI 
+TradersLog	683927145664655360	2016-01-04T08:25:12	3:30am ET: Switzerland Manufacturing PMI 
+TradersLog	683923420615163904	2016-01-04T08:10:24	3:15am ET: Spanish Manufacturing PMI 
+TradersLog	683881830685224961	2016-01-04T05:25:09	12:30am ET: Australia Commodity Prices y/y 
+TradersLog	683825253957660674	2016-01-04T01:40:20	8:45pm ET: Caixin Manufacturing PMI 
+TradersLog	683822831482859522	2016-01-04T01:30:42	8:35pm ET: Japan Final Manufacturing PMI 
+TradersLog	683776146828341249	2016-01-03T22:25:12	5:30pm ET: AIG Manufacturing Index 
+TradersLog	683776146295681024	2016-01-03T22:25:11	5:30pm ET: FOMC Member Mester Speaks 
+TradersLog	683712001483386882	2016-01-03T18:10:18	1:15pm ET: FOMC Member Fischer Speaks 
+TradersLog	682596933672779776	2015-12-31T16:19:25	TradersLog natgas on TTMobile 
+TradersLog	683621432258097152	2016-01-03T12:10:25	forexcrunch the new responsive design looks sharp!
+TradersLog	682934897795829760	2016-01-01T14:42:22	10 Stocks That Stand to Benefit From the Rise of Virtual Reality 
+TradersLog	682726742373601282	2016-01-01T00:55:14	8:00pm ET: China Non-Manufacturing PMI 
+TradersLog	682726741073334272	2016-01-01T00:55:14	8:00pm ET: China Manufacturing PMI 
+TradersLog	682583321671499776	2015-12-31T15:25:20	10:30am ET: Natural Gas Storage 
+TradersLog	682572043276136449	2015-12-31T14:40:31	9:45am ET: Chicago PMI 
+TradersLog	682562476165218306	2015-12-31T14:02:30	Using Market Internals to Improve Your Trading 
+TradersLog	682553113090363392	2015-12-31T13:25:18	8:30am ET: Initial Jobless Claims 
+TradersLog	682492699916779521	2015-12-31T09:25:14	4:30am ET: UK Housing Equity Withdrawal q/q 
+TradersLog	682356808711847936	2015-12-31T00:25:15	7:30pm ET: Australia Private Sector Credit m/m 
+TradersLog	682319411873734657	2015-12-30T21:56:39	Introduction to Market Profile 
+TradersLog	682220949505224704	2015-12-30T15:25:24	10:30am ET: Crude Oil Inventories 
+TradersLog	682213405269319680	2015-12-30T14:55:25	10:00am ET: Pending Home Sales m/m 
+TradersLog	682192962848178178	2015-12-30T13:34:11	Apple 'to pay €318m' to settle Italy tax fraud case 
+TradersLog	682191476630155265	2015-12-30T13:28:17	Gann’s 29 Rules of Success 
+TradersLog	682122761179906048	2015-12-30T08:55:14	4:00am ET: Eurozone Private Loans y/y 
+TradersLog	682122760953434113	2015-12-30T08:55:14	4:00am ET: Eurozone M3 Money Supply y/y 
+TradersLog	682107661698097152	2015-12-30T07:55:14	3:00am ET: Spanish Flash CPI y/y 
+TradersLog	682092545812381696	2015-12-30T06:55:10	2:00am ET: UBS Consumption Indicator 
+TradersLog	682092545229328384	2015-12-30T06:55:10	2:00am ET: UK Nationwide HPI m/m 
+TradersLog	681850972897951745	2015-12-29T14:55:14	10:00am ET: CB Consumer Confidence 
+TradersLog	681835878327672832	2015-12-29T13:55:15	9:00am ET: S&amp;P/CS Composite-20 HPI y/y 
+TradersLog	681828311937499137	2015-12-29T13:25:11	8:30am ET: US Goods Trade Balance 

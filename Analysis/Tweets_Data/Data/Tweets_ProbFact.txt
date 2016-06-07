@@ -1,0 +1,150 @@
+ProbFact	726079510337167360	2016-04-29T16:03:39	Shaking a ladder: Monte Carlo in everyday life 
+ProbFact	725717649347469312	2016-04-28T16:05:45	If X and Y are independent gamma rvs, P(X &gt; Y) can be computed in terms of the CDF of a beta distribution. 
+ProbFact	725354992790605824	2016-04-27T16:04:41	The most obvious way to compute correlation and covariance may have severe numerical problems. 
+ProbFact	724992356919943168	2016-04-26T16:03:42	Albert Einstein published his paper on Brownian motion in 1905.
+ProbFact	724630007000256512	2016-04-25T16:03:51	The normal approximation to the Student-t distribution may not be as good as you think, depending on how you use it. 
+ProbFact	724406316333207553	2016-04-25T01:14:59	What are the big problems in probability theory? 
+ProbFact	723542830610812928	2016-04-22T16:03:48	The log of a Pareto random variable has an exponential distribution.
+ProbFact	723180371433664513	2016-04-21T16:03:31	Scientists don't necessarily understand basic probability. 
+ProbFact	722818050941181952	2016-04-20T16:03:47	Four ways to think about a negative binomial distribution. 
+ProbFact	722455689696845825	2016-04-19T16:03:53	One advantage of characteristic functions over moment generating functions is that the former exists for any distribution.
+ProbFact	722126477060345856	2016-04-18T18:15:43	Bayes factors vs p-values 
+ProbFact	722103730288594946	2016-04-18T16:45:19	"What is the probability that I saw what I just saw?!"  One, if you're telling the truth.
+ProbFact	722093253143740416	2016-04-18T16:03:42	What probabilists call 'characteristic functions' everyone else calls Fourier transforms.
+ProbFact	721006122673565696	2016-04-15T16:03:49	Distributions are uniquely determined by their moment generating functions if the MGF exists in a neighborhood of zero.
+ProbFact	720641030203301888	2016-04-14T15:53:05	Do you need weirdly shaped but fair dice, or a fair 120-sided die? Of course you do. The Dice Lab Unique Designs 
+ProbFact	720643718513078272	2016-04-14T16:03:46	Chebyshev published the famous inequality that bears his name in 1866.
+ProbFact	720281375014649856	2016-04-13T16:03:56	If X and Y are independent, the moment generating function (MGF) of X+Y is the product of the MGF's of X and Y.
+ProbFact	719986258353762304	2016-04-12T20:31:15	"The knowledge of an average is a meager piece of information." -- Francis Galton
+ProbFact	719968811332595712	2016-04-12T19:21:55	jodyaberdein The only day my prof for graduate probability brought notes to class when when he proved the CLT. Looked at them once.
+ProbFact	719964670707265536	2016-04-12T19:05:28	sherifffruitfly "Final" in the sense that necessary and sufficient conditions were finally identified.
+ProbFact	719918948192514050	2016-04-12T16:03:47	The central limit theorem achieved its final form around 1935 in papers by Feller, Lévy, and Cramér. 
+ProbFact	719903446552469504	2016-04-12T15:02:11	Long run or broken software? 
+ProbFact	719556590643331072	2016-04-11T16:03:54	The central limit theorem began in 1733 when de Moivre approximated binomial probabilities using the integral of exp(-x^2).
+ProbFact	718862386724225024	2016-04-09T18:05:23	A theorem a day Means promotion and pay! A theorem a year And you're out on your ear!  Paul Erdos
+ProbFact	718469468259807232	2016-04-08T16:04:04	A Weibull random variable can have increasing, constant, or decreasing hazard.
+ProbFact	718107030993637376	2016-04-07T16:03:52	The exponential distribution has constant hazard.
+ProbFact	718096163300384773	2016-04-07T15:20:41	.ProbFact is brought to you by  
+ProbFact	717804724645445632	2016-04-06T20:02:37	"All possible 'definitions' of probability fall short of the actual practice." -- William Feller
+ProbFact	717744658756014083	2016-04-06T16:03:56	The exponential distribution is a special case of both the Weibull and gamma distributions. 
+ProbFact	717385294144806912	2016-04-05T16:15:57	Preferential attachment models 
+ProbFact	717382221120860161	2016-04-05T16:03:44	If X is an exponential random variable and c &gt; 0, then X^c is a Weibull random variable. 
+ProbFact	717019813374246914	2016-04-04T16:03:39	If X has mean mu and variance sigma^2, then (X - mu)/sigma has mean 0 and variance 1.
+ProbFact	716307608253177856	2016-04-02T16:53:36	"Probability has reference party to our ignorance, partly to our knowledge." -- Laplace
+ProbFact	715938919473348609	2016-04-01T16:28:34	When has the Borel-Cantelli heuristic been wrong? 
+ProbFact	715932736536625154	2016-04-01T16:04:00	How to test a random number generator 
+ProbFact	715570306241445888	2016-03-31T16:03:50	The 'folded normal' distribution is the distribution on the absolute value of a normal random variable. 
+ProbFact	714845500000878592	2016-03-29T16:03:43	You can write a Student-t distribution as a continuous mixture of normal distributions. 
+ProbFact	714483048230813697	2016-03-28T16:03:27	The product of two independent log-normal random variables has a log-normal distribution. 
+ProbFact	713395890728341506	2016-03-25T16:03:29	Bayes theorem is easy to prove, hard to understand.
+ProbFact	713033551990681600	2016-03-24T16:03:40	The 80-20 rule corresponds to a Pareto probability distribution with shape log(5)/log(4) = 1.161.
+ProbFact	712671246383771648	2016-03-23T16:04:00	Legendre published the method of least squares in 1805.
+ProbFact	712656613291728896	2016-03-23T15:05:51	More Twitter accounts like ProbFact 
+ProbFact	712379620851589120	2016-03-22T20:45:11	Distribution of shapes from Voronoi triangulations of random points  
+ProbFact	712308792273346560	2016-03-22T16:03:44	The CDF of a normal distribution has upper and lower bounds that look like the normal PDF. 
+ProbFact	711946443397963776	2016-03-21T16:03:54	You can write a negative binomial distribution as a continuous mixture of Poisson distributions. 
+ProbFact	711507839303352320	2016-03-20T11:01:02	What is the probability that a point chosen randomly from inside a triangle is closer to the center than any of ... 
+ProbFact	710859235106689024	2016-03-18T16:03:43	Computing P(X &gt; Y) for independent random variables 
+ProbFact	710496916774240256	2016-03-17T16:04:00	The sum of independent chi-squared random variables has a chi-squared distribution. 
+ProbFact	710134447769841664	2016-03-16T16:03:40	The distribution of the sum of independent uniform rvs can be written down in closed form, but it's complicated. 
+ProbFact	709832256651661312	2016-03-15T20:02:52	 
+ProbFact	709772056137736192	2016-03-15T16:03:39	As the degrees of freedom increase, the Student-t distribution becomes approximately normal. 
+ProbFact	709409633807552514	2016-03-14T16:03:31	The Kumaraswamy distribution is like a beta distribution, but it has a closed-form CDF. 
+ProbFact	708819409738063873	2016-03-13T00:58:11	That awkward moment when you read a paper &amp; think "Why are they going to so much effort? Why not code up a simulation and be done with it?"
+ProbFact	708337604270358528	2016-03-11T17:03:39	Var(X) = Var( E(X|Y) ) + E( Var(X|Y) )
+ProbFact	707975280674119680	2016-03-10T17:03:55	The Berry-Esséen theorem quantifies the error in approximations based on the central limit theorem. 
+ProbFact	707613197428269056	2016-03-09T17:05:07	If X and Y are independent and exponentially distributed then min(X, Y) is also exponentially distributed. 
+ProbFact	707250771260284928	2016-03-08T17:04:58	Random walks and the arcsine law 
+ProbFact	706888405163057152	2016-03-07T17:05:03	Var(X + Y) = Var(X) + Var(Y) + 2 Cov(X, Y)
+ProbFact	705801337477455873	2016-03-04T17:05:26	The Levy distribution is a special case of the Inverse Gamma distribution. 
+ProbFact	705438828987871232	2016-03-03T17:04:57	The sum of two independent Poisson random variables is also Poisson. 
+ProbFact	705076488358461441	2016-03-02T17:05:09	Chebyshev's inequality: P( |X - mu| &gt; k sigma) &lt; 1/k^2 
+ProbFact	704714096126599168	2016-03-01T17:05:08	The minimum of two independent geometric random variables also has a geometric distribution.  
+ProbFact	704699171471810560	2016-03-01T16:05:49	Two examples of randomization done poorly  
+ProbFact	704351616191885312	2016-02-29T17:04:46	The sum of two independent Cauchy random variables is also Cauchy. 
+ProbFact	704335821072109568	2016-02-29T16:02:00	Nonlocality and statistical inference 
+ProbFact	703264581590892544	2016-02-26T17:05:16	E( E(X|Y) ) = E(X) 
+ProbFact	702902088465063937	2016-02-25T17:04:51	Bonferroni's inequality: P(A &amp; B) &gt;= P(A) + P(B) - 1. 
+ProbFact	702638574714404864	2016-02-24T23:37:45	Understanding Gibbs's inequality 
+ProbFact	702539755054039040	2016-02-24T17:05:04	If two independent random variables have log-concave PDFs, their sum also has a log-concave PDF. 
+ProbFact	702177371244331009	2016-02-23T17:05:05	Random walk on a clock 
+ProbFact	701814990433599490	2016-02-22T17:05:07	If X is a beta distribution with mean mu, then Var(X) &lt; mu(1 - mu).
+ProbFact	701409193526501376	2016-02-21T14:12:37	A pdf can have a singularity,  becoming infinite at a point, and yet a region around that point could have small probability.
+ProbFact	701408760489766913	2016-02-21T14:10:54	A pdf is a probability DENSITY function. It does not give a probability until you integrate it over a set. Common mistake.
+ProbFact	701108973408223233	2016-02-20T18:19:39	The empty middle: no one is average 
+ProbFact	700727812504813568	2016-02-19T17:05:04	Jensen's inequality can explain why housing market volatility hurts banks. 
+ProbFact	700442464025473024	2016-02-18T22:11:11	Paper that proved seven shuffles will sufficiently randomize a deck of cards  via @madcaptenor
+ProbFact	700365450832711680	2016-02-18T17:05:10	Jensen's inequality: If f is convex and X is a random variable, f( E(X) ) &lt;= E( f(X) ). 
+ProbFact	700003005828108288	2016-02-17T17:04:56	Upper and lower bounds on binomial coefficients 
+ProbFact	699775386150952961	2016-02-17T02:00:27	"Every time you shuffle a deck of cards, you're making history. " -- mathyawp  // i.e. probably generating new permutations
+ProbFact	697903289220747264	2016-02-11T22:01:25	Probability of achieving a yahtzee with 5 dice given n rolls:  (normally n=3) 
+ProbFact	699640654234836993	2016-02-16T17:05:05	The mean of a Poisson random variable equals its variance.  This can be a problem in applications. 
+ProbFact	699632409315303428	2016-02-16T16:32:19	 
+ProbFact	699417329541779456	2016-02-16T02:17:40	The Hermite polynomials are orthogonal on (-∞, ∞) with respect to a weight given by a normal distribution pdf.
+ProbFact	699417132333993988	2016-02-16T02:16:53	The Laguerre polynomials are orthogonal on [0, ∞) with respect to a weight given by a gamma distribution pdf.
+ProbFact	699416960770174977	2016-02-16T02:16:12	The Jacobi polynomials are orthogonal on [0, 1] with respect to a weight given by a beta distribution pdf.
+ProbFact	699278223746711553	2016-02-15T17:04:55	Illustrating the error in the delta method  [pdf]
+ProbFact	698191208275906561	2016-02-12T17:05:30	Many things are approximately normal in the middle but not in the tails.
+ProbFact	698157177572352000	2016-02-12T14:50:16	Improving on Chebyshev’s inequality 
+ProbFact	697911667171201024	2016-02-11T22:34:42	The second ace paradox 
+ProbFact	697828729511399424	2016-02-11T17:05:08	Hoeffding's inequality 
+ProbFact	697466406229692416	2016-02-10T17:05:24	If the sum of two independent random variables is Gaussian, the random variables must be Gaussian.
+ProbFact	697392887697375233	2016-02-10T12:13:16	jpastonc I forget his value of epsilon, but there's a sort of natural value.
+ProbFact	697392789227757568	2016-02-10T12:12:52	jpastonc Persi Diaconis defines this rigorously in his paper. The distance between the deck's distribution and uniform is &lt; epsilon.
+ProbFact	697103845055401984	2016-02-09T17:04:42	A knight's random walk 
+ProbFact	696741518678347776	2016-02-08T17:04:57	It takes about 1.5 log_2(d) riffle shuffles to shuffle a deck of d cards.
+ProbFact	696722732701065216	2016-02-08T15:50:18	Connection between hypergeometric distribution and hypergeometric functions 
+ProbFact	696454430330376192	2016-02-07T22:04:10	Super Bowl squares with other moduli 
+ProbFact	696009224556572672	2016-02-06T16:35:05	What is the probability that two random permutations have the same order? 
+ProbFact	695654304800231424	2016-02-05T17:04:45	Alan Turing's statistical work during World War II 
+ProbFact	695291975537393664	2016-02-04T17:04:59	Markov chains don't converge 
+ProbFact	694929588611342336	2016-02-03T17:04:59	The Markov Chain Monte Carlo Revolution  by Persi Diaconis
+ProbFact	694567181015764994	2016-02-02T17:04:55	In theory a normal distribution can take on negative values. Sometimes in practice this is absolutely irrelevant. 
+ProbFact	694204664204627970	2016-02-01T17:04:24	Probabilities of earthquakes and hurricanes  // rocks have memory but air does not
+ProbFact	693481133753909248	2016-01-30T17:09:21	cipri_tom 
+ProbFact	693481056117329920	2016-01-30T17:09:02	matthew_d_green Agreed. That's why my post says a *good* random number generator (though the tweet left that out).
+ProbFact	693477282808270849	2016-01-30T16:54:03	Not only are consecutive seeds OK, they're BETTER than randomly chosen seeds because of the birthday problem.
+ProbFact	693476904041631744	2016-01-30T16:52:32	It's OK to seed an RNG with consecutive integers. The results will be as independent as any other choice of seeds. 
+ProbFact	693117640542388224	2016-01-29T17:04:57	Entropy satisfies H(X,Y) = H(X) + H(Y|X) = H(Y) + H(X|Y)
+ProbFact	693100446953705472	2016-01-29T15:56:38	Two examples of randomization done poorly  
+ProbFact	692900320918147073	2016-01-29T02:41:24	There's a 20% chance of finding a random 8-digit number in the new record prime. Is this what we'd expect? 
+ProbFact	692755204433920000	2016-01-28T17:04:46	Levels of uncertainty 
+ProbFact	692392943261450241	2016-01-27T17:05:16	A doubly stochastic matrix (i.e. non-negative entries, rows and columns sum to 1) is a convex combination of permutation matrices.
+ProbFact	692030396758933505	2016-01-26T17:04:38	Ellsberg Paradox 
+ProbFact	691668034247888897	2016-01-25T17:04:44	Integration by Darts 
+ProbFact	690580864577728513	2016-01-22T17:04:43	Random Fibonacci sequence 
+ProbFact	690533672760524801	2016-01-22T13:57:11	Reverse Chernoff bound 
+ProbFact	690342130745741313	2016-01-22T01:16:04	The Ziggurat Random Normal Generator 
+ProbFact	690218464368267264	2016-01-21T17:04:40	If X ~ chisq(m) and Y ~ chisq(n) are independent then X/(X+Y) ~ beta(m/2, n/2)
+ProbFact	690205573720186882	2016-01-21T16:13:26	Sometimes it helps to add noise: stochastic resonance 
+ProbFact	690056287040724994	2016-01-21T06:20:14	Shaking a ladder: Monte Carlo in everyday life 
+ProbFact	689863215514292225	2016-01-20T17:33:02	Upper and lower bounds on binomial coefficients  
+ProbFact	689513618182934528	2016-01-19T18:23:51	Let X be an exponential r.v. with rate λ. Then the expected value of f(X) is λL(λ) where L is the Laplace transform of f.
+ProbFact	689493613571510273	2016-01-19T17:04:22	How many errors are left to find? 
+ProbFact	689219204537565184	2016-01-18T22:53:58	Lest men suspect your tale untrue, keep probability in view.  John Gay (1727)
+ProbFact	689131408632205313	2016-01-18T17:05:05	Introduction to stochastic PDEs by Fields medalist Martin Hairer  [pdf]
+ProbFact	689079034874085376	2016-01-18T13:36:59	Probability that a globally unique identifier (GUID) isn't unique 
+ProbFact	688876231245303808	2016-01-18T00:11:06	New post: Spectra of random graphs  
+ProbFact	688794773721866240	2016-01-17T18:47:25	Probabilistic Graphical Models for Fraud Detection - Part 1 
+ProbFact	688464543324983297	2016-01-16T20:55:12	"Nature abhors an unconditioned probability." -- jakevdp
+ProbFact	688044167126216704	2016-01-15T17:04:47	Efron's dice 
+ProbFact	687681681713709056	2016-01-14T17:04:24	Normal tail probability bounds 
+ProbFact	687319314387628034	2016-01-13T17:04:28	The expected number of cycles in a random permutation of n items is the nth harmonic number, asymptotically log n.
+ProbFact	686988734856859648	2016-01-12T19:10:52	
+ProbFact	686956916338225152	2016-01-12T17:04:26	Cornish-Fisher expansion 
+ProbFact	686594557681774593	2016-01-11T17:04:33	What do you believe is likely to happen after seeing a coin come up heads 10 times? 
+ProbFact	686341000185384960	2016-01-11T00:17:00	Vino, cerveza y estadísticas    Spanish translation of my blog post "Beer, wine, and statistics"
+ProbFact	685872814751088640	2016-01-09T17:16:36	@NextGenCarrots Always natural logs. :) 
+ProbFact	685507383230107648	2016-01-08T17:04:30	Let V(n) be the number of distinct points visited by a random walk on Z^2. V(n) ~ πn/log n asymptotically.
+ProbFact	685144979128369152	2016-01-07T17:04:27	Bertrand's ballot theorem 
+ProbFact	684789589966454784	2016-01-06T17:32:15	Ramanujan continued fraction for erf(a), closely related to normal CDF: 
+ProbFact	684782555854430209	2016-01-06T17:04:18	Why isn't everything normally distributed? 
+ProbFact	684479940352438274	2016-01-05T21:01:49	If the PDF of a random variable is log-concave, so is the PDF.
+ProbFact	684420126951772160	2016-01-05T17:04:08	'Probabilistic' comes from Latin.  'Stochastic' comes from Greek.
+ProbFact	684057748200374272	2016-01-04T17:04:11	Explaining probability to a jury  
+ProbFact	683380442825932800	2016-01-02T20:12:48	A brief history of generative models for power law and lognormal distributions 
+ProbFact	681883390505791490	2015-12-29T17:04:03	Probabilities of data loss and data unavailability with replication and erasure coding 
+ProbFact	681520982922780672	2015-12-28T17:03:59	When is correlation transitive? 
+ProbFact	680584646946586625	2015-12-26T03:03:19	A random variable is a measurable function on a probability space.
+ProbFact	680584554458001413	2015-12-26T03:02:57	A probability space is a measure space such that the measure of the whole space is 1.
+ProbFact	680433710555115526	2015-12-25T17:03:33	'Complete disorder is impossible.' -- T. Motzkin

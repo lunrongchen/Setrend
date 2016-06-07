@@ -1,0 +1,30 @@
+SpinoffMonitor	649770979137294336	2015-10-02T02:20:48	Madison Square Garden MSG completes MSGN spinoff 
+SpinoffMonitor	649770978512343041	2015-10-02T02:20:48	Blackstone BX completes spinoff of PJT Partners PJT 
+SpinoffMonitor	649763125936435200	2015-10-02T01:49:35	Capital Southwest CSWC completes spinoff of CSW Industrials CSWI 
+SpinoffMonitor	649397378617856000	2015-10-01T01:36:14	Fidelity National Financial FNF FNFV completes spinoff of JAX 
+SpinoffMonitor	647222148000534528	2015-09-25T01:32:39	Air Products APD announces spinoff of Materials Technologies 
+SpinoffMonitor	647220805307363328	2015-09-25T01:27:19	Capital Southwest Corp CSWC spinoff CSWI will trade ‘regular-way’ 9/30 
+SpinoffMonitor	647217902530232326	2015-09-25T01:15:47	SPX Corporation SPW will spinoff SPXC on 9/26 
+SpinoffMonitor	635991118769979392	2015-08-25T01:44:33	Emergent BioSolutions EBS announces spinoff of Biosciences business 
+SpinoffMonitor	635991118249881600	2015-08-25T01:44:33	General Electric GE sells online deposit platform to Goldman Sachs GS 
+SpinoffMonitor	635991117633298432	2015-08-25T01:44:33	Ventas VTR completes spin-off of pure-play SNF REIT CCP 
+SpinoffMonitor	625834785861181440	2015-07-28T01:06:55	Computer Sciences (CSC) files Form 10 for its spinoff 
+SpinoffMonitor	625834785286582273	2015-07-28T01:06:54	WestRock’s (WRK) spinoff Ingevity to trade 9/1 
+SpinoffMonitor	625833433139429377	2015-07-28T01:01:32	Exterran Holdings (EXH) pulls spinoff, citing market conditions 
+SpinoffMonitor	618601823335792641	2015-07-08T02:05:42	Graham Holdings Company GHC completes spinoff of Cable One CABO 
+SpinoffMonitor	618594201182142464	2015-07-08T01:35:25	Integra IART completes spinoff of SeaSpine SPNE 
+SpinoffMonitor	618594200645308416	2015-07-08T01:35:25	NiSource NI completes distribution of CPGX 
+SpinoffMonitor	618594200049750016	2015-07-08T01:35:24	Babcock &amp; Wilcox completes BW spinoff 
+SpinoffMonitor	618594199315869696	2015-07-08T01:35:24	Baxter International BAX completes spinoff of BWLT 
+SpinoffMonitor	618594198577504256	2015-07-08T01:35:24	Energizer Holdings ENR completes spinoff of Edgewell ENR 
+SpinoffMonitor	618592845319000064	2015-07-08T01:30:01	Gannett GCI completes spinoff of TEGNA TGNA 
+SpinoffMonitor	618589214230208512	2015-07-08T01:15:36	DuPont DD completes spinoff of CC 
+SpinoffMonitor	615223049378357248	2015-06-28T18:19:39	IACI announces plan to carve-out  via IPO 
+SpinoffMonitor	615215333821976576	2015-06-28T17:49:00	Darden Restaurants DRI plans to spinoff REIT 
+SpinoffMonitor	611707010703314944	2015-06-19T01:28:10	Capital Southwest CSWC files spinoff CSWI with SEC 
+SpinoffMonitor	611706971478196224	2015-06-19T01:28:01	Starwood Hotels &amp; Resorts Worldwide HOT files spinoff SVO with SEC 
+SpinoffMonitor	611705525324152832	2015-06-19T01:22:16	Integra LifeSciences Holdings IART sets spinoff date of 7/1 for SPNE 
+SpinoffMonitor	609189714541723648	2015-06-12T02:45:20	Babcock &amp; Wilcox Company (BWC) formally announces spinoff of BWXT on 6/30 
+SpinoffMonitor	609189713853853696	2015-06-12T02:45:20	TriMas Corporation (TRS) spinoff (HZN) will be distributed 6/30 
+SpinoffMonitor	609189712339734528	2015-06-12T02:45:20	Bob Evans Farms (BOBE) facing activist pressure, may convert to REIT 
+SpinoffMonitor	609188162896695296	2015-06-12T02:39:10	Graham Holdings (GHC) spinoff Cable One (CABO) starts when-issued trading 

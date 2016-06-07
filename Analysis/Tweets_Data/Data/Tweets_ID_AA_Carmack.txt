@@ -1,0 +1,30 @@
+ID_AA_Carmack	726249000072941568	2016-04-30T03:17:09	_Kaven_ A small amount of C# with Unity projects, little past "Hello World" in Javascript.
+ID_AA_Carmack	726238769053986816	2016-04-30T02:36:30	If you are recording video in Minecraft VR, consider turning down some quality options to keep it smooth.
+ID_AA_Carmack	726077146116972547	2016-04-29T15:54:16	ThorElvinV moving sideways isn't a fundamental problem for comfort, accelerating sideways, or smoothly changing from forward to side, is.
+ID_AA_Carmack	725561108426268672	2016-04-28T05:43:43	OH "Sometimes the grass is only greener because it is *highly* radioactive"
+ID_AA_Carmack	725545335137787904	2016-04-28T04:41:02	Me in Minecraft Oculus VR with my son, filming him building because even in VR, I'm still a dad. 
+ID_AA_Carmack	725462575886921728	2016-04-27T23:12:11	My public VR critiques are finally being given a proper home on the Oculus web site. #1 Nightime Terror: 
+ID_AA_Carmack	725433205835321344	2016-04-27T21:15:28	SeargeDP Shadertoy FTW! It is clear with ray tracing -- I thought you were suggesting some way to handle the problem with rasterization.
+ID_AA_Carmack	725432364755603456	2016-04-27T21:12:08	nothings that is sort of a problem by itself -- super crisp things only a cm or two from your eye don't feel realistic.
+ID_AA_Carmack	725401064514588672	2016-04-27T19:07:45	jason_dovey that is exactly what my suggestion would do, at least for fully enclosed objects
+ID_AA_Carmack	725399191971762177	2016-04-27T19:00:19	SeargeDP I'm not understanding how SDF can help determine that a polygonal shell has been penetrated by the near clip plane.
+ID_AA_Carmack	725384504508993536	2016-04-27T18:01:57	The Mojang announcement, with links to some more info: 
+ID_AA_Carmack	725382665424134144	2016-04-27T17:54:39	ThePengwn You can turn off the jump turns in the options, but that will make almost everyone sick.  No cables on GearVR, so turn for real!
+ID_AA_Carmack	725380398922928128	2016-04-27T17:45:38	kav2k Standing is great, but be careful about slowly drifting your position over extended gameplay!
+ID_AA_Carmack	725379903374249984	2016-04-27T17:43:40	I wish this was emphasized more: Play Minecraft in a swivel chair for best effect.  Don't even touch the right stick; turn in reality.
+ID_AA_Carmack	725379550859796480	2016-04-27T17:42:16	Minecraft announcement: 
+ID_AA_Carmack	725379449479303172	2016-04-27T17:41:52	_tomcc Saxs I'm quite proud to have worked a little on Minecraft, even if you did rewrite almost everything I coded. :-)
+ID_AA_Carmack	725378138318856192	2016-04-27T17:36:39	SeargeDP there is probably a good abstract game to be made there, but it is hard to compete with polygonal boundary reps in general
+ID_AA_Carmack	725377826262638592	2016-04-27T17:35:25	. _tomcc saxs Thanks for all the hard work -- Minecraft GearVR turned out great!
+ID_AA_Carmack	725376626243018753	2016-04-27T17:30:39	cmsimike Coming soon to Rift.
+ID_AA_Carmack	725375271881166848	2016-04-27T17:25:16	Minecraft Gear VR is live! 
+ID_AA_Carmack	725362411713257476	2016-04-27T16:34:10	Moving into "solid" geometry in VR is a visual problem. Maybe always rendering back sides as a constant color would mitigate(at a pef cost).
+ID_AA_Carmack	725292680113090562	2016-04-27T11:57:04	RickKing16 I read that recently as well
+ID_AA_Carmack	725058194276515840	2016-04-26T20:25:19	I categorize techniques into "that's obvious", "that's clever!", and "that's magic!!!"  (mostly heavy math that I don't intuitively grok)
+ID_AA_Carmack	725052806806278145	2016-04-26T20:03:54	D0S81 On my to-do list!
+ID_AA_Carmack	724940957586743298	2016-04-26T12:39:27	rygorous it feels like there should be some kind of server hosted dev environment for open source projects that "just works"
+ID_AA_Carmack	724933737641840641	2016-04-26T12:10:46	Public service announcement -- I have nothing to do with Blackroom, that is Romero and ADRIAN Carmack, the founding artist of Id, not me.
+ID_AA_Carmack	724777378195464192	2016-04-26T01:49:27	That feeling like a word on the tip of your tongue, but rather an idea that won't quite come together.  Sigh.
+ID_AA_Carmack	724673118585786368	2016-04-25T18:55:09	nairebis this series is light on the math using pseudo code instead of formulas
+ID_AA_Carmack	724615058697781248	2016-04-25T15:04:27	I have been enjoying this series:  Very practical -- I have already used some of the described techniques.
+ID_AA_Carmack	676487762225307649	2015-12-14T19:43:45	"not only are we not plugging the holes, we’re proud of how fast the pipeline is leaking" great post by danluu 

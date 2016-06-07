@@ -1,0 +1,750 @@
+mbostock	726247560621395968	2016-04-30T03:11:26	Elijah_Meeks You clicked through right? 
+mbostock	726112038548701184	2016-04-29T18:12:55	A beeswarm plot using d3.forceCollide. 🐝🐝🐝  d3js
+mbostock	726042928280264704	2016-04-29T13:38:17	JanWillemTulp NadiehBremer OpenVisConf Do I get to wear a costume?
+mbostock	726040728225243136	2016-04-29T13:29:33	baldpower manuelaristaran A scale-to-fit-viewport constraint might help (and is easy to implement) but I haven’t felt it was necessary.
+mbostock	726040400792674304	2016-04-29T13:28:15	baldpower manuelaristaran The defaults aren’t especially data-specific; it’s a lot about default viewport size, too.
+mbostock	726039212236005376	2016-04-29T13:23:32	NadiehBremer OpenVisConf Just when I was starting to get over my FOMO… 😩 I’ll have to come back next year!
+mbostock	725839372273115136	2016-04-29T00:09:26	Fresh API docs for d3-force. Try it out and send me links! 
+mbostock	725830306876387328	2016-04-28T23:33:25	nelson Yes. HCL is ugly.
+mbostock	725822806550667264	2016-04-28T23:03:36	adrianco Now available in D3 4.0 alpha 30! 
+mbostock	725817756927430656	2016-04-28T22:43:32	vruba nelson Cubehelix rainbow also isn’t perceptually uniform, but does have smooth luminance gradient. 
+mbostock	725817004058255360	2016-04-28T22:40:33	Swizec Notice here  that the update &amp; exit transitions aren’t 750ms duration; they are at default 250ms.
+mbostock	725815909470769153	2016-04-28T22:36:12	Swizec Dunno if there’s a good way to do it in react. You’d want to create it just before enter &amp; leave.
+mbostock	725815377435848704	2016-04-28T22:34:05	vruba nelson That sinebow has some similarities with Dave Green’s cubehelix (and d3.scaleRainbow). Seen it? 
+mbostock	725681222781784064	2016-04-28T13:41:00	Swizec So not sure it’s safe to inherit transition parameters the way you’re describing. That technique is more for synchronizing.
+mbostock	725680946180055040	2016-04-28T13:39:54	Swizec Calling selection.transition(transition) also inherits the start (reference) time of the transition.
+mbostock	725680761190289408	2016-04-28T13:39:10	Swizec Calling d3.transition creates and starts a transition on the document element.
+mbostock	725527028926021632	2016-04-28T03:28:17	martgnz Nice!
+mbostock	725520782466519040	2016-04-28T03:03:28	ChazDazzle Not endorsing Canvas. It’s fine for non-interactive stuff but a pain to debug and add interaction.
+mbostock	725513130550300673	2016-04-28T02:33:04	If you let the Voronoi go to the edge it really does look sunflowery. 🌻 
+mbostock	725402890861481984	2016-04-27T19:15:01	MarkHintz Exactly. Though often you also have gravity and other forces, too. See Jakobsen: 
+mbostock	725402497259569152	2016-04-27T19:13:27	MarkHintz Actually, that centering force is superfluous. But the repulsive force is necessary; otherwise trivially solved with overlap.
+mbostock	725401988150620160	2016-04-27T19:11:25	MarkHintz And there’s a quadratic many-body force that causes the nodes to repel each other.
+mbostock	725401589775630336	2016-04-27T19:09:50	MarkHintz There’s also a centering force whose strength is proportional to distance from origin. 
+mbostock	725399994719555584	2016-04-27T19:03:30	MarkHintz The nodes are initialized in a phyllotaxis. 
+mbostock	725398035396583425	2016-04-27T18:55:43	Brideau Glad they were helpful.
+mbostock	725397860267659266	2016-04-27T18:55:01	TatumCreative Of course! It’s already a standalone library. 
+mbostock	725397071520387072	2016-04-27T18:51:53	d3-force 0.3 can now apply constraints, such as link distance in this lattice, multiple times per step. Rigid! 
+mbostock	725354572676390912	2016-04-27T16:03:01	adrianco See . I haven’t released it as part of the default alpha build yet. Standalone: 
+mbostock	725335321026555904	2016-04-27T14:46:31	nelson I know it’s your pet peeve. 😜
+mbostock	725312985418231808	2016-04-27T13:17:46	Milr0c Copying adds overhead, yes, and so does rendering the intermediate state.
+mbostock	725312599005356032	2016-04-27T13:16:13	Milr0c It’s static because the point is to demonstrate doing all the work in the background (reduce jank, etc.).
+mbostock	725178326013370368	2016-04-27T04:22:40	arnicas Thanks!
+mbostock	725161913261264896	2016-04-27T03:17:27	Computing a static force-directed layout in a background web worker.  d3js
+mbostock	725125179408564224	2016-04-27T00:51:29	And by phyllotaxis, I mean the initial layout looks like this: 
+mbostock	725124754701717504	2016-04-27T00:49:48	Using phyllotaxis, d3-force initialization is now deterministic! Consistent across reload and across browsers. 
+mbostock	725042897301590016	2016-04-26T19:24:32	thomasp85 👍👍
+mbostock	725037116460261379	2016-04-26T19:01:33	thomasp85 I don’t personally plan on it, but D3 4.0 is modular! 
+mbostock	725022390799966209	2016-04-26T18:03:02	thomasp85 Haha, no. Using velocity Verlet instead of position Verlet.
+mbostock	725014550458847234	2016-04-26T17:31:53	My scripts for rendering GIFs of force-directed layouts:  d3js
+mbostock	725014300780302336	2016-04-26T17:30:54	neilhalloran In 4.0, call simulation.stop() and then simulation.tick() to run manually. In 3.x: 
+mbostock	725009039038402560	2016-04-26T17:09:59	The same first 60 frames in D3 4.0. (2/2) 
+mbostock	725008899569422338	2016-04-26T17:09:26	The first 60 frames of a force-directed graph in D3 3.5. (1/2) 
+mbostock	724648357910732804	2016-04-25T17:16:46	Your media business will not be saved 
+mbostock	724709657588060161	2016-04-25T21:20:21	Elijah_Meeks The new simulation is literally just position += velocity * drag. You can do a lot with that. 😜 
+mbostock	724709375323955201	2016-04-25T21:19:14	Elijah_Meeks Also, the new force simulation is wholly modular, so you should be able to plug in new forces or constraints, including CoLa.
+mbostock	724671048759668738	2016-04-25T18:46:56	Elijah_Meeks Here’s a collision detection example: 
+mbostock	724668489475055617	2016-04-25T18:36:46	Elijah_Meeks Verlet integration always allows constraints (e.g., collision detection) but it is fundamentally different from CoLa.
+mbostock	724663505660436480	2016-04-25T18:16:58	Rewrite of D3’s force layout for 4.0 using velocity Verlet seems to be going well. 
+mbostock	649601481109168128	2015-10-01T15:07:16	Here's the full-length video.  
+mbostock	724313033787351040	2016-04-24T19:04:18	alvinsight It’s available over both HTTP and HTTPS. If a block loads resources over HTTP, you must use HTTP (or ask the author to fix it).
+mbostock	724272619294347264	2016-04-24T16:23:43	Updated all the examples for Creating Effective Network Data Visualization in D3JS  
+mbostock	723602425316151296	2016-04-22T20:00:36	shashashasha 
+mbostock	723601995647471616	2016-04-22T19:58:54	eagereyes visualisingdata 
+mbostock	723567566552072193	2016-04-22T17:42:05	waxpancake Breakfast Can Wait
+mbostock	723192078776180742	2016-04-21T16:50:02	hadleywickham Maybe. I’ll add it to the list of things to look at when I have time. 😜 D3 4.0 version is here: 
+mbostock	723190891645558785	2016-04-21T16:45:19	kennelliott alignedleft Thanks for saying so!
+mbostock	723186690903269377	2016-04-21T16:28:37	hadleywickham I believe I just did it from scratch. Hex tessellation is a Voronoi diagram, so just compute the closest hex center.
+mbostock	723179957510234116	2016-04-21T16:01:52	hadleywickham Which paper are you referring to?
+mbostock	723174444399611907	2016-04-21T15:39:58	alignedleft I can’t even. Stuff like this makes me want to stop doing open-source entirely.
+mbostock	723012762440359936	2016-04-21T04:57:30	A little example using d3.nest to make a treemap from CSV. 
+mbostock	722895034731798528	2016-04-20T21:09:41	natebates This is a nuanced subject that is difficult to talk about in &lt;140 characters. I’ll try to write something up.
+mbostock	722438042426806272	2016-04-19T14:53:46	ocertat No. See each respective example. Mine tend to be GPL-licensed.
+mbostock	722433589430759424	2016-04-19T14:36:04	Don’t “steal”. Be inspired and, when appropriate, ask for permission and give attribution. 
+mbostock	722123049009479680	2016-04-18T18:02:05	yelperalp Yes, it’s on the list. 
+mbostock	722093958470311936	2016-04-18T16:06:30	t_tsonev But I do think imperial units are silly!
+mbostock	722093641343180802	2016-04-18T16:05:14	t_tsonev I didn’t. The “long ton” is 2,240 lbs., the “short ton” (or “ton”) is 2,000 lbs., and the “metric ton” is 1,000 kg.
+mbostock	721528382484193280	2016-04-17T02:39:06	FogleBird I had, but thanks for the reminder! It’s lovely.
+mbostock	721407953878786050	2016-04-16T18:40:33	Stephen Curry's stunning 3-pointers record of 402 is perfectly normal -- in the mid 2030s! 
+mbostock	721211308247425025	2016-04-16T05:39:10	chieflybrit Quite right!
+mbostock	721209678902861824	2016-04-16T05:32:41	themappist Yes. I probably shouldn’t have given such a precise figure.
+mbostock	721185450904281089	2016-04-16T03:56:25	20,000 tons of ice would be a cube 88 feet 9 inches on each edge.
+mbostock	721134798777888768	2016-04-16T00:35:08	sharoz I was hoping someone would send me a screenshot like that. 😜
+mbostock	721122911096975361	2016-04-15T23:47:54	mbostock Here's what happens when you forgot you had the tab open for 4 hours 
+mbostock	721119265860902912	2016-04-15T23:33:25	jondot Thanks.
+mbostock	721099031447883777	2016-04-15T22:13:01	DoPhuoc ireneros Sure, if you’d like to limit to 20 FPS. See also D3 4.0’s d3.interval. And you can call force.tick manually.
+mbostock	721073703522414592	2016-04-15T20:32:22	ireneros There was a bug where stopping and starting a force layout caused duplicate ticks. Don’t recall if I fixed for 3.x or just 4.0.
+mbostock	721070794332188673	2016-04-15T20:20:48	KristinHenry The d3-quadtree repo is the 4.0 API, though still in development. If many points change, best to discard &amp; rebuild tree.
+mbostock	721070591113957377	2016-04-15T20:20:00	KristinHenry Quadtrees don’t requiring rebalancing in the same manner as BSP trees; removal removes the leaf node but doesn’t collapse.
+mbostock	721063617995538432	2016-04-15T19:52:17	ireneros The force layout uses d3.timer internally, so it should be equivalent.
+mbostock	721061478757830656	2016-04-15T19:43:47	In related news, a faster non-recursive quadtree implementation is now available in d3-quadtree 0.4. 
+mbostock	721061144845111296	2016-04-15T19:42:28	This animation shows how adding points to a quadtree changes its structure. 
+mbostock	721060646800887808	2016-04-15T19:40:29	mge_de Yes.
+mbostock	721060519377895424	2016-04-15T19:39:59	jondot leanpub Neat, but sounds like you’re encouraging people to take other people’s work without permission (&amp; attribution)?
+mbostock	721059954661072897	2016-04-15T19:37:44	ireneros Not sure what you mean. Are you changing the topology or the positions? Either way, should be doable.
+mbostock	720009814638596096	2016-04-12T22:04:51	It only took me 5 months to make something at google. (And dsmilkov did all the hard work) 
+mbostock	719362333244436480	2016-04-11T03:12:00	hannah_recht Yeah, Safari’s crispEdges is pretty poor. You should get better results if you offset the stroke by a half-pixel.
+mbostock	718994573565890560	2016-04-10T02:50:39	shashashasha rachelbinx I look forward to “tweet drafts discarded by your friends” coming soon!
+mbostock	718499824123977729	2016-04-08T18:04:41	Here’s me in NewYorker arguing that Facebook’s closed system will hurt the company in the long run. 
+mbostock	718591297850724353	2016-04-09T00:08:10	adamrpearce nytgraphics Congrats to you both!
+mbostock	718561436201431040	2016-04-08T22:09:31	Landing from the chase plane 
+mbostock	718498984692568064	2016-04-08T18:01:21	Vitalyx Summer.
+mbostock	718127661088788482	2016-04-07T17:25:51	mindrones Like this? 
+mbostock	717793917412859904	2016-04-06T19:19:40	micahstubbs martgnz That’s the first time I’ve heard someone complain that the MIT license is too restrictive. 😝
+mbostock	717775338684567552	2016-04-06T18:05:51	martgnz micahstubbs Hmm. I could add it, but here are some reasons not to use it for source code: 
+mbostock	717758858463055872	2016-04-06T17:00:21	uwdata JessicaHullman I finally have a name for 
+mbostock	717464452984135684	2016-04-05T21:30:30	Automating XKCD-Style Narrative Charts d3  Demo here:  
+mbostock	717372421146173440	2016-04-05T15:24:47	arnicas Compare to 
+mbostock	717372367979225088	2016-04-05T15:24:35	arnicas Right, Leaflet assumes antimeridian cutting; it doesn’t understand spherical coordinates.
+mbostock	717371802150830081	2016-04-05T15:22:20	shashashasha 
+mbostock	717371045481611264	2016-04-05T15:19:20	arnicas See 
+mbostock	717370919941877760	2016-04-05T15:18:50	arnicas It’s usually because the software you are using to render geography assumes the data has been cut along the antimeridian.
+mbostock	716625866126532608	2016-04-03T13:58:15	ftrain In the near future all ideas will be conveyed through gifs rather than words. You are ready.
+mbostock	716027627471896576	2016-04-01T22:21:04	maxgoldst I wouldn’t say I missed it. 😝
+mbostock	716025464209313792	2016-04-01T22:12:28	boucher Maybe you could expand to show the version if the cursor is inside the require, like editing Markdown in 
+mbostock	716025142422298624	2016-04-01T22:11:11	boucher Thanks for the tip. It worked after I tried shift-enter to run with it deleted before adding it back.
+mbostock	716024583476805632	2016-04-01T22:08:58	daniel_levine boucher Like this one appears to be locked to d3-hierarchy@0.1.0: 
+mbostock	716024307902652416	2016-04-01T22:07:52	daniel_levine boucher Derp, thanks! But I guess there is hidden metadata so that the implicit latest version doesn’t change over time?
+mbostock	716018177558204416	2016-04-01T21:43:31	D3 4.0 alpha now includes d3-hierarchy! 
+mbostock	716012547002867712	2016-04-01T21:21:08	boucher When I require a package in a tonic notebook, how do I specify what version I want?
+mbostock	715897163302047744	2016-04-01T13:42:39	JasonServiss The data is in the gist (flare.csv), and the layout code is in d3-hierarchy. The data is already hierarchical, not clustered.
+mbostock	715896884007579648	2016-04-01T13:41:32	Unwitting users’ correspondence is perhaps not the best venue for corporate humor. 
+mbostock	715887408068169729	2016-04-01T13:03:53	kimay It can be useful to have all the leaves at the same level.
+mbostock	715655607273979906	2016-03-31T21:42:47	Tidy Tree vs. Dendrogram 
+mbostock	715590442004324352	2016-03-31T17:23:51	brackpviz March 30 minus one month is “Feburary 30” which is March 1.
+mbostock	715563766927089664	2016-03-31T15:37:51	brackpviz There are 13 month boundaries between Febuary 21, 2015 and Monday, March 21 2016. 
+mbostock	715337702141333505	2016-03-31T00:39:33	spetulla Yeah. Worth building a black list?
+mbostock	715198513055866881	2016-03-30T15:26:27	mindrones Thanks.
+mbostock	715197122568531968	2016-03-30T15:20:56	mindrones JanWillemTulp Read them from the existing index.js? Too tedious to duplicate manually in package.json.
+mbostock	715196163238993920	2016-03-30T15:17:07	shojberg D3 4.0 is modular. See  and .
+mbostock	715196013011542016	2016-03-30T15:16:31	mindrones Can you fix that for HTTPS (i.e., use  to load the data, not HTTP)?
+mbostock	715179340669984769	2016-03-30T14:10:16	JanWillemTulp These examples aren’t intended to be relevant—just technical demonstrations. But it wouldn’t hurt.
+mbostock	715178393801662464	2016-03-30T14:06:31	JanWillemTulp I think you could even use Rollup-like static analysis to understand the dependencies one symbolic level.
+mbostock	715178278915481601	2016-03-30T14:06:03	JanWillemTulp But I have been thinking about visualizing the D3 4.0 structure. The modules should make that structure more interesting.
+mbostock	715178091857903616	2016-03-30T14:05:19	JanWillemTulp It’s strictly laziness since I have previous examples to crib from, but the continuity is nice for comparison.
+mbostock	714966548171984896	2016-03-30T00:04:43	matteoabrate Thanks for the inspiration!
+mbostock	714966399303573504	2016-03-30T00:04:07	Cascaded treemap with a lil’ drop shadow and limited label depth. 
+mbostock	714917099286581248	2016-03-29T20:48:13	eagereyes Sigh… fine. 
+mbostock	714801405651984384	2016-03-29T13:08:30	Great gif of a river over time put together by zzsylvester  
+mbostock	714868668379713536	2016-03-29T17:35:46	monfera Bl.ocks could support both short and long URLs. Though probably would just redirect from short to long.
+mbostock	714867943461376002	2016-03-29T17:32:53	Voronoi spirals, inspired by adamrpearce. 
+mbostock	714867739723075584	2016-03-29T17:32:05	monfera github Yes, I’m disappointed they made the URLs less usable for a second time. Perhaps  should shorten.
+mbostock	714863971757494272	2016-03-29T17:17:07	Apparently github Gist ids are 32 rather than 20 hexadecimal characters now. Congratulations on reaching one septillion gists!
+mbostock	714776543914921984	2016-03-29T11:29:42	I wrote an active essay on the GRAIL handwriting recognizer from 1966. Read it here!  
+mbostock	714601637319479296	2016-03-28T23:54:41	Bentley–Ottmann line intersection algorithm    
+mbostock	714635768157736960	2016-03-29T02:10:19	rachelbinx Just needs a lil’ rocket power and could be a good commuter too!
+mbostock	714178102646059008	2016-03-27T19:51:43	voronoi spirals   
+mbostock	714246763075375104	2016-03-28T00:24:33	adamrpearce driven_by_data KevinQ That’s obsolete. It will be the group nodes array in 4.0.
+mbostock	713547660230197249	2016-03-26T02:06:33	plmrry Otherwise I recommend the new API reference: 
+mbostock	713547471922683904	2016-03-26T02:05:49	plmrry Some changes are described here: 
+mbostock	713547325767946240	2016-03-26T02:05:14	plmrry I haven’t written release notes yet; too much churn. Will be done when 4.0 is released.
+mbostock	713515849206792193	2016-03-26T00:00:09	Rich_Harris Did you see this? 
+mbostock	713405621035372544	2016-03-25T16:42:09	Zikes One of my favorite skits!
+mbostock	713374012286472192	2016-03-25T14:36:33	RRS BOATY MCBOATFACE RRS USAIN BOAT RRS BOATIMUS PRIME RRS I LIKE BIG BOATS&amp;I CANNOT LIE RRS SHIP HAPPENS … 
+mbostock	713031348190121984	2016-03-24T15:54:55	When you face the ocean, what's directly on the other side? Maybe not what you expect!  
+mbostock	712640625649324038	2016-03-23T14:02:20	Happy to announce PhotoViz, my book on the intersection of dataviz and photography:  
+mbostock	712854576467210240	2016-03-24T04:12:29	feltron Reminds me of these from Sochi 2014!  
+mbostock	712767561620803585	2016-03-23T22:26:43	yonester Yes, e.g.,  but I recommend using the default bundle for convenience 
+mbostock	712707648164986880	2016-03-23T18:28:39	robermorales I was put off by the abuse I took for sharing my half-baked ideas so I haven’t revisited the problem since.
+mbostock	712692260089962496	2016-03-23T17:27:30	devTristan It’s a compromise. There’s a certain amount of time that makes unpublishing pointless because it’s already mirrored. 🐈  👜
+mbostock	712691831255932929	2016-03-23T17:25:48	meandmycode Yeah, I like that strategy too. Combines convenience with reproducibility.
+mbostock	712691479215349760	2016-03-23T17:24:24	The best way to liberate source code is to post your GitHub &amp; NPM passwords to twitter.
+mbostock	712690738107064320	2016-03-23T17:21:27	devTristan I think there are legit reasons to allow unpublishing, but perhaps it should be time-restricted (e.g., one week).
+mbostock	712688541927538689	2016-03-23T17:12:44	boucher Though I suppose they could always explicitly transfer it to anyone without vetting them, so, ¯\_(ツ)_/¯
+mbostock	712688414378696704	2016-03-23T17:12:13	boucher At least in that case it’s the owner explicitly transferring ownership. Not releasing it and letting anyone claim it.
+mbostock	712688203669475328	2016-03-23T17:11:23	boucher You can also transfer ownership of a repo to someone else, and it will redirect automatically.
+mbostock	712687634397552640	2016-03-23T17:09:07	boucher You can use scoped packages with the public registry, but almost no one does. 
+mbostock	712687252443254785	2016-03-23T17:07:36	Hoffmann Link? Or how so?
+mbostock	712686996389388288	2016-03-23T17:06:35	That the owner can change as part of a patch upgrade with npm seems rather dangerous. Another reason to prefer “author/package” naming!
+mbostock	712686433593479169	2016-03-23T17:04:21	shawnbot “iTunes is a disaster” FTFY
+mbostock	712486438374219776	2016-03-23T03:49:38	Rich_Harris you smart
+mbostock	712478365865914368	2016-03-23T03:17:34	JS PEOPLE: stop going in circles about this npm thing. The solution is very straightforward 
+mbostock	712349404678606849	2016-03-22T18:45:07	Learn about shaded terrain maps, using tiled open-source elevation data… drawn in real time!  
+mbostock	712379962351681540	2016-03-22T20:46:33	jenniferdaniel shancarter KevinQ hold on imma hop in my car 
+mbostock	711965147481309185	2016-03-21T17:18:13	SirZach GitHub appears to be down. 
+mbostock	711702592066224128	2016-03-20T23:54:55	tannerlinsley You can also use geographic projections with Canvas, and hierarchical layouts, Voronoi, etc.
+mbostock	711230326727573504	2016-03-19T16:38:18	Medium Why do you I keep having to tell you no? Surely saying “no” once should be enough? 
+mbostock	711229550902915072	2016-03-19T16:35:13	burritojustice [ORGAN MUSIC INTENSIFIES]
+mbostock	710919076231512064	2016-03-18T20:01:30	monfera yonester stickermule Both are available. Color was added more recently. Why not buy both? 😜
+mbostock	710701753381990400	2016-03-18T05:37:56	mwichary Like watching snow fall. Only, trippy rainbow snow.
+mbostock	710700773504524288	2016-03-18T05:34:03	Fixed some long-standing bugs in the circle-packing layout. Yay progress! d3js 
+mbostock	710647309013372928	2016-03-18T02:01:36	jenniferdaniel wow
+mbostock	710598927620255744	2016-03-17T22:49:21	gggodhwani No, it’s not open-source.
+mbostock	710494237893091328	2016-03-17T15:53:21	“If an article includes our own calculations… then you should be able to see—and… criticize—how we did it.” 
+mbostock	710286933583339520	2016-03-17T02:09:36	Avocado was built to go through the guts of giant sloths, and much of our fruit has reached the end of its useful life. This is our reality.
+mbostock	687499745581993984	2016-01-14T05:01:27	The Stoic of Open Source 
+mbostock	710230710716538881	2016-03-16T22:26:11	JeremyAbramson Not sure if you’d also want to apply ellipses or hide labels on tiny cells.
+mbostock	710230446181711876	2016-03-16T22:25:08	JeremyAbramson It’s a challenge, to be sure. Wrapping text and adding a tooltip helps, as here: 
+mbostock	710211140974804992	2016-03-16T21:08:25	D3 4.0’s treemap.tile lets you define your own tiler, such as for binary treemaps.  
+mbostock	709841538600329216	2016-03-15T20:39:45	swoopyDrag - artisanal label placement for d3 graphics   
+mbostock	709406186953531393	2016-03-14T15:49:49	JanWillemTulp Also inspired by Bloch’s Effective Java!
+mbostock	709405679291764745	2016-03-14T15:47:48	andyshora Nice write-up!
+mbostock	709314067601739776	2016-03-14T09:43:46	I blogged some animated UI goodness: Tweening Custom Shapes and Paths in d3js  
+mbostock	708750689418289152	2016-03-12T20:25:06	Taught by a dynamic D3 duo (syntagmatic &amp; zanstrong), our DataViz with D3.js course starts soon in SanFrancisco: 
+mbostock	709016382495657985	2016-03-13T14:00:53	Russia's Aaron Swartz is Alexandra Elbakyan and she's liberated the world's scientific papers 
+mbostock	708158174457507840	2016-03-11T05:10:40	amitp Also, the upgrade paths for D3 4.0 should be pretty straightforward.
+mbostock	708158015040434176	2016-03-11T05:10:02	amitp There are libraries and plugins for D3, too, but interoperability is not as pressing an issue as Python.
+mbostock	708157745401212928	2016-03-11T05:08:58	amitp Don’t think so. For one, Python’s on a much bigger scale, and the issue was about libraries upgrading at different rates.
+mbostock	708109329073721345	2016-03-11T01:56:34	DoPhuoc Don’t think so.
+mbostock	708080867554361345	2016-03-11T00:03:28	veltman Agree there’s totally a role for errors. Like, array.forEach(42) should and does throw, rather than doing nothing.
+mbostock	708066041973223424	2016-03-10T23:04:34	moritz_stefaner It’s probably your encrypted (or obfuscated) search and purchase history. 😜
+mbostock	708065603861413888	2016-03-10T23:02:49	veltman Sort of like how JavaScript defines 0/0 as NaN rather than throwing an Error.
+mbostock	708065337208508416	2016-03-10T23:01:46	veltman I sometimes favor well-defined deterministic behavior over trying to catch and throw for all possible error conditions.
+mbostock	708064732788359169	2016-03-10T22:59:22	veltman Sounds good! 👍 Though I sometimes feel it leads to unbounded paranoia.
+mbostock	708064310530945024	2016-03-10T22:57:41	FogleBird Also, selection.merge can be used to union filtered selections, and maybe other uses. It’s seems more orthogonal (to me).
+mbostock	708064040526827521	2016-03-10T22:56:37	FogleBird So a selection can’t have a reference to the appended selection; it doesn’t exist yet (and selections are immutable).
+mbostock	708063788747005952	2016-03-10T22:55:37	FogleBird The enter selection and the selection you append to it aren’t the same thing. (I sometimes call the latter “materialized” enter.)
+mbostock	708038983796678656	2016-03-10T21:17:03	mf_viz Yup! 
+mbostock	707663094814810113	2016-03-09T20:23:24	Don Knuth on why he dropped email in 1990, after 15 years. Knuth = cutting edge consumer, cutting edge unconsumer. 
+mbostock	708032564582166529	2016-03-10T20:51:32	pauldechov Good catch!
+mbostock	708029147428204545	2016-03-10T20:37:57	mf_viz You mean D3 3.x versus D3 4.0? Probably best to stick with the stable 3.x until 4.0 is released later this year.
+mbostock	708028577170653184	2016-03-10T20:35:41	thomasp85 That directness is greatly appreciated!
+mbostock	708026792884305920	2016-03-10T20:28:36	thomasp85 Hopefully we can convince them of the merit of human-centric design!
+mbostock	708025907613569024	2016-03-10T20:25:05	Plus humorous emoji for the kids! 🌶🌶🌶
+mbostock	708023539702435840	2016-03-10T20:15:40	darth_mall Great! I sometimes document my thought process in GitHub issues. I’ll try to do more write-ups, too.
+mbostock	708023038667677696	2016-03-10T20:13:41	I’m asking a lot of you to read 5,000 words on arcane and unintelligible code. Usability is messy, but so important! 
+mbostock	708021296739655680	2016-03-10T20:06:46	darth_mall Thanks. I plan to also write a more comprehensive list of changes, but the article hits most of the big ones.
+mbostock	708020732563861504	2016-03-10T20:04:31	pitchinc Thanks! Me too. 😜
+mbostock	707978832800825348	2016-03-10T17:18:02	d3-path - what is it good for? An exploration of the new d3js svg/canvas path abstraction 
+mbostock	707986167803674624	2016-03-10T17:47:10	ftrain I did not expect to write so many words about the intricacies of code. 😝
+mbostock	707980350249537536	2016-03-10T17:24:03	What makes software good? Observations on designing for humans.  d3js
+mbostock	707974837449326592	2016-03-10T17:02:09	arvindsatya1 Congrats!
+mbostock	707973479098765312	2016-03-10T16:56:45	Annoyed that iOS still doesn’t handle spell correction with curved quotes (e.g., replacing “I’ll” with “I’lol”).
+mbostock	707968980259106817	2016-03-10T16:38:52	NEW: Just launched my ExplorableExplanation on polling and uncertainty:  Go check it out 
+mbostock	707951623964925952	2016-03-10T15:29:54	The beautiful explanation of uncertainty that maartenzam created specially for malofiej24  
+mbostock	707953237635125248	2016-03-10T15:36:19	howardbutler You’ve also seen  by jasondavies? Not sure if he would be willing to open-source his implementation.
+mbostock	707952586922438656	2016-03-10T15:33:44	howardbutler That code was contributed by VOgievetsky, so I hope he can chime in.
+mbostock	707645032086380545	2016-03-09T19:11:37	flowingdata Now I’m curious which roadblock you hit.
+mbostock	707597472151941120	2016-03-09T16:02:38	eagereyes angieskazka There’s no guarantee that sort is stable for comparators that return 0 (or undefined, NaN). Depends on runtime.
+mbostock	707481564049870848	2016-03-09T08:22:03	samhogg There isn’t one. Some variation on Math.round(x / 100) * 100 might work?
+mbostock	707062970308755456	2016-03-08T04:38:43	tubelite Yes! 
+mbostock	707061659072737280	2016-03-08T04:33:30	arvindsatya1 Agree about writing. So perhaps unsurprising the same is true of talking. 
+mbostock	707061186320183297	2016-03-08T04:31:38	rseymour adrianco fear-(of-public-speaking-)driven development
+mbostock	707060992824336388	2016-03-08T04:30:51	Zikes Yes, that’s the joke. 😆
+mbostock	707060208997040128	2016-03-08T04:27:45	Found two significant bugs as part of a talk I’m writing. Have I invented talk-driven development?
+mbostock	706897302183481345	2016-03-07T17:40:25	Visualizing the answer to a technical interview question I was asked. d3js datavis 
+mbostock	706542738750074881	2016-03-06T18:11:30	darth_mall It’s on the list. 
+mbostock	705375555030556672	2016-03-03T12:53:32	If only nature would find a way to cover these oranges so we didn't need to waste so much plastic on them. 
+mbostock	705775614259826689	2016-03-04T15:23:13	This is a piece about user experience but really it's about being human. I think you should read it:  h/t kissane
+mbostock	705612817190121472	2016-03-04T04:36:19	DanaRSilver It’s accessible over both HTTP and HTTPS.
+mbostock	705499700288356352	2016-03-03T21:06:50	marcfawzi  
+mbostock	705431174315814912	2016-03-03T16:34:32	katecrawford Naming names despite “an insufficient degree of certainty that the suspicious patterns … were a result of match-fixing.”
+mbostock	705422287323975680	2016-03-03T15:59:14	A structural shift? Yes, moving to printed pages with visualisations composed entirely in d3… 
+mbostock	705411612107153409	2016-03-03T15:16:48	katecrawford Reminds me of this tennis fixing analysis. 
+mbostock	705411267171737602	2016-03-03T15:15:26	katecrawford 🎶 We do what we must because we can. 🎶
+mbostock	705397470499438592	2016-03-03T14:20:37	andresin87 The problem was on GitHub’s end and had been resolved.
+mbostock	705249579600449537	2016-03-03T04:32:57	CheezeViz Apparently not!
+mbostock	703953263285161984	2016-02-28T14:41:51	If you ever wondered what caustics look like at 30 million FPS, I wrote an article about it:  
+mbostock	705195897932554241	2016-03-03T00:59:38	rachelbinx just needs a little music 
+mbostock	705192380295548928	2016-03-03T00:45:39	And, we’re back. [palpable sense of frustration dissipates]
+mbostock	705190897948819457	2016-03-03T00:39:46	sharoz Did you just compare me to Kim Kardashian? 😍
+mbostock	705190137135640578	2016-03-03T00:36:45	heliosphan_ I’m unable to push to mbostock/d3 at the moment, so I’m guessing there’s a new issue on github’s end today.
+mbostock	705189348120002560	2016-03-03T00:33:37	I bet I could fix this by deleting mbostock/d3 and recreating it. badideadepartment
+mbostock	705186904069709824	2016-03-03T00:23:54	galtenberg No, I just ran `git push` like normal.
+mbostock	705185172518338561	2016-03-03T00:17:01	fribeiro1 I can push to my other GitHub repos just fine.
+mbostock	705184342440476672	2016-03-03T00:13:43	Argh, I can’t push to mbostock/d3. ERROR: fatal: Could not read from remote repository. /cc github GitHubHelp
+mbostock	705166793808084992	2016-03-02T23:03:59	rsimmon In Australian: “G’dal, mate!”
+mbostock	705105398395703296	2016-03-02T19:00:01	The life in one cubic foot of a coral reef. From a new exhibit by David Liittschwager  
+mbostock	705159289367736320	2016-03-02T22:34:10	JanWillemTulp D3 4.0 includes README edits, while D3 3.x doesn’t include wiki edits. But still, definitely big.
+mbostock	705144717411942401	2016-03-02T21:36:16	Not the best metric, but to give a sense of scale for d3js 4.0: the new modules collectively have 2,836 commits; 3.x has 3,518.
+mbostock	705106192930975744	2016-03-02T19:03:11	Maozillah It’s a protocol-relative URL. However, adding the “https:” does make it more secure. 
+mbostock	704862942441779200	2016-03-02T02:56:35	marcfawzi Not yet. Closer to release as things stabilize.
+mbostock	704841620827426816	2016-03-02T01:31:52	_cingraham lol
+mbostock	704828560872218625	2016-03-02T00:39:58	Good evening from Upshot-land, where we're making live end-of-night delegate estimates:  
+mbostock	704837805516521473	2016-03-02T01:16:42	KevinQ “Make it dance!” “Aye, aye, cap’n!”
+mbostock	704771245062037504	2016-03-01T20:52:13	tophtucker adamrpearce Somewhat related? 
+mbostock	704477909847683072	2016-03-01T01:26:36	4.0 also replaces magic inheritance of transition.each(…) with explicit selection.transition(transition). 
+mbostock	704475621464764416	2016-03-01T01:17:31	In 3.x, delay is relative to the transition chain’s start. In 4.0, it’s relative to the preceding transition’s end. 
+mbostock	704471200517390337	2016-03-01T00:59:57	Hot off the press: a new API reference for d3-transition. 
+mbostock	704432244027359232	2016-02-29T22:25:09	boucher Yep! Thanks for the support.
+mbostock	704430400559403008	2016-02-29T22:17:49	boucher Yeah. It’s hard; few sites handle this well. Google has their offline extension. Important, though, for user trust.
+mbostock	704429411576053760	2016-02-29T22:13:54	boucher Probably? It was giving me a lot of “can’t save” errors.
+mbostock	704429109275815936	2016-02-29T22:12:41	tonicdev Appears I’ve lost some work, but it’s not the end of the world. Any plans for offline save to make it more robust?
+mbostock	704427571820146688	2016-02-29T22:06:35	tonicdev I think I killed it.
+mbostock	704284597274730496	2016-02-29T12:38:27	Neat method for visualizing chess openings. dataviz  
+mbostock	703367781983490048	2016-02-26T23:55:21	bjoseph I bet there’s a lib for that. Maybe ?
+mbostock	703362433272811520	2016-02-26T23:34:06	bjoseph Two examples:  
+mbostock	703349688552980480	2016-02-26T22:43:28	bjoseph It’s possible now using transition.tween; transition.text doesn’t do it by default because most of the time it’s a bad idea.
+mbostock	703343906885251072	2016-02-26T22:20:29	D3 2.5 added SVG transform interpolation back in 2011. Nice to finally have parity! 
+mbostock	703341938037002240	2016-02-26T22:12:40	As of d3-interpolate 0.6, transition.​style will interpolate CSS transforms! d3js 
+mbostock	703341183301386240	2016-02-26T22:09:40	EKulabuhov Yes, embedding is disallowed. Try  if you just want static hosting on top of GitHub.
+mbostock	703240176483618816	2016-02-26T15:28:18	And if you don't like our scenarios, make your own!  
+mbostock	702910907169411072	2016-02-25T17:39:54	worrydream We really need a Chrome Newspeak extension.
+mbostock	702909494594940929	2016-02-25T17:34:17	kleinmatic worrydream [jealousy] [lust] [angst] [despair] [ennui]
+mbostock	702908503677997056	2016-02-25T17:30:21	worrydream Six emotions ought to be enough for any human.
+mbostock	702899864124813312	2016-02-25T16:56:01	ilovecomputers so hard to stay hip with my fellow kids
+mbostock	702884124604764160	2016-02-25T15:53:28	The fact that trollface isn’t one of the seven Facebook emoji reactions really shows how out of touch they are with society.
+mbostock	702883021641248768	2016-02-25T15:49:05	ipoplava What’s really going to blow your mind is typeof [].
+mbostock	702882940535988224	2016-02-25T15:48:46	andrewljohnson Language support for subclassing Array would be nice.
+mbostock	702882719378726912	2016-02-25T15:47:53	leeb Haha. ಠ_ಠ I would have gone with Array.isArray = function(o) { return isFinite(o.length) &amp;&amp; !o.blink; }.
+mbostock	702882116116172800	2016-02-25T15:45:30	philogb I’d guess it predates Array.isArray? It is nice for array-like things in the console.
+mbostock	702737065121742848	2016-02-25T06:09:07	Just noticed that the Chrome console detects arrays by looking for a length and a splice function. Weird. 
+mbostock	702651157559115780	2016-02-25T00:27:45	timelyportfolio I’m thinking about ways. Nothing yet.
+mbostock	702602840871534593	2016-02-24T21:15:45	marcfawzi monfera I don’t think that will be necessary; layouts compute the result once, and often don’t need subsequent modification.
+mbostock	702595030058336256	2016-02-24T20:44:43	marcfawzi monfera Highly unlikely that I will introduce a dependency on another library like ImmutableJS.
+mbostock	702588164125229056	2016-02-24T20:17:26	marcfawzi monfera Yes. Started work a few months ago, will revisit soon.  
+mbostock	702583438730088448	2016-02-24T19:58:39	nuthinking I made this version that obscures the fading of the numbers. 
+mbostock	702578396501450752	2016-02-24T19:38:37	nuthinking Nice, keep me posted. I just simplified the code a bit, which might help you experiment.
+mbostock	702577564267597825	2016-02-24T19:35:19	nelson Thanks!
+mbostock	702544348307693568	2016-02-24T17:23:19	P.S. your API is a user interface
+mbostock	702549320898228224	2016-02-24T17:43:05	rachelbinx Thanks!
+mbostock	702549196805550080	2016-02-24T17:42:35	spatialillusion No problem. It means anything derived from my blocks must be GPL-licensed, but D3 (and my other libs) can remain BSD.
+mbostock	702548807184023552	2016-02-24T17:41:03	nuthinking Fork and show me. 😎
+mbostock	702548670135214081	2016-02-24T17:40:30	DataPointed That’d require a polar gradient?  You might see behind the curtain. 😜
+mbostock	702548367121879040	2016-02-24T17:39:18	spatialillusion Specifically, the BSD license under which D3 is released is considered “GPL-compatible”. 
+mbostock	702546755217395712	2016-02-24T17:32:53	spatialillusion The GPL only applies to the code in the block, not D3.
+mbostock	702545289811394565	2016-02-24T17:27:04	Polar clock, take three. 
+mbostock	702289348822044672	2016-02-24T00:30:03	angealbertini Here’s a good reason: to hide when subintervals change (e.g., different months have different days). 
+mbostock	702257116266917888	2016-02-23T22:21:58	MikeTreglia Bringing down global productivity, one tweet at a time.
+mbostock	702256787672596480	2016-02-23T22:20:40	angealbertini Why not?
+mbostock	702256705170575360	2016-02-23T22:20:20	tophtucker 
+mbostock	702256350714155009	2016-02-23T22:18:55	angealbertini Because I always found that part ugly.
+mbostock	702256004289826816	2016-02-23T22:17:33	Super productive today. ಠ_ಠ 
+mbostock	702218304086106112	2016-02-23T19:47:44	veltman jfire That looks promising.
+mbostock	702218080420638720	2016-02-23T19:46:51	veltman jfire In D3 4.0, that is. You might also need to override performance.now. (In 3.x, Date.now.)
+mbostock	702216157357481984	2016-02-23T19:39:13	Devgru Cool! Thanks for sharing. See also: 
+mbostock	702212362586103808	2016-02-23T19:24:08	A star map of the Northern Hemisphere, inspired by Matteo Abrate. 
+mbostock	702204459598770176	2016-02-23T18:52:44	jfire veltman Passing the new now to the callback each time.
+mbostock	702204359874990080	2016-02-23T18:52:20	jfire veltman If you redefined requestAnimationFrame before loading d3, you could force d3-timer to step through each frame synchronously.
+mbostock	702202951234793472	2016-02-23T18:46:44	jfire veltman For 4.0, there’s d3.now:  
+mbostock	702146935742791680	2016-02-23T15:04:09	mindrones Not sure yet about the main D3 wiki. Gallery and links would be better on dedicated site with voting &amp; comments, I think.
+mbostock	702146215475965954	2016-02-23T15:01:17	mindrones Each module has a README with the API reference.
+mbostock	701990171567218689	2016-02-23T04:41:13	As of d3-selection 0.7, selections are immutable! Use selection.merge to combine enter &amp; update after a data-join. 
+mbostock	701984361717977090	2016-02-23T04:18:08	arrowoftheweek 
+mbostock	701816227862171648	2016-02-22T17:10:02	search more than 11,000 d3js blocks:  more details on how &amp; why:  
+mbostock	701909088221818880	2016-02-22T23:19:02	sharoz Are you reading over my shoulder right now?
+mbostock	701872125200609280	2016-02-22T20:52:09	lukas_appelhans It’s complicated. 
+mbostock	701869265163460608	2016-02-22T20:40:47	lukas_appelhans The winding order bug would affect both. Not sure if that’s your specific issue, though.
+mbostock	701866555127177216	2016-02-22T20:30:01	lukas_appelhans SVG or Canvas doesn’t matter. Yes, 1317 is the winding order bug. Also 2024.
+mbostock	701812954488971264	2016-02-22T16:57:02	tmcw Maybe I’m just drinking this year’s cool-ade, but D3 4.0 will likely make selections immutable. 
+mbostock	701802103396651009	2016-02-22T16:13:54	RReverser tmcw Nice. Hand’t seen this.
+mbostock	701799593713934336	2016-02-22T16:03:56	tmcw Like Object.freeze? Or something else?
+mbostock	701794428856307713	2016-02-22T15:43:25	timruffles I’d like to see a proof of concept before evaluating whether to adopt that approach.
+mbostock	701794136559497216	2016-02-22T15:42:15	lukas_appelhans Likely a winding order precision bug with small features. There should be an open issue already in d3 or d3-geo-projection.
+mbostock	701157860772880384	2016-02-20T21:33:55	The State Plane Shuffle  by veltman d3js 
+mbostock	701612675994783744	2016-02-22T03:41:11	myadhdoutlet jasondavies You’d have to compute the midpoint of the longer arc and include that coordinate.
+mbostock	701197573428621313	2016-02-21T00:11:43	bortels delmoi “Advanced Character Physics” by Thomas Jakobsen is a pretty good intro. 
+mbostock	701196219754766336	2016-02-21T00:06:21	bertboerland No. But it’s roughly  plus 
+mbostock	701089922380206080	2016-02-20T17:03:57	d3visualization McZelAir See also 
+mbostock	701088999977279488	2016-02-20T17:00:17	delmoi bortels I expect that would make it less fun to watch. 😜
+mbostock	701069471868260352	2016-02-20T15:42:41	NadiehBremer Now added to the D3 version: 
+mbostock	701068794135859203	2016-02-20T15:40:00	MikeTaptich Not much.
+mbostock	701068767896346624	2016-02-20T15:39:54	thefercook Not really.
+mbostock	700884395947724800	2016-02-20T03:27:16	wycats Well said.
+mbostock	700884082314489861	2016-02-20T03:26:01	bortels delmoi Probably the collision constraint resolution using position Verlet.
+mbostock	700872230490632192	2016-02-20T02:38:55	delmoi Not scientifically accurate, no.
+mbostock	700861072002064385	2016-02-20T01:54:35	N-Body Problem 
+mbostock	700842984707739649	2016-02-20T00:42:43	philogb Heh, I’m having a flashback to an old Protovis example: 
+mbostock	700822526461480961	2016-02-19T23:21:25	cmchap Fixed. (Can’t fix the example that uses openstreetmap tiles, though, since I couldn’t find an HTTPS vector tile server.)
+mbostock	700822310614278148	2016-02-19T23:20:34	romsson Fixed. If you find more, lemme know!  
+mbostock	700759920942063616	2016-02-19T19:12:39	romsson There’s probably a smarter way to find the closest point on an arbitrary path, too, with math. 😜
+mbostock	700759717992267776	2016-02-19T19:11:50	romsson That example looks like it could be rewritten without pathSegList fairly easily; used fixed coarse precision in pixels, say.
+mbostock	700759231067062276	2016-02-19T19:09:54	romsson Wow, bummer that ChromiumDev removed standard features, even if SVG2 will eventually offer a better API.
+mbostock	700755573436907520	2016-02-19T18:55:22	cmchap Thanks, I will fix when I get back to my computer.
+mbostock	700652327447896064	2016-02-19T12:05:07	NYT’s classic weather chart traces back to 1979. Today, it's online for the first time.  
+mbostock	700551499290529792	2016-02-19T05:24:27	veltman ◎_◎
+mbostock	700455221319720961	2016-02-18T23:01:53	veltman I’m glad you’re enjoying the cubehelix rainbow as much as I do. 😆
+mbostock	700380145211850752	2016-02-18T18:03:33	More fun with spirals:  
+mbostock	700361302749741056	2016-02-18T16:48:41	DataPointed [object Object]x engineer
+mbostock	700360284041392128	2016-02-18T16:44:38	larrybuch atmccann aliciaparlap even your arrows have arrows
+mbostock	700359272790495232	2016-02-18T16:40:37	atmccann larrybuch my first thought
+mbostock	700355695221157888	2016-02-18T16:26:24	mguarny See the package.json scripts.
+mbostock	700353544151433216	2016-02-18T16:17:51	shancarter Summer!
+mbostock	700353452308729857	2016-02-18T16:17:29	mguarny Send a pull request to the topojson repository, please.
+mbostock	700322167003734018	2016-02-18T14:13:10	Scalia's replacement on the court could lead to the most liberal median justice in 50 years  
+mbostock	700204078140272640	2016-02-18T06:23:56	alignedleft Thanks for all your help teaching D3, Scott!
+mbostock	700162660931768320	2016-02-18T03:39:21	5 years ago today, D3 1.0 was released! (h/t kerryrodden) 
+mbostock	700162216570454016	2016-02-18T03:37:35	kerryrodden Thank you!
+mbostock	700144140579803138	2016-02-18T02:25:45	MikeTufekci Not a company; an open-source community. 
+mbostock	700144003035955200	2016-02-18T02:25:13	shancarter Here, with transitions: 
+mbostock	700141895792480256	2016-02-18T02:16:50	shancarter Also using different transition for exit (250ms vs 1s).
+mbostock	700141166658883585	2016-02-18T02:13:56	shancarter Still not using a data key.
+mbostock	700125495547920384	2016-02-18T01:11:40	shancarter Here’s the 3.0 version: 
+mbostock	700113289041215488	2016-02-18T00:23:10	darth_mall shancarter I guess that’s a good sign for 4.0? This is why I always 4-space indented selection.data.
+mbostock	700113000103960576	2016-02-18T00:22:01	d3-request 0.4.3 now supports Node.js! 
+mbostock	700096478706925569	2016-02-17T23:16:22	shancarter Here is what I would do in 4.0: 
+mbostock	700091114041135105	2016-02-17T22:55:03	shancarter If you’re discarding the selection pre-join, you can treat the 4.0 and 3.x API the same.
+mbostock	700090769797873664	2016-02-17T22:53:41	shancarter In that example div === divUpdate.
+mbostock	700060877957914624	2016-02-17T20:54:54	arnicas 
+mbostock	700059912655646720	2016-02-17T20:51:04	shancarter brb deleting my account
+mbostock	700046664485068800	2016-02-17T19:58:25	shancarter Yup!
+mbostock	699688491341340673	2016-02-16T20:15:10	To move forward with data visualization, look backwards, by acotgreave  -  IDGCN
+mbostock	699958261311803392	2016-02-17T14:07:08	Apple showing exceptional leadership resisting demands to weaken its encryption.  
+mbostock	699809189103665152	2016-02-17T04:14:47	spetulla Fair.
+mbostock	699800937838153728	2016-02-17T03:41:59	KevinQ 
+mbostock	699089294657327104	2016-02-15T04:34:10	beeple So good! Seen this? 
+mbostock	698988965962125313	2016-02-14T21:55:30	Romeo &amp; Juliet phase portrait 
+mbostock	698551930553958400	2016-02-13T16:58:53	veltman dwtkns 
+mbostock	698524058665652225	2016-02-13T15:08:08	visualisingdata Okay, thanks. RAW appears to give attribution. The examples are GPL licensed, and RAW is LGPL, though. Hmm.
+mbostock	698523036656402432	2016-02-13T15:04:04	visualisingdata Specifically,    Anyway, being a stickler for attribution.
+mbostock	698521297240748032	2016-02-13T14:57:09	visualisingdata Some of those screenshots appear to be from ?
+mbostock	698340935021645824	2016-02-13T03:00:28	weiserjo Don’t think so, but I hope it gets brought back for 2016.
+mbostock	698293239644688384	2016-02-12T23:50:56	M_Rutter A few APIs may change, but I expect a lot of what’s there now to stick. So, depends on how “sensitive” you are to change.
+mbostock	698292898530349057	2016-02-12T23:49:35	M_Rutter A few significant features (hierarchical layouts, force-directed layout, geographic projections) are not yet available.
+mbostock	698272377461874692	2016-02-12T22:28:02	recifs Sigh… actually there’s a different issue with this one being backgrounded because setInterval continues to fire. More work for me!
+mbostock	698271199722233856	2016-02-12T22:23:21	recifs (It might take more than 15 minutes… But see  for more on that subject.)
+mbostock	698270708401463296	2016-02-12T22:21:24	recifs In regards to timing. Also I didn’t mention this, but 4.0 doesn’t crash if you leave it in a background tab for 15 minutes. 😝
+mbostock	698267749110325248	2016-02-12T22:09:39	Improving the General Update Pattern in D3 4.0. d3js 
+mbostock	698221997608796162	2016-02-12T19:07:51	darth_mall Though it might be inaccurate with cloudflare caching…
+mbostock	698221589276528640	2016-02-12T19:06:13	darth_mall Most page views in preceding hour
+mbostock	698208066337017856	2016-02-12T18:12:29	JonSadka Thanks.
+mbostock	698208015661404160	2016-02-12T18:12:17	rusosnith Devgru It’s computed using page views just over the last hour, not over all time.
+mbostock	698207826116653056	2016-02-12T18:11:32	GilesDMiddleton Please see each Block for the respective author’s license, or contact the author if no license is specified.
+mbostock	698207533505187840	2016-02-12T18:10:22	luckymike Exactly. 📻
+mbostock	698198156027105280	2016-02-12T17:33:06	Devgru Page views.
+mbostock	698197967233163264	2016-02-12T17:32:21	 now shows the top 40 blocks, updated hourly!
+mbostock	697965561649598464	2016-02-12T02:08:52	4.0’s d3.​active will make chaining transitions a lot easier. 
+mbostock	697955488206450689	2016-02-12T01:28:50	rachelbinx Example here:  Though maybe element.getAttribute("data-foo") is more reliable when using SVG.
+mbostock	697954888672612352	2016-02-12T01:26:27	rachelbinx I’d avoid using string concatenation for the client-side code, though. I mean, obvs. A template, or static code, is better.
+mbostock	697954653208596480	2016-02-12T01:25:31	rachelbinx Seems reasonable? I recommend using data- attributes to embed data (or at least keys) in the DOM, for later selection.
+mbostock	697952782544818176	2016-02-12T01:18:05	rachelbinx Also the idea that you might not need everything is why 4.0 will have lots of small modules. 😁
+mbostock	697952536750219264	2016-02-12T01:17:06	rachelbinx Aside from the posturing, I do like that article. It’s important &amp; useful to understand how tools work.
+mbostock	697950771308994560	2016-02-12T01:10:05	rachelbinx Since inception (in 2010) d3 has used element.querySelector[All]… ¯\_(ツ)_/¯
+mbostock	697944576498257920	2016-02-12T00:45:28	Late tweet but check out EVERY CANDIDATE'S FACEBOOK LIKES, by me and mathisonian:  
+mbostock	697752050839506944	2016-02-11T12:00:27	This chart shows who's most likely to marry whom:  
+mbostock	697529183396696064	2016-02-10T21:14:51	larrybuch Isometric grid choropleths are going to be so big in 2016!
+mbostock	697522441665454080	2016-02-10T20:48:04	A recreation of a beesandbombs favorite. 
+mbostock	697438444050513922	2016-02-10T15:14:17	andresin87 Could use a quadtree to accelerate search. Or maybe something here: 
+mbostock	697303317467127810	2016-02-10T06:17:20	Tinkering with isometric projections, tryin’ to science beesandbombs. 
+mbostock	697140099360825344	2016-02-09T19:28:46	Just posted about vector networks, the idea behind Figma's pen tool:  figmadesign 
+mbostock	697120405484482561	2016-02-09T18:10:31	berenguel lol
+mbostock	697120309539790848	2016-02-09T18:10:08	_mattio Dear Leader is wise and protects us from over-exertion!
+mbostock	697119516984111104	2016-02-09T18:06:59	Taking my mandatory, Apple-imposed 15-minute break while my mouse recharges. designthinking winning 
+mbostock	697084516620316673	2016-02-09T15:47:54	romsson arnicas I think the delay on fade-out is useful, but I removed the duration on fade-in.
+mbostock	697071878322700288	2016-02-09T14:57:41	 
+mbostock	696924061650309120	2016-02-09T05:10:19	arnicas I added a hidden pop-out link in the top-right of the frame. 
+mbostock	696912285315411969	2016-02-09T04:23:31	DanielLevitt32 
+mbostock	696895333704474624	2016-02-09T03:16:09	arnicas I’ll see if I can find a satisfactory place for it.
+mbostock	696878824718356481	2016-02-09T02:10:33	arnicas Well you can still add /raw to the URL. Right click on the frame and inspect, for example.
+mbostock	696878155521347585	2016-02-09T02:07:54	arnicas How are you using ?
+mbostock	696876877160427520	2016-02-09T02:02:49	arnicas Because  is for blocks—code &amp; readmes. If you want a GitHub proxy there’s .
+mbostock	696876274866761728	2016-02-09T02:00:25	arnicas In our collective memories; it is no more.
+mbostock	696773405006123010	2016-02-08T19:11:39	colinmegill That example is trying to load JS out of  which was disabled by GitHub years ago.
+mbostock	696512154657107968	2016-02-08T01:53:32	NYT4thDownBot I migrated  from Connect to Express in the 1st half and debugged iOS Safari. What will the 2nd bring?!
+mbostock	696511847218831360	2016-02-08T01:52:19	mbostock I think it’s limited to when keep-alive connections are in use, but still, pretty broken.
+mbostock	696510281883627521	2016-02-08T01:46:06	If you don’t wait for onload, iOS Safari XMLHttpRequest can hang for 30 seconds before responding. Nice…
+mbostock	694274858444783616	2016-02-01T21:43:19	FiveThirtyEight Visual Journalist Allison McCann about how she started with datavis  ddj
+mbostock	696126862834044928	2016-02-07T00:22:32	diogomonica sigggggghhhhhh
+mbostock	696123845250383872	2016-02-07T00:10:32	diogomonica dude see my earlier tweet replies
+mbostock	696097227635208192	2016-02-06T22:24:46	Blocks can now have preview images. 🎉 
+mbostock	696028090141528064	2016-02-06T17:50:02	d3noob OHeilig Okay. I’ve turned off the HTTPS redirect for now, until I can think of a better solution.
+mbostock	695979319101775874	2016-02-06T14:36:15	OHeilig Hopefully we can get d3noob to update the examples to HTTPS, too.
+mbostock	695979017606819840	2016-02-06T14:35:03	OHeilig Thanks for fixing and sorry for the trouble.
+mbostock	695801164927889410	2016-02-06T02:48:19	theatgrex Thanks! Check out 4.0 alpha, too. 
+mbostock	695800892872794112	2016-02-06T02:47:14	theatgrex If you find broken examples, send them to me and I can try and contact the authors.
+mbostock	695781490332807169	2016-02-06T01:30:08	theatgrex Better to have people fix their code and load scripts over HTTPS for security.
+mbostock	695781388117618688	2016-02-06T01:29:44	theatgrex Yea, I’m aware. But I don’t know of a fix other than magically rewriting, which might annoy people.
+mbostock	695736375979569152	2016-02-05T22:30:52	tophtucker ivarvong veltman 
+mbostock	695730126701473793	2016-02-05T22:06:02	enf Ditch the web interface and use Gistup? 
+mbostock	695709418353139712	2016-02-05T20:43:45	mathias jdalton Found the issue. Sorry for bothering you with a known problem! 
+mbostock	695707696650067968	2016-02-05T20:36:55	mathias I keep hitting the CloudFlare CAPTCHA on . Any ideas?
+mbostock	695705085997817856	2016-02-05T20:26:32	verbsintransit I’m having a laugh, but for reals, I recommend tests.
+mbostock	695698948284022784	2016-02-05T20:02:09	Empiricism is a theory that states that software correctness comes only from running in production, not writing tests.
+mbostock	695676320525582336	2016-02-05T18:32:14	kelp Yeah, but a lot of intermediary nodes can cache without observing TTLs, so could be up to 24 hours. :\
+mbostock	695673454264070144	2016-02-05T18:20:51	luisassardo Yep. The DNS records propagate at different rates to different networks.
+mbostock	695672281729597440	2016-02-05T18:16:11	Argh, I borked the DNS records for . It may be down until new the records propagate. Sorry! 
+mbostock	695654137745125377	2016-02-05T17:04:05	rachelbinx If only your manager followed you on Twitter…
+mbostock	695473748946788352	2016-02-05T05:07:17	veltman Agreed, some exploration in this area could be fruitful!
+mbostock	695461242668888065	2016-02-05T04:17:35	veltman At the least you’ll hopefully find the transition internals cleaner and more consistent if you peruse the new code.
+mbostock	695459173442539520	2016-02-05T04:09:22	pzeups Given constraints I find d3-interpolate’s existing interpolators to be flexible enough, and simple, and pretty fast.
+mbostock	695458857565356032	2016-02-05T04:08:07	pzeups Remind me what the question was? No plans to work on arbitrary path tweening, but there are examples out there.
+mbostock	695458259906330624	2016-02-05T04:05:44	veltman I bet you could get pretty far with d3-timer and d3-interpolate if you want a new project. 😜
+mbostock	695458075059187712	2016-02-05T04:05:00	veltman Another abstraction is probably needed—like how CSS has both animations and transitions.
+mbostock	695457948990992384	2016-02-05T04:04:30	veltman Transitions are implicit (typically just declare end state) and destructive (delete state on execution).
+mbostock	695457722150494208	2016-02-05T04:03:36	veltman Hmm. Probably best to build an explicit timeline of keyframes for something like that.
+mbostock	695427442689748992	2016-02-05T02:03:17	Can you smell what I’m cooking? 
+mbostock	695391098999431168	2016-02-04T23:38:52	andrewstaroscik Yes. I have no plans on fixing that, sorry.
+mbostock	695087157526945792	2016-02-04T03:31:07	timelyportfolio Seen this one? 
+mbostock	695077813833961472	2016-02-04T02:53:59	remember: just because your competitor did something doesn’t mean you have to 
+mbostock	695022689900048384	2016-02-03T23:14:56	myadhdoutlet Tharr be breakin’ change in the alpha, matey.
+mbostock	695007960003538944	2016-02-03T22:16:24	jenniferdaniel HTTPS!
+mbostock	695007227925499904	2016-02-03T22:13:30	colungapedro One that I recommend? I don’t use TypeScript. But I found this: 
+mbostock	695007018512297984	2016-02-03T22:12:40	myadhdoutlet That’s the 4.0 API. If you’re looking for the 3.x API, see 
+mbostock	695006468928462849	2016-02-03T22:10:29	craigcitro :slowclap:
+mbostock	694966533282353152	2016-02-03T19:31:48	selection : select :: transition : transit
+mbostock	694961924522414080	2016-02-03T19:13:29	wagenet Tell us their CPU meter is pegged, obvs.
+mbostock	694961727998291969	2016-02-03T19:12:42	lucastimmons It appears he’s… ( •_•) ( •_•)&gt;⌐■-■ full of hot air (⌐■_■) YYYYYYYEEEEEAAAAAAAAAAHHHHHHHHHHHH
+mbostock	694960824230682624	2016-02-03T19:09:06	There’s always some dude on Hacker News letting us know what’s going on with his laptop fans today. Thanks, guy. Keep me posted.
+mbostock	694941926324199424	2016-02-03T17:54:01	So, this works, finally:  d3.select("body").transition()     .style("background-color", "red");
+mbostock	694940982383542272	2016-02-03T17:50:16	var i = d3.interpolate("transparent", "red"); i(0.5); // "rgba(255, 0, 0, 0.5)" 
+mbostock	694730052362047489	2016-02-03T03:52:06	moishel ihat 
+mbostock	694686761495056384	2016-02-03T01:00:05	Added opacity (rgba, hsla) support to d3-color. Will soon propagate to d3-interpolate (and d3-transition)! 
+mbostock	694685000856244224	2016-02-03T00:53:05	@GranitoLife 
+mbostock	694628560724578305	2016-02-02T21:08:49	Woo, d3-interpolate now supports gamma-corrected RGB interpolation. 
+mbostock	694556358742396929	2016-02-02T16:21:54	hadleywickham Aw, shucks. API is frozen for 4.0 but I’ll keep that in mind for 5.
+mbostock	694403239739981824	2016-02-02T06:13:28	jkohlmann Okay. Not sure I’d prefer transition.ease({ease: d3.easeBackIn.config({overshoot: 3})}). 😜
+mbostock	694402372865396737	2016-02-02T06:10:01	jkohlmann See  and  for comparison.
+mbostock	694402195475697664	2016-02-02T06:09:19	jkohlmann Are they configurable, or just limited to the built-ins? 
+mbostock	694401283898241024	2016-02-02T06:05:42	jrdnmdhl You can do it! 💪
+mbostock	694400319548043264	2016-02-02T06:01:52	Also, you can now specify different easing functions per-element. I wonder what zaniness that will bring.
+mbostock	694399701089538048	2016-02-02T05:59:24	I hope the latter is clearer in function and extensibility (custom easing), even if it takes a few more characters.
+mbostock	694396679340949504	2016-02-02T05:47:24	D3 3.x: transition.ease("back", 3); D3 4.0: transition.ease(d3.easeBackIn.overshoot(3));
+mbostock	694367458098962432	2016-02-02T03:51:17	dwtkns (But it’s only because the tasks are so trivial I don’t care about tracking the dependencies and partial execution.)
+mbostock	694367300749668352	2016-02-02T03:50:39	dwtkns Don’t tell anyone but I stopped using Make in a lot of my repos. Just using npm scripts.
+mbostock	694358507416653824	2016-02-02T03:15:43	Super detailed precinct-level maps of Iowa results as they come in 
+mbostock	694364930804350977	2016-02-02T03:41:14	dwtkns That looks familiar. 😜 It lives on!
+mbostock	694364107814756352	2016-02-02T03:37:58	cw If you try it, lmk how it goes and if I can help!
+mbostock	694308000169742337	2016-02-01T23:55:01	juanbenet Yep. But hopefully that’s a lot smaller than the actual contents.
+mbostock	694307571511873536	2016-02-01T23:53:19	juanbenet Exactly, ’cept it wouldn’t have to cache. Could proxy, and return 404 if the content of the hash changes.
+mbostock	694284900841598978	2016-02-01T22:23:14	juanbenet You’d tell the reverse gateway the URL, and it would remember the URL-&gt;HASH, but not need to persist the content permanently.
+mbostock	694284259641597952	2016-02-01T22:20:41	juanbenet Is there a reverse gateway for IPFS, so I can host ${URL} on HTTP (e.g., free gh-pages) but then access as ${HASH} via IPFS?
+mbostock	694282483303485440	2016-02-01T22:13:37	rmglennon burritojustice “How I learned to stop worrying and love left-standers.” 
+mbostock	694257211032207361	2016-02-01T20:33:12	rememberlenny Nice! Please add attribution, by way of a link back to the original?
+mbostock	693087332682088449	2016-01-29T15:04:31	T().a({transform:d=&gt;sc(4+s(d/1e3)),x:d=&gt;mo[0]*10,y:d=&gt;mo[1]*10}).t('Hello World') 
+mbostock	693219293828239361	2016-01-29T23:48:53	notwaldorf ♥️♥️♥️ THANK YOU ♥️♥️♥️
+mbostock	693074311092015105	2016-01-29T14:12:47	A blog post about my student projects last semester:  (hire them!)
+mbostock	692840026229469184	2016-01-28T22:41:49	TrumpSC Are you going to play The Witness?
+mbostock	692727800969605122	2016-01-28T15:15:52	mulpat Also 
+mbostock	692727247447298048	2016-01-28T15:13:40	mulpat It’s one group per element in the originating selection.
+mbostock	692724585146396673	2016-01-28T15:03:05	mulpat 
+mbostock	692444497037369344	2016-01-27T20:30:07	Interested in learning d3.js? Come to an educational lecture &amp; QA by expert currankelleher this Thursday @ 6:30! 
+mbostock	692581073553793024	2016-01-28T05:32:50	hadleywickham Any of these?  Are you trying to avoid light-to-dark but still have order?
+mbostock	692536532218036225	2016-01-28T02:35:50	diogomonica 
+mbostock	692526971058819072	2016-01-28T01:57:51	ihat = joules?
+mbostock	692524748409040897	2016-01-28T01:49:01	hypercubed sindresorhus dshaw RReverser nektokh neighhhhhggghhg
+mbostock	692523246500122624	2016-01-28T01:43:03	daiweilu The README is on npm ;)
+mbostock	692522948540944385	2016-01-28T01:41:52	daiweilu There’s not really anything to try (yet?). It’s just a nascent idea.
+mbostock	692522053551919108	2016-01-28T01:38:18	daiweilu har har you missed the point
+mbostock	692518959422291968	2016-01-28T01:26:00	RReverser dshaw nektokh neigh, my name is legion, for we are many
+mbostock	692518350430162944	2016-01-28T01:23:35	doubleocherry did u try shift reload
+mbostock	692517829405315072	2016-01-28T01:21:31	dshaw brother, we meet again
+mbostock	692517593509404673	2016-01-28T01:20:35	Trying out a new avatar…
+mbostock	692505376554618883	2016-01-28T00:32:02	We're investigating connectivity problems on .
+mbostock	692505153904234496	2016-01-28T00:31:09	enjalot Yes, it appears github is down.
+mbostock	692475971090407426	2016-01-27T22:35:11	trek Yes. Solutions that already exist but nobody uses don’t count as solutions. ;)
+mbostock	692475596094476288	2016-01-27T22:33:42	trek Yes, there are a few ways Bower could fix this. GH releases or npm integration would work for me.
+mbostock	692475380591128578	2016-01-27T22:32:50	trek It sure is! But I don’t like being yelled at, either.
+mbostock	692475182737440769	2016-01-27T22:32:03	FYI, I’m moving all generated files into Bower-dedicated repos. For example: 
+mbostock	692473816883318784	2016-01-27T22:26:38	ahharissa Thanks. I’ve been spending a lot of time on new docs for 4.0, too. Hope you like it! 
+mbostock	692444826172653568	2016-01-27T20:31:26	 now supports a simple config file to customize frame height &amp; scrolling. For example: 
+mbostock	692442144494194689	2016-01-27T20:20:46	shawnbot I replied, buddy. ;)
+mbostock	692405829920776193	2016-01-27T17:56:28	JobvdZwan Sounds great! And ambitious.
+mbostock	692204466179809280	2016-01-27T04:36:19	tswicegood Haven’t thought about that. Mostly thinking about front-end dev, and just the UX/security/philosophy around packaging.
+mbostock	692203286489894912	2016-01-27T04:31:38	tswicegood grhmc CaseySoftware Yup. I might do that, but it’s more work. ;)
+mbostock	692203094868901888	2016-01-27T04:30:52	tswicegood My take was that grhmc felt any automatic action (even if visible) was too dangerous.
+mbostock	692202805172506624	2016-01-27T04:29:43	tswicegood grhmc CaseySoftware It was always explicit in saying what it was doing, but you actually had to watch what it was doing.
+mbostock	692202377252880386	2016-01-27T04:28:01	grhmc tswicegood CaseySoftware I changed it to abort if the name is ambiguous.
+mbostock	692182771264000001	2016-01-27T03:10:07	amandacox I’ll do some work if that means we get to talk more.
+mbostock	692181427669065734	2016-01-27T03:04:47	amandacox Does this mean you’ll be tweeting more now?
+mbostock	692043417493311488	2016-01-26T17:56:22	Great news: UpshotNYT's new editor is amandacox. As Dean Baquet's memo says, she's probably the smartest journalist I've ever worked with.
+mbostock	692095452934606849	2016-01-26T21:23:09	Zikes tru
+mbostock	692095302052892673	2016-01-26T21:22:33	“URLs, not names!” he yelled, as the waves and rain crashed around him.
+mbostock	692094585124696065	2016-01-26T21:19:42	herrstucki Yes, and Crom could install from npm too. Per other tweet, the important thing is dependencies are declared as URLs.
+mbostock	692094376961441792	2016-01-26T21:18:52	herrstucki jspm (and others) have extensible registries, but the critical thing is getting people to declare deps as URLs, not names.
+mbostock	692093756401537026	2016-01-26T21:16:24	herrstucki E.g., the package URL is just a JSON file that lists the releases (versions &amp; corresponding ZIP URL).
+mbostock	692093529464569859	2016-01-26T21:15:30	luiscarli herrstucki No, because Crom isn’t pushing any centralized registry: packages are referenced by URLs and can live anywhere.
+mbostock	692092551470252035	2016-01-26T21:11:37	herrstucki Crom isn’t specific to GitHub releases. (The implementation currently is, but the idea isn’t.)
+mbostock	692092445962547207	2016-01-26T21:11:12	herrstucki I (the package author) chose GitHub. You can chose whatever you want, or a mirror, if you prefer.
+mbostock	692092171273375748	2016-01-26T21:10:06	More thoughts on Crom, including metadata, URLs and content-addressable storage. 
+mbostock	692091184957648898	2016-01-26T21:06:11	herrstucki I feel the opposite: publishing to multiple registries now is a big pain. GitHub should be sufficient.
+mbostock	692089627633528832	2016-01-26T21:00:00	herrstucki That expresses the value of a stable mirror, but shouldn’t place an onus on package authors (and other users).
+mbostock	692088824810242048	2016-01-26T20:56:48	herrstucki You’re giving package owners control (rather than registry owners) with decentralization, certainly.
+mbostock	692086402276683776	2016-01-26T20:47:11	herrstucki Bower has a registry. And has no way of publishing generated files (other than checking them into git).
+mbostock	692067149515345920	2016-01-26T19:30:41	ParagonSci_Inc KirkDBorne It’s by BlackiLi.
+mbostock	692054921424666625	2016-01-26T18:42:05	joepie91 But you’re saying the solution is that we all have to use the same (fixed) host?
+mbostock	692054708056240128	2016-01-26T18:41:14	joepie91 The only difference with Crom is that the name is replaced with a URL, which provides a decentralized way of listing releases.
+mbostock	692054402832568320	2016-01-26T18:40:02	joepie91 Right, but Crom still uses semver, so I don’t see the problem…
+mbostock	692053685912776708	2016-01-26T18:37:11	joepie91 You don’t lose that property. You have determinism if you want an exact match, and otherwise you can use version ranges.
+mbostock	692053486934962176	2016-01-26T18:36:23	joepie91 Sure, but if you’re not specifying an exact version, then it’s already nondeterministic, right?
+mbostock	692053311034257408	2016-01-26T18:35:41	joepie91 The hash applies to an exact version, yes.
+mbostock	692053003252072448	2016-01-26T18:34:28	joepie91 I don’t see how content hashes and redirects aren’t sufficient to satisfy the problems you describe.
+mbostock	692052556537671680	2016-01-26T18:32:41	joepie91 Seems like you’ve already made your mind up, but I still think it’s worth thinking about decentralization.
+mbostock	692050265176829953	2016-01-26T18:23:35	joepie91 npm deprecate also does a poor job of facilitating package renaming, which is also a UX stink. ;)
+mbostock	692049609191878657	2016-01-26T18:20:59	joepie91 If we’re free to change hosting providers, why should we be tied to a fixed, centralized registry?
+mbostock	692048947871780866	2016-01-26T18:18:21	joepie91 You could have proxies that take immutable snapshots of published packages if you want to opt-in to centralized management.
+mbostock	692047902961602560	2016-01-26T18:14:12	joepie91 How is forcing everyone to (effectively) use  any better?
+mbostock	692047462270312448	2016-01-26T18:12:27	joepie91 You could use redirects to allow package authors to change hosts, or have users re-search for new URLs.
+mbostock	692046913860833280	2016-01-26T18:10:16	joepie91 Search terms are immediately expanded to URLs and saved to metadata. 
+mbostock	692026689690316800	2016-01-26T16:49:54	aidanskinner joeshaw The stars are only used in the initial search. Subsequently the dependency is defined as a URL (+ SHA).
+mbostock	692023656520634368	2016-01-26T16:37:51	somebitsLinks Hey, don’t knock it! 
+mbostock	692023321274114049	2016-01-26T16:36:31	_sequoia Not quite because I still want my package manager to be able to discover versions and update.
+mbostock	692023165506027520	2016-01-26T16:35:54	_sequoia With that, you could opt-in to using npm’s centralized registry, but you wouldn’t be “punished” for not doing so.
+mbostock	692022957787340800	2016-01-26T16:35:04	_sequoia Then, the npm client should expand names to URLs when modifying the package.json.
+mbostock	692022811376746496	2016-01-26T16:34:30	_sequoia It’d be best to define an RSS-like format for defining a project’s published versions, so they can be published anywhere.
+mbostock	692021570705821696	2016-01-26T16:29:34	_sequoia I know, I just started yesterday! Lots to do.
+mbostock	692020873109213185	2016-01-26T16:26:47	_sequoia Haha, that would be bad. :)
+mbostock	692020750664884224	2016-01-26T16:26:18	_sequoia And separate URLs for projects (for discovering versions) from releases (fixed content).
+mbostock	692020541432033280	2016-01-26T16:25:28	_sequoia Not git, because releases have generated files. ZIP archives (or tarballs).
+mbostock	692019245874458624	2016-01-26T16:20:19	_sequoia So, a package defines its dependencies explicitly, even if on the command line you weren't initially explicit.
+mbostock	692019055193038849	2016-01-26T16:19:34	_sequoia The idea is that the names are just a search query that is then bound to a URL. So ranking heuristics can improve over time.
+mbostock	691999869485977600	2016-01-26T15:03:20	chrtze stekhn Bower requires a registry (for short names) and requires checking generated files into git.
+mbostock	691999507454627841	2016-01-26T15:01:53	ed_davies Exactly.
+mbostock	691853769882079233	2016-01-26T05:22:47	kejadlen Yes.
+mbostock	691626667857440768	2016-01-25T14:20:22	rotated wins v. losses chart to show # of games as x pos - ended up w/ lots of whitespace   
+mbostock	691810515295850497	2016-01-26T02:30:54	mtiller With search the names are not canonical; they can change and have local meaning.
+mbostock	691810363088715776	2016-01-26T02:30:18	mtiller It’s subtle but there’s a difference between searching and using a repository.
+mbostock	691800373191929856	2016-01-26T01:50:36	trakz Can you elaborate? That sounds interesting.
+mbostock	691799867165949952	2016-01-26T01:48:36	mtiller That seems like it still has a centralized registry (albeit on GitHub).
+mbostock	691798931274080256	2016-01-26T01:44:52	msjgriffiths It’s subtle to design, but the usability of the tool has a big influence on how it ends up being used.
+mbostock	691798495775293440	2016-01-26T01:43:09	msjgriffiths Also `crom install [query]` actually installs, not searches. This is “unsafe”, but easily undone. So, convenient.
+mbostock	691797344896053248	2016-01-26T01:38:34	msjgriffiths Seems a key difference is that, in Crom, names aren’t canonical; they are search terms. Only URLs are canonical identifiers.
+mbostock	691787475392552960	2016-01-26T00:59:21	msjgriffiths But it knows the -c pandas is “the Pandas channel on ”, no?
+mbostock	691786821248929793	2016-01-26T00:56:45	msjgriffiths Is that not tied to ?
+mbostock	691784665062100992	2016-01-26T00:48:11	colinmegill Yeah, but you can name-squat on usernames, too! But certainly, longer names are less likely to have conflicts.
+mbostock	691783371349979136	2016-01-26T00:43:03	I wrote a script that downloads a ZIP file, AMA. 
+mbostock	691783081049604096	2016-01-26T00:41:53	colinmegill The primacy of names and the name-squatting on npm is an issue. But URLs have that to a degree with domain squatting. :)
+mbostock	691782737523507204	2016-01-26T00:40:31	colinmegill No, it’s more of a philosophical qualm with npm. And an obsession with making smaller, decoupled tools.
+mbostock	691779057508356096	2016-01-26T00:25:54	wagenet My beef with Bower is it doesn’t let me publish generated files and I refuse to put them in git. ;)
+mbostock	691778775705612289	2016-01-26T00:24:47	james_t_webber That certainly looks related! I guess I’m primarily thinking of webdev, though.
+mbostock	691777817055510528	2016-01-26T00:20:58	wagenet You wouldn’t rely on the short name; it’s an unsafe (but convenient) alias. It would auto-expand to URL. 
+mbostock	691776981004894209	2016-01-26T00:17:39	wagenet The point is, a package manager could work with multiple registries (or arbitrary internet). GitHub is just a convenience.
+mbostock	691776630864416768	2016-01-26T00:16:16	Bopuc 
+mbostock	691776533401309185	2016-01-26T00:15:52	wagenet Sure, it could save a signature and verify it hasn’t changed. But what you describe doesn’t require centralization.
+mbostock	691776017938169857	2016-01-26T00:13:49	wagenet Read the README. It’s not downloading the git repository, but published release assets (a ZIP you attach).
+mbostock	691775770721685504	2016-01-26T00:12:50	wagenet If you don’t trust the author, you should be your choice to use a third party for your immutable snapshots.
+mbostock	691775158038761475	2016-01-26T00:10:24	grayj_ I think git tags (&amp; GitHub releases) seem sufficient for defining versions? And imagining some package.json-equivalent for Crom.
+mbostock	691774720044331009	2016-01-26T00:08:40	If you’re interested in making Crom a real thing, let me know. Also let me know if it already exists and I didn’t find it. ;)
+mbostock	691774305420578820	2016-01-26T00:07:01	I’ve spent all of an hour tinkering with Crom, but it’s an itch I’ve had for years (most notably whenever the npm registry went down).
+mbostock	691773565901934592	2016-01-26T00:04:05	I’d like a package manager decoupled from any package registry. My toy proof-of-concept: 
+mbostock	691701445746233345	2016-01-25T19:17:30	maxgoldst Or, for one element, just this.classList.toggle("foo").
+mbostock	691701178971738112	2016-01-25T19:16:26	maxgoldst If you can depend on classList (no SVG): selection.each(function() { this.classList.toggle("foo"); })
+mbostock	691700691170041857	2016-01-25T19:14:30	maxgoldst Without a var: selection.classed("foo", function() { return !d3.select(this).classed("foo"); })
+mbostock	691699939739463680	2016-01-25T19:11:31	shawnbot I thought Martial Law was declared in honor of the ’bowl?
+mbostock	691504449555070976	2016-01-25T06:14:42	Click the “about” link. 
+mbostock	691503989918011392	2016-01-25T06:12:53	vruba Well that was the most rewarding “about” link I’ve clicked in recent memory. 👏
+mbostock	691106115661099008	2016-01-24T03:51:52	TrumpSC I’m learning Deutsch and Hearthstone at the same time. Now that’s what I call “value”!
+mbostock	691045408819122176	2016-01-23T23:50:39	WillemD Queue runs a batch of asynchronous tasks concurrently, but no more than N at a time, and then tells you when they’re all done.
+mbostock	691045041456852992	2016-01-23T23:49:11	WillemD I think you could tweak the implementation a bit so that queue.defer took a Promise rather than a callback, for example.
+mbostock	691044869184159746	2016-01-23T23:48:30	WillemD But Queue isn’t a replacement for Promises. It’s more like a connection pool or Promise.all with configurable concurrency.
+mbostock	691044812565278720	2016-01-23T23:48:16	WillemD My point was that you need a wrapper to adapt callback-style APIs to use Promises, which adds to the complexity.
+mbostock	689816915037024258	2016-01-20T14:29:03	Whose Grid Map is better? Quality Metrics for Grid Map Layouts  
+mbostock	690920502462849026	2016-01-23T15:34:19	WillemD See 
+mbostock	690755789888192512	2016-01-23T04:39:48	lmeyerov ericbuth Okay, I’m convinced, and I’ve updated the documentation and code accordingly. Thank you for the feedback!
+mbostock	690720849276510208	2016-01-23T02:20:58	tw twitter Ah, sweet relief. Did you fix it? If so, thank you!
+mbostock	690708055772688385	2016-01-23T01:30:07	ericbuth A fine reminder that there are still physical components somewhere underneath all these layers of abstraction. 😜
+mbostock	690707145961046016	2016-01-23T01:26:30	ericbuth In its four years of existence you have been the only one to raise this issue, but point taken.
+mbostock	690706676589047809	2016-01-23T01:24:39	ericbuth About what?
+mbostock	690706389111431168	2016-01-23T01:23:30	ericbuth That’s an overly strict definition of “parallel”, in my view. Even so, these tasks may sometimes meet that definition.
+mbostock	690705190224171008	2016-01-23T01:18:44	ericbuth Parallelism seems like a fine word for the count of things, such as network requests, that happen concurrently.
+mbostock	690704694759395328	2016-01-23T01:16:46	ericbuth I was trolling, but yes, it concurrency for asynchronous tasks, not threads or processes.
+mbostock	690703564272889856	2016-01-23T01:12:17	ericbuth shancarter Yes. But you have to put "use threads"; at the top of your JS file.
+mbostock	690702785646465024	2016-01-23T01:09:11	shancarter I should rename it d3-queue though.
+mbostock	690702404686196736	2016-01-23T01:07:40	shancarter It will be for 4.0!
+mbostock	690702311887282176	2016-01-23T01:07:18	maxgoldst Replace ’request’ with d3.csv (or d3.requestCsv in 4.0).
+mbostock	690702142722543617	2016-01-23T01:06:38	maxgoldst Did you see the linked example?  Also example in the readme.
+mbostock	690693852013834240	2016-01-23T00:33:41	WillemD Compatibility &amp; simplicity. Queue doesn’t require you to rewrite everything to use it. The API and implementation is smaller.
+mbostock	690689719718379520	2016-01-23T00:17:16	duartecunhaleao I think I agree that _ should be considered a performance optimization over closures.
+mbostock	690689214615162880	2016-01-23T00:15:15	Escape callback hell 🔥 with Queue.js! Version 1.2 adds queue.abort and a much-improved README. 
+mbostock	690621120945348608	2016-01-22T19:44:41	moriogawa Thank your stars! They could have used tamper-resistant screws. 
+mbostock	690606040069472256	2016-01-22T18:44:45	qualmist It decreases the likelihood of depending on undefined behavior, for one.
+mbostock	690580899226714112	2016-01-22T17:04:51	research_bat :slowclap:
+mbostock	690580658368811009	2016-01-22T17:03:53	AmeliasBrain Both are intended to discourage use of internals. Closures are stricter, but underscored fields may perform better.
+mbostock	690580343749902336	2016-01-22T17:02:38	AmeliasBrain Modifying internal state is likely to result in undefined behavior and breakages with new releases.
+mbostock	690579839410044928	2016-01-22T17:00:38	TatumCreative Curious why that’s better than a privileged closure. Sounds similar, except more verbose?
+mbostock	690579149468004353	2016-01-22T16:57:54	Andrewpitts I haven’t played in years. Kinda miss it. Watch Twitch occasionally; too lazy to play games. Odd future we live in.
+mbostock	690577833354129408	2016-01-22T16:52:40	Andrewpitts That’s why I started playing frost mage. If you can’t beat ’em…
+mbostock	690576333831700480	2016-01-22T16:46:42	Andrewpitts “Can’t do that while stunned” Yes.
+mbostock	690568229396164608	2016-01-22T16:14:30	devTristan There are different ways to tell them, and different levels of effort to detect mistakes.
+mbostock	690567706878173185	2016-01-22T16:12:26	When storing internal state in JavaScript, use
+mbostock	690567321966936064	2016-01-22T16:10:54	If the specified parallelism is NaN when creating an asynchronous task queue,
+mbostock	690367254916141056	2016-01-22T02:55:54	missperovaz Alpha testers! 
+mbostock	690349907526471681	2016-01-22T01:46:58	johncmunoz Updated  and for comparison  
+mbostock	690348341851471873	2016-01-22T01:40:45	johncmunoz Yes, it’s a horrible visualization. It’s intended only to demonstrate selection.each. I should make that more clear…
+mbostock	690347389534785537	2016-01-22T01:36:58	DoPhuoc They’re bottom-aligned using flow layout because it’s the simplest to implement.
+mbostock	690343689030352898	2016-01-22T01:22:16	novalsi I did one tweet today and it was pretty good.
+mbostock	690342739905372160	2016-01-22T01:18:29	Also, “composing” a tweet is too generous. Symphonies are composed. Tweets are… dropped.
+mbostock	690342176090300416	2016-01-22T01:16:15	JeremyAbramson twitter No, the web interface. I stopped using the abandoned Mac client ages ago.
+mbostock	690338746273673216	2016-01-22T01:02:37	Huh. twitter broke option-delete when composing a tweet. (It no longer deletes by word.) Hashtag ⌥⌫
+mbostock	690336525708488704	2016-01-22T00:53:48	Variable-size donuts using selection.each to access parent data.  
+mbostock	689958821134012421	2016-01-20T23:52:56	jenniferdaniel Just make your site only accessible on the Tor darknet.
+mbostock	689958032139239424	2016-01-20T23:49:48	jenniferdaniel Although, I also recommend AitchTeeTeePeeColonForwardSlash…
+mbostock	689957631478337536	2016-01-20T23:48:12	jenniferdaniel Now’s your chance to get HttpsColonForwardSlash… and jump on the SSL bandwagon!
+mbostock	689860531293941762	2016-01-20T17:22:22	Visualizing K-Means equilibria w/ different parameters  
+mbostock	689867616719007744	2016-01-20T17:50:31	flowingdata While you’re at it, add X-Frame-Options to your site: 
+mbostock	689828248658685956	2016-01-20T15:14:05	This is getting ridiculous. Instead of an iframe from FD, MailOnline just straight up lifted the interactive 
+mbostock	689866552615657474	2016-01-20T17:46:17	flowingdata Shameless! Send them an invoice and then share what happens in a followup post.
+mbostock	688909443795300352	2016-01-18T02:23:05	diogomonica (Less informative than the book. But still fascinating and scary and unfortunately relevant today.)
+mbostock	688908539926990848	2016-01-18T02:19:29	diogomonica Heh, if you also want a scary movie on this subject, see Fail Safe.
+mbostock	688884684625870848	2016-01-18T00:44:42	diogomonica Highly recommend Command and Control by Eric Schlosser, on this subject.
+mbostock	688172063777886214	2016-01-16T01:33:00	Pushed a big overhaul of d3-voronoi. Fun with topology:  
+mbostock	687806843758891008	2016-01-15T01:21:45	migurski 
+mbostock	687785709336432642	2016-01-14T23:57:46	jods16 It’d also allow preallocating sparse arrays, e.g., [0, 1, 2, length: 10] is equivalent to [0, 1, 2,,,,,,,,].
+mbostock	687785158867554306	2016-01-14T23:55:34	jods16 I dunno. Just imagining. Perhaps you could restrict the syntax so that named properties only appeared at the end.
+mbostock	687773907923816448	2016-01-14T23:10:52	andrewljohnson Sometimes it’s nice to not have the wrapper object.
+mbostock	687772602178224129	2016-01-14T23:05:41	andrewljohnson I just want better syntax for (a = [0, 1, 2, 3], a.​name = "foo", a).
+mbostock	687771842761760768	2016-01-14T23:02:40	andrewljohnson That means something completely different.
+mbostock	687768948549390337	2016-01-14T22:51:10	martin_svanberg Named properties are ignored by array methods (e.g., array.forEach) but not object methods (e.g., Object.keys) and for…in.
+mbostock	687768651714277376	2016-01-14T22:49:59	martin_svanberg It’s already doable as (a = [0, 1, 2, 3], a.​name = "foo", a). Just better syntax.
+mbostock	687765878125936640	2016-01-14T22:38:58	squishythinking Sometimes you have an array of elements, but you also have related metadata with named properties.
+mbostock	687760137642090496	2016-01-14T22:16:09	tilmonedwards bjacobel They’re objects! 🌈
+mbostock	687759286458388480	2016-01-14T22:12:46	tilmonedwards bjacobel Equivalent to (a = [0, 1, 2, 3], a.​name = "foo", a).
+mbostock	687757928267292672	2016-01-14T22:07:22	BrianTRice Sounds like &lt;|, as here: 
+mbostock	687757505657614337	2016-01-14T22:05:41	ChazDazzle JavaScript?
+mbostock	687757178770333696	2016-01-14T22:04:23	BrianTRice How so?
+mbostock	687756396444557312	2016-01-14T22:01:17	It’d be nice if JavaScript array literals could also take named properties, e.g., [0, 1, 2, 3, name: "foo"].
+mbostock	687652767511396352	2016-01-14T15:09:30	chrispiecom Cc dwtkns. Don’t think that was intentional, but neat!
+mbostock	687360815796588544	2016-01-13T19:49:23	Wherein I explore the exciting world of npmjs prereleases and distribution tags. 
+mbostock	687360560623558656	2016-01-13T19:48:22	aredridel Wrote up my notes here:  Thanks for your guidance!
+mbostock	687338612929634304	2016-01-13T18:21:10	aredridel `npm tag d3@4.0.0-alpah.4 alpha` worked (albeit with a deprecation notice), thanks.
+mbostock	687334536577847297	2016-01-13T18:04:58	aredridel Mind advising on how to retroactively apply the “alpha” tag to the already-published prereleases?
+mbostock	687327855865245696	2016-01-13T17:38:25	aredridel Maybe it’s fine if “latest” includes prereleases, but then “latest” shouldn’t be the default tag (e.g., npm install d3).
+mbostock	687327621957337088	2016-01-13T17:37:29	aredridel Okay, but that makes it sound like npm doesn’t support prereleases if everything is considered a “release”. 😜
+mbostock	687323543588089856	2016-01-13T17:21:17	emeyers615 Maybe use a named transition? The brush only interrupts default (empty name) transitions. 
+mbostock	687322748054417408	2016-01-13T17:18:07	aredridel Why does the default “latest” include prereleases, then? Prerelease means “before release”. Shouldn’t it be opt-in, not opt-out?
+mbostock	687319287745282049	2016-01-13T17:04:22	aredridel kjeldahl If npmjs wants “latest” to include prereleases, wouldn’t a tag just make d3 behave in a nonstandard way?
+mbostock	687293724821336064	2016-01-13T15:22:47	LukeSchunk Also consider a stacked (possibly normalized) bar chart.
+mbostock	687293158271520768	2016-01-13T15:20:32	LukeSchunk Sounds like a bunch of donut charts with varying radii?
+mbostock	687292532636557313	2016-01-13T15:18:03	MikeTaptich Also, it’s tedious but it’s not particularly complicated (one static element), as compared to tick generation &amp; formatting.
+mbostock	687292125667434496	2016-01-13T15:16:26	MikeTaptich No immediate plans. Not sure there’s a default appearance I’m sufficiently happy with.
+mbostock	687291726952665089	2016-01-13T15:14:51	kjeldahl Also, sounds like you’re using the latest npmjs, which regrettably installs prereleases by default. Earlier versions didn’t.
+mbostock	687291200156520448	2016-01-13T15:12:46	kjeldahl Yes, a new major version number indicates breaking API changes; never use “latest” if you want strict compatibility.
+mbostock	687287841466941440	2016-01-13T14:59:25	moritz_stefaner JanWillemTulp IXT +1. Nice work!
+mbostock	687287283939069952	2016-01-13T14:57:12	alankang Gotta wait until I implement d3-transition. Sorry, but glad you like the improvements so far.
+mbostock	687070165268209665	2016-01-13T00:34:27	MikeTaptich You mean tick formatting?
+mbostock	686982366858887168	2016-01-12T18:45:34	Zikes It’s not clear to me why they couldn’t have made the two inconsistent. It’s not rocket science.
+mbostock	686982013534928896	2016-01-12T18:44:10	adamfortuna Sometime in 2016. Hopefully before summer, so I can have a vacation. ;)
+mbostock	686981552408936448	2016-01-12T18:42:20	while [ 1 ]; do rm -rf node_modules &amp;&amp; npm install; done 
+mbostock	686917984833683456	2016-01-12T14:29:44	A post about teaching d3 for a semester, with big thanks to alignedleft vlandham flowingdata for materials help 
+mbostock	686972243549618176	2016-01-12T18:05:20	luker18576759 Nope.
+mbostock	686971638127054848	2016-01-12T18:02:56	timtriche Have you tried using D3 in tonicdev? It’s neat. For example: 
+mbostock	686970617472487424	2016-01-12T17:58:53	Implementing AnnKEmery’s inline labels in d3js  
+mbostock	686969547832737793	2016-01-12T17:54:38	D3 3.x: d3.svg.axis().scale(y).orient("left"); D3 4.0: d3.axisLeft(y);
+mbostock	686792138705649664	2016-01-12T06:09:40	larsjuhljensen I mean, what are the odds!?
+mbostock	686778272152027136	2016-01-12T05:14:34	I won!  
+mbostock	686630784921276416	2016-01-11T19:28:30	alvinsight I think I’ve fixed ’em all now, but let me know if you find anything else broken.
+mbostock	686564526016303104	2016-01-11T15:05:13	showing shifting distributions with small multiples: point differentials in 2015 nba games   
+mbostock	686585966576848896	2016-01-11T16:30:25	alvinsight Yep, thanks. I’ll working on fixing them.
+mbostock	686000207243300865	2016-01-10T01:42:49	benelsen Maybe cc’ing npmjs will draw attention to our plight.
+mbostock	685997956349079553	2016-01-10T01:33:52	benelsen NPM “If it proves problematic for people we will consider reverting it (preferrably before this becomes npm@latest).”
+mbostock	685995675864018944	2016-01-10T01:24:48	benelsen I thought the point of prerelease tags was to make it opt-in? Making it the default (and changing the behavior) seems bad.
+mbostock	685990533974507521	2016-01-10T01:04:23	benelsen That’s not what I see… 
+mbostock	685987741985669120	2016-01-10T00:53:17	benelsen `npm install d3` ignores prerelease versions, and so installs 3.5.12. Maybe you’re using an old version of npm?
+mbostock	685985604438339584	2016-01-10T00:44:47	benelsen I’ve only published prerelease versions (x.y.z-tag) which npm understands. What would --tag accomplish?
+mbostock	685630106040074240	2016-01-09T01:12:10	alignedleft viegasf OpenVisConf Glad I wasn’t the only one that noticed.
+mbostock	685251075377508352	2016-01-08T00:06:02	glaforge There’s no changelog because it was too consuming to keep it up-to-date during development. There will be on release.
+mbostock	685250190459015168	2016-01-08T00:02:31	A LOT still to come, but if you’re feeling adventurous, there’s now a D3 4.0 alpha release. 
+mbostock	685117994377166848	2016-01-07T15:17:13	yuvadm I’m working on d3-axis. Hence the empty repo.
+mbostock	684840380529901568	2016-01-06T20:54:05	KevinQ Just bumped Sublime’s default font size from 10pt to 12pt. 💀🎺
+mbostock	684803727417446400	2016-01-06T18:28:26	7u7uca Link? Seems fine for me.
+mbostock	684433384173535232	2016-01-05T17:56:49	Causes of death by age  
+mbostock	684464900014354432	2016-01-05T20:02:03	myadhdoutlet There’s also a perimeter function in d3-polygon and d3.geo.length for geo lines.
+mbostock	684464689795829761	2016-01-05T20:01:13	myadhdoutlet 
+mbostock	684464561060102144	2016-01-05T20:00:42	myadhdoutlet SVG path elements have a getTotalLength function (or something similar; I don’t recall exactly).
+mbostock	684047413003313152	2016-01-04T16:23:06	Jacques Bertin - Semiology of Graphics has some amazing stuff in it dataviz 
+mbostock	683346116855738369	2016-01-02T17:56:24	Hexbins in the wild. 
+mbostock	682712316312354817	2015-12-31T23:57:55	Here’s the text version of my recent talk on the ‘Website Obesity Crisis’. Cancel your NYE plans and get reading!  
+mbostock	682339580230500352	2015-12-30T23:16:47	shashashasha You’re halfway there! 
+mbostock	682293737989341184	2015-12-30T20:14:38	binman Looks good!
+mbostock	682268425637335040	2015-12-30T18:34:03	JacobBennett It could be the five-minute cache.
+mbostock	681928755594526720	2015-12-29T20:04:19	An xkcd once wondered why the 11th of most months is mentioned less than the other days. I think I figured it out. 
+mbostock	681946860810969088	2015-12-29T21:16:16	Grahaphics Love it!
+mbostock	681909740872544257	2015-12-29T18:48:46	An exploration of the sound of architecture using binaural audio -&gt; Dear Architects: Sound Matters 
+mbostock	681833188109373441	2015-12-29T13:44:34	juerglehni An example of how it should work would be a good starting point. Send me an email?
+mbostock	681826154966167552	2015-12-29T13:16:37	juerglehni Should I add PaperScript support to ?
+mbostock	681825859481698304	2015-12-29T13:15:27	juerglehni Please don’t. I deleted it to avoid people forking it. I guess I should delete the history.
+mbostock	681824492427980800	2015-12-29T13:10:01	juerglehni No, sorry.
+mbostock	681633445232132096	2015-12-29T00:30:52	Every single path the Bengals have to the playoffs in one... tree?  
+mbostock	681615481308971008	2015-12-28T23:19:29	eads JoeGermuska Yea. I wonder how an introduction-to-D3 course would go that taught scales before selections.
+mbostock	681599465430491136	2015-12-28T22:15:50	tom_cardoso One of my favorite gifs.
+mbostock	681576970124042240	2015-12-28T20:46:27	teleclimber A rule-of-thumb from Josh Bloch: if you can’t come up with a good name for a method or class, your design might be flawed.
+mbostock	681576461027786752	2015-12-28T20:44:26	FogleBird Tru.
+mbostock	681565419153391620	2015-12-28T20:00:33	teddyrised Some effort is always necessary to change how one thinks about a problem, but ideally it should be no more than that.
+mbostock	681562727379148801	2015-12-28T19:49:51	teddyrised I try to be judicious in my redesigns. :)
+mbostock	681562097554075648	2015-12-28T19:47:21	ericclemmons I’m a big fan of examples.
+mbostock	681561673459564544	2015-12-28T19:45:40	mbostock Also funny that D3 = data-driven documents and DDD = documentation-driven design. Coincidence?
+mbostock	681561150127878144	2015-12-28T19:43:35	It’s funny how writing documentation can spur redesign: it’s easier to simplify a complex API than try to document it completely.
+mbostock	681527198373658624	2015-12-28T17:28:40	Scales are a small but powerful concept for data visualization.  d3js
+mbostock	681256755511230464	2015-12-27T23:34:02	I want one of these hats. 
+mbostock	681178679272050688	2015-12-27T18:23:47	Grahaphics jshkatz KevinQ It’s because sports are played with a ball!
+mbostock	680833272553824257	2015-12-26T19:31:16	Every team's remaining path to the N.F.L. playoffs:  Highly weird + enjoyable charts. 
+mbostock	680037975527452672	2015-12-24T14:51:02	if you have submissions to the first ever 'arrow of the year' awards, send 'em my way. winner announced on Jan. 1. 

@@ -1,0 +1,540 @@
+SPGLearnings	726077000667004929	2016-04-29T15:53:41	S&amp;P 500 FY16 earnings growth moves to a negative 0.14% rate (or $117.03), despite the upward move in Q1 results. SPXearnings
+SPGLearnings	725782472705867776	2016-04-28T20:23:20	EXPE gross bookings increased 32% and revenue increased 42% year-over-year SPXearnings
+SPGLearnings	725782228857442307	2016-04-28T20:22:22	EXPE reports EPS of $0.09 vs. ($0.06) est., revenue of $1.9B vs. $1.8B est. SPXearnings
+SPGLearnings	725779484314574852	2016-04-28T20:11:28	GILD reports EPS of $3.03 vs. $3.13 est., revenue of $7.79B vs. $8.07B est. SPXearnings
+SPGLearnings	725779061721669634	2016-04-28T20:09:47	AMZN says Amazon devices are the top selling products on Amazon, and customers purchased more than 2x as many Fire tablets than 1Q15.
+SPGLearnings	725778747975172096	2016-04-28T20:08:32	AMZN reports EPS of $1.07 vs. $0.59 est., revenue of $29.1B vs. $28.0B est. SPXearnings
+SPGLearnings	725669681328185344	2016-04-28T12:55:08	Lindsey Bell highlights key themes dominating earnings this quarter on CNBC  SPGLEarnings 
+SPGLearnings	725675491508801537	2016-04-28T13:18:14	UPS says revenue growth was slowed by lower fuel surcharges and currency exchange rates SPXearnings
+SPGLearnings	725674582145904640	2016-04-28T13:14:37	UPS EPS of $1.27 vs. $1.21 est., revenue of $14.42B vs. $14.57B est. SPXearnings
+SPGLearnings	725674115730952192	2016-04-28T13:12:46	F North America leads growth with $23.9B revenue and 12.9% profit margin. SPXearnings
+SPGLearnings	725673476288307200	2016-04-28T13:10:13	F beats EPS estimates by $0.21, reporting $0.68 SPXearnings
+SPGLearnings	725672121356181505	2016-04-28T13:04:50	CAH saw double-digit growth in revenue and profit in Pharmaceutical and MedicalReporting segments. SPXearnings
+SPGLearnings	725671706724016129	2016-04-28T13:03:11	CAH beats on top and bottom line - EPS of $1.43 vs. $1.33 est., revenue of $30.7B vs. $30.4B est. SPXearnings
+SPGLearnings	725440250739306497	2016-04-27T21:43:28	Tomorrow will be the busiest day of Q1 earnings w/ 64 companies slated to report, incl COP, CAH, WM, MA, ABBV, F, UPS, AMZN, EXPE
+SPGLearnings	725421113216499712	2016-04-27T20:27:25	VRTX net product revenue by product: ORKAMBI $223.1MM, KALYDECO $170.5MM. healthcare SPXearnings
+SPGLearnings	725419894582431745	2016-04-27T20:22:35	VRTX Adj EPS -$0.09 vs $0.28 est. Sales $398MM vs $438MM est. There are now 27,000 people w/ CF eligible to take ORKAMBI and KALYDECO
+SPGLearnings	725417986559979521	2016-04-27T20:15:00	PYPL reiterated FY16 guide of $1.45-$1.50 (vs $1.49 est). PayPal SPXearnings
+SPGLearnings	725417710474158080	2016-04-27T20:13:54	PYPL adj EPS $0.37 vs $0.35 est. Sales $2.54B vs $2.50B est. 1.4B transactions processed. 4.5MM active customers added. $81B in TPV.
+SPGLearnings	725416447669854212	2016-04-27T20:08:53	FB ad revenue increased 57% y/y to $5.2B. Mobile represents 82% of Ad rev, an increased from 73% in Q1 last year. SPXearnings tech
+SPGLearnings	725415948937793540	2016-04-27T20:06:54	FB Adj EPS $0.77 vs $0.62 est. Sales $5.38B vs $5.26B. Monthly Active Users 1.65B, 15% y/y. Daily Active Users 1.09B, +16% y/y. facebook
+SPGLearnings	725310215634214912	2016-04-27T13:06:45	HES EPS -$1.72 better than the -$1.83 est. Sales $993MM vs $1.0B est. Lower realized selling prices reduced after-tax results by ~$230MM
+SPGLearnings	725308748554735616	2016-04-27T13:00:55	DPS says FY16 EPS to be at the high end of prior guide for $4.20-$4.30 ($4.32 est). FX now to be a -2.5% impact to EPS (vs 4% previously)
+SPGLearnings	725307892165926912	2016-04-27T12:57:31	DPS says "We gained dollar share in both CSDs and sparkling waters in Nielsen measured mkts &amp; delivered both product &amp; package innovation"
+SPGLearnings	725307396562800642	2016-04-27T12:55:33	DPS EPS $0.96 vs $0.86 est. Sales $1.49B vs $1.47B est. Product &amp; package mix +3%, price +1%, sales volume +1%. FX -2% to net sales. SPX
+SPGLearnings	725305262173769729	2016-04-27T12:47:04	GD EPS $2.34 vs $2.16 est. Sales $7.72B vs $7.68B est. Backlog $64.7B, book-to-bill 1-to-1 in Combat Sys and &gt; 1-to-1 in Info Sys &amp; Tech
+SPGLearnings	725304420666380288	2016-04-27T12:43:44	GD CEO says "We generated positive op. leverage and achieved the 6th straight quarter with operating earnings of more than $1 billion.”
+SPGLearnings	725301896991399936	2016-04-27T12:33:42	ANTM says Q1 "represent[ed] a strong start to 2016 w/ higher than expected enrollment growth in both Commercial &amp; Government biz segments."
+SPGLearnings	725301414210211841	2016-04-27T12:31:47	ANTM raises FY16 guide: Adj EPS to be &gt; $10.80 (vs $10.92 est). Medical membership to be 39.3MM - 39.5MM. Op rev $81B - $82B ($80.9B est)
+SPGLearnings	725300710817042432	2016-04-27T12:28:59	ANTM Adj EPS of $3.46 beats by $0.11. Sales $20.31B vs $19.76B est. Medical enrollment +1.1MM members to 39.6MM. healthcare SPXearnings
+SPGLearnings	725299265262727168	2016-04-27T12:23:14	CMCSA NBCUniversal sales +3.9%, Theme Park sales +57.5% (incl Universal Studios Japan) SPXearnings
+SPGLearnings	725298786940112896	2016-04-27T12:21:20	CMCSA "delivered our best Q1 Internet results in 4 years and our best Q1 video results in 9 years - adding 53,000 video customers." cable
+SPGLearnings	725298006145286146	2016-04-27T12:18:14	CMCSA Adj EPS $0.84 vs $0.79 est. Sales $18.79B vs $18.64B est. Customer relationships +35.5% y/y to 269k. Rev per customer +4%. SPX
+SPGLearnings	725297110246121472	2016-04-27T12:14:41	BSX raised FY16 guide: Sales $8.075B - $8.225B (vs $8.02B est). Adj EPS $1.06-$1.10 (vs $1.05 est), from prior guide of $1.03-$1.07 prior.
+SPGLearnings	725296466214920192	2016-04-27T12:12:07	BSX beats by $0.04 with $0.28 Adj EPS. Sales $1.96B vs $1.91B est. MedSurg organic sales +11%, Cardiovascular +14%, Rhythm Mgmt -2% SPX
+SPGLearnings	725063852229009410	2016-04-26T20:47:48	CMG EPS -$0.88 vs -$1.05 est. Sales $834.5MM vs $863.2MM est. Comps -29.7% with transactions -21.1%. ChipotleTweets
+SPGLearnings	725062870497656832	2016-04-26T20:43:54	AAPL regional sales: China -32% sequentially, -26% y/y. Japan -11% sequentially, +24% y/y
+SPGLearnings	725062482151247876	2016-04-26T20:42:21	AAPL Q3 guide: Sales $41B-$43B (vs $47.4B est), GM 37-5%-38% (vs 39.2%) tech iPhone apple
+SPGLearnings	725061985403023360	2016-04-26T20:40:22	AAPL unit sales: iPhones 51.2MM, iPad 10.3MM, Mac 4.0MM. Other product Revenue +30% y/y (incl Apple TV, Apple Watch, etc).  SPXearnings
+SPGLearnings	725061502395375616	2016-04-26T20:38:27	AAPL EPS $1.90 vs $2.00 est. Sales $50.56B vs $51.98B est. Int'l represented 67% of the quarter's rev. GM 39.4% vs 39.5% est. tech SPX
+SPGLearnings	725059614065217536	2016-04-26T20:30:57	EBAY GMV breakdown: Marketplace +1%, StubHub +29%. Net transaction rev growth: Marketplace -2%, StubHub +34% SPXearnings.
+SPGLearnings	725058595474313216	2016-04-26T20:26:54	EBAY Q2 guide: Net sales $2.14B - $2.19B (vs $2.14B est), Adj EPS $0.40-$0.42 (vs $0.44 est). eBay
+SPGLearnings	725058043524857856	2016-04-26T20:24:43	EBAY beats by $0.02 w/ Adj EPS of $0.47. Sales $2.14B vs $2.08B est. Gross Merchandise Volume $20.5B, +5% on FX neutral basis SPXearnings
+SPGLearnings	725056348212305924	2016-04-26T20:17:58	T says adjusted margins expand  in every domestic segment ATT SPXearnings
+SPGLearnings	725055940316270592	2016-04-26T20:16:21	COF Adj EPS $1.85 vs $1.91 est. Net sales $6.22B vs $6.15B est. NIM 6.75% financials SPXearnings
+SPGLearnings	725054712995782657	2016-04-26T20:11:29	T Adj EPS $0.72 vs $0.69 est. Sales $40.5B vs $40.4B est. 2.3MM North American wireless net adds, 712k branded phone net adds SPXearnings
+SPGLearnings	724931170878787584	2016-04-26T12:00:34	HSY beats by $0.03, with Adj EPS $1.10. Sales $1.83B vs $1.90B est. FX has -1.2% point impact. Candy, mint &amp; gum shipments were below plan.
+SPGLearnings	724928439225049091	2016-04-26T11:49:43	SPG reports FFO / share of $2.63 vs $2.64 est. Occupancy 95.6%, base rent / sq ft $49.70, total sales / sq ft $613 vs $621 last year.
+SPGLearnings	724926670621302788	2016-04-26T11:42:41	LLY raises FY16 guide on lower FX impact. Sales now $20.6B-$21.1B (vs $20.7B est), EPS $3.50-$3.60 (vs $3.55 est). healthcare SPXearnings
+SPGLearnings	724925743961112580	2016-04-26T11:39:00	LLY says Q1 sales "reflects substantial progress in launching new products, incl Trulicity, Cyramza, Jardiance, Basaglar and Portrazza"
+SPGLearnings	724925371032961030	2016-04-26T11:37:31	LLY Adj EPS $0.83, falling $0.02 short of est. Sales $4.87B vs $4.83B est. Vol +7%, price +1%, -3% FX impact. SPXearnings pharmaceutical
+SPGLearnings	724923130263814144	2016-04-26T11:28:37	PG sales in 4 of 5 segments benefited from price increases. Vol declined in 4 or 5 segments due to lower shipments in developing markets
+SPGLearnings	724922456797007873	2016-04-26T11:25:56	PG says Q4 Core EPS to be significantly lower y/y due to inc advertising investments, higher tax rate, and headwinds from foreign exchange
+SPGLearnings	724921939060482049	2016-04-26T11:23:53	PG tightens FY guide for EPS growth to -3% to -6% from $3.76 last year. Sales reiterated to be flat to up low single digits from FY15.
+SPGLearnings	724920630320238592	2016-04-26T11:18:41	PG core EPS $0.86 vs $0.82 est. Sales $15.76B vs $15.81B est. FX -5% point impact on sales. Organic sales +1%, on flat vol. ProcterGamble
+SPGLearnings	724919253779005441	2016-04-26T11:13:13	DD raises FY16 guide by $0.10 to $3.05-$3.20 (vs $3.02 est). FX impact reduced to $0.20 from $0.30 previously. DuPont_News SPXearnings
+SPGLearnings	724918507419369473	2016-04-26T11:10:15	DD op EPS $1.26 vs $1.04 est. Sales $7.41B vs $7.10B est. FX -4% point impact, vol -2% impact. SPXearnings
+SPGLearnings	724702217710784512	2016-04-25T20:50:47	50 companies to report earnings tomorrow, including Baxter International, Procter &amp; Gamble, Lockheed Martin and Apple SPXearnings SPX
+SPGLearnings	724694949858516993	2016-04-25T20:21:54	ESRX guides 2016 selling season retention rate to 95%-98% excl impact from remaining Coventry business rolling off in 2017 (~1% of claims)
+SPGLearnings	724694230078201858	2016-04-25T20:19:03	ESRX Adj EPS $1.22, beats by a penny. Sales $24.8B vs $25.1B est. Adj claims 323.5MM, +5%. SPXearnings
+SPGLearnings	724693044994383881	2016-04-25T20:14:20	ESRX raises FY16 guide to $6.31-$6.43 (vs $6.17 est) from $6.10-$6.28 prior, given a reduced share count. ExpressScripts
+SPGLearnings	724688311323906048	2016-04-25T19:55:32	Awaiting earnings from ESRX ($0.26 est) and ZION ($0.39 est) among others after the market close. SPXearnings
+SPGLearnings	723489635926708224	2016-04-22T12:32:25	CAT lowers FY16 outlook. Sales now $40-$42B (vs $40-$44B prior). Consensus is $41.1B. EPS to be $3.70 (down from $4.00), consensus is 3.60.
+SPGLearnings	723488321578655745	2016-04-22T12:27:12	CAT says "Overall machine market position better in first quarter of 2016 than this point last year; continues to improve in China" SPX
+SPGLearnings	723488182105460736	2016-04-22T12:26:39	CAT Adj EPS $0.67 misses est by a penny. Sales $9.46B vs $9.45B est. Mining oil &amp; gas, rail and construction continue to be tough markets.
+SPGLearnings	723487051694366720	2016-04-22T12:22:09	MCD EPS $1.23 vs $1.16 est. Sales $5.90B vs $5.82B est. Global comps +6.2%, US +5.4%, Int'l comp +5.2%. China comps has strong growth
+SPGLearnings	723485240736534528	2016-04-22T12:14:57	GE reaffirms FY16 guidance: $1.45–$1.55 EPS (vs $1.50 est), 2-4% organic growth, margin expansion and returning $26B to shareholders
+SPGLearnings	723484993859780609	2016-04-22T12:13:58	GE says "Oil &amp; Gas env't is challenging and the value of GE is that we are able to offset this w/ better performance across the portfolio"
+SPGLearnings	723484314944569344	2016-04-22T12:11:17	GE orders +1%, organic -7%; Services organic orders +4%, Power +25%, Renewable Energy +88%. Backlog +18% (or +7% ex-Alstom). industrials
+SPGLearnings	723483801469505536	2016-04-22T12:09:14	GE Adj EPS $0.21 vs $0.19 est, incl $0.02 of FX impact. Rev $27.8B vs $27.97B est. Industrial rev -1% y/y. Digital orders +29% SPXearnings
+SPGLearnings	723251463506563077	2016-04-21T20:46:00	V says "he U.S. consumer remains strong, but we see weakness in China, Brazil, and oil based economies," driving their caution into 2H 2016
+SPGLearnings	723251124158009344	2016-04-21T20:44:40	MSFT misses. Adj EPS $0.62 vs $0.64 est. Sales $22.08B vs $22.11B est. SPXearnings tech
+SPGLearnings	723250392759447552	2016-04-21T20:41:45	V adjusts FY16 EPS guide for $390MM of interest expense, or over $0.09. Equating to almost 4% points of reduced year-over-year growth.
+SPGLearnings	723249716809572359	2016-04-21T20:39:04	V beats by $0.02, with Adj EPS of $0.68. Sales $3.63B vs $3.60B est. Payments vol +12% in Q1 to $1.3T. Cross-border vol +5%. SPXearnings
+SPGLearnings	723247698955087872	2016-04-21T20:31:03	SBUX Q3 Adj EPS guide: $0.48-$0.49 ($0.49 est) SPXearnings Starbucks
+SPGLearnings	723247420671418368	2016-04-21T20:29:57	SBUX keeps FY16 outlook for 10% sales growth (52 wks), comps somewhat &gt;MSD. Bumps bottom of EPS range by $0.01 to $1.88-$1.89 ($1.89 est)
+SPGLearnings	723246042666438658	2016-04-21T20:24:28	SBUX EPS in-line at $0.39. Sales $4.99B vs $5,03B est. Global comps +6% (2% traffic, 4% ticket), with Americas +7%. China Rev growth +18%
+SPGLearnings	723244863282618369	2016-04-21T20:19:47	GOOG TAC 21% of total rev, down 100bps y/y. Other bets revenue $166MM. SPXearnings google tech
+SPGLearnings	723244386591621120	2016-04-21T20:17:53	GOOG ad revenue +16% y/y, revenue from Google websites +20%. Paid clicks +29%y/y but -3% q/q. Cost per click -9% y/y or +2% q/q.
+SPGLearnings	723243701879877632	2016-04-21T20:15:10	GOOG misses EPS and Sales est. Adj EPS $7.50 vs $7.96 est. Sales $20.26B vs $20.36B est. SPXearnings tech google
+SPGLearnings	723133124515745793	2016-04-21T12:55:46	GM EBIT-adjusted by region: NA $2.3B (incl $0.2B restructuring cost), Europe break-even, Int'l $0.4B, South Amc -$0.1B, GM Financial $0.2B
+SPGLearnings	723132449769721856	2016-04-21T12:53:05	GM posts $0.27 beat with Adj EPS of $1.26. Sales $37.3B vs $35.5B est. Europe has break-even performance. consumerdiscretionary auto SPX
+SPGLearnings	723131190853562370	2016-04-21T12:48:05	UA raises FY 16 guide: Sales now to be $5B (vs $5B est). Op Income to be $503-$507MM (vs $508MM est). consumer fitness athleisure SPX
+SPGLearnings	723130018251984896	2016-04-21T12:43:26	UA EPS $0.04 vs $0.02 est. Sales $1.05B vs $1.04B est. FX -2%. Wholesale rev +28% y/y, DTC rev +33%. Int'l 14% of total rev, and +56% y/y.
+SPGLearnings	723128833113628672	2016-04-21T12:38:43	VZ says Q2 will be pressured by timing of cost reductions from labor contract negotiations. Reiterated FY guide. VerizonNews
+SPGLearnings	723128476765540352	2016-04-21T12:37:18	VZ says revenue from IoT (InternetofThings) $195MM, up 25% y/y. Fios is 81% of consumer rev. SPXearnings
+SPGLearnings	723127675762548736	2016-04-21T12:34:07	VZ retail postpaid wireless net adds 640,000. For wireline (5% Fios rev growth), 98,000 internet net adds and 36,000 video net adds.
+SPGLearnings	723127063478030336	2016-04-21T12:31:41	VZ EPS in-line at $1.06. Sales $32.2B vs $31.9B est. AOL had its highest first-quarter revenues in the last five years. SPXearnings
+SPGLearnings	723124656857739265	2016-04-21T12:22:07	BIIB Adj EPS $4.79 vs $4.47 est. Sales $2.73B vs $2.75B est. TECFIDERA sales +15% y/y, PLEGRIDY +72%, TYSABRI +3% biotech healthcare
+SPGLearnings	723123456343085056	2016-04-21T12:17:21	PHM CEO positive on housing bc of "ongoing employment, low interest rates, limited supply of homes &amp; the gradual release of pent-up demand"
+SPGLearnings	723122562234867712	2016-04-21T12:13:48	PHM backlog value +31% to $3.4B; Unit backlog +15% to 8,755 homes. Closings +17%, and avg selling price +9% to $353,000 homebuilders
+SPGLearnings	723121765501702145	2016-04-21T12:10:38	PHM beats on top and bottom lines. EPS $0.24 vs $0.20 est. Sales $1.43B vs $1.35Best. New order value +24% and new order units +10%. SPX
+SPGLearnings	722850900470054913	2016-04-20T18:14:19	Tune in to CNBCClosingBell at 4pm ET today to hear Sr Analyst Lindsey Bell's reaction to the latest earnings releases. SPGLEarnings
+SPGLearnings	722760681410330624	2016-04-20T12:15:49	ITW raises FY EPS guide $0.05 at mid-point to $5.40-$5.60 ($5.47 est) driven by a 100bps op margin improvement frm Enterprise initiatives
+SPGLearnings	722759898950316032	2016-04-20T12:12:42	ITW EPS $1.29, a $0.03 beat. Sales $3.27B vs $3.25B est. Consumer facing sales +3%, industrial sales -3% industrials SPXearnings
+SPGLearnings	722758899497984000	2016-04-20T12:08:44	ABT raises FY16 Adj EPS guide by $0.04 to $2.14-$2.24 (vs $2.16 est). healthcare SPX AbbottGlobal
+SPGLearnings	722758237385166848	2016-04-20T12:06:06	ABT Adj EPS $0.41 vs $0.39 est. Sales $4.89B vs $4.78B est. FX had -5.3% impact on sales. healthcare SPXearnings
+SPGLearnings	722756743248220160	2016-04-20T12:00:10	USB says energy non-performing assets inc $257MM from Q4. Reserves for energy-related commercial loans were 9.1% of outstanding balances.
+SPGLearnings	722756366180311040	2016-04-20T11:58:40	USB EPS of $0.76, in-line. Sales $5.04B vs $5.07B est. Avg total loans +5.8% y/y, avg total deposits +6.3% y/y. NIM 3.06% vs 3.08% in Q4
+SPGLearnings	722754916393947140	2016-04-20T11:52:54	KO reiterates FY guide: organic rev +4-5%, currency to have 2-3% negative impact on sales, and FX neutral EPS to grow 4-6%. CocaColaCo
+SPGLearnings	722753189208981504	2016-04-20T11:46:03	KO Adj EPS $0.45, a penny better than estimates. Sales $10.28B vs $10.24B est. Global vol +2%. Global price/mix +1%. SPXearnings
+SPGLearnings	722520745402834944	2016-04-19T20:22:24	YHOO says TAC paid to search partners increased 44% y/y; paid clicks -22%. Display TAC +1%; Number of ads sold +8%. SPXearnings tech
+SPGLearnings	722520034569019393	2016-04-19T20:19:34	YHOO Adj EPS $0.08, a penny better than est. Sales $1.09B vs $846MM est. Mavens rev 38% of traffic-driven rev, up from 33% last year
+SPGLearnings	722519006004015104	2016-04-19T20:15:29	INTC FY outlook updated: Sales to inc mid-single digits, down from expectations for a mid to high single digit inc y/y; GM 62% +/- 1%
+SPGLearnings	722518489995546627	2016-04-19T20:13:26	INTC biz unit rev sequential growth: client Computing -14%, Data Center -7%, IoT +4%, Internet Security +5%, Non-Volatile Memory Sols -15%
+SPGLearnings	722517618628890624	2016-04-19T20:09:58	INTC Adj EPS $0.54 vs $0.48. Sales $13.8B vs $13.8B est. Company announced restructuring plan. SPXearnings tech cloud
+SPGLearnings	722421728048230401	2016-04-19T13:48:56	JNJ raises FY16 EPS guide by $0.10 due to improving FX rates. EPS to be in the range of $6.53-$6.68 (vs $6.53 est). SPXearnings
+SPGLearnings	722421025502314496	2016-04-19T13:46:09	JNJ adj EPS $1.68 vs $1.65 est. Sales $17.48B vs $17.49B est. FX impact -3.3%. Domestic sales +7.2%, Int'l sales -6.0%. SPXearnings
+SPGLearnings	722399248193581056	2016-04-19T12:19:36	UNH raises FY16 EPS guide to $7.75-$7.95 (vs $7.73 est) given Q1 beat and adjustments in the tax rate and intangible amort. myUHC
+SPGLearnings	722398733774794752	2016-04-19T12:17:34	UNH beats on top and bottom lines. Adj EPS $1.81 vs $1.72 est. Sales $44.53B vs $44.28B est. healthcare SPXearnings
+SPGLearnings	722397633067638784	2016-04-19T12:13:11	KSU rev growth y/y by commodity: Chemical &amp; Pet +2%, Industrial -3%, Agriculture &amp; Minerals +4%, Energy -37%, Intermodal -10%, Auto -25%.
+SPGLearnings	722396952860749824	2016-04-19T12:10:29	KSU adj EPS $1.03 vs $0.97 est. Sales $563MM, in-line with est. Carload vol -5% y/y. SPXearnings railroads
+SPGLearnings	722395962572939264	2016-04-19T12:06:33	GS compensation and benefits were 40% lower y/y banks expenses financials GoldmanSachs
+SPGLearnings	722395640542732288	2016-04-19T12:05:16	GS EPS $2.68 vs $2.50 est. Sales $6.34B vs $6.52B est. IB rev -23% y/y, FICC rev -47% y/y, Equities rev -23% y/y banks SPXearnings
+SPGLearnings	722159184125566976	2016-04-18T20:25:41	IBM reiterates Adj EPS of "at least $13.50" in FY16 (vs $13.55 est). Says FCF to be at the high end of prior guide of $11B-12B for the year
+SPGLearnings	722158578648358912	2016-04-18T20:23:16	IBM Cloud rev $10.8B over last 12 mo. Strategic imperatives rev 375 of total in last 12 mo. IBM
+SPGLearnings	722158506258862080	2016-04-18T20:22:59	IBM Adj EPS $2.35 vs $2.10 est. Sales $18.7B vs $18.3B est. SPXearnings cloud tech
+SPGLearnings	722156798992584706	2016-04-18T20:16:12	NFLX expects to add 2.5MM members in Q2 ad forecasts net adds to be 0.5MM in the US. SPXearnings
+SPGLearnings	722155968759537664	2016-04-18T20:12:54	NFLX EPS of $0.06 vs. $0.03 est. Sales $1.81B vs $1.97B est. Net additions 6.74MM. Streaming net adds 2.23MM. SPXearnings
+SPGLearnings	722121407925198848	2016-04-18T17:55:34	S&amp;P 500 Q1 EPS growth -8.3%, but a better than average beat rate of 71% could help improve that SPX SPXearnings 
+SPGLearnings	722036826735841280	2016-04-18T12:19:28	PEP reiterates FY16 guide: Core EPS $4.66 vs $4.71 est. Including 4% organic sales growth, a -4% point impact from FX on net rev. SPX
+SPGLearnings	722036180678795264	2016-04-18T12:16:54	PEP CEO says marketing &amp; new products boosted the Q and a focus on greater efficiency contributed to significant core GM expansion
+SPGLearnings	722034823242588161	2016-04-18T12:11:31	PEP core EPS $0.89 vs $0.81 est. Sales $11.86B vs $11.99B est. FX has -4.5% point impact to sales. SPXearnings pepsi
+SPGLearnings	722033472471216128	2016-04-18T12:06:09	HAS Q1 rev growth by product category: Boys +24% y/y, Girls +41% y/y, Games -2% y/y, Preschool +11% y/y consumer SPXearnings
+SPGLearnings	722032719983747072	2016-04-18T12:03:09	HAS EPS $0.38 vs $0.24 est. Sales $831MM vs $779MM est. FX has -4% point impact to sales. Rev +28% in US and Canada; +13% Int'l toys SPX
+SPGLearnings	722031848768016385	2016-04-18T11:59:42	MTB Adj EPS $1.82 vs $1.89 est. Sales $1.292B vs $1.290B est. Conference call at 11am banks SPXearnings financials
+SPGLearnings	722030770223771648	2016-04-18T11:55:24	MTB says Q1 results reflect "strong growth in net interest income, solid loan growth, stable credit performance &amp; well-controlled expenses"
+SPGLearnings	722029814199279616	2016-04-18T11:51:37	MS wealth management pre-tax margin 21%. Net interest income +21% y/y to $831MM on higher loan balances and deposits. MorganStanley
+SPGLearnings	722028982401691648	2016-04-18T11:48:18	MS EPS $0.55 vs $0.47 est. Sales $7.79B vs $7.63B est. Advisory rev +25% y/y to $591MM. Sales &amp; trading rev -9%. FIC sales -54% banks SPX
+SPGLearnings	720956000078061568	2016-04-15T12:44:39	C IB revenue -8.5% y/y vs -25% est. Trading revenue -13% vs -15% est. financials Citi banks SPXearnings
+SPGLearnings	720947996012191744	2016-04-15T12:12:51	C EPS $1.10 vs $1.05 est. Sales $17.6B vs $17.4B. NIM 2.92% banks financials SPXearnings
+SPGLearnings	720597379091718144	2016-04-14T12:59:37	DAL Q2 guide: Op margins 21%-23% (vs 21.47% est). Passenger unit rev -2.5% to -4.5%. CASM up ~2% y/y. Unit capacity +2%-3% y/y. airlines
+SPGLearnings	720595968752762880	2016-04-14T12:54:01	DAL Passenger unit rev -4.6% incl -2 % points from FX and +2.7% from capacity delta
+SPGLearnings	720595779468058628	2016-04-14T12:53:16	DAL Adj EPS $1.32 vs $1.29. Sales $9.25B vs $9.27B est. Brussels resulted in a $5MM impact to the Q. airlines SPXearnings
+SPGLearnings	720593921924009984	2016-04-14T12:45:53	WFC says reserves inc $200MM due to energy portfolio. In Q1 2015 reserves were reduced by $100MM. SPXearnings
+SPGLearnings	720592987231809538	2016-04-14T12:42:10	WFC EPS $0.99, beats by $0.02. Sales $22.2B vs $21.5B est. Total avg loans +7%, total avg deposits +4%. NIM 2.90% vs 2.92% in Q4 banks
+SPGLearnings	720591525734969346	2016-04-14T12:36:22	BAC energy exposure $21.8B, with E&amp;P and Oil Field Services representing less than 1% of loans. Energy reserves inc $525MM from Q4. banks
+SPGLearnings	720590977614880768	2016-04-14T12:34:11	BAC EPS $0.21, in-line. Sales fall short at $19.73B vs $20.32B est. banks SPXearnings
+SPGLearnings	720214792942829569	2016-04-13T11:39:22	JPM provisions for credit losses $1.8B vs $959MM last yr. Wholesale reserves inc mostly related to oil &amp; gas and metals &amp; mining downgrades
+SPGLearnings	720213811752497152	2016-04-13T11:35:28	JPM CEO Jamie Dimon says "The US consumer remains healthy &amp; consumer credit trends are favorable." Avg core loans +25%; avg deposits +10%.
+SPGLearnings	720212924069998592	2016-04-13T11:31:56	JPM easily exceeds estimates: EPS of $1.35 vs $1.26 est. Sales $24.08B vs $22.86B est. SPXearnings banks financials
+SPGLearnings	719983413466411008	2016-04-12T20:19:57	CSX only areas w/ volume increases: Waste &amp; Equipment +6%, Intermodal +4, Minerals +3%. Coal -31% and metals -18% had largest vol declines
+SPGLearnings	719982217691316224	2016-04-12T20:15:11	CSX had pricing gains in "nearly all markets from an improving service product and volume growth.. " SPXearnings
+SPGLearnings	719981663174967296	2016-04-12T20:12:59	CSX still expects coal headwinds and other market fundamentals to result in a decline in 2016 earnings. CSX SPX
+SPGLearnings	719981350506336257	2016-04-12T20:11:45	CSX EPS $0.37 vs $0.37 est. Sales $3.62B vs $2.74B est. Vol -5%. SPXearnings
+SPGLearnings	719626318468509696	2016-04-11T20:40:58	AA Adj EPS $0.07 vs $0.03 est. Sales $4.95B vs $5.15B est. SPXearnings Alcoa
+SPGLearnings	717811317273399297	2016-04-06T20:28:48	BBBY adj EPS $1.85 vs $1.80 est. Sales $3.42B vs $3.39B est. Comps 1.7%. SPXearnings retail BedBathBeyond
+SPGLearnings	717793010201862144	2016-04-06T19:16:04	Nice summary of Q1 earnings drivers CNNMoney  SPXearnings oil dollar estimates
+SPGLearnings	717701004746162176	2016-04-06T13:10:28	STZ guides FY17 EPS to $6.05-$6.35 (vs $6.11 est) on net sales growth of 14-17%. Announces dividend increase of 29%. corona RobertMondavi
+SPGLearnings	717699091745153024	2016-04-06T13:02:52	STZ EPS $1.19 vs $1.14 est. Sales $1.54B vs $1.52B est. Beer organic sales growth 18% on vol and pricing, spirits +4% on vol. SPXearnings
+SPGLearnings	717353509147041792	2016-04-05T14:09:39	DRI updates FY EPS guide to $3.48-$3.52 (vs. $3.48 est) on comps of 3-3.5% consumerdiscretionary SPX
+SPGLearnings	717352868097826817	2016-04-05T14:07:06	DRI Adj EPS of $1.21 beats by a penny. Sales $1.85B, in-lines. Comps +6.2%, with olivegarden +6.8%, LongHornSteaks +5.2% SPXearnings
+SPGLearnings	717001023085219840	2016-04-04T14:48:59	Sr Analyst Lindsey Bell takes a look at what the latest housing data &amp; homebuilder earnings mean for the economy 
+SPGLearnings	715178765635231744	2016-03-30T14:07:59	PAYX EPS in-line at $0.50. Sales $752.6MM vs $751.2MM est. Payroll service rev +4% to $439.6MM and HR service rev +12% to $301.1MM. SPX
+SPGLearnings	714817440593670144	2016-03-29T14:12:13	LEN EPS $0.63 vs $0.52 est. Sales $1.99B vs $1.86B est. Backlog +19% to $2.8B. New order dollars +15% to $2.1B homebuilders housing
+SPGLearnings	710819788545761280	2016-03-18T13:26:58	TIF guides FY16 EPS to be unchanged to decline MSD vs $3.83 in FY15 ($3.88 est) on sales growth of LSD in constant FX retail TiffanyAndCo
+SPGLearnings	710818488080842752	2016-03-18T13:21:48	TIF Q4 comps by region: Americas -8% (lower tourist sales, weaker US consumer), Asia-Pacific -8%, Europe -3% (strong UK, weak France)
+SPGLearnings	710817608958873600	2016-03-18T13:18:18	TIF beats expectations: Adj EPS $1.46 vs $1.40 est. Sales $2.213 vs $2.211 est. Comps -5%. SXPearnings jewelry luxury retail
+SPGLearnings	710558514708660224	2016-03-17T20:08:46	Great insight from our credit team on the impact of a strong dollar on corporate creditrisk  SPX
+SPGLearnings	706910774908887040	2016-03-07T18:33:57	The strong dollar shaves 7% off Q4 earnings SPXearnings via Lindsey Bell  SPGLMarketIntel
+SPGLearnings	705778427496943616	2016-03-04T15:34:24	SPLS misses top and bottom line estimates. Adj EPS $0.26 vs $0.28 est. Sales $5.27B vs $5.41B est. SPXearnings officesupply
+SPGLearnings	705503623476719616	2016-03-03T21:22:26	HPE sales $12.72B vs $12.63B est. EPS $0.41, beating by a penny. SPXearnings
+SPGLearnings	705503059921784832	2016-03-03T21:20:11	HPE sales by group: Enterprise group +1%, Enterprise Services -6%, Software -10%, Financial Services -3% SPXearnings
+SPGLearnings	705502396504526848	2016-03-03T21:17:33	HPE guides Q2 EPS to $0.39-$0.43 (vs $0.42 est). SPXearnings
+SPGLearnings	705410907577446400	2016-03-03T15:14:00	KR guides FY16 EPS to $2.19-$2.28 (vs $2.24 est) with ID sales ex-fuel of 2.5%-3.5% SPXearnings
+SPGLearnings	705410423718334465	2016-03-03T15:12:05	KR EPS $0.57 vs $0.54 est. Sales $26.17B vs $26.28B est. ID sales ex-fuel +3.9% (also ex-Roundy's) kroger
+SPGLearnings	705408950276067328	2016-03-03T15:06:14	COST EPS $1.24 vs $1.28 est. Sales $28.17B vs $28.52B est. Comps ex-gas and FX +6% (US +5%, Canada +10%, Int'l +6%)
+SPGLearnings	703263991469101056	2016-02-26T17:02:56	Q4 EPS growth improves to -4.37% with 95% of the S&amp;P 500 reported SPXearnings SPGLMarketIntel 
+SPGLearnings	702972666211340289	2016-02-25T21:45:18	UHS FY 2016 guidance: EPS of $7.12-$7.58. Net revenues of $9.75B-$9.85B.
+SPGLearnings	702972356839534592	2016-02-25T21:44:05	UHS misses on top and bottom line - EPS of $1.71 vs. $1.74 est., revenue of $2.32B vs. $2.48B est.
+SPGLearnings	702845454317441024	2016-02-25T13:19:49	CPB Sales breakdown: total vol &amp; mix -2%, pricing +1%, promos +1%, FX -2%, acquisitions +1%. Campbells SPX
+SPGLearnings	702844790568820736	2016-02-25T13:17:10	CPB reaffirms FY16 guide: sales -1% to 0%, Adj EPS $2.88-$2.96 (vs $2.90 est). Raised 2018 cost-savings tgt to $300MM. SPXearnings
+SPGLearnings	702843990782156800	2016-02-25T13:14:00	CPB Adj EPS $0.85 vs $0.80 est. Sales $2.20B vs $2.19B est: declines in Amca Simple Meals &amp; Bevgs offset gains in Glbl Biscuits &amp; Snacks
+SPGLearnings	702841758359666689	2016-02-25T13:05:08	BBY new capital allocation plan announced: $1B in buybacks over 2 yrs, 22% inc in Qtly dividend to $0.28, and $0.45/share specialdividend
+SPGLearnings	702840842709508097	2016-02-25T13:01:29	BBY Q1 guide: Enterprise sales $8.25B-$8.35B (vs $8.44B est). Enterprise &amp; Domestic comps -1% to -2%. Adj EPS $0.31-$0.35 (vs $0.39 est)
+SPGLearnings	702840075244146689	2016-02-25T12:58:26	BBY Comp growth in health &amp; wearables, home theatr and mjr appliances was more than offset by declines in phones, tablets &amp; digital imaging
+SPGLearnings	702839848592400384	2016-02-25T12:57:32	BBY says online now 15.6% of total domestic sales. BestBuy
+SPGLearnings	702838867204907009	2016-02-25T12:53:38	BBY Adj EPS $1.53 vs $1.39 est. Sales $13.62B vs $13.59B est. Enterprise comps -1.7%, Domestic comps -1.7%, Online comps +13.7%. retail
+SPGLearnings	702837583240413185	2016-02-25T12:48:32	KSS to pilot a new smaller format Kohl’s store, opening 7 of in various regions. 2 additional Off-Aisle pilot stores to open in WI.
+SPGLearnings	702837131123814400	2016-02-25T12:46:44	KSS FY16 guide: EPS $4.05-$4.25 (vs. $.4.23 est). Sales -0.5% to +0.5%. Comps 0% to 1.0%. $600MM in buybacks. departmentstores retail
+SPGLearnings	702836264228225024	2016-02-25T12:43:18	KSS Adj EPS $1.58, beats by $0.02. Sales in-line at $6.39B, +0.8% y/y. Inventory +5.9%. Comps 0.4%. retail SPXearnings
+SPGLearnings	702606737312972804	2016-02-24T21:31:14	RH impacted by 1) Delays in RH Modern shipping &amp; in-stocks, 2) weakness from regions impacted by energy, 3) lack of response to promotions
+SPGLearnings	702606080619257857	2016-02-24T21:28:38	RH provides prelim Q4 guide that misses est: EPS $0.99 vs $1.39 est. Sales $647MM vs $711MM est. Comps +9%.
+SPGLearnings	702603272490774528	2016-02-24T21:17:28	CRM guides Q1 sales to $1.885B-$1.895B (vs $1.859B est) and EPS to $0.23-$0.24 (vs $0.21 est). SPXearnings tech
+SPGLearnings	702602757543481344	2016-02-24T21:15:25	CRM Adj EPS $0.19, in-line. Sales $1.81B vs $1.79B est. Subscription and support sales +25% y/y; Professional services &amp; other +28% y/y.
+SPGLearnings	702602369444483072	2016-02-24T21:13:53	CRM "We hit an all-time high in large transactions in fiscal 2016 as more and more companies look to Salesforce as their trusted advisor"
+SPGLearnings	702601929512370176	2016-02-24T21:12:08	HPQ guides Q2 Adj EPS to $0.35-$0.40 (vs $0.39 est). HP
+SPGLearnings	702601483884347392	2016-02-24T21:10:22	HPQ EPS of $0.36, in-line. Sales $12.2B vs $12.0B est. tech SPXearnings
+SPGLearnings	702286844608847872	2016-02-24T00:20:06	Since mid-1995, the S&amp;P 500 Pure Growth index beat the Pure Value group with a 10.9% to 10.4% CAGR (dividends included).
+SPGLearnings	702515464795193344	2016-02-24T15:28:33	@AxCapAdv this seems to be trumping the weak guidance...
+SPGLearnings	702514866582626304	2016-02-24T15:26:10	TJX announced 24% increase to dividend and a $1.5-$2.0B buyback program SPX
+SPGLearnings	702513177351888896	2016-02-24T15:19:28	TJX guides FY17 EPS to $3.29-$3.38 (vs $3.63 est), includes a -4% impact from FX and -4% impact from wage increases. Comps to be 1-2%
+SPGLearnings	702512782856626177	2016-02-24T15:17:54	TJX beats - EPS $0.99 vs $0.94 est. Sales $8.96B vs $8.73B est. Comps +6% driven by traffic. retail consumer offpriced SPXearnings
+SPGLearnings	702483743982952448	2016-02-24T13:22:30	TGT inventory +3.9% vs sales -0.6%. Digital now 5% of total sales. retail consumer
+SPGLearnings	702482816014090240	2016-02-24T13:18:49	TGT guides Q1 EPS to $1.15-$1.25 (vs $1.19 est). FY16 EPS was guided to $5.20-$5.40 (vs. $5.16 est) retail Target
+SPGLearnings	702481986149941248	2016-02-24T13:15:31	TGT Adj EPS $1.52 vs $1.54 est. Sales $21.63B vs $21.65B est. Comps +1.9%, driven by +1.3% traffic &amp; 34% inc in online (added 1.3% to comp)
+SPGLearnings	702478108910346240	2016-02-24T13:00:07	CHK FY16 guide: production flat to -5%, capex $1.3-$1.8B (~ 57% lower y/y), additional $500MM-$1B in divestitures. energy liquidity
+SPGLearnings	702477578133708801	2016-02-24T12:58:00	CHK Adj EPS -$0.16 vs -$0.18. Avg daily production 661,100 boe, +1% y/y or -7% adj for asset sales. Sales $2.65B vs $2,64B est. energy
+SPGLearnings	702475499566669826	2016-02-24T12:49:45	LOW FY16 guide: Sales growth ~ 6%, comps ~ 4%, EPS ~ $4.00 (vs $3.98 est) SPXearnings housing
+SPGLearnings	702474628971757573	2016-02-24T12:46:17	LOW Adj EPS $0.59, in-line. Sales $13.24B vs $13.07B est. Comps +5.2% (vs 7.1% at HD) and US comps +5.5% (vs 8.9% at HD) housing
+SPGLearnings	702241503847051265	2016-02-23T21:19:56	EXR FFO / share in-line at $0.87. Same-store sales +9.6% and same-store NOI +11.5%. SPXearnings REIT
+SPGLearnings	702240132536123394	2016-02-23T21:14:29	FSLR Reaffirms FY16 EPS of $4.00-$4.50 (vs $4.12 est); Revises sales and GM guide down slightly.
+SPGLearnings	702239946711638017	2016-02-23T21:13:44	FSLR FY16 Sales now expected to be $3.8-$4.0B (vs $3.8B est). GM 17-18% (vs 17.3% est). SPX
+SPGLearnings	702239225379475456	2016-02-23T21:10:52	FSLR EPS $1.60 vs $0.77 est. Sales $942MM vs $929MM est. 2016 YTD booking of over 160MW SPXearnings
+SPGLearnings	702140187565015040	2016-02-23T14:37:20	HD 2016 guide: Sales ~ 5.1%-6.0%. Comps ~ 3.7%-4.5%. EPS $6.12-$6.18 (vs $6.17 est). Buying back 12%-13% of shares out. housing
+SPGLearnings	702139588438056961	2016-02-23T14:34:57	HD EPS $1.17 vs $1.10 est. Sales $20.98B vs $20.40B est. Comps +7.1%, with US comps +8.9%. SPXearnings
+SPGLearnings	702138730086342658	2016-02-23T14:31:33	For 2016 Macys guides EPS to $3.80-$3.90 vs $3.80 est. Comps on a owned + licensed basis to decline ~1% (owned comps to be 50bps lower)
+SPGLearnings	702137744596803585	2016-02-23T14:27:38	Macys says sales trend improved in January as the weather turned colder in northern climate zones retail departmentstores
+SPGLearnings	702137589013282816	2016-02-23T14:27:00	. Macys Adj EPS $2.09 vs $1.88 est. Sales $8.87B vs $8.83B est. Owned comps -4.8% vs comp store inventory +0.7% SPXearnings
+SPGLearnings	702137100175540224	2016-02-23T14:25:04	Macys Adj EPS $2.09 vs $1.88 est. Sales $8.87B vs $8.83B est. Owned comps -4.3%, inventories +0.7% on comp basis SPXearnings
+SPGLearnings	702136149507231745	2016-02-23T14:21:17	Macys says sales trend improved in January as the weather turned colder in northern climate zones retail
+SPGLearnings	702135638305480704	2016-02-23T14:19:15	TheZapper3 SPGLMarketIntel it represents growth over Q4 2014.
+SPGLearnings	701886273884127233	2016-02-22T21:48:22	Q4 earnings season is over 85% complete - see the scorecard here! SPXearnings SPGLMarketIntel 
+SPGLearnings	701884762537984001	2016-02-22T21:42:22	THC 2016 guide: Revenue $18.8B - $19.2B (vs $20.5B est), Adj EBITDA $2.4B - $2.5B ($2.48B est), Adj EPS $1.18-$2.25 (vs $2.16 est).
+SPGLearnings	701883982787563526	2016-02-22T21:39:16	THC adj EPS $0.35 vs $0.34 est. Sales $5.42B vs $5.20B est. healthcare SPXearnings
+SPGLearnings	701879886038876161	2016-02-22T21:22:59	Greg Brown MSI CEO “We grew in N. America and grew in Managed &amp; Support services across all regions while inc. backlog by nearly $700MM."
+SPGLearnings	701879558665084928	2016-02-22T21:21:41	MSI guides 2016 Adj EPS to $4.45 to $4.65 vs $4.05 est. Sales to grow 5-7%. Assumes growth in NA and contraction in Europe/Latin America
+SPGLearnings	701878812884258821	2016-02-22T21:18:43	MSI Adj EPS $1.58 vs 41.46 est. Sales $1.68B vs $1.69B est. Product sales -10% due to weakness in Latin America &amp; Europe SPXearnings
+SPGLearnings	701877387269644291	2016-02-22T21:13:04	FIT guides FY16 Adj EPS to $1.08-$1.20 vs $1.14 est. Sales $2.4-$2.5B vs $2.4B est. Adj EBITDA $400-$480MM vs $456MM est. fitness
+SPGLearnings	701877042917351425	2016-02-22T21:11:41	FIT Adj EPS $0.35 vs $0.25 est. Sales $711.6MM vs $648MM est. 8.2MM connected health &amp; fitness devices. health fitness
+SPGLearnings	700665923418476545	2016-02-19T12:59:08	DE 2016 equipment sales to be -10% (-8% in Q2) and net income to be $1.3B (vs $1.32B est) construction SPX
+SPGLearnings	700665535046877184	2016-02-19T12:57:35	DE CEO says although 2016 will be challenging the level of performance will be "much better than we have experienced in previous downturns”
+SPGLearnings	700664747318849540	2016-02-19T12:54:28	DE EPS $0.80 vs $0.70 est. Sales $4.77B vs $4.86B est, Worldwide equipment sales -15%.$SPXearnings
+SPGLearnings	700663685044244481	2016-02-19T12:50:14	VFC 2016 guide: Mid-single digit Sales growth (1% pt FX impact). DTC sales: double digit growth. Adj EPS +5% reported or +11% FX-neutral.
+SPGLearnings	700663018317742080	2016-02-19T12:47:35	VFC had tough Q4 due to a soft consumer env't, record warm weather &amp; a strong dollar. CEO believes its a "relatively short-term challenge."
+SPGLearnings	700661914221719552	2016-02-19T12:43:12	VFC Adj EPS $0.95 vs $1.01 est. Sales $3.41B vs $3.64B est, DTC sales -1%. Int'l sales -6% (+4% FX-neutral) SPXearnings consumer
+SPGLearnings	700430187717120000	2016-02-18T21:22:24	JWN guides FY16 EPS to $3.10-$3.35 (vs $3.56 est) on 0-2% same store sales retail SPXearnings consumer Nordstrom
+SPGLearnings	700429905666969602	2016-02-18T21:21:17	JWN inventory +12% vs +5.2% sales increase. promotions markdowns retail
+SPGLearnings	700429613361659905	2016-02-18T21:20:07	JWN Adj EPS $1.17 vs $1.24 est. Sales $4.19B vs $4.17B est. Comps +1.0%, full-line comps -3.2%, e-comm sales +115, Rack comps +3.6%
+SPGLearnings	700319156504289280	2016-02-18T14:01:12	HOT Adj EPS $0.89 vs $0.79 est. Sales $1.43B, in-line. REVPAR +2.8% in constant dollars, in North America +4.7% in constant dollars travel
+SPGLearnings	700318501593026560	2016-02-18T13:58:36	HOT REVPAR index up in all 6 global regions. More new deals were signed &amp; hotels opened than in any single year in its entire history
+SPGLearnings	700314803416473601	2016-02-18T13:43:55	WM says "We saw improving volume trends across our industrial &amp; commercial lines of biz." Vol in these areas to continue to improve in 2016
+SPGLearnings	700314232089350145	2016-02-18T13:41:38	WM guides FY16 Adj EPS to $2.74-$2.79 (vs. $2.76 est). Core price to be 4.0%. Overall vol to be about flat. $1b in share repurchases SPX
+SPGLearnings	700313433586147328	2016-02-18T13:38:28	WM Adj EPS $0.71 vs $0.68 est. Sales $3.25B vs $3.29B est. Core price +4.2%, solid waste vol +60bps, avg recycling commodity prices -18.6%
+SPGLearnings	700310554234249216	2016-02-18T13:27:01	WMT reduces FY17 sales guide to relatively flat from +3-4% due to store closings and a strong US dollar SPXearnings
+SPGLearnings	700310208648736768	2016-02-18T13:25:39	WMT guides Q1 Adj EPS to $0.80-40.95 (vs $0.91 est) on US comps around 0.5% and Sam's comps around flat SPXearnings
+SPGLearnings	700307711548907520	2016-02-18T13:15:44	WMT Int'l sales -9.7%. Sam's comps -0.5% with traffic -1.4%, e-comm +80bps. U.S. e-comm +30bps. Walmart
+SPGLearnings	700307080700305408	2016-02-18T13:13:13	WMT Adj EPS $1.49 vs $1.44 est. Sales $129.7B vs $130.4B est. U.S. comps 0.6% (guide was 0-1%) with traffic +0.7%. Walmart SPXearnings
+SPGLearnings	700067083925721088	2016-02-17T21:19:34	NTAP Q4 2016 guide: Sales $1.35B-$1.50B (vs. $1.51B est), Adj EPS $0.55-$0.60 (vs. $0.73 est) tech NetApp
+SPGLearnings	700066713333854209	2016-02-17T21:18:05	NTAP Adj EPS $0.70 vs $0.68 est. Sales $1.39B vs $1.45B est. SPXearnings tech
+SPGLearnings	700065809675264000	2016-02-17T21:14:30	NEM outlook: Gold production 4.8-5.3MM ounces in 2016 with AISC below $1,000 / ounce. SPXearnings materials
+SPGLearnings	700065405252067328	2016-02-17T21:12:53	NEM Adj EPS $0.04 vs $0.14 est. Sales $1.82B vs $1.82B est. Gold prod 1.25MM oz with avg realized price of $1,084/oz. SPXearnings gold
+SPGLearnings	699976705784614912	2016-02-17T15:20:26	PCLN Q1 guide: Bookings +12-19%, Rev +9-16%, Adj EBITDA $580-$620MM (vs $612MM est) priceline travel consumerdiscretionary
+SPGLearnings	699976293346107393	2016-02-17T15:18:47	PCLN Adj EPS $12.63 vs $11.81 est. Sales $2.00B vs 41.96B est. Total bookings $12B +13% y/y. SPXearnings
+SPGLearnings	699711266533801985	2016-02-16T21:45:40	CERN guides FY16 revenue to $4.9-$5.1B (vs $5.01B est) and Adj EPS to $2.30-$2.40 (vs $2.36 est). healthcare tech
+SPGLearnings	699710672607830017	2016-02-16T21:43:19	CERN Adj EPS $0.61 vs $0.57 est. Sales $1.175B vs $1.174B est. Bookings $1.35B, up 16% y/y healthcare SPXearnings
+SPGLearnings	699707449461309442	2016-02-16T21:30:30	DVN CEO says BS protection is top priority &amp; is prepared to adjust capital plans throughout the yr to balance investment w/ cash inflows
+SPGLearnings	699705903436734465	2016-02-16T21:24:21	DVN core EPS $0.77 vs $0.71 est. Sales $2.89B vs $3.71B est. Cuts dividend by 75% to $0.06 energy SPXearnings
+SPGLearnings	699703957061529600	2016-02-16T21:16:37	ESRX raises low end of FY16 EPS guide, now expects $6.10-$6.28 (vs $6.14 est) on adj claims 1.255-1.295B. SPXearnings
+SPGLearnings	699703568878694400	2016-02-16T21:15:05	ESRX Adj EPS $1.56 a penny ahead of estimates. Sales $26.2B vs $26.6B est. Adj claims 341.5MM +1% y/y. Adj EBITDA / Adj claim $5.66 +3% y/y
+SPGLearnings	698142819198857216	2016-02-12T13:53:13	VTR guides FY16 normalized FFO to $4.07 and $4.15 (vs $4.17 est). Includes the sale of $500MM in assets. SPXearnings
+SPGLearnings	698142476641636354	2016-02-12T13:51:51	VTR Q4 Normalized FFO $1.03 vs $1.01 est. Revenue $841MM vs $823MM est. SPXearnings retis
+SPGLearnings	697894759071875072	2016-02-11T21:27:31	AIG conference call scheduled for Friday at 8am SPXearnings financials
+SPGLearnings	697894659910144001	2016-02-11T21:27:07	AIG boosts share repurchase program by $5B and increases the dividend by 14% to $0.32 / share. SPX earnings
+SPGLearnings	697894405047459843	2016-02-11T21:26:07	AIG Adj EPS -$1.10 vs -$0.93 est. P&amp;C net premium earned -4% to $4.99B y/y AIGinsurance financials SPXearnings
+SPGLearnings	697892136390418432	2016-02-11T21:17:06	CBS Q4 rev growth by segment: Entertainment +9%, Cable Networks +13%, Publishing +85, Local Broadcasting -8% media SPXearnings
+SPGLearnings	697891469110202369	2016-02-11T21:14:27	CBS says Retransmission consent &amp; reverse compensation are set to hit $1B in 2016, a year early, and are on pace to surpass $2B in 2020
+SPGLearnings	697890988711395330	2016-02-11T21:12:32	CBS Adj EPS $0.92, in-line with est. Sales $3.91B vs $3.80B est. +16% content licensing &amp; dristrub rev, +13% subs fees, +1% ad rev
+SPGLearnings	697889674770190336	2016-02-11T21:07:19	DVA adj EPS $1.01 vs $0.97 est. Sales $3.53B vs $3.50B est. U.S. dialysis treatments +3.2% y/y to 84,061 / day SPXearnings
+SPGLearnings	697881316130451456	2016-02-11T20:34:06	After the close, AIG (-$0.93 est), CBS ($0.92 est) and TRIP ($0.46 est), will be releasing results. SPXearnings
+SPGLearnings	697792489529417729	2016-02-11T14:41:08	PEP guides FY16 EPS to $4.66 (vs. $4.79 est). Low-single-digit commodity deflation ex-FX. $1B in productivity savings. SPXearnings
+SPGLearnings	697791683388403712	2016-02-11T14:37:56	PEP core EPS 1.06, in-line. Sales $18.59B vs $18.51B est. Organic rev +4%. Increased advertising &amp; mkting expense by 85bps. SPXearnings
+SPGLearnings	697790770481389569	2016-02-11T14:34:18	CCE affirms guidance for 2016, including slightly positive growth for full-year comparable and currency-neutral net sales.
+SPGLearnings	697790472065048576	2016-02-11T14:33:07	CCE Adj EPS $0.53 vs $0.51 est. Sales $1.63B vs $1.628B est. Vol -1%: Coca-Cola trademark brands -2.5%, sparkling flavors +1.5%, energy +5
+SPGLearnings	697789763701628928	2016-02-11T14:30:18	CCE says "While we expect soft consumer and category trends to persist in 2016,      we continue to see long-term growth opportunities."
+SPGLearnings	697788507251699712	2016-02-11T14:25:19	TAP EPS $0.49, in-line. Sales $844.4MM vs $847.5MM. Domestic net revenue per barrel +1.5%. beer SPXearnings
+SPGLearnings	697533676800835584	2016-02-10T21:32:42	EXPE Adj EPS $0.77 vs $1.01 est. Sales $1.70B vs $1.71B est. Room night growth 39% (ex eLong), gross bookings +40%. Expedia SPXearnings
+SPGLearnings	697532110245122049	2016-02-10T21:26:29	WFM raises FY16 EPS guide to "$1.53 or greater" (vs. $1.53 est). Sales growth of 3-5% reaffirmed. Comps -2% to flat. EBITDA margin ~8.5%.
+SPGLearnings	697531446534213632	2016-02-10T21:23:51	WFM says first 3 weeks of Q2 comps are -2.8% (vs -1.8% in Q1). WholeFoods
+SPGLearnings	697531280968302593	2016-02-10T21:23:11	WFM EPS $0.46 vs $0.40 est. Sales $4.8B, in-line. Comps -1.8% (transactions -1.6%, basket size -0.2%). GM 34.0% vs 34.05% est. SPXearnings
+SPGLearnings	697528352127770624	2016-02-10T21:11:33	CSCO Product rev +2%, led by security +11%. Service rev +3%. Sales growth by region: America +1%, EMEA +1%, APJC +11% Cisco
+SPGLearnings	697528063807119365	2016-02-10T21:10:24	CSCO guides Q3 EPS to $0.54-$0.56 vs $0.55 est. Sales to grow 1-4%. Cisco SPXearnings
+SPGLearnings	697527865622065159	2016-02-10T21:09:37	CSCO Adj EPS $0.57 vs $0.54 est. Sales (ex- SP Video CPE biz) $11.8B vs $11.75B est. tech SPXearnings
+SPGLearnings	697454627860672513	2016-02-10T16:18:36	Q4 results driving more cuts to 2016 projections SPXearnings: 
+SPGLearnings	697425519525171200	2016-02-10T14:22:56	TWX Q4 rev growth by segment: Turner +2%, Home Box Office +6%, Warner Bros +4% media SPXearnings
+SPGLearnings	697424520852930560	2016-02-10T14:18:57	TWX Adj EPS $1.06 vs $1.01 est. Sales $7.08B vs $7.54B est. Increases dividend by 15% and announces a new $5B share repurchase program.
+SPGLearnings	697172075426004992	2016-02-09T21:35:50	DIS Media Op Inc -6% y/y. Lower ESPN Op Inc was due to higher programming costs, partially offset by an increase in Ad &amp; affiliate rev
+SPGLearnings	697169496805679104	2016-02-09T21:25:35	DIS Q4 revenue growth y/y by segment: Media +8%, Parks &amp; Resort +9%, Studio Entertainment +46%, Consumer Prod &amp; Interactive Media +8%
+SPGLearnings	697169181578522625	2016-02-09T21:24:20	DIS Adj EPS $1.63 vs $1.46 est. Sales $15.24B vs $14.80B est. Disney SPXearnings
+SPGLearnings	697166862346485760	2016-02-09T21:15:07	WU guides FY16 EPS to $1.58-$1.70 (vs $1.72 est). Sales to increase low to mid-single digits in constant currency. WesternUnion
+SPGLearnings	697166352340148224	2016-02-09T21:13:05	WU EPS $0.42, a penny better than est. Sales $1.38B vs $1.40B est. C2C transactions +2%. SPXearnings
+SPGLearnings	697163677586350080	2016-02-09T21:02:28	Q4 earnings season is 66% complete, but growth is still deeply negative at -5.06%. SPGLMarketIntel SPXearnings 
+SPGLearnings	697063068275183619	2016-02-09T14:22:40	VIAB says "we saw significant sequential improvement in domestic ad sales, due to the success of new programming" media
+SPGLearnings	697062816205971456	2016-02-09T14:21:40	VIAB Adj EPS beats by a penny at $1.18. Sales $3.15B vs $3.26B est. SPXearnings media
+SPGLearnings	697061937356603392	2016-02-09T14:18:11	CVS reaffirms FY16 and Q1 EPS guide. FY16 Adj EPS $5.73-$5.88 (vs $5.83 est). Q1 Adj EPS $1.14-$1.17 (vs. $1.18 est). healthcare
+SPGLearnings	697061236660371456	2016-02-09T14:15:24	CVS same store sales (SSS) +3.55,with Rx SSS +5.0% and front end SSS +0.5% (negatively impacted by softer customer traffic. healthcare
+SPGLearnings	697060744337231872	2016-02-09T14:13:26	CVS adj EPS $1.53, in-line. Sales $41.14B vs $41.13B est. Rx sales +11.1%, Retail/LTC sales +12.5% (half coming from LTC acquisiton).
+SPGLearnings	697059863520813056	2016-02-09T14:09:56	KO guides FY16 EPS growth to 4%-6% (vs. 2% est) including the impact of 3 to 4 points of structural headwind
+SPGLearnings	697059516693803008	2016-02-09T14:08:34	KO Adj EPS $0.38 vs $0.37 est. Sales $10.0B vs $9.9B est. Volume +3%, price/mix+2%. CocaCola SPXearnings
+SPGLearnings	697058584341966849	2016-02-09T14:04:51	KO plans to refranchise 100% of Company-owned North American bottling territories by the end of 2017, incl all cold-fill prod facilities
+SPGLearnings	697057520406417408	2016-02-09T14:00:38	REGN says product/pipeline opportunities "will require significant investments, which are essential to support long-term growth &amp; success"
+SPGLearnings	697057209977597952	2016-02-09T13:59:24	REGN guides FY16 EYLEA US net sales growth to 20% y/y. Unreimbursed R&amp;D to be $875-$950MM. biotech SPXearnings
+SPGLearnings	697056137846394880	2016-02-09T13:55:08	REGN Adj EPS $2.83 vs $3.33 est. Sales $1.098B vs $1.171B est. EYLEA (aflibercept) Injection U.S. net sales increased 44% to $746MM
+SPGLearnings	696812344761061377	2016-02-08T21:46:23	OI guides FY16 Adj EPS to $2.10 to $2.25 (vs $2.00 est). Will benefit from growing exposure to US beer imports &amp; the Mexican market
+SPGLearnings	696811666588200961	2016-02-08T21:43:42	OI Adj EPS $0.40 vs $0.40 est. Sales $1.63B vs $1.61B est. FX = 13% point negative impact. Vol +2% ex-acquired biz, or nearly +14% in total
+SPGLearnings	696809269312753664	2016-02-08T21:34:10	FOXA says the "cable business continued to drive our growth, delivering sustained increases in domestic affiliate fees &amp; ad revenue"
+SPGLearnings	696808954534436864	2016-02-08T21:32:55	FOXA Adj EPS $0.44, in-line with est. Sales $7.38B vs $7.52B est. SPXearnings
+SPGLearnings	696719597911801856	2016-02-08T15:37:51	DO Adj EPS $0.70 vs $0.52 est. Sales $556MM vs $514MM est. Discontinues quarterly dividend. energy SPXearnings
+SPGLearnings	696718315725721602	2016-02-08T15:32:45	HAS EPS $1.39 vs $1.30 est. Sales $1.47B vs $1.37B est. toys SPXearnings
+SPGLearnings	695596461711613952	2016-02-05T13:14:54	EL Q3 guide: Sales +2-3%, incl 4% point impact from FX. Adj EPS $0.53-$0.58 (vs $0.76). SPXearnings
+SPGLearnings	695595798671843328	2016-02-05T13:12:16	EL raises low end of FY16 sales guide, now sees 7-8% growth (constant currency). Reaffirms FY EPS growth of 10-12% before charges.
+SPGLearnings	695595154598662144	2016-02-05T13:09:43	EL EPS $1.19 vs $1.10 est. Sales $3.12B vs $3.08B est. FX impact on EPS was $0.11 and a 5% point impact to sales. EsteeLauder SPXearnings
+SPGLearnings	695593976183812096	2016-02-05T13:05:02	TSN also says FY16 Domestic protein production +2-3% and synergies to be &gt;$500MM SPXearnings
+SPGLearnings	695593850899972096	2016-02-05T13:04:32	TSN FY16 guide: Sales $37B (vs $39.8B est), down from $41B due to lower beef, pork &amp; feed prices. Adj EPS $3.85-$3.95 (vs $3.63 est)
+SPGLearnings	695592403592462337	2016-02-05T12:58:47	TSN Core 9 product line sales volume for the most recent four week period was up 4% TysonFoods
+SPGLearnings	695591918424748032	2016-02-05T12:56:51	TSN Adj EPS $1.15, well ahead of the $0.98 est. Sales $9.15B vs $10.0B est. Record total Op margin of 8.5%. SPXearnings
+SPGLearnings	695358410628304900	2016-02-04T21:28:58	LNKD Q1 2016 guide: Sales approx. $820MM (vs $867MM est), Adj EPS approx. $0.55 (vs $0.74 est). tech earnings
+SPGLearnings	695357929482878976	2016-02-04T21:27:04	LNKD Adj EPS $0.94 vs $0.78 est. Sales $862MM vs $857MM est tech LinkedIn
+SPGLearnings	695356539289227265	2016-02-04T21:21:32	HBI FY16 guide: Sales $5.8B-$5.9B (vs. $6.0B est). Adj EPS $1.85-$1.91 (vs. $1.90 est). SPXearnings
+SPGLearnings	695355675690446852	2016-02-04T21:18:06	HBI Adj EPS $0.44 vs $0.46 est. Sales $1.41B vs $1.53B est. Retail traffic declined high-single-digits in Nov &amp; the first 3 weeks of Dec.
+SPGLearnings	695354397732175873	2016-02-04T21:13:02	NWSA Adj EPS $0.20 vs $0.21 est. Sales $2.16B vs $2.14B est. Digital real estate svcs rev +35%, all other segments declined. SPXearnings
+SPGLearnings	695237681299771393	2016-02-04T13:29:14	PM Adj EPS $0.81, in-line. Sales $6.39B vs $6.48B est. Cigarette shipment volume 209.8B units, -2.4% excluding acquisitions
+SPGLearnings	695236706807709696	2016-02-04T13:25:22	RL reduced FY16 guide on FX headwinds. Sales +1% ex-FX (vs +3-5% prior), Op margins to decline 290-320 bps (vs 180-230 bps decline prior)
+SPGLearnings	695235505663930368	2016-02-04T13:20:36	RL sales in constant currency: Int'l +6% and North America -4% (warm weather, reduced tourist traffic, and challenges in the Lauren brand)
+SPGLearnings	695235040997941248	2016-02-04T13:18:45	RL EPS $2.27 vs $2.11 est. Sales $1.90B vs $2.03B est. Wholesale sales -3%, constant FX. Retail sales were flat with comps -5%, constant FX
+SPGLearnings	695232758805839872	2016-02-04T13:09:41	COP reports adj EPS of -$0.90 vs -$0.64 est. energy SPXearnings conocophillips oil
+SPGLearnings	695232159653707776	2016-02-04T13:07:18	COP reduces FY16 capex plan to $6.4B, from to  $7.7B. Production expected to be flat in FY16 adj for divestitures. energy
+SPGLearnings	695231368213708800	2016-02-04T13:04:09	COP cuts the quarterly dividend by 66% to $0.25 / share from $0.74 / share previously. energy SPXearnings
+SPGLearnings	695230531257122816	2016-02-04T13:00:50	CI FY2016 guide: Adj EPS $8.85-$9.25 (vs $9.31 EST). Sales to grow mid-single digits, Global Medical Customers to grow low single digits.
+SPGLearnings	695229478440681472	2016-02-04T12:56:39	CI Commercial medical care ratio 80.4% in Q4, reflecting continued high medical costs in our U.S. Individual business Obamacare
+SPGLearnings	695229048226766848	2016-02-04T12:54:56	CI Global Health Care Adj margin 5.2%, down from 6.5% in Sept due to seasonality and higher spending on strategic initiatives healthcare
+SPGLearnings	695228277611446272	2016-02-04T12:51:52	CI Adj EPS $1.87 vs $1.79 est. Sales $9.53B vs $9.53B est. Global medical customers 14,999, +3.8% y/y. SPXearnings
+SPGLearnings	695226386869575680	2016-02-04T12:44:21	CLX FY16 guide: sales flat to +1% (unchanged), 50-75 bps EBIT margin expansion (raised), $4.75-$4.90 EPS (raised) vs. $4.88 est.
+SPGLearnings	695226021071712257	2016-02-04T12:42:54	CLX raises FY16 guide given favorable commodity costs, partially offset by higher inflation in int'l mkts (mfg, logistics &amp; SG&amp;A costs)
+SPGLearnings	695225466169458688	2016-02-04T12:40:42	CLX reports highest Q2 gross margin in more than 5 years, with margin increases in each of the U.S. segments
+SPGLearnings	695225239379275776	2016-02-04T12:39:48	CLX EPS $1.14 vs $1.05 est. Sales $1.345B vs $1.351B est. Vol +1%, prices up, FX -3%. Margins benefitted from lower commodity prices SPX
+SPGLearnings	694890103932456960	2016-02-03T14:28:05	MPC CEO Gary Heminger says "Product price realizations and continued strong gasoline demand supported crack spreads in the fourth quarter."
+SPGLearnings	694887352255148032	2016-02-03T14:17:09	ETN 2016 outlook: Adj EPS $4.15-$4.45 (vs $4.32 est), Sales growth -2% to -4%, reflecting a continuation of sluggish mkts around the world
+SPGLearnings	694886778046517248	2016-02-03T14:14:52	ETN Adj EPS $1.17 vs $1.10 est. Sales $5.06B vs $5.09B est. Has record segment margins of 16.0%. industrials SPXearnings
+SPGLearnings	694886041161854976	2016-02-03T14:11:57	ETN Announces Expanded $400 Million Restructuring Program and $3 Billion Share Repurchase Plan SPXearnings
+SPGLearnings	694885696884994048	2016-02-03T14:10:35	MRK “we will continue to prioritize resources focusing on JANUVIA, on our key launches, and on hospital acute care and vaccines businesses”
+SPGLearnings	694885312011440128	2016-02-03T14:09:03	MRK 2016 outlook: Adj EPS $3.60-$3.75 (vs $3.72 est). Sales $38.7B-$40.2B (vs $40.1B est), incl 3% point impact from FX.
+SPGLearnings	694884647310745600	2016-02-03T14:06:24	MRK Adj EPS $0.93 vs $0.91 est. Sales $10.2B vs $10.35B est. FX impact -7% points. healthcare SPXearnings
+SPGLearnings	694884060880097280	2016-02-03T14:04:05	MDLZ 2016 outlook: Organic sales- at least +2%, Adj Op Income Margin 15%-16%, Adj EPS growth up double-digits in constant FX
+SPGLearnings	694883382900215808	2016-02-03T14:01:23	MDLZ raised prices to recover FX-driven inflation in emerging markets. Power Brands sales +5.5%; EM rev +12.4%, developed markets rev ~flat
+SPGLearnings	694882777607569413	2016-02-03T13:58:59	MDLZ Adj EPS $0.46, $0.02 short of the estimate. Sales $7.36B vs $7.26B est. SPXearnings
+SPGLearnings	694881034014425089	2016-02-03T13:52:03	GM Q4 Global deliveries +4.4% y/y driven primarily by China where retail sales were +14.2% and North America where deliveries were +8.6%
+SPGLearnings	694880627007623168	2016-02-03T13:50:26	GM Q4 adj EBIT by region: North America $2.8B, Europe -$0.3B, International $0.4B, South America was breakeven. autos SPX
+SPGLearnings	694879799236546561	2016-02-03T13:47:09	GM Adj EPS $1.39 vs $1.20 est. Sales $39.6B vs $36.7B est. FX has $2.4B impact to sales. autos consumerdiscretionary SPXearnings
+SPGLearnings	694638818411044871	2016-02-02T21:49:34	CMG announces additional $300MM share repurchase program, on top of the $178MM left on prior plan.
+SPGLearnings	694638187382202368	2016-02-02T21:47:04	CMG FY16 outlook: 220-235 new restaurant openings, tax rate 39.0%. ChipotleTweets SPX consumer
+SPGLearnings	694637897065091073	2016-02-02T21:45:55	CMG EPS $2.17 vs $1.85 est. Sales $997.5MM vs $1.0B est. Comps -14.6%. Food costs 33.8% of rev, -120 bps y/y. SPXearnings
+SPGLearnings	694636423056625665	2016-02-02T21:40:03	YHOO mobile rev $291MM, 23% of traffic driven rev. In search, paid clicks -10%, price per click +3% y/y. Ads sold +8%. SPXearnings tech
+SPGLearnings	694635788672327680	2016-02-02T21:37:32	YHOO Adj EPS $0.13 a penny better than est. Sales $1.27B vs $948MM est. Mavens rev +39% y/y and now 33% of traffic driven revenue. tech
+SPGLearnings	694632683645833216	2016-02-02T21:25:12	GILD Q4 sales of select product: Harvoni $3.35B, Sovaldi $1.55B, Truvada $936MM biotech SPXearnings
+SPGLearnings	694628443087097856	2016-02-02T21:08:21	GILD FY16 guide: Sales $30B-$31B (vs $31.98B est), Gross Margin 88-90% (vs 88%). Additional share buyback program of $12B announced.
+SPGLearnings	694627323589607424	2016-02-02T21:03:54	GILD EPS $3.18 vs $2.98 est. Sales $8.51B vs $8.2B est. biotech healthcare SPXearnings
+SPGLearnings	694514976275501056	2016-02-02T13:37:28	XOM EPS $0.67 vs $0.64 est. Sales $59.8B vs $55.3B est. Higher Downstream &amp; Chemical earnings were offset by sharply lower commodity prices
+SPGLearnings	694513838708899840	2016-02-02T13:32:57	KORS Q4 guide; Sales $1.13B-$1.15B (vs $1.16B est) on flat comps (up LSD in constant currency). Adj EPS $0.93-$0.97 (vs. $1.00 est)
+SPGLearnings	694513167251197954	2016-02-02T13:30:17	KORS going forward is focused on developing the digital flagship strategy, the build-out of the men’s biz, and expanding globally
+SPGLearnings	694512763654250496	2016-02-02T13:28:40	KORS sales by region (ex-FX): Americas +1.4%, Europe +29.1%, Japan 68.0% MichaelKors
+SPGLearnings	694512366323634176	2016-02-02T13:27:06	KORS Adj EPS $1.59 vs $1.46 est. Sales $1.40B vs $1.36B est. Comps -0.9% (or ex-FX +2.0%) retail SPXearnings
+SPGLearnings	694509792535121921	2016-02-02T13:16:52	DOW volume increases by region: Asia Pacific +8%, North America +6%, Emerging regions +5%, led by Greater China which was +10% SPXearnings
+SPGLearnings	694509323070902272	2016-02-02T13:15:00	DOW Adj EPS $0.93 vs $0.70 est. Sales $11.5B vs $11.2B est, the y/y decline was driven by local price declines as volumes were +4%
+SPGLearnings	694508176054566912	2016-02-02T13:10:27	PFE 2016 guide (incl FX impact): Adj EPS $2.20-$2.30 (vs. $2.35 est), Revenue $49B-$51B (vs $53,2B est). FX impact (ex-Venezuela) -$1.5B
+SPGLearnings	694505808650969088	2016-02-02T13:01:02	PFE adj EPS $0.53, beats by a penny. Sales $14.05B vs $13.60B est. Innovative product sales +22%, Established prod sales +5%. SPXearnings
+SPGLearnings	694269773895589893	2016-02-01T21:23:07	GOOG In January the board authorized the repurchase of an additional 514k shares, with a total remaining authorization of ~$3.7B google
+SPGLearnings	694268686740365313	2016-02-01T21:18:48	MAT sales by brand ex-FX: Girls &amp; Boys brands +1%, Barbie +8%, Other Girl brands -28%, Wheels +26%, Entertainment +16%
+SPGLearnings	694268042746974208	2016-02-01T21:16:14	MAT Adj EPS $0.67 vs $0.61 est. Sales $2.00B vs $1.91B est, for flat growth y/y or +7% ex-FX SPXearnings
+SPGLearnings	694267111951196162	2016-02-01T21:12:33	GOOG paid clicks +17% QoQ, +31% YoY. Cost per click +22% QoQ, +40% YoY google SPXearnings
+SPGLearnings	694266789350367232	2016-02-01T21:11:16	GOOG Costs of revenue, $8.2B or 38% of revenue. SPXearnings tech
+SPGLearnings	694266425628856320	2016-02-01T21:09:49	GOOG EPS $8.67 vs $8.08 est. Sales $21.3B vs $20.8B est, +18% y/y or +24% ex-FX. Mobile search, YouTube and programmatic ads drove sales.
+SPGLearnings	694244272116203520	2016-02-01T19:41:47	SPXearnings we are watching after the close: MAT ($0.61 est), APC (-$1.08 est), TSO ($2.07 est), GGP ($0.19 est), GOOG ($8.08 est)
+SPGLearnings	694186629985075200	2016-02-01T15:52:44	CAH beats on top and bottom lines. Adj EPS $1.30 vs $1.26 est. Sales $31.45B vs $29.23B est. SPXearnings
+SPGLearnings	693119824654929921	2016-01-29T17:13:38	Mike Thompson weighs in on earnings season thus far and drivers affecting sectors CNBC  
+SPGLearnings	693113046512881664	2016-01-29T16:46:42	Earnings update. Q4 growth begins to improve SPXearnings @SPCapitalIQ 
+SPGLearnings	693071761315860480	2016-01-29T14:02:39	CVX avg sales price per barrel of crude oil and natural gas liquids was $35 in Q4, down from $66 a year ago. Chevron
+SPGLearnings	693071314190467073	2016-01-29T14:00:52	CVX added ~1.02B barrels of net oil equivalent proved reserves in 2015, equating to ~107% of net oil-equivalent production for the year.
+SPGLearnings	693071068827947008	2016-01-29T13:59:54	CVX EPS $0.31 vs $0.51 est. Sales $28.01B vs $31.13B est. energy SPXearnings Chevron
+SPGLearnings	693059640507113473	2016-01-29T13:14:29	PSX conference call will begin at noon EST SPXearnings energy
+SPGLearnings	693059063068889090	2016-01-29T13:12:11	PSX Adj EPS $1.31 vs $1.25 est. Refining achieved 94% utilization and record 85% clean product yield energy SPXearnings
+SPGLearnings	693057503429525504	2016-01-29T13:05:59	MA Adj EPS $0.82 (ex-acquisition costs) vs $0.69 est. Sales $2.52B vs $2.55B est. Q4 gross dollar volume up 12% and purchase volume up 12%.
+SPGLearnings	693055885019582468	2016-01-29T12:59:34	AAL In 2016 expects to take delivery of 55 new mainline aircraft, add 49 regional aircraft and remove 92 mainline and 29 regional aircraft.
+SPGLearnings	693055634657406976	2016-01-29T12:58:34	AAL invested more than $5.3B in new aircraft in 2015, providing it with the youngest and most modern fleet of the U.S. network airlines
+SPGLearnings	693055369380233216	2016-01-29T12:57:31	AAL on costs: CASM 12.24 cents, -8.1% on a 0.5% increase in mainline ASMs. Ex-special charges and fuel CASM 9.22 cents, +6.3% y/y airlines
+SPGLearnings	693054811118387202	2016-01-29T12:55:17	AAL Adj EPS $2.00 vs $1.97 est. Sales $9.63B in-line. ASM -0.6%, PRASM 12.69 cents or -6% y/y. Passenger yield 15.34 cents or -8.9% y/y
+SPGLearnings	693053026718859264	2016-01-29T12:48:12	CL toothpaste share +0.3% points y/y to 35.3%. Manual toothbrush share +0.8% points y/y to 41.2% CP_News SPXearnings
+SPGLearnings	693052102571081729	2016-01-29T12:44:32	CL net sales: North America +1% (+2% vol, +0.5% price, -1.5% FX). Latin America 12% (-4% vol, +13% price, -12% FX). Asia -5%, Africa -16.5%
+SPGLearnings	693050843323588609	2016-01-29T12:39:31	CL adj EPS $0.73, a penny beat. Sales $3.90B vs $3.93B est. Organic sales +5%, on +4% pricing and +1% volume. FX had -11.5% impact. SPX
+SPGLearnings	692826811059798017	2016-01-28T21:49:18	MSFT will provide guidance on its conference call at 5:30pm Eastern time. Microsoft SPXearnings
+SPGLearnings	692823815534034945	2016-01-28T21:37:24	MSFT Rev breakdown: Cloud +5%, Productivity &amp; Business Processes -2%, Personal Computing -5% tech
+SPGLearnings	692823776149508096	2016-01-28T21:37:14	MSFT Adj EPS $0.78 vs $0.71 est. Sales $25.7B vs $25.2B est. SPXearnings tech Microsoft
+SPGLearnings	692821286561697793	2016-01-28T21:27:21	AMZN in Q4 FBA units represented nearly 50% of total third-party units. Payment vol Pay with Amazon grew more than 150% y/y in 2015
+SPGLearnings	692820510502166528	2016-01-28T21:24:16	AMZN Q1 2016 guide: Sales $26.5B-$29.0B (vs $27.7B est), Op income $100MM-$700MM (vs $652.6MM est). tech
+SPGLearnings	692819795545346053	2016-01-28T21:21:25	AMZN EPS $1.00 vs $1.58 est. Sales $35.7B vs $36.0B est. amazon tech SPXearnings
+SPGLearnings	692818908550713344	2016-01-28T21:17:54	V FY16 guide: Net revenue growth to be high single-digit to low double-digit (FX-neutral); Op margins to be mid-60s SPXearnings
+SPGLearnings	692818373072285698	2016-01-28T21:15:46	V (all FX-neutral data) payment vol growth +11% @ $1.3T (3 mo ended Dec 31), cross border vol growth +4%, processed transact +8% to $19B
+SPGLearnings	692817377323524096	2016-01-28T21:11:49	V says despite strong payments vol grwth, the strong $ and the uneven global economy have meaningfully reduced cross-border vol &amp; rev grwth
+SPGLearnings	692816512067964928	2016-01-28T21:08:23	V beats by a penny w/ Adj EPS of $0.69. Sales $3.6B, in-line and driven by growth in service rev, data processing and int'l transaction rev
+SPGLearnings	692706181949853696	2016-01-28T13:49:58	MO Adj EPS $0.67, missing estimates by a penny. Sales $4.73B vs $4.76B est. Guides FY16 Adj EPS to $3.00-$3.05 (vs $3.05 est). dividend
+SPGLearnings	692704416449822721	2016-01-28T13:42:57	HOG expects to ship 78,000 to 83,000 motorcycles in Q1, and 269,000 to 274,000 in 2016 harleydavidson
+SPGLearnings	692704066883948544	2016-01-28T13:41:34	HOG says U.S. market share stabilized as marketing investment ramped up, and as the initial impact of heightened competitiveness was lapped
+SPGLearnings	692703470126764032	2016-01-28T13:39:11	HOG EPS $0.22, a penny better than expected. Sales $1.18B vs $1.03B est. harleydavidson SPXearnings
+SPGLearnings	692699795228618752	2016-01-28T13:24:35	CAT re: US "improving labor mkt conditions &amp; relatively stable economic grwth should continue to support the wider economy &amp; construction."
+SPGLearnings	692699217744248832	2016-01-28T13:22:17	CAT guides FY16 Adj EPS (ex-$400MM or $0.50 restructuring cost) to $4.00 (vs $3.49 est)
+SPGLearnings	692698760506376192	2016-01-28T13:20:28	CAT FY16 new sales guide $40B-$44B (vs $43.5B est), reduced frm Oct on continued drops in commodity prices &amp; economic weakness
+SPGLearnings	692697952687644673	2016-01-28T13:17:16	CAT Adj EPS $0.74 vs $0.69 est. Sales $11.03B vs $11.42B est SPXearnings
+SPGLearnings	692697419922935808	2016-01-28T13:15:09	CAT CEO focuses on cost mgmt as sales "remain under pressure from weak commodity prices &amp; slowing economic growth in developing countries"
+SPGLearnings	692696287221846016	2016-01-28T13:10:39	UA updated FY16 revenue guide to $4.95B (vs $4.90 est) and Op Income to $503MM (vs $505.9MM est) UnderArmour fitness consumer
+SPGLearnings	692695112627965953	2016-01-28T13:05:59	UA EPS $0.48 vs $0.46 est. Sales $1.17B vs $1.12B est. Apparel sales +22%, footwear sales +95%.DTC +25% and now 36% of total rev SPX
+SPGLearnings	692693970841944064	2016-01-28T13:01:26	CELG Q4 net product sales: REVLIMID +18% y/y to $1.56B, POMALYST / IMNOVID $294MM, ABRAXANE $270MM, OTEZLA $183MM, All other prod $231MM
+SPGLearnings	692693145075765248	2016-01-28T12:58:10	CELG guides Q1 Adj EPS to $1.27 to $1.30 (vs $1.32 est) biotech healthcare SPX
+SPGLearnings	692692898647818240	2016-01-28T12:57:11	CELG FY16 guide: Net product sales $10.5B-$11.0B, REVLIMID net sales $6.6B-$6.7B, Adj EPS $5.50-$5.70 (vs $5.72 est) biotech SPXearnings
+SPGLearnings	692692231505977345	2016-01-28T12:54:32	CELG Adj EPS $1.18 (incl $0.07 from a $70MM milestone achieved by OncoMed Pharmaceuticals in R&amp;D) vs. $1.21 est. Sales $2.56B vs $2.55B est
+SPGLearnings	692690142834851841	2016-01-28T12:46:14	BMY guides FY16 EPS to $2.30-$2.40 (vs $2.29 est) on worldwide rev inc of mid-single digits. healthcare SPXearnings
+SPGLearnings	692689021881942016	2016-01-28T12:41:47	BMY sales growth breakdown: Opdivo grew $470MM; Eliquis grew $321MM; Daklinza and Sunvepra grew $251MM, Orencia grew 22%; and Sprycel +8%
+SPGLearnings	692688520436150272	2016-01-28T12:39:47	BMY adj EPS $0.38 beats by $0.10. Sales $4.29B vs $4.15B est. FX has -5% point impact on sales. US sales +9%. Int'l sales +3% FX neutral
+SPGLearnings	692686493370966017	2016-01-28T12:31:44	F Reconfirms 2016 guidance for revenue, pre-tax profit, automotive operating margin and EPS equal to or higher than 2015 SPXearnings
+SPGLearnings	692686265116917760	2016-01-28T12:30:49	F Adj EPS $0.58 vs $0.51 est. Sales $40.3B vs $36.3B est. North American op margins 10.2%, Europe returns to profitability, Ford autos
+SPGLearnings	692680272748363776	2016-01-28T12:07:01	PHM "Q4 results reflect...the favorable demand environment we continue to experience within the housing industry" - Richard Dugas Jr., CEO
+SPGLearnings	692679679036227585	2016-01-28T12:04:39	PHM Q4 Backlog value +26% y/y to $2.5B; Unit backlog +15% to 6,731 homes. homebuilders SPXearnings
+SPGLearnings	692679410894422017	2016-01-28T12:03:35	PHM Adj EPS $0.57 vs $0.49 est. Sales $2.06B vs $1.85B est. Net new orders +13%, Home sales rev +12%, Avg Sale Price +6% to $353k housing
+SPGLearnings	692677736293343233	2016-01-28T11:56:56	TWC in Q4: Customer net adds 200k, video net adds 54k, high-speed data net adds 281k, voice net adds 227k SPXearnings
+SPGLearnings	692677028236152833	2016-01-28T11:54:07	TWC Adj EPS of $1.80 beats by $0.02. Sales $6.07B vs $6.05B est. 4.9% sales growth is best in 5 yrs, driven by Residential &amp; Business Svcs
+SPGLearnings	692463714444939267	2016-01-27T21:46:29	nicholas_yee reposted, had a little human error!
+SPGLearnings	692463589299490820	2016-01-27T21:45:59	QCOM EPS $0.99 vs $0.91 est. Sales $5.8B vs $5.7B est. Better than expected 3G/4G device sales &amp; cost benefits drove results techearnings
+SPGLearnings	692460142525313024	2016-01-27T21:32:17	PYPL guides Q1 Rev to $2.47B-$2.52B (vs $2.51B est) and Adj EPS to $0.34-$0.36 (vs $0.34 est) SPXearnings
+SPGLearnings	692458794559918089	2016-01-27T21:26:56	PYPL has 27 payment transactions per active account, up from 25 in Q4 last year.      venmo processed $2.5B TPV, up 174% y/y.
+SPGLearnings	692457631248683008	2016-01-27T21:22:19	PYPL Adj EPS $0.36, a $0.02 beat. Sales $2.56B vs $2.51B est. $82B in total payment vol (TPV) processed in Q4, up 29% on FX neutral basis
+SPGLearnings	692456447267962880	2016-01-27T21:17:36	FB Mobile ad revenue 80% of total rev, vs 69% in Q4 2014. Mobile monthly active users (MAUs) 1.44B, +21% y/y. Total MAUs 1.59B +14% y/y
+SPGLearnings	692455237534269444	2016-01-27T21:12:48	EBAY Q1 guide: EPS to $0.43-$0.45 (vs $0.48 est). Sales $2.05B-$2.10B (vs $2.16B est). FY16 guide: EPS  $1.82-$1.87 (vs $1.98 est).
+SPGLearnings	692454768279752704	2016-01-27T21:10:56	EBAY Adj EPS $0.50, in-line. Sales $2.32B vs $2.32B est. GMV $21.9B +5% y/y on FX neutral basis. Marketplace GMV $20.7B, StubHub GMV $1.2B
+SPGLearnings	692454408089649152	2016-01-27T21:09:30	FB EPS $0.79 vs $0.68 est. Sales $5.84B vs $5.37B est. Avg revenue / user $3.73. tech facebook SPXearnings
+SPGLearnings	692439753912877057	2016-01-27T20:11:16	Q4 Earnings Estimates Getting Even Bloodier  MJonesValueWalk  @SPCAPIQearnings @SPCapitalIQ 
+SPGLearnings	692405876842479618	2016-01-27T17:56:39	Q4 EPS growth actually got worse since last week.. SPXearnings 
+SPGLearnings	692354141759344640	2016-01-27T14:31:05	GD total backlog $66.1B, including estimated potential contract value the sum of all backlog components was $90.6B at year end
+SPGLearnings	692353603688861698	2016-01-27T14:28:57	GD beats by $0.02 with EPS of $2.40. Sales $7.8B vs 48.2B est. SPXearnings
+SPGLearnings	692341529894088704	2016-01-27T13:40:58	EMC Adj EPS $0.65, in-line. Sales $7.0B vs $7.1B est. FX impact on sales was 3% points. tech SPXearnings
+SPGLearnings	692340403622842374	2016-01-27T13:36:29	UTX reiterates FY16 guide: Adj EPS $6.30-$6.60 ($6.55 est) on sales of $56B to $58B ($57.8B est) "despite a difficult macro environment"
+SPGLearnings	692340019642679296	2016-01-27T13:34:58	UTX Commercial aftermarket sales were +11% at Pratt &amp; Whitney, and +8 percent at UTC Aerospace Systems. SPXearnings
+SPGLearnings	692339877321555969	2016-01-27T13:34:24	UTX Otis new equipment orders +2% y/y in constant currency, and +11% ex-China. Equipment orders at UTC Climate, Controls &amp; Security -5%.
+SPGLearnings	692339540644724736	2016-01-27T13:33:04	UTX adj EPS $1.53, beats by a penny. Sales $14.3B vs $15.26B est. FX has 4% point negative impact on sales. SPXearnings
+SPGLearnings	692337833869094912	2016-01-27T13:26:17	BIIB FY16 guide: Sales $11.1B-11.3B ($11.25B est). Adj EPS $18.30-$18.60 ($18.40 est). biotech SPXearnings
+SPGLearnings	692337392548708356	2016-01-27T13:24:32	BIIB says FX hurt sales by $35MM (incl offset of $40MM in net hedging gains) biogen
+SPGLearnings	692337013463347200	2016-01-27T13:23:01	BIIB Adj EPS $4.50 vs $4.08 est. Revenue $2.84B vs $2.72B est. TECFIDERA revenues $993MM, Interferon revenues $740MM. biotech SPXearnings
+SPGLearnings	692335454084034560	2016-01-27T13:16:49	BA commercial airplane deliveries 182 in Q4, -7% y/y. Backlog nearly 5,800 airplanes or $432B Boeing
+SPGLearnings	692334985643192320	2016-01-27T13:14:58	BA guides FY16 Core EPS to $8.15-$8.35 ($9.41 est). Sales $93-$95B ($97.3B est), reflects commercial deliveries of between 740 and 745
+SPGLearnings	692334418510417920	2016-01-27T13:12:42	BA Core EPS $1.61 vs $1.26 est. Sales $23.57B vs $23.59B est. Backlog at $489B Boeing SPXearnings
+SPGLearnings	692100837900886017	2016-01-26T21:44:33	AAPL Q1 y/y sales growth by region: Americas -4%, Europe +4%, China +14%, Japan -12%, Rest of AP +4% . FX hurt sales by $5B
+SPGLearnings	692100361406906368	2016-01-26T21:42:39	AAPL Q2 guide: Sales $50B-$53B (vs $55.26B est) and GM 39%-39.5% (vs 39.91% est), tax rate 25.5% iPhone tech SPX
+SPGLearnings	692099635289145344	2016-01-26T21:39:46	AAPL product sales in Q1: iPhone 74.779MM, iPad 16.122MM, Mac 5.312MM APPLEOFFIClAL tech
+SPGLearnings	692099338139537417	2016-01-26T21:38:35	AAPL EPS $3.28 vs $3.22 est. Sales $75.7B vs $76.5B est (and $$75.5B-$77.5B guide). GM 40.1% vs 39.85% est. tech SPXearnings
+SPGLearnings	692096436192821248	2016-01-26T21:27:03	Our tech analyst Angelo Zino says AAPL needs the March Q sales guide to assume at least 50MM iPhones are sold @SPCapitalIQ SPXearnirngs
+SPGLearnings	692096000958283777	2016-01-26T21:25:19	Waiting for AAPL earnings. The company hasn't missed EPS estimates in 12 quarters (or 3 years) SPXearnings APPLEOFFIClAL
+SPGLearnings	692094176444416000	2016-01-26T21:18:04	COF CEO Richard Fairbank says "The headline for 2015 was industry-leading growth in Domestic Card loans and purchase volumes" SPXearnings
+SPGLearnings	692093862358179840	2016-01-26T21:16:49	COF Adj EPS $1.67, $0.05 better than est. Sales $6.2B vs $6.1B est. NIM 6.79% vs 6.73% in Q3. Provision for credit losses +26% to $1.4B
+SPGLearnings	692092520780668928	2016-01-26T21:11:30	T says 214k US DirecTV net adds in Q4. For US wireless, churn 1.18% of post paid, and total churn 1.5% (both down y/y) SPXearnings
+SPGLearnings	692092117531901952	2016-01-26T21:09:53	T reiterates FY16 guide including double-digit revenue growth and Adj EPS growth of mid-single digits or better (current est $2.82)
+SPGLearnings	692091700630564869	2016-01-26T21:08:14	T Adj EPS $0.63, in-line. Sales of $42.1B vs $42.75B est. 2.8MM wireless net adds, better than expected. 2.2MM US wireless net adds. SPX
+SPGLearnings	691975517319368704	2016-01-26T13:26:34	LMT FY16 guide:Sales $49.5B-$51.0B (vs $51.7B est). EPS $11.45-$11.75 (vs $12.23 est) All est incl the IS&amp;GS business segment.
+SPGLearnings	691974657919094784	2016-01-26T13:23:09	LMT EPS $3.01 vs $2.92 est. Sales $12.9B vs $12.3B est. Backlog $99.6B (a record), including $15.6 billion for Sikorsky SPXearnings
+SPGLearnings	691973286893330432	2016-01-26T13:17:42	JNJ FY16 guide: Sales $70.8B - $71.5B (vs. $71.99B est). Adj EPS $6.43-$6.58 (vs. $6.40 est) SPXearnings
+SPGLearnings	691972599748935681	2016-01-26T13:14:58	JNJ Adj EPS $1.44 vs $1.42 est. Sales $17.81B vs $17.86B est. FX had -6.8% impact on sales. US sales +8%, Int'l -11.7% SPXearnings
+SPGLearnings	691971011844182017	2016-01-26T13:08:40	COH updates FY16 guide for increased FX impact and better Stuart Weitzman biz (brand rev to be $340MM and contribute $0.12 to EPS)
+SPGLearnings	691969574133174272	2016-01-26T13:02:57	COH int'l sales +4% in constant currency, incl +5% in China, +2% in Japan and up double digits in Europe Coach
+SPGLearnings	691968264826658816	2016-01-26T12:57:45	COH Adj EPS $0.68, beats by $0.02. Sales $1.27B vs $1.28b est. North America comps -4% including a -1% point the impact from Internet sales
+SPGLearnings	691966638195896320	2016-01-26T12:51:17	PG adj FY16 guide for increased FX impact. Now, core EPS to be down 3-8% from FY15's $3.76. FY16 all-in sales to be down high-single digits
+SPGLearnings	691965457562275840	2016-01-26T12:46:35	PG organic sales +2% w/ pricing +3% and shipment vol -2%. Organic sales were in-line or higher in all 5 reporting segments ProcterGamble
+SPGLearnings	691964810855108608	2016-01-26T12:44:01	PG core EPS $1.04 vs $0.98 est. Sales $16.92B vs $16.94B est. FX has 8 percentage point impact on sales. SPXearnings
+SPGLearnings	691737918663163906	2016-01-25T21:42:26	On Tuesday, 23 SPX companies are slated to report Q4 earnings, including PG, LMT, JNJ, COH, T, AAPL SPXearnings
+SPGLearnings	691733514891497472	2016-01-25T21:24:56	ZION EPS $0.43 vs $0.42 est. NIM 3.23% vs 3.11$ in Q3. Loan loss provision $22.7MM vs $18.3MM in Q3 due to energy related loans. banks
+SPGLearnings	691649069836558337	2016-01-25T15:49:23	Our summary of bank earnings can be found on the @SPCapitalIQ blog  regionalbanks moneycenters SPXearnings
+SPGLearnings	691634244280516608	2016-01-25T14:50:28	MCD U.S. same store sales +5.7%, better than expected. Across all regions same store sales +5%. SPXearnings
+SPGLearnings	690516170915627009	2016-01-22T12:47:38	STI Q4 NIM 2.98% vs 2.94% in Q3 and 2.83% in Q4 2014. Avg loan growth 1.3% y/y, Net charge offs 0.24% vs. 0.21% in Q3, and 0.28% Q4 2014.
+SPGLearnings	690514141719699456	2016-01-22T12:39:35	STI beats by a penny with Adj EPS of $0.88 vs $0.87 est. Revenue $2.05B vs $2.06B est. SPXearnings rregionalbanks
+SPGLearnings	690511551787311104	2016-01-22T12:29:17	GE Q4 backlog: Equip orders +2%, -1% organic. Service orders +5%, +3% organic. Regional (ex-Alstrom): growth mkts +7%, Europe -9%, US -16%
+SPGLearnings	690510205298348032	2016-01-22T12:23:56	GE reiterates FY16 guide: EPS $1.45-$1.55 (vs $1.49 est), 2–4% organic growth, core margin expansion, cash generation of $30–32B.
+SPGLearnings	690508744397033472	2016-01-22T12:18:08	GE CEO Jeff Immelt says "We believe in the strength of our business model and that there is enough growth out there to deliver in 2016."
+SPGLearnings	690508506559070208	2016-01-22T12:17:11	GE industrial segment Q4 sales -1%, order vol +3%, organic order vol +1%. SPXearnings
+SPGLearnings	690507355491045376	2016-01-22T12:12:37	GE Ad EPS $0.52 vs $0.49 est. Sales $33.89B vs $35.91B est. Backlog +18% (+7% ex-Alstom) SPXearnings generalelectric
+SPGLearnings	690284385820614656	2016-01-21T21:26:37	AXP guides FY16 EPS to $5.40-$5.70 (vs $5.40 est) and FY17 EPS to "at least $5.60" (vs $5.94 est). AmericanExpress
+SPGLearnings	690283965907914752	2016-01-21T21:24:56	AXP Adj EPS $1.23 vs $1.12 est. Sales $8.39B vs $8.40B est. FX has 12% point impact on sales. SPXearnings
+SPGLearnings	690281599712256000	2016-01-21T21:15:32	SBUX reiterated FY16 outlook. Guides Q2 Adj EPS to $0.38-$0.39 vs $0.40 est. Starbucks
+SPGLearnings	690280664395051010	2016-01-21T21:11:49	SBUX says $ on Starbucks cards +18% to $1.9B in US and Canada. Reward loyalty program members +23% to 11MM active members SPXearnings
+SPGLearnings	690280011253862401	2016-01-21T21:09:14	SBUX EPS $0.46 a penny better than expected. Sales $5.37B vs $5.40B est. Global comps +8% (+4% traffic), US comps +9% (+4% traffic)
+SPGLearnings	690174892872986624	2016-01-21T14:11:31	LUV Adj EPS $0.90 beats by a penny. Rev $4.98B vs $5.00B est. Avail seat miles +8.3% y/y. Passenger rev yield -7.0%. PRASM -4.7% y/y
+SPGLearnings	690172811462205441	2016-01-21T14:03:15	UAL fuel costs -36% y/y in Q4 (incl hedging) oil
+SPGLearnings	690172155397541890	2016-01-21T14:00:39	UAL will take delivery of 40 new Boeing 737-700 aircraft, which will enter the fleet beginning in mid-2017. airlines
+SPGLearnings	690171289164718082	2016-01-21T13:57:12	UAL Adj EPS $2.54 misses $2.58 est. Sales $9.04B vs $9.08B est. PRASM -6.0% y/y and consolidated yield -7.2% y/y. airlines SPXearnings
+SPGLearnings	690169605764091908	2016-01-21T13:50:31	KEY Average loans +5%, driven by 14% growth in commercial, financial and agricultural loans. cards and payments income +10%. SPXearnings
+SPGLearnings	690167067148972032	2016-01-21T13:40:26	KEY Adj EPS $0.28, in-line. Rev $1.095B vs $1.085B est. NIM 2.87% vs 2.87% in Q3. Net loan charge-offs 0.25% of avg loans (vs 0.27% in Q3)
+SPGLearnings	690165235303456769	2016-01-21T13:33:09	FITB net charge-offs 0.34% of loans &amp; leases, vs 0.80% in Q3. Commercial construction loans +65% y/y. C&amp;I loans +5%. Mortgage loans +4%.
+SPGLearnings	690163894774546432	2016-01-21T13:27:49	FITB CEO on Fed rate hike: the move is a positive first step...but uncertainty about the extent &amp; timing of future rate decisions remains
+SPGLearnings	690163182401425409	2016-01-21T13:24:59	FITB Adj EPS of $0.41 beats by a penny. Sales $2.01B vs $1.58B est. NIM 2.85% vs 2.89% in Q3. regionalbanks SPXearnings
+SPGLearnings	690161732900241408	2016-01-21T13:19:14	VZ reiterates 2016 EPS guide of in-line with 2015 Adj results. EBITDA margin consistent with FY 2015. 2016 CapEx $17.2-$17.7B. SPXearnings
+SPGLearnings	690161110213906432	2016-01-21T13:16:45	VZ IoT rev ~$200MM in Q4. Wireless rev -1.2% (-5.6% service rev). Postpaid churn 0.96%. 4G devices &gt;79% of retail postpaid connections
+SPGLearnings	690159662331748352	2016-01-21T13:11:00	VZ adj EPS of $0.89 beats by a penny. Sales $34.25B vs $34.12B est. 1.5MM net retail postpaid connections added in Q. Fios revenue +6.8%.
+SPGLearnings	689927123537137666	2016-01-20T21:46:59	XLNX revenue growth Q to Q: New +18%, mainstream -3%, base -1%, support +17% SPXearnings
+SPGLearnings	689926507570053122	2016-01-20T21:44:32	XLNX EPS $0.49, in-line with est. Sales $566MM vs $555MM est. 7-series and UltraScale families reached new sales records in the Q tech
+SPGLearnings	689925548164956160	2016-01-20T21:40:43	KMI expects West Texas Intermediate (WTI) crude oil price to average $38 per barrel in 2016 energy SPXearnings
+SPGLearnings	689924758562082816	2016-01-20T21:37:35	KMI reduced 2016 cap ex by ~$900MM, cut backlog by $3.1B from Q3 and expects further reductions as they "high-grade capital investments"
+SPGLearnings	689923337468911617	2016-01-20T21:31:56	FFIV CEO says "Security remains a key driver of growth for the business, with million dollar plus security deals up year over year."
+SPGLearnings	689923068467245057	2016-01-20T21:30:52	FFIV guides Q2 Sales to $480-$490MM (vs $500MM est) and Adj EPS to $1.61-$1.64 (vs $1.67 est). SPXearnings
+SPGLearnings	689922796252696576	2016-01-20T21:29:47	FFIV Adj EPS $1.73 vs $1.60 est. Sales $489.5MM vs $485.4MM est. tech SPXearnings security
+SPGLearnings	689796608289038336	2016-01-20T13:08:21	GS compensation expense as % of sales was 37.5% in 2015 vs 36.8% in 2014 and total staff increased 8% in 2015 banks
+SPGLearnings	689795868191494144	2016-01-20T13:05:25	GS Adj EPS $4.68 (adj for a $3.41 RMBS settlement) beats $3.62 est. Revenue $7.27B vs $7.04B est, driven by 27% inc y/y in advisory fees
+SPGLearnings	689560425042702336	2016-01-19T21:29:51	NFLX guides Q1 net subscriber adds to 6.10MM, w/ US net adds of 1.75MM. Similar "modest operating income results" to Q4 are expected in Q1
+SPGLearnings	689559224993607684	2016-01-19T21:25:05	NFLX avg subs price +4-5% ex-FX y/y in Q4, with US +4.3%. Seeing increased adoption of Ulta-HD plan ($11.99). netflix
+SPGLearnings	689558575493058561	2016-01-19T21:22:30	NFLX Adj EPS $0.07 vs $0.02 est. Sales $1.67B vs $1.83B est. Total subscribers +5.59MM, US subs +1.56MM and Int'l subs +4.04MM SPXearnings
+SPGLearnings	689555859144318981	2016-01-19T21:11:42	IBM strategic imperative rev $28.9B in 2015 (+26% ex-FX and System X divestiture), or 35% of total revenue. tech
+SPGLearnings	689555513848270848	2016-01-19T21:10:20	IBM Adj EPS $4.84 vs $4.81 est. Sales $22.1B, in-line, and incl a 7% point impact from FX. SPXearnings oldtech
+SPGLearnings	689551238451630080	2016-01-19T20:53:21	Awaiting NFLX (est of $0.02) and IBM (est of $4.82) earnings after the close. SPXearnings
+SPGLearnings	689431564925534208	2016-01-19T12:57:48	UNH affirmed its 2016 outlook for revenue &gt;$180B (vs. $181.5B est), Adj EPS guide of $7.60 to $7.80 (vs. $7.70 est) SPXearnings
+SPGLearnings	689431063668502528	2016-01-19T12:55:49	UNH Adj EPS $1.40 vs $1.38 est. Sales $43.6B vs $43.1B est. healthcare SPXearnings
+SPGLearnings	689429496152199169	2016-01-19T12:49:35	MS CEO Jame Gorman says "We enter 2016 with a continued focus on managing expenses across the Firm and driving up returns for shareholders”
+SPGLearnings	689429124679491584	2016-01-19T12:48:06	MS EPS $0.43 (ex-DVA) vs $0.34 est. Revenue $7.9B vs $7.5B est. SPXearnings banks
+SPGLearnings	689427856179367937	2016-01-19T12:43:04	BAC credit loss provisions +$264MM on higher energy-related charge-offs, as well as reserve builds for loan growth and energy exposure
+SPGLearnings	689427272273494017	2016-01-19T12:40:45	BAC says total US credit card spending up 5% y/y. Approx 1.3MM new consumer credit cards issued. SPXearnings banks
+SPGLearnings	689426720273752064	2016-01-19T12:38:33	BAC EPS $0.28 vs $0.27 est. Revenue, net of interest exp was $19.8B vs $19.9B est, up 4%. NII +2% to $10.0B, Noninterest exp -2% to $13.9B
+SPGLearnings	688000949609168896	2016-01-15T14:13:03	WFC EPS of $1.03 beats by a penny. Sales $21.59B vs $21.75B est. Avg loans +7%, Net charge offs 0.36% annual, NIM 2.92% vs 2.96% Sept 30th
+SPGLearnings	687995883854688256	2016-01-15T13:52:55	C North America Global consumer banking rev -6%, with lower revenues in Citi-branded cards, Citi retail services and retail banking
+SPGLearnings	687995669005602818	2016-01-15T13:52:04	C allowances for loan losses 2.06% of total loans. Loans -4% sequentially. Net interest margin 2.92%
+SPGLearnings	687994249703493632	2016-01-15T13:46:26	C EPS $1.06, misses by a penny. Sales $18.46B vs. $17.93B est. banks SPXearnings financials
+SPGLearnings	687744428337926145	2016-01-14T21:13:44	INTC select sequential rev growth by segment: Client computing +3% to $8.8B, Data center +4% to $4.3B, IoT +8% to $625MM. tech
+SPGLearnings	687743623677489153	2016-01-14T21:10:32	Per INTC as of Nov, 14nm products made up &gt; 50% of Client Computing Group vol w/ rowing interest in 6th Generation Core Skylake processors
+SPGLearnings	687743073858752513	2016-01-14T21:08:21	INTC guides Q1 Revs to $14B vs $13.9B est. and GM to 62%. FY16 Sales to increase mid- to high single digits and GM to be 63% (vs 62.3% est)
+SPGLearnings	687742586853953536	2016-01-14T21:06:25	INTC EPS $0.74 vs $0.63 est. Sales $14.9B vs $14.8B est. tech SPXearnings intel
+SPGLearnings	687609359132667904	2016-01-14T12:17:01	JPM CEO Jamie Dimon says the Q had "strong loan growth &amp; credit quality, except for some stress in energy." banks financials
+SPGLearnings	687608614387859456	2016-01-14T12:14:03	JPM EPS of $1.32 beats the $1.27 est. Sales of $23.75B vs $22.22B also better. SPXearnings
+SPGLearnings	687605880351813632	2016-01-14T12:03:11	JeffCoxCNBCcom and ex-energy growth is also negative at -0.1% SPXearnings
+SPGLearnings	687022713681084417	2016-01-12T21:25:53	CSX Quarterly volume detail: Coal -32%, intermodal +4%, merchandise -5%.
+SPGLearnings	687022594177003521	2016-01-12T21:25:25	CSX says price gains were more than offset by lower fuel surcharge revenues, volume declines and negative mix.
+SPGLearnings	687020936965533697	2016-01-12T21:18:50	CSX reports EPS of $0.48 vs $0.46 est. Sales $2.78B vs $2,84B est. SPXearnings
+SPGLearnings	686660033292177408	2016-01-11T21:24:44	AA expects the building and construction 2016 global sales growth of 4-6% with the same growth range in North America.
+SPGLearnings	686659504235233280	2016-01-11T21:22:37	AA global aerospace sales to increase 8-9% in 2016 on demand for large commercial jet aircraft and jet engines.
+SPGLearnings	686659109580595200	2016-01-11T21:21:03	Record global aluminum demand expected in 2016 says AA. Demand to be 60.5 million metric tons +6% y/y
+SPGLearnings	686658591579738112	2016-01-11T21:19:00	AA says strong productivity gains in Q4 were offset by alumina and aluminum prices Alcoa SPXearnings
+SPGLearnings	686655806851407872	2016-01-11T21:07:56	AA reports Adj EPS of $0.04 vs $0.01 est. Sales $5.2B vs $5.3B est. Alcoa SPXearnings
+SPGLearnings	679412421132427264	2015-12-22T21:25:18	NKE future orders regional highlights: North America +14%, China +31% or +34% ex-FX, Western Europe +17% nike
+SPGLearnings	679411635371573248	2015-12-22T21:22:11	NKE EPS of $0.90 beats the $0.86 est. Sales $7.69B vs $7.81B est. Future orders +15% or +20% ex-FX nike retail SPXearnings
+SPGLearnings	679409642011811849	2015-12-22T21:14:16	MU Adj EPS of $0.24 beats by a penny. Sales of $3.35B misses the $3.47B est. tech SPXearnings
+SPGLearnings	674246395176579072	2015-12-08T15:17:22	AZO EPS of $8.29 beats by $0.05. Sales $2.386B vs $2.388B est. Same store sales +3.5% autos consumerdiscretionary SPXearnings
+SPGLearnings	672425746510577664	2015-12-03T14:42:45	KR raises FY15 EPS guide to $2.02-$2.04 (vs. $2.00 est) from prior guide of $1.92-$1.98. kroger SPXearnings
+SPGLearnings	672425455354552321	2015-12-03T14:41:36	KR EPS $0.43 vs $0.39 est. Sales $25.075B vs $25.201B est. ID Sales +5.4% ex-fuel. SPXearnings
+SPGLearnings	672424218651459585	2015-12-03T14:36:41	DG tightens FY15 Adj EPS guidance range to $3.88-$3.93 (vs. $3.92est) from the prior range of $3.85-$3.95. Comps to be 2.5%-2.8%. retail
+SPGLearnings	672423202367389696	2015-12-03T14:32:39	DG beats by a penny with Adj EPS of $0.88. Sales $5.067B vs $5.090B est. Comps +2.3%. retail SPXearnings DollarGeneral
+SPGLearnings	672165086941880320	2015-12-02T21:26:59	PVH Q3 sales by brand: CalvinKlein +7% in constant currency; TommyHilfiger +4% in constant currency, Heritage Brands -5% SPXearnings
+SPGLearnings	672164481208832000	2015-12-02T21:24:35	PVH says holidays "will continue to be very competitive &amp; highly promotional &amp; the volatility..in the global env't will remain a headwind"
+SPGLearnings	672163947135520775	2015-12-02T21:22:27	PVH reiterates FY guide despite Q3 beat. Adj EPS $6.90-$7.00 (vs. $6.96 est). SPX
+SPGLearnings	672163530645327873	2015-12-02T21:20:48	PVH Adj EPS $2.66 vs $2.48 est. Adj EPS includes $0.44 negative impact from FX. Sales $2.04B vs $2.17B est. retail SPXearnings
+SPGLearnings	672161162906181633	2015-12-02T21:11:24	AVGO guides Q1 Revenue to $1.78B +/- $25MM (vs $1.81B est), GM 61% +/- 1%, cap ex $140MM. SPXearnings

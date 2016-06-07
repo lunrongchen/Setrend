@@ -1,0 +1,120 @@
+gavinandresen	726201902548017152	2016-04-30T00:10:00	Jim_Harper ... It is doxxxing if you're outing a porn star.
+gavinandresen	723871376784920576	2016-04-23T13:49:19	Weekend hackers: drop an app and win up to $5k at our Building Blocks hackathon with MSFT, IBM, etc next weekend: 
+gavinandresen	723489899433717760	2016-04-22T12:33:28	kyletorpey show me a large miner or pool who thinks 2mb blocks are a bad idea. There is overwhelming consensus.
+gavinandresen	723164866937155585	2016-04-21T15:01:54	bhec39 Because a small, quiet, not-on-the-front-page-of-reddit, low-drama meeting was wanted. Mission accomplished!
+gavinandresen	719697578749616128	2016-04-12T01:24:08	Bitcoin transaction visualization by Pigloo (it's amaze_balls) 
+gavinandresen	719205266571530241	2016-04-10T16:47:52	Time to pay Uncle Sam --  takes most of the pain out of figuring cap gains on bitcoin transactions
+gavinandresen	719146097877364737	2016-04-10T12:52:45	ETFs as the next evolution of money &amp; banking:  tylercowen
+gavinandresen	718889393826562048	2016-04-09T19:52:42	Linus' decisionmaking has lessons for bitcoin: Do not over-engineer or plan for 5-20 years down the road. LT predictions usually wrong.
+gavinandresen	715981579714174976	2016-04-01T19:18:05	NicolasDorier adam3us ...but segwit is all on-chain. You confuse people by saying otherwise.
+gavinandresen	715676197774995456	2016-03-31T23:04:36	lopp depends on what 'release' means...
+gavinandresen	714467338926460928	2016-03-28T15:01:02	Excited to announce the $900,000 Bitcoin Developer Fund MIT MediaLab 
+gavinandresen	712024159534972928	2016-03-21T21:12:43	Free seminar on FIDOAlliance strong authentication for financial services &amp; others. NYC 3/31 Reg. dashlane yubico
+gavinandresen	712328031092744192	2016-03-22T17:20:11	An Adaptive Block Size for Bitcoin: Our Analysis, Code and a BIP  Bitcoin 
+gavinandresen	710854719476989952	2016-03-18T15:45:46	sysmannet not 'instead of' ...  Please email me your analysis, I see only benefits and no risks
+gavinandresen	710433537611141120	2016-03-17T11:52:09	Thinking of writing an essay: "My Security Mindset Goes To Eleven!" (...but do kids these days know about Nigel?)
+gavinandresen	709113770438582272	2016-03-13T20:27:52	lopp BGP table growth is limited not by any spec, but by policies of people running edge routers.
+gavinandresen	709084341050208256	2016-03-13T18:30:55	lopp There are no debates over max BGP routing table size or email message length or web page size....
+gavinandresen	708038930986303490	2016-03-10T21:16:50	_jonasschnelli_ NickSzabo4 signatures IN blocks, not signatures OF blocks. And yes, really-- large benefit with ~zero risk.
+gavinandresen	706872398033903616	2016-03-07T16:01:27	“Bitcoin, Scaling and Choices” by OneMorePeter 
+gavinandresen	706481871295791104	2016-03-06T14:09:38	My thoughts on the Satoshi Roundtable event: 
+gavinandresen	706213188942110720	2016-03-05T20:21:59	After 1 yr we finally get (almost) everyone in the MIT Digital Currency Initiative in the same room WheresMichael? 
+gavinandresen	705844809097871360	2016-03-04T19:58:11	What Happened At The Satoshi Roundtable - 
+gavinandresen	705782940492566529	2016-03-04T15:52:20	The best time to raise the block size: 
+gavinandresen	705509533418917888	2016-03-03T21:45:55	prieff aantonop segwit is not ready now. If it was, that would be a great plan.
+gavinandresen	705471636854677505	2016-03-03T19:15:19	ibrightly Can we call it "head-first mining" ?   Validationless sounds negative, and proof-of-work in the 80-byte header WILL be validated
+gavinandresen	705452977910390784	2016-03-03T18:01:11	oleganza you mean 20,000 sigop limit? Or the max p2p message size limit? Both should go dynamic....
+gavinandresen	705452396156162048	2016-03-03T17:58:52	JeffWalker82 hadn't seen that-- very interesting! Hope it is insanely fast and successful.
+gavinandresen	705452157005402116	2016-03-03T17:57:55	Truthcoin a boy can dream.....
+gavinandresen	705428858493935616	2016-03-03T16:25:20	The cost of an attack matters: 
+gavinandresen	705324012499443712	2016-03-03T09:28:43	adam3us petertoddbtc el33th4xor I say let them snipe. Most work chain will win in the end, it might just take a little longer. "Meh"
+gavinandresen	705034566294179840	2016-03-02T14:18:34	RoadStress Avivz78 Price can't rise (or drops) because tx congestion → miners leave → more congestion → price drop → more leave...
+gavinandresen	705016119619268608	2016-03-02T13:05:16	Avivz78 risk of a death spiral is low, but much higher than risks of a hard fork
+gavinandresen	704781368715288576	2016-03-01T21:32:27	Bitcoin's halving and expected 50% drop in hashrate &amp; throughput may cause way more trouble than we are seeing now. Delays: the new norm.
+gavinandresen	704747730179112960	2016-03-01T19:18:47	gavinandresen 's original BTC faucet addresses crush first-ever bitcoin donation address rankings 
+gavinandresen	704729901086216193	2016-03-01T18:07:56	New blog post: Bitcoin Guarantees Strong, not Eventual, Consistency. 
+gavinandresen	703326521050529793	2016-02-26T21:11:24	MITBTCExpo happening next weekend! Pick up tickets at , schedule at  
+gavinandresen	704124996575166464	2016-02-29T02:04:15	From everyone SatoshiRoundtbl Stop the attacks and communicate respectfully. It's hurting us all. Thx everyone who came esp. brucefenton!
+gavinandresen	704023953589854209	2016-02-28T19:22:45	iseefourlights adam3us morcosa BitcoinMagazine I have never, ever suggested removing POW. That is a terrible idea.
+gavinandresen	702796284634275840	2016-02-25T10:04:26	Over a month later, I think this post by mikebelshe is still the best one by far on the block size/scaling debate 
+gavinandresen	703918273658810368	2016-02-28T12:22:49	SatoshiRoundtbl cnLedger quoted out of context-- they are doing a lousy job at some things
+gavinandresen	703393600084770816	2016-02-27T01:37:57	My mind blown by two Bitcoin developments presented today.    
+gavinandresen	703249632470679552	2016-02-26T16:05:52	morcosa BitcoinMagazine False dichotomy... we will scale AND maintain decentralization.
+gavinandresen	702934361151315968	2016-02-25T19:13:06	TuurDemeester ... written before this:  
+gavinandresen	702798387041705984	2016-02-25T10:12:47	hashingitcom fees won't rise if demand is inelastic (because users can give up or move to altcoins)
+gavinandresen	702781144467542017	2016-02-25T09:04:16	New evidence of a transaction fee market?  
+gavinandresen	701772812176990209	2016-02-22T14:17:31	My view on the current situation of Bitcoin and the Blockchain 
+gavinandresen	701758633298804736	2016-02-22T13:21:10	At Scaling Bitcoin Montreal, who said 'people don't agree on what problem(s) the limits are meant to solve'? I want to give proper credit.
+gavinandresen	701258037747646464	2016-02-21T04:11:59	So.... what's the process for deciding what goes into Core hard fork and how it's deployed? Same way timeline was decided?
+gavinandresen	700342418810519552	2016-02-18T15:33:39	Great analysis of the bitcoin transaction fee landscape by ajtowns  
+gavinandresen	699242903915339776	2016-02-15T14:44:34	No, FinCEN Policy is not Relevant to the Bitcoin Forking Debate 
+gavinandresen	698895504843894784	2016-02-14T15:44:07	adam3us I agree, but collaboration requires communication. I've repeatedly reached out and been ignored.
+gavinandresen	698127535629008896	2016-02-12T12:52:29	maddenw is the history of PGP written down somewhere?
+gavinandresen	697893309696622592	2016-02-11T21:21:45	Just noticed the new padlock in gmail; hurray for usable encryption! 
+gavinandresen	697490619648716800	2016-02-10T18:41:37	Are you operating a bitcoin hot wallet without a Big Red Button? 
+gavinandresen	696783923234390017	2016-02-08T19:53:27	TheBlueMatt We disagree about what the limits are FOR. And we disagree on the risks versus benefits of a hard fork.
+gavinandresen	695667399446507520	2016-02-05T17:56:47	A Guided Tour of the 2mb Fork:  ... or "why does changing a 1 to a 2 take so long?"
+gavinandresen	695446473677238276	2016-02-05T03:18:54	brian_armstrong  CIA world factbook, see economy sections
+gavinandresen	694278893373648896	2016-02-01T21:59:21	hernzzzzzz 2 is better than 1. And when the sky doesn't fall, maybe rational discussion will happen again.
+gavinandresen	694216384021139456	2016-02-01T17:50:58	6,039 words in the segregrated witness BIPs versus 615 in the draft "2MB bump" proto-BIP. I like segwit, but it it is not simpler.
+gavinandresen	694177515854794752	2016-02-01T15:16:31	The lifecycle of a popular image in social media... and how blockchain can track its use via mine_labs - 
+gavinandresen	693522951996440576	2016-01-30T19:55:31	My favorite quote from The Martian: "Rich Purnell is a steely-eyed missile man"
+gavinandresen	693520239435198464	2016-01-30T19:44:44	JustusRanvier ... and robustness and censorship-resistance, which I'm 100% for, and which aren't magically fixed by 'decentralization'
+gavinandresen	692068110426198016	2016-01-26T19:34:30	What computer users see in security warning boxes enigma2016  Very, very true. 
+gavinandresen	693101587326042114	2016-01-29T16:01:10	On the incentives to follow the longest branch: 
+gavinandresen	692905064457998338	2016-01-29T03:00:15	rogerkver ... as little code as possible, because simple is better than complex. (and I've never considered myself a cypherpunk)
+gavinandresen	691941261339660289	2016-01-26T11:10:27	What are the benefits of Segregated Witness?  ajtowns
+gavinandresen	692031701107671041	2016-01-26T17:09:49	lopp most users: complain about it on reddit
+gavinandresen	691602296908582913	2016-01-25T12:43:31	jonmatonis tx fees subsidized by new money creation. Genius way to build popularity for new currency, don't understand why you dislike
+gavinandresen	691600134157631489	2016-01-25T12:34:55	mpesce technically tricky to run inter-branch exchange, because some transactions valid on both branches, some not.
+gavinandresen	691597543419936768	2016-01-25T12:24:38	guruvan that's not the experience from altcoin world-- can you point me to an example of a persistent multibranch in altcoin?
+gavinandresen	691596939784138752	2016-01-25T12:22:14	infohufu let's find a name for that-- new genesis block is NOT what I mean by 'blockchain fork'
+gavinandresen	691433210933223424	2016-01-25T01:31:38	After a blockchain fork, there are two branches-- not two chains. Economic incentives are overwhelming for only stronger branch to survive
+gavinandresen	691353984624410624	2016-01-24T20:16:49	adam3us ... although I'd like to read a whitepaper about why not 512-bit Keccak (256-bit security) to avoid SHA-family attacks...
+gavinandresen	691353206505525248	2016-01-24T20:13:43	adam3us Official Clarification: Segwit proposal from Core is user-selectable 80- or 128- bit security.
+gavinandresen	691349339889750016	2016-01-24T19:58:21	ryanxcharles pension funds
+gavinandresen	691280673307361281	2016-01-24T15:25:30	Can we all agree we want to avoid a future of "Bitcoin: Eleven Times as Popular as PGP!"  ???
+gavinandresen	691277254773469185	2016-01-24T15:11:55	ryanxcharles irc
+gavinandresen	691113860346937344	2016-01-24T04:22:39	petertoddbtc adam3us I guess you don't care about security because you didn't pick 1024 bit? My tweet was about reasonable tradeoffs....
+gavinandresen	691025909864906752	2016-01-23T22:33:10	bergalex quiz: what security do p2pkh transactions have today? (Hint: ripemd160 is a 160-bit hash function)
+gavinandresen	690928551802060801	2016-01-23T16:06:18	kanzure huh? The segwit solution (either 80 or 128 bit security depending on security/scale tradeoffs) is exactly what I'm talking about.
+gavinandresen	690901895737544705	2016-01-23T14:20:22	bergalex ?? do you think security-above-all??
+gavinandresen	690896586797387777	2016-01-23T13:59:17	adam3us ... but there are always tradeoffs. I'd suggest 80-bit security over 256-bit to get triple the scale....
+gavinandresen	690895958901723136	2016-01-23T13:56:47	adam3us My list: security, reliability, ethos, KISS, scale, new functionality.
+gavinandresen	690516187898249216	2016-01-22T12:47:43	Xentagz that's the plan-- part of eliminating single points of failure
+gavinandresen	690514714812514304	2016-01-22T12:41:51	Xentagz I don't see an exclusivity clause in my open source developer contract
+gavinandresen	689878322717790208	2016-01-20T18:33:04	Didya think omgzbtcdead? It's actually a governance growing pain.  Bitcoin
+gavinandresen	689861078566600705	2016-01-20T17:24:32	Announcing the Zcash project: 
+gavinandresen	689583264491794432	2016-01-19T23:00:36	Inventor of SPDY, mikebelshe shares his pragmatic  view on the block size debate + the path forward 
+gavinandresen	689304356777254912	2016-01-19T04:32:19	bendavenport and you'd force them to honor that commitment how???
+gavinandresen	689261202833149953	2016-01-19T01:40:51	bendavenport too easy for big miners to manipulate market by expressing/withdrawing support for A or B....
+gavinandresen	689260009025220608	2016-01-19T01:36:06	Relevant to Bitcoin 1mb limit discussion:
+gavinandresen	688895386367344641	2016-01-18T01:27:13	More good fee analysis from ajtowns 
+gavinandresen	688446351105916929	2016-01-16T19:42:55	Bitcoin is not dead,we are going through a similar process that early IETF &amp; ICANN went through 
+gavinandresen	688400821374062593	2016-01-16T16:42:00	rbtkhn ...same risk as soft fork...
+gavinandresen	688399438713327616	2016-01-16T16:36:30	adam3us I have no idea what scenario(s) you think will lead to fund loss. Blog post please.
+gavinandresen	687900588210663424	2016-01-15T07:34:15	binarybits OctSkyward Yes, Mike is too pessimistic.
+gavinandresen	687828647554711553	2016-01-15T02:48:23	bergalex very consistent supermajority for raising limit. E.g. 
+gavinandresen	687284055331737600	2016-01-13T14:44:22	Bitcoin academic papers published in: 2008: Bitcoin Whitepaper 2010: 1 2011: 8 2012: 21 2013: 64 2014: 217 2015: 288 
+gavinandresen	687351951504314369	2016-01-13T19:14:10	RoyceMCutcheon WHAT?!?!?  I guess I agreed so much it wrapped around???
+gavinandresen	687351557420101634	2016-01-13T19:12:36	Core and Classic and Unlimited and Xt ... 
+gavinandresen	686907611745259521	2016-01-12T13:48:31	el33th4xor drwasho gubatron Milli, named after Milli Vanilli
+gavinandresen	686905947961323520	2016-01-12T13:41:54	Visualizing rough consensus: 
+gavinandresen	686552301729886209	2016-01-11T14:16:38	My 2016 wish: somebody named Satoshi Nakamoto wins the Powerball jackpot
+gavinandresen	686307856862162945	2016-01-10T22:05:18	new post: "What did bitcoin movements look like in 2015?"  w/ the assistance of chainalysis 
+gavinandresen	685598389229228032	2016-01-08T23:06:08	sheldonth trust on first use == tofu
+gavinandresen	685528604814536704	2016-01-08T18:28:50	Random geeky thought: TOFU UTXO's could be a thing... might even be a really good idea for fast bootstrapping...
+gavinandresen	685428809592627200	2016-01-08T11:52:17	Aquentys no, libsecp256k1 is awesome. Don't be troll-ish
+gavinandresen	685287236930252800	2016-01-08T02:29:43	Blockstream folks need to calm down: Gavin Pushing For Backdoored Crypto  
+gavinandresen	685254501540954113	2016-01-08T00:19:39	“SPV mining” is the solution, not the problem. My latest post --&gt; 
+gavinandresen	685186023576485892	2016-01-07T19:47:32	Received a pgp-encrypted message that's in French... gpg --decrypt --english didn't work....
+gavinandresen	684809735128879104	2016-01-06T18:52:18	Yup; ideas like this (find a use for waste heat) are the future, and will "re-decentralize" mining 
+gavinandresen	684050065443270658	2016-01-04T16:33:39	Partly inspired by jgarzik + gavinandresen, my piece on why economists shd be studying bitcoin's bold experiment 
+gavinandresen	684030408099495936	2016-01-04T15:15:32	posted an article about the role miners play in controlling bitcoin 
+gavinandresen	683696299540090880	2016-01-03T17:07:54	AlpacaSW TomReichhart LaurentMT segwit as hard fork is simpler.
+gavinandresen	683655270413824000	2016-01-03T14:24:52	Secure coding principle number 4: keep it simple. 
+gavinandresen	683493984803504128	2016-01-03T03:43:59	Article 2: How the block size will affect bitcoin's decentralization 
+gavinandresen	682952218899800064	2016-01-01T15:51:12	Truthcoin you really shouldn't assume miners and users are distinct-- heavy users might become miners to save themselves fees
+gavinandresen	682650325459857408	2015-12-31T19:51:35	Any economists up for solving a mining fee puzzle : 
+gavinandresen	681975103643631616	2015-12-29T23:08:29	oleganza jgarzik the long-term roadmap (which I agree with) covers that with partial validation and fraud proofs....
+gavinandresen	681974383326433280	2015-12-29T23:05:38	brian_armstrong See GiveWell: 

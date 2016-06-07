@@ -115,8 +115,15 @@ def cross_validation(features,fold):
 
 if __name__ == "__main__":
     features=read_bag_of_word("features")
+    bag,down_prior_probability = naive_bays_training(features)
     count=0
-    cross_validation(features, 20)
+    for date in features:
+        prediction = is_down_streaming(features[date], bag, down_prior_probability)
+        if prediction * dow_jones_labels[date] < 0:
+            count += 1
+    accuracy = float(count) / len(features)
+    print("training accruacy is {0}".format(accuracy))
+    cross_validation(features, 10)
     #bag,down_prior_probability=naive_bays_training(features)
     #for date in features:
         #check=is_down_streaming(features[date],bag,down_prior_probability)

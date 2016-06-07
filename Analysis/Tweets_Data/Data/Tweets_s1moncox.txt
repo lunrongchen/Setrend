@@ -1,0 +1,420 @@
+s1moncox	725558424277123072	2016-04-28T05:33:03	BaldingsWorld Which is to say: I fear you've confused GDP and GDP growth.
+s1moncox	725558190570496000	2016-04-28T05:32:07	BaldingsWorld By this odd logic, if a firm earns $1bn in 2014 and again in 2015, it has earned a 0% return on assets.
+s1moncox	725283513927225346	2016-04-27T11:20:39	BaldingsWorld FTAlphaville I'm sure the 26 additional survivors would appreciate the difference.
+s1moncox	725279762797617152	2016-04-27T11:05:45	BaldingsWorld FTAlphaville That's horribly misleading. NGDP grew by about 7%, the credit stock by about 25%. So the ratio is 3.6.
+s1moncox	725277950631772160	2016-04-27T10:58:33	BaldingsWorld FTAlphaville But suppose China's net investment rate is 40% of GDP, then its capital stock grew by RMB27.5T from 15q1-16q1
+s1moncox	725277420043952128	2016-04-27T10:56:26	BaldingsWorld FTAlphaville It is worrying. I don't know how long it can continue. I'd prefer a different kind of stimulus.
+s1moncox	725269798456709120	2016-04-27T10:26:09	BaldingsWorld FTAlphaville I mean why look at the increase in one quarter's GDP? Why not look at one day's?
+s1moncox	725268701411299328	2016-04-27T10:21:47	BaldingsWorld FTAlphaville You're comparing the increase in a flow (a 3-month flow at that) with the increase in a stock.
+s1moncox	725202309026697216	2016-04-27T05:57:58	chinaspooncn I think that's a real danger.
+s1moncox	725200602029023232	2016-04-27T05:51:11	BaldingsWorld It's hard. Hence Beijing is being tentative. If it were easy, they could be as gung-ho as everyone demands.
+s1moncox	725198874101555202	2016-04-27T05:44:19	BaldingsWorld By some (dated) estimates, the US loses about 15m jobs a year; but gains about 17m. That can happen with stable unemployment.
+s1moncox	725197347961999360	2016-04-27T05:38:15	BaldingsWorld In economic theory, unemployment may need to exceed its natural rate to curb inflation.
+s1moncox	725192777542340608	2016-04-27T05:20:06	BaldingsWorld China reduced employment in agriculture by 38 million in 3 years. Did unemployment rise by 38 million?
+s1moncox	725189014924439553	2016-04-27T05:05:09	BaldingsWorld "Both and" is Beijing's answer also.
+s1moncox	725188762888736768	2016-04-27T05:04:09	BaldingsWorld I think you may underestimate the amount of "churn" even in imperfect labour markets, such as China's.
+s1moncox	725187949298618370	2016-04-27T05:00:55	BaldingsWorld Which returns us to the original question: when is overcapacity of manpower preferable to overcapacity of steel?
+s1moncox	725186613899366400	2016-04-27T04:55:36	BaldingsWorld Fortunately, you can reduce steel employment without raising unemployment.
+s1moncox	725181221228130304	2016-04-27T04:34:11	BaldingsWorld William Aberhart apparently said it first in the 1930s 
+s1moncox	725175873561853953	2016-04-27T04:12:56	prchovanec But prices in these sectors have plummeted.
+s1moncox	725171806886305793	2016-04-27T03:56:46	prchovanec I'd say poor wages are analogous to negative investment returns. Unemployment is more analogous to stuffing cash in the mattress
+s1moncox	725171347324833793	2016-04-27T03:54:56	ANicholson_IG It's a premium workfare system. (I'm not sure they do deserve it more than others.)
+s1moncox	725170828917243904	2016-04-27T03:52:53	prchovanec Wages can send signals. Also, there can be lots of gross job losses without a net rise in unemployment.
+s1moncox	725165659634700288	2016-04-27T03:32:20	ANicholson_IG I'd argue that unemployment can be (sadly) necessary to curb excessive wage inflation.
+s1moncox	725165207102849026	2016-04-27T03:30:32	ANicholson_IG But then we'd be seeing strong wage inflation in other sectors that need workers but can't get them because they're at SOEs.
+s1moncox	725163699242196992	2016-04-27T03:24:33	prchovanec Unemployment represents a failure to allocate resources at all, not a failure to allocate them well.
+s1moncox	725163446778630146	2016-04-27T03:23:33	prchovanec Why aren't higher prices &amp; wages in undercapacity sectors sufficient to attract new capital &amp; labour? How does unemployment help
+s1moncox	725162428988809216	2016-04-27T03:19:30	ANicholson_IG You can switch jobs without falling into unemployment first.
+s1moncox	725161730381348864	2016-04-27T03:16:44	markerdmann In any case, inflation is subdued, which suggests underemployment or wages not outstripping productivity.
+s1moncox	725161345998553088	2016-04-27T03:15:12	markerdmann Labour-market data is patchy &amp; mixed. Last month's Caixin composite PMI suggests employment fell at fastest pace since Jan 2009
+s1moncox	725159458251411457	2016-04-27T03:07:42	China is trying to reduce overcapacity in the industrial sector without increasing overcapacity in the manpower sector.
+s1moncox	725159351254659072	2016-04-27T03:07:16	China's dilemma might become clearer if we relabelled "unemployment" as "overcapacity in the manpower sector".
+s1moncox	725158997406437376	2016-04-27T03:05:52	Dear China-watchers: under what conditions is unemployment more efficient than employment in an overcapacity sector?
+s1moncox	725115171170074625	2016-04-27T00:11:43	Wolf_InTheWilds Only because if the outflow is big enough (relative to past reserve accumulation) it'll put downward pressure on the yuan
+s1moncox	725002760450514944	2016-04-26T16:45:02	zerohedge The math is wrong. Q1 capital outflows were presumably bigger than the $118bn fall in reserves but were offset by CA surplus IIF
+s1moncox	724978797993295872	2016-04-26T15:09:49	FinanceCam Hidden capital outflows are disguised as imports not exports (or they presumably appear in net errors &amp; omissions)
+s1moncox	724977640919035905	2016-04-26T15:05:13	FinanceCam It seems to me ZH argument rests on failing to count the current-account surplus
+s1moncox	724976698282807296	2016-04-26T15:01:28	So IIF predicts China will end this year with about $3.065 trillion of reserves (ignoring valuation effects) 
+s1moncox	724619973964926976	2016-04-25T15:23:59	modestproposal1 Their measure of credit grew by a third from Nov 08-09 and by a quarter from Feb 15-16. But I see the point they're making.
+s1moncox	724532978819301377	2016-04-25T09:38:17	Smaherlon ryanavent It will require higher reported deficits &amp; central govt debt. I'm not sure inflation has to much exceed present target
+s1moncox	724524323805880320	2016-04-25T09:03:54	ryanavent I suddenly feel...outflanked.
+s1moncox	724520438886330368	2016-04-25T08:48:28	ryanavent OK. But then you are one of v.few people who think China may stagnate because Beijing lacks the political will to stimulate.
+s1moncox	724519269547925504	2016-04-25T08:43:49	ryanavent (FWIW bears are equally prone to arguing that China is different: eg hi saving &amp; investment=bad; monetary easing=deflation.)
+s1moncox	724517203970646016	2016-04-25T08:35:36	ryanavent If bank nationalisation would've helped in the US, why not in China? If labour mobility would've helped in EU, why not in China?
+s1moncox	724515222694711296	2016-04-25T08:27:44	ryanavent I believe China is subject to the same economic principles as everywhere else.
+s1moncox	724504572937551872	2016-04-25T07:45:25	macropru2 ryanavent Hukou can be relaxed. But it mostly stops people accessing public services. Plenty of people still move for jobs.
+s1moncox	724501664502284288	2016-04-25T07:33:52	ryanavent Eg it was hard for Europe to reallocate labour. But China's workforce is mind-bogglingly mobile.
+s1moncox	724500937604132864	2016-04-25T07:30:58	ryanavent Eg it was hard for Japan to cut interest rates far enough below the neutral rate. But China's neutral rate is presumably higher.
+s1moncox	724500438557450241	2016-04-25T07:28:59	ryanavent Eg, it was hard for the US to nationalise the banks &amp; unclog credit. I'm fully confident China can nationalise the banks.
+s1moncox	724498322526892032	2016-04-25T07:20:35	ryanavent Several of the reasons it's been hard for other countries don't apply in China
+s1moncox	724496985965756416	2016-04-25T07:15:16	ryanavent History also offers few egs of catchup economies with trade surpluses &amp; little fx debt that suffer Japan-style liquidity traps.
+s1moncox	724495941424697344	2016-04-25T07:11:07	ryanavent They've done it before. But it's fair to say I'm less confident than I was before they let nominal growth slow so dramatically.
+s1moncox	724492623520493568	2016-04-25T06:57:56	ryanavent TBF China has only just begun to suffer the dire fate the FT describes. Thus Beijing has only just begun to respond as I describe
+s1moncox	724484084492173317	2016-04-25T06:24:00	BaldingsWorld Agreed. That's one reason why I'd have preferred bigger tax cuts &amp; social-spending hikes to keep growth at potential
+s1moncox	724479130176090112	2016-04-25T06:04:19	BaldingsWorld There's a useful micro/macro distinction at stake here that you might be neglecting
+s1moncox	724477177547255808	2016-04-25T05:56:33	BaldingsWorld peter_tl I don't think that's the claim. It's more like: can China's SOEs/SOBs be made more rational without crisis?
+s1moncox	724476053515694080	2016-04-25T05:52:05	hzsong Yes, FAI of SOEs was very strong in q1. But FAI is not GCF and I don't think we yet know what happened to GCF in 2015.
+s1moncox	724475481186131968	2016-04-25T05:49:49	chinaspooncn ChuBailiang How do provincial *nominal* GDP growth figures compare with the national figure? I haven't checked.
+s1moncox	724474509059710976	2016-04-25T05:45:57	hzsong There is some level of AD that can prevent broad deflation even in an economy suffering from overcapacity in several industries.
+s1moncox	724473148649824256	2016-04-25T05:40:33	hzsong I'd stimulate because I think wage growth could be stronger with stimulus and might soon weaken without it
+s1moncox	724472118818131968	2016-04-25T05:36:27	BaldingsWorld Fine. But it would be a bigger problem if local and central data matched perfectly.
+s1moncox	724471857978572800	2016-04-25T05:35:25	macropru2 peter_tl If China can become as rich as Italy before bankruptcy reform, I would feel much better
+s1moncox	724470241539952641	2016-04-25T05:29:00	BaldingsWorld you've retreated to stronger ground.
+s1moncox	724467704808103936	2016-04-25T05:18:55	peter_tl Maybe. It's important that an overhang of bad past loans doesn't inhibit good future loans. Not sure India is passing that test.
+s1moncox	724464060771622912	2016-04-25T05:04:26	BaldingsWorld ChuBailiang Since 2012 a lot of data has been reported directly to the national authorities, not via provincial governments
+s1moncox	724461720043843584	2016-04-25T04:55:08	douglasbulloch Crumbs are all that's available I'm afraid.
+s1moncox	724456454397161472	2016-04-25T04:34:13	If China's provincial data is as bad as everyone says, shouldn't we be glad the national data departs from it? 
+s1moncox	724447622757376000	2016-04-25T03:59:07	peter_tl It depends on which SOEs are allowed to swap debt for equity + the swap might make banks more responsible. 
+s1moncox	724445590403215361	2016-04-25T03:51:02	WeiDuCNA peter_tl Borrowing of TBTF enterprises can also be capped or taxed.
+s1moncox	724445087237738497	2016-04-25T03:49:02	WeiDuCNA peter_tl The bailouts have to be big enough to maintain macro-stability. They don't have to be total.
+s1moncox	724442501126316032	2016-04-25T03:38:46	peter_tl I agree: without reform, there will be bailouts. But with bailouts, there can still be reform.
+s1moncox	724428113560530945	2016-04-25T02:41:36	peter_tl Is it possible to give market forces a more decisive role in China's economy without suffering a banking crisis?
+s1moncox	724427229145366528	2016-04-25T02:38:05	peter_tl Most governments bail out their banks in a crisis. So few governments give market forces a decisive role by those standards.
+s1moncox	724425717413335045	2016-04-25T02:32:04	peter_tl Can an economy with $8000 GDP per head prosper with state-directed lending? If not, can it commercialise banking without a crisis?
+s1moncox	724423307374645248	2016-04-25T02:22:30	peter_tl I don't think banking crises or liquidity traps improve microeconomic efficiency.
+s1moncox	724421788004835329	2016-04-25T02:16:28	MayankSeksaria peter_tl Well, SOEs owe money to state-owned banks, but SOBs owe money to depositors. Depositors need to be made whole.
+s1moncox	724420175538188288	2016-04-25T02:10:03	MayankSeksaria peter_tl JosephEStiglitz It might have some relevance to China, (although the parallels are not exact).
+s1moncox	724414633189072896	2016-04-25T01:48:02	.peter_tl In this piece on Asia's miracle JosephEStiglitz gives a rationale for bailing out the banks in downturns 
+s1moncox	724410279690264576	2016-04-25T01:30:44	peter_tl So China will endure a lost decade to teach banks a lesson?
+s1moncox	724408531164647425	2016-04-25T01:23:47	Why can't China forgive debt, recap banks, ease fiscal &amp; monetary policy &amp; grow as fast as productivity allows? 
+s1moncox	724079448467771392	2016-04-24T03:36:07	Noahpinion Do you think the original "Kaldor facts" should have been regarded as "stylized facts"?
+s1moncox	724070763381170176	2016-04-24T03:01:37	hzsong What about tax cuts &amp; social-spending increases? Do you think that kind of fiscal stimulus won't help? Or that it just won't happen?
+s1moncox	724070299482742785	2016-04-24T02:59:46	hzsong China's nominal household disposable income rose by about 9% last year; industrial SOE profits fell by 21.9% 
+s1moncox	724069310348464128	2016-04-24T02:55:50	hzsong In principle, it requires only a rise in the level of aggregate demand, not a shift in the mix of demand (although that'd be nice)
+s1moncox	723327176846667777	2016-04-22T01:46:52	On the other hand, deleveraging without keeping demand up will be really hard too. 
+s1moncox	723321092664745985	2016-04-22T01:22:41	darpanbiswas Yes but then the economy would fall short of its potential and stimulus would be appropriate.
+s1moncox	723307087145521152	2016-04-22T00:27:02	In a fully employed economy, overproduction (&amp; lower prices) in some sectors would imply underproduction (&amp; higher prices) in others.
+s1moncox	723304342690758657	2016-04-22T00:16:08	BaldingsWorld Or if Beijing is smart, it might say: High rents lower housing's p/e ratio, which is evidence against a bubble not for it.
+s1moncox	723302815133630464	2016-04-22T00:10:04	Excess capacity in some sectors requires a fall in their relative prices, not deflation of the price level. Excess capacity ≠ general glut.
+s1moncox	723301117891731456	2016-04-22T00:03:19	Like many China-watchers, Houze Song fails to distinguish between relative prices &amp; the price level cc TomOrlik 
+s1moncox	722976847718273024	2016-04-21T02:34:47	I wonder how many cblatts students will take up the offer in the last line of his exam?  
+s1moncox	722610400861114368	2016-04-20T02:18:39	BaldingsWorld TomOrlik The discrepancy might have something to do with the leap year, according to hzsong 
+s1moncox	722237724623654912	2016-04-19T01:37:46	RajaKorman Paul Collier's Bottom Billion is one example of what I had in mind: policy prescriptions that asked little of local politics
+s1moncox	722237049508483072	2016-04-19T01:35:05	Japan's growth averaged about 1.5% in the 1990s. A decade of 1.5% growth in China would be far from genteel  via BV
+s1moncox	722235415948763136	2016-04-19T01:28:36	Arthur Kroeber's China optimism has suffered a genteel decline  via BV
+s1moncox	722231417229352960	2016-04-19T01:12:42	RajaKorman It would be interesting to compile a list of 'good policies for countries with bad institutions'.
+s1moncox	722231148848349184	2016-04-19T01:11:38	RajaKorman What if you're selective, but not smart?
+s1moncox	722065608192360449	2016-04-18T14:13:50	hzsong Yes, could be. But the same problem didn't appear in 2012q1.
+s1moncox	722050089431138304	2016-04-18T13:12:11	China's latest property data are gobsmacking...but the English-language charts are all wrong  
+s1moncox	722000101300830208	2016-04-18T09:53:32	In sum, China's Q1 growth was either 6.7% y/y, 4.5% q/q saar (1.011^4) or 6.3% y/y (1.018*1.018*1.015*1.011). Enjoy. 
+s1moncox	721902701970259972	2016-04-18T03:26:31	macrojustin The NBS press release said y/y growth was 985.1bn at 2015 prices, which suggests growth of 6.66% by my reckoning.
+s1moncox	721901948912271360	2016-04-18T03:23:31	macrojustin We know that official y/y growth was rounded up to 6.7% from 6.66% &amp; q/q growth may've been rounded down. Still a gap, though.
+s1moncox	721884661299871745	2016-04-18T02:14:49	kmac They reported it a day late. They said they were having trouble with the seasonal adjustment.
+s1moncox	721874653636001793	2016-04-18T01:35:03	More for the China-is-tinkering-with-GDP grist mill via Commerzbank's Zhou Hao 
+s1moncox	721873059167113216	2016-04-18T01:28:43	richkauz China has said it found seasonal adjustment unusually difficult in 2016q1  
+s1moncox	721870645244485636	2016-04-18T01:19:08	s1moncox HT AZComendador Source: 
+s1moncox	721870469201207298	2016-04-18T01:18:26	There's an unusually big gap between China's official 6.7% growth rate &amp; the y/y rate implied by its q/q figures 
+s1moncox	721869294221393922	2016-04-18T01:13:46	AZComendador I make it 6.34% (although it could be a bit higher depending on how the q/q numbers are rounded off).
+s1moncox	721305750157393920	2016-04-16T11:54:26	China releases its belated q/q growth number: just 1.1%  (or 4.3-4.7% at an annualised rate)  
+s1moncox	720846832050372609	2016-04-15T05:30:52	For the hexakosioihexekontahexaphobics: it seems China's growth was 6.66% y/y in the first quarter.  (985.1/14796.18)
+s1moncox	720045786768101376	2016-04-13T00:27:48	RajaKorman Do Economies Stall? 
+s1moncox	718651204465627136	2016-04-09T04:06:13	The decline of EM "original sin"   
+s1moncox	718480037943463936	2016-04-08T16:46:04	macropru2 fion_li 
+s1moncox	718364379444551680	2016-04-08T09:06:29	One gauge of illicit capital outflows from China eased in Q4: net errors &amp; omissions in the BoP. 
+s1moncox	718361564747866112	2016-04-08T08:55:18	ICYMI China's revised 2015 BoP figures, including first estimate of Q4 net errors &amp; omissions 
+s1moncox	718359160002375681	2016-04-08T08:45:44	ICYMI China's external FX debt fell by $44.7b in 15Q4 to $759.5b (about 7% of GDP). 
+s1moncox	717868714675163137	2016-04-07T00:16:53	The "minor miracle" of steel-reinforced concrete 
+s1moncox	717383945256574976	2016-04-05T16:10:35	rortybomb 
+s1moncox	713393275084939264	2016-03-25T15:53:05	Five new pieces on One Belt One Road by China's State Information Centre, including one on political-risk measures 
+s1moncox	712365156664094720	2016-03-22T19:47:43	If not for those central banks I'd be right. I'd be right, I tell ya 
+s1moncox	712345369519128576	2016-03-22T18:29:05	None of the recent Western econo-calamities compares with it. Don’t believe me?… 
+s1moncox	708625958216081410	2016-03-12T12:09:28	Was hoping for more in this vein: why should "bad investments in the past require the unemployment of good workers in the present"?
+s1moncox	708625266512404480	2016-03-12T12:06:43	TBH Noahpinion's effort to unsettle the folk theory of credit booms &amp; busts isn't going as well as I'd hoped 
+s1moncox	708481552884371456	2016-03-12T02:35:39	making a short-live translation session here on PBOC governor Zhou's press conference: peter_tl gabewildau S_Rabinovitch s1moncox NPC
+s1moncox	708108230317248512	2016-03-11T01:52:12	Noahpinion In Drehmann a "credit gap" isn't simply a high level of credit. It's credit/GDP outstripping its trend. 
+s1moncox	708093600324820997	2016-03-11T00:54:04	How Japan's economy trolls macro  via Noahpinion
+s1moncox	708061318037823488	2016-03-10T22:45:48	What would AlphaGo do? WWAGD
+s1moncox	708055710203043841	2016-03-10T22:23:31	darioperkins fwred A dispatch from that precinct of the twilight zone where artificial intelligence consorts with genuine stupidity.
+s1moncox	707830434617548801	2016-03-10T07:28:21	Wolf_InTheWilds Agreed. (See my comment.) Hard to know how big this kind of trade is or why it's changed so much in scale.
+s1moncox	707828708049027072	2016-03-10T07:21:29	Wolf_InTheWilds Cash basis versus accrual? Yes that's a difference, but it's already been noted.
+s1moncox	707821110411313153	2016-03-10T06:51:18	Wolf_InTheWilds The scope of the bank payments data is different, yes. 
+s1moncox	707820127379660800	2016-03-10T06:47:23	Wolf_InTheWilds Doesn't that line largely refer to goods trade only. So the discrepancy is still$366b (578.1-211.7)
+s1moncox	707814010540978178	2016-03-10T06:23:05	Wolf_InTheWilds Are you referring to the line entitled 海关统计口径的货物贸易?
+s1moncox	707743088438087680	2016-03-10T01:41:16	One more attempt to persuade BaldingsWorld that China has a nonfictional trade surplus:  
+s1moncox	707739678934487041	2016-03-10T01:27:43	Wolf_InTheWilds dasvee Links to the original data are here: 
+s1moncox	707710029147799553	2016-03-09T23:29:54	modestproposal1 I forgot to ask: what might pre-Fed Bernanke have said about China?
+s1moncox	707709055746310144	2016-03-09T23:26:02	MESandbu M_C_Klein It might be capturing declines in labour hoarding as recoveries strengthen 3 years after the previous labor-market peak
+s1moncox	707708575435640832	2016-03-09T23:24:07	MESandbu M_C_Klein Note the lags though. It takes firms 3 years to find efficiencies after labor becomes scarce?
+s1moncox	707607364434845698	2016-03-09T16:41:57	jp_koning  
+s1moncox	707604216345448448	2016-03-09T16:29:26	nicoffx Everybody can benefit from the right fiscal-monetary mix. And the right mix will depend on your exchange-rate objectives.
+s1moncox	707603453917401089	2016-03-09T16:26:24	ryanavent M_C_Klein modestproposal1 People who would otherwise be hoarding money 
+s1moncox	707599474038849536	2016-03-09T16:10:35	M_C_Klein modestproposal1 They teach that in Rebalancing 201
+s1moncox	707599185437200384	2016-03-09T16:09:27	M_C_Klein modestproposal1 3 It would be bond-financed 4 Even if tax-financed, balanced-budget multiplier applies
+s1moncox	707599011671363585	2016-03-09T16:08:45	M_C_Klein modestproposal1 1 Higher social spending reduces precautionary saving 2 Fiscal stimulus is an alternative to cutting rates...
+s1moncox	707596979547869185	2016-03-09T16:00:41	M_C_Klein modestproposal1 Are you thinking Ricardian equivalence or payroll taxes?
+s1moncox	707595460668686336	2016-03-09T15:54:38	M_C_Klein modestproposal1 This is about government cutting taxes, spending more on pensions, healthcare &amp; education.
+s1moncox	707592923915939840	2016-03-09T15:44:34	modestproposal1 So why does everyone assume that stimulus and rebalancing are mutually exclusive?
+s1moncox	707592339385159684	2016-03-09T15:42:14	nicoffx The central bank doesn't have to allow interest rates to rise necessarily. It's just a way to revive demand without cutting rates.
+s1moncox	707591432140361729	2016-03-09T15:38:38	nicoffx No. By expanding demand, it increases private-sector profits. (And unlike monetary easing, it doesn't tempt people to overborrow.)
+s1moncox	707589823251554305	2016-03-09T15:32:14	nicoffx The fiscal stimulus raises aggregate demand, allowing credit to be tighter than it otherwise would be.
+s1moncox	707587611100127233	2016-03-09T15:23:27	nicoffx Fiscal expansion puts upward pressure on interest rates. That attracts capital inflow. It's just Mundell-Fleming.
+s1moncox	707579690580635648	2016-03-09T14:51:59	Bernanke: how China can support the economy, consumption &amp; the currency at the same time  
+s1moncox	707391660196536321	2016-03-09T02:24:49	ChinaStockRsrch Almost 1.3% of the labour force, according to the estimate in that article
+s1moncox	707061190250209280	2016-03-08T04:31:38	China's crude oil imports hit a record high in the year to Feb, as did iron ore ausbiz  
+s1moncox	707059122483695618	2016-03-08T04:23:25	peter_tl They don't. Their probabilities reflect a panel of 35 countries including Japan 
+s1moncox	707021753164369920	2016-03-08T01:54:56	Credit booms aren't *quite* as scary in surplus countries. Quantifying "quite":  
+s1moncox	707020877058199552	2016-03-08T01:51:27	Noahpinion Others have documented an interaction between the credit ratio &amp; trade balance  
+s1moncox	707020082665357312	2016-03-08T01:48:18	Noahpinion 
+s1moncox	707018044019761152	2016-03-08T01:40:12	Noahpinion I'm glad you're 'problematizing' the folk theory. But FWIW, I don't think Drehmann's BIS work can be accused of look-ahead bias
+s1moncox	707017361015050240	2016-03-08T01:37:29	Noahpinion That's not the only thing he has in common with Luke, apparently 
+s1moncox	707016548058271745	2016-03-08T01:34:15	Noahpinion At times, Krugman seems to believe something like the folk theory in China's case 
+s1moncox	706990923012554752	2016-03-07T23:52:25	Rebalancing without recession | FT Alphaville 
+s1moncox	706851238340644864	2016-03-07T14:37:22	RajaKorman I don't think Cracker Barrel has a branch in Kowloon. 
+s1moncox	706848733749706752	2016-03-07T14:27:25	RajaKorman Agreed. Some unbankable projects can be socially valuable, especially when labour would otherwise be idle
+s1moncox	706848059196575744	2016-03-07T14:24:44	RajaKorman ...c) I don't think China will lose the ability to revive lending and demand if necessary to restore actual GDP to potential.
+s1moncox	706847673102503936	2016-03-07T14:23:12	RajaKorman ...b) the banks are owned by a deep-pocketed government and so will not break credit chains or cease functioning...and
+s1moncox	706847436090843137	2016-03-07T14:22:16	RajaKorman ...a) Chinese credit claims operate a bit like equity claims elsewhere (rollovers/implicit writedowns)...
+s1moncox	706846992773812225	2016-03-07T14:20:30	RajaKorman My hunch is that a Chinese credit bust would look more like an equity bust elsewhere, because...
+s1moncox	706846733884637184	2016-03-07T14:19:28	RajaKorman But in equity busts, the transmission of losses is much smoother
+s1moncox	706846503596400640	2016-03-07T14:18:33	RajaKorman In credit bubbles, those secondary losses can be greater than the primary ones. (Think of NPLs inducing a bank run.)
+s1moncox	706845998472151044	2016-03-07T14:16:33	RajaKorman And the 'secondary losses' that arise when people scramble to avoid being the ones to take those primary losses.
+s1moncox	706845756490178560	2016-03-07T14:15:35	RajaKorman There's the 'primary' loss from the bubbly/overbuilt sector falling in value...
+s1moncox	706845482530770945	2016-03-07T14:14:30	RajaKorman I sometimes distinguish between two kinds of losses...
+s1moncox	706844440267194368	2016-03-07T14:10:21	RajaKorman I think wealth losses can vary a lot in how disruptive they are to ongoing production/GDP
+s1moncox	706843162111770624	2016-03-07T14:05:17	RajaKorman I made the comparison for slightly different reasons
+s1moncox	706825436257505281	2016-03-07T12:54:50	RajaKorman Well stock AND land-price bubble
+s1moncox	706824048140013568	2016-03-07T12:49:19	RajaKorman I sometimes think that a China credit bust would look a bit like the US dotcom bust, because of the way losses are allocated
+s1moncox	706823521175994368	2016-03-07T12:47:14	RajaKorman This fascinating paper provides a framework for thinking about equity vs credit bubbles 
+s1moncox	706822898800058368	2016-03-07T12:44:45	RajaKorman I've often pondered this question in relation to China
+s1moncox	706814564730576897	2016-03-07T12:11:38	Noahpinion I'm sympathetic. But have u seen Drehmann on credit as an early warning signal?  
+s1moncox	706808189719879680	2016-03-07T11:46:18	prchovanec S_Rabinovitch The soberlook chart didn't show a ratio to GDP. That's why it was misleading.
+s1moncox	706791586466766848	2016-03-07T10:40:20	KangHexin chinaeconreview FWIW, the economic census reports figures for private employment in IT and research. 
+s1moncox	706755827542138880	2016-03-07T08:18:14	prchovanec S_Rabinovitch Because if the money expansion was purely inflationary, it would've been hard to sustain the RMB's peg to the $
+s1moncox	706755404278177792	2016-03-07T08:16:33	prchovanec S_Rabinovitch Expressing GDP in $ terms helps answer the worry that China's money expansion was purely inflationary
+s1moncox	706754778991353856	2016-03-07T08:14:04	prchovanec S_Rabinovitch Excluding investment helps overcome Patrick's worries about an investment binge
+s1moncox	706753882450468864	2016-03-07T08:10:31	prchovanec S_Rabinovitch A good compromise chart would show the ratio of China's M2 (in RMB) to its non-investment GDP (in $) with 2000=1
+s1moncox	706747836885540864	2016-03-07T07:46:29	prchovanec S_Rabinovitch Your thinking should include China's relatively modest pace of inflation and its fast growth of consumption
+s1moncox	706745234852548608	2016-03-07T07:36:09	prchovanec S_Rabinovitch Patrick, you surely don't think China's M2 should have grown at the same pace as America's since 2000?
+s1moncox	706734106906914816	2016-03-07T06:51:56	S_Rabinovitch Ha! If China's M2 hadn't outstripped America's, China's prices would've needed to drop by like 30-40% (to satisfy MV=PY).
+s1moncox	706680353679941633	2016-03-07T03:18:20	In theory, zero rates would be more stimulative in China than in Japan, US et al, because its neutral rate is higher 
+s1moncox	706140722240561152	2016-03-05T15:34:02	A recent attempt to calculate a 'finance-neutral' potential growth rate for China  
+s1moncox	706137391074037762	2016-03-05T15:20:48	China watchers seem to have embraced the BIS view of potential growth.  
+s1moncox	705985740585439232	2016-03-05T05:18:11	peter_tl comradewong Partly because they assumed excessive debt would show up in inflation and/or trade deficits, which they didn't ignore
+s1moncox	705966206554128384	2016-03-05T04:00:34	It's funny how everyone now talks about debt like it's a factor of production.  
+s1moncox	705965776168198144	2016-03-05T03:58:51	Handy list of China's SOE mergers   (one of several 'highlight boxes' in this year's NDRC report) 
+s1moncox	705960479253012482	2016-03-05T03:37:49	China's planners say that 64.2% of fixed-asset investment in 2015 was nongovernmental. (In 2014 it was 64.1%!) 
+s1moncox	705957891421896704	2016-03-05T03:27:32	peter_tl It'll largely depend on a) the propensity to hoard &amp; b) the share of credit spent on new production not existing assets
+s1moncox	705953850663026688	2016-03-05T03:11:28	China says it cut central-government spending on hospitality, vehicles &amp; overseas travel by 11.7% last year 
+s1moncox	705952573879099392	2016-03-05T03:06:24	You can download and search China's lianghui reports here, thanks to ChinaRealTime 
+s1moncox	705941993306857472	2016-03-05T02:24:21	Sounds like China is aiming "to promote effectively the goals of maximum employment, stable prices" 
+s1moncox	705822232489033728	2016-03-04T18:28:28	I analyze China's new Supply Side Reform Initiative in new China Leadership Monitor  via hooverinst
+s1moncox	705698641403645953	2016-03-04T10:17:22	lutyenslafanga dubeyamitabh Public investment crowds in private investment in the post-1980 period (and that's the period we're in).
+s1moncox	705696226910588928	2016-03-04T10:07:46	dubeyamitabh lutyenslafanga It's estimated over the period 1996q2-2015q1, I believe
+s1moncox	705545621466435584	2016-03-04T00:09:19	mirandabencomo Seems to be a forthcoming IMF working paper by Cashin, Mohaddes and Raissi (2016)
+s1moncox	705379780716269568	2016-03-03T13:10:19	t0nyyates Yd=Y is *not* goods market clearing. It's Yd=Y=Ys. Young guys never read Clower, Benassy etc. Don't understand monetary exchange.
+s1moncox	705156339052486656	2016-03-02T22:22:27	Is China's 13th Five-Year Plan reformist or more of the same? See critical commentary in new CSIS report: .
+s1moncox	705064270610849793	2016-03-02T16:16:36	EM corporate debt by country and currency  
+s1moncox	705063734633324544	2016-03-02T16:14:28	Which EMs have an adequate reserve buffer?  
+s1moncox	705061703499681792	2016-03-02T16:06:24	A 1% decline in China's GDP (relative to baseline) lowers oil prices by 6.5%, according to this study 
+s1moncox	705060811094360064	2016-03-02T16:02:51	A China slowdown has surprisingly little impact on Australia, Japan &amp; India, this study says  
+s1moncox	705058673337331712	2016-03-02T15:54:21	In India, an extra rupee of public investment crowds in Rs1.1–1.25 of private investment after 2 years-IMF Article 4 
+s1moncox	705056868004208640	2016-03-02T15:47:11	China's central-bank balance sheet has stopped shrinking  
+s1moncox	704567999190188032	2016-03-01T07:24:35	China's population aged 15-64 (a common international definition of working age) shrank by 1.08m or 0.1% in 2015 
+s1moncox	704556892358643712	2016-03-01T06:40:27	China's production of industrial robots grew 21.7% in 2015. 
+s1moncox	704553890872741888	2016-03-01T06:28:32	China's direct investment in "belt &amp; road" countries was $14.8b last year (12.5% of China's total ODI) 
+s1moncox	704463425422942210	2016-03-01T00:29:03	M_C_Klein nicoffx DavidKeo That's probably also true (ie A&lt;B). (I don't know Zhiwei's position on it.) 
+s1moncox	704454227498831872	2016-02-29T23:52:30	M_C_Klein nicoffx DavidKeo Only if B were greater than A would China's true trade surplus be bigger
+s1moncox	704453827915866112	2016-02-29T23:50:55	modestproposal1 M_C_Klein nicoffx DavidKeo Just to stir things up a bit, remember this? 
+s1moncox	704453138846261249	2016-02-29T23:48:11	M_C_Klein nicoffx DavidKeo Zhiwei's argument in this note has no implications for trade surplus. Balding's argument suggests it's smaller
+s1moncox	704452524548476928	2016-02-29T23:45:44	M_C_Klein nicoffx DavidKeo Balding argues A=C&gt;B because China is really importing much more than we think.
+s1moncox	704452289038327808	2016-02-29T23:44:48	M_C_Klein nicoffx DavidKeo In this note, Zhiwei assumes A=B&lt;C because some capital outflows are reported to banks as import payments.
+s1moncox	704451864318885888	2016-02-29T23:43:07	M_C_Klein nicoffx DavidKeo Let A=What China really imports, B=What China tells customs it imports, C=What China tells banks it imports
+s1moncox	704272958827720705	2016-02-29T11:52:12	BaldingsWorld peter_tl I *think* I know where you're headed. 
+s1moncox	704266296184184832	2016-02-29T11:25:44	peter_tl Although, tbf, the relevant comparison is capital outflows over and above those offset by the current-account surplus.
+s1moncox	704260531113369600	2016-02-29T11:02:49	duncanik You think the binding constraint to China's growth is on the supply side?
+s1moncox	704190479567552516	2016-02-29T06:24:28	China's share of world exports growing even faster w/ slowing global trade 
+s1moncox	704109426165325824	2016-02-29T01:02:23	Does China really have a trade surplus? Some comments on the post by BaldingsWorld 
+s1moncox	703879096376414208	2016-02-28T09:47:08	China's imports &lt; import payments reported to banks, as BaldingsWorld says. The gap correlates with NEO in the BoP 
+s1moncox	702285468646428672	2016-02-24T00:14:38	.BaldingsWorld You've confused the contribution of China's trade surplus to GDP with its contribution to GDP growth 
+s1moncox	702245632623439873	2016-02-23T21:36:20	How did Takahashi Korekiyo rescue Japan from the Depression? 2013 VAR study  
+s1moncox	702158636827734016	2016-02-23T15:50:39	chinaspooncn That link from 2013 doesn't include any numbers.
+s1moncox	702157558384087040	2016-02-23T15:46:22	ericbeebo Some analysts think so.
+s1moncox	702153269385232388	2016-02-23T15:29:19	China's SAFE adds extra options data to Jan FX settlement figures. Wonder if there'll be a rush of punditry on that? 
+s1moncox	701564298326364161	2016-02-22T00:28:57	China's FX flow data: the movie version    By chinaspooncn 
+s1moncox	700986387668062208	2016-02-20T10:12:33	So China's central bank is no longer publishing the black line? I guess I'll live.  
+s1moncox	700612710581428226	2016-02-19T09:27:41	WeiDuCNA BaldingsWorld berthofmanecon AdamMinter TBH, most people seem to prefer the SAFE fx settlement data anyway
+s1moncox	700611407432126464	2016-02-19T09:22:30	WeiDuCNA BaldingsWorld berthofmanecon AdamMinter It's the m/m change in the position that you need to look at.
+s1moncox	700602836137062400	2016-02-19T08:48:27	BaldingsWorld WeiDuCNA berthofmanecon AdamMinter  Compare:   And:    外汇买卖 and 中央银行外汇占款
+s1moncox	700591965893603331	2016-02-19T08:05:15	BaldingsWorld berthofmanecon The SCMP article does mention the 24.2trn.
+s1moncox	700499578072600576	2016-02-19T01:58:08	You dun need to elbow your way to take selfies w/ random mall decorations in HK anymore, said CreditSuisse analysts 
+s1moncox	700319254659342336	2016-02-18T14:01:36	The first use of 'trilemma'  
+s1moncox	700312862783356929	2016-02-18T13:36:12	ericbeebo not saying it will happen. Just auditioning for role as junior G20 Sherpa for global financial repression.
+s1moncox	699599380324708352	2016-02-16T14:21:04	The IMF metric suggests China needs an FX-reserve BUFFER of $1.6-$2.6T*. It doesn't say the buffer should never be used.  *End-14 data
+s1moncox	699572739594723329	2016-02-16T12:35:13	Japan's corporate hoarding  
+s1moncox	699571961115103232	2016-02-16T12:32:07	Japan's natural (real) interest rate has been negative for years, reckon BoJ economists  
+s1moncox	699568843392307200	2016-02-16T12:19:44	In designing NIRP "we benefited.. from the wisdom &amp; experiences of.. central banks in Europe" -BoJ Deputy Governor 
+s1moncox	699566635833647104	2016-02-16T12:10:57	peter_tl 
+s1moncox	699565628227588099	2016-02-16T12:06:57	biocapitalnl No. To qualify as external, debt has to be owed by a resident to a nonresident. 
+s1moncox	699564529366093825	2016-02-16T12:02:35	According to SAFE, 47% of China's external debt is in RMB 
+s1moncox	699563790124191744	2016-02-16T11:59:39	What's in China's FX reserves? Not the FX used to help China's firms "go global", says SAFE  
+s1moncox	699562305319636993	2016-02-16T11:53:45	Detailed SAFE Q&amp;A (in English) on China's capital flows HT ericbeebo 
+s1moncox	699451531637051392	2016-02-16T04:33:34	ericbeebo Thanks for this. BTW, SAFE don't seem to break out errors &amp; omissions in prelim BoP figures, see eg Q3 
+s1moncox	699427907001651200	2016-02-16T02:59:42	kmac Can you elaborate?
+s1moncox	699427491853660160	2016-02-16T02:58:03	JohnDelury I wonder who is North Korea's best South Korea economist.
+s1moncox	699390005471485952	2016-02-16T00:29:05	GrantLewis1 Birdyword DuncanWeldon Compared with the prior trend of deflation, even weak inflation is notable 
+s1moncox	699386766982303745	2016-02-16T00:16:13	georgemagnus1 HK
+s1moncox	699249189285445634	2016-02-15T15:09:32	At its 2015 growth rate, Japan's nominal GDP will reach Abe's ¥600 trillion target in 2023.
+s1moncox	699248326764527616	2016-02-15T15:06:07	Birdyword RajaKorman georgemagnus1 The BoJ also recommends this CPI measure 
+s1moncox	699247084659204096	2016-02-15T15:01:11	RajaKorman georgemagnus1 I think George was being tongue-in-cheek.
+s1moncox	699243143754072064	2016-02-15T14:45:31	In 2015, Japan's nominal GDP grew at its fastest pace for 23 years. 
+s1moncox	699161834297757696	2016-02-15T09:22:25	georgemagnus1 How did you reach that calculation?
+s1moncox	699052691465465856	2016-02-15T02:08:44	A bio of Phillips coming out this year, by former RBNZ governor Alan Bollard 
+s1moncox	699046832433979392	2016-02-15T01:45:27	Macr0man It's interesting that lending to eurozone households does seem to have picked up in the NIRP era. 
+s1moncox	699043852691361792	2016-02-15T01:33:36	Macr0man OK. But if deposit rates don't fall (much), households won't have to save (much) more to increase their interest income.
+s1moncox	699041708860928000	2016-02-15T01:25:05	Macr0man But if NIRP increases household saving, will it also repel deposits &amp; hurt the banks? Will households really stuff mattresses?
+s1moncox	698828536312918016	2016-02-14T11:18:01	s1moncox caixin English translation of the interview available by efforts of Cnspoon team! 
+s1moncox	698812554794106880	2016-02-14T10:14:31	It's true that Japan weathered deflation quite well, but only because it was prepared to run big fiscal deficits 
+s1moncox	698811776251592704	2016-02-14T10:11:25	So negative rates cause both credit crunches and property speculation? 
+s1moncox	698771060678922240	2016-02-14T07:29:38	KeithBradsher I'll DM you.
+s1moncox	698722817781723136	2016-02-14T04:17:56	KeithBradsher One nit: BoP data suggest it's $1T over the last 6 quarters, as the charticle says, not over the last year, as article says
+s1moncox	698445178626052096	2016-02-13T09:54:41	Long and timely caixin interview with Zhou Xiaochuan (in Chinese): 
+s1moncox	698443267122270208	2016-02-13T09:47:05	According to this paper, the disillusioned French Left did more than neoliberal America to codify free capital flows 
+s1moncox	698441453236842496	2016-02-13T09:39:53	"after a year, exchange controls are effective only against the poor"-Camdessus 2004  
+s1moncox	698438857277247489	2016-02-13T09:29:34	The IMF's passion for freer capital flows in the mid-90s was partly motivated by France's mistakes in the early 80s 
+s1moncox	698433273966563328	2016-02-13T09:07:23	Capital controls (of some kind) are the post-war norm not the exception:  
+s1moncox	698374630168514560	2016-02-13T05:14:21	"Capital controls have a bad name." The history of why:  
+s1moncox	698034747600039936	2016-02-12T06:43:47	econofpak In which case, the IMF is likely to radically revise its recommended minimum.
+s1moncox	698034366081929217	2016-02-12T06:42:16	vshih2 6 months from now will be 12 months from mid-August 2015
+s1moncox	698031570561560576	2016-02-12T06:31:09	12 months into the storm, China's FX reserves will hit the IMF's recommended minimum for weathering a storm 
+s1moncox	697756987631792128	2016-02-11T12:20:04	interfluidity Re: that blogpost, you might like this footnote from Alfred &amp; Mary Marshall. 
+s1moncox	697077053099626497	2016-02-09T15:18:15	A treat and a treasure 
+s1moncox	697021899910414336	2016-02-09T11:39:05	DavidKeo TheBuddhaSmiled It must be possible to work this in somewhere: 
+s1moncox	696936981192904706	2016-02-09T06:01:39	dandolfa Suppose the safe-asset market can only clear if P falls. What if P can only fall if wages fall, what if w only fall if unemp rises
+s1moncox	696932425876795392	2016-02-09T05:43:33	dandolfa Your post requires lowflation to clear the market for M+B. But unless P is very flexible, lowflation will require underemployment.
+s1moncox	696929688875356160	2016-02-09T05:32:40	dandolfa  Not quite. I asked: why is inflation so low IF current growth is as good as it gets (by which I mean not demand-constrained).
+s1moncox	696925786960457733	2016-02-09T05:17:10	dandolfa Your post is explaining why expansionary monetary policy might be ineffective not why it might be unwarranted.
+s1moncox	696924476471177216	2016-02-09T05:11:58	dandolfa Interesting, but it seemed to be answering a different question to the one (I thought) berthofmanecon had posed.
+s1moncox	696920939272019968	2016-02-09T04:57:54	Noahpinion berthofmanecon Q: If central banks stopped believing in the Phillips Curve, would policy be looser or tighter than it is now?
+s1moncox	696919137185091584	2016-02-09T04:50:45	Noahpinion berthofmanecon It would be nice to find out.
+s1moncox	696909031827337217	2016-02-09T04:10:35	dandolfa ... wouldn't wage behaviour allow us to distinguish between "good" deflation and bad deflation?
+s1moncox	696907685879386112	2016-02-09T04:05:14	dandolfa Because we now have active macro policy, so we don't have to slide up and down the AD curve.
+s1moncox	696903058475741184	2016-02-09T03:46:51	berthofmanecon The price level only needs to fall if demand growth falls short of supply growth. But you are positing a slowdown in supply.
+s1moncox	696898744487272448	2016-02-09T03:29:43	If current growth is as good as it gets, why is inflation so low? 
+s1moncox	696499952349016066	2016-02-08T01:05:03	-1618 is an earlier, unrevised figure for Q3 ytd. The -1321 is the revised figure for Q3 ytd not for the full year. 
+s1moncox	696498252066250752	2016-02-08T00:58:18	This data provider reports 0 for Q4 because China doesn't break out the quarter's NEO in its preliminary BoP release 
+s1moncox	696487510684393472	2016-02-08T00:15:37	The trilemma: you can have any 2 out of stable currency, free capital flows, independent monetary policy. China: can I take 2/3 of each?
+s1moncox	696343530399260672	2016-02-07T14:43:29	Here's something I wrote about it before its introduction:  
+s1moncox	696342027043258368	2016-02-07T14:37:31	The 10th anniversary of Indian workfare HT mihirssharma 
+s1moncox	696314458084401153	2016-02-07T12:47:58	BaldingsWorld georgemagnus1 -1618 is unrevised total for q1-q3. -1321 is the revised total for the *same* period. 
+s1moncox	696314079846252544	2016-02-07T12:46:28	BaldingsWorld georgemagnus1 -717 is from SAFE's 2nd Q3 release. It was later revised down to -606. 
+s1moncox	696303016174080000	2016-02-07T12:02:30	BaldingsWorld georgemagnus1 To repeat: they haven't broken out NEO for Q4 yet + the online .xls doesn't yet include last week's data.
+s1moncox	696301787679215618	2016-02-07T11:57:37	georgemagnus1 BTabrum BaldingsWorld pmarca 
+s1moncox	696301230654648325	2016-02-07T11:55:24	BaldingsWorld georgemagnus1 This screenshot is straight from SAFE. I can't answer for your data provider. 
+s1moncox	696299813177057280	2016-02-07T11:49:46	BTabrum BaldingsWorld georgemagnus1 In India's defence, MOSPI has been v. open about its methodological changes 
+s1moncox	696299077676486656	2016-02-07T11:46:51	BaldingsWorld georgemagnus1 AFAICT in later releases, neo are broken out of the total, not added to it.
+s1moncox	696297472478552065	2016-02-07T11:40:28	BaldingsWorld georgemagnus1 pmarca -1321 is the cumulative figure for Q1-Q3. 
+s1moncox	696296364075053058	2016-02-07T11:36:04	BaldingsWorld georgemagnus1 pmarca Look at provisional release for Q3: NEO aren't broken out either 
+s1moncox	696294534553198592	2016-02-07T11:28:48	BaldingsWorld georgemagnus1 pmarca That's Q4 not Dec. China's preliminary BoP figures never break out NEO.
+s1moncox	696293050092515328	2016-02-07T11:22:54	georgemagnus1 pmarca That includes net errors &amp; omissions: explicitly for Q1-3; implicitly for Q4.
+s1moncox	696292431998939136	2016-02-07T11:20:26	georgemagnus1 pmarca Non-FDI capital flows last year were -$713.6b. 
+s1moncox	696269502657462272	2016-02-07T09:49:20	ryanavent Dunno. They haven't told me ;) Small clampdowns are already happening of course.
+s1moncox	696268712740052993	2016-02-07T09:46:11	Worth remembering that thanks to China's current-account surplus, it can sustain c.$290b p.a of capital outflows without any dip in reserves
+s1moncox	696267132607266816	2016-02-07T09:39:55	ryanavent Agreed. I still think it's 'fun' to do the simple calendar maths.
+s1moncox	696264990727213056	2016-02-07T09:31:24	ryanavent So the game's up as soon as it starts?
+s1moncox	696263363131744256	2016-02-07T09:24:56	At this pace, China's reserves will be exhausted by October...2018. 
+s1moncox	696260834402693122	2016-02-07T09:14:53	Lingling_Wei But don't these calculations show what China would need before a storm, not in the middle of one? 
+s1moncox	696162352379641857	2016-02-07T02:43:33	Oh, that reluctance to tolerate mass joblessness 
+s1moncox	696156689985359873	2016-02-07T02:21:03	Voila. They've corrected it. A missing 3. Mystery solved. 
+s1moncox	696155745860116480	2016-02-07T02:17:18	Hmm. I'm wondering if that gold figure is a misprint. The components of China's January reserve assets don't seem to add up to the total.
+s1moncox	696153627287810048	2016-02-07T02:08:53	China's FX reserves fell $99.47b to $3.23t in Jan. (Big drop in gold too, it seems.)  
+s1moncox	695909971591098368	2016-02-06T10:00:41	Lovely Kotlikoff rendition of Samuelson '58 &amp; overlapping generations  
+s1moncox	695776267300442112	2016-02-06T01:09:23	xiongtx That's right. I was trying to be "funny".
+s1moncox	695775618739343360	2016-02-06T01:06:49	xiongtx It's from China's integrated household survey, which they developed with help from Statistics Canada. 
+s1moncox	695635225448206336	2016-02-05T15:48:56	Did China have enough reserves? This is what the IMF thought before the storm:  
+s1moncox	695633739012009985	2016-02-05T15:43:02	Do countries hold reserves so they don't have to bow immediately to market forces or do they bow to market forces so they can keep reserves?
+s1moncox	695621635924168704	2016-02-05T14:54:56	DavidBeckworth ChinaRealTime In which case the notion of 'reserve adequacy' is largely meaningless &amp; won't determine when Beijing floats
+s1moncox	695591719081873409	2016-02-05T12:56:03	BaldingsWorld I think you have a narrow definition of currency speculation. Mine is self-fulfilling depreciation expectations.
+s1moncox	695585846263611392	2016-02-05T12:32:43	So China will cave in to currency speculation to safeguard the reserves it needs to see off currency speculation? 
+s1moncox	695526140836904960	2016-02-05T08:35:28	peter_tl "third-world debt crisis" is a bit of a tell
+s1moncox	695523937975808000	2016-02-05T08:26:43	peter_tl lovely obit
+s1moncox	695499035277398016	2016-02-05T06:47:46	dasvee CBO projections for US potential growth are similarly bland.
+s1moncox	695498861507379200	2016-02-05T06:47:04	dasvee Note they're 5-year averages of *potential* growth. Plus not easy to project a wiggle in, say, 2025. It might wiggle, but which way?
+s1moncox	695492679669583872	2016-02-05T06:22:31	Jesse_Livermore Meade 77 
+s1moncox	695489160489103360	2016-02-05T06:08:32	TheStalwart Jesse_Livermore Some thinking along these lines:   
+s1moncox	695461880203071488	2016-02-05T04:20:07	ANicholson_IG KangHexin 
+s1moncox	695448024999264257	2016-02-05T03:25:04	KangHexin Preliminary BoP figures don't distinguish net errors &amp; omissions, as I understand it. E.g. 
+s1moncox	695444701025972224	2016-02-05T03:11:52	China reported a big drop in net FDI in 2015, thanks to a big increase in outward direct investment 
+s1moncox	695444124745355264	2016-02-05T03:09:34	BoP 'til you drop: China's balance of payments. 
+s1moncox	695419675870515200	2016-02-05T01:32:25	Fairly optimistic projection of China's long-run potential growth by Bai Chong'en et al  
+s1moncox	695414775795167232	2016-02-05T01:12:57	WorthWray I see 2 different questions: How big was the outflow? ($342b) How much ammo did they lose? ($513b) Both matter.
+s1moncox	695262362912362498	2016-02-04T15:07:19	Krugman used to say that China selling USTs was a form of quantitative easing not tightening  
+s1moncox	695255302296494080	2016-02-04T14:39:15	M_C_Klein Should China raise interest rates?
+s1moncox	695250013627277312	2016-02-04T14:18:15	China's problems are Minskyian. But so are its solutions ("Big Bank, Big Government" etc).  
+s1moncox	695226552653512704	2016-02-04T12:45:01	Name 1 thing more annoying than separate, multilingual flight announcements interrupting a movie. I cld hv finished Room (well, no, but)
+s1moncox	695222067915026432	2016-02-04T12:27:12	For the avoidance of confusion: China's FX reserves fell by $512.7 billion last year, of which $170.3 billion was due to valuation effects.
+s1moncox	695218052040941568	2016-02-04T12:11:14	DanielaGabor JoMicheII BaldingsWorld Here's a link &amp; a google translation  
+s1moncox	695217541933826048	2016-02-04T12:09:13	BaldingsWorld JoMicheII China's foreign-exchange reserves are valued in dollars not in CNY.
+s1moncox	695213665264402432	2016-02-04T11:53:48	JoMicheII Not yet. It's just fx reserves drop vs change in reserves recorded in balance of payments cc BaldingsWorld
+s1moncox	695212313628921857	2016-02-04T11:48:26	JoMicheII No. Also asset price falls. (Note the calculation is for 2015 as a whole.)
+s1moncox	695210912693661696	2016-02-04T11:42:52	BaldingsWorld 
+s1moncox	695209155754262528	2016-02-04T11:35:53	So 1/3 of last year's drop in China's FX reserves was a valuation effect.
+s1moncox	695200937783103489	2016-02-04T11:03:14	AaronBack KeithBradsher paulmozur So non-FDI capital outflows were $713.6b (including errors &amp; omissions)
+s1moncox	695196678245101568	2016-02-04T10:46:18	AaronBack KeithBradsher paulmozur I think that figure includes net FDI, no?
+s1moncox	692715927784259585	2016-01-28T14:28:41	COLUMN-How to explain China's surprising metals trade figures?  
+s1moncox	695075521013641216	2016-02-04T02:44:52	China's GDP deflator. Is there another one like it?  
+s1moncox	695065364321935360	2016-02-04T02:04:31	PBoC researcher cites a Li Keqiang index. (It's not looking good.)  
+s1moncox	695038270435106818	2016-02-04T00:16:51	The BoJ hasn't really decided how big the pink shape will be  
+s1moncox	694914056231198720	2016-02-03T16:03:16	BaldingsWorld It's mislabeled. It's the urban-hukou-holders-under-50-who-can&amp;do-claim-meagre-benefits rate.
+s1moncox	694908932859510789	2016-02-03T15:42:55	China's official unemployment rate doesn't purport to measure what everyone says it fails to measure 
+s1moncox	694907827379425280	2016-02-03T15:38:31	kocherlakota009 mileskimball no "innovations of a magnitude sufficient to absorb large capital outlays"-Hansen '38 
+s1moncox	693421799321812992	2016-01-30T13:13:34	mileskimball with current demand shortfall - 4% growth for at least 4 yrs is possible with *demand* stimulus ...
+s1moncox	693018587288735744	2016-01-29T10:31:21	MacRoweNick Thx. You think of negative rates as a subsidy (on velocity?); jp_koning thinks they remove a subsidy. Or have I misread you?
+s1moncox	693006072039247872	2016-01-29T09:41:37	MacRoweNick You've demystified them, but do you think they'll help?
+s1moncox	692967166694539264	2016-01-29T07:07:01	Some people still don't think Abenomics has made a difference 
+s1moncox	692546330883964931	2016-01-28T03:14:46	PBOC injections have kept rates low and stable, despite outflows and seasonal liquidity pressure davidmwessel 
+s1moncox	692514456040030209	2016-01-28T01:08:07	The human cost of China's rebalancing by tomphillipsin 
+s1moncox	691627810637611008	2016-01-25T14:24:54	georgemagnus1 I like "polite power" better than the original phrase.
+s1moncox	691353369642934272	2016-01-24T20:14:22	BaldingsWorld Noahpinion georgemagnus1 So you think China's unemployment rate is 77%?
+s1moncox	691341927720026112	2016-01-24T19:28:54	BaldingsWorld georgemagnus1 Noahpinion Total employed persons is 774.51 million--and still rising (a bit)  
+s1moncox	691334950608592896	2016-01-24T19:01:11	Noahpinion 15-64 hasn't fallen much yet. 
+s1moncox	691326470971637761	2016-01-24T18:27:29	Noahpinion 16-59... (BTW employment is still rising.)
+s1moncox	691281319079313410	2016-01-24T15:28:04	leosven "It's levels, stupid."--Mervyn King, August 2009  
+s1moncox	691268430280970242	2016-01-24T14:36:51	Excluding the frenzied financial sector, China's GDP slowed in 2015H1 and has recovered a bit since HT CapEconChina 
+s1moncox	691145434253955072	2016-01-24T06:28:07	China's external debt fell by 9% in 2015Q3, the quarter after its devaluation. 
+s1moncox	691048900669652993	2016-01-24T00:04:31	New blog post, on the various possible Phillips curves. 
+s1moncox	690342771207622656	2016-01-22T01:18:37	choyleva Hi. How are you measuring Chinese wages as a % of GDP? From this table? 
+s1moncox	690144225187532800	2016-01-21T12:09:40	modestproposal1 Macr0man I like that "somewhat".
+s1moncox	690143650882416640	2016-01-21T12:07:23	choyleva DanielaGabor Wouldn't higher interest rates accompany a stronger yuan?
+s1moncox	690143296434364417	2016-01-21T12:05:58	DanielaGabor Assuming full employment.
+s1moncox	690140102073421824	2016-01-21T11:53:17	DanielaGabor A stronger currency switches spending from foreign to domestic, but why from investment to consumption? Through higher r?
+s1moncox	690001766222581760	2016-01-21T02:43:35	Of course if oil prices were very high &amp; rising, analysts would be just as quick to blame them for this kind of slow growth &amp; market unease
+s1moncox	689647206782099456	2016-01-20T03:14:41	So in 2015, Chinese finance grew by 23% and Chinese industry grew by 0.4% in nominal terms. 
+s1moncox	689646518060650497	2016-01-20T03:11:57	Wow. China's financial sector grew by 23% last year in nominal terms.  
+s1moncox	689640568989880320	2016-01-20T02:48:19	The disposable income of China's poorest 20% grew by 10% last year (in nominal terms).  
+s1moncox	689639805068664832	2016-01-20T02:45:17	Chinese inequality narrowing? China's richest 20% had 10.4x the disposable income per capita of the poorest 20% in 2015; 10.7x in 2014.
+s1moncox	689461914280144896	2016-01-19T14:58:24	.martinwolf_ Some perspective on China's "very high" capital-output ratio  
+s1moncox	689423486431801344	2016-01-19T12:25:42	Peak overcapacity: China's output of crude steel, iron, coal, plate glass and, yes, even cement all fell last year 
+s1moncox	689368355447308288	2016-01-19T08:46:38	LukasSustala The IMF implicitly forecast that USDCNY would average 6.08 in 2015. Seems quaint now.
+s1moncox	689363988484751360	2016-01-19T08:29:17	To avoid confusion, my point was that electricity is a poor proxy for GDP in the U.S and, increasingly, China.
+s1moncox	689358364564914176	2016-01-19T08:06:56	LukasSustala I used quarterly averages
+s1moncox	689355217352155136	2016-01-19T07:54:26	georgemagnus1 I made a chart along similar lines 
+s1moncox	689353729695424512	2016-01-19T07:48:31	Electricity data clearly show the government has started fiddling the GDP figures ;) 
+s1moncox	689352181284212736	2016-01-19T07:42:22	Noahpinion S_Rabinovitch Except by electricity, which is apparently a much better measure, China's already #1 ;) 
+s1moncox	689304869950337025	2016-01-19T04:34:22	Austan_Goolsbee The electricity intensity of China's GDP is higher than America's. But it's also changing faster (I would guess).
+s1moncox	689299640118853632	2016-01-19T04:13:35	Austan_Goolsbee tylercowen US electricity consumption shrank by 1.1% in the year to October. 
+s1moncox	689298500169891840	2016-01-19T04:09:03	Despite the decline in China's working-age population, employment (especially urban employment) is still growing
+s1moncox	689297450444664833	2016-01-19T04:04:53	China's urban population grew faster last year than in 2014 or 2013.
+s1moncox	689292340134043649	2016-01-19T03:44:34	China's property investment grew by just 1% in nominal terms &amp; exports fell by 1.8%. It's actually amazing things aren't worse.
+s1moncox	689289562590433280	2016-01-19T03:33:32	So China is still not an $11 trillion economy ($10.9 trillion by my reckoning).
+s1moncox	689287530311725056	2016-01-19T03:25:28	alexfrangos Actually, disposable income is up 7.4% in real terms, 8.9% in nominal terms. 
+s1moncox	689285265538584576	2016-01-19T03:16:28	The slowdown in China's nominal GDP &amp; dollar GDP has been quite brutal 
+s1moncox	688887926994944000	2016-01-18T00:57:35	Unbate your breath: China's latest Statistical Yearbook is now available for free online 
+s1moncox	687779651905830912	2016-01-14T23:33:41	GavinHJackson what's the best alternative?
+s1moncox	685045477646073856	2016-01-07T10:29:04	PBC still keeps RMB basket stable within a band.  Is it time to call it their policy? 
+s1moncox	679118754706407425	2015-12-22T01:58:23	Japan's non-financial firms, as a group, consistently lend more to the rest of the economy than they borrow from it. 
+s1moncox	679104882809303040	2015-12-22T01:03:15	"Doing better on the demand side could spill over in v. helpful ways for the supply side" Kocherlakota via pdacosta 
+s1moncox	676597825153581057	2015-12-15T03:01:06	Behold: a 2016 outlook entirely free of the word "divergence"!  ("Contrast" appears thrice.) cc justinaknope 
+s1moncox	676341434413289472	2015-12-14T10:02:18	I wonder how many of the currencies against which the yuan may be managed are implicitly managed against the yuan 
+s1moncox	676337837764030464	2015-12-14T09:48:00	The dollar's weight in China's new currency basket is only 26.4% but the combined weight of the USD &amp; HKD is 32.95% 
+s1moncox	675166905813098497	2015-12-11T04:15:08	justinaknope It isn't easy: split, asynchronicity, parting of the ways, decoupling, bifurcation.
+s1moncox	674831053324849153	2015-12-10T06:00:35	HayekAndKeynes Well not everyone accepts that Abenomics has defeated deflation (&amp; the consumption-tax hike raised inflation but hurt NGDP)
+s1moncox	674617402772996096	2015-12-09T15:51:37	Export-led growth? How quaint.  
+s1moncox	674605880915066881	2015-12-09T15:05:50	Japan's nominal GDP growth over the past 11 quarters of Abenomics. Fastest since 1997. 
+s1moncox	673685928301322241	2015-12-07T02:10:16	It would be interesting to compare hours worked per working-age woman in both countries. 
+s1moncox	673681384666497025	2015-12-07T01:52:13	At the point in Japan's bond mkt where peeps saying banks would stop selling JGBs to BoJ if it took deposit rate -ve 
+s1moncox	673663774008565760	2015-12-07T00:42:14	BaldingsWorld Wider lesson (?): If your school of thought is marginalised / polarising, retreat into label-free empirical work in same vein
+s1moncox	673661196134776832	2015-12-07T00:31:59	BaldingsWorld duncanik It's good to be Austrian in a boom; bad in a bust.
+s1moncox	673646009969315840	2015-12-06T23:31:39	All of this work on "credit gaps", whilst being mostly empirical &amp; atheoretical, feels very Austrian HT duncanik 
+s1moncox	672309979731337216	2015-12-03T07:02:44	MichalakisCon I'm equally reluctant, but am conscious that my portfolios contain implicit return, vol *&amp;* correlation forecasts...
+s1moncox	672304321095077888	2015-12-03T06:40:15	berthofmanecon DavidKeo delong Lucas (1977)
+s1moncox	672084923793190912	2015-12-02T16:08:27	Japan needs wage &amp; price inflation of 5-10% for "several years", says adamposen (with Blanchard)  HT janzilinsky

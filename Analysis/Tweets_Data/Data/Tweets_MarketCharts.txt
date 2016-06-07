@@ -1,0 +1,353 @@
+MarketCharts	726077193386909696	2016-04-29T15:54:27	esimong Many thanks!
+MarketCharts	725929406724608004	2016-04-29T06:07:12	S&amp;P 500 Stocks With Daily RSI Above 70 [28-APR]:  5-Day:  14% 10-Day: 10% 14-Day: 7%  SPX SPY  Intraday data at 
+MarketCharts	725928136525811717	2016-04-29T06:02:09	S&amp;P 500 Stocks With Daily RSI Below 30 [28-APR]:  5-Day:  18% 10-Day: 7% 14-Day: 4%  SPX SPY  Intraday data at 
+MarketCharts	725926865630728192	2016-04-29T05:57:06	SPX Stocks Above Moving Averages [28-APR]:  3d:   25% 5d:   38% 10d:  48% 20d:  56% 50d:  75%  Intraday data at 
+MarketCharts	725566604587732992	2016-04-28T06:05:33	S&amp;P 500 Stocks With Daily RSI Above 70 [27-APR]:  5-Day:  39% 10-Day: 27% 14-Day: 17%  SPX SPY  Intraday data at 
+MarketCharts	725565334678282240	2016-04-28T06:00:30	S&amp;P 500 Stocks With Daily RSI Below 30 [27-APR]:  5-Day:  8% 10-Day: 4% 14-Day: 2%  SPX SPY  Intraday data at 
+MarketCharts	725564064747933696	2016-04-28T05:55:28	SPX Stocks Above Moving Averages [27-APR]:  3d:   77% 5d:   77% 10d:  70% 20d:  70% 50d:  80%  Intraday data at 
+MarketCharts	725204498147336192	2016-04-27T06:06:40	S&amp;P 500 Stocks With Daily RSI Above 70 [26-APR]:  5-Day:  28% 10-Day: 20% 14-Day: 12%  SPX SPY  Intraday data at 
+MarketCharts	725203228162449408	2016-04-27T06:01:37	S&amp;P 500 Stocks With Daily RSI Below 30 [26-APR]:  5-Day:  9% 10-Day: 4% 14-Day: 2%  SPX SPY  Intraday data at 
+MarketCharts	725201958080905216	2016-04-27T05:56:35	SPX Stocks Above Moving Averages [26-APR]:  3d:   70% 5d:   65% 10d:  62% 20d:  65% 50d:  78%  Intraday data at 
+MarketCharts	724946829939499008	2016-04-26T13:02:47	Medium-term breadth still healthy but beginning to diverge... 
+MarketCharts	724842051532128256	2016-04-26T06:06:26	S&amp;P 500 Stocks With Daily RSI Above 70 [25-APR]:  5-Day:  18% 10-Day: 13% 14-Day: 8%  SPX SPY  Intraday data at 
+MarketCharts	724840781119393792	2016-04-26T06:01:23	S&amp;P 500 Stocks With Daily RSI Below 30 [25-APR]:  5-Day:  11% 10-Day: 4% 14-Day: 3%  SPX SPY  Intraday data at 
+MarketCharts	724839508928286722	2016-04-26T05:56:20	SPX Stocks Above Moving Averages [25-APR]:  3d:   48% 5d:   41% 10d:  56% 20d:  61% 50d:  78%  Intraday data at 
+MarketCharts	723962788041863168	2016-04-23T19:52:33	Can QQQ's Get Some Love? And What's with the 215 SPY Calls?  SPY SPX QQQ IWM XLF IBB 
+MarketCharts	721861833431195648	2016-04-18T00:44:07	Any gains are likely to be limited in magnitude/longevity as market support erodes SPX SPY  
+MarketCharts	721448270258540544	2016-04-16T21:20:46	1. First up is the recovery in market breadth; 200dma breadth is at a 10 month high = improving health 
+MarketCharts	720341376949489664	2016-04-13T20:02:22	I’m not bearish &amp; have played the long side (mostly flat now); keep in mind not everything making new highs w/ SPX 
+MarketCharts	720228325172625409	2016-04-13T12:33:08	Negative divergence. SPX SPY 
+MarketCharts	720131253513486337	2016-04-13T06:07:24	S&amp;P 500 Stocks With Daily RSI Above 70 [12-APR]:  5-Day:  17% 10-Day: 8% 14-Day: 5%  SPX SPY  Intraday data at 
+MarketCharts	720129982828277760	2016-04-13T06:02:21	S&amp;P 500 Stocks With Daily RSI Below 30 [12-APR]:  5-Day:  11% 10-Day: 5% 14-Day: 3%  SPX SPY  Intraday data at 
+MarketCharts	720128711803158531	2016-04-13T05:57:18	SPX Stocks Above Moving Averages [12-APR]:  3d:   76% 5d:   66% 10d:  53% 20d:  60% 50d:  85%  Intraday data at 
+MarketCharts	719768950997966848	2016-04-12T06:07:45	S&amp;P 500 Stocks With Daily RSI Above 70 [11-APR]:  5-Day:  6% 10-Day: 4% 14-Day: 2%  SPX SPY  Intraday data at 
+MarketCharts	719767680962666496	2016-04-12T06:02:42	S&amp;P 500 Stocks With Daily RSI Below 30 [11-APR]:  5-Day:  18% 10-Day: 5% 14-Day: 3%  SPX SPY  Intraday data at 
+MarketCharts	719766410575114240	2016-04-12T05:57:39	SPX Stocks Above Moving Averages [11-APR]:  3d:   51% 5d:   40% 10d:  30% 20d:  46% 50d:  83%  Intraday data at 
+MarketCharts	719353955474477056	2016-04-11T02:38:42	Only 49% of SPX stocks are now above their 20-day MA in contrast to 95% a month ago. SPY  
+MarketCharts	718899859290324992	2016-04-09T20:34:17	1. Breadth is rolling over from 'overbought' levels - historically consistent with at least a pause... SPX VIX 
+MarketCharts	718681723446378496	2016-04-09T06:07:29	S&amp;P 500 Stocks With Daily RSI Above 70 [8-APR]:  5-Day:  9% 10-Day: 5% 14-Day: 4%  SPX SPY  Intraday data at 
+MarketCharts	718680453683785728	2016-04-09T06:02:27	S&amp;P 500 Stocks With Daily RSI Below 30 [8-APR]:  5-Day:  19% 10-Day: 6% 14-Day: 4%  SPX SPY  Intraday data at 
+MarketCharts	718679183367544832	2016-04-09T05:57:24	SPX Stocks Above Moving Averages [8-APR]:  3d:   41% 5d:   38% 10d:  38% 20d:  49% 50d:  82%  Intraday data at 
+MarketCharts	718320147132456960	2016-04-08T06:10:43	S&amp;P 500 Stocks With Daily RSI Above 70 [7-APR]:  5-Day:  5% 10-Day: 3% 14-Day: 3%  SPX SPY  Intraday data at 
+MarketCharts	718318877021749248	2016-04-08T06:05:40	S&amp;P 500 Stocks With Daily RSI Below 30 [7-APR]:  5-Day:  29% 10-Day: 4% 14-Day: 2%  SPX SPY  Intraday data at 
+MarketCharts	718317606109843456	2016-04-08T06:00:37	SPX Stocks Above Moving Averages [7-APR]:  3d:   25% 5d:   19% 10d:  28% 20d:  44% 50d:  82%  Intraday data at 
+MarketCharts	717957895493554176	2016-04-07T06:11:15	S&amp;P 500 Stocks With Daily RSI Above 70 [6-APR]:  5-Day:  17% 10-Day: 13% 14-Day: 7%  SPX SPY  Intraday data at 
+MarketCharts	717956625559134208	2016-04-07T06:06:13	S&amp;P 500 Stocks With Daily RSI Below 30 [6-APR]:  5-Day:  11% 10-Day: 2% 14-Day: 2%  SPX SPY  Intraday data at 
+MarketCharts	717955355226062848	2016-04-07T06:01:10	SPX Stocks Above Moving Averages [6-APR]:  3d:   62% 5d:   44% 10d:  53% 20d:  62% 50d:  91%  Intraday data at 
+MarketCharts	717670864767082496	2016-04-06T11:10:42	% of SPX Stocks at 52-Wk Highs all the way back down after peaking. Near the bounce area.  SPY MarketCharts 
+MarketCharts	717667409751093248	2016-04-06T10:56:58	Stocks at 20-Day Highs near a reversal level. SPX SPY MarketOutlook MarketCharts 
+MarketCharts	717595673311514624	2016-04-06T06:11:55	S&amp;P 500 Stocks With Daily RSI Above 70 [5-APR]:  5-Day:  5% 10-Day: 5% 14-Day: 3%  SPX SPY  Intraday data at 
+MarketCharts	717594403406086145	2016-04-06T06:06:52	S&amp;P 500 Stocks With Daily RSI Below 30 [5-APR]:  5-Day:  21% 10-Day: 3% 14-Day: 2%  SPX SPY  Intraday data at 
+MarketCharts	717593133161164800	2016-04-06T06:01:49	SPX Stocks Above Moving Averages [5-APR]:  3d:   10% 5d:   15% 10d:  36% 20d:  56% 50d:  88%  Intraday data at 
+MarketCharts	717232380151480320	2016-04-05T06:08:19	S&amp;P 500 Stocks With Daily RSI Above 70 [4-APR]:  5-Day:  26% 10-Day: 21% 14-Day: 14%  SPX SPY  Intraday data at 
+MarketCharts	717231109084483584	2016-04-05T06:03:16	S&amp;P 500 Stocks With Daily RSI Below 30 [4-APR]:  5-Day:  12% 10-Day: 2% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	717229838071947264	2016-04-05T05:58:13	SPX Stocks Above Moving Averages [4-APR]:  3d:   38% 5d:   48% 10d:  61% 20d:  72% 50d:  91%  Intraday data at 
+MarketCharts	716928497390714880	2016-04-04T10:00:48	An outstanding 92.86% of S&amp;P 500 stocks are trading above their 50-DMA. SPX SPY VIX MarketOutlook MarketCharts 
+MarketCharts	716754506688532483	2016-04-03T22:29:25	Less SPX stocks made 20-day highs last week than previously during the rally. Caution. SPY  
+MarketCharts	716346248043827200	2016-04-02T19:27:09	5. Interesting: VIX action... Crunch SPX VXX XIV 
+MarketCharts	716342551804977152	2016-04-02T19:12:28	1. Rally has done wonders for breadth &gt;60% of SPX in an uptrend now... 
+MarketCharts	716150592381579264	2016-04-02T06:29:41	S&amp;P 500 Stocks With Daily RSI Above 70 [1-APR]:  5-Day:  45% 10-Day: 32% 14-Day: 21%  SPX SPY  Intraday data at 
+MarketCharts	716149322434236416	2016-04-02T06:24:38	S&amp;P 500 Stocks With Daily RSI Below 30 [1-APR]:  5-Day:  6% 10-Day: 1% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	716148051237167104	2016-04-02T06:19:35	SPX Stocks Above Moving Averages [1-APR]:  3d:   69% 5d:   76% 10d:  74% 20d:  80% 50d:  93%  Intraday data at 
+MarketCharts	715784363191963648	2016-04-01T06:14:25	S&amp;P 500 Stocks With Daily RSI Above 70 [31-MAR]:  5-Day:  34% 10-Day: 25% 14-Day: 17%  SPX SPY  Intraday data at 
+MarketCharts	715783092955455488	2016-04-01T06:09:22	S&amp;P 500 Stocks With Daily RSI Below 30 [31-MAR]:  5-Day:  6% 10-Day: 4% 14-Day: 4%  SPX SPY  Intraday data at 
+MarketCharts	715781822345580544	2016-04-01T06:04:19	SPX Stocks Above Moving Averages [31-MAR]:  3d:   55% 5d:   77% 10d:  66% 20d:  78% 50d:  92%  Intraday data at 
+MarketCharts	715471473578606592	2016-03-31T09:31:06	60.56% of S&amp;P 500 stocks are trading above their 200-DMA. SPX SPY VIX MarketOutlook MarketCharts 
+MarketCharts	715422569550233601	2016-03-31T06:16:47	S&amp;P 500 Stocks With Daily RSI Above 70 [30-MAR]:  5-Day:  40% 10-Day: 27% 14-Day: 18%  SPX SPY  Intraday data at 
+MarketCharts	715421299850547200	2016-03-31T06:11:44	S&amp;P 500 Stocks With Daily RSI Below 30 [30-MAR]:  5-Day:  3% 10-Day: 2% 14-Day: 2%  SPX SPY  Intraday data at 
+MarketCharts	715420029639122944	2016-03-31T06:06:41	SPX Stocks Above Moving Averages [30-MAR]:  3d:   82% 5d:   87% 10d:  73% 20d:  82% 50d:  94%  Intraday data at 
+MarketCharts	715097472092258304	2016-03-30T08:44:57	Breadth strengthened again to support higher highs SPX MarketCharts 
+MarketCharts	715058793848168449	2016-03-30T06:11:16	S&amp;P 500 Stocks With Daily RSI Above 70 [29-MAR]:  5-Day:  35% 10-Day: 25% 14-Day: 16%  SPX SPY  Intraday data at 
+MarketCharts	715057523292811264	2016-03-30T06:06:13	S&amp;P 500 Stocks With Daily RSI Below 30 [29-MAR]:  5-Day:  4% 10-Day: 1% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	715056252951347200	2016-03-30T06:01:10	SPX Stocks Above Moving Averages [29-MAR]:  3d:   83% 5d:   71% 10d:  70% 20d:  80% 50d:  93%  Intraday data at 
+MarketCharts	714697643797164032	2016-03-29T06:16:11	S&amp;P 500 Stocks With Daily RSI Above 70 [28-MAR]:  5-Day:  17% 10-Day: 13% 14-Day: 9%  SPX SPY  Intraday data at 
+MarketCharts	714696374034558976	2016-03-29T06:11:08	S&amp;P 500 Stocks With Daily RSI Below 30 [28-MAR]:  5-Day:  7% 10-Day: 3% 14-Day: 3%  SPX SPY  Intraday data at 
+MarketCharts	714695103537922048	2016-03-29T06:06:05	SPX Stocks Above Moving Averages [28-MAR]:  3d:   52% 5d:   38% 10d:  50% 20d:  75% 50d:  91%  Intraday data at 
+MarketCharts	713246162682122240	2016-03-25T06:08:31	S&amp;P 500 Stocks With Daily RSI Above 70 [24-MAR]:  5-Day:  13% 10-Day: 12% 14-Day: 7%  SPX SPY  Intraday data at 
+MarketCharts	713244892479094784	2016-03-25T06:03:28	S&amp;P 500 Stocks With Daily RSI Below 30 [24-MAR]:  5-Day:  7% 10-Day: 1% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	713243621827461120	2016-03-25T05:58:25	SPX Stocks Above Moving Averages [24-MAR]:  3d:   28% 5d:   26% 10d:  47% 20d:  72% 50d:  90%  Intraday data at 
+MarketCharts	712884770569478144	2016-03-24T06:12:28	S&amp;P 500 Stocks With Daily RSI Above 70 [23-MAR]:  5-Day:  17% 10-Day: 14% 14-Day: 7%  SPX SPY  Intraday data at 
+MarketCharts	712883500571955200	2016-03-24T06:07:25	S&amp;P 500 Stocks With Daily RSI Below 30 [23-MAR]:  5-Day:  4% 10-Day: 1% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	712882229328752640	2016-03-24T06:02:22	SPX Stocks Above Moving Averages [23-MAR]:  3d:   25% 5d:   30% 10d:  56% 20d:  80% 50d:  92%  Intraday data at 
+MarketCharts	712522534164512768	2016-03-23T06:13:04	S&amp;P 500 Stocks With Daily RSI Above 70 [22-MAR]:  5-Day:  35% 10-Day: 25% 14-Day: 14%  SPX SPY  Intraday data at 
+MarketCharts	712521264427114496	2016-03-23T06:08:02	S&amp;P 500 Stocks With Daily RSI Below 30 [22-MAR]:  5-Day:  2% 10-Day: 2% 14-Day: 2%  SPX SPY  Intraday data at 
+MarketCharts	712519993984950272	2016-03-23T06:02:59	SPX Stocks Above Moving Averages [22-MAR]:  3d:   40% 5d:   59% 10d:  79% 20d:  88% 50d:  94%  Intraday data at 
+MarketCharts	712190024335368192	2016-03-22T08:11:48	DJIA 7 days up in a row stats via MarketCharts 
+MarketCharts	712160421382381568	2016-03-22T06:14:10	S&amp;P 500 Stocks With Daily RSI Above 70 [21-MAR]:  5-Day:  44% 10-Day: 32% 14-Day: 15%  SPX SPY  Intraday data at 
+MarketCharts	712159151833669632	2016-03-22T06:09:07	S&amp;P 500 Stocks With Daily RSI Below 30 [21-MAR]:  5-Day:  3% 10-Day: 3% 14-Day: 3%  SPX SPY  Intraday data at 
+MarketCharts	712157881093599232	2016-03-22T06:04:04	SPX Stocks Above Moving Averages [21-MAR]:  3d:   57% 5d:   79% 10d:  86% 20d:  90% 50d:  93%  Intraday data at 
+MarketCharts	711576468762050560	2016-03-20T15:33:45	Time for Some Bear Love  SPY IWM SPX QQQ  
+MarketCharts	711708798272950274	2016-03-21T00:19:35	Short-term complacency is setting in.  SPX SPY  
+MarketCharts	711298305406308353	2016-03-19T21:08:25	5. Some indicators like put/call are in the complacent zone - not necessarily flashing red, but worth noting... 
+MarketCharts	711292063547924481	2016-03-19T20:43:37	1. First up is an update of one of my favorite charts -- 60% of SPX names are trading above their 200dma. 
+MarketCharts	711071552465461249	2016-03-19T06:07:23	S&amp;P 500 Stocks With Daily RSI Above 70 [18-MAR]:  5-Day:  56% 10-Day: 39% 14-Day: 19%  SPX SPY  Intraday data at 
+MarketCharts	711070269629140992	2016-03-19T06:02:17	S&amp;P 500 Stocks With Daily RSI Below 30 [18-MAR]:  5-Day:  3% 10-Day: 2% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	711068998889299968	2016-03-19T05:57:15	SPX Stocks Above Moving Averages [18-MAR]:  3d:   76% 5d:   83% 10d:  86% 20d:  90% 50d:  93%  Intraday data at 
+MarketCharts	710873654821785600	2016-03-18T17:01:01	New Post -  Is The VIX Signaling A Return Of Market Volatility?  by AndrewThrasher SPY VIX 
+MarketCharts	710708607516446721	2016-03-18T06:05:11	S&amp;P 500 Stocks With Daily RSI Above 70 [17-MAR]:  5-Day:  57% 10-Day: 38% 14-Day: 21%  SPX SPY  Intraday data at 
+MarketCharts	710707336533282816	2016-03-18T06:00:07	S&amp;P 500 Stocks With Daily RSI Below 30 [17-MAR]:  5-Day:  5% 10-Day: 2% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	710706065306984449	2016-03-18T05:55:04	SPX Stocks Above Moving Averages [17-MAR]:  3d:   80% 5d:   76% 10d:  83% 20d:  89% 50d:  90%  Intraday data at 
+MarketCharts	710347217618477057	2016-03-17T06:09:08	S&amp;P 500 Stocks With Daily RSI Above 70 [16-MAR]:  5-Day:  43% 10-Day: 25% 14-Day: 11%  SPX SPY  Intraday data at 
+MarketCharts	710345946215768064	2016-03-17T06:04:05	S&amp;P 500 Stocks With Daily RSI Below 30 [16-MAR]:  5-Day:  3% 10-Day: 1% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	710344675593424896	2016-03-17T05:59:02	SPX Stocks Above Moving Averages [16-MAR]:  3d:   70% 5d:   73% 10d:  77% 20d:  90% 50d:  90%  Intraday data at 
+MarketCharts	710069704992247809	2016-03-16T11:46:24	A unique market strength indicator, worthwhile webinar, and more:  STUDY SPY ES_F tradingpsychology
+MarketCharts	710004197870141441	2016-03-16T07:26:06	FDAX 5d New Hi - New Lo (10ma) divg  clear as day via MarketCharts 
+MarketCharts	709984416014143488	2016-03-16T06:07:30	S&amp;P 500 Stocks With Daily RSI Above 70 [15-MAR]:  5-Day:  28% 10-Day: 16% 14-Day: 6%  SPX SPY  Intraday data at 
+MarketCharts	709983145970540544	2016-03-16T06:02:27	S&amp;P 500 Stocks With Daily RSI Below 30 [15-MAR]:  5-Day:  4% 10-Day: 2% 14-Day: 2%  SPX SPY  Intraday data at 
+MarketCharts	709981871074091008	2016-03-16T05:57:23	SPX Stocks Above Moving Averages [15-MAR]:  3d:   33% 5d:   64% 10d:  68% 20d:  85% 50d:  87%  Intraday data at 
+MarketCharts	709851958505512962	2016-03-15T21:21:09	(New post) A post-FOMC market blastoff, but in which direction? cc MarketCharts  
+MarketCharts	709622201696309248	2016-03-15T06:08:11	S&amp;P 500 Stocks With Daily RSI Above 70 [14-MAR]:  5-Day:  39% 10-Day: 21% 14-Day: 8%  SPX SPY  Intraday data at 
+MarketCharts	709620931858030592	2016-03-15T06:03:08	S&amp;P 500 Stocks With Daily RSI Below 30 [14-MAR]:  5-Day:  2% 10-Day: 2% 14-Day: 2%  SPX SPY  Intraday data at 
+MarketCharts	709619660908404741	2016-03-15T05:58:05	SPX Stocks Above Moving Averages [14-MAR]:  3d:   77% 5d:   89% 10d:  85% 20d:  92% 50d:  89%  Intraday data at 
+MarketCharts	709412885013864450	2016-03-14T16:16:26	DAX Stocks Above Moving Averages [14-MAR @ 4:27pm]:  3d:    100% 5d:    100% 10d:  100% 20d:  100% 50d:  100%  
+MarketCharts	709358728194031616	2016-03-14T12:41:14	Bulls charging. SPX NH-NL touching important resistance here. Setting up for possible Breakout. SPY MarketCharts 
+MarketCharts	709155483517460482	2016-03-13T23:13:37	Smoothed percentage of SPX stocks over their 50dma does NOT show an overbought market. SPY  
+MarketCharts	709106483972022274	2016-03-13T19:58:54	All aboard the Reflation Express...but be wary of possible derailments cc MarketCharts  
+MarketCharts	708796888787656709	2016-03-12T23:28:41	The Bulls Set for Further Gains Next Week. Read why  SPX SPY QQQ IWM 
+MarketCharts	708796144399327233	2016-03-12T23:25:44	SPX stocks above their 20-day MA at 94% 2nd week in a row. Happened 2 other times in last five years 
+MarketCharts	708771451763994625	2016-03-12T21:47:37	3. Average 14d RSI for SPX at 61.42 (65.28 for the headline index); arguably a sign of health vs "overbought" 
+MarketCharts	708768985307684864	2016-03-12T21:37:49	2. Seeing improving participation more broadly, with some promising signs in 200dma breadth.  SPX 
+MarketCharts	708535432548515842	2016-03-12T06:09:45	S&amp;P 500 Stocks With Daily RSI Above 70 [11-MAR]:  5-Day:  52% 10-Day: 25% 14-Day: 10%  SPX SPY  Intraday data at 
+MarketCharts	708534155122974720	2016-03-12T06:04:41	S&amp;P 500 Stocks With Daily RSI Below 30 [11-MAR]:  5-Day:  1% 10-Day: 1% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	708532884076802048	2016-03-12T05:59:38	SPX Stocks Above Moving Averages [11-MAR]:  3d:   93% 5d:   91% 10d:  90% 20d:  95% 50d:  89%  Intraday data at 
+MarketCharts	708172462312153088	2016-03-11T06:07:26	S&amp;P 500 Stocks With Daily RSI Above 70 [10-MAR]:  5-Day:  19% 10-Day: 10% 14-Day: 6%  SPX SPY  Intraday data at 
+MarketCharts	708171192163639296	2016-03-11T06:02:24	S&amp;P 500 Stocks With Daily RSI Below 30 [10-MAR]:  5-Day:  5% 10-Day: 2% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	708169921386053632	2016-03-11T05:57:21	SPX Stocks Above Moving Averages [10-MAR]:  3d:   60% 5d:   44% 10d:  64% 20d:  88% 50d:  78%  Intraday data at 
+MarketCharts	707810902171656192	2016-03-10T06:10:44	S&amp;P 500 Stocks With Daily RSI Above 70 [9-MAR]:  5-Day:  21% 10-Day: 11% 14-Day: 5%  SPX SPY  Intraday data at 
+MarketCharts	707809632350314496	2016-03-10T06:05:41	S&amp;P 500 Stocks With Daily RSI Below 30 [9-MAR]:  5-Day:  4% 10-Day: 1% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	707808361174188032	2016-03-10T06:00:38	SPX Stocks Above Moving Averages [9-MAR]:  3d:   44% 5d:   41% 10d:  69% 20d:  89% 50d:  76%  Intraday data at 
+MarketCharts	707692738695864324	2016-03-09T22:21:11	The bulls are winning, but they shouldn't relax Thx MarketCharts  
+MarketCharts	707618876150976512	2016-03-09T17:27:41	S&amp;P 500 VS % of S&amp;P 500 Stocks Above 200Day Moving Average 10% - 30% seem to form good bottoms during bull markets? 
+MarketCharts	707447732982718466	2016-03-09T06:07:37	S&amp;P 500 Stocks With Daily RSI Above 70 [8-MAR]:  5-Day:  15% 10-Day: 8% 14-Day: 3%  SPX SPY  Intraday data at 
+MarketCharts	707446462842544128	2016-03-09T06:02:35	S&amp;P 500 Stocks With Daily RSI Below 30 [8-MAR]:  5-Day:  4% 10-Day: 1% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	707445192761208833	2016-03-09T05:57:32	SPX Stocks Above Moving Averages [8-MAR]:  3d:   19% 5d:   26% 10d:  66% 20d:  89% 50d:  73%  Intraday data at 
+MarketCharts	707349208160862208	2016-03-08T23:36:07	SPX testing 50h MA +  ISEE&lt;100   + pullback from OB = Rally if bull phase cc MarketCharts 
+MarketCharts	707085755592646656	2016-03-08T06:09:15	S&amp;P 500 Stocks With Daily RSI Above 70 [7-MAR]:  5-Day:  54% 10-Day: 31% 14-Day: 12%  SPX SPY  Intraday data at 
+MarketCharts	707084485733584896	2016-03-08T06:04:13	S&amp;P 500 Stocks With Daily RSI Below 30 [7-MAR]:  5-Day:  3% 10-Day: 1% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	707083215295660032	2016-03-08T05:59:10	SPX Stocks Above Moving Averages [7-MAR]:  3d:   61% 5d:   73% 10d:  85% 20d:  94% 50d:  80%  Intraday data at 
+MarketCharts	706631325764050944	2016-03-07T00:03:31	59% of SPX stocks have RSI(5)&gt;70. In 5yrs, positive returns occurred 100% of the time. SPY  
+MarketCharts	706239288221044736	2016-03-05T22:05:42	What Market Internals are Hinting at &amp; how to view this open interest SPY SPX IWM QQQ  
+MarketCharts	706244038983168003	2016-03-05T22:24:34	4. On breadth, the average 14-day RSI of the S&amp;P500 is 60.34 but only 8.33% of stocks have an RSI above 70 
+MarketCharts	706242763746996224	2016-03-05T22:19:30	3. The other point to note is the improvement in market breadth -- a breadth breakout?  SPX 
+MarketCharts	705998766814330880	2016-03-05T06:09:57	S&amp;P 500 Stocks With Daily RSI Above 70 [4-MAR]:  5-Day:  59% 10-Day: 29% 14-Day: 8%  SPX SPY  Intraday data at 
+MarketCharts	705997496556900352	2016-03-05T06:04:54	S&amp;P 500 Stocks With Daily RSI Below 30 [4-MAR]:  5-Day:  2% 10-Day: 1% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	705996226152497152	2016-03-05T05:59:51	SPX Stocks Above Moving Averages [4-MAR]:  3d:   72% 5d:   83% 10d:  88% 20d:  95% 50d:  83%  Intraday data at 
+MarketCharts	705882022493999104	2016-03-04T22:26:03	RickyRoma0 Because the number of components isn't always 100 as implied by the name. Current list has 106.
+MarketCharts	705639494154752000	2016-03-04T06:22:20	S&amp;P 500 Stocks With Daily RSI Above 70 [3-MAR]:  5-Day:  61% 10-Day: 28% 14-Day: 7%  SPX SPY  Intraday data at 
+MarketCharts	705636950296829952	2016-03-04T06:12:13	SPX Stocks Above Moving Averages [3-MAR]:  3d:   74% 5d:   88% 10d:  89% 20d:  93% 50d:  81%  Intraday data at 
+MarketCharts	705275324641050624	2016-03-03T06:15:15	S&amp;P 500 Stocks With Daily RSI Above 70 [2-MAR]:  5-Day:  53% 10-Day: 17% 14-Day: 5%  SPX SPY  Intraday data at 
+MarketCharts	705274054203158528	2016-03-03T06:10:12	S&amp;P 500 Stocks With Daily RSI Below 30 [2-MAR]:  5-Day:  1% 10-Day: 1% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	705272783702499328	2016-03-03T06:05:09	SPX Stocks Above Moving Averages [2-MAR]:  3d:   88% 5d:   83% 10d:  90% 20d:  93% 50d:  75%  Intraday data at 
+MarketCharts	704915065871470593	2016-03-02T06:23:43	S&amp;P 500 Stocks With Daily RSI Above 70 [1-MAR]:  5-Day:  50% 10-Day: 14% 14-Day: 5%  SPX SPY  Intraday data at 
+MarketCharts	704913795345489921	2016-03-02T06:18:40	S&amp;P 500 Stocks With Daily RSI Below 30 [1-MAR]:  5-Day:  2% 10-Day: 1% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	704912525016567808	2016-03-02T06:13:37	SPX Stocks Above Moving Averages [1-MAR]:  3d:   89% 5d:   85% 10d:  88% 20d:  92% 50d:  71%  Intraday data at 
+MarketCharts	704551815912820736	2016-03-01T06:20:17	S&amp;P 500 Stocks With Daily RSI Above 70 [29-FEB]:  5-Day:  17% 10-Day: 5% 14-Day: 2%  SPX SPY  Intraday data at 
+MarketCharts	704550546427015168	2016-03-01T06:15:14	S&amp;P 500 Stocks With Daily RSI Below 30 [29-FEB]:  5-Day:  3% 10-Day: 1% 14-Day: 1%  SPX SPY  Intraday data at 
+MarketCharts	704549275640930304	2016-03-01T06:10:11	SPX Stocks Above Moving Averages [29-FEB]:  3d:   26% 5d:   47% 10d:  63% 20d:  80% 50d:  58%  Intraday data at 
+MarketCharts	704355589879697409	2016-02-29T17:20:33	Smoothed breadth reading shows strength not seen since November. SPX SPY  
+MarketCharts	704350912710631424	2016-02-29T17:01:58	Adjusting our mindset quickly enough with the transitions in market cycles is hard but crucial. Thank you, steenbab 
+MarketCharts	704104142067929088	2016-02-29T00:41:23	Breadth indicators are now updated intraday! SPX steenbab Sassy_SPY HumbleStudent Callum_Thomas SJosephBurns derekhernquist gavparks
+MarketCharts	704104008051515393	2016-02-29T00:40:51	selik73 There is valuable information in studying historical market action near breadth extremes.
+MarketCharts	703722266949865472	2016-02-27T23:23:57	2. 200dma breadth is also improving, but it will need to move quickly above 45% for this rally to stick 
+MarketCharts	703721180746747904	2016-02-27T23:19:38	1. First up is the improvement in market breadth - SPX % &gt; 50dma is at a YTD high... 
+MarketCharts	703987844944162817	2016-02-28T16:59:16	Perhaps a Stall, but Edge Lies with the Bulls  SPY SPX IWM QQQ  
+MarketCharts	703466451823304704	2016-02-27T06:27:26	S&amp;P 500 Stocks With Daily RSI Above 70 [26-FEB]:  5-Day:  33% 10-Day: 9% 14-Day: 3%  SPX SPY
+MarketCharts	703465182115266560	2016-02-27T06:22:23	S&amp;P 500 Stocks With Daily RSI Below 30 [26-FEB]:  5-Day:  2% 10-Day: 1% 14-Day: 1%  SPX SPY
+MarketCharts	703463911975165953	2016-02-27T06:17:20	S&amp;P 500 Stocks Above Moving Averages [26-FEB]:  3d:   72% 5d:   75% 10d:  84% 20d:  87% 50d:  61% 200d: 37%  SPX SPY
+MarketCharts	703101368337244160	2016-02-26T06:16:43	S&amp;P 500 Stocks With Daily RSI Above 70 [25-FEB]:  5-Day:  44% 10-Day: 15% 14-Day: 5%  SPX SPY
+MarketCharts	703100098645925888	2016-02-26T06:11:41	S&amp;P 500 Stocks With Daily RSI Below 30 [25-FEB]:  5-Day:  1% 10-Day: 0% 14-Day: 0%  SPX SPY
+MarketCharts	703098828283469825	2016-02-26T06:06:38	S&amp;P 500 Stocks Above Moving Averages [25-FEB]:  3d:   90% 5d:   81% 10d:  90% 20d:  85% 50d:  59% 200d: 36%  SPX SPY
+MarketCharts	702739138089332736	2016-02-25T06:17:21	S&amp;P 500 Stocks With Daily RSI Above 70 [24-FEB]:  5-Day:  28% 10-Day: 9% 14-Day: 3%  SPX SPY
+MarketCharts	702737868083568640	2016-02-25T06:12:18	S&amp;P 500 Stocks With Daily RSI Below 30 [24-FEB]:  5-Day:  1% 10-Day: 1% 14-Day: 1%  SPX SPY
+MarketCharts	702736597939261440	2016-02-25T06:07:15	S&amp;P 500 Stocks Above Moving Averages [24-FEB]:  3d:   44% 5d:   57% 10d:  85% 20d:  78% 50d:  52% 200d: 34%  SPX SPY
+MarketCharts	702377219570667520	2016-02-24T06:19:13	S&amp;P 500 Stocks With Daily RSI Above 70 [23-FEB]:  5-Day:  20% 10-Day: 6% 14-Day: 3%  SPX SPY
+MarketCharts	702375949065699328	2016-02-24T06:14:10	S&amp;P 500 Stocks With Daily RSI Below 30 [23-FEB]:  5-Day:  2% 10-Day: 1% 14-Day: 1%  SPX SPY
+MarketCharts	702374676601958401	2016-02-24T06:09:07	S&amp;P 500 Stocks Above Moving Averages [23-FEB]:  3d:   38% 5d:   50% 10d:  86% 20d:  74% 50d:  47% 200d: 33%  SPX SPY
+MarketCharts	702015305191706625	2016-02-23T06:21:06	S&amp;P 500 Stocks With Daily RSI Above 70 [22-FEB]:  5-Day:  44% 10-Day: 11% 14-Day: 4%  SPX SPY
+MarketCharts	702014035588419584	2016-02-23T06:16:03	S&amp;P 500 Stocks With Daily RSI Below 30 [22-FEB]:  5-Day:  1% 10-Day: 1% 14-Day: 1%  SPX SPY
+MarketCharts	702012765339160576	2016-02-23T06:11:00	S&amp;P 500 Stocks Above Moving Averages [22-FEB]:  3d:   91% 5d:   89% 10d:  96% 20d:  85% 50d:  54% 200d: 36%  SPX SPY
+MarketCharts	701553363071029248	2016-02-21T23:45:30	Uptick in number of SPX stocks at 5-day lows indicates a consolidation or a move down. SPY  
+MarketCharts	701417061914959872	2016-02-21T14:43:53	Whether a Bull or a Bear, Curb that Enthusiasm Next Week - new post SPY SPX QQQ IWM  
+MarketCharts	700926569573916672	2016-02-20T06:14:51	S&amp;P 500 Stocks With Daily RSI Above 70 [19-FEB]:  5-Day:  25% 10-Day: 7% 14-Day: 2%  SPX SPY
+MarketCharts	700925299618291712	2016-02-20T06:09:48	S&amp;P 500 Stocks With Daily RSI Below 30 [19-FEB]:  5-Day:  2% 10-Day: 1% 14-Day: 1%  SPX SPY
+MarketCharts	700924029906132992	2016-02-20T06:04:45	S&amp;P 500 Stocks Above Moving Averages [19-FEB]:  3d:   45% 5d:   75% 10d:  86% 20d:  70% 50d:  44% 200d: 31%  SPX SPY
+MarketCharts	700564822941900800	2016-02-19T06:17:24	S&amp;P 500 Stocks With Daily RSI Above 70 [18-FEB]:  5-Day:  27% 10-Day: 8% 14-Day: 3%  SPX SPY
+MarketCharts	700563553363701760	2016-02-19T06:12:21	S&amp;P 500 Stocks With Daily RSI Below 30 [18-FEB]:  5-Day:  2% 10-Day: 1% 14-Day: 1%  SPX SPY
+MarketCharts	700562283076911104	2016-02-19T06:07:18	S&amp;P 500 Stocks Above Moving Averages [18-FEB]:  3d:   64% 5d:   93% 10d:  88% 20d:  68% 50d:  44% 200d: 31%  SPX SPY
+MarketCharts	700210903170551812	2016-02-18T06:51:03	(Post) Why I tactically shorted stocks today  
+MarketCharts	700201163443073029	2016-02-18T06:12:21	S&amp;P 500 Stocks With Daily RSI Above 70 [17-FEB]:  5-Day:  38% 10-Day: 8% 14-Day: 3%  SPX SPY
+MarketCharts	700199893860687872	2016-02-18T06:07:18	S&amp;P 500 Stocks With Daily RSI Below 30 [17-FEB]:  5-Day:  1% 10-Day: 0% 14-Day: 0%  SPX SPY
+MarketCharts	700198622718259200	2016-02-18T06:02:15	S&amp;P 500 Stocks Above Moving Averages [17-FEB]:  3d:   94% 5d:   94% 10d:  87% 20d:  74% 50d:  45% 200d: 32%  SPX SPY
+MarketCharts	700082565173092352	2016-02-17T22:21:05	(Post) Why I tactically shorted stocks today cc MarketCharts  
+MarketCharts	699980289099956227	2016-02-17T15:34:40	OB, initiating small (underline small) SPX short here (red dot my real-time est) cc MarketCharts 
+MarketCharts	699840260910538752	2016-02-17T06:18:15	S&amp;P 500 Stocks With Daily RSI Above 70 [16-FEB]:  5-Day:  17% 10-Day: 4% 14-Day: 2%  SPX SPY
+MarketCharts	699838990979985408	2016-02-17T06:13:12	S&amp;P 500 Stocks With Daily RSI Below 30 [16-FEB]:  5-Day:  7% 10-Day: 6% 14-Day: 6%  SPX SPY
+MarketCharts	699837720718401536	2016-02-17T06:08:09	S&amp;P 500 Stocks Above Moving Averages [16-FEB]:  3d:   91% 5d:   85% 10d:  65% 20d:  59% 50d:  35% 200d: 27%  SPX SPY
+MarketCharts	699220806614683649	2016-02-15T13:16:45	An update on market cycle measures and why it makes sense to think in terms of cycles and not just trends:  STUDY
+MarketCharts	699009877423697920	2016-02-14T23:18:36	Avg. 5d RSI for SPX stocks shows less stocks declining vs January low (+ve divergence) SPY  
+MarketCharts	698588742806687744	2016-02-13T19:25:10	2. The same divergence can be seen in other measures of breadth - see here for yourself:  
+MarketCharts	698586883761123328	2016-02-13T19:17:46	1. First up is the bullish divergence seen in 52wk NH-NL breadth vs the S&amp;P500 index - keep an eye on this one! 
+MarketCharts	698391161900265472	2016-02-13T06:20:03	S&amp;P 500 Stocks With Daily RSI Above 70 [12-FEB]:  5-Day:  7% 10-Day: 2% 14-Day: 0%  SPX SPY
+MarketCharts	698389892125089792	2016-02-13T06:15:00	S&amp;P 500 Stocks With Daily RSI Below 30 [12-FEB]:  5-Day:  12% 10-Day: 9% 14-Day: 8%  SPX SPY
+MarketCharts	698388621079007232	2016-02-13T06:09:57	S&amp;P 500 Stocks Above Moving Averages [12-FEB]:  3d:   78% 5d:   68% 10d:  35% 20d:  43% 50d:  26% 200d: 24%  SPX SPY
+MarketCharts	698087982293626881	2016-02-12T10:15:19	Less SPX stocks at 20d lows relative to January. Good if reversal trade is your game. SPY  
+MarketCharts	698081088674070528	2016-02-12T09:47:55	TVarmageddon HumbleStudent Hard to say. Any of a V, U or W shape is possible..
+MarketCharts	698028828900270080	2016-02-12T06:20:16	S&amp;P 500 Stocks With Daily RSI Above 70 [11-FEB]:  5-Day:  2% 10-Day: 1% 14-Day: 0%  SPX SPY
+MarketCharts	698027559255089154	2016-02-12T06:15:13	S&amp;P 500 Stocks With Daily RSI Below 30 [11-FEB]:  5-Day:  42% 10-Day: 25% 14-Day: 18%  SPX SPY
+MarketCharts	698026289060560896	2016-02-12T06:10:10	S&amp;P 500 Stocks Above Moving Averages [11-FEB]:  3d:   16% 5d:   19% 10d:  11% 20d:  29% 50d:  19% 200d: 19%  SPX SPY
+MarketCharts	697807252833472512	2016-02-11T15:39:48	SPX oversold (red dot my est)?  Now watching TRIN for signs of capitulation cc MarketCharts 
+MarketCharts	697674261931171841	2016-02-11T06:51:20	Bracing for more pain cc _TradeFollowers MarketCharts   
+MarketCharts	697667208441438208	2016-02-11T06:23:19	S&amp;P 500 Stocks With Daily RSI Above 70 [10-FEB]:  5-Day:  5% 10-Day: 3% 14-Day: 1%  SPX SPY
+MarketCharts	697665939073081344	2016-02-11T06:18:16	S&amp;P 500 Stocks With Daily RSI Below 30 [10-FEB]:  5-Day:  29% 10-Day: 18% 14-Day: 14%  SPX SPY
+MarketCharts	697664669096484865	2016-02-11T06:13:13	S&amp;P 500 Stocks Above Moving Averages [10-FEB]:  3d:   48% 5d:   24% 10d:  25% 20d:  37% 50d:  22% 200d: 22%  SPX SPY
+MarketCharts	697303344629444609	2016-02-10T06:17:27	S&amp;P 500 Stocks With Daily RSI Above 70 [9-FEB]:  5-Day:  9% 10-Day: 4% 14-Day: 2%  SPX SPY
+MarketCharts	697302074653077504	2016-02-10T06:12:24	S&amp;P 500 Stocks With Daily RSI Below 30 [9-FEB]:  5-Day:  37% 10-Day: 22% 14-Day: 17%  SPX SPY
+MarketCharts	697300804227751936	2016-02-10T06:07:21	S&amp;P 500 Stocks Above Moving Averages [9-FEB]:  3d:   28% 5d:   23% 10d:  29% 20d:  36% 50d:  23% 200d: 22%  SPX SPY
+MarketCharts	696959788899553280	2016-02-09T07:32:17	GM, DAX vs DAX stocks with 5 day RSI under 30 via MarketCharts  
+MarketCharts	696941971533905920	2016-02-09T06:21:29	S&amp;P 500 Stocks With Daily RSI Above 70 [8-FEB]:  5-Day:  9% 10-Day: 6% 14-Day: 2%  SPX SPY
+MarketCharts	696940701309919232	2016-02-09T06:16:26	S&amp;P 500 Stocks With Daily RSI Below 30 [8-FEB]:  5-Day:  41% 10-Day: 24% 14-Day: 19%  SPX SPY
+MarketCharts	696939431434002432	2016-02-09T06:11:23	S&amp;P 500 Stocks Above Moving Averages [8-FEB]:  3d:   16% 5d:   21% 10d:  29% 20d:  36% 50d:  22% 200d: 21%  SPX SPY
+MarketCharts	696755286711918592	2016-02-08T17:59:40	ksnyder2000 Currently, around 3am EST (8am GMT)
+MarketCharts	696749996926849024	2016-02-08T17:38:38	SPX nearing an OS extreme, but probably needs a bit more pain (red dot my intra-day estimate) cc MarketCharts 
+MarketCharts	696460710524645376	2016-02-07T22:29:07	Waiting for the market to heal Thx marketcharts _tradefollowers  
+MarketCharts	696416483551870976	2016-02-07T19:33:23	ST cautious: SPX not oversold cc MarketCharts 
+MarketCharts	696102434595164160	2016-02-06T22:45:28	4. The good news is that 50dma breadth bounced from oversold which is usually a good sign...  SPX STUDY 
+MarketCharts	695854634565558272	2016-02-06T06:20:47	S&amp;P 500 Stocks With Daily RSI Above 70 [5-FEB]:  5-Day:  14% 10-Day: 6% 14-Day: 3%  SPX SPY
+MarketCharts	695853364966486016	2016-02-06T06:15:45	S&amp;P 500 Stocks With Daily RSI Below 30 [5-FEB]:  5-Day:  25% 10-Day: 15% 14-Day: 12%  SPX SPY
+MarketCharts	695852094566309888	2016-02-06T06:10:42	S&amp;P 500 Stocks Above Moving Averages [5-FEB]:  3d:   29% 5d:   34% 10d:  44% 20d:  47% 50d:  25% 200d: 23%  SPX SPY
+MarketCharts	695492731154493440	2016-02-05T06:22:43	S&amp;P 500 Stocks With Daily RSI Above 70 [4-FEB]:  5-Day:  19% 10-Day: 5% 14-Day: 2%  SPX SPY
+MarketCharts	695491461328928768	2016-02-05T06:17:40	S&amp;P 500 Stocks With Daily RSI Below 30 [4-FEB]:  5-Day:  12% 10-Day: 10% 14-Day: 8%  SPX SPY
+MarketCharts	695490189922328576	2016-02-05T06:12:37	S&amp;P 500 Stocks Above Moving Averages [4-FEB]:  3d:   68% 5d:   54% 10d:  62% 20d:  58% 50d:  29% 200d: 27%  SPX SPY
+MarketCharts	695131178249146368	2016-02-04T06:26:02	S&amp;P 500 Stocks With Daily RSI Above 70 [3-FEB]:  5-Day:  16% 10-Day: 6% 14-Day: 5%  SPX SPY
+MarketCharts	695129398610124800	2016-02-04T06:18:58	S&amp;P 500 Stocks With Daily RSI Below 30 [3-FEB]:  5-Day:  14% 10-Day: 11% 14-Day: 9%  SPX SPY
+MarketCharts	695127866095374336	2016-02-04T06:12:52	S&amp;P 500 Stocks Above Moving Averages [3-FEB]:  3d:   41% 5d:   48% 10d:  61% 20d:  55% 50d:  29% 200d: 26%  SPX SPY
+MarketCharts	694767931838840836	2016-02-03T06:22:37	S&amp;P 500 Stocks With Daily RSI Above 70 [2-FEB]:  5-Day:  14% 10-Day: 6% 14-Day: 3%  SPX SPY
+MarketCharts	694766662432788480	2016-02-03T06:17:35	S&amp;P 500 Stocks With Daily RSI Below 30 [2-FEB]:  5-Day:  16% 10-Day: 14% 14-Day: 11%  SPX SPY
+MarketCharts	694765392812711936	2016-02-03T06:12:32	S&amp;P 500 Stocks Above Moving Averages [2-FEB]:  3d:   15% 5d:   36% 10d:  53% 20d:  46% 50d:  23% 200d: 26%  SPX SPY
+MarketCharts	694487417613488128	2016-02-02T11:47:57	Where we stand in the current mkt cycle and a look at sector strength in 2016:  STUDY SPY ES_F tradingpsychology
+MarketCharts	694406128092852224	2016-02-02T06:24:57	S&amp;P 500 Stocks With Daily RSI Above 70 [1-FEB]:  5-Day:  32% 10-Day: 8% 14-Day: 3%  SPX SPY
+MarketCharts	694404858250682368	2016-02-02T06:19:54	S&amp;P 500 Stocks With Daily RSI Below 30 [1-FEB]:  5-Day:  7% 10-Day: 8% 14-Day: 7%  SPX SPY
+MarketCharts	694403587737309184	2016-02-02T06:14:51	S&amp;P 500 Stocks Above Moving Averages [1-FEB]:  3d:   80% 5d:   81% 10d:  80% 20d:  60% 50d:  31% 200d: 29%  SPX SPY
+MarketCharts	693965008741335040	2016-02-01T01:12:05	72% of SPX stocks at 5-day highs, indicating a pause before a continuation or decline. SPY  
+MarketCharts	693924014490779648	2016-01-31T22:29:12	Bottomed, but wait for re-test of lows Thx marketcharts _TradeFollowers georgepearkes  
+MarketCharts	693897464286310400	2016-01-31T20:43:42	HumbleStudent Vacation time? :)
+MarketCharts	693872745390563328	2016-01-31T19:05:28	Correction: Market overbouoght via MarketCharts 
+MarketCharts	693557374846660609	2016-01-30T22:12:18	Was Friday's Bullish Candle a Trap? new post SPY SPX IWM QQQ  cc: CiovaccoCapital 
+MarketCharts	693555333201985536	2016-01-30T22:04:11	2. At the same time the average RSI of the S&amp;P500 has also bounced from oversold but is not overbought yet... SPX 
+MarketCharts	693317783900295169	2016-01-30T06:20:15	S&amp;P 500 Stocks With Daily RSI Above 70 [29-JAN]:  5-Day:  39% 10-Day: 7% 14-Day: 1%  SPX SPY
+MarketCharts	693316514288701440	2016-01-30T06:15:12	S&amp;P 500 Stocks With Daily RSI Below 30 [29-JAN]:  5-Day:  8% 10-Day: 8% 14-Day: 7%  SPX SPY
+MarketCharts	693315244073025536	2016-01-30T06:10:10	S&amp;P 500 Stocks Above Moving Averages [29-JAN]:  3d:   89% 5d:   83% 10d:  80% 20d:  58% 50d:  29% 200d: 29%  SPX SPY
+MarketCharts	693150747630792704	2016-01-29T19:16:31	The record remains intact. SPY SPX  
+MarketCharts	693095782631677953	2016-01-29T15:38:06	Scaling out of long positions: SPX struggling with resistance &amp; OB cc MarketCharts 
+MarketCharts	692954542460309504	2016-01-29T06:16:52	S&amp;P 500 Stocks With Daily RSI Above 70 [28-JAN]:  5-Day:  14% 10-Day: 1% 14-Day: 1%  SPX SPY
+MarketCharts	692953272815075328	2016-01-29T06:11:49	S&amp;P 500 Stocks With Daily RSI Below 30 [28-JAN]:  5-Day:  21% 10-Day: 19% 14-Day: 16%  SPX SPY
+MarketCharts	692952002096160770	2016-01-29T06:06:46	S&amp;P 500 Stocks Above Moving Averages [28-JAN]:  3d:   52% 5d:   55% 10d:  57% 20d:  34% 50d:  18% 200d: 23%  SPX SPY
+MarketCharts	692665985090760704	2016-01-28T11:10:14	S&amp;P 500 NH-NL: Still neg but % of stocks making new 52-week Highs Minus Lows improving SPY SPX MarketCharts 
+MarketCharts	692592829693104128	2016-01-28T06:19:33	S&amp;P 500 Stocks With Daily RSI Above 70 [27-JAN]:  5-Day:  6% 10-Day: 1% 14-Day: 1%  SPX SPY
+MarketCharts	692591560022740992	2016-01-28T06:14:30	S&amp;P 500 Stocks With Daily RSI Below 30 [27-JAN]:  5-Day:  17% 10-Day: 16% 14-Day: 15%  SPX SPY
+MarketCharts	692590288494280704	2016-01-28T06:09:27	S&amp;P 500 Stocks Above Moving Averages [27-JAN]:  3d:   54% 5d:   56% 10d:  53% 20d:  23% 50d:  15% 200d: 23%  SPX SPY
+MarketCharts	692229475677900801	2016-01-27T06:15:42	S&amp;P 500 Stocks With Daily RSI Above 70 [26-JAN]:  5-Day:  7% 10-Day: 1% 14-Day: 0%  SPX SPY
+MarketCharts	692228206015938561	2016-01-27T06:10:39	S&amp;P 500 Stocks With Daily RSI Below 30 [26-JAN]:  5-Day:  10% 10-Day: 14% 14-Day: 13%  SPX SPY
+MarketCharts	692226935603204096	2016-01-27T06:05:37	S&amp;P 500 Stocks Above Moving Averages [26-JAN]:  3d:   70% 5d:   77% 10d:  61% 20d:  24% 50d:  18% 200d: 23%  SPX SPY
+MarketCharts	691868918848307200	2016-01-26T06:22:59	S&amp;P 500 Stocks With Daily RSI Above 70 [25-JAN]:  5-Day:  2% 10-Day: 0% 14-Day: 0%  SPX SPY
+MarketCharts	691867649408684032	2016-01-26T06:17:56	S&amp;P 500 Stocks With Daily RSI Below 30 [25-JAN]:  5-Day:  28% 10-Day: 28% 14-Day: 24%  SPX SPY
+MarketCharts	691866379079786497	2016-01-26T06:12:53	S&amp;P 500 Stocks Above Moving Averages [25-JAN]:  3d:   28% 5d:   41% 10d:  28% 20d:  11% 50d:  14% 200d: 21%  SPX SPY
+MarketCharts	691400682050560001	2016-01-24T23:22:22	KenGermanicus Yes, you'll probably find this setup works much better in bull markets...
+MarketCharts	691399816044216320	2016-01-24T23:18:56	Robwynge Yes, it is less relevant if you believe the bull market has ended...
+MarketCharts	691387379643330560	2016-01-24T22:29:31	Over 5 bullish yrs, +ve returns occurred 100% of the time weeks after similar breadth. SPY  
+MarketCharts	691340474582331392	2016-01-24T19:23:08	Short term technical: Watch how this evolves via MarketCharts 
+MarketCharts	690515309665456128	2016-01-22T12:44:13	Sellers can't push price to new lows: a nice tell for recent market strength:  STUDY SPX ES_F tradingpsychology
+MarketCharts	690779937381486592	2016-01-23T06:15:45	S&amp;P 500 Stocks With Daily RSI Above 70 [22-JAN]:  5-Day:  5% 10-Day: 1% 14-Day: 0%  SPX SPY
+MarketCharts	690778667929067520	2016-01-23T06:10:43	S&amp;P 500 Stocks With Daily RSI Below 30 [22-JAN]:  5-Day:  14% 10-Day: 17% 14-Day: 15%  SPX SPY
+MarketCharts	690777397759729665	2016-01-23T06:05:40	S&amp;P 500 Stocks Above Moving Averages [22-JAN]:  3d:   87% 5d:   82% 10d:  55% 20d:  17% 50d:  17% 200d: 23%  SPX SPY
+MarketCharts	690439392494784513	2016-01-22T07:42:33	DAX % stock with 5 day RSI under 30 chart via MarketCharts  
+MarketCharts	690418080003051525	2016-01-22T06:17:52	S&amp;P 500 Stocks With Daily RSI Above 70 [21-JAN]:  5-Day:  2% 10-Day: 0% 14-Day: 0%  SPX SPY
+MarketCharts	690416810064244737	2016-01-22T06:12:49	S&amp;P 500 Stocks With Daily RSI Below 30 [21-JAN]:  5-Day:  41% 10-Day: 38% 14-Day: 30%  SPX SPY
+MarketCharts	690415540502990848	2016-01-22T06:07:46	S&amp;P 500 Stocks Above Moving Averages [21-JAN]:  3d:   46% 5d:   31% 10d:  20% 20d:  7% 50d:  11% 200d: 18%  SPX SPY
+MarketCharts	690189884217131008	2016-01-21T15:11:06	S&amp;P 500: only 5% of stocks are above their 20-day moving average. Stretched. SPX 
+MarketCharts	690056159970136065	2016-01-21T06:19:43	S&amp;P 500 Stocks With Daily RSI Above 70 [20-JAN]:  5-Day:  0% 10-Day: 0% 14-Day: 0%  SPX SPY
+MarketCharts	690054890375110656	2016-01-21T06:14:41	S&amp;P 500 Stocks With Daily RSI Below 30 [20-JAN]:  5-Day:  58% 10-Day: 50% 14-Day: 39%  SPX SPY
+MarketCharts	690053620067336195	2016-01-21T06:09:38	S&amp;P 500 Stocks Above Moving Averages [20-JAN]:  3d:   20% 5d:   16% 10d:  9% 20d:  6% 50d:  8% 200d: 18%  SPX SPY
+MarketCharts	689693213070876672	2016-01-20T06:17:30	S&amp;P 500 Stocks With Daily RSI Above 70 [19-JAN]:  5-Day:  2% 10-Day: 1% 14-Day: 1%  SPX SPY
+MarketCharts	689691943429808132	2016-01-20T06:12:27	S&amp;P 500 Stocks With Daily RSI Below 30 [19-JAN]:  5-Day:  54% 10-Day: 47% 14-Day: 38%  SPX SPY
+MarketCharts	689690672853585920	2016-01-20T06:07:24	S&amp;P 500 Stocks Above Moving Averages [19-JAN]:  3d:   27% 5d:   23% 10d:  13% 20d:  10% 50d:  12% 200d: 21%  SPX SPY
+MarketCharts	689044092148420608	2016-01-18T11:18:08	Why Friday Afternoon Was a Good Time to Buy &amp; Psychology SPY SPX IWM QQQ GOOGL 
+MarketCharts	688869740819787776	2016-01-17T23:45:19	A positive divergence is forming - less SPX stocks are now oversold (5d RSI &lt; 30). SPY  
+MarketCharts	688820803945693184	2016-01-17T20:30:51	The ratio of the SPX to its 50-DMA is -3 StdDev from its 5yr avg. -  3rd lowest value. SPY  
+MarketCharts	688484360966635520	2016-01-16T22:13:57	6. Breadth breakdown went from slowburn to wildfire - keep an eye on this one...  STUDY SPX 
+MarketCharts	688428416345985024	2016-01-16T18:31:39	How to renew ourselves after a tough start to 2016 markets:  Forbes InvestiQuant MarketCharts tradingpsychology
+MarketCharts	688455528150880256	2016-01-16T20:19:23	steenbab Many thanks for the mention and your refreshing insights after a tough week!
+MarketCharts	688244961880350720	2016-01-16T06:22:40	S&amp;P 500 Stocks With Daily RSI Above 70 [15-JAN]:  5-Day:  1% 10-Day: 0% 14-Day: 0%  SPX SPY
+MarketCharts	688243691954151425	2016-01-16T06:17:37	S&amp;P 500 Stocks With Daily RSI Below 30 [15-JAN]:  5-Day:  59% 10-Day: 47% 14-Day: 36%  SPX SPY
+MarketCharts	688242421323309056	2016-01-16T06:12:34	S&amp;P 500 Stocks Above Moving Averages [15-JAN]:  3d:   19% 5d:   13% 10d:  9% 20d:  7% 50d:  11% 200d: 20%  SPX SPY
+MarketCharts	687966057684942849	2016-01-15T11:54:24	SJosephBurns Many thanks!
+MarketCharts	687882296825921536	2016-01-15T06:21:34	S&amp;P 500 Stocks With Daily RSI Above 70 [14-JAN]:  5-Day:  2% 10-Day: 0% 14-Day: 0%  SPX SPY
+MarketCharts	687881027214249985	2016-01-15T06:16:31	S&amp;P 500 Stocks With Daily RSI Below 30 [14-JAN]:  5-Day:  41% 10-Day: 34% 14-Day: 24%  SPX SPY
+MarketCharts	687879757103513600	2016-01-15T06:11:28	S&amp;P 500 Stocks Above Moving Averages [14-JAN]:  3d:   50% 5d:   45% 10d:  15% 20d:  11% 50d:  14% 200d: 23%  SPX SPY
+MarketCharts	687519304267489280	2016-01-14T06:19:10	S&amp;P 500 Stocks With Daily RSI Above 70 [13-JAN]:  5-Day:  1% 10-Day: 0% 14-Day: 0%  SPX SPY
+MarketCharts	687518034882347008	2016-01-14T06:14:07	S&amp;P 500 Stocks With Daily RSI Below 30 [13-JAN]:  5-Day:  74% 10-Day: 60% 14-Day: 42%  SPX SPY
+MarketCharts	687516764964524032	2016-01-14T06:09:04	S&amp;P 500 Stocks Above Moving Averages [13-JAN]:  3d:   8% 5d:   9% 10d:  5% 20d:  7% 50d:  12% 200d: 21%  SPX SPY
+MarketCharts	687157215921311744	2016-01-13T06:20:21	S&amp;P 500 Stocks With Daily RSI Above 70 [12-JAN]:  5-Day:  1% 10-Day: 0% 14-Day: 0%  SPX SPY
+MarketCharts	687155945223393280	2016-01-13T06:15:18	S&amp;P 500 Stocks With Daily RSI Below 30 [12-JAN]:  5-Day:  53% 10-Day: 38% 14-Day: 24%  SPX SPY
+MarketCharts	687154673166475264	2016-01-13T06:10:15	S&amp;P 500 Stocks Above Moving Averages [12-JAN]:  3d:   66% 5d:   35% 10d:  11% 20d:  14% 50d:  16% 200d: 27%  SPX SPY
+MarketCharts	686920879649894400	2016-01-12T14:41:14	Short-term breadth is stable and improving. SPX Stocks Above MA [11-JAN]:  3d:   31% 5d:   12% 10d:  8% 20d:  11% 50d:  14%
+MarketCharts	686920070874804225	2016-01-12T14:38:01	S&amp;P 500 Stocks With Daily RSI Above 70 [11-JAN]:  5-Day:  1% 10-Day: 0% 14-Day: 0%  SPX SPY
+MarketCharts	686918800831307776	2016-01-12T14:32:59	S&amp;P 500 Stocks With Daily RSI Below 30 [11-JAN]:  5-Day:  71% 10-Day: 55% 14-Day: 34%  SPX SPY
+MarketCharts	686917530510835713	2016-01-12T14:27:56	S&amp;P 500 Stocks Above Moving Averages [11-JAN]:  3d:   31% 5d:   12% 10d:  8% 20d:  11% 50d:  14% 200d: 23%  SPX SPY
+MarketCharts	686911549693374464	2016-01-12T14:04:10	A minor technical problem this morning has been fixed and fresh data is beginning to appear. Thanks for your patience and feedback.
+MarketCharts	686891816092852224	2016-01-12T12:45:45	@trader1906 Sorry, this is still Friday's chart. Currently investigating the problem and should be updated soon..
+MarketCharts	686887390410084352	2016-01-12T12:28:10	@trader1906 Thanks for the feedback! Currently, you can tweet the link to the live chart from the top-right corner. It doesn't upload it.
+MarketCharts	686532596365266944	2016-01-11T12:58:20	What's happened in stocks when we've been this oversold in the past?  STUDY SPY ES_F tradingpsychology
+MarketCharts	685909539430903808	2016-01-09T19:42:32	4. Market has been left looking fairly oversold on a 50dma breadth basis... 
+MarketCharts	686674253882765314	2016-01-11T22:21:14	BobBrinker Many thanks!
+MarketCharts	686670269847486465	2016-01-11T22:05:24	some great charts on MarketCharts homepage --&gt;  
+MarketCharts	686438620564189184	2016-01-11T06:44:55	GM, Here is the RSI chart I have been watching from MarketCharts it is diverging now.... 
+MarketCharts	686362204464001025	2016-01-11T01:41:16	If you're waiting for a short-term bounce, this chart/backtest might cheer you up. SPX SPY  
+MarketCharts	686337968110346240	2016-01-11T00:04:57	Indicator divergences are better predictors of price reversals than extreme values SPY SPX  
+MarketCharts	685986956812152832	2016-01-10T00:50:10	The Bears Have Awoken and Have Spoken - new post SPY SPX IWM QQQ VIX  
+MarketCharts	685924246518906880	2016-01-09T20:40:58	Weekend Reflection: Does your trading edge stand out? 
+MarketCharts	685900292509069314	2016-01-09T19:05:47	tradebln Thanks for the mention! Your backtest results are actually for the Nasdaq Composite, IXIC.
+MarketCharts	685710625406857216	2016-01-09T06:32:07	S&amp;P 500 Stocks With Daily RSI Above 70 [8-JAN]:  5-Day:  1% 10-Day: 1% 14-Day: 0%  SPX SPY
+MarketCharts	685709355157712897	2016-01-09T06:27:04	S&amp;P 500 Stocks With Daily RSI Below 30 [8-JAN]:  5-Day:  80% 10-Day: 58% 14-Day: 33%  SPX SPY
+MarketCharts	685708084833026049	2016-01-09T06:22:01	S&amp;P 500 Stocks Above Moving Averages [8-JAN]:  3d:   7% 5d:   5% 10d:  3% 20d:  9% 50d:  12% 200d: 24%  SPX SPY
+MarketCharts	685531406001254400	2016-01-08T18:39:58	Thanks! 
+MarketCharts	685441164783169536	2016-01-08T12:41:23	Whopping 77% of SPX stocks have a 5-day RSI under 30. Times have changed. oversold SPY  
+MarketCharts	685435378011013121	2016-01-08T12:18:23	Hey StockTwits, many thanks for the official account badge!
+MarketCharts	685352836734042112	2016-01-08T06:50:24	DAX VS % of DAX Stocks With 5-Day RSI Below 30 via MarketCharts near +3sigma &amp; diverging 
+MarketCharts	685352414367625220	2016-01-08T06:48:43	DAX VS DAX Stocks at 5-Day Highs Minus Lows via MarketCharts got the divergence I was looking for 
+MarketCharts	685346249537523716	2016-01-08T06:24:13	S&amp;P 500 Stocks With Daily RSI Above 70 [7-JAN]:  5-Day:  1% 10-Day: 1% 14-Day: 1%  SPX SPY
+MarketCharts	685344979661762560	2016-01-08T06:19:10	S&amp;P 500 Stocks With Daily RSI Below 30 [7-JAN]:  5-Day:  77% 10-Day: 48% 14-Day: 25%  SPX SPY
+MarketCharts	685343709206978560	2016-01-08T06:14:08	S&amp;P 500 Stocks Above Moving Averages [7-JAN]:  3d:   5% 5d:   7% 10d:  6% 20d:  13% 50d:  16% 200d: 28%  SPX SPY
+MarketCharts	685258716854272004	2016-01-08T00:36:24	(Post) A tradeable bottom? Thx QuantEdges MarketCharts  
+MarketCharts	685114508319141889	2016-01-07T15:03:22	38% of SPX stocks at 20d lows, entering historic buy zone, more so after today so far. SPY  
+MarketCharts	684988306858373120	2016-01-07T06:41:53	DAX VS % of DAX Stocks With 5-Day RSI Below 30 via MarketCharts  
+MarketCharts	684983435245522945	2016-01-07T06:22:31	S&amp;P 500 Stocks With Daily RSI Above 70 [6-JAN]:  5-Day:  3% 10-Day: 1% 14-Day: 1%  SPX SPY
+MarketCharts	684982161158582273	2016-01-07T06:17:28	S&amp;P 500 Stocks With Daily RSI Below 30 [6-JAN]:  5-Day:  58% 10-Day: 20% 14-Day: 11%  SPX SPY
+MarketCharts	684980890892513280	2016-01-07T06:12:25	S&amp;P 500 Stocks Above Moving Averages [6-JAN]:  3d:   20% 5d:   13% 10d:  12% 20d:  22% 50d:  23% 200d: 35%  SPX SPY
+MarketCharts	684896288677183489	2016-01-07T00:36:14	2) Another MarketCharts breadth indicator (red dot my estimate) = SPX oversold 
+MarketCharts	684896268544544768	2016-01-07T00:36:09	1) SPX is oversold: (red dot my estimates) of MarketCharts indicators 
+MarketCharts	684795331049988096	2016-01-06T17:55:04	My intraday (red dot) estimate of this MarketCharts indicator notorious inaccurate, but looks very OS to me 
+MarketCharts	684766329174265856	2016-01-06T15:59:49	Breadth indicators from MarketCharts at OS levels (red dot my intra-day estimate) 
+MarketCharts	684622615307251712	2016-01-06T06:28:45	S&amp;P 500 Stocks With Daily RSI Above 70 [5-JAN]:  5-Day:  5% 10-Day: 2% 14-Day: 1%  SPX SPY
+MarketCharts	684621345787899904	2016-01-06T06:23:43	S&amp;P 500 Stocks With Daily RSI Below 30 [5-JAN]:  5-Day:  30% 10-Day: 9% 14-Day: 6%  SPX SPY
+MarketCharts	684620075773460485	2016-01-06T06:18:40	S&amp;P 500 Stocks Above Moving Averages [5-JAN]:  3d:   34% 5d:   21% 10d:  24% 20d:  32% 50d:  30% 200d: 39%  SPX SPY
+MarketCharts	684426601002582016	2016-01-05T17:29:52	eminiglobex Sure, just click the 'Data' button for details. Thanks.
+MarketCharts	684373474391883781	2016-01-05T13:58:45	Meaningful bounces have happened when 50% of SPX stocks' had their 5-day RSI under 30. SPY  
+MarketCharts	684345821538717696	2016-01-05T12:08:53	Stocks above 20-day MA - getting close to oversold SPX SPY 
+MarketCharts	684345195081658368	2016-01-05T12:06:23	Stocks at 20-day highs: at oversold levels. Stocks at 20-day lows: getting to oversold levels SPY SPX 
+MarketCharts	684320413275394048	2016-01-05T10:27:55	Studying yourself as a trader plus fresh views of an oversold market:  STUDY SPY ES_F tradingpsychology
+MarketCharts	684261999954497536	2016-01-05T06:35:48	S&amp;P 500 Stocks With Daily RSI Above 70 [4-JAN]:  5-Day:  3% 10-Day: 1% 14-Day: 0%  SPX SPY
+MarketCharts	684260730397454337	2016-01-05T06:30:45	S&amp;P 500 Stocks With Daily RSI Below 30 [4-JAN]:  5-Day:  37% 10-Day: 7% 14-Day: 5%  SPX SPY
+MarketCharts	684259459946823680	2016-01-05T06:25:42	S&amp;P 500 Stocks Above Moving Averages [4-JAN]:  3d:   15% 5d:   12% 10d:  19% 20d:  24% 50d:  26% 200d: 39%  SPX SPY
+MarketCharts	684168353561219072	2016-01-05T00:23:41	(New post) Oversold, but... Thx MarketCharts  
+MarketCharts	682814389242691584	2016-01-01T06:43:31	S&amp;P 500 Stocks With Daily RSI Above 70 [31-DEC]:  5-Day:  1% 10-Day: 1% 14-Day: 1%  SPX SPY
+MarketCharts	682813119563862016	2016-01-01T06:38:28	S&amp;P 500 Stocks With Daily RSI Below 30 [31-DEC]:  5-Day:  9% 10-Day: 6% 14-Day: 6%  SPX SPY
+MarketCharts	682811848526278664	2016-01-01T06:33:25	S&amp;P 500 Stocks Above Moving Averages [31-DEC]:  3d:   7% 5d:   10% 10d:  47% 20d:  44% 50d:  39% 200d: 43%  SPX SPY
+MarketCharts	682516510372409344	2015-12-31T10:59:51	S&amp;P 500 Stocks With Daily RSI Above 70 [30-DEC]:  5-Day:  13% 10-Day: 3% 14-Day: 1%  SPX SPY
+MarketCharts	682515240920182784	2015-12-31T10:54:48	S&amp;P 500 Stocks With Daily RSI Below 30 [30-DEC]:  5-Day:  6% 10-Day: 6% 14-Day: 6%  SPX SPY
+MarketCharts	682513970163499008	2015-12-31T10:49:45	S&amp;P 500 Stocks Above Moving Averages [30-DEC]:  3d:   32% 5d:   41% 10d:  72% 20d:  59% 50d:  47% 200d: 47%  SPX SPY
+MarketCharts	682282642348224512	2015-12-30T19:30:32	Over 5 yrs, equity put/call spikes like BIG one on 28-Dec have always preceded rallies. SPX  
+MarketCharts	682041735883669505	2015-12-30T03:33:16	The reason why the bulls should be cautious about a January hangover Thx marketcharts  
+MarketCharts	682084616258228224	2015-12-30T06:23:39	S&amp;P 500 Stocks With Daily RSI Above 70 [29-DEC]:  5-Day:  32% 10-Day: 6% 14-Day: 2%  SPX SPY
+MarketCharts	682083345153437696	2015-12-30T06:18:36	S&amp;P 500 Stocks With Daily RSI Below 30 [29-DEC]:  5-Day:  5% 10-Day: 5% 14-Day: 5%  SPX SPY
+MarketCharts	682082074216542209	2015-12-30T06:13:33	S&amp;P 500 Stocks Above Moving Averages [29-DEC]:  3d:   83% 5d:   84% 10d:  87% 20d:  68% 50d:  54% 200d: 48%  SPX SPY

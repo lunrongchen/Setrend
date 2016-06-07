@@ -1,0 +1,300 @@
+GuFinProf	725715901631205376	2016-04-28T15:58:48	cromwellc Don't forget litigation exposure, higher regulatory costs (e.g. SarbOx ++), and other market structure changes.
+GuFinProf	725702813196668928	2016-04-28T15:06:48	Being public shouldn't be painful OTCMarkets OTCQX OTCQB dealers liquidity crowdfunding JOBSAct RegA+ RegCF 
+GuFinProf	725714748084342786	2016-04-28T15:54:13	What is happening with the PAVMU IPO?
+GuFinProf	725388203289616388	2016-04-27T18:16:39	nanexllc One exchange to rule them all, one exchange to find then, one exchange to bring them all, and in the dark pools bind them. :)
+GuFinProf	725345537541705728	2016-04-27T15:27:07	rockhowse 
+GuFinProf	725341618988060672	2016-04-27T15:11:32	Well, Andrew, don't forget the pressing need to issue conflict mineral and pay ratio rules........ 
+GuFinProf	725341683500511232	2016-04-27T15:11:48	SEC Commissioner Stein is blasting CAT Proposal for allowing 50 millisecond clock drift  and a 5% error rate. 
+GuFinProf	725340779535716352	2016-04-27T15:08:12	Now you can turn the federal deficit into a computer game 
+GuFinProf	725032203411922944	2016-04-26T18:42:02	SEC EMSAC: Great progress in getting usable info about retail execution quality.   
+GuFinProf	725029075312586753	2016-04-26T18:29:36	Steve Luparello SEC EMSAC re market wide trading halt problems:"Just so long as I am not director of Trading and Markets when it happens."
+GuFinProf	725028425900167168	2016-04-26T18:27:01	Jamil Nazarali to SEC EMSAC:  Closing markets can lead to more investor panic.
+GuFinProf	725028262842359808	2016-04-26T18:26:22	JoeRatterman BatsGlobal :  The lack of testing for market-wide circuit breakers is a serious problem. 
+GuFinProf	725026854512529409	2016-04-26T18:20:47	ChristopherNagy DLauer Mean v. median differences
+GuFinProf	725025629016588288	2016-04-26T18:15:54	SEC EMSAC:  "Thank God we didn't have a halt" on August 24.  Market-wide circuit breakers need to be reexamined. 
+GuFinProf	725025162152820738	2016-04-26T18:14:03	SEC EMSAC:  Great recommendation for improving LULD:  Let bands float in a limit state instead of a halt. 
+GuFinProf	725016081123913728	2016-04-26T17:37:58	nasdaq's Jeff Davis to SEC EMSAC:  SIP Latency about 400-450 microseconds. Will do down further with new SIP. 
+GuFinProf	725011647039938560	2016-04-26T17:20:21	Observatory13 to SEC emsac:  "Fix the SIPs or phase them out"  Need to fix SIP/NMS governance. 
+GuFinProf	725010038989963264	2016-04-26T17:13:57	Observatory13 to SEC emsac.   "Exchange immunity is an unfair competitive advantage." 
+GuFinProf	725009664295997440	2016-04-26T17:12:28	Observatory13 to SEC EMSAC:  Wants to see exchanges have regulatory capital to cover liability. 
+GuFinProf	725008963566227456	2016-04-26T17:09:41	David Cushing of Wellingtonmgt to SEC EMSAC : System changes are risky and can lead to system breakdowns. 
+GuFinProf	724979860574101504	2016-04-26T15:14:02	Joe Ratterman from BatsGlobal to SEC EMSAC: Pilot does not address complexity or conflicts in market. 
+GuFinProf	724978986439204864	2016-04-26T15:10:34	Reggie Brown "Mr. ETF" from cantorfitzgerld to SEC's EMSAC:  Don't forget ETFs! Their microstructure matters. 
+GuFinProf	724978261353107456	2016-04-26T15:07:41	nasdaq's Jeff Davis to SEC's EMSAC:  Exchange fee structures are public.  ATS fees are hidden. 
+GuFinProf	724977760901292032	2016-04-26T15:05:42	NYSE's Farley would get rid of rebates completely. They are "sub optimal". 
+GuFinProf	724975145870221312	2016-04-26T14:55:18	Nazarali to EMSAC:  Less revenue for liquidity providers means there will be less liquidity provision. 
+GuFinProf	724974887878557696	2016-04-26T14:54:17	Nazarali to EMSAC:  Excluding small caps will miss impacts where it is most important. Great point. 
+GuFinProf	724973823972384768	2016-04-26T14:50:03	Jamil Nazirali from Citadel to SEC  emsac: Could have no rebate instead of zero take fee bucket.
+GuFinProf	724972844589797377	2016-04-26T14:46:10	Adam Nunes of wehrtyou hits the nail on the head to EMSAC:  Existence of protected quotes drives this problem. 
+GuFinProf	724970229948772353	2016-04-26T14:35:46	LawEconCapital Jones SEC EMSAC:  Expects changes in market quality will be modest. Bid-ask spreads will go up. 
+GuFinProf	724969403721224192	2016-04-26T14:32:29	LawEconCapital's Charles Jones to SEC's EMSAC:  Basic market failure is conflict between broker and customer. 
+GuFinProf	724968078707040257	2016-04-26T14:27:13	NYSE's Farley brings up good point about EMSAC governance:  No issuers on committee.  Same could be said of NMS plans.
+GuFinProf	724967433170214912	2016-04-26T14:24:39	NYSE Farley to SEC's EMSAC:  Access fee pilot will increase dark pool activity.
+GuFinProf	724966594326061057	2016-04-26T14:21:19	Georgetown alum &amp; NYSE Pres Tom Farley to SEC EMSAC:  Number of listed U.S. companies half what it used to be! 
+GuFinProf	724965171387572224	2016-04-26T14:15:40	Georgetown Alumnus and NYSE President Tom Farley about to testify before SEC Equity Market Structure Advisory Committee EMSAC
+GuFinProf	724963617678872576	2016-04-26T14:09:30	emsac Joe Mecane:  No Trade-At in pilot as it would muddy results of access fee pilot.
+GuFinProf	724960206967431169	2016-04-26T13:55:57	SEC Commissioner Piwowar thinks any maker-taker pilot should have a zero access fee category
+GuFinProf	724962667623014404	2016-04-26T14:05:43	EMSAC:  Joe Mecane;  2 cent bucket was a compromise bucket.  Typical exchange revenue capture is 3-4 cents / 100 shares.
+GuFinProf	724958909786640385	2016-04-26T13:50:47	SEC Commisioner Stein:  SEC putting  CAT ConsolidatedAuditTrail out tomorrow for public comment.
+GuFinProf	724958447700205568	2016-04-26T13:48:57	Chair White is discussing the SEC's agenda for equity market structure, including LULD, ETPs, etc. Should pay as much attention to bonds.
+GuFinProf	724957424721993728	2016-04-26T13:44:53	Price controls are evidence of a market imperfection or bad policy. Let's focus on the fixing the imperfection. 
+GuFinProf	724956755969585152	2016-04-26T13:42:14	I called for a maker-taker pilot back in 2014:  
+GuFinProf	724956009974882304	2016-04-26T13:39:16	Tweeting this morning's emsac meeting. SEC looking at maker-taker pilot.  
+GuFinProf	723293796117712897	2016-04-21T23:34:13	Changes to LimitUp LimitDown circuit breakers will result in fewer erroneous LULD halts. Step in right direction.  
+GuFinProf	722118963937808384	2016-04-18T17:45:51	pymnts Will 2GB of free data from verizon be enough to boost usage of AndroidPay?    
+GuFinProf	720995437407145984	2016-04-15T15:21:22	matt_levine Next the tax-grubbers will want to tax us on the imputed income we get from washing our own laundry. 
+GuFinProf	720994540828512256	2016-04-15T15:17:48	This is the real tax scandal. Tax software companies have blocked simple online filing of tax returns.  
+GuFinProf	720982406656712705	2016-04-15T14:29:35	My 1,000th tweet:  BATS batsglobal IPO off and running ~ $22.80 right now.  Congratulations on a successful launch.
+GuFinProf	720976258469744641	2016-04-15T14:05:09	Interesting pre-open quote behavior on BATS BatsGlobal IPO.
+GuFinProf	720952218711490560	2016-04-15T12:29:38	Another sign of the electronic times:  CME will close NY trading floor. Some CME options still trading in Chicago. 
+GuFinProf	720943564948115460	2016-04-15T11:55:15	For the consolidated audit trail to work, the de minimis time cannot be less than 2 times the time-stamp resolution
+GuFinProf	720232577395793920	2016-04-13T12:50:02	$22B Equinix EQIX, owner of many exchange data centers, worth more than $10B NDAQ, almost as much as $28B ICE.  
+GuFinProf	718266333071323136	2016-04-08T02:36:53	FirstLordBot nanexllc If Hillary is elected President, Bill will be the First Ladies' Man.
+GuFinProf	717679008922607616	2016-04-06T11:43:04	Before the ink is dry on the new DOL FiduciaryRule, the industry is trying to take advantage of shortcomings  
+GuFinProf	717676632178302976	2016-04-06T11:33:37	Fasterpayments = less risk for country and less hassle for consumers.  Same day ACH coming next year. NACHAOnline 
+GuFinProf	717363860404060160	2016-04-05T14:50:46	keithbrainard: # active employees to retirees for public pension dropped from 2.43 in 2001 to 1.48 in 2014. SocialSecurity same problem.
+GuFinProf	717362783264894976	2016-04-05T14:46:30	keithbrainard :  Public pension plan funded status continues to deteriorate. Taxpayers look out! 
+GuFinProf	717361677151432704	2016-04-05T14:42:06	keithbrainard : New GASB Accounting Standards 67 &amp; 68 now force public pension plans to show pension liabilities more accurately.
+GuFinProf	717361366361833472	2016-04-05T14:40:52	keithbrainard:  Most states have reformed public pensions in recent years. 
+GuFinProf	717357757867945984	2016-04-05T14:26:31	keithbrainard cantorfitzgerld: Aggregate funding level of public pensions ~74%. In other words, assets worth 26% less than liabiliities.
+GuFinProf	717344047812190209	2016-04-05T13:32:03	Rod Jones stoxx  at cantorfitzgerld conf msbgu :  Single index models are wrong.  Risk premia are not constant.
+GuFinProf	717341340015661056	2016-04-05T13:21:17	Joanne Hill proshares:  ETFs transformational in bond market structure. Forced dealers to come up with a way of pricing bond portfolios.
+GuFinProf	717332720494514177	2016-04-05T12:47:02	AleGrindal :  Election years have been good for equity markets. Typically see rally at end of year w/ elimination of uncertainty.
+GuFinProf	717332239672078336	2016-04-05T12:45:07	alegrindal at the cantorfitzgerld conference:   Shale oil production is elastic.  At $45 they can increase production.
+GuFinProf	717330765579685888	2016-04-05T12:39:16	Tweeting today from the cantorfitzgerld Investment Revolution Conference at msbgu Georgetown University.
+GuFinProf	715899049304596480	2016-04-01T13:50:08	This is no AprilFools. NyseArca suspending trading for today in AMZN GOOG ++ due to tech issues with new system. 
+GuFinProf	715897785208455169	2016-04-01T13:45:07	Is it AdvisOr or AdvisEr?  SEC Chair talks of fitting Robo-advisOrs into the framework of the AdvisErs Act.  
+GuFinProf	715896370771726336	2016-04-01T13:39:30	The real issue in the iex debate:  Our regulatory system is obsolete, slow, and underfunded. SEC_News 
+GuFinProf	715858837970882564	2016-04-01T11:10:21	AprilFools  Day banned in China? 
+GuFinProf	714947682423341057	2016-03-29T22:49:45	SEC should not regulate 2X and 3X funds out of existence. They typically are as risky as individual stocks.  
+GuFinProf	714889705205006337	2016-03-29T18:59:22	Short squeeze on Oil &amp; Gas 3X bear ETF DRIP :  57% cost to borrow .
+GuFinProf	714818063581978624	2016-03-29T14:14:41	rob_daly But it's harder to fit distributed-ledger architecture into a 161 character tweet than blockchain. Let's here it for simplicity.
+GuFinProf	714808136150941696	2016-03-29T13:35:14	The_DTCC testing blockchain for repo market   But are transactions really final?  
+GuFinProf	714803790935887873	2016-03-29T13:17:58	Interesting TabbFORUM insight:  blockchain transactions are not really immutable   
+GuFinProf	714465887307309056	2016-03-28T14:55:16	Black mail carrier handcuffed by NYPD while delivering packages, video shows 
+GuFinProf	714438846239358976	2016-03-28T13:07:49	Georgetown msbgu students:  If 5000 Hoyas verify our gu email, we all get 30% off Lyft rides. 
+GuFinProf	714200398018519040	2016-03-27T21:20:18	AskCiti But, citi, WHY not?  You are paying ApplePay 15 bps, and far less for androidpay. Why not make card available for it?
+GuFinProf	714199778826039296	2016-03-27T21:17:51	GuFinProf Thanks for your question. At present, Android Pay is not available when using Citi® / AAdvantage® cards, however... (1/2) ^PB
+GuFinProf	714199694533111808	2016-03-27T21:17:31	Why does the AmericanAir AAdvantage card from citi support ApplePay  but not  AndroidPay ? wsj ft pymnts business ReutersBiz
+GuFinProf	714199085155291136	2016-03-27T21:15:05	Why doesn't the AmericanAir AAdvantage card from citi support Android Pay like other Citi cards? Would make good story for WSJ ft
+GuFinProf	714198817424482305	2016-03-27T21:14:01	Why doesn't the AmericanAir AAdvantage card from citi support Android Pay like other Citi cards? Would make good story for pymnts
+GuFinProf	713383459234979840	2016-03-25T15:14:05	Basel 3++: Banks will no longer be able to use their own risk models to determine capital adequacy.  Finally!  
+GuFinProf	713364168477425664	2016-03-25T13:57:26	RajeevBhatia416 nanexllc TraderCali CFAinstitute 
+GuFinProf	712372943037157376	2016-03-22T20:18:39	Commented on Shorting Tesla In 2016  TSLA
+GuFinProf	712340068266958849	2016-03-22T18:08:01	Precog1982 JoeSaluzzi IEX Then you will love this...  
+GuFinProf	712308334641025024	2016-03-22T16:01:55	JoeSaluzzi IEX I'm pleased the SEC listened to me.  
+GuFinProf	711907167356358656	2016-03-21T13:27:49	New nasdaq opening auction protections go into place today.  
+GuFinProf	710967522187730944	2016-03-18T23:14:01	SEC_News late on a Friday issues iex delay on exchange status &amp; proposes a rule that says 1000 microsec delay OK. 
+GuFinProf	710887617248763905	2016-03-18T17:56:30	Weeden &amp; Co suggests good compromise on IEX : Exchange status without protected quote status.   
+GuFinProf	710122909591805952	2016-03-16T15:17:49	CCMCSummit Tom Donohue: "You don't want to run a mid size bank any more. It's more regulation than banking."
+GuFinProf	710112278683713536	2016-03-16T14:35:35	CCMCSummit Natixis_com hailer:It's not hard to imagine a world where we call our financial advisor as often as we call our travel agent.
+GuFinProf	710103953833390080	2016-03-16T14:02:30	CCMCSummit SEC Chair White "eager" to exercise Dodd-Frank 913 power for a uniform fiduciary standard.
+GuFinProf	710103057565143040	2016-03-16T13:58:56	CCMCsummit SEC Chair White: "We need a better proxy for accredited investor."
+GuFinProf	708355031049871360	2016-03-11T18:12:54	nanexllc They didn't have to comment in public.
+GuFinProf	708317184787914752	2016-03-11T15:42:31	Mystery 'Dude' Rattles Turkish Stock Traders With Massive Bets  via business
+GuFinProf	708040571957469186	2016-03-10T21:23:21	For the Time Lords :  FINRA proposes to cut the clock synchronization requirement from 1 sec to 50 milliseconds. 
+GuFinProf	707598182931255296	2016-03-09T16:05:28	Abu Dhabi Stock Exchange shuts down due to weather.    via business
+GuFinProf	705840699011366912	2016-03-04T19:41:51	Why faster payments and shorter settlement?  From my favorite equation in finance:  TIME=RISK.
+GuFinProf	705513639210590208	2016-03-03T22:02:14	dcsummit:  ibm Arvind: blockchain can simplify international trade finance. Letters of credit become smart contracts.
+GuFinProf	705513248003588096	2016-03-03T22:00:40	dcsummit: Arvind:  IBM runs its own internal $44B financing network on the blockchain; Automated dispute resolution frees up capital.
+GuFinProf	705511725320294400	2016-03-03T21:54:37	dcsummit:  ibm Arvind: blockchain can increase the flow of capital just like the internet sped up the flow of information.
+GuFinProf	705511506188902404	2016-03-03T21:53:45	dcsummit:  ibm arvind:  Putting car titles on blockchain reduces cost for state government.
+GuFinProf	705511053233360896	2016-03-03T21:51:57	dcsummit:  Arvind Krishna ibm : blockchain can optimize complex enterprise transactions and save $300B. Increase flow of capital 10%.
+GuFinProf	705507876870209539	2016-03-03T21:39:20	dcsummit: Sam Cole of kncminer : We can put sales tax on the blockchain, eliminating $500 billion in tax fraud per year.
+GuFinProf	705506727588962304	2016-03-03T21:34:46	dcsummit VC Jim Robinson of jdrive:  "This is the 3rd time I've seen AI become hot."
+GuFinProf	705505104028409856	2016-03-03T21:28:19	dcsummit:  PwC_LLP  Identity can be proven with picture and fingerprint on blockchain.  Can fight human traficking.
+GuFinProf	705504595938824193	2016-03-03T21:26:17	dcsummit: Use case for blockchain from drive: NY AG  gets 200 complaints/week about house titles. House&amp;car titles can be more secure.
+GuFinProf	705503308706934784	2016-03-03T21:21:11	dcsummit : Another bllockchain use case from kncminer:  You can verify that your vote is counted.
+GuFinProf	705502900697567232	2016-03-03T21:19:33	dcsummit pwc_llp Tim O'Donnell: Use case for blockchain: Use permits tracking of $ contributed to charity. See exactly where your $ went.
+GuFinProf	705501968639336449	2016-03-03T21:15:51	dcsummit:  blockchainsmith from BitFuryGroup :  "We should ditch words that hurt the cause. Like "miner""
+GuFinProf	705501138951479298	2016-03-03T21:12:33	dcsummit:  Will there be interoperability between private and public blockchains?
+GuFinProf	705499735692599296	2016-03-03T21:06:59	dcsummit Sam Cole:  Public bitcoin miners like kncminer sell security services to private blockchains.
+GuFinProf	705479804871643136	2016-03-03T19:47:47	dcsummit bitpay 's spair:  "bitcoin is a forcing function that forces regulators to deal with [cybersecurity and consumer protection.]"
+GuFinProf	705472717018030080	2016-03-03T19:19:37	citi Hartnett:  Our securitization business is one of the biggest buyers of loans from ProsperLoans .
+GuFinProf	705469761891733504	2016-03-03T19:07:52	dcsummit: Darrius Jones usaa:Private blockchain is comfort.  People don't feel comfortable putting transactions on a public blockchain.
+GuFinProf	705468527914913792	2016-03-03T19:02:58	DCsummit: MarcHochstein asks: What does blockchain do that an SQL database doesn't? Hartnett citi replies: history/process/risk benefits
+GuFinProf	705466697982070784	2016-03-03T18:55:42	dcsummit Nasdaq 's Paniscotti  "All stock exchanges do is transfer bearer assets from one person to another. "
+GuFinProf	705466555786797056	2016-03-03T18:55:08	dcsummit Nasdaq 's Paniscotti  "Satoshi created a digital bearer asset."
+GuFinProf	705464995849609216	2016-03-03T18:48:56	DCsummit:  nasdaq nasda working on proxy voting in Estonia using blockchain . 
+GuFinProf	705463223147995137	2016-03-03T18:41:53	DCsummit:  digitalassetcom CEO:  Women only 9% in fintech.  Talent pipeline needs more females.
+GuFinProf	705459933320499200	2016-03-03T18:28:49	DCsummit:  digitalassetcom: blockchain is a database technology that permits mutualization of common infrastructure and big cost savings.
+GuFinProf	705459569192017920	2016-03-03T18:27:22	digitalassetcom:"Business model in financial services is under existential threat." Either not profitable or TBTF in danger of breakup.
+GuFinProf	705458916252131328	2016-03-03T18:24:47	Cool test of trading commercial paper with 40 banks:   
+GuFinProf	705458350218199040	2016-03-03T18:22:32	dcsummit: digitalassetcom : Option to settle at different speeds better, real time loses benefits of netting. May be better to wait.
+GuFinProf	705458044075958272	2016-03-03T18:21:19	dcsummit:  digitalassetcom working with ASX on blockchain implementation in posttrade to replace COBOL-based system.
+GuFinProf	705457293396189184	2016-03-03T18:18:20	dcsummit: digitalassetcom CEO Blythe Masters: Goals in wholesale financial services: Free up capital, cut costs in post-trade processing.
+GuFinProf	705436927680503808	2016-03-03T16:57:24	dcsummit fbi Pelker:"Nothing necessarily illicit about using bitcoin:  We've stated this in numerous indictments and public statements."
+GuFinProf	705428549205946368	2016-03-03T16:24:07	dcsummmit:  Chain CEO adamludwin :  We can change market structure with a network.
+GuFinProf	705428069897609217	2016-03-03T16:22:12	dcsummit adamludwin : blockchain can move assets digitally without copying them.
+GuFinProf	705426700197306368	2016-03-03T16:16:46	dcsummit: chain CEO adamludwin  says "Blockchain is a strategy"
+GuFinProf	705411886146265088	2016-03-03T15:17:54	SymbiontIO :  Symbiont writes smart contracts in human-readable Python3. dcsummit Blockchain
+GuFinProf	705410531943948288	2016-03-03T15:12:31	dcsummit:  Smart contracts can reduce counterparty risk and reduce collateral costs. .
+GuFinProf	705409643749744640	2016-03-03T15:08:59	Tweeting today from sold out dcsummit blockchain summit In Lohrfink Auditorium Georgetown msbgu
+GuFinProf	705393910923796480	2016-03-03T14:06:28	asx Australia moving to T+2 on Monday 3/7.  Lagging U.S. still more than a year away.  
+GuFinProf	705048474191052800	2016-03-02T15:13:50	MERGE or DIE: In just 16 years, 27 stock exchanges have merged into 5 global behemoths.  
+GuFinProf	705068506694479872	2016-03-02T16:33:26	Fascinating idea: Weight shareholder votes by ownership time. Will reduce short-termism.   
+GuFinProf	705035080381689856	2016-03-02T14:20:36	20 yrs of US mkt-structure evolution has made life better 4 investors, harder 4 brokers. Same as May Day 1975. That's a good policy outcome.
+GuFinProf	705064058811260928	2016-03-02T16:15:45	Payments these days are about the customer relationship and making the customer experience better.  
+GuFinProf	704782572925026304	2016-03-01T21:37:14	nanexllc Congratulations!
+GuFinProf	704768342846894080	2016-03-01T20:40:41	This is cool:  How forensic accountants use Benford's law to detect fraud:  
+GuFinProf	704062194082824192	2016-02-28T21:54:42	Great negotiating advice from former FBI hostage negotiator and now Georgetown msbgu  instructor VossNegotiation 
+GuFinProf	702917189519740928	2016-02-25T18:04:52	fedpayments Fed Faster Payments Task Force has a YouTube Channel.  
+GuFinProf	702907445237178368	2016-02-25T17:26:08	Suggestion heard  FedPayImprove for better communication about faster payments : Cute cat pics. CutePicsOfCats 
+GuFinProf	702904528069332992	2016-02-25T17:14:33	At the Fed's Faster Payments Task Force meeting today.  Lots of room for improvement in US payment system. 
+GuFinProf	701787421457960960	2016-02-22T15:15:34	Only 6 years after the JOBS Act due to quick sec action. First JOBS Act Company Goes Public Via Reg A+ on OTCQX | 
+GuFinProf	701087116546080768	2016-02-20T16:52:48	Slogan of the year from the Dear Leader: Let's massively plant Aeguk Grass! Perhaps he wants to smoke more of it. 
+GuFinProf	701063493110390785	2016-02-20T15:18:56	The slowness of new EMV chip payment cards will push us to using our smartphones to pay very soon.  
+GuFinProf	700779162957512704	2016-02-19T20:29:06	OK grammar fans, time to change your spelling.  BATSGlobal BATS is now lower case Bats.  
+GuFinProf	700777419825807360	2016-02-19T20:22:11	SEC_News Investor Advocate Rick Fleming criticizes changes in nyse listing standards  
+GuFinProf	700440621375479809	2016-02-18T22:03:52	Is bitcoin a currency or a commodity?  Interesting legal battle with huge tax implications. 
+GuFinProf	700342272030855168	2016-02-18T15:33:04	These show the commuting and property costs in eight world cities. Read more at  FTcommute 
+GuFinProf	700076647647674369	2016-02-17T21:57:34	SEC fails to act on pay-to-play rules so they go into effect anyway. Interesting word choice -- "deemed approved." 
+GuFinProf	700076400187981825	2016-02-17T21:56:35	Negative interest rates are taxes on cash balances. Banning paper cash to enforce such taxes is a bad idea.  
+GuFinProf	700058772581040130	2016-02-17T20:46:32	nanexllc And the IG found no evidence of ethics rules violations by Eric Swanson. 
+GuFinProf	700048681781891073	2016-02-17T20:06:26	Good article by ChrisKentouris about the intricacies of shortening the settlement cycle  c
+GuFinProf	699948233968095233	2016-02-17T13:27:18	ECB may scrap 500 euro note. This would be good for US seignorage as our paper money is one of our best exports.  
+GuFinProf	699669183274094594	2016-02-16T18:58:27	Common sense on student loans from BrookingsInst . Base repayment on income with no interest but cap total pmts.  
+GuFinProf	699641374820282368	2016-02-16T17:07:57	OIL still 19.8% overpriced relative to underlying value as of 12:06. Easy arb by shorting and hedging with USO 
+GuFinProf	699640740926742528	2016-02-16T17:05:25	Last Post: Overpricing Of The OIL ETF Presents An Arbitrage Opportunity 
+GuFinProf	699374767300866048	2016-02-15T23:28:32	Fuzzy math on the left   And ad hominem attacks on everyone raising questions is not the answer.
+GuFinProf	699598497306255360	2016-02-16T14:17:34	nasdaq is launching pilot to increase incentives for liquidity providers when markets are stressed. LULD Right on! 
+GuFinProf	698993290486480898	2016-02-14T22:12:41	Not to mention that middle class investors with mutual funds and pension funds will get hit the hardest.  
+GuFinProf	698992724012183552	2016-02-14T22:10:26	zerohedge The graph shows the total debt, not the average debt.  Don't forget there are now a lot more 67 year old baby boomers.
+GuFinProf	698621006739451905	2016-02-13T21:33:22	mechmarkets It's easier to hedge a short in OIL with a long in USO. 99% daily correlation before OIL went wacko.
+GuFinProf	698587076413882368	2016-02-13T19:18:32	mechmarkets But spreads are wide on the puts and you still need to hedge against a rise in oil prices.
+GuFinProf	698179427176296448	2016-02-12T16:18:41	The OIL ETN still drastically overpriced.  $4.63 v. indicative value of $3.87.  Cost to borrow only 1.34%. Where are the arbs?
+GuFinProf	698171896890667008	2016-02-12T15:48:46	We live in interesting times. exxonmobil XOM stock is now expensive to borrow to short.  2.65% @interactivebroker v. 0.25% typically.
+GuFinProf	697597548928888832	2016-02-11T01:46:31	Huge arbitrage opportunity with mispriced OIL ETN.  Easy to arb by shorting OIL and hedging with USO. 
+GuFinProf	697549425976205312	2016-02-10T22:35:17	Leaping lizards! :  As of leap day (2/29) the NYSE will stop accepting marketable orders &gt; 1 million shares. 
+GuFinProf	697090849218433025	2016-02-09T16:13:04	Should the FASB FAFNorwalk revisit foreign currency accounting? It is time. 
+GuFinProf	696733812663984128	2016-02-08T16:34:20	One way to make the Consolidated Audit Trail happen:  make it useful by giving participants useful data.   via BV
+GuFinProf	696728978632155136	2016-02-08T16:15:07	FT But I'd rather cook with Olive Oil than Brent! :)
+GuFinProf	695725729418514432	2016-02-05T21:48:34	LULD works to prevent flash crashes to $0.01, but still needs refinements.   
+GuFinProf	695611319685423104	2016-02-05T14:13:57	Citadel buying kcg 's DMM business on the NYSE
+GuFinProf	695605923121860608	2016-02-05T13:52:30	Chicagostock Chicago Stock Exchange sold to Chinese group. Will China link to NMS?  
+GuFinProf	695250922956570625	2016-02-04T14:21:51	Great thing about our competitive market structure:  Exchanges back each other up. SEC_News NYSE outage study:   
+GuFinProf	694616404830638081	2016-02-02T20:20:30	emsac:  Meeting adjourned! :)
+GuFinProf	694616329261834243	2016-02-02T20:20:12	emsac  Next meeting on April 26.
+GuFinProf	694616209409609728	2016-02-02T20:19:44	emsac Customer Issues Subcommitee:  Looking at 605/606.
+GuFinProf	694615612681785344	2016-02-02T20:17:22	The SEC is really into market structure. All three members still at advisory panel, six hours after meeting began 
+GuFinProf	694615638023757824	2016-02-02T20:17:28	emsac market venues subcommittee report:  Discussion of NMS plan governance.  I concur with call for industry participation. + consumer!
+GuFinProf	694614627829846016	2016-02-02T20:13:27	emsac Market quality subcom looking at LULD and Clearly Erroneous Executions. Hope they deal with the 50+ clearly erroneous halts every day
+GuFinProf	694613922171715584	2016-02-02T20:10:39	emsac  Market quality subcomittee report
+GuFinProf	694613740562575360	2016-02-02T20:09:55	EMSAC Call for deeper dive into market data.  No good solution here - our grandchildren will still be debating market data. :)
+GuFinProf	694612952972967936	2016-02-02T20:06:47	antoniabmassa Great minds think alike. :)
+GuFinProf	694612792943468545	2016-02-02T20:06:09	emsac Now it is time for committee reports.  Now NMS committee....
+GuFinProf	694607117702053888	2016-02-02T19:43:36	JustinRBLT Good point.
+GuFinProf	694606158745698305	2016-02-02T19:39:48	JustinRBLT Not really issue.  Contracts with exchanges have clauses disclaiming consequential damages, so they still have no liability.
+GuFinProf	694605574235951106	2016-02-02T19:37:28	emsac  O'hara:  Stop orders don't really stop.  Could create real stop orders by tying stop order to put option.
+GuFinProf	694604990552379392	2016-02-02T19:35:09	EMSAC MattAndresen  Wholesalers/intermediaries provide protect retail investors from Facebook-IPO type problems in market.
+GuFinProf	694604486397018112	2016-02-02T19:33:09	EMSAC MattAndresen :  Exchange access fees dwarf payment for order flow.
+GuFinProf	694603419911352320	2016-02-02T19:28:55	emsac bradkats from IEX  quoting nanexllc statistic:  30% of off-exchange trades are one mill inside the inside.
+GuFinProf	694600632913809408	2016-02-02T19:17:50	emsac JoeRatterman :  99% of retail limit orders get filled if the market price touches the limit price.
+GuFinProf	694596817384837121	2016-02-02T19:02:40	emsac Eric Noll convergex : We should not assume that retail  investors need a seeing eye dog to get through the day.
+GuFinProf	694596518507061248	2016-02-02T19:01:29	EMSAC Nazarali also calls for improving Rule 606 so retail investors can see execution quality.  I concur!
+GuFinProf	694596297760837632	2016-02-02T19:00:37	emsac Barclays Joe Mecane: Suggests improving 606 to make it easier to determine retail execution quality.
+GuFinProf	694595279979429888	2016-02-02T18:56:34	emsac  O'hara: Tick size for some active stocks may be too big.
+GuFinProf	694595037661958144	2016-02-02T18:55:36	emsac Cornell Professor Maureen O'hara "What may seem sensible may not work out that way." Cites Canadian experiment on price improvement.
+GuFinProf	694594758514233344	2016-02-02T18:54:30	emsac: TripleDTrader  raising point over $.0001 de minimis price improvement.
+GuFinProf	694594285954535425	2016-02-02T18:52:37	EMSAC: Nazarali claims internalization would exist even without payment for order flow, because of better execution quality.
+GuFinProf	694593801030111232	2016-02-02T18:50:41	EMSAC:  Nazarali argues that retail orders deserve better prices than NBBO because they are less toxic. As a retail investor, I like this.
+GuFinProf	694593580896272384	2016-02-02T18:49:49	Jamil Nazarali from Citadel disagrees with almost everything that TripleDTrader says.  Citadel provides $$$$ in price improvement over NBBO
+GuFinProf	694593143640100865	2016-02-02T18:48:05	EMSAC:  Parlour thinks all-in costs to investors would fall if payment for order flow eliminated.
+GuFinProf	694592830359085060	2016-02-02T18:46:50	EMSAC Prof. Christine Parlour from UCBerkeley now testifying for SEC_News. Payment for order flow removes valuable liquidity form markets
+GuFinProf	694592167340314624	2016-02-02T18:44:12	EMSAC TripleDTrader , CFA:  More nonmarketable limit order metrics are needed for 605/606 update.
+GuFinProf	694591552518295552	2016-02-02T18:41:45	EMSAC TripleDTrader, CFA: OTC Market makers execute against lit markets when they predict quotes are about to roll.
+GuFinProf	694590286283018241	2016-02-02T18:36:43	TripleDTrader, CFA: Off exchange trading can harm on-exchange trading by widening spreads.  Public limit orders that set quote bypassed.
+GuFinProf	694589686094938112	2016-02-02T18:34:20	TripleDTrader, CFA : circuit breakers and popup warnings are mere bandaids for liquidity issues.
+GuFinProf	694588592958611456	2016-02-02T18:30:00	TripleDTrader  CFA now testifying for CFAinstitute SEC_News Equity Market Structure Advisory Commitee.
+GuFinProf	694588147116687360	2016-02-02T18:28:13	Childress:  Long list of good proposed changes to Rule 605/606. Still missing point that exec quality is a joint function of broker and mkt.
+GuFinProf	694587743083577344	2016-02-02T18:26:37	Chldress:  SEC Rules 605 and 606 are outdated and need to be refreshed. My take: Agree! Brokers should disclose better exec quality info.
+GuFinProf	694587127636611072	2016-02-02T18:24:10	Chldress WellsFargo :  Payment for order flow on a $95,000 AAPL trade about $1.
+GuFinProf	694585633461911553	2016-02-02T18:18:14	Frank Childress wellsfargo:  Today effective over quoted spread 61%. Spreads on S&amp;P500 3.5 bp.
+GuFinProf	694584811319590912	2016-02-02T18:14:58	Brown CharlesSchwab: Customers get average price improvement $6.26 per trade, while Schwab gets avg paymnt for order flow 0.0009 per share.
+GuFinProf	694583877441097729	2016-02-02T18:11:15	Brown:  CharlesSchwab : Our customers on average get a 25% discount to the bid-ask spread.
+GuFinProf	694582431710511104	2016-02-02T18:05:31	JeffreyBrown CharlesSchwab testifying on behalf of retail investors SEC_News Eq Mkt Struc Advis Com.  Market ords important to customers.
+GuFinProf	694558733129666560	2016-02-02T16:31:20	nanexllc  Most LULD halts are small illiquid securities that halt every day like UBN or IRMDB. Need to fix LULD ref price to prev close.
+GuFinProf	694558121126203396	2016-02-02T16:28:54	Hatheway:  No objection to popups to warn stop order traders, but how effective would they be?
+GuFinProf	694557243774242816	2016-02-02T16:25:25	aarp's Nancy Smith:  How much investor education do we need on markets and stops?
+GuFinProf	694555939677065217	2016-02-02T16:20:14	My take:  Adjust not bust sounds good, but how do you explain to retail why order adjusted to beyond limit price?
+GuFinProf	694555574323802112	2016-02-02T16:18:47	Reggie:  Flagging but not busting aberrant trades does damage to retail investors.
+GuFinProf	694555334434799616	2016-02-02T16:17:50	Reggie:  Submitting a trade for busting invites FINRA_News investigation, hence lack of busts on 8/24.
+GuFinProf	694555036731465729	2016-02-02T16:16:39	Jamil:  I don't think we need CEE anymore now that we have LULD.  Agree that fear of broken trades on 8/24 was more perception than reality.
+GuFinProf	694554559071526912	2016-02-02T16:14:45	nyse Cunningham:  Many trades on 8/24 could have been broken but were not submitted.
+GuFinProf	694554406243672065	2016-02-02T16:14:09	SEC_News Steve Luparello:  Greater perception than reality of possiblity of breaking trades on August 24.
+GuFinProf	694553754998300672	2016-02-02T16:11:34	CarnegieMellon 's Chester Spatt:  We have many rules in place that collectively disrupt the liquidity providing process.
+GuFinProf	694553264726106112	2016-02-02T16:09:37	Debate over harmonizing CEE and LULD:  MattAndresen:  Consider adjusting CEE trades rather than busting them.
+GuFinProf	694552437919719424	2016-02-02T16:06:20	nyse's Stacey Cunningham:  Enhanced disclosure of order imbalances and opening price eliminates need for Rule 48.
+GuFinProf	694551659322687488	2016-02-02T16:03:14	Gary Stone, Bloomberg Tradebook:  ETPs are not equities, they are equity-like.  Should equity exchanges halt them differently?
+GuFinProf	694549816282628096	2016-02-02T15:55:54	Joe Ratterman BATSGlobal  I am in violent agreement with almost everything.
+GuFinProf	694549322881441792	2016-02-02T15:53:57	Stacey Cunningham Nyse : Need to pay attention to how other asset classes will be affected by changes to LULD.
+GuFinProf	694549165133676544	2016-02-02T15:53:19	Eric Noll Convergex  likes Joe Mecane's idea to replace LULD halt with readjusting bands.  Trading will be orderly in a staircase fashion.
+GuFinProf	694548440957767680	2016-02-02T15:50:27	Joe Mecane:  We could eliminate LULD halts and reopens with floating bands.  I like this idea but need to think about it.
+GuFinProf	694548067673083906	2016-02-02T15:48:58	Reggie:  Doesn't like using published indicative values ( IIVs) for LULD reference prices. I disagree. If IIV bad, consumers are misled.
+GuFinProf	694547630823710720	2016-02-02T15:47:13	Reggie Browne  cantorfitzgerld (ETF market maker):  We didn't withdraw on 8/24; was hard to make markets.
+GuFinProf	694546626396971008	2016-02-02T15:43:14	Jamil:  Market and stop orders important to retail investors.  Most of the time they work pretty well.
+GuFinProf	694546456284393473	2016-02-02T15:42:33	Jamil Nazarali from Citadel:  Reg SHO rules don't make sense. Impede ability to provide liquidity. Good point.
+GuFinProf	694545959905280000	2016-02-02T15:40:35	O'Donnell:  All stop orders should contain a limit price.
+GuFinProf	694545786084954112	2016-02-02T15:39:54	O'Donnell: Price monitoring extension should be built into exchange auctions.  Would slow auctions for large price moves.
+GuFinProf	694544873828061184	2016-02-02T15:36:16	O'Donell:  Trading halt in SPX in pre-open on 8/24 deprived markets of information.  Rule 48 didn't help.
+GuFinProf	694544635469942784	2016-02-02T15:35:19	O'donell:  We did not see stocks trade at $.01 on 8/24, but there are still improvements to be made.
+GuFinProf	694544257227603969	2016-02-02T15:33:49	Paul O'Donnell of MorganStanley  now presenting secnews Market Structure Advisory Committee:  No simple fix.
+GuFinProf	694543815642849281	2016-02-02T15:32:04	JoeSaluzzi Market wide circuit breakers are not a panacea.  They blew up in China and could have blown up here on Aug 24.
+GuFinProf	694543495646814211	2016-02-02T15:30:48	nasdaq  endorses synchronizing Clearly Erroneous Execution standards with LULD.  Good idea.
+GuFinProf	694542744816058370	2016-02-02T15:27:49	Aug 24:  Relief that Market Wide Circuit Breaker did NOT trigger.
+GuFinProf	694542553052549120	2016-02-02T15:27:03	Aug 24:  Market orders and stop orders remain a challenge.
+GuFinProf	694542400346263552	2016-02-02T15:26:26	SECnews  Markets worked better on Aug 24 than on May 6 2010 Flash Crash. Systems worked as designed.  LULD worked as designed.
+GuFinProf	694541725872840705	2016-02-02T15:23:46	nasdaq 's Frank Hatheway at SEC's Market Structure Advisory Com:  Singular nature of significant events confounds data-driven  responses.
+GuFinProf	694540601501552641	2016-02-02T15:19:17	Attending SEC_News Equity Market Structure Advisory Committee meeting today. Big discussion of Aug 24 volatility and ETPs.
+GuFinProf	693820363353001984	2016-01-31T15:37:19	amacker because oil will be back to $100  by the time those wells can be drilled.
+GuFinProf	693534874255388673	2016-01-30T20:42:53	Great job NAD1880 !  Need for all airlines to offer CC closed captions for all passengers.  
+GuFinProf	693152130170015745	2016-01-29T19:22:00	nasdaq improving protections for opening auctions. Step in right direction.   
+GuFinProf	692801437626146817	2016-01-28T20:08:29	Great discussion at tabbfixed about whether buy-side firms can be bond market makers. Consensus: it's not in their DNA.  Compliance issues.
+GuFinProf	692798677128237057	2016-01-28T19:57:30	tabbfixed  Zack Elliison of Sun Life Inv Management. Better aggregation tools needed in fixed income. There is money to be made there.
+GuFinProf	692795679509516289	2016-01-28T19:45:36	tabbfixed : Zack Elliison of Sun Life Investment Management:  More bond trading platforms reduce liquidity through fragmentation.
+GuFinProf	692789047870279680	2016-01-28T19:19:15	tabbfixed  Steven Zamsky MorganStanley with respect to fixed income markets:  "Need more parking lots, not more on ramps".
+GuFinProf	692788086061797377	2016-01-28T19:15:25	tabbfixed  Steven Zamsky from MorganStanley :  It takes longer now to trade out of a 1% position.
+GuFinProf	692780223021109249	2016-01-28T18:44:11	tabbfixed:  Increasing concentration of fixed income dealers is a concern.
+GuFinProf	692775994843873280	2016-01-28T18:27:22	tabbfixed :  Susan Estes: OpenDoorTrading  Market is broken on rest of yield curve. Multiple levels of bifurcation.
+GuFinProf	692775265219538944	2016-01-28T18:24:29	tabbfixed MattAndresen : Bifurcation in trading Treasuries. Dealers not really needed in high vol on-the-runs. Liquidity crisis below them
+GuFinProf	692774050444283904	2016-01-28T18:19:39	tabbfixed OpenDoorTrading  US is not first market to automate fixed income.  We can learn from Mexico.
+GuFinProf	692767778529484800	2016-01-28T17:54:44	For up-to-the-minute news about changes in the Fixed Income world, follow today's TABBGroup BigFix event Tabbfixed.
+GuFinProf	692749835313758209	2016-01-28T16:43:26	nanexllc New LULD reference price after pause is the re-opening auction price.
+GuFinProf	692747270916325376	2016-01-28T16:33:14	ThemisSal nanexllc IEX No.  Saying that there is a delay after a halt before the new LULD bands are announced.
+GuFinProf	692746504021381120	2016-01-28T16:30:11	nanexllc Shows need to fix CEE.  Don't forget fear that market wide circuit breakers would shut down market .
+GuFinProf	692746160377839616	2016-01-28T16:28:49	nanexllc There is ~ 3ms delay between the resumption of trading and the first LULD bands during which trades can happen outside the bands.
+GuFinProf	692745139081592833	2016-01-28T16:24:46	Also, interesting ltabb report on prop market data costs:  . My take is other needed NMS fixes will take care of it.
+GuFinProf	692743716205940737	2016-01-28T16:19:07	Market wide circuit breakers can do more harm than good. US needs to rethink them.  
+GuFinProf	692735724613963776	2016-01-28T15:47:21	Interesting study from NYSE on August 24 events.  I agree with 94% of it, which gives it an A. 
+GuFinProf	692707745242484737	2016-01-28T13:56:11	Will extending trading hours increase trading volume?  KRX thinks so. 
+GuFinProf	689856291112624128	2016-01-20T17:05:31	A falling market is great news for retirement savers.  We will get 10% more shares with our retirement contribution this month!
+GuFinProf	688108219718217728	2016-01-15T21:19:18	The market drop is classic good news/bad news.  Good if you are a buyer (e.g. retirement investor) and bad if you are planning on selling.
+GuFinProf	688087234290036736	2016-01-15T19:55:55	Coming soon to msbgu Georgetown in DC on 3/3/16 : The Blockchain Summit. 
+GuFinProf	688066570581622784	2016-01-15T18:33:48	Bear markets are great for long-term retirement savers.  Lower prices mean I get more shares this month from my monthly retirement savings.
+GuFinProf	687102983084060676	2016-01-13T02:44:51	Did Obama really just say that Russia was propping up Ukraine? Reminds me of Gerald Ford's blunder saying eastern Europe was free.
+GuFinProf	686930406306922496	2016-01-12T15:19:06	Chinese CNH borrowing rates going crazy.  As the old saying/curse goes, these are interesting times. 
+GuFinProf	686630276320071682	2016-01-11T19:26:29	FNTC Fintech Acquisition has over 200 LULD halts in the last 3 days.  Need a better system for determining halts.
+GuFinProf	686620115056590849	2016-01-11T18:46:06	HFT Reaches for the Sky in UK.   
+GuFinProf	684129893756604425	2016-01-04T21:50:51	This is hilarious. The tone and signatory are both reminiscent of RTL, so that's my guess.  
+GuFinProf	685211439741689860	2016-01-07T21:28:32	Great article on affirmations and T+2 by ChrisKentouris finopsreport 
+GuFinProf	685197974851420161	2016-01-07T20:35:02	FNTC Fintech Acquisition stuck in LULD purgatory. 123 trading pauses in two days.  Anyone have a problem with this?
+GuFinProf	684079627044691969	2016-01-04T18:31:07	assa2016 meeting:  bitcoin network uses as much electricity as Ireland.
+GuFinProf	681901131425955840	2015-12-29T18:14:33	SEC releases lots of data on August 24 
+GuFinProf	679691974316834816	2015-12-23T15:56:09	Women not only earn less but they get charged on avg 7% more for gender-themed products.   
+GuFinProf	679386635797184513	2015-12-22T19:42:51	PHII stuck in limituplimitdown LULD limbo today with 25 trading halts so far today.  This needs fixing.
+GuFinProf	679312860183445505	2015-12-22T14:49:41	Target date for US T+2: 3Q 2017.  Detailed plans:   As the old saying goes, Nothing good can happen after the trade.
+GuFinProf	679311194960896000	2015-12-22T14:43:04	We are slowly catching up to Europe with T+2 implementation plan.  Let's leapfrog them and go to T+1!  TIME = RISK
+GuFinProf	679305915905024000	2015-12-22T14:22:05	The NSX (nee Cincinnati ) stock exchange resumes trading today as the 12th ex. . How soon will we get the lucky #13?
+GuFinProf	678601384644763648	2015-12-20T15:42:32	Yahoo! Finance is beta testing a watered down version with less data.  This is awful.  Put in your feedback at 
+GuFinProf	677871850815225857	2015-12-18T15:23:38	The most amusing IEX comment letter - by 8th grader Danny Mulson.  
+GuFinProf	677945597182242817	2015-12-18T20:16:40	ltabb Larry Tabb's common sense on marketstructure. He would make a great SEC C'mssioner  
+GuFinProf	677581373851439104	2015-12-17T20:09:23	ltabb mechmarkets SniperInMahwah RemcoLenterman The key is to make brokers deliver real execution quality stats to the customers.
+GuFinProf	677554484822867968	2015-12-17T18:22:32	Nationwide is not onyourside.  Their insured driver proceeds from a dead stop to hit a stopped vehicle. nationwide denies the claim.
+GuFinProf	677547095801372676	2015-12-17T17:53:10	Nice introduction to equity market structure from new group:   equitymarketsassociation:   
+GuFinProf	677506237693616128	2015-12-17T15:10:49	Proud to see Georgetown #4 on the list of colleges with high earning alumni. We can thank msbgu .  
+GuFinProf	674966167103082496	2015-12-10T14:57:29	wmt walmart enters the payment wars with Walmart Pay.  I think such QR based systems are clunky and will struggle. 
+GuFinProf	674626028069777408	2015-12-09T16:25:53	This is why satoshi is staying anonymous: Australian Police Raid Home of Man Said to Be Likely Creator of Bitcoin 
+GuFinProf	674612490173464576	2015-12-09T15:32:06	MarketPlumber DLauer ChuckHill137 elnunesio Routing is an artifact of the anti-trade through rules in Reg NMS, which I think unneeded.
+GuFinProf	674350881752551424	2015-12-08T22:12:33	SEC approves overstock ostk's bitcoin filing. Long live the blockchain. 
+GuFinProf	674311815350865921	2015-12-08T19:37:19	DLauer ChuckHill137 elnunesio Differences of opinion lead to a horse race.  That's why I like the idea of a pilot to find the facts.
+GuFinProf	674299012086947841	2015-12-08T18:46:27	21 limit up limit down trading halts so far today on CYCCP.  If it weren't for the Y, I would think the Soviets were back in action: CCCP

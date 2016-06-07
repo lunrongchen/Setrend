@@ -1,0 +1,30 @@
+ChartingStock	555173922535006208	2015-01-14T01:25:52	Glad to connect on Linkedin  Good Trading!
+ChartingStock	539931648410677248	2014-12-02T23:58:31	SPY Resistance $207.34 &amp; Current All Time High=$207.87..Support $205.78 $205.38 $204.18 $203.13..Manage Risk SPX
+ChartingStock	539930415570505730	2014-12-02T23:53:37	Thank you for the recent Favorite EricAafedt
+ChartingStock	537055553449521152	2014-11-25T01:29:56	SPY Resistance $207.39 &amp; Current All Time High=$206.68..Support $206.91 $205.98 Gap=$205.58 $204.18 $203.13 $202.61..Manage Risk SPX
+ChartingStock	534505594179584000	2014-11-18T00:37:18	SPY 1st Resistance At Current All Time High=$204.83..Support $203.66 $203.13 $202.61 $201.45 $200.06 Gap=$199.38..Manage Risk SPX
+ChartingStock	534504512204333056	2014-11-18T00:33:00	UNG Resistance $22.67 $23.3 $23.49 $23.64 Gap$24.1 $24.3..Support $21.72 Gap$21.3 $20.61 Gap$20.28.. Gap=$20.28..ManageRisk-More UNGTrader
+ChartingStock	532683591864811520	2014-11-12T23:57:19	SPY 1st Resistance At Current All Time High=$204.31..Support $203.31 $202.59 $201.6 $197.4 $196.8..Manage Risk SPX
+ChartingStock	532683515608178688	2014-11-12T23:57:01	GLD Resistance $112.17 $112.76 $113.15 Gap=$115.19 $115.83 $117.91..Support $111.23 $110.73 $109.67 $106.24..Manage Risk-More GLDTrader
+ChartingStock	532683466400600064	2014-11-12T23:56:49	NG_F Inventory# 10:30am Thur Support $21.73 $21.51 $21.21 $20.86 Gap=$20.28..Resistance $22.1 $22.53 $23.3 $23.49ManageRisk-More UNGTrader
+ChartingStock	519667727124803585	2014-10-08T01:56:55	Away Through Wed. Oct 22nd, As Always, Manage Risk. Glad To Connect On Linkedin: 
+ChartingStock	519667401210605568	2014-10-08T01:55:38	SPY Resistance $195.72 $197.6 $198.3 $199.05 $199.69..Support $193.22 192.35 $190.95 $190.55..Manage Risk ES_F SPX
+ChartingStock	519666956283031554	2014-10-08T01:53:51	UNG Resistance $21.27 $21.7 $22.29 $22.31 $22.65 $22.95..Support $20.91 $20.85 $20.67 $20.59..Manage Risk..More UNGTrader
+ChartingStock	519666501112967169	2014-10-08T01:52:03	GLD Support $116.09 $114.94 $114.42..Resistance $116.63 $117.5 $119.43 $120.54 $120.94..Manage Risk..More GLDTrader GOLD GDX
+ChartingStock	517813355424546816	2014-10-02T23:08:19	SPY Resistance 195.05 $196.77 Gap=$197.02 $197.55 $197.89 $198.39 $199.05..Support 192.36 $190.95 $190.55..Manage Risk ES_F SPX
+ChartingStock	517459848985051136	2014-10-01T23:43:36	SPY Resistance $196.77 Gap=$197.02 $197.55 $197.89 $198.39 $199.05..Support $193.91 $192.94 $190.95 $190.55..Manage Risk ES_F SPX
+ChartingStock	517458972086112256	2014-10-01T23:40:07	GLD Support $116.59 $115.85 $114.46..Resistance $117.26 $117.99 $119.24 $119.7 $120.54 $120.94..Manage Risk..More GLDTrader GOLD GDX
+ChartingStock	517458567499358208	2014-10-01T23:38:31	NG_F Inv# 10:30am Thur UNG Resistance $22.29 $22.31 $22.65 $22.95..Support $21.54 $21.3 $20.7 $20.67 $20.59..Manage Risk..More UNGTrader
+ChartingStock	517094419280187392	2014-09-30T23:31:31	SPY Resistance $197.55 $197.89 $198.39 $199.05 Gap=$199.57..Support $196.98 $196.61 $196.32 $196.05..Manage Risk ES_F SPX
+ChartingStock	517092872907419648	2014-09-30T23:25:22	GLD Support $115.85 $114.46..Resistance $117.4 $117.99 $119.24 $119.7 $120.54 $120.94 $121.61..Manage Risk..More GLDTrader GOLD GDX
+ChartingStock	517090459152572417	2014-09-30T23:15:47	UNG Resistance $22.29 $22.31 $22.65 $22.95 $23.35 $23.64..Support $21.98 $21.72 $21.3 $20.7 $20.67 $20.59..Manage Risk..More UNGTrader
+ChartingStock	511636122385268736	2014-09-15T22:02:11	Away through Thursday 9/18, as always, overall risk management is key. Good trading!
+ChartingStock	509839066800857088	2014-09-10T23:01:20	SPY Resistance $200.2 $200.55 $201.21..Support $198.77 $198.08 $197.44 $196.69..Manage Risk SPX ES_F
+ChartingStock	509838822952427520	2014-09-10T23:00:22	NG_F Inv# 10:30am UNG Support $21.44 Gap=21.14 $20.84 $20.62 $20.46..Resistance $21.66 $21.84 Gap=$22.26 $22.31.ManageRsk..More UNGTrader
+ChartingStock	509491812973957120	2014-09-10T00:01:28	SPY Resistance $200.55 $201.21 $201.58 Support $198.91 $198.74 $198.08 $197.44 $196.69..Manage Risk SPX ES_F
+ChartingStock	509486674465017856	2014-09-09T23:41:03	GLD Support$120 $119.94 $119.42 $119.11 $117.5...Resistance$120.94 $121.61 $122.06 $122.66 Gap$123.86..ManageRsk-More GLDTrader GOLD GDX
+ChartingStock	509486266547974144	2014-09-09T23:39:26	UNG Resistance $21.84 Gap=$22.26 $22.31 $22.66.$22.95.Support $21.62 Gap=21.14 $20.84 $20.62 $20.46..Manage Risk..More UNGTrader
+ChartingStock	509485103559372800	2014-09-09T23:34:49	Thank you for RTs &amp; Favorites @MarkMcCabe95 pjf949
+ChartingStock	509109510557155328	2014-09-08T22:42:20	SPY Resistance $201.21 $201.58 Support $200 $199.41 $199.15 $198.74 $198.08 $197.44 $196.69..Manage Risk SPX ES_F
+ChartingStock	509108570227757056	2014-09-08T22:38:36	GLD Support $120.37 $119.94 $119.42 $119.11 $117.5...Resistance $121.61 $122.06 $122.66 Gap=$123.86..Manage Risk-More GLDTrader GOLD GDX
+ChartingStock	509107585862352896	2014-09-08T22:34:41	UNG Support $20.84 $20.62 $20.46 $19.47..Resistance $21.19 $21.71 Gap=$22.26 $22.38..Manage Risk..More UNGTrader

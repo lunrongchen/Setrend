@@ -1,0 +1,360 @@
+JeoffHall	726052910367432704	2016-04-29T14:17:57	econhedge sentiment decline also tied to rising retail gasoline prices, up 28 cents (+15%) between March and April.
+JeoffHall	726052410184065024	2016-04-29T14:15:58	econhedge fears about the economy or the next president? how much do those fears differ? We think a lot has to do with the election.
+JeoffHall	726050986410795008	2016-04-29T14:10:19	U Mich expectations index has not risen since November and is down 11.2 points from April 2015, the worst year-ago change in 2.5 years.
+JeoffHall	726046029418758146	2016-04-29T13:50:37	Chicago PMI -3.2 pts to 50.4 in April. Weak compared to Q1 average (52.3) but consistent with longer trailing avgs: MA6M 50.0, MA12M 50.5
+JeoffHall	726038606033219586	2016-04-29T13:21:07	Personal saving was $735.5 bn in March, highest since expiration of Bush-era tax cuts (fiscal cliff) pulled capital gains forward into Q4'12
+JeoffHall	726033320543436800	2016-04-29T13:00:07	Milwaukee-area PMI -6.7 pts to 51.05 in April, largest drop in 16 mos but only lowest level in four mos. 67.8% correlation to ISM PMI (n=31)
+JeoffHall	726032345493590016	2016-04-29T12:56:14	NFIB index showing net number of firms planning to raise worker compensation tends to lead ECI by three quarters. 
+JeoffHall	726026201995862017	2016-04-29T12:31:50	Employment Cost Index +0.6% q/q AR in Q1, as expected; wages accelerated to +0.7% (from +0.5%), while benefits eased to +0.5% (from +0.6%).
+JeoffHall	725669867882426368	2016-04-28T12:55:53	Continued claims are 50k (2.3%) lower than those in Mar survey week, 103k (4.6%) lower than in Feb survey week. 
+JeoffHall	725667658318893056	2016-04-28T12:47:06	At 256.0k, four-week average of initial jobless claims is the lowest since the December 8, 1973 week, when the US population was 34% smaller
+JeoffHall	725664084562169856	2016-04-28T12:32:54	Jobless claims +9k to 257k, below expectations of 260k. Continued claims (2.130 mn) carving out fresh 16-yr lows, urges jobless rate lower.
+JeoffHall	725663814725808128	2016-04-28T12:31:50	Headline Q1 GDP growth only 0.5% (f/c +0.7%) but real final sales rose 0.9% (f/c 0.8%). Core PCE deflator surprises at +2.1% (f/c 1.9%).
+JeoffHall	725642961036390400	2016-04-28T11:08:58	U.S. 10-year TIPS breakeven inflation rate (US10YTIP=RR) 1.685%, taking on 10-mo high and approaching golden cross. 
+JeoffHall	725035176460468225	2016-04-26T18:53:51	We'd be more bullish on oil rally's legs if CLc1 closes above 44.35 this week, and if the 10-week SMA surpasses 40. 
+JeoffHall	724957857792274432	2016-04-26T13:46:37	Markit Services PMI up 0.8-pt to 52.1 in April flash estimate, but employment index fell 1.0 point to 53.0, lowest since October.
+JeoffHall	724952545651773441	2016-04-26T13:25:30	Stiglitz Says Misdirected Monetary Policies Increased Inequality  via business
+JeoffHall	724938864104722433	2016-04-26T12:31:08	Durable goods orders mildly disappoint. Core capital goods orders flat (0.0%) in March (f/c +0.8%). Feb orders revised lower to -2.7%.
+JeoffHall	724617696726257665	2016-04-25T15:14:56	The housing affordability index for the Northeast rose to 177.4 in March, the highest in three years. National index (174.9) at 12-mo high.
+JeoffHall	724599090395406336	2016-04-25T14:01:00	New home sales for March 511k SAAR, mild disappointment relative to consensus estimate (520k); upward revision to Feb (519k v 512k) soothes.
+JeoffHall	723585050575548416	2016-04-22T18:51:34	Gasoline prices look to peak at just under $2.60/gallon in July, but aggressive case sees ~$3.00/gallon in August 
+JeoffHall	723573864253513728	2016-04-22T18:07:07	FRB Philadelphia's Fed's Aruoba Term Structure of Inflation Expectations shows a phase shift higher in April. 
+JeoffHall	723156251538939904	2016-04-21T14:27:40	Financial components of leading economic indicators index (i.e., stocks, credit, yield curve) added 0.48-pp to March index, most in 16 mos.
+JeoffHall	723150631893012480	2016-04-21T14:05:20	Softness in March index of leading economic indicators came largely from weaker building permits, which took 0.25 pp off the headline LEI.
+JeoffHall	723142769993117697	2016-04-21T13:34:06	macroinsightgrp georgepearkes ericbeebo 
+JeoffHall	723142658059735040	2016-04-21T13:33:39	macroinsightgrp georgepearkes ericbeebo Our hunch is CPS (household) survey slows down some, while CES (establishment) speeds up some.
+JeoffHall	723136294054813696	2016-04-21T13:08:22	ericbeebo Household employment has risen 1.391 mn so far in 2016, 2.21 times more than establishment employment gains of 628k.
+JeoffHall	723134360392601601	2016-04-21T13:00:41	Five weeks between March and April payroll surveys. Empirical data show that biases NFP growth higher and U/E rate lower.
+JeoffHall	723133936684015618	2016-04-21T12:59:00	ericbeebo sudden and forceful rise in labor force participation rate (not weaker job demand) has slowed the descent in unemployment rate
+JeoffHall	723133471229497344	2016-04-21T12:57:09	ericbeebo latest continued claims count already 33k lower than that during the March payroll survey week. Urging U/E rate lower in April.
+JeoffHall	723132802539999232	2016-04-21T12:54:29	Weekly jobless claims continue to carve out 43-year lows and seem to have entered a fresh trend lower. 
+JeoffHall	723127338519556096	2016-04-21T12:32:47	Philly Fed employment index collapsed 17.4 pts to -18.5. New orders -15.7 pts to 0.0. Six-month outlook, however, improved to 42.2 from 28.8
+JeoffHall	722868372526870528	2016-04-20T19:23:44	As year-ago growth rates fall, we've lowered our f'cast for 2016 avg crude oil inventories to 521 mmb (from 570 mmb) 
+JeoffHall	722812237354655745	2016-04-20T15:40:41	Inversion b/w retail prices of diesel and gasoline should deepen through June, may stay negative through mid-October 
+JeoffHall	722809153450680321	2016-04-20T15:28:25	Diesel fuel sells for 7.5 cents less than gasoline, the biggest inversion since late August. Last year at this time it had a 21-cent premium
+JeoffHall	722788125873836032	2016-04-20T14:04:52	Median days an existing home stayed on the market fell to 47 in March, from 59 in February and 52 in March 2015.
+JeoffHall	722787389177860096	2016-04-20T14:01:56	Existing home sales exceeded expectations in March, +5.1% to 5.33 mn SAAR. Strong demand, but severely low inventory in many states.
+JeoffHall	722775695211032576	2016-04-20T13:15:28	In 19 years of NAR records, March has never held either the year's high or the year's low for Existing Home Sales. Reuters consensus 5.30 mn
+JeoffHall	722764315778899968	2016-04-20T12:30:15	Existing home sales data (10:00ET) may show share of investor purchases and short sales reached 2-year highs in Mar. 
+JeoffHall	722490592295567360	2016-04-19T18:22:35	MACD signal on monthly gold-silver spread (XAU-XAG) is in its steepest rollover since Q3'09. Key support at 71.15. 
+JeoffHall	722402606384070656	2016-04-19T12:32:57	Single-family building permits were off only 1.2% m/m in March (727k SAAR), giving optimism to an otherwise disappointing housing report.
+JeoffHall	722402151637630976	2016-04-19T12:31:09	Seasonally adjusted annual rates for building permits (1.086 mn) and housing starts (1.089 mn) both well below low end of forecast ranges.
+JeoffHall	721020743757090816	2016-04-15T17:01:55	Silver (XAG=) approaching double-top resistance at 16.36-44, highs from July and October. A break should target a new range (16.86-17.56).
+JeoffHall	720956666397736960	2016-04-15T12:47:18	The Empire State Mfg Survey's April New Orders index (11.14) was the highest since September 2014, up 34.68 pts since Jan '16 nadir (-23.54)
+JeoffHall	720954821285699584	2016-04-15T12:39:58	On an ISM-equivalent basis, the Empire State Manufacturing Survey improved less than one point, to 51.9 in April from 51.1 in March.
+JeoffHall	720954219583377409	2016-04-15T12:37:35	New York Fed's Empire State Manufacturing Index jumped 8.94 points to 9.56 in April, best since Jan '15; above post-recession average (6.12)
+JeoffHall	720659238440329218	2016-04-14T17:05:26	Record customer awards at today's $12 bn 30-year bond reopening as Indirects took $7.805 bn (65.11%) and Directs took $1.297 bn (10.82%).
+JeoffHall	720315477801566208	2016-04-13T18:19:27	Optically, this is a stronger Beige Book than that issued March 2. 
+JeoffHall	720313737706516480	2016-04-13T18:12:32	"moderate/moderately" appears 63x in today's Beige Book, vs 62x in March 2 version. "modest/modestly" 86x today versus 35x six weeks ago.
+JeoffHall	720311520547069956	2016-04-13T18:03:43	Contacts in BOS, CLE and STL Districts cited sizable wage increases for workers in fields such as IT services, skilled construction and mfg.
+JeoffHall	720310962306199553	2016-04-13T18:01:30	Anecdotes collected from business contacts through end-March showed an uptick in wage pressures from all but one Federal Reserve District
+JeoffHall	720264374930149378	2016-04-13T14:56:23	Gasoline consumption rose to 9.633 mbpd in the Apr 8 week, the most in 34 wks and well ahead of seasonal demand peak 
+JeoffHall	720249714277486592	2016-04-13T13:58:08	Two retail categories reached record sales in Mar (Building Materials, Garden Equipment &amp; Supply Dealers and Health &amp; Personal Care Stores)
+JeoffHall	720242305643495424	2016-04-13T13:28:41	Nine (69%) of the 13 major U.S. retail categories expanded sales in March, the best breadth since November. 
+JeoffHall	720235646497996801	2016-04-13T13:02:14	On a 3-mo annualized basis, Final Demand Services prices hit a 6-year high (+4.0%) in January; since ebbed to 1.5%. 
+JeoffHall	720228637967040512	2016-04-13T12:34:23	Upward revisions to Feb takes some of the sting out of disappointing March retail sales, but concerns remain over loss of momentum in PCE.
+JeoffHall	719949849731280896	2016-04-12T18:06:34	Treasury has borrowed $803.2 bn from the public so far in FY'16 (most since FY'09), compared to $307.3 bn in first six months of FY'15.
+JeoffHall	719949232514342912	2016-04-12T18:04:07	Six-months-to-March deficit was $461 bn, 5% above $439 bn cumulative deficit in same period a year ago; first time in five years to increase
+JeoffHall	719934982953807873	2016-04-12T17:07:30	Indirect bidders took down $13.346 bn (55.96%) of $24 bn 3-year U.S. Treasury note sale; fifth highest award ever. 
+JeoffHall	719865637003206656	2016-04-12T12:31:56	Prices for imported consumer goods excluding autos fell 0.3% m/m in March, taking the year-ago change negative (-0.1%).
+JeoffHall	719857859538919424	2016-04-12T12:01:02	Small business firms are suffering from their worst pricing power in 5.5 years. 
+JeoffHall	719847966203363328	2016-04-12T11:21:43	The net percentage of small businesses citing few or no qualified applicants for job openings fell to 41% in March, lowest in 23 months.
+JeoffHall	719846833045037057	2016-04-12T11:17:13	NFIB data show small businesses are less gloomy on the economic outlook but fewer expect to increase employment. 
+JeoffHall	718431032782036993	2016-04-08T13:31:20	Alberta's employment is one-eighth that of all Canada's but rose 18.9k in March (the most in two years), accounting for 47% of total gain.
+JeoffHall	718429536237592576	2016-04-08T13:25:23	5898928 have to wonder when you see superlatives like that, esp when oil has been on the back foot for so long.
+JeoffHall	718428772899426308	2016-04-08T13:22:21	Excluding manufacturing, Canada's economy added 72.4k jobs in March, the most in 47 months and the 12th largest 1-mo increase since 1976.
+JeoffHall	718427860688617472	2016-04-08T13:18:44	Canada's economy added 40.6k jobs in March even though manufacturing employment fell 31.8k on the month, its biggest drop in 82 months.
+JeoffHall	718397351438741505	2016-04-08T11:17:30	FRB KC's George views gradual approach as appropriate, but said postponing removal of policy accommodation could promote alternative risks.
+JeoffHall	718112199298977792	2016-04-07T16:24:24	If strong inverse correlation b/w monthly oil futures &amp; dollar idx is to persist, oil will soon have to rise to $50 
+JeoffHall	718069196567896064	2016-04-07T13:33:32	Jobless claims were below 275k in 21 weeks 2015 (40%). In the first 14 weeks of 2016, jobless claims were below 275k in eight weeks (57%).
+JeoffHall	717777937353871361	2016-04-06T18:16:10	New this statement: Several participants indicated that the persistence of global disinflationary pressures continued to pose downside risks
+JeoffHall	717777378639024132	2016-04-06T18:13:57	FOMC participants discussed "financial developments" six times at their last meeting, down from seven at their January meeting.
+JeoffHall	717775408750587905	2016-04-06T18:06:07	FOMC minutes mentioned China three times, the same frequency as Yellen in her latest speech.
+JeoffHall	717775048547897344	2016-04-06T18:04:41	Two FOMC paricipants saw fit to raise FF rate to 0.5-0.75 pct at March meeting, citing U.S. economic strength despite offshore developments
+JeoffHall	717774016359055360	2016-04-06T18:00:35	FOMC Minutes: Hike in April would signal an urgency that was not appropriate.
+JeoffHall	717730054650871809	2016-04-06T15:05:54	Crude oil imports have fallen in four of the last five weeks and are down 8.7% from their Dec 11, 2015 two-year peak of 8.312 mbpd
+JeoffHall	717728768626978817	2016-04-06T15:00:47	Over the last four weeks, motor gasoline consumption averaged 9.4 mln bbls per day, +4.2% from same period last yr but slowest avg in 7 wks
+JeoffHall	717724930524188672	2016-04-06T14:45:32	With an unexpected 4.9-mmb draw in the April 1 week, crude oil inventories are now up 9.8% y/y, the slowest annual growth in 65 weeks.
+JeoffHall	717423137764278273	2016-04-05T18:46:19	Ports at both Long Beach and Los Angeles set records for February container traffic, though ratio of loaded I/B to O/B highest in nine years
+JeoffHall	717386288983252992	2016-04-05T16:19:54	Jobless claims have risen in three straight weeks. They've risen four straight weeks only five times during this 604-week expansion
+JeoffHall	717348829587193857	2016-04-05T13:51:03	Markit US comp PMI at 51.3 in March (50.0 in Feb). PMI signals 0.7% annualsied growth in Q1  
+JeoffHall	717338521829138433	2016-04-05T13:10:05	The U.S. ex-petroleum trade deficit widened 5.4% in February to $43.511 bn, the second highest on record. 
+JeoffHall	717320450489982977	2016-04-05T11:58:17	FRB Chicago's Evans (non-vtr, dove): "a very shallow path is the most appropriate path for policy normalization over the next three years."
+JeoffHall	717025715900846081	2016-04-04T16:27:07	LMCI and ETI telling same cautionary tale, but not giving off as strong a recession signal as in 2000 or 2007. 
+JeoffHall	716998556901445636	2016-04-04T14:39:11	LMCI changes recessionary, argue against a Fed rate hike in April or June and suggest no hike will come in 2016. 
+JeoffHall	716991313237774336	2016-04-04T14:10:24	Despite strong job growth recently, the Labor Market Conditions Index has lost 6.5 points so far this year. Worst string since May 2009.
+JeoffHall	715982648993255424	2016-04-01T19:22:20	MotorIntelligence says March SAAR on total U.S. light vehicle sales was 16.57 mn (f/c 17.50 mn), worst since Sep '14
+JeoffHall	715982048037638144	2016-04-01T19:19:57	georgepearkes MotorIntelligence calling the SAAR 16.57 mn. Good call.
+JeoffHall	715936388626190337	2016-04-01T16:18:31	Orders for Tesla Model 3 now exceed 180k in just 24 hours. That's eight times more than all Tesla vehicles sold in the U.S. in 2015 (23,650)
+JeoffHall	715924420464885760	2016-04-01T15:30:57	With two more selling days in Mar '16 than Mar '15, Toyota sales were down 9.9% on a daily selling rate (DSR) basis; -2.7% on a volume basis
+JeoffHall	715923923934842880	2016-04-01T15:28:59	georgepearkes I have not done a long-hand calculation. My finger in the wind is 17.1. Wrightson projects 17.3.
+JeoffHall	715919983168122881	2016-04-01T15:13:19	With about 80% of the industry reporting, March vehicle sales look to finish below the estimated SAAR of 17.40 mn. 
+JeoffHall	715898540585840640	2016-04-01T13:48:07	Total employment (HH survey) +2.378 mn in last six months, of which 1.173 mn (49.3%) are in prime income-earning age cohort, trending higher
+JeoffHall	715889306238390274	2016-04-01T13:11:25	MarcoMNYC PBS has the fifth highest average hourly earnings among the 14 industry supersectors. March wages grew $0.09, +0.3%m/m, +2.1%y/y.
+JeoffHall	715887070905044992	2016-04-01T13:02:32	MarcoMNYC Not excited by 33k gain. It was the best in three months, but half the Q4'15 average and well below trimmed 12-month mean (51.7k)
+JeoffHall	715884178877902848	2016-04-01T12:51:03	Of the 194.7k new jobs added in March, 95.7k (49.1%) were in the three lowest-paying industries. 
+JeoffHall	715881758785404928	2016-04-01T12:41:26	Labor force entry decelerated in March, but up another 396k (0.2%) in latest month, up 2.419 mn (+1.5%) in last six months.
+JeoffHall	715880356096905217	2016-04-01T12:35:51	Optically, these look like high increases low-paying jobs; retail trade +48k, health care &amp; social assistance +44k, hotel/restaurant +26k
+JeoffHall	715879582600192000	2016-04-01T12:32:47	Modest surprises in the March jobs report. Above-consensus gain in payrolls (+215k) and earnings (+0.3%), but lower workweek hours.
+JeoffHall	715581516860928000	2016-03-31T16:48:23	Some 2.023 mn entered the U.S. labor force over the past five months, more than in the preceding 40 months combined. 
+JeoffHall	715534967615279104	2016-03-31T13:43:24	Milwaukee-area PMI rose 2.6 points in March to 57.78, highest in 16 months. Fourth straight improvement and third successive print above 50.
+JeoffHall	715236249100009474	2016-03-30T17:56:24	Obama has now commuted sentences of 248 prisoners, more than total commuted by the previous six presidents combined 
+JeoffHall	715174215780069377	2016-03-30T13:49:54	Revised ADP data suggest private nonfarm payrolls rose 1.227 mn over the past six months. BLS data show 1.416 mn, some 15.4% better.
+JeoffHall	715173552413151232	2016-03-30T13:47:16	The average miss between ADP and BLS over the past six months is just 5k (2.4%), but on an absolute-value basis, it's 45k (21.6%).
+JeoffHall	715150391600656385	2016-03-30T12:15:14	ADP National Employment Report says U.S. economy added 200k private-sector jobs in March. (f/c 194k).
+JeoffHall	714857999206973441	2016-03-29T16:53:23	Word cloud from Yellen's speech at the Economic Club of NY () underscores her inflation bias 
+JeoffHall	714849985007894528	2016-03-29T16:21:32	Yellen sounding dovish. Says global risks remain, including uncertainty over China and the path for oil prices.
+JeoffHall	714814781425917952	2016-03-29T14:01:39	Consumer confidence rose to 96.2 in March from revised 94.0 in Feb (prev 92.2). Consensus forecast was 94.0; IFR Markets 95.4.
+JeoffHall	714788729060241409	2016-03-29T12:18:07	S&amp;P: That's 31 defaults so far in 2016, the most YTD since 2009  HYG (free) 
+JeoffHall	714792902380097536	2016-03-29T12:34:42	FRB SF's Williams: Concerns about China are about China; concerns about Europe are about Europe - not about marginally higher U.S. int rates
+JeoffHall	714476120998076416	2016-03-28T15:35:56	Atlanta Fed now estimates net exports shaved 0.52-pp from Q1 GDP; consumer spending added only 1.23-pp, not 1.68 pp. 
+JeoffHall	714469202493575168	2016-03-28T15:08:26	Trimmed-mean PCE deflator +1.84% y/y in Feb, compared to BLS core deflator of 1.68% y/y. Smallest delta in 16 mos 
+JeoffHall	713030829233070080	2016-03-24T15:52:51	Atlanta Fed GDPNow for Q1 down 0.5-pp to 1.4%. Following DGO report, real equipment investment growth declined to -1.4% from +0.9%
+JeoffHall	712998875938758657	2016-03-24T13:45:53	Markit Services PMI improved to 51.0 in March, from 49.7 in Feb. Composite PMI up 1.1 to 51.1.
+JeoffHall	712986350216093703	2016-03-24T12:56:07	Ninth time in 10 weeks that DOLETA has revised the prior week's claims count lower; average weekly adjustment since end-January is -8k.
+JeoffHall	712656376154095616	2016-03-23T15:04:55	Latest four-week average of crude oil imports (8.149 mbpd) increased for a third straight week and is the highest since September 2013.
+JeoffHall	712640262510551042	2016-03-23T14:00:53	New Home Sales rose 2.0% to 512k in Feb (f/c 510k); upward revision to prior month's SAAR, now 502k instead of 494k.
+JeoffHall	712628788148969472	2016-03-23T13:15:17	FRB St. Louis's Bullard (voter) sees U-3 unemployment rate falling to 4.5% in 2016, identifies him as range low in latest SEP (4.5% - 4.9%).
+JeoffHall	712282456314028032	2016-03-22T14:19:05	ISM-like weighting of Richmond Fed components produces headline idx of 58.0, highest since Dec '10 , fourth highest ever. ISM then was 57.4.
+JeoffHall	712281121820708865	2016-03-22T14:13:47	Richmond Fed mfg composite jumped 26 points to 22 in March, third highest in the 23-year history of the series. Wages index also third best.
+JeoffHall	712274316210126849	2016-03-22T13:46:45	Markit Flash Manufacturing PMI added only 0.1-point to 51.4 in March (f/c 51.8). New orders +0.5-pt to 52.8.
+JeoffHall	712265546545438720	2016-03-22T13:11:54	The trend in wages and benefits for services firms in the Philadelphia Fed district continued to worsen in March 
+JeoffHall	712255676630888448	2016-03-22T12:32:41	Philly Fed Non-Manufacturing Business Outlook Survey shows general activity at the firm level slowed to a 7-month low in March.
+JeoffHall	711927376180068352	2016-03-21T14:48:08	Some 18% of existing homes sold in Feb went to investors, largest share in 22 mos. Distressed (10%) and short sales (3%) both at 9-mo highs.
+JeoffHall	711919629837336577	2016-03-21T14:17:21	Average (mean) price of housing resales fell to $253.9k in Feb, sixth decline in last eight mos; year-ago change (+2.5%) smallest in 47 mos
+JeoffHall	711919050687819776	2016-03-21T14:15:03	Median price of an existing home sold in Feb was $210.8k, lowest in eight months and up only 4.4% y/y; smallest year-ago change in 18 months
+JeoffHall	711915940896595968	2016-03-21T14:02:41	The NAR blamed new mortgage rules, low inventories and high prices for the disappointing sales pace in February, -7.1% m/m to 5.080 mn SAAR
+JeoffHall	711874899632123909	2016-03-21T11:19:36	FRB Richmond's Lacker (non-voter, hawk): expectations for inflation further ahead are not inconsistent with the Fed’s 2 percent target.
+JeoffHall	710474153363509252	2016-03-17T14:33:32	Changes in hires rate had lagged changes in job openings for most of '15 before catching up quickly in Q4. Now what? 
+JeoffHall	710460668760043521	2016-03-17T13:39:57	ISM-like weighting of Philly Fed components produces headline index of 52.4, highest in 11 mos. Robust correlation. 
+JeoffHall	710459473827995648	2016-03-17T13:35:12	Philly Fed components show final demand (new orders minus inventories) rose to 28.4 in March, highest since Oct 2009. 94th pctile since 2000
+JeoffHall	710457220354277376	2016-03-17T13:26:15	econhedge Sorry for the delay. Short answer is 52.4. I will post something shortly.
+JeoffHall	710445145578033153	2016-03-17T12:38:16	Initial jobless claims have been below 300k for 54 consecutive weeks, the longest streak since 1973. tightlabormarket
+JeoffHall	710178763296915456	2016-03-16T18:59:46	Graph: Appropriate Pace of Federal Reserve Policy Firming 
+JeoffHall	710172955871936512	2016-03-16T18:36:41	Median of FOMC participants' views for an appropriate federal funds rate at end-2017 is now 1.875%, half what it was 18 months ago (3.750%).
+JeoffHall	710172254601134081	2016-03-16T18:33:54	
+JeoffHall	710171109363195905	2016-03-16T18:29:21	Number of FOMC participants who felt longer run fed funds should be 3.50% fell to 2 (from 6), while those expecting 3.0% rose to 5 (from 2).
+JeoffHall	710103439875973120	2016-03-16T14:00:27	InflationProject: The sticky-price CPI rose 2.7% (annualized) in February  
+JeoffHall	710085598157996032	2016-03-16T12:49:34	Prices for commodities not including food/energy were +0.1% y/y in Feb; first positive increase since March 2013. 
+JeoffHall	710083971502084097	2016-03-16T12:43:06	The 3-month annualized rate of core CPI growth accelerated to 2.919% in Feb (from 2.508% in Jan) and is now the fastest rate in 4.5 years.
+JeoffHall	710081301466906624	2016-03-16T12:32:29	Core CPI +0.3% m/m and +2.3% y/y. The Fed will not take action today but core inflation is moving closer to their medium-term objective.
+JeoffHall	710061574547972096	2016-03-16T11:14:06	Senate Banking Committee Chairman Richard Shelby: No vote on Fed nominees until Obama moves on supervision post 
+JeoffHall	709805721513119744	2016-03-15T18:17:26	Of the 13 major retail categories, five (38%) had sales gains in Feb, one more than in Jan (worst breadth in 2 yrs). 
+JeoffHall	709801840741715969	2016-03-15T18:02:00	Gasoline station receipts accounted for just 6.9% of total retail sales in Feb, the lowest share since Feb '02. Long-term average is 8.8%.
+JeoffHall	709741555473641472	2016-03-15T14:02:27	NAHB Housing Market Index unchanged at 58 in March; was expected to rise one point to 59. Homebuilder sentiment positive but not climbing.
+JeoffHall	709723251392516096	2016-03-15T12:49:43	ISM-like weighting of Empire State Mfg Survey components produces a headline index of 51.06, highest (and first positive) in nine months.
+JeoffHall	709722957724196864	2016-03-15T12:48:33	The 25.44-pt improvement in the Empire State manufacturing survey's shipments index was the largest in the 15-year history of the series.
+JeoffHall	709722532329431040	2016-03-15T12:46:52	Empire State survey's index of new orders jumped 21.20 points in March; largest gain in 37 months and highest level (9.57) in 18 months.
+JeoffHall	709722217622462465	2016-03-15T12:45:37	Empire State Mfg Survey's headline index (0.62) positive for first time in eight mos in March; largest 1-mo gain since Dec '10.
+JeoffHall	709718793644331009	2016-03-15T12:32:00	Unsightly downward revision to Jan control group retail sales growth (now +0.2% m/m instead of +0.6%) should lower Q1 GDP tracking estimates
+JeoffHall	709717768548048898	2016-03-15T12:27:56	The top forecaster for control group retail sales (Morgan Stanley Economics) expects them to have been unchanged m/m in Feb. ReutersPolls
+JeoffHall	703289554174926848	2016-02-26T18:44:30	Fed's Brainard: softening in mkt-based measures of inflation expectations &amp; some hints of weakening in survey measures deserve our attention
+JeoffHall	703261115908792324	2016-02-26T16:51:30	Dallas Fed Trimmed Mean PCE price idx +1.9% y/y in Jan, up from 1.7% in Nov/Dec; not as aggressive as core PCE jump but closer to Fed's goal
+JeoffHall	703240704101847040	2016-02-26T15:30:24	The year-ago change in the core PCE price index (1.67%) was the fastest in 35 months and the third month of accelerating core prices.
+JeoffHall	703240580671934466	2016-02-26T15:29:54	The month-ago increase in the core PCE price index was the highest in four years and in the 95th percentile for all increases since 2002.
+JeoffHall	703233773991796736	2016-02-26T15:02:51	Jan income and consumption both +0.5% m/m, both beat estimates. Upward revisions to Dec. Core PCE price index accelerated 0.3-pp to 1.7% y/y
+JeoffHall	703221418272690177	2016-02-26T14:13:45	Lower business fixed investment in transportation equipment reduced GDP growth by 0.18-pp in Q4, the most for any quarter in seven years.
+JeoffHall	703221061597405184	2016-02-26T14:12:20	Lower investment in computers and peripheral equipment reduced GDP growth by 0.16-pp in Q4, the most for any quarter in seven years.
+JeoffHall	702914874515415042	2016-02-25T17:55:40	IvanTheK "technical issue", could be the same thing that kept the New York Fed from doing yesterday's MBS FedTrade 
+JeoffHall	702913960572366849	2016-02-25T17:52:02	Amended auction announcement from Treasury regarding postponed 7-year note auction 
+JeoffHall	702913390600060928	2016-02-25T17:49:46	Treasury has postponed today's $28 bn 7-year note auction until Friday at 11:30 (competitive bidders)
+JeoffHall	702903466625277953	2016-02-25T17:10:20	ISM-equivalent KC Fed index (39.4 in Feb) suggests ISM Mfg PMI will be lower than current Reuters consensus (48.8). 
+JeoffHall	702889410803703808	2016-02-25T16:14:29	KC Fed manufacturing composite index fell three points to -12 in Feb, taking out May 2015 cycle low (-11) for lowest since April 2009 (-16).
+JeoffHall	702848579245903872	2016-02-25T13:32:14	Core capital goods orders +3.9% in Jan (f/c +1.0%), more than offsets prior month's 3.7% decline (revised from -4.3%).
+JeoffHall	702509679503540224	2016-02-24T15:05:34	Populist scholar Donald Trump wins Nevada provincial election through alliance of rural hayseeds and gambling degenerates.
+JeoffHall	702508591635415040	2016-02-24T15:01:14	New home sales fell 9.2% m/m in January to 494k SAAR (f/c 520k). Almost every indicator this week has printed below the lowest expectation.
+JeoffHall	702505615634124802	2016-02-24T14:49:25	Markit says East Coast snow disruption was a brake on services activity in February, but so was the weakest rise in new work for 13 months
+JeoffHall	702504679364759552	2016-02-24T14:45:42	Flash Feb Markit Services PMI falls to 49.8 (f/c 53.5), recessionary
+JeoffHall	702161194266701825	2016-02-23T16:00:48	Conference Board CCI - only 26.5% of respondents in Feb survey felt stock prices would be higher 12 months from now, fewest 3.5 years.
+JeoffHall	702153417217613825	2016-02-23T15:29:54	According to the Conference Board, 12% of households (the most in 19 months) expect business conditions to worsen over the next six months.
+JeoffHall	702147882770534400	2016-02-23T15:07:55	Like the Markit PMI out Monday, Consumer Confidence Index for Feb (92.2) was below lowest estimate in Reuters poll (93.0); now at 7-mo low.
+JeoffHall	702124447701057536	2016-02-23T13:34:47	Philly Fed finds regional activity in non-manufacturing sector dropped to its lowest level in two years in Feb, but rose at firm level.
+JeoffHall	701810869689126913	2016-02-22T16:48:45	The 2016 Economic Report of the President 
+JeoffHall	701780454278623232	2016-02-22T14:47:53	Markit Mfg PMI diffusion index slipped to 51.0 in Feb, matches Oct 2012 low; output index (51.3) lowest since Oct 2013.
+JeoffHall	701779877377273856	2016-02-22T14:45:35	Markit Manufacturing PMI lower than expected at 51.0 (f/c 52.0). Low estimate in Reuters poll was 51.5.
+JeoffHall	700417835491676160	2016-02-18T20:33:19	Fed's Williams: "Despite the Sturm und Drang of international and market developments, the U.S. economy is, all in all, looking pretty good"
+JeoffHall	700349760776073216	2016-02-18T16:02:49	EIA data show crude oil inventories rose 2.1 mmb in Feb 12 week, about a third less than expected. Gasoline inventories +3.0 mmb,
+JeoffHall	700345256135491584	2016-02-18T15:44:55	12-month change in Conference Board's Leading Economic Indicators index (2.2%) is lowest in 32 months but we don't think recession signal.
+JeoffHall	700042386639089664	2016-02-17T19:41:25	Fed considering adding fan chart for fed funds rate to SEP; "could help convey...that the future path of monetary policy is uncertain..."
+JeoffHall	700037832010813440	2016-02-17T19:23:19	Latest FOMC minutes mention "downside" seven times, compared to 16x in minutes from Dec meeting. Incidence of "upside" 2x today vs 8x in Dec
+JeoffHall	700036722420224001	2016-02-17T19:18:55	Most FOMC participants in late Jan "judged that it was premature to alter appreciably their assessment of the medium-term economic outlook."
+JeoffHall	700033948265619456	2016-02-17T19:07:53	WorthWray took them way too long to post on the public site.
+JeoffHall	699973517601673217	2016-02-17T15:07:46	TTStanton Fullcarry 
+JeoffHall	699960824207695872	2016-02-17T14:17:19	More strong data in the form of industrial production, +0.9% in Jan (f/c +0.4%), Factory output leads with +0.5% m/m gain (f/c +0.3%).
+JeoffHall	699953756599885825	2016-02-17T13:49:14	The 3-month annualized growth in final demand services prices jumped to 4.7% in January, highest in the six-year history of the series.
+JeoffHall	699950119026847744	2016-02-17T13:34:47	Final demand PPI +0.1% m/m in Jan (f/c -0.2%). Core PPI +0.4% m/m (f/c +0.1%), +0.6% y/y. Core ex-trade services +0.8% y/y, churning higher
+JeoffHall	699930575377924096	2016-02-17T12:17:07	FRB Boston's Rosengren (voter): "I believe the normalization of monetary policy should be unhurried, and wait for economic data to improve."
+JeoffHall	699616452983140352	2016-02-16T15:28:55	FRB Philadelphia's Harker doesn't have a full vote on FOMC until 2017 but sounding far more dovish than predecessor. 
+JeoffHall	699590300000395264	2016-02-16T13:44:59	Better internals on Empire State than headline answer on general business conditions suggested. Employment and workweek hours at 6-mo bests.
+JeoffHall	699589519444541440	2016-02-16T13:41:53	ISM-equivalent of Empire State Manufacturing Survey rose to 47.4 in Feb, best in seven months. Future index 56.1, best in nine months.
+JeoffHall	698162714577752064	2016-02-12T15:12:17	FOMC's doves will seize on both the drop (0.3-pp) and level (2.4%, record low) of long-run, survey-based inflation expectations.
+JeoffHall	698161909770559488	2016-02-12T15:09:05	marcmakingsense data on 5-year horizon go back to Apr '90, so 2.4% is a record low.
+JeoffHall	698143713718042624	2016-02-12T13:56:46	Prices for imported consumer goods ex-autos +0.1% m/m and -0.3% y/y; should mean less neg pass-through effects to CPI from import channel.
+JeoffHall	697805212447174656	2016-02-11T15:31:41	Spot gold (XAU=1241.46) is now above the 2013-15 trend channel and its momentum is the highest since August 2011 
+JeoffHall	697801937727520769	2016-02-11T15:18:41	Four-week average of Bloomberg Consumer Comfort Index (44.3) highest in nine months, thanks mostly to perceptions about the buying climate.
+JeoffHall	697502272410877952	2016-02-10T19:27:55	Treasury posted Jan budget surpluses in all but two of 21 fiscal years from 1988-2008 (only one from 2007-2015). Jan '16 biggest in 15 yrs.
+JeoffHall	697499764498264064	2016-02-10T19:17:57	Adjusted for shifts in payment timing, CBO estimates January's budget surplus would have been $3 bn, not the $55 bn Treasury reported Wed.
+JeoffHall	697499145771339776	2016-02-10T19:15:29	Jan budget outlays of $258.42 bn were down $65.873 bn (-20.3%) y/y, but SocSec benefits pushed into Dec since Jan 3 fell on a non-bus day
+JeoffHall	697104059782864896	2016-02-09T17:05:34	Kocherlakota's piece on negative rates "A Gigantic Fiscal Policy Failure" found here: 
+JeoffHall	697098782039805952	2016-02-09T16:44:35	ForexLive We had Kocherlakota as a 2 on our 1-10 dove hawk scale. We start all incoming as centrists (5) until speeches acquit/convict them
+JeoffHall	697096511826628608	2016-02-09T16:35:34	ForexLive we had his voting rights expiring Jan but but his term expiring Feb 28. I guess Kashkari's already in his seat growing dove wings
+JeoffHall	697095219733516288	2016-02-09T16:30:26	Looks like the shoe's about to drop on the percentage of U.S. small firms expecting to increase employment. 
+JeoffHall	697091005577830401	2016-02-09T16:13:41	ForexLive not ex-Fed until Feb 28 as we understand it.
+JeoffHall	697083306232438784	2016-02-09T15:43:06	Ratios of unemployed workers per job opening are at/below pre-recession levels for nearly all private industries. 
+JeoffHall	697078879207452672	2016-02-09T15:25:30	Quits Rate, key variable in Fed's dashboard of labor market dynamics, rose to 2.1% in Dec '15, highest since Apr '08 
+JeoffHall	697033572406976516	2016-02-09T12:25:28	Small Business Optimism Idx shows waning confidence in expansion. Lowest %age in two yrs expect economy to improve. 
+JeoffHall	696720544268419072	2016-02-08T15:41:36	Would rules-based policy linked to LMCI have been disastrous if the Fed started following it as early as 2010? 
+JeoffHall	696713923844771841	2016-02-08T15:15:18	Weak LMCI increase in Jan corroborates below-consensus NFP reading in same month and upward trend in jobless claims 
+JeoffHall	695636671166029825	2016-02-05T15:54:41	MarcoMNYC The Atlanta Fed raised its forecast for real consumer spending growth to 3.0% (from 2.5%) after this morning's jobs report
+JeoffHall	695629224951083008	2016-02-05T15:25:06	MarcoMNYC steady consumption. All but one industry (construction) had higher average hourly earnings in Jan, even those that shed jobs.
+JeoffHall	695624194499997697	2016-02-05T15:05:06	Nearly two-thirds (64.4%) of the 151k jobs added in January were in the two lowest-paying industries: Retail Trade and Leisure/Hospitality
+JeoffHall	695612198442397696	2016-02-05T14:17:26	Employment in mining/logging has fallen 156k (-17.1%) in the last 13 mos, but their average hourly earnings accelerated to 3.5% y/y in Jan.
+JeoffHall	695605813889671168	2016-02-05T13:52:04	From the household survey, employment among those aged 25-54 (i.e., prime income earners) rose 607k in January, the most since January 2000.
+JeoffHall	695604073937137664	2016-02-05T13:45:09	January's $6.67 (0.77%) rise in average weekly earnings is the biggest 1-mo jump since Dec '06.
+JeoffHall	695602871551840256	2016-02-05T13:40:22	Employment-to-population ratio rose to 59.6% in January, the highest since April 2009. Ratio of employed to unemployed 19.3, a 7-year high.
+JeoffHall	695305326258692097	2016-02-04T17:58:02	Net 27% of small business owners reported raising workers’ compensation in January, up five points and the highest level since late 2007.
+JeoffHall	695304946191843328	2016-02-04T17:56:31	NFIB says 29% of all small business owners reported job openings they could not fill in Jan, up 1 pt and highest level for this expansion.
+JeoffHall	695267234848051200	2016-02-04T15:26:40	The Dallas Fed district accounted for 14.8% of all U.S. job growth in 2012, 12.1% in 2013, 13.8% in 2014, but only 6.6% in 2015.
+JeoffHall	695250574112079873	2016-02-04T14:20:28	Initial claims were lower in every week of 2015 than in the corresponding week a year earlier. So far in 2016, two weeks higher than yr ago.
+JeoffHall	695228589189554176	2016-02-04T12:53:07	Retail announced 22,246 job cuts in January, the most since January 2009 (53,968) and more than in the prior six months combined.
+JeoffHall	695001338816643072	2016-02-03T21:50:06	Former Dallas Fed Fisher says Gov. Brainard wasn't team player last fall, may have undermined Yellen.  via WSJ
+JeoffHall	694878401216122880	2016-02-03T13:41:35	miketcope 79% neg correlation b/w domestic light truck sales and retail price of gasoline (n=59); good but not as good as link to U/E rate
+JeoffHall	694871941237190656	2016-02-03T13:15:55	ADP National Employment  Report sees private NFP growth of 205k in January (f/c 195k); prior revised 10k higher to +267k.
+JeoffHall	694869057900654592	2016-02-03T13:04:28	georgepearkes this has the BEA's seasonal factors for auto sales (through June 2016) which they published Monday 
+JeoffHall	694606633272475648	2016-02-02T19:41:41	On 70 observations since labor market recovery began in Mar '10, 98.2% correlation b/w SAAR on domestic light truck sales &amp; U-3 unempl rate.
+JeoffHall	694605825923485697	2016-02-02T19:38:28	Light trucks accounted for 57.7% of all vehicles sold in January, the largest share since July 2005. High correlation to construction jobs.
+JeoffHall	694603840008617984	2016-02-02T19:30:35	The SAAR for new light trucks sold in January was 10.15 mn, compared to 9.94 mn in December and a Q4'15 average of 10.18 mn. Strong.
+JeoffHall	694602580513677318	2016-02-02T19:25:34	georgepearkes MotorIntelligence adjusts all volume reports to a daily selling rate basis.
+JeoffHall	694601752486764544	2016-02-02T19:22:17	Final SAAR on January vehicle sales 17.58 mn (f/c 17.40 mn). Most of the strength was in the domestic truck segment, with an 8.62 mn SAAR.
+JeoffHall	694575535553388544	2016-02-02T17:38:06	Fed funds futures now giving just 18% odds of a March 16 rate hike. Probability of one hike in all of 2016 now down to 80%.
+JeoffHall	694574460859453440	2016-02-02T17:33:50	Updated table of January U.S. vehicle sales, with 90% of the market having reported 
+JeoffHall	694563723369779200	2016-02-02T16:51:10	On a daily selling rate (DSR) basis, total Toyota sales +3.3% y/y; Toyota Division +4.1% y/y, Lexus -2.0% (car -19.6% y/y, truck +15.9% y/y)
+JeoffHall	694562057685831680	2016-02-02T16:44:33	Toyota Motor Sales of N.A. repors January vehicle sales of 161,283, -4.7% vs. January 2015. Lexus brand sales -9.5% y/y
+JeoffHall	694550852774723584	2016-02-02T16:00:02	January vehicle sales at American Honda Motor Corp 100,497, -1.7% y/y but third best January ever. 
+JeoffHall	694547453605859329	2016-02-02T15:46:31	Volkswagen US sold 20,079 vehicles in January, -14.6% vs. Jan '15; third straight month of negative y/y results. 
+JeoffHall	694544714528354304	2016-02-02T15:35:38	Chicago had 51 reported homicides in Jan '16, +76% y/y and most since 2000. Annualized rate (612) higher than all homicides in Canada in '15
+JeoffHall	694527499955494912	2016-02-02T14:27:14	Early reports on January auto sales at a glance 
+JeoffHall	694524171720720384	2016-02-02T14:14:00	Nissan Group total sales 105,734 in Jan, +1.6% y/y, with Nissan Division sales +2.9% y/y but Infiniti sales -11.8% y/y. Infiniti cars -30.3%
+JeoffHall	694507415002177536	2016-02-02T13:07:25	Fiat Chrysler sold 155,037 vehicles in January, up 6.9% y/y and their best January since 2007. FCA US LLC expects industry rate of 17.50 mn.
+JeoffHall	694240930103218176	2016-02-01T19:28:30	Net %age of domestic banks reporting stronger demand for Commercial &amp; Industrial loans in Jan at lowest in 4 years. 
+JeoffHall	694195584983527424	2016-02-01T16:28:19	Atlanta Fed's final model nowcast for Q4 real GDP growth is 1.0% q/q AR, compared to BEA's 0.7% Friday; initial nowcast for Q1 1.2% q/q AR.
+JeoffHall	694175706062950401	2016-02-01T15:09:20	Nine of 11 principal private non-residential categories had lower construction spending in December. Manufacturing spending tumbled 7.3% m/m
+JeoffHall	693069397464895488	2016-01-29T13:53:15	Benefits costs for state and local government workers rose 1.4% q/q in Q4'15, the fastest rate in nearly nine years.
+JeoffHall	693067749350838272	2016-01-29T13:46:42	Despite taut labor markets, U.S. employers' benefits costs rose only 1.3% y/y through Q4'15, the slowest 12-month accrual in six years.
+JeoffHall	692729333820055552	2016-01-28T15:21:58	Over the last four years, the homeownership rate for whites has fallen 1.5 pp to 72.2%; for blacks it has fallen 3.2 pp to 41.9%.
+JeoffHall	692709494380302338	2016-01-28T14:03:08	Fed funds futures now showing just 22% odds of a 25 bps hike in March. Probability no better than even until September meeting (66%).
+JeoffHall	692706537987379201	2016-01-28T13:51:23	Continued claims filed in Jan 16 week were 2.168 mn, highest for any payroll survey week since July, when U-3 rate turned out to be 5.3%.
+JeoffHall	692431167828672513	2016-01-27T19:37:09	BobBrinker Great song, not great policy communication. BTW, this statement 6.1% shorter than last; 522 words vice 556.
+JeoffHall	692428427295657985	2016-01-27T19:26:16	FOMC statement channels Alison Krauss. "You say it best when you say nothing at all."
+JeoffHall	692379756856217600	2016-01-27T16:12:52	Four-week average of motor gasoline consumption down to 8.670 mbpd, a 47-week low. Off 6.8% in just last four weeks. 
+JeoffHall	692365360322973698	2016-01-27T15:15:40	The percentage of new homes sold priced at over $300k fell to 44.7% in December, a 15-month low. 
+JeoffHall	692363697801551872	2016-01-27T15:09:03	Some 237k new homes were available for sale at the end of December, the most since November 2009.
+JeoffHall	692362238754168832	2016-01-27T15:03:15	Dec new home sales very strong at 544k SAAR, +10.8% m/m. All four regions enjoyed gains, especially Midwest (+31.6%) and West (+21.0%).
+JeoffHall	692355378533797888	2016-01-27T14:36:00	IFR Markets FOMC preview: Rethinking four hikes amid "gradual" framework 
+JeoffHall	692348345818451969	2016-01-27T14:08:03	Use caution interpreting today's Dec new home sales data. Census has revised the SAAR lower in each of the last seven months, by an avg -23k
+JeoffHall	691999329775583232	2016-01-26T15:01:11	Conference Board's Consumer Confidence Index rose 1.8 pts to 98.1 in January (f/c 96.5).
+JeoffHall	691997356561027073	2016-01-26T14:53:21	Federal government offices in Wash, D.C. are closed due to inclement weather but FOMC plans to meet as scheduled, some by videoconference.
+JeoffHall	691978950847778817	2016-01-26T13:40:12	Philly Fed NBOS average workweek index +9 to 19.2 in Jan. Index for wages and benefits +4.4 to 32.6, with 35% of firms reporting an increase
+JeoffHall	691977534540496896	2016-01-26T13:34:35	Philly Fed's Jan Non-Mfg Business Outlook Survey shows weakened current activity at the firm level and for sales, new orders, and employment
+JeoffHall	691648744920604672	2016-01-25T15:48:05	During Great Recession (Dec '07 to Jun '09), TMOS business activity index averaged -35.1; January 2016 value -34.6. 
+JeoffHall	691646334873518080	2016-01-25T15:38:31	Dallas Fed's Texas Manufacturing Outlook Survey suggests business activity in the region contracted in January by its most since April 2009.
+JeoffHall	690617955386802177	2016-01-22T19:32:06	Total flight cancellations within, into, or out of the United States today: 2,912 
+JeoffHall	690615992993587200	2016-01-22T19:24:18	.realDonaldTrump: "We're going 2 root out VA incompetence" &gt;&gt; New campaign ad shows stock footage of RUSSIAN vets! 
+JeoffHall	690584253827039232	2016-01-22T17:18:11	oledi45 Existing home sales +7.7% y/y in Dec; Single-family sales +7.1% y/y. Q4/Q3 sales -10.4% in the West, -6.9% Midwest, -4.1% South.
+JeoffHall	690582544069320704	2016-01-22T17:11:23	oledi45 Exactly true. Oct -4.1%, Nov -10.5%, so Dec gain didn't even bring EHS back to Sept level (5.550 mn). Q4 avg was 5.4% below Q3 avg.
+JeoffHall	690577052131438595	2016-01-22T16:49:34	The Fed cannot imperil the U.S. expansion by pushing up policy rates that further diverge from those of its major central bank peers.
+JeoffHall	690576924763009025	2016-01-22T16:49:03	With no new dot plot or Chair press conf, Jan FOMC statement to do all the heavy lifting on whether Fed still plans four rate hikes in '16
+JeoffHall	690550022740451328	2016-01-22T15:02:09	Existing home sales jumped (record) 14.7% m/m to 5.46 mn SAAR.
+JeoffHall	690175635696807938	2016-01-21T14:14:29	Extrapolating the trend from October to January, weekly jobless claims will average 305k by April 2016 and 325k by July 2016.
+JeoffHall	690173177243238400	2016-01-21T14:04:42	So far in January, initial claims have averaged 284k, having climbed steadily from 277k in Dec, 270k in Nov and 263k (cycle low) in Oct.
+JeoffHall	690167948057690112	2016-01-21T13:43:56	The market consensus has underestimated claims prints for four straight weeks now (by an average 11k); and in eight of the last 12 weeks.
+JeoffHall	690166971250393088	2016-01-21T13:40:03	Jobless claims in week ended Jan 16 rose 10k to 293k, highest for nonfarm payroll survey reference week since April when U/E rate was 5.44%.
+JeoffHall	690165162419044352	2016-01-21T13:32:52	Philly Fed -3.5 in Jan vs revised -10.2 in Dec. New orders up almost 10 pts but still negative (-1.4); employment turns lower (-1.9).
+JeoffHall	689892171822923781	2016-01-20T19:28:05	Fed Chair Yellen to deliver semi-annual MPR and testify before House Fin Svc Cmte on Feb 10, Senate Bkg Feb 11, amid 10s and 30s auctions.
+JeoffHall	689817845597892608	2016-01-20T14:32:45	Housing completions have leveled off at around 1.000 mn SAAR but homebuilding employment continues to climb, for now 
+JeoffHall	689479730764996609	2016-01-19T16:09:12	Treasury gross issuance (mostly bills and short coupons) likely to rise notably in light of wider FY'16 deficit projection.
+JeoffHall	689479294276382721	2016-01-19T16:07:28	CBO now expects an FY'16 budget deficit of $544 bn, 24% higher from $439 bn in FY'15; 31% wider than $414 bn baseline projection &lt;6 mos ago.
+JeoffHall	689477185548095488	2016-01-19T15:59:05	The latest spread between NAHB indices measuring future sales (63) and current sales (67) is its most negative since December 1998.
+JeoffHall	689467234154995713	2016-01-19T15:19:32	The NAHB's index measuring the outlook for new home sales six months from now now stands at 63; it had been 75 as recently as October.
+JeoffHall	688076509421015040	2016-01-15T19:13:18	Still waiting for Atlanta Fed's GDPNow to post; once tracking Q4 GDP growth at 2.9%, now barely above 0.5% 
+JeoffHall	688041145880952832	2016-01-15T16:52:47	There are no Fed officials scheduled to speak in the January 18-23 week.
+JeoffHall	688018961477316609	2016-01-15T15:24:37	Business inventories fell back-to-back months in Nov, first such outcome since Sep '09; 1.378 Inventories/sales ratio highest since Jun '09.
+JeoffHall	688003607099092994	2016-01-15T14:23:37	Net of foods and energy products, final demand goods prices rose 0.1% m/m in December, the first gain in six months.
+JeoffHall	687997072339931136	2016-01-15T13:57:39	ISM-equivalent Empire State index fell to 43.0 in January, worst since March 2009. Six-months-ahead index down to 52.9, worst since Oct '12.
+JeoffHall	687990830104055808	2016-01-15T13:32:50	Empire State manufacturing survey's general business conditions index tumbled to -19.37 in Dec, worst since April 2009.
+JeoffHall	687704105305812992	2016-01-14T18:33:30	Not liking the trends observed in either initial or continued claims; suggests floor on U-3 jobless rate at 5.0%. 
+JeoffHall	687697230057357313	2016-01-14T18:06:11	Treasury auctioned $13 bn of reopened 30-yr bonds at 2.905%, 1.8 bps above 13:00 screens indication; fattest tail on reopened bond since Apr
+JeoffHall	687666975951183872	2016-01-14T16:05:57	Distillate consumption was just 2.832 mbpd in January 8 week, lowest for a single week since April 4, 1999. Four-week avg lowest in 3 years.
+JeoffHall	687660026320830465	2016-01-14T15:38:21	Crude oil futures price extending gains after EIA inventory data, but still 4.6% below where it opened this week. 
+JeoffHall	687659067855237124	2016-01-14T15:34:32	Crude oil futures knocking on a 3.0% intraday gain. Largest hollow-body candlestick on daily charts since Dec 29. Stochs deeply oversold.
+JeoffHall	687352188641882112	2016-01-13T19:15:06	In the fiscal first quarter, the U.S. gov't had a cumulative deficit of $215.5 bn, 22% higher than in the first three months of FY'15.
+JeoffHall	687279710661820416	2016-01-13T14:27:06	businesscycle Macronomics1 Mostly due to wholesale trade, whose indexed inventories-to-sales ratio is now 1.153; mfg 1.056, retail 1.061
+JeoffHall	686992906712825857	2016-01-12T19:27:27	At some nearby point we expect employer wage and salary payments to more closely track NFIB compensation plans. 
+JeoffHall	686929631803392000	2016-01-12T15:16:01	Nov quits rate 2.0%, unch from Oct; not higher since Apr '08. Fed likely wants steady prints at 2.2% before feeling good about further hikes
+JeoffHall	686575110120030208	2016-01-11T15:47:16	H1 net LMCI growth 7.9 pts, with two negative months. H2 net growth 12.8 pts, w/ smallest growth early in period. 
+JeoffHall	686566303042269185	2016-01-11T15:12:17	The Fed's Labor Market Conditions Index rose almost as much in the last quarter of 2014 (20.6 pts) as it did in all of 2015 (20.7 pts).
+JeoffHall	686565605638541312	2016-01-11T15:09:30	LMCI rose 2.9 pts in Dec, following revised increases of 2.9 in Oct and 2.7 in Nov. Total growth in 2015 20.7 points, vs 2014 growth of 63.1
+JeoffHall	685548687326580736	2016-01-08T19:48:38	Indexed growth in household employment for those aged 25-54 and 55+ since start of jobs recovery in March 2010. 
+JeoffHall	685548369046036480	2016-01-08T19:47:22	Since jobs recovery began in Mar '10, growth among aged 55+ has risen 6.344 mn, 2.15 times that of prime-age (25-54) earners (2.950 mn).
+JeoffHall	685536044524113920	2016-01-08T18:58:24	According to data from household survey of employment, of 2.49 mn workers added in 2015, 968k (38.9%) were aged 25-54; 1.146 mn (46.0%) &gt;55.
+JeoffHall	685519457939226624	2016-01-08T17:52:29	otterom It is seasonally adjusted data, taken from Table B-3 (page 35) of the jobs report. 
+JeoffHall	685485244804370432	2016-01-08T15:36:32	December had the largest 1-month decline in wholesale inventories (-0.345%) in 30 months; first back-to-back declines since September 2009.
+JeoffHall	685467928620314625	2016-01-08T14:27:44	Hourly earnings fell in Dec for middle seven industries, which accounted for 197k (71.5%) of job growth last month. 
+JeoffHall	685465613519720449	2016-01-08T14:18:32	Hourly earnings growth fell an average 29 cents among three of the top five wage-paying industries in December.
+JeoffHall	685460754263371776	2016-01-08T13:59:13	Construction employment has risen 601k (10.1%) in the last two years; manufacturing employment up just 245k (2.0%). 
+JeoffHall	685456675256545285	2016-01-08T13:43:01	Ratio of construction employment to manufacturing employment rose to 53.02% in Dec, highest since September 2008, and we know how that ended
+JeoffHall	685456106173370368	2016-01-08T13:40:45	U.S. Construction employment rose 45k in December and averaged +43k per month in Q4. In Q2 it averaged +10k and in Q3 it averaged 11k.
+JeoffHall	685454150885232640	2016-01-08T13:32:59	Lack of earnings growth is the only blemish on the Dec jobs report. Three-month average payroll growth 284k. Uptick in participation rate.
+JeoffHall	685446720927305729	2016-01-08T13:03:27	Postbank is top U.S. NFP forecaster in last 12 mo but did not submit a Dec estimate. No. 2 ScotiaBank: +185k, No. 3 Morgan Stanley: +215k
+JeoffHall	685443987918856192	2016-01-08T12:52:36	U.S. average hourly earnings have not fallen since Dec '14 and year-on-year growth should jump to 2.8% in Dec '15, highest since Jun '09.
+JeoffHall	685100775408812033	2016-01-07T14:08:48	Some 21 of 28 industries had 1k or fewer layoff announcements in Dec, best since detailed industry records became available in late 2002.
+JeoffHall	685090973723017216	2016-01-07T13:29:51	In all of 2015, the energy accounted for about one in seven (15.8%) of all layoff announcements. Retail about one in nine (11.0%).
+JeoffHall	685087442244886528	2016-01-07T13:15:49	Challenger recorded just 23,622 layoffs in December, the fewest since June 2000. Q4 totaled 105,079, less than in July 2015 alone.
+JeoffHall	684828090602618880	2016-01-06T20:05:14	BBCBusiness Not really. The vote was unanimous, while "some members said that their decision to raise the target range was a close call."
+JeoffHall	684814042591002624	2016-01-06T19:09:25	FOMC - "The # of participants who viewed the risks to their inflation forecasts as weighted to the downside declined slightly since Sept."
+JeoffHall	684813330586939393	2016-01-06T19:06:35	FOMC participants cited "signs of a pickup in wage growth" as contributing to their outlook that inflation will rise over the medium term.
+JeoffHall	684764809775058946	2016-01-06T15:53:47	Distillate (home heating oil) inventories have risen in all but one of the last seven weeks; up 19.1 mmb (+13.6%) since Veterans' Day week.
+JeoffHall	684762891891822592	2016-01-06T15:46:10	Motor gasoline inventories rose 10.6 mmb in the week ended Jan 1; largest build in 20 years, bigger than in the prior seven weeks combined.
+JeoffHall	684757466148556800	2016-01-06T15:24:36	Unabated inventory correction will rob from Q4 U.S. real GDP, but likely to a lesser extent than it did from Q3 GDP (-0.71 pp).
+JeoffHall	684755003924295680	2016-01-06T15:14:49	Nondurable goods orders have fallen for five straight months; level ($233.6 bn) is the lowest since Dec 2010. A lot of that is petroleum.
+JeoffHall	684739549059244033	2016-01-06T14:13:24	The U.S. posted a $1.704 bn trade surplus with OPEC nations in Nov; eighth positive balance in last 10 months, largest since at least 1992.
+JeoffHall	684732730031140865	2016-01-06T13:46:19	U.S. exports have fallen in nine of the last 13 months and their current value ($182.221 bn) is the lowest in 46 months.
+JeoffHall	684729007598886912	2016-01-06T13:31:31	US trade deficit narrowed to $42.37 bn in Nov. Oct revised wider but net for the quarter is smaller than expected. Should help GDP estimates
+JeoffHall	684725992716369920	2016-01-06T13:19:32	ADP's 257k private NFP estimate is its highest since July 2014 (281k) when BLS initially reported a gain of 262k, later revised to +272k.
+JeoffHall	684724961429327872	2016-01-06T13:15:27	ADP National Employment Report suggests private nonfarm payrolls rose 257k in Dec.
+JeoffHall	684421837200211969	2016-01-05T17:10:56	Thanks calculatedrisk I see my DSR error. Wrightson saying 17.8 mn but hasn't ruled out 18.0 mn.
+JeoffHall	684392649856561152	2016-01-05T15:14:57	With 70% of industry market share reported, U.S. light vehicle sales look to have reached an 18.70 mn SAAR in Dec. 
+JeoffHall	684390041003651072	2016-01-05T15:04:35	Toyota Motor Sales USA Dec sales of 238,350, +10.8% y/y but up only 2.9% y/y on a daily selling rate basis.
+JeoffHall	684383336924639232	2016-01-05T14:37:57	Big Three combined December sales of 746,999 vehicles are up 8.7% vs Dec 2014. All other early reports very strong. 
+JeoffHall	684367324212781057	2016-01-05T13:34:19	FCA US LLC (Chrysler) reported Dec vehicle sales of 217,527 units, a 12.6% increase over Dec 2014 (193,261) and the best Dec in 90 years.
+JeoffHall	684351931087777792	2016-01-05T12:33:09	Dec usually 2d strongest month (behind Mar) for Ford light truck sales. IFR Markets expects this Dec to be ~164k. 
+JeoffHall	684103808901713920	2016-01-04T20:07:12	None of the Euro Area countries Markit surveys had a PMI less &lt;50 in Dec, compared to two in Nov, four in Dec '14. 
+JeoffHall	684026898561634305	2016-01-04T15:01:35	Nov construction spending -0.4% (f/c +0.6%); Oct revised to +0.3% from +1.0%. Weak data will pull Q4 GDP tracking estimates lower 0.2-0.3 pp
+JeoffHall	684026253414764544	2016-01-04T14:59:02	With 26 of 29 reported, 21 countries/groupings had PMIs above 50 in December, the most since Nov '14. Fourteen are higher today than Dec '14
+JeoffHall	684023502291140608	2016-01-04T14:48:06	Markit US PMI final Dec 51.2 (flash 51.3, prior 52.8). New orders (50.2) still lowest since Sep 2009
+JeoffHall	679693750826713088	2015-12-23T16:03:12	For four weeks in a row, energy analysts have missed not only the magnitude of the change in crude oil inventories, but the direction itself
+JeoffHall	679691656178737153	2015-12-23T15:54:53	New Home Sales peaked for the year in three of the last four Decembers. Dec 2015 seems out of reach; would have to top Feb's 545k SAAR.
+JeoffHall	679689611933650944	2015-12-23T15:46:46	There were 232k homes available for sale at the end of Nov, a 5.7-mo supply at current selling rate. Stock of unsold homes now a 70-mo high.
+JeoffHall	679351154191519744	2015-12-22T17:21:51	As single predictors go, Richmond Fed has a respectable correlation to the ISM PMI and it's pointing upward in Dec. 
+JeoffHall	679323344873877504	2015-12-22T15:31:21	Single-family existing home sales fell 12.1% m/m in November and are now down 16.2% since July's 8-year peak rate of 4.95 mn annually.
+JeoffHall	679322753678368773	2015-12-22T15:29:00	All four census regions reported a Nov decline in existing home sales, two of them in double digits. Midwest -15.4% m/m, West -13.9% m/m.
+JeoffHall	679322426623311872	2015-12-22T15:27:42	November had the lowest annual rate of existing home sales in 19 months (4.76 mn) and marked the first back-to-back decline in 21 months.
+JeoffHall	679322119969353729	2015-12-22T15:26:29	The 10.5% m/m drop in November existing home sales is worst m/m decline since July 2010 (-22.5%), when homebuyer tax credits were expiring.
+JeoffHall	678937517966671873	2015-12-21T13:58:12	CFNAI has printed &gt;0 only 2x in '15, vs 10x in '14. 3m avg positive 4x this year, 10x last year. Growth below trend. 
+JeoffHall	677870087026552832	2015-12-18T15:16:37	The future expectations index in the Markit Services PMI fell to 64.52 in Dec, the lowest in 3.5 years.
+JeoffHall	677864364527869953	2015-12-18T14:53:53	In 2014, the Markit Services PMI New Business Index moved to 53.10 in Dec from 55.94 in Nov. Today it moved to 53.10 from 55.92. seasonal
+JeoffHall	677862506635722753	2015-12-18T14:46:30	Markit Services PMI flash for December 53.7, lowest in a year and well below the Reuters poll consensus (f/c 56.0)
+JeoffHall	677505381954887681	2015-12-17T15:07:25	Index of leading economic indicators +0.4% m/m in Nov, but 80% of that increase owes to the 11.0% m/m rise in building permits last month.
+JeoffHall	677225365165576193	2015-12-16T20:34:43	Appropriate pace of Federal Reserve policy firming steady for 2016, lower for 2017 and 2018. 
+JeoffHall	677137730921476097	2015-12-16T14:46:30	Markit Manufacturing PMI fell to 51.3 in Dec (f/c 52.6, prior 52.8), lowest since Oct 2012. New orders (50.5) lowest since Sep 2009.
+JeoffHall	677136865653321728	2015-12-16T14:43:04	At 74.5% in Nov, the capacity utilization rate for utilities industries is the lowest since the Fed started reporting the series in 1972.
+JeoffHall	677118814094520320	2015-12-16T13:31:20	Building permits rose 11.0% m/m to 1.289 mn SAAR in Nov, almost all on multi-family units (+26.9%). Single-family permits +1.1%.
+JeoffHall	676862833640927232	2015-12-15T20:34:09	Fed Funds Futures put end-2017 rate at 1.375%. Dot plot for Sept was 2.125%, suggesting median of Dec dots to fall 125 bps. We think 50 bps.
+JeoffHall	676799213104041984	2015-12-15T16:21:21	Atlanta Fed annualized Sticky CPI +2.4% in Nov, highest since May '09; 3-mo annualized 3.1%, highest since Sep '08 
+JeoffHall	676758707292659713	2015-12-15T13:40:24	Forward-looking indicators from NY Fed mfg survey suggest widespread optimism. Future general business conditions highest in 23 months.
+JeoffHall	675634653546553344	2015-12-12T11:13:48	5_min_macro extra wontons
+JeoffHall	675345135706759170	2015-12-11T16:03:22	After falling in November for a fifth straight month, gasoline station sales ($34.478 bn) are now the lowest since July 2009.
+JeoffHall	675334468610211841	2015-12-11T15:20:59	U Mich consumer sentiment index averaged 92.9 in 2015, highest annual average since 2004; only 10 higher averages in the past half century.
+JeoffHall	675307052911230976	2015-12-11T13:32:02	PPI +0.3% m/m in both headline and core measures, control group retail sales +0.6%. Strong data cement odds of Fed hike on Dec 16.
+JeoffHall	675014299132272641	2015-12-10T18:08:44	Primary dealers have only $16.927 bn of this week's $58 bn coupon supply to redistribute, record low aggregate awards for the three auctions
+JeoffHall	675013369125056512	2015-12-10T18:05:02	Indirect bidders took down 63.89% of today's $13 bn 30-year bond reopening, their third largest share on record.

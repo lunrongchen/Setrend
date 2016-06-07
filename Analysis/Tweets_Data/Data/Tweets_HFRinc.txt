@@ -1,0 +1,840 @@
+HFRinc	725806793629130753	2016-04-28T21:59:59	Emerging Markets HFs gain Wed as Tech earnings fall, UK assets gain on Brexit unwind; HFRX EmergingMarkets Composite Index up +0.28%
+HFRinc	725806536094703616	2016-04-28T21:58:57	RelativeValue HFs gain Wed as Tech earnings fall, UK assets gain on Brexit unwind; HFRX RV: FI ConvertibleArbitrage Index up +0.27%
+HFRinc	725804834641743884	2016-04-28T21:52:12	Macro hedge funds gain Wed as Tech earnings fall, UK assets gain on Brexit unwind; HFRX Macro CTA Index up +0.28% on 4/27
+HFRinc	725804756334047233	2016-04-28T21:51:53	EventDriven hedge funds gain Wed as Tech earnings fall, UK assets gain on Brexit unwind; HFRX ED: SpecialSituations Index up +0.30%
+HFRinc	725804574687125504	2016-04-28T21:51:10	Equity Hedge funds gain Wed as Tech earnings fall, UK assets gain on Brexit unwind; HFRX EH: FundamentalValue Index up +0.20% on 4/27
+HFRinc	725778096654155776	2016-04-28T20:05:57	Hedge funds gain Wed as Tech earnings fall, UK assets gain on Brexit unwind; HFRX MarketDirectional Index up +0.70% on 4/27
+HFRinc	725778014475194368	2016-04-28T20:05:37	Hedge funds gain Wed as Tech earnings fall, UK assets gain on Brexit unwind; HFRX Global HedgeFund Index up +0.18% on 4/27
+HFRinc	725445940245594112	2016-04-27T22:06:04	EnergyInfrastructure hedge funds gain Tues as small cap equities, Oil gain; Biotech extends losses; HFRX MLP Index up +0.16% on 4/26
+HFRinc	725445859308003328	2016-04-27T22:05:45	Macro hedge funds gain Tues as small cap equities, Oil gain; Biotech extends losses; HFRX Macro CTA Index up +0.17% on 4/26
+HFRinc	725445705536393216	2016-04-27T22:05:08	EventDriven HFs gain Tues as small cap equities, Oil gain; Biotech extends losses; HFRX ED: DistressedRestructuring Index up +0.15%
+HFRinc	725445518898384897	2016-04-27T22:04:24	EquityHedge funds gain Tues as small cap equities, Oil gain; Biotech extends losses; HFRX EH: FundamentalValue Index up +0.38% on 4/26
+HFRinc	725445414263119872	2016-04-27T22:03:59	Equity Hedge funds gain Tues as small cap equities, Oil gain; Biotech extends losses; HFRX EquityHedge Index up +0.23% on 4/26
+HFRinc	724575652008087554	2016-04-25T12:27:52	Unilever Almost Borrowing for Free Following ECB Bond-Buying Plans  via WSJ
+HFRinc	725065386706800640	2016-04-26T20:53:53	Fixed Income hedge funds gain Mon as equities fall led by Biotech, Energy; USD falls; HFRX FixedIncome Credit Index up +0.11% on 4/25
+HFRinc	725060928035782659	2016-04-26T20:36:10	RelativeValue hedge funds gain Mon as equities fall led by Biotech, Energy; USD falls; HFRX RV: ConvertibleArbitrage Index up +0.38%
+HFRinc	725060776281706496	2016-04-26T20:35:34	EquityHedge funds gain Mon as equities fall led by Biotech, Energy; USD falls; HFRX EH: EquityMarketNeutral Index up +0.32% on 4/25
+HFRinc	724719385043034114	2016-04-25T21:59:00	EnergyInfrastructure hedge funds gain Fri as equities mixed as Tech falls; Oil, USD gain; HFRX MLP Index up +2.46% on 4/22
+HFRinc	724718944188137472	2016-04-25T21:57:15	EventDriven hedge funds gain Fri as equities mixed as Tech falls; Oil, USD gain; HFRX ED: SpecialSituations Index up +0.37% on 4/22
+HFRinc	724716733039157248	2016-04-25T21:48:28	EventDriven hedge funds gain Fri as equities mixed as Tech falls; Oil, USD gain; HFRX ED: MergerArbitrage Index up +0.18% on 4/22
+HFRinc	724716643520155648	2016-04-25T21:48:07	EventDriven hedge funds gain Fri as equities mixed as Tech falls; Oil, USD gain; HFRX EventDriven Index up +0.27% on 4/22
+HFRinc	724715706982375424	2016-04-25T21:44:23	Hedge funds gain Fri as equities mixed as Tech falls; Oil, USD gain; HFRX MarketDirectional Index up +0.76% on 4/22
+HFRinc	724715607220842496	2016-04-25T21:43:59	Hedge funds gain Fri as equities mixed as Tech falls; Oil, USD gain; HFRX AbsoluteReturn Index up +0.11% on 4/22 
+HFRinc	723626448481722368	2016-04-22T21:36:04	UCITS hedge funds gain Thurs as equities fall; Biotech, high yield credit gain HFRU Macro Index up +0.15% on 4/21 
+HFRinc	723620403348819969	2016-04-22T21:12:03	EnergyInfrastructure hedge funds gain Thurs as equities fall; Biotech, high yield credit gain; HFRX MLP Index up +1.23% on 4/21
+HFRinc	723620320842653697	2016-04-22T21:11:43	RelativeValue hedge funds gain Thurs as equities fall; Biotech, high yield credit gain; HFRX RV: FI-ConvertibleArbitrage Index up +0.16%
+HFRinc	723617289623375872	2016-04-22T20:59:40	EventDriven hedge funds gain Thurs as equities fall; Biotech, high yield credit gain; HFRX ED: DistressedRestructuring Index up +0.82%
+HFRinc	723604084922548224	2016-04-22T20:07:12	EquityHedge funds gain Thurs as equities fall; Biotech, high yield credit gain; HFRX EH: FundamentalGrowth Index up +0.27% on 4/21
+HFRinc	723603986553573376	2016-04-22T20:06:48	Hedge funds gain Thurs as equities fall; Biotech, high yield credit gain; HFRX MarketDirectional Index up +0.37% on 4/21
+HFRinc	723267936878649345	2016-04-21T21:51:28	Macro hedge funds gain Wed as Commodities extend gains led by Oil &amp; Energy; USD gains; HFRU Macro Index up +0.15% on 4/20
+HFRinc	723267824425144320	2016-04-21T21:51:01	EnergyInfrastructure hedge funds gain Wed as Commodities extend gains led by Oil &amp; Energy; USD gains; HFRX MLP Index up +2.49% on 4/20
+HFRinc	723267646402093057	2016-04-21T21:50:19	FI hedge funds gain Wed as Commodities extend gains led by Oil &amp; Energy; USD gains; HFRX FixedIncomeCredit Index up +0.20% on 4/20
+HFRinc	723266430280441856	2016-04-21T21:45:29	RelativeValue HFs gain Wed as Commodities extend gains led by Oil &amp; Energy; USD gains; HFRX RV: FI-ConvertibleArbitrage Index up +0.15%
+HFRinc	723265904297938944	2016-04-21T21:43:23	EventDriven HFs gain Wed as Commodities extend gains led by Oil &amp; Energy; USD gains; HFRX ED: DistressedRestructuring Index up +0.66%
+HFRinc	723260916238667777	2016-04-21T21:23:34	EquityHedge funds gain Wed as Commodities extend gains led by Oil &amp; Energy; USD gains; HFRX EH: FundamentalValue Index up +0.11%
+HFRinc	723260793031036929	2016-04-21T21:23:05	Hedge funds gain Wed as Commodities extend gains led by Oil &amp; Energy; USD gains; HFRX MarketDirectional Index up +0.65% on 4/20
+HFRinc	723186464796741634	2016-04-21T16:27:44	HFRU EventDriven Index down -0.12% thru mid-month from exposure to European SpecialSituations equity and MergerArbitrage strategies
+HFRinc	723186379237154817	2016-04-21T16:27:23	HFRU Macro Index up +0.09% thru mid-April from mixed performance of CTAs &amp; Discretionary FixedIncome strategies
+HFRinc	723183703795503104	2016-04-21T16:16:45	HFRU RelativeValueArbitrage Index up +0.41% thru mid-April from contributions from Volatility &amp; EmergingMarket Debt strategies
+HFRinc	723183584777916417	2016-04-21T16:16:17	HFRU EquityHedge Index up +0.54% thru mid-April, as global equity markets extended the recovery from the prior month
+HFRinc	723183523662729217	2016-04-21T16:16:02	UCITS compliant hedge funds posted gains thru mid-April w/ HFRU HedgeFundComposite Index gaining +0.37% 
+HFRinc	723176368372998145	2016-04-21T15:47:36	UCITS hedge funds gain Tues as commodities surge, led by Gold, Silver, NaturalGas; HFRU EquityHedge Index up +0.26% on 4/19
+HFRinc	723176281664167936	2016-04-21T15:47:16	EnergyInfrastructure hedge funds gain Tues as commodities surge, led by Gold, Silver, NaturalGas; HFRX MLP Index up +4.10% on 4/19
+HFRinc	723173509602500608	2016-04-21T15:36:15	RV hedge funds gain Tues as commodities surge, led by Gold, Silver, Natural Gas; HFRX RelativeValueArbitrage Index up +0.35% on 4/19
+HFRinc	723173392480755712	2016-04-21T15:35:47	EventDriven HFs gain Tues as commodities surge, led by Gold, Silver, Natural Gas; HFRX ED: DistressedRestructuring Index up +0.90%
+HFRinc	723160943891341312	2016-04-21T14:46:19	Equity Hedge funds gain Tues as commodities surge, led by Gold, Silver, NaturalGas; HFRX EH: FundamentalGrowth Index up +0.50% on 4/19
+HFRinc	723160871866798084	2016-04-21T14:46:02	Hedge funds gain Tues as commodities surge, led by Gold, Silver, NaturalGas; HFRX MarketDirectional Index up +1.69% on 4/19
+HFRinc	723155647869526016	2016-04-21T14:25:16	Hedge funds gain Tues as commodities surge, led by Gold, Silver, NaturalGas; HFRX EqualWeightedStrategies Index up +0.27% on 4/19
+HFRinc	723155546694508544	2016-04-21T14:24:52	Hedge funds gain Tues as commodities surge, led by Gold, Silver, NaturalGas; HFRX Global HedgeFund Index up +0.35% on 4/19
+HFRinc	722909748207554564	2016-04-20T22:08:09	UCITS compliant hedgefunds posted gains through mid-April with the HFRU Hedge Fund Composite Index gaining +0.37%.
+HFRinc	722904829228519426	2016-04-20T21:48:36	HFRX Distressed Index up +1.46% thru mid-month from exposure to activity in BasicMaterials, Consumer &amp; Industrial sectors
+HFRinc	722904743027146752	2016-04-20T21:48:16	HFRX MergerArbitrage Index gained +0.36% thru mid-month, w/ core exposures to Rubbermaid Jarden transactions
+HFRinc	722904646533033985	2016-04-20T21:47:53	HFRX EventDriven Index down -0.28% thru mid-April, as the Allergan Pfizer tax inversion merger broke under US regulatory pressure
+HFRinc	722904353984516097	2016-04-20T21:46:43	HFRX MLP Index gained +5.33% thru mid-month, as EnergyInfrastructure strategies extended gains from prior month 
+HFRinc	722904200837922817	2016-04-20T21:46:07	HFRX ConvertibleArbitrage Index up +0.95% thru mid-month, as gains in credit were only partially offset by declines in implied volatility
+HFRinc	722902853807833088	2016-04-20T21:40:45	HFRX RelativeValueArbitrage Index up +0.22% thru mid-April, with contribution from Convertible &amp; Yield Alternative managers
+HFRinc	722902781640593408	2016-04-20T21:40:28	HFRX FundamentalValue Index gained +0.10% thru mid-April, with gains in exposure to large-cap Consumer, Energy &amp; Financial sectors
+HFRinc	722899984161452032	2016-04-20T21:29:21	HFRX FundamentalGrowth Index gained +0.92% thru mid-month, w/ contributions concentrated in Global Healthcare &amp; EmergingMarkets equities
+HFRinc	722899901202309122	2016-04-20T21:29:01	HFRX EquityHedge Index up +0.24% thru mid-April as global equity markets extended gains from the prior month 
+HFRinc	722899171938664448	2016-04-20T21:26:08	HFRX EmergingMarkets &amp; HFRX Systematic CTA Index up +1.44% &amp; +0.25% thru mid-month w/ contributions concentrated in Emerging Asia
+HFRinc	722899086454591488	2016-04-20T21:25:47	HFRX Macro/CTA Index up +0.87% thru mid-April, w/ positive contributions from CTA, Discretionary Fixed Income &amp; Emerging Markets managers
+HFRinc	722894494413160448	2016-04-20T21:07:32	HFRX MarketDirectional Index gained +1.98% thru mid-month &amp; HFRX Global Hedge Fund Index gained +0.22%
+HFRinc	722881564535693313	2016-04-20T20:16:10	HFRX Macro CTA Index up +0.87% thru mid-April, w/ positive contributions from CTA, Discretionary Fixed Income &amp; Emerging Markets managers
+HFRinc	722881502925627393	2016-04-20T20:15:55	HFRX MarketDirectional Index up +1.98% &amp; HFRX Global HedgeFund Index up +0.22% thru mid-month 
+HFRinc	722864691265937408	2016-04-20T19:09:07	Firms managing between $1- 5B experienced net outflows of $3.6B, while firms managing &lt; $250M recorded net inflows of $730M in 1Q
+HFRinc	722864629831962624	2016-04-20T19:08:52	Firms with &gt; $5B AUM, which manage 68.3% of industry capital, experienced net outflows of $10.7B in 1Q
+HFRinc	722840604313399300	2016-04-20T17:33:24	HFRI EquityHedge Index declined -1.7% in 1Q16, partially recovering sharp Jan decline of -4.5% w/ a March gain of +3.4%#
+HFRinc	722840460109029376	2016-04-20T17:32:50	Sub-strategy outflows of $5.7B from FundamentalValue were only partially offset by inflows of $2.6B in EquityMarketNeutral in 1Q
+HFRinc	722825952602927105	2016-04-20T16:35:11	Investors withdrew $4.7B from EquityHedge funds in 1Q16, bringing total assets in EH to $806.5B, largest strategy area of industry capital
+HFRinc	722825881907924992	2016-04-20T16:34:54	HFRI RelativeValue Index declined -0.5% in 1Q16, despite ending the quarter with a March gain of +1.7%
+HFRinc	722816912380395523	2016-04-20T15:59:15	Sub-strategy inflows were led by RVA: MultiStrategy funds, which received $3.8B in new capital, leading sub-strategy industry wide
+HFRinc	722816875885768708	2016-04-20T15:59:07	Investors allocated $5.3B in new assets to RVA, bringing total RVA capital globally to $772B 
+HFRinc	722814487846215680	2016-04-20T15:49:37	HFRI ED: Activist Index declined -1.4% for 1Q16, while HFRI MergerArbitrage Index gained +1.3% 
+HFRinc	722814342748438528	2016-04-20T15:49:03	HFRI EventDriven Index was flat for 1Q16, recovering a steep January decline of -3.2% with a sharp gain of +3.8% in March
+HFRinc	722804548599812099	2016-04-20T15:10:08	More than half of ED outflow was from Activist strategies ($4.3B), while Merger Arbitrage funds received a net inflow of over $400M in 1Q
+HFRinc	722804473828024320	2016-04-20T15:09:50	Investors withdrew $8.3B from all Event Driven strategies, reducing total ED capital to $729B
+HFRinc	722800184212594688	2016-04-20T14:52:47	Total hedge fund capital in Macro strategies declined to $548B, inclusive of a net investor outflow of $7.3B
+HFRinc	722800154856652801	2016-04-20T14:52:40	1Q perf led by Macro &amp; CTA strategies, with HFRI Macro Index up +1.4%, while HFRI Macro: SystematicDiversified Index advanced +2.7%
+HFRinc	722791174562447361	2016-04-20T14:16:59	HFRI FundWeightedComposite Index declined -0.67% in 1Q16, despite paring January decline of -2.6% with March gain of +2.0%
+HFRinc	722791093025124352	2016-04-20T14:16:40	Total global hedge fund capital declined to $2.86T, including investor outflows of $15.1B, marking the largest quarterly outflow since 2Q09
+HFRinc	722785077181030401	2016-04-20T13:52:45	HFR Press Release: “ED leads strategy outflows as deal uncertainty rises; largest total industry outflow since 2009”
+HFRinc	722785045627277312	2016-04-20T13:52:38	HFR Press Release: “HEDGE FUND ASSETS FALL IN VOLATILE FIRST QUARTER”
+HFRinc	722785022290169858	2016-04-20T13:52:32	HFR Releases First Quarter GlobalHedgeFundIndustryReport 
+HFRinc	722530499206336513	2016-04-19T21:01:09	EnergyInfrastructure hedge funds gain Mon as Biotech, Energy lead equity markets; Real falls v. USD; HFRX MLP Index up +3.03% on 4/18
+HFRinc	722530196960587776	2016-04-19T20:59:57	RelativeValue HFs gain Mon as Biotech, Energy lead equity markets; Real falls v. USD; HFRX RV ConvertibleArbitrage Index up +0.12%
+HFRinc	722528582136823808	2016-04-19T20:53:32	Macro hedge funds gain Mon as Biotech, Energy lead equity markets; Real falls v. USD; HFRX MacroCTA Index up +0.19% on 4/18
+HFRinc	722528459981869056	2016-04-19T20:53:03	EquityHedge funds gain Mon as Biotech, Energy lead equity markets; Real falls v. USD; HFRX EH: FundamentalValue Index up +0.16%
+HFRinc	722523080468209664	2016-04-19T20:31:40	Equity Hedge funds gain Mon as Biotech, Energy lead equity markets; Real falls v. USD; HFRX EquityHedge Index  up +0.13% on 4/18
+HFRinc	722522980564074497	2016-04-19T20:31:17	Hedge funds gain Mon as Biotech, Energy lead equity markets; Real falls v. USD; HFRX MarketDirectional Index up +1.00% on 4/18
+HFRinc	722173954471763969	2016-04-18T21:24:22	Macro hedge funds gain Fri as USD gains, yields fall, equities mixed; HFRX Macro: SystematicDiversified CTA Index up +0.44% on 4/15
+HFRinc	722173870384394240	2016-04-18T21:24:02	Macro hedge funds gain Fri as USD gains, yields fall, equities mixed; HFRX Macro CTA Index up +0.23% on 4/15
+HFRinc	722167572809007105	2016-04-18T20:59:01	EventDriven hedge funds gain Fri as USD gains, yields fall, equities mixed; HFRX ED: SpecialSituations Index up +0.17% on 4/15
+HFRinc	722167491191902208	2016-04-18T20:58:41	EventDriven hedge funds gain Fri as USD gains, yields fall, equities mixed; HFRX ED: DistressedRestructuring Index up +0.42% on 4/15
+HFRinc	722166760355409920	2016-04-18T20:55:47	ED hedge funds gain Fri as USD gains, yields fall, equities mixed; HFRX EventDriven Index up +0.22% on 4/15 
+HFRinc	722066728910336000	2016-04-18T14:18:18	UCITS hedge funds gain Thurs as high yield credit gains; equities, commodities mixed; HFRU EquityHedge Index up +0.11% on 4/14
+HFRinc	722066682965938176	2016-04-18T14:18:07	FI hedge funds gain Thurs as high yield credit gains; equities, commodities mixed; HFRX FixedIncome Credit Index up +0.11% on 4/14
+HFRinc	722063643454484482	2016-04-18T14:06:02	RelativeValue HFs gain Thurs as high yield credit gains; equities, commodities mixed; HFRX RV: FI ConvertibleArbitrage Index up +0.14%
+HFRinc	722063539142152192	2016-04-18T14:05:37	Event Driven HFs gain Thurs as high yield credit gains; equities, commodities mixed; HFRX ED: Distressed Restructuring Index up +0.15%
+HFRinc	721059052592041984	2016-04-15T19:34:09	HFRX Brazil Index leads all HFRX EmergingMarkets hedge fund indices, gaining +11% in March
+HFRinc	721013798388125697	2016-04-15T16:34:19	"UK’s Man Group reports stable results despite volatility" HFR mentioned in FT article here  
+HFRinc	719962599828406273	2016-04-12T18:57:14	Hedge funds posted strong gains in March, which were led by emerging market funds.  
+HFRinc	721013082609168385	2016-04-15T16:31:29	"Hedge funds post biggest gains in four years" see HFR mentioned in HITC article here: 
+HFRinc	720728218567770112	2016-04-14T21:39:32	Global hedge funds gain Wed as Financials, Biotech, Europe surge to lead equity rally; HFRX MultiRegion Index up +0.49% on 4/13
+HFRinc	720728156722757632	2016-04-14T21:39:17	Macro HFs gain Wed as Financials, Biotech, Europe surge to lead equity rally; HFRX Macro: SystematicDiversifiedCTA Index up +0.42%
+HFRinc	720725646016532480	2016-04-14T21:29:19	EventDriven HFs gain Wed as Financials, Biotech, Europe surge to lead equity rally; HFRX ED: DistressedRestructuring Index up +0.58%
+HFRinc	720725573488615424	2016-04-14T21:29:01	ED hedge funds gain Wed as Financials, Biotech, Europe surge to lead equity rally; HFRX EventDriven Index up +0.55% on 4/13
+HFRinc	720725517914091520	2016-04-14T21:28:48	EquityHedge funds gain Wed as Financials, Biotech, Europe surge to lead equity rally; HFRX EH: FundamentalValue Index up +0.87% on 4/13
+HFRinc	720723486717513728	2016-04-14T21:20:44	Hedge funds gain Wed as Financials, Biotech, Europe surge to lead equity rally; HFRX MarketDirectional Index  up +0.41% on 4/13
+HFRinc	720723443562381313	2016-04-14T21:20:33	Hedge funds gain Wed as Financials, Biotech, Europe surge to lead equity rally; HFRX EqualWeightedStrategies Index up +0.27% on 4/13
+HFRinc	720723395994734593	2016-04-14T21:20:22	Hedge funds gain Wed as Financials, Biotech, Europe surge to lead equity rally; HFRX Global HedgeFund Index up +0.43% on 4/13
+HFRinc	720720453669490688	2016-04-14T21:08:41	EnergyInfrastructure hedge funds gain Tues as Energy leads global equity rally; Oil surges to ‘16 high; HFRX MLP Index up +3.14%
+HFRinc	720720363517124608	2016-04-14T21:08:19	Fixed Income hedge funds gain Tues as Energy leads global equity rally; Oil surges to ‘16 high; HFRX FixedIncome Credit Index up +0.14%
+HFRinc	720720271494086656	2016-04-14T21:07:57	EmergingMarkets HFs gain Tues as Energy leads global equity rally; Oil surges to ‘16 high; HFRX EmergingMarkets Composite Index up +0.51%
+HFRinc	720720186400092161	2016-04-14T21:07:37	Macro hedge funds gain Tues as Energy leads global equity rally; Oil surges to ‘16 high; HFRX Macro CTA Index up +0.31%
+HFRinc	720685175646982144	2016-04-14T18:48:30	EventDriven HFs gain Tues as Energy leads global equity rally; Oil surges to ‘16 high; HFRX ED: DistressedRestructuring Index up +0.36%
+HFRinc	720685098174025728	2016-04-14T18:48:11	Equity Hedge funds gain Tues as Energy leads global equity rally; Oil surges to ‘16 high; HFRX EH: FundamentalValue Index up +0.22%
+HFRinc	720680030448148480	2016-04-14T18:28:03	Hedge funds gain Tues as Energy leads global equity rally; Oil surges to ‘16 high; HFRX MarketDirectional Index up +1.14%
+HFRinc	720679888588419072	2016-04-14T18:27:29	Hedge funds gain Tues as Energy leads global equity rally; Oil surges to ‘16 high; HFRX Global HedgeFund Index up +0.10%
+HFRinc	719991123490373632	2016-04-12T20:50:35	UCITS hedge funds gain Mon as Oil, Gold lead gains, Equities mixed; HFRU Macro Index up +0.12% on 4/11 
+HFRinc	719990889116897280	2016-04-12T20:49:39	EnergyInfrastructure hedge funds gain Mon as Oil, Gold lead gains, Equities mixed; HFRX MLP Index up +0.57% on 4/11
+HFRinc	719990119759884288	2016-04-12T20:46:35	HFR President KennethJHeinz to present at SALTConference in Las Vegas this May! SALT2016
+HFRinc	719987126922678272	2016-04-12T20:34:42	EM hedge funds gain Mon as Oil, Gold lead gains, Equities mixed; HFRX EmergingMarkets Composite Index up +0.19% on 4/11
+HFRinc	719986871082700800	2016-04-12T20:33:41	N. American hedge funds gain Mon as Oil, Gold lead gains, Equities mixed; HFRX NorthAmerica Index up +0.18% on 4/11
+HFRinc	719982512752078848	2016-04-12T20:16:22	RelativeValue hedge funds gain Mon as Oil, Gold lead gains, Equities mixed; HFRX RV: FI ConvertibleArbitrage Index up +0.13% on 4/11
+HFRinc	719982427049820160	2016-04-12T20:16:01	EventDriven hedge funds gain Mon as Oil, Gold lead gains, Equities mixed; HFRX ED: DistressedRestructuring Index up +0.13% on 4/11
+HFRinc	719636065749852160	2016-04-11T21:19:42	UCITS hedge funds gain Fri as Oil surges, European equities lead; HFRU EquityHedge Index up +0.15% on 4/8
+HFRinc	719635194160947200	2016-04-11T21:16:15	EnergyInfrastructure hedge funds gain Fri as Oil surges, European equities lead; HFRX MLP Index up +2.68% on 4/8 
+HFRinc	719635064091377664	2016-04-11T21:15:44	EquityHedge funds gain Fri as Oil surges, European equities lead; HFRX EH: FundamentalValue Index up +0.36% on 4/8
+HFRinc	719628820416843776	2016-04-11T20:50:55	EH funds gain Fri as Oil surges, European equities lead; HFRX EquityHedge Index up +0.22% on 4/8
+HFRinc	719628699792900096	2016-04-11T20:50:26	Hedge funds gain Fri as Oil surges, European equities lead; HFRX MarketDirectional Index up +0.89% on 4/8 
+HFRinc	718529972684521473	2016-04-08T20:04:29	"Hedge funds see biggest gains in emerging markets: HFR" see KennethJHeinz interview on BNN here: 
+HFRinc	718527691738128386	2016-04-08T19:55:25	UCITS hedge funds gain Thurs as Yen surge accelerates; equities, oil fall; HFRU EquityHedge Index up +0.16% on 4/7
+HFRinc	718527611769462785	2016-04-08T19:55:06	RelativeValue hedge funds gain Thurs as Yen surge accelerates; equities, oil fall; HFRX RV: FI ConvertibleArbitrage Index up +0.67% on 4/7
+HFRinc	718450556973355009	2016-04-08T14:48:55	"Fund Chief Survives Oil’s Swings" check out HFR mentioned in WSJ article here:  
+HFRinc	718450058367094788	2016-04-08T14:46:56	Join our webinar starting in 15 min to hear President KennethJHeinz discuss March performance of the HFRI Indices! 
+HFRinc	718197991333474304	2016-04-07T22:05:19	UCITS hedge funds gain Wed as Biotechs surge, recovering from Tues Allergan selloff; HFRU EquityHedge Index up +0.16% on 4/6
+HFRinc	718197928012025856	2016-04-07T22:05:04	EnergyInfrastructure hedge funds gain Wed as Biotechs surge, recovering from Tues Allergan selloff; HFRX MLP Index up +2.46% on 4/6
+HFRinc	718192065905954817	2016-04-07T21:41:46	EM hedge funds gain Wed as Biotechs surge, recovering from Tues Allergan selloff; HFRX EmergingMarkets Composite Index up +0.62% on 4/6
+HFRinc	718192003670876160	2016-04-07T21:41:31	Macro hedge funds gain Wed as Biotechs surge, recovering from Tues Allergan selloff; HFRX Macro CTA Index up +0.18% on 4/6
+HFRinc	718190548532604928	2016-04-07T21:35:44	EventDriven hedge funds gain Wed as Biotechs surge, recovering from Tues Allergan selloff; HFRX ED: SpecialSituations Index up +0.44%
+HFRinc	718190445944115200	2016-04-07T21:35:20	Equity Hedge funds gain Wed as Biotechs surge, recovering from Tues Allergan selloff; HFRX EH: FundamentalGrowth Index up +0.91% on 4/6
+HFRinc	718188431826747395	2016-04-07T21:27:20	Hedge funds gain Wed as Biotechs surge, recovering from Tues Allergan selloff; HFRX MarketDirectional Index up +1.34% on 4/6
+HFRinc	718188304710021121	2016-04-07T21:26:49	Hedge funds gain Wed as Biotechs surge, recovering from Tues Allergan selloff; HFRX Global HedgeFund Index up +0.23% on 4/6
+HFRinc	718186336222519296	2016-04-07T21:19:00	HFRI EM: Russia EasternEurope Index advanced +6.7% in March, bringing YTD performance to +6.8% 
+HFRinc	718186110753460224	2016-04-07T21:18:06	HFRI EM: Asia ex-Japan Index added +6.8% in March, its strongest monthly gain since April 2015
+HFRinc	718179880358141956	2016-04-07T20:53:21	HFRI EM: LatinAmerica Index gained +14.5% in March, the strongest performance since December 1999 
+HFRinc	718179702733582336	2016-04-07T20:52:38	CTA funds led contributions to Macro declines, w/ HFRI Macro: SystematicDiversified Index falling -2.8% in March, bringing YTD to +2.2%
+HFRinc	718177317365747712	2016-04-07T20:43:10	HFRI Macro Index declined -1.4% in March, paring the YTD gain for the Index to +1.2% 
+HFRinc	718173413890596865	2016-04-07T20:27:39	ED sub-strategy performance led by HFRI ED: SpecialSituations Index up +4.0% in March, while HFRI ED: Activist Index gained +3.1%
+HFRinc	718173174068711425	2016-04-07T20:26:42	ED strategies gained as high yield credit &amp; arbitrage deal spreads tightened, with HFRI EventDriven Index up +2.7% in March
+HFRinc	718168228699054080	2016-04-07T20:07:03	RVA sub-strategies led exposure to energy infrastructure &amp; corporate credit, HFRI RV: YieldAlternatives Index added +4.9% in March
+HFRinc	718165551034413056	2016-04-07T19:56:24	HFRI RelativeValue Index gained +2.3% in March, its strongest monthly performance since September 2009 
+HFRinc	718161732657504256	2016-04-07T19:41:14	EH sub-strategy perf led by Fundamental strategies; HFRI EH FundamentalGrowth Index up +4.7% in March HFRI EH: FundamentalValue up +3.6%
+HFRinc	718161450825437184	2016-04-07T19:40:07	HFRI Equity Hedge Index added +3.4% in March, strongest monthly gain since January 2012 
+HFRinc	718159142439952384	2016-04-07T19:30:56	HFs posted gains across Equity, ED &amp; RVA strategies, w/ HFRI FundWeightedComposite Index up +1.8% in March, strongest gain since Feb 2015
+HFRinc	718158928312344577	2016-04-07T19:30:05	March represents strongest month of performance for Emerging Markets since Index gained +9.6% in May 2009
+HFRinc	718155680369127425	2016-04-07T19:17:11	HFR President KennethJHeinz to appear on BNN tomorrow @ 1:30 CT to discuss March hedge fund industry performance. Tune in &amp; check it out!
+HFRinc	718152581604712448	2016-04-07T19:04:52	March HFRI perf: “Strongest gain for HFRI EmergingMarkets Index since May 2009; HFRI Equity, ED &amp; RVA all post sharp gains, Macro falls”
+HFRinc	718152510825848832	2016-04-07T19:04:35	HFR Press Release: “EMERGING MARKETS HEDGE FUNDS SURGE TO LEAD HFRI MARCH GAINS”
+HFRinc	718152480744349696	2016-04-07T19:04:28	HFR Releases HFRI monthly index performance for March 2016! 
+HFRinc	718151068870250496	2016-04-07T18:58:52	HFRI EmergingMarkets Index up +6.9% for March, offsetting steep losses from Jan &amp; bringing YTD performance to +0.8%
+HFRinc	717823421841674244	2016-04-06T21:16:54	RelativeValue hedge funds gain Tues as global equities decline led by Europe, Allergan; HFRX RV: FI ConvertibleArbitrage Index up +0.27%
+HFRinc	717823322218606592	2016-04-06T21:16:31	Macro HFs gain Tues as global equities decline led by Europe, Allergan; HFRX Macro: SystematicDiversified CTA Index up +0.13% on 4/5
+HFRinc	717821604223254528	2016-04-06T21:09:41	EquityHedge funds gain Tues as global equities decline led by Europe, Allergan; HFRX EH: EquityMarketNeutral Index up +0.24% on 4/5
+HFRinc	717740611671949312	2016-04-06T15:47:51	RelativeValue hedge funds gain Mon as commodities fall; equities, US$ mixed; HFRX RV: FI ConvertibleArbitrage Index up +0.16% on 4/4
+HFRinc	717740546639265792	2016-04-06T15:47:35	EventDriven hedge funds gain Mon as commodities fall; equities, US$ mixed; HFRX ED: SpecialSituations Index up +0.20% on 4/4
+HFRinc	717728127871356928	2016-04-06T14:58:15	ED hedge funds gain Mon as commodities fall; equities, USD mixed; HFRX EventDriven Index up +0.15% on 4/4 
+HFRinc	717727896471621632	2016-04-06T14:57:19	EquityHedge funds gain Mon as commodities fall; equities, US$ mixed; HFRX EH: FundamentalGrowth Index up +0.34% on 4/4
+HFRinc	717714262437724162	2016-04-06T14:03:09	HFRU Macro Index declined -0.62% for March with CTAs &amp; Currency managers experiencing large dispersion in performance
+HFRinc	717714227226521601	2016-04-06T14:03:00	HFRU EventDriven Index up +1.23% for March from gains in European Credit and Merger Arbitrage strategies
+HFRinc	717714174512537604	2016-04-06T14:02:48	HFRU RelativeValueArbitrage Index gained +1.24% for March as high yield credit, equities and energy experienced gains
+HFRinc	717103850839085056	2016-04-04T21:37:35	HFRU Equity Hedge Index posted a gain of +1.71% for March, as equity markets experienced a strong global rebound reversing prior declines.
+HFRinc	717099829315248128	2016-04-04T21:21:37	HFRX EmergingMarkets Index gained +3.15%, largest monthly performance in a year, w/ contributions concentrated in the Emerging Asia region
+HFRinc	717099761468243968	2016-04-04T21:21:20	HFRX MLP Index gained +4.02% for March, as EnergyInfrastructure strategies partially recovered from early year losses
+HFRinc	717098827103113216	2016-04-04T21:17:38	HFRX ConvertibleArbitrage Index up +0.24% in March, as gains in credit were partially offset by declines in implied volatility
+HFRinc	717098233005092864	2016-04-04T21:15:16	HFRX RelativeValueArbitrage Index up +0.05% for March, with contribution from Convertible &amp; Yield Alternative managers
+HFRinc	717098200734150657	2016-04-04T21:15:08	HFRX MergerArbitrage up +0.44% for March, w/ core exposures to Heartland Payment Systems/ Beanstalk Data &amp; Rubbermaid/Jarden transactions
+HFRinc	717098043921682432	2016-04-04T21:14:31	HFRX SpecialSituations Index gained +2.18% in March from core positioning in Time Warner, Charter Communications, Sandisk &amp; Yahoo
+HFRinc	717076374352035840	2016-04-04T19:48:24	HFRX Distressed Index up +4.35% for March, largest monthly performance since Jan 2003 and 3rd largest since index inception
+HFRinc	717076327539445760	2016-04-04T19:48:13	HFRX EventDriven Index up +2.63% for March, as high yield credit recovered and deal spreads tightened
+HFRinc	717068850877960192	2016-04-04T19:18:31	HFRX FundamentalValue Index gained +2.65% in March, with gains in exposure to large-cap Basic Materials &amp; Financial sectors
+HFRinc	717067705539383296	2016-04-04T19:13:58	HFRX FundamentalGrowth Index gained +4.12% in March, its best performance in past year 
+HFRinc	717052467347755008	2016-04-04T18:13:25	For the month of March, HFRX Global HedgeFund Index posted a gain of +1.24%
+HFRinc	717052415799758848	2016-04-04T18:13:12	HFRX MarketDirectional Index up +3.64% in March, while HFRX EquityHedge Index gained +2.79%
+HFRinc	716021122286813184	2016-04-01T21:55:13	Energy Infrastructure hedge funds gain Thurs as metals gain, equities mixed to end strong March; HFRX MLP Index up +1.65% on 3/31
+HFRinc	716021077625798656	2016-04-01T21:55:02	N. America hedge funds gain Thurs as metals gain, equities mixed to end strong March; HFRX NorthAmerica Index up +0.12% on 3/31
+HFRinc	716021037570232320	2016-04-01T21:54:53	Event Driven hedge funds gain Thurs as metals gain, equities mixed to end strong March; HFRX ED: SpecialSituations Index up +0.17% on 3/31
+HFRinc	716020989058887680	2016-04-01T21:54:41	EventDriven HFs gain Thurs as metals gain, equities mixed to end strong March; HFRX ED: DistressedRestructuring Index up +0.41% on 3/31
+HFRinc	716020925183885312	2016-04-01T21:54:26	Event Driven hedge funds gain Thurs as metals gain, equities mixed to end strong March; HFRX EventDriven Index up +0.22% on 3/31
+HFRinc	716020887607115776	2016-04-01T21:54:17	Equity Hedge funds gain Thurs as metals gain, equities mixed to end strong March; HFRX EH: FundamentalGrowth Index up +0.13% on 3/31
+HFRinc	716020848470044672	2016-04-01T21:54:07	Hedge funds gain Thurs as metals gain, equities mixed to end strong March; HFRX MarketDirectional Index up +0.79% on 3/31
+HFRinc	714926257025064960	2016-03-29T21:24:37	UCITS hedge funds remained unchanged Mon as European markets declined; HFRU EventDriven Index up +0.12% on 3/28 
+HFRinc	714925931320578048	2016-03-29T21:23:19	Hedge funds remained unchanged Mon as European markets declined; HFRX FixedIncome Credit Index up +0.06% on 3/28
+HFRinc	714917008916094976	2016-03-29T20:47:52	Hedge funds remained unchanged Mon as European markets declined; HFRX NorthAmerica Index up +0.07% on 3/28 
+HFRinc	714916877030400001	2016-03-29T20:47:20	Hedge funds remained unchanged Mon as European markets declined; HFRX RV: FI-ConvertibleArbitrage Index up +0.20% on 3/28
+HFRinc	714554101921480704	2016-03-28T20:45:48	Hedge funds gain Thurs as US equities mixed &amp; European markets declined; HFRX EmergingMarkets Composite Index up +0.51% on 3/24
+HFRinc	714552510388834304	2016-03-28T20:39:28	Event Driven hedge funds gain Thurs as US equities mixed &amp; European markets declined; HFRX ED: MergerArbitrage Index up +0.11% on 3/24
+HFRinc	714549511775850496	2016-03-28T20:27:33	Hedge funds gain Thurs as US equities mixed &amp; European markets declined; HFRX EH: FundamentalGrowth Index up +0.40% on 3/24
+HFRinc	714549454112563200	2016-03-28T20:27:20	HFs gain Thurs as US equities mixed &amp; European markets declined; HFRX EH: EquityMarketNeutral Index up +0.16% 
+HFRinc	712760362144108544	2016-03-23T21:58:07	Hedge funds gain Tues, Biotech &amp; Japan lead mixed equity markets; HFRX Global HedgeFund Index up +0.23% on 3/22 
+HFRinc	712760158531682304	2016-03-23T21:57:18	Hedge funds gain Tues as Biotech, Japan lead mixed equity markets; HFRX MarketDirectional Index up +0.66 
+HFRinc	712759720050712577	2016-03-23T21:55:34	EquityHedge funds gain Tues as Biotech, Japan lead mixed equity markets; HFRX EH: FundamentalGrowth Index up +0.29% on 3/22
+HFRinc	712758639350517760	2016-03-23T21:51:16	EventDriven hedge funds gain Tues as Biotech, Japan lead mixed equity markets; HFRX ED: SpecialSituations Index up +0.90% on 3/22
+HFRinc	712758555342823424	2016-03-23T21:50:56	EMs hedge funds gain Tues as Biotech, Japan lead mixed equity markets; HFRX EmergingMarkets Composite Index up +0.43% on 3/22
+HFRinc	712758464359976960	2016-03-23T21:50:34	EnergyInfrastructure hedge funds gain Tues as Biotech, Japan lead mixed equity markets; HFRX MLP Index up +1.51% on 3/22
+HFRinc	712758041561530369	2016-03-23T21:48:54	Global hedge funds gain Tues as Biotech, Japan lead mixed equity markets; HFRX MultiRegion Index up +0.14% on 3/22
+HFRinc	712757433563676672	2016-03-23T21:46:29	UCITS hedge funds gain Tues as Biotech, Japan lead mixed equity markets; HFRU EventDriven Index up +0.13% 
+HFRinc	712391598663868416	2016-03-22T21:32:47	Fixed Income HFs gain Mon as Biotech, China lead mixed equity markets; high yield credit gains; HFRX FixedIncome Credit Index up +0.13%
+HFRinc	712391504354881536	2016-03-22T21:32:24	EmergingMarkets hedge funds gain Mon as Biotech, China lead mixed equity markets; HFRX Emerging Markets Composite Index up +0.38%
+HFRinc	712391364932083712	2016-03-22T21:31:51	RelativeValue hedge funds gain Mon as Biotech, China lead mixed equity markets;  HFRX RV: FI ConvertibleArbitrage Index up +0.15%
+HFRinc	712387887023546368	2016-03-22T21:18:02	Macro hedge funds gain Mon as Biotech, China lead mixed equity markets; high yield credit gains; HFRX Macro CTA Index up +0.16% on 3/21
+HFRinc	712387813430272000	2016-03-22T21:17:44	EventDriven HFs gain Mon as Biotech, China lead mixed equity markets; HFRX ED: DistressedRestructuring Index up +0.38%
+HFRinc	712385891847634945	2016-03-22T21:10:06	Equity Hedge funds gain Mon as Biotech, China lead mixed equity markets; HFRX FundamentalGrowth Index up +0.49% 
+HFRinc	712385583708917760	2016-03-22T21:08:53	Equity HFs gain Mon as Biotech, China lead mixed equity markets; high yield credit gains; HFRX EquityHedge Index up +0.20% on 3/21
+HFRinc	712032758395215872	2016-03-21T21:46:53	make sure to follow HFR President KennethJHeinz for more industry news and commentary!
+HFRinc	712030342824087552	2016-03-21T21:37:17	Hedge funds gain Fri as Biotech leads equity gains, high yield credit tightens USD falls; HFRX Global HedgeFund Index up +0.10% on 3/18
+HFRinc	712030219033567234	2016-03-21T21:36:47	Hedge funds gain Fri as Biotech leads equity gains, high yield credit tightens; USD falls HFRX MarketDirectional Index up +0.26% on 3/18
+HFRinc	712030123386658816	2016-03-21T21:36:24	EquityHedge funds gain Fri as Biotech leads equity gains, high yield credit tightens; HFRX EH: FundamentalValue Index up +0.25%
+HFRinc	712022785678127105	2016-03-21T21:07:15	"Why more hedge funds closed than opened in 2015" see KennethJHeinz interview on BNN here:  
+HFRinc	712011732793753601	2016-03-21T20:23:20	EventDriven HFs gain Fri as Biotech leads equity gains, high yield credit tightens; USD falls HFRX ED: SpecialSituations Index up +0.27%
+HFRinc	712011536504463361	2016-03-21T20:22:33	Macro HFs gain Fri as Biotech leads equity gains, high yield credit tightens; HFRX Macro: SystematicDiversified CTA Index up +0.16%
+HFRinc	712006642036899840	2016-03-21T20:03:06	Global hedgefunds gain Fri as Biotech leads equity gains, high yield credit tightens; USD falls; HFRX MultiRegion Index up +0.11%
+HFRinc	712006478672965632	2016-03-21T20:02:27	UCITS HFs gain Fri as Biotech leads equity gains, high yield credit tightens; USD falls; HFRU EquityHedge Index up +0.32% on 3/18
+HFRinc	711929539157360641	2016-03-21T14:56:43	Hedge funds gain Thurs as Equities extend gains led by Brazil; Gold surges, USD falls; HFRX Global HedgeFund Index up +0.12% on 3/17
+HFRinc	711928147390795776	2016-03-21T14:51:11	Hedge funds gain Thurs as Equities extend gains led by Brazil; Gold surges, USD falls; HFRX MarketDirectional Index up +0.81% on 3/17
+HFRinc	711926112620662786	2016-03-21T14:43:06	EquityHedge funds gain Thurs as Equities extend gains led by Brazil; Gold surges, USD falls; HFRX EH FundamentalGrowth Index up +0.37%
+HFRinc	711925905682092033	2016-03-21T14:42:17	EventDriven HFs gain Thurs as Equities extend gains led by Brazil; Gold surges HFRX ED: DistressedRestructuring Index up +0.48% on 3/17
+HFRinc	711924417471713280	2016-03-21T14:36:22	Catch HFR President KennethJHeinz on BNN today at 1:40 CT/2:40 ET discussing the current hedge fund industry! 
+HFRinc	711920237868789761	2016-03-21T14:19:46	Macro HFs gain Thurs as Equities extend gains led by Brazil; Gold surges; HFRX Macro: SystematicDiversified CTA Index up +1.17%
+HFRinc	711920049406087168	2016-03-21T14:19:01	N. American hedge funds gain Thurs as Equities extend gains led by Brazil; Gold surges, USD falls; HFRX NorthAmerica Index up +0.21%
+HFRinc	711916350717841410	2016-03-21T14:04:19	EnergyInfrastructure hedge funds gain Thurs as Equities extend gains led by Brazil; Gold surges, USD falls; HFRX MLP Index up +1.82%
+HFRinc	711916258292142081	2016-03-21T14:03:57	UCITS hedge funds gain Thurs as Equities extend gains led by Brazil; Gold surges, USD falls; HFRU EventDriven Index up +0.12% on 3/17
+HFRinc	710916200067248128	2016-03-18T19:50:04	HFRU Equity Hedge Index posts a gain of +1.19% through mid-March. Gains were led by Emerging Markets exposures. 
+HFRinc	710582995841716225	2016-03-17T21:46:02	Energy Infrastructure hedge funds gain Wed as Equities, Oil surge on Fed outlook; US$ falls; HFRX MLP Index up +3.13% on 3/16
+HFRinc	710582942347571200	2016-03-17T21:45:50	EM hedge funds gain Wed as Equities, Oil surge on Fed outlook; US$ falls; HFRX EmergingMarkets Composite Index up +0.66% on 3/16
+HFRinc	710581088091897856	2016-03-17T21:38:28	N. American hedge funds gain Wed as Equities, Oil surge on Fed outlook; US$ falls; HFRX NorthAmerica Index up +0.19% on 3/16
+HFRinc	710581045297418240	2016-03-17T21:38:17	Macro hedge funds gain Wed as Equities, Oil surge on Fed outlook; US$ falls; HFRX Macro CTA Index up +0.16% on 3/16
+HFRinc	710576389603221504	2016-03-17T21:19:47	EventDriven hedge funds gain Wed as Equities, Oil surge on Fed outlook; US$ falls; HFRX ED: SpecialSituations Index up +0.31% on 3/16
+HFRinc	710576094408081408	2016-03-17T21:18:37	EquityHedge funds gain Wed as Equities, Oil surge on Fed outlook; US$ falls; HFRX EH: FundamentalValue Index up +0.43% on 3/16
+HFRinc	710573789558345728	2016-03-17T21:09:27	Hedge funds gain Wed as Equities, Oil surge on Fed outlook; US$ falls; HFRX MarketDirectional Index up +1.30% 
+HFRinc	710573576693256193	2016-03-17T21:08:37	Hedge funds gain Wed as Equities, Oil surge on Fed outlook; US$ falls; HFRX Global HedgeFund Index up +0.21% on 3/16
+HFRinc	710558941051105280	2016-03-17T20:10:27	Avg incentive fee for 2015 launches increased to 17.75%, an increase of 40 bps over funds launched in 2014
+HFRinc	710558920842973184	2016-03-17T20:10:22	For vintage of funds launched in 2015, avg mgmt fee was 1.6%, an increase of 3 bps over vintage of 2014 launches
+HFRinc	710553564767125504	2016-03-17T19:49:05	Avg incentive fees ended 2015 at 17.7%, unchanged from prior quarter, down slightly from YE 2014
+HFRinc	710553517488877568	2016-03-17T19:48:54	Avg mgmt fees ended 4Q15 at 1.50%, down -1 basis point (bps) over both the prior quarter and YE 2014 level of 1.51%
+HFRinc	710503170795962368	2016-03-17T16:28:51	Industry-wide avg mgmt &amp; incentive fees declined in 2015, though fees for newly launched funds increased for the year
+HFRinc	710500716637360128	2016-03-17T16:19:05	FY2015 top HFRI decile gained +20.3%, while bottom decile fell an avg -25.1% (dispersion of 45.4%) representing a narrow decline from 2014
+HFRinc	710500649213960192	2016-03-17T16:18:49	Top decile of HFRI performance gained an average of +10.7% in 4Q15, while bottom decile declined -9.4%
+HFRinc	710490314616741888	2016-03-17T15:37:45	Global HF capital rose to $2.90T in 4Q15, an increase of $22.8B over prior quarter; investor net capital outflow reached $1.52B
+HFRinc	710490028623982593	2016-03-17T15:36:37	For FY 2015, new launches declined to 968 from 1,040 in prior year, the lowest calendar year total since 935 funds launched in 2010
+HFRinc	710482789636788225	2016-03-17T15:07:51	New hedge fund launches declined to conclude 2015, falling from 269 in 3Q to 183 in 4Q, lowest quarterly total since 2009
+HFRinc	710482742983561216	2016-03-17T15:07:40	For FY15 ~979 hedge funds liquidated, an increase from 864 liquidations in 2014, &amp; highest total since 2009
+HFRinc	710480516076609536	2016-03-17T14:58:49	In 4Q15, hedge fund liquidations rose to 305, an increase from 257 liquidations in 3Q, as well as the 203 liquidations from 4Q14
+HFRinc	710480453807964160	2016-03-17T14:58:34	HFR releases 4Q MarketMicrostructure Report! 
+HFRinc	710220538417778688	2016-03-16T21:45:46	EquityHedge funds gain Tues as Oil falls; small cap, biotech equities lead declines; HFRX EH: EquityMarketNeutral Index up +0.21% on 3/15
+HFRinc	709859107960807424	2016-03-15T21:49:34	UCITS hedge funds gain Mon as US$, high yield credit gains; Oil falls, reversing recent gains; HFRU EquityHedge Index up +0.21% on 3/14
+HFRinc	709859061882204160	2016-03-15T21:49:23	EnergyInfrastructure hedge funds gain Mon as US$, high yield credit gains; Oil falls, reversing recent gains; HFRX MLP Index up +0.39%
+HFRinc	709852187598331904	2016-03-15T21:22:04	Global hedge funds gain Mon as US$, high yield credit gains; Oil falls, reversing recent gains; HFRX MultiRegion Index up +0.19% on 3/14
+HFRinc	709852137140785152	2016-03-15T21:21:52	RelativeValue HFss gain Mon as US$, high yield credit gains; Oil falls; HFRX RV: FI ConvertibleArbitrage Index up +0.13% on 3/14
+HFRinc	709847438220066817	2016-03-15T21:03:12	Macro HFs gain Mon as US$, high yield credit gains; Oil falls; HFRX Macro: SystematicDiversified CTA Index up +0.19%
+HFRinc	709847287078387712	2016-03-15T21:02:36	EventDriven HFs gain Mon as US$, high yield credit gains; Oil falls; HFRX ED: DistressedRestructuring Index up +0.17%
+HFRinc	709842776955822080	2016-03-15T20:44:40	Equity Hedge funds gain Mon as US$, high yield credit gains; Oil falls, reversing recent gains; HFRX EH: FundamentalGrowth Index up +0.11%
+HFRinc	709842728083787778	2016-03-15T20:44:29	Hedge funds gain Mon as US$, high yield credit gains; Oil falls, reversing recent gains; HFRX MarketDirectional Index up +0.20% on 3/14
+HFRinc	709777863021563904	2016-03-15T16:26:44	Risk-seeking investors like hedge funds are among those to have smelled opportunity in a potential oil comeback. 
+HFRinc	709828475830476801	2016-03-15T19:47:51	HFRX RV: Volatility Index up 3.34% and HFRX EH: ShortBias Index up 9.9% thru Feb.
+HFRinc	709495373450989568	2016-03-14T21:44:13	Global hedge funds gain Fri as equities, gold surge; USD falls; HFRX MultiRegion Index up +0.41% on 3/11
+HFRinc	709494089129918464	2016-03-14T21:39:07	RelativeValue hedge funds gain Fri as equities, gold surge; USD falls; HFRX RV: MultiStrategy Index up +0.18% 
+HFRinc	709493854102097921	2016-03-14T21:38:11	Macro hedge funds gain Fri as equities, gold surge; USD falls; HFRX Macro: SystematicDiversified CTA Index up +0.32% on 3/11
+HFRinc	709489603397312513	2016-03-14T21:21:17	EventDriven hedge funds gain Fri as equities, gold surge; USD falls; HFRX ED: SpecialSituations Index up +0.68% on 3/11
+HFRinc	709489516285825025	2016-03-14T21:20:57	Equity Hedge funds gain Fri as equities, gold surge; USD falls; HFRX EquityHedge Index up +0.71% on 3/11
+HFRinc	709487248656338944	2016-03-14T21:11:56	Hedge funds gain Fri as equities, gold surge; USD falls; HFRX MarketDirectional Index up +0.51% on 3/11
+HFRinc	709487174803017730	2016-03-14T21:11:38	Hedge funds gain Fri as equities, gold surge; USD falls; HFRX Global HedgeFund Index up +0.43% on 3/11 
+HFRinc	709409429012094977	2016-03-14T16:02:42	UCITS hedge funds gain Thurs as US$ falls; Gold, US treasury yields rise; HFRU RelativeValueArbitrage Index up +0.09% on 3/10
+HFRinc	709409369507495936	2016-03-14T16:02:28	EM hedge funds gain Thurs as US$ falls; Gold, US treasury yields rise; HFRX EmergingMarkets Composite Index up +0.51% on 3/10
+HFRinc	709403779083276288	2016-03-14T15:40:15	EventDriven hedge funds gain Thurs as US$ falls; Gold, US treasury yields rise; HFRX ED: DistressedRestructuring Index up +0.13% on 3/10
+HFRinc	709397581634232321	2016-03-14T15:15:38	EquityHedge funds gain Thurs as US$ falls; Gold, US treasury yields rise; HFRX EH: FundamentalGrowth Index up +0.27% on 3/10
+HFRinc	709397507831300096	2016-03-14T15:15:20	Hedge funds gain Thurs as US$ falls; Gold, US treasury yields rise; HFRX AbsoluteReturn Index up +0.11% on 3/10 
+HFRinc	708065199404617728	2016-03-10T23:01:13	EventDriven hedge funds gain Wed as oil surges nearly 5%, equities gain led by Energy, HFRX ED: SpecialSituations Index up +0.82% on 3/9
+HFRinc	708065129766658048	2016-03-10T23:00:56	Equity Hedge funds gain Wed as oil surges nearly 5%, equities gain led by Energy, w/ HFRX EH: FundamentalGrowth Index up +0.66% on 3/9
+HFRinc	708065082442252288	2016-03-10T23:00:45	Hedge funds gain Wed as oil surges nearly 5%, equities gain led by Energy, HFRX MarketDirectional Index up +0.54% 
+HFRinc	708064960480354304	2016-03-10T23:00:16	Hedge funds gain Wed as oil surges nearly 5%, equities gain led by Energy, w/ HFRX Global HedgeFund Index up +0.26% on 3/9
+HFRinc	707952191756046336	2016-03-10T15:32:10	"Hedge Fund Managers Spot an Opportunity Amid Market Volatility" see HFR sourced here: 
+HFRinc	707701444271480832	2016-03-09T22:55:47	UCITS hedge funds gain Tues as volatility surges on steep energy &amp; equity losses; HFRU Macro Index up +0.06% 
+HFRinc	707701322531807232	2016-03-09T22:55:18	EquityHedge funds gain Tues as volatility surges on steep energy &amp; equity losses; HFRX EH: EquityMarketNeutral Index up +0.04% on 3/8
+HFRinc	707701248288370688	2016-03-09T22:55:00	RelativeValue hedge funds gain Tues as volatility surges on steep energy &amp; equity losses; HFRX RV: FIConvertibleArbitrage Index up +0.64%
+HFRinc	707701168139468800	2016-03-09T22:54:41	EventDriven hedge funds gain Tues as volatility surges on steep energy &amp; equity losses; HFRX ED: DistressedRestructuring Index up +0.08%
+HFRinc	707366506494074882	2016-03-09T00:44:52	Hedge funds and the “size effect” between larger and smaller funds: new evidence to consider  HFRinc HedgeFunds
+HFRinc	707339360874536961	2016-03-08T22:57:00	ED hedge funds gain Mon as Oil surges, extending recent gains; high yield credit tightens, HFRX DistressedRestructuring Index up +0.24%
+HFRinc	707321410260107264	2016-03-08T21:45:40	Equity Hedge funds gain Mon as Oil surges, extending recent gains; high yield credit tightens, HFRX EH: FundamentalValue Index up +0.14%
+HFRinc	707321331008712704	2016-03-08T21:45:21	Hedge funds gain Mon as Oil surges, extending recent gains; high yield credit tightens, HFRX MarketDirectional Index up +0.65% on 3/7
+HFRinc	707314317499064321	2016-03-08T21:17:29	Happy International Women's Day! InternationalWomensDay 
+HFRinc	707247551431385088	2016-03-08T16:52:10	HFR sourced here! 
+HFRinc	707244320886267904	2016-03-08T16:39:20	"Hedge funds score tiny gains in February: HFR data" see HFR sourced in reuters article:  
+HFRinc	706976371390570496	2016-03-07T22:54:36	UCITS hedge funds gain Fri as Oil, Metals surge; US$ falls, yields rise, w/ HFRU EquityHedge Index up +0.20% on 3/4/16
+HFRinc	706976307922358272	2016-03-07T22:54:21	FixedIncome hedge funds gain Fri as Oil, Metals surge; US$ falls, yields rise, w/ HFRX Fixed Income Credit Index up +0.31% on 3/4/16
+HFRinc	706976234274578432	2016-03-07T22:54:03	EM hedge funds gain Fri as Oil, Metals surge; US$ falls, yields rise, w/ HFRX EmergingMarkets Composite Index up +0.45% on 3/4/16
+HFRinc	706976190028886018	2016-03-07T22:53:53	N. America hedge funds gain Fri as Oil, Metals surge; US$ falls, yields rise, w/ HFRX NorthAmerica Index up +0.20% on 3/4/16
+HFRinc	706976141714673664	2016-03-07T22:53:41	EventDriven hedge funds gain Fri as Oil, Metals surge; US$ falls, yields rise, w/ HFRX ED: DistressedRestructuring Index up +0.63% on 3/4
+HFRinc	706976086190501888	2016-03-07T22:53:28	EquityHedge funds gain Fri as Oil, Metals surge; US$ falls, yields rise, w/ HFRX EH: FundamentalValue Index up +0.34% on 3/4/16
+HFRinc	706976017701691396	2016-03-07T22:53:12	Hedge funds gain Fri as Oil, Metals surge; US$ falls, yields rise, HFRX MarketDirectional Index up +0.32% on 3/4 
+HFRinc	706974346032513024	2016-03-07T22:46:33	Hedge funds gain Fri as Oil, Metals surge; US$ falls, yields rise, w/ HFRX Global HedgeFund Index up +0.18% on 3/4/16
+HFRinc	706974252105388032	2016-03-07T22:46:11	HFRI ED: Activist Index declined -1.3% for Feb, while HFRI EH: Technology Healthcare Index fell -1.8%, extending the YTD loss to -8.5%
+HFRinc	706974149999091712	2016-03-07T22:45:46	HFRI EH: Energy BasicMaterials Index advanced +2.3% in Feb, while HFRI ED: MergerArbitrage Index added +0.6% 
+HFRinc	706969146479611904	2016-03-07T22:25:54	EquityHedge sub-strategy performance led by short selling funds in Feb, with HFRI EH: ShortBias Index gaining +5.4%
+HFRinc	706969080591360000	2016-03-07T22:25:38	HFRI EquityHedge Index fell -0.15% in February, while HFRI EventDriven Index declined -0.3%
+HFRinc	706966518957887488	2016-03-07T22:15:27	Join us for a complimentary HFR Webinar tomorrow @ 10am CT for a February HF perf. review!  
+HFRinc	706962245972955136	2016-03-07T21:58:28	HFRI RV: AssetBacked Index fell -1.2% in February, dropping YTD performance to -2.5%
+HFRinc	706962192902414337	2016-03-07T21:58:16	HFRI RV: Sovereign Index added +0.3% in Feb, as Argentina gov negotiated a settlement w/ bondholders, including several large hedge funds
+HFRinc	706955154101182466	2016-03-07T21:30:17	HFRI RV: Volatility Index gained +1.1% in Feb, reversing a decline from January
+HFRinc	706955102792372224	2016-03-07T21:30:05	HFRI RelativeValue Index down -0.01% for Feb, w/ gains in Volatility &amp; Sovereign sub-strats offset by declines in Asset Backed exposures
+HFRinc	706946785856479232	2016-03-07T20:57:02	HFRI EmergingMarkets Index gained +0.3% for February, only 2nd monthly gain in the trailing 10 months
+HFRinc	706946719347449856	2016-03-07T20:56:46	HFRI Currency Index advanced +1.4% in February 
+HFRinc	706942019017396224	2016-03-07T20:38:06	Other Macro sub-strategies also gained in Feb, with HFRI ActiveTrading &amp; Multi-Strategy Indices gaining +2.8 and +1.4%, respectively
+HFRinc	706941931092180992	2016-03-07T20:37:45	HFRI Macro: SystematicDiversified Index added +3.0% in Feb, bringing YTD performance to +5.6%, as oil reversed steep losses
+HFRinc	706933263063879680	2016-03-07T20:03:18	February performance led by Macro strategies, with HFRI Macro Index up +1.9%, bringing YTD performance to +3.1%
+HFRinc	706933191580327936	2016-03-07T20:03:01	HFRI AssetWeighted Composite Index declined -0.9% for Feb, bringing YTD performance to a decline of -2.6%
+HFRinc	706927808333762560	2016-03-07T19:41:38	Feb represents strongest FWC gain since Oct ‘15 &amp; brings YTD performance to -2.0%, leading equity benchmarks across US, Europe, Asia &amp; EMs
+HFRinc	706927689140015104	2016-03-07T19:41:09	HFRI FundWeightedComposite Index up +0.5% for February, bringing the FWC to an Index Value of 12040.78 
+HFRinc	706923810813915136	2016-03-07T19:25:45	Equity long/short hedge funds gained Thurs as equities extended gains, HFRU RelativeValueArbitrage Index up +0.07% on 3/3
+HFRinc	706917475921715200	2016-03-07T19:00:34	Equity long/short hedge funds gained Thurs as equities extended gains, HFRX MLP Index up +1.90% on 3/3
+HFRinc	706917387010846720	2016-03-07T19:00:13	Equity long/short hedge funds gained Thurs as equities extended gains, HFRX NorthAmerica Index up +0.21% on 3/3 
+HFRinc	706917294434201600	2016-03-07T18:59:51	Equity long/short hedge funds gained Thurs as equities extended gains, HFRX RV: FI-ConvertibleArbitrage Index up +0.14% on 3/3
+HFRinc	706886180063748096	2016-03-07T16:56:13	Equity long/short hedge funds gained Thurs as equities extended gains, HFRX ED: SpecialSituations Index up +0.34% on 3/3
+HFRinc	706886133280473088	2016-03-07T16:56:02	Equity long/short hedge funds gained Thurs as equities extended gains, HFRX EH: FundamentalValue Index up +0.30% on 3/3
+HFRinc	706876180910055424	2016-03-07T16:16:29	Equity long/short hedge funds gained Thurs as equities extended gains, HFRX MarketDirectional Index up +0.92% on 3/3
+HFRinc	706876139466137600	2016-03-07T16:16:19	Equity long/short hedge funds gained Thurs as equities extended gains, HFRX Global Hedge Fund Index up +0.11% 
+HFRinc	705527360657846272	2016-03-03T22:56:45	EnergyInfrastructure hedge funds gain Wed as equities extend Tues gains, high yield credit gains; US$ falls, HFRX MLP Index up +1.95%
+HFRinc	705527224825348096	2016-03-03T22:56:13	EM hedge funds gain Wed as equities extend Tues gains, high yield credit gains; US$ falls, HFRX EmergingMarkets Composite Index up +0.45%
+HFRinc	705527171561840640	2016-03-03T22:56:00	EventDriven HFs gain Wed as equities extend Tues gains, US$ falls, HFRX ED: DistressedRestructuring Index up +0.46%
+HFRinc	705526916141465600	2016-03-03T22:54:59	Equity Hedge funds gain Wed as equities extend Tues gains, high yield credit gains; US$ falls, HFRX EH: FundamentalGrowth Index up +0.78%
+HFRinc	705526841033957377	2016-03-03T22:54:41	Hedge funds gain Wed as equities extend Tues gains, high yield credit gains; US$ falls,  HFRX MarketDirectional Index up +0.94% on 3/2
+HFRinc	705526795290832896	2016-03-03T22:54:30	Hedge funds gain Wed as equities extend Tues gains, high yield credit gains; US$ falls,  HFRX GlobalHedgeFund Index up +0.12% on 3/2
+HFRinc	705321653920735233	2016-03-03T09:19:21	Hedge funds turn bullish on oil despite glut  via WSJ
+HFRinc	705426733474840576	2016-03-03T16:16:54	Global hedge funds gain Tues as global equities surge to begin March led by Biotech, Financials, HFRX MultiRegion Index up +0.33% on 3/1
+HFRinc	705426668521984000	2016-03-03T16:16:38	EM HFs gain Tues as global equities surge to begin March led by Biotech, Financials, w/ HFRX EmergingMarkets Composite Index up +0.76%
+HFRinc	705422385449537536	2016-03-03T15:59:37	N. American HFs gain Tues as global equities surge to begin March led by Biotech, Financials, HFRX NorthAmerica Index up +0.21% on 3/1
+HFRinc	705422282986917888	2016-03-03T15:59:13	Macro hedge funds gain Tues as global equities surge to begin March led by Biotech, Financials, w/ HFRX MacroCTA Index up +0.14% on 3/1
+HFRinc	705418637390155776	2016-03-03T15:44:43	Event Driven HFs gain Tues as global equities surge to begin March led by Biotech, Financials, HFRX ED: SpecialSituations Index up +0.53%
+HFRinc	705418519433752576	2016-03-03T15:44:15	Equity Hedge funds gain Tues as global equities surge to begin March led by Biotech, Financials, HFRX EH: FundamentalValue Index up +1.12%
+HFRinc	705409306527559680	2016-03-03T15:07:39	Hedge funds gain Tues as global equities surge to begin March led by Biotech, Financials, HFRX MarketDirectional Index up +0.39% on 3/1
+HFRinc	705409229968936960	2016-03-03T15:07:20	Hedge funds gain Tues as global equities surge to begin March led by Biotech, Financials, w/ HFRX GlobalHedgeFund Index up +0.37% on 3/1
+HFRinc	705153176870080513	2016-03-02T22:09:53	HFRU RelativeValueArbitrage down -0.34% for Feb as high yield tightened into month-end &amp; positions benefited from high realized volatility
+HFRinc	705153044753682432	2016-03-02T22:09:21	HFRU EventDriven Index down -0.26% for Feb with declines in Global Special Situations equity and Distressed/Restructuring strategies
+HFRinc	705149832399196160	2016-03-02T21:56:35	UCITS HFRU Macro Index up +1.21% for Feb, its strongest perf. for past year, w/ significant contributions from CTAs &amp; Currency managers
+HFRinc	705149696491163649	2016-03-02T21:56:03	UCITS compliant hedge funds posted mixed performance in February w/ HFRU HedgeFundComposite Index down -0.12% 
+HFRinc	705144830087659520	2016-03-02T21:36:43	HFRX EquityHedge Index down -1.12% for Feb as equity markets pared intra-month losses in Feb w/ volatility in Financials, Tech &amp; Biotech
+HFRinc	705144592660721665	2016-03-02T21:35:46	HFRX MultiStrategy Index declined -0.39% for Feb, with declines concentrated in Mortgage &amp; Non-cyclical sectors 
+HFRinc	705138235983286272	2016-03-02T21:10:30	HFRX ConvertibleArbitrage Index up +0.50% in Feb, as high yield tightened &amp; positions benefited from high realized volatility
+HFRinc	705137918109593600	2016-03-02T21:09:15	HFRX MergerArbitrage Index basically unchanged for month of Feb with core exposures to Meiji Yasuda/StanCorp &amp;  AXIS Capital/PartnerRe
+HFRinc	705127439110766592	2016-03-02T20:27:36	HFRX SpecialSituations Index gained +0.83% from positioning in Baxalta, Time Warner, Alibaba, Yahoo, Valenat and Akorn
+HFRinc	705127388825329664	2016-03-02T20:27:24	HFRX EventDriven Index posted a gain of +0.06% for Feb, as high yield credit recovered into month end and deal spreads tightened
+HFRinc	705102218328846336	2016-03-02T18:47:23	HFRX MacroCTA Index up +0.30% for Feb, with significant contributions from CTAs managers 
+HFRinc	705102118898704384	2016-03-02T18:46:59	HFRX GlobalHedgeFund Index posted a decline of -0.32% for February
+HFRinc	705091373435744256	2016-03-02T18:04:18	HFRX Macro SystematicDiversifiedCTA Index up +2.75% in February &amp; HFRX Macro Index also up, with a +0.30% gain
+HFRinc	705081868635353088	2016-03-02T17:26:31	UCITS hedge funds gain MON as equities decline; Oil posts sharp gain, positive for Feb, w/ HFRU Macro Index up +0.19% on 2/29
+HFRinc	705078929632047104	2016-03-02T17:14:51	EnergyInfrastructure hedge funds gain MON as equities decline; Oil posts sharp gain, positive for Feb, HFRX MLP Index up +1.62% on 2/29
+HFRinc	705078831967645696	2016-03-02T17:14:27	EM hedge funds gain MON as equities decline; Oil posts sharp gain, HFRX EmergingMarketsComposite Index up +0.46% 
+HFRinc	705071370976104448	2016-03-02T16:44:49	N. American hedge funds gain MON as equities decline; Oil posts sharp gain, positive for Feb, HFRX NorthAmerica Index up +0.31% on 2/29
+HFRinc	705071228302667776	2016-03-02T16:44:15	Relative Value HFs gain MON as equities decline; Oil posts sharp gain, positive for Feb, HFRX RV: FIConvertibleArbitrage Index up +0.16%
+HFRinc	705061440328044544	2016-03-02T16:05:21	Macro HFs gain MON as equities decline; Oil posts sharp gain, (+) for Feb, HFRX Macro: SystematicDiversifiedCTA Index up +0.23% on 2/29
+HFRinc	705061261516537857	2016-03-02T16:04:38	Event Driven HFs gain MON as equities decline; Oil posts sharp gain, positive for Feb, HFRX ED: DistressedRestructuring Index up +0.42%
+HFRinc	705056957082697728	2016-03-02T15:47:32	Equity Hedge funds gain MON as equities decline; Oil posts sharp gain, positive for Feb HFRX EH: FundamentalValue Index up +0.11% on 2/29
+HFRinc	705056847699451905	2016-03-02T15:47:06	HFs gain MON as equities decline; Oil posts sharp gain, positive for Feb, HFRX MarketDirectional Index up +0.43% 
+HFRinc	704440086809608192	2016-02-29T22:56:19	UCITS hedge funds gain FRI as USD gains &amp; treasury yields rise; equities mixed, w/ HFRU EquityHedge Index up +0.27% on 2/26
+HFRinc	704440024708681728	2016-02-29T22:56:04	EnergyInfrastructure hedge funds gain FRI as USD gains &amp; treasury yields rise; equities mixed, w/ HFRX MLP Index up +0.91% on 2/26
+HFRinc	704439914180399104	2016-02-29T22:55:38	N. American hedge funds gain FRI as USD gains &amp; treasury yields rise; equities mixed, w/ HFRX NorthAmerica Index up +0.35% on 2/26
+HFRinc	704431663950880768	2016-02-29T22:22:51	Relative Value HFs gain FRI as USD gains &amp; treasury yields rise; equities mixed, HFRX RV: FIConvertibleArbitrage Index up +0.30% on 2/26
+HFRinc	704431578722635776	2016-02-29T22:22:30	Event Driven HFs gain FRI as USD gains &amp; treasury yields rise; equities mixed, HFRX ED: DistressedRestructuring Index up +0.48% on 2/26
+HFRinc	704428524250095618	2016-02-29T22:10:22	Equity Hedge funds gain FRI as USD gains &amp; treasury yields rise; equities mixed, w/ HFRX EH: FundamentalValue Index up +0.55% on 2/26
+HFRinc	704428471506771968	2016-02-29T22:10:09	Hedge funds gain FRI as USD gains &amp; treasury yields rise; equities mixed, w/ HFRX MarketDirectional Index up +0.38% on 2/26
+HFRinc	703340888290754560	2016-02-26T22:08:29	N. American HFs gain Thurs as Euro equity gains offset Chinese slump; Oil extends gains, w/ HFRX NorthAmerica Index up +0.19% on 2/25
+HFRinc	703340797433745408	2016-02-26T22:08:08	Relative Value hedge funds gain Thurs as Euro equity gains offset Chinese slump; Oil extends gains, HFRX RV: MultiStrategy Index up +0.17%
+HFRinc	703340736696049664	2016-02-26T22:07:53	Macro HFs gain Thurs as Euro equity gains offset Chinese slump; Oil extends gains, HFRX Macro: SystematicDiversifiedCTA Index up +0.13%
+HFRinc	703332806563274752	2016-02-26T21:36:23	Event Driven HFs gain Thurs as Euro equity gains offset Chinese slump; Oil extends gains, w/ HFRX ED: SpecialSituations Index up +0.89%
+HFRinc	703332699365224449	2016-02-26T21:35:57	Equity Hedge funds gain Thurs as Euro equity gains offset Chinese slump; Oil extends gains, w/ HFRX EH: FundamentalValue Index up +0.55%
+HFRinc	703327640929742848	2016-02-26T21:15:51	HFs gain Thurs as Euro equity gains offset Chinese slump; Oil extends gains HFRX MarketDirectional Index up +0.38% 
+HFRinc	703321933199183872	2016-02-26T20:53:10	Hedge funds gain Thurs as Euro equity gains offset Chinese slump; Oil extends gains, w/ HFRX GlobalHedgeFund Index up +0.33% on 2/25
+HFRinc	702329970211868672	2016-02-24T03:11:28	New fund designed for negative rates 
+HFRinc	703060753394376704	2016-02-26T03:35:20	HFR: Emerging Market Hedge Funds Slammed in January; Performance, Assets Decline 
+HFRinc	703241743399931904	2016-02-26T15:34:31	check out HFR data in this HedgeWeek article! 
+HFRinc	702406189741707265	2016-02-24T08:14:20	Emmanuel “Manny” Roman, the man from Man, warns on Brexit. 
+HFRinc	703155024809955329	2016-02-26T09:49:56	European hedge funds are doing better than their U.S. rivals  via WSJ
+HFRinc	702987023053824000	2016-02-25T22:42:21	UCITS hedge funds gain Wed as Oil, Gold surge; equities mixed as Euro losses offset USD gains, w/ HFRU Macro Index up +0.11% on 2/24
+HFRinc	702984482060500992	2016-02-25T22:32:16	Energy Infrastructure HFs gain Wed as Oil, Gold surge; equities mixed as Euro losses offset USD gains, w/ HFRX MLP Index up +1.57%
+HFRinc	702984351907078144	2016-02-25T22:31:44	EM hedge funds gain Wed as Oil, Gold surge; equities mixed as Euro losses offset USD gains, HFRX EmergingMarketsComposite Index up +0.18%
+HFRinc	702974115859181568	2016-02-25T21:51:04	MacroHFs gain Wed as Oil, Gold surge; equities mixed as Euro losses offset USD gains, HFRX Macro SystematicDiversifiedCTA Index up +0.45%
+HFRinc	702973837898416128	2016-02-25T21:49:58	Event Driven HFs gain Wed as Oil, Gold surge; equities mixed, Euro losses offset USD gains, HFRX ED: SpecialSituations Index up +0.29%
+HFRinc	702968405410729984	2016-02-25T21:28:23	EquityHedge funds gain Wed as Oil, Gold surge as Euro losses offset USD gains, w/ HFRX EH: EquityMarketNeutral Index up +0.12%
+HFRinc	702968172471668736	2016-02-25T21:27:27	Hedge funds gain Wed as Oil, Gold surge; equities mixed as Euro losses offset USD gains, HFRX MarketDirectional Index up +0.57%
+HFRinc	702934358789718016	2016-02-25T19:13:05	HFRI EM: LatinAmerica Index posted smallest decline of major EM regions, falling -1.8% in January 
+HFRinc	702934147145158656	2016-02-25T19:12:15	Total capital invested in Russian-focused hedge funds fell to $26.4B as of January-end
+HFRinc	702927141076226048	2016-02-25T18:44:24	HFRI EM: RussiaEasternEurope Index declined -1.9% for January, after gaining +5.5% in 2015
+HFRinc	702927059635429376	2016-02-25T18:44:05	Total investor capital invested in MiddleEast focused hedge funds fell to $3.8 billion in January 
+HFRinc	702915930334998528	2016-02-25T17:59:51	HFs investing in the Middle East also experienced steep losses, w/ HFRI MENA Index down -6.2% in Jan, following a decline of -6.7% in 2015
+HFRinc	702915850219589632	2016-02-25T17:59:32	HFRI EM: AsiaexJapan Index fell -8.5% in January, while the HFRI Japan Index declined -3.6% 
+HFRinc	702904213362192384	2016-02-25T17:13:18	Investors redeemed over $800M from Asian hedge funds in 4Q15, roughly the same amount withdrawn in 3Q AsianIndustryReport
+HFRinc	702904098807361536	2016-02-25T17:12:51	Total capital invested in Asian hedge funds fell $6.6B in January, after posting a narrow asset decline of $700M in FY 2015
+HFRinc	702900467446075392	2016-02-25T16:58:25	HFR sourced here: "Hedge Funds Winning in M&amp;A Arbitrage as Banks Cut Prop Desks" see link:  
+HFRinc	702894360904380416	2016-02-25T16:34:09	The ShanghaiComposite Index fell over -22.6% in January, following a FY gain of +9.4% in 2015
+HFRinc	702894296840601601	2016-02-25T16:33:54	HFRI EM: China Index gained +23.0% thru May ’15 before falling -19.0% from June –September 
+HFRinc	702888881931202560	2016-02-25T16:12:23	HFRI EM: China Index fell -10.0% in January, which followed three consecutive months of gains &amp; 2015 return of +6.0%
+HFRinc	702888807889108993	2016-02-25T16:12:05	Total EM hedge fund capital declined by $8.5B in January to $182B, erasing the FY 2015 asset increase of $7.5B 
+HFRinc	702884233254076416	2016-02-25T15:53:54	EM index declined –3.2% for full year 2015, according to latest HFR AsianIndustryReport &amp; EmergingMarketsIndustryReport
+HFRinc	702883725755838465	2016-02-25T15:51:53	HFRI EmergingMarkets Index fell -5.4% in January, following a +2.2% return in 4Q 2015 
+HFRinc	702876634999730176	2016-02-25T15:23:43	“4Q15 performance gains overshadowed by early ’16 losses” HFR releases AsianIndustryReport
+HFRinc	702876588979785728	2016-02-25T15:23:32	“Investors cautious on both strategic, structural risks as EM volatility spikes” HFR releases EmergingMarketsIndustryReport
+HFRinc	702876516028280833	2016-02-25T15:23:14	HFR Press Release: “EMERGING MARKETS HEDGE FUND ASSETS POST STEEP DECLINE IN JANUARY, REVERSING 2015 GAINS” 
+HFRinc	702628314280697856	2016-02-24T22:56:58	UCITS hedge funds gain Tues as oil posts declines on supply expansion; equities, GBP fall, w/ HFRU Macro Index up +0.06% on 2/23
+HFRinc	702628234798563329	2016-02-24T22:56:40	Macro HFs gain Tues as oil posts declines on supply expansion; equities, GBP fall, HFRX Macro: SystematicDiversifiedCTA Index up +0.02%
+HFRinc	702627179343949824	2016-02-24T22:52:28	Equity Hedge funds gain Tues as oil posts declines on supply expansion; equities, GBP fall, HFRX EH: EquityMarketNeutral Index up +0.22%
+HFRinc	702627071965573120	2016-02-24T22:52:02	HFs gain Tues as oil posts declines on supply expansion; equities, GBP fall, HFRX AbsoluteReturn Index up +0.08% 
+HFRinc	702262015444721666	2016-02-23T22:41:26	UCITS HFs gain Mon as GBP falls on Brexit concerns, w/ HFRU EquityHedge Index up +0.59% 
+HFRinc	702261717175128064	2016-02-23T22:40:15	EnergyInfrastructure hedge funds gain Mon as energy, global equities surge; GBP falls on Brexit concerns, w/ HFRX MLP Index up +3.72%
+HFRinc	702261624887857154	2016-02-23T22:39:53	Global hedge funds gain Mon as energy, global equities surge; GBP falls on Brexit concerns, w/ HFRX MultiRegion Index up +0.24% on 2/22
+HFRinc	702259001384304640	2016-02-23T22:29:27	N. American HFs gain Mon as energy, GBP falls on Brexit concerns, HFRX NorthAmerican Index up +0.16% 
+HFRinc	702258767853809664	2016-02-23T22:28:32	RV hedge funds gain Mon as energy, global equities surge; GBP falls on Brexit concerns, w/ HFRX RelativeValueArbitrage Index up +0.17%
+HFRinc	702255006460678146	2016-02-23T22:13:35	EventDriven HFs gain Mon as energy, global equities surge; GBP falls on Brexit concerns, w/ HFRX ED: SpecialSituations Index up +0.60%
+HFRinc	702254177632677888	2016-02-23T22:10:17	EquityHedge funds gain Mon as energy, global equities surge; GBP falls on Brexit concerns, w/ HFRX EH: FundamentalValue Index up +0.72%
+HFRinc	702246239656488960	2016-02-23T21:38:45	Hedgefunds gain Mon as energy, global equities surge; GBP falls on Brexit concerns, w/ HFRX MarketDirectional Index up +1.71% on 2/22
+HFRinc	702245896335953921	2016-02-23T21:37:23	HFs gain Mon as energy, global equities surge; GBP falls on Brexit concerns, HFRX GlobalHedgeFund Index up +0.26% 
+HFRinc	701898845152620544	2016-02-22T22:38:19	UCITS hedge funds gain Fri as energy falls, US$ gains against GBP; equities mixed, HFRU Macro Index up +0.12% 
+HFRinc	701898674729672704	2016-02-22T22:37:39	EM hedge funds gain Fri as energy falls, US$ gains against GBP; equities mixed, w/ HFRX EmergingMarketsComposite Index up +0.25% on 2/19
+HFRinc	701894531055095808	2016-02-22T22:21:11	Macro hedge funds gain Fri as energy falls, US$ gains against GBP; equities mixed, HFRX Macro: SystematicDiversifiedCTA Index up +0.56%
+HFRinc	701894433650794496	2016-02-22T22:20:48	Macro HFs gain Fri as energy falls, US$ gains against GBP; equities mixed, HFRX MacroCTA Index up +0.42% on 2/19 
+HFRinc	701891206519742465	2016-02-22T22:07:58	Equity Hedge funds gain Fri as energy falls, US$ gains against GBP; equities mixed, HFRX EH: EquityMarketNeutral Index up +0.08% on 2/19
+HFRinc	701891145656246273	2016-02-22T22:07:44	HFs gain Fri as energy falls, US$ gains against GBP; equities mixed, HFRX AbsoluteReturn Index up +0.03% on 2/19 
+HFRinc	700813347772497920	2016-02-19T22:44:57	UCITS HFs gain Thurs as equities decline after 4 days of gains; HFRU EquityHedge Index up +0.38% on 2/18 
+HFRinc	700813193971523584	2016-02-19T22:44:20	EnergyInfrastructure hedge funds gain Thurs as equities decline after 4 days of gains; bonds, gold gain, w/ HFRX MLP Index  up +1.62%
+HFRinc	700812876596924416	2016-02-19T22:43:04	Global hedge funds gain Thurs as equities decline after 4 days of gains; bonds, gold gain, w/ HFRX MultiRegion Index up +0.12% on 2/18
+HFRinc	700812492658704384	2016-02-19T22:41:33	Relative Value HFs gain Thurs as equities decline after 4 days of gains; bonds, gold gain, HFRX RV: FIConvertibleArbitrage Index up +0.34%
+HFRinc	700812398790217728	2016-02-19T22:41:10	Macro HFs gain Thurs as equities decline after 4 days of gains; bonds, gold gain, HFRX Macro: SystematicDiversifiedCTA Index up +0.47%
+HFRinc	700811794646851584	2016-02-19T22:38:46	ED hedge funds gain Thurs as equities decline after 4 days of gains; bonds, gold gain, w/ HFRX ED: SpecialSituations Index up +0.30%
+HFRinc	700811704599351296	2016-02-19T22:38:25	Equity Hedge funds gain Thurs as equities decline after 4 days of gains; bonds, gold gain, w/ HFRX EH: EquityMarketNeutral Index up +0.09%
+HFRinc	700811193322110976	2016-02-19T22:36:23	EH funds gain Thurs as equities decline after 4 days of gains; bonds, gold gain, w/ HFRX EH: EquityMarketNeutral Index up +0.09% on 2/18
+HFRinc	700811048555847681	2016-02-19T22:35:49	HFs gain Thurs as equities decline after 4 days of gains; bonds, gold gain, HFRX MarketDirectional Index up +0.67% 
+HFRinc	700809920938168320	2016-02-19T22:31:20	HFRU EquityHedge Index declined -1.53% thru mid-Feb, as global equity markets partially recovered from losses at beginning of month
+HFRinc	700809228487782400	2016-02-19T22:28:35	HFRU RelativeValueArbitrage Index down -0.91% thru mid-Feb, w/ losses concentrated in Global Convertible &amp; Credit strategies
+HFRinc	700809186704097281	2016-02-19T22:28:25	HFRU EventDriven Index declined -0.89% thru mid-Feb from contributions in Global Special Situations equity
+HFRinc	700808725674610690	2016-02-19T22:26:35	HFRU Macro Index gained +0.52 % thru mid-Feb, w/ contributions from CTAs &amp; Multi-Strategy managers
+HFRinc	700808683551260673	2016-02-19T22:26:25	UCITS compliant HFs posted mixed performance thru mid-Feb as HFRU HedgeFundComposite Index declined -0.86% 
+HFRinc	700807189468872706	2016-02-19T22:20:28	HFRX FundamentalValue Index declined –1.69% thru mid-Feb from exposure to large-cap Industrial, Financial &amp; Comm sectors
+HFRinc	700807135903354882	2016-02-19T22:20:16	HFRX MarketNeutral Index declined -2.08% thru mid-month from declines fundamental managers 
+HFRinc	700805226601672704	2016-02-19T22:12:41	HFRX EquityHedge Index down -2.00% thru mid-Feb as equity markets dropped w/ extreme volatility in Financials, Tech &amp; Biotech sectors
+HFRinc	700805191721836544	2016-02-19T22:12:32	HFRX SpecialSituations Index declined -1.44% thru mid-Feb from positioning in Baxalta, Time Warner, Yahoo &amp; Akorn 
+HFRinc	700803521080233988	2016-02-19T22:05:54	HFRX MergerArbitrage Index declined -0.48% thru mid-month, w/ core exposures to Meiji Yasuda/StanCorp &amp; AXIS Capital/PartnerRe
+HFRinc	700803474397605888	2016-02-19T22:05:43	HFRX EventDriven Index declined -1.65% thru mid-Feb, as credit spreads widened 
+HFRinc	700800771923644416	2016-02-19T21:54:58	HFRX MultiStrategy Index down -0.57% thru mid-month, with declines concentrated in Mortgage, Financial &amp; Tech sectors
+HFRinc	700800695868370945	2016-02-19T21:54:40	HFRX ConvertibleArbitrage Index up +0.30% thru mid-Feb as gains in Industrial sectors were partially offset by declines in credit positions
+HFRinc	700800273158000640	2016-02-19T21:53:00	check out the mention of HFR data in WSJ article below: 
+HFRinc	700623397773045760	2016-02-19T10:10:09	Hedgefunds: Not dead, just resting - “It’s a performance industry"  via TheEconomist 
+HFRinc	700795752562323456	2016-02-19T21:35:02	HFRX RelativeValueArbitrage Index declined -0.55% thru mid-Feb, as high yield credit and arbitrage deal spreads widened
+HFRinc	700795712351531008	2016-02-19T21:34:52	HFRX Macro SystematicDiversifiedCTA Index gained +2.15% thru mid-month as interest rates declined &amp; USD fell 
+HFRinc	700790147193794560	2016-02-19T21:12:45	HFRX MacroCTA Index up +0.07% thru mid-Feb, w/ contributions from CTA managers partially offset by Discretionary FI strategies
+HFRinc	700790098254655488	2016-02-19T21:12:34	Broad-based HFRX AbsoluteReturn Index down -0.7% thru mid-Feb, while HFRX GlobalHedgeFund Index declined -1.11% 
+HFRinc	700785970136748032	2016-02-19T20:56:09	HFRX Macro Index gained +0.07% thru mid-month February 
+HFRinc	700785925010272258	2016-02-19T20:55:59	Macro &amp; CTA gains offset losses in directional strategies w/ HFRX Macro SystematicDiversified CTA Index gaining +2.15% thru mid-Feb
+HFRinc	700699975194320899	2016-02-19T15:14:27	UCITS hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRU RelativeValueArbitrage Index up +0.34% on 2/17
+HFRinc	700699923214241792	2016-02-19T15:14:14	UCITS hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRU EventDriven Index up +0.23% on 2/17
+HFRinc	700699867815944192	2016-02-19T15:14:01	UCITS hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRU EquityHedge Index up +0.63% on 2/17
+HFRinc	700699790338707457	2016-02-19T15:13:43	UCITS hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRU HedgeFundComposite Index up +0.37% on 2/17
+HFRinc	700699702967140353	2016-02-19T15:13:22	EnergyInfrastructure hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX MLP Index up +3.29% on 2/17
+HFRinc	700699646809649155	2016-02-19T15:13:08	Fixed Income hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX FixedIncomeCredit Index up +0.24% on 2/17
+HFRinc	700699580942266368	2016-02-19T15:12:53	Global hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX MultiRegion Index up +0.29% on 2/17
+HFRinc	700699478324449282	2016-02-19T15:12:28	EM hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX EmergingMarketsComposite Index up +0.12% on 2/17
+HFRinc	700699398330691586	2016-02-19T15:12:09	N. American hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX NorthAmerica Index up +0.39% on 2/17
+HFRinc	700699336762482688	2016-02-19T15:11:54	Relative Value HFs gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX RV: FIConvertibleArbitrage Index up +0.37%
+HFRinc	700699266772172801	2016-02-19T15:11:38	Relative Value hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX RelativeValueArbitrage Index up +0.11%
+HFRinc	700699208660025345	2016-02-19T15:11:24	EventDriven hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX ED: SpecialSituations Index up +0.56%
+HFRinc	700699148513771520	2016-02-19T15:11:10	EventDriven hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, HFRX ED: DistressedRestructuring Index up +0.12%
+HFRinc	700699016573530112	2016-02-19T15:10:38	ED hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX EventDriven Index up +0.43% 
+HFRinc	700698839825539073	2016-02-19T15:09:56	Equity Hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX EH: FundamentalValue Index up +1.05% on 2/17
+HFRinc	700698796158640130	2016-02-19T15:09:46	Equity Hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX EH: FundamentalGrowth Index up +0.33% on 2/17
+HFRinc	700698749476040704	2016-02-19T15:09:34	Equity Hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX EquityHedge Index up +0.79% on 2/17
+HFRinc	700698661072711680	2016-02-19T15:09:13	Hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX MarketDirectional Index up +1.51% on 2/17
+HFRinc	700698546710798336	2016-02-19T15:08:46	Hedge funds gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX EqualWeightedStrategies Index up +0.21% on 2/17
+HFRinc	700698502070816768	2016-02-19T15:08:35	HFs gain Wed as oil surges, equities gain, led by energy, biotech, w/ HFRX GlobalHedgeFund Index up +0.34% on 2/17 
+HFRinc	700089287195295744	2016-02-17T22:47:47	UCITS hedge funds gain Tues as equities gain for 3rd day led by China, Technology, w/ HFRU RelativeValueArbitrage Index up +0.13% on 2/16
+HFRinc	700089191812583424	2016-02-17T22:47:25	UCITS hedge funds gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, w/ HFRU EventDriven Index up +0.24%
+HFRinc	700089106861174784	2016-02-17T22:47:04	UCITS hedge funds gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, w/ HFRU EquityHedge Index up +0.37%
+HFRinc	700089046647767040	2016-02-17T22:46:50	UCITS HFs gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, w/ HFRU HedgeFundComposite Index up +0.22%
+HFRinc	700088955161554944	2016-02-17T22:46:28	EnergyInfrastructure HFs gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, w/ HFRX MLP Index up +3.56%
+HFRinc	700088864224911361	2016-02-17T22:46:06	FI hedge funds gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, HFRX FixedIncomeCredit Index up +0.34%
+HFRinc	700088736248279040	2016-02-17T22:45:36	Global HFs gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, w/ HFRX MultiRegion Index up +0.31% on 2/16
+HFRinc	700088491808419840	2016-02-17T22:44:38	N. American HFs gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, w/ HFRX NorthAmerica Index up +0.32%
+HFRinc	700088408073379840	2016-02-17T22:44:18	Event Driven HFs gain Tues as equities gain for 3rd day led by China, Technology; w/ HFRX ED: SpecialSituations Index up +0.54% on 2/16
+HFRinc	700088325961445376	2016-02-17T22:43:58	ED hedge funds gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline HFRX ED: MergerArbitrage Index up +0.19%
+HFRinc	700088234064220160	2016-02-17T22:43:36	ED hedge funds gain Tues as equities gain for 3rd day led by China, Technology, HFRX ED: DistressedRestructuring Index up +0.43% on 2/16
+HFRinc	700088054946508800	2016-02-17T22:42:53	ED hedge funds gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, w/ HFRX EventDriven Index up +0.50%
+HFRinc	700087902240280576	2016-02-17T22:42:17	Equity HFs gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, HFRX EH: FundamentalValue Index up +0.96%
+HFRinc	700087793649717248	2016-02-17T22:41:51	Equity Hedge funds gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, w/ HFRX EquityHedge Index up +0.63%
+HFRinc	700087694236385281	2016-02-17T22:41:27	HFs gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, w/ HFRX MarketDirectional Index up +1.31% on 2/16
+HFRinc	700087614339047424	2016-02-17T22:41:08	Hedge funds gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, w/ HFRX AbsoluteReturn Index up +0.15%
+HFRinc	700087556432461824	2016-02-17T22:40:55	HFs gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, w/ HFRX EqualWeightedStrategies Index up +0.18%
+HFRinc	700087467660062720	2016-02-17T22:40:33	HFs gain Tues as equities gain for 3rd day led by China, Technology; gold, oil decline, HFRX GlobalHedgeFund Index up +0.25% on 2/16
+HFRinc	700008106600693761	2016-02-17T17:25:12	HFR President, Kenneth Heinz, speaks during his presentation on the Future of Hedge Funds at MFA's January event 
+HFRinc	699724838714216448	2016-02-16T22:39:36	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRU RelativeValueArbitrage Index up +0.46%
+HFRinc	699724788999200769	2016-02-16T22:39:24	On Fri as Oil surges to strongest daily gain since Feb 09, global equities also surge, HFRU Macro Index up +0.56% 
+HFRinc	699724680924524544	2016-02-16T22:38:58	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRU EventDriven Index up +0.38% on 2/12/16
+HFRinc	699724597290094592	2016-02-16T22:38:38	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRU EquityHedge Index up +0.78% on 2/12/16
+HFRinc	699724541124194304	2016-02-16T22:38:25	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRU HedgeFundComposite Index up +0.64% on 2/12
+HFRinc	699724235141320704	2016-02-16T22:37:12	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRX MLP Index up +3.56% on 2/12/16
+HFRinc	699724180049145856	2016-02-16T22:36:59	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRX FixedIncomeCredit Index up +0.34% on 2/12
+HFRinc	699724130451484672	2016-02-16T22:36:47	On Fri as Oil surges to strongest daily gain since Feb 2009, HFRX MultiRegion Index up +0.31% on 2/12/16 
+HFRinc	699723886657556480	2016-02-16T22:35:49	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRX NorthAmerica Index up +0.32% on 2/12/16
+HFRinc	699723816084221952	2016-02-16T22:35:32	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRX RV: MultiStrategy Index up +0.08% on 2/12
+HFRinc	699723715357970432	2016-02-16T22:35:08	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRX RelativeValueArbitrage Index up +0.09%
+HFRinc	699723650669240320	2016-02-16T22:34:53	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRX ED: SpecialSituations Index up +0.54%
+HFRinc	699723599528067072	2016-02-16T22:34:41	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRX ED: MergerArbitrage Index up +0.19%
+HFRinc	699723550333149186	2016-02-16T22:34:29	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge, HFRX ED: DistressedRestructuring Index up +0.43%
+HFRinc	699723473355051008	2016-02-16T22:34:10	On Fri as Oil surges to strongest daily gain since Feb 09, global equities surge, HFRX EventDriven Index up +0.50% 
+HFRinc	699723299987673088	2016-02-16T22:33:29	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRX EH: FundamentalValue Index up +0.96%
+HFRinc	699723222518923264	2016-02-16T22:33:11	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRX EH: EquityMarketNeutral Index up +0.06%
+HFRinc	699723146979508224	2016-02-16T22:32:53	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRX EquityHedge Index up +0.63% on 2/12/16
+HFRinc	699723105367752705	2016-02-16T22:32:43	On Fri as Oil surges to strongest daily gain since Feb 2009, HFRX MarketDirectional Index up +1.31% on 2/12/16 
+HFRinc	699722987394568192	2016-02-16T22:32:15	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRX AbsoluteReturn Index up +0.15% on 2/12/16
+HFRinc	699722926954655748	2016-02-16T22:32:00	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRX EqualWeightedStrategies Index up +0.18%
+HFRinc	699722870574833664	2016-02-16T22:31:47	On Fri as Oil surges to strongest daily gain since Feb 2009, global equities also surge w/ HFRX GlobalHedgeFund Index up +0.25% on 2/12/16
+HFRinc	698274318568988672	2016-02-12T22:35:45	UCITS hedge funds gain Thurs as equities, oil extend losses, led by steep declines in financials, w/ HFRU Macro Index up +0.08% on 2/11
+HFRinc	698274232866725888	2016-02-12T22:35:25	Macro hedge funds gain Thurs as equities, oil extend losses, w/ HFRX Macro: SystematicDiversifiedCTA Index up +1.23%
+HFRinc	698273906923216896	2016-02-12T22:34:07	Macro hedge funds gain Thurs as equities, oil extend losses, led by steep declines in financials, w/ HFRX MacroCTA Index up +0.11% on 2/11
+HFRinc	697904472765239296	2016-02-11T22:06:07	UCITS hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRU EventDriven Index up +0.17% on 2/10
+HFRinc	697904409318023169	2016-02-11T22:05:52	UCITS hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRU EquityHedge Index up +0.13% on 2/10
+HFRinc	697904340497862656	2016-02-11T22:05:35	UCITS hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRU HedgeFundComposite Index up +0.11%
+HFRinc	697904213708279808	2016-02-11T22:05:05	EnergyInfrastructure hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRX MLP Index up +0.63%
+HFRinc	697902116539531264	2016-02-11T21:56:45	Global hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRX MultiRegion Index up +0.13% on 2/10
+HFRinc	697902006694838272	2016-02-11T21:56:19	North American hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRX NorthAmerica Index up +0.14%
+HFRinc	697899395795128321	2016-02-11T21:45:56	ED hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRX ED: SpecialSituations Index up +0.84%
+HFRinc	697899290111250432	2016-02-11T21:45:31	Event Driven hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRX EventDriven Index up +0.55%
+HFRinc	697899231386841089	2016-02-11T21:45:17	Equity Hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRX EH: FundamentalValue Index up +0.33%
+HFRinc	697899154144522240	2016-02-11T21:44:59	EH funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRX EH: EquityMarketNeutral Index up +0.71%
+HFRinc	697899058417930240	2016-02-11T21:44:36	Equity Hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRX EquityHedge Index up +0.16% on 2/10
+HFRinc	697898917518684160	2016-02-11T21:44:02	Hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRX MarketDirectional Index up +0.50% on 2/10
+HFRinc	697898860983660545	2016-02-11T21:43:49	Hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRX AbsoluteReturn Index up +0.14% on 2/10
+HFRinc	697898754200903680	2016-02-11T21:43:23	Hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRX EqualWeightedStrategies Index up +0.16%
+HFRinc	697898640510099456	2016-02-11T21:42:56	Hedge funds gain Wed as equities decline in volatile trading; US treasury yields fall, w/ HFRX GlobalHedgeFund Index up +0.13% on 2/10
+HFRinc	697798623241736193	2016-02-11T15:05:30	Global hedge funds gain Tues as Oil posts steep decline; equities fall, w/ HFRX MultiRegion Index up +0.09% 
+HFRinc	697798458057449472	2016-02-11T15:04:51	RV hedge funds gain Tues as Oil posts steep decline; HY credit widens, equities fall, w/ HFRX RV: MultiStrategy Index up +0.14% on 2/9
+HFRinc	697798411706245122	2016-02-11T15:04:40	RV HFs gain Tues as Oil posts steep decline; HY credit widens, equities fall, w/ HFRX RV: FIConvertibleArbitrage Index up +0.06% on 2/9
+HFRinc	697798308333383680	2016-02-11T15:04:15	RV hedge funds gain Tues as Oil posts steep decline; HY credit widens, equities fall, w/ HFRX RelativeValueArbitrage Index up +0.09%
+HFRinc	697798258001707008	2016-02-11T15:04:03	Macro HFs gain Tues as Oil posts steep decline; HY credit widens, equities fall, w/ HFRX Macro: SystematicDiversifiedCTA Index up +0.53%
+HFRinc	697798182143553536	2016-02-11T15:03:45	Equity Hedge funds gain Tues as Oil posts steep decline; HY credit widens, w/ HFRX EH: EquityMarketNeutral Index  up +0.05% on 2/9
+HFRinc	697163959401472000	2016-02-09T21:03:35	Macro HFs gain Mon as Banks, Euro equities lead selloff; Gold gains as Oil, w/ HFRX Macro: SystematicDiversifiedCTA Index up +1.51%
+HFRinc	697163833081638912	2016-02-09T21:03:05	Macro hedge funds gain Mon as Banks, Euro equities lead selloff; Gold gains as Oil, US$ fall, w/ HFRX MacroCTA Index up +0.31% on 2/8
+HFRinc	697163769059737600	2016-02-09T21:02:49	EventDriven HFs gain Mon as Banks, Euro equities lead selloff; Gold gains as Oil, US$ fall, w/ HFRX ED: MergerArbitrage Index up +0.09%
+HFRinc	696815316777603072	2016-02-08T21:58:12	UCITS HFs gain Fri as equities post steep losses led by Technology, Energy; w/ HFRU Macro Index up +0.05% on 2/5 
+HFRinc	696814978687377408	2016-02-08T21:56:51	Fixed Income HFs gain Fri as equities post steep losses led by Technology, Energy; bonds gain, w/ HFRX FixedIncomeCredit Index up +0.08%
+HFRinc	696814885020143616	2016-02-08T21:56:29	RV hedge funds gain Fri as equities post steep losses led by Technology, Energy; HFRX RV: FIConvertibleArbitrage Index up +0.39% on 2/5
+HFRinc	696814739574292480	2016-02-08T21:55:54	Macro HFs gain Fri as equities post steep losses led by Technology, Energy w/ HFRX Macro: SystematicDiversifiedCTA Index up +0.27% on 2/5
+HFRinc	696814569642029056	2016-02-08T21:55:14	Macro hedge funds gain Fri as equities post steep losses led by Technology, Energy; bonds gain, w/ HFRX MacroCTA Index up +0.24% on 2/5
+HFRinc	695705822228156420	2016-02-05T20:29:28	Energy Infrastructure hedge funds gain Thurs as equities gain, metals gain, US$ falls, w/ HFRX MLP Index up +1.35% on 2/4
+HFRinc	695705780272533504	2016-02-05T20:29:18	N. American HFs gain Thurs as equities gain, metals gain, US$ falls, w/ HFRX NorthAmerica Index up +0.37% on 2/4 
+HFRinc	695705605131018240	2016-02-05T20:28:36	Relative Value hedge funds gain Thurs as equities gain, metals gain, US$ falls, w/ HFRX RV: FIConvertibleArbitrage Index up +0.34% on 2/4
+HFRinc	695705499270918144	2016-02-05T20:28:11	Event Driven hedge funds gain Thurs as equities gain, metals gain, US$ falls, w/ HFRX ED: SpecialSituations Index up +0.27% on 2/4
+HFRinc	695705452143710208	2016-02-05T20:28:00	Event Driven hedge funds gain Thurs as equities gain, metals gain, US$ falls, w/ HFRX ED: DistressedRestructuring Index up +0.27% on 2/4
+HFRinc	695705402311200769	2016-02-05T20:27:48	Event Driven hedge funds gain Thurs as equities gain, metals gain, US$ falls, w/ HFRX EventDriven Index up +0.26% on 2/4
+HFRinc	695705337702125568	2016-02-05T20:27:32	Equity Hedge funds gain Thurs as equities gain, metals gain, US$ falls, w/ HFRX EH: FundamentalValue Index up +0.10% on 2/4
+HFRinc	695705286682607616	2016-02-05T20:27:20	Hedge funds gain Thurs as equities gain, metals gain, US$ falls, w/ HFRX MarketDirectional Index up +0.53% on 2/4
+HFRinc	695704161585737728	2016-02-05T20:22:52	RVA losses led by HFRI RV: YieldAlternatives Index down -5.2% in Jan while ConvertibleArbitrage Index fell -2.7% 
+HFRinc	695703998825758720	2016-02-05T20:22:13	ED losses partially offset by gains in HFRI MergerArbitrage Index, which advanced +0.2% in January
+HFRinc	695703956358504448	2016-02-05T20:22:03	ED losses led by HFRI ED: Activist and HFRI ED: SpecialSituations Indices, which fell -6.1 &amp; -2.9%, respectively in Jan
+HFRinc	695703859289718784	2016-02-05T20:21:40	HFRI EventDriven Index fell -2.3%, while HFRI RelativeValueArbitrage Index declined by -1.7% in January
+HFRinc	695703821629034497	2016-02-05T20:21:31	HFRI EH: ShortBias Index advanced +2.9% in January, while HFRI EH: EquityMarketNeutral Index gained +0.8% 
+HFRinc	695703697351798785	2016-02-05T20:21:01	HFRI EmergingMarkets Index declined -4.6% in Jan, led by EmergingAsia &amp; MiddleEast exposures, with these Indices falling -7.3 &amp; -6.8%
+HFRinc	695703669375836160	2016-02-05T20:20:54	HFRI EH: FundamentalValue and FundamentalGrowth Indices fell -4.1 and -4.5%, respectively, in January
+HFRinc	695703632776290304	2016-02-05T20:20:46	EH losses led by volatile Tech &amp; Health, w/ HFRI EH: TechnologyHealthcare Index falling -8.1% in Jan
+HFRinc	695703561594753024	2016-02-05T20:20:29	Directional equity &amp; credit strategies declined in January, with HFRI EquityHedge Index falling -3.7%
+HFRinc	695703515608457216	2016-02-05T20:20:18	HFRI Macro: DiscretionaryThematic Index declined by -1.1% in Jan, while HFRI Macro: Commodity Index fell -0.7%
+HFRinc	695703401108082688	2016-02-05T20:19:51	HFRI Macro: Currency Index added +0.9% in Jan, while the HFRI Macro: ActiveTrading Index advanced +2.6% 
+HFRinc	695703316760629248	2016-02-05T20:19:30	HFRI Macro Index gained +1.5% in Jan, while HFRI Macro: SystematicDiversifiedCTA Index was up +2.6%
+HFRinc	695703161344888832	2016-02-05T20:18:53	Total hedge fund capital was $2.90T to start 2016, narrowly below the mid-2015 record level of $2.93T
+HFRinc	695703135940014080	2016-02-05T20:18:47	HFRI AssetWeightedComposite Index fell -1.2% during the month of January 
+HFRinc	695703097822150656	2016-02-05T20:18:38	HFRI FundWeightedComposite Index declined -1.7% for January, bringing the Index Value to 12073.48
+HFRinc	694654774126325761	2016-02-02T22:52:58	UCITS HFs gain Mon as Oil reverses to steep decline, equities mixed, w/ HFRU EquityHedge Index up +0.17% on 2/1 
+HFRinc	694654652168564736	2016-02-02T22:52:29	UCITS hedge funds gain Mon as Oil reverses to steep decline, equities mixed, w/ HFRU HedgeFundComposite Index up +0.12% on 2/1
+HFRinc	694654573428887552	2016-02-02T22:52:11	EM hedge funds gain Mon as Oil reverses to steep decline, equities mixed, w/ HFRX EmergingMarketsComposite Index up +0.86% on 2/1
+HFRinc	694654508207443968	2016-02-02T22:51:55	RelativeValue hedge funds gain Mon as Oil reverses to steep decline, equities mixed, w/ HFRX RV: FIConvertibleArbitrage Index up +0.10%
+HFRinc	694654410627022848	2016-02-02T22:51:32	EquityHedge funds gain Mon as Oil reverses to steep decline, equities mixed, w/ HFRX EH: FundamentalValue Index up +0.12% on 2/1
+HFRinc	694654196071596032	2016-02-02T22:50:41	EquityHedge funds gain Mon as Oil reverses to steep decline, equities mixed, w/ HFRX EH: FundamentalGrowth Index up +0.92% on 2/1
+HFRinc	694654127591202816	2016-02-02T22:50:24	EquityHedge funds gain Mon as Oil reverses to steep decline, equities mixed, w/ HFRX EH: EquityMarketNeutral Index up +0.18% on 2/1
+HFRinc	694654045340848129	2016-02-02T22:50:05	Equity Hedge funds gain Mon as Oil reverses to steep decline, equities mixed, w/ HFRX EquityHedge Index up +0.34% on 2/1
+HFRinc	694652872491868160	2016-02-02T22:45:25	HFRU RelativeValueArbitrage Index declined -1.76% for Jan, as high yield credit &amp; arbitrage deal spreads widened
+HFRinc	694652827872813056	2016-02-02T22:45:14	HFRU EventDriven Index declined -1.48% for Jan from declines in Global Special Situations equity and Distressed/Restructuring strategies
+HFRinc	694652792082829312	2016-02-02T22:45:06	HFRU Macro Index down -0.42 % in Jan from declines in Discretionary FI &amp; Commodity strats only partially offset by CTA &amp; Volatility mngrs
+HFRinc	694652755210690560	2016-02-02T22:44:57	UCITS compliant hedge funds declined for January w/ HFRU HedgeFundComposite Index declining -2.45% 
+HFRinc	694603241913348098	2016-02-02T19:28:12	HFRX MarketNeutral Index declined -0.21% for Jan from mixed performance in factor-based strats &amp; fundamental mngrs 
+HFRinc	694603089010012161	2016-02-02T19:27:36	HFRX EquityHedge Index declined -4.50% for Jan as equity markets experienced widespread declines across regions
+HFRinc	694603038049210368	2016-02-02T19:27:24	HFRX MergerArbitrage Index up +1.19% for Jan w/ core exposures to Sumitomo Life/Symetra, Berkshire/Precision Castparts transactions
+HFRinc	694603000849936385	2016-02-02T19:27:15	HFRX EventDriven Index down -3.81% for Jan, as credit spreads widened &amp; equities experienced broad declines
+HFRinc	694602961163460608	2016-02-02T19:27:05	HFRX ConvertibleArbitrage Index declined -1.81% for Jan, as declines in credit positions were offset by gains in implied volatility
+HFRinc	694602915680354305	2016-02-02T19:26:54	HFRX RelativeValueArbitrage Index down -2.51% for Jan, as high yield credit &amp; arbitrage deal spreads widened 
+HFRinc	694602819509161984	2016-02-02T19:26:31	HFRX Macro SystematicDiversifiedCTA Index up +2.43% for Jan as Energy declined &amp; USD gained against Chinese Reminbi
+HFRinc	694602773107609600	2016-02-02T19:26:20	HFRX MacroCTA Index up +0.91% for Jan w/ contributions from CTAs mngrs &amp; mixed performance of Discretionary FI strats
+HFRinc	694602727456833537	2016-02-02T19:26:09	HFRX AbsoluteReturn Index gained +0.05% for Jan, while HFRX GlobalHedgeFund Index declined -2.76%
+HFRinc	694602689439600641	2016-02-02T19:26:00	HFs posted mixed declines for January led by Macro &amp; CTA strats, w/ HFRX Macro Index up +0.91% 
+HFRinc	694545387835805696	2016-02-02T15:38:19	UCITS HFs gain Fri as equities, Oil surge on Jan final trading day, HFRU RelativeValueArbitrage Index up +0.38% 
+HFRinc	694545187452792832	2016-02-02T15:37:31	UCITS hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRU Macro Index up +0.20% on 1/29
+HFRinc	694545137909649408	2016-02-02T15:37:19	UCITS hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRU EventDriven Index up +0.34% on 1/29
+HFRinc	694545055734890497	2016-02-02T15:36:59	UCITS hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRU EquityHedge Index up +0.79% on 1/29
+HFRinc	694544970397552640	2016-02-02T15:36:39	UCITS hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRU HedgeFundComposite Index up +0.54% on 1/29
+HFRinc	694544870107533312	2016-02-02T15:36:15	Energy Infrastructure hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX MLP Index up +0.58% on 1/29
+HFRinc	694544796518453248	2016-02-02T15:35:58	FixedIncome hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX FixedIncomeCredit Index up +0.10% on 1/29
+HFRinc	694544711873236993	2016-02-02T15:35:37	Global hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX MultiRegion Index up +0.40% on 1/29
+HFRinc	694544655380185088	2016-02-02T15:35:24	EM hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX EmergingMarketsComposite Index up +1.11% on 1/29
+HFRinc	694544585960214529	2016-02-02T15:35:07	North American hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX NorthAmerica Index up +0.50% on 1/29
+HFRinc	694544526774398981	2016-02-02T15:34:53	Macro hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX Macro: SystematicDiversifiedCTA Index up +0.21%
+HFRinc	694544423116541952	2016-02-02T15:34:29	Macro hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX MacroCTA Index up +0.39% 
+HFRinc	694544248440401920	2016-02-02T15:33:47	EventDriven hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX ED: SpecialSituations Index up +0.85% on 1/29
+HFRinc	694543992176783360	2016-02-02T15:32:46	EventDriven hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX ED: MergerArbitrage Index up +0.19% on 1/29
+HFRinc	694543377941925888	2016-02-02T15:30:19	EventDriven HFs gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX ED: DistressedRestructuring Index up +0.16% on 1/29
+HFRinc	694542227918315520	2016-02-02T15:25:45	ED  hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX EventDriven Index up +0.67% 
+HFRinc	694539452820037638	2016-02-02T15:14:44	Equity Hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX EH: FundamentalValue Index up +1.31% on 1/29
+HFRinc	694535765544439809	2016-02-02T15:00:05	EquityHedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX EH: FundamentalGrowth Index up +0.49% on 1/29
+HFRinc	694535683168296960	2016-02-02T14:59:45	EquityHedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX EH: EquityMarketNeutral Index up +0.40% on 1/29
+HFRinc	694535611407937536	2016-02-02T14:59:28	Equity Hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX EquityHedge Index up +1.03% on 1/29
+HFRinc	694535533834276864	2016-02-02T14:59:09	Hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX MarketDirectional Index up +0.63% on 1/29
+HFRinc	694535486740692993	2016-02-02T14:58:58	Hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX AbsoluteReturn Index up +0.35% on 1/29
+HFRinc	694535416091836421	2016-02-02T14:58:41	Hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX EqualWeightedStrategies Index up +0.34% on 1/29
+HFRinc	694535347166777344	2016-02-02T14:58:25	Hedge funds gain Fri as equities, Oil surge on Jan final trading day, w/ HFRX GlobalHedgeFund Index up +0.49% 
+HFRinc	693183711228010497	2016-01-29T21:27:30	EnergyInfrastructure hedge funds gain Thurs as oil surges, US$ falls, w/ HFRX MLP Index up +2.48% on 1/28
+HFRinc	693183650569916416	2016-01-29T21:27:15	Emerging Markets hedge funds gain Thurs as oil surges, US$ falls, w/ HFRX EmergingMarketsComposite Index up +0.30% on 1/28
+HFRinc	693183525932040192	2016-01-29T21:26:45	Hedge funds gain Thurs as oil surges, US$ falls, w/ HFRX MarketDirectional Index up +0.45% on 1/28 
+HFRinc	692834258948194304	2016-01-28T22:18:54	UCITS hedge funds gain Wed as US equities fall on Fed minutes, Oil surges, w/ HFRU EquityHedge Index up +0.17% 
+HFRinc	692834105478676480	2016-01-28T22:18:17	Relative Value hedge funds gain Wed as US equities fall on Fed minutes, Oil surges, w/ HFRX RV: FIConvertibleArbitrage Index up +0.46%
+HFRinc	692473974022934529	2016-01-27T22:27:15	UCITS hedge funds gain Tues as Oil surges to reverse Mon losses, US equities lead gains, w/ HFRU EventDriven Index up +0.15% on 1/26
+HFRinc	692473690429210628	2016-01-27T22:26:07	EnergyInfrastructure hedge funds gain Tues as Oil surges to reverse Mon losses, US equities lead gains, w/ HFRX MLP Index up +2.49%
+HFRinc	692473538360524802	2016-01-27T22:25:31	N. American hedge funds gain Tues as Oil surges to reverse Mon losses, US equities lead gains w/ HFRX NorthAmerica Index up +0.21% on 1/26
+HFRinc	692473451236478979	2016-01-27T22:25:10	RV hedge funds gain Tues as Oil surges to reverse Mon losses, US equities lead gains, w/ HFRX RV: MultiStrategy Index up +0.16% on 1/26
+HFRinc	692473382441467904	2016-01-27T22:24:54	RV hedge funds gain Tues as Oil surges to reverse Mon losses, US equities lead gains, HFRX RelativeValueArbitrage Index up +0.12% on 1/26
+HFRinc	692473286383525888	2016-01-27T22:24:31	ED hedge funds gain Tues as Oil surges to reverse Mon losses, US equities lead gains, w/ HFRX ED: SpecialSituations Index up +0.56%
+HFRinc	692473179122569216	2016-01-27T22:24:06	Event Driven hedge funds gain Tues as Oil surges to reverse Mon losses, US equities lead gains, HFRX ED: MergerArbitrage Index up +0.61%
+HFRinc	692473107777482752	2016-01-27T22:23:49	Event Driven hedge funds gain Tues as Oil surges to reverse Mon losses, US equities lead gains, w/ HFRX EventDriven Index up +0.44%
+HFRinc	692473048772001793	2016-01-27T22:23:35	EH funds gain Tues as Oil surges to reverse Mon losses, w/ HFRX EH: FundamentalValue Index up +0.50% 
+HFRinc	692472925170110465	2016-01-27T22:23:05	Equity Hedge funds gain Tues as Oil surges to reverse Mon losses, US equities lead gains, w/ HFRX EquityHedge Index up +0.29% on 1/26
+HFRinc	692472792424562689	2016-01-27T22:22:33	Hedge funds gain Tues as Oil surges to reverse Mon losses, US equities lead gains, w/ HFRX MarketDirectional Index up +0.94% on 1/26
+HFRinc	692472741061136385	2016-01-27T22:22:21	Hedge funds gain Tues as Oil surges to reverse Mon losses, US equities lead gains, w/ HFRX AbsoluteReturn Index up +0.18% on 1/26
+HFRinc	692472677752246272	2016-01-27T22:22:06	Hedge funds gain Tues as Oil surges to reverse Mon losses, US equities lead gains, w/ HFRX EqualWeightedStrategies Index up +0.14% on 1/26
+HFRinc	692472375917547521	2016-01-27T22:20:54	Hedge funds gain Tues as Oil surges to reverse Mon losses, US equities lead gains, w/ HFRX GlobalHedgeFund Index up +0.21% on 1/26
+HFRinc	692112876639797250	2016-01-26T22:32:23	Macro hedge funds gain Mon as Oil reverses Fri gain w/ sharp decline, equities fall, w/ HFRU Macro Index up +0.12% 
+HFRinc	692111755615584260	2016-01-26T22:27:56	EM hedge funds gain Mon as Oil reverses Fri gain w/ sharp decline, equities fall, w/ HFRX EmergingMarketsComposite Index up +0.26% on 1/25
+HFRinc	692111676074823681	2016-01-26T22:27:37	RelativeValue HFs gain Mon as Oil reverses Fri gain w/ sharp decline, equities fall, w/ HFRX RV: FIConvertibleArbitrage Index up +0.64%
+HFRinc	692111183999045632	2016-01-26T22:25:39	Macro HFs gain Mon as Oil reverses Fri gain w/ sharp decline, equities fall, w/ HFRX Macro: SystematicDiversifiedCTA Index up +0.80%
+HFRinc	692110979191197696	2016-01-26T22:24:50	Macro HFs gain Mon as Oil reverses Fri gain w/ sharp decline, equities fall, w/ HFRX MacroCTA Index up +0.18% 
+HFRinc	692110880784388096	2016-01-26T22:24:27	EventDriven hedge funds gain Mon as Oil reverses Fri gain w/ sharp decline,  HFRX ED: DistressedRestructuring Index up +0.11% on 1/25
+HFRinc	692110730682830855	2016-01-26T22:23:51	Equity Hedge funds gain Mon as Oil reverses Fri gain w/ sharp decline, equities fall, w/ HFRX EH: FundamentalGrowth Index up +0.39%
+HFRinc	692110655466389504	2016-01-26T22:23:33	Equity Hedge funds gain Mon as Oil reverses Fri gain w/ sharp decline, equities fall, w/ HFRX EH: EquityMarketNeutral Index up +0.34%
+HFRinc	691753346693091328	2016-01-25T22:43:44	UCITS HFs gain FRI as oil surges, equities gain, w/ HFRU RelativeValueArbitrage Index up +0.48% on 1/22 
+HFRinc	691753225385435136	2016-01-25T22:43:15	UCITS hedge funds gain FRI as oil surges, equities gain, w/ HFRU EventDriven Index up +0.44% on 1/22
+HFRinc	691753093466226688	2016-01-25T22:42:44	UCITS hedge funds gain FRI as oil surges, equities gain, w/ HFRU EquityHedge Index up +1.06% on 1/22
+HFRinc	691752998557454337	2016-01-25T22:42:21	UCITS hedge funds gain FRI as oil surges, equities gain, w/ HFRU HedgeFundComposite Index up +0.65% on 1/22
+HFRinc	691752897286053888	2016-01-25T22:41:57	EnergyInfrastructure hedge funds gain FRI as oil surges, equities gain, w/ HFRX MLP Index up +9.38% on 1/22
+HFRinc	691752788598992896	2016-01-25T22:41:31	Fixed Income hedge funds gain FRI as oil surges, equities gain, w/ HFRX FixedIncomeCredit Index up +0.17% on 1/22
+HFRinc	691752599293329408	2016-01-25T22:40:46	Global hedge funds gain FRI as oil surges, equities gain, w/ HFRX MultiRegion Index up +0.19% on 1/22
+HFRinc	691752538303889408	2016-01-25T22:40:31	Emerging Markets hedge funds gain FRI as oil surges, equities gain, w/ HFRX EmergingMarketsComposite Index up +0.68% on 1/22
+HFRinc	691752331189186560	2016-01-25T22:39:42	North American hedge funds gain FRI as oil surges, equities gain, w/ HFRX NorthAmerica Index up +0.21% on 1/22 
+HFRinc	691752224330903552	2016-01-25T22:39:17	Event Driven hedge funds gain FRI as oil surges, equities gain, w/ HFRX ED: SpecialSituations Index up +1.24% on 1/22
+HFRinc	691752030050713600	2016-01-25T22:38:30	Event Driven hedge funds gain FRI as oil surges, equities gain, w/ HFRX ED: MergerArbitrage Index up +0.22% on 1/22
+HFRinc	691751970235756544	2016-01-25T22:38:16	Event Driven hedge funds gain FRI as oil surges, equities gain, w/ HFRX ED: DistressedRestructuring Index up +0.35% on 1/22
+HFRinc	691746245723852800	2016-01-25T22:15:31	Event Driven hedge funds gain FRI as oil surges, equities gain, w/ HFRX EventDriven Index up +1.0% on 1/22
+HFRinc	691746170931011584	2016-01-25T22:15:13	Equity Hedge funds gain FRI as oil surges, equities gain, w/ HFRX EH: FundamentalValue Index up +0.92% on 1/22
+HFRinc	691746087514705921	2016-01-25T22:14:53	Equity Hedge funds gain FRI as oil surges, equities gain, w/ HFRX EH: FundamentalGrowth Index up +0.86% on 1/22 
+HFRinc	691745703891062784	2016-01-25T22:13:22	Equity Hedge funds gain FRI as oil surges, equities gain, w/ HFRX EquityHedge Index up +0.84% on 1/22
+HFRinc	691745642062872576	2016-01-25T22:13:07	Hedge funds gain FRI as oil surges, equities gain, w/ HFRX MarketDirectional Index up +3.38% on 1/22
+HFRinc	691745555974791168	2016-01-25T22:12:47	Hedge funds gain FRI as oil surges, equities gain, w/ HFRX AbsoluteReturn Index up +0.11% on 1/22
+HFRinc	691745508797190144	2016-01-25T22:12:35	Hedge funds gain FRI as oil surges, equities gain, w/ HFRX EqualWeightedStrategies Index up +0.28% on 1/22
+HFRinc	691745434138595328	2016-01-25T22:12:18	Hedge funds gain FRI as oil surges, equities gain, w/ HFRX GlobalHedgeFund Index up +0.42% on 1/22 
+HFRinc	691662954278686720	2016-01-25T16:44:33	"Automated Hedge Funds Make Millions in January’s Market Selloff" see HFR mentioned in WSJ here: 
+HFRinc	691646219295133696	2016-01-25T15:38:03	Energy Infrastructure hedge funds gain Thurs as oil surges off Wed low, euro equities lead gains, w/ HFRX MLP Index up +1.83% on 1/21
+HFRinc	691646163670282240	2016-01-25T15:37:50	FI hedge funds gain Thurs as oil surges off Wed low, euro equities lead gains, w/ HFRX FixedIncomeCredit Index up +0.19% on 1/21
+HFRinc	691646074994307072	2016-01-25T15:37:29	Global hedge funds gain Thurs as oil surges off Wed low, euro equities lead gains, w/ HFRX MultiRegion Index up +0.11% on 1/21
+HFRinc	691646006908223488	2016-01-25T15:37:12	N. American HFs gain Thurs as oil surges off Wed low, euro equities lead gains, HFRX NorthAmerica Index up +0.22% 
+HFRinc	691645795066458112	2016-01-25T15:36:22	Relative Value HFs gain Thurs as oil surges off Wed low, euro equities lead gains, w/ HFRX RV: FIConvertibleArbitrage Index up +0.73%
+HFRinc	691645703324479488	2016-01-25T15:36:00	RV hedge funds gain Thurs as oil surges off Wed low, euro equities lead gains, w/ HFRX RelativeValueArbitrage Index up +0.23% on 1/21
+HFRinc	691645610374500352	2016-01-25T15:35:38	Event Driven HFs gain Thurs as oil surges off Wed low, euro equities lead gains, w/ HFRX ED: SpecialSituations Index up +0.15% on 1/21
+HFRinc	691645493932195840	2016-01-25T15:35:10	Event Driven HFs gain Thurs as oil surges off Wed low, euro equities lead gains, w/ HFRX ED: MergerArbitrage Index up +0.24% on 1/21
+HFRinc	691645363636162560	2016-01-25T15:34:39	Equity Hedge funds gain Thurs as oil surges off Wed low, euro equities lead gains, w/ HFRX EH: FundamentalValue Index up +0.52% on 1/21
+HFRinc	691645288268730368	2016-01-25T15:34:21	Equity Hedge funds gain Thurs as oil surges off Wed low, euro equities lead gains, w/ HFRX EquityHedge Index up +0.25% on 1/21
+HFRinc	691645249806970880	2016-01-25T15:34:12	Hedge funds gain Thurs as oil surges off Wed low, euro equities lead gains, w/ HFRX MarketDirectional Index up +0.20% on 1/21
+HFRinc	691644266133622784	2016-01-25T15:30:17	Hedge funds gain Thurs as oil surges off Wed low, euro equities lead gains, w/ HFRX AbsoluteReturn Index up +0.15% on 1/21
+HFRinc	690250810949636096	2016-01-21T19:13:12	HFRX FundamentalGrowth Index declined -5.19% thru mid-Jan from exposure to small-cap equities
+HFRinc	690250783116230657	2016-01-21T19:13:05	HFRX FundamentalValue Index declined -4.80% thru mid-Jan from exposure to large-cap Financial, Communications &amp; Consumer sectors
+HFRinc	690250753689055233	2016-01-21T19:12:58	HFRX MarketNeutral Index gained +0.29% thru mid-month from mixed performance in factor based strategies &amp; fundamental mngrs
+HFRinc	690250710982615041	2016-01-21T19:12:48	HFRX EquityHedge Index declined -4.57% thru mid-Jan as equity markets experienced widespread declines across regions &amp; sectors
+HFRinc	690250670096551937	2016-01-21T19:12:38	HFRX SpecialSituations Index down -4.30% thru mid-month from positioning in Precision Castparts, Perrigo, Baxalta &amp; Akorn
+HFRinc	690250639612350464	2016-01-21T19:12:31	HFRX Distressed Index declined -2.29% thru mid-Jan from exposure to Energy/Basic Materials, Consumer, Financial &amp; Comm sectors
+HFRinc	690250492685844480	2016-01-21T19:11:56	HFRX MergerArbitrage Index down -0.05% thru mid-Jan with core exposures to Chubb/ACE &amp; FNB/Metro Bancorp transactions
+HFRinc	690250457709604864	2016-01-21T19:11:48	HFRX EventDriven Index declined -3.71% thru mid-Jan, as credit spreads widened
+HFRinc	690250371285942272	2016-01-21T19:11:27	HFRX MultiStrategy Index declined -1.92% thru mid-month, with declines concentrated in Consumer &amp; Energy sectors
+HFRinc	690224976088018945	2016-01-21T17:30:32	HFRX ConvertibleArbitrage Index declined -1.40% thru mid-Jan
+HFRinc	690224950469263360	2016-01-21T17:30:26	HFRX RelativeValueArbitrage Index down -2.08% thru mid-January, as high yield credit widened
+HFRinc	690224869204561920	2016-01-21T17:30:07	HFRX Macro SystematicDiversifiedCTA Index up +4.08% thru mid-Jan as trend-following models captured continued decline in Energy
+HFRinc	690224759422881792	2016-01-21T17:29:41	HFRX MacroCTA Index up +1.43% thru mid-Jan, w/ contributions from CTAs mngrs, partially offset by Discretionary FI strategies
+HFRinc	690224726422097920	2016-01-21T17:29:33	HFRX GlobalHedgeFund Index posted a decline of -2.54% thru mid-January
+HFRinc	690224693886857216	2016-01-21T17:29:25	HFRX Macro Index gained +1.43% thru mid-Jan &amp; HFRX EH: EquityMarketNeutral Index gained +0.29%
+HFRinc	690224655110578176	2016-01-21T17:29:16	Hedge funds posted mixed performance thru mid-January w/ HFRX Macro SystematicDiversifiedCTA Index up +4.08% 
+HFRinc	690210153602256896	2016-01-21T16:31:38	HFRU EquityHedge Index declined -4.50% thru mid-month, as equity markets experienced widespread losses across geographies &amp; sectors
+HFRinc	690210130193846272	2016-01-21T16:31:33	HFRU RelativeValueArbitrage Index down -2.22% thru mid-Jan w/ losses concentrated in Yield Alternatives - Energy Infrastructure
+HFRinc	690210108182163456	2016-01-21T16:31:27	HFRU EventDriven Index down -1.91% thru mid-Jan from declines in Global Special Situations equity &amp; Distressed/Restructuring strats
+HFRinc	690210080369696769	2016-01-21T16:31:21	HFRU Macro Index declined -0.48 % thru mid-Jan w/ contributions from CTAs offset by Discretionary FI &amp; Commodity strats
+HFRinc	690210055971471360	2016-01-21T16:31:15	UCITS compliant Hedge Funds posted declines thru mid-January w/ HFRU HedgeFundComposite Index declining -2.89%
+HFRinc	690210001395122176	2016-01-21T16:31:02	UCITS HFs gain Tues as Euro equities gains, high yield credit falls, w/ HFRU EquityHedge Index up +0.38% on 1/19 
+HFRinc	690209883946283009	2016-01-21T16:30:34	UCITS hedge funds gain Tues as Euro equities gains, high yield credit falls, w/ HFRU HedgeFundComposite Index up +0.20% on 1/19
+HFRinc	690209832251437056	2016-01-21T16:30:22	EventDriven hedge funds gain Tues as Euro equities gains, high yield credit falls, w/ HFRX ED: MergerArbitrage Index up +0.31% on 1/19
+HFRinc	689917216590966784	2016-01-20T21:07:37	HFRI RelativeValue Index declined -0.26% for 2015, HFRI RelativeValueArbitrage Index AssetWeighted up +1.2% 
+HFRinc	689917145065517056	2016-01-20T21:07:20	RVA strategies experienced outflows of $3.8B in 4Q15, bringing 2015 inflows to $8.4B and total RVA capital globally to $773B
+HFRinc	689917007303577600	2016-01-20T21:06:47	HFRI EventDriven Index posted a decline of -3.3% for 2015, as HFRI EventDriven Index AssetWeighted fell -4.7% for 2015
+HFRinc	689916963548594177	2016-01-20T21:06:36	ED strategies suffered outflows of $2.2B in 4Q, reducing the full year net inflow to $8.7B and bringing total ED capital to $745B
+HFRinc	689916930572980224	2016-01-20T21:06:28	HFRI EquityHedge Index declined -0.8% for the year, while HFRI EquityHedge Index AssetWeighted gained +1.53%
+HFRinc	689916895760257024	2016-01-20T21:06:20	EH strategies led capital inflows in 2015, receiving $25.8B for 2015, including $2.0B in 4Q, bringing total EH capital to $829B
+HFRinc	689916831449018369	2016-01-20T21:06:05	Macro sub-strategy flows were led by CTA funds, which received inflows of $1.7B in 4Q15 
+HFRinc	689916764428177408	2016-01-20T21:05:49	HFRI Macro (Total) Index declined by -1.15% in 2015, with the HFRI Macro Index AssetWeighted gaining +0.72% for 2015
+HFRinc	689916723365998592	2016-01-20T21:05:39	Macro &amp; CTA HFs received $2.5B in new capital for 4Q bringing Macro to narrow $900M inflow for 2015, increasing total Macro capital to $550B
+HFRinc	689916602616299524	2016-01-20T21:05:10	For 2015, firms w/ &gt;$5B in AUM received inflows of $31.2B, $1B to $5B received inflows of $6.0B, &amp; &lt; $1B received inflows of $6.5B
+HFRinc	689897143247572993	2016-01-20T19:47:51	Investors withdrew $2.8B from firms managing $1B to $5B in 4Q, &amp; withdrew $1.9B from firms with &lt;$1B in AUM in 4Q 
+HFRinc	689897006978887684	2016-01-20T19:47:18	Inflows by firm size remained concentrated in industry’s largest firms, w/ firms managing &gt;$5B in assets receiving inflows of $3.2B in 4Q
+HFRinc	689896911805947906	2016-01-20T19:46:56	Investor net inflows totaled $43.8B for 2015, with inflows in the first 3 quarters tempered by outflows of $1.52B in 4Q15
+HFRinc	689896817660551168	2016-01-20T19:46:33	For FY 2015, total HF capital increased by $51.7B, rising to record $2.97T at mid-year before falling in 3Q, and concluding 2015 at $2.90T
+HFRinc	689896744725786627	2016-01-20T19:46:16	HFRI AssetWeightedComposite Index advanced +0.5% in 4Q15, and was essentially flat for 2015, posting a narrow decline of -0.04%
+HFRinc	689896711934738436	2016-01-20T19:46:08	HFRI FundWeightedComposite Index up +0.8% in 4Q15, but declined -1.0% for full-year 2015, only 4th year decline since inception in 1990
+HFRinc	689896676077666306	2016-01-20T19:45:59	Hedge fund capital rose to $2.90T in 4Q15, an increase of $22.8B over prior quarter
+HFRinc	689896619483889665	2016-01-20T19:45:46	HFR Global HedgeFundIndustryReport now available on our website!
+HFRinc	689896477280239616	2016-01-20T19:45:12	HFR Press Release: “China, interest rates, energy, and Brexit among top risks, opportunities for 2016”
+HFRinc	689896454568050695	2016-01-20T19:45:07	HFR Press Release: “Performance gains offset outflow in 4Q as investors position for volatility”
+HFRinc	689896431734231045	2016-01-20T19:45:01	HFR Press Release: “HEDGE FUND ASSETS RISE AS EQUITIES, ENERGY EXTEND DECLINES” 
+HFRinc	689859558760517632	2016-01-20T17:18:30	HFR Year End Global Hedge Fund Industry Report available now!  
+HFRinc	689847665836687360	2016-01-20T16:31:14	Macro hedge funds gain FRI as energy posts steep declines; gold, bonds gain, w/ HFRX Macro: SystematicDiversifiedCTA Index up +1.88%
+HFRinc	689847553353887745	2016-01-20T16:30:48	Macro hedge funds gain FRI as energy posts steep declines; gold, bonds gain, w/ HFRX MacroCTA Index up +0.68% on 1/15
+HFRinc	688055515075629056	2016-01-15T17:49:52	UCITS hedge funds gain Wed as US equities post steep losses led by Biotech, w/ HFRU Macro Index up +0.06% on 1/13 
+HFRinc	688055434968616960	2016-01-15T17:49:33	Fixed Income hedge funds gain Wed as US equities post steep losses led by Biotech, w/ HFRX FixedIncomeCredit Index up +0.02% on 1/13/16
+HFRinc	688055385530343424	2016-01-15T17:49:22	EM hedge funds gain Wed as US equities post steep losses led by Biotech, w/ HFRX EmergingMarketsComposite Index up +0.08% on 1/13/16
+HFRinc	688055311467298816	2016-01-15T17:49:04	Macro HFs gain Wed as US equities post steep losses led by Biotech, w/ HFRX MacroCTA Index up +0.04% on 1/13 
+HFRinc	688055188649709568	2016-01-15T17:48:35	RelativeValue hedge funds gain Wed as US equities post steep losses led by Biotech, w/ HFRX RV: FIConvertibleArbitrage Index up +0.56%
+HFRinc	688055088812785664	2016-01-15T17:48:11	Macro HFs gain Wed as US equities post steep losses led by Biotech, w/ HFRX Macro: SystematicDiversifiedCTA Index up +0.16% on 1/13
+HFRinc	687768391709515776	2016-01-14T22:48:57	"What Pop? Activists Don’t Move Stocks Like They Used To" HFR mentioned in WSJ here: 
+HFRinc	687652546672865280	2016-01-14T15:08:37	UCITS HFs gain Tues as equities recover intra-day declines, bonds gain, w/ HFRU EquityHedge Index up +0.11% 
+HFRinc	687652390346964993	2016-01-14T15:08:00	Global hedge funds gain Tues as equities recover intra-day declines, bonds gain, w/ HFRX MultiRegion Index up +0.13% on 1/12
+HFRinc	687652319182258176	2016-01-14T15:07:43	RelativeValue hedge funds gain Tues as equities recover intra-day declines, bonds gain, w/ HFRX RV: Multi-Strategy Index up +0.13%
+HFRinc	687652243592445952	2016-01-14T15:07:25	Macro HFs gain Tues as equities recover intra-day declines, bonds gain, w/ HFRX Macro: SystematicDiversifiedCTA Index up +0.44% on 1/12
+HFRinc	687652155260420097	2016-01-14T15:07:04	Macro hedge funds gain Tues as equities recover intra-day declines, bonds gain, w/ HFRX MacroCTA Index up +0.35% 
+HFRinc	687652030672814080	2016-01-14T15:06:34	EquityHedge funds gain Tues as equities recover intra-day declines, bonds gain, w/ HFRX EH: FundamentalValue Index up +0.27% on 1/12
+HFRinc	687651946811895808	2016-01-14T15:06:14	EquityHedge funds gain Tues as equities recover intra-day declines, bonds gain, w/ HFRX EH: EquityMarketNeutral Index up +0.32% on 1/12
+HFRinc	687651865354354689	2016-01-14T15:05:55	Equity Hedge funds gain Tues as equities recover intra-day declines, bonds gain, w/ HFRX EquityHedge Index up +0.10% on 1/12
+HFRinc	687651814905221120	2016-01-14T15:05:43	Hedge funds gain Tues as equities recover intra-day declines, bonds gain, w/ HFRX AbsoluteReturn Index up +0.21% 
+HFRinc	687039383610888192	2016-01-12T22:32:08	Macro hedge funds gain MON as Oil, Chinese equities post steep losses, with HFRX Macro: SystematicDiversifiedCTA Index up +0.52% on 1/11
+HFRinc	687038974250975232	2016-01-12T22:30:30	Macro hedge funds gain MON as Oil, Chinese equities post steep losses, w/ HFRX MacroCTA Index  up +0.21% on 1/11 
+HFRinc	687037528533118976	2016-01-12T22:24:45	EquityHedge funds gain MON as Oil, Chinese equities post steep losses, with HFRX EH: EquityMarketNeutral Index up +0.33% on 1/11
+HFRinc	686959066812264448	2016-01-12T17:12:59	"The Big Number" HFR mentioned in wsj here: 
+HFRinc	686673023005396992	2016-01-11T22:16:21	EnergyInfrastructure hedge funds gain FRI as US, Euro equities extend losses on US employment report, w/ HFRX MLP Index up +3.23% on 1/8
+HFRinc	686672496838352896	2016-01-11T22:14:15	Fixed Income hedge funds gain FRI as US, Euro equities extend losses on US employment report, w/ HFRX FixedIncomeCredit Index up +0.11%
+HFRinc	686672033485201408	2016-01-11T22:12:25	Relative Value HFs gain FRI as US, Euro equities extend losses on US employment report, w/ HFRX RV: FIConvertibleArbitrage Index up +0.17%
+HFRinc	686671927344103424	2016-01-11T22:11:59	RV hedge funds gain FRI as US, Euro equities extend losses on US employment report, w/ HFRX RelativeValueArbitrage Index up +0.14% on 1/8
+HFRinc	686671859954286592	2016-01-11T22:11:43	Macro HFs gain FRI as US, Euro equities extend losses on US employment report, w/ HFRX Macro: SystematicDiversifiedCTA Index up +0.15%
+HFRinc	686671592324136960	2016-01-11T22:10:40	EventDriven HFs gain FRI as US, Euro equities extend losses on US employment report, w/ HFRX ED: DistressedRestructuring Index up +0.22%
+HFRinc	686671467501600768	2016-01-11T22:10:10	Hedge funds gain FRI as US, Euro equities extend losses on US employment report, w/ HFRX MarketDirectional Index up +0.81% on 1/8
+HFRinc	686571159937126401	2016-01-11T15:31:35	"HFR: Hedge fund indexes end 2015 in the red" see our mention in pensionsnews here: 
+HFRinc	685596952717754368	2016-01-08T23:00:25	EM HFs gain Thurs as global equities post steep losses, led by Shanghai market closure, w/ HFRX EmergingMarketsComposite Index up +0.04%
+HFRinc	685596849059676160	2016-01-08T23:00:01	Macro HFs gain Thurs as global equities post losses, led by Shanghai market closure, HFRX Macro: SystematicDiversifiedCTA Index up +0.16%
+HFRinc	685596126716669952	2016-01-08T22:57:09	EH funds gain Thurs as global equities post steep losses, led by Shanghai market closure, w/ HFRX EH: EquityMarketNeutral Index up +0.11%
+HFRinc	685569919207882752	2016-01-08T21:13:00	HFRI Macro: SystematicDiversified Index led Macro declines in Dec and FY 2015, falling -2.4 and -2.3%, respectively
+HFRinc	685569865013276673	2016-01-08T21:12:47	HFRI Currency Index led Macro sub-strategy performance for the year, gaining +0.3% in December and +1.4% for 2015
+HFRinc	685569827985948672	2016-01-08T21:12:38	HFRI Macro Index AssetWeighted was flat in 2015, returning 0.00 percent
+HFRinc	685569801570287616	2016-01-08T21:12:32	HFRI Macro Index fell -1.4% in Dec, bringing FY 2015 performance to a decline of -1.3%
+HFRinc	685569532086255616	2016-01-08T21:11:28	HFRI Activist Index lost -0.6% in December, though the Index gained +1.5% for 2015
+HFRinc	685569500440207360	2016-01-08T21:11:20	HFRI MergerArbitrage Index gained +1.2% in December and +3.4% for 2015, strongest annual performance since 2013 
+HFRinc	685569440260308992	2016-01-08T21:11:06	HFRI EventDriven Index declined -0.4 and -2.9%, respectively, in December and FY 2015, with declines led by HFRI Distressed Index
+HFRinc	685569395876212736	2016-01-08T21:10:55	HFRI Credit Index, comprised of all alternative credit strategies, fell -1.0% in Dec and -1.1% for the year
+HFRinc	685565210254426112	2016-01-08T20:54:17	HFRI YieldAlternatives Index declined -4.6% in December 
+HFRinc	685565106055335936	2016-01-08T20:53:53	RVA sub-strategies led by HFRI Volatility Index in both Dec and FY 2015, advancing +0.5% and +7.0%
+HFRinc	685565074627399682	2016-01-08T20:53:45	HFRI RelativeValueArbitrage Index AssetWeighted gained +0.9% for 2015 
+HFRinc	685565025604382720	2016-01-08T20:53:33	FI-based HFRI RelativeValueArbitrage Index declined -0.2% in 2015 after falling -0.85% in December
+HFRinc	685564987708854272	2016-01-08T20:53:24	HFRI EquityMarketNeutral Index led EH sub-strats in Dec w/ +0.7% gain, while HFRI TechnologyHealthcare Index gained +6.0%
+HFRinc	685564952229183488	2016-01-08T20:53:16	HFRI EquityHedge Index AssetWeighted posted narrow -0.1% decline in Dec and advanced +1.8% for 2015
+HFRinc	685564914660839424	2016-01-08T20:53:07	HFRI EquityHedge Index fell -0.6% in Dec, bringing FY 2015 performance to a -0.4% decline
+HFRinc	685555053222952960	2016-01-08T20:13:56	HFRI AssetWeighted Index has averaged an annualized gain of +4.6% 
+HFRinc	685554997010927616	2016-01-08T20:13:42	HFRI AssetWeighted Index, fell -1.3% in Dec, and -0.4% for 2015
+HFRinc	685554963389386752	2016-01-08T20:13:34	55% of all hedge funds posted gains for 2015 HFRPressRelease
+HFRinc	685554934373208064	2016-01-08T20:13:28	HFRI FundWeightedComposite Index declined -0.85% in Dec, ending 2015 down -0.85%, only 4th annual decline since 1990
+HFRinc	685554891276726272	2016-01-08T20:13:17	HFR Press Release: “Asset Weighted Equity Hedge, Relative Value Arbitrage post 2015 gains”
+HFRinc	685554851707662336	2016-01-08T20:13:08	HFR Press Release: “HFR launches HFRI Asset Weighted Indices” 
+HFRinc	685554727161954304	2016-01-08T20:12:38	HFR Press Release: “Energy, Quant strategies lead HFRI to 4th calendar year decline since 1990”
+HFRinc	685554683008557057	2016-01-08T20:12:28	HFRI Index Flash Update: “DECEMBER LOSSES MOVE HEDGE FUNDS TO DECLINE FOR 2015” 
+HFRinc	685235645623570433	2016-01-07T23:04:43	UCITS hedge funds gain WED, equities and energy extend steep losses, with HFRU Macro Index up +0.07% on 1/6/16
+HFRinc	685235237874368512	2016-01-07T23:03:06	EmergingMarkets hedge funds gain WED, equities and energy extend steep losses, with HFRX EmergingMarketsComposite Index up +0.19% on 1/6
+HFRinc	685235174531969024	2016-01-07T23:02:51	Macro hedge funds gain WED, equities and energy extend steep losses, with HFRX Macro: SystematicDiversifiedCTA Index up +1.23% on 1/6/16
+HFRinc	685235127811608576	2016-01-07T23:02:40	Macro hedge funds gain WED, equities and energy extend steep losses, with HFRX MacroCTA Index up +0.51% on 1/6/16 
+HFRinc	685235049470365697	2016-01-07T23:02:21	EventDriven hedge funds gain WED, equities and energy extend steep losses, with HFRX ED: MergerArbitrage Index up +0.09% on 1/6/16
+HFRinc	685235001735036928	2016-01-07T23:02:10	EquityHedge funds gain WED, equities and energy extend steep losses, with HFRX EH: EquityMarketNeutral Index up +0.13% on 1/6/16
+HFRinc	685234899020693505	2016-01-07T23:01:45	Hedge funds gain WED, equities and energy extend steep losses, with HFRX AbsoluteReturn Index up +0.03% on 1/6/16 
+HFRinc	685142219104256000	2016-01-07T16:53:29	HFRU Macro Index declined -2.03% for Dec and -1.79% for 2015, with losses from systematic CTAs managers 
+HFRinc	685142168348921856	2016-01-07T16:53:16	HFRU RelativeValueArbitrage Index declined -1.22% for Dec &amp; a modest gain of +0.07% for 2015
+HFRinc	685142128217817088	2016-01-07T16:53:07	HFRU EquityHedge Index declined -0.98% for Dec ending 2015 w/ a +4.01% gain, as European equities led losses for the month
+HFRinc	685142096932507649	2016-01-07T16:52:59	HFRU EventDriven Index declined -0.18% for Dec &amp; -0.36% for 2015, from declines in Global Special Situations equity
+HFRinc	685142067442405377	2016-01-07T16:52:52	UCITS HFs posted declines for Dec, w/ HFRU HedgeFundComposite Index down -1.24%, ending 2015 w/ a +1.47% gain 
+HFRinc	685141841478483968	2016-01-07T16:51:58	"HFR's Kenneth Heinz explains the impact rising rates will have on hedge funds in 2016" see video here: 
+HFRinc	685141735207383042	2016-01-07T16:51:33	HFR President Ken Heinz on video here: 
+HFRinc	685126273148928001	2016-01-07T15:50:07	UCITS HFs gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRU RelativeValueArbitrage Index up +0.04% on 1/5
+HFRinc	685126184657534976	2016-01-07T15:49:46	UCITS hedge funds gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRU Macro Index up +0.08% on 1/5
+HFRinc	685126045083672576	2016-01-07T15:49:12	UCITS hedge funds gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRU EventDriven Index up +0.10% on 1/5
+HFRinc	685124601228075008	2016-01-07T15:43:28	UCITS hedge funds gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRU EquityHedge Index up +0.13% on 1/5
+HFRinc	685124550695096325	2016-01-07T15:43:16	UCITS hedge funds gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRU HedgeFundComposite Index up +0.10% on 1/5
+HFRinc	685124486060851200	2016-01-07T15:43:01	Global HFs gain Tues as equities stabilize, energy extends losses, w/ HFRX MultiRegion Index up +0.19% on 1/5 
+HFRinc	685124302601981952	2016-01-07T15:42:17	RelativeValue hedge funds gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRX RV: MultiStrategy Index up +0.23%
+HFRinc	685124222876692481	2016-01-07T15:41:58	RelativeValue HFs gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRX RV: FIConvertibleArbitrage Index up +0.03%
+HFRinc	685124101908774913	2016-01-07T15:41:29	RelativeValue HFs gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRX RelativeValueArbitrage Index up +0.19%
+HFRinc	685123929376096256	2016-01-07T15:40:48	Macro HFs gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRX Macro: SystematicDiversifiedCTA Index up +0.59%
+HFRinc	685123819783065601	2016-01-07T15:40:22	Macro hedge funds gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRX MacroCTA Index up +0.27% on 1/5
+HFRinc	685123758965657600	2016-01-07T15:40:07	EventDriven HFs gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRX ED: SpecialSituations Index up +0.03% on 1/5
+HFRinc	685123655785824256	2016-01-07T15:39:43	EventDriven hedge funds gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRX ED: MergerArbitrage Index up +0.10%
+HFRinc	685123597476573184	2016-01-07T15:39:29	EquityHedge funds gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRX EH: EquityMarketNeutral Index up +0.11%
+HFRinc	685123498151264257	2016-01-07T15:39:05	Hedge funds gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRX EqualWeightedStrategies Index up +0.05% on 1/5
+HFRinc	685122519976652801	2016-01-07T15:35:12	HFs gain Tues as equities stabilize, USD gains, energy extends losses, w/ HFRX GlobalHedgeFund Index up +0.04% 
+HFRinc	684869815727620096	2016-01-06T22:51:02	EnergyInfrastructure hedge funds gain MON as Chinese equities lead steep losses in global equities, w/ HFRX MLP Index up +1.39% on 1/4/16
+HFRinc	684841659738099713	2016-01-06T20:59:10	UCITS hedge funds gain as oil falls, USD gains, equities mixed, in final trading day of ’15, w/ HFRU EventDriven Index up +0.10% on 12/31
+HFRinc	684840394601857024	2016-01-06T20:54:08	UCITS hedge funds gain as oil falls, USD gains, equities mixed, in final trading day of ’15, w/ HFRU EquityHedge Index up +0.13% on 12/31
+HFRinc	684840255816466432	2016-01-06T20:53:35	EnergyInfrastructure HFs gain as oil falls, USD gains, equities mixed, in final trading day of ’15, w/ HFRX MLP Index up +2.93% on 12/31
+HFRinc	684839994251329538	2016-01-06T20:52:32	NorthAmerican HFs gain as oil falls, USD gains, equities mixed, in final trading day of ’15 w/ HFRX NorthAmerica Index up +0.15% on 12/31
+HFRinc	684838006964916224	2016-01-06T20:44:39	EventDriven HFs gain as oil falls, USD gains, equities mixed on 12/31 as HFRX ED: DistressedRestructuring Index up +0.28%
+HFRinc	684837809899741184	2016-01-06T20:43:52	Hedge funds gain as oil falls, USD gains, equities mixed, in final trading day of ’15, w/ HFRX MarketDirectional Index up +0.83% on 12/31
+HFRinc	684818133077495809	2016-01-06T19:25:40	HFRX RelativeValueArbitrage Index declined -1.92% for Dec, as high yield credit &amp; arbitrage deal spreads widened
+HFRinc	684818001934168064	2016-01-06T19:25:09	HFRX MergerArbitrage Index gained +0.99% for Dec, ending 2015 with a gain of +8.40%, its best yearly performance since 2006
+HFRinc	684817962658697216	2016-01-06T19:25:00	HFRX EventDriven Index down -0.93% for Dec, as US Federal Reserve increased US Treasury interest rates
+HFRinc	684817885336698880	2016-01-06T19:24:41	HFRX MarketNeutral ended 2015 gaining +5.46%, best performing year since 2000, and 2nd best since inception 
+HFRinc	684817828973658112	2016-01-06T19:24:28	HFRX MarketNeutral Index gained +0.34% in Dec from mixed performance in mean reverting, factor based strategies
+HFRinc	684817788225994752	2016-01-06T19:24:18	HFRX FundamentalGrowth Index gained +0.58% in Dec from exposure to Global Healthcare &amp; small-cap equities in US &amp; Japan
+HFRinc	684817260813234176	2016-01-06T19:22:12	HFRX EquityHedge Index declined -1.10% for Dec as European equities led losses for the month 
+HFRinc	684817070156984320	2016-01-06T19:21:27	HFRX MacroSystematicDiversifiedCTA Index down -1.11% for Dec, w/ 2015 at a -0.92% decline, as Energy &amp; equities extended declines
+HFRinc	684817032064270337	2016-01-06T19:21:18	HFRX MacroCTA Index down -1.40% for Dec, w/ contributions from declines in CTAs &amp; Discretionary FI strategies
+HFRinc	684817000657358848	2016-01-06T19:21:10	HFRX GlobalHedgeFund Index posted a decline of -1.33% for December
+HFRinc	684816912606339072	2016-01-06T19:20:49	HFRX AbsoluteReturn Index down -0.42% for Dec, completing a gain of +2.86% for 2015 
+HFRinc	682616413266157568	2015-12-31T17:36:49	Global hedge funds gain on Tues as equities, energy gain, with HFRX Multi-Region Index gaining +0.22% for 12/29/15
+HFRinc	682616343992991744	2015-12-31T17:36:33	Emerging Markets hedge funds gain on Tues as equities, energy gain, with HFRX EM Index gaining +0.18% for 12/29/15
+HFRinc	682616281669873664	2015-12-31T17:36:18	North American hedge funds gain on Tues as equities, energy gain, with HFRX North American Index gaining +0.19% for 12/29/15
+HFRinc	682616206474362880	2015-12-31T17:36:00	Relative Value Arbitrage hedge funds gain on Tues as equities, energy gain, with HFRX Convertible Arbitrage Index gaining +0.16% on 12/29/15
+HFRinc	682616017890095104	2015-12-31T17:35:15	Relative Value Arbitrage hedge funds gain on Tues as equities, energy gain, with HFRX RVA Index gaining +0.10% for 12/29/15
+HFRinc	682615947325124608	2015-12-31T17:34:58	Event Driven hedge funds gain on Tues as equities, energy gain, with HFRX Special Situations Index gaining +0.44% for 12/29/15
+HFRinc	682615884809031680	2015-12-31T17:34:43	Event Driven hedge funds gain on Tues as equities, energy gain, with HFRX Merger Arbitrage Index gaining +0.20% for 12/29/15
+HFRinc	682615801761824768	2015-12-31T17:34:24	Event Driven hedge funds gain on Tues as equities, energy gain, with HFRX Event Driven Index gaining +0.35% for 12/29/15
+HFRinc	682615743473565697	2015-12-31T17:34:10	Equity Hedge funds gain on Tues as equities, energy gain, with HFRX Fundamental Value Index gaining +0.67% for 12/29/15
+HFRinc	682615661751750656	2015-12-31T17:33:50	Equity Hedge funds gain on Tues as equities, energy gain, with HFRX Fundamental Growth Index gaining +0.31% for 12/29/15
+HFRinc	682615572014628864	2015-12-31T17:33:29	Equity Hedge funds gain on Tues as equities, energy gain, with HFRX Equity Market Neutral Index gaining +0.33% for 12/29/15
+HFRinc	682615501135032320	2015-12-31T17:33:12	Equity Hedge funds gain on Tues as equities, energy gain, with HFRX Equity Hedge Index gaining +0.55% for 12/29/15
+HFRinc	682615395950268416	2015-12-31T17:32:47	Hedge funds gain on Tues as equities, energy gain, with HFRX Market Directional Hedge Fund Index gaining +0.15% for 12/29/15

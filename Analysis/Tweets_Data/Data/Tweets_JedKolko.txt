@@ -1,0 +1,900 @@
+JedKolko	726182390637289472	2016-04-29T22:52:28	emilymbadger both what and whether. To a totally dull dresser like me, every day in San Francisco feels like Halloween.
+JedKolko	726178656347811840	2016-04-29T22:37:38	emilymbadger Before I clicked on the image and saw it was a building, I assumed it would be an outfit.
+JedKolko	726169671536267268	2016-04-29T22:01:55	BetseyStevenson jbarro Those cookies notwithstanding, it's worse to buy salted butter by accident than unsalted. You can always add salt.
+JedKolko	726157206270300161	2016-04-29T21:12:23	jbarro Some of the best chocolate chip cookies I ever tasted were made with salted butter BetseyStevenson
+JedKolko	726139683227324416	2016-04-29T20:02:46	JimPethokoukis My sense is that much of recent press is due to research efforts, like ycombinator. But maybe that's just the part I see.
+JedKolko	726137676680679424	2016-04-29T19:54:47	Proper basic income studies take years. Start experiments now so we'll know the results if and when we need them.  
+JedKolko	726108514754551808	2016-04-29T17:58:55	conorsen or for the 1920's
+JedKolko	726099021454929921	2016-04-29T17:21:11	nataliemjb StatStas I did not make that sufficiently clear in the post -- apologies.
+JedKolko	726095646298501120	2016-04-29T17:07:46	dylanmatt But we need to give him points for being an economist named Jed.
+JedKolko	726092732096090113	2016-04-29T16:56:12	When the Bay Area won't build, the Central Valley does. With some harsh consequences:  
+JedKolko	726088388244181000	2016-04-29T16:38:56	WithoutADout Official metro def (per OMB) is all of Lancaster County. All metros in US comprise entire counties. 
+JedKolko	726087465795092481	2016-04-29T16:35:16	nataliemjb StatStas Lists show 500k+ only, but analysis was full US, w/ PUMAs rolled/allocated to metros/micros. Email me plz for more
+JedKolko	726078754414448640	2016-04-29T16:00:39	mikesimonsen rolfpendall Those are near the median similarity. Places can be dissimilar from the U.S. average in different directions
+JedKolko	726076188939030528	2016-04-29T15:50:27	Swerdlick And I didn't even mention the electoral college/two-Senators-per-state issues.
+JedKolko	726072273849847808	2016-04-29T15:34:54	You ask so nicely. Of pop-500k+ metros, nearest to median on similarity index: Minn-StP, Salt Lake City, Dayton, Chattanooga. rolfpendall
+JedKolko	726062030604529664	2016-04-29T14:54:12	Millennials and the Working Class Are Leaving America's Expensive Cities 
+JedKolko	726029887719481344	2016-04-29T12:46:28	How should we evaluate Obama's economic record? 
+JedKolko	726043494515630080	2016-04-29T13:40:32	money is powerful.  
+JedKolko	725774085246996480	2016-04-28T19:50:00	narhenry Neil_Irwin Right. This was done at the metro level. Looking at neighborhoods would tell a different story.
+JedKolko	725773077468971008	2016-04-28T19:46:00	RexDangerSeeker Analysis is metros, not cities. Less than 1/8 of Lancaster metro residents live in Lancaster city.
+JedKolko	725770916576157696	2016-04-28T19:37:25	jludwig86 yes
+JedKolko	725762461463244800	2016-04-28T19:03:49	lester5050 bencasselman ThadDomina it was under-explained in the footnotes. Apologies
+JedKolko	725761788227125248	2016-04-28T19:01:08	ThadDomina FiveThirtyEight See previous tweet. Lists show 500k+ only, but analysis was full US, PUMA-level. See rural OH/KY mention, e.g.
+JedKolko	725760724413247488	2016-04-28T18:56:55	lester5050 bencasselman Lists show 500k+ only, but analysis was full US, w/ PUMAs rolled/allocated to metros/micros. Email me if q's
+JedKolko	725749775077793792	2016-04-28T18:13:24	lymanstoneky Only because (1) I know you can do it, (2) it's not that hard, (3) you'll enjoy it, and (4) I'll care what you find.
+JedKolko	725749421456134145	2016-04-28T18:12:00	lymanstoneky I actually did the occupation-mix-only version within the last year, just for fun, and now I can't find it.
+JedKolko	725749198025453568	2016-04-28T18:11:07	lymanstoneky But I agree with lots of your suggestions. Have at it -- I'm eager to see what you find.
+JedKolko	725748876414607360	2016-04-28T18:09:50	lymanstoneky I wanted to capture all the age/race/eth/educ cells since they don't each affect politics, attitudes, etc in linear way
+JedKolko	725747955802624002	2016-04-28T18:06:11	lymanstoneky Rather do separately and see how compares that have to come up with weighting schemes for aggregation.
+JedKolko	725747490360717312	2016-04-28T18:04:20	lymanstoneky Yes. Do occupation or industry alone. Then see whether places w/ most average occ/ind mix are places w/ most average demos
+JedKolko	725746190516555776	2016-04-28T17:59:10	lymanstoneky ... or where economics &amp; market dynamics look most like U.S. Sorta like this (without the time lag): 
+JedKolko	725745487270137856	2016-04-28T17:56:22	lymanstoneky ... like this basic demos one vs an industry-mix or occupation-mix one ...
+JedKolko	725745331615354881	2016-04-28T17:55:45	lymanstoneky It's hard to combine tons of unrelated variables. But definitely worth comparing results using separate small sets of vars ...
+JedKolko	725743279694712832	2016-04-28T17:47:36	lymanstoneky ... though religion only available at county aggregate level from RCMS, not individual level from Census.
+JedKolko	725742969492377600	2016-04-28T17:46:22	lymanstoneky If sample size permitted crossing age/race/eth/educ with more variables, I would have added origin &amp; religion ...
+JedKolko	725742041766842368	2016-04-28T17:42:41	BrianRKnight ByronTau BEA has local PPPs. That would handle cost-of-living diffs but there are still inflation-adjusted local wage premia
+JedKolko	725741769707524096	2016-04-28T17:41:36	BrianRKnight ByronTau ... so a person's income, industry, and occupation might depend on where they live. I wrestled with that.
+JedKolko	725741606809137152	2016-04-28T17:40:57	BrianRKnight ByronTau Yes, but tricky. Income partly reflects local wage premia and cost-of-living differences ...
+JedKolko	725741105933770752	2016-04-28T17:38:57	BCAppelbaum Among the 104 metros with 500k+ people, NY is 31st and WashDC is 76th. SF Bay Area is 88th.
+JedKolko	725739939120336896	2016-04-28T17:34:19	The_Suburbanist Which demographic group's culture are you thinking of as "culturally normal?"
+JedKolko	725738324934037504	2016-04-28T17:27:54	If you hear 'normal America' and think 'rural Ohio', you've got 1950 America in mind. 
+JedKolko	725737927716655106	2016-04-28T17:26:20	emayfarris TedNesi Correct. 6 race/ethnicity categories based on racesing &amp; hispan variables in ipums
+JedKolko	725736350922735616	2016-04-28T17:20:04	When politicians talk about "normal America" they're thinking of the the 1950s, not today.  
+JedKolko	725735492013031424	2016-04-28T17:16:39	davefymbo Unfortunately the sample size for individual metros in the 1950 Census via ipums is small.
+JedKolko	725734946984235008	2016-04-28T17:14:29	I agree with fmanjoo jbouie that 'normal America' is not a tiny town in Maine. Instead, try New Haven, or Tampa. 
+JedKolko	725734057678540800	2016-04-28T17:10:57	‘Normal America’ Is Not A Small Town Of White People 
+JedKolko	725725346784403460	2016-04-28T16:36:20	Census's 543k household-formation # is almost certainly another lowball estimate.  
+JedKolko	725699204094394368	2016-04-28T14:52:27	mattyglesias That sounds like my kind of coloring book!
+JedKolko	725698531797782529	2016-04-28T14:49:47	mattyglesias If having kids won't push you to the suburbs, perhaps wanting to live where there's more single-family-home sale data will.
+JedKolko	725697945056608256	2016-04-28T14:47:27	Great reporting on coastal versus inland California. They're more connected yet more unequal.  
+JedKolko	725694278584950784	2016-04-28T14:32:53	America’s great housing divide: Are you a winner or loser? 
+JedKolko	725692612691140608	2016-04-28T14:26:16	And here is a story about insane housing in the Bay Area — seen from Stockton 80 miles away:  
+JedKolko	725690464498642945	2016-04-28T14:17:44	We looked at how home values have changed in 19,000 U.S. zip codes over more than a decade. Now come play with it! 
+JedKolko	725694010451357697	2016-04-28T14:31:49	CPS microdata show uptick in '16 Q1 headship rate YoY, which is consistent w/ household formation of 1.3-1.4m, not 543k as Census reported
+JedKolko	725693154570039296	2016-04-28T14:28:25	Census says household formation 543k.  No way. My guess is 1300-1400k. Here's why: 
+JedKolko	725679847867965444	2016-04-28T13:35:32	Yet only 0.5% are "gig economy" jobs, defined as "short-term jobs through a mobile-app" 
+JedKolko	725667137315069953	2016-04-28T12:45:02	The Stanford Daily chose possibly the most banal headline I've ever seen for a blockbuster national political story  
+JedKolko	725666830270898176	2016-04-28T12:43:49	Reason number I've-lost-count for why San Francisco doesn't build more housing. 
+JedKolko	725663829074567168	2016-04-28T12:31:53	U.S. GDP grew 0.5% in first quarter. Solid consumer spending offset by pullback in biz investment, falling exports. 
+JedKolko	725479555239043072	2016-04-28T00:19:39	If we only built housing where nothing of historical interest ever happened, we'd call it sprawl.  
+JedKolko	725460751733792768	2016-04-27T23:04:56	Here's what happens when you spend a day talking seriously about the suburbs. "A New Lens On Suburbia"  MIT
+JedKolko	725098811131981824	2016-04-26T23:06:42	IanHathaway BGOV JoshZumbrun Both due to pop growth and LFPR changes (BLS projections) 
+JedKolko	725098156250136576	2016-04-26T23:04:06	IanHathaway BGOV JoshZumbrun Even though the fastest-growing segment of the workforce will be 55+, by a mile.
+JedKolko	725097101596590081	2016-04-26T22:59:55	JoshZumbrun What's the origin of the 75% claim? That's what I can't figure out.
+JedKolko	725096081780936704	2016-04-26T22:55:52	IanHathaway BGOV JoshZumbrun Clearly debunked. But I'm curious how this misconception originated. I assume 75% refers to something else.
+JedKolko	725094285914202112	2016-04-26T22:48:44	IanHathaway BGOV How could one get to the 75% number? Everyone under 45 in 2024 (Millennials + Gen-Next) will be just 56% of workforce.
+JedKolko	725075625485029376	2016-04-26T21:34:35	SFCitizen No offense intended to the toughest guys on the old S.F. waterfront.
+JedKolko	725071713327677440	2016-04-26T21:19:02	We'll learn to say Acela correctly if you all promise to stop saying Cali, Frisco, and San Fran. Deal? 
+JedKolko	725047151223406592	2016-04-26T19:41:26	Remember those claims a few years ago that manufacturing would lead the economic recovery? 
+JedKolko	725040496326762496	2016-04-26T19:14:59	TimAeppel that's thankfully not a threat we human mammals typically face
+JedKolko	725038050124800000	2016-04-26T19:05:16	I hope humans came in at least a close second in the voting.  
+JedKolko	724998502678302720	2016-04-26T16:28:07	The Driverless Truck is Coming, and It’s Going to Automate Millions of Jobs  via flexport
+JedKolko	724695293451595776	2016-04-25T20:23:16	And yet: boomers, not millennials, are driving the biggest shifts in the age distribution. pewresearch FactTank 
+JedKolko	724657877873389569	2016-04-25T17:54:36	Our faculty director carolgalante4 weighs in on strategies for housing affordability in high cost cities: 
+JedKolko	724629938897326080	2016-04-25T16:03:35	Finally, thanks to ellenhuet, a conjecture on a high-employment job of the future. AI needs data. People can train. 
+JedKolko	724640530097786880	2016-04-25T16:45:40	NickTimiraos Yet wanting isn't enough. For population, at least, the fastest-growing suburbs are less urban ones. 
+JedKolko	724592046862905344	2016-04-25T13:33:00	What happens if you just give people money instead of other forms of welfare? 
+JedKolko	724006351114891265	2016-04-23T22:45:40	CJGabbe tompaper Yup. Better than 1/7, as I was surprised to discover.
+JedKolko	723935029684883456	2016-04-23T18:02:15	First Seder falls only on M, W, F, or Sa. tompaper 
+JedKolko	723596797206245376	2016-04-22T19:38:14	Justin Fox: Jobs keep going west  
+JedKolko	723529566736654336	2016-04-22T15:11:05	DKThomp JoshZumbrun gerunds are the new adverbs
+JedKolko	723528070909435909	2016-04-22T15:05:09	JoshZumbrun Can we go after "law of large numbers" next?
+JedKolko	723527369642790912	2016-04-22T15:02:22	"The great 'ethnic food' lie". Ugh, men.  Super-interesting, robferdman 
+JedKolko	723524101378170880	2016-04-22T14:49:22	In case you were looking to add a last-minute shellfish dish to tonight's Seder. (From nytimes morning briefing.) 
+JedKolko	723508205146370049	2016-04-22T13:46:12	Passover finally begins tonight, almost 2 weeks after the median first night of Passover (April 9). 
+JedKolko	722958427119476736	2016-04-21T01:21:35	I'm at IFTF annual Ten Year Forecast Retreat: "Generation Transition"  Speaking on &amp; exhibiting Houslets TYF2016
+JedKolko	722879338891206656	2016-04-20T20:07:19	ebwashington MeadBadger hamandcheese I know a grad student working on this. If u want, email me  &amp; I'll intro
+JedKolko	722866724438052864	2016-04-20T19:17:11	I wonder who would have ended up on the bills if this required Senate confirmation.  
+JedKolko	722825277496246277	2016-04-20T16:32:30	Most Millennials are nothing like "Millennials." Great DKThomp corrective. 
+JedKolko	722825378717241344	2016-04-20T16:32:54	BCAppelbaum And the Harriet Tubman Home in Auburn, NY, near Syracuse, where she lived the last ~50 years of her life.
+JedKolko	722454756539506689	2016-04-19T16:00:11	lehnerjw ModeledBehavior M_C_Klein conorsen lymanstoneky the original version 
+JedKolko	722453803878846464	2016-04-19T15:56:24	lehnerjw ModeledBehavior M_C_Klein conorsen lymanstoneky yes. On trulia blog
+JedKolko	722452451178127360	2016-04-19T15:51:01	Kind of amazing how fast Bay Area job growth still is despite the housing constraints. 
+JedKolko	722451051157172225	2016-04-19T15:45:27	Oh, right. Facts! ModeledBehavior M_C_Klein conorsen lymanstoneky  
+JedKolko	722447019273428992	2016-04-19T15:29:26	M_C_Klein conorsen Or when the oldest kid turns 5.
+JedKolko	722444510777581568	2016-04-19T15:19:28	lymanstoneky Can't comment. They only taught us about Passover at Temple Beth El (Rochester NY) sunday school.
+JedKolko	722444004038578177	2016-04-19T15:17:27	It's not you. Passover really is late this year.   Median date of first seder: 4/9.  This year: 4/22. 
+JedKolko	722423469049319425	2016-04-19T13:55:51	Why 'Uber for X' companies are struggling even as Uber thrives -   via nuzzel
+JedKolko	722417518736842752	2016-04-19T13:32:12	JHWeissmann Doesn't help that nationally just 22% of voters are renters.
+JedKolko	722417115660062721	2016-04-19T13:30:36	JSiegel88 Chris_arnade I'm a Rochester native. Go Barons.
+JedKolko	722416822851534848	2016-04-19T13:29:27	EstebanHRZ Bureau of Labor Statistics, your new best friend. Metro data get released here: 
+JedKolko	722416296780963840	2016-04-19T13:27:21	Wait, did something happen to the mortgage interest deduction? Oh, you just mean those other bits of housing money 
+JedKolko	722415682223104000	2016-04-19T13:24:55	EstebanHRZ It's BLS data for March 2016. Only the raw data are available. Their summary report will be released 4/27
+JedKolko	722411936411848705	2016-04-19T13:10:02	Sharp job losses in small, oil-dependent metros. Latest BLS #'s 
+JedKolko	722411642852499456	2016-04-19T13:08:52	Rustbelt and oil towns now have the slowest job growth. 
+JedKolko	722410473430253574	2016-04-19T13:04:13	Latest metro job s: fastest growth all in South &amp; West.   Lots of Utah, Texas (ex-oil), and NorCal. 
+JedKolko	722405736630722560	2016-04-19T12:45:23	Is the apartment slowdown here?  Q1 housing permits, 2016 vs 2015, Y/Y:  single-family +14.3% multi-unit: -5.0%
+JedKolko	722183129826353153	2016-04-18T22:00:50	Congrats to all the trulia team and plevine 
+JedKolko	722168652166860800	2016-04-18T21:03:18	bencasselman ernietedeschi ModeledBehavior JoshZumbrun ... unlike trad'l survey data, no matter how large, which is usu. well-documented
+JedKolko	722168445823942657	2016-04-18T21:02:29	bencasselman ernietedeschi ModeledBehavior JoshZumbrun Perhaps the most impt difference is that "big data" is rarely well-documented ...
+JedKolko	722167733241024512	2016-04-18T20:59:39	ernietedeschi ModeledBehavior bencasselman JoshZumbrun In another sense, of course, "big data" means "too big for the tools I use"
+JedKolko	722167157702799360	2016-04-18T20:57:22	ernietedeschi ModeledBehavior bencasselman JoshZumbrun Cuz "big data" isn't only about big: it connotes organic rather than designed
+JedKolko	722165255137157125	2016-04-18T20:49:48	ModeledBehavior bencasselman JoshZumbrun ernietedeschi And in the many millions if decennial/ACS microdata. But still not "big data"
+JedKolko	722165039788982273	2016-04-18T20:48:57	JoshZumbrun ernietedeschi I think calculatedrisk excellent list is about natl macro. A top micro or local data list would include those
+JedKolko	722129443498496000	2016-04-18T18:27:30	One interesting thing is that for all the hype around BigData the entire field hasn't managed to develop a truly indispensable indicator
+JedKolko	722125577478606852	2016-04-18T18:12:08	Ranking Economic Data 
+JedKolko	722120561954938880	2016-04-18T17:52:12	At last: evidence why we California transplants from the east coast get all excited about thunderstorms.  
+JedKolko	722118240290213888	2016-04-18T17:42:59	Good work showing the limits of focusing only on net domestic migration. 
+JedKolko	722095336848666626	2016-04-18T16:11:58	Yes. Portland, Seattle, and DC metros are dense &amp; getting more so. Raleigh &amp; Charlotte are sprawly but densifying. 
+JedKolko	722090413633318912	2016-04-18T15:52:25	mattyglesias JoshZumbrun Portland, Seattle, &amp; DC metros also got denser with growth since 2000. Vegas, Austin, &amp; Phoenix sprawled.
+JedKolko	722089399110905856	2016-04-18T15:48:23	mattyglesias JoshZumbrun Charlotte &amp; Raleigh are better examples of fast-growing metros where density increased since 2000
+JedKolko	722084162815983616	2016-04-18T15:27:34	JoshZumbrun mattyglesias Matt's were sprawl without maintaining affordability. You asked for maintaining affordability without sprawl.
+JedKolko	722083414128480262	2016-04-18T15:24:36	Econ_Marshall JoshZumbrun I'm guessing Josh meant the US.  What's your favorite example here?
+JedKolko	722078973635751936	2016-04-18T15:06:57	What if sprawl is the only housing affordability strategy that actually works?  
+JedKolko	722075772228341760	2016-04-18T14:54:14	SanFrancisco marks 110 years since devastating 1906 earthquake and fire: 
+JedKolko	722069672363884544	2016-04-18T14:29:59	Come work with the indeed Hiring Lab! We're looking for a Senior Economist to join our team! We have data!!  
+JedKolko	722069566403125248	2016-04-18T14:29:34	BenRossTransit Joe_Cortright  Indeed. 
+JedKolko	722069278262829057	2016-04-18T14:28:25	MrNathanRix beavertonsjl WashcoOregon multco clackamascounty I might even settle for thinking while acting, period. :)
+JedKolko	722068140771815424	2016-04-18T14:23:54	lehnerjw TimDuy michael_hendrix Here's the original chart &amp; link:  
+JedKolko	722061599515643904	2016-04-18T13:57:55	67% of homeowners 49% of renters   voted in Nov 2012 election   (adult citizens only. CPS data) 
+JedKolko	722060050651418624	2016-04-18T13:51:45	Homeowners are: 69% of adults 72% of adult citizens 75% of registered voters 78% of actual voters (CPS, Nov '12) 
+JedKolko	722049046232178688	2016-04-18T13:08:02	Hard to make the rental crisis a presidential campaign issue since 78% of US voters are homeowners  
+JedKolko	722027553595256832	2016-04-18T11:42:38	Why the great divide is growing between affordable and expensive U.S. cities  via WSJ
+JedKolko	721919361057841153	2016-04-18T04:32:42	PowerOutage in the Mission. sfgov, you on it?
+JedKolko	721915973767303170	2016-04-18T04:19:15	Happy power outage, Castro/Mission residents.
+JedKolko	721914232808165376	2016-04-18T04:12:20	Mission Power Outage. Ugh.
+JedKolko	721840186275946497	2016-04-17T23:18:06	coreysmith_17 Actual voters, self-reported, in November 2012 election. CPS survey
+JedKolko	721835668687589376	2016-04-17T23:00:09	ferenstein yes that too. Still, federal involvement and money for housing is overwhelmingly for owners -- e.g. mortgage interest deduction
+JedKolko	721833076163129345	2016-04-17T22:49:51	Maybe presidential candidates aren't talking about the rental crisis because 78% of US voters are homeowners 
+JedKolko	721711688429383680	2016-04-17T14:47:29	jfmailander What are you calling entertaining but flawed: the history that the article describes or the article itself?
+JedKolko	721709633136672768	2016-04-17T14:39:19	Why Are America's Most Innovative Companies Still Stuck in 1950s Suburbia?  via nuzzel
+JedKolko	721391914860171264	2016-04-16T17:36:49	khuey_ ferenstein ConorDougherty In her epic TC piece kimmaicutler pointed out IIRC that protections makes renters less pro-build
+JedKolko	721391238520262656	2016-04-16T17:34:08	khuey_ ferenstein ConorDougherty Hard to say. For US overall, owners more likely to vote than renters.
+JedKolko	721390369515003905	2016-04-16T17:30:41	markasaurus hanlonbt Mark what arrival years do you think count as newcomers in these debates?
+JedKolko	721386644650078208	2016-04-16T17:15:53	hanlonbt Hmm. 2006 arrival sounds reasonable guess for line btn incumbent &amp; newcomers. What do kimmaicutler ConorDougherty think?
+JedKolko	721381857401528320	2016-04-16T16:56:52	Two years and two days ago, I put a 13,000-word story on TC. It weirdly became a movement.  
+JedKolko	721375825824600064	2016-04-16T16:32:54	hanlonbt interesting. What's your guess at the year of arrival that best defines newcomers vs incumbents? 2006? 2010?
+JedKolko	721358047231094784	2016-04-16T15:22:15	San Francisco's political fault line used to be owner v renter. Now it's also rent-protected v unprotected renters 
+JedKolko	721348716209246209	2016-04-16T14:45:10	Fun read on all the teeth gnashing over the economics fail that is SF housing policy  
+JedKolko	721343653428469761	2016-04-16T14:25:03	Young, loud and political: A group called BARF pushes for more housing in San Francisco  
+JedKolko	721028411964006400	2016-04-15T17:32:24	hueykwik voxdotcom yes. Nearly all neighborhood were below 50% for the moratorium. So was the city overall
+JedKolko	720952305571377152	2016-04-15T12:29:58	JohnWake My dissertation, which you don't want to read.
+JedKolko	720795604398448640	2016-04-15T02:07:18	Admit it -- you've always wanted to work with TaraSinc. Well, here's your chance.  
+JedKolko	720773486377996288	2016-04-15T00:39:25	If modeled on London's Borough Market, great news.   The Mission is getting an upscale food market: Foodhall 
+JedKolko	720773504430256128	2016-04-15T00:39:29	Bougie Food Hall Named Foodhall To Gentrify 16th Street  via eatersf
+JedKolko	720767001782652928	2016-04-15T00:13:39	mattyglesias Also the right call for eight days of better digestive health.
+JedKolko	720764819725361153	2016-04-15T00:04:58	Whoa. Kitniyot for everyone!  
+JedKolko	720728030184894464	2016-04-14T21:38:47	Learned new word today: Goysplaining, which is apparently what Kasich did quite a bit of while campaigning in NYC. 
+JedKolko	720727635152793601	2016-04-14T21:37:13	New battleground for Mission District housing wars dubbed "Titanic Mess on South Van Ness"  
+JedKolko	720661333813792768	2016-04-14T17:13:45	Let's go further: mortgage interest deduction has long had less impact (i.e. none) on homeownership than you think.  
+JedKolko	720660431174381569	2016-04-14T17:10:10	JustinWolfers Only because I thought it was too obscure a discovery; not because I thought it offered some competitive advantage.
+JedKolko	720658874684952576	2016-04-14T17:03:59	JustinWolfers It is life-changing. I discovered it recently. Much prettier than graph-export in Stata.
+JedKolko	720658637203464192	2016-04-14T17:03:02	DanielKayHertz CityObs I would never get anything else done.
+JedKolko	720656103529275392	2016-04-14T16:52:58	DanielKayHertz CityObs Agreed. Great way to summarize huge amount of info but wow that would be a hard chart to explain.
+JedKolko	720643167205232641	2016-04-14T16:01:34	CityObs though some of the trends are widening existing gaps. Seniors, already less urban, are becoming even less so.
+JedKolko	720639084440367104	2016-04-14T15:45:21	Correct. Higher-density urban n'hoods remain polarized, but with a more even balance of richest &amp; poorest. CityObs 
+JedKolko	720634882104274944	2016-04-14T15:28:39	Housing policy, from glass houses. 
+JedKolko	720632317123756033	2016-04-14T15:18:27	JedKolko voxdotcom So his constituency doesn't reflect the median San Francisco voter on housing issues.
+JedKolko	720631180995874816	2016-04-14T15:13:56	voxdotcom Supe Farrell represents SF n'hoods that most strongly opposed the Mission moratorium (Prop I, Nov '15) 
+JedKolko	720627703154614274	2016-04-14T15:00:07	Supervisor Mark Farrell wants San Francisco to study the economic impact of restrictive zoning 
+JedKolko	720629136029429761	2016-04-14T15:05:49	"Finding more effective ways to reduce housing costs would thus not only save money but prolong lives." 
+JedKolko	720618348900319234	2016-04-14T14:22:57	Hmmm.  Innovation/ startups concentrated in Bay Area &amp; Bos-Wash ...   
+JedKolko	720616816989458433	2016-04-14T14:16:52	Is there any careful research, not funded by the industry, that shows that the mortgage interest deduction boosts homeownership?
+JedKolko	720611907229462529	2016-04-14T13:57:21	Essential and brilliant. A must-read for data scientists, analysts, and anyone who talks about data, in any field.  
+JedKolko	720603668593049600	2016-04-14T13:24:37	georgepearkes Though the $1m cap makes it proportionally less valuable for those getting really really big mortgages.
+JedKolko	720602550211227648	2016-04-14T13:20:10	georgepearkes Yes. High income buyers buying more expensive homes than they would have otherwise.
+JedKolko	720601443820916736	2016-04-14T13:15:46	georgepearkes  I agree it's worse that's it's skewing more, but a good thing overall if people realize its irrelevance to homeownership
+JedKolko	720600475251318785	2016-04-14T13:11:56	georgepearkes ... so if low rates &amp; higher standard deduct mean that it costs taxpayers less and distorts fewer decisions, it's less bad
+JedKolko	720600216978599938	2016-04-14T13:10:54	georgepearkes Yes but MID fails at a possibly OK goal (raising homeownership) and succeeds at a bad goal (bigger homes) ...
+JedKolko	720599564009353216	2016-04-14T13:08:18	georgepearkes conorsen M_C_Klein NickTimiraos TheStalwart If MID is bad, then the less it costs &amp; does, the less terrible it is, yes?
+JedKolko	720597575531831296	2016-04-14T13:00:24	NickTimiraos conorsen M_C_Klein georgepearkes Clearly the only thing that will save us is a new first-time homebuyer tax credit.
+JedKolko	720597249630150658	2016-04-14T12:59:07	georgepearkes conorsen M_C_Klein NickTimiraos TheStalwart Ungated version: 
+JedKolko	720597170408148992	2016-04-14T12:58:48	joelight conorsen M_C_Klein NickTimiraos There's evidence that MID affects size of home purchased. But just not the own/rent decision
+JedKolko	720596992343158784	2016-04-14T12:58:05	georgepearkes conorsen M_C_Klein NickTimiraos TheStalwart If MID had 0 effect on owning in past, it can't explain recent drop in owning
+JedKolko	720596456126611456	2016-04-14T12:55:57	georgepearkes conorsen M_C_Klein NickTimiraos TheStalwart Another: no MID effect, using 2007 &amp; earlier data 
+JedKolko	720594033588838400	2016-04-14T12:46:20	conorsen M_C_Klein NickTimiraos georgepearkes TheStalwart MID "irrelevant" for homeownership long b4 rate drop 
+JedKolko	720435790904295424	2016-04-14T02:17:32	ConorDougherty candacejackson She's at the game, and you're at home in case the stork comes?
+JedKolko	720435274577084416	2016-04-14T02:15:29	If you hear about a baby girl being born at tonight's Warriors game just FYI it's mine cause candacejackson is there on her due date.
+JedKolko	720398232430338048	2016-04-13T23:48:17	We'll be talking techatbloomberg tonight about how big data can help solve the world's biggest issues. See you there! d4gx
+JedKolko	720306221475991552	2016-04-13T17:42:40	JedKolko SFBART sfmta_muni MikeIsaac shame on the world-class city for not quickly hiding the evidence of its drug addicts and homeless
+JedKolko	720302672260128770	2016-04-13T17:28:34	The escalator at Powell Station of SFBART sfmta_muni in San Francisco, a world-class city. 
+JedKolko	720300346896044032	2016-04-13T17:19:19	bencasselman andrewflowers Now I'm curious. Will look closely.
+JedKolko	720296973790646272	2016-04-13T17:05:55	More evidence that the Midwest includes RochesterNY, home of Abbott's abbottscustard since 1902. jessicahester 
+JedKolko	720293744977645568	2016-04-13T16:53:05	andrewflowers What about it is embarrassing?
+JedKolko	720254928258633728	2016-04-13T14:18:51	What's the most compelling data (jobs, demos, wages) supporting Rust Belt optimism? sidewalklabs avanagtmael dutchpolder bruce_katz
+JedKolko	719950761673826304	2016-04-12T18:10:12	Our index shows mortgage access eased slightly Q4 2015 but still way too tight.  
+JedKolko	719859503949156352	2016-04-12T12:07:34	Is life better than it was decades ago? For some Americans, probably not  
+JedKolko	719719779792072706	2016-04-12T02:52:21	TheSamKhater conorsen DKThomp bencasselman See p. 1 of 
+JedKolko	719719063102992384	2016-04-12T02:49:31	TheSamKhater conorsen DKThomp bencasselman Fell from high in 80s &amp; 90s to low in 1996, then back up until 2005, and falling since.
+JedKolko	719596439266029569	2016-04-11T18:42:15	TheStalwart a better graph, imo, showing the same thing: 
+JedKolko	719562275590262784	2016-04-11T16:26:29	Where you live could determine how long you live   via WSJ joshzumbrun
+JedKolko	719557794572029955	2016-04-11T16:08:41	Most popular articles right now:  NYT: "For the poor, geography matters." WSJ: "Antipathy for people of faith." 
+JedKolko	719547878679523328	2016-04-11T15:29:17	Too bad that the cities where the poor live longest don't build enough housing. 
+JedKolko	719493657284517888	2016-04-11T11:53:50	Interesting that cities with high inequality also have longer life expectancy for the poor:  MarkMuro1
+JedKolko	719524079418540032	2016-04-11T13:54:43	The Rich Live Longer Everywhere. For the Poor, Geography Matters.  via UpshotNYT
+JedKolko	719285572020232192	2016-04-10T22:06:58	TruliaRalph TomVacarKTVU Looking good enough for TV! I guess if you're tweeting pics then looking good enough for radio doesn't cut it!
+JedKolko	718525859527856128	2016-04-08T19:48:09	The age group that suffered most from the housing bust? Gen X  by c_kirkham
+JedKolko	718526817099845632	2016-04-08T19:51:57	jeffsparshott including probably 50+% of those from me!
+JedKolko	718525334014963712	2016-04-08T19:46:03	conorsen DKThomp bencasselman trulia Apparently today is Gen X day: 
+JedKolko	718524447402012672	2016-04-08T19:42:32	It's been not about millennials for a little while now.  
+JedKolko	718507295991144449	2016-04-08T18:34:23	Why Talented Black and Hispanic Students Can Go Undiscovered 
+JedKolko	718506370664951808	2016-04-08T18:30:42	Declining Mobility and Restrictions on Land Use - Marginal REVOLUTION  via nuzzel
+JedKolko	718495308074737665	2016-04-08T17:46:45	JackieBlue4u DKThomp bencasselman tlwman__man The Pill is my favorite example of a disruptive technology. Great conversation starter.
+JedKolko	718494392554655744	2016-04-08T17:43:06	JackieBlue4u DKThomp bencasselman tlwman__man Yes. 
+JedKolko	718494050580475904	2016-04-08T17:41:45	Economists' forecast for 2016 housing starts down from 1.30m (Sept '15 poll) to 1.23m (April '16 poll). WSJ 
+JedKolko	718487103751860224	2016-04-08T17:14:09	Which data best show that old Rustbelt is new Brainbelt?  bruce_katz MarkMuro1 berubea1 
+JedKolko	718475585144496128	2016-04-08T16:28:22	So glad I audited Helen Vendler's class during economics graduate school.  
+JedKolko	718467040961388545	2016-04-08T15:54:25	San Francisco + San Jose (combined) top all five high-tech investment sectors, by comfortable margins.  
+JedKolko	718450450169753600	2016-04-08T14:48:30	.ATabarrok is good on why declining mobility is a bad thing.  
+JedKolko	718449439078100996	2016-04-08T14:44:29	conorsen DKThomp bencasselman I was thinking about their credit scores, but certainly yes about politics too.
+JedKolko	718445086132928514	2016-04-08T14:27:11	OldUrbanist JHWeissmann Yes, impt to account for changing age mix when looking at trends in homeownership (and most everything else)
+JedKolko	718444556212043777	2016-04-08T14:25:04	conorsen DKThomp bencasselman Yes, a relative trough. Though useful to remember the scale of the difference. 
+JedKolko	718443314396049409	2016-04-08T14:20:08	conorsen DKThomp bencasselman Here. Change in demos-adj homeownership by age. Unpublished but previously tweeted 
+JedKolko	718442583446282240	2016-04-08T14:17:14	JHWeissmann Not sure I published that. Maybe for a conference? I did it as a follow up to this: 
+JedKolko	718442302570504193	2016-04-08T14:16:07	conorsen DKThomp bencasselman that's my take, yes. though 35-49 "cyclical" force might have long-term effects
+JedKolko	718441952425803781	2016-04-08T14:14:44	conorsen DKThomp bencasselman GenX drop in homeownership not due to demographic shifts. Theirs is housing bust. 
+JedKolko	718441545846771712	2016-04-08T14:13:07	DKThomp More context and longer explanations here:   
+JedKolko	718440969314504709	2016-04-08T14:10:49	DKThomp bencasselman The decline in % married with kids is long-term and doesn't look very cyclical. 
+JedKolko	718440435304177664	2016-04-08T14:08:42	bencasselman Long-term demographic shifts -- like delayed marriage &amp; kids -- account for entire 20yr drop. 
+JedKolko	718439699564474368	2016-04-08T14:05:46	JHWeissmann And might never. Long-term demographic shifts explain entire 20yr drop in homeownership for young 
+JedKolko	718439112470953984	2016-04-08T14:03:27	This is great news for renters. 
+JedKolko	718176553914523649	2016-04-07T20:40:08	.jedkolko next! We're going to talk about the myth of American's urban renewal.
+JedKolko	718152525740793856	2016-04-07T19:04:39	jdlahart Thankfully, Google translate can.
+JedKolko	718143093220859905	2016-04-07T18:27:10	gshibayama I don't read Japanese -- but I can use Google translate! And charts need no translation :)
+JedKolko	718141074091302912	2016-04-07T18:19:09	Yes, exactly. 
+JedKolko	718113175397380096	2016-04-07T16:28:17	Looking forward to having JedKolko on WDYM to talk about his piece on the myth of urbanization 
+JedKolko	718118811379970048	2016-04-07T16:50:41	JedKolko jbarro To be fair: despite the hokeyness, I was always surprised at how good the food was.
+JedKolko	718118498908577792	2016-04-07T16:49:26	jbarro "I am shuttered." At least the Bay Area locations, AFAIK. You can still be present, whole, or ecstatic at several SoCal locations
+JedKolko	718117883532849152	2016-04-07T16:47:00	jbarro You missed now-closed Cafe Gratitude in SF. An "I am graceful" grain bowl, "I am divine" soup, or "I am present" flatbread?
+JedKolko	717819185212973056	2016-04-06T21:00:04	We are proud to be working w/ the WorldBank to use data &amp; technology to help end poverty. Thanks for the mention. 
+JedKolko	717806970938327041	2016-04-06T20:11:32	urbanophile DanielKayHertz A_R_BERG ourmaninchicago Of 104 MSAs 500k+ pop, Chicago #3 in % net dom out-mig (El Paso #1, New Haven #2)
+JedKolko	717764683432734720	2016-04-06T17:23:30	Joe_Cortright CityObs More surprisingly, high share of young adults now living w/ parents might be new normal. 
+JedKolko	717756516078452736	2016-04-06T16:51:03	Joe_Cortright CityObs my favorite kind of violence
+JedKolko	717755277697622016	2016-04-06T16:46:08	CityObs Joe_Cortright Key: demographic shifts are big, pre-date the housing cycle, &amp; unlikely to reverse. 
+JedKolko	717754382087892992	2016-04-06T16:42:34	CityObs Joe_Cortright Also, recently, homeownership trickier to measure given headship-rate shifts. 
+JedKolko	717753291958915072	2016-04-06T16:38:14	CityObs Joe_Cortright Indeed. Odd, then, the recent articles about homeownership declines for seniors.
+JedKolko	717753029974331392	2016-04-06T16:37:12	CityObs Joe_Cortright Not refuting at all. Just saying that explanation matters. Very different implications if demographics vs attitudes
+JedKolko	717752567225147392	2016-04-06T16:35:21	CityObs Adjusted for demographic shifts (esp marriage &amp; kids), young-adult homeownership same today vs 20 yrs ago 
+JedKolko	717750872449519617	2016-04-06T16:28:37	Joe_Cortright CityObs Must account for big drop in marriage &amp; childbearing to understand millennial homeownership 
+JedKolko	717446146029817856	2016-04-05T20:17:45	JonAPrior Do you have access to their full report and full metro list? Austin had been their most overvalued -- curious if still true.
+JedKolko	717335113499942913	2016-04-05T12:56:33	JeffreyLubell All of my recent posts define urban/suburban (&amp; variants) by density (tract-weighted for larger geos), not city boundaries
+JedKolko	717332510665940993	2016-04-05T12:46:12	JeffreyLubell No question that prices matter. Therefore, supply and policies that affect prices &amp; supply also matter.
+JedKolko	717332159107698689	2016-04-05T12:44:48	JeffreyLubell Yes, in 9 of the 51 million-plus metros, urban neighborhoods gained share.  6 of 9 were in the West
+JedKolko	717331697155506176	2016-04-05T12:42:58	JeffreyLubell In this approach of predicting perceptions of urbanness  region did not have a meaningful effect.
+JedKolko	717132414796087296	2016-04-04T23:31:06	.PaulKrugman: There’s a very strong case for allowing more building in our big cities  via NYTOpinion
+JedKolko	717047047619231744	2016-04-04T17:51:52	A few comments on the Seasonal Pattern for House Prices 
+JedKolko	717067990051659777	2016-04-04T19:15:05	Check out our 2010 pop density map, which shows persons per square mile.  SquareRootDay 
+JedKolko	717007469915017216	2016-04-04T15:14:36	Excited to launch Sidewalk Talk — an urban-tech discussion forum from sidewalklabs. Come join the conversation: 
+JedKolko	716988219515011073	2016-04-04T13:58:07	ModeledBehavior He's very good on urban issues &amp; econ geography. paulkrugman's short "Geography and Trade" (1991) lectures are a gem
+JedKolko	716986893137682433	2016-04-04T13:52:50	Key chart behind today's paulkrugman Cities for Everyone  is here:  
+JedKolko	716774081576574977	2016-04-03T23:47:12	JohnWake emilymbadger That's what I looked at in my dissertation in the late 1990s. Debunking "40 acres and a modem"
+JedKolko	716727713810092035	2016-04-03T20:42:57	Heresy alert! 
+JedKolko	716753250263760896	2016-04-03T22:24:26	raluca3000 Indeed.  
+JedKolko	716752424283676672	2016-04-03T22:21:09	pmarca The heretical trilogy:      
+JedKolko	716744358016466948	2016-04-03T21:49:06	People aren't urbanizing in America — wealth is:  v. JedKolko 
+JedKolko	716364993537519616	2016-04-02T20:41:38	vjon gmetcalf The real test is when their kids reach school age. Then we'll talk.
+JedKolko	716364828575576064	2016-04-02T20:40:59	MarketUrbanism mattyglesias Impt data issue: Census "homeowner vacancy rate" omits homes held off market, which rose after bust.
+JedKolko	716362966036144128	2016-04-02T20:33:35	voxdotcom mattyglesias Single-family vacancy still high. U.S. has enough homes, but wrong type &amp; place. Slide 19: 
+JedKolko	716361967099772928	2016-04-02T20:29:36	vjon gmetcalf Plz see original blogpost: . Millennials actually somewhat less urban than same age group in past
+JedKolko	716064497639809024	2016-04-02T00:47:34	Shnaps RinosPlace VinnysAtNight only the best carbs
+JedKolko	716063544828174336	2016-04-02T00:43:47	Could we get someplace like RinosPlace or VinnysAtNight in San Francisco please?
+JedKolko	716055722295951361	2016-04-02T00:12:42	Neil_Irwin ernietedeschi ModeledBehavior M_C_Klein Needless to say, I'm honored.
+JedKolko	716017232342548484	2016-04-01T21:39:45	M_C_Klein ernietedeschi MKTWgoldstein ModeledBehavior ObsoleteDogma Envy is growing. Gotta get myself hooked up somehow.
+JedKolko	716013415886667776	2016-04-01T21:24:35	Nonrelatedsense I end up going right to the source
+JedKolko	716012750410018821	2016-04-01T21:21:57	ModeledBehavior M_C_Klein ObsoleteDogma Big envy here of those who have access to Moody's Analytics.
+JedKolko	716011678945644546	2016-04-01T21:17:41	M_C_Klein ObsoleteDogma And sometimes for metro I just download the whole flat file at BLS
+JedKolko	716010756588875778	2016-04-01T21:14:01	M_C_Klein ObsoleteDogma Ouch. I have never used FRED.
+JedKolko	716009832923447296	2016-04-01T21:10:21	ObsoleteDogma There are FREDbros, and then there are BLS Series Reportbros.
+JedKolko	715987730124173312	2016-04-01T19:42:31	amandakhurley sevensixfive Hopefully this is right answer to the "wrong" question. 
+JedKolko	715909078573301760	2016-04-01T14:29:59	Also kind of amazing that the only time US has added payroll jobs for 66 straight months happening when robots are taking all the jobs
+JedKolko	715931623913558016	2016-04-01T15:59:35	oliverswang HawthorneLAT cgershen Exactly. See first subhead of latest post at 
+JedKolko	715842895534768128	2016-04-01T10:07:00	The surprisingly narrow reality of America’s urban revival 
+JedKolko	715886421932916736	2016-04-01T12:59:58	America's suburbanization marches on. Speaking at MITCAU futureofsuburbia . Charts at  
+JedKolko	715882333304451073	2016-04-01T12:43:43	Perhaps most encouraging recent trend: Employment rate of prime-age workers continues to rise. 
+JedKolko	715869100367548416	2016-04-01T11:51:08	bencasselman The missing middle of job growth will continue.  
+JedKolko	715797026873741312	2016-04-01T07:04:44	Forget Friday, today is SUPERday! Pet Shop Boys new album, SUPER, is out now.  
+JedKolko	715862044852006912	2016-04-01T11:23:06	No one beats TheEconomist at creating headlines &amp; subheads out of petshopboys titles  (runner-up: sullydish).
+JedKolko	715605413593485312	2016-03-31T18:23:20	I tried explaining Soylent to my mom and she was like, oh you mean Slimfast? I was like yes but now made by and for men, so we call it tech
+JedKolko	715732095486803968	2016-04-01T02:46:43	The homeownership rate fell less for seniors than for others, and rose for age 75+. LauraKusisto WSJ 
+JedKolko	715647247103488002	2016-03-31T21:09:34	Could we stop the spread of suburbia even if we wanted to? thisisUIC’s Robert Bruegmann lays out the issues mitcau’s FutureOfSuburbia
+JedKolko	715633741582966784	2016-03-31T20:15:54	kimmaicutler dhulser FitzTheReporter You could fail to make necessary investments in infrastructure. Oh, wait ...
+JedKolko	715633250698440711	2016-03-31T20:13:57	A low bar.  
+JedKolko	715620973974724608	2016-03-31T19:25:10	Join MITCAU today at 4:30p for a conference on the FutureofSuburbia medialab  MITdusp 
+JedKolko	715612436984938496	2016-03-31T18:51:15	The implications of shifting demographics mean companies urgently need to get to know the global Consumers2Watch:
+JedKolko	715568457098608641	2016-03-31T15:56:29	ShimbergCenter email me via my website plz
+JedKolko	702948842723913728	2016-02-25T20:10:38	Our latest addition to the macroscope: an accurate and real-time count of the world's water supply  water space
+JedKolko	715312446068563968	2016-03-30T22:59:11	How do we interpret the profusion of bigdata in insightful and sustainable ways? Join us at Bloomberg Data for Good 
+JedKolko	715254999840894976	2016-03-30T19:10:55	lukejuday lymanstoneky Rising urban demand among rich is clear. It's unclear how much the suburbanization of others is demand vs supply
+JedKolko	715252407907778560	2016-03-30T19:00:37	Hoodisnuts voxdotcom yes, it was based on entire US. Not every city/metro reflects national trend, but most do (i.e. on average they do)
+JedKolko	715251764283510784	2016-03-30T18:58:03	lukejuday if you assume rich and poor preferences shift together. But possible that demand for cities is falling among lower/middle income
+JedKolko	715251286124396544	2016-03-30T18:56:09	lukejuday "Rising share of urbanites are young" vs "rising share of young are urban." Both true but 1st also reflects fewer urban seniors
+JedKolko	715247964772372480	2016-03-30T18:42:58	lukejuday And a mistake to ignore the denominator when reporting that young adults constitute a rising share of urban residents.
+JedKolko	715247554573639681	2016-03-30T18:41:20	lukejuday Implication is that the "youthification" of cities is more about fewer urban oldsters than more urban youngsters.
+JedKolko	715246215558881280	2016-03-30T18:36:01	Fewer seniors are living in urban areas -- even higher-income seniors &amp; recent movers.   
+JedKolko	715245009226883074	2016-03-30T18:31:13	25-49 yearolds in the top tenth by income were 33% more likely to live in higher-density urban areas in 2014 vs 2000 
+JedKolko	715242198955114497	2016-03-30T18:20:03	America's urban renaissance is only for the rich  via voxdotcom
+JedKolko	715214889485275137	2016-03-30T16:31:32	American cities are booming ... for rich young college grads without kids 
+JedKolko	715214740516114433	2016-03-30T16:30:56	The people flocking to America's cities are white, wealthy, and—huh?—middle-age:\.  via slate
+JedKolko	715184084453081088	2016-03-30T14:29:07	BlairReeves conorsen Indeed. Big regional differences in racial/ethnic composition and shifts.
+JedKolko	715182236757336064	2016-03-30T14:21:47	jordanbrianl petesaunders3 Yes quite.
+JedKolko	715178022341644288	2016-03-30T14:05:02	natemcguire Yes that's the right way to look at a different but closely related question.
+JedKolko	715172361641803777	2016-03-30T13:42:32	The urbanization of educated young adults is really about white educated young adults.  
+JedKolko	715171286935277569	2016-03-30T13:38:16	Have young adults urbanized? Only those with college degrees and without school-age kids.  
+JedKolko	715170476969091072	2016-03-30T13:35:03	lukejuday Though boomers &amp; seniors with money are staying in suburbs -- including recent movers.
+JedKolko	715169476627529728	2016-03-30T13:31:05	. lukejuday It's a big problem that the poor -- who depend most on urban public services -- aren't part of the urban revival.
+JedKolko	715169106186657793	2016-03-30T13:29:36	Urban revival? Not for boomers, seniors, school-age kids, or younger millennials.  
+JedKolko	715167033474818049	2016-03-30T13:21:22	Gen Xers, not Millennials, are leading the (limited) urban revival.  
+JedKolko	715163231887687681	2016-03-30T13:06:16	The rich have been moving to cities. Everybody else, not so much.  
+JedKolko	715159683556880385	2016-03-30T12:52:10	dcvanriper ipums minnpop Couldn't have done it without you.
+JedKolko	715159532008312833	2016-03-30T12:51:34	kyleredinger "decline in urban living among older adults is generally steeper for those with higher incomes" (toward end of blogpost)
+JedKolko	715150573528592384	2016-03-30T12:15:58	The urban revival is a limited, class-bound phenomenon. America on average is more suburban than ever. 
+JedKolko	715148000364900352	2016-03-30T12:05:44	Urban Revival? Not For Most Americans | Jed Kolko 
+JedKolko	714646611494830081	2016-03-29T02:53:24	eparillon samsternjones yfreemark 2nd post looks at tract level.. County data more frequent &amp; current than tract data, which lags years
+JedKolko	714646113471565825	2016-03-29T02:51:25	samsternjones yfreemark eparillon Share of US in tracts with 10k+ density is declining.  
+JedKolko	714645358056443904	2016-03-29T02:48:25	eparillon samsternjones yfreemark Just 6 counties have tract-weighted density &gt;12.8k hh/sqmi -- NY, Bronx, Kings, Queens, Hudson, SF
+JedKolko	714644331609649152	2016-03-29T02:44:20	yfreemark eparillon The perception of urban starts at 2,213 HH/sqmi. 
+JedKolko	714643895162900480	2016-03-29T02:42:36	eparillon yfreemark Quartiles by population, not # of counties. 57 counties, with 24% of US pop, are &gt;=2000 HH/sqmi, tract-weighted
+JedKolko	714515492644528129	2016-03-28T18:12:23	mikesimonsen One guide is that houses on 1/4 acre lots imply density around 1500 HH/sqmi
+JedKolko	714488858524692482	2016-03-28T16:26:33	bencasselman lymanstoneky ModeledBehavior Local jobs data: CES more frequent &amp; current, but QCEW larger sample and down to county level
+JedKolko	714464863611981824	2016-03-28T14:51:12	ColinParent Not necessarily. The right case for urban development is that density has positive externalities, not that cities are winning.
+JedKolko	714460500529176577	2016-03-28T14:33:52	ColinParent Urban is actually losing share.
+JedKolko	714454329365807104	2016-03-28T14:09:20	ICYMI: The U.S. is getting more suburban and less urban, but also less rural.  
+JedKolko	714169619821498368	2016-03-27T19:18:00	jessieagatstein NickTimiraos See blogpost. The 2014 data are a 5 yr 2010-2014 average. So rightmost bars are really 2 yrs apart, not 4
+JedKolko	713713756354662401	2016-03-26T13:06:34	JustinWolfers Changed the economic consensus for sure. But didn't sociologists, geographers, etc. already believe this?
+JedKolko	713500200170496000	2016-03-25T22:57:58	The New Urban Contradiction: Cities are down, suburbs up. Gentrification running rampant &amp; urban housing prices soaring.
+JedKolko	713500852581900289	2016-03-25T23:00:34	Roman Vishniac Rediscovered: Breathtaking exhibit at Contemporary Jewish Museum  
+JedKolko	713501361829089280	2016-03-25T23:02:35	Richard_Florida Though not that new. Faster suburban growth with bigger urban price increases is at least four years old. And probably more
+JedKolko	713479155329970176	2016-03-25T21:34:21	Growing Up in a Bad Neighborhood Does More Harm Than We Thought  via nuzzel
+JedKolko	713467383839592450	2016-03-25T20:47:34	DanielKayHertz lymanstoneky ModeledBehavior lukejuday ... but that's hardly same as broad shift toward cities, which many still believe
+JedKolko	713467096882089986	2016-03-25T20:46:26	DanielKayHertz lymanstoneky ModeledBehavior lukejuday No doubt the urbanizing demographics and places have disproportionate impact ...
+JedKolko	713464053163810820	2016-03-25T20:34:20	DanielKayHertz ModeledBehavior lymanstoneky lukejuday Seems to me we're looking at many similar claims.
+JedKolko	713463686682124288	2016-03-25T20:32:53	DanielKayHertz ModeledBehavior lymanstoneky lukejuday And my followup seems to "infer trends in urban cores" -- as yr wkly roundup says
+JedKolko	713461837317152768	2016-03-25T20:25:32	DanielKayHertz ModeledBehavior lymanstoneky lukejuday ... is a broad claim that I think my analysis directly addresses
+JedKolko	713461667376463873	2016-03-25T20:24:51	DanielKayHertz ModeledBehavior lymanstoneky lukejuday this: "trend toward city living have ebbed can't be proven" Joe_Cortright ...
+JedKolko	713456841380990976	2016-03-25T20:05:41	BenRossTransit MarketUrbanism It's contemporaneous tract density for each Census year since tracts change. But 2014 ACS uses 2010 density
+JedKolko	713447797370978304	2016-03-25T19:29:44	SpeakingBee BenRossTransit MarketUrbanism Those data are distribution of households across tract-density buckets. Not a count of tracts.
+JedKolko	713444320842489857	2016-03-25T19:15:55	MarketUrbanism BenRossTransit OK. 1/4 acre = 2560 hh/sqmi if all land were housing (no roads, stores, etc.). So in fact 1500 sounds right
+JedKolko	713439536609517568	2016-03-25T18:56:55	BenRossTransit MarketUrbanism Yes I think the data are consistent with that view. How is "missing middle" defined exactly, or is it fuzzy
+JedKolko	713420500786020353	2016-03-25T17:41:16	We'll be strataconf next week to talk about how machine vision is making sense of the explosion of data from space 
+JedKolko	713433792468242433	2016-03-25T18:34:05	ModeledBehavior lymanstoneky lukejuday DanielKayHertz Inspired by our chat this morning: 
+JedKolko	713433260764729344	2016-03-25T18:31:58	Neighborhood Data Show That U.S. Suburbanization Continues (Wonkish)  
+JedKolko	713428054245150720	2016-03-25T18:11:17	CasualBrasuell lukejuday DanielKayHertz e.g. positive environmental and economic externalities associated with higher density
+JedKolko	713419781295046656	2016-03-25T17:38:25	ModeledBehavior lymanstoneky lukejuday DanielKayHertz 
+JedKolko	713419023191396352	2016-03-25T17:35:24	ModeledBehavior lymanstoneky lukejuday DanielKayHertz Did they send you a mug? I think IPUMS gives you one if you find a big oops.
+JedKolko	713404952773693441	2016-03-25T16:39:29	lymanstoneky lukejuday DanielKayHertz I assume you're talking about samples (SF3 and ACS files), not full-count Census data (SF1)?
+JedKolko	713402186391101440	2016-03-25T16:28:30	lymanstoneky lukejuday DanielKayHertz PUMAs &amp; ZCTAs are larger than tracts, but they aren't part of the block-tract-county nesting.
+JedKolko	713401420968374275	2016-03-25T16:25:27	lymanstoneky lukejuday DanielKayHertz Aren't block groups smaller than tracts?
+JedKolko	713400322811506688	2016-03-25T16:21:05	lymanstoneky lukejuday DanielKayHertz Unless the tract data are pop or HH counts from the decennial Census. Stay tuned.
+JedKolko	713399443517607936	2016-03-25T16:17:36	Joe_Cortright CityObs True. But, more granular data generally support county trends.  
+JedKolko	713396065806843904	2016-03-25T16:04:11	lukejuday DanielKayHertz Right. Another striking example: 
+JedKolko	713391923524820992	2016-03-25T15:47:43	lukejuday DanielKayHertz No doubt. As always, there's a distribution, and possibly selection bias.
+JedKolko	713390189771526146	2016-03-25T15:40:50	lukejuday DanielKayHertz I think suburban defenders are better on facts than urban advocates are, but worse on interpretation &amp; policy.
+JedKolko	713388609957535744	2016-03-25T15:34:33	lukejuday DanielKayHertz Baffles me why urbanists use "cities are winning" and not urban externalities argument, which is relevant &amp; true.
+JedKolko	713386599325642753	2016-03-25T15:26:34	lukejuday DanielKayHertz Totally agreed. 
+JedKolko	713385109328531456	2016-03-25T15:20:38	DanielKayHertz One might also add this.  
+JedKolko	713354840223551489	2016-03-25T13:20:22	Suburban sprawl is officially making a comeback:  via slate JHWeissmann
+JedKolko	713330727476137984	2016-03-25T11:44:33	North Dakota tax revenue is down 35% from a year ago. Alaska's is down 40%+. 
+JedKolko	713149616577843201	2016-03-24T23:44:52	jbarro Wegmans, however ...
+JedKolko	713125744746991616	2016-03-24T22:10:01	mattmoehr Housing-bust severity definitely worse in some regions (esp FL, NV, AZ, inland CA).
+JedKolko	713029700377915392	2016-03-24T15:48:22	The metros that were hit hardest in the housing bust are, once again, growing fast.  
+JedKolko	713028974855630848	2016-03-24T15:45:29	lymanstoneky You bet. And thanks for the Datawrapper tip, by the way. Hoping to find an excuse to test it out soon.
+JedKolko	713025357834616832	2016-03-24T15:31:07	lymanstoneky Apartment construction booming esp in downtowns, but construction rate higher where density lower. 
+JedKolko	713023610739236865	2016-03-24T15:24:10	mdweinberg mattmoehr tbuck0 Yes, more than other urban neighborhoods though less than the sprawliest suburbs.
+JedKolko	713023302105583620	2016-03-24T15:22:57	Local population trends are looking more and more like they did pre-bubble. (Wonkish.)  
+JedKolko	713022738957373441	2016-03-24T15:20:42	lymanstoneky I don't know. Limited construction in denser areas is more a chronic condition than an acute crisis.
+JedKolko	713022516210442240	2016-03-24T15:19:49	lymanstoneky Defensive? I assume all your q's are honest :) .
+JedKolko	713021838528421888	2016-03-24T15:17:08	2015 migration has some regional correlations, shows trend AWAY from cities. New post.  
+JedKolko	713020137666772992	2016-03-24T15:10:22	Indy_Austin Though more Americans live in suburbs than in urban areas. 
+JedKolko	713019309576957952	2016-03-24T15:07:05	Both urban advocates and suburban defenders sometimes ignore supply and assume trends reflect only demand, when it suits.  MichaelASpotts
+JedKolko	713018595513491459	2016-03-24T15:04:15	riccoja antitrustmaster Census will release age breakdowns later in the year.
+JedKolko	713015955597594625	2016-03-24T14:53:45	Suburban population growth doesn't prove suburban demand any more than rising urban prices prove urban demand. Supply matters, too.
+JedKolko	713012529572622336	2016-03-24T14:40:08	Urban areas grow at slowest pace since 07: What people say they want vs what they can afford  
+JedKolko	713010289122402305	2016-03-24T14:31:14	Growth is still all about sunbelt suburbs and will be forever unless coastal cities rezone.  
+JedKolko	713008605868339200	2016-03-24T14:24:33	In 2015, urban counties had their slowest population growth since 2007.  
+JedKolko	713007048674394112	2016-03-24T14:18:22	Other than one blip in 2011, more Americans are moving to suburban counties than urban ones ihttp://on.wsj.com/1MEjyQz via WSJ
+JedKolko	713007572396081153	2016-03-24T14:20:26	For the most part, today's fastest-growing metros are those were growing fastest before the housing bubble. 
+JedKolko	713005678915354625	2016-03-24T14:12:55	More Americans are again moving to suburbs than cities  
+JedKolko	713005838072291329	2016-03-24T14:13:33	yfreemark Local growth trends are reverting to pre-bubble patterns.  
+JedKolko	713001341862305793	2016-03-24T13:55:41	Take heart, Detroit. Your metro population grew 0.01% in 2015.  
+JedKolko	712999404702208001	2016-03-24T13:47:59	androowoo JedKolko Totally true, but think it's a composition question. Big finding is continued move into Sunbelt.
+JedKolko	712997956031356930	2016-03-24T13:42:14	Via NPR: Forget Generation Rent: More Younger Americans Aim To Buy  . Featuring trulia rent v buy calculator!
+JedKolko	712997221604569088	2016-03-24T13:39:19	The largest metros are growing fastest, thanks to booming Sunbelt suburbs.  uscensusbureau 
+JedKolko	712984843622162434	2016-03-24T12:50:07	"Cape Coral – Fort Myers, which bumped Austin out in 2015, was also the leader in the bubble years of 2004-2006." 
+JedKolko	712987291862433792	2016-03-24T12:59:51	pat_clark Rochester NY will be the new Austin?
+JedKolko	712986279684628480	2016-03-24T12:55:50	Metros losing most people are all in 700-mile stretch from Hartford to Toledo.  
+JedKolko	712984536343138304	2016-03-24T12:48:54	echoalphabravo7 NickTimiraos Educated millennials are. But most millennials lack 4-yr degree, and most of urban America isn't downtown
+JedKolko	712984080497836032	2016-03-24T12:47:06	DKThomp JHWeissmann Yes. The new Census #'s for 2015 are actually for July 1, 2015. Much has happened to oil towns since then.
+JedKolko	712983847961370625	2016-03-24T12:46:10	DKThomp The 2/3 of young adults without college degrees aren't flocking to Brooklyn or SF either. 
+JedKolko	712983424164716544	2016-03-24T12:44:29	In 2015, suburban population growth outpaced urban counties, and by a growing margin.  
+JedKolko	712982659660513281	2016-03-24T12:41:27	2015's fastest growing metros. Austin loses #1 spot after four years there.  
+JedKolko	712981852944924672	2016-03-24T12:38:14	lymanstoneky County &amp; metro population estimates 2015. Includes components (i.e. migration). 
+JedKolko	712971496428163072	2016-03-24T11:57:05	In 2015, the South &amp; West grew faster than the Northeast &amp; Midwest, and the gap widened.  
+JedKolko	712969908674367489	2016-03-24T11:50:47	mattmoehr mdweinberg tbuck0 Plz see blogpost for links to related sub-county analyses. 
+JedKolko	712969599164100608	2016-03-24T11:49:33	mattmoehr 2010 decennial full-count
+JedKolko	712969200055103488	2016-03-24T11:47:58	New on my blog. 2015 Population Winners: The Suburbs and the Sunbelt 
+JedKolko	712869475817754627	2016-03-24T05:11:42	Northern California led the state's population growth in 2015.   
+JedKolko	712869110242287617	2016-03-24T05:10:15	KaylorChristian bit over an hour ago: 
+JedKolko	712864217158848512	2016-03-24T04:50:48	Educated young adults are urbanizing, and their experience -- not that of the average person -- drives the narrative. mdweinberg
+JedKolko	712860874462126080	2016-03-24T04:37:31	DanKeshet Yup, #2 among the 104 large metros (pop 500,000+). #7 among all 381 metros. 
+JedKolko	712860275314135043	2016-03-24T04:35:08	mwstafford Yup. As blogpost notes, the Census 2015 estimates are as of July 1, 2015. 
+JedKolko	712859003420864514	2016-03-24T04:30:05	Top metro % population gains, 2015, by source:  domestic moves: Cape Coral/Ft Myers intl moves: Miami natural increase: Provo-Orem
+JedKolko	712856855958200321	2016-03-24T04:21:33	After 4 years at #1, Austin no longer the fastest-growing large metro in 2015.  
+JedKolko	712856107581063170	2016-03-24T04:18:34	In 2015, the 10 most-shrinking large metros were all in Ohio, upstate NY, PA, and CT:  
+JedKolko	712855243852275712	2016-03-24T04:15:09	The fastest growing metros in the U.S. in 2015 were all in the South and West:  
+JedKolko	712854075453358081	2016-03-24T04:10:30	In 2015, suburban population growth outpaced urban counties, and by a growing margin:  
+JedKolko	712852874569641984	2016-03-24T04:05:44	2015 Population Winners: The Suburbs and the Sunbelt | Jed Kolko 
+JedKolko	712609602697879552	2016-03-23T11:59:03	The Uber Model, It Turns Out, Doesn't Translate  via nuzzel
+JedKolko	710582788626382849	2016-03-17T21:45:13	Japanese bullet trains are fast, safe, and punctual, but Amtrak has wifi.
+JedKolko	710570203583623168	2016-03-17T20:55:12	Why is San Francisco’s permitting process so fiercely hellish?  tell it, AdamLBrinklow 
+JedKolko	710363281198751744	2016-03-17T07:12:58	lymanstoneky ModeledBehavior If the least well off face higher mobility costs, then declining places get concentrated poverty.
+JedKolko	707751002443747328	2016-03-10T02:12:43	emilymbadger That's why the question of who-has-a-say (neighborhood, city, region, state) matters so much.
+JedKolko	707750352960032769	2016-03-10T02:10:08	emilymbadger  Benefits of building: regionwide, long-term.  Costs (like n'hood change): localized, immediate.  Makes for tough politics.
+JedKolko	707594790058131456	2016-03-09T15:51:59	More evidence that gig econ increases inequality. You know abt the low-end. Heres data on a premium for high-skilled 
+JedKolko	707573312918917121	2016-03-09T14:26:38	New report from Thumbtack: Beyond the Gig Economy looks at how technology is empowering smallbiz 
+JedKolko	707542322746146816	2016-03-09T12:23:29	12 million more people are renting in U.S. suburbs  
+JedKolko	706871051863588865	2016-03-07T15:56:06	Muddling income inequality and economic segregation 
+JedKolko	706563091782238209	2016-03-06T19:32:23	The good news: Workforce participation is up  The bad news: It’ll start falling again soon   
+JedKolko	706265094661910528	2016-03-05T23:48:14	seanmdav TheStalwart alacosta12 Well, the Census puts Texas in the South region. So the rest of us might be forgiven.
+JedKolko	705845779693441025	2016-03-04T20:02:02	Can the U.S. labor force keep on growing?  
+JedKolko	705846299992657920	2016-03-04T20:04:06	Good Silicon Valley lunchtime reading: TylerCowen on technology and productivity.  
+JedKolko	705768746925760512	2016-03-04T14:55:56	taylormokris 1-2 months, yes
+JedKolko	705764595630153729	2016-03-04T14:39:26	Long-term unemployment and part-time for economic reasons still above pre-recession levels. 
+JedKolko	705763096925581312	2016-03-04T14:33:29	DanKeshet I still hear lots of California vs Texas comparisons -- despite both having enormous intra-state regional differences.
+JedKolko	705762260942065665	2016-03-04T14:30:10	qdbui ModeledBehavior Not back to '07, for sure. But 2000 or just before was a normalish moment for housing &amp; useful historical context.
+JedKolko	705760783892766722	2016-03-04T14:24:17	DanKeshet  Bet you love when people say "the Texas economy" and actually mean Houston.
+JedKolko	705753583015297024	2016-03-04T13:55:41	Education  Unempt rate of college grads: 2.5%  Unempt of high school only: 5.3% Empt rate of college grads: 72%  Empt rate of HS only: 54.5%
+JedKolko	705758136863305729	2016-03-04T14:13:46	Remember: job growth wildly uneven across U.S. Booming in San Jose &amp; Portland, struggling in Chicago &amp; Houston 
+JedKolko	705756783768260610	2016-03-04T14:08:24	conorsen Whether or not it's &lt;0 y/y, manufacturing's share hitting new all-time low is a good bet every month. 
+JedKolko	705755615671418881	2016-03-04T14:03:45	ModeledBehavior conorsen And how much of a shadow construction labor force is there?
+JedKolko	705755259101032448	2016-03-04T14:02:20	Housing jobs per unit built at early 2000s level, even though multi-fam (hi share now) needs fewer workers/unit. 
+JedKolko	705753660777562114	2016-03-04T13:55:59	Housing's still not back (2 of 2): jobs for young adults -- key for housing demand -- still below pre-bust level. 
+JedKolko	705753200201043968	2016-03-04T13:54:09	Housing's still not back (1 of 2): share of jobs in construction low, despite recent gains. 
+JedKolko	705751649839661056	2016-03-04T13:48:00	Your monthly reminder that virtually all the employment gains in the recovery have been full-time. 
+JedKolko	705751617308463104	2016-03-04T13:47:52	Manufacturing jobs just +0.1% y/y vs +1.9% for overall jobs. % of U.S. jobs in manufacturing keeps falling. 
+JedKolko	705750579641917440	2016-03-04T13:43:45	Residential construction jobs up 15.9k in Feb, 60.9k in past 3 months -- solid growth. 
+JedKolko	705748651771990016	2016-03-04T13:36:05	Good news for housing in jobs report: tomorrow's homebuyers are getting jobs today. Emp/pop ratio up to 77.1%. 
+JedKolko	705552872369315840	2016-03-04T00:38:07	indysmith yes
+JedKolko	705546062400868357	2016-03-04T00:11:04	Imagine what job growth in Silicon Valley would look like with more plentiful and affordable housing. 
+JedKolko	705545012004519936	2016-03-04T00:06:53	Silicon Valley (metro San Jose) had 2015's fastest job growth among large metros. ScottThurm georgia_wells 
+JedKolko	705462771614359552	2016-03-03T18:40:06	making america great again: a national primary promise, but a local responsibility  
+JedKolko	705051794930585601	2016-03-02T15:27:01	How to fight the robot invasion at work: Give everyone a paycheck  
+JedKolko	705037418349592576	2016-03-02T14:29:54	What are the core differences between Republicans and Democrats? - Marginal REVOLUTION  via nuzzel
+JedKolko	705023122567786497	2016-03-02T13:33:05	How to fight the coming robot invasion at work: Give everyone a paycheck  
+JedKolko	704738768280883201	2016-03-01T18:43:10	Any economists out there going to SXSW? Particularly economists who study tech? JustChecking
+JedKolko	704667576970977282	2016-03-01T14:00:17	Fear, loathing, and Donald Trump: The rise of American authoritarianism 
+JedKolko	704680694610460672	2016-03-01T14:52:24	amandataub voxdotcom Great work. Any analysis on how authoritarianism correlates w/ support for other candidates?
+JedKolko	704344710467362816	2016-02-29T16:37:19	What could possibly go wrong? 
+JedKolko	704075427778686977	2016-02-28T22:47:17	jbarro what's the count for Clinton and Sanders?
+JedKolko	704023703223283713	2016-02-28T19:21:45	This is not a general boomers-prefer-cities story. Almost everyone profiled grew up or lived in NYC when younger.  
+JedKolko	703617136527351808	2016-02-27T16:26:12	This is an amazing paragraph:  
+JedKolko	703609302422913024	2016-02-27T15:55:04	UpshotNYT JustinWolfers Top "reader's pick" comment: I DON'T CARE about the economics of economics proposals. 
+JedKolko	703594548199489540	2016-02-27T14:56:27	mattyglesias TheStalwart Very smart people in the 1990s thought the Internet would make cities unnecessary.
+JedKolko	703354313762996224	2016-02-26T23:01:50	AlejandroLazo NickTimiraos LauraKusisto You were surprised by Pittsburgh but not Buffalo?
+JedKolko	703345676877492224	2016-02-26T22:27:31	Where home prices are at real record highs:  Austin Buffalo Denver Honolulu Nashville Pittsburgh San Francisco 
+JedKolko	703353771275919360	2016-02-26T22:59:41	AlejandroLazo NickTimiraos LauraKusisto Having had a mild bubble and bust last decade makes it easier to set records today.
+JedKolko	703343884068380673	2016-02-26T22:20:24	Nominal home prices might be back, but not if you adjust for inflation.  staterevenue urbaninstitute
+JedKolko	703290949531619329	2016-02-26T18:50:03	JustinWolfers The New Re-Re-Republic?
+JedKolko	703034320580116480	2016-02-26T01:50:18	I created the models for that WSJ article Cruz just cited. Total employment in the state declined.
+JedKolko	702908355799461888	2016-02-25T17:29:46	emilymbadger That unbeatable mix of ocean, fog, and pot. Welcome!
+JedKolko	702900491982757888	2016-02-25T16:58:31	Rising urban prices = more demand for cities? Must look at prices AND quantities to tease out demand vs. supply. 
+JedKolko	702894140887945217	2016-02-25T16:33:16	Real home prices are at record highs in just 7 housing markets. FHFA + BLS_gov data reveal the real numbers. 
+JedKolko	702890292786008064	2016-02-25T16:17:59	ColinGardiner those 7 are currently at real home-price peaks. Listed alphabetically.
+JedKolko	702865487818936320	2016-02-25T14:39:25	Home prices (inflation-adjusted) are setting records in just 7 of 121 largest metros:  
+JedKolko	702864620919214081	2016-02-25T14:35:58	Where Real Home Prices Are At Record Highs | Jed Kolko 
+JedKolko	702857758756843520	2016-02-25T14:08:42	The key to teams that work well: creating psychological safe space.  
+JedKolko	702613984168398849	2016-02-24T22:00:02	BobbikeLu Census:  under "purpose of construction"
+JedKolko	702609010856333312	2016-02-24T21:40:16	ebruvold andy_keatts Census:  under "purpose of construction"
+JedKolko	702608017393455104	2016-02-24T21:36:19	Apartments, not condos: 93% of multi-unit building starts in 2015 were intended for rent (not for sale). Highest since data started (1974)
+JedKolko	702585658691493890	2016-02-24T20:07:29	IF ONLY A HARVARD GRADUATE WROTE A BOOK ABOUT STAYING IN A SMALL CABIN OUTSIDE BOSTON  
+JedKolko	702518007323439104	2016-02-24T15:38:39	bencasselman Headline-only readers will raise alarms, but LibertyStEcon says trend is good for stability, &amp; seniors' default rate stable
+JedKolko	702513421292417024	2016-02-24T15:20:26	Jobs, debt, homes: it's about seniors.    NickTimiraos LibertyStEcon
+JedKolko	702179454689280001	2016-02-23T17:13:22	Jews are the most Republican of the large non-Christian religions (vs Muslims, Hindus, Buddhists).  
+JedKolko	702173380275994625	2016-02-23T16:49:14	4. The study concludes that amenities are the core factor in the urban revival &amp; the shift of talented people back to cities, trumping jobs.
+JedKolko	702142841598955521	2016-02-23T14:47:53	Home price growth ended 2015 strong, per Case-Shiller. But inventory big challenge in 2016.  
+JedKolko	702157416587247616	2016-02-23T15:45:48	Spreading the Wealth: Decentralization, Infrastructure, and Shared Prosperity 
+JedKolko	702148119681695744	2016-02-23T15:08:51	Older Women Reshape U.S. Job Market  via nuzzel thanks JoshZumbrun
+JedKolko	701912284772306944	2016-02-22T23:31:44	... because good investors know when to keep their mouths shut. BloombergBeta 
+JedKolko	701856090800201728	2016-02-22T19:48:26	Literally nouns. 
+JedKolko	701857835303440384	2016-02-22T19:55:22	JPMCInstitute New breakthrough data on the "gig" economy: Size, growth, demographics, more : 
+JedKolko	701859089819660288	2016-02-22T20:00:21	TzviZucker Yes. Easier to start with a metro and then look at ZIPs. Census and Trulia/Zillow data should get you most of the way there.
+JedKolko	701858002559569921	2016-02-22T19:56:02	TzviZucker conradhackett not offhand. I'm more familiar with ZIP codes that people do live in :)
+JedKolko	701857298587594752	2016-02-22T19:53:14	TzviZucker conradhackett Not sure there's a single most affordable and safest ZIP code. Maybe one that no one else lives in?
+JedKolko	701613393510150144	2016-02-22T03:44:03	sneakysbbq southpawbbqsf Congratulations, and lucky for us in the neighborhood!
+JedKolko	701611744947384320	2016-02-22T03:37:29	sneakysbbq Are you always cooking at southpawbbqsf now?
+JedKolko	701566698936098816	2016-02-22T00:38:30	Blind men &amp; the unicorn: Start-ups "retrenching" (WSJ), or is confidence "buoyant" (NYT)?   
+JedKolko	700735171255898112	2016-02-19T17:34:18	The housing crisis is resurfacing as the campaign heads to Nevada (and then Florida)  
+JedKolko	700699929241452546	2016-02-19T15:14:16	conorsen Good thing that the sensible always happens.
+JedKolko	700699679252557826	2016-02-19T15:13:16	Blue metros: unequal, expensive. Red metros: job-automation risk.    
+JedKolko	700398225996394496	2016-02-18T19:15:24	lucaspuente Email me via my website? 
+JedKolko	700383288624603136	2016-02-18T18:16:03	Why the center-left wonkosphere isn't Feeling the Bern. (Part of it is a little bit tribal).  
+JedKolko	700383772391247872	2016-02-18T18:17:58	Catching up: Barney on Bernie, in politico . Three Reasons Why Things Will Get Harder for Bernie Sanders 
+JedKolko	700378437987364864	2016-02-18T17:56:46	Fear of flipping? Stay calm. Home flips at pre-bubble levels; recent trend is flat. Nice work trulia truliaralph 
+JedKolko	700364975500492801	2016-02-18T17:03:16	dwsNY Absolutely: behavioral changes depend on lots of factors. But assuming there are none doesn't seem like the right starting point.
+JedKolko	700364038467751936	2016-02-18T16:59:33	ICYMI: Sanders policy dir to jbarro: "we do not assume taxpayers change their behavior" under higher rates. Nails on chalkboard, to wonks.
+JedKolko	700322270695141376	2016-02-18T14:13:35	From post: "flip rate is roughly in line with the non-housing bubble years and well below ... 2006." TruliaRalph 
+JedKolko	700319373035175936	2016-02-18T14:02:04	Planners attempt to quell fears at density bonus mtg for SF Mission and Excelsior residents:  
+JedKolko	700192500485459968	2016-02-18T05:37:55	Zoff_INFO Which Zoff store in Tokyo area has the biggest selection? Thank you!
+JedKolko	700149140018196480	2016-02-18T02:45:37	"There is no cure for stupidity." 
+JedKolko	700145103524859904	2016-02-18T02:29:35	KansasCityEric bencasselman Email me pls via my website?
+JedKolko	700144783432351744	2016-02-18T02:28:19	TheSuburbsGuy Don't have that correlation handy but my hunch is the same as yours.
+JedKolko	700144514464219136	2016-02-18T02:27:14	creedofhubris Obama won the cities of San Antonio and Houston, but not their metropolitan areas. The blogpost uses metros.
+JedKolko	700039441734201344	2016-02-17T19:29:43	kristoncapps Overall net effect of automation on employment is up for debate, but some dislocation will surely happen.
+JedKolko	700019459738611712	2016-02-17T18:10:19	Red America may have lower unemployment and similar job growth vs blue America, but at higher risk from automation. 
+JedKolko	700019019802259456	2016-02-17T18:08:34	. lucaspuente If someone would like to share county-level data on support for this year's candidates,, I'm in.
+JedKolko	700017880469889025	2016-02-17T18:04:03	Maleclypse FiveThirtyEight Davidson county voted Obama, but other 13 counties in Nashville metro area voted for Romney.
+JedKolko	700013433794666497	2016-02-17T17:46:22	Robots are red, safe jobs are blue: Republican-Leaning Cities Are At Greater Risk Of Job Automation  FiveThirtyEight
+JedKolko	700008077735686146	2016-02-17T17:25:05	Another note on this JedKolko story: Places driving automation (coastal cities) aren't those most affected by it. 
+JedKolko	700006396499271681	2016-02-17T17:18:25	Easily automated "routine" jobs are more concentrated in GOP-heavy metro areas. JedKolko.  
+JedKolko	700006129867354112	2016-02-17T17:17:21	The robots are coming for Republicans' jobs! JedKolko  
+JedKolko	699980604360646657	2016-02-17T15:35:55	LianChikako If it goes to the ballot someday, then spending gazillions on ads?
+JedKolko	699977707879202816	2016-02-17T15:24:25	M_C_Klein JoshZumbrun Only recent Democratic chairs not on the list are Baily, Stiglitz, Yellen (who obv couldn't comment).
+JedKolko	699976677812666370	2016-02-17T15:20:19	longhornsteve In-SF-proper employers might like curtailing "Google buses" because it gives them better chance at hiring SF-based techies.
+JedKolko	699974989424906245	2016-02-17T15:13:37	PeterCBlack sfexaminer sfmta_muni Well that wouldn't boost transit revenues or ease city traffic congestion.
+JedKolko	699974471180906496	2016-02-17T15:11:33	If the Google-bus battle ends up on a ballot, which side will in-the-city-of-San-Francisco tech companies take? 
+JedKolko	699973672077950976	2016-02-17T15:08:22	DianaOlick Add the word "rentals": rental housing fundamentals are strong, and that's why we're building lots of rental apartments.
+JedKolko	699973021214183424	2016-02-17T15:05:47	PeterCBlack sfexaminer sfmta_muni Last week's story: "commuters could take public transit to those hubs". 
+JedKolko	699971724914225152	2016-02-17T15:00:38	PeterCBlack sfexaminer sfmta_muni Or perhaps the hope is they'll take transit to the hubs, boosting transit ridership and revenues.
+JedKolko	699955725565558784	2016-02-17T13:57:04	City decision on SF tech shuttle buses could "dismantle the program": centralized hubs instead of n'hood routes. 
+JedKolko	699696109971759106	2016-02-16T20:45:26	Clinton campaign is the first to roll out policy proposals on housing  
+JedKolko	699669286357340160	2016-02-16T18:58:51	mattyglesias Right. There's nothing like Manhattan in the Bay Area or anywhere else in the U.S.
+JedKolko	699665492596764673	2016-02-16T18:43:47	Vilifiers of tech shuttles are taking us for a ride  via sfchronicle
+JedKolko	699656411798605824	2016-02-16T18:07:42	ConorDougherty Based on similarity of residents or of business/commercial activity?
+JedKolko	699651983548903424	2016-02-16T17:50:06	ConorDougherty Peninsula (i.e. Silicon Valley) = Long Island seems the biggest stretch.
+JedKolko	699615448694829056	2016-02-16T15:24:55	titonka If we can agree that western NY and Ohio belong together in the same conceptual region, I can live with that.
+JedKolko	699614773210558465	2016-02-16T15:22:14	titonka "The dialect spoken here [Rochester NY] is commonly known as the Chicago accent" -- 
+JedKolko	699614339448180737	2016-02-16T15:20:31	titonka Completely agreed. Have you ever heard a Rochester NY accent? Often mistaken for Michigan or Chicago, never for New York or Boston.
+JedKolko	699612985413599232	2016-02-16T15:15:08	titonka Ouch. That's some strong loyalty to something as arbitrary as state boundaries!
+JedKolko	699612148528345088	2016-02-16T15:11:49	What if the Midwest crosses state lines? My hometown of Rochester NY feels more Midwest than East Coast to me. 
+JedKolko	699610927897796608	2016-02-16T15:06:58	TheStalwart It's amazing that homebuilder sentiment has been, for years, as high as it is. I'll have what they're having!
+JedKolko	699604496062636032	2016-02-16T14:41:24	Age versus cohort effect, illustrated.  
+JedKolko	699595306980155393	2016-02-16T14:04:53	Renting has been on the rise since the housing bust in every major metro:  
+JedKolko	699603129348653059	2016-02-16T14:35:58	Millennials less confident about nation's future, but so were their parents, grandparents when young  via nuzzel
+JedKolko	699448197664612352	2016-02-16T04:20:20	Why job growth could get even worse for men without college degrees 
+JedKolko	699383294354395136	2016-02-16T00:02:25	Math is apparently illegal in Kentucky - I guess we all kind of suspected it. 
+JedKolko	699361728954413056	2016-02-15T22:36:44	rolfpendall urbaninstitute KKelleyHolland Richard_Florida And divorce is good for headship rate (tho I'd prefer other ways to raise it)
+JedKolko	699358835169849349	2016-02-15T22:25:14	rolfpendall urbaninstitute KKelleyHolland Richard_Florida How much does rising likelihood of having living spouse raise homeownership?
+JedKolko	699358502817378305	2016-02-15T22:23:55	rolfpendall urbaninstitute KKelleyHolland Richard_Florida Though the most damaged cohort is GenX, who bought in bubble &amp; lost in bust.
+JedKolko	699287131567497216	2016-02-15T17:40:18	urbaninstitute KKelleyHolland rolfpendall Richard_Florida Ownership fell least -- or rose! -- among seniors. 
+JedKolko	698578336864272384	2016-02-13T18:43:49	fmanjoo Smoked fish from Russ &amp; Daughters. Or, less traditionally, pastrami from Langer's. LoxPopuli LangersDeli
+JedKolko	698569679141519360	2016-02-13T18:09:24	Did your conference only invite straight, white, cis dudes? Rent a Minority is here to help! Please RT!   
+JedKolko	698553878367727617	2016-02-13T17:06:37	Two opposite, thoughtful insider takes on San Francisco &amp; SB50   beyondchron srslynow
+JedKolko	698547715542659072	2016-02-13T16:42:08	ModeledBehavior mattyglesias familyunequal My default is usually to weight, so I worry more about large places that are outliers.
+JedKolko	698534543540645888	2016-02-13T15:49:47	mattyglesias familyunequal ... in practice that's often a fuzzy distinction. So, hope that results aren't sensitive to weighting!
+JedKolko	698534314342912000	2016-02-13T15:48:53	mattyglesias familyunequal In theory, weighting makes sense if each person should count equally, not if each govt should count equally ...
+JedKolko	698530748907663360	2016-02-13T15:34:43	mattyglesias familyunequal Often tricky issue in metro, county, or city comparisons too. Always good to check the effect of weighting.
+JedKolko	698320794305212418	2016-02-13T01:40:26	While we were watching car ads during the Superbowl, our algorithms were counting actual cars. (source:Airbus 2016) 
+JedKolko	698290923864653824	2016-02-12T23:41:44	joelight Includes "easing local barriers" to rental housing construction.
+JedKolko	698273177617629189	2016-02-12T22:31:13	mdweinberg BayAreaEconomy I wouldn't say that the analysis "ends the argument" if it doesn't tackle causality.
+JedKolko	698270310131331072	2016-02-12T22:19:49	mdweinberg BayAreaEconomy I happen to agree with the report's policy recommendations, but the analysis shows correlation not causality.
+JedKolko	698174959357661185	2016-02-12T16:00:56	Why Rocket Mortgage won’t start another housing crisis:  via urbaninstitute
+JedKolko	698192875222228992	2016-02-12T17:12:07	Hard to believe it's been 12 years since Del Martin + Phyllis Lyon  were married in San Francisco WinterOfLove 
+JedKolko	698223727704670208	2016-02-12T19:14:43	ConorDougherty nytimes Welcome back to where you belong!
+JedKolko	698203037894979585	2016-02-12T17:52:30	Timely post by sstubo: "What to Say to Your Employees After Your Stock Loses 40% of Its Value" 
+JedKolko	698198433492930561	2016-02-12T17:34:13	daveholtz Just as big data is transforming retail, retail is transforming big data.
+JedKolko	697790227335749632	2016-02-11T14:32:09	New post: what have we learned about fiscal policy since the great recessions? 
+JedKolko	698151833961762816	2016-02-12T14:29:02	emilymbadger I happen to believe market-rate housing reduces displacement, but that LAO report shows only correlation, not causality.
+JedKolko	697885364678033408	2016-02-11T20:50:11	Sanders has 60% of Facebook likes for prez candidates (D+R) in San Francisco; 67% in the Mission  FiveThirtyEight
+JedKolko	697565464067764224	2016-02-10T23:39:01	Why some U.S. cities get all the good jobs  
+JedKolko	697552289817440256	2016-02-10T22:46:40	gordontrac econjared Indeed. We Californians have known the truth for a while. Whether in booms or busts, it's all about homegrown jobs
+JedKolko	697543340724649984	2016-02-10T22:11:06	jimtankersley ConorDougherty TimAeppel Neil_Irwin bencasselman You're such a focus bully.
+JedKolko	697538532299010048	2016-02-10T21:52:00	TimAeppel ConorDougherty jimtankersley Neil_Irwin bencasselman So there's hope for the rest of us.
+JedKolko	697536370089205762	2016-02-10T21:43:24	TimAeppel ConorDougherty jimtankersley Neil_Irwin bencasselman Wait. You think Conor is a math bully?
+JedKolko	697510440478191617	2016-02-10T20:00:22	ConorDougherty TimAeppel jimtankersley Neil_Irwin bencasselman Pleading the 5th on whether you credited your source..
+JedKolko	697508881237315584	2016-02-10T19:54:11	sarahhalzack jimtankersley Neil_Irwin bencasselman And it's not as if we don't all envy her.
+JedKolko	697504316534366208	2016-02-10T19:36:02	TimAeppel jimtankersley Neil_Irwin bencasselman Once ConorDougherty called me a number bully.
+JedKolko	697503304679444480	2016-02-10T19:32:01	jimtankersley Neil_Irwin bencasselman Just what we need, tiger uncles.
+JedKolko	697501753932169216	2016-02-10T19:25:51	As the economy suffers, economic theory flourishes, greg_ip writes  
+JedKolko	697501659115757568	2016-02-10T19:25:29	bencasselman Neil_Irwin That's a very convincing "sorry."
+JedKolko	697499248842027008	2016-02-10T19:15:54	Neil_Irwin Adult emp/pop ratio is 59%, almost inverse of Trump's 42%. That's age 16+. Don't blame niece, but feel free to blame grandma.
+JedKolko	697491299763486720	2016-02-10T18:44:19	ConorDougherty Well put, with appropriate jadedness and bitterness.
+JedKolko	697483697830785025	2016-02-10T18:14:06	New PPICWater fact sheet: CAflood risk growing but funding for flood management is not:  
+JedKolko	697463433344606208	2016-02-10T16:53:35	mdweinberg How do you expect the politics will play out?
+JedKolko	697425454458777601	2016-02-10T14:22:40	San Francisco, where minimizing private-car usage and maximizing public-transit usage are competing goals.  
+JedKolko	697423259839541248	2016-02-10T14:13:57	Obama’s Budget Seeks to Ease Economic Fears for U.S. Workers 
+JedKolko	697422896273055745	2016-02-10T14:12:30	DanKeshet sfexaminer sfmta_muni Seems great for Uber, which is how lots of people would actually get to tech bus hubs.
+JedKolko	697421986885046272	2016-02-10T14:08:53	Proposed: Google (etc) buses gather at central hubs, not n'hood bus stops. Techies would take transit to those hubs. 
+JedKolko	697419529455058944	2016-02-10T13:59:07	One good thing about the coming Trump Administration is he'll almost certainly repeal the Height of Buildings Act.
+JedKolko	697417954032365572	2016-02-10T13:52:52	lymanstoneky The approach is compelling enough to be ammo for those who already agree, but not to change the mind of a reasonable skeptic
+JedKolko	697417529854001152	2016-02-10T13:51:11	lymanstoneky But strong neighborhood demand would lead to construction. Look how displacement was defined.
+JedKolko	697416515813965824	2016-02-10T13:47:09	Obama's budget faces the challenges of the futureofwork:  nytimes noamscheiber
+JedKolko	697412958557614080	2016-02-10T13:33:01	lymanstoneky I happen to believe market-rate housing reduces displacement, but that LAO report shows only correlation, not causality.
+JedKolko	697273801478791169	2016-02-10T04:20:03	Trump's on that 42% unemployment thing again? I thought JoshZumbrun settled that.  
+JedKolko	697151253210509312	2016-02-09T20:13:05	“We do not assume taxpayers change their behavior" -- Sanders's policy director on raising top fed tax rate to 52%. 
+JedKolko	697125581389828096	2016-02-09T18:31:05	Obama in the State of the Union talked about technology automating jobs... I missed it...  
+JedKolko	697100998813200385	2016-02-09T16:53:24	Americans are quitting their jobs at the fastest pace since before the recession.  
+JedKolko	697101017205383169	2016-02-09T16:53:28	One problem with redeveloping vacant suburban office parks? Residents fight the residential/apt part of mixed-use: 
+JedKolko	697080921049042945	2016-02-09T15:33:37	emilymbadger Just wait until you see the wild creatures that survive in your new city.
+JedKolko	696837597176426498	2016-02-08T23:26:44	Hey! We're hiring for some great roles at Sidewalk. 
+JedKolko	696804775631855617	2016-02-08T21:16:19	BenedictEvans Or at least sometime between 1910 and 1995.
+JedKolko	696804153356472320	2016-02-08T21:13:50	The absence of SF from this image dates it perfectly. 
+JedKolko	696737015941959680	2016-02-08T16:47:04	Zillow:  Urban homes worth more, appreciating faster than suburban ones - Yet more evidence on the “Dow of cities”  
+JedKolko	696724055978676224	2016-02-08T15:55:34	jmfinn Current income for seniors isn't great guide to economic well-being, &amp; can't see income of adult children whom they don't live with
+JedKolko	696723238131372032	2016-02-08T15:52:19	jmfinn ... but HH income tricky because that reflects the composition of HHs, which is what we're trying to explain.
+JedKolko	696723096707829760	2016-02-08T15:51:45	jmfinn The demography-not-economy refers to the first section of post, which looks at recession years ...
+JedKolko	696715768113684481	2016-02-08T15:22:38	jmfinn It varies hugely by seniors' country of birth. See post. Quite striking.
+JedKolko	696714962245443584	2016-02-08T15:19:25	In US, foreign-born seniors 4x as likely to live with relatives than native-born seniors:  
+JedKolko	696712149209477121	2016-02-08T15:08:15	ICYMI, I think a big next topic in Econ will be why manufacturing losses hurt some places more than others 
+JedKolko	696527934446657537	2016-02-08T02:56:15	Helen Mirren looks much classier with a hamburger than Michael Voltaggio does.
+JedKolko	696523153107890176	2016-02-08T02:37:15	Gina_Bean See that's what you don't get from following the highbrow economics reporters. Most of them, anyhow.
+JedKolko	696522025192435712	2016-02-08T02:32:46	Gina_Bean And more chatter about ref 34 apparently.
+JedKolko	696514257857417216	2016-02-08T02:01:54	I'm buying this car just to show Abby Wambach how wonderful she is.
+JedKolko	696510032305741829	2016-02-08T01:45:06	Missy Elliot AND Salt'n'Pepa in Super Bowl commercials!
+JedKolko	696507657515986944	2016-02-08T01:35:40	I wonder what Super Bowl Twitter is like if you follow people other than highbrow economics reporters.
+JedKolko	696506654636965889	2016-02-08T01:31:41	TheStalwart I still can't believe the Pet Shop Boys covered it.
+JedKolko	696497238269259776	2016-02-08T00:54:16	Between constipation and Good Wife ads, they're really going after the middle-aged demographic.
+JedKolko	696492352936882176	2016-02-08T00:34:51	TheStalwart - within 5 minutes of the Quicken Loan ad, guess CFPB watches the commercials 
+JedKolko	696491377358737408	2016-02-08T00:30:59	That Quicken commercial? See our book to see how that turns out: houseofdebt: 
+JedKolko	696491175650336768	2016-02-08T00:30:11	Richard_Florida Yeah but that talking razor is an affordable luxury. And those Doritos.
+JedKolko	696490628922773504	2016-02-08T00:28:00	Neil_Irwin Clearly, an ad from a tech firm with an economist. 
+JedKolko	696477162581327873	2016-02-07T23:34:30	Neil_Irwin She contains multitudes.
+JedKolko	696466268459819008	2016-02-07T22:51:12	"Donna Summers"? Is she related to Larry Summers? 
+JedKolko	696042631034327040	2016-02-06T18:47:49	OH at yoga class in San Francisco: "is this Super Bowl weekend or something?"
+JedKolko	696036884993019904	2016-02-06T18:24:59	If this is supposed to illustrate "expanding economy and dramatically cheaper gas prices," use miles per capita. 
+JedKolko	696023524658454529	2016-02-06T17:31:54	Unusually high number of vehicles with Montana and Alaska plates on the streets of San Francisco this week.
+JedKolko	695970765309661184	2016-02-06T14:02:15	Mail theft rampant in SF Mission, leaves some with stolen identities, thousands in repairs:  
+JedKolko	695717913316171776	2016-02-05T21:17:31	We asked POLITICO's MikeGrunwald if anyone's going to buy into Obama's oil tax proposal.   
+JedKolko	695707162903842816	2016-02-05T20:34:47	West Coast tweeps: I need restaurant recs, story ideas, new drinking buddies, biking tips. I am moving to San Francisco (but keeping my job)
+JedKolko	695706696098811904	2016-02-05T20:32:56	Richard_Florida crampell I think we're at greater risk of neglecting those in clobbered industries than artificially protecting them.
+JedKolko	695706016969728000	2016-02-05T20:30:14	Richard_Florida crampell It's the distribution. No question that median worker is better off due to technological changes since 1910.
+JedKolko	695704501236281344	2016-02-05T20:24:13	crampell Economies clearly survive technological change. Workers in some industries thrive; those in others get clobbered.
+JedKolko	695672825642934273	2016-02-05T18:18:21	LianChikako My slides are now posted on the event page on SPUR's site. So it's all fair game.
+JedKolko	695649192593608705	2016-02-05T16:44:26	Think amazon is opening physical stores for the books? Think again. brentfranson gives his POV. 
+JedKolko	695640016945434624	2016-02-05T16:07:59	PeterCBlack Actually meant it as serious point about interdependence of local economies and that fortunes shift over time.
+JedKolko	695637335342383104	2016-02-05T15:57:19	San Franciscans, please be nice to the Super Bowl tourists. Someday we'll need their tax dollars to help rebuild after the big one.
+JedKolko	695625475306102784	2016-02-05T15:10:12	lymanstoneky Economists are surprisingly rare in urban planning departments and urban-focused think-tanks. To my (biased) taste, anyway.
+JedKolko	695624349974286336	2016-02-05T15:05:43	lymanstoneky I think it's hard to look at a chart like this and not think about cycles and equilibrium. 
+JedKolko	695622608373452804	2016-02-05T14:58:48	lymanstoneky All urban economists do.
+JedKolko	695621981543096321	2016-02-05T14:56:19	lymanstoneky I think you've basically just described the field of applied microeconomics. Scarcity. Equilibrium. Etc.
+JedKolko	695620788011937793	2016-02-05T14:51:34	New paper on uscensusbureau geographical concepts and measurement. 
+JedKolko	695618045826347009	2016-02-05T14:40:40	Neil_Irwin And if you look real close, % of jobs in manufacturing rose all the way back to the Oct 2015 level 
+JedKolko	695614727460794368	2016-02-05T14:27:29	The unexpected pleasure of sleeping through the jobs report
+JedKolko	695422617793200129	2016-02-05T01:44:07	foxjust TomsRestaurant1 I have soft spot for Margon, the Cuban diner on W 46 next to where I stay. Can't get a great Cubano in SF.
+JedKolko	695421844690612224	2016-02-05T01:41:02	foxjust Fair. Easier to find great breakfast at 7 am in SF than NYC. For the city that never sleeps, it doesn't do a great job waking up.
+JedKolko	695419060637466624	2016-02-05T01:29:58	foxjust I would pick Russ &amp; Daughters sable or lox on a bagel for breakfast over almost anything else on earth.
+JedKolko	695405883765837825	2016-02-05T00:37:37	ShawnBucholtz DanielKayHertz yes, 2k decennial and 2014 ACS.
+JedKolko	695402600665993219	2016-02-05T00:24:34	ShawnBucholtz DanielKayHertz I was looking at changes. Any reason why mis-reporting would have changed over time, and how?
+JedKolko	695395623986593792	2016-02-04T23:56:51	Though homeownership has fallen since 2000, share of households in single-family homes has gone up: 67.0% in 2000 to 68.6% in 2014.
+JedKolko	695326982335131648	2016-02-04T19:24:05	Chicken wings, along with Wegmans, are upstate New York's great contributions to the American food scene.  
+JedKolko	695325612152455168	2016-02-04T19:18:39	PeterCBlack Great for measuring plants, not so much for people.
+JedKolko	695325430140657664	2016-02-04T19:17:55	ShawnBucholtz I think you're the one with the power to make that official, not me!
+JedKolko	695324346756108288	2016-02-04T19:13:37	ryanavent jdlahart mattyglesias davidautor Though thankfully not near any CBSAs, CSAs, MSAs, MDs, CZs, or DMAs.
+JedKolko	695323082261553152	2016-02-04T19:08:35	So many words for metros, but no official definition of "suburb."  
+JedKolko	695322559290564608	2016-02-04T19:06:31	dtgillard mattyglesias atlemar CBSAs include MSAs &amp; micropolitan areas. CSAs combine CBSAs. A few large CBSAs are split into metro divs
+JedKolko	695321655166373889	2016-02-04T19:02:55	jdlahart mattyglesias DMA's, used by Nielsen and in other media settings, also cover whole country (like CZs, unlike metros) davidautor
+JedKolko	695320454374907908	2016-02-04T18:58:09	jdlahart mattyglesias Every county is in a CZ, even non-metro counties. That gives CZ's pros and cons vs metros/CSAs davidautor
+JedKolko	695318164565946368	2016-02-04T18:49:03	Oh good. Geographic-definitions Twitter is even more fun than y-axis Twitter! mattyglesias atlemar
+JedKolko	695288697034403840	2016-02-04T16:51:57	How are economists like actors? They're the two most urban occupations.    
+JedKolko	695252766495633409	2016-02-04T14:29:11	Where's the extra-super-duper-like button on Twitter? 
+JedKolko	695234267731853312	2016-02-04T13:15:40	Why Seniors are an Important Part of the Housing Economy  via TheMReportNews
+JedKolko	695136490083348480	2016-02-04T06:47:08	RedwoodGirl mountain_ghosts BenedictEvans Data on the location of jobs in IT-intensive industries was pretty clear on this, even then.
+JedKolko	695130025935269888	2016-02-04T06:21:27	mountain_ghosts BenedictEvans The "death of distance" argument was debunked in the late 1990s. It lasted ten minutes.
+JedKolko	695128202352529408	2016-02-04T06:14:12	pmarca AkiIto7 BrattleStCap Look at the trend line. They must be exhausted!
+JedKolko	695123309952761856	2016-02-04T05:54:46	kristoncapps Yup. That 7 am yoga class is in the middle of the news day.
+JedKolko	695121607589654529	2016-02-04T05:48:00	kristoncapps Complain about how early tomorrow morning's data releases are.
+JedKolko	695096483352186881	2016-02-04T04:08:10	Aging population = more older renters. But homeownership _rate_ fell less for seniors than all other ages since '05. 
+JedKolko	694954547345645569	2016-02-03T18:44:10	MarkMuro1 CenterOnBudget Great to see those updated numbers. Thanks for pointer.
+JedKolko	694954200678080512	2016-02-03T18:42:47	DLeonhardt Some of the decline in homeownership &amp; rise of living w parents is because of delayed marriage/kids. 
+JedKolko	694937475131768833	2016-02-03T17:36:20	Important story from stuwoo - The Vanishing Homeless of Super Bowl 50 
+JedKolko	694894123233357825	2016-02-03T14:44:04	Really fun post. Great job fel_chac TruliaRalph trulia 
+JedKolko	694698846882902016	2016-02-03T01:48:06	badler Thanks. Are you cooking up something on the topic?
+JedKolko	694696052956397569	2016-02-03T01:37:00	BenedictEvans What triggered that thought? Which concept and which people?
+JedKolko	694608570223104003	2016-02-02T19:49:23	Mitch McConnell just announced the Senate might not take up any substantive legislation in 2016 
+JedKolko	694584999970930689	2016-02-02T18:15:43	DanielKayHertz paytonchung We know from housing bust that SFH's can quickly turn rental. See slides 6-8: 
+JedKolko	694584415008092160	2016-02-02T18:13:23	DanielKayHertz paytonchung Sounds like a job for ACS data (summary files or PUMS, depending). Have at it!
+JedKolko	694584033322405890	2016-02-02T18:11:52	DanielKayHertz paytonchung "They" = the houses, right? Cuz perhaps group houses become SFH as the _people_ age.
+JedKolko	694582919994585088	2016-02-02T18:07:27	beyondchron SFHAC Sadly, I have a conflict. Will keep eye out for next time.
+JedKolko	694582783360921600	2016-02-02T18:06:54	NoblePants DanielKayHertz No doubt. Class / employment status, too. Those without jobs much more likely to live with parents.
+JedKolko	694582249858027521	2016-02-02T18:04:47	MarketUrbanism DanielKayHertz One could also count up % of HH's in which someone says they're a roommate. I was doing quickest version.
+JedKolko	694582042462294016	2016-02-02T18:03:58	DanielKayHertz And trying to infer what that implies about the sample of those you know.
+JedKolko	694581769933160448	2016-02-02T18:02:53	DanielKayHertz I was just struck by everyone you know living with roommates, even though share with relatives is very high.
+JedKolko	694581640236957696	2016-02-02T18:02:22	DanielKayHertz Too long for twitter. Every HH has a head, by defn. Hard to tell equal roommates vs other roommate relationships
+JedKolko	694580853586853888	2016-02-02T17:59:14	DanielKayHertz Of single 25-33 y.o.:  37% head of household 38% in relative's home (incl parent) 22% in non-relative's home (2014 PUMS)
+JedKolko	694579184182521856	2016-02-02T17:52:36	DanielKayHertz What's your age or age range?
+JedKolko	694574554211966977	2016-02-02T17:34:12	Remember when rent control was a 60-day stopgap, pushed by Dianne Feinstein?  kimmaicutler 
+JedKolko	694573397158670336	2016-02-02T17:29:37	askmullan beyondchron SFHAC When and where is this event?
+JedKolko	694566672225554432	2016-02-02T17:02:53	TimAeppel NickTimiraos To be fair, some of the most serious, wonkiest data journo conversations I've had have been w/  USATODAY team.
+JedKolko	694542450770096128	2016-02-02T15:26:38	Richard_Florida WSJ That's too hard.
+JedKolko	694535056442859521	2016-02-02T14:57:15	lymanstoneky urbanophile Yeah I'm often surprised at people's confusion about indexed data.
+JedKolko	694533622691266560	2016-02-02T14:51:34	lymanstoneky urbanophile If chart title were "has ridership nearly disappeared?" then yes the non-zero origin would be misleading
+JedKolko	694531750827962368	2016-02-02T14:44:07	lymanstoneky urbanophile the self-stated point of this chart is to compare 80s to today, which would be hard to see with zero origin
+JedKolko	694531207875301376	2016-02-02T14:41:58	A zero origin axis would make it harder to see the answer to the chart's title question. mattyglesias 
+JedKolko	694244975547015168	2016-02-01T19:44:35	I finally wrote down my answer to this question. “Should Your Tech Firm Have an Economist?” 
+JedKolko	694218154172555264	2016-02-01T17:58:00	adchamberlain Thanks!
+JedKolko	694199399870693376	2016-02-01T16:43:29	emilymbadger Shocking that many will find this shocking.
+JedKolko	694186774319398912	2016-02-01T15:53:19	Someone oughta come up with a tool for figuring that out. Oh, hey:  trulia 
+JedKolko	694171114579165185	2016-02-01T14:51:05	JoshZumbrun Apparently they don't remember all those recruiting visits by fancy firms their senior year.
+JedKolko	694168713247870976	2016-02-01T14:41:32	JedKolko JoshZumbrun and just maybe I wasn't paying attention
+JedKolko	694168465804959744	2016-02-01T14:40:33	JoshZumbrun But I wanted to retweet YOU, regardless of content :)
+JedKolko	694168046202540034	2016-02-01T14:38:53	Skills trump prestige in STEM fields, but in business, social science, &amp; humanities elite-school grads earn more  
+JedKolko	694163884291203073	2016-02-01T14:22:21	Should Your Tech Firm Have an Economist? | Jed Kolko 
+JedKolko	694151868965003265	2016-02-01T13:34:36	"Housing is overrated as an investment. We quickly get used to big houses but never get used to commuting." MargRev 
+JedKolko	694152220774834178	2016-02-01T13:36:00	Answer on Quora by Alex Tabarrok to What do economists think about buying vs renting a house? 
+JedKolko	693850033062424576	2016-01-31T17:35:13	BenedictEvans Not universal love / But to be loved alone
+JedKolko	693631262787919872	2016-01-31T03:05:54	johnmyers And yet, two whole U.S. Senators.
+JedKolko	693502406949081088	2016-01-30T18:33:53	LoganMohtashami correlation is not causality!
+JedKolko	693478592353730560	2016-01-30T16:59:15	Richard_Florida No, I'm not one of those miss-the-seasons types. Childhood in the lake-effect snow belt of upstate NY beat that out of me
+JedKolko	693477520058904576	2016-01-30T16:54:59	Happy California Day to me. Moved here 14 years ago today from the east coast.
+JedKolko	693458524903333888	2016-01-30T15:39:30	ConorDougherty Though misuse of "law of large numbers" is more prevalent and more offensive.
+JedKolko	693239242428805121	2016-01-30T01:08:09	SF Delays Controversial Housing Law Amidst Opposition, Cry of Ethnic Cleansing » MissionLocal  via MLNow
+JedKolko	693115550864654336	2016-01-29T16:56:39	Thriving U.S. Cities Grapple With Homelessness Surge  via nuzzel thanks AlejandroLazo urbanophile
+JedKolko	693079114526294016	2016-01-29T14:31:52	Household formation is not the disaster that the Census reported yesterday. 
+JedKolko	693075790582272000	2016-01-29T14:18:39	conorsen Oil hits jobs before it hits housing prices. Though you'd think starts would respond before prices. 
+JedKolko	693074731029770240	2016-01-29T14:14:27	December building permits by metro: new cycle highs for Dallas  and Houston 
+JedKolko	693072003427749889	2016-01-29T14:03:36	Woellert Yup. I only said "housing", not "housing policy."
+JedKolko	693070675968335874	2016-01-29T13:58:20	Housing came up in the Republican debate!  "The days for the Clintons in public housing are over." -- Christie  
+JedKolko	692870598398124033	2016-01-29T00:43:18	Reminder: Governors have very little control over their state economies.  
+JedKolko	692860838227496962	2016-01-29T00:04:31	New Census Report Lowballs Household Formation | Jed Kolko 
+JedKolko	692825098609254401	2016-01-28T21:42:30	JedKolko jm0rt But maybe I'll have something for you tomorrow.
+JedKolko	692806171351130113	2016-01-28T20:27:17	LauraKusisto WSJecon I'm skeptical of the low reported household formation number. An alternative method suggests closer to 900k.
+JedKolko	692785762341777408	2016-01-28T19:06:11	jm0rt aside from handwritten scribbles at my desk, no
+JedKolko	692760707142545408	2016-01-28T17:26:38	Don't trust that weirdly low household formation estimate in today's Census HVS report.  
+JedKolko	692757119670493186	2016-01-28T17:12:22	Alt. household formation math: Headship (CPS microdata) fell very slightly. Pop grew. Implied HH form: 900k (vs 462k per Census HVS).
+JedKolko	692748789191352320	2016-01-28T16:39:16	Census reported dubiously low household formation of 462k. Renters were 2/3 of new HHs, which is plausible. 
+JedKolko	692711586314657792	2016-01-28T14:11:26	(5/5) Long-term housing trends must take demographic shifts (delayed marriage &amp; childbearing) into account. 
+JedKolko	692711207669616640	2016-01-28T14:09:56	(4/5) Nearly all new household formation is boomers &amp; seniors. Millennials aren't moving out of parents' homes yet. 
+JedKolko	692710939863306240	2016-01-28T14:08:52	(3/5) The homeowner vacancy rate misses vacant single-family homes that are off-market.  
+JedKolko	692710565119021056	2016-01-28T14:07:23	(2/5) The homeownership rate is misleading. It gets pulled down by people forming new rental households. 
+JedKolko	692710362190184448	2016-01-28T14:06:34	(1/5) I’ll be at yoga when the Census Homeownership and Vacancy Survey is released at 10 am ET. But here are a few reminders.
+JedKolko	692541113278799872	2016-01-28T02:54:02	conorsen Sorry to miss you. I'll be offline then.
+JedKolko	692508566163492877	2016-01-28T00:44:43	Universal basic income (UBI) should maybe come out of a land value tax. (LVT)  
+JedKolko	692516740740292608	2016-01-28T01:17:11	"California is mostly half-assing solutions." Latest from kimmaicutler: A Long Game  at techcrunch
+JedKolko	692498060480528387	2016-01-28T00:02:58	Tech Companies Starting to Enlist Chief Economists 
+JedKolko	692479929246687232	2016-01-27T22:50:55	We're proud to be at the top of businessinsider's most innovative tech startups list!  via sai
+JedKolko	692480753125433347	2016-01-27T22:54:11	The 21 most innovative startups in tech, featuring orbital_insight ! 
+JedKolko	692413126982176769	2016-01-27T18:25:28	kimmaicutler Glink I think it's more about longer-term demographic changes. Not primarily the fault of the elders.
+JedKolko	692410634479112192	2016-01-27T18:15:34	Which failures of public policy have led to Powell SFBART station becoming a de facto homeless shelter for San Francisco? sfgov
+JedKolko	692405632649945088	2016-01-27T17:55:41	Millennials who are waiting on marriage &amp; kids want to become homeowners, but it may be awhile, says JedKolko 
+JedKolko	692374137558315008	2016-01-27T15:50:32	SelmaHepp PacUnion Congratulations!
+JedKolko	691336210095038464	2016-01-24T19:06:11	Turns out Brooklyn's not quite #1. See update from foxjust.   JaanaRemes BV
+JedKolko	690670814669230080	2016-01-22T23:02:08	ruslodi census new home starts report from Wednesday. Historical data spreadsheets.
+JedKolko	690660155986325504	2016-01-22T22:19:47	New brief summarizes biggest CAwater challenges - and how to tackle them:  
+JedKolko	690649281288515586	2016-01-22T21:36:34	SF Human Rights Commission Zula Jones and Nazly Mohajer charged with bribery. 
+JedKolko	690648436358516737	2016-01-22T21:33:13	Best tweet of day. Re: imminent reveal of SF govt corruption charges. (BOS= city council, for you outtatowners) 
+JedKolko	690647066834415616	2016-01-22T21:27:46	united 653. Flight status was finally corrected: 2 hr 40 min delay on a 1 hour flight on aircraft that wasn't on east coast.
+JedKolko	690637333260017664	2016-01-22T20:49:06	Solving New York's outer-borough jobs mystery 
+JedKolko	690635977786654720	2016-01-22T20:43:43	DanielKayHertz where's the best concise articulation of that worldview?
+JedKolko	690635377107869696	2016-01-22T20:41:19	DanielKayHertz ... So I suspect what is usually meant by urbanist isn't just interest or involvement but also suggests a worldview?
+JedKolko	690635016519348225	2016-01-22T20:39:53	DanielKayHertz I would guess that some of the fiercest suburban defenders are highly interested in urban issues ...
+JedKolko	690633768915238912	2016-01-22T20:34:56	DanielKayHertz What's the current prevailing definition of urbanist? And is that definition consensus or contested?
+JedKolko	690594017617129472	2016-01-22T17:56:59	In the priciest markets, rents still forecast to climb y/y in 2016: San Jose: +7.8% San Francisco: +5.9%  SvenjaGudell zillow
+JedKolko	690573964385513472	2016-01-22T16:37:18	Rent growth forecasted to slow to 1.1% y/y by Dec '16, per zillow . Are there local rent forecasts, SvenjaGudell? 
+JedKolko	690552003768901633	2016-01-22T15:10:02	Neat trick. united shows my flight leaving on time, 30 minutes before the incoming aircraft's prior flight is scheduled to arrive.
+JedKolko	690550299522564097	2016-01-22T15:03:15	foxjust Thanks for discovering. Issue is among NYC boroughs. Doesn't affect metro or place-type totals, but does affect county data.
+JedKolko	690292349214167040	2016-01-21T21:58:15	of course you should read foxjust JedKolko CityObs in conversation on urban/suburban jobs  
+JedKolko	690286321424797696	2016-01-21T21:34:18	America's job engine is Brooklyn. Followed by a couple Houston suburbs and then the Bronx  
+JedKolko	690234101396168704	2016-01-21T18:06:48	KGOdesk Pls email me via website? . Thank you!
+JedKolko	690210941674377216	2016-01-21T16:34:46	How ideological are economists? Pretty ideological! But so are scientists of all sorts. My column this week: 
+JedKolko	690186127538589696	2016-01-21T14:56:10	April 2015: Bob Shiller says stocks overvalued so invest in...oil futures.  
+JedKolko	690178759404752896	2016-01-21T14:26:53	salimfurth jtrothwell berubea1 rpuentes emilymbadger Me too. "Corrupt content error." Which I assume isn't a judgment about the survey!
+JedKolko	690171458690138112	2016-01-21T13:57:53	Everyone mocked Palin's rambling Trump speech, but this is why you should take it seriously:  
+JedKolko	690165110246088704	2016-01-21T13:32:39	berubea1 rpuentes emilymbadger How can we learn more about jtrothwell issues? Is there a link?
+JedKolko	690001233160044545	2016-01-21T02:41:28	Affordable housing measures dominate SanFrancisco ballot submissions  
+JedKolko	689896751340257284	2016-01-20T19:46:17	On HQ moves: the great William Whyte pointed out that big factor is minimizing CEO's commute. Curious where GE CEO wanted to live ...
+JedKolko	689890410555027459	2016-01-20T19:21:06	lymanstoneky CityObs ... from employer's view they wouldn't pay urban wage premium unless it's more productive for them to be there (2/2)
+JedKolko	689890192858046467	2016-01-20T19:20:14	lymanstoneky CityObs Also, even if an urban wage premium should be deflated by urban living costs from employees' perspective ... (1/2)
+JedKolko	689888609013338113	2016-01-20T19:13:56	lymanstoneky CityObs Sort of. Wages are based on job location. Lots of downtown workers live in cheaper suburbs
+JedKolko	689887424042795014	2016-01-20T19:09:14	(3/3) On interpretation: I presume cyclical until proven structural. But I showed much that supports half-full pro-urban view. CityObs
+JedKolko	689885334654492673	2016-01-20T19:00:55	(2/3) On data: counties certainly flawed. But I'm not aware of granular sub-county jobs data that's current &amp; has long time-series. CityObs
+JedKolko	689884416215134208	2016-01-20T18:57:16	(1/3) Thanks to cityobs Joe_Cortright for thoughtful comments on:    
+JedKolko	689855122684313600	2016-01-20T17:00:52	ColinGardiner others have done that using metro median household income and BEA metro deflator. Maybe bencasselman?
+JedKolko	689838940803731457	2016-01-20T15:56:34	Economists say it will be another good year for housing despite stock market and China IBS 
+JedKolko	689824230427402242	2016-01-20T14:58:07	AdieTomer MarkMuro1 berubea1 These data are based on job location, not residential location. So, not totally comparable, but consistent
+JedKolko	689817540386680832	2016-01-20T14:31:32	MarkMuro1 berubea1 Yes quite striking. Though full-cycle pattern is very different. 
+JedKolko	689815197909815296	2016-01-20T14:22:13	Good news for cities: In past year, urban parts of large metros led in total wage growth:  
+JedKolko	689814091649527808	2016-01-20T14:17:50	Lower-density suburbs have led in both total wage growth and job growth since 2000:  
+JedKolko	689813719971332101	2016-01-20T14:16:21	Average wages per job are much higher in urban counties than elsewhere:  
+JedKolko	689813386020782080	2016-01-20T14:15:01	New follow-up post on wage growth in cities vs suburbs:  bencasselman hughm88 
+JedKolko	689806385064767488	2016-01-20T13:47:12	35% of new home starts in 2015 were in 5+ unit buildings -- highest share since 1973 
+JedKolko	689520336291823616	2016-01-19T18:50:33	Aftermath8 bencasselman Richard_Florida Gotta get up pretty early in the morning to tweak him.
+JedKolko	689519773462343680	2016-01-19T18:48:19	Aftermath8 bencasselman Richard_Florida  Ha. Give him some credit! He was almost the first to tweet it, hours ago.
+JedKolko	689506872617885696	2016-01-19T17:57:03	Suburban areas have led job growth 2000-2015.  But jobs projected to grow most are urban. 
+JedKolko	689487971448303616	2016-01-19T16:41:57	But still good long-term news for cities: "Changes in the structure of the American economy favor big cities"
+JedKolko	689477481829531648	2016-01-19T16:00:16	Excellent and important question. Stay tuned for a short follow-up post on urban vs suburban wage growth. 
+JedKolko	689467447800233984	2016-01-19T15:20:23	Huge congratulations to TruliaRalph, Trulia's new chief economist!  
+JedKolko	689465288685813760	2016-01-19T15:11:49	Urban job growth rebounded after housing bubble burst, but still lags the suburbs.  
+JedKolko	689464684261445633	2016-01-19T15:09:25	The fastest job growth is still in the suburbs. My latest: 
+JedKolko	689455977096019968	2016-01-19T14:34:49	Neat new piece from JedKolko : economic growth in urban cores has not been uniquely strong post-recession. 
+JedKolko	689443708840730625	2016-01-19T13:46:04	Suburbs are still where the job growth is. JedKolko crunches the numbers 
+JedKolko	689243432099942400	2016-01-19T00:30:14	The Census Bureau revised their remodeling estimates to match our index. \ 
+JedKolko	689083219422134277	2016-01-18T13:53:36	Davos report focused on gender inequality calls out "barriers between man and machine." WEF16 
+JedKolko	688415090345922561	2016-01-16T17:38:42	My critique of The Big Short. Love SteveCarell &amp; SelenaGomez, have a bit of a problem with GhostPanther. 
+JedKolko	688017364659646464	2016-01-15T15:18:17	“The cost of housing has taken us all by surprise" -- San Francisco planning director. 
+JedKolko	687693393045028864	2016-01-14T17:50:56	If you lived here, you'd have parking now:  New trulia study maps best/worst street parking in 7 big cities: 
+JedKolko	687680918602027008	2016-01-14T17:01:22	What's wrong with the producer-price index? The rent, it seems, is too damn high  
+JedKolko	687660101360992258	2016-01-14T15:38:38	I'm looking into GE incentive deal. DM or tweet back with any deets. Thanks
+JedKolko	687650984395317248	2016-01-14T15:02:25	We scoured some of America's biggest cities to find the best neighborhoods for parking. 
+JedKolko	687455486178770944	2016-01-14T02:05:34	anthonymobile Labor force shifts toward low-LFPR group, but rate for many groups go up.
+JedKolko	687392257876480000	2016-01-13T21:54:20	Insights from the Macroscope: Home Improvement Stores End 2015 With a Whimper  retailindustry economy space
+JedKolko	687387181283807232	2016-01-13T21:34:09	anthonymobile BLS projects big increases in labor force participation rates for older adults: 
+JedKolko	687386002520817664	2016-01-13T21:29:28	anthonymobile Yeah it's not the sort of thing economists wouldn't have picked apart carefully by now :)
+JedKolko	687364390149029894	2016-01-13T20:03:35	GE could get $145M in state and city incentives. For bringing 800 jobs to Boston. I'll do the math for you: $181,250 per job. Not bad.
+JedKolko	687331433279455234	2016-01-13T17:52:38	Joe_Cortright CityObs DanielKayHertz newgeography one of the cost studies cited excluded land; the other assumed parking spaces
+JedKolko	687298045956853760	2016-01-13T15:39:58	lydiadepillis Both views -- counts &amp; shares -- are useful. Shares give nice historical context: manufacturing = 39% of U.S. jobs in 1943!
+JedKolko	687297416177975297	2016-01-13T15:37:28	lymanstoneky No one is envying you. Good that you flagged it right away and are fixing it quickly and openly.
+JedKolko	687278008214892544	2016-01-13T14:20:20	If the religion data in today's Data Is Plural piqued your interest, you'll probably like JedKolko's maps/analysis: 
+JedKolko	687280188384624641	2016-01-13T14:29:00	jsvine Very exciting to have used one of the great data sources highlighted in Data is Plural, my favorite weekly email subscription.
+JedKolko	687273860618555392	2016-01-13T14:03:51	anthonymobile Here's a link. About half the decline since 2007 is due to aging population. 
+JedKolko	687272909107138560	2016-01-13T14:00:05	anthonymobile Better to adjust for age distribution, or at least restrict to 25-54. Aging population accounts for some of decline
+JedKolko	687271448725958656	2016-01-13T13:54:16	lydiadepillis Manufacturing's share of U.S. jobs at all-time low. The recovery paused that slide briefly. 
+JedKolko	687094035136159744	2016-01-13T02:09:18	lymanstoneky Shoot, I missed that you were setting the rules tonight :) .
+JedKolko	687093757787770880	2016-01-13T02:08:12	No mention of housing, homes, mortgages, cities, or urban in 2016 SOTU speech (per prepared text). Maybe next year!
+JedKolko	687051482063998976	2016-01-12T23:20:12	dayseye Sadly for the fish, the market is moving, not closing down entirely.
+JedKolko	687038935281762305	2016-01-12T22:30:21	kristoncapps it's not easy being green
+JedKolko	686984136494608384	2016-01-12T18:52:36	What's most worrying about the apartment building boom  
+JedKolko	687013832732983296	2016-01-12T20:50:36	ewaltersTX I'd be thrilled if that made it into tonight's speech. Surprised, but thrilled.
+JedKolko	687001457678155778	2016-01-12T20:01:26	Housing in Obama's SOTU tonight? Probably not. Why? Same as in 2015, 2014, ...   
+JedKolko	686598537073848320	2016-01-11T17:20:22	What part of behavioral econ explains why I buy a ticket to a lottery I know I won't win?
+JedKolko	686250138709303296	2016-01-10T18:15:57	Headline of this week's TheEconomist story on the closing of Tokyo's Tsukiji fish market: "So long, and thanks for all the fish"
+JedKolko	685997262233731072	2016-01-10T01:31:07	khalidkarim We do make fewer things, but the things we make need fewer people to make them.
+JedKolko	685993306019336192	2016-01-10T01:15:23	cao_medeiros pmarca In official labor stats, coding is an occupation, but manufacturing is an industry. Some manuf firms hire coders.
+JedKolko	685992264821178368	2016-01-10T01:11:15	MasterMarquette pmarca took a second :)
+JedKolko	685991090143367168	2016-01-10T01:06:35	markgelband pmarca Not in the occupational data. Could have a coder in a firm classified as manufacturing.
+JedKolko	685989656693833728	2016-01-10T01:00:53	ColinGardiner pmarca Manufacturing has changed. But "production occupations" have plummeted, too.
+JedKolko	685985711556661249	2016-01-10T00:45:13	MasterMarquette pmarca Though probably for a different reason than you think.
+JedKolko	685981698484375553	2016-01-10T00:29:16	Paul Krugman NYTimeskrugman has over a million followers but follows only 2 Twitter accounts: nytopinion and pmarca
+JedKolko	685929018089050112	2016-01-09T20:59:56	albrgr khuey_ tanzoak CityObs I read your previous tweets too quickly. We're actually agreeing.
+JedKolko	685928624088719360	2016-01-09T20:58:22	kimmaicutler MarketUrbanism CityObs    P.S. I forgot her co-authors,  notwithstanding
+JedKolko	685927957735448576	2016-01-09T20:55:43	albrgr khuey_ tanzoak CityObs Though many people hold onto housing a long time, so cumulative appreciation can be big.
+JedKolko	685924464303853568	2016-01-09T20:41:50	kimmaicutler MarketUrbanism CityObs recent paper from Ingrid Ellen and co-authors details housing policies and costs
+JedKolko	685844918967775233	2016-01-09T15:25:45	conorsen You might be able to recycle that tweet every month for decades. 
+JedKolko	685842096893239297	2016-01-09T15:14:32	Or, why we should all work the same hours: You Don’t Need More Free Time 
+JedKolko	685507082393526272	2016-01-08T17:03:19	NickTimiraos Though, unfortunately, probably not in the same local market.
+JedKolko	685506069666246656	2016-01-08T16:59:17	The uscensusbureau can't wait for Valentine's Day. Marriage age, chocolate production, "love" towns, &amp; more: 
+JedKolko	685461585272307714	2016-01-08T14:02:31	bencasselman And backslid for young adults. 
+JedKolko	685461175790768128	2016-01-08T14:00:54	Even with recent jump, housing construction share of jobs way below peak and still below pre-bubble level. 
+JedKolko	685459906585964545	2016-01-08T13:55:51	Construction boom: biggest 3-month jump in residential construction jobs since housing recovery began. 
+JedKolko	685457614923145216	2016-01-08T13:46:45	Manufacturing share of jobs hit another all-time low. Now at 8.61%. 
+JedKolko	685456235659841536	2016-01-08T13:41:16	Key for 2016 housing: young adult empl inched up to 76.4%, but down from early 2015 and still struggling. 
+JedKolko	685166358032613376	2016-01-07T18:29:24	Joe_Cortright True. Too bad smaller geos change so much over time. Plus, sub-county tricky for jobs, though possible for people.
+JedKolko	685162337628598273	2016-01-07T18:13:25	lehnerjw has it become possible to download county employment over time from QCEW in single file?
+JedKolko	685157137576689664	2016-01-07T17:52:45	Joe_Cortright Eyeballing: large metros improved 2000-2015 vs 1980-2000. That's compelling re: long term shift. Urban/suburb =separate issue
+JedKolko	685149838829162496	2016-01-07T17:23:45	New trulia research on where a real estate "bargain" is really a bargain.  In Ohio, it seems: .  cc housingnomix
+JedKolko	685153351302905856	2016-01-07T17:37:43	CityObs lymanstoneky Joe_Cortright lehnerjw Shorter post-2000 periods (2007-today, 2011-today, etc.) are more about cycle than trend
+JedKolko	685153110143053824	2016-01-07T17:36:45	CityObs lymanstoneky Joe_Cortright lehnerjw Good to focus on today vs 2000 (or earlier), whether on metro size, county type, or n'hood
+JedKolko	685151488851587072	2016-01-07T17:30:19	lymanstoneky CityObs Joe_Cortright Only if the population categories are defined at end of period. Not problem if defined at start
+JedKolko	685151305275326464	2016-01-07T17:29:35	CityObs lymanstoneky Joe_Cortright But your post cites large metro job growth as evidence of broader urbanism trend.
+JedKolko	685148497637588992	2016-01-07T17:18:25	CityObs lymanstoneky Joe_Cortright And we're seeing catch-up in population at county level. 1m+ metros include lots of suburban counties
+JedKolko	685147935957319680	2016-01-07T17:16:12	lymanstoneky CityObs Joe_Cortright Right, Lyman. The post-2011 trend shows a step back to pre-bubble pattern. 
+JedKolko	685146680040148993	2016-01-07T17:11:12	CityObs Joe_Cortright (2/2) Better evidence of longer-term urban/suburban shift would come from looking at whole cycle, 2000 vs today.
+JedKolko	685146314363949057	2016-01-07T17:09:45	CityObs Joe_Cortright (1/2) That is my point. The bubble favored suburbs &amp; smaller metros; the bust &amp; recovery have been a reaction.
+JedKolko	685142822861721600	2016-01-07T16:55:52	Joe_Cortright Comparisons starting in 2007 are more about cyclical swing than deep trend.  
+JedKolko	685139757987303424	2016-01-07T16:43:42	DanielKayHertz Or, good when they rise and good when they don't, if you woke up on the other side of the bed.
+JedKolko	684921919687151616	2016-01-07T02:18:05	AlanZibel ajlamacchia AngelaKBoyd AJakabovics An indicator of a real estate bubble would be high prices relative to rents.
+JedKolko	684921739457867776	2016-01-07T02:17:22	AlanZibel ajlamacchia AngelaKBoyd AJakabovics High rents are about scarcity not speculation.
+JedKolko	684904920638558208	2016-01-07T01:10:32	ConorDougherty When you can see your wrinkles without putting on your reading glasses, then you're in trouble.
+JedKolko	684883720675827712	2016-01-06T23:46:18	ConorDougherty Soon your eyes will start to go, too, and you won't notice how old you look.
+JedKolko	684844070561185792	2016-01-06T21:08:44	CityObs Why stop at mortgage interest deduction? Invite the property tax deduction &amp; home-sale capital-gain exclusion to this party.
+JedKolko	684813578205966336	2016-01-06T19:07:34	lieber2k Be skeptical. Two studies cited. One assumes that high-density housing includes parking. The other study excludes land costs!
+JedKolko	684786925186629632	2016-01-06T17:21:40	michael_hendrix newgeography thanks!
+JedKolko	684783268814692353	2016-01-06T17:07:08	"Canada is essentially closer to the U.S. than it is to itself" -- NYTimeskrugman in  
+JedKolko	684780805655117824	2016-01-06T16:57:21	michael_hendrix newgeography Curious -- where's good summary of USChamber positions on land use, zoning, and housing issues incl MID?
+JedKolko	684751444793151488	2016-01-06T15:00:41	"Density is not the answer." New report on cities' unfriendliness to middle class and to families. newgeography 
+JedKolko	684373000804823040	2016-01-05T13:56:53	Nice state tax data viz from bencasselman 
+JedKolko	684171005682528256	2016-01-05T00:34:13	mims Goldin/Katz: Inequality trends driven not just by technology (demand) but also education (supply). 
+JedKolko	684150977088233472	2016-01-04T23:14:38	kimmaicutler For me, the meetings are for catching up with friends rather than going to sessions. I can recommend my friends very highly!
+JedKolko	684149673343320064	2016-01-04T23:09:27	kimmaicutler Some papers are more about technical approach than what they reveal about the world, so less interesting for non-economists
+JedKolko	684146694355730433	2016-01-04T22:57:37	Building a macroscope to create a new picture of how the world works. PopSci  AI space 
+JedKolko	684144385055944706	2016-01-04T22:48:26	kimmaicutler Life is full of tough choices.
+JedKolko	684140935144341504	2016-01-04T22:34:44	kimmaicutler Program is here:  . Fun aside: searching on "Uber" pulls up papers with "exuberance" in title, too
+JedKolko	684132805295620096	2016-01-04T22:02:26	Important data revision for residential improvement spending in today's construction spending report; 
+JedKolko	684043478951579648	2016-01-04T16:07:28	jeffrlin It's rough to be awake in the Starbucks-only hours.
+JedKolko	684042927685767168	2016-01-04T16:05:17	jeffrlin Which did you try, and how was it?
+JedKolko	684042755740286976	2016-01-04T16:04:36	MikeIsaac ConorDougherty Regardless of whether those thanked agreed, it's still revealing whom he asked to read it. Heavy on tech.
+JedKolko	684040475607564288	2016-01-04T15:55:32	ConorDougherty MikeIsaac I have given that exact advice to some things I've reviewed and, still, was thanked publicly.
+JedKolko	684040017103044608	2016-01-04T15:53:43	MikeIsaac ConorDougherty Though, when thanking others, people often include an "all errors are mine, don't blame them" kind of disclaimer
+JedKolko	684039315832242176	2016-01-04T15:50:56	MikeIsaac ConorDougherty I've reviewed many pieces that I was critical of yet was publicly thanked for reading.
+JedKolko	684030080805244930	2016-01-04T15:14:14	johnjhorton Right. Economics is not the discipline of case studies. We throw out outliers.
+JedKolko	684028572529328129	2016-01-04T15:08:14	johnjhorton Yup. And titles are marketing, so they reflect what economists think will get other economists interested.
+JedKolko	684021607916912640	2016-01-04T14:40:34	Easy way to get talked about more: share your data with researchers.  
+JedKolko	684020895300497408	2016-01-04T14:37:44	BrianCAlbrecht Yeah it's unusual -- though apparently likeliest for companies that are themselves platforms or that have rich data.
+JedKolko	684016614153433088	2016-01-04T14:20:43	The two most talked-about companies at the big annual economists' conference: Uber and amazon ASSA2016 
+JedKolko	683799572871696384	2016-01-03T23:58:17	JedKolko That's some pretty valuable info!
+JedKolko	683798278626885632	2016-01-03T23:53:08	Pro tip for hungry economists: one of SF's best food trucks, Senor Sisig (Filipino), is at Ellis and Powell until 5 today. ASSA2016
+JedKolko	683757666439540736	2016-01-03T21:11:45	AnthonyDeFusco Different. Blue Bottle more of a phenom. Mazarine: shorter lines but closed today. Or, BART to Four Barrel in the Mission
+JedKolko	683753792215465984	2016-01-03T20:56:22	Pro tip for coffee-snob economists:  Mazarine, 720 Market (7-8; closed Sun) Blue Bottle, 5th &amp; Mission (7-7)  ASSA2016
+JedKolko	683749116216672256	2016-01-03T20:37:47	katherinettyson it's one way that the economics world and the tech world are similar. Happens all the time at Silicon Valley events
+JedKolko	683503032756129792	2016-01-03T04:19:56	From last mtg in SF:    Standing at street light with colleagues.   Trans sex worker walks up, looks us up &amp; down, asks "Economists?"
+JedKolko	683686825286713344	2016-01-03T16:30:16	Companies that economists are talking about  Paper titles with: Uber: 4 Amazon: 3 Airbnb, Lehman, Netflix, Yelp: 1 All others: 0  ASSA2016
+JedKolko	683680180351545348	2016-01-03T16:03:51	You probably know to ask yourself, “What do I want?” Here’s a way better question - Quartz -  via Nuzzel
+JedKolko	683662950779994112	2016-01-03T14:55:23	Where jobs are growing fastest: Advanced degrees Female-majority occupations Urban areas 
+JedKolko	683647452914659328	2016-01-03T13:53:48	matthew_holder tristanwalker Start by googling "natural monopoly" and then "Schumpeter."
+JedKolko	683428901243105280	2016-01-02T23:25:22	conradhackett zpyarom Actually, I did. At 13, on my 1st trip to DC, I went to Govt Printing Office to buy a book of 1980 Census data.
+JedKolko	683419456823898112	2016-01-02T22:47:50	clitheroj The conference hotels are very central, walkable, and on great transit. Where will economists be Ubering?
+JedKolko	683359999398023168	2016-01-02T18:51:34	My 84-year-old father-in-law just sent his first text. So proud. They grow up so fast!
+JedKolko	681868951849144320	2015-12-29T16:06:41	Advice on giving an applied micro econonomics talk by Jesse Shapiro: 
+JedKolko	683158343905456128	2016-01-02T05:30:16	For folks heading to ASSAMeeting assa2016 
+JedKolko	683024392142585857	2016-01-01T20:37:59	New projections show America's labor markets could grow more polarized along educational lines 
+JedKolko	682650972917772289	2015-12-31T19:54:09	Why job growth could get even worse for men without college degrees  
+JedKolko	682663853541437440	2015-12-31T20:45:20	Job prospects are set to get even bleaker for dudes without degrees  big h/t to jedkolko 
+JedKolko	682598394326433792	2015-12-31T16:25:13	bencasselman fleece pocket protectors

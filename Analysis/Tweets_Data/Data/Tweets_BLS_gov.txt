@@ -1,0 +1,300 @@
+BLS_gov	726086233781198850	2016-04-29T16:30:22	Nonfatal occupational injuries and illnesses, 1976–2014  JobSafety BLSdata 
+BLS_gov	726033344513744896	2016-04-29T13:00:13	See our interactive graphics on today’s new Employment Cost Index data  EmploymentCosts BLSdata
+BLS_gov	726025749988302848	2016-04-29T12:30:02	Compensation costs up 0.6% Dec 2015-Mar 2016 and up 1.9% over the year ending March   EmploymentCosts BLSdata
+BLS_gov	725823949737721856	2016-04-28T23:08:09	gsinger1979 Bankruptcy data are from the Administrative Office of the U.S. Courts. See their website: 
+BLS_gov	725776945451917312	2016-04-28T20:01:22	New research data on job creation and destruction by firm age and size  BLSdata 
+BLS_gov	725717490026704896	2016-04-28T16:05:07	Fatal injuries in U.S. workplaces rise in 2014  JobSafety BLSdata 
+BLS_gov	725689200905965568	2016-04-28T14:12:42	In October 2015, 69.2% of 2015 high school graduates enrolled in college  BLSdata
+BLS_gov	725463316420694020	2016-04-27T23:15:07	Be sure to sign up for the BLS Data Users Conference in Philadelphia, May 11, 2016  BLSdata 
+BLS_gov	725414281013911552	2016-04-27T20:00:16	Want to present your research at the Consumer Expenditure Survey Workshop, July 13-15? Sign up by May 1  BLSdata
+BLS_gov	725368503071559680	2016-04-27T16:58:22	WallStreetBean Men incurred over 99% of all fatal falls to lower level in construction. Men also account for 90+% of construction emp.
+BLS_gov	725362636569743360	2016-04-27T16:35:03	42,480 work injuries involved ice, sleet, or snow in 2014  JobSafety BLSdata 
+BLS_gov	725325087856054272	2016-04-27T14:05:51	Gross job gains 7.3 million and gross job losses 6.9 million in the 3rd quarter of 2015  BLSdata
+BLS_gov	725324924747964416	2016-04-27T14:05:12	March jobless rates down over the year in 270 of 387 metro areas; payroll jobs up in 332  BLSdata
+BLS_gov	725097173696671744	2016-04-26T23:00:12	Fatal falls in the private construction industry, 2003–14  JobSafety BLSdata 
+BLS_gov	724995273089413121	2016-04-26T16:15:17	Spotlight on Statistics: 13 charts about self-employment in the United States  BLSdata 
+BLS_gov	724738546876080128	2016-04-25T23:15:09	Fertility of women in the baby boom generation  BLSdata 
+BLS_gov	724630323569401857	2016-04-25T16:05:06	Hospital workers suffered 294,000 nonfatal workplace injuries &amp; illnesses in 2014  BLSdata 
+BLS_gov	724244046651105280	2016-04-24T14:30:11	Unemployment rate declined in 36 states for the year ending March 2016  BLSdata 
+BLS_gov	723606402590248961	2016-04-22T20:16:24	mattmaisonRE March 2015–March 2016 data in map we tweeted are from  monthly Current Employment Statistics survey, which is more timely.
+BLS_gov	723605890633445376	2016-04-22T20:14:22	mattmaisonRE There's about a 6- month lag in data availability from Quarterly Census of Employment and Wages, which is based on UI records
+BLS_gov	723543177848754177	2016-04-22T16:05:11	3.3% of all hourly paid workers had wages at or below federal MinimumWage in 2015  BLSdata 
+BLS_gov	723512254096875520	2016-04-22T14:02:18	In 2015, 6.9% of families included an unemployed person, down from 2014  BLSdata
+BLS_gov	723285433749102594	2016-04-21T23:01:00	Idaho has largest percentage increase in employment since March 2015  BLSdata 
+BLS_gov	723232411803213824	2016-04-21T19:30:18	Evolution of administrative practices in American unions: results from a 20-year study  
+BLS_gov	723180782894780416	2016-04-21T16:05:09	Final count of U.S. fatal work injuries in 2014 was 4,821, highest annual total since 2008  JobSafety BLSdata
+BLS_gov	722926603647324160	2016-04-20T23:15:08	Workers in healthcare occupations most likely to have certifications or licenses  BLSdata 
+BLS_gov	722839831496101888	2016-04-20T17:30:20	Sign up for the BLS Data Users Conference in Philadelphia, May 11, 2016  BLSdata 
+BLS_gov	722802206617899009	2016-04-20T15:00:49	A Profile of the Working Poor, 2014  BLSdata 
+BLS_gov	722568011962421248	2016-04-19T23:30:13	Real average hourly earnings up 1.4% for the year ending March 2016  BLSdata 
+BLS_gov	722502410418200578	2016-04-19T19:09:32	We’re always happy to see BLS information being used in the classroom! 
+BLS_gov	722425285426221060	2016-04-19T14:03:04	Median weekly earnings of full-time wage and salary workers are $830 in 1st quarter 2016  BLSdata
+BLS_gov	722201828302032896	2016-04-18T23:15:08	Consumer price index continued its slowdown in 2015: energy was main factor  CPI BLSdata 
+BLS_gov	722169525559562240	2016-04-18T21:06:46	CTHerman Sample is 60k households (homes, apartments, other housing units). Both visits and phone are used. See 
+BLS_gov	722145452347506692	2016-04-18T19:31:07	CTHerman Subsequent month interviews also could be personal visit if respondent doesn't have a phone or is in unable to use one.
+BLS_gov	722144683581943809	2016-04-18T19:28:04	CTHerman 1st interview is visit to household. Subsequent months usu. are phone interviews to mobile or land # respondent give in 1st month.
+BLS_gov	722139661934731264	2016-04-18T19:08:06	NyckieRod We haven't had any reported outages of .
+BLS_gov	722137507396218880	2016-04-18T18:59:33	CTHerman Not correct. Sample selected from physical addresses, not a phone listing. Read more about the sample at 
+BLS_gov	722093604223627264	2016-04-18T16:05:05	Consumer prices up 3.0% in San Francisco area over the year ended in February  CPI BLSdata 
+BLS_gov	721758419510829061	2016-04-17T17:53:11	georgepearkes LouSwimmin  For 2015 see   History:  and select "25 years and over" for age.
+BLS_gov	721709890247462913	2016-04-17T14:40:21	NinjaEconomics See table 15 at . Please let us know if that's not what you mean.
+BLS_gov	721699762907389952	2016-04-17T14:00:06	The Consumer Expenditure Survey redesign initiative  BLSdata 
+BLS_gov	721043003503091714	2016-04-15T18:30:23	Producer Price Index for final demand ⬇ 0.1 percent for the year ended March 2016  BLSdata 
+BLS_gov	721012831315886080	2016-04-15T16:30:29	Why This Counts: New Timely Data on Professional Certifications and Licenses  BLSdata 
+BLS_gov	720975782475087874	2016-04-15T14:03:16	March jobless rates down in 21 states, up in 15; payroll jobs up in 37 states, down in 12  BLSdata
+BLS_gov	720975543659794432	2016-04-15T14:02:19	Expenditures for July 2014-June 2015 are 5.9% higher than the July 2013-June 2014 average  BLSdata
+BLS_gov	720752285924532224	2016-04-14T23:15:10	U.S. import and export prices down over the year ending March 2016  BLSdata 
+BLS_gov	720644052194959360	2016-04-14T16:05:05	Comparing wages across U.S. metro areas with regional price adjustments  BLSdata 
+BLS_gov	720589944176132096	2016-04-14T12:30:05	Real average hourly earnings increase 0.2% in March  RealEarnings BLSdata
+BLS_gov	720589942779457536	2016-04-14T12:30:04	CPI for all items rises 0.1% as energy, shelter prices increase; food prices decline  CPI BLSdata
+BLS_gov	720288186174341120	2016-04-13T16:31:00	Women more likely than men to have earned a bachelor's degree by age 29  BLSdata 
+BLS_gov	720227563864473600	2016-04-13T12:30:07	PPI for final demand decreases 0.1% in March; services decline 0.2%, goods rise 0.2%   PPI BLSdata
+BLS_gov	720023793054318592	2016-04-12T23:00:24	Oil and gas extraction productivity up 11.4% in 2015  BLSdata 
+BLS_gov	719870229677912065	2016-04-12T12:50:11	See our interactive graphics on today’s new import and export prices data  BLSdata ExportImportPrices
+BLS_gov	719865160970694656	2016-04-12T12:30:03	Import prices up 0.2% in March led by upturn in fuel prices; export prices unchanged   ExportImportPrices BLSdata
+BLS_gov	719665112752099329	2016-04-11T23:15:08	Unemployment rates ⬇ in 76 percent of metro areas over the year ended February 2016  BLSdata 
+BLS_gov	719609744734818304	2016-04-11T19:35:07	Attending the AERA16 conference today in Washington? Stop by the poster presentations this p.m. from 6 BLS statistical programs. BLSdata
+BLS_gov	719553128928948224	2016-04-11T15:50:09	Attending the AERA16 conference today in Washington? Be sure to visit BLS at booth 527 BLSdata
+BLS_gov	719163097039015937	2016-04-10T14:00:18	Taxes filed yet? Geographic concentration of tax preparers &amp; accountants in 2015  BLSdata 
+BLS_gov	718470988535451648	2016-04-08T16:10:06	Employment ⬆ 100,000+ over the year in New York, Los Angeles, &amp; Dallas metro areas  BLSdata 
+BLS_gov	718439415748681728	2016-04-08T14:04:39	Young adults born in the early 1980s held an average of 7.2 jobs from ages 18 through 28  BLSdata
+BLS_gov	718219340215033856	2016-04-07T23:30:09	Number of job openings rose to 5.4 million over the year ending February 2016  BLSdata 
+BLS_gov	718078827675693056	2016-04-07T14:11:48	Productivity rises in 49% of manufacturing and mining industries in 2015  BLSdata
+BLS_gov	717747516897267712	2016-04-06T16:15:17	Geographic concentration of tax preparers and accountants and auditors in 2015  BLSdata 
+BLS_gov	717714371657482240	2016-04-06T14:03:35	Feb. jobless rates down over the year in 296 of 387 metro areas; payroll jobs up in 323  BLSdata
+BLS_gov	717490797730398208	2016-04-05T23:15:11	Unemployment rate 5.0 percent in March 2016, U-6 at 9.8 percent  JobReport BLSdata 
+BLS_gov	717434186592706560	2016-04-05T19:30:14	Employment interviewing: Seizing the opportunity and the job  BLSdata 
+BLS_gov	717382588550107137	2016-04-05T16:05:12	Unemployment rate 5.0 percent in March 2016, U-6 at 9.8 percent  JobReport BLSdata 
+BLS_gov	717371231440216064	2016-04-05T15:20:04	More charts and analysis on the February job openings and labor turnover numbers  BLSdata
+BLS_gov	717352015052017664	2016-04-05T14:03:42	Job openings little changed at 5.4 million in February: hires increase to 5.4 million  BLSdata
+BLS_gov	717128393439862786	2016-04-04T23:15:07	Payroll employment up by 215,000 in March 2016  JobReport BLSdata 
+BLS_gov	717075587009908736	2016-04-04T19:45:17	It's National Employee Benefits Day! Learn more about data that benefits you!  NEBD BLSdata 
+BLS_gov	717016524716949505	2016-04-04T15:50:35	jschwabish Thanks. It looks like something from internal test server. We'll investigate why it appeared, if only briefly, on public site.
+BLS_gov	717014988997730304	2016-04-04T15:44:29	jschwabish You saw that at ? Can you check again and let us know if you still see that?
+BLS_gov	716633895446294529	2016-04-03T14:30:09	Multifactor productivity increases at 0.7-percent annual rate in 2014  BLSdata 
+BLS_gov	715933006754504706	2016-04-01T16:05:04	Multifactor productivity increases at 0.7-percent annual rate in 2014  BLSdata 
+BLS_gov	715894499533164545	2016-04-01T13:32:04	More charts and analysis on the March nonfarm payroll employment numbers  JobsReport BLSdata
+BLS_gov	715883943984111616	2016-04-01T12:50:07	See our interactive graphics on today’s JobsReport  BLSdata
+BLS_gov	715878897796136960	2016-04-01T12:30:04	Payroll employment rises by 215,000 in March; unemployment rate little changed at 5.0%  JobsReport BLSdata
+BLS_gov	715682638644662273	2016-03-31T23:30:12	Retail salespersons &amp; cashiers were occupations with highest employment in 2015  BLSdata 
+BLS_gov	715629828720844801	2016-03-31T20:00:21	Comparing the CPI with GDP price index and implicit price deflator  BLSdata 
+BLS_gov	715586994223452161	2016-03-31T17:10:09	Retail salespersons &amp; cashiers were occupations with highest employment in 2015  BLSdata 
+BLS_gov	715316468884250625	2016-03-30T23:15:10	21 states had significant unemployment rate declines from Feb. 2015 to Feb. 2016  BLSdata 
+BLS_gov	715209502706892800	2016-03-30T16:10:08	21 states had significant unemployment rate declines from Feb. 2015 to Feb. 2016  BLSdata 
+BLS_gov	715177835682521088	2016-03-30T14:04:18	Healthcare occupations represent 9% of employment in May 2015  BLSdata
+BLS_gov	714957846207528960	2016-03-29T23:30:08	35 states had statistically significant job gains for year ending February 2016  BLSdata 
+BLS_gov	714905207688134656	2016-03-29T20:00:58	Data on display: Education matters  BLSdata 
+BLS_gov	714845862615121921	2016-03-29T16:05:09	35 states had statistically significant job gains for year ending February 2016  BLSdata 
+BLS_gov	714595496057176065	2016-03-28T23:30:17	Unemployment rate for Gulf War-era II veterans 5.8 percent in 2015  BLSdata 
+BLS_gov	714535092895387648	2016-03-28T19:30:16	Partnering with the States to Provide Labor Market Information  BLSdata 
+BLS_gov	714483474556518401	2016-03-28T16:05:09	Unemployment rate for Gulf War-era II veterans 5.8 percent in 2015  BLSdata 
+BLS_gov	714097178122145792	2016-03-27T14:30:09	Ames, IA, and Boulder, CO, had the lowest unemployment rates in January 2016  BLSdata 
+BLS_gov	713407620736942081	2016-03-25T16:50:05	Ames, IA, and Boulder, CO, had the lowest unemployment rates in January 2016  BLSdata 
+BLS_gov	713366284117884930	2016-03-25T14:05:50	Feb. jobless rates down in 22 states, up in 8; payroll jobs up in 36 states, down in 14  BLSdata
+BLS_gov	713142116021481472	2016-03-24T23:15:04	El Centro, CA, has highest % decrease in manufacturing employment since 2006  BLSdata 
+BLS_gov	713078115644215296	2016-03-24T19:00:45	Expect 25 years of rapid change — by Kevin Hassett and MichaelRStrain  
+BLS_gov	713036456856453120	2016-03-24T16:15:13	El Centro, CA, has highest % decrease in manufacturing employment since 2006  BLSdata 
+BLS_gov	713002979452956673	2016-03-24T14:02:11	Multifactor productivity increases 0.7% in 2014, faster growth rate than in 2013  BLSdata
+BLS_gov	712783534855839745	2016-03-23T23:30:12	Hires and employment separations both fell in January 2016  BLSdata 
+BLS_gov	712677971685822464	2016-03-23T16:30:44	Hires and employment separations both fell in January 2016  BLSdata 
+BLS_gov	712413622090084353	2016-03-22T23:00:18	Real average hourly earnings up 1.2 percent over the year ended in February  BLSdata 
+BLS_gov	712368372579639296	2016-03-22T20:00:29	Thinking About a New Job? Try Healthcare  BLSdata 
+BLS_gov	712309122406854656	2016-03-22T16:05:03	Real average hourly earnings up 1.2 percent over the year ended in February  BLSdata 
+BLS_gov	712278420747640832	2016-03-22T14:03:03	Unemployment rate for Gulf War-era II veterans declines to 5.8% in 2015  BLSdata
+BLS_gov	712054962142851072	2016-03-21T23:15:06	Energy commodities prices down 20.9% over the year ended in February 2016  CPI BLSdata 
+BLS_gov	711946764337582081	2016-03-21T16:05:10	Energy commodities prices down 20.9% over the year ended in February 2016  CPI BLSdata 
+BLS_gov	711552942172602368	2016-03-20T14:00:16	PPI for final demand was unchanged for the 12 months ending in February 2016  BLSdata 
+BLS_gov	710859583003054080	2016-03-18T16:05:06	PPI for final demand was unchanged for the 12 months ending in February 2016  BLSdata 
+BLS_gov	710828769829908482	2016-03-18T14:02:39	Jan. jobless rates down over the year in 333 of 387 metro areas; payroll jobs up in 325  BLSdata
+BLS_gov	710609185528893440	2016-03-17T23:30:06	Idaho employment increases 3.9 percent over the year ended January 2016  BLSdata 
+BLS_gov	710564085914402816	2016-03-17T20:30:54	Career Outlook: Interview with a woodworker  
+BLS_gov	710503555250061313	2016-03-17T16:30:22	Idaho employment increases 3.9 percent over the year ended January 2016  BLSdata 
+BLS_gov	710473389052268544	2016-03-17T14:30:30	More charts and analysis on the January job openings and labor turnover numbers  BLSdata
+BLS_gov	710466843492925440	2016-03-17T14:04:29	Job openings rise to 5.5 million in January; annual hires and quits increase in 2015  BLSdata
+BLS_gov	710239268451459072	2016-03-16T23:00:11	Mississippi has highest unemployment rate, Dakotas the lowest, in January 2016  BLSdata 
+BLS_gov	710193996102893568	2016-03-16T20:00:18	Current Employment Statistics data and their contributions as economic indicators  BLSdata 
+BLS_gov	710163935974936576	2016-03-16T18:00:51	Mississippi has highest unemployment rate, Dakotas the lowest, in January 2016  BLSdata 
+BLS_gov	710080687286722561	2016-03-16T12:30:03	Real average hourly earnings are unchanged in February  RealEarnings BLSdata
+BLS_gov	710080686309429248	2016-03-16T12:30:02	CPI for all items falls 0.2% in February as gasoline prices drop; shelter, apparel, food indexes rise  CPI BLSdata
+BLS_gov	709880617148657664	2016-03-15T23:15:02	Import price index down 6.1 percent between February 2015 and February 2016  BLSdata 
+BLS_gov	709771937770250240	2016-03-15T16:03:11	Import price index down 6.1 percent between February 2015 and February 2016  BLSdata 
+BLS_gov	709718308719874048	2016-03-15T12:30:05	PPI for final demand decreases 0.2% in February; goods decline 0.6%, services unchanged   PPI BLSdata
+BLS_gov	709522067863900160	2016-03-14T23:30:17	Private employer costs for pay and benefits $38.14 per hour in New England  BLSdata 
+BLS_gov	709436333362642944	2016-03-14T17:49:37	surge_n_viagra See latest report on county employment and wages at 
+BLS_gov	709413822583287809	2016-03-14T16:20:10	Private employer costs for pay and benefits $38.14 per hour in New England  BLSdata 
+BLS_gov	709399763997859840	2016-03-14T15:24:18	surge_n_viagra For more information about the methods, please see the technical note that begins on page 9 of the report.
+BLS_gov	709379614330769408	2016-03-14T14:04:14	Jan. jobless rates down in 28 states, up in 8; payroll jobs up in 30 states, down in 20  BLSdata
+BLS_gov	709023763426205696	2016-03-13T14:30:12	Average weekly wages among largest counties, Q3 2014 to Q3 2015  BLSdata 
+BLS_gov	708348060791808002	2016-03-11T17:45:12	Average weekly wages among largest counties, Q3 2014 to Q3 2015  BLSdata 
+BLS_gov	708288895658536960	2016-03-11T13:50:06	See our interactive graphics on today’s new import and export prices data  BLSdata ExportImportPrices
+BLS_gov	708283856932249600	2016-03-11T13:30:05	Import prices drop 0.3% in February led by lower fuel prices; export prices fall 0.4%  ExportImportPrices BLSdata
+BLS_gov	708080069063774208	2016-03-11T00:00:18	Unemployment rates for Hispanics or Latinos by state in 2015  BLSdata 
+BLS_gov	708034909353324545	2016-03-10T21:00:51	I, Robot? — by USChamber Deputy Chief Economist J.D. Foster  
+BLS_gov	707975592759537666	2016-03-10T17:05:09	Unemployment rates for Hispanics or Latinos by state in 2015  BLSdata 
+BLS_gov	707944565681078272	2016-03-10T15:01:52	Civilian compensation costs average $33.58 per hour worked in December  BLSdata
+BLS_gov	707725242823610368	2016-03-10T00:30:21	Volunteer rate down slightly for the year ending in September 2015  
+BLS_gov	707631962614317056	2016-03-09T18:19:41	Volunteer rate down slightly for the year ending in September 2015  
+BLS_gov	707583639891132417	2016-03-09T15:07:40	Rockland, N.Y., has largest county 3rd quarter 2015 over-the-year wage gain at 24.9%  BLSdata
+BLS_gov	707359025512341505	2016-03-09T00:15:08	1.8 million people marginally attached to labor force in Feb. 2016  JobsReport BLSdata 
+BLS_gov	707287340285177857	2016-03-08T19:30:17	Using gasoline data to explain inelasticity  BLSdata 
+BLS_gov	707250812402016256	2016-03-08T17:05:08	1.8 million people marginally attached to labor force in Feb. 2016  JobsReport BLSdata 
+BLS_gov	707000422334992384	2016-03-08T00:30:10	Payroll employment up by 242,000 in February 2016  JobsReport BLSdata 
+BLS_gov	706947707634450432	2016-03-07T21:00:42	On your own: Becoming self-sufficient  BLSdata 
+BLS_gov	706888409294331906	2016-03-07T17:05:04	Payroll employment up by 242,000 in February 2016  JobsReport BLSdata 
+BLS_gov	706857218977636358	2016-03-07T15:01:08	A closer look at spending patterns of older Americans  BLSdata 
+BLS_gov	706502112729935872	2016-03-06T15:30:04	Unemployment rates for African Americans by state in 2015  BLSdata 
+BLS_gov	705837813917323264	2016-03-04T19:30:23	Why This Counts: Measuring “Gig” Work  BLSdata
+BLS_gov	705801255960981509	2016-03-04T17:05:07	Unemployment rates for African Americans by state in 2015  BLSdata 
+BLS_gov	705762371772379136	2016-03-04T14:30:36	More charts and analysis on the February nonfarm payroll employment numbers  JobsReport BLSdata
+BLS_gov	705754900735524866	2016-03-04T14:00:55	See our interactive graphics on today’s JobsReport  BLSdata
+BLS_gov	705747128853913602	2016-03-04T13:30:02	Payroll employment rises by 242,000 in February; unemployment rate unchanged at 4.9%  JobsReport BLSdata
+BLS_gov	705731329816719360	2016-03-04T12:27:15	SEHartwell Thanks! Very kind of you to say.
+BLS_gov	705543364796555264	2016-03-04T00:00:21	Employment by industry, 1910 and 2015  BLSdata 
+BLS_gov	705475403196936193	2016-03-03T19:30:17	Happy birthday to our Producer Price Index, started 125 years ago, 3/3/1891!  PPI BLSdata 
+BLS_gov	705437793602785281	2016-03-03T17:00:51	Employment by industry, 1910 and 2015  BLSdata 
+BLS_gov	705384756784046080	2016-03-03T13:30:06	Productivity falls 2.2% in 4th quarter 2015 (annual rate); unit labor costs  rise 3.3%  Productivity BLSdata
+BLS_gov	705188480251359232	2016-03-03T00:30:10	Transit and ground passenger employment up 18.6 percent since January 2006  BLSdata 
+BLS_gov	705097923743260672	2016-03-02T18:30:19	Transit and ground passenger employment up 18.6 percent since January 2006  BLSdata 
+BLS_gov	705036004844052481	2016-03-02T14:24:17	jredman We haven't detected issues or received reports from other users. If you're still having problems, call our helpdesk at 202-691-7614
+BLS_gov	705029810234515456	2016-03-02T13:59:40	CLF_423 This Friday. See our release schedule at 
+BLS_gov	704829862935031808	2016-03-02T00:45:09	ND had highest employment–population ratio and WV the lowest in 2015  BLSdata 
+BLS_gov	704773322500780032	2016-03-01T21:00:28	Nonprofits in America: new research data on employment, wages, and establishments  BLSdata 
+BLS_gov	704728092044988416	2016-03-01T18:00:45	ND had highest employment–population ratio and WV the lowest in 2015  BLSdata 
+BLS_gov	704463746802913281	2016-03-01T00:30:20	Government, utilities, and transportation had highest unionization rates in 2015  BLSdata 
+BLS_gov	704397978010779649	2016-02-29T20:08:59	Just a reminder BLS has experts available to speak about U.S. economic data  BLSdata 
+BLS_gov	704397189628436480	2016-02-29T20:05:51	adelaide_chen You're very welcome! We're always glad to have opportunities to talk with people who care about data.
+BLS_gov	704388353190309889	2016-02-29T19:30:44	Producer prices in 2015: Services inflation slows, goods prices fall further  PPI BLSdata 
+BLS_gov	704364658816389120	2016-02-29T17:56:35	enrikegp The ID for that series (and other PPI indexes) has changed. It's now WPUFD49207. Read more about it at 
+BLS_gov	704358063549992960	2016-02-29T17:30:23	Government, utilities, and transportation had highest unionization rates in 2015  BLSdata 
+BLS_gov	703965416666767360	2016-02-28T15:30:09	Typical education needed for entry into the largest growing occupations 2014–24  BLSdata 
+BLS_gov	703677065074180096	2016-02-27T20:24:20	syraphero Monday, March 14. See our release calendar at 
+BLS_gov	703324945582051331	2016-02-26T21:05:08	TerriZezza Careerlinklack Please see longer article:   Data-retrieval tool for all occs at 
+BLS_gov	703301077320372225	2016-02-26T19:30:18	Technology may disrupt occupations, but it won’t kill jobs — by robatkinsonitif  
+BLS_gov	703285346738544640	2016-02-26T18:27:47	adampaulblair MrSethHarris Not by industry, but by occupation. See   Full report at 
+BLS_gov	703278675114897408	2016-02-26T18:01:17	Typical education needed for entry into the largest growing occupations 2014–24  BLSdata 
+BLS_gov	703233740647092225	2016-02-26T15:02:43	Jobless rates down in 47 states in 2015; employment-population ratios up in 35 states  BLSdata
+BLS_gov	703229189835657216	2016-02-26T14:44:38	adampaulblair MrSethHarris We have info on % of employed who worked on a given day, so 100-x might be answer. See 
+BLS_gov	703014155897298945	2016-02-26T00:30:10	Unemployment and broader measures of labor market difficulty by state in 2015  BLSdata 
+BLS_gov	702916141664960512	2016-02-25T18:00:42	Unemployment and broader measures of labor market difficulty by state in 2015  BLSdata 
+BLS_gov	702871693354778624	2016-02-25T15:04:05	Volunteer rate declines to 24.9% in the year ending in September 2015  BLSdata
+BLS_gov	702655525352140801	2016-02-25T00:45:06	Real average hourly earnings rise 1.1 percent from January 2015 to January 2016  BLSdata 
+BLS_gov	702568910579638272	2016-02-24T19:00:56	Looking back on the first issue of the Monthly Labor Review, July 1915  BLSdata 
+BLS_gov	702546182652833792	2016-02-24T17:30:37	Real average hourly earnings rise 1.1 percent from January 2015 to January 2016  BLSdata 
+BLS_gov	702289468036816900	2016-02-24T00:30:31	Consumer Price Index up 1.4 percent over the year ending in January 2016  CPI BLSdata 
+BLS_gov	702214049111474176	2016-02-23T19:30:50	Trends in employer costs for defined benefit plans  BLSdata 
+BLS_gov	702183753532071936	2016-02-23T17:30:27	Consumer Price Index up 1.4 percent over the year ending in January 2016  CPI BLSdata 
+BLS_gov	701919443480215554	2016-02-23T00:00:11	Major work stoppages, 1985 to 2015  BLSdata 
+BLS_gov	701844248350429184	2016-02-22T19:01:23	Major work stoppages, 1985 to 2015  BLSdata 
+BLS_gov	701421187709009923	2016-02-21T15:00:17	Producer prices down over the year for final demand goods  BLSdata 
+BLS_gov	700757278849273858	2016-02-19T19:02:09	Producer prices down over the year for final demand goods  BLSdata 
+BLS_gov	700673712207560705	2016-02-19T13:30:05	Real average hourly earnings increase 0.4% in January  RealEarnings BLSdata
+BLS_gov	700673711414845440	2016-02-19T13:30:05	CPI for all items unchanged in January as energy declines offset array of increases  CPI BLSdata
+BLS_gov	700477440016019457	2016-02-19T00:30:10	1.4 unemployed people for each job opening in December 2015  BLSdata 
+BLS_gov	700401975104393216	2016-02-18T19:30:18	1.4 unemployed people for each job opening in December 2015  BLSdata 
+BLS_gov	700107563778441216	2016-02-18T00:00:25	U.S. import and export prices down over the year ending January 2016  BLSdata 
+BLS_gov	700017135553105920	2016-02-17T18:01:05	U.S. import and export prices down over the year ending January 2016  BLSdata 
+BLS_gov	699965910933708801	2016-02-17T14:37:32	joymwhitt it's usually because industry is too small to provide reliable estimates or publishing # could reveal identity of respondent.
+BLS_gov	699965121976791040	2016-02-17T14:34:24	joymwhitt Not available for DC alone, just for Washington-Arlington-Alexandria metro. When data aren't available for an industry (cont.)
+BLS_gov	699951186775044096	2016-02-17T13:39:02	joymwhitt Seasonally adjusted data for those industries are not available for DC.
+BLS_gov	699948937537576960	2016-02-17T13:30:05	PPI for final demand increases 0.1% in January; services advance 0.5%, goods fall 0.7%  PPI BLSdata
+BLS_gov	699752669095682048	2016-02-17T00:30:11	Labor productivity in nonfarm businesses increased 0.3% from Q4 2014 to Q4 2015  BLSdata 
+BLS_gov	699669693372583936	2016-02-16T19:00:28	Labor productivity in nonfarm businesses increased 0.3% from Q4 2014 to Q4 2015  BLSdata 
+BLS_gov	699624380968513536	2016-02-16T16:00:25	Labor markets in 2040: big data could be a big deal for jobseekers — by kclarksieben  
+BLS_gov	699382716253343744	2016-02-16T00:00:08	The life of American workers in 1915  BLSdata 
+BLS_gov	698929759187697664	2016-02-14T18:00:14	Sweets for the sweet for Valentine’s Day: employment at gift-related retailers  BLSdata 
+BLS_gov	698667968180416512	2016-02-14T00:39:58	mr_bellis You can contact experts to explain more about these data at 
+BLS_gov	698667581935370240	2016-02-14T00:38:26	mr_bellis A good primer is an article at . Related historical data at .
+BLS_gov	698220129402822656	2016-02-12T19:00:25	Sweets for the sweet for Valentine’s Day: employment at gift-related retailers  BLSdata 
+BLS_gov	698144937024442370	2016-02-12T14:01:38	See our interactive graphics on today’s new import and export prices data  BLSdata ExportImportPrices
+BLS_gov	698136988562694145	2016-02-12T13:30:03	Import prices fall 1.1% and export prices 0.8% in January, driven by lower fuel prices   ExportImportPrices BLSdata
+BLS_gov	697933244948307968	2016-02-12T00:00:27	Union membership rates by state in 2015  BLSdata 
+BLS_gov	697915700573302784	2016-02-11T22:50:44	tweeteater1209 We'll tweet this again with the correct link around 7:00 Eastern time this evening. Thanks again.
+BLS_gov	697915388462551041	2016-02-11T22:49:29	tweeteater1209 Thanks for letting us know. Our link is mistakenly pointing to https instead of http. Delete the "s" and it will work fine.
+BLS_gov	697857899742101504	2016-02-11T19:01:03	Union membership rates by state in 2015  BLSdata 
+BLS_gov	697570800493137920	2016-02-11T00:00:13	Unemployment rates decreased in 296 metro areas for year ending December 2015  BLSdata 
+BLS_gov	697516842429108224	2016-02-10T20:25:49	joshbrinkerhoff Thanks for catching that error. We’ve found the problem in our map code and will fix it soon.
+BLS_gov	697480722848681984	2016-02-10T18:02:17	Unemployment rates decreased in 296 metro areas for year ending December 2015  BLSdata 
+BLS_gov	697450003489370113	2016-02-10T16:00:13	The life of American workers in 1915  BLSdata 
+BLS_gov	697435539260252160	2016-02-10T15:02:44	12 major strikes and lockouts idle 47,000 workers in 2015  BLSdata
+BLS_gov	697208418218561536	2016-02-10T00:00:15	Construction &amp; mining have highest unemployment rates in January 2016  JobsReport BLSdata 
+BLS_gov	697133021527351297	2016-02-09T19:00:39	Construction &amp; mining have highest unemployment rates in January 2016  JobsReport BLSdata 
+BLS_gov	697080839415406592	2016-02-09T15:33:17	More charts and analysis on the December job openings and labor turnover numbers  BLSdata
+BLS_gov	697073194054905864	2016-02-09T15:02:55	Job openings rose to 5.6 million in December; quits rose to 3.1 million  BLSdata
+BLS_gov	696846031674183680	2016-02-09T00:00:15	Payroll employment up 151,000 in January 2016  JobsReport BLSdata 
+BLS_gov	696770635133898752	2016-02-08T19:00:39	Payroll employment up 151,000 in January 2016  JobsReport BLSdata 
+BLS_gov	696391085195563009	2016-02-07T17:52:27	Employment increased in 280 metro areas over the 12 months ending in December 2015  BLSdata 
+BLS_gov	695683627313528832	2016-02-05T19:01:16	Employment increased in 280 metro areas over the 12 months ending in December 2015  BLSdata 
+BLS_gov	695623165901295616	2016-02-05T15:01:01	More charts and analysis on the January nonfarm payroll employment numbers  JobsReport BLSdata
+BLS_gov	695607966725050369	2016-02-05T14:00:37	See our interactive graphics on today’s JobsReport  BLSdata
+BLS_gov	695600299042537472	2016-02-05T13:30:09	Payroll employment rises by 151,000 in January; unemployment rate changes little (4.9%)  JobsReport BLSdata
+BLS_gov	695396486272552960	2016-02-05T00:00:16	Compensation costs increase across occupational groups in 2015  BLSdata 
+BLS_gov	695349863983108096	2016-02-04T20:55:01	graykimbrough Well, that's embarrassing. We value the MLR very much and are glad you get our emails. Thanks for alerting us. We'll fix it.
+BLS_gov	695336224555290626	2016-02-04T20:00:49	Consumer spending on cell phone services has increased significantly since 2007  BLSdata 
+BLS_gov	695305969882894337	2016-02-04T18:00:36	Compensation costs increase across occupational groups in 2015  BLSdata 
+BLS_gov	695275690443190272	2016-02-04T16:00:16	You’re a what? Mystery shopper  
+BLS_gov	695237882353733632	2016-02-04T13:30:02	Productivity falls 3.0% in 4th quarter 2015 (annual rate); unit labor costs  rise 4.5%   Productivity BLSdata
+BLS_gov	695034091255631872	2016-02-04T00:00:15	Food for thought: Consumer food prices, 2005 to 2015  CPI BLSdata 
+BLS_gov	694958644668997632	2016-02-03T19:00:27	Food for thought: Consumer food prices, 2005 to 2015  CPI BLSdata 
+BLS_gov	694943502631743488	2016-02-03T18:00:17	BLS invites researchers to apply for the ASA/NSF/BLS Research Fellow Program. Deadline is 2/8/2016. Learn more at 
+BLS_gov	694898898477961220	2016-02-03T15:03:02	Dec. jobless rates down over the year in 296 of 387 metro areas; payroll jobs up in 280  BLSdata
+BLS_gov	694596339808673792	2016-02-02T19:00:47	7.6 million job gains and 6.7 million job losses in second quarter 2015  BLSdata 
+BLS_gov	694264958826213380	2016-02-01T21:03:59	Real median usual weekly earnings increased 3 percent over the year  BLSdata 
+BLS_gov	694246127386914820	2016-02-01T19:49:09	joymwhitt Similarly, DC has so little mining/logging/nat. res. employment that it is combined with const. (as it is with some other states)
+BLS_gov	694245220104421378	2016-02-01T19:45:33	joymwhitt Seasonally adjusted data for manuf. not available for DC because employment level is too small and doesn't vary enough to adjust
+BLS_gov	694196104884125697	2016-02-01T16:30:23	Nonprofit pay and benefits: estimates from the National Compensation Survey  BLSdata 
+BLS_gov	693847765676220416	2016-01-31T17:26:13	BLS invites researchers to apply for the ASA/NSF/BLS Research Fellow Program. Deadline is 2/8/2016. Learn more at 
+BLS_gov	693139110744076288	2016-01-29T18:30:16	Unemployment rate decreased in 42 states &amp; DC from December 2014 to December 2015  BLSdata 
+BLS_gov	693129068921896962	2016-01-29T17:50:22	joymwhitt Here's the full list of series IDs for each state. Please let us know if this doesn't (or does) help. 
+BLS_gov	693076389956841473	2016-01-29T14:21:02	See our interactive graphics on today’s new Employment Cost Index data  EmploymentCosts BLSdata
+BLS_gov	693063563552882688	2016-01-29T13:30:04	Compensation costs up 0.6% Sept 2015-Dec 2015 and up 2.0% over the year ending Dec  EmploymentCosts BLSdata
+BLS_gov	692859746047537156	2016-01-29T00:00:10	BLS invites researchers to apply for the ASA/NSF/BLS Research Fellow Program. Deadline is 2/8/2016. Learn more at 
+BLS_gov	692769278563450880	2016-01-28T18:00:41	Employment increased in 43 states, decreased in 7 from Dec. 2014 to Dec. 2015  BLSdata 
+BLS_gov	692729417907441664	2016-01-28T15:22:18	iamsarahdonovan We're still developing the 2017 questionnaire, so don't have all those details yet, but we'll have a blog post soon.
+BLS_gov	692724440476549121	2016-01-28T15:02:31	Union membership rate in 2015 is 11.1 percent, unchanged from 2014  BLSdata
+BLS_gov	692421989688999936	2016-01-27T19:00:41	Real earnings for production and nonsupervisory workers increase 2.1% in 2015  BLSdata 
+BLS_gov	692361929982119936	2016-01-27T15:02:02	Gross job gains 7.6 million and gross job losses 6.7 million in the 2nd quarter of 2015  BLSdata
+BLS_gov	692000021068279808	2016-01-26T15:03:56	December jobless rates down in 25 states, up in 14; payroll jobs up in 36 states, down in 14  BLSdata
+BLS_gov	691697145758380032	2016-01-25T19:00:25	Reflections on the occasion of the 100th anniversary of the Monthly Labor Review  BLSdata 
+BLS_gov	690617567275126785	2016-01-22T19:30:33	Consumer prices up 0.7% over the year; shelter prices up, energy prices down  BLSdata 
+BLS_gov	690550249782386689	2016-01-22T15:03:04	Median weekly earnings of full-time wage and salary workers are $825 in 4th quarter 2015  BLSdata
+BLS_gov	690323050680610819	2016-01-22T00:00:15	Reasons people give for not being in the labor force, 2004 and 2014  BLSdata 
+BLS_gov	689892722342166528	2016-01-20T19:30:17	Producer Price Index for final demand down 1.0% for year ended Dec. 2015  PPI BLSdata 
+BLS_gov	689824943148695553	2016-01-20T15:00:57	One hundred years of Current Employment Statistics data collection  BLSdata 
+BLS_gov	689802068966645760	2016-01-20T13:30:03	Real average hourly earnings increase 0.1% in December  RealEarnings BLSdata
+BLS_gov	689802068081647616	2016-01-20T13:30:03	CPI for all items falls 0.1% in December as energy and food indexes decline  CPI BLSdata
+BLS_gov	689534068086583296	2016-01-19T19:45:07	Import and export air passenger fares decrease in 2015  BLSdata 
+BLS_gov	688406125432193024	2016-01-16T17:03:04	JessePAkers Growth rate refers to projected percentage increase in occupation's employment. This article may help: 
+BLS_gov	688055313614925829	2016-01-15T17:49:04	Women's earnings 83 percent of men's, but vary by occupation  BLSdata 
+BLS_gov	687990141164589056	2016-01-15T13:30:06	PPI for final demand decreases 0.2% in December; goods decline 0.7%, services rise 0.1%  PPI BLSdata
+BLS_gov	687748590375075840	2016-01-14T21:30:16	Job openings rise in several industries over the year  BLSdata 
+BLS_gov	687680765950177280	2016-01-14T17:00:45	Adrenaline jobs: High-intensity careers  BLSdata 
+BLS_gov	687650537169272832	2016-01-14T15:00:38	Worth a Thousand Words? Announcing Interactive Graphics with BLS News Releases  BLSdata 
+BLS_gov	687639847733956609	2016-01-14T14:18:10	See our interactive graphics on today’s new import and export prices data  BLSdata ExportImportPrices
+BLS_gov	687628474178224128	2016-01-14T13:32:58	Import prices drop 1.2% in Dec. due to declining fuel prices; export prices down 1.1%  ExportImportPrices BLSdata
+BLS_gov	687623437049851904	2016-01-14T13:12:57	hedgefundsanta For states (&amp; some metros) see this for most recent years: . Longer history: 
+BLS_gov	687621494655029248	2016-01-14T13:05:14	hedgefundsanta Easiest way to get historical national industry employment data is with the tool at 
+BLS_gov	687435235827433473	2016-01-14T00:45:06	Number of paid sick leave days varies by length of service and establishment size  BLSdata 
+BLS_gov	687364778742824960	2016-01-13T20:05:08	Which industries need workers? Exploring differences in labor market activity  BLSdata 
+BLS_gov	687313181450964992	2016-01-13T16:40:06	Unemployment rate 3.2 percent for those 55 years of age and older  JobsReport BLSdata 
+BLS_gov	686934439213936644	2016-01-12T15:35:07	More charts and analysis on the November job openings and labor turnover numbers  BLSdata
+BLS_gov	686930294134411264	2016-01-12T15:18:39	Job openings little changed at 5.4 million in November  BLSdata
+BLS_gov	686706711944531969	2016-01-12T00:30:13	Payroll employment increases across most major industries in 2015  JobsReport BLSdata 
+BLS_gov	686601533706874880	2016-01-11T17:32:16	More charts and analysis on the December nonfarm payroll employment numbers  JobsReport BLSdata
+BLS_gov	685502952849707008	2016-01-08T16:46:54	See our interactive graphics on today’s JobsReport  BLSdata
+BLS_gov	685453424004063232	2016-01-08T13:30:06	Payroll employment rises by 292,000 in December; unemployment rate unchanged at 5.0%  JobsReport BLSdata
+BLS_gov	684770927259848704	2016-01-06T16:18:06	BLS invites researchers to apply for the ASA/NSF/BLS Research Fellow Program. Deadline is 2/8/2016. Learn more at 
+BLS_gov	684462809866985473	2016-01-05T19:53:45	Women in the Labor Force: A Databook  BLSdata 
+BLS_gov	684391050388094978	2016-01-05T15:08:36	The quest for meaningful and accurate occupational health and safety statistics  BLSdata 
+BLS_gov	684082963680768002	2016-01-04T18:44:22	People who are not in the labor force: why aren't they working?  BLSdata 
+BLS_gov	684046188631474177	2016-01-04T16:18:14	SunilSunderRaj3 HudsonsView TheRecordNJ For broader measures of labor underuse, see  Data: 
+BLS_gov	684045090743054337	2016-01-04T16:13:53	SunilSunderRaj3 HudsonsView TheRecordNJ For info on LT unemployed, see . Historical data: 
+BLS_gov	682215306077540353	2015-12-30T15:02:58	Nov. jobless rates down over the year in 322 of 387 metro areas; payroll jobs up in 294  BLSdata
+BLS_gov	681876358495076353	2015-12-29T16:36:07	Evaluation of BLS employment and labor force projections to 2006, 2008, and 2010  BLSdata 
+BLS_gov	681875907624235008	2015-12-29T16:34:19	Occupational employment projections to 2024  BLSdata 
+BLS_gov	681875360326283264	2015-12-29T16:32:09	Industry employment and output projections to 2024  BLSdata
+BLS_gov	681874305379135495	2015-12-29T16:27:57	Labor force projections to 2024: the labor force is growing, but slowly  BLSdata
+BLS_gov	681872016388059136	2015-12-29T16:18:51	Projections of the U.S. economy to 2024  BLSdata 
+BLS_gov	681870676035252226	2015-12-29T16:13:32	Overview of BLS labor market projections to 2024  BLSdata 
+BLS_gov	679710854187761664	2015-12-23T17:11:10	Spotlight on Statistics: Employment and Wages in Healthcare Occupations  BLSdata 
+BLS_gov	679653055244169217	2015-12-23T13:21:30	chuntr Dot represents entire Seattle-Tacoma-Bellevue metropolitan statistical area, which includes King, Snohomish, and Pierce counties.
+BLS_gov	679366374452514816	2015-12-22T18:22:20	Nonstore retail employment up 27.6 percent since January 2005  BLSdata 

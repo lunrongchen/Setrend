@@ -1,0 +1,479 @@
+MarcosCarreira	726159814498328577	2016-04-29T21:22:45	BM&amp;FBovespa workshops in NY and London:  New CCP structure and methodology cc ExchangeNews staffordphilip
+MarcosCarreira	726123899155435521	2016-04-29T19:00:02	[1604.07850] Your Neighbors Are My Spies: Location and other Privacy Concerns in 
+MarcosCarreira	726087782704238592	2016-04-29T16:36:32	Friday’s gone! Let’s dive into this rabbit hole "Can the brain do back-propagation?" by Geoffrey Hinton 
+MarcosCarreira	726013082988908544	2016-04-29T11:39:42	Big disconnect btw. this and soaring Brazilian asset prices. 
+MarcosCarreira	726013235418247169	2016-04-29T11:40:18	 Buy this book (I’ve already ordered my copy)
+MarcosCarreira	725782527613480960	2016-04-28T20:23:33	“Brazilian Derivatives and Securities” is shipping … Get yours if you’re interested in Brazil’s financial markets 
+MarcosCarreira	725759551748890624	2016-04-28T18:52:15	ICYMI earlier this week, M_C_Klein's podcast interview with Jim Chanos is just fantastic:  
+MarcosCarreira	725379405732823043	2016-04-27T17:41:41	Updating my Bayes workshop with ProjectJupyter notebooks running  on Binder.   
+MarcosCarreira	725342296502341632	2016-04-27T15:14:14	IBGE now allows research on name frequencies in Brazil 
+MarcosCarreira	725330659389112321	2016-04-27T14:27:59	New Visual Evidence post! How data shows up in the real world as what’s leftover or used up.  
+MarcosCarreira	725296401249386496	2016-04-27T12:11:52	Sentosa – An Simple Open Source High Frequency Automatic Algorithmic Trading System in R rstats 
+MarcosCarreira	725099749116780545	2016-04-26T23:10:26	felixsalmon There are those who think that  drum solos are good: 
+MarcosCarreira	725005764222455808	2016-04-26T16:56:58	h0d3r Meanwhile click/like based algos keep on promoting false news: 
+MarcosCarreira	724984915754926080	2016-04-26T15:34:08	The Priests, the Temples and the Blockchain Clearing Systems 
+MarcosCarreira	724981014032998400	2016-04-26T15:18:37	h0d3r You might be interested in this podcast (The Web is Dead?): 
+MarcosCarreira	724973962325843973	2016-04-26T14:50:36	Brazilian financial markets operate in a very different way to their G7 counterparts. Find out more:
+MarcosCarreira	724862258866716672	2016-04-26T07:26:44	Just released!  Who is informed and how does information flow?  OTC dealers and EBS.  Euro Swiss franc (crash).  
+MarcosCarreira	724811743281733632	2016-04-26T04:06:00	 TlkngMchns is always a must listen but this last episode is special: 
+MarcosCarreira	724728422006554624	2016-04-25T22:34:55	I found my letter from Prince 
+MarcosCarreira	724751067716558849	2016-04-26T00:04:54	EconTalker Guest suggestion: Tom Slee ( whimsley ) H/T mathbabedotorg (  )
+MarcosCarreira	723727913875476481	2016-04-23T04:19:15	New software that turns cancer genome data into actionable info. Congrats olgabot bioinformatics codelikeagirl 
+MarcosCarreira	724031230308716544	2016-04-24T00:24:31	JSEllenberg The team at NylonCalculus would know
+MarcosCarreira	724030129391960064	2016-04-24T00:20:09	JSEllenberg 
+MarcosCarreira	723927146314473472	2016-04-23T17:30:56	Got a hot seller on Amazon? Prepare to see another version at half the price  
+MarcosCarreira	723359463214710784	2016-04-22T03:55:10	My last article, A Protocol for Dying: 
+MarcosCarreira	723318790394617856	2016-04-22T01:13:32	yaneerbaryam And in tribes the family relationships might be more important than individual characteristics in shaping one’s futures (3/3)
+MarcosCarreira	723318468821553152	2016-04-22T01:12:16	yaneerbaryam The correlation might become more important than the original dynamics/volatility of each series (pair trading) (2/3)
+MarcosCarreira	723318210339151873	2016-04-22T01:11:14	yaneerbaryam Once two financial time series show enough of a correlation they will be traded together and become entangled (1/3)
+MarcosCarreira	723316106274963458	2016-04-22T01:02:52	  Anyone working with pandas must follow this series
+MarcosCarreira	723231577375793154	2016-04-21T19:26:59	Web Scraping - Its Your CivicDuty - Practical Business Python  beautiful_soup
+MarcosCarreira	723198181152940032	2016-04-21T17:14:17	Let's say the best singer, the best songwriter, the best producer, and the best guitarist all died on the same day. Those 4 ppl were Prince.
+MarcosCarreira	723193450762502144	2016-04-21T16:55:29	 This would have a place of honor in Aunt Pythia’s mantle  mathbabedotorg
+MarcosCarreira	723126563630387200	2016-04-21T12:29:42	This is a *really* well executed story on many levels. Including, they got comment from Amazon! 
+MarcosCarreira	722868687657566208	2016-04-20T19:25:00	Slides from "Python as a Way of Thinking" are at  JMU mayfiecs Thanks for a great visit! 
+MarcosCarreira	722814572579667968	2016-04-20T15:49:58	 cc nntaleb
+MarcosCarreira	722754271255609344	2016-04-20T11:50:21	 Wholesale data collection and power to curtail freedom cc mathbabedotorg zeynep zephoria katecrawford
+MarcosCarreira	722747761360269312	2016-04-20T11:24:28	 cc izakaminska
+MarcosCarreira	722638232870002688	2016-04-20T04:09:15	"First contact with TensorFlow" - nice, definitely will take a look at this book by Jordi Torres: 
+MarcosCarreira	722446473514889217	2016-04-19T15:27:16	9 Monument Valley's inversion of the traditional approach to game story design h/t tim 
+MarcosCarreira	722437421913272320	2016-04-19T14:51:18	EmanuelDerman This book looks interesting: 
+MarcosCarreira	722411426753679361	2016-04-19T13:08:00	matt_levine People are getting paid for bond market liquidity 
+MarcosCarreira	722263661612441605	2016-04-19T03:20:50	Part 4 of my pandas series: making things go fast. 
+MarcosCarreira	722262316788621312	2016-04-19T03:15:29	EltLearn33 is more honest than a complicated model showing point estimates as the result
+MarcosCarreira	722262153688977409	2016-04-19T03:14:51	EltLearn33 Part of the appeal of Norvig’s notebooks is how “elegant” his implementation is; and a simple model with explicit uncertainty…
+MarcosCarreira	722243786299084800	2016-04-19T02:01:51	octonion A simple model for intervals is better than a complex model presenting point estimates
+MarcosCarreira	722228381169905665	2016-04-19T01:00:39	Peter Norvig: Will the Warriors Win?  cc FiveThirtyEight docrostov octonion treycausey
+MarcosCarreira	722119900056195072	2016-04-18T17:49:35	EmanuelDerman Even for Brazilians Amazon is the better way of buying it (local bookstores are not competitive on imported books)
+MarcosCarreira	722118638308876288	2016-04-18T17:44:34	EmanuelDerman Yes you did! Looking forward to your presentation in Budapest: 
+MarcosCarreira	722111419047682048	2016-04-18T17:15:53	EmanuelDerman Brazilian writers are good:.
+MarcosCarreira	722106572109967360	2016-04-18T16:56:37	nntaleb stevenstrogatz Yes, as usual scholarship criteria might select only those who have already benefited from previous biases
+MarcosCarreira	722047190802243584	2016-04-18T13:00:39	Please join us as we discuss HFT and automated trading restrictions around the globe. Thursday, April 21, 10:00 NYT 
+MarcosCarreira	722074806015954945	2016-04-18T14:50:23	HJJoyceEcon 
+MarcosCarreira	721943242942623745	2016-04-18T06:07:36	Great series of blog posts on Understanding Bayes  by AlxEtz
+MarcosCarreira	721726910523424769	2016-04-17T15:47:59	BarrosOctavio Não há uma histerese a ser considerada? O quanto que a dívida (por conta da queda da receita) piorou?
+MarcosCarreira	721448306430386176	2016-04-16T21:20:54	Just found this on tumblr. Godspeed, anarchist librarian kid. 
+MarcosCarreira	721100485315457033	2016-04-15T22:18:47	hugo_larochelle Congratulations to Scott Reed and NandoDF for their ICLR Best Paper Award for: 
+MarcosCarreira	721343080222363648	2016-04-16T14:22:46	ID_AA_Carmack Next time you hit the gym, try to find this normal distribution. 
+MarcosCarreira	720257210161311744	2016-04-13T14:27:55	No book or teacher can beat good old fashion poking around. 
+MarcosCarreira	721082832492355584	2016-04-15T21:08:38	“Brazilian Derivatives and Securities” can be ordered at  
+MarcosCarreira	720992968497369089	2016-04-15T15:11:33	nntaleb  Bruno attributed this phrase to you
+MarcosCarreira	720705891587203074	2016-04-14T20:10:49	This looks extremely slick. Not sure if I'd want to send all my code and terminal commands to a web service though. 
+MarcosCarreira	720679112092704768	2016-04-14T18:24:24	David MacKay's book on information theory and learning, freely available here. 
+MarcosCarreira	720366089629093888	2016-04-13T21:40:34	I wrote a guide on creating publication-quality plots with matplotlib and seaborn: 
+MarcosCarreira	720402809829605376	2016-04-14T00:06:28	EGHaug Teaching greeks today as well … Guess the reference I used 
+MarcosCarreira	719615126890946560	2016-04-11T19:56:30	Python Engineering at Microsoft: How to deal with the pain of “unable to find vcvarsall.bat” 
+MarcosCarreira	720260934426615809	2016-04-13T14:42:43	 cc hsjuju2
+MarcosCarreira	720245134835757056	2016-04-13T13:39:56	MAvellaneda55 (3) And the space x time probabilities discussion by nntaleb
+MarcosCarreira	720244685655142400	2016-04-13T13:38:09	MAvellaneda55 (2) “Crowded Risk as a Systemic Concern for Central Clearing Counterparties”  by albertjmenkveld
+MarcosCarreira	720242625731784704	2016-04-13T13:29:58	Syllabus for this years riskmanagement class. . Suggestions appreciated for next yr's class...
+MarcosCarreira	720244243143516160	2016-04-13T13:36:23	MAvellaneda55 (1) “Impact-adjusted valuation and the criticality of leverage” (Bouchard, Caccioli, Farmer) Risk Magazine Dec 2012
+MarcosCarreira	720235350489063424	2016-04-13T13:01:03	~mathbabedotorg POI: "Understanding Racial Disparities in NYC's Stop-and-Frisk Policy” 5harad and justinmrao 
+MarcosCarreira	720234880550989824	2016-04-13T12:59:11	Enormous ethical and political lessons are embedded in Stop &amp; Frisk data. Students of data science need to learn em. 
+MarcosCarreira	720236228247961600	2016-04-13T13:04:32	 This was really interesting 
+MarcosCarreira	720141878167875587	2016-04-13T06:49:38	What Hath Von Neumann Wrought? Programming before programming languages / Open Source Bridge 
+MarcosCarreira	720198801781174272	2016-04-13T10:35:49	This afternoon 13/04/2016, Quant Summit Europe, London: "Multi-Currency Credit Default Swaps: Quanto effects and FX devaluation jumps"
+MarcosCarreira	720014034616074240	2016-04-12T22:21:37	Exciting to see galleys of my upcoming book, Weapons of Math Destruction!!! 
+MarcosCarreira	719903764036132865	2016-04-12T15:03:27	NEW | Free Python for Finance email-based course | Sign up under  and receive your first module immediately
+MarcosCarreira	719500683146240000	2016-04-11T12:21:45	Part 3:  About Indexes and merges. 
+MarcosCarreira	718501667105144832	2016-04-08T18:12:01	Great advice on decision making from Bezos 
+MarcosCarreira	719209330575183873	2016-04-10T17:04:01	Mathics ↔️ free, general-purpose online computer algebra system featuring Mathematica-compatible syntax &amp; function 
+MarcosCarreira	719205405050671105	2016-04-10T16:48:25	 Another case of unintended consequences of poorly designed edge cases cc mathbabedotorg
+MarcosCarreira	719186164880707584	2016-04-10T15:31:58	Slides of my QuantCon talk on how to use Random Forests to pick trading algos (view as presentation):  quantopian
+MarcosCarreira	719178378302005248	2016-04-10T15:01:01	Fundbusters: Dec 2012 article updated with refs. Thanks to MarcosCarreira for one of the links.  Hedgefund
+MarcosCarreira	719172597406162944	2016-04-10T14:38:03	mikeharrisNY nntaleb Also McLean and Pontiff:  (“Does Academic Research Destroy Stock Return Predictability?”)
+MarcosCarreira	719141593278623744	2016-04-10T12:34:51	A scenic beach, if easy to reach, will be soon jam-packed; ideas &amp; investments, if both obvious &amp; easy to execute, will soon be overcrowded.
+MarcosCarreira	718801191166164992	2016-04-09T14:02:13	Intermediation still pays, says EmanuelDerman: "Google makes more money leading you to the NYT website than NYT does."
+MarcosCarreira	718796121120849921	2016-04-09T13:42:04	 cc EmanuelDerman
+MarcosCarreira	718556444811993088	2016-04-08T21:49:41	 English version here:  cc staffordphilip
+MarcosCarreira	718555784053923842	2016-04-08T21:47:03	 cc staffordphilip
+MarcosCarreira	718554878130458625	2016-04-08T21:43:27	EmanuelDerman 
+MarcosCarreira	718554409307910147	2016-04-08T21:41:35	EmanuelDerman 576 pages!
+MarcosCarreira	718501207354908675	2016-04-08T18:10:11	Security Lessons from the Game of Werewolf: I can't believe I haven't posted this before.... 
+MarcosCarreira	718492646528966656	2016-04-08T17:36:10	Kayla Iacovino - Life After matplotlib: Harder, Better, Faster, Stronger PyData 
+MarcosCarreira	718469264320110593	2016-04-08T16:03:15	Can't make QuantCon in person? We will be live-streaming QuantCon:  .
+MarcosCarreira	718459265762136066	2016-04-08T15:23:31	New paper! All that Glitters is Not Gold: Comparing Backtest and Out-of-Sample Performance of Trading Algorithms 
+MarcosCarreira	717812963789422592	2016-04-06T20:35:21	The 5 stages of the Monty Hall problem reactions 
+MarcosCarreira	718388490006892544	2016-04-08T10:42:17	Ep 7 is up! Our special on issues around MachineLearning and society with lawrennd 
+MarcosCarreira	718240144273383424	2016-04-08T00:52:49	Gambler’s fallacy —&gt; errors, by judges, bankers, and umpires. Clever design. (GF= past events affect future.) 
+MarcosCarreira	718210012716392448	2016-04-07T22:53:05	staffordphilip MAvellaneda55 
+MarcosCarreira	718205930882605056	2016-04-07T22:36:52	 cc ViniciusMiana
+MarcosCarreira	718194858364690432	2016-04-07T21:52:52	MAvellaneda55 It looks like it’s going to happen: 
+MarcosCarreira	718192452142788608	2016-04-07T21:43:18	staffordphilip 
+MarcosCarreira	718191105687298050	2016-04-07T21:37:57	staffordphilip BVMF seems to have announced sale of its CME stake
+MarcosCarreira	718103251745378304	2016-04-07T15:48:51	PS. My article on how young people care about online privacy. It's an obvious, repeated finding. Was always true. 
+MarcosCarreira	718083519868715008	2016-04-07T14:30:27	staffordphilip soracy Pending approval by each board, but now everyone here in Brazil is expecting it to happen
+MarcosCarreira	718083248497238016	2016-04-07T14:29:22	staffordphilip Yes, but soracy reported yesterday that the deal was finally done: 
+MarcosCarreira	718079686392332289	2016-04-07T14:15:13	 staffordphilip it has been reported for the last two days that this time is going to happen
+MarcosCarreira	718078980746833920	2016-04-07T14:12:24	EconTalker You should ask ZachLowe_NBA how he managed it
+MarcosCarreira	718070872855040001	2016-04-07T13:40:11	I read this book () during undergrad, time for a review as I prepare a talk on AlphaGo, thanks deanwampler!
+MarcosCarreira	718060425514868736	2016-04-07T12:58:41	Hinkie's letter is a must-read. Far-ranging. Covers investing, sports, &amp; decision-making under uncertainty. 
+MarcosCarreira	717975613718589440	2016-04-07T07:21:40	Financial activist Suitpossum is running a 3-day workshop from May 13-15th on the beautiful Dorset Coast! Join us: 
+MarcosCarreira	717975932347228160	2016-04-07T07:22:56	The Goodfellow, Bengio &amp; Courville book on DeepLearning has been completed!  
+MarcosCarreira	717867999269662720	2016-04-07T00:14:03	docrostov The curse of ZachLowe_NBA ?
+MarcosCarreira	717853323232206848	2016-04-06T23:15:43	 Includes analysis of tick value changes in Japan 2014 and uses Robert-Rosenbaum’s uncertainty zones
+MarcosCarreira	715933643387052032	2016-04-01T16:07:36	You'll refactor that bit of spaghetti code first thing next week, right? 
+MarcosCarreira	717572075729235968	2016-04-06T04:38:09	Surprising deal: Brazil's BM&amp;FBOVESPA buys 4.1% of the Mexican Stock Exchange - marriage in the making? 
+MarcosCarreira	717471425003700225	2016-04-05T21:58:12	dsquareddigest There’s a more serious analysis of this meme here: 
+MarcosCarreira	717470461882462208	2016-04-05T21:54:22	dsquareddigest  
+MarcosCarreira	717466088171249665	2016-04-05T21:36:59	 My essay on Panama Papers
+MarcosCarreira	717424208918261760	2016-04-05T18:50:35	Upcoming: For Python Quants  Conference 06-May with dyjh thestreetquant jreback ZoomerAnalytics Jim Gatheral
+MarcosCarreira	717395627752169472	2016-04-05T16:57:00	How do we enable ethics? Messiness of orgs, intentions, politics, power &amp; control. By me:  
+MarcosCarreira	717386587911413760	2016-04-05T16:21:05	AllenDowney bentleyu Slides from my talk, "Learning to Love Bayesian Statistics"   
+MarcosCarreira	717331780215267328	2016-04-05T12:43:18	Part 2 of this Pandas series: All about method chains.  
+MarcosCarreira	717315297309548544	2016-04-05T11:37:48	 cc quantopian jstauth twiecki
+MarcosCarreira	717314558273134592	2016-04-05T11:34:52	TradingDutchman Ok please let me know if I can help with anything
+MarcosCarreira	717314196191494144	2016-04-05T11:33:26	TradingDutchman Region sensitive (cheaper for LATAM) perhaps? Worth asking customer support. 
+MarcosCarreira	717312120463998976	2016-04-05T11:25:11	TradingDutchman I see $77.57 as the price for the Kindle version now 
+MarcosCarreira	717311479628832768	2016-04-05T11:22:38	TradingDutchman And thanks for buying it! Feel free to comment, I’ll have a page up with some code and additional comments soon
+MarcosCarreira	717311029777186820	2016-04-05T11:20:51	TradingDutchman What you’re seeing is the price of the paperback (which was not discounted yet), as the hardcover is shown as unavailable
+MarcosCarreira	717307795771695105	2016-04-05T11:08:00	TradingDutchman Kindle version and TOC available
+MarcosCarreira	707232304108851200	2016-03-08T15:51:35	I made an app that lets you create your own interactive NBA shot charts, check it out:  
+MarcosCarreira	717131731934035968	2016-04-04T23:28:23	pkedrosky What will happen first: Profiles of deceased surpassing live profiles at FB or Deathbed Of Bricks surpassing Internet Of Things?
+MarcosCarreira	717089229277245441	2016-04-04T20:39:29	One click to buy the Kindle version of “Brazilian Derivatives and Securities” (check the TOC): 
+MarcosCarreira	716785951566086145	2016-04-04T00:34:22	The Kindle version of “Brazilian Derivatives and Securities” is now available (including the TOC): 
+MarcosCarreira	716658830894047232	2016-04-03T16:09:14	In part 3 of my series on Natural Language Processing, I try to teach Python to find naughty stories: 
+MarcosCarreira	716781427271053312	2016-04-04T00:16:24	FX Options and Optimal Portfolio Liquidation in Target Zone models:  and  HT Charles Lehalle
+MarcosCarreira	716698302201348097	2016-04-03T18:46:05	A crazy amount of journalistic effort went into this. Expect to hear a LOT about Mossack Fonseca in coming days: 
+MarcosCarreira	716673960151126018	2016-04-03T17:09:21	Benjamin Franklin talks about why he doesn't reply to tweets 
+MarcosCarreira	716667037565771776	2016-04-03T16:41:51	xlwings v0.7.1 is out! Support for VBA macros and optional/default UDF arguments and much more! 
+MarcosCarreira	716655446908493824	2016-04-03T15:55:48	United shows me better fares when I use Incognito mode or use a VPN. Sigh #2016
+MarcosCarreira	716616000515481600	2016-04-03T13:19:03	"The first 90% of code accounts for the first 90% of development time. The remaining 10% accounts for the other 90% of development time."
+MarcosCarreira	716408802602532864	2016-04-02T23:35:43	pkedrosky You might enjoy “This Is Your Brain on Sports”
+MarcosCarreira	716285780788908038	2016-04-02T15:26:52	felixsalmon US weight distribution 
+MarcosCarreira	716070422769479680	2016-04-02T01:11:07	oceankidbilly Nice, thanks! Added to cart.
+MarcosCarreira	716066330751942656	2016-04-02T00:54:51	oceankidbilly I can relate to that … Will matplotlib be used throughout the book or other packages like seaborn be recommended?
+MarcosCarreira	716063596405501952	2016-04-02T00:43:59	Upcoming ML/Python books: (3) Python Data Science Handbook: Tools and Techniques for Developers by jakevdp 
+MarcosCarreira	716063547973877760	2016-04-02T00:43:48	Upcoming ML/Python books: (2) Introduction to Machine Learning with Python by amuellerml and sarah_guido 
+MarcosCarreira	716063493070389248	2016-04-02T00:43:35	Upcoming ML/Python books: (1) Python for Data Visualization by oceankidbilly 
+MarcosCarreira	716047288666349568	2016-04-01T23:39:11	mathbabedotorg About few tech firms controlling the future of AI:  cc TlkngMchns
+MarcosCarreira	715912892701417472	2016-04-01T14:45:09	Check out pomegranate: fast probabilistic modeling / Bayesian Networks / HMMs in Python  
+MarcosCarreira	715876763851685888	2016-04-01T12:21:35	We're excited to launch Quant Digest: Dedicated to trends &amp; challenges in the quant space  
+MarcosCarreira	715872264147890176	2016-04-01T12:03:42	Today’s Free Lunch on p-values:  quoting dsquareddigest cc nntaleb
+MarcosCarreira	715708075966070785	2016-04-01T01:11:17	 cc mathbabedotorg
+MarcosCarreira	715658170228674560	2016-03-31T21:52:58	The late Albert Tarantola wrote the entry. His book on Inverse problem statistics is free:  
+MarcosCarreira	715578049232764929	2016-03-31T16:34:36	Wow - this equivalent statement makes Bayes Rule so much clearer. This is how it should be taught 
+MarcosCarreira	715551637302022144	2016-03-31T14:49:39	Cimmerian999 EmanuelDerman Quant strategy must comply w Kant's Categorical Imperative: What if everyone does that? 
+MarcosCarreira	715536440806006784	2016-03-31T13:49:16	My NYT piece on how Trump mixes big lies with plain truths gatekeepers have been denying.  
+MarcosCarreira	715320179173888001	2016-03-30T23:29:55	Dear Twitter friends: I have started the process of writing the 2nd edition of Python for Data Analysis -- coming late 2016 or early 2017!
+MarcosCarreira	715317224060416000	2016-03-30T23:18:10	Black student in CodeStart takes a money order to the bank. It goes horribly downhill from there. 
+MarcosCarreira	714997711632662529	2016-03-30T02:08:33	Competition is coming to the Aussie exchange world: Australia Ends ASX Equity Clearing Monopoly, Treasurer Says 
+MarcosCarreira	714905339620032512	2016-03-29T20:01:29	Announcing Feather: A fast, language-agnostic data frame file format, by hadleywickham and wesmckinn 
+MarcosCarreira	714799705079865344	2016-03-29T13:01:44	Don't miss one of QuantCon's keynotes: "Financial Engineering and Its Discontents" by Dr. EmanuelDerman .
+MarcosCarreira	714715383467548672	2016-03-29T07:26:40	If I were gvanrossum this is one of the things that would blow my mind 
+MarcosCarreira	714648053710397440	2016-03-29T02:59:08	TomAugspurger Ok here it is, part 1 of my “Idiomatic Pandas” series 
+MarcosCarreira	714498588232060934	2016-03-28T17:05:12	Infographic: 1 in 5 people in Lebanon is a Syrian refugee 
+MarcosCarreira	714599512917065728	2016-03-28T23:46:15	 cc yaneerbaryam
+MarcosCarreira	714527745036824577	2016-03-28T19:01:04	Cathy O'Neil mathbabedotorg to talk "Weapons of Math Destruction" 4/14 montclairstateu  data algorithms
+MarcosCarreira	714262545289322499	2016-03-28T01:27:15	270 page Presentation on data structures and algorithms - basic to advanced 
+MarcosCarreira	713537522341650433	2016-03-26T01:26:16	EmanuelDerman 
+MarcosCarreira	712646687886413826	2016-03-23T14:26:25	Thought this over and over again while my dad was dying of cancer. Doctors had no idea how to do this, either. 
+MarcosCarreira	712635591800856576	2016-03-23T13:42:19	 “… pricing algorithms are an effective tool for tacit collusion.”
+MarcosCarreira	712570551076782080	2016-03-23T09:23:52	TradingDutchman Not yet, asking again.
+MarcosCarreira	711915339781529601	2016-03-21T14:00:18	“History shows that the availability of technology doesn’t actually make a more equitable world.” 
+MarcosCarreira	711921440161972224	2016-03-21T14:24:32	 cc annairrera
+MarcosCarreira	711273432105799680	2016-03-19T19:29:35	experquisite MAvellaneda55 I like the approach of julienguyon1977 here:  (not necessarily simple)
+MarcosCarreira	711254824248086528	2016-03-19T18:15:39	 Hull and White on delta hedging (minimum variance delta x stoch vol models)
+MarcosCarreira	710801363593252865	2016-03-18T12:13:45	Sounds interesting: “The Future of Price: Communicative Infrastructures and the Financialization of Indian Tea” 
+MarcosCarreira	711204664788787200	2016-03-19T14:56:20	QuantNews_com Similar pattern of changes in order sizes in Brazil 7 years ago (5 mini-IBOV = 1 IBOV) cc rockhowse 
+MarcosCarreira	710630037297434624	2016-03-18T00:52:58	Peter Norvic IPython notebooks are the most instructive pices of code I ahve ever witinessed. Here the collection: 
+MarcosCarreira	710525769500528641	2016-03-17T17:58:39	We wrote about IEX – how it works, the types of liquidity it attracts, and how it fits into the NMS – full report at 
+MarcosCarreira	710379350261178368	2016-03-17T08:16:49	The volcano is here but the eruption is back in Brazil 
+MarcosCarreira	709704379151065089	2016-03-15T11:34:44	If you must read something today read Alexandre  Laumonier:   (and read him every day for that matter)
+MarcosCarreira	708759668852662276	2016-03-12T21:00:47	I've started working on an actual debugger for Pythonista. It's not quite done yet, but here's a sneak peek: 
+MarcosCarreira	708687915983970305	2016-03-12T16:15:40	Pandas v0.18.0 released! Lots of new goodies. See the whatsnew here:  pandas python
+MarcosCarreira	708461644658118656	2016-03-12T01:16:33	 cc mathbabedotorg
+MarcosCarreira	708308719164133376	2016-03-11T15:08:53	Here's a link to the DuffieDarrell paper I wrote about 
+MarcosCarreira	708285154322677760	2016-03-11T13:35:14	SniperInMahwah RemcoLenterman And it could be longer when looking at multiple venues (local stock x ADR), this was for single instruments
+MarcosCarreira	708284804182249472	2016-03-11T13:33:51	SniperInMahwah RemcoLenterman When we were classifying HFTs in Brazil our criteria was average and median holding time (FIFO) &lt;10 min
+MarcosCarreira	708278518757597184	2016-03-11T13:08:52	Interesting data - researchers got traders IDs that are the same for different exchanges. 
+MarcosCarreira	708223842590838784	2016-03-11T09:31:36	Today's the last day to get £400 off Global Derivative's 2016. See the latest agenda &amp; workshops:  quant GDerivs16
+MarcosCarreira	707584332379070464	2016-03-09T15:10:25	arnicas “The Magicians” looks better on TV (more balanced, less Q-centric)
+MarcosCarreira	707574699153362945	2016-03-09T14:32:09	 cc streetwiseprof Much of the trading in the DDI contracts in Brazil happens at the pricing auctions
+MarcosCarreira	707570993187987458	2016-03-09T14:17:25	HJJoyceEcon Do you remember when the BCB’s president (Meirelles) was made a minister for the same reason? 
+MarcosCarreira	707538571721371649	2016-03-09T12:08:35	2-min video: How to fix Excel's basic deficiencies with xlwings and Pandas (CORREL formula) 
+MarcosCarreira	707524119559069696	2016-03-09T11:11:09	“Brazilian Derivatives and Securities” is the #1 New Release in Business Mathematics! #129 in Textbooks&gt;Finance 
+MarcosCarreira	707322672074661890	2016-03-08T21:50:41	CardiffGarcia Unfortunately those who give dictators such advice end up with a short career
+MarcosCarreira	707195283323686912	2016-03-08T13:24:29	Our paper "Probabilistic programming in Python using PyMC3" was accepted at thePeerJ! fonnesbeck johnsalvatier 
+MarcosCarreira	707225313458180096	2016-03-08T15:23:48	teaching workshop with Bilokon Global_Derivs on: - mkt micro - systematic trading - PyThalesians - much more!  Tkts 
+MarcosCarreira	707197034135101440	2016-03-08T13:31:26	“We no longer have to engineer features for our models!” he said in the 50th hour of carefully tuning his neural network architecture.
+MarcosCarreira	707027966191132672	2016-03-08T02:19:37	TradingDutchman I’ll ask again the editors to upload the TOC. I’ll post the link to the Kindle version when it’s available (should be soon)
+MarcosCarreira	706989044069244928	2016-03-07T23:44:57	RemcoLenterman daveweisberger There’s a simple way to estimate the change in the speed of the updating of quotes: 
+MarcosCarreira	706933787372949505	2016-03-07T20:05:23	RobinWigg RemcoLenterman SniperInMahwah mechmarkets elnunesio Thomas Petterfy 
+MarcosCarreira	706884587570520066	2016-03-07T16:49:53	camilotelles There are chapters with historical context and heuristics that do not require stochastic calculus
+MarcosCarreira	706881106331758593	2016-03-07T16:36:03	Just got my copy … available for pre-order at Amazon, should be shipping soon 
+MarcosCarreira	706805251765100544	2016-03-07T11:34:38	Speaking at QCon London on auditing algorithms 
+MarcosCarreira	706310783609638912	2016-03-06T02:49:48	I just published “Computational Thinking: I do not think it means what you think it means”  computationalthinking
+MarcosCarreira	705946388497096704	2016-03-05T02:41:49	The penny drops. (Or should I say the Satoshi drops) 
+MarcosCarreira	705946963691311104	2016-03-05T02:44:06	izakaminska my particular favorite recognitions: 1) that high IQ people have trouble dealing w/ social trade offs, demand perfection
+MarcosCarreira	705887483066761218	2016-03-04T22:47:45	xlwings v0.7.0 is a big new release! Introducing converters to e.g. read/write DataFrames via UDFs or Range object!
+MarcosCarreira	705825638851149824	2016-03-04T18:42:00	The last programming book you'll ever need 
+MarcosCarreira	705132324682268672	2016-03-02T20:47:01	Another Peter Norvig python masterpiece:  and  Reading this will make you smarter.
+MarcosCarreira	705696264399278080	2016-03-04T10:07:55	MAvellaneda55 And in terms of dispersion the biggest % gains yesterday were in shorted or embattled stocks
+MarcosCarreira	705692080107098112	2016-03-04T09:51:17	MAvellaneda55 Expect more of it today given the recent news
+MarcosCarreira	705540128345751552	2016-03-03T23:47:29	1996: "With open source, everyone can control their software and be secure!" 2016: "I wish I could update my Android phone."
+MarcosCarreira	704604625538826240	2016-03-01T09:50:08	Our paper on "Representation of linguistic form and function in recurrent neural networks" is finally online! 
+MarcosCarreira	704944689783414784	2016-03-02T08:21:25	Lessons learned from JPM's $6.2bn loss on London Whale trades in my latest Notebook  
+MarcosCarreira	704767767979782144	2016-03-01T20:38:24	Any sufficiently advanced backwards compatibility is indistinguishable from a security vulnerability.
+MarcosCarreira	704713657779953664	2016-03-01T17:03:23	"BLACKFLIX - How Netflix's algorithm exposes technology's ​racial bias" MarieClaire​ aprjoy  
+MarcosCarreira	704654654353702912	2016-03-01T13:08:56	Notes Nonparametric Bayesian Methods and Dirichlet Processes  
+MarcosCarreira	704651397107728384	2016-03-01T12:55:59	Limit Order Book lob dynamics modeled incorporating a Hawkes process  
+MarcosCarreira	704649282616475649	2016-03-01T12:47:35	This is very good and interesting once you get past the theme :-) Isabella is one smart lady  
+MarcosCarreira	704644990073499648	2016-03-01T12:30:31	katie_martin_fx They might have cut some corners in this product
+MarcosCarreira	704369628684759040	2016-02-29T18:16:20	Ha, this is great. Emailed researcher who specializes in psychological benefits of vacations. Got this response: 
+MarcosCarreira	704492394935357441	2016-03-01T02:24:10	Spurs hire leading analytic expert Kirk Goldsberry  via poundingtherock
+MarcosCarreira	704477045737152512	2016-03-01T01:23:10	Ramanjuan's letters and lost notebook are now freely available to the world! See them at  (via Ken Ono)
+MarcosCarreira	704438451060543488	2016-02-29T22:49:49	 staffordphilip That would make ICE more likely to accept BM&amp;FBovespa’s proposal for CETIP, don’t you think?
+MarcosCarreira	704435845428854785	2016-02-29T22:39:27	nntaleb Aspen trees “… persist through periodic natural regeneration episodes driven by disturbance”  Antifragility
+MarcosCarreira	704378072347365376	2016-02-29T18:49:53	pkedrosky Bicycle-powered home routers?
+MarcosCarreira	704344976822505472	2016-02-29T16:38:23	For the ML types &amp; geeks who want algo fairness: “Auditing Black-box Models by Obscuring Features” 
+MarcosCarreira	704306035767508992	2016-02-29T14:03:38	Don't miss QuantCon's keynote speech by EmanuelDerman "Financial Engineering and Its Discontents." 
+MarcosCarreira	704035899403870209	2016-02-28T20:10:13	Nice video from 99piorg : 
+MarcosCarreira	704021710526418944	2016-02-28T19:13:50	An interesting paper: High-Frequency Trading around Large Institutional Orders, found at: 
+MarcosCarreira	704012831973191682	2016-02-28T18:38:33	“How small is the world, really?” duncanjwatts on the small world problem (both topological &amp; algorithmic versions) 
+MarcosCarreira	704010643217760257	2016-02-28T18:29:51	nntaleb And on financial time series, data-mined portfolios will get crowded and trigger stop-losses
+MarcosCarreira	703994279853744129	2016-02-28T17:24:50	thalesians One can also read “Market Making and the Illusion of Profitability” in nntaleb ‘s “Dynamic Hedging” (my life from 2004 to 2009)
+MarcosCarreira	703988814373593088	2016-02-28T17:03:07	thalesians 
+MarcosCarreira	703436059233783808	2016-02-27T04:26:40	We scattered our signals across the cosmos, searching for life.  When the reply came from the stars, it decoded to one word:  "Unsubscribe."
+MarcosCarreira	703594841960218624	2016-02-27T14:57:37	last few tickets for Thalesians LDN talk with Prof James commerzbank on FX option trading on Mon!  Details 
+MarcosCarreira	703382273442369536	2016-02-27T00:52:56	 cc Frances_Coppola
+MarcosCarreira	703301528170450944	2016-02-26T19:32:05	ScarlettSieber Indeed, for many in Brazil the smartphone is their only digital platform
+MarcosCarreira	703191668007288832	2016-02-26T12:15:32	JPMorgan has a new theory about what really caused the flash rally in Treasuries.  alexandrascaggs
+MarcosCarreira	703152008396550144	2016-02-26T09:37:57	SniperInMahwah and different knots spelling “Jump”, “Optiver”, etc in Morse … For every new page a different firm will own the Top of Book
+MarcosCarreira	703149179363721216	2016-02-26T09:26:42	SniperInMahwah Now for your next book I see more maps, but also pop-up antennas and strings to connect them :)
+MarcosCarreira	703146848253399041	2016-02-26T09:17:27	SniperInMahwah Congrats!
+MarcosCarreira	703146640673079296	2016-02-26T09:16:37	staffordphilip And there’s the BM&amp;FBovespa proposal for CETIP going on as well
+MarcosCarreira	702542019995037696	2016-02-24T17:14:04	Facebook isn't so good at judging your credit after all.  FB HT telisdemos dseetharaman 
+MarcosCarreira	702491289040846849	2016-02-24T13:52:29	We quantopian made our first discretionary capital allocations! 
+MarcosCarreira	702471269095182336	2016-02-24T12:32:56	ptrevisani medWSJ luciwsj And it’s going to get worse, as the number of 60+ Brazilians increases: 
+MarcosCarreira	702176484354609152	2016-02-23T17:01:34	DTCC-Euroclear: Implications of Collateral Settlement Fails  HT automatedtrader
+MarcosCarreira	701930477318373376	2016-02-23T00:44:01	The Friendship Paradox vs. the Happiness Paradox  
+MarcosCarreira	701766433802420224	2016-02-22T13:52:10	This is great --&gt; "If programming languages were weapons" Python JavaScript Scala  
+MarcosCarreira	701583180038610944	2016-02-22T01:43:59	New post: Umberto Eco and Square Triangular Numbers 
+MarcosCarreira	701494694577119241	2016-02-21T19:52:22	Umberto Eco’s home/library ( HT BarrosOctavio  ) 
+MarcosCarreira	677815750141329408	2015-12-18T11:40:42	Browsing the fiction section... 
+MarcosCarreira	701462405159763968	2016-02-21T17:44:04	How not to construct an NBA lineup  
+MarcosCarreira	700850749517922305	2016-02-20T01:13:34	Umberto Eco wrote a guide to thesis-writing that's also a pretty good guide to life. huahsu  
+MarcosCarreira	701184213278711810	2016-02-20T23:18:38	80% of bitcoin mining capacity. I leave it to the reader as an exercise to figure out the missing demographics. 
+MarcosCarreira	701062287461916672	2016-02-20T15:14:09	“Pseudocode no longer looks like math, it now looks like…Python” — AllenDowney PyCaribbean
+MarcosCarreira	700949884996866048	2016-02-20T07:47:30	RIP Umberto Eco 
+MarcosCarreira	700627273154584576	2016-02-19T10:25:33	Good news: we found one psychology experiment that's replicable. Bad news: it's the Milgram Experiment  
+MarcosCarreira	700409460808757248	2016-02-18T20:00:03	Missed our pandas webinar yesterday? Download video/slides here &amp; power up your financial analytics:  (jreback)
+MarcosCarreira	700274992903254016	2016-02-18T11:05:43	Tensions at for-profit CCPs could put them at risk   
+MarcosCarreira	700357705140142080	2016-02-18T16:34:23	The Miller-Sanjurjo effect is definitely the Monty Hall problem of our time 
+MarcosCarreira	700289040071979008	2016-02-18T12:01:32	Post by valerie_bogard yesterday: How the new reg form for ATSs got only one comment (far from IEX popularity): 
+MarcosCarreira	700095308248666112	2016-02-17T23:11:43	Anecdata: I've bombed coding interviews with 3/4 tech companies I've interviewed with.  I have 100% confidence in my ability as an engineer.
+MarcosCarreira	700000602177208320	2016-02-17T16:55:23	MathStudio is a bit like Mathematica, except that it's online and free. Worth a look.  
+MarcosCarreira	699958597095186432	2016-02-17T14:08:28	Scaling laws and trading invariance Michael Benzaquen, Jonathan Donier, Jean-Philippe Bouchaud :: SSRN -
+MarcosCarreira	699961336747401216	2016-02-17T14:19:21	 cc inductivestep
+MarcosCarreira	699955142376947712	2016-02-17T13:54:45	 cc LSPollack
+MarcosCarreira	699715103940161536	2016-02-16T22:00:55	“People in Brazil are paying $3 a month to join WhatsApp groups” by Mars Cyrillo 
+MarcosCarreira	699667701359370241	2016-02-16T18:52:33	Property and payments law are complicated because life is complicated. Putting stuff on a blockchain makes some issues better, others worse.
+MarcosCarreira	699667298668437505	2016-02-16T18:50:57	My @FutureTenseNowop-ed with random_walker is a bit of blockchain skepticism. Not all problems are technical. 
+MarcosCarreira	699339829436256256	2016-02-15T21:09:43	Financial Analysis in pandas via jreback! Join our webinar on 2/17:  Anaconda Python 
+MarcosCarreira	699241460823146497	2016-02-15T14:38:50	 A view of ICBI Global Derivatives in Budapest, Hungary May 9-13, from Saeed Amen, author of Trading Thalesians.
+MarcosCarreira	698956061781442561	2016-02-14T19:44:45	Dynamic optimization in automated trading - HJB equations and real world microstructure - paper  
+MarcosCarreira	698419852273414144	2016-02-13T08:14:03	This could not be more timely by Suitpossum Bitcoiners and their techno-colonialist ways 
+MarcosCarreira	698191757754781697	2016-02-12T17:07:41	Interested in Python at Microsoft? Check out our new Engineering Blog! 
+MarcosCarreira	698191146418356225	2016-02-12T17:05:15	“HFT in the Banana Land, Part III” Subtitle: “’Dallas’ in Ostduinkerke”. Believe it or not, this is the whole truth. 
+MarcosCarreira	698122361913155585	2016-02-12T12:31:56	"Calculus BLUE volume 2: derivatives" is live! It's at the Amazon Kindle store on sale 100% off for the next day. 
+MarcosCarreira	698071363630845952	2016-02-12T09:09:17	Me, in the FT, about what it's like to be at the centre of a Twitter storm. 
+MarcosCarreira	697842822670516226	2016-02-11T18:01:08	'Brazil provides an interesting market for interest-rate players' says MarcosCarreira 
+MarcosCarreira	697499945297977344	2016-02-10T19:18:40	 cc MumbleFX back to our discussion on experts
+MarcosCarreira	697466316433678336	2016-02-10T17:05:02	"How Airbnb used data to hide the facts": big report looks into how dodgy data was used to win political support. 
+MarcosCarreira	697459312248008705	2016-02-10T16:37:12	“Twitter has altered the deal. Pray it doesn’t alter it further.” by john_overholt    pretty much, this.
+MarcosCarreira	697353174441705473	2016-02-10T09:35:27	“ High-Frequency Trading - Curse or Blessing?”, Vienna, Sept. 2016. The panel of speakers is quite good. 
+MarcosCarreira	697340204898766848	2016-02-10T08:43:55	2000+ words on the Web's perestroika moment and Silicon Valley paternalism 
+MarcosCarreira	697399116146597889	2016-02-10T12:38:00	SniperInMahwah sumohurd QuantNews_com It’s not that long (only 30 pages), but I read it thinking about counterarguments to the analysis
+MarcosCarreira	697397072824287234	2016-02-10T12:29:53	sumohurd QuantNews_com SniperInMahwah Risks execution at “good mkt prices”=&gt; you lose the spread; probabilities! (3/3)
+MarcosCarreira	697396520195383296	2016-02-10T12:27:42	sumohurd QuantNews_com SniperInMahwah The quotes you see might not be there when your orders hit the book; and sending mkt orders (2/3)
+MarcosCarreira	697396162182172672	2016-02-10T12:26:16	sumohurd QuantNews_com SniperInMahwah Has same problem as the Budish paper: “Just cos you feel it doesn’t mean it’s there” (1/3)
+MarcosCarreira	697389187562139648	2016-02-10T11:58:33	 The CFM team is back with more market impact data
+MarcosCarreira	697212239208701952	2016-02-10T00:15:26	streetwiseprof Paul Glasserman will speak about “Persistence And Procyclicality In Margin Requirements” at Global Derivatives (May) 2016
+MarcosCarreira	697192949147439104	2016-02-09T22:58:46	Gedeo nntaleb borghi_claudio Nassim has valid point about big numbers chosen for impact but miscommunicating reality; also sign is wrong
+MarcosCarreira	697182622590595072	2016-02-09T22:17:44	nntaleb In my book also (typo: “is” x “in”): 
+MarcosCarreira	697173252939108352	2016-02-09T21:40:31	Which one is better? Rolex, Tudor and a lesson in vintage watch details  
+MarcosCarreira	697053343726718978	2016-02-09T13:44:02	LowClass Python: Style Guide for Data Scientists from Columbia's Applied Data Science course. 
+MarcosCarreira	696891279863468032	2016-02-09T03:00:03	4 paper in 4 months!  "The happiness paradox: your friends are happier than you"
+MarcosCarreira	696872954764906497	2016-02-09T01:47:14	Curious about bitcoin? random_walker et al's textbook and videos just went online. Nom nom nom. 
+MarcosCarreira	696853239614930944	2016-02-09T00:28:53	science conducted as a public good 
+MarcosCarreira	696812536142897152	2016-02-08T21:47:09	LSPollack You got it first: 
+MarcosCarreira	696680832262508544	2016-02-08T13:03:48	Exploiting Google Maps for Fraud: The New York Times has a long article on fraudulent locksmiths. The scam is ... 
+MarcosCarreira	696689588564336640	2016-02-08T13:38:36	Endogenous risk (who owns what):  by RobMannix ; albertjmenkveld has been working on this: 
+MarcosCarreira	696071577302081537	2016-02-06T20:42:51	Don't forget: USB-C is the future now when it works and an absolute mess the rest of the time. 
+MarcosCarreira	695683194641891328	2016-02-05T18:59:33	arnicas Finished them, 2 was the best (even with that uncomfortable ending) - thanks again for the recommendations
+MarcosCarreira	695681708461522945	2016-02-05T18:53:39	mechmarkets DLauer Cimmerian999 Saw Katsuyama and Lewis last Aug; ML was bombastic, Brad was more careful w/words; still, more PR for IEX
+MarcosCarreira	695269950223749121	2016-02-04T15:37:28	Hey I just wrote something for Slate about being an ethical data scientist:  Slate Futurography
+MarcosCarreira	694970029687885825	2016-02-03T19:45:41	I will be talking on technologies of exchange at WBSPayTech tomorrow, on panel hosted by the awesome Rachelodwyer 
+MarcosCarreira	694875207564189709	2016-02-03T13:28:54	One week to go | my webinar about Automated Trading with Python QuantInsti  |  | Register Now.
+MarcosCarreira	694540865595908098	2016-02-02T15:20:20	Smooth operator: Interpolating OIS rates in Brazil  MarcosCarreira Finance
+MarcosCarreira	694472162741088256	2016-02-02T10:47:20	If you haven't already read JoF News Trading and Speed by Professors Foucault, Hombert and Rosu - YOU SHOULD! hft 
+MarcosCarreira	694460362960277504	2016-02-02T10:00:27	This should anger all Brazilians.   Brazil’s Rich Show No Shame Buying Nature Preserves.   
+MarcosCarreira	694459201893064704	2016-02-02T09:55:50	'Smooth operator: Interpolating OIS rates in Brazil' by MarcosCarreira traders liquidity  
+MarcosCarreira	694207728009527297	2016-02-01T17:16:34	New Quantopian lecture (#3) out in collaboration with Prof. Jeremiah Johnson at UNH 
+MarcosCarreira	694196681529651201	2016-02-01T16:32:41	I'm giving a talk on the NYT4thDownBot. May be of particular interest to grad students wanting to work in industry. 
+MarcosCarreira	694192039353827328	2016-02-01T16:14:14	“HFT in the Banana Land | Part 2”, or “The video that kills”.  
+MarcosCarreira	693856381724672002	2016-01-31T18:00:27	arnicas Book 2 feels different, I guess that the TV show treats Julia better than Book 1 did
+MarcosCarreira	693825646468952064	2016-01-31T15:58:19	arnicas I read 1st Magicians book based on your advice; too many metaphors, but chapter struct felt like it would be better on TV
+MarcosCarreira	516045565847535616	2014-09-28T02:03:45	Engineers don't let engineers design user interfaces. 
+MarcosCarreira	693070261592158208	2016-01-29T13:56:41	"The problem is that most scientists are never taught how to...write, test, debug, install, and maintain software." 
+MarcosCarreira	693034926720061440	2016-01-29T11:36:17	SniperInMahwah Yes, it is
+MarcosCarreira	693034590622056448	2016-01-29T11:34:57	 This is good work by Austin Gerig
+MarcosCarreira	692997580649844736	2016-01-29T09:07:53	You can't understand banking blockchain fanaticism without understanding the sorry saga of RTGS &amp; its link to GFC 
+MarcosCarreira	692746727720353792	2016-01-28T16:31:05	The notebooks &amp; Python code for the dataviz course are on GitHub:   Will dev this repo into a full online course.
+MarcosCarreira	692527938693120001	2016-01-28T02:01:41	pauld44 mechmarkets Them there’ll be no need for one or two interpreters of data - some open source solution will appear ( cc dlauer )
+MarcosCarreira	692527648594116608	2016-01-28T02:00:32	pauld44 mechmarkets Some look at the data for confirmation of their hypothesis; put the data in the open, and let a thousand papers bloom
+MarcosCarreira	692519606439669760	2016-01-28T01:28:35	pauld44 How far you look into book depends on market and your hypothesis for speed of replenishment (lower on high vol=&gt;more depth needed)
+MarcosCarreira	692499837397372928	2016-01-28T00:10:01	Quant of the year: Alexandre Antonov 
+MarcosCarreira	692468668962357250	2016-01-27T22:06:10	 Looks interesting will read it later Thanks QuantNews_com
+MarcosCarreira	692415387292585984	2016-01-27T18:34:27	Some thrilling news from AI land: we all just lost at Go.  machinegaming
+MarcosCarreira	692412687343620096	2016-01-27T18:23:43	My Quora answer to What is the state of bitcoin and blockchain technology as of early 2016? 
+MarcosCarreira	692370831436046337	2016-01-27T15:37:24	Farewell, Marvin Minsky (1927–2016), by Stephen Wolfram  garoahc thoughtworks
+MarcosCarreira	692364113910067206	2016-01-27T15:10:42	Was just told that my Python dataviz video course should be coming out within a week. Sweet!
+MarcosCarreira	692346209353220096	2016-01-27T13:59:34	RemcoLenterman ThemisSal Or read Lehalle: 
+MarcosCarreira	692296649197162496	2016-01-27T10:42:38	Paper by Terrence Hendershott on why limit orders have overtaken market orders in price discovery lob hft 
+MarcosCarreira	692134245045813250	2016-01-26T23:57:17	yaneerbaryam jschwabish These epidemics happen in places with poor government and lack of collective action for the good of the Common
+MarcosCarreira	692132651050930177	2016-01-26T23:50:57	yaneerbaryam One collective effect that jschwabish showed 2d ago: 2048 age distribution in El Salvador 
+MarcosCarreira	692104773282238464	2016-01-26T22:00:11	yaneerbaryam There is the CDC website as well: 
+MarcosCarreira	692104565223772161	2016-01-26T21:59:21	yaneerbaryam Most of them here will be in Portuguese:  There is even a National Day of Combat against the Dengue
+MarcosCarreira	692095878576914432	2016-01-26T21:24:50	yaneerbaryam or limiting exposure of pregnant women is the new measure; some of the measures on 2. are hard to implement on urban settings
+MarcosCarreira	692095571981639681	2016-01-26T21:23:37	yaneerbaryam In Brazil the dengue epidemic had already called for most of the measures against the aedes aegypti, so avoiding pregnancy 1/n
+MarcosCarreira	692039976964485120	2016-01-26T17:42:42	
+MarcosCarreira	692014224453685248	2016-01-26T16:00:22	This year 'Global Derivatives Trading &amp; Risk Management' incorporates a fintech day. Take a look at the agenda here 
+MarcosCarreira	691991757739790337	2016-01-26T14:31:06	Algorithms ain't got accountability: Check out this event at nesta_uk 
+MarcosCarreira	692001892428320768	2016-01-26T15:11:22	And zephoria also knew how Orkut=&gt;Facebook played out in Brazil: 
+MarcosCarreira	691988986739449856	2016-01-26T14:20:05	My 1st piece on datasociety's new medium blog called points: What World Are We Building? 
+MarcosCarreira	691985781951434754	2016-01-26T14:07:21	One of those Kindle sales on textbooks, including tech topics - Scraping with Python, Microservices, CSS… 
+MarcosCarreira	691981995514138624	2016-01-26T13:52:18	SniperInMahwah We should melt optic fiber and bring a cross of glass to the top of the tower on a pilgrimage 
+MarcosCarreira	691944927840845824	2016-01-26T11:25:01	How do we audit algorithms? Find out from mathbabedotorg at qconlondon 
+MarcosCarreira	691713496182992896	2016-01-25T20:05:23	Stanford senior economist / John Bates Clark Medal winner Susan_Athey -- taking questions.  
+MarcosCarreira	662437683097165824	2015-11-06T01:13:45	From TarletonG: "Critical algorithm studies" reading list 
+MarcosCarreira	691707612170092544	2016-01-25T19:42:00	 nntaleb an interesting example of the minority principle
+MarcosCarreira	691680167123640321	2016-01-25T17:52:57	DTCC cuts through the blockchain hype 
+MarcosCarreira	691682014123036672	2016-01-25T18:00:17	The Global Derivatives 2016 agenda is now live and can be accessed here: GDerivs16 
+MarcosCarreira	464027007072743427	2014-05-07T13:00:34	Have you ever quoted Knuth on premature optimisation? If so read the whole paper . It's a classic &amp; still relevant
+MarcosCarreira	691643521380450305	2016-01-25T15:27:20	This code library saved my time:  Thank you chrisalbon !
+MarcosCarreira	691655051924881408	2016-01-25T16:13:09	 cc pkedrosky altmandaniel
+MarcosCarreira	691647557123100672	2016-01-25T15:43:22	 MAvellaneda55 That seems to be the answer to the question you asked last week
+MarcosCarreira	690454326830039040	2016-01-22T08:41:54	Editors of NEJM enjoy widespread ridicule on twitter under researchparasites hashtag 
+MarcosCarreira	691427478372552704	2016-01-25T01:08:51	JC Flowers just bought Chi-x Australia, Japan and Chi-tech from Nomura - amount undisclosed
+MarcosCarreira	691355726921363457	2016-01-24T20:23:44	We brought an antenna to Davos to track private air travel, and here’s what we found   The future of journalism.
+MarcosCarreira	691291225077346305	2016-01-24T16:07:26	Virginia Tech Professor Marc Edwards Spent $147,000 to Help Uncover the Flint Water Scandal  via attn
+MarcosCarreira	675845003709702144	2015-12-13T01:09:40	I felt like saying this. 
+MarcosCarreira	690663223012560896	2016-01-22T22:31:58	Google's 3 month Deep Learning course D4Sci opendata 
+MarcosCarreira	690631717724516352	2016-01-22T20:26:47	My blog post quantopian with twiecki &amp; DrScottClark applying SigOpt Bayesian optimizer to trading algo research: 
+MarcosCarreira	690526412307087361	2016-01-22T13:28:20	“Medieval rulers choosing between missile technologies thus confronted a trade-off with respect to internal and external security.“
+MarcosCarreira	690526272087314434	2016-01-22T13:27:47	“Security Trade-offs in the Longbow vs. Crossbow Decision”  HT schneierblog
+MarcosCarreira	690523627314376706	2016-01-22T13:17:16	Interested in nonlinear dynamics &amp; chaos? My Cornell lectures are online free at 
+MarcosCarreira	690512576078311425	2016-01-22T12:33:21	We (100+ contributors) gave away scikit-learn for free (with support) researchparasites all we got was 2000+ citations, startups, &amp; science
+MarcosCarreira	690285481330876416	2016-01-21T21:30:58	Blythe Masters Firm Raises Cash, Wins Australian Exchange Deal 
+MarcosCarreira	690028194758529024	2016-01-21T04:28:36	"The Mickey Mouse Curve" Funny how just before Mickey would become public domain, we always get a new copyright law. 
+MarcosCarreira	689892619061739520	2016-01-20T19:29:52	Kaggle is now hosting public data sets &amp; allowing Kagglers to share insights and code on those data sets: .
+MarcosCarreira	689885191951769600	2016-01-20T19:00:21	The Risk of not Knowing | Discovering the Art of Mathematics (DAoM) 
+MarcosCarreira	689879736508641281	2016-01-20T18:38:41	Short blog post that gives an intuitive introduction to semi-supervised learning with ladder networks: 
+MarcosCarreira	689445789471404032	2016-01-19T13:54:20	Sorry, kids, all the good usernames are gone -- my latest column  
+MarcosCarreira	689853875759779840	2016-01-20T16:55:55	 cc RemcoLenterman SniperInMahwah and cc matt_levine (Insider Trading in Eighteenth-Century Amsterdam)
+MarcosCarreira	689792031837818880	2016-01-20T12:50:10	Towards a better understanding of what deep convnets could be doing  by Stéphane Mallat
+MarcosCarreira	689840612477132800	2016-01-20T16:03:13	 cc mathbabedotorg
+MarcosCarreira	689726062717202432	2016-01-20T08:28:02	AI Materials of UCBerkeley (an awesome Pac-Man :-)) -  - AI deeplearning ML
+MarcosCarreira	689580073783980032	2016-01-19T22:47:56	This semester's Text as Data seminar at NYU:  Big thanks to arthur_spirling for organizing!!
+MarcosCarreira	689563920533688320	2016-01-19T21:43:44	great resources on NLP with neural nets: yoavgo's primer  and Kyunghyun Cho's lecture notes 
+MarcosCarreira	689534529544011776	2016-01-19T19:46:57	Our latest episode is up! Listen to Ben Wellington of IQuantNY discuss open data and persuasive storytelling: 
+MarcosCarreira	689499621505286144	2016-01-19T17:28:14	pkedrosky So after breaching $9 the target will be $16 ?
+MarcosCarreira	689474921223745537	2016-01-19T15:50:05	Untangling Research &amp; Practice - my Research Ethics paper on the Facebook "emotional contagion" study: 
+MarcosCarreira	689445341716840448	2016-01-19T13:52:33	And if, like me, you could use a refresher course on neural networks and python check out:  h/t TheAndyCamps
+MarcosCarreira	689394719147761664	2016-01-19T10:31:24	Interesting: European clearing houses started publishing quantitative data on risk exposures eachccp 
+MarcosCarreira	689409833246699520	2016-01-19T11:31:27	mmport80 I would recommend  thalesians Cmrn_DP dyjh and quantopian ( twiecki jstauth )
+MarcosCarreira	689405180975063040	2016-01-19T11:12:58	mmport80 Thanks!
+MarcosCarreira	689300370237988864	2016-01-19T04:16:29	"We need to teach people the jobs of the future." THE FUTURE DOESNT HAVE JOBS THATS KIND OF THE ENTIRE PROBLEM IM TRYING TO EXPLAIN TO YOU
+MarcosCarreira	689291925120131072	2016-01-19T03:42:56	"My client is looking for someone to bring their data to life." "So, like a Data Necromancer?" "..."
+MarcosCarreira	689394570686169088	2016-01-19T10:30:48	 Alan Rickman: “If it doesn’t have risk it is not worth doing.” HT h0d3r
+MarcosCarreira	689031330936532992	2016-01-18T10:27:25	Thalesians are doing an event with quantopian in London on CTAs &amp; Pairs Trading. Register for free at  
+MarcosCarreira	688839266902904836	2016-01-17T21:44:13	Fantastic 'When is LaTeX worthwhile' infographic by rogierK captures my thoughts exactly. 
+MarcosCarreira	688717432408662016	2016-01-17T13:40:06	How long until Google's captchas are just a feed of blurry dashboard cam pics? Say, a child in front of a car. Question: "should we brake?"
+MarcosCarreira	688415634686869504	2016-01-16T17:40:52	Oh my god, Keith_Laws's story of trying to correct a bad paper is incredible.  
+MarcosCarreira	688372442784509953	2016-01-16T14:49:14	A+ London tube experiments with stopping people walking up escalators  Excellent dataviz and designthinking ddj
+MarcosCarreira	688171431478231040	2016-01-16T01:30:29	I wrote a quick notebook tutorial demoing Python Data Visualizations on kaggle scripts  
+MarcosCarreira	687773665354629121	2016-01-14T23:09:54	MustRead Full-time Bitcoin developer: Bitcoin has failed and I'm leaving | OctSkyward |  
+MarcosCarreira	688155934690955265	2016-01-16T00:28:54	Frances_Coppola “Money for Nothing” - even the band name (Dire Straits) is suggestive
+MarcosCarreira	688136632688455682	2016-01-15T23:12:12	experquisite Bergomi published a series of articles at RiskMagazine that were quite influencial … Waiting for Bruno Dupire’s book as well
+MarcosCarreira	688081694310666242	2016-01-15T19:33:54	MumbleFX More like this: 
+MarcosCarreira	688075031361024001	2016-01-15T19:07:25	MumbleFX No; in fact, we must also limit the power of experts to influence public policies; there should be accountability
+MarcosCarreira	688072350600945665	2016-01-15T18:56:46	MumbleFX This should limit the scale of groups and what those might be able to achieve
+MarcosCarreira	688070639396237312	2016-01-15T18:49:58	Unicorns and scaling by izakaminska : 
+MarcosCarreira	688058821869088768	2016-01-15T18:03:01	Long post about my attempts to understand what cool Google language processing tool word2vec is doing: 
+MarcosCarreira	688058226282237955	2016-01-15T18:00:39	New episode of TlkngMchns all about the WiMLworkshop!!! kgorman interviewed jennwvaughan and I covered the invited talks from WiML2015.
+MarcosCarreira	687532882563215361	2016-01-14T07:13:07	Machine Learning Books Suggested by Michael I. Jordan from Berkeley 
+MarcosCarreira	687974251111018498	2016-01-15T12:26:58	Horrifying. And so brave for sharing. AstroSH 
+MarcosCarreira	687893351190900736	2016-01-15T07:05:30	New book on the volatility modeling by Lorenzo Bergomi 
+MarcosCarreira	687705740698587136	2016-01-14T18:40:00	"All that glitters is not gold: Comparing backtest and out-of-sample performance of 800,000 trading algorithms" accepted at strataconf Lon!
+MarcosCarreira	687696262641135617	2016-01-14T18:02:20	New experiment: I'm starting a Deep Learning + AI newsletter with hand-curated stories, code and research papers: 
+MarcosCarreira	687418176284573698	2016-01-13T23:37:19	Free, starts today! MIT's Introduction to Computer Science and Programming Using Python | edX 
+MarcosCarreira	687375220127219712	2016-01-13T20:46:37	izakaminska Just imagine the consequences of a big hack in Facebook, considering that it is used as a login in many other sites
+MarcosCarreira	687308368030076929	2016-01-13T16:20:59	nntaleb A good test for this method would be an OTM option with a quadratic payoff - even with a gaussian process
+MarcosCarreira	687257821587480581	2016-01-13T13:00:07	Pattern: Python web mining module, scraping, NLP, ML etc  QuantLinkADay
+MarcosCarreira	687091139292311553	2016-01-13T01:57:47	EmanuelDerman I wrote a Jupiter notebook for ”When You Cannot Hedge Continuously: The Corrections to Black-Scholes" 
+MarcosCarreira	687073622410850306	2016-01-13T00:48:11	nntaleb You have an ace on particle methods there at Bloomberg: julienguyon1977 
+MarcosCarreira	686915984398106624	2016-01-12T14:21:47	Bowie, riding the NYC subway into his 60s. Effortless.  (via stuartdredge) 
+MarcosCarreira	686736542690336770	2016-01-12T02:28:45	BarrosOctavio Com o CDS perto de 500bp é uma idéia interessante
+MarcosCarreira	686710892789133312	2016-01-12T00:46:49	"Option Valuation using Numerical Methods" Black-Scholes equation using Crank-Nicolson—nice student project Jupyter 
+MarcosCarreira	686599534944894976	2016-01-11T17:24:20	Pythonista 2.0 is out now!  – It's a complete Python interpreter and IDE running directly on your iPad or iPhone.
+MarcosCarreira	686531628580081664	2016-01-11T12:54:30	New interview up with Wall Street quant and physicist Emanuel Derman EmanuelDerman 
+MarcosCarreira	686564273594724353	2016-01-11T15:04:13	 
+MarcosCarreira	686549743326113792	2016-01-11T14:06:28	“Normalization of deviance” 
+MarcosCarreira	686292370854408192	2016-01-10T21:03:46	treycausey Laces out!
+MarcosCarreira	686186344922673152	2016-01-10T14:02:28	Keynote speakers announced for QuantCon 2016: EmanuelDerman &amp; Marcos López de Prado! 
+MarcosCarreira	686157143020535809	2016-01-10T12:06:25	Pythonista 2.0 will be out tomorrow as a free update. Here's the preview video again, more details soon: 
+MarcosCarreira	686083374314733568	2016-01-10T07:13:17	This guy.... Hobbes Awakens.  
+MarcosCarreira	686139190833213440	2016-01-10T10:55:05	A curated list of awesome Machine Learning frameworks, libraries and software. 
+MarcosCarreira	686018779877261312	2016-01-10T02:56:37	This may be the best [read: most honest] acknowledgments section of all time.  
+MarcosCarreira	685929375926190081	2016-01-09T21:01:21	EmanuelDerman Jumps without diffusion (Target Overnight Rate changes) 
+MarcosCarreira	685928038882762752	2016-01-09T20:56:03	chrisalbon 
+MarcosCarreira	685904224887140352	2016-01-09T19:21:25	treycausey Surprised by the absence of points/score differential as a feature of “NFL Play Prediction”
+MarcosCarreira	685872594831196160	2016-01-09T17:15:44	New release of ProjectJupyter Notebook bring multi-cell selection/manipulation!  
+MarcosCarreira	685149448440266756	2016-01-07T17:22:12	[1 of 4 car accidents caused by texting &amp; driving] PEOPLE: won't be me [1 in 292 million chance of winning powerball] PEOPLE: you never know
+MarcosCarreira	685798904496033792	2016-01-09T12:22:55	How does a VW diesel know when it's running an emissions test? Fascinating reverse engineering of the code: 
+MarcosCarreira	685493744754294784	2016-01-08T16:10:19	Podcast.__init__ Episode 39 - Yves Hilpisch on Quantitative Finance - 
+MarcosCarreira	685426349167767552	2016-01-08T11:42:30	 cc izakaminska mathbabedotorg
+MarcosCarreira	685214335921172480	2016-01-07T21:40:03	 In Brazil there are additional rules on individual stocks (and FX and IR derivs), usually triggering auctions
+MarcosCarreira	682257233229385728	2015-12-30T17:49:34	I just discovered this treasure trove of cool python stuff on YouTube (the Enthought channel) 
+MarcosCarreira	685127243564101632	2016-01-07T15:53:58	Why too much evidence can be a bad thing 
+MarcosCarreira	684919240089047040	2016-01-07T02:07:26	financequant nntaleb From Steven Brust’s “Five Hundred Years After” 
+MarcosCarreira	684913861644914688	2016-01-07T01:46:04	 alexbellos Your puzzle was a motivation for a Peter Norvig notebook: 
+MarcosCarreira	684712567709806596	2016-01-06T12:26:12	Finishing up Weapons of Math Destruction 
+MarcosCarreira	684502845186387968	2016-01-05T22:32:50	Full house for big data &amp; causal inference at ASSA2016.  Papers, including mine on heterogeneous treatment effects: 
+MarcosCarreira	684525152047120384	2016-01-06T00:01:28	 always trust arnicas on sci-fi recommendations
+MarcosCarreira	684466474019360769	2016-01-05T20:08:18	SniperInMahwah Happy 2016 to you as well
+MarcosCarreira	684464587933134849	2016-01-05T20:00:49	SniperInMahwah “Recommendations available for Prime customers (customers who bought Apple also bought: Facebook, Google, Netflix)” 3/3
+MarcosCarreira	684463996876025857	2016-01-05T19:58:28	SniperInMahwah …drones will deliver your order to the counterparty (Amazon fulfilment available for selected stocks), no intermediaries 2/n
+MarcosCarreira	684463596617756676	2016-01-05T19:56:52	SniperInMahwah “The Amazon Exchange”: Your choice of sending orders through 1-Click or shouting them to Echo; once Amazon receives it, 1/n
+MarcosCarreira	684416599978303489	2016-01-05T16:50:07	TimHarford similarities to what mathbabedotorg posted about videogames and self-image perhaps?
+MarcosCarreira	684013520678162433	2016-01-04T14:08:26	Interested in market structure? Follow Andrew Upward for deep insight. weedenandrew 
+MarcosCarreira	683682073123532802	2016-01-03T16:11:23	Podcast.__init__ Episode 38 - Scott Sanderson on Algorithmic Trading - 
+MarcosCarreira	683745232282849280	2016-01-03T20:22:21	MumbleFX No I don’t know
+MarcosCarreira	683479372930658308	2016-01-03T02:45:55	Actually I take it back, this was the best thing I read in 2015 :)  
+MarcosCarreira	683412021480701954	2016-01-02T22:18:17	Finally read 50 Years of Data Science. That Tukey guy was smart.  [PDF] 
+MarcosCarreira	683070557240307712	2016-01-01T23:41:26	Wow -'The first in vivo demonstration of the free energy principle in a neural net'   
+MarcosCarreira	683274097254641664	2016-01-02T13:10:14	Paper coherently structures snippets from classical market microstructure, algorithmic trading &amp; market-making  
+MarcosCarreira	683067040501002240	2016-01-01T23:27:27	 cc zeynep izakaminska
+MarcosCarreira	682964842483986432	2016-01-01T16:41:21	New Column on personal level: My greatest regret and why LeBron James on Tamir Rice case requires examining within 
+MarcosCarreira	682962004517253120	2016-01-01T16:30:05	 worth checking E. F. Schumacher’s “Small is Beautiful”
+MarcosCarreira	682960850001510401	2016-01-01T16:25:30	'One advantage of crude models is that we know they are crude and will not try to read too much from them.' 
+MarcosCarreira	682630763674767362	2015-12-31T18:33:51	Feynman’s (LOP Millennium Edition on Kindle!): “You should, in science, believe logic and arguments, carefully drawn, and not authorities.”
+MarcosCarreira	682384484445097985	2015-12-31T02:15:13	pauld44 streetwiseprof Will read the case carefully then
+MarcosCarreira	682373902773915648	2015-12-31T01:33:10	pauld44 … for different participants; harder for exchanges to determine a priori who can post which orders; surveillance only enough? 2/2
+MarcosCarreira	682372177547624448	2015-12-31T01:26:19	pauld44 When I was at the exchange, HFTs were those who complained about spoofing; agree manipulation is bad, but impact is different 1/2
+MarcosCarreira	682183105701109760	2015-12-30T12:55:01	Only $1,651 left to reach the end-of-year campaign goal for NumFOCUS: support Python tools for data science! 
+MarcosCarreira	682244103933956096	2015-12-30T16:57:24	linuxlizard cyrillerossant Now books are not shown in the search anymore (it stopped working this morning)
+MarcosCarreira	682220583195701248	2015-12-30T15:23:56	 cc nntaleb Ref Folta and GMOs
+MarcosCarreira	682212757144403968	2015-12-30T14:52:50	I was gonna blog about Piper Harron's thesis and use this exact Thurston quote but evelynjlamb beat me to it 
+MarcosCarreira	682148853378891776	2015-12-30T10:38:55	Peter Norvig refactors a crossword game program and pays off technical debt: 
+MarcosCarreira	682005801800577025	2015-12-30T01:10:28	streetwiseprof Are your conclusions on spoofing (  ) similar to matt_levine (  ) ?
+MarcosCarreira	682000593544589313	2015-12-30T00:49:47	“Economic and Financial Modeling with Mathematica” edited by halvarian 
+MarcosCarreira	681998643855900672	2015-12-30T00:42:02	Chaitin’s “Conversations with a Mathematician” 
+MarcosCarreira	681991315085737984	2015-12-30T00:12:54	orestistsinalis Going over the Computer Science list, a lot has changed over 10/15 years
+MarcosCarreira	681989680406130688	2015-12-30T00:06:25	“Intelligent Data Analysis”  cc johnmyleswhite
+MarcosCarreira	681986415241084930	2015-12-29T23:53:26	“Computational Financial Mathematics using Mathematica” PDEs galore 
+MarcosCarreira	681978781083529220	2015-12-29T23:23:06	More gems from Springer: “The Algorithmic Beauty of Sea Shells” 
+MarcosCarreira	681867766052208641	2015-12-29T16:01:58	Silicon Valley is confusing pseudo-science with innovation  via verge
+MarcosCarreira	681861410083762180	2015-12-29T15:36:43	The SEC has issued its review of the stock market happenings on Aug. 24: 

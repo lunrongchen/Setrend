@@ -164,9 +164,5 @@ if __name__ == "__main__":
     reviews = read_reviews("Tweets_Data/Data")
     for date in reviews:
         print(reviews[date])
-    #count=0
-    #for date in reviews:
-        #count+=len(reviews[date])
-    #print(count)
     extract_features(reviews,True)
 

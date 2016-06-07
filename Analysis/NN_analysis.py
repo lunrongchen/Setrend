@@ -81,7 +81,7 @@ def create_features(bag, sentiments, word_vector):
 
 def NN_analysis(features,labels):
     #training svm
-    print('start to train SVM')
+    print('start to train neural network')
     print('get dates')
     dates=list(labels.keys())
     dates = [datetime.datetime.strptime(ts, "%Y-%m-%d") for ts in dates]
@@ -106,11 +106,10 @@ def NN_analysis(features,labels):
     ds = SupervisedDataSet(len(x[0]), 1)
     ds.setField('input', x)
     y=np.array(y).reshape( -1, 1 )
-    print(y)
     ds.setField('target', y)
     net = buildNetwork(len(x[0]), 500, 1, bias=True)
     trainer = BackpropTrainer(net, ds)
-    trainer.trainUntilConvergence(verbose=True, validationProportion=0.15, maxEpochs=10000, continueEpochs=10)
+    trainer.trainUntilConvergence(verbose=True, validationProportion=0.15, maxEpochs=500, continueEpochs=10)
     print ("fit finished")
     #training_indices=np.random.choice(len(dates), len(dates)/10)
     count=0
@@ -140,6 +139,6 @@ if __name__ == "__main__":
     features=create_features(bag,sentiments,word_vector)
     print('word_vector size is '+str(len(word_vector)))
     #read in dow_jones indices
-    labels=dow_jones.index_changing_rate(dow_jones.read_indices('YAHOO-INDEX_DJI.csv'))
+    labels=dow_jones.index_changing_rate(dow_jones.read_indices('YAHOO-INDEX_DJI_longer.csv'))
     #start training
     NN_analysis(features,labels)

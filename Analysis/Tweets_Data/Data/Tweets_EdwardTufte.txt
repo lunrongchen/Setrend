@@ -1,0 +1,540 @@
+EdwardTufte	726082813049470978	2016-04-29T16:16:47	Great tutorial by lukaszpiwek on DataViz in the style of EdwardTufte with R  rstats 
+EdwardTufte	726110925024034816	2016-04-29T18:08:29	Feynman diagrams, stainless steel ~70cm width, today's test for LA exhibit 8/2016.  scicomm 
+EdwardTufte	725549126298001409	2016-04-28T04:56:06	eschmaltzzz JennySampirisi EdwardTufte The YouTube video is itself an artistic joke on censorship from 2010. See 
+EdwardTufte	725458123964747777	2016-04-27T22:54:29	! 
+EdwardTufte	725339323739025409	2016-04-27T15:02:25	"Good information design is endlessly self-effacing" EdwardTufte
+EdwardTufte	725394341414490112	2016-04-27T18:41:02	What are the world's best visualizations according to EdwardTufte? Google Maps, of course UX datavisualization informationdesign
+EdwardTufte	725403664597274628	2016-04-27T19:18:05	What's more important than knowing your audience? Knowing your content! Take advantage of your knowledge to educate others EdwardTufte
+EdwardTufte	725422818230308864	2016-04-27T20:34:12	Biber. 12/8, then 8/12. oldcomplexity 
+EdwardTufte	723136310291128321	2016-04-21T13:08:26	YouTube disables audio on John Cage's "4'33" (via JennySampirisi) 
+EdwardTufte	725397071520387072	2016-04-27T18:51:53	d3-force 0.3 can now apply constraints, such as link distance in this lattice, multiple times per step. Rigid! 
+EdwardTufte	725342683221364737	2016-04-27T15:15:46	Bertrand Russell on the vital role of boredom and "fruitful monotony" in our conquest of happiness 
+EdwardTufte	725303324891832320	2016-04-27T12:39:22	Attended EdwardTufte seminar in Boston yesterday, great insights from a master who remains excited about his work and field progressions.
+EdwardTufte	725293381170159616	2016-04-27T11:59:52	Went to EdwardTufte course in Boston with high expectations, and it was awesome in every respect!
+EdwardTufte	725048317688819715	2016-04-26T19:46:04	"Great design is self-effacing; it gets out of the way" says EdwardTufte. deirdre_lyon and I thoroughly enjoying his class in Boston. UX
+EdwardTufte	724792977151909888	2016-04-26T02:51:26	Made it to inspiring EdwardTufte course today! Art returns to arts&amp;sciences in "the wonder of the spectacle and the accuracy of expression"
+EdwardTufte	724598133171314688	2016-04-25T13:57:11	Excited to have briefly talked with EdwardTufte before his workshop! 
+EdwardTufte	724629287962292224	2016-04-25T16:00:59	"Confusion &amp; clutter are the failure of design, not the attributes of information." - EdwardTufte 
+EdwardTufte	724373690222256129	2016-04-24T23:05:20	Shiver in ecstasy.  Mathematics. 80 is the number of... 
+EdwardTufte	724312609609142272	2016-04-24T19:02:37	ET Anisotropic Calligraphy series  stainless steel ~20 artworks explained:  sculpture art 
+EdwardTufte	724309493002199040	2016-04-24T18:50:14	"Vin Scully: an appreciation":  Sweet essay, so much nostalgia.
+EdwardTufte	724275331759267842	2016-04-24T16:34:30	On integrity,credibility  ET Beautiful Evidence.  designthinking presentations datascience 
+EdwardTufte	724268338910781440	2016-04-24T16:06:42	Measuring color in the field, many practical examples + SalmoFan!  dataviz color metrics 
+EdwardTufte	724247607569063936	2016-04-24T14:44:20	Detection of cancer via free text, deep learning (vs humans)  Regenstrief IndianaUniv 
+EdwardTufte	724240498177761280	2016-04-24T14:16:05	
+EdwardTufte	724058894226460672	2016-04-24T02:14:27	Brilliant Feynman, "seeing through equations" ... 
+EdwardTufte	723796117180264448	2016-04-23T08:50:16	A scribe playing with his descenders in the eighth-century Vat. lat.1342, written in uncial: 
+EdwardTufte	723061893305372673	2016-04-21T08:12:43	A Snow Leopard showing off. 
+EdwardTufte	723544152571412481	2016-04-22T16:09:03	Microsoft R Open 3.2.4 now available for download on Windows, Mac and Linux  rstats 
+EdwardTufte	723301741890916353	2016-04-22T00:05:48	"Risk literacy" in medical decision-making sciencemagazine - patients will need tools to understand uncertainty 
+EdwardTufte	723296044965105664	2016-04-21T23:43:09	Slopegraphs and other graphical tables:  datscience statistics ddj rstats 
+EdwardTufte	723261415109320705	2016-04-21T21:25:33	Lessons in data forensics: People can't keep their own score. Cheat=Sampling to please. Result = GIGO  dataviz ddj
+EdwardTufte	723255706686763008	2016-04-21T21:02:52	General principle = People can't keep their own score. Technique of lying =  Sampling to please.  metrics analytics
+EdwardTufte	722982754556608512	2016-04-21T02:58:15	Diagram as superscript!  Happy find, sentence redesign essay  for The Thinking Eye. SeamusBlackley visualization 
+EdwardTufte	722976771893682176	2016-04-21T02:34:29	Diagram/equation from chapter on redesign of sentences, revised from Penrose. SeamusBlackley dataviz Feynman 
+EdwardTufte	722974473226330112	2016-04-21T02:25:21	Seamus, very good, cheers, et Real science has a lot more smooth elegant surfaces than social science. 
+EdwardTufte	722910091943366656	2016-04-20T22:09:31	Wow! 
+EdwardTufte	722774449305559040	2016-04-20T13:10:31	There is no such thing as a free museum. The issue is who is going to pay for it. MuseumNext silviaff20 
+EdwardTufte	722754213353254912	2016-04-20T11:50:07	I want to publicly thank alox for introducing to Mr EdwardTufte work. So........ thanks Alex. 
+EdwardTufte	722615049622319104	2016-04-20T02:37:08	Magical number 7  +/-2 not relevant for design. Nor is the Powerpoint magical number 666 ("6 words/bullet, etc.") 
+EdwardTufte	722567155905097728	2016-04-19T23:26:49	Artworks in the window: Hypnerotomachia Poliphili, Buddha with bird nest, Parade piece.  sculpture 
+EdwardTufte	722564086710407169	2016-04-19T23:14:37	Steel artwork of African origin celebrating  invention  of North arrow,  height ~4m,  2015.  sculpture 
+EdwardTufte	722540566706274304	2016-04-19T21:41:09	Parrots: The Highlight Reel  via nytvideo
+EdwardTufte	722508813413298176	2016-04-19T19:34:59	Graphics on outer space, satellites, astrophysics in Python/R/Plotly  visualization scicomm 
+EdwardTufte	722507140590608384	2016-04-19T19:28:20	"Tufte style visualizations in R using Plotly"   rstats dataviz statistics datascience
+EdwardTufte	722496082597515265	2016-04-19T18:44:24	ET sparklines for marginal distributions, made ~1981, published in Visual Display 1983, then in SPSS ~1987. 
+EdwardTufte	722437530663182337	2016-04-19T14:51:44	Time-series in XY space:  datascience metrics analytics designthinking 
+EdwardTufte	722435839133925376	2016-04-19T14:45:00	No home should be without it. 
+EdwardTufte	583081876144832512	2015-04-01T01:42:07	Over 2,000 Pictorial Maps added to Rumsey Online Collection.  
+EdwardTufte	722220598663847937	2016-04-19T00:29:43	SVG sparklines that embed the datapoints directly:  thanks to adactio, sil and EdwardTufte indieweb
+EdwardTufte	722174994181197824	2016-04-18T21:28:30	"Deadly viruses animated by a master of science visualization"  dataviz visualization scicomm
+EdwardTufte	722169767801577472	2016-04-18T21:07:44	DavidRumseyMaps always wonderful. Note why Stanford received his spectacular collection. dataviz maps 
+EdwardTufte	722133915528519680	2016-04-18T18:45:16	Playing with Klee. This is one one MoMA's major treasures. painting artheroes masterpiece… 
+EdwardTufte	721433784239988736	2016-04-16T20:23:12	A+  by KevinQ + driven_by_data Curry's 3-point record 402. Interactivity works well cuz of player labels at right! 
+EdwardTufte	721422017300406272	2016-04-16T19:36:26	Overlapping data graphics data gone wild: Curry et al. On overlapping sparklines, etc:  ddj 
+EdwardTufte	721361452200816641	2016-04-16T15:35:47	Alexander Calder studio (not open to public)  see book Calder In Connecticut Alexander Rower, Eric Zafran sculpture 
+EdwardTufte	721356082384408576	2016-04-16T15:14:26	On overlapping data graphics, big collection  
+EdwardTufte	721354789800513540	2016-04-16T15:09:18	Exercise in teaching elevations, cross-sections, architecture maps 
+EdwardTufte	721349542696853504	2016-04-16T14:48:27	Unusual, strange, delightful maps, big collection at  dataviz maps 
+EdwardTufte	721097134167166976	2016-04-15T22:05:28	Note drawing at lower right = sculptures at recent MOMA Picasso sculpture show! 
+EdwardTufte	718112422503063552	2016-04-07T16:25:18	How to be a meteorologist 
+EdwardTufte	717820363909017601	2016-04-06T21:04:45	Sample of a Mozart composition written when he was ...5!! MorganLibrary free next WKND  lovemozart @NYC_Everyday 
+EdwardTufte	717885822817714176	2016-04-07T01:24:52	superb graphics. dataviz 
+EdwardTufte	717824793219739648	2016-04-06T21:22:21	Looking to predict survival? Goodbye telomeres; hello age, mobility &amp; cognition  PLOS 
+EdwardTufte	717862136781869057	2016-04-06T23:50:45	Beautiful story about John Prine, who is subtle, sly, profound, honestly emotional (and a self publisher!) 
+EdwardTufte	717755359012773888	2016-04-06T16:46:27	An interesting confection: Tom Waits on art films via the superb Open Culture. 
+EdwardTufte	717754407421612036	2016-04-06T16:42:40	Overt frames not necessity in cartoons dataviz and small multiples. Leonardo took a skip on frames designthinking 
+EdwardTufte	717337411731202048	2016-04-05T13:05:41	Amid public feuds, a venerated medical journal finds itself under attack 
+EdwardTufte	717430401359343620	2016-04-05T19:15:11	Unemployed people per job opening. Currently 1.4. Lowest ever was 1.1 in Jan 2001. 
+EdwardTufte	717427857937580033	2016-04-05T19:05:05	ET one-day course Presenting Data+Info Arlington,VA May 23, 24, 25  JHSPH GWU NIH DARPA 
+EdwardTufte	717418492841095169	2016-04-05T18:27:52	Instructions at point of need, many examples.  signage designthinking 
+EdwardTufte	717414490988548096	2016-04-05T18:11:58	Our Hogpen Hill Farms = Connecticut 7 Must-Visit Sculpture Parks+Art Gardens, Culture Trip  
+EdwardTufte	717411288415080449	2016-04-05T17:59:14	ET 1-day course Presenting Data  Boston  April 25, 26, 27  Cambridge MIT Harvard 
+EdwardTufte	717098145277194242	2016-04-04T21:14:55	Berkshire Hathaway directors were paid a *total* of $41,700 in 2015. cc: the rest of Corporate America 
+EdwardTufte	717129639630618624	2016-04-04T23:20:04	Vin Scully is on the air. All is right.
+EdwardTufte	717011616651280384	2016-04-04T15:31:05	waltmossberg AlaskaAir VirginAmerica well JetBlue has really stepped it up especially on the CA/NY flights so I have a new love I think!
+EdwardTufte	717028422086762497	2016-04-04T16:37:52	FCC introduces broadband labels inspired by nutrition facts  
+EdwardTufte	717015125987835904	2016-04-04T15:45:02	FCC’s “nutrition labels” for broadband show speed, caps, and hidden fees  by JBrodkin
+EdwardTufte	717001026486865922	2016-04-04T14:49:00	Thoughtful essay: principles of making credible inferences not over-ruled just because you use dataviz + bigdata 
+EdwardTufte	716992246583857152	2016-04-04T14:14:07	Mathematician finds solution to a Poisson formula problem in 1959 paper:  WCoM MathNews 
+EdwardTufte	716992331422031873	2016-04-04T14:14:27	Panama project management: journalism analysis of bigdata 2.6 terabytes, good account by wired  datascience
+EdwardTufte	716986415884722178	2016-04-04T13:50:57	Panama + chord diagrams! 
+EdwardTufte	716978878590369792	2016-04-04T13:21:00	Polysomnograms! Computer evaluation like EKGs? Does bigdata mean auto-processing? And dataviz for . . . ? 
+EdwardTufte	716934586442391554	2016-04-04T10:25:00	Early detection paradox: Survival rates "improve" but no one's life expectancy increases:  datascience Analytics
+EdwardTufte	716932209144422400	2016-04-04T10:15:33	A compromised finding? Last refuge of mediocre or over-priced intervention? 
+EdwardTufte	714974556214194176	2016-03-30T00:36:32	New Post Stephen Malinowski Animates Patagón! - Cindy Cox: Patagón Amazon iTunes Apple Music ArkivMusic Spotify... 
+EdwardTufte	716730798376939520	2016-04-03T20:55:13	"Double-dipping" in the for-profit scientific publishing market: 
+EdwardTufte	716730991713329153	2016-04-03T20:55:59	It's all about content, not noise, not admin debris. ET on chartjunk:  analytics UXdesign 
+EdwardTufte	716466179724943360	2016-04-03T03:23:43	Mathematician Solves the Centuries-Old Sphere Problem in Higher Dimensions  scicomm
+EdwardTufte	716028599082610688	2016-04-01T22:24:55	Another satisfied customer for The Best Single Day Class Ever. CC EdwardTufte  
+EdwardTufte	715901783147610112	2016-04-01T14:01:00	Doing some research on presenting research today via EdwardTufte - Thanks for the rec, dougkleeman joshcarlton 
+EdwardTufte	715875894410215424	2016-04-01T12:18:08	Smart, intense, clear, long time-horizon. NYT financial graphics &gt;&gt; google financials. dataviz analytics 
+EdwardTufte	713918103357419520	2016-03-27T02:38:34	PHOTO. Mathematician John Conway playing Game of Life, which he invented in 1970. Info:  
+EdwardTufte	708520135548469248	2016-03-12T05:08:58	Everything about the heart I know. And a lot I didn't (unlike pascalmeier74 I bet) 
+EdwardTufte	715713021608386561	2016-04-01T01:30:56	ET theater piece, steel, ~1.2 x .3 x .3 m  sculpture 
+EdwardTufte	715680018983174144	2016-03-31T23:19:47	"Medical records likely wrong, outdated, Let Patients Read Their Medical Records"  EHR EMR analytics GIGO
+EdwardTufte	715652801666240514	2016-03-31T21:31:38	MABadge kshameer BenGlicksberg patrickmdnet jdudley clinical data:  for 3 missed cites. Also note normal limits
+EdwardTufte	715649789619101696	2016-03-31T21:19:40	Sparklines at    + long chapter in ET, Beautiful Evidence  journalism 
+EdwardTufte	715641836635815936	2016-03-31T20:48:04	Time-series moving in XY space: many examples  datascience rstats designthinking 
+EdwardTufte	715592491760750592	2016-03-31T17:31:59	Thanks Zaha Hadid for designing the way forward for architecture. Your work inspired us all  
+EdwardTufte	715581389442256896	2016-03-31T16:47:52	on the road Charlotte to Chapel Hill, tomorrow's one-day class 
+EdwardTufte	715580689291337728	2016-03-31T16:45:05	
+EdwardTufte	715578504117665792	2016-03-31T16:36:24	Overlapping data graphics, subtle+intense multivariate depth.  datascience statistics ddj 
+EdwardTufte	715533761060974592	2016-03-31T13:38:37	Fascinating: Car-Pooling Helps Uber Go the Extra Mile 
+EdwardTufte	715528462409330688	2016-03-31T13:17:33	Guess the correlation: Addictive 8-Bit Statistics Game 
+EdwardTufte	715166256291295233	2016-03-30T13:18:17	Had a nice chat with the brilliant EdwardTufte on software UI design... he's in town today talking about presenting data and information.
+EdwardTufte	715525311962693632	2016-03-31T13:05:02	very helpful for work on redesigning sentences. thanx, et 
+EdwardTufte	715295401197379588	2016-03-30T21:51:27	The cartoonist Roz Chast illustrates her newfound obsession with vintage matchbox labels:  
+EdwardTufte	715208472980271107	2016-03-30T16:06:02	.austinkleon cameo at EdwardTufte course in Charlotte today. "Have an open mind, not an empty head." 
+EdwardTufte	714889070724390917	2016-03-29T18:56:51	"The greatest weapon against stress is our ability to choose one thought over another" DavidRoads
+EdwardTufte	714870676285300736	2016-03-29T17:43:45	Type designers collect words with letters bounded by the flat-sided U and N. This river in Maine is a winner. 
+EdwardTufte	714854830515163136	2016-03-29T16:40:47	Complete history of NBA, cool 538 project.  dataviz bigdata datascience journalism 
+EdwardTufte	714849570329600002	2016-03-29T16:19:53	Riding with roadies amid  Atlanta to Charlotte gigs watching Steph Curry  highlight reels. BurmaShave! 
+EdwardTufte	714842079671791618	2016-03-29T15:50:07	A+  Wonderful, with a great big time horizon: ‘Dinosaurs Among Us’ Retraces an Evolutionary Path  designthinking
+EdwardTufte	714484718251675648	2016-03-28T16:10:05	"If statistics are boring, you've got the wrong numbers." - EdwardTufte data datadriven 
+EdwardTufte	714505436599222272	2016-03-28T17:32:25	Letter from Sol LeWitt to Eva Hesse, just a few years before she died at age 34. 
+EdwardTufte	714511495879634944	2016-03-28T17:56:30	Enjoying EdwardTufte data visualization seminar today in ATL.  Things have been turned to 11.
+EdwardTufte	714439448080068608	2016-03-28T13:10:12	Good example of time-series in XY space  "NFL players have become enormous"  ldatascience
+EdwardTufte	714290648086618112	2016-03-28T03:18:56	Higher-dimensional commutative laws  
+EdwardTufte	714306992714735616	2016-03-28T04:23:52	Smallest-yet genome reveals how little we know about life — synthetic or real | Extre  via ExtremeTech
+EdwardTufte	714301576911986688	2016-03-28T04:02:21	Balaban 11-Cage  via amermathsoc (Am writing about branching stack-lists for The Thinking Eye.)
+EdwardTufte	714300548716105728	2016-03-28T03:58:16	very cool. But ~20% gain in resolution without frames. dataviz uxdesign 
+EdwardTufte	714299632747212802	2016-03-28T03:54:38	Newton’s Apsidal Precession Theorem  via amermathsoc dataviz
+EdwardTufte	714299205955805185	2016-03-28T03:52:56	Free Modular Lattice on 3 Generators  via amermathsoc
+EdwardTufte	714295077569429505	2016-03-28T03:36:32	Zamolodchikov Tetrahedron Equation: sweet drawings (but with a mistake), annotated links in equations  visualization
+EdwardTufte	714267219501252608	2016-03-28T01:45:50	Amazing Rangoli Art 
+EdwardTufte	714212904254509057	2016-03-27T22:10:00	RT EdwardTufte: Musical maps moving in time, Stephen Malinowski musanim  dataviz music 
+EdwardTufte	714110371989159937	2016-03-27T15:22:34	Seeing in silence + training also intensify color perception in dim light. seeing 
+EdwardTufte	713438153252667392	2016-03-25T18:51:25	Lou Reed's 'Walk On The Wild Side' Phonetically Replicated By Twitter Usernames 
+EdwardTufte	713427151601709056	2016-03-25T18:07:42	"Such a feast." Robert Pincus-Witten on "Painting in Italy 1910s-1950s" @ Sperone Westwater  
+EdwardTufte	713422203702931461	2016-03-25T17:48:02	Winged man reads long scroll in Bible of Aracoeli, just digitized in Rome:  
+EdwardTufte	713384519332663297	2016-03-25T15:18:18	For long time,seeking good example/explanation of Talmud annotation.Where hi-res version of this? Something better? 
+EdwardTufte	697806979935375361	2016-02-11T15:38:43	Take 4 min to watch how LIGO detected gravitational waves and proved Einstein right  
+EdwardTufte	713177491402321920	2016-03-25T01:35:38	The Art of Data Visualization | Off Book | PBS Digital Studios, with EdwardTufte and other stars! 
+EdwardTufte	713157851435413506	2016-03-25T00:17:36	Few Follow 4 Main Pillars of Heart Health  via nytimeswell
+EdwardTufte	710126427581063168	2016-03-16T15:31:48	CDC tells doctors to prescribe less addictive painkillers. The size of the drug crisis:  
+EdwardTufte	713110441065652224	2016-03-24T21:09:12	A+ Less interactivity/animation!  archietse on NYT experience  dataviz designthinking ddj 
+EdwardTufte	713053029122121728	2016-03-24T17:21:04	In a political philosophy class long ago, I wrote, favorably, about this from Marx. Professor Masters not impressed. 
+EdwardTufte	713045713093918720	2016-03-24T16:52:00	Big news orgs (NYT, WSJ, Globe) can’t resist small studies. But hype doesn’t help readers.  
+EdwardTufte	713034169870327812	2016-03-24T16:06:08	When they say it's about the journey, you can be certain that you're not going to get very far.
+EdwardTufte	712757026749870085	2016-03-23T21:44:52	Interaction design:content-hostile,users don't use it.Archie Tse on NYT experience  UXdesign 
+EdwardTufte	712749854305492992	2016-03-23T21:16:22	Like book publishers and Silicon Valley, the further the distance from content production, the greater the money. 
+EdwardTufte	712749219115884544	2016-03-23T21:13:50	A+ "Wonderful windows"   10 ImageQuilts world's real windows.Smart,beautiful,easy to build dataviz ddj journalism
+EdwardTufte	712715354678624257	2016-03-23T18:59:16	Edward Tufte course in Boston April 25, 26, 27 
+EdwardTufte	712706789041639425	2016-03-23T18:25:14	Beautiful line-and-tone map, transparent colors,  Edo period, early 17th century.  dataviz designthinking 
+EdwardTufte	712703331605594112	2016-03-23T18:11:30	A+ images Christies auction catalog:cartography+exploration  Cartography visualization ddj 
+EdwardTufte	712700808748511232	2016-03-23T18:01:28	My friends Christie's have major exploration+cartography book auction 5 April 2016  dataviz 
+EdwardTufte	708019316629725184	2016-03-10T19:58:54	Listen to Olga Bell (bellinspace)'s skittering new track "Randomness"  
+EdwardTufte	712692302679056385	2016-03-23T17:27:40	Yes! Just ordered. et 
+EdwardTufte	712503678503100416	2016-03-23T04:58:09	How 'Safe Spaces' Stifle Ideas  via chronicle
+EdwardTufte	712473788248555520	2016-03-23T02:59:22	rstudio EdwardTufte and here's what template Tufte looks like rstats 
+EdwardTufte	712322332501663745	2016-03-22T16:57:33	Maps moving in time: a standard of excellence for data displays  (thx EdwardTufte) datavisualization maps design
+EdwardTufte	712115779840417792	2016-03-22T03:16:47	Measuring things with ships (1906, and Trinity Churches!) architectrue dataviz  
+EdwardTufte	712044520318353408	2016-03-21T22:33:37	Time-series XY space Steph Curry,Phillips curves,neurometrics  Others? statistics analytics 
+EdwardTufte	712014423397961729	2016-03-21T20:34:01	A+  Making timelapse video, practical advice. ~maps moving in time  dataviz journalism ddj 
+EdwardTufte	711716985252478977	2016-03-21T00:52:07	A design critique in typography concerning timetables. How organise data for clarity and readability. 
+EdwardTufte	711869801178726401	2016-03-21T10:59:21	Lovely portraits of writing figures: Evangelists working under pressure  (Aix-en-Provence BM 7, 11th c). 
+EdwardTufte	711704782000488448	2016-03-21T00:03:37	A big deal,  tells who benefits, smarter than NNT  (number needed to treat). dataviz datascience statistics ddj 
+EdwardTufte	711371680262840320	2016-03-20T01:59:59	Time contours in latitude-longitude 2-space. dataviz datascience 
+EdwardTufte	711186787486588930	2016-03-19T13:45:18	Happy Birthday to JosefAlbers who was born on this day in 1888.  via brainpickings 
+EdwardTufte	711027435077238784	2016-03-19T03:12:05	All of us who are alive today vs Everybody who's every lived and died on earth. Source:  
+EdwardTufte	710771201413615616	2016-03-18T10:13:54	The metro and train times in Copenhagen are by the half minute! What accuracy! Ihavethisthingwithtrains Copenhagen
+EdwardTufte	710956296430718976	2016-03-18T22:29:24	noahlt See Stephen Woldfram essay on math notation  and Ron Baecker and Aaron Marcus,  book on code typography
+EdwardTufte	710945958138408961	2016-03-18T21:48:19	Verbs = what things DO, not what they're named.Languages have too many nouns, too few verbs. So why do style guides say cut back on adverbs?
+EdwardTufte	710864652637495296	2016-03-18T16:25:15	Top story: dataviz EdwardTufte: 'Moving time-series design, large current det… , see more 
+EdwardTufte	710094256166281217	2016-03-16T13:23:58	Subtitles, captions&amp; annotations in ggplot2! Tx hadleywickham &amp; hrbrmstr  rstats ddj 
+EdwardTufte	707921979781701632	2016-03-10T13:32:07	Opinion differences between the public and scientists  ddj via pewinternet 
+EdwardTufte	710661993368260609	2016-03-18T02:59:57	The complete set:  
+EdwardTufte	710655055364558849	2016-03-18T02:32:23	Excellent LaTeX Handout design inspired by EdwardTufte -   design typography datavisualization
+EdwardTufte	710615021139714048	2016-03-17T23:53:18	line = Continuous Silent Megaliths?  Yes, have your drawings of long row of megaliths. Will pick up in a few days. 
+EdwardTufte	710613821547741186	2016-03-17T23:48:32	"No home should be without The Gutsy Girl!" ET  "Gutsy Girl authors nominated for Nobel Peace Prize" NYTimes 
+EdwardTufte	710601975440785408	2016-03-17T23:01:27	Psychology is in crisis but many psychologists are still in deep denial. Sorting this out will take decades. 
+EdwardTufte	710606470946168832	2016-03-17T23:19:19	wendymac wonderful drawings at Hogpen Hill Farms, ET Spring Arcs sculpture designthinking  
+EdwardTufte	710605673080463363	2016-03-17T23:16:09	oh my goodness, Wendy's drawings at Hogpen Hill Farms. ET Spring Arcs 
+EdwardTufte	710603920230490112	2016-03-17T23:09:11	ImageQuilt work of wonderful Stephen Malinowski musanim maps moving in time:  dataviz ddj 
+EdwardTufte	710600713345376257	2016-03-17T22:56:27	More: time-series in XY space = time-path walking around hill on contour line:  datascience 
+EdwardTufte	710597028737372160	2016-03-17T22:41:48	Moving time-series design, large current detail,smaller history musanim See also ET+NCSA video dataviz statistics 
+EdwardTufte	710593642520563712	2016-03-17T22:28:21	Musical maps moving in time, wonderful Stephen Malinowski musanim  dataviz vilsualization 
+EdwardTufte	710540737193103360	2016-03-17T18:58:07	Upcoming Edward Tufte course in Atlanta and North Carolina. 
+EdwardTufte	710268604965654530	2016-03-17T00:56:46	nice,  Burma Shave signs were better when I was a child being driven down Rt. 66. 
+EdwardTufte	710262397341208576	2016-03-17T00:32:06	“Quite surprised we saw such robust effects in only 8 weeks” Dr. A.  analytics statistics 
+EdwardTufte	710250705911582721	2016-03-16T23:45:38	"Where scrutiny is damaging, scrutiny is diverted." ~ Dariel Fitzkee's 'Magic by Misdirection', via EdwardTufte's 'Visual Explanations'
+EdwardTufte	709979222383697920	2016-03-16T05:46:52	Steve Jobs: "Your thumbs will learn."  
+EdwardTufte	710216603246444544	2016-03-16T21:30:08	steer_michael 
+EdwardTufte	710148451888189440	2016-03-16T16:59:19	Three-dimensional sentences. Others? (Real not perspectival illusory.) 
+EdwardTufte	709911636228837380	2016-03-16T01:18:18	"American Airlines Doesn’t Care for Its Gogo Wi-Fi, Either"  What a great headline!
+EdwardTufte	709853997776158720	2016-03-15T21:29:16	Leads to successful interventions, not merely predictions.  
+EdwardTufte	709738372680589312	2016-03-15T13:49:49	Presenting Data and Information venue in Raleigh NC 4/1 has changed to Hilton North Raleigh/Midtown.
+EdwardTufte	709641565531185152	2016-03-15T07:25:08	This painting is from Klee’s “Magic Square” series, which was inspired by a visit to Tunisia  
+EdwardTufte	709441116362432513	2016-03-14T18:08:37	Prof. John Ioannidis, author of “Why most published research findings are false," on reproducibility in research: 
+EdwardTufte	709371265619005441	2016-03-14T13:31:03	JohnDee's annotations on display until July. earlymodern rarebooks marginaliaMonday  
+EdwardTufte	709470141805940737	2016-03-14T20:03:57	Should All Research Papers Be Free?  Certainly if funded by the Feds.
+EdwardTufte	709449679252156416	2016-03-14T18:42:39	"February breaks global temperature record by shock amount"  Have forecasting models underestimated global warming?
+EdwardTufte	708721503488122880	2016-03-12T18:29:08	Fabulous Robert Irwin installation DiaArtFndn 
+EdwardTufte	709132292455862272	2016-03-13T21:41:28	LittleData piecharts are for Putin and male models in SAS advertising. PowerPoint Tableau 
+EdwardTufte	709119684348612610	2016-03-13T20:51:22	Something to sing about: 'worst art restoration ever' inspires an opera &gt;&gt;  
+EdwardTufte	707924979141255168	2016-03-10T13:44:02	The red line is the size of SeaWorld's parking lot. The green line is where Orcas spend their entire lives 
+EdwardTufte	709108451381739520	2016-03-13T20:06:44	Graphical schedule,times/days+figurative map.Lots more:  visualization dataviz journalism 
+EdwardTufte	709107710751612929	2016-03-13T20:03:47	Timetable typography critique+redesign NHRR pocket schedule  ddj design Excel 
+EdwardTufte	709061290392752128	2016-03-13T16:59:20	A+ very thoughtful on color&lt;=&gt;quantities  Color for Data Visualization by Randal Olson  dataviz visualization ddj
+EdwardTufte	708815347659448321	2016-03-13T00:42:02	A+ Quartz guide to bad data github GIGO issues in real-world data  dataviz statistics datasicence ddj
+EdwardTufte	708812490038181888	2016-03-13T00:30:41	Trumpism Geography   Statistical inference problem: level of analysis = counties, but inferences about individuals
+EdwardTufte	708661025818734592	2016-03-12T14:28:49	C's Mike Zarren referenced 1st installation of SportVU cameras during 2010 playoffs. Wrote about that here:  SSAC16
+EdwardTufte	708804287003041792	2016-03-12T23:58:05	MeisterMoose could you tell the source for this? looks like a book.  thanx, et
+EdwardTufte	708799033784078336	2016-03-12T23:37:13	Alley art:  textures  design designthinking source, right image  
+EdwardTufte	708660827788853249	2016-03-12T14:28:02	Subway maps, London Underground + many many others:  dataviz visualization maps ddj 
+EdwardTufte	708598383443841024	2016-03-12T10:19:54	Connecticut rocks, more to come, geology professor visiting today to look at my stone artworks + sculpture farm 
+EdwardTufte	708582299395293185	2016-03-12T09:15:59	EdwardTufte A rather elegant flight schedule from 1937 (of course with much fewer connections back then) Design 
+EdwardTufte	704396757929758720	2016-02-29T20:04:08	AHA won’t hold conventions in cities without comprehensive smoke-free laws.  
+EdwardTufte	708590305180831745	2016-03-12T09:47:48	EHR now proprietary, here's a start toward what should have been open source, web-based. 
+EdwardTufte	708461815487922176	2016-03-12T01:17:14	Design bits from Germany, 1920.  
+EdwardTufte	708423660906881026	2016-03-11T22:45:37	Provenzano: Grit can be overvalued. It has been historically. SSAC16
+EdwardTufte	708407408448692225	2016-03-11T21:41:02	Use a sentence = says it exactly, instantly understandable. Avoid decoding, fooling around of LittleData graphics.  
+EdwardTufte	708400639529914369	2016-03-11T21:14:08	Whee, contour maps! Contour lines = 3D sparklines.  X Y at fixed levels of Z. dataviz visualizations ddj 
+EdwardTufte	708399577192333313	2016-03-11T21:09:55	Caught up in a pitch culture, few MBA HBS profs notable at datascience. Sociology more distinguished. 
+EdwardTufte	708387387152453636	2016-03-11T20:21:28	"BigData"?!   Inscrutable LittleData.  
+EdwardTufte	708383601914724356	2016-03-11T20:06:26	Cool Data-Analytical Ideas From This Year’s Sloan Conference  datascience statistics sportsanalytics analytics
+EdwardTufte	677127745009278976	2015-12-16T14:06:49	I've had this wonderful Sagan quote on my mind since last night's GOPDebate 
+EdwardTufte	708311287575482368	2016-03-11T15:19:05	For me, every movie ever. 
+EdwardTufte	707968710464688130	2016-03-10T16:37:48	Nice use of sparklines (popularized by EdwardTufte) in the PowerBI mobile demo at DataDriven 
+EdwardTufte	707710863487197184	2016-03-09T23:33:13	I attended this course 10 years ago - I loved it! Huge and appreciative audience. EdwardTufte brings art to data! 
+EdwardTufte	707930176450109441	2016-03-10T14:04:41	Finally saw Laura Poitras's exhibition at the whitneymuseum. It blew me away. 
+EdwardTufte	707663094814810113	2016-03-09T20:23:24	Don Knuth on why he dropped email in 1990, after 15 years. Knuth = cutting edge consumer, cutting edge unconsumer. 
+EdwardTufte	707661987287855104	2016-03-09T20:19:00	All are ~&lt;1/1000 deaths caused by cigarettes alone, guns alone, medical errors alone, cars alone. 
+EdwardTufte	707614193659158528	2016-03-09T17:09:05	Maya Lin, Women's Table at Yale University, and ET  Statistics EdwardTufte
+EdwardTufte	707643302657523712	2016-03-09T19:04:45	A+ images From Earth, air, and space, Wednesday's solar eclipse over the Pacific was a stunner  dataviz scicomm
+EdwardTufte	707638575353995264	2016-03-09T18:45:58	"[Sculpture] is my way of life, my balance, and my justification for being." HappyBday LeagueArtist David Smith! 
+EdwardTufte	707607693725306880	2016-03-09T16:43:15	I could totally just Retweet EdwardTufte and brainpicker all day and be content to read and see nothing else.  
+EdwardTufte	707607318448332803	2016-03-09T16:41:46	One-day course in Boston 
+EdwardTufte	707598335654432772	2016-03-09T16:06:04	Big portfolio of graphics by Megan Jaegerman at  ddj visualization sportsanalytics 
+EdwardTufte	707592624325005312	2016-03-09T15:43:22	Happy birthday to artist David Smith, born onthisday in 1906. Here is "Voltri VII," 1962.  
+EdwardTufte	707263803235418113	2016-03-08T17:56:45	A 1-day course by EdwardTufte on presenting data (years ago) shaped the way I communicate science and strategy. 
+EdwardTufte	707270861372444672	2016-03-08T18:24:48	Commencement addresses: theory and practice by ET, Nora Ephron, Ben Bernanke  speeches teaching presentations
+EdwardTufte	707083119720062977	2016-03-08T05:58:47	Edward Tufte essay: Corrupt Techniques in Evidence Presentations analytics metrics DataScience Statistics 
+EdwardTufte	707045767987331072	2016-03-08T03:30:22	A gift for anyone you truly love.  
+EdwardTufte	706987493229522948	2016-03-07T23:38:48	ET PATIENT: During this visit I learned more about  new EPIC interface  than about my heart CARDIOLOGIST: Me too EMR UXdesign cardiology
+EdwardTufte	706969342513119233	2016-03-07T22:26:40	Megan Jaegerman's brilliant news graphics big collection:  journalism visualization design 
+EdwardTufte	705125792376856576	2016-03-02T20:21:04	Physician should DEMAND improved EMR products LukeWebsterATL HIMSS16 
+EdwardTufte	706899054924591104	2016-03-07T17:47:22	Design architecture UXdesign reinforces desired analytical/cognitive style = designthinking 
+EdwardTufte	706694952785473541	2016-03-07T04:16:21	A+ Beethoven,String Quartet16 my friend musanim Stephen Malinowski animated musical score   dataviz visualization
+EdwardTufte	706673955487223808	2016-03-07T02:52:55	Velocity of music,of space between sounds.Learn anything from 2 chords Eroica? (Not just older conductors slower.) 
+EdwardTufte	706541379183194112	2016-03-06T18:06:06	Paul Klee's Notebooks Are Now Online. 3900 Pages of Bauhaus Teachings (1921-1931)  
+EdwardTufte	703923537292214272	2016-02-28T12:43:44	Standing an economic belief on its head. 
+EdwardTufte	705692516805419008	2016-03-04T09:53:01	Psychologists aren't getting that if results are SO sensitive to setup,they cannot be robust in real world &amp; trusted 
+EdwardTufte	706530603240431618	2016-03-06T17:23:17	"Mouse housing may ruin experiments"  Oops! Mouse studies≠rocket science, they're harder than rocket science scicomm
+EdwardTufte	706497044735762433	2016-03-06T15:09:56	Lists: theory+practice big,nearly definitive collection  … teaching learning dataviz ddj 
+EdwardTufte	705391419226234880	2016-03-03T13:56:34	"Chance determines our lives in important ways" (Gerhard Richter) ArtistQuotes  
+EdwardTufte	706295689110790144	2016-03-06T01:49:49	Archaeologists to launch crowdfunded search for Lindisfarne monastery: 
+EdwardTufte	706316500571971584	2016-03-06T03:12:31	Analytical reasoning: big collection of thoughts   metrics analytics thinking learning 
+EdwardTufte	706308943656652804	2016-03-06T02:42:29	1-day course PresentingData CharlotteNC Mar 29 Raleigh Apr 1  UNCC analytics statistics 
+EdwardTufte	706254061125935104	2016-03-05T23:04:24	Always worth another hearing. Poetry is really something when read aloud, especially when read aloud by the poet. 
+EdwardTufte	706221742323273730	2016-03-05T20:55:58	You need to let the little things  that would ordinarily bore you  suddenly thrill you.  Andy Warhol
+EdwardTufte	706212091112374272	2016-03-05T20:17:37	6 reasons to go to museums alone  Conversation burns up 70% of brain processing power,just attend to the precious art
+EdwardTufte	706196912668614656	2016-03-05T19:17:19	Docents: avoid residing in artwork field of view. It's not about looking at you, it's about the great art. museums 
+EdwardTufte	706192481029906432	2016-03-05T18:59:42	SlowMusic depth perception:  compare Twist and Shout,  Beatles  Mamas and Papas 
+EdwardTufte	706191400233209857	2016-03-05T18:55:24	Remarkable SlowMusic depth Bill Evans Peace Piece  like Glenn Gould 1981 Goldberg last aria 
+EdwardTufte	706184220939591684	2016-03-05T18:26:53	Become member, repays itself in a few visits (e.g. MOMA Picasso sculpture show A+ for mems, impossible for nonmems) 
+EdwardTufte	705846772883660800	2016-03-04T20:05:59	Kicking off Hour 2: What color was Van Gogh's "The Bedroom'? Francesca Casadio has the answer. Listen at  SciFriLive
+EdwardTufte	705755968030810112	2016-03-04T14:05:09	A+ Paul Klee's Notebooks digitized. 
+EdwardTufte	705750842599739392	2016-03-04T13:44:47	Accelerated idioventricular rhythm, likely parasystolic, in pt with hepatic encephalopathy, K 2.9 ECG cardiology 
+EdwardTufte	705689405420392448	2016-03-04T09:40:39	A+ 
+EdwardTufte	703527314559119364	2016-02-27T10:29:17	EdwardTufte  on the importance of doing something different or you're not doing anything at all 
+EdwardTufte	705550120809603072	2016-03-04T00:27:11	There is no such thing as a truly automated system, just unattended ones.
+EdwardTufte	705581649183031296	2016-03-04T02:32:28	This is very interesting and thought provoking: the shift of metaphor to diagrams with Cubism..... 
+EdwardTufte	705575477751238657	2016-03-04T02:07:57	A interesting perspective on impressionists and cubism design 
+EdwardTufte	705480690163257344	2016-03-03T19:51:18	How to read more. WorldBookDay 
+EdwardTufte	705494614392836098	2016-03-03T20:46:38	The Replication Paradox ⇒ human-science impossibility theorem.  Human science not rocket science, it is harder than rocket science.
+EdwardTufte	705399045167124480	2016-03-03T14:26:52	After catching fish with a net, they concluded there was a minimum size  to the fish in the sea. analytics metrics 
+EdwardTufte	705392922473140224	2016-03-03T14:02:32	Charles-Joseph Minard et les premières dataviz de l'histoire.   via  visionscarto 
+EdwardTufte	703953263285161984	2016-02-28T14:41:51	If you ever wondered what caustics look like at 30 million FPS, I wrote an article about it:  
+EdwardTufte	705221340157091840	2016-03-03T02:40:44	A+  Data Deluge Matt Reed's wonderful collection on seeing and thinking at an elegant level.  designthinking
+EdwardTufte	705216231742246912	2016-03-03T02:20:26	The Unreasonable Effectiveness of Mathematics by R.W. Hamming, deepthink follow-up to Wigner. math thinking 
+EdwardTufte	705205767897481216	2016-03-03T01:38:51	After sea fishing with a net and examining the catch, they concluded there was a minimum size to the fish in the sea.~Edington via Hamming
+EdwardTufte	705155681872015360	2016-03-02T22:19:50	Everyone spoke of an information overload, but what there was in fact was a non-information overload - R. Wurman quoted by EdwardTufte
+EdwardTufte	705128847407243265	2016-03-02T20:33:12	"BP measurements from mHealth app w/more than 148 000 units sold highly inaccurate.”  
+EdwardTufte	705023646788657153	2016-03-02T13:35:10	Here's a peek at the Met Breuer, with works by Picasso, Titian, Smithson, Turner, and more  
+EdwardTufte	705035142973231104	2016-03-02T14:20:51	Data display for prediction market website  &gt; &gt;  LittleData dashboards  dataviz analytics metrics 
+EdwardTufte	705025733077422080	2016-03-02T13:43:28	Bob Dylan’s Secret Archive 
+EdwardTufte	704884884163203072	2016-03-02T04:23:47	“O maravilhoso se torna familiar e o familiar maravilhoso” – EdwardTufte sobre visualizações de informação 
+EdwardTufte	704803154861400065	2016-03-01T22:59:01	The disappointment when the N-shaped slide turns out to produce a very slow descent (Alençon BM 635, 11th c). 
+EdwardTufte	704782958754979844	2016-03-01T21:38:46	Pre-registration of data analysis plan makes drugs stop working, haha. datascience statistics 
+EdwardTufte	704758218380189697	2016-03-01T20:00:27	Are diagrams a metaphor for Cubism?  Thinking Eye draft.   dataviz designthinking 
+EdwardTufte	704709034964885505	2016-03-01T16:45:01	.EdwardTufte on what design is and what it isn't. 
+EdwardTufte	704672523028471808	2016-03-01T14:19:56	MEDICAL PATIENT: During this visit,I learned more about EPIC's new interface than about my heart. CARDIOLOGIST: Me too. UXdesign EMR EHR
+EdwardTufte	704477605676896257	2016-03-01T01:25:24	Very nice web video as picture in picture, no frame! Steph Curry highlight reel. dataviz UXdesign ddj 
+EdwardTufte	704457124529754113	2016-03-01T00:04:01	Patents =  a spectacularly deformed confection of greed, lawyers, trolls, faux originality, the Courts, and the Feds 
+EdwardTufte	704395744879517697	2016-02-29T20:00:07	520-million-year-old fossilized nervoussystem is most detailed example yet found  Cambridge_Uni
+EdwardTufte	704396735452418049	2016-02-29T20:04:03	Good summary of research design principles. Not paywalled. statistics dataviz datascience 
+EdwardTufte	704140336902377472	2016-02-29T03:05:13	“Life is long and art is shorter.” —Philip Roth 
+EdwardTufte	702888690301841409	2016-02-25T16:11:37	The Languages of Google Translate.  
+EdwardTufte	704001041520586753	2016-02-28T17:51:42	The Hall of Fame is high and wide The waiting room is full And some go in through the door marked PUSH And some through the door marked PULL
+EdwardTufte	703862219558117376	2016-02-28T08:40:04	AntonAnnex Here's 2 dots for you. 
+EdwardTufte	703825256037756928	2016-02-28T06:13:12	.FernBri, how staccato should the 512th note in measure 17 be? 
+EdwardTufte	703739119831228416	2016-02-28T00:30:55	Using hrbrmstr new vegalite package to make raster plots - here plotting event actions over time 
+EdwardTufte	703719298670444544	2016-02-27T23:12:09	~First known statistical graphic,distribution of estimates!   dataviz datascience maps 
+EdwardTufte	703691503022055430	2016-02-27T21:21:42	Reading  Text Increases Your Risk of Crashing Tenfold  Also conversation burns up brainpower while looking at art
+EdwardTufte	703671203412574209	2016-02-27T20:01:03	Rainbows can be just red or completely white. Scientists are finally figuring out why.  
+EdwardTufte	703621643441213441	2016-02-27T16:44:07	A+ Pursuit of Happiness:Maira Kalman Illustrates Democracy  (Wrote about Maira Kalman illustration last week.)
+EdwardTufte	703594250664026112	2016-02-27T14:55:16	Presenting Data and Information from EdwardTufte -- Register now  data information 
+EdwardTufte	703256964642512896	2016-02-26T16:35:00	Wise dataviz words from the one &amp; only EdwardTufte 
+EdwardTufte	703254743917817858	2016-02-26T16:26:11	Great that he gets this  POTUS BarackObama PrecisionMedicine PWSYN 
+EdwardTufte	703071784812351488	2016-02-26T04:19:10	Classic Weather Chart: Online with 3,000 worldwide cities - The New York Times, includes dataviz design history 
+EdwardTufte	702963134772989952	2016-02-25T21:07:26	This beauty is now routine dataviz visualization ddj we've come a long way! 
+EdwardTufte	702875842129612801	2016-02-25T15:20:34	Top Ten ddj: Week’s Most Popular Data Journalism Links  via gijn dataviz
+EdwardTufte	702874760296984576	2016-02-25T15:16:16	Note embedded scale of measurement!  visualization ddj scicomm 
+EdwardTufte	702685240570019844	2016-02-25T02:43:11	A+ explantory presentation Linus Pauling,General Chemistry, diagram Roger Hayward storytelling teaching scicomm 
+EdwardTufte	702585118947459072	2016-02-24T20:05:20	Presenting Data and Information from EdwardTufte -- Register now  data information 
+EdwardTufte	702592409478287363	2016-02-24T20:34:18	Phillips Curve constellations for 31 countries, by EdwardTufte  
+EdwardTufte	702562517030150144	2016-02-24T18:35:31	ThomasSpeidel flowingdata kkrebeccalai  NYT first did it in 1978. 1981 NYT then in my VDQI 1983. My students programmed it ~1984.
+EdwardTufte	702558986164412416	2016-02-24T18:21:29	Feynman diagrams = probably best dataviz ever, turns messy math into visualization diagrams 
+EdwardTufte	702345323285504001	2016-02-24T04:12:28	Cubism in medieval French planning and zoning?  Cézanne 
+EdwardTufte	702334786124320768	2016-02-24T03:30:36	Stop action, small multiple, excellent text+image integration, unobtrusive frames. Better than most dashboards. 
+EdwardTufte	702330813120126976	2016-02-24T03:14:49	If your numbers are boring,get some interesting numbers. If you get some interesting numbers,you may learn something interesting analytics
+EdwardTufte	702165848895545346	2016-02-23T16:19:18	Want/need artificial intelligence for 1000 images? That'll be 60 cents AI  via kevin2kelly 
+EdwardTufte	702200252510695429	2016-02-23T18:36:01	4K cameras ~$1000 4K screens ~$700.  Apple 5K desktop ~$2000 4K projectors &gt;$20,000 Hardware revolution makes dataviz + bigdata  happen
+EdwardTufte	701992831091658752	2016-02-23T04:51:47	OMG 
+EdwardTufte	701989889018036224	2016-02-23T04:40:06	First known statistical graphic,distribution of estimates  dataviz statistics datascience 
+EdwardTufte	686928326053728256	2016-01-12T15:10:50	Poster, 1929. 
+EdwardTufte	694195534073053185	2016-02-01T16:28:07	Painted/carved proscenium, 0.5 Irving Street marionette theater, c. 1931–1937. Now on display Boston Public Library. 
+EdwardTufte	701952403227201536	2016-02-23T02:11:09	She's excellent, a great catch by Washington Post. And NYT has hired some WashPost graphics news reports. 
+EdwardTufte	701946147775057922	2016-02-23T01:46:17	Instead of usual grids spreadsheets+quilts, partition elements into blocks  designthinking 
+EdwardTufte	701939818742333440	2016-02-23T01:21:08	Linking lines should carry information.  No more know-nothing links.  Good examples  dataviz 
+EdwardTufte	701935629374984192	2016-02-23T01:04:30	In bird books, modern cameras replace artists painting pictures of dead birds. Good.  
+EdwardTufte	701915637753499648	2016-02-22T23:45:03	Use LaTex,and your report can look like this, LaTex widely used in math and science  dataviz 
+EdwardTufte	701912305706074112	2016-02-22T23:31:49	Henri Rousseau, a fantasy jungle 
+EdwardTufte	701900788319305728	2016-02-22T22:46:03	A+  A model of a policy review of RCT BigData statistics study; should be widely read for its cognitive style.  
+EdwardTufte	701893013266628609	2016-02-22T22:15:09	ET 1-day course,Presenting Data Boston April 25,26,27 Seaport  Cambridge HarvardBiz MIT 
+EdwardTufte	701546810662379520	2016-02-21T23:19:28	ET 1-day course Presenting Data Atlanta Mar28  CharlotteNC 29 Raleigh Apr 1  UNC Duke 
+EdwardTufte	701522383862108164	2016-02-21T21:42:24	Matrix = infinite series of Feynman diagrams = 4 infinite small multiples . . . ! designthinking design scicomm 
+EdwardTufte	701474003882479616	2016-02-21T18:30:09	To learn something new make image quilt,not word stack Image pile=deductive+inductive thinking learning teaching 
+EdwardTufte	701465387137892353	2016-02-21T17:55:55	Quilt of string theory diagrams "living in plane,not line" informal+precise  visualization 
+EdwardTufte	701453145319333888	2016-02-21T17:07:16	4 infinite series of diagrams in matrix! Confirmed empirically to 18 signifdigits = real science dataviz bigdata 
+EdwardTufte	701186416827617281	2016-02-20T23:27:23	Real 3D sentences, word⊥arrow. Elsewhere,word shape points. SF Palace typography = happy.  
+EdwardTufte	701056024279646213	2016-02-20T14:49:15	Churchill on brevity. Note the call for 'short crisp paragraphs' - not bulletpoints. Cc EdwardTufte 
+EdwardTufte	701046661150326784	2016-02-20T14:12:03	EdwardTufte Sparklines in today's WaPo 
+EdwardTufte	700861280056258560	2016-02-20T01:55:25	Camera Technique Captures New View Of Space And Time via SingularityHub 
+EdwardTufte	700819802827304960	2016-02-19T23:10:36	ET 1-day course Presenting Data Atlanta Mar28  CharlotteNC 29 RaleighApr 1  cdc Emory mmwr 
+EdwardTufte	700667432340316160	2016-02-19T13:05:08	This classic NYT weather chart is from 1979. Today, it publishes online for the first time.  
+EdwardTufte	700704179308724224	2016-02-19T15:31:09	A+ The classic NYT annual temperature report, now universalized! A major piece of work. dataviz visualization 
+EdwardTufte	700620470618447872	2016-02-19T09:58:31	Bizarre manual for dishwasher loading, bicker over silverware placement = the 51st way to leave your lover UXdesign 
+EdwardTufte	700523381964173312	2016-02-19T03:32:44	Graphical Sentences Moving in Video 3-space  designthinking visualization design 
+EdwardTufte	700422192794886145	2016-02-18T20:50:38	Adobe Illustrator. Often need content/design knowledgeable hand-tuning for publication quality graphics (e.g., NYT). 
+EdwardTufte	700414116909998080	2016-02-18T20:18:33	Time-series tracking in XY space Stephen Curry,Phillips Curve Other examples?   dataviz ddj 
+EdwardTufte	700383853999890432	2016-02-18T18:18:17	"Scientists floored by the Arctic right now"    Did climate models underestimate climate change? dataviz
+EdwardTufte	699015317637373953	2016-02-14T23:40:13	Use Matplotlib from Excel with xlwings  via DataScience dataviz
+EdwardTufte	700171050915647488	2016-02-18T04:12:41	When the children open the door, their minds expand. Source:  
+EdwardTufte	700126365740310529	2016-02-18T01:15:07	A+ A Brief Look at Texting and the Internet in Film, at Every Frame a Painting  typography ddj
+EdwardTufte	696962283184979968	2016-02-09T07:42:11	Look, the next page begins with these words! Very helpful man makes clear how catchwords work. HuntingtonHM1048 
+EdwardTufte	700108070714785792	2016-02-18T00:02:26	A+ Close to the future of statistics datascience graphics: maps moving in time:  
+EdwardTufte	700099498333220864	2016-02-17T23:28:22	Only if video is about frames Better typographic solutions in maps and motion typography at  
+EdwardTufte	700088611413303296	2016-02-17T22:45:06	Good typography locates itself.   Avoid boxes  frames design admin debris. dataviz  . 
+EdwardTufte	700030345614376960	2016-02-17T18:53:34	When they say "it's about the journey," you're being taken for a ride. Dilbert on jargon pitching writing teaching 
+EdwardTufte	700008481684729856	2016-02-17T17:26:42	Finished EdwardTufte's Visual Display of Quantitative Information last night and promptly ordered his other books. Beautiful book.
+EdwardTufte	700012592798965760	2016-02-17T17:43:02	Great lesson in on-screen typography  from EdwardTufte
+EdwardTufte	700017075285196800	2016-02-17T18:00:51	"Good typography locates itself." Word. 
+EdwardTufte	700026689363931136	2016-02-17T18:39:03	I love the post-double-bar date. I briefly think they wrote the whole piece in an afternoon and I'm filled with awe. 
+EdwardTufte	699827873717346304	2016-02-17T05:29:01	 RT EdwardTufte: 10th-century polyphonic music ms., multivariate time-series wipes out today's LittleData dashboar…
+EdwardTufte	699759911421476864	2016-02-17T00:58:58	There is an extraordinary ground up movement in science to use pre-prints to share ideas/advances early &amp; often. 
+EdwardTufte	699759279990034437	2016-02-17T00:56:27	Evidence that arXiv is filling a need is that people are using it! Amazing it started in ’91. Very simple and easy. 
+EdwardTufte	699708279530754048	2016-02-16T21:33:48	When humans are much better than computers  @PNAS_News seeing and processing images 
+EdwardTufte	699694470367993856	2016-02-16T20:38:56	New draft Thinking Eye: Graphical Sentences Moving in Video 3-space  dataviz visualization 
+EdwardTufte	698962653742370817	2016-02-14T20:10:57	They define "epoquetude"—(via rs_sparks):  
+EdwardTufte	699658360531058692	2016-02-16T18:15:26	10th-century polyphonic music ms., multivariate time-series wipes out today's LittleData dashboards analytics ! 
+EdwardTufte	699653258206429184	2016-02-16T17:55:10	TufteInR updated with ggplot2 sparklines and... stem-and-leaf displays! ;-)  rstats DataScience EdwardTufte
+EdwardTufte	699653979437977600	2016-02-16T17:58:02	Tenth century polyphonic chant. Small multiple,multivariate time series, high autocorrelation. dataviz datascience 
+EdwardTufte	699468023061749761	2016-02-16T05:39:06	Love to learn about forensic thinking.  
+EdwardTufte	699456759711338496	2016-02-16T04:54:21	Can Kindly Follower identify typeface in Cleveland Clinic empathy video? Why so tight? Video convention? typography 
+EdwardTufte	699402557706219521	2016-02-16T01:18:58	Surprise medical bills should not be allowed - period. 
+EdwardTufte	695002055929389056	2016-02-03T21:52:57	Exercise can reduce the risk of dying from heart disease by as much as 40-50%. It’s worth making time for! LoveYourHeart
+EdwardTufte	699322948860174336	2016-02-15T20:02:38	A Minard figurative map 
+EdwardTufte	699058594503856129	2016-02-15T02:32:11	EdwardTufte pointed out that Jeff Bezos has banned PowerPoint presentations at Amazon.  I have all 4 of his books. 
+EdwardTufte	698971404671160320	2016-02-14T20:45:43	EdwardTufte don't waste ink for non-information infographic DataVisualization ux 
+EdwardTufte	698952246655062016	2016-02-14T19:29:36	.EdwardTufte is coming to Raleigh to teach his one-day course on presenting data, April 1. Half-off for students! 
+EdwardTufte	698934591336411137	2016-02-14T18:19:26	Reading about linguist Zellig Harris, came upon 2 rhetorical ploys = fun, intriguing, eloquent, and perhaps wrong 
+EdwardTufte	698548599257485313	2016-02-13T16:45:39	RT jbennionlaw "Fantastic seminar on info graphics with EdwardTufte" 
+EdwardTufte	698323079739654144	2016-02-13T01:49:31	Can you make a love heart with LaTeX? Of course you can! :)  cc TeXtip EdwardTufte 
+EdwardTufte	698302365032513536	2016-02-13T00:27:12	Note the "or less."  
+EdwardTufte	698265746669969409	2016-02-12T22:01:41	chrisfilson elucidates EdwardTufte paradigms for design &amp; reporting of scholarship emory_urology Research retreat 
+EdwardTufte	698149537886642177	2016-02-12T14:19:55	On the value of sketching to understand what is in the numbers:  medium giorgialupi 
+EdwardTufte	698189477047472128	2016-02-12T16:58:37	A+       On the amazing and wonderful Maira Kalman   AIGA | 2016 AIGA Medalist designthinking visualization art
+EdwardTufte	697842052394975232	2016-02-11T17:58:05	Congratulations ligo !!!! Today is a great day to be a human being, and a great day to appreciate spacetime. 
+EdwardTufte	698121856092545028	2016-02-12T12:29:55	A+  "Gravitational Waves Detected, Confirming Einstein’s Theory"   great big NYT report dataviz scicomm
+EdwardTufte	698041702079025152	2016-02-12T07:11:25	"Provide intellectual leadership about content" EdwardTufte DataVisualization 
+EdwardTufte	698118251264372736	2016-02-12T12:15:36	Ghost-grid graph paper, same paper used in books, in cm or in 1/4" grids, in 8.5 x 11 or 11 x 17 pads 
+EdwardTufte	697792145655255041	2016-02-11T14:39:46	.EdwardTufte is one of my new academic role models. "Beautiful Evidence" is an essential read for any scientist, educator, or communicator.
+EdwardTufte	697455436140679168	2016-02-10T16:21:48	Richard P. Von Herzen, Explorer of Earth’s Undersea Furnaces, Dies at 85  
+EdwardTufte	697368190578462721	2016-02-10T10:35:07	When one halo is not enough, Arroyo Beatus, Castile 13th century (BnF, NAL 2290, fol. 152r) GallicaBnF 
+EdwardTufte	697367070980222976	2016-02-10T10:30:40	Small aurora shows how thin our atmosphere is. Principia timelapse 
+EdwardTufte	697548422677573632	2016-02-10T22:31:18	A memorable day with MagnoliaSchools friends and EdwardTufte.  Content matters over design 
+EdwardTufte	693080560445554688	2016-01-29T14:37:37	An early example (15th c.) of a paper analog computer, used to find the position of the sun and moon in the zodiac. 
+EdwardTufte	694930288942661632	2016-02-03T17:07:46	Finding the unknown height of a tower perched on a mountainside, by Galileo's student Renieri. BNCF Ms Gal 114, 45v. 
+EdwardTufte	694332172140830720	2016-02-02T01:31:04	Attn USCPrice Capstone spend a day @ dataviz "EdwardTufte: Tufte Course next week in San Diego and Los Angeles ”
+EdwardTufte	694177582351151104	2016-02-01T15:16:47	Tufte Course next week in San Diego and Los Angeles 
+EdwardTufte	693953704282574849	2016-02-01T00:27:10	there's more than 500,000 items in space and we have to track the orbits of every single piece!! 
+EdwardTufte	693945572261269509	2016-01-31T23:54:51	gaolaitch Love "brash" to characterize ligatures.
+EdwardTufte	693942756079722496	2016-01-31T23:43:40	What is typeface? Opinions? Has usual capital numbers problem. Ligatures overly attention-attracting? typography 
+EdwardTufte	693936452569305094	2016-01-31T23:18:37	Google should do something about corrupt search engine optimizing of mischief, scams, personal attacks. 
+EdwardTufte	693930789113872384	2016-01-31T22:56:07	A+ "Richard Feynman,The Best Teacher I Never Had" by Bill Gates  teaching learning
+EdwardTufte	693927446916235264	2016-01-31T22:42:50	Intense data, sparklines from real science,InSNP package. Avoid LittleData graphics  dataviz 
+EdwardTufte	693808984088772608	2016-01-31T14:52:06	"The best way to forget ones self is to look at the world with attention and love." Red Auerbach
+EdwardTufte	693621648436641792	2016-01-31T02:27:42	"It’s 2015: Why Haven't Our Medical Records Entered The Digital Age?" by Anna Maria Barry-Jester  EMR EHR Epic
+EdwardTufte	693604928913330178	2016-01-31T01:21:16	superb look and almost feel of real thing. Jay Kadane and I visited after my CMU lectures a few years ago 
+EdwardTufte	693573916762181633	2016-01-30T23:18:02	A+ On Willie Mays, Mickey Mantle.  Not just for those of a certain age.  writing grace 
+EdwardTufte	693497933027631104	2016-01-30T18:16:06	Download Original Bauhaus Books &amp; Journals for Free: Gropius, Klee, Kandinsky &amp; More  
+EdwardTufte	693541406967734272	2016-01-30T21:08:51	A+ Prehistoric Art:Rock Paintings from Frobenius Collection  art designthinking sculpture 
+EdwardTufte	693536545165479936	2016-01-30T20:49:32	More: Eliminate vertical whites entirely. Horizontal whites can be much thinner, still there. Your work is good. et 
+EdwardTufte	693535202975596545	2016-01-30T20:44:12	Larger images,same space,make white frames very very thin.Usually images can abut. Show data, not frames. cheers, et 
+EdwardTufte	693392095202185216	2016-01-30T11:15:32	The nytimes has already published the best graphic of 2016  by ctrlzee via FastCoDesign /
+EdwardTufte	693173471824723969	2016-01-29T20:46:48	Long, intense, helpful interview, John McPhee on factual writing, Paris Review: The Art of Nonfiction  teaching
+EdwardTufte	693074825594691584	2016-01-29T14:14:49	Rocking motion in video really helps 3D perspective illusion of the planets. Motion is as one with 3D. dataviz 
+EdwardTufte	692852251652587520	2016-01-28T23:30:24	A+ Dr.Reuben Strayer emupdates on severe epidemic of opioids,what ED can do. (And nearly all should avoid opioids!) 
+EdwardTufte	692825650655301632	2016-01-28T21:44:41	Ancient Babylonians appear to have measured motion against time centuries before Europeans  
+EdwardTufte	692825745366843392	2016-01-28T21:45:04	Our cover story: how Babylonians tracked Jupiter with geometry 1400 years ahead of its time  
+EdwardTufte	692790354790240256	2016-01-28T19:24:26	.EdwardTufte Particle physics eye chart 
+EdwardTufte	692774227531960320	2016-01-28T18:20:21	Amanda Cox on using R at NYT:  Amanda Cox on Working With R, NYT Projects:  ddj analytics
+EdwardTufte	692769489092476928	2016-01-28T18:01:31	A+  Eyecharts from around the world  (There are surely many others)  dataviz typography 
+EdwardTufte	692738847894016000	2016-01-28T15:59:46	Good typography locates itself.  Avoid boxes frames buttons pointers grids cartoon bubbles and design admin debris. uxdesign typography
+EdwardTufte	692734668588851200	2016-01-28T15:43:10	A+ Joan Didion, "The Art of Nonfiction," Paris Review interview   designthinking writing teaching
+EdwardTufte	692730759304585216	2016-01-28T15:27:37	South Pole Telescope = amazing scientific instrument. The new camera has 16,000 detectors:  
+EdwardTufte	692728985462161408	2016-01-28T15:20:35	A+ analytics Clever tracing Steph Curry career path compared to others  visualization ddj 
+EdwardTufte	692725008368562176	2016-01-28T15:04:46	ET 1-day course  Presenting Data  SanDiego Feb 8, LA Feb 10,11  Scripps UCSD Caltech UCLA 
+EdwardTufte	692715022879952896	2016-01-28T14:25:06	ET exhibit Feynman diagrams, Art Center College of Design, Pasadena CA,Oct → January scicomm  (SB: FeynVan→ACCD?) 
+EdwardTufte	692271726080741377	2016-01-27T09:03:35	Where hate leads History_Pics: Wedding rings of Holocaust victims, near the Buchenwald concentration camp, 1945 
+EdwardTufte	692440201134804992	2016-01-27T20:13:03	"THIS APPLICATION IS BUSY OR MISSING"  If it's busy, what's it doing?  If it's missing, where is it? designthinking 
+EdwardTufte	692437020753403904	2016-01-27T20:00:25	Philosophical Diamond Signs some metal, some paintings  LAArtshow sculpture LosAngeles 
+EdwardTufte	692425933882576898	2016-01-27T19:16:21	ET exhibit Feynman diagrams Art Center College of Design Pasadena, CA Oct → January LAArtshow sculpture 
+EdwardTufte	582361130225414144	2015-03-30T01:58:07	Some textbooks have adopted the Richard Feynman/EdwardTufte layout (available for LaTeX as 'tufte' package) fb 
+EdwardTufte	692412165907730432	2016-01-27T18:21:39	What Happened to Jane Mayer When She Wrote About the Koch Brothers -  
+EdwardTufte	692346741824327680	2016-01-27T14:01:41	A good start, but many major museums, libraries, and archives now release hi-res images, and more directly. 
+EdwardTufte	692344092588642305	2016-01-27T13:51:09	Interesting way to clear out old library via amazon. 
+EdwardTufte	692311996868464640	2016-01-27T11:43:37	Screening in asymptomatic patients rarely reduces mortality?!  statistics scicomm analytics
+EdwardTufte	692130356875694080	2016-01-26T23:41:50	HEART 411 = superb guidebook  to heart health by 2 world-class doctors  Marc Gillinov AskDrMarc + Steven Nissen at ClevelandClinic
+EdwardTufte	692032594070863872	2016-01-26T17:13:22	Inge Druckrey: Teaching to See  edwardtufte drawing typography design
+EdwardTufte	691759923324174336	2016-01-25T23:09:52	Good typography locates itself.  Don't need boxes, frames,  pointers, grids, cartoon bubbles, other design  admin debris. visualization
+EdwardTufte	691727515304529921	2016-01-25T21:01:05	Instead of big red squares, show exact country borders with very thin red line.Data contasts are striking at borders 
+EdwardTufte	690619896590438400	2016-01-22T19:39:49	Translation to plain English of selected portions of Longo and Drazen's editorial on data sharing  researchparasites
+EdwardTufte	691222552270749696	2016-01-24T11:34:33	Deep design is clear thinking made visible. ET, Visual Explanations, p.53  designthinking 
+EdwardTufte	691007432164806656	2016-01-23T21:19:44	Sweet, very sweet, visualized Earth is amazing sometimes. dataviz visualization ddj 
+EdwardTufte	690998711850291201	2016-01-23T20:45:05	Make sure furnace vents like this one don't get blocked by snow. Clogged vents can cause carbon monoxide  poisoning. 
+EdwardTufte	691004143658467328	2016-01-23T21:06:40	SnowDay word problem: If Connecticut=110 miles across,what is area of the Atlantic Arrow, including black border? 
+EdwardTufte	690969203306795008	2016-01-23T18:47:50	"But I treasure a remark John Cage made, that not judgingness but openness and curiosity are our proper business." John Updike teaching
+EdwardTufte	690957459129831425	2016-01-23T18:01:10	"Indeed, a deeply therapeutic privileging of the Tschichold Black/Red Theory"  
+EdwardTufte	690937588631339009	2016-01-23T16:42:12	Can someone please identify typeface inside arrows? Map published by Feds ⇒ PPT/Windows thingee. typography 
+EdwardTufte	690933939620429824	2016-01-23T16:27:42	Sparklines as typography + dataviz Heller+Vienne, "100 ideas that changed design"   
+EdwardTufte	690928699143749633	2016-01-23T16:06:53	pauliniguez  "Have you thought about a job in insurance sales?"
+EdwardTufte	690925741240930304	2016-01-23T15:55:08	🌨🐼🌨🌨Just like the excellent method for cleaning persian/oriental rugs: dragging thru fresh snow(currently available) 
+EdwardTufte	690920293691449344	2016-01-23T15:33:29	As Bill Gates and Steve Jobs would have said "Your arrow is the dumbest effing arrow I've ever seen." 
+EdwardTufte	690917995745562627	2016-01-23T15:24:21	As a diplomatic design teacher says about dreadful student work: "Interesting, very interesting arrows." 
+EdwardTufte	690914540767350784	2016-01-23T15:10:37	Variability in local snow depth, and likely that there is the usual observer variability. 
+EdwardTufte	690914020837179393	2016-01-23T15:08:33	Pretty good table, shows sources, the people who actually made the snow measurements. 
+EdwardTufte	690909746610753536	2016-01-23T14:51:34	Playful, intriguing, over-the-top:  Imaginary Cities Oniropolis teaching designthinking 
+EdwardTufte	686499930714812416	2016-01-11T10:48:32	The New York Public Library just uploaded nearly 200,000 images you can use for free  
+EdwardTufte	690570585953439744	2016-01-22T16:23:52	Edward Tufte — resource to best practices for mapping. He's on the cusp statistician/artist.  gcdrb
+EdwardTufte	690171019282255873	2016-01-21T13:56:08	Preparing an intro to DigitalHumanities. Not sure what that is, but I know I'll be starting with EdwardTufte. 
+EdwardTufte	689965047779581954	2016-01-21T00:17:40	ET Presenting Data/Info SanDiego Feb 8, LosAngeles 10,11  UCLA LACMA Caltech Scripps 
+EdwardTufte	689942881809907712	2016-01-20T22:49:36	A+  Picasso MOMA until Feb 7 To see sculpture, you have to be there live. Huge crowds, go mornings, member hours. 
+EdwardTufte	689517077602787328	2016-01-19T18:37:36	Deaths from drug overdoses have surged, driven by prescription painkillers and heroin.  
+EdwardTufte	689495081510825984	2016-01-19T17:10:12	"If statistics are boring, you've got the wrong numbers." - EdwardTufte data datadriven 
+EdwardTufte	689432147644416000	2016-01-19T13:00:07	ET, Museum Theatre, steel, ~1.2m width sculpture 
+EdwardTufte	689414626354724864	2016-01-19T11:50:30	“The large print giveth and the small print taketh away.” Tom Waits
+EdwardTufte	689226185881026560	2016-01-18T23:21:42	Sparklines as typography Steven Heller + Véronique Vienne, 100 ideas that changed design  
+EdwardTufte	689221855484506112	2016-01-18T23:04:30	Harms &gt; &gt; benefits for PSA screening Harms &gt; benefits for mammograms Only certain benefit: summer homes for surgeons 
+EdwardTufte	689220520064237568	2016-01-18T22:59:11	Really crafty page design: quite an accomplishment to get this right (BL Harley1524, 13th c). 
+EdwardTufte	688893853567438849	2016-01-18T01:21:08	A+ Picasso sculpture at MOMA until Feb 7. To see sculpture you must be there. (Huge crowds,go MOMA member hours) 
+EdwardTufte	688889628410130432	2016-01-18T01:04:21	Most powerful art exhibits I've seen Picasso sculpture MOMA until Feb 7, 2016 David Smith,Guggenheim 1969 ,2006 Monet haystacks, LA?, &lt;1960
+EdwardTufte	688885407283548160	2016-01-18T00:47:34	If your numbers are boring, get some interesting numbers. Interest/boredom = inherent content properties. Chartoons cannot rescue bores.
+EdwardTufte	688883775367950337	2016-01-18T00:41:05	If your images aren't on point, making them 3D dataviz dance won't turn the irrelevant into the relevant. teaching
+EdwardTufte	688883153310736384	2016-01-18T00:38:37	If your words aren't are truthful, the finest optically letter-spaced typography won't turn lies into truths. teaching
+EdwardTufte	688879113935937537	2016-01-18T00:22:34	Stainless steel piece 2011, ~1 m wide. Stainless intensely responsive to changes in light. sculpture metalworking 
+EdwardTufte	688543500443475969	2016-01-17T02:08:57	Incredible tale of irresponsible chocolate milk research at the University of Maryland   Food science = pseudoscience
+EdwardTufte	688518960828956672	2016-01-17T00:31:26	My column notes that guns kill 1,000 times as many Americans as terrorism. Let's roll:  
+EdwardTufte	688140850241482756	2016-01-15T23:28:58	Hard to understand-in Canada it is hospitals execs, the odd Director of Educ or City CAO. What about your country? 
+EdwardTufte	688457890261286912	2016-01-16T20:28:46	How to Use Snapchat: WSJ's pretty good technical manual for confusing (for those &gt; 25 years) social network. 
+EdwardTufte	688444993107816448	2016-01-16T19:37:31	Excellent dataviz from FiveThirtyEight clever tracing of Steph Curry career compared to others analytics metrics 
+EdwardTufte	688372442784509953	2016-01-16T14:49:14	A+ London tube experiments with stopping people walking up escalators  Excellent dataviz and designthinking ddj
+EdwardTufte	688276839786090498	2016-01-16T08:29:20	.mjg59 Dymaxion Now *THIS* is The NewYorker on late-stage capitalism: 
+EdwardTufte	688093210430799872	2016-01-15T20:19:40	I'm in favor of not paying college athletes so long as coaches are paid the median salary for an assistant professor of kinesiology.
+EdwardTufte	687658279724576769	2016-01-14T15:31:24	For those who need it, I present what may be the greatest dog vine ever. 
+EdwardTufte	687339537127837696	2016-01-13T18:24:50	DidYouKnow that we've got some of JohnDee's lost library in our Winthrop Collection?  
+EdwardTufte	687765976306286594	2016-01-14T22:39:21	271 Years Before Pantone, an Artist Mixed and Described Every Color Imaginable in an 800-Page Book  via colossal
+EdwardTufte	687733290028122113	2016-01-14T20:29:28	This docfilm is exquisite. Watch. You'll see. 
+EdwardTufte	687721103423352832	2016-01-14T19:41:02	"Inge Druckrey: Teaching to See" famous design professor, docfilm by ET+AndreiSeverny  
+EdwardTufte	686640176739684352	2016-01-11T20:05:49	Wilson et al. Last millennium northern hemisphere summer temperatures from tree rings (I)  
+EdwardTufte	687380093065400324	2016-01-13T21:05:59	Bizarre p-values including 1/10000000000000000000000000000000000000000000000000. No quantitative sense. analytics 
+EdwardTufte	687328360368832512	2016-01-13T17:40:25	Mao statue down, zoning violation? 30m max height for Dear Leader sculpture in peasant farm historical district.  
+EdwardTufte	687323295792951297	2016-01-13T17:20:18	"People cannot count,  at least not very high." Fred Mosteller + Dave Wallace Inference and Disputed Authorship statistics metrics
+EdwardTufte	687133194877980673	2016-01-13T04:44:54	How true: "The strongest known force in the universe is the ability of the human mind to deceive itself." 
+EdwardTufte	687070568907157504	2016-01-13T00:36:03	The information is the interface EdwardTufte. Awesome set of books! 
+EdwardTufte	687070987972644865	2016-01-13T00:37:43	Greek type living in harmony with its neighbors in Nicolas Jenson’s 1475 Diomedes—NewberryLibrary, folio Inc. 4118. 
+EdwardTufte	687070571964829698	2016-01-13T00:36:04	Beautiful photos take you on a tour of rooftop gardens around the world  
+EdwardTufte	687027329210695680	2016-01-12T21:44:14	Slow day at the studio ⇒ artist+model painting becomes convenient. art design designthinking 
+EdwardTufte	687022821806051328	2016-01-12T21:26:19	X-ing-out: wordless IKEA instruction manual (black only). ET books use red X's. UXDesign teaching learning 
+EdwardTufte	687016220562960384	2016-01-12T21:00:05	Intense sparkline graphics from real science: InSNP package  visualization statistics 
+EdwardTufte	686588713325826051	2016-01-11T16:41:20	"The platform of today is not the operating system. It is data." data antitrust competition 
+EdwardTufte	686314754164568065	2016-01-10T22:32:43	A+ A reminder of the wonderful Donald Evans' ~40 faux countries and their postage stamps.  
+EdwardTufte	686310046796529664	2016-01-10T22:14:00	A delight,eerie,beautifully written. Also measurement scales (time, distance) presented as 2D graphical sentences! 
+EdwardTufte	686296460044849153	2016-01-10T21:20:01	What diet advice looks like when health officials aren't terrified of food lobbyists:  
+EdwardTufte	686273549741469696	2016-01-10T19:48:59	3D illusions, strong effects of animation shadows, cool demo by Malin Christersson malincse  designthinking ddj
+EdwardTufte	658813841246167040	2015-10-27T01:13:54	gif -&gt; mp4: 2MB -&gt; 500KB 
+EdwardTufte	686226004042473472	2016-01-10T16:40:03	“For superforecasters,beliefs are hypotheses to be tested,not treasures to be guarded” On Tetlock+Gardner:  teaching
+EdwardTufte	686223268999761920	2016-01-10T16:29:11	Will Texas Textbook Commission teach the controversy?  
+EdwardTufte	686198408885870592	2016-01-10T14:50:24	The stethoscope's 200th birthday should also be its funeral 
+EdwardTufte	665922133554544642	2015-11-15T15:59:43	Striking 1896 newspaper infographic on new bike trend HT lienhart85 Full view:  history 
+EdwardTufte	686064805581557764	2016-01-10T05:59:30	Inge Druckrey:Teaching to See docfilm ET + AndreiSeverny now &gt;300,000 plays vimeo+youtube  design designthinking
+EdwardTufte	655820193399185408	2015-10-18T18:58:13	Blown away every time I see Inge Druckrey's timeless Teaching to See  design mentors
+EdwardTufte	685884302719102977	2016-01-09T18:02:15	Note gentle 3D effects by panning. 6K Maps Moving in Time = future of statistical graphics.  
+EdwardTufte	685833462121644032	2016-01-09T14:40:14	Zoning violation, 30 meters maximum allowable height for Dear Leader sculpture in peasant farm historical district  
+EdwardTufte	685637303537029120	2016-01-09T01:40:46	Whoa good for the WaPo to allow the singular they.  
+EdwardTufte	685633319392915456	2016-01-09T01:24:56	It is easy to lie with statistics,  but easier to lie without them. Fred Mosteller, Harvard  metrics learning analytics teaching
+EdwardTufte	685517376729800704	2016-01-08T17:44:13	What's up with more whitespace in Web UX dev? Read EdwardTufte. Is there a competition to have the fattest, blankest rows of data possible?
+EdwardTufte	685517246849003522	2016-01-08T17:43:42	MairaKalman or Matisse? 
+EdwardTufte	667430391687602179	2015-11-19T19:53:00	Why you can't take photos of propellers  
+EdwardTufte	685192813236088832	2016-01-07T20:14:31	D3 Exploding box plot (aka imploding scatterplot)  Via NadiehBremer 
+EdwardTufte	669490082022367232	2015-11-25T12:17:28	I always love it when code is formatted in the shape of the problem it's solving. Here, literally, tetris blocks: 
+EdwardTufte	685218372385161216	2016-01-07T21:56:05	If you haven't been to one of Tufte's courses, it will change the way you think about communicating with data. 
+EdwardTufte	685179470442053632	2016-01-07T19:21:30	Pretty cool timelapse of St. John's Coral Bay  from NYT world travel listicle 
+EdwardTufte	685165068502351872	2016-01-07T18:24:16	New US food guidelines ambiguous, intellectually corrupt, serve the food industry,not health of citizens ? teaching
+EdwardTufte	685016093308665857	2016-01-07T08:32:18	Recurrent Net Dreams Up Fake Chinese Characters in Vector Format with TensorFlow  typography
+EdwardTufte	684718585202237440	2016-01-06T12:50:06	A+ New York Public Library Invites a Deep Digital Dive  teaching designthinking dataviz
+EdwardTufte	684464640978366464	2016-01-05T20:01:01	Remarks on fine tuning cosmological models. True for cosmology? True more generally?    
+EdwardTufte	684431702622625792	2016-01-05T17:50:08	ET Presenting Data/Info SanDiego Feb 8  LosAngeles 10,11  UCLAHealth LACMA SiliconBeach 
+EdwardTufte	684431248522113025	2016-01-05T17:48:20	ET book pages layouts, in CSS and in LaTex, both open source of course. 
+EdwardTufte	684423494084485120	2016-01-05T17:17:31	ET Presenting Data 1-day course SanDiego Feb 8  Los Angeles 10,11  scripps ucsd caltech 
+EdwardTufte	684233107004878848	2016-01-05T04:40:59	afwaller earbender yes, wasn't quite right for art, became signpost, first used at Fermilab show
+EdwardTufte	684138983689957376	2016-01-04T22:26:59	"University President on Why No Football"   Football = non-meritorious admissions, denies space to smart students
+EdwardTufte	684136065062580224	2016-01-04T22:15:23	Medical journalists should report recent meta-analyses,not standard "A recent crappy little study of mice found . ." 
+EdwardTufte	683807742809653248	2016-01-04T00:30:45	LucyAppa archpics EdwardTufte Positano is so picturesque and photogenic without having someone color enhance it! 
+EdwardTufte	683754239877869570	2016-01-03T20:58:08	Positano, Amalfi Coast, Italy 
+EdwardTufte	683716149880700928	2016-01-03T18:26:47	Wandering wondering sentences. 
+EdwardTufte	683581028326371328	2016-01-03T09:29:52	VisiCalc on Apple II = first computer spreadsheet: "Why a simple spreadsheet spread like wildfire"  Excel
+EdwardTufte	683459901553774592	2016-01-03T01:28:33	A+ Deadspin goes classy, great story "Behind The Photos That Changed Boston Marathon Forever" (and women's sports) 
+EdwardTufte	683456743280635904	2016-01-03T01:16:00	Image Quilt from  China People's Daily, very serious content. design = frameless all images abut dataviz ddj 
+EdwardTufte	655460499253952512	2015-10-17T19:08:55	Kid-friendly font delivers a charged warning EdwardTufte art ranch 
+EdwardTufte	683446047843192834	2016-01-03T00:33:30	Thinking + design, via Feynman + Galileo. ET Visual Explanations, p.53  analytics design 
+EdwardTufte	683443674466938880	2016-01-03T00:24:04	It is easy to lie with statistics,  but easier to lie without them. Fred Mosteller, Harvard Statistics dataviz datascience teaching
+EdwardTufte	682164039687008256	2015-12-30T11:39:15	Windmills in the air. Flying into Copenhagen. My top 2015 travel pictures.  
+EdwardTufte	683326333456388097	2016-01-02T16:37:48	5 books,15 languages.Avoiding translations notably or awkwardly gendered/ungendered, machine translation has issues  
+EdwardTufte	683292330565095424	2016-01-02T14:22:41	Tempting set of books! Visual Display of Quantitative Information is in the canon of the greats. dataviz 
+EdwardTufte	683124765758992384	2016-01-02T03:16:50	John von Neumann, on model fitting, specification error. statistics econometrics dataviz 
+EdwardTufte	681959940806721536	2015-12-29T22:08:14	RT EdwardTufte: Real 3D signage in the real world. one last image in San Francisco. visualthinking designthinking 
+EdwardTufte	665226460878217216	2015-11-13T17:55:22	"If I could remember the names of all these particles, I'd be a botanist."  -- Enrico Fermi  s/particles/software frameworks/

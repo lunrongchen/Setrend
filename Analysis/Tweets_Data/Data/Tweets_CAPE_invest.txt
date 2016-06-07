@@ -1,0 +1,60 @@
+CAPE_invest	723435453181874176	2016-04-22T08:57:07	PDF: Combining Value and Momentum [GersteinFisher] 
+CAPE_invest	722818874677137408	2016-04-20T16:07:03	HML US-Value premium since 1926: Comeback overdue? Details in corresponding slideshow  
+CAPE_invest	722813727624462336	2016-04-20T15:46:36	What long-term returns can investors expect? Details in corresponding slideshow  
+CAPE_invest	719963424634114049	2016-04-12T19:00:31	Volatility is a value factor 
+CAPE_invest	720664749004951553	2016-04-14T17:27:20	Why Luck Matters—Much More Than You Think 
+CAPE_invest	720760348257726464	2016-04-14T23:47:12	Cliff Asness on factor timing.    
+CAPE_invest	720633789735649280	2016-04-14T15:24:18	Global Stock Market Valuation Update as of 03/31/2016  
+CAPE_invest	714445401726685184	2016-03-28T13:33:52	How smart is smart beta? Latest Long View: 
+CAPE_invest	712712665563529216	2016-03-23T18:48:35	"Combining value and momentum helps manage long stretches of underperformance."  Great post, via jvogs02 
+CAPE_invest	709723611410472960	2016-03-15T12:51:09	Heat map showing flows into all major fund classes (including ETFs) as % of net asset value 
+CAPE_invest	709191475368603648	2016-03-14T01:36:38	ETF picking is the new stock picking. Chasing star fund managers will be replaced w/chasing the hottest risk factors 
+CAPE_invest	708372180371947521	2016-03-11T19:21:03	Why have US equity returns been so strong for the past century+? Good one from lhamtil  
+CAPE_invest	707755827449364481	2016-03-10T02:31:53	How to Invest $50,000: 
+CAPE_invest	707652069767954432	2016-03-09T19:39:35	uh, what's that thing about how active managers do better in "less efficient" markets? 
+CAPE_invest	707627889181593600	2016-03-09T18:03:30	NEW POST: Stock Buybacks Demystified -  
+CAPE_invest	707395227535802368	2016-03-09T02:38:59	Russell 2000 (US Small Caps) CAPE has come down from the lofty highs of ~63x last year to a "cheap" ~51x 
+CAPE_invest	707453073585803264	2016-03-09T06:28:51	Shiller CAPE – Is The Market Overvalued Or Are The Measuring Gauges Broken?  valuewalk 
+CAPE_invest	707258383750012928	2016-03-08T17:35:13	Valuation based S&amp;P 500 LT potential (3/3)   More Market Forecasts  
+CAPE_invest	707258065893105664	2016-03-08T17:33:57	Country Valuation predicts Downside Risks 1979-2015 (2/3)   SSRN  
+CAPE_invest	707257794500673541	2016-03-08T17:32:53	Country Valuation predicts LongTerm Performance 1979-2015 (1/3)   Src  
+CAPE_invest	703422091610234880	2016-02-27T03:31:10	Study: "Unlike x-sectional mo, time-series momentum performs well following both up- and down-markets &amp; crashes." 
+CAPE_invest	706157965594796033	2016-03-05T16:42:33	a conversation on economic rationality with RobertJShiller 
+CAPE_invest	705189131131858944	2016-03-03T00:32:45	Take 30 yrs of nominal stock gains, divide it by a number which only oscillates btw 40 and 60, use a linear scale 
+CAPE_invest	704677842806657024	2016-03-01T14:41:04	Lost Decade watch. European EPS down over last 10 yrs (h/t SG) as are world stocks ex-US. 
+CAPE_invest	702927184155901952	2016-02-25T18:44:35	5 year returns after a global stock market declines below CAPE ratio of 10?  17% per year  via RA_Insights 
+CAPE_invest	702917463755792384	2016-02-25T18:05:57	Global stock markets ranked by valuation (or, It's Not Your Value Indicator That's Broken)   
+CAPE_invest	702536839656243200	2016-02-24T16:53:29	SRRN: Predicting Returns using CAPE - An Improvement towards traditional Value Indicators?  
+CAPE_invest	702118577382563841	2016-02-23T13:11:28	Valuation vs Long-Term Index-Performance 1979-2015   HiRes   Details  
+CAPE_invest	701788749500444673	2016-02-22T15:20:51	New Paper: Predicting Stock Market Returns Using Shiller-CAPE: An Improvement Towards Traditional Value Indicators?  
+CAPE_invest	701665639061188612	2016-02-22T07:11:39	Neues Research-Paper: Langfristige Aktienmarktprognose - Das Shiller-CAPE auf dem Prüfstand  
+CAPE_invest	700778417034285056	2016-02-19T20:26:09	What casinos, insurance companies, option writers, and value investors have in common:   
+CAPE_invest	700426701705125888	2016-02-18T21:08:33	Mean reversion after 3 years means many select funds incorrectly 
+CAPE_invest	699717653657575424	2016-02-16T22:11:03	Fund managers drop equity allocation to 4-year low, raise cash to 14-year high. New from The Fat Pitch 
+CAPE_invest	696713853967532032	2016-02-08T15:15:01	A dual-momentum strategy, combining time-series and cross-sectional mom, generates returns of 1.9% pm. New paper 
+CAPE_invest	698356218054639616	2016-02-13T04:01:11	Size, Book to Market Ratio and Momentum Strategies: Evidence from Istanbul Stock Exchange 
+CAPE_invest	697471076318711809	2016-02-10T17:23:57	YTD MSCI World Value -8,7% MSCI World Growth -10,8%  Value-Comeback in 2016 after Years of Underperformance? 
+CAPE_invest	697105726406311940	2016-02-09T17:12:11	Credit Suisse Global Investment Returns Yearbook 2016:  
+CAPE_invest	695681390185156608	2016-02-05T18:52:23	Research: Size and momentum don't appear to work all that well in emerging markets (via SSRN)  FactorInvesting
+CAPE_invest	695658100779524097	2016-02-05T17:19:50	DAX -25% from ATH 04/2015: left zone of typical market corrections; S&amp;P: still normal losses  
+CAPE_invest	694605272216686592	2016-02-02T19:36:16	 
+CAPE_invest	693185879611936769	2016-01-29T21:36:07	The History Of Global Crises Through The Eyes Of The US Dollar - One Year Later  
+CAPE_invest	691639380109193217	2016-01-25T15:10:52	Why Is Momentum Still Neglected? [new post] 
+CAPE_invest	690682886857580544	2016-01-22T23:50:07	Robert Shiller: How Stories Drive the Stock Market 
+CAPE_invest	677855965664907265	2015-12-18T14:20:30	two great, meaty posts on the hazards of extrapolating the past, by Jesse_Livermore  
+CAPE_invest	689809476489056257	2016-01-20T13:59:29	Fund manager cash near an 8 year high; equity weightings cut in half in past month. New from The Fat Pitch 
+CAPE_invest	689449804473114624	2016-01-19T14:10:17	Flows into all fund classes (all, including ETFs) 
+CAPE_invest	687384103222525952	2016-01-13T21:21:55	My most recent white paper was on how to protect against expensive markets in a downtrend.   Almost no one read it.  
+CAPE_invest	687313314964213761	2016-01-13T16:40:38	Update Market Valuation Map Dec15  CAPE 4.6 Russ 13.5 EM 15.5 Europe 19.5 World AC 24.6 US   
+CAPE_invest	686570432972111873	2016-01-11T15:28:41	CAPE-based Stock Market Potential for the next 15 years (Dec 2015) 
+CAPE_invest	686569563488698368	2016-01-11T15:25:14	Worldwide predictive power of CAPE over the most recent 15 years:  
+CAPE_invest	671670781806530560	2015-12-01T12:42:48	Does the MSCI USA Value index realize the HML value premium? No.  
+CAPE_invest	666647663924891649	2015-11-17T16:02:43	Update: CAPE Based Long Term Stock Market Expectations  (Details ) 
+CAPE_invest	666647015221288960	2015-11-17T16:00:08	Global Stock Market Valuation: Update as of 10/30/2015  
+CAPE_invest	666520855418114048	2015-11-17T07:38:49	Combining Value with Momentum  
+CAPE_invest	666519754417577984	2015-11-17T07:34:27	Können Value-Investoren ihr Timing mit Momentumkriterien verbessern?  
+CAPE_invest	652500900934631425	2015-10-09T15:08:32	I finally finished a new white paper for your weekend reading:  
+CAPE_invest	652561367002689536	2015-10-09T19:08:48	US CAPE relative to Europe still near all time high, all important indicators still expensive  
+CAPE_invest	652560048560996352	2015-10-09T19:03:34	Global Stock Market Valuation Ratios as of 09/30/2015 Andrew_Gorden 
+CAPE_invest	643855190664343553	2015-09-15T18:33:34	Value-Premium (MSCI Wrld) still dropping, 1 Year  Value -7,0% World -2,4% Growth +2,3%  Notice long LT Underperform. 
+CAPE_invest	643160407155318784	2015-09-13T20:32:45	Shiller sticks to his guns on Cape - and points out confidence in valuations is falling fast.   via FT

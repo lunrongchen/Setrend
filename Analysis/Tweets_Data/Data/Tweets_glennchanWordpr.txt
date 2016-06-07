@@ -1,0 +1,355 @@
+glennchanWordpr	726072922599743489	2016-04-29T15:37:29	Former CFO and Board member Schiller is the only board member that did not sign the 10-K. VRX 
+glennchanWordpr	726160249309282304	2016-04-29T21:24:29	Investment blogging 2.0.   
+glennchanWordpr	726012262658543619	2016-04-29T11:36:26	VRX First there was no channel stuffing in Europe, then there was channel stuffing... Just you wait.. Just you wait 
+glennchanWordpr	725485781616349185	2016-04-28T00:44:23	SkeleCap Uh... social contract and the US healthcare system? 
+glennchanWordpr	725485169214377985	2016-04-28T00:41:57	New audit system pointless given that the SEC figured out that HGSH was manipulated and still allows it to trade. 
+glennchanWordpr	725091531800084480	2016-04-26T22:37:47	Umm... CMG's earning release left out the part about buying back shares hand over fist? $583M for the Q.  
+glennchanWordpr	724739358461452288	2016-04-25T23:18:22	scott_matagrano WallStCynic DonutShorts CGrantWSJ obamacare --&gt; more health insurance --&gt; fewer small payors to rip off.
+glennchanWordpr	724389443034058758	2016-04-25T00:07:56	jschembs BrattleStCap HurriCap Some customers can't just switch to Google Computer/MSFT Azure (or colo), while some can.
+glennchanWordpr	724388718262542337	2016-04-25T00:05:03	jschembs BrattleStCap HurriCap AWS kind of sells a turnkey integration of software+hardware.  The software can be a great business.
+glennchanWordpr	723397457724362752	2016-04-22T06:26:08	probesreporter CGrantWSJ greatquarter footnoted ...as well as Reg FD violations from 1on1s, meetings with banking analysts, etc.
+glennchanWordpr	723396914922708993	2016-04-22T06:23:59	probesreporter CGrantWSJ greatquarter footnoted Real issue= companies that don't put presentations on EDGAR or delete them from website.
+glennchanWordpr	723396603734687744	2016-04-22T06:22:45	probesreporter CGrantWSJ greatquarter footnoted It's a technical issue.  Powerpoint-&gt;HTML is tricky.  PPT-&gt;PDF-&gt;HTML can be REALLY hard.
+glennchanWordpr	723395575849185280	2016-04-22T06:18:39	probesreporter CGrantWSJ greatquarter footnoted EDGAR favors HTML, which can't easily handle complex graphics + searchable text.
+glennchanWordpr	723393986107314176	2016-04-22T06:12:20	footnoted If playing Where's Waldo annoys you, then you can try using Google to find the original PDF on the BAC IR site.
+glennchanWordpr	723393325240225793	2016-04-22T06:09:43	footnoted That filing has 1-point invisible-ish text below the image, which is machine readable.  EDGAR search tools should handle that.
+glennchanWordpr	723199253128990720	2016-04-21T17:18:32	(5/n) Some old blog posts on homebuilders:    (I was wrong about origination being risky.)
+glennchanWordpr	723198991769325568	2016-04-21T17:17:30	(4/n) Once you strip out the increased capitalization of interest, the company seems unprofitable for YE2015.
+glennchanWordpr	723195035299127297	2016-04-21T17:01:47	(3/n) Debt trades at double digit yields... it might be ok.  I don't understand debt though.
+glennchanWordpr	723193305438126083	2016-04-21T16:54:54	(2/n) Strip out non-tangible assets like 123M in capitalized interest and 325M in DTAs... $630M equity --&gt; 180M, less than 323M mkt cap.
+glennchanWordpr	723192626778775554	2016-04-21T16:52:13	(1/n) BZH trades below book in a housing bull market.  May be value trap though.   
+glennchanWordpr	723163125323689984	2016-04-21T14:54:59	SUNE secretly filed "" on March 29. 
+glennchanWordpr	722172750551519232	2016-04-18T21:19:35	schaudenfraud jay_21_ wbr10 60NorthInv jnvest too many...
+glennchanWordpr	722124621936476160	2016-04-18T18:08:20	schaudenfraud jay_21_ wbr10 60NorthInv jnvest Braves worth more once they get out of TV rights, or if OTT sports takes over e.g.MLBAM
+glennchanWordpr	722120014057377792	2016-04-18T17:50:02	SkeleCap jay_21_ groditi sternalot Maybe I should actually research this and own it.
+glennchanWordpr	722119928862633985	2016-04-18T17:49:42	SkeleCap jay_21_ groditi sternalot  
+glennchanWordpr	722119894603546625	2016-04-18T17:49:33	SkeleCap jay_21_ groditi sternalot all the quality businesses were put into one of the trackers.  ongoing buybacks.
+glennchanWordpr	722096832785096705	2016-04-18T16:17:55	jay_21_ SkeleCap groditi sternalot FNF FNFV
+glennchanWordpr	721900441487802368	2016-04-18T03:17:32	sternalot SkeleCap Merger ==&gt; synergies OMG De-merger (e.g. trackers, spinoffs) ==&gt; unlock shareholder value OMFG Wall Street logic.
+glennchanWordpr	721899681219891200	2016-04-18T03:14:30	sternalot SkeleCap The (potential) conflicts of interests generate lots of work for lawyers.  At AT&amp;T, AT&amp;T sued Malone's mothership.
+glennchanWordpr	721881417764843520	2016-04-18T02:01:56	groditi SkeleCap Hard spin, merger, takeover, liquidation, bankruptcy, etc. etc.  I don't think bankruptcy has ever happened to a tracker.
+glennchanWordpr	721542114710949889	2016-04-17T03:33:40	jay_21_ e.g. LMCA/LBRDA paid less for CHTR than LVNTA.  Generally you want to be on the side of whatever he owns a higher % of.
+glennchanWordpr	721541854747959296	2016-04-17T03:32:38	jay_21_ And then the conflict of interest thing... the easy way is to look at what Malone owns the biggest % of.  His best ideas go there.
+glennchanWordpr	721540831031664640	2016-04-17T03:28:34	jay_21_ Hey you wanna do a discount model in GoogleSheets?  Feel free to copy mine (which I stole from some1 else)  
+glennchanWordpr	720822574121295874	2016-04-15T03:54:28	BluegrassCap Paypal.  Operational synergy.
+glennchanWordpr	720686196888875008	2016-04-14T18:52:33	The SEC giving you advice on how not to get caught. 
+glennchanWordpr	720683719560994820	2016-04-14T18:42:43	SkeleCap mugatushair jschembs jay_21_ SSCapital13 QVC solves ur 1st world problems of boobs keeping u awake.  
+glennchanWordpr	720681808468320256	2016-04-14T18:35:07	mugatushair jschembs SkeleCap jay_21_ SSCapital13 Great business model.  Get rich moms fat, sell them exercise equipment.
+glennchanWordpr	720681480574353408	2016-04-14T18:33:49	mugatushair jschembs SkeleCap jay_21_ SSCapital13 Burn off those calories with a Shake Weight from QVC.  
+glennchanWordpr	720390560675078144	2016-04-13T23:17:48	schaudenfraud jay_21_ Isn't it obvious that Hennick wants to cash out his shares at a high price?  Look at the recap transaction.
+glennchanWordpr	720390242755174400	2016-04-13T23:16:32	Olmsted2 
+glennchanWordpr	720383714950119424	2016-04-13T22:50:36	PSEC invites short sellers to short its stock.  Also follow jwthn for PSEC coverage. (I have no position in PSEC.) 
+glennchanWordpr	720149696384212992	2016-04-13T07:20:42	(2/n) But now that I think about it... if a sociopath ran this show, they would cook the books at the YieldCo level first due to incentives.
+glennchanWordpr	720137788709056512	2016-04-13T06:33:22	SkeleCap jay_21_ FinTwit be like... 
+glennchanWordpr	720137128592674817	2016-04-13T06:30:45	SkeleCap jay_21_ 
+glennchanWordpr	720134635938779136	2016-04-13T06:20:51	*No position in TERP.  "Return on brain damage" not worth it.
+glennchanWordpr	720134463238324224	2016-04-13T06:20:10	TERP: So Brian Wuebbels goes to TERP, resigns weeks later. I guess something's wrong.  
+glennchanWordpr	720128061681872896	2016-04-13T05:54:43	jay_21_ Well this made a lot more sense than ASPS top-ticking HLSS.
+glennchanWordpr	719958999202926592	2016-04-12T18:42:56	13D files by ASPS to protect RESI...incredible 
+glennchanWordpr	720116386127876096	2016-04-13T05:08:20	jay_21_ There's a little bit of John Malone in him.  The recap transaction was a clever way to sell shares in a tax-efficient manner.
+glennchanWordpr	720115064771080192	2016-04-13T05:03:05	H/T to NormanRothery for organizing part of the Fairfaxpalooza.  Also, talked to a VRX long today (Im short).  IAmClearlyNotGoingToTheAGM
+glennchanWordpr	720114009006084097	2016-04-13T04:58:53	BrattleStCap earnings day reversalsssssssssssssss Also, shoutouts to probesreporter for being months early on the VRX probe.
+glennchanWordpr	720112974325760004	2016-04-13T04:54:46	schaudenfraud (*Disclaimer: I do work for Sentieo and just compared it to crack cocaine.)
+glennchanWordpr	720112727012851712	2016-04-13T04:53:47	schaudenfraud Here, go find some people paying for so-called "investor relations".  crack4ShortSellers 
+glennchanWordpr	719737331415191552	2016-04-12T04:02:06	nachkari SIRF_Report LJKawa M_C_Klein The Steve Jobs bio talks briefly about how Jobs hates Friedland, the hippie turned gold miner.
+glennchanWordpr	719737008080470016	2016-04-12T04:00:49	nachkari SIRF_Report LJKawa M_C_Klein "The big score" is balanced, not bad.  "fleecing the lamb" describes the vancouver stock exchange.
+glennchanWordpr	719735811441303552	2016-04-12T03:56:04	nachkari SIRF_Report LJKawa M_C_Klein (Mr. Friedland was born in the US, went to jail over drug stuff, and discovered Scamcouver Canada)
+glennchanWordpr	719735223949373441	2016-04-12T03:53:44	nachkari SIRF_Report LJKawa M_C_Klein You could copy Robert Friedland and stay out of jail, but some people are just brazen and stupid.
+glennchanWordpr	719733407996067841	2016-04-12T03:46:31	nachkari SIRF_Report LJKawa M_C_Klein Despite lax Canadian regulators versus US, I'm surprised that Canadians branch out to the US.
+glennchanWordpr	719647119406166017	2016-04-11T22:03:38	jnvest BluegrassCap It's called marketing ;)
+glennchanWordpr	719647047998160896	2016-04-11T22:03:21	jnvest BluegrassCap Their value-added software can save money overall.  It's a turnkey integration of data backup, shared storage, etc.
+glennchanWordpr	719646379388350464	2016-04-11T22:00:41	jnvest BluegrassCap SEOmoz is another.  
+glennchanWordpr	719645699898519552	2016-04-11T21:57:59	jnvest BluegrassCap I look at it like this: AWS is selling software at high margins with low-margin commodity infrastructure attached.
+glennchanWordpr	719645226185437185	2016-04-11T21:56:06	jnvest BluegrassCap The reserved instances are more expensive if you calculate it out.  Or... look at people who left AWS.
+glennchanWordpr	719643490033012738	2016-04-11T21:49:13	Liberty8988 BluegrassCap Yes, the alternatives are *much* cheaper, don't provide value-add software, and can't scale as quickly.
+glennchanWordpr	719606560956227585	2016-04-11T19:22:28	SkeleCap Yelp has more FTC complaints than Herbalife.  (I think that's where I first heard about what Yelp was doing.)
+glennchanWordpr	719605243315691520	2016-04-11T19:17:14	SkeleCap Don't they charge the companies money so that Trip doesn't hide good reviews? (Or maybe I confused Trip with Yelp.)
+glennchanWordpr	719604946203766784	2016-04-11T19:16:03	BluegrassCap Uh, so why do people leave AWS because co-location is cheaper?  AWS is expensive, you pay for value-add software + scalability
+glennchanWordpr	719006440577449984	2016-04-10T03:37:48	IvanaBoastsky Apparently the BCSC actually did shit in the past:    (And sadly, nobody knows who David Blaine is)
+glennchanWordpr	719004468742922240	2016-04-10T03:29:58	IvanaBoastsky I'm so, so disappointed about how they handled Silvercorp / Kun Huang, Peter George, Barkerville, Pretium / Strathcona.
+glennchanWordpr	719002284508778497	2016-04-10T03:21:17	IvanaBoastsky If I was a pump and dump guy, I'd wish that all regulators were like the BCSC.  They even have a kangaroo court for shorts.
+glennchanWordpr	718997343270486020	2016-04-10T03:01:39	IvanaBoastsky "BCSC investigates"   I have a hard time picturing those two words beside each other.
+glennchanWordpr	718952538909851648	2016-04-10T00:03:37	schaudenfraud I don't really understand why people use EBITDA multiples.
+glennchanWordpr	718609780449939456	2016-04-09T01:21:37	BluegrassCap xuexishenghuo McClendon: He did some amazing deals, the VPPs look smart now, and the hedging was good.  Too much debt though.
+glennchanWordpr	718607554595667969	2016-04-09T01:12:46	BluegrassCap xuexishenghuo I think if Erbey had a time machine, he'd do the same asset-light model minus the buybacks + less cost cutting.
+glennchanWordpr	718307629131526144	2016-04-08T05:20:58	KBIOQ's debtor-in-possession lender has a no-Shkreli clause.  Hiring him is 1 of 33 possible events of default. 
+glennchanWordpr	718139807990423552	2016-04-07T18:14:07	retardedbearcap carnesjon SIRF_Report Well I got Intertain wrong too.  CFO didn't leave the company (weird).  
+glennchanWordpr	718137842191507456	2016-04-07T18:06:18	retardedbearcap carnesjon SIRF_Report Sorry I think I meant Worldcom, not Enron.  Internal audit at Worldcom stumbled across the fraud.
+glennchanWordpr	718137241143549953	2016-04-07T18:03:55	retardedbearcap carnesjon SIRF_Report PennWest, Enron disclosed accounting problems.  RTRX, PVCT, many others disclosed issues with CEO.
+glennchanWordpr	718136329016623106	2016-04-07T18:00:17	retardedbearcap carnesjon SIRF_Report Intertain.  The CEO, CFO were naughty and basically got fired over it I think.
+glennchanWordpr	717930836256022529	2016-04-07T04:23:44	Contrahour Facebook is A+ in my book in terms of ethics.
+glennchanWordpr	717930645884911616	2016-04-07T04:22:59	Contrahour Here's what their current policies look like in practice:  
+glennchanWordpr	717929758479265792	2016-04-07T04:19:27	Contrahour FB used to try hard at blocking scammy ads (e.g. no dating websites cuz most are scams).  I haven't checked for years though.
+glennchanWordpr	717849188546056192	2016-04-06T22:59:18	God bless America, which is leading the world in search interest for "bad credit car loan". 
+glennchanWordpr	717471724200132612	2016-04-05T21:59:23	"Eric Sprott bets millions on a gold producer and 10 out of 10 analysts agree it's a buy" I enjoy this headline.
+glennchanWordpr	717419569082679296	2016-04-05T18:32:08	BuyersStrike adamfeuerstein Rexahn is a stock that got former fashion models to promote the company.  'Murican innovation at its best.
+glennchanWordpr	717413931845857281	2016-04-05T18:09:44	BluegrassCap Gun stocks like Ruger are an interesting example of American manufacturing; synergies between R&amp;D and mfg in same building.
+glennchanWordpr	717413388666728448	2016-04-05T18:07:35	rtclark I blogged about PSUN 3 years ago and didn't hold onto my short. So it goes. 
+glennchanWordpr	717384581641592833	2016-04-05T16:13:07	"Striving everyday to transfer as much shareholder cash to executives' pockets as possible."  (I'm short PVCT.)
+glennchanWordpr	717375963726811137	2016-04-05T15:38:52	jay_21_ SkeleCap BluegrassCap abnormalreturns LionsGate funded a lot of Netflix projects.  Product placements, non-NFLX countries, etc.
+glennchanWordpr	717375243510292480	2016-04-05T15:36:00	jay_21_ SkeleCap BluegrassCap abnormalreturns Except Netflix isn't doing this... lots of middlemen to help filmmakers monetize content.
+glennchanWordpr	717372064705953792	2016-04-05T15:23:23	BluegrassCap They launched a streaming service a lot time ago that failed.
+glennchanWordpr	716833502264688640	2016-04-04T03:43:19	How is X rallying?  Isn't there a glut of Chinese mill capacity?
+glennchanWordpr	715362140941651968	2016-03-31T02:16:39	WallStCynic KidDynamiteBlog Don't you worry that rooftop solar subsidies might get rolled back?  Happened in Hawaii, lots of salty people.
+glennchanWordpr	715294692263534594	2016-03-30T21:48:38	KidDynamiteBlog Well I feel like restauranteurs want to do new things.  That drive led them to make CMG in the first place.
+glennchanWordpr	715275044797169664	2016-03-30T20:30:34	SkeleCap capital1point1 They definitely not lawful evil.
+glennchanWordpr	715274347527675908	2016-03-30T20:27:48	SkeleCap capital1point1 And they trust management after meeting them in person.  Charisma or affinity or something.
+glennchanWordpr	715274218426867712	2016-03-30T20:27:17	SkeleCap capital1point1 Not saying it's not worth doing.  My theory is that insti holders buy into frauds because they fall for the story.
+glennchanWordpr	715271572077019136	2016-03-30T20:16:46	capital1point1 Thank you to all those guys who go to investment conferences and think that 1on1 = due diligence.  Thank you Bill Ackman.
+glennchanWordpr	715271305679994881	2016-03-30T20:15:43	capital1point1 So I'm kinda like... long live hedge funds that lend out their shares.
+glennchanWordpr	715270924765888512	2016-03-30T20:14:12	capital1point1 I feel like shorting works because some institutional investors do a really bad job at due diligence.  1on1 meeting nonsense
+glennchanWordpr	715270633077219328	2016-03-30T20:13:02	capital1point1 When I look for shorts, I only bother with stocks that are owned by institutions because they lend out shares.
+glennchanWordpr	715268565377613824	2016-03-30T20:04:49	capital1point1 Sure maybe they can do a better job.  But the alternatives aren't necessarily that appealing.
+glennchanWordpr	715268362356592641	2016-03-30T20:04:01	capital1point1 The lowest-cost (/best) index funds tend to have very little money in small caps and lose very little money to fraud.
+glennchanWordpr	715266569769762823	2016-03-30T19:56:53	capital1point1 e.g. Index funds performed well versus really smart guys like Chanos, Feshbach brothers, Copper River. (+Steve Eisman too?)
+glennchanWordpr	715264195537842176	2016-03-30T19:47:27	capital1point1 Those index funds may have outperformed the hedge funds?  Definitely did better than any longs who met management.
+glennchanWordpr	715217453706579968	2016-03-30T16:41:43	SkeleCap I haird this might work. 
+glennchanWordpr	715105687802658816	2016-03-30T09:17:36	(6/n) I still can't find the new policy. 
+glennchanWordpr	715104939979186176	2016-03-30T09:14:38	(5/n) Need to figure out if the re-aging limit changed to more than 12 months. Removing this sentence seems strange. 
+glennchanWordpr	715103104606273536	2016-03-30T09:07:20	(4/n) The static loss tables from last Q not looking so hot year-over-year. 
+glennchanWordpr	715102137030680576	2016-03-30T09:03:30	(3/n) The share repurchases:  Either these guys are absolutely crazy, or maybe my short thesis is wrong.  I need to really dig here.
+glennchanWordpr	715101936375226368	2016-03-30T09:02:42	(2/n) Press release states "an investment grade rating on the senior class of bonds offered."  Uh... that could describe every subprime RMBS
+glennchanWordpr	715101445125591040	2016-03-30T09:00:45	(1/n) Random remarks on CONN.  Looking through the 10-K.  I cannot find this damn static loss table.  Did the goalposts move?
+glennchanWordpr	715005833277480960	2016-03-30T02:40:49	schaudenfraud (Disclosure: I do work for Sentieo.)
+glennchanWordpr	715005625068097538	2016-03-30T02:39:59	schaudenfraud Whoa, shots fired?  ;)  EDGAR's free full text search isn't that bad is it?  But yes, Sentieo's doc search works well.
+glennchanWordpr	714982161573609472	2016-03-30T01:06:45	Sun Edison / Vivint reminds me of junior mining.  The acquirer knew that it was even more worthless than the acquiree.
+glennchanWordpr	714977947095011332	2016-03-30T00:50:00	B- Other companies have better pricing. C- You treat your customers with crap like overage fees, that means you Rogers.  RCI
+glennchanWordpr	714977758586212352	2016-03-30T00:49:15	HardcoreValue Well I think the reason why churn happens is because: A- Your promotions encourage it. Get a deal if you leave and come back
+glennchanWordpr	714977036243189760	2016-03-30T00:46:23	HardcoreValue I dunno about that.  I realized the hard way that VOIP in general is not reliable.
+glennchanWordpr	714972813749313537	2016-03-30T00:29:37	JkHopkins2084 SpaceWalk0 There are hundreds of mentions in EDGAR.  Usually boilerplate/generic internal controls stuff.
+glennchanWordpr	714970112382607360	2016-03-30T00:18:52	BuyersStrike Lol, doesn't even know how to pronounce his client's company name.
+glennchanWordpr	714968698205970432	2016-03-30T00:13:15	PharmakoiBoy So what's capex / store?  More than what they paid for their corporate jet?  Less than what they capitalized as catalog costs?
+glennchanWordpr	714966908739706881	2016-03-30T00:06:09	JkHopkins2084 SpaceWalk0 WMS probably   I found that with Sentieo in less than half a minute.
+glennchanWordpr	714585576125689856	2016-03-28T22:50:52	jay_21_ Malone giving up value in LBTYA/LILA/CWC merger is a market inefficiency.  Somebody had to be wrong there.
+glennchanWordpr	714524443977056256	2016-03-28T18:47:57	danharris' legal practice not seeing a China slowdown.  "China’s New Opportunities: Slowdown, What Slowdown?" 
+glennchanWordpr	714274776152453120	2016-03-28T02:15:51	BuyersStrike I have no idea what they did do, didn't do, what they are doing currently, or what they aren't doing currently.
+glennchanWordpr	714274610833965057	2016-03-28T02:15:12	BuyersStrike Joseph Riccardo (and Shevick, a guy he worked with) get a mention in ANIP's filings: 
+glennchanWordpr	714244459408572416	2016-03-28T00:15:23	BuyersStrike I feel like every junior exchange out there is designed specifically to make listing fees from crap.
+glennchanWordpr	714243490520113152	2016-03-28T00:11:32	marginalidea Oh lemme tell you the Caramilk secret: it's not chocolate.  They use vegetable oils instead of cocoa butter.
+glennchanWordpr	713852463544188929	2016-03-26T22:17:44	LongVollllll it's a big short selling party.
+glennchanWordpr	713831647171461120	2016-03-26T20:55:01	(7/n) P/B is 0.55.  NAV is slightly above book value, before taking into account asset management fees.  *Can't liquidate at NAV right away.
+glennchanWordpr	713831051785871361	2016-03-26T20:52:39	(6/n) In a bull market, this would likely trade above book value because people overpay for yieldco REITs.
+glennchanWordpr	713830451270533120	2016-03-26T20:50:16	(5/n) Regardless of whether RESI liquidates, you are buying assets with cash flow at a big discount even after burdensome fees.  Good CEO.
+glennchanWordpr	713830135561121793	2016-03-26T20:49:01	(4/n) RESI bought back a very small amount of shares before activist investors got involved + got annoying.
+glennchanWordpr	713829625659592704	2016-03-26T20:46:59	(3/n) Like all closed end funds, management has incentive to grow AUM and not buy back shares at discount.  Fees are a huge drag on returns.
+glennchanWordpr	713829480054263808	2016-03-26T20:46:25	(2/n) The CEO's resume is stacked.  I think he's smart.  Shifting the company into assets where yields are good, buying cheap houses.
+glennchanWordpr	713829074695766016	2016-03-26T20:44:48	(1/n) RESI elevator pitch: It's like closed end fund arbitrage, except they own houses and delinquent mortgages instead of stocks.
+glennchanWordpr	713828726513995777	2016-03-26T20:43:25	ragnarisapirate I figure you would have a lot of experience with renting out individual houses.
+glennchanWordpr	713828627851452417	2016-03-26T20:43:01	ragnarisapirate hey you ever take a look at RESI?  Shifting away from delinquent mortgages, buying individual rental homes directly now.
+glennchanWordpr	713605511992594432	2016-03-26T05:56:26	(2/2) Remember Microsoft's Tay?  Sometimes you shouldn't automate everything with an AI. 
+glennchanWordpr	713604652361617408	2016-03-26T05:53:01	(1/2)A battle of narratives: is OnDeck's computerized lending just another form of subprime?  
+glennchanWordpr	713142306518474754	2016-03-24T23:15:50	jnvest xuexishenghuo It's pricey.  LOL...  sorry I didn't do work on it after reading the shareholder letters.
+glennchanWordpr	713142116256518145	2016-03-24T23:15:04	H/T TheCreditBubble for putting MHGC on my radar.  (*I didn't hold onto my short.)  
+glennchanWordpr	713059225606471680	2016-03-24T17:45:42	TheSkeptic21 Dead rappers meet dead presidents.  More please.
+glennchanWordpr	712715313318596608	2016-03-23T18:59:06	BluegrassCap Home prices legitimately in a bull market.  (Call me crazy but I think there's a few more years of that bull market.)
+glennchanWordpr	712413057344004096	2016-03-22T22:58:03	Special situations investing 
+glennchanWordpr	712453483543314432	2016-03-23T01:38:41	glennchanWordpr 
+glennchanWordpr	712453162855211008	2016-03-23T01:37:25	glennchanWordpr 
+glennchanWordpr	712452911691931648	2016-03-23T01:36:25	My pet theory: Xifaxan is the Jar Jar Binks of Valeant's drug portfolio.  Not as cool as toenail fungus. 
+glennchanWordpr	712166902722768896	2016-03-22T06:39:55	I'm so disappointed I can't borrow most stocks in Eric Sprott's portfolio.   
+glennchanWordpr	712053334874701824	2016-03-21T23:08:39	  VRX 
+glennchanWordpr	711751802589306882	2016-03-21T03:10:28	IEX exchange slowly gaining market share.  I hope they do well. 
+glennchanWordpr	711717907642777600	2016-03-21T00:55:46	jay_21_ That looks heavily driven by credit.  Subprime nonsense peaked in 2005.  Currently, subprime lending is extremely unattractive.
+glennchanWordpr	711637453988233216	2016-03-20T19:36:05	BrattleStCap SpaceWalk0 John_Hempton The word schaudenfraud comes to mind.
+glennchanWordpr	711635790334283776	2016-03-20T19:29:28	schaudenfraud I stole it from Tim Sykes, the one-time penny stock promoter.
+glennchanWordpr	711635285805637632	2016-03-20T19:27:28	finTwitPorn 
+glennchanWordpr	711634778030608384	2016-03-20T19:25:27	jay_21_ kinda like that time when malone did share split shenanigans to keep institutional investors away?
+glennchanWordpr	711610534857027588	2016-03-20T17:49:07	schaudenfraud Even independent research shops like Veritas get crap for not getting aboard the bullship.  (Veritas made it into a VRX 8-K)
+glennchanWordpr	711405579403538433	2016-03-20T04:14:42	TheSkeptic21 Did Valeant buy a zero-strike option on TSwift's acceptance speech?
+glennchanWordpr	711405122874531843	2016-03-20T04:12:53	xuexishenghuo CSU.TO CEO wrote a shareholder letter explaining how the shares were above private mkt value.  Stock went up anyways.
+glennchanWordpr	710874238299869184	2016-03-18T17:03:20	BluegrassCap housing bull market + good management
+glennchanWordpr	710739740459462656	2016-03-18T08:08:53	tprince0 Disclaimer:  I do work for Sentieo.  I would suggest getting a trial and forming your own conclusions.
+glennchanWordpr	710739548066729984	2016-03-18T08:08:07	tprince0 I did a trial of it; I find that type of tool incredibly useful to me.  Also check out the competition: 
+glennchanWordpr	710182465529364480	2016-03-16T19:14:28	Following Sabine and quicksilver, there may be additional incentive for E&amp;Ps to file based on operational concerns 
+glennchanWordpr	710176001641336833	2016-03-16T18:48:47	Lance0333 maxvision33 RChang6 nosunkcosts schaudenfraud Fairfax was another battleground. Discussed briefly in Selling America Short.
+glennchanWordpr	709962513480347648	2016-03-16T04:40:28	Mega_Man_2 He sold at like $130ish or something a while back.  I'm surprised he sold so little given the recent short squeeze.
+glennchanWordpr	709776487201808384	2016-03-15T16:21:16	TheCreditBubble Somebody has to own the stock.
+glennchanWordpr	709125216958550018	2016-03-13T21:13:21	"The Cost of Standing in the Gap." SIRF_Report explains why were asking for help.  (Our reporting is expensive.)  
+glennchanWordpr	708701445621731328	2016-03-12T17:09:26	PlanMaestro SkeleCap Somebody did an analysis of BQ6 Media's about us and concluded that their chess was wrong. 
+glennchanWordpr	707704332398010369	2016-03-09T23:07:16	TheSkeptic21 I would've thought that VRX should have done that sooner.  Lawsuits are the sport of kings.
+glennchanWordpr	707701589046333441	2016-03-09T22:56:21	schaudenfraud oh wait that doesn't fully do what you would like to do.  but it sort of gets there.
+glennchanWordpr	707701404232753152	2016-03-09T22:55:37	schaudenfraud   + add &amp;owner=include to the URL
+glennchanWordpr	707701063248449536	2016-03-09T22:54:16	SkeleCap Nah I think they enjoy cannibalism.
+glennchanWordpr	707695999746248705	2016-03-09T22:34:09	TheSkeptic21 In general, I think shareholders benefit when major shareholders sit on the board rather than career directors+insiders.
+glennchanWordpr	707692191397900293	2016-03-09T22:19:01	colinlee6c with some interesting Tweets on the Sabine case. 
+glennchanWordpr	707441191646842880	2016-03-09T05:41:38	BluegrassCap But they are a scrappy upstart that has grown a lot to where they are today.  (They're still asshats though.)
+glennchanWordpr	707440981600247808	2016-03-09T05:40:48	BluegrassCap If you have IB and get the BATS feed (with the basic data subscription), you can see that BATS is not at NBBO for many stocks
+glennchanWordpr	707440571649007618	2016-03-09T05:39:10	BluegrassCap BATS used to pay day traders to churn volume on their exchange.  I'm not sure if they still do it.
+glennchanWordpr	707439915995426816	2016-03-09T05:36:34	BluegrassCap Well I guess BATS didn't get killed by Michael Lewis.  I think market makers + exchanges are sleazy asshats though.
+glennchanWordpr	707437546331045888	2016-03-09T05:27:09	KMI 
+glennchanWordpr	707003191687290884	2016-03-08T00:41:11	Fairfax bought deal gets re-offered at $687.50 after failing to sell at $735/share FFH.TO
+glennchanWordpr	706632966710169601	2016-03-07T00:10:02	Jailed in a Chinese hellhole, a B.C. short-seller strikes back SVM 
+glennchanWordpr	707069045296734208	2016-03-08T05:02:51	SkeleCap mugatushair   (No position in RGR currently, which could be a mistake.)
+glennchanWordpr	706587600916783105	2016-03-06T21:09:46	FrancoOlivera jay_21_ AT&amp;T fibre is slower than most cable:    AT&amp;T also lost broadband subs despite secular trend.
+glennchanWordpr	706572681915801600	2016-03-06T20:10:29	LucreSnooker Buy companies that pay a lot for investor relations are generally crap.  It's a good way to find shorts.
+glennchanWordpr	706572511216078848	2016-03-06T20:09:48	LucreSnooker Some companies will actually remove old presentation slides from their website.  Not sure why that happens.
+glennchanWordpr	706569005797081089	2016-03-06T19:55:53	SIRF_Report People pay the Taliban so that their people don't get killed.  Officers in Afghanistan enjoy Pizza Hut, Tim Hortons, etc.
+glennchanWordpr	706568587683753985	2016-03-06T19:54:13	SIRF_Report Many officers have zero combat experience and the arms procurement process is corrupt. America's allies, NGOs fund the taliban.
+glennchanWordpr	706565085599293440	2016-03-06T19:40:18	cablecarcapital I would generally stay away from Afghanistan, Kazakstan, and Bhartistan. H/T 
+glennchanWordpr	706555881564012544	2016-03-06T19:03:43	jay_21_ BrattleStCap ValueDude 
+glennchanWordpr	706003845504086017	2016-03-05T06:30:08	Fired CFO was working to stop the deal  ETE WMB
+glennchanWordpr	706545170574139393	2016-03-06T18:21:10	Somebody explain to me how unbundling and the skinny bundle will destroy the candy industry.  cable 
+glennchanWordpr	706531917357838336	2016-03-06T17:28:30	TheSkeptic21 It's not a fraud because upstanding people with insider info wouldn't own a fraud?  (*I'm not saying VRX is or isn't a fraud.)
+glennchanWordpr	705274555166687232	2016-03-03T06:12:11	alex_macdonald AlderLaneeggs So basically all of the big Canadian banks are involved in this nonsense? 
+glennchanWordpr	705271027459227648	2016-03-03T05:58:10	AT&amp;T probably poorly run given that it managed to lose broadband subs despite secular growth in broadband. T
+glennchanWordpr	705269876680568832	2016-03-03T05:53:36	TheCreditBubble Well somebody has to own the float.
+glennchanWordpr	704906635974676480	2016-03-02T05:50:13	retardedbearcap Whereas some of the OTC BB stuff is far more brazen than Scamcouver Stock Exchange (TSX V). Cuz 'Murica is weird like that.
+glennchanWordpr	704905804219097088	2016-03-02T05:46:54	retardedbearcap The SEC is actually one of the better regulators out there.  IMO worst = China, BCSC, and maybe Hong Kong.
+glennchanWordpr	704861903038902272	2016-03-02T02:52:28	TheSkeptic21 The publishers like to sex up the titles to try to increase readership.
+glennchanWordpr	704861748311027718	2016-03-02T02:51:51	TheSkeptic21 
+glennchanWordpr	704823479414222849	2016-03-02T00:19:47	TheSkeptic21 Google Me. 
+glennchanWordpr	704747735250038785	2016-03-01T19:18:48	PlanMaestro Feel free to DM me or email glennchan at gmail!
+glennchanWordpr	704717602610913281	2016-03-01T17:19:04	(Sigh... I've owned Ocwen for a long time.)
+glennchanWordpr	704717462697340932	2016-03-01T17:18:30	Uh... so did Benjamin Lawsky return to the NY DFS?  OCN getting killed.
+glennchanWordpr	704711931307933696	2016-03-01T16:56:31	retardedbearcap BagholderQuotes ROE goggles
+glennchanWordpr	704697062756061184	2016-03-01T15:57:27	ActAccordingly Those numbers would be higher if their rollout didn't suck and all wrestling fans could actually buy WWE Network.
+glennchanWordpr	704012594219196417	2016-02-28T18:37:37	DazeTrader Alright, I guess I'd like to know the ticker then.  Please and thank you.  (DM me or email glennchan at gmail)
+glennchanWordpr	703669026816393217	2016-02-27T19:52:24	HardcoreValue There are mismatches between when electricity is made and when it is needed.  Can't control when renewables make electricity.
+glennchanWordpr	703469680372142080	2016-02-27T06:40:16	WallStCynic Marc Papa picked a good time to step down as CEO.  The guy's really smart.
+glennchanWordpr	703467299194445824	2016-02-27T06:30:48	SOTP discount maybe 15%.  My spreadsheet is outdated though.  
+glennchanWordpr	703467015558848512	2016-02-27T06:29:40	LMCA settles with Vivendi, proceeds of $420M ($775M before tax).  NPV probably higher if taxes get deferred.  
+glennchanWordpr	703465886859010048	2016-02-27T06:25:11	DazeTrader But let me guess... the borrow is really difficult on this stock?
+glennchanWordpr	703465726049443840	2016-02-27T06:24:33	DazeTrader Because 13 is an unlucky number?
+glennchanWordpr	703332830177320960	2016-02-26T21:36:28	tell us how you really feel 
+glennchanWordpr	703463383463567360	2016-02-27T06:15:14	BrattleStCap whoa whoa whoa.  RH's actual sales returns have supposedly gone down dramatically according to their last corrected 10-K.
+glennchanWordpr	703455900846170112	2016-02-27T05:45:30	I blogged about RH early 2014 and started shorting it.  My puts expired last month.  That's my life lol. 
+glennchanWordpr	703027606757707776	2016-02-26T01:23:37	SkeleCap Not something I can buy through ?
+glennchanWordpr	702382779573653504	2016-02-24T06:41:18	BluegrassCap Though to be honest, I'm not sure if RESPA is needed. Very few consumers would be outraged at the kickbacks even if they knew.
+glennchanWordpr	702381873817853953	2016-02-24T06:37:42	BluegrassCap So that's why title insurance is very high margin.  The profits generally go to the mortgage lender (*cough* RESPA).
+glennchanWordpr	702381350045749248	2016-02-24T06:35:38	BluegrassCap Because the RE agents wants to close the deal fast (so it won't fall through), they aren't incentivized to help buyers save $$
+glennchanWordpr	702381098857267200	2016-02-24T06:34:38	BluegrassCap They shop for the best price on a house, but rarely try to get the best deal on the little stuff (which can delay closing).
+glennchanWordpr	702380855038185476	2016-02-24T06:33:40	BluegrassCap A lot of homebuyers will get mortgages through their homebuilder.  And title insurance from their mortgage banker.
+glennchanWordpr	702379894534230016	2016-02-24T06:29:51	BluegrassCap All the homebuilders make a lot of money there because of the order flow.  (*I suspect all mortgage lenders violate RESPA.)
+glennchanWordpr	702218720756813825	2016-02-23T19:49:24	BraveChieftain BluegrassCap Like Jon Snow, I know nothing.  I know nothing about the brokerage industry.
+glennchanWordpr	702217908391432194	2016-02-23T19:46:10	glennchanWordpr Hennick is the CEO of CIGI, so that may *or may not* be the better stock.  Wait for this to get cheap??
+glennchanWordpr	702217563309215745	2016-02-23T19:44:48	seems like he wants to cash out (e.g. he sold his pref after the recap).
+glennchanWordpr	702217435051589632	2016-02-23T19:44:17	BluegrassCap So the Jay Hennick empire is CIGI and FSV.  Excellent management.  They are trying to get share price high because Hennick
+glennchanWordpr	702215223504150529	2016-02-23T19:35:30	BluegrassCap The chairman is a little Malone-like with how he sold shares while minimizing taxes.  Did a recap, then sold the preferred.
+glennchanWordpr	702214143642902529	2016-02-23T19:31:13	AZ_Value oddballstocks SpaceWalk0 WallStCynic Imcompetent (or just sloppy and brazen) but not ignorant.
+glennchanWordpr	702214054954270720	2016-02-23T19:30:51	AZ_Value oddballstocks SpaceWalk0 WallStCynic Valeant knew what they were doing with the bizarre ownership via options structures.
+glennchanWordpr	702209560669462528	2016-02-23T19:13:00	oddballstocks SpaceWalk0 AZ_Value WallStCynic I have no 1st hand xp.  I just see the settlements that they keep paying (no admission)
+glennchanWordpr	702207029247504384	2016-02-23T19:02:56	WallStCynic AZ_Value SpaceWalk0 ESRX is part of the problem.  Their payor clients should be pissed that ESRX allowed "R&amp;O" scripts.
+glennchanWordpr	702206669388820485	2016-02-23T19:01:31	WallStCynic AZ_Value SpaceWalk0 Yes, technically they aren't supposed to take kickbacks.  But people do things they aren't supposed to.
+glennchanWordpr	702204134246645760	2016-02-23T18:51:26	WallStCynic SpaceWalk0 AZ_Value Like the one where drug waste creates bigger profits for the drug manufacturer.  DVA joined that party.
+glennchanWordpr	702203873285402625	2016-02-23T18:50:24	WallStCynic SpaceWalk0 AZ_Value Yeah the shenanigans get complicated.  Like a frickin' hydra.
+glennchanWordpr	702203531093155840	2016-02-23T18:49:02	SpaceWalk0 AZ_Value WallStCynic Look at how Canada has better drug prices and dialysis care.  US system sucks due to corruption.
+glennchanWordpr	702202618123190273	2016-02-23T18:45:25	SpaceWalk0 AZ_Value WallStCynic ...overpriced drugs.  Also, some payors (e.g. smart ones) get a cut of the rebates and some don't.
+glennchanWordpr	702202461281325056	2016-02-23T18:44:47	SpaceWalk0 AZ_Value WallStCynic For medical reasons, almost all drugs belong on formulary.  The question is co-payments to discourage...
+glennchanWordpr	702201226864111616	2016-02-23T18:39:53	SpaceWalk0 AZ_Value WallStCynic The real reason is rebates.  The kind that will lead to allegations of kickbacks and big settlements.
+glennchanWordpr	702201013835423744	2016-02-23T18:39:02	SpaceWalk0 AZ_Value WallStCynic The large PBMs get discounts on the list price.  Big players (like US govt) don't pay list price.
+glennchanWordpr	702199969151758336	2016-02-23T18:34:53	SpaceWalk0 AZ_Value WallStCynic I blogged about some of my ideas on that subject:  
+glennchanWordpr	702199684878630912	2016-02-23T18:33:45	SpaceWalk0 AZ_Value WallStCynic I can see the argument for off-label Vick Vaporub.  However, off label use of drugs can cause problems.
+glennchanWordpr	702199515986591744	2016-02-23T18:33:05	SpaceWalk0 AZ_Value WallStCynic ..trying something else like Jublia is a reasonable course of action.  (But not at $10k/year obviously.)
+glennchanWordpr	702199385422049280	2016-02-23T18:32:34	SpaceWalk0 AZ_Value WallStCynic Because medicine is legitimately complicated.  If topical toenail treatment doesn't work, then...
+glennchanWordpr	702197336802365440	2016-02-23T18:24:25	AZ_Value SpaceWalk0 WallStCynic Nah.  Look at what Michael Lewis did to investment banks (Liars Poker) and HFT with his books.
+glennchanWordpr	702186710130528256	2016-02-23T17:42:12	Stated differently... Valeant Ad Hoc Committee fails to see a problem with VRX lawsuit against R&amp;O.  "substantial progress"
+glennchanWordpr	702186069207359488	2016-02-23T17:39:39	WallStCynic SpaceWalk0 AZ_Value You just described most US healthcare stocks...
+glennchanWordpr	702185855239098368	2016-02-23T17:38:48	VRX stopped talking about its receivables from R&amp;O.  IMO the chance of collecting on those is close to zero, contrary to presentation.
+glennchanWordpr	702184891635511297	2016-02-23T17:34:58	TheSkeptic21 To be fair... it's not really insider selling.  I would be shocked if he sold.  I think he resigned as CFO to avoid lawsuits.
+glennchanWordpr	702183842086408192	2016-02-23T17:30:48	SpaceWalk0 AZ_Value WallStCynic I think we will continue to see payors get bilked because the shenanigans are so complicated.
+glennchanWordpr	702183467543502848	2016-02-23T17:29:19	TheSkeptic21 So this diclosure was not material enough for an 8-K?  Yo, got it.
+glennchanWordpr	702166020375474176	2016-02-23T16:19:59	BuyersStrike Ah ok.  ELIO is on the pink sheets.  I can't borrow it unfortunately.
+glennchanWordpr	702160470891868160	2016-02-23T15:57:56	BuyersStrike is that a ticker symbol?  (For some reason I can't find data on that ticker.)
+glennchanWordpr	702152165352026112	2016-02-23T15:24:56	I learned the hard way that shorting expensive borrow stocks (&gt;10% on IB) is like playing with fire.  So, I never had a position in KBIO.
+glennchanWordpr	702151719430418432	2016-02-23T15:23:09	I was reading the cablecarcapital letter and couldn't help but think of this.  Sometimes you get squeezed. :( KBIO 
+glennchanWordpr	701549580144369664	2016-02-21T23:30:28	Chasing_Value Might also be helpful:  
+glennchanWordpr	701549459641991168	2016-02-21T23:29:59	Chasing_Value “Promising DCA techniques emerge as widespread public debate focuses on shale gas forecasts”
+glennchanWordpr	701549397742489600	2016-02-21T23:29:45	Chasing_Value 
+glennchanWordpr	700228202283855873	2016-02-18T07:59:47	BrattleStCap The problem with news is competition- the large number of competitors makes it really hard to make money.
+glennchanWordpr	700227661461856256	2016-02-18T07:57:38	BrattleStCap ...until they no longer see a positive return on investment.  With digital you can measure ROI very well in some cases.
+glennchanWordpr	700227519618904064	2016-02-18T07:57:04	BrattleStCap I'm not sure why people see online advertising as a zero-sum game.  A lot of advertisers will spend as much as possible...
+glennchanWordpr	699715092183699457	2016-02-16T22:00:52	KidDynamiteBlog Well I hope you don't catch Bieber fever cuz the US healthcare system ain't gonna help you with that.
+glennchanWordpr	699713297948524545	2016-02-16T21:53:44	KenofCostco Berkshire is probably the only company which makes money on its shareholder meeting. No free food, gift bags, or other nonsense
+glennchanWordpr	699395708961611776	2016-02-16T00:51:45	BrattleStCap jay_21_ SkeleCap Tickermaster's accounting wasn't hard to figure out until LYV took over.   
+glennchanWordpr	699084553584013312	2016-02-15T04:15:20	jay_21_ BrattleStCap SkeleCap their accounting is pretty sketchy, I'd rather stay away from it.
+glennchanWordpr	698726691972055040	2016-02-14T04:33:19	PainCapital When it comes to claims from R&amp;O... ESRX clients got shafted, Optum's clients didn't.  ESRX is disingenous.
+glennchanWordpr	698725728968257536	2016-02-14T04:29:30	The real problem is that US healthcare is corrupt and inefficient.  I would blame unethical doctors, politicians, PBMs, pharma cos, etc.
+glennchanWordpr	698725446733529091	2016-02-14T04:28:22	Valeant is brazen about bilking payors... but honestly isn't that evil compared to its peers, some of whom killed patients with overdosing.
+glennchanWordpr	698387661501779969	2016-02-13T06:06:08	Altius Minerals ALS.TO is another company that sold shares at high prices and is now buying back shares.  *No postn
+glennchanWordpr	698384590763745280	2016-02-13T05:53:56	jay_21_ $8.20 to $9.40.  Shares closed $9.05 today.
+glennchanWordpr	698384126777249792	2016-02-13T05:52:05	NSM did secondary offerings when its share price was high.  Now tendering to buy back its own shares.  H/T jay_21_
+glennchanWordpr	697908379902038016	2016-02-11T22:21:38	ProfGillis If NASDAQ cared about Chinese frauds, they would've delisted HGSH.  The SEC went after somebody for manipulating that stock.
+glennchanWordpr	697229978958749704	2016-02-10T01:25:55	jschembs Some old posts of mine:     CoBaF has a thread on it if you haven't seen it already.
+glennchanWordpr	696495408869089285	2016-02-08T00:47:00	HardcoreValue didnt myspace have network effects?
+glennchanWordpr	694901940497440768	2016-02-03T15:15:07	jay_21_ SkeleCap and this is why I read finTwit...
+glennchanWordpr	694513422759624704	2016-02-02T13:31:18	Three ways to spot a fraudulent China company.  
+glennchanWordpr	694872662150000640	2016-02-03T13:18:47	pharmapromoman With the VRX "specialty" pharma model, prices and volume go up hand-in-hand.  A lot of free/cheap drugs were given away.
+glennchanWordpr	694871328021573632	2016-02-03T13:13:29	I don't understand the VRX price/volume dichotomy.  Growth was driven by "specialty" pharma, copay coupons, and possibly "rebates".
+glennchanWordpr	694869296254550017	2016-02-03T13:05:24	BuyersStrike I would invert... figure out which presenters there aren't good shorts.
+glennchanWordpr	694301933129981952	2016-02-01T23:30:55	ShortSightedCap if they make software, consolidation usually isn't that compelling.
+glennchanWordpr	694290215175729152	2016-02-01T22:44:21	BuyersStrike ALDR apparently.  Added him as a director recently.
+glennchanWordpr	693305143002075136	2016-01-30T05:30:01	BuyersStrike But I assume you think CAPM is silly.  So many scams out there, so many insane borrow fees.  Clearly not an efficient market.
+glennchanWordpr	693304876105912320	2016-01-30T05:28:58	BuyersStrike No.  If you have to pay "storage fees" on your capital, there would still be some way to behave rationally.
+glennchanWordpr	693303379112673280	2016-01-30T05:23:01	SIRF_Report theofrancis TMannWSJ robbiewhelan1 Does the guy have an antique map collection?
+glennchanWordpr	693300843421028352	2016-01-30T05:12:56	amacker jwthn Ed Thorp suggests that the Ponzi scheme was a family business.  He also figured it out b4 Markopolos 
+glennchanWordpr	693290026940133376	2016-01-30T04:29:57	TheCreditBubble $40 iron and $2 natgas would've seemed crazy in 2007.
+glennchanWordpr	693288372027166720	2016-01-30T04:23:23	HardcoreValue I think in his own book, Walton knew that he wasn't paying his employees that well. Some of them got stock though (cha ching)
+glennchanWordpr	692230215859310592	2016-01-27T06:18:39	schaudenfraud would you have predicted that CHK would sell NGLs at negative prices?
+glennchanWordpr	692227451666206720	2016-01-27T06:07:40	SkeleCap PainCapital SSCapital13 BluegrassCap His biggest sales were probably in DTV and LTRPA/B.
+glennchanWordpr	692027097640992769	2016-01-26T16:51:31	SkeleCap BrattleStCap Valuetrap13 Unlike software, the attached infrastructure is cap intensive + they cant build data centers that fast.
+glennchanWordpr	692026855906492416	2016-01-26T16:50:34	SkeleCap BrattleStCap Valuetrap13 The R&amp;D on software leads to fixed cost leverage.  That's what I would model.
+glennchanWordpr	692026541673439234	2016-01-26T16:49:19	SkeleCap BrattleStCap Valuetrap13 How much they spend on marketing affects margins, but that's not the right way of looking at it.
+glennchanWordpr	692026423645700096	2016-01-26T16:48:51	SkeleCap BrattleStCap Valuetrap13 On the actual software itself, the cost to deliver it is low (mainly tech support).
+glennchanWordpr	692024535676272640	2016-01-26T16:41:21	SkeleCap BrattleStCap Valuetrap13 AWS is a blend of software and hardware.  The software can have high margins.  AWS is expensive.
+glennchanWordpr	691990120854069248	2016-01-26T14:24:36	Mega_Man_2 marginalidea I'm learning not to throw pennies in front of a steamroller.  Just cover and move onto the next turd.
+glennchanWordpr	691988747802546176	2016-01-26T14:19:08	retardedbearcap mugatushair walt373 Sparticuszorro schaudenfraud Marc Cohodes has some interesting testimony on that subject.
+glennchanWordpr	691988233186643968	2016-01-26T14:17:05	retardedbearcap mugatushair walt373 Sparticuszorro schaudenfraud As in: broker lends out shares they don't have, collects big fees
+glennchanWordpr	691987617974489088	2016-01-26T14:14:39	retardedbearcap mugatushair walt373 Sparticuszorro schaudenfraud Is it because they take compliance seriously + don't do naked shorts?
+glennchanWordpr	691984382660341760	2016-01-26T14:01:47	PainCapital I'd blame institutional investors for putting too much capital into the sector.
+glennchanWordpr	691354928867119110	2016-01-24T20:20:34	PainCapital The mining stock promotes that they own are probably overvalued.  That they own them in the first place is a fail.
+glennchanWordpr	691079506103242752	2016-01-24T02:06:08	inner_scorecard The US military's replacement cycle is highly political and corrupt... very little to do with what weapons win wars.
+glennchanWordpr	689978464586354691	2016-01-21T01:10:59	RHILLTRADER Bacanora minerals BCN on the TSX Venture exchange.  If you use Sentieo you can figure out stuff like that very quickly.
+glennchanWordpr	689975010849591296	2016-01-21T00:57:16	Peter Secker (of Canada Lithium fame) is back and I can't get a borrow on his new stock.  firstworldproblems
+glennchanWordpr	689974119086039043	2016-01-21T00:53:43	John_Hempton Somebody like HSBC, Time Warner, or HP will buy them.
+glennchanWordpr	689962259024580609	2016-01-21T00:06:36	BluegrassCap Cloud computing has been around since the 60s.  The colo guys will lose some of their market to AWS + Google Compute
+glennchanWordpr	689544143324901376	2016-01-19T20:25:09	BuyersStrike So somebody broke into her home office, and then shamed her boyfriend's daughter on Facebook.  I'm supposed to believe that?
+glennchanWordpr	689543642923433984	2016-01-19T20:23:10	BuyersStrike The Teri Buhl thing: Her story is weak... claims that somebody had access to her home office LOL.
+glennchanWordpr	689450930912137218	2016-01-19T14:14:45	Keubiko The CEO actually writes excellent shareholder letters. One of them explained how the stock was pricey, then the stock went up more.
+glennchanWordpr	689449989500633089	2016-01-19T14:11:01	oddballstocks AZ_Value eenoch01 KenofCostco Weschler seems like he has a similar background, is humble, down to earth?  (Affinity.)
+glennchanWordpr	688916642298855425	2016-01-18T02:51:41	jschembs It seems like Malone is hoping that CommerceHub will get a FANG or expedia/Trip multiple.  And then he can sell the crap out of it
+glennchanWordpr	688916518243971072	2016-01-18T02:51:12	jschembs Is the spin tax efficient?  If commerceHub is profitable, that can't be offset with the tax losses from LVNTA debt.
+glennchanWordpr	688042023618768896	2016-01-15T16:56:16	jay_21_ jschembs BluegrassCap content cost/user should go down with scale. OTT competition would increase costs.
+glennchanWordpr	688027857227018240	2016-01-15T15:59:58	jnvest SkeleCap ValueVenture101 TheChuckHeston MarAzul_90 adoption of FTTH is growing rapidly in netherlands, and it's open access.
+glennchanWordpr	687886563192233984	2016-01-15T06:38:31	WallStCynic My mistake, you were talking about insurers/PBMs who have skin in the game, not middlemen managing other people's money.
+glennchanWordpr	687871567276175360	2016-01-15T05:38:56	WallStCynic If they get kickbacks and VRX will indemnify them, then I could see PBMs doing it yes.
+glennchanWordpr	687413402466160641	2016-01-13T23:18:21	ragnarisapirate oddballstocks jschembs almost all stocks have a big name investor in them, if you think about it.
+glennchanWordpr	687345736711680001	2016-01-13T18:49:28	glennchanWordpr I wrote about Barkerville + Peter George over 3 years ago.  
+glennchanWordpr	687345436705685504	2016-01-13T18:48:17	Peter George gets disciplined.  APEGBC doing a little more to protect investors than the BCSC. 
+glennchanWordpr	686617055794053120	2016-01-11T18:33:57	OpposableDrum Even if rose bengal works they're so ****ed.  It's unlikely that patents will protect them.
+glennchanWordpr	685686446955429889	2016-01-09T04:56:03	SIRF_Report The SEC knows what HGSH is 'cuz they went after somebody for manipulation.  But they don't halt it or boot it from NASDAQ.
+glennchanWordpr	685685981744267264	2016-01-09T04:54:12	SIRF_Report and then you have a few SEC staffers who are actually really good at spotting fraud. too bad the DoJ has no balls to prosecute.
+glennchanWordpr	685685817491128320	2016-01-09T04:53:32	SIRF_Report   &lt;-- overfunded guys who enable parasitic market making
+glennchanWordpr	685685434207215616	2016-01-09T04:52:01	SIRF_Report That's a broad generalization no?  There's the pro-HFT charlatans who spend millions to "prove" that there's no problem.
+glennchanWordpr	685309774079066112	2016-01-08T03:59:17	Just diversify your shorts?  e.g. GDXJ JNUG
+glennchanWordpr	685242189698457601	2016-01-07T23:30:43	adamfeuerstein Please start getting on conference calls again!
+glennchanWordpr	685239558057897984	2016-01-07T23:20:16	SkeleCap BraveChieftain awwwwwwwww.  much better :)
+glennchanWordpr	685238671004536832	2016-01-07T23:16:44	SkeleCap BraveChieftain You got me excited when you mentioned kittens.  But this one is like a... not-cute evil capitalist kitten.
+glennchanWordpr	685237643957932032	2016-01-07T23:12:40	SkeleCap BraveChieftain reddit was where people trashed the horizon box.  people don't hate myprime anywhere as much.
+glennchanWordpr	685237190633385985	2016-01-07T23:10:51	SkeleCap BraveChieftain myprime doesnt get very good reviews
+glennchanWordpr	685233588154068996	2016-01-07T22:56:33	BraveChieftain SkeleCap And Fries is kinda crazy.  The horizon box is a POS, and netflix is going to kill myprime.
+glennchanWordpr	685233376077451265	2016-01-07T22:55:42	BraveChieftain SkeleCap I'm not surprised.  Netherlands is highly competitive and it's open access for fibre, which is popular there.
+glennchanWordpr	685229325579325441	2016-01-07T22:39:36	retardedbearcap crowdturtle  (*the quality of my mining analysis hasn't been good lately.  need to spend more time)
+glennchanWordpr	685228558533431298	2016-01-07T22:36:33	crowdturtle All sorts of junior mining garbage in Canada and you want to short profitable companies?
+glennchanWordpr	685228138637471746	2016-01-07T22:34:53	jay_21_ Maybe technology is a bad thing.  Just look at what happened to newspaper and phone book companies.
+glennchanWordpr	684260686768279552	2016-01-05T06:30:35	schaudenfraud Uh, you forgot about Deforestation Hardware RH
+glennchanWordpr	683568951742300160	2016-01-03T08:41:52	crowdturtle people would think that you are crazy.
+glennchanWordpr	683568900064292864	2016-01-03T08:41:40	crowdturtle I feel like if you hopped in a time machine and told people about $4 oil, negative prices for NGLs, Trump being a contender
+glennchanWordpr	682749709895733249	2016-01-01T02:26:30	jay_21_ @CostanzaEffect JSiegel88 The politics in New York can be really bad for business.  Look at what happened to OCN ASPS.
+glennchanWordpr	682086974367379456	2015-12-30T06:33:01	retardedbearcap BuyersStrike what happened to the cash?!  didn't they recently raise capital?
+glennchanWordpr	682086713737490432	2015-12-30T06:31:59	jschembs I can't tell if you're trolling.  EFOI?  IVFH?
+glennchanWordpr	681984484380643328	2015-12-29T23:45:46	PYPL 
+glennchanWordpr	681979711120093186	2015-12-29T23:26:48	SkeleCap You ever play the board game version of Battlestar Galactica?
+glennchanWordpr	681506087334481920	2015-12-28T16:04:47	SkeleCap NTDOY = platform company 
+glennchanWordpr	680975715295195136	2015-12-27T04:57:17	BuyersStrike I'm more worried about all the people that the SEC and DOJ don't go after.  That's the real problem.
+glennchanWordpr	680783034405236736	2015-12-26T16:11:38	SIRI making 52wk highs, XSR.TO (Sirius XM Canada) near 52wk lows.  Doesn't make sense.
+glennchanWordpr	680775512608870401	2015-12-26T15:41:45	"Money lost in a VIE venture will almost certainly never be paid back by the Chinese companies involved in the VIE"  
+glennchanWordpr	679502275585388548	2015-12-23T03:22:21	HardcoreValue I'm the genius who bought puts on this and lost a small amount of money by covering too early.  
+glennchanWordpr	678965671510831104	2015-12-21T15:50:05	pornelski colinbendell 4:2:0 and interlacing in video cause some nasty issues, especially in the real world.  
+glennchanWordpr	678961552226164736	2015-12-21T15:33:43	crowdturtle Tell that to Ted Turner, who allowed the AOL / Time Warner merger to happen.
+glennchanWordpr	678425191211515904	2015-12-20T04:02:24	PlanMaestro BluegrassCap Or maybe they're saying that public companies should pander to the whims of short-term traders like ValueAct.
+glennchanWordpr	678424271677464576	2015-12-20T03:58:45	PlanMaestro BluegrassCap I'm not sure if the move to "cloud" was good for the business.  
+glennchanWordpr	678291461650178049	2015-12-19T19:11:01	Great piece on Martin WilliamCohan! His actions were no secret. I sent SEC a warning in '09 about him when I was 20 
+glennchanWordpr	677916594819862528	2015-12-18T18:21:25	Less Than 2 Percent of Permian Basin Is Commercial at $30 Oil: 
+glennchanWordpr	677879025436520449	2015-12-18T15:52:08	InbornTemper sprucepointcap JacobWolinsky My cursory research shows that Intertain's CEO got scammed by penny stock promoters.
+glennchanWordpr	677878930804609024	2015-12-18T15:51:46	InbornTemper sprucepointcap JacobWolinsky I haven't been blocked by him yet.  I don't get the CEO's "penny stock" connections.
+glennchanWordpr	677616224335884288	2015-12-17T22:27:52	Roddy Boyd “only guy in America dedicated full time to all corporate, all financial fraud investigative reporting.” 

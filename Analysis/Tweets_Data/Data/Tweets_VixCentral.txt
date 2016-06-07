@@ -1,0 +1,270 @@
+VixCentral	726152734265741313	2016-04-29T20:54:37	__i960 Could be. If we see this pattern repeat, it would be interesting to investigate.
+VixCentral	726146872168075268	2016-04-29T20:31:20	This happened at settlement after end of trading and might be a quirk. I would not put too much into this. 2/2
+VixCentral	726146614239318016	2016-04-29T20:30:18	What happened today is very rare. VIX futures contango went up because the second future went up more than the first. 1/2
+VixCentral	726144921720246272	2016-04-29T20:23:35	VIX futures contango settled at 12.44% Contago costs are large for long term VXX and UVXY holders Explanation: 
+VixCentral	726137218218254336	2016-04-29T19:52:58	On days like this I display the "High" and "Low" lines  (click labels on right)  VIX 
+VixCentral	726073847234105345	2016-04-29T15:41:09	Three day change in VIX complex relative to VIX:  This helps get a "feel" for the relationship to VIX
+VixCentral	726068964946792448	2016-04-29T15:21:45	Dashboard to track SPY sectors relative to SPY  Click on different "period" (left upper corner) to change time frame
+VixCentral	725781715566891009	2016-04-28T20:20:20	VIX futures contango settled at 12.14% Contago costs are large for long term VXX and UVXY holders Explanation: 
+VixCentral	725725696157454336	2016-04-28T16:37:43	To see first and second future roll yield on , mouse over the VIX line to show tooltip. 
+VixCentral	725420306236608517	2016-04-27T20:24:13	VIX futures contango settled at 13.89% Contago costs are large for long term VXX and UVXY holders Explanation: 
+VixCentral	725058937259757568	2016-04-26T20:28:16	Nairiyya There is. Buy the Dec future and sell the Nov one. But take into account that the backwardation is because of the Dec effect.
+VixCentral	725057165560520707	2016-04-26T20:21:13	VIX futures contango settled at 13.19% Contago costs are large for long term VXX and UVXY holders Explanation: 
+VixCentral	724697596317585410	2016-04-25T20:32:25	VIX curve starting to fall back into equilibrium VVIX SPX VX_F 
+VixCentral	724697352129417216	2016-04-25T20:31:27	kaufmaga The VIX futures are basically unchanged from yesterday.
+VixCentral	724695137885007873	2016-04-25T20:22:39	VIX futures contango settled at 12.02% Contago costs are large for long term VXX and UVXY holders Explanation: 
+VixCentral	724622376432992256	2016-04-25T15:33:32	This is good advice for avoiding 2008 and 2011 like catastrophes. 
+VixCentral	724617986380861440	2016-04-25T15:16:05	How quickly can VIX futures contango turn to backwardation? Very quickly if the VIX spikes. 
+VixCentral	724611513080786945	2016-04-25T14:50:22	kaufmaga Here is an example of how the process happened last August. If there is a VIX spike it can happen quickly 
+VixCentral	723906801192865792	2016-04-23T16:10:05	EconomPic ReformedBroker That is a good point. Understanding VXX and UVXY is more difficult than understanding options.
+VixCentral	723883948657532928	2016-04-23T14:39:17	ReformedBroker In all fairness it is an alternative to buying puts. The question is what is cheaper? That depends on VIX term structure
+VixCentral	723608192140382208	2016-04-22T20:23:31	VIX futures contango settled at 11.44% Contago costs are large for long term VXX and UVXY holders Explanation: 
+VixCentral	723245973699481600	2016-04-21T20:24:12	VIX futures contango settled at 10.13% Contago costs are large for long term VXX and UVXY holders Explanation: 
+VixCentral	723228368204779521	2016-04-21T19:14:14	The roll yield is about 20% (difference between first VIX monthly future and VIX spot) 
+VixCentral	722893559372709892	2016-04-20T21:03:49	philBLong UVXY just holds VIX futures but the relation between them governs rebalancing. Same level of derivative as contango?
+VixCentral	722885185117630464	2016-04-20T20:30:33	Options are derivatives of SPY, VIX derivative of options. VIX futures derivatives of VIX. Contango derivative of futures. (4th order)
+VixCentral	722883233906429952	2016-04-20T20:22:48	VIX futures contango settled at 9.13% Contago costs are large for long term VXX and UVXY holders Explanation: 
+VixCentral	722530333883809793	2016-04-19T21:00:30	NerdElert Making money going long volatility requires excellent timing. The odds are stacked against you
+VixCentral	722522731389038593	2016-04-19T20:30:17	VIX futures contango settled at 22.45% Contago costs are huge for long term VXX and UVXY holders Explanation: 
+VixCentral	722482378061541377	2016-04-19T17:49:56	whereismy757 Not that I know. Near and after expiration XIV is basically just short one kind of future so trading is same with that futur
+VixCentral	722480500733030400	2016-04-19T17:42:29	Tomorrow the April VIX future expires and contango will fall as it usually does. Example from last month: 
+VixCentral	722230225749286913	2016-04-19T01:07:58	MLMT1 QuantEdges There will be less contango losses from holding VXX and UVXY
+VixCentral	722229984648163329	2016-04-19T01:07:01	Eric__Kelly zerohedge On a daily basis XIV is designed to move the inverse of VXX in percent. This is its normal behavior
+VixCentral	722163480569188353	2016-04-18T20:42:45	Volatility mean reverts, but contango losses are forever:  VIX is flat year over year, but VXX and UVXY show loss
+VixCentral	722158855615090693	2016-04-18T20:24:22	Looking forward, after expiration of the April VIX future Wednesday morning, contango will be around 8% with the current term structure.
+VixCentral	722157829558243329	2016-04-18T20:20:18	VIX futures contango settled at 17.36% Contago costs are huge for long term VXX and UVXY holders Explanation: 
+VixCentral	721370799312125952	2016-04-16T16:12:55	kaufmaga It is difficult to forecast contango. Some relief when the April future expires next week. The June-May contango is now about 8%
+VixCentral	721074103856283653	2016-04-15T20:33:57	NerdElert Thank you. The VIX menagerie is complicated to understand and I try to help a little.
+VixCentral	721072814279802880	2016-04-15T20:28:50	agwarner Is TheVIXisTooDamnHigh accurate? Asking for a friend 
+VixCentral	721071118350749697	2016-04-15T20:22:06	VIX futures contango settled at 15.96% Contago costs are huge for long term VXX and UVXY holders Explanation: 
+VixCentral	720976915587297280	2016-04-15T14:07:46	6_Figure_Invest How is the liquidity and what are the bid ask spreads for the options the VIX is computed from during these hours?
+VixCentral	720759156790136833	2016-04-14T23:42:28	jcvictory I can go to YUGE
+VixCentral	720715817378295808	2016-04-14T20:50:15	penultsquire gubbmintcheese Yes, that is correct.
+VixCentral	720708909732884480	2016-04-14T20:22:48	VIX futures contango settled at 17.72% Contago costs are huge for long term VXX and UVXY holders Explanation: 
+VixCentral	720638074397573120	2016-04-14T15:41:20	Tradometry It hasn't been predictive in the past. Insurance costs going up after a major hurricane hits do not predict future hurricanes.
+VixCentral	720633348360642560	2016-04-14T15:22:33	If calm continues, expectations of higher long term volatility will diminish and VIX futures contango will go down. /3
+VixCentral	720632130959749120	2016-04-14T15:17:43	The calm after the '11 turmoil led to huge contango because investor views on long term volatility changed. Same now to lesser extent /2
+VixCentral	720631535129534464	2016-04-14T15:15:21	Long term expectations of volatility determine VIX futures contango. These are influenced by extended turmoil. /1 
+VixCentral	720628421324357634	2016-04-14T15:02:58	rossdt Please go to  and click the "Contango" tab.You can zoom in on areas of interest by selecting an area on graph
+VixCentral	720346326433574912	2016-04-13T20:22:02	VIX futures contango settled at 17.88% Contago costs are huge for long term VXX and UVXY holders Explanation: 
+VixCentral	720342979538456576	2016-04-13T20:08:44	Longer term VIX futures are causing the high contango. Term structure steeper than last year while near future same 
+VixCentral	720267172321239040	2016-04-13T15:07:30	Analogy steal: Black cat is VIX futures contango dragging down VXX and UVXY and smothering vol changes (other cat 
+VixCentral	719984857770823683	2016-04-12T20:25:41	VIX futures contango settled at 14.76% Contago costs are yuge for long term VXX and UVXY holders Explanation: 
+VixCentral	719984097855172612	2016-04-12T20:22:40	conorsen jaredwoodard "If you think people aren’t going to get clubbed like baby seals [] at the convention.." Anna Navarro 1% on the seal
+VixCentral	719926145458839552	2016-04-12T16:32:23	GraniteGrab I can't predict VIX direction, but given the structure of the VIX term structure it is cheaper to hedge with VXZ over VXX
+VixCentral	719924911502974976	2016-04-12T16:27:29	Since mid Feb, VIX futures F1-F2 contango trending up while F4-F7 remains about the same. Advantage VXZ over VXX 
+VixCentral	719621424198131713	2016-04-11T20:21:32	VIX futures contango settled at 11.42% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	719578833813417989	2016-04-11T17:32:17	rplenge These analysis do not take into account splice variants. At most they show that 10% of genes create druggable proteins.
+VixCentral	718536361494605824	2016-04-08T20:29:52	scott_minnesota vxx46 Contango of 11% can be easily dwarfed by a volatility spike. Contango works long term.
+VixCentral	718534463974727680	2016-04-08T20:22:20	VIX futures contango settled at 11.09% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	718171618137268224	2016-04-07T20:20:31	VIX futures contango settled at 9.26% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	718091121486913536	2016-04-07T15:00:39	wind4me markbspiegel OptionPit Not too bad. That is a one week road show for Elon Musk...
+VixCentral	718086439464992768	2016-04-07T14:42:03	OptionPit The practical question is the following: How much capital investment does TSLA need to deliver 300K+ cars in 2017?
+VixCentral	717809553681858560	2016-04-06T20:21:48	VIX futures contango settled at 11.52% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	717808575146508289	2016-04-06T20:17:55	mshideler The VIX futures options trade on the CBOE while the futures trade on the CFE. Out of curiosity, why does that matter?
+VixCentral	717446999981821956	2016-04-05T20:21:08	VIX futures contango settled at 9.84% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	717429301629599744	2016-04-05T19:10:49	Nairiyya Yes, VXZ is much more liquid than TVIZ. But the bid ask spread is not too bad.
+VixCentral	717084949048913920	2016-04-04T20:22:29	VIX futures contango settled at 10.68% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	716987933400645632	2016-04-04T13:56:58	Currently TVIZ is a much better hedge than VXX. While correlated contango costs are 4% per month compared to 11%. 
+VixCentral	716984836095942657	2016-04-04T13:44:40	The "smart" money should know how to compare cost of hedging between VXX, UVXY, VXZ, TVIZ and plain SPY puts 
+VixCentral	715997424221884417	2016-04-01T20:21:03	VIX futures contango settled at 11.35% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	715970280791875584	2016-04-01T18:33:11	conorsen Interesting but a little misleading because does not take into account population density
+VixCentral	715635293651648512	2016-03-31T20:22:04	VIX futures contango settled at 10.68% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	715275669752705029	2016-03-30T20:33:03	Comparing volatility related indices and instruments to VIX over the last 2 weeks: 
+VixCentral	715272644074061826	2016-03-30T20:21:02	VIX futures contango settled at 10.25% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	715251270114754560	2016-03-30T18:56:06	agwarner tradevolatility aaljechin For trashing UVXY you deserve at least brunch
+VixCentral	715242194211377156	2016-03-30T18:20:02	agwarner True for long term holders of UVXY
+VixCentral	715241379128061952	2016-03-30T18:16:47	The VIX term structure is not complacent leading to large contango and roll yield.  
+VixCentral	714928558355841025	2016-03-29T21:33:45	The VIX complex got absolutely demolished today SPX 
+VixCentral	714911229714817026	2016-03-29T20:24:54	VIX futures contango settled at 10.89% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	714899671890657280	2016-03-29T19:38:58	VIX futures F1-F2 contango has grown while F4-F7 has remained the same. Consider hedging with VXZ instead of VXX 
+VixCentral	714893575943823361	2016-03-29T19:14:45	With the current VIX futures term structure contango will be 17% to 18% near expiration of the April future in 21 days
+VixCentral	714832976949981185	2016-03-29T15:13:57	I hope that the fund managers mentioned know how to compare VXX VXZ and puts and find the cheapest way to hedge 
+VixCentral	714547820318040064	2016-03-28T20:20:50	VIX futures contango settled at 9.64% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	713377069409939456	2016-03-25T14:48:41	6_Figure_Invest Could you elaborate more please?
+VixCentral	713100272571179008	2016-03-24T20:28:48	The shape of the VIX term structure is such that it is much cheaper to hedge with VXZ than with VXX (holding 2x VXZ instead of VXX)
+VixCentral	713098161422802944	2016-03-24T20:20:25	VIX futures contango settled at 9.78% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	712736494113435648	2016-03-23T20:23:16	VIX futures contango settled at 8.46% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	712706493783674880	2016-03-23T18:24:04	ian760105 Yes, but take into account that over the short term any contango gains can easily be dwarfed by changes in the term structure
+VixCentral	712378002244558849	2016-03-22T20:38:45	chewy8286 Only if the term structure remains the same.
+VixCentral	712374078246617088	2016-03-22T20:23:10	VIX futures contango is over 9% with 28 days to expiration. If term structure remains the same we can expect 15% or higher near expiration.
+VixCentral	712373183203168256	2016-03-22T20:19:36	VIX futures contango settled at 9.21% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	712292960365322240	2016-03-22T15:00:50	Last year's term structure on April 15th versus today. If you're long VXX, be aware: 
+VixCentral	712292627740233729	2016-03-22T14:59:30	6_Figure_Invest Not sure. The whole VIX future term structure is elevated relative to the indices 
+VixCentral	712288574331363328	2016-03-22T14:43:24	6_Figure_Invest After bouts of high volatility the long term futures remain elevated longer creating higher contango and roll yield
+VixCentral	712018916357378048	2016-03-21T20:51:52	6_Figure_Invest yes. Do you see significant differences between the upside and downside parts of the distribution?
+VixCentral	712014307333165056	2016-03-21T20:33:34	VIX futures contango settled at 8.25% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	711940897173344256	2016-03-21T15:41:51	Very interesting. Has huge implications for option pricing. 
+VixCentral	711207279505367041	2016-03-19T15:06:43	cyberSM7 Costs include margin interest, price of options, how much UVXY or similar are expected to go down, trading costs etc.
+VixCentral	711197066056306689	2016-03-19T14:26:08	cyberSM7 Not necessarily. Factors to consider: 1) Capital required (margin)  2) Effortrequired to manage hedge 3) Cost 4) Effectiveness
+VixCentral	711194306757980161	2016-03-19T14:15:10	cyberSM7 You have to compare the costs of holding UVXY vs. other hedging strategies like buying puts. UVXY cost now about 13% per month.
+VixCentral	710924609122656256	2016-03-18T20:23:29	VIX futures contango settled at 6.49% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	710562087949443073	2016-03-17T20:22:58	VIX futures contango settled at 5.91% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	710561636038418433	2016-03-17T20:21:10	EconomPic agwarner Pfft, only VXX counts
+VixCentral	710199698586529792	2016-03-16T20:22:57	VIX futures contango settled at 4.92% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	710178476289093632	2016-03-16T18:58:37	agwarner Jim Cramer said this morning that Yellen should warn that Trump may abolish the Fed's independence
+VixCentral	710133226665287680	2016-03-16T15:58:49	fksthlm Maybe fed related.
+VixCentral	710130983023091713	2016-03-16T15:49:54	Though VIX term structure has not changed, contango from yesterday changed because of expiration of front future. 
+VixCentral	710128750416027648	2016-03-16T15:41:02	VIX term structure with weeklies provides a forecast for the April contract if the term structure remains the same. 
+VixCentral	709839493612838912	2016-03-15T20:31:38	kishorshah12345 No, not at all. It just means that the March future will no longer be traded and the front future will be April.
+VixCentral	709838891646324736	2016-03-15T20:29:14	Just a reminder that even though VIX futures contango is 12.87% now, it will be down to about 4% tomorrow after the front future expires
+VixCentral	709838222889717761	2016-03-15T20:26:35	VIX futures contango settled at 12.87% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	709817703192793088	2016-03-15T19:05:02	agwarner harmongreg I looked at the fine print and it does. However all the correlation graphs are VIX spot and not what u can really buy
+VixCentral	709749686517764097	2016-03-15T14:34:46	VIX futures contango is around 9% today but will be 3%-4% after expiration of front VIX future tomorrow morning.
+VixCentral	709474330212757504	2016-03-14T20:20:36	VIX futures contango settled at 8.03% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	708402562379157504	2016-03-11T21:21:47	VIX futures contango settled at 8.37% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	708337909930266624	2016-03-11T17:04:52	VIX futures contango is above 7% today but with the front month expiring next week it will be back to around 4% with current term structure
+VixCentral	708041611352137728	2016-03-10T21:27:29	VIX futures contango settled at 5.15% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	708026916473868289	2016-03-10T20:29:06	So far we can characterize the day in volatility as "there and back again" 
+VixCentral	707677640551956480	2016-03-09T21:21:12	VIX futures contango settled at 5.50% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	707315819525611520	2016-03-08T21:23:27	VIX futures contango settled at 5.35% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	707263309540622336	2016-03-08T17:54:47	aaljechin I don't see any important difference. Basically the same.
+VixCentral	707258843814875138	2016-03-08T17:37:03	dynamicvol The volume in VIX futures and the tight spreads make any alternative very unlikely to succeed.
+VixCentral	707257398650671105	2016-03-08T17:31:18	BATS launches alternative to VIX based on electronic trading. I don't see the utility, futures matter not the spot 
+VixCentral	706953582680150021	2016-03-07T21:24:03	VIX futures contango settled at 6.73% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	706889406691602436	2016-03-07T17:09:02	The correlation between the CBOE volatility indexes and VIX explains why almost all the volume is in VIX futures: 
+VixCentral	706147511052931072	2016-03-05T16:01:00	agwarner SBNation Sad but true. Plus, Trump U would not fire the damn canon every time they score some junk points.
+VixCentral	705869063566786560	2016-03-04T21:34:33	HutchCPA_I agwarner Some people hold VXX and UVXY as insurance. It is sometimes cheaper to own than put options on SPX
+VixCentral	705866025317875712	2016-03-04T21:22:29	VIX futures contango settled at 5.81% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	705787735311847428	2016-03-04T16:11:23	All the VIX term structure, including the weeklies is in contango. 
+VixCentral	705503059221291008	2016-03-03T21:20:11	VIX futures contango settled at 6.55% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	705459684665401344	2016-03-03T18:27:50	If there is a brokered Republican convention perhaps Republicans should follow Lewis Black's advice:  
+VixCentral	705226048867332097	2016-03-03T02:59:27	troll1184 Could be, though I have seen this effect in previous years also.
+VixCentral	705141079151153153	2016-03-02T21:21:48	VIX futures contango settled at 5.19% Contago costs are high for long term VXX and UVXY holders Explanation: 
+VixCentral	705126044655886336	2016-03-02T20:22:04	It looks like there is a small August effect in the VIX term structure due to less happening in Europe. Thoughts? 
+VixCentral	705105314807463936	2016-03-02T18:59:41	tradevolatility EconomPic Sure, taking long vacations.
+VixCentral	705104688895684608	2016-03-02T18:57:12	EconomPic I like the concept, but I am worried about the low volumes in PUTW
+VixCentral	704778678551625728	2016-03-01T21:21:45	VIX futures contango settled at 4.63% Contago costs are medium for long term VXX and UVXY holders Explanation: 
+VixCentral	704746046233190401	2016-03-01T19:12:05	VIX futures F4-F7 hardly in backwardation relative to F1-F2. ZIV only hurt by churn. VXZ VXX SVXY XIV 
+VixCentral	704743130634002432	2016-03-01T19:00:30	VIX Term Structure back to the Good Old Days of Contango, careful "bottom fishing" VXX 
+VixCentral	704691238600052736	2016-03-01T15:34:18	vxx46 Sure, you can use the tool to create any view you like. Add quotes, change graph size etc. Just click "New View" to get blank page
+VixCentral	704687899434991620	2016-03-01T15:21:02	The healing process over the last couple of weeks:  VIX SPX SPY
+VixCentral	704423688897220612	2016-02-29T21:51:09	VIX futures contango settled at 1.84% Contago costs are low for long term VXX and UVXY holders Explanation: 
+VixCentral	703615691144859648	2016-02-27T16:20:27	VIX future term structure still quite flat and elevated.  Lower line is Aug 3, 2015.  No "all clear" yet. 
+VixCentral	703348648759992321	2016-02-26T22:39:20	VIX futures contango settled at 1.63% Contago costs are low for long term VXX and UVXY holders Explanation: 
+VixCentral	702969098129580032	2016-02-25T21:31:08	VIX futures contango settled at 2.88% Contago costs are low for long term VXX and UVXY holders Explanation: 
+VixCentral	702604323050659841	2016-02-24T21:21:39	VIX futures contango settled at 1.61% Contago costs are low for long term VXX and UVXY holders Explanation: 
+VixCentral	702576098731827200	2016-02-24T19:29:29	On days like this I like viewing the "High" and "Low" series (click on side of graph to view) VIX 
+VixCentral	702520295509389312	2016-02-24T15:47:45	With the weeklies, the VIX term structure looks somewhat less flat. 
+VixCentral	702519683090669568	2016-02-24T15:45:19	VIX term structure extremely flat. Market predicts VIX will be about 23 for a long time. 
+VixCentral	702242475516284928	2016-02-23T21:23:47	VIX futures contango settled at 1.58% Contago costs are low for long term VXX and UVXY holders Explanation: 
+VixCentral	701879770871541760	2016-02-22T21:22:32	VIX futures contango settled at 2.85% Contago costs are low for long term VXX and UVXY holders Explanation: 
+VixCentral	701804580275785728	2016-02-22T16:23:45	chewy8286 Perhaps higher, over 3%. We'll see at the close.
+VixCentral	701800324097441793	2016-02-22T16:06:50	Both March and April VIX futures almost down as much as the spot  
+VixCentral	700794574759825408	2016-02-19T21:30:21	meigsjon When VIX futures move into backwardation it is time to reassess.
+VixCentral	700792987874234368	2016-02-19T21:24:03	VIX futures contango settled at 1.68% Contago costs are low for long term VXX and UVXY holders Explanation: 
+VixCentral	700775630351134722	2016-02-19T20:15:04	Jan 15: My two favorite indicators for "all clear" are: 1) VVIX around 80  2) No backwardation We are quite far yet Update: Getting there
+VixCentral	700430028517953536	2016-02-18T21:21:46	VIX futures contango settled at 1.76% Contago costs are low for long term VXX and UVXY holders Explanation: 
+VixCentral	700408981970223104	2016-02-18T19:58:08	manaxt1 The Feb future did.
+VixCentral	700404650516742144	2016-02-18T19:40:56	VIX futures movement relative to VIX today:  Because expiration is far, small relative movement in futures
+VixCentral	700350525250756608	2016-02-18T16:05:51	Unsettled market today, SPX, VIX, &amp; VIX Futures all down.  VIX Term Structure very flat 
+VixCentral	700068056232382464	2016-02-17T21:23:25	VIX futures contango settled at 0.65% Contago costs are low for long term VXX and UVXY holders Explanation: 
+VixCentral	700061204614492160	2016-02-17T20:56:12	Thank you business  
+VixCentral	700046466648113152	2016-02-17T19:57:38	chewy8286 Yes it would.
+VixCentral	700041204847607808	2016-02-17T19:36:44	Go contango go! You can do it. Let's beat backwardation today!
+VixCentral	699969969048592384	2016-02-17T14:53:40	After expiration, the term structure is basically flat. Market is pricing VIX between 23 and 24 for all expirations 
+VixCentral	699708053906567168	2016-02-16T21:32:54	Right now, the VIX futures are indicating no backwardation for tomorrow. Of course, if the market goes down, this will not hold
+VixCentral	699707588288520192	2016-02-16T21:31:03	VIX futures contango settled at -3.64% (backwardation) This is a tail wind for long term VXX UVXY holders 
+VixCentral	699625295985270784	2016-02-16T16:04:03	Because of the expiration today, VIX futures contango may be around 0 tomorrow. If the market is up tomorrow, the backwardation run may end
+VixCentral	698264372456501248	2016-02-12T21:56:14	chewy8286 We are close to expiration and that aggravates both contango and backwardation. After expiration, it will go down significantly
+VixCentral	698255663604961280	2016-02-12T21:21:37	VIX futures contango settled at -6.51% (backwardation) This is a tail wind for long term VXX UVXY holders 
+VixCentral	698174372733808640	2016-02-12T15:58:36	Nice overview of the meaning and consequences of negative interest rates: 
+VixCentral	697892960013189120	2016-02-11T21:20:22	VIX futures contango settled at -8.36% (backwardation) This is a tail wind for long term VXX UVXY holders 
+VixCentral	697871521121902593	2016-02-11T19:55:11	saumvaish A convenient way to follow the VIX term structure: 
+VixCentral	697821555556888577	2016-02-11T16:36:38	Volatility dashboard: Absolute:  Relative to VXX :  VIX UVXY
+VixCentral	697531155487174656	2016-02-10T21:22:41	VIX futures contango settled at -6.28% (backwardation) This is a tail wind for long term VXX UVXY holders 
+VixCentral	697169150070824961	2016-02-09T21:24:12	VIX futures contango settled at -6.32% (backwardation) This is a tail wind for long term VXX UVXY holders 
+VixCentral	697158809815363584	2016-02-09T20:43:07	To see the ratios between the different VIX related indexes, mouse over the VIX line  
+VixCentral	697156721114902528	2016-02-09T20:34:49	jsoloff jaredwoodard Stocks and bonds have been around a long time and the pitfalls associated with them are known. New products less so.
+VixCentral	697152408309276672	2016-02-09T20:17:41	jaredwoodard The argument is that it is better not to invest in financial products you don't fully understand.
+VixCentral	697122187757498369	2016-02-09T18:17:36	Dashboard I currently use to track oil:  oil
+VixCentral	697069431797583872	2016-02-09T14:47:58	I use this dashboard of the SPY sectors vs. the SPY At a glimpse I can see what sectors are moving the market 
+VixCentral	696813790025789440	2016-02-08T21:52:08	DailyStockPlays In the short term volatility changes are paramount. Longer term it is the contango/backwardation as volatility mean reverts
+VixCentral	696812472322301953	2016-02-08T21:46:54	The movement today in the VIX complex relative to VIX and VXX 
+VixCentral	696807180805107712	2016-02-08T21:25:52	Today's VIX term structure range was quite dramatic 
+VixCentral	696806576884051968	2016-02-08T21:23:28	VIX futures contango settled at -5.70% (backwardation) This is a tail wind for long term VXX UVXY holders 
+VixCentral	696712554492485632	2016-02-08T15:09:51	CNBCnow The 6 month graphs are vicious: 
+VixCentral	696710183993495552	2016-02-08T15:00:26	Track all NDX stocks visually:  Track all DJIA stocks visually: 
+VixCentral	695719634880720896	2016-02-05T21:24:21	VIX futures contango settled at -4.46% (backwardation) This is a tail wind for long term VXX UVXY holders 
+VixCentral	695672671296626688	2016-02-05T18:17:44	A three day view of the changes in all NDX components: 
+VixCentral	695356780495269888	2016-02-04T21:22:30	VIX futures contango settled at -2.60% (backwardation) This is a tail wind for long term VXX UVXY holders 
+VixCentral	695003532198412288	2016-02-03T21:58:49	Grotection The definition of backwardation I use is just about futures, in this case specifically the first and second future.
+VixCentral	694994350099427328	2016-02-03T21:22:20	VIX futures contango settled at -2.63% (backwardation) This is a tail wind for long term VXX UVXY holders 
+VixCentral	694991332310327296	2016-02-03T21:10:20	WizDayTrader You can add that ticker to the dashboard I linked to also
+VixCentral	694984223174819840	2016-02-03T20:42:05	Interesting day in the VIX complex 
+VixCentral	694952086837026818	2016-02-03T18:34:23	We have been in backwardation (the first VIX future higher than the second) since January 4 
+VixCentral	694633730665750528	2016-02-02T21:29:21	tradevolatility My point is that the relation between VIX and its futures is very murky. Are both dependent on SPY and not each other?
+VixCentral	694632498911932416	2016-02-02T21:24:28	VIX futures contango settled at -3.24% (backwardation) This is a tail wind for long term VXX UVXY holders 
+VixCentral	694631147037392896	2016-02-02T21:19:05	agwarner Imagine the problems for traders in the middle east if it were pork belly futures!
+VixCentral	694630252115533824	2016-02-02T21:15:32	Which begs the question: What are the VIX futures trading of when the spot is not quoted? 
+VixCentral	694347281831743489	2016-02-02T02:31:06	VIX futures contango settled at -1.39% (backwardation) This is a tail wind for long term VXX UVXY holders 
+VixCentral	694182483223564288	2016-02-01T15:36:15	MktOutperform The yield on gold is about -0.40% not 0%. That is the yearly expense for holding GLD , the most convenient way to buy gold.
+VixCentral	693242817280352256	2016-01-30T01:22:22	MktOutperform Convenient way to show this data using the dashboard tool:  You can change periods etc.
+VixCentral	693182166822428673	2016-01-29T21:21:21	VIX futures contango settled at -1.39% (backwardation) This is a tail wind for long term VXX UVXY holders
+VixCentral	693117091176681472	2016-01-29T17:02:46	My dashboard for following all CBOE volatility indexes: 
+VixCentral	693092163819847681	2016-01-29T15:23:43	EconomPic If too many people just leave money in cash, the banks then slap fees that make it not worthwhile. (2)
+VixCentral	693091894230962178	2016-01-29T15:22:39	EconomPic You need a carry trade to make money. So you may buy corporate yen bonds. But that is risky. (1)
+VixCentral	693086569415208961	2016-01-29T15:01:29	schaeffers agwarner Does the analysis take into account bid-ask spreads and commissions?
+VixCentral	693080848388747265	2016-01-29T14:38:45	EconomPic The banks start charging you for holding cash.
+VixCentral	692925138661146625	2016-01-29T04:20:01	kishorshah12345 yahoo finance or go to  and there is a graph of VVIX under the main graph
+VixCentral	692885088292331520	2016-01-29T01:40:52	ringo_ding I don't see the problem. Try reload  I noticed many people from China following this specific historical data link. Why is that?
+VixCentral	692884018233085952	2016-01-29T01:36:37	VVIX is one of my favorite indicators, totally agree. 
+VixCentral	692836265637511170	2016-01-28T22:26:52	Morningmare I'll need to figure out the best way to do this
+VixCentral	692836002470035456	2016-01-28T22:25:49	chewy8286 volatility goes up quickly and usually comes down slowly.
+VixCentral	692831951317651458	2016-01-28T22:09:44	VIX futures contango settled at -3.44% (backwardation) This is a tail wind for long term VXX UVXY holders  
+VixCentral	692695009599033344	2016-01-28T13:05:34	The new way to track VIX ETFs  agwarner (h/t VixCentral)
+VixCentral	692457782696611842	2016-01-27T21:22:55	VIX futures contango settled at -3.58% (backwardation) This is a tail wind for long term VXX UVXY holders  
+VixCentral	692387137874960384	2016-01-27T16:42:12	RussellRhoads tradevolatility Take a look at  Click the buttons to right of "Period" label change time scale
+VixCentral	692375726989950978	2016-01-27T15:56:51	schaeffers agwarner Suprisingly, OVX is correlated well with VXX over last year  (you can change the period)
+VixCentral	692369812413091844	2016-01-27T15:33:21	The companion dashboard for the VIX term structure:  Try changing size of graphs. Click "m" near the "Size" label.
+VixCentral	692101691932594180	2016-01-26T21:47:56	Daily movement of VIX related instruments in comparison to VXX and VIX :  
+VixCentral	692099504934359042	2016-01-26T21:39:15	VIX futures contango settled at -3.06% (backwardation) This is a tail wind for long term VXX UVXY holders  
+VixCentral	691822789423136769	2016-01-26T03:19:41	LagavulinArdbeg Could you please check if it is working now? I think I may have found the problem. Thanks again.
+VixCentral	691776891162861568	2016-01-26T00:17:18	LagavulinArdbeg thanks, I'll check it out.
+VixCentral	691744162367082496	2016-01-25T22:07:14	My dashboard for comparing various VIX related instruments to VIX and VXX :  Add your own tickers!
+VixCentral	691732589661548544	2016-01-25T21:21:15	VIX futures contango settled at -3.54% (backwardation) This is a tail wind for long term VXX UVXY holders  
+VixCentral	691688485632262144	2016-01-25T18:26:00	EconomPic Not sure how to compare future views on 30 day volatility with say 90 and 120 day implied volatility. But something is strange
+VixCentral	691687844323147776	2016-01-25T18:23:27	EconomPic No, the naming is confusing but the data is right. They use VIX like methodology to compute these but use longer dated options
+VixCentral	691654635719909376	2016-01-25T16:11:30	I'm testing a new dashboard/graph viewer:  Drag and drop the graphs to arrange as you like. Create your own views.
+VixCentral	691646005297729536	2016-01-25T15:37:12	It is indeed perplexing. Would be happy to hear ideas on this. Also on why VXV is not in sync with the futures. 
+VixCentral	691640254252609536	2016-01-25T15:14:21	schaeffers agwarner Also perplexed as to why the indices are so much higher than the futures. Any ideas? 
+VixCentral	690688041694957573	2016-01-23T00:10:36	TCMLLC Unfortunately, as far as my analysis shows, there is no predictive power to this setup.
+VixCentral	690687635891843072	2016-01-23T00:08:59	EconomPic Yes, not clear (at least to me) what is going on. 
+VixCentral	690648356679458817	2016-01-22T21:32:54	BankofVol Yes, I am referring to the futures.
+VixCentral	690645753417568256	2016-01-22T21:22:33	VIX futures contango settled at -2.42% (backwardation) This is a tail wind for long term VXX UVXY holders  
+VixCentral	690640656017051648	2016-01-22T21:02:18	ian760105 Not necessarily, It is more related to the cost of rolling the mid-term futures vs. the near term futures, VXX vs VXZ
+VixCentral	690603048100564992	2016-01-22T18:32:52	The F4-F7 contango has hardly been negative the last six months compared to the F1-F2 contango VIX 
+VixCentral	690283727704985602	2016-01-21T21:24:00	VIX futures contango settled at -3.99% (backwardation) This is a tail wind for long term VXX UVXY holders  
+VixCentral	689921598099460098	2016-01-20T21:25:01	VIX futures contango settled at -3.24% (backwardation) This is a tail wind for long term VXX UVXY holders  
+VixCentral	689918604675043329	2016-01-20T21:13:08	On days like these I like to look at the "High" and "Low" (click on right of the graph to display these series) VIX 
+VixCentral	689878265390047232	2016-01-20T18:32:50	How the VIX term structure evolved in January. 
+VixCentral	689563425438064641	2016-01-19T21:41:46	RalphJLindblom You are right about tomorrow. I frequently highlight the fact that contango tends to jump at expiration.
+VixCentral	689558542110556160	2016-01-19T21:22:22	VIX futures contango settled at -7.06% (backwardation) This is a strong tail wind for long term VXX UVXY holders  
+VixCentral	689464022580748288	2016-01-19T15:06:47	I agree, there is no panic. Unfortunately, investors in volatility need to be worried all the time. 
+VixCentral	688933277927878656	2016-01-18T03:57:47	pskirball yes, typo
+VixCentral	688754097604943873	2016-01-17T16:05:47	Great overview. When I talk about "backwardation" I mean that the second month VIX future is higher than the first. 
+VixCentral	688420621689204736	2016-01-16T18:00:41	Well worth watching. Very interesting. 
+VixCentral	688108765187411974	2016-01-15T21:21:28	VIX futures contango settled at -8.03% (backwardation) This is a strong tail wind for long term VXX UVXY holders  
+VixCentral	687749109541896192	2016-01-14T21:32:20	GEQSense Sometimes its better to buy puts, sometimes its not. Puts are a losing proposition also. You have to price shop.
+VixCentral	687748182718177281	2016-01-14T21:28:39	GEQSense It is like holding any option that loses value with time. Investors look for the cheapest way to hedge and sometimes UVXY fits
+VixCentral	687746496603750400	2016-01-14T21:21:57	VIX futures contango settled at -5.51% (backwardation) This is a strong tail wind for long term VXX UVXY holders  
+VixCentral	687739444200402944	2016-01-14T20:53:55	chewy8286 Naturally, but if you are trying to make money shorting volatility a quiet entry point is less risky
+VixCentral	687738118615764992	2016-01-14T20:48:39	My two favorite indicators for "all clear" are: 1) VVIX around 80  2) No backwardation We are quite far yet
+VixCentral	687641258504880128	2016-01-14T14:23:46	jcvictory I am not aware of one.
+VixCentral	687502878982930433	2016-01-14T05:13:54	jcvictory The whole term structure moved up a lot, not just the front month and that mitigated the backwardation.
+VixCentral	687383785416056832	2016-01-13T21:20:40	VIX futures contango settled at -6.47% (backwardation) This is a strong tail wind for long term VXX UVXY holders  
+VixCentral	687022882543808512	2016-01-12T21:26:34	VIX futures contango settled at -4.53% (backwardation) This is a tail wind for long term VXX UVXY holders  
+VixCentral	686661720455131136	2016-01-11T21:31:26	VIX futures contango settled at -6.39% (backwardation) This is a strong tail wind for long term VXX UVXY holders  
+VixCentral	685575861509177346	2016-01-08T21:36:37	chewy8286 No hard and fast rules. There can be backwardation for months but paradoxically there can be contango with the curve shifted up
+VixCentral	685572442388074496	2016-01-08T21:23:02	VIX futures contango settled at -8.70% (backwardation) This is a strong tail wind for long term VXX UVXY holders  
+VixCentral	685554612837953536	2016-01-08T20:12:11	I don't know what will happen, just a reminder that things can get worse before they get better VIX 
+VixCentral	685474662390886401	2016-01-08T14:54:29	The churn this year was very significant. Some retrospection is required. 
+VixCentral	685350887691292672	2016-01-08T06:42:39	VIX futures contango settled at -7.44% (backwardation) This is a tail wind for long term VXX UVXY holders  
+VixCentral	684862244459429889	2016-01-06T22:20:57	VIX futures contango settled at -2.46% (backwardation) This is a tail wind for long term VXX UVXY holders  
+VixCentral	684485289415323649	2016-01-05T21:23:04	VIX futures contango settled at -0.77% (backwardation) This is a tail wind for long term VXX UVXY holders  
+VixCentral	684412454088998913	2016-01-05T16:33:39	The VIX weeklies are important products but their bid-ask spreads at times like this are very wide 
+VixCentral	684232156030226434	2016-01-05T04:37:13	EconomPic can't plot it currently. Will look to adding in future
+VixCentral	684219085639426048	2016-01-05T03:45:16	Three possible scenarios for this backwardation episode: The Nov "meh" the Dec "swoon" and the Aug/Sep "Oy Vey". 
+VixCentral	684151431226474496	2016-01-04T23:16:26	VIX futures contango settled at -1.51% (backwardation) This is a tail wind for long term VXX UVXY holders  
+VixCentral	682672909173813248	2015-12-31T21:21:19	VIX futures contango settled at 1.89% Contago costs are medium for long term VXX and UVXY holders Explanation: 
+VixCentral	682310627625439234	2015-12-30T21:21:45	VIX futures contango settled at 2.32% Contago costs are medium for long term VXX and UVXY holders Explanation: 

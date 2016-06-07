@@ -1,0 +1,60 @@
+JeopardyStocks	720318359661772801	2016-04-13T18:30:54	"Who is: Elizabeth Holmes?" Theranos 
+JeopardyStocks	720311738114007042	2016-04-13T18:04:35	"Who is: Hillary Clinton?" GS 
+JeopardyStocks	719198227703140352	2016-04-10T16:19:54	"Who is: Marissa Mayer?" YHOO 
+JeopardyStocks	715266070248951808	2016-03-30T19:54:54	"Who is: Chipotle?" CMG 
+JeopardyStocks	713524405662560256	2016-03-26T00:34:09	"Who is/what are: Johnson Controls?" JCI 
+JeopardyStocks	711911804813885440	2016-03-21T13:46:15	"What is: Valeant?" VRX 
+JeopardyStocks	710524463520063489	2016-03-17T17:53:27	"Who is: Bill Ackman?" VRX 
+JeopardyStocks	709834991216279553	2016-03-15T20:13:44	"Who are: Lumber Liquidators?" LL 
+JeopardyStocks	709831685563621377	2016-03-15T20:00:36	"Who is: Valeant?" VRX 
+JeopardyStocks	709829729864564736	2016-03-15T19:52:50	"What is: Valeant?" VRX 
+JeopardyStocks	709711415343501312	2016-03-15T12:02:41	"What is: Valeant?" VRX 
+JeopardyStocks	708102713121378305	2016-03-11T01:30:17	"Who is: J. Michael Pearson?" VRX 
+JeopardyStocks	707285505952583680	2016-03-08T19:23:00	"Who is: Whitney Tilson?" LL 
+JeopardyStocks	706895378369671168	2016-03-07T17:32:46	"What is: Diamond Resorts International, Inc.?" DRII 
+JeopardyStocks	705009859733778433	2016-03-02T12:40:23	"Who is: Goldman Sachs?" GS 
+JeopardyStocks	705008057466691584	2016-03-02T12:33:13	"What is: Valeant?" VRX 
+JeopardyStocks	701849180373966848	2016-02-22T19:20:58	"What is: Valeant?" VRX 
+JeopardyStocks	701780842759200768	2016-02-22T14:49:26	"What is: Lumber Liquidators?" LL 
+JeopardyStocks	701148358031835138	2016-02-20T20:56:09	"What is: Chesapeake Energy?" CHK 
+JeopardyStocks	701146415167361024	2016-02-20T20:48:26	"What is: The Weekend?" YHOO 
+JeopardyStocks	700672618114863105	2016-02-19T13:25:44	"What is: Yahoo's Business Plan?" YHOO 
+JeopardyStocks	700069417456111616	2016-02-17T21:28:50	"What is: The FBI's Cyber Counter-Terrorism Department" AAPL 
+JeopardyStocks	697861272872865794	2016-02-11T19:14:27	"Who is: Charles Gasparino?" 
+JeopardyStocks	697860130323435520	2016-02-11T19:09:55	"Who is: Bill Ackman?" VRX HLF CP 
+JeopardyStocks	697859301046624257	2016-02-11T19:06:37	"Who is: Bill Ackman?" VRX HLF CP 
+JeopardyStocks	697858729644060672	2016-02-11T19:04:21	"What is: Tesla?" TSLA 
+JeopardyStocks	697564394931105792	2016-02-10T23:34:46	"What is: Twitter?" TWTR 
+JeopardyStocks	697564316913049600	2016-02-10T23:34:27	"What is: Tesla?" TSLA 
+JeopardyStocks	694957749810036736	2016-02-03T18:56:53	"What is: Netflix?" NFLX 
+JeopardyStocks	694957220069556224	2016-02-03T18:54:47	"Who is: Yahoo's Marissa Meyer?" YHOO 
+JeopardyStocks	692072780666388482	2016-01-26T19:53:03	"Who is: MannKind?" MNKD 
+JeopardyStocks	691750541848940544	2016-01-25T22:32:35	"What are/is: Johnson Controls?" JCI TYC 
+JeopardyStocks	687630608693080064	2016-01-14T13:41:27	"What is: The Yield on Valeant's Long Dated Bonds" VRX 
+JeopardyStocks	687399591646507012	2016-01-13T22:23:28	"Who is: GoPro CEO Nick Woodman?" GPRO AMBA 
+JeopardyStocks	687263940854833152	2016-01-13T13:24:26	"What is: Dennis Gartman's Bottom for Oil" 
+JeopardyStocks	684495018246148097	2016-01-05T22:01:44	"What is: A Great Reason for the CEO Not to Attend a Conference Call?" MNKD 
+JeopardyStocks	684445974014607360	2016-01-05T18:46:51	"What is: MannKind?" MNKD 
+JeopardyStocks	684380622371045376	2016-01-05T14:27:10	"What is: MannKind?" MNKD 
+JeopardyStocks	681878337871044608	2015-12-29T16:43:59	"Who is: Elizabeth Holmes at Theranos?" 
+JeopardyStocks	679335143174180864	2015-12-22T16:18:14	"Who is: SunEdison?" SUNE 
+JeopardyStocks	679041322355937280	2015-12-21T20:50:41	"What is: Chipotle Mexican Grill?" CMG 
+JeopardyStocks	678779644175323136	2015-12-21T03:30:52	"What is: Theranos?" 
+JeopardyStocks	677469405576634368	2015-12-17T12:44:27	"Who is: Martin Shkreli?" KBIO 
+JeopardyStocks	677191650381307904	2015-12-16T18:20:45	"What is: the amount rates need to move up for Steve Liesman to have a full fledged panic attack &amp; cardiac arrest?" 
+JeopardyStocks	676862320262402049	2015-12-15T20:32:07	"Who is: Steve Liesman?" 
+JeopardyStocks	676861764353552384	2015-12-15T20:29:54	"Who is: Simon Hobbs?" 
+JeopardyStocks	676760454950223872	2015-12-15T13:47:20	"Who is: Valeant's J. Michael Pearson?" VRX 
+JeopardyStocks	674322983356338177	2015-12-08T20:21:42	"Who is: David Einhorn?" GMCR 
+JeopardyStocks	674014777287573505	2015-12-07T23:57:00	"What is: Chipotle Mexican Grill?" CMG 
+JeopardyStocks	673974446798069760	2015-12-07T21:16:44	"What is: Keurig Green Mountain?" GMCR 
+JeopardyStocks	669908997693161472	2015-11-26T16:02:06	"Who is: GoPro's Nicholas Woodman?" GPRO AMBA 
+JeopardyStocks	669302096253071361	2015-11-24T23:50:29	"What is: TerraForm Power?" TERP 
+JeopardyStocks	669298371891503104	2015-11-24T23:35:41	"Who is: Ron Johnson?" JCP 
+JeopardyStocks	669297564429217792	2015-11-24T23:32:28	"Who is: Marissa Meyer?" YHOO 
+JeopardyStocks	669296344469807106	2015-11-24T23:27:38	"Who is: Valeant's J. Michael Pearson?" VRX 
+JeopardyStocks	669294432395612160	2015-11-24T23:20:02	"Who is: Carl Icahn?" XRX 
+JeopardyStocks	669293020362219521	2015-11-24T23:14:25	"Who is: Unipixel?" UNXL 
+JeopardyStocks	668921153310838784	2015-11-23T22:36:45	"Who is: Bill Ackman?" VRX HLF FNMA 
+JeopardyStocks	667778052630425600	2015-11-20T18:54:29	"Who is: Tesla?" TSLA 
+JeopardyStocks	667777572671987713	2015-11-20T18:52:34	"Who is: Universal Insurance?" UVE 

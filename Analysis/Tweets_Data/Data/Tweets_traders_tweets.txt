@@ -1,0 +1,450 @@
+traders_tweets	726134818870808576	2016-04-29T19:43:26	Clearing: Post-Trade Firms Give the Buyside a Second Look 
+traders_tweets	726046207563456512	2016-04-29T13:51:19	Message to EMSCA: Drop The Pilot 
+traders_tweets	726040218567069696	2016-04-29T13:27:31	BofA Equity Chief Shakes Up Unit, Naming Koh to Run Trading 
+traders_tweets	726033473882996736	2016-04-29T13:00:43	In Hedge Fund `Killing Field,' Smoldering Fears Catch Fire 
+traders_tweets	725738801386106880	2016-04-28T17:29:48	Who's Afraid of an IEX Exchange? 
+traders_tweets	725699777640452096	2016-04-28T14:54:44	This Startup Wants to Change How Wall Street Shares Research 
+traders_tweets	725694480544882689	2016-04-28T14:33:41	Broadridge Financial Solutions Launches Global Channel Sales Initiative 
+traders_tweets	725689267494752257	2016-04-28T14:12:58	Deutsche Bank Lures Hedge-Fund Money as Credit Concern Abates 
+traders_tweets	725357596912279552	2016-04-27T16:15:02	Traders Tech: Misys Offers Risk Tools Via Pay-Per-Use Cloud Options 
+traders_tweets	725332236657119232	2016-04-27T14:34:15	Traders Tech: The State of the Buyside OMS 
+traders_tweets	725319164890603520	2016-04-27T13:42:19	Who Needs Hedge Fund Managers When Computers Do the Job? 
+traders_tweets	725313405691813889	2016-04-27T13:19:26	NYSE Joins Nasdaq Assailing Plan to Overhaul Trading Fees 
+traders_tweets	725198790920146945	2016-04-27T05:43:59	The Trader That Firms Want to Hire 
+traders_tweets	725094328050302976	2016-04-26T22:48:54	The Moment The SecureWorks IPO Went Live On Nasdaq 
+traders_tweets	724996680492421120	2016-04-26T16:20:53	SEC Draws NYSE's Fury With Idea a Millisecond Doesn't Matter 
+traders_tweets	724963681776340992	2016-04-26T14:09:45	Seabury Group Launches Seabury Global Markets, Appoints President, CEO 
+traders_tweets	724808481191157761	2016-04-26T03:53:02	Scenes from the STANY 2016 Conference and Dinner - Part 3 
+traders_tweets	724698625843052544	2016-04-25T20:36:31	CBOE Futures Exchange Adds Connectivity with Stellar Trading Systems 
+traders_tweets	724601796640018433	2016-04-25T14:11:45	Hedge-Fund Investor Aurora to Return $5.4 Billion to Clients 
+traders_tweets	724594340203520000	2016-04-25T13:42:07	On The Move: Atlanta's FIG Partners Expands East Coast Trading Team 
+traders_tweets	723589548161282048	2016-04-22T19:09:26	SecureWorks Launches First Tech IPO Of 2016 On Nasdaq 
+traders_tweets	723493407092555778	2016-04-22T12:47:24	U.S. Money Managers Avoid Brunt of Dodd-Frank Bonus Crackdown 
+traders_tweets	723471000990527488	2016-04-22T11:18:22	Senate's Warren Rips SEC for Letting Steven Cohen Start New Firm 
+traders_tweets	723465945398796288	2016-04-22T10:58:17	Liontrust Asset Management to Outsource its Front, Middle Office Ops 
+traders_tweets	723263804948242432	2016-04-21T21:35:03	Dell's SecureWorks Set to Price First U.S. Tech IPO of the Year 
+traders_tweets	723199924423237632	2016-04-21T17:21:13	OpenBondX Debuts New Trading Protocol 
+traders_tweets	723149867166666752	2016-04-21T14:02:18	Thomson Reuters App Predicts Intraday Prices in High-Speed Power Market 
+traders_tweets	723134762232209408	2016-04-21T13:02:17	Blackstone's Profit Falls 77% in Quarter as Asset Sales Slow 
+traders_tweets	722873916490911745	2016-04-20T19:45:46	MayStreet To Offer High-Speed Precision Service for Equities, Options and Futures 
+traders_tweets	722789008212946944	2016-04-20T14:08:22	Goldman Pitches Hedge Funds to Insurers After AIG Scales Back 
+traders_tweets	722783956467392512	2016-04-20T13:48:18	UBS Boosts Global Hedge Fund Allocations Amid Market Volatility 
+traders_tweets	722778185436368897	2016-04-20T13:25:22	Sphere Investment Management Launched Four ETFs on the TSX 
+traders_tweets	722438994986930176	2016-04-19T14:57:33	SocGen Names Drouet Head of Global Markets as Fields Departs 
+traders_tweets	722432569925570561	2016-04-19T14:32:01	BTIG Brings out the Stars For Annual Charity Event 
+traders_tweets	722427423271333888	2016-04-19T14:11:34	Fintech Explosion Demands Joint Effort on Oversight: Report 
+traders_tweets	722421644980043776	2016-04-19T13:48:36	Mackenzie Investments Launches Fixed Income Active ETFs 
+traders_tweets	722180001123168256	2016-04-18T21:48:24	Scenes from the STANY 2016 Conference and Dinner - Part 2 
+traders_tweets	722063378378801153	2016-04-18T14:04:59	Money Stuff: High-Speed Trading and Return Chasing 
+traders_tweets	722057689094889472	2016-04-18T13:42:22	Deutsche Bank Head of Global FX Arinc Said to Be on Leave 
+traders_tweets	721070797532610564	2016-04-15T20:20:49	In a Second Attempt, BATS IPO To Go Live at $19 per Share 
+traders_tweets	720983216077873154	2016-04-15T14:32:48	Traders Tech: Seabury FXone Selects Beeks Financial Cloud 
+traders_tweets	720977544766472197	2016-04-15T14:10:16	Everyone Worries Too Much About Black-Swan Events: Noah Smith 
+traders_tweets	720971965192925185	2016-04-15T13:48:06	KCG Hires Goldman's Seigne to Expand European Electronic Trading 
+traders_tweets	720743670971019266	2016-04-14T22:40:56	CBOE To Offer "Fear Index" Overnight 
+traders_tweets	720686172155035648	2016-04-14T18:52:27	CME Group To Close Its NY Trading Floor 
+traders_tweets	720630469231058944	2016-04-14T15:11:07	Bats Investors to Sell $250 Million in IPO, Exceeding Plan 
+traders_tweets	720614853476544512	2016-04-14T14:09:04	DTCC Names Three New Boards of Directors 
+traders_tweets	720378125419417601	2016-04-13T22:28:23	TRADE TECH: PDQ ATS Boosts Risk Surveillance with Eventus Platform 
+traders_tweets	720273838861254660	2016-04-13T15:33:59	Scenes from the 2016 HPC on Wall Street Conference 
+traders_tweets	720252835712122880	2016-04-13T14:10:32	Asia Hedge Funds Rebound in March After Worst Start on Record 
+traders_tweets	720247416570712064	2016-04-13T13:49:00	ALGO UPDATE: Clearpool Algos In the Cloud 
+traders_tweets	720072154772041728	2016-04-13T02:12:34	Scenes from the STANY 2016 Conference and Dinner - Part 1 
+traders_tweets	719960518300143620	2016-04-12T18:48:58	Nomura Holdings To Close Euopean Equity Business 
+traders_tweets	719907715179528192	2016-04-12T15:19:09	Dan Loeb's Hedge Fund Is Biggest Winner in Dan Loeb's Reinsurer 
+traders_tweets	719902214131695622	2016-04-12T14:57:17	Nomura Holdings To Close European Equity Business 
+traders_tweets	719896033728270336	2016-04-12T14:32:44	Deutsche Bank Halts North Carolina Growth Plan Over Anti-Gay Law 
+traders_tweets	719890719725481984	2016-04-12T14:11:37	On The Move: Advanced Markets and Fortex Hire New Managing Director 
+traders_tweets	719637658847330304	2016-04-11T21:26:02	Assets Invested in ETFs/ETPs Have Broken Through the $3 Trillion Milestone 
+traders_tweets	719598725430190080	2016-04-11T18:51:20	Goldman Sachs Resolves U.S. Mortgage Probe for $5.1 Billion 
+traders_tweets	719565858058735616	2016-04-11T16:40:44	LSE's Rolet Strikes Back at Reports Company Would Be Dismantled 
+traders_tweets	719525700995280896	2016-04-11T14:01:09	ALGO UPDATE: Pragma Launches New SmartFix Algorithm 
+traders_tweets	718578002779615232	2016-04-08T23:15:21	Scenes from the STANY 2016 Panels 
+traders_tweets	718441274005725184	2016-04-08T14:12:02	Citigroup Equity-Trading Head Derek Bandeen Plans to Leave 
+traders_tweets	718387984605818880	2016-04-08T10:40:17	On The Move: TMX Group and VEST Financial Make New Hires 
+traders_tweets	718104289403600896	2016-04-07T15:52:58	Bain Capital Promotes Four, Hedge Fund, Credit Units 
+traders_tweets	718073435079966720	2016-04-07T13:50:22	FINCAD Names Parisa Golbayani The Recipient of its 2016 Women in Finance Scholarship 
+traders_tweets	718033912065339392	2016-04-07T11:13:19	Steven Cohen Pledges $275 Million to Veteran Mental Health Care 
+traders_tweets	718028342256123904	2016-04-07T10:51:11	FINCAD Names Parisa Golbaya The Recipient of its 2016 Women in Finance Scholarship 
+traders_tweets	718022980706680832	2016-04-07T10:29:53	On The Move: BNY Mellon Markets Appoints Piers Murray as COO 
+traders_tweets	717919405892571136	2016-04-07T03:38:19	Fidessa, Alpha Omega Partner On Post-Trade Offering 
+traders_tweets	717804698959527936	2016-04-06T20:02:31	'Mad Punter' Spoke to FT, Daily Mail in Bid to Beat Market 
+traders_tweets	717765625410617346	2016-04-06T17:27:15	March Madness: The Trading Volumes of March 2016 
+traders_tweets	717712790119702528	2016-04-06T13:57:18	Deutsche Bank Opens Silicon Valley "Innovation" Lab 
+traders_tweets	717464240613957632	2016-04-05T21:29:39	Ex-State Street Executives Charged With Imposing Hidden Fees 
+traders_tweets	717421384738160641	2016-04-05T18:39:21	Traders Tech: R3 Member Banks Enter Blockchain Arena 
+traders_tweets	717346662709084161	2016-04-05T13:42:26	KKR Said to Get $3.3 Billion for Distressed Fund, Passing Target 
+traders_tweets	717340906622427136	2016-04-05T13:19:34	Jefferies Said to Hire Goldman's Femenia for Distressed Debt 
+traders_tweets	717125166736805889	2016-04-04T23:02:17	STANY to Honor Tom Joyce and Richard Ketchum 
+traders_tweets	716998679245271040	2016-04-04T14:39:40	TD Asset Management Enters Canada’s ETF Space 
+traders_tweets	716993193779310592	2016-04-04T14:17:53	Bats Public Offering to Value Stock Exchange at $2.1 Billion 
+traders_tweets	716987802840350720	2016-04-04T13:56:27	On The Move: Mizuho Names Dewing to Lead Investment, Corporate Banking 
+traders_tweets	716124204727472128	2016-04-02T04:44:50	First Listed Security Trades on NEO Exchange 
+traders_tweets	716010085848322048	2016-04-01T21:11:21	BlueCrest's Leslie Said to Be Latest Departure From Hedge Fund 
+traders_tweets	715952256466685952	2016-04-01T17:21:34	Hedge Fund Momentum Trade Blows Up With Losses Worse Since 2009 
+traders_tweets	715933930441076736	2016-04-01T16:08:45	MiFID II and the End of Brokerages as We Know Them 
+traders_tweets	715646166520762370	2016-03-31T21:05:16	BlackRock's ETF Golden Goose May Be Killing Jobs: Gadfly 
+traders_tweets	715640313738559488	2016-03-31T20:42:01	Traders Tech: Redline Trading Solutions Supports OTC Markets Data 
+traders_tweets	715565824623448064	2016-03-31T15:46:01	Promotions and New Hires for March 2016 
+traders_tweets	715529341929656321	2016-03-31T13:21:03	A $2 Billion Fund Says Good Riddance as ‘Dumb Money’ Flees Japan 
+traders_tweets	715492999837384704	2016-03-31T10:56:39	On The Move: ITG Picks Andrew Larkin to Lead POSIT Alert Coverage Team 
+traders_tweets	715182235893293056	2016-03-30T14:21:47	Principal Global Investors Adopts Eagle Global IBOR Solution 
+traders_tweets	715174386869936129	2016-03-30T13:50:35	State Street Buys GE Asset Management for Up to $485 Million 
+traders_tweets	715159154197995520	2016-03-30T12:50:04	Editor's Note: Wall Street's Image Problem 
+traders_tweets	715141045655306241	2016-03-30T11:38:06	Missionary Turned Hedge Fund Boss Bets Big on Saving Fukushima 
+traders_tweets	715135908060782592	2016-03-30T11:17:41	Emerging Market Currencies Extend Best Month in 18 Years on Fed 
+traders_tweets	714984173967114242	2016-03-30T01:14:45	Scenes from the STA Los Angeles 2016 Conference - Part 2 
+traders_tweets	714871763621036032	2016-03-29T17:48:04	BlackRock Joins Pimco Warning Investors to Seek Inflation Hedge 
+traders_tweets	714866062832091136	2016-03-29T17:25:25	Trader Wins Anti-Defamation Case Against Sun Trading 
+traders_tweets	714779588459642880	2016-03-29T11:41:48	On The Move: Allegiance Capital Appoints John R. Sloan As President, CEO 
+traders_tweets	714513813127741441	2016-03-28T18:05:42	Hottest Emerging Market for Algo Trades Wants to Cool Down 
+traders_tweets	714472757577310209	2016-03-28T15:22:34	On The Move: Millennium Nabs Jain From Credit Suisse for Co-CIO Duties 
+traders_tweets	714455026182328321	2016-03-28T14:12:06	Hedge Fund Invasion of U.S. Treasuries Puts Bond Traders at Risk 
+traders_tweets	714449494818078720	2016-03-28T13:50:08	Deutsche Bank to Add 100 Equity Traders 
+traders_tweets	713392961954914304	2016-03-25T15:51:50	Cut to order: Slicing through the data forest in search of best execution 
+traders_tweets	713358294623121409	2016-03-25T13:34:05	Commodity Rout Cuts $8.6 Billion From Japan’s Trading Houses 
+traders_tweets	713352957484470272	2016-03-25T13:12:53	Iranians Hacked From Wall Street to New York Dam, U.S. Says 
+traders_tweets	713111869570023424	2016-03-24T21:14:53	GreenKey’s New Pilot Voice Quote Capture Tool To Help with Compliance 
+traders_tweets	713015547605204992	2016-03-24T14:52:08	Wall Street’s 0.01%: An Inside Look at Citi’s Secret Client List 
+traders_tweets	713009853799743488	2016-03-24T14:29:30	The IEX Stock Exchange Application: What’s Next? 
+traders_tweets	713004216957210624	2016-03-24T14:07:06	Wall Street Bonuses Roll on as Washington Dithers Over Pay Rules 
+traders_tweets	712779097118736384	2016-03-23T23:12:34	Scenes from the STA Los Angeles 2016 Conference - Part 1 
+traders_tweets	712670748863803393	2016-03-23T16:02:01	Flash Crash Trader Sarao Loses Extradition Case in London 
+traders_tweets	712633676891361280	2016-03-23T13:34:43	On The Move: Cabrera Enhances Trading Team 
+traders_tweets	712628278784299009	2016-03-23T13:13:16	Polen Capital Streamlines Portfolio Management 
+traders_tweets	712618753754808320	2016-03-23T12:35:25	Hedge Fund Manager Ordered to Pay $81 Million in Ponzi Case 
+traders_tweets	712613022259351552	2016-03-23T12:12:38	Credit Suisse CEO Targets Job Cuts, Forecasts Quarterly Loss 
+traders_tweets	712528247762894848	2016-03-23T06:35:47	Traders Tech: Broadridge Invests in LiquidX, Forms Partnership 
+traders_tweets	712445476537298944	2016-03-23T01:06:52	LSE Now Offers Asset Managers Liquidity at Lunchtime: Gadfly 
+traders_tweets	712360748027088896	2016-03-22T19:30:12	Cooperman, Omega Said to Get Wells Notice Over 2010 Trade 
+traders_tweets	712277727198445568	2016-03-22T14:00:18	On The Move: SBSCO’s San Antonio Office Gets New SVP 
+traders_tweets	711986884977758210	2016-03-21T18:44:36	SEC Poised to Approve IEX Speed Bump 
+traders_tweets	711939697182961664	2016-03-21T15:37:05	On The Move: NYSE Adds Pair to Regulatory Teams 
+traders_tweets	711922672582664193	2016-03-21T14:29:26	IHS Acquires Financial Data Firm Markit for $5.5 Billion 
+traders_tweets	711916972833775616	2016-03-21T14:06:47	Morgan Stanley Chases Millionaires’ Cash With Free Platinum AmEx 
+traders_tweets	711006472046567425	2016-03-19T01:48:47	Scenes from Family Night at the STA Florida 2016 Conference 
+traders_tweets	710904889141022721	2016-03-18T19:05:08	Fired FX Trader Uses the ‘S’ Word (Scapegoat) in Citigroup Case 
+traders_tweets	710837665629925377	2016-03-18T14:38:00	BlueCrest Money Manager John McNiff Said to Leave Hedge Fund 
+traders_tweets	710832503364435968	2016-03-18T14:17:30	SEC To Delay IEX Stock Exchange Until June: Reports 
+traders_tweets	710546047135817728	2016-03-17T19:19:13	Ex-Goldman Compliance Worker Settles SEC Insider-Trading Suit 
+traders_tweets	710498674711859201	2016-03-17T16:10:59	The Top Dark Pools of March 2016 
+traders_tweets	710470203612782592	2016-03-17T14:17:51	Brummer’s Backing Boosts Greenig Hedge Fund to $900 Million 
+traders_tweets	710464443013074944	2016-03-17T13:54:57	On The Move: Head of High Yield Bond Trading Leaves Credit Suisse 
+traders_tweets	710119387731255297	2016-03-16T15:03:50	Scoring Big at the Minnesota SDA Buyside vs. Sellside Hockey Classic 
+traders_tweets	710105840624275456	2016-03-16T14:10:00	Deutsche Boerse Agrees to Buy LSE to Create European Titan 
+traders_tweets	710100060760051712	2016-03-16T13:47:02	Meet the DIY Quants Who Ditched Wall Street for the Desert 
+traders_tweets	710086515104346112	2016-03-16T12:53:12	Liquidnet Fixed Income Surpasses $1 Billion Traded 
+traders_tweets	710080743775584256	2016-03-16T12:30:16	On The Move: Hedge Fund Association Appoints Co-Directors Tamburini, Maddente 
+traders_tweets	709893559680409600	2016-03-16T00:06:28	Ex-Schroders Trader Clarke Pleads Guilty to Insider Dealing 
+traders_tweets	709756446980874240	2016-03-15T15:01:38	COVER STORY: Lou Carosa's Wealth of Experience 
+traders_tweets	709750630676561920	2016-03-15T14:38:31	U.S. Risks Falling Behind Europe in Blockchain Race 
+traders_tweets	709744868730540032	2016-03-15T14:15:37	Traders Struggle as Negative Rates Take Over the World: Gadfly 
+traders_tweets	709739076329607168	2016-03-15T13:52:36	On The Move: Portware Picks Global FX Team Leader 
+traders_tweets	709731271778377728	2016-03-15T13:21:36	Trade Tech: S3 Unveils Fixed Income Execution Quality Suite 
+traders_tweets	709386725710282753	2016-03-14T14:32:29	Buyside Giants Push For new Exchange Volatility Rules 
+traders_tweets	709381369131048961	2016-03-14T14:11:12	Hedge Funds Miss Biggest Rally for Natural Gas of the Year 
+traders_tweets	709376306899787776	2016-03-14T13:51:05	Morgan Stanley Says Bonds Set to Surge in 2016 Year of the Bull 
+traders_tweets	709370798948093952	2016-03-14T13:29:12	ON THE MOVE: Mackay Returns to Chi-X Global As CEO 
+traders_tweets	709351421540507648	2016-03-14T12:12:12	ON TYHE MOVE: Mackay Returns to Chi-X Global As CEO 
+traders_tweets	708468263982927872	2016-03-12T01:42:51	ICE Would Keep London Stock Exchange If It Bought LSE Group 
+traders_tweets	708386497490194432	2016-03-11T20:17:56	Scenes from the Minnesota SDA Hockey Celebration 
+traders_tweets	708310772758269952	2016-03-11T15:17:02	Will the Blockchain Replace Swift? 
+traders_tweets	708262751215460353	2016-03-11T12:06:13	Deutsche Bank Sees 2016 Industrywide Trading Revenue Drop 
+traders_tweets	708075029704138752	2016-03-10T23:40:17	Bridgewater Taps Former Apple Executive Rubinstein as Co-CEO 
+traders_tweets	708005850351321089	2016-03-10T19:05:23	Bloomberg Introduces Quantitative Model for Calculating Liquidity Risk 
+traders_tweets	707984952487493635	2016-03-10T17:42:21	ICAP unveils CrossTrade solution on its new buyside portal ‘TrueQuote’ 
+traders_tweets	707959907396526080	2016-03-10T16:02:49	Clearing: Waiting for Blockchain to Spark 
+traders_tweets	707942192992669701	2016-03-10T14:52:26	Nasdaq Just Took a Step Toward Challenging the Flash Boys Bourse 
+traders_tweets	707936600429338626	2016-03-10T14:30:13	Goldman Warns Bond Traders Not to Bet Against Policy Divergence 
+traders_tweets	707674477237313536	2016-03-09T21:08:37	Manipulation or Brilliant Trade? The Curious Case of Don Wilson 
+traders_tweets	707591652806885377	2016-03-09T15:39:31	Keeping Score at the Minnesota SDA Buyside vs. Sellside Hockey Classic 
+traders_tweets	707573333236301824	2016-03-09T14:26:43	ON THE MOVE: Citi Hires Diaz as Global head of Cash Trading 
+traders_tweets	707568229284233216	2016-03-09T14:06:26	Fidessa Launches New Liquidity Search Tool Prospector 
+traders_tweets	707537822752874496	2016-03-09T12:05:37	JPMorgan and Deutsche Bank Boys Are Running the New Argentina 
+traders_tweets	707260600481615873	2016-03-08T17:44:02	TRADERS TECH: ITG Unveils ITG Execution Analysis 
+traders_tweets	707220090119430144	2016-03-08T15:03:03	Industry Trade Size Hits New Low: Tabb Report 
+traders_tweets	707200863165652992	2016-03-08T13:46:39	On The Move: MKP Capital London Money Manager Muller Said to Leave Fund 
+traders_tweets	706975377353216001	2016-03-07T22:50:39	Wells Fargo Sued by SEC Over Bond Sale for Curt Schilling 
+traders_tweets	706855399446675457	2016-03-07T14:53:54	On The Move: Ex-Goldman Trader Joins UK Hedge Fund 
+traders_tweets	706847669373812736	2016-03-07T14:23:11	Big Surprise: Hedge Funds Avoid Social Media 
+traders_tweets	706841706503774208	2016-03-07T13:59:29	Hedge Fund Says Growth Jolt Only Cure for Glum Commodities 
+traders_tweets	706836221763391488	2016-03-07T13:37:42	Intel’s Pentium Bug Fix Is Proposed as Solution for Dark Pools 
+traders_tweets	706095461694885888	2016-03-05T12:34:11	LSE's German Merger Starting to Look a Little More Equal: Gadfly 
+traders_tweets	705989341718421504	2016-03-05T05:32:30	Baymarkets Set to Support, Maintenance and Development SIX x-clear’s Clara Clearing 
+traders_tweets	705885410858278915	2016-03-04T22:39:31	LSE’s Derivatives Market to Launch Despite Talks With Rival 
+traders_tweets	705780410358374400	2016-03-04T15:42:17	CBOE Offers FLEX Index Options With Asian And Cliquet Style Settlement 
+traders_tweets	705733712554696704	2016-03-04T12:36:43	INSIGHTS: IEX's Impact On Retail Investors 
+traders_tweets	705728064840450049	2016-03-04T12:14:17	INSIGHTS: IEX's Impact On Retail Investors 
+traders_tweets	705505969971859457	2016-03-03T21:31:45	Goldman Sachs Said to Cut More Than 5% of Fixed-Income Workers 
+traders_tweets	705411512320581636	2016-03-03T15:16:25	From Toxic Assets to Digital Currency: Barry Silbert's Bold Bet 
+traders_tweets	705405741071523840	2016-03-03T14:53:29	The Lone Analyst Who Said Sell Valeant When Hedge Funds Piled In 
+traders_tweets	705371083130720256	2016-03-03T12:35:46	Green Key Technologies Appoints Paul Christensen as CEO 
+traders_tweets	705355522636181504	2016-03-03T11:33:56	Tradeweb Markets Acquires CodeStreet 
+traders_tweets	705202107889164288	2016-03-03T01:24:19	Merkel’s Government Said to Support Deutsche Boerse-LSE Merger 
+traders_tweets	705094713532141573	2016-03-02T18:17:34	Programmed for Success -- Finding Your Next Trader 
+traders_tweets	705037653159362560	2016-03-02T14:30:50	Promotions and New Hires for February 2015 
+traders_tweets	705029467748564993	2016-03-02T13:58:18	Man Hires Ex-Millennium Trader to Help Build New Hedge-Fund Unit 
+traders_tweets	704807485425713152	2016-03-01T23:16:13	ICE Confirms It May Bid for LSE as Shares Soar to Record 
+traders_tweets	704712406459613190	2016-03-01T16:58:25	A Tour of the Triad Securities Floor  Part 2 
+traders_tweets	704684866043047936	2016-03-01T15:08:59	Wolverine Launches Best-x Options Algorithm 
+traders_tweets	704677323950444544	2016-03-01T14:39:00	IEX Adjusts Exchange Application to Circumvent Key Objection 
+traders_tweets	704451231259959297	2016-02-29T23:40:36	NYSE’s New Technology Launch Hits a Hiccup in Its First Week 
+traders_tweets	704372248749207552	2016-02-29T18:26:45	Deutsche Boerse Nears Merger With LSE as Brexit Vote Looms 
+traders_tweets	704336118100172800	2016-02-29T16:03:11	IEX, citing it's money and support, vows it wont launch without router and speed bump. 
+traders_tweets	704325668696416257	2016-02-29T15:21:39	EBS Market Unveils Real-time FX Market Data Plan 
+traders_tweets	704320077672411136	2016-02-29T14:59:26	TRADERS ON THE MOVE: CIBC Equity Desk Shaken Up, AX Trading Hires O’Mara 
+traders_tweets	704314462065598466	2016-02-29T14:37:07	The Jungle of the $2 Trillion ETF Market Is Getting Even Denser 
+traders_tweets	704308939517784065	2016-02-29T14:15:11	Bond Dealers Required to Report Retail Markups in Finra Plan 
+traders_tweets	703315154386231296	2016-02-26T20:26:14	Human Traders Beat Technology on the Trading Desk 
+traders_tweets	703251409014280192	2016-02-26T16:12:56	INTL FCStone Financial Offers Asset-Backed Securities Trading in US 
+traders_tweets	703245097257799680	2016-02-26T15:47:51	LSE-Deutsche Boerse Merger Said to Have German CEO, London Base 
+traders_tweets	703207045177147392	2016-02-26T13:16:39	ITG Launches Mobile Smart Cost Estimator for Pre-Trade Analysis 
+traders_tweets	703180791501692928	2016-02-26T11:32:19	TMX Group Introduces Analytics Package for Traders 
+traders_tweets	703116950717624321	2016-02-26T07:18:38	Besieged IEX Adds Lobbying Muscle in Fight for Exchange Status 
+traders_tweets	702939478864863238	2016-02-25T19:33:26	Most-Volatile February for Currencies in Six Years Hints at More 
+traders_tweets	702904783670284295	2016-02-25T17:15:34	FlexTrade Integrates Symphony's Communications System 
+traders_tweets	702901911083753472	2016-02-25T17:04:09	FCA will not regulate blockchain technology yet, as it needs space to grow says FCA’s director of strategy, Christopher Woolanrd.
+traders_tweets	702901763020615680	2016-02-25T17:03:34	Canadian Securities Administrators (CSA) is seeking comments on mandatory CCP clearing  of certain OTC derivatives.
+traders_tweets	702894058319044608	2016-02-25T16:32:57	The Stock Exchange Mergers That Transformed the Markets 
+traders_tweets	702888814495268864	2016-02-25T16:12:07	Bloomberg Tradebook Adds Volume Remaining Feature to STAZ Product 
+traders_tweets	702845309509099520	2016-02-25T13:19:14	The Challenges Facing the LSE-Deutsche Borse Merger 
+traders_tweets	702839188685791232	2016-02-25T12:54:55	On The Move: Bats Promotes Barchetto to Executive VP, Head of Corporate Development 
+traders_tweets	702659907691143168	2016-02-25T01:02:31	Market Structure Dominates the Panels of the Mid-Atlantic STA 
+traders_tweets	702557109012013057	2016-02-24T18:14:02	Exchanges Talk Marriage While Their Nations Contemplate Divorce 
+traders_tweets	702478364532219904	2016-02-24T13:01:08	Citi Launches Total Touch ADR X-WiNG for Block Trades in EMEA 
+traders_tweets	702452505872101376	2016-02-24T11:18:22	London Stock Exchange Is in Merger Talks With German Rival 
+traders_tweets	702425915654017024	2016-02-24T09:32:43	Robots Reading Trader Chats to Stop Next Wave of Bank Fines 
+traders_tweets	702386504841224193	2016-02-24T06:56:07	Credit Suisse Hires Morgan Stanley’s King for Algorithmic Sales 
+traders_tweets	702250818863546369	2016-02-23T21:56:57	Redline Trading Supports Futures on LME 
+traders_tweets	702161939967954944	2016-02-23T16:03:46	Nasdaq &amp; cognitive comp co Digital Reasoning will partner to offer holistic surveillance technology to the global capital markets.
+traders_tweets	702161682618040320	2016-02-23T16:02:45	IEX Group has become the No. 2 ATS by volume in the last week.
+traders_tweets	702157105738993668	2016-02-23T15:44:34	A Tour of the Triad Securities Floor  Part 1 
+traders_tweets	702106728276611072	2016-02-23T12:24:23	BATS Gets Go-Ahead to Police Manipulative Traders Faster 
+traders_tweets	702057314279358464	2016-02-23T09:08:01	Tired of Boogeymen Portrayals, Speed Traders Take to NYSE Floor 
+traders_tweets	702040933123145728	2016-02-23T08:02:56	China Removes Xiao as CSRC Head After Stock Market Meltdown 
+traders_tweets	701860507788169217	2016-02-22T20:05:59	Asian Firms in Talks for Hong Kong-Traded Leveraged Nasdaq ETFs 
+traders_tweets	701840648543019013	2016-02-22T18:47:04	If you could vote, would you vote to approve IEX as a new public stock exchange? 
+traders_tweets	701802915619610628	2016-02-22T16:17:08	BATS Chi-X Europe will be rebranded BATS Europe.
+traders_tweets	701802795511500802	2016-02-22T16:16:39	NYSE markets are migrating on to a single software platform called Pillar. NYSE Arca is moving to Pillar today. Other NYSE markets to follow
+traders_tweets	701795611272749056	2016-02-22T15:48:07	TRADERS ON THE MOVE: Centerstone Grabs Federated Trader, Credit Suisse Names Prime Deriv Head 
+traders_tweets	701781146565275648	2016-02-22T14:50:38	Some Still Love Coal as Exchanges Battle to Dominate Market 
+traders_tweets	701728622990794757	2016-02-22T11:21:55	Can Russia’s Equities Market Come in From the Cold? 
+traders_tweets	701722589673222149	2016-02-22T10:57:57	First JOBS Act Company Goes Public on OTCQX 
+traders_tweets	701688427020996608	2016-02-22T08:42:12	IBM’s New Blockchain Bet Targets Next Wave of Financial Services 
+traders_tweets	701652043463847936	2016-02-22T06:17:37	NYSE Embarks on High-Stakes Technology Shift for its Exchanges 
+traders_tweets	700701525803454464	2016-02-19T15:20:36	IEX Responds to Exchanges' Comment Letters 
+traders_tweets	700654856361521152	2016-02-19T12:15:09	2016 Is “Do or Die” for Blockchain, Celent Says 
+traders_tweets	700641621310705664	2016-02-19T11:22:34	Pros Say Complete Disclosure Is Way to Get Ahead of SEC’s Reg ATS Provisions 
+traders_tweets	700591176991318016	2016-02-19T08:02:07	IEX ‘Speed Bump’ Seems to Comply With Rules, Finra CEO Says 
+traders_tweets	700580138191298560	2016-02-19T07:18:15	Treasuries Prove Fertile Ground for High-Speed Arbitrage 
+traders_tweets	700417128290217985	2016-02-18T20:30:31	How the Call-Put Implied Volatility Spread Options Trade Can Be Profitable 
+traders_tweets	700384385359544320	2016-02-18T18:20:24	As of Jan., CHX handled just 0.5% of U.S. trading, making it the 3rd smallest U.S. exchange, according to TABB Group 
+traders_tweets	700349962111082497	2016-02-18T16:03:37	Traders Gather in Sunshine State 
+traders_tweets	700348519132037120	2016-02-18T15:57:53	NYSE added RBC Capital Markets as a Lead Market Maker (LMM) on NYSE Arca,
+traders_tweets	700348323895635968	2016-02-18T15:57:06	Finra's Ketchum - regulations “should be sufficiently flexible” to accommodate IEX speed bump as long as measure benefit investors.
+traders_tweets	700348065090240512	2016-02-18T15:56:05	"IEX has not set out to misrepresent anything through intent, negligence or recklessness." IEX says
+traders_tweets	700347927764586496	2016-02-18T15:55:32	46 US lawmakers said the planned sale of the Chicago stock exchange to Chinese CCEG should be investigated by US national security
+traders_tweets	700240480190230528	2016-02-18T08:48:34	Chinese Bid for Chicago Exchange Draws Congressional Concern 
+traders_tweets	700220525939924993	2016-02-18T07:29:17	Citadel Leases Anchor Space at New Tower on NYC’s Park Avenue 
+traders_tweets	700133366079889408	2016-02-18T01:42:56	Scenes from the Mid-Atlantic STA Winter Conference - Part 2 
+traders_tweets	699967278142636032	2016-02-17T14:42:58	REDI Lands OpenFin to Help with New Web Applications 
+traders_tweets	699849219801247745	2016-02-17T06:53:51	 for Wall Street Helps Small Hedge Funds Woo Big Money 
+traders_tweets	699627657454075905	2016-02-16T16:13:26	Convergex Prime Services Adds "Fully Paid" Services to Securities Lending Offering 
+traders_tweets	699619869818548225	2016-02-16T15:42:29	TRADERS ON THE MOVE: CME Nabs Deutsche Prime Brokerage FX Head, Nasdaq Loses FX Exec 
+traders_tweets	699613833309089792	2016-02-16T15:18:30	January U.S. Listed Options Volume Hits 364.4M, Up 7.6% from December 
+traders_tweets	699607741971693568	2016-02-16T14:54:18	Buyside Traders Gear Up for More Dark Pool Scrutiny 
+traders_tweets	699601496170692608	2016-02-16T14:29:29	Do HFT Really Provide Liquidity and Just How Much? 
+traders_tweets	699578836439195648	2016-02-16T12:59:26	Nasdaq to Acquire News Distributor Marketwired 
+traders_tweets	699499089713565696	2016-02-16T07:42:33	Treasury Market’s $220 Billion Black Box Lures Citadel, Virtu 
+traders_tweets	699489681822584832	2016-02-16T07:05:10	‘Flash Boys’ Market Loses Support From Bats as Opposition Mounts 
+traders_tweets	698205833025474561	2016-02-12T18:03:37	CFTC Says Alleged Spoofer’s Trading Leads to New Complaints 
+traders_tweets	698140217103007744	2016-02-12T13:42:53	ALGO UPDATE: BofA Merrill Unveils New Algos, Option Data Feeds for Options on Instinct 
+traders_tweets	698109227517276161	2016-02-12T11:39:44	How the Sellside is Trying to Preserve Profitability in Tough Times 
+traders_tweets	698062644096471040	2016-02-12T08:34:38	Exchanges Object to Brokers Gaining More Stock-Market Oversight 
+traders_tweets	698056687064850432	2016-02-12T08:10:58	CFTC Too Broke to Properly Police Flash Traders, Massad Says 
+traders_tweets	697892807780995073	2016-02-11T21:19:46	Scenes from the Mid-Atlantic STA Winter Conference 
+traders_tweets	697773790315573250	2016-02-11T13:26:50	Woman-Owned CAPIS Goes After Plan Sponsor Business 
+traders_tweets	697718907633823744	2016-02-11T09:48:45	ICAP Revenue Declines as CEO Spencer Bets on Speed Traders 
+traders_tweets	697699719028613121	2016-02-11T08:32:30	World’s Top-Performing Bourse Operator Seeks Life Beyond Metals 
+traders_tweets	697666924587696129	2016-02-11T06:22:11	EU Plans 1-Year Extension of MiFID II Market Rule Start Date 
+traders_tweets	697432860928712704	2016-02-10T14:52:06	ITG Canada Lands Wassenaar as Trader and Hedge Fund Salesman 
+traders_tweets	697401338959962112	2016-02-10T12:46:50	CBOE Establishes VIX Oversight Group, Adjusts Index to Meet IOSCO Rules 
+traders_tweets	697387356446400514	2016-02-10T11:51:17	Outlook 2016: Can Raising Rates Jolt Bond Trading? 
+traders_tweets	697336647462088705	2016-02-10T08:29:47	Obama Will Seek to Double Budgets for Wall Street Regulators 
+traders_tweets	697313203148189696	2016-02-10T06:56:37	Ex-JPMorgan Executive Fined $1.1 Million Over ‘London Whale’ 
+traders_tweets	697118172579827712	2016-02-09T18:01:38	'Flash Crash' audit trail on track for late 2017: SEC official  via Reuters
+traders_tweets	697116099637215232	2016-02-09T17:53:24	NYSE didn't think a ~300 microsecond difference in protocols needed mentioning to SEC. But now, 350 micros is the end of the world?
+traders_tweets	697090246647943169	2016-02-09T16:10:40	LSE will launch its new midday auction for UK equities on March 21.
+traders_tweets	697089554600177664	2016-02-09T16:07:55	Can your exchange fit its fee schedule in a tweet? 
+traders_tweets	697066209385320448	2016-02-09T14:35:09	Mahoney Joins SBSCO as Managing Director 
+traders_tweets	697059592094818304	2016-02-09T14:08:52	TRADERS ON THE MOVE: Liquidnet Snags Pair for EQS Group, Brech Leaves Credit Suisse 
+traders_tweets	697052997612863491	2016-02-09T13:42:39	Triad Securities Adds Wedbush as Clearing Agent 
+traders_tweets	697026360800362496	2016-02-09T11:56:49	Are HFTs Really to Blame for the Stock Market's Woes? 
+traders_tweets	697014369528451073	2016-02-09T11:09:10	Hong Kong Approves Leveraged ETFs While Warning Traders of Risks 
+traders_tweets	696992147107680257	2016-02-09T09:40:52	Oppenheimer, Evercore Cut Equity Analyst Jobs as Stocks Slump 
+traders_tweets	696964305669984256	2016-02-09T07:50:14	Obscure Chinese Firm Dives Into $22 Trillion U.S. Market 
+traders_tweets	696801131847151617	2016-02-08T21:01:50	Citadel Purchases KCG DMM Business, Becomes #1 on NYSE 
+traders_tweets	696732831943409664	2016-02-08T16:30:26	OMS Provider LiquidityBook Names Sullivan as CRO 
+traders_tweets	696726098189496320	2016-02-08T16:03:41	Here's every correction since 2011. The market is currently down 10% this year:  SPY VIX 
+traders_tweets	696680639635070976	2016-02-08T13:03:02	ITG CEO Troise Promises Full Business Review by Second Quarter 
+traders_tweets	696634825340555264	2016-02-08T10:00:59	Liquidnet Hires Viani and Casey for Execution &amp; Quantitative Group 
+traders_tweets	696629736215285761	2016-02-08T09:40:46	Goldman Sachs and IBM Join Investment in Digital Asset Holdings 
+traders_tweets	696581374250250240	2016-02-08T06:28:36	Chicago Stock Exchange to Sell Itself to Chinese-Led Group 
+traders_tweets	695877985824595968	2016-02-06T07:53:35	The Basel III Threat To Smaller Broker-Dealers 
+traders_tweets	695762032465993728	2016-02-06T00:12:49	IPC Systems Completes Acquisition of Etrali Trading Solutions 
+traders_tweets	695669270479552512	2016-02-05T18:04:13	Works every time The fastest way to shut up an anti-IEX person? Show them this: 
+traders_tweets	695664798621659136	2016-02-05T17:46:27	Aquis Exchange will introduce a rule banning latency arbitrage.
+traders_tweets	695664519629115393	2016-02-05T17:45:20	FCA said algorithmic and HFTs will be captured by the accountability regime for wholesale markets.
+traders_tweets	695664347557797888	2016-02-05T17:44:39	ASX signed a deal with NASDAQ to upgrade its equities clearing platform.
+traders_tweets	695660559191117824	2016-02-05T17:29:36	ICE's Sprecher Blasts `Un-American' IEX, Rebutting Critique 
+traders_tweets	695650934693691393	2016-02-05T16:51:22	The Trading Volumes of January 2016 - A Rough Start 
+traders_tweets	695644729275498496	2016-02-05T16:26:42	Virtu Is Letting Outsiders Use Its High-Powered Systems 
+traders_tweets	695600490168582146	2016-02-05T13:30:55	Outlook 2016: The Rise of One-Touch Trading 
+traders_tweets	695583986022748160	2016-02-05T12:25:20	Fourth Quarter U.S. Options Volume Falls to 1.02Bn on Volatility Drop 
+traders_tweets	695578759840272384	2016-02-05T12:04:34	Tradeweb Launches U.S. ETF Trading Platform 
+traders_tweets	695572715672096768	2016-02-05T11:40:33	Green Key Releases New Voice Program Connecting Traders and Devices 
+traders_tweets	695280107095728128	2016-02-04T16:17:49	Promotions and New Hires for January 2015 
+traders_tweets	695274826072719360	2016-02-04T15:56:50	With IEX, the Data Tells a Different Story... 
+traders_tweets	695269227234770944	2016-02-04T15:34:35	Equity ETF Outflows Hit $16Bn in January, State Street Global Reports 
+traders_tweets	695230672626122752	2016-02-04T13:01:23	ITG Announces Seven New Managing Directors 
+traders_tweets	695211717102559232	2016-02-04T11:46:04	Outlook 2016: A Blast of Market Volatility 
+traders_tweets	695204764561326080	2016-02-04T11:18:26	Global Equity Commissions Steady Amid Slip in High-Touch Rates 
+traders_tweets	695120858680049664	2016-02-04T05:45:02	Aquis Exchange Hopes to Grow With ‘Flash Boys’ Strategy 
+traders_tweets	695020684595040261	2016-02-03T23:06:58	Scenes from the STAC Mid-Winter Meeting Panels and Speeches 
+traders_tweets	694963194327097347	2016-02-03T19:18:31	Buyside Speakers Announced for 2016 Florida STA Conference 
+traders_tweets	694949928821510144	2016-02-03T18:25:49	CBOE will begin overnight dissemination of the CBOE Volatility Index in March.
+traders_tweets	694949787729293312	2016-02-03T18:25:15	SEC Committee Tues - discussed move away from halting trading in individual stocks to help prevent excessive volatility and trading halts.
+traders_tweets	694949588550164480	2016-02-03T18:24:28	SEC Committee on Equity Market Structure met Tues. The committee evaluated limiting the types of stock orders available to retail investors
+traders_tweets	694938226696523776	2016-02-03T17:39:19	Buyside Speakers Announced for 2015 Florida STA Conference 
+traders_tweets	694915692630523905	2016-02-03T16:09:46	The Five Reasons Behind Growing Buyside Use of ETFs 
+traders_tweets	694879694370504708	2016-02-03T13:46:44	CBOE Set List SPX Wednesday-Expiring Weeklys Options 
+traders_tweets	694865729288544257	2016-02-03T12:51:14	Decoding FINRA's 2016 Regulatory and Examinations Letter 
+traders_tweets	694850703991427072	2016-02-03T11:51:32	Outlook 2016: Who’s Afraid of IEX Group? 
+traders_tweets	694809467054067712	2016-02-03T09:07:40	NYSE Wants to Abandon Rule Some Say Contributed to Wild Session 
+traders_tweets	694774830239977472	2016-02-03T06:50:02	More Dark Pool Investigations Under Way, Says New York’s Top Cop 
+traders_tweets	694600509290856448	2016-02-02T19:17:21	Object Trading CEO Shares Thoughts on 2016 Trading Outlook 
+traders_tweets	694555358870794240	2016-02-02T16:17:56	“SEC Will Continue to Shed Light on Dark Pools,” Chair White Says 
+traders_tweets	694540088626302976	2016-02-02T15:17:15	TRADERS ON THE MOVE: Morgan Stanley Promotes Santoro to Global Head of Equity Trading 
+traders_tweets	694492824516104192	2016-02-02T12:09:27	Liquid Announces Voluntary Bankruptcy Filing 
+traders_tweets	694487476065431552	2016-02-02T11:48:11	Outlook 2016: A Fine Dark Pool Mess 
+traders_tweets	694482296448126976	2016-02-02T11:27:36	ITG Names Nasdaq Alum Shavel to Board of Directors 
+traders_tweets	694168998330679296	2016-02-01T14:42:40	FEATR: CHX Proposes End to Escalating Market Data Fees -- and Information Asymmetry 
+traders_tweets	694170490844364800	2016-02-01T14:48:36	The SEC's findings against Barclays seem to concede that using the SIP to calculate prices is faulty at best 
+traders_tweets	694169939209502720	2016-02-01T14:46:25	Barclays, Credit Suisse Agree to Dark Pools Settlements 
+traders_tweets	694164401746739200	2016-02-01T14:24:24	A NYSE Speed Bump You Weren’t Aware Of 
+traders_tweets	694142118030393347	2016-02-01T12:55:52	Outlook 2016: The Year of Outages 
+traders_tweets	694117897803829248	2016-02-01T11:19:37	Intercontinental Exchange Announces Senior Management Promotions 
+traders_tweets	694109257000706048	2016-02-01T10:45:17	Commcise Opens U.S. Commission Management Office in New York 
+traders_tweets	694044993955221504	2016-02-01T06:29:55	SEC’s Former Top Hand on Mutual Funds to Join Kirkland &amp; Ellis 
+traders_tweets	693285926357827586	2016-01-30T04:13:40	Japan Regulator Fires Warning Shot at HFT With Broker Questions 
+traders_tweets	693154401645625348	2016-01-29T19:31:02	Aequitas NEO Lands PowerShares as First Listed ETF 
+traders_tweets	693090556512243712	2016-01-29T15:17:20	New Report Says Market Data “Death Match” Hurts U.S. Equities Market 
+traders_tweets	693067297133576192	2016-01-29T13:44:54	Citi Leads Greenwich Associates Survey of Global Fixed Income Share 
+traders_tweets	693042022974930944	2016-01-29T12:04:29	Outlook 2016: The Street’s Right-Sizing Marches On 
+traders_tweets	693002164260749312	2016-01-29T09:26:05	Maureen Jensen Nominated to Lead Ontario Securities Commission 
+traders_tweets	692834270302175236	2016-01-28T22:18:56	A Trader's Perspective at the STAC Mid Winter Conference 
+traders_tweets	692793893830692866	2016-01-28T19:38:30	Nasdaq CFO and Executive VP, Lee Shavel, to retire on March 31.
+traders_tweets	692793700699770880	2016-01-28T19:37:44	Shenzen-Hong Kong stock connect will be launch this year according to SSE deputy general manager, Lin Fan.
+traders_tweets	692793575042633729	2016-01-28T19:37:14	NYSE looks to adjust Limit Up/Down program, eliminating conditions that may preclude price bands from being in immediate effect,
+traders_tweets	692773925412028417	2016-01-28T18:19:09	Seabury FXone and Spotex Enter Into Joint OMS FX Product Offering 
+traders_tweets	692730663989088256	2016-01-28T15:27:15	Outlook 2016: Bye Bye Bonus 
+traders_tweets	692694956855685120	2016-01-28T13:05:22	Tabb Group Warns of Regulatory Concerns for Equities Market in 2016 
+traders_tweets	692622579689984000	2016-01-28T08:17:45	Credit Suisse Opens Prime Services Trading Floor in Dublin 
+traders_tweets	692607189798817792	2016-01-28T07:16:36	NYSE’s $2 Trillion ETF Business Sees More Competition 
+traders_tweets	692397146302238720	2016-01-27T17:21:58	Is Fragmentation a Figment of the Market’s Imagination? 
+traders_tweets	692350425312432128	2016-01-27T14:16:19	TRADERS ON THE MOVE: York Capital Equities Head Leaves, FIG Hires Trading/Sales Pair 
+traders_tweets	692243637535641600	2016-01-27T07:11:59	High-Speed Firms Now Oversee Almost All Stocks at NYSE Floor 
+traders_tweets	692229374481973248	2016-01-27T06:15:18	A Big Trader Just Joined Criticism of Key Stock Market Service 
+traders_tweets	692051537602953216	2016-01-26T18:28:38	GTS Aims To Be Designated Market Maker on the New York Stock Exchange 
+traders_tweets	692016921936580608	2016-01-26T16:11:05	J.C. Flowers Set to Acquire Chi-X Australia, Chi-X Japan and Chi-Tech 
+traders_tweets	691997733666824193	2016-01-26T14:54:51	INTL FCStone Financial Tops the International Equities Traded OTC Ranks 
+traders_tweets	691978616398307328	2016-01-26T13:38:53	DTCC Calls for Leveraging Ledger Tech to Solve Market Challenges 
+traders_tweets	691947796056969217	2016-01-26T11:36:25	December 2015 U.S Equity Volume Up 5% at 7.2Bn Shares 
+traders_tweets	691708551681679366	2016-01-25T19:45:44	IPO Recovery Could Take Months to Happen, NYSE’s Farley Says 
+traders_tweets	691692625200570370	2016-01-25T18:42:27	FTC Massad- 2 propose new rules aimed at attracting derivatives traders to SEFs and making improvements to the way the platforms function;
+traders_tweets	691691962701869057	2016-01-25T18:39:49	NEWS: SEC rules could cut number of alternative trading systems (Pensions &amp; Investments)($) 
+traders_tweets	691692432996634624	2016-01-25T18:41:41	CFTC granted registration to 18 SEFs.
+traders_tweets	691640013277233152	2016-01-25T15:13:23	Stock Exchange Data Fees Eat Investors' Returns 
+traders_tweets	691631058723430400	2016-01-25T14:37:48	NEWS: Up to 40 buy-siders to join Project Neptune (The Trade)($) 
+traders_tweets	691585674999394304	2016-01-25T11:37:28	More ATS Fragmentation and Consolidation Seen in 2016  But How? 
+traders_tweets	691545090632847360	2016-01-25T08:56:12	Blythe Masters Firm Raises Cash, Wins Australian Contract 
+traders_tweets	691531346095804416	2016-01-25T08:01:35	Electronic Bond Trading May Sap Liquidity Amid Stress, BIS Says 
+traders_tweets	690581029652815873	2016-01-22T17:05:22	More Scenes from STAC 2016 Mid-Winter Meeting 
+traders_tweets	690479628692123648	2016-01-22T10:22:26	2016 Outlook: The Return of the Bespoke Algorithm 
+traders_tweets	690456869710729216	2016-01-22T08:52:00	Nasdaq COO Friedman Says IPOs Delayed Amid Global Market Turmoil 
+traders_tweets	690431591479427073	2016-01-22T07:11:33	IEX’s Exchange Quest Spurs a ‘Flash Boys’ Fight With Citadel 
+traders_tweets	690229749671682048	2016-01-21T17:49:30	Outlook 2016: Blockchain Technology Is Coming 
+traders_tweets	690198586726989824	2016-01-21T15:45:41	KCG Is Said to Plan Exit From Retail Options Market Making 
+traders_tweets	690193104121524224	2016-01-21T15:23:53	Buyside Profile: A Radical Fixed-Income Method 
+traders_tweets	690187756215992320	2016-01-21T15:02:38	Bitcoin, Algos and Dark Pool Fines: The Traders 2016 Outlook 
+traders_tweets	689940049253761026	2016-01-20T22:38:20	Speakers for STA Florida Annual Conference Announced 
+traders_tweets	689861787534127104	2016-01-20T17:27:21	Scenes from STAC 2016 Mid-Winter Meeting - Part 1 
+traders_tweets	689811932279410693	2016-01-20T14:09:15	Dash Financial Launches Next Gen Order Visualization Technology System 
+traders_tweets	689800184650416128	2016-01-20T13:22:34	Modern Markets Favors IEX’s Exchange Petition. Or Does It? 
+traders_tweets	689716248838574080	2016-01-20T07:49:02	China Stocks Watchdog Acknowledges Flaws in Equities Regulation 
+traders_tweets	689458786851954688	2016-01-19T14:45:58	ITG Names Cheng as Chairman of BoD as Troise Begins CEO Tenure 
+traders_tweets	689446154484846592	2016-01-19T13:55:47	Credit Suisse Sees Active Manager Volume Trending Higher in 2016, HFT Flat 
+traders_tweets	689426526794739712	2016-01-19T12:37:47	How Can Options Volume Climb Out of the Doldrums After Mediocre 2015? 
+traders_tweets	689394850752372736	2016-01-19T10:31:55	Discount Retailer Overstock Has New Target: Upending Wall Street 
+traders_tweets	689339902870351872	2016-01-19T06:53:34	High-Yield Bond Funds Said to Face SEC Scrutiny on Liquidity 
+traders_tweets	688102932286328833	2016-01-15T20:58:18	STA Event Scheduled for 2016 
+traders_tweets	688021014333288448	2016-01-15T15:32:47	Traders On the Move: Tabb Hires a Trio, Oppenheimer Grabs a Trading Head 
+traders_tweets	687965493869817856	2016-01-15T11:52:10	IEX Becomes Exchange, Dark Pools Settle and Become Regulated, Themis Trading Predicts in 2016 
+traders_tweets	687959964267208704	2016-01-15T11:30:11	Nasdaq Launches Investor Relations Information Website 
+traders_tweets	687928867487625216	2016-01-15T09:26:37	BlackRock to SEC: Drop ETFs From New Fund Liquidity Safeguards 
+traders_tweets	687909356202029056	2016-01-15T08:09:05	European Dark Pools Expand, Spiting Regulators’ Ambitions 
+traders_tweets	687740835098693632	2016-01-14T20:59:27	IPO Calendar Light So Far After Q4 Drought 
+traders_tweets	687644539062976512	2016-01-14T14:36:48	Traders Q&amp;A: Inside the Chinese Circuit Breakers 
+traders_tweets	687614361586823168	2016-01-14T12:36:53	Triad Securities Announces the Expansion of Their Managed Suites for Hedge Funds 
+traders_tweets	687389762261544964	2016-01-13T21:44:25	FINRA's New Target: Broker Culture 
+traders_tweets	687299483978326018	2016-01-13T15:45:41	More Traders On the Move for January 2015 
+traders_tweets	687224531866533888	2016-01-13T10:47:51	Nasdaq Suspends Currency-Trading Plans While Rivals Race Ahead 
+traders_tweets	687207944631488512	2016-01-13T09:41:56	UBS: U.S. Stocks Could Enter a Bear Market This Year 
+traders_tweets	687192954428080128	2016-01-13T08:42:22	Mutual Funds to Face More SEC Scrutiny After Third Avenue Bust 
+traders_tweets	687034053124567044	2016-01-12T22:10:57	FXCM and FXFlat Announce New Technology Partnership 
+traders_tweets	686944921509609472	2016-01-12T16:16:46	The Trading Volume of December 2015: A Rough Finish 
+traders_tweets	686939243860639744	2016-01-12T15:54:13	Rosenblatt Expands Research Staff with Two Execs 
+traders_tweets	686902085430935552	2016-01-12T13:26:33	Markit Acquires DTCC Loan/SERV Reconciliation Technology 
+traders_tweets	686649229675229185	2016-01-11T20:41:48	Accept It: The Blockchain Will Be Part of Your Bank's Business 
+traders_tweets	686584884719153154	2016-01-11T16:26:07	UBS Asset Says China Equity Volatility Spells Continued Bond Boost 
+traders_tweets	686578370361077761	2016-01-11T16:00:14	On The Move: Gilberg Joins Mizuho 
+traders_tweets	686571191826526208	2016-01-11T15:31:42	TRADERS ON THE MOVE: Credit Suisse’s Mathisson Said Departing, DB Hires Global Equities Head 
+traders_tweets	686565032415596546	2016-01-11T15:07:14	One The Move: Gilberg Joins Mizuho Securities 
+traders_tweets	686554823236386816	2016-01-11T14:26:40	BlackRock’s Europe ETF Winning as Traders Dump WisdomTree’s 
+traders_tweets	686548305036357633	2016-01-11T14:00:46	Inventor of Market Circuit Breakers Says China Got It Wrong 
+traders_tweets	686536704644255744	2016-01-11T13:14:40	Traders On The Move: Morgan Stanley Appoints Kelleher As President 
+traders_tweets	685812210543816704	2016-01-09T13:15:47	Nasdaq and Tel-Aviv Stock Exchange Form New "Venture"-Type Platform 
+traders_tweets	685704679557328896	2016-01-09T06:08:30	HFT Participation in Markets Grows, According to Latest Fed Survey 
+traders_tweets	685610461220450304	2016-01-08T23:54:06	China’s 29 Minutes of Chaos: Stunned Brokers and a Race to Sell 
+traders_tweets	685489204101529600	2016-01-08T15:52:16	James Cox and J. Robert Brown Join Board of Healthy Markets Association 
+traders_tweets	685427691990941697	2016-01-08T11:47:51	Third Avenue Bust Won’t Keep Funds From Fighting SEC Safeguards 
+traders_tweets	685411373304668160	2016-01-08T10:43:00	Options Market Stalled After Decade-Long Surge to Record 
+traders_tweets	685354842039136256	2016-01-08T06:58:22	Barclays Said to Plan Closing Most of Asia Cash Equities 
+traders_tweets	685298108272623616	2016-01-08T03:12:55	Chinese Suspends Circuit Breaker Program, Halts Trading 
+traders_tweets	685219339998490624	2016-01-07T21:59:56	Non-Bank Liquidity, Blockchain and Chat Among market Issues in 2016, Greenwich Reports 
+traders_tweets	685125248749023232	2016-01-07T15:46:02	HFT Reaches for the Sky in UK 
+traders_tweets	685059176729604097	2016-01-07T11:23:30	BlackRock Moves Primary Listing for 11 ETFs Off of NYSE Arca 
+traders_tweets	684999645119037440	2016-01-07T07:26:56	Wall Street to Get Graded on How Much Spoofing It Enables 
+traders_tweets	684792472409608194	2016-01-06T17:43:42	JPMorgan Picks Virtu as New NYSE Market Maker, Replacing KCG 
+traders_tweets	684764572411146240	2016-01-06T15:52:51	On The Move: Expanding debt team, Cantor hires pair from Cowen 
+traders_tweets	684759098659868672	2016-01-06T15:31:05	Credit Suisse Trading Pioneer Dan Mathisson Is Said to Leave 
+traders_tweets	684753810984710144	2016-01-06T15:10:05	BOK Financial Acquires Weaver Wealth Management 
+traders_tweets	684491195570077697	2016-01-05T21:46:32	Five Key Takeaways from 2015 ETF Flows 
+traders_tweets	684411678537166850	2016-01-05T16:30:34	Traders On The Move: Meet the New Hires of December 2015 
+traders_tweets	684392517794676738	2016-01-05T15:14:26	IEX Petition to SEC Could Create Two Tiered Exchange Model 
+traders_tweets	684338706510118912	2016-01-05T11:40:36	 Registration Statement Covering Digital Securities Declared Effective 
+traders_tweets	684278042122940416	2016-01-05T07:39:33	Too Much Momentum Is Hazard for U.S. Equities Stuck in Neutral 
+traders_tweets	684052446050684928	2016-01-04T16:43:06	VIDEO: A Flash Course on Market Structure: Haim Bodek, Decimus Capital Markets 
+traders_tweets	684062448555560960	2016-01-04T17:22:51	NEWS: London Bankers Predict 2016 Bonuses at 25% of Private Equity (Bloomberg) 
+traders_tweets	684051812526219264	2016-01-04T16:40:35	China stocks trigr circuit breakers.  The CB halts trading for 15m in all shares &amp; futures if the CSI 300 -5%. Trading closed 4 day at - 7%.
+traders_tweets	684044836777897984	2016-01-04T16:12:52	Pershing Square and Information Leakage on IEX  via mechmarkets
+traders_tweets	684047593849139201	2016-01-04T16:23:50	Saudi Arabia Stock Market Plans 2018 Initial Public Offering 
+traders_tweets	684041596560650241	2016-01-04T16:00:00	BTIG Expands Transition Management Business, Hires Howell to Boost Business 
+traders_tweets	684030211495690240	2016-01-04T15:14:45	Brokers Report Shanghai-Hong Kong Stock Link Needs Regulatory Change 
+traders_tweets	684024342166962176	2016-01-04T14:51:26	TRADERS ON THE MOVE: If you have a new job or promotion, let us know at onthemove@sourcemedia.com 
+traders_tweets	682494277742637057	2015-12-31T09:31:30	How bitcoin’s tech could ‘change everything’ for banks  
+traders_tweets	682572898347925504	2015-12-31T14:43:55	One exchange operator is looking to strut its blockchain stuff....read about which one and what it is doing now..  
+traders_tweets	682572527013621765	2015-12-31T14:42:26	The SEC said one exchange is particularly responsible for the August etf rout....which one? and why? 
+traders_tweets	682572106673053696	2015-12-31T14:40:46	Should traders pay for canceled orders? 
+traders_tweets	682559140313608192	2015-12-31T13:49:15	Nasdaq Seeks to Show Progress Using Much-Hyped Blockchain 
+traders_tweets	682527472089481216	2015-12-31T11:43:24	NYSE Arca Rules Partly Responsible for August ETF Rout, SEC Says 

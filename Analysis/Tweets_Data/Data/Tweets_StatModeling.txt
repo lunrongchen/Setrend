@@ -1,0 +1,210 @@
+StatModeling	726045420430860289	2016-04-29T13:48:12	New post: Gary Venter’s age-period-cohort decomposition of US male mortality trends 
+StatModeling	725879349040156676	2016-04-29T02:48:17	New post: Lots of buzz regarding this postdoc position 
+StatModeling	725674019207274496	2016-04-28T13:12:23	New post: Integrating graphs into your workflow 
+StatModeling	725527279615401984	2016-04-28T03:29:17	New post: “Kasparov To Face Caruana, Nakamura, So In Ultimate Blitz Challenge” 
+StatModeling	725322667721519109	2016-04-27T13:56:14	New post: 64 Shades of Gray:  The subtle effect of chessboard images on foreign policy polarization 
+StatModeling	724961218306281474	2016-04-26T13:59:58	New post: If Yogi Berra could see this one, he’d spin in his grave:  Regression modeling using a convenience sample 
+StatModeling	724609300841127936	2016-04-25T14:41:34	New post: I owe it all to my Neanderthal genes 
+StatModeling	724583958474678273	2016-04-25T13:00:52	New post: On deck this week 
+StatModeling	724226720941805570	2016-04-24T13:21:20	New post: Risk aversion is a two-way street 
+StatModeling	723870183689834497	2016-04-23T13:44:35	New post: What is the “true prior distribution”?  A hard-nosed answer. 
+StatModeling	723501216295047169	2016-04-22T13:18:26	New post: Stochastic natural-gradient EP 
+StatModeling	723298039662702592	2016-04-21T23:51:05	New post: The causal inference competition you’ve all been waiting for 
+StatModeling	723142881804849153	2016-04-21T13:34:33	New post: A new idea for a science core course based entirely on computer simulation 
+StatModeling	722775318994362368	2016-04-20T13:13:59	New post: “Cancer Research Is Broken” 
+StatModeling	722415874934595584	2016-04-19T13:25:41	New post: “if you add a few more variables, you can do a better job at predictions” 
+StatModeling	722079479418388480	2016-04-18T15:08:58	New post: DG XXXVII:  Lumosity fined $2 million for deceiving customers about its “brain training” programs 
+StatModeling	722047073726504961	2016-04-18T13:00:12	New post: On deck this week 
+StatModeling	721936216606703617	2016-04-18T05:39:41	New post: David MacKay 
+StatModeling	721693420566089730	2016-04-17T13:34:54	New post: A short answer to a short question 
+StatModeling	721333894067281920	2016-04-16T13:46:16	New post: Avoiding model selection in Bayesian social research 
+StatModeling	720966435200106496	2016-04-15T13:26:07	New post: Put your own questions on the General Social Survey! 
+StatModeling	720688564590149633	2016-04-14T19:01:58	New post: Stan Coding Corner:  O(N) Change-Point Program with Clever Forward-Backward Calculation 
+StatModeling	720601286119272448	2016-04-14T13:15:09	New post: These Twin Names Match, But Aren’t “Matchy-Matchy” 
+StatModeling	720240108318887936	2016-04-13T13:19:57	New post: Bayesian Umpires:  The coolest sports-statistics idea since the hot hand! 
+StatModeling	719998036999442432	2016-04-12T21:18:03	New post: 2016 Atlantic Causal Inference Conference 
+StatModeling	719882382870876161	2016-04-12T13:38:29	New post: Why I don’t believe Fergus Simpson’s Big Alien Theory 
+StatModeling	719536931097288706	2016-04-11T14:45:47	New post: GIGO 
+StatModeling	719510522433896448	2016-04-11T13:00:51	New post: On deck this week 
+StatModeling	719162252679520260	2016-04-10T13:56:57	New post: Should I be upset that the NYT credulously reviewed a book promoting iffy science? 
+StatModeling	718791468551241728	2016-04-09T13:23:35	New post: Black Box Challenge 
+StatModeling	718426148745531392	2016-04-08T13:11:56	New post: John Yoo blogging 
+StatModeling	718167300977725440	2016-04-07T20:03:22	New post: Gay persuasion update 
+StatModeling	718071792091271168	2016-04-07T13:43:51	New post: Selection bias, or, some things are better off left unsaid 
+StatModeling	717819951738826753	2016-04-06T21:03:07	New post: Postdoc in Alabama on obesity-related research using statistics 
+StatModeling	717708518715854848	2016-04-06T13:40:19	New post: These celebrity photos are incredible:  Type S errors in use! 
+StatModeling	717344731143884801	2016-04-05T13:34:46	New post: Best Disclaimer Ever 
+StatModeling	717162921160089600	2016-04-05T01:32:19	New post: Somebody’s reading our research. 
+StatModeling	716999405031665664	2016-04-04T14:42:34	New post: “A strong anvil need not fear the hammer” 
+StatModeling	716973874840113153	2016-04-04T13:01:07	New post: On deck this week 
+StatModeling	716786018238640128	2016-04-04T00:34:38	New post: A question about software for an online survey 
+StatModeling	716622614496579584	2016-04-03T13:45:20	New post: For Opening Day 
+StatModeling	716255296440504320	2016-04-02T13:25:44	New post: Himmicanes and hurricanes update 
+StatModeling	715886578199998465	2016-04-01T13:00:35	New post: In the biggest advance in applied mathematics since the most recent theorem that Stephen Wolfram paid for 
+StatModeling	715531911985127424	2016-03-31T13:31:16	New post: Gresham’s Law of experimental methods 
+StatModeling	715325428169191424	2016-03-30T23:50:46	New post: Numbers too good to be true? Or: Thanks, Obama!? 
+StatModeling	714811045252980741	2016-03-29T13:46:48	New post: “Bayesians (quite rightly so according to the theory) . . .” 
+StatModeling	714575034723905536	2016-03-28T22:08:59	New post: He’s looking for Bayesian time-series examples 
+StatModeling	714476009009991680	2016-03-28T15:35:29	New post: What is a Republican? 
+StatModeling	714437125555367936	2016-03-28T13:00:58	New post: On deck this week 
+StatModeling	714088640025001985	2016-03-27T13:56:13	New post: “Rbitrary Standards” 
+StatModeling	713712279523491840	2016-03-26T13:00:42	New post: He does mathematical modeling and is asking for career advice:  wants to move from biology to social 
+StatModeling	713355886882717696	2016-03-25T13:24:31	New post: Data-dependent prior as an approximation to hierarchical model 
+StatModeling	712994134907179010	2016-03-24T13:27:03	New post: Multilevel regression 
+StatModeling	712640088916623360	2016-03-23T14:00:12	New post: In defense of endless arguments 
+StatModeling	712432228643373056	2016-03-23T00:14:14	New post: Will. Not. Rise. To. Bait. 
+StatModeling	712264657998708736	2016-03-22T13:08:22	New post: Thinking about this beautiful text sentiment visualizer yields a surprising insight about statistical 
+StatModeling	711926715979735040	2016-03-21T14:45:30	New post: Noise noise noise noise noise 
+StatModeling	711900423032995841	2016-03-21T13:01:01	New post: On deck this week 
+StatModeling	711550382820827137	2016-03-20T13:50:05	New post: My quick answer is that I would analyze all 10 outcomes using a multilevel model. 
+StatModeling	711178555560833024	2016-03-19T13:12:35	New post: Actually, I’d just do full Bayes 
+StatModeling	710708316029104128	2016-03-18T06:04:01	New post: Stan Case Studies Launches 
+StatModeling	710603027703410688	2016-03-17T23:05:38	New post: Kalesan, Fagan, and Galea respond to criticism of their paper on gun laws and deaths 
+StatModeling	710101221202223105	2016-03-16T13:51:38	New post: Lack of free lunch again rears ugly head 
+StatModeling	709876652180791296	2016-03-15T22:59:17	New post: Stan backronym just a joke 
+StatModeling	709727419138056193	2016-03-15T13:06:17	New post: How should statisticians and economists think about recreational gambling? 
+StatModeling	709392034478469120	2016-03-14T14:53:35	New post: Recently in the sister blog 
+StatModeling	709364959361118213	2016-03-14T13:06:00	New post: On deck this week 
+StatModeling	709010444749377536	2016-03-13T13:37:17	New post: The unbelievable reason that Jennifer Lawrence is using Waic and cross-validation for survival models 
+StatModeling	708654122203918336	2016-03-12T14:01:23	New post: 0.05 is a joke 
+StatModeling	708439924781940736	2016-03-11T23:50:14	New post: “Why this gun control study might be too good to be true” 
+StatModeling	708294967530119168	2016-03-11T14:14:14	New post: Statistics is like basketball, or knitting 
+StatModeling	707940433658138625	2016-03-10T14:45:26	New post: Good advice can do you bad 
+StatModeling	707766321883193345	2016-03-10T03:13:35	New post: Le Menu Dit : a translation app 
+StatModeling	707567594585214976	2016-03-09T14:03:55	Post Edited: Bruised and battered, I couldn’t tell what I felt.  I was ungeneralizable to myself. 
+StatModeling	707567010624839681	2016-03-09T14:01:35	New post: Bruised and battered, I couldn’t tell what I felt.  I was ungeneralizable to myself. 
+StatModeling	707505455057088512	2016-03-09T09:56:59	New post: Postdoctoral Researcher and Research Fellow positions in Computer Science in Helsinki, Finland 
+StatModeling	707471357064454144	2016-03-09T07:41:30	New post: I was bruised and battered, I couldn’t tell what I felt.  I was ungeneralizable to myself. 
+StatModeling	707300415059005440	2016-03-08T20:22:14	New post: Bayesian inference for network links 
+StatModeling	707191726176280576	2016-03-08T13:10:21	New post: Stan – The Bayesian Data Scientist’s Best Friend 
+StatModeling	706934518972702720	2016-03-07T20:08:18	New post: Smiley faces were never seen 
+StatModeling	706866670875181056	2016-03-07T15:38:41	New post: The problems with p-values are not just with p-values:  My comments on the recent ASA statement 
+StatModeling	706842124499595264	2016-03-07T14:01:09	New post: On deck this week 
+StatModeling	706495786998063108	2016-03-06T15:04:56	New post: I was wrong 
+StatModeling	706130221376745473	2016-03-05T14:52:18	Post Edited: Replication crisis crisis:  Why I continue in my “pessimistic conclusions about reproducibility” 
+StatModeling	706129785995460608	2016-03-05T14:50:34	New post:  
+StatModeling	706117432813879297	2016-03-05T14:01:29	New post: “The Bayesian Second Law of Thermodynamics” 
+StatModeling	705793948090937344	2016-03-04T16:36:04	Post Edited: Creationist article published in Plos-One 
+StatModeling	705577783443869696	2016-03-04T02:17:07	Post Edited: Enough with the replication police 
+StatModeling	705467967098597376	2016-03-03T19:00:44	New post: More on replication crisis 
+StatModeling	705403140166684677	2016-03-03T14:43:09	New post: At this point, even Tom Cruise is skeptical about claims of social priming. (Click to find out why) 
+StatModeling	705160987511402496	2016-03-02T22:40:55	New post: What parts of the country are most religious? 
+StatModeling	705033229170937856	2016-03-02T14:13:15	New post: No, this post is not 30 days early:  Psychological Science backs away from null hypothesis significance 
+StatModeling	704872029334286336	2016-03-02T03:32:42	New post: He’s looking for a textbook that explains Bayesian methods for non-parametric tests 
+StatModeling	704675905008893952	2016-03-01T14:33:22	New post: Having trouble planning a replication?  Here’s how the scientific publishing process gets in the way. 
+StatModeling	704334802686578689	2016-02-29T15:57:57	New post: Fitting the birthday model in Stan 
+StatModeling	704305426129498112	2016-02-29T14:01:13	New post: On deck this week 
+StatModeling	703970781638754304	2016-02-28T15:51:28	New post: Can you trust international surveys? 
+StatModeling	703950921517039616	2016-02-28T14:32:33	New post: He wants to teach himself some statistics 
+StatModeling	703586616783208448	2016-02-27T14:24:56	New post: Graphical Data Analysis with R 
+StatModeling	703220485404819456	2016-02-26T14:10:03	New post: Job opening . . . for a data graphics editor! 
+StatModeling	702865662834712576	2016-02-25T14:40:07	New post: Probability paradox may be killing thousands 
+StatModeling	702651380310224896	2016-02-25T00:28:38	New post: Fundamental difficulty of inference for a ratio when the denominator could be positive or negative 
+StatModeling	702588363363086336	2016-02-24T20:18:13	New post: Nonprofit Stan! 
+StatModeling	702497745068621824	2016-02-24T14:18:08	New post: Stan does Valentine’s 
+StatModeling	702256527432765440	2016-02-23T22:19:38	New post: Mister P:  Challenges in Generalizing from Sample to Population (my talk at the Ross-Royall Symposium at 
+StatModeling	702142115640320000	2016-02-23T14:45:00	New post: An apology and a note on Stockholm Syndrome 
+StatModeling	701806487211933697	2016-02-22T16:31:20	New post: Too big to fail:  Why it’s unrealistic to expect scientific journals to retract their huge backlog of e 
+StatModeling	701768651699949569	2016-02-22T14:00:59	New post: On deck this week 
+StatModeling	701423273431531521	2016-02-21T15:08:34	New post: Fast analysis, soft statistics, and junk data intake is unrelated to research quality for 0% of American 
+StatModeling	701056972171276288	2016-02-20T14:53:01	New post: “Don’t get me started on ‘cut'” 
+StatModeling	700860404579246080	2016-02-20T01:51:56	New post: Fabrication in survey research! 
+StatModeling	700690657619394560	2016-02-19T14:37:25	New post: I wish Napoleon Bonaparte had never been born 
+StatModeling	700331963408715776	2016-02-18T14:52:06	New post: Miller and Sanjurjo share 5 tips on how to hit the zeitgeist jackpot 
+StatModeling	699967833107632128	2016-02-17T14:45:10	New post: You’ll never guess what David Cox wrote about the garden of forking paths! 
+StatModeling	699764114126610432	2016-02-17T01:15:40	New post: Black Hole Stan 
+StatModeling	699598483305541632	2016-02-16T14:17:30	New post: “What is Bayesian data analysis?  Some examples”:  My lecture at the New School this Wed noon 
+StatModeling	699572941361557504	2016-02-16T12:36:01	New post: School county data request 
+StatModeling	699346698426912769	2016-02-15T21:37:00	New post: The recent black hole LIGO experiment used PyStan! 
+StatModeling	699256444760141824	2016-02-15T15:38:22	New post: If Karl Popper edited the New York Times 
+StatModeling	699231706159579136	2016-02-15T14:00:04	New post: On deck this week 
+StatModeling	698878724507209729	2016-02-14T14:37:27	New post: Hierarchical models for phylogeny:  Here’s what everyone’s talking about 
+StatModeling	698593859543011328	2016-02-13T19:45:30	Post Edited: Handy statistical lexicon 
+StatModeling	698516253510504448	2016-02-13T14:37:07	New post: Pooling is relative to the model 
+StatModeling	698152172781858816	2016-02-12T14:30:23	New post: “Priming Effects Replicate Just Fine, Thanks” 
+StatModeling	697974369885097984	2016-02-12T02:43:52	New post: Arrow’s Theorem in the news:  Sleazy-ass political scientists cut-and-paste their way to 3 publications f 
+StatModeling	697783548032331776	2016-02-11T14:05:36	New post: In general, hypothesis testing is overrated and hypothesis generation is underrated, so it’s fine for t 
+StatModeling	697422801334988802	2016-02-10T14:12:07	New post: Scientific explanation of Panther defeat! 
+StatModeling	697111849133694976	2016-02-09T17:36:31	New post: Stan’s Super Bowl prediction:  Broncos 24, Panthers 13 
+StatModeling	697091670416855042	2016-02-09T16:16:20	New post: Phd positions in Probabilistic Machine Learning at AaltoPML group Finland 
+StatModeling	697065445732413441	2016-02-09T14:32:07	New post: Primed to lose 
+StatModeling	696729332757073920	2016-02-08T16:16:32	New post: Forking paths vs. six quick regression tips 
+StatModeling	696695080778764288	2016-02-08T14:00:25	New post: On deck this week 
+StatModeling	696336492939993088	2016-02-07T14:15:31	New post: You’ll never guess what I say when I have nothing to say 
+StatModeling	695975543699668992	2016-02-06T14:21:14	New post: What’s the difference between randomness and uncertainty? 
+StatModeling	695750590714884096	2016-02-05T23:27:21	New post: The bejeezus 
+StatModeling	695612019156717568	2016-02-05T14:16:43	New post: Stat Podcast Plan 
+StatModeling	695253856054149120	2016-02-04T14:33:31	New post: The Notorious N.H.S.T. presents: Mo P-values Mo Problems 
+StatModeling	695001758112681984	2016-02-03T21:51:46	New post: “Chatting with the Tea Party” 
+StatModeling	694888185344577537	2016-02-03T14:20:28	New post: Where the fat people at? 
+StatModeling	694693898459811841	2016-02-03T01:28:26	New post: Hey—go to Iceland and work on glaciers! 
+StatModeling	694579306643599360	2016-02-02T17:53:06	New post: Summer internship positions for undergraduate students with Aki 
+StatModeling	694526999654600705	2016-02-02T14:25:15	New post: Stunning breakthrough:  Using Stan to map cancer screening! 
+StatModeling	694189037305798657	2016-02-01T16:02:18	New post: When does peer review make no damn sense? 
+StatModeling	694159722950238212	2016-02-01T14:05:49	New post: On deck this week 
+StatModeling	693924654847696896	2016-01-31T22:31:44	New post: Ted Cruz angling for a position in the Stanford poli sci department 
+StatModeling	693905678251851778	2016-01-31T21:16:20	New post: Postdoc opportunity with Sophia Rabe-Hesketh and me in Berkeley! 
+StatModeling	693809095858499585	2016-01-31T14:52:33	New post: Empirical violation of Arrow’s theorem! 
+StatModeling	693447722192338944	2016-01-30T14:56:35	New post: TOP SECRET:  Newly declassified documents on evaluating models based on predictive accuracy 
+StatModeling	693074602453413888	2016-01-29T14:13:56	New post: Placebo effect shocker:  After reading this, you won’t know what to believe. 
+StatModeling	692945476744810498	2016-01-29T05:40:50	New post: One thing I like about hierarchical modeling is that is not just about criticism.  It’s a way to improve i 
+StatModeling	692709258035466240	2016-01-28T14:02:11	New post: Is a 60% risk reduction really no big deal? 
+StatModeling	692347575760850944	2016-01-27T14:04:59	New post: “Why IT Fumbles Analytics Projects” 
+StatModeling	691993685437730817	2016-01-26T14:38:45	New post: “Null hypothesis” = “A specific random number generator” 
+StatModeling	691991368936230912	2016-01-26T14:29:33	New post: The time-reversal heuristic—a new way to think about a published finding that is followed up by a large, p 
+StatModeling	691784324815929344	2016-01-26T00:46:50	New link: Retraction Watch  
+StatModeling	691784222315528197	2016-01-26T00:46:25	New link: Second Opinion [Susan Perry]  
+StatModeling	691645646378369025	2016-01-25T15:35:46	New post: Ted Versus Powerpose and the Moneygoround, Part One 
+StatModeling	691621682713198592	2016-01-25T14:00:33	New post: On deck this week 
+StatModeling	691268156359217152	2016-01-24T14:35:46	New post: 2 new reasons not to trust published p-values:  You won’t believe what this rogue economist has to say. 
+StatModeling	690911549326688256	2016-01-23T14:58:44	New post: This graph is so ugly—and you’ll never guess where it appeared 
+StatModeling	690542756834377728	2016-01-22T14:33:17	New post: One quick tip for building trust in missing-data imputations? 
+StatModeling	690232612770578433	2016-01-21T18:00:53	New post: Kéry and Schaub’s Bayesian Population Analysis Translated to Stan 
+StatModeling	690182484735107077	2016-01-21T14:41:41	New post: If you’re using Stata and you want to do Bayes, you should be using StataStan 
+StatModeling	690022109456769024	2016-01-21T04:04:25	New post: Irritating pseudo-populism, backed up by false statistics and implausible speculations 
+StatModeling	689944049885782018	2016-01-20T22:54:14	New post: Rogue sociologist can’t stop roguin’ 
+StatModeling	689891094583123970	2016-01-20T19:23:49	New link: Exploring Baseball Data with R  
+StatModeling	689885274956926976	2016-01-20T19:00:41	New post: Jim Albert’s Baseball Blog 
+StatModeling	689810371213799424	2016-01-20T14:03:03	New post: My talk Fri 1pm at the University of Chicago 
+StatModeling	689557889971675136	2016-01-19T21:19:46	New post: Stan Talk in NYC: Macroeconomic Forecasting using Analogy Weighting 
+StatModeling	689120867729555456	2016-01-18T16:23:12	New post: My namesake doesn’t seem to understand the principles of decision analysis 
+StatModeling	689086763097260032	2016-01-18T14:07:41	New post: On deck this week 
+StatModeling	688913243222347777	2016-01-18T02:38:11	New post: Grizzly Adams is an object of the class Weekend at Bernies 
+StatModeling	688736394240376832	2016-01-17T14:55:27	New post: The devil really is in the details; or, You’ll be able to guess who I think are the good guys and who I t 
+StatModeling	688395146690334721	2016-01-16T16:19:27	Post Edited: Scientists Not Behaving Badly 
+StatModeling	688366057510158337	2016-01-16T14:23:51	New post: A reanalysis of data from a Psychological Science paper 
+StatModeling	688125648175407104	2016-01-15T22:28:33	New post: McElreath’s Statistial Rethinking: A Bayesian Course with Examples in R and Stan 
+StatModeling	688002100115030017	2016-01-15T14:17:37	New post: Unz Ivy Stats Flashback 
+StatModeling	687730727887081472	2016-01-14T20:19:17	New post: MTA sucks 
+StatModeling	687641379200045056	2016-01-14T14:24:15	New post: rstanarm and more! 
+StatModeling	687287011263119361	2016-01-13T14:56:07	New post: Pro-PACE, anti-PACE 
+StatModeling	687075686259884033	2016-01-13T00:56:23	New post: Cancer statistics: WTF? 
+StatModeling	687045727197859840	2016-01-12T22:57:20	New post: Stan 2.9 is Here! 
+StatModeling	686915963229306880	2016-01-12T14:21:42	New post: Paxil:  What went wrong? 
+StatModeling	686650041734316032	2016-01-11T20:45:01	New post: Street-Fighting Probability and Street-Fighting Stats:  2 One-Week Module 
+StatModeling	686548286459645952	2016-01-11T14:00:41	New post: On deck this week 
+StatModeling	686190673582620672	2016-01-10T14:19:40	New post: Stan in the tabloids! 
+StatModeling	685829177988100096	2016-01-09T14:23:12	New post: Why are trolls so bothersome? 
+StatModeling	685471655297060866	2016-01-08T14:42:32	New post: Read this to change your entire perspective on statistics:  Why inversion of hypothesis tests is not a 
+StatModeling	685110066903527425	2016-01-07T14:45:43	New post: Givewell wants to put lithium in your drinking water 
+StatModeling	684750335932366848	2016-01-06T14:56:16	New post: The PACE trial and the problems with discrete, yes/no thinking 
+StatModeling	684607225986301952	2016-01-06T05:27:36	New post: Baltimore Orioles Hackathon coming soon! 
+StatModeling	684377553352536064	2016-01-05T14:14:58	New post: PACE study and the Lancet:  Journal reputation is a two-way street 
+StatModeling	684036945756852224	2016-01-04T15:41:31	New post: Plausibility vs. probability, prior distributions, and the garden of forking paths 
+StatModeling	684011653621506048	2016-01-04T14:01:01	New post: On deck this week 
+StatModeling	683837741927276545	2016-01-04T02:29:57	New post: Monty Got a Raw Hand 
+StatModeling	683663739107827717	2016-01-03T14:58:31	New post: You won’t believe this story:  Tamiflu conflict of interest 
+StatModeling	683301772677365760	2016-01-02T15:00:12	New post: “Earlier you had waxed nostalgic for the days when people sent you bad graphs . . .” 
+StatModeling	682782201331625986	2016-01-01T04:35:36	New post: “Why researchers keep citing retracted papers” 
+StatModeling	682564628405092356	2015-12-31T14:11:03	New post: Top posts of 2015 
+StatModeling	682336977459384321	2015-12-30T23:06:27	New post: Definitely got nothing to do with chess IV 
+StatModeling	682205165722546176	2015-12-30T14:22:40	New post: Showdown in Vegas:  When the numbers differ in the third decimal place 
+StatModeling	681868434884308993	2015-12-29T16:04:38	New post: Guess what today’s kids are clicking on:  My presentation at the Electronic Conference on Teaching S 
+StatModeling	681837242101313536	2015-12-29T14:00:41	New post: On deck this week 
+StatModeling	681478309117480961	2015-12-28T14:14:24	New post: Citation shocker:  “The lifecycle of scholarly articles across fields of economic research” 
+StatModeling	681120716893237252	2015-12-27T14:33:28	New post: There are 6 ways to get fired from Johnson &amp; Johnson: (1) theft, (2) sexual harassment, (3) running an 
+StatModeling	680871824083689472	2015-12-26T22:04:27	New post: Comment of the week 
+StatModeling	680756592912896000	2015-12-26T14:26:34	New post: Turbulent Studies, Rocky Statistics: Publicational Consequences of Experiencing Inferential Instability 
+StatModeling	680392122046885889	2015-12-25T14:18:17	New post: More on the PACE (chronic disease syndrome study) scandal 
+StatModeling	679671074250833921	2015-12-23T14:33:06	New post: R sucks 
+StatModeling	679440527113060352	2015-12-22T23:16:59	New post: “Journalistic lapses at the New York Times should, in effect, count triple 

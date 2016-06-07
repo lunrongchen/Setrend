@@ -1,0 +1,270 @@
+nberrel	726048393294938113	2016-04-29T14:00:00	Consumer Sentiment, U of Mich   10 a.m.
+nberrel	726025782485725184	2016-04-29T12:30:10	Personal Income and Outlays   8:30 a.m.
+nberrel	726025750051213312	2016-04-29T12:30:02	Employment Cost Index   8:30 a.m.
+nberrel	725972895483174912	2016-04-29T09:00:00	Chicago PMI   9:45 a.m.
+nberrel	725784358221664257	2016-04-28T20:30:50	College Enrollment and Work Activity of High School Graduates 
+nberrel	725746693241753605	2016-04-28T18:01:10	SSA's Annual Statistical Supplement 
+nberrel	725701113119395842	2016-04-28T15:00:02	KC Fed Mfg   11 a.m.
+nberrel	725686015491461122	2016-04-28T14:00:03	Housing Vacancies   10 a.m.
+nberrel	725663391944155136	2016-04-28T12:30:09	Unemployment Initial Claims   8:30 a.m.
+nberrel	725663359165730816	2016-04-28T12:30:01	Gross Domestic Product (GDP)   8:30 a.m.
+nberrel	725357816253415424	2016-04-27T16:15:54	Income of the Population 55 or Older 
+nberrel	725357794354946052	2016-04-27T16:15:49	Income of the Aged Chartbook 
+nberrel	725323638761775104	2016-04-27T14:00:05	Pending Home Sales   10 a.m.
+nberrel	725323635813191680	2016-04-27T14:00:05	Metro Area Employment   10 a.m.
+nberrel	725323619212079108	2016-04-27T14:00:01	Business Employment Dynamics Quarterly   10 a.m.
+nberrel	725300970247348225	2016-04-27T12:30:01	Advance U.S. International Trade in Goods and Services   8:30 a.m.
+nberrel	724961237751238656	2016-04-26T14:00:02	Richmond Fed Mfg   10 a.m.
+nberrel	724961229077356545	2016-04-26T14:00:00	Consumer Confidence   10 a.m.
+nberrel	724946131109728256	2016-04-26T13:00:01	Case-Shiller Home Price Indices   9 a.m.
+nberrel	724938589491089415	2016-04-26T12:30:03	Durable Goods   8:30 a.m.
+nberrel	724885738542739456	2016-04-26T09:00:02	Flash Services PMI   9:45 a.m.
+nberrel	724606396700995584	2016-04-25T14:30:02	Texas Manufacturing Outlook Survey   10:30 a.m.
+nberrel	724598842793013248	2016-04-25T14:00:01	New Home Sales   10 a.m.
+nberrel	723507909213208576	2016-04-22T13:45:02	Flash Manufacturing PMI   9:45 a.m.
+nberrel	723436192297967617	2016-04-22T09:00:03	Flash Manufacturing PMI   9:45 a.m.
+nberrel	723149290823098369	2016-04-21T14:00:01	Philadelphia Fed Survey   10 a.m.
+nberrel	723134194520567808	2016-04-21T13:00:01	FHFA Monthly House Price Index    9 a.m.
+nberrel	723126640503623681	2016-04-21T12:30:00	Unemployment Initial Claims   8:30 a.m.
+nberrel	722786905159544832	2016-04-20T14:00:01	Existing Home Sales   10 a.m.
+nberrel	722424514731188224	2016-04-19T14:00:00	Weekly Earnings   10 a.m.
+nberrel	722401865590272000	2016-04-19T12:30:00	Housing Starts   8:30 a.m.
+nberrel	720974983825108992	2016-04-15T14:00:05	Regional and State Employment   10 a.m.
+nberrel	720974967274409985	2016-04-15T14:00:01	Consumer Sentiment, U of Mich   10 a.m.
+nberrel	720959863434702849	2016-04-15T13:00:00	Treasury International Capital   9 a.m.
+nberrel	720952315683987457	2016-04-15T12:30:01	NY Fed Mfg Survey   8:30 a.m.
+nberrel	720899470830002176	2016-04-15T09:00:02	Industrial Production   9:15 a.m.
+nberrel	720589954405912576	2016-04-14T12:30:07	Unemployment Initial Claims   8:30 a.m.
+nberrel	720589947024076800	2016-04-14T12:30:05	Real Earnings   8:30 a.m.
+nberrel	720589927843557377	2016-04-14T12:30:01	Consumer Price Index (CPI)   8:30 a.m.
+nberrel	720310596726583296	2016-04-13T18:00:03	FRB Beige Book   2 p.m.
+nberrel	720250190997909504	2016-04-13T14:00:01	Business Inventories   10 a.m.
+nberrel	720227574526427136	2016-04-13T12:30:09	Retail Sales   8:30 a.m.
+nberrel	720227544352571392	2016-04-13T12:30:02	Producer Price Index (PPI)   8:30 a.m.
+nberrel	719948197611888641	2016-04-12T18:00:00	Monthly Treasury Statement   2 p.m.
+nberrel	719865149625118720	2016-04-12T12:30:00	Import and Export Price Indexes   8:30 a.m.
+nberrel	719850059983110144	2016-04-12T11:30:03	NFIB Survey   7:30 a.m.
+nberrel	718438281940221952	2016-04-08T14:00:09	Wholesale Trade   10 a.m.
+nberrel	718151359644745728	2016-04-07T19:00:01	Consumer Credit   3 p.m.
+nberrel	718075871131803648	2016-04-07T14:00:03	Productivity and Costs   10 a.m.
+nberrel	718053216592793600	2016-04-07T12:30:02	Unemployment Initial Claims   8:30 a.m.
+nberrel	717773875807916032	2016-04-06T18:00:02	FOMC Minutes   2 p.m.
+nberrel	717713474365886464	2016-04-06T14:00:01	Metro Area Employment   10 a.m.
+nberrel	717351096218427392	2016-04-05T14:00:03	Job Openings and Labor Turnover Survey   10 a.m.
+nberrel	717351083882971137	2016-04-05T14:00:00	ISM Service Index   10 a.m.
+nberrel	717328438223314944	2016-04-05T12:30:01	U.S. International Trade in Goods and Services   8:30 a.m.
+nberrel	717275845874814976	2016-04-05T09:01:02	Services PMI   9:45 a.m.
+nberrel	716988703424573440	2016-04-04T14:00:02	Factory Orders   10 a.m.
+nberrel	715901636951085056	2016-04-01T14:00:25	ISM Mfg Index   10 a.m.
+nberrel	715901629950791680	2016-04-01T14:00:24	Consumer Sentiment, U of Mich   10 a.m.
+nberrel	715901547453001729	2016-04-01T14:00:04	Construction Spending   10 a.m.
+nberrel	715878884990910464	2016-04-01T12:30:01	Employment Situation   8:30 a.m.
+nberrel	715826040447377410	2016-04-01T09:00:02	Manufacturing PMI   9:45 a.m.
+nberrel	715539146853449729	2016-03-31T14:00:01	U.S. International Investment Position   10 a.m.
+nberrel	715516505857851393	2016-03-31T12:30:03	Unemployment Initial Claims   8:30 a.m.
+nberrel	715463655924572161	2016-03-31T09:00:02	Chicago PMI   9:45 a.m.
+nberrel	715218246748741633	2016-03-30T16:44:52	Occupational Employment and Wages 
+nberrel	715154107095449600	2016-03-30T12:30:00	Corporate Profits    8:30 a.m.
+nberrel	715101267815763968	2016-03-30T09:00:02	ADP Employment   8:15 a.m.
+nberrel	714837029209694209	2016-03-29T15:30:03	Social Security Programs Throughout the World: the Americas 
+nberrel	714814374146416644	2016-03-29T14:00:02	Consumer Confidence   10 a.m.
+nberrel	714799276858195968	2016-03-29T13:00:02	Case-Shiller Home Price Indices   9 a.m.
+nberrel	714459531003215872	2016-03-28T14:30:00	Texas Manufacturing Outlook Survey   10:30 a.m.
+nberrel	714451982392504325	2016-03-28T14:00:01	Pending Home Sales   10 a.m.
+nberrel	714429337999654912	2016-03-28T12:30:02	Personal Income and Outlays   8:30 a.m.
+nberrel	714376491304370177	2016-03-28T09:00:02	Flash Services PMI   9:45 a.m.
+nberrel	713364820075089920	2016-03-25T14:00:01	Regional and State Employment   10 a.m.
+nberrel	713342183865249792	2016-03-25T12:30:04	Gross Domestic Product (GDP)   8:30 a.m.
+nberrel	713342168463777792	2016-03-25T12:30:00	Advance U.S. International Trade in Goods and Services   8:30 a.m.
+nberrel	713057932485779456	2016-03-24T17:40:33	Employment Situation of Veterans 
+nberrel	713051805438054402	2016-03-24T17:16:12	International Update 
+nberrel	713017539668885504	2016-03-24T15:00:03	KC Fed Mfg   11 a.m.
+nberrel	713002454196072448	2016-03-24T14:00:06	SSI Monthly Statistics   10 a.m.
+nberrel	713002435522985984	2016-03-24T14:00:02	Multifactor Productivity Trends   10 a.m.
+nberrel	712979811573088257	2016-03-24T12:30:08	Unemployment Initial Claims   8:30 a.m.
+nberrel	712979805273255936	2016-03-24T12:30:06	State Personal Income   8:30 a.m.
+nberrel	712979787510321152	2016-03-24T12:30:02	Durable Goods   8:30 a.m.
+nberrel	712926933219147776	2016-03-24T09:00:01	Flash Manufacturing PMI   9:45 a.m.
+nberrel	712731455944855554	2016-03-23T20:03:15	SSI Monthly Statistics 
+nberrel	712640050958307328	2016-03-23T14:00:03	New Home Sales   10 a.m.
+nberrel	712277663600214016	2016-03-22T14:00:03	Richmond Fed Mfg   10 a.m.
+nberrel	712262569935953920	2016-03-22T13:00:04	FHFA Monthly House Price Index    9 a.m.
+nberrel	711915318646607873	2016-03-21T14:00:13	Retail   10 a.m.
+nberrel	711915307829501952	2016-03-21T14:00:10	Mfg, Mining, Wholesale   10 a.m.
+nberrel	711915274132393984	2016-03-21T14:00:02	Existing Home Sales   10 a.m.
+nberrel	710828146250088448	2016-03-18T14:00:11	Metro Area Employment   10 a.m.
+nberrel	710828111957458946	2016-03-18T14:00:03	Consumer Sentiment, U of Mich   10 a.m.
+nberrel	710496145219428353	2016-03-17T16:00:56	Survey of Current Business 
+nberrel	710465776680083456	2016-03-17T14:00:15	Philadelphia Fed Survey   10 a.m.
+nberrel	710465727346712576	2016-03-17T14:00:03	Job Openings and Labor Turnover Survey   10 a.m.
+nberrel	710443104759848962	2016-03-17T12:30:10	Unemployment Initial Claims   8:30 a.m.
+nberrel	710443077614366721	2016-03-17T12:30:03	U.S. International Transactions   8:30 a.m.
+nberrel	710080719004028928	2016-03-16T12:30:10	Tourism Sales   8:30 a.m.
+nberrel	710080715803762688	2016-03-16T12:30:09	Real Earnings   8:30 a.m.
+nberrel	710080712418992130	2016-03-16T12:30:09	Housing Starts   8:30 a.m.
+nberrel	710080686288404480	2016-03-16T12:30:02	Consumer Price Index (CPI)   8:30 a.m.
+nberrel	710027844588584960	2016-03-16T09:00:04	Industrial Production   9:15 a.m.
+nberrel	709740939187773440	2016-03-15T14:00:00	Business Inventories   10 a.m.
+nberrel	709725849172492288	2016-03-15T13:00:03	Treasury International Capital   9 a.m.
+nberrel	709718316361916416	2016-03-15T12:30:07	Retail Sales   8:30 a.m.
+nberrel	709718313073512448	2016-03-15T12:30:06	Producer Price Index (PPI)   8:30 a.m.
+nberrel	709718296678043648	2016-03-15T12:30:02	NY Fed Mfg Survey   8:30 a.m.
+nberrel	709378566056747008	2016-03-14T14:00:04	Regional and State Employment   10 a.m.
+nberrel	708042249062449154	2016-03-10T21:30:01	Flow of Funds   4:30 p.m.
+nberrel	708004508073390080	2016-03-10T19:00:03	Monthly Treasury Statement   2 p.m.
+nberrel	707944125631479810	2016-03-10T15:00:07	Quarterly Services   10 a.m.
+nberrel	707944104206966784	2016-03-10T15:00:02	Employer Costs for Employee Compensation   10 a.m.
+nberrel	707921460166270976	2016-03-10T13:30:03	Unemployment Initial Claims   8:30 a.m.
+nberrel	707581740949356544	2016-03-09T15:00:07	Wholesale Trade   10 a.m.
+nberrel	707581717163417600	2016-03-09T15:00:02	County Employment and Wages Quarterly   10 a.m.
+nberrel	707181575411212288	2016-03-08T12:30:01	NFIB Survey   7:30 a.m.
+nberrel	706932471124852736	2016-03-07T20:00:09	Consumer Credit   3 p.m.
+nberrel	705747180036956165	2016-03-04T13:30:14	U.S. International Trade in Goods and Services   8:30 a.m.
+nberrel	705747136516898816	2016-03-04T13:30:04	Employment Situation   8:30 a.m.
+nberrel	705407397913825281	2016-03-03T15:00:04	ISM Service Index   10 a.m.
+nberrel	705407383829417984	2016-03-03T15:00:00	Factory Orders   10 a.m.
+nberrel	705384754431041536	2016-03-03T13:30:05	Unemployment Initial Claims   8:30 a.m.
+nberrel	705384737179877377	2016-03-03T13:30:01	Productivity and Costs   8:30 a.m.
+nberrel	705331892971839489	2016-03-03T10:00:02	Services PMI   9:45 a.m.
+nberrel	705105395208032256	2016-03-02T19:00:01	FRB Beige Book   2 p.m.
+nberrel	705022347430989824	2016-03-02T13:30:00	Gross Domestic Product (GDP) by State   8:30 a.m.
+nberrel	704969505571803136	2016-03-02T10:00:02	ADP Employment   8:15 a.m.
+nberrel	704731492631629825	2016-03-01T18:14:15	International Update 
+nberrel	704682637324111872	2016-03-01T15:00:07	ISM Mfg Index   10 a.m.
+nberrel	704682607833960448	2016-03-01T15:00:00	Construction Spending   10 a.m.
+nberrel	704607111779635200	2016-03-01T10:00:01	Manufacturing PMI   9:45 a.m.
+nberrel	704327769908502528	2016-02-29T15:30:00	Texas Manufacturing Outlook Survey   10:30 a.m.
+nberrel	704320220001914880	2016-02-29T15:00:00	Pending Home Sales   10 a.m.
+nberrel	704244724538974208	2016-02-29T10:00:01	Chicago PMI   9:45 a.m.
+nberrel	703233057755697152	2016-02-26T15:00:01	Consumer Sentiment, U of Mich   10 a.m.
+nberrel	703210455280574464	2016-02-26T13:30:12	Personal Income and Outlays   8:30 a.m.
+nberrel	703210452428439552	2016-02-26T13:30:11	Gross Domestic Product (GDP)   8:30 a.m.
+nberrel	703210412905533440	2016-02-26T13:30:02	Advance U.S. International Trade in Goods and Services   8:30 a.m.
+nberrel	702974688050462721	2016-02-25T21:53:20	Survey of Current Business 
+nberrel	702949393020878848	2016-02-25T20:12:50	SSI Monthly Statistics 
+nberrel	702885783884189696	2016-02-25T16:00:04	KC Fed Mfg   11 a.m.
+nberrel	702855578285166592	2016-02-25T14:00:02	FHFA Monthly House Price Index    9 a.m.
+nberrel	702848096431153156	2016-02-25T13:30:19	Unemployment Initial Claims   8:30 a.m.
+nberrel	702848044438519809	2016-02-25T13:30:06	Durable Goods   8:30 a.m.
+nberrel	702508283366608896	2016-02-24T15:00:01	New Home Sales   10 a.m.
+nberrel	702432794346188805	2016-02-24T10:00:03	Flash Services PMI   9:45 a.m.
+nberrel	702145988211974144	2016-02-23T15:00:23	Richmond Fed Mfg   10 a.m.
+nberrel	702145984936148992	2016-02-23T15:00:22	Existing Home Sales   10 a.m.
+nberrel	702145925758722049	2016-02-23T15:00:08	Consumer Confidence   10 a.m.
+nberrel	702130835604942848	2016-02-23T14:00:10	Case-Shiller Home Price Indices   9 a.m.
+nberrel	701708011178500096	2016-02-22T10:00:01	Flash Manufacturing PMI   9:45 a.m.
+nberrel	700673833230061568	2016-02-19T13:30:34	Real Earnings   8:30 a.m.
+nberrel	700673720898215936	2016-02-19T13:30:07	Consumer Price Index (CPI)   8:30 a.m.
+nberrel	700333964448374784	2016-02-18T15:00:03	Philadelphia Fed Survey   10 a.m.
+nberrel	700311316473495552	2016-02-18T13:30:03	Unemployment Initial Claims   8:30 a.m.
+nberrel	700032051454570496	2016-02-17T19:00:21	FOMC Minutes   2 p.m.
+nberrel	699949227254947840	2016-02-17T13:31:14	Producer Price Index (PPI)   8:30 a.m.
+nberrel	699948960979492864	2016-02-17T13:30:11	Housing Starts   8:30 a.m.
+nberrel	699896124354772992	2016-02-17T10:00:14	Industrial Production   9:15 a.m.
+nberrel	699688377470291969	2016-02-16T20:14:43	Multifactor Productivity Trends in Manufacturing 
+nberrel	699594079898882048	2016-02-16T14:00:01	Treasury International Capital   9 a.m.
+nberrel	699586536778702848	2016-02-16T13:30:02	NY Fed Mfg Survey   8:30 a.m.
+nberrel	698159650332614656	2016-02-12T15:00:06	Consumer Sentiment, U of Mich   10 a.m.
+nberrel	698159627243036672	2016-02-12T15:00:00	Business Inventories   10 a.m.
+nberrel	698137001724375040	2016-02-12T13:30:06	Retail Sales   8:30 a.m.
+nberrel	698136984657797120	2016-02-12T13:30:02	Import and Export Price Indexes   8:30 a.m.
+nberrel	697774595483500544	2016-02-11T13:30:02	Unemployment Initial Claims   8:30 a.m.
+nberrel	697495259396308993	2016-02-10T19:00:03	Monthly Treasury Statement   2 p.m.
+nberrel	697434857509675009	2016-02-10T15:00:02	Major Work Stoppages   10 a.m.
+nberrel	697072499666874368	2016-02-09T15:00:09	Wholesale Trade   10 a.m.
+nberrel	697072472995336192	2016-02-09T15:00:03	Job Openings and Labor Turnover Survey   10 a.m.
+nberrel	697034724200615936	2016-02-09T12:30:03	NFIB Survey   7:30 a.m.
+nberrel	695698422754631681	2016-02-05T20:00:04	Consumer Credit   3 p.m.
+nberrel	695600294663737345	2016-02-05T13:30:08	U.S. International Trade in Goods and Services   8:30 a.m.
+nberrel	695600266012463104	2016-02-05T13:30:01	Employment Situation   8:30 a.m.
+nberrel	695260531712737281	2016-02-04T15:00:02	Factory Orders   10 a.m.
+nberrel	695237887206490113	2016-02-04T13:30:03	Unemployment Initial Claims   8:30 a.m.
+nberrel	695237875483480065	2016-02-04T13:30:01	Productivity and Costs   8:30 a.m.
+nberrel	694898161068806144	2016-02-03T15:00:06	Metro Area Employment   10 a.m.
+nberrel	694898136104505344	2016-02-03T15:00:00	ISM Service Index   10 a.m.
+nberrel	694822667854176256	2016-02-03T10:00:07	Services PMI   9:45 a.m.
+nberrel	694822640129826816	2016-02-03T10:00:01	ADP Employment   8:15 a.m.
+nberrel	694173373157543937	2016-02-01T15:00:03	ISM Mfg Index   10 a.m.
+nberrel	694173361161814016	2016-02-01T15:00:01	Construction Spending   10 a.m.
+nberrel	694150724104626176	2016-02-01T13:30:03	Personal Income and Outlays   8:30 a.m.
+nberrel	694097863098376193	2016-02-01T10:00:00	Manufacturing PMI   9:45 a.m.
+nberrel	693111054621151232	2016-01-29T16:38:47	SSI Monthly Statistics 
+nberrel	693086204380778496	2016-01-29T15:00:02	Consumer Sentiment, U of Mich   10 a.m.
+nberrel	693063559434100736	2016-01-29T13:30:03	Gross Domestic Product (GDP)   8:30 a.m.
+nberrel	693063555042689024	2016-01-29T13:30:02	Employment Cost Index   8:30 a.m.
+nberrel	693063547698429953	2016-01-29T13:30:00	Advance U.S. International Trade in Goods and Services   8:30 a.m.
+nberrel	693010708267687936	2016-01-29T10:00:03	Chicago PMI   9:45 a.m.
+nberrel	692738918626758656	2016-01-28T16:00:03	KC Fed Mfg   11 a.m.
+nberrel	692723825759408128	2016-01-28T15:00:04	Union Members   10 a.m.
+nberrel	692723822961790978	2016-01-28T15:00:04	Pending Home Sales   10 a.m.
+nberrel	692723809368043524	2016-01-28T15:00:00	Housing Vacancies   10 a.m.
+nberrel	692701199578038272	2016-01-28T13:30:10	Unemployment Initial Claims   8:30 a.m.
+nberrel	692701166975729665	2016-01-28T13:30:02	Durable Goods   8:30 a.m.
+nberrel	692361456168341504	2016-01-27T15:00:09	New Home Sales   10 a.m.
+nberrel	692361426015555584	2016-01-27T15:00:02	Business Employment Dynamics Quarterly   10 a.m.
+nberrel	691999064834048000	2016-01-26T15:00:08	Richmond Fed Mfg   10 a.m.
+nberrel	691999061998714881	2016-01-26T15:00:07	Regional and State Employment   10 a.m.
+nberrel	691999037902438402	2016-01-26T15:00:02	Consumer Confidence   10 a.m.
+nberrel	691984005026168832	2016-01-26T14:00:17	FHFA Monthly House Price Index    9 a.m.
+nberrel	691983960646250496	2016-01-26T14:00:07	Case-Shiller Home Price Indices   9 a.m.
+nberrel	691923541290307588	2016-01-26T10:00:02	Flash Services PMI   9:45 a.m.
+nberrel	691644201419829248	2016-01-25T15:30:02	Texas Manufacturing Outlook Survey   10:30 a.m.
+nberrel	690549504588791808	2016-01-22T15:00:06	Weekly Earnings   10 a.m.
+nberrel	690549484036739072	2016-01-22T15:00:01	Existing Home Sales   10 a.m.
+nberrel	690473997830590464	2016-01-22T10:00:04	Flash Manufacturing PMI   9:45 a.m.
+nberrel	690187104693948417	2016-01-21T15:00:03	Philadelphia Fed Survey   10 a.m.
+nberrel	690164449924235264	2016-01-21T13:30:02	Unemployment Initial Claims   8:30 a.m.
+nberrel	689802083785142272	2016-01-20T13:30:07	Real Earnings   8:30 a.m.
+nberrel	689802080928821248	2016-01-20T13:30:06	Housing Starts   8:30 a.m.
+nberrel	689802057440759812	2016-01-20T13:30:01	Consumer Price Index (CPI)   8:30 a.m.
+nberrel	689547696198270976	2016-01-19T20:39:16	Survey of Current Business 
+nberrel	689447230017638400	2016-01-19T14:00:03	Treasury International Capital   9 a.m.
+nberrel	688012982916366336	2016-01-15T15:00:52	Consumer Sentiment, U of Mich   10 a.m.
+nberrel	688012782550265856	2016-01-15T15:00:04	Business Inventories   10 a.m.
+nberrel	687990164832960513	2016-01-15T13:30:12	Retail Sales   8:30 a.m.
+nberrel	687990161695727616	2016-01-15T13:30:11	Producer Price Index (PPI)   8:30 a.m.
+nberrel	687990128913059844	2016-01-15T13:30:03	NY Fed Mfg Survey   8:30 a.m.
+nberrel	687937273309081601	2016-01-15T10:00:01	Industrial Production   9:15 a.m.
+nberrel	687650385851498496	2016-01-14T15:00:02	Philadelphia Fed Survey   10 a.m.
+nberrel	687627782428454912	2016-01-14T13:30:13	Unemployment Initial Claims   8:30 a.m.
+nberrel	687627738165997568	2016-01-14T13:30:02	Import and Export Price Indexes   8:30 a.m.
+nberrel	687348415886393345	2016-01-13T19:00:07	Monthly Treasury Statement   2 p.m.
+nberrel	687348394415763456	2016-01-13T19:00:02	FRB Beige Book   2 p.m.
+nberrel	686925613257588736	2016-01-12T15:00:03	Job Openings and Labor Turnover Survey   10 a.m.
+nberrel	686887865054314496	2016-01-12T12:30:03	NFIB Survey   7:30 a.m.
+nberrel	685551551193165824	2016-01-08T20:00:01	Consumer Credit   3 p.m.
+nberrel	685476053352099840	2016-01-08T15:00:01	Wholesale Trade   10 a.m.
+nberrel	685453409298825216	2016-01-08T13:30:02	Employment Situation   8:30 a.m.
+nberrel	684811680862351361	2016-01-06T19:00:02	FOMC Minutes   2 p.m.
+nberrel	684751320222416896	2016-01-06T15:00:11	ISM Service Index   10 a.m.
+nberrel	684751287490064385	2016-01-06T15:00:03	Factory Orders   10 a.m.
+nberrel	684728633764765697	2016-01-06T13:30:02	U.S. International Trade in Goods and Services   8:30 a.m.
+nberrel	684675803062382592	2016-01-06T10:00:06	Services PMI   9:45 a.m.
+nberrel	684675784037036032	2016-01-06T10:00:02	ADP Employment   8:15 a.m.
+nberrel	684026517765107712	2016-01-04T15:00:05	ISM Mfg Index   10 a.m.
+nberrel	684026500102897664	2016-01-04T15:00:00	Construction Spending   10 a.m.
+nberrel	683951004203794432	2016-01-04T10:00:01	Manufacturing PMI   9:45 a.m.
+nberrel	682675197053419520	2015-12-31T21:30:25	Reserve Balances   4:30 p.m.
+nberrel	682675105919594500	2015-12-31T21:30:03	Money Stock Measures   4:30 p.m.
+nberrel	682554311050661888	2015-12-31T13:30:03	Unemployment Initial Claims   8:30 a.m.
+nberrel	682501460421132289	2015-12-31T10:00:03	Chicago PMI   9:45 a.m.
+nberrel	682214615594479616	2015-12-30T15:00:13	Pending Home Sales   10 a.m.
+nberrel	682214572447674368	2015-12-30T15:00:03	Metro Area Employment   10 a.m.
+nberrel	681852217545089024	2015-12-29T15:00:11	U.S. International Investment Position   10 a.m.
+nberrel	681852182136750081	2015-12-29T15:00:03	Consumer Confidence   10 a.m.
+nberrel	681837078758440962	2015-12-29T14:00:02	Case-Shiller Home Price Indices   9 a.m.
+nberrel	681584157634486272	2015-12-28T21:15:01	Selected Interest Rates   4:15 p.m.
+nberrel	681580384098848768	2015-12-28T21:00:01	Foreign Exchange Rates   4 p.m.
+nberrel	681510040906412033	2015-12-28T16:20:30	Women in the Labor Force: A Databook 
+nberrel	681508521393917953	2015-12-28T16:14:27	State and Local Government Tax Revenue 
+nberrel	681497334857994240	2015-12-28T15:30:00	Texas Manufacturing Outlook Survey   10:30 a.m.
+nberrel	680138403522936832	2015-12-24T21:30:06	Reserve Balances   4:30 p.m.
+nberrel	680138380965969920	2015-12-24T21:30:01	Money Stock Measures   4:30 p.m.
+nberrel	680017615083991042	2015-12-24T13:30:08	Unemployment Initial Claims   8:30 a.m.
+nberrel	680017587552534528	2015-12-24T13:30:01	International Pension Updates   8:30 a.m.
+nberrel	679677845484994560	2015-12-23T15:00:00	New Home Sales   10 a.m.
+nberrel	679661152457109504	2015-12-23T13:53:40	International Update 
+nberrel	679655231559434240	2015-12-23T13:30:09	Personal Income and Outlays   8:30 a.m.
+nberrel	679655228577333248	2015-12-23T13:30:08	Durable Goods   8:30 a.m.
+nberrel	679655206246858752	2015-12-23T13:30:03	Corporate Profits   8:30 a.m.
+nberrel	679315467899654145	2015-12-22T15:00:03	Richmond Fed Mfg   10 a.m.

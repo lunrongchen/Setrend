@@ -1,0 +1,90 @@
+stwill1	715751049219477504	2016-04-01T04:02:02	@KeshikCapital outflows, as assumed below? 
+stwill1	715750542497202176	2016-04-01T04:00:01	@KeshikCapital If I undstnd correctly, other side mostly spec-driven fast money and not delayed FX drawdown of 'real', ie corp,
+stwill1	715748654376689667	2016-04-01T03:52:31	@KeshikCapital   Mostly CNH forwards, I assume?
+stwill1	715532393025826816	2016-03-31T13:33:11	@KeshikCapital petesweeneypro Based on what?
+stwill1	715517290087911424	2016-03-31T12:33:10	@KeshikCapital petesweeneypro &gt;&gt; exposure still unknown. Ballpark fig. &gt;/&lt; 150 bn$?
+stwill1	715517150639833088	2016-03-31T12:32:37	@KeshikCapital petesweeneypro &gt;12m mat. or BCB playbook avoiding FC settlement altogether (Section IV still more or less empty)
+stwill1	712738646332452865	2016-03-23T20:31:49	georgepearkes nosunkcosts 3747S_14458E modestproposal1 Not a bad place to start.
+stwill1	712645247608729600	2016-03-23T14:20:41	troll1184 mbusigin mean vs median 
+stwill1	712381758109564928	2016-03-22T20:53:41	quantian1 groditi Try this: 'Synthetic repurchase programs through put derivatives: theory and evidence ' 
+stwill1	712327064163106816	2016-03-22T17:16:21	ericbeebo mcar20156 A few EMs release daily stats for equity/debt.. 
+stwill1	710156032690032640	2016-03-16T17:29:26	PlanMaestro teasri Beware of the AAPL MSFT GOOGL cash-skew. On median, net debt/Ebitda SPX ≈  R2K 
+stwill1	708310960252067841	2016-03-11T15:17:47	MBA on 'Sources of Commercial and Multifamily Mortgage Financing' (pdf) 
+stwill1	707987826739060736	2016-03-10T17:53:46	loglog_vc RajaKorman *INFLATION*
+stwill1	707984982145417217	2016-03-10T17:42:28	RajaKorman Unf didn’t save pdf. Must b from last summer &amp; from color scheme could b CBRE. Might’ve higher resolution version on PC. Will DM
+stwill1	705434199097004032	2016-03-03T16:46:34	Peak Probit &amp; Logit recession models? Extra points for those not capping the scale at 100%.
+stwill1	705250185237164033	2016-03-03T04:35:21	When the lending stops; but you can't/don’t delever as GDP Δ decline even worse 
+stwill1	705177086693134336	2016-03-02T23:44:53	ericbeebo I believe it’s not from the one FTAV discusses.
+stwill1	705172255857315841	2016-03-02T23:25:41	ericbeebo Do you know which DB note this is from; just saw it on VW.
+stwill1	705168470095351808	2016-03-02T23:10:39	ericbeebo Yes. Forgot to use sarcasm font. Some resemblance here... 
+stwill1	705163639293091840	2016-03-02T22:51:27	Ahh, that's interesting. This would mean outflows are due to corporate invoicing behavior and not CapFlight? 
+stwill1	704990384464723968	2016-03-02T11:23:00	MatsGlettenberg Great table btw, mind me asking from where?
+stwill1	704777548962648064	2016-03-01T21:17:16	MatsGlettenberg georgepearkes increasing CE &amp; OC groditi
+stwill1	704777252265959426	2016-03-01T21:16:05	MatsGlettenberg georgepearkes Isn't this to b expected for Sequential-Pay structures? As pool amortizes, senior notes payed down thereby
+stwill1	703634461750067200	2016-02-27T17:35:03	RajaKorman FinanceCam Yep, not yet your version but a decent start. Also, near the end: 
+stwill1	703620865729105920	2016-02-27T16:41:01	RajaKorman FinanceCam 
+stwill1	703246936946638849	2016-02-26T15:55:10	dougtee Tx
+stwill1	703244836850241536	2016-02-26T15:46:49	dougtee What’s the difference between the two?
+stwill1	702638718667063296	2016-02-24T23:38:19	RajaKorman Good stuff on BBG btw.
+stwill1	702636196237873152	2016-02-24T23:28:18	RajaKorman Thanks K, means a lot coming from you.
+stwill1	702483627179974656	2016-02-24T13:22:02	ericbeebo FinanceCam RajaKorman needed for ~500bn$  overpayment p.a., quite a few leaks along the way.
+stwill1	702483471332208640	2016-02-24T13:21:25	ericbeebo FinanceCam RajaKorman As said, I can’t disprove him directly but it 'd be very surprising. Just consider infrastructure.
+stwill1	702479427838599168	2016-02-24T13:05:21	FinanceCam RajaKorman believe PBoC aware of massive CapFlight &amp; not caring, while still publishing these s-&gt; wouldn’t make sense to me
+stwill1	702478677028839424	2016-02-24T13:02:22	FinanceCam RajaKorman Will stay with BoP stats for now esp. as mirror stats confirm these. Otherwise you’d have to 
+stwill1	702478004388237312	2016-02-24T12:59:42	FinanceCam RajaKorman by calling PBoC/SAFE. If true, would certainly mess up lot of other stats (reserves..).
+stwill1	702477718559051776	2016-02-24T12:58:34	FinanceCam RajaKorman In reality it tops BoP data. Don’t think there’s more info on the receipts data elsewhere, so can only untangle by
+stwill1	702477592872534017	2016-02-24T12:58:04	FinanceCam RajaKorman Tbh, I don’t really know what to make of it. According to SAFE, the data he uses should be subset of BoP.
+stwill1	702477378317127680	2016-02-24T12:57:13	FinanceCam RajaKorman This is the data he uses and this is SAFE’s brief remarks on it.  
+stwill1	701783518054055936	2016-02-22T15:00:03	Eurofaultlines What did this look like pre Dodd-Frank/CCPs? cc SkeleCap nosunkcosts creditmacro
+stwill1	701782066166374401	2016-02-22T14:54:17	FinanceCam Esp. when most of them miss the elephant in the  room. 
+stwill1	701767568793718784	2016-02-22T13:56:41	ericbeebo So incomparable with National accounts? 
+stwill1	701762662460497921	2016-02-22T13:37:11	ericbeebo How are inventories looking?
+stwill1	700687161830481920	2016-02-19T14:23:32	nosunkcosts First equity ETF with natural short demand &gt; long demand? Create-to-lend FTW
+stwill1	700607134786924544	2016-02-19T09:05:32	SardonicaX Most are flattish since last Fri., from what I've heard . Bwater PA seems to have a tough week  so far.
+stwill1	699891617369559042	2016-02-17T09:42:19	macropru2 s1moncox RajaKorman berthofmanecon 2015 table here 
+stwill1	699891379514826752	2016-02-17T09:41:22	macropru2 s1moncox RajaKorman berthofmanecon PBoC breaks out ‘Overseas Loans’ in their FC stats; Jan s not released yet,
+stwill1	699888511600738304	2016-02-17T09:29:59	Sell iTraxx Sen Fin payers, long index ht/ CoCos 
+stwill1	699862264430620672	2016-02-17T07:45:41	PrometheusAM Thx. It seemed somewhat familiar. Is the excerpt from A.D.?
+stwill1	699855073954918401	2016-02-17T07:17:06	PrometheusAM Sorry, what's an 'SG'?
+stwill1	699598443233333249	2016-02-16T14:17:21	modestproposal1  Long version: 
+stwill1	699598198663471104	2016-02-16T14:16:23	modestproposal1 un-noticed/derappreciated dvlpmnt atm. Maybe not as sexy as CapFlight but at least as important.
+stwill1	699597649352249344	2016-02-16T14:14:12	modestproposal1 That's one part of it. Flipside, ie. shrinking acceptance of RMB payments by ROW -&gt; $ outfl. for imports, is &gt;&gt;
+stwill1	699093487501864965	2016-02-15T04:50:50	AbeLolisted georgepearkes ericbeebo @KeshikCapital Alex, any thoughts on this?  
+stwill1	698862495231012864	2016-02-14T13:32:57	MarketGuppy ericbeebo MOstwald1 do you see them providing them anytime soon?
+stwill1	698862447948656642	2016-02-14T13:32:46	MarketGuppy ericbeebo MOstwald1 reserve data still leaves forward section empty, doesn’t SDDS bind them to release the numbers, and &gt;
+stwill1	698862312149663744	2016-02-14T13:32:14	MarketGuppy ericbeebo MOstwald1 Two Qs: 1.Any idea who their counterparties are; CN banks or outside China? 2. Their new SDDS compliant &gt;
+stwill1	698657138336514052	2016-02-13T23:56:56	Full blog! China capital flows: what we sort-of know 
+stwill1	695390267789029380	2016-02-04T23:35:34	boes_ M_C_Klein Why the  non-continuous lines? This is Kasman and Hensley, right?
+stwill1	695360892301475842	2016-02-04T21:38:50	Fritz_100 InfrmtnOverflow tlrhardy shishiqiushi Anytime. Btw, if you prefer digital &gt; print, feel free to DM.
+stwill1	695096173506514944	2016-02-04T04:06:56	InfrmtnOverflow Fritz_100 On risk mgmt &amp; complexity: Demons of Our Own Design (Bookstaber)
+stwill1	694960920775254017	2016-02-03T19:09:29	RBA Q4 bulletin is top-notch. CNY CapFlows, $ debt in EMs, TLAC and CCPs + some Aussie topics 
+stwill1	694956494937329664	2016-02-03T18:51:54	Pettis 2003: “Reengineering the Volatility Machine”. Core concepts from the book in 7 pages. 
+stwill1	694664684587356160	2016-02-02T23:32:21	hcmacro BaldingsWorld georgemagnus1 niubi ICYMI y-day. Might be of interest. 
+stwill1	694652432727547904	2016-02-02T22:43:40	SkeleCap CAVandy modestproposal1 nosunkcosts Yep,late Jan, early Feb for most IBs.Those who can sell quietly, do 
+stwill1	694535775803854849	2016-02-02T15:00:07	modestproposal1 Surprisingly, LG/off-BS debt adds further 5% to private b.; almost 2007 levels as % of GDP. 
+stwill1	694533734264127488	2016-02-02T14:52:00	modestproposal1 factored into fiscal balance.
+stwill1	694533694082715648	2016-02-02T14:51:51	modestproposal1 3 sectors since 1988. Real private sector (ex-LGs) higher than pictured as LG debt likely not &gt;&gt; 
+stwill1	694321228945985536	2016-02-02T00:47:35	teasri agurevich23 ReformedBroker Indeed, but mostly not speculators&amp; CapFlight but changing invoicing practices. 
+stwill1	694306765874315264	2016-02-01T23:50:07	Thoughts welcome. cc: FTAlphaville izakaminska M_C_Klein RajaKorman
+stwill1	694294205934538752	2016-02-01T23:00:12	ericbeebo BIS Statistics Explorer quite good for headline numbers. Statistics Warehouse still a mess and useless without manual at hand.
+stwill1	694290474107064320	2016-02-01T22:45:22	ericbeebo Sectoral breakdown (banks vs. non-banks) is highly interesting. Have you seen anyone drill down on this? 
+stwill1	694274785161912320	2016-02-01T21:43:02	"China’s ‘hidden’ current account deficit; invoicing decisions and liquidity effects on EMs" [new post] 
+stwill1	690605255831228416	2016-01-22T18:41:38	ericbeebo Looked at the data and see the 88bn but struggle with the 97bn.  Is there more info provided? Could you fwd this note?
+stwill1	687183026208550912	2016-01-13T08:02:55	peter_tl ericbeebo Would require invoicing ccy breakdown to untangle and afaik ,  we don't have that.
+stwill1	687182035727814656	2016-01-13T07:58:59	peter_tl ericbeebo Over-invoicing useful for: 1. $ spec flows entering mainland 2. CNH-CNY arbitrage; the latter active now
+stwill1	686902221007663104	2016-01-12T13:27:06	RajaKorman MESandbu *could*; keeping proceeds offshore also possible and acc. to Dec. indications increasingly used
+stwill1	686554776943865856	2016-01-11T14:26:29	RajaKorman MESandbu + some debt repayment.
+stwill1	686554688741847040	2016-01-11T14:26:08	RajaKorman MESandbu Capital FLIGHT = unfortunate wording. Mostly/So far corps optimizing their invoicing structure 
+stwill1	686546471450243074	2016-01-11T13:53:28	RajaKorman Yes, CNH, if I’m not mistaken.  
+stwill1	686540408273383424	2016-01-11T13:29:23	RajaKorman Almost all domestic! 
+stwill1	685692208461250560	2016-01-09T05:18:56	modestproposal1 2/2 
+stwill1	685692120141852672	2016-01-09T05:18:35	modestproposal1 Amen! 1/2 
+stwill1	685461744769220609	2016-01-08T14:03:09	nosunkcosts RajaKorman ericbeebo naufalsanaullah on in 2015
+stwill1	685461666797064192	2016-01-08T14:02:51	nosunkcosts RajaKorman ericbeebo naufalsanaullah Fwiw, net forward position of NFCs implies some hedges were put 
+stwill1	684940019904151554	2016-01-07T03:30:00	DavidSchawel mark_dow or/and reserves ↓ 
+stwill1	684939913108783104	2016-01-07T03:29:35	DavidSchawel mark_dow Effect of vol on CA invoicing neglected imo. Vol ↑ -&gt; Exports kept in $ +Imports paid in $ -&gt; RMB↓
+stwill1	681758099213041665	2015-12-29T08:46:11	naufalsanaullah DavidSchawel vexmark So more corp defaults in 2016, potentially without bailouts?
+stwill1	681747154612973569	2015-12-29T08:02:42	naufalsanaullah DavidSchawel vexmark Why not? What's the alternative? Have the elite bear the losses; tough to imagine, no?
+stwill1	681184206622425088	2015-12-27T18:45:45	mbusigin Corporations themselves; debt funded M&amp;A and buybacks. Animal spirits at work.
+stwill1	680914441895018496	2015-12-27T00:53:48	xvrmdf Long term Tepper favorite. CTTAY looking decent as well. Not  as cheap outright, but should work relative  to bonds/CDS.
+stwill1	679350183872827392	2015-12-22T17:18:00	Peak Profitability is behind us. US ROE just slightly above LT average. (ht Jesse_Livermore) 

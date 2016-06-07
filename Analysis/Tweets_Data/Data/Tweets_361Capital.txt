@@ -1,0 +1,480 @@
+361Capital	726157344518737920	2016-04-29T21:12:56	Lg Cap All-Time High falls to 6 just 6 stocks: AWK BXLT IDXX INGR WCN Y 
+361Capital	726156998262149121	2016-04-29T21:11:34	EPS Movers: MNST +13% AMZN +10% EXPE RRC +8% RCL +2% VRSN -3% PSX -6% GILD -9% WDC -11% SRCL -21% STX -19%
+361Capital	726156756523458561	2016-04-29T21:10:36	The Bad XBI -2.2% XLV FXI-1.6% XRT -1.3% IYT -1.2% JETS AAPL-1.1% SPHB -1% VNQ XLK EWJ-0.9% FEZ -0.8%  The Ugly IBB SOXX -2.7%
+361Capital	726156546049110020	2016-04-29T21:09:46	The Good GDX +6.4% UNG +3.6% GREK +2.6% GLD +2% OIH +1.8% XME +1.7% FXY +1.6% EWW +1.2% FDN IGOV FXE+0.9% EWZ +0.8% USO +0.7%
+361Capital	726156208827076608	2016-04-29T21:08:26	SPX -0.5% on day, -1.3% on week, +0.3% for April  Chicago PMI wte US$ -0.6%, Yen +1.5% AMZN +10% on bte EPS Biotech -2.5% on wte GILD
+361Capital	726116624634355712	2016-04-29T18:31:08	Most interesting Facebook stat of the week...  
+361Capital	726058587290738688	2016-04-29T14:40:31	Adding new funds won't reduce volatility if correlations are the same.  ThinkAdvisor  
+361Capital	725804417207783424	2016-04-28T21:50:32	Chart of Day: GDX Gold Miners make 19 month highs as a weak US$ &amp; hot Core CPI lift Gold prices. 
+361Capital	725804181123162114	2016-04-28T21:49:36	Lg Cap All-Time High rises to 31 stocks with Industrials &amp; Healthcare making 1/2 of the list. XLI XLV 
+361Capital	725803913325105152	2016-04-28T21:48:32	EPS Movers: FB +7% NOV MJN CCE+4% CL F BMY WM MNST+3% EQT VAR ORLY -3% ALXN -5% SYMC -7% SEE AME -8% CAH XL XLNX -9%
+361Capital	725803596520914944	2016-04-28T21:47:16	The Bad ITB -3.7% AAPL XOP -3% SOXX -2.7% INDA -2.3% XRT -2.2% SPHB -1.8% XLE IYT-1.5% EFA XLK-1.3%  The Ugly EWJ -4.5%
+361Capital	725803269990191108	2016-04-28T21:45:58	The Good GDX +4.4% FXY +3.4% SLV +2.2% GLD XME +1.8% IGOV +1.1% USO +0.7% TLT FXE +0.4% FDN +0.2%
+361Capital	725802902430715905	2016-04-28T21:44:31	SPX -0.9%  Lower open on BoJ move, Bounces on FB, Oil &amp; Earnings, Falls on Icahn AAPL sale  ABT buys STJ for $25b  Core CPI +2.1% hot
+361Capital	725718903549255681	2016-04-28T16:10:44	Including Long/Short Equity in your core portfolio can decrease risk &amp; reduce drawdowns.  
+361Capital	725431115004047360	2016-04-27T21:07:10	Chart of Day: XLI Industrials which set a new all-time high and looks to have the reins of this market. 
+361Capital	725430796429844481	2016-04-27T21:05:54	Lg Cap All-Time High rises to 22 stocks with Industrials &amp; Healthcare dominating. XLI XLV 
+361Capital	725430548965920768	2016-04-27T21:04:55	EPS Movers: AIZ +7% GCI +6% LLL FE +5% GD AKAM GRMN +4% BA CINF EBAY BHI +3% HES-3% CHRW-5% AAPL CMG -6% GT-7% RHI-12%
+361Capital	725430309919956992	2016-04-27T21:03:58	The Bad GREK -3.5% EWA -2.4% FXA -2.1% IBB -1.3% XBI -1.1% XLK -0.5%  The Ugly QQQ -0.8%
+361Capital	725430087789617152	2016-04-27T21:03:05	The Good XME +3.6% OIH +3.4% XOP USO +3.1% EWZ +2.4% XLE +1.9% SPHB +1.6% XLU +1.4% GDX +1.1% TLT SOXX +1% XLB +0.8% EEM +0.7%
+361Capital	725429661958692864	2016-04-27T21:01:23	SPX +0.2% NDX -0.8% RUT +0.3% Oil +3%  Another big EPS day AAPL -6% (11% of NDX)  FOMC day Stays on rates, Less worried on global risks
+361Capital	725376731532681216	2016-04-27T17:31:04	At the end of the week, the 'Risk On' trend persisted as you can see in the numbers below:  
+361Capital	725335079023697920	2016-04-27T14:45:33	How to Identify True Diversifiers ThinkAdvisor managedfutures  
+361Capital	725067271131918336	2016-04-26T21:01:23	Chart of Day: XOP Oil &amp; Gas E&amp;P ETF hits 6 month high. Oil prices matter, current earnings don't. 
+361Capital	725067009822584833	2016-04-26T21:00:20	Lg Cap All-Time High rises to 12 stocks with Healthcare making up 6 names. XLV 
+361Capital	725066786715095042	2016-04-26T20:59:27	EPS Movers: CNX PXD +8% R +6% BP PCAR COH +5% LMT +3% DD IR +2% MMM -1% MAS LLY PG -2% WAT -3% WHR -4% CNI -5% GLW -8%
+361Capital	725066514257330176	2016-04-26T20:58:22	The Bad IBB -1.6% AMLP -0.5% XLV XLP TLT EWJ -0.4% QQQ UUP JETS -0.3% XLK -0.2%  The Ugly XBI -2.7%
+361Capital	725066385164881921	2016-04-26T20:57:51	The Good EWZ +3.1% XOP +3% USO +2.5% GDX +2.3% INDA +2.2% XME +2.1% EWI +1.9% XLE +1.6% SPHB +1.5% SOXX DBC +1.3% KRE EEM +1.2%
+361Capital	725065926744240128	2016-04-26T20:56:02	SPX +0.2% NDX -0.5% RUT +1.1% Oil +2.5% to 5 mo high  Massive earnings day Dur Goods wte Cons Conf wte Case Shiller wte
+361Capital	725007822023446528	2016-04-26T17:05:09	Out with the old and in with the new...it's time for the new core portfolio advisors  
+361Capital	724961585589014528	2016-04-26T14:01:25	Unclear Risk…Read more in the 361 Capital Weekly Research Briefing:  
+361Capital	724706496185921536	2016-04-25T21:07:47	Chart of the Day = A Golden Cross in SPX. Last occurrence was 10/22/2010. See bespokeinvest for more. 
+361Capital	724706208821571584	2016-04-25T21:06:39	Lg Cap All-Time High stuck at 6 stocks with Healthcare leading. XLV 
+361Capital	724706088650563584	2016-04-25T21:06:10	The Bad XME OIH -2.7% USO -2% SPHB AMLP -1.5% EWZ EWI -1.3% IYT -1.2% XLE JETS FXI -1.1% XRT-0.9% IBB-0.8%  The Ugly PRGO-18%
+361Capital	724705907209175041	2016-04-25T21:05:27	The Good DBA +1.3% VNQ +0.9% XLP +0.7% FXY +0.4% FXE GLD +0.3%  MCD +1.5% RAI +1.2% WMT MO +1.1%
+361Capital	724705642221424640	2016-04-25T21:04:24	SPX -0.2% Quiet, low volume day Commodities pause Staples bounce  New Home Sales wte -1.5% Dallas Fed wte   UUP -0.3% TLT -0.4%
+361Capital	724624048995610624	2016-04-25T15:40:10	Size – The Limiting Factor…Read more in the 361 Capital Monthly Alternatives Briefing:  
+361Capital	723616209845932032	2016-04-22T20:55:23	Not an episode of Dexter. 361Capital is expanding. Come see our larger (plastic-free) digs next month. 
+361Capital	723615782341472256	2016-04-22T20:53:41	Charts of the Week: Crude Oil +4.7% &amp; XLE Energy Sector +5.5%. The opposite that you were thinking on Sunday night! 
+361Capital	723615523276083201	2016-04-22T20:52:39	Lg Cap All-Time High falls to 6 stocks with Healthcare again the top outlier. XLV 
+361Capital	723615261979365377	2016-04-22T20:51:37	EPS Movers: AMD +51% NSC +11% STI +5% V -2% KMB -4% GOOG SBUX AAL -5% MSFT -7%
+361Capital	723614707261689856	2016-04-22T20:49:24	The Bad GDX-2.8% DBA-2.1% JETS-1.9% XLK-1.7% QQQ-1.5% GLD-1.3% XME FDN -1.1% IGOV-0.8% MTUM-0.7% EEM-0.6%  The Ugly FXY -2%
+361Capital	723614422158057472	2016-04-22T20:48:17	The Good XOP +3.5% GREK +2.5% UNG +2.2% OIH +1.7% XLE +1.5% SPHB +1.3% XLF VNQ +1.1% IWM IYT +1% XLU +0.9% XLB +0.7% JNK +0.3%
+361Capital	723614148953706496	2016-04-22T20:47:11	SPX flat RUT +1% NDX -1.5% Adv/Decl = 2:1  Crazy Day due to: Earnings Hits/Misses Markit PMI wte 50.8 Yen/$ -2% on Neg Rate talk
+361Capital	723266434869002240	2016-04-21T21:45:30	Chart of the Day: Safe stocks suffering a brutal 2 day selloff: Utilities, REITs, Staples &amp; Low Vol XLU 
+361Capital	723265854486409216	2016-04-21T21:43:11	Lg Cap All-Time High falls to 12 stocks with Healthcare again the top outlier. XLV 
+361Capital	723265597845315584	2016-04-21T21:42:10	EPS Movers: UA+7% NEM+6% BIIB JCI+5% SWK UNP+4% AXP LUV GM+1% QCOM YUM SYK-1% VZ-3% PPG KMI-5% TRV MAT-6% LVS-9% UAL-10%
+361Capital	723265277689880576	2016-04-21T21:40:54	The Bad XLU -2.1% VNQ -1.7% XLP EWZ -1.6% SPLV -1.5% IYT XRT -1.2% AAPL -1.1% EEM -0.9% XLF -0.8% MTUM -0.7%  The Ugly JETS-2.6%
+361Capital	723264798163529730	2016-04-21T21:39:00	The Good GREK +4% IBB +2.9% GDX +2% XBI +1.8% XLV FDN +0.7% SLV GLD +0.4%
+361Capital	723264690701246465	2016-04-21T21:38:34	SPX -0.5%  Volatile cross currents caused by Draghi/ECB &amp; many Corp Earnings  Philly Fed wte -1.6 Jobless Claims bte @ 247k
+361Capital	722884424619065345	2016-04-20T20:27:32	Lg Cap All-Time High falls to 20 stocks Healthcare the top outlier. XLV 
+361Capital	722883930911694850	2016-04-20T20:25:34	The Bad GDX -1.8% VNQ -1.7% XLP EPI -1.3% FXI TLT -1.1% EWZ -0.9% EEM -0.4%  The Ugly XLU -2.5%
+361Capital	722883722870071296	2016-04-20T20:24:44	The Good USO +3.1% AMLP +1.9% KBE +1.5% SPHB +1.3% FDN SOXX +1% XLE XLF +0.9% XLV +0.6% HYG +0.3%
+361Capital	722883617261621249	2016-04-20T20:24:19	SPX +0.1% RiskOn: Oil +2% drives Energy, Financials Bonds, Utilities, Staples selloff  EPS Movers: DFS+8% STJ+4% USB+2% INTC+1% KO-5%
+361Capital	722816299068297216	2016-04-20T15:56:49	.ZenTrends Almost noted the impressive SLV but figured the more widely traded GLD GDX captured the interest in the precious metals move
+361Capital	722531127861182465	2016-04-19T21:03:39	Chart of the Day: FEZ Euro Stoxx 50 goes positive YTD and jumps 200d MA 
+361Capital	722530742060748800	2016-04-19T21:02:07	Lg Cap All-Time High explodes to 53 stocks! Staples, Industrials &amp; Healthcare lead. XLP XLI XLV 
+361Capital	722530474514522112	2016-04-19T21:01:03	The Bad FDN -1.6% SOXX -1.2% ITB -0.7% QQQ XLK XLY-0.6% UUP -0.5%  The Ugly IBB XBI -1.9% NFLX -13% ILMN -23%
+361Capital	722530319363022848	2016-04-19T21:00:26	The Good UNG+7% GDX+4.9% XME+4.4% OIH+4.1% EWZ AMLP+4% USO+2.7% EWG+2.6% XLB DBC+2.1% XLE FEZ+2% EFA+1.7% GLD+1.6% EEM+1.5%
+361Capital	722530153037897728	2016-04-19T20:59:47	SPX +0.3% Very mixed day.  ↓US$ fired up Int'l Mkts and Commods  NFLX &amp; IBM hurt Tech  2016 highs in many avgs  including the Intl ones
+361Capital	722484417852272640	2016-04-19T17:58:02	The starting whistle just blew...Read more in the 361 Capital Research Briefing:  
+361Capital	722167653196894208	2016-04-18T20:59:20	Chart of the Day: DIA Dow Industrials retakes 18,000 for 1st time in 9 months 
+361Capital	722167414322925569	2016-04-18T20:58:23	Lg Cap All-Time High at 27 stocks with Healthcare, Industrial, Staples and FinTrans leading. XLV 
+361Capital	722166932858757120	2016-04-18T20:56:28	The Bad AAPL -2.2% USO -0.9% TLT -0.4% UUP -0.2% GLD -0.1%  The Dirty EWZ -2.8%
+361Capital	722166836142321664	2016-04-18T20:56:05	The Good AMLP +3.3% XOP +2.1% OIH +2% XLE +1.7% IBB XME +1.5% FEZ +1% XLV XLY EFA +0.9% IWM ACWI JNK +0.7%
+361Capital	722166592151244801	2016-04-18T20:55:07	SPX +0.65%  Highlights: Doha OPEC failure leads to oil sell off that recovers  Brazil impeachment vote leads to a sell off that sticks
+361Capital	722116289477615617	2016-04-18T17:35:14	On this TaxDay, it's important to know a Fund's fees &amp; tax implications before investing.  
+361Capital	721076274920235008	2016-04-15T20:42:35	Jersey of the Day: Our pick for best MiamiHEAT sponsor for 2017. NBAJerseyAds darrenrovell JNJCares 
+361Capital	721076032774602753	2016-04-15T20:41:37	Lg Cap All-Time High at 10 names with no theme today as the broader market takes a breather 
+361Capital	721075795628699648	2016-04-15T20:40:41	The Bad USO -2.3% AMLP -2% XOP -1.6% XLE -1.4% FXI -1.3% EWW -1% EWJ SOXX-0.9% OIH-0.8% SPHB-0.7% EEM-0.6%  The Ugly UNG -2.8%
+361Capital	721075272527679488	2016-04-15T20:38:36	The Good GREK +4.6% GDX +2.8% XME +1.4% DBA +1.1% EWA +1% TLT XRT +0.8% VNQ GLD FXY +0.7% XLP XLU +0.6%
+361Capital	721075161839984640	2016-04-15T20:38:10	SPX -0.1%  Highlights: Empire Mfg bte Indust Prod wte UofM Conf wte Bonds UP AAPL -2% on supply chain rumors China GDP +6.7% (in line)
+361Capital	721050122440830976	2016-04-15T18:58:40	Besides U.S. Dollars, the market also dislikes Bank Stocks...  
+361Capital	721013353230045184	2016-04-15T16:32:33	Conducting a peer group analysis is critical when selecting a Long/Short Equity manager:  
+361Capital	720724677774036992	2016-04-14T21:25:28	Chart of the Day = XLI Industrials which set a new 52wk high (dividend adjusted) 
+361Capital	720724577626644480	2016-04-14T21:25:04	Lg Cap All-Time High at 19 names with Health Care &amp; Industrials leading. XLV XLI 
+361Capital	720723729328635906	2016-04-14T21:21:42	The Bad EWZ -1.3% SOXX -0.8% OIH -0.8% XRT -0.7% IYR XHB -0.6% EEM TLT XLP -0.5%  The Ugly GDX -2.9% GLD -1.4%
+361Capital	720723477875929088	2016-04-14T21:20:42	SPX flat in quiet trading  Highlights: Jobless Claims = 253k   (lowest since 1973) CPI +0.1% Bank EPS mixed…   but KBE +1.1%
+361Capital	720723467201437696	2016-04-14T21:20:39	The Good JETS +1.3% EWA +1% KRE, KBE +0.9% FM +0.8% XBI +0.6% EFA +0.3% XLE XLF UUP +0.2%
+361Capital	720673202624667648	2016-04-14T18:00:55	Three Benefits of Managed Futures: #3 Harvesting Fear and Uncertainty in the Market  
+361Capital	720620397599834112	2016-04-14T14:31:05	A Long/Short Equity manager's ability to deliver alpha is critical. Read why in checklist:  
+361Capital	720351098196766724	2016-04-13T20:40:59	Chart of the Day = IWM which retakes its 200d MA and goes green for 1st time in 2016 
+361Capital	720350703890239488	2016-04-13T20:39:25	Lg Cap All-Time High at 22 stocks with Health Care, Industrial, REITs &amp; Staples leading. XLV XLI IYR XLP 
+361Capital	720350396149968901	2016-04-13T20:38:12	The Bad USO -1.2% XOP GLD -1.1% FXE -1% XLP FXY -0.8% XLU -0.6% VNQ -0.4%  The Ugly GDX -2.8%
+361Capital	720350108563341313	2016-04-13T20:37:03	The Good FXI+4% KRE+3.8% EWZ +2.9% EWJ XRT +2.7% IYT+2.6% XBI FDN +2.4% XLF SOXX +2.3%  IWM+2.2% SPHB+2% EEM+1.8% HYG +0.7%
+361Capital	720349965403291648	2016-04-13T20:36:29	SPX +1%  Helping: JPM +4% on bte EPS China trade data bte Strong 10yr UST auction Junk Bonds ↑ Sm Caps ↑  Hurting: wte API &amp; DoE Oil data
+361Capital	720333486234570753	2016-04-13T19:31:00	Three Benefits of Managed Futures: #2 Downside Protection and Added Source of Returns  
+361Capital	720326989366693888	2016-04-13T19:05:11	.business Self-driving cars cannot happen soon enough for this crew… 
+361Capital	720236459807088640	2016-04-13T13:05:28	Manager Due Diligence Checklist: Identify the Portfolio's Source of Risk:  
+361Capital	719989219666452480	2016-04-12T20:43:01	Chart of the Day = WTIC Crude Oil which retook its 200d MA after 21 months below 
+361Capital	719988031378165760	2016-04-12T20:38:18	Lg Cap All-Time High at 12 stocks with NO theme or concentration. Interesting day of rotation in the markets. 
+361Capital	719987476358569985	2016-04-12T20:36:05	The Bad EWI -0.8% FXY -0.6% SOXX -0.2%  The Ugly TLT -0.7%
+361Capital	719987217511256065	2016-04-12T20:35:04	The Good XOP +7% AMLP +3.8% USO +3.6% OIH +3.5% EWZ +3.3% SPHB +3.1% XLE +3% EWJ +2.4% KBE +2.1% EFA +1.5% EEM XLB XLF +1.4%
+361Capital	719986904767172608	2016-04-12T20:33:49	SPX +1%  Helping: Saudi/Russia Oil deal? Oil +4% CHK ↑ by its bankers Junk Bonds ↑ bte Euro inflation  Hurting: wte EPS: AA JNPR FAST
+361Capital	719958752829509632	2016-04-12T18:41:57	Three Benefits of Managed Futures: #1 Portfolio Diversification  
+361Capital	719925824485519363	2016-04-12T16:31:06	Find the right Long/Short Equity manager. Start by investigating their investment philosophy  
+361Capital	719903048856940548	2016-04-12T15:00:36	Thank you TrinityAssetMan. Glad you enjoy the briefing 
+361Capital	719893345301065728	2016-04-12T14:22:03	Waiting for Earnings...Read more in the 361 Capital Research Briefing:  
+361Capital	719628857377095680	2016-04-11T20:51:04	Lg Cap All-Time High at 22 stocks with Cons Staples &amp; REITs still leading. XLP IYR 
+361Capital	719628422662586368	2016-04-11T20:49:20	The Bad XLV -0.8% XLP -0.75% XRT -0.7% MTUM FDN EWJ -0.6% XLE IWM IYT XLU -0.5%  The Ugly XBI -2.5% IBB -1.6%
+361Capital	719628284183482368	2016-04-11T20:48:47	The Good GDX +5.9% XME +4% USO +2.4% ILF +2.1% INDA +2% EWZ +1.9% GLD +1.4% EWI +1.3% FXI +1.2% EEM +1.1% XLB +0.7% JNK +0.2%
+361Capital	719627967257653248	2016-04-11T20:47:32	SPX -0.3% Helped: China inflation Italian Bad Bank US$ weakness Oil +2% Material stocks Junk Bonds  Hurt: Healthcare stocks Momentum stocks
+361Capital	719549631739338752	2016-04-11T15:36:15	Nice article Kiplinger on the time being ripe for managed futures funds. 
+361Capital	718559282468290560	2016-04-08T22:00:57	Lg Cap All-Time High at 19 stocks with Cons Staples &amp; REITs leading. XLP IYR 
+361Capital	718559000623579138	2016-04-08T21:59:50	The Bad IBB -1.1% TLT -0.6% XRT -0.5% FDN -0.4% UUP -0.4% XLV -0.3%  The Ugly XBI +1.7%
+361Capital	718558683349651456	2016-04-08T21:58:34	The Good EWZ +6.4% USO +5.5% XOP +3.7% GDX +3.2% EWJ +2.9% XLE +2% EFA +1.9% EEM +1.7% IYT +1.1% JNK +0.65%
+361Capital	718557853695389696	2016-04-08T21:55:17	SPX +0.3%  Helping: Oil +5% Euro Banks +2.5% Junk +0.5% US$ -0.4%  Hurting: Retail -0.5%, GPS -14% HealthCare -0.4% Atlanta Fed ↓ GDP est
+361Capital	718508857933357057	2016-04-08T18:40:35	Lots of great football recently but the Romanian team won our attention:  (h/t@frankvoisin) 
+361Capital	718455092119252994	2016-04-08T15:06:56	Not sure what leverage means for your portfolio? Our monthly briefing provides some insight:  
+361Capital	718204232541712385	2016-04-07T22:30:07	Lg Cap All-Time High falls stays at only 12 stocks with Cons Staples the only concentration. XLP 
+361Capital	718204089595592704	2016-04-07T22:29:33	The Bad FEZ AAPL -2.2% EEM -2% XLF -1.9% IBB -1.8% XLB XLK QQQ -1.5% EFA -1.4%  The Ugly XRT -2.8% Retail KRE -2.7% RegBanks
+361Capital	718203878865383424	2016-04-07T22:28:42	The Good UNG +6.1% GDX +3.2% GLD +1.4% FXY +1.3% TLT +1.2% IEF +0.5% AMLP +0.5%
+361Capital	718203555509706752	2016-04-07T22:27:25	SPX -1.2%  RiskOff day as Yen +1.2% to 108.5, Oil &amp; Copper fall, Euro Banks hit 3%, U.S. Treasury working  on more tax blocks?
+361Capital	718146395610423296	2016-04-07T18:40:17	Sharp increase in U.S. sectors erased a lot of YTD losses. Healthcare &amp; financials need work… 
+361Capital	718094233400377344	2016-04-07T15:13:01	Managed Futures aren't correlated to stocks and bonds, making them excellent diversifiers:  
+361Capital	717825466627784704	2016-04-06T21:25:02	Lg Cap All-Time High falls stays at 14 stocks with Cons Staples the only concentration. XLP 
+361Capital	717825193180147712	2016-04-06T21:23:57	The Bad EWZ -0.8% TLT -0.7% GLD -0.6% IYT -0.3% UUP -0.2% XLU -0.1%  The Ugly UNG -2.5%
+361Capital	717824840816664576	2016-04-06T21:22:33	The Good XBI +7.2% IBB +5.8% USO +5.3% AMLP +2.8% XLV +2.7% XLE ITB +2% FXI SPHB +1.8% QQQ FDN EFA +1.6% EEM +1.2% JNK +0.9%
+361Capital	717824805358034944	2016-04-06T21:22:24	SPX +1.1%  Mkts lift early on Oil +5% (inv draws in API &amp; DoE data)  Then sees volatility in Fed minutes &amp; 3 Fed Spkrs. US$ &amp; Bonds down
+361Capital	717753865274318850	2016-04-06T16:40:31	Big question in the market is whether or not to own Emerging Markets? (h/t@MktOutperform)...  
+361Capital	717451374691155968	2016-04-05T20:38:31	Chart of the Day = Top hedge fund holding AGN who's acquisition by PFE was dealt a blow by the U.S. Treasury. 
+361Capital	717451101579005952	2016-04-05T20:37:26	Lg Cap All-Time High falls to 14 stocks with Cons Staples the only concentration. XLP 
+361Capital	717450956208648192	2016-04-05T20:36:52	The Bad FXI -2.3% EWJ -2.2% KRE -2.1% EEM EFA -2% XLU -1.8% XLF -1.4% XLV -1.3% AMLP -1.2% IWM -1.1%  The Ugly FEZ -2.4% Europe
+361Capital	717450772124798976	2016-04-05T20:36:08	The Good GDX +3.1% GLD +1.3% TLT +1.1% FXY +0.8% Yen USO +0.6% Oil
+361Capital	717450445149458432	2016-04-05T20:34:50	SPX -1%  Market weak due to: Europe service PMI wte Atlanta Fed ↓ GDP forecast U.S. Treas attacks inversions IMF warns on Global growth
+361Capital	717426758455271424	2016-04-05T19:00:43	How managedfutures can help reduce risk and generate steady returns:  
+361Capital	717353998118952960	2016-04-05T14:11:35	Nothing to see. Just another 8% bounce...Read more in the 361 Capital Research Briefing:  
+361Capital	717092988438990848	2016-04-04T20:54:26	Lg Cap All-Time High at 60 stocks with Utes, Cons Staples, REITs &amp; Insurance  leading. XLU XLP IYR XLF 
+361Capital	717092701099810816	2016-04-04T20:53:17	SPX -0.3% Oil -3% FANG -1.6%  RISK off day as Oil &amp; wte Econ data weighed on the markets: Factory Orders -1.7% Durable Goods -3%
+361Capital	716006761061179392	2016-04-01T20:58:09	Lg Cap All-Time High jumps to 62 stocks with Utes, Cons Staples, REITs still leading. XLU XLP IYR 
+361Capital	716006537097904128	2016-04-01T20:57:15	The Bad EWJ-2.5% EWY-1.4% XLE JETS -1.3% EFA-1.1% GLD-0.6%  The Ugly USO-3.8% AMLP-2.9% OIH-2.6%
+361Capital	716006275444637696	2016-04-01T20:56:13	The Good IBB+2.9% EWZ+2.2% XLV XLP QQQ +1.1% XLB+1% XLF+0.9% XLK GDX+0.8% TLT+0.3% JNK+0.2%
+361Capital	716005926399033344	2016-04-01T20:54:50	SPX +0.7% for day,   +1.8% for week  Strong Jobs &amp;  Weak Oil scares Stocks &amp; Bonds at open, but buyers in Hcare, Tech bounce the market.
+361Capital	715921842897289216	2016-04-01T15:20:43	Not sure what leverage means for your portfolio? Our monthly briefing explains:  
+361Capital	715648011347427329	2016-03-31T21:12:36	Chart of Day = Q1 comes to a close and SPX manages to gain +1.35% after a 10% drawdown 
+361Capital	715647676486791168	2016-03-31T21:11:16	Lg Cap All-Time High at 38 stocks with Utes, Cons Staples, REITs still leading the list. XLU XLP IYR 
+361Capital	715647516222447616	2016-03-31T21:10:38	The Bad EWJ XME-1.5% GDX-1.3% KRE EFA -1% FEZ-0.9% XLB-0.8% XLP-0.6% AAPL SOXX ACWI -0.5%  The Ugly EWZ-2%
+361Capital	715647199174983680	2016-03-31T21:09:23	The Good XBI +3% IBB AMLP +2.2% ITB +0.8% TLT IYR XLU +0.6% GLD IEF +0.4% IWM +0.3%
+361Capital	715647011291209728	2016-03-31T21:08:38	SPX -0.2% for day, +6.8% for March, +1.35% for Q1.  Jobless Claims at 275k Chicago PMI bte 53.6  Top big Q1 ETFs: GLD +15.9% XLU +15.5%
+361Capital	715558660500545536	2016-03-31T15:17:33	At 8:30AM, 300 people in line at Colorado TeslaMotors store to order a TeslaModel3
+361Capital	715278573649526784	2016-03-30T20:44:35	Charts of the Day are Opposites: US$ hits new 2016 lows while Emerging Market Equities hit new 2015 highs 
+361Capital	715278349161988097	2016-03-30T20:43:42	Lg Cap All-Time High leaps to 63 stocks w/ Utes, Cons Staples, REITs &amp; Health Care leading list. XLU XLP IYR XLV 
+361Capital	715277954893230080	2016-03-30T20:42:08	The Bad TLT-1.1% ITB-0.8% USO, IBB -0.7% UUP, EWJ -0.3% XLU-0.2%  The Ugly GDX-1.5% GLD-1.4%
+361Capital	715277745417158656	2016-03-30T20:41:18	The Good AMLP+2.2% AAPL+1.8% EWC FXI +1.5% EWG+1.4% OIH+1.3% FEZ+1.1% EEM+1% KBE SOXX EWW INDA +0.9% EFA+0.7% XLY XLF +0.6%
+361Capital	715277409386278912	2016-03-30T20:39:58	SPX+0.4% Yellen comments yday cont to help risk assets and hurt US$.  TLT-1.1% March ADP strong +200k Will Friday Jobs s follow?
+361Capital	715229914702721024	2016-03-30T17:31:14	More investing options create more potential risks. What investors should watch out for:  
+361Capital	715198227096711168	2016-03-30T15:25:19	Why should you consider Long/Short Equity as a core allocation?  
+361Capital	714916228075106304	2016-03-29T20:44:45	Chart of the Day = Mkt Imp Prob of Fed Rate Hikes. After Yellen's dovish speech, the market moves to Nov 2016. 
+361Capital	714915784292601856	2016-03-29T20:43:00	Lg Cap All-Time High at 22 stocks with Consumer Staples &amp; REITs leading the list. XLP IYR 
+361Capital	714915612414246912	2016-03-29T20:42:19	The Bad UUP-0.9% EWA-0.4% OIH, KBE -0.2% XLF+0.1%  The Ugly USO-2.4%
+361Capital	714915378447515648	2016-03-29T20:41:23	The Good GDX+5.6% IWM+2.8% ITB+2.6% AAPL+2.4% IYR, FDN +2% IBB+1.8% XLU+1.6% XLK, QQQ +1.5% EEM, FEZ +1.4% SOXX, XRT +1.3%
+361Capital	714915150696820736	2016-03-29T20:40:29	Yellen speech lifts all SPX+0.9% TLT+1.1% GLD+1.8%  Her dovish comments: Wte overseas growth, Uncertain inflation, Unfavorable mkts.
+361Capital	714875758016114690	2016-03-29T18:03:57	It's a different time period than we've seen &amp; advisors are asking what to tell investors  
+361Capital	714830770905485313	2016-03-29T15:05:11	Long/short equity strategies should be part of your core portfolio. Here’s why.  
+361Capital	714571074084610048	2016-03-28T21:53:14	Lg Cap All-Time High list at 22 names: 
+361Capital	714570856588922880	2016-03-28T21:52:22	SPY +0.1% QQQ -0.1% IWM +0.1% EFA +0.6% EEM +0.3% UUP -0.2% TLT +0.1% HYG -0.5% USO -0.5% XLE -0.5% XME +0.0% IBB -1.3%
+361Capital	714510116414955520	2016-03-28T17:51:01	With the evolution of global markets, investors should consider evolving as well.  
+361Capital	713111089458753536	2016-03-24T21:11:47	Lg Cap All-Time High list at 10 names: 
+361Capital	713110741448916992	2016-03-24T21:10:24	SPY +0.0% QQQ +0.0% IWM +0.3% EFA -0.7% EEM -0.2% UUP +0.0% TLT +0.0% HYG -0.4% USO -0.5% XLE +0.5% XME +2.6% IBB +0.5%
+361Capital	713089428525330432	2016-03-24T19:45:42	There are many risks beyond market risk &amp; as strategies expand, new risks arise:  
+361Capital	713033299250249731	2016-03-24T16:02:40	Long/Short Equity matches the performance of a 60/40 portfolio w/ better downside protection  
+361Capital	712759912699265026	2016-03-23T21:56:20	SPY-0.66% QQQ-0.82% IWM-1.85% EFA-1.01% EEM-1.70% $UUP0.52% $TLT1.13% HYG-0.46% USO-4.08% XLE-2.19% XME-6.17% IBB-3.30%
+361Capital	712694926404784129	2016-03-23T17:38:06	Long-short equity can complement traditional  allocation while improving  performance, says Stanton of 361Capital. 
+361Capital	712647923641790464	2016-03-23T14:31:20	When a hot sector goes on sale w/ few catalysts &amp; this political climate, price can FALL... 
+361Capital	712406821261017088	2016-03-22T22:33:16	Lg Cap All-Time High list at 13 names: 
+361Capital	712406618869108736	2016-03-22T22:32:28	SPY -0.1% QQQ +0.3% IWM -0.1% EFA -0.2% EEM -0.2% UUP +0.3% TLT +0.0% HYG -0.3% USO -0.5% XLE -0.6% XME +0.1% IBB +2.6%
+361Capital	712304153339498496	2016-03-22T15:45:18	The Many Forms of Risk…Read more in the 361 Capital Monthly Alternatives Briefing:  
+361Capital	712281574889414657	2016-03-22T14:15:35	Advisors: Learn how Managed Futures can smooth the ride by pairing trend &amp; counter-trend:  
+361Capital	712018226343845888	2016-03-21T20:49:08	Lg Cap All-Time High list at 18 names: 
+361Capital	712017719554510848	2016-03-21T20:47:07	SPY 0.1% QQQ 0.4% IWM -0.2% EFA -0.2% EEM 0.2% UUP 0.3% TLT -0.8% HYG -0.1% USO 1.0% XLE -0.3% XME -0.1% IBB 2.0%
+361Capital	711950126999322624	2016-03-21T16:18:32	The caution continues to be global…Read more in the 361 Capital Research Briefing:  
+361Capital	710929144238870528	2016-03-18T20:41:31	Lg Cap All-Time High at 40 stocks with Utilities, REITs &amp; Consumer Staples still leading the list. XLP IYR XLU 
+361Capital	710928911018762242	2016-03-18T20:40:35	The Bad MSFT-2.1% EWC-1% USO-0.7% XLU-0.6%  The Ugly OIH-1.9%
+361Capital	710928906677714944	2016-03-18T20:40:34	The Good JPM BAC+2.9% XBI+2.6% JETS+1.9% IBB+1.7% KRE+1.6% XHB IYT+1.4% XME EWZ SOXX+1.3% XLV+1.2% XLF+1% IWM+0.9%
+361Capital	710928408855752705	2016-03-18T20:38:35	SPX +0.4% day, +1.4% wk TLT +0.2% day, +1.3% wk  VIX -3% to 14 lowest close since Aug'15  Busy Quad Expiry Friday Volumes +30%
+361Capital	710904167292932096	2016-03-18T19:02:16	If you are wondering about your rising child care fees...  
+361Capital	710866135357509632	2016-03-18T16:31:08	Love the algorithmic approach to MarchMadness. "Seven tips for crunching March Madness math"  via Reuters
+361Capital	710563730782695424	2016-03-17T20:29:29	Lg Cap All-Time High leaps to 52 stocks w/ Utes, REITs &amp; Consumer Staples again dominating the list. XLP XLF XLU 
+361Capital	710563261595299840	2016-03-17T20:27:37	The Bad UUP-0.9% XLV-1.1% IBB-1.2% NDX-0.1%  The Ugly GDX-2.1% VRX-11.6% ENDP-11%
+361Capital	710563225062932480	2016-03-17T20:27:29	The Good EWZ+8.8% USO+3.5% &amp; WTIC &gt;$40 XME+3.3% IYT+3.1% EWW+2.8% XLI+2.3% EEM+2.2% XLB+2% IWM+1.5% XLE+1.4% IGOV+1.2% HYG+0.6%
+361Capital	710562959928348672	2016-03-17T20:26:25	SPX +0.6%  US$ weakness continues, Helps Commodities, EM Bonds/Equities.  Philly Fed bte, ++ New Orders  CAT cuts s but stock +2%
+361Capital	710548865716510720	2016-03-17T19:30:25	Great article wealth_mgmt on Managed Futures &amp; the benefits of counter-trend approach 
+361Capital	710522465991139328	2016-03-17T17:45:31	A new recent low in Jobless Claims should keep recession fears on the back burner:  
+361Capital	710490379712405504	2016-03-17T15:38:01	Want exposure to Ireland on this StPatricksDay? You should consider investing globally.  
+361Capital	710203182396248064	2016-03-16T20:36:48	Post today's FOMC, the Bond Markets shift rate hike expectations out to the September 2016 mtg… 
+361Capital	710202840816287744	2016-03-16T20:35:26	Lg Cap All-Time High jumps to 30 stocks with Utilities, REITs &amp; Consumer Staples leading. XLP XLF XLU 
+361Capital	710202448749592577	2016-03-16T20:33:53	Good GDX+6.8% USO+5% EWW+2.6% GLD EWA+2.3% EWZ EWC+2.1% EEM+2% XLE+1.7% HYG+0.7%  Bad XLF-0.2% XLV-0.3%  Ugly XBI-1.2%
+361Capital	710202035459600384	2016-03-16T20:32:14	Fed Day ↑ markets SPX +0.6%  FOMC stays on rates, Reduces outlook to 2 int rate incr for 2016  2Yr Yld plunges 10bps US$ falls -1.2%
+361Capital	710144985258205189	2016-03-16T16:45:32	High Yield &amp; High Grade Credit ETF prices were ahead before they got the ECB kick higher... 
+361Capital	710108485598502912	2016-03-16T14:20:30	Over 20 yrs a 60/40 portfolio generated a 8.7% return. Avg. investor? Just 2.5% Here's why:  
+361Capital	709855337138880513	2016-03-15T21:34:35	Lg Cap All-Time High jumps to 18 stocks with Consumer Staples, REITs &amp; Utilities leading. XLP XLF XLU 
+361Capital	709855033676836864	2016-03-15T21:33:23	The Good GDX+2.1% AAPL+2% XLK+0.4% The Bad XLV-1.6% SPHB IWM -1.6% AMLP-1.5% EEM-1.4% The Ugly EWZ-6% XBI-5.8% IBB-3.8% XME-2.8%
+361Capital	709854666507485184	2016-03-15T21:31:55	SPX-0.1% Oil -2%  HCare pain: VRX-50% MNK-15% ENDP-20%  Brazil -5% as Dilma moves to protect Lula from arrest.  Bonds flat into FOMC mtg
+361Capital	709788414246313984	2016-03-15T17:08:39	Advisors: Join our webinar to learn how to lower portfolio volatility with Managed Futures:  
+361Capital	709747207944192000	2016-03-15T14:24:55	Roofing During an Iowa Storm…Read more in the 361 Capital Research Briefing:  
+361Capital	709479915201163265	2016-03-14T20:42:47	Happy PiDay. Congrats to Indiana for not rounding Pi to 3.2. (A Purdue geek saved the state from ridicule in 1897) 
+361Capital	709479056555683841	2016-03-14T20:39:23	Lg Cap All-Time High jumps to 14 stocks with Consumer Staples, REITs &amp; Insurance leading. XLP XLF IYR 
+361Capital	709478681056399362	2016-03-14T20:37:53	The Good XBI+1.1% EWG XME+0.5% XLY+0.4% LQD TLT+0.3%  The Bad OIH-1.9% GLD-1.2% XLB XLE-0.7%  The Ugly GDX-4.3% EWZ-3% USO-2.9%
+361Capital	709478369084112896	2016-03-14T20:36:39	SPX-0.1% Lowest volumes of 2016  Oil -3% as OPEC pushes mtg to April, Iran going to 4m bbl  M&amp;A: Apollo + TFM BX - hotels HOT in play
+361Capital	709434247887654915	2016-03-14T17:41:20	Why Long/Short Equity should be part of a portfolio's core in ThinkAdvisor  
+361Capital	708407445152862209	2016-03-11T21:41:11	And a warm Colorado welcome to the newest Denver Broncos QB. Take us back to the SuperBowl SB51 
+361Capital	708407013370306560	2016-03-11T21:39:28	Chart of the Day = SPX which set its highest close for 2016 and jumped its 200 day Moving Average 
+361Capital	708406658314055680	2016-03-11T21:38:03	Lg Cap All-Time High jumps to 25 stocks with Utilities &amp; Consumer Staples again leading. XLU XLP 
+361Capital	708406294835625984	2016-03-11T21:36:36	The Good EWI+5% FEZ+3.5% EFA+2.7% FXI+3.6% SPHB+3.4% XOP+4.5% XLE, XLF+2.6% XBI+3.3%  The Bad TLT-1%  The Ugly GLD-1.6% GDX-2%
+361Capital	708405965855436800	2016-03-11T21:35:18	SPX+1.6% Sets 2016 Closing High Jumps over 200d MovAvg  Why? - IEA, Goldman +++ on Oil - Delayed ECB risk buying - Junk Credit soars +1.3%
+361Capital	708355628121645056	2016-03-11T18:15:17	USNews released its study of the ‘Best Places to Live’…proud that our home tops the list  
+361Capital	708308595134373888	2016-03-11T15:08:23	88% of inst. investors would fire a manager in &lt;2 yrs for underperformance. That’s a mistake  
+361Capital	708044597159530496	2016-03-10T21:39:21	Chart of the Day = German 10 Year Bond Yield which traded in a massive 17bp range today 
+361Capital	708044247199383552	2016-03-10T21:37:58	Lg Cap All-Time High list at 18 stocks with Utilities &amp; Consumer Staples still leading. XLU XLP 
+361Capital	708043941107478528	2016-03-10T21:36:45	SPX=flat  The Good GDX+4.4% EWZ+3.1% GLD, Euro+1.6% JNK+0.8%  The Bad AMLP-1.2% US$, Oil-1% IWM, FDN, FXI-0.9%  The Ugly XBI -1.8%
+361Capital	708043551544717312	2016-03-10T21:35:12	Draghi = Volatility! ECB cuts rates &amp; QE expands to 80b BUT… Hints rate cuts are finito  FEZ-1.2% Trading ranges: Euro= 3% EU stocks= 5%
+361Capital	707997091533037568	2016-03-10T18:30:35	The market’s appetite for Junk Bonds can be easily seen here…   Chart: MktOutperform 
+361Capital	707948004045688832	2016-03-10T15:15:31	Advisors there’s still time to register for today’s Seeking Growth in Risky Markets webinar  
+361Capital	707681218905571332	2016-03-09T21:35:25	Charts of the Day = XLU &amp; XLP as Utilities and Staples close at New All-Time Highs 
+361Capital	707680700674101248	2016-03-09T21:33:21	Lg Cap All-Time High list at 19 stocks with Utilities &amp; Food+Pizza leading. XLU XLP 
+361Capital	707680326034677761	2016-03-09T21:31:52	SPX+0.5% Oil Jumps +5%  The Good XOP+3.4% EWA+2.4% XLE+1.6% EWZ+1.2% SPHB+1.1%  The Bad KRE, GLD -0.8% TLT-0.6%  The Ugly IBB-1.2%
+361Capital	707627279971647488	2016-03-09T18:01:05	A look at the market bounce now versus October shows some notable differences...  
+361Capital	707316771846430720	2016-03-08T21:27:14	Lg Cap All-Time High list at 10 stocks with Utilities and Restaurants leading. XLU XLY 
+361Capital	707316329510871040	2016-03-08T21:25:28	SPX-1.1% Oil Reverses -4%  Good TLT+1.2% XLU+0.9%  Bad RUT-2.4% KBE-2.6% IBB-3.5%  Ugly XLE-4.2% XOP-8% AMLP-6.8% SPHB-4.4%
+361Capital	707226892726829056	2016-03-08T15:30:05	Plates are Shifting…Read more in the 361 Capital Research Briefing:  
+361Capital	706958969126780928	2016-03-07T21:45:27	Charts of the Day = FANG which closed -3.2% FB AMZN NFLX GOOGL 
+361Capital	706958533967765504	2016-03-07T21:43:43	Lg Cap All-Time High list at 8 stocks with no leading theme. 
+361Capital	706958028424122368	2016-03-07T21:41:43	XLs mixed Best XLE +2.4% Worst XLP XLK -0.6%  2yr Tr Yld +3bps to 0.91% Rising oil &amp; metal prices, Fed Speak lift short rates
+361Capital	706957673858641920	2016-03-07T21:40:18	SPX+0.1%  The Good USO+4.8% RUT+1.1% XLE+2.4% SPHB+1.1% IBB +2.4%  The Bad NDX-0.6% XLK-0.7% XLP-0.7%  The Ugly FANG -3.2%
+361Capital	706925042425323520	2016-03-07T19:30:38	Behavioral finance has shown investors routinely make sub-optimal decisions. Here’s why:  
+361Capital	706885146625101825	2016-03-07T16:52:06	Advisors put your client assets to work with long/short equity. Join our webinar:  
+361Capital	705874260061851648	2016-03-04T21:55:12	Chart of Day = XLP Staples which set/closed at a new All Time High today 
+361Capital	705873934969798656	2016-03-04T21:53:55	Lg Cap All-Time High list at 12 stocks with a Consumer Staples concentration. XLP 
+361Capital	705873621516832768	2016-03-04T21:52:40	XLs mostly ↑ Best XLB XLU+1.1% Worst XLV-0.2%  Movers: EWZ+5.3% FXI+2.8% RSX+3.5% XOP+3.9% KRE+1.2% IBB-0.4% HYG+0.3% SOXX+1%
+361Capital	705873032468783104	2016-03-04T21:50:20	SPX+0.3% USO+4.3%  Energy, Metals, EM strong XLE+1% XME+1.1% EEM+2.2% SPHB+2%  Jobs: NFP +242k bte AvgHrs -0.1% wte UE=4.9% TLT-0.6%
+361Capital	705830667419066368	2016-03-04T19:01:59	Oil &amp; U.S. Equities: now correlated for 3 months in a row on weekly data (h/t Stockcharts)…  
+361Capital	705772191485394944	2016-03-04T15:09:37	Our CIO Cliff Stanton encourages investors to see long-short equity as a core position in his ThinkAdvisor column 
+361Capital	705512869173919744	2016-03-03T21:59:10	Chart of Day = EWZ as Brazil enters is now in a 'Bull Market'. Hopefully you still employ a LatAm analyst. 
+361Capital	705512532434296832	2016-03-03T21:57:50	Lg Cap All-Time High list at 13 stocks with no group standouts 
+361Capital	705512111900725249	2016-03-03T21:56:09	XLs mostly ↑ Best XLE+1.5% Worst XLV-0.3%  US$-0.6% TLT+0.4% HYG+0.3% $5b Junk inflows?  Factory Orders &amp; Dur Goods wte ISM Serv bte
+361Capital	705510790149722112	2016-03-03T21:50:54	Mixed day, Good volumes SPX +0.35% RUT +1% NDX -0.2% FANG -0.5%  Strong buying: SPHB+2.5% KRE+1.9% EWZ+7% XOP+5% XME+2.5% GDX+4%
+361Capital	705150506633547776	2016-03-02T21:59:16	Chart of Day = GLD continued gains pull the 50d MA &gt; 200d MA for first time in 18 months 
+361Capital	705149920664121344	2016-03-02T21:56:56	Lg Cap All-Time High list at 7 stocks with Consumer Retail &amp; REITs leading. XLP XLF 
+361Capital	705149439371976704	2016-03-02T21:55:02	Yield curve flattens on bte Beige Book bte ADP employ +214k Fed's Williams comments  Super Tues: helps Clinton, Trump hurts Rubio, Carson
+361Capital	705149157556662272	2016-03-02T21:53:54	XLs mostly higher Best XLE+2.3% Worst XLB-0.4%  Movers XOP+5.4% AMLP+3.8% XBI+4.1% KRE+1.9% XME+7.8% GDX+2.6% EWA+2.9% EWZ+2.5%
+361Capital	705148893596557312	2016-03-02T21:52:51	Broad Asset Buying SPX+0.4% RUT+1.1% TLT+0.4% USO+1.6% GLD+0.7% EEM+1.2% Yen+0.6% Losers Short USTreas NDX-0.2% MTUM-0.2% HYG -0.7%
+361Capital	705128384419008512	2016-03-02T20:31:22	The winds are definitely shifting in favor of Active, Hedged investing…  
+361Capital	705067710540095488	2016-03-02T16:30:16	Thanks for the kind words about Harindra de Silva of Analytic Investors, a sub-advisor to 361 Capital. We agree! 
+361Capital	704784870376079360	2016-03-01T21:46:22	Chart of Day = HYG Junk Bonds wake up with a BANG! The biggest 2 days of buying in 2016. And Equities respond? 
+361Capital	704784707330768896	2016-03-01T21:45:43	Lg Cap All-Time High list at 4 stocks: TWC RSG HSIC PNRA
+361Capital	704784313791811585	2016-03-01T21:44:09	XLs most higher Best XLF+3.7% Worst XLU-0.5% Movers HYG+1.6% JNK+1.8% TLT-2% USO+2% EEM+3.6% EWZ+5.3% INP+4.8% KRE+4.2% IBB+4.4%
+361Capital	704782426392776705	2016-03-01T21:36:39	Finally, buying volumes! SPX+2.4% NDX+3.2%  RiskOn day due to: bte ISM Mfg=49.5 bte Constr Spending+1.5% ECB hints more easing HYG+1.6%
+361Capital	704688444187009024	2016-03-01T15:23:12	The bull still has reason to look skeptical…Read more in the 361 Capital Research Briefing: 
+361Capital	704446011322707968	2016-02-29T23:19:51	Lg Cap All-Time High list at 4 stocks: TWC NOC NLSN DPZ
+361Capital	704445745055674369	2016-02-29T23:18:48	XLs most lower Best: XLU +0.3% Worst: XLV -1.6%  Movers KRE -2.3% IBB -2.8% EWJ -1.5% XHB-1.1% EEM+0.9% GLD+1.3% GLD+1.3% GDX+3.7%
+361Capital	704445145123434496	2016-02-29T23:16:25	SPX -0.8% on day to end Month -0.4%  Energy: USO +2.7% UNG -4.7%  PBoChina cuts rates Data: Chicago PMI wte Dallas Fed wte Home Sales wte
+361Capital	703350795740123136	2016-02-26T22:47:51	Chart of Day = 2 Year Yield rises 7bps to 0.797% on today's hotter than expected PRICE data points… 
+361Capital	703350566865403904	2016-02-26T22:46:57	Lg Cap All-Time High list at 17 stocks with Staples &amp; Medical Instruments topping the list. XLP XLV 
+361Capital	703350460552318978	2016-02-26T22:46:32	XLs mixed Best: XLB +1.5% Worst: XLU -2.8%, XLP -1.4%  Movers KRE +2% XOP +2.3% OIH +2.9% XHB +1% GDX -3.6% EWZ -1.7% EEM -1%
+361Capital	703350181090078721	2016-02-26T22:45:25	SPX -0.4% USO -0.2%  Strong GDP and Price data spooked Bonds and fanned  rate hike worries. TLT -1%  HYG +0.6%  as funds see $2.7b flows
+361Capital	703287883277451264	2016-02-26T18:37:52	Why the pause in housing? Not just residential, but commercial starts also looking to slow…  
+361Capital	702974415802241025	2016-02-25T21:52:16	Chart of Day = SPX conquers 50d MA but volume strength and other breadth measures elusive 
+361Capital	702973867938021376	2016-02-25T21:50:05	Lg Cap All-Time High lifts to 22 stocks with Utilities &amp; Staples topping the list. XLU XLP 
+361Capital	702973510507847680	2016-02-25T21:48:40	XLs all ↑ Best: XLB +1.4% XLF, XLI, XLV +1.3% Worst: XLE +0.1%  Movers IYR +1.8% VGK +1.4% KRE +1.6% ITB +1.8% GDX +1.5% HYG+0.6%
+361Capital	702972880078802944	2016-02-25T21:46:09	SPX +1.1% USO +2.4% TLT GLD +0.4%  China -6% (liquidity ↓) DurGoods bte KC Fed wte to 2009 lows WLL, CLR cut oil prod CRM +11% on EPS
+361Capital	702894478613487616	2016-02-25T16:34:37	Why the Oil analyst is the highest paid person on trading desk. Another week of Oil leading:  
+361Capital	702621059929870336	2016-02-24T22:28:09	Charts of the Day = Significant intraday moves in the SPX, Oil, Yen &amp; Bonds. 
+361Capital	702620312479727616	2016-02-24T22:25:11	Lg Cap All-Time High at 9 stocks with Utilities &amp; Staples topping the list. XLU XLP 
+361Capital	702617243721437184	2016-02-24T22:12:59	XLs mostly up Best: XLE +1.3% Worst: XLF -0.3%  Movers NDX +0.9% IWM +1.2% XLB +1% SOXX +1.3% GDX +1% KRE -0.7% EWG -1.3% EWZ-0.8%
+361Capital	702616969476861952	2016-02-24T22:11:54	SPX+0.4% USO+1.2%  SPX trades in 2.1% range Oil trades in a 6% range on API inv &amp; Saudi comments  Weak Econ Data =&gt; big moves Yen &amp; Bonds
+361Capital	702566192637202432	2016-02-24T18:50:08	Plenty of Volume in the market pullback, but where were last week's BUY tickets?  
+361Capital	702257502218391552	2016-02-23T22:23:30	Lg Cap All-Time High at 9 stocks with Staples topping the list. XLP 
+361Capital	702257194662649856	2016-02-23T22:22:17	Data: Richmond Fed wte Cons Confidence wte Exist Home Sales bte CaseShiller ↓ m/m German IFO to 4yr low  TLT +0.4% GLD +1.3% GDX +1.8%
+361Capital	702256828332187648	2016-02-23T22:20:49	XLs mostly lower Best: XLU +0.1% Worst: XLE -3.4%  Movers: XOP -5.3% AMLP -4.1% XBI -4.2% KRE -2.5% XLB -2.4% XLK -1.6% EWZ -2.6%
+361Capital	702256572357963776	2016-02-23T22:19:48	SPX -1.2% Volumes weak  All about Oil… USO -4.8% as Iran calls production freeze "ridiculous"  JPM -4.2% as CEO outlines Energy risks
+361Capital	702153506359263233	2016-02-23T15:30:15	I like my tea and my markets much stronger…Read more in the 361 Capital Research Briefing:  
+361Capital	701894796890083328	2016-02-22T22:22:14	Chart of Day = SPX S&amp;P500 ready to test 50 day MA as Oil pulls it higher again 
+361Capital	701894506317123584	2016-02-22T22:21:05	Lg Cap All-Time High to 17 stocks with Food, REITs &amp; Insurance topping the list. XLP IYR XLF 
+361Capital	701894185796788226	2016-02-22T22:19:49	All XLs higher Best: XLE +2.6%, XLY +1.75%, XLI +1.7%  Movers: IYT +1.9% KRE +2% EWZ +6.5% (oil/political) British# -1.7% (Brexit)
+361Capital	701893929982033920	2016-02-22T22:18:48	SPX +1.4% Weak Volumes but Broad Strength Up/Dn Vol = 12:1 Adv/Decl = 3.3:1  All about Oil… USO +4.1% XLE +2.6% EEM +2.5% HYG +0.9%
+361Capital	701791133945335808	2016-02-22T15:30:19	Self-Sabotage…Read more in the 361 Capital Alternatives Briefing:  
+361Capital	700799620901769216	2016-02-19T21:50:24	Have a great weekend everyone. Especially to those voting on Saturday in Nevada and South Carolina… 
+361Capital	700799081010958336	2016-02-19T21:48:15	Lg Cap All-Time High to 13 stocks with Food &amp; REITs topping the list. XLP IYR 
+361Capital	700798229030408193	2016-02-19T21:44:52	Best XL: XLY +0.3% Worst: XLB -1.2%  Movers: GDX -3% XOP -2.2% AMLP -2.1% XBI +1.7% AMZN +2% FB +1% HD +1.5% INTC -2.5% BAC -0.9%
+361Capital	700797947164753921	2016-02-19T21:43:45	A Quiet Day! SPX flat  Oil -1.4%  NatGas -3% pushed mkt lower early but IWM +0.5% helped it recover  CPI ex-F/E+0.3% so stronger than exp
+361Capital	700789611333865473	2016-02-19T21:10:38	Many runners read the Weekly Briefing. Now, there are more reasons to keep moving...  
+361Capital	700439709558804480	2016-02-18T22:00:14	Chart of Day = GDX Gold Miners jump back to make new 8 month highs on strong volume 
+361Capital	700439350476034048	2016-02-18T21:58:49	Lg Cap All-Time High at 11 stocks with Food, Utes, Garbage &amp; Medical Equip topping the list. XLP XLU XLI XLV 
+361Capital	700439131738869760	2016-02-18T21:57:57	Best XL: XLU +1.6% Worst: XLE -1.25%  Movers GLD +2.4% GDX +6.1% TLT +1.2% KRE -1.7% banks XOP -4.1% IBB -2.6% EWI -2.3% EWZ -2.6%
+361Capital	700438670705229825	2016-02-18T21:56:07	WMT -3% on weak outlook  DVN raises $1b (12% of cap) Priced at $18.75 Closes +5% at $19.72 So will others follow???  NatGas -5% on ↑ inv
+361Capital	700438081455820800	2016-02-18T21:53:46	The Bounce Ends SPX -0.5% NDX -1.2%  Market again follows Oil -1% but Financials also reverse ↓ on Bullard int rate comments
+361Capital	700346672812072960	2016-02-18T15:50:33	Will Junk Bonds ever disconnect from Energy prices? They've been closely correlated:  
+361Capital	700074249860452356	2016-02-17T21:48:02	Chart of Day = SPX has cut 1/2 of its YTD loss in 3 days as it heads into resistance levels 
+361Capital	700073914412638208	2016-02-17T21:46:42	Lg Cap All-Time High at 10 stocks with Food, Garbage &amp; Medical Equip topping the list. XLP XLI XLV 
+361Capital	700073503727300609	2016-02-17T21:45:04	Data/News: Housing Starts wte PPI ex F&amp;E +0.4% Arch Billings Index &lt; 50 Ind Prod bte S&amp;P cuts S.Arabia to A- Mx cuts rates, Peso +3%
+361Capital	700073179729932288	2016-02-17T21:43:47	Best XL sectors XLE +3.3% XLY, XLK +2.1% Worst XLU -0.2%  Notables NDX +2.3% IBB +3% FDN +3% XOP +4.7% GDX +3.5% EWZ+4% TLT-0.6%
+361Capital	700072666649133056	2016-02-17T21:41:45	Bounce Day 3 SPX +1.65% Again good breadth Up/Dn Vol = 8.7:1  All about Oil +5% Drives Energy, Mining High Beta rips higher SPHB +3%
+361Capital	699996768050745345	2016-02-17T16:40:09	The Opposite of Calm…Read more in the 361 Capital Research Briefing:  
+361Capital	699736998655885312	2016-02-16T23:27:55	Lg Cap All-Time High at 8 stocks with Food &amp; Garbage topping the list. XLP XLI 
+361Capital	699736779448975361	2016-02-16T23:27:03	Other notables: IBB +3% KRE +3% C +3.5% FDN +3% SOXX +3.5% XRT +4% AMLP +6.5% KMI +10% AAPL +2.7% C +3.5%
+361Capital	699736537320202240	2016-02-16T23:26:05	All XLs end ↑ Best: XLY +2.4%, XLI +2%, XLV +1.9%  Notable: IWM +2.4% EEM +2.2% FXI +4.2% EWJ +3.7% TLT -1.1% GLD -3% GDX -8.7%
+361Capital	699736322924105728	2016-02-16T23:25:14	Bounce Day 2 SPX +1.65% Low volumes Good breadth Up/Dn Vol =8.7:1 RUT +2.45%  Yuan intervention Oil production freeze? but USO ends -0.2%
+361Capital	698262088087506944	2016-02-12T21:47:09	SPY 2.06% QQQ 1.52% IWM 1.90% EFA 1.75% EEM 1.73% UUP 0.44% TLT -1.66% HYG 1.49% USO 4.23% XLE 2.63% XLF 4.22% GLD -0.59%
+361Capital	698259361164980225	2016-02-12T21:36:19	Lg Cap All-Time High list at 6 names: ATO CINF HRL K MKC O
+361Capital	698192638785273856	2016-02-12T17:11:11	Excellent words of advice for the students in your life:  
+361Capital	697921765377331200	2016-02-11T23:14:50	Chart of the Day = XLF as wheels coming off the Financial sector on credit worries, negative rates and flat curves 
+361Capital	697921500918075392	2016-02-11T23:13:47	All XLs end lower Best: XLY -0.1% Worst: XLF -3.1%  Notable: QQQ -0.1% FDN +1.1% KRE -3.8% EEM -1.7% EWZ -4.2% EPI -3.5% GDX +7.2%
+361Capital	697921344860590080	2016-02-11T23:13:10	Crazy volatile day SPX trades in 2.4% range  Swede rates go negative DB -4.3% BAC -6.8% Yen touches 111 HYG -0.8% BA -7% on acctg item
+361Capital	697893557793746944	2016-02-11T21:22:45	Lg Cap All-Time High list at 4 names: AWK K NNN O
+361Capital	697893461215703040	2016-02-11T21:22:22	SPY -1.30% QQQ -0.14% IWM -1.09% EFA -1.46% EEM -1.67% UUP -0.28% TLT 0.70% HYG -0.67% USO 0.41% XLE -0.42% XLF -3.06% GLD 4.02%
+361Capital	697540312923701249	2016-02-10T21:59:04	Chart of the Day = Yen +1.6% today and +7% in February on global flight to safety. 
+361Capital	697540059210207232	2016-02-10T21:58:04	Lg Cap All-Time High at 7 stocks with Food/Staples topping the list. XLP 
+361Capital	697539546267807744	2016-02-10T21:56:02	Earnings Movers CRTO +28% AKAM +21% TRMB +14% SEE +8% HSIC +6% PNRA PAYC +5% URBN +3% DIS -4% TWX -5% ARMH -9% FDC-14% SCTY-29%
+361Capital	697539141462982656	2016-02-10T21:54:25	Best XL: XLV +0.9% Worst: XLB -1%  Notables: EEM +0.4% EWZ +2.1% EWI +2.9% AMLP -3.2% QQQ +0.4%
+361Capital	697538904451252224	2016-02-10T21:53:29	SPX unch'd Yellen fails to comfort  Risk: Oil -2.7% KRE -0.9% banks HYG -0.2% junk  Safety: Yen/$ +1.6% TLT +0.9% GLD +0.8% GDX +2.3%
+361Capital	697485387825029120	2016-02-10T18:20:49	Most hit last week and year-to-date are the Momentum stocks. Read more:  
+361Capital	697197338029379585	2016-02-09T23:16:13	Way to go AnalyticInvestors, our sub-advisor, and the Denver Broncos! 
+361Capital	697177223355207680	2016-02-09T21:56:17	Chart of Day=$USO Crude Oil trades near 2016 lows on worries of Full Storage. Goldman says price in teens possible. 
+361Capital	697176634445594625	2016-02-09T21:53:57	Earnings Movers: TEN +13% OI +10% WCG MAS +8% GPK +7% GT +4% GWR CNC OMC WYN +3% WEN -4% REGN -6% HCP -17% VIAB -21%
+361Capital	697176245092483073	2016-02-09T21:52:24	Lg Cap All-Time High at 10 stocks with Utilities &amp; Staples owning the list. XLU XLP 
+361Capital	697175726856888320	2016-02-09T21:50:20	Best XL XLB +1.2% Worst XLE -2.4%  Notables GDX -4% XOP -3.9% AMLP -3.5% IYR -1.7% EEM -1.5% RSX -3.9% EWI-2.4% UUP-0.8% Euro+0.9%
+361Capital	697175323968823296	2016-02-09T21:48:44	SPX-0.1% Japan 10yr &lt; 0% Nikkei-5% Goldman: Oil to teens Oil ends -5% Euro bank worries DB, EUFN -2.5% APC cuts div 80% Junk HYG -0.4%
+361Capital	697087687812059137	2016-02-09T16:00:30	Defense wins Championships…Read more in this week’s 361 Capital Research Briefing:  
+361Capital	696811183416807424	2016-02-08T21:41:46	Chart of the Day = CHK -33%. All eyes on Chesapeake Energy as they try and avoid bankruptcy. 
+361Capital	696811013094543360	2016-02-08T21:41:06	Lg Cap All-Time High at 5 stocks: ED XEL TSN WEC INGR. All Utes &amp; Foods. XLU XLP
+361Capital	696810562592768001	2016-02-08T21:39:18	All XLs ↓ Best XLP -0.2% Worst XLB -2.7% XLF -2.6%  Notables IBB -3.2% XBI -5.5% AMLP -9.8% ITB -3.3% KBE-3.1% IYR-2.9% FDN-3.5%
+361Capital	696810057321680896	2016-02-08T21:37:18	SPX -1.4%  Pressures: Oil -3% CHK -32% HYG -1.2% DB -7.9%  EUFN -3.8% GREK -6%  Wins: TLT +2.15% GLD +1.3% Yen +0.9% Euro +0.3%
+361Capital	695724176246644737	2016-02-05T21:42:24	Chart of the Day = Earnings misses get CRUSHED! LNKD DATA and more… 
+361Capital	695723337796841472	2016-02-05T21:39:04	Lg Cap All-Time High falls to 5 stocks: SYY XEL TSN EW DLR so Foods leads list. XLP
+361Capital	695723336827949056	2016-02-05T21:39:04	Breadth not horrific but Mkt closes at days lows. Decl/Adv = 3:1 Dn/Up Vol = 5:1 IWM -2.5%  Is the mkt betting on a Broncos victory? SB50
+361Capital	695723336140062721	2016-02-05T21:39:03	Best XLs: XLU +0.3%  Worst XLs: XLY -3.2% XLK -2.8%  Other: FANG -5.4% MTUM -3% IBB -3.2% FDN -7.2% XOP -3.9% GDX +5.6% HYG -0.8%
+361Capital	695723335636746240	2016-02-05T21:39:03	SPX -1.85% NDX -3.4% Market deFANGd  after Jobs report  NFP +151k v +190k est revisions -30k avg hrly earn +0.5% = Slower Jobs + Inflation
+361Capital	695686006440402946	2016-02-05T19:10:43	Finally, what a great extra effort...Read more in the 361 Capital Research Briefing:  
+361Capital	695639411137081344	2016-02-05T16:05:34	Our partner Analytic Investors has a Super Bowl prediction based on each team's Alpha. Read:  
+361Capital	695620820975149056	2016-02-05T14:51:42	paststat The team locked me out of all logo redesign meetings which is why the new branding &amp; website looks great. Glad you like it. -BR
+361Capital	695361466732404736	2016-02-04T21:41:07	Lg Cap All-Time High falls to 8 stocks. Utes, REITs lead list. XLU IYR 
+361Capital	695361445387567111	2016-02-04T21:41:02	DOWN Earnings movers: RL -22% STRA -14% CS -11% COP GPRO -8% LB -7% ICE AZN -6% CLX MET SNA -5% ABC LNC -4%
+361Capital	695361444510957568	2016-02-04T21:41:02	UP Earnings movers: WFT +18% CX +12% ARW TDC MHFI BWLD CMI +8% BZH LVLT VMC +7% DNKN +6% ALL XYL RDS.A CINF +4%
+361Capital	695361444095766528	2016-02-04T21:41:02	Best XLs: XLB +2.8% XLI +1.8%  Worst XLs: XLP -0.9%  Notables: IYT +3.1% EEM +0.8$ EWZ +4.2% XME +5.4% Mining OIH +3% XBI +2% SmBio
+361Capital	695361117548204033	2016-02-04T21:39:44	Euro +1% US$ -0.7% Oil -2.3% TLT +0.5% HYG -0.3% GLD +1.2% GDX +5%  Momentum↓ FANG -0.5% MTUM -1%
+361Capital	695360327068717058	2016-02-04T21:36:35	SPX +0.15% but trades in a 1.7% range.
+361Capital	695356235747438594	2016-02-04T21:20:20	Do you know how your favorite NFL team's Alpha stacked up against others? Find out:  
+361Capital	695337346338697216	2016-02-04T20:05:16	70%+ companies are beating their bottom-line EPS during month where earnings estimates lower: 
+361Capital	695308710671970304	2016-02-04T18:11:29	Who will win SuperBowl 50? Vote now.  Analytic Investors does the analysis on NFL Alpha. 
+361Capital	695028435337371652	2016-02-03T23:37:46	Chart of Day = VIX as Equity vol spiked with the moves in Forex, Oil, Credit and Financials. SPX XLF 
+361Capital	695028236355371012	2016-02-03T23:36:59	Lg Cap All-Time High lifts to 22 stocks. Utes, REITs &amp; Staples dominate. XLU IYR XLP 
+361Capital	695027857915904002	2016-02-03T23:35:28	DOWN Earnings movers: NOV -10% MPC RHI -8% MDLZ NVO -6% YHOO -5% JEC IMLN CMG BDX -3%
+361Capital	695027737468149763	2016-02-03T23:35:00	UP Earnings movers: SE EW +8% ETN +7% AVY ALXN CMCSA +6% IMS EXC +5% GILD EVR +4% GSK ABB +3%
+361Capital	695027273569693696	2016-02-03T23:33:09	Best XLs: XLE +3.6% XLB +3.4%  Worst XLs: XLY -0.3% XLP -0.2% XLK -0.1%  Notables: XLU +1.2% EWZ +6% RSX +7% HYG +0.5% TLT -0.8%
+361Capital	695027051279966212	2016-02-03T23:32:16	A very wild ride today… SPX ends +0.5% but trades in 2.4% range Oil +9.5% US$ -1.7% EEM +2.8% GLD +1.1% GDX +7.3% NDX-0.5% w/ FANG-2.4%
+361Capital	694638162505641984	2016-02-02T21:46:58	Lg Cap All-Time High list falls to 12 stocks with Utes leading XLU 
+361Capital	694637923774279681	2016-02-02T21:46:01	DOWN Earnings movers: RCL AXE -15% PBI -14% HRS -10% AGCO ADM -9% BP TSO LAZ ST -8% CIT AMG -7% R -6% PNR -4% XOM -2%
+361Capital	694637703090958336	2016-02-02T21:45:08	UP Earnings movers: KORS + 24% MAT +14% LFUS +9% DOW MNK +6% APC +2.5% BAX +2% GOOGL +1%
+361Capital	694637357283151872	2016-02-02T21:43:46	Worst XLs XLE -3.3% XLF -2.7% XLI -2%  Safety Trade Up: TLT +1.8% XLU +0.6%  Notables IYT -2.9% KRE -3% IBB -3% SMH -3% EEM -3.3%
+361Capital	694637105733988352	2016-02-02T21:42:46	Oil crushed, Stocks follow Crude -4.9% SPX -1.9%  Credit weak: HYG -0.7%  Breadth weak:  RUT -2.3% Dn/Up Vol = 10:1 Decl/Adv = 4:1
+361Capital	694603757401808897	2016-02-02T19:30:15	Still Looking? Read more in the 361 Capital Research Briefing:  h/t@HistoryInPics 
+361Capital	694274837586423808	2016-02-01T21:43:14	Lg Cap All-Time High list lifts to 24 stocks with Staples, Utes &amp; REITs again leading XLP XLU IYR 
+361Capital	694274439060520961	2016-02-01T21:41:39	Earnings movers: SYY +8% RYAAY +4% AET +1.5% CAH -2% SOHU -4% ROP -7%
+361Capital	694274175779737600	2016-02-01T21:40:37	Top XL: XLU +1% Bottom: XLE -1.7%  Notables: IYT +0.9% trans XOP -3.4% e&amp;p EEM -1% FXI -2.1% china GDX +3.1% miners FDN +1.2% i-net
+361Capital	694273757276286976	2016-02-01T21:38:57	Mixed day on ↓Oil, and weak global PMIs. Positives were 3 M&amp;A deals, and Fed's Fischer comments  SPX flat RUT -0.3% USO -6.6% oil
+361Capital	693196622293913600	2016-01-29T22:18:48	Chart of Day = SPX. Japan surprise + Month end Pension Fund buying causes breakout of week's range. 
+361Capital	693196167996309504	2016-01-29T22:17:00	Lg Cap All-Time High list expands to 18 stocks with Staples, Utes &amp; REITs leading XLP XLU IYR 
+361Capital	693195648162619392	2016-01-29T22:14:56	DOWN Earnings movers: ABAX -13% ALV -9% AMZN -8% EA -7% VRTS -4% EMN -3%
+361Capital	693195403357872128	2016-01-29T22:13:57	UP Earnings moves: CNX +18% MTW +12% FLEX +10% STX IDXX +9% V MA +7% MSFT APD XRX +6% HON +5% CL PCAR +4% TYC NWL AMGN +3%
+361Capital	693195148629389313	2016-01-29T22:12:57	Breadth BIG… Adv/Decl = 8:1 Up/Dn Vol = 14:1 IWM +3.3%  Notables: EEM +3.1% EWZ +7.3% XLK +2.5% top XL SOXX +4.5% XLY +1.1% bottom XL
+361Capital	693194770672291840	2016-01-29T22:11:26	Surprise! Japan takes interest rates &lt; 0%  Everything UP! SPX +2.5% stocks TLT +0.85% bonds UUP +1.1% US$ GLD +0.4% gold but Oil -0.5%
+361Capital	693130319088738305	2016-01-29T17:55:20	Finally, regarding any plans you have on investing in auto dealerships…Read more:  
+361Capital	692837527888105474	2016-01-28T22:31:53	Chart of the Day = FB vs. IBB. The ongoing  dilemma for Growth stock managers… 
+361Capital	692837188141092864	2016-01-28T22:30:32	Lg Cap All-Time High list = 10 stocks with Utilities &amp; Staples leading XLU XLP 
+361Capital	692836717586321408	2016-01-28T22:28:40	DOWN Earnings movers: ADS -20% URI -18% CLS -16% JNPR -15% EBAY -12% ABT -9% QCOM DFS -8% OSK -7% JBLU LLY AN TMO -6% CELG -5%
+361Capital	692836490963865608	2016-01-28T22:27:46	UP Earnings movers: UA +23% FB +16% PYPL +8% EPD +7% BHI +6% CAM SNDK CAT +5% CTXS MKC HOG +4% RTN TROW +3% HSY LRCX LVS +3%
+361Capital	692836144753483778	2016-01-28T22:26:23	Notables USO+5% oil XLE+3% top XL  XLV-2.3% bottom XL IBB-3.6% biotech XPH-3.4% pharma  EEM+1.6% UUP-0.6% US$ HYG+0.5% TLT+0.2%
+361Capital	692835901227925505	2016-01-28T22:25:25	Oil ↑ + Strong Earnings = SPX +0.55% NDX +1.4% FB +15% GOOG +4% AMZN +9%  DurGood ex-Trans wte Dec Home Sales wte JobClaims @ 278k
+361Capital	692468241223041025	2016-01-27T22:04:28	Charts of the Day = SPX still stuck in a volatile 4 day trading range 
+361Capital	692467908119793664	2016-01-27T22:03:09	Lg Cap All-Time High list = 5 stocks: SJM (Food), O (REIT), WCN (Waste), ATO (Ute), SERV (Industrial)
+361Capital	692467712749105153	2016-01-27T22:02:22	Best XL  XLU +0.2% Worst XL XLK -2.1% XLY -1.6%  Notables IBB -3.1% XBI -4.6% FDN -2.5%i-net VNQ -2.1%REITs USO+2.3% KRE+1.3%banks
+361Capital	692467261467148289	2016-01-27T22:00:35	Earnings movers: HES +6% BIIB COF +5% PGR SYK +3% ITW +2% AAPL STT -7% BA -9% VMW -10% TXT -13% X -14% TSS TUP -15%
+361Capital	692466952292417537	2016-01-27T21:59:21	Oil ↑ helps stocks early, but ugly EPS day &amp; FOMC crushes stocks late SPX -1.1% w/ range of 2.4%  NDX -2.5% XLK -2.1% AAPL -6.6% wte EPS
+361Capital	692367748471656450	2016-01-27T15:25:09	As weekly Jobless Claims arrive at higher-than-expected levels, is it time for a new worry?  
+361Capital	692100936597004288	2016-01-26T21:44:56	Charts of the Day = SPX stuck in 3 day range. Is next move up or down? 
+361Capital	692100649752723456	2016-01-26T21:43:48	Lg Cap All-Time High list = 3 stocks: MAA (REIT), NI (Utility), SERV (Industrial)
+361Capital	692100437730660352	2016-01-26T21:42:57	Best XLs:  XLE +3.7%  Notables: IWM +1.9% IYT +2.4% trans XOP +6.5% e&amp;p XME +5.4% mining KRE +2.5% banks HYG +0.9% IBB -0.4% biotech
+361Capital	692100143198285824	2016-01-26T21:41:47	Earnings moves: S +19% COH +10% AKS +9% PHG FCX +7% GLW +6% MMM JNJ +5% NVR PH PLD +4% PG +3% PII -9%  TEX +38% (acq bid)
+361Capital	692099629605740544	2016-01-26T21:39:44	Oil ↑ = Stocks ↑ Oil +5% SPX +1.4% o/night range = 2.7% as China -6.5%  Adv/Decl = 5:2 Up/Dn Vol = 5.5:2  IWF +1.9% value IWD +1% growth
+361Capital	692007868472659968	2016-01-26T15:35:07	Eerily Similar? Read more in the 361 Capital Research Briefing:  
+361Capital	691757571355582467	2016-01-25T23:00:31	Charts of the Day = XLB Materials &amp; XLF Financials both of which trade to new 2016 closing lows 
+361Capital	691757315557605376	2016-01-25T22:59:30	Lg Cap All-Time High list = 5 stocks: MCD BXLT MAA NI ELS (McDonalds + 2 REITs)
+361Capital	691756999613222912	2016-01-25T22:58:15	Earnings movers: MCD +1.5% HAL KMB -3% DHI -4%  Other: TLT +0.6% bonds GLD +1% gold XOP -7.2% e&amp;p KBE -4% banks EWC -2.8% Canada
+361Capital	691756796470521857	2016-01-25T22:57:27	Oil -7.5% and so SPX -1.6% also XLE -4.6% (worst XL) HYG -1% XLF -2.4% XLB -3.2%  Dallas Fed collapses to -34.6 JCI buys TYC +12%
+361Capital	691646898315399168	2016-01-25T15:40:45	On Average We Are All Average…Read more in the 361 Capital Alts Briefing:  
+361Capital	690659865728000000	2016-01-22T22:18:38	Picture of the Day: Currently, we have perfect weather for a football game. Go Broncos! (h/t 9news) 
+361Capital	690659348528238592	2016-01-22T22:16:35	Best XLs  XLE +4.4% XLK +2.7% Worst: XLI +0.9%  Others RSX +8% Russia EWZ +4.3% Brazil IBB +3.3% Biotech AMLP +8.9% IYR +2.8% REITs
+361Capital	690658925343944704	2016-01-22T22:14:54	Lg Cap All-Time High list = 6 stocks: BXLT AWK FRT NI ELS SERV (2 Utes &amp; 2 REITs)
+361Capital	690658657407610881	2016-01-22T22:13:50	Earnings movers: SLB +6% SYF +5% KSU MXIM BID +4% GE -1% STI LM -2% PBCT -3% AXP -12%  Other: TLT -0.4% UUP +0.5% GLD -0.4%
+361Capital	690658279110811649	2016-01-22T22:12:20	Finally a big relief rally: SPX +2.0% NDX +2.8% ACWI +2.5%  Big Earnings wte Oil +8% Junk bonds +1.5% Nikkei +6% Central Banks to Rescue?
+361Capital	690290864665407488	2016-01-21T21:52:21	Chart of the Day = Financials XLF which are now the worst sector in last 24 trading days 
+361Capital	690290608548642817	2016-01-21T21:51:20	Lg Cap All-Time High list today = only 1 name and a repeat from yday: WCN (Industrial)
+361Capital	690290336866828288	2016-01-21T21:50:15	Best XLs:  XLE +3.1% XLY +1.3% Worst: XLF -0.7%  Others Notables: IWM -0.2% SmCaps TLT -0.8% HYG +0.7% Junk EWC +3.2% Canada
+361Capital	690290104556847104	2016-01-21T21:49:20	Earnings movers: KMI +15% XLNX +9% ALK +8% VZ +3% BK -3% BBT -3% UNP -4% FITB -5% MTG -12%  Key drug miss: ALKS -44% IBB -2.2%
+361Capital	690289833558683648	2016-01-21T21:48:15	SPX ends +0.5% Oil &amp; Draghi helps mkts USO Oil +4% XLE +3.1% Energy XOP +7% E&amp;Ps AMLP +6.4%  Jobless Claims wte @ 293k Earnings mixed
+361Capital	690238810052038657	2016-01-21T18:25:30	The pendulum is now shifting. That is not good news for your risky portfolio... Read more:  
+361Capital	689927677524910080	2016-01-20T21:49:11	Chart of the Day = Small Caps IWM which crossed the green finish line first today 
+361Capital	689927169154244608	2016-01-20T21:47:10	Lg Cap All-Time High list today = 1 names: WCN (Industrial)
+361Capital	689926870263926784	2016-01-20T21:45:58	Best XLs  XLV+0.2% Worst XLE -2.6% XLU -2.3% XLF -2.1%  Others IWM+0.6% SmCaps IYR -2.5% REITs AMLP -6.8%  EWJ-3.7%Japan EEM-2.1%
+361Capital	689926458295255041	2016-01-20T21:44:20	Earnings movers SAVE+11% CREE+8% ASML GNC+6% LLTC+4% NFLX flat(was -10%) GS-2% NTRS-4% DB-5% EAT-3% RDS.B-4% IBM-5% AMD-8%
+361Capital	689925958015422464	2016-01-20T21:42:21	SPX ends -1.2% Trades in 3.5% range 3rd time &gt; 3% in 5 days  Oil -3%(was -6%) Junk HYG -0.6%(was -2%) China FXI -3.3%  TLT+1% GLD+1.3%
+361Capital	689858981037215745	2016-01-20T17:16:12	Most troubling last week was the downturn in Junk Bonds...Read more in 361 Research Briefing: 
+361Capital	689563583525457920	2016-01-19T21:42:24	Lg Cap All-Time High list today = 3 names: AWK (Ute), GAS (Ute), PRE (Insurance)
+361Capital	689562810406154240	2016-01-19T21:39:20	Earnings movers DAL +3.3% UNH +3% BAC -1.5% SCHW -1.9% CMA -3.7% TIF -5.1%  Best XLs  XLU +1.4% XLP +1.3% Worst XLE-2.2% XLB-1.2%
+361Capital	689562175342424064	2016-01-19T21:36:48	SPX +0.05% Breadth difficult Decl/Adv = 2:1 RUT -1.3%  Market ↑ until Oil ↓ USO -3.4% XLE -2.2% XOP -5.1% AMLP -5.9% HYG -0.35%
+361Capital	689468703990087688	2016-01-19T15:25:23	Risks Keep Rising…Read more in the 361 Capital Research Briefing:  
+361Capital	688128584163045376	2016-01-15T22:40:13	chartseer wte = worse than expected. bte = better than expected.
+361Capital	688116978070913024	2016-01-15T21:54:06	Lg Cap All-Time High list today = ZERO!  (Enjoy the 3 day weekend!)
+361Capital	688116629306134528	2016-01-15T21:52:43	Other Notables: EEM -4%  FXI -4.7% China RSX -7.1% Russia EFA -3.6% EWA -5.4% Aus XOP -3.6% Oil E&amp;P AMLP -5.3% FDN -3.2% Internet
+361Capital	688116293493342208	2016-01-15T21:51:23	All XL Sectors lower Worst XLs: XLK XLE -2.8% XLF -2.2%  Earnings movers: C -6.4% FAST -4% BLK -3.3% WFC -3.6% WYNN +13% THS +3.9%
+361Capital	688115700674646016	2016-01-15T21:49:02	Why Sell? China -3.5% Crude Oil -5% Retail Sales wte Empire Mfg wte INTC, C wte EPS BHP takes $7b writedown HYG -1.3% (was -1.7%)
+361Capital	688115484969992193	2016-01-15T21:48:10	SPX -2.2% sets 15 month new low Decl/Adv = 5:1 Dn/Up Vol = 15:1  NDX -3.1% SMH -4.8% semis INTC -9.2% on eps  TLT +1.6% GLD +1%
+361Capital	688044323267567618	2016-01-15T17:05:24	Many times a seemingly simple solution engenders unintended complexities. Case in point: multistrategy funds. Read: 
+361Capital	687759224911233024	2016-01-14T22:12:31	Chart of the Day: Small Caps continue to underperform Large Caps for everyday of 2016 
+361Capital	687758911902883840	2016-01-14T22:11:17	Lg Cap All-Time High list today = only AWK (Am. Water Works)
+361Capital	687758643631001600	2016-01-14T22:10:13	Best XLs: XLE +4.3% XLV +2.7% XLK +1.9%  Notables: IBB +4% biotech AMLP +6.7% MLPs SMH +2.7% semis EWZ +2.5% Brazil
+361Capital	687758314386554880	2016-01-14T22:08:54	Market again fades on open but Fed Hawk Bullard gets Dovish &amp; Stocks bottom after  JPM +1.5% w/ bte EPS  Oil ends +2% XLE rips +4.3%
+361Capital	687757297305559040	2016-01-14T22:04:52	SPX +1.7%  Recovers 67% of yday loss Volumes &gt; yday but, Breadth slightly worse. RUT +1.5%  which u/perf SPX again (9/9 days)
+361Capital	687666892086050817	2016-01-14T16:05:37	The market is looking for $57 Crude by year end. Good luck with that forecast…  
+361Capital	687401488277180417	2016-01-13T22:31:00	Chart of the Day= Biotech ETFs broken. Large Cap: IBB -17.1% YTD. Small Cap: XBI -22.0% YTD. 
+361Capital	687401097154134016	2016-01-13T22:29:27	Lg Cap All-Time High list today = only EXR, PSA (Storage REITs)
+361Capital	687400700096167936	2016-01-13T22:27:52	FANG hurt FB -3.9% AMZN -5.8% NFLX -8.5% GOOGL -3.5%  IBB -5.4%  KRE -3.6% Banks XHB -3.4% Housing IYT -3.6% Trans CSX -5.7% wteEPS
+361Capital	687400078588424194	2016-01-13T22:25:24	Notables: IWM -3.2% SmCap TLT +0.3% Bonds XLU unch'd USO -1.3% Oil AMLP -6.2% MLPs
+361Capital	687399957897310210	2016-01-13T22:24:55	Worst Sectors: XLY -3.4% XLV -3% XLK -2.7% XLF -2.6%
+361Capital	687399242013536258	2016-01-13T22:22:05	SPX -2.5% Volumes +50% = fear rises Largest decline since 9/28  Pick a reason: Weak earnings Fed Rosengren comments Oil, China, Small Caps
+361Capital	687338521762336768	2016-01-13T18:20:48	While future rallies may continue to be sold off, first we need to have a short-term rally… 
+361Capital	687028552449970176	2016-01-12T21:49:05	Lg Cap All-Time High list today = A BIG FAT ZERO.
+361Capital	687028181467922432	2016-01-12T21:47:37	Best XLs: XLV +1.3% XLK +1.2% XLY +1.1% Worst XL: XLU -0.4%  Notables: TLT +1.4% HYG +0.1% Junk IBB +1.5% Biotech EWG +1.6% Germany
+361Capital	687027788478464000	2016-01-12T21:46:03	SPX +0.8% NDX +1.2% RUT +0.3%  Wild day in commodities: Oil -2% scratches $30 NatGas -5%  AA -9% starts earnings season off with a thud.
+361Capital	686939470541811712	2016-01-12T15:55:07	Under Pressure…Read more in this week’s 361 Capital Research Briefing:  
+361Capital	686929880072761344	2016-01-12T15:17:00	@shomikghosh2 EQIX has a great large cap chart, but it still has a bit to go to pass its $500 stock price in 2000.
+361Capital	686667377992269825	2016-01-11T21:53:55	Chart of the Day= Energy sector hit hard again as Oil -5%, Nat Gas -4%. 
+361Capital	686667004917358592	2016-01-11T21:52:26	Lg Cap All-Time High list = only 1 stock: EXR (REIT)
+361Capital	686666589882613760	2016-01-11T21:50:47	Worst XLs: XLE -2.3% XLB -1.7% Best: XLP +1%  Notables: UUP +0.5% TLT -1.1% HYG -0.2% USO -5% IBB -3.5%, XBI -5.7% FCX -20%
+361Capital	686666211287937025	2016-01-11T21:49:17	Another volatile day China &amp; EM Forex hit Oil collapses -5%  Breadth weak: XLG +0.3% Megas SPX -0.1% RSP -0.35% SPY=Wgt IWM -0.5% SmCap
+361Capital	685579708914782208	2016-01-08T21:51:54	Chart of the Day= S&amp;P 500 which has its worst start to any year in its history. SPX 
+361Capital	685579427065942016	2016-01-08T21:50:47	Some big adds today to the list of ETFs in correction (down 10%+ from high): SPY -10.3% QQQ -10.2% XLK -10.2% XLY -10.2%
+361Capital	685579138774663168	2016-01-08T21:49:38	Lg Cap All-Time High list = only 1 stock: ATO (regulated nat gas distribution)
+361Capital	685578868523048960	2016-01-08T21:48:34	Notables: TLT +0.5%  UUP +0.3% AAPL +0.5% HYG -0.2% USO -1%  Worst XLs: XLF -1.6% XLV -1.5%
+361Capital	685578447091937281	2016-01-08T21:46:53	Ugly Oil &gt; Good NFP + Stable China.  SPX -1.1% as S&amp;P 500 enters correction.  $2b+ of SELL volume into the close=capitulation to end week.
+361Capital	685569227663773697	2016-01-08T21:10:15	Finally, our favorite menu screen shot over the break. Bandit Plate = Genius! Read more in our Research Briefing: 
+361Capital	685215827482685440	2016-01-07T21:45:58	Chart of the Day: Most retailers posted bte Dec. comps so it was the only area with some green today. XRT 
+361Capital	685215528516890624	2016-01-07T21:44:47	Big decliners: EEM -3.2% FXI -3.7% EWA -4.3% Copper -3% XLK -2.9% (worst XL) QQQ -3.1% AAPL -4.4% IBB -4.1% XLF -2.9% ITB -4.2%
+361Capital	685215153298669568	2016-01-07T21:43:17	Lg Cap All-Time High list = 2 stocks: STZ (bte Revs/EPS &amp; raised guidance), BXLT (bid incoming)
+361Capital	685214843176009728	2016-01-07T21:42:03	Few gainers today: TLT +0.1% (China selling?) GLD +1.4% GDX +4.4% Euro +1.4% STZ +4.5% (bte EPS) WBA +1.9% (bte EPS)
+361Capital	685214670500663297	2016-01-07T21:41:22	Bad Oily Chinese Takeout: New lows in Crude -2%, China Yuan volatility &amp; limit -7% Chinese stocks hits all Equity markets.  SPX ends -2.4%
+361Capital	685126397539516416	2016-01-07T15:50:36	For 2015, Main Street U.S.A. was the winner with their home value rising 5%+:  
+361Capital	684860859651194884	2016-01-06T22:15:27	Charts of the Day: Energy price plunge =&gt; More dollars into consumer wallets. 
+361Capital	684860608009744384	2016-01-06T22:14:27	Lg Cap All-Time High list = 4 stocks: EXR ELS OA CUBE. (now at 3 REITs)
+361Capital	684860270078918656	2016-01-06T22:13:07	Best XLs: XLU flat Worst: XLE -3.9%  Movers: XBI -4% (SmBio) XOP -7% (E&amp;P) AMLP -5.5% SOXX -3% (Semis) XLB -2.6% EWA -2.9% (Aussie)
+361Capital	684860056655904768	2016-01-06T22:12:16	Fed Minutes highlight  inflation concerns. Fed Fischer notes uncertainty rising, Sees 4 int rate hikes. UUP -0.3% (US$) TLT +1.3% (Bonds)
+361Capital	684859821472878592	2016-01-06T22:11:20	SPX -1.3% TLT +1.3% Oil -5%, Gasoline -7% Brent hits 11 yr lows &amp; WTIC to &lt; $34 But even with Oil down, HYG ends flat.
+361Capital	684806838714515460	2016-01-06T18:40:48	A look at the major liquid financial assets highlights the difficulty in finding broad gains: 
+361Capital	684761561634848768	2016-01-06T15:40:53	When returns are low, the natural reaction of the investor is to act. Patience is key: 
+361Capital	684489311715069952	2016-01-05T21:39:03	Lg Cap All-Time High list = 5 stocks: KMB BXLT EXR GAS CUBE. (so 2 REITs as IYR +1.6% today)
+361Capital	684488953001590784	2016-01-05T21:37:38	Best XLs: XLP XLU +0.7% Worst: XLK -0.3% ($AAPL)  F GM -2% (wte Dec sales) WMT TGT +2% (good vol) DIS -2% (post SW7 &amp; ESPN)
+361Capital	684488782909800448	2016-01-05T21:36:57	SPX +0.2% TLT -0.3% China mkts stabilize Euro -0.8% (wte Euro CPI) Oil -3% (str US$) AAPL -2.5% (reports of iPhone 6s/6s+ prod cuts)
+361Capital	684074333703020544	2016-01-04T18:10:05	Putting all of your “alts” in one basket? 361Capital's Cliff Stanton has some advice:  
+361Capital	684398993590370304	2016-01-05T15:40:10	2015 Was A Stinker...Read more in this week’s 361 Capital Research Briefing:  
+361Capital	684131598405517312	2016-01-04T21:57:38	Lg Cap All-Time High list = 2 stocks: BXLT ($SHPG acq interest), PRE (arb stock as bot by Exor)
+361Capital	684131241990307840	2016-01-04T21:56:13	FANG clipped: FB GOOG -2% AMZN -6% NFLX -4%  XLF -1.9% = worst XL XLE flat = best XL USO volatile ending flat UUP +0.2% TLT +0.7%
+361Capital	684130967657648128	2016-01-04T21:55:07	Risk sells off to start '16 due to China PMI wte, &amp; MidEast tensions SPX -1.5% NDX -2.1% RUT -2.4% EFA -1.5% EEM -2.7% Shanghai -7%
+361Capital	684062008753262592	2016-01-04T17:21:06	Stanton of 361Capital asks if putting all your alts in one basket is really a good idea?  
+361Capital	684064722346479616	2016-01-04T17:31:53	Increased interest rates would reduce or even eliminate the cost of shorting stocks. Read more FedDecision benefits:
+361Capital	682673145535279104	2015-12-31T21:22:16	Lg Cap All-Time High list at 1 name: SIX
+361Capital	682672927188189184	2015-12-31T21:21:23	SPY  -1.00% QQQ  -1.24% IWM  -1.25% EFA  -1.34% EEM  -0.31% UUP  0.51% TLT  0.45% HYG  0.06% USO  0.64% XLE  0.45%
+361Capital	682599993191063552	2015-12-31T16:31:35	Despite all the ups and downs of 2015, many asset classes are ending the year where they started: 
+361Capital	682308586391875584	2015-12-30T21:13:38	Lg Cap All-Time High list at 19 names: ACE CB EXR GAS HSIC K KMB KR MAA MSCI PRE QUNR RCL RNR SERV TFSL TMO UDR WCN
+361Capital	682308414324736002	2015-12-30T21:12:57	SPY  -0.71% QQQ  -0.90% IWM  -1.01% EFA  -0.60% EEM  -1.55% UUP  0.00% TLT  -0.10% HYG  0.07% USO  -2.93% XLE  -1.35%
+361Capital	682234893615632384	2015-12-30T16:20:48	Take advantage of increasing interest rates and find out which investments will benefit from the FedDecision here: 
+361Capital	681954068487520256	2015-12-29T21:44:54	SPY  1.07% QQQ  1.57% IWM  1.08% EFA  1.00% EEM  0.09% UUP  0.28% TLT  -1.66% HYG  0.57% USO  3.02% XLE  0.69%
+361Capital	681861096412680193	2015-12-29T15:35:28	Long/short is exemplifying the main driver of flows: performance. Read our December Alts Briefing here: 
+361Capital	681586113689997312	2015-12-28T21:22:47	Lg Cap All-Time High list at 16 names: ACE AWK AYI CB DPS ELS HRS KR MCD MSCI NTES PRE RYAAY SJM TMO WCN
+361Capital	681585842524045312	2015-12-28T21:21:42	SPY   -0.23% QQQ   -0.05% IWM   -0.46% EFA   -0.24% EEM   -0.70% UUP   -0.12% TLT   +0.30% HYG   -0.60% USO   -3.27% XLE   -1.82%
+361Capital	681520718379663360	2015-12-28T17:02:55	Cliff Stanton speaks to finalternatives about the benefits the rate hike will have on some alternative investments. 
+361Capital	680090205676683264	2015-12-24T18:18:35	Lg Cap All-Time High list at 15 names: ACE AWK AYI CB DPS ELS HRS KR MCD MSCI NTES PRE RYAAY SJM TMO
+361Capital	680089900109053952	2015-12-24T18:17:22	SPY  -0.17% QQQ  -0.02% IWM  0.19% EFA  -0.17% EEM  -0.36% UUP  -0.23% TLT  0.57% HYG  0.20% USO  0.36% XLE  -0.90%
+361Capital	680086176330559488	2015-12-24T18:02:34	Wishing you Peace, Happiness, and Prosperity. Happy Holidays from 361 Capital. 
+361Capital	680056736108142592	2015-12-24T16:05:35	So after 38 years, Rudolph gets some competition:  
+361Capital	679777844155658240	2015-12-23T21:37:22	Today’s Lg Cap All-Time High list is up to 13 names: ACE AYI CB GAS HRL HRS K KMB NKE RCL RYAAY SJM TMO
+361Capital	679777101315092480	2015-12-23T21:34:25	SPY +1.24% QQQ +0.74% IWM +1.26% EFA +1.67% EEM +1.41% UUP +0.16% TLT -0.75% HYG +0.64% USO +4.55% XLE +4.35%

@@ -1,0 +1,56 @@
+coinbase	725745523127283712	2016-04-28T17:56:31	How Coinbase Builds Secure Infrastructure To Store Bitcoin In The Cloud 
+coinbase	725524737892343808	2016-04-28T03:19:11	Additional countries will be launching soon.
+coinbase	725524589032312833	2016-04-28T03:18:36	Bitcoin buys using a debit card are now live to 100% of U.S. users on Coinbase! 🇺🇸  
+coinbase	722844312988307457	2016-04-20T17:48:08	Our infrastructure team identified and resolved the issue. Both Coinbase website, Merchant, &amp; API are 100% available 
+coinbase	722844312011034624	2016-04-20T17:48:08	Our team is currently investigating unplanned downtime. The website, API, and Merchant platforms are offline 
+coinbase	720696233140989952	2016-04-14T19:32:26	How LawnmowerIO makes Bitcoin investing easy using the CoinbaseAPI - 
+coinbase	720662838658764800	2016-04-14T17:19:44	Our exchange and USD stored value service are now live in Michigan and Kentucky! 🇺🇸🇺🇸 
+coinbase	718164496657743872	2016-04-07T19:52:13	The support portal is back up at . Thanks Desk for your help.
+coinbase	718153348361232384	2016-04-07T19:07:55	Our support portal is currently unavailable. Please contact support at (support@coinbase.com). We're investigating 
+coinbase	713869855372390402	2016-03-26T23:26:51	Our USD stored value service and exchange are now live in Alaska, Maryland, and Rhode Island! 🇺🇸🇺🇸🇺🇸 
+coinbase	713078672387735552	2016-03-24T19:02:58	The website &amp; API are back online. Due to the nature of the outage, our team continues to monitor it closely 
+coinbase	713075967942459392	2016-03-24T18:52:13	The website &amp; API remain offline. Our team has identified the cause as a DDoS &amp; is working towards a solution 
+coinbase	713074239616589824	2016-03-24T18:45:21	The  website and API are both offline. Our team is investigating 
+coinbase	710469273995464705	2016-03-17T14:14:09	Introducing Stop Orders on cb_exchange! 
+coinbase	709482786499928065	2016-03-14T20:54:12	USAA Expands Coinbase Integration to All USAA Members!  
+coinbase	707777468577394689	2016-03-10T03:57:53	Florida and Virginia state are now fully supported on Coinbase! (both USD wallets and cb_exchange) 🇺🇸  Expansion
+coinbase	704715974058995712	2016-03-01T17:12:35	Debit card buys are now live (in beta) on Coinbase!  
+coinbase	702938743007682560	2016-02-25T19:30:30	.gwintrob thanks for the great write up on our API! 
+coinbase	702264931819782144	2016-02-23T22:53:01	The Exchange will have a brief outage Thursday at 1AM PST. It is expected to last about 120 second. For more info: 
+coinbase	697833296042946560	2016-02-11T17:23:17	Premise payouts get easier with Bitcoin — we're excited to announce we've integrated coinbase into our app! 
+coinbase	693463921148170240	2016-01-30T16:00:57	This just in: Coinbase Exchange and USD wallets are now available in Ohio, Tennessee &amp; Louisiana!  41 states in all: 
+coinbase	692783480711720960	2016-01-28T18:57:07	Shift Card: A Glimpse Under the Hood   RT if you've used the card, 💙 if you will when eligible
+coinbase	692131071933181953	2016-01-26T23:44:41	We launched Coinbase Exchange 1 year ago today.   There's been over $1B of BTC traded on the exchange since and we're just getting started 🚀
+coinbase	689507977263321089	2016-01-19T18:01:26	We've added price alerts on iOS &amp; Android.  It's now easier than ever to buy &amp; sell BTC at the right time on mobile! 
+coinbase	688086375871025152	2016-01-15T19:52:30	Still fighting a large DDoS attack - haters trying to hold Coinbase down, they don't want you to trade bitcoin. 
+coinbase	685584088732848128	2016-01-08T22:09:18	mpetties the card is now available for you Melvin
+coinbase	685560253866352640	2016-01-08T20:34:36	Great to see ShiftPayments coinbase available in Colorado. Expect bitcoin velocity to increase by 1x in a week. Well done charley !
+coinbase	685556369316048896	2016-01-08T20:19:10	"Taylor Shift" nice one! Shift Card, The first U.S. bitcoin debit card –  works w coinbase 
+coinbase	685130382065418240	2016-01-07T16:06:26	This man has been living on bitcoin for 3 years - via Forbes 
+coinbase	682594964665151488	2015-12-31T16:11:36	We’re proud of the progress the Bitcoin ecosystem made in 2015, but there’s lots of work ahead.   A Year in Review: 
+coinbase	681591009315287040	2015-12-28T21:42:14	Only one global currency trounced the dollar this year - via CNBC 
+coinbase	679096526438834176	2015-12-22T00:30:03	A Bug Bounty Transparency Update: 
+coinbase	677958421207879681	2015-12-18T21:07:38	Bitcoin apps are 🔑 in 2016 and beyond. We recently had our second internal hackathon to explore some new ideas: 
+coinbase	677307658018422785	2015-12-17T02:01:44	I´m getting it for the twins 👬via coinbase cc RandyHilarski AnabellHilarski bitcoin technology Panama 
+coinbase	675434635732455424	2015-12-11T21:59:00	Coinbase is hiring remote engineers. If you're a great engineer anywhere on planet earth see  
+coinbase	675500867986952193	2015-12-12T02:22:11	We made Inc's list of the Most Innovative Startups of 2015 along with 👌 companies like spacex and TeslaMotors 
+coinbase	675079022888534017	2015-12-10T22:25:56	We just updated our Android app and added bitcoin price charts 📈 
+coinbase	674352354666274818	2015-12-08T22:18:24	My first IRL purchase with Bitcoin was for tacos via ShiftPayments. Best tacos I've had in a while might I add.   CC coinbase
+coinbase	673275745867730944	2015-12-05T23:00:21	Some potential holiday gifts for the bitcoiners in your life:  
+coinbase	672129418953789440	2015-12-02T19:05:15	Pretty cool, apparently USAA is piloting coinbase support. Adding my bitcoin wallet now. 
+coinbase	671377653593726976	2015-11-30T17:18:00	it has arrived! the sleekest, sexiest card in my wallet...and only bitcoin debit card! ShiftPayments coinbase 
+coinbase	671122639084195840	2015-11-30T00:24:40	Coinbase on mobile is the easiest way to get started with bitcoin.   Search "bitcoin" in the App Store (we're #1 😊) 
+coinbase	670108808518238209	2015-11-27T05:16:04	It's bitcoinblackfriday! For one day only, get 5% back in Gyft Points for every purchase made with Bitcoin! 
+coinbase	669537950804217857	2015-11-25T15:27:41	Just bought donuts for the office - paid for with bitcoin using the coinbase ShiftPayments Visa card! 
+coinbase	669341962579873792	2015-11-25T02:28:54	SambodhiPrem Wikipedia 
+coinbase	668829761637105664	2015-11-23T16:33:36	Coinbase introduces Bitcoin debit card 
+coinbase	668192770197164032	2015-11-21T22:22:25	ceetwo35 we're working on it 😇
+coinbase	668190328323710976	2015-11-21T22:12:43	There's some great color options for the Shift bitcoin debit card. We're biased though coinbaseblue 💙 
+coinbase	667887923908464640	2015-11-21T02:11:04	Shift Card: Use bitcoin anywhere VISA is accepted  via ntmoney 
+coinbase	667706071469957120	2015-11-20T14:08:27	You can now spend bitcoin at over 38M merchants worldwide.  Order your Shift Card today 🚀:  
+coinbase	667704234465468416	2015-11-20T14:01:09	Use bitcoin anywhere VISA is accepted with the Shift Card, the first bitcoin debit card available for people in 🇺🇸   
+coinbase	667001457330270209	2015-11-18T15:28:34	Mutual Fund Giant Fidelity Accepts Bitcoin Through Charity Arm  
+coinbase	666981678104125440	2015-11-18T14:09:58	Fidelity Charitable adds bitcoin:  
+coinbase	666252266761007104	2015-11-16T13:51:33	coinbase Just bought my first bitcoin! Website and app a cinch to use. Great design. fintech payment 
+coinbase	665003441349984256	2015-11-13T03:09:10	Love the first view after installing the coinbase app. Exactly what I wanted w/o having to login first. Fun chart to play with. Beautiful.
+coinbase	664836239921537025	2015-11-12T16:04:46	"Everyone says Bitcoin is back. But it really never left" via WIRED 

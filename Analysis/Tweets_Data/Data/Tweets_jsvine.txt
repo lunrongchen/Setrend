@@ -1,0 +1,300 @@
+jsvine	726147881762209792	2016-04-29T20:35:20	Pretty pumped about this new ProPublica newsletter: your 3-minute read on the best reporting you probably missed 
+jsvine	726151480663625728	2016-04-29T20:49:38	AzmatZahra Awww, thanks, Azmat! Pretty neat, and very humbling to see all the other winners.
+jsvine	725326237787414531	2016-04-27T14:10:25	Douglas_Main #1 social network for dads.
+jsvine	724999767487578112	2016-04-26T16:33:09	"extra funds would be allocated for analysis of betting patterns to detect any suspicious activity." 
+jsvine	724624008189239296	2016-04-25T15:40:01	Current status: 71% of cherry trees in peak bloom, 0% in first bloom, 29% in post-peak bloom, 0% in pre-bloom. 
+jsvine	724610841702703104	2016-04-25T14:47:41	jkteoh Thanks for attending!
+jsvine	723863359213461504	2016-04-23T13:17:28	podehaye We'll be posting updates and projects on this GitHub wiki: 
+jsvine	723629062384680960	2016-04-22T21:46:27	Facing criticism over its lack of transparency, tennis has issued a first-of-its kind report: 
+jsvine	723486118554025984	2016-04-22T12:18:27	Latest nuisance investigation: NYPD threatens immigrant shops w/ yearlong closures over minor offenses 
+jsvine	723266450622939138	2016-04-21T21:45:34	"BuzzFeed kicking ass" — KendallTTaggart+alexcampbell get much-deserved kudos from TX criminal justice writer: 
+jsvine	723118936124841984	2016-04-21T11:59:23	warkolm Yep, that's the intended link. That repository contains the data, linked to from README.md. Was that confusing/unexpected?
+jsvine	722903841239228417	2016-04-20T21:44:41	Following BuzzFeedNews investigation, El Paso gets sued over jailing people for unpaid traffic tickets 
+jsvine	722922053234393088	2016-04-20T22:57:03	Neato — KendallTTaggart and alexcampbell's reporting atop the El Paso Times homepage:  
+jsvine	722827888928665601	2016-04-20T16:42:52	Trying out a new ProPublica series on data, design &amp; visualization 📊 in the real world 🏡. Check it out! ☞
+jsvine	722523221560598528	2016-04-19T20:32:14	YAN0 jtemplon Not a mistake; just an intentional shorthand. I think the chart title makes it clear. But *10-4* on the literal difference.
+jsvine	722507642661314560	2016-04-19T19:30:20	Where are the most “Bernie” places in the country?  Or see here: 
+jsvine	722464745224302593	2016-04-19T16:39:52	knowtheory Related!: 
+jsvine	722463608626655232	2016-04-19T16:35:21	Huge thanks to shaneshifflett, coulterjones, and FOIAMachine for publishing these anonymized FOIA datasets:  🎉🎉🎉
+jsvine	722452022788780033	2016-04-19T15:49:19	More news from Texas: Judge Blasts State For Profiting From Poorest Defendants  
+jsvine	722063195968577536	2016-04-18T14:04:15	3,333 cheers to MuckRock, which has published *112 gigabytes* of FOIA request data in advance of our hackathon:  🎉🎉🎉
+jsvine	720980218177957888	2016-04-15T14:20:53	Current status: 19% of cherry trees in peak bloom, 2% in first bloom, 9% in post-peak bloom, 70% in pre-bloom. 
+jsvine	720980215334174720	2016-04-15T14:20:53	Two Prunus x sieboldii cherry trees just entered peak bloom at the Brooklyn Botanic Garden: 
+jsvine	720996103425011712	2016-04-15T15:24:01	grantmeaccess Rad. I hadn't seen that article or heard of that app before. 👍👍
+jsvine	720994827790393344	2016-04-15T15:18:57	grantmeaccess Whoa, these look great. Thanks! Have you used them before?
+jsvine	720389397846188032	2016-04-13T23:13:11	Oklahoma officials were told they had used the wrong drug in an execution months earlier than previously known. 
+jsvine	719942757427638272	2016-04-12T17:38:23	Almost 90% of NCA warrants flawed, internal review finds. 15% so significant evidence may have to be relinquished 
+jsvine	719901136963043329	2016-04-12T14:53:00	NYPD kicks wrong family out of home in NuisanceAbatement case, seeking drug dealers who left 7 months earlier 
+jsvine	719874383561535492	2016-04-12T13:06:42	A deep dive from AlbertSamaha into the reflexive culture of cover-up in Chicago 
+jsvine	719581843067117569	2016-04-11T17:44:15	samfbiddle Thanks! Holler if you run into any trouble using it.
+jsvine	719581585897570304	2016-04-11T17:43:13	Want to download the entire Wayback Machine archive for a given URL? You might like *waybackpack*: 
+jsvine	719504907393495040	2016-04-11T12:38:32	I’m trying something new and starting a data notebook on Medium 
+jsvine	718499228121767937	2016-04-08T18:02:19	hrbrmstr bhaskar_vk Thanks, I'll take a look!
+jsvine	718451101138358273	2016-04-08T14:51:05	TX judge: Why I refuse to send people to jail for failure to pay fines  h/t shani_o 
+jsvine	718443498303832066	2016-04-08T14:20:52	hrbrmstr seankross Neat! And thanks for the shout-out :^)
+jsvine	718440509715431425	2016-04-08T14:09:00	hrbrmstr seankross Thanks! You can find more of our open-source data, analyses, methodologies, et cetera here: 
+jsvine	718180706585812992	2016-04-07T20:56:38	Looking for something to read tonight? Recommendation: uugwuu's beautiful essay re. family, home, and family homes. 
+jsvine	718120314215989251	2016-04-07T16:56:39	... assuming you pick a random subway line and stick to it.
+jsvine	718120078726848512	2016-04-07T16:55:43	If you enter a random NYC subway station, here's how long you'll wait until the next train:  
+jsvine	718088223952658433	2016-04-07T14:49:08	Blistering report on NY's systemic failures to properly screen nurses:  ... feat. a nurse who faked his own death!
+jsvine	717826240556572672	2016-04-06T21:28:06	Here's how BuzzFeedNews analyzed 4+ months of flights by FBI and DHS surveillance planes  rstats ddj
+jsvine	717815129161785344	2016-04-06T20:43:57	riordan Oooh, thanks!
+jsvine	717789405319143424	2016-04-06T19:01:44	Huge story, analysis, and maps of FBI &amp; DHS aerial surveillance, by paldhous and cgseife:  
+jsvine	717736216372727808	2016-04-06T15:30:23	ireneros Double-thank-you! So glad to hear that you're enjoying it. And please do send datasets that catch your eye. 🎉
+jsvine	717735897261690880	2016-04-06T15:29:07	ReluctantHipstr Great catch. Thank you! Should be fixed now.
+jsvine	717701198699237376	2016-04-06T13:11:14	karlsluis Happy to hear it! I get lots of the treasures from *Viewers Like You* :^). So if you have any suggestions, I'm all ears!
+jsvine	717451982777270272	2016-04-05T20:40:56	shlukem22 We plan to make as much as it available as possible!
+jsvine	717444003097141248	2016-04-05T20:09:14	ICE set up a fake university to catch visa fraud. (They borrowed the crest from Princeton)  
+jsvine	717445604507430913	2016-04-05T20:15:36	Registration for BuzzFeed’s FOIA Data Hackathon on April 23rd is full (!), but we’ve added a waitlist.: 
+jsvine	717444747296686080	2016-04-05T20:12:11	mathisonian jeremybmerrill spetulla Glad to hear it! Now enabled.
+jsvine	717444628266500097	2016-04-05T20:11:43	spetulla Good idea. Enabled!
+jsvine	717439759740768256	2016-04-05T19:52:22	spetulla Indeed! If the event is successful, we're open to the idea of hosting more. It's also possible that folks will drop out beforehand
+jsvine	717338776335298560	2016-04-05T13:11:06	Delaware, the grandfather of corporate secrecy, does not release its bulk company data, even under FOIA.
+jsvine	717066120625266688	2016-04-04T19:07:40	dancow Awesome! Added the gist to the "Demos" section of pdfplumber's readme: 
+jsvine	717050099218690049	2016-04-04T18:04:00	Current status: 14% of cherry trees in peak bloom, 9% in first bloom, 1% in post-peak bloom, 76% in pre-bloom. 
+jsvine	717050094638473217	2016-04-04T18:03:59	Four Prunus subhirtella 'Pendula' cherry trees just entered first bloom at the Brooklyn Botanic Garden: 
+jsvine	717046629744836608	2016-04-04T17:50:13	amandabee KendallTTaggart terrible, terrible person
+jsvine	717035397260423169	2016-04-04T17:05:35	miketahani Not entirely out of the question! :^)
+jsvine	717023647744057344	2016-04-04T16:18:53	podehaye We're hoping to livestream the end-of-day presentations, but haven't finalized the logistics. Glad to hear you're interested!
+jsvine	717023201843363841	2016-04-04T16:17:07	wwymak Yes, yes! Definitely planning to do so. 👍
+jsvine	717006945857748992	2016-04-04T15:12:31	🎉  On Sat., April 23, the BuzzFeed Open Lab and BuzzFeed News will be hosting a FOIA Data Hackathon. Join us! 
+jsvine	716991176054874112	2016-04-04T14:09:52	.kleinmatic has a new newsletter about the "forgotten history of data in journalism" and it looks ⚡ 👍 ⚡ 👍 ⚡: 
+jsvine	716973521776328704	2016-04-04T12:59:42	Oldest news line chart? Bombay Times, 1842. Via kleinmatic's amazing datviz history email:  
+jsvine	715615474227261441	2016-03-31T19:03:19	jeremybmerrill gerald_arthur thejefflarson ryanpitts Que-Que-Quetzal, Folks!!
+jsvine	715611618550349824	2016-03-31T18:47:59	gerald_arthur thejefflarson jeremybmerrill ryanpitts *Pound* for *pound*, this is a *real* enjoyable *exchange*.
+jsvine	715593120344182789	2016-03-31T17:34:29	(2/2) Can someone explain how that's different from a kickback? Maybe I'm missing something here. 
+jsvine	715592484504514560	2016-03-31T17:31:58	(1/2) Private co. contracts with prison to charge inmates huge fees for basic services. Prison gets a cut. 
+jsvine	715286800223375361	2016-03-30T21:17:17	Here's the data behind our finding that 1,000+ NYC school buildings went 10 years without testing water.  opendata
+jsvine	715535042068488192	2016-03-31T13:43:42	Most popular links from yesterday’s Data Is Plural:  &amp;   via 
+jsvine	715191906481909760	2016-03-30T15:00:12	Somali remitters are ferrying suitcases of cash on airplanes after being shut out of banking system 
+jsvine	715244228595425280	2016-03-30T18:28:07	US financial firms filed 1,851,863 suspicious activity reports on their customers in 2015  
+jsvine	715166911240265728	2016-03-30T13:20:53	alexrichards Whoa! And glad to see that they survived!
+jsvine	715159380811862017	2016-03-30T12:50:58	Love jsvine’s TinyLetter. In the Titanic set mentioned, you can find my great-grandmother &amp; family on rows 341-344. 
+jsvine	714805455273504768	2016-03-29T13:24:35	EPA shut down their own scientist's fracking study. He leaves agency, FOIAs for data, and finishes study himself!! 
+jsvine	714813399515996161	2016-03-29T13:56:09	Super interesting to see how scientists organized against Tribeca's anti-vaccine film  
+jsvine	714811653074890758	2016-03-29T13:49:13	wwymak Oooh, yeah, that looks great. Big thanks, Wendy!
+jsvine	714461364899725313	2016-03-28T14:37:18	hrbrmstr lmeyerov sooshie Oh, that looks fantastic. Big thanks!
+jsvine	714438815922827264	2016-03-28T13:07:42	hrbrmstr Speaking of which: Any great cyber-data-sci datsets?
+jsvine	714426602713649153	2016-03-28T12:19:10	hrbrmstr Neat!
+jsvine	714426479627649024	2016-03-28T12:18:40	arnicas Neat! And thanks for the shout-out!
+jsvine	714426390108569600	2016-03-28T12:18:19	hrbrmstr Unclear to me re. restrictions, but more info here: 
+jsvine	713406956153794560	2016-03-25T16:47:27	⚡i just made the_power_grid: see what the US electricity sector looks like in 8521 photos  ⚡ 
+jsvine	713386595399766016	2016-03-25T15:26:33	Everything you wanted to know about translation/transcription/stenography but were afraid to ask — Tuesday in NYC: 
+jsvine	713030576777904128	2016-03-24T15:51:51	Most popular links from yesterday’s Data Is Plural: &amp;  via 
+jsvine	713000438883291137	2016-03-24T13:52:06	A single Prunus 'Okame' cherry tree just entered peak bloom at the Brooklyn Botanic Garden: 
+jsvine	712973832634679296	2016-03-24T12:06:22	Where countries test nuclear explosions, 1945-1998. Thanks jsvine for the data! dataviz 
+jsvine	712686665043689472	2016-03-23T17:05:16	sndethrage Wow, thank you for the too-kind words, Stephen! Thrilled to hear it. And don't hesitate to send dataset suggestions!
+jsvine	712331375500722176	2016-03-22T17:33:29	A_L It lives!: 
+jsvine	712331004560723968	2016-03-22T17:32:00	Current status: 0% of cherry trees in peak bloom, 2% in first bloom, 0% in post-peak bloom, 98% in pre-bloom. 
+jsvine	712331003474354176	2016-03-22T17:32:00	A single Prunus sargentii 'Fudan-zakura' cherry tree just entered first bloom at the Brooklyn Botanic Garden: 
+jsvine	712257604525932544	2016-03-22T12:40:20	ICYM last night's good news: Final judgement in my records lawsuit against the Missouri Department of Corrections. 
+jsvine	711967863834353665	2016-03-21T17:29:01	.datarichpodcast is now officially a thing. Go get you a listen: 
+jsvine	711877315194712065	2016-03-21T11:29:12	One of the more gobsmacking quotes I've read in a while:   
+jsvine	711917110507638784	2016-03-21T14:07:20	wwymak And great question re. images and PDFs. In that case, maybe the "status" is the file's SHA hash? Or "updated-at-[timestamp]"?
+jsvine	711916816218640384	2016-03-21T14:06:10	wwymak Thanks, Wendy! I don't think *everyone* has to agree to it. But each additional agree-er makes the format more useful.
+jsvine	711916585137643520	2016-03-21T14:05:15	SteveBellovin ... Most important bit to me, though, is knowing when a status *changes*, regardless of definition.
+jsvine	711916524320256000	2016-03-21T14:05:00	SteveBellovin ... or agree upon a subset of universe-canonical definitions ...
+jsvine	711916153157898240	2016-03-21T14:03:32	SteveBellovin Yep. A trade-off between flexibility and predictability. Statusfile providers might choose to provide "status" definitions...
+jsvine	711910405862514688	2016-03-21T13:40:42	Possibly-idiotic idea: A simple, technology-agnostic format for representing the status of things. Thoughts? 
+jsvine	710923056055775232	2016-03-18T20:17:19	zzolo Will do!
+jsvine	710912581867847681	2016-03-18T19:35:42	Handy-looking command-line tool for importing CSVs into DBs:  by zzolo
+jsvine	710867578772725760	2016-03-18T16:36:52	Corinthian was once a for-profit college empire. What's left of it? Emails, PowerPoints &amp; damning testimony: 
+jsvine	710847444838457344	2016-03-18T15:16:52	alizauf 🎉🎉🎉
+jsvine	710831332478361601	2016-03-18T14:12:50	On March 29th, Hacks/Hackers NYC is hosting a discussion about 🇪🇸🇨🇳translation 🇫🇷🇰🇷 in the newsroom! RSVP: 
+jsvine	710821283018235905	2016-03-18T13:32:54	Whitewashing the green rush:  
+jsvine	710793085782007808	2016-03-18T11:40:52	1.Criminalize weed. 2.Convict mostly black people. 3.Legalize weed. 4.Exclude convicts from industry. msamandalewis 
+jsvine	710578959335841792	2016-03-17T21:30:00	When you don't know where you are going to make a profit, but just keep on keeping it alive.
+jsvine	710602622785462273	2016-03-17T23:04:02	kevinstownsend !! mot_namdeirf, Bot Laureate
+jsvine	710527952132444160	2016-03-17T18:07:19	MeganEONeill Awww, thanks, Megan. Thrilled to hear you're enjoying them!
+jsvine	710522452707819521	2016-03-17T17:45:28	MeganEONeill weareyourfek Maybe file-sharing data from that era gets at the question? E.g.  
+jsvine	710495507362217985	2016-03-17T15:58:23	BuzzFeedAndrew PolitAdArchive I'm familiar with the site and data, but thanks for the offer! Great resource.
+jsvine	710420980020199424	2016-03-17T11:02:15	.propublica analyzed the link between brand-name prescribing and industry $$ for the first time. Our findings: 
+jsvine	709834140233891841	2016-03-15T20:10:21	Match-Fixers Targeted Half My Players, Says Tennis Manager  via HeidilBlake buzzfeednews
+jsvine	709624018522021888	2016-03-15T06:15:24	Prosecutors say "worldwide" match fixing evidence ignored by Tennis Integrity Unit  
+jsvine	710256438644482048	2016-03-17T00:08:25	Update on our Texas stories about people jailed for unpaid traffic tickets  by alexcampbell 
+jsvine	710446628721786880	2016-03-17T12:44:10	A_L Spring snuck up on me! Hoping to get bbgblossoms running again very soon. 🌸🌸🌸
+jsvine	707599286779957248	2016-03-09T16:09:51	Damn snake people:  
+jsvine	707580414412627969	2016-03-09T14:54:51	NTerpo Many thanks, Nicolas! Really glad to hear it. If you have suggestions for datasets, don't hesitate to send 'em!
+jsvine	707363906398916608	2016-03-09T00:34:32	GurmanBhatia Awww thanks, Gurman! Truly happy to hear that you've been enjoying the newsletter.
+jsvine	707343691837513728	2016-03-08T23:14:12	We're looking for a teammate on the Guardian US interactive team:   Come work with me + Rich_Harris + kenandavis!
+jsvine	707311899420000256	2016-03-08T21:07:52	fbajak AramRoston Thanks, Frank! Enjoy the new gig in Houston! (Just saw your tweet. Sounds exciting, even if it means leaving the Andes.)
+jsvine	707311173599928320	2016-03-08T21:04:59	jennabelson AramRoston Thanks, Jenn! And congrats on Clash In the Name of Care. Truly disturbing.
+jsvine	707309847386128389	2016-03-08T20:59:43	charlesornstein Awwww! Thanks for the kind words :^)
+jsvine	706867070592557057	2016-03-07T15:40:17	Version 0.3.x of PDFPlumber is smarter and faster. It also includes Tabula-like functionality for extracting tables: 
+jsvine	706490863782858753	2016-03-06T14:45:22	Disturbing # of searches for self-induced abortion in places where it's hard to get an abortion: 
+jsvine	705525522177118208	2016-03-03T22:49:27	riordan jsvine I'm about to wile out on this csv of public refrigerated warehouses.
+jsvine	705413384917917697	2016-03-03T15:23:51	Lovely essay that orbits around James Baldwin’s soon-to-be-demolished house in southern France: 
+jsvine	705408284254203908	2016-03-03T15:03:35	Most popular links from yesterday’s Data Is Plural:   •    •    via 
+jsvine	705091861308948480	2016-03-02T18:06:14	Latest NICS firearm background check data — through Feb. 2016 — parsed and available as CSV: 
+jsvine	705091350010707969	2016-03-02T18:04:12	Latest NICS firearm background check — through Feb. 2016 — parsed and available as CSV: 
+jsvine	705030224019329024	2016-03-02T14:01:18	Your guide to the biggest abortion case in two decades:  from mtredden + me 
+jsvine	704691579475333120	2016-03-01T15:35:39	TSA releases data on air marshal … … … … … … … seven(!) years after MichaelGrabell requested it: 
+jsvine	704337352982921217	2016-02-29T16:08:05	thistimeitsmimi PopovichN Definitely relevant. Thanks for sharing!
+jsvine	703320735834628096	2016-02-26T20:48:25	“who counts and whom is counted is not simply a matter of numbers”    h/t PopovichN 
+jsvine	703318287799681025	2016-02-26T20:38:41	“bloggable”  
+jsvine	702905904652488704	2016-02-25T17:20:01	Most-clicked datasets from yday’s DIP: •  •  @ 
+jsvine	702551507846217729	2016-02-24T17:51:46	Arizona argues death row inmates don't have a right to "go viral"  
+jsvine	702510893511417856	2016-02-24T15:10:23	My fav from this week's Data is Plural newsletter:  via jsvine ddj 
+jsvine	702506415064219648	2016-02-24T14:52:35	Admits TIU did not take action after being handed evidence of match-fixing. No new investigations. CommonsCMS chair: "That's extraordinary"
+jsvine	702501465194110976	2016-02-24T14:32:55	Tennis bosses about to be questioned by MPs over match-fixing ff HeidilBlake elashton for live updates and analysis
+jsvine	702500646218502144	2016-02-24T14:29:40	Also, wow: TIU let player fly home after suspicious match at Aussie Open without interviewing him or seizing phone. 
+jsvine	702200848651329536	2016-02-23T18:38:23	Nope. 
+jsvine	702163148254670848	2016-02-23T16:08:34	Parent at Nation’s Leading For-Profit Foster Care Firm Facing Murder Charges  
+jsvine	701773881724551172	2016-02-22T14:21:46	For folks trying to extract data from gnarly PDFs: I spent part of the weekend improving pdfplumber’s documentation! 
+jsvine	700749797846679552	2016-02-19T18:32:25	I also recommend reading ESSA_Betting's Q4 report: 
+jsvine	700749690904539136	2016-02-19T18:32:00	A look at the geography of watchdog-flagged tennis matches: 
+jsvine	700729725677744130	2016-02-19T17:12:40	This ruling is crucial — and heartening. "The Open Records Act is neither an ideal nor a suggestion. It is the law." 
+jsvine	700726791581749248	2016-02-19T17:01:00	Smell Dating: "The first mail odor dating service." 
+jsvine	700512946967941120	2016-02-19T02:51:16	Maryland schools are ducking basic questions about a study claiming chocolate milk helped concussion recovery 
+jsvine	700441937107689472	2016-02-18T22:09:06	jsvine also post-candidacy: Howard Dean’s political org is an active releaser: 
+jsvine	700441934511411200	2016-02-18T22:09:05	derekwillis But you don't deny that you're running a stealth presidential campaign...
+jsvine	700441298952654849	2016-02-18T22:06:33	jsvine Clinton has an account but nothing original is public: 
+jsvine	700441282410385409	2016-02-18T22:06:29	derekwillis Thanks! Derek Willis 2016: All The Answers.
+jsvine	700440792398221312	2016-02-18T22:04:33	jsvine during the campaign? possibly. OFA released stuff after the campaign: 
+jsvine	700440058919317504	2016-02-18T22:01:38	Is Sanders’s presidential campaign the first to publish open-source code?  via 
+jsvine	700323048134672384	2016-02-18T14:16:40	Most popular links from latest DIP:  +  +  via 
+jsvine	700260508247728128	2016-02-18T10:08:10	100 suspicious matches reported last year across *all sport* by gambling watchdog. Tennis accounted for 73 of them. 
+jsvine	699965197407162368	2016-02-17T14:34:42	Say what.  
+jsvine	699570881971011585	2016-02-16T12:27:50	New Alex Gibney doc reveals US cyber op against Iran infrastructure codenamed NITRO ZEUS  
+jsvine	698232819919806464	2016-02-12T19:50:51	So I got briefly obsessed with this Scientific American Reference Book last night; it was published in 1913 
+jsvine	698201363801632770	2016-02-12T17:45:51	Brazil just published its latest weekly report on microcephaly, covering through Feb. 6:  + 
+jsvine	697864542932623364	2016-02-11T19:27:27	Scoop: The Pentagon's shopping list to fight ISIS. And troubled arms dealer gets rewarded.  AramRoston BuzzFeedNews
+jsvine	697902096524267520	2016-02-11T21:56:40	Staggering, bonkers story on Zenefits from williamalden 
+jsvine	697870542301437952	2016-02-11T19:51:17	Just pushed the CDC's latest case counts (through yesterday) to our open Zika data guide:  + 
+jsvine	697866173581361152	2016-02-11T19:33:56	Thanks to jsvine and nypl for the awesome data that led to this piece...  
+jsvine	697579712688844800	2016-02-11T00:35:38	You really can't make this stuff up. 
+jsvine	697791974427009029	2016-02-11T14:39:05	Most-clicked links from yest.’s DIP:  +  +  via 
+jsvine	697622863302520833	2016-02-11T03:27:06	Now in our open guide to Zika data: the CDC's U.S. state/territory case counts.  &amp; 
+jsvine	697428101379260416	2016-02-10T14:33:11	jsvine to complement the US energy dataset in today's DataIsPlural there's  for the uk
+jsvine	697131025063931905	2016-02-09T18:52:43	Great news! SunFoundation's Politwoops is back: 
+jsvine	697148440137048064	2016-02-09T20:01:55	I'm teaching a command line class at NICAR16 w/ agustin_NYT. What cool tricks should we add to last year's class? 
+jsvine	697063815725375488	2016-02-09T14:25:39	The “stupid shit no one needs &amp; terrible ideas hackathon” gloriously lives up to its moniker:  via sam_lavigne
+jsvine	696754477387378688	2016-02-08T17:56:27	Drug addiction is a central issue on the campaign trail in NH. I explain why in our liveblog  
+jsvine	696763865858732033	2016-02-08T18:33:45	Updated our open Zika data guide to include Colombia's latest municipal data: 
+jsvine	695647167390879745	2016-02-05T16:36:23	Our open guide to Zika data now includes Colombia’s municipality-level case counts: 
+jsvine	695646812422729728	2016-02-05T16:34:59	ECDC has upgraded Zika in American Samoa from “Sporadic transmission” to “Increasing or widespread transmission”: 
+jsvine	695345462216249345	2016-02-04T20:37:31	The absolute WORST things about going to Stock Photo University:  by nathanwpyle
+jsvine	695282974577856514	2016-02-04T16:29:13	We chatted with jsvine about his new BuzzFeed Zika data guide, which you should contribute to: 
+jsvine	695265588176908288	2016-02-04T15:20:08	Clickiest links from yday’s DIP:  •  •  •   via 
+jsvine	695015645952491520	2016-02-03T22:46:57	A pharmacy got so much cash for selling execution drugs that it was supposed to alert a financial crimes unit 
+jsvine	694960775417499648	2016-02-03T19:08:55	collinskeith Thanks for the kind words, and glad you're enjoying the newsletter!
+jsvine	694955101270704128	2016-02-03T18:46:22	Readers of today's Data Is Plural might be interested in this USA Today story from July: 
+jsvine	694922123014488064	2016-02-03T16:35:19	Added HealthMap and Wikipedia links to our Zika data guide:  h/t mosbrn
+jsvine	694879878668275712	2016-02-03T13:47:27	Added latest Brazil microcephaly report — which covers through Jan. 30 — to our open guide to Zika-related data: 
+jsvine	694863417744740352	2016-02-03T12:42:03	gabrieldance Thanks!
+jsvine	694653867762532352	2016-02-02T22:49:22	Updated our NICS gun background checks repository with Jan. 2016 data. Now featuring autogenerated charts: 
+jsvine	694631108768591874	2016-02-02T21:18:56	jenvalentino Awww, thanks! :-D
+jsvine	694626281950941186	2016-02-02T20:59:45	Huge congrats to my brother, boyinthecastle, whose movie, LICKS, is now available on iTunes and more: 
+jsvine	694616054501367810	2016-02-02T20:19:07	BuzzFeed's ace science desk is posting Zika news updates here:  via virginiahughes
+jsvine	694610840931176448	2016-02-02T19:58:24	Our open Zika data guide now includes Colombia's latest sample-testing numbers, through Jan. 29: 
+jsvine	694560604527394816	2016-02-02T16:38:47	Great/concise primer on Zika, microcephaly, and what's (un)known about the possible connection:  by annabarryjester
+jsvine	694276681813594112	2016-02-01T21:50:34	Zika data guide now updated with CDC's four new active-transmission countries:  cf. 
+jsvine	694276197249892352	2016-02-01T21:48:39	CDC has added Costa Rica, Nicaragua, American Samoa, and Curacao to list of countries with active Zika transmission: 
+jsvine	694275148510334976	2016-02-01T21:44:29	Not much Zika data available yet, but here's a guide to key sources so far: 
+jsvine	694195014998564864	2016-02-01T16:26:03	collinskeith No problem. Thought it might be useful, even if there's not all that much data available yet.
+jsvine	694194076888010752	2016-02-01T16:22:20	Trying something new. Any feedback? 
+jsvine	694193873661382656	2016-02-01T16:21:31	Starting an open guide to Zika-related data:  ← Edits and suggestions are welcome + appreciated!
+jsvine	693818731038797825	2016-01-31T15:30:50	My latest, with jtemplon : America's Quiet Crackdown Against Indian Immigrants 
+jsvine	693167122369925121	2016-01-29T20:21:35	Nature’s “Scientific Data” journal is calling for submission of Zika virus–related datasets: 
+jsvine	693153506681868288	2016-01-29T19:27:28	Fascinating profile of Iowa pollster Ann Selzer — and what makes her approach different/better: 
+jsvine	693058498997915648	2016-01-29T13:09:57	Major: To recruit informants, FBI violates its own rules.  BuzzFeedNews TalalNAnsari dats 
+jsvine	692864653051842561	2016-01-29T00:19:40	⚡️ BuzzFeed News is hiring a senior editor for features: 
+jsvine	692838091791282177	2016-01-28T22:34:08	Welcome to America… now spy on your friends:  
+jsvine	692795942496530433	2016-01-28T19:46:38	A Missouri official handed out envelopes of cash totaling $250,000 to executioners—possibly in violation of tax law. 
+jsvine	692795787915444227	2016-01-28T19:46:02	Battered woman sentenced to 45 years for not stopping her boyfriend from abusing her son, wins parole.  BuzzFeedNews
+jsvine	692766006058565632	2016-01-28T17:47:41	It's been 27 hours, and *still* nobody has solved The Great Corbin Bleu Mystery: 
+jsvine	692765291621801984	2016-01-28T17:44:51	Most-clicked links from latest DIP:  +  +  via 
+jsvine	692704050291281920	2016-01-28T13:41:30	Curious about courts in TX where traffic and other fine-only offenses result in jail at a high rate?  nicar16 ddj
+jsvine	692445330823106562	2016-01-27T20:33:26	seecmb Wooo! Excited to see it back in action.
+jsvine	692442939163738113	2016-01-27T20:23:56	Small thing, but &lt;3 that KendallTTaggart + alexcampbell's latest links to GitHub methodology. Showing work = huge. 
+jsvine	692370240638971904	2016-01-27T15:35:03	"You cannot talk to anyone about this." Our tennis reporter is invited into the shadowy world of match fixing. 
+jsvine	692351692608782336	2016-01-27T14:21:21	
+jsvine	692353860921327616	2016-01-27T14:29:58	• Jesus Christ • Barack Obama • Corbin Bleu  
+jsvine	692353436365541377	2016-01-27T14:28:17	Help us solve this genuine Internet mystery: 
+jsvine	692187416078258176	2016-01-27T03:28:34	Boom! In wake of BuzzFeedNews investigation, El Paso moves to stop jailing people too poor to pay finees: 
+jsvine	692170797679579136	2016-01-27T02:22:32	How One Texas City Built A Traffic Ticket Juggernaut  New story with alexcampbell! 
+jsvine	691624372893814784	2016-01-25T14:11:14	I live under a LaGuardia flight path, so I built a display to tell me where the flight overhead is coming from. 
+jsvine	691643168878649344	2016-01-25T15:25:56	Come hear olgapierce marshall_allen explain how they used social media to investigate patient harm — this Weds.: 
+jsvine	691632862412546048	2016-01-25T14:44:58	“Giant Twine Ball Country is a distinct slice of American geography, a narrow 400-mile wide strip […]”:  by timhwang
+jsvine	690615666529943553	2016-01-22T19:23:00	Most popular links from this week’s Data Is Plural:  •   •   Context: 
+jsvine	690588336352825344	2016-01-22T17:34:24	“If you are from the U.S. Department of Homeland Security, please dial 8.” 
+jsvine	690588067837669376	2016-01-22T17:33:20	A little-known college in San Jose now enrolls more international students than almost any other U.S. college. 
+jsvine	690550431299342337	2016-01-22T15:03:47	Could be a good way to teach regular expressions: 
+jsvine	690549949138890752	2016-01-22T15:01:52	Ooooh, this tool lets you search the American Heritage Dictionary using regular expressions:  
+jsvine	690434386538291200	2016-01-22T07:22:40	UN insiders told BuzzFeedNews that Damascus office edited document and is too close to regime. Edits included 
+jsvine	690432433511108608	2016-01-22T07:14:54	Excl: UN accused of allowing Assad regime to censor its Syrian aid plan - we have the leaked document: 
+jsvine	690519662954713088	2016-01-22T13:01:31	Our analysis uses Bedfellows, the FEC data analysis tool, to calculate cosine similarity scores in comparing donors: 
+jsvine	689906501000040448	2016-01-20T20:25:02	Great jenvalentino story highlights difficulty of patching distributed software, e.g., your internet router's code: 
+jsvine	689875290361892866	2016-01-20T18:21:01	These are the four things I did to improve my privacy and security in 2016 
+jsvine	689836518941175809	2016-01-20T15:46:57	Watch 136 Years Of Climate Change In 21 Seconds   
+jsvine	689593261095284736	2016-01-19T23:40:20	Yet more tennis players coming forward with match-fixing stories, after Buzzfeed/BBC investigation. tennisracket 
+jsvine	689573541818277888	2016-01-19T22:21:58	.sfrostenson data-dives *deep* into the FAA’s wildlife-strike database:  via lindzcook
+jsvine	689565802278813696	2016-01-19T21:51:13	Tennis bosses facing a parliamentary grilling over why match fixing evidence was never investigated  TennisRacket 
+jsvine	689547076288536577	2016-01-19T20:36:48	"It (bribery) is worse now than 5 yrs ago" Current pro tennis player coach in Melbourne "One of my players was offered Euro 200,000 to lose"
+jsvine	689546245321408512	2016-01-19T20:33:30	A senior detective says evidence against tennis fixers was "irrefutable"   TennisRacket 
+jsvine	689544748047155201	2016-01-19T20:27:33	 TennisRacket 
+jsvine	689543898574802944	2016-01-19T20:24:11	 TennisRacket 
+jsvine	689542544330485765	2016-01-19T20:18:48	NEW: Fresh claims from the key investigator on match fixing allegations  
+jsvine	689496330083774464	2016-01-19T17:15:09	“I was offered an envelope full of euros to lose in two sets, only an hour before I was due on court.”: 
+jsvine	689450541747802112	2016-01-19T14:13:13	Well well.  
+jsvine	689272677664706560	2016-01-19T02:26:27	Tennis match-fixing Q&amp;A with Scott Ferguson  via SInow
+jsvine	689142134968987649	2016-01-18T17:47:43	.arnaudclement : "Un jour, on m'a proposé 50 000 dollars pour perdre un match" tennis E1Soir 
+jsvine	688909768983875584	2016-01-18T02:24:22	NB: don't hand your phone over for forensic analysis without being sure the SMSes are gone forever 
+jsvine	688900363882086400	2016-01-18T01:47:00	TennisRacket press conference ends with SO MANY questions left unanswered but "its a busy day" :/
+jsvine	688899842530082816	2016-01-18T01:44:56	Are there players on tour currently being monitored? TIU: Unprofessional to say TennisRacket
+jsvine	688896037457559552	2016-01-18T01:29:49	Standing room only at the TennisRacket presser. More than double here than for Djokovic's press call yesterday.
+jsvine	688866415202336769	2016-01-17T23:32:06	A lot of people tweeting stories / comments like this. tennisracket 
+jsvine	688860109196382208	2016-01-17T23:07:03	Murray in 2007: "... everyone knows that [match fixing] goes on."  
+jsvine	688858174682628096	2016-01-17T22:59:21	
+jsvine	688854454418980864	2016-01-17T22:44:34	Proud to work with simoncoxreports of BBCNews on our huge joint TennisRacket match fixing investigation 
+jsvine	688852599941017600	2016-01-17T22:37:12	Players are being targeted in hotel rooms at major tournaments and offered $50,000 or more per fix TennisRacket 
+jsvine	688849614011822081	2016-01-17T22:25:20	“If you were to invent a sport that was tailor-made for match-fixing, [you would invent] tennis”:  TennisRacket
+jsvine	688848049783701504	2016-01-17T22:19:07	This was the last tweet with TennisRacket before the meaning changed. 
+jsvine	688846172618919937	2016-01-17T22:11:40	Key findings from the @BuzzFeedNews/BBC TennisRacket investigation 
+jsvine	688845780459909120	2016-01-17T22:10:06	And how about this next graf:  
+jsvine	688845032992952320	2016-01-17T22:07:08	Come for the data-methodology, stay for the GIFs:  by jtemplon TennisRacket
+jsvine	688844768445607938	2016-01-17T22:06:05	Superb investigation of match-fixing in tennis, by HeidiLBlake and JTemplon:  TennisRacket
+jsvine	688844609313730560	2016-01-17T22:05:27	Data analysis, secret reports, exclusive interviews. Oh, and gambling. This investigation has it all:  TennisRacket
+jsvine	688843383708774400	2016-01-17T22:00:35	Leaked files expose match-fixing evidence that tennis authorities have kept secret for years. TennisRacket 
+jsvine	688029424260898816	2016-01-15T16:06:12	Big announcement! ProPublica is running an intensive 2-week workshop in interactive data journalism this summer. 
+jsvine	688011258679943168	2016-01-15T14:54:01	In 'The Injustice System' — part two:   
+jsvine	687996141309419521	2016-01-15T13:53:57	My first A-hed! Fantasy football meets fantasy reality TV. 
+jsvine	687809915201679362	2016-01-15T01:33:57	Twitter bot uses Markov chains to meld Sanders and Trump: 
+jsvine	687766161140920321	2016-01-14T22:40:05	The vast majority of BART "cameras" are just decoys. Wow.  via stephaniemlee 
+jsvine	687696317607350272	2016-01-14T18:02:33	TSA asks after FOUR YEARS if you still want your FOIA answered; gives 10 day deadline 
+jsvine	687636733958172672	2016-01-14T14:05:47	Deep data dive into the writers/directors/producers whose films fail the Bechdel Test:  
+jsvine	687433699026202625	2016-01-14T00:39:00	A U.S. base in Cuba during the cold war with a surge of diplomacy, not just troops.
+jsvine	687356315493101568	2016-01-13T19:31:30	annehelen HayesBrown susarm s_m_i First, sacrifice a three-legged lamb. Then, enter your email address here: 
+jsvine	687354461065461761	2016-01-13T19:24:08	HayesBrown susarm s_m_i Dunno. Lodging is $588 of the total. Maybe there're only a few approved hotels, and they're all $$$?
+jsvine	687351333633024000	2016-01-13T19:11:42	HayesBrown s_m_i jsvine at those prices, maybe they should just pack a lot of granola bars
+jsvine	687294547064451072	2016-01-13T15:26:03	wwymak Agreed! Very much open to recommendations.
+jsvine	687294244810272768	2016-01-13T15:24:51	.todd_schneider dives deeeeeeeep on NYC Citi Bike data: 
+jsvine	687284356394692608	2016-01-13T14:45:34	As always, you can find Data Is Plural's *structured* archive here: 
+jsvine	687278008214892544	2016-01-13T14:20:20	If the religion data in today's Data Is Plural piqued your interest, you'll probably like JedKolko's maps/analysis: 
+jsvine	687095424189075456	2016-01-13T02:14:49	PopovichN "I know some of you are antsy to get back to Iowa." could very easily be "I know some of you are angtsy to get back to Iowa."
+jsvine	687093140633874432	2016-01-13T02:05:44	Also:  • "Osama" • "dirty" • "recipe" • "marathon" • "antsy" • "grandkid(s)"
+jsvine	687091885538709504	2016-01-13T02:00:45	If delivered as prepared, this will be first SOTU to say:  • "Benghazi" • "unpatriotic" • "quagmire" • "cop"  
+jsvine	687011538377535488	2016-01-12T20:41:29	"For this industry, this is an abnormal level of lobbying," he said.  
+jsvine	686901656752140288	2016-01-12T13:24:51	187,000 public-domain images from the New York Public Library, sorted:  via beefoo 
+jsvine	685540341324333056	2016-01-08T19:15:28	Neat interface for exploring NEISS data on consumer product–related injuries:  via statwing
+jsvine	685456524739751936	2016-01-08T13:42:25	How to make sense of conflicting, confusing and misleading crime statistics 
+jsvine	684825934717947904	2016-01-06T19:56:40	Hey world, you can read Propublica without leaving a data trail, by visiting  using Tor browser. Thanks mtigas!
+jsvine	684807864561590277	2016-01-06T18:44:52	The NSA used to have a clown club and, yes, it was as weird as it sounds:  via susarm
+jsvine	684807476450082817	2016-01-06T18:43:20	susarm Amazing. Surely some postdoc somewhere can get a grant to assemble this dataset.
+jsvine	684805764444254208	2016-01-06T18:36:31	🐬+🔢= a “social network of frequent associations between 62 dolphins in a community living off Doubtful Sound, NZ”: 
+jsvine	684805122564734976	2016-01-06T18:33:58	A+ small data: a “social network of friendships between 34 members of a karate club at a US university in the 1970s” 
+jsvine	684776204306616322	2016-01-06T16:39:04	Tracking MJ's glove in every frame of the Billie Jean video  via  
+jsvine	684755295676022785	2016-01-06T15:15:59	jacqui bbcworldservice FYI, loved this database. And now in this week's Data Is Plural:  — thanks for the tip!
+jsvine	684746116739522564	2016-01-06T14:39:30	arnicas Definitely not TMI! Made my day. Thanks, Lynn!
+jsvine	684377500915494912	2016-01-05T14:14:45	206 months of gun background check data: 
+jsvine	684360486641610752	2016-01-05T13:07:09	We've updated our gun-background-check repository to include the FBI's December 2015 data: 
+jsvine	683344755426656257	2016-01-02T17:51:00	What is stunning to me is the real source of our imported oil.
+jsvine	684142191036489728	2016-01-04T22:39:43	athst Thanks! And glad it's of interest to you.
+jsvine	684135078566440960	2016-01-04T22:11:28	athst [2/2] The final three sheets labeled "raw data" were so in name only. They'd been pre-converted to categories and don't share IDs.
+jsvine	684134879823564807	2016-01-04T22:10:40	athst [1/2] That's essentially all Airbnb provided, alas.
+jsvine	683995539000668160	2016-01-04T12:56:59	dancow I am my own underling :^)
+jsvine	682648097323905024	2015-12-31T19:42:44	digiphile b_fung Thanks! Lots of credit to CartoDB, which made the process fairly painless.
+jsvine	682646830002401286	2015-12-31T19:37:41	digiphile b_fung Roger that :^) (Certainly not claiming that findings are exclusive. Just highlighting some of the most interesting bits.)
+jsvine	682644066031538177	2015-12-31T19:26:42	swb1192 Possibly! Thanks for the tip. You can email me at jeremy.singer-vine@buzzfeed.com.
+jsvine	682642757102493696	2015-12-31T19:21:30	bencasselman Only up, methinks. The 30% is mult-prop-ent.-home as % of all revenue, incl. shared-room. (140 characters is hard.)
+jsvine	682640308035780610	2015-12-31T19:11:46	bencasselman It might be. 30% refers to entire-home listings. Airbnb didn't provide info on hosts listing multiple shared-room listings.

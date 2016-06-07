@@ -1,0 +1,929 @@
+urbandata	726228027751960576	2016-04-30T01:53:49	Out of school suspensions / enrollment:   0.1% NewCanaan   6.4% CT statewide 31.2% Waterbury (Median income = $181K in NewCa, $41K in Wby)
+urbandata	726117279872737281	2016-04-29T18:33:44	.hanlonbt Youngest voters in greatest need of housing are outnumbered, in many cases, by a margin of 20 to 1  cplan
+urbandata	726094111258861569	2016-04-29T17:01:40	One of ways SiliconValley "creates value" is by allowing customers to ignore anti-discrim laws.  AirbnbWhileBlack
+urbandata	726091565844844544	2016-04-29T16:51:34	For 80-year-olds, the avg walking speed is 2km/hour, vs 4.8km/hour for a working age person  cplan aging phealth
+urbandata	726085021216440320	2016-04-29T16:25:33	.urbandata If you are considering a reply to this tweet, read this entire article first, please:  edgap
+urbandata	726084249368072192	2016-04-29T16:22:29	Academic success is overwhelmingly predicted by factors outside the classroom.  edgap sdoh 
+urbandata	726073284039569408	2016-04-29T15:38:55	This is happening in Cleveland and it is totally unregulated  
+urbandata	726070031256313856	2016-04-29T15:25:59	rolfpendall Agree; people in CT are questioning this given Ed attain was a 538 factor &amp;CT metros are near top of US 
+urbandata	726063550209347584	2016-04-29T15:00:14	.TheWCA sethpinsky Yes, &amp; it's relative: when a place is designed to be pleasant &amp; green, time is perceived to pass far more quickly wcot
+urbandata	726062024048939008	2016-04-29T14:54:10	Wow: Donors &amp; Chicago Population by Race, 2015 Election Cycle  inequality Chicago_Reader 
+urbandata	726061391816306688	2016-04-29T14:51:40	"Hudson Yards will be ‘quantified community,’ testing ground for applied urban data"  cplan 
+urbandata	726058349666652163	2016-04-29T14:39:34	Kahn's YaleBritishArt museum is the finest work of architecture in the USA;it's now renovated  NHV LangeAlexandra
+urbandata	725342703194611712	2016-04-27T15:15:51	"Educational attainment is not just an economic justice issue but a racial justice issue"  
+urbandata	726049063024623616	2016-04-29T14:02:40	joseapie pepespizzeria doughausladen Agree; NHV is also the most-Italian metropolitan area in the USA (24%) 
+urbandata	726047082377830400	2016-04-29T13:54:48	"I love Worcester. I have a future. New York City is for dreams. Worcester is for working." A.Yusef  TweetWorcester
+urbandata	725858992577232896	2016-04-29T01:27:24	LangeAlexandra Frey House is the one absolute-must-see house, if you can get a tour, IMO.
+urbandata	725857934006046721	2016-04-29T01:23:11	.Richard_Florida wherewelive Greater Charlotte or Wichita arguably more typical than the NHV or Hartford metro.. 
+urbandata	725758091548053504	2016-04-28T18:46:27	What would a Donald Trump presidency look like? Let's ask him:   
+urbandata	725702032552787969	2016-04-28T15:03:42	New post: "Themes from the NNIP San Antonio Spring 2016 Meeting" by DKLinn  
+urbandata	725701752750628866	2016-04-28T15:02:35	Community voices and stories also constitute "hard" data with parity to numbers.  
+urbandata	725765439113023494	2016-04-28T19:15:39	MaraLeeCourant Those two ZIPs in Hartford have a 20% housing vacancy rate - highest in CT. Lots of research on how that impacts walkability
+urbandata	725763581636169733	2016-04-28T19:08:16	MaraLeeCourant (More context: residents living in those 3 ZIPs have different perceptions about nearly everything related to n'hood access)
+urbandata	725762779039289346	2016-04-28T19:05:05	emilymbadger I think the combination of race + DCI, especially adjusted for metro differences in apprec., may reveal much larger effects
+urbandata	725762305192038405	2016-04-28T19:03:12	emilymbadger At the very bottom of the DCI (e.g., the bottom 5-10%) there is a large shift in the impact of certain environmental factors
+urbandata	725761958218227714	2016-04-28T19:01:49	emilymbadger Have you tried plotting ZIP data vs Distressed Communities Index &amp; Walkscore(adjusting for metro-level differences in growth)?
+urbandata	725760887789899776	2016-04-28T18:57:34	MaraLeeCourant Disagree-The 3 extreme-poverty ZIPs in Bpt aside, biggest declines in app by far were in outer towns w/ low walkability
+urbandata	725759694174826496	2016-04-28T18:52:49	MaraLeeCourant And aside from that, residents perceive southern half of Greenwich as being extremely walkable, with an opulent park system
+urbandata	725758265473261570	2016-04-28T18:47:09	MaraLeeCourant Like Portland OR or Boston, the NYC metro is a different market than central CT (the H-NH DMA)...I'd avoid direct comparison
+urbandata	725756925376364544	2016-04-28T18:41:49	MaraLeeCourant Not sure comparison to NYC is relevant.As mentioned, Portland OR is on different scale, but core still had 2.5X appreciation
+urbandata	725756531497684992	2016-04-28T18:40:15	MaraLeeCourant again,  Access has to be a holistic measure.
+urbandata	725755807028133888	2016-04-28T18:37:22	MaraLeeCourant A lovely area, but avg resident has lower prcptn of access to places-though big gradient between Oxford/Warrenton &amp; StF hosp
+urbandata	725753776854945794	2016-04-28T18:29:18	MaraLeeCourant RSGAT True, in Portland Oregon area, many suburbs are +40%; but nearly the entire downtown area there is +95%.
+urbandata	725753550945587200	2016-04-28T18:28:25	RSGAT MaraLeeCourant Some-maybe w/homes that sell less often. ZIP is a big "place" &amp; prox to main street, parks, safety, also add value
+urbandata	725752091046739970	2016-04-28T18:22:36	MaraLeeCourant RSGAT I'm familiar - with Blue Back Square &amp; LaSalle there, it's often called the most walkable area in the state
+urbandata	725751134003040257	2016-04-28T18:18:48	MaraLeeCourant RSGAT I suspect IPAQ-type survey results for both might not agree with your perception and/or definition of walkability
+urbandata	725750333683675137	2016-04-28T18:15:37	RSGAT MaraLeeCourant Typically both, but it's not as simple as perception of safety to walk. N'hood context includes many other variables.
+urbandata	725749468335902721	2016-04-28T18:12:11	MaraLeeCourant RSGAT In CT, some issues that impact walkability, like parks/town finance,likely relate to historic patterns of segregation
+urbandata	725748997147729921	2016-04-28T18:10:19	MaraLeeCourant RSGAT ? IPAQ has been used in many contexts globally, including non-white neighborhoods. Walkability is complex.
+urbandata	725748409974579200	2016-04-28T18:07:59	MaraLeeCourant emilymbadger Many ways to measure walkability, incl safety. Per our IPAQ-based survey data, parts of NH &amp; WH lead the state
+urbandata	725743626089803779	2016-04-28T17:48:58	MaraLeeCourant VTConfidential FiveThirtyEight JedKolko Noted that too;also median age diff. But index is just big metros,not small/rural
+urbandata	725740290322120704	2016-04-28T17:35:43	Davey_Ives doughausladen JedKolko Yes, though true only if you include Waterbury &amp; Meriden, as was done in this analysis (by metro area).
+urbandata	725739910905401348	2016-04-28T17:34:13	VTConfidential If you include Waterbury, Meriden, and New Britain, as was done in this analysis, then yes.
+urbandata	725739398831198210	2016-04-28T17:32:10	.paulinmedia I thought Chicago, but one has to remember that the NHV metro includes Waterbury &amp; Meriden as well as the wealthy shoreline.
+urbandata	725737908729188352	2016-04-28T17:26:15	bruteforceblog emilymbadger The same pattern is there - just impossible to see with these particular color intervals.
+urbandata	725736304982515713	2016-04-28T17:19:53	New Haven is America's most "normal" metro area. IL,NY,NJ,CT are most "normal" states  NHV 
+urbandata	725718758338121729	2016-04-28T16:10:09	This pattern appears in lots of places 
+urbandata	725718873098563588	2016-04-28T16:10:37	.urbandata And the 2004-2015 trend in the central Boston area is particularly extreme. gentrification 
+urbandata	725716769805983746	2016-04-28T16:02:15	Walkable center of NHV is only area of central CT with big % rise in home values since 2004  
+urbandata	725706892786434048	2016-04-28T15:23:00	.just_shelter keithlee_s Also 36% of whites, 7% of blacks, get inheritances; of those, white family inheritances are 10X larger evictedDC
+urbandata	725491319754362880	2016-04-28T01:06:24	This trend makes it even harder to make progress against racial segregation too 
+urbandata	725701443026571265	2016-04-28T15:01:21	Violence, in all forms, is incredibly underreported. Even severe violence.  phealth guns 
+urbandata	725697095764602880	2016-04-28T14:44:05	Waiting on data can be a death sentence. Policy must employ power analysis &amp; multiple forms of info  phealth nnip
+urbandata	725696546944114688	2016-04-28T14:41:54	oditoronto bdernberger Shows need 4 adeq mediation, iterative safety nets,etc.Particularly detrimental to society that cycle punishes kids
+urbandata	725686324058054658	2016-04-28T14:01:16	Eviction data are public, leading to landlords rejecting anyone with eviction in last 2-3 years. Becomes cyclical. just_shelter EvictedDC
+urbandata	725691528719437824	2016-04-28T14:21:57	We have more than enough $ to eradicate poverty, but we make other choices. just_shelter evicteddc v dianeyentel 
+urbandata	725405716102574080	2016-04-27T19:26:14	"To Make a Choice, You Must Have a Choice." Healthy lifestyles are possible only when there are healthy choices. 
+urbandata	725686618674229248	2016-04-28T14:02:27	CAS101168 cora_lew BuzzFeedNews The # of college-educated restaurant workers in Brooklyn rose by 117% 2004-2011, vs a 47% statewide rise
+urbandata	725683823330004992	2016-04-28T13:51:20	CarolynLumsden colinmcenroe It seems that she did best among middle-class blacks and extremely wealthy whites. 
+urbandata	725389686445871104	2016-04-27T18:22:32	This! New on living_cities blog. Visualizing America's Student Debt Problem  tzembo
+urbandata	725669373353070592	2016-04-28T12:53:55	Pls, read everything by paulkiel, who does the deep digging to show how debt collection assaults the working poor 
+urbandata	725480719997390852	2016-04-28T00:24:17	.ctdata NYMag What's really happening to neighborhoods in big US metros?  inequality nnip 
+urbandata	725478717418561537	2016-04-28T00:16:19	.ctdata Ongoing collapse of middle-class n'hoods is a more important issue than gentrification: NYMag  inequality
+urbandata	725289596532092928	2016-04-27T11:44:49	.urbandata MBKPhilly Connecticut has seen a large drop in middle-income neighborhoods, too:  inequality CTPrimary
+urbandata	725462172134952960	2016-04-27T23:10:34	Yale will keep the name of a residential college named for a 19th-century white supremacist  
+urbandata	725171200100433920	2016-04-27T03:54:21	Caught your speech, realDonaldTrump. About that "woman's card"... 
+urbandata	725301069778173954	2016-04-27T12:30:25	Wow - really impressive analysis: 
+urbandata	725382943582072832	2016-04-27T17:55:45	Don't promote "healthy lifestyles" w/out discussing privilege  phealth sdoh v AbdulElSayed 
+urbandata	725318786300125184	2016-04-27T13:40:49	Yet more terrible secondary effects of studentloans. 
+urbandata	725295386508845056	2016-04-27T12:07:50	markmobility errollouis I believe the margin was same in NYPrimary. Keep in mind that only ~3% of the total population voted for Trump.
+urbandata	725285310435745792	2016-04-27T11:27:47	.MBKPhilly More disappearing middle-income neighborhoods in NYT today:  inequality nnip 
+urbandata	725282928138276865	2016-04-27T11:18:19	lenagroeger An animated video of what that trend looks like in CT 
+urbandata	725279087951003648	2016-04-27T11:03:04	RussellBlairCT UpshotNYT Nate_Cohn CarolynLumsden Margins within middle-income African-American precincts were also exceptionally high.
+urbandata	725181835672731649	2016-04-27T04:36:37	jbarro DanaHoule You're both right. F &amp; T aren't middle class, but they're also not as wealthy as Darien/New Canaan, by multiple measures.
+urbandata	725155755029069828	2016-04-27T02:52:59	NEW: Bernie Sanders statement says he's in until last vote is cast, but seems to have one eye on party platform. 
+urbandata	725155590327140352	2016-04-27T02:52:20	urbandata UpshotNYT Nate_Cohn CarolynLumsden source  inequality ctprimary
+urbandata	725155454075150338	2016-04-27T02:51:47	Clinton wins CTPrimary due to an enormous margin in lower Fairfield County, home to 14 out of CT's 15 billionaires. 
+urbandata	725151965097938945	2016-04-27T02:37:55	Some context on unusual CTPrimary demographics, from DataHaven(ctdata). Far fewer middle-class n'hoods. Nate_Cohn 
+urbandata	725150092618031104	2016-04-27T02:30:29	Nate_Cohn AP corrected that. It is a large town and that result would have been a national outlier
+urbandata	725149204583202816	2016-04-27T02:26:57	.MaraLeeCourant VTConfidential Yes, I saw that AP just issued that correction a few minutes ago. So it's not a national outlier anymore.
+urbandata	725117211476512769	2016-04-27T00:19:49	Yes, code em by frontage length! 
+urbandata	725081995903160321	2016-04-26T21:59:53	Sampson: MassIncarceration impact on n'hoods is "difference of kind,not degree." Garfield rate 42X that of Clearing 
+urbandata	725062412475457536	2016-04-26T20:42:04	Airbnb is "growing significantly faster in predominantly black n'hoods than it is across the city."  gentrification
+urbandata	725051244159574017	2016-04-26T19:57:42	"Increased rates of studentdebt delinquency... expose borrowers to job market discrimination"  Demos_Org NAACP_LDF
+urbandata	724615202243784708	2016-04-25T15:05:01	How we can shape cities to improve health: Dean sandrogalea pens piece in  WSJ  BrookingsMetro urbandata
+urbandata	725005124540731393	2016-04-26T16:54:26	Mapping studentdebt inequities in US &amp; CT n'hoods: Our new post Living_Cities  nnip wkdev 
+urbandata	725003209383747585	2016-04-26T16:46:49	urbandata requiring driving privileges to vote is a human rights violation.
+urbandata	724984260990504962	2016-04-26T15:31:32	London is one of the richest cities in the world and yet every year 1,000+ older people die due to cold houses 
+urbandata	724981238537289730	2016-04-26T15:19:31	Mapping every storefront is a measure of n'hood walkability  San Fran &amp; STL, at same scale: 
+urbandata	724948642981879809	2016-04-26T13:10:00	JillFilipovic An implicit bias experiment using gender, wealth, &amp; associations like trust &amp; power would be interesting. Maybe done already.
+urbandata	724946934113378304	2016-04-26T13:03:12	.JillFilipovic Agree. Another reason may be inequality levels &amp; perceptions of Wall Street were not nearly as bad. 
+urbandata	724878603868069888	2016-04-26T08:31:41	great idea! lets implement it in Oldenburg_DE safety biking 
+urbandata	724736559782723585	2016-04-25T23:07:15	Eindhoven has a new system that tracks oncoming cyclists/runners,then alerts drivers  CPlan 
+urbandata	724730164282822657	2016-04-25T22:41:50	"You're on a leash, and you can only go so far."  UniversalBasicIncome inequality 
+urbandata	724709134831108096	2016-04-25T21:18:16	Cuando digo que los cuerpos policiales en USA tienen problemas con las minorías, lo digo por cartas como esta.  
+urbandata	724707954155466752	2016-04-25T21:13:35	This is a real letter from ClePolicePatrol, 2016.  cle TamirRice cjreform 
+urbandata	724682692495859712	2016-04-25T19:33:12	After CT state law "creates an affordablehousing arms race," some towns respond w/ innovative approaches  cplan
+urbandata	724679144802521089	2016-04-25T19:19:06	Millennials not racing to buy cars again. 4 Millennials=Car sales impact of 1 Boomer  cplan 
+urbandata	724576337378181126	2016-04-25T12:30:35	Nice dive into data about Detroit job sprawl, also with implications for, and some data on, STL. Thanks urbandata 
+urbandata	724579090485903360	2016-04-25T12:41:31	How we can shape cities to improve health. My piece in  WSJ publichealth cities  BrookingsMetro urbandata
+urbandata	724571180460576769	2016-04-25T12:10:05	Bridgeport: Race, place, &amp; health   2015 city profile:  bptadvocate 
+urbandata	724572176511307777	2016-04-25T12:14:03	Placing metro Detroit's job sprawl in a national context: D3detroit  spatialmismatch nnip
+urbandata	724564295015526400	2016-04-25T11:42:44	The largest public square in the US is always an ideal place to rally enormous crowds. urbanism = democracy. NHV 
+urbandata	724224554302857217	2016-04-24T13:12:43	urbandata Similar pattern in UK. Important to see - and respond to - positive side of this though: plan for car-free employment
+urbandata	724412666484240385	2016-04-25T01:40:13	To stop soaring housing costs in cities like SF, NIMBYs should be bribed w/ TILTs &amp; neutralized w/state laws  cplan
+urbandata	724386579096190980	2016-04-24T23:56:33	There are 14k in New Haven for BernieSanders rally tonight -- take a look. That's according to City Parks official. 
+urbandata	724356343625355266	2016-04-24T21:56:24	In New Haven for Bernie Sanders' first rally in CT. The line to get in is easily more than 1,500 people long. 
+urbandata	724338723693817856	2016-04-24T20:46:23	Housing Bias Outlasts Ruling in a Long Island Village 
+urbandata	724334764115812352	2016-04-24T20:30:39	How does a city's noise affect the health of its residents?  
+urbandata	724335479672475651	2016-04-24T20:33:30	Liberal ideology often conflicts with "liberal city" urban policy  affordablehousing cplan 
+urbandata	724240141666103296	2016-04-24T14:14:40	"Anything other than cycletracks is a waste of time, money &amp;effort"  cplan v ChrisRHamilton 
+urbandata	724232447584534528	2016-04-24T13:44:05	Tragic: New Rio bike path collapses into ocean, right after it is built  Rio2016 v the_drewreed
+urbandata	724231298156498945	2016-04-24T13:39:31	.urbandata In 2009, 7% of white adults had no driver license, vs. 21% of blacks &amp; 21% of Latinos. This is also relevant to VotingRights
+urbandata	724223232593805312	2016-04-24T13:07:28	US has fewer young drivers (especially if you disaggregate by race/eth). Translates to lower access to jobs. sdoh 
+urbandata	723518132598484992	2016-04-22T14:25:39	A major new project! Mapping slavery in the United States. Breaking free from county data.  
+urbandata	723917703455617024	2016-04-23T16:53:24	The statistic isn't "false," but it needs to be presented with this type of context (eg, 15% under-employment).  
+urbandata	723245483964116992	2016-04-21T20:22:15	"Programs to stabilize housing would stabilize communities, too." just_shelter  affordablehousing sdoh v pm_jawn
+urbandata	722814941258846212	2016-04-20T15:51:25	"How violence shapes children for life" emilymbadger did an incredible job on this: 
+urbandata	723169631108759552	2016-04-21T15:20:50	Reduce bus commutes by 15 minutes, double the number of jobs you can reach  nhv cplan nnip 
+urbandata	723149254634668032	2016-04-21T13:59:52	The average 29-year-old.   millennials demographics v DKThomp 
+urbandata	722893039723622400	2016-04-20T21:01:46	CT Survey: Poverty lines directly impact happiness:  Bridge the divide TogetherWeThrive 
+urbandata	722880844663095301	2016-04-20T20:13:18	4 Men with 4 Very Different Incomes Open Up About the Lives They Can Afford  via Esquire
+urbandata	722844688730955776	2016-04-20T17:49:38	How HarrietTubman got the $20 she needed to rescue her own father from slavery.  ushistory 
+urbandata	722787175784452096	2016-04-20T14:01:06	Mapping urban CT's structural strain  ctbudget wherewelive 
+urbandata	722594729318199296	2016-04-20T01:16:23	Live neighborhood-level results from the NYPrimary in NYC: datanews WNYC  NYCVotes 
+urbandata	722590200803758080	2016-04-20T00:58:23	How to Get Tenure (If You’re a Woman): 
+urbandata	722563853150744578	2016-04-19T23:13:41	One of NHV's only woonerfs. 
+urbandata	722144983109619713	2016-04-18T19:29:15	Tactile coastal maps; amazing 
+urbandata	722494549097111552	2016-04-19T18:38:18	"For transpo nerds, the AllTransit database provides hours of educational fun."  cplan nnip 
+urbandata	722475901833912320	2016-04-19T17:24:12	"More effective than alligator-filled moat." What redlining did to CT nhds:  nhv hartford 
+urbandata	722472257038258176	2016-04-19T17:09:43	.MayorGiles to city staff: if you're requesting a budget increase, show me the data that says you're doing whatworks. WWCSummit
+urbandata	722474242760183809	2016-04-19T17:17:37	kzuke MayorGiles Easy to understand &amp; collect, already commonly used, more tied to local politics of n'hood resource distribution, etc
+urbandata	722471785682378752	2016-04-19T17:07:51	Collectively shaping protocols+algorithms is an issue of democracy. Smart citizens, not just smart cities  WWCSummit
+urbandata	722403357785243649	2016-04-19T12:35:56	Intriguing perspective: 
+urbandata	722468569922056192	2016-04-19T16:55:04	"Maybe FD goal should be survival rates,not response time. Sometimes number-crunching doesn't align w/politics" MayorGiles WWCSummit nnip
+urbandata	716413750912356352	2016-04-02T23:55:23	DataHaven's survey is powerful. Useful for CT SIM. Survey: Poverty's Effects In Connecticut Are Far-Reaching 
+urbandata	722261942296031232	2016-04-19T03:14:00	Segregation has to do with physical mobility, not just where people sleep at night:  SDoH 
+urbandata	722211153502453760	2016-04-18T23:52:11	"Making changes out in the open is a more public process than planning in air conditioned rooms."  tacticalurbanism
+urbandata	722167157853921280	2016-04-18T20:57:22	up to $30K to support partners testing this app among a target group of workers. SeeClickFix wagetheft civictech 
+urbandata	722162684070928384	2016-04-18T20:39:35	New neighborhood-level data on New Haven HUDgov Promise Zone: DataHaven(ctdata)  NHV NNIP 
+urbandata	722157830011269120	2016-04-18T20:20:18	.CityObs DanielKayHertz We also won't recognize rising reliance on libraries if we think cities are luxury goods. 
+urbandata	721426851269341184	2016-04-16T19:55:39	This seems like the sort of thing local politicians &amp; planners should take note of. 
+urbandata	721963888296636416	2016-04-18T07:29:39	If you want to have walkable places, you need to build walkable street grids: IanLockwoodPE CPlan urbandesign 
+urbandata	721899321084526592	2016-04-18T03:13:05	"DataScience is 99% preparation, 1% misinterpretation." Survey shows what Data Janitors find least enjoyable:  nnip
+urbandata	721745261299638273	2016-04-17T17:00:54	Interesting insight into health and well-being at a state and municipal scale. unitedbydata 
+urbandata	721355744445014016	2016-04-16T15:13:06	Illustrative for Seattle’s Center City Mobility Plan. For mobility, safety &amp; access, bikes are the smart move. 
+urbandata	721771817342525443	2016-04-17T18:46:25	.urbandata At standing room capacity YankeeStadium would be almost big enough to hold half the people who sleep in NYC shelters each year.
+urbandata	721763946609446912	2016-04-17T18:15:09	109,000 different people sleep in NYC muni shelters each year, but YankeeStadium got $1 billion in public subsidies 
+urbandata	721508877171310592	2016-04-17T01:21:35	.CollegeFellows "Expansive park networks are linked to multiple aspects of health &amp; wellbeing in cities"  phealth
+urbandata	721502125478555648	2016-04-17T00:54:46	trnsprttnst TransportBlog If cars became as small as e-bikes, capacity might be comparable to that of bicycle lanes. Still may be too low.
+urbandata	721494180686598144	2016-04-17T00:23:12	Hourly capacity of a 10' travel lane. Connected+autonomous cars won't solve city congestion. v TransportBlog CPlan 
+urbandata	721453421530886144	2016-04-16T21:41:14	New WHO report on global diabetes epidemic (doubled since 1980). Need better foodpolicy, walkable cities  phealth
+urbandata	720336294640005124	2016-04-13T19:42:10	Flint residents are scared to shower.  abbygoodnough
+urbandata	721434710791045120	2016-04-16T20:26:53	ieko1224 I had a chance to ride Seville bikeshare the month it opened, in 2007. Would love to return and see how it's changed since then!
+urbandata	721428174064742401	2016-04-16T20:00:54	.urbandata Since 2009, the # of protected bike lanes in the US has doubled every 2 years, to 270 lanes in 82 cities 
+urbandata	721290067541639168	2016-04-16T10:52:07	Death Row’s Race Problem 
+urbandata	721419866842992641	2016-04-16T19:27:54	By building a modest cycletrack network from 2006-2012, Seville boosted cycling from 0.5% to 7.0% of citywide trips 
+urbandata	721372420003729408	2016-04-16T16:19:22	To reduce SF housing prices, "You'd have to build another city on top of the city"   affordablehousing nnip cplan
+urbandata	721350579382009856	2016-04-16T14:52:34	In 1838, 272 slaves were sold to save Georgetown. It should give that money+interest back to the descendants  gu272
+urbandata	721165886963339266	2016-04-16T02:38:40	An interesting hypothetical posed by paragkhanna, esp for investing in infrastructure. From a forthcoming book... 
+urbandata	721043260731498497	2016-04-15T18:31:24	To stay competitive, US needs to eliminate state govt &amp; realign itself to city-states  CPlan 
+urbandata	721037965359771649	2016-04-15T18:10:21	.BrookingsEcon Example per , unemployed white workers are more likely to have car access than employed black workers
+urbandata	721035651756515328	2016-04-15T18:01:10	It's important to know that poverty is multidimensional, especially among poor black+Latino adults. phealth sdoh 
+urbandata	720934134357450752	2016-04-15T11:17:46	Living next to a major highway is extremely unhealthy: New Boston study   phealth cplan 
+urbandata	720807152215072768	2016-04-15T02:53:11	Life expectancy vs health care costs. US is outlier b/c it spends so little on housing &amp; social services. DemDebate 
+urbandata	720806411530317824	2016-04-15T02:50:15	US health care system is working fabulously for the wealthiest 20%, but not for everyone else. phealth demdebate 
+urbandata	720803971904851968	2016-04-15T02:40:33	95% of Americans would be better off under Sanders' single-payer health plan  DemDebate 
+urbandata	720798395426861056	2016-04-15T02:18:23	DemDebate question: How would you boost cycling, which can save society $24 trillion &amp; cut transpo sector CO2 11%? 
+urbandata	720793953310785536	2016-04-15T02:00:44	.UrbanPolicy 1.5M black men are "missing." In Ferguson 4 black men are missing for every 10 black women demdebate 
+urbandata	720786590654574593	2016-04-15T01:31:29	Charts: Sanders &amp; Clinton net worth, vs. average Senator net worth, over time DemDebate transcripts v UrbanPolicy 
+urbandata	720715849678643200	2016-04-14T20:50:23	Free, reusable code from the U.S. government: 18F  opendata civictech nptech nnip
+urbandata	720591604969447424	2016-04-14T12:36:41	"Attrition of automobiles by cities" is as much about driver psychology as it is about geometry. cplan via grescoe 
+urbandata	720583631522152448	2016-04-14T12:05:00	urbandata Link 
+urbandata	720583192982462464	2016-04-14T12:03:15	Wow. Extensive NHV cycletrack looks to be good casestudy of JaneJacobs "attrition of automobiles by cities" cplan 
+urbandata	720576006856306688	2016-04-14T11:34:42	"If we choose to fight for affordability only...it tends to perpetuate that segregated geography." xavbriggs  cplan
+urbandata	716005389150658561	2016-04-01T20:52:42	tenants = hurdles 
+urbandata	716639754712801280	2016-04-03T14:53:26	"People aren't urbanizing. Wealth is." Urban revival,for the rich ColTekpal StratMan001 anil0420 iamajaypalsingh 
+urbandata	720274254671949824	2016-04-13T15:35:39	which is why neighborhood-level indicators matter and we 💜  nnip 
+urbandata	720229521643958272	2016-04-13T12:37:53	Poverty exists because it's profitable for landlords. Evictions rise as Boston gentrifies just_shelter  inequality
+urbandata	720216034519724032	2016-04-13T11:44:18	To what extent is this widening life expectancy gap driven by rising n'hood concentration of affluence? inequality 
+urbandata	720212141085593600	2016-04-13T11:28:49	"blacks in Madison, WI are 90.5% less likely to own a home than whites of the same age and income" racialequity 
+urbandata	720211329059979268	2016-04-13T11:25:36	.pewresearch Much more variation by n'hood though - 5% not trusting in wealthy areas, vs. well over 50% in concentrated poverty areas NNIP
+urbandata	719960866897178624	2016-04-12T18:50:21	DataHaven(ctdata) Community Wellbeing Survey data are cited in new McKinsey report on CT economy nnip ctpolitics 
+urbandata	719956287501557768	2016-04-12T18:32:09	The evaporation of London's middle class: Londonmapper  inequality InequalityLDN GIS 
+urbandata	719677221040828416	2016-04-12T00:03:15	Weird situation in which senior residents elect mayors/councils who shape futures of the young who can't/ don't vote 
+urbandata	719944135315169280	2016-04-12T17:43:52	Universities &amp; big employers won't have the healthiest, most productive workforce unless they have healthy host cities LiveAtUrban phealth
+urbandata	719942442011766785	2016-04-12T17:37:08	"Replacing I-81 w/ a walkable street grid would be like lifting a boot off the neck of Syracuse" = So true.  CPlan
+urbandata	719941003990458369	2016-04-12T17:31:25	From 2005 to 2012, at least 37,000 Chinese "immigrant investor" millionaires became permanent residents of BC:  YVR
+urbandata	719862719537659905	2016-04-12T12:20:21	I've found some of the most creative data minds work in civil service. 
+urbandata	719925893041385472	2016-04-12T16:31:23	.JAMA_current Another way to look at this: Concentrated poverty &amp; inequality kill 33 Americans every hour:  SDoH
+urbandata	719902263754506240	2016-04-12T14:57:29	A chronic failing of HealthDisparities research as noted by CamaraJones, BrianDSmedley, Jay S. Kaufman, etc  
+urbandata	719628281344040960	2016-04-11T20:48:46	WhatWorksWB NEFwellbeing an impressive cooperative effort to get neighbourhood level data 
+urbandata	719889434276040705	2016-04-12T14:06:30	READ. Masterful treatise on frame shift to opportunity vs equity. Steve Woolf slays it here. TheGrahamCenter 
+urbandata	719885442749984773	2016-04-12T13:50:39	.wherewelive CT population age 75 and older increased from 144,689 people in 1980 to 250,862 in 2013  aging nnip
+urbandata	719857266539802624	2016-04-12T11:58:41	DennerHJ kimmelman Interesting. I wonder if Alejandro Aravena envisioned this.
+urbandata	719855858574823424	2016-04-12T11:53:05	statesdj Bill_Gardner UpshotNYT RWJF_Live "Chetty explain what they have done,but there is much scope for misinterpretation" -A. Deaton
+urbandata	719854440614899712	2016-04-12T11:47:27	If real estate market is driven by money laundering, more housing supply might not help affordability.  panamapapers
+urbandata	719851786044116993	2016-04-12T11:36:54	.laudyaron JoelAchenbach drshow Often, place can be far more important than income:  sdoh 
+urbandata	719676019628752897	2016-04-11T23:58:28	Voters age 65+ are 10-20 times more likely than those age 18-24 to vote in mayoral elections. NNIP civichealth 
+urbandata	719529061832220672	2016-04-11T14:14:31	fivefifths this offers some support to your worries over this life expectancy paper 
+urbandata	719652109650530304	2016-04-11T22:23:28	Somerville friends: MassDOT is considering cutting the bike+ped path, which adds 1% to GLX cost. Testify on 4/13 
+urbandata	719615814354276352	2016-04-11T19:59:14	.NYULMCpophealth Shifting the conversation to neighborhood-level measures of wellbeing &amp;happiness  HealthAnd nnip
+urbandata	719586491635277826	2016-04-11T18:02:43	similar caveats as we encountered in the last big Chetty paper 
+urbandata	719572524460306433	2016-04-11T17:07:13	We're hiring a Research Coordinator at poverty_action to work on our transparency initiative, based in NYC or CT. 
+urbandata	719559321491763201	2016-04-11T16:14:45	cc: WhitneyEpi might be interesting read for your students healthdisparities SDoH 
+urbandata	719529471083196416	2016-04-11T14:16:08	Yes:  healthand racialequity 
+urbandata	719525635815829506	2016-04-11T14:00:54	Woolf on the problems in new Chetty phealth study:  healthand inequality racialequity 
+urbandata	719514418867003392	2016-04-11T13:16:20	urbandata Indeed.
+urbandata	719511551808561152	2016-04-11T13:04:56	Richard_Florida One issue is how the cities are defined, so this is not quite a fair comparison. Some include much larger commuting zones.
+urbandata	719500892307857408	2016-04-11T12:22:35	"Places where poor have long lives tend to have high local government spending."  inequality 
+urbandata	719484520593014786	2016-04-11T11:17:31	Streets that promote social interaction &amp; exercise are hard to drive, and easy to walk or bike. phealth v grescoe 
+urbandata	719231149000769536	2016-04-10T18:30:43	Texaco CEO Torkild Rieber was Franco's banker. How Chevron Texaco Helped Franco Win the Spanish Civil War  fascism
+urbandata	719214891828060160	2016-04-10T17:26:07	Connecticut data reveal disparities in racial profiling &amp; minority representation  cjreform 
+urbandata	719195836488527872	2016-04-10T16:10:24	Important analysis of troubling rise in health inequality by race and gender laudyaron featured 
+urbandata	717266749637455872	2016-04-05T08:24:53	Trust in government is key to wellbeing ctdata 
+urbandata	718550505723564032	2016-04-08T21:26:05	Stabilizing neighborhoods is about more than just building or not building: 
+urbandata	718146439847612416	2016-04-07T18:40:28	Who Votes for US Mayors? Report: low turnout, voting deserts, older/affluent voters portlandpulse IMSpdx  NNIP
+urbandata	718145907317866496	2016-04-07T18:38:21	Important to disaggregate civichealth measures: examples in DataHaven(ctdata) survey  NNIP 
+urbandata	718117262260105217	2016-04-07T16:44:31	Could not agree more - as it can not only miss but exacerbate the lack of all of the above in our current systems.  
+urbandata	718109667361230849	2016-04-07T16:14:21	"Community change models that don't incorporate equity, race, and power have the potential to miss very badly." spjika NNIP racialequity
+urbandata	718107706956058626	2016-04-07T16:06:33	MaraLeeCourant more maps. All are "issues," some may be more important than others 
+urbandata	718098489436012544	2016-04-07T15:29:56	All projects+policies need a people focus, but they also need a place focus. Gov't policy often has no spatial orientation seemadiyer NNIP
+urbandata	718093572050825216	2016-04-07T15:10:23	Top2 issues for Baltimore equity &amp; declining n'hoods: Vacant homes(other people's trash) + spatialmismatch long commutes seemadiyer NNIP
+urbandata	718091292530446340	2016-04-07T15:01:20	"Research that is inclusive &amp; accessible empowers communities to demand change that achieves equity" Dr.Kijakazi urbaninstitute NNIP CBPR
+urbandata	717905944303153152	2016-04-07T02:44:49	Since 2000, the number of Americans living in extreme-poverty neighborhoods has more than doubled.  inequality nnip
+urbandata	717891826758336513	2016-04-07T01:48:43	Visualizing the US government's program of mass aerial surveillance:  FBI DHS transparency 
+urbandata	717889424168783872	2016-04-07T01:39:11	MaraLeeCourant One of many examples  Look at individual property pages on Zillow,Trulia, etc.Lots of misleading info
+urbandata	717831551279579136	2016-04-06T21:49:13	MaraLeeCourant It seems Zillow uses red shaded maps and red circles for various neighborhood data on its area/property dashboards
+urbandata	717818910276526080	2016-04-06T20:58:59	Huge shift in US housing market:it's not about Millennials "just delaying" ownership  cplan 
+urbandata	717814927436681216	2016-04-06T20:43:09	"I didn't want to move there because Zillow had a 'red light' symbol on its map." - virtual redlining depressing neighborhood value. NNIP
+urbandata	717813160531648512	2016-04-06T20:36:08	Should funding for demolishing blighted homes be used instead to rehab the homes where lead-poisoned/atrisk young children are living? nnip
+urbandata	717810782470324224	2016-04-06T20:26:41	"Broadening bilateral data agreements to more agencies becomes geometrically more complicated," but needed where gov't doesn't do IDS. NNIP
+urbandata	717807912458932224	2016-04-06T20:15:17	Measures of housing distress: tax delinquency, foreclosure, speculator owners correlated with kindergarten readiness nnip claudiacoulton
+urbandata	717808499451891716	2016-04-06T20:17:37	"We remediate homes for lead after kids poisoned" Better:use IDS,visit distressed housing w/known babies,in areas w/40% poisoning rate NNIP
+urbandata	717716443404574720	2016-04-06T14:11:49	While in SanAntonio, be sure to walk the extensive northern stretch of the Riverwalk, past Rosella_TX coffeeshop, SAMAart &amp; beyond. NNIP
+urbandata	717001572669132800	2016-04-04T14:51:10	Another huge reason the Inclusive Communities decision was so important for fairhousing (and also reentry) 
+urbandata	717401346085953536	2016-04-05T17:19:44	Municipalities mandate parking spaces, which reduces affordablehousing &amp; drives up living costs:  APA16 cplan
+urbandata	717331692915130369	2016-04-05T12:42:57	"It's not only about taxes. It's about criminals hiding their wrongdoings." - f_obermaier, PanamaPapers co-author 
+urbandata	717347833779765249	2016-04-05T13:47:05	wherewelive A lot of the divide may be due to increasing neighborhood concentration of wealth 
+urbandata	716661135282454530	2016-04-03T16:18:24	Interesting read  
+urbandata	717103305143545857	2016-04-04T21:35:25	.pewinternet There is a similar digitaldivide in Connecticut: Chart of 2015 DataHaven(ctdata) survey data nnip 
+urbandata	715883217774051328	2016-04-01T12:47:14	WSpriggs AFLCIO And that issue isn't distributed evenly across population: Our 2015 survey  
+urbandata	716416363804360704	2016-04-03T00:05:46	This is an incredibly powerful article about how institutional societal biases start early and are permanent. 
+urbandata	717065429634715649	2016-04-04T19:04:55	Extreme wealth concentrations reduce resources for the less-well off &amp; damage democracy + environment  c NickHanauer
+urbandata	717029870568660992	2016-04-04T16:43:37	Spotted outside APA16: A meeting of traffic engineers who haven't yet approved the NACTO urban street design guide 
+urbandata	717049353458855936	2016-04-04T18:01:02	"It's like living in a third-world country, right here in America": Impact of FlintWaterCrisis on families  phealth
+urbandata	717032543221112832	2016-04-04T16:54:14	Huge issue in real estate. You really have no way of knowing who owns the house next door if they don't want you to. 
+urbandata	717032771395457024	2016-04-04T16:55:09	.arae08 Someone in Orlando must have thought those figures were in miles, not feet:  apa16 
+urbandata	717018368482611200	2016-04-04T15:57:55	paulschreiber transalt AP JSadikKhan Naparstek It isn't just about not exonerating drivers, it's about not exonerating deadly roads.
+urbandata	716990004849995776	2016-04-04T14:05:12	8% of global wealth, or $7,600,000,000,000, is held in tax havens.  panamapapers taxevasion 
+urbandata	716804033114038273	2016-04-04T01:46:13	People walk more in their n'hoods as perceived safety increases: Study IJBNPA  cplan apa16 phealth v billiegc
+urbandata	716797737304334337	2016-04-04T01:21:12	New DataHaven (ctdata) job posted on APA_Planning website. Others posted at . cplan apa16 
+urbandata	716795997708533760	2016-04-04T01:14:17	Yes. Result of segregation &amp; inequality: responsible for 790 excess deaths in USA each day. MichaelMarmot phealth 
+urbandata	716721425852174337	2016-04-03T20:17:58	In asking why a there's a concentration of race/poverty, "they can't afford anything else" isn't a good reply APA16 
+urbandata	716714733370544129	2016-04-03T19:51:23	CT bans travel to NC: HB2 "endangers the welfare not just of NorthCarolina citizens, but of all people visiting" 
+urbandata	716690764697321472	2016-04-03T18:16:08	haydenth sunseasurf So affordable, w/ services so great, that only 70% of Detroit food pantry users are squatting 
+urbandata	716686710382444544	2016-04-03T18:00:01	sunseasurf haydenth Looks affordable/move-in ready, and I'm sure that jobs &amp; services for people in the area are also more than adequate.
+urbandata	716679454412636166	2016-04-03T17:31:11	As a nation, we are allowing so many kids (and moms and dads) to suffer basic deprivation 2dollarsaday nlihclive 
+urbandata	716667950938341377	2016-04-03T16:45:29	US urban policy: Free housing &amp; infrastructure for cars, unaffordable &amp; inadequate housing for people. APA16 CPlan 
+urbandata	716650973486125057	2016-04-03T15:38:01	A return of capital, not people...where have I heard that before? 
+urbandata	716647597818163200	2016-04-03T15:24:36	35 million trips in 94 US cities &amp; not a single fatality.Why is bikeshare so safe?  phealth apa16 c EuCyclistsFed
+urbandata	716629858047148033	2016-04-03T14:14:07	"Suburbs are now widely-condemned as the moral and policy expression of racism."  suburbanpoverty apa16 cplan
+urbandata	716626592882114560	2016-04-03T14:01:08	Crumbling services in wealthy DC suburbs like Fairfax County:  suburbanpoverty austerity 
+urbandata	716625463800684544	2016-04-03T13:56:39	Slave-peeled shrimp: "there is more oversight in seafood to protect dolphins than there is to protect humans." 
+urbandata	716284664642727936	2016-04-02T15:22:26	Things like this resonate after reading ryangravel's Where We Want To Live. Need more of it here in ATL 
+urbandata	716296421134114817	2016-04-02T16:09:09	"Access to jobs, mobility, reducing housing segregation, are deeply dependent on transportation." Sifill_LDF  APA16
+urbandata	715983413493235712	2016-04-01T19:25:22	.ctdata Announces Completion of Largest-Ever Survey on Neighborhood-Level Quality of Life, Health, and Happiness 
+urbandata	716281535503007746	2016-04-02T15:10:00	Did you see the front-page article about DataHaven in this past Sunday's Hartford Courant?  
+urbandata	716013114853048320	2016-04-01T21:23:24	.pewinternet New DataHaven digitaldivide data on smartphone+home internet access  PAA2016 
+urbandata	716010021654544386	2016-04-01T21:11:06	.alec_h_tyson pewresearch Huge variation in perceived access by town &amp; many other factors:  
+urbandata	716005776683360256	2016-04-01T20:54:14	nmcinroy Yet, inequality is arguably even worse in regions that lack strong revival/gentrification of an urban core.
+urbandata	716002536671588352	2016-04-01T20:41:22	Another sign that we've moved from gentrification to aristocratization. WSJRealEstate notAprilFools inequality 
+urbandata	715990039998685186	2016-04-01T19:51:42	How Hospitals Can Help Heal Communities: sffed  CPlan phealth c icicorg
+urbandata	715976332417568770	2016-04-01T18:57:14	"The experiences of countries imposing austerity and those pursuing stimulus could not be more divergent." wkdev 
+urbandata	715939606248579072	2016-04-01T16:31:18	'Who is really moving back into American cities?'  
+urbandata	715903349804175362	2016-04-01T14:07:14	"People aren't urbanizing. Wealth is." Urban revival,for the rich:  cplan inequality APA16 
+urbandata	715898518024691713	2016-04-01T13:48:02	Job creation wherewelive 
+urbandata	714809171313614848	2016-03-29T13:39:21	Poverty's effects are profound &amp; far-reaching, according to ctdata's 'Well-Being Survey' -  
+urbandata	715881029865758721	2016-04-01T12:38:32	NASCAR announces 20splenty traffic safety campaign to curb rising urban crash deaths  20MPH APA16 20splentyforus
+urbandata	715876283423522816	2016-04-01T12:19:40	The places we love can't be served by cars - because cars can't possibly deliver enough people there.  APA16 cplan 
+urbandata	715749109118935040	2016-04-01T03:54:20	Plus B_Ehrenreich said just_shelter's Evicted sets "a new standard for reporting on poverty" urbandata bbabbo1 
+urbandata	715656150381944832	2016-03-31T21:44:57	A thoughtful &amp; measured take on just_shelter's Evicted today in thenation by journalist &amp; sociologist EyalPress. 
+urbandata	715748037881106432	2016-04-01T03:50:04	donchennyc bbabbo1 rebeccavallas GregKaufmann Encouraged by good recent NPR coverage of evicted by just_shelter
+urbandata	715714072369606658	2016-04-01T01:35:06	.kimmelman, this is a beautiful tribute to Zaha Hadid. Thank you. 
+urbandata	715609920951943168	2016-03-31T18:41:15	This is a serious issue. 
+urbandata	714810563281436672	2016-03-29T13:44:53	Trust in government is one of the keys to wellbeing.  wherewelive 
+urbandata	715605653092507650	2016-03-31T18:24:17	ChrysH thehappycity Because the wealthy have become segregated into exclusive neighborhoods that are richer and more prosperous than ever.
+urbandata	715174037333413889	2016-03-30T13:49:12	My cover story on environmental racism in Detroit is OUT. Folks, Flint is the tip of the iceberg. 
+urbandata	714834759982182401	2016-03-29T15:21:02	When open data is a Trojan Horse: new article by D&amp;S fellow karen_ec_levy and davidmjohns -- 
+urbandata	715507806670073857	2016-03-31T11:55:29	Lower-income Americans can no longer afford to feed &amp; house themselves   inequality 
+urbandata	715506516967563265	2016-03-31T11:50:21	In 2015, the wage gap between middle-income men &amp; those in the top 5% exploded:  inequality 
+urbandata	714810334960291840	2016-03-29T13:43:59	Survey: Poverty's Effects In Connecticut Are Far-Reaching. Take a look at this amazing hartfordcourant data tool!  
+urbandata	715245668617621506	2016-03-30T18:33:50	NYC is 400 years old. In the new model, "its chances of surviving another 400 years appear to be remote."  COP21
+urbandata	714506575356891136	2016-03-28T17:36:57	Trends in both demographics and preference mean discussion of urban housing choices has only begun. 
+urbandata	715179207979057152	2016-03-30T14:09:45	.NY1 on the Bronx Boom: The Housing Market in the City's Fastest Growing Borough is Heating Up:  h/t urbandata
+urbandata	715177607113936896	2016-03-30T14:03:23	The picture of college from the MSM is not what college is for most American students.  
+urbandata	714979798842478592	2016-03-30T00:57:22	"The new tunnel for walking &amp; cycling under Amsterdam train station is now open." BicycleDutch  urbanism cplan
+urbandata	714915757029769216	2016-03-29T20:42:53	$335K median housing price in the once-desolate, destroyed Bronx neighborhoods visited by President Carter in 1977 
+urbandata	714913380759441408	2016-03-29T20:33:27	QOL critical to inclusivegrowth. "the news is gratifying &amp; encouraging" - NHV Dir of Communications for MayorHarp 
+urbandata	714878805328834560	2016-03-29T18:16:03	urbandata supportivehousing is part of solution for these vulnerable youth see cshinfo report on westendresnyc 
+urbandata	714876732793294849	2016-03-29T18:07:49	Importance of inclusivegrowth: The lifetime taxpayer "cost" for each disconnected 16-24 year old = $750,000. National burden = $5 trillion.
+urbandata	714874992492675072	2016-03-29T18:00:54	"Since 1990, incomes have dropped for 3/4 of NYC's households" - BilldeBlasio at 4thplan (2014) on issue of inclusivegrowth &amp; inequality
+urbandata	714873029768179714	2016-03-29T17:53:06	"People react negatively to density of cars, not density of people." - MayorHodges on why good transit is essential to inclusivegrowth.
+urbandata	714847730426843136	2016-03-29T16:12:34	Imagine what would happen if we bombarded poor communities with connectivity instead of surveillance and brutality 
+urbandata	714787162395451392	2016-03-29T12:11:54	The Entire Online "Gig Economy" Might Be Mostly Uber  wkdev gigeconomy nptech v NormaPadron_
+urbandata	714783155950133249	2016-03-29T11:55:59	Excavating CentralPark creates 100 skyscrapers w/out requiring any new land  archi cplan 
+urbandata	714132246798553088	2016-03-27T16:49:30	Let's get more data on happiness for an accurate measure of success. 
+urbandata	714462136169209856	2016-03-28T14:40:21	quality of life of living in a parking lot next to few services seems extremely low. 
+urbandata	714556707590971392	2016-03-28T20:56:09	CrespoEc CBIANews sarabronin wherewelive Policies that dont prioritize the revival of CT's 2-3 legit urban centers will push talent away
+urbandata	714551718399361024	2016-03-28T20:36:20	Detroit is the canary in the US coal mine of inequality.  
+urbandata	714505943006875648	2016-03-28T17:34:26	iddqkfa Could be. It seems to me those things would enable even more rapid urban growth, e.g., replacing roads/parking/offices w/housing.
+urbandata	714501732277989376	2016-03-28T17:17:42	There'll be more 25-34y/o Millennials every year thru 2024; rapid US urbanization will continue beyond that.  cplan
+urbandata	714412671530045440	2016-03-28T11:23:48	From yesterday's front-page feature on the DataHaven Community Wellbeing Survey:  phealth 
+urbandata	714124295794999296	2016-03-27T16:17:54	Largest n'hood-level wellbeing survey in USA is on front page of today's hartfordcourant: DataHaven(ctdata)  nnip
+urbandata	713747388658266114	2016-03-26T15:20:12	In Sweden "roads are built with safety prioritized over speed or convenience." What a concept...  VisionZero 
+urbandata	714079128534794241	2016-03-27T13:18:25	Survey: Poverty's effects in Connecticut are far-reaching.  
+urbandata	713777473759100928	2016-03-26T17:19:45	Lots of young families moving from NYC to urban sections of nearby metro areas like NHV &amp; Philly right now, too. 
+urbandata	713754642874654720	2016-03-26T15:49:02	...an oldie but goodie... 
+urbandata	713730207514030081	2016-03-26T14:11:56	Growing Up in a Bad Neighborhood Does More Harm Than We Thought, via nytimes cc urbandata 
+urbandata	713400975168409600	2016-03-25T16:23:41	Point of this article equally valid for cities like KCMO that contain urban, 1st, 2nd ring suburban and exurban. 
+urbandata	713462140900868098	2016-03-25T20:26:44	CT state tax burden by household income decile: 2014 report  ctleg ctbudget 
+urbandata	713440719093035009	2016-03-25T19:01:37	No. MT StantecUrban: AffordableHousing above parking lots,next to highway exchanges  cplan 
+urbandata	713249470972977156	2016-03-25T06:21:40	Uber is now offering coding questions to potential candidates while you're in an uber. How did they know I code? 
+urbandata	713423013606268928	2016-03-25T17:51:15	mkramer bedarf TKleykamp waldojaquith Data "Creators" &amp; Providers have responsibilities related to stewardship &amp; use. Owners might not.
+urbandata	713397236487569408	2016-03-25T16:08:50	"County data is great, but can't tell us much about urban living" (AKA, ignore many of yesterday's headlines)  CPlan
+urbandata	713394782635212800	2016-03-25T15:59:05	ASlavitt dewright_ca Slide 6-7 appear to show costs, not individual consumer expenses. And on #8- do "premiums" include all cons expenses?
+urbandata	712801657042632705	2016-03-24T00:42:12	Three cheers for real-life interactions! 
+urbandata	713362498167128065	2016-03-25T13:50:47	benberkowitz carolinetanbee Happiness and perceived responsiveness of local government, by income level 
+urbandata	713359660191989760	2016-03-25T13:39:31	"Location has a critical role to play in enhancing all city services."  GoldsmithOnGov
+urbandata	695268094546153472	2016-02-04T15:30:05	This is brilliant!!! marty_walsh bospoli TransportationWoes! bostonbikeunion 
+urbandata	713354905168322560	2016-03-25T13:20:37	CTVoices dlthomasCT Why consider only the burden of commuters, &amp; not also the burden of other infrastructure users like hospital visitors?
+urbandata	713108784785305601	2016-03-24T21:02:37	NYC pop. @ all-time high! &gt; 8.5M  w/ QNS, BK + BX =  84% of growth. Keeping @ pace w/ housing &amp; infrastructure across 5 boroughs is a must
+urbandata	713105307103334400	2016-03-24T20:48:48	ACA: uninsured rate under 10% and beating budget by 25%. In private sector we called that a home run. 
+urbandata	712743624996421633	2016-03-23T20:51:36	I'm sure this is just a coincidence. 
+urbandata	713094039340523520	2016-03-24T20:04:02	Issue in Fairfield wasn't taxes, it was this:  Too many deer, not enough 29y/o MIT grads, walking by. - Head of GE 
+urbandata	713084527950897154	2016-03-24T19:26:14	"New ideas must use old buildings." Here's the site of GE's new Boston HQ  CPlan econdev 
+urbandata	713027805680967680	2016-03-24T15:40:50	.yfreemark Suburban decline vs urban growth often true, but cities performing differently. And sub-city areas, too: 
+urbandata	711999208165744640	2016-03-21T19:33:34	"What are your real intentions with our country?"  Cubans weigh in on Obama's historic visit to Cuba. 
+urbandata	712732675753320448	2016-03-23T20:08:06	2 research positions open with our NNIP partner ctdata in New Haven: Research Associate &amp; Survey Research Mgr. See 
+urbandata	712969654512189440	2016-03-24T11:49:46	.uscensusbureau: "Four Texas metro areas together added more people last year than any state.." 
+urbandata	712961243888361473	2016-03-24T11:16:21	"3 million fewer children have been born than would have been if US pre-recession birth rate had held steady"  cplan
+urbandata	712805554914066432	2016-03-24T00:57:42	brandie_moreno 
+urbandata	712797179493105664	2016-03-24T00:24:25	"10 to 15 years from now, the need for a parking garage as a building type will be eliminated." CPlan take note. 
+urbandata	712737652177506304	2016-03-23T20:27:52	SCOTUS gutted the VotingRightsAct, so Arizona got rid of polling places in Latino n'hoods  
+urbandata	712695082160414720	2016-03-23T17:38:43	1921: Aerial bombing &amp; destruction of "Black Wall Street"  1934-now: Redlining whitenesshistorymonth racialequity 
+urbandata	712683527146446852	2016-03-23T16:52:48	"The first black president showed a black person can lead." ObamaCubaVisit highlights racism in Cuba  racialequity
+urbandata	712455640438984704	2016-03-23T01:47:16	Toddlers with guns kill more Americans than ISIS. tedcruz, will you call for patrols of all toddler neighborhoods? 
+urbandata	712615853683056640	2016-03-23T12:23:53	Terrorist attacks in Western Europe: Trend phealth Brussels v MaximEristavi 
+urbandata	712600577503432704	2016-03-23T11:23:11	Wellbeing levels by occupation: New UK data WhatWorksWB  wkdev hesm happyday ctdata 
+urbandata	712415500123422720	2016-03-22T23:07:45	Public disinvestment in transportation has figured greatly in racial &amp; economic inequality in Baltimore:  cplan
+urbandata	712371919513849856	2016-03-22T20:14:35	Good list, but missing my pick: .familyunequal Here Are 15 Indispensable Academic Twitter Accounts  via .chronicle
+urbandata	712360772387659777	2016-03-22T19:30:17	Prelim eval of Berkeley SodaTax shows it's working as intended:  New research via phidotorg
+urbandata	712376875356712960	2016-03-22T20:34:17	newyorkyimby And soon to be taller than the Eiffel Tower! ateliersjnouvel
+urbandata	712371704849420288	2016-03-22T20:13:44	City Council passes MIH and ZQA, thanks to collaboration bet NYCHousing NYCPlanning BilldeBlasio  NYCCouncil
+urbandata	712368286961283072	2016-03-22T20:00:09	Adults ages 18 to 34 make up 39.4% of Boston's population, up from 25.6% in 1960. 
+urbandata	712366609936093184	2016-03-22T19:53:29	streuhaft inclusionist NextCityOrg Social privileges exist for those who were able to obtain degrees, etc. also: 
+urbandata	712363903351693313	2016-03-22T19:42:44	Talking about "opportunity" is a way to either blame to victim, or to change the subject being discussed inequality 
+urbandata	712305843190915073	2016-03-22T15:52:01	Arizona epitomizes the “cultural generation gap” at the root of the presidential campaign  
+urbandata	712264869094019073	2016-03-22T13:09:12	What will reduce congestion more: "smart intersections" or smart land use &amp; transpo policy? cplan v Bici_Solidaria 
+urbandata	712030604796235778	2016-03-21T21:38:19	Death by gentrification: the killing that shamed San Francisco  urbandata ananyaUCLA SVRising thx MarlonJames5
+urbandata	711561119769436160	2016-03-20T14:32:45	So many missed opportunities goNHgo NewHavenDOT 
+urbandata	711560289171410944	2016-03-20T14:29:27	The health impacts of poverty &amp; automobile dependency: CHRankings phealth cplan healthrankings 
+urbandata	711554925310902273	2016-03-20T14:08:08	.ctdata "Every 10 mins of commuting results in 10% fewer social connections"  InternationalDayOfHappiness happyday
+urbandata	711553121454047236	2016-03-20T14:00:58	.ctdata "For singles, exchanging long commute for a short walk has same effect on happiness as finding a new love" 
+urbandata	711545490421227520	2016-03-20T13:30:39	Happy WorldHappinessDay! More on USA's largest neighborhood-level happiness &amp; well-being survey:  happyday nnip
+urbandata	711364814757474304	2016-03-20T01:32:43	And Michigan. 
+urbandata	711354805244063744	2016-03-20T00:52:56	Austerity kills. US reporters must focus on how the "red-state model" decimated KS &amp; LA, not just on Trump's gaffes 
+urbandata	711263053971640320	2016-03-19T18:48:21	Trump's deportation plan costs $400B, needs a 350,000-person prison, cuts GDP by 6%  MakeAmericaHateAgain dumptrump
+urbandata	711215375224954880	2016-03-19T15:38:53	urbandata ananyaUCLA 
+urbandata	711010142867873792	2016-03-19T02:03:22	Great stuff: Philadelphia ramps up problem-based procurement  civictech  CitymartTeam 
+urbandata	710910745664364544	2016-03-18T19:28:24	WestHartford Town profile   N'hoods:  Survey:  
+urbandata	710947837274660865	2016-03-18T21:55:47	owashb DanielKayHertz Simlr trend in most-distressed areas of NE cities; but in some cases they've been replaced by working-age immigrants
+urbandata	710946236380135424	2016-03-18T21:49:26	.matthewnemerson This has definitely shifted since 1980, but CT is generally still optimistic (esp. immigrants) 
+urbandata	710926835245314049	2016-03-18T20:32:20	Concentrated affluence is just as important to understand as concentrated poverty: DataHaven(ctdata)  UAA2016 nnip
+urbandata	710921466238226432	2016-03-18T20:11:00	These folks came out yesterday to support a new 3-mile-long protected cycle track in NHV. Thank you! v J.Robinson 
+urbandata	710619279348072448	2016-03-18T00:10:13	In the social sector, who will pay for data?  philanthropy nptech nnip
+urbandata	710874110922989570	2016-03-18T17:02:50	repulsive anywhere—let alone in AL, which has no transit rail or fast bus routes. explore:  
+urbandata	710867578256625664	2016-03-18T16:36:52	tewhalen DanielKayHertz Perc'd disadvantage cuts across all groups&amp; is  very durable, even after imprvmts citywide 
+urbandata	710842911106199552	2016-03-18T14:58:51	Since 1983, 99% of population growth in US local jails was due to the detention of legally innocent people CJreform 
+urbandata	710832688492519424	2016-03-18T14:18:14	MaraLeeCourant Very interesting
+urbandata	710830557651841025	2016-03-18T14:09:46	GOP bill "disqualifies people from getting food stamps or assistance for families w/kids if the recipients own cars" 
+urbandata	710801619051536384	2016-03-18T12:14:46	"Minority job applicants who resort to 'resume whitening' are more than twice as likely to receive callback"  racism
+urbandata	710564803572531201	2016-03-17T20:33:45	"Zipcodes impact human outcome probability"-R. Jones @ UAA2016  inequalityis v meganehatch 
+urbandata	679746823850860545	2015-12-23T19:34:06	Use our JailTrends tool to see how local jail incarceration has changed in your county:  
+urbandata	710491231852298240	2016-03-17T15:41:24	And people should be housed not only because it costs third parties less but for their own sakes. 
+urbandata	710446046095126529	2016-03-17T12:41:51	"Demolition by neglect is now our maintenance policy" 
+urbandata	710441116429127680	2016-03-17T12:22:16	DCMetroShutdown FlintWaterCrisis due to "neglect that comes of a deeper social &amp; political dysfunction"  wmata
+urbandata	710433352143077376	2016-03-17T11:51:25	Summary of new  HappinessRpt 2016 update  &amp; UK findings @UNDOHappiness CEP_LSE UN  
+urbandata	710205981339291648	2016-03-16T20:47:55	.JakeAnbinder In short, county-level HealthRankings are more relevant in some states than others inequality nnip 
+urbandata	710200732939452417	2016-03-16T20:27:04	65% of adults say closing their local library would have a major impact on their community  
+urbandata	710199462552084480	2016-03-16T20:22:01	McConnell refused to speak with MerrickGarland in person, gave him a quick phone call to "wish him well"  SCOTUSnom
+urbandata	710198526769283072	2016-03-16T20:18:18	JakeAnbinder essentially same spread as CT on ZIP ratios, rel to state median. Tops out slightly higher ~320% b/c state median is lower.
+urbandata	710196747717447680	2016-03-16T20:11:14	JakeAnbinder By comparison: Income ratio range of 57% (Bronx) to 167% (Nassau) among all counties in NY State. That's much more relevant.
+urbandata	710195641725673472	2016-03-16T20:06:50	JakeAnbinder Answer #2: Counties are sometimes more relevant in other states (e.g., Bronx); they have very little relevance in CT.
+urbandata	710194778080731136	2016-03-16T20:03:24	JakeAnbinder That could be fairly easily calculated using the Distressed Communities Index.
+urbandata	710194214496309248	2016-03-16T20:01:10	.urbandata In CT, median income (as % state) ranges by county from 82% to 121%. It ranges by zipcode from 16% to 298% HealthRankings nnip
+urbandata	710152465744863232	2016-03-16T17:15:16	‘We’re making enforcement sexy’ - it’s time to scale &amp; opensource protecting workers. How can SeeClickFix help us do that? civictech
+urbandata	709133466856767490	2016-03-13T21:46:08	The most sensible solution isn't cars driving faster and farther. It's better land use.  
+urbandata	710115920648212480	2016-03-16T14:50:03	.urbandata And "child-friendly" perceptions range by county from 62% to 81%. But they range by town from 35% to 95%. HealthRankings nnip
+urbandata	710115082819268608	2016-03-16T14:46:43	In CT, food insecurity rate ranges by county from 9% to 15%. It ranges by town from 3% to 30%  HealthRankings nnip
+urbandata	710099206632054784	2016-03-16T13:43:38	UK will introduce a sodatax to prevent deadly chronic diseases. A victory for publichealth advocates. phealth 
+urbandata	710089050930221056	2016-03-16T13:03:17	"we soon face deficits so big that even eliminating our entire police &amp; fire depts wouldn't close the gap"  Hartford
+urbandata	710068697151352832	2016-03-16T11:42:24	The last time a president's Supreme Court nominee was denied a vote?   1875.   SCOTUS 
+urbandata	710066100780802048	2016-03-16T11:32:05	.CHRankings In CT, differences by ZIP codes are &gt;10X larger than any differences by County.  HealthRankings nnip
+urbandata	709866290995924992	2016-03-15T22:18:07	.MinnPostRSS "Retention"is completely different from "growth" &amp; City-suburb differences exceed differences by metro 
+urbandata	709856257948180480	2016-03-15T21:38:15	Housing = vaccine says megansandel 
+urbandata	709841151050645504	2016-03-15T20:38:13	DCMetro will be shut down for 29 hours for inspections (Sidebar: 10 largest US transit agencies face $100B+ in deferred maintenance) wmata
+urbandata	709818326118223872	2016-03-15T19:07:31	Adequate housing would reduce health care costs: NLIHC  CPlan phealth affordablehousing 
+urbandata	709803513153527809	2016-03-15T18:08:39	jacobhryan CityResearch Retention is very different from attraction and retention. Note position of Detroit. 
+urbandata	709802784791597056	2016-03-15T18:05:46	"There is no reason to hold buses to much lower standards than those for other forms of transport."  phealth USDOT
+urbandata	709802593854361602	2016-03-15T18:05:00	Connecting Race and Ridership: Cyclists Fight for More Visibility on the Road wnpr  CPlan 
+urbandata	709780625910341632	2016-03-15T16:37:42	Richard_Florida Detroit really #1 at retention? Also considering overall growth, maybe not: 
+urbandata	709157311005200384	2016-03-13T23:20:53	Dibujode Karl Jilg captura perfectamente lo que se siente al caminar en la mayoría de ciudades esp. niños pequeños  
+urbandata	709532379388514304	2016-03-15T00:11:16	JeffKlaus28 To stay out of the market, we could start by fixing this situation: 
+urbandata	709502498097250304	2016-03-14T22:12:32	sfcta DavidCamposSF MaliaCohen Bernalwood Only possible improvement there is to rip out the highways entirely. They aren't needed.
+urbandata	709407926356721664	2016-03-14T15:56:44	penguinest jowyang Not really. 1 minute of walking = 1 additional minute of life expectancy. Driving is opposite.
+urbandata	709368028190908416	2016-03-14T13:18:11	grescoe Kaid_in_DC True. There's a balance in some "streetcar suburbs" &amp; older towns- smaller yards+large public spaces, but high density.
+urbandata	705747582031683585	2016-03-04T13:31:50	In 2012 according to WHO, life expectancy in Cuba &amp; the US was the same—79—but Cuba spent 1/25 of what the U.S. did 
+urbandata	709358852223967236	2016-03-14T12:41:44	Discuss walking &amp; biking options in low-income communities. Join MoveEquity tweetchat on 3/16 1pm EST. urbandata 
+urbandata	709354034621075456	2016-03-14T12:22:35	How to fix food deserts: jerry_shannon studies residents' shopping habits &amp; perceptions LSEUSAblog  phealth cplan
+urbandata	709120046405132288	2016-03-13T20:52:48	Karl Jilg's cartoon perfectly captures what it feels like to walk in most US cities, esp. w/ young children. cplan 
+urbandata	709117828260044812	2016-03-13T20:43:59	"Growing up, the whole city was like a big playground for children to play in." carfree Dubrovnik resident  cplan
+urbandata	709114975214817281	2016-03-13T20:32:39	Every day, the US economy wastes 162 entire lifetimes on commuting.  cplan sxsw SXSW2016 v jowyang 
+urbandata	709097825267752963	2016-03-13T19:24:30	"Privacy is now a luxury good." Rich can afford to protect their personal data, poor can not. JuliaAngwin @ sxsw dataethics inequality
+urbandata	709034760421679105	2016-03-13T15:13:54	This is why neighborhood-level collection &amp; engaged use of data a la NNIPHQ is critical. NNIP SXSW CITIESatSX 
+urbandata	709031701268307969	2016-03-13T15:01:45	New whitehouse opendata Opportunity Project focuses on data literacy+use, not app &amp; data dumps:  nnip v digiphile
+urbandata	709030309405315072	2016-03-13T14:56:13	Real-time fact-checking prototype:  civichealth v digiphile 
+urbandata	708846830340022272	2016-03-13T02:47:08	In case you missed yesterday's talk, here's a government open data tipsheet for journalists:  NICAR16 icanhazcsv
+urbandata	708695165414854656	2016-03-12T16:44:29	Well this explains things... 
+urbandata	708410235438895104	2016-03-11T21:52:16	"News is what someone wants suppressed. Everything else is advertising." NICAR16 infotainment
+urbandata	708395521015226368	2016-03-11T20:53:48	List of great RStats packages for data wrangling &amp; visualization: sharon000  NICAR16 nnip 
+urbandata	708382983238119424	2016-03-11T20:03:58	This image basically describes every post-war, suburban public park in the United States. cplan 
+urbandata	708382541485621250	2016-03-11T20:02:13	Baseline Household Projections for the Next Decade &amp; Beyond (PDF): Dan_McCue Harvard_JCHS  CPlan demographics
+urbandata	708382044225716225	2016-03-11T20:00:15	CenterPovIneq Are there really problems w/it,other than rising cost? [Granted,there's little $ incntve for media polls to care abt quality]
+urbandata	708359027458220032	2016-03-11T18:28:47	Should you hate daylight saving time? AnaSwanson  DaylightSavingTime phealth 
+urbandata	708266771615186944	2016-03-11T12:22:11	The "little" of visualization design: Series visualisingdata  NICAR16 nnip v lenagroeger 
+urbandata	708305087970549760	2016-03-11T14:54:27	The old suburban office park is dying or dead. Millennials won’t work there. They won’t drive to Chili’s for lunch. urbanretail cbenola
+urbandata	708303862831173632	2016-03-11T14:49:35	.swinshi JustinWolfers nick_bunker  Relative vs Absolute inequality is important. And for men, or for women. 
+urbandata	708280139289862144	2016-03-11T13:15:19	Rules for visual storytelling (2016 edition), by archietse at malofiej24  c NICAR16 nnip ctdata v brianboyer 
+urbandata	708276895159336960	2016-03-11T13:02:25	How to investigate &amp; report on student debt at area colleges:  ddj NICAR16 HESM 
+urbandata	708116460141305856	2016-03-11T02:24:54	"Big data means anyone can find fake statistical relationships" -D Smallman. Numbers grow faster than info. NICAR16 
+urbandata	708059830813069312	2016-03-10T22:39:53	The acceleration of US inequality: 2015 saw the largest-ever growth in male wage inequality  
+urbandata	708014371356676097	2016-03-10T19:39:15	Millennials, Not Baby Boomers, Are Driving the Recent Surge in Apartment Demand  CPlan nnip 
+urbandata	708009338548457472	2016-03-10T19:19:15	treating everyone exactly equally is not always the same thing as giving everyone a fair shot at success equity 
+urbandata	707948804197244929	2016-03-10T15:18:42	.JSadikKhan: 10K more people died this year than last yr in traffic deaths = public health crisis VisionZero VisionZero2016
+urbandata	707949492704772097	2016-03-10T15:21:26	Increasing the minimumwage works. 
+urbandata	707941306027384832	2016-03-10T14:48:54	2015 surge in wage inequality. Not the part of the pre-recession economy we wanted back.  
+urbandata	707734110639398912	2016-03-10T01:05:35	The bike wars are over, and the bikes won: JSadikKhan  CPlan urbandesign bikenyc 
+urbandata	707715935789031424	2016-03-09T23:53:22	"Googling Is Believing: Trumping the Informed Citizen." New Plural_truth  civichealth nnip transparency
+urbandata	707658741466976256	2016-03-09T20:06:06	What happened in Baltimore &amp; what can we do? A neighborhoods' perspective: seemadiyer  nnip cplan nniphq
+urbandata	707323203920732160	2016-03-08T21:52:47	12 new opendata tools that push social mobility "from information to action."  NNIP ctdata 
+urbandata	707311163789484032	2016-03-08T21:04:57	Potential cuts are coming to economic questions in one of the nation's major health surveys:  
+urbandata	707305117121449984	2016-03-08T20:40:55	doughausladen ejfbruins TamikaButler CT:  Yes, some high crash areas are also "disproportionately policed" areas.
+urbandata	707283379809599488	2016-03-08T19:14:33	How to modify poverty calculations for college towns:  CPlan hesm NNIP uscensusbureau v allthingscensus
+urbandata	707278062270939139	2016-03-08T18:53:25	.urbandata 1,959 minutes of airtime were devoted to opposing a measure [placing some limits on Airbnb]. In support: 16 minutes inequality
+urbandata	707277533692174336	2016-03-08T18:51:19	"All the renters I know are living in fear," said Tynan-Connolly, a SF high school teacher  affordablehousing cplan
+urbandata	707267364052738048	2016-03-08T18:10:54	leahbink Congratulations!!! cc NNIPHQ nnip
+urbandata	707235263442001921	2016-03-08T16:03:21	6% of CT adults ran out of $$$ for housing. These adults were 4X more likely to report being attacked or threatened. 
+urbandata	707231889678016512	2016-03-08T15:49:56	Wall Street 2015 bonuses were 2X the combined earnings of all full-time minimumwage workers  
+urbandata	707224957407911936	2016-03-08T15:22:24	Can transit agencies &amp; TNCs like Uber seamlessly work together to maximize social benefit? brookingsmetro  CPlan
+urbandata	707051971199541250	2016-03-08T03:55:00	hughsbailey connpost Nice article!
+urbandata	707019202033389570	2016-03-08T01:44:48	Fundamental problem of engineering standards: they can not match the changing needs of society. 
+urbandata	707021186237132800	2016-03-08T01:52:41	crojasphd policylink ananyaUCLA We're looking at DCI &amp;  data by ZIP,race,$. They matter, jointly &amp; independently.
+urbandata	707010202206392320	2016-03-08T01:09:02	On Race and Place, via nytimes policylink urbandata ananyaUCLA 
+urbandata	706899874072154113	2016-03-07T17:50:38	NYC Is Example to Cities Nationwide on How to Deal with Financial Crises, Thanks to deBlasio  urbandata nycfuture
+urbandata	706968989763768321	2016-03-07T22:25:16	NYT: Bloomberg won't run. Also, Trump is "bleeding support w/ general election voters" after failing to disavow KKK 
+urbandata	706954641825730560	2016-03-07T21:28:15	Place matters: Perception of age-friendliness varies wildly by ZIP code  nnip inequalityis 
+urbandata	706951614742061056	2016-03-07T21:16:14	ryanlcooper CharlesMBlow familyunequal Composition of the Top 1% by race 
+urbandata	706946130563702784	2016-03-07T20:54:26	Trump will be on November ballot if he keep getting 3% of registered voters to vote for him  
+urbandata	706545788621627392	2016-03-06T18:23:37	Drone video shows progress on AppleSupport's new $5,000,000,000 office sprawl park:  cplan 
+urbandata	706541240884584449	2016-03-06T18:05:33	Why Millennials are staying away from homeownership despite an improving economy:  demographics affordablehousing
+urbandata	695656953096335364	2016-02-05T17:15:16	Transit investment is key to future economic equality and success in NYC 
+urbandata	705843346007269380	2016-03-04T19:52:22	During FlintWaterCrisis, child lead poisoning spiked to 7%. Rate=40% in some Cleveland n'hoods  InequalityIs sdoh
+urbandata	705837718329298944	2016-03-04T19:30:00	.urbandata bacigalupe 1998
+urbandata	705837273766600705	2016-03-04T19:28:14	"Why could not the Left channel the rage of the newly dispossessed?" - Rorty, 1988, on the coming Fascist takeover 
+urbandata	705771580455051264	2016-03-04T15:07:12	More money, less work - with one big exception: wef  wellbeing phealth v RoxSlavcheva 
+urbandata	705769722260942850	2016-03-04T14:59:49	Houston is a sitting duck, w/thousands at grave risk. Explore storm simulations &amp; solutions  HellorHighwater cplan
+urbandata	705763500682047488	2016-03-04T14:35:05	Top states in USA for K12 education: 1) CT 2) NJ 3) MA. At bottom: OK, WA, ID, AZ, OR, NV.  
+urbandata	705558903334047745	2016-03-04T01:02:05	Massive ocean barrier is only solution. You can't evacuate 1 million people safely. Houston highwater 
+urbandata	705459013278900224	2016-03-03T18:25:10	Having kids @ home makes you much more likely to postpone healthcare b/c"too busy w/work or other commitments"  sdoh
+urbandata	705428602700099584	2016-03-03T16:24:19	jkjenkinney Hartford always tops lists of items that conc in downtowns, b/c its core muni boundary is smallest in US,relative to metro size
+urbandata	705427585728061440	2016-03-03T16:20:17	jkjenkinney Keep in mind that type of comparison is like comparing a watermelon seed to a watermelon 
+urbandata	705028865194725376	2016-03-02T13:55:54	Great tips for telling stories with data from AnnKEmery cc NTENorg urbandata 
+urbandata	705422150577090560	2016-03-03T15:58:41	When it comes to equitable, financially-sustainable access to the economy, Paris is leapfrogging US cities. cplan 
+urbandata	705397012687093761	2016-03-03T14:18:48	neenareports wherewelive Sounds like a fantastic program! Houston
+urbandata	704893426106552321	2016-03-02T04:57:43	"It's usually hard to measure White behavior, which makes GOPPrimary perfect"  SuperTuesday 
+urbandata	704805589713608704	2016-03-01T23:08:41	"the gross happiness gap by  income was about 30 percent bigger in 2012 than it was  in the 1970s" 
+urbandata	704805393164185600	2016-03-01T23:07:55	USA: Affluent are as happy as ever; average &amp; below are significantly less happy than they used to be.  InequalityIs
+urbandata	704734162033451009	2016-03-01T18:24:52	Trump is a symptom. The rise of American authoritarianism  via voxdotcom
+urbandata	704732083105767424	2016-03-01T18:16:36	How can NYS provide health insurance to its uninsured immigrant residents? hcfany MaketheRoadNY empirejustice 
+urbandata	702536510273396736	2016-02-24T16:52:11	Fed housing finance rules don't support mixed-use, multi-family dev &amp; reinforce poverty concentration, study finds 
+urbandata	704022550507098114	2016-02-28T19:17:10	America's first black president cannot and will not be succeeded by a hatemonger who refuses to condemn the KKK.
+urbandata	703984217974177792	2016-02-28T16:44:51	'The jobs themselves are no longer on these central places but they're now driving a long way' urbandata on VP 
+urbandata	703984873128615936	2016-02-28T16:47:27	People are living 7-10 years longer than they are able to drive these days. Need to be AgeFriendly TransformNHV 
+urbandata	703694398194917376	2016-02-27T21:33:13	"The problem is not suburban sprawl, it's job sprawl" VP 2/18/16 on maddow  cplan spatialmismatch c JakeAnbinder
+urbandata	703317654245867520	2016-02-26T20:36:10	.urbandata The 503 people who control US power &amp; culture are slightly less diverse than the GOP:  racialequity
+urbandata	698276754989916160	2016-02-12T22:45:26	The gap is widening - we need to build the evidence to develop strategies that will work to improve well-being 
+urbandata	703298141534167040	2016-02-26T19:18:38	Many older adults want to "age in place," in a walkable city, but are stranded in suburbs  CPlan affordablehousing
+urbandata	703279718250876928	2016-02-26T18:05:25	"Foreign-born people,including undocumented,are less likely to commit crime thn native-born"  
+urbandata	703272201261228032	2016-02-26T17:35:33	policeimpunity on front page latimes 
+urbandata	703271087920951296	2016-02-26T17:31:08	Unemployment rates among US men age 25-54, if you counted prisoners:  racialequity cjreform 
+urbandata	703265955321872384	2016-02-26T17:10:44	How to reduce crime: Don't charge children as adults nytimes  CJreform phealth ctpolitics 
+urbandata	703261513327443968	2016-02-26T16:53:05	Michigan city has USA's largest public  system to melt snow on sidewalks   who_urbanhealth cplan v peoplestamford
+urbandata	703242939686903808	2016-02-26T15:39:17	JakeAnbinder has anyone compiled everything VP has said about spatialmismatch?
+urbandata	703203823075106816	2016-02-26T13:03:50	NeilKleiman Look fwd to using as we build USA's largest state, city &amp; n'hood-level health &amp; wellbeing dataset  nnip
+urbandata	700431485069819908	2016-02-18T21:27:34	RT MelvilleTrust: CT ends veterans homelessness.  Deborah De Santis of CSHInfo tells us HOW: 
+urbandata	703050025744646144	2016-02-26T02:52:42	"Obamacare is going to destroy our economy completely." -Trump at GOPDebate  Reality, via ddiamond phealth 
+urbandata	703046389098532864	2016-02-26T02:38:15	Nevada has 800,000 Hispanics. Trump received less than 3,000 Hispanic votes there.  gopdebate NVcaucus
+urbandata	703041919937617921	2016-02-26T02:20:30	Rubio: "We are the party of diversity."  Actual demographics of the parties:  gopdebate 
+urbandata	703001575023910912	2016-02-25T23:40:11	.sunfoundation crowdsources superdelegates that are lobbyists for coal KXL &amp;c. Some info@  
+urbandata	702965378880774144	2016-02-25T21:16:21	New Iowa law will allow toddlers &amp; young children to use pistols, revolvers, and ammunition  guns phealth
+urbandata	702963419926929408	2016-02-25T21:08:34	AbdiAidid ctdata 
+urbandata	702960805864722432	2016-02-25T20:58:11	"People of color don't bike downtown because they fear getting harassed or stopped by the police." - @onebyd42  NHV
+urbandata	702889888060985344	2016-02-25T16:16:23	InequalityIs rising neighborhood-level inequality &amp; disappearing middle-income areas  NNIP 
+urbandata	702913379766132736	2016-02-25T17:49:43	This is great! It's especially helpful for urban planners who make decisions daily! Thanks urbandata 
+urbandata	702872512707891201	2016-02-25T15:07:20	Patrick_J_Sims benj_robinson markmobility Study has various geo levels. The city "rankings" are like comparing pumpkins to pumpkin seeds.
+urbandata	702859581848952832	2016-02-25T14:15:57	Take 1 min. See massive Trump/Rubio/Cruz tax cuts. Staggering how much it helps the rich.  
+urbandata	702869277922213889	2016-02-25T14:54:29	Wow "transportdata: Cutting your commute is equivalent in happiness to a $40,000 per year raise " PeopleHabitat
+urbandata	702838159810412544	2016-02-25T12:50:50	.Wonkblog ninaignaczak _cingraham Nice piece. Long commutes undermine happiness, health,time to enjoy life  cplan
+urbandata	702835821859250176	2016-02-25T12:41:32	markmobility InnovateEconomy Do you really think Newark is more distressed than all the cities in the dark blue areas, like Jackson? No.
+urbandata	702835438084624385	2016-02-25T12:40:01	markmobility InnovateEconomy Good work, but the municipality-level conclusions or "rankings" are not really valid 
+urbandata	702834006736420864	2016-02-25T12:34:19	MimoCT nytimes See 
+urbandata	702833858291568640	2016-02-25T12:33:44	MimoCT nytimes ZIP code data is great, but studies claiming to compare US places on the basis of their municipal boundaries are not valid.
+urbandata	702666529033297920	2016-02-25T01:28:50	JonasMcivitas doughausladen talkofct dpanagore sandypsj Agree - they are usually completely invalid. See 
+urbandata	702664790263668742	2016-02-25T01:21:55	doughausladen talkofct Hartford has highest GDP per capita of any city in the world after Zurich, Oslo, San Jose: 
+urbandata	702652698525618177	2016-02-25T00:33:52	Time to take Universal Basic Income seriously: BrookingsInst  InequalityIs inequality v swinshi
+urbandata	702597733765484546	2016-02-24T20:55:28	Senator ChrisMurphyCT, senatorduff, Norwalk Mayor, DataHaven(ctdata) will headline Sunday transport forum  nnip
+urbandata	701567916278304768	2016-02-22T00:43:20	Viene poster de esto para mi oficina.  
+urbandata	700362331470086144	2016-02-18T16:52:46	Check this out SafeRoutesCLE As part of VisionZero, Germany is legislating 20mph (30Kmh)  
+urbandata	702264390494584832	2016-02-23T22:50:52	from today's MN_MRA lunch: Millennials are the gen that copes. a surprising # live w friends, parents, roomies. 
+urbandata	702220186271793152	2016-02-23T19:55:13	.SecretaryFoxx: "Poverty is pretty expensive, both for the country &amp; for individual people" urbandata pathwaysTo 
+urbandata	702198782704951297	2016-02-23T18:30:10	How transportation &amp; land use problems keep people out of work:   cplan pathwaysto nhv 
+urbandata	702216725945839617	2016-02-23T19:41:28	Striking Charlotte inequality - similar to patterns seen across the USA  pathwaysto CLT 
+urbandata	702196602006585345	2016-02-23T18:21:30	Today at 2PM: PathwaysTo opportunity: Housing, transportation, &amp; social mobility w/ SecretaryCastro  NNIP cplan
+urbandata	701944574168666112	2016-02-23T01:40:02	.ComptrolLembo DataHaven(ctdata) survey shows huge gap in information access  InequalityIs 
+urbandata	701883074326491136	2016-02-22T21:35:39	The homework gap is a problem throughout Connecticut as well. It's time we recognize that Internet is a utility. 
+urbandata	701598880492720129	2016-02-22T02:46:22	Unmarried women = a powerful voting block that tend to "lean left. Way left." voters 
+urbandata	701823399958544387	2016-02-22T17:38:32	"What do Millennials do if they can't find a middle-class apt to move into? They raid lower-income n'hoods."  cplan
+urbandata	701812702478360576	2016-02-22T16:56:01	The smartest, most surprising urban twitter feed out there. Thank you urbandata for the daily neural acupuncture!
+urbandata	701783338965667840	2016-02-22T14:59:21	Data-driven social change programs must engage communities directly: New SSIReview  NNIP NNIPHQ WCGMemorialFund
+urbandata	701757541991092224	2016-02-22T13:16:50	Secure jobs &amp; workforce inclusion would boost health as much as reduced unemployment. phealth wkdev policylink 
+urbandata	701598446587932672	2016-02-22T02:44:39	You can't talk about poverty w/out talking about the US housing crisis:  InequalityIs sdoh 
+urbandata	701594554819022848	2016-02-22T02:29:11	"In 2009, the proportion of American women who were married dropped below 50 percent."  demographics genderequity
+urbandata	701567249216200704	2016-02-22T00:40:41	Cognitive biases that screw up decision making.   via helenbevan meetings phealth 
+urbandata	701551733605056513	2016-02-21T23:39:02	read Econ_Marshall on student debt 
+urbandata	701561757274222593	2016-02-22T00:18:51	rmc031 Econ_Marshall DaniDougPost visually looks like this 
+urbandata	701451450635784194	2016-02-21T17:00:32	Dramatic graphic on police shootings on today's front page.  
+urbandata	701539006656466944	2016-02-21T22:48:27	MimoCT after colleges and SOM, what's the next big transformative "new construction" project? Or is central campus now fully "built out"?
+urbandata	686984595582115840	2016-01-12T18:54:25	North America, we have a problem. walkability walktoschool urban planning fail design motordom suburbs 
+urbandata	701520188819243009	2016-02-21T21:33:41	So megabus MegabusHelp will you pay for these passengers' losses, after your bus exploded? megabus frugaltraveler
+urbandata	700825934840987648	2016-02-19T23:34:58	Creative new AirBnB listing in Chicago  artinstitutechi vangoghbnb 
+urbandata	700775261885759493	2016-02-19T20:13:36	American tipping is rooted in slavery-and it still hurts workers today: FordFoundation  racialequity InequalityIs
+urbandata	700739085107863552	2016-02-19T17:49:51	UK sodatax would save 3.7M people from becoming obese over next 10yrs &amp; reduce healthcare costs by £10m/yr  phealth
+urbandata	700730279346970624	2016-02-19T17:14:52	States are cutting off foodstamps to 500K+ people; 40% lack access to reliable transportation &amp; 13% are caregivers 
+urbandata	700402251735703552	2016-02-18T19:31:24	Thank you GovMalloyOffice for your leadership on ending veteran homelessness, and congrats. 
+urbandata	700474631761764352	2016-02-19T00:19:01	Piketty: Americans are tired of skyrocketing inequality &amp; will bring back their strong tradition of egalitarianism 
+urbandata	700456036663058432	2016-02-18T23:05:07	Study finds that race-biased SchoolDiscipline may be key reason Black students fall behind their peers  TheAtlantic
+urbandata	700406050747498496	2016-02-18T19:46:30	Flint's children and the burden of betrayal  
+urbandata	700367718722088960	2016-02-18T17:14:11	Neighborhood-level student loan delinquency, in NY &amp; CT, via  studentdebt inequality NNIP 
+urbandata	700351109131587588	2016-02-18T16:08:10	# of murders in NYPD40Pct last year = 7. In 2001, that # was 27; in 1990, it was 70:  
+urbandata	700348806882336769	2016-02-18T15:59:02	Germany: 20MPH limits allowed even on major roads, near schools &amp; elderly housing  CPlan VisionZero v mleitnerAIA
+urbandata	700347702241001473	2016-02-18T15:54:38	UnitedWayTC SmartNonprofits Equity, Equality, and Reality:  equityMN cyib16
+urbandata	700336443051249664	2016-02-18T15:09:54	Americans must register if they want to vote. Starting this week, Oregonians have to register not to  civichealth
+urbandata	697264169179942915	2016-02-10T03:41:47	2012 -&gt; 2016 = 17% increase of eligible Latino voters &amp; 16% increase of eligible Asian voters.  
+urbandata	699594378713686016	2016-02-16T14:01:12	New: Neighborhood &amp; town profiles on wellbeing in Hartford NHV &amp; 167 other CT towns  nnip 
+urbandata	699712196738158593	2016-02-16T21:49:22	.JebBush Netherlands. 
+urbandata	699625419046285312	2016-02-16T16:04:32	"a long-standing vacancy would compromise Court's ability to...establish uniform rule of law for the entire country" 
+urbandata	699674205592403969	2016-02-16T19:18:24	The poor are better off when we build more housing for the rich:  CPlan affordablehousing 
+urbandata	699658309507223552	2016-02-16T18:15:14	Micro Moves: Corporate HQs are moving back to cities, but they are "packing light"  econdev 
+urbandata	699654494167105536	2016-02-16T18:00:05	CTVoices McKinsey A more typical way to look at poverty by race/eth: Non-Hispanic White poverty rate was just 6.0% (145,730) in 2010-14.
+urbandata	699652744068599808	2016-02-16T17:53:07	What Planners of the Brooklyn-Queens Streetcar Line Can Learn in New Jersey:  BQX cplan 
+urbandata	699614670760448000	2016-02-16T15:21:50	Apparently an actual wedge issue in the GOP today is whether the South should have won the Civil War.  Seriously.
+urbandata	699318188849434624	2016-02-15T19:43:43	urbandata Yes—yet another reason to oppose VoterId. Non-drivers also face suppression KatrinaNation familyunequal
+urbandata	699309214779441152	2016-02-15T19:08:03	Good point - marriage/divorce name change --&gt; voter suppression? 
+urbandata	699308484165238784	2016-02-15T19:05:09	donchennyc  Examples here also suggest a type of gender-based suppression around legal name changes? cc KatrinaNation familyunequal
+urbandata	699307265027915778	2016-02-15T19:00:19	Thousands March in NorthCarolina to Protest Voter Suppression   voterid VotingRights 
+urbandata	699301728009744385	2016-02-15T18:38:19	More driving=more deaths.  RT CityObs: Serious phealth consequences of more driving  cplan
+urbandata	699279817255088128	2016-02-15T17:11:15	Software development boot camp wins jobs for "diamond in the rough" coders  NHV econdev SeeClickFix CTTech
+urbandata	699274608361545728	2016-02-15T16:50:33	andr_w Would love someone to create an improved illustration of this issue. I just added NYC+NHV to make the original more locally relevant
+urbandata	699273359390068738	2016-02-15T16:45:35	alon_levy RIFuture How could town (municipal) boundaries ever be relevant to measuring economic size? 
+urbandata	699272156576878593	2016-02-15T16:40:48	alon_levy RIFuture On high-wage jobs the HFD 4mi radius core=73% denser. If you also include low wage jobs, HFD=15% denser.
+urbandata	699271133347110912	2016-02-15T16:36:44	alon_levy RIFuture I tend to think municipal boundaries are irrelevant. PVD core slightly denser by pop, but HFD core denser economically
+urbandata	699269166407290880	2016-02-15T16:28:55	alon_levy RIFuture Back to original point though: # of higher-wage ($40K+/yr) jobs w/in 4mi of train station: Hartford 113k Providence 65k
+urbandata	699267568033521665	2016-02-15T16:22:34	alon_levy RIFuture I generally agree- of course, both areas need core HSR lines. &amp;agree access to core as important as to larger catchment
+urbandata	699266456706482180	2016-02-15T16:18:09	alon_levy RIFuture Even NL+PVD may be smaller market area, &amp; better served, than Hart-Pioneer. County-based metro definitions not helping
+urbandata	699265780836409345	2016-02-15T16:15:28	alon_levy RIFuture If goal is simply access to larger market, both areas are large, but HFD-Pioneer probably larger &amp; farther from service
+urbandata	699264580749496320	2016-02-15T16:10:42	alon_levy RIFuture No, SPG is part of HFD's HUD metro grant area. Route through anywhere near Hart-field could boost access to more people
+urbandata	699237176614260736	2016-02-15T14:21:48	RIFuture I agree w/argument, but it's equally unfair to dissociate Springfield from Hartford as you suggest. Hart-field is larger than PVD.
+urbandata	698528357625925632	2016-02-13T15:25:13	Another reason to focus on economic inequality in this country;: 
+urbandata	698387831912136704	2016-02-13T06:06:49	And life expectancy falling for poorer *half* of women. That’s stunning 
+urbandata	698506770877169664	2016-02-13T13:59:26	Governor's proposed CTbudget cuts funding for children &amp; families by nearly $200 million: CTVoices  ctleg 10SDDem
+urbandata	698341708082372608	2016-02-13T03:03:32	New York after midnight by Camilo José Vergara:  FT
+urbandata	666630679392858112	2015-11-17T14:55:14	Stunning: Kentucky counties w/ highest Medicaid rates backed Bevin, who plans to cut Medicaid 
+urbandata	698237945325690880	2016-02-12T20:11:13	Ongoing failure of smartcities comes down to motives of "participation" vs. governance  civictech codeforamerica
+urbandata	698208947589816320	2016-02-12T18:15:59	ReedKJordan Yes - and by neighborhood poverty concentration  
+urbandata	698203570299084800	2016-02-12T17:54:37	Gap in life expectancy between US rich &amp; poor has more than doubled:  inequality phealth 
+urbandata	697989813383856129	2016-02-12T03:45:14	Say police mistreatment is major problem in their community:  29% US 17% Whites 47% Hispanics 64% Blacks   DemDebate
+urbandata	697984964994953216	2016-02-12T03:25:58	bencasselman mattyglesias CT statewide ctdata surveys of 20,000 adults suggest true under-employment rate fell from 22% to 14%, 2012-2015
+urbandata	697983414440435713	2016-02-12T03:19:48	urbandata mattyglesias That sounds broadly correct to me. Definition of "marginally attached" is definitely narrow.
+urbandata	697983298329509888	2016-02-12T03:19:20	bencasselman mattyglesias Probably 12-14% (if you include the slack work that's already in the U-6).
+urbandata	697983022122070016	2016-02-12T03:18:15	bencasselman mattyglesias Even U-6 10% is underestimate. There are more adults that say they would like to be working - but haven't looked
+urbandata	697977598979260416	2016-02-12T02:56:42	Our child poverty crisis is a policy choice.   DemDebate 
+urbandata	697971895321370624	2016-02-12T02:34:02	US health care system is broken. 29,000,000 still don't have insurance &amp; millions more are underinsured. DemDebate 
+urbandata	697962280936407040	2016-02-12T01:55:49	Our plutocratic, billionaire-run economy was built around the breeding, taking, &amp; cashing in of millions of children 
+urbandata	697906907277873153	2016-02-11T22:15:47	From HOPE VI to Choice Neighborhoods: Protecting health during housing redevelopment  
+urbandata	697902005465935872	2016-02-11T21:56:19	isaacstanbecker Several mentions of sushi and free coffee, but photo suggests diversity might need to be a focus. 
+urbandata	697895396106858496	2016-02-11T21:30:03	SeeClickFix benberkowitz NewHavenDOT We should do this in NHV - at least on major walk/bus routes like Whalley, Grand, Edgewood, Howard.
+urbandata	697894672849436673	2016-02-11T21:27:10	Should a City be responsible for clearing its sidewalks or is that just overreaching Snowcialism?  benberkowitz
+urbandata	697880779997736961	2016-02-11T20:31:58	Which candidates are winning on Facebook? Interactive map:  datavis demographics 
+urbandata	697842929122074625	2016-02-11T18:01:34	The radical urban agenda (aka, common-sense municipal policy) of Bernie Sanders:  urbanism 
+urbandata	697819247783751681	2016-02-11T16:27:28	Inspiring! 
+urbandata	697592377050013696	2016-02-11T01:25:57	Successful new ctfastrak BRT system "has restored transit riders' dignity": ITDP_HQ  cplan 
+urbandata	697535697444450304	2016-02-10T21:40:44	Imitation Paris in Baku urbanisme urbanism 
+urbandata	697481411893338112	2016-02-10T18:05:01	"Runaway Income Inequality: I'm Mad as Hell"  -Frances Padilla care4every1  racialequity 
+urbandata	697470909242810368	2016-02-10T17:23:17	Hillary Clinton's 1994 remarks on SinglePayer to Lehman Brothers Health Corp PNHP  phealth 
+urbandata	696142929895657472	2016-02-07T01:26:22	More amazing aerial photos by alexmaclean 
+urbandata	697462022280232960	2016-02-10T16:47:58	In 2014 NYPrimary, ZephyrTeachout got 34% of the vote against incumbent Dem governor Andrew Cuomo. $ spent/vote: Cuomo $60, Teachout $2.
+urbandata	697448727531909121	2016-02-10T15:55:09	More luxury apartments = lower displacement of low-income residents  cplan gentrification 
+urbandata	697247245872275456	2016-02-10T02:34:32	Wealthy interests don’t support the same economic policies as the American people.  
+urbandata	697221780730208256	2016-02-10T00:53:20	If all unauthorized immigrants were removed from NewHampshire it would lose $893M in economic activity &amp; 5,220 jobs 
+urbandata	697206744070692865	2016-02-09T23:53:35	What's possible if we stop subsidizing Exxon? France to pave 1000km of roads w/solar panels  
+urbandata	697181178932105217	2016-02-09T22:12:00	Voter disenfranchisement laws have no discernible purpose.  
+urbandata	697169490505768960	2016-02-09T21:25:33	Teaching UrbanPlanning to Preschoolers: planetizen  cplan urbanism
+urbandata	697167711365939200	2016-02-09T21:18:29	BobGradeck That would be a great life goal. In the meantime, I can retweet any of the ones who are kind enough to mention NNIP.
+urbandata	695353245724598272	2016-02-04T21:08:27	Exploring the notion of a "deeper civic tech" - food for thought by aschrock Cc. nniphq nnip 
+urbandata	697139675992035328	2016-02-09T19:27:05	Seattle's last chance for a Central Park: Capping Interstate 5 jkjenkinney  cplan urbanism 
+urbandata	697123402738368513	2016-02-09T18:22:25	Proud to have always paid workers, intern and otherwise, ReachInc. Unpaid internships = huge problem. aehollowell 
+urbandata	697116564231880704	2016-02-09T17:55:15	"Of the 16 candidates running for president, only one pays his interns: BernieSanders, at $10.10/hour"  inequality
+urbandata	697108478284951552	2016-02-09T17:23:07	There's very little more infuriating in American transit than this chart, from J. Allen (1999). 
+urbandata	697110734996570112	2016-02-09T17:32:05	More inclusive policies could lift all boats. RT CNN: BernieSanders plan would boost US median incomes by $22,000 
+urbandata	697077311456153601	2016-02-09T15:19:16	TrendCT Related: 
+urbandata	697072535356067840	2016-02-09T15:00:18	"The minority population is the future of housing in the USA": UrbanLandInst  racialequity affordablehousing
+urbandata	694515902910480386	2016-02-02T13:41:09	Attitude of "municipal Calvinism--that cities must deserve what they've got" ignores decades of anti-urban policy 
+urbandata	697057778309992449	2016-02-09T14:01:39	L'âge des bâtiments à Paris par comeetie cc urbandata  
+urbandata	696819340608409600	2016-02-08T22:14:11	Thank you AlexDMerchant for getting me to the 50,000 follower level &amp; to benberkowitz for signing me up! 
+urbandata	696818577047949313	2016-02-08T22:11:09	Since 1993, land values in Manhattan have risen by 28X (inflation-adjusted)  CRE econdev 
+urbandata	696811883081371648	2016-02-08T21:44:33	Halt to Medicaid expansion "more political than practical" (except for &gt;10K dead people/yr)  
+urbandata	696809397281021955	2016-02-08T21:34:41	The health impacts of climatechange: Interactive infographic bmj_latest  phealth COP21 publichealth v paimadhu
+urbandata	696770289192017921	2016-02-08T18:59:16	Hanging gardens of NYC: Another supertall office tower for Hudson Yards  CRE newyorkyimby 
+urbandata	696744300999274496	2016-02-08T17:16:00	New Evidence That Protected Bike Lanes Get People Cycling More: StreetsblogNet  CPlan phealth cc AL_Research
+urbandata	696740186777128962	2016-02-08T16:59:39	During World War I, TexasRangers stole 200,000 acres from Texans of Mexican descent, and killed thousands of them 
+urbandata	648192118599630848	2015-09-27T17:46:58	What it looks like when a bank structures its entire business to skirt minority communities:  
+urbandata	696715535539703808	2016-02-08T15:21:42	"10yrs ago we ranked 8 of 22 in equality of income distribution, now we're dead last" Bill Clinton, 1992  inequality
+urbandata	696700694213107712	2016-02-08T14:22:44	Austerity = Unsafe Lead Levels in Water Nationwide, Especially in Lower-Income Communities  InequalityIs phealth
+urbandata	696332037381300224	2016-02-07T13:57:49	cc: NYC_DOT "To avoid controversy, city planners have removed a small percentage of street parking each year." 
+urbandata	696136302928855040	2016-02-07T01:00:02	Cities are facing a drug overdose epidemic. How would the candidates respond as President? GOPDebate 
+urbandata	696031279003930625	2016-02-06T18:02:43	No cars: Amazing aerial views of carbon-neutral cities in Europe YaleE360  cplan urbanism 
+urbandata	695677253636722690	2016-02-05T18:35:56	NYPD Is Kicking Hundreds of People Out of Their Homes, Even If They Haven’t Committed a Crime  BilldeBlasio deray
+urbandata	695656584526110720	2016-02-05T17:13:49	Transit to Link Brooklyn &amp; Queens: BQX and the Triboro Line: RegionalPlan  SOTC2016 CPlan 
+urbandata	695640458589048832	2016-02-05T16:09:44	Simple amenities, like trees, make waiting for the bus less terrible  cplan c doughausladen 
+urbandata	695611536832925696	2016-02-05T14:14:48	At current rate of job growth, looks like we'll return to Clinton-era levels of employment by about 2021. wkdev 
+urbandata	695602973666369536	2016-02-05T13:40:47	Mayor de Blasio wants to build a 16-mile streetcar route, from Sunset Park, Bklyn, to Astoria, Qns, via nytimes 
+urbandata	695592957865549825	2016-02-05T13:00:59	neeratanden patrickhealynyt HillaryClinton BernieSanders  "tense," "angry," "tense," "risky ferocity of remarks". I expect better, NYT
+urbandata	695589547556495360	2016-02-05T12:47:26	Poor, rural areas will be most affected by Walmart closing 154 stores  by Timmeko
+urbandata	695585797320417280	2016-02-05T12:32:32	"No data". How little we know about Central Africa:  
+urbandata	695316908082622464	2016-02-04T18:44:03	I agree. Really nice resource! urbandata EnterpriseNow 
+urbandata	695417485428805633	2016-02-05T01:23:43	Want a job? Go to Brooklyn:  SOTC2016 sotc ourcity NY1 NYCEDC
+urbandata	695401892050931713	2016-02-05T00:21:45	It's time we catch up w/ the rest of the world on PaidLeave: BilldeBlasio  SOTC SOTC2016 
+urbandata	695400917785423873	2016-02-05T00:17:53	NYC added &gt;220,000 jobs in past 2yrs:  highest 2-year gain ever. Boroughs grew 2X rate of Manhattan  SOTC SOTC2016
+urbandata	695267840644005888	2016-02-04T15:29:05	Yep 
+urbandata	695333315012734976	2016-02-04T19:49:15	New trend? Congresspersons, not just big corporations, are also moving back to city centers  NHV c Richard_Florida
+urbandata	695330328865542144	2016-02-04T19:37:23	Wealthy Atlanta trading in classic Georgian homes for an urban lifestyle  c Richard_Florida 
+urbandata	695329360522436608	2016-02-04T19:33:32	An app to help workers report OSHA safety, WageTheft &amp; similar violations benberkowitz theworkerslab  timoreilly
+urbandata	695320823381495808	2016-02-04T18:59:37	benberkowitz crojasphd Nice to see you connected on this!
+urbandata	695311645019656193	2016-02-04T18:23:09	Awesome new resource on housing issues by dianeyentel &amp; JohnPGriffith of EnterpriseNow:  affordablehousing CPlan
+urbandata	695309796287909888	2016-02-04T18:15:48	Excellent piece JudiKende on need for NYC to focus on reforming federal housing policy:  affordablehousing cplan
+urbandata	695300142107357185	2016-02-04T17:37:26	"When black children do what children do, the system reacts more harshly" BabaChris  BlackLivesMatter InequalityIs
+urbandata	695299741169668099	2016-02-04T17:35:50	BabaChris Congrats!!
+urbandata	695261718344290304	2016-02-04T15:04:45	Equality vs. Equity vs. USA Reality v IISCBlog atticascott inequality healthequity InequalityIs 
+urbandata	695250864513089536	2016-02-04T14:21:37	Walkability of cities= publichealth, SocialJustice issue. We can &amp; shd tackle this. SmartCities CompleteStreets 
+urbandata	695238056547389440	2016-02-04T13:30:44	How transit gets better with more frequent service on fewer routes (must address equity, though)  via voxdotcom
+urbandata	694933403758673920	2016-02-03T17:20:09	"This year, we will end chronic homelessness for everyone." Text of GovMalloyOffice State of State:  ctsots ctleg
+urbandata	694716272035102720	2016-02-03T02:57:21	Quantitative History of Walkable Neighborhoods in USA KaseyKlimes  CPlan walkability nnip 
+urbandata	694709782398267394	2016-02-03T02:31:33	Study: Wellbeing increases among citizens who start volunteering  civichealth phealth c ctdata NCoC SOTSMerrill
+urbandata	694697356927844352	2016-02-03T01:42:11	sandypsj rightlegpegged 10SDDem doughausladen Walk: 2% wht,3% Blk,5% Lat. Bus: 2% wht,15% Blk,12% Lat. Suggests ACS JTW undercounts bus
+urbandata	694695153450225666	2016-02-03T01:33:26	sandypsj rightlegpegged 10SDDem doughausladen Survey 16,219 CT adults: rate=0.3% white, 0.4% black, 0.6% Latino 
+urbandata	694676417678811136	2016-02-03T00:18:59	NewHavenDOT AmberCollett 10SDDem doughausladen sandypsj Use ACS data w/ caution. It excludes most riders. 
+urbandata	694675066416730113	2016-02-03T00:13:36	sandypsj NewHavenDOT ACS data shows yr-round, 9-5 commuters to work only: generally not any students, underemployed, fair weather, errands
+urbandata	694674079094292480	2016-02-03T00:09:41	KrysiaSolheim LathaSwamy goNHgo NewHavenDOT 10sddem PaulJBass carolinetanbee tontnhv A little data on NHV 
+urbandata	694673049543647232	2016-02-03T00:05:36	Protected, separated bike lanes now mandatory in Portland:   tontnhv NewHavenDOT 10SDDem 
+urbandata	694668387406970881	2016-02-02T23:47:04	.AnnaStokes23 Anstress 10SDDem doughausladen cobycycles carolinetanbee also known as "rail sprawl"  TontNHV
+urbandata	694638176032444416	2016-02-02T21:47:01	Rising tides don't lift all boats emilymbadger BrookingsMetro  inclusivegrowth inequality 
+urbandata	694629749910585344	2016-02-02T21:13:32	LongIsland needs to build 104K multifamily units in walkable mixed-use areas by 2030. Only 26K are projected  CPlan
+urbandata	467402267524866048	2014-05-16T20:32:39	US inequality =&gt; waste: lowest performing, top income quartile &gt;  best low inc  via urbandata 
+urbandata	346009206232592384	2013-06-15T20:59:57	Wow MT urbandata Adults born rich &amp; didn't graduate college r 2.5X more likely 2 b rich than college grads born poor 
+urbandata	694546610995486720	2016-02-02T15:43:10	What's the best example of OpenGov? Dr.Piotrowski opengovpart on DataHaven(ctdata)&amp; NNIP  
+urbandata	694500381498290176	2016-02-02T12:39:28	The Flint region still relies on its urban core—but residents of suburbs pay little to nothing for those benefits: 
+urbandata	694449635549691904	2016-02-02T09:17:50	DataHaven, best opengov project in the US, according to S.Piotrowski (IRM for the US) ctdata opengovpart 
+urbandata	694316437402427392	2016-02-02T00:28:33	.doughausladen Immigration's impact on our city and state: 2015 report  nhv MayorHarp 
+urbandata	694201848018944000	2016-02-01T16:53:12	News: Houston Endowment Awards $7 Million Grant to RiceKinderInst for Urban Data Research:  c NNIP NNIPHQ ctdata
+urbandata	694196273210081280	2016-02-01T16:31:03	"What stands out is the lack of acknowledgement of the slave trade": UN panel recommends reparations:  RacialEquity
+urbandata	693825083635269633	2016-01-31T15:56:05	Piece in big BostonGlobe package pegs GE to Boston incentives at $276 million. If true, that is $345,000 per job. 
+urbandata	693797513543958528	2016-01-31T14:06:32	How Policies Can Encourage Walking and Bicycling: New Transport_ELS AL_Research  ALR2016 cplan phealth
+urbandata	693114192413483008	2016-01-29T16:51:15	You build it, and they will come. And... yep. THEY ARE COMING. Zaragoza (Spain). Going Dutch.  
+urbandata	692712288030167040	2016-01-28T14:14:14	Transporte e inequidad 
+urbandata	693434661016596482	2016-01-30T14:04:41	Prof bethnoveck at YaleLawSch yalelawtech this Monday, &amp; leading Yale's opengov clinic next year civictech 
+urbandata	693196790913486849	2016-01-29T22:19:28	What Data Can Do to Fight Poverty 
+urbandata	693198560184131584	2016-01-29T22:26:30	What do large new housing complexes in NHV decide to feature as amenities?  benberkowitz 
+urbandata	693154230568353792	2016-01-29T19:30:21	PDX is first US city to make physical protection the default for all new bike lanes:  CPlan 
+urbandata	693128427583320065	2016-01-29T17:47:49	"another problem: Flint is a food desert, with no large grocery stores in the city."  inequality FlintWaterCrisis
+urbandata	693121750922457088	2016-01-29T17:21:17	eclisham You can read this article by erica_pandey  &amp; there are also maps on the DataHaven(ctdata) resources page
+urbandata	693067982424002562	2016-01-29T13:47:38	UrbanPat _beechnut Yes, but it's also a serious issue (maybe in other/additional ways) in less-gentrifying, sprawling areas like Detroit.
+urbandata	692827027079073792	2016-01-28T21:50:10	Transit time for lower income workers might be the best direct measure of gentrification I've seen so far. 
+urbandata	693029576079880194	2016-01-29T11:15:01	Michigan made sure state employees in Flint had clean water 8 months before everyone else 
+urbandata	692857951896231941	2016-01-28T23:53:03	trnsprttnst Could look at ACS (or our new survey of&gt;16K CT adults) to study. ~25% of both PT &amp; FT lowinc workers in CT have a long commute.
+urbandata	692854445630058496	2016-01-28T23:39:07	trnsprttnst 24% of workers in the SF metro area in 2002, and 19% in 2013, fell in that category, per LEHD OTM (not adjusting for inflation)
+urbandata	692825445776105472	2016-01-28T21:43:53	"How can we promote public transit, when they are building so many parking lots &amp; garages downtown?" InequalityIs 
+urbandata	692823793581056002	2016-01-28T21:37:19	InequalityIs How Transportation Determines Opportunity: DataHaven(ctdata)  spatialmismatch 
+urbandata	692820652341006337	2016-01-28T21:24:50	How success can cause gentrification that will threaten the diversity innovation needs bogers Paul4innovating 
+urbandata	692808282885455872	2016-01-28T20:35:41	Aging FairfieldCounty: Population age 20-44 now clustered in n'hoods in 4 large towns: DataHaven(ctdata) map NNIP 
+urbandata	692805640427827201	2016-01-28T20:25:11	DataHaven(ctdata) maps Hartford's aging inner-ring n'hoods: Share of pop age &gt;75, 1980 vs 2013 NNIP CTCommAging 
+urbandata	692769602057674752	2016-01-28T18:01:58	The next Flint? America's decaying, impoverished suburbs, ravaged by leapfrog sprawl  cplan 
+urbandata	692764891455852548	2016-01-28T17:43:15	"We lack well developed, widely adopted standards for data that will enable civictech to scale." mheadd  nnip
+urbandata	692762296007946240	2016-01-28T17:32:56	avinash mchui It hasn't increased by much in some very wealthy enclaves- still @ ~10%. Less inequality would translate to better health.
+urbandata	692578592925052928	2016-01-28T05:22:58	evermore, the geography of opportunity is out-of-reach for low-wage workers.   
+urbandata	692561630425653248	2016-01-28T04:15:34	Increase commute time &amp; decrease quality of life across all measures. Not ok to do this to low income urban dwellers 
+urbandata	692555690448125953	2016-01-28T03:51:58	.bytimlogan JedKolko LEHD OnTheMap mobile, workers &lt;$15K equiv, 2004 vs 2013, Boston metro area: spatialmismatch 
+urbandata	582695998905917441	2015-03-31T00:08:46	RT urbandata: Some low-income workers have 6 hour commutes in SiliconValley area:  … spatialmismatch
+urbandata	692539985287864322	2016-01-28T02:49:33	Commute distances for SF's low-income workers have doubled:  spatialmismatch gentrification 
+urbandata	692517413565419521	2016-01-28T01:19:52	But, not right:'substantial evidence hi readmission rates driven more by patient factors outside hospitals’ control' 
+urbandata	692064583188680704	2016-01-26T19:20:29	6. A decent income. 7. Education. 8. Housing 9. Sense of belonging 10. Choose your parents well. sdoh 
+urbandata	692032074346319873	2016-01-26T17:11:18	Jobs returning to CT cities, &amp; NHV=4% CT pop, 53% CT growth in young adults w/BA ctbudget  
+urbandata	692026583226384385	2016-01-26T16:49:29	Racially-concentrated wealth &amp;poverty and exposure to school poverty  ctbudget InequalityIs 
+urbandata	692023946468823040	2016-01-26T16:39:00	Connecticut has more racially-concentrated wealth and poverty than most US metros:  ctbudget 
+urbandata	692014599705620480	2016-01-26T16:01:52	InequalityIs life-long effects of growing up in concentrated poverty  FordFoundation
+urbandata	692013942797963264	2016-01-26T15:59:15	JeffKlaus28 unfair situations also tend to drag overall economic growth - eg, tax collections could be even higher after immigration reform
+urbandata	692013472155045889	2016-01-26T15:57:23	JeffKlaus28 Argument is that it is unfair and/or inhumane for certain groups to pay heavy taxes &amp; work, but get very limited benefits.
+urbandata	692010100752523264	2016-01-26T15:43:59	CT conc poverty: 3% in rich towns, vs. 25% in city cores, are food insecure:  CTBudget nnip 
+urbandata	692008491645542400	2016-01-26T15:37:35	CT conc poverty: 65% in rich towns, vs 16% city cores, say kids have role models  CTBudget 
+urbandata	692007914534469632	2016-01-26T15:35:18	CT: 70% in rich towns, vs. 8% in city cores, say area is excellent place for kids  CTBudget 
+urbandata	692005849569595393	2016-01-26T15:27:06	nickdefiesta ChrisMurphyCT Great work Nick! EITC, UPK/ECE, lower cost transpo+housing, health reforms would definitely help our children!
+urbandata	692005223573950468	2016-01-26T15:24:36	JeffKlaus28 They bring $$$benefit, but 1)maybe we shldn't continue to freeload off their work 2)integration could benefit workers even more
+urbandata	692002292577468416	2016-01-26T15:12:57	CT "Children's Budget" 40% of General Fund in 1992 30.6% in this year's budget  CTBudget 
+urbandata	691763103248322561	2016-01-25T23:22:30	Role of Philanthropy &amp; Nonprofits in Increasing Voter Turnout: kellykborn relvnt to our new ctcivichealth report  
+urbandata	690558475722686464	2016-01-22T15:35:45	On Islamaphobia, the Koch Brothers are as bad as Trump. Here's an ad they funded to stir up hatred. 
+urbandata	691608748012486656	2016-01-25T13:09:09	Encore un excellent article de 15marches qui nous dit tout sur la réinvention de l'automobile par la Silicon Valley 
+urbandata	690592816624369664	2016-01-22T17:52:12	New Orleans housing vouchers concentrating poverty: report 
+urbandata	691686934175977472	2016-01-25T18:19:50	Strong relationship between education level and median wages: IdahoCFP econdev c Richard_Florida 
+urbandata	691680052153446400	2016-01-25T17:52:29	Read this! From our partners at NNIP who are applying data to enhance the effective of initiatives around the US: 
+urbandata	691668256390782976	2016-01-25T17:05:37	New Haven has about one AirBnB listing per 500 residents; rest of CT has about one per 3,000 ctmirror  NHV Airbnb
+urbandata	691666615163695104	2016-01-25T16:59:06	Superb provocative piece abt big systemic change for education philanthropy incl. links to housing &amp; segregation 
+urbandata	691666331461140480	2016-01-25T16:57:58	"The value of Apple is about the same as the value of all housing in the Seattle metro"  CRE 
+urbandata	691644759761354752	2016-01-25T15:32:15	And this is in NYC! Snow clearance is a textbook case of structural privileging of driving above other modes. 
+urbandata	691637679239368707	2016-01-25T15:04:07	doughausladen wherewelive maybe special fines for landlords along largest bus/walk routes (like Whalley) who don't clear sidewalks of ice?
+urbandata	691635598155726852	2016-01-25T14:55:51	doughausladen Awesome Job today on wherewelive. we still need to work on getting sidewalks cleared for pedestrians in New Haven! NHV
+urbandata	434264691679182848	2014-02-14T09:55:45	RT urbandata: If it's not plowed, cars don't really need it.  sneckdown cities publichealth
+urbandata	542814876218191872	2014-12-10T22:55:26	Stunning! RT urbandata: MT DaleCalkins: w/o transit,Manhattan need 48, 8-lane bridges and more.  cplan
+urbandata	689778079141646340	2016-01-20T11:54:44	Watch DataHaven present our findings from CTCivicHealth report yesterday CTNetworkTV  Read: 
+urbandata	683718535034568704	2016-01-03T18:36:16	This NewYorker profile of the Ford Foundation is so, so good: 
+urbandata	690682728497319936	2016-01-22T23:49:29	cgbrookings DataHaven (ctdata) just completed largest wellbeing survey in US, of 17K adults from NY to rural CT -could test that idea more
+urbandata	690598648451727360	2016-01-22T18:15:23	Love this new SeeClickFix Radio show newhavenindy - giving a voice to US CivicTech  opengov nhv c CivicHall
+urbandata	690144319085363201	2016-01-21T12:10:02	Connecticut makes strides with voting laws:  ctcivichealth ctpolitics SOTSMerrill RockTheVote YaleLawSch
+urbandata	690224984690561024	2016-01-21T17:30:34	"Connecticut Group Releases State's Second Civic Health Report" via WAMCNews 
+urbandata	690343907213836289	2016-01-22T01:23:08	Want a job? Go to Brooklyn!  Similar trend CT  cplan Richard_Florida 
+urbandata	690301547440443392	2016-01-21T22:34:48	Equality vs Equity: New highres vrsn of apocryphal JPG IISCBlog  racialequity healthequity 
+urbandata	683999674315964417	2016-01-04T13:13:25	William Julius Wilson in a fascinating and wide-ranging feature profile.  
+urbandata	674196610683940864	2015-12-08T11:59:32	How horrible.  Voldemort was nowhere near as bad. 
+urbandata	687022097562996737	2016-01-12T21:23:26	het effect van forensen op welbevinden Hoe langer je reist des te ongelukkiger 
+urbandata	690231234501447680	2016-01-21T17:55:24	Richard_Florida TheAtlantic I wonder if Manhattan would have fared better if it had a bullet train to JFK airport.
+urbandata	687685819151347712	2016-01-14T17:20:50	56,000 people applied to live in one apt building in NYC, which smells like poop. Why? It's affordable.  MakeRoom
+urbandata	690208754093182976	2016-01-21T16:26:05	GE’s Relocation: Great for GE, Not as Great for Boston’s Taxpayers - TheAtlantic - 
+urbandata	690195053264904192	2016-01-21T15:31:38	"Worrisome findings about lead by a concerned pediatrician were dismissed as 'data,' in quotes." 
+urbandata	690191857146531841	2016-01-21T15:18:56	"Density restrictions are significantly associated with segregation."  CT:  NNIP inequality
+urbandata	690163666784772097	2016-01-21T13:26:55	Great to see attn on kids in Flint. But the bigger problem: 535,000 kids poisoned by lead across the US! My column 
+urbandata	690157336862814209	2016-01-21T13:01:46	.ctdata: Jobs Are Returning To The City - NewHaven &amp; Hartford experiencing similar shift:  
+urbandata	689880537746440194	2016-01-20T18:41:52	Connecticut Group Releases State's Second CTCivicHealth Report: WAMC  CivicHealth NNIP NNIPHQ SOTSMerrill evdem
+urbandata	689906319818620928	2016-01-20T20:24:19	How Investing in Housing Can Save on Health Care: New NHCandCenter  cplan phealth affordablehousing
+urbandata	687481038306586625	2016-01-14T03:47:06	Somehow that stupid $15 minimum wage thing made WA state #1 in Business Insider State econ rankings. 
+urbandata	689901301061259265	2016-01-20T20:04:22	"Companies ported out to suburbia are now returning to urban environments." 1,200 biotech workers move back to NHV 
+urbandata	689849632340312064	2016-01-20T16:39:03	Didn't get a chance to see the 2016 CTCivicHealth report? Check out the findings here:  SOTSMerrill EvDem ctdata
+urbandata	689541672208863233	2016-01-19T20:15:20	More proof--as if you needed any--that Sisyphus is the God of traffic engineering. 
+urbandata	685624972018987008	2016-01-09T00:51:46	This. 
+urbandata	689539642593525761	2016-01-19T20:07:16	Conn. Sec. Of State Merrill Releases Report On State's Civic Life:   WSHUnews CTcivichealth
+urbandata	689578622194171905	2016-01-19T22:42:09	To celebrate move of 1,000 employees to Downtown NHV this month, Alexion will give $1,000 per day to area charities 
+urbandata	689489423373701120	2016-01-19T16:47:43	CTCivicHealth Index available at ctdata  via ctdata
+urbandata	689508453451051009	2016-01-19T18:03:20	You can view the newly released 2016 Connecticut Civic Health Index Report here: . VIDEO: 
+urbandata	689488904471220225	2016-01-19T16:45:39	The Wellbeing Survey conducted by ctdata helped generate data for the CTcivichealth index
+urbandata	689487169686151168	2016-01-19T16:38:45	"Very high-income households are increasingly concentrated, even moreso than in other US urban areas"  CTCivicHealth
+urbandata	689485169443545089	2016-01-19T16:30:49	"Community resilience fostered by strong social networks help nhoods overcome crises"  CTCivicHealth RockefellerFdn
+urbandata	689480084210626562	2016-01-19T16:10:36	Thrilled to join EvDem NCoC ctdata CTOldStateHouse and so many others for CTCivicHealth launch 
+urbandata	689483454791069696	2016-01-19T16:24:00	"Improving quality of life in a handful of n'hoods could have a major impact on CT as a whole."  ctcivichealth nnip
+urbandata	689481808614809601	2016-01-19T16:17:27	CTCivicHealth: % who think their area is good place to raise children varies by neighborhood from 35% to 95%  nnip
+urbandata	689462925392633856	2016-01-19T15:02:25	MimoCT ctdata wherewelive benberkowitz nerdhaven
+urbandata	689460886042386432	2016-01-19T14:54:19	brownja ctdata wherewelive urbanophile wnpr Yes, that's a big move to downtown. 
+urbandata	689452891749232640	2016-01-19T14:22:33	.wherewelive urbanophile wnpr Jobs are returning to city centers - even in CT:  cplan ge 
+urbandata	689455630818476033	2016-01-19T14:33:26	.wherewelive Metro Detroit &amp; Fairfield County are only US regions where # of young adults w/ degrees has declined 
+urbandata	689419957998776321	2016-01-19T12:11:41	Health problems for children prevent families from moving to higher-income n'hoods: MITdusp  fairhousing phealth
+urbandata	689417143633326080	2016-01-19T12:00:30	2016 CTCivicHealth Index: New report to be released today at 11AM by NCoC SOTSMerrill EvDem &amp; DataHaven(ctdata) 
+urbandata	689174311832276993	2016-01-18T19:55:34	Switzerland gets it right: Making the green transportation choice fun. 
+urbandata	689116075238289408	2016-01-18T16:04:10	New Software Makes Transit Planning More Like Video Gaming  CPlan transpo16 
+urbandata	687681173011738626	2016-01-14T17:02:22	Connecticut improves access to voting: DataHaven in news  civichealth ctpolitics sotsmerrill NCoC evdem NNIPHQ
+urbandata	688769001032445952	2016-01-17T17:05:01	Bill O'Reilly will flee to Ireland if Sanders is elected. He's in for a shock 
+urbandata	687275042325934081	2016-01-13T14:08:33	This I do believe. We call it "stagger home" distance. 
+urbandata	687985191567147008	2016-01-15T13:10:26	Perceptions of safety among NHV residents have improved since 2012: Wellbeing survey  nnip 
+urbandata	688170486044336128	2016-01-16T01:26:44	Atlanta third highest income inequality in the US according to this study 
+urbandata	688204431544815618	2016-01-16T03:41:37	greglowe123 Richard_Florida nhregister NHV more urban than some think.Apples-apples,it's ~23rd densest US core:) 
+urbandata	688196278111453184	2016-01-16T03:09:13	Alexion, $40B US biotech, will relocate 1,000 people from suburbs to downtown NHV by March 2016  Richard_Florida
+urbandata	687692229650059265	2016-01-14T17:46:18	Great news from Connecticut, as access to voting dramatically improves! 👏👏👏 Read more here:  
+urbandata	688122761609351168	2016-01-15T22:17:05	MaraLeeCourant dlthomasCT Agree-it's discussed in CBPP piece(which is long!). Interesting to see if trend reverses as age structures shift
+urbandata	688116091197898752	2016-01-15T21:50:35	MaraLeeCourant 1yr seems irrelevant, given long-term trends described at . dlthomasCT is writing a detailed report.
+urbandata	688104901570736131	2016-01-15T21:06:07	Cities &amp; metro areas w/ highest income inequality: Fairfield County, NYC, SF, NOLA top list  
+urbandata	688103977863360512	2016-01-15T21:02:27	"In CT, the net migration rate among adults ages 30-59 with a graduate degree is actually positive"  Richard_Florida
+urbandata	688082151330443264	2016-01-15T19:35:43	If Albany won't allow NYC to make streets safe via automated enforcement, perhaps neighborhoods can DIY it.  
+urbandata	688033917350350849	2016-01-15T16:24:03	Sur le même thème:  urbandata CityMetric ehooge IfopEnergies MobiliTDurable 
+urbandata	688036785398636544	2016-01-15T16:35:27	Major statewide survey shows higher safety, plus improved walkability &amp;bikeability, in NHV  
+urbandata	688035565866979328	2016-01-15T16:30:36	Voyez le monopole de voiture sur espacepublic parisien  urbanism cplan v MobiliTDurable 
+urbandata	688011072427683840	2016-01-15T14:53:16	Richard_Florida some suggest competition/"poaching rate" of GE finance experts was too high in NY/CT, which are global bank+hedge fund hub.
+urbandata	687697248575160320	2016-01-14T18:06:15	.bytimlogan Plus, I would read the release as 200 executive div jobs moved + 600 new tech jobs that might have been created anyways,no? ge
+urbandata	687676700897972224	2016-01-14T16:44:36	Connecticut makes huge strides in access to voting! More can &amp; will be done! Thx ctdata &amp; RockTheVote! 
+urbandata	687648335751032832	2016-01-14T14:51:53	Yes, Mississippi is at the top of the list, with 21.5% of our families in poverty. WeHaveToDoBetter TalkPoverty 
+urbandata	687640691103657984	2016-01-14T14:21:31	Take note, CT: MA is giving generalelectric over $180K per job and paying for 6-figure execs to move. ctpolitics 
+urbandata	687612277353254912	2016-01-14T12:28:36	Well done, NYC! Step 1 in closing DigitalDivide. Step 2, get all NYers smartphones. BilldeBlasio MikeBloomberg 
+urbandata	687464112973033472	2016-01-14T02:39:51	Crowded House: Accra Tries to Make Room for a Population Boom SharonBenzoni  urbanism Ghana c MimoCT
+urbandata	687380619588988929	2016-01-13T21:08:05	.capitolwatch BostonGlobe wherewelive No surprise on GE move to BOS. Jobs are relocating to cities, even in CT 
+urbandata	687315174852804608	2016-01-13T16:48:02	NYNJCT region spends $300 billion/yr on health care. But # of NYC homeless students up 16% to 76,816   inequality
+urbandata	687286450904236033	2016-01-13T14:53:53	Given existing growth, NY "would need several more 2nd Avenue subways" -RegionalPlan newyorkyimby  4thplan NYNJCT
+urbandata	687281932149874689	2016-01-13T14:35:56	"The NYNJCT region has 783 cities &amp; towns. One of them is NYC, 782 of them are not." - Tom Wright, RegionalPlan on regionalism 4thplan
+urbandata	687277547550314496	2016-01-13T14:18:30	emilydshaw jmsndrsn mysociety Yes but then equitable tools are needed to amplify one/few persons- mass media, inclusive political process
+urbandata	687253695344603137	2016-01-13T12:43:44	A terrific meditation on defining civictech from emilydshaw.  cities publicsector innovation
+urbandata	687256411621965825	2016-01-13T12:54:31	Today: RWJF &amp; RegionalPlan roundtable on public health &amp; neighborhoods in the NYNJCT region. 4thplan nnip
+urbandata	687255235417534464	2016-01-13T12:49:51	jmsndrsn emilydshaw Good points! Potholes aside, CivicTech works best when it helps support bigger levers, like mass media and politics.
+urbandata	687073977127317505	2016-01-13T00:49:36	2016: Manhattan's tallest year ever. newyorkyimby  archi cre c jonathanmiller v nestio
+urbandata	687024689307332608	2016-01-12T21:33:44	Indicators: New Transportation &amp; Health Tool USDOT trbhealth  TRBAM phealth v TRBADD40 
+urbandata	687020844590198784	2016-01-12T21:18:28	.trbhealth Long commutes have an impact on community wellbeing, across all income levels: New data ctdata trbam 
+urbandata	687015611885613056	2016-01-12T20:57:40	createquity Many issues have an impact on happiness, anxiety,&amp; aspects of wellbeing- data can help connect sectors 
+urbandata	686990788849434624	2016-01-12T19:19:02	The Growing Trend of Affordable Housing Impact Statements  urbandata GregTBasta nycfuture 
+urbandata	686976972841443329	2016-01-12T18:24:08	.AL_Research SaludTues CT: Latinos 1.7X more likely than whites to say their local parks aren't in good condition 
+urbandata	684914299979087872	2016-01-07T01:47:48	DataHaven Community Wellbeing Survey Featured on WNPR Where We Live: Transcript  via ctdata
+urbandata	686956903742713856	2016-01-12T17:04:23	US RacialWealthGap is growing: Huge implications for retirement, transpo, etc  racialequity 
+urbandata	686955458226184192	2016-01-12T16:58:38	The first-ever study of self-driving car crash rates suggests they are safer:  TRBAM cplan 
+urbandata	686954821979602944	2016-01-12T16:56:07	JakeAnbinder Jealous
+urbandata	686952579780227072	2016-01-12T16:47:12	Reason for BernieSanders Surge: 94% of Dem &amp; 90% of GOP prefer "Equalden" to US inequality  
+urbandata	686927800947879936	2016-01-12T15:08:44	A reminder to be more appreciative of the weirdness that is Washington Square Park, 1AM bagpipes and all. 
+urbandata	686496949902675968	2016-01-11T10:36:42	There are many reasons to love David Bowie. Here's one. 1982: challenging  MTV on their refusal to play black music: 
+urbandata	686610517566291969	2016-01-11T18:07:58	Washington Square Park: David Bowie's favorite place in the city he called home  urbanism DavidBowie nyuniversity
+urbandata	686603419461746689	2016-01-11T17:39:46	"In Texas, convicted felons cannot become barbers, locksmiths, or electricians." Unintended Consequences  cjreform
+urbandata	686553070738739200	2016-01-11T14:19:42	rpuentes tpap_ SilverRides Might be in here? 
+urbandata	686551380451012608	2016-01-11T14:12:59	HBudnitz We asked time+mode, not dist. In CT, train, bus, car common. Train commuters may be happier but also more likely married,older etc
+urbandata	686546578073645056	2016-01-11T13:53:54	HBudnitz Looking into that. Many people who walk or bike to work have very low incomes and/or are otherwise socioeconomically less included
+urbandata	686212598136705024	2016-01-10T15:46:47	"transportdata: Cutting your commute is equivalent in happiness to a $40,000 per year raise  BuzzFeedAndrew"
+urbandata	686207093272121344	2016-01-10T15:24:54	Uber's algorithmically-mediated flexible employment builds new forms of surveillance &amp; control over workers  trbam
+urbandata	686206297218387968	2016-01-10T15:21:45	The inefficiency of our binary transport policy:  TRBAM TRB2016 cplan
+urbandata	686190344942272512	2016-01-10T14:18:21	Cutting your commute is equivalent in happiness to a $40,000 per year raise  BuzzFeedAndrew
+urbandata	685889581418438657	2016-01-09T18:23:14	JeffKlaus28 SuzeBates Agree- interesting topic &amp; very important/revealing to state future.
+urbandata	685888457630171137	2016-01-09T18:18:46	SuzeBates JeffKlaus28 Impt trend, but may be identical to prev yrs+other NE states if you adj for inflation &amp;conc. of inc in top/older HHs
+urbandata	685886138419142658	2016-01-09T18:09:33	SuzeBates JeffKlaus28 Is your 1993-2010 benchmark adj for inflation? Would be good to compare 2008-10 to 2011-13 normalized to typ return
+urbandata	685885309414993920	2016-01-09T18:06:15	SuzeBates JeffKlaus28 I work with that data all the time :) Luckily, we have a huge gain of immigrants, older adults from NY, etc.
+urbandata	685884939481575424	2016-01-09T18:04:47	SuzeBates JeffKlaus28 Of course-see  The types of trends you highlighted don't seem like anything particularly new.
+urbandata	685884424714584072	2016-01-09T18:02:44	JeffKlaus28 SuzeBates (CT lost 13,255 ppl &amp; $0.8B inc to NYState,so our net gain from NY State was +6,500 people &amp; +$0.6 billion income)
+urbandata	685883544422465536	2016-01-09T17:59:14	JeffKlaus28 SuzeBates "From 2012-13,CT lost 15,453 ppl+$1.8B income" During same period,CT gained 19,705 ppl+$1.4B inc from NYState alone
+urbandata	685870979990597632	2016-01-09T17:09:19	Cuomo: NYC Javits Center conference facility to get $1B expansion: architectmag  econdev 
+urbandata	685851181814530048	2016-01-09T15:50:38	Transpo + land use reform needed. Which trends will most affect our lives?  transpo16 cplan 
+urbandata	685840116259106819	2016-01-09T15:06:40	"Shouting against the black box is not helping any of us." - benberkowitz  Collaboration &gt; Data &gt; Action  transpo16
+urbandata	633565225682403328	2015-08-18T09:04:55	Zo zien 200 mensen eruit in de auto, in de bus, op de fiets... mooi gevisualiseerd! eyeopener 
+urbandata	685554688876388352	2016-01-08T20:12:29	Transportation equity should be a much higher priority in planning+policymaking  spatialmismatch nhv newhavenindy
+urbandata	685531442626039808	2016-01-08T18:40:07	In NHV, just 50% of adults earning &lt;$30K/yr saw a dentist last year, vs. 80% of adults earning &gt;$30K  phealth sdoh
+urbandata	685512097405513729	2016-01-08T17:23:14	"You deplore the demonstrations" but not the conditions "that brought the demonstrations into being." 
+urbandata	685511835471069184	2016-01-08T17:22:12	Our anti-urban urbanpolicy cc JakeAnbinder Richard_Florida cplan 
+urbandata	685506772094849024	2016-01-08T17:02:05	NickBaumann Maine has the highest teen birth rate of any state in the Northeast region, except for Pennsylvania. 
+urbandata	684094772315832320	2016-01-04T19:31:18	Seúl: carretera elevada con 169 mil autos/día es ahora parque q atrae 75mil visitantes y crea 113mil nuevos trabajos 
+urbandata	685160489261895682	2016-01-07T18:06:04	Identifying who is likely to vote is fundamental to making accurate forecasts from pre-election polls. 
+urbandata	685162209215954944	2016-01-07T18:12:55	Sing it! 
+urbandata	685157285686054914	2016-01-07T17:53:21	Organizing With Communities to Benefit Public Health: New AJPH article CARE_YSPH ctdata  nnip phealth urbanag
+urbandata	685114832052432896	2016-01-07T15:04:39	Tax benefits finally equalized between drivers &amp; transit users, &amp; made permanent  cplan nhv T4America Tri_State
+urbandata	684013940838395904	2016-01-04T14:10:06	DataHaven Announces Completion of Largest-Ever Survey on Neighborhood-Level Quality of Life, Health, and Happiness 
+urbandata	685077146147110912	2016-01-07T12:34:54	Comparison: ARC (cancelled) vs. Gateway (new) NYC rail plan  Amtrak CPlan v glennnb 
+urbandata	681947975262732288	2015-12-29T21:20:41	New data4good: urbandata's largest-ever US neighborhood survey sees links between financialinclusion &amp; well-being 
+urbandata	684925153696956417	2016-01-07T02:30:56	timoreilly codeforamerica Shout out to jessunscripted. Nice work!
+urbandata	684729247559188481	2016-01-06T13:32:28	Robust info "urbandata: DataHaven Community Wellbeing Survey Featured WNPR Where We Live: Transcript &amp; Audio "
+urbandata	684862632478793732	2016-01-06T22:22:30	LangeAlexandra Then Westville NHV is the Brooklyn of CT. A little harder to find in Syracuse, which is very car-centric. benberkowitz
+urbandata	684862095083597825	2016-01-06T22:20:22	LangeAlexandra Backyards are okay, but IMHO key factor=intact sidewalks &amp; decent playground w/in 3-4 blocks. PreK w/in 1/2 mile also nice
+urbandata	684860788385935360	2016-01-06T22:15:10	LangeAlexandra University Hill, Dewittshire, areas near Barry Park are a few options if they want a shorter commute &amp; some walkability.
+urbandata	684858708585771008	2016-01-06T22:06:54	He saw, he clicked, we fixed. Nice profile benberkowitz NHV &amp;300 other cities that adopted SeeClickFix  civictech
+urbandata	684841785378631680	2016-01-06T20:59:40	"Data on what actual people think about their communities and lives":  via care4every1 urbandata
+urbandata	684823298086191104	2016-01-06T19:46:12	Could this be part of the solution to Manchester's traffic gridlock? Environmentally sound and looks good. 
+urbandata	684802201332674560	2016-01-06T18:22:22	atlaslens cc StrongTowns UrbanThree
+urbandata	684794718350405637	2016-01-06T17:52:38	Mapping wasted land: How parking dilutes the tax productivity of development  cplan econdev 
+urbandata	684772993759862784	2016-01-06T16:26:18	The Poorest Americans Die Younger Than the Poorest Costa Ricans:  phealth inequality costarica v who_urbanhealth
+urbandata	677952482866171904	2015-12-18T20:44:02	Police data could result in meaningful responses to racial injustice:  v ctdata cjreform 
+urbandata	684717216072364032	2016-01-06T12:44:40	DataHaven Community Wellbeing Survey Featured WNPR Where We Live: Transcript &amp; Audio  phealth ctpolitics ctdata
+urbandata	684579017454960641	2016-01-06T03:35:31	Plus, this leagueofcities report shows majority cities have no focused efforts to prepare  
+urbandata	684477674681667585	2016-01-05T20:52:49	.urbandata jmsndrsn Kaid_in_DC commonwealthfnd alv9n Living_Cities We posted a transcript from the show here: 
+urbandata	684491698014130176	2016-01-05T21:48:32	Instead of spending $68B/yr so the rich can buy huge homes, we could have AffordableHousing  
+urbandata	684467651377270784	2016-01-05T20:12:59	Factsheet: New Executive Actions to Reduce Gun Violence and Make Our Communities Safer: WhiteHouse  phealth guns
+urbandata	684449291583270912	2016-01-05T19:00:02	New year's resolution: Let's get rid of "sharrows" NextCityOrg  cplan visionzero
+urbandata	684430923425837056	2016-01-05T17:47:02	Mental Health Reform Will Not Reduce US Gun Violence, Experts Say: JAMA_current  guncontrol guns phealth
+urbandata	684429974028304386	2016-01-05T17:43:16	Paid summer internship for graduate student at LISC_DC: PDF  cplan urbanplanning nnip
+urbandata	684406972163211265	2016-01-05T16:11:52	maura_healey jaylivingstone joshzakim titojackson wutrain ICYMI, a must-read. Can Mass. and Boston do this? 
+urbandata	684401196656807936	2016-01-05T15:48:55	pewmethods Agree but if $ is fixed, is it best to up weighting of cell-only HHs like many federal surveys do,or to have a smaller sample?
+urbandata	684399160531894272	2016-01-05T15:40:50	DavidLauter pewmethods FactTank Agree 100%. Though in some cases, even older or less reliable data is still better than "no" data
+urbandata	684398452088819713	2016-01-05T15:38:01	kyleymcg Not zero sum,but we shouldn't cut huge samples that represent small minority groups just to reduce design effects from weighting:)
+urbandata	684397642877517824	2016-01-05T15:34:48	kyleymcg Greater precision,but higher cost/interview means more $ needed: ideally you have both,but federal surveys face funding constraint
+urbandata	684392938621808640	2016-01-05T15:16:06	@seebase :)This graph is a simple representation of a sample of 17,000 representative adults with 100 other variables related to walkability
+urbandata	684385296612372486	2016-01-05T14:45:44	"Mayors have a different kind of reach in communities than state/federal gov't":  wellbeing 
+urbandata	684349267968933888	2016-01-05T12:22:34	MDRC_News sangerkatz UpshotNYT Similar findings in our recent survey of 17,000 adults in CT  Detailed large sample
+urbandata	684345399260352512	2016-01-05T12:07:12	What are the most cycle-friendly cities in the world? (I would call it the Utrecht Index)  cplan CPH
+urbandata	684161275182493696	2016-01-04T23:55:33	ctdata discusses their nationwide wellbeing survey on wherewelive and we get a mention! Listen here:  SantaMonica
+urbandata	670326310749736960	2015-11-27T19:40:21	Interactive map of the architectural heritage of Barcelona  dataviz datastories 
+urbandata	614114451575455744	2015-06-25T16:54:29	In last 35 years, a significant drop in middle-income neighborhoods  via trendct
+urbandata	682985896254255104	2016-01-01T18:05:01	This is an incredible paragraph. 
+urbandata	682961396754182145	2016-01-01T16:27:40	Transportation: the next civil rights issue of our time   spatialmismatch cplan inequality
+urbandata	682959880672677888	2016-01-01T16:21:38	Shakespeare tragedies as network graphs:  datavis 
+urbandata	682959108547411968	2016-01-01T16:18:34	cdohertyk LangeAlexandra Often &lt;1 hour from lower Manhattan to NHV at 4am, if you hire a taxi and don't remind them to drive safely.
+urbandata	682567737642758144	2015-12-31T14:23:24	Join DataHaven and RANDCorporation this Monday, January 4th on wherewelive as we talk about neighborhoods &amp; happiness. wellbeing nnip
+urbandata	682200817886216193	2015-12-30T14:05:24	Health insurance jargon can be overwhelming &amp; lead people to make costly mistakes or avoid care  via NPR
+urbandata	682317332736282624	2015-12-30T21:48:23	% of US children living w/ a single parent or cohabitating (unmarried) parents rose from 9% in 1960 to 33% today.  
+urbandata	682236721912770561	2015-12-30T16:28:04	This tweet from April is very relevant this week: 
+urbandata	682189442136862720	2015-12-30T13:20:12	Même nombre d'habitants dans la zone bleue et rouge  résilienceUrbaine obsdlaville 
+urbandata	682086212589453312	2015-12-30T06:30:00	mleitnerAIA ctdata Yes, we're looking at that too
+urbandata	682018665211006976	2015-12-30T02:01:35	18-35 y/olds in San Fran can buy a 135 ft2 home Phoenix 18-35 y/os can buy a 1,421 ft2 home  
+urbandata	681495504870494208	2015-12-28T15:22:44	Looking for better resale value? Keeping location daily commute under 40min/day. Great study graph.  
+urbandata	679039646131613696	2015-12-21T20:44:02	Police data could result in meaningful responses to racial injustice:  v ctdata cjreform 
+urbandata	681942161873629185	2015-12-29T20:57:35	On Wednesday, the North Pole will be 60 degrees above normal - warmer than Southern California &amp; parts of the Sahara 
+urbandata	681929810160029697	2015-12-29T20:08:31	In 1992, the 400 highest-earning taxpayers paid 27% of their income in federal taxes; in 2012, that number had fallen to 17%.
+urbandata	681812722569314304	2015-12-29T12:23:15	Happiness and Inclusive Growth: urbandata  fintech wellbeing inclusivegrowth c oecd FordFoundation
+urbandata	681833327398154240	2015-12-29T13:45:07	Tamir Rice fits a pattern of whites overestimating the age and size of black kids  
+urbandata	681855999016316928	2015-12-29T15:15:13	Letters From COP21: Paris Expects Much Of Cities &amp; The Transport Sector: TransitCenter  CPlan COP21Paris
+urbandata	681854386017009664	2015-12-29T15:08:48	Lack of broadband can be a key obstacle for job seekers: pewresearch  digitaldivide wkdev c ctdata RegionalPlan
+urbandata	681559833783435264	2015-12-28T19:38:21	It took 2 seconds to decide to shoot a child and over a year to decide there should be no consequences. TamirRice 
+urbandata	681594639711899648	2015-12-28T21:56:40	inclusionist laconte rwest817 Implies if prev in that group is 33%, 1 adult spends ~$1,000 (10% income) for every 2 adults who spend $0?
+urbandata	681591400845185024	2015-12-28T21:43:47	inclusionist laconte rwest817 Smoking prevalence among households &gt;$200K was 8%, and of those only 18% smoked every day. n=16,219
+urbandata	681590955422670848	2015-12-28T21:42:01	inclusionist laconte rwest817 This was in CT 2015. Seems that would work out to over 25% of HHinc across that entire group.
+urbandata	681590496414830592	2015-12-28T21:40:12	inclusionist laconte rwest817 DataHaven survey of 1500 representative adults &lt;$15K HHinc: 31% smoking prev, of those, 45% smoke every day
+urbandata	681584066143989760	2015-12-28T21:14:39	Low-income smokers, making less than $30k a yr, spent an average of 23.6% of the household income on cigarettes wow 
+urbandata	681388995197063168	2015-12-28T08:19:30	Commute time important ping lukar_t 
+urbandata	681163389033410560	2015-12-27T17:23:02	greenhousenyt nytimes Sources: 2015 NYTimes/Siena NYC Poll (n=1,961) and 2015 DataHaven/Siena Wellbeing Survey (n=16,219), same item
+urbandata	681162780909682689	2015-12-27T17:20:37	%adults who say police do excellent or good job to keep residents safe NYC: 56% Wealthy CT towns: 92%  greenhousenyt
+urbandata	680840357932826626	2015-12-26T19:59:25	Huge rise in the number of homeless encampments lining both sides of LA freeways  inequality 
+urbandata	679688007872606208	2015-12-23T15:40:23	Building healthy communities takes time and money. Today's precarious, debt strapped workers have neither.  
+urbandata	680419558449135616	2015-12-25T16:07:18	9,400,000 GOP primary voters 314,000,000 Total US population (2012) gopdebate

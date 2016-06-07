@@ -1,0 +1,150 @@
+noaheverett	722945096115757056	2016-04-21T00:28:37	BairdHall haha, gonna make it big!
+noaheverett	722825328335278080	2016-04-20T16:32:42	I've got 99 features and I ain't built one... DevProblems
+noaheverett	722535206025105408	2016-04-19T21:19:51	DanPriceSeattle thanks Dan!
+noaheverett	722159819348647936	2016-04-18T20:28:12	hijiki_nimono I can't perform admin tasks for Twitpic anymore however Twitter support can...sorry I couldn't be of more help :(
+noaheverett	722087791706943488	2016-04-18T15:41:59	TaiwanBrown thanks!
+noaheverett	721796562066739200	2016-04-17T20:24:45	VladimMaccabre keeps the relationship entertaining :)
+noaheverett	721796487689199617	2016-04-17T20:24:27	TedTurnau haha! thanks ;)
+noaheverett	721796401286529024	2016-04-17T20:24:07	box_art haha thaaanks, it's me doing the impersonation...you'd be surprised how often I pull out that voice
+noaheverett	721796203302764545	2016-04-17T20:23:19	trapprain but that's no fun ;)
+noaheverett	721796134042234881	2016-04-17T20:23:03	MANX38 haha that's a good one to do
+noaheverett	721733445790130177	2016-04-17T16:13:57	Sarah hates when I do the Gollum voice 
+noaheverett	720787111050362881	2016-04-15T01:33:33	kaweedo perfect score across the board, looks to be a IP reputation issue with Digitalocean
+noaheverett	720409263617642496	2016-04-14T00:32:07	holmser very little still right now in our beta, 100'ish emails a week if that
+noaheverett	720400965732425728	2016-04-13T23:59:09	holmser matthewdeaners ...actually disregard that, email was only to a few outside accounts during testing, probably didn't matter
+noaheverett	720400465427468288	2016-04-13T23:57:10	holmser matthewdeaners Appreciate that info. Seems at first email was working fine (low usage &lt; 30/month), then started hitting spam
+noaheverett	720386601663094784	2016-04-13T23:02:04	interactivered interesting...what kind of volume do you do with that SMTP server?
+noaheverett	720385502797369346	2016-04-13T22:57:42	interactivered yeah...I think its @digialocean, from my research it seems their IP space is largely considered "spam" by email providers
+noaheverett	720376919695306756	2016-04-13T22:23:36	noahhlo I assume its Digitalocean having bad IP rep since we have SPF, DKIM, DMARC, rDNS &amp; emails are well formed. New host is next try :)
+noaheverett	720375015338676224	2016-04-13T22:16:02	noahhlo great post on email deliverability, does Basecamp still run its own email setup? Running into deliverability issues with my project
+noaheverett	720373231543136256	2016-04-13T22:08:56	matthewdeaners very interesting...thanks for that info
+noaheverett	720369833389334528	2016-04-13T21:55:26	matthewdeaners by default do providers mark "new" domains as SPAM until they get more data for rep? For now just mark as not spam to help?
+noaheverett	720365209450258432	2016-04-13T21:37:04	alexlehm looking into that...thanks!
+noaheverett	720365172351569920	2016-04-13T21:36:55	lorissantamaria thanks, appreciate that link!
+noaheverett	720357725222244352	2016-04-13T21:07:19	cnagele thanks Chris for reaching out, just sent you some DMs...I'm a big fan of Wildbit
+noaheverett	720318311645351936	2016-04-13T18:30:43	jasarmiento09 normally I'd agree, but it's across the board any recipient on gmail, yahoo or outlook from what I can tell...very strange
+noaheverett	720317824527261700	2016-04-13T18:28:46	trapprain loudmouthman appreciate it!
+noaheverett	720317749591810048	2016-04-13T18:28:29	michaelfromuk basically any emailfrom the domain is sent to spam on gmail, yahoo, outlook...no rejection type I can see
+noaheverett	720280883526172676	2016-04-13T16:01:59	mbolden thank you!
+noaheverett	719931151826227200	2016-04-12T16:52:16	zslabs met up with khudsonphillips yesterday &amp; he mentioned you were in CHS. Big fan of DO, hosting pinglyapp there now
+noaheverett	719927472733732864	2016-04-12T16:37:39	Sonny3745 thank you!
+noaheverett	719927380924612608	2016-04-12T16:37:17	IndraniRay thanks Indrani!
+noaheverett	719927305590738944	2016-04-12T16:36:59	dofollow000 thanks Frank!
+noaheverett	719926910193659904	2016-04-12T16:35:25	Daniel_Gardner Thanks Daniel! Sending you a DM...
+noaheverett	719690628641210370	2016-04-12T00:56:31	boknowsfitness thanks bo! Hope you're doing well
+noaheverett	719666094328430593	2016-04-11T23:19:02	EthanDParker thanks man! I'm looking forward to it
+noaheverett	719666018482810880	2016-04-11T23:18:44	Bridgetknapek doing a fall wedding and hoping for great weather :)
+noaheverett	719665634787868672	2016-04-11T23:17:12	MrsTopher thanks Anna!
+noaheverett	719640329671086080	2016-04-11T21:36:39	TawneeCowan thanks!
+noaheverett	719633745133838340	2016-04-11T21:10:29	Some favorites from our engagement photos. Wedding day count down begins! 
+noaheverett	719593027979866117	2016-04-11T18:28:41	StartupGrindCHS sure thing...looking forward to speaking at the June meetup
+noaheverett	719569047080341504	2016-04-11T16:53:24	Hello spring... 
+noaheverett	718142987327430658	2016-04-07T18:26:45	Being tired isn’t a badge of honor by jasonfried 
+noaheverett	715614711010750465	2016-03-31T19:00:17	MeetHouSale interesting, I don't own that account...odd that they follow me though...sorry I couldn't be of more help
+noaheverett	711969346826932224	2016-03-21T17:34:54	Maltagraphics thanks Michaël! It's hard to believe that much time has gone by...I remember when it first came out and signing up.
+noaheverett	711969040407863297	2016-03-21T17:33:41	How to get your app logging to Slack in 15 minutes 
+noaheverett	711944182940696576	2016-03-21T15:54:55	UX_Grant haha yeah! "staged" them in my old apartment...fun times
+noaheverett	706895933884211204	2016-03-07T17:34:58	IanMCrook bryanrmartin next time! :)
+noaheverett	706895836677070848	2016-03-07T17:34:35	mbbertino cowork you too Matt! thanks having me up, had a great time
+noaheverett	706895735590096896	2016-03-07T17:34:11	ChaseLivingston great to meet you to man! hit me up if you're ever in Charleston
+noaheverett	706895523375095809	2016-03-07T17:33:20	chrismerritt thanks for having me out and good meeting ya'll
+noaheverett	706895470182981634	2016-03-07T17:33:08	bryanrmartin cowork good meeting you at Zero Day!
+noaheverett	705124100214226944	2016-03-02T20:14:20	ethanbortnick thanks Ethan! thankful for it all
+noaheverett	705120686562476033	2016-03-02T20:00:46	jaxsaid twitpic photos are still online  or do you mean you can't access your account?
+noaheverett	705109517172916226	2016-03-02T19:16:23	zakstaxi rock on! you should be getting your invite soon...just finishing up one more feature before I send them out
+noaheverett	705106305736949760	2016-03-02T19:03:38	pablo069eh ha! it was a 5 hour drive to the datacenter too, but yeah that load doesn't look secured
+noaheverett	705106105295360000	2016-03-02T19:02:50	box_art didn't quite understand their shutdown either, but that's without seeing the numbers
+noaheverett	705103432961626113	2016-03-02T18:52:13	Found this old photo of Twitpic servers in my parents van headed for the datacenter - 7 years ago! Time flies... 
+noaheverett	702641881759531008	2016-02-24T23:50:53	kriswehner thanks! checking it out now
+noaheverett	702641804571762689	2016-02-24T23:50:35	dan_jenkins rem I researched it last night &amp; was pretty shocked how bad it is for US to EU online transactions, even for non-tangible
+noaheverett	702558029871521792	2016-02-24T18:17:41	MladenPrajdic interesting! thanks for the info
+noaheverett	702557632893165569	2016-02-24T18:16:07	MladenPrajdic does Paypal file and pay the VAT to the specific country for you or do you have to do that manually yourself?
+noaheverett	702557037620813825	2016-02-24T18:13:45	Developers: What payment tools do you use to deal with EU VAT?
+noaheverett	700759899295260672	2016-02-19T19:12:34	gregory enjoyed your 90% post, facing some of that with Pingly. Hope you're doing well, long time no talk since my NYC visit!
+noaheverett	700402178129846272	2016-02-18T19:31:06	derjacboy sweet got your message...just sent a reply back to your email, but got the issue squared away! :)
+noaheverett	700400333994983424	2016-02-18T19:23:47	derjacboy sorry I missed your tweet from the 7th, can you send your email to noah@pingly.com? I'll check the cause of that error
+noaheverett	699692157192556544	2016-02-16T20:29:44	NeemiasMartins messaging service, but also works over email and sms so you can talk to anyone regardless of what network they are on
+noaheverett	690618939009830912	2016-01-22T19:36:00	Mike_Mitrakos hey Mike, sent a message on Pingly about a bug I may have found, could you check that out when you get a chance? Thanks!
+noaheverett	689928547260092417	2016-01-20T21:52:38	gsf___ haha ok cool...I contacted digitalocean's support about it too and they referred me to this tutorial 
+noaheverett	689926329442123776	2016-01-20T21:43:49	gsf___ what distro / version are you running? this is is on digitalocean too?
+noaheverett	689920407596634112	2016-01-20T21:20:17	You may need to manually change your kernel version in Digitalocean's control panel to fix CVE-2016-0728, dist-upgrade might not work
+noaheverett	689508256113242112	2016-01-19T18:02:33	BellaBianca85 Pingly is a messaging app that works with Email and SMS...there's also a little more info on 
+noaheverett	689505871710162944	2016-01-19T17:53:04	Experimenting with a Q&amp;A segment in the next Pingly video - Tweet me any questions regarding Pingly and I'll try to get as many as I can in!
+noaheverett	689186509052858368	2016-01-18T20:44:02	chrismerritt thanks Chris! looking forward to it
+noaheverett	688041207239446532	2016-01-15T16:53:01	RalphLHaley rock on! hoping to have more batches of invites going out soon...just finishing up a few features to make Pingly more useful :)
+noaheverett	688039434592382976	2016-01-15T16:45:59	RalphLHaley saw comment on my Medium post about a beta code, can you submit your email on ? More going out soon!
+noaheverett	688035028828340225	2016-01-15T16:28:28	ChaseLivingston whale cowork great! looking forward to meeting up with you all
+noaheverett	688034637847904256	2016-01-15T16:26:55	ChaseLivingston whale haha yeah! I liked the green colors :) I'm actually coming up to Cowork in March for the Zero Day meetup too
+noaheverett	687318933662220289	2016-01-13T17:02:58	vlucas rock on...just downloaded it to my iPhone
+noaheverett	687314539650674689	2016-01-13T16:45:30	Philoushka thanks for subscribing Phil!
+noaheverett	687314401234391040	2016-01-13T16:44:57	vlucas are you writing each platform independently using Swift / Java or using a cross-platform framework like Ionic?
+noaheverett	687312624497913856	2016-01-13T16:37:53	vlucas oh cool, looking at it now...I could actually use this with my diet / workout plan
+noaheverett	687312323921461248	2016-01-13T16:36:42	DelinaDimova so far it's easier and cleaner via Pingly to chat...as far as more connected, I guess I'll know that in time :)
+noaheverett	687311559308259328	2016-01-13T16:33:40	vlucas let me know when you release it, would like to check it out
+noaheverett	687311169816768512	2016-01-13T16:32:07	DelinaDimova frustrated with email over years, it's clunky when used to msg ppl, wanted a "chat" style app that worked over other networks
+noaheverett	687310356205682692	2016-01-13T16:28:53	mrdoob since Twitter acquired it they may have added the comment export, but I'm honestly not for sure, sorry I couldn't be of more help!
+noaheverett	687308725527408640	2016-01-13T16:22:24	vlucas thanks man! I hope you still do it...would it be about the app we chatted about last year?
+noaheverett	687307949501485056	2016-01-13T16:19:19	DelinaDimova it's a messaging app the works over Email &amp; SMS, this way even if your contacts aren't on Pingly you can still talk with them
+noaheverett	687306869170397184	2016-01-13T16:15:01	DelinaDimova thanks Delina! appreciate the kind words
+noaheverett	687305904274931713	2016-01-13T16:11:11	davemcginn_ie thanks Dave!
+noaheverett	687305864001228800	2016-01-13T16:11:02	MacgurlLaney1 thank you! glad to hear that
+noaheverett	687305291638140929	2016-01-13T16:08:45	mattroe thanks for signing up Matt!
+noaheverett	687304850758086656	2016-01-13T16:07:00	benjaminkohl Pinglyapp thanks Benjamin!
+noaheverett	687303386455257090	2016-01-13T16:01:11	I'm documenting my experience launching my new startup Pinglyapp. Here's the first video of the series 
+noaheverett	685880905190227968	2016-01-09T17:48:45	johndbro1 that's a greate quote...thanks for the reminder!
+noaheverett	685880805973975040	2016-01-09T17:48:21	MacgurlLaney1 thanks! glad you enjoyed it
+noaheverett	685880707881824256	2016-01-09T17:47:58	alysajade glad you enjoyed it, thank you for reading!
+noaheverett	685880607033917440	2016-01-09T17:47:34	kaushal haha good eye! great movie as well
+noaheverett	685878181824479232	2016-01-09T17:37:56	Would it help? 
+noaheverett	685598456690413570	2016-01-08T23:06:24	blakespot thanks for the info...that's been my choice for a while too
+noaheverett	685542287821115392	2016-01-08T19:23:12	"To avoid criticism, say nothing, do nothing, be nothing" - a quote worth repeating by Elbert Hubbard quotes
+noaheverett	685464383288422400	2016-01-08T14:13:38	tuxflo sweet thanks!
+noaheverett	685464284546088961	2016-01-08T14:13:15	DJCWrites had a few people suggest that one...I should revisit Tumblr then
+noaheverett	685464183199105024	2016-01-08T14:12:51	ccming I've seen some companies / apps using Tumblr...curious the benefits vs Medium then if going that route
+noaheverett	685464039095414785	2016-01-08T14:12:16	GlynPress sweet thanks, don't think I've seen this one before...checking it out
+noaheverett	685273475330797569	2016-01-08T01:35:02	torie667 sweet, thanks for the info
+noaheverett	685273449837780992	2016-01-08T01:34:56	alin_cosac thanks!
+noaheverett	685247914709487616	2016-01-07T23:53:28	aherneamon sweet thanks for the info
+noaheverett	685232765147705344	2016-01-07T22:53:16	joshriggs thanks I'll check that out...I know enough to get myself in trouble at least ;)
+noaheverett	685232615486537728	2016-01-07T22:52:41	joshriggs you're not alone...my car recently said it wasn't going to start in a couple hundred miles due to a faulty sensor
+noaheverett	685232283817750528	2016-01-07T22:51:22	seanrawles ooooh haha...you got me :) good one
+noaheverett	685232133108006912	2016-01-07T22:50:46	cymplecy haha thanks...wordpress has been my choice as well
+noaheverett	685232068524163074	2016-01-07T22:50:30	Glycerine wouldn't that be interesting
+noaheverett	685231957899362304	2016-01-07T22:50:04	chuckle_hound haha interesting analogy, I like it
+noaheverett	685231395212517376	2016-01-07T22:47:50	joshriggs I've actually never tried that one yet...I'll look into that one, thanks!
+noaheverett	685231177020665856	2016-01-07T22:46:58	StephenFleming I love Wordpress, been my choice for a while...just curious what other people like &amp; Medium seems to have social built in
+noaheverett	685231000494948352	2016-01-07T22:46:16	seanrawles that's a new one to me...have a link?
+noaheverett	685230937362268161	2016-01-07T22:46:01	zoeforman thanks!
+noaheverett	685230852708642818	2016-01-07T22:45:40	nuclearpengy I've played with it once, need to give it a spin again
+noaheverett	685230801299095552	2016-01-07T22:45:28	robgt haha true...Medium is free though too correct? However with Wordpress you have infinitely more control
+noaheverett	685229758255378432	2016-01-07T22:41:19	jsndacruz if they increase the Tweet size to 10k characters then that could be a possibility haha
+noaheverett	685229630714986496	2016-01-07T22:40:49	robgt love wordpress, used it over the years...I've seen blogs like Signal Vs Noise by Basecamp move to Medium though
+noaheverett	685229422333530112	2016-01-07T22:39:59	SirWoodtheGood I guess that's what the 'Other' option is for :)
+noaheverett	685229290762432512	2016-01-07T22:39:28	Adrienhm big fan of Wordpress, used it over the years...what's your reasoning?
+noaheverett	685228871269089281	2016-01-07T22:37:48	What's the blog platform of choice these days? poll
+noaheverett	685198567829565440	2016-01-07T20:37:23	New year, new homepage, new features!  - First batch of beta invites will be sent out soon
+noaheverett	682262457910472705	2015-12-30T18:10:20	Ryohara good write up, gonna save that on my end to refer back to...thanks!
+noaheverett	682256136888807424	2015-12-30T17:45:13	Ryohara oh I gotcha...I'm experimenting with a 'Connections' feature that might be able to help with that or at least prioritize messages
+noaheverett	682254332708913153	2015-12-30T17:38:03	Ryohara Pingly resides on the consumer side of messaging as a direct messaging app, are you looking more for an email marketing platform?
+noaheverett	682249366074187776	2015-12-30T17:18:19	Ryohara hey Ryan, thanks for signing up, working on Pingly now as we speak...really close to first batch of beta invites
+noaheverett	681655910146699264	2015-12-29T02:00:08	konolink I'll check that out, thanks!
+noaheverett	681655832652689408	2015-12-29T01:59:49	doctork4u2 happy new year to you as well!
+noaheverett	681591590176030720	2015-12-28T21:44:33	argoneus congratulations man!
+noaheverett	681572303235346432	2015-12-28T20:27:54	gunderson I should probably give that a try again, it's been a while
+noaheverett	681572174189228032	2015-12-28T20:27:23	trapprain wow strange! that should be working
+noaheverett	681564587532095488	2015-12-28T19:57:15	subarurider I was able to set mine up in a few minutes which for the speed improvement I found was worth it &amp; fixed a major bug for me
+noaheverett	681563239503781888	2015-12-28T19:51:53	ousadoarcade dang, wish I still had admin access to remove orphaned accounts :/ when did you contact Twitter?
+noaheverett	681562608772739073	2015-12-28T19:49:23	subarurider how so?
+noaheverett	681562575293820929	2015-12-28T19:49:15	trapprain gmail hmm...that is odd, what URL are you going to?
+noaheverett	681552550362005504	2015-12-28T19:09:25	jonathanrobles you too buddy
+noaheverett	674745231833743360	2015-12-10T00:19:34	c_pavs good to meet you
+noaheverett	674745059342946309	2015-12-10T00:18:52	stylinchas good to meet you
+noaheverett	674737222856409088	2015-12-09T23:47:44	DaveMora rock on man! Sounds exciting
+noaheverett	674735360279228416	2015-12-09T23:40:20	logansease swift!
+noaheverett	674725781269045248	2015-12-09T23:02:16	DaveMora how you been?
+noaheverett	674722855486144513	2015-12-09T22:50:39	DaveMora thanks dude! That's a good thing right? Haha
+noaheverett	674379513497788416	2015-12-09T00:06:20	BrentDanis good meeting you bro
+noaheverett	674379299672190976	2015-12-09T00:05:29	@amyloudye BillySchrero good to meet ya'll...I'll DM my email regarding the 15th meetup
+noaheverett	674325610135748608	2015-12-08T20:32:08	anthness ha I like that...good one
+noaheverett	674291819769929728	2015-12-08T18:17:52	benjaminkohl haha...things have definitely changed quite a bit since the 2009'ish days
+noaheverett	674291620188147712	2015-12-08T18:17:04	SherrieRose you're welcome, thanks for using Twitpic :)...you as well

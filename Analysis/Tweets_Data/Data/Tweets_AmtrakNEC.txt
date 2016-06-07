@@ -1,0 +1,57 @@
+AmtrakNEC	722502916725153794	2016-04-19T19:11:33	Service between NWK and NYP has been restored. Customers can expect some congestion-related delays as a result of the earlier disruption.
+AmtrakNEC	722476658574389248	2016-04-19T17:27:13	Service btwn NWK and NYP is currently suspended due to a brush fire near tracks. Service will resume as soon as it is safe to do so.
+AmtrakNEC	716767785192394752	2016-04-03T23:22:11	Amtrak will operate regularly scheduled trains on Monday along the NEC with some delays btwn Philly/Wilmington .
+AmtrakNEC	716695699027542016	2016-04-03T18:35:44	Amtrak is now providing limited service btwn Wilmington/Philadelphia after an earlier incident near Chester, Penn. 
+AmtrakNEC	716614228468228096	2016-04-03T13:12:00	All Amtrak service is suspended between New York City and Philadelphia at this time. Updates available at .
+AmtrakNEC	716608513657671680	2016-04-03T12:49:18	Service on the Northeast Corridor is currently suspended. We will provide updates as they become available.
+AmtrakNEC	716607761396662273	2016-04-03T12:46:18	We are aware of the incident involving the Palmetto train 89 south of Philadelphia and we will provide update as they become available.
+AmtrakNEC	716435528082698240	2016-04-03T01:21:55	Service in/out of DC is significantly delayed due to switch problems. Crews are working to address issue as quickly and safely as possible.
+AmtrakNEC	716046329819082752	2016-04-01T23:35:23	Customers traveling to/from DC may experience residual delays due to earlier switch issue that has been resolved.
+AmtrakNEC	716018494492524544	2016-04-01T21:44:46	Customers traveling to/from DC may experience delays due to a switch issue. Crews are working to resolve.
+AmtrakNEC	714477622609227776	2016-03-28T15:41:54	Service between DC and Baltimore has been restored. Customers may experience residual delays. We apologize for the inconvenience.
+AmtrakNEC	714462633831895042	2016-03-28T14:42:20	Limited service is resuming btwn DC/Baltimore. Customers should expect delays. Additional updates will be provided as they become available.
+AmtrakNEC	714452051221159936	2016-03-28T14:00:17	Service continues to be suspended between Washington, DC (WAS) and Baltimore, MD (BAL) due to earlier police activity.
+AmtrakNEC	714432820907737088	2016-03-28T12:43:52	Service btwn DC/Baltimore is currently suspended due to police activity. We apologize for the inconvenience and will provide updates.
+AmtrakNEC	704692494756352002	2016-03-01T15:39:17	Normal service resumes west of New Brunswick, NJ (NBK) after police activity.
+AmtrakNEC	704688423223877632	2016-03-01T15:23:07	Trains along the Northeast Corridor are operating on or close to schedule following earlier police activity.
+AmtrakNEC	704669881694867456	2016-03-01T14:09:26	Residual delays continue west of New Brunswick, NJ (NBK) after police activity.
+AmtrakNEC	704654451181637632	2016-03-01T13:08:07	Customers can expect residual delays of up to 30 minutes due to police activity btwn NYP/PHL. We apologize for the inconvenience.
+AmtrakNEC	704638933984894977	2016-03-01T12:06:28	Customers traveling btwn PHL/NYP are experiencing delays up to 1 hour due to police activity. We apologize for the inconvenience.
+AmtrakNEC	702480932696104961	2016-02-24T13:11:20	Normal service restored Baltimore, MD (BAL) to Washington, DC (WAS).  Expect residual delays.
+AmtrakNEC	702475470848176128	2016-02-24T12:49:38	Service delayed Baltimore, MD (BAL) to Washington, DC (WAS) due to overhead wire problems.  Repairs underway.
+AmtrakNEC	700671826213601280	2016-02-19T13:22:35	Scheduled Amtrak service in Boston has been restored. Crews worked throughout the night to repair earlier switch issue.
+AmtrakNEC	700486415813992449	2016-02-19T01:05:50	Amtrak passengers should expect delays late Thursday evening/early Friday morning of about 30 mins if traveling through the Boston area.
+AmtrakNEC	700485918356975616	2016-02-19T01:03:51	Crews working through the night to find solution to switch issue that caused cancellations/delays to Amtrak &amp; MBTA commuter trains today.
+AmtrakNEC	700433943741399040	2016-02-18T21:37:20	Passengers should expect delays through the afternoon rush hour on trains in/out of Boston South Station due to the on-going switch issue.
+AmtrakNEC	700423318029991936	2016-02-18T20:55:06	Engineering forces are actively working to fix the issue &amp; restore scheduled service into/out of BOS. We apologize for any inconvenience.
+AmtrakNEC	700422932405706756	2016-02-18T20:53:34	Amtrak service in and out of Boston South Station is delayed between 30 minutes to 2 hours due to a signal issue.
+AmtrakNEC	700356151926460417	2016-02-18T16:28:13	Service in and out of Boston South Station is delayed approx 1-2 hours due to a signal issue. Updates available at .
+AmtrakNEC	698306002500902912	2016-02-13T00:41:39	Track condition in the north tube of Hudson River tunnel has been resolved. Passengers traveling btwn NY/NJ may experience residual delays.
+AmtrakNEC	698247667965538304	2016-02-12T20:49:51	Service btwn NY and NJ is subject to delays of 30 mins or more due to a track condition in the north tube of the Hudson River tunnel.
+AmtrakNEC	696728795231944704	2016-02-08T16:14:24	Service has been restored between New Haven, CT (NHV) and Boston South Station, MA (BOS) after police activity.   Residual delays expected.
+AmtrakNEC	696717697678229504	2016-02-08T15:30:18	Service continues to be suspended between New Haven, CT (NHV) and Boston South Station, MA (BOS) due to police activity.
+AmtrakNEC	696705531440836608	2016-02-08T14:41:57	Service New Haven, CT (NHV) to Boston South Station, MA (BOS) has been suspended due to police activity.
+AmtrakNEC	692113697003667456	2016-01-26T22:35:38	Amtrak service levels restored on Wednesday, Jan. 27 following blizzard2016. 
+AmtrakNEC	691789504924028935	2016-01-26T01:07:25	Amtrak will continue a modified schedule on 1/26 operating btwn 80/100% of normal levels following blizzard2016: 
+AmtrakNEC	691401493274996736	2016-01-24T23:25:36	Amtrak will continue operating a modified schedule due to winter storm for Monday, Jan. 25: . blizzard2016
+AmtrakNEC	691083603522945024	2016-01-24T02:22:25	Plans for Monday service to/from the NEC will be announced as soon as possible. Details will be available here: .
+AmtrakNEC	691082327502376961	2016-01-24T02:17:21	Amtrak continues modified service level in the Northeast on Sunday: . blizzard2016
+AmtrakNEC	690869198122291200	2016-01-23T12:10:27	Amtrak continues modified service on the NEC/East Coast due to winter storm. Latest info here: . blizzard2016
+AmtrakNEC	690299464792170497	2016-01-21T22:26:32	Amtrak modifies service in the Northeast in preparation for the predicted winter storm: . 
+AmtrakNEC	689587157258866689	2016-01-19T23:16:04	Service is restored New York, NY to Stamford, CT after overhead wire problems.  Residual delays expected.
+AmtrakNEC	689577388192104448	2016-01-19T22:37:15	Service New York, NY to Stamford, CT delayed due to overhead wire problems.  Repairs underway, thank you for your patience.
+AmtrakNEC	683862252684980224	2016-01-04T04:07:21	@CellistPondWe are so sorry for your delay.  Due to downed power lines, all tracks were closed. Currently running approx 2hrs late
+AmtrakNEC	683804550604664833	2016-01-04T00:18:03	dekepod Thank you for the kind words. We're happy you enjoyed the ride. Come back soon!
+AmtrakNEC	683780667960889348	2016-01-03T22:43:09	krislintz We apologize. Please let the conductor know.
+AmtrakNEC	679493084011458560	2015-12-23T02:45:50	eponis Sounds perfect ;)
+AmtrakNEC	679463558229409792	2015-12-23T00:48:30	loconsoho Oh good! Well don't hesitate to call 1-800-872-7245 if you have any travel questions.
+AmtrakNEC	679461217451270145	2015-12-23T00:39:12	loconsoho Buy tickets, but don't log in, continue as a guest.  Our IT department has been working on a fix for this.
+AmtrakNEC	679457234359836672	2015-12-23T00:23:23	jasonbhood The Acela only goes as far north as Boston, MA. You then connect to our Downeaster service into Maine.
+AmtrakNEC	677237557961314304	2015-12-16T21:23:10	Limited service restored New York, NY (NYP) to New Rochelle, NY (NRO) after power system problems.  Expect residual delays.
+AmtrakNEC	677236459653480448	2015-12-16T21:18:49	Electric service btwn NYP and NRO has been restored. Residual delays can be expected through the evening. Details: 
+AmtrakNEC	677201069047459840	2015-12-16T18:58:11	Service continues to be disrupted New York, NY (NYP) to New Rochelle, NY (NRO) due to power system problems.  Repairs underway.
+AmtrakNEC	677199468807266305	2015-12-16T18:51:49	We are running a limited diesel operation between NYP/NRO as a result of the power outage. 1-2 hour delays can be expected.
+AmtrakNEC	677186022120255488	2015-12-16T17:58:23	Service New York, NY (NYP) to New Rochelle, NY (NRO) is disrupted due to a power system problem.  Repairs Underway.
+AmtrakNEC	674747925038309376	2015-12-10T00:30:16	@nyc_elle_p We’re looking forward to seeing you on board! Amtrak
+AmtrakNEC	648987560988016640	2015-09-29T22:27:46	Service continues to be delayed between Elizabethtown, PA to Lancaster, PA due to signal problems. Expect 30 to 60 minute delays.
+AmtrakNEC	648974339661017089	2015-09-29T21:35:14	Service continues to be delayed between Elizabethtown, PA and Lancaster, PA due to signal problems.  Repairs are underway.

@@ -1,0 +1,30 @@
+Risk_Carver	440433560881606657	2014-03-03T10:28:38	IASB's Hoogervoorst: "a lot of work for nothing". FASB rejects IFRS 9 
+Risk_Carver	436525045507457026	2014-02-20T15:37:35	Cleared USD swap volumes fall 80% on first day of Sef regime: 
+Risk_Carver	436133214306848768	2014-02-19T13:40:35	Emir woes deepen - some corporates still waiting for connection to DTCC, and have stopped trading swaps as a result: 
+Risk_Carver	435768770301526016	2014-02-18T13:32:25	Mandatory SEF starts today. Let me know how trading goes. New experience for many buy-side firms
+Risk_Carver	435422922958598144	2014-02-17T14:38:09	Looks at various methods of pricing embedded options in CSAs. Trick making rates conditionally independent best 
+Risk_Carver	435421649811144704	2014-02-17T14:33:05	...and Barclays's Vladimir Piterbarg (2 time Risk quant of the year) is back on collateral choice CSAs 
+Risk_Carver	435420769581928449	2014-02-17T14:29:35	Reckons using a plain old Vasicek distribution function with realised estimates for PDs is just as good 
+Risk_Carver	435420523074314240	2014-02-17T14:28:37	Jon Frye at the FRB Chicago reckons all the bells and whistles of LGD models add nothing statistically 
+Risk_Carver	435420304316178432	2014-02-17T14:27:44	Got a couple of technical articles for you coming up...
+Risk_Carver	435402815880454144	2014-02-17T13:18:15	Contributing authors forgetting to attach copy to email and then going on unreachable holiday. Grrr.
+Risk_Carver	433901147380645888	2014-02-13T09:51:09	CFTC declares war on trees: 
+Risk_Carver	431779870830391296	2014-02-07T13:21:57	German DMO to start collateralising its swaps: 
+Risk_Carver	431714096300298240	2014-02-07T09:00:36	Difficult to compare FVA numbers depend on methodology and portfolio moneyness, but DB number feels low to me. Pure speculation, of course
+Risk_Carver	431713313278279680	2014-02-07T08:57:29	Follows JP's $1.5bn and Deutsche's €364m (~$495m) FVA losses
+Risk_Carver	431712644915929088	2014-02-07T08:54:50	Nomura latest to announce an FVA line item:   ¥10 bn ($98m) loss 
+Risk_Carver	431414897532878849	2014-02-06T13:11:41	Congressional Republicans are wondering why their wasn't a C/B analysis for Volcker. "We did, kinda," say regulators 
+Risk_Carver	429304534523850752	2014-01-31T17:25:51	DrMRFrancis evelynjlamb maanow a triviality of algebraists? *ducks*
+Risk_Carver	428856471950880768	2014-01-30T11:45:25	Good paper on local correlation by Julien Guyon. Here's my introduction, with one of my better headers: 
+Risk_Carver	428851436467007488	2014-01-30T11:25:24	Cutting Edge introduction: Living la vida local 
+Risk_Carver	428223708969193472	2014-01-28T17:51:02	I finally get around to setting up an autocorrect to put the accents in Societe Generale, and they decide to take them off!
+Risk_Carver	428109831145144320	2014-01-28T10:18:32	Colleague met a guy yesterday literally called Ben Hur. Awesome.
+Risk_Carver	426048795944558593	2014-01-22T17:48:43	It also bugs me when people talk about a 'positive matrix' and the definition doesn't agree with it being a positive operator. Grrrrr
+Risk_Carver	426045928064024576	2014-01-22T17:37:19	People who put set brackets around sequences and vector components. I hate your ridiculous pedantic asses.
+Risk_Carver	425670836347891712	2014-01-21T16:46:50	MRVAssociates That's how it's supposed to work! Sadly I am not allowed opinions... :-(
+Risk_Carver	425648179732680705	2014-01-21T15:16:48	MRVAssociates But anyway I think the stated aim of the FRTB is just to make sense of it all. If you want more capital, tell the Committee!
+Risk_Carver	425647806393511936	2014-01-21T15:15:19	MRVAssociates Well they have a reasonable case that there is some double counting eg between IRC &amp; default charge, CVA &amp; CCR, SVAR &amp; VAR...
+Risk_Carver	425644659398819841	2014-01-21T15:02:49	MRVAssociates ...as well as trying to increase comparability and decrease model risk. Think levels are supposed to be about the same.
+Risk_Carver	425644315507847168	2014-01-21T15:01:27	MRVAssociates I doubt they'd say they benefit! B2.5 and 3 about raising capital. FRTB about rationalising the various bits and bobs in them
+Risk_Carver	425634905066704897	2014-01-21T14:24:03	MRVAssociates Yep. Not endorsing their view, just reporting it. Asked Basel for theirs. Fwiw FRTB isnt nec about raising capital
+Risk_Carver	425601824486203393	2014-01-21T12:12:36	Basel QIS schedule is unrealistic partly bc of limited manpower. "We're not all sitting idle twiddling our thumbs" 

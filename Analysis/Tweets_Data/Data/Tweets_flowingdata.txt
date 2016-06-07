@@ -1,0 +1,210 @@
+flowingdata	726068695085158401	2016-04-29T15:20:41	Mapping words to parts of the brain  
+flowingdata	725743577515454464	2016-04-28T17:48:47	chrisgdorn ah. that function is defined on line 71 of the source.
+flowingdata	725742102747848704	2016-04-28T17:42:55	chrisgdorn you mean for horizontal bar charts? yeah, that's the horiz argument in the barplot() function
+flowingdata	725033013617278977	2016-04-26T18:45:15	Using information graphics to calibrate bias 
+flowingdata	725010756337455105	2016-04-26T17:16:49	American Slavery maps  by thebillrankin 
+flowingdata	724641214952169473	2016-04-25T16:48:23	arnicas v cool
+flowingdata	723183367638781953	2016-04-21T16:15:25	alignedleft mbostock this guy. wtf. WTF. not worth the cycles.
+flowingdata	722856482132234241	2016-04-20T18:36:30	All new, jeffrey_heer of uwdata joins us to talk research, industry, and software design -  
+flowingdata	722890515201466368	2016-04-20T20:51:44	Thanks to thisismetis for sponsoring. Their SF course on viz with d3.js starts next week  taught by syntagmatic
+flowingdata	722878440504819712	2016-04-20T20:03:45	jyamad maybe. i think another thing with the histogram is that it looks like a bar chart. there's an expectation thing there.
+flowingdata	722876917284622336	2016-04-20T19:57:42	jyamad tmertzi for the uninitiated, values on the horizontal and counts on the vertical is a tough conceptual jump
+flowingdata	722860750553931776	2016-04-20T18:53:27	flowingdata It’s simple. 
+flowingdata	722859652732465152	2016-04-20T18:49:05	BrnPttmn you gotta believe!
+flowingdata	722852407227473921	2016-04-20T18:20:18	One day most people will understand histograms. Today is not that day.
+flowingdata	722808368386019328	2016-04-20T15:25:18	dwhitena no prob
+flowingdata	722806421885063170	2016-04-20T15:17:34	brianfung mmhm. i wanted to see spreads and the shifts over time, and it was more clear when the axes adjusted
+flowingdata	722802881036836866	2016-04-20T15:03:30	Shifting Parent Work Hours, Mom vs. Dad 
+flowingdata	722524414986829825	2016-04-19T20:36:59	This... this is a joke by google, right? 
+flowingdata	722458336730320896	2016-04-19T16:14:24	Network visualization showing interconnectedness of the galaxies by kimay is tops 
+flowingdata	722123439801143296	2016-04-18T18:03:39	The ridiculousness of the StephenCurry30 three-point record  by driven_by_data and KevinQ
+flowingdata	720953081454833664	2016-04-15T12:33:03	Oh yes, the pizza slice bar chart is really happening  
+flowingdata	721007219899179009	2016-04-15T16:08:11	Every Kobe Bryant shot charted  MambaOut 
+flowingdata	720669715534721024	2016-04-14T17:47:04	Sweet virus trading cards  by eleanor_lutz 
+flowingdata	720342431825207296	2016-04-13T20:06:33	Server move. brb
+flowingdata	720284057116913665	2016-04-13T16:14:36	This cartoon lets you try to balance Donald Trump and Ted Cruz’s tax plans  by alv9n 
+flowingdata	719949246460329984	2016-04-12T18:04:11	Easy Voronoi and Delaunay in R, with the deldir package  
+flowingdata	719003297705689088	2016-04-10T03:25:19	mjfoster83 luck favors the great
+flowingdata	718918440287744000	2016-04-09T21:48:07	sogrady nba repeats the same three, sometimes playing the first one twice
+flowingdata	718223968281489410	2016-04-07T23:48:32	drob jtleek FIGHT. 
+flowingdata	717418265501274112	2016-04-05T18:26:58	A calculator by bycoffe to see if you can get Trump to majority  
+flowingdata	717383078843256833	2016-04-05T16:07:08	Recreating the Porsche driving experience. So pretty.  by onformative 
+flowingdata	717096398366183424	2016-04-04T21:07:59	Link from IFLScience! People really do love science. 
+flowingdata	717046906111692801	2016-04-04T17:51:19	NGreusel not the best i know but it matches my utility bill so useful to me
+flowingdata	717017900880494592	2016-04-04T15:56:03	I tracked power usage at my desk, which was a pretty good proxy for when i work  
+flowingdata	716138478065426434	2016-04-02T05:41:33	At least I get to shave my home streak beard. Haven’t shaved in months.
+flowingdata	716137867588673536	2016-04-02T05:39:07	gerald_arthur stay strong
+flowingdata	716134216941961216	2016-04-02T05:24:37	that stings warriors
+flowingdata	715942513509605377	2016-04-01T16:42:51	Are police body cameras reliable? You be the judge.  
+flowingdata	715954460011454464	2016-04-01T17:30:19	calnino prob start w the data-vis google group cc arnicas
+flowingdata	715905137785511937	2016-04-01T14:14:20	fathominfo is there a feed for EBD?
+flowingdata	715561419928838145	2016-03-31T15:28:31	Rivers through time  by zzsylvester 
+flowingdata	715398947146047489	2016-03-31T04:42:55	WARRIORS
+flowingdata	715276364019077122	2016-03-30T20:35:49	.flowingdata Nathan, there is a 2014 SIPP panel, but it has not been released yet. The 2008 panel is the most recent available.
+flowingdata	715246993283555328	2016-03-30T18:39:06	When you think your design works perfect but then you do user testing… 
+flowingdata	715207977716883456	2016-03-30T16:04:04	Divorce and remarriage rates for different groups  
+flowingdata	715191348538650624	2016-03-30T14:57:59	1DalM gasp. notify the authorities
+flowingdata	714845014963007489	2016-03-29T16:01:47	Data Proofer automates the data checking process. Worth a look 
+flowingdata	713418061710163968	2016-03-25T17:31:35	ergh, awoodruff that is
+flowingdata	713383219685490688	2016-03-25T15:13:08	Coastline across the ocean, from where you’re standing  by andywoodruff 
+flowingdata	713027280633638913	2016-03-24T15:38:45	With a ref to Sports Night and a shoutout for deleeuw_jan in the last NSSDeviations, how could I not patreon up? 
+flowingdata	712701760146571264	2016-03-23T18:05:15	Evolution of the violin hole  
+flowingdata	712458500413108224	2016-03-23T01:58:37	simplystats hadleywickham this seems familiar
+flowingdata	712456482822815745	2016-03-23T01:50:36	I just want to plot(). Leave me alone.
+flowingdata	712355288167264256	2016-03-22T19:08:30	ExpectAPatronum i thought i was being straightforward
+flowingdata	712347795148025858	2016-03-22T18:38:43	p.s. Not trying to pick any fights. I was genuinely interested if I should work ggplot2 into my workflow.
+flowingdata	712347338807894017	2016-03-22T18:36:55	I compared ggplot2 to base graphics in R with a side-by-side  
+flowingdata	712315919603597313	2016-03-22T16:32:04	hadleywickham I just gave it to RStudio. Base to .
+flowingdata	712088612414705665	2016-03-22T01:28:49	uchoedu88 yes
+flowingdata	711356809085198338	2016-03-20T01:00:54	Do people like the live three-point highlighter? Seems kinda horrible.
+flowingdata	710945161551986688	2016-03-18T21:45:09	Thanks to thisismetis for sponsoring this week. Learn data visualization with d3.js in their SF or NY courses 
+flowingdata	710924737430466564	2016-03-18T20:24:00	What the world is covering in the news right now i.e. elections alternative  by JigsawTeam 
+flowingdata	710534596312436736	2016-03-17T18:33:43	Deep thoughts on the can
+flowingdata	710140044246257664	2016-03-16T16:25:54	AmeliaMN p.s. i use reederapp with feedly
+flowingdata	710139760015048705	2016-03-16T16:24:47	AmeliaMN ah. yeah almost definitely the reason. I’ll have to look into that
+flowingdata	710138477162041345	2016-03-16T16:19:41	AmeliaMN Never worked or recently?
+flowingdata	709465018207571968	2016-03-14T19:43:36	Uncertainty in polls explained with a simulation  by maartenzam
+flowingdata	707966349679529984	2016-03-10T16:28:25	iamhabitat yep
+flowingdata	707962013822025729	2016-03-10T16:11:12	Not everyone gets married. Here are those people.  
+flowingdata	707747124687994880	2016-03-10T01:57:18	zanspace yeah i update regularly. Plus R graphics doesn’t change all that fast.
+flowingdata	707650511189594112	2016-03-09T19:33:24	mbostock oh just dealing with missing data which led me to .defined()
+flowingdata	707643923150155778	2016-03-09T19:07:13	Every time I think I'm at a d3.js roadblock, I google and see that mbostock already made and documented a solution.
+flowingdata	707598955450802177	2016-03-09T16:08:32	IstvanHajnal product placement WORKS
+flowingdata	707268378788900864	2016-03-08T18:14:56	zenrhino A decade and a half old and still going strong
+flowingdata	707267952945410048	2016-03-08T18:13:15	Forgot to include this 
+flowingdata	707261918155673600	2016-03-08T17:49:16	McBurneyMc baby steps
+flowingdata	707261551758090242	2016-03-08T17:47:48	Aexheaan plus, if you don't know javascript and know R already, might be better use of time
+flowingdata	707261383520292864	2016-03-08T17:47:08	Aexheaan It's slower and less responsive. But if it's just to supplement a paper/report, seen by only a few people, not bad
+flowingdata	707241563466760192	2016-03-08T16:28:23	I include processing, formatting, and analysis because the visualization stuff comes much much much easier if you line things up first
+flowingdata	707241017162858497	2016-03-08T16:26:13	Here is what I use to visualize data 99% of the time 
+flowingdata	707240401409675264	2016-03-08T16:23:46	dataandme the simulation itself runs in JavaScript but aggregation and data prep are in R
+flowingdata	707239848894013441	2016-03-08T16:21:34	arnicas yeah, now that you say that, I think that's why I never looked that closely at it
+flowingdata	706915500672946176	2016-03-07T18:52:43	Messing with mapzen Tile Exporter  Super easy 
+flowingdata	706514904795074561	2016-03-06T16:20:54	bummerschool Yeah, that's my end. Hope to fix soon.
+flowingdata	705836949571940353	2016-03-04T19:26:57	My mapzen coworker hanbyul_here made a tool to 3D print vector map tiles–3D La Lengua GIF!  
+flowingdata	705436872034529280	2016-03-03T16:57:11	When people get married, by demographic group  
+flowingdata	704932748029534209	2016-03-02T07:33:58	jamesmcadoo welcome back man
+flowingdata	704860297475944448	2016-03-02T02:46:05	SR_spatial who has time for that
+flowingdata	704857388445102080	2016-03-02T02:34:31	The UpshotNYT is using a simulation to show possible outcomes, as results come in. Nice. 
+flowingdata	704726684881149952	2016-03-01T17:55:09	ternativebro sadness
+flowingdata	704712108634542080	2016-03-01T16:57:14	Data doc from the Consumer Product Safety Commission is in Comic Sans. COMIC SANS.  
+flowingdata	703798816546291713	2016-02-28T04:28:08	WARRIORS
+flowingdata	703273740851929088	2016-02-26T17:41:40	flowingdata Re: GMaps screencaps … I’ve improved on it a little here:  (tho this code doesn’t have the interval)
+flowingdata	702909950348005376	2016-02-25T17:36:06	Vega-Lite by uwdata helps you make quick, web-based charts  
+flowingdata	702566114052673536	2016-02-24T18:49:49	I guess School House Rock glossed over a few steps  
+flowingdata	702541317436379136	2016-02-24T17:11:17	How much warmer your city was in 2015  an interactive by kkrebeccalai 
+flowingdata	700874014131007489	2016-02-20T02:46:01	AlisonWilson09 krees jcukier spread poop to the highest mountain top
+flowingdata	700761786761392129	2016-02-19T19:20:04	How did the DAILY MAIL steal my visualization twice? Read this to find out 
+flowingdata	700418273687408640	2016-02-18T20:35:04	Korean Data Points 
+flowingdata	700383199591997440	2016-02-18T18:15:41	Maybe advanced data science methods aren't what your business needs now. Arithmetic might do  says noahhlo
+flowingdata	700031543067090944	2016-02-17T18:58:20	hadleywickham if want file just lemme know
+flowingdata	700027932077461504	2016-02-17T18:43:59	Math of crime and terrorism from the entertaining FryRsquared on numberphile 
+flowingdata	699744095934111746	2016-02-16T23:56:07	NEISS data (as featured by flowingdata and my tweets) as an rstats package: 
+flowingdata	699768828847198213	2016-02-17T01:34:24	aughastly must be doing something right
+flowingdata	699743160193253376	2016-02-16T23:52:24	hadleywickham no, TabulaPDF took care of most of it. i think i had to clean up a little bit but not much
+flowingdata	699738991877189633	2016-02-16T23:35:50	hadleywickham grabbed from the Product Code Comparability Table (pdf) 
+flowingdata	699670067785527296	2016-02-16T19:01:58	Problem solving skills on point  
+flowingdata	699642360343363584	2016-02-16T17:11:52	Should’ve waited to come to DMV tomorrow.  
+flowingdata	699641215109566465	2016-02-16T17:07:19	paulehr lol no. Although that doesn’t make it much better I guess
+flowingdata	699633951845953536	2016-02-16T16:38:27	So important. All the objects that got stuck in people’s rectums  
+flowingdata	697537181431169024	2016-02-10T21:46:38	Neat tutorial at flowingdata: Interactive Stacked Area Chart with d3.js  dataviz 
+flowingdata	697851977993056256	2016-02-11T18:37:31	Same. 
+flowingdata	697474042454880256	2016-02-10T17:35:44	DataBasic, a suite of beginner tools, like WTFcsv  
+flowingdata	697052830818045952	2016-02-09T13:42:00	Come join our hybrid R&amp;D group in NYC, and work on projects that make you feel warm and fuzzy: 
+flowingdata	697161605868445696	2016-02-09T20:54:14	jonkeegan yeah. From NEISS docs: "injuries involving firearms qualify for a special study by the CDC"
+flowingdata	697144243761061889	2016-02-09T19:45:14	Thanks to thisismetis for sponsoring the feed this week. They have a data science open house in SF tonight 
+flowingdata	697103531778711553	2016-02-09T17:03:28	Why people visit the ER  
+flowingdata	697084658081775617	2016-02-09T15:48:28	woo hoo for toddler wake-up calls two hours early. woo woo
+flowingdata	697083159733612544	2016-02-09T15:42:31	lutherkent If R specifically, start w/ the course  but if want more on visualization in general go w/ Visualize This
+flowingdata	696848761658552320	2016-02-09T00:11:06	sogrady all i see is a blue rubin vase
+flowingdata	696753293133938688	2016-02-08T17:51:44	Just got really excited about starting the section on statistical distributions in the flowingdata R Visualization course. nerd
+flowingdata	696740947552395264	2016-02-08T17:02:41	Galaxies of cover songs  by IXT 
+flowingdata	695647088625848320	2016-02-05T16:36:05	Why Central Africa is missing from that map  by onyxfish
+flowingdata	695535752969633792	2016-02-05T09:13:40	Just paid for another month of access to flowingdata. Worth it!
+flowingdata	695293896876761089	2016-02-04T17:12:37	According to charges filed by the F.B.I., 28 took steps to carry out an attack  
+flowingdata	695324783878078464	2016-02-04T19:15:21	Watch 30-second irrelevant ad for 9-second clip. I hate myself.
+flowingdata	695300209614585857	2016-02-04T17:37:42	Wind prediction map with a bit of uncertainty because it's freakin wind  by moritz_stefaner 
+flowingdata	695299251295748096	2016-02-04T17:33:54	mushon I listen to podcasts exclusively when I drive my kid to school :)
+flowingdata	694939069315330048	2016-02-03T17:42:40	Listen to krees and mushon talk about empathy and visualization  Good stuff.
+flowingdata	694358507416653824	2016-02-02T03:15:43	Super detailed precinct-level maps of Iowa results as they come in 
+flowingdata	694294638895583232	2016-02-01T23:01:55	Glad TabulaPDF exists. Still hate government-published data in PDF files.
+flowingdata	694198466331848704	2016-02-01T16:39:46	Guess the Correlation: A surprisingly fun game where you guess the correlation  by omarwagih 
+flowingdata	693117244268748800	2016-01-29T17:03:23	Grid map showdown. kristw compares the state grids using five metrics  
+flowingdata	692840863878111233	2016-01-28T22:45:08	Experiments in visualizing uncertainty by uwdata  
+flowingdata	692795577692766208	2016-01-28T19:45:11	Nice. ProPublica takes over the NYT Campaign Finance API, updated every 15 minutes 
+flowingdata	692777596715577344	2016-01-28T18:33:44	I may or may not keep Snapchat on my phone so I can complain about it.
+flowingdata	692408216119042048	2016-01-27T18:05:57	Pretty glittering blue globe by vruba, made with satellite imagery  
+flowingdata	692043417493311488	2016-01-26T17:56:22	Great news: UpshotNYT's new editor is amandacox. As Dean Baquet's memo says, she's probably the smartest journalist I've ever worked with.
+flowingdata	690289741615333376	2016-01-21T21:47:54	Make 3-D globes!  Bookmarking so hard now, sdbernard's QGIS videos. 
+flowingdata	690287571763507200	2016-01-21T21:39:16	My general feeling is that if you're a jerk online, you're a jerk IRL. There aren't enough minutes in the day for that.
+flowingdata	690286975882899456	2016-01-21T21:36:54	Also, the first posts of tamaramunzner's new blog are worth a look. Like this one:  Addressing S. Few's words.
+flowingdata	690285827792904192	2016-01-21T21:32:20	Related, this talk by viegasf and wattenberg that uses book genres as a way to look at visualization 
+flowingdata	690285326867136513	2016-01-21T21:30:21	I agree with moritz_stefaner. Visualization is a continuous thing 
+flowingdata	690284403667271680	2016-01-21T21:26:41	Stuck in bed with a cold, so catching up on viz reading.
+flowingdata	690281950792159232	2016-01-21T21:16:56	RonenKahana ah good times
+flowingdata	690228765255860224	2016-01-21T17:45:36	poverty_action sure you're welcome to use the gif
+flowingdata	690016404431638528	2016-01-21T03:41:45	I have no idea what I'm doing but it sure is fun. 
+flowingdata	689872357029052416	2016-01-20T18:09:21	JanWillemTulp grats!
+flowingdata	689869263960543233	2016-01-20T17:57:04	mbostock Yep, did that after the first one yesterday, along with a special "poop" alert(). So the Mail just downloaded it all outright. woo
+flowingdata	689835652674813953	2016-01-20T15:43:30	kate_pickles MailOnline Creator here. Please remove the interactive from Daily Mail.
+flowingdata	689833119961100288	2016-01-20T15:33:26	derekwillis Do they think it’s okay or do they just not care?
+flowingdata	689828248658685956	2016-01-20T15:14:05	This is getting ridiculous. Instead of an iframe from FD, MailOnline just straight up lifted the interactive 
+flowingdata	689588575717879809	2016-01-19T23:21:43	Fixed it. 
+flowingdata	689583218186592256	2016-01-19T23:00:25	What would make anyone think it's okay to jack someone else's stuff with an iframe? wtf NZStuff 
+flowingdata	689581223153242112	2016-01-19T22:52:30	kamal_hothi errr. thanks for heads up.
+flowingdata	689500381915705344	2016-01-19T17:31:16	pjbennett1959 external causes
+flowingdata	689499512105111553	2016-01-19T17:27:48	AvrahamAdler i'm on it!
+flowingdata	689498853490360320	2016-01-19T17:25:11	AvrahamAdler i try
+flowingdata	689498497695936516	2016-01-19T17:23:46	Made a simulator. For how you will die. Enter your sex, race, and age.  
+flowingdata	689494538042212352	2016-01-19T17:08:02	gigglinglloyd Sorry, server is apparently acting up. I'll try to look into it soon.
+flowingdata	688001642030100481	2016-01-15T14:15:48	Between the Words: Exploring the punctuation in literary classics  (via stegue88) Beautiful! 
+flowingdata	687330222094454784	2016-01-13T17:47:49	The nypl_labs made 180k digital items in the public domain available for high-res download  
+flowingdata	686917984833683456	2016-01-12T14:29:44	A post about teaching d3 for a semester, with big thanks to alignedleft vlandham flowingdata for materials help 
+flowingdata	685934440825012224	2016-01-09T21:21:29	The smiley face box has nothing on a tavour box full of quality beer  
+flowingdata	685599242761547776	2016-01-08T23:09:31	Lose your pretend paycheck with this lottery simulator from gaufre  
+flowingdata	685573332574449664	2016-01-08T21:26:34	AlexCEngler Nothing planned but not ruling it out..
+flowingdata	685175742339002368	2016-01-07T19:06:41	Tools you can use, built by nprviz 
+flowingdata	684968422615060481	2016-01-07T05:22:52	gr3gjsmith i want to cry
+flowingdata	684868408979132417	2016-01-06T22:45:27	German name place endings  by moritz_stefaner 
+flowingdata	684762396167135233	2016-01-06T15:44:12	DataVis folks! We're looking to hire someone full-time to join tafsiri, vlandham and I here at bocoup. Apply now 
+flowingdata	684785800861487104	2016-01-06T17:17:12	Jazzlemck07 little to none coding experience
+flowingdata	684631842893381632	2016-01-06T07:05:25	Got a piece of recruiting snail mail to become an Uber driver. Kind of wanna do it
+flowingdata	684555864129146880	2016-01-06T02:03:31	tejenkins yeah US data from CDC. See post for details
+flowingdata	684456311702994944	2016-01-05T19:27:55	bkerensa Diabetes is in the category "Endocrine, Nutritional, and Metabolic Diseases"
+flowingdata	684433384173535232	2016-01-05T17:56:49	Causes of death by age  
+flowingdata	684248786600763392	2016-01-05T05:43:18	Warriors
+flowingdata	683746872154959872	2016-01-03T20:28:52	albertocairo such a long timeline. I don't even know what I'm doing next week
+flowingdata	683680530928431104	2016-01-03T16:05:15	Thought after struggling with maps this morning: Glad I paid for a flowingdata subscription  
+flowingdata	682998887150321664	2016-01-01T18:56:38	I have so many questions for the creator(s) of this chart… 
+flowingdata	681828290533933057	2015-12-29T13:25:06	Radar picked up birds taking flight after an earthquake in Oklahoma this morning okquake h/t LaceySwope 
+flowingdata	682799103944753152	2016-01-01T05:42:46	Damn it east coast spoiler much
+flowingdata	682655775697833985	2015-12-31T20:13:14	2015 
+flowingdata	682454552826753024	2015-12-31T06:53:39	mindykaling wife and I binge-watched TheMindyProject over a couple days after kid went to sleep. Great work
+flowingdata	682253729815334912	2015-12-30T17:35:39	Shakespeare tragedies as network graphs  by GrandjeanMartin 
+flowingdata	682100510229270528	2015-12-30T07:26:49	dancow it's low right
+flowingdata	681974659898687489	2015-12-29T23:06:44	TFW you "knew that was gonna happen" and you still do nothing about "that" – and then "that" happens
+flowingdata	680154579208552448	2015-12-24T22:34:23	paulehr oh yeah! I wasnt as lost but was equally disinterested
+flowingdata	680154130858422272	2015-12-24T22:32:36	Or not. Whatever.
+flowingdata	680154053125390336	2015-12-24T22:32:17	No. I refuse. This is not my fate. I will rise to the occasion and Instagram-Snapchat-Messenger-WhatsApp the hell out of these kids.
+flowingdata	680153178508165120	2015-12-24T22:28:49	jimmycallin i do not accept this fate
+flowingdata	680152958965694464	2015-12-24T22:27:56	A blog and email: Is there where my Internet life stops?
+flowingdata	680152093148094466	2015-12-24T22:24:30	I thought I would always be in the know bc I live on the internet but results show that was a lie
+flowingdata	680151710443020290	2015-12-24T22:22:59	Age is trying to figure out Snapchat and having no idea what is happening
+flowingdata	679906199798550528	2015-12-24T06:07:24	jamesmcadoo Represent! gowarriors 
+flowingdata	679736506324393984	2015-12-23T18:53:06	I have a similar mantra for a lot of things.   Take care,  Nathan
+flowingdata	679735335580913664	2015-12-23T18:48:27	Love this. "If you’re an asshole, I won’t hire you." 
+flowingdata	679489844741971969	2015-12-23T02:32:57	ncasenmare would wait it out
+flowingdata	679413161653506048	2015-12-22T21:28:15	Internships at FiveThirtyEight and nprviz  
+flowingdata	679346454696239104	2015-12-22T17:03:11	Best visualization projects for 2015  Tough to pick just 10 but here's what I got. 
+flowingdata	679062667710078977	2015-12-21T22:15:31	Leroy_Jenkum There is. Were you not able to retrieve your password? Email me nathan at flowingdata dot com and I can reset.
+flowingdata	679024841517744128	2015-12-21T19:45:12	All known planets outside our solar system  by JanWillemTulp 
+flowingdata	679022749159788544	2015-12-21T19:36:53	alykat getting the family plan with Apple Music never worked for me (wouldn't link), so i went to spotify
+flowingdata	679020813694033922	2015-12-21T19:29:12	stuartcraig well.
+flowingdata	679019679294160896	2015-12-21T19:24:41	Mike LaCour now: no MS, no PhD, no Princeton position. Brutal. And...wait for it...a visualization consultant 
+flowingdata	677542979767111680	2015-12-17T17:36:49	Star Wars character interactions for every episode  
+flowingdata	677305316770373632	2015-12-17T01:52:25	I can't believe anyone with "SEO expert/guru/ninja" in their profile would say anything was misleading.
+flowingdata	677200726376845312	2015-12-16T18:56:49	ethanhays searchsleuth998 what part is misleading?
+flowingdata	676932261716107264	2015-12-16T01:10:02	The work day ends, and the bottom blob heads to leisure  
+flowingdata	676904896256413696	2015-12-15T23:21:18	IsamBatman d3.js for the visualization itself. simulation and analysis in R.
+flowingdata	676848743321174016	2015-12-15T19:38:10	lenagroeger dancow one of my all-time favorites
+flowingdata	676848585393115136	2015-12-15T19:37:32	LewisLehe thanks! looking forward to seeing on the youtubes

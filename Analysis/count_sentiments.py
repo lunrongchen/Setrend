@@ -6,7 +6,6 @@ from dictionary_separator import STRONG_NEGATIVE_SCORE
 from dictionary_separator import STRONG_POSITIVE_SCORE
 import dow_jones
 import numpy as np
-from sklearn import svm
 import datetime
 from pybrain.datasets import SupervisedDataSet
 from pybrain.supervised.trainers import BackpropTrainer
@@ -14,8 +13,7 @@ from pybrain.tools.shortcuts import buildNetwork
 
 # This file contains feature of word vector. Each dimension indicates the count for each sentimental categories.
 # Make sure you have run preprocessing.py, dictionary_separator.py before this analysis.
-#dow_jones.label_nominal(
-dow_jones_labels = dow_jones.index_changing_rate(dow_jones.read_indices('YAHOO-INDEX_DJI.csv'))
+dow_jones_labels = dow_jones.index_changing_rate(dow_jones.read_indices('YAHOO-INDEX_DJI_longer.csv'))
 
 def predict_label(bag,word_vector,sentiments,date):
     words=bag[date]
@@ -73,42 +71,6 @@ def create_feature_matrix(bag,sentiments):
     # feature_dict is the dictionary for features using date as key
     return [features,target,feature_dict]
 
-def cross_validation(fold,dates,features_dict):
-    "Cross-alidation using SVM and sentimental features"
-    # The most important aspect is that using previous months to predict several days afterwards has accuracy 75%.
-    # All folds have accuracy greater than benchmark
-    chunk=len(dates)/fold
-    average=0
-    for i in range(0,fold):
-        if (i+1)*chunk<len(dates):
-            testing_keys = set(dates[i*chunk:(i+1)*chunk])
-        else:
-            testing_keys = set(dates[i * chunk:len(dates)])
-        training_set=[]
-        testing_set=[]
-        training_target=[]
-        testing_target=[]
-        for key in dates:
-            if key in testing_keys:
-                testing_set.append(features_dict[key])
-                testing_target.append(dow_jones_labels[key])
-            else:
-                training_set.append(features_dict[key])
-                training_target.append(dow_jones_labels[key])
-        clf = svm.SVC()
-        clf.fit(training_set, training_target)
-        count=0
-        for date in testing_keys:
-            prediction = clf.predict([features_dict[date]])
-            print("predict={0},actual={1}".format(prediction[0],dow_jones_labels[date]))
-            if prediction[0] * dow_jones_labels[date]>0:
-                count += 1
-        accuracy=float(count)/len(testing_set)
-        print(testing_keys)
-        print("accuracy={0}".format(accuracy))
-        average+=accuracy
-    print('{0}-fold cross validation accuracy={1}'.format(fold,average/fold))
-
 def main():
     #read in pre-processed features
     print('reading preprocessed data')
@@ -122,9 +84,7 @@ def main():
     dates = [datetime.datetime.strptime(ts, "%Y-%m-%d") for ts in dates]
     dates.sort()
     dates = [datetime.datetime.strftime(ts, "%Y-%m-%d") for ts in dates]
-    # 5 fold cross-validation
-    fold=5
-    #print(features)
+
     ds = SupervisedDataSet(4, 1)
     ds.setField('input', features)
     target=np.array(target).reshape( -1, 1 )
@@ -138,14 +98,6 @@ def main():
         if net.activate(features[i])*target[i]>0:
             count+=1
     print("accuracy={0}".format(float(count) / len(dow_jones_labels)))
-    #cross_validation(fold, dates, features_dict)
-    #count=0
-    #for date in dow_jones_labels:
-       # prediction=predict_label(bag,set(word_vector),sentiments,date)
-      #  if prediction==dow_jones_labels[date]:
-      #      count+=1
-     #   print("predicted={0},actual={1}".format(prediction,dow_jones_labels[date]))
-    #print("accuracy={0}".format(float(count)/len(dow_jones_labels)))
 
 if __name__ == '__main__':
     main()

@@ -1,0 +1,1140 @@
+HouseFloor	726101508014641156	2016-04-29T17:31:04	1:27:13pm - The House adjourned. Next meeting: 3:00 pm on May 3, 2016. 
+HouseFloor	726081374617231360	2016-04-29T16:11:04	12:11:24pm - SPECIAL ORDER SPEECHES - The House proceeded with further Special Order speeches. 
+HouseFloor	726081125723070464	2016-04-29T16:10:04	12:04:26pm - SenateFloor message: The Senate passed HR2908, S1875, S2845, and S1635. 
+HouseFloor	726070802811129856	2016-04-29T15:29:03	11:28:07am - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	726063762629922816	2016-04-29T15:01:05	11:00:16am - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	726061494128001024	2016-04-29T14:52:04	10:53:32am HR4901 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	726059981213192192	2016-04-29T14:46:03	10:47:06am HR4901 On passage RC 179 - vote pending. 
+HouseFloor	726054948111278080	2016-04-29T14:26:03	10:26:42am HR4901 On motion to recommit with instructions RC 178 - Yea and Nay vote pending. 
+HouseFloor	726054195581865984	2016-04-29T14:23:04	10:23:22am HR4901 Mr. Lieu, Ted moved to recommit with instructions to the Committee on Oversight and Government. 
+HouseFloor	726037838421184512	2016-04-29T13:18:04	9:17:59am HR4901 DEBATE - 1 hour on HR4901. 
+HouseFloor	726034065565032448	2016-04-29T13:03:04	9:03:41am - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches, which would be limited to 5 per side of the aisle.
+HouseFloor	726033814150123520	2016-04-29T13:02:05	9:03:25am - PLEDGE OF ALLEGIANCE - The Chair designated Mr. Trott to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	725790457255628804	2016-04-28T20:55:04	4:53:59pm - The House adjourned. Next meeting: 9:00 am on Apr 29, 2016. 
+HouseFloor	725773845966295045	2016-04-28T19:49:03	3:49:25pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	725770828110004224	2016-04-28T19:37:04	3:37:33pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	725769822085222403	2016-04-28T19:33:04	3:33:43pm - On approving the Journal Agreed to by VV. 
+HouseFloor	725768057579266049	2016-04-28T19:26:03	3:26:15pm HR2901 SuspensionRules: pass the bill, as amended RC 177-2/3 Yea and Nay vote pending. 
+HouseFloor	725767810622828544	2016-04-28T19:25:04	3:25:50pm HJRes88 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725762274443595776	2016-04-28T19:03:04	3:02:26pm HJRes88 On passage RC 176 - Yea and Nay vote pending. 
+HouseFloor	725760006881185793	2016-04-28T18:54:04	2:51:55pm - The House recessed for a period of less than 15 minutes. 
+HouseFloor	725759503682146304	2016-04-28T18:52:04	2:51:47pm HJRes88 The previous question was ordered pursuant to the rule. 
+HouseFloor	725741634567180288	2016-04-28T17:41:03	1:41:31pm HJRes88 DEBATE - 1 hour on HJRes88. 
+HouseFloor	725741132756451328	2016-04-28T17:39:04	1:39:23pm HR5019 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725739372629340160	2016-04-28T17:32:04	1:33:06pm HR5019 SuspensionRules: pass the bill RC 175-2/3 Yea and Nay vote pending. 
+HouseFloor	725737611462074369	2016-04-28T17:25:04	1:25:43pm HRes706 On the resolution RC 174 - Yea and Nay vote pending. 
+HouseFloor	725732077073735680	2016-04-28T17:03:05	1:04:09pm HRes706 On ordering the previous question RC 173 - Yea and Nay vote pending. 
+HouseFloor	725724523841085440	2016-04-28T16:33:04	12:34:13pm HRes706 DEBATE - 1 hour on HRes706. 
+HouseFloor	725718987930218496	2016-04-28T16:11:04	12:04:25pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches, which would be limited to 15 per side of the aisle.
+HouseFloor	725716477811281920	2016-04-28T16:01:06	12:01:10pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	725693321063059457	2016-04-28T14:29:05	10:28:55am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	725686526047322112	2016-04-28T14:02:05	10:02:23am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	725479157338103808	2016-04-28T00:18:04	8:16:22pm - The House adjourned. Next meeting: 10:00 am on Apr 28, 2016. 
+HouseFloor	725439894982692865	2016-04-27T21:42:03	5:42:32pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	725438635282145281	2016-04-27T21:37:03	5:37:30pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	725438135509893121	2016-04-27T21:35:04	5:35:47pm S1890 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725436625816313857	2016-04-27T21:29:04	5:30:11pm S1890 SuspensionRules: pass the bill RC 172-2/3 Yea and Nay vote pending. 
+HouseFloor	725436372262215680	2016-04-27T21:28:03	5:28:57pm HR4498 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725434863139098624	2016-04-27T21:22:03	5:22:44pm HR4498 On passage RC 171 - Yea and Nay vote pending. 
+HouseFloor	725429329207898119	2016-04-27T21:00:04	4:59:57pm HR4498 On the Waters, Maxine amdt. (A001) RC 170 - Yea and Nay vote pending. 
+HouseFloor	725427060492083200	2016-04-27T20:51:03	4:51:03pm HR4498 DEBATE - Pursuant to HRes701, the House proceeded with 10 minutes on the Waters amdt. 
+HouseFloor	725412724017090560	2016-04-27T19:54:05	3:54:57pm HR4498 DEBATE - 1 hour on HR4498. 
+HouseFloor	725412466251960321	2016-04-27T19:53:04	3:53:34pm HRes701 On the resolution Agreed to by vote: (RC 169). 
+HouseFloor	725410960798826501	2016-04-27T19:47:05	3:47:01pm HRes701 On the resolution RC 169 - vote pending. 
+HouseFloor	725409447108067328	2016-04-27T19:41:04	3:40:22pm HRes701 On ordering the previous question RC 168 - Yea and Nay vote pending. 
+HouseFloor	725408945213440000	2016-04-27T19:39:04	3:39:02pm HR699 SuspensionRules: pass the bill, as amended Agreed to (2/3 req.): (RC 167). 
+HouseFloor	725407433896681472	2016-04-27T19:33:04	3:33:27pm HR699 SuspensionRules: pass the bill, as amended RC 167-2/3 Yea and Nay vote pending. 
+HouseFloor	725407182473297926	2016-04-27T19:32:04	3:33:02pm HR4923 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725402149321105410	2016-04-27T19:12:04	3:10:29pm HR4923 SuspensionRules: pass the bill, as amended RC 166-2/3 Yea and Nay vote pending. 
+HouseFloor	725396112400629765	2016-04-27T18:48:05	2:47:57pm S1890 DEBATE - 40 minutes on S1890. 
+HouseFloor	725385541781430275	2016-04-27T18:06:04	2:06:59pm HR699 DEBATE - 40 minutes on HR699. 
+HouseFloor	725385286797123585	2016-04-27T18:05:04	2:06:23pm HR4240 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725381007352971269	2016-04-27T17:48:03	1:49:09pm HR4240 DEBATE - 40 minutes on HR4240. 
+HouseFloor	725380757607305217	2016-04-27T17:47:04	1:47:51pm HR4923 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	725374467908730880	2016-04-27T17:22:04	1:22:22pm HR4923 DEBATE - 40 minutes on HR4923. 
+HouseFloor	725374215176785921	2016-04-27T17:21:04	1:21:41pm - The Speaker announced that votes on suspensions, if ordered, will be postponed until a time to be announced.
+HouseFloor	725360877705289728	2016-04-27T16:28:04	12:27:53pm HRes701 DEBATE - 1 hour on HRes701. 
+HouseFloor	725360626223190017	2016-04-27T16:27:04	12:27:44pm HRes701 Considered as privileged matter. HRes701 — "to consider HR4498 to clarify the definition of g 
+HouseFloor	725355088886272000	2016-04-27T16:05:04	12:05:27pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	725336972965875713	2016-04-27T14:53:05	10:51:58am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	725324136663244802	2016-04-27T14:02:04	10:02:18am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	725103683424411650	2016-04-26T23:26:04	7:24:25pm - The House adjourned. Next meeting: 10:00 am on Apr 27, 2016. 
+HouseFloor	725098902026899459	2016-04-26T23:07:04	7:07:25pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	725097140486295552	2016-04-26T23:00:04	6:58:06pm HR4096 SuspensionRules: pass the bill RC 165-2/3 Yea and Nay vote pending. 
+HouseFloor	725095376471101440	2016-04-26T22:53:04	6:53:38pm HR4820 The title of the measure was amended. Agreed to without objection. 
+HouseFloor	725090849512673280	2016-04-26T22:35:04	6:31:48pm HR4820 SuspensionRules: pass the bill, as amended RC 164-2/3 Yea and Nay vote pending. 
+HouseFloor	725088332292743168	2016-04-26T22:25:04	6:21:58pm - The House recessed for a period of less than 15 minutes. 
+HouseFloor	725087826400940033	2016-04-26T22:23:03	6:23:36pm HR1493 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725085308996444162	2016-04-26T22:13:03	6:08:59pm HR1493 DEBATE - 40 minutes on the motion to suspend the rules and agree in the Senate amdt. to HR1493. 
+HouseFloor	725084559189139459	2016-04-26T22:10:04	6:08:51pm HR1493 Mr. Royce moved the House suspend the rules and agree to the Senate amdt. 
+HouseFloor	725083802905772032	2016-04-26T22:07:04	6:08:04pm HR4360 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725082041247752192	2016-04-26T22:00:04	6:00:16pm HR4360 DEBATE - 40 minutes on HR4360. 
+HouseFloor	725081786745786368	2016-04-26T21:59:03	5:59:51pm HR4359 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725079269047676928	2016-04-26T21:49:03	5:49:32pm HR4359 DEBATE - 40 minutes on HR4359. 
+HouseFloor	725076502098927617	2016-04-26T21:38:04	5:38:07pm HR2615 DEBATE - 40 minutes on HR2615. 
+HouseFloor	725076252130955268	2016-04-26T21:37:04	5:37:43pm HR2908 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725074494956658689	2016-04-26T21:30:05	5:30:13pm HR2908 DEBATE - 40 minutes on HR2908. 
+HouseFloor	725074239338983424	2016-04-26T21:29:04	5:29:27pm HR3583 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725070211997683716	2016-04-26T21:13:04	5:13:09pm HR3583 DEBATE - 40 minutes on HR3583. 
+HouseFloor	725069960880508928	2016-04-26T21:12:04	5:12:32pm HR4698 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725066944139935744	2016-04-26T21:00:05	5:00:07pm HR4698 DEBATE - 40 minutes on HR4698. 
+HouseFloor	725066436201340928	2016-04-26T20:58:04	4:59:02pm HR4820 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	725056368521170944	2016-04-26T20:18:03	4:19:10pm HR4820 DEBATE - 40 minutes on HR4820. 
+HouseFloor	725056120939761665	2016-04-26T20:17:04	4:18:07pm HR1684 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725052861747449858	2016-04-26T20:04:07	4:05:27pm HR1684 DEBATE - 40 minutes on HR1684. 
+HouseFloor	725050331189633024	2016-04-26T19:54:04	3:54:31pm S1523 DEBATE - 40 minutes on S1523. 
+HouseFloor	725050078784839680	2016-04-26T19:53:04	3:54:03pm HR223 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	725045044290400260	2016-04-26T19:33:03	3:34:27pm HR223 DEBATE - 40 minutes on HR223. 
+HouseFloor	725044797518565377	2016-04-26T19:32:05	3:33:29pm HR2901 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	725042280197984257	2016-04-26T19:22:04	3:22:36pm HR2901 DEBATE - 40 minutes on HR2901. 
+HouseFloor	725041777212821504	2016-04-26T19:20:04	3:21:17pm HR5019 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	725039009697808384	2016-04-26T19:09:05	3:09:58pm HR5019 DEBATE - 40 minutes on HR5019. 
+HouseFloor	725038755585884162	2016-04-26T19:08:04	3:09:00pm HR4096 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	725037498557161472	2016-04-26T19:03:04	3:03:59pm HR4096 DEBATE - 40 minutes on HR4096. 
+HouseFloor	725037252435435520	2016-04-26T19:02:06	3:00:28pm - The House convened, returning from a recess continuing the legislative day of Apr 26. 
+HouseFloor	725028064686649344	2016-04-26T18:25:35	2:07:54pm - The House recessed. Next meeting: 3:00pm today. 
+HouseFloor	725023658331222016	2016-04-26T18:08:05	2:09:04pm - The House recessed. Next meeting: 3:00pm today. 
+HouseFloor	725022398974713857	2016-04-26T18:03:04	2:04:15pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches. 
+HouseFloor	724993712229605377	2016-04-26T16:09:05	12:07:55pm - The House recessed. Next meeting: 2:00pm today. 
+HouseFloor	724991948298268674	2016-04-26T16:02:04	12:02:35pm - MORNING-HOUR DEBATE - At the end, the House will recess until 2:00 pm for legislative business. 
+HouseFloor	724991705926242304	2016-04-26T16:01:07	12:02:15pm - The Speaker designated the Honorable Fred Upton to act as Speaker pro tempore for today. 
+HouseFloor	724623019684040704	2016-04-25T15:36:05	11:33:55am - The House adjourned. Next meeting: 12:00 pm on Apr 26, 2016. 
+HouseFloor	724622262926757888	2016-04-25T15:33:04	11:33:36am - PLEDGE OF ALLEGIANCE - The Chair led the House in reciting the Pledge of Allegiance to the Flag. 
+HouseFloor	723526110013730817	2016-04-22T14:57:21	Weekly Digest of the CongressionalRecord: 
+HouseFloor	723193849452044288	2016-04-21T16:57:04	12:55:15pm - The House adjourned. Next meeting: 11:30 am on Apr 25, 2016. 
+HouseFloor	723182023989452801	2016-04-21T16:10:05	12:10:48pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	723176991780954112	2016-04-21T15:50:05	11:49:39am - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	723169691443847168	2016-04-21T15:21:04	11:21:57am HR3724 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	723167936270229506	2016-04-21T15:14:06	11:14:01am HR3724 On passage RC 163 - Yea and Nay vote pending. 
+HouseFloor	723162394361495557	2016-04-21T14:52:05	10:51:56am HR4890 On passage RC 162 - Yea and Nay vote pending. 
+HouseFloor	723160888077852674	2016-04-21T14:46:06	10:43:59am HR4890 DEBATE - Pursuant to HRes688, the Committee proceeded with 10 minutes on the Sanford amdt. No. 2 
+HouseFloor	723160639032725504	2016-04-21T14:45:06	10:42:57am HR4890 On the Meehan amdt.; Agreed to by VV. 
+HouseFloor	723152075295744000	2016-04-21T14:11:04	9:59:19am HR4890 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR4890. 
+HouseFloor	723149053266132992	2016-04-21T13:59:04	9:58:10am HR4890 Considered under the provisions of rule HRes688. HR4890 — "To impose a ban on the payment of bo 
+HouseFloor	723148551652515841	2016-04-21T13:57:04	9:57:07am HR3724 POSTPONED PROCEEDINGS - At the end of debate on HR3724, the Chair put the question on passage and 
+HouseFloor	723137732273385472	2016-04-21T13:14:05	9:14:44am HR3724 DEBATE - 1 hour on HR3724. 
+HouseFloor	723134961168080896	2016-04-21T13:03:04	9:03:24am - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches. 
+HouseFloor	723134709639860224	2016-04-21T13:02:04	9:03:05am - PLEDGE OF ALLEGIANCE - The Chair designated Mr. Takano to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	723134473529905152	2016-04-21T13:01:08	9:01:50am - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	722923824803655680	2016-04-20T23:04:05	7:02:25pm - The House adjourned. Next meeting: 9:00 am on Apr 21, 2016. 
+HouseFloor	722884816408973313	2016-04-20T20:29:05	4:29:21pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	722880283528323073	2016-04-20T20:11:04	4:12:10pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	722878020919410688	2016-04-20T20:02:05	4:03:10pm HR4885 On passage RC 161 - Yea and Nay vote pending. 
+HouseFloor	722877527367270401	2016-04-20T20:00:07	4:00:35pm HR1206 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722875755563257856	2016-04-20T19:53:05	3:53:18pm HR1206 On passage RC 160 - vote pending. 
+HouseFloor	722870722557800448	2016-04-20T19:33:05	3:32:08pm HR1206 On motion to recommit with instructions RC 159 - Yea and Nay vote pending. 
+HouseFloor	722854616870875138	2016-04-20T18:29:05	2:18:47pm - The House recessed. 
+HouseFloor	722854361848770561	2016-04-20T18:28:04	2:19:58pm HR1206 POSTPONED PROCEEDINGS - At the end of debate on HR1206, the Chair put the question on adoption of 
+HouseFloor	722852601432305664	2016-04-20T18:21:04	2:10:10pm HR1206 Mr. Kildee moved to recommit with instructions to the Committee on Ways and Means. 
+HouseFloor	722837252703981568	2016-04-20T17:20:05	1:17:24pm HR1206 DEBATE - 1 hour on HR1206. 
+HouseFloor	722835742523813888	2016-04-20T17:14:05	1:14:27pm HR4885 POSTPONED PROCEEDINGS. 
+HouseFloor	722824418309890048	2016-04-20T16:29:05	12:23:52pm HR4885 DEBATE - 1 hour on HR4885. 
+HouseFloor	722818629558018048	2016-04-20T16:06:05	12:03:36pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches, which would be limited to 15 per side of the aisle.
+HouseFloor	722817876114173952	2016-04-20T16:03:05	12:03:36pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches. 
+HouseFloor	722817622493040640	2016-04-20T16:02:05	12:03:15pm - PLEDGE OF ALLEGIANCE - The Chair designated Mr. Dold to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	722799253039509504	2016-04-20T14:49:05	10:47:33am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	722787425018322944	2016-04-20T14:02:05	10:02:28am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	722553128814559232	2016-04-19T22:31:04	6:28:36pm - The House adjourned. Next meeting: 10:00 am on Apr 20, 2016. 
+HouseFloor	722548595749232640	2016-04-19T22:13:04	6:13:29pm - SPECIAL ORDER SPEECHES - The House resumed Special Order speeches. 
+HouseFloor	722516137825693696	2016-04-19T20:04:05	4:04:41pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	722515136179789824	2016-04-19T20:00:06	4:00:26pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	722514623023476740	2016-04-19T19:58:04	3:58:27pm HR4326 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722510847881441280	2016-04-19T19:43:04	3:43:24pm HR4326 DEBATE - 40 minutes on HR4326. 
+HouseFloor	722510598844596225	2016-04-19T19:42:05	3:42:40pm HR4325 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722509338858897408	2016-04-19T19:37:04	3:37:13pm HR4325 DEBATE - 40 minutes on HR4325. 
+HouseFloor	722509088807120896	2016-04-19T19:36:04	3:36:30pm HR4332 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722506570878337024	2016-04-19T19:26:04	3:26:07pm HR4332 DEBATE - 40 minutes on HR4332. 
+HouseFloor	722506319299788800	2016-04-19T19:25:04	3:25:19pm HR3714 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722502796092841984	2016-04-19T19:11:04	3:11:30pm HR3714 DEBATE - 40 minutes on HR3714. 
+HouseFloor	722502296400211968	2016-04-19T19:09:05	3:10:03pm HR4284 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722499271581413377	2016-04-19T18:57:04	2:57:19pm HR4284 DEBATE - 40 minutes on HR4284. 
+HouseFloor	722498769279971328	2016-04-19T18:55:04	2:55:58pm HR4903 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722493736593305601	2016-04-19T18:35:04	2:35:28pm HR4903 DEBATE - 40 minutes on HR4903. 
+HouseFloor	722493484322721793	2016-04-19T18:34:04	2:34:42pm HRes673 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722489206367522818	2016-04-19T18:17:04	2:17:17pm HRes673 DEBATE - 40 minutes on HRes673. 
+HouseFloor	722488704871309312	2016-04-19T18:15:05	2:16:01pm - The Speaker announced that votes on suspensions, if ordered, will be postponed until a time to be announced.
+HouseFloor	722488197767438336	2016-04-19T18:13:04	2:13:48pm HRes687 On the resolution Agreed to by vote: (RC 158). 
+HouseFloor	722486702808371201	2016-04-19T18:07:07	2:07:41pm HRes687 On the resolution RC 158 - vote pending. 
+HouseFloor	722485185204330496	2016-04-19T18:01:05	2:01:44pm HRes687 On ordering the previous question RC 157 - Yea and Nay vote pending. 
+HouseFloor	722484931096625152	2016-04-19T18:00:05	2:01:13pm HRes688 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722483670691524608	2016-04-19T17:55:04	1:55:03pm HRes688 On the resolution RC 156 - vote pending. 
+HouseFloor	722477125496909824	2016-04-19T17:29:04	1:29:33pm HRes688 On ordering the previous question RC 155 - Yea and Nay vote pending. 
+HouseFloor	722473856066326528	2016-04-19T17:16:04	1:12:06pm HRes688 DEBATE - 1 hour on HRes688. 
+HouseFloor	722471845379842050	2016-04-19T17:08:05	1:08:58pm HRes688 Considered as privileged matter. HRes688 — "to consider HR4890 to impose a ban on the payment 
+HouseFloor	722461775438995456	2016-04-19T16:28:04	12:27:52pm HRes687 DEBATE - 1 hour on HRes687. 
+HouseFloor	722461025073819648	2016-04-19T16:25:05	12:25:44pm HRes687 Considered as privileged matter. HRes687 — "to consider HR1206 to prohibit the hiring of addi 
+HouseFloor	722455741718794240	2016-04-19T16:04:06	12:04:32pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	722455486881263618	2016-04-19T16:03:05	12:03:59pm - PLEDGE OF ALLEGIANCE - The Chair designated Mr. Higgins to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	722455237232062464	2016-04-19T16:02:05	12:01:37pm - Today's prayer was by Reverend Kevin Hintze, Zion Lutheran Church, Georgetown, Texas 
+HouseFloor	722435604357738496	2016-04-19T14:44:04	10:43:55am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	722425041707773952	2016-04-19T14:02:06	10:02:16am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	722239309613555713	2016-04-19T01:44:04	9:41:56pm - The House adjourned. Next meeting: 10:00 am on Apr 19, 2016. 
+HouseFloor	722200306558349313	2016-04-18T23:09:05	7:09:49pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	722198304688369664	2016-04-18T23:01:08	7:01:15pm S719 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722196275723157504	2016-04-18T22:53:04	6:53:16pm S719 SuspensionRules: pass the bill RC 154-2/3 Yea and Nay vote pending. 
+HouseFloor	722196029999816704	2016-04-18T22:52:05	6:52:49pm HR4570 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722192252009910272	2016-04-18T22:37:05	6:35:32pm HR4570 SuspensionRules: pass the bill RC 153-2/3 Yea and Nay vote pending. 
+HouseFloor	722191749632933892	2016-04-18T22:35:05	6:31:34pm - Mr. Collins (GA) filed reports from the Committee on Rules, HRes687 and HRes688. 
+HouseFloor	722172367640915969	2016-04-18T21:18:04	5:16:37pm - The House recessed. Next meeting: 6:30pm today. 
+HouseFloor	722172117459083264	2016-04-18T21:17:04	5:18:07pm HR4605 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722170857133633536	2016-04-18T21:12:04	5:12:28pm HR4605 DEBATE - 40 minutes on HR4605. 
+HouseFloor	722170607241138177	2016-04-18T21:11:04	5:11:35pm HR2928 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722168596252782592	2016-04-18T21:03:05	5:03:06pm HR2928 DEBATE - 40 minutes on HR2928. 
+HouseFloor	722168343160102912	2016-04-18T21:02:04	5:02:25pm HR3866 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722166078655356929	2016-04-18T20:53:05	4:53:31pm HR3866 DEBATE - 40 minutes on HR3866. 
+HouseFloor	722164818480885761	2016-04-18T20:48:04	4:48:08pm S719 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	722163815077556225	2016-04-18T20:44:05	4:42:45pm S719 DEBATE - 40 minutes on S719. 
+HouseFloor	722163058550956032	2016-04-18T20:41:04	4:41:16pm HR4570 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	722160542513803265	2016-04-18T20:31:05	4:31:20pm HR4570 DEBATE - 40 minutes on HR4570. 
+HouseFloor	722160038027096064	2016-04-18T20:29:04	4:29:09pm HConRes119 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722158024635367424	2016-04-18T20:21:04	4:21:10pm HConRes119 DEBATE - 40 minutes on HConRes119. 
+HouseFloor	722157776173166592	2016-04-18T20:20:05	4:20:34pm HR4618 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722155761359527940	2016-04-18T20:12:05	4:12:22pm HR4618 DEBATE - 40 minutes on HR4618. 
+HouseFloor	722155004539310080	2016-04-18T20:09:04	4:09:27pm S1638 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	722153246412959744	2016-04-18T20:02:05	4:02:45pm S1638 DEBATE - 40 minutes on S1638. 
+HouseFloor	722124808612405248	2016-04-18T18:09:05	2:07:52pm - The House recessed. Next meeting: 4:00pm today. 
+HouseFloor	722123297660542978	2016-04-18T18:03:05	2:03:26pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches. 
+HouseFloor	722122800606158848	2016-04-18T18:01:06	2:01:41pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	722093100865298432	2016-04-18T16:03:05	12:01:58pm - The House recessed. Next meeting: 2:00pm today. 
+HouseFloor	721299635814428672	2016-04-16T11:30:08	Weekly Digest of the CongressionalRecord: 
+HouseFloor	721020027579863040	2016-04-15T16:59:05	12:55:17pm - The House adjourned. Next meeting: 12:00 pm on Apr 18, 2016. 
+HouseFloor	721019519762898945	2016-04-15T16:57:04	12:55:16pm - 
+HouseFloor	721004171005202432	2016-04-15T15:56:04	11:56:37am - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	721001151714443264	2016-04-15T15:44:04	11:40:13am - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	720997124624793600	2016-04-15T15:28:04	11:29:10am HR2666 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	720993349549887488	2016-04-15T15:13:04	11:13:12am HR2666 On passage RC 152 - vote pending. 
+HouseFloor	720992343286030336	2016-04-15T15:09:04	11:05:26am HR2666 The previous question was ordered pursuant to the rule. 
+HouseFloor	720990087144697856	2016-04-15T15:00:06	11:00:45am HR2666 On the McNerney amdt. (A002) RC 151 - vote pending. 
+HouseFloor	720984291249942530	2016-04-15T14:37:04	10:37:38am HR2666 On the Yarmuth amdt. (A001) RC 150 - vote pending. 
+HouseFloor	720982782902693889	2016-04-15T14:31:05	10:29:14am HR2666 DEBATE - Pursuant to HRes672, the Committee proceeded with 10 minutes on the McNerney amdt. no. 3.
+HouseFloor	720963659829223425	2016-04-15T13:15:06	9:15:11am HR2666 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR2666. 
+HouseFloor	720960659186458624	2016-04-15T13:03:10	9:03:07am - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches, which would be limited to 5 per side of the aisle.
+HouseFloor	720960137800851456	2016-04-15T13:01:06	9:00:59am - The House convened, starting a new legislative day. 
+HouseFloor	720760558367150080	2016-04-14T23:48:02	7:46:22pm - The House adjourned. Next meeting: 9:00 am on Apr 15, 2016. 
+HouseFloor	720760305362608129	2016-04-14T23:47:02	7:46:02pm - Mr. Gohmert moved the House adjourn. 
+HouseFloor	720711992026210304	2016-04-14T20:35:03	4:35:15pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	720709222753837056	2016-04-14T20:24:03	4:20:03pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	720707963074293760	2016-04-14T20:19:03	4:19:36pm HR3791 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	720706963340947457	2016-04-14T20:15:04	4:12:17pm HR3791 On passage RC 149 - Yea and Nay vote pending. 
+HouseFloor	720702930849042434	2016-04-14T19:59:03	3:56:10pm HR3791 On motion to table the appeal the ruling of the chair RC 148 - vote pending. 
+HouseFloor	720702676032471041	2016-04-14T19:58:02	3:55:57pm HR3791 Mr. Hensarling moved to table the motion to appeal the ruling of the chair 
+HouseFloor	720702425166954501	2016-04-14T19:57:02	3:54:29pm HR3791 Point of order sustained against the motion to recommit with instructions. 
+HouseFloor	720700421111685120	2016-04-14T19:49:05	3:41:39pm HR3340 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	720699154679341060	2016-04-14T19:44:03	3:35:20pm HR3340 On motion to table appeal of the ruling of the chair Agreed to: (RC 145). 
+HouseFloor	720697143611236353	2016-04-14T19:36:03	3:35:34pm HR3340 On passage RC 146 - Yea and Nay vote pending. 
+HouseFloor	720691607260045312	2016-04-14T19:14:03	3:13:50pm HR3340 On motion to table appeal the ruling of the chair RC 145 - Yea and Nay vote pending. 
+HouseFloor	720690346724888581	2016-04-14T19:09:03	3:05:36pm HR3340 Ms. Moore moved to recommit with instructions to the Committee on Financial Services. 
+HouseFloor	720689340016365568	2016-04-14T19:05:03	3:05:04pm HR3340 On the Royce amdt.; Agreed to by VV. 
+HouseFloor	720671722123485186	2016-04-14T17:55:02	1:48:22pm HR3340 DEBATE - 1 hour on HR3340, as amended. 
+HouseFloor	720670215844073472	2016-04-14T17:49:03	1:48:22pm HR3340 DEBATE - 1 hour on HR3340. 
+HouseFloor	720666946388234241	2016-04-14T17:36:04	1:33:41pm HR3791 DEBATE - Pursuant to HRes671, the House proceeded with ten minutes on the Kelly (IL) amdt. 
+HouseFloor	720651345565507584	2016-04-14T16:34:04	12:34:01pm HR3791 DEBATE - 1 hour on HR3791. 
+HouseFloor	720643544285888512	2016-04-14T16:03:04	12:03:14pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	720643292937981952	2016-04-14T16:02:04	12:02:54pm - PLEDGE OF ALLEGIANCE - The Chair designated Mr. Gibbs to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	720643044924616704	2016-04-14T16:01:05	12:01:40pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	720622150797930497	2016-04-14T14:38:03	10:36:59am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	720613089809416192	2016-04-14T14:02:03	10:02:16am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	720612846179127298	2016-04-14T14:01:05	10:01:57am - The Speaker designated the Honorable Reid J. Ribble to act as Speaker pro tempore for today. 
+HouseFloor	720538386235334656	2016-04-14T09:05:12	4:29:35pm - The House adjourned. Next meeting: 10:00 am on Apr 14, 2016. 
+HouseFloor	720349105919291392	2016-04-13T20:33:04	4:29:35pm - The House adjourned. Next meeting: 10:00 am on Apr 14, 2016. 
+HouseFloor	720348849836072960	2016-04-13T20:32:03	4:29:32pm - 
+HouseFloor	720335265500278784	2016-04-13T19:38:05	3:38:24pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	720330736335605760	2016-04-13T19:20:05	3:20:40pm HR4403 DEBATE - 40 minutes on HR4403. 
+HouseFloor	720330482274009090	2016-04-13T19:19:04	3:19:24pm HR4549 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	720324694071762944	2016-04-13T18:56:04	2:57:07pm HR4549 DEBATE - 40 minutes on HR4549. 
+HouseFloor	720324441801113600	2016-04-13T18:55:04	2:55:50pm HR4509 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	720321169908449281	2016-04-13T18:42:04	2:42:25pm HR4509 DEBATE - 40 minutes on HR4509. 
+HouseFloor	720320920628391936	2016-04-13T18:41:05	2:41:32pm HR4482 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	720319413552025600	2016-04-13T18:35:05	2:35:06pm HR4482 DEBATE - 40 minutes on HR4482. 
+HouseFloor	720318903293874177	2016-04-13T18:33:04	2:33:57pm HR3586 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	720315384545603584	2016-04-13T18:19:05	2:19:55pm HR3586 DEBATE - 40 minutes on HR3586. 
+HouseFloor	720314123930714114	2016-04-13T18:14:04	2:14:32pm - The Speaker announced that votes on suspensions, if ordered, will be postponed until a time to be announced.
+HouseFloor	720312616938299392	2016-04-13T18:08:05	2:08:31pm HRes671 On the resolution RC 144 - vote pending. 
+HouseFloor	720311108028895236	2016-04-13T18:02:05	2:02:08pm HRes671 On ordering the previous question RC 143 - Yea and Nay vote pending. 
+HouseFloor	720309356886011904	2016-04-13T17:55:08	1:55:14pm HRes672 On the resolution RC 142 - vote pending. 
+HouseFloor	720304058301603840	2016-04-13T17:34:04	1:32:56pm HRes672 On ordering the previous question RC 141 - Yea and Nay vote pending. 
+HouseFloor	720298525830049792	2016-04-13T17:12:05	1:10:24pm - The House recessed. Next meeting: 1:30pm today. 
+HouseFloor	720292733152280576	2016-04-13T16:49:04	12:49:14pm HRes671 DEBATE - 1 hour on HRes671. 
+HouseFloor	720286444045090816	2016-04-13T16:24:05	12:23:00pm HRes672 DEBATE - 1 hour on HRes672. 
+HouseFloor	720281414130917376	2016-04-13T16:04:05	12:04:31pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	720281159880544256	2016-04-13T16:03:05	12:03:09pm - PLEDGE OF ALLEGIANCE - The Chair designated Ms. Hahn to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	720280910768259073	2016-04-13T16:02:05	12:01:46pm - Today's prayer was by Reverend Steve Thomlison, St. Stephen's Catholic Church, Exeter, Nebraska 
+HouseFloor	720259263139090434	2016-04-13T14:36:04	10:34:00am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	720251215267962880	2016-04-13T14:04:05	10:02:00am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	720250957746069504	2016-04-13T14:03:04	10:01:01am - The Speaker designated the Honorable David W. Jolly to act as Speaker pro tempore for today. 
+HouseFloor	720054434072551428	2016-04-13T01:02:09	8:59:50pm - The House adjourned. Next meeting: 10:00 am on Apr 13, 2016. 
+HouseFloor	720041079916113920	2016-04-13T00:09:05	8:09:14pm - SPECIAL ORDER SPEECHES - The House resumed Special Order speeches. 
+HouseFloor	720033023526322182	2016-04-12T23:37:05	7:37:22pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	720027236259270656	2016-04-12T23:14:05	7:05:33pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	720024990607941632	2016-04-12T23:05:09	7:05:20pm HConRes115 
+HouseFloor	720024721857888256	2016-04-12T23:04:05	7:04:37pm HConRes120 
+HouseFloor	720024468714844161	2016-04-12T23:03:05	7:03:44pm HConRes117 
+HouseFloor	720024237747134465	2016-04-12T23:02:10	7:02:58pm S483 
+HouseFloor	720023744253706240	2016-04-12T23:00:12	7:00:46pm HR4676 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	720021950882516992	2016-04-12T22:53:05	6:54:15pm HR4676 SuspensionRules: pass the bill, as amended RC 140-2/3 Yea and Nay vote pending. 
+HouseFloor	720017174446927872	2016-04-12T22:34:06	6:34:07pm HR1567 SuspensionRules: pass the bill, as amended RC 139-2/3 Yea and Nay vote pending. 
+HouseFloor	720004097630474242	2016-04-12T21:42:08	5:40:54pm - The House recessed. Next meeting: 6:30pm today. 
+HouseFloor	720003832323969024	2016-04-12T21:41:05	5:41:58pm HR1567 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	719998045975355392	2016-04-12T21:18:05	5:17:57pm HR1567 DEBATE - 40 minutes on HR1567. 
+HouseFloor	719997540704366594	2016-04-12T21:16:05	5:16:24pm HR4676 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	719994275136712704	2016-04-12T21:03:06	5:03:22pm HR4676 DEBATE - 40 minutes on HR4676. 
+HouseFloor	719990494630174720	2016-04-12T20:48:05	4:48:21pm HR2947 DEBATE - 40 minutes on HR2947. 
+HouseFloor	719989992727175168	2016-04-12T20:46:05	4:46:52pm S2512 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	719986977928556545	2016-04-12T20:34:06	4:33:54pm S2512 DEBATE - 40 minutes on S2512. 
+HouseFloor	719986719370670083	2016-04-12T20:33:05	4:33:01pm S2512 Considered under suspension of the rules. 
+HouseFloor	719951486785044481	2016-04-12T18:13:05	2:11:53pm - The House recessed. Next meeting: 4:30pm today. 
+HouseFloor	719948972857638912	2016-04-12T18:03:05	2:03:50pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches. 
+HouseFloor	719948477111775234	2016-04-12T18:01:07	2:01:55pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	719610489500798976	2016-04-11T19:38:05	3:36:48pm - The Speaker announced the House adjourn pursuant to HRes653. Next meeting: 2:00 pm on Apr 12, 2016. 
+HouseFloor	719609484440649728	2016-04-11T19:34:05	3:34:01pm - PLEDGE OF ALLEGIANCE - The Chair led the House in reciting the Pledge of Allegiance to the Flag. 
+HouseFloor	719608978825678848	2016-04-11T19:32:04	3:32:28pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	713379818927230976	2016-03-25T14:59:37	Weekly Digest of the CongressionalRecord: 
+HouseFloor	713164772909453313	2016-03-25T00:45:06	12:52:41pm - The House adjourned pursuant to SConRes34. Next meeting: 3:30 pm on Apr 11, 2016. 
+HouseFloor	712684102437191681	2016-03-23T16:55:05	12:52:41pm - The House adjourned pursuant to SConRes34. Next meeting: 3:30 pm on Apr 11, 2016. 
+HouseFloor	712668256784498688	2016-03-23T15:52:07	11:52:32am - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	712660700469010434	2016-03-23T15:22:06	11:21:54am - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	712659965538877441	2016-03-23T15:19:11	11:19:35am HRes658 SuspensionRules: agree to the resolution Agreed to (2/3 req.): (RC 138). 
+HouseFloor	712657425485185025	2016-03-23T15:09:05	11:09:24am HRes658 SuspensionRules: agree to the resolution RC 138-2/3 Yea and Nay vote pending. 
+HouseFloor	712657177140457474	2016-03-23T15:08:06	11:08:24am HR2745 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	712655663688781824	2016-03-23T15:02:05	11:01:59am HR2745 On passage RC 137 - vote pending. 
+HouseFloor	712650380543442945	2016-03-23T14:41:05	10:40:16am HR2745 On motion to recommit with instructions RC 136 - Yea and Nay vote pending. 
+HouseFloor	712649877763784704	2016-03-23T14:39:05	DEBATE - ten minutes on the MTR: prohibit mergers that would increase the costs of pharaceutical drugs. 
+HouseFloor	712648369299189760	2016-03-23T14:33:06	10:32:27am HR2745 DEBATE - ten minutes on the motion to recommit with instructions. 
+HouseFloor	712635532166184960	2016-03-23T13:42:05	9:42:37am HR2745 DEBATE - 1 hour on HR2745. 
+HouseFloor	712635032129638400	2016-03-23T13:40:06	9:40:10am HRes658 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	712628989068750848	2016-03-23T13:16:05	9:16:02am HRes658 DEBATE - 40 minutes on HRes658. 
+HouseFloor	712628739763474433	2016-03-23T13:15:06	9:15:12am - The Speaker announced that votes on suspensions, if ordered, will be postponed until a time to be announced.
+HouseFloor	712625720426688514	2016-03-23T13:03:06	9:03:15am - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 5 per side of the aisle.
+HouseFloor	712625220490805248	2016-03-23T13:01:07	9:01:42am - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	712402241764925444	2016-03-22T22:15:04	5:58:49pm - The House adjourned. Next meeting: 9:00 am on Mar 23, 2016. 
+HouseFloor	712398725197524992	2016-03-22T22:01:06	5:58:25pm - 
+HouseFloor	712365249786204162	2016-03-22T19:48:05	3:44:56pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	712362482812264451	2016-03-22T19:37:05	3:36:53pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	712362232341008385	2016-03-22T19:36:05	3:36:21pm - Mr. Zeldin asked UC that when the House adjourns today, it meet at 9:00 am on Mar 23. Agreed to without objection.
+HouseFloor	712360471899336705	2016-03-22T19:29:06	3:29:20pm HR4755 SuspensionRules: pass the bill Agreed to (2/3 req.): (RC 134). 
+HouseFloor	712359210852458496	2016-03-22T19:24:05	3:23:56pm HR4755 SuspensionRules: pass the bill RC 134-2/3 Yea and Nay vote pending. 
+HouseFloor	712357450029146115	2016-03-22T19:17:05	3:16:58pm HR4742 SuspensionRules: pass the bill RC 133-2/3 Yea and Nay vote pending. 
+HouseFloor	712357201059381248	2016-03-22T19:16:06	3:16:25pm HRes653 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	712356945995366400	2016-03-22T19:15:05	3:07:57pm HRes653 On the resolution RC 132 - vote pending. 
+HouseFloor	712355692242460672	2016-03-22T19:10:06	3:07:56pm HRes653 On ordering the previous question Agreed to: (RC 131). 
+HouseFloor	712350659128004608	2016-03-22T18:50:06	2:47:30pm HRes653 On ordering the previous question RC 131 - Yea and Nay vote pending. 
+HouseFloor	712349645436022786	2016-03-22T18:46:04	2:46:01pm HR4336 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	712343358753136641	2016-03-22T18:21:06	2:21:21pm HR4336 DEBATE - 40 minutes on HR4336. 
+HouseFloor	712343109103919104	2016-03-22T18:20:06	2:20:16pm HR4472 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	712337576779247616	2016-03-22T17:58:07	1:58:20pm HR4472 DEBATE - 40 minutes on HR4472. 
+HouseFloor	712337317655085056	2016-03-22T17:57:05	1:56:48pm HR4119 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	712336060056014850	2016-03-22T17:52:05	1:51:48pm HR4119 DEBATE - 40 minutes on HR4119. 
+HouseFloor	712335805210107908	2016-03-22T17:51:05	1:51:09pm HR2857 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	712333795299598336	2016-03-22T17:43:05	1:43:21pm HR2857 DEBATE - 40 minutes on HR2857. 
+HouseFloor	712333545654652928	2016-03-22T17:42:06	1:42:43pm HR482 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	712331279501565952	2016-03-22T17:33:06	1:33:01pm HR482 DEBATE - 40 minutes on HR482. 
+HouseFloor	712330774947692544	2016-03-22T17:31:05	1:31:31pm HR4755 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	712327754482622465	2016-03-22T17:19:05	1:19:27pm HR4755 DEBATE - 40 minutes on HR4755. 
+HouseFloor	712327504309039104	2016-03-22T17:18:06	1:18:42pm HR4742 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	712324740996849665	2016-03-22T17:07:07	1:07:04pm HR4742 DEBATE - 40 minutes on HR4742. 
+HouseFloor	712316432596475905	2016-03-22T16:34:06	12:34:27pm HRes653 DEBATE - 1 hour on HRes653. 
+HouseFloor	712308885516738560	2016-03-22T16:04:07	12:04:29pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	712292780509433856	2016-03-22T15:00:07	10:46:12am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	712278183190654976	2016-03-22T14:02:07	10:01:20am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	712052940954017793	2016-03-21T23:07:05	7:05:53pm - The House adjourned. Next meeting: 10:00 am on Mar 22, 2016. 
+HouseFloor	712049669271130112	2016-03-21T22:54:05	6:52:43pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	712049167699464192	2016-03-21T22:52:05	6:52:08pm HR4314 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	712044387342090240	2016-03-21T22:33:05	6:33:05pm HR4314 SuspensionRules: pass the bill, as amended RC 130-2/3 Yea and Nay vote pending. 
+HouseFloor	712029285708636160	2016-03-21T21:33:05	5:32:56pm - The House recessed. Next meeting: 6:30pm today. 
+HouseFloor	712029037376507905	2016-03-21T21:32:06	5:32:41pm S1180 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	712024755822534656	2016-03-21T21:15:05	5:14:40pm S1180 DEBATE - 40 minutes on S1180. 
+HouseFloor	712023999891566594	2016-03-21T21:12:04	5:11:20pm HR4721 DEBATE - 40 minutes on HR4721. 
+HouseFloor	712023496289869824	2016-03-21T21:10:04	5:10:07pm S2393 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	712021735953059840	2016-03-21T21:03:05	5:03:20pm S2393 DEBATE - 40 minutes on S2393. 
+HouseFloor	712021483300769792	2016-03-21T21:02:04	5:02:11pm HR4314 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	712016955952209920	2016-03-21T20:44:05	4:43:35pm HR4314 DEBATE - 40 minutes on HR4314. 
+HouseFloor	712016450639302656	2016-03-21T20:42:05	4:42:11pm S192 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	712010663007281152	2016-03-21T20:19:05	4:18:24pm S192 DEBATE - 40 minutes on S192. 
+HouseFloor	712010162605826052	2016-03-21T20:17:05	4:17:07pm HR1670 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	712006384519409667	2016-03-21T20:02:05	4:02:10pm HR1670 DEBATE - 40 minutes on HR1670. 
+HouseFloor	712006138087272448	2016-03-21T20:01:06	4:00:53pm - The House convened, returning from a recess continuing the legislative day of Mar 21. 
+HouseFloor	711980220576829440	2016-03-21T18:18:07	2:16:58pm - The House recessed. Next meeting: 4:00pm today. 
+HouseFloor	711976438426116100	2016-03-21T18:03:05	2:03:03pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches. 
+HouseFloor	711976186545577986	2016-03-21T18:02:05	2:02:41pm - PLEDGE OF ALLEGIANCE - The Chair designated Mr. Poliquin to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	711975937873715200	2016-03-21T18:01:06	2:01:06pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	711952278937325569	2016-03-21T16:27:05	12:25:56pm - The House recessed. Next meeting: 2:00pm today. 
+HouseFloor	711945989486211072	2016-03-21T16:02:05	12:01:37pm - MORNING-HOUR DEBATE - At the end, the House will recess until 2:00 pm for legislative business. 
+HouseFloor	710821431890812928	2016-03-18T13:33:30	Weekly Digest of the CongressionalRecord: 
+HouseFloor	710538961786159105	2016-03-17T18:51:04	2:49:32pm - The House adjourned. Next meeting: 12:00 pm on Mar 21, 2016. 
+HouseFloor	710522357861982208	2016-03-17T17:45:05	1:28:54pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	710514834266263553	2016-03-17T17:15:11	1:13:53pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	710505245319811073	2016-03-17T16:37:05	12:36:59pm HR1831 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	710504738723381249	2016-03-17T16:35:04	12:35:41pm - The Speaker announced approval of the Journal. Pursuant to clause 1, rule I, the Journal stands approved.
+HouseFloor	710498954178387968	2016-03-17T16:12:05	12:11:51pm HRes639 On the resolution RC 129 - Yea and Nay vote pending. 
+HouseFloor	710480330319384576	2016-03-17T14:58:05	10:57:07am HRes639 DEBATE - 1 hour on HRes639. 
+HouseFloor	710478819220713472	2016-03-17T14:52:05	10:51:56am HRes649 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	710477060813230080	2016-03-17T14:45:05	10:45:16am HRes649 On the resolution RC 128 - Yea and Nay vote pending. 
+HouseFloor	710471773129740290	2016-03-17T14:24:05	10:23:51am HRes649 On ordering the previous question RC 127 - Yea and Nay vote pending. 
+HouseFloor	710459188405792768	2016-03-17T13:34:04	9:33:30am - DEBATE - The House continued with further debate on HRes649. 
+HouseFloor	710453656760532992	2016-03-17T13:12:06	9:12:08am HRes649 DEBATE - 1 hour on HRes649. 
+HouseFloor	710450894857445376	2016-03-17T13:01:07	9:01:11am - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	710223636003741697	2016-03-16T21:58:04	5:39:13pm - The House adjourned. Next meeting: 9:00 am on Mar 17, 2016. 
+HouseFloor	710219863604797440	2016-03-16T21:43:05	5:39:41pm - The House adjourned. Next meeting: 9:00 am on Mar 17, 2016. 
+HouseFloor	710218352808034305	2016-03-16T21:37:05	5:33:55pm - The House convened, returning from a recess continuing the legislative day of Mar 16. 
+HouseFloor	710188906860421120	2016-03-16T19:40:04	3:38:58pm - The House recessed. 
+HouseFloor	710160468996849664	2016-03-16T17:47:04	1:47:30pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	710158710455345155	2016-03-16T17:40:05	1:39:27pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	710158203301003264	2016-03-16T17:38:04	1:37:54pm - Mr. Poe (TX) asked UC that when the House adjourns today, it meet at 9:00 am on Mar 17. Agreed to without objection.
+HouseFloor	710157953790296066	2016-03-16T17:37:04	1:37:12pm HR4434 SuspensionRules: pass the bill Agreed to (2/3 req.): (RC 126). 
+HouseFloor	710156445275328515	2016-03-16T17:31:05	1:31:28pm HR4434 SuspensionRules: pass the bill RC 126-2/3 Yea and Nay vote pending. 
+HouseFloor	710154933954355200	2016-03-16T17:25:04	1:24:42pm HR4416 SuspensionRules: pass the bill RC 125-2/3 Yea and Nay vote pending. 
+HouseFloor	710154683587940352	2016-03-16T17:24:05	1:24:06pm HR4596 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	710150404357689345	2016-03-16T17:07:05	1:04:28pm HR4596 On passage RC 124 - Yea and Nay vote pending. 
+HouseFloor	710149397057806338	2016-03-16T17:03:04	1:02:54pm - The House convened, returning from a recess continuing the legislative day of Mar 16. 
+HouseFloor	710148647565074432	2016-03-16T17:00:06	12:54:25pm - The House recessed. 
+HouseFloor	710147888295321600	2016-03-16T16:57:05	12:53:56pm HR4596 The previous question was ordered pursuant to the rule. 
+HouseFloor	710146630893346820	2016-03-16T16:52:05	12:51:43pm HR4596 DEBATE - 10 minutes on the Veasey amdt. 
+HouseFloor	710143612663832577	2016-03-16T16:40:05	12:22:40pm HR4596 DEBATE - 1 hour on HR4596. 
+HouseFloor	710138325856821249	2016-03-16T16:19:05	12:18:17pm - SenateFloor message: Mar 16, 2016 at 9:20 am: The Senate passed S337. 
+HouseFloor	710134296372256768	2016-03-16T16:03:04	12:02:44pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	710133800718696448	2016-03-16T16:01:06	12:01:09pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	710111904153395201	2016-03-16T14:34:05	10:31:27am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	710103851123269632	2016-03-16T14:02:05	10:01:38am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	709852694060597252	2016-03-15T21:24:05	5:21:53pm - The House adjourned. Next meeting: 10:00 am on Mar 16, 2016. 
+HouseFloor	709852441710297093	2016-03-15T21:23:05	5:21:46pm - 
+HouseFloor	709842123630190592	2016-03-15T20:42:05	4:42:47pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	709840107927425025	2016-03-15T20:34:04	4:33:57pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	709839857540059136	2016-03-15T20:33:04	4:33:27pm HR3797 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	709838598275731456	2016-03-15T20:28:04	4:27:57pm HR3797 On passage RC 123 - vote pending. 
+HouseFloor	709837086875062273	2016-03-15T20:22:04	4:22:10pm HR3797 On motion to recommit with instructions RC 122 - vote pending. 
+HouseFloor	709835583120605187	2016-03-15T20:16:05	4:11:57pm HR3797 DEBATE - 10 minutes on the Motion to Recommit with instructions. 
+HouseFloor	709835334293524480	2016-03-15T20:15:06	4:06:11pm HR3797 On the Bera amdt.; Failed by vote: (RC 120). 
+HouseFloor	709833313603723264	2016-03-15T20:07:04	4:06:19pm HR3797 On the Veasey amdt. (A005) RC 121 - vote pending. 
+HouseFloor	709832059968229379	2016-03-15T20:02:05	4:01:29pm HR3797 On the Bera amdt. (A003) RC 120 - vote pending. 
+HouseFloor	709831048843149312	2016-03-15T19:58:04	3:57:31pm HR3797 On the Pallone amdt. (A002) RC 119 - vote pending. 
+HouseFloor	709826523042357249	2016-03-15T19:40:05	3:37:24pm HR3797 On the Pallone amdt. (A001) RC 118 - vote pending. 
+HouseFloor	709824257925226496	2016-03-15T19:31:05	3:29:24pm HR3797 DEBATE - Pursuant to HRes640, the Committee proceeded with 10 minutes on the Veasey amdt. No. 5. 
+HouseFloor	709823753686011906	2016-03-15T19:29:05	3:28:53pm HR3797 On the Peters amdt.; Failed by VV. 
+HouseFloor	709823249706786817	2016-03-15T19:27:05	3:24:30pm HR3797 DEBATE - Pursuant to HRes640, the Committee proceeded with 10 minutes on the Peters amdt. No. 4. 
+HouseFloor	709822242721554432	2016-03-15T19:23:05	3:19:34pm HR3797 DEBATE - Pursuant to HRes640, the Committee proceeded with 10 minutes on the Bera amdt. No. 3. 
+HouseFloor	709821993571491841	2016-03-15T19:22:05	3:18:28pm HR3797 POSTPONED PROCEEDINGS - At the end of debate on the Pallone amdt. No.2, the Chair put the question 
+HouseFloor	709819724931186689	2016-03-15T19:13:04	3:10:30pm HR3797 DEBATE - Pursuant to HRes640, the Committee proceeded with 10 minutes on the Pallone amdt. No. 2. 
+HouseFloor	709817463697973248	2016-03-15T19:04:05	3:02:52pm HR3797 DEBATE - Pursuant to HRes640, the Committee proceeded with 10 minutes on the Pallone amdt. No. 1 
+HouseFloor	709806138036981761	2016-03-15T18:19:05	2:18:25pm HR3797 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR3797. 
+HouseFloor	709805381371957249	2016-03-15T18:16:05	2:16:29pm HR3447 SuspensionRules: pass the bill, as amended Agreed to (2/3 req.): (RC 117). 
+HouseFloor	709804123395399680	2016-03-15T18:11:05	2:10:40pm HR3447 SuspensionRules: pass the bill, as amended RC 117-2/3 Yea and Nay vote pending. 
+HouseFloor	709802110062346245	2016-03-15T18:03:05	2:02:52pm HR2081 SuspensionRules: pass the bill RC 116-2/3 Yea and Nay vote pending. 
+HouseFloor	709800346869243905	2016-03-15T17:56:04	1:55:22pm HRes640 On the resolution RC 115 - vote pending. 
+HouseFloor	709794812170522629	2016-03-15T17:34:05	1:33:21pm HRes640 On ordering the previous question RC 114 - Yea and Nay vote pending. 
+HouseFloor	709791035774377984	2016-03-15T17:19:04	1:15:15pm - The House recessed. The next meeting will be in ~ 15 minutes. 
+HouseFloor	709777447676465152	2016-03-15T16:25:05	12:25:10pm HRes640 DEBATE - 1 hour on HRes640. 
+HouseFloor	709771911778144257	2016-03-15T16:03:05	12:03:03pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	709771661621514241	2016-03-15T16:02:05	12:01:02pm - Today's prayer was by Reverend Tyrone M. Thomas, Charity Church, Baltimore, MD. 
+HouseFloor	709751276691722240	2016-03-15T14:41:05	10:39:55am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	709741460812341248	2016-03-15T14:02:05	10:01:32am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	709556744884768768	2016-03-15T01:48:05	9:47:50pm - The House adjourned. Next meeting: 10:00 am on Mar 15, 2016. 
+HouseFloor	709521262989680641	2016-03-14T23:27:06	7:20:35pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	709515472623038464	2016-03-14T23:04:05	7:03:34pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	709515227126239232	2016-03-14T23:03:06	7:02:12pm HConRes121 SuspensionRules: agree to the resolution, as amended Agreed to (2/3 req.): (RC 113). 
+HouseFloor	709513713099935745	2016-03-14T22:57:05	6:56:28pm HConRes121 SuspensionRules: agree to the resolution, as amended RC 113-2/3 Yea and Nay vote pending. 
+HouseFloor	709511948401041409	2016-03-14T22:50:05	6:49:15pm S2426 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	709507925136547840	2016-03-14T22:34:06	6:33:11pm S2426 SuspensionRules: pass the bill RC 111-2/3 Yea and Nay vote pending. 
+HouseFloor	709507668679987202	2016-03-14T22:33:04	6:32:44pm S2426 Considered as unfinished business. S2426 — "To direct the Secretary of State to develop a strateg 
+HouseFloor	709490308908773377	2016-03-14T21:24:05	5:22:49pm - The House recessed. Next meeting: 6:30pm today. 
+HouseFloor	709490055774130176	2016-03-14T21:23:05	5:23:33pm HR4721 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	709482256121925632	2016-03-14T20:52:06	4:51:47pm HR4721 DEBATE - 40 minutes on HR4721. 
+HouseFloor	709482003138256897	2016-03-14T20:51:05	4:50:57pm S2426 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	709478478417141760	2016-03-14T20:37:05	4:37:22pm S2426 DEBATE - 40 minutes on S2426. 
+HouseFloor	709478229816569857	2016-03-14T20:36:06	4:36:38pm HConRes75 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	709471934921236480	2016-03-14T20:11:05	4:10:48pm HConRes75 DEBATE - 40 minutes on HConRes75. 
+HouseFloor	709471686513594369	2016-03-14T20:10:06	4:09:51pm HConRes121 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	709468410518831104	2016-03-14T19:57:05	3:56:51pm HConRes121 DEBATE - 40 minutes on HConRes121. 
+HouseFloor	709466905845874690	2016-03-14T19:51:06	3:51:30pm HR4412 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	709465647219081216	2016-03-14T19:46:06	3:45:58pm HR4411 DEBATE - 40 minutes on HR4411. 
+HouseFloor	709465396500414465	2016-03-14T19:45:06	3:45:19pm HR4434 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	709465141356707840	2016-03-14T19:44:05	3:42:59pm HR4434 DEBATE - 40 minutes on HR4434. 
+HouseFloor	709464636714852352	2016-03-14T19:42:05	3:42:17pm HR4416 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	709464134690197504	2016-03-14T19:40:05	3:40:21pm HR4416 DEBATE - 40 minutes on HR4416. 
+HouseFloor	709463633743486976	2016-03-14T19:38:06	3:37:52pm HR3447 DEBATE - 40 minutes on HR3447. 
+HouseFloor	709463377144320000	2016-03-14T19:37:04	3:37:03pm HR2081 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	709462623511822336	2016-03-14T19:34:05	3:34:23pm HR2081 DEBATE - 40 minutes on HR2081. 
+HouseFloor	709459605974294528	2016-03-14T19:22:05	3:21:25pm HR4427 DEBATE - 40 minutes on HR4427. 
+HouseFloor	709459353129115648	2016-03-14T19:21:05	3:20:57pm HR1268 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	709458093676093442	2016-03-14T19:16:05	3:15:51pm HR1268 DEBATE - 40 minutes on HR1268. 
+HouseFloor	709456330633957377	2016-03-14T19:09:04	3:08:16pm HR2984 DEBATE - 40 minutes on HR2984. 
+HouseFloor	709441483942858752	2016-03-14T18:10:05	2:06:45pm - The House recessed. Next meeting: 3:00pm today. 
+HouseFloor	709439724142895104	2016-03-14T18:03:05	2:03:04pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches. 
+HouseFloor	709439226337738752	2016-03-14T18:01:06	2:01:15pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	709409526135525376	2016-03-14T16:03:05	12:02:44pm - The House recessed. Next meeting: 2:00pm today. 
+HouseFloor	708467201595023360	2016-03-12T01:38:38	11:35:01am - The Speaker announced the House adjourn. Next meeting: 12:00 pm on Mar 14, 2016. 
+HouseFloor	708284336580251648	2016-03-11T13:31:59	Weekly Digest of the CongressionalRecord: 
+HouseFloor	707973309535821825	2016-03-10T16:56:05	11:35:01am - The Speaker announced the House adjourn. Next meeting: 12:00 pm on Mar 14, 2016. 
+HouseFloor	707968782728298497	2016-03-10T16:38:05	11:33:25am - PLEDGE OF ALLEGIANCE - The Chair led the House in reciting the Pledge of Allegiance to the Flag. 
+HouseFloor	707815772148596741	2016-03-10T06:30:05	4:03:47pm - The Speaker announced the House adjourn pursuant to section 2(b) of HRes635. Next meeting: 11:30 am on Mar 10, 2016.
+HouseFloor	706949813334642690	2016-03-07T21:09:04	4:03:47pm - The Speaker announced the House adjourn pursuant to section 2(b) of HRes635. Next meeting: 11:30 am on Mar 10, 2016.
+HouseFloor	706948302001070080	2016-03-07T21:03:04	4:02:58pm - PLEDGE OF ALLEGIANCE - The Chair led the House in reciting the Pledge of Allegiance to the Flag. 
+HouseFloor	705761779834621952	2016-03-04T14:28:15	Weekly Digest of the CongressionalRecord: 
+HouseFloor	705452703867138048	2016-03-03T18:00:05	12:54:56pm - The House adjourned. Next meeting: 4:00 pm on Mar 7, 2016. 
+HouseFloor	705451945109098497	2016-03-03T17:57:05	12:54:55pm - 
+HouseFloor	705451699163500544	2016-03-03T17:56:06	12:54:52pm - Mr. Gohmert moved the House adjourn. 
+HouseFloor	705438361532698624	2016-03-03T17:03:06	12:00:07pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	705436848567541762	2016-03-03T16:57:05	11:52:00am - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	705436093815123968	2016-03-03T16:54:05	11:51:09am - Mr. Dold asked UC That when the House adjourns today, it meet at 4 pm on Mon, Mar 7, 2016. Agreed to without objection.
+HouseFloor	705435084497752065	2016-03-03T16:50:05	11:49:39am - On approving the Journal Agreed to by vote: (RC 110). 
+HouseFloor	705433324613935106	2016-03-03T16:43:05	11:42:18am - On approving the Journal RC 110 - vote pending. 
+HouseFloor	705428291776331776	2016-03-03T16:23:05	11:22:26am HR4557 On passage RC 109 - Yea and Nay vote pending. 
+HouseFloor	705418475188178945	2016-03-03T15:44:05	10:43:19am HR4557 DEBATE - 1 hour on HR4557. 
+HouseFloor	705417723438895104	2016-03-03T15:41:05	10:41:10am S1826 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	705416967000367104	2016-03-03T15:38:05	10:35:17am S1826 SuspensionRules: pass the bill RC 108-2/3 Yea and Nay vote pending. 
+HouseFloor	705414703745523712	2016-03-03T15:29:06	10:28:09am HRes635 On the resolution RC 107 - Yea and Nay vote pending. 
+HouseFloor	705409419597709312	2016-03-03T15:08:06	10:07:07am HRes635 On ordering the previous question RC 106 - Yea and Nay vote pending. 
+HouseFloor	705397089304444928	2016-03-03T14:19:06	9:18:52am HRes635 DEBATE - 1 hour on HRes635. 
+HouseFloor	705393311658483712	2016-03-03T14:04:05	9:03:27am - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 5 per side of the aisle.
+HouseFloor	705392566590697473	2016-03-03T14:01:08	9:00:51am - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	705179648737546240	2016-03-02T23:55:04	6:52:59pm - The House adjourned. Next meeting: 9:00 am on Mar 3, 2016. 
+HouseFloor	705179397557510144	2016-03-02T23:54:04	6:52:57pm - Mrs. Watson Coleman moved the House adjourn. 
+HouseFloor	705163039637676033	2016-03-02T22:49:04	5:48:31pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	705161280395603968	2016-03-02T22:42:05	5:41:22pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	705159768713863168	2016-03-02T22:36:04	5:35:16pm HR3716 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	705155238400024580	2016-03-02T22:18:04	5:17:22pm HR3716 On passage RC 105 - Yea and Nay vote pending. 
+HouseFloor	705154732294348801	2016-03-02T22:16:03	5:15:57pm - Mr. Byrne filed a report from the Committee on Rules on HRes635. 
+HouseFloor	705100625709764610	2016-03-02T18:41:03	1:38:46pm - The House recessed. 
+HouseFloor	705098619242811396	2016-03-02T18:33:05	1:32:32pm HR3716 DEBATE. 
+HouseFloor	705094090619285504	2016-03-02T18:15:05	1:03:42pm HR3716 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR3716. 
+HouseFloor	705088550811910144	2016-03-02T17:53:05	12:51:49pm - The House recessed for a period of less than 15 minutes. 
+HouseFloor	705086786779926529	2016-03-02T17:46:04	12:45:43pm HRes632 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	705082003918610432	2016-03-02T17:27:04	12:26:56pm HRes632 DEBATE - 1 hour on HRes632. 
+HouseFloor	705075968952692737	2016-03-02T17:03:05	12:03:02pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	705075467959869441	2016-03-02T17:01:05	12:01:20pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	705055836754857985	2016-03-02T15:43:05	10:41:47am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	705048798008123392	2016-03-02T15:15:07	10:01:47am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	704786810044596224	2016-03-01T21:54:04	4:52:57pm - The House adjourned. Next meeting: 10:00 am on Mar 2, 2016. 
+HouseFloor	704773229169217536	2016-03-01T21:00:06	SPECIAL ORDER SPEECHES - The House continued with Special Order speeches. 
+HouseFloor	704771462754910208	2016-03-01T20:53:05	3:51:55pm - SPECIAL ORDER SPEECHES - The House continued with further Special Order speeches. 
+HouseFloor	704755859956633601	2016-03-01T19:51:05	2:50:39pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	704755608063483909	2016-03-01T19:50:05	2:49:23pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	704753846938112000	2016-03-01T19:43:05	2:42:37pm S1826 DEBATE - 40 minutes on S1826. 
+HouseFloor	704752333402542080	2016-03-01T19:37:04	2:35:56pm S1596 DEBATE - 40 minutes on S1596. 
+HouseFloor	704751829545054208	2016-03-01T19:35:04	2:35:10pm - The Speaker announced that votes on suspensions, if ordered, will be postponed until a time to be announced.
+HouseFloor	704751583351988225	2016-03-01T19:34:05	2:34:00pm HR3735 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	704749818590175234	2016-03-01T19:27:05	2:25:24pm - MOMENT OF SILENCE - The House observed a moment of silence in recognition of the victims and families of 
+HouseFloor	704745038744522754	2016-03-01T19:08:05	2:04:44pm HR136 SuspensionRules: pass the bill RC 103-2/3 Yea and Nay vote pending. 
+HouseFloor	704743528107253760	2016-03-01T19:02:05	2:02:09pm HR4046 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	704742270910734336	2016-03-01T18:57:05	1:56:32pm HR4046 DEBATE - 40 minutes on HR4046. 
+HouseFloor	704742018254311430	2016-03-01T18:56:05	1:55:46pm HR3601 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	704740004791103488	2016-03-01T18:48:05	1:47:10pm HR3601 DEBATE - 40 minutes on HR3601. 
+HouseFloor	704739752755535876	2016-03-01T18:47:05	1:46:15pm HR3274 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	704739253901770753	2016-03-01T18:45:06	1:39:28pm HR3274 DEBATE - 40 minutes on HR3274. 
+HouseFloor	704737992171196419	2016-03-01T18:40:05	1:38:41pm HR3082 
+HouseFloor	704735477644050432	2016-03-01T18:30:05	1:29:40pm HR2458 
+HouseFloor	704733715902160896	2016-03-01T18:23:05	1:21:55pm HR1132 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	704731950515425280	2016-03-01T18:16:04	1:15:15pm HR1132 DEBATE - 40 minutes on HR1132. 
+HouseFloor	704729189128249344	2016-03-01T18:05:06	1:04:32pm HR3735 DEBATE - 40 minutes on HR3735. 
+HouseFloor	704728932193542144	2016-03-01T18:04:05	1:03:37pm HR2347 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	704727168782344192	2016-03-01T17:57:04	12:56:42pm HR2347 DEBATE - 40 minutes on HR2347. 
+HouseFloor	704725410496573442	2016-03-01T17:50:05	12:49:38pm HR136 DEBATE - 40 minutes on HR136. 
+HouseFloor	704724905737248768	2016-03-01T17:48:05	12:48:16pm HR2814 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	704722900499218432	2016-03-01T17:40:07	12:39:26pm HR2814 DEBATE - 40 minutes on HR2814. 
+HouseFloor	704716603540299776	2016-03-01T17:15:05	12:03:11pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	704713838084677632	2016-03-01T17:04:06	12:00:09pm - The House convened, returning from a recess continuing the legislative day of Mar 1. 
+HouseFloor	704690935804895232	2016-03-01T15:33:06	10:31:59am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	704683382438039553	2016-03-01T15:03:05	10:01:24am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	704475008614187008	2016-03-01T01:15:05	8:12:59pm - The House adjourned. Next meeting: 10:00 am on Mar 1, 2016. 
+HouseFloor	704474756083539970	2016-03-01T01:14:05	8:12:55pm - Mr. Jeffries moved the House adjourn. 
+HouseFloor	704467709573070849	2016-03-01T00:46:04	7:15:00pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	704454625102045184	2016-02-29T23:54:05	6:53:07pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	704453868755804161	2016-02-29T23:51:05	6:50:14pm HR4238 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	704449591383617536	2016-02-29T23:34:05	6:31:31pm HR4238 SuspensionRules: pass the bill RC 102-2/3 Yea and Nay vote pending. 
+HouseFloor	704444810782969856	2016-02-29T23:15:05	6:12:40pm - The House recessed. Next meeting: 6:30pm today. 
+HouseFloor	704444554146160646	2016-02-29T23:14:04	6:13:19pm S1580 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	704442558227812353	2016-02-29T23:06:08	6:05:20pm S1580 DEBATE - 40 minutes on S1580. 
+HouseFloor	704441035812958208	2016-02-29T23:00:05	5:58:29pm S1172 DEBATE - 40 minutes on S1172. 
+HouseFloor	704440782854479872	2016-02-29T22:59:05	5:57:19pm HR4084 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	704436757492797440	2016-02-29T22:43:05	5:42:10pm HR4084 DEBATE - 40 minutes on HR4084. 
+HouseFloor	704436505159311360	2016-02-29T22:42:05	5:41:07pm HR1471 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	704429713293447170	2016-02-29T22:15:05	5:14:14pm HR1471 DEBATE - 40 minutes on HR1471. 
+HouseFloor	704429459722608645	2016-02-29T22:14:05	5:13:35pm HRes148 The title of the measure was amended. Agreed to without objection. 
+HouseFloor	704425177967362049	2016-02-29T21:57:04	4:56:37pm HRes148 DEBATE - 40 minutes on HRes148. 
+HouseFloor	704424927219359744	2016-02-29T21:56:04	4:55:33pm HR4401 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	704419139524419585	2016-02-29T21:33:04	4:32:38pm HR4401 DEBATE - 40 minutes on HR4401. 
+HouseFloor	704418885982932992	2016-02-29T21:32:04	4:31:11pm HR4583 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	704414359573893120	2016-02-29T21:14:05	4:14:05pm HR4583 DEBATE - 40 minutes on HR4583. 
+HouseFloor	704409829171982336	2016-02-29T20:56:05	3:55:21pm HR4444 DEBATE - 40 minutes on HR4444. 
+HouseFloor	704407820914053124	2016-02-29T20:48:06	3:47:19pm HR4238 DEBATE - 40 minutes on HR4238. 
+HouseFloor	704381896977989632	2016-02-29T19:05:05	2:03:39pm - The House recessed. Next meeting: 3:45pm today. 
+HouseFloor	704381392168337408	2016-02-29T19:03:05	2:02:49pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches. 
+HouseFloor	704353711523557377	2016-02-29T17:13:05	12:11:59pm - The House recessed. Next meeting: 2:00pm today. 
+HouseFloor	704350944025251840	2016-02-29T17:02:05	12:01:29pm - MORNING-HOUR DEBATE - At the end, the House will recess until 2:00 pm for legislative business. 
+HouseFloor	703775336148893696	2016-02-28T02:54:50	Weekly Digest of the CongressionalRecord: 
+HouseFloor	703291708889497600	2016-02-26T18:53:04	1:51:43pm - The House adjourned. Next meeting: 12:00 pm on Feb 29, 2016. 
+HouseFloor	703276360861671424	2016-02-26T17:52:05	12:51:59pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	703273089174511616	2016-02-26T17:39:05	12:39:12pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	703271073895354368	2016-02-26T17:31:04	12:31:09pm HR2406 On passage RC 101 - vote pending. 
+HouseFloor	703269566550515712	2016-02-26T17:25:05	12:24:45pm HR2406 On motion to recommit with instructions RC 100 - Yea and Nay vote pending. 
+HouseFloor	703268303729512448	2016-02-26T17:20:04	12:17:43pm HR2406 Mrs. Lawrence moved to recommit with instructions to the Committee on Natural Resources. 
+HouseFloor	703266544562917377	2016-02-26T17:13:04	12:12:08pm HR2406 On the Huffman amdt. (A016) RC 99 - vote pending. 
+HouseFloor	703265539888648192	2016-02-26T17:09:05	12:09:12pm HR2406 On the Young (AK) amdt. (A015) RC 98 - vote pending. 
+HouseFloor	703265031199313920	2016-02-26T17:07:04	12:06:10pm HR2406 On the Ribble amdt. (A014) RC 97 - vote pending. 
+HouseFloor	703264027074502656	2016-02-26T17:03:04	12:02:50pm HR2406 On the Griffith amdt. (A012) RC 96 - vote pending. 
+HouseFloor	703263272351502337	2016-02-26T17:00:04	11:59:41am HR2406 On the Smith (MO) amdt. (A009) RC 95 - vote pending. 
+HouseFloor	703262268688101376	2016-02-26T16:56:05	11:56:04am HR2406 On the Beyer amdt. (A008) RC 94 - vote pending. 
+HouseFloor	703261512564084738	2016-02-26T16:53:05	11:53:20am HR2406 On the Jackson Lee amdt. (A003) RC 93 - vote pending. 
+HouseFloor	703256223844605952	2016-02-26T16:32:04	11:32:02am HR2406 On the Beyer amdt. (A002) RC 92 - vote pending. 
+HouseFloor	703255219434627078	2016-02-26T16:28:04	11:24:30am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Lowenthal amdt. No. 17.
+HouseFloor	703251952013021185	2016-02-26T16:15:05	11:13:14am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Huffman amdt. No. 16.
+HouseFloor	703249935731462145	2016-02-26T16:07:05	11:03:42am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Young(AK) amdt. No. 15.
+HouseFloor	703245402410192896	2016-02-26T15:49:04	10:44:23am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Hardy amdt. No. 13. 
+HouseFloor	703241634222370818	2016-02-26T15:34:05	10:30:53am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Griffith amdt. No. 12.
+HouseFloor	703239616565026816	2016-02-26T15:26:04	10:22:38am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Fleming amdt. No. 11.
+HouseFloor	703237347878506497	2016-02-26T15:17:03	10:15:23am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Newhouse amdt. No. 10.
+HouseFloor	703235843616612352	2016-02-26T15:11:05	10:08:43am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Smith (MO) amdt. No. 9.
+HouseFloor	703232569094086656	2016-02-26T14:58:04	9:57:14am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Beyer amdt. No. 8. 
+HouseFloor	703231815331532800	2016-02-26T14:55:04	9:54:09am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Huffman amdt. No. 7. 
+HouseFloor	703231314145755136	2016-02-26T14:53:05	9:52:07am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Meng amdt. No. 6. 
+HouseFloor	703230307663802369	2016-02-26T14:49:05	9:48:15am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Smith (MO) amdt. No. 5.
+HouseFloor	703226784943308800	2016-02-26T14:35:05	9:31:01am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Jackson Lee amdt. No. 3.
+HouseFloor	703224012919410689	2016-02-26T14:24:04	9:21:53am HR2406 DEBATE - Pursuant to HRes619, the Committee proceeded with 10 minutes on the Beyer amdt. No. 2. 
+HouseFloor	703218749504098305	2016-02-26T14:03:09	9:02:12am - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 5 per side of the aisle.
+HouseFloor	703218478157840384	2016-02-26T14:02:05	9:01:53am - PLEDGE OF ALLEGIANCE - The Chair designated Mr. Peters to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	703218228537987072	2016-02-26T14:01:05	9:00:50am - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	703023191246118912	2016-02-26T01:06:04	7:52:20pm - The House adjourned. Next meeting: 9:00 am on Feb 26, 2016. 
+HouseFloor	702984184801980417	2016-02-25T22:31:05	5:30:30pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	702982168251867136	2016-02-25T22:23:04	5:21:34pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	702981918489505792	2016-02-25T22:22:04	5:20:46pm HR2406 Mr. Wittman moved the Committee rise. 
+HouseFloor	702968079177945092	2016-02-25T21:27:05	4:17:00pm HR2406 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR2406. 
+HouseFloor	702966068466360320	2016-02-25T21:19:05	4:16:30pm HR2406 House resolved itself into the Committee pursuant to HRes619 and Rule XVIII. 
+HouseFloor	702965810797666305	2016-02-25T21:18:04	4:15:36pm HR2406 Considered under the provisions of rule HRes619. HR2406 — "To protect and enhance opportunities 
+HouseFloor	702963802120314880	2016-02-25T21:10:05	4:08:44pm HRes619 On the resolution RC 91 - Yea and Nay vote pending. 
+HouseFloor	702962291306790913	2016-02-25T21:04:05	4:01:45pm HRes619 On ordering the previous question RC 90 - Yea and Nay vote pending. 
+HouseFloor	702962043352162304	2016-02-25T21:03:06	4:01:22pm HRes619 Considered as unfinished business. HRes619 — "to consider HR2406 to protect and enhance opport 
+HouseFloor	702960276950409216	2016-02-25T20:56:05	3:55:22pm HR3624 On passage RC 89 - vote pending. 
+HouseFloor	702950966883123200	2016-02-25T20:19:05	3:17:12pm HR3624 On the Cartwright amdt. (A002) RC 87 - vote pending. 
+HouseFloor	702950715312967680	2016-02-25T20:18:05	3:15:49pm - The House convened, returning from a recess continuing the legislative day of Feb 25. 
+HouseFloor	702932346551590912	2016-02-25T19:05:05	2:02:57pm - The House recessed. 
+HouseFloor	702929073778118656	2016-02-25T18:52:05	1:50:22pm HR3624 DEBATE - Pursuant to H. Res 618, the Committee proceeded with 10 minutes on the Cartwright (PA) amdt. No. 2.
+HouseFloor	702928318765596672	2016-02-25T18:49:05	1:47:15pm HR3624 DEBATE - Pursuant to HRes618, the Committee proceeded with ten minutes on the Buck (CO) amdt. No. 1.
+HouseFloor	702916744978034688	2016-02-25T18:03:06	1:02:20pm HR3624 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR3624. 
+HouseFloor	702915485294272512	2016-02-25T17:58:05	12:54:55pm HR3624 The Speaker designated the Honorable Garret Graves to act as Chairman of the Committee. 
+HouseFloor	702915232352571392	2016-02-25T17:57:05	12:54:31pm HR3624 Considered under the provisions of rule HRes618. HR3624 — "To amend title 28, US Code, to prev 
+HouseFloor	702907855582658561	2016-02-25T17:27:46	12:26:34pm HRes619 DEBATE - 1 hour on HRes619. 
+HouseFloor	702902064268120064	2016-02-25T17:04:46	12:02:49pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	702901560754511872	2016-02-25T17:02:46	12:00:48pm - The House convened, returning from a recess continuing the legislative day of Feb 25. 
+HouseFloor	702883775336882176	2016-02-25T15:52:05	10:50:08am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	702871197437009920	2016-02-25T15:02:06	10:01:16am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	702594116278951938	2016-02-24T20:41:05	3:37:15pm - The House adjourned. Next meeting: 10:00 am on Feb 25, 2016. 
+HouseFloor	702587322655772678	2016-02-24T20:14:05	3:13:32pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	702586820706570240	2016-02-24T20:12:06	3:11:20pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	702585308760711174	2016-02-24T20:06:05	3:05:05pm HR3620 DEBATE - 40 minutes on HR3620. 
+HouseFloor	702583041324130304	2016-02-24T19:57:05	2:55:45pm HR3371 DEBATE - 40 minutes on HR3371. 
+HouseFloor	702578765919096837	2016-02-24T19:40:05	2:37:45pm HR812 DEBATE - 40 minutes on HR812. 
+HouseFloor	702578265693822976	2016-02-24T19:38:06	2:36:59pm HR1475 SuspensionRules: pass the bill, as amended Agreed to by VV. 
+HouseFloor	702572727408979973	2016-02-24T19:16:06	2:15:28pm HR1475 DEBATE - 40 minutes on HR1475. 
+HouseFloor	702569703433224192	2016-02-24T19:04:05	2:03:35pm HR2880 DEBATE - 40 minutes on HR2880. 
+HouseFloor	702567694802030592	2016-02-24T18:56:06	1:55:09pm HR3004 DEBATE - 40 minutes on HR3004. 
+HouseFloor	702565930778365953	2016-02-24T18:49:05	1:48:35pm HRes618 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	702564171146272768	2016-02-24T18:42:06	1:41:56pm HRes618 On the resolution RC 86 - vote pending. 
+HouseFloor	702558382121738240	2016-02-24T18:19:05	1:17:31pm HRes618 On ordering the previous question RC 85 - Yea and Nay vote pending. 
+HouseFloor	702551585075892224	2016-02-24T17:52:05	12:51:30pm HRes618 DEBATE - 1 hour on HRes618. 
+HouseFloor	702550828826161153	2016-02-24T17:49:05	12:48:43pm S238 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	702545547673149440	2016-02-24T17:28:05	12:27:48pm S238 DEBATE - 40 minutes on S238. 
+HouseFloor	702540013280616448	2016-02-24T17:06:06	12:04:50pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	702520633779994624	2016-02-24T15:49:05	10:47:43am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	702508560433938433	2016-02-24T15:01:07	10:01:05am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	702318044769599489	2016-02-24T02:24:04	9:19:57pm - 
+HouseFloor	702317545630638080	2016-02-24T02:22:05	9:20:50pm - Mr. Gohmert moved the House adjourn. 
+HouseFloor	702288351068606467	2016-02-24T00:26:05	7:25:37pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	702284069254602753	2016-02-24T00:09:04	7:08:16pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	702283819408297984	2016-02-24T00:08:05	7:07:05pm HConRes113 On the resolution Agreed to without objection. 
+HouseFloor	702283065628954625	2016-02-24T00:05:05	7:04:39pm HRes620 DEBATE - 1 hour on HRes620. 
+HouseFloor	702282812272021504	2016-02-24T00:04:04	7:02:28pm - Mr. Collins (GA) filed reports from the Committee on Rules, HRes618 and HRes619. 
+HouseFloor	702282306598400000	2016-02-24T00:02:04	7:02:05pm HR4402 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	702281051595546625	2016-02-23T23:57:05	6:56:15pm HR4402 SuspensionRules: pass the bill, as amended RC 84-2/3 Yea and Nay vote pending. 
+HouseFloor	702280800780292096	2016-02-23T23:56:05	6:52:35pm - MOMENT OF SILENCE - The House observed a moment of silence in support and encouragment of the victims of 
+HouseFloor	702280040160108544	2016-02-23T23:53:03	6:52:15pm HR4408 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	702275009708949505	2016-02-23T23:33:04	6:32:01pm HR4408 SuspensionRules: pass the bill, as amended RC 83-2/3 Yea and Nay vote pending. 
+HouseFloor	702247079230496771	2016-02-23T21:42:05	4:41:47pm - The House recessed. Next meeting: 6:30pm today. 
+HouseFloor	702246823457521664	2016-02-23T21:41:04	4:41:12pm HR4402 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	702245063649320961	2016-02-23T21:34:04	4:33:33pm HR4402 DEBATE - 40 minutes on HR4402. 
+HouseFloor	702244815682084865	2016-02-23T21:33:05	4:32:58pm HR4398 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	702244059524505600	2016-02-23T21:30:05	4:26:54pm HR4398 DEBATE - 40 minutes on HR4398. 
+HouseFloor	702243301156646913	2016-02-23T21:27:04	4:26:05pm HR4408 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	702241289123844096	2016-02-23T21:19:04	4:18:25pm HR4408 DEBATE - 40 minutes on HR4408. 
+HouseFloor	702241034999353347	2016-02-23T21:18:04	4:17:35pm HR3584 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	702240283581411328	2016-02-23T21:15:05	4:09:33pm HR3584 DEBATE - 40 minutes on HR3584. 
+HouseFloor	702238773002813440	2016-02-23T21:09:05	4:09:00pm S2109 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	702237514950701058	2016-02-23T21:04:05	4:03:19pm S2109 DEBATE - 40 minutes on S2109. 
+HouseFloor	702210587015536640	2016-02-23T19:17:05	2:12:17pm - The House recessed. Next meeting: 4:00pm today. 
+HouseFloor	702210336544448517	2016-02-23T19:16:05	2:11:47pm - SenateFloor message: Feb 23, 2016 at 12:10 pm: The Senate passed S2234, HR4056, HR4437, HR3262, and HR890.
+HouseFloor	702210087390199810	2016-02-23T19:15:05	2:11:38pm - SenateFloor message: Feb 22, 2016 at 3:26 pm: The Senate passed S2451. 
+HouseFloor	702207060499423237	2016-02-23T19:03:04	2:02:44pm - PLEDGE OF ALLEGIANCE - The Chair designated Mr. Abraham to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	702206814604152833	2016-02-23T19:02:05	2:01:15pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	698535577537396736	2016-02-13T15:53:54	Weekly Digest of the CongressionalRecord: 
+HouseFloor	698332784104878084	2016-02-13T02:28:04	1:50:12pm - The House adjourned pursuant to SConRes31. Next meeting: 2:00 pm on Feb 23, 2016. 
+HouseFloor	698217781112741888	2016-02-12T18:51:05	1:50:12pm - The House adjourned pursuant to SConRes31. Next meeting: 2:00 pm on Feb 23, 2016. 
+HouseFloor	698206707793711104	2016-02-12T18:07:05	1:05:43pm - SPECIAL ORDER SPEECHES - The House resumed Special Order speeches. 
+HouseFloor	698193872778895360	2016-02-12T17:16:05	12:15:12pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	698193119720951808	2016-02-12T17:13:06	12:07:32pm - ONE MINUTE SPEECHES - The House continued with 1 minute speeches. 
+HouseFloor	698191865368150016	2016-02-12T17:08:07	12:07:15pm - The House received a message from the Senate. 
+HouseFloor	698189852412669953	2016-02-12T17:00:07	11:50:48am - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	698187587555606528	2016-02-12T16:51:07	11:50:14am HR757 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	698186580058574848	2016-02-12T16:47:07	11:43:54am HR757 SuspensionRules: agree to the Senate amdt. RC 82-2/3 Yea and Nay vote pending. 
+HouseFloor	698185572674879488	2016-02-12T16:43:06	11:42:25am HR2017 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	698184069348253696	2016-02-12T16:37:08	11:35:47am HR2017 On passage RC 81 - Yea and Nay vote pending. 
+HouseFloor	698182309019840512	2016-02-12T16:30:08	11:29:29am HR2017 On the Schrader amdt. (A002) RC 80 - vote pending. 
+HouseFloor	698178528437792769	2016-02-12T16:15:07	11:07:11am HR2017 On the McMorris Rodgers amdt. (A001) RC 79 - vote pending. 
+HouseFloor	698173740794908674	2016-02-12T15:56:05	10:54:59am HR2017 DEBATE - Pursuant to HRes611, the Committee proceeded with 10 minutes on the Schrader amdt. No. 3.
+HouseFloor	698170723190317056	2016-02-12T15:44:06	10:42:43am HR2017 DEBATE - Pursuant to HRes611, the Committee proceeded with 10 minutes on the McMorris Rodgers amdt. No. 1.
+HouseFloor	698158388002291716	2016-02-12T14:55:05	9:54:54am HR2017 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR2017. 
+HouseFloor	698157634294304769	2016-02-12T14:52:05	9:51:27am HR757 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	698149582736355328	2016-02-12T14:20:06	9:19:03am HR757 DEBATE - 40 minutes on HR757. 
+HouseFloor	698148576313090048	2016-02-12T14:16:06	9:15:36am - The Speaker announced that votes on suspensions, if ordered, will be postponed until a time to be announced.
+HouseFloor	698145306031099904	2016-02-12T14:03:06	9:02:27am - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches. 
+HouseFloor	698145054221799424	2016-02-12T14:02:06	9:01:54am - PLEDGE OF ALLEGIANCE - The Chair designated Mr. Schiff to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	698144809173848064	2016-02-12T14:01:08	9:00:50am - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	697934412860825600	2016-02-12T00:05:05	7:02:16pm - The House adjourned. Next meeting: 9:00 am on Feb 12, 2016. 
+HouseFloor	697907231203975169	2016-02-11T22:17:05	5:10:27pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	697902699069775872	2016-02-11T21:59:04	4:58:05pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	697902200908075008	2016-02-11T21:57:05	4:56:27pm HRes611 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	697900689222168577	2016-02-11T21:51:05	4:50:30pm HRes611 On the resolution RC 78 - vote pending. 
+HouseFloor	697899185446764545	2016-02-11T21:45:06	4:44:16pm HRes611 On ordering the previous question RC 77 - Yea and Nay vote pending. 
+HouseFloor	697898929480994816	2016-02-11T21:44:05	4:43:32pm HR3442 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	697897421137952769	2016-02-11T21:38:06	4:37:34pm HR3442 On passage RC 76 - vote pending. 
+HouseFloor	697895909770858503	2016-02-11T21:32:05	4:31:00pm HR3442 On motion to recommit with instructions RC 75 - vote pending. 
+HouseFloor	697893644142059520	2016-02-11T21:23:05	4:21:34pm HR3442 Mr. Doggett moved to recommit with instructions to the Committee on Ways and Means. 
+HouseFloor	697891878134542336	2016-02-11T21:16:04	4:14:55pm HR3442 On the Takano amdt. (A008) RC 74 - vote pending. 
+HouseFloor	697891632209928193	2016-02-11T21:15:05	4:11:10pm HR3442 On the Duffy amdt.; Agreed to by vote: (RC 72). 
+HouseFloor	697890877193191424	2016-02-11T21:12:05	4:11:42pm HR3442 On the Grijalva amdt. (A007) RC 73 - vote pending. 
+HouseFloor	697889867238342656	2016-02-11T21:08:05	4:06:49pm HR3442 On the Duffy amdt. (A005) RC 72 - vote pending. 
+HouseFloor	697884586211209217	2016-02-11T20:47:06	3:45:49pm HR3442 On the Kelly (IL) amdt. (A004) RC 71 - vote pending. 
+HouseFloor	697883836982685696	2016-02-11T20:44:07	3:40:19pm HR3442 DEBATE - Pursuant to HRes609, the Committee proceeded with 10 minutes on the Takano amdt. No. 8. 
+HouseFloor	697881561530765313	2016-02-11T20:35:04	3:33:54pm HR3442 On the Messer amdt.; Agreed to by VV. 
+HouseFloor	697879546822004736	2016-02-11T20:27:04	3:23:10pm HR3442 DEBATE - Pursuant to HRes609, the Committee proceeded with 10 minutes on the Messer amdt. No. 6. 
+HouseFloor	697876025338937344	2016-02-11T20:13:05	3:10:08pm HR3442 DEBATE - Pursuant to HRes609, the Committee proceeded with 10 minutes on the Duffy amdt. No. 5. 
+HouseFloor	697874766716395520	2016-02-11T20:08:04	3:05:12pm HR3442 DEBATE - Pursuant to HRes609, the Committee proceeded with 10 minutes on the Kelly (IL) amdt. No. 4.
+HouseFloor	697874268714115072	2016-02-11T20:06:06	3:04:36pm HR3442 On the Newhouse amdt.; Agreed to by VV. 
+HouseFloor	697871750357458944	2016-02-11T19:56:05	2:54:11pm HR3442 On the Huelskamp amdt.; Agreed to by VV. 
+HouseFloor	697869231346622464	2016-02-11T19:46:05	2:43:59pm HR3442 DEBATE - Pursuant to HRes609, the Committee proceeded with 10 minutes on the Huelskamp amdt. No. 2.
+HouseFloor	697868983664508928	2016-02-11T19:45:06	2:43:10pm HR3442 On the Grijalva amdt.; Agreed to by VV. 
+HouseFloor	697849859890610176	2016-02-11T18:29:06	1:27:02pm HR3442 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR3442. 
+HouseFloor	697835762352574464	2016-02-11T17:33:05	12:32:42pm HRes611 DEBATE - 1 hour on HRes611. 
+HouseFloor	697835011278508032	2016-02-11T17:30:06	12:29:28pm HRes611 Considered as privileged matter. HRes611 — "to consider HR2017 to amend the Federal Food, Dru 
+HouseFloor	697828216690601985	2016-02-11T17:03:06	12:02:31pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	697827965959335936	2016-02-11T17:02:06	12:00:46pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	697809588628934657	2016-02-11T15:49:05	10:48:34am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	697798518250082304	2016-02-11T15:05:05	10:00:55am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	697797514670579712	2016-02-11T15:01:06	10:00:41am - The Speaker designated the Honorable Barry Loudermilk to act as Speaker pro tempore for today. 
+HouseFloor	697579320366252032	2016-02-11T00:34:05	7:31:45pm - The House adjourned. Next meeting: 10:00 am on Feb 11, 2016. 
+HouseFloor	697555667276668929	2016-02-10T23:00:05	5:54:24pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	697551636881895425	2016-02-10T22:44:04	5:38:45pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	697551382732279808	2016-02-10T22:43:04	5:37:24pm HR907 
+HouseFloor	697550880955068420	2016-02-10T22:41:04	5:35:42pm HConRes111 
+HouseFloor	697549370145775618	2016-02-10T22:35:04	5:34:28pm HR3293 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	697548114597646337	2016-02-10T22:30:04	5:28:47pm HR3293 On passage RC 70 - vote pending. 
+HouseFloor	697547864621346820	2016-02-10T22:29:05	5:28:44pm HR3293 On motion to recommit with instructions Failed by vote: (RC 69). 
+HouseFloor	697546601485725696	2016-02-10T22:24:04	5:21:47pm HR3293 On motion to recommit with instructions RC 69 - vote pending. 
+HouseFloor	697544592217006080	2016-02-10T22:16:05	5:13:07pm HR3293 DEBATE - 10 minutes on the Edwards MTR: increase understanding of the causes and prevention of gun violence.
+HouseFloor	697537806256730112	2016-02-10T21:49:07	4:48:40pm HR3293 On the Johnson, E. B. amdt. (A001) RC 68 - vote pending. 
+HouseFloor	697537294245498881	2016-02-10T21:47:05	4:46:10pm - Mr. Burgess filed a report from the Committee on Rules on HRes611. 
+HouseFloor	697528995349454848	2016-02-10T21:14:06	4:13:17pm - The House recessed. 
+HouseFloor	697528233135378437	2016-02-10T21:11:04	4:08:25pm HR3293 DEBATE - Pursuant to HRes609, the Committee proceeded with 10 minutes on the DelBene amdt. No. 6. 
+HouseFloor	697527727218429952	2016-02-10T21:09:04	4:07:48pm HR3293 On the DelBene amdt.; Agreed to by VV. 
+HouseFloor	697527224745005061	2016-02-10T21:07:04	4:04:08pm HR3293 DEBATE - Pursuant to HRes609, the Committee proceeded with 10 minutes on the DelBene amdt. No. 5. 
+HouseFloor	697526725954170885	2016-02-10T21:05:05	4:03:30pm HR3293 On the Jackson Lee amdt.; Agreed to by VV. 
+HouseFloor	697526221014441984	2016-02-10T21:03:05	DEBATE - Pursuant to HRes609, the Committee proceeded with 10 minutes on the Jackson Lee amdt. No. 4. 
+HouseFloor	697525210375921664	2016-02-10T20:59:04	3:58:10pm HR3293 DEBATE - Pursuant to HRes609, the Committee proceeded with 10 minutes on the Jackson Lee part B amdt. No. 4.
+HouseFloor	697524207337529345	2016-02-10T20:55:05	3:53:58pm HR3293 DEBATE - Pursuant to HRes609, the Committee proceeded with 10 minutes on the Jackson Lee part B amdt. No. 3.
+HouseFloor	697521692848091136	2016-02-10T20:45:05	3:43:47pm HR3293 DEBATE - Pursuant to HRes609, the Committee proceeded with 10 minutes on the EB Johnson part B amdt. No. 2.
+HouseFloor	697507851812610053	2016-02-10T19:50:05	2:49:03pm HR3293 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR3293. 
+HouseFloor	697507599953039360	2016-02-10T19:49:05	2:47:57pm HR4470 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	697506338872684544	2016-02-10T19:44:04	2:42:26pm HR4470 SuspensionRules: pass the bill, as amended RC 67-2/3 Yea and Nay vote pending. 
+HouseFloor	697506086329393152	2016-02-10T19:43:04	2:41:50pm HRes609 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	697504326625927168	2016-02-10T19:36:05	2:35:26pm HRes609 On the resolution RC 66 - vote pending. 
+HouseFloor	697499042197217280	2016-02-10T19:15:05	2:13:32pm HRes609 On ordering the previous question RC 65 - Yea and Nay vote pending. 
+HouseFloor	697483436764831745	2016-02-10T18:13:04	1:11:43pm HRes609 DEBATE - 1 hour on HRes609. 
+HouseFloor	697482684222873600	2016-02-10T18:10:05	1:08:11pm HRes609 Considered as privileged matter. HRes609 — "to consider HR3442 to provide further means of acc 
+HouseFloor	697481931336896513	2016-02-10T18:07:05	1:06:42pm HR4470 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	697471864336211969	2016-02-10T17:27:05	12:26:50pm HR4470 DEBATE - 40 minutes on HR4470. 
+HouseFloor	697470352021131264	2016-02-10T17:21:04	12:20:03pm - Clerk message: 
+HouseFloor	697465823024254977	2016-02-10T17:03:05	12:02:35pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	697465328842969088	2016-02-10T17:01:07	12:00:53pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	697449970975305728	2016-02-10T16:00:05	10:58:56am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	697435375673995264	2016-02-10T15:02:05	10:01:06am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	697435122648412160	2016-02-10T15:01:05	10:00:44am - The Speaker designated the Honorable Jody B. Hice to act as Speaker pro tempore for today. 
+HouseFloor	697228756012965893	2016-02-10T01:21:03	8:18:41pm - The House adjourned. Next meeting: 10:00 am on Feb 10, 2016. 
+HouseFloor	697221963664728064	2016-02-10T00:54:04	7:31:47pm - SPECIAL ORDER SPEECHES - The House resumed Special Order speeches. 
+HouseFloor	697211143371276289	2016-02-10T00:11:04	7:10:32pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	697207118450008064	2016-02-09T23:55:05	6:54:21pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	697206361948610560	2016-02-09T23:52:04	6:51:45pm HR3036 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	697201329454915584	2016-02-09T23:32:04	6:31:31pm HR3036 SuspensionRules: pass the bill, as amended RC 64-2/3 Yea and Nay vote pending. 
+HouseFloor	697188241716461569	2016-02-09T22:40:04	5:38:50pm - The House recessed. Next meeting: 6:30pm today. 
+HouseFloor	697187989441658881	2016-02-09T22:39:04	5:38:37pm HR3894 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	697185473987547138	2016-02-09T22:29:04	5:28:35pm HR3894 DEBATE - 40 minutes on HR3894. 
+HouseFloor	697185220081160192	2016-02-09T22:28:04	5:27:41pm HR890 The title of the measure was amended. Agreed to without objection. 
+HouseFloor	697182963830824961	2016-02-09T22:19:06	5:18:03pm HR890 DEBATE - 40 minutes on HR890. 
+HouseFloor	697182707923709953	2016-02-09T22:18:05	5:17:09pm HR3036 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	697176704113053696	2016-02-09T21:54:13	4:53:11pm HR3036 DEBATE - 40 minutes on HR3036. 
+HouseFloor	697176204848336896	2016-02-09T21:52:14	4:51:19pm HR3262 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	697174696773734400	2016-02-09T21:46:15	4:45:23pm HR3262 DEBATE - 40 minutes on HR3262. 
+HouseFloor	697174406880215041	2016-02-09T21:45:06	4:44:41pm HR2915 The title of the measure was amended. Agreed to without objection. 
+HouseFloor	697171500370128896	2016-02-09T21:33:33	4:32:17pm HR2915 DEBATE - 40 minutes on HR2915. 
+HouseFloor	697171253266927617	2016-02-09T21:32:34	4:31:19pm HR3234 The title of the measure was amended. Agreed to without objection. 
+HouseFloor	697168867592925184	2016-02-09T21:23:05	4:22:11pm HR3234 DEBATE - 40 minutes on HR3234. 
+HouseFloor	697168647962419200	2016-02-09T21:22:13	4:21:24pm HR677 The title of the measure was amended. Agreed to without objection. 
+HouseFloor	697163363487510529	2016-02-09T21:01:13	4:00:41pm HR677 DEBATE - 40 minutes on HR677. 
+HouseFloor	697163121304141824	2016-02-09T21:00:15	3:59:49pm HR4056 The title of the measure was amended. Agreed to without objection. 
+HouseFloor	697161570896474116	2016-02-09T20:54:05	3:52:57pm HR4056 DEBATE - 40 minutes on HR4056. 
+HouseFloor	697161064195235841	2016-02-09T20:52:04	3:51:47pm HR2360 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	697159050342088704	2016-02-09T20:44:04	3:43:11pm HR2360 DEBATE - 40 minutes on HR2360. 
+HouseFloor	697158796955807744	2016-02-09T20:43:04	3:42:01pm HR3016 The title of the measure was amended. Agreed to without objection. 
+HouseFloor	697153263746084864	2016-02-09T20:21:05	3:19:46pm HR3016 DEBATE - 40 minutes on HR3016. 
+HouseFloor	697152756117852161	2016-02-09T20:19:04	3:18:22pm HR3106 The title of the measure was amended. Agreed to without objection. 
+HouseFloor	697150497610981377	2016-02-09T20:10:05	3:09:34pm HR3106 DEBATE - 40 minutes on HR3106. 
+HouseFloor	697150243947864065	2016-02-09T20:09:05	3:08:27pm HR4437 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	697149744087494656	2016-02-09T20:07:06	3:05:37pm HR4437 DEBATE - 40 minutes on HR4437. 
+HouseFloor	697149239420461056	2016-02-09T20:05:05	3:04:01pm - The Speaker announced that votes on suspensions, if ordered, will be postponed until a time to be announced.
+HouseFloor	697139925645402117	2016-02-09T19:28:05	2:25:28pm - The House recessed. Next meeting: ~ 3:00 pm today. 
+HouseFloor	697136919982043138	2016-02-09T19:16:08	2:06:11pm - SenateFloor message: Feb 9, 2016 at 10:44 am: Appointment Washington's Farewell Address. 
+HouseFloor	697133663746707456	2016-02-09T19:03:12	2:02:28pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches. 
+HouseFloor	697133385077096448	2016-02-09T19:02:05	2:01:50pm - PLEDGE OF ALLEGIANCE - The Chair designated Mr. Babin to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	697133132345188352	2016-02-09T19:01:05	2:00:29pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	697103183416582145	2016-02-09T17:02:05	12:01:35pm - The House recessed. Next meeting: 2:00pm today. 
+HouseFloor	697102989492928514	2016-02-09T17:01:18	12:00:25pm - The Speaker designated the Honorable Blake Farenthold to act as Speaker pro tempore for today. 
+HouseFloor	696772255909601280	2016-02-08T19:07:05	2:03:19pm - The Speaker announced the House adjourn. Next meeting: 12:00 pm on Feb 9, 2016. 
+HouseFloor	696771499722698752	2016-02-08T19:04:05	2:02:53pm - SenateFloor message: Feb 8, 2016 at 1:17 pm: The Senate passed HConRes109. 
+HouseFloor	696770998016851968	2016-02-08T19:02:05	2:01:27pm - Today's prayer was by Reverend George P. Schommer, OP, St. Dominics Church, Washington, DC. 
+HouseFloor	696770748053061632	2016-02-08T19:01:06	2:00:00pm - The House convened, starting a new legislative day. 
+HouseFloor	696690711689879552	2016-02-08T13:43:04	12:54:23pm - The House adjourned. Next meeting: 2:00 pm on Feb 8, 2016. 
+HouseFloor	695664624729878528	2016-02-05T17:45:46	Weekly Digest of the CongressionalRecord: 
+HouseFloor	695304589088808960	2016-02-04T17:55:06	12:54:23pm - The House adjourned. Next meeting: 2:00 pm on Feb 8, 2016. 
+HouseFloor	695303076337557504	2016-02-04T17:49:06	12:45:16pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	695302821672062976	2016-02-04T17:48:05	12:45:15pm - Mr. McCarthy asked UC That when the House adjourns on Th, Feb. 4, 2016, it meet at 2 pm on Mon, Feb. 8, 
+HouseFloor	695296529167425536	2016-02-04T17:23:05	12:21:57pm HR3033 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	695293763418091520	2016-02-04T17:12:05	12:11:34pm HR766 On passage RC 63 - Yea and Nay vote pending. 
+HouseFloor	695288731171975168	2016-02-04T16:52:06	11:50:14am HR766 On motion to recommit with instructions RC 62 - Yea and Nay vote pending. 
+HouseFloor	695286216581775360	2016-02-04T16:42:06	11:39:56am HR766 Ms. Castor (FL) moved to recommit with instructions to the Committee on Financial Services. 
+HouseFloor	695285957877198848	2016-02-04T16:41:04	11:38:56am HR766 The previous question was ordered pursuant to the rule. 
+HouseFloor	695283446269272064	2016-02-04T16:31:05	11:29:15am HR766 DEBATE - Pursuant to HRes595, the Committee proceeded with 10 minutes on the Gosar amdt. No. 2. 
+HouseFloor	695282449346093056	2016-02-04T16:27:08	11:22:13am HR766 DEBATE - Pursuant to HRes595, the Committee proceeded with 10 minutes on the Sherman amdt. No. 1. 
+HouseFloor	695264321010589696	2016-02-04T15:15:06	10:13:47am HR766 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR766. 
+HouseFloor	695261550463049728	2016-02-04T15:04:05	10:02:33am - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 5 per side of the aisle.
+HouseFloor	695261050946633729	2016-02-04T15:02:06	10:00:51am - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	695241920663183360	2016-02-04T13:46:05	7:40:05pm - The House adjourned. Next meeting: 10:00 am on Feb 4, 2016. 
+HouseFloor	695044364603678721	2016-02-04T00:41:04	7:40:05pm - The House adjourned. Next meeting: 10:00 am on Feb 4, 2016. 
+HouseFloor	695007118110375937	2016-02-03T22:13:04	5:11:46pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	695005360600584192	2016-02-03T22:06:05	5:05:17pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	695004602253590528	2016-02-03T22:03:04	5:02:48pm - Mrs. Miller (MI) asked UC that when the House adjourns today, it meet at 10:00 am on Feb 4. Agreed to without objection.
+HouseFloor	695004351547498497	2016-02-03T22:02:04	5:01:47pm SConRes29 
+HouseFloor	695004104351965184	2016-02-03T22:01:05	5:00:56pm SConRes28 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	695002592015998977	2016-02-03T21:55:05	4:53:55pm HR1675 On passage RC 61 - Yea and Nay vote pending. 
+HouseFloor	695000830433480705	2016-02-03T21:48:05	4:46:53pm HR1675 On motion to recommit with instructions RC 60 - vote pending. 
+HouseFloor	694999316625235971	2016-02-03T21:42:04	4:40:30pm HR1675 DEBATE - 10 minutes on the motion to recommit with instructions. 
+HouseFloor	694999065864622080	2016-02-03T21:41:04	4:36:39pm HR1675 On the Maloney, Carolyn amdt.; Failed by vote: (RC 59). 
+HouseFloor	694997307595612160	2016-02-03T21:34:05	4:33:21pm HR1675 On the Maloney, Carolyn amdt. (A005) RC 59 - vote pending. 
+HouseFloor	694996303080771584	2016-02-03T21:30:05	4:29:11pm HR1675 On the Issa amdt. (A004) RC 58 - vote pending. 
+HouseFloor	694991519145660416	2016-02-03T21:11:05	4:08:47pm HR1675 On the DeSaulnier amdt. (A001) RC 57 - vote pending. 
+HouseFloor	694991269039378432	2016-02-03T21:10:05	4:07:43pm HR1675 POSTPONED PROCEEDINGS - At the end of debate on the Carolyn Maloney amdt. No. 7, the Chair put the 
+HouseFloor	694989507976896522	2016-02-03T21:03:05	3:57:22pm HR1675 DEBATE - Pursuant to HRes595, the Committee proceeded with 10 minutes on the Carolyn Maloney (NY) amdt. No. 7.
+HouseFloor	694985480987938816	2016-02-03T20:47:05	3:44:22pm HR1675 DEBATE - Pursuant to HRes595, the Committee proceeded with 10 minutes on the Issa amdt. No. 6. 
+HouseFloor	694984981257519104	2016-02-03T20:45:06	3:42:43pm HR1675 On the Sherman amdt.; Failed by VV. 
+HouseFloor	694982211355951105	2016-02-03T20:34:05	3:31:51pm HR1675 DEBATE - Pursuant to HRes595, the Committee proceeded with 10 minutes on the Sherman amdt. No. 3. 
+HouseFloor	694981705497735168	2016-02-03T20:32:05	3:31:19pm HR1675 On the Huizenga (MI) amdt.; Agreed to by VV. 
+HouseFloor	694978178947874816	2016-02-03T20:18:04	3:15:07pm HR1675 DEBATE - Pursuant to HRes595, the Committee proceeded with 10 minutes on the DeSaulnier amdt. No. 1.
+HouseFloor	694959304865087489	2016-02-03T19:03:04	2:02:43pm HR1675 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR1675. 
+HouseFloor	694958558220324865	2016-02-03T19:00:06	1:59:46pm HRes595 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	694957041090183170	2016-02-03T18:54:04	1:53:39pm HRes595 On the resolution RC 56 - vote pending. 
+HouseFloor	694952260888039424	2016-02-03T18:35:05	1:33:40pm HRes595 On ordering the previous question RC 55 - vote pending. 
+HouseFloor	694937665968349184	2016-02-03T17:37:05	12:36:01pm HRes595 DEBATE - 1 hour on HRes595. 
+HouseFloor	694937411806183425	2016-02-03T17:36:04	12:31:39pm HRes595 Considered as privileged matter. HRes595 — "to consider HR1675 to direct the Securities and E 
+HouseFloor	694936663143931904	2016-02-03T17:33:06	12:32:01pm HRes595 DEBATE - 1 hour on HRes595. 
+HouseFloor	694929360306991104	2016-02-03T17:04:05	12:02:26pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	694928853718941697	2016-02-03T17:02:04	12:01:33pm - PLEDGE OF ALLEGIANCE - The Chair designated Mr. Higgins to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	694928610646425601	2016-02-03T17:01:06	12:00:26pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	694912245973803008	2016-02-03T15:56:04	10:55:23am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	694898658660241408	2016-02-03T15:02:05	10:00:45am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	694683238720237568	2016-02-03T00:46:05	7:44:39pm - The House adjourned. Next meeting: 10:00 am on Feb 3, 2016. 
+HouseFloor	694661595868315648	2016-02-02T23:20:05	6:19:09pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	694659084910510080	2016-02-02T23:10:06	6:09:06pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	694658323296182273	2016-02-02T23:07:05	6:06:00pm - Mr. Stivers filed a report from the Committee on Rules on HRes595. 
+HouseFloor	694657316734504963	2016-02-02T23:03:05	6:02:04pm HR3662 On passage RC 54 - Yea and Nay vote pending. 
+HouseFloor	694656569083052033	2016-02-02T23:00:06	5:53:00pm HR3762 The Chair announced the unfinished business to be the consideration of the veto. 
+HouseFloor	694655301816041472	2016-02-02T22:55:04	5:53:08pm HR3762 On passage, the objections of the President to the contrary notwithstanding RC 53-2/3 Yea and Nay vote pending.
+HouseFloor	694653541848334336	2016-02-02T22:48:05	5:46:46pm HR3700 On passage RC 52 - Yea and Nay vote pending. 
+HouseFloor	694652283410345984	2016-02-02T22:43:05	5:41:43pm HR3700 On the Green, Al amdt. (A011) RC 51 - vote pending. 
+HouseFloor	694648009083240448	2016-02-02T22:26:05	5:20:49pm HR3700 On the Palazzo amdt. (A006) RC 50 - vote pending. 
+HouseFloor	694644733101109249	2016-02-02T22:13:04	5:10:55pm HR3700 DEBATE - Pursuant to HRes594, the Committee proceeded with 10 minutes on the Price (NC) amdt. No. 14.
+HouseFloor	694643725386039296	2016-02-02T22:09:04	5:04:49pm HR3700 DEBATE - The Committee proceeded with debate on the Jackson Lee amdt., as modified. 
+HouseFloor	694643474520489985	2016-02-02T22:08:04	5:04:48pm HR3700 Jackson Lee amdt.; modified by UC. 
+HouseFloor	694642478184538113	2016-02-02T22:04:07	5:00:58pm HR3700 DEBATE - Pursuant to HRes594, the Committee proceeded with 10 minutes on the Jackson Lee amdt. No. 13.
+HouseFloor	694640204464939009	2016-02-02T21:55:05	4:51:34pm HR3700 DEBATE - Pursuant to HRes594, the Committee proceeded with 10 minutes on the Al Green amdt. No. 12.
+HouseFloor	694639703622971392	2016-02-02T21:53:05	4:50:48pm HR3700 On the Ellison amdt.; Failed by VV. 
+HouseFloor	694636683774541825	2016-02-02T21:41:05	4:39:38pm HR3700 DEBATE - Pursuant to HRes594, the Committee proceeded with 10 minutes on the Peters amdt. No. 10. 
+HouseFloor	694635929777131520	2016-02-02T21:38:06	4:36:29pm HR3700 DEBATE - Pursuant to HRes594, the Committee proceeded with 10 minutes on the Peters amdt. No. 9. 
+HouseFloor	694634670022115329	2016-02-02T21:33:05	4:30:26pm HR3700 DEBATE - Pursuant to HRes594, the Committee proceeded with 10 minutes on the Welch amdt. No. 8. 
+HouseFloor	694632153938804736	2016-02-02T21:23:05	4:19:55pm HR3700 DEBATE - Pursuant to HRes594, the Committee proceeded with 10 minutes on the Palazzo amdt. No. 7. 
+HouseFloor	694631902393802752	2016-02-02T21:22:05	4:18:37pm HR3700 RISING INFORMALLY - The Committee rose informally to receive a message. Subsequently, the Committee resumed its sitting.
+HouseFloor	694630145995313153	2016-02-02T21:15:07	4:12:36pm HR3700 DEBATE - Pursuant to HRes594, the Committee proceeded with 10 minutes on the Meng amdt. No. 6. 
+HouseFloor	694629886930063362	2016-02-02T21:14:05	4:11:32pm HR3700 On the Hinojosa amdt.; Agreed to by VV. 
+HouseFloor	694628652856786945	2016-02-02T21:09:11	4:05:51pm HR3700 DEBATE - Pursuant to the provsions of HRes594, the Committee proceeded with 10 minutes on the Hinojosa amdt. No. 5.
+HouseFloor	694628377735593984	2016-02-02T21:08:05	4:05:11pm HR3700 On the Sewell (AL) amdt.; Agreed to by VV. 
+HouseFloor	694627117594705920	2016-02-02T21:03:05	4:01:01pm HR3700 DEBATE - Pursuant to HRes594, the Committee proceeded with 10 minutes on the Sewell amdt. no. 3. 
+HouseFloor	694626870638350336	2016-02-02T21:02:06	4:00:22pm HR3700 On the Waters, Maxine amdt.; Agreed to by VV. 
+HouseFloor	694625359887728640	2016-02-02T20:56:05	3:53:45pm HR3700 DEBATE - Pursuant to HRes594, the Committee proceeded with 10 minutes on the Maxine Waters (CA) amdt. no. 2.
+HouseFloor	694605975400103936	2016-02-02T19:39:04	2:37:37pm HR3700 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR3700. 
+HouseFloor	694605729051836416	2016-02-02T19:38:05	2:36:55pm HR3700 Considered under the provisions of rule HRes594. HR3700 — "To provide housing opportunities in 
+HouseFloor	694604972793712640	2016-02-02T19:35:05	2:34:25pm HRes594 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	694603210359771136	2016-02-02T19:28:05	2:27:19pm HRes594 On the resolution RC 49 - vote pending. 
+HouseFloor	694598195431759872	2016-02-02T19:08:09	2:07:08pm HRes594 On ordering the previous question RC 48 - Yea and Nay vote pending. 
+HouseFloor	694579556297080833	2016-02-02T17:54:05	DEBATE - 1 hour on the question of passage of HR3762, the objections of the President to the contrary, notwithstanding.
+HouseFloor	694579053249052672	2016-02-02T17:52:05	12:49:51pm HR3762 DEBATE - 1 hour on the veto message for HR3762. 
+HouseFloor	694573520609775616	2016-02-02T17:30:06	12:29:16pm HRes594 DEBATE - 1 hour on HRes594. 
+HouseFloor	694566978263085056	2016-02-02T17:04:06	12:02:45pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches. 
+HouseFloor	694566721009623040	2016-02-02T17:03:05	12:01:47pm - PLEDGE OF ALLEGIANCE - The Chair designated Ms. Foxx to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	694566235237978112	2016-02-02T17:01:09	12:00:19pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	694537280422305792	2016-02-02T15:06:06	10:04:57am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	694536023892725760	2016-02-02T15:01:06	10:00:32am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	694331670938300416	2016-02-02T01:29:05	8:27:57pm - The House adjourned. Next meeting: 10:00 am on Feb 2, 2016. 
+HouseFloor	694316071105486848	2016-02-02T00:27:05	7:26:24pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	694312297813139456	2016-02-02T00:12:06	7:11:37pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	694309777283911680	2016-02-02T00:02:05	6:57:47pm HR4188 DEBATE - 40 minutes on the motion to suspend the rules and agree to the Senate amdt. to HR4188. 
+HouseFloor	694308267397419008	2016-02-01T23:56:05	6:54:58pm HR4168 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	694306506162991105	2016-02-01T23:49:05	6:48:34pm HR4168 SuspensionRules: pass the bill RC 47-2/3 Yea and Nay vote pending. 
+HouseFloor	694302479886974980	2016-02-01T23:33:05	6:31:18pm HR2187 SuspensionRules: pass the bill, as amended RC 46-2/3 Yea and Nay vote pending. 
+HouseFloor	694285617971249152	2016-02-01T22:26:05	5:24:55pm - The House recessed. Next meeting: 6:30pm today. 
+HouseFloor	694285114948325377	2016-02-01T22:24:05	5:22:40pm S2152 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	694284861381709824	2016-02-01T22:23:04	5:22:37pm S2152 SuspensionRules: pass the bill Agreed to by VV. 
+HouseFloor	694280587276894208	2016-02-01T22:06:05	5:05:41pm S2152 DEBATE - 40 minutes on S2152. 
+HouseFloor	694277313509380100	2016-02-01T21:53:05	4:52:10pm HR400 DEBATE - 40 minutes on HR400. 
+HouseFloor	694277065051369472	2016-02-01T21:52:06	4:51:11pm HR515 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	694271023303282688	2016-02-01T21:28:05	DEBATE - 40 minutes on the motion to suspend the rules and agree to the Senate amdts. to HR515. 
+HouseFloor	694270014300540928	2016-02-01T21:24:04	4:21:43pm HR515 DEBATE - 40 minutes on the motion to agree to the Senate amdts. to HR515. 
+HouseFloor	694269519125221377	2016-02-01T21:22:06	4:20:23pm HR2209 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	694269265868886018	2016-02-01T21:21:06	4:20:21pm HR2209 SuspensionRules: pass the bill Agreed to by VV. 
+HouseFloor	694262969467801601	2016-02-01T20:56:05	3:55:20pm HR2209 DEBATE - 40 minutes on HR2209. 
+HouseFloor	694259447699496960	2016-02-01T20:42:05	3:41:19pm HR4168 DEBATE - 40 minutes on HR4168. 
+HouseFloor	694256431265157120	2016-02-01T20:30:06	3:29:15pm HR3784 DEBATE - 40 minutes on HR3784. 
+HouseFloor	694256179065835520	2016-02-01T20:29:06	3:28:32pm HR2187 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	694252901687017472	2016-02-01T20:16:05	3:15:32pm HR2187 DEBATE - 40 minutes on HR2187. 
+HouseFloor	694235286381948931	2016-02-01T19:06:05	2:04:45pm - The House recessed. Next meeting: 3:15pm today. 
+HouseFloor	694234532258652161	2016-02-01T19:03:05	2:02:36pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches. 
+HouseFloor	694234281443459073	2016-02-01T19:02:05	2:00:45pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	694204337191522304	2016-02-01T17:03:06	12:01:39pm - The House recessed. Next meeting: 2:00pm today. 
+HouseFloor	694203837100462080	2016-02-01T17:01:07	12:00:26pm - The Speaker designated the Honorable Tom Emmer to act as Speaker pro tempore for today. 
+HouseFloor	693134612583702528	2016-01-29T18:12:24	Weekly Digest of the CongressionalRecord: 
+HouseFloor	692788501868367873	2016-01-28T19:17:04	2:03:01pm - The Speaker announced the House adjourn. Next meeting: 12:00 pm on Feb 1, 2016. 
+HouseFloor	692788255813681152	2016-01-28T19:16:06	2:01:39pm - PLEDGE OF ALLEGIANCE - The Chair led the House in reciting the Pledge of Allegiance to the Flag. 
+HouseFloor	692784727368015872	2016-01-28T19:02:04	2:01:01pm - Today's prayer was by Reverend Dr. Kurt Gerhard, St. Patricks Episcopal Church, Washington, DC 
+HouseFloor	692784479488864256	2016-01-28T19:01:05	2:00:21pm - The Speaker designated the Honorable F. James Sensenbrenner Jr. to act as Speaker pro tempore for today. 
+HouseFloor	691711914880143360	2016-01-25T19:59:06	2:06:01pm - The Speaker announced the House adjourn. Next meeting: 2:00 pm on Jan 28, 2016. 
+HouseFloor	691708884873015296	2016-01-25T19:47:04	2:05:01pm - That when the House adjourns on Mon, Jan 25, 2016, it meet at 2:00 pm on Th, Jan 28, 2016. 
+HouseFloor	691704360959610886	2016-01-25T19:29:05	2:02:11pm - SenateFloor message: The Senate passed S607, and S2422. Senate agreed to SConRes28 and SConRes29. 
+HouseFloor	691704108114395136	2016-01-25T19:28:05	2:02:09pm - SenateFloor message: Jan 21, 2016 at 10:50 am: The Senate passed S607, S2422 and agreed to SConRes28 and SConRes29.
+HouseFloor	691698064046841856	2016-01-25T19:04:04	2:02:06pm - PLEDGE OF ALLEGIANCE - The Chair led the House in reciting the Pledge of Allegiance to the Flag. 
+HouseFloor	691697565847416832	2016-01-25T19:02:05	2:00:31pm - Today's prayer was by Reverend Gene Hemrick, Catholic U. of America, Washington DC 
+HouseFloor	691697316265365504	2016-01-25T19:01:05	2:00:30pm - The Speaker designated the Honorable Luke Messer to act as Speaker pro tempore for today. 
+HouseFloor	691695555240660992	2016-01-25T18:54:06	Weekly Digest of the CongressionalRecord: 
+HouseFloor	688393381698007041	2016-01-16T16:12:26	Weekly Digest of the CongressionalRecord: 
+HouseFloor	688043235382562816	2016-01-15T17:01:05	1:01:56pm - The House adjourned. Next meeting: 1:00 pm on Jan 15, 2016, unless it sooner receives a message from the 
+HouseFloor	687338593535279104	2016-01-13T18:21:05	1:01:53pm - 
+HouseFloor	687335573980332032	2016-01-13T18:09:05	1:01:54pm - The House adjourned. Next meeting: 1:00 pm on Jan 15, 2016, unless it sooner has received a message from 
+HouseFloor	687334063649222656	2016-01-13T18:03:05	1:00:04pm HConRes107 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	687325256420294656	2016-01-13T17:28:05	12:27:13pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	687321479994830849	2016-01-13T17:13:05	12:08:35pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	687317455396560896	2016-01-13T16:57:05	11:55:57am SJRes22 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	687316199273807872	2016-01-13T16:52:06	11:49:15am SJRes22 On passage RC 45 - Yea and Nay vote pending. 
+HouseFloor	687315944646045698	2016-01-13T16:51:05	11:48:48am HR3662 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	687314683850788865	2016-01-13T16:46:04	11:29:21am HR3662 On passage RC 44 - Yea and Nay vote pending. 
+HouseFloor	687294804099743745	2016-01-13T15:27:05	10:25:39am HR3662 DEBATE - 1 hour on HR3662. 
+HouseFloor	687294553477480449	2016-01-13T15:26:05	10:23:24am SJRes22 The previous question was ordered pursuant to the rule. 
+HouseFloor	687277190493388800	2016-01-13T14:17:05	9:16:25am SJRes22 DEBATE - 1 hour on SJRes22. 
+HouseFloor	687273668540542978	2016-01-13T14:03:06	9:02:02am - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches, which would be limited to 5 per side of the aisle.
+HouseFloor	687273414923546624	2016-01-13T14:02:05	9:01:41am - PLEDGE OF ALLEGIANCE - The Chair designated Ms. Foxx to lead the Members in reciting the Pledge of Allegiance to the Flag.
+HouseFloor	687273165119184896	2016-01-13T14:01:06	9:00:34am - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	687113609017749505	2016-01-13T03:27:05	10:18:15pm - The House adjourned. Next meeting: 9:00 am on Jan 13, 2016. 
+HouseFloor	687111599564394498	2016-01-13T03:19:05	10:18:00pm - Mr. McCarthy moved the President's message be referred to the Committee House on the State of the Union 
+HouseFloor	687085424829972480	2016-01-13T01:35:05	8:33:19pm - The House convened, returning from a recess continuing the legislative day of Jan 12. 
+HouseFloor	687033351824392192	2016-01-12T22:08:10	5:06:49pm HR757 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	687032194699804677	2016-01-12T22:03:34	5:00:53pm HR757 SuspensionRules: pass the bill, as amended RC 43-2/3 Yea and Nay vote pending. 
+HouseFloor	687031575863754754	2016-01-12T22:01:06	5:00:28pm HR1644 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	687030626332049408	2016-01-12T21:57:20	4:54:31pm HR1644 On passage RC 42 - vote pending. 
+HouseFloor	687029052255920129	2016-01-12T21:51:05	4:48:07pm HR1644 On motion to recommit with instructions RC 41 - vote pending. 
+HouseFloor	687027794392551425	2016-01-12T21:46:05	4:40:10pm HR1644 Mr. Kildee moved to recommit with instructions to the Committee on Natural Resources. 
+HouseFloor	687026828003938305	2016-01-12T21:42:14	4:38:20pm HR1644 The previous question was ordered pursuant to the rule. 
+HouseFloor	687025323767115776	2016-01-12T21:36:16	4:34:35pm HR1644 On the Cartwright amdt.; Failed by vote: (RC 39). 
+HouseFloor	687023831953846272	2016-01-12T21:30:20	4:29:03pm HR1644 On the Cartwright amdt. (A003) RC 39 - vote pending. 
+HouseFloor	687018505200386050	2016-01-12T21:09:10	4:07:12pm HR1644 On the Kildee amdt. (A002) RC 38 - vote pending. 
+HouseFloor	687016504286670849	2016-01-12T21:01:13	3:59:56pm HR1644 DEBATE - Pursuant to HRes583, the Committee proceeded with 10 minutes on the Sewell Part A amdt. No. 4.
+HouseFloor	687013705633116161	2016-01-12T20:50:06	3:47:49pm HR1644 DEBATE - Pursuant to HRes583, the Committee proceeded with 10 minutes on the Cartwright Part A amdt. No. 3.
+HouseFloor	687011940284116993	2016-01-12T20:43:05	3:41:44pm HR1644 DEBATE - Pursuant to HRes583, the Committee proceeded with 10 minutes on the Kildee Part A amdt. No. 2.
+HouseFloor	687010936062918656	2016-01-12T20:39:05	3:37:32pm HR1644 DEBATE - Pursuant to HRes583, the Committee proceeded with 10 minutes on the Lamborn Part A amdt. No. 1.
+HouseFloor	686994577169985536	2016-01-12T19:34:05	2:31:33pm HR1644 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR1644. 
+HouseFloor	686993820194615297	2016-01-12T19:31:05	2:30:13pm HRes583 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	686988032231227392	2016-01-12T19:08:05	2:07:08pm HRes583 On the resolution RC 37 - vote pending. 
+HouseFloor	686982497968734209	2016-01-12T18:46:05	1:45:21pm HRes583 On ordering the previous question RC 36 - Yea and Nay vote pending. 
+HouseFloor	686967651462176768	2016-01-12T17:47:06	12:44:52pm HRes583 Considered as privileged matter. HRes583 — "to consider bill (HR1644) to amend the Surface Mi 
+HouseFloor	686966896550395905	2016-01-12T17:44:06	12:42:52pm - ONE MINUTE SPEECHES - The House resumed 1 minute speeches. 
+HouseFloor	686956830015160321	2016-01-12T17:04:05	12:03:03pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	686956345434750977	2016-01-12T17:02:10	12:00:46pm - Today's prayer was by Reverend Nathaniel Demosthene, First Timothy Christian Church, Spring Valley, New York.
+HouseFloor	686942989449609216	2016-01-12T16:09:06	11:08:27am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	686926377308811264	2016-01-12T15:03:05	10:00:50am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	686926123482112001	2016-01-12T15:02:04	10:00:07am - The Speaker designated the Honorable Doug LaMalfa to act as Speaker pro tempore for today. 
+HouseFloor	686925880891981825	2016-01-12T15:01:07	10:00:00am - The House convened, starting a new legislative day. 
+HouseFloor	686745435248177152	2016-01-12T03:04:05	10:00:57pm - The House adjourned. Next meeting: 10:00 am on Jan 12, 2016. 
+HouseFloor	686703909528809472	2016-01-12T00:19:05	7:17:52pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	686700638550515712	2016-01-12T00:06:05	7:04:43pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	686699884876009472	2016-01-12T00:03:05	7:01:41pm HR3231 The title of the measure was amended. Agreed to without objection. 
+HouseFloor	686699389239312385	2016-01-12T00:01:07	6:31:28pm HR598 Considered as unfinished business. HR598 — "To provide taxpayers with an annual report disclosing 
+HouseFloor	686692333799215104	2016-01-11T23:33:05	6:31:56pm HR598 SuspensionRules: pass the bill, as amended RC 34-2/3 Yea and Nay vote pending. 
+HouseFloor	686692080802992128	2016-01-11T23:32:04	6:30:13pm - Mr. Newhouse filed a report from the Committee on Rules on HRes583. 
+HouseFloor	686683025418096640	2016-01-11T22:56:05	5:55:26pm - The House recessed. Next meeting: 6:30pm today. 
+HouseFloor	686678491241287680	2016-01-11T22:38:04	5:37:40pm HR3231 DEBATE - 40 minutes on HR3231. 
+HouseFloor	686678242288340992	2016-01-11T22:37:05	5:36:26pm HR653 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	686674464793296897	2016-01-11T22:22:04	5:21:23pm HR653 DEBATE - 40 minutes on HR653. 
+HouseFloor	686671947397251072	2016-01-11T22:12:04	5:11:31pm HR1069 DEBATE - 40 minutes on HR1069. 
+HouseFloor	686670187425304576	2016-01-11T22:05:05	5:04:09pm HR598 DEBATE - 40 minutes on HR598. 
+HouseFloor	686667918747287552	2016-01-11T21:56:04	4:55:35pm S1115 DEBATE - 40 minutes on S1115. 
+HouseFloor	686666418591498241	2016-01-11T21:50:06	4:48:57pm S1629 DEBATE - 40 minutes on S1629. 
+HouseFloor	686666161371660288	2016-01-11T21:49:05	4:48:15pm HR1777 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	686663644042649600	2016-01-11T21:39:04	4:38:12pm HR1777 DEBATE - 40 minutes on HR1777. 
+HouseFloor	686663142563295232	2016-01-11T21:37:05	4:36:01pm HR757 At the end of debate, the Yeas and Nays were demanded and ordered. RC postponed. 
+HouseFloor	686657604035194884	2016-01-11T21:15:04	3:59:56pm HR757 DEBATE - 40 minutes on HR757. 
+HouseFloor	686653835801145344	2016-01-11T21:00:06	3:59:13pm S142 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	686651058622480385	2016-01-11T20:49:04	3:48:35pm S142 DEBATE - 40 minutes on S142. 
+HouseFloor	686625640146202624	2016-01-11T19:08:04	2:07:00pm - The House recessed. Next meeting: 3:45pm today. 
+HouseFloor	686623884905439233	2016-01-11T19:01:05	2:00:04pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	686595951218286592	2016-01-11T17:10:05	12:09:04pm - The House recessed. Next meeting: 2:00pm today. 
+HouseFloor	686593688810684417	2016-01-11T17:01:06	12:00:24pm - MORNING-HOUR DEBATE - At the end, the House will recess until 2:00 pm for legislative business. 
+HouseFloor	685842613879062528	2016-01-09T15:16:36	Weekly Digest of the CongressionalRecord: 
+HouseFloor	685546279229874176	2016-01-08T19:39:04	2:37:49pm - The House adjourned. Next meeting: 12:00 pm on Jan 11, 2016. 
+HouseFloor	685531935406424064	2016-01-08T18:42:04	1:40:41pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	685526903646752768	2016-01-08T18:22:04	1:21:15pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	685524390407200769	2016-01-08T18:12:05	1:01:28pm HR3762 On motion to postpone consideration of the veto message Agreed to by VV. 
+HouseFloor	685522629122494464	2016-01-08T18:05:05	1:02:07pm - VETO MESSAGE ON HR3762 - The Chair announced the objections of the President to HR3762 would be spread 
+HouseFloor	685521873719922688	2016-01-08T18:02:05	12:57:39pm - The Speaker laid before the House a message from the President transmitting his disapproval of HR3762. 
+HouseFloor	685520864629108737	2016-01-08T17:58:05	12:57:01pm HR1927 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	685519609919881220	2016-01-08T17:53:06	12:51:05pm HR1927 On passage RC 33 - vote pending. 
+HouseFloor	685517089352892416	2016-01-08T17:43:05	12:41:59pm HR1927 On motion to recommit with instructions RC 32 - vote pending. 
+HouseFloor	685513820589154304	2016-01-08T17:30:05	12:29:27pm HR1927 On the Nadler amdt. (A010) RC 31 - vote pending. 
+HouseFloor	685513080093147136	2016-01-08T17:27:09	12:26:14pm HR1927 On the Jackson Lee amdt. (A009) RC 30 - vote pending. 
+HouseFloor	685512308806778880	2016-01-08T17:24:05	12:22:49pm HR1927 On the Johnson (GA) amdt. (A008) RC 29 - vote pending. 
+HouseFloor	685511552875806721	2016-01-08T17:21:05	12:19:38pm HR1927 On the Waters, Maxine amdt. (A007) RC 28 - vote pending. 
+HouseFloor	685510543260676096	2016-01-08T17:17:04	12:15:43pm HR1927 On the Moore amdt. (A006) RC 27 - vote pending. 
+HouseFloor	685509542403244034	2016-01-08T17:13:05	12:11:36pm HR1927 On the Moore amdt. (A005) RC 26 - vote pending. 
+HouseFloor	685508531752185857	2016-01-08T17:09:04	12:08:10pm HR1927 On the Deutch amdt. (A004) RC 25 - vote pending. 
+HouseFloor	685507776416710657	2016-01-08T17:06:04	12:04:59pm HR1927 On the Conyers amdt. (A003) RC 24 - vote pending. 
+HouseFloor	685502497591570432	2016-01-08T16:45:06	11:43:06am HR1927 On the Cohen amdt. (A001) RC 23 - vote pending. 
+HouseFloor	685499726922444800	2016-01-08T16:34:05	11:28:31am HR1927 POSTPONED PROCEEDINGS - At the end of debate on the Jackson Lee amdt., the Chair put the question 
+HouseFloor	685496956832055297	2016-01-08T16:23:05	11:18:52am HR1927 DEBATE - Pursuant to HRes581, the Committee proceeded with 10 minutes on the Jackson Lee amdt. No. 9.
+HouseFloor	685494692834848768	2016-01-08T16:14:05	11:09:58am HR1927 DEBATE - Pursuant to HRes581, the Committee proceeded with 10 minutes on the Johnson (GA) amdt. No. 8.
+HouseFloor	685491669186248705	2016-01-08T16:02:04	11:00:12am HR1927 DEBATE - Pursuant to HRes581, the Committee proceeded with 10 minutes on the Waters, Maxine amdt. No. 7.
+HouseFloor	685489914549547008	2016-01-08T15:55:06	10:53:54am HR1927 DEBATE - Pursuant to HRes581, the Committee proceeded with 10 minutes on the Moore amdt. No. 6. 
+HouseFloor	685488660406472705	2016-01-08T15:50:07	10:48:20am HR1927 DEBATE - Pursuant to HRes581, the Committee proceeded with 10 minutes on the Moore amdt. No. 5. 
+HouseFloor	685486640387723266	2016-01-08T15:42:05	10:40:27am HR1927 DEBATE - Pursuant to HRes581, the Committee proceeded with 10 minutes on the Deutch amdt. No. 4. 
+HouseFloor	685484624718524416	2016-01-08T15:34:04	10:31:38am HR1927 DEBATE - Pursuant to HRes581, the Committee proceeded with 10 minutes on the Cohen amdt. No. 2. 
+HouseFloor	685482610722795520	2016-01-08T15:26:04	10:24:06am HR1927 DEBATE - Pursuant to HRes581, the Committee proceeded with 10 minutes on the Cohen amdt. No. 1. 
+HouseFloor	685468773516734464	2016-01-08T14:31:05	9:15:59am HR1927 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR1927. 
+HouseFloor	685465247952580608	2016-01-08T14:17:05	9:15:28am HR1927 The Speaker designated the Honorable Rodney Davis to act as Chairman of the Committee. 
+HouseFloor	685461725479604224	2016-01-08T14:03:05	9:02:05am - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches, which would be limited to 5 per side of the aisle.
+HouseFloor	685461226361597952	2016-01-08T14:01:06	9:00:17am - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	685272231405043712	2016-01-08T01:30:06	8:27:41pm - The House adjourned. Next meeting: 9:00 am on Jan 8, 2016. 
+HouseFloor	685232717349388289	2016-01-07T22:53:05	5:51:36pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	685227933552750592	2016-01-07T22:34:04	5:32:31pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	685226545779208192	2016-01-07T22:28:34	5:27:21pm HRes581 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	685224157555089408	2016-01-07T22:19:04	5:17:38pm HRes581 On the resolution RC 22 - vote pending. 
+HouseFloor	685222650986270721	2016-01-07T22:13:05	5:11:41pm HRes581 On ordering the previous question RC 21 - Yea and Nay vote pending. 
+HouseFloor	685222402142408705	2016-01-07T22:12:06	5:10:34pm HR1155 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	685220887046565888	2016-01-07T22:06:04	5:04:27pm HR1155 On passage RC 20 - vote pending. 
+HouseFloor	685218120756236288	2016-01-07T21:55:05	4:54:01pm HR1155 On motion to recommit with instructions RC 19 - vote pending. 
+HouseFloor	685217111254380544	2016-01-07T21:51:04	4:46:23pm HR1155 The previous question was ordered pursuant to the rule. 
+HouseFloor	685215098412072960	2016-01-07T21:43:04	4:42:00pm HR1155 On the Pocan amdt. (A010) RC 18 - vote pending. 
+HouseFloor	685214346113368065	2016-01-07T21:40:05	4:38:34pm HR1155 On the Cicilline amdt. (A009) RC 17 - vote pending. 
+HouseFloor	685213340319219712	2016-01-07T21:36:05	4:34:37pm HR1155 On the DelBene amdt. (A008) RC 16 - vote pending. 
+HouseFloor	685212333644316672	2016-01-07T21:32:05	4:31:23pm HR1155 On the Cicilline amdt. (A007) RC 15 - vote pending. 
+HouseFloor	685211575133847552	2016-01-07T21:29:04	4:27:48pm HR1155 On the Cummings amdt. (A006) RC 14 - vote pending. 
+HouseFloor	685210569427804161	2016-01-07T21:25:05	4:23:36pm HR1155 On the Johnson (GA) amdt. (A004) RC 13 - vote pending. 
+HouseFloor	685209818626416640	2016-01-07T21:22:06	4:21:08pm HR712 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	685208057861779459	2016-01-07T21:15:06	4:14:15pm HR712 On passage RC 12 - vote pending. 
+HouseFloor	685205789292773380	2016-01-07T21:06:05	4:04:26pm HR712 On motion to recommit with instructions RC 11 - vote pending. 
+HouseFloor	685202265808986113	2016-01-07T20:52:05	3:51:19pm HR712 On the Johnson (GA) amdt. (A006) RC 10 - vote pending. 
+HouseFloor	685201258580459520	2016-01-07T20:48:05	3:47:09pm HR712 On the Lynch amdt. (A004) RC 9 - vote pending. 
+HouseFloor	685200252102664192	2016-01-07T20:44:05	3:43:02pm HR712 On the Cummings amdt. (A003) RC 8 - vote pending. 
+HouseFloor	685191698230689792	2016-01-07T20:10:05	3:07:02pm HR712 On the Johnson (GA) amdt. (A002) RC 7 - vote pending. 
+HouseFloor	685191446647967744	2016-01-07T20:09:05	3:06:03pm HR712 On the Cummings amdt.; Failed by VV. 
+HouseFloor	685189933007527936	2016-01-07T20:03:04	3:01:25pm HR712 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the Cummings Part A amdt. No. 7.
+HouseFloor	685187925013860352	2016-01-07T19:55:06	2:53:24pm HR712 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the Johnson (GA) Part A amdt. No. 6.
+HouseFloor	685186411650269184	2016-01-07T19:49:05	2:47:44pm HR712 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the Foxx Part A amdt. No. 5.
+HouseFloor	685184397407088640	2016-01-07T19:41:05	2:39:50pm HR712 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the Lynch Part A amdt. No. 4.
+HouseFloor	685182891886800896	2016-01-07T19:35:06	2:33:42pm HR712 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the Cummings Part A amdt. No. 3.
+HouseFloor	685180622583771138	2016-01-07T19:26:05	2:24:44pm HR712 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the Johnson (GA) Part A amdt. No. 2.
+HouseFloor	685163512793042944	2016-01-07T18:18:05	1:17:01pm HR712 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR712. 
+HouseFloor	685163009589817344	2016-01-07T18:16:05	1:13:15pm HRes581 POSTPONED PROCEEDINGS - At the end of debate, the Chair put the question on ordering the previous 
+HouseFloor	685154451049562112	2016-01-07T17:42:05	12:41:15pm HRes581 DEBATE - 1 hour on HRes581. 
+HouseFloor	685144638190141440	2016-01-07T17:03:05	12:01:44pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches, which would be limited to 15 per side of the aisle.
+HouseFloor	685144384887734272	2016-01-07T17:02:05	12:01:23pm - PLEDGE OF ALLEGIANCE - The Chair designated Mr. Carter of GA to lead the Members in reciting the Pledge 
+HouseFloor	685144137247621120	2016-01-07T17:01:06	12:00:05pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	685132055999569920	2016-01-07T16:13:05	11:11:25am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	685114188012769280	2016-01-07T15:02:05	10:00:44am - MORNING-HOUR DEBATE - At the end, the House will recess until 12:00 pm for legislative business. 
+HouseFloor	684932991181828096	2016-01-07T03:02:05	10:00:35pm - The House adjourned. Next meeting: 10:00 am on Jan 7, 2016. 
+HouseFloor	684922168317210625	2016-01-07T02:19:04	9:17:33pm - SPECIAL ORDER SPEECHES - The House resumed Special Order speeches. 
+HouseFloor	684921416215621632	2016-01-07T02:16:05	9:14:47pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	684909085012144129	2016-01-07T01:27:05	8:26:18pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	684908580097638401	2016-01-07T01:25:05	8:23:38pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	684908329215328256	2016-01-07T01:24:05	8:22:45pm HR1155 Committee rises leaving HR1155 as unfinished business. 
+HouseFloor	684905056546754560	2016-01-07T01:11:05	8:08:09pm HR1155 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the Pocan Part B amdt. No. 10.
+HouseFloor	684902038036164608	2016-01-07T00:59:05	7:57:45pm HR1155 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the Cicilline Part B amdt. No. 9.
+HouseFloor	684900776804757505	2016-01-07T00:54:04	7:50:34pm HR1155 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the DelBene Part B amdt. No. 8.
+HouseFloor	684900275803533312	2016-01-07T00:52:05	7:50:30pm HR1155 Amdt. by Ms. DelBene. 
+HouseFloor	684899015335514112	2016-01-07T00:47:04	7:42:50pm HR1155 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the Cicilline Part B amdt. No. 7.
+HouseFloor	684896753485787137	2016-01-07T00:38:05	7:35:30pm HR1155 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the Cummings Part B amdt. No. 6.
+HouseFloor	684895492409573376	2016-01-07T00:33:04	7:30:06pm HR1155 DEBATE - Pursuant to HRes580, the Committee proceeded with 10-minutes on the Cummings Part B No. 5 amdt.
+HouseFloor	684892977110626306	2016-01-07T00:23:05	7:20:44pm HR1155 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the Johnson (GA) Part B amdt. No. 4.
+HouseFloor	684890708763914240	2016-01-07T00:14:04	7:11:42pm HR1155 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the Walberg Part B amdt. No. 3.
+HouseFloor	684888948888436737	2016-01-07T00:07:04	7:05:14pm HR1155 DEBATE - Pursuant to HRes580, the Committee proceeded with 10 minutes on the Schweikert Part B amdt. No. 2.
+HouseFloor	684872115112263681	2016-01-06T23:00:11	5:58:30pm HR1155 GENERAL DEBATE - The Committee proceeded with 1 hour of general debate on HR1155. 
+HouseFloor	684871346434764802	2016-01-06T22:57:07	5:55:34pm - Mr. Collins (GA) filed a report from the Committee on Rules on HRes581. 
+HouseFloor	684863532110884866	2016-01-06T22:26:04	5:24:24pm HR3762 On motion to concur in the Senate amdt. RC 6 - Yea and Nay vote pending. 
+HouseFloor	684842394697756672	2016-01-06T21:02:05	3:59:08pm HR3762 DEBATE - 1 hour on the Senate amdt. to HR3762. 
+HouseFloor	684841638133415936	2016-01-06T20:59:04	3:57:44pm HRes580 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	684839374283010048	2016-01-06T20:50:05	3:49:04pm HRes580 On the resolution RC 5 - vote pending. 
+HouseFloor	684837612595625984	2016-01-06T20:43:05	3:42:06pm HRes580 On ordering the previous question RC 4 - Yea and Nay vote pending. 
+HouseFloor	684837359968468996	2016-01-06T20:42:04	3:40:55pm HRes579 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	684835348984233984	2016-01-06T20:34:05	3:33:02pm HRes579 On the resolution RC 3 - vote pending. 
+HouseFloor	684827547096498176	2016-01-06T20:03:05	3:02:10pm HRes579 On ordering the previous question RC 2 - Yea and Nay vote pending. 
+HouseFloor	684809425996103680	2016-01-06T18:51:04	1:50:05pm HRes579 DEBATE - 1 hour on HRes579. 
+HouseFloor	684793824770658305	2016-01-06T17:49:05	12:48:32pm HRes580 DEBATE - 1 hour on HRes580. 
+HouseFloor	684782752927977472	2016-01-06T17:05:05	12:03:38pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 15 per side of the aisle.
+HouseFloor	684781996833435648	2016-01-06T17:02:05	12:00:58pm - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	684765889158328320	2016-01-06T15:58:04	10:56:49am - The House recessed. Next meeting: 12:00pm today. 
+HouseFloor	684752554874548224	2016-01-06T15:05:05	MORNING-HOUR DEBATE - At the end, the House will recess until 12 pm for legislative business. 
+HouseFloor	684751546907783173	2016-01-06T15:01:05	10:00:11am - The Speaker designated the Honorable Ryan A. Costello to act as Speaker pro tempore for today. 
+HouseFloor	684545944814247938	2016-01-06T01:24:06	8:23:17pm - The House adjourned. Next meeting: 10:00 am on Jan 6, 2016. 
+HouseFloor	684541919310032897	2016-01-06T01:08:06	8:06:59pm - SPECIAL ORDER SPEECHES - The House has resumed Special Order speeches. 
+HouseFloor	684531346581098496	2016-01-06T00:26:05	7:24:57pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	684527573980844032	2016-01-06T00:11:06	7:02:18pm - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches. 
+HouseFloor	684525561285357568	2016-01-06T00:03:06	7:00:39pm HRes578 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	684517754813198340	2016-01-05T23:32:05	6:30:25pm - Call of the House RC 1 - Quorum vote pending. 
+HouseFloor	684451570981957632	2016-01-05T19:09:05	2:03:35pm - The House recessed. Next meeting: 6:30pm today. 
+HouseFloor	684449560614322176	2016-01-05T19:01:06	2:00:17pm - The Speaker designated the Honorable Adrian Smith to act as Speaker pro tempore for today. 
+HouseFloor	684060494869692416	2016-01-04T17:15:05	12:04:01pm - The Speaker announced the House adjourn pursuant to secion 7(c) of HRes566. Next meeting: 2:00 pm on Jan 5, 2016.
+HouseFloor	684057474400411651	2016-01-04T17:03:05	12:02:18pm - PLEDGE OF ALLEGIANCE - The Chair led the House in reciting the Pledge of Allegiance to the Flag. 
+HouseFloor	684057224797392898	2016-01-04T17:02:06	12:01:13pm - Today's prayer was by Reverend Harvey Sparks, Temple Hills Baptist Church, Temple Hills, Maryland. 
+HouseFloor	679006183886331904	2015-12-21T18:31:04	The House adjourned. Next meeting: 4:00 pm on Tue, Dec 22, 2015, unless the House sooner receives a message from the 
+HouseFloor	678221058361696260	2015-12-19T14:31:15	Weekly Digest of the CongressionalRecord: 
+HouseFloor	677890612964757504	2015-12-18T16:38:11	11:34:53am - The House recessed. 
+HouseFloor	677882289531969538	2015-12-18T16:05:06	11:03:10am - SPECIAL ORDER SPEECHES - The House continued with Special Order speeches. 
+HouseFloor	677866932993945600	2015-12-18T15:04:05	10:02:53am - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	677866428544905219	2015-12-18T15:02:05	10:00:05am - SenateFloor message: The Senate passed HJRes76, S284, HR4246, S2261, and HR2576. Senate agreed to HConRes102.
+HouseFloor	677863911958319104	2015-12-18T14:52:05	9:50:46am HR2241 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	677851578892722176	2015-12-18T14:03:04	9:01:34am - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 5 per side of the aisle.
+HouseFloor	677607221006594049	2015-12-17T21:52:05	4:50:54pm - The House adjourned. Next meeting: 9:00 am on Dec 18, 2015. 
+HouseFloor	677576015095455744	2015-12-17T19:48:05	2:46:51pm - SPECIAL ORDER SPEECHES - The House has concluded all anticipated legislative business. 
+HouseFloor	677573748589993985	2015-12-17T19:39:05	2:37:21pm - ONE MINUTE SPEECHES - The House proceeded with further 1 minute speeches. 
+HouseFloor	677557895911899137	2015-12-17T18:36:05	1:22:48pm HR2029 
+HouseFloor	677554373258559488	2015-12-17T18:22:05	1:20:47pm - On approving the Journal Agreed to by vote: (RC 704). 
+HouseFloor	677550109199089669	2015-12-17T18:05:08	1:03:18pm - On approving the Journal RC 704 - vote pending. 
+HouseFloor	677520652308520960	2015-12-17T16:08:05	11:06:34am - SenateFloor message: The Senate passed S1616 and HR3831. 
+HouseFloor	677520395197632512	2015-12-17T16:07:04	11:06:18am HRes566 Motion to reconsider tabled Agreed to without objection. 
+HouseFloor	677518385303953408	2015-12-17T15:59:05	10:57:37am HRes566 On the resolution RC 702 - vote pending. 
+HouseFloor	677511088716570626	2015-12-17T15:30:05	10:28:58am HRes566 On ordering the previous question RC 701 - Yea and Nay vote pending. 
+HouseFloor	677493985057767424	2015-12-17T14:22:07	9:21:26am HRes566 DEBATE - 1 hour on HRes566. 
+HouseFloor	677492717073670144	2015-12-17T14:17:05	9:15:50am HRes566 Considered as privileged matter. HRes566 — "to consider the Senate amdt. to HR2029 making appr 
+HouseFloor	677489448351846400	2015-12-17T14:04:06	9:02:26am - ONE MINUTE SPEECHES - The House proceeded with 1 minute speeches which would be limited to 5 per side of the aisle.
+HouseFloor	677488946109095937	2015-12-17T14:02:06	9:00:19am - Today's prayer was by the House Chaplain, Rev. Patrick J. Conroy. 
+HouseFloor	677290132672806913	2015-12-17T00:52:05	7:37:15pm - The House adjourned. Next meeting: 9:00 am on Dec 17, 2015. 
+HouseFloor	677286359288164353	2015-12-17T00:37:06	7:36:07pm - Mr. Cole filed a report from the Committee on Rules on HRes566. 
+HouseFloor	677286106396819457	2015-12-17T00:36:05	7:34:43pm - The House convened, returning from a recess continuing the legislative day of Dec 16. 
+HouseFloor	677249365161975808	2015-12-16T22:10:05	5:08:54pm - The House recessed. 

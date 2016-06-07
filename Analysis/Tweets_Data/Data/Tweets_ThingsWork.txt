@@ -1,0 +1,90 @@
+ThingsWork	725772558319001600	2016-04-28T19:43:56	This is how an interactive ping pong table works 
+ThingsWork	725398171447222272	2016-04-27T18:56:15	This is how a Hexstat probability demonstrator works 
+ThingsWork	725034316137402368	2016-04-26T18:50:26	This is how a cobra drinks water 
+ThingsWork	724739763559747584	2016-04-25T23:19:59	This is how vending machines detect fake coins 
+ThingsWork	723988536265863169	2016-04-23T21:34:52	This is how intersections with autonomous driving work compared to traditional intersections 
+ThingsWork	723627202961530880	2016-04-22T21:39:04	This is how a McDonald's advertising photoshoot works 
+ThingsWork	722499069713772544	2016-04-19T18:56:16	This is the progress of how subways have been built in New York City 
+ThingsWork	721434960071159818	2016-04-16T20:27:52	This is how a Luger pistol works 
+ThingsWork	720667968082952196	2016-04-14T17:40:07	This is how traffic tunnels are dug 
+ThingsWork	719677485848391682	2016-04-12T00:04:18	This is how an octopus cleans itself 
+ThingsWork	719260782442246144	2016-04-10T20:28:28	This is how the aperture of your camera affects the depth of field 
+ThingsWork	718889063827271680	2016-04-09T19:51:23	This is how the Olympic vault has changed over time 
+ThingsWork	718518343511207936	2016-04-08T19:18:17	This is how a spider uses its silk to lift a shell to use as a home 
+ThingsWork	717780266325041152	2016-04-06T18:25:25	This is how a vinyl record moves across grooves (as seen under an electron microscope) 
+ThingsWork	717403601656811520	2016-04-05T17:28:42	This is how paperclips are made 
+ThingsWork	717048462571925504	2016-04-04T17:57:30	This is how tower cranes erect themselves 
+ThingsWork	716708043011055616	2016-04-03T19:24:47	This is how temperature control in your car works 
+ThingsWork	714867214776721409	2016-03-29T17:30:00	This is how a river changes over time 
+ThingsWork	713829689786306561	2016-03-26T20:47:15	This is how Holoportation (virtual 3D teleportation in real-time) works 
+ThingsWork	713435808825479169	2016-03-25T18:42:06	This is how baby octopi emerge from egg sacs 
+ThingsWork	713110494131961856	2016-03-24T21:09:25	This is how video stabilization works 
+ThingsWork	711663895879000064	2016-03-20T21:21:09	This is how lifting assist gear works 
+ThingsWork	711218681590710272	2016-03-19T15:52:02	This is how a male seahorse gives birth 
+ThingsWork	710852218514178048	2016-03-18T15:35:50	This is one option for how to quickly close a wound in the battlefield 
+ThingsWork	710486365251739648	2016-03-17T15:22:04	This is how speed onion chopping works 
+ThingsWork	710136365782999040	2016-03-16T16:11:17	This how the lima bean's defense system works 
+ThingsWork	709813140276572160	2016-03-15T18:46:54	This is how a roller coaster with VR works 
+ThingsWork	709496075552428032	2016-03-14T21:47:00	This is how different lenses affect portraits 
+ThingsWork	709187142476550144	2016-03-14T01:19:25	This is how to pick a lock with two bobby pins 
+ThingsWork	707319145650593797	2016-03-08T21:36:40	This is how an injured thumb grows out 
+ThingsWork	706951312412426240	2016-03-07T21:15:02	This is how studs are put up in a house 
+ThingsWork	706641895947014144	2016-03-07T00:45:31	This is how braces work 
+ThingsWork	705884196649078785	2016-03-04T22:34:41	This is how pneumatic tires work compared to airless tires 
+ThingsWork	704409891843268610	2016-02-29T20:56:20	This is how a wearable camera drone works 
+ThingsWork	703027583206629376	2016-02-26T01:23:32	This is how Amazon Fulfillment works 
+ThingsWork	701585696730062850	2016-02-22T01:53:59	This is how a knuckeball works. Spin and stitching create differences in air pressure, causing random movements 
+ThingsWork	700486184951267328	2016-02-19T01:04:55	This is how Brown Snake venom affects human blood 
+ThingsWork	700133349856305152	2016-02-18T01:42:53	This is how the Stormtrooper helmet evolved 
+ThingsWork	699675850560684032	2016-02-16T19:24:56	This is how your iris wiggles 
+ThingsWork	699308820065980416	2016-02-15T19:06:29	This is how cockroaches move 
+ThingsWork	698981924480622593	2016-02-14T21:27:31	This is how a female to male facial transition works 
+ThingsWork	698624212177707008	2016-02-13T21:46:06	This is how ice cream cones are filled and packaged 
+ThingsWork	697578732500942850	2016-02-11T00:31:44	This is how components are soldered to a circuit board 
+ThingsWork	697132140417458176	2016-02-09T18:57:09	This is how snakes climb trees 
+ThingsWork	696795981350891520	2016-02-08T20:41:22	This is how the new VICIS helmet works compared to the traditional football helmet 
+ThingsWork	695694783734542336	2016-02-05T19:45:36	This is how different surfaces affect blood spatter 
+ThingsWork	694595495507943424	2016-02-02T18:57:25	This is how hay bales are wrapped 
+ThingsWork	694276478209404928	2016-02-01T21:49:46	This is how a no-scalpel vasectomy works 
+ThingsWork	692785868973707264	2016-01-28T19:06:37	This is how a self-refilling water bottle works 
+ThingsWork	692481737755103233	2016-01-27T22:58:06	This is how a blood clot in the brain is removed using a catheter 
+ThingsWork	691711622663049217	2016-01-25T19:57:56	This is how birds migrate 
+ThingsWork	691356311645061120	2016-01-24T20:26:04	This is how VFX were used in Star Wars: The Force Awakens 
+ThingsWork	690284398474752000	2016-01-21T21:26:40	This is how auroras are formed 
+ThingsWork	689917549430063104	2016-01-20T21:08:56	This is how hermit crabs line up to change shells 
+ThingsWork	689561389246103553	2016-01-19T21:33:41	This is how spheres of molten glass are placed atop pins 
+ThingsWork	689181528102948864	2016-01-18T20:24:15	This is how Jupiter 'shepherds' the asteroid belt, preventing asteroids from falling into the sun or hitting planets 
+ThingsWork	688887983915798529	2016-01-18T00:57:48	This is the proper distance between the moon and Earth 
+ThingsWork	687761765581623297	2016-01-14T22:22:37	This is how logs are unloaded from a ship 
+ThingsWork	687361088644595712	2016-01-13T19:50:28	This is how to seal a bag of chips without a clip 
+ThingsWork	685562454768746496	2016-01-08T20:43:21	This is how a rice planting machine works 
+ThingsWork	685214663190167552	2016-01-07T21:41:21	This is how Russia clears its roads of snow and ice 
+ThingsWork	684921356429856768	2016-01-07T02:15:51	This is how to make your own Nutella 
+ThingsWork	683762115430236160	2016-01-03T21:29:26	This is how Twizzlers are made 
+ThingsWork	683375310398701568	2016-01-02T19:52:25	This is how beer is canned 
+ThingsWork	682336051684216832	2015-12-30T23:02:46	This is how crowd control at a comic book convention in Japan works 
+ThingsWork	682263017808117761	2015-12-30T18:12:33	This is how the length of a cruise ship is extended 
+ThingsWork	681925467067301888	2015-12-29T19:51:15	This is how walruses sleep while floating 
+ThingsWork	681566907762368512	2015-12-28T20:06:28	This is how to do 48 different exercises 
+ThingsWork	680875033619787777	2015-12-26T22:17:12	This is how a wind turbine is put up 
+ThingsWork	680124463359389702	2015-12-24T20:34:42	This is how the stars were rearranged on the U.S. flag as more states joined the Union 
+ThingsWork	679388257625505793	2015-12-22T19:49:17	This is how BB-8 works 
+ThingsWork	679063894237822976	2015-12-21T22:20:23	This is a comparison between winter and summer solstices 
+ThingsWork	677637433912107012	2015-12-17T23:52:08	This is how how metallic coral is made 
+ThingsWork	677300369156874240	2015-12-17T01:32:46	This is how an octopus carries around a coconut for portable protection 
+ThingsWork	676873403060588544	2015-12-15T21:16:09	This is how Nerf guns always fire whichever barrel is loaded 
+ThingsWork	676522556153847812	2015-12-14T22:02:01	This is the effect of confinement on a turbidity current 
+ThingsWork	676184712965169152	2015-12-13T23:39:33	This is how Tokyo police use drones to hunt down illegally-flying drones 
+ThingsWork	674725899028271105	2015-12-09T23:02:44	This is how scientists collect spider silk 
+ThingsWork	674325339485700096	2015-12-08T20:31:03	This is how thrust vectoring on an F-35 allows for vertical take-off and landing 
+ThingsWork	672152986752319489	2015-12-02T20:38:54	This is how snakes move between walls of different widths 
+ThingsWork	671794082251972608	2015-12-01T20:52:45	This is how a high-speed bacon slicer works 
+ThingsWork	670710535026049024	2015-11-28T21:07:07	This is the traditional method for making lead sheet 
+ThingsWork	670072445173407744	2015-11-27T02:51:34	This is the history of Earth in a 24 hour clock 
+ThingsWork	668960235625840641	2015-11-24T01:12:03	This is how your food goes down the esophagus to your stomach instead of trachea (windpipe) thanks to the epiglottis 
+ThingsWork	668187366826369025	2015-11-21T22:00:57	This is why your phone camera takes weird photos of spinning propellers 
+ThingsWork	667820527998754816	2015-11-20T21:43:16	This is how an industrial egg separator works 
+ThingsWork	667439911692337153	2015-11-19T20:30:50	This is how an early prototype of self-stabilizing technology for Parkinson's works 
+ThingsWork	666743681987276801	2015-11-17T22:24:15	This is how a drill bit works 
+ThingsWork	666344260678086656	2015-11-16T19:57:06	This is how a blood clot is removed from inside an arteriole with vacuum extraction 
+ThingsWork	666083614229184517	2015-11-16T02:41:23	This is how a pool is built 

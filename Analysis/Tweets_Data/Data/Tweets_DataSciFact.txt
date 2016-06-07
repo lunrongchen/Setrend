@@ -1,0 +1,240 @@
+DataSciFact	726112744504741889	2016-04-29T18:15:43	Gauss published a statistical justification for least squares in 1809.
+DataSciFact	725866486514864129	2016-04-29T01:57:10	1: The amount of data is growing exponentially 2: The amount of clean data isn't growing
+DataSciFact	725750357310214148	2016-04-28T18:15:43	All models are wrong. Some models are useful. -- George Box
+DataSciFact	725721378821910528	2016-04-28T16:20:34	"A statistical analysis, properly conducted, is a delicate dissection of uncertainties, a surgery of suppositions." -- M. J. Moroney
+DataSciFact	725494211420819456	2016-04-28T01:17:53	Reversing the legacy of junk science in the courtroom 
+DataSciFact	725406862334644225	2016-04-27T19:30:48	Sometimes life's easy. The result you're looking for says "Oooh! Oooh! Pick me!!" 
+DataSciFact	725387970371575809	2016-04-27T18:15:43	Periodic table of visualization methods 
+DataSciFact	725357809118904320	2016-04-27T16:15:52	"The best thing about being a statistician is that you get to play in everyone's backyard." -- John Tukey
+DataSciFact	725025579968372736	2016-04-26T18:15:43	The coefficient of variation is the ratio of standard deviation to the mean.
+DataSciFact	724989794099580928	2016-04-26T15:53:31	A different approach to low-rank matrix completion  
+DataSciFact	724982733139763200	2016-04-26T15:25:27	When statisticians say something is random, they usually mean it is MODELED AS random. 
+DataSciFact	724663188512509952	2016-04-25T18:15:42	'It is easy to lie with statistics; it is easier to lie without them.' -- Frederick Mosteller
+DataSciFact	724382602933747712	2016-04-24T23:40:45	How big data creates false confidence 
+DataSciFact	723576024492072961	2016-04-22T18:15:42	The word 'statistics' comes from 'state' because first applications were for governments.
+DataSciFact	723544152571412481	2016-04-22T16:09:03	Microsoft R Open 3.2.4 now available for download on Windows, Mac and Linux  rstats 
+DataSciFact	723213660072607744	2016-04-21T18:15:47	Absence of evidence 
+DataSciFact	722878180206501888	2016-04-20T20:02:43	Cancer research is broken 
+DataSciFact	722851268553797632	2016-04-20T18:15:47	Unjustified assumptions of independence are the root of statistical evil.
+DataSciFact	722787036999102465	2016-04-20T14:00:33	How to produce a function from a curve given only by a plot 
+DataSciFact	722536399392661505	2016-04-19T21:24:36	Hot off the press! 
+DataSciFact	722488866196865024	2016-04-19T18:15:43	'BLUE' stands for best linear unbiased estimator, 'best' in the sense of mean squared error.
+DataSciFact	722428490079936512	2016-04-19T14:15:48	Applied linear regression  
+DataSciFact	722158467079913473	2016-04-18T20:22:50	Radegund Thanks!
+DataSciFact	722154057276768257	2016-04-18T20:05:18	Linear at what level? Random at what level? 
+DataSciFact	722126477060345856	2016-04-18T18:15:43	Bayes factors vs p-values 
+DataSciFact	721039318156972032	2016-04-15T18:15:44	The multiple imputation FAQ page 
+DataSciFact	720676938361257984	2016-04-14T18:15:46	A reference prior maximizes the expected Kullback-Leibler divergence of the posterior distribution relative to the prior.
+DataSciFact	720643061483773952	2016-04-14T16:01:09	Every shot KobeBryant ever took. All 30,699 of them. NBA dataviz  
+DataSciFact	720639139767545858	2016-04-14T15:45:34	.DataSciFact is brought to you by  
+DataSciFact	720314545361674240	2016-04-13T18:15:45	An ordinary least-squares regression line passes through the point (mean x, mean y).
+DataSciFact	719952167558332417	2016-04-12T18:15:47	'A engineer, a chemist, and a statistician are working in a lab when a fire beaks out in a wastebasket. ...' 
+DataSciFact	719919465161453568	2016-04-12T16:05:50	"Statistics is the art of stating in precise terms that which one does not know." -- William Kruskal
+DataSciFact	719589773334155264	2016-04-11T18:15:45	k-nearest neighbors algorithm 
+DataSciFact	718502620546117632	2016-04-08T18:15:48	Education studies are hardly ever replicated 
+DataSciFact	718140229446680576	2016-04-07T18:15:47	Bayes factors were introduced independently by Alan Turing and Harold Jeffreys.
+DataSciFact	718125367534469120	2016-04-07T17:16:44	How the Average Triumphed Over the Median 
+DataSciFact	718100674664206336	2016-04-07T15:38:37	If John Snow wrote a grant application to study cholera: 
+DataSciFact	718059620888141826	2016-04-07T12:55:29	Looking at data from the Masters Tournament 
+DataSciFact	718033605159739392	2016-04-07T11:12:06	Ask a million people when they were born and /someone/ will say "Raiders of the Lost Ark." 
+DataSciFact	717908437678604289	2016-04-07T02:54:44	"A significant percentage of the world'd data will be processed through Arrow." -- wesmckinn 
+DataSciFact	717843416336449536	2016-04-06T22:36:21	Weird things show up in big data sets.
+DataSciFact	717777857313943552	2016-04-06T18:15:51	Subject to mild regularity assumptions, maximum likelihood estimators are asymptotically efficient.
+DataSciFact	717766687110598656	2016-04-06T17:31:28	Bayesian update with a multivariate normal distribution 
+DataSciFact	717415428889452546	2016-04-05T18:15:41	Professionals should be candid about the limits of their profession.
+DataSciFact	717087044036640768	2016-04-04T20:30:48	I've got 47,000 scores on the Bubble Quiz, courtesy of NewsHour &amp; paulsolman. Here's my first dip into them: 
+DataSciFact	717053044328898560	2016-04-04T18:15:42	Boosting 
+DataSciFact	646563890235486208	2015-09-23T05:56:58	What the astrologers forget is that constellation does not imply causation.
+DataSciFact	716311734546538496	2016-04-02T17:10:00	"The word statistics has at least 6 different meanings in current use, 4 in the context of statistical theory alone." -- Lancelot Hogben
+DataSciFact	715965883521363973	2016-04-01T18:15:43	Gauss-Markov: Ordinary least squares gives best linear unbiased estimator. Does not require normal errors. 
+DataSciFact	715603518149799936	2016-03-31T18:15:48	'Data isn’t fissile material. It doesn’t spontaneously reach critical mass and start producing insights.' -- Marko Karppinen
+DataSciFact	715549614427009024	2016-03-31T14:41:37	Gresham’s Law of experimental methods  
+DataSciFact	715528462409330688	2016-03-31T13:17:33	Guess the correlation: Addictive 8-Bit Statistics Game 
+DataSciFact	715247881557524480	2016-03-30T18:42:38	Utility functions are contentious so we agree on a mediocre implicit utility rather than pick a better explicit one. 
+DataSciFact	714910564250570753	2016-03-29T20:22:15	Super excited that my secret collaboration with wesmckinn is now public:  rstats
+DataSciFact	714878738085896192	2016-03-29T18:15:47	Nine great stats papers published after 1970  chosen by Rob Tibshirani
+DataSciFact	714516328212742144	2016-03-28T18:15:42	The Wilcoxon Rank Sum Test can have greater asymptotic relative efficiency than the t-test for heavy-tailed distributions.
+DataSciFact	714440889540718592	2016-03-28T13:15:56	A data scientist is someone who isn't quite sure what data science is but has strong opinions that other definitions are not quite right
+DataSciFact	713718488402161664	2016-03-26T13:25:22	Burn-in is unnecessary 
+DataSciFact	713429197113462786	2016-03-25T18:15:50	No amount of data can persuade you of something you assign zero prior probability to. -- Cromwell's rule
+DataSciFact	713066879435292672	2016-03-24T18:16:06	Omitted-variable bias 
+DataSciFact	707241017162858497	2016-03-08T16:26:13	Here is what I use to visualize data 99% of the time 
+DataSciFact	712704414327377920	2016-03-23T18:15:48	'False beliefs can now be generated at a much faster rate, so some progress is being made.' -- mattstat 
+DataSciFact	712678376209784833	2016-03-23T16:32:20	Coefficient of variation = standard deviation / mean
+DataSciFact	712650189287329792	2016-03-23T14:40:20	Introducing R Tools for Visual Studio 
+DataSciFact	712635276405907456	2016-03-23T13:41:04	A Collection of Invalid Correlation Matrices  by nhigham
+DataSciFact	712342029058052101	2016-03-22T18:15:49	You can learn things from a dozen human subjects you couldn't learn from a million mice. Data relevance beats data size.
+DataSciFact	711979649090375680	2016-03-21T18:15:50	R. A. Fisher was the first to use the term 'Bayesian,' and he didn't mean it as a compliment.
+DataSciFact	711555500899487746	2016-03-20T14:10:26	 Three things I wish I knew Earlier about Machine Learning datascience
+DataSciFact	710892480812687360	2016-03-18T18:15:49	Three reasons a method might perform worse with more data, and how to fix them. 
+DataSciFact	710844517239361537	2016-03-18T15:05:14	Stan case studies 
+DataSciFact	710530086160699392	2016-03-17T18:15:48	Beer, wine, and statistics 
+DataSciFact	710167708101419008	2016-03-16T18:15:50	How to test a random number generator 
+DataSciFact	709805298916139008	2016-03-15T18:15:45	For network analysis, check out NetworkFact.
+DataSciFact	709502987098562560	2016-03-14T22:14:28	Profile in Computational Imagination: Jonah Gabry 
+DataSciFact	709442913936269312	2016-03-14T18:15:46	Markov chains don't converge 
+DataSciFact	485512262631698433	2014-07-05T19:55:18	Mean or median? 
+DataSciFact	708370848827228160	2016-03-11T19:15:45	Estimating the chances of something that hasn't happened yet 
+DataSciFact	708008481400496128	2016-03-10T19:15:50	Stem and leaf diagram 
+DataSciFact	707962407080083457	2016-03-10T16:12:45	Good statistical advice that can be misleading 
+DataSciFact	707929949928361984	2016-03-10T14:03:47	Announcing R Tools for Visual Studio  
+DataSciFact	707646160069136385	2016-03-09T19:16:06	Edward Tufte-style presentations in CSS , LaTeX 
+DataSciFact	707585583875530752	2016-03-09T15:15:24	Frequentist properties of Bayesian designs 
+DataSciFact	707283777949556737	2016-03-08T19:16:08	Visualization can surprise you, but it doesn’t scale well. Modeling scales well, but it can’t surprise you.   
+DataSciFact	707208285049511936	2016-03-08T14:16:09	Exporting an R data frame to a .csv file 
+DataSciFact	707201944188620802	2016-03-08T13:50:57	"If all else fails, use 'significant at a p&gt;0.05 level' and hope no one notices."   
+DataSciFact	707027042810929153	2016-03-08T02:15:57	"The weight of evidence for an extraordinary claim must be proportioned to its strangeness." -- Laplace
+DataSciFact	706951672334061569	2016-03-07T21:16:27	Statisticians found one thing they can agree on: It’s time to stop misusing p-values 
+DataSciFact	706951128076918785	2016-03-07T21:14:18	In statistics, one rule did we cherish: P point oh five we publish, else perish!  Roderick Little
+DataSciFact	706921370891001857	2016-03-07T19:16:03	The Bayes estimator with minimum quadratic loss for a parameter is the posterior mean of that parameter.
+DataSciFact	706880063719997441	2016-03-07T16:31:55	Milestone in applying data science to public health:   1854 Broad Street cholera outbreak  
+DataSciFact	706575162523709441	2016-03-06T20:20:20	People may not be persuaded by overwhelming data.  Mike Rowe podcast Episode 4:   Ignaz Semmelweis
+DataSciFact	706165389500100609	2016-03-05T17:12:03	The problems with NHST are largely the problems of applying any technique that makes strong assumptions that end users can't verify.
+DataSciFact	705834199866068992	2016-03-04T19:16:01	Comparing robust statistical methods and cell phone coverage 
+DataSciFact	705551571887767552	2016-03-04T00:32:57	iconjack My real supper was beef and salad actually, but it wasn't a rib eye.  And my salad was better than the one in the photo. :)
+DataSciFact	705545947296763904	2016-03-04T00:10:36	The continuum between anecdote and data  
+DataSciFact	705471800856219653	2016-03-03T19:15:59	The interplay of Bayesian and Frequentist analysis 
+DataSciFact	705109415939198977	2016-03-02T19:15:59	'Choice of an appropriate family of distributions may be the most challenging phase of analysis.' -- David Cox
+DataSciFact	704747086982598658	2016-03-01T19:16:13	Bioinformatics Q &amp; A site 
+DataSciFact	704384634105286656	2016-02-29T19:15:58	Something like a random sequence but ...  
+DataSciFact	704351598559043590	2016-02-29T17:04:41	More Twitter accounts like DataSciFact  
+DataSciFact	703297476229464065	2016-02-26T19:15:59	Kleinberg's theorem: There are no clustering algorithms that satisfy scale invariance, richness, and consistency. 
+DataSciFact	703247719217958912	2016-02-26T15:58:16	Sea level, the moon, and Frankenstein  
+DataSciFact	700904316714876928	2016-02-20T04:46:25	This is your spreadsheet. This is your spreadsheet on XML. rstats 
+DataSciFact	703019854937329664	2016-02-26T00:52:49	Clients "throw their toys out of the pram" when you tell them their data can't answer their question. -- Gary Short on dotnetrocks
+DataSciFact	703011679450357761	2016-02-26T00:20:20	A Variant on “Statistically Controlling for Confounding Constructs is Harder than you Think”  by johnmyleswhite
+DataSciFact	702935116503506944	2016-02-25T19:16:06	Laws of large numbers and small numbers 
+DataSciFact	702857555526213633	2016-02-25T14:07:54	"There are more things in heaven and earth, Horatio, than are dreamt of in your statistical model." -- Shakespeare
+DataSciFact	702596741166714882	2016-02-24T20:51:31	Please RT spread more widely "Statistician: one who refuses to butter up the facts but instead makes allowance for the margarine of error"
+DataSciFact	702583538089119744	2016-02-24T19:59:03	"Let's change your actual problem into one I could get a publication out of."
+DataSciFact	702572698560569344	2016-02-24T19:15:59	Information geometry 
+DataSciFact	702550683820535808	2016-02-24T17:48:30	"To most social scientists, observed variables are essentially just standins for theoretical constructs of interest" 
+DataSciFact	702330813120126976	2016-02-24T03:14:49	If your numbers are boring,get some interesting numbers. If you get some interesting numbers,you may learn something interesting analytics
+DataSciFact	702210351794880513	2016-02-23T19:16:08	Big data makes it more important than ever to understand the difference between statistical significance and practical significance.
+DataSciFact	702178961477005312	2016-02-23T17:11:24	 
+DataSciFact	701869495854481408	2016-02-22T20:41:42	Statistics of bebop improvisation  [pdf]
+DataSciFact	701847946661392387	2016-02-22T19:16:04	Acupuncture and confirmation bias 
+DataSciFact	701456882142044160	2016-02-21T17:22:07	Colorspace is an awesome R package for interactively creating color palettes. Includes colorblind filter option too. 
+DataSciFact	701039339556511744	2016-02-20T13:42:57	The "average person" is a reification with 1.5 X chromosomes and 0.5 Y chromosomes.
+DataSciFact	700760796196950017	2016-02-19T19:16:07	John Tukey's ladder of transformations for linearizing data 
+DataSciFact	700398402677436416	2016-02-18T19:16:06	The Law of Medium Numbers 
+DataSciFact	700341670957731840	2016-02-18T15:30:40	Non-tidy data 
+DataSciFact	700070328651882496	2016-02-17T21:32:27	MathsmumRose Unfortunately I don't know where it came from. Certainly not my creation, though I wish it were.
+DataSciFact	700035979936034817	2016-02-17T19:15:58	Reference comparing R, Python, and MATLAB syntax 
+DataSciFact	700002266590261249	2016-02-17T17:02:00	New post: "Python and Hadoop: A State of the Union" 
+DataSciFact	699673608306737152	2016-02-16T19:16:02	'A Bayesian is one who, vaguely expecting a horse, and catching a glimpse of a donkey, strongly believes he has seen a mule.'
+DataSciFact	699558126463356928	2016-02-16T11:37:09	Selection bias: Nobody wants to interview you about your bold start-up idea that failed, except possibly as a prelude to a success story.
+DataSciFact	699431799513079808	2016-02-16T03:15:10	The recent black hole LIGO experiment used PyStan 
+DataSciFact	699311204863492101	2016-02-15T19:15:58	What does it mean to call noise white, pink, gray, etc? 
+DataSciFact	698534841390919680	2016-02-13T15:50:58	New post: Bayesian and nonlinear 
+DataSciFact	698506052141187072	2016-02-13T13:56:35	You could start a Markov chain in a high probability region. Then it has "burned in" immediately.
+DataSciFact	698505746271629313	2016-02-13T13:55:22	What people mean when they say a chain has burned in, whether they understand it or not, is that it has entered a high probability region.
+DataSciFact	698505492059045888	2016-02-13T13:54:21	A Markov chain is memoryless. It doesn't know how it got where it is. So saying a Markov chain has "burned in" doesn't make sense.
+DataSciFact	698224063462957057	2016-02-12T19:16:03	If lambda(x) is a LRT statistic for a point-null hypothesis, asymptotically -2 log(lambda) has a chi-square(1) distribution.
+DataSciFact	697830268095356928	2016-02-11T17:11:15	That knowledge which stops at what it does not know, is the highest knowledge. -- Chuang Tzu, 4th c. B.C.
+DataSciFact	697744417520799744	2016-02-11T11:30:07	Watch "Experts Share: Trends and Opportunities in Data Analysis (jabawack JohnDCook)"  datascience bigdata
+DataSciFact	697615866444324868	2016-02-11T02:59:18	Data handcuffs | Simply Statistics 
+DataSciFact	697499304345387008	2016-02-10T19:16:07	Avoiding underflow in Bayesian computations 
+DataSciFact	696982956208955392	2016-02-09T09:04:20	Building blocks of data science | DataScience Twitter RT  
+DataSciFact	697144584716029954	2016-02-09T19:46:35	The standard answer Life scientist: how big should my sample be? Statistician: much bigger than you can afford or manage.
+DataSciFact	697136897357967361	2016-02-09T19:16:03	'The only use I know for a confidence interval is to have confidence in it.' -- L. J. Savage
+DataSciFact	696900691470774272	2016-02-09T03:37:27	When U.S. air force discovered the flaw of averages 
+DataSciFact	696774491591086080	2016-02-08T19:15:58	Very fast reservoir sampling 
+DataSciFact	696302542389690372	2016-02-07T12:00:37	Data on Comic Books: The colours of all covers of The Avengers from 1963 until this year  
+DataSciFact	695255436476424192	2016-02-04T14:39:47	Is it cheating to truncate the Y-axis in a graph? 
+DataSciFact	696391025724620800	2016-02-07T17:52:13	New Tutorial: Exploratory Data Analysis &amp; interactive figures with Plotly  DataVisualisation 
+DataSciFact	696020739741368321	2016-02-06T17:20:50	Unbiased estimators based on complete sufficient statistics are unique. -- Lehmahn-Scheffé theorem
+DataSciFact	695687363666841600	2016-02-05T19:16:07	C. S. Lewis on modeling 
+DataSciFact	695324975037857793	2016-02-04T19:16:07	'The language of science is the language of probability, and not of p-values.' -- Luis Pericchi
+DataSciFact	694962597188263937	2016-02-03T19:16:09	An ordinary least-squares regression line passes through the point with average x and average y value.
+DataSciFact	694854636159787008	2016-02-03T12:07:09	Why Python  python bigdata datascience machinelearning 
+DataSciFact	694600218411732993	2016-02-02T19:16:11	'A engineer, a chemist, and a statistician are working in a lab when a fire beaks out in a wastebasket. ...' 
+DataSciFact	694585366821654528	2016-02-02T18:17:10	Two examples of randomization done poorly  
+DataSciFact	694448887398989825	2016-02-02T09:14:51	Why you should always use natural logs. /c JohnDCook 
+DataSciFact	694307015687049219	2016-02-01T23:51:06	Translating Weird R Errors 
+DataSciFact	694238003561127938	2016-02-01T19:16:53	A quantile-quantile plot is commonly used as a quick way to check to tell whether data appear to be normally distributed.
+DataSciFact	694189490013913088	2016-02-01T16:04:06	Reproducible randomized controlled trials  
+DataSciFact	693150626725904384	2016-01-29T19:16:02	Education studies are hardly ever replicated 
+DataSciFact	693111648819765248	2016-01-29T16:41:09	Time series data library  by robjhyndman
+DataSciFact	692788258024071169	2016-01-28T19:16:06	Bayes factors were introduced independently by Alan Turing and Harold Jeffreys.
+DataSciFact	692739666303455232	2016-01-28T16:03:01	Ready to learn R? BasiaFusinska teaches us on DotNetRocks at  about statistical programming!
+DataSciFact	692538717538553856	2016-01-28T02:44:31	"It is easy to lie with statistics; it is easier to lie without them." -- Frederick Mosteller
+DataSciFact	692425866714947585	2016-01-27T19:16:05	Subject to mild regularity assumptions, maximum likelihood estimators are asymptotically efficient.
+DataSciFact	692063508226260992	2016-01-26T19:16:12	Boosting 
+DataSciFact	691933793494646784	2016-01-26T10:40:46	And Microsoft also releases a Deep Learning library 
+DataSciFact	691701084260319232	2016-01-25T19:16:04	Gauss-Markov: Ordinary least squares gives best linear unbiased estimator. Does not require normal errors. 
+DataSciFact	691371879689523200	2016-01-24T21:27:55	Walking doesn't reduce throughput.  Leaving a lane open for walkers reduces throughput. 
+DataSciFact	691371573501136896	2016-01-24T21:26:42	Escalators can move more people per unit time if everyone stands. 
+DataSciFact	691183998312267776	2016-01-24T09:01:21	Generalization are, by nature, only generally true, one exception doesn't falsify them. Never argue with people who don't understand this.
+DataSciFact	690613959309787140	2016-01-22T19:16:13	'Data isn’t fissile material. It doesn’t spontaneously reach critical mass and start producing insights.' -- Marko Karppinen
+DataSciFact	690593548295610369	2016-01-22T17:55:07	Why big data needs thick data 
+DataSciFact	690548628956561409	2016-01-22T14:56:37	What is the problem around 'obvious extensions'? Surely better to do it than not? 
+DataSciFact	690540601675218944	2016-01-22T14:24:43	Naive Bayes is called "naive" because it assumes things are independent that definitely are not. And in the right setting works well anyway.
+DataSciFact	690245940301533184	2016-01-21T18:53:50	Visualizing K-Means equilibria 
+DataSciFact	690241753237065728	2016-01-21T18:37:12	Parallel BLAS in R   by rdpeng on simplystats
+DataSciFact	690223010448441344	2016-01-21T17:22:44	Compressed representations in the age of big data: intelligent mobile apps &amp; ApacheSpark  
+DataSciFact	690215043502317568	2016-01-21T16:51:04	
+DataSciFact	689917872831856641	2016-01-20T21:10:13	Data Science at Home 
+DataSciFact	689889195087761408	2016-01-20T19:16:16	Nine great stats papers published after 1970  chosen by Rob Tibshirani
+DataSciFact	689526778432471041	2016-01-19T19:16:09	The Wilcoxon Rank Sum Test can have greater asymptotic relative efficiency than the t-test for heavy-tailed distributions.
+DataSciFact	689164409730650112	2016-01-18T19:16:13	Omitted-variable bias 
+DataSciFact	688796679475171328	2016-01-17T18:55:00	Feature Reduction using SVD 
+DataSciFact	688450752344363008	2016-01-16T20:00:24	R coming to Visual Studio  rstats
+DataSciFact	688430627864100864	2016-01-16T18:40:26	A 'Brief' History of Neural Nets and Deep Learning, Part 1 
+DataSciFact	688077196779466752	2016-01-15T19:16:02	'False beliefs can now be generated at a much faster rate, so some progress is being made.' -- mattstat 
+DataSciFact	687001263569960960	2016-01-12T20:00:39	The big deal about Bayes' Theorem; superbly explained by Horganism:  DSIprof StatModeling 
+DataSciFact	687992630005903360	2016-01-15T13:39:59	Learning to Hash for Indexing Big Data — A Survey 
+DataSciFact	687714798306488321	2016-01-14T19:15:59	You can learn things from a dozen human subjects you couldn't learn from a million mice. Data relevance beats data size.
+DataSciFact	687299748475215872	2016-01-13T15:46:44	Learn about joins and relational data at . Feedback welcomed! rstats 
+DataSciFact	687299786593140737	2016-01-13T15:46:53	Microsoft R server 
+DataSciFact	687290700065550336	2016-01-13T15:10:46	Stan 2.9 is Here! 
+DataSciFact	687064273491771392	2016-01-13T00:11:02	Interviews with daya scientists   by springcoil Proceeds go to NUMFOCUS.
+DataSciFact	686990034025738241	2016-01-12T19:16:02	R. A. Fisher was the first to use the term 'Bayesian,' and he didn't mean it as a compliment.
+DataSciFact	686959942063001600	2016-01-12T17:16:27	What does it mean to call noise white, pink, gray, etc? 
+DataSciFact	686750321016623104	2016-01-12T03:23:30	I'm tempted to start reporting theorems with p-values. "We reject the null that there are finitely many primes (p &lt;= 0)."
+DataSciFact	686627636869730304	2016-01-11T19:16:00	Three reasons a method might perform worse with more data, and how to fix them. 
+DataSciFact	686584329997299714	2016-01-11T16:23:55	Rated R: Recommended Reading 
+DataSciFact	682193091072253952	2015-12-30T13:34:42	Why are beavers good at robust statistics?   Fat tails.
+DataSciFact	685540496664588288	2016-01-08T19:16:05	Beer, wine, and statistics 
+DataSciFact	685507656535158784	2016-01-08T17:05:36	Automatic Colorization 
+DataSciFact	685178144937144320	2016-01-07T19:16:14	How to test a random number generator 
+DataSciFact	685130453456666626	2016-01-07T16:06:43	Big p, Little n 
+DataSciFact	684825659273773058	2016-01-06T19:55:35	A little statistics is a dangerous thing; Drink deep, or taste not the Pierian spring.  -- Alexander Pope
+DataSciFact	684815698296700929	2016-01-06T19:16:00	For network analysis, check out NetworkFact.
+DataSciFact	684795768423739392	2016-01-06T17:56:48	Mixing R and Haskell 
+DataSciFact	684431752941715456	2016-01-05T17:50:20	When you have eliminated the impossible, whatever remains, however unlikely, is probably an artifact of an incomplete hypothesis space
+DataSciFact	684779215560953856	2016-01-06T16:51:02	Recurrent neural nets create fake Chinese characters with TensorFlow  
+DataSciFact	684766349097209856	2016-01-06T15:59:54	purrr 0.2.0 is now out: . Post also discusses why you should avoid sapply() in package &amp; production code rstats
+DataSciFact	684453297260998657	2016-01-05T19:15:57	An argument over whether a long tail follows a power law or a lognormal distribution is likely pointless.
+DataSciFact	683995096824561664	2016-01-04T12:55:13	This is a pleasingly positive development: FDA opens up more data for downloading  alltrials
+DataSciFact	684069542079799296	2016-01-04T17:51:02	Suck at rstats, Perl, C++, make ... until you don't. Or at least less. PatSchloss on how to get better at things: 
+DataSciFact	684040391579009028	2016-01-04T15:55:12	In applications, matrices are often large and sparse, and would be impossible to handle without exploiting their sparsity.
+DataSciFact	684022982419845120	2016-01-04T14:46:02	Acupuncture and confirmation bias 
+DataSciFact	683345977034452992	2016-01-02T17:55:51	Hamiltonian Monte-Carlo 
+DataSciFact	683003665192370176	2016-01-01T19:15:38	Estimating the chances of something that hasn't happened yet 
+DataSciFact	682641341982076929	2015-12-31T19:15:53	Stem and leaf diagram 
+DataSciFact	682487688080048132	2015-12-31T09:05:19	Forgot to save the output from the last rstats command? Retrieve it with .Last.value  (via joshlemaitre)
+DataSciFact	682278961540411401	2015-12-30T19:15:55	Edward Tufte-style presentations in CSS , LaTeX 
+DataSciFact	681916571527311362	2015-12-29T19:15:54	Works well versus well understood 
+DataSciFact	681554177605156864	2015-12-28T19:15:53	The Bayes estimator with minimum quadratic loss for a parameter is the posterior mean of that parameter.
+DataSciFact	681504005441368065	2015-12-28T15:56:31	Classic 1939 book on graphs in its entirety 
+DataSciFact	680466954637959168	2015-12-25T19:15:39	Comparing robust statistical methods and cell phone coverage 
+DataSciFact	680104586703671296	2015-12-24T19:15:43	The interplay of Bayesian and Frequentist analysis 
+DataSciFact	680038823947034625	2015-12-24T14:54:24	My core problem with statistics: it's nearly impossible for a non-expert to "figure out what works". 
+DataSciFact	680046362252161024	2015-12-24T15:24:22	"Above all else show the data." ~EdwardTufte
+DataSciFact	679742258665635840	2015-12-23T19:15:58	'Choice of an appropriate family of distributions may be the most challenging phase of analysis.' -- David Cox
+DataSciFact	679379883647180800	2015-12-22T19:16:01	Bioinformatics Q &amp; A site 
+DataSciFact	679357228097388548	2015-12-22T17:45:59	No amount of data can persuade you of something you assign zero prior probability to. -- Cromwell's rule
+DataSciFact	679120804865552385	2015-12-22T02:06:31	A non-comprehensive list of awesome things other people did in 2015 | Simply Statistics 
+DataSciFact	679044248323362816	2015-12-21T21:02:19	I've restarted my DSP_fact account. Tweeting on signal processing, Fourier analysis, acoustics, etc.
+DataSciFact	679017506330292225	2015-12-21T19:16:03	Something like a random sequence but ... 
+DataSciFact	678943409743106048	2015-12-21T14:21:37	Very excited to announce the release of ggplot2 2.0.0!  rstats. Enjoy the early Christmas present :)
+DataSciFact	678950705198157824	2015-12-21T14:50:37	Professionals should be candid about the limits of their profession.
+DataSciFact	678666419698016258	2015-12-20T20:00:58	Models, like men, sometimes do the right thing for the wrong reason.
+DataSciFact	678639456904159233	2015-12-20T18:13:49	Beards and sample size 
+DataSciFact	678354087969067008	2015-12-19T23:19:52	Interesting attempt to quantify the use of "hype" words in scientific publications: 
+DataSciFact	677930384433258496	2015-12-18T19:16:13	Kleinberg's theorem: There are no clustering algorithms that satisfy scale invariance, richness, and consistency. 
+DataSciFact	677567975201906688	2015-12-17T19:16:08	Laws of large numbers and small numbers 
+DataSciFact	677556080168198144	2015-12-17T18:28:52	Nature abhors an unconditioned probability.
+DataSciFact	677205588225470465	2015-12-16T19:16:08	Information geometry 
+DataSciFact	676843225857064960	2015-12-15T19:16:14	The 'plat' in 'platykurtic' is Greek for 'flat,' same root as in 'platypus.'

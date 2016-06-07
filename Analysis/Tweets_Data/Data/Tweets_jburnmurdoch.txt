@@ -1,0 +1,1349 @@
+jburnmurdoch	725748270161489920	2016-04-28T18:07:26	Using the rainbow or jet colormap is equivalent to putting uneven ticks on your axes. endrainbow
+jburnmurdoch	724896507493752832	2016-04-26T09:42:49	Love it when the FT does a graphic DoctorsPay 
+jburnmurdoch	725697078798782465	2016-04-28T14:44:01	Great to welcome FTChinese ddj editor silvashih today. Some of the great work they do:  
+jburnmurdoch	725707558355234817	2016-04-28T15:25:39	Pepper, the humanoid robot, came to visit the FT. Follow our series starting next Tuesday to find out what happened 
+jburnmurdoch	725720372503547904	2016-04-28T16:16:34	Samirak93 Nice work
+jburnmurdoch	725719944504201217	2016-04-28T16:14:52	Samirak93 Did you record the timings manually?
+jburnmurdoch	725363325429780485	2016-04-27T16:37:48	This Sunday we're launching rentswatch, the largest database on rent prices in Europe! 
+jburnmurdoch	725664463790178305	2016-04-28T12:34:25	Built a slot machine-like interface for the Belgian PanamaPapers  
+jburnmurdoch	715914370186887168	2016-04-01T14:51:01	Look at a tennis match visualization about 2015 French open final dataviz rolandgarros tennisabstract 
+jburnmurdoch	725647503421526016	2016-04-28T11:27:01	In solidarity with Charles Moore, I too am sharing an extract from my notes.  
+jburnmurdoch	725640628877561856	2016-04-28T10:59:42	fryford (if that makes sense?)
+jburnmurdoch	725640594412965889	2016-04-28T10:59:34	fryford I haven't got around to changing the code yet, just manually converted the strings back to dates after pasting in the annotations
+jburnmurdoch	725584978394886144	2016-04-28T07:18:34	It's sometimes easy, with all the consumerism and partying, to lose sight of the real meaning of EdBallsDay. 
+jburnmurdoch	725584518766301184	2016-04-28T07:16:44	Samirak93 No worries! Sorry just not sure I'd have been much help in this case
+jburnmurdoch	725584295079907328	2016-04-28T07:15:51	fryford Used Swoopy drag on a time series? Yep. Need to hack it slightly because copy(annotations) will convert javascript dates to strings
+jburnmurdoch	725445841574608896	2016-04-27T22:05:41	BillyEhrenberg I regret everything
+jburnmurdoch	725438282801270784	2016-04-27T21:35:39	KateEMcCann Will be once I've finished thawing 😀
+jburnmurdoch	725437579911389185	2016-04-27T21:32:51	mixedknuts Marcotti Batshit even by usual British weather standards.
+jburnmurdoch	725436887058518016	2016-04-27T21:30:06	KateEMcCann Hope all is good, btw 😊 long time no speak!
+jburnmurdoch	725435650523160576	2016-04-27T21:25:11	KateEMcCann I could maybe have tolerated the rain alone, but hailstones to the eyes less fun 😑
+jburnmurdoch	725435278547148802	2016-04-27T21:23:42	Marcotti Was just a 20 minute trip to Bow, but a faceful of hail + soaked to the skin + freezing = longest 20 mins ever 😜
+jburnmurdoch	725433283450949632	2016-04-27T21:15:47	0/10 commute. Would never do again. 🚴🌨🌨🌨🌨🌨❄️❄️❄️❄️❄️💦💦💦💦☔️☃☃☃☃☃
+jburnmurdoch	725432916168314881	2016-04-27T21:14:19	Well. That was the most horrific way imaginable to discover DarkSkyApp doesn't differentiate between "light rain" &amp; "torrential hail storm"
+jburnmurdoch	725385252559007744	2016-04-27T18:04:55	Samirak93 Hi, afraid I don't remember how I did that one. Is the viz not downloadable?
+jburnmurdoch	725375943250993152	2016-04-27T17:27:56	Abu Hajaar is the Leroy Jenkins of ISIS
+jburnmurdoch	725362092866441216	2016-04-27T16:32:54	FletchMK64 538viz I think so! Thanks
+jburnmurdoch	725360933908918272	2016-04-27T16:28:17	538viz Hi! You folks did an awesome 45º rotated scatter plot a while back, but Google is not being my friend 🙁 Any chance of a pointer?
+jburnmurdoch	725297996456431616	2016-04-27T12:18:12	Worville GregorydSam I await the Urban Dictionary entry. "It's been too long! Yeah let's definitely hang. Shall we say June 31?"
+jburnmurdoch	725296999772372993	2016-04-27T12:14:14	Worville GregorydSam Great pod as ever, folks. Looking forward to the mid-Euros one on June 31
+jburnmurdoch	725287849495531522	2016-04-27T11:37:53	This is hilarious on Dan Brown from MichaelPDeacon 
+jburnmurdoch	725266633141407744	2016-04-27T10:13:34	fcage Your 54 joke is better than mine was going to be
+jburnmurdoch	725262567862603776	2016-04-27T09:57:25	Awesome to see Guardian's 6x9 VirtualReality project out in the open. Incredible work from franpanetta and team 
+jburnmurdoch	725236329550848000	2016-04-27T08:13:09	SanjitAtwal 👏👏
+jburnmurdoch	724694181856337921	2016-04-25T20:18:51	asked NadiehBremer about inspiration for datavis design she curates it here  openvisconf 
+jburnmurdoch	724990811755126784	2016-04-26T15:57:33	"dataviz is not your creative outlet, it's about making data understandable." - rachelbinx, openvisconf 
+jburnmurdoch	725030603368845312	2016-04-26T18:35:40	My tiny-tools OpenVisConf slides:   also illegible notes: 
+jburnmurdoch	725224175724548096	2016-04-27T07:24:52	This really is a heart-breaking, harrowing and important report on the inquest by david_conn |  JTF96
+jburnmurdoch	725045743283744772	2016-04-26T19:35:50	Great summary of the collapse of fallen high street giant BHS by tech-supremo-turned-leisure-magnate muradahmed 
+jburnmurdoch	725045566313390080	2016-04-26T19:35:08	Shameless "This is about baseball but is the future of football" tweet 
+jburnmurdoch	725103587345457154	2016-04-26T23:25:41	TimBrock_DtD Hadn't had a chance to look at Twitter today so just catching up. Incredible stuff
+jburnmurdoch	725102345659551744	2016-04-26T23:20:45	Peak openvisconf jealousy rn. For any others not attending, that hashtag is pure dataviz gold ❤️❤️❤️
+jburnmurdoch	724934795898265601	2016-04-26T12:14:58	This is going to be fantastic: NadiehBremer turns here OpenvisConf into a series of posts  
+jburnmurdoch	725097903023378432	2016-04-26T23:03:06	BREAKING: I understand British Cycling's technical director Shane Sutton has been suspended over allegations of discrimination
+jburnmurdoch	725077448296136709	2016-04-26T21:41:49	In case you missed it, Foursquare now accurately predicting quarterly sales based on foot traffic data :) 
+jburnmurdoch	724871068494794752	2016-04-26T08:01:44	Worth the minute it takes to ponder - one FT graph makes drs dispute much clearer than paragraphs of waffle 
+jburnmurdoch	724691884652793856	2016-04-25T20:09:44	'How Diego Simeone’s Atlético Madrid defy the odds and gods' (via seaningle column and featuring 21stClub) - 
+jburnmurdoch	724708298210050049	2016-04-25T21:14:57	Things that gain and drain attention. Boom! openvisconf 
+jburnmurdoch	724862121398427648	2016-04-26T07:26:11	elliot_bentley JanWillemTulp maartenzam eagereyes knowtheory I'm a terrible human being for sub-tweeting your work, sorry!
+jburnmurdoch	724720533020000256	2016-04-25T22:03:34	JanWillemTulp maartenzam eagereyes knowtheory Scrollwatcher is 💯 for incremental animations, bt nt made 4 'slideshow' scrollytelling imo
+jburnmurdoch	724719918340554752	2016-04-25T22:01:07	JanWillemTulp maartenzam eagereyes knowtheory ❤️ WSJ one bt elements using scrollwatcher dnt scroll in natural way, cd be weird for user
+jburnmurdoch	724718118157869056	2016-04-25T21:53:58	maartenzam eagereyes archietse knowtheory Same! Different results in different browsers really important here too.
+jburnmurdoch	724716837150310400	2016-04-25T21:48:53	maartenzam eagereyes archietse Worth the effort to get it right imo, and also use it sparingly. Very prone to wobbles, though, yeah.
+jburnmurdoch	724712441456807940	2016-04-25T21:31:25	.andrewflowers made a fantastic chart about the welfare cliff. Maybe read his words too:  
+jburnmurdoch	724648802762764289	2016-04-25T17:18:32	“Your problem is that you make shit. A lot of shit.” — Joshua Topolsky  
+jburnmurdoch	724705975664578560	2016-04-25T21:05:43	Spurs just Spursed up my week
+jburnmurdoch	724653980647849984	2016-04-25T17:39:07	JAScarb cjdavie1 Hi folks, re: our poll-tracker, the date on the chart refers to the latest poll. The page itself is constantly updated.
+jburnmurdoch	724640711782572032	2016-04-25T16:46:23	e.g: Regular round-ups of best articles from across the web on refugees and migration 
+jburnmurdoch	724640293526601728	2016-04-25T16:44:43	Really impressed at how open_migration has developed over its short life. Analyses, fact-checks, quizzes, round-ups 
+jburnmurdoch	724604905978269696	2016-04-25T14:24:06	Anon: "I was almost late to work today because I had to finish reading reviews of Lemonade in order to chat to The Cool People"
+jburnmurdoch	724594856857882626	2016-04-25T13:44:10	Doncaster 
+jburnmurdoch	724575077036122113	2016-04-25T12:25:34	chhazeau robminto 👍 assuming start times were allocated based on predicted pace, could try something with that.
+jburnmurdoch	724571636893126656	2016-04-25T12:11:54	jschwabish sacksdaniel Thnx! We're experimenting with alt colour schemes for social. HT carolinenevitt &amp; theboysmithy in that regard
+jburnmurdoch	724571019378348032	2016-04-25T12:09:27	chhazeau robminto Good question! I suspect 'women are more cautious' is both lazy &amp; incorrect, but there must be something. Any thoughts?
+jburnmurdoch	724570322561826816	2016-04-25T12:06:41	sacksdaniel jschwabish 😀
+jburnmurdoch	724564294004793344	2016-04-25T11:42:44	kncukier Thanks, Ken!
+jburnmurdoch	724562572989571072	2016-04-25T11:35:53	For the 7th successive year, women were less likely than men to go off [too] fast &amp; fade in second half of the race 
+jburnmurdoch	724561811492708352	2016-04-25T11:32:52	UPDATED following yesterday's LondonMarathon: how many manage to run second half faster than the first? ukrunchat 
+jburnmurdoch	724560723569983488	2016-04-25T11:28:32	sacksdaniel jschwabish Here's an updated version, w/ yesterday's data and stripped down annotations on charts 2-14 
+jburnmurdoch	724560503238983680	2016-04-25T11:27:40	sacksdaniel jschwabish You're absolutely right -- new there was something not quite right, but couldn't spot the wood for the trees :-)
+jburnmurdoch	724503390781366277	2016-04-25T07:40:43	This is a joke, right? It's got to be. Please say it's a joke. 
+jburnmurdoch	724231085677260800	2016-04-24T13:38:41	Our legal system has become a dystopian nightmare (via Observer) 
+jburnmurdoch	724500572095827968	2016-04-25T07:29:31	AI experts are right to flag concerns about killer robots. My latest column 
+jburnmurdoch	724500390063034368	2016-04-25T07:28:48	nigelhawtin visualisingdata Nice! I tried a similar thing here 
+jburnmurdoch	724369762382430208	2016-04-24T22:49:44	sarahlaitner robminto 👍 latest Tennis Podcast is good
+jburnmurdoch	724238107919421440	2016-04-24T14:06:35	The commentary about "story" and how to pitch data usage is exactly right. You need to empower people with info 
+jburnmurdoch	723502586754539521	2016-04-22T13:23:53	An interview with theboysmithy by visualisingdata  See pic. YES! dataviz dataJournalism 
+jburnmurdoch	724205836617277440	2016-04-24T11:58:21	Virat Kohli is a bit good at T20 batting.
+jburnmurdoch	724199447538851840	2016-04-24T11:32:57	LesRosbifs LondonMarathon runnersworlduk Ha, nice! I'm from a family of marathon runners, but yet to do my part. Maybe next year...
+jburnmurdoch	724196696964653056	2016-04-24T11:22:02	joesarling Good shout! Will take a look. Based on mass-field figures I looked at here, negative split isn't correlated w/ better times
+jburnmurdoch	724193855105581056	2016-04-24T11:10:44	NEW: How many LondonMarathon runners manage to run the second half faster than the first?  
+jburnmurdoch	723869513989652480	2016-04-23T13:41:55	d3js small-multiples combining HTML canvas and SVG to plot 230,000 points &gt;&gt; 
+jburnmurdoch	723868243270709248	2016-04-23T13:36:52	NEW: ahead of LondonMarathon we looked at how many runners manage a negative split  dataviz 
+jburnmurdoch	723654612620816385	2016-04-22T23:27:59	Wrote this in Dec: why these agent fees totals (+ moral outrage) are meaningless  
+jburnmurdoch	723437493408829441	2016-04-22T09:05:13	Hello Amsterdam! The keynote you just heard? It's here:  story16 TrueStoriesEU
+jburnmurdoch	723800556599390208	2016-04-23T09:07:54	Love this title-race graphic from Marca 
+jburnmurdoch	723451641924583424	2016-04-22T10:01:27	My Guardian words: What’s in a number? Shakespeare’s legacy analysed Shakespeare400:  
+jburnmurdoch	723398821879762944	2016-04-22T06:31:33	Game of Thrones: the most Googled characters – episode by episode 
+jburnmurdoch	723450831731740673	2016-04-22T09:58:14	GuardianData grbarnett CathLevett 👏👏👏👏👏👏
+jburnmurdoch	723413932640079872	2016-04-22T07:31:36	NEW POST: Six questions with... Alan Smith (theboysmithy)  
+jburnmurdoch	723419327723016193	2016-04-22T07:53:02	patternproject 👍 Allows for much faster/lighter rendering of graphics than SVG, since you're painting pixels instead of creating elements
+jburnmurdoch	723418942354542592	2016-04-22T07:51:30	paulbradshaw Thanks Paul!
+jburnmurdoch	723280734660792325	2016-04-21T22:42:19	The game's changed.  
+jburnmurdoch	723254405533822976	2016-04-21T20:57:42	this from max_read is a good explanation of how CMSes (&amp; the chain of programs content passe thru) can fuck shit up 
+jburnmurdoch	723224713598779394	2016-04-21T18:59:43	Prince's purple reign, in one chart:  
+jburnmurdoch	723241661095129092	2016-04-21T20:07:03	elenacresci jamesrbuk Maybe most successful covert trolling on here. Very very rarely gets identified as such
+jburnmurdoch	723240473440169984	2016-04-21T20:02:20	annamasera Ah thanks Anna, very kind!
+jburnmurdoch	723240367840223232	2016-04-21T20:01:55	tomhannen Thanks Tom, was good to meet you!
+jburnmurdoch	723226191247888384	2016-04-21T19:05:35	Genuinely thrilled to be on this shortlist – great award, and a longlist full of fantastic projects. 
+jburnmurdoch	723227903962562560	2016-04-21T19:12:23	jamesrbuk davidtpegg May the least-worst person win
+jburnmurdoch	723227524944285697	2016-04-21T19:10:53	davidtpegg jamesrbuk Chapeau, guys!
+jburnmurdoch	723221386370682881	2016-04-21T18:46:29	sallygainsbury SarahNev Sadly I couldn't make it in the end either -- congrats folks!
+jburnmurdoch	723220596256083970	2016-04-21T18:43:21	tara_mulholland 😀 thanks Tara!
+jburnmurdoch	723219910705426432	2016-04-21T18:40:38	sallygainsbury SarahNev jburnmurdoch shortlisted for OrwellPrize2016 for austerity reporting
+jburnmurdoch	723209174616776704	2016-04-21T17:57:58	Awesome idea, very well executed, carefully-chosen visuals, loads of clever analysis and visualisation tricks. 💯💯💯💯 
+jburnmurdoch	723183268871413760	2016-04-21T16:15:02	Oh this is great. 
+jburnmurdoch	723171701182357505	2016-04-21T15:29:04	basilesimon Di rien! And sorry I had to dash at the end
+jburnmurdoch	723169628747235328	2016-04-21T15:20:49	Pretty cool 
+jburnmurdoch	723168677642801152	2016-04-21T15:17:03	Slides from my Polis2016 talk about using dataviz in reporting on crises are at  
+jburnmurdoch	723049095598882816	2016-04-21T07:21:52	ICYMI: 30 million data points to one animation, showing how 2015 El Niño  took shape. Hi-res version here. dataviz 
+jburnmurdoch	722770305622634497	2016-04-20T12:54:03	Tories admit failure to declare electionexpenses citing “administrative error”. New evidence uncovered c4news 7pm 
+jburnmurdoch	722770107613782016	2016-04-20T12:53:16	farrelldlfarrel Thanks Dean :-)
+jburnmurdoch	722759724085731328	2016-04-20T12:12:01	ICYMI: watch how the 2015-16 El Niño formed, and explore its impacts on global crop yields  
+jburnmurdoch	722743117162684416	2016-04-20T11:06:01	maartenzam I really loved the map post. Awesome to see such a variety of tools being used
+jburnmurdoch	722739896478261249	2016-04-20T10:53:13	Everyone follow maartenzam, who is doing wonderful interactive visual things &amp; writing about how u can do the same 
+jburnmurdoch	722695695719903232	2016-04-20T07:57:35	Great stuff from sarahoconnor_ on the need to equip students to make more informed choices  
+jburnmurdoch	722690066125058048	2016-04-20T07:35:13	piquantscholar Achievement unlocked 💪
+jburnmurdoch	722687093235912704	2016-04-20T07:23:24	"Google Goals". Looks intriguing.  The behavioural economics behind it: 
+jburnmurdoch	722687762521067521	2016-04-20T07:26:04	sdbernard Cheers Steve 😊
+jburnmurdoch	722683661661966336	2016-04-20T07:09:46	More than 30 million data points (&gt;1GB in total) went into that GIF. (The visual journalism version of "Many Bothans died...")
+jburnmurdoch	722683073297559552	2016-04-20T07:07:26	fcage We're getting better at putting author names on our charts in web and print. Official ruling on full name vs Twitter name still tbc
+jburnmurdoch	722681263560245248	2016-04-20T07:00:14	mrejfox Thanks! Super fun to work on
+jburnmurdoch	722681151375155200	2016-04-20T06:59:47	RobinKwong davidbauer ☀️💧💨💪
+jburnmurdoch	722679221353639937	2016-04-20T06:52:07	Featuring 12 charts, one GIF, and my first experiments with d3js and canvas 
+jburnmurdoch	722678306588504064	2016-04-20T06:48:29	NEW: watch how the 2015-16 El Niño formed, and explore its impacts on global crop yields  
+jburnmurdoch	722418692676579328	2016-04-19T13:36:52	[NEW POST] Making of: a real estate price map for the +19.000 neighbourhoods of Belgium  
+jburnmurdoch	722522763823607808	2016-04-19T20:30:25	This BuzzFeedNews story on Sanders' fundraising uses data from FEC Itemizer:   You can, too! 
+jburnmurdoch	722148485433270273	2016-04-18T19:43:10	Categories still missing from the Pulitzers: Best Unboxing, Fastest Liveblogging, Hottest Take.
+jburnmurdoch	722308480992993280	2016-04-19T06:18:56	Interview with sdbernard from Financial Times on their usage of QGIS in their graphics team: 
+jburnmurdoch	722044836568776705	2016-04-18T12:51:18	Small multiple ggplot R goodness in print today courtesy of BillyEhrenberg and GrahamParrish 
+jburnmurdoch	721952754671992832	2016-04-18T06:45:24	solid bit of Brexit ranting from Gilesyb here 
+jburnmurdoch	721962564016451584	2016-04-18T07:24:23	League table is taking shape by my model. Spurs need a win today, and a glimmer of hope for Newcastle. 
+jburnmurdoch	721771431655317504	2016-04-17T18:44:53	Programmer taps lessons from writing software to explain why he's voting for Hillary.  More writing like this please.
+jburnmurdoch	668151347556913152	2015-11-21T19:37:49	Any airline that refuses passengers based on religion or ethnicity should be subject to national boycott. Start with SouthwestAir.
+jburnmurdoch	721831502372302849	2016-04-17T22:43:35	Easy to forget how all-encompassing the Brazil's corruption crisis is  by Vinncent 
+jburnmurdoch	721680812320563200	2016-04-17T12:44:48	Article and massive chart by nytgraphics's KevinQ  today dataviz infographics dataJournalism ddj 
+jburnmurdoch	721431697724563456	2016-04-16T20:14:54	Stephen Curry’s 3-Point Record in Context: Off the Charts - The New York Times 
+jburnmurdoch	721453942425665537	2016-04-16T21:43:18	fcage Where u?
+jburnmurdoch	721277602930028544	2016-04-16T10:02:35	theboysmithy robminto Ah sadly I won't be around!
+jburnmurdoch	720978441923928064	2016-04-15T14:13:50	The best public editor to date. When she's right, she's right. And when she's wrong, she still makes a good case. 
+jburnmurdoch	720949042453311490	2016-04-15T12:17:00	All docs from Patron's Lunch story via FOI... available on links here  
+jburnmurdoch	720946993137389568	2016-04-15T12:08:52	Charity set up for  Queen's 90th Bday got a "High Risk" rating from the charity commission.  
+jburnmurdoch	720615624641245184	2016-04-14T14:12:07	Why journalists should be more involved in product development in the newsroom IJF16  
+jburnmurdoch	720966316086206465	2016-04-15T13:25:39	echenty erichannell VizWizBI Hopefully next time 🙂
+jburnmurdoch	720966262176759808	2016-04-15T13:25:26	echenty erichannell Unfortunately I haven't had the chance to make it yet, but have been meaning to ever since VizWizBI told me about it!
+jburnmurdoch	720633985005719553	2016-04-14T15:25:05	Why are we losing faith in statistics? Watch this (thanks federicacocco) &amp; read TimHarford  
+jburnmurdoch	720860211179749376	2016-04-15T06:24:01	Fascinating &amp; deep read on content moderation, the laws that govern internet speech &amp; how safety works online 
+jburnmurdoch	720871684819922945	2016-04-15T07:09:37	flashboy Friday completed
+jburnmurdoch	720871251988729857	2016-04-15T07:07:54	flashboy 👏👏👏
+jburnmurdoch	720736314635784193	2016-04-14T22:11:42	TroyEricG Me u Bieber Love Yourself 2mo. It's settled.
+jburnmurdoch	720716763105628160	2016-04-14T20:54:01	💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯
+jburnmurdoch	720626624190922752	2016-04-14T14:55:50	Datajedininja cheeky_chappie Just looking at some stuff on your author profile: nice!
+jburnmurdoch	720620664231735296	2016-04-14T14:32:09	dats Pas du tout -- plz continue to send good content my way
+jburnmurdoch	720620103092539397	2016-04-14T14:29:55	dats Two steps ahead of you (like Kobe in his prime, innit) 
+jburnmurdoch	720607311312654337	2016-04-14T13:39:05	Matt_Francis cheeky_chappie Datajedininja i.e not commenting at all on the merits of the specific piece
+jburnmurdoch	720607195000414208	2016-04-14T13:38:38	Matt_Francis cheeky_chappie Datajedininja That delivers good UX across as many devices as possible, &amp; deals well with panning and zooming
+jburnmurdoch	720607147889975296	2016-04-14T13:38:26	Matt_Francis cheeky_chappie Datajedininja Clarification #2 😜 my point is about technical challenges of rendering 30k data points in a way
+jburnmurdoch	720604285361385474	2016-04-14T13:27:04	cheeky_chappie Matt_Francis Datajedininja Clarification: responsive as in optimised for all screen sizes, not as in 'responds to touch'.
+jburnmurdoch	720600456267964417	2016-04-14T13:11:51	Matt_Francis cheeky_chappie Datajedininja Just use 30k random points. The challenge in question is subject-matter-independent
+jburnmurdoch	720598718576259072	2016-04-14T13:04:57	Matt_Francis cheeky_chappie Datajedininja Fully responsive viz w/ same or shorter rendering lags as u animate between views? Big claim...
+jburnmurdoch	720594258042953730	2016-04-14T12:47:13	♥️ how LATimesGraphics used mapping tools for their kobebryant graphic! 30k points = hard  
+jburnmurdoch	720524393261244416	2016-04-14T08:09:36	AnneLaumen You can at least find ftweekend on there for now 😊
+jburnmurdoch	720402577758654464	2016-04-14T00:05:33	With the Panama Papers, The Guardian created visual storytelling rules ready for breaking news  vía poynter
+jburnmurdoch	720514876628725760	2016-04-14T07:31:47	Oz govt widely believed to be planning early election. Accidentally delivers election posters to trade union rivals: 
+jburnmurdoch	720514481537818625	2016-04-14T07:30:13	Lovely piece from _Kate_Allen 
+jburnmurdoch	720508454121652224	2016-04-14T07:06:16	adamwithnall ikr smh @ 🇫🇷
+jburnmurdoch	720507934459998208	2016-04-14T07:04:12	And here's why PSG were able to regularly rest best players in league games  
+jburnmurdoch	720504407633313793	2016-04-14T06:50:11	NEW: PSG rested key players ahead of Champions League games twice as much as anyone else  
+jburnmurdoch	720343763567190016	2016-04-13T20:11:51	kate_day  👋
+jburnmurdoch	720343570738245637	2016-04-13T20:11:05	Great presentation and general chat from AlexanderNL. blendle is 💯 hhldn
+jburnmurdoch	720337874047102976	2016-04-13T19:48:27	amonck Big year ahead for purple, but I can't see it cracking the primary colours.
+jburnmurdoch	720329214180855808	2016-04-13T19:14:02	Regulators propose banning Theranos founder Elizabeth Holmes for at least two years  🔓
+jburnmurdoch	720312123704885248	2016-04-13T18:06:07	Things we do not require: * A journalism background * A college degree * A particular programming language
+jburnmurdoch	720311841495363584	2016-04-13T18:05:00	A reminder: We’re hiring at NYTInteractive. Description here: 
+jburnmurdoch	720328523362279428	2016-04-13T19:11:17	Throwing shade at everyone at HHLdn tweeting the Google Brexit map without questioning it first
+jburnmurdoch	720323495150936065	2016-04-13T18:51:18	"You're never more honest than you are with a search engine" - smfrogers hhldn
+jburnmurdoch	720320155096629248	2016-04-13T18:38:02	Nice little bit from kate_day on how POLITICOEurope indulges its inner geek  hhldn
+jburnmurdoch	720300216105115648	2016-04-13T17:18:48	Across all matches *before* Champs League ties, PSG's core players were on the pitch for 57% of mins. Last weekend vs Guingamp it was 20%.
+jburnmurdoch	720299587018227712	2016-04-13T17:16:18	NEW: PSG rested key players ahead of Champions League games twice as much as anyone else  
+jburnmurdoch	720026562964406273	2016-04-12T23:11:24	Earned £1.5m.. over 33 years. This story is a good example of the need for denominators to make sense of big numbers 
+jburnmurdoch	720169283209273344	2016-04-13T08:38:31	NEW: Explaining and Training Shot Quality in Football  How can you explain this stuff to football people?
+jburnmurdoch	720159757127053312	2016-04-13T08:00:40	TimBrock_DtD 1) Would also need to see if 2015 one-off or part of long-term trend. 2) We have a piece coming up on precisely this 😊
+jburnmurdoch	720155731459207168	2016-04-13T07:44:40	TimBrock_DtD 😜
+jburnmurdoch	720155631945125888	2016-04-13T07:44:17	kryptobanana duc_qn Shotgun!
+jburnmurdoch	720155297952755713	2016-04-13T07:42:57	kryptobanana duc_qn +1
+jburnmurdoch	720153328596971520	2016-04-13T07:35:07	A post about tools in ddj - What do I use in data-driven-journalism?  dataviz rstats 
+jburnmurdoch	720153634189766657	2016-04-13T07:36:20	TimBrock_DtD "At a designated level, the reward for winning a tennis match should be the same for men and for women"
+jburnmurdoch	720152821115568128	2016-04-13T07:33:07	TimBrock_DtD Don't see why they should be rewarded at set level. If so why not games/points/rally length? Money for winning the match.
+jburnmurdoch	720021255882207232	2016-04-12T22:50:19	I went to Paris-Roubaix, got pretty drunk, and wrote a column about it.  
+jburnmurdoch	720150461614047232	2016-04-13T07:23:44	Typically excellent piece from sportdw on equal prize money issue in tennis  EqualPayDay 
+jburnmurdoch	719948958076964865	2016-04-12T18:03:02	This is a hell of a thing. 
+jburnmurdoch	720006715073236992	2016-04-12T21:52:32	AI which can read and understand articles could transform what gets seen/shared; enable much more personalized feeds 
+jburnmurdoch	719931028769488896	2016-04-12T16:51:47	We’re hiring.   Interested? Talk to oldwestaction, tiffehr, rachel_shorey or moriogawa. 
+jburnmurdoch	719859171613622273	2016-04-12T12:06:15	jackserle I only use it when I run out of characters but want to go to more effort than the 💯 emoji
+jburnmurdoch	719856391847047168	2016-04-12T11:55:12	Incidentally, gender breakdown of guardian bylines remains my go-to web scraping exercise with cityjournalism students.
+jburnmurdoch	719853856994304000	2016-04-12T11:45:08	Ace work from GuardianVisuals et al on gender balance in articles, &amp; its impact on comments  
+jburnmurdoch	719793129579274240	2016-04-12T07:43:49	End of the Barclays Premier League Really interesting piece on league &amp; sponsor heading in different directions 
+jburnmurdoch	719782866775724033	2016-04-12T07:03:03	Most young Arabs reject Isis and think 'caliphate' will fail, poll finds 
+jburnmurdoch	719527997104070656	2016-04-11T14:10:17	Did a piece on expected goals and football analytics with mixedknuts : 
+jburnmurdoch	719612398722752513	2016-04-11T19:45:40	Danict89 lauracantadori nassos_ zdboren Patrick_E_Scott BillyEhrenberg Who dis
+jburnmurdoch	719571545660735488	2016-04-11T17:03:20	echenty Thanks! Reckon it does a pretty good job of conveying movement in a static graphic
+jburnmurdoch	719559356723957762	2016-04-11T16:14:54	.Danny_Willett's Masters win was biggest overhaul ever: gained 8 strokes vs Spieth  dataviz 
+jburnmurdoch	719498954392674304	2016-04-11T12:14:53	Football League still investigating Leicester's promotion season amid concerns over sponsorship deal by Thai owners. 
+jburnmurdoch	719516005119238144	2016-04-11T13:22:38	duncanrobinson RobinKwong "The prospects look bleat, but if nothing else I'll be able to spin a good yarn out of the experience." 🏃
+jburnmurdoch	719515280028864512	2016-04-11T13:19:45	RobinKwong I got there because of a Google Hangout with grbarnett, though I have nobody to blame but myself 🕷🐐🕸
+jburnmurdoch	719514807980933120	2016-04-11T13:17:52	RobinKwong 
+jburnmurdoch	719514705551835136	2016-04-11T13:17:28	Same. 
+jburnmurdoch	719514276852035584	2016-04-11T13:15:46	10/10 paragraph. Would read again. 
+jburnmurdoch	719500624484765696	2016-04-11T12:21:31	my tagline will be "Vote Elena: she puts the Len in Millennial" (ht jburnmurdoch)
+jburnmurdoch	719495028800925697	2016-04-11T11:59:17	RobinKwong TroyEricG Okay cool I'm sold. Troy when we duetting? 
+jburnmurdoch	719489549102133249	2016-04-11T11:37:30	davidbauer Turning the act of dataviz itself into sport. iLike
+jburnmurdoch	719479936319406080	2016-04-11T10:59:18	TroyEricG Look out for the Bieber reference in next week's Baseline.
+jburnmurdoch	719479447452258305	2016-04-11T10:57:22	TroyEricG As opposed to 
+jburnmurdoch	719478562231869440	2016-04-11T10:53:51	RobinKwong TroyEricG Nice, imma have to listen to it properly now. Related: BuzzFeed on the video for Sorry 
+jburnmurdoch	719464164863909888	2016-04-11T09:56:38	jamesrbuk I read an article with links to your tweets and there was no INFOMO 😎
+jburnmurdoch	719463679444533248	2016-04-11T09:54:42	New term: INFOMO Fear Of Missing Out on INFOrmation "There were so many super interesting links in that article that I got INFOMO"
+jburnmurdoch	719433801039011840	2016-04-11T07:55:59	maartenzam davidbauer The rhythmic gymnastics box-and-whisker plot is gonna be siiiiick
+jburnmurdoch	719424418821382144	2016-04-11T07:18:42	Great to see some MarkTaylor0 analysis in seaningle's column about momentum, and whether it really exists: 
+jburnmurdoch	719424873475543040	2016-04-11T07:20:30	Scribblr_42 footballfactman leejmooney Recruitment at the back has been cataclysmic. Definitely appear to be 'cultural' issues too tho
+jburnmurdoch	719421461052669952	2016-04-11T07:06:57	davidbauer This summer will test that theory to its limits 😜
+jburnmurdoch	719419273039454208	2016-04-11T06:58:15	A summary of the last few months: "Western societies are in the throes of a delayed reaction to the financial crash" 
+jburnmurdoch	719418317228916736	2016-04-11T06:54:27	By another measure, Willett's win was the biggest late swing ever: gained 8 strokes vs Spieth on back 9 holes 
+jburnmurdoch	719417582349103104	2016-04-11T06:51:32	ICYMI: Danny Willett equalled a 40 yr record in reversing a 5 stroke deficit on final back 9  
+jburnmurdoch	719412275489087488	2016-04-11T06:30:27	Excellent, ominous stuff from MiguelDelaney on football's doping problem here. 
+jburnmurdoch	719207047003148288	2016-04-10T16:54:56	.GuardianVisuals tool for responsive charts. Data→parse→chart→edit→embed. Open source comingsoon with todo list. 
+jburnmurdoch	719317760011079680	2016-04-11T00:14:52	UPDATE: Willett equalled Gary Player's 1978 record for reversing a 5 stroke deficit on final back nine Masters2016 
+jburnmurdoch	719284354074206208	2016-04-10T22:02:08	theneilrichards Staggering stuff!
+jburnmurdoch	719284243319386112	2016-04-10T22:01:41	Spieth could become the only player to throw away a 5 stroke back nine lead since Gary Player in 1978. Masters2016 
+jburnmurdoch	719239939280531457	2016-04-10T19:05:39	Another view of the same data: How many times has the Masters winner come from behind on final back 9? Masters2016 
+jburnmurdoch	719239498530439169	2016-04-10T19:03:53	NEW: can anyone catch Spieth? robminto &amp; I ask whether Masters is always won on the back 9  
+jburnmurdoch	719164803651018752	2016-04-10T14:07:05	Thoughtful article by RobinKwong  that highlights two schools in dataviz dataJournalism 
+jburnmurdoch	719128340079255552	2016-04-10T11:42:11	Advice from hadleywickham: "You should consider writing a function whenever you’ve copied and pasted a block of code more than twice."
+jburnmurdoch	719163022510596096	2016-04-10T14:00:00	Sagan on a bike == Messi with a football 
+jburnmurdoch	719160986708635649	2016-04-10T13:51:55	Sagan Skillz. ParisRoubaix 
+jburnmurdoch	718556774203305984	2016-04-08T21:50:59	Good read about the absurdity &amp; randomness of how scientists arrived at the current beliefs on nutrition.    
+jburnmurdoch	719149484698112001	2016-04-10T13:06:12	Last week - Sugar vs fat  - Varoufakis  - Football’s worst crime 
+jburnmurdoch	718885297879179265	2016-04-09T19:36:25	Some outstanding data journalism here from the folks at polygraphing  
+jburnmurdoch	718822992319508480	2016-04-09T15:28:51	fcage Significantly cheaper than getting the actual shirt
+jburnmurdoch	718820199517011969	2016-04-09T15:17:45	Life hack: no precision paintbrush? Just prune some toothbrushes 
+jburnmurdoch	718423565490593792	2016-04-08T13:01:40	Internal and external automation: Two versions of the same auto-generated ft charts:  ijf16 
+jburnmurdoch	718706574664011778	2016-04-09T07:46:14	This Nigel_Farage lunch with henrymance piece is packed with line after line of brilliance  
+jburnmurdoch	718438711772463104	2016-04-08T14:01:51	RichardFergie ... which maybe lots of people read as a specific, constrained thing instead of browing whole site
+jburnmurdoch	718438524245188608	2016-04-08T14:01:06	RichardFergie Not sure I follow? I'm assuming it means it was in real world paper, therefore in "today's paper" section of site
+jburnmurdoch	718423424352272384	2016-04-08T13:01:06	NB that piece is 2.5 years old!
+jburnmurdoch	718422760087756800	2016-04-08T12:58:28	This caught my eye: assume it's people using the "today's paper" feature?  
+jburnmurdoch	718421735918473216	2016-04-08T12:54:24	💯💯💯 piece of work, "Wins Above Replacement" for pageviews, to help find out whether a piece was more-read than similarly promoted pieces.
+jburnmurdoch	718420528609042432	2016-04-08T12:49:36	How promotion affects pageviews on New York Times website, by brianabelson, HT alekswis  
+jburnmurdoch	718205947466878977	2016-04-07T22:36:56	christinezhang journalismfest sandhya__k stdbrouw lisacrost davidbauer alekswis hyper_linda Bahareh360 martinstabe 📈📊📉 ❤️❤️❤️
+jburnmurdoch	718067340198457344	2016-04-07T13:26:09	Thanks to the youtube comments section, we now have our first taglines for Rogue One 
+jburnmurdoch	718069794566709249	2016-04-07T13:35:54	monfera All in good time :-)
+jburnmurdoch	718052813360783360	2016-04-07T12:28:26	Awesome use of interactivity from nytimes. Great in-lining of live user-generated data, too  
+jburnmurdoch	718007433734537216	2016-04-07T09:28:06	How laundered money shapes London’s property market panamapapers  
+jburnmurdoch	717096484118925312	2016-04-04T21:08:19	Using  to find the the 17,899 companies with Mossack Fonseca registered as a company officer: 
+jburnmurdoch	718048838666293248	2016-04-07T12:12:38	jalapic 2016 set to be a real breakthrough year for slime moulds. And now I can't help thinking of 
+jburnmurdoch	718046842664132608	2016-04-07T12:04:42	So far today I've read two articles on Slime Mould, for two entirely unrelated projects. Data journalism takes you to the strangest places
+jburnmurdoch	717825623427776512	2016-04-06T21:25:39	The FT, without access to the Panamapapers, delivers key piece on Cameron's part of the story: 
+jburnmurdoch	717978128182812672	2016-04-07T07:31:39	Superclubs have identified the Champions League problem and come up with the worst possible solution. 
+jburnmurdoch	717844618562420736	2016-04-06T22:41:08	for the data geeks out there, do check out paldhous' explanation of how he did the planes story analysis: 
+jburnmurdoch	717832386025807873	2016-04-06T21:52:32	paldhous 👏👏👏
+jburnmurdoch	717825260259676160	2016-04-06T21:24:13	Are FBI and DHS spy planes watching your city? We mapped 4+ months  flightradar24 data:  
+jburnmurdoch	717773680009457665	2016-04-06T17:59:15	Exclusive: UK did not consult any Muslim organizations about flagship anti-radicalization website  via vicenews
+jburnmurdoch	717817469772120065	2016-04-06T20:53:15	67% chance City go through after that draw, according to research by LiverpoolUni  
+jburnmurdoch	717755031827705856	2016-04-06T16:45:09	Should anyone care about the financial privacy of the wealthiest people in the world? 
+jburnmurdoch	717659562036355072	2016-04-06T10:25:47	For cyclist safety, Berlin police &gt; London police. This kind of thing goes unpunished in London every day 8geben 
+jburnmurdoch	717605246483173376	2016-04-06T06:49:57	that escalated quickly 
+jburnmurdoch	717445200516354049	2016-04-05T20:13:59	elenacresci Lighterman
+jburnmurdoch	717363661728256001	2016-04-05T14:49:59	NEW: The tycoons and world leaders who built secret UK property empires  panamapapers
+jburnmurdoch	717362651249057792	2016-04-05T14:45:58	Late to this from acotgreave, but it's excellent  dataviz 
+jburnmurdoch	717295457291132928	2016-04-05T10:18:58	When data is free but not open: JeniT shares her frustration in trying to access ‘free’ LandRegGov property data 
+jburnmurdoch	717350539155996672	2016-04-05T13:57:50	Samirak93 Ah, ok. atm it's built specifically for shots (no way to define start/end of passing chain) but interested to see how you get on!
+jburnmurdoch	717347860883202050	2016-04-05T13:47:12	Samirak93 ... but I may add it as an option
+jburnmurdoch	717347810803187713	2016-04-05T13:47:00	Samirak93 Hi! I'm afraid it's not [at the moment], since I want pitch-to-screen ratio as high as possible to allow for precision clicking
+jburnmurdoch	717339890526982145	2016-04-05T13:15:32	Ban boundary changes ddj
+jburnmurdoch	717300652305682432	2016-04-05T10:39:36	Must have seemed like such a great cover 
+jburnmurdoch	717250819578597376	2016-04-05T07:21:35	🔫🔫🔫🔥🔥🔥 
+jburnmurdoch	717248477416321025	2016-04-05T07:12:17	Favourite line from our interview with one of the Mossack Fonseca partners panamapapers  
+jburnmurdoch	717246639770116096	2016-04-05T07:04:59	FTInvestigations podcast: The Panama Papers  tomburgis examines revelations w/ Tax Justice Network FT 
+jburnmurdoch	717115020367306752	2016-04-04T22:21:58	goonersanti OneShortCorner 😀  Tbf they have several people eyeball it to cross-check, but yeah same fundamental approach
+jburnmurdoch	717113330524151810	2016-04-04T22:15:15	goonersanti OneShortCorner It's geared for eyeballing. Same as Opta
+jburnmurdoch	717009240037191680	2016-04-04T15:21:38	Cosetted Millennials voice discontent with Boomer 
+jburnmurdoch	716988369214050304	2016-04-04T13:58:42	jschwabish derekwillis Should have mentioned, the "swoopy arrow" annotations were done using adamrpearce's d3 add-on
+jburnmurdoch	716984351968378880	2016-04-04T13:42:45	jschwabish Hi Jon, those are updated versions of the three in this piece 
+jburnmurdoch	716968128757018624	2016-04-04T12:38:17	jane__bradley But Jane there's also 📰
+jburnmurdoch	716967938557878272	2016-04-04T12:37:31	grbarnett TroyEricG Careful Troy this sounds ominous 
+jburnmurdoch	716967660773314561	2016-04-04T12:36:25	jane__bradley Don't you mean 🐝🍽
+jburnmurdoch	716837889942814722	2016-04-04T04:00:45	News designers/devs: I'm giving a talk at SND and want to know if you have abandoned journalism. Y or Y not?  sndsf
+jburnmurdoch	716962625305845762	2016-04-04T12:16:25	BuzzFeed summed up perfectly in one NYT ad 
+jburnmurdoch	716921522624077824	2016-04-04T09:33:05	TroyEricG During the first hour of FYHP
+jburnmurdoch	716906573906501632	2016-04-04T08:33:41	El periodismo de datos, forma de añadir valor a coberturas deportivas. jburnmurdoch en FT  
+jburnmurdoch	716737545455943681	2016-04-03T21:22:01	echenty Spot on 😀
+jburnmurdoch	716734455025688576	2016-04-03T21:09:45	echenty "Grand Slam" describes any of the four biggest tournaments of the season. "X was eliminated in the first round at the Y Grand Slam"
+jburnmurdoch	716733811778785280	2016-04-03T21:07:11	echenty If you look at the legend on top left of quadrant of charts, bubble size is tournament importance, unrelated to win/loss
+jburnmurdoch	716732498215059457	2016-04-03T21:01:58	echenty Does that help at all?
+jburnmurdoch	716732368338468865	2016-04-03T21:01:27	echenty Dumb design deserves dumb questions 😜. Vertical axis is aforementioned tournament progress, i.e R128 = round of 128 [players]
+jburnmurdoch	716729250393403392	2016-04-03T20:49:04	RobinKwong alekswis fcage TroyEricG Not even a knoll
+jburnmurdoch	716728194393587712	2016-04-03T20:44:52	echenty Round-reached-in-tournament, over time
+jburnmurdoch	716728081168408576	2016-04-03T20:44:25	echenty Have you read the full piece?
+jburnmurdoch	716721560376197121	2016-04-03T20:18:30	fcage alekswis RobinKwong TroyEricG Don't reinvent the wheel 
+jburnmurdoch	716704315113537536	2016-04-03T19:09:59	RobinKwong alekswis fcage TroyEricG Quick someone make a shaded relief map
+jburnmurdoch	716702155273535490	2016-04-03T19:01:24	Explore how Djokovic's sensational form compares to other great streaks from across the eras  
+jburnmurdoch	716701533778354176	2016-04-03T18:58:55	Djokovic continuing from outstanding 2015, itself arguably best ever season in men's tennis  
+jburnmurdoch	716699536173961217	2016-04-03T18:50:59	Djokovic's tournament results since November 2014: W W QF W F W W W W F W F F W W W W W W W QF W W
+jburnmurdoch	716698898480300032	2016-04-03T18:48:27	The scale of the PanamaPapers leak is unprecedented. (via SZ) 
+jburnmurdoch	716698931846111232	2016-04-03T18:48:35	kasiakovacs +1
+jburnmurdoch	716696560495628288	2016-04-03T18:39:10	Djokovic d. Nishikori 6-3 6-4 Djokovic win streaks 24 sets 14 matches 22 matches at Masters 16 at Miami Masters 12 vs Top 10 30 vs Nos. 4-20
+jburnmurdoch	716695975146946560	2016-04-03T18:36:50	alekswis RobinKwong fcage TroyEricG Quant &amp; qual not mutually exclusive. Also true of the Parks *reports self* 
+jburnmurdoch	716693909318066177	2016-04-03T18:28:38	basilesimon Sweet, definitely up for a session there at some point
+jburnmurdoch	716691518447362048	2016-04-03T18:19:08	basilesimon Bouldering or ropes?
+jburnmurdoch	716691057329704960	2016-04-03T18:17:18	basilesimon The best kind
+jburnmurdoch	716689446968672256	2016-04-03T18:10:54	alekswis For future reference. cc RobinKwong fcage TroyEricG 
+jburnmurdoch	715875150890188800	2016-04-01T12:15:10	Thrilled by all the great people who have joined ftdata recently: joannaskao manib0g BillyEhrenberg davidbjourno federicacocco
+jburnmurdoch	716670908212056066	2016-04-03T16:57:14	Special moment: two World Champions on top of the podium! RVV 
+jburnmurdoch	716673294242549760	2016-04-03T17:06:43	Sympathies must go out to Ben Stokes. Bowling that last over in a World T20 Final is like taking all six penalties in a WC final shootout.
+jburnmurdoch	716672549367758849	2016-04-03T17:03:45	Well.
+jburnmurdoch	716654163527131136	2016-04-03T15:50:42	patternproject Tough one, loads of variables. Who batted 1st is key as u say, but also whether victory primarily due to batting or bowling
+jburnmurdoch	716651436151545860	2016-04-03T15:39:51	patternproject Good point, would be interesting to include. My impression is Gayle does this a lot, for RCB too.
+jburnmurdoch	716651107108450305	2016-04-03T15:38:33	🔑💀
+jburnmurdoch	716649521695076353	2016-04-03T15:32:15	Welp. Gayle out early again. Simmons becomes key man for Windies
+jburnmurdoch	716642823903264772	2016-04-03T15:05:38	England post 155, Root vital as anticipated with 54. Gayle &amp; Simmons key batsmen now for West Indies WT20Final 
+jburnmurdoch	716638705138708481	2016-04-03T14:49:16	ICYMI: pre-race reading ahead of BahrainGP: has Formula One become less competitive?  dataviz
+jburnmurdoch	716622139961577472	2016-04-03T13:43:27	Hales out = huge blow to England, who will now look to Root. Here's how top batsmen in the WT20Final compare 
+jburnmurdoch	716554481601744896	2016-04-03T09:14:36	Quick show of hands: Who's in Perugia next week for the journalismfest and wants to chat about visual storytelling and dataviz? ✋
+jburnmurdoch	716192785892786176	2016-04-02T09:17:21	tommacinnes Impressive yellow/green theme going on with the food &amp; drink!
+jburnmurdoch	714819661276323840	2016-03-29T14:21:02	Another excellent Gilligan piece  
+jburnmurdoch	715871118708629505	2016-04-01T11:59:09	Big ftdata welcome to the 💯💯💯 joannaskao, who is joining our NYC team as a dataviz journo 📈📊📉 
+jburnmurdoch	715866023115812864	2016-04-01T11:38:54	alanacoates moklick Searingly hot take...
+jburnmurdoch	715861587886784512	2016-04-01T11:21:17	robertstats albertocairo monfera I have a dormant ft animated ternary snail trail project that remains in my 'drafts' folder. One day...
+jburnmurdoch	715860843532054529	2016-04-01T11:18:19	maartenzam But the legend doesn't change orientation pedant
+jburnmurdoch	715839786825752576	2016-04-01T09:54:39	grbarnett TroyEricG Strong sweater game @ Guardian data/visuals
+jburnmurdoch	715799137556566016	2016-04-01T07:13:07	Wow, I had no idea that Joe Root is a closet mathematician. 
+jburnmurdoch	715803147894198272	2016-04-01T07:29:04	theneilrichards AnalyseSport I also over-egged the headline tbh. More a measure of importance to team than ability relative to the rest
+jburnmurdoch	715799326140854272	2016-04-01T07:13:52	AnalyseSport Agreed on averages, hence the innings-by-innings data on the second plot. I'll see about adding home/away or continental split
+jburnmurdoch	715796617471901696	2016-04-01T07:03:07	Small multiple snail trails!  Very nice, by PostGraphics 
+jburnmurdoch	715796856836603904	2016-04-01T07:04:04	ICYMI: Virat Kohli is the best T20 international batsman around, and it's not even close  
+jburnmurdoch	715622312998014981	2016-03-31T19:30:29	"Any indirect adverse effect on women is a proportionate means of achieving a  legitimate aim". Well shit.  
+jburnmurdoch	715587458289823744	2016-03-31T17:11:59	CskFor 😳 
+jburnmurdoch	715587090138972160	2016-03-31T17:10:31	8Sarmad Strong typo innings there 😜
+jburnmurdoch	715585861119832064	2016-03-31T17:05:38	India fans: if it's any consolation, Virat's work with the bat was so good, he literally went off the chart 
+jburnmurdoch	715561019595218944	2016-03-31T15:26:56	How about individual performances? Here are the v best T20I batting efforts: Virat vs Gayle, McCullum, Jayawardene 
+jburnmurdoch	715560501355364353	2016-03-31T15:24:52	What happens if we use a better T20 indicator: raw runs/innings instead of batting average? He's still the best 
+jburnmurdoch	715560193141112832	2016-03-31T15:23:39	NEW, and right on cue: Virat Kohli is the best batsman in international Twenty20  ICCWT20 
+jburnmurdoch	715445052936466433	2016-03-31T07:46:07	That is a drop mic moment.   Beautiful. 
+jburnmurdoch	715443034435891201	2016-03-31T07:38:06	throwbackthursday 
+jburnmurdoch	715267813049507841	2016-03-30T20:01:50	OH: is this the next Snowfall? drink
+jburnmurdoch	715234702903402496	2016-03-30T17:50:16	Note how pattern supports MattSingh_ analysis: high 'remain' figures in telephone polls coincide w/low 'undecided', rather than low 'leave'
+jburnmurdoch	715234136198418433	2016-03-30T17:48:01	UPDATED: our Brexit polltracker now highlights telephone vs online polls  
+jburnmurdoch	715170873355943937	2016-03-30T13:36:38	Oh maaaan. Reading thru OpenVisConf schedule and looks like my NICARGH experience is gonna be repeated, only worse 
+jburnmurdoch	715163381913817088	2016-03-30T13:06:51	ICYMI must-read pieces on new thetimes site/apps     via peduarte
+jburnmurdoch	715097875080982528	2016-03-30T08:46:33	Fascinating - Times gives up on doing breaking news. FT has gone other way with fastFT etc  
+jburnmurdoch	715135043807678464	2016-03-30T11:14:15	KateDobinson Cheers Kate! Feel like I rambled a bit, but so much to discuss on this topic!
+jburnmurdoch	715128063642771456	2016-03-30T10:46:31	I spoke to rojastorrijos about potential for smart use of data in sports journalism Words in English &amp; Español ddj 
+jburnmurdoch	715127496207949826	2016-03-30T10:44:16	DanKennett Cheers Dan!
+jburnmurdoch	715087030749962241	2016-03-30T08:03:28	The_Woolster More that the FT stuff shared by non-FT people is where you'll find the real gold  😜
+jburnmurdoch	714901169856974848	2016-03-29T19:44:55	benheubl TheEconomist Awesome! Give me a shout if you need anything else 🙂
+jburnmurdoch	714885191085514752	2016-03-29T18:41:26	benheubl Hey Ben, yeah d3 to program them, screen recorder to get the animations out
+jburnmurdoch	714846452279877632	2016-03-29T16:07:30	abrams Outstanding app, btw!
+jburnmurdoch	714045695896981504	2016-03-27T11:05:34	NEW: by edafootball: THFC have become a ruthless defensive machine. How? Counterpressing.  
+jburnmurdoch	714837393917001733	2016-03-29T15:31:30	Awesome to see wht appears to be ColorBrewer palette in action in kirkgoldsberry shot maps  
+jburnmurdoch	714834385732833281	2016-03-29T15:19:33	SteMc74 Thanks, very kind!
+jburnmurdoch	714832047999688709	2016-03-29T15:10:15	💯 post from inimitable mixedknuts, ft. this on why ⚽️ cant have kirkgoldsberry 🏀 shot maps  
+jburnmurdoch	714830078069317634	2016-03-29T15:02:26	amonck I emailed them too :-)
+jburnmurdoch	714828381230116864	2016-03-29T14:55:41	😂😂😂 URL for "print ain't dead" event contains an exclamation mark so basically 404 error o'clock ! HT adamwithnall
+jburnmurdoch	714789687207059456	2016-03-29T12:21:56	GregorydSam Thanks Sam 😀
+jburnmurdoch	714784941645643776	2016-03-29T12:03:04	rschallom Yup, storing those ones somewhere is still fine, but pieces from other sites [to the tweeter] = best guarantee of "must read" imo
+jburnmurdoch	714783918608805888	2016-03-29T11:59:00	unfitforpurpose The inter-league adjustments are done after every round of continental matches, I'm jst using snapshots frm end of each ssn
+jburnmurdoch	714777567547498496	2016-03-29T11:33:46	Sharing a piece from your own backyard is often "Oh yeah we just published that thing, better share it"
+jburnmurdoch	714777413801127936	2016-03-29T11:33:10	Why? Because *generally* sharing a piece from elsewhere = "Everyone read this it's great", whereas
+jburnmurdoch	714777306515050497	2016-03-29T11:32:44	.Nuzzel feature request: allow user to filter out shares by friends if the name of the news org whose piece they're sharing is in their bio
+jburnmurdoch	714766981325570048	2016-03-29T10:51:42	SBienkowski np, means I need to make that clearer next time 😊
+jburnmurdoch	714766689729191942	2016-03-29T10:50:33	SBienkowski Follow the asterisk... 
+jburnmurdoch	714761073543540737	2016-03-29T10:28:14	SimonGleave Agreed, great tools either for disproving or confirming narratives.
+jburnmurdoch	714757178356269058	2016-03-29T10:12:45	SimonGleave Happy to discuss more either on here or different channels if preferred 😊
+jburnmurdoch	714756768698671106	2016-03-29T10:11:07	SimonGleave Defs agree similar narratives wld emerge w/ different methods! My pt was that I know CE tries to deal w/ closed system problem
+jburnmurdoch	714756392557617153	2016-03-29T10:09:38	SimonGleave I've read ECI stuff but nt sure how u do this adjustment, so not including ECI in such a comparison
+jburnmurdoch	714756351029862400	2016-03-29T10:09:28	SimonGleave Sorry, clarification: better than other methods *that I know of*.
+jburnmurdoch	714754204225695746	2016-03-29T10:00:56	SimonGleave Follow the thread :-)
+jburnmurdoch	714754088370573313	2016-03-29T10:00:28	unfitforpurpose e.g Ligue 1 2005 vs Ligue 1 2016 
+jburnmurdoch	714753319584006145	2016-03-29T09:57:25	unfitforpurpose But w/ inter-league adjustments, can have 2 leagues/ssns where top clubs have same strength, but rest of league v different
+jburnmurdoch	714753252429049857	2016-03-29T09:57:09	unfitforpurpose If each league was closed system, then yeah in order to have a few super strong teams, rest of league would have to suffer
+jburnmurdoch	714753152692699141	2016-03-29T09:56:45	unfitforpurpose So this was my initial suspicion, but clubelo handles that possible pitfall much better than others imo
+jburnmurdoch	714750890150862849	2016-03-29T09:47:46	jasonleefrench Thanks!
+jburnmurdoch	714747675355295744	2016-03-29T09:34:59	Beyond thrilled to be joining this all-star team! martinstabe jburnmurdoch alekswis 
+jburnmurdoch	714728423529324546	2016-03-29T08:18:29	unfitforpurpose Lots of methodology detail on 
+jburnmurdoch	714722269529042944	2016-03-29T07:54:02	theneilrichards These were all done in d3js, with screen recording for the videos/GIFs
+jburnmurdoch	714722045192437762	2016-03-29T07:53:09	steviejrich I do... 😪
+jburnmurdoch	714719286779060224	2016-03-29T07:42:11	footalitaire Merci beaucoup!
+jburnmurdoch	714714927739617281	2016-03-29T07:24:52	Jonny_Singer Cheers Jonny!
+jburnmurdoch	714714728359149569	2016-03-29T07:24:04	counterattack9 Cheers Paul, yeah all d3. Simple screen recorder for the videos/GIFs
+jburnmurdoch	714712365137334276	2016-03-29T07:14:41	Premier League is exciting but has no team in Europe's top 10 for 1st time in 20 yrs  afc 
+jburnmurdoch	711319900862545920	2016-03-19T22:34:14	This is Trump at 49 percent with whites, with everything else at 2012 levels.  
+jburnmurdoch	714705116625027073	2016-03-29T06:45:53	NEW: explore the changing tides of European footballing power in 128(!) charts and 3 GIFs  dataviz
+jburnmurdoch	714572057397346304	2016-03-28T21:57:09	UTVilla Thnx!
+jburnmurdoch	714571728165466116	2016-03-28T21:55:50	maartenzam Super useful, thnx! Yeah aim with annotating clubs was to give the charts an instantly recognisable object, bring the reader in
+jburnmurdoch	714568988395700227	2016-03-28T21:44:57	albertocairo maartenzam tiki_taka_co Scribblr_42 Thanks so much, folks!
+jburnmurdoch	714568190005800961	2016-03-28T21:41:47	maartenzam The videos/GIFs were made specifically for social media, but may add to the piece later. Related: 
+jburnmurdoch	714567490077134848	2016-03-28T21:39:00	maartenzam That particular one went in print today, but 3x3 from 2008 instead of 4x4 from 2001. Will try to grab a pic of it 2mo
+jburnmurdoch	714541968890728453	2016-03-28T19:57:35	basilesimon Bouldering, burgers and bublishing
+jburnmurdoch	714538869027430400	2016-03-28T19:45:16	Great stuff from gabrieldance. Couldn't agree more about creating for specific platforms  
+jburnmurdoch	714526828795441153	2016-03-28T18:57:25	basilesimon Possibly...
+jburnmurdoch	714520367721750528	2016-03-28T18:31:45	benlcollins d3. Didn't know you were working with GA - awesome!
+jburnmurdoch	714518395597799424	2016-03-28T18:23:55	monfera adamrpearce Small multitudes
+jburnmurdoch	714517474214027264	2016-03-28T18:20:15	tophtucker dw I still consider this Charticle Prime:  😀
+jburnmurdoch	714516167545733120	2016-03-28T18:15:04	benlcollins Cheers Ben, glad you enjoyed it!
+jburnmurdoch	714516011827994625	2016-03-28T18:14:26	adamrpearce Also I added a text-anchor start/end toggle to swoopy drag
+jburnmurdoch	714515709842341889	2016-03-28T18:13:14	adamrpearce 😀 Alt headline: The changing tide of European footballing power in 128 charts
+jburnmurdoch	714478728961789952	2016-03-28T15:46:18	So thrilled to say JillAbramson has joined GuardianUS to write about politics. I can't think of a stronger byline to cover 2016
+jburnmurdoch	714510776892014592	2016-03-28T17:53:38	Scribblr_42 😀 cheers dude! That was the last of several experiments -- my usual serendipitous approach
+jburnmurdoch	714509348693753856	2016-03-28T17:47:58	monfera 😀 Glad that's how you interpreted it! Exactly my intention. Fairly busy chart, so wanted to get across how to read its fundamentals
+jburnmurdoch	714508333185687552	2016-03-28T17:43:56	That's not a charticle, this is a charticle. Fin. 
+jburnmurdoch	714507724579581952	2016-03-28T17:41:31	sarahlaitner 😀
+jburnmurdoch	714506717225201664	2016-03-28T17:37:30	Big shout-out to clubelo, too, whose amazing site I used for this analysis. It has an API and everything. 
+jburnmurdoch	714503655198744576	2016-03-28T17:25:20	And while I'm at it, here's the quality gap between the Premier League and La Liga, over 16 years 
+jburnmurdoch	714502328766869504	2016-03-28T17:20:04	One of the most striking bits: PSG are now the aristocracy to the rest of Ligue 1's proletariat ViveLaRevolution 
+jburnmurdoch	714500467657740290	2016-03-28T17:12:40	VIDEO: watch the changing tides of European footballing power Full charticle here  dataviz 
+jburnmurdoch	714497801246392321	2016-03-28T17:02:05	NEW: Premier League is thrilling, but has no team in Europe's top 10 for 1st time in 20 yrs  
+jburnmurdoch	714444901602234369	2016-03-28T13:31:52	What we face today is a vast stream of replicated information built to collect and retain viewers at all costs. 
+jburnmurdoch	714169253193191425	2016-03-27T19:16:33	GregorydSam Can't blame you for not sticking around tbh! 😜
+jburnmurdoch	714108296551133184	2016-03-27T15:14:20	GregorydSam Wait no way, I was in Doncaster this weekend (back home visiting the folks for Easter). Insanely small world!
+jburnmurdoch	713854726262140928	2016-03-26T22:26:44	maartenzam monfera eagereyes This is changing though 😀
+jburnmurdoch	713854429934526464	2016-03-26T22:25:33	maartenzam monfera eagereyes Right or wrong*, we've traditionally tended not to do bylines for static graphics *wrong
+jburnmurdoch	713852382749278208	2016-03-26T22:17:25	monfera maartenzam I owe so much to ggplot2 in terms of chart type discovery
+jburnmurdoch	713851970218496005	2016-03-26T22:15:47	maartenzam monfera eagereyes One day I'll tell story of behind-the-scenes negotiations for the ones in this piece 
+jburnmurdoch	713851299792601090	2016-03-26T22:13:07	maartenzam monfera eagereyes But next line is: "they do make some specific mistakes &amp; dnt make same # of inferences about correlation" 😜
+jburnmurdoch	713848906187206656	2016-03-26T22:03:36	monfera maartenzam Few cases [like this] where they work V well. High cognitive load unless story super clear &amp; familiar subject matter
+jburnmurdoch	713790114602754048	2016-03-26T18:09:59	Here's some cyber-whimsy for your Saturday morning—how to make bots, ethically: 
+jburnmurdoch	713636662245363712	2016-03-26T08:00:13	Advice for data journalists: "The story you run is the story that survives your best attempts to discredit it.” 
+jburnmurdoch	713409218867388416	2016-03-25T16:56:26	Perfect day for the simple joys of aimlessly launching a football back and forth for an hour… 
+jburnmurdoch	713378650016583680	2016-03-25T14:54:58	Sam_Jackson94 footballfactman DanKennett 👏👏👏
+jburnmurdoch	713376744179384320	2016-03-25T14:47:24	*NEW BLOG* My first real analysis of shot-stopping mixes parrying data with footballfactman's Expected Saves work 
+jburnmurdoch	713340817855877120	2016-03-25T12:24:38	Here's POLITICO's recording of Abdeslam's lawyer Sven Mary confirming client's interrogation  
+jburnmurdoch	713331013661884417	2016-03-25T11:45:41	dats ❤️
+jburnmurdoch	713324681789628416	2016-03-25T11:20:31	tara_mulholland moniker42 Oh I'll definitely be re-bumping for the Tuesday primetime
+jburnmurdoch	713324079168765953	2016-03-25T11:18:08	moniker42 I need to bring it to the larger daytime audience. Joke analytics are the most important analytics
+jburnmurdoch	713323600162525184	2016-03-25T11:16:13	Guyz 
+jburnmurdoch	713162059190501376	2016-03-25T00:34:19	Damn Emily Thornberry back at it again with the white vans
+jburnmurdoch	713111692159221761	2016-03-24T21:14:11	jane__bradley No regrets
+jburnmurdoch	712993188336766976	2016-03-24T13:23:17	Exclusive: The N.F.L. played down the risk of head injuries using research that it falsely claimed was comprehensive 
+jburnmurdoch	712461886885896193	2016-03-23T02:12:05	"Millennials—the demographic group also known as Generation Y, Generation Me, and Daesh" 
+jburnmurdoch	712623389496754176	2016-03-23T12:53:50	Listen out for visualisingdata's great pun about "setting a low bar", which I felt went under-appreciated by the hosts 📊😂
+jburnmurdoch	712622078697086981	2016-03-23T12:48:38	Really recommend the latest datastories episode with visualisingdata &amp; Helen Kennedy on dataviz literacy 
+jburnmurdoch	712417552815820801	2016-03-22T23:15:55	The 2 geogeek mustreads of the day align in my timeline  and  
+jburnmurdoch	712397270986182656	2016-03-22T21:55:19	The Republicans.  
+jburnmurdoch	712288692862320641	2016-03-22T14:43:52	adamrpearce Ha, what can I say -- it both performs a massively useful function &amp; fits seamlessly into the workflow. Glad I did it justice!
+jburnmurdoch	712281827050971140	2016-03-22T14:16:35	DrSimEvans _rospearce For map e.g you sent, they'd be standard d3 paths + single block of ~8 lines code for arrowheads. Can DM if u want
+jburnmurdoch	712279090053652484	2016-03-22T14:05:43	DrSimEvans If you or colleague has d3 experience, definitely least labour intensive. Can do paths &amp; arrows just like any other SVG shape.
+jburnmurdoch	712277671921770496	2016-03-22T14:00:05	FoEconomics DrSimEvans I wouldn't recommend Pixlr for data-driven stuff (line thicknesses in this case). Inkscape &amp; d3 are free too :-)
+jburnmurdoch	712277280618315776	2016-03-22T13:58:31	DrSimEvans Perhaps start from there, but set the arrows' stroke-width based on your flow data?
+jburnmurdoch	712276799842086916	2016-03-22T13:56:37	DrSimEvans albertocairo One possible starting point could be adamrpearce's wonderful tool for annotations+arrows 
+jburnmurdoch	712275792395370496	2016-03-22T13:52:37	DrSimEvans albertocairo As in the flows? I'd be surprised if there's a tool, per se. Illustrator, Inkscape or d3 would be best bets imo.
+jburnmurdoch	712239453570506752	2016-03-22T11:28:13	Awesome from BBGVisualData. Benchmark for charticles in 2016  
+jburnmurdoch	712197776801714178	2016-03-22T08:42:36	Thoughts with all of Brussels. I remember the panic of realising my brother could have been caught up in 7/7. All so distant until it's not.
+jburnmurdoch	712196173730353152	2016-03-22T08:36:14	Some background on the great work of DigitalKay fionasymon AimeePKeane and many others behind ftpodcasts: 
+jburnmurdoch	712177086287454208	2016-03-22T07:20:23	NEW: fears over oil &amp; gas debt, featuring connected-scatters &amp; swoopy annotations  dataviz 
+jburnmurdoch	712010397381992448	2016-03-21T20:18:01	Digital writer of the year is federicacocco! wbwawards
+jburnmurdoch	712029959624200193	2016-03-21T21:35:45	NEW: fears over oil &amp; gas debt, with connected-scatter plots &amp; swoopy annotations  dataviz 
+jburnmurdoch	711882421059371008	2016-03-21T11:49:29	TroyEricG adamrpearce I need Swoopy Drag™️ for real life.
+jburnmurdoch	711880998695346176	2016-03-21T11:43:50	TroyEricG All thanks to 
+jburnmurdoch	710183785548161024	2016-03-16T19:19:43	good luck getting home DC   thanks alykat  for inspiration/code 
+jburnmurdoch	711827798143463425	2016-03-21T08:12:26	Awesome to see latimes write a piece around theboysmithy's fantastic chart on US income distribution 
+jburnmurdoch	711605660190777345	2016-03-20T17:29:45	America's explosion of income inequality, in one amazing animated chart 
+jburnmurdoch	711656252854538240	2016-03-20T20:50:47	Serena Williams puts Indian Wells CEO and tournament director Raymond Moore on BLAST. 
+jburnmurdoch	711818108718227456	2016-03-21T07:33:56	MercedesAMGF1 Thanks for sharing the piece! 😀
+jburnmurdoch	711814941653798912	2016-03-21T07:21:21	First use of adamrpearce's awesome d3js annotations add-on there. More charts in the piece 😀
+jburnmurdoch	711812799266222081	2016-03-21T07:12:50	NEW: has Formula One become less competitive?  AUSGP dataviz 
+jburnmurdoch	711663640026456064	2016-03-20T21:20:08	Misikotwits jonhew CharlotteAGB djknowles22 JeremyNEvans 👏👏👏👏🐞🍴
+jburnmurdoch	711206927750053889	2016-03-19T15:05:19	The Rest Is Advertising - "there is money  in journalism. It’s just woefully misallocated" 
+jburnmurdoch	711593179884167168	2016-03-20T16:40:09	I took my sweet time, but have finally written up my notes &amp; thoughts from tapestryconf and NICAR16  ddj dataviz
+jburnmurdoch	711549515787083776	2016-03-20T13:46:39	Job: qz looking for a London reporter to join QuartzThings team which focuses on data-driven and visual journalism 
+jburnmurdoch	711229569722916864	2016-03-19T16:35:18	Big news about old news: I've started a TinyLetter to share beautiful old infographics.  
+jburnmurdoch	710991254742560768	2016-03-19T00:48:19	grbarnett mikesmithc4 elenacresci jane__bradley adamwithnall LouDelBello alexglynn1 ffffelix who dis
+jburnmurdoch	710991093576409092	2016-03-19T00:47:40	mikesmithc4 😀👍💯❤️❤️❤️
+jburnmurdoch	710942492963807241	2016-03-18T21:34:33	A goal for all of Flamingo Land
+jburnmurdoch	710814652888907776	2016-03-18T13:06:34	Boston Dynamics vs Texas Instruments TechBrandsAsSportsFranchises
+jburnmurdoch	710805486531117056	2016-03-18T12:30:08	elenacresci dats Tbh Len the fact that you could not read is more a failing of the education system than the FT's paywall
+jburnmurdoch	710727257946525696	2016-03-18T07:19:17	Going to keep tweeting these as so much work went into it River workers  via FT 
+jburnmurdoch	710504365258379264	2016-03-17T16:33:35	FletchMK64 I'm afraid you've been narrowly beaten to it: 
+jburnmurdoch	710503288949571585	2016-03-17T16:29:19	DannyPage 👏👏👏
+jburnmurdoch	710502230730928128	2016-03-17T16:25:06	Nearly done:  isNuN("Mother Teresa") true
+jburnmurdoch	710501555443785730	2016-03-17T16:22:25	Important addendum:  isNooN(new Date(2016,2,10,12)) true
+jburnmurdoch	710500490396758016	2016-03-17T16:18:12	Really handy javascript functions 
+jburnmurdoch	710483071221555200	2016-03-17T15:08:58	SCOOP: Vice Media makes content for brands. It's latest client? Philip Morris International.  
+jburnmurdoch	710480128808243200	2016-03-17T14:57:17	maartenzam Yeah it was during recap of monicaulmanu talk that we were shown lindsay_poulton piece on dance
+jburnmurdoch	710475878065696768	2016-03-17T14:40:23	maartenzam theboysmithy I'll stamp my feet and throw my toys around if I can't go next year!
+jburnmurdoch	710474939145527296	2016-03-17T14:36:40	💯💯💯 from lindsay_poulton &amp; team to get around limitations of video on iOS. Text over GIFs as you scroll  malofiej24
+jburnmurdoch	710471489447972864	2016-03-17T14:22:57	.theboysmithy is sharing highlights from NICAR16 with ft graphics team, and my worst FOMOs are being confirmed. Peak NICARGH
+jburnmurdoch	710438025977843712	2016-03-17T12:09:59	maartenzam Ha! Hadn't even spotted that part. I think we can both figure out what they mean, but certainly has the potential for confusion!
+jburnmurdoch	710418324828594176	2016-03-17T10:51:42	Slightly thrown by the juxtaposition of heaped/vs non-heaped teaspoons units in this one, but other than that 👍👍👍 
+jburnmurdoch	710417988873232384	2016-03-17T10:50:22	Great interactive quiz from ABCaustralia   via martinstabe
+jburnmurdoch	710038732880089089	2016-03-16T09:43:20	«By and large every piece of journalism should be explanatory journalism.» – DLeonhardt 
+jburnmurdoch	710092085215555584	2016-03-16T13:15:20	52% of AirBnB listings in London are for entire homes; 40% of those are from hosts with multiple listings 
+jburnmurdoch	710226759871012867	2016-03-16T22:10:29	They'll be dancing on the streets of Gloucester Place tonight 
+jburnmurdoch	710201042680598530	2016-03-16T20:28:18	OneShortCorner Unfortunately I think that would only hasten the end...
+jburnmurdoch	710200744121671681	2016-03-16T20:27:06	GoonerMentality Italy are trying to catch England and take Premier League's 4th CL spot for 2017/18. More details: 
+jburnmurdoch	710200227505037312	2016-03-16T20:25:03	Related: 
+jburnmurdoch	710199508391620608	2016-03-16T20:22:12	Like the rest of you, I'm focusing on Bayern v Juve because of its significance for England's Glorious Coefficient™️. A swing-state of a tie
+jburnmurdoch	710089691136180224	2016-03-16T13:05:49	adamrpearce ... but on second thoughts feels like that doesn't really offer anything that your approach doesn't :-)
+jburnmurdoch	710089523460440064	2016-03-16T13:05:09	adamrpearce Amazing work! Other thing I've always wondered about is some way of making the copy(annotations) part actually download a CSV
+jburnmurdoch	710023060984877056	2016-03-16T08:41:03	NEW POST: Announcing the winner of the graphiti contest  
+jburnmurdoch	709841538600329216	2016-03-15T20:39:45	swoopyDrag - artisanal label placement for d3 graphics   
+jburnmurdoch	710015657799229440	2016-03-16T08:11:38	Enjoyed SSAC16. Met great people there. The brand is strong. But.. hopefully more research &amp; case studies next year 
+jburnmurdoch	709925337988255745	2016-03-16T02:12:45	I have to tell you, we are just getting killed on grammar. They are eating our grammar for lunch. 
+jburnmurdoch	709900545784487936	2016-03-16T00:34:14	caleypolitics I thought that too
+jburnmurdoch	709810063960121344	2016-03-15T18:34:41	Awesome new project from WSJGraphics, complete with Methodology Bit™  
+jburnmurdoch	709777207548375040	2016-03-15T16:24:07	jamestitcomb The struggle continues 
+jburnmurdoch	709775995356708864	2016-03-15T16:19:18	"Lol you did Geography, isn't that just colouring in?" Me: *learns d3js so I can do "just colouring in" as a job* 
+jburnmurdoch	709743465526120452	2016-03-15T14:10:03	Why Trump doesn't buy much advertising, in one chart.   
+jburnmurdoch	709627509017600000	2016-03-15T06:29:17	Here's the lowdown on latest TennisRacket scoop by BuzzFeedNews, BBCNews &amp; sole24ore  
+jburnmurdoch	709398447808516096	2016-03-14T15:19:04	visualisingdata DannyPage Scribblr_42 TimBrock_DtD Worville camoesjo I have decided to go with 
+jburnmurdoch	709398105649717248	2016-03-14T15:17:43	Thank you everyone, you did not disappoint 
+jburnmurdoch	709394178191532032	2016-03-14T15:02:06	When u email "hi", and get "dear" in reply, do you have to reply "dear"?  (anyone replying "dear" to this tweet will be blocked &amp; reported)
+jburnmurdoch	709233537518608385	2016-03-14T04:23:46	I can't stand with an organization that won't stand by me: 
+jburnmurdoch	709118238655959041	2016-03-13T20:45:37	Addendum - histogram of pts from my sim of LCFC's 2nd half of 2014-15. 32 points or 1.7 PPG was most likely (just). 
+jburnmurdoch	709068717649469443	2016-03-13T17:28:50	all their matches suggested that an even higher point total was a more likely outcome, given how they played. (2/2) 
+jburnmurdoch	709068397737328640	2016-03-13T17:27:34	Had some queries about Leicester. In 2nd half of 2014-15, they were 9th in PPG and 7th in xGD in my shot model. But my simulation of (1/2)
+jburnmurdoch	709085085711142913	2016-03-13T18:33:53	xG map for Arsenal-Watford.   Yuuuuuup. 
+jburnmurdoch	706285257121624064	2016-03-06T01:08:22	Racial resentment increases support for Trump, but not for Rubio. Created with newly relesed data from ANES 2016. 
+jburnmurdoch	709079616976232448	2016-03-13T18:12:09	Bahahahaha. This thing now has over 50 maps and over 20 folks in the byline.  
+jburnmurdoch	708980130153152513	2016-03-13T11:36:49	Here's some of altmandaniel ratings work that I'm referring to there 
+jburnmurdoch	708976698067394560	2016-03-13T11:23:11	FTR that was general cheap lols, no altmandaniel dig intended. Dan's player ratings work remains best around &amp; he's directly helped me out.
+jburnmurdoch	708968317114048512	2016-03-13T10:49:53	SimonGleave AnalyseSport Okay let's leave it there, enough childishness from us for one morning 😀
+jburnmurdoch	708967143556190208	2016-03-13T10:45:13	SimonGleave AnalyseSport Your mistake was to actually show your prediction and not just say you had made it
+jburnmurdoch	708966246629384192	2016-03-13T10:41:39	SimonGleave AnalyseSport Hmmmm 
+jburnmurdoch	708964155194269696	2016-03-13T10:33:21	SimonGleave Gonna need a timestamp, Simon. Based on the light reflecting off the ink I'd say that was late last night.
+jburnmurdoch	708963563356999685	2016-03-13T10:31:00	AnalyseSport SimonGleave I'm just trying to put things in accessible terms that non-experts can understand
+jburnmurdoch	708963069402202112	2016-03-13T10:29:02	Interesting, just turned it over and on the other side I had Sanders down for Michigan 
+jburnmurdoch	708962400540745728	2016-03-13T10:26:22	michieldehoog SimonGleave Interesting, sounds like our models have similar inputs.
+jburnmurdoch	708961992401424384	2016-03-13T10:24:45	SimonGleave Just found a piece of paper where I'd scribbled down Leicester top, Trump dominating and AlphaGo losing the fourth game
+jburnmurdoch	707864296450080768	2016-03-10T09:42:54	More thoughts on the ethics of datascience: sexist algorithms  HetanShah maltbyps HelenMargetts CharlotteHollo
+jburnmurdoch	708782198531330052	2016-03-12T22:30:19	Slides  + code  for my talk "Command Line Graphics" cc MacDiva 
+jburnmurdoch	708769253936254976	2016-03-12T21:38:53	Now this is a brilliant use of an editorial gif.  
+jburnmurdoch	708510153218334720	2016-03-12T04:29:18	Breitbart's ex-spokesman goes on CNN and flat out says they're lying to protect Trump. 
+jburnmurdoch	708750904246280196	2016-03-12T20:25:58	heidikahkonen macloo +1!
+jburnmurdoch	708688542289911808	2016-03-12T16:18:09	Here are the slides of my lightning talk on interactive news at NICAR16 
+jburnmurdoch	708692846929379328	2016-03-12T16:35:16	Simply fantastic post about AlphaGo and what it shows about AI risk from ESYudkowsky.  
+jburnmurdoch	707579113972895745	2016-03-09T14:49:41	Outstanding report on data journalism by SamanthaSunne  ddj opengov 
+jburnmurdoch	708680665504460800	2016-03-12T15:46:51	Damn - another outstanding talk by lenagroeger -  featuring “rhetorical scroll” and simulators in gifs
+jburnmurdoch	708451911004000257	2016-03-12T00:37:52	The globeandmail's seriously bad-ass chart making tool is now open source 
+jburnmurdoch	707251906087755778	2016-03-08T17:09:29	Having money gives you the luxury of paying less for things: 
+jburnmurdoch	708677065499938816	2016-03-12T15:32:33	Is Twitter making us more productive? / bencasselman  
+jburnmurdoch	708674416322998272	2016-03-12T15:22:02	Victoria Park is the best park 
+jburnmurdoch	708653856620748800	2016-03-12T14:00:20	In Bloemfontein, WaydeDreamer has become history's first sub-10/20/44 sprinter:   . 
+jburnmurdoch	708611036304318464	2016-03-12T11:10:11	How journalists can use IFTTT to streamline digital reporting 
+jburnmurdoch	708497282107383810	2016-03-12T03:38:09	"Escalating aggression marks Trump's rally rhetoric" Devastating compilation of Trump egging on supporters  fm msnbc
+jburnmurdoch	708393144635621376	2016-03-11T20:44:21	Delighted to see ft shape-shifting US income animation win silver in social media category at malofiej24 awards 
+jburnmurdoch	708318438524133376	2016-03-11T15:47:30	The Washington Post is trying to make it easier to read long features 
+jburnmurdoch	708339670682304514	2016-03-11T17:11:52	AWARDS LIST Malofiej24 
+jburnmurdoch	708305355273539585	2016-03-11T14:55:31	SimonGleave As in more interactives in Guardian? Or NYT?
+jburnmurdoch	708296040575844353	2016-03-11T14:18:30	Wow. Missed this from Russian sports minister on meldonium 
+jburnmurdoch	708054145484374016	2016-03-10T22:17:17	Maria Sharapova’s racket sponsor Head ‘highly cynical’, says David Millar  By seaningle
+jburnmurdoch	708264936187809793	2016-03-11T12:14:54	This. 'Animated' &amp; 'dynamic' can be done without user action. In most cases 'interactive' = making user do your work 
+jburnmurdoch	708262161710256128	2016-03-11T12:03:52	How the mobile-first world has changed the way nytgraphics does dataviz infographics. archietse at malofiej24 
+jburnmurdoch	708197953228308480	2016-03-11T07:48:44	Great piece by emmavj on shared parental leave and the new generation of pioneering fathers taking it up (free)  FT
+jburnmurdoch	708030924189859841	2016-03-10T20:45:01	Dear Data and FiveThirtyEight want you to visualize your podcast habits:  
+jburnmurdoch	708191651563331584	2016-03-11T07:23:41	No piece of visual journalism is created in a vacuum, and we all ❤️ each other's work, so let's say it! Here ends my NICARGH ⚡️ talk.
+jburnmurdoch	708189707323084802	2016-03-11T07:15:58	Also, love the way morgenpost credit external collaborators and sources of inspiration. We should all do this! 
+jburnmurdoch	708189010749820928	2016-03-11T07:13:12	Outstanding NiemanLab piece on creating interactives/visuals that really thrive on mobile  
+jburnmurdoch	707965570214330368	2016-03-10T16:25:19	Man, future generations will honor TroyEricG for his obsessive documentation of our industry's work.  NICAR16
+jburnmurdoch	707956408948490240	2016-03-10T15:48:55	We must fight against “Xenographphobia”, the fear of unusual graphics. Let's experiment with novel visual forms maartenzam malofiej24
+jburnmurdoch	708068234856161281	2016-03-10T23:13:17	EXCLUSIVE: More than 60 athletes have tested positive for meldonium this year -- and  that number is growing. 
+jburnmurdoch	708065054692937729	2016-03-10T23:00:38	Interhacktives I'm enjoying your voyage (that's also a French word) of discovery. Three more facts by tomorrow plz 🇫🇷📊📰
+jburnmurdoch	708038514533900288	2016-03-10T21:15:11	Torvaney Scribblr_42 I even did a search first to make sure nobody else had used it 😇
+jburnmurdoch	708035182201315329	2016-03-10T21:01:56	piquantscholar I think you must be confusing me with someone else
+jburnmurdoch	708034488203350016	2016-03-10T20:59:11	For Spurs tonight, more a case of Crestfalenstadion than Westfalenstadion 
+jburnmurdoch	708012699356102656	2016-03-10T19:32:36	*checks score* jeez did nobody brief Spurs about the coefficient? This is a national security issue
+jburnmurdoch	707952088286896129	2016-03-10T15:31:45	I saw  before malofiej24 and was very impressed. Glad I can share it now maartenzam 
+jburnmurdoch	707999726369697793	2016-03-10T18:41:03	fcage elenacresci Peak smart, in that case
+jburnmurdoch	707998495391752195	2016-03-10T18:36:09	fcage Wherever you are, you're overhearing some very smart people
+jburnmurdoch	707972511678513153	2016-03-10T16:52:54	ptr_yeung Interhacktives [Gallic] ¯\_(ツ)_/¯
+jburnmurdoch	707958441285853184	2016-03-10T15:57:00	My contribution to NICAR16 an encyclopedia of over 4,600 interactive news projects from more than 300 organizations 
+jburnmurdoch	707962467641597952	2016-03-10T16:13:00	The Obama Doctrine  Goldberg sure writes well
+jburnmurdoch	707952282671964161	2016-03-10T15:32:31	Interhacktives Nah just d3. "The d3" wouldn't make sense. Come on.
+jburnmurdoch	707950493956440064	2016-03-10T15:25:25	Interhacktives "Even in France" ? 
+jburnmurdoch	707925711504416768	2016-03-10T13:46:56	Matt_Francis jurgenappelo ctford Are you sure it isn't a flip-book?
+jburnmurdoch	707885024054484996	2016-03-10T11:05:16	Any talk you can accurately judge by the slides is unlikely to be worth giving as a talk. 
+jburnmurdoch	707917577285210112	2016-03-10T13:14:37	Apparently jogging in London's new separated cycle lanes is now a thing. Let's maybe *not* do that. 🔷=🚲✅🏃❎
+jburnmurdoch	707914800806940672	2016-03-10T13:03:35	TroyEricG If a job's worth doing, it's worth doing properly
+jburnmurdoch	707914473886109696	2016-03-10T13:02:17	TroyEricG Erm Troy that's called theft
+jburnmurdoch	707913414836887552	2016-03-10T12:58:05	TroyEricG Will there be a live-stream for The Spreadsheet Presentation?
+jburnmurdoch	707907375156563973	2016-03-10T12:34:05	Shout-out to everyone else at NICARGH. Fave things so far: no jet-lag, no tee-shirt controversy 
+jburnmurdoch	707905047682813952	2016-03-10T12:24:50	marysaints AmySedghi On the other hand I  do know kit__cross's secret
+jburnmurdoch	707904762516213760	2016-03-10T12:23:42	marysaints kit__cross AmySedghi Wait how have I only just seen this! Also I'm not sure even *I* now my secret...
+jburnmurdoch	707850832717414400	2016-03-10T08:49:24	The guardian sent its best millennials to Crystal Maze and they were DQ-ed for cheating. Peak Generation Y. 
+jburnmurdoch	706332823976747008	2016-03-06T04:17:22	.hspter. My new favourite R package: mansplainr. The best. 
+jburnmurdoch	707844726955888641	2016-03-10T08:25:08	Meldonium: widespread use at European Games   
+jburnmurdoch	707843249566830592	2016-03-10T08:19:16	NEW: Premier League clubs to cap away tickets at £30. Whose prices must fall the most?  
+jburnmurdoch	707841735616032768	2016-03-10T08:13:15	.Guardian's millennials series is very good    
+jburnmurdoch	707686407066820608	2016-03-09T21:56:02	"Eden Hazard is like a slalom skier, but he keeps running into walls". Martin Keown's idea for a hybrid skiing/parkour sport sounds amazing.
+jburnmurdoch	707664501219393561	2016-03-09T20:28:59	FYI folks, the hashtag for people angry because they're missing out on NICAR16 is NICARGH
+jburnmurdoch	707343691837513728	2016-03-08T23:14:12	We're looking for a teammate on the Guardian US interactive team:   Come work with me + Rich_Harris + kenandavis!
+jburnmurdoch	707631112667992064	2016-03-09T18:16:19	jalapic My GIF reply misfired earlier, let's try that again: 
+jburnmurdoch	707626322500165632	2016-03-09T17:57:17	BRB trying to get a live stream of theboysmithy's talk from tapestryconf on the ft's newsroom screens
+jburnmurdoch	707603538776629249	2016-03-09T16:26:44	Premier League clubs will cap away ticket prices at £30 from next season. Who will have to cut prices the most? 
+jburnmurdoch	707551518346625025	2016-03-09T13:00:02	BREAKING NEWS: Premier League clubs commit to £30 away price cap which will apply three seasons 2016/17 to 2018/19: 
+jburnmurdoch	707535535955451904	2016-03-09T11:56:31	SteveLawrence_ SimonGleave EuroClubIndex Nice! Pretty much exactly how I would have envisaged it. Have done stuff on this using clubelo.
+jburnmurdoch	707502163728187392	2016-03-09T09:43:55	jane__bradley I reckon you can spin that as "advanced millennial"
+jburnmurdoch	707497973865947136	2016-03-09T09:27:16	bobhaslett Great team effort 😀 martinstabe alekswis tomp
+jburnmurdoch	707496807597744128	2016-03-09T09:22:38	TimBrock_DtD RichardFergie One of my favourite lunch spots when I'm back up North
+jburnmurdoch	707495371791048704	2016-03-09T09:16:55	Shout-out to bobhaslett for great work on the interactive 👏👏
+jburnmurdoch	707494192277274624	2016-03-09T09:12:14	Areas w/ large Asian communities among hardest hit by welfare cuts. SarahNev story + tool to explore local impacts 
+jburnmurdoch	707492680352309249	2016-03-09T09:06:14	RichardFergie I forgot the actual link! 😳 
+jburnmurdoch	707492502769700864	2016-03-09T09:05:31	NEW: sheffhallamuni research shows impact of welfare ✂️ across 🇬🇧. How does your area fare?  
+jburnmurdoch	706828245862359040	2016-03-07T13:06:00	We are looking for an IOS developer in Berlin who wants to work with us on a journalistic app. Please contact me if you are interested &amp; RT
+jburnmurdoch	707482184186241024	2016-03-09T08:24:31	AlexWylie Thanks Alex!
+jburnmurdoch	707477442110300160	2016-03-09T08:05:41	SimonGleave SteveLawrence_ Fair enough 😊
+jburnmurdoch	707476174126129152	2016-03-09T08:00:38	neilcharles_uk I haven't, but that could definitely add to the rolling sum issue that comes around next season. Good point!
+jburnmurdoch	707475867858051072	2016-03-09T07:59:25	SimonGleave SteveLawrence_ Because incomplete. 🍏🍏🍏🍏🍐 imo
+jburnmurdoch	707475580732706816	2016-03-09T07:58:17	SimonGleave SteveLawrence_ 👍 imo Leicester best example yet that clubs w/💰💰💰 have fallen behind in terms of non-transfer team improvement
+jburnmurdoch	707474307249786880	2016-03-09T07:53:13	SimonGleave SteveLawrence_ Ah that explains it - I'm not including current sun, was looking at 5 most recent completed ones.
+jburnmurdoch	707463409537851392	2016-03-09T07:09:55	Meldonium Anonymous, the fastest-growing club in sport 
+jburnmurdoch	707352686895755264	2016-03-08T23:49:57	What they said 
+jburnmurdoch	707337768641372161	2016-03-08T22:50:40	SimonGleave SteveLawrence_ ? I've got Eng in 2, Ger in 2, 1 level. Eng ahead overall across last 5. We're splitting hairs at any rate 😜
+jburnmurdoch	707293320087793664	2016-03-08T19:54:03	SteveLawrence_ SimonGleave I've harped on about ENG's European failings as much as anyone, but last season makes people exaggerate trends.
+jburnmurdoch	707292963894927360	2016-03-08T19:52:38	SteveLawrence_ SimonGleave Last season GER  2.3 more pts than ENG, previous season ENG +2.
+jburnmurdoch	707290093594288129	2016-03-08T19:41:13	dancow Nice! Stumbled upon the baby-names-as-gender-detector idea myself, too. Good example of data- recycling ♻️
+jburnmurdoch	707289203957231620	2016-03-08T19:37:41	SimonGleave Time will tell. At a glance, GER surge has petered out. Question is whether ENG last season was blip or start of trend.
+jburnmurdoch	707254934023102464	2016-03-08T17:21:31	patternproject Here's an example.  Generates this chart 
+jburnmurdoch	707241017162858497	2016-03-08T16:26:13	Here is what I use to visualize data 99% of the time 
+jburnmurdoch	707001232498434048	2016-03-08T00:33:23	OMG OMG OMG  
+jburnmurdoch	707131894773719040	2016-03-08T09:12:36	WillTGM "Good God, it's worse than we thought"
+jburnmurdoch	707130303240871936	2016-03-08T09:06:16	Another 📊 from coefficients piece: despite 💪 of Bayern &amp; PSG, lack of strength-in-depth limits dominance of 🇩🇪&amp;🇫🇷 
+jburnmurdoch	707127517010911232	2016-03-08T08:55:12	Dave_14H ThrstleFantstic Maybe should just rename CL and EL as Very Good Teams Cup, and Good Teams Cup? 😜
+jburnmurdoch	707126829153439744	2016-03-08T08:52:28	Zonal_Marking Tend to agree. Italy uncharacteristically good last year. Gap btwn GER/ENG and ITA will probably open back up in medium term
+jburnmurdoch	707125893836238848	2016-03-08T08:48:45	And here = greatest goalscorers in women's international ⚽️ (data from before '15 world cup)  
+jburnmurdoch	707125011866374144	2016-03-08T08:45:15	Happy IWD2016, sports &amp; dataviz fans! Here's a feature on greatest ever women's 🎾 players  
+jburnmurdoch	707124960754606080	2016-03-08T08:45:03	micahstubbs Ha, we have the same source doc 😀 And yeah, forgot about winter/summer distinction!
+jburnmurdoch	707122521724887040	2016-03-08T08:35:21	micahstubbs Yeah, could even base them on the official icons: 
+jburnmurdoch	707120234440892416	2016-03-08T08:26:16	micahstubbs Clever!
+jburnmurdoch	707120048448651264	2016-03-08T08:25:31	micahstubbs Yeah, monospacing makes them great for pictograms!
+jburnmurdoch	707118994323546112	2016-03-08T08:21:20	patternproject Hi, they're all done using 
+jburnmurdoch	707117969277657088	2016-03-08T08:17:16	micahstubbs Nice! I was initially going to use the emojis themselves but that pesky double-emoji for biathlon ruins the effect 😒
+jburnmurdoch	706908516171292673	2016-03-07T18:24:58	St John of Longworth: my sketch on "the first Brexit martyr".  
+jburnmurdoch	706821855194304512	2016-03-07T12:40:37	TroyEricG I mean, if this is NOT a message you've written in a leaving card message, idk what to believe anymore 
+jburnmurdoch	706820570449584128	2016-03-07T12:35:30	TroyEricG After seeing your leaving card skillz, I think ur one of this “team of handpicked writers"  HT grbarnett
+jburnmurdoch	706811887195963395	2016-03-07T12:01:00	💯methodology post from caelainnbarr. ddj at its best  
+jburnmurdoch	706810861428547584	2016-03-07T11:56:55	👏👏👏👏👏 caelainnbarr shivmalik 
+jburnmurdoch	706805221482172417	2016-03-07T11:34:31	Delighted to have BillyEhrenberg joining ftdata today, consolidating our position as the strongest cycling team in visual journalism 🚴📊📈
+jburnmurdoch	706593560016064512	2016-03-06T21:33:27	. EdwardGLuce FT continues to be the most astute analyst of US politics. (£)  
+jburnmurdoch	706631713045221380	2016-03-07T00:05:03	FREE TO READ: Exclusive FT investigation on business jet perks by robinkwong &amp; bydavidcrow  
+jburnmurdoch	706635996977192960	2016-03-07T00:22:04	I spent a year looking through 1,000 company filings on jet perks to do this story NICAR16  
+jburnmurdoch	705414104878604288	2016-03-03T15:26:43	Clinton's share of the vote vs. black population, 2008 vs. 2016 
+jburnmurdoch	706760358657130496	2016-03-07T08:36:15	That ace how-to guide just one of the great posts featured in visualisingdata's always-excellent dataviz roundup 
+jburnmurdoch	706754891994304512	2016-03-07T08:14:31	Bradley Wiggins and Mark Cavendish double act is something to savour 
+jburnmurdoch	706757832645976064	2016-03-07T08:26:12	Fantastic how-to on using Google Analytics to track specific events in your interactive features, by maartenzam 
+jburnmurdoch	706751752637423616	2016-03-07T08:02:03	Scribblr_42 Ha, I had the same thing last week! 😞
+jburnmurdoch	706631066023546880	2016-03-07T00:02:29	kryptobanana It did look that way! I've been a France fan since I watched the women's Champs. League final in 2011, sad to see them lose 😞
+jburnmurdoch	706627547719725056	2016-03-06T23:48:30	USAFRA looks like it was quite a game. Lovely assist from Mal Pugh for the winner
+jburnmurdoch	706584618418380801	2016-03-06T20:57:55	London 2012 - Women's 1500m final 6 of top 9, incl top 2 medalists, caught doping Via  
+jburnmurdoch	706413427141550080	2016-03-06T09:37:40	Breaking - editors of Times and Sunday Times keep their jobs 
+jburnmurdoch	706449711411101698	2016-03-06T12:01:51	martinstabe RobinKwong MsHannahMurphy Wow I mean I knew paywalls reduce readership, but still 
+jburnmurdoch	706446722562727936	2016-03-06T11:49:58	RobinKwong martinstabe Data-writer &gt; data-reader
+jburnmurdoch	706445589001736192	2016-03-06T11:45:28	martinstabe RobinKwong Jeez at least give me the context of the joke at my expense... 😜 
+jburnmurdoch	706427380387151872	2016-03-06T10:33:06	Brutal  Euro Super League takedown on the WSC_magazine forum  
+jburnmurdoch	706117319223873536	2016-03-05T14:01:02	Distribution of people's PIN codes. Vertical line is 19xx, bottom left are dates DDMM.  
+jburnmurdoch	706131265448255488	2016-03-05T14:56:27	Russia is the only pro-Brexit country. Let's just think about that for a moment.
+jburnmurdoch	706134073274724354	2016-03-05T15:07:37	neilcharles_uk Great idea!
+jburnmurdoch	706118014677045248	2016-03-05T14:03:48	1. In trying to think about the durability of Trump's appeal to his core voters, Rob Ford offers a model.
+jburnmurdoch	706125523152347136	2016-03-05T14:33:38	18. Containing Trump means bringing up all the stuff GOP rivals brought up too late: Trump U, shaky finances, criminal connections, etc.
+jburnmurdoch	706066221272338432	2016-03-05T10:37:59	Good stuff from Buzzfeed: searchable database of the changing cost of renting a flatshare room around the UK. ddj 
+jburnmurdoch	705682459833274369	2016-03-04T09:13:04	twone2 That's what sparked my tweet. Occulus surely realise the tech &amp; audience for VR are nowhere near mature enough for Apple to jump in
+jburnmurdoch	705662292353019905	2016-03-04T07:52:55	Champions League does not need likes of Leicester, says US sports executive 
+jburnmurdoch	705659362107379712	2016-03-04T07:41:17	Apple entered smartwatch game once tech &amp; audience were ready. Apple will join VR game when tech &amp; audience are ready. Right now they're not
+jburnmurdoch	705657083492958208	2016-03-04T07:32:13	jamestitcomb Tend to agree with u on Watch. Just feel all the 'jeez Apple get yourself ready for VR' chatter these days is backwards
+jburnmurdoch	705655153869922304	2016-03-04T07:24:33	jamestitcomb Hot take: Apple released Watch once tech &amp; audience matured. Apple will join VR game when tech &amp; audience mature. Nt there yet
+jburnmurdoch	701108307281453056	2016-02-20T18:17:01	Been looking at this fascinating global commuting graphic for at least 10 minutes now.  Kudos to the Weekend FT 
+jburnmurdoch	705420561883779072	2016-03-03T15:52:22	if you want to arrange things in a grid using d3js then you might like my icon array plugin  
+jburnmurdoch	705646871042129920	2016-03-04T06:51:38	The Great Land Rush: free FT podcast:   and free multimedia stories:  
+jburnmurdoch	705417858336104448	2016-03-03T15:41:38	⚡️ NEWS APP! ⚡️ Hell and High Water in Houston, Texas:   by A_L thejefflarson TexasTribune 
+jburnmurdoch	705380084673163264	2016-03-03T13:11:32	☞ How we made HELL AND HIGH WATER: hint: we crammed a supercomputed 6 million point mesh into 512x512 images  
+jburnmurdoch	705466578855452672	2016-03-03T18:55:13	"I didn't read this but..." doesn't always have to be a bad thing 😀  via RobinKwong
+jburnmurdoch	705444414819270657	2016-03-03T17:27:09	TimBrock_DtD maartenzam theboysmithy SVG crowbar. Various options for PNGs including 
+jburnmurdoch	705422287323975680	2016-03-03T15:59:14	A structural shift? Yes, moving to printed pages with visualisations composed entirely in d3… 
+jburnmurdoch	705127568127729666	2016-03-02T20:28:07	Just a few days left to apply for these great dataviz phd studentships 
+jburnmurdoch	705371274470678528	2016-03-03T12:36:31	When managers’ fees swallow up your pension savings  
+jburnmurdoch	705340643829288960	2016-03-03T10:34:48	NEW POST: The little of visualisation design - Part 4  littlevis 
+jburnmurdoch	705362449810202624	2016-03-03T12:01:27	counterattack9 Worville It's 'your grace' to you, Paul
+jburnmurdoch	705357333522726913	2016-03-03T11:41:07	theboysmithy richardbrowne80 Strong positive correlation for C. Interesting...
+jburnmurdoch	705353976187854848	2016-03-03T11:27:47	Worville Something something dataviz royalty
+jburnmurdoch	705353325366091777	2016-03-03T11:25:12	richardbrowne80 theboysmithy sdonnan Chord diagram is the only one I'm aware of 😊
+jburnmurdoch	705353064820187137	2016-03-03T11:24:10	There we were, two privileged white ppl w/ garish pink outfits (not sure hers was Rapha), multiple surnames &amp; hefty debts to the taxpayer
+jburnmurdoch	705352990207647744	2016-03-03T11:23:52	Briefly cycled alongside the Queen's car this a.m. In the split second of eye contact there was a clear mutual recognition that
+jburnmurdoch	705328641794822145	2016-03-03T09:47:07	inconvergent JanWillemTulp moritz_stefaner Likewise!
+jburnmurdoch	705327918818402304	2016-03-03T09:44:14	JanWillemTulp TimBrock_DtD This any good? 
+jburnmurdoch	705322903139704832	2016-03-03T09:24:19	C'mon guys, when are we going to start being grown ups and call WorldBookDay just 'Atlas Day'?
+jburnmurdoch	705170593377812480	2016-03-02T23:19:05	Visualising changing patterns of world exports for new sdonnan bigread on global trade  
+jburnmurdoch	705001718761836544	2016-03-02T12:08:02	It was a close run thing but even my terrible tweet was beaten by Trump in the end 
+jburnmurdoch	704990931557163008	2016-03-02T11:25:10	AbigailSPaul Thanks! 😀
+jburnmurdoch	704989645122048000	2016-03-02T11:20:04	Congratulations@ft team sallygainsbury SarahNev jburnmurdoch - longlisted for the OrwellPrize2016 for Exposing Britain’s Social Evils
+jburnmurdoch	704989721521422337	2016-03-02T11:20:22	@nmr1233221 @seththoughts JustinWolfers Hi folks, are these raw nums of searches [as % of all candidates] or other math behind the scenes?
+jburnmurdoch	704985200481144832	2016-03-02T11:02:24	What's worse?
+jburnmurdoch	704933659648851968	2016-03-02T07:37:36	dammit BoobsRadley has quit twitter  so now I am re-reading her timeline and giggling like an idiot
+jburnmurdoch	704942707072966658	2016-03-02T08:13:33	You have to see these incredible animations for ft Land Rush series, by our very own YouTube star sdbernard 
+jburnmurdoch	704829026511294464	2016-03-02T00:41:49	Our delegate calculator put into use for live modeling of tonights final delegate count  
+jburnmurdoch	704941298722152453	2016-03-02T08:07:57	visualisingdata Cheers Andy! Loving littlevis
+jburnmurdoch	704940340210434048	2016-03-02T08:04:08	NEW POST: The little of visualisation design - Part 3  littlevis 
+jburnmurdoch	704932468919558148	2016-03-02T07:32:52	"His were the eyes of a man who has gazed into the abyss, and the abyss gazed back, and then he endorsed the abyss" 
+jburnmurdoch	703242066122268672	2016-02-26T15:35:48	I know you're not supposed to talk about politics in bars but we couldn't help ourselves TheTownsendATX 
+jburnmurdoch	704744055431897088	2016-03-01T19:04:10	Amazing 3D maps by sdbernard in our Land Rush series ddj  
+jburnmurdoch	704729858102976513	2016-03-01T18:07:46	blender3d animation, NASA_Landsat imagery, After effects   
+jburnmurdoch	704716251642388487	2016-03-01T17:13:42	Coneee theboysmithy _Kate_Allen Don't know what prompted this [other than our general awesomeness, obvs], but thanks dude!
+jburnmurdoch	704694771277799424	2016-03-01T15:48:20	One reason why Trump will win the GOP nomination: free media coverage  
+jburnmurdoch	704646891267596288	2016-03-01T12:38:05	UPDATED: Journey of a barrel of Isis oil, and how production continues despite airstrikes  
+jburnmurdoch	704644520412123136	2016-03-01T12:28:39	too many people to @ congratulations to in the WBWAwards shortlist, so pleased to see so many recognised 
+jburnmurdoch	704646051333062656	2016-03-01T12:34:44	christinezhang replied :-)
+jburnmurdoch	704586275307823104	2016-03-01T08:37:13	Fascinating interactive look at the death of the Dead Sea by nirhasson along with avischarf's web-team  
+jburnmurdoch	704591614044467200	2016-03-01T08:58:26	visualisingdata tombetts +1 on really enjoying these!
+jburnmurdoch	704586859951865857	2016-03-01T08:39:32	My take on VR: long term is clear, short term is fuzzy  
+jburnmurdoch	704424593591660544	2016-02-29T21:54:45	WNYC’s Note to Self sent 300,000 texts to 15,000 people. Interesting engagement experiment using twilio 
+jburnmurdoch	704547615816425472	2016-03-01T06:03:36	Govt announces there will be “no legal changes” to the Freedom of Information Act  FOI HandsoffFoI
+jburnmurdoch	704317927265320961	2016-02-29T14:50:54	Important new consultation on how government can make better use of data  datasharing dataaccess
+jburnmurdoch	704298961377632256	2016-02-29T13:35:32	What a day 😀. Free Aeropress filters aka coffee hipster currency courtesy of RobinKwong ☕️💵☕️💵☕️💵☕️💵 
+jburnmurdoch	704295203214106625	2016-02-29T13:20:36	christinezhang Fire away! firstname.sur-name@ft.com
+jburnmurdoch	704280416962875393	2016-02-29T12:21:50	It me 
+jburnmurdoch	704276884624961536	2016-02-29T12:07:48	💯 post. I increasingly take AnnKEmery approach of squeezing in as much narrative as poss, even w/ legends. dataviz 
+jburnmurdoch	704265465481265152	2016-02-29T11:22:26	oh my goooooooooood the full Chris Rock monologue is so good 
+jburnmurdoch	704265213462315008	2016-02-29T11:21:26	christinezhang Couple of earlier/alt iterations of my Chinese football chart here btw, if of interest: 
+jburnmurdoch	704264679338733570	2016-02-29T11:19:18	christinezhang ... i.e trade-off whereby chart has fewer footnotes ➡️ more simple/readable, but 'black-box' approach risks misinterpreation
+jburnmurdoch	704264088260644864	2016-02-29T11:16:57	christinezhang ... in that it's implied that the multiple lines indicate uncertainty, but this is never explicitly stated.
+jburnmurdoch	704263475674087424	2016-02-29T11:14:31	christinezhang Related: I felt this from nytgraphics was v.interesting 
+jburnmurdoch	704263267322093568	2016-02-29T11:13:42	christinezhang But certainly no question that it's very information-dense!
+jburnmurdoch	704263112216715264	2016-02-29T11:13:05	christinezhang ...because highlighting individual points (players) is what gives people reference points and adds human elements to story
+jburnmurdoch	704262943488266240	2016-02-29T11:12:24	christinezhang But we decided both box &amp; jitter were too non-standard to easily grasp. I felt narrative required both median &amp; distribution
+jburnmurdoch	704262520836657152	2016-02-29T11:10:44	christinezhang Very good question! The version you see was actually a compromise between median bars only and box plot plus jitter
+jburnmurdoch	704232042469441536	2016-02-29T09:09:37	"All that is missing are the buyers." *The* line from this &gt;&gt; Investor appetite for London luxury properties ebbs 
+jburnmurdoch	704230786015301632	2016-02-29T09:04:38	Fantastic seaningle interview of Jenny Meadows, on the irreparable damage caused by repeated losses to drug cheats 
+jburnmurdoch	704216515772555264	2016-02-29T08:07:55	It's not just💰: quality &amp; age of signings suggest 🇨🇳China is now a force in club ⚽️  dataviz 
+jburnmurdoch	704061193279938560	2016-02-28T21:50:43	maartenzam Possibly yeah, might give that a try w/ some vertical HTML lines at some point... Ur right re: fuzzy text, we'll look into this!
+jburnmurdoch	704060877260136448	2016-02-28T21:49:28	NYAsoccer Cool, thanks!
+jburnmurdoch	704048217294553088	2016-02-28T20:59:10	NYAsoccer Nice! Awesome idea, and liked the nuance on MLS imports. Am I right in thinking ABLR is peak-age-agnostic, just concerned w/conc?
+jburnmurdoch	704045489784799232	2016-02-28T20:48:19	monfera 👍 tspans within a parent text el, tweaking font-size and dx/dy to taste. Easier/quicker than measuring text and drawing SVG shapes
+jburnmurdoch	704042779673018370	2016-02-28T20:37:33	Trick I used for legend-as-paragraph here: HTML entities for circle and line ➡️ it's all SVG text dataviz d3js 
+jburnmurdoch	704039201705205761	2016-02-28T20:23:20	sdbernard 😀cheers Steve! Cunning trick I found for that was using &amp;#11044; and &amp;xff3f; for the circles and line, so it's all just SVG text
+jburnmurdoch	704020667524583424	2016-02-28T19:09:41	Well that was glorious
+jburnmurdoch	704018732318924800	2016-02-28T19:02:00	MC_of_A I have zero clue how Yaya is still on the pitch
+jburnmurdoch	704017173614825472	2016-02-28T18:55:48	Liverpool providing about a third of City's key passes so far
+jburnmurdoch	704013661476671488	2016-02-28T18:41:51	RobinKwong We truly reached peak Sakho today
+jburnmurdoch	704012560476061698	2016-02-28T18:37:28	RobinKwong He certainly does that 😊
+jburnmurdoch	704011959973367808	2016-02-28T18:35:05	RobinKwong 👍 though that was only the result of a glaring error from the ref imo
+jburnmurdoch	704005661512835073	2016-02-28T18:10:04	HarryJamieson_ SeBlueLion_EN No hard-and-fast rule in that regard, but with Moreno often self-inflicted because out of position upfield
+jburnmurdoch	704005240513810432	2016-02-28T18:08:23	SeBlueLion_EN Yeah. Same reason Krul often high in [overly simplistic] keeper rankings. See also: Paul Robinson back in the day.
+jburnmurdoch	704004183335292930	2016-02-28T18:04:11	SeBlueLion_EN As a Newcastle fan, the sight of one of ours in any "best team" tells me the criteria are 🔄
+jburnmurdoch	704003793504096256	2016-02-28T18:02:38	AnalyseSport The old approach of grouping together tackles and interceptions looks increasingly 😳
+jburnmurdoch	704003104002478080	2016-02-28T17:59:54	SeBlueLion_EN And the line about Maldini never having dirty shorts etc
+jburnmurdoch	704002402953863168	2016-02-28T17:57:07	Watching Moreno play makes me increasingly sure that number of tackles attempted has to be an actively negative KPI for a defender
+jburnmurdoch	704001181891358721	2016-02-28T17:52:16	What good did Moreno possibly think could have come from that leg flail?
+jburnmurdoch	704000280799649793	2016-02-28T17:48:41	Great piece, but surely scatter plot wld better reveal strength of association btwn Trump support &amp; racist searches? 
+jburnmurdoch	703839117960871936	2016-02-28T07:08:17	A Central African neighborhood where UN peacekeepers abused girls and fathered babies - and then left with impunity: 
+jburnmurdoch	703977759803088896	2016-02-28T16:19:11	Football fans, some pre-match reading: With elite signings, China is emerging as a force in club football dataviz 
+jburnmurdoch	703699282814222337	2016-02-27T21:52:37	Boris Johnson wrote a second newspaper article arguing that we should stay in the EU as late as Friday night last week
+jburnmurdoch	703955539206795268	2016-02-28T14:50:54	drryandunn Thanks Ryan, and yeah agreed that question is whether this winter is a blip or start of trend
+jburnmurdoch	703954092650074113	2016-02-28T14:45:09	Release the Damn Daniel tweets
+jburnmurdoch	703937264087384064	2016-02-28T13:38:16	Sam_Jackson94 Russia, MLS, Middle East have all done the "sign good Brazilian players and ageing superstars", but Teixeira etc much bigger
+jburnmurdoch	703936887732498432	2016-02-28T13:36:47	Sam_Jackson94 👍 really good in-depth discussion on 5Live a few weeks back. Imo arrivals in this window are very significant.
+jburnmurdoch	703933167233863681	2016-02-28T13:22:00	Huge thanks 2 penaltyblog who let me use his new player ratings to show Chinese clubs are now signing elite players 
+jburnmurdoch	703932813637193728	2016-02-28T13:20:35	NEW: it's not just the 💰: quality &amp; age of signings suggest China is now a force in club ⚽️  
+jburnmurdoch	703228879884918784	2016-02-26T14:43:24	benjamesdavis Not aware of anywhere with readily downloadable possession stats otherwise. For results, CSVs at 
+jburnmurdoch	703214091641303040	2016-02-26T13:44:39	benjamesdavis Assume you'd be scraping it?
+jburnmurdoch	702882934181593088	2016-02-25T15:48:45	we’re asking people to help us find out which superdelegates are lobbyists &amp; shadow/ungregistered lobbyists. help us!
+jburnmurdoch	702883168009977857	2016-02-25T15:49:40	Bad news for Marco Rubio: Q Poll finds Donald Trump with big lead in Florida, Rubio's home state  via WSJ
+jburnmurdoch	702861427598606336	2016-02-25T14:23:17	I'm looking to hire a paid RA to work with my lab on various d3js projects. Any DSI_Columbia students interested please contact me.
+jburnmurdoch	702819039270346752	2016-02-25T11:34:51	Here's Genius annotation layer on politicony story of leahfinnegan ➡️ Genius, because.  
+jburnmurdoch	702748142874157056	2016-02-25T06:53:08	So, how many times do I get to say I told you so? 
+jburnmurdoch	702523905991376896	2016-02-24T16:02:06	Late entry into the NICAR16 t-shirt contest: 
+jburnmurdoch	702520869587959808	2016-02-24T15:50:02	jamesrbuk Help I'm stuck on this one 
+jburnmurdoch	702519330009915392	2016-02-24T15:43:55	Why twitter so thirsty? I said we would "maybe grab a drink" and now it's all getting a bit stalkerish 
+jburnmurdoch	702419577402167296	2016-02-24T09:07:32	Here is what this year's Oscar nominees lunch looks like when only women are highlighted.  
+jburnmurdoch	702242679825047552	2016-02-23T21:24:36	A Flamini masterclass
+jburnmurdoch	702194493362143232	2016-02-23T18:13:08	basilesimon Could be - I know mobile GPS is less accurate than dedicated devices, but didn't know Strava smooths imported routes.
+jburnmurdoch	702193233363935232	2016-02-23T18:08:07	basilesimon Only things I'd suggest are diff qualities of GPS &amp; Strava adjusting for stationary time, but not sure either makes sense here
+jburnmurdoch	702192297270763520	2016-02-23T18:04:24	basilesimon Mysterious... Gravitational waves?
+jburnmurdoch	702112329438253056	2016-02-23T12:46:38	Should have gone with The Gazprom Line 💰💰💰💰
+jburnmurdoch	701849379339112448	2016-02-22T19:21:46	grbarnett Cheers mate, your quotes-dispersal-fee is in the post
+jburnmurdoch	701660647717789696	2016-02-22T06:51:49	What you need to know today about Britain's EU referendum, from the new FT Brexit page:  
+jburnmurdoch	701208304266117121	2016-02-21T00:54:22	Just when I think hrbrmstr couldnt get better he goes all reporter on me!  Amazing rstats work 
+jburnmurdoch	701154533410533376	2016-02-20T21:20:42	The most fun you'll have with primary results   
+jburnmurdoch	700652327447896064	2016-02-19T12:05:07	NYT’s classic weather chart traces back to 1979. Today, it's online for the first time.  
+jburnmurdoch	700628609371734018	2016-02-19T10:30:52	moebio 🎦⏱❓
+jburnmurdoch	700348137140068352	2016-02-18T15:56:22	davidbauer I remember seeing this back in the day! "Click to know" is my fave part 🙂
+jburnmurdoch	700289489281949696	2016-02-18T12:03:19	These show the commuting and property costs in eight world cities. Read more at  FTcommute 
+jburnmurdoch	700099344297549824	2016-02-17T23:27:45	Worville Ha, I was trying to think of a witty email account but I'm too tired for creative thought 😴
+jburnmurdoch	700096314349133824	2016-02-17T23:15:43	Worville Cheers Tom, appreciated as ever!
+jburnmurdoch	699959783244349440	2016-02-17T14:13:11	martinstabe 👍👏👏👏👏 callumlocke carolinenevitt RobinKwong tomp 🇪🇺🇬🇧🔜💔⁉️😱
+jburnmurdoch	699931082968399872	2016-02-17T12:19:08	fcage grbarnett TroyEricG AlbertoNardelli Not even a single mention of Aeropress. Luddites.
+jburnmurdoch	699929496447815689	2016-02-17T12:12:50	kiranstacey UK:  Scotland:  
+jburnmurdoch	699928315495366656	2016-02-17T12:08:09	kiranstacey Just taking a look
+jburnmurdoch	699928223203901441	2016-02-17T12:07:47	For all ft Brexit coverage, including a regularly updated summary of key events, hit up  
+jburnmurdoch	699924662424367104	2016-02-17T11:53:38	Should we stay or should we go? The ft Brexit poll-tracker is up &amp; running, built by tomp  
+jburnmurdoch	699715904351895552	2016-02-16T22:04:06	Weird that Obama is giving a press conference with just 11 months left in his presidency
+jburnmurdoch	699663310271156226	2016-02-16T18:35:06	TroyEricG Amazing to think GIFs have been around so long
+jburnmurdoch	699356527161929728	2016-02-15T22:16:04	Podcast: Simon Kuper on football and culture in Europe:  
+jburnmurdoch	695544182128119808	2016-02-05T09:47:10	Blender map makes the front page! gistribe GIS QGIS blender3d 
+jburnmurdoch	699621073571180544	2016-02-16T15:47:16	Great visual metaphor for what climatechange deniers are doing to our kids. globalwarming 
+jburnmurdoch	699615663606886400	2016-02-16T15:25:47	robsuddaby dataschooluk Definitely up for that -- who arranges such things while The Boss™ is on the slopes?
+jburnmurdoch	699615332902813696	2016-02-16T15:24:28	pedrohcbarreto 👍
+jburnmurdoch	699572817885601792	2016-02-16T12:35:31	Israel modified the "Stuxnet" attack against Iran, then launched it without telling the US  
+jburnmurdoch	699556187008667650	2016-02-16T11:29:26	elenacresci You stay out of this
+jburnmurdoch	699555673529397248	2016-02-16T11:27:24	TroyEricG grbarnett fcage (tenuous)
+jburnmurdoch	699555468369223680	2016-02-16T11:26:35	TroyEricG grbarnett fcage "This isn't France" 
+jburnmurdoch	699554935214505985	2016-02-16T11:24:28	grbarnett TroyEricG fcage 
+jburnmurdoch	699552707451813888	2016-02-16T11:15:37	TroyEricG Leaked standfirst from his debut FT piece, Bars to Pars: The system broken, the issues closed, the comments open
+jburnmurdoch	699509806432985088	2016-02-16T08:25:08	Hang on is someone SUBBING Kanye's rants? 
+jburnmurdoch	699516262746079232	2016-02-16T08:50:48	robsuddaby SteMc74 I write all my own scrapers 😎😜 but teach Kimono to non-coder students. OutWit and importio strike me as alternatives
+jburnmurdoch	699513483990339584	2016-02-16T08:39:45	Welp. Kimono labs shutting down its public web scraping service. Acquired by Palantir. Another reason to not rely on third party services.
+jburnmurdoch	699514252646817794	2016-02-16T08:42:48	SteMc74 😧 in retrospect not all that surprising, since it had been particularly buggy of late, but yeah open source ftw
+jburnmurdoch	699511387580665856	2016-02-16T08:31:25	Super NadiehBremer tutorial: use voronoi for interaction w/ small points. HT TennisVisuals  
+jburnmurdoch	699509562928447488	2016-02-16T08:24:10	Worville TennisVisuals timelyportfolio Niiice! Haven't seen on desktop yet so didn't notice the effect at first, but really cool
+jburnmurdoch	699505087790632960	2016-02-16T08:06:23	TroyEricG Kanye is behind the wrong paywall. He should come to the FT
+jburnmurdoch	699498912114147328	2016-02-16T07:41:51	TroyEricG This was a great tweet and I will be renewing my subscription to Troy's Great Tweets
+jburnmurdoch	699279306019708929	2016-02-15T17:09:13	Senate voted on eight Supreme Court nominees in election year since 1900. Six were confirmed  
+jburnmurdoch	699306805277650945	2016-02-15T18:58:29	driven_by_data Really awesome work! 'grats to the lot of you
+jburnmurdoch	699279805339066368	2016-02-15T17:11:12	chadnehemiah Reluctant to cite 1-game example, but it's exactly what Arsenal did when they rested players v Olympiakos to prepare for MUFC
+jburnmurdoch	699257842050736132	2016-02-15T15:43:55	chadnehemiah On Atleti, no arguments from me on that particular match, but a) it's a sample of one, and b) see 
+jburnmurdoch	699256598825402368	2016-02-15T15:38:59	chadnehemiah Analysis was up to last season, so can't comment on Wolfsburg, though United also beat them so not a major point either way
+jburnmurdoch	699252194911068160	2016-02-15T15:21:29	rossdunbar93 Whereas PL sides have far fewer occasions to rest players in the league. And PSG benefit from rest but struggle for motivation
+jburnmurdoch	699251970926886912	2016-02-15T15:20:35	rossdunbar93 i.e Spanish elite have each other to provide continuous motivation, but enough lopsided matches to rest stars for UCL games
+jburnmurdoch	699251720656941056	2016-02-15T15:19:36	rossdunbar93 Not a simple mechanism, for sure. Could argue Real, Barca, Atleti have optimal situation, with PL &amp; L1 at non-ideal extremes
+jburnmurdoch	699250446171574272	2016-02-15T15:14:32	PSG backing up my theory that competitive Premier League hinders chances of European glory:  
+jburnmurdoch	699248599595683842	2016-02-15T15:07:12	HT for that last tweet goes to grbarnett, purveyor of the finest dataviz in the land
+jburnmurdoch	699245207825616896	2016-02-15T14:53:43	"Yeah it's a classic welder/dancer marriage" Ace work from adamrpearce &amp; Dorothy Gambrell  
+jburnmurdoch	699240914473107457	2016-02-15T14:36:39	davidottewell Striking similarity, you have to admit 
+jburnmurdoch	699209159095554048	2016-02-15T12:30:28	ICYMI: amazing ligo video on what happens to cause gravitational waves  via lukekavanagh_ 
+jburnmurdoch	699149479283400705	2016-02-15T08:33:20	Somebody on /r/gunners just absolutely nailed 99% of "mental strength" cases in pro sports. 
+jburnmurdoch	699159070322900993	2016-02-15T09:11:26	joshglendinning I think the denominator in that calculation could defs be tightened up, but needs to be on club-by-club basis in any case
+jburnmurdoch	699157492597714944	2016-02-15T09:05:10	I wrote down some thoughts on the new qz app 
+jburnmurdoch	699157083862790144	2016-02-15T09:03:33	Read more from JoshTANoble at  and yours truly at  
+jburnmurdoch	699155817862455296	2016-02-15T08:58:31	3/ sszy suspects 'dynamic pricing' is coming, where clubs offer wider range of £s to maximise both sales &amp; revenue 
+jburnmurdoch	699155586999578624	2016-02-15T08:57:36	2/ "Twenty's Plenty" campaign wants £20 ceiling for *all* away tickets. Today only 2 clubs offer *any* at that price 
+jburnmurdoch	699155401107992577	2016-02-15T08:56:51	1/ When u account for income levels in a football club's local area, Liverpool fans pay the most to watch their team 
+jburnmurdoch	699155050585784320	2016-02-15T08:55:28	ICYMI: we've been digging below the surface into the costs of supporting a Premier League football club in 2016. Here are 3 things we found
+jburnmurdoch	698793808130142209	2016-02-14T09:00:01	The world of Taylor Swift, dissected. By Eve_Barlow EleanorMills  
+jburnmurdoch	698872254625681408	2016-02-14T14:11:44	Marcotti TheEconomist Hmmm is right. Get the feeling those figures are coming from two very different hotels!
+jburnmurdoch	698870997190053889	2016-02-14T14:06:44	Nice from TheEconomist data team. Highlighting similar points instead of selected only is 👍  
+jburnmurdoch	698870214839156736	2016-02-14T14:03:38	henrykirby What a game
+jburnmurdoch	698867980118024192	2016-02-14T13:54:45	God I need a cig. I don't support either of these teams. I don't smoke.
+jburnmurdoch	698867428202131457	2016-02-14T13:52:33	HWJCJXJXBBS
+jburnmurdoch	698855030309437440	2016-02-14T13:03:17	Seriously....I hope do this on every policy.Why stop with deceased PMs?What would Bowie do?How might Cleopatra vote? 
+jburnmurdoch	698863017363165184	2016-02-14T13:35:02	Giroud using Huth for some impromptu pole-dancing 
+jburnmurdoch	698861416959373313	2016-02-14T13:28:40	Beaut from Giroud
+jburnmurdoch	698842182954913792	2016-02-14T12:12:14	AlexiMostrous The "read more" box is just links to websites of the hotel and Eurostar. Staggering.
+jburnmurdoch	698839160870858752	2016-02-14T12:00:14	Introvert? extrovert? Or was the Myers-Briggs personality test wrong from the start? (free)  
+jburnmurdoch	698836643348881408	2016-02-14T11:50:14	Title projections based on today's results. This is all very stressful. 
+jburnmurdoch	698640241981333504	2016-02-13T22:49:48	Scalia liberalized somewhat from his extremely conservative positions in the late 1990s  
+jburnmurdoch	698636132976869377	2016-02-13T22:33:28	Curious logic. His job was so important that we can afford to leave it vacant for a year? politics 
+jburnmurdoch	698597283772944386	2016-02-13T19:59:06	rschallom I think you dropped your 😎
+jburnmurdoch	698589040682074113	2016-02-13T19:26:21	arnicas 😀 It's why I love d3. So easy to switch between shapes/layouts as you go along, until you find the most effective
+jburnmurdoch	698587055320928260	2016-02-13T19:18:27	Read JoshTANoble &amp; sszy on dynamic pricing coming to football, plus related charts from me  
+jburnmurdoch	698573578091032576	2016-02-13T18:24:54	maartenzam For NH yes, but Iowa less so. Still far from an exact science imo 
+jburnmurdoch	698572040186499072	2016-02-13T18:18:47	NYAsoccer Fair enough! Initial draft was gonna use "ringing endorsement", which might have made the overstatement more obvious
+jburnmurdoch	698570993741271044	2016-02-13T18:14:38	pendopolaris Happy to help :-)
+jburnmurdoch	698568929141264385	2016-02-13T18:06:26	NYAsoccer I've always been of the "laugh" rather than "cry" school when it comes to seeing our defence self-combust
+jburnmurdoch	698568150279966721	2016-02-13T18:03:20	NYAsoccer My fault for trying to seamlessly mix serious stuff with lolz on here, but again, that was intended as anything but rigorous
+jburnmurdoch	698567059106619392	2016-02-13T17:59:00	pendopolaris Which is exactly the point I was trying to make...?
+jburnmurdoch	698566652707926022	2016-02-13T17:57:23	NYAsoccer penaltyblog Ha, sorry, will make sure to include "😜" for all future tweets that maybe aren't intended as profound statements  😜
+jburnmurdoch	698564640016621568	2016-02-13T17:49:23	Coloccini's performance today is a real stamp of approval for penaltyblog's player ratings, which have him as one of worst players in PL
+jburnmurdoch	698561635783483393	2016-02-13T17:37:27	MessiSeconds Peston LFC _THFC_ Arsenal FT Cheers Joel! Full graphic here: 
+jburnmurdoch	698418265257701376	2016-02-13T08:07:45	I just published “Putting out the Twitter trashfire” 
+jburnmurdoch	698257687381983232	2016-02-12T21:29:40	If you or someone you love can’t name 10 Henry Kissinger war crimes you should read this   whoisHenryKissinger
+jburnmurdoch	697511506909511680	2016-02-10T20:04:37	The people and places candidates have won so far.  great work w/stuartathompson max__rust 
+jburnmurdoch	698461360561266688	2016-02-13T10:58:59	Tale of the tape: Twitter vs. Facebook  via bfly
+jburnmurdoch	698169796546994177	2016-02-12T15:40:25	WillTGM SimonGleave In my defence, whole ft has had this cold since before I caught it. I was just bringing it to a wider audience :-p
+jburnmurdoch	698166987713806336	2016-02-12T15:29:15	SimonGleave WillTGM Not sure this is the best time for me to reveal I may have been patient zero... Refused to let a cold keep me away 😷
+jburnmurdoch	698162511460376577	2016-02-12T15:11:28	What cold medicine would someone use if they wanted to cause maximum pain and suffering to the virus?
+jburnmurdoch	698147051901689856	2016-02-12T14:10:02	MsHannahMurphy Well you *say* that, but 
+jburnmurdoch	697568451192172544	2016-02-10T23:50:53	More data journalism should be like this: NYT distills"What Happened in New Hampshire" down to key points. 
+jburnmurdoch	698118509046456320	2016-02-12T12:16:37	If you’re into data and football, optajoe has a dream job for you 
+jburnmurdoch	698132702227206144	2016-02-12T13:13:01	janinegibson AlbertoNardelli 'grats to all involved! Awesome move
+jburnmurdoch	698129994300653568	2016-02-12T13:02:15	Delighted to welcome the very brilliant AlbertoNardelli to BuzzFeedUK as Europe Editor.
+jburnmurdoch	698052171334557696	2016-02-12T07:53:01	HenryJFoy 👍
+jburnmurdoch	698050719681798144	2016-02-12T07:47:15	HenryJFoy 2 mins or less, no sound, need to grab &amp; hold attention of easily distracted user, show why should care. Think all are decent.
+jburnmurdoch	698049443350888448	2016-02-12T07:42:11	HenryJFoy Thought Quartz made a decent effort.
+jburnmurdoch	698048315028611072	2016-02-12T07:37:42	Particularly notable how Guardian and ajplus use the same keyword highlighting technique in captions 
+jburnmurdoch	698045181036273664	2016-02-12T07:25:14	1) Captions for silent viewing are now standard 2) Light-hearted tone, inclusion of GIFs/memes 3) Differing levels of technical explanation
+jburnmurdoch	698043880596439040	2016-02-12T07:20:04	How different news orgs used explainer video on gravitational waves:   
+jburnmurdoch	697810125847990273	2016-02-11T15:51:13	Well that escalated quickly qz 
+jburnmurdoch	697805242914758656	2016-02-11T15:31:49	Worville Yeah it's awesome. Defs try new Quartz app though, unlike any other news app out there
+jburnmurdoch	697804688717176833	2016-02-11T15:29:37	Great piece from muradahmed on strengths/weaknesses of Myers-Briggs test, w/ ace illustrations from spencerwilson8 
+jburnmurdoch	697753037624971265	2016-02-11T12:04:22	My 1st FTMag cover story! On Myers-Briggs &amp; the (lack of) science behind personality tests  
+jburnmurdoch	697799844967137281	2016-02-11T15:10:22	robsuddaby I ❤️ it. Apps have to earn home screen status here 😜
+jburnmurdoch	697799670412767233	2016-02-11T15:09:40	Worville Number of unread emails: redacted 
+jburnmurdoch	697794007162863617	2016-02-11T14:47:10	dats BillyEhrenberg Figured I can wait a few seconds before hitting "record ride". The day I give up Strava is the day I give up life 💀
+jburnmurdoch	697792162008801280	2016-02-11T14:39:50	In home scree reshuffle, Quartz in, Strava out
+jburnmurdoch	697782644822708224	2016-02-11T14:02:01	Recent chats w/ my awesomely talented juniordoctors sister turn begrudgingly to overseas work / alt job. Guess today lays doubts to rest 😟😡
+jburnmurdoch	697761868862132224	2016-02-11T12:39:27	For those skeptical that AI has reached the stage where it can 'feel emotions', my Gmail has developed paranoia 
+jburnmurdoch	697756670496280577	2016-02-11T12:18:48	monfera To be fair there are easy ways around it in this case such as site:, but yeah semantics certainly an issue
+jburnmurdoch	697751455348977665	2016-02-11T11:58:05	tara_mulholland Life goals: 
+jburnmurdoch	697751264025833472	2016-02-11T11:57:19	alekswis Imma post this tweet in the Interhacktives Slack channel and then just 🍿
+jburnmurdoch	697749924566450177	2016-02-11T11:52:00	alekswis Sweet, that means I can crowdsource ripostes from Interhacktives
+jburnmurdoch	697749716860325889	2016-02-11T11:51:10	Googling "FT Kanye West" reminds me how useless our initialism is for SEO when looking for anything Financial Times + music related
+jburnmurdoch	697747355605532672	2016-02-11T11:41:47	alekswis "What, art thou drawn among these heartless hinds? Turn thee, alekswis, and look upon thy gif."
+jburnmurdoch	697746233448857600	2016-02-11T11:37:20	💯datastories episode with hadleywickham!  "There are things I'll never put into ggplot2, like dual y axes" ♥️♥️
+jburnmurdoch	697744424860807170	2016-02-11T11:30:09	RobinKwong Wait alekswis cheated by getting lukekavanagh_ to distract me with chat about broken URLs so I missed a round 😡
+jburnmurdoch	697741739659030528	2016-02-11T11:19:28	alekswis You've made a terrible mistake
+jburnmurdoch	697621978929299458	2016-02-11T03:23:35	This touch by ChristenPress! 🔥🔥🔥 USWNT USAvCRC 
+jburnmurdoch	697709828903411712	2016-02-11T09:12:40	A HUGE VICTORY FOR BRITAIN 
+jburnmurdoch	697709549080420352	2016-02-11T09:11:33	jamesrbuk 🌍
+jburnmurdoch	697708758110203904	2016-02-11T09:08:25	TomWhitwell BenedictEvans If you'll allow a three-in-one (and I hope it doesn't become obsolete!): 🇬🇧 👫🇪🇺
+jburnmurdoch	697706938289811456	2016-02-11T09:01:11	MattNavarra Yeah tbf it gets v.tangled with threaded replies! Often find a thread gets moved up my TL *while scrolling* because new reply
+jburnmurdoch	697706333328580608	2016-02-11T08:58:47	MattNavarra (That's how my TL has been ordered for months, at any rate. Apologies for interrupting, just thought maybe worth noting)
+jburnmurdoch	697705984815460352	2016-02-11T08:57:24	MattNavarra Thats still chrono, no? Top one RTed just now, next one tweeted jst after, then older reply (w/earlier part of thread inserted)
+jburnmurdoch	697701982157594624	2016-02-11T08:41:29	Incredible night in Oregon militia standoff. FBI closes in. Negotiations streamed on Youtube. Cliven Bundy arrested. 
+jburnmurdoch	697510319560794112	2016-02-10T19:59:53	Our latest episode with hadleywickham is live and not to be missed! Check it out and don't forget to subscribe: 
+jburnmurdoch	697696181011509248	2016-02-11T08:18:26	..because it’s 1/2 for either, so chances neither gets it is 1/2*1/2 = 1/4. 75% chance one or both gets it. 
+jburnmurdoch	697694012661227521	2016-02-11T08:09:49	Worth a read: glitzy, one-off hackathons &amp; boot camps won't take ddj global. Much more sustainable approach  needed 
+jburnmurdoch	697522589732839424	2016-02-10T20:48:39	fcage Fouck yo
+jburnmurdoch	697522159082696704	2016-02-10T20:46:56	Soccermetric Think that's it, yeah. Weirdly confusing!
+jburnmurdoch	697521952983027713	2016-02-10T20:46:07	Now looking back at "one fewer colour" and wondering what the correct version should be?
+jburnmurdoch	697521364450832384	2016-02-10T20:43:47	Visual journalists rejoice as Carly Fiorina's withdrawal means one fewer colour to cram into that Republican palette
+jburnmurdoch	697511860309008384	2016-02-10T20:06:01	.Jimmy_Burns on corruption: if Barca lose tax &amp; transfer cases involving Neymar, Rosell etc, they could face total costs of €50m+ FTEngage
+jburnmurdoch	697508045262344192	2016-02-10T19:50:51	Good discussion about punditry at FTengage event on Euro football. dwinnera cites Tim Vickery as e.g of experts being better than ex-pros
+jburnmurdoch	697460247280099328	2016-02-10T16:40:55	joffley kdrum It is my aim to go through life with more cats than the other person at all times 😸
+jburnmurdoch	697425068029304833	2016-02-10T14:21:08	Weird hearing MessiSeconds talk football analytics without the cheerful background music OptaProForum 
+jburnmurdoch	697415959104131072	2016-02-10T13:44:56	JM8999 jessespector 👍 didn't have that data but modal (middle chart) a good alternative and likely to be similar in this case
+jburnmurdoch	697402485313552384	2016-02-10T12:51:24	*particle physicist
+jburnmurdoch	697400483363872773	2016-02-10T12:43:26	Things you hear in an OptaProForum talk: "before getting into football analytics I was a theoretical physicist studying the Higgs Boson"
+jburnmurdoch	697365890376077313	2016-02-10T10:25:59	Today is OptaProForum day, when football stats types the world over leave their scrapers &amp; Shapley Value scripts running &amp; head to London
+jburnmurdoch	697352954203004928	2016-02-10T09:34:35	MikeAshleyLies Ta, I went with figs as reported by PL in order to compare like for like, but appreciate they may missed some outliers
+jburnmurdoch	697352434109313025	2016-02-10T09:32:31	Baggsie13 JimBoardman Mean can be skewed by a few super-high earners, so median a better measure for the typical resident
+jburnmurdoch	697351293434798080	2016-02-10T09:27:59	avocadothrower RustyRL True, but don't have ST holder addresses, and could argue well-run club *should* draw heavily from local area
+jburnmurdoch	697350659272798208	2016-02-10T09:25:27	PaddyBriggs thebatesman1 Spot on, but constituency of Tottenham still big, &amp; could argue well-run club *should* draw heavily from locality
+jburnmurdoch	697322458412642304	2016-02-10T07:33:24	How affordable are Premier League season tickets when you factor in income levels of local fans? lfc afc coys 
+jburnmurdoch	697302556561702912	2016-02-10T06:14:19	"Nigerian astronaut lost in space needs $3m to get home" - beautiful evolution in the Art of the Scam... 
+jburnmurdoch	697316405876760576	2016-02-10T07:09:21	"The US political establishment’s worst nightmare is coming true."  
+jburnmurdoch	697311558477611008	2016-02-10T06:50:05	Finally, this video shows what connecting the next billion really means. These people are not you. &lt;/🐥🌊&gt; 
+jburnmurdoch	697003659876569089	2016-02-09T10:26:36	A/B testing news with the washingtonpost's ‘Bandito’ tool: 
+jburnmurdoch	697052288121237506	2016-02-09T13:39:50	Congrats to AlecuRussell, appointed ftweekend editor, and SpiegelPeter, our new FT news editor from April 
+jburnmurdoch	697086381399609344	2016-02-09T15:55:19	"I miss Barack Obama" - Great read by David Brooks NYTopinion on the 2016 presidential race, and BarackObama 
+jburnmurdoch	697044817684131840	2016-02-09T13:10:09	Revealed: tennis umpires secretly banned over gambling scam. Exclusive, by seaningle  
+jburnmurdoch	696687630335905793	2016-02-08T13:30:49	Sun rising over Mexico City. What a great day to launch this labor of love:  
+jburnmurdoch	693378201029099520	2016-01-30T10:20:20	Handy Resource: Data Visualization Catalogue, search by function or type of graph  
+jburnmurdoch	696686638001496065	2016-02-08T13:26:52	“releasing the actual email to the press” only works as a PR strategy if the original email exculpates you 
+jburnmurdoch	696661948939816961	2016-02-08T11:48:46	maartenzam Afraid not, but a couple of my ft co-conspirators will be there 😊
+jburnmurdoch	696660234660683776	2016-02-08T11:41:57	maartenzam Awesome to see your name on there!
+jburnmurdoch	695753029098856449	2016-02-05T23:37:03	The program for malofiej 24 looks AMAZING infographics dataviz dataJournalism  
+jburnmurdoch	696342702523338752	2016-02-07T14:40:12	This interview with atmccann is fantastic:  dataviz #dataJournalism#infographics 
+jburnmurdoch	696477592040255489	2016-02-07T23:36:12	The reaction to a girl scoring 60 pts, something that very few male or females could do at a D1 level is disgusting 
+jburnmurdoch	696472951659569152	2016-02-07T23:17:46	And for the stattos: LFC 2016/17 Prices: Boxplot and CDF 
+jburnmurdoch	696656850977218560	2016-02-08T11:28:31	Best retirement message of all time? 
+jburnmurdoch	696392193884475392	2016-02-07T17:56:52	My reply to HP, which threatened to cut ads in FT after reading my col.  I love the FT for letting me write this.  
+jburnmurdoch	696517564445257728	2016-02-08T02:15:02	NFL players have become absolutely enormous  
+jburnmurdoch	696379764190408705	2016-02-07T17:07:28	Isn't this misleading if he paid for the trip himself?  
+jburnmurdoch	696336759387512833	2016-02-07T14:16:35	"The most profitable whorehouse in Europe": excellent piece on Premier League ticket prices by _ChrisBascombe 
+jburnmurdoch	696317640009240577	2016-02-07T13:00:36	Excl: Second member Of ISIS’s “Beatles” terror cell unmasked as "quiet &amp; humble" football fan from west London. 
+jburnmurdoch	696325886170292224	2016-02-07T13:33:23	HP complains about lucykellaway piece, mentioning it is an advertiser. She hits back.  
+jburnmurdoch	696315334354141184	2016-02-07T12:51:27	&lt;&lt; I know aliladiere was joking, and I enjoyed the joke!
+jburnmurdoch	696314856891400192	2016-02-07T12:49:33	alijaffer242 
+jburnmurdoch	696314677173866498	2016-02-07T12:48:50	eerlend I know, and a very funny one at that! I wasn't being sarcastic about "best Twitter"
+jburnmurdoch	696312053267615746	2016-02-07T12:38:25	Arsenal Twitter is the best Twitter 
+jburnmurdoch	696306363027365888	2016-02-07T12:15:48	We'll be talking goalkeepers on the the podcast tomorrow with Sam_Jackson94 let us know your questions or anything you'd like us to cover!
+jburnmurdoch	696302285975109634	2016-02-07T11:59:36	flashboy margotlily emily_wight 👍 I was asleep for the riposte
+jburnmurdoch	696300314408910848	2016-02-07T11:51:46	margotlily emily_wight Looks like it. Interesting stuff on precedents in the replies, too.
+jburnmurdoch	696299979355324416	2016-02-07T11:50:26	emily_wight Not sure it should detract from the video's message, but worth noting.
+jburnmurdoch	696299137181032448	2016-02-07T11:47:05	emily_wight Amazing video, but did you hear about this? 
+jburnmurdoch	696295209848676352	2016-02-07T11:31:29	This GopDebate entrance cock up is hilarious:  
+jburnmurdoch	696291234734874624	2016-02-07T11:15:41	Waiting for the great leap forwards - a piece on football in China (with thanks to Prof_Chadwick)... 
+jburnmurdoch	696279891646488576	2016-02-07T10:30:37	And another shout for danielstorey85 on the walkout at Anfield, which you should read.  LFC 
+jburnmurdoch	696281897706614784	2016-02-07T10:38:35	JohanAhlfeldt Awesome! And congrats on the project 👍😀
+jburnmurdoch	696142491570012165	2016-02-07T01:24:38	GuardianJessica They may have their work cut out here 😜 
+jburnmurdoch	696040231628365824	2016-02-06T18:38:17	Very interesting stuff: Understanding what makes a visualization memorable 
+jburnmurdoch	696058956888862721	2016-02-06T19:52:42	ffffelix TroyEricG Stop looking for negatives in what was an outstanding karaoke session
+jburnmurdoch	696054989215698945	2016-02-06T19:36:56	GregorydSam AnalyticsFC Loving the custom ggplot theme
+jburnmurdoch	696051569507377152	2016-02-06T19:23:20	jalapic JohanAhlfeldt Donny peaked in the days of Imperial Rome. Downward slide ever since.
+jburnmurdoch	696050432083435520	2016-02-06T19:18:49	jalapic JohanAhlfeldt Apparently some uncertainty over the legitimacy of my home town 
+jburnmurdoch	696048219525115906	2016-02-06T19:10:02	One of the coolest things I've seen in a while   a high quality interactive map of the Roman Empire by JohanAhlfeldt
+jburnmurdoch	695991823345590272	2016-02-06T15:25:56	What makes LCFC dangerous? Intensity and forward distance  on completed passes leading to dangerous shot (wks 1-20) 
+jburnmurdoch	692048067642724353	2016-01-26T18:14:51	deanbaquet on amandacox’s appointment. pretty clear.  
+jburnmurdoch	695990402038394880	2016-02-06T15:20:17	There is a 0% chance Twitter eliminates the chronological feed.
+jburnmurdoch	695988314269224960	2016-02-06T15:11:59	What time does "What time does the Superbowl start?" start? 
+jburnmurdoch	695990072794030080	2016-02-06T15:18:58	Four reasons addition of algorithmic feed won't ruin Twitter, imo. Article screengrabs from  
+jburnmurdoch	695986087567716352	2016-02-06T15:03:08	ptr_yeung 👍😀😜
+jburnmurdoch	695983492434436096	2016-02-06T14:52:50	ptr_yeung Anyone live-blogging the event? Looks 💯
+jburnmurdoch	695949389525864449	2016-02-06T12:37:19	Calling all aspiring + early career journos interested in Europe: apply for Colchester fellowship FT TheEconomist 
+jburnmurdoch	695713171567460352	2016-02-05T20:58:40	Cirocco Dunlap has written the best piece of 2016. sod it. I give up. I've gone to the pub. ciroccotweets 
+jburnmurdoch	695650362854875136	2016-02-05T16:49:05	Who will win the Super Bowl? Turns out regular season performance isn't much help  SB50 
+jburnmurdoch	695645891076689925	2016-02-05T16:31:19	GavinHJackson I regret nothing
+jburnmurdoch	695644776423673856	2016-02-05T16:26:53	GavinHJackson 
+jburnmurdoch	695383112117723136	2016-02-04T23:07:08	Turns out Age UK have a pretty profitable sideline going on. 
+jburnmurdoch	695509409577865216	2016-02-05T07:28:59	Facebook's iOS Bug Led ComScore to Overestimate Time Spent | Digital - AdAge 
+jburnmurdoch	695505633542426624	2016-02-05T07:13:59	San Francisco, then and now—amazing photos by David Levene on guardian 
+jburnmurdoch	695505893580894210	2016-02-05T07:15:01	Most people know of the NFL concussion problem — but will still let their kid play football. 
+jburnmurdoch	695385861152595969	2016-02-04T23:18:03	Awesome team of confirmed speakers tamaramunzner ColinWare kanarinka chadskelton alignleft driven_by_data 
+jburnmurdoch	695251294785769472	2016-02-04T14:23:20	onyxfish Wait really? I thought it was an awesome little easter egg!
+jburnmurdoch	695250568911126528	2016-02-04T14:20:27	❤️ a clever visual pun: in onyxfish's great piece on "missing data" in Central Africa, the region itself disappears 
+jburnmurdoch	695228338709753856	2016-02-04T12:52:07	You know that map you made with "no data" for big parts of Africa? You should think hard about why that is. 
+jburnmurdoch	695244594842374146	2016-02-04T13:56:43	onyxfish Awesome! I was just about to suggest reading Poor Numbers, but fortunately waited long enough to find you were way ahead of me :-)
+jburnmurdoch	695242727378784257	2016-02-04T13:49:17	MarkHintz miamiworldwide bryfkim jmyrharkins Can't believe I'd never thought to Google it before!
+jburnmurdoch	695229996181426177	2016-02-04T12:58:42	maartenzam It is pretty great! Things like "stringsAsFactors", definitely took some time to get my head around :-)
+jburnmurdoch	695227919585710080	2016-02-04T12:50:27	maartenzam 👍 I like the wizard as a way to demo what you're doing when you use read.csv(), but generally prefer raw commands wherever poss
+jburnmurdoch	694643534910005248	2016-02-02T22:08:19	Maybe twitter is TRYING to self-destruct because the popup tweet box thingy is absolutely the worst. Pls end it. End it now.
+jburnmurdoch	695200868325548032	2016-02-04T11:02:57	Simple but amazingly handy rstats trick I discovered yesterday: pasting data from the clipbard 
+jburnmurdoch	695153947988852736	2016-02-04T07:56:31	In today's ft: daily online fantasy group DraftKings plans UK launch amid US clampdown: 
+jburnmurdoch	695002338977824768	2016-02-03T21:54:04	Pitch side interview. "Luis, how many goals have you scored this season?". "Erm...(pause) ... 35?" "Correct."
+jburnmurdoch	694989754711040005	2016-02-03T21:04:04	The Shard has ten apartments - the most elevated homes in Europe. I asked who lives there...  
+jburnmurdoch	694949755537985536	2016-02-03T18:25:07	BRB 
+jburnmurdoch	694947712630972417	2016-02-03T18:17:00	Hearing about The NICAR T-Shirt Incident™ has led me to discover that the NICAR-L "subscribe" email I sent 2 years ago never got processed 😳
+jburnmurdoch	694838787793391616	2016-02-03T11:04:11	As mixedknuts noted, Arsenal are having a very bad run in front of goal. Huge finishing underperformance in action. 
+jburnmurdoch	694843626556395520	2016-02-03T11:23:24	Really nice tableaupublic viz from beachikeen11 on quarterbacks, ahead of the SuperBowl  
+jburnmurdoch	694842267673194496	2016-02-03T11:18:00	If you think nothing good comes out of Europe, this is clivecookson on Luxembourg's asteroid mining plan  
+jburnmurdoch	694784056983207936	2016-02-03T07:26:42	Yahoo LOLs 
+jburnmurdoch	694673324950028290	2016-02-03T00:06:41	deepxg "glass cannon" 👏👏
+jburnmurdoch	694663280623747076	2016-02-02T23:26:46	journodave GavinHJackson 👍 but trend rings true for Sky as well imo
+jburnmurdoch	694662665671708672	2016-02-02T23:24:20	journodave GavinHJackson As a general rule print is less agenda-driven over there, TV less agenda-driven over here
+jburnmurdoch	694642038873042946	2016-02-02T22:02:22	The mysterious case of the motorised bike now involves allegations of stolen parakeets |  
+jburnmurdoch	694216800918224897	2016-02-01T17:52:37	Nice collection of tweet-sized d3js creations: to add yours tweet the code followed by  
+jburnmurdoch	694544859097665538	2016-02-02T15:36:13	BKilmartinIT Cheers Brian!
+jburnmurdoch	694514963541397504	2016-02-02T13:37:25	via newyorker 
+jburnmurdoch	694482747956563968	2016-02-02T11:29:24	When and where are the key US primaries? Find out what lies ahead with our calendar  
+jburnmurdoch	694439908019150848	2016-02-02T08:39:10	Worville Great range of topics, likewise with SimonGleave episode. Difficult to do jumps in subject matter well, but 👏👏
+jburnmurdoch	694438344177090560	2016-02-02T08:32:57	Fave ep of AnalyticsFC pod so far: seaningle on weaving stats into sports writing, &amp; ❓s around tennis match fixing 
+jburnmurdoch	694431508459839488	2016-02-02T08:05:48	Awesome post on speeding up your rstats code to get from 856 to 11.5m rows/second  
+jburnmurdoch	694210386875281408	2016-02-01T17:27:08	elliot_bentley basilesimon (╯°□°)╯︵ ┻━┻  %&gt;&gt;%  \_(ツ)_/¯
+jburnmurdoch	694208670742286336	2016-02-01T17:20:19	basilesimon elliot_bentley Don't pretend you don't want to "pipe an object forward" 
+jburnmurdoch	694191224572493824	2016-02-01T16:11:00	Can Djokovic catch Federer on 17 Slams? Yesterday he won his 11th, aged 28. Who else has won titles beyond that age? 
+jburnmurdoch	694158027507785728	2016-02-01T13:59:05	Memo to the market: hipsters are big business.  
+jburnmurdoch	694168918383001601	2016-02-01T14:42:21	Posted  in the ftdata Slack channel, and team productivity levels have fallen to an all time low
+jburnmurdoch	694147622521692160	2016-02-01T13:17:44	NYAsoccer Ill-informed transfer gossip at the bar/watercooler is a core responsibility of any football fan &amp; I wont hear a word otherwise 😜
+jburnmurdoch	694144588945190913	2016-02-01T13:05:41	IM_Lisandro Tussendelinies Dnt think anyone includes wages, since a) notoriously hard to find out, b) would mean much bigger differences
+jburnmurdoch	694144328873164800	2016-02-01T13:04:39	IM_Lisandro Tussendelinies In some cases it's bonuses, but many (Memphis for example) show a whole range of differences
+jburnmurdoch	694143990707441664	2016-02-01T13:03:18	sportingintel Thanks Nick, fascinating work! Hadn't come across cash spend documented before (only amortisation), interesting to see.
+jburnmurdoch	694138033533272064	2016-02-01T12:39:38	It's DeadlineDay! Big fees will be quoted, but can we rly trust the 💰💵💷💶 in the headlines?  
+jburnmurdoch	694136444223426560	2016-02-01T12:33:19	How does Ben Stokes compare to top all-rounders? Great piece from robminto for ft Baseline  
+jburnmurdoch	694121023843733504	2016-02-01T11:32:02	canaryralph sianhmiles 😀
+jburnmurdoch	694081193722122240	2016-02-01T08:53:46	juliamacfarlane If there's a more glamorous/exciting way to spend a Friday afternoon, it's news to me 😜
+jburnmurdoch	694080165635301376	2016-02-01T08:49:41	MartinBelam *snaffle*
+jburnmurdoch	694079607188951040	2016-02-01T08:47:28	Epic congrats to RobinKwong, who has transcended ftdata to become ft's inaugural Special Projects Editor. Also his cat has a FB page 😸
+jburnmurdoch	694077699552337920	2016-02-01T08:39:53	RobinKwong Slacker
+jburnmurdoch	694076913476878336	2016-02-01T08:36:46	PatrickStotz 😀
+jburnmurdoch	694074113409826816	2016-02-01T08:25:38	Some personal news: I am now Special Projects Editor FT ✔️ New Twitter Bio ✔️ New site:  ✔️ 'Personal news' tweet
+jburnmurdoch	694067964220411905	2016-02-01T08:01:12	Also, next time you'd want to do it, it'll only take you minutes. R ftw 
+jburnmurdoch	694067416737931265	2016-02-01T07:59:01	How to scrape, analyse &amp; chart info on 4,000 footballers in an afternoon  rstats d3js ddj 
+jburnmurdoch	693930791575932928	2016-01-31T22:56:07	datascienceplus Might expand a little in a lengthier post on Github, time permitting :-) Loved this post &gt;&gt; 
+jburnmurdoch	692999233776029697	2016-01-29T09:14:27	...nice patterns sometimes look silly in a broader context. Nice from RToplensky in  FTLex  
+jburnmurdoch	693912866441793536	2016-01-31T21:44:54	HarvTammam ICYMI: 
+jburnmurdoch	693912571993309185	2016-01-31T21:43:44	Samirak93 Hi Samira, do you mean what are the units? There's no 'real-world' equivalent since pitch dimensions vary. Just 0-50 in each case
+jburnmurdoch	693908021760692224	2016-01-31T21:25:39	SamuelLeach Might write a quick blogpost on it 2mo, since there are interesting nuggets in the data that the story never set out to look at
+jburnmurdoch	693907522818801664	2016-01-31T21:23:40	SamuelLeach Right or wrong, we don't tend to do individual names for graphics. Accompanying story was written before I got involved.
+jburnmurdoch	693902567559004160	2016-01-31T21:03:58	cchappas Ah, good spot! Have added that in
+jburnmurdoch	693870028047945728	2016-01-31T18:54:40	As promised, the rstats code used to get &amp; analyse data for these charts on EU footballers  
+jburnmurdoch	693847154847268864	2016-01-31T17:23:47	moorejh randal_olson No I completely agree, point is "real world objects" vs abstract, rather than "people vs non-people"
+jburnmurdoch	693831603274059777	2016-01-31T16:21:59	The irony of MK Dons fans booing Diego Costa, a man who renounced his original home because it was more lucrative to move somewhere else.
+jburnmurdoch	693830881010675712	2016-01-31T16:19:07	jamestitcomb Birdyword Same reason Arsenal fans have such high expectations: "We were top all throughout pre-season"
+jburnmurdoch	693825587178246144	2016-01-31T15:58:05	benjaminpugsley 👍 Cant argue w/any o that, but imo concerns w/attitude + non-stellar NPG ➡️ lower fee. As an NUFC fan would ❤️ to be wrong
+jburnmurdoch	693824346662510592	2016-01-31T15:53:09	randal_olson moorejh Ha, not sure not being a journo by profession makes your views any less valid! 😀
+jburnmurdoch	693823936295997444	2016-01-31T15:51:31	benjaminpugsley Defs not saying performance at one club = performance at another, jst putting numbers out there. Also v.high usage in 14/15
+jburnmurdoch	693822379819188227	2016-01-31T15:45:20	randal_olson moorejh ... We dataviz folk can use real-world imagery to give non-datviz-aficiinados reasons to join in the fun (2/2)
+jburnmurdoch	693822062520066048	2016-01-31T15:44:04	randal_olson moorejh Not sure I see it as a problem to fix - just as a good journalist uses human stories/quotes/emotions (1/2)
+jburnmurdoch	693818291303944193	2016-01-31T15:29:05	LeutrimRexhaj Townsend and - if it happens - Berahino both bad signings
+jburnmurdoch	693817896611528704	2016-01-31T15:27:31	randal_olson moorejh We're outliers here: generally spkng people are drawn more to recognisable objects (e.g faces) than abstract graphics
+jburnmurdoch	693817456243138560	2016-01-31T15:25:46	NUFC bidding £21m for a striker who averages 0.3 non-penalty goals per 90, i.e ~10 goals in a full league season 
+jburnmurdoch	693810801619116032	2016-01-31T14:59:20	Good piece from bencardew on future of online commenting, featuring this on coralproject  
+jburnmurdoch	693802305360171008	2016-01-31T14:25:34	Carlisle and the police are dealing with racist abuse from the home crowd towards Arouna Kone, Aaron Lennon &amp; Steven Pienaar
+jburnmurdoch	693796236005150720	2016-01-31T14:01:27	OneShortCorner 😳😀 Very kind, thanks!
+jburnmurdoch	693795930819186688	2016-01-31T14:00:14	ryanmartin31 Yeah it's an interesting phenom. Wrote earlier about "ageing population" issue  
+jburnmurdoch	693793324365418497	2016-01-31T13:49:53	Can Djokovic catch Federer on 17 Grand Slams? Today's AusOpen was his 11th, aged 28. Here are some older GS winners 
+jburnmurdoch	693776345474715648	2016-01-31T12:42:25	grbarnett ffffelix The boiled one could definitely be executed better
+jburnmurdoch	693775630295498753	2016-01-31T12:39:34	ffffelix grbarnett 
+jburnmurdoch	693764403439673344	2016-01-31T11:54:57	Poignant moment: Murray with message to pregnant wife Kim. "You've been a legend the last two weeks...I'll be on the next flight home"
+jburnmurdoch	693760145604612096	2016-01-31T11:38:02	Djokovic wins the AusOpen! Here's why this is the greatest ever streak in men's tennis  
+jburnmurdoch	693757781585702912	2016-01-31T11:28:39	Muzz notorious for having no luck in terms of opponents in GS finals:    
+jburnmurdoch	693755005703184384	2016-01-31T11:17:37	BREAKING: Cycling: Hidden engine found on bike at cyclo-cross world championships - UCI
+jburnmurdoch	693459945279340544	2016-01-30T15:45:09	HarvTammam 👍 Focus of story was EU players &amp; Brexit, hence sorting by that. Just used the English focus &amp; headline for this tweet
+jburnmurdoch	693445458837004289	2016-01-30T14:47:35	Kerber's drop shots, Williams's net rushing -- a tennis court is a lab for tactical and strategic experimentation 
+jburnmurdoch	693439175824150528	2016-01-30T14:22:37	John_B58 In case it helps: 
+jburnmurdoch	693438840963502081	2016-01-30T14:21:17	John_B58 Tell me more?
+jburnmurdoch	693431322530963458	2016-01-30T13:51:25	Melanha If I have time I'll calculate the same for other countries' leagues, compare % of mins played by "home-grown" talent
+jburnmurdoch	693430546429513729	2016-01-30T13:48:20	LesRosbifs 😜 imo you would expect teams spending most of recent history below top tier to have highest % from British Isles
+jburnmurdoch	693429511011110912	2016-01-30T13:44:13	Melanha Yup, and almost 70% in terms of mins played. Highest in the league by some way 😊
+jburnmurdoch	693428831223431168	2016-01-30T13:41:31	For anyone interested, I'll be putting up the full rstats scraping and dataviz code behind those two charts later this weekend
+jburnmurdoch	693428163502804992	2016-01-30T13:38:52	LesRosbifs 👍 hence specifying "top" PL sides. We went back and forth on wording but settled on this in the end
+jburnmurdoch	693427777001930753	2016-01-30T13:37:19	As Karren Brady warns of Brexit's impact on Premier League, we found EU nationals are playing highest % of mins ever 
+jburnmurdoch	693426913046454272	2016-01-30T13:33:53	Half-time reading: among top Premier League sides, Tottenham give by far the most opportunities to English players 
+jburnmurdoch	693392279344644097	2016-01-30T11:16:16	A rousing speech from Angie Kerber,complimenting Serena on &amp; off the court &amp; mentioning the near early exit AusOpen 
+jburnmurdoch	693096621467373568	2016-01-29T15:41:26	sarahlaitner robminto My friend in Sicily says Murray to win the first set, but he's not sure who will win the match ¯\_(ツ)_/¯
+jburnmurdoch	693093978711932928	2016-01-29T15:30:56	maartenzam martinstabe RobinKwong The problem with RGBs is they can't be used as hashtags on here 😜
+jburnmurdoch	693092931532619777	2016-01-29T15:26:46	maartenzam martinstabe RobinKwong And yet I fear I may be the loser here...
+jburnmurdoch	693092520717324292	2016-01-29T15:25:08	maartenzam martinstabe RobinKwong I only remember af516c 9e2f50 cec6b9 fff1e0 e9decf 74736c a7a59b 76acb8 ecafaf d7706c 43423e
+jburnmurdoch	693089432161947648	2016-01-29T15:12:52	RobinKwong martinstabe sarahoconnor_ Aeropress, coffee and choropleth map of London rents all in view. Data journalism in a nutshell.
+jburnmurdoch	693061445936926721	2016-01-29T13:21:39	littleark I was wondering what to call it for a while, but that seems to fit nicely 😀
+jburnmurdoch	693057573294071809	2016-01-29T13:06:16	Belated shout-out to littleark whose small-multiples legend (I'm thinking "sidecar legend"?) inspired mine dataviz 
+jburnmurdoch	692984312334008321	2016-01-29T08:15:09	ICYMI: Djokovic 2015 was best ever 🎾. Explore the greats visualised as 'symphonies'  dataviz 
+jburnmurdoch	692976061836083200	2016-01-29T07:42:22	sportdw "The great thing about writing your own scrapers is they save so much time in the long run." *re-runs script a week later* "Shit."
+jburnmurdoch	692718080028442624	2016-01-28T14:37:15	TimBrock_DtD Andros is my least favourite (And)+[a-z]+\s+(Townsend) in football, and that's saying something. Awful signing. regexJokes
+jburnmurdoch	692706605792624641	2016-01-28T13:51:39	RobinKwong duncanrobinson BRB trying to find a suitable Kanye/Wiz tweet to use at this point in the conversation
+jburnmurdoch	692705619648892928	2016-01-28T13:47:44	helloitsjacko Drasdo 
+jburnmurdoch	692705219843616769	2016-01-28T13:46:08	maartenzam Thanks Maarten! We half-considered actually doing this using sounds -- maybe next time!
+jburnmurdoch	692704866825822209	2016-01-28T13:44:44	RobinKwong duncanrobinson Not sure if that's credit or blame...
+jburnmurdoch	692704560423501824	2016-01-28T13:43:31	madestro funkehlady maartenzam :-D
+jburnmurdoch	692666244479213568	2016-01-28T11:11:16	SimonGleave Indeed
+jburnmurdoch	692666140137488384	2016-01-28T11:10:51	kryptobanana bootifulgame beefoo Yeah we were thinking sound of ball being hit, varying volume, different court noises indicating surface
+jburnmurdoch	692664955582160896	2016-01-28T11:06:09	SimonGleave  😜
+jburnmurdoch	692637971787444224	2016-01-28T09:18:55	
+jburnmurdoch	692461107789840385	2016-01-27T21:36:08	New Podcast!   Episode 20 with SimonGleave   This was a fun one, enjoy!  
+jburnmurdoch	692625007021834240	2016-01-28T08:27:24	Ramires ➡️ China for reported £25m, but those fees aren't always as precise as u might think  
+jburnmurdoch	692619728918089728	2016-01-28T08:06:26	drryandunn Thanks Ryan! 😀
+jburnmurdoch	692616107107184640	2016-01-28T07:52:02	RogerPielkeJr  😊
+jburnmurdoch	692613338287771648	2016-01-28T07:41:02	dryhumour Yep, though Fed's peak came a little earlier. His '05 and '06 seasons almost as good as Djokovic '15 btw 
+jburnmurdoch	692610287493582848	2016-01-28T07:28:55	Djokovic faces Federer in an hour, but first find out why his 2015 was the best season ever  
+jburnmurdoch	692419550424489984	2016-01-27T18:51:00	bootifulgame We did actually talk about this yesterday - rare case where musical encoding of data would work! Maybe in a future update...
+jburnmurdoch	692413016646782976	2016-01-27T18:25:02	gabrieldance Thanks Gabe! Lots of dplyr and tidyr at work in the data collection/analysis phase :-)
+jburnmurdoch	692406176437374977	2016-01-27T17:57:51	BigTenWatto Thanks very much! 😀
+jburnmurdoch	692406029523537920	2016-01-27T17:57:16	Worville Cheers! And yeah do it 👍 Ace resource here from adamrpearce on using d3 for back-end as well as visuals 
+jburnmurdoch	692405162623799297	2016-01-27T17:53:49	ThomToussaint Thanks Thomas! Very kind :-)
+jburnmurdoch	692404936097820673	2016-01-27T17:52:55	Ace seaningle summary of problems w/ apparent over-reliance on data in the tennis match-fixing story  HT grbarnett
+jburnmurdoch	692402163205668865	2016-01-27T17:41:54	I'm calling this Novak's Symphony Number 1 dataviz 
+jburnmurdoch	692401101891592192	2016-01-27T17:37:41	tonyhschu Largely just screen width. Breakpoint for scrolling v stepping is iPad width, and some other slight changes for small mobiles :-)
+jburnmurdoch	692400757035917312	2016-01-27T17:36:19	cchappas Cheers, very kind! Been loving your small-multiples of late :-)
+jburnmurdoch	692400095250219012	2016-01-27T17:33:41	jair1970 😀 Ta! The musical notation style wasn't premeditated, but after early drafts it felt like an obvious visual metaphor to play with
+jburnmurdoch	692399572983898116	2016-01-27T17:31:37	This piece explores the best ever seasons on the men's tour, but WTA version will be making an appearance too :-) 🎾 
+jburnmurdoch	692398635154280448	2016-01-27T17:27:53	jair1970 Cheers James. First experiment with scroll-driven animations on the scatter plot -- hopefully added some value :-)
+jburnmurdoch	692398467327643648	2016-01-27T17:27:13	kryptobanana I've actually made a WTA one too, but don't wanna put all the thingz out at once :-)
+jburnmurdoch	692398187265531904	2016-01-27T17:26:06	Featuring a new experiment with scrollytelling for desktop, step-through for other devices 
+jburnmurdoch	692394493572714497	2016-01-27T17:11:25	NEW: Djokovic's 2015 was the best ever men's tennis season. Here's why  AusOpen dataviz 
+jburnmurdoch	692337966904115200	2016-01-27T13:26:48	Who are the biggest rebels in the German parliament?  Worked on this with marcelpauly and moonwavelabs at welt
+jburnmurdoch	692109656538378240	2016-01-26T22:19:35	An outstanding crop of knightfdn News Challenge Winners this year. Wow. 
+jburnmurdoch	689130000285564928	2016-01-18T16:59:30	BuildTheNews is way more accessible this year for non-devs, and way less stressful (we hope) for devs! 
+jburnmurdoch	692257387080728576	2016-01-27T08:06:37	Awesome to see amandacox appointed editor of UpshotNYT! One of my biggest inspirations in data/vis journalism 
+jburnmurdoch	691631532973395968	2016-01-25T14:39:42	.SethAckerman takes on Yglesias, Ezra Klein, and the whole anti-Sanders schmear. You don't want to miss this one. 
+jburnmurdoch	691765341576392705	2016-01-25T23:31:24	Would it be better if you only saw Twitter replies from friends, with others hidden by default?  
+jburnmurdoch	691644295133032448	2016-01-25T15:30:24	Some tips for how managers can show what the numbers mean  
+jburnmurdoch	691338785519452160	2016-01-24T19:16:25	sarahlaitner robminto On same topic, worth giving this a read: 
+jburnmurdoch	691338670411010048	2016-01-24T19:15:58	sarahlaitner robminto Just listened - interesting stuff! Underlines that the issue is there regardless of problems with new data.
+jburnmurdoch	691320007989542912	2016-01-24T18:01:48	Trademark knee-jerkery on bbc5live, where Arsenal's need for a new striker flips between "URGENT" and "nah" based on latest single result
+jburnmurdoch	690673702225051648	2016-01-22T23:13:37	French male name popularity by province across the years. I love these kinds of maps 
+jburnmurdoch	691219142570041344	2016-01-24T11:21:00	Surprised sports gambling is bigger 💰 than sport itself? Here are two figures for 2012 turnover: Liverpool FC £169m Topshop Oxford St £165m
+jburnmurdoch	691216065427345408	2016-01-24T11:08:46	duncanrobinson KuperSimon One of my fave stats: in 2012 Liverpool FC (£169m) had ~same turnover as Topshop's Oxford St store alone (£165m)
+jburnmurdoch	691211951976902656	2016-01-24T10:52:26	Interesting idea: set up a WhichUK / ConsumerReports to rate security of IoT devices so consumers better informed 
+jburnmurdoch	691209798755422208	2016-01-24T10:43:52	.KuperSimon: "Sports gambling is now bigger business than sport itself"  HT duncanrobinson 
+jburnmurdoch	691032352412274689	2016-01-23T22:58:46	DannyPage First one fails the test, and is from a professional coach 😔
+jburnmurdoch	691021663249514496	2016-01-23T22:16:17	Sexism is a problem in all sports everywhere, but things like this make you realise British football is among worst 
+jburnmurdoch	690996927400402947	2016-01-23T20:38:00	On Dele Alli, Stephanie Roche...and the fragile English male ego? 
+jburnmurdoch	690781954271121408	2016-01-23T06:23:46	20 sign ups in Tennis Data Storytelling Challenge! tennisabstract cc:SilkDotCo 
+jburnmurdoch	690950480365817856	2016-01-23T17:33:26	Terrible news from GiantAlpecin camp in Calpe. Group of 6 riders hit a car, 4 in hospital. Hope they are ok.  
+jburnmurdoch	690900461721772032	2016-01-23T14:14:41	Animated: Traffic as proxy for weather radar. 9:30 a.m to 12 a.m. Stills every 1/2 hour. (Gap between 2 and 4 p.m.) 
+jburnmurdoch	690825110144557056	2016-01-23T09:15:15	Emerson Spartz: “New media gives people what they want. Old media gives them what editors believe pple should want” 
+jburnmurdoch	690815939458252800	2016-01-23T08:38:49	“the amount of traffic BuzzFeed gets from our newsletters is almost as much as we get from Twitter” 
+jburnmurdoch	690275271111499776	2016-01-21T20:50:23	We are pleased to announce that datavisualisation editor ft - theboysmithy will be speaking at TEDxExeter 2016 
+jburnmurdoch	690866021549342722	2016-01-23T11:57:49	Good read about the Hatton Garden burglars 
+jburnmurdoch	690578702850265089	2016-01-22T16:56:07	I predict you will see a lot of news orgs following up this report. It’s so telling: 
+jburnmurdoch	690455921441386496	2016-01-22T08:48:14	The UN redacted a report to downplay suffering in Syria after consulting the Syrian government - pretty egregiously 
+jburnmurdoch	690257040506294272	2016-01-21T19:37:57	Facebook admits its algorithms aren't that great, kindly asks you to meta tag all of your posts 
+jburnmurdoch	690132343760248832	2016-01-21T11:22:27	Some outstanding work on tennis match-fixing and betting data from sportdw   TennisRacket
+jburnmurdoch	690125812582977536	2016-01-21T10:56:30	SimonGleave RogerPielkeJr Not sure -- can't imagine they didn't expect players to be re-identified.
+jburnmurdoch	690065151006019585	2016-01-21T06:55:27	where's the justgiving page? 
+jburnmurdoch	689853142192680960	2016-01-20T16:53:00	The ugly face of "data journalism"--&gt; No Evidence of Lleyton Hewitt Fixing Matches 
+jburnmurdoch	689969826677284865	2016-01-21T00:36:40	Best piece yet on Buzzfeed/BBC --&gt; Tennis Could Have a Much Bigger Problem than Match-Fixing  via VanityFair
+jburnmurdoch	689917264146001925	2016-01-20T21:07:48	Interesting analysis here. Worth a read if you have been following match fixing stories.  
+jburnmurdoch	689498497695936516	2016-01-19T17:23:46	Made a simulator. For how you will die. Enter your sex, race, and age.  
+jburnmurdoch	689496186940628992	2016-01-19T17:14:35	.ProPublica's Summer Data Institute now has an FAQ: 
+jburnmurdoch	689906453390479361	2016-01-20T20:24:50	RogerPielkeJr Yup, fantastic work both from sportdw and earlier from show_legend. Completely agree that you need those qualitative checks
+jburnmurdoch	689904662716219392	2016-01-20T20:17:44	RogerPielkeJr Fair enough, though for me that's separate from the initial data work. Maybe I'm just being too defensive of the genre.
+jburnmurdoch	689902300253573121	2016-01-20T20:08:20	RogerPielkeJr ...and if that further study shows that you had false positives, doesn't necessarily mean the data work was wrong/wasted
+jburnmurdoch	689902217755824129	2016-01-20T20:08:01	RogerPielkeJr Understand your concerns here Roger, but imo using data to get a shortlist for further qualitative study is fine...
+jburnmurdoch	689828248658685956	2016-01-20T15:14:05	This is getting ridiculous. Instead of an iframe from FD, MailOnline just straight up lifted the interactive 
+jburnmurdoch	689841983595085825	2016-01-20T16:08:40	aishagani MartinBelam alexhern jamesrbuk elenacresci Thursday = cake trolley day at ft. There'd be uproar if anyone tried to end it!
+jburnmurdoch	689783344901591040	2016-01-20T12:15:39	From ft archive: Who influences the influencers? We graphed who follows whom at Davos 2015  
+jburnmurdoch	687281434051088385	2016-01-13T14:33:57	I can't believe I missed this: IXT has such a beautiful brand-makeover, with a new website and all. Love it! 
+jburnmurdoch	689732073024819201	2016-01-20T08:51:55	Rudeness between staff could kill patients. What a fascinating study. It's something pilots have known for ages. 
+jburnmurdoch	689727504056193025	2016-01-20T08:33:46	"We're here just thawing out" 
+jburnmurdoch	689726280334446592	2016-01-20T08:28:54	Bold approach 
+jburnmurdoch	689723186766860288	2016-01-20T08:16:36	Great to hear simonrbriggs on TennisPodcast crediting use of data-journalism in tennisracket match-fixing story 
+jburnmurdoch	689720938707992577	2016-01-20T08:07:40	Delighted to have been invited onto the AllJournalism podcast to talk about data- and visual-journalism at the ft 
+jburnmurdoch	689463703159250947	2016-01-19T15:05:31	elenacresci jane__bradley Come on Len, you know I never wear anything that isn't verging on skin tight
+jburnmurdoch	689461102661537792	2016-01-19T14:55:11	💯 demo of @shorthand_ just now from rachelabartlett. Some ace recent uses by Telegraph  
+jburnmurdoch	689391240232640512	2016-01-19T10:17:34	Frah5 DansLaMusette Ah, well then I recommend the English-language equivalent: nyvelocity 😊
+jburnmurdoch	689361600621449216	2016-01-19T08:19:47	Frah5 DansLaMusette Ewan est dixième dans le Peloton, mais un à neuf ne sont pas en Australie 😊
+jburnmurdoch	689358314086469632	2016-01-19T08:06:44	TroyEricG Impressive memory skillz: 
+jburnmurdoch	689355876788994049	2016-01-19T07:57:03	Here's the full piece introducing the ratings, and the key rivalries set to emerge or reignite in 2016 
+jburnmurdoch	689353545112539136	2016-01-19T07:47:47	.ORICA_GreenEDGE's Caleb Ewan wins stage 1 of TDU. Here's how our Sprinter Ratings scored him ahead of the season 
+jburnmurdoch	689080637320482818	2016-01-18T13:43:21	theneilrichards Presenting the original Luis Suarez. All others are imitations:  
+jburnmurdoch	689079296397340672	2016-01-18T13:38:01	sdbernard 😳😁
+jburnmurdoch	688789023175897089	2016-01-17T18:24:34	3D globes in Blender/QGIS/Pshop. Quick how to guide on Medium  GIS gistribe QGIS 
+jburnmurdoch	689008396352253952	2016-01-18T08:56:17	Today's tennis scandal provides a nice comparison of how the BBC &amp; Buzzfeed present stories  
+jburnmurdoch	689001460529545216	2016-01-18T08:28:43	Nice work from my FTChinese colleague silvashih on the Taiwan elections: 
+jburnmurdoch	688979426906869761	2016-01-18T07:01:10	LAUNCH: Apply now to impactAFRICA, Africa's largest fund for data-driven storytelling  ddj 
+jburnmurdoch	688986726568595458	2016-01-18T07:30:11	ICYMI - Stanley Matthews to Leo Messi: Ballon d'Or maps rise &amp; fall of Europe's ⚽️ powers  
+jburnmurdoch	688855609375068162	2016-01-17T22:49:10	tslumley kamal_hothi True, but as method of creating shortlist for further investigation it seems reasonable, unless I'm missing anything?
+jburnmurdoch	688850643805728768	2016-01-17T22:29:26	Scribblr_42 Ha, I'd say so 😜
+jburnmurdoch	688848816972365824	2016-01-17T22:22:10	Full methodology of the amazing BuzzFeedNews stats-driven investigation into tennis match fixing here &gt;&gt;&gt; 
+jburnmurdoch	688845740572045312	2016-01-17T22:09:57	Algorithms to police sport fixing journalism  
+jburnmurdoch	688382319661608960	2016-01-16T15:28:29	“The DIY Scientist, the Olympian, and the Mutated Gene”  (by DavidEpstein, propublica) 
+jburnmurdoch	688475089004814337	2016-01-16T21:37:07	From Stanley Matthews to Leo Messi: Ballon d'Or maps the rise &amp; fall of Europe's ⚽️ powers  
+jburnmurdoch	688409351619526656	2016-01-16T17:15:54	thefercook Thanks Fernando! I was inspired by WSJGraphics for the responsive chart rotation idea: 
+jburnmurdoch	688404775394787329	2016-01-16T16:57:43	tom_farmery 
+jburnmurdoch	688375303169806336	2016-01-16T15:00:36	DuncanWeldon jimwaterson duncanrobinson clusterstock youngvulgarian *scrape* 
+jburnmurdoch	688369751777775617	2016-01-16T14:38:32	DuncanWeldon jimwaterson duncanrobinson clusterstock Amusingly now updated from 21 to 22. "wtf bro can't believe u left me off the list"
+jburnmurdoch	688335520938733568	2016-01-16T12:22:31	NEW: every Ballon d'Or winner since 1956 - which leagues have provided the most contenders?  
+jburnmurdoch	688328694369267713	2016-01-16T11:55:23	.MattSingh_ of NCPoliticsUK explains to BBCNewsnight why he thinks the polls went wrong in May 2015. 
+jburnmurdoch	688087456885948416	2016-01-15T19:56:48	NEW: every Ballon d'Or winner since 1956 - which leagues have provided the most contenders?  
+jburnmurdoch	688005545224192000	2016-01-15T14:31:19	EvansSre adhayward18 Thanks, Simon :-)
+jburnmurdoch	687949145924071424	2016-01-15T10:47:12	Amazing axis work from Goldman. 
+jburnmurdoch	687752665120518144	2016-01-14T21:46:27	This is a really great piece 
+jburnmurdoch	687839413821411328	2016-01-15T03:31:10	New Podcast: Great conversation w/ jburnmurdoch about data journalism FinancialTimes 
+jburnmurdoch	683250331053109252	2016-01-02T11:35:47	Microblog for "Defensive Errors" by position and team. Will turn into a full blogpost soon 
+jburnmurdoch	687660506581172225	2016-01-14T15:40:15	RichardFergie neilcharles_uk Yeah my main issue with off-white comes from an assumption that most people publish on blogs/sites w/white bg
+jburnmurdoch	687618458704568320	2016-01-14T12:53:10	tomp Frankly they deserve radiation posioning
+jburnmurdoch	687616447086989312	2016-01-14T12:45:10	neilcharles_uk Great post, Neil! Only thing I differ on is white bg, which I prefer to slightly off-white, but that's just personal taste 🙂
+jburnmurdoch	687312530507694080	2016-01-13T16:37:31	New rules inspired by NYT series will seek to identify secret buyers of luxury real estate  
+jburnmurdoch	687597614561366017	2016-01-14T11:30:20	Awesome piece by jonathanstray looking at which comes first: media coverage or success in the polls  HT martinstabe
+jburnmurdoch	687409847013392385	2016-01-13T23:04:13	MC_of_A Yeah I'm gambling on my follower demographic being more Oxford English Dictionary than Urban Dictionary 😜
+jburnmurdoch	687408562243502081	2016-01-13T22:59:07	Which was better?
+jburnmurdoch	687288534412226561	2016-01-13T15:02:10	There'd better be drone dogfights in the rebooted Robot Wars 
+jburnmurdoch	687274417051799553	2016-01-13T14:06:04	If Davos can't boost its own female attendance by more than 1 percentage pt, how can it purport to solve much else? 
+jburnmurdoch	687199643218919424	2016-01-13T09:08:57	GregorydSam Torvaney Ah no way, so was I!
+jburnmurdoch	687198843696447488	2016-01-13T09:05:46	Went to see Middlesbrough at Brentford last night (as a neutral). Boro's take on La Bamba is awesome 
+jburnmurdoch	687187333494394881	2016-01-13T08:20:02	Trying something new, suggestions welcome! Performance vs bookies implied expectations (excl last night's matches). 
+jburnmurdoch	687078596997951489	2016-01-13T01:07:57	New blog: Introducing ICER Calculations for Comparing Players.   
+jburnmurdoch	687183989786947584	2016-01-13T08:06:45	This is basically right about how newsrooms have been approaching engagement (as one more 'to do' after publication) 
+jburnmurdoch	686996981592358912	2016-01-12T19:43:38	Hey here are our Iowa and New Hampshire forecasts! 
+jburnmurdoch	687180135477415937	2016-01-13T07:51:26	Really nice article by enjalot "Automatically generate beautiful visuals from your data" (or why you really can't) 
+jburnmurdoch	687179646635503616	2016-01-13T07:49:29	Scienceofsport JacquesR See also: 
+jburnmurdoch	687027815783489536	2016-01-12T21:46:10	Man United's attack scores three goals against Newcastle's defence, aka what happens when a stoppable force meets a moveable object
+jburnmurdoch	686889066311380992	2016-01-12T12:34:49	KarrieKehoe Going row by row, since target is hrefs of specific cell refs rather than text from all table cells. Thankfully done now 😊
+jburnmurdoch	686877982644912129	2016-01-12T11:50:47	KarrieKehoe Written a workaround, but if you know of a way to scrape an HTML table intelligently given merges, I would ♥️♥️♥️ to know 🙂
+jburnmurdoch	686876948824461312	2016-01-12T11:46:40	jamesrbuk Ooh, tough one. At least with a stubbed toe the pain subsides more quickly
+jburnmurdoch	686876396585639936	2016-01-12T11:44:29	Not 100% certain, but fairly sure merged cells in HTML tables are the worst things in the world. WebScrapingWoes
+jburnmurdoch	686837224634200064	2016-01-12T09:08:49	masroorhussnain andrewbhall Yup 
+jburnmurdoch	686819552731262976	2016-01-12T07:58:36	Great piece from a junior doctor - they've got my full support today 
+jburnmurdoch	686817055316819968	2016-01-12T07:48:41	Try this on your mobile:  bowie
+jburnmurdoch	686601358380773376	2016-01-11T17:31:34	benfenton Coneee I was in a meeting last Friday lunchtime and before I'd even sat down was asked "Wait, no football today?"
+jburnmurdoch	686600802497097728	2016-01-11T17:29:22	Coneee benfenton There is actually a Friday lunchtime kick-about, which may siphon off some of those who would otherwise be up for a run
+jburnmurdoch	686564526016303104	2016-01-11T15:05:13	showing shifting distributions with small multiples: point differentials in 2015 nba games   
+jburnmurdoch	686574118330863617	2016-01-11T15:43:20	elenacresci jane__bradley TroyEricG mikesmithc4 Knik-knik, and it's not made up its VERY REAL
+jburnmurdoch	685503255300800512	2016-01-08T16:48:06	When your interactive stokes readers' curiosity, unexpected (cool) things happen. More from seecmb of wsj: 
+jburnmurdoch	686531325889757184	2016-01-11T12:53:17	ICYMI: analysis of football transfer fees reported by European news orgs reveals uncertainty over the 💷💶 involved 
+jburnmurdoch	686503574239621120	2016-01-11T11:03:01	Catching up on jschwabish's awesome policyviz podcasts -- highly recommend to anyone interested in dataviz, ddj and digital storytelling
+jburnmurdoch	686307390489247749	2016-01-10T22:03:27	EXCLUSIVE - Is sport's darkest secret about to be exposed?  
+jburnmurdoch	686427143279001600	2016-01-11T05:59:18	Magnus   
+jburnmurdoch	686459728663306240	2016-01-11T08:08:47	ICYMI: analysis of football transfer fees reported by European news orgs reveals uncertainty over the 💷💶 involved 
+jburnmurdoch	686251280591941632	2016-01-10T18:20:29	arthur56k Few times yeah 😊  
+jburnmurdoch	686216339577548800	2016-01-10T16:01:39	TheMikeKehoe The clue is in the emoji
+jburnmurdoch	683916732231200768	2016-01-04T07:43:50	Journalists: Tiny observational studies get as much press attention as large (N&gt;1000) controlled studies. Not cool.  
+jburnmurdoch	686207949207896064	2016-01-10T15:28:18	Scribblr_42 Ideally Leon Knight and Josh King would also be involved
+jburnmurdoch	686200904983408640	2016-01-10T15:00:19	Also using "international" as a byword for "non-US" 😡🍑
+jburnmurdoch	686200126122102785	2016-01-10T14:57:13	Scribblr_42 Nearly didn't tweet it. Nearly
+jburnmurdoch	686199918889988097	2016-01-10T14:56:24	Soccermetric Each awesome in their own way: Gigi for reflexes, Consigli for sheer reach
+jburnmurdoch	686199162820505600	2016-01-10T14:53:24	Feel like the fact that non-US users can't automatically find/add contacts is a pretty major issue for a chat app 🍑 
+jburnmurdoch	686198441345695748	2016-01-10T14:50:32	Bishop would have got on the end of that for Scunthorpe but he's only allowed to run diagonally uti
+jburnmurdoch	686176630486753280	2016-01-10T13:23:51	Some mega lines in this typically searing piece by girlziplocked  
+jburnmurdoch	686174759420297218	2016-01-10T13:16:25	If anyone makes a better save than Andrea Consigli this weekend I'd love to see it. 
+jburnmurdoch	686151771761324033	2016-01-10T11:45:05	As if worse pay &amp; hours werent enough, The Sun has decided junior doctors should also be banned from taking holidays 
+jburnmurdoch	686138885823397888	2016-01-10T10:53:52	experimental361 👏👏 Particularly liked the idea of an 'exchange rate' for promoted/relegated sides -- intrigued to know more if possible?
+jburnmurdoch	686134014080585728	2016-01-10T10:34:31	AcryllicAltair Responded to that -- analysis already accounts for injuries. Imma duck out of this one at this point 
+jburnmurdoch	686132283804352512	2016-01-10T10:27:38	AcryllicAltair Dnt disagree w/ anything you're saying, but nor do I think it refutes the pattern I ID-ed. Anyway, let's enjoy our Sundays 😊
+jburnmurdoch	686130336284160000	2016-01-10T10:19:54	AcryllicAltair Go on?
+jburnmurdoch	686128972795670528	2016-01-10T10:14:29	AcryllicAltair I guess where we differ is that your "it's a cycle" is my "it's a cycle, so let's explore what might be driving the cycle" ?
+jburnmurdoch	686127350048763904	2016-01-10T10:08:02	AcryllicAltair So you don't think there's been a decline in English sides' CL performance? 
+jburnmurdoch	685925623596974080	2016-01-09T20:46:27	gremlinzzzz Fear we're going round in circles 😕. Anyway, Eng CL failings not a black &amp; white issue for sure. Interesting to hear alt views
+jburnmurdoch	685924520381792257	2016-01-09T20:42:04	gremlinzzzz CrimsonKopite Finally 4) PSG, Barca are -- iirc -- two sides that most prioritise CL over League
+jburnmurdoch	685924419303260160	2016-01-09T20:41:40	gremlinzzzz CrimsonKopite 3) Prem sides at most risk of missing out on top 4 have seen biggest 'shift'
+jburnmurdoch	685924285903409152	2016-01-09T20:41:08	gremlinzzzz CrimsonKopite 2) And with my purported 'shift', Prem teams go from CL title contenders to also-rans
+jburnmurdoch	685924023860129793	2016-01-09T20:40:05	gremlinzzzz CrimsonKopite 1) 'Shift in priorities' coincides with City changing big 4 into big 5
+jburnmurdoch	685923260865884161	2016-01-09T20:37:03	gremlinzzzz CrimsonKopite Guess we differ of interpretation. To me, the pattern is too much to be a coincidence:
+jburnmurdoch	685921840796188677	2016-01-09T20:31:25	gremlinzzzz For sure, but the figures appear to show a pattern rather than merely 'noise' from tactical or other variation in rotation
+jburnmurdoch	685921154993942528	2016-01-09T20:28:41	gremlinzzzz CrimsonKopite So we're on the same page?
+jburnmurdoch	685920757499691008	2016-01-09T20:27:07	gremlinzzzz CrimsonKopite And you're right that one would expect any impact from injuries to even out across the two comps regardless
+jburnmurdoch	685920122473689089	2016-01-09T20:24:35	gremlinzzzz CrimsonKopite Injuries were accounted for -- players' % involvement calculated based only on matches when they were available
+jburnmurdoch	685888465377071105	2016-01-09T18:18:47	diegtristan8 Could be, but rarely was iirc. I don't have the dataset to hand, but this was Arsenal 
+jburnmurdoch	685883400327180288	2016-01-09T17:58:40	diegtristan8 See 
+jburnmurdoch	685881282836955137	2016-01-09T17:50:15	diegtristan8 Got you, sorry for assuming! Bars = % of clubs prioritising one comp or another, so 0 means all clubs prioritised same comp
+jburnmurdoch	685879963501867008	2016-01-09T17:45:00	diegtristan8 All. Think I know where this is going, so see also: 
+jburnmurdoch	685878335432450049	2016-01-09T17:38:32	diegtristan8 👍 Rory was suggesting it may become a thing, my piece was from a while back suggesting it already is 
+jburnmurdoch	685875945455128576	2016-01-09T17:29:03	CrimsonKopite If squad depth metrics are your thing, though, I think Goalimpact has looked at this before (afraid I can't find the link)
+jburnmurdoch	685874408964096000	2016-01-09T17:22:56	CrimsonKopite Sound logic but not seeing evidence of corr btwn clubs' quality &amp; squad depth [as judged by rotation] 
+jburnmurdoch	685869835360808964	2016-01-09T17:04:46	CrimsonKopite ... implies prioritisation regardless of quality of replacements imo
+jburnmurdoch	685869773872324608	2016-01-09T17:04:31	CrimsonKopite Metric used should account for that: resting most important players in one tournament more than another ...
+jburnmurdoch	685858566574600192	2016-01-09T16:19:59	Powerball had a positive expected value on Wednesday. Today it does not.  
+jburnmurdoch	685862981415088128	2016-01-09T16:37:32	cchappas Yup, including both was definitely the best solution!
+jburnmurdoch	685861877340057600	2016-01-09T16:33:08	cchappas Main reason I prefer the pdfs to heatmap is that position is far better than colour at encoding data
+jburnmurdoch	685861210944892929	2016-01-09T16:30:30	cchappas Good point, and one I think I'd missed. pdfs still answer "where is x likely to finish?" tho, which for most readers is probs key
+jburnmurdoch	685854852983951360	2016-01-09T16:05:14	cchappas Not sure there's much to add to it in terms of interaction imo -- sign of a job well done!
+jburnmurdoch	685853950436859904	2016-01-09T16:01:38	Great roundup of Premier League prediction models as they stand, by cchappas for StatsBomb  
+jburnmurdoch	685853603651690497	2016-01-09T16:00:16	cchappas Great post! Also really liked the probability distribution small multiples. Clearer than heatmap grid imo
+jburnmurdoch	685054863953248256	2016-01-07T11:06:21	terrific on gayle from jonathanliew - 
+jburnmurdoch	685801945236402177	2016-01-09T12:34:59	Full piece on domestic/Champs Lg priorities here. Should be free to read if it's your first ft click of the day 
+jburnmurdoch	685801551387045892	2016-01-09T12:33:26	jamestingray CalumRobertson7 Whilst PSG etc focus heavily on Champs Lg. This phenomenon -- if u accept it -- only one of many factors ofc
+jburnmurdoch	685801252899434496	2016-01-09T12:32:14	jamestingray CalumRobertson7 Also stark at club level - teams fighting for fourth affected more than those clear at top
+jburnmurdoch	685801019167649792	2016-01-09T12:31:19	jamestingray CalumRobertson7 Interested to hear alt suggestions for metrics - I think this one is pretty solid.
+jburnmurdoch	685800783166705664	2016-01-09T12:30:22	jamestingray CalumRobertson7 Full piece here if of interest. Free to read if it's your first ft click of the day 
+jburnmurdoch	685800209071341568	2016-01-09T12:28:06	Numbers suggest it's already happening - Prem sides resting core players more in Champs Lg to make sure they're fresh for big league clashes
+jburnmurdoch	685799801548615680	2016-01-09T12:26:28	Reposting this after RorySmithTimes mentioned risk of BPL clubs prioritising league over Europe because of TV 💷💷💷 
+jburnmurdoch	685797994961178625	2016-01-09T12:19:18	ICYMI: analysis of football transfer fees reported by major European news orgs shows how much uncertainty there is over the 💷💶 involved
+jburnmurdoch	685123912091447297	2016-01-07T15:40:44	"There are clearly negative effects for women in male-dominated populations." Unsettling take on migration to Europe 
+jburnmurdoch	685502507532054528	2016-01-08T16:45:08	NYAsoccer Yep that's my take, too. Pretty impressive coverage: 
+jburnmurdoch	685496545979019270	2016-01-08T16:21:27	NYAsoccer Yeah mentioned in piece that TM generally close to the pack because it uses them for s, but for smaller deals must go elsewhere
+jburnmurdoch	685493385180921856	2016-01-08T16:08:53	NEW: How accurate are reported football transfer fees?  dataviz mufc mcfc lfc rmcf fcb 
+jburnmurdoch	685446665491341313	2016-01-08T13:03:14	2014/15 wage bills Chelsea: £216m Manchester United: £203m Manchester City: £194m Arsenal: £192m
+jburnmurdoch	685443797636018176	2016-01-08T12:51:50	Most important headline: Chelsea's wage to turnover ratio is now at 68% (compare to MUFC at 51% and every other big club under 60%).
+jburnmurdoch	685438002169016320	2016-01-08T12:28:49	Grim prospect for all journalists in Poland's national media  freedomofpress under threat 
+jburnmurdoch	685419412468400128	2016-01-08T11:14:57	CathLevett PaulTorpey wpf500 mosbrn Beaut!
+jburnmurdoch	685394008957423617	2016-01-08T09:34:00	*Awesomeness klaxon* Airstrikes against IS: Syria and Iraq  by PaulTorpey wpf500 + mosbrn 
+jburnmurdoch	685370286640881664	2016-01-08T07:59:44	maartenzam destandaard 😂
+jburnmurdoch	685363440895012864	2016-01-08T07:32:32	China’s economy, long a reliable source of growth, is slowing, rattling stocks around the world. 
+jburnmurdoch	685108699363438593	2016-01-07T14:40:17	SimonGleave Nor I, but guess we differ on whether it matters that others do. I see your point, though 🙂
+jburnmurdoch	685106005454241793	2016-01-07T14:29:35	SimonGleave *We* can ignore it, but for thousands of listeners it perpetuates a falsehood
+jburnmurdoch	685104432229564416	2016-01-07T14:23:19	evergreendata Will do when/if time presents itself, and thanks for opening up the debate 🙂
+jburnmurdoch	685104113248530432	2016-01-07T14:22:03	SimonGleave Pat Murphy
+jburnmurdoch	685103184629612544	2016-01-07T14:18:22	evergreendata moebio hichambh moritz_stefaner albertocairo (slope as % change, raw values labelled, shading to contextualise rise/fall)
+jburnmurdoch	685103102605836288	2016-01-07T14:18:02	evergreendata moebio hichambh moritz_stefaner albertocairo At risk of being Guy #4, we did this in similar case 
+jburnmurdoch	685099909536739328	2016-01-07T14:05:21	Belatedly caught up on bbc5live Monday Night Club: disappointed to hear people using stats to aid in scouting process dismissed as "IT men"
+jburnmurdoch	685084173950947328	2016-01-07T13:02:49	Can you do a better job visualizing financial data from Gates? Your official challenge  Show me what you can do.
+jburnmurdoch	684735255174053889	2016-01-06T13:56:21	Twitter: for and against longer tweets - my ft comment debut and it's a debate with robertshrimsley 
+jburnmurdoch	684786876906102785	2016-01-06T17:21:28	.martinstabe "You see, fashion shows are a lot like books"
+jburnmurdoch	684762843821019137	2016-01-06T15:45:58	DannyPage Yeah definitely seems odd first time you encounter it. In our case we stumbled upon it in an early draft and decided we liked it
+jburnmurdoch	684713861619027968	2016-01-06T12:31:20	OH: "You went to see it in laser 3D, right?" "No, I went to see it in Lowestoft"
+jburnmurdoch	684642250324860928	2016-01-06T07:46:47	DannyPage And see here for an example of the second one (line bursting out of chart area) in action 
+jburnmurdoch	684641320997105664	2016-01-06T07:43:05	DannyPage Not strictly the same, but this post discusses a similar idea to the first reason: 
+jburnmurdoch	684640861704073216	2016-01-06T07:41:16	DannyPage *jumps in* two reasons for this (we also do it): highlights that there isn't a zero baseline, can be used to emphasise outliers
+jburnmurdoch	684636167527096320	2016-01-06T07:22:36	Rafa Benitez &amp; Jose Mourinho bond on WhatsApp - as imagined by jonathanliew  
+jburnmurdoch	684425469077356544	2016-01-05T17:25:22	duc_qn 😱
+jburnmurdoch	684356983831572480	2016-01-05T12:53:14	jburnmurdoch 
+jburnmurdoch	684357437915312128	2016-01-05T12:55:02	maartenzam 👍
+jburnmurdoch	684337573653835776	2016-01-05T11:36:06	We're so fixated by the threat of human-like machines, we've failed to notice the spread of machine-like humans 
+jburnmurdoch	684353897461321729	2016-01-05T12:40:58	jair1970 It's like their entire MO is to troll me
+jburnmurdoch	684352060461068290	2016-01-05T12:33:40	infogr.am 😡💩🔥🔪☠⛔️❌😱  That is all. 
+jburnmurdoch	684336999248039937	2016-01-05T11:33:49	RobinKwong duncanrobinson TroyEricG Not a lyric per se, but 
+jburnmurdoch	684335998080266240	2016-01-05T11:29:50	RobinKwong I nearly used "The money and the fame made us all change places" here 
+jburnmurdoch	684334820349067264	2016-01-05T11:25:10	My pretentious one liner for dataviz in 2016: annotation is the new animation
+jburnmurdoch	684283767838511104	2016-01-05T08:02:18	It's not just Chris Gayle: sport media's Blokesworld mindset needs to change  via guardian
+jburnmurdoch	684285124972822528	2016-01-05T08:07:41	"What to expect from data storytelling in 2016" by acotgreave About the marriage of charts and text 
+jburnmurdoch	684280960439947266	2016-01-05T07:51:08	Want to be a data journalist? Take a look at the FT grad scheme.. 5 days to apply   ddj 
+jburnmurdoch	684117386019139585	2016-01-04T21:01:09	Prediction: All content on the Internet will be 'embeddable.' For now, see this example by AP (on gun laws by state) 
+jburnmurdoch	684029807156445185	2016-01-04T15:13:09	Want a ddj job like alekswis’? Just 1 week left to apply to be an ft trainee journalist:  
+jburnmurdoch	683985775466266624	2016-01-04T12:18:11	RobinKwong You lost one and sdbernard gained one. I'm not saying the two are connected, but makesyouthink
+jburnmurdoch	683984555909492736	2016-01-04T12:13:20	.robminto: It's the age of the quarterback, but has NFL really become passing-dominated?  🏈 
+jburnmurdoch	683968686923866112	2016-01-04T11:10:17	Post-Christmas update: ftdata's Aeropress-to-staff ratio is rapidly approaching 1 
+jburnmurdoch	683921231821828096	2016-01-04T08:01:42	Have heard a few people saying this: Vast majority of computers aren't up to running VR 
+jburnmurdoch	681175305306947584	2015-12-27T18:10:23	When someone reports "a mass shooting every day," check the facts. It just isn't true. via MotherJones 
+jburnmurdoch	683726178897793028	2016-01-03T19:06:38	An rstats homage to moritz_stefaner's inaugural 2016 post  (exploring German town names) 
+jburnmurdoch	683760907671961602	2016-01-03T21:24:38	NYAsoccer footballfactman deepxg colinttrainor ...thru organising defence etc. That would also push ratings of Adrian and co down a bit
+jburnmurdoch	683760784669806592	2016-01-03T21:24:09	NYAsoccer footballfactman deepxg colinttrainor ...a part in minimising number and quality of xG faced? ...
+jburnmurdoch	683760676268060672	2016-01-03T21:23:43	NYAsoccer footballfactman deepxg colinttrainor Looking only at the data as u have it here, is there perhaps an argument that GK plays...
+jburnmurdoch	683757349689929728	2016-01-03T21:10:30	"From Anscombe's quartet to choropleth classification" (or, why dataviz matters)  stats 
+jburnmurdoch	683757029148749824	2016-01-03T21:09:13	SwegaliciousLel JoelSalamon Really? Neither of these charts 100% conclusive, but they sure don't support that view 
+jburnmurdoch	683736968254062594	2016-01-03T19:49:31	Added keeper rankings to xG dashboard. Adrian currently top of the regular stops  
+jburnmurdoch	683617015202996225	2016-01-03T11:52:52	the_topspin cricketingview romysdad Yup, can't argue with that 🙂
+jburnmurdoch	683616260450586624	2016-01-03T11:49:52	cricketingview romysdad the_topspin Only 8, and Johnny was the first. Still impressive, but that dampens it a little 😜
+jburnmurdoch	683576896991420416	2016-01-03T09:13:27	A lovely goodbye to the econ hack game from @heatherstewart3 
+jburnmurdoch	683315946233147392	2016-01-02T15:56:31	HT reading. Last "surprise team" to finish the season in the top 4 was Forest 21 years ago:  
+jburnmurdoch	683263060434403328	2016-01-02T12:26:22	Just nice little example of facetting and maps in ggplot2 2.0 and ggalt. rstats  
+jburnmurdoch	682178897597710341	2015-12-30T12:38:18	Very nice data analysis on why it seemed as if the 11th of the month was mentioned less than other days in texts 
+jburnmurdoch	682614179019149313	2015-12-31T17:27:57	.FiveThirtyEight's 47 weirdest charts from 2015. dataviz  
+jburnmurdoch	682829675824082944	2016-01-01T07:44:15	Good morning, 2016! 
+jburnmurdoch	682711637716000768	2015-12-31T23:55:13	Wishing everyone a Happy New Year / Buon Anno / Guten Rutsch from the Italian-Swiss border 🍻🎉❄️🏔
+jburnmurdoch	682666096097366016	2015-12-31T20:54:15	NYE threat level: very heated family debate about Beyonce and Taylor Swift's relative merits as feminist icons. So far 4-1 in favour of Bey
+jburnmurdoch	682281031228108800	2015-12-30T19:24:08	The Casties: Quartz’s awards for the best podcasts of 2015 
+jburnmurdoch	681994777240317952	2015-12-30T00:26:40	Beginning some stylistic analysis of PL playmakers 
+jburnmurdoch	682052428858961921	2015-12-30T04:15:45	Really great post by SaraSoueidan about the CSS will-change Property 
+jburnmurdoch	681849755006287872	2015-12-29T14:50:24	This is by far the most important data journalism I'll ever do. I've peaked.  
+jburnmurdoch	681906843967459328	2015-12-29T18:37:15	Worville 🤘
+jburnmurdoch	681900768010604548	2015-12-29T18:13:06	Worville Fo sho, it's top of my non-work-work list!
+jburnmurdoch	681900167495286784	2015-12-29T18:10:43	deepxg 11tegen11 Interesting you say that - I find animation often opens more cans of worms than it closes. Interested to see results tho!
+jburnmurdoch	681897662061375488	2015-12-29T18:00:46	deepxg 11tegen11 Tell me about it! FT pink great for recognisability, but developing our colour palette is a [never ending] nightmare! 😜

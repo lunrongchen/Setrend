@@ -1,0 +1,150 @@
+ModernMarkets	726137053319147522	2016-04-29T19:52:19	MMI Blog: Turns out nobody supports permitting “de minimis” intentional delays in our stock exchanges. IEX HFT 
+ModernMarkets	726088026733076481	2016-04-29T16:37:30	NYSE listings co-head jumps to HFT market maker  via IRMagazine
+ModernMarkets	725329078476218368	2016-04-27T14:21:42	.NYSE and NASDAQ agree on EMSAC: “Those meetings should be held in the light of day, and not in a dark room" HFT 
+ModernMarkets	725324096792367104	2016-04-27T14:01:55	.elnunesio: “We view this as a positive step forward in assessing whether we should make a change to access fees” 
+ModernMarkets	724596693409402880	2016-04-25T13:51:28	MMI responds to USTreasury: Increase transparency and open markets to all registered investors. PTF HFT 
+ModernMarkets	724587378539634694	2016-04-25T13:14:27	Bloomberg antoniabmassa summed up: IEX artificial delay can be manipulated in ways natural delays can’t HFT 
+ModernMarkets	722774372272979968	2016-04-20T13:10:13	MMI CEO on fox5ny: No Consensus Wall St. candidate but Sanders FTT would hurt investors and economy 
+ModernMarkets	722092479407738881	2016-04-18T16:00:37	A great post that doesn't even mention False Boys or other salacious book titles. HFT RobinWigg 
+ModernMarkets	722082537087098880	2016-04-18T15:21:07	"On balance the evidence is that [HFT firms] are a net positive" RobinWigg 
+ModernMarkets	722059906841489408	2016-04-18T13:51:11	Happy to be speaking about HFT and the BestMarketsEver at Columbia Business School this afternoon. Columbia_Biz 
+ModernMarkets	721057560447598593	2016-04-15T19:28:13	.BartChilton On BATS, IEX and "False Boys" HFTs are making markets better, faster, cheaper. FlashBoys 
+ModernMarkets	721040185560064004	2016-04-15T18:19:11	.FIAPTG posts SEC comment letter citing grave problems with selectively-applied exchange delays. HFT 
+ModernMarkets	721036336044634112	2016-04-15T18:03:53	.Nasdaq "The proposal offers no data, analysis or even a theoretical suggestion why 1ms is an appropriate standard" 
+ModernMarkets	721035203871944704	2016-04-15T17:59:23	Thoughtful SEC comment letter from Citadel: "One Thousand Microseconds Is Not De Minimis" 
+ModernMarkets	721034160308109313	2016-04-15T17:55:14	HRT: SEC should keep existing standard of “immediate” for a quote to qualify as automated under Reg NMS wehrtyou 
+ModernMarkets	721029219594158080	2016-04-15T17:35:36	Our comment letter on the danger of selective exchange delays has been posted on the SEC website. HFT 
+ModernMarkets	720985987137015808	2016-04-15T14:43:49	MMI Op Ed: "Bernie Sanders doesn't understand Wall Street--or math" HFT  via CNBCopinion
+ModernMarkets	720983991386550273	2016-04-15T14:35:53	UK Govt officially debunks the FlashBoys "electronic front-running" myth in their market. HFT sabrush TheFCA 
+ModernMarkets	720633730063339520	2016-04-14T15:24:04	.TDAmeritrade founder Joe Ricketts on broker order routing and the hundreds of $millions saved by retail investors. 
+ModernMarkets	719623599401754625	2016-04-11T20:30:10	Enhancements to NMS should be through deliberate rule-making not by application HollyBell8 JohnLothian HFT 
+ModernMarkets	719608541229621248	2016-04-11T19:30:20	IEX is not trying to help the “little guy” they are trying to become among the elite HollyBell8 JohnLothian HFT 
+ModernMarkets	719591784440061956	2016-04-11T18:23:45	IEX protected quote speed bump request creates several negative impacts on mkts. HollyBell8 JohnLothian HFT 
+ModernMarkets	718500782824361985	2016-04-08T18:08:30	Would IEX be compliant with this new rule from Canadian regulators?  
+ModernMarkets	718494598763556864	2016-04-08T17:43:55	Canadian regulators take firm stand against markets with speed bumps; orders there will not be protected. HFT 
+ModernMarkets	717714647684657152	2016-04-06T14:04:41	DirectMatch brings on seasoned pro to build HFT treasuries business 
+ModernMarkets	717014973612965888	2016-04-04T15:44:25	Congratulations to MMI Founding Member GTS NYSE HFT 
+ModernMarkets	715939438069735424	2016-04-01T16:30:38	Georgetown U Prof on the IEX speed bump: "The investor whose order is stuck in limbo ends up worse off." GuFinProf 
+ModernMarkets	715921533387087874	2016-04-01T15:19:29	Georgetown Prof Jim Angel: Reg NMS is flawed &amp; needs fixing. Start by eliminating exch protected quotes.  GuFinProf
+ModernMarkets	715161759997304833	2016-03-30T13:00:25	The book that the Twitter trolls are scared of: FlashBoys: Not So Fast, complimentary copy for accredited media HFT 
+ModernMarkets	714941912671731712	2016-03-29T22:26:49	.UCBerkeley Professor: SEC shouldn't approve IEX until Reg NMS is re-examined HFT 
+ModernMarkets	714932853365215232	2016-03-29T21:50:49	Ltd time offer for accredited media-comp copy of the book that IEX doesn't want you to read FlashBoys:NotSoFast HFT 
+ModernMarkets	712715838902677504	2016-03-23T19:01:12	An FTT would harm all investors, especially middle-income American workers saving for retirement. 
+ModernMarkets	712676435115302912	2016-03-23T16:24:37	Explicit trading costs are at historically low levels and displayed liquidity is at historically high levels SRosov 
+ModernMarkets	712672655183319041	2016-03-23T16:09:36	Every sales- and buyside trader should think about this: one financial transaction tax proposal is 42 cents/share. 
+ModernMarkets	712666635233009665	2016-03-23T15:45:41	.CFAinstitute is concerned about additional fragmentation if IEX becomes an exchange  SRosov TabbFORUM 
+ModernMarkets	712626218890342400	2016-03-23T13:05:05	A speed bump arms race will further confuse and fragment our markets HFT CFAinstitute TabbFORUM  
+ModernMarkets	712587765582602240	2016-03-23T10:32:17	More and more institutions are pushing back on the idea of a trading tax HFT 
+ModernMarkets	712267116653748224	2016-03-22T13:18:08	MMI Blog: Delays ahead!  A post-IEX market structure HFT 
+ModernMarkets	712022272723308544	2016-03-21T21:05:13	"Research shows automation &amp; HFT benefit all market participants with improved liquidity and reduced trading costs" 
+ModernMarkets	712015228326666240	2016-03-21T20:37:13	SEC interpretation could lead to quoting delays that could threaten the validity of prices.  nicoleabullock
+ModernMarkets	710873785348562945	2016-03-18T17:01:32	"For a firm that has built its brand on fairness, simplicity and transparency, this becomes hard to explain." ltabb 
+ModernMarkets	710573021971529728	2016-03-17T21:06:24	ESMA: Source code requirements would be too cost intensive &amp; could create a significant conflict of interest 
+ModernMarkets	710559597468250112	2016-03-17T20:13:04	The buyside speaks on financial transaction taxes: "Quite frankly, an FTT is a terrible idea." ICI 
+ModernMarkets	710554632075022336	2016-03-17T19:53:20	Possibly the most detailed and thoughtful broker research published on IEX to date. weedenandrew 
+ModernMarkets	710540961726775297	2016-03-17T18:59:01	.LarryTabb asks tough question: How can IEX claim that it's fair when only it knows the accurate prc of a security? 
+ModernMarkets	710509176871587841	2016-03-17T16:52:43	Respected analyst Larry Tabb: As an Exchange, IEX Wouldn’t Be Fair, Simple or Transparent TabbFORUM 
+ModernMarkets	710498067481563137	2016-03-17T16:08:34	.NASDAQ asks how anyone can properly read and respond to IEXs 400-page "Amendment" in only 14 days. BrashDemand 
+ModernMarkets	710204029087965185	2016-03-16T20:40:10	Our comments to CFTC on RegAT:  
+ModernMarkets	710194876365852676	2016-03-16T20:03:47	CFTC shld apply Reg AT uniformly, incl unregistered trading firms that engage in algorithmic trading.  CitadelLLC
+ModernMarkets	710193131828940802	2016-03-16T19:56:52	Hudson River Tradings Adam Nunes takes a common sense look at CFTC source code requirements.  elnunesio wehrtyou
+ModernMarkets	710182076616728577	2016-03-16T19:12:56	.AQRCapital Cliff Asness on HFT: "The small investor unambiguously has a fairer, cheaper world."   
+ModernMarkets	709848196076408832	2016-03-15T21:06:12	FreeMarketSolution: OptionsClearing  proposes extra fee for trades on options exchanges with poor risk controls 
+ModernMarkets	709844553096929281	2016-03-15T20:51:44	By lowering transaction costs, HFT improves the efficiency of markets.  insteconomics
+ModernMarkets	709460081734197248	2016-03-14T19:23:59	Higher transaction costs destroy the market liquidity that ultimately benefits consumers &amp; investors  insteconomics
+ModernMarkets	709435240444375040	2016-03-14T17:45:16	There is plenty of evidence that FTTs and higher transaction costs increase rather than reduce market volatility. 
+ModernMarkets	709426038925828096	2016-03-14T17:08:42	The profitability of HFT represents returns to entrepreneurship and innovation.  insteconomics
+ModernMarkets	708297769044336641	2016-03-11T14:25:22	Investors hoping for less volatility? Competition between HFT firms is a solution, say 3 finance professors 
+ModernMarkets	708252698693537792	2016-03-11T11:26:16	HFT competition helps smaller trading venues become more competitive by posting better prices and narrower spreads 
+ModernMarkets	708000902016323584	2016-03-10T18:45:43	Disastrous EU financial transaction tax proposal rightfully deadlocked. Stay strong Slovakia Spain Belgium 
+ModernMarkets	707983734075760641	2016-03-10T17:37:30	IEX still silent on providing data to back up claims of "pernicious aspects of speed-based trading." HFT 
+ModernMarkets	707316691840139264	2016-03-08T21:26:55	My latest: Transparency and Darkpools Liquidnet IEX TRSofTexas AlgoTrdr ModernMarkets  
+ModernMarkets	707637182614343683	2016-03-09T18:40:26	.RemcoLenterman channeling matt_levine: Many brokers have smart ways to access fragmented liquidity. HFT 
+ModernMarkets	707548472594055168	2016-03-09T12:47:56	Liquidity and Quote Fading  HFT RemcoLenterman
+ModernMarkets	706956014344601600	2016-03-07T21:33:43	"SEC should think twice before approving a[n]..exchange that provides extra advantages to undisplayed order types" 
+ModernMarkets	706911380134297600	2016-03-07T18:36:21	IEX speed bump "provides advantages to certain types of market participants at the expense of others" Columbia_Biz 
+ModernMarkets	706904659504599041	2016-03-07T18:09:39	.Columbia_Biz Jones: "The main problem is that IEX’s proposed market structure applies this speed bump selectively" 
+ModernMarkets	706886027953250304	2016-03-07T16:55:37	Contrary to the claim HFT has led to increased volatility, this rpt shows it has fallen dramatically while HFT rose 
+ModernMarkets	705860648807305216	2016-03-04T21:01:07	Coincident with the rise in HFT since 2000, S&amp;P volatility has fallen dramatically. The_MarketMogul 
+ModernMarkets	705854004929110016	2016-03-04T20:34:43	S&amp;P 500 annual volatility this decade is lower than any decade since before the 50's The_MarketMogul HFT 
+ModernMarkets	705784507157385216	2016-03-04T15:58:34	Jim Hightower Really Does Seem Very Confused About An FTT Or Robin Hood Tax Forbes 
+ModernMarkets	704698272083021824	2016-03-01T16:02:15	"IEX caved" on their router but many say there are still problems with their application. 
+ModernMarkets	703644224005263360	2016-02-27T18:13:50	The 'Flash Boys' exchange isn't about the little guy matt_levine  via BV
+ModernMarkets	703271993668460545	2016-02-26T17:34:44	Speed is necessary to knit together dispersed exchanges, so investors are routed towards the best price available  
+ModernMarkets	703226135237238784	2016-02-26T14:32:30	Only someone who has never traded would hypothesize that there is $3 billion of free money lying around 
+ModernMarkets	702916799642398726	2016-02-25T18:03:19	I for one am shocked. Never though it was marketing with a great writer all aided by conspiracy nuts. matt_levine 
+ModernMarkets	702855648048971778	2016-02-25T14:00:19	"For the vast majority of the public, &amp; often regulators, understanding of trade executions is based on perception" 
+ModernMarkets	702567588962799618	2016-02-24T18:55:40	Excellent analysis of IEX execution quality as shown by IEX-reported statistics. HFT 
+ModernMarkets	702562060580728832	2016-02-24T18:33:42	Attempting to influence the SEC, IEX doubles the size of its Washington lobbying effort. HFT 
+ModernMarkets	702542955584757761	2016-02-24T17:17:47	Citadel: IEX’s marketing campaign is unconscionable and based on a demonstrably false premise. HFT 
+ModernMarkets	702213892303249408	2016-02-23T19:30:13	Via Temple_West in POLITICOPro: RichardGorelick on source code issues in RegAT.  
+ModernMarkets	701974607465738240	2016-02-23T03:39:23	HFT traders now oversee nearly all NYSE floor trading, and investors are benefitting  antoniabmassa
+ModernMarkets	700700772598546432	2016-02-19T15:17:37	If IEX is approved the equity markets will be as fragmented as options.  This  isn't a pretty picture 
+ModernMarkets	700679195870023680	2016-02-19T13:51:52	Keynes: "When my information changes, I alter my conclusions. What do you do, sir?” HFT  
+ModernMarkets	700430427417354241	2016-02-18T21:23:21	A simple explanation of why you don't want to get "picked off" by an exchange router with special advantages. HFT 
+ModernMarkets	700428377614917633	2016-02-18T21:15:13	Amazing that more people don't bother to read all the data-driven studies from responsible researchers. 
+ModernMarkets	700393791010816000	2016-02-18T18:57:47	MMI Blog: In honor of pitchers and catchers reporting this week, Sandy Koufax and the Pick-Off Move HFT 
+ModernMarkets	700356991663779840	2016-02-18T16:31:33	Markit on best execution data: Retail investors would have lost over $150M in 2 months. daveweisberger 
+ModernMarkets	700332513676390400	2016-02-18T14:54:17	FINRA CEO Ketchum flags "complex" IEX router issues for further SEC scrutiny. davidamichaels HFT 
+ModernMarkets	700135568198516736	2016-02-18T01:51:42	NY Fed report debunks several myths about HFT.  When markets grow volatile HFT continues to trade  alexandrascaggs
+ModernMarkets	700049304724045825	2016-02-17T20:08:55	Markit: "We believe that IEX...is not an appropriate venue for retail traders to send their market orders" 
+ModernMarkets	699978285497905152	2016-02-17T15:26:42	NY Fed blog: Volatility leads to more HFT activity, not the other way around. LibertyStEcon 
+ModernMarkets	699638498953924608	2016-02-16T16:56:31	Recent study of NASDAQ data finds that HFT limit orders exert a stabilizing influence on markets  via TabbFORUM
+ModernMarkets	699565855533760513	2016-02-16T12:07:51	HFT firms increase their liquidity provision during periods of high volatility  via TabbFORUM
+ModernMarkets	698190957213310976	2016-02-12T17:04:30	Losing BATS' previous endorsement is an important setback for IEX.  
+ModernMarkets	698148135915409408	2016-02-12T14:14:21	Number of SEC IEX comment letters pales compared to millions who trade on NYSE BATSGlobal NASDAQ  antoniabmassa
+ModernMarkets	698140103428939776	2016-02-12T13:42:26	A Wall St. speculation tax isn’t going to raise any revenue at all. In fact it will lead to a loss of it worstall 
+ModernMarkets	697441905932500994	2016-02-10T15:28:02	"There are no signs of major risks such as major fluctuation in prices as a consequence of algorithmic trading" HFT 
+ModernMarkets	697434793324191744	2016-02-10T14:59:47	Danish FSA: "Overall the extensive use of computerised trading has resulted in better liquidity on the market" HFT 
+ModernMarkets	697171336540647424	2016-02-09T21:32:54	.NYSE: "IEX's claims are false." 
+ModernMarkets	697091424605618176	2016-02-09T16:15:21	Saying people who make Wall Street work are swindlers is no less a slur than to tag immigrants as criminals&amp;moochers 
+ModernMarkets	696820921928151040	2016-02-08T22:20:28	.BernieSanders idea for a financial Transaction Tax is "either bizarre or inadvisable." HFT Noahpinion  via BV
+ModernMarkets	696722906320125952	2016-02-08T15:51:00	Passive or active liquidity?  Markets need both. HFT 
+ModernMarkets	695688007068884992	2016-02-05T19:18:40	MMI Blog: HFT Blame Game 
+ModernMarkets	695664352096075776	2016-02-05T17:44:41	.DLauer Lewis went on TV and told world, world paying the least to trade stocks ever, "the game is rigged." Liar. All else is overthinking.
+ModernMarkets	695592780500828160	2016-02-05T13:00:17	Q: What’s the difference between an HFT firm and a firm that uses HFT? A: None antoniabmassa VirtuFinancial 
+ModernMarkets	695340484118466562	2016-02-04T20:17:44	What’s the difference between an HFT firm VirtuFinancial and a firm that uses HFT TRowePrice? 
+ModernMarkets	695334276322234368	2016-02-04T19:53:04	Welcome Giovanni Pillitteri as Global Trading Systems MD, global head of foreign exchange trading HFT forex 
+ModernMarkets	695298842946838528	2016-02-04T17:32:16	.ICE_Markets CEO Sprecher Blasts IEX letter: "That's absolutely false and it’s wrong," antoniabmassa BrianRLouis 
+ModernMarkets	695267589870772224	2016-02-04T15:28:05	.ICE_Markets CEO Sprecher on IEX: “It is un-American and not fair and not the way our systems should work.” HFT 
+ModernMarkets	695261595040096256	2016-02-04T15:04:16	MMI Blog: Cattle futures and putting gimmicks out to pasture HFT 
+ModernMarkets	695256548088614912	2016-02-04T14:44:12	Tower Research MarkGortonNYC Talks about how unclear exchange trade break policies can endanger markets. HFT 
+ModernMarkets	693087670541664256	2016-01-29T15:05:52	According to public data, retail investors would have lost over $150 million if they traded on IEX. HFT  Markit
+ModernMarkets	693075821427318788	2016-01-29T14:18:47	SEC rules should govern exchange applications, not the other way around. HFT antoniabmassa 
+ModernMarkets	692417089177411584	2016-01-27T18:41:13	Anyone who writes code for a living should worry about this HFT FuturesMagazine slashdot TheOfficialACM IEEEorg 
+ModernMarkets	692020554245738500	2016-01-26T16:25:31	GTS CEO Ari Rubenstein on the role of HFT in world-class markets. NYSE Pres Farley welcomes to the trading floor 
+ModernMarkets	692000689090789376	2016-01-26T15:06:35	High-Speed HFT Firms Now Oversee Almost All Stocks on NYSE Floor   antoniabmassa inkbacker business
+ModernMarkets	691999044089090048	2016-01-26T15:00:03	GTS to Become Designated Market Maker on the New York Stock Exchange -- NEW YORK, Jan. 26, 2016 /PRNewswire/ -- 
+ModernMarkets	691989155732156417	2016-01-26T14:20:45	Congress begins to question IEX fairness; urges SEC to thoughtfully consider market impacts. HFT 
+ModernMarkets	690555471644745728	2016-01-22T15:23:48	Mutual fund investors: BernieSanders is coming for your 401K. Hold on to your wallet! HFT Wealthfront ICI 
+ModernMarkets	690536000737640448	2016-01-22T14:06:26	.BernieSanders: Don't reduce our country's advantage in financial services with a misguided tax HFT Wealthfront  …
+ModernMarkets	690519356950773760	2016-01-22T13:00:18	BernieSanders: Don't reduce our country's advantage in financial services with a misguided tax HFT Wealthfront 
+ModernMarkets	690321963261284353	2016-01-21T23:55:56	"A tax on securities trades would reduce our comparative advantage in financial services." HFT Wealthfront 
+ModernMarkets	689929329044754433	2016-01-20T21:55:44	Financial transaction taxes based on cxl ratios would hit non-HFT investors, says UCLA research. FIAEPTA FIAPTG 
+ModernMarkets	689894867435130884	2016-01-20T19:38:48	HFT cancels orders more than other traders?  A myth, says UCLA professor. FIAEPTA FIAPTG 
+ModernMarkets	689833481019473922	2016-01-20T15:34:53	.gfcrawford CFTC We've found little evidence of HFT in cattle futures. Hoping someone will provide data or research.
+ModernMarkets	689832796215468032	2016-01-20T15:32:09	Sec'y Clintons cancellation tax: not just for HFT. Study finds it would effect most non-HFT firms as well. FIAEPTA 
+ModernMarkets	689485543076278273	2016-01-19T16:32:18	MMI Blog: Are some IEX comment letters a contradiction or a clever argument hedge? HFT 
+ModernMarkets	688044639480365057	2016-01-15T17:06:39	Ex-SEC Comm Atkins: "Investor demand and technology were already driving improvements more than a decade ago" HFT 
+ModernMarkets	687990041604427776	2016-01-15T13:29:42	Reg NMS is the "poster child of unintended consequences." HFT DanGallagherGrp 
+ModernMarkets	687684430408867840	2016-01-14T17:15:19	GoldmanSachs joins BATSGlobal, others:Exchanges should not use secret data to advantage their order routers.  HFT 
+ModernMarkets	687677390374473729	2016-01-14T16:47:20	GoldmanSachs says exchanges should not be able to use secret data to guide their order routers.  HFT 
+ModernMarkets	687675326583930880	2016-01-14T16:39:08	GoldmanSachs points to serious market structure issues surrounding the IEX exchange application HFT 
+ModernMarkets	687422396811350016	2016-01-13T23:54:05	Goldman Says IEX, a Proposed Exchange, Seeks an Unfair Edge LizMoyer 
+ModernMarkets	687371430917353472	2016-01-13T20:31:34	Federal judge dismisses highfrequencytrading suit for failure to state a claim  flashboys
+ModernMarkets	687355378418487301	2016-01-13T19:27:47	Exchanges should not use proprietary market data to benefit their own order routers: GoldmanSachs HFT 
+ModernMarkets	686614430113771526	2016-01-11T18:23:31	Beware of politicians trying to "China-tize" our markets. HFT 
+ModernMarkets	686577587926204416	2016-01-11T15:57:07	HFT ♥ IEX  
+ModernMarkets	685560445785223169	2016-01-08T20:35:22	CFTC Commissioner Bart Chilton: We should worry about "China-tizing" our markets.  HFT 
+ModernMarkets	685514244159320065	2016-01-08T17:31:46	Without market makers prepared to take the lumps, there is no market. HFT   via FT
+ModernMarkets	685511406507180032	2016-01-08T17:20:30	Can we improve our markets without resorting to "magic shoeboxes?" HFT 
+ModernMarkets	685507441321193472	2016-01-08T17:04:44	Chinese regulators lurching from one policy to another: collars, no collars, cancel msg taxes, what's next? HFT 
+ModernMarkets	685199149206130688	2016-01-07T20:39:42	A false dichotomy? Is approving IEX as-is the only alternative to counter latency arbitrage? HFT 
+ModernMarkets	684161345131036672	2016-01-04T23:55:50	Hedgies and HFT caused 2008?   Who won't Sen Sanders take advice from? Is this a street brawl yet? HFT jeneps 
+ModernMarkets	684089543230906368	2016-01-04T19:10:31	Is Yale attempting to sow fear &amp; misinformation about equity mkts to justify a questionable investment?  TabbFORUM
+ModernMarkets	682059508072366081	2015-12-30T04:43:53	China and Clinton Agree: Traders Should Pay for Canceled Orders  via bpolitics SamMamudi HFT
+ModernMarkets	681856872190722048	2015-12-29T15:18:41	From our friends ModernMarkets, see why some think the SIP needs to be sped up b4 being scrapped or altered. 
+ModernMarkets	681527613526007808	2015-12-28T17:30:19	TF 2015 TOP VIDEOS: ‘Flash Boys’ Front-Running Scam ‘Simply Impossible’: ‘Flash Boys: Not So Fast’ Author 
+ModernMarkets	681557652732788737	2015-12-28T19:29:41	Provocative opinion frm Tom Sosnoff of thinkorswim &amp; tastytrade. "Playing off peoples fear is not a business model" 
+ModernMarkets	679739950212988928	2015-12-23T19:06:47	This proposal would also allow firms and vendors to monitor that SIP feed is as fast as direct feeds 
+ModernMarkets	680071652328247296	2015-12-24T17:04:51	Contrary to a popular misconception, Brogaard, et al find that HFT provides liquidity in times of market stress. 

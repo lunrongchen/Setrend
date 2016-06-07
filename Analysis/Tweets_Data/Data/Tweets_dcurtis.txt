@@ -1,0 +1,360 @@
+dcurtis	726189597667917824	2016-04-29T23:21:06	sirbenlee opentable Who would burn  for a scam?? What a waste.
+dcurtis	725864846122573824	2016-04-29T01:50:39	Uber driver: "I knew Apple was in trouble when it released a hundred watch models that don't do anything useful."
+dcurtis	724645344974262272	2016-04-25T17:04:48	“Not giving money to a founder you backed earlier because you don't think they'll succeed is like slaughtering sheep you raised from birth.”
+dcurtis	724465551267917825	2016-04-25T05:10:21	pm It takes a long time for original research to become mature enough to entertain popular audiences. By then it’s no longer original.
+dcurtis	723959031543394305	2016-04-23T19:37:38	29
+dcurtis	722683537447632896	2016-04-20T07:09:16	holman Haha, exactly. (P.S. We still need to hang out soon.)
+dcurtis	722672534504763394	2016-04-20T06:25:33	I turn 29 on Saturday, and for the first time in my life I feel old.
+dcurtis	722672020807360512	2016-04-20T06:23:31	Over the past year, my Facebook feed become filled with marriage announcements and baby pictures. Fascinating, but also a bit depressing.
+dcurtis	722334309495910401	2016-04-19T08:01:34	howells From Apple: “A full charge takes about two hours and lasts two months. Two minutes of juice is enough for a full day.”
+dcurtis	722332448399331332	2016-04-19T07:54:10	howells How long does it take to charge?
+dcurtis	722330660220719104	2016-04-19T07:47:04	jzdziarski When you set up an iPhone, it asks if you want to send Apple anonymized data like that.
+dcurtis	722327099592167424	2016-04-19T07:32:55	stammy aprilzero ericflo maccaw It was the first episode I’ve ever seen of Star Trek, so I’m not quite that far gone yet.
+dcurtis	722322046831632385	2016-04-19T07:12:50	aprilzero maccaw The REM sleep one.
+dcurtis	722315232350044160	2016-04-19T06:45:46	maccaw It was a really good one!
+dcurtis	721771234489290754	2016-04-17T18:44:06	rabois garrytan semil joshelman The real anomalies were the brazen disregard for patient health and misleading statements about Edison.
+dcurtis	721769759524585472	2016-04-17T18:38:15	joshelman johnolilly semil I don’t think non-board member investors have any moral obligation to verify the claims of their investments.
+dcurtis	721768259888947204	2016-04-17T18:32:17	semil joshelman The horrific thing about Theranos is what they did to cover up the failure of the dream. Inexcusable and I hope illegal.
+dcurtis	721767969051660288	2016-04-17T18:31:08	semil joshelman I think it was obvious to the early investors that it was a huge risk. The math doesn’t really work out biologically.
+dcurtis	721766732185018369	2016-04-17T18:26:13	semil joshelman If you focus on the obvious downsides of an investment, you’ll fail as an investor. Much better to listen to the dream.
+dcurtis	721765684133306369	2016-04-17T18:22:03	semil Governance by whom? The federal government or the venture capitalists beholden to their limited partners?
+dcurtis	721763837188263940	2016-04-17T18:14:43	Imagine if Theranos’ Edison device actually worked—it would have had a huge impact on medicine. It’s easy to see how investors were seduced.
+dcurtis	721045179537358848	2016-04-15T18:39:01	golda herringbone floors are so garish
+dcurtis	720888856527003649	2016-04-15T08:17:51	nw3 Eh, the Facebook of chat bots will destroy all humans, so…
+dcurtis	720887378408120321	2016-04-15T08:11:59	Chat bots are the MySpace of AI.
+dcurtis	720880892898463745	2016-04-15T07:46:12	codybrown Doesn’t matter; I’m time zone agnostic. Just can’t sleep.
+dcurtis	720880514463195136	2016-04-15T07:44:42	You can tell a lot about a person based solely on how badly they suffer from insomnia.
+dcurtis	720684238840815616	2016-04-14T18:44:46	ryanphanna Agree.
+dcurtis	719411265647448064	2016-04-11T06:26:26	panzer You should thank iCloud. Same reason I have 50 un-deletable copies of Jason Calacanis in my contacts.
+dcurtis	719392395293372417	2016-04-11T05:11:27	rafael_soto_ Ah, fixed. Thanks.
+dcurtis	719391144732266496	2016-04-11T05:06:29	rafael_soto_ What browser are you using?
+dcurtis	718663574915141632	2016-04-09T04:55:23	rabois The colloquial term for that, when it is positive, is luck.
+dcurtis	718663143950409730	2016-04-09T04:53:40	rabois I could easily argue your side as well. But I think you get my point—there were a couple of times where Elon took a risk and won.
+dcurtis	718662017897213952	2016-04-09T04:49:11	rabois lol
+dcurtis	718661898091175936	2016-04-09T04:48:43	rabois A couple cases of luck.
+dcurtis	718648914044264448	2016-04-09T03:57:07	homakov I don't think so. It takes a certain kind of personality.
+dcurtis	718646158575284224	2016-04-09T03:46:10	A common thought I have when reading about Elon Musk: how many Elon Musks are out there who lack the initial resources to be Elon Musk?
+dcurtis	718645150784696321	2016-04-09T03:42:10	Hacker News used to be so much better. The reduction (censorship?) of real startup news has had ruinous effects, at least for me personally.
+dcurtis	718570823917953024	2016-04-08T22:46:49	sdw dcurtis I think this is the reason  
+dcurtis	718570646951735296	2016-04-08T22:46:07	kpk Even on the website or mobile app: no ads.
+dcurtis	718569519115927552	2016-04-08T22:41:38	I don’t think I’ve ever seen an ad on Twitter. Am I on some kind of whitelist or are ads really that rare?
+dcurtis	717926238765993984	2016-04-07T04:05:28	stevencorona It’s particular to my infrastructure: SSL termination mucks up my Nginx proxy caching for Svbtle pages.
+dcurtis	717923236680368128	2016-04-07T03:53:32	stevencorona The issue is mostly that it’s difficult to bring everything together in a highly cached way. For me: speed trumps everything.
+dcurtis	717922420762370049	2016-04-07T03:50:18	stevencorona Just SNI w/ Let’s Encrypt.
+dcurtis	717915475678617601	2016-04-07T03:22:42	edorsey I think the limit is 100 domains per certificate, so it’s more complex...
+dcurtis	717908240869097472	2016-04-07T02:53:57	gkoberger Generate them ourselves. It doesn’t really make sense to have people upload them; Let’s Encrypt makes it free to generate.
+dcurtis	717907966611959808	2016-04-07T02:52:51	gkoberger Very carefully: lots of cron jobs with Let’s Encrypt. (It’s not a great solution because it semi-bypasses the load balancer.)
+dcurtis	717905845841866753	2016-04-07T02:44:26	If you use a custom domain on Svbtle and want to beta test full HTTPS support, say hi: d@svbtle.com
+dcurtis	717905239840411648	2016-04-07T02:42:01	Supporting and maintaining TLS certificates and configurations for thousands of arbitrary domains in a distributed system is very difficult.
+dcurtis	717899212986273792	2016-04-07T02:18:04	ikirigin When they expand the length of replies, you’ll be able to have much more textured conversations…
+dcurtis	717565942750781440	2016-04-06T04:13:47	This is how the zombie apocalypse begins. 
+dcurtis	716834329528172544	2016-04-04T03:46:36	soopa elonmusk Raise an enormous amount of debt and quickly double/triple your expected manufacturing capacity. by 2018.
+dcurtis	716798250120941568	2016-04-04T01:23:14	jlax soopa joulee You can also approximate the end result of coding a lot better with tools these days.
+dcurtis	716793638852755457	2016-04-04T01:04:55	jlax joulee Very interesting.
+dcurtis	716790697152524288	2016-04-04T00:53:14	joulee Julie, if you only needed 10 product designers, would you require them all to code? (Seems like scale might be a big issue for you.)
+dcurtis	716346146398928896	2016-04-02T19:26:45	shellen virginamerica Virgin America lost its way long ago.
+dcurtis	715775686447861760	2016-04-01T05:39:56	internetofshit rsg You can see the “0” in the picture you tweeted.
+dcurtis	715775116056113152	2016-04-01T05:37:40	rsg internetofshit The speedometer is on the far left of the screen.
+dcurtis	715755514517463041	2016-04-01T04:19:47	Elon Musk makes me feel like such a worthless, unproductive human being.
+dcurtis	715461320322068480	2016-03-31T08:50:46	Suddenly feeling an intense urge to drive a fast car.
+dcurtis	715429556706873345	2016-03-31T06:44:33	pmarca He only bought a $56,000 car. Pretty modest.
+dcurtis	715232096239759360	2016-03-30T17:39:54	There’s lots of new stuff in the latest Safari, and the WebKit team has a great blog cataloging updates:   
+dcurtis	715028829266423815	2016-03-30T04:12:12	collision Ahh, that video activated my Echo and tried to order an uber.
+dcurtis	715013493078921217	2016-03-30T03:11:15	paulcothenet daniellemorrill No, the IRS is screwed because it will get the BEST refunds.
+dcurtis	715011316151246849	2016-03-30T03:02:36	collision Can’t believe the app lets you listen to the raw audio it records. Very creepy. Totally agree with you.
+dcurtis	715000610089623552	2016-03-30T02:20:04	ikirigin I only want to talk about the real issues.
+dcurtis	715000223337021441	2016-03-30T02:18:31	erratarob matthew_d_green Curious: do you make yourself available to such reporters?
+dcurtis	714999919149355008	2016-03-30T02:17:19	Like his last debate appearance, Kasich’s lapel pin remains about 30% too large. At least it’s properly aligned and positioned tonight.
+dcurtis	714985481193127936	2016-03-30T01:19:57	Tonight, as usual, there no flaws with Trump’s lapel pin. It’s perfectly aligned and glistens beautifully in the light: red, white and blue.
+dcurtis	714979740742848512	2016-03-30T00:57:08	tripgabriel brianstelter Notice it’s not prescription drugs that are the issue—it’s addiction to illegal drugs smuggled over the border.
+dcurtis	714974534672076800	2016-03-30T00:36:27	Ted Cruz’s lapel pin tonight is red and gold, and it’s misaligned. His shiny pin is definitely not helped by the venue’s harsh/bad lighting.
+dcurtis	714262462653030400	2016-03-28T01:26:56	gregory lol
+dcurtis	714262217189752833	2016-03-28T01:25:57	bradmccarty They use nifty algorithms to prevent that now.
+dcurtis	714261860359344128	2016-03-28T01:24:32	When you tap and hold the shutter button on iOS’s camera, it should take a video, not a weird burst of photos.   What were they thinking?
+dcurtis	714211667169574912	2016-03-27T22:05:05	ikirigin subtweets all the way down
+dcurtis	714191242280579072	2016-03-27T20:43:55	semil lol, Twitter still needs to get to the *first* 5 billion.
+dcurtis	713997992915697665	2016-03-27T07:56:01	I had a fantastic Saturday.
+dcurtis	713425912172163073	2016-03-25T18:02:46	dustin The AI will take over long before a tech human has a chance to become president.
+dcurtis	713194507576041472	2016-03-25T02:43:15	rsg dislike
+dcurtis	712771145464819712	2016-03-23T22:40:58	jonrussell you should find someone with a residential VPN on Comcast or Time Warner.
+dcurtis	712487436333359104	2016-03-23T03:53:36	jonathan_blow 3500 19th St., my building, and some custom apartments in the Four Seasons are the only places I know of.
+dcurtis	712468896125575168	2016-03-23T02:39:56	The heated floor in my bathroom stopped working. My feet are cold. Please pray for me.
+dcurtis	712466165319118848	2016-03-23T02:29:05	ryanvailbrown Holy crap
+dcurtis	712349123656032257	2016-03-22T18:44:00	sean_a_rose That's the easy part! The hard part is choosing which 1% to build.
+dcurtis	712348762450997249	2016-03-22T18:42:34	DanielZarick too many characters
+dcurtis	712164845551030272	2016-03-22T06:31:45	dcurtis I feel like this is one of your worst product calls and normally you're pretty good
+dcurtis	712165941082083329	2016-03-22T06:36:06	It is true that tons of people wanted a cheaper, smaller iPhone with an old design. Tons of people wanted an iMac with a floppy drive, too.
+dcurtis	712163342081601536	2016-03-22T06:25:46	The existence of iPhone SE makes no sense and is a huge distraction for Apple.   Can you even still fit all of Apple’s products on a table?
+dcurtis	712086778803412992	2016-03-22T01:21:32	panzer marcoarment rjonesy Power consumption reasons.
+dcurtis	711977575271124992	2016-03-21T18:07:36	Ugh, Apple, please release a fucking new MacBook Pro. This thing is a dinosaur in need of some serious love.
+dcurtis	711763512968630272	2016-03-21T03:57:00	pmarca What kind of amp is it?
+dcurtis	711758940837511169	2016-03-21T03:38:49	patrickc Next time, I expect an invite!
+dcurtis	711302359922573313	2016-03-19T21:24:32	I find it fascinating that no one makes a bicep emoji pillow.  Plenty of poop pillows though: 
+dcurtis	710968073281404928	2016-03-18T23:16:12	rakeshlobster virgin Virgin America First Class is a joke compared to JetBlue Mint. (Both in price and product.)
+dcurtis	710556440864272384	2016-03-17T20:00:31	ikirigin Well, to start off, it’s way too loud to be used for anything useful militarily.
+dcurtis	710554529721229312	2016-03-17T19:52:56	Put some guns on the dog, and then you only need one customer. Problem solved.  
+dcurtis	710548183345041408	2016-03-17T19:27:42	pt For the record, I don’t think you should have come out.
+dcurtis	709593057746821120	2016-03-15T04:12:23	plc text me about this! 415 971 3229
+dcurtis	709589980503367682	2016-03-15T04:00:09	toddsaunders If you’re serious, I would love the help. hi@dustincurtis.com
+dcurtis	709589194440462336	2016-03-15T03:57:02	mikepond That would be awesome
+dcurtis	709587821590237185	2016-03-15T03:51:34	ikirigin Looks like it’s caching the Let’s Encrypt certificate even after it has been renewed.
+dcurtis	709587296496975872	2016-03-15T03:49:29	mikepond Not rigorously. I probably should do that.
+dcurtis	709587033287581696	2016-03-15T03:48:26	ikirigin The cert is valid for me! What cert does it show you?
+dcurtis	709586739023601664	2016-03-15T03:47:16	ikirigin Ugh. I suck at sales. I wish someone would do it for me and just take a cut.
+dcurtis	709585640627679232	2016-03-15T03:42:54	Surprised that more people are not using    Curious: if you run a site with a signup form, what’s stopping you?
+dcurtis	709576341767651329	2016-03-15T03:05:57	kevingibbon joshelman It’s a public benefit corporation that has lost 70% of its value since going public. It’s worth just $1B.
+dcurtis	709574389923098624	2016-03-15T02:58:12	joshelman Etsy was never ambitious enough. So much potential, though.
+dcurtis	709570957522808832	2016-03-15T02:44:34	Facebook : Twitter :: Amazon : ???  Whoever solves this puzzle will be a certain billionaire.
+dcurtis	708873060162662400	2016-03-13T04:31:22	dcurtis I can’t believe something from 2012 finally explained the intangible value of Snapchat.
+dcurtis	708860201751826433	2016-03-13T03:40:16	Going back through some of my old writing, and found this particularly prescient article I published in 2012:  
+dcurtis	708584563585327105	2016-03-12T09:24:59	Fascinating to watch man rationalize its loss to a machine.    “You fought well,” they say.
+dcurtis	708547629659979776	2016-03-12T06:58:13	patio11 If you told me that photo was taken in 1980, I would believe you.
+dcurtis	708532867236700160	2016-03-12T05:59:34	golda which city you in?
+dcurtis	708419511477673984	2016-03-11T22:29:07	Thanks Dropbox!   (To everyone else: I am always happy to receive free stuff in the mail--DM me for my address!) 
+dcurtis	708134452187115520	2016-03-11T03:36:24	gruber He met with Ben Carson earlier today—must have taken some of his sedatives.
+dcurtis	708131917191708672	2016-03-11T03:26:20	Kasich's lapel pin is about 20% too large, and it would look better moved to the left by about ½-inch.   As usual, Trump’s pin is perfect.
+dcurtis	708130178581422081	2016-03-11T03:19:25	patio11 thegrugq Everything in biology can be reduced to math as well; chemistry runs on a common library called physics.
+dcurtis	708127145009098754	2016-03-11T03:07:22	gaberivera Ask the same thing about Jeb Bush—I think the difference would be 10x more dramatic.
+dcurtis	708117082534060033	2016-03-11T02:27:23	fmanjoo During their long meeting earlier today, Ben Carson must have given Trump whatever sedative he used to take before debates.
+dcurtis	708103317138702337	2016-03-11T01:32:41	The end is near.  
+dcurtis	707677913538101248	2016-03-09T21:22:17	rrhoover The placement of Musk is no accident. Apart and above the rest…
+dcurtis	707401129429078016	2016-03-09T03:02:26	vernalkick jroman951 The best/only real character is that show is the concept of power.
+dcurtis	707400095134711809	2016-03-09T02:58:20	jroman951 vernalkick It was a joke. The first two seasons of the show are genius television. The last two are terrible.
+dcurtis	707398362811662336	2016-03-09T02:51:27	vernalkick It’s an intellectual show; you wouldn’t understand it. :)
+dcurtis	707396052412829697	2016-03-09T02:42:16	putorti cnn Honestly it’s Hilary’s mistake to speak at the same time. What a dumb decision.
+dcurtis	707391290753699841	2016-03-09T02:23:21	amyhoy What’s wrong with him?
+dcurtis	707389724877414401	2016-03-09T02:17:07	amyhoy It’s legal to prescribe a benzodiazepine to a cat??
+dcurtis	707365972194283520	2016-03-09T00:42:44	Super inspired by my visit to Ikea today , really amazing company… my mind is racing with the possibilities…
+dcurtis	707069896656457728	2016-03-08T05:06:14	marcoarment Damn, they don’t have the Blue Stone color version. I guess I’ll wait.
+dcurtis	707066923440152577	2016-03-08T04:54:25	marcoarment Think it’s worth upgrading from the original H6’s? Is the sound really that much better out of the Macbook amp/dac?
+dcurtis	707061318809858049	2016-03-08T04:32:09	Extant was a highly underrated show—incredible set design, great mystery… but it was ruined by a descent into bizarre, unnecessary horror.
+dcurtis	707060789786517504	2016-03-08T04:30:03	kazarelth sahilk My favorite show!
+dcurtis	707059686827106304	2016-03-08T04:25:40	Are there any optimistic sci-fi TV shows? Even the Netflix category for sci-fi is “Sci-Fi/Horror”. I want “Sci-fi/Cool vision of future”.
+dcurtis	706562368965255168	2016-03-06T19:29:30	soleio Science!
+dcurtis	706221743409594368	2016-03-05T20:55:59	JFK ✈️ SFO   
+dcurtis	705859905236951040	2016-03-04T20:58:10	iamjoshuascott Or, just, you know, be vain and only have friends who are attractive.
+dcurtis	705854771207524352	2016-03-04T20:37:46	Standing in the most powerful symbol of human progress, and my favorite single location on Earth, Times Square. 
+dcurtis	705609583792939008	2016-03-04T04:23:29	jonrussell My favorite sushi chef in Manhattan just moved to Bangkok.
+dcurtis	705601033641316353	2016-03-04T03:49:30	brianstelter But what sentiment?
+dcurtis	705599732673073153	2016-03-04T03:44:20	tqbf There is an authentic distinction in a legal sense, but not morally. Personally, I am against the institution of marriage conceptually
+dcurtis	705599004042772480	2016-03-04T03:41:26	tqbf If you are a strict constitutionalist, then yes, that is how you lose the argument.
+dcurtis	705598126288142336	2016-03-04T03:37:57	Imagine if the gay marriage question was about racial segregation and the answer was, “It should be left up to the states.”   lol, no.
+dcurtis	705594939258900480	2016-03-04T03:25:17	fmanjoo What else is there to say?
+dcurtis	705591501775085568	2016-03-04T03:11:37	rabois putorti Didn’t you say Trump would lose every primary?
+dcurtis	705585886252179458	2016-03-04T02:49:19	Lapel flag alignment:  Rubio: perfectly parallel to floor. Trump: perfectly aligned with lapel. Cruz: sideways; insane. Kasich: irrelevant.
+dcurtis	705572832445657088	2016-03-04T01:57:26	profjeffjarvis thegrugq It’s because of the trains!
+dcurtis	705561691837370370	2016-03-04T01:13:10	clairefromparis davidcrespo If I compiled the list 8 months ago, Elizabeth Holmes would have been on it.
+dcurtis	705556987476578305	2016-03-04T00:54:29	besvinick Abs and biceps. Duh.
+dcurtis	705556788268154880	2016-03-04T00:53:41	gerstenzang One of the best hoteliers of all time. An obsessive perfectionist, but also a business genius.
+dcurtis	705556337938321408	2016-03-04T00:51:54	Top five people I’d want to meet for lunch, in order:  1. Barry Sternlicht 2. J.J. Abrams 3. Ray Dalio 4. Jony Ive 5. Ryan Reynolds
+dcurtis	705477701155561472	2016-03-03T19:39:25	Say anything you want about him, but Trump is a truly fantastic public speaker.
+dcurtis	705256640765927424	2016-03-03T05:01:00	putorti Ben Carson on Adderall would be quite interesting.
+dcurtis	704899120201342977	2016-03-02T05:20:21	zedshaw For some reason, that flower reminds me of the Voynich Manuscript.
+dcurtis	704896955378438149	2016-03-02T05:11:45	bec lyft Is it really worth the couple of extra dollars to have to endure that?
+dcurtis	704860157516386304	2016-03-02T02:45:31	Chris Christie looks like he’s being held against his will. I wonder what dirt Donald Trump has on him.
+dcurtis	704858551404130304	2016-03-02T02:39:08	fmanjoo Like an executive chef being demoted to saucier.
+dcurtis	704550644850434048	2016-03-01T06:15:38	jadojodo Very soon. Working on it right now, actually.
+dcurtis	704498837927403520	2016-03-01T02:49:46	People ask me why I use Svbtle. This is why. 
+dcurtis	704430173047881728	2016-02-29T22:16:55	unearned yup. what do you mean by that?
+dcurtis	704420329754660868	2016-02-29T21:37:48	nashp Even if you cancel service, your content will remain available. Read the fine print.
+dcurtis	704420216462254081	2016-02-29T21:37:21	sukhdugal What names?
+dcurtis	704419781114515456	2016-02-29T21:35:37	neilgajera Yes!
+dcurtis	704417846508519424	2016-02-29T21:27:56	justinkan Yup. Let me look into it.
+dcurtis	704417041827155968	2016-02-29T21:24:44	ilyasu You’re right—I updated it. Sorry about that. Definitely wasn’t just an acquihire.
+dcurtis	704416740021817344	2016-02-29T21:23:32	sukhdugal Indeed it is.
+dcurtis	704414166380113921	2016-02-29T21:13:19	marijnvdwerf Yes.
+dcurtis	704413606109126659	2016-02-29T21:11:05	Making a big announcement regarding a new Svbtle feature:    I hope more content startups do this in the future.
+dcurtis	704372256860938244	2016-02-29T18:26:47	hamiltonnolan Your union agreement requires that all employees join the union—what if some don’t want to, for (moral, etc… reasons)?
+dcurtis	704369122029805568	2016-02-29T18:14:19	hamiltonnolan What about startups? At what size does unionization make sense? When there is X discomfort between managers and others?
+dcurtis	704366778340790272	2016-02-29T18:05:01	hamiltonnolan Why only media companies?
+dcurtis	704363902155550721	2016-02-29T17:53:35	Just another day at the office. 
+dcurtis	704345897015099392	2016-02-29T16:42:02	semil and given that Medium shamelessly copied me, it's shame all the way down.
+dcurtis	704167162924105728	2016-02-29T04:51:49	It’s too bad Cadillac’s incredible DARE GREATLY ad campaign was wasted on Cadillac. Beautiful, inspiring execution.
+dcurtis	704113462016917504	2016-02-29T01:18:25	⭐️   
+dcurtis	703832703989190656	2016-02-28T06:42:47	Walking through New York City, late at night, after drinking.
+dcurtis	703705201262399488	2016-02-27T22:16:08	chanian Dorsia is always full.
+dcurtis	703703950244106240	2016-02-27T22:11:10	dcurtis you’d be a great VC :)
+dcurtis	703702737372975104	2016-02-27T22:06:21	It's agonizingly difficult to make same-day 3-Michelin star restaurant reservations.
+dcurtis	703701493317292032	2016-02-27T22:01:24	Hello, New York.   
+dcurtis	703358571493326848	2016-02-26T23:18:45	Just saw a real gold Apple Watch in the wild for the first time on the arm of a guy driving a gold Lamborghini in Miami.
+dcurtis	703348640232939520	2016-02-26T22:39:18	kylefox Yeah, I’ve made that mistake already.
+dcurtis	703328699538665472	2016-02-26T21:20:03	tilomitra Different types of places.
+dcurtis	703327971956883456	2016-02-26T21:17:10	I’ve never been to the southern hemisphere. Kind of amazing: 
+dcurtis	703326186781462529	2016-02-26T21:10:04	gregbarbosa Ha, I was thinking a bit further away…
+dcurtis	703088318720901120	2016-02-26T05:24:52	brian_armstrong Then you’ll need people to vouch for the people who vouch for you….
+dcurtis	703062753792159744	2016-02-26T03:43:17	House of Cards, Trump Edition:   He’s baiting the other candidates into suspicion about his tax returns, which end up being totally normal.
+dcurtis	703046609349771264	2016-02-26T02:39:08	“I don’t repeat myself. I don’t repeat myself.” — Donald Trump
+dcurtis	702953047157301248	2016-02-25T20:27:21	rjonesy link to the filing?
+dcurtis	702925092334899200	2016-02-25T18:36:16	dcurtis I want to this term in headlines so bad
+dcurtis	702923831661477888	2016-02-25T18:31:15	Someone just told me he’s raising a “pre-seed” round. You know what’s there before you plant a seed? Dirt. You’re raising a dirt round.
+dcurtis	702913535622443011	2016-02-25T17:50:21	DanielZarick I can own one even though I think it's dumb, Daniel.
+dcurtis	702911393905963009	2016-02-25T17:41:50	I think luxury yachts are dumb, but for some reason, I'm craving a yacht. 
+dcurtis	702637756376289280	2016-02-24T23:34:30	echezbro Nope, it’s all Warhol now.
+dcurtis	702608926970351616	2016-02-24T21:39:56	ethank JetBlue If you think flyfi sucks, then you clearly haven't used wifi on any other airline.
+dcurtis	702358067090948096	2016-02-24T05:03:07	fmanjoo You should be a political reporter.
+dcurtis	702352046641569793	2016-02-24T04:39:11	jonrussell Only $0.50, but your potential for death or maiming is 50x higher than a car.
+dcurtis	702229300955770880	2016-02-23T20:31:26	Finally getting around to reading Sapiens. 
+dcurtis	701969141234794501	2016-02-23T03:17:39	zedshaw My problem is obsession.
+dcurtis	701958525401092096	2016-02-23T02:35:28	I always want more and better of everything all at once.
+dcurtis	701947991440101377	2016-02-23T01:53:37	semil Not true! Always depends on the person asking.
+dcurtis	701662245407866880	2016-02-22T06:58:10	Miami is a fun city.
+dcurtis	701637385352822784	2016-02-22T05:19:23	rabois Denial is a strong force.
+dcurtis	701578960522584064	2016-02-22T01:27:13	burger I know.
+dcurtis	701577614872416256	2016-02-22T01:21:52	jorilallo karrisaarinen If I were creating Markdown 2.0, I would change it to “image[]()”. (gruber, curious why you chose “!”)
+dcurtis	701576211684835328	2016-02-22T01:16:18	jorilallo To be similar to image syntax:  &amp;[Video name/alt-text](Youtubelink)
+dcurtis	701575676814565376	2016-02-22T01:14:10	The only thing stranger than Kanye West being $53 million in debt is the fact that someone extended Kanye West a $53 million line of credit.
+dcurtis	701574541462675458	2016-02-22T01:09:39	jorilallo I have. It was just a pain, so I rolled it back. It’s easier to just paste the embed or auto-convert the raw link.
+dcurtis	701497622897549313	2016-02-21T20:04:01	Perfect. 
+dcurtis	701234506565611520	2016-02-21T02:38:29	rabois What? Why?
+dcurtis	701222031929511936	2016-02-21T01:48:55	Jeb Bush would have been a much more viable candidate before TV and radio. His words sound a lot better when read than watched.
+dcurtis	700854308284166144	2016-02-20T01:27:42	Fascinating to read about how Apple implemented iMessage (p39). Shows how serious they are about privacy.  
+dcurtis	700853628760764417	2016-02-20T01:25:00	rkrishnakumar gruber When you set up your device, you can agree to send Apple some data. But I think they’re VERY careful about what data.
+dcurtis	700851157732700160	2016-02-20T01:15:11	@motherfq gruber The FBI per se isn’t a concern of mine—it’s hackers. Especially ones enabled by government-mandated vulnerabilities.
+dcurtis	700850732329619457	2016-02-20T01:13:30	gruber Apple has also shown that you can do a lot of the same stuff on the local device. Not very well yet, but it’s a good start.
+dcurtis	700848587463270400	2016-02-20T01:04:59	gruber As with all things, there is a fine balance and it depends on the circumstances. But I trust server security a lot less today.
+dcurtis	700847836791877632	2016-02-20T01:02:00	panzer I have no idea what you’re talking about.
+dcurtis	700847124460605440	2016-02-20T00:59:10	Today I believe almost the exact opposite of what I wrote here:     I was wrong.
+dcurtis	700844914423123968	2016-02-20T00:50:23	samfbiddle The face is too big.
+dcurtis	700844023515185152	2016-02-20T00:46:50	pm Wealthfront and any decent private broker can do complex tax harvesting to limit your tax burden.
+dcurtis	700370538166931456	2016-02-18T17:25:23	Just another day at the office. 
+dcurtis	700180718517907456	2016-02-18T04:51:06	joshelman rabois I hate the term “artificial” intelligence. It’s just intelligence. But now we’re talking about startups again, dammit.
+dcurtis	700180194259288064	2016-02-18T04:49:01	rabois It’s all related. Weather prediction algorithms =&gt; AI. Actually, it seems like everything ends up ultimately being about AI.
+dcurtis	700179555294830592	2016-02-18T04:46:29	rabois biotechnology, finance, china, macroeconomic trends, and the weather in Miami.
+dcurtis	700179326579449857	2016-02-18T04:45:34	There’s nothing more inspiring to me than an intellectual dinner conversation about something totally unrelated to startups.
+dcurtis	700177913820352512	2016-02-18T04:39:57	sean_a_rose dwr Ah, then as usual, we agree.
+dcurtis	700177088691752960	2016-02-18T04:36:41	sean_a_rose dwr It’s wrong to correlate the syntax and the conversation structure. It’s Twitter’s single biggest problem in my opinion.
+dcurtis	700172963560214528	2016-02-18T04:20:17	sean_a_rose dwr No. The best tweets are the *conversations* that Twitter doesn’t surface. The @-sign has nothing to do with it.
+dcurtis	699738885430054917	2016-02-16T23:35:25	Jonathan_Blow Why don't you visit and make it reality?
+dcurtis	699737616820867078	2016-02-16T23:30:23	Woke up early this morning craving a beach. So I went to one. Sup Miami? 
+dcurtis	699378427829194752	2016-02-15T23:43:05	kanyewest Sounds like you are a very bad with financial decisions…
+dcurtis	699140175541055488	2016-02-15T07:56:21	ronenv Except Deadpool was actually really, really well written.
+dcurtis	699124566942068736	2016-02-15T06:54:20	marijnvdwerf you are free to come over and see my face at any time.
+dcurtis	699105820861050880	2016-02-15T05:39:51	squeakytoy It is indeed my real number.
+dcurtis	699104908557971456	2016-02-15T05:36:13	Pretty surprised that no one has texted me yet. Maybe I should have just said, “has abs.”
+dcurtis	699103650669416448	2016-02-15T05:31:13	rabois Are you rich?
+dcurtis	699102529741717505	2016-02-15T05:26:46	squeakytoy if you meet all of the other requirements, one (1) slice of cake is OK.
+dcurtis	699101226579853313	2016-02-15T05:21:35	plc Wealthy, of course.
+dcurtis	699101032689721344	2016-02-15T05:20:49	squeakytoy All of my tweets are experiments. And yes, they have to be visible.
+dcurtis	699100296023187456	2016-02-15T05:17:53	If you’re intelligent, gay, single, absurdly wealthy, have abs, and live in San Francisco, let’s get a drink: 4159713229
+dcurtis	699097438146039810	2016-02-15T05:06:32	Singles awareness day.
+dcurtis	698982777060896768	2016-02-14T21:30:55	golda where?
+dcurtis	698736309045579776	2016-02-14T05:11:32	danielzarick No, that was 100% dustin curtis.
+dcurtis	698678339964313600	2016-02-14T01:21:11	I find it incredibly annoying when I can't sort a list from "most expensive to least expensive."
+dcurtis	698359319251714048	2016-02-13T04:13:31	kintan joshelman First request is easy, it’s just ego and requires only one person: Jeff Bezos.
+dcurtis	698358505611264001	2016-02-13T04:10:17	kintan joshelman Make up with Apple, and make it play over Airplay. And make alexa smarter.
+dcurtis	698356956004634624	2016-02-13T04:04:07	kintan joshelman “Alexa, tell me the news.” after waking up and then, “Alexa, play Bonobo.”
+dcurtis	698348532823040000	2016-02-13T03:30:39	I find myself in need of an abs emoji more and more every day.
+dcurtis	698344015708565504	2016-02-13T03:12:42	Amazon Echo is shockingly awesome. Amazing that it came from Amazon.
+dcurtis	698269199840333824	2016-02-12T22:15:25	I asked to see the secret projects, but the only thing they would show me was the coffee bar. 
+dcurtis	698067179867021312	2016-02-12T08:52:39	jcf527 Of course it’s GAAP accounting. Anything else is bullshit.
+dcurtis	698038300120985600	2016-02-12T06:57:54	chrismessina dropbox drewhouston  What! They’ve never sent me anything like that, and I have been a customer for like ever!
+dcurtis	698028091625467904	2016-02-12T06:17:20	rsg mikeindustries lol, I bet you $1000 it won’t. (Bobby, you’re my favorite to troll on Twitter.)
+dcurtis	698000302721531904	2016-02-12T04:26:55	soleio bhaggs lol
+dcurtis	697996071054643200	2016-02-12T04:10:06	rabois There’s no drama. It’s just one person and then another person who is more extreme.
+dcurtis	697990245749387264	2016-02-12T03:46:57	fmanjoo Was it a pivot? Or did she just answer: Mandela and Obama?
+dcurtis	697989458948333568	2016-02-12T03:43:49	fmanjoo You are on a roll tonight.
+dcurtis	697980860859944960	2016-02-12T03:09:39	johnjcook gawker hey john!
+dcurtis	697980443941965824	2016-02-12T03:08:00	gawker You’re better than that kind of clickbait title, Gawker.
+dcurtis	697980027137236992	2016-02-12T03:06:20	I honestly think it would be fascinating if Donald Trump moderated a democratic debate.
+dcurtis	697967187835777025	2016-02-12T02:15:19	joshuatopolsky Red, white, and blue are out. Mustard is in.
+dcurtis	697918316120248320	2016-02-11T23:01:07	dcurtis That’s the most dcurtis thing you’ve said in a while 😂
+dcurtis	697912039210004480	2016-02-11T22:36:11	Yesterday I went to a top secret conference with confidential speakers who spoke about confidential things to a confidential audience.
+dcurtis	697489424087560193	2016-02-10T18:36:52	Imagine what kind of failure mode would have to occur in the human brain to prevent it from saying the number nine.
+dcurtis	697488867255955457	2016-02-10T18:34:39	The number nine key on my MacBook keyboard suddenly stopped working. All other keys continue to work. It’s only nine. Technology is weird.
+dcurtis	697485704134176768	2016-02-10T18:22:05	luxury Or, “Neither”.
+dcurtis	697324361917661185	2016-02-10T07:40:58	danielzarick I really enjoyed it.
+dcurtis	697324268443414529	2016-02-10T07:40:35	danielzarick SEND ME AN IMESSAGE
+dcurtis	697312427881271296	2016-02-10T06:53:32	pmarca sho_billions abrams Episodes 5 and 6 are even better. One of my favorite shows of all time so far.
+dcurtis	697299875273142272	2016-02-10T06:03:40	thatjaneng It was fantastic. I really enjoyed playing.
+dcurtis	697222225192099840	2016-02-10T00:55:06	isaacforman Yeah, I would say it’s not appropriate at all for that age.
+dcurtis	697218766661222400	2016-02-10T00:41:22	abrams Oh wow, that’s a direct quote. Hilarious.
+dcurtis	697218201839489024	2016-02-10T00:39:07	Firewatch is a beautiful, fantastic game.
+dcurtis	697128550638333952	2016-02-09T18:42:53	bradheath Is that legal? Shouldn’t there be time requirements on such things?
+dcurtis	696948681820532736	2016-02-09T06:48:09	teek_s b3ll heyadam You also need to bring at least one other attractive person, btw, b3ll   Friday at 1pm works for me.
+dcurtis	696947126367035392	2016-02-09T06:41:58	b3ll teek_s heyadam Of course. ❤️
+dcurtis	696946912134623232	2016-02-09T06:41:07	teek_s heyadam You can join, but only if you bring at least one other attractive person.
+dcurtis	696938156323704833	2016-02-09T06:06:19	joeyabanks With an endorsement from heyadam, I’ll meet with you anytime, anywhere.
+dcurtis	696936985261428738	2016-02-09T06:01:40	bubs 24th works for me.
+dcurtis	696936362147213314	2016-02-09T05:59:11	bubs Sounds good. Late week after next?
+dcurtis	696934178600939520	2016-02-09T05:50:31	danielzarick As you well know, Daniel, I live a luxurious life.
+dcurtis	696930834436268032	2016-02-09T05:37:13	heyadam Sounds good. Tomorrow at 1p?
+dcurtis	696929173819027457	2016-02-09T05:30:38	joshuatopolsky I’ll come to New York. When is good?
+dcurtis	696925326585294848	2016-02-09T05:15:20	steven_aquino Any time
+dcurtis	696923422987841536	2016-02-09T05:07:46	I am insanely bored and not sure how to spend my time.  Who wants to get lunch/dinner next week?  iMessage me: 4159713229
+dcurtis	696912118474387456	2016-02-09T04:22:51	ilikevests The fact that you even feel the need to say that is very telling about the industry right now…
+dcurtis	696907461404438528	2016-02-09T04:04:21	semil pmarca I’m obsessed with robotics, shipping logistics, etc. Very hard to start working on those things without raising lots of $.
+dcurtis	696907092012085248	2016-02-09T04:02:53	semil pmarca I’m optimistic about the future, but the things I am excited about are things that require a lot more money than software.
+dcurtis	696905627478560768	2016-02-09T03:57:04	xdamman garrytan I think the changes at Hacker News are most to blame. Totally changed the conversation in a subtle, profound way.
+dcurtis	696904438397562881	2016-02-09T03:52:20	pmarca Time to bring back Michael Arrington.
+dcurtis	696899410349805568	2016-02-09T03:32:21	The startup industry has been depressing lately. It feels less inspirational and more trite and vapid. I miss the community from 2008-2013.
+dcurtis	696892841553850368	2016-02-09T03:06:15	DanielleMorrill I have never wanted to roll my eyes more after reading a tweet.
+dcurtis	696166381666996225	2016-02-07T02:59:34	
+dcurtis	695373176142835712	2016-02-04T22:27:39	aaronykng square Take a picture of that!
+dcurtis	695371704453836806	2016-02-04T22:21:48	aaronykng square That looks awesome. What does it look like in the dark with the Apple logo lit up?
+dcurtis	695370239656095748	2016-02-04T22:15:59	markessien shanand Twitter is risky. Based on assets/products, it’s undervalued. Based on its historical execution, it’s properly valued.
+dcurtis	695369581930508288	2016-02-04T22:13:22	shanand markessien Based on LinkedIn? No. It has always been priced at an unreasonable premium. This is a true, classic correction.
+dcurtis	695367781991059456	2016-02-04T22:06:13	markessien Slowing growth, bad earnings outlook.
+dcurtis	695366899899629568	2016-02-04T22:02:42	floatingatoll Slowing growth.
+dcurtis	695366412504690689	2016-02-04T22:00:46	
+dcurtis	695351416592953344	2016-02-04T21:01:11	benedictevans Not in the long run, no, but for first version products, I think those people tend to be an important segment.
+dcurtis	695350651732103168	2016-02-04T20:58:09	benedictevans I am genuinely very curious what you think the initial target market is for the first version of the Watch.
+dcurtis	695349337266610180	2016-02-04T20:52:55	benedictevans Wealthy, tech-savvy San Franciscans and New Yorkers? I would think that is the Watch’s target market.
+dcurtis	695348688839843841	2016-02-04T20:50:21	benedictevans Anecdotally, satisfaction does not seem nearly as high as for other Apple products.
+dcurtis	695346077398990850	2016-02-04T20:39:58	ptraughber SFPD is usually really good at crowd/event control. (One of the only things this city is good at.)
+dcurtis	695000229280526336	2016-02-03T21:45:41	ilieciorba Get better fingers.
+dcurtis	694749391735771137	2016-02-03T05:08:57	yosefitche Because I have hope!
+dcurtis	694745117849092096	2016-02-03T04:51:58	yosefitche I use Google Maps 100% of the time. Still don’t trust Apple Maps.
+dcurtis	694684238004682752	2016-02-03T00:50:03	sdw 
+dcurtis	694661226412965888	2016-02-02T23:18:37	New toy. 
+dcurtis	694607605436588032	2016-02-02T19:45:32	My sources at Uber tell me the logo is meant to look like a plug, connecting the digital and physical worlds. Good concept, iffy execution.
+dcurtis	694606990887092225	2016-02-02T19:43:06	semil It is meant look like a plug, connecting the digital world to the physical world.
+dcurtis	694605853400240128	2016-02-02T19:38:35	kevingibbon shl The problem is that eBay takes work. You have to write a listing, etc. Please solve that problem!
+dcurtis	694603021733330944	2016-02-02T19:27:20	Wow, Uber's new logo is... very interesting. Pretty sure its awful, but I'm going to reserve judgement for a while. 
+dcurtis	694586815932567552	2016-02-02T18:22:56	The truly remarkable thing about the statistics I tweeted today and yesterday is that Apple’s number includes their 30,000 retail employees.
+dcurtis	694586397588467712	2016-02-02T18:21:16	Profit per employee, 2015:  Twitter: -$129,334  Yahoo: $54,182  MSFT: $102,822  Google: $250,367  Facebook: $290,600  Apple: $464,296
+dcurtis	694393079126601728	2016-02-02T05:33:05	rabois I’m sure there’s a historical reason for that, and that it’s not a conspiracy.
+dcurtis	694378488099270656	2016-02-02T04:35:07	rabois Do you own Twitter stock?
+dcurtis	694362055436926976	2016-02-02T03:29:49	Extremist candidate wins inconsequential election in insignificant state.
+dcurtis	694278966924877825	2016-02-01T21:59:39	philperspective steveklabnik cato_of_utica It’s actually significantly deflated comparatively because it includes all retail employees.
+dcurtis	694266299317243904	2016-02-01T21:09:19	Revenue per employee, 2015:  Yahoo: $419,830  Twitter: $462,009  MSFT: $789,145  Google: $1,160,648  Facebook: $1,412,655  Apple: $2,032,304
+dcurtis	693915108796289024	2016-01-31T21:53:48	sean_a_rose Get a good editor.
+dcurtis	693199757183856640	2016-01-29T22:31:15	pm stammy The low-end ones or the high-end ones? The high-end ones are pretty hardy.
+dcurtis	693198800345665537	2016-01-29T22:27:27	stammy Why don’t you just get actually good in-ear monitors, like Shure SE535?
+dcurtis	692918038023249926	2016-01-29T03:51:48	putorti Not even close. Carson can speak in complete sentences.
+dcurtis	692916884879085569	2016-01-29T03:47:13	putorti So does Twitter!
+dcurtis	692916158819864576	2016-01-29T03:44:20	Why is Google co-hosting this debate instead of Twitter? Twitter would be so much better for these real-time events. Very frustrating.
+dcurtis	692912833101721606	2016-01-29T03:31:07	hendler onemedical One Medical is absolutely crap. They have “naturalistic” doctors, which is really dumb.
+dcurtis	692912493639921664	2016-01-29T03:29:46	Can anyone recommend a truly amazing primary care doctor in SF? Choosing doctors online feels so random.   hi@dustincurtis.com or 4159713229
+dcurtis	692527368494276609	2016-01-28T01:59:25	rsg 0%, because it resets?
+dcurtis	692482602255671304	2016-01-27T23:01:32	fmanjoo In 2007, I used to overhear people talking about building yet another social network in South Park. Turned out to be Twitter.
+dcurtis	692143505502814211	2016-01-27T00:34:05	dustin Life is a background image on your phone.
+dcurtis	691823450931986433	2016-01-26T03:22:18	rsg semil lol, VA and WYNN? Really?
+dcurtis	691187227645247488	2016-01-24T09:14:11	hemanth_soni What email address did you sign up with? You can email it to hi@dustincurtis.com
+dcurtis	688977917049610240	2016-01-18T06:55:10	brian_armstrong Professional critics provide consistency. Lots of value for rating things like movies, restaurants, etc.
+dcurtis	688919548519563264	2016-01-18T03:03:14	Bernie Sanders is very good at yelling.
+dcurtis	688507920074412032	2016-01-16T23:47:34	cetsell captain_reg Maybe Checkout doesn’t work in in-app browsers?
+dcurtis	688383636475920384	2016-01-16T15:33:43	dcurtis the payment UI for  is the best I have ever seen. Simple and easy to use.
+dcurtis	688248105892839424	2016-01-16T06:35:10	jason That is one of your most insightful tweets…
+dcurtis	688110237497176068	2016-01-15T21:27:19	golda Time to buy?
+dcurtis	687834064041029633	2016-01-15T03:09:54	What channel is this again? I don’t think there are enough Fox Business logos. 
+dcurtis	687526454263857152	2016-01-14T06:47:34	patrickc collision Seriously, though, that is the best kettle.
+dcurtis	687524970193276928	2016-01-14T06:41:41	joshuatopolsky For Thomas Keller, it truly is a nightmare.
+dcurtis	687509592641646592	2016-01-14T05:40:34	Interestingly, many of the best uses of money for the benefit of humanity look selfish—like building rocket ships or an electric sports car.
+dcurtis	687508240431579136	2016-01-14T05:35:12	I hope the Powerball winner is a highly educated person in the upper-middle-class who will put the money to good use for humanity.
+dcurtis	687490706756128768	2016-01-14T04:25:32	dustin Instinct. Much cheaper, plus analysis is instant.
+dcurtis	687135854528049153	2016-01-13T04:55:28	ashleyfeinberg Why do you think he despises her? That’s a bit strong.
+dcurtis	687126242026364928	2016-01-13T04:17:16	codybrown Lol, no. Look at him. There is no life force left.
+dcurtis	687110003421872128	2016-01-13T03:12:45	brianstelter Think it was intentionally left out of the transcript?
+dcurtis	687109606439436288	2016-01-13T03:11:10	Lapel flag alignment:  Obama: aligned with the floor.   Paul Ryan: aligned with the edge of his lapel.  Joe Biden: aligned with nothing.
+dcurtis	687100888956026880	2016-01-13T02:36:32	Joe Biden has one year to cure cancer.
+dcurtis	687092304499220480	2016-01-13T02:02:25	Look at all the MacBooks: 
+dcurtis	687090005953495040	2016-01-13T01:53:17	tomdale Tastes much better when you do it yourself, too.
+dcurtis	687056275591434240	2016-01-12T23:39:15	harryh It was mostly for business—bringing rich people there to convince them to give him money. (It was often for lunch.)
+dcurtis	687055463842594816	2016-01-12T23:36:02	harryh What else was he doing? He certainly didn’t have to do any real finance work.
+dcurtis	687055041987911680	2016-01-12T23:34:21	I am reminded of the time I read Bernie Madoff’s Amex statement when it was released during his trial. He ate at Per Se nearly every day.
+dcurtis	687052115462590464	2016-01-12T23:22:43	Brutal.  
+dcurtis	686884479290363904	2016-01-12T12:16:36	dcurtis done: 
+dcurtis	687047437970624512	2016-01-12T23:04:08	jonah !!!!
+dcurtis	686799557938696192	2016-01-12T06:39:09	yosefitche Yes, so I can say things like that with some amount of authority.
+dcurtis	686796594046304256	2016-01-12T06:27:22	This is was not written by Sean Penn.    It’s worth reading, I mean.
+dcurtis	190592082409299969	2012-04-13T00:07:48	A good founder plays where the Zuck is. A great founder plays where the Zuck is going to be.

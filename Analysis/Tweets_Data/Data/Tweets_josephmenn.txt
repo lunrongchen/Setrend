@@ -1,0 +1,330 @@
+josephmenn	726240592624123904	2016-04-30T02:43:44	.stuartpstevens pmarca If Trump thinks the pope is a jerk, imagine what he'll say about Microsoft.
+josephmenn	726222084851023872	2016-04-30T01:30:12	U.S. spy court rejected zero surveillance orders in 2015: memo 
+josephmenn	726041490921656323	2016-04-29T13:32:35	Bloomberg unmasks Zero Hedge: 
+josephmenn	725926715692703745	2016-04-29T05:56:30	SCOTUS approves rule letting judges issue search warrants for computers in any jurisdiction  
+josephmenn	725784571522875392	2016-04-28T20:31:40	"Twitter is just a series of missed opportunities," says sacca at CollisionConf. Compares it to finding drugs in room of a gifted kid.
+josephmenn	725757798680825865	2016-04-28T18:45:17	Coming up at 2:00pm: The Future of Work with mchui, rogerdickey, BrynneSpeak &amp; josephmenn 
+josephmenn	725383079825526784	2016-04-27T17:56:17	"Governments aren't handing over vulnerabilities to vendors. They've industrialized vulnerabilities." WeldPond of Veracode CollisionConf
+josephmenn	725331526863323136	2016-04-27T14:31:26	I'm excited to be interviewed by josephmenn on Center Stage at CollisionConf today on "Geo-politics, business decisions and your security"
+josephmenn	725325080427819008	2016-04-27T14:05:49	Traffic to Wikipedia terrorism entries plunged after Snowden revelations  Study here: 
+josephmenn	725323493152182272	2016-04-27T13:59:31	UPDATE 1-Apple says FBI gave it first vulnerability tip on April 14  josephmenn VulnerabilityEquitiesProcess Cyber
+josephmenn	725145191317917696	2016-04-27T02:11:00	Apple says FBI gave it first vulnerability tip on April 14  
+josephmenn	725132939659366400	2016-04-27T01:22:19	FBI just disclosed its first vulnerability ever to Apple. No, not that one. Or that one either. 
+josephmenn	725019730315104256	2016-04-26T17:52:28	Youngest ever MacArthur recipient repeatedly trying and failing to connect live demo to conference wifi. CollisionConf
+josephmenn	724669348531544064	2016-04-25T18:40:11	Facial recognition software used to de-anonymize women who appeared in porn, then target their social networks.  
+josephmenn	724629731686137856	2016-04-25T16:02:45	Of all the things I've been accused of, this is the one of which I am most proud.  
+josephmenn	724610266625880066	2016-04-25T14:45:24	Clapper: Snowden disclosures sped up adoption of strong encryption by about 7 years, according to NSA analysis
+josephmenn	724508270400966657	2016-04-25T08:00:07	Exclusive: Bangladesh Bank hackers compromised SWIFT client software. Swift to release security update.  
+josephmenn	724538452608430080	2016-04-25T10:00:03	For years the Obama adm. has not talked about offensive cyber, or where they are using it. ISIS is the exception. 
+josephmenn	724436858554429440	2016-04-25T03:16:21	I'll be on center stage with josephmenn on Wed. What should we talk about? 
+josephmenn	723910121861079041	2016-04-23T16:23:17	Seriously good nitashatiku: HBO's Silicon Valley Can't Keep Up With Reality - BuzzFeed 
+josephmenn	723893970443456512	2016-04-23T15:19:06	Justice Dept. produces second rabbit from hat, walks away from another public fight over iPhone access. 
+josephmenn	723891388773859329	2016-04-23T15:08:50	gaberivera eastdakota I think you guys just tweet-violated DMCA.
+josephmenn	723266000737554432	2016-04-21T21:43:46	We honor Prince, the inspiration behind YesWeCode. Thank you for your support and commitment to tech inclusion 
+josephmenn	723724527532830720	2016-04-23T04:05:48	U.S. drops New York fight with Apple after gaining access to iPhone 
+josephmenn	723299764519899136	2016-04-21T23:57:56	Dunno about the Judaism interpretation, but it's a great anecdote. PrinceRIP 
+josephmenn	723220378433114112	2016-04-21T18:42:29	FBI paid more than the record $1 million to hack the San Bernardino iPhone with nothing on it + other iPhones 5c. 
+josephmenn	722804896542691328	2016-04-20T15:11:31	Public advocate: FBI’s use of PRISM surveillance data is unconstitutional 
+josephmenn	722470428401213440	2016-04-19T17:02:27	The winnerless trench warfare of starving media vs. user safety is the fruit of the ad industry Do Not Track farce. 
+josephmenn	722441572952981504	2016-04-19T15:07:47	There it is: gov't witness pushes for app store-level censorship (somehow!) of apps ID'd (somehow!) as too secure. 
+josephmenn	722189361140338688	2016-04-18T22:25:35	Here's a BBC radio documentary on the recorded music industry, part 1 of 2, I'm in it somewhere, may be good anyway. 
+josephmenn	722125657958924288	2016-04-18T18:12:27	In advance of tomorrow's encryption hearing y'all should read this piece on how NYPD solved known cases w/o iPhone. 
+josephmenn	721795592603766790	2016-04-17T20:20:54	In Aug 2014, the FCC said they had a task force studying the threat posed by SS7 hacks.  
+josephmenn	722086049271390208	2016-04-18T15:35:04	BlackBerry responded to investigation showing Canadian cops had access to encryption key  
+josephmenn	721198400150966274	2016-04-16T04:47:52	After many years of self-tracking everything (activity, work, sleep) I've decided it's ~pointless. No non-obvious lessons or incentives :(
+josephmenn	721139540610539520	2016-04-16T00:53:59	A walkthrough of how Hacking Team was taken down by the hacker, or a modern guide to penetrating hardened networks 
+josephmenn	721149039593590787	2016-04-16T01:31:43	I uninstalled Quicktime from my Windows machine. You do it too, then pass this along.
+josephmenn	721099991171751936	2016-04-15T22:16:49	PDFs of the new Apple filing in the EDNY case, bless you meganmcgraham 
+josephmenn	721067989617872897	2016-04-15T20:09:40	The CBS news demo tricked victim into installing a configuration profile to capture SSL traffic, affecting apps that don't do cert pinning.
+josephmenn	721079715033980929	2016-04-15T20:56:15	NEW: Apple files response in New York iPhone case, says government has not shown it has exhausted means to extract data
+josephmenn	720797572902727680	2016-04-15T02:15:07	Software recall! 
+josephmenn	720659224489889792	2016-04-14T17:05:22	Forever is a long time not to tell someone their email has been searched. 
+josephmenn	720623690606632960	2016-04-14T14:44:11	Blackhole Exploit Kit author Dmitry "Paunch" Fedotov gets 8 years in a Russian penal colony 
+josephmenn	720624283316150273	2016-04-14T14:46:32	Proprietary iPhone hack suggests loopwhole in White House process for disclosing vulnerabilities.  
+josephmenn	720472945357889536	2016-04-14T04:45:10	How can you break a record for something obvious like most 3s in a season by like 30 freaking %
+josephmenn	720453949426442246	2016-04-14T03:29:41	Apple iPhone unlocking maneuver likely to remain secret even from White House 
+josephmenn	720409844151287809	2016-04-14T00:34:26	Journalist Matthew Keys gets 2 years in prison for L.A. Times website breach 
+josephmenn	720252943123947520	2016-04-13T14:10:57	Remember, if you must use Flash, always update immediately, except when it's a trick. Then don't. 
+josephmenn	720089713470623744	2016-04-13T03:22:20	Will anxiously await your corrections Jose_Pagliery CNN CNBC business chenout cc: bxchen nickbilton 
+josephmenn	720032061734694912	2016-04-12T23:33:15	AnjanaBerlin Hello.
+josephmenn	719958510977552384	2016-04-12T18:40:59	Hey, look. Uber has a warrant canary. 
+josephmenn	719942733977284608	2016-04-12T17:38:18	I apologize to any followers I may have mislead by implying badlock was a dangerous bug. I am also shocked by this development.
+josephmenn	719936210316181508	2016-04-12T17:12:22	May I be the first to suggest nominating badlock for a pwnie for most overhyped bug?
+josephmenn	719898690849259520	2016-04-12T14:43:17	Please hold, a hacker will be with you shortly:  
+josephmenn	719763799260041218	2016-04-12T05:47:16	Zero-day vulnerabilities used for hacking double in 2015, per Symantec's annual threat report. 
+josephmenn	719636196314382336	2016-04-11T21:20:14	The Burr-Feinstein briefing includes no one who knows a single damn thing about encryption. 
+josephmenn	719591233723609088	2016-04-11T18:21:34	The future combines traditions like bribery with cutting-edge social engineering and sweet algorithm jiggery pokery. 
+josephmenn	719346891381547008	2016-04-11T02:10:38	PanamaPapers Leak Signals a Shift in Mainstream Journalism 
+josephmenn	719347789784715264	2016-04-11T02:14:12	seansposito Just wondering if it would make sense.
+josephmenn	719326293297221632	2016-04-11T00:48:47	Would a big Bitcoin holder and hacker steal + leak the panamapapers to show the risks of old-school offshores and drive up Bitcoin demand?
+josephmenn	718412046585458688	2016-04-08T12:15:54	Freedom fearing MPs in Egypt threaten to block sites that don't spy for them  In other news- 
+josephmenn	718306232025681920	2016-04-08T05:15:25	Ugh, what does Feinstein-Burr mean for PCI? Any court can ask a financial institution to decrypt encrypted transaction data?
+josephmenn	718303990082113538	2016-04-08T05:06:31	They've actually come up with something worse than Clipper.
+josephmenn	717502119130099712	2016-04-06T00:00:10	Nine year-old JBoss vulnerability left hospital vulnerable to compromise -  infosec
+josephmenn	718169385379037186	2016-04-07T20:11:39	Turns out I helped the PanamaPapers reporting effort without knowing it, via my book Fatal System Error. 
+josephmenn	718164467754749952	2016-04-07T19:52:06	FBI's iPhone hacking won't work on iPhone 5s, iPhone 6. So much for forward compatability.  AppleVsFBI
+josephmenn	718051051136544769	2016-04-07T12:21:25	A startup accelerator is where you smash startups into each other at high speed, in the hopes of capturing the emitted business model.
+josephmenn	717846673758683136	2016-04-06T22:49:18	Translation: The FBI vs NSA's IAD internal battle is a draw. 
+josephmenn	717770988625068032	2016-04-06T17:48:33	In SF. Took three blocks to decide if muttering bearded guy behind me was homeless or a tech startup on a handsfree VC call
+josephmenn	717761185836371968	2016-04-06T17:09:36	I admit to a bias, but I think the world is better when journalists can keep secrets better than lawyers can. PanamaPapers
+josephmenn	717373741945106433	2016-04-05T15:30:02	Wow. All of WhatsApp goes end to end encrypted. 
+josephmenn	716913400987693056	2016-04-04T09:00:49	Remember to protect your documents, too. 
+josephmenn	716660440026128384	2016-04-03T16:15:38	Belated posting of an excellent piece by jordanr1000 on election hacking.  
+josephmenn	716715038577262592	2016-04-03T19:52:35	Journalism is good. 
+josephmenn	716657272164777985	2016-04-03T16:03:03	.msuiche JZdziarski Ugh. Well it's clearly a HuffPo screw up, since the photo is from Bloomberg.
+josephmenn	716493063443484673	2016-04-03T05:10:32	FBI trick for breaking into iPhone likely to leak, limiting its use 
+josephmenn	715950917057642496	2016-04-01T17:16:15	matthew_d_green Maybe we need more canaries. Like "no NSL for any user with handle starting with A ever received" "none for B",...
+josephmenn	715948382921986049	2016-04-01T17:06:10	That surprising moment when your full name is mentioned onstage in a public conversation with Snowden. RightsCon
+josephmenn	715933909960163328	2016-04-01T16:08:40	Ed Snowden joins RightsCon panel in San Francisco. 
+josephmenn	715891457857421312	2016-04-01T13:19:58	Exclusive: Egypt blocked Facebook's Free Internet service after FB wouldn't allow gov to spy on users  w/ josephmenn
+josephmenn	715775267327881216	2016-04-01T05:38:16	Exclusive: Egypt blocked Facebook Internet service over surveillance - sources 
+josephmenn	715698247516303361	2016-04-01T00:32:13	I know it's an old figure but am stunned when I see 50,000 national security letters/year. That's a lot of security. 
+josephmenn	715601862569799680	2016-03-31T18:09:13	From last night, because sometimes my stories move when you are doing things other than reading the news. 
+josephmenn	715368076297035776	2016-03-31T02:40:14	Asked if he would put a hold on expected Burr-DiFi encryption bill, RonWyden said "anything within my power"  
+josephmenn	715345634035834882	2016-03-31T01:11:04	Sen. Wyden pledges to use all powers to stop encryption limits. RightsCon 
+josephmenn	715274406264750081	2016-03-30T20:28:02	Writing about national security cyber policy gets weird. Asked what "CIO" stands for but "Clauswitzian" makes it through, no problems
+josephmenn	714871242671714304	2016-03-29T17:46:00	UK Gov: Not lawful to intercept global internet traffic. Silent on if lawful to intercept all UK internet traffic. 
+josephmenn	715155969181933568	2016-03-30T12:37:24	Related, here is the DoJ's argument for keeping their Tor Browser exploit under wraps. Compelling. 
+josephmenn	715043040247869440	2016-03-30T05:08:40	Both top ACM awards honor cybersecurity whizzes; latest is Stefan Savage of UCSD. 
+josephmenn	714818727800401920	2016-03-29T14:17:20	The FBI was ordered to reveal its Tor Browser exploit. DOJ is now asking judge to reconsider 
+josephmenn	714644983765082113	2016-03-29T02:46:56	Justice Dept. restarts controversial program that lets cops take cash, property and keep it 
+josephmenn	714636565994024960	2016-03-29T02:13:29	Latest has Apple saying it will keep helping cops and keep shoring up defenses. AppleVsFBI 
+josephmenn	714621549555412992	2016-03-29T01:13:49	U.S. says it can hack into the San Bernardino shooter's locked iPhone and won't need Apple. Who else will it tell? 
+josephmenn	714569184592703489	2016-03-28T21:45:44	US TO APPLE: NVRMIND 
+josephmenn	713881821948174337	2016-03-27T00:14:24	Caution, worthwhile profanity. 
+josephmenn	713792487307907072	2016-03-26T18:19:25	Hail the cyber-Philosopher King. 
+josephmenn	713689856896024576	2016-03-26T11:31:36	The Independent goes out fighting. 
+josephmenn	713739786993930240	2016-03-26T14:50:00	Heroes 
+josephmenn	713089202276007936	2016-03-24T19:44:49	Ouch. 
+josephmenn	713019369161273344	2016-03-24T15:07:19	When will China/etc start indicting US computer scientists for various hacking related things, in retaliation?
+josephmenn	712775710964711424	2016-03-23T22:59:06	So far, 2016 is a step change — a practically instantaneous shift in our planet’s climate.  
+josephmenn	713035537968287745	2016-03-24T16:11:34	Google's updated government-backed attack warnings with JigsawTeam 
+josephmenn	713043459939164160	2016-03-24T16:43:03	Once again, now would be a good time for you engineers to stop teaching robots how to chase humans  
+josephmenn	713006869044826114	2016-03-24T14:17:39	HappeningNow: Director Comey  joins AG Lynch in announcing charges against 7 Iranians for cyber attacks against U.S financial sector
+josephmenn	712761536499097601	2016-03-23T22:02:47	xeni latimes bow-chicka-bow-whoops
+josephmenn	712754064564445184	2016-03-23T21:33:05	thickest plot ever  
+josephmenn	712728745367437312	2016-03-23T19:52:29	There is always a market for bugs. If your security is really good, the price goes way up. Hard to see how that is the company's fault.
+josephmenn	712712189098852352	2016-03-23T18:46:42	Lawmakers say NSA plan to expand sharing data ‘unconstitutional’ 
+josephmenn	712678634171990016	2016-03-23T16:33:21	Excellent example of the fragility of the dependent model for code. H/t RSnake 
+josephmenn	712671352570847233	2016-03-23T16:04:25	From yesterday, Uber's innovation shows continued maturation of bug bounty programs for hackers they go mainstream. 
+josephmenn	712651993366462464	2016-03-23T14:47:30	PSA: Wrong day to open an unexpected PDF on your iPhone, unless you installed the new iOS. Unless you're a terrorist, in which case go'head.
+josephmenn	712337103107915778	2016-03-22T17:56:14	Good write-up of the most detailed Ukraine blackout work yet 
+josephmenn	712105517385195520	2016-03-22T02:36:00	Senate proposal on encryption gives judges broad powers  
+josephmenn	712101536835485697	2016-03-22T02:20:11	Updated again, now starring OrinKerr, mattblaze and an unnamed Apple executive... AppleVsFBI
+josephmenn	712085465642307585	2016-03-22T01:16:19	Latest on Justice canceling iPhone hearing 
+josephmenn	712055136399417344	2016-03-21T23:15:48	DoJ asks court to cancel Tuesday iPhone encryption hearing, citing possible new method to break into phone.
+josephmenn	712030538727624705	2016-03-21T21:38:03	Why yes, I do have time on my schedule to update my phone OS today.
+josephmenn	712002970993430528	2016-03-21T19:48:31	Looks like iMessage isn't an impenetrable fortress as we previously believed (and Apple told us.) 
+josephmenn	711864141707812864	2016-03-21T10:36:51	Apple &amp; White House worked together to prevent China requiring encryption keys to iOS   
+josephmenn	711877315194712065	2016-03-21T11:29:12	One of the more gobsmacking quotes I've read in a while:   
+josephmenn	711795292446838784	2016-03-21T06:03:16	Apple 'privacy czars' grapple with internal conflicts over user data 
+josephmenn	711765539933134848	2016-03-21T04:05:03	Christina Garman,matthew_d_green, Gabriel Kaptchuk,  Michael Rushanan, and I found some crypto exploits in iMessage:
+josephmenn	711034242596114432	2016-03-19T03:39:08	Apple hires away Amazon security chief amid iPhone encryption row, report says  
+josephmenn	711193720096485376	2016-03-19T14:12:50	Belkaid, Paris attack coordinator holed up w Abdelslam, in the Isis fighters cache:  via @mike_giglio buzzfeednews
+josephmenn	710993408660103168	2016-03-19T00:56:52	George is one of my favorite CISOs, a very strong hire by Apple. Συγχαρητήρια! 
+josephmenn	710991826329600000	2016-03-19T00:50:35	Apple hires corporate info sec chief amid battle with US: 
+josephmenn	710989052137357312	2016-03-19T00:39:34	How did CFIUS let this one through? 
+josephmenn	710964190140309504	2016-03-18T23:00:46	What if Gawker was paid to take a dive?
+josephmenn	710904203821064193	2016-03-18T19:02:24	Google dumping Boston Dynamics  
+josephmenn	710882326377529347	2016-03-18T17:35:28	I'm pretty much guessing 0xcharlie wouldn't do it. comex i0n1c officialmcafee
+josephmenn	710880586211135488	2016-03-18T17:28:33	So if Apple engineers quit rather than hack an iPhone, do the feds hire comex or i0n1c or who? Don't say officialmcafee.
+josephmenn	710831009617596417	2016-03-18T14:11:33	Web ads have become a system where when you walk into a store, an army of salespeople secretly follow you home. Occasionally they rob you..
+josephmenn	710843027410067457	2016-03-18T14:59:19	FBI raids cybersec firm  &lt; Tiversa CEO when a prospect said no: “‘f__ him, make sure he’s at the top of the list”
+josephmenn	710855533545140224	2016-03-18T15:49:00	ProfWoodward thegrugq Flame truthers!
+josephmenn	710571380853612546	2016-03-17T20:59:53	Congrats to EricMarkowitz &amp; josephmenn for being named SABEW tech reporting finalists. I've admired their work 
+josephmenn	710529589336875008	2016-03-17T18:13:49	ZDNet has a person saying the U.S. has used the FISA court to get source code. 
+josephmenn	710527117889417216	2016-03-17T18:04:00	Great roundup of 2015 business journalism by SABEW. If you are my mom, scroll to the end, I'm above the students. 
+josephmenn	710525323775901696	2016-03-17T17:56:52	Thank you, um, person I work with. 
+josephmenn	710518649530888192	2016-03-17T17:30:21	Maybe if you ask that your stuff not be sent to MSFT and OEMs they shouldn't change your mind when they patch? 
+josephmenn	710467506989883393	2016-03-17T14:07:08	Dear Advertisers: Could you please track me around the web w/ retargeting ads? Having bought 1 mattress, I'm now interested in like 5 more.
+josephmenn	710464913630580742	2016-03-17T13:56:49	Agree that more false flags are waving.  
+josephmenn	709976290326155268	2016-03-16T05:35:12	Reuters josephmenn Interesting to correlate economic decline to ransomware. My bet is 9-5, civil servant. After 5, making a buck on side.
+josephmenn	709955162987745281	2016-03-16T04:11:15	. mat Ugh I hope so.
+josephmenn	709883367299256320	2016-03-15T23:25:58	I haven't heard a better explanation. There is overlap in what they are describing and what my sources were saying. 
+josephmenn	709878012603281408	2016-03-15T23:04:41	Apple fires back, says has never given proprietary iOS code to any government or treated China differently than US. 
+josephmenn	709809659880714240	2016-03-15T18:33:05	FBI warns about ransomware attacks infecting whole networks  
+josephmenn	709782216105201664	2016-03-15T16:44:02	Big-name sites hit by rash of malicious ads spreading crypto ransomware  by dangoodin001
+josephmenn	709555188349022208	2016-03-15T01:41:54	Apple fight could escalate with demand for source code  AppleVsFBI
+josephmenn	709529557863301121	2016-03-15T00:00:03	Exclusive: Chinese hackers behind U.S. ransomware attacks - security firms 
+josephmenn	708791493629181952	2016-03-12T23:07:15	Just as a general rule, no matter your intention, it's not a good idea to be doing a Nazi salute in public. Let me just put that out there.
+josephmenn	708777829769551872	2016-03-12T22:12:57	Trump supporter explains to emrosenberg why she did Nazi salute in widely circulated photo from last night 
+josephmenn	708712593788170241	2016-03-12T17:53:44	Dead author wants her book prices to be higher. Uh huh. 
+josephmenn	708690781532348416	2016-03-12T16:27:03	aoscott ON IT.
+josephmenn	708435820508614657	2016-03-11T23:33:56	Hoover got a great national conversation going about the Great Depression.
+josephmenn	708330345020567552	2016-03-11T16:34:49	I think you mean the anti-anti-DDoS model, but point taken _odisseus BarrettLyon 
+josephmenn	708328451208388609	2016-03-11T16:27:17	doctorow me too
+josephmenn	707955202687688704	2016-03-10T15:44:08	This HN comment on AlphaGo is both exciting and scary. 
+josephmenn	707991142126784512	2016-03-10T18:06:56	Dear Jihadist,  Here at ISIS, we take your privacy and security very seriously. On or about March 9, 2016, ISIS was the target of a maliciou
+josephmenn	707745166090604545	2016-03-10T01:49:31	spinzo machine-beaten steel-driving
+josephmenn	707743229555318784	2016-03-10T01:41:49	I wonder how it feels to be the John Henry of Go.
+josephmenn	707636802656575488	2016-03-09T18:38:55	According to peterswire, amount of encrypted Internet traffic went from 13% to 49% in past two years. cryptoFTW NewAmCyber
+josephmenn	707683926739910657	2016-03-09T21:46:10	Draft plain-text-or-else crypto bill nears Senate introduction by Burr and Feinstein, will face tough climb. 
+josephmenn	706920544831197188	2016-03-07T19:12:46	My next chapter - Today I’m excited to announce that I’ve joined Google: 
+josephmenn	706504189048954880	2016-03-06T15:38:19	Man is born free, but everywhere he is checking work-related email.
+josephmenn	706229787665244160	2016-03-05T21:27:57	Apple case exposes ongoing government rift over encryption policy 
+josephmenn	706246704601796609	2016-03-05T22:35:10	Just one of the things I hate about the decline of newsgathering: there's no way to know what stories we're missing. 
+josephmenn	706223534075469824	2016-03-05T21:03:06	Apple case exposes ongoing government rift over encryption  w/ josephmenn
+josephmenn	706216653562904576	2016-03-05T20:35:45	REFILE-INSIGHT-Apple case exposes ongoing government rift over encryption policy  via Reuters
+josephmenn	706206548008153090	2016-03-05T19:55:36	Beaker josephmenn Just parsed that as "Encryption-on-Fire Devices," which sounded like something useful.
+josephmenn	706196563484413953	2016-03-05T19:15:55	SURPRISE!  
+josephmenn	705801678839087104	2016-03-04T17:06:48	I no longer recall who started the computer security analogy to medical biology. But perhaps it's time to move on.
+josephmenn	705634244937166849	2016-03-04T06:01:28	[rss] Real pirates hack shipping company in targeted cargo raids 
+josephmenn	705640325545525248	2016-03-04T06:25:38	I am so happy that I am far away from the USA where a dangerous cyberpathogen is on the lose.
+josephmenn	705555861414936576	2016-03-04T00:50:00	This product as corporate indentity bit is an elegant smackdown of one facet of the gov's argument in AppleVsFBI 
+josephmenn	705555953140285441	2016-03-04T00:50:22	Why we're supporting Apple: At stake are fundamental questions about privacy, safety, and the rule of law. 
+josephmenn	705553683229106176	2016-03-04T00:41:21	wowza. monster brief. we need sportscenter for cyberlaw... 
+josephmenn	705470498772111360	2016-03-03T19:10:48	Wat. 
+josephmenn	705383476384509952	2016-03-03T13:25:00	Stanford CIS amicus brief in ApplevFBI on behalf of Internet security experts rejects forced code signing.  
+josephmenn	705101142934446080	2016-03-02T18:43:07	This is one of the best breakdowns of the FBI/Apple situation I have read by dakami h/t mikko 
+josephmenn	705049604467908612	2016-03-02T15:18:19	Facebook executive jailed in Brazil set to be released:  
+josephmenn	705050737781280768	2016-03-02T15:22:49	Pentagon launching a bug bounty program is a great idea. 
+josephmenn	704832500212731904	2016-03-02T00:55:37	There's great security reporting now amid the noise. Thanks OpenDNSLabs briankrebs kpoulsen nicoleperlroth 
+josephmenn	704821276754337792	2016-03-02T00:11:01	Security is finally the top priority that it should've been 5-6 years ago. - josephmenn RSAC 
+josephmenn	704755653152145408	2016-03-01T19:50:16	NSADIR Rogers would like dialogue and partnerships. Not mentioned: FBI, Apple, encryption. RSAC
+josephmenn	704745446904766465	2016-03-01T19:09:42	RSAC panel of five top cryptographers just finished: Four backed Apple vs. FBI. Now up: NSADIR Rogers.
+josephmenn	704734667472154624	2016-03-01T18:26:52	Messrs. Diffie and Hellman win Turing award, first for cryptography in many years. RSAC
+josephmenn	704733063201292288	2016-03-01T18:20:30	Conyers: DOJ’s read of the All-Writs act lacks any “principled limit” on power to conscript tech companies to break security.
+josephmenn	704684089182449664	2016-03-01T15:05:53	Chertoff Group makes same metadata arbitrage point ncweaver and I keep making.  
+josephmenn	704727320670568448	2016-03-01T17:57:41	Keynote by youngdchris McAfee_Labs RSAC TL;DR threat intelligence sharing sucks today. need to improve both biz model and science
+josephmenn	704712848182611968	2016-03-01T17:00:10	.kpoulsen, josephmenn, nicoleperlroth, &amp; briankrebs — best panel ever? Find out today at RSAC! Join us at 3:30: 
+josephmenn	704710801802702849	2016-03-01T16:52:02	If we weaken our encryption, you can bet that the bad guys will exploit it - ayoran at RSAC 
+josephmenn	704698577151340545	2016-03-01T16:03:28	RCISCwendy I belatedly realized that might be sexist, sorry. Can female gorillas be silverbacks? Or is the term just less human-normative?
+josephmenn	704689180811497472	2016-03-01T15:26:07	Another massive SSL flaw from beyond the grave: graybeards blame export controls. 
+josephmenn	704549639358271488	2016-03-01T06:11:38	If only we could drive a wooden stake through the heart of these silver bullets so they couldn't stop our golden keys.
+josephmenn	704427585489342464	2016-02-29T22:06:38	Panelizing RSAConference tomorrow with the best security journalists in the business briankrebs kpoulsen josephmenn at 3:30 pm. Stop by!
+josephmenn	704387295407796224	2016-02-29T19:26:32	josephmenn runasand dhubbard858 kpoulsen rsac briankrebs nicoleperlroth 330 Tuesday
+josephmenn	704371444482859008	2016-02-29T18:23:33	Can't make our Investigative Journalists Panel rsac tomorrow ? Send me your questions for kpoulsen briankrebs josephmenn nicoleperlroth
+josephmenn	704330992782176256	2016-02-29T15:42:49	Borked ESET antivirus update says entire web is too risky to browse  infosec
+josephmenn	703662401363652608	2016-02-27T19:26:04	.helvetica mathewi I hope their software engineers are better.
+josephmenn	703574648135540737	2016-02-27T13:37:22	The difference between software update and backdoor is that the user authenticates one of those  
+josephmenn	700752965330538496	2016-02-19T18:45:00	In 2015, Google Project Zero reported 17% of all MS security bugs, and 37% of Adobe Flash bugs. Ian Beer alone was 8% of iOS/OSX CVEs.
+josephmenn	703238009542410241	2016-02-26T15:19:41	security engineering is political, &amp; not just obvious cases like apple v FBI. do we build X? what's our threat model? which bugs do we fix?
+josephmenn	702868607261343744	2016-02-25T14:51:49	Main developer of Signal for iOS going to work for Apple. Tough not to read between the lines here. 
+josephmenn	702925231170584576	2016-02-25T18:36:49	Not to rage too much but honestly how is "use trusted software and patch it" an honest recommendation to counter a focused human threat
+josephmenn	702978998179987456	2016-02-25T22:10:28	Apple motion to vacate iPhone order says it would be compelled to "speak" code in violation of 1st amendment. 
+josephmenn	702969765032099841	2016-02-25T21:33:47	dnvolz Says the guy who capitalizes "going dark."
+josephmenn	702964292253921280	2016-02-25T21:12:02	Truly gratified that Apple has adopted my argument that "back door" is two words. Still fighting the copy desk on that though. gratified
+josephmenn	702948848772091904	2016-02-25T20:10:40	Apple asks court to vacate order to help compromise suspect's iPhone 5c on grounds including the 1st and 5th amendments. AppleVsFBI
+josephmenn	702881676469235712	2016-02-25T15:43:45	If you have the free Reuters..tv app, here's a short clip. 
+josephmenn	702598278630670337	2016-02-24T20:57:37	If you don't want to go full Hollywood OR full geek at RSAC, come hear journos me, briankrebs, kpoulsen &amp; nicoleperlroth Tues. at 3:30.
+josephmenn	702547523555078144	2016-02-24T17:35:56	The Reuters poll had better questions than Pew's and showed stronger support for Apple.  AppleVsFBI
+josephmenn	702541645091180544	2016-02-24T17:12:35	So yes, as suspected, DoD paid CMU unit for Tor hacking, then FBI got suspects' data via subpoena. 
+josephmenn	702524417524559872	2016-02-24T16:04:08	iPhone Forensics - A Technical Autopsy of the Apple-FBI Debate:  by HeatherMahalik, CindyMurph, iamevltwin
+josephmenn	702509486859112449	2016-02-24T15:04:48	If FBI beats Apple, consumers may look overseas for gadgets and US firms may drop ongoing customer relationships. 
+josephmenn	702364983963881472	2016-02-24T05:30:36	Apple's fight with DOJ could hasten the development of government-proof devices. Story by josephmenn and me: 
+josephmenn	702191366613274624	2016-02-23T18:00:42	“The action should serve as a wake-up call, not just for other router makers, but entire industries tied to IoT” 
+josephmenn	702187315498602497	2016-02-23T17:44:36	Lovely springlike weather has come early to the Bay Area, shining down on the annual running of the InfoSec gibberish. RSAC
+josephmenn	702155538012966912	2016-02-23T15:38:20	josephmenn thegrugq McGrewSecurity in this age of security theatre, actors seem appropriate for keynotes
+josephmenn	702151585279836160	2016-02-23T15:22:37	thegrugq McGrewSecurity Pointless? An RSAC keynote by an actor is pointless? Harrumph, sir.
+josephmenn	701907277016649728	2016-02-22T23:11:50	helpnetsecurity ErrataRob Think of him as a human back door. What a terrific opportunity!
+josephmenn	701889587807969282	2016-02-22T22:01:32	To be fair, you RSAC keynote complainers, Sean Penn just learned a fair amount more about opsec the hard way.
+josephmenn	701641340283654144	2016-02-22T05:35:06	Exclusive: San Bernardino victims to oppose Apple on iPhone encryption  
+josephmenn	701211727199744000	2016-02-21T01:07:58	SwiftOnSecurity Hearts and flowers.
+josephmenn	700854405239681024	2016-02-20T01:28:06	Updates with screw-up changing killer's password. U.S. ramps up Apple fight with new filing in iPhone unlocking case 
+josephmenn	700418784352460800	2016-02-18T20:37:05	LA hospital paid $17,000 ransom -- in bitcoin -- to hackers who held computer system hostage  
+josephmenn	700149560849604608	2016-02-18T02:47:18	Devices that dont need users permission to update firmware have backdoors if def of backdoor is vendor can supply new SW device will accept
+josephmenn	700150088249659393	2016-02-18T02:49:23	thomas_coseinc dragosr what's HP's beef? Is there a presentation posted somewhere they are citing? Thanks.
+josephmenn	700113378656837633	2016-02-18T00:23:31	Google CEO backs Apple CEO vs Justice Dept getting order to hack an iPhone.  
+josephmenn	700086112723677185	2016-02-17T22:35:10	UPDATE 3-Privacy vs security at heart of Apple phone decrypt order 
+josephmenn	700071539945897984	2016-02-17T21:37:16	What Tim Cook did was force the USG to go public with their policy. The policy has always been "Backdoor yo shizznit, or we hurt you".
+josephmenn	699943780808404993	2016-02-17T13:09:36	If the FBI want to get into an iPhone w/o users permission, they should ask someone who's done it before, like U2
+josephmenn	699999386953121792	2016-02-17T16:50:33	Justice Dept. picks one of the most sympathetic scenarios imaginable to press for the right to force firms to hack. 
+josephmenn	699696678987812864	2016-02-16T20:47:42	Long NYT story on Stuxnet being part of a much, much cyberwar campaign vs Iran that was shelved. New movie, too. 
+josephmenn	699092235296440320	2016-02-15T04:45:52	"staff to rely on fax machines and telephones" Back to the 80's..  Ransomware takes hospital offline, $3.6M demanded 
+josephmenn	698189420541816832	2016-02-12T16:58:24	Evidence Suggests the Sony Hackers Are Alive and Well and Still Hacking - 
+josephmenn	698160651777081344	2016-02-12T15:04:05	It is the "Persistent" in APT that is such a problem.  Script kiddies can be remarkably persistent: 
+josephmenn	697837937631690752	2016-02-11T17:41:44	I want to dispel the notion that Albert Einstein didn't know what he was doing.  He knew EXACTLY what he was doing!
+josephmenn	697823509100306433	2016-02-11T16:44:24	UK Parliament Report Rejects Encryption Backdoors, Other Parts of Sweeping Surveillance Bill  via CenDemTech
+josephmenn	697493296751448064	2016-02-10T18:52:15	I'm surprised we don't hear this argument more. 
+josephmenn	697172576926310400	2016-02-09T21:37:49	Gmail will warn of unauthenticated senders, recipients without security. 
+josephmenn	696672035670462464	2016-02-08T12:28:51	The Dyreza story by peterkruse: the big news last week now with details TheSAS2016 
+josephmenn	695871809556770816	2016-02-06T07:29:02	Things will get interesting at this years TheSAS2016 
+josephmenn	695764007509213184	2016-02-06T00:20:40	Exclusive: Top financial malware of 2015 disrupted as Moscow offices raided. dyre 
+josephmenn	695329666845032448	2016-02-04T19:34:45	NSA to combine defensive IAD with intel-gathering, the opposite of what the White House's review panel sought.  
+josephmenn	694933918705913856	2016-02-03T17:22:12	People who leave their phones on "voluntarily" share their location with others, including the police, state argues. 
+josephmenn	695060495410266112	2016-02-04T01:45:10	Professor who cracked case in Flint says public science is broken. He's right.  
+josephmenn	694910541488214018	2016-02-03T15:49:18	.@ chernandburn Thanks! Most valuable info in that link: As of a while ago, 90% of prescription drugs fine post-"expiration."
+josephmenn	694905207092674560	2016-02-03T15:28:06	chernandburn Degradation of the plastic maybe?
+josephmenn	694899608216928256	2016-02-03T15:05:51	Bought a bottle of water for my flight. It has an expiration date. Huh? 
+josephmenn	694556374706065409	2016-02-02T16:21:58	First ever indictment for terrorism related to a data breach.  PII of US military members given to ISIS.   security
+josephmenn	693625423842938882	2016-01-31T02:42:42	Weird, right? After devoting themselves to one Q., "who's gonna win?" horse race journalists basically have no idea. 
+josephmenn	693522738808377344	2016-01-30T19:54:40	Amazing story. 
+josephmenn	693529226876579840	2016-01-30T20:20:27	Cybersecurity having its Theranos moment. NorseCorp
+josephmenn	693456778797805568	2016-01-30T15:32:34	Norse Corp, the hot security company that got big press with reports on Iran and Sony, gets different sort of press. 
+josephmenn	693251442707025920	2016-01-30T01:56:38	Congress to probe Juniper 'back door' exposure, possible U.S. involvement (josephmenn)  
+josephmenn	693255598083682305	2016-01-30T02:13:09	marciahofmann astepanovich quinnnorton What's wrong with gnarly?
+josephmenn	693248643286089728	2016-01-30T01:45:31	Peerio Co-Founder On Why He Left The Company (Hint: It Had To Do With Admin Backdoors) - Forbes 
+josephmenn	693234174724014080	2016-01-30T00:48:01	Such a bummer. Government needs more people who understand tech.  
+josephmenn	693226810180517889	2016-01-30T00:18:45	Wow. 
+josephmenn	693159760678555649	2016-01-29T19:52:19	Top five U.S. defense contractors bungle commercial cybersecurity market  via csoonline
+josephmenn	693149017656709120	2016-01-29T19:09:38	.thegrugq lorenzoFB With apologies to my hardworking peers in ad-supported media, I agree. Everyone should run ad-blockers for safety.
+josephmenn	693103086127026176	2016-01-29T16:07:07	The most interesting thing: IF the NSA was IA #1 in Juniper backdoor, they knew about IA #2 but could say nothing. 
+josephmenn	693100216199720960	2016-01-29T15:55:43	Congress will look into possible NSA involvement in Juniper back door: Rep. Hurd. 
+josephmenn	692740056948305922	2016-01-28T16:04:34	Why I Dropped Out - The New Yorker 
+josephmenn	692520125719789572	2016-01-28T01:30:39	This John Lambert quote bears repeating as I watch an NSA Director lecture a group of West Coast techies on security 
+josephmenn	692593944341958656	2016-01-28T06:23:58	Eliminates a large attack vector on desktops. 
+josephmenn	692546370478161922	2016-01-28T03:14:56	The year old NSA guide to not getting, as TAO chief implied, punked like Saudi Aramco and Sony:  enigma2016
+josephmenn	692399917852073984	2016-01-27T17:32:59	Rivest, a co-author of "Keys Under Doormat" critique: national security would likely suffer with backdoors, + bad guys would use new apps.
+josephmenn	692396817531572224	2016-01-27T17:20:40	"Exceptional access makes the Internet less secure...There are new vulnerabilities that will definitely be created." Ron Rivest  enigma2016
+josephmenn	692394252169580545	2016-01-27T17:10:28	Special surprise speaker at enigma2016 security conference is Ron Rivest, the R in RSA. He really does not like back doors. encryption
+josephmenn	692159380834422785	2016-01-27T01:37:10	Hey TheRegister the $10 million NSA deal was not in the Snowden documents and RSA did not deny what I wrote. Thanks.
+josephmenn	692081137787674624	2016-01-26T20:26:16	dlitchfield I think many people would just rather not lie.
+josephmenn	692080287140831232	2016-01-26T20:22:53	You know you're at a security com when people won't tell you where they work even BEFORE they find out you're a reporter.
+josephmenn	692078251791912960	2016-01-26T20:14:48	I'm at enigma2016 and will be taking confession today and tomorrow.
+josephmenn	692028463864115204	2016-01-26T16:56:57	Ecommerce sites running Magento need to update it yesterday. 
+josephmenn	691774015418015744	2016-01-26T00:05:52	Congress asks for an inventory of all impacted Juniper ScreenOS devices in the US government. Good luck with that. 
+josephmenn	691777161083109380	2016-01-26T00:18:22	[b0t] Show us the code! You should be able to peek inside the gadgets you buy – FTC commish 
+josephmenn	691234965464465408	2016-01-24T12:23:52	It hasn't premiered yet, has it? Is this... a leak?  
+josephmenn	690981082095681540	2016-01-23T19:35:02	SwiftOnSecurity ncardozo If cash is speech, code is most certainly speech.
+josephmenn	690593154106593280	2016-01-22T17:53:33	AG Lynch: We’re not asking for a backdoor, we're just asking for a  backdoor.  
+josephmenn	690572835060858881	2016-01-22T16:32:48	ALSO on Friday snowmaggedon2016 news dump day, OPM announces creation of new security clearance agency
+josephmenn	690259334345797632	2016-01-21T19:47:04	josephmenn to be fair, I'm Batman is a pretty good name for a backdoor.
+josephmenn	690258916266082305	2016-01-21T19:45:24	"According to SEC Consult, the update merely changed the username assigned to the backdoor from BlackWidow to 1MB@tMaN." Awesome.
+josephmenn	690244990274957312	2016-01-21T18:50:04	Media devices sold to feds have hidden backdoor with sniffing functions 
+josephmenn	689930786682736641	2016-01-20T22:01:32	Journo job: We’re hiring in San Francisco. If you want to write about the tools of the trade in IT, get in touch cwilliams@theregister.co.uk
+josephmenn	690238651058503680	2016-01-21T18:24:53	The mystery of the cost/benefit analysis in such decisions is a recurring theme in police and intelligence actions. 
+josephmenn	689934818381934593	2016-01-20T22:17:33	FireEye, after gobbling up Mandiant, adds iSight 
+josephmenn	689455473834127361	2016-01-19T14:32:49	The security disasters lurking in your home Internet routers:  My latest, with help from todb!
+josephmenn	689500092840083456	2016-01-19T17:30:07	The 1st Enigma conference is happening next week in San Francisco. Balance of research &amp; academic w/ community support + USENIX organization
+josephmenn	688950467028598784	2016-01-18T05:06:06	In Online Dating, ‘Sextortion’ and Scams: 
+josephmenn	688836067466719232	2016-01-17T21:31:31	pmarca qhardy ebekiel OK but if they bring in a master chef to serve the beef I'm calling shenanigans.
+josephmenn	688780522168791040	2016-01-17T17:50:48	The new NBC clip is at . To read the piece on China's suspected Microsoft hacking, go here. 
+josephmenn	688768131817287680	2016-01-17T17:01:33	If you are in NorCal, I'm on NBC Bay Area's Press: Here tech news show until 930.
+josephmenn	688432741356982272	2016-01-16T18:48:50	Great news: Iran finally releases WashingtonPost correspondent Jason Rezaian, among others, in prisoner swap 
+josephmenn	688157603189227520	2016-01-16T00:35:32	Mandiant and Trustwave got beef. I'm gonna grab some popcorn. 
+josephmenn	688061390842507264	2016-01-15T18:13:13	Really nice NYT explainer on the most serious Bitcoin rift yet. 
+josephmenn	687685336357564417	2016-01-14T17:18:55	I believe in cybercrime unicorns   thanks to mikko + ProfWoodward 🌈💖💖🦄
+josephmenn	687729549644152832	2016-01-14T20:14:36	Bug fixed by GCHQ's CESG_HMG is an exploitable mem-corruption in IE/Edge browser (via JS engine) rated "Critical". 
+josephmenn	687424730106847232	2016-01-14T00:03:22	I'd say shots fired but that's basically what Rob does everyday 
+josephmenn	687299798454542337	2016-01-13T15:46:56	Et tu, Fortinet? Hard-coded password raises new backdoor eavesdropping fears  by dangoodin001 WTH is going on here?!
+josephmenn	686689188398370820	2016-01-11T23:20:35	Modern Web pages are like fast food burgers: 1 patty drawn from 50 cows on 5 continents. One bad element+it's over.  
+josephmenn	686627704683167744	2016-01-11T19:16:16	Multiple trivial remote code execution vulnerabilities in Trend Micro patched today .
+josephmenn	685703107414642688	2016-01-09T06:02:15	A_Reader_FT featuring. Like on song credits
+josephmenn	685695797497692161	2016-01-09T05:33:12	Juniper to drop code tied to NSA feat. ncweaver realworldcrypto 
+josephmenn	685349149320024064	2016-01-08T06:35:45	Agenda for tmrw's White House meeting with Apple, Facebook, Google, Microsoft on counterterrorism. From dannyyadron 
+josephmenn	684983368274972672	2016-01-07T06:22:16	"Does your car have any idea why my car pulled it over?"  NewYorker 
+josephmenn	684224824684593152	2016-01-05T04:08:05	Ukraine utility cyber attack wider than reported: experts 
+josephmenn	684085726988877828	2016-01-04T18:55:21	At some point, hypothetically, would it get immoral to write well enough to draw people who might get infected? bbaskin mattblaze Forbes
+josephmenn	518111387046785024	2014-10-03T18:52:35	I accidentally typed my symptoms into IMDB instead of WebMD and it told me I have Gary Busey.
+josephmenn	682780737070874624	2016-01-01T04:29:47	New from SANSICS: Potential Sample of Malware from the Ukrainian Power Outage Uncovered  ICS SCADA
+josephmenn	682613689803878400	2015-12-31T17:26:00	Repeating from last night because social media. Microsoft didn't warn email users of China hacking, ex-staff say.  
+josephmenn	682407790627962880	2015-12-31T03:47:50	jswartz brave man
+josephmenn	682364445386010624	2015-12-31T00:55:36	Microsoft failed to warn victims of Chinese email hack--former employees 
+josephmenn	682362720721743873	2015-12-31T00:48:44	Exclusive: Microsoft to warn email users of suspected hacking by governments 
+josephmenn	679410099601801216	2015-12-22T21:16:05	I am volunteering to step up and accept government funding for the new crypto Manhattan project.  I promise to work until the money runs out
+josephmenn	679043052086800384	2015-12-21T20:57:34	Cisco reviewing product code after Juniper software was altered  via jim_finkle
+josephmenn	679215996637454336	2015-12-22T08:24:47	New blog post: On the Juniper backdoor 
+josephmenn	678232113787723777	2015-12-19T15:15:11	Congress approves surveillance legislation tucked into budget package 
+josephmenn	678272799526420480	2015-12-19T17:56:51	Summarising some of yesterday's Twitter conversations about Juniper: 
+josephmenn	678271881242374144	2015-12-19T17:53:12	I respect durov, but Ptacek is right: telegram's defaults are dangerous. Without a major update, it's unsafe. 
+josephmenn	677941459941650432	2015-12-18T20:00:14	Exclusive: U.S. Justice Department probes data breach at Uber  via josephmenn and me
+josephmenn	677797993563693056	2015-12-18T10:30:09	Reuters' josephmenn says that Russian anti-virus firm Kaspersky is finding it tough winning US govt contracts 
+josephmenn	677546115072438273	2015-12-17T17:49:16	FTC: Lifelock to pay $100 million to settle charges of deceptive advertising 
+josephmenn	677135171292938240	2015-12-16T14:36:20	Wow. geohot is building a self-driving car by himself 
+josephmenn	677248484223934464	2015-12-16T22:06:35	Dear media columnists: Vedemosti, South China Morning Post, Las Vegas Review-Journal. Go!
+josephmenn	677248232880218114	2015-12-16T22:05:36	Wow. Adelson. Primaries gambling israel influence journalism 
+josephmenn	677242643592671233	2015-12-16T21:43:23	Glad to see more tech talent in the White House. 
+josephmenn	677183557593272320	2015-12-16T17:48:36	Judging by all these pitches in my inbox, someone or something must actually be writing stories about "predictions."
+josephmenn	676415248090456065	2015-12-14T14:55:36	Security researchers are hunted by both governments and cybercriminals. Some of them tell their stories here. 
+josephmenn	676114993662726148	2015-12-13T19:02:30	Isn't anyone covering global warming and named "Coral" likely to be biased?
+josephmenn	675435789518508032	2015-12-11T22:03:35	ejhilbert Me? Am alertly writing about other stuff.

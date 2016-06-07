@@ -1,0 +1,600 @@
+Quantocracy	725920253566312449	2016-04-29T05:30:50	Quantocracy’s Daily Wrap for 04/28/2016 
+Quantocracy	725876036584497156	2016-04-29T02:35:07	What You Should Remember About the Markets [GaryAntonacci] 
+Quantocracy	725800586499768320	2016-04-28T21:35:19	Facts, Fiction, and Merger Arbitrage [AlphaArchitect] 
+Quantocracy	725715368682094593	2016-04-28T15:56:41	K-Means never fails, they said [QuantDare] 
+Quantocracy	725713593124151296	2016-04-28T15:49:38	Optimum Asset Allocation using Correlation [Milton_FMR] 
+Quantocracy	725713580662886400	2016-04-28T15:49:35	How Different Are These Things From One Another? [Blue Event Horizon] 
+Quantocracy	725556401196687360	2016-04-28T05:25:00	Quantocracy’s Daily Wrap for 04/27/2016 
+Quantocracy	725400560988475393	2016-04-27T19:05:45	New Book Added: Applied Predictive Modeling [Amazon] 
+Quantocracy	725197138196570113	2016-04-27T05:37:25	Quantocracy’s Daily Wrap for 04/26/2016 
+Quantocracy	725079560794963968	2016-04-26T21:50:13	Block Bootstrapped Monte Carlo in R [OpenSourceQuant] 
+Quantocracy	725075759031705600	2016-04-26T21:35:06	A New Analysis of Commodity Momentum Strategy [Quantpedia] 
+Quantocracy	724837508434038784	2016-04-26T05:48:23	Quantocracy’s Daily Wrap for 04/25/2016 
+Quantocracy	724694512409448450	2016-04-25T20:20:10	How the day of the week affects stock market anomalies [AlphaArchitect] 
+Quantocracy	724682558038921216	2016-04-25T19:32:40	Best of Last 2 Weeks:   w/ TuringFinance Clenow GFrankHarris ThinkNewfound Quandl QuantatRisk QuantStratTradR
+Quantocracy	724668154534858752	2016-04-25T18:35:26	Is tactical broken? [ThinkNewfound] 
+Quantocracy	724521515576909825	2016-04-25T08:52:44	Measurement error bias [Eran Raviv] 
+Quantocracy	724469953034915840	2016-04-25T05:27:51	Quantocracy’s Daily Wrap for 04/24/2016 
+Quantocracy	724158888296198148	2016-04-24T08:51:47	Best Links of the Last Two Weeks 
+Quantocracy	724158477359259648	2016-04-24T08:50:09	New Book Added: Intro to Statistical Learning with Applications in R [Amazon] 
+Quantocracy	723743312029556736	2016-04-23T05:20:26	Quantocracy’s Daily Wrap for 04/22/2016 
+Quantocracy	723596102667255808	2016-04-22T19:35:29	Minimum volatility: what's in a name? [FactorInvestor] 
+Quantocracy	723592252401000448	2016-04-22T19:20:11	The Moving Average Research King: Valeriy Zakamulin [AlphaArchitect] 
+Quantocracy	723588576345251841	2016-04-22T19:05:34	Research Review | 22 Apr 2016 | Risk Analysis [JPicerno] 
+Quantocracy	723443113327513600	2016-04-22T09:27:33	New Book Added: Machine Learning with R [Amazon] 
+Quantocracy	723439088603254785	2016-04-22T09:11:34	50% Returns Coming for Commodities and Emerging Markets? [MebFaber] 
+Quantocracy	723435453181874176	2016-04-22T08:57:07	PDF: Combining Value and Momentum [GersteinFisher] 
+Quantocracy	723387879376842752	2016-04-22T05:48:04	Quantocracy’s Daily Wrap for 04/21/2016 
+Quantocracy	723316763685994496	2016-04-22T01:05:29	Introducing fidlr: FInancial Data LoadeR [TheRTrader] 
+Quantocracy	723203565930590209	2016-04-21T17:35:41	Get ready for R/Finance 2016 [RevoDavid] 
+Quantocracy	723203564751990784	2016-04-21T17:35:40	Sentiment Analysis in Trading Explained Using R [QuantInsti] 
+Quantocracy	723022631746846720	2016-04-21T05:36:43	Quantocracy’s Daily Wrap for 04/20/2016 
+Quantocracy	722931642516508672	2016-04-20T23:35:09	Kaufman's Market Efficiency Model [Milton_FMR] 
+Quantocracy	722815895295389696	2016-04-20T15:55:13	Information Content of Pre- and Post-Market Trading Sessions [JonathanKinlay] 
+Quantocracy	722811536247517184	2016-04-20T15:37:54	What is the difference between Bagging and Boosting? [QuantDare] 
+Quantocracy	722811535630942209	2016-04-20T15:37:53	CAPE 10 Ratio In Need Of Context [LarrySwedroe] 
+Quantocracy	722811535006019584	2016-04-20T15:37:53	Analysis of US Dollar Carry Trades in the Era of 'Cheap Money' [Quantpedia] 
+Quantocracy	722659051725832193	2016-04-20T05:31:58	Quantocracy’s Daily Wrap for 04/19/2016 
+Quantocracy	722593628732989440	2016-04-20T01:12:00	Machine Learning Section Added to Our Library with Robot_Wealth 
+Quantocracy	722493467385925632	2016-04-19T18:34:00	abnormalreturns I appreciate the link Tadas. Always good to be recognized by AR!
+Quantocracy	722456862663307265	2016-04-19T16:08:33	A Closer Look At Growth and Value Indices [ThinkNewfound] 
+Quantocracy	722456854639558656	2016-04-19T16:08:31	A Better Way To Run Bootstrap Return Tests: Block Resampling [JPicerno] 
+Quantocracy	722442749782286336	2016-04-19T15:12:28	Yesterday's daily wrap was xtra good:   Top shelf stuff from gfrankharris, QuantStratTradR, TuringFinance and more
+Quantocracy	722295642807214080	2016-04-19T05:27:55	Quantocracy’s Daily Wrap for 04/18/2016 
+Quantocracy	722203462386262016	2016-04-18T23:21:37	How Changing our Brand Supercharged Our Growth on Twitter 
+Quantocracy	722139045296533504	2016-04-18T19:05:39	Lossless Compression Algorithms and Market Efficiency? [TuringFinance] 
+Quantocracy	722135197639176194	2016-04-18T18:50:22	QuantStart April 2016 News [MHallsMoore] 
+Quantocracy	722131388984639488	2016-04-18T18:35:14	Should We Embrace the "Dark Side" of Factors? [ThinkNewfound] 
+Quantocracy	722004527038205952	2016-04-18T10:11:08	My Year-Long Experience as the Fastest Form-4 Trader [GFrankHarris] 
+Quantocracy	722000278699053056	2016-04-18T09:54:15	Are R^2s Useful In Finance? [QuantStratTradR] 
+Quantocracy	721996287994949633	2016-04-18T09:38:23	Probability of Black Swan Events at NYSE [QuantatRisk] 
+Quantocracy	721938115657601025	2016-04-18T05:47:14	Quantocracy’s Daily Wrap for 04/17/2016 
+Quantocracy	721766441771347968	2016-04-17T18:25:04	Why using a Buy-and-Hold strategy as a benchmark is probably doing it wrong [OpenSourceQuant] 
+Quantocracy	721765205622001665	2016-04-17T18:20:09	Interview with Nitesh Khandelwal of QuantInsti [BetterSysTrader] 
+Quantocracy	721610438769831936	2016-04-17T08:05:10	Scare of a melt-up [SalilStatistics] 
+Quantocracy	721575945581289472	2016-04-17T05:48:06	Quantocracy’s Daily Wrap for 04/16/2016 
+Quantocracy	721244267734298624	2016-04-16T07:50:08	Taleb: Silent Risk, Section 1.3 [Blue Event Horizon] 
+Quantocracy	721210955993128960	2016-04-16T05:37:46	Quantocracy’s Daily Wrap for 04/15/2016 
+Quantocracy	721123467018575874	2016-04-15T23:50:07	Benchmark Plus [Systematic Investor] 
+Quantocracy	720917408739946496	2016-04-15T10:11:18	You can't beat all the chimps [Clenow] 
+Quantocracy	720870902250938368	2016-04-15T07:06:30	The 5 Mistakes Every Investor Makes [MebFaber] 
+Quantocracy	720851620934737920	2016-04-15T05:49:53	Quantocracy’s Daily Wrap for 04/14/2016 
+Quantocracy	720708252703571969	2016-04-14T20:20:12	Upcoming Panel Appearances [ThinkNewfound] 
+Quantocracy	720547809955549184	2016-04-14T09:42:39	My experience dealing with Zorros support team [Robot_Wealth] 
+Quantocracy	720488573703729153	2016-04-14T05:47:16	Quantocracy’s Daily Wrap for 04/13/2016 
+Quantocracy	720338314092535808	2016-04-13T19:50:11	The SPY RSI No Lie Swing Trade System [Throwing Good Money] 
+Quantocracy	720305174628143104	2016-04-13T17:38:30	Relative Strength Index (RSI) Analysis [AlvarezQuant] 
+Quantocracy	720146621120528384	2016-04-13T07:08:28	The Changing Generations of Financial Data [Quandl] 
+Quantocracy	720126358207262720	2016-04-13T05:47:57	Quantocracy’s Daily Wrap for 04/12/2016 
+Quantocracy	720009903184736256	2016-04-12T22:05:12	Equity Supply/Demand Indicator [LargecapTrader1] 
+Quantocracy	719948584532115457	2016-04-12T18:01:33	Just added to Quant News: Most popular SSRN papers over the last 12 months 
+Quantocracy	719949630365179906	2016-04-12T18:05:42	Market Timing Factor Premiums: Exploiting Behavioral Biases for Fun and Profit… 
+Quantocracy	719945738906681344	2016-04-12T17:50:14	What You Pay Matters Less than What You're Paying For [EconomPic] 
+Quantocracy	719941957414449152	2016-04-12T17:35:13	Volatility is a value factor [FactorInvestor] 
+Quantocracy	719941955896143872	2016-04-12T17:35:12	Can Twitter Predict the Market's Reaction to Fed FOMC Decisions? [AlphaArchitect] 
+Quantocracy	719760673912287232	2016-04-12T05:34:51	Quantocracy’s Daily Wrap for 04/11/2016 
+Quantocracy	719655952161476611	2016-04-11T22:38:44	Thanks, Mike!  I appreciate the mention, and I enjoy reading all the great blog posts on Quantocracy. 
+Quantocracy	719620113977094144	2016-04-11T20:16:19	Best Links of the Last 2 Weeks   With QuantNews_com GaryAntonacci OpenSourceQuant ThinkNewfound &amp; AlphaArchitect
+Quantocracy	719617529577140224	2016-04-11T20:06:03	High Frequency Trading: Equities vs. Futures [JonathanKinlay] 
+Quantocracy	719613528974430209	2016-04-11T19:50:09	Are 3-year track records meaningful? [ThinkNewfound] 
+Quantocracy	719609792415850496	2016-04-11T19:35:18	Machine Learning and Its Application in Forex Markets - Part 2 [QuantInsti] 
+Quantocracy	719605981290893312	2016-04-11T19:20:10	Registration for R/Finance 2016 is open! [Joshua_Ulrich] 
+Quantocracy	719602283160412160	2016-04-11T19:05:28	Momentum Rotation 60 Day ROC System Results [DTRTrading] 
+Quantocracy	719598413071970304	2016-04-11T18:50:05	Connors 2-Period RSI Update For 2015 [Swansjr] 
+Quantocracy	719594651922120705	2016-04-11T18:35:09	Testing Different Momentum Rules [Backtest Wizard] 
+Quantocracy	719467218174513152	2016-04-11T10:08:46	Best Links of the Last Two Weeks and A Shout-Out to QuantNews_com 
+Quantocracy	719412098002890752	2016-04-11T06:29:44	Now you can read abstracts for academic papers on Quant News! 
+Quantocracy	719437039612071936	2016-04-11T08:08:51	10 Tips to Help Discretionary Traders Compete with Quants [GFrankHarris] 
+Quantocracy	719427851179536384	2016-04-11T07:32:20	QuantsPortal Love it. Thanks for the update.
+Quantocracy	719034616439508992	2016-04-10T05:29:46	Quantocracy’s Daily Wrap for 04/09/2016 
+Quantocracy	718903846408425473	2016-04-09T20:50:08	Kolmogorov-Smirnov test as regime switcher [Talaikis] 
+Quantocracy	718862323184701440	2016-04-09T18:05:08	Shapiro-Wilk test for normality as signal for low frequency strategy [Talaikis] 
+Quantocracy	718858748077289472	2016-04-09T17:50:55	QuantsPortal in a good context I hope =)
+Quantocracy	718672519771762689	2016-04-09T05:30:55	Quantocracy’s Daily Wrap for 04/08/2016 
+Quantocracy	718518816423022594	2016-04-08T19:20:09	Alpha or Assets [Millennial_Inv] 
+Quantocracy	718515052202987520	2016-04-08T19:05:12	Chasing the Momentum-Burst Unicorn [Throwing Good Money] 
+Quantocracy	718322543078338560	2016-04-08T06:20:14	Even bad strategies will perform well [ThinkNewfound] 
+Quantocracy	718318833338081281	2016-04-08T06:05:30	Bollinger Bands | Trading Strategy (Setup) [OxfordStrat] 
+Quantocracy	718307652888084480	2016-04-08T05:21:04	Quantocracy’s Daily Wrap for 04/07/2016 
+Quantocracy	718231615273611265	2016-04-08T00:18:55	ICYMI three key voices on  have joined Twitter: Robot_Wealth, PredictiveAlpha and SalilStatistics. Great bloggers!
+Quantocracy	718175345501990912	2016-04-07T20:35:20	Mean reversion, momentum, and volatility term structure [ChanEP] 
+Quantocracy	718171527187992576	2016-04-07T20:20:09	Smart Beta: Data Mining, Arbitraged Away, Or Here To Stay? [AlphaArchitect] 
+Quantocracy	718167849454419969	2016-04-07T20:05:32	Meet the inventor and author of dual momentum investing GaryAntonacci [Quant Investing] 
+Quantocracy	718164000870162432	2016-04-07T19:50:15	March Madness Portfolio Challenge: All Hail Our Champion! [GestaltU] 
+Quantocracy	718160257575489536	2016-04-07T19:35:22	How to Select the Best Commodity CTAs [Quantpedia] 
+Quantocracy	718156482760609792	2016-04-07T19:20:22	Testing Asset Allocation Results With Random Market Selection [JPicerno] 
+Quantocracy	718152650584420352	2016-04-07T19:05:09	State of Trend Following in March [JezLiberty] 
+Quantocracy	717975196301262848	2016-04-07T07:20:00	hobiecatlob my boys and I sail on occasion - still novices for sure. Sunfishes mostly, but a few times on a hobie cat. Good times. NTMY
+Quantocracy	717957904419016704	2016-04-07T06:11:18	hobiecatlob p.s. sailor?
+Quantocracy	717957148689321984	2016-04-07T06:08:17	hobiecatlob I haven't fully absorbed yet, but so far, agreed. Chinco is a smart cat.
+Quantocracy	717949894196113409	2016-04-07T05:39:28	Quantocracy’s Daily Wrap for 04/06/2016 
+Quantocracy	717948825042829312	2016-04-07T05:35:13	ETF-Rebalancing Cascades [Alex Chinco] 
+Quantocracy	717758694574923776	2016-04-06T16:59:42	Update on the Valuation Metric Horserace: 2011-2015 [AlphaArchitect] 
+Quantocracy	717758693618671616	2016-04-06T16:59:42	Outliers: Looking For A Needle In A Haystack [QuantDare] 
+Quantocracy	717589557089275904	2016-04-06T05:47:37	Quantocracy’s Daily Wrap for 04/05/2016 
+Quantocracy	717459855896764416	2016-04-05T21:12:14	Attention denizens of : Salil Mehta of Statistical Ideas is now on Twitter: SalilStatistics. Outside the box thinker
+Quantocracy	717435461116039169	2016-04-05T19:35:17	Detecting Human Fear in Electronic Trading: Emotional Quantum Entanglement [QuantatRisk] 
+Quantocracy	717431697491562496	2016-04-05T19:20:20	Taleb: "Problems and Inverse Problems" Follow-Up [Blue Event Horizon] 
+Quantocracy	717427983032705025	2016-04-05T19:05:34	Bounceback portfolio 2016 [UKAlmanac] 
+Quantocracy	717227623546544128	2016-04-05T05:49:25	Quantocracy’s Daily Wrap for 04/04/2016 
+Quantocracy	717208915130388480	2016-04-05T04:35:05	The case for Regime-Switching GARCH [Eran Raviv] 
+Quantocracy	717046626423083008	2016-04-04T17:50:12	Snake Oil and Low Volatility Investing [FactorInvestor] 
+Quantocracy	717042837452365826	2016-04-04T17:35:09	Yahoo Data and Momentum Rotation - Analysis of 2015 Data [DTRTrading] 
+Quantocracy	717039091112652800	2016-04-04T17:20:15	Trend Following Down in March [WisdomTrading] 
+Quantocracy	716884525847076864	2016-04-04T07:06:04	Taleb: "Silent Risk", Chapter 3, Section 3.2 "Problems and Inverse Problems" [Blue Event… 
+Quantocracy	716880549990764544	2016-04-04T06:50:16	Strategy Development with Perry Kaufman [BetterSysTrader] 
+Quantocracy	716861718941532162	2016-04-04T05:35:27	Quantocracy’s Daily Wrap for 04/03/2016 
+Quantocracy	716499649595645953	2016-04-03T05:36:43	Quantocracy’s Daily Wrap for 04/02/2016 
+Quantocracy	716360310546948101	2016-04-02T20:23:02	Evolving Neural Networks through Augmenting Topologies Part 2 of 4 [GekkoQuant] 
+Quantocracy	716138571267182592	2016-04-02T05:41:55	Quantocracy’s Daily Wrap for 04/01/2016 
+Quantocracy	715974545207914498	2016-04-01T18:50:08	Bayesian Linear Regression Models with PyMC3 [MHallsMoore] 
+Quantocracy	715970773471653888	2016-04-01T18:35:09	Bold, Confident &amp; WRONG: Why You Should Ignore Expert Forecasts [GestaltU] 
+Quantocracy	715771493951606786	2016-04-01T05:23:17	Quantocracy’s Daily Wrap for 03/31/2016 
+Quantocracy	715674123960061956	2016-03-31T22:56:22	.carlcarrie added to our growing list of "other aggregators". Along with Quantivity, the best at curating academic quantitative content.
+Quantocracy	715623471628361729	2016-03-31T19:35:05	The Dynamic Duo Of Risk Factors: Part II [JPicerno] 
+Quantocracy	715619718078533633	2016-03-31T19:20:11	Parallel Tempering and Adaptive Learning Rates in Restricted Boltzmann Machine Learning… 
+Quantocracy	715608386226757632	2016-03-31T18:35:09	Build Better Strategies! Part 4: Machine Learning [Financial Hacker] 
+Quantocracy	715604617472647168	2016-03-31T18:20:10	Autoregressive model in S&amp;P 500 and Euro Stoxx 50 [QuantDare] 
+Quantocracy	715600831261896704	2016-03-31T18:05:08	Benchmarking Commodity CTAs [Quantpedia] 
+Quantocracy	715462019479113728	2016-03-31T08:53:32	New Book Added to "Beginner Math" Category: Introduction to Linear Algebra [Amazon] 
+Quantocracy	715446682985623553	2016-03-31T07:52:36	How to Value Nadex_US Bull Spreads? [MktStkBlg] 
+Quantocracy	715052618922459136	2016-03-30T05:46:44	Quantocracy’s Daily Wrap for 03/29/2016 
+Quantocracy	714993082199048192	2016-03-30T01:50:09	Trading the index with seasonal strategies [ENNlightenment] 
+Quantocracy	714948801685884929	2016-03-29T22:54:12	.TuringFinance, QuantsPortal and gammamongwe, a fellow quant from SA has joined the mashup: OpenSourceQuant. Our SA crew is STRONG
+Quantocracy	714883614597636097	2016-03-29T18:35:10	A Monte Carlo Simulation function for your back-test results in R [Open Source Quant] 
+Quantocracy	714683817878007808	2016-03-29T05:21:15	Quantocracy’s Daily Wrap for 03/28/2016 
+Quantocracy	714510836023169024	2016-03-28T17:53:52	Best Links of the Week:   With PredictiveAlpha, 6_Figure_Invest, GaryAntonacci and Talaikis
+Quantocracy	714506119436177408	2016-03-28T17:35:08	Machine Learning and Its Application in Forex Markets [QuantInsti] 
+Quantocracy	714502351038582784	2016-03-28T17:20:09	Glamour Can Distract Investors [LarrySwedroe] 
+Quantocracy	714321415634333696	2016-03-28T05:21:11	Quantocracy’s Daily Wrap for 03/27/2016 
+Quantocracy	714158574558179329	2016-03-27T18:34:07	Best Links of the Week 
+Quantocracy	713655852628971521	2016-03-26T09:16:29	Added QuantPapers to our list of "Other Aggregators" (h/t Paststat). Nifty aggregator of Quantivity and CarlCarrie SSRN/Arxiv tweets.
+Quantocracy	713602308765065216	2016-03-26T05:43:43	Quantocracy’s Daily Wrap for 03/25/2016 
+Quantocracy	713437830534545408	2016-03-25T18:50:08	Momentum for Buy-and-Hold Investors [GaryAntonacci] 
+Quantocracy	713434061688143873	2016-03-25T18:35:09	Momentum and Mean Reversion in Different Time Frames [Throwing Good Money] 
+Quantocracy	713298686474895360	2016-03-25T09:37:13	K-means clustering for (forex) trading using Python [Talaikis] 
+Quantocracy	713294592771301376	2016-03-25T09:20:57	Spikes Can Explain Returns [LarrySwedroe] 
+Quantocracy	713236121539493888	2016-03-25T05:28:37	Quantocracy’s Daily Wrap for 03/24/2016 
+Quantocracy	713071680055349250	2016-03-24T18:35:11	On Backtesting: An All-New Chapter from our Adaptive Asset Allocation Book [GestaltU] 
+Quantocracy	713067921581477888	2016-03-24T18:20:15	Have benchmarks made us bad active investors? [AlphaArchitect] 
+Quantocracy	713064112264253441	2016-03-24T18:05:07	Responding to Your Comments on Our Adaptive Asset Allocation Book [GestaltU] 
+Quantocracy	713060359125471232	2016-03-24T17:50:12	The Dynamic Duo Of Risk Factors: Part I [JPicerno] 
+Quantocracy	713056560457654272	2016-03-24T17:35:06	A Few Notes On Adaptive Asset Allocation [CXOAdvisory] 
+Quantocracy	713052793054040064	2016-03-24T17:20:08	Smart Beta Strategies in Australia [Quantpedia] 
+Quantocracy	713049481323917312	2016-03-24T17:06:58	[Academic Paper] Optimal Delta Hedging for Options [Quantivity] 
+Quantocracy	713047634601086976	2016-03-24T16:59:38	The Comprehensive Guide to Stock Price Calculation [Quandl] 
+Quantocracy	713047626082553858	2016-03-24T16:59:36	Markov Chain Monte Carlo for Bayesian Inference - The Metropolis Algorithm [MHallsMoore] 
+Quantocracy	712909496138534912	2016-03-24T07:50:43	On the 60/40 portfolio mix [Eran Raviv] 
+Quantocracy	712879150277726212	2016-03-24T05:50:08	Slides from Investing in Smart Beta Conference [ThinkNewfound] 
+Quantocracy	712873215098494976	2016-03-24T05:26:33	Quantocracy’s Daily Wrap for 03/23/2016 
+Quantocracy	712744415966572544	2016-03-23T20:54:45	MebFaber Thank you Meb. That's a solid group of names to be mentioned in the same sentence with.
+Quantocracy	712684422017851393	2016-03-23T16:56:21	quantocracy, CXOAdvisory, AdvPerspectives, savvyinv, mfobserver also good for finance nerd types.
+Quantocracy	712658058254614528	2016-03-23T15:11:36	Support Vector Machines (SVM) classifier (SVC) combining mean reversion and momentum… 
+Quantocracy	712649989781061632	2016-03-23T14:39:32	Server -IV- [Algorythmn Trader] 
+Quantocracy	712586405722132480	2016-03-23T10:26:52	FX: multivariate stochastic volatility part 2 [PredictiveAlpha] 
+Quantocracy	712509429980270592	2016-03-23T05:21:00	Quantocracy’s Daily Wrap for 03/22/2016 
+Quantocracy	712355568346730496	2016-03-22T19:09:37	Attention denizens of . Predictive Alpha is now on Twitter:  PredictiveAlpha. Highly rated by our community!
+Quantocracy	712352213142646784	2016-03-22T18:56:17	TuringFinance Wow, that means a lot coming from u Stuart. You're doing amazing work. Here's to the next 250k and beyond!
+Quantocracy	712350699980496896	2016-03-22T18:50:16	The More Unique Your Portfolio, The Greater Its Potential [Millennial_Inv] 
+Quantocracy	712347097698275328	2016-03-22T18:35:57	Why Investors Should Combine Value and Momentum [AlphaArchitect] 
+Quantocracy	712296571497529344	2016-03-22T15:15:11	 just passed the 250,000 views milestone. Thanks for all the support. Shout-out to Quantocracy for being awesome ;-)
+Quantocracy	712149853892165632	2016-03-22T05:32:10	Quantocracy’s Daily Wrap for 03/21/2016 
+Quantocracy	711992170232807425	2016-03-21T19:05:36	Beware bad multi-factor products [ThinkNewfound] 
+Quantocracy	711988290518454272	2016-03-21T18:50:11	When Trading Detracts From Alpha [LarrySwedroe] 
+Quantocracy	711983026016628736	2016-03-21T18:29:16	Best Links of the Last Two Weeks:   With MHallsMoore, Millennial_Inv, GekkoQuant and InvestingIdiocy
+Quantocracy	711821113563725824	2016-03-21T07:45:53	Best Links of the Last Two Weeks 
+Quantocracy	711789485978165248	2016-03-21T05:40:12	Quantocracy’s Daily Wrap for 03/20/2016 
+Quantocracy	711614561430929408	2016-03-20T18:05:07	Predicting Stock Market ReturnsLose the Normal and Switch to Laplace [6_Figure_Invest] 
+Quantocracy	711427106757091328	2016-03-20T05:40:14	Quantocracy’s Daily Wrap for 03/19/2016 
+Quantocracy	711406942363717636	2016-03-20T04:20:07	Reflections on Careers in Quantitative Finance [JonathanKinlay] 
+Quantocracy	711403168555520001	2016-03-20T04:05:07	Price Breakout with NR7 | Trading Strategy (Setup &amp; Entry) [OxfordStrat] 
+Quantocracy	711063739508908032	2016-03-19T05:36:21	Quantocracy’s Daily Wrap for 03/18/2016 
+Quantocracy	711018183621275649	2016-03-19T02:35:19	Recurrent Learning Artificial Neural Networks using Python [Talaikis] 
+Quantocracy	710905324899835904	2016-03-18T19:06:52	Free Resources to Learn Machine Learning for Trading [QuantInsti] 
+Quantocracy	710901118310735872	2016-03-18T18:50:09	Dont Bother Timing Premiums [LarrySwedroe] 
+Quantocracy	710698080644030464	2016-03-18T05:23:21	Quantocracy’s Daily Wrap for 03/17/2016 
+Quantocracy	710683043774607361	2016-03-18T04:23:36	Interview w/ TheChartist [ChatWithTraders] 
+Quantocracy	710576493332668416	2016-03-17T21:20:12	EP 064: The casino edge, mean reversion strategies, and how to develop robust trading… 
+Quantocracy	710572889163100160	2016-03-17T21:05:53	Meet the DIY Quants Who Ditched Wall Street for the Desert (h/t AbnormalReturns) 
+Quantocracy	710568936652349440	2016-03-17T20:50:10	Lets make a deal: from TV shows to identifying trends [QuantDare] 
+Quantocracy	710565228027711489	2016-03-17T20:35:26	Justin's Take: Building a Portfolio for Resolve's March Madness Challenge [ThinkNewfound] 
+Quantocracy	710561390822625281	2016-03-17T20:20:11	Covered Calls Uncovered [Quantpedia] 
+Quantocracy	710336734987460608	2016-03-17T05:27:29	Quantocracy’s Daily Wrap for 03/16/2016 
+Quantocracy	710255614128160769	2016-03-17T00:05:08	Never Book a Loss (And Why Thats Bad For You) [Throwing Good Money] 
+Quantocracy	710251830899556352	2016-03-16T23:50:06	Adding Stops and Scaling Out to a Mean Reversion Strategy [AlvarezQuant] 
+Quantocracy	710248047884763136	2016-03-16T23:35:05	The Seven Deadly Sins of Quantitative Data Analysts [Quandl] 
+Quantocracy	710244288530141184	2016-03-16T23:20:08	Corey's Take: Building a Portfolio for ReSolves March Madness Challenge [ThinkNewfound] 
+Quantocracy	710240559466737664	2016-03-16T23:05:19	Price Breakout with NR7 | Trading Strategy (Filter &amp; Exit) [OxfordStrat] 
+Quantocracy	710236781820690432	2016-03-16T22:50:19	Testing The Beta Premise [LarrySwedroe] 
+Quantocracy	710232975145869312	2016-03-16T22:35:11	Limits of Machine Learning Part 2 [MktStkBlg] 
+Quantocracy	709977798757257216	2016-03-16T05:41:12	Quantocracy’s Daily Wrap for 03/15/2016 
+Quantocracy	709795029703925762	2016-03-15T17:34:57	FX: multivariate stochastic volatility part 1 [Predictive Alpha] 
+Quantocracy	709682488373698561	2016-03-15T10:07:45	Some very interesting articles today. markovmodels neuralnets 
+Quantocracy	709628973907632128	2016-03-15T06:35:06	Bayes theorem in simple words and Bayesian expected returns estimation using Python… 
+Quantocracy	709613359440728064	2016-03-15T05:33:03	Quantocracy’s Daily Wrap for 03/14/2016 
+Quantocracy	709451583453601792	2016-03-14T18:50:13	Out Over Your Skis: How to Identify a Growth Trap [FactorInvestor] 
+Quantocracy	709447832697245699	2016-03-14T18:35:18	Politics, Investing, and the Rules of the Game [ThinkNewfound] 
+Quantocracy	709444019856805888	2016-03-14T18:20:09	Opex Week By Month &amp; How March Stands Out [QuantEdges] 
+Quantocracy	709316421516455937	2016-03-14T09:53:08	Evolving Neural Networks through Augmenting Topologies Part 1 of 4 [GekkoQuant] 
+Quantocracy	709312812229783552	2016-03-14T09:38:47	ASA statement on p-values [Eran Raviv] 
+Quantocracy	709308762545397760	2016-03-14T09:22:41	Hidden Markov Models factors in pictures (sample strategy) [Talaikis] 
+Quantocracy	709304998375641088	2016-03-14T09:07:44	Server -III- [Algorythmn Trader] 
+Quantocracy	709253350206906369	2016-03-14T05:42:30	Quantocracy’s Daily Wrap for 03/13/2016 
+Quantocracy	709062749209403394	2016-03-13T17:05:07	Understanding Modern Portfolio Construction (h/t AbnormalReturns) [CullenRoche] 
+Quantocracy	708901163643625472	2016-03-13T06:23:02	Quantocracy’s Daily Wrap for 03/12/2016 
+Quantocracy	708549423517835265	2016-03-12T07:05:21	Careers in Quantitative Finance [MHallsMoore] 
+Quantocracy	708545600040603648	2016-03-12T06:50:09	Yes, Virginia, the Markets are Mean-Reverting [Throwing Good Money] 
+Quantocracy	708538328090603521	2016-03-12T06:21:16	Quantocracy’s Daily Wrap for 03/11/2016 
+Quantocracy	708325170553946112	2016-03-11T16:14:15	How to Learn Advanced Mathematics Without Heading to University - Part 1 [MHallsMoore] 
+Quantocracy	708321083343114240	2016-03-11T15:58:00	Research Review | 11 Mar 2016 | Portfolio Strategy [JPicerno] 
+Quantocracy	708316841354072064	2016-03-11T15:41:09	Forecasting anything using anything with naive Bayes, Python, pandas (sample strategy… 
+Quantocracy	708194919593029635	2016-03-11T07:36:41	Optimal Alphadraft Bankroll Management with Beta-Beta Model and Kelly Criterion [Kevin Pei] 
+Quantocracy	708177303319085056	2016-03-11T06:26:41	Quantocracy’s Daily Wrap for 03/10/2016 
+Quantocracy	708107711397892096	2016-03-11T01:50:09	What You Dont Want to Hear About Dividend Stocks [MebFaber] 
+Quantocracy	707960702888222720	2016-03-10T16:05:59	Quant Nerds Can Be Fun Too: We're Hosting a March Madness Challenge [GestaltU] 
+Quantocracy	707844515151880192	2016-03-10T08:24:18	Some Limits of Machine Learning in Trading [MktStkBlg] 
+Quantocracy	707840485939945472	2016-03-10T08:08:17	Trading the Presidential Election [JonathanKinlay] 
+Quantocracy	707819018107883520	2016-03-10T06:42:59	Quantocracy’s Daily Wrap for 03/09/2016 
+Quantocracy	707647468192841728	2016-03-09T19:21:18	Diversification and small account size [InvestingIdiocy] 
+Quantocracy	707643756611244032	2016-03-09T19:06:33	Sh** Happens (on Tuesday and Thursday Nights) [Throwing Good Money] 
+Quantocracy	707639705685368837	2016-03-09T18:50:27	A Closer Look At Ben Grahams "Net Current Asset Value" (NCAV) Rule [Quantpedia] 
+Quantocracy	707501190599278592	2016-03-09T09:40:03	Why Python Algorithmic Trading is Preferred Choice Among Traders [QuantInsti] 
+Quantocracy	707497283064041472	2016-03-09T09:24:31	Has the Value Investing Pain Train Ended? [AlphaArchitect] 
+Quantocracy	707493815456833536	2016-03-09T09:10:44	Trend Following in February [WisdomTrading] 
+Quantocracy	707489006414647296	2016-03-09T08:51:38	State of Trend Following in February [JezLiberty] 
+Quantocracy	707453902594187264	2016-03-09T06:32:08	Quantocracy’s Daily Wrap for 03/08/2016 
+Quantocracy	707238333433380866	2016-03-08T16:15:33	NR7 Pattern | Trading Strategy (Setup &amp; Exit) [OxfordStrat] 
+Quantocracy	707238316773658624	2016-03-08T16:15:29	Estimating Return-Shortfall Risk For Portfolios [JPicerno] 
+Quantocracy	707131038837968896	2016-03-08T09:09:12	When Measures Become Targets: How Index Investing Changes Indexes [Millennial_Inv] 
+Quantocracy	707126687050407936	2016-03-08T08:51:54	Selected Interesting Papers from MFA Conference [A_Biao] 
+Quantocracy	707094439035072512	2016-03-08T06:43:46	Quantocracy’s Daily Wrap for 03/07/2016 
+Quantocracy	706899819474919424	2016-03-07T17:50:25	Replicating Private Equity: the Impact of Return Smoothing [AlphaArchitect] 
+Quantocracy	706895982886264832	2016-03-07T17:35:10	Server -II- [Algorythmn Trader] 
+Quantocracy	706893159889018880	2016-03-07T17:23:57	ETFs: Process Matters As Much As Fees [ThinkNewfound] 
+Quantocracy	706891065341693954	2016-03-07T17:15:38	A Simple Measure of Overbought in NASDAQ is Suggesting a Pullback [QuantEdges] 
+Quantocracy	706887753540079616	2016-03-07T17:02:28	Best Links of the Week:   With Robot_Wealth, Cantab, GaryAntonacci, QuantInsti and MebFaber
+Quantocracy	706850989664436224	2016-03-07T14:36:23	Attention denizens of Quantocracy. Robot Wealth is now on Twitter: Robot_Wealth. A top contributor and a must follow.
+Quantocracy	706731255828606976	2016-03-07T06:40:36	Quantocracy’s Daily Wrap for 03/06/2016 
+Quantocracy	706701882257899520	2016-03-07T04:43:53	Best Links of the Week 
+Quantocracy	706692133571268608	2016-03-07T04:05:09	Machine Learning &amp; SciKit Learn [Largecap Trader] 
+Quantocracy	706688358978813953	2016-03-07T03:50:09	Podcast: Laurent Bernut - Part 2 [BetterSysTrader] 
+Quantocracy	706371174218002433	2016-03-06T06:49:46	Quantocracy’s Daily Wrap for 03/05/2016 
+Quantocracy	706005019242446848	2016-03-05T06:34:48	Quantocracy’s Daily Wrap for 03/04/2016 
+Quantocracy	705929607988584448	2016-03-05T01:35:08	MiB: Emanuel Derman (h/t AbnormalReturns) [Ritholtz] 
+Quantocracy	705766015867682816	2016-03-04T14:45:05	Advanced Trading Infrastructure - Portfolio Handler Class [MHallsMoore] 
+Quantocracy	705689090272972800	2016-03-04T09:39:24	Machine learning for financial prediction: experimentation with Aronson's latest work - part… 
+Quantocracy	705685345170558976	2016-03-04T09:24:31	Trend Following Works [LarrySwedroe] 
+Quantocracy	705681032985628672	2016-03-04T09:07:23	What I've been reading... [Backtest Wizard] 
+Quantocracy	705644877426462721	2016-03-04T06:43:43	Quantocracy’s Daily Wrap for 03/03/2016 
+Quantocracy	705503542669406208	2016-03-03T21:22:06	Fun article by Cantab Capital: "Tech is Alpha". .   (h/t the excellent quantocracy)
+Quantocracy	705386111078703106	2016-03-03T13:35:28	Machine Learning: A Brief Breakdown [QuantDare] 
+Quantocracy	705281138017837056	2016-03-03T06:38:21	Quantocracy’s Daily Wrap for 03/02/2016 
+Quantocracy	705083066868502528	2016-03-02T17:31:17	Tech is Alpha [Cantab Capital] 
+Quantocracy	705080221989470209	2016-03-02T17:19:59	Is your data in good shape? Would you know it if it was not? [AlvarezQuant] 
+Quantocracy	705080220437639168	2016-03-02T17:19:58	Do the Size, Value, and Momentum Factors Exist in Emerging Markets? [Quantpedia] 
+Quantocracy	705075639552839680	2016-03-02T17:01:46	I don't thank AbnormalReturns enuff for being godfather of the aggregator game and inspiration for our little site  
+Quantocracy	705006587249819648	2016-03-02T12:27:23	Quality is Rewarded: Clickthroughs vs Voting 
+Quantocracy	704921915123748864	2016-03-02T06:50:56	Quantocracy’s Daily Wrap for 03/01/2016 
+Quantocracy	704872654663258112	2016-03-02T03:35:11	A Book Review of Adaptive Asset Allocation from GestaltU [QuantStratTradR] 
+Quantocracy	704682198415384576	2016-03-01T14:58:23	Some New Developments In Volatility Calculations [Only VIX] 
+Quantocracy	704682182149869568	2016-03-01T14:58:19	Server -I- Intro [Algorythmn Trader] 
+Quantocracy	704553612463239168	2016-03-01T06:27:25	Quantocracy’s Daily Wrap for 02/29/2016 
+Quantocracy	704379805622358016	2016-02-29T18:56:47	Best Links of the Week:   With Fin Hacker, BlueSkyAssetMgt, GestaltU, MHallsMoore and Jesse_Livermore
+Quantocracy	704378138575372289	2016-02-29T18:50:09	Growth is not "Not Value" [ThinkNewfound] 
+Quantocracy	704376420131155969	2016-02-29T18:43:19	cssanalytics good to see you posting again David (this one and your recent at BlueSkyAssetMgt). Looking fwd to more good stuff sir.
+Quantocracy	704374386334240769	2016-02-29T18:35:15	Book Review: Adaptive Asset Allocation from GestaltU [CSSAnalytics] 
+Quantocracy	704370587351826433	2016-02-29T18:20:09	When Low Vol Becomes High Vol [MebFaber] 
+Quantocracy	704366877926158336	2016-02-29T18:05:24	Tactical Asset Allocation For The Real World [JPicerno] 
+Quantocracy	704196556405219328	2016-02-29T06:48:37	Quantocracy’s Daily Wrap for 02/28/2016 
+Quantocracy	704174281345908737	2016-02-29T05:20:06	A Statistical Arbitrage Strategy in R [QuantInsti] 
+Quantocracy	703940202507739136	2016-02-28T13:49:57	Best Links of the Week 
+Quantocracy	703827217365602304	2016-02-28T06:20:59	Quantocracy’s Daily Wrap for 02/27/2016 
+Quantocracy	703589220397535232	2016-02-27T14:35:16	Dual Momentum and Dollar Cost Averaging [GaryAntonacci] 
+Quantocracy	703585432458682368	2016-02-27T14:20:13	Python in Singapore: Intensive Workshop (Apr 7, 2016) [QuantatRisk] 
+Quantocracy	703468438853918720	2016-02-27T06:35:20	Quantocracy’s Daily Wrap for 02/26/2016 
+Quantocracy	703266338219954176	2016-02-26T17:12:15	How Can Smart Beta Go Horribly Wrong? [RA_Insights] 
+Quantocracy	703266330036797440	2016-02-26T17:12:13	Volatility Threatens Discipline [LarrySwedroe] 
+Quantocracy	703107038994300928	2016-02-26T06:39:15	Quantocracy’s Daily Wrap for 02/25/2016 
+Quantocracy	703102230660931585	2016-02-26T06:20:09	Ranking Global Stock Markets On Valuation [MebFaber] 
+Quantocracy	702914385010925569	2016-02-25T17:53:43	Predicting Anomalies with politics, weather, global warming, sunspots, and the stars… 
+Quantocracy	702910841360883712	2016-02-25T17:39:38	15 years of forex and CFDs tick data to MongoDB using Python. Part Four [Talaikis] 
+Quantocracy	702907050272157696	2016-02-25T17:24:34	Conclusion - JavaScript for Financial Analysts Book - First Draft [mmport80] 
+Quantocracy	702902743564947456	2016-02-25T17:07:28	Sell in May and Go Away in the Equity Index Futures Markets [Quantpedia] 
+Quantocracy	702798706022686720	2016-02-25T10:14:03	Podcast: Breakout strategies with Tomas Nesnidal [BetterSysTrader] 
+Quantocracy	702793773890347008	2016-02-25T09:54:27	Long Equity Trading System | Trading Strategy (Filter &amp; Exit) [OxfordStrat] 
+Quantocracy	702740689877147648	2016-02-25T06:23:31	Quantocracy’s Daily Wrap for 02/24/2016 
+Quantocracy	702517113106206721	2016-02-24T15:35:06	Quantocracy Thank you for the RT! You're on our required reading list.
+Quantocracy	702504180100046849	2016-02-24T14:43:43	A Quants Approach to Building Trading Strategies: Part Three [Quandl] 
+Quantocracy	702499973896781824	2016-02-24T14:27:00	Approach to Dividend Adjustment Factors calculation [QuantDare] 
+Quantocracy	702499972512620544	2016-02-24T14:26:59	Fast and simple vectorized backtesting using Python, pandas [Talaikis] 
+Quantocracy	702382777535209472	2016-02-24T06:41:18	Quantocracy’s Daily Wrap for 02/23/2016 
+Quantocracy	702158645103091712	2016-02-23T15:50:41	Build Better Strategies! Part 3: The Development Process [Financial Hacker] 
+Quantocracy	702158644121575424	2016-02-23T15:50:40	Yes, You Can Time the Market. How it Works, And Why [JonathanKinlay] 
+Quantocracy	702020358837288960	2016-02-23T06:41:11	Quantocracy’s Daily Wrap for 02/22/2016 
+Quantocracy	701982744092364800	2016-02-23T04:11:43	quantatrisk TY sir.
+Quantocracy	701950880963293185	2016-02-23T02:05:06	New Book from GestaltU: Adaptive Asset Allocation: Dynamic Global Portfolios to Profit in… 
+Quantocracy	701816343218114560	2016-02-22T17:10:29	Volatility Futures and S&amp;P500 Performance [BlueSkyAssetMgt] 
+Quantocracy	701812556000841729	2016-02-22T16:55:27	Alpha is not a risk management technique [ThinkNewfound] 
+Quantocracy	701811085641277441	2016-02-22T16:49:36	TuringFinance quandl investingidiocy alphaarchitect thinknewfound Good to be back. P.S. Amazing work on your latest post.
+Quantocracy	701809739257110529	2016-02-22T16:44:15	The Best Links While I Was Away:   With TuringFinance, Quandl, InvestingIdiocy, AlphaArchitect and ThinkNewfound
+Quantocracy	701797631052402688	2016-02-22T15:56:08	Advanced Trading Infrastructure - Portfolio Class [MHallsMoore] 
+Quantocracy	701795236293517312	2016-02-22T15:46:37	Choosing your risk [QuantsPortal] 
+Quantocracy	701655203137855488	2016-02-22T06:30:11	Quantocracy’s Daily Wrap for 02/21/2016 
+Quantocracy	701640856718221312	2016-02-22T05:33:10	The Best Links While I Was Away 
+Quantocracy	701630035250298881	2016-02-22T04:50:10	In Search of the Perfect Recession Indicator [Jesse_Livermore] 
+Quantocracy	701301618080399360	2016-02-21T07:05:09	Genotick and UPRO [Throwing Good Money] 
+Quantocracy	701293952939515905	2016-02-21T06:34:42	Quantocracy’s Daily Wrap for 02/20/2016 
+Quantocracy	701127971260776449	2016-02-20T19:35:09	A simple statistical edge in SPY [Trading with Python] 
+Quantocracy	701124195846135811	2016-02-20T19:20:09	Technologies Screening -III- [Algorythmn Trader] 
+Quantocracy	701120419974217728	2016-02-20T19:05:08	Chasing Returns and Avoiding "Spaghetti against the Wall Fund Companies" [AlphaArchitect] 
+Quantocracy	701116639127932928	2016-02-20T18:50:07	Using Heavy-Tailed Distributions with TASI: Student t Distribution [Bayan Analytics] 
+Quantocracy	700930116159983616	2016-02-20T06:28:57	Quantocracy’s Daily Wrap for 02/19/2016 
+Quantocracy	700758154951401472	2016-02-19T19:05:38	Modeling What If? Scenarios With Impulse Response Simulations [JPicerno] 
+Quantocracy	700754306610438144	2016-02-19T18:50:20	Why You Should Hope for a Bear Market [ThinkNewfound] 
+Quantocracy	700750488241885185	2016-02-19T18:35:10	15 years of forex and CFDs tick data to MongoDB using Python. Part Three [Talaikis] 
+Quantocracy	700746734390087680	2016-02-19T18:20:15	Will You Be a Gambler or the House In the Stock Market? [Millennial_Inv] 
+Quantocracy	700742995398754304	2016-02-19T18:05:23	An Interesting Cross-Asset Class Analysis of Risk Premiums [Quantpedia] 
+Quantocracy	700739210085580801	2016-02-19T17:50:21	Dont Buy Winners [LarrySwedroe] 
+Quantocracy	700568110764531712	2016-02-19T06:30:28	Quantocracy’s Daily Wrap for 02/18/2016 
+Quantocracy	700414640061353986	2016-02-18T20:20:37	A Quant's Approach to Building Trading Strategies: Part Two [Quandl] 
+Quantocracy	700411130930397185	2016-02-18T20:06:41	Are Low-Volatility Stocks Expensive? [QuantDare] 
+Quantocracy	700407135952306176	2016-02-18T19:50:48	What's All The Fuss About [Systematic Relative Strength] 
+Quantocracy	700234407806947328	2016-02-18T08:24:27	Low Volatility vs. High Volatility Days [Throwing Good Money] 
+Quantocracy	700230972319649792	2016-02-18T08:10:48	Make Volatility Your Friend (By Limiting Downside Volatility) [EconomPic] 
+Quantocracy	700226391976054784	2016-02-18T07:52:36	New R/MATLAB Package Released: High Frequency Price Estimators &amp; Models [Portfolio Effect] 
+Quantocracy	700206115003490304	2016-02-18T06:32:01	Quantocracy’s Daily Wrap for 02/17/2016 
+Quantocracy	699841815063740417	2016-02-17T06:24:25	Quantocracy’s Daily Wrap for 02/16/2016 
+Quantocracy	699674816664707073	2016-02-16T19:20:50	New Book Added: Unholy Grails: A New Road to Wealth [Amazon] 
+Quantocracy	699671349976031232	2016-02-16T19:07:03	Active strategies are an allocation, not a trade [ThinkNewfound] 
+Quantocracy	699667113229819905	2016-02-16T18:50:13	Trading strategies: No need for the holy grail [Predictive Alpha] 
+Quantocracy	699664004743036928	2016-02-16T18:37:52	Intra-day data from Quandl and a new tick database in town party time! [Mintegration] 
+Quantocracy	699592091098288128	2016-02-16T13:52:06	Top Python Libraries for Automated Trading [QuantInsti] 
+Quantocracy	699484983216447489	2016-02-16T06:46:30	Quantocracy’s Daily Wrap for 02/15/2016 
+Quantocracy	699312262977298432	2016-02-15T19:20:10	Multivariate volatility forecasting, part 6 - sparse estimation [Eran Raviv] 
+Quantocracy	699308608694124544	2016-02-15T19:05:39	Statistical Analysis For Exits [Swansjr] 
+Quantocracy	699304740946079744	2016-02-15T18:50:17	A Third Way: Multi-Factor Investing Evolves (h/t AbnormalReturns) [GersteinFisher] 
+Quantocracy	699300942571835392	2016-02-15T18:35:11	15 years of forex and CFDs tick data to MongoDB using Python. Part Two [Talaikis] 
+Quantocracy	699297160345604096	2016-02-15T18:20:09	You don't need to be a scientist to build a backtesting algotrading system in Python… 
+Quantocracy	699121230192975872	2016-02-15T06:41:04	Quantocracy’s Daily Wrap for 02/14/2016 
+Quantocracy	698946087416156162	2016-02-14T19:05:07	Volatility and Bollinger Bands [Quintuitive] 
+Quantocracy	698942322717937665	2016-02-14T18:50:10	15 years of forex tick data to MongoDB using Python. Part One [Talaikis] 
+Quantocracy	698760261092691969	2016-02-14T06:46:43	Quantocracy’s Daily Wrap for 02/13/2016 
+Quantocracy	698393473771241472	2016-02-13T06:29:14	Quantocracy’s Daily Wrap for 02/12/2016 
+Quantocracy	698192140975865856	2016-02-12T17:09:12	Its All About Messages -I- [Algorythmn Trader] 
+Quantocracy	698192132478234624	2016-02-12T17:09:10	Speculation in a Path Dependent World [Largecap Trader] 
+Quantocracy	698185342218858496	2016-02-12T16:42:11	More Small-Cap Quirks [LarrySwedroe] 
+Quantocracy	698185341581271040	2016-02-12T16:42:11	Using Heavy-Tailed Distributions with TASI: Pareto Distribution [Bayan Analytics] 
+Quantocracy	698176052259119104	2016-02-12T16:05:16	An Examination of The Turn-of-the-Month-Effect [Quantpedia] 
+Quantocracy	698034234934620160	2016-02-12T06:41:45	Quantocracy’s Daily Wrap for 02/11/2016 
+Quantocracy	697848759271739395	2016-02-11T18:24:44	Dual Momentum on Individual Stocks. Wow. [AlphaArchitect] 
+Quantocracy	697844721637523457	2016-02-11T18:08:41	A Quant's Approach to Building Trading Strategies: Part One [Quandl] 
+Quantocracy	697668726112571392	2016-02-11T06:29:21	Quantocracy’s Daily Wrap for 02/10/2016 
+Quantocracy	697632436860162048	2016-02-11T04:05:08	Avoiding Bear Markets to Improve Risk-Adjusted Returns [EconomPic] 
+Quantocracy	697628650011811840	2016-02-11T03:50:06	How do stop-loss orders affect trading strategy performance? [TuckerBalch] 
+Quantocracy	697624885091241984	2016-02-11T03:35:08	Get Shorty (again, research, not the movie) [Throwing Good Money] 
+Quantocracy	697621105910157313	2016-02-11T03:20:07	Babel - Chapter 15 First Draft - JavaScript for Financial Analysts [mmport80] 
+Quantocracy	697474423956316160	2016-02-10T17:37:15	Predict returns using historical patterns [QuantDare] 
+Quantocracy	697472701322104833	2016-02-10T17:30:25	Double 7's Strategy [AlvarezQuant] 
+Quantocracy	697472700046901248	2016-02-10T17:30:24	Relative Strength Sector Rotation Using ETFs [Backtest Wizard] 
+Quantocracy	697306787171672064	2016-02-10T06:31:08	Quantocracy’s Daily Wrap for 02/09/2016 
+Quantocracy	697122864546344961	2016-02-09T18:20:17	Are markets getting faster? [ThinkNewfound] 
+Quantocracy	697119198917627904	2016-02-09T18:05:43	History (hst) files to MongoDB using Python [Talaikis] 
+Quantocracy	696945717798137862	2016-02-09T06:36:22	Quantocracy’s Daily Wrap for 02/08/2016 
+Quantocracy	696772046555082752	2016-02-08T19:06:15	Stock Market Prices Do Not Follow Random Walks [TuringFinance] 
+Quantocracy	696767985206370304	2016-02-08T18:50:07	God, Buffett, and the Three Oenophiles [ThinkNewfound] 
+Quantocracy	696764219212046337	2016-02-08T18:35:09	Does Academic Research Destroy Stock Return Predictability? (h/t AbnormalReturns) 
+Quantocracy	696586867978977280	2016-02-08T06:50:25	Quantocracy’s Daily Wrap for 02/07/2016 
+Quantocracy	696443346697515008	2016-02-07T21:20:07	Architecture -II- [Algorythmn Trader] 
+Quantocracy	696439573174472710	2016-02-07T21:05:08	Data Mining vs Out of Sample Data [Throwing Good Money] 
+Quantocracy	696435799232004096	2016-02-07T20:50:08	Profit Margins - Are they Predicting a Crash? [JonathanKinlay] 
+Quantocracy	696432024157028352	2016-02-07T20:35:08	Interview with Murray Ruggiero [BetterSysTrader] 
+Quantocracy	696231963485720576	2016-02-07T07:20:10	Managing Risk in Retirement: Part II [BlueSkyAssetMgt] 
+Quantocracy	696228210124701696	2016-02-07T07:05:15	Quant Hunt: Ignore Tick-Box Companies [QuantatRisk] 
+Quantocracy	696224430394052608	2016-02-07T06:50:14	C# Historical Dividend retrieval [Smile_of_Thales] 
+Quantocracy	696220645143801856	2016-02-07T06:35:11	Stocks That Triple In One Year [Millennial_Inv] 
+Quantocracy	696220324824752128	2016-02-07T06:33:55	Quantocracy’s Daily Wrap for 02/06/2016 
+Quantocracy	695855871562280960	2016-02-06T06:25:42	Quantocracy’s Daily Wrap for 02/05/2016 
+Quantocracy	695824263547392001	2016-02-06T04:20:06	Autocorrelation of SPY, and the Redneck Correlogram [Throwing Good Money] 
+Quantocracy	695820494550011905	2016-02-06T04:05:08	Loosening Short Sale Constraints Makes Markets More Efficient [AlphaArchitect] 
+Quantocracy	695816721547010048	2016-02-06T03:50:08	When Risk Doesnt Lead To Return [LarrySwedroe] 
+Quantocracy	695812968441839616	2016-02-06T03:35:13	Replicating Private Equity [Quantpedia] 
+Quantocracy	695493324501868545	2016-02-05T06:25:04	Quantocracy’s Daily Wrap for 02/04/2016 
+Quantocracy	695476992020447232	2016-02-05T05:20:10	Fitting time series models to the forex market: are ARIMA/GARCH predictions profitable… 
+Quantocracy	695473219487338497	2016-02-05T05:05:11	Navigating Active Asset Allocation When Diversification Fails [GestaltU] 
+Quantocracy	695469436464029696	2016-02-05T04:50:09	Does my Tail Look Fat in This? Part 2 [Cantab Capital] 
+Quantocracy	695465642913370112	2016-02-05T04:35:05	MythBusters: Oil Driving Stocks More Than Ever? [ThinkNewfound] 
+Quantocracy	695461878731055105	2016-02-05T04:20:07	State of Trend Following in January [JezLiberty] 
+Quantocracy	695458109737799680	2016-02-05T04:05:09	The Strong Historical Tendency for the Feb Employment Report [InvestiQuant] 
+Quantocracy	695131872008015872	2016-02-04T06:28:47	Quantocracy’s Daily Wrap for 02/03/2016 
+Quantocracy	694956238422073345	2016-02-03T18:50:53	Fama French Multifactor Model in Python [Largecap Trader] 
+Quantocracy	694952831900651520	2016-02-03T18:37:21	Dream team: Combining classifiers [QuantDare] 
+Quantocracy	694948544428523521	2016-02-03T18:20:19	Trend Following: Good Start to 2016 [WisdomTrading] 
+Quantocracy	694946454541070337	2016-02-03T18:12:00	SPX Straddle - Normalized Return Charts [DTRTrading] 
+Quantocracy	694772746958540800	2016-02-03T06:41:45	Quantocracy’s Daily Wrap for 02/02/2016 
+Quantocracy	694643035938930688	2016-02-02T22:06:20	The Big Short (Research, Not the Movie) [Throwing Good Money] 
+Quantocracy	694565940399312896	2016-02-02T16:59:59	Even God Would Get Fired as an Active Investor [AlphaArchitect] 
+Quantocracy	694558783352217600	2016-02-02T16:31:32	Architecture I [Algorythmn Trader] 
+Quantocracy	694554228623306756	2016-02-02T16:13:26	Securities Master System Explained [QuantInsti] 
+Quantocracy	694549595670605826	2016-02-02T15:55:02	Long-Term Implications of Last Weeks Breadth Thrust [QuantEdges] 
+Quantocracy	694549594898829312	2016-02-02T15:55:02	Monte Carlo as SPX price forecaster using Python [Talaikis] 
+Quantocracy	694412295158497280	2016-02-02T06:49:27	Quantocracy’s Daily Wrap for 02/01/2016 
+Quantocracy	694227663389487104	2016-02-01T18:35:47	Best Links of the Week:  MHallsMoore DualMomentum QuantInsti InvestingIdiocy ThinkNewfound and BetterSysTrader
+Quantocracy	694191772545736704	2016-02-01T16:13:10	The three oenophiles [ThinkNewfound] 
+Quantocracy	694046092883677184	2016-02-01T06:34:17	Quantocracy’s Daily Wrap for 01/31/2016 
+Quantocracy	694046092061753344	2016-02-01T06:34:17	Best Links of the Last Two Weeks 
+Quantocracy	693850016079843328	2016-01-31T17:35:09	Monte Carlo for binary options, all odds for the house [Talaikis] 
+Quantocracy	693846249620017152	2016-01-31T17:20:11	Easy Mean/Median Quantile Creation (Python Code) [Throwing Good Money] 
+Quantocracy	693842519206006784	2016-01-31T17:05:22	Immutability - Chapter 14 - Javascript for Financial Analysts [mmport80] 
+Quantocracy	693681418979770369	2016-01-31T06:25:12	Quantocracy’s Daily Wrap for 01/30/2016 
+Quantocracy	693324749712289792	2016-01-30T06:47:56	Quantocracy’s Daily Wrap for 01/29/2016 
+Quantocracy	693153078686646273	2016-01-29T19:25:46	Peak Crashes: Are They a Shortable Opportunity? [Throwing Good Money] 
+Quantocracy	693107192757665793	2016-01-29T16:23:26	Computers vs Humans - considering the median [InvestingIdiocy] 
+Quantocracy	693107184276758529	2016-01-29T16:23:24	Correlations, Weights, Multipliers.... (pysystemtrade) [InvestingIdiocy] 
+Quantocracy	693101330039226369	2016-01-29T16:00:08	The most concise explanation of behavioral finance I've ever seen [AlphaArchitect] 
+Quantocracy	693101329191817216	2016-01-29T16:00:08	Latest Twist In The Stock Markets Wild 2016 Ride [JLyonsFundMgmt] 
+Quantocracy	692959392334008321	2016-01-29T06:36:08	Quantocracy’s Daily Wrap for 01/28/2016 
+Quantocracy	692947892068335616	2016-01-29T05:50:26	Fitted Students T-distribution for Monte Carlo advantage simulation using Python [Talaikis] 
+Quantocracy	692944041143615489	2016-01-29T05:35:08	FX Liquidity Risk and Carry Trade Returns [Quantpedia] 
+Quantocracy	692683757296427009	2016-01-28T12:20:51	Kaggle Winton Stock Market Challenge - Post-Mortem [Intelligent Trading Tech] 
+Quantocracy	692594781197856768	2016-01-28T06:27:18	Quantocracy’s Daily Wrap for 01/27/2016 
+Quantocracy	692555240747442178	2016-01-28T03:50:11	The Case For High Volatility Strategies [EconomPic] 
+Quantocracy	692551450480762880	2016-01-28T03:35:07	How Does Analyst Optimism Affect Momentum Strategies? [AlphaArchitect] 
+Quantocracy	692547691293863943	2016-01-28T03:20:11	The Internal Bar Strength Indicator [Backtest Wizard] 
+Quantocracy	692360560432791556	2016-01-27T14:56:35	Technologies Screening II [Algorythmn Trader] 
+Quantocracy	692360559841427456	2016-01-27T14:56:35	7 Best Backtesting Platforms for Quantitative Trading [QuantInsti] 
+Quantocracy	692360559086473216	2016-01-27T14:56:35	'Tis the Season for Bold Prediction [GestaltU] 
+Quantocracy	692238079382388738	2016-01-27T06:49:53	Quantocracy’s Daily Wrap for 01/26/2016 
+Quantocracy	692014142815891456	2016-01-26T16:00:03	Random portfolios: correlation clustering [Predictive Alpha] 
+Quantocracy	692014141997989888	2016-01-26T16:00:03	Breadth Diffusion Predicts a Bounce? [Throwing Good Money] 
+Quantocracy	692014013421608960	2016-01-26T15:59:32	Linear regression assumes nothing about your data [Eran Raviv] 
+Quantocracy	691991498506792961	2016-01-26T14:30:04	Are Stocks Cheap? Checking in on Current Valuations [EconomPic] 
+Quantocracy	691991491254865921	2016-01-26T14:30:02	RUT Straddle - Normalized Return Charts [DTRTrading] 
+Quantocracy	691870615725293568	2016-01-26T06:29:43	Quantocracy’s Daily Wrap for 01/25/2016 
+Quantocracy	691697515171856384	2016-01-25T19:01:53	Following Opportunistic insiders Earns over 1% Monthly Alpha [AlphaArchitect] 
+Quantocracy	691697506963435521	2016-01-25T19:01:51	Dissecting a trend following strategy in 2015 [ThinkNewfound] 
+Quantocracy	691645836405637120	2016-01-25T15:36:32	Advanced Trading Infrastructure - Position Class [MHallsMoore] 
+Quantocracy	691506218637119492	2016-01-25T06:21:44	Quantocracy’s Daily Wrap for 01/24/2016 
+Quantocracy	691446401486684161	2016-01-25T02:24:03	Why Is Momentum Neglected? [DualMomentum] 
+Quantocracy	691316601027698689	2016-01-24T17:48:16	Collaboration in Trading with Michael Cook and Kevin Davey [BetterSysTrader] 
+Quantocracy	691316600394379264	2016-01-24T17:48:16	Why is Tradelib in Java? [Quintuitive] 
+Quantocracy	691295494212050946	2016-01-24T16:24:24	Monte Carlo simulation for information advantage testing using Python [Talaikis] 
+Quantocracy	691147457066049537	2016-01-24T06:36:09	Quantocracy’s Daily Wrap for 01/23/2016 
+Quantocracy	691104944636739584	2016-01-24T03:47:13	The Few Rule the Many Power Laws in Market Returns [Millennial_Inv] 
+Quantocracy	690967899062804481	2016-01-23T18:42:39	[Academic Paper] Using Financial Reports to Predict Stock Market Trends With Machine… 
+Quantocracy	690786282222571521	2016-01-23T06:40:58	Quantocracy’s Daily Wrap for 01/22/2016 
+Quantocracy	690604659665457153	2016-01-22T18:39:16	Getting Started with Markov Chains: Part 2 [RevoDavid] 
+Quantocracy	690604643026636803	2016-01-22T18:39:12	Testing the Cumulative RSI(2) on Index ETFs [Backtest Wizard] 
+Quantocracy	690482365525856256	2016-01-22T10:33:19	The Current and Changing relationship between Oil and the U.S. Dollar [Kyle_Balkissoon] 
+Quantocracy	690482364888268801	2016-01-22T10:33:18	Returns distribution finder with Python and scipy [Talaikis] 
+Quantocracy	690464056763904000	2016-01-22T09:20:33	Supercomputing Frontiers 2016 [QuantatRisk] 
+Quantocracy	690464056130564096	2016-01-22T09:20:33	Correlation Between Oil and GCC Banks and Financial Services [Bayan Analytics] 
+Quantocracy	690464047586791424	2016-01-22T09:20:31	Refactored Denoising Autoencoder Code Update [Dekalog Blog] 
+Quantocracy	690418796822204417	2016-01-22T06:20:43	Quantocracy’s Daily Wrap for 01/21/2016 
+Quantocracy	690242263486574592	2016-01-21T18:39:14	Is Price Momentum a Brother From Another Mother? [AlphaArchitect] 
+Quantocracy	690242262069047296	2016-01-21T18:39:14	How well does the "January barometer" work? [Mathematical Investor] 
+Quantocracy	690242261431513088	2016-01-21T18:39:13	Exploring Shillers P/E 10 and other components to S&amp;P 500 returns [Talaikis] 
+Quantocracy	690057966867865600	2016-01-21T06:26:54	Quantocracy’s Daily Wrap for 01/20/2016 
+Quantocracy	689864921849401344	2016-01-20T17:39:49	Numerical Analysis - JavaScript for Financial Analysts - Chapter 13 [mmport80] 
+Quantocracy	689859510056267776	2016-01-20T17:18:18	Bootstrapping avoids seductive backtest results [Predictive Alpha] 
+Quantocracy	689859509142028290	2016-01-20T17:18:18	The Betting Against Beta Anomaly: Fact or Fiction? [Quantpedia] 
+Quantocracy	689827235939876864	2016-01-20T15:10:04	A Few Notes on DIY Financial Advisor (AlphaArchitect) [CXOAdvisory] 
+Quantocracy	689827228188872704	2016-01-20T15:10:02	Quantitative Trading Strategy Using R: A Step by Step Guide [QuantInsti] 
+Quantocracy	689827227568115717	2016-01-20T15:10:02	Stock Correction Sets Lowly Record [JLyonsFundMgmt] 
+Quantocracy	689694538210783232	2016-01-20T06:22:46	Quantocracy’s Daily Wrap for 01/19/2016 
+Quantocracy	689663250548527104	2016-01-20T04:18:26	Rolling Value at Risk (VaR) with Python [Talaikis] 
+Quantocracy	689644190360342529	2016-01-20T03:02:42	RUT Straddle - Backtest Results Summary - Part 2 [DTRTrading] 
+Quantocracy	689343060782743552	2016-01-19T07:06:07	pysystemtrader: Estimated forecast scalars [InvestingIdiocy] 
+Quantocracy	689333736547155969	2016-01-19T06:29:04	Quantocracy’s Daily Wrap for 01/18/2016 
+Quantocracy	689140551547920384	2016-01-18T17:41:25	Best Links of the Week:   With ThinkNewfound, QuantStratTradR, ChatWithTraders, BlueSkyAssetMgt and QuantAtRisk
+Quantocracy	689113099048239105	2016-01-18T15:52:20	Growth and Trend: A Simple, Powerful Technique for Timing the Stock Market [Jesse_Livermore] 
+Quantocracy	689099395703422976	2016-01-18T14:57:53	seouldan QuantInsti we should incl QuantsPortal (the paper's author) as well.
+Quantocracy	689090562163666944	2016-01-18T14:22:47	Automated Trading: Order Management System [QuantInsti] 
+Quantocracy	688971926170017794	2016-01-18T06:31:22	Quantocracy’s Daily Wrap for 01/17/2016 
+Quantocracy	688931345427513344	2016-01-18T03:50:07	Curse of dimensionality part 1: Value at Risk [Eran Raviv] 
+Quantocracy	688724310970789888	2016-01-17T14:07:26	Podcast: Algorithmic Forecasting with Larry Williams [BetterSysTrader] 
+Quantocracy	688719981937340418	2016-01-17T13:50:14	Strategists: full of bull [Statistical Ideas] 
+Quantocracy	688640750897262593	2016-01-17T08:35:23	Comparing the distribution of TASI vs other GCC Markets [Bayan Analytics] 
+Quantocracy	688636941122711552	2016-01-17T08:20:15	Creating Calendars for Future's Expiration [Quintuitive] 
+Quantocracy	688625276784369664	2016-01-17T07:33:54	Best Links of the Week 
+Quantocracy	688608651620175872	2016-01-17T06:27:50	Quantocracy’s Daily Wrap for 01/16/2016 
+Quantocracy	688246550808498176	2016-01-16T06:28:59	Quantocracy’s Daily Wrap for 01/15/2016 
+Quantocracy	687955425166258177	2016-01-15T11:12:09	New Book Added from QuantAtRisk: Python for Quants [Amazon] 
+Quantocracy	687884752683188224	2016-01-15T06:31:19	Quantocracy’s Daily Wrap for 01/14/2016 
+Quantocracy	687704695150899200	2016-01-14T18:35:50	Value Investing: Accruals, Cash Flows, and Operating Profitability [AlphaArchitect] 
+Quantocracy	687700780464377858	2016-01-14T18:20:17	New Data Sources for R [RevoDavid] 
+Quantocracy	687697111878508545	2016-01-14T18:05:42	Panic Selling, a Pause, Then Another Smash... [DonFishback] 
+Quantocracy	687693218457190400	2016-01-14T17:50:14	Complacent Correction Cause For Concern? [JLyonsFundMgmt] 
+Quantocracy	687670249504780288	2016-01-14T16:18:58	Noise Kills Profits (Machine Learning with Genotick) [Throwing Good Money] 
+Quantocracy	687670248934346752	2016-01-14T16:18:58	A Multiples-Based Decomposition of the Value Premium [Quantpedia] 
+Quantocracy	687526095017631744	2016-01-14T06:46:09	Quantocracy’s Daily Wrap for 01/13/2016 
+Quantocracy	687311181158182912	2016-01-13T16:32:09	On The Relationship Between the SMA and Momentum [QuantStratTradR] 
+Quantocracy	687306079794016258	2016-01-13T16:11:53	Could the Stochastic Oscillator be a good way to earn money? [QuantDare] 
+Quantocracy	687304299441971200	2016-01-13T16:04:49	RUT Straddle - Backtest Results Summary [DTRTrading] 
+Quantocracy	687304291472773120	2016-01-13T16:04:47	Does Science Advance One Funeral at a Time? [AlphaArchitect] 
+Quantocracy	687164470200676352	2016-01-13T06:49:11	Quantocracy’s Daily Wrap for 01/12/2016 
+Quantocracy	687157179124740097	2016-01-13T06:20:12	Tactical Alpha Part III - Asset Allocation - Security Selection [GestaltU] 
+Quantocracy	687096743008288768	2016-01-13T02:20:03	Automated Trading System Architecture Explained [QuantInsti] 
+Quantocracy	687092988217024512	2016-01-13T02:05:08	Import for multiple financial data series from Quandl to MySQL database using Python… 
+Quantocracy	687089223376199681	2016-01-13T01:50:11	Portfolio Analysis in R: Part VI | Risk-Contribution Analysis [JPicerno] 
+Quantocracy	687085420417552384	2016-01-13T01:35:04	Whats Next For Stocks After Record New Year Week 1 Hangover [JLyonsFundMgmt] 
+Quantocracy	686802296714346496	2016-01-12T06:50:02	Quantocracy’s Daily Wrap for 01/11/2016 
+Quantocracy	686760814691401728	2016-01-12T04:05:12	Monthly Commentary: December 2015 [BlueSkyAssetMgt] 
+Quantocracy	686757012080869376	2016-01-12T03:50:05	Time series analysis with descriptive statistics using Python [Talaikis] 
+Quantocracy	686594663722004481	2016-01-11T17:04:58	Best Links of the Week:   Robot Wealth, Fin Hacker, QuantInsti, and MebFaber
+Quantocracy	686593886962216960	2016-01-11T17:01:53	If you're going to sin, sin systematically [ThinkNewfound] 
+Quantocracy	686580513453281280	2016-01-11T16:08:45	Factor-based equity investing: is the magic gone? [Predictive Alpha] 
+Quantocracy	686580512681410560	2016-01-11T16:08:44	Repeated Hard Selling At Intermediate-Term Lows [QuantEdges] 
+Quantocracy	686438128660287488	2016-01-11T06:42:57	Quantocracy’s Daily Wrap for 01/10/2016 
+Quantocracy	686406659590230016	2016-01-11T04:37:55	Best Links of the Week 
+Quantocracy	686390844316844032	2016-01-11T03:35:04	Give me good data, or give me death [Quantum Financier] 
+Quantocracy	686218028674101249	2016-01-10T16:08:22	Interview with Michael Cook [BetterSysTrader] 
+Quantocracy	686077559927386113	2016-01-10T06:50:11	Quantocracy’s Daily Wrap for 01/09/2016 
+Quantocracy	685775618840117248	2016-01-09T10:50:23	Components of a black box, humans versus computers, and high frequency trading w… 
+Quantocracy	685771960069021698	2016-01-09T10:35:50	RSI(2)?25 X6! [Throwing Good Money] 
+Quantocracy	685712339904102400	2016-01-09T06:38:56	Quantocracy’s Daily Wrap for 01/08/2016 
+Quantocracy	685529631068258306	2016-01-08T18:32:55	geniuslink hella'awesome customer service. Thanks for the proactive troubleshooting. Consider me impressed.
+Quantocracy	685503781736452096	2016-01-08T16:50:12	Interest Rates, Tax-Selling, and Stock Return Seasonality [AlphaArchitect] 
+Quantocracy	685501527021191168	2016-01-08T16:41:14	Employment Night Hot Streak Gone Cold [InvestiQuant] 
+Quantocracy	685351318148497408	2016-01-08T06:44:22	Quantocracy’s Daily Wrap for 01/07/2016 
+Quantocracy	685148119399452673	2016-01-07T17:16:55	experquisite Georiot (or more specifically, ) are pretty common fare. Surprised to see them blocked.
+Quantocracy	685143728374218753	2016-01-07T16:59:28	New Book from MebFaber: Invest With The House: Hacking The Top Hedge Funds [Amazon] 
+Quantocracy	685141437936177152	2016-01-07T16:50:22	New Book from Meb Faber: Invest With The House: Hacking The Top Hedge Funds [Amazon] 
+Quantocracy	685140355306622976	2016-01-07T16:46:04	Augmented Dickey Fuller (ADF) Test for a Pairs Trading Strategy [QuantInsti] 
+Quantocracy	685140342761455621	2016-01-07T16:46:01	Streaming OANDA with python and ZeroMQ [Dizzy_Pete] 
+Quantocracy	684985379737305089	2016-01-07T06:30:15	Quantocracy’s Daily Wrap for 01/06/2016 
+Quantocracy	684786528346845184	2016-01-06T17:20:05	Genotick and the Dirty Sine (Machine Learning) [Throwing Good Money] 
+Quantocracy	684782757793382401	2016-01-06T17:05:06	Using Stops: The Good, The Bad and The Ugly [AlvarezQuant] 
+Quantocracy	684673775602954240	2016-01-06T09:52:03	Technologies Screening I [Algorythmn Trader] 
+Quantocracy	684626302461161472	2016-01-06T06:43:24	Quantocracy’s Daily Wrap for 01/05/2016 
+Quantocracy	684578911850737665	2016-01-06T03:35:06	Daily Academic Alpha: Value and Momentum in Vietnam [AlphaArchitect] 
+Quantocracy	684575136503205891	2016-01-06T03:20:05	Are Size and Book-Value Factors Really Significant? [Quantpedia] 
+Quantocracy	684571401521463297	2016-01-06T03:05:15	[Academic Paper] Positive Skewness, Anti-leverage, Reverse Volatility Asymmetry, Short Sale… 
+Quantocracy	684258558540517376	2016-01-05T06:22:07	Quantocracy’s Daily Wrap for 01/04/2016 
+Quantocracy	684208969724854272	2016-01-05T03:05:05	The Cost of Protection [ThinkNewfound] 
+Quantocracy	684205195031646209	2016-01-05T02:50:05	Divide By 20: Beating The Market By Chopping It Up [Throwing Good Money] 
+Quantocracy	684201419084271616	2016-01-05T02:35:04	day 1: monumental destruction [Statistical Ideas] 
+Quantocracy	684197643963265024	2016-01-05T02:20:04	December Trend Following DOWN, UP in 2015 [WisdomTrading] 
+Quantocracy	684062646308478976	2016-01-04T17:23:38	Best Links of the Week:  Millennial_Inv, MHallsMoore, Jesse_Livermore and BetterSysTrader
+Quantocracy	684054395521208320	2016-01-04T16:50:51	Dear Brokers... [Financial Hacker] 
+Quantocracy	684051140821004290	2016-01-04T16:37:55	A Win for Socially Responsible Investing: Rethinking Sin Stocks [AlphaArchitect] 
+Quantocracy	684051132394684416	2016-01-04T16:37:53	The Bullish News About The End-Of-Quarter Selloff [QuantEdges] 
+Quantocracy	684019381349793792	2016-01-04T14:31:43	Quant Strategies: From Idea to Execution in Python [QuantInsti] 
+Quantocracy	684013930235170816	2016-01-04T14:10:03	State of Trend Following in December [JezLiberty] 
+Quantocracy	684010984936202240	2016-01-04T13:58:21	The Truth About Credit Premiums [LarrySwedroe] 
+Quantocracy	684006268810452992	2016-01-04T13:39:37	Most popular posts 2015 [Eran Raviv] 
+Quantocracy	684003298043670528	2016-01-04T13:27:49	Top Five Most Popular Articles From 2015 [Swansjr] 
+Quantocracy	683930471873572864	2016-01-04T08:38:25	Best Links of the Week 
+Quantocracy	683914700015464448	2016-01-04T07:35:45	Object oriented VBA swaption pricing, part 2 [Smile_of_Thales] 
+Quantocracy	683897069254406144	2016-01-04T06:25:42	Quantocracy’s Daily Wrap for 01/03/2016 
+Quantocracy	683540807756951552	2016-01-03T06:50:02	Exploring mean reversion and cointegration: part 2 [Robot Wealth] 
+Quantocracy	683535060277047297	2016-01-03T06:27:12	Quantocracy’s Daily Wrap for 01/02/2016 
+Quantocracy	683504052601131008	2016-01-03T04:23:59	Jesse_Livermore NP. Happy to promote the work of the good guys.
+Quantocracy	683284124392669186	2016-01-02T13:50:04	Trend Following In Financial Markets: A Comprehensive Backtest [Jesse_Livermore] 
+Quantocracy	683280463868329984	2016-01-02T13:35:31	VIX Trading Strategies in November &amp; December [Volatility Made Simple] 
+Quantocracy	683276640605048832	2016-01-02T13:20:20	Ivy Portfolio January Update [ScottsInvest] 
+Quantocracy	683176112772517888	2016-01-02T06:40:52	Quantocracy’s Daily Wrap for 01/01/2016 
+Quantocracy	682815536443555840	2016-01-01T06:48:04	Quantocracy’s Daily Wrap for 12/31/2015 
+Quantocracy	682612255935062016	2015-12-31T17:20:18	Recherche market statistics [Statistical Ideas] 
+Quantocracy	682446365247537153	2015-12-31T06:21:07	Quantocracy’s Daily Wrap for 12/30/2015 
+Quantocracy	682221886957293568	2015-12-30T15:29:07	Towards a better equity benchmark: random portfolios [Predictive Alpha] 
+Quantocracy	682217774698098688	2015-12-30T15:12:47	Strong Rally Days Between Christmas &amp; New Years [QuantEdges] 
+Quantocracy	682086891479527424	2015-12-30T06:32:42	Quantocracy’s Daily Wrap for 12/29/2015 
+Quantocracy	682049747658653698	2015-12-30T04:05:06	Three Value Investors Meet in a Bar [Millennial_Inv] 
+Quantocracy	682045960751607808	2015-12-30T03:50:03	Tis the Season for strange effects in the stock market [AlphaArchitect] 
+Quantocracy	682042197034819585	2015-12-30T03:35:06	Upside and Downside Risks in Momentum Returns [Quantpedia] 
+Quantocracy	681871797936111616	2015-12-29T16:17:59	Great Academic Research is Bursting at the Seams [AlphaArchitect] 
+Quantocracy	681867317475545088	2015-12-29T16:00:11	Portfolio Analysis in R: Part V | Risk Analysis Via Factors [JPicerno] 
+Quantocracy	681723748093956096	2015-12-29T06:29:42	Quantocracy’s Daily Wrap for 12/28/2015 
+Quantocracy	681645821755023360	2015-12-29T01:20:02	State Space Models and the Kalman Filter [MHallsMoore] 
+Quantocracy	681642052396912641	2015-12-29T01:05:04	Our Favorite Commentaries from 2015 [ThinkNewfound] 
+Quantocracy	681502499644162048	2015-12-28T15:50:32	Best Links of the Week:   Fin Hacker, ThinkNewfound, Talaikis, and Macrofugue
+Quantocracy	681488403393867776	2015-12-28T14:54:31	Machine Learning and Mechanical Trading with Genotick [Throwing Good Money] 
+Quantocracy	681485037561360385	2015-12-28T14:41:08	Why Index Investing Wins [LarrySwedroe] 
+Quantocracy	681359654564265984	2015-12-28T06:22:55	Quantocracy’s Daily Wrap for 12/27/2015 
+Quantocracy	681336325484711938	2015-12-28T04:50:13	AlvarezQuant studies Stop Losses [BetterSysTrader] 
+Quantocracy	681079630086848512	2015-12-27T11:50:12	[Academic Paper] Measuring Tail Risks at High Frequency [Quantivity] 
+Quantocracy	681077308388720640	2015-12-27T11:40:58	Best Links of the Week 
+Quantocracy	681075858010947584	2015-12-27T11:35:12	[Academic Paper] Pairwise Correlations [Quantivity] 
+Quantocracy	681001195301945344	2015-12-27T06:38:32	Quantocracy’s Daily Wrap for 12/26/2015 
+Quantocracy	680639000579862528	2015-12-26T06:39:18	Quantocracy’s Daily Wrap for 12/25/2015 
+Quantocracy	680426759460925440	2015-12-25T16:35:55	Build Better Strategies! Part 2: Model-Based Systems [Financial Hacker] 

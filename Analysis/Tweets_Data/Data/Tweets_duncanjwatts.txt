@@ -1,0 +1,30 @@
+duncanjwatts	725676033056378880	2016-04-28T13:20:23	How to persuade rich people to pay more in taxes: remind them how lucky they are  via voxdotcom
+duncanjwatts	725371239393574913	2016-04-27T17:09:14	Great work by amt_shrma “How much traffic do recommender systems actually cause? ”
+duncanjwatts	722074547051110405	2016-04-18T14:49:22	Just out! How does team size relate with productivity in complex tasks? See:  w/duncanjwatts winteram mizzao
+duncanjwatts	722074022134083588	2016-04-18T14:47:17	New paper on collective problem solving in teams. 
+duncanjwatts	719522221547528192	2016-04-11T13:47:20	How to debunk plausible but wrong pop-social-science: check. Nice work cfchabris and Josh Hart 
+duncanjwatts	716993345768275969	2016-04-04T14:18:29	In case you missed this Friday afternoon: some new work from the MSR Computational Social Science group  
+duncanjwatts	716002151647080452	2016-04-01T20:39:50	I just published “The Organizational Spectroscope” 
+duncanjwatts	711923970770079744	2016-03-21T14:34:36	This is really a great thing that jakehofman and MSR colleagues do each year. Please disseminate widely! 
+duncanjwatts	704430405580009472	2016-02-29T22:17:51	Six Degrees of Connection 
+duncanjwatts	700376435794571264	2016-02-18T17:48:49	Also traces seminal &amp; inspiring work of icouzin martikagv duncanjwatts WittedNote stevenstrogatz DirkHelbing 
+duncanjwatts	700373808033767425	2016-02-18T17:38:22	kdnuggets Glad you enjoyed it and thanks for asking. Please do!
+duncanjwatts	697438938173214721	2016-02-10T15:16:15	Jonesieman some clarification of the 3.5 degrees result. 
+duncanjwatts	697419348714061825	2016-02-10T13:58:24	My two cents on the recent Facebook "3.5 degrees" finding. 
+duncanjwatts	695951522631438336	2016-02-06T12:45:47	Over your coffee this morning: The limits of prediction in complex social systems  duncanjwatts jakehofman
+duncanjwatts	695654045709660161	2016-02-05T17:03:43	zeynep NAChristakis barrywellman Did anyone make that argument?
+duncanjwatts	695619031307526148	2016-02-05T14:44:35	Jonesieman The Facebook number isn't comparable to Milgram's, which is for search paths not shortest paths. Apples and oranges
+duncanjwatts	695617718402355201	2016-02-05T14:39:22	zeynep NAChristakis barrywellman FB population is not the problem. They're just counting different things.
+duncanjwatts	695616435083677698	2016-02-05T14:34:16	mcarthur Apples vs. oranges. 3.5 is for *intermediaries* = 4.5 degrees. Also Milgram result is for search chains 
+duncanjwatts	695615703420903424	2016-02-05T14:31:22	mcarthur Apples vs. oranges. 3.5 is for *intermediaries* which is 4.5 degrees. Also Milgram result is for search chains, not shortest paths
+duncanjwatts	695039091071700992	2016-02-04T00:20:07	Exploring limits to prediction in complex social systems  duncanjwatts and coworkers
+duncanjwatts	692089560650510336	2016-01-26T20:59:44	Submission deadline for International Conference on Computational Social Science is Jan 31! 
+duncanjwatts	677872484197138432	2015-12-18T15:26:09	henryfarrell drops some science on the Weekly Standard 
+duncanjwatts	676527672332128256	2015-12-14T22:22:21	Really interesting and important work from my colleagues dggoldst and jakehofman 
+duncanjwatts	649932467349098496	2015-10-02T13:02:30	Join me this afternoon for Columbia History Lab panel on open data 
+duncanjwatts	646362320751296517	2015-09-22T16:36:00	Forget the Turing test – there are better ways of judging AI  newscientist
+duncanjwatts	643543912402059264	2015-09-14T21:56:39	Join DSI faculty, DARPA, duncanjwatts + others for a workshop on data and algorithms in graphing, Mon. Sept. 28: 
+duncanjwatts	641705903411081216	2015-09-09T20:13:04	Honored to see my paper with Mark Newman &amp; duncanjwatts -  - selected as a PRE Milestone: 
+duncanjwatts	637010635474268160	2015-08-27T21:15:45	Check out duncanjwatts advice for grad students &amp; ideas about the future of sociology &amp; computational social science 
+duncanjwatts	639813853971357696	2015-09-04T14:54:44	Exciting times – a social science telescope and other observations about the ICCSS conference 
+duncanjwatts	638785920490176512	2015-09-01T18:50:06	Wondering how to use twitter data to study protest events? Look to .cerenbudak and .duncanjwatts for inspiration. 

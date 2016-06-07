@@ -1,0 +1,510 @@
+NotifyNYC	726099023254409216	2016-04-29T17:21:12	BQE Exit 28 at CadmanPlazaWest will be FULLY closed 5/2-5/6 from 1-5AM. See attachment for detour. 
+NotifyNYC	725853790738501636	2016-04-29T01:06:44	.NYPDnews Due to law enforcement activity, expect traffic delays in the area of E 57th St and 5th Ave in Manhattan. Consider alt routes.
+NotifyNYC	725772651143241730	2016-04-28T19:44:18	HuntersPointAveBridge over DutchKills single lane closures on 5/3 &amp; 5/5 from 9AM-3PM. Work is weather-dependent. 
+NotifyNYC	725760969381675008	2016-04-28T18:57:53	Partial lane closures thru 5/28 on BQE btwn AtlanticAve &amp; SandsStreet during early mornings on Tuesdays-Sundays. 
+NotifyNYC	725761784561426433	2016-04-28T19:01:08	.nationalgridus Planned Work: Natural gas odor possible near E 108 St &amp; Flatlands Ave, BK, on 4/29 starting at 6AM. Emergencies: Call 911.
+NotifyNYC	725751559099920384	2016-04-28T18:20:30	QueensboroBridge partial lane closures from 10PM-5AM on Upper or Lower Roadways from 5/2-5/5, &amp; 12:01-7AM on 5/7. 
+NotifyNYC	725726168889057284	2016-04-28T16:39:36	EastFordhamRoad E/B bus lane closure 10AM-3PM &amp; 10PM-6AM from 5/2-5/31. Bus routes/schedules will not be impacted. 
+NotifyNYC	725697396429180928	2016-04-28T14:45:16	RooseveltAveBridge FULL E/B lane closure on 4/29 from 12:01-5AM. Please see attached detour map for E/B traffic. 
+NotifyNYC	725702191412039680	2016-04-28T15:04:19	BQE bridge inspection yesterday thru 5/4 on JoralemonSt &amp; thru 5/13 on FurmanSt. Expect lane &amp; sidewalk closures. 
+NotifyNYC	725673952102764544	2016-04-28T13:12:07	MissingVulnerableAdult: Michael Yam, M/A/24 w/autism, 6'2" &amp; 112lbs from Prospect Park, BK. If seen, call 911. 
+NotifyNYC	725429418353676288	2016-04-27T21:00:25	.MTA Planned work: Marine Parkway-Gil Hodges Memorial Bridge will be closed from 1AM to 2AM on Thursday, April 28. .
+NotifyNYC	725387126574030849	2016-04-27T18:12:22	Following a prior closure, all lanes of the Clearview Expy have reopened near 48th Ave, QN. Expect residual delays.
+NotifyNYC	725322426687602688	2016-04-27T13:55:17	Water Condition 5th Ave/E 13th St (MN).  Vehicular and pedestrian traffic may be impacted.  Use caution and alternate routes.
+NotifyNYC	725249024337534976	2016-04-27T09:03:36	Following a prior MTA disruption, 5 train service has resumed in btwn E. 180 St &amp; Dyre Ave, BX. Expect residual delays.
+NotifyNYC	725129363994361857	2016-04-27T01:08:07	.MTA Due to structural problems at Dyre Ave, no 5 train service between E 180 St &amp; Dyre Av (BX). visit  .
+NotifyNYC	725090162577920000	2016-04-26T22:32:20	NYC_DOT Full &amp; partial closures of the Battery Park Underpass, MN through January 31, 2018.
+NotifyNYC	724846792085540864	2016-04-26T06:25:16	Following a prior suspension, MTA L train service has resumed in b/d btwn Bedford Ave and Rockaway Pk, BK . Expect residual delays.
+NotifyNYC	724837810042183681	2016-04-26T05:49:35	MTA Suspension: No L train service in b/d btwn Bedford Ave and Rockaway Park, BK. Use alternate routes. .
+NotifyNYC	724735522892075008	2016-04-25T23:03:08	.FDNY Activity: Expect traffic delays &amp; emergency personnel near Essex St &amp; Rivington St, MN. Use alternate routes.
+NotifyNYC	724655630087233536	2016-04-25T17:45:40	BQE bridge inspections continue this week near WashingtonSt &amp; OldFultonSt. Expect lane &amp; sidewalk closures. 
+NotifyNYC	724640095479992321	2016-04-25T16:43:56	Expect partial sidewalk closures on EastFordhamRoadBridge &amp; limited parking on the GrandConcourse near the bridge. 
+NotifyNYC	724388770238312448	2016-04-25T00:05:15	.FDNY Update: Five Alarm Fire: Arlington Ave &amp; Elton St, BK. Expect smoke &amp; traffic delays in area. People nearby avoid smoke/close windows
+NotifyNYC	724367997385711621	2016-04-24T22:42:43	.FDNY Three Alarm Fire: Arlington Ave &amp; Elton St, BK. Expect smoke &amp; traffic delays. People nearby avoid smoke, close windows.
+NotifyNYC	724325230714429445	2016-04-24T19:52:46	Due to a brush fire in Bayonne, New Jersey, residents in various parts of NYC may see or smell smoke.
+NotifyNYC	723976111265316864	2016-04-23T20:45:30	SilverAlert: Marie Jean Brown F/B/78 from E. 38th St &amp; Flatbush Ave, BK. If seen, call 9-1-1. 
+NotifyNYC	723807565587570688	2016-04-23T09:35:45	SilverAlert: Hugh Allen M/B/82, 5’3" &amp; 140lbs, from Murdock Ave and Strang Ave, BX. If seen, call 9-1-1. 
+NotifyNYC	723689563525394433	2016-04-23T01:46:52	missingchildalert The Missing Child Alert issued for Shyia Andrews has been cancelled.
+NotifyNYC	723686254504775681	2016-04-23T01:33:43	MissingChildAlert Shyia Andrews F/B/11, 5'3" &amp; 108lbs, from Queens. If Seen, call 9-1-1. .
+NotifyNYC	723249162129686529	2016-04-21T20:36:52	.ConEd responding to power outage in SI ZIP 10301. To report a loss of service, call 1-800-752-6633. ASL: .
+NotifyNYC	723170270660288513	2016-04-21T15:23:23	.NWSNewYorkNY Red Flag Warning: 4/21 to 6 PM due to dry conditions/strong winds which increase brush fire risk. 
+NotifyNYC	723164502922002432	2016-04-21T15:00:27	Street closures until 10PM for Bloomberg SquareMileNYC Relay: Old Slip/Fulton St &amp; South St/Water St, MN. Info: 
+NotifyNYC	723131258725756928	2016-04-21T12:48:21	.MTA Following an earlier incident, all 2 and 5 train service has been restored with residual delays.
+NotifyNYC	723102851002601472	2016-04-21T10:55:28	.MTA No 2/5 train service b/d btwn E 180th St and 149th St/3rd Ave (BX).  Shuttle bus service provided.
+NotifyNYC	723072661320945665	2016-04-21T08:55:31	MTA Restoration: 6 train service has resumed in both directions btwn Hunts Pt Ave &amp; Pelham Bay Pk, BX. Expect residual delays.
+NotifyNYC	723056406182514688	2016-04-21T07:50:55	.MTA Due to NYPD activity, 6 train service suspended both directions btwn Hunts Point Ave &amp; Pelham Bay Park, BX. Consider alternate routes
+NotifyNYC	722967155566731264	2016-04-21T01:56:16	Due to United Nations Climate Change Summit, numerous street closures in  midtown Manhattan on 4/21 approx 5AM-10PM &amp; 4/22 approx 5AM-5PM.
+NotifyNYC	722951366310629377	2016-04-21T00:53:32	SilverAlert: Moises Didi M/H/72, 5’9" &amp; 160lbs, from Kosciuszko St &amp; Stuyvesant Ave (BK). If seen, call 9-1-1. 
+NotifyNYC	722885178662649857	2016-04-20T20:30:31	ConEdison responding to power outage in QN ZIP 11373. To report a loss of service, call 1-800-752-6633. ASL: .
+NotifyNYC	722866207892738049	2016-04-20T19:15:08	Vehicle collision on e/b Southern State Pkwy: expect extensive delays on e/b Belt Pkwy &amp; s/b Cross Island Pkwy, QN.
+NotifyNYC	722862509565349888	2016-04-20T19:00:27	Controlled fire/disaster drill at Cadman Plaza East &amp; Red Cross Pl, BK @ 6:30PM, 4/21 FDNY/NYPDauxiliary on site. .
+NotifyNYC	722779161379483648	2016-04-20T13:29:15	Extensive traffic delays in b/d of Seaview Avenue between Mason Ave/Olympia Blvd (SI).  Consider alternate routes.
+NotifyNYC	722613416133804032	2016-04-20T02:30:38	.FDNY ThreeAlarmFire: Hancock St &amp; Tompkins Ave, BK. Expect smoke &amp; traffic delays. People nearby avoid smoke, close windows.
+NotifyNYC	722504949792448512	2016-04-19T19:19:38	Following a prior suspension, Amtrak train service has resumed in both directions between New Jersey and Penn Station in Manhattan.
+NotifyNYC	722500450298281984	2016-04-19T19:01:45	Full Scale Exercise - Tomorrow, 4/20, 7:00AM-4:00PM at Fort Hamilton Army Base(BK). Increased emergency vehicles in area.
+NotifyNYC	722475375239028737	2016-04-19T17:22:07	Due to a brush fire in New Jersey, Amtrak train service has been suspended in both directions between New Jersey and Penn Station in MN.
+NotifyNYC	722469554664902657	2016-04-19T16:58:59	Due to a fire in New Jersey, residents of New York City may see or smell smoke.
+NotifyNYC	722419420186992640	2016-04-19T13:39:46	.NWSNewYorkNY Red Flag Warning: 4/19, 12PM-8PM due to dry conditions/strong winds which increase brush fire risk.
+NotifyNYC	722225383781875718	2016-04-19T00:48:44	SilverAlert: Saintilia Septimus F/B/82, 5'7" &amp; 150lbs, w/Alzheimer's, from W 94 St &amp; W End Ave, MN. Seen? Call 911 
+NotifyNYC	722138237205114886	2016-04-18T19:02:27	Controlled fire &amp; disaster drill at LaGuardia CC ,QN @ 6:30PM on 4/19 FDNY / NYPDauxiliary on site. .
+NotifyNYC	722093652181413888	2016-04-18T16:05:17	Our thoughts are with those affected by EcuadorEarthquake. You can help survivors of this disaster:  (via UNOCHA)
+NotifyNYC	721775499534548992	2016-04-17T19:01:03	There will be a fireworks display in the area of Battery Park in Manhattan tomorrow, 4/18, at approximately 9:15 PM.
+NotifyNYC	721579959437893632	2016-04-17T06:04:03	SilverAlert: Ronald Robinson M/B/65 5"11" 165lbs with schizophrenia, from Vyse Ave &amp; E 173rd St, Bronx. 
+NotifyNYC	721402413522006017	2016-04-16T18:18:33	DEP activity: southbound left &amp; middle lanes of Major Deegan Expwy at Fordham Rd Overpass, BX will be closed 4/17 9am-2pm. Use alt route.
+NotifyNYC	721253674085957636	2016-04-16T08:27:30	SilverAlert Jose Aguavivas M/H/67 of Woodstock (BX) w/ schizophrenia/bipolar. Has small black/gray dog. Seen? 9-1-1 
+NotifyNYC	721091585061085184	2016-04-15T21:43:25	NYPD activity: expect extensive traffic delays near the New England Thruway &amp; Pelham Pkwy heading southbound, BX. Consider alt route.
+NotifyNYC	721019306759348228	2016-04-15T16:56:13	WilliamsburgBridge single-lane closures on 4/22 from 10AM-3PM. Bikenyc/ped paths will also be narrowed. 
+NotifyNYC	720714743066009600	2016-04-14T20:45:59	BatteryParkUnderpass Update: this Saturday morning, 4/16, the South Tube (West St. to FDRDrive) will be closed. 
+NotifyNYC	720688142630658050	2016-04-14T19:00:17	Full closure of the PulaskiBridge TONIGHT to *all traffic* from 12-5AM to continue installation of bikenyc lane.
+NotifyNYC	720679204824735753	2016-04-14T18:24:46	QueensboroBridge single lane closures 4/19 on Upper Roadway &amp; 4/20 on Lower Roadway, 10PM-5AM (weather permitting). 
+NotifyNYC	720383417615929344	2016-04-13T22:49:25	Following a prior suspension, MTA A train service has resumed in both directions. Expect residual delays.
+NotifyNYC	720375668068864000	2016-04-13T22:18:37	Switch problems: MTA A train suspended in both directions btwn Rockaway Blvd, BK &amp; Lefferts Blvd, QN. Shuttle buses available.
+NotifyNYC	720347689901162496	2016-04-13T20:27:27	FDNY 3 Alarm Fire: E 165th St &amp; Sherman Ave, BX. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	720200194130845696	2016-04-13T10:41:21	Due to a vehicle incident, expect extensive traffic delays in both directions on the Major Deegan Expressway in the Bronx.
+NotifyNYC	719994382833840134	2016-04-12T21:03:32	Controlled fire &amp; disaster drill fordhamnotes , BX @ 6:30PM on 4/13 FDNY / NYPDauxiliary on site. .
+NotifyNYC	719882602426081280	2016-04-12T13:39:21	MissingVulnerableAdult: Patrick Massaro M/W/86, w/dementia from Monsey, NY. Seen? Call 911. 
+NotifyNYC	719574682329038849	2016-04-11T17:15:47	Emergency repairs of NJ Turnpike cause delays on all NJ-bound lanes of the Lincoln Tunnel (MN). Consider alternate routes.
+NotifyNYC	719539396341559297	2016-04-11T14:55:35	Lane closures of 6th Ave by W 58th Street and street closures on W 58th Street (MN). Consider alternate routes &amp; expect considerable delays.
+NotifyNYC	719526619740782594	2016-04-11T14:04:48	Steam Condition - W 58th/6th Avenue.  Evacuations W 58 6th-8th Avenues.  Emergency personnel in the area and local street closures.
+NotifyNYC	719410113350672384	2016-04-11T06:21:51	SilverAlert Oie Hing Lau F/A/81, St James Pl &amp; Oliver St, MN. 4'8" &amp; 90lbs, thin build &amp; brown hair. Seen? call 911 
+NotifyNYC	718943977177804801	2016-04-09T23:29:36	.NWSNewYorkNY Coastal Flood Statement in effect 4/9, 8PM-5AM 4/10, for BK,BX&amp; QN. Tides .5-1 ft above normal possible.
+NotifyNYC	718894184292315136	2016-04-09T20:11:44	.NYC_DOT Planned Work: CentralPark 65th St Transverse closed Sun 4/10 12A-5A. More info: 
+NotifyNYC	718892292879314945	2016-04-09T20:04:13	Due to a vehicle incident, expect extensive traffic delays on the SI bound lanes near 6th Ave on the Gowanus Expressway in BK.
+NotifyNYC	718852169827540992	2016-04-09T17:24:47	Following a prior suspension,  Staten Island Railway has resumed normal service. Expect residual  delays.
+NotifyNYC	718832105346711552	2016-04-09T16:05:03	Switch problems: Staten Island Railway service is suspended btwn Tottenville &amp; St. George, both directions. Consider alt route.
+NotifyNYC	718544019442245633	2016-04-08T21:00:18	Weather permitting, West Point will conduct parachute jumps from a helicopter 4/9 btwn 10AM-5:05PM over Aqueduct Racetrack, QN.
+NotifyNYC	718532550621310976	2016-04-08T20:14:44	SilverAlert: Gordon Dasilva M/B/86 from Edson Ave &amp; Edenwald Ave, BX. 5'7" 145lbs. If seen, call 9-1-1. 
+NotifyNYC	718181634835615745	2016-04-07T21:00:19	.NWSNewYorkNY Coastal Flood Statement in effect 4/7, 8PM-10PM for south BK &amp; QN. Tides 1-2 ft above normal possible 
+NotifyNYC	718173722386034688	2016-04-07T20:28:53	BatteryParkUnderpass Update: This Saturday morning, only SouthTube (West St to FDRDrive) will be closed. 
+NotifyNYC	718052802463981568	2016-04-07T12:28:23	Extensive delays on all northbound lanes of the Major Deegan Expressway at 230th Street (BX).  Consider alternate routes.
+NotifyNYC	718048969939632128	2016-04-07T12:13:09	NWSNewYorkNY Wind Advisory issued: BK &amp; QN from 11AM-8PM, sustained winds 30-40MPH, gusts up to 50MPH. For updates: 
+NotifyNYC	718037549575438336	2016-04-07T11:27:46	d/t vehicular collision, extensive delays on all eastbound lanes of the LIE at Exit 41. Consider alternate routes.
+NotifyNYC	718033293195800576	2016-04-07T11:10:52	.FDNY 3 Alarm Fire: E 94th St &amp; 2nd Ave, MN. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	717858176704638976	2016-04-06T23:35:01	.NYC_DOT Planned work: Expect lane closures on the northbound Henry Hudson Pkwy from 04/06-04/10 btwn 10pm &amp; 7am. .
+NotifyNYC	717789206492348417	2016-04-06T19:00:57	MetropolitanBridge overnight closure: English Kills (BK) 4/7 - 4/8, 12AM-5AM.  Info: .
+NotifyNYC	717594166860111872	2016-04-06T06:05:56	.NYCTSubway Following a prior suspension, N train service has resumed in both directions. Expect residual delays.
+NotifyNYC	717590916823953408	2016-04-06T05:53:01	NYCTSubway Due to switch problems, N train service is suspended in both directions between 36th St and Stillwell Ave, BK.
+NotifyNYC	717474691934457856	2016-04-05T22:11:11	Following a prior MTA disruption, A,B,C and D Train service has resumed in both directions. Expect residual delays.
+NotifyNYC	717473064565522433	2016-04-05T22:04:43	Following a prior MTA disruption, L train service has been restored in both directions. Expect residual delays.
+NotifyNYC	717467546887274501	2016-04-05T21:42:47	Due to MTA rail condition, various service changes &amp; delays on A,B,C,D lines. No B or C Trains in either direction. 
+NotifyNYC	717465166917537792	2016-04-05T21:33:20	Due to FDNY activity, expect traffic delays on northbound Henry Hudson Parkway, MN. Consider alternate routes.
+NotifyNYC	717456877538435074	2016-04-05T21:00:23	Due to customer injury, MTA L train suspended btwn Myrtle Ave, BK &amp; 8 Ave, MN in both directions.  Consider alternate routes.
+NotifyNYC	717426467366416384	2016-04-05T18:59:33	SilverAlert Mien Nguyen, F/A/83, University Ave &amp; W 167th St, BX. 5'5" &amp; 150lbs. Seen? call 911 
+NotifyNYC	716876923545235456	2016-04-04T06:35:52	Update: FDNY 5 Alarm Fire: Parkside Ave &amp; Rogers Ave, BK. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	716844810498416640	2016-04-04T04:28:15	.FDNY 3 Alarm Fire: Parkside Ave &amp; Rogers Ave, BK. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	716761198897807360	2016-04-03T22:56:01	Update: FDNY Five Alarm Fire: 13th St &amp; 40th Ave, QN. Expect smoke &amp; traffic delays. People nearby avoid smoke, close windows.
+NotifyNYC	716751165485150208	2016-04-03T22:16:09	Following a prior NYCTSubway suspension, 4 Train service has resumed between Burnside Avenue &amp; Woodlawn, BX. Expect residual delays.
+NotifyNYC	716718634769494016	2016-04-03T20:06:53	.FDNY ThreeAlarmFire: 13th St &amp; 40th Ave, QN. Expect smoke &amp; traffic delays. People nearby avoid smoke, close windows.
+NotifyNYC	716699063870234624	2016-04-03T18:49:07	.AmtrakNEC Following an earlier suspension, Amtrak Northeast Corridor service has resumed btw NYC &amp; Philadelphia. Expect residual delays.
+NotifyNYC	716651003928567808	2016-04-03T15:38:08	ConEdison responding to power outage in SI ZIP 10301. Report service loss: 1-800-752-6633. ASL: .
+NotifyNYC	716650984001380352	2016-04-03T15:38:03	For latest information on the derailment of Amtrak Train 89, call Hotline phone number 1-800-523-9101.
+NotifyNYC	716628497008103424	2016-04-03T14:08:42	d/t tree on MTA infrastructure, no 4 train in b/d btwn Burnside Ave/Woodlawn.  Use shuttle bus provided. Info: 
+NotifyNYC	716618211341557760	2016-04-03T13:27:50	d/t AmtrakNEC Train 89 derailment, the NE Corridor service btwn NY and Philadelphia suspended. Updates: 
+NotifyNYC	716607089343336448	2016-04-03T12:43:38	d/t building collapse @ 4th Ave/14th St (BK), expect emergency personnel and vehicular/pedestrian street closures. Use caution.
+NotifyNYC	716421043355828225	2016-04-03T00:24:21	Due to NYPD activity, traffic delays &amp; road closures around W 46th St &amp; 7th Ave, MN. Consider alternate routes.
+NotifyNYC	716378450785869829	2016-04-02T21:35:06	.NWSNewYorkNY has issued a High Wind Warning from 12AM until 2PM tomorrow, 4/3. For updates: . bikenyc alert
+NotifyNYC	716303201197277184	2016-04-02T16:36:06	Missing Vulnerable Adult: James Gitzinger M/W/50 cognitive disorder . Seen? 9-1-1
+NotifyNYC	716279569393795073	2016-04-02T15:02:11	d/t a vehicular incident involving a tractor trailer, extensive delays in b/d of the RFK Bridge.  Consider alternate routes.
+NotifyNYC	716143557174771712	2016-04-02T06:01:43	ConEdison responding to power outage in QN ZIP 11364. Report service loss: 1-800-752-6633. ASL: .
+NotifyNYC	716036461624221696	2016-04-01T22:56:10	NWS issues High Wind Watch citywide from 12:00am-12:00pm 4/3. bikenyc 25-40MPH winds, gusts up to 60MPH expected .
+NotifyNYC	716015491895177216	2016-04-01T21:32:50	.nyc_dot Planned Closure vehicles only: GrandStreetBridge BK/QN 7AM-3PM April 2,9,16,23 and 30. .
+NotifyNYC	714893735432232962	2016-03-29T19:15:23	Partial AirTrain JFK service outage 11:59pm 4/1 thru 1pm 4/2 &amp; 11:59pm 4/2 thru 1pm 4/3.  
+NotifyNYC	715867052003758081	2016-04-01T11:43:00	d/t extensive delays in b/d of Clearview Expwy in the area of LIE (QN). Consider alternate routes.
+NotifyNYC	715410291849347072	2016-03-31T05:27:59	Due to multiple brush fires in New Jersey, residents of New York City may see or smell smoke.
+NotifyNYC	715273034412777472	2016-03-30T20:22:35	Planned Work nationalgridus - Natural gas odor possible near Cortelyou Rd/Rugby Rd (BK) from 9am-11am tomorrow 3/31. Emergencies: Call 911.
+NotifyNYC	715243073714970624	2016-03-30T18:23:32	Following a prior closure, all Brooklyn bound lanes of the Cross Island Parkway have reopened in QN. Expect residual delays.
+NotifyNYC	715228619933659136	2016-03-30T17:26:05	Due to a vehicle incident, all Brooklyn bound lanes of the Cross Island Parkway are closed. Consider alternate routes.
+NotifyNYC	715074626301390852	2016-03-30T07:14:11	.FDNY SixAlarmFire: Dekalb Ave &amp; Knickerbocker Ave, BK. Expect Smoke &amp; Traffic Delays. People nearby avoid smoke close windows.
+NotifyNYC	715003034619744256	2016-03-30T02:29:42	.FDNY 3 Alarm Fire: Dekalb Ave &amp; Knickerbocker Ave, BK. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	714973337252937731	2016-03-30T00:31:41	ConEdison is responding to a power outage in Baychester section of The BX. Report service loss to 800-75-CONED or .
+NotifyNYC	714700558414790656	2016-03-29T06:27:46	.FDNY 3 Alarm Fire: 91st St &amp; 24th Ave, QN. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	714523981878018048	2016-03-28T18:46:07	.NYPDnews Police Activity: Expect traffic delays &amp; presence of emergency personnel near West 45th St &amp; Broadway, MN. Use alternate routes.
+NotifyNYC	714482495966875651	2016-03-28T16:01:16	.NWSNewYorkNY has issued a Wind Advisory from 5PM tonight until 6PM tomorrow, 3/29. For updates: . bikenyc
+NotifyNYC	714435072011739136	2016-03-28T12:52:49	d/t overturned truck, extensive delays in b/d of the BQE @ Wythe Ave (BK).  Consider alternate routes and expect delays.
+NotifyNYC	714418328744361984	2016-03-28T11:46:17	.nyct  Traffic delays and lane closures in the area of Tillary St/Jay St (BK). Local MTA bus may be impacted: 
+NotifyNYC	714163350473687040	2016-03-27T18:53:05	HuntersPointAveBridge will be fully closed 3/28-4/1 from 9AM-3PM. Detour for vehicles/bikenyc/pedestrians: .
+NotifyNYC	713946054706798593	2016-03-27T04:29:38	MissingVulnerableAdult: Rezzieri Colban M/W/57 w/dementia, 5’9” &amp; 160 lbs, from Uniondale, NY. If seen, call 911. 
+NotifyNYC	713939051494129664	2016-03-27T04:01:48	SilverAlert Manfred Scharfstein M/W/89, 6'1" &amp; 165 lbs, short white hair, W 96th St &amp; Broadway, MN. Seen? Call 911 
+NotifyNYC	713727581288316929	2016-03-26T14:01:30	.PANYNJ_BB Following a prior closure, all lanes of the Bayonne Bridge have reopened in both directions. Expect residual delays.
+NotifyNYC	713727413306466305	2016-03-26T14:00:50	Update: Due to a tractor trailer collision, expect extensive traffic delays on the southbound FDR Dr near E 91st St, MN.
+NotifyNYC	713648009813368832	2016-03-26T08:45:19	Due to a tractor trailer collision, expect extensive traffic delays on the southbound FDR Dr near E 91st St, MN. Consider alternate routes.
+NotifyNYC	713643423295750150	2016-03-26T08:27:05	.PANYNJ_BB Road Closure: Due to a motor vehicle collision, all lanes of the Bayonne Bridge closed in both directions. Allow additional time
+NotifyNYC	713586089953464321	2016-03-26T04:39:16	.FDNY 3 Alarm Fire: West 151st St &amp; Broadway, MN. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	712881764071522305	2016-03-24T06:00:31	MTA Restoration: 2 train service has resumed in both directions, expect residual delays. More info: .
+NotifyNYC	712870323985784832	2016-03-24T05:15:04	MTA Suspension: No 2 train service in b/d between E. 180 St and 3rd Ave - 149 St, BX. Use alternate routes. .
+NotifyNYC	712832229911707648	2016-03-24T02:43:42	.NYCTSubway Following a prior suspension, 1 train service has resumed in both directions. Expect residual delays.
+NotifyNYC	712818442689191936	2016-03-24T01:48:54	Due to switch problems, MTA 1 train service is suspended btwn Van Cortland, BX &amp; 207th St, MN in both directions, MN. Consider alt route
+NotifyNYC	712715683671457798	2016-03-23T19:00:35	MetropolitanAveBridge closures (BK) 3/24, 3/25 &amp; 3/29 12AM-5AM, 3/26 1AM-6AM. Info: 
+NotifyNYC	712685992512262144	2016-03-23T17:02:36	Temporary lane closures causing extensive delays on the Belt Parkway btwn Bay 8th St &amp; 2nd Ave (BK). Consider alternate routes.
+NotifyNYC	712387942275223552	2016-03-22T21:18:15	.FDNY Due to a brushfire, expect smoke, traffic delays, &amp; emergency personnel near Richmond Ave &amp; Forest Hill Rd, SI.
+NotifyNYC	712342058309197824	2016-03-22T18:15:56	.FDNY Activity: Expect emergency personnel and traffic delays near Grand Central Station, MN. Use alternate routes &amp; allow addt'l time.
+NotifyNYC	712265067841064960	2016-03-22T13:10:00	.MTA Following a prior suspension, 1 train service has resumed in both directions btwn 145th St &amp; 168th St in MN. Expect residual delays.
+NotifyNYC	712248865727102976	2016-03-22T12:05:37	.MTA Due to track maintenance, there is no 1 train service in both directions btwn 145th St &amp; 168th St. Consider alternate routes.
+NotifyNYC	712057590314885120	2016-03-21T23:25:33	Due to a brush fire, expect smoke, traffic delays, &amp; emergency personnel near Gerritsen Ave &amp; Lois Ave in Brooklyn.
+NotifyNYC	712020876091379713	2016-03-21T20:59:40	QueensboroBridge ped &amp; bikenyc path nightly closures begin 3/28 (10PM-5AM) for ConEdison infrastructure upgrades. 
+NotifyNYC	711901498331013122	2016-03-21T13:05:18	Due to a vehicle collision,  extensive delays in b/d of the FDR Drive at 14th Street (MN).  Use alternate routes if possible.
+NotifyNYC	711836753464795137	2016-03-21T08:48:01	.ConEdison responding to power outage in BK, ZIP 10465. To report a loss of service, call 1-800-752-6633. ASL: .
+NotifyNYC	711729411142361088	2016-03-21T01:41:29	.ConEdison responding to power outage in SI, ZIP 10306. To report a loss of service, call 1-800-752-6633. ASL: .
+NotifyNYC	711697613729435653	2016-03-20T23:35:08	Travel advisory in effect 3/20 &amp; 3/21. ASP suspended Mon. Meters in effect.  ASL: 
+NotifyNYC	711440078929862656	2016-03-20T06:31:47	Following earlier MTA suspension, 2 &amp; 3 trains have resumed service and are temporarily bypassing 135th St. Expect residual delays.
+NotifyNYC	711412525972242434	2016-03-20T04:42:18	Due to a customer injury, MTA 3 train suspended btwn 148th St &amp; 96th St in both directions, MN. 2 train is currently running on 5 line.
+NotifyNYC	711266077704101888	2016-03-19T19:00:22	Numerous street closures in MN Sun, 3/20 7:30AM-1PM, in support of 2016 NYRR NYC HalfMarathon. Info: .
+NotifyNYC	711000836042846209	2016-03-19T01:26:23	Citywide Travel Advisory for Sun, 3/20, due to anticipated 2-4 inches of snow. Info: . ASL: .
+NotifyNYC	710921575407751168	2016-03-18T20:11:26	NYC experiencing wind gusts in excess of 40MPH. Caution when walking/driving, wind causes flying debris. .
+NotifyNYC	710866222246727681	2016-03-18T16:31:29	SAT/SUN: QueensboroBridge South Outer Roadway CLOSED 5AM-1PM for MTA NYC Transit work. No impact to walk/bikenyc 
+NotifyNYC	710858801377910784	2016-03-18T16:02:00	MetropolitanAveBridge full closures to all traffic on 3/24, 3/25, &amp; 3/29 from 12:01-5AM and 3/26 from 1-6AM. 
+NotifyNYC	710630755920179204	2016-03-18T00:55:49	MissingVulnerableAdult: Edward Lopez M/H/68 5'6" 140lbs w/schizophrenia from Dutchess County, NY. If seen, call 911 
+NotifyNYC	710593409468243969	2016-03-17T22:27:25	NYC experiencing wind gusts in excess of 40MPH. Caution when walking/driving, wind causes flying debris. .
+NotifyNYC	710541335317651456	2016-03-17T19:00:30	Planned Work: Natural gas odor possible near 39th St &amp; New Utrecht Ave, BK, from 8am-11am on Fri 3/18. Emergencies: Call 911.
+NotifyNYC	710308487981621248	2016-03-17T03:35:15	MTA 3 train has resumed normal service btwn 148 St &amp; 96 St. Trains are bypassing 110 St due to NYPD activity. Expect residual delays.
+NotifyNYC	710275270066970624	2016-03-17T01:23:15	Due to NYPD activity, 3 train suspended both directions btwn 148th St &amp; 96th St, Manhattan. Consider alt route.
+NotifyNYC	710240424640847873	2016-03-16T23:04:47	Due to FDNY activity, expect emergency personnel and traffic delays near W 42nd St &amp; 7th Ave in Manhattan. Consider alt route.
+NotifyNYC	710177223995727876	2016-03-16T18:53:39	NYCEM tweets are for public information only. NYCEM assumes no responsibility to followers. By following NYCEM you acknowledge this.
+NotifyNYC	709749502958239744	2016-03-15T14:34:02	Due to a vehicle collision, expect extensive traffic delays on New Jersey bound lanes of the Outerbridge Crossing in Staten Island.
+NotifyNYC	709677745438064640	2016-03-15T09:48:54	SilverAlert Nilsaida Smiley F/B/58, 5'3" &amp; 115lbs, from Hillmeyer Ave &amp; Barbadoes Dr, QN. If seen, please call 911. 
+NotifyNYC	709545776029024256	2016-03-15T01:04:30	.NWSNewYorkNY Coastal Flood Statement in effect for BK &amp; SI tonight from 1AM-3AM (3/15). Tides 1-2 ft above normal. 
+NotifyNYC	709505344511328261	2016-03-14T22:23:50	Starting tonight thru 3/24: One BatteryParkUnderpass tube closes at 10PM; 2nd tube closes at 1AM. Re-open 5AM. 
+NotifyNYC	709495227892043777	2016-03-14T21:43:38	ConEdison responding to power outage in SI ZIPs 10306 &amp; 10308. Report service loss: 1-800-752-6633. ASL: .
+NotifyNYC	709484358793617408	2016-03-14T21:00:27	.NWSNewYorkNY Coastal Flood Advisory for southern QN shores tonight 1AM-3AM (3/15) tides 2ft above normal expected. 
+NotifyNYC	709462652251144192	2016-03-14T19:34:12	ConEdison responding to power outage in BX ZIP 10460. Report service loss: 1-800-752-6633. ASL: .
+NotifyNYC	709158304300343296	2016-03-13T23:24:49	.ConEdison responding to power outage in SI ZIP 10310. Report service loss: 1-800-752-6633. ASL: .
+NotifyNYC	709020782207377409	2016-03-13T14:18:22	.FDNY 3 Alarm Fire: Laburnum Ave &amp; Union St, QN. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	708962842658119680	2016-03-13T10:28:08	.FDNY 3 Alarm Fire: E New York Ave &amp; Rockaway Ave, BK. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	708800860449579008	2016-03-12T23:44:28	The previously issued AMBER Alert for Ariel Revello has been canceled.
+NotifyNYC	708706705362833408	2016-03-12T17:30:20	AMBERAlert: Ariel Revello M/H/7 from CT. Vehicle: '04 white van, CT plate#C040379. See? Call 911. alert 
+NotifyNYC	708441450351104000	2016-03-11T23:56:18	SilverAlert Alvin Richards M/B/75, Alzheimer's, from E. 104th St &amp; Farragut Road, BK. If seen, please call 9-1-1. 
+NotifyNYC	708417185115414528	2016-03-11T22:19:53	Emergency personnel on the scene of a high-rise fire located near 42nd St btwn 11th Ave &amp; 12th Ave, MN. Expect traffic delays.
+NotifyNYC	708367565463097345	2016-03-11T19:02:43	BatteryParkUnderpass Restoration Update:NorthTube (FDRDrive to WestSt.) will be fully closed tomorrow from 1-8AM 
+NotifyNYC	708287439081742337	2016-03-11T13:44:19	Due to a vehicle collision, expect extensive traffic delays in both directions on the Brooklyn Bridge
+NotifyNYC	708260566729678848	2016-03-11T11:57:32	SilverAlert Aleuterio Velez M/H/88, Dementia, from E. 121st St &amp; Lexington Ave, MN. If seen, please call 9-1-1. 
+NotifyNYC	708103416766205953	2016-03-11T01:33:05	Due to a partial building collapse, expect emergency personnel &amp; traffic delays near Myrtle Ave &amp; Tompkins Ave in Brooklyn.
+NotifyNYC	708081442945896450	2016-03-11T00:05:46	Following a prior suspension, the L train has resumed service in Brooklyn. Expect residual delays.
+NotifyNYC	708068065590775808	2016-03-10T23:12:36	FDNY activity: L train service suspended btwn Broadway Junct &amp; Rockaway Pkwy, BK in both directions. Please consider alt routes.
+NotifyNYC	707685722946445312	2016-03-09T21:53:19	NYPD activity: J train service delays btwn Broadway Jct &amp; Cypress Hills, BK. Shuttle buses provided. Info: 
+NotifyNYC	707546108046786560	2016-03-09T12:38:32	SilverAlert Julio Retamar M/H/91, Alzheimer's &amp; dementia, from 9th Ave &amp; West 48th St, MN. If seen, please call 9-1-1.
+NotifyNYC	707306053919219713	2016-03-08T20:44:39	The NYS Division of Criminal Justice Services has cancelled the Missing Child Alert for the disappearance of Kelly Rivera-Pillco.
+NotifyNYC	707249102837440513	2016-03-08T16:58:20	Thank you to the hardworking women of nycoem on InternationalWomensDay &amp; every day for keeping NYC prepared. 
+NotifyNYC	707145809381466112	2016-03-08T10:07:53	Following prior closure, East 42nd St has reopened btwn Lexington Ave &amp; Madison Ave, MN. Expect residual delays.
+NotifyNYC	707059559953727488	2016-03-08T04:25:10	Due to police activity, East 42nd St is closed between Lexington Ave and Madison Ave, MN. Consider alternate routes.
+NotifyNYC	707053092362133505	2016-03-08T03:59:28	MissingChildAlert Kelly Rivera-Pillco F/W/10, 5'2" &amp; 118lbs, from Spring Valley, NY. If Seen, call 9-1-1. alert 
+NotifyNYC	706717217824620544	2016-03-07T05:44:49	.NYCTSubway 5 Train service resumed btwn E 180th St &amp; Eastchester-Dyre Ave, BX. Expect residual delays.
+NotifyNYC	706714211414626304	2016-03-07T05:32:52	.NYCTSubway Mechanical Problems: 5 train suspended in both directions btwn E 180 St &amp; Dyre Ave, BX. Consider alternate routes.
+NotifyNYC	706688393552470018	2016-03-07T03:50:17	Due to a vehicle collision, expect extensive traffic delays on the Brooklyn-bound BQE near the LIE in QN. Consider alternate routes.
+NotifyNYC	706594606612262913	2016-03-06T21:37:36	WANTED: James Patrick Dillon regarding 2 slashings &amp; pushing a 17y/o onto subway tracks in Queens. Call 800577TIPS 
+NotifyNYC	706590990161866752	2016-03-06T21:23:14	Water Main Break on 3/3: Expect emergency personnel &amp; various traffic delays in area of Ocean Pkwy &amp; Ave U in BK over next several days.
+NotifyNYC	706570205246464003	2016-03-06T20:00:39	.MTA Weeknight Closures of Manhattan - bound Queens Midtown Tunnel, begins 3/7 Info: .
+NotifyNYC	706368275568041984	2016-03-06T06:38:15	.FDNY 3 Alarm Fire: Blake Ave &amp; Fountain Ave, BK. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	706320098726907906	2016-03-06T03:26:48	.MTA Service Restoration: 7 Train service has resumed btwn Queensboro Plaza &amp; Main St, QN. Expect residual delays.
+NotifyNYC	706303625383931904	2016-03-06T02:21:21	.MTA Suspension: No 7 Train service in both directions btwn Queensboro Plaza &amp; Main St, QN. Use alternate routes. .
+NotifyNYC	705923778749046784	2016-03-05T01:11:58	Planned Lane Closures: FDR Drive n/b right and center lanes closed btwn E. 82nd &amp; E. 89th Sts, 7AM-2:30AM, 3/5.
+NotifyNYC	705845623761870850	2016-03-04T20:01:25	.nyc_dot Planned Closure vehicles only: GrandStreetBridge over Newtown Creek BK/QN 7AM-3PM March 5,12,&amp;19. .
+NotifyNYC	705800291887783936	2016-03-04T17:01:17	Overnight closures of ParkAveUnderpass, MN 3/5, from 12:01AM - 6AM.  
+NotifyNYC	705771325177143296	2016-03-04T15:06:11	.nycSchools Staff and students of all schools located at 40 Irving Place in Manhattan will return to 40 Irving Place on Monday, 3/7/16.
+NotifyNYC	705716882435936256	2016-03-04T11:29:51	Due to a vehicle incident, expect extensive traffic delays in both directions of the Manhattan Bridge.
+NotifyNYC	705688194638061568	2016-03-04T09:35:51	.PSEGLI responding to power outage Far Rockaway, QN. To report a loss of service, call 1-800-490-0075. ASL: .
+NotifyNYC	705641889832132608	2016-03-04T06:31:51	Water Condition: West 41st Street &amp; 12th Avenue in Manhattan. Expect traffic delays &amp; emergency personnel in area.
+NotifyNYC	705504277729566720	2016-03-03T21:25:02	Update: Partial closures of N/B &amp; S/B MajorDeeganExpwy Entrance Ramps to the MacombsDamBridge on Wed. 3/9 7AM-3PM 
+NotifyNYC	705483024666853377	2016-03-03T20:00:34	.nycHealthy DRILL 3/4-3/5 10PM-6AM 455 1st Ave &amp; Grand Central, MN. Expect emergency personnel wearing protective gear.
+NotifyNYC	705434835347742720	2016-03-03T16:49:05	.NYC_DOT NYCASP Alternate Side Parking rules suspended 3/4. Meters in effect. Info . ASL .
+NotifyNYC	705419541292183552	2016-03-03T15:48:19	Single-lane closures for WoodhavenBlvd Bridge over AtlanticAve begin 3/7. More details:  
+NotifyNYC	705116806575464449	2016-03-02T19:45:21	.MTA Marine Parkway Bridge Conduct Overnight Maintenance Test Lifts 3/3 - 3/4 from 12:01 AM - 5:00 AM. .
+NotifyNYC	705025685237186560	2016-03-02T13:43:16	.nycSchools Schools Relocation: Success Academy, International Academy &amp; USA Academy return to 40 Irving Pl.For other relocation call 3-1-1
+NotifyNYC	704942468480049152	2016-03-02T08:12:36	.NWSNewYorkNY forecasting wind gusts 40-50MPH, 6-9AM. Caution walking/driving, wind causes flying debris bikenyc 
+NotifyNYC	704800155892064257	2016-03-01T22:47:06	.NYPDnews Activity: Expect emergency personnel and traffic delays near Penn Station, MN. Use alternate routes &amp; allow extra time.
+NotifyNYC	704758077229289474	2016-03-01T19:59:54	.MTA Following a prior suspension, 1 train service has resumed in both directions between South Ferry and Chambers St in Manhattan.
+NotifyNYC	704741793875759105	2016-03-01T18:55:11	.@ MTA Due to an investigation, there is no 1 train service in both directions between South Ferry and Chambers Street in Manhattan.
+NotifyNYC	704664580367257600	2016-03-01T13:48:22	SilverAlert: Angel Diaz, M/H/75 w/ dementia, Hoyt St &amp; Schermerhorn St, BK. 5'7" &amp; 120lbs. If seen, call 9-1-1.
+NotifyNYC	704401391171870721	2016-02-29T20:22:33	ParkAveUnderpass will be fully closed for inspection on Saturday, 3/5 from 12:01-6AM. 
+NotifyNYC	704399483891752960	2016-02-29T20:14:58	Following a prior closure, all lanes of the Lincoln Tunnel have reopened in Manhattan. Expect residual delays.
+NotifyNYC	704397354200395776	2016-02-29T20:06:30	Due to a motor vehicle collision, all westbound lanes of the Lincoln Tunnel are closed in Manhattan. Use alternate routes.
+NotifyNYC	704365797196611585	2016-02-29T18:01:07	.ConEdison responding to power outage in SI  ZIP 10301. Report service loss: 1-800-752-6633. ASL: 
+NotifyNYC	704192700409618432	2016-02-29T06:33:17	SilverAlert: Lidiya Piddubna, F/W/75 w/dementia, from 10th St &amp; 7th Ave, BK. 5'3" &amp; 160lbs. If seen, call 9-1-1. 
+NotifyNYC	704144110278594563	2016-02-29T03:20:12	Due to emergency personnel operating at a four alarm fire in Newark, New Jersey, residents in various areas of NYC may see or smell smoke.
+NotifyNYC	704074901557223424	2016-02-28T22:45:12	.nycSchools School Relocation: All students and staff of schools at 40 Irving Place, MN relocated. For relocation sites call 3-1-1.
+NotifyNYC	704033544289558528	2016-02-28T20:00:51	.NYC_DOT RooseveltIslandBridge: intermittent 15 min full closures on 2/29 btwn 10AM &amp; 2PM.
+NotifyNYC	704023367352000512	2016-02-28T19:20:25	.PSEGLI responding to power outage Far Rockaway, QN. To report a loss of service, call 1-800-436-7734. ASL: .
+NotifyNYC	703408434029465601	2016-02-27T02:36:54	SilverAlert: Joseph McWalters, M/W/65 bipolar w/high blood pressure, W 100th St &amp; Central Park West, MN. Call 911. 
+NotifyNYC	703300832473817088	2016-02-26T19:29:19	Following a prior closure, all Jersey-bound lanes of the Lincoln Tunnel are now open. Expect residual delays.
+NotifyNYC	703298048353558529	2016-02-26T19:18:16	Due to a motor vehicle  collision, all Jersey-bound lanes of the Lincoln Tunnel are closed in  Manhattan. Consider alternate routes.
+NotifyNYC	703209808627941378	2016-02-26T13:27:38	.nycSchools School Relocation: All students and staff of schools at 40 Irving Place,MN relocated. For relocation sites call 3-1-1.
+NotifyNYC	702965270139314176	2016-02-25T21:15:55	Update: MetropolitanAveBridge early AM full closures to all traffic 2/26, 2/27, 3/1-3/3 for bridge rehabilitation. 
+NotifyNYC	702977302163025920	2016-02-25T22:03:44	Following a prior suspension, MTA 7 Train service has resumed in both directions. Expect residual delays.
+NotifyNYC	702964262919081984	2016-02-25T21:11:55	.ConEdison responding to power outage in BK ZIPs 11223, 11229, 11235. Report service loss: 1-800-752-6633. ASL: 
+NotifyNYC	702937403502301185	2016-02-25T19:25:11	MTA Suspension: No 7 Train service in either direction between 34 St, MN &amp; Hudson Yards, QN. Use alt routes. .
+NotifyNYC	702911857158463488	2016-02-25T17:43:40	Nightly closures on the BrooklynBridge Park Row South Exit from Monday 2/29 to Friday 3/4, 11PM-6AM 
+NotifyNYC	702900578129747969	2016-02-25T16:58:51	.NYPDnews Activity: Expect traffic delays &amp; emergency personnel in area of Wall St and Water St, MN. Consider alternate routes.
+NotifyNYC	702849301127569408	2016-02-25T13:35:06	.ConEdison responding to power outage, BX ZIP 10469. To report a loss of service, call 1-800-752-6633. ASL: .
+NotifyNYC	702749714375184384	2016-02-25T06:59:23	SilverAlert: Lydia Batista, F/H/69 w/dementia, Sackman St &amp; Herkimer St, Brooklyn. If seen, call 9-1-1. 
+NotifyNYC	702706936509243392	2016-02-25T04:09:23	.NWSNewYorkNY Flood Advisory for NYC in effect until 2 AM. Heavy rainfall due to severe thunderstorms in the area. .
+NotifyNYC	702697185528381445	2016-02-25T03:30:39	.NWSNewYorkNY Severe Thunderstorm Warning issued for NYC until 11:30PM.   ASL:  .
+NotifyNYC	702691755842531328	2016-02-25T03:09:04	Emergency personnel of a building collapse @ E 183rd St &amp; Beaumont Ave, BX.  Expect traffic delays and street closures in the area.
+NotifyNYC	702685865714315265	2016-02-25T02:45:40	Overturned tractor trailer: expect traffic delays on Jersey-bound upper level of George Washington Bridge. Consider alt routes.
+NotifyNYC	702657518078726144	2016-02-25T00:53:01	.NWSNewYorkNY Severe Thunderstorm Watch for NYC until 2:00 AM on 2/25. Strong winds &amp; heavy rain possible. .
+NotifyNYC	702637706472529920	2016-02-24T23:34:18	Following a prior suspension, Staten Island Ferry's St. George Terminal &amp; Staten Island Rail service has been restored.
+NotifyNYC	702632532282576900	2016-02-24T23:13:44	NYPD activity: SI Ferry St. George Terminal closed/outbound service suspended. SI Rail suspended btwn St. George &amp; Tompkinsville
+NotifyNYC	702593566586085378	2016-02-24T20:38:54	MetropolitanAveBridge closures (BK) 2/25-2/26, 12AM-5AM &amp; 2/7, 1AM-6AM, and 2/29-3/1 12AM-5AM.  Info: .
+NotifyNYC	702573893794529280	2016-02-24T19:20:44	.NWSNewYorkNY has issued a Wind Advisory from 2/24 6 PM to 2/25 4 AM for NYC. For updates:  bikenyc
+NotifyNYC	702561016899567617	2016-02-24T18:29:34	.MTA Following a prior suspension, the L train has resumed service in both directions btw 8 Ave &amp; Bedford Ave, BK.
+NotifyNYC	702539138009055232	2016-02-24T17:02:37	.MTA Due to a police investigation, there is no L train in both directions between 8 Ave &amp; Bedford Ave, BK. Consider alternate routes.
+NotifyNYC	702508745205665792	2016-02-24T15:01:51	Emergency notification system test will occur today at 2:20pm on radio, broadcast &amp; cable TV. Only a test. .
+NotifyNYC	702416955471499264	2016-02-24T08:57:07	.PSEGLI is responding to a power outage in QN ZIPs 11694 &amp; 11697. Report service loss: 1-800-490-0075. ASL: .
+NotifyNYC	702266057269059588	2016-02-23T22:57:30	Media production w/ simulated explosion Wed, 2/24 6PM-10PM, in area of N Henry St &amp; Greenpoint Ave, BK. NYPD and FDNY will be on site.
+NotifyNYC	702240029645660160	2016-02-23T21:14:04	NYC experiencing wind gusts in excess of 40MPH. Caution when walking/driving, wind causes flying debris. .
+NotifyNYC	702183727649202177	2016-02-23T17:30:21	.NWSNewYorkNY Coastal Flood Statement in effect for 2/23, 8PM - 11PM. Tides 1.5 - 2 ft above normal expected. .
+NotifyNYC	702134211151577090	2016-02-23T14:13:35	NYS Division of Criminal Justice Services has cancelled the Missing Child Alert for the disappearance of Tatiana Wilamo from Elmsford, NY.
+NotifyNYC	702131252263051264	2016-02-23T14:01:50	Due to vehicle collision,expect extensive traffic delays on the Brooklyn bound direction of the Brooklyn Bridge. Consider alternate routes.
+NotifyNYC	702040581099429888	2016-02-23T08:01:32	.FDNY 3 Alarm Fire: Andrews Ave S &amp; W. Burnside Ave, BX. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	701662883705442305	2016-02-22T07:00:42	Due to downed light poles, expect extensive traffic delays in both directions on the FDR Drive near 96th St, MN. Consider alternate routes.
+NotifyNYC	701563416268447745	2016-02-22T00:25:27	.NYCParks Update: Aerial wildlife survey to occur this evening until approx 3:00 AM (2/22). Expect low-flying plane over various SI parks.
+NotifyNYC	701494919190413312	2016-02-21T19:53:16	Overnight &amp; early morning closures of BatteryParkUnderpass, MN 2/22 - 4/1, from Mon-Thurs 10PM-5AM, Sat 1AM - 8AM. .
+NotifyNYC	701240388200374272	2016-02-21T03:01:51	Following a prior suspension, MTA L train service has resumed in both directions. Expect residual delays.
+NotifyNYC	701234268933066753	2016-02-21T02:37:32	Due to unauthorized person on tracks, MTA L train service suspended btwn Broadway Junction &amp; Rockaway Pkwy, BK in both directions.
+NotifyNYC	701193877252870145	2016-02-20T23:57:02	MissingChildAlert: Tatiana Wilamo, F/W/17, 5'9" 135lbs, from Elmsford. Photo: . Call 911. 
+NotifyNYC	701134313237118977	2016-02-20T20:00:21	.NYCParks Aerial wildlife survey between 5:00 PM &amp; 11:59PM 2/20 &amp; 2/21. A single-engine plane over forested areas in Staten Island.
+NotifyNYC	700771952122851329	2016-02-19T20:00:27	.NYCParks Aerial wildlife survey between 5:00 PM &amp; 11:59PM today, 2/19. A single-engine plane over forested areas in Staten Island.
+NotifyNYC	700442823615713280	2016-02-18T22:12:37	MissingVulnerableAdult: Vincent Giambanco M/W/84 w/dementia. Tan Chevy Impala w/NY reg#BBK-1897. If seen, call 911 .
+NotifyNYC	699738568223232000	2016-02-16T23:34:09	.MTA Following a prior suspension, 7 Train service has resumed in both directions. Expect residual delays.
+NotifyNYC	699713216918790145	2016-02-16T21:53:25	Following a prior MTA suspension, Rockaway Park Shuttle service has resumed in both directions. Expect residual delays.
+NotifyNYC	699713153702236161	2016-02-16T21:53:10	.MTA Mechanical problems: 7 Train service suspended btw Queensboro Plaza &amp; 34 St-Hudson Yards in both directions. .
+NotifyNYC	699707010619744256	2016-02-16T21:28:45	.MTA Following a prior disruption, all 2/3/4/5 Trains have resumed normal service in both directions. Expect residual delays.
+NotifyNYC	699699053110673408	2016-02-16T20:57:08	Due to FDNY activity, various changes &amp; delays for 2,3,4,5 Trains in both directions. Visit  for updates.
+NotifyNYC	699694853232455680	2016-02-16T20:40:27	.MTA Due to a power outage, Rockaway Pk Shuttle suspended in both directions. Use Q53 bus for alternate service. .
+NotifyNYC	699691165726195714	2016-02-16T20:25:48	.PSEGLI is responding to a power outage in QN ZIP 11691, 11692, &amp; 11693. Report service loss: 1-800-490-0075. ASL: .
+NotifyNYC	699683065757634561	2016-02-16T19:53:37	.NWSNewYorkNY Severe Thunderstorm Warning issued for BX, BK, &amp; QN until 3:15PM.   ASL: .
+NotifyNYC	699678195839324160	2016-02-16T19:34:15	.NWSNewYorkNY Severe Thunderstorm Warning issued for Brooklyn &amp; Queens until 3PM.  ASL: .
+NotifyNYC	699632177332543489	2016-02-16T16:31:24	NYC experiencing wind gusts in excess of 40MPH. Caution when walking/driving, wind causes flying debris. .
+NotifyNYC	699473064300564480	2016-02-16T05:59:08	.ConEdison responding to power outage, BX ZIPs 10466 &amp; 10470. To report a loss of service call 1-800-752-6633. ASL: 
+NotifyNYC	699466656901365760	2016-02-16T05:33:41	.ConEdison Power Outage in Hollis, QN: Zip Codes 11412 and 11423. Report service loss: 1-800-752-6633. ASL:  .
+NotifyNYC	699191575893712897	2016-02-15T11:20:36	.FDNY 3 Alarm Fire: Olmstead Ave &amp; Ellis Ave, BX. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	699076721417592833	2016-02-15T03:44:13	.FDNY 3 Alarm Fire: Diamond St &amp; Driggs Ave, BK. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	699035714877575168	2016-02-15T01:01:16	.NWSNewYorkNY Winter Weather Advisory/Travel Advisory 2/15-2/16: 1-4" snow, traces of ice, &amp; rain/coastal flooding. 
+NotifyNYC	698747578033270784	2016-02-14T05:56:19	.MTA Following a prior suspension, 2 &amp; 5 trains have resumed in both directions between East 180th Street and Dyre Avenue in The Bronx.
+NotifyNYC	698722477061599232	2016-02-14T04:16:34	.MTA Due to switch problems, there are no 2 and 5 trains in both directions between East 180th Street and Dyre Avenue in The Bronx.
+NotifyNYC	698585830558986241	2016-02-13T19:13:35	Due to inclement weather, Seastreak Ferry suspending service 2/13 &amp; 2/14. For info .
+NotifyNYC	698505794170523648	2016-02-13T13:55:33	Following a prior suspension, LIRR service in both directions btwn Jamaica &amp; Atlantic have resumed. Expect residual delays.
+NotifyNYC	698497169691701248	2016-02-13T13:21:17	NYC is experiencing wind gusts in excess of 40MPH. Use caution when walking/driving. Wind causes flying debris. .
+NotifyNYC	698493172293496832	2016-02-13T13:05:24	Due to switch trouble, LIRR suspended in both directions btwn Jamaica, QN and Atlantic, BK. NYC Transit cross-honoring fares.
+NotifyNYC	698397972132970496	2016-02-13T06:47:06	SilverAlert: Joann Haggerty F/W/84 w/dementia, from West 40th Street &amp; Madison Ave, MN. If seen, call 9-1-1. 
+NotifyNYC	698293812129562626	2016-02-12T23:53:13	Following a prior suspension, westbound LIRR service between Penn Station and Jamaica has resumed. Expect residual delays.
+NotifyNYC	698290948057513984	2016-02-12T23:41:50	DOB advises property owners, crane operators &amp; contractors that all cranes must be secured &amp; crane operations cease on Saturday.
+NotifyNYC	698261700592668674	2016-02-12T21:45:37	LIRR service is suspended westbound btwn Jamaica, QN &amp; Penn Station, MN. NYC Transit cross-honoring on E train. 
+NotifyNYC	698256743781023744	2016-02-12T21:25:55	Extremely cold temps this weekend, wind chills as low as 25 below. Stay indoors, report loss of heat or hot water to 311.
+NotifyNYC	698197175206023169	2016-02-12T17:29:13	.NWSNewYorkNY NWS Wind Chill Advisory in effect 4PM, 2/13 - 12PM, 2/14.Stay indoors when possible, report loss of heat or hot water to 311.
+NotifyNYC	698151889754595328	2016-02-12T14:29:16	.MTA Following a prior suspension, 2 &amp; 5 trains have resumed in both directions between Franklin Ave and Flatbush Ave in Brooklyn.
+NotifyNYC	698141648560246784	2016-02-12T13:48:34	.MTA Due to switch problems, there are no 2 and 5 trains in both directions between Franklin Avenue and Flatbush Avenue in Brooklyn
+NotifyNYC	697961269991731200	2016-02-12T01:51:48	NYC is experiencing wind gusts in excess of 40MPH. Use caution when walking/driving. Wind causes flying debris. .
+NotifyNYC	697834263702536192	2016-02-11T17:27:08	Following a prior closure, all Jersey bound lanes of the Holland Tunnel are now open. Expect residual delays.
+NotifyNYC	697831401643704320	2016-02-11T17:15:45	Due to a previous car fire, the Jersey bound direction of the Holland Tunnel is closed. Consider alternate routes.
+NotifyNYC	697557792035639297	2016-02-10T23:08:32	.NYCOEM urges New Yorkers to prepare for upcoming extreme cold weather. Info: . ASL: .
+NotifyNYC	697554311094648832	2016-02-10T22:54:42	Following a prior disruption, the E train has resumed normal service in Manhattan. Expect residual delays.
+NotifyNYC	697540830249295873	2016-02-10T22:01:08	Due to NYPDnews activity, MTA E train service suspended btwn W 4th St &amp; World Trade Center both directions, Manhattan. Consider alt route.
+NotifyNYC	697287308471627776	2016-02-10T05:13:43	SilverAlert: Felix Rivera, M/H/79 w/schizophrenia &amp; dementia, from NY Methodist Hospital in BK. If seen, call 9-1-1 
+NotifyNYC	697227742081892352	2016-02-10T01:17:02	Travel Advisory issued for Wed, 2/10, for 2-4" of snow. Allow extra travel time for AM &amp; PM commutes. Info: .
+NotifyNYC	697213630157365248	2016-02-10T00:20:57	Following prior suspension, LIRR service has resumed in both directions btw Atlantic Terminal, BK &amp; Jamaica, QN. Expect delays.
+NotifyNYC	697205401390051328	2016-02-09T23:48:15	Due to MTA signal problems, LIRR service is suspended in both directions btw Atlantic Terminal, BK &amp; Jamaica, QN. .
+NotifyNYC	697174517530107905	2016-02-09T21:45:32	.NWSNewYorkNY Coastal Flood Advisory: BK, South QN, &amp; SI on 2/9 &amp; 2/10. Tides 1.5 - 2.5 ft above normal expected. .
+NotifyNYC	697120935179116545	2016-02-09T18:12:37	Tues 2/16 QueensboroBridge lower roadway lane closures, 10PM-5AM. bikenyc &amp; pedestrian path will be narrowed. 
+NotifyNYC	697099639661727744	2016-02-09T16:48:00	The National Weather Service issues Winter Weather Advisory from 6PM tonight to noon Wednesday, 2/10.
+NotifyNYC	697006740353773568	2016-02-09T10:38:51	Due to a disabled tractor trailer, expect traffic delays on the QN bound BQE approaching the LIE, QN. Consider alternate routes.
+NotifyNYC	696868960013324289	2016-02-09T01:31:21	Rail Incident: Expect delays on NJTRANSIT_NEC &amp; AmtrakNEC Northeast Corridor service in both directions. Allow additional travel time.
+NotifyNYC	696831342324142084	2016-02-08T23:01:53	.NWSNewYorkNY Coastal Flood Warnings &amp; Advisories in effect for 2/8 &amp; 2/9. Tides 2-2.5 ft above normal expected. .
+NotifyNYC	696708413561180160	2016-02-08T14:53:24	.NWSNewYorkNY Coastal Flood Warning: The Bronx until 1pm this afternoon, 2/8. Info: .
+NotifyNYC	696553550554521601	2016-02-08T04:38:02	Travel advisory issued for Monday, 2/8 – Wednesday, 2/10. Snow accumulations of 2-4" expected. .
+NotifyNYC	696543550587146244	2016-02-08T03:58:18	Due to motor vehicle collision, expect traffic delays on Queens bound Belt Pkwy at Pennsylvania Ave, BK. Consider alternate routes.
+NotifyNYC	696438245106851840	2016-02-07T20:59:51	Due to a disabled truck, expect traffic delays on Brooklyn-bound Jackie Robinson Pkwy at Markwood Rd in Queens. Allow additional travel time
+NotifyNYC	696270479024377856	2016-02-07T09:53:12	.ConEdison Power Outage in Ozone Park, QN: Zip Codes 11414 &amp; 11417. Report service loss: 1-800-752-6633. ASL:  .
+NotifyNYC	696210883450695681	2016-02-07T05:56:24	Due to a vehicle collision, expect extensive traffic delays on the BX bound Henry Hudson Pkwy near 125th St, MN. Consider alternate routes.
+NotifyNYC	695751555161653248	2016-02-05T23:31:11	As temps drop below freezing tonight, ice/black ice may cause dangerous conditions on 2/5 &amp; 2/6. More info: 
+NotifyNYC	695751309820084224	2016-02-05T23:30:13	Fireworks February 6 at approximately 8:30 PM off Pier 84, located at Hudson River Greenway west of 44th Street in Manhattan.
+NotifyNYC	695705333747093504	2016-02-05T20:27:31	Following an earlier closure, all lanes on the upper level of the Verrazano Bridge have reopened. Expect residual delays.
+NotifyNYC	695688100874473472	2016-02-05T19:19:03	Icing condition: all lanes on upper level of the Verrazano Bridge in both directions are temporarily closed. Please consider alternate route
+NotifyNYC	695669180478185472	2016-02-05T18:03:52	Following a previous incident, MTA 1,2&amp;3 trains are no longer by passing Chambers St station and Franklin station in Manhattan.
+NotifyNYC	695657953341341697	2016-02-05T17:19:15	Following a previous incident, southbound service on the B and Q trains between Kings Highway and Sheepshead Bay has resumed.
+NotifyNYC	695645931438522368	2016-02-05T16:31:29	.ConEdison Power Outage in Elmhurst, QN: Zip Code 11369. Report service loss: 1-800-752-6633. ASL:  .
+NotifyNYC	695645635635257344	2016-02-05T16:30:18	Due to a track incident, there is no southbound B and Q train service between Kings Highway and Sheepshead Bay.
+NotifyNYC	695632696182251521	2016-02-05T15:38:53	StatenIslandFerry in operation. Due to power outage in StGeorge Terminal concessions limited service/closed. No impact to SIFerry service
+NotifyNYC	695623682782326788	2016-02-05T15:03:04	UPDATE: MTA 1 train bypassing Chambers &amp; Franklin.Closed: Worth btw Church/Hudson, n/b Greenwich from Battery Pl, s/b W Broadway from Canal
+NotifyNYC	695610642368167937	2016-02-05T14:11:15	Due to crane collapse, MTA 1 train bypassing Franklin station. Consider alternate routes and allow for additional travel time.
+NotifyNYC	695602086776606720	2016-02-05T13:37:15	Due to a construction accident, expect traffic delays &amp; emergency personnel near West Broadway and Worth St in Manhattan.
+NotifyNYC	695495280817524736	2016-02-05T06:32:51	All MN bound lanes of the Cross BX Ewpwy @ White Plains Rd, BX have reopened. Expect residual delays.
+NotifyNYC	695479131706937344	2016-02-05T05:28:41	Due to an overturned tractor trailer, all lanes of the MN bound Cross BX Expwy @ White Plains Rd, BX are closed. Use alternate routes.
+NotifyNYC	695469940728537089	2016-02-05T04:52:09	SilverAlert: Fannie McDonald, F/B/75, 5'6" &amp; 100lbs, Putnam Ave and Malcolm X Blvd, BK. Seen? Call 911. 
+NotifyNYC	695424403316699137	2016-02-05T01:51:12	Due to law enforcement activity at E 156th St &amp; Courtlandt Ave, BX, expect traffic delays &amp; emergency personnel in the area.
+NotifyNYC	695415226401816576	2016-02-05T01:14:44	.NYC_DOT NYCASP Alternate Side Parking suspended 2/5/16. Meters in effect. Info . ASL .
+NotifyNYC	695411146510086144	2016-02-05T00:58:32	.nycoem issues citywide Travel Advisory for Fri, 2/5, due to anticipated 2-4 inches of snow. More info: .
+NotifyNYC	695402952849100801	2016-02-05T00:25:58	Following a prior suspension, all LIRR service has resumed. Expect residual delays.
+NotifyNYC	695380142235865088	2016-02-04T22:55:20	Due to a signal problem at Penn, LIRR customers should expect eastbound cancellations and delays. .
+NotifyNYC	695370796697399296	2016-02-04T22:18:11	Following a prior closure, all s/b lanes of the Henry Hudson Pkwy have reopened at the George Washington Bridge, MN. Expect residual delays.
+NotifyNYC	695359953255542784	2016-02-04T21:35:06	Motor vehicle collision: all s/b lanes of the Henry Hudson Pkwy are closed approaching the George Washington Bridge. Consider alt route.
+NotifyNYC	695289135096057857	2016-02-04T16:53:42	Update: Ongoing night &amp; daytime BatteryParkUnderpass lane closures through 2/13. 
+NotifyNYC	695275378907201536	2016-02-04T15:59:02	One lane closed at a time 2/10 on MacombsDamBridge Bronx, N/B+S/B ramps MajorDeeganExpwy btn 7AM-3PM Bronx 
+NotifyNYC	695274847363014656	2016-02-04T15:56:55	Traffic Delays: Expect traffic delays northbound on the FDR Drive at 59th St, MN. Consider alternate routes.
+NotifyNYC	695172766748778496	2016-02-04T09:11:17	MissingVulnerableAdult: Verne Bigbie M/B/72, w/dementia, depression &amp; diabetes. Mount Vernon, NY. Seen? Call 911 
+NotifyNYC	695154919163224064	2016-02-04T08:00:22	MissingVulnerableAdult: Moshe Leibovich M/W/66, w/dementia, 5’7” &amp; 160lbs . Oceanside, NY. Seen? Call 911. 
+NotifyNYC	695146867517190144	2016-02-04T07:28:23	MissingVulnerableAdult: Mary Mendez F/B/85 w/dementia. Driving Gray Cadillac Deville, NY reg#CBH5149. See? Call 911 
+NotifyNYC	695071032705732608	2016-02-04T02:27:02	NYC is experiencing wind gusts in excess of 40MPH. Use caution when walking/driving. Wind causes flying debris. .
+NotifyNYC	695066460855668737	2016-02-04T02:08:52	.ConEdison Power Outage in Gravesend, BK: Zip Code 11223. Report service loss: 1-800-752-6633. ASL:  .
+NotifyNYC	695006546145710082	2016-02-03T22:10:47	SilverAlert: Rose Cappiello, F/W/71 w/Alzheimer's, 5'6" &amp; 160lbs, 30th Dr &amp; 14th St, QN. Seen? Call 911 
+NotifyNYC	694989439689441280	2016-02-03T21:02:49	.ConEdison Power Outage in Sunnyside, SI: Zip Codes 10301 &amp; 10304. Report service loss: 1-800-752-6633. ASL:  .
+NotifyNYC	694973746424238080	2016-02-03T20:00:27	WilliamsburgBridge vehicular lane closures 2/4 &amp; 2/5, 10AM-3PM for preventive maintenance.
+NotifyNYC	694968596200603648	2016-02-03T19:39:59	SilverAlert: Deirdre Williams, F/B/68 w/Alzheimer's, 5'1" &amp; 175lbs, Linden Blvd &amp; Ashford St, BK. Seen? Call 911. 
+NotifyNYC	694885472850436096	2016-02-03T14:09:41	.ConEdison Power Outage in Throggs Neck, BX: Zip Code 10465. Report service loss: 1-800-752-6633. ASL:  .
+NotifyNYC	694710953254993920	2016-02-03T02:36:13	Due to a temporary bridge lift to allow for marine traffic, expect traffic delays near the Marine Parkway Bridge. Allow additional time.
+NotifyNYC	694663929319034880	2016-02-02T23:29:21	Due to a motor vehicle collision, expect traffic delays near QN-bound Queensboro Bridge. Use alternate routes &amp; allow additional time.
+NotifyNYC	694642630601379840	2016-02-02T22:04:43	MissingVulnerableAdult: Jack Raybin M/W/96 w/dementia. Driving brown Toyota Corolla, NY reg#BBC-7113. See? Call 911 
+NotifyNYC	694555258987614208	2016-02-02T16:17:32	.FDNY ThreeAlarmFire: Broadway &amp; West 100th St, MN. Expect smoke &amp; traffic delays. People nearby avoid smoke, close windows.
+NotifyNYC	694456363133571073	2016-02-02T09:44:34	SilverAlert: Madeline Devonish F/B/79 w/Alzheimer's, 5'6" &amp; 120lbs, E. 141st St &amp; Brook Ave, BX. If seen, call 911 
+NotifyNYC	694414959594356736	2016-02-02T07:00:02	.ConEdison power outage in Allerton, BX: Zip Code 10469. Report service loss: Call 1-800-752-6633. ASL:  .
+NotifyNYC	694361275808223232	2016-02-02T03:26:43	Following a prior service disruption, MetroNorth has resumed normal service in The Bronx. Expect residual delays.
+NotifyNYC	694346689960923136	2016-02-02T02:28:45	.FDNY ThreeAlarmFire: Sinclair Ave &amp; Maguire Ave, SI. Expect smoke &amp; traffic delays. People nearby avoid smoke, close windows.
+NotifyNYC	694289486319063040	2016-02-01T22:41:27	Due to police activity, no MetroNorth service  @ Bronx stations on Harlem &amp; New Haven lines. Use NYC Transit. .
+NotifyNYC	694248998853611522	2016-02-01T20:00:34	MetropolitanAveBridge overnight closure vehicles/pedestrians/bikenyc: EnglishKills, BK 2/2-2/6, 12AM-6AM. .
+NotifyNYC	694248810520911874	2016-02-01T19:59:49	Overnight closures of BatteryParkUnderpass, MN thru 2/13, Mon-Fri from 12:00AM - 5AM, Sat from 1AM - 8AM. .
+NotifyNYC	694203758671167489	2016-02-01T17:00:48	.nyc_DOT will be conducting Sandy repair work on 3rdStBridge over GowanusCanal closed intermittently 15 min at a time btw 9am-4pm 2/2/16
+NotifyNYC	693367356299595776	2016-01-30T09:37:14	Traffic Delays: Expect traffic delays in the area of the Washington Bridge @ Amsterdam Ave &amp; W. 181st St, MN. Consider alternate routes.
+NotifyNYC	693161805896650756	2016-01-29T20:00:27	.nyc_dot Full Closure TransManhattanExpressway Connector Ramp from GeorgeWashingtonBridge to HarlemRiverDrive 12:01AM 1/30 - 5:00AM 2/1
+NotifyNYC	692820179047337986	2016-01-28T21:22:57	Previously reported "earthquake activity" now confirmed to be a sonic boom from an aircraft by US Geological Survey. NOT an earthquake.
+NotifyNYC	692803987570085888	2016-01-28T20:18:36	Unconfirmed reports of an earthquake in NYC/NJ area. No earthquake activity identified by US Geological Survey. No reports of damage.
+NotifyNYC	692787819564109824	2016-01-28T19:14:22	Due to a smoke condition in the area of W. 40th St and 5th Ave, MN, expect presence of emergency personnel in the area.
+NotifyNYC	692657223491780608	2016-01-28T10:35:25	.MTA FDNY activity: delays for 7 train service in both directions. Use alternate routes, more information: 
+NotifyNYC	692476020595781633	2016-01-27T22:35:23	Following a prior MTA suspension, the L train has resumed service. Expect residual delays.
+NotifyNYC	692473823317364739	2016-01-27T22:26:39	Due to FDNY activity, MTA Brooklyn-bound L train service is suspended btwn Myrtle Ave &amp;  Rockaway Pkwy. Consider alt routes.
+NotifyNYC	692437256129355777	2016-01-27T20:01:21	.BilldeBlasio Travel Advisory issued until 1/29. Nightly freezing temps may create black ice/slippery conditions. .
+NotifyNYC	692432636493586432	2016-01-27T19:42:59	.NYC_DOT RooseveltIslandBridge: intermittent 15 min full closures on 1/28 between 10AM &amp; 2PM.
+NotifyNYC	692258033381040128	2016-01-27T08:09:11	SilverAlert: Leonid Tsipenyuk, M/W/79 w/Alzheimer's, 5'7" &amp; 175lbs, from Emmons Ave &amp; Webers Ct, BK. Seen? Call 911 
+NotifyNYC	692089757552103424	2016-01-26T21:00:31	.NYPDnews Activity: Expect emergency personnel &amp; traffic delays near United Nations Plaza, MN. Allow additional travel time.
+NotifyNYC	691915989945028608	2016-01-26T09:30:01	.LIRR system-wide service will resume for the morning rush, expect delays. More info: 
+NotifyNYC	691808206092439555	2016-01-26T02:21:44	.NY_NJairports Due to heavy volume, expect extensive traffic delays near LaGuardia Airport. Check flight status &amp; allow addt'l travel time
+NotifyNYC	691776741904404480	2016-01-26T00:16:42	Following prior MTA suspension, A Train service has resumed btw Rockaway Blvd &amp; Mott Avenue-Far Rockaway, QN. Expect residual delays.
+NotifyNYC	691773105434431488	2016-01-26T00:02:15	.BilldeBlasio Travel Advisory issued 1/25-1/29. Nightly freezing temps may create black ice/slippery conditions. .
+NotifyNYC	691758760591790081	2016-01-25T23:05:15	.MTA Mechanical Problem: A Train service suspended btw Rockaway Blvd &amp; Mott Av/Far Rockaway. Use Q22, Q52, Q53 bus. 
+NotifyNYC	691750376320671744	2016-01-25T22:31:56	Following prior closure, all lanes of the Grand Central Pkwy have reopened at the Long Island Expwy, QN. Expect residual delays.
+NotifyNYC	691746231173976065	2016-01-25T22:15:28	Following prior closure, all lanes of the West Shore Expressway have reopened at Arthur Kill Road, SI. Expect residual delays.
+NotifyNYC	691731154785931265	2016-01-25T21:15:33	Due to a motor vehicle collision, all lanes of the southbound West Shore Expwy closed are at Arthur Kill Rd, SI. Use alternate routes.
+NotifyNYC	691712263955333120	2016-01-25T20:00:29	.NYC_Buildings reminds property owners to safely remove ice/snow from roofs/overhangs/awnings. Info: .
+NotifyNYC	691709335299342336	2016-01-25T19:48:51	Due to a vehicle fire, all lanes of the westbound Grand Central Parkway are closed at the Long Island Expressway, QN. Use alternate routes.
+NotifyNYC	691623771132858368	2016-01-25T14:08:51	Following an earlier suspension, the Rockaway Park Shuttle Service (QN) has resumed w/ limited service. Expect residual delays.
+NotifyNYC	691571055492751361	2016-01-25T10:39:23	.LIRR train service remains suspended due to blizzard impact and is expected to resume at 7:00 AM. Consider alternate routes.
+NotifyNYC	691436141371854848	2016-01-25T01:43:17	LIRR service resumes 5AM on 1/25: Pt Wash, Oyster Bay, Pt Jeff, Ronkonkoma, Huntington, Babylon &amp; Greenport lines. .
+NotifyNYC	691401440380764161	2016-01-24T23:25:23	.SeaStreakFerry will resume full service from all locations tomorrow, January 25, 2016. .
+NotifyNYC	691390614181695489	2016-01-24T22:42:22	Update NYCASP: Alt Side Parking suspended until 2/1, cars may stay in "No Standing-School Hours" zones until 1/27. .
+NotifyNYC	691350468891668485	2016-01-24T20:02:51	Due to an overturned vehicle, all Bronx-bound lanes of FDR Drive closed at 63rd St, MN. Consider alternate routes.
+NotifyNYC	691329035947868160	2016-01-24T18:37:41	.MTA Following a prior suspension, Staten Island Railway service has been restored with residual delays.
+NotifyNYC	691313215012212736	2016-01-24T17:34:49	FDR Drive: All BK-bound lanes experiencing temporary lane closure &amp; delays d/t @ 79th Street (MN). Use alternate routes if possible
+NotifyNYC	691295603175866368	2016-01-24T16:24:50	.NYC_DOT NYCASP Alternate Side Parking suspended 1/25-1/29. Meters in effect. Info . ASL .
+NotifyNYC	691281950330482688	2016-01-24T15:30:35	Following an earlier suspension, EastRiverFerry has resumed service.  For latest updates, see: 
+NotifyNYC	691265613818433536	2016-01-24T14:25:40	.FDNY ThreeAlarmFire: 9 Ave &amp; W 51 St, MN. Expect smoke &amp; traffic delays. People nearby avoid smoke, close windows
+NotifyNYC	691259705155571712	2016-01-24T14:02:11	UPDATE: MTA customers should expect delays and service changes. Visit  for the latest info.
+NotifyNYC	691247943354028033	2016-01-24T13:15:27	.MTA Subway restores 1/24 @ 9AM, Metro-North 1/24 @ 12PM, &amp; LIRR 1/25 morning.  Expect delays &amp; check MTA updates: 
+NotifyNYC	691240578277888000	2016-01-24T12:46:11	Following previous suspension of service, all MTA Bus and Access-A-Ride service has been restored.  Expect residual delays.
+NotifyNYC	691089880567418880	2016-01-24T02:47:22	Travel Ban Lifted: All NYC roadways are open as of 1/24 at 7:00 AM. Use caution when driving. alert
+NotifyNYC	691056354056892416	2016-01-24T00:34:08	Due to inclement weather, Seastreak Ferry service is suspended on 1/24 and until further notice. Info: .
+NotifyNYC	691053650387533826	2016-01-24T00:23:24	Due to severe weather, buses operating out of PANYNJ are suspended at 3:30PM, terminal will close at 4PM.
+NotifyNYC	690996101747511296	2016-01-23T20:34:43	.FDNY Snow covered hydrants may cause dangerous &amp; potentially deadly conditions. FDNY is asking residents to clear snow from hydrant alert
+NotifyNYC	690972392403898368	2016-01-23T19:00:30	.Eastriverferry Due to inclement weather conditions, the East River Ferry service is suspended until further notice.
+NotifyNYC	690961449980674048	2016-01-23T18:17:01	SafeNYC  Winter weather: All non-emergency vehicles throughout NYC must be off the roads by 2:30PM &amp; until further notice alert
+NotifyNYC	690955930805100544	2016-01-23T17:55:05	Due to weather, all LIRR, Metro-North, and elevated subway lines are suspended as of 4PM. For more info:  alert
+NotifyNYC	690939605701541889	2016-01-23T16:50:13	Due to inclement weather conditions, the Rockaway Park Shuttle service in Queens is suspended. Consider alternate routes.
+NotifyNYC	690933557838155778	2016-01-23T16:26:11	.NYC_DOT NYCASP Alternate Side Parking rules suspended 1/25. Meters in effect. Info . ASL .
+NotifyNYC	690921990954323970	2016-01-23T15:40:14	Due to severe weather, there is no MTA bus or Access-A-Ride service effective 12PM until further notice. Info: .
+NotifyNYC	690893735886987266	2016-01-23T13:47:57	Due to disabled vehicles, expect traffic delays westbbound on Long Island Expressway at Maurice Ave, QN. Use caution when driving.
+NotifyNYC	690886884810211328	2016-01-23T13:20:44	Due to disabled vehicles, expect traffic delays southbound on FDR Drive at 23rd St, MN. Use caution when driving.
+NotifyNYC	690871333274685440	2016-01-23T12:18:56	NYC is experiencing wind gusts in excess of 40MPH. Use caution when walking/driving. Wind causes flying debris.
+NotifyNYC	690809675449798656	2016-01-23T08:13:55	.FDNY ThreeAlarmFire: 91 Ave &amp; 175 St, QN. Expect smoke &amp; traffic delays. People nearby avoid smoke, close windows
+NotifyNYC	690772776383287296	2016-01-23T05:47:18	Following a prior MTA suspension, L train service has resumed in both directions. Expect residual delays.
+NotifyNYC	690768984904450048	2016-01-23T05:32:14	Due to NYPD activity, L train service is suspended between Myrtle Ave &amp; Rockaway Pkwy, BK in both directions. Consider alternate routes.
+NotifyNYC	690707952328691712	2016-01-23T01:29:43	Due to the weather, Seastreak Ferry service is suspended on Saturday, January 23. Info: .
+NotifyNYC	690702157880893440	2016-01-23T01:06:41	Due to severe weather predictions, all NYC Public School events are cancelled 1/23 &amp; 1/24. Info 
+NotifyNYC	690679110822187009	2016-01-22T23:35:06	Coastal Flood Warning now issued for areas adjacent to LI Sound in The Bronx &amp; Northern Queens.  for details.
+NotifyNYC	690638854362120192	2016-01-22T20:55:08	El alcalde BilldeBlasio declara emergencia por tormenta de nieve:  nevadaNYC
+NotifyNYC	690633190743117824	2016-01-22T20:32:38	Mayor De Blasio declares Winter Weather Emergency as of 8:00AM 1/23 for 12-18" snow &amp; wind 25 - 30 mph with gusts up to 50 mph.
+NotifyNYC	690578397764919296	2016-01-22T16:54:55	.NWSNewYorkNY Multiple Coastal Flood products in effect for Saturday, 1/23, Citywide. Visit .
+NotifyNYC	690577034783887360	2016-01-22T16:49:30	NYPD has cancelled the Missing Child Alert for Tahir Williams from The Bronx.
+NotifyNYC	690561118251700226	2016-01-22T15:46:15	Hazardous Travel Advisory for NYC 1/23 - 1/24 with a total snow accumulation of 8-12".  ASL- 
+NotifyNYC	690365049437884416	2016-01-22T02:47:08	MissingChildAlert: Tahir Williams, M/B/17, 6'0" &amp; 180lbs, from The Bronx. If seen, call 9-1-1. alert 
+NotifyNYC	690337099900411904	2016-01-22T00:56:05	Due to a motor vehicle collision, expect traffic delays in both directions on FDR Drive at E 41st St, MN. Use alternate routes.
+NotifyNYC	690310501260206080	2016-01-21T23:10:23	.NWSNewYorkNY Coastal Flood Watches: MN, South QN, BK &amp; SI, 6PM-11PM 1/23. BX &amp; North QN, 10PM 1/23 - 1 AM 1/24. .
+NotifyNYC	690275707050659840	2016-01-21T20:52:07	.NYC_DOT NYCASP Alternate Side Parking rules suspended 1/23. Meters in effect. Info . ASL .
+NotifyNYC	690269994723209216	2016-01-21T20:29:25	.FDNY ThreeAlarmFire: Paerdegat 14th St &amp; East 80th St, BK. Expect smoke &amp; traffic delays. People nearby avoid smoke, close windows.
+NotifyNYC	690199545427402752	2016-01-21T15:49:29	Hazardous Travel Advisory for NYC 1/23 - 1/24 with a total snow accumulation of 8-12".  ASL- 
+NotifyNYC	690176956529254400	2016-01-21T14:19:43	Due to a track incident,expect extensive delays on the westbound LIRR between Ronkonkoma branch and Penn Station.Consider alternate routes.
+NotifyNYC	689894117418110976	2016-01-20T19:35:49	.nycSchools Pre-K 22 students and staff have returned to 1139 Coney Island Avenue (BK). There will be regular dismissal today.
+NotifyNYC	689856055342415873	2016-01-20T17:04:35	.nycSchools School Relocation: Pre-K District 22 (1139 Coney Is. Ave) relocated and will be dismissed at PS 217 (1100 Newkirk Ave)
+NotifyNYC	689602620948926468	2016-01-20T00:17:31	Following a prior service suspension, westbound LIRR service has resumed between Woodside &amp; Penn Station. Expect residual delays
+NotifyNYC	689575487677599745	2016-01-19T22:29:42	Disabled Train: LIRR westbound service suspended btw Woodside &amp; Penn Station. Cross-honoring on E &amp; 7 Trains. .
+NotifyNYC	689569775899508741	2016-01-19T22:07:00	Due to debris, AmtrakNEC customers should expect delays between NYC &amp; New Haven in both directions. Allow additional time.
+NotifyNYC	689561161919021060	2016-01-19T21:32:47	Following suspension, westbound LIRR service has resumed. Customers should expect delays through the evening rush.
+NotifyNYC	689554893238042624	2016-01-19T21:07:52	Sig Problems: Westbound LIRR service suspended btw Jamaica &amp; Penn, &amp; Jamaica &amp; Atlantic. Cross-honoring on E Train. 
+NotifyNYC	689537851504082944	2016-01-19T20:00:09	MetropolitanAveBridge overnight closure for vehicles/pedestrians/bikenyc: EnglishKills, BK 1/19-1/23, 12AM-6AM. .
+NotifyNYC	689505969642942464	2016-01-19T17:53:28	NYC to experience wind gusts in excess of 40MPH. Use caution when walking/driving. Wind causes flying debris. 
+NotifyNYC	689086658759774209	2016-01-18T14:07:16	NYC experiencing wind gusts in excess of 40MPH. Use caution when walking/driving. Wind can cause flying debris. .
+NotifyNYC	689049588947357696	2016-01-18T11:39:58	Missing: SierraShields F/B/30 #911  
+NotifyNYC	688989602250649600	2016-01-18T07:41:36	Due to a vehicle collision,expect traffic delays in the MN bound direction of the Bruckner Expy at Bronx River Ave (BX).Consider alt routes.
+NotifyNYC	688905750949834752	2016-01-18T02:08:24	Following a prior PANYNJ closure, all lanes of the Bayonne Bridge have reopened in both directions. Expect residual delays.
+NotifyNYC	688905008943919105	2016-01-18T02:05:28	MissingVulnerableAdult: Robert Lichtman M/W/78 w/dementia. Driving tan Subaru Forester, NY reg#DRRML. See? Call 911 
+NotifyNYC	688882335002021889	2016-01-18T00:35:22	.PANYNJ Road Closure: Due to a motor vehicle collision, all lanes of the Bayonne Bridge closed in both directions. Allow additional time.
+NotifyNYC	688871336098287621	2016-01-17T23:51:39	.NYCWater on scene of water main break at E 167 St &amp; Prospect Ave, BX. Water service temporarily disrupted in area. Call 311 for info.
+NotifyNYC	688813389712375809	2016-01-17T20:01:24	Planned Work: 149StBridge closed to bikenyc &amp; pedestrians, 1/18 until further notice. . .
+NotifyNYC	688523801911554048	2016-01-17T00:50:41	Following a prior suspension, 1 train service has resumed in both directions btwn 168 St, MN and 242 St, BX. Expect residual delays.
+NotifyNYC	688518891438522368	2016-01-17T00:31:10	Due to unauthorized person on the tracks, 1 train service suspended btwn 168 St, MN &amp; 242 St, BX in b/d. Consider alt route.
+NotifyNYC	688502540074352640	2016-01-16T23:26:11	Due to a misplaced bus, expect traffic delays on the Jackie Robinson Parkway at Queens Boulevard, QN in b/d. Consider alt route.
+NotifyNYC	688276207507382272	2016-01-16T08:26:50	SilverAlert: Maurice Celestin, M/B/85, dementia, 5'5", thin build, Eastern Pkwy &amp; Franklin Ave, BK. Seen? Call 911 
+NotifyNYC	688088373278408704	2016-01-15T20:00:26	.nyc_dot Full Closure TransManhattanExpressway Connector Ramp from GeorgeWashingtonBridge to HarlemRiverDrive 
+NotifyNYC	687867386226151426	2016-01-15T05:22:19	Road Reopened: All MN bound lanes of the Harlem River Dr at 155th St, MN have reopened. Expect residual delays.
+NotifyNYC	687862628375486464	2016-01-15T05:03:25	Road Closure: Due to FDNY activity, all MN bound lanes of the Harlem River Dr at 155th St, MN are closed. Expect heavy delays.
+NotifyNYC	687751509652729856	2016-01-14T21:41:52	.FDNY Activity: Expect traffic delays near W 36th St &amp; 7th Ave, MN. Consider alt routes &amp; allow additional travel time.
+NotifyNYC	687734812275269632	2016-01-14T20:35:31	Following a prior suspension, MTA service has resumed in both directions on the B,D,C,F, &amp; M lines. Expect residual delays.
+NotifyNYC	687725422243627009	2016-01-14T19:58:12	.nyc_DOT will be conducting Sandy repair work on 3rdStBridge over GowanusCanal closed intermittently 15 min at a time btw 9am-4pm 1/15/16
+NotifyNYC	687720900813283332	2016-01-14T19:40:14	Due to a broken rail, MTA service changes &amp; delays in effect for B,D,C,F, &amp; M lines in both directions. .
+NotifyNYC	687646139617808385	2016-01-14T14:43:10	.nycSchools John Adams High School students and staff have returned to 101-01 Rockaway Blvd (QN). There will be regular dismissal today.
+NotifyNYC	687636368185507840	2016-01-14T14:04:20	.NYCSchools Relocation of John Adams HS to MS 137 (109-15 98th Street) and PS 108 (108-10 109th Avenue). Dismissal location pending.
+NotifyNYC	687340934237937664	2016-01-13T18:30:23	Due to a motor vehicle collision, expect traffic delays on the southbound FDR Drive at 63rd St in Manhattan. Consider alternate routes.
+NotifyNYC	687232482694004736	2016-01-13T11:19:26	Extensive delays on e/b BQE at Hamilton Ave (BK). Use alternate routes if possible.
+NotifyNYC	687020798448635905	2016-01-12T21:18:17	.NWSNewYorkNY has issued a Wind Advisory from 8PM tonight until 1PM tomorrow, 1/13. For updates: .
+NotifyNYC	686878319665672192	2016-01-12T11:52:07	FDNY 3 Alarm Fire: Grand Concourse &amp; E 180th St, BX. Expect smoke &amp; traffic delays in area. People nearby avoid smoke, close windows.
+NotifyNYC	686878312031981568	2016-01-12T11:52:05	Due to a vehicle incident, extensive delays on Queens bound BQE at Tillary St (BK). Consider alternate routes.
+NotifyNYC	686702463559282689	2016-01-12T00:13:20	Following prior emergency personnel activity, 7th Ave has reopened between W 52nd &amp; W 53rd Streets, MN. Expect residual delays.
+NotifyNYC	686669388322369537	2016-01-11T22:01:54	Overnight closures of BatteryParkUnderpass, MN thru 1/23, Mon-Fri from 12:01AM - 5AM, Sat from 1AM - 8AM. .
+NotifyNYC	686637683632902144	2016-01-11T19:55:55	Controlled fire &amp; disaster drill @ Stein Center on E 23rd St, MN @ 6:30PM on 1/12. FDNY / NYPDnews on site. .
+NotifyNYC	686625140180914176	2016-01-11T19:06:04	MissingSenior: Jesus Reinat, M/H/68 w/dementia, 5'2" &amp; 125lbs, from Stanley Ave &amp; Pine St, SI. If seen, call 9-1-1. 
+NotifyNYC	686521500967563265	2016-01-11T12:14:15	Road closures d/t falling debris at 7th Ave btwn W52nd-W53rd St (MN).  Vehicular traffic &amp; MTA buses rerouted info: 
+NotifyNYC	686368187491954688	2016-01-11T02:05:02	SilverAlert: Carl Barnett, M/B/71 w/dementia, 5'7" &amp; slim build, from Mt View Ave &amp; Purdy Ave, SI. Seen? Call 911. 
+NotifyNYC	686328206153113600	2016-01-10T23:26:10	Following prior suspension, MTA F Train service is restored btw Church Ave &amp; Stillwell Ave, BK. Expect residual delays.
+NotifyNYC	686316074837622784	2016-01-10T22:37:58	Due to a ConEdison power outage, MTA F Train service suspended btw Church Ave &amp; Stillwell Ave, BK, in both directions. Allow addt'l time.
+NotifyNYC	686313916918530048	2016-01-10T22:29:23	.ConEdison Power Outage in Gravesend, BK: Zip Codes 11223, 11229, 11235. Report service loss: 1-800-752-6633. ASL: .
+NotifyNYC	686184509012897792	2016-01-10T13:55:10	.ConEdison power outage in New Dorp, SI: Zip Code 10306. Report service loss: Call 1-800-752-6633. ASL: .
+NotifyNYC	686165542537965568	2016-01-10T12:39:48	.ConEdison power outage in Sheepshead Bay, BK: Zip Code 11235. Report service loss: Call 1-800-752-6633. ASL: .
+NotifyNYC	686164249085915136	2016-01-10T12:34:39	NYC experiencing wind gusts in excess of 40MPH. Use caution when walking/driving. Wind can cause flying debris. .
+NotifyNYC	685744514674331648	2016-01-09T08:46:47	MissingVulnerableAdult: Earl Bryant, M/B/80 from Uniondale NY w/2004 Lexus ZZZ, NY reg EJL6195. Seen? Call 911 
+NotifyNYC	685563515411795968	2016-01-08T20:47:33	SilverAlert Viola Smith F/B/69 w/Schizophrenia, 5'8" 250lbs, last seen on Rochester Ave &amp; St. Marks Ave, BK. If seen, please call 9-1-1.
+NotifyNYC	685189879299465216	2016-01-07T20:02:52	.FDNY Low flying helicopter at the Staten Island Mall on 1/8, between 7:00 AM - 9:00 AM. FDNY personnel will be on site.
+NotifyNYC	685115153608736768	2016-01-07T15:05:56	Simulated Explosion: Today, 1/7 10:30AM to 1:30PM at Coffey St btw Ferris and the dead end(BK). NYPD and FDNY will be on site.
+NotifyNYC	685098958536990720	2016-01-07T14:01:34	Following a prior closure, all Staten Island bound lanes of the Brooklyn - Queens Expressway are reopened. Expect residual delays.
+NotifyNYC	685062566096322560	2016-01-07T11:36:58	Due to a vehicle collision, all lanes of the Staten Island bound Brooklyn - Queens Expressway are closed in BK. Consider alternate routes.
+NotifyNYC	684861025880031233	2016-01-06T22:16:07	SilverAlert: Manuel Davilla, M/H/84 w/dementia, 5'5" &amp; 150lbs, from BX River Ave &amp; E 174 St, BX. If seen, call 911. 
+NotifyNYC	684826900469026816	2016-01-06T20:00:31	Controlled fire &amp; disaster drill @ Cadman Plaza E &amp; Red Cross Pl, BK @ 6:30PM on 1/7. FDNY NYPDnews on site. .
+NotifyNYC	684679519748362241	2016-01-06T10:14:52	Following prior service disruptions, all MTA service has resumed in both directions on the B,D,F,N,Q &amp; R trains. Expect residual delays.
+NotifyNYC	684486471714234368	2016-01-05T21:27:46	Due to MTA rail conditions, service changes &amp; delays on B,D,F,N,Q &amp; R trains in both directions. .
+NotifyNYC	684472335357865984	2016-01-05T20:31:36	Controlled fire &amp; disaster drill @ Kings Plaza Community CTR, BK @ 6:30PM on 1/6. FDNY &amp; NYPDnews will be on site. 
+NotifyNYC	684354238542180352	2016-01-05T12:42:19	Following prior suspension,MTA J&amp;Z train service resumed in both directions btwn Crescent St,BK &amp; Jamaica Ctr,QN. Expect residual delays.
+NotifyNYC	684331447814111232	2016-01-05T11:11:46	Due to MTA signal problems, no J &amp; Z train service in both directions btwn Crescent St, BK &amp; Jamaica Ctr, QN. Consider alternate routes.
+NotifyNYC	684314863838035968	2016-01-05T10:05:52	.ConEdison power outage in Throggs Neck, BX: Zip Code 10465. Report service loss: Call 1-800-752-6633. ASL: .
+NotifyNYC	684266319638822912	2016-01-05T06:52:58	SilverAlert: Hector Costas, M/H/85, 5'7" &amp; 150lbs w/gray hair, from 10th Ave &amp; W. 51st St in MN. If seen, call 911. 
+NotifyNYC	684101491548942337	2016-01-04T19:58:00	Following a prior suspension, PATHTrain service has resumed on all affected lines in both directions. Expect residual delays.
+NotifyNYC	684100283996225536	2016-01-04T19:53:12	Controlled fire &amp; disaster drill at York College, QN @ 6:30PM on 1/5. FDNY &amp; NYPDnews will be present. .
+NotifyNYC	684093100839596032	2016-01-04T19:24:39	Due to track condition, PATHTrain service suspended on Journal Sq - 33rd St and Hoboken to 33rd St lines. Use alternate routes.
+NotifyNYC	683312768477429760	2016-01-02T15:43:53	SilverAlert Hang Ng F/A/66 w/Alzheimer's last seen on Mermaid Ave &amp; W 23rd St, BK.  Seen? Call 9-1-1.
+NotifyNYC	683182162779226112	2016-01-02T07:04:55	SilverAlert: Rudolph McBean, M/B/64 w/dementia, from Crotona Pk North &amp; Clinton Ave, BX. If seen, call 9-1-1. 
+NotifyNYC	682719737076428801	2016-01-01T00:27:24	MissingVulnerableAdult: Hongbin Zheng, M/A/74 w/dementia, 5'6" 150lb, from NY Public Library, MN. If seen, call 911 
+NotifyNYC	682701099627868161	2015-12-31T23:13:20	Following prior service disruptions, all MTA service has resumed in both directions on the E/F/M/R/7 &amp; J Trains. Expect residual delays.
+NotifyNYC	682676319088472064	2015-12-31T21:34:52	Due to MTA signal problems &amp; disabled train, service changes &amp; delays on E,F,M,R,7 &amp; J Trains in both directions. .
+NotifyNYC	682472861022437376	2015-12-31T08:06:24	SilverAlert: Robert Hawkins, M/B/78 w/dementia, from Kosciuszko Street and Lewis Avenue, BK. If seen, call 9-1-1. 
+NotifyNYC	682353477658480641	2015-12-31T00:12:01	Due to a displaced tractor trailer, expect traffic delays on the w/b Brooklyn Bridge near BQE in Brooklyn. Consider alt route.
+NotifyNYC	682335527354236928	2015-12-30T23:00:41	NewYearsEve: There will be a fireworks display at midnight tomorrow, 12/31, on the 17th Street Pier, Coney Island, Brooklyn.
+NotifyNYC	682305262875705344	2015-12-30T21:00:25	A fireworks display is scheduled to take place at midnight on 12/31 at the Central Park Cherry Hill fountain.
+NotifyNYC	682297681696391168	2015-12-30T20:30:18	A fireworks display is scheduled to take place on 12/31, at midnight, on a barge in the water near Liberty Island.
+NotifyNYC	682290179797860355	2015-12-30T20:00:29	There will be a fireworks display near Prospect Park tomorrow, 12/31/15, at approximately 11:59 PM.
+NotifyNYC	681966704713445376	2015-12-29T22:35:07	Following a prior closure, all lanes of the Manhattan bound Brooklyn Battery Tunnel have reopened. Expect residual delays.
+NotifyNYC	681963577310339072	2015-12-29T22:22:41	Due to a vehicle collision, all westbound lanes of the Brooklyn Battery Tunnel are closed. Consider alternate routes.
+NotifyNYC	681751783501348864	2015-12-29T08:21:06	SilverAlert: Caterina Romero, F/W/87 w/ Alzheimer's and dementia, 83rd St and 17th Ave, BK. If seen, call 911. 
+NotifyNYC	681630183653269504	2015-12-29T00:17:54	Following prior suspension, PATHTrain service has resumed btw Newark-Penn Station, NJ &amp; World Trade Center, MN. Expect delays.

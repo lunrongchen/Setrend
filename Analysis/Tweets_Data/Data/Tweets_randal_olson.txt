@@ -1,0 +1,1169 @@
+randal_olson	726170519750500352	2016-04-29T22:05:18	Well, that's an interesting environment to deploy in. programming  
+randal_olson	726121511136956422	2016-04-29T18:50:33	Australia's urban footprint. dataviz  
+randal_olson	725926326280953856	2016-04-29T05:54:57	Nice YouTube playlist of 60+ videos by now from karoly_zsolnai on papers from a variety of disciplines  nicely done!
+randal_olson	725855127047917569	2016-04-29T01:12:02	A new data release from the nytimes 
+randal_olson	726076180772864000	2016-04-29T15:50:25	Wales visualized by only its roads and structures. dataviz  
+randal_olson	726068674285699072	2016-04-29T15:20:36	amuellerml Ooohh, you're the creator of sklearn now? ;-)   
+randal_olson	725979530268127232	2016-04-29T09:26:22	Sci-Hub Downloads for February 2016 by Hour/Weekday. I’d say it looks like tons of downloads are from universities. 
+randal_olson	726055107360600064	2016-04-29T14:26:41	More on scihub data: Number of downloads plotted against 2014 population size according to worldbankdata /cc tkb 
+randal_olson	726032103083806720	2016-04-29T12:55:17	Interactive dataviz showing where house prices have risen&amp;fallen since 2004 across the US.   
+randal_olson	726018287260282881	2016-04-29T12:00:23	Finally we have the answer to, "How would you go about learning Perl?" programming  
+randal_olson	725803117510578178	2016-04-28T21:45:22	The outlines of continents can be visualized by shipping routes. dataviz  
+randal_olson	725765399569113088	2016-04-28T19:15:29	Which are the world's most influential languages? dataviz  
+randal_olson	725746513121533953	2016-04-28T18:00:27	The (real) scientific method. science phdchat  
+randal_olson	725370905975775232	2016-04-27T17:07:55	Increasing ideological polarization in the public along party lines over last two decades  
+randal_olson	725001493963632640	2016-04-26T16:40:00	Download the data behind our dataviz on github  
+randal_olson	725683215587926016	2016-04-28T13:48:55	”a published conclusion which was incorrect due to the use of a rainbow colour scheme“  
+randal_olson	725742644484251649	2016-04-28T17:45:04	sjmgarnier Wait, you got away with your kidney?
+randal_olson	725742424677617665	2016-04-28T17:44:12	ChristophAdami That header image looks awesome!
+randal_olson	725394975018512384	2016-04-27T18:43:33	Whoah... I just freed 7GB of disk space by running ``conda clean -tp`` (t = tarballs, p = unused packages)
+randal_olson	725720071855837184	2016-04-28T16:15:23	PolitiFact rulings on statements from candidates in 2016 US Presidential election. dataviz  
+randal_olson	725699883894738944	2016-04-28T14:55:09	Programming job advertisement from Russia, 2006.   
+randal_olson	725686124719542273	2016-04-28T14:00:29	Recreating the decrypting text effect from the 1992 movie Sneakers. hacking programming  
+randal_olson	725682420163469313	2016-04-28T13:45:46	Pay what you want to get "Automate the Boring Stuff with Python" (&amp; other great programming books).  13 hrs left!  
+randal_olson	725680045977690113	2016-04-28T13:36:20	Do shorter hours or higher wages make better teachers? education dataviz  
+randal_olson	725636959050301440	2016-04-28T10:45:07	papabillvincent _lalalane Theory from NPR: 
+randal_olson	725636600227581952	2016-04-28T10:43:41	babefromtoyland Glad you made it out! Hope at least some of the tips were useful. :-)
+randal_olson	725635154518151168	2016-04-28T10:37:57	imsanaw sharontartarone Glad to see that y'all made it out. :-)
+randal_olson	725487455156183040	2016-04-28T00:51:02	davidkrauza Thanks David! Hope it was useful. :-)
+randal_olson	725448281669644289	2016-04-27T22:15:23	Where people go to vacation across the US. dataviz  
+randal_olson	725401739424313344	2016-04-27T19:10:26	Percentage of Bachelor's degrees conferred to women, by major. education dataviz  
+randal_olson	725375431982088192	2016-04-27T17:25:54	Neat! Open_AI Gym, a common benchmark for reinforcement learning algos. MachineLearning  
+randal_olson	725350150424633345	2016-04-27T15:45:26	Every storefront mapped in DC, NYC, and Detroit. dataviz  More cities:  
+randal_olson	725321722937917440	2016-04-27T13:52:29	Color Oracle Farbenblindheit    via randal_olson simulating color blindness gis dataviz 
+randal_olson	725312338438553601	2016-04-27T13:15:11	Tornado probabilities by day. dataviz  Pretty neat GIF: 
+randal_olson	724990026438811649	2016-04-26T15:54:26	Nice, simple charts by pewresearch PewHispanic: Hispanics in the United States  
+randal_olson	725309826599911424	2016-04-27T13:05:12	A minimalist desktop wallpaper of the US population. dataviz  
+randal_olson	723710340354068480	2016-04-23T03:09:25	Do you teach with jupyter or ipython ? If so, then please tell us about it!  /cc jhamrick
+randal_olson	725005191053975552	2016-04-26T16:54:42	Lecture 26 of UVM robotics course up: "Robots that can adapt like animals."  
+randal_olson	725080843581030404	2016-04-26T21:55:19	Command line Russian roulette. programming  
+randal_olson	725046828622827520	2016-04-26T19:40:09	Color Oracle is a great tool for simulating color blindness for dataviz.  Check it out:  
+randal_olson	725037053507981312	2016-04-26T19:01:18	10 Myths of Enterprise Python. Good read! programming  
+randal_olson	725019012124516353	2016-04-26T17:49:37	eatheringtonp BernieSanders JohnFetterman KarenMcGinty FYI 
+randal_olson	725018794716962817	2016-04-26T17:48:45	davefromkc chrisalbon Yes, and they're handing them out right outside of the polling location. If not illegal, pretty scummy...
+randal_olson	725018657877856256	2016-04-26T17:48:12	rachelloumiller Thanks Rachel! Doesn't fit into my schedule, but thank you for the invite.
+randal_olson	725017962244132870	2016-04-26T17:45:27	.chrisalbon Yes, but machines are shutting down at some locations. See this image. 
+randal_olson	725016159985274880	2016-04-26T17:38:17	Coworker found many of these "Official Democratic Ballots" just outside polling place today in PAprimary. Shady! 
+randal_olson	724992769262030848	2016-04-26T16:05:20	The complete history of MLB in one interactive dataviz. Phillies  
+randal_olson	724603298335080448	2016-04-25T14:17:43	Come teach Xemo how to walk, dance, or...  xemorobots 
+randal_olson	724965847421325316	2016-04-26T14:18:21	martgnz Probably why so many have been popping up on DataIsBeautiful.
+randal_olson	724965730358296576	2016-04-26T14:17:53	Annabelles_Room Hey, the other one was Europe as a whole. :-)
+randal_olson	724956194692030464	2016-04-26T13:40:00	Denmark visualized by its rivers. Europe dataviz  
+randal_olson	724915771911081984	2016-04-26T10:59:22	seebach I'll be speaking at the main stage panel on Tuesday evening. Quite excited for the opportunity!
+randal_olson	724681941447008257	2016-04-25T19:30:13	The Qonnections Hackathon now features dataviz celebrity judges albertocairo &amp; randal_olson! Register now: 
+randal_olson	724688376914423808	2016-04-25T19:55:47	Do citations to GitHub repos w/ ZENODO_ORG DOIs show up on Google Scholar? OpenAccess OpenScience
+randal_olson	724681786811375617	2016-04-25T19:29:36	amuellerml odsc remram44 Wasn't me. :-)
+randal_olson	724681259788673032	2016-04-25T19:27:30	.reverseocr: Bot that generates squiggles until an OCR word recognition program recognizes a word. MachineLearning 
+randal_olson	724680575014043649	2016-04-25T19:24:47	Europe plotted by every mapped stream and river... all 1.35 million of them. dataviz  
+randal_olson	724615381239865344	2016-04-25T15:05:44	Threads like this make Reddit worthwhile. 
+randal_olson	724599196985241600	2016-04-25T14:01:25	Reminder: I'll be talking dataviz at phillypug this Wednesday. See y'all there!   
+randal_olson	724590113230053376	2016-04-25T13:25:19	Minecraft, ENHANCE! Using DeepLearning to upscale &amp; stylize pixel art. MachineLearning  
+randal_olson	724359820678168576	2016-04-24T22:10:13	The MachineLearning for Artists course lectures are online (free):  DeepLearning 
+randal_olson	724314523365154816	2016-04-24T19:10:14	Temperature map for Asia and surrounding areas. dataviz  Ugh -- rainbow color scheme.   
+randal_olson	724264212525142016	2016-04-24T15:50:19	.tedcruz's emails are starting to get scary now. GOP TedCruz 
+randal_olson	724264174398877696	2016-04-24T15:50:10	Use of ad blocking services has been growing by 60M users/year since 2013. dataviz  
+randal_olson	724249242286600192	2016-04-24T14:50:49	randal_olson Realized that I made a typo of "to" instead of "you," but my brain autocorrected. Damn autocorrect!
+randal_olson	724247279213928449	2016-04-24T14:43:01	GrandpaRobot MaxCRoser Source?
+randal_olson	723730748461600768	2016-04-23T04:30:31	Clean data &gt; Big data &gt; Smarter algorithms 
+randal_olson	723558439096582144	2016-04-22T17:05:49	Prince died at the average age of death for American male pop stars.  Wonkblog chart 
+randal_olson	723434174028247040	2016-04-22T08:52:02	EGU16 Know thy enemy:  endrainbow 
+randal_olson	724245283970899970	2016-04-24T14:35:06	We can now literally download more RAM thanks to this tool on GitHub.  (No, not really.)   
+randal_olson	723218372499001345	2016-04-21T18:34:31	Lecture 25 of UVM robotics course up: "Evo Devo Robo (i.e. evolving developing robots.)"  
+randal_olson	723573715510939649	2016-04-22T18:06:31	Lego steampunk Strandbeest. 
+randal_olson	723935791315984385	2016-04-23T18:05:17	1: Important recent lesson from reading ctitusbrown, jakevdp et al: not including a license != code is free to use by all (exact opposite)
+randal_olson	724243308856393728	2016-04-24T14:27:15	AWW YISS! I've been looking for a tool like this! OpenScience OpenData BigData 
+randal_olson	724213023393636353	2016-04-24T12:26:54	World map of malaria prevalence:  Current prevalence = red  Past prevalence = green  via  
+randal_olson	724237351774507008	2016-04-24T14:03:34	Annabelles_Room You mean you don't mosh at metal concerts any more? You're missing out!
+randal_olson	724236056254644224	2016-04-24T13:58:26	When should to buy concert tickets? It depends on the artist. music OneDirection dataviz  
+randal_olson	723992405716930560	2016-04-23T21:50:15	The Zen of Python, illustrated. programming  
+randal_olson	723947106927521792	2016-04-23T18:50:15	BillGates' philanthropic impact put in perspective. philanthropy dataviz  
+randal_olson	723894721924485122	2016-04-23T15:22:05	randal_olson by far the best version of this I have seen is here 
+randal_olson	723901790287204353	2016-04-23T15:50:10	Perspective: a graphical comparison of earthquake energy release. dataviz 
+randal_olson	723885434812641280	2016-04-23T14:45:11	The average web page is now the size of Doom. gaming webdev dataviz  
+randal_olson	723860768740007936	2016-04-23T13:07:10	Annabelles_Room It's a vicious circle.
+randal_olson	723857767241551872	2016-04-23T12:55:14	colornet: A neural network to colorize grayscale images.  DeepLearning MachineLearning  
+randal_olson	723821508032905217	2016-04-23T10:31:10	koustubhavachat Most all of the major packages have Python 3 support now.
+randal_olson	723636327070203904	2016-04-22T22:15:19	There's an introductory TensorFlow lecture on YouTube:  MachineLearning DeepLearning 
+randal_olson	723604568337166336	2016-04-22T20:09:07	 is a pretty neat tool that maps out the citation network of academia. dataviz 
+randal_olson	723584753597878272	2016-04-22T18:50:23	Ubuntu 16.04 LTS released with Python 3.5 as standard, rather than Python 2.7! Progress!   
+randal_olson	723544517668904961	2016-04-22T16:10:30	Most common fuel used to heat your home, by US zip code. energy dataviz  
+randal_olson	723520540300980225	2016-04-22T14:35:13	Trying to explain code quality to execs [GIF}:  programming
+randal_olson	723516771240697856	2016-04-22T14:20:15	"A protocol for dying."  Wow. Good read.   
+randal_olson	723494111525888001	2016-04-22T12:50:12	Population density map of China in 2 AD. dataviz  Needs a key, but otherwise neat to see.   
+randal_olson	723453520939220992	2016-04-22T10:08:55	skryking -1 is better because it doesn't cause said errors, but results in wrong computations.
+randal_olson	723267658163077120	2016-04-21T21:50:22	: Movements of the global merchant fleet over the course of 2012. dataviz 
+randal_olson	723214787824504832	2016-04-21T18:20:16	WW2 deaths as a percentage of each nation's population. dataviz  
+randal_olson	723178313829720064	2016-04-21T15:55:20	The quality of driving in a country correlates with the quality of government. dataviz  
+randal_olson	723139506434502658	2016-04-21T13:21:08	I think the neatest part about this dataviz is that the data was collected via a wearable device.  
+randal_olson	723138584115445760	2016-04-21T13:17:28	I think my favorite is redefining sizeof(x) as (sizeof(x)-1).  Poor person that tries to debug that... programming 
+randal_olson	723138016089399296	2016-04-21T13:15:12	Academic performance vs. bed times at universities across the US. education dataviz  
+randal_olson	723136844263727104	2016-04-21T13:10:33	A file with all kinds of evil things you can add to troll a programming project.   
+randal_olson	722798836842831874	2016-04-20T14:47:26	Most common fuel used to heat the home----by zip code. 
+randal_olson	722802881036836866	2016-04-20T15:03:30	Shifting Parent Work Hours, Mom vs. Dad 
+randal_olson	722903022762758146	2016-04-20T21:41:26	Beautiful Reddit thread - "what small, meaningless ways do you rebel?"  
+randal_olson	723114015501615104	2016-04-21T11:39:50	Visualize common graph algorithms in python:  // E.g., minimum spanning tree via Prim's algo 
+randal_olson	722495512629374976	2016-04-19T18:42:08	It's all fun and games until nobody has any idea what the hell is going on. 
+randal_olson	722515290391764994	2016-04-19T20:00:43	Lecture 24 of UVM robotics course up: "Evolving virtual creatures, Part II".  
+randal_olson	722909035729555457	2016-04-20T22:05:19	Interesting idea for a science-focused web site. Can you explain a research paper simply?   
+randal_olson	722861221985271808	2016-04-20T18:55:20	Fascist flags across Europe.   
+randal_olson	722818468672892928	2016-04-20T16:05:26	If Manhattan was a mountain... NYC dataviz  Building heights across Manhattan.   
+randal_olson	722799060260814848	2016-04-20T14:48:19	SaraMynott Different Randy Olson. :-)
+randal_olson	722794589220904960	2016-04-20T14:30:33	NSFW: Using convnets to detect nudity in images. MachineLearning DeepLearning  
+randal_olson	722771954936233985	2016-04-20T13:00:37	How the recession reshaped the economy, in 255 dataviz.   
+randal_olson	722744122834968576	2016-04-20T11:10:01	I'm shocked by the low voter turnout in NewYorkPrimary.  That is only ~30% of all NY registered Dem voters (~5.2M). 
+randal_olson	722549176823857152	2016-04-19T22:15:22	A dataviz of baseball team territory by county. MLB  
+randal_olson	722497592546996227	2016-04-19T18:50:24	How fast can we make interpreted Python? programming  Interesting tech report:  
+randal_olson	722458650476994560	2016-04-19T16:15:39	SouthAfrica's 11 official languages. dataviz  
+randal_olson	722426171309350912	2016-04-19T14:06:35	AUtopiaPlanitia You're right on the money with that joke.
+randal_olson	722405691068149760	2016-04-19T12:45:13	Penny histogram (by year). dataviz  
+randal_olson	722385538360197120	2016-04-19T11:25:08	drfeifei karpathy Now the big question is: What's next?
+randal_olson	722385412900143104	2016-04-19T11:24:38	drfeifei karpathy Congrats, doc!
+randal_olson	722061829929836544	2016-04-18T13:58:50	Using Dijkstra's algorithm to draw maps: a C++ tool for mapping shortest paths using OSM:  
+randal_olson	722272788824739840	2016-04-19T03:57:06	We've updated our Facebook candidate map! Sanders is now the undisputed leader in likes:  
+randal_olson	722185530507730944	2016-04-18T22:10:22	"Happy debugging, suckers."  Evil. Pure evil. programming  
+randal_olson	722146982643515393	2016-04-18T19:37:12	Australia plotted by every mapped stream and river... all 1.3 million of them. dataviz  
+randal_olson	722139019027607552	2016-04-18T19:05:33	Using Dijkstra's algorithm to draw maps. programming dataviz  
+randal_olson	722094941514657792	2016-04-18T16:10:24	Rewriting MineCraft in Python. gamedev programming  
+randal_olson	722067209233821696	2016-04-18T14:20:12	A visual representation of how many weeks you (probably) have left. dataviz  *phew*    
+randal_olson	722048331539738624	2016-04-18T13:05:11	Spending on schools across the USA. education dataviz  
+randal_olson	721821837123039232	2016-04-17T22:05:11	VisionMachine: An LLVM-powered, gesture-driven visual programming environment.   
+randal_olson	721777815050416128	2016-04-17T19:10:15	An a-maize-ing map showing worldwide corn production. dataviz  
+randal_olson	721728718792716289	2016-04-17T15:55:10	StephCurry's 3-Point record is literally off the charts. NBA dataviz  
+randal_olson	721720113544708096	2016-04-17T15:20:58	icntmx Mork_66 Placeholder names.
+randal_olson	721713617578651648	2016-04-17T14:55:09	Pretty neat to see these patterns in the NBA data. dataviz StephCurry LeBronJames  
+randal_olson	721712359941742593	2016-04-17T14:50:10	Now THIS is the analysis of the NBA data that we needed! KobeBryant dataviz  
+randal_olson	721687185938886656	2016-04-17T13:10:08	Top 20 FastFood chains in the U.S. - McDonald's &gt; Subway, BK, &amp; Wendy's combined. dataviz  
+randal_olson	721686050708590592	2016-04-17T13:05:37	albertocairo nytgraphics KevinQ Looks better in print, actually. My monitor couldn't display the entire graph on the web!
+randal_olson	721347769835851776	2016-04-16T14:41:24	This is a nice example of when small multiples are clearly better than overlaying all lines on one plot. 
+randal_olson	721507262909419521	2016-04-17T01:15:11	The 20 most extreme cases of "the book was better than the movie"  
+randal_olson	721683450143576065	2016-04-17T12:55:17	Someone is currently live streaming Mar/IO: MachineLearning applied to Mario!   
+randal_olson	721677966976118784	2016-04-17T12:33:30	Top 25 most gender-neutral names in the U.S.  via randal_olson
+randal_olson	721413023026556930	2016-04-16T19:00:42	The state of the DemocraticPrimary race so far. BernieSanders HillaryClinton dataviz  
+randal_olson	721368860058914816	2016-04-16T16:05:13	Where Americans get their healthcare coverage. dataviz  I wonder: Who's still uninsured?   
+randal_olson	721347935124996097	2016-04-16T14:42:04	2nd video in Google's Python MachineLearning course: Visualizing a decision tree.   
+randal_olson	721336898975842306	2016-04-16T13:58:13	According to the “Yerkes-Dodson law,” performance increases with stress -- up to a point  
+randal_olson	721324803207131136	2016-04-16T13:10:09	Google has started a new Python MachineLearning course on YouTube. sklearn  
+randal_olson	721142949115875328	2016-04-16T01:07:31	Avg Daily Precipitation --14 Day increments by US County  
+randal_olson	720257210161311744	2016-04-13T14:27:55	No book or teacher can beat good old fashion poking around. 
+randal_olson	721022220374552577	2016-04-15T17:07:47	A basic introduction to NumPy's einsum --  one of NumPy’s jewels 
+randal_olson	720306516562030592	2016-04-13T17:43:50	Announcing TensorFlow 0.8 – now with distributed computing support! Check it out at  
+randal_olson	720008773671096320	2016-04-12T22:00:43	"I love stateless systems" "Don't they have drawbacks?" "Don't what have drawbacks?" (credit to deleted qntm tweet)
+randal_olson	720001217179566080	2016-04-12T21:30:41	The 6 degrees of the NBA. Interesting social network analysis of all NBA players. dataviz  
+randal_olson	719962139641909248	2016-04-12T18:55:24	Here's a map of sound levels in the U.S. if humans were taken out of the picture. dataviz  
+randal_olson	719959654617518080	2016-04-12T18:45:32	Here's a map of current sound levels across the U.S. dataviz  
+randal_olson	719915630766526465	2016-04-12T15:50:36	The next time you see anti-GMO propaganda, show them this.   
+randal_olson	719913879602651137	2016-04-12T15:43:38	xanderpico Useful article - thanks!
+randal_olson	719913579177226240	2016-04-12T15:42:27	hniemeye rguha Very lucky. :-)
+randal_olson	719911673340026881	2016-04-12T15:34:52	seanmylaw I saw they started up a new data sci institute. Visited it yet?
+randal_olson	719910025448275968	2016-04-12T15:28:20	rguha hniemeye I've explored some of those options -- but for many industry jobs, just felt like another cog in the machine.
+randal_olson	719908233310248961	2016-04-12T15:21:12	dexterdyne hniemeye I've never heard of that before! Still able to publish regularly etc.?
+randal_olson	719907908675313665	2016-04-12T15:19:55	rguha hniemeye Fair point. Maybe I'm too idealistic. We'll see how it pans out long-term. :-)
+randal_olson	719907739238014976	2016-04-12T15:19:14	Annabelles_Room It's a pretty perfect example, isn't it? :-)
+randal_olson	719907499269341184	2016-04-12T15:18:17	The dark side of Guardian comments. dataviz  
+randal_olson	719906756814639105	2016-04-12T15:15:20	rguha hniemeye Funding is prof's responsibility. Hence "finding the right prof" is key. :-)
+randal_olson	719906263358947328	2016-04-12T15:13:23	rguha hniemeye e.g., long-term staff research positions w/ a prof can be quite nice if you find the right prof.
+randal_olson	719906091677720576	2016-04-12T15:12:42	dexterdyne hniemeye ... that have low (single-digit) acceptance rates. Would rather spend my time actually accomplishing useful things.
+randal_olson	719905865541791745	2016-04-12T15:11:48	dexterdyne hniemeye Many reasons, but major one is that I don't want to spend a large portion of my time writing research grants.
+randal_olson	719904465994821632	2016-04-12T15:06:14	I should clarify: I'm more giving up on the idea that becoming a professor is a good idea. Still many good positions in academia. hniemeye
+randal_olson	719902299724886016	2016-04-12T14:57:38	Career update: I'm leaving academia (sort of). Looking to transition into a long-term staff research position. More later. phdchat
+randal_olson	719899259810758660	2016-04-12T14:45:33	Why did our statistics teachers make it so difficult? DataScience  
+randal_olson	719886799552782338	2016-04-12T13:56:02	AUtopiaPlanitia That's what journals are supposed to be, in theory, but that usually doesn't pan out nowadays.
+randal_olson	719879170864623616	2016-04-12T13:25:43	Five Myths of ArtificialIntelligence.  Good read for MachineLearning/DataScience ideas.   
+randal_olson	719876118468276225	2016-04-12T13:13:35	My problem: even when you're good at reading scientific papers, there's *way too many* to keep up on. phdchat 
+randal_olson	719873228542513152	2016-04-12T13:02:06	How to (seriously) read a scientific paper. phdchat  Also good advice on how to write one.   
+randal_olson	719872392772919296	2016-04-12T12:58:47	Looks like a great list of papers! MachineLearning DataScience 
+randal_olson	719861043267284992	2016-04-12T12:13:41	nearyd bkeepers These were scraped from resumes IIRC.
+randal_olson	719860213034184704	2016-04-12T12:10:23	fkratzert Gotcha. I've been meaning to put all of my posts up on , but you know, time. And lack thereof. ;-)
+randal_olson	719851855254286336	2016-04-12T11:37:11	fkratzert I always include a link to the original source, so they should describe it there (if it's described at all).
+randal_olson	719723120177889280	2016-04-12T03:05:38	chrisalbon fdaapproved jonathonmorgan partiallyd Get on that, slackers.
+randal_olson	719721949421821952	2016-04-12T03:00:59	fdaapproved jonathonmorgan chrisalbon And as successful businesspeople, you also use Excel. That's why you use .
+randal_olson	719693040831590400	2016-04-12T01:06:06	Nice dataviz rework, _cingraham.  1 comment: Red &amp; blue map = political. Use diff colors.   
+randal_olson	719664475306110976	2016-04-11T23:12:36	esdalmaijer thirdreviewer The hilarious part is it actually was the third reviewer.
+randal_olson	719662686242521088	2016-04-11T23:05:29	BenLesh Is that even possible, with the typical OSS license stating that the author(s) cannot be held liable for people using the code?
+randal_olson	719662478280499200	2016-04-11T23:04:40	BenLesh Interesting - what companies?
+randal_olson	719662179084083201	2016-04-11T23:03:28	minimumnz I had a chuckle. Sometimes I wonder if people add these comments to troll me, knowing how much of a Python advocate I am.
+randal_olson	719661914083717120	2016-04-11T23:02:25	Talk about trying to start a Rstats vs. Python flame war. programming 
+randal_olson	719661765945139200	2016-04-11T23:01:50	Reviewer comment on one of my TPOT papers: "Would Rstats have been a better choice than Python (if you want people to use your tool)?"
+randal_olson	719648833555324928	2016-04-11T22:10:27	Some odd opinions about OpenSource programming in this Reddit thread, though.   
+randal_olson	719647547661357057	2016-04-11T22:05:20	"How I've avoided burnout during &gt;30 years as a programmer" programming  Good read!   
+randal_olson	719603530408062977	2016-04-11T19:10:25	Some neat ideas for what you can do with the RaspberryPi and Python. programming  
+randal_olson	719588667824713729	2016-04-11T18:11:22	Annabelles_Room Watch out for baby chickens!
+randal_olson	719511302515859456	2016-04-11T13:03:57	– Science fiction in 1959.  – And reality 3 days ago. 
+randal_olson	719556977349804032	2016-04-11T16:05:26	Countries with a state religion. dataviz  
+randal_olson	719547415175524352	2016-04-11T15:27:26	randal_olson I also compared Feather with HDF5 and it seems to win in terms of space and speed. 
+randal_olson	719538913807855616	2016-04-11T14:53:40	IAmAru Couldn't handle the jokes? ;-)
+randal_olson	719531742898622465	2016-04-11T14:25:10	"Do you know why I love boolean values?"  "Because when I'm wrong, I'm only off by a bit."  programming  h/t 
+randal_olson	719252726052450304	2016-04-10T19:56:27	Oklahoma used to average 2 earthquakes a year. Now it averages 3 earthquakes a day.  
+randal_olson	719509085264224256	2016-04-11T12:55:08	Live Bitcoin transactions. dataviz  
+randal_olson	719508983875289088	2016-04-11T12:54:44	albertocairo Definitely one of my favorite chart types. So powerful.
+randal_olson	719507678268125184	2016-04-11T12:49:32	For the rich, life is pretty much the same everywhere. But for the poor, place matters a lot  
+randal_olson	719508608229195778	2016-04-11T12:53:14	ClausWilke I hear AOL's email is pretty solid. Do you still have a landline?
+randal_olson	718251622288240640	2016-04-08T01:38:25	Building Machines That Learn and Think Like People  +1, a very nice review paper on making progress in AI
+randal_olson	718426796987981826	2016-04-08T13:14:30	Amazing jobs at Quartz - data journalism, travel, d3, Atlas dev/support. 
+randal_olson	718989409970823168	2016-04-10T02:30:08	Data visualization in R - nice examples  dataviz datascience rstats 
+randal_olson	718944120157376512	2016-04-09T23:30:10	Are your graphs colorblind-friendly? Color Oracle will show you for free in 1 click (linux, mac, win)  rstats
+randal_olson	719218162151981056	2016-04-10T17:39:06	R.I.P. American Idol:  
+randal_olson	719460656571944960	2016-04-11T09:42:42	The word “novel” now appears in 8% of published research abstracts on PubMed. Unique in 3%.   
+randal_olson	719236515730235392	2016-04-10T18:52:02	U.S. college majors: Median yearly earnings vs. gender ratio by randal_olson … DataScience 
+randal_olson	719283965409013761	2016-04-10T22:00:35	Great blog series. Highly recommended read for students/postdocs. phdchat 
+randal_olson	719239823953948674	2016-04-10T19:05:11	CSV vs. Feather: writing a pandas DataFrame to disk performance. Python DataScience  
+randal_olson	719195208605437952	2016-04-10T16:07:54	Vaguery NicMcPhee An alternative worth exploring IMO is 
+randal_olson	719194777946890240	2016-04-10T16:06:11	NicMcPhee Vaguery True, but how many evals per gen on avg? Less than full eval every gen?
+randal_olson	719193284237770752	2016-04-10T16:00:15	Vaguery NicMcPhee I suppose it *has* to, as long as you cache results from previous iterations.
+randal_olson	719193139211276288	2016-04-10T15:59:41	Vaguery NicMcPhee Has there been an analysis of lexicase selection to see if lazy eval saves in overall # of evals vs doing full eval?
+randal_olson	719189494776348672	2016-04-10T15:45:12	Plotting Fare vs Distance of 1M NYC Yellow Taxi trips to find the effective rate. dataviz  
+randal_olson	719172118383108097	2016-04-10T14:36:09	Vaguery NicMcPhee I filed an issue to remind myself to try it:   Now all I need is time to implement it. ;-)
+randal_olson	719170066177204224	2016-04-10T14:27:59	Vaguery NicMcPhee lspector Maybe lexicase selection will help with the data size issue.
+randal_olson	719169998258900993	2016-04-10T14:27:43	Vaguery NicMcPhee lspector Have seen lexicase selection and meaning to use it. Haven't gotten to implement it yet though.
+randal_olson	719156750897782784	2016-04-10T13:35:05	It seems like foveation-based classifiers are increasingly popular in MachineLearning.   
+randal_olson	719150478458765312	2016-04-10T13:10:09	The largest analysis of film dialogue by gender, ever. movies dataviz  
+randal_olson	719121647064760320	2016-04-10T11:15:35	Simon_Lucy bitfield If you check the other responses to this tweet, you might agree that the graph actually makes sense.
+randal_olson	718807562733223937	2016-04-09T14:27:32	The best explanation of the week PanamaPapers 
+randal_olson	717017900880494592	2016-04-04T15:56:03	I tracked power usage at my desk, which was a pretty good proxy for when i work  
+randal_olson	719120819843166209	2016-04-10T11:12:18	flowingdata IFLScience Holy smokes. That's Reddit frontpage-level traffic.
+randal_olson	718804662321864704	2016-04-09T14:16:00	Humans are visual beings, and Joshua Stevens tells NASAEarth's stories  
+randal_olson	718124726179074048	2016-04-07T17:14:11	ITS HERE! Highcharts inspired time range slider for PYTHON 👊  
+randal_olson	718942317881737216	2016-04-09T23:23:00	"Misery Index" -- sum of inflation rate + unemployment rate -- at lowest levels since 1950s  
+randal_olson	718540782987116544	2016-04-08T20:47:27	Your periodic reminder that importing * is bad for your health Python 
+randal_olson	719117863383121920	2016-04-10T11:00:33	MaxCRoser Sorry to hear that. That's my worst nightmare as an academic.
+randal_olson	718920221432680452	2016-04-09T21:55:12	The age when people are the most popular (by phone calls) dataviz  Damn, I already peaked.   
+randal_olson	718879961277472768	2016-04-09T19:15:13	An inmate smuggles a backslash into the back of a "prison".  The guard says, "That's a new line of escape."  h/t 
+randal_olson	718874938921390080	2016-04-09T18:55:16	How long software developers stay at their jobs. programming dataviz  
+randal_olson	718833430553829377	2016-04-09T16:10:19	Describe realDonaldTrump in one word. DonaldTrump dataviz  
+randal_olson	718805603943112704	2016-04-09T14:19:45	kldsrf 100% agree. Pretty much guarantees that you will only have a small group of people using it, if anyone.
+randal_olson	718798144105013249	2016-04-09T13:50:06	youtube-dl: A Python tool to download videos from YouTube.   
+randal_olson	718786866473017344	2016-04-09T13:05:18	GameOfThrones transit maps. dataviz  
+randal_olson	718594266721857536	2016-04-09T00:19:58	kevinschawinski A sick kind of person, I'll tell you what!
+randal_olson	718561436201431040	2016-04-08T22:09:31	Landing from the chase plane 
+randal_olson	718593326539218945	2016-04-09T00:16:14	Of course, he had to be named "Randy"...   
+randal_olson	718566170132090882	2016-04-08T22:28:19	Major League Baseball home run leaders, 1871-2016  by randal_olson dataviz MLB stats 
+randal_olson	718560363701211136	2016-04-08T22:05:15	What Starbucks can teach is about software scalability. coffee programming  
+randal_olson	718528486504341504	2016-04-08T19:58:35	michaelgraaf It's there.
+randal_olson	718512562271318018	2016-04-08T18:55:18	scikit-feature: Many feature selection algos for Python MachineLearning.  Only Py2 tho :(   
+randal_olson	718472326153662464	2016-04-08T16:15:25	Map of the nuclear-armed states of the world. dataviz  
+randal_olson	718424460727033856	2016-04-08T13:05:13	Casualties due to Daesh terror attacks around the world. dataviz  
+randal_olson	718420975524671488	2016-04-08T12:51:22	To my uber patrons: What should we cover in this month's "Joy of dataviz" webcast?  Post here: 
+randal_olson	718419826486702080	2016-04-08T12:46:48	My Patreon patrons (patreons?): What questions would you like answered in this month's Q&amp;A?  Post here: 
+randal_olson	718409338012962816	2016-04-08T12:05:08	This person has a promising career ahead as a software tester. programming  
+randal_olson	718195284430495744	2016-04-07T21:54:33	Looks like a great guide... webdev  
+randal_olson	718194921698672640	2016-04-07T21:53:07	The DeepLearning textbook is now complete! Check it out. MachineLearning  
+randal_olson	718194219941302278	2016-04-07T21:50:20	What's new in Python 3.6. programming  I'm excited about the new string formatting!   
+randal_olson	718193408922226688	2016-04-07T21:47:06	I had to put Portugal into context for some of the folks on the plane home. dataviz  
+randal_olson	718191767473033218	2016-04-07T21:40:35	Sah-weet! Our TPOT paper was nominated for best paper at GECCO2016.  I suppose I should take this as a sign to keep working on TPOT. :-)
+randal_olson	718190490055766019	2016-04-07T21:35:30	My phillypug talk this month has been rescheduled. See you there! Python dataviz  RSVP:  
+randal_olson	718163178291666944	2016-04-07T19:46:59	JasonORawe moorejh GECCO2016 Preprints are always available for my papers. :-) 
+randal_olson	718162803719323648	2016-04-07T19:45:29	rasbt Uuuugh!
+randal_olson	717715918449745924	2016-04-06T14:09:44	Orange is one of may favorite machinelearning software packages  datascience 
+randal_olson	717813493475442688	2016-04-06T20:37:27	rgdonohue Install NodeJS
+randal_olson	717811397460103170	2016-04-06T20:29:08	Satellite imagery as a service?  
+randal_olson	717810542048591872	2016-04-06T20:25:44	These StackOverflow questions are getting out of control... programming webdev php  
+randal_olson	717809052428976128	2016-04-06T20:19:49	Evolutionary Computation Tutorial - Part 1. MachineLearning DataScience  
+randal_olson	717808289543811072	2016-04-06T20:16:47	Map of Denmark in the style of WorldOfWarcraft.   
+randal_olson	717807366243295232	2016-04-06T20:13:06	U.S. GDP &amp; energy consumption since 1950. dataviz  
+randal_olson	717806976797958144	2016-04-06T20:11:34	bluebearsoup I'm abstaining from seafood until May. :-D
+randal_olson	717805880394260481	2016-04-06T20:07:12	martgnz It's very American-esque. Which is maybe why it didn't stand out. :-D
+randal_olson	717805410116308992	2016-04-06T20:05:20	martgnz Had one. It was okay.
+randal_olson	717804961938190336	2016-04-06T20:03:33	After spending a week trying all kinds of different Portuguese food, this was me tonight. 
+randal_olson	717751466170171393	2016-04-06T16:30:59	Ugo_alves kwamecorp I'm on my way out, but thank you for the invite. Next time!
+randal_olson	717739689168527360	2016-04-06T15:44:11	bgoncalves Saw that yesterday. Beautiful!
+randal_olson	717739681207730176	2016-04-06T15:44:09	sjmgarnier Hey, it's only a third... ;-)
+randal_olson	717737884695048193	2016-04-06T15:37:01	Unbelievable view from the Pena National Palace in Portugal.  selfie-inspiring, even. 
+randal_olson	717458453967536128	2016-04-05T21:06:39	It seems odd that "explore castles" and "sit on train for several hours" appear on the same day in my travel itinerary.
+randal_olson	717429963264278533	2016-04-05T19:13:27	maartenzam That's too bad. At least it's some of the data.
+randal_olson	717428720089305088	2016-04-05T19:08:30	Transcrypt: A Python to JavaScript transpiler. programming  
+randal_olson	717427521923518465	2016-04-05T19:03:45	Some locations on Earth plotted by the temps of their warmest and coldest months. dataviz  
+randal_olson	717426003124031488	2016-04-05T18:57:42	Right. There's some info in there, but not the full data set.  
+randal_olson	717424985862758400	2016-04-05T18:53:40	Penny Auctions - How to sell a $180 tablet for $7,264. dataviz  
+randal_olson	717423166491082753	2016-04-05T18:46:26	Looks like the PanamaPapers data set is on GitHub:  OpenData PanamaLeaks
+randal_olson	717413205249814529	2016-04-05T18:06:51	vboykis Sintra, Portugal.
+randal_olson	717400239448199168	2016-04-05T17:15:20	Lovely day of hiking and -- my favorite -- castles! 
+randal_olson	717334805797539840	2016-04-05T12:55:19	ICYMI: How long will it be until all research abstracts contain the word "novel"? dataviz  
+randal_olson	717090704820944896	2016-04-04T20:45:21	Meet Alexandra Elbakyan, Sci_Hub founder&amp;spiritual successor to Aaron Swartz. OpenAccess  
+randal_olson	717062617689407488	2016-04-04T18:53:45	briandconnelly I always ping them on that when I review papers.
+randal_olson	717026288083603456	2016-04-04T16:29:23	JMDugan They certainly take a novel approach to research funding!
+randal_olson	717025210176811008	2016-04-04T16:25:06	At this rate, "novel" will appear in every research abstract by the year 2130. dataviz  
+randal_olson	717023957841551360	2016-04-04T16:20:07	Nowadays, the word "novel" is used in 8% of research abstracts. dataviz  
+randal_olson	717021540718669824	2016-04-04T16:10:31	A forecast of when we’ll run out of each metal and energy resource. dataviz  
+randal_olson	716971145262706688	2016-04-04T12:50:16	PanamaPapers: where the money is hiding. dataviz  
+randal_olson	716958977175719936	2016-04-04T12:01:55	joavanschoren amuellerml Does the workshop require new research, or can the paper be a summary of existing methods &amp; previous progress?
+randal_olson	716958788369182720	2016-04-04T12:01:10	joavanschoren amuellerml I hope to do that. I have one paper due on April 15, and will rush to get something for the ICML workshop. :-)
+randal_olson	716951147601391616	2016-04-04T11:30:48	joavanschoren amuellerml willmcginnis Either way, yes! Let's combine efforts to maximize impact. :-)
+randal_olson	716951102189658112	2016-04-04T11:30:37	joavanschoren amuellerml willmcginnis Is that the autoML project, or another one?
+randal_olson	715554450002325504	2016-03-31T15:00:49	greatest Reddit response to MS bringing bash shell to Windows 10 bohemianrhapsody 
+randal_olson	716933639246839808	2016-04-04T10:21:14	pwang I do something similar to this with Anaconda on a semi-regular basis. :-)
+randal_olson	716933299252379648	2016-04-04T10:19:53	chrisalbon Dubstep. Productivity++ every time they drop the bass.
+randal_olson	716881629034192896	2016-04-04T06:54:34	edwin_rogers AnonyMobLife There's always a bright side.
+randal_olson	716881025964576768	2016-04-04T06:52:10	hsjawanda More like get your pitchforks ready...
+randal_olson	716864780800290816	2016-04-04T05:47:37	Countries with public officials implicated in the PanamaPapers tax haven scandal in its 1st 5 hours. 
+randal_olson	716872222133121025	2016-04-04T06:17:11	Heard that another PanamaPapers leak is coming for the US soon.  What if Trump &amp; Hillary are involved, and Sanders runs the shell company?
+randal_olson	716683740903247873	2016-04-03T17:48:13	Biggest leak in the history of data journalism just went live, and it's about corruption.  
+randal_olson	716721078991773697	2016-04-03T20:16:35	Annabelles_Room realDonaldTrump But it's clearly your fault! /s
+randal_olson	716710933238792192	2016-04-03T19:36:16	jasongrahn Tableau.
+randal_olson	716706145633759232	2016-04-03T19:17:15	janschulz Ah, it's not that big of a deal. I suppose it's not realistic to make a real code contribution 365 days a year. :-)
+randal_olson	715924648194621441	2016-04-01T15:31:52	"It shoulda been a line chart" &lt;- my latest on ComputerWorld dataviz  
+randal_olson	716702353211174914	2016-04-03T19:02:11	MonaChalabi Crap. I suppose I'll have to wait until next year.
+randal_olson	716001699408789505	2016-04-01T20:38:02	If you turn data into colors, this should be required reading:  via driven_by_data dataviz 
+randal_olson	715963582123544576	2016-04-01T18:06:34	Plots of race in NewYork Chicago &amp; LosAngeles using BokehPlots and DataShader; just a few lines of Python! 
+randal_olson	716701284720631808	2016-04-03T18:57:56	One thing I'm really surprised about w Europe: Most people I've talked to have brought up realDonaldTrump. He's an international sensation!
+randal_olson	715544690939064320	2016-03-31T14:22:03	How do proteins evolve? Usually very slowly, but they can evolve faster using epistasis.   
+randal_olson	716471148846977024	2016-04-03T03:43:27	My PyData Amsterdam talk on advanced scikit-learn is online:  (in case that's what floats your boat) pydata
+randal_olson	716698213177229312	2016-04-03T18:45:44	danactivated 
+randal_olson	716697307928985600	2016-04-03T18:42:08	I've been having too much fun in Lisbon, I think. I accidentally broke my GitHub commit streak! ComboBreaker 
+randal_olson	716696964902100992	2016-04-03T18:40:46	CurtisAnton1: Thanks! ALifeXV is an annual research conference to present the latest work in Artificial Life. Fun community &amp; conference!
+randal_olson	716695757320011776	2016-04-03T18:35:58	wu_ming_80 ALifeXV Indeed, the sacrifices we make for scientific progress... ;-)
+randal_olson	716695523554684929	2016-04-03T18:35:03	djsardine WilliamChyr amyburvall Just point them to a  link.
+randal_olson	716695095479836673	2016-04-03T18:33:20	Ah, sweet! Our ALifeXV paper was accepted. Looks like I'll be traveling to Cancun to give a talk this summer. :-D
+randal_olson	716694166143700992	2016-04-03T18:29:39	Annabelles_Room It's so very convoluted, as my recent travels in Portugal have taught me. :-)
+randal_olson	716693506392199169	2016-04-03T18:27:02	thDigitalReader via ThePracticalDev
+randal_olson	716692868472180736	2016-04-03T18:24:30	Many of these fake books are just jokes, but this one needs to be real. programming 
+randal_olson	716691515645497344	2016-04-03T18:19:07	Countries that have been under European control. Europe dataviz  
+randal_olson	716690606748262400	2016-04-03T18:15:30	Four decades of prevalence in body-mass index categories across the world. dataviz  
+randal_olson	716556972355616768	2016-04-03T09:24:29	soyrochus It encourages exploration into a new aspect of countries, so I would say it's quite a useful map. :-)
+randal_olson	716530075932430336	2016-04-03T07:37:37	philshapiro Patreon opensourceway Much appreciated, Phil!
+randal_olson	716387281473572865	2016-04-02T22:10:12	As SiliconValley fights for talent, unis struggle to hold on to their stars. DeepLearning  
+randal_olson	716343527324655617	2016-04-02T19:16:20	amuellerml Sure. I'm on Euro time, so maybe afternoon ET? :-)
+randal_olson	716336976723451905	2016-04-02T18:50:18	Countries whose national anthem mentions blood. dataviz  
+randal_olson	716292922837180416	2016-04-02T15:55:15	Where is the U.S. population growing and shrinking? dataviz  
+randal_olson	716276697721507840	2016-04-02T14:50:47	amuellerml willmcginnis Maybe we should video chat to coordinate on that. Would be nice to use something more formal for benchmark.
+randal_olson	716250114961063937	2016-04-02T13:05:09	Life expectancy by country. Japan has consistently been on top lately. dataviz  
+randal_olson	716025597680599041	2016-04-01T22:13:00	amuellerml willmcginnis Haha, alright! I hope to have progress before then. How's the openML Python API now?
+randal_olson	716020842258255872	2016-04-01T21:54:06	amuellerml willmcginnis github How should we coordinate efforts? Feel free to drop a line on the benchmark project.
+randal_olson	716020554071826432	2016-04-01T21:52:57	ivoflipse5 amuellerml It doesn't use the sklearn Pipeline object, but it uses sklearn for all the ML.
+randal_olson	715975862668161027	2016-04-01T18:55:22	Network of Thrones: Social network generated from interactions in GameofThrones. dataviz  
+randal_olson	715933102510632960	2016-04-01T16:05:27	Good news: The next Python version will be Python 8! programming  
+randal_olson	715890288737304576	2016-04-01T13:15:20	The Northeast Megalopolis, containing 20% US GDP &amp; 17% pop in &lt;2% land area. dataviz  
+randal_olson	715875797991612416	2016-04-01T12:17:45	Surprise announcement: Evostar 2017 will be held in... North Korea! Evostar16 AprilFools
+randal_olson	715866002957971456	2016-04-01T11:38:49	jjmerelo Maybe better to say: If it's not reproducible, it's not *good* science.
+randal_olson	715865748816732162	2016-04-01T11:37:49	willmcginnis amuellerml Yep! That's what TPOT does. 
+randal_olson	715849074528923649	2016-04-01T10:31:33	.jjmerelo espousing OpenScience during Evostar16 discussion session. Go JJ! :-)
+randal_olson	715848762204225538	2016-04-01T10:30:19	Kenneth Sörensen: What do we learn from competitive testing research? Usually, only who is the best coder/who has best computers. Evostar16
+randal_olson	715848363334352896	2016-04-01T10:28:44	Kenneth Sörensen: Focusing too much on "competitive" research on benchmarks is harmful to field. We can't all have "best" algo. Evostar16
+randal_olson	715561419928838145	2016-03-31T15:28:31	Rivers through time  by zzsylvester 
+randal_olson	715598288062439425	2016-03-31T17:55:01	If you're feeling bad, just search github for misspelled words to see how many others have goofed up their code 
+randal_olson	715846707712552966	2016-04-01T10:22:09	amuellerml fonnesbeck Or evolutionary optimization methods... *clears throat*
+randal_olson	715846560253353989	2016-04-01T10:21:34	amuellerml Are you benchmarking sklearn now? :-)
+randal_olson	715842619889332224	2016-04-01T10:05:54	Kenneth Sörensen with an excoriating review of "novel" metaheuristic methods. Evostar16  
+randal_olson	715842299025100800	2016-04-01T10:04:38	Evostar2016 jjmerelo I will take my origami bunny back to the US with me. Thank you CeciMerelo! :-)
+randal_olson	715834565017870336	2016-04-01T09:33:54	moorejh Fingers crossed. :-)
+randal_olson	715806070933946368	2016-04-01T07:40:41	Heard TDD mentioned in a talk yesterday: "I don't know what it is, but my collaborator said it's a good thing." programming
+randal_olson	715682741333921792	2016-03-31T23:30:36	HSteffenhagen Vazkii I've written, "WTF is happening?!", but I don't know if I've ever written, "This should never happen."
+randal_olson	715660182236307458	2016-03-31T22:00:58	Relative prevalence of the word "bullshit" in US geotagged tweets. dataviz  
+randal_olson	715617251911663621	2016-03-31T19:10:23	Most characteristic words in successful and unsuccessful WhiteHouse  petitions. dataviz  
+randal_olson	715566898813992961	2016-03-31T15:50:17	The Rise of Partisanship in the U.S. House of Representatives. dataviz  
+randal_olson	715559343664599040	2016-03-31T15:20:16	"This should never happen." 18.3 million matches.  GitHub programming  
+randal_olson	715548966381821952	2016-03-31T14:39:02	ereinerts Yep. This change is too late for MS to keep me as a customer, but good news for others. :-)
+randal_olson	714845170995433472	2016-03-29T16:02:24	Lecture 18 of UVM robotics course up: "The Transferability project".  
+randal_olson	715547988794470400	2016-03-31T14:35:09	Finally! bash is coming to Windows 10. Linux programming  
+randal_olson	715298316301393920	2016-03-30T22:03:02	Strong Selection Significantly Increases Epistatic Interactions in the Long-Term Evolution of a Protein 
+randal_olson	714905339620032512	2016-03-29T20:01:29	Announcing Feather: A fast, language-agnostic data frame file format, by hadleywickham and wesmckinn 
+randal_olson	715320179173888001	2016-03-30T23:29:55	Dear Twitter friends: I have started the process of writing the 2nd edition of Python for Data Analysis -- coming late 2016 or early 2017!
+randal_olson	715547077925842944	2016-03-31T14:31:32	MiladToliyati Well, it's important to define your interface before you code.
+randal_olson	715317253995163649	2016-03-30T23:18:17	You can read more about Markov Networks &amp; one AI application in this paper:  
+randal_olson	715315505893089280	2016-03-30T23:11:21	Speaking of -- MarkovNetwork v1.0 is out in Python.  This is the AI brain architecture I used in my PhD work.  
+randal_olson	715299417440591873	2016-03-30T22:07:25	JeffHoogland Nah, that's not important. :-P
+randal_olson	715298853344387072	2016-03-30T22:05:10	The more I get into the habit of it, the more I realize how important it is to write unit tests *as you develop*, not *after* you develop.
+randal_olson	715297844484259841	2016-03-30T22:01:10	Nice beginner guide for folks looking to learn SQL. programming 
+randal_olson	715283832006639617	2016-03-30T21:05:29	maartenzam soxofaan Did I start a meme? :-)
+randal_olson	715256172773818368	2016-03-30T19:15:35	Brief introduction to support vector machines (SVMs). MachineLearning DataScience  
+randal_olson	715208328465530880	2016-03-30T16:05:28	National parks of the UK. dataviz  
+randal_olson	715164253104246786	2016-03-30T13:10:19	Price vs. service  for international airlines. travel dataviz  
+randal_olson	715146733731315712	2016-03-30T12:00:42	"Not to be confused with jQuery." JavaScript programming  
+randal_olson	715133088720752640	2016-03-30T11:06:29	Annabelles_Room Always amusing when visiting the UK -- and they think their accent is boring!
+randal_olson	715127699161747456	2016-03-30T10:45:04	Perk of attending conferences in Europe: Lots of talks by British academics, who sound brilliant and profound no matter the topic.
+randal_olson	714860836959989760	2016-03-29T17:04:39	I'll be talking dataviz at PhillyPUG in April. Come check it out! Philly  RSVP:  
+randal_olson	714845037562044416	2016-03-29T16:01:52	A 3D view of a chart that predicts the economic future: The Yield Curve. dataviz  
+randal_olson	714803332515237888	2016-03-29T13:16:09	3 decades of growth in pavement, buildings, and other impervious surfaces in DC area:  NASA 
+randal_olson	714815807818244096	2016-03-29T14:05:43	Video of the active categorical image classifier in action. MachineLearning  Preprint:  
+randal_olson	714805175421112320	2016-03-29T13:23:28	openmylab Elaborate? We're using inspiration from the eye, not mimicking it.
+randal_olson	714799501714788352	2016-03-29T13:00:56	Preprint of our latest MachineLearning paper is up! Very excited to continue this work.   
+randal_olson	714574123419181056	2016-03-28T22:05:21	Date of the last land battle in every country. dataviz  
+randal_olson	714562299072266241	2016-03-28T21:18:22	boothead albertocairo Por que no los dos?
+randal_olson	714551568255815680	2016-03-28T20:35:44	albertocairo eturnermd1 Wouldn't want to encourage *discussion* of dataviz topics or anything crazy like that. :-)
+randal_olson	714527947399565313	2016-03-28T19:01:52	Theano 0.8 has been released. Python MachineLearning DeepLearning  
+randal_olson	714499159521406976	2016-03-28T17:07:29	jjmerelo Evostar2016 Ooh la la! :-)
+randal_olson	714494822694957056	2016-03-28T16:50:15	Some excellent in-flight entertainment for the trip over to Europe. :-) 
+randal_olson	714481029604634624	2016-03-28T15:55:26	7 silly programming challenges to do for fun.   
+randal_olson	714460374725226497	2016-03-28T14:33:22	philshem albertocairo Overlapping pie chart segments immediately show that perception &gt;&gt;&gt; reality.
+randal_olson	714454563156279297	2016-03-28T14:10:16	Islam in Europe: perception and reality. dataviz  Great use of pie charts!   
+randal_olson	714438267551289344	2016-03-28T13:05:31	The United States now uses less water than it did in the 1970s. dataviz  
+randal_olson	714435747814748160	2016-03-28T12:55:30	Definitely made a few commits like this when debugging at 3am before. programming GitHub  
+randal_olson	714249453385998336	2016-03-28T00:35:14	147 (!!) FBI agents are investigating the Clinton email situation.  That's about 1% of ALL FBI agents.  
+randal_olson	714243149988765697	2016-03-28T00:10:11	__mharrison__ KevinLDavenport 
+randal_olson	714217907862040576	2016-03-27T22:29:53	KevinLDavenport I have a bit running, yeah. Though it shouldn't be doing that 4x. Sorry if it's a bother!
+randal_olson	714204131620220932	2016-03-27T21:35:08	Countries whose capital is not their largest city. dataviz  
+randal_olson	714167694329831425	2016-03-27T19:10:21	Super cool maps showing the flow of code in Atari 2600 games. This one is Pacman. gaming  
+randal_olson	714153817458286592	2016-03-27T18:15:13	Flag Stories: A comparison between national flags. dataviz  
+randal_olson	714150835912122371	2016-03-27T18:03:22	TenanATC Most are on arXiv already. All should be "officially" coming out in 2016 -- gotta love computer science conferences. :-)
+randal_olson	714137865840631808	2016-03-27T17:11:49	kevinschawinski SciMts Interesting idea!
+randal_olson	714134309041479680	2016-03-27T16:57:41	kevinschawinski Publishing in journals definitely slows things down in comparison. One paper coming out later this year I submitted in 2013
+randal_olson	714133847907155969	2016-03-27T16:55:51	kevinschawinski Conference deadlines have really "helped" keep up the pace. Definitely been a stressful few months.
+randal_olson	714133724875587584	2016-03-27T16:55:22	kevinschawinski Can't help it when there's so much fun research to do and write about! :-)
+randal_olson	714132835230171136	2016-03-27T16:51:50	3 months in, 6th research paper finished and submitted. 2016 is fixing to be a productive year!
+randal_olson	714118588907581440	2016-03-27T15:55:13	Great little JSFiddle that lets you find out what "color" you are:  webdev HTML 
+randal_olson	714117349184561153	2016-03-27T15:50:18	This StackOverflow thread is too good. webdev  Now try it with some of your own words!   
+randal_olson	714111119657406464	2016-03-27T15:25:33	night_tech Guess they thought you were a... Bad Apple.
+randal_olson	714087138594263040	2016-03-27T13:50:15	Pie charts are the comics sans of dataviz.  Here's how to use them correctly.   
+randal_olson	713745334816653312	2016-03-26T15:12:03	
+randal_olson	713791981781192704	2016-03-26T18:17:24	If this data surprises you, there's an explanation on GuardianUS today   
+randal_olson	713804765767950337	2016-03-26T19:08:12	Adding NYC rat maps for my class: strong urge to make up stories for each rat’s tooltip!  
+randal_olson	713728239609335808	2016-03-26T14:04:07	How the Internet talks:  
+randal_olson	714075821330317313	2016-03-27T13:05:17	These unlucky people have names that break computers. programming  Bad input validation...   
+randal_olson	713867231873146882	2016-03-26T23:16:25	WmDanRoberts Sometimes it's best to leave the data in its raw form. :-)
+randal_olson	713867038947729408	2016-03-26T23:15:39	irrequietus BenAffleck Yes he did! I was also pleasantly surprised with Jesse Eisenberg's performance.
+randal_olson	713864489985249280	2016-03-26T23:05:32	eatheringtonp BoycottShittyPieCharts
+randal_olson	713863603854643201	2016-03-26T23:02:00	I'm pretty sure that BenAffleck has a clause in all of his movie contracts that he must do AT LEAST 6 shirtless pull-ups in every movie.
+randal_olson	713845550253219840	2016-03-26T21:50:16	.TayandYou was toxic even before human contact. Here's a researcher's perspective. AI  
+randal_olson	713805288445505536	2016-03-26T19:10:17	The US as it might appear with all the proposed states. dataviz USouthFlorida would be in trouble w/ this divide! 
+randal_olson	713757545358356480	2016-03-26T16:00:34	The world's most violent cities. dataviz  
+randal_olson	713735200069525505	2016-03-26T14:31:46	maximetrebitsch raising the minimum wage (temporarily) lowers the ratio. (2/2)
+randal_olson	713735129370378241	2016-03-26T14:31:30	maximetrebitsch Ah, okay. The peaks are usually caused by minimum wage rising. Tuition is constantly going up, but (1/2)
+randal_olson	713732436211982336	2016-03-26T14:20:47	maximetrebitsch Have you read the article? :-)
+randal_olson	713722462752661505	2016-03-26T13:41:10	@bobiblazeski penn_state It scales with minimum wage, so in a sense, yes.
+randal_olson	713722297824190464	2016-03-26T13:40:30	BirdHelen BernieSanders Oh my goodness, I just saw the Family Guy episode about that song last night.
+randal_olson	713720858724986881	2016-03-26T13:34:47	What a great, candid picture of BernieSanders / BirdieSanders. 
+randal_olson	713449580906594304	2016-03-25T19:36:49	Straightforward overview of working with timeseries data in pandas python | 
+randal_olson	713719753811079168	2016-03-26T13:30:24	Spurious Extrapolations: What if penn_state tuition costs keep rising? PSU dataviz  
+randal_olson	713567175122923520	2016-03-26T03:24:06	These are the phrases that Sanders and Clinton repeat most:  
+randal_olson	713717192907431936	2016-03-26T13:20:13	Spurious Extrapolations: What if U.S. college tuition costs keep rising? dataviz  
+randal_olson	713584466980126721	2016-03-26T04:32:49	*phew!* New dataviz post coming out tomorrow! This should be a fun one.  Preview is on Patreon if you're a patron: 
+randal_olson	713524476084936705	2016-03-26T00:34:26	minimaxir What does Reddit say to the minimaxir? 
+randal_olson	713523225108545537	2016-03-26T00:29:28	minimaxir How else does the data know what to do unless it has a leader?
+randal_olson	713518860759080960	2016-03-26T00:12:07	alvarograves minimaxir? 
+randal_olson	713502954825904130	2016-03-25T23:08:55	alvarograves Revenue, not budget**
+randal_olson	713500796168585216	2016-03-25T23:00:20	Relationship b/w Rotten Tomatoes score &amp; box office revenue for each movie genre. dataviz  
+randal_olson	713488546267529216	2016-03-25T22:11:40	thisDaveJ I didn't even know it was possible to make it worse... until now.
+randal_olson	713486332673306626	2016-03-25T22:02:52	eatheringtonp #1 Trump policy
+randal_olson	713484376961449984	2016-03-25T21:55:06	If you walked straight from the coast, where would you end up? Beautiful dataviz!   
+randal_olson	713482574589476864	2016-03-25T21:47:56	flerlagekr 3D pies are tasty!
+randal_olson	713481131774107650	2016-03-25T21:42:12	flerlagekr Hahaha, did you remove the part of your tweet saying that you could be convinced otherwise by sound logic? :-D
+randal_olson	713480740521046017	2016-03-25T21:40:39	flerlagekr In defense of pie charts: 
+randal_olson	713480554688225281	2016-03-25T21:39:54	mj1856 It's the 0.00001% that you can barely see in there.
+randal_olson	713479230747750401	2016-03-25T21:34:39	As a supplement to my recent post about pie charts, I'm sharing this helpful dataviz guide again. 
+randal_olson	713474469839421440	2016-03-25T21:15:43	I should write a blog post defending 3D dataviz and really establish myself as a contrarian.
+randal_olson	713473276006244352	2016-03-25T21:10:59	ArianaNGiorgi Judging by the way some people responded, it sounds like the only way to accomplish that is to not use a pie chart. Heh!
+randal_olson	713473115733491713	2016-03-25T21:10:21	exo_mplanet You can ask, but I can't guarantee that I will have the correct answer. :-)
+randal_olson	713440574016200704	2016-03-25T19:01:02	Top 30 linkbait phrases in BuzzFeed headlines that generate most Facebook shares. dataviz  
+randal_olson	713395247238291457	2016-03-25T16:00:55	NNPACK: acceleration package for neural networks on multi-core CPUs. DeepLearning  
+randal_olson	713363059289550848	2016-03-25T13:53:01	This made me genuinely laugh out loud. To its creator: thank you. rstats dataviz  
+randal_olson	713361107524718592	2016-03-25T13:45:16	Pretty much what happened yesterday with TayandYou. AI  
+randal_olson	713360518078210048	2016-03-25T13:42:55	chrisalbon Holy crap! 
+randal_olson	713352283019427840	2016-03-25T13:10:12	Tree coverage of North America. dataviz  
+randal_olson	712865465878626306	2016-03-24T04:55:46	Exclusive FiveThirtyEight projection on what the Electoral College would look like if women refuse to vote Trump. 
+randal_olson	712701760146571264	2016-03-23T18:05:15	Evolution of the violin hole  
+randal_olson	712653916853444608	2016-03-23T14:55:08	At night the Eagle Ford shale play glows w/ activity in VIIRS DNB imagery:  NaturalGas 
+randal_olson	713012008241659904	2016-03-24T14:38:04	Notes on the Origin of Evolutionary Computation via moshesipper (1999)  datascience machinelearning TBT
+randal_olson	713195407510077446	2016-03-25T02:46:50	There is an entire subreddit dedicated to Tay.ai tweets  
+randal_olson	713073290198253569	2016-03-24T18:41:35	Lecture 17 of UVM robotics course up: "The Resilient Machines project".  
+randal_olson	713330619648974848	2016-03-25T11:44:07	rlzijdeman Responded on there. :-)
+randal_olson	713187605211262976	2016-03-25T02:15:50	For those of you playing w/ the GCB535 challenge (randal_olson, maybe others?), we've added an example solution: 
+randal_olson	713145403185750016	2016-03-24T23:28:08	rlzijdeman I'd like to press the point: Why should the viewer care about specific %s when all you need to comm. is a simple proportion?
+randal_olson	713125830986240005	2016-03-24T22:10:22	A compilation of &gt;50 questions typically asked in MachineLearning interviews. DataScience  
+randal_olson	713118136128696320	2016-03-24T21:39:47	rlzijdeman Bar chart requires looking at axes for simple proportion. Pie chart is intuitive.
+randal_olson	713116448030384129	2016-03-24T21:33:04	rlzijdeman That still won't communicate a simple proportion easier than a pie chart. :-)
+randal_olson	713116248519868417	2016-03-24T21:32:17	avesus8 TayandYou I'd imagine crazy and racist wasn't what Microsoft was going for with their AI.
+randal_olson	713100138143694848	2016-03-24T20:28:16	Album of crazy statements from TayandYou, Microsoft's amusingly failed conversational AI  
+randal_olson	713093903445016577	2016-03-24T20:03:29	cr1901 ianrhile albertocairo Oof. At least read the article before jumping on the bandwagon.
+randal_olson	713082598214475777	2016-03-24T19:18:34	blaklaybul EvanSinar DashingD3js It's meant to -- it's an example of the wrong way to use a pie chart. :-)
+randal_olson	713080541524963328	2016-03-24T19:10:24	Population density across the US, 1790-1860. dataviz  
+randal_olson	713045187480649728	2016-03-24T16:49:55	biddrafter Nor win one. And how do they feel about it? "Meh."
+randal_olson	713045075098468352	2016-03-24T16:49:28	jcearls Necessary changes IMO. But yes, even the Python dev team has admitted that they screwed up in the version upgrade.
+randal_olson	713039982664019969	2016-03-24T16:29:14	jcearls Python 3 a disaster? What? Last I checked, we're over the hump. Now just a few stragglers stuck in Python 2.
+randal_olson	713034043789615104	2016-03-24T16:05:38	If you gotta use them, do it right: The correct way to use pie charts randal_olson  dataviz 
+randal_olson	713032318433280000	2016-03-24T15:58:46	1geek0 LindaRegber 
+randal_olson	713031453005778944	2016-03-24T15:55:20	Mapping the spread of slavery across the US. dataviz  
+randal_olson	713003748377944064	2016-03-24T14:05:15	New dataviz post is out: In which I defend the infamous pie chart.   
+randal_olson	712998694740758528	2016-03-24T13:45:10	If apathy and disinterest were a political party, they'd be crushing it right now. dataviz  
+randal_olson	712988646132023298	2016-03-24T13:05:14	Netflix’s US catalog has shrunk by more than 2,500 titles in less than 2.5 years. dataviz  
+randal_olson	712648252143845376	2016-03-23T14:32:38	Rivers, creeks, and dead, dry riverbeds of Australia:  dataviz 
+randal_olson	712732163972706307	2016-03-23T20:06:04	A teeny few lines of deep learning code (in keras) that supposedly beat the Netflix winner  via HarlanH
+randal_olson	712711629981499392	2016-03-23T18:44:28	Comparing programming languages. HT gracielagon java python coding 
+randal_olson	712963624931864576	2016-03-24T11:25:49	chrisalbon Good error handling.
+randal_olson	712805144564408321	2016-03-24T00:56:04	An unwieldy, intrusive and invaluable survey to understanding Americans' health is in peril:  
+randal_olson	712826312352620544	2016-03-24T02:20:11	Now that left-pad is available on PyPI, the Python world can finally catch up to the robust JS ecosystem! 
+randal_olson	712761163721916417	2016-03-23T22:01:18	PSA: pep8 &amp; pep257 (the tools) are being renamed to pycodestyle and pydocstyle, respectively. Python programming 
+randal_olson	712718173938839552	2016-03-23T19:10:28	What do French speakers call a "plastic bag"? dataviz  
+randal_olson	712680697773834240	2016-03-23T16:41:33	Syrian refugee applications and registrations around the world. Syria dataviz  
+randal_olson	712679509665980416	2016-03-23T16:36:50	getsomeevan Please ping me with whatever comes out of this project. :-D
+randal_olson	712650096484212737	2016-03-23T14:39:58	New dataviz post coming tomorrow.  Reminder: We set up a Patreon if you want to support us.  
+randal_olson	712645009221226496	2016-03-23T14:19:45	_cingraham Made me think of you:  
+randal_olson	712643880227880960	2016-03-23T14:15:15	mrjose I believe they normalize for that.
+randal_olson	712636769729122304	2016-03-23T13:47:00	jrdnmdhl OliverSherouse ...? There's a difference between "Our findings are groundbreaking" and "Here's some data supporting my claims."
+randal_olson	712627946196967424	2016-03-23T13:11:57	getsomeevan Were you able to connect with the authors? I could try to make a connection if not. Would love to see what y'all do with it.
+randal_olson	712625123682099200	2016-03-23T13:00:44	Analyzing loud noise complaints around NDSU. dataviz  
+randal_olson	712621187789164544	2016-03-23T12:45:05	hswapnil Gotcha. Seems like they should merge with pnis_co!
+randal_olson	712616623614652416	2016-03-23T12:26:57	OliverSherouse I've seen plenty of authors do this of their own volition... but yes, I'm sure it's partly the journals too.
+randal_olson	712615610044321792	2016-03-23T12:22:55	I've been wanting to try writing my papers on GitHub, but I love sharelatex too much. Google docs for LaTeX!  
+randal_olson	712615271173922816	2016-03-23T12:21:35	Annabelles_Room Doing my best to avoid it. I've been very disappointed with my FB friends as well.
+randal_olson	712615139414028290	2016-03-23T12:21:03	OliverSherouse I don't understand the modern scientist's fascination with "novel" research.
+randal_olson	712615056555581440	2016-03-23T12:20:43	OliverSherouse I would say that most published research is incremental, and not really all that novel. And that's okay -- that's science.
+randal_olson	712614935805763584	2016-03-23T12:20:15	OliverSherouse Personally, I won't be convinced if a writer just tells me that their work is novel. Honestly, it's unlikely.
+randal_olson	712614357247606786	2016-03-23T12:17:57	OliverSherouse Shouldn't be necessary if you write a good intro/related work section.
+randal_olson	712613744518545409	2016-03-23T12:15:31	bio_mediocre IMO it should go the other way: If work is not novel, clarify that it's a reproducibility study.
+randal_olson	712613650616418304	2016-03-23T12:15:08	rguha Time to start revisiting my blog posts?... Nah, there's already too much stuff being published already.
+randal_olson	712613182536359936	2016-03-23T12:13:17	ianwalker skyponderer Then they're part of the problem.
+randal_olson	712613042073309185	2016-03-23T12:12:43	.seanmylaw "This spectacularly creative and novel method leads to promising and innovative results that have groundbreaking consequences."
+randal_olson	712612197378220032	2016-03-23T12:09:22	seanmylaw Same. jakevdp gives great talks!
+randal_olson	712403825538285573	2016-03-22T22:21:22	The most WTF dataviz I've seen in WTFViz in quite a while  
+randal_olson	712609945372467201	2016-03-23T12:00:25	Autocomplete from StackOverflow.  Now you can literally have SO write your code for you.   
+randal_olson	712609905803468801	2016-03-23T12:00:15	laurenancona &lt;3 small multiples
+randal_olson	712609848614117376	2016-03-23T12:00:02	udayd This paper is about the length of a blog post.
+randal_olson	712609016648712192	2016-03-23T11:56:43	Also: This is yet another paper that I'm surprised is published. I would expect it to be a blog post. science 
+randal_olson	712608272973504512	2016-03-23T11:53:46	Scientists: Stop saying your work is "novel." We know. It's research. science dataviz  
+randal_olson	711992769057689600	2016-03-21T19:07:58	.DrewLeonard42 Definitely - check out this comparison from astrofrog : "down w/jet, long live viridis" 
+randal_olson	712358490946330624	2016-03-22T19:21:13	Just for the pleasure of showing this again: army ant bridge collapses, then recovers. collbehav timelapse 
+randal_olson	712320725479202818	2016-03-22T16:51:09	Lecture 16 of UVM robotics course up: "Final project ideas. And, the GOLEM project".  
+randal_olson	711760019432349696	2016-03-21T03:43:07	Artificial Evolution of a manta-like fin (2014)  
+randal_olson	712606289759715328	2016-03-23T11:45:53	"In Defense of Extreme Openness." Great talk by jakevdp!  tl;dr: OpenScience wins  Slides:  
+randal_olson	712605043896283136	2016-03-23T11:40:56	Here's video of the DataPhilly talks from last night:  Philly DataScience
+randal_olson	712583189668241408	2016-03-23T10:14:06	nicolasperony Better data &gt; better algorithms.
+randal_olson	712453505928327169	2016-03-23T01:38:47	shaun_gallagher Amusing talk today. "Experimenting With Babies" is a book that no single man should own unless he wants to stay single. :-)
+randal_olson	712447268037722116	2016-03-23T01:13:59	jasongrahn What are your programming needs? I generally recommend Python as a first programming language due to its general usability.
+randal_olson	712418962584309761	2016-03-22T23:21:31	rasbt Great example of better data &gt; better algorithms.
+randal_olson	712402332034670592	2016-03-22T22:15:26	We still have a ways to go with natural language processing. NLP MachineLearning  
+randal_olson	712355780213784577	2016-03-22T19:10:27	Well, that's pretty cool! Python programming edchat  
+randal_olson	712325630210211840	2016-03-22T17:10:39	Lees_Sandbox Just a troll.
+randal_olson	712315609510445057	2016-03-22T16:30:50	Annabelles_Room Just a select few.
+randal_olson	712306695909842945	2016-03-22T15:55:24	Evolution of the train network in France, 1910 vs. 2014. dataviz  
+randal_olson	712300288066068480	2016-03-22T15:29:57	Today I am reminded that the block user feature is one of the best tools that Twitter has provided us.
+randal_olson	712299402321399808	2016-03-22T15:26:26	pbulsink mbeisen lteytelman I have higher hopes. :-)
+randal_olson	712296250385829889	2016-03-22T15:13:54	Some fun talks scheduled for DataPhilly tonight! Philly DataScience  
+randal_olson	712295955375243265	2016-03-22T15:12:44	The DataPhilly talks will be live streamed on YouTube tonight.  Philly DataScience  Follow along: 
+randal_olson	712279006469607424	2016-03-22T14:05:23	Preprint of our TPOT paper at GECCO2016 is out! Python MachineLearning DataScience  
+randal_olson	712270745699749889	2016-03-22T13:32:33	MonaChalabi "Hahaha... I swear, guys... just doing my social media thing... no, I'm not looking at dicks."
+randal_olson	712265400331997185	2016-03-22T13:11:19	This post comparing R base graphics to ggplot2 is excellent: flowingdata  (includes code) 
+randal_olson	712265780839235584	2016-03-22T13:12:50	“Defaults suck”. Amen, flowingdata  dataviz infographics dataJournalism 
+randal_olson	712269932109631489	2016-03-22T13:29:19	MonaChalabi I wince every time I open your Twitter feed at work and this pops up at the top.
+randal_olson	712260868017364992	2016-03-22T12:53:18	Voters in 1,600 counties have sided w/ same party in every presidential election since 1988  
+randal_olson	712263341876629504	2016-03-22T13:03:08	Mule deer in the cold, snowy north are born earlier. Satellites reveal why:  NASA dataviz 
+randal_olson	712268700422938624	2016-03-22T13:24:26	I never thought I'd care about the most prolific Twitter user, but now I'm fascinated.  
+randal_olson	711226905043709952	2016-03-19T16:24:42	...next wk's ep is w/computational bio &amp; ML PhD candidate Sebastian Raschka rasbt author of Python Machine Learning 
+randal_olson	712265370112020480	2016-03-22T13:11:12	Looking for data? Don't forget  datascience bigdata 
+randal_olson	712260136732135425	2016-03-22T12:50:24	Top 2nd-billed actors/actresses by mean/median Rotten Tomatoes scores. dataviz  
+randal_olson	712254674968121345	2016-03-22T12:28:42	3rdreviewer plz no
+randal_olson	712247051258630144	2016-03-22T11:58:24	mbeisen PLOS lteytelman pastramimachine But of course, top-paid execs know that already. :-)
+randal_olson	712246942886133762	2016-03-22T11:57:58	.mbeisen: IMO this can be seen as an opportunity to reaffirm PLOS' commitment to the OA community &amp; cause.  lteytelman pastramimachine
+randal_olson	712245784117448706	2016-03-22T11:53:22	.lteytelman pastramimachine PLOS I didn't feel like spreading my response over several tweets, so here's an image 
+randal_olson	712233074877194240	2016-03-22T11:02:52	getsomeevan can assist if you want to run something about it. :-) (2/2)
+randal_olson	712232975849533440	2016-03-22T11:02:28	getsomeevan I think it's only a research prototype right now. You can contact the authors (listed in the full video) and maybe they (1/2)
+randal_olson	712093738416402434	2016-03-22T01:49:11	polinenipavan No news yet, I guess.
+randal_olson	712086860038856704	2016-03-22T01:21:52	Stevezieglerva eg there's a bot on Reddit that poss screenshots of a webpage if it goes down due to high traffic volume.
+randal_olson	712086677116870656	2016-03-22T01:21:08	Stevezieglerva Bots is my first thought.
+randal_olson	712046157795598336	2016-03-21T22:40:07	WaltHickey minimaxir Oh, we're bringing on the FIRE then, Walt!
+randal_olson	712045197287358464	2016-03-21T22:36:18	minimaxir WaltHickey It's scheduled to tweet again later in Hootsuite, don't you worry. :-P
+randal_olson	712043118439305217	2016-03-21T22:28:03	minimaxir WaltHickey It felt a little too confrontational in retrospect.
+randal_olson	712033642848067584	2016-03-21T21:50:24	Using Selenium &amp; Python to screenshot a JavaScript-heavy page.  Very useful script!  
+randal_olson	712025590224850944	2016-03-21T21:18:24	WaltHickey minimaxir Torn apart on Reddit apparently. :-/
+randal_olson	712023588686196736	2016-03-21T21:10:26	minimaxir Doesn't exist.
+randal_olson	712022014219952129	2016-03-21T21:04:11	WaltHickey A+ counter-point, sry minimaxir
+randal_olson	712012199951265792	2016-03-21T20:25:11	Evolution of the Color of New Cars since 2000. dataviz  
+randal_olson	711992132068896768	2016-03-21T19:05:27	The most and least attractive accents in the British Isles -- YouGov survey. dataviz  
+randal_olson	711943042274627589	2016-03-21T15:50:23	What Death Row inmates say in their last words. dataviz  Lack of mentions of "Father"...   
+randal_olson	711917532760956928	2016-03-21T14:09:01	Anyone know when the ICML2016 workshops will be announced?  ICML will be in my neck of the woods this year, so I'm thinking of going.
+randal_olson	711916438144028674	2016-03-21T14:04:40	minorsecond I've heard very good things about Shiny from, e.g., sjmgarnier.
+randal_olson	711915764169744384	2016-03-21T14:01:59	minorsecond Me personally, never. :-)
+randal_olson	711910869823832064	2016-03-21T13:42:32	icntmx daniel_egan Better than $0.
+randal_olson	711898987473797121	2016-03-21T12:55:19	MSU's upset loss in MarchMadness 2016 rendered human-made brackets no better than chance.   
+randal_olson	711893691972120576	2016-03-21T12:34:17	bheal521 Right -- here we're looking for a method that reduces the record space. Assume # of features may already be small(ish).
+randal_olson	711893477940961280	2016-03-21T12:33:26	kashaziz Yes, and (I've found) encourages more thoughtful responses rather than using email as "chat" or "lazy Google search."
+randal_olson	711566435496140800	2016-03-20T14:53:53	If you think Millennials are spoiled, imagine how bad they'd be if college was cheap and housing affordable. Like it was for their parents.
+randal_olson	711587288136949762	2016-03-20T16:16:44	As always bengoldacre says it best 
+randal_olson	711520672896446464	2016-03-20T11:52:02	How is this even possible? 
+randal_olson	711358419782017024	2016-03-20T01:07:18	MatthewLennig They might be, might not be. Looking for general solution.
+randal_olson	711337219605319680	2016-03-19T23:43:03	MatthewLennig It's for a supervised classification problem, yes.
+randal_olson	711321003557822465	2016-03-19T22:38:37	rasbt What's the hashing function?
+randal_olson	711319206378217473	2016-03-19T22:31:29	bheal521 PCA reduces the feature space, not the record space, right?
+randal_olson	711311888248868864	2016-03-19T22:02:24	My MachineLearning question for the weekend. DataScience  Thread:  
+randal_olson	711307492358230020	2016-03-19T21:44:56	Gorgeous dataviz of sorting algorithms. CompSci programming  
+randal_olson	711304219870044161	2016-03-19T21:31:56	arnaudbertrand_ Hmmm... 
+randal_olson	711278106812796928	2016-03-19T19:48:10	TenanATC eatheringtonp I was wondering if I should've clarified that in the tweet.  Of course it's very serious. All business is serious.
+randal_olson	711275859441754112	2016-03-19T19:39:14	usethespacebar I've been using 
+randal_olson	711275060422688768	2016-03-19T19:36:03	usethespacebar I bet there is. :-)  Related issue:   Do you mean a benchmark data set, or profiling tools?
+randal_olson	711264801310306305	2016-03-19T18:55:17	Introducing Deep Spreadsheets with ExcelNet.  DeepLearning MachineLearning  
+randal_olson	711256780542775296	2016-03-19T18:23:25	usethespacebar BecomingDataSci Need to do a more thorough lit review, but that could be a research project right there.
+randal_olson	711256688481927168	2016-03-19T18:23:03	usethespacebar BecomingDataSci I'm actually not sure if it was ever expanded to regression problems: 
+randal_olson	711255760693534721	2016-03-19T18:19:22	usethespacebar BecomingDataSci First step is to get it to support continuous features. Might look into ReliefF for regression later.
+randal_olson	711237965364781056	2016-03-19T17:08:39	daniel_egan I suppose I should be fair and /cc followerwonk on this tweet chain if they want to try to keep me as a customer.
+randal_olson	711235354418880512	2016-03-19T16:58:17	daniel_egan analysis myself, but the $30/mo plan doesn't even cover accounts my size very well. Ho hum. Was worth a try.
+randal_olson	711235192787226624	2016-03-19T16:57:38	daniel_egan Honestly, I'll probably cancel my subscription after this month. I thought it would be worth it to save my time doing the
+randal_olson	711234968056426497	2016-03-19T16:56:45	johnpharmd followerwonk I've started using hootsuite to schedule non-timely tweets better, but I don't want to be on Twitter all day. :-)
+randal_olson	711231962577510406	2016-03-19T16:44:48	Annabelles_Room "Did you know that Haskell can--"  "No. No one cares."
+randal_olson	711230765678383104	2016-03-19T16:40:03	Using followerwonk to analyze my Twitter account. Sheesh, you can really see my daily schedule here. dataviz 
+randal_olson	711227049629904897	2016-03-19T16:25:17	The StackOverflow developer survey for 2016 is out! dataviz programming Python rstats  
+randal_olson	711223321472458753	2016-03-19T16:10:28	Tutorial on reshaping data in pandas, explained with pictures. Python DataScience  
+randal_olson	711008047930449920	2016-03-19T01:55:03	Biggest tourney upsets ever:  
+randal_olson	711216589367021568	2016-03-19T15:43:43	eatheringtonp Can we trust video nowadays anyway? Media always cutting portions out of context...
+randal_olson	710966498366345216	2016-03-18T23:09:56	Gawker 
+randal_olson	711003281930104833	2016-03-19T01:36:06	I fit the population of 9 US states into LosAngeles county.  Bizarre that's 18 senators.   
+randal_olson	710846020305879041	2016-03-18T15:11:12	Dear everyone: You can now send your data drawings to _deardata:  dataviz infographics 
+randal_olson	711215351862845440	2016-03-19T15:38:48	jscarto Eager for my copy to arrive. :-)
+randal_olson	711214535881977856	2016-03-19T15:35:33	joavanschoren Brilliant team! I hope to make it next time.
+randal_olson	710980346108583936	2016-03-19T00:04:58	Conda package management moving to a community-driven model at  
+randal_olson	710926528675241984	2016-03-18T20:31:07	PaulGowder Text blurs quite easily with JPEGs.
+randal_olson	710913435488423937	2016-03-18T19:39:05	StuFlemingNZ Yet very important. :-)
+randal_olson	710913279791669248	2016-03-18T19:38:28	Providing some insight into the moderation behind DataIsBeautiful. dataviz  
+randal_olson	710913010756423680	2016-03-18T19:37:24	Annabelles_Room DataIsBeautiful Uber meta. :-)
+randal_olson	710911874787897344	2016-03-18T19:32:53	Why posts get removed from DataIsBeautiful -- another Reddit analysis. dataviz  Details:  
+randal_olson	710906283730276352	2016-03-18T19:10:40	How long is Chile? (Hint: pretty long!)   
+randal_olson	710877975193866240	2016-03-18T17:18:11	arnaudbertrand_ Hah! Those days are long behind me now.
+randal_olson	710864563990876160	2016-03-18T16:24:53	arnaudbertrand_ Doesn't sound like a bad obsession to have. ;-)
+randal_olson	710863700727623680	2016-03-18T16:21:28	davidshor This paper has a good intuitive explanation of the ReliefF family of algos (see Fig 1): 
+randal_olson	710863445399363584	2016-03-18T16:20:27	davidshor Very simple concept:   Currently only works for categorical features in my code; expanding soon.
+randal_olson	710858941069139969	2016-03-18T16:02:33	Evolution of car color in the US since 2000. dataviz  
+randal_olson	710851997159784448	2016-03-18T15:34:57	arnaudbertrand_ A personal challenge, I suppose.
+randal_olson	710849560449576960	2016-03-18T15:25:16	30 days of OpenSource Python contributions on GitHub and counting... :-)   
+randal_olson	710848628672360452	2016-03-18T15:21:34	arnicas flowingdata And now we know that Nathan was taking a dump at 2:33 PM on March 17, 2016.
+randal_olson	710848334894858241	2016-03-18T15:20:24	ICYMI, new project: The ReliefF family of feature selection algos. Python MachineLearning  
+randal_olson	710616823184621569	2016-03-18T00:00:27	Lecture 15 of UVM robotics course up: "NEAT/HyperNEAT. And, from simulation to reality".  
+randal_olson	710573371248009216	2016-03-17T21:07:48	Evolving our way to artificial intelligence  via ConversationUS
+randal_olson	710661993368260609	2016-03-18T02:59:57	The complete set:  
+randal_olson	710532010993971200	2016-03-17T18:23:27	If things get cheaper, we get richer.  An example: The price for light in a household. From 1300 to 2006. 
+randal_olson	710209116828864512	2016-03-16T21:00:23	[OC] Runoff accumulation around The World  dataviz 
+randal_olson	710830914046189568	2016-03-18T14:11:11	If you're near West Philly today, check out dottiesdonuts. Delish! Philadelphia vegan donuts 
+randal_olson	710828827887411201	2016-03-18T14:02:53	An optimized RoadTrip across SouthAmerica. dataviz  
+randal_olson	710828681069985792	2016-03-18T14:02:18	tracy_staedter What's the alternative if he rejects? A split Democratic party.
+randal_olson	710828298813759492	2016-03-18T14:00:47	Annabelles_Room Maybe. :-D
+randal_olson	710811850720600064	2016-03-18T12:55:26	Percent of Christian baby names in America from 1880 to 2014. dataviz  Details:  
+randal_olson	710806828469374977	2016-03-18T12:35:28	matt_romm What's the alternative? Lose to Trump because the Democratic party splits?
+randal_olson	710806177068793856	2016-03-18T12:32:53	My political comment for the day (week?). Democrat HillaryClinton BernieSanders 
+randal_olson	710681740851978240	2016-03-18T04:18:25	I've been v. impressed w/ the ReliefF family of feature selection algos; we NEED them in Python MachineLearning!  
+randal_olson	710681479597182977	2016-03-18T04:17:23	New project: The ReliefF family of feature selection algos. Python MachineLearning  
+randal_olson	710596610477203456	2016-03-17T22:40:08	ChristosMatskas DataPhilly We'll need a larger endowment for that. 😄
+randal_olson	710596327571324928	2016-03-17T22:39:01	kriseno b_fung I think BD will be fine without Google. This isn't the end for them.
+randal_olson	710596162357751809	2016-03-17T22:38:22	grim_juz DataPhilly Couldn't get the video situation worked out in time. Need a hero to volunteer to record and edit.
+randal_olson	710595912255578112	2016-03-17T22:37:22	NeuroBill This was probably more of a "because we can" kind of project.
+randal_olson	710586960885248000	2016-03-17T22:01:48	They told us DeepLearning would solve important problems.  Now it's solved FlappyBird.   
+randal_olson	710585953606344704	2016-03-17T21:57:48	Looking for speakers for DataPhilly, Philly's local DataScience meetup group.  Ping me if interested: 
+randal_olson	710538827446808576	2016-03-17T18:50:32	Democratic vs. Republican professions. dataviz  Full list:  
+randal_olson	710534806090682368	2016-03-17T18:34:33	Participate in a distributed evolutionary computation experiment:  MachineLearning 
+randal_olson	710519191921692672	2016-03-17T17:32:30	"... concluded that Boston Dynamics isn’t likely to produce a marketable product in the next few years"  Wow!  
+randal_olson	710518815440957440	2016-03-17T17:31:01	MetricMaps dat color scheme 
+randal_olson	710515289033584640	2016-03-17T17:17:00	15% of US civ workforce is employed in a government job.  Here breakdown by state/county  
+randal_olson	710516402910859264	2016-03-17T17:21:25	Whoa, Google is selling off Boston Dynamics: 
+randal_olson	710506674075865088	2016-03-17T16:42:46	brandon_rhodes kennethreitz Also note: Just b/c a new generation appears, doesn't mean the old generation disappears. ;-)
+randal_olson	710496545209229313	2016-03-17T16:02:31	Programmer puns... Python programming  
+randal_olson	710466434334380032	2016-03-17T14:02:52	Top 25 richest living comedians. dataviz  
+randal_olson	710458999557246976	2016-03-17T13:33:19	bkeepers Awesome -- enjoy! It's going to be a beautiful trip. Please send pictures. :-)
+randal_olson	710452003403603969	2016-03-17T13:05:31	"Step 5. Can I get others to not do this?" programming  
+randal_olson	710228774147719168	2016-03-16T22:18:29	SuavestofRicos That's too bad. When's the last time you tried?
+randal_olson	710227923681353729	2016-03-16T22:15:07	Arubeeka 1 out of 10. AlphaGo swept another Go champion 5-0 last year.
+randal_olson	710224428710416384	2016-03-16T22:01:13	I guess it's time to update this xkcd. MachineLearning  What's next for AI -- StarCraft?   
+randal_olson	710204217634529282	2016-03-16T20:40:55	SuavestofRicos On how to install xgboost?
+randal_olson	710190042715652097	2016-03-16T19:44:35	ericknud R is some weird hacky language that is very unlike most modern languages. Python is more like a 'normal' programming language.
+randal_olson	710189856111108097	2016-03-16T19:43:51	ericknud Compared to learning R from scratch, it should be a breeze. But don't expect R experience to help a lot w/ Python.
+randal_olson	710177661889482752	2016-03-16T18:55:23	Python for geospatial data processing. dataviz  
+randal_olson	710137421829169152	2016-03-16T16:15:29	himynamesdave Please share when you do!
+randal_olson	710131107082199040	2016-03-16T15:50:24	How quickly the world's most successful startups reached $1B valuation dataviz  Full list:  
+randal_olson	710128948106100736	2016-03-16T15:41:49	eatheringtonp Now I'm wondering if I made a pun without meaning to.
+randal_olson	710126140082536448	2016-03-16T15:30:39	GitHub has added more code review tools for us. Huzzah!  OpenSource programming  
+randal_olson	710119831543140353	2016-03-16T15:05:35	michaelaye Nah, it's just a list of "top spots" as listed by the Pure Michigan group.
+randal_olson	710116702772711424	2016-03-16T14:53:09	michaelaye Folks love the coast in Michigan. Can't say I blame 'em!
+randal_olson	710116195995938817	2016-03-16T14:51:09	hargup13 It's Penn colors, where TPOT is being developed.
+randal_olson	710111903230664704	2016-03-16T14:34:05	A PureMichigan RoadTrip, optimized. dataviz  
+randal_olson	710093103349235712	2016-03-16T13:19:23	TPOT has a new logo! Python DataScience MachineLearning  Big thanks to Todd Newmuis.   
+randal_olson	710092876282200065	2016-03-16T13:18:29	TPOT users: Have you had issues installing XGBoost? Considering dropping XGBoost b/c of reported install issues.  Python MachineLearning
+randal_olson	710087054101716992	2016-03-16T12:55:21	The cost of brand-name vs. generic drugs over time. dataviz  
+randal_olson	710066922369454081	2016-03-16T11:35:21	Sad realization: Election season has turned many of my favorite Twitter feeds into a political hailstorm.
+randal_olson	710066262991380480	2016-03-16T11:32:44	jscarto Is this to say that NASA is working on a fart-o-meter?
+randal_olson	709842832576679936	2016-03-15T20:44:54	A Global View of Methane:  NASA 
+randal_olson	709841538600329216	2016-03-15T20:39:45	swoopyDrag - artisanal label placement for d3 graphics   
+randal_olson	709725864934686721	2016-03-15T13:00:06	Please do not require logins or CAPTCHA's on publicly available data. Data is much more valuable when it can be accessed programmatically.
+randal_olson	709864244401950720	2016-03-15T22:09:59	Arg, what a gotcha ... I'll never trust default values ever again. Cc randal_olson 
+randal_olson	709864030635225088	2016-03-15T22:09:08	Great collection of Must Know Tips/Tricks in DeepLearning NeuralNetworks  
+randal_olson	709942536270422017	2016-03-16T03:21:05	We are excited to see the attendee list keep growing! PyCon is now 95% of the way to sold out. Unless you hold a promo code, register soon!
+randal_olson	709879363190312960	2016-03-15T23:10:03	S0uff 
+randal_olson	709851757451599872	2016-03-15T21:20:22	Age distribution in the US, 1933-2100. dataviz  
+randal_olson	709822697807618049	2016-03-15T19:24:53	The animated path to the nomination. What happens if Trump sweeps tonight? Or gets swept?  
+randal_olson	709793313688260609	2016-03-15T17:28:07	Moneyball for book publishers: stats on how we read bestsellers, and not-so-bestsellers  
+randal_olson	709490984757886977	2016-03-14T21:26:47	samples from confusion matrix of ordinary neural net trained on MNIST, getting intuitions for why they make mistakes 
+randal_olson	709836219287539712	2016-03-15T20:18:37	Lesson learned: Never update software just before you leave work for the day. Sometimes you'll suddenly not be leaving work...
+randal_olson	709820316881698817	2016-03-15T19:15:26	"Minor changes"... programming GitHub  
+randal_olson	709811493827649536	2016-03-15T18:40:22	Median ages in Africa. dataviz  
+randal_olson	709782126959452162	2016-03-15T16:43:40	benaoufa Heh, of course Garry said that. ;-)
+randal_olson	709771366535467008	2016-03-15T16:00:55	AlphaGo wins the final game vs. LeeSedol, ending the series 4-1.  I'm impressed Sedol managed a single victory.  
+randal_olson	709741585978761220	2016-03-15T14:02:35	Here’s how AI crushed all humans records in 2048. dataviz  
+randal_olson	709727211910201345	2016-03-15T13:05:28	The evolution of humans, in GIF form.   
+randal_olson	709508629863469056	2016-03-14T22:36:54	RafaelArelin Click the link, watch the animations, and find out. :-)
+randal_olson	709505153708253184	2016-03-14T22:23:05	maartenzam Nice work. :-)
+randal_olson	709502740771291136	2016-03-14T22:13:29	Fantastic simulation shows why polls don’t always match the resulting votes. dataviz  
+randal_olson	709499660902264832	2016-03-14T22:01:15	Scotland: Just the people, mapped. dataviz  
+randal_olson	709443250621440000	2016-03-14T18:17:06	This PiDay new report, Mass Incarceration: The Whole Pie 2016. 2.3 million locked up in US  
+randal_olson	709459684638466048	2016-03-14T19:22:24	michaelaye Yep, seems that's correct.
+randal_olson	709457918870085632	2016-03-14T19:15:23	What 18 billion single-serving coffee pods look like. dataviz  And that's just 1 company!   
+randal_olson	709431547208855552	2016-03-14T17:30:36	Describing projects as "For Humans" must stop!  ... For Humans. Python programming  
+randal_olson	709408981425528832	2016-03-14T16:00:56	Pretty much captures what happened to my sleep schedule after DaylightSavingTime this year   
+randal_olson	709392263286231040	2016-03-14T14:54:30	DeepMind is providing 15-min summary videos of the AlphaGo vs. LeeSedol games.  Game 1:  
+randal_olson	709379342846062592	2016-03-14T14:03:09	MarchMadness predictions:  
+randal_olson	709391180799320064	2016-03-14T14:50:12	What Earth would look like without water &amp; ice.  by LIFE in 1960  Zoomable version:  
+randal_olson	709390799071518720	2016-03-14T14:48:40	BuckmasterFresh We must EndMarriageNow!
+randal_olson	709379080416862208	2016-03-14T14:02:07	144 years of marriage and divorce in the US. dataviz  
+randal_olson	709135750684655616	2016-03-13T21:55:12	The languages of Europe. dataviz  
+randal_olson	709101867423371268	2016-03-13T19:40:34	IvanHerCaz Much appreciated, Iván! I will take the assistants on a walk and buy a coffee with your generous donation. :-)
+randal_olson	709097101679075328	2016-03-13T19:21:38	MSUnites Such divas. :-D
+randal_olson	709097006128611328	2016-03-13T19:21:15	BecomingDataSci And smart! They play a critical role in the research process: cuddle time!
+randal_olson	709096876054806529	2016-03-13T19:20:44	angebassa Thanks, Angela! :-)
+randal_olson	709096385048649728	2016-03-13T19:18:47	Time to record 5-second skit with dogs: 20 mins.  Time to record rest of 1.5 minute video: 15 mins.  
+randal_olson	709095450826117121	2016-03-13T19:15:04	angebassa That's the only shirt I own.  Just kidding. Yes, that was on purpose. :-)
+randal_olson	709094893470269440	2016-03-13T19:12:51	My Patreon has an intro video now!  Take a look. Consider supporting. Or not. It's cool.   
+randal_olson	709092224076812288	2016-03-13T19:02:15	Called in the assistants today to help with a video introducing our Patreon. :-)   
+randal_olson	709090467821064196	2016-03-13T18:55:16	When you fix a bug in production. programming  
+randal_olson	709049326379597824	2016-03-13T16:11:47	TPSchop 12,290 mile (19,780 km)
+randal_olson	709046636387901441	2016-03-13T16:01:06	Optimized RoadTrip that stops at the most popular city in (almost) every state. dataviz  
+randal_olson	709039599574716416	2016-03-13T15:33:08	kriseno Yes -- check my tweets from earlier this week.
+randal_olson	709023770959351809	2016-03-13T14:30:14	Thinking time (mins): LeeSedol vs. AlphaGo, 4th game. dataviz  
+randal_olson	708946519374864384	2016-03-13T09:23:16	DNA Sequencing Costs: From $95,000,000 per genome to $1,245 per genome in 15 years.  Source  
+randal_olson	709007785116213248	2016-03-13T13:26:43	alanrew So we need to keep our expectations grounded wrt broader implications of AI. AlphaGo still an expert system. (2/2)
+randal_olson	709007613376208898	2016-03-13T13:26:02	alanrew I've been telling journalists that we need to keep in mind that AlphaGo is a machine born &amp; bred to be a Go expert. (1/2)
+randal_olson	709001313456099328	2016-03-13T13:01:00	US population by time zone. dataviz  ~50% of the US population lives in EST. ~30% in CST.  by MetricMaps 
+randal_olson	708999283878526976	2016-03-13T12:52:56	alanrew Indeed. Don't want to speculate too much, but the AlphaGo hype will die down considerably if Sedol wins the last game!
+randal_olson	708995790748983297	2016-03-13T12:39:03	.demishassabis was anthropomorphizing AlphaGo for a bit there. Glad he cleared it up. :-) DeepLearning 
+randal_olson	708993795958960128	2016-03-13T12:31:08	How I view AlphaGo vs. LeeSedol game 4:  Lee Sedol: Leonidas AlphaGo: Xerxes  "Even a God-King can bleed." 
+randal_olson	708990451919884289	2016-03-13T12:17:50	LeeSedol strikes back against AlphaGo to win game 4!  Surprising! Is this a fluke or has he figured AlphaGo out?  
+randal_olson	708859893655150592	2016-03-13T03:39:03	haydenth I suppose we could say that now you're... committed to the username. 
+randal_olson	708855809644613632	2016-03-13T03:22:49	haydenth Disappointed that  doesn't actually exist.
+randal_olson	708852619234648064	2016-03-13T03:10:08	Eric_1100 Apparently, but I'm too nervous to try. So many things linking into my github now.
+randal_olson	708852525424885761	2016-03-13T03:09:46	Chuck_Moeller Quite a lot invested in this one. Might be too difficult to switch over.
+randal_olson	708838281392332800	2016-03-13T02:13:10	One of my biggest regrets wrt online presence: Not thinking ahead enough and choosing a more professional GitHub handle.
+randal_olson	708747814390599681	2016-03-12T20:13:41	Adel_Bibi That's a whole lot of extra work to make an anonymized version of the code.
+randal_olson	708744334892466176	2016-03-12T19:59:51	Adel_Bibi If that's going to happen, they can arrange that regardless of the review process.
+randal_olson	708744205141680129	2016-03-12T19:59:20	Adel_Bibi I say we go the other way: Everyone's names out in the open during peer review, and publish the reviews too.
+randal_olson	708743998282866688	2016-03-12T19:58:31	Adel_Bibi But with blind submissions, you can't include link to software repo. That's huge!
+randal_olson	708734204088033280	2016-03-12T19:19:36	cmyeaton ereinerts Yes of course, depending on space. It's easy to fill up an entire page w/ software package citations.
+randal_olson	708734002883137536	2016-03-12T19:18:48	followerwonk Hi! Please follow back so I can DM you w/ questions about your product.
+randal_olson	708723756924063744	2016-03-12T18:38:05	ereinerts Here's a great example of a well-documented project for publication: 
+randal_olson	708722817538375680	2016-03-12T18:34:21	ereinerts And best: Provide docs in your release repo to exactly reproduce what you did in the paper!
+randal_olson	708722658494521344	2016-03-12T18:33:43	ereinerts Make a release of your repo for the version that you used in the paper. Link to that release.
+randal_olson	708722594925703168	2016-03-12T18:33:28	ereinerts I try to list the main packages I used, e.g., sklearn if I'm doing ML.  Yes, also good to link to repo w/ good docs.
+randal_olson	708719470030798848	2016-03-12T18:21:03	HofmannLab Destination list came from here:   Definitely room to add more stops! :-)
+randal_olson	708714355555221504	2016-03-12T18:00:44	An optimized RoadTrip around Europe. dataviz  
+randal_olson	708707223023828992	2016-03-12T17:32:23	till_be jrdnmdhl IMO this is a case where it's better to have false negatives than false positives.
+randal_olson	708706964151390208	2016-03-12T17:31:22	brensudol Not bad! Seems like a low-80s accuracy is about the best you can get without cheating.
+randal_olson	708703186723459072	2016-03-12T17:16:21	ereinerts 
+randal_olson	708702928241106944	2016-03-12T17:15:19	till_be jrdnmdhl Shouldn't even be that hard to make it more context-aware. I think. Just check if there's any following text on the line?
+randal_olson	708702722355286017	2016-03-12T17:14:30	keliomer So much rage. I know it.
+randal_olson	708701685154193408	2016-03-12T17:10:23	I'm so torn on the Jupyter Notebook's auto-bracket-complete functionality. 50% useful, 50% nuisance. Python 
+randal_olson	708684211532779520	2016-03-12T16:00:57	lisaboban Oh dear. We're just getting started with the geekiness!
+randal_olson	708678802310873090	2016-03-12T15:39:27	What's the best tutorial you've seen covering the Titanic machinelearning challenge on kaggle?
+randal_olson	708671947660460032	2016-03-12T15:12:13	hniemeye ExpectAPatronum I'm sure they would appreciate feedback ASAP. :-)
+randal_olson	708664275615813633	2016-03-12T14:41:44	itcognoscente I'm waiting 8 more years, then running for President as a dark horse candidate.
+randal_olson	708662635261202436	2016-03-12T14:35:13	Hootsuite_Help Hi! Please follow back so we can DM. Have questions about your product.
+randal_olson	708661402618228738	2016-03-12T14:30:19	Honest tech recruiter. programming  h/t ThePracticalDev 
+randal_olson	708660591783710720	2016-03-12T14:27:06	hniemeye ExpectAPatronum Did you send feedback to the authors? (I hope!)
+randal_olson	708660457867968514	2016-03-12T14:26:34	Adel_Bibi What value do you think there is in blind submissions? Genuinely curious. Email me if long explanation: 
+randal_olson	708660071383883776	2016-03-12T14:25:01	arnicas As long as you don't have thousands of unread emails sitting in your inbox, it's all good.
+randal_olson	683438348745101312	2016-01-03T00:02:54	Average Daily Precipitation by US County  
+randal_olson	708659193310486528	2016-03-12T14:21:32	arnicas I obsessively close tabs ASAP. Allows for a peaceful, albeit forgetful, mind.
+randal_olson	708658872395964416	2016-03-12T14:20:16	chrisalbon Don't feel too bad: many of the Go experts don't yet understand a fair portion of AlphaGo's play either.
+randal_olson	708380810198568961	2016-03-11T19:55:20	Rstats users! Easily create interactive web plots with Bokehplots from hafenstats  
+randal_olson	708658243367739392	2016-03-12T14:17:46	Shit Reviewers Say: My new favorite tumblr blog. phdlife phdchat  
+randal_olson	708657195949412352	2016-03-12T14:13:36	I better roll my GitHub projects back to v0.0.1, then.  
+randal_olson	708655846998327297	2016-03-12T14:08:14	Bonus: The DeepLearning book is currently "free" in preprint.  Make sure to give back by sending in corrections.  
+randal_olson	708655437042868226	2016-03-12T14:06:37	If you *must* have a DeepLearning book to start with, check out  MachineLearning 
+randal_olson	708653894096785409	2016-03-12T14:00:29	AlphaGo: A replication of DeepMind's 2016 Nature publication in Python. DeepLearning  
+randal_olson	708650047966158848	2016-03-12T13:45:12	tqdm: a fast, extensible progress meter for Python code. programming  
+randal_olson	708646313106272256	2016-03-12T13:30:21	What Africa will look like in 100 yrs dataviz  African pop set to quadruple this century!   
+randal_olson	708645821999390723	2016-03-12T13:28:24	rseymour ExpectAPatronum Fair point if you're *very* new to the field.
+randal_olson	708645278732181505	2016-03-12T13:26:15	"Why?" Because DeepLearning research is progressing faster than publishers can handle.  Nothing new. That's why arXiv was created.
+randal_olson	708644704129302528	2016-03-12T13:23:58	ExpectAPatronum rseymour Gotta build the suspense!
+randal_olson	708644617063895040	2016-03-12T13:23:37	ExpectAPatronum rseymour  ;-)
+randal_olson	708643753003720706	2016-03-12T13:20:11	You'll learn about the latest in DeepLearning on arXiv. (2/2)   helps you find good papers. 
+randal_olson	708642528938086400	2016-03-12T13:15:19	Thinking times for AlphaGo vs LeeSedol, match 3. dataviz  Sedol knew he lost at turn 65.   
+randal_olson	708642488089747456	2016-03-12T13:15:09	If the AlphaGo vs. LeeSedol match has inspired you to learn more about DeepLearning, don't turn to the books. (1/2)
+randal_olson	708639973713563649	2016-03-12T13:05:10	AlphaGo beats LeeSedol in 3rd match.  AlphaGo will very likely sweep the series. DeepLearning MachineLearning 
+randal_olson	708622778103164933	2016-03-12T11:56:50	ListerAbby I usually use the FiveThirtyEight brackets. But that burned me badly last year. :-)
+randal_olson	708394399584096256	2016-03-11T20:49:20	4 Lessons for Brilliant DataVisualization vaccine DataScience  
+randal_olson	708452487368470528	2016-03-12T00:40:10	Neural Doodle: Turn your two-bit doodles into fine artworks with DeepLearning.   
+randal_olson	708438367197917189	2016-03-11T23:44:03	outrageouscoder Which article? This "defensive programming" article isn't mine -- you'll have to ping that author.
+randal_olson	708416529193426946	2016-03-11T22:17:16	jawnsy Thanks! I think it's a much better option than random ads, for sure.
+randal_olson	708412017414152193	2016-03-11T21:59:21	Opening my blog to sponsorships -- please feel free to get in touch.   
+randal_olson	708409805619208192	2016-03-11T21:50:33	Just donated again to internetarchive. Such a useful service!
+randal_olson	708408395146117120	2016-03-11T21:44:57	rasbt DataIsBeautiful Hah, was mine too! Glad I moved past that.
+randal_olson	697460730556092416	2016-02-10T16:42:51	We are happy to announce that DjangoCon US 2016 will be in Philadelphia, Pennsylvania, this July: 
+randal_olson	697232283418431488	2016-02-10T01:35:04	BernieSanders the first non-Christian ever to win a primary. BBCNewsUS
+randal_olson	697103531778711553	2016-02-09T17:03:28	Why people visit the ER  
+randal_olson	697111841877704704	2016-02-09T17:36:29	Lecture 7 of UVM Robotics course up: "History of the field; continuous neural networks".  
+randal_olson	697403236953808897	2016-02-10T12:54:23	The life of a programmer. programming 
+randal_olson	697402679547588608	2016-02-10T12:52:10	Imposter syndrome, explained. phdchat phdlife 
+randal_olson	697400260554027008	2016-02-10T12:42:33	BinaryNet: DeepLearning w/ weights &amp; activations constrained to +1 or -1. MachineLearning  
+randal_olson	697398136520704000	2016-02-10T12:34:07	Pan American Highway: The longest road in the world. RoadTrip  
+randal_olson	697397413221396480	2016-02-10T12:31:14	GitHub repo w/ code and data for the "Text mining SouthPark" dataviz:  
+randal_olson	697251592211456000	2016-02-10T02:51:48	amuellerml *shrug* You get used to it. :-)
+randal_olson	697197316843900929	2016-02-09T23:16:08	Short video on how genetic algorithms work  artificialintelligence datascience machinelearning
+randal_olson	697181913371537409	2016-02-09T22:14:55	Here's the notebooks for the BigData dataviz tools from ContinuumIO:   and the tool: 
+randal_olson	697181616519700488	2016-02-09T22:13:45	Some slick BigData dataviz tools coming out of ContinuumIO. DataScience  Check the demo:  
+randal_olson	697164436000350210	2016-02-09T21:05:28	Made a demo GIF for TPOT today. Python MachineLearning DataScience  
+randal_olson	697102871033057285	2016-02-09T17:00:50	Largest military budgets in the world, 2015 [OC]  dataviz 
+randal_olson	697090234178281473	2016-02-09T16:10:37	peri_gisele  ;-)
+randal_olson	697077266518511616	2016-02-09T15:19:06	alifeofficial Any idea what's going on with the ALife 16 web site? 
+randal_olson	697074071738171393	2016-02-09T15:06:24	Sahelanth It should be open access regardless.
+randal_olson	697070194729074688	2016-02-09T14:51:00	amuellerml D'oh!
+randal_olson	697070029855137792	2016-02-09T14:50:20	eatheringtonp I dabble in mathematics, but I prefer to make intelligent machines that solve problems for me. :-)
+randal_olson	692840863878111233	2016-01-28T22:45:08	Experiments in visualizing uncertainty by uwdata  
+randal_olson	697031245503418368	2016-02-09T12:16:13	A Twitter dataset for text mining: RDataMining Tweets extracted on 3 February 2016. Download it at 
+randal_olson	696900950951243777	2016-02-09T03:38:29	"A Noob's Guide to Reproducibility"—philipbstark's Jan. 25 talk on Ustream !
+randal_olson	697067751224057856	2016-02-09T14:41:17	If you ever wondered: "What is information, really?"  OpenAccess:  
+randal_olson	697066966448762880	2016-02-09T14:38:10	amuellerml Whaaaat? Of course we're using sklearn. :-)
+randal_olson	696824470498054144	2016-02-08T22:34:34	We just updated our primary forecasts:  
+randal_olson	696854324408934400	2016-02-09T00:33:12	The population of India by educational level.  (Historical data and projection by IIASA.) 
+randal_olson	696826478609039361	2016-02-08T22:42:33	I just discovered ``numpy.core.umath_tests.inner1d()``. I can't understand why such a useful function is so hidden! 
+randal_olson	697065974109962240	2016-02-09T14:34:13	miishke Already framed in this picture, hence why you can see me in the reflection. ;-)
+randal_olson	697065710166659072	2016-02-09T14:33:10	How to out-programmer your programmer friend. programming  
+randal_olson	695744177557106688	2016-02-05T23:01:52	The one true JavaScript exception handler. ;) 
+randal_olson	695712587267379200	2016-02-05T20:56:21	Chrisfs59 +1. What good does it do? Only exists because Big Tobacco lines politician's pockets.
+randal_olson	695712241002356736	2016-02-05T20:54:58	RitaJKing rasbt marshallk unwise to ignore all the concepts evolution has discovered for us in the human brain. (2/2)
+randal_olson	695711947896066048	2016-02-05T20:53:48	RitaJKing rasbt marshallk That's not to say AI will manifest solely by recreating a human brain in the computer. But we would be (1/2)
+randal_olson	695711515224252417	2016-02-05T20:52:05	RitaJKing rasbt marshallk birds when finding out how to create flying machines. Then we optimized from there. (2/2)
+randal_olson	695711219278352384	2016-02-05T20:50:55	RitaJKing rasbt marshallk Agree. They don't *have* to be the same, but likely a good starting point. Just the same as we mimicked (1/2)
+randal_olson	695689630629371904	2016-02-05T19:25:07	RitaJKing rasbt marshallk But there would be value in a brain that operates at the speed of computers. Biology is slow, relatively.
+randal_olson	695683513669001216	2016-02-05T19:00:49	RitaJKing rasbt marshallk What do you mean, specifically? To our knowledge, brain is the only thing capable of general intelligence.
+randal_olson	695665857079439361	2016-02-05T17:50:39	arnicas I follow on a profile-by-profile basis rather than a feed. My main feed is useless now. :-)
+randal_olson	695650675297034241	2016-02-05T16:50:20	joavanschoren Would love a demo of Python API if possible. Will help us decide if we use OpenML or write custom code. :-)
+randal_olson	695649182410022913	2016-02-05T16:44:24	randal_olson h/t NickRSearcy
+randal_olson	695649040315379712	2016-02-05T16:43:50	Paper finds that elite scientists impede progress in their field until they die. science  
+randal_olson	695648325157130240	2016-02-05T16:40:59	joavanschoren Awesome! Guessing it will support sklearn? Allow us to set params/divide data in specific way? Have an ETA?
+randal_olson	695367510913216514	2016-02-04T22:05:08	Sometimes while coding I break things. glitchChart 
+randal_olson	694477426718564352	2016-02-02T11:08:15	An algorithm to automatically turn photos of food into faces    
+randal_olson	694848050796212224	2016-02-03T11:40:59	The software development process  i can’t fix this  *crisis of confidence* *questions career* *questions life*  oh it was a typo, cool
+randal_olson	695638410543951874	2016-02-05T16:01:36	paraita Lots of interesting stuff around the interwebs today. :-)
+randal_olson	695637746891800576	2016-02-05T15:58:57	chrisalbon MSNBC Poll: How did the MSNBC hosts do?
+randal_olson	695637219487444992	2016-02-05T15:56:52	dff pwang Was my thought too. Don't waste time w/ PhD. Keep doing what you do well -- running a company that builds awesome software.
+randal_olson	694590829260881921	2016-02-02T18:38:53	Lecture 5 of UVM Robotics course now up: "Evolutionary Algorithms &amp; Physical Simulation".  
+randal_olson	695377662127185921	2016-02-04T22:45:28	Thrilled that Lynn Cherny arnicas &amp; Andreas Mueller amuellerml will speak at DSS!  womenintech scikit_learn
+randal_olson	695456874452381697	2016-02-05T04:00:14	One big challenge for immigration reform: The immigration debate is stuck in the '90s.  
+randal_olson	695464787459837952	2016-02-05T04:31:41	Defining "progressive" made up 20% of speaking slots at DemDebate. Issues only 60%  
+randal_olson	694681927844888576	2016-02-03T00:40:52	In case you missed it, chrisalbon wrote an awesome post about what it’s like to go through techstars — using data. 
+randal_olson	695347512471715841	2016-02-04T20:45:40	An interesting point of view! 
+randal_olson	695635393052549120	2016-02-05T15:49:36	Great answer by AndrewYNg on "What do you think of DeepLearning?"   h/t rasbt 
+randal_olson	695335425850773506	2016-02-04T19:57:38	"The genetic architecture of quantitative traits can not be inferred from variance components" ~ Trudy Mackay EDGE16
+randal_olson	695550924580847616	2016-02-05T10:13:57	Fewer mothers die after giving birth: the chart shows the decline in Finland, the USA, Australia, and Malaysia. 
+randal_olson	695631217341952000	2016-02-05T15:33:01	OpenRiskNews twistedhardware That's just cruel. :-)
+randal_olson	695624593164337152	2016-02-05T15:06:41	sdksb Normally I'm brain-limited (i.e., thinking of what to type) rather than finger-limited. :-)
+randal_olson	695622134165606400	2016-02-05T14:56:55	Issue on TheFuck's GitHub repo. Uuuuuugh. Python programming 
+randal_olson	695621689678372864	2016-02-05T14:55:09	The Fuck: a Python app that corrects your previous console command. programming  
+randal_olson	695620042449412096	2016-02-05T14:48:36	I would love to see this analysis as an interactive dataviz where we can plug in our location, budget, MPG, etc.  
+randal_olson	695617133858922496	2016-02-05T14:37:03	That's one way to handle an exception... programming  More of these gamedev stories:  
+randal_olson	695615989678006272	2016-02-05T14:32:30	These curated lists are nice, but what's up with the "awesome-" naming scheme?  
+randal_olson	695615809377431552	2016-02-05T14:31:47	awesome-rnn: A curated list of resources dedicated to recurrent neural nets. DeepLearning  
+randal_olson	695615025004814336	2016-02-05T14:28:40	How cigarettes tax the poor. smoking dataviz  
+randal_olson	695613734895616000	2016-02-05T14:23:32	The $50 American RoadTrip: How far will a $50 tank of gas get you? travel dataviz  
+randal_olson	695613513599946752	2016-02-05T14:22:40	marshallk "Seems like a nice guy, too."  Cheers. ;-)
+randal_olson	695463335140024321	2016-02-05T04:25:54	Who do the most elite Artificial Intelligence experts follow on Twitter? These 10 people:  
+randal_olson	695334302746152960	2016-02-04T19:53:11	kouhualin You can annotate programmatically with   or I use OmniGraffle on Mac.
+randal_olson	695316846984171522	2016-02-04T18:43:49	radaniba 
+randal_olson	695316022421803008	2016-02-04T18:40:32	radaniba I think it's just a different visualization technique to help people grasp the enormity of loss in Syria. See the link I included.
+randal_olson	695315675447975936	2016-02-04T18:39:10	Brainstorming clever titles for TPOT () talks/papers. Thoughts?  Would love to include "short and stout"...
+randal_olson	695315347449241600	2016-02-04T18:37:51	Glad to know I'm not alone as someone who hunts and pecks. :-)  
+randal_olson	695314097710178304	2016-02-04T18:32:53	radaniba Aesthetics?
+randal_olson	695313835964678148	2016-02-04T18:31:51	My "Dataviz basics with Python" video course is now online! DataScience  Find it here:  
+randal_olson	695312551303888896	2016-02-04T18:26:45	92,000 dots -- one for every civilian killed in Syria. dataviz  Full version:  
+randal_olson	695312275381600256	2016-02-04T18:25:39	ID_R_McGregor twitter I'll tweet it again with a subset so it's semi-comprehensible. :-)
+randal_olson	695312091390066690	2016-02-04T18:24:55	daniel_egan Oh god. cum_insert, cum_check...
+randal_olson	695308935142772736	2016-02-04T18:12:23	mehulved Don't recall offhand -- sorry! Must've been very long ago. :-)
+randal_olson	695308395683934208	2016-02-04T18:10:14	Best comment in a source code? programming 
+randal_olson	695307779305820160	2016-02-04T18:07:47	U.S. state budgets and populations (a.k.a. Why Illinois is the shape it's in). dataviz  
+randal_olson	695307583691841536	2016-02-04T18:07:00	92,000 dots - one for every civilian killed in Syria. dataviz  Full version:  
+randal_olson	695301196073033728	2016-02-04T17:41:37	Hoped you enjoyed our AMA on data in the media! Thanks to everyone for some great questions &amp; insightful discussion! 
+randal_olson	695274384454500356	2016-02-04T15:55:05	Time for our DataIsBeautiful AMA with AndrewJDBell AnetaPiekut tkhartman &amp; markrt!  
+randal_olson	695211484058644481	2016-02-04T11:45:08	radaniba For now: Classification accuracy on supervised learning data sets.
+randal_olson	694890674299150337	2016-02-03T14:30:21	Please feel free to suggest/contribute data sets via PRs and issues. Python MachineLearning 
+randal_olson	694890460322500608	2016-02-03T14:29:30	I'm starting up a project to benchmark scikit-learn's MachineLearning models on a ton of data sets/params. Python 
+randal_olson	694889852303577089	2016-02-03T14:27:05	yorksranter Brogramming isn't satire, BRUH!
+randal_olson	694184106440200192	2016-02-01T15:42:42	I fucked up Git so bad it turned into Guitar Hero 
+randal_olson	694170417188229120	2016-02-01T14:48:19	teachbarefoot DataIsBeautiful They did indeed, almost 2 years ago.
+randal_olson	694167340955648000	2016-02-01T14:36:05	CerebralFlood Mod, yes. Been modding it for over 2 years now.
+randal_olson	694167141461954560	2016-02-01T14:35:18	gadeblazz Yes, I run DataIsBeautiful.
+randal_olson	694166854374428672	2016-02-01T14:34:09	yotammanor Shorter? Catchier?
+randal_olson	694158543956606976	2016-02-01T14:01:08	Realized that DataIsBeautiful broke 5,000,000 subscribers not too long ago. That's amazing! Reddit
+randal_olson	694158183158435840	2016-02-01T13:59:42	nebiljabari rasbt Same. Argh, I wanted to watch it!
+randal_olson	694086464943067136	2016-02-01T09:14:43	Every year I find a real gem to follow, in 2015 it was MaxCRoser you should follow (&amp; help fund if possible). He's a one man war on stupid
+randal_olson	694154953007439873	2016-02-01T13:46:52	PyDataset: Load data sets in Python instantly just like in Rstats. DataScience  
+randal_olson	694154462131265536	2016-02-01T13:44:55	"South Africa" in its official languages. SouthAfrica dataviz  
+randal_olson	694153707093671936	2016-02-01T13:41:55	A timeline of all famous people that lived in the last 4,000 years.  Interactive dataviz:  
+randal_olson	694019446961258496	2016-02-01T04:48:25	ChristophAdami Thank you for all your guidance along the way, Chris. Definitely drawing on your teachings, especially in the RTRs. :-)
+randal_olson	694016803090075648	2016-02-01T04:37:54	nikete Yep: 
+randal_olson	693975278117359616	2016-02-01T01:52:54	Latest results with TPOT are looking great!  Submitting a paper about them to GECCO2016 tomorrow. Python DataScience MachineLearning
+randal_olson	693841367601033216	2016-01-31T17:00:47	TheFineBros daily YouTube subscriptions (Last 2 weeks) [OC]  dataviz 
+randal_olson	693965734377066496	2016-02-01T01:14:58	Preprint of our 1st paper on automating DataScience in Python is online. MachineLearning  
+randal_olson	693824101538992128	2016-01-31T15:52:11	jburnmurdoch moorejh S'pose so! I'm still convinced dataviz should tell the story on its own. But I'm no journalist. :-)
+randal_olson	693821226607845377	2016-01-31T15:40:45	jburnmurdoch moorejh Isn't the goal of dataviz and data journalism to fix that? :-)
+randal_olson	693817409464041472	2016-01-31T15:25:35	This frustrates me to no end. I read the article for the dataviz, not the person. (Sorry, people!)  
+randal_olson	693800734769463297	2016-01-31T14:19:20	Carl_Adahl MayaPosch Probably not if you look at it as bugs per SLOC. Debugging was very hard back then.
+randal_olson	693796965226778626	2016-01-31T14:04:21	melb4886 Perhaps it's not the technology that matters, but the will to accomplish great things. :-)
+randal_olson	693794834545561600	2016-01-31T13:55:53	Here's some of the Apollo 11 source code. Programming has come a long way, thankfully.   
+randal_olson	693793473166774272	2016-01-31T13:50:28	Thought this comparison of DeepMind's AlphaGo to DeepBlue was interesting. DeepLearning  
+randal_olson	693792636767961089	2016-01-31T13:47:09	GREAT synopsis of top Go professional's analysis of Google Deepmind's Go AI. DeepLearning  
+randal_olson	693791803099709440	2016-01-31T13:43:50	Beautiful map showing the age of buildings across the UnitedKingdom. dataviz  
+randal_olson	693790843329708032	2016-01-31T13:40:01	Animated dataviz: Median ages in the Asia-Pacific, 1960-2060 (projection).   
+randal_olson	693789897690345473	2016-01-31T13:36:16	Colorsucker: A web app that plots color distribution of any image. dataviz  
+randal_olson	693465657954955265	2016-01-30T16:07:51	groundwalkergmb ryneches Heh, now that would make an interesting grad school application!
+randal_olson	693455290138791936	2016-01-30T15:26:39	Conversation: Have you ever successfully used ML to solve a practical problem for yourself?   
+randal_olson	693114882909151232	2016-01-29T16:54:00	OMG Jupyter 4.1 is awesome! Multi-cell selection! Command Palette! Search and relace! Great job folks! 
+randal_olson	693148361311019008	2016-01-29T19:07:02	On average, global child mortality fell 0.00719% every single day since 1960. 
+randal_olson	693132213668466688	2016-01-29T18:02:52	Are minute-by-minute scores like this available for college football games? Would be great to see a dataviz like this for CFB.
+randal_olson	693131701829136384	2016-01-29T18:00:50	Love this --&gt; Small multiples dataviz summarizing the 2015 NFL regular season.   
+randal_olson	693094414898565121	2016-01-29T15:32:40	ErinMonday Sure!
+randal_olson	690512576078311425	2016-01-22T12:33:21	We (100+ contributors) gave away scikit-learn for free (with support) researchparasites all we got was 2000+ citations, startups, &amp; science
+randal_olson	693075279691042816	2016-01-29T14:16:38	7279616e Almost removed it b/c it breaks the DataIsBeautiful posting rules, but I'm glad I didn't.
+randal_olson	692412744818151425	2016-01-27T18:23:57	Overfitting: when you buy a new garage door opener, and then for the next three months the internet tries to sell you another one.
+randal_olson	693073557765648384	2016-01-29T14:09:47	"Recent advances in DeepLearning" -- Stanford seminar by Oriol Vinyals from DeepMind.   
+randal_olson	693072218230767616	2016-01-29T14:04:28	Great interactive dataviz! --&gt; The history of human population on Earth.   
+randal_olson	693071438421573632	2016-01-29T14:01:22	Someone made a big list of live dataviz.  Check them out:  
+randal_olson	692772745793409024	2016-01-28T18:14:28	D_young_69 No worries. :-)
+randal_olson	692768713473421315	2016-01-28T17:58:26	D_young_69 :-) 
+randal_olson	692746801791811584	2016-01-28T16:31:22	randal_olson As time permits, that is. :-)
+randal_olson	692746727720353792	2016-01-28T16:31:05	The notebooks &amp; Python code for the dataviz course are on GitHub:   Will dev this repo into a full online course.
+randal_olson	692744326456184832	2016-01-28T16:21:32	MathCancer I'm putting up the notebooks/teaching materials now. Eventually, I plan to develop this into a full online course as well.
+randal_olson	692740224737157120	2016-01-28T16:05:14	My "Dataviz basics with Python" video course is now online! DataScience  Find it here:  
+randal_olson	692716359470432257	2016-01-28T14:30:24	Super cool --&gt; This is what HipHop's billboard top 10 sounded like, back in 1995. dataviz  
+randal_olson	692714801160658944	2016-01-28T14:24:13	25 of the most murderous directors by on-screen deaths in their movies. dataviz  
+randal_olson	692712504926015489	2016-01-28T14:15:05	The computer that mastered Go. DeepLearning  Nature video on DeepMind's AlphaGo:  
+randal_olson	692708937699889152	2016-01-28T14:00:55	Animated H-R diagram based on 119,614 data points in a star catalog. dataviz  
+randal_olson	692708100873310214	2016-01-28T13:57:35	An analysis of TheBeatles. dataviz  
+randal_olson	692512109717012480	2016-01-28T00:58:47	I'll be talking about automating DataScience at the DataPhilly meetup on Feb 18.  RSVP:  
+randal_olson	692491603257225217	2016-01-27T23:37:18	jtm_ File an issue on the repo and ask. :-)
+randal_olson	692430514532290560	2016-01-27T19:34:34	Carlos_S01 Really, I'm just waiting on jobs to finish on the cluster. And for them to stop crashing. :-)
+randal_olson	692429365485932544	2016-01-27T19:30:00	Desperately cramming to make conference paper deadlines.  The joys of academic life. 
+randal_olson	692422623544885248	2016-01-27T19:03:12	"Not me. Us."  Will this be BernieSanders' version of Obama's hope poster? FeelTheBern 
+randal_olson	692166135924412416	2016-01-27T02:04:01	Check out our national polling averages for the Democratic and Republican primaries:  
+randal_olson	692132164398366721	2016-01-26T23:49:01	Two water sampling studies. Two very different results.  FlintWaterCrisis 
+randal_olson	692065566039904256	2016-01-26T19:24:23	What went wrong in Flint? A lot of things, including mistakenly throwing out data that suggested big problems. 
+randal_olson	692380270507528192	2016-01-27T16:14:54	30minly When the official page goes up, we'll make sure to link to educational videos for those extra tidbits as well!
+randal_olson	692371009865977856	2016-01-27T15:38:07	30minly Some basic Python programming, how to start up and use an IPython Notebook, and perhaps how to work with pandas DataFrames.
+randal_olson	692367492363194368	2016-01-27T15:24:08	30minly It'll cover dataviz design basics + matplotlib. When I get more time, it will also eventually cover Seaborn and Bokeh.
+randal_olson	692366856968077313	2016-01-27T15:21:36	One century of global IQ gains: A formal analysis of the Flynn Effect (1909-2013). dataviz  
+randal_olson	692366387080269824	2016-01-27T15:19:44	pandas-profiling: Create profiling reports from pandas DataFrames. Promising! DataScience  
+randal_olson	692364113910067206	2016-01-27T15:10:42	Was just told that my Python dataviz video course should be coming out within a week. Sweet!
+randal_olson	692363207260925952	2016-01-27T15:07:06	.HerbieLewis autoinstaller is a nightmare for many reasons. :-)
+randal_olson	692360641559003136	2016-01-27T14:56:55	 has finally completely shut down. programming  Hopefully people migrated to GitHub. :-) 
+randal_olson	692359942712483840	2016-01-27T14:54:08	autoinstaller: a Python lib that automagically installs modules that you try to import.   
+randal_olson	692359255140274177	2016-01-27T14:51:24	Since the Iowa Caucuses are taking place, here's Iowa in the Caucasus. IowaCaucus  
+randal_olson	692357470669402112	2016-01-27T14:44:19	randal_olson Source: 
+randal_olson	692357433306537984	2016-01-27T14:44:10	NASA made a dataviz showing all the asteroids that disintegrated in Earth's atmosphere between 1994 and 2013. 
+randal_olson	692142834154131458	2016-01-27T00:31:25	AskPlayStation Hello! I recently bought Grand Ages: Medieval at the full price and see that it went on sale today. Partial refund possible?
+randal_olson	692091186622906369	2016-01-26T21:06:11	.amandacox named editor of UpshotNYT -- BIG congrats and well-deserved!  
+randal_olson	691992725269430274	2016-01-26T14:34:56	Seen this happen to a colleague once.  In MachineLearning, if it seems too good to be true, it probably is. 
+randal_olson	691990558043144193	2016-01-26T14:26:20	Animated map of migrations of 118 bird species in the Western Hemisphere. birding dataviz  
+randal_olson	691989717429174273	2016-01-26T14:22:59	Where your elements came from. dataviz  
+randal_olson	691989063491022848	2016-01-26T14:20:23	A collection of quirky charts from okcupid. dataviz  
+randal_olson	691988201569980416	2016-01-26T14:16:58	Sad news: Marvin Minsky, pioneer in Artificial Intelligence, dies at 88.   
+randal_olson	691426260640075776	2016-01-25T01:04:01	Who's getting a good night's sleep?  
+randal_olson	691047006358388738	2016-01-23T23:57:00	Interesting discussion and post on the different cultures of machine learning 
+randal_olson	691656134084685825	2016-01-25T16:17:27	Poor reaction to OpenSource dev IMO.  Have a vision for your project and learn to say no.   
+randal_olson	691654307465269249	2016-01-25T16:10:11	Microsoft releases CNTK, its OpenSource DeepLearning toolkit, on GitHub. MachineLearning  
+randal_olson	691653738256318464	2016-01-25T16:07:56	A neat Python illustration on the cover of a Japanese Python book. programming Japan 
+randal_olson	691653375679688704	2016-01-25T16:06:29	The ArabSpring, five years on. dataviz  
+randal_olson	691652309848346624	2016-01-25T16:02:15	How you will die, based on your race, sex, and age. dataviz  
+randal_olson	691287810616094720	2016-01-24T15:53:52	.randal_olson I built a database of 400k people using Wikipedia API  data counts links as metric for influence
+randal_olson	691286102712414208	2016-01-24T15:47:05	.randal_olson Nice! I've used HyperHistory Online () to show overlaps of people/events. 
+randal_olson	691287668647419904	2016-01-24T15:53:18	2 unit tests. 0 integration tests. programming  
+randal_olson	691287129683525633	2016-01-24T15:51:09	StarCraft AI tournament live now. Watch bots programmed by AI researchers/enthusiasts.   
+randal_olson	691285969874587648	2016-01-24T15:46:33	Organize files in your directory instantly with Python.   
+randal_olson	691285461671809025	2016-01-24T15:44:32	Size of Netflix catalog by country dataviz  Worldwide catalog not so impressive after all   
+randal_olson	691284631786749952	2016-01-24T15:41:14	Horizontal history - a dataviz of really famous people's lives.   
+randal_olson	690225461390090244	2016-01-21T17:32:28	Amazing 11-chart interactive look at the huge global shifts since 1994, by andrewvandam  
+randal_olson	690936187687682048	2016-01-23T16:36:38	Evolving Wind Turbine Blades -- GREAT app of evolutionary computation! MachineLearning  
+randal_olson	690934462767566848	2016-01-23T16:29:47	% of time a country voted the same as the US in the UN General Assembly (2012). dataviz  
+randal_olson	690933172117360640	2016-01-23T16:24:39	Political map of the United States, 1850. dataviz  
+randal_olson	690595652070432768	2016-01-22T18:03:28	chrisdary Ah you're right; I missed the smaller query that summed post karma as well.
+randal_olson	690570890845650945	2016-01-22T16:25:05	.randal_olson This is my favourite: 
+randal_olson	690570120830308352	2016-01-22T16:22:01	Gotta love code puns. programming 
+randal_olson	690569224717205504	2016-01-22T16:18:27	Updated MNIST, CIFAR-10, and other benchmark scores from 2015/2016 papers. MachineLearning  
+randal_olson	690568854821572608	2016-01-22T16:16:59	Analyzing 50k fonts using deep neural networks. DeepLearning MachineLearning  
+randal_olson	690567904643944449	2016-01-22T16:13:13	Shipping lanes in Europe. dataviz  Worldwide map at  (enable "Density Map") 
+randal_olson	690567122968272896	2016-01-22T16:10:06	What a work of art -- USA counties map made from 3047 carved wooden blocks.   
+randal_olson	690566300662435840	2016-01-22T16:06:50	1% of all Redditors had 47% of all comment upvotes earned in 2015. Reddit dataviz  
+randal_olson	690565334227623936	2016-01-22T16:03:00	VanceCrowe Complexityacad You might also find this video useful: 
+randal_olson	690565151477649412	2016-01-22T16:02:16	VanceCrowe Complexityacad Made that graph during my first year of grad school. Great to see that it's seeing use beyond then.
+randal_olson	689563920533688320	2016-01-19T21:43:44	great resources on NLP with neural nets: yoavgo's primer  and Kyunghyun Cho's lecture notes 
+randal_olson	690526113576124416	2016-01-22T13:27:09	kpfssport Worldwide is tough because it requires multiple travel modes, and Google Maps doesn't handle flights very well.
+randal_olson	690211506378661889	2016-01-21T16:37:01	10 days until Iowa! Our latest polls-plus forecast gives tedcruz a 52% chance of winning:  
+randal_olson	690222296691273728	2016-01-21T17:19:53	rasbt How about TPOT?! ;-)
+randal_olson	689939101764689920	2016-01-20T22:34:34	An Introduction to Semi-Supervised Learning with Ladder Networks  
+randal_olson	690217930253037568	2016-01-21T17:02:32	MichaelMarkieta You mean a column that indicates whether it's a training or validation record?
+randal_olson	690217350159822848	2016-01-21T17:00:14	What's a Jedi's favorite programming language?   
+randal_olson	690215641903710210	2016-01-21T16:53:27	Free DeepLearning course available on Udacity -- developed by Google. MachineLearning  
+randal_olson	690214941928849412	2016-01-21T16:50:40	How people communicate with friends &amp; family: 55% prefer texting over calling. dataviz  
+randal_olson	690214494061137921	2016-01-21T16:48:53	Video: Daily U.S. snow depth, 1950-2015. dataviz snowstorm  
+randal_olson	690212270484406272	2016-01-21T16:40:03	How racially skewed are the Oscars? dataviz  
+randal_olson	690209664118693888	2016-01-21T16:29:42	MichaelMarkieta And optimizing on the external validation set is... well, that's cheating. :-)
+randal_olson	690209111447830528	2016-01-21T16:27:30	MichaelMarkieta Optimizing on only training data is useless -- models will immediately overfit the training data.
+randal_olson	690208968950550528	2016-01-21T16:26:56	MichaelMarkieta It takes the training data and splits that into an internal training/validation set. Optimizes on internal validation set.
+randal_olson	689866978870366208	2016-01-20T17:47:59	Rethinking the population pyramid … by randal_olson dataviz datascience DataScientists 
+randal_olson	689828265343717376	2016-01-20T15:14:09	This comic accurately captures my days since coming back from vacation. 
+randal_olson	689521611611971588	2016-01-19T18:55:37	Breakup, as captured by my fitbit. breakup Fitbit 
+randal_olson	689815026744557568	2016-01-20T14:21:33	Just browsing the fiction section... programming haskell javascript  
+randal_olson	689814244750159872	2016-01-20T14:18:26	% change in teacher salaries across the U.S., 1999-2013. dataviz  
+randal_olson	689813997319757825	2016-01-20T14:17:27	Teachers in Massachusetts earn 50% more than teachers in South Dakota. dataviz  
+randal_olson	689813592816914432	2016-01-20T14:15:51	Map of Walmart stores being shut down in the U.S. walmartclosings dataviz  
+randal_olson	689631765791637504	2016-01-20T02:13:20	Can the Name Age Calculator guess how old you are?  dataviz via randal_olson 
+randal_olson	689462292983844865	2016-01-19T14:59:54	25 of the deadliest actors of all time by on-screen kills in movies. dataviz  
+randal_olson	689461305242058752	2016-01-19T14:55:59	Interactive tool visualizes the world's Tor network data flow since 2007. dataviz  
+randal_olson	689460746938220544	2016-01-19T14:53:46	The daily temperature and humidity profiles for 24 cities across the US. dataviz  
+randal_olson	689193716368683008	2016-01-18T21:12:41	"The Top BigData Experts to Follow in 2016" DataScience  Great list! I'll do my best to live up to the hype. :-)  
+randal_olson	689189110045626369	2016-01-18T20:54:23	25 of the most violence-packed movies (by deaths per minute). dataviz  
+randal_olson	689188584897785856	2016-01-18T20:52:17	jrdnmdhl ShaulaEvans See here 
+randal_olson	689129737713750019	2016-01-18T16:58:27	Happy to be back home in Philadelphia. Time for some long work nights over the next couple weeks to play catch-up from that vacation.
+randal_olson	689128278171471872	2016-01-18T16:52:39	DerLuftmensch You must be a Hoon programmer? ;-)
+randal_olson	689125426514518017	2016-01-18T16:41:19	For those wondering what the heck Hoon is and why it comes from aliens, here's a basic Hoon example. 
+randal_olson	689125194540126208	2016-01-18T16:40:24	The evolution of religion vs. the evolution of programming languages. 
+randal_olson	689124139597193216	2016-01-18T16:36:12	This kid is a future programmer. I remember doing this in school.   
+randal_olson	689122772048543745	2016-01-18T16:30:46	TrumpScript: Making Python Great Again. programming realDonaldTrump would approve.   
+randal_olson	689122176444813312	2016-01-18T16:28:24	Economic contribution of each U.S. State. dataviz  
+randal_olson	689121928330760193	2016-01-18T16:27:25	The Hangover: An OkCupid report for the new year. Millennials dating dataviz  
+randal_olson	688502005799583744	2016-01-16T23:24:04	The 25 most rewatchable movies of all time:  
+randal_olson	688738571910434818	2016-01-17T15:04:06	More evidence that James Smith is the most common name in the U.S.:  
+randal_olson	688753117010071552	2016-01-17T16:01:54	Summary of DeepLearning. MachineLearning 
+randal_olson	688752889116798976	2016-01-17T16:00:59	New book teaches Python by hacking Minecraft. programming  
+randal_olson	688752658404872193	2016-01-17T16:00:04	[Video] Earthquakes around the world. dataviz  
+randal_olson	688752265033678848	2016-01-17T15:58:31	Presidential aging study: Clinton aged at nearly three times a 'natural' rate. dataviz  
+randal_olson	688572934076497920	2016-01-17T04:05:55	Chrisfs59 Didn't think the small-timers could be THIS bad.
+randal_olson	688569299162673152	2016-01-17T03:51:28	khakieconomist Yep, definitely sticking to the big names in the future. Just like toilet paper, don't skimp on rental cars!
+randal_olson	688567664692736001	2016-01-17T03:44:58	One thing I learned in Los Angeles today: Never do business with NÜ Car Rental. What a disaster of a car rental company.
+randal_olson	688390031845687297	2016-01-16T15:59:07	Population projections 1960-2060: Russia vs. Egypt. dataviz  
+randal_olson	688389749115990016	2016-01-16T15:58:00	Interview experiences at major tech companies, visualized. dataviz  
+randal_olson	688388518310100994	2016-01-16T15:53:07	Pokemon type distribution by generation in which they were introduced. dataviz  
+randal_olson	688388342409342976	2016-01-16T15:52:25	Great data story: Who are the Millennials? dataviz  
+randal_olson	688158303520604162	2016-01-16T00:38:19	Maptive Top 100 BigData Experts to Follow:  KirkDBorne ValaAfshar simonlporter Timothy_Hughes randal_olson
+randal_olson	688148559359655936	2016-01-15T23:59:36	jbones3000 @shawn_leamon Or having 200 friends/family that are willing to pitch in. :-)
+randal_olson	686883616438267905	2016-01-12T12:13:10	A discussion between Stephen Few and storywithdata about stacked bar charts  (read comments) 
+randal_olson	688147029332103170	2016-01-15T23:53:31	jbones3000 @shawn_leamon Larger weddings, not necessarily more expensive weddings.
+randal_olson	686709319358922753	2016-01-12T00:40:34	It’s impossible to work your way through college nowadays, revisited with national data da…  
+randal_olson	687671926546890752	2016-01-14T16:25:38	Statistical analysis made easy in Python with SciPy and pandas DataFrames 
+randal_olson	685446047326277632	2016-01-08T13:00:47	A 2016 version of the 1914 Isochronic London/World travel times map [OC]  dataviz 
+randal_olson	686883079076601856	2016-01-12T12:11:02	This post about teaching interactive dataviz by arnicas is impressive  infographics 
+randal_olson	687886195288719361	2016-01-15T06:37:03	usajnf The remoteness of the islands, I suppose.
+randal_olson	687835188215193600	2016-01-15T03:14:22	victoriavarone Seems hard to find jobs depending on your profession, but if you work online then you're golden!
+randal_olson	687834842013171712	2016-01-15T03:13:00	flashman Only to the ranger station. Amazing. First time seeing the Milky Way with my own eyes.
+randal_olson	687833399088648192	2016-01-15T03:07:16	After vacationing for a week on the Big Island of Hawaii, I'm seriously tempted to stay and work remotely from here.
+randal_olson	687726817675837440	2016-01-14T20:03:45	We open-sourced our implementation of CTC, which powers Deep Speech. Run CTC 50x faster! 
+randal_olson	687822472498921472	2016-01-15T02:23:51	AndrewBurchill Not to my knowledge. 😀
+randal_olson	687725577692917760	2016-01-14T19:58:49	Yahoo releases the largest ever machine learning dataset for researches.  /cc randal_olson
+randal_olson	687397857935126529	2016-01-13T22:16:35	Resizing U.S. counties by their total housing value. dataviz  
+randal_olson	687387201080983552	2016-01-13T21:34:14	Great visual on public perception of foreign oil vs reality by randal_olson, data via UTEnergyPoll energy 
+randal_olson	687389426410913792	2016-01-13T21:43:04	This is actually what America would look like without gerrymandering. dataviz  
+randal_olson	687378889421684736	2016-01-13T21:01:12	Animation: World's largest countries 1950-2060. dataviz  
+randal_olson	687378012174589952	2016-01-13T20:57:43	GDP growth by state across the US. dataviz  
+randal_olson	687377435734618112	2016-01-13T20:55:26	The highest and lowest paid teachers in the world. Way to go Luxembourg! dataviz  
+randal_olson	687377108377575424	2016-01-13T20:54:08	An analysis of media bias for top 2016 Presidential candidates. BernieSanders dataviz  
+randal_olson	687354068654637056	2016-01-13T19:22:35	AlexClarkGC galka_max Contact sheril_ for the data. :-)
+randal_olson	687353890958741504	2016-01-13T19:21:52	AlexClarkGC galka_max Yes, this data is from a bi-annual poll and the opinion has generally been the same.
+randal_olson	686608386994012160	2016-01-11T17:59:30	Finally got my hard copy. I already know it's good, grab it if you need a scientific Python stack book. rasbt 
+randal_olson	686268709636194304	2016-01-10T19:29:45	I’m interested in the value of making data (or data visualisations) publicly available.   Does someone know good research on this question?
+randal_olson	686579521517174784	2016-01-11T16:04:48	(3/2 sorry!) Related dataviz by randal_olson: students can no longer work way thru tuition  
+randal_olson	684540389647253504	2016-01-06T01:02:01	The last half-century of baseball has been neglected by the Hall of Fame:  
+randal_olson	685165500565958656	2016-01-07T18:25:59	You can't trust what you read about nutrition:  
+randal_olson	685888273898713089	2016-01-09T18:18:02	Can the Name Age Calculator guess how old you are?  dataviz via randal_olson 
+randal_olson	686235491331489792	2016-01-10T17:17:45	fusaroli Bug should be fixed in next patch. Currently on vacation. 😄
+randal_olson	685866313219190784	2016-01-09T16:50:46	Extremely useful data visualization resource: Visual directory of 339 tools. Wow!  dataviz 
+randal_olson	685531550801391616	2016-01-08T18:40:32	50 years ago the Congolese (in the DRC) were richer than South Koreans.  Today South Koreans are 68 times richer. 
+randal_olson	685815935895212032	2016-01-09T13:30:35	Heliocentrism vs Geocentrism  (via ) 
+randal_olson	685558002665951233	2016-01-08T20:25:39	_aaronchan_ It's a sick cycle. Young academics forced into buying the idea that "high-impact journal" papers are what really matters.
+randal_olson	685557766086201345	2016-01-08T20:24:43	_aaronchan_ If those in power (i.e., established academics) started valuing open access research instead of Nature/Science/etc. papers...
+randal_olson	685557309120974849	2016-01-08T20:22:54	How MSG got a bad reputation: Flawed science and xenophobia.  
+randal_olson	685555090845859841	2016-01-08T20:14:05	_aaronchan_ I blame the old-fashioned publishing model that academics can't (won't?) reform moreso than the government.
+randal_olson	685549981424422912	2016-01-08T19:53:47	Its2016AndWeStillDont have free public access to *all* research results funded by government taxes. OpenAccess
+randal_olson	685547245362532352	2016-01-08T19:42:54	chrisnelder Bar chart shows countries. :-)
+randal_olson	685545881391640577	2016-01-08T19:37:29	U.S. domestic oil production. hunterbaker JohnDCook  
+randal_olson	685544566787710977	2016-01-08T19:32:16	Fifthcolumnblue Nope, but that would be interesting! A couple more countries here: 
+randal_olson	685544217444126721	2016-01-08T19:30:52	Seeing a lot of ignorance from the media wrt U.S. oil imports lately. Imp't to have discussions based on the data.  
+randal_olson	685542328669323264	2016-01-08T19:23:22	Where the U.S. thinks it gets its oil vs. where it actually gets oil. oil dataviz  
+randal_olson	685539580687192065	2016-01-08T19:12:27	boris_gorelik I don't think it represents anything. Just provides spacing between the candidates.
+randal_olson	685539254894632960	2016-01-08T19:11:09	Sorting algorithms, visualized. programming  
+randal_olson	683664578564206592	2016-01-03T15:01:52	Machine learning for artists. About my upcoming class at ITP_NYU:  
+randal_olson	684079975952166912	2016-01-04T18:32:30	Can 2016 be the year we stop talking about AI as an existential threat and start talking about how to use it well? 
+randal_olson	685536464491397121	2016-01-08T19:00:04	Hej randal_olson there's also an interactive DataViz for CH, GER &amp; AUT by ilikepiecharts  
+randal_olson	685535976920186880	2016-01-08T18:58:08	Colorizing black &amp; white photos with DeepLearning. DataScience MachineLearning  
+randal_olson	685535470801924096	2016-01-08T18:56:07	OberKeith That's NateSilver538's job. ;-)
+randal_olson	685534973667876865	2016-01-08T18:54:09	DavidRomeiPHD See the source link -- there's more in there.
+randal_olson	685534415976464385	2016-01-08T18:51:56	German town name endings. Germany dataviz  
+randal_olson	685533446089748480	2016-01-08T18:48:04	Average internet speeds across the European Union. Europe dataviz 
+randal_olson	685532541709778944	2016-01-08T18:44:29	World's five longest domestic flights. travel dataviz  
+randal_olson	685532094504669184	2016-01-08T18:42:42	Age of U.S. Presidential candidates. dataviz  
+randal_olson	685531020544757760	2016-01-08T18:38:26	makc3d Yes... that is random search. :-)
+randal_olson	685368667186401280	2016-01-08T07:53:18	winteram Ooohh -- does this mean it's publicly available for research?
+randal_olson	685364811501158400	2016-01-08T07:37:59	phylogenomics Think it's a fair assumption that ANYTHING posted online will be analyzed. Improved public health is a good goal, at least.
+randal_olson	685362866552094720	2016-01-08T07:30:15	According to winteram, Facebook has a data set of ALL tweets from Twitter, 2006 to mid-2009. I'd love to tinker w/ that data set. PSB16
+randal_olson	685362241219080193	2016-01-08T07:27:46	Excellent PSB16 talk by winteram on the context of the social network you're analyzing in social media mining for public health research!
+randal_olson	685351917149540352	2016-01-08T06:46:44	makc3d How about my road trip optimizer from 2015? Pretty sure GA beats random search big time there due to large search space.
+randal_olson	685351663444463617	2016-01-08T06:45:44	indy9000 In base GAs yes, but there is also considerable work into making "smarter" mutations or crossover. Helps constrain search space.
+randal_olson	685246250141093888	2016-01-07T23:46:51	indy9000 GA isn't blind search by any means, and there are many smart techniques to reduce search space.
+randal_olson	685179728748150784	2016-01-07T19:22:32	Evostar2016 Okay, I will ping them again. Thank you! :-)
+randal_olson	685179365059985408	2016-01-07T19:21:05	Here's a preprint of the last published paper from my PhD work. *phew!* alife evolution  
+randal_olson	685167837892091905	2016-01-07T18:35:17	indy9000 What's the summary?
+randal_olson	685152555198894080	2016-01-07T17:34:33	Discussion on /r/MachineLearning: Why are Genetic Algorithms typically not at ML confs?   
+randal_olson	685149402214744066	2016-01-07T17:22:01	Why experts doubt that NorthKorea tested a HydrogenBomb. dataviz  
+randal_olson	685148112038440961	2016-01-07T17:16:54	A 2016 version of the 1914 Isochronic London/World travel times map. dataviz  
+randal_olson	684947864473079808	2016-01-07T04:01:11	vexedmuddler No control-F? Forgettaboutit!
+randal_olson	684947770336129024	2016-01-07T04:00:48	DKshad0w Use to? We still do.
+randal_olson	684947440135311361	2016-01-07T03:59:30	mana_sean The last time I went to a library was for a geocache. The time before that... maybe to vote for Obama in 2008?
+randal_olson	684943974872686593	2016-01-07T03:45:43	_ramrs Agreed!
+randal_olson	684942341627490305	2016-01-07T03:39:14	Unless you owned one of those giant encyclopedia collections. 
+randal_olson	682984674071715841	2016-01-01T18:00:10	How to Make Extreme Numbers Resonate:  dataviz 
+randal_olson	683995384507678720	2016-01-04T12:56:22	"The Truthful Art" will be published soon. Here's what comes next  dataviz infographics 
+randal_olson	684763002755649536	2016-01-06T15:46:36	We linked potato chip consumption to math aptitude to show what’s wrong w/nutrition studies  
+randal_olson	684817672274509824	2016-01-06T19:23:51	A more complex map of Sunnis and Shiites. dataviz  
+randal_olson	684816754674016256	2016-01-06T19:20:12	Half the population of Brazil lives in the red areas. dataviz  
+randal_olson	684815032513773569	2016-01-06T19:13:21	Powerball sales vs. jackpots (and how that affects your odds). dataviz  
+randal_olson	684804727977066496	2016-01-06T18:32:24	miishke My SO is, so therefore I am as well.
+randal_olson	684790506421784576	2016-01-06T17:35:54	I'll be talking TPOT and DataScience automation at the 1:30pm poster session at PSB16. See you there! 
+randal_olson	684204778277081089	2016-01-05T02:48:25	New Year, new Git release: 
+randal_olson	684490262379282432	2016-01-05T21:42:50	.AlexCEngler rasbt therriaultphd But what about taking the combined set and dividing it into several training/holdout sets? (2/2)
+randal_olson	684489940625821697	2016-01-05T21:41:33	.AlexCEngler rasbt therriaultphd Agree -- important to have final holdout set that feature engineering, model, etc. never saw. (1/2)
+randal_olson	684482446469906432	2016-01-05T21:11:46	.thmosqueiro My concern is that the holdout set may be a "lucky" division of the data. Is it "right" to report perf on only 1 holdout set?
+randal_olson	684481194243706880	2016-01-05T21:06:48	therriaultphd Some others suggested here -- perform 10-fold CV on training only, then report performance on the holdout set.
+randal_olson	684481006976380928	2016-01-05T21:06:03	gregstod Yes -- testing performance of a model.
+randal_olson	684479536340185089	2016-01-05T21:00:13	thmosqueiro That was my thought -- 
+randal_olson	684477941992955904	2016-01-05T20:53:53	My thought is to merge the training/testing sets then split that into 10 folds, but then you can't compare to previous work on the data set.
+randal_olson	684477714430951424	2016-01-05T20:52:58	Thoughts? If you have a MachineLearning dataset that's divided into training/testing for CV, but you want to do 10-fold CV, what do you do?
+randal_olson	684476949930967040	2016-01-05T20:49:56	elgehelge Corrects to sudo rm -rf /
+randal_olson	684461810032877568	2016-01-05T19:49:46	Great way to start the day: TWO papers accepted today (one on TPOT) with positive reviews! I'll be sure to post the preprints soon.
+randal_olson	684455100434092032	2016-01-05T19:23:07	.jeresuikkila I can't think of a use case where donut charts should be used over pie charts. And pie charts should be used with caution.
+randal_olson	684454914135736321	2016-01-05T19:22:22	.jeresuikkila Bar charts are usually best for making direct comparisons of a handful of data points.
+randal_olson	684454403152072705	2016-01-05T19:20:20	5 more arXiv DeepLearning papers, explained. MachineLearning DataScience  
+randal_olson	684453650966560768	2016-01-05T19:17:21	Causes of death in the US -- another great interactive from flowingdata. dataviz  
+randal_olson	684453098090176513	2016-01-05T19:15:09	1) Use of a donut chart to compare two data points. 2) Distracting and pointless background images. Okay, I'll stop ranting...
+randal_olson	684452947804069888	2016-01-05T19:14:33	Interesting data here, but holy moly, so many bad dataviz practices in these charts.
+randal_olson	684452133870026752	2016-01-05T19:11:19	Men are more than twice as likely to die in a pedestrian traffic accident. dataviz  
+randal_olson	684190941821841408	2016-01-05T01:53:26	.etheleonus Texans might make an alias to "gosh," for example. 
+randal_olson	684187776909094912	2016-01-05T01:40:52	The Fuck: a Python app that corrects your previous console command. programming  
+randal_olson	684163080297660417	2016-01-05T00:02:44	sverrirbo Yep, that's how these maps are made AFAICT.
+randal_olson	684162954304983044	2016-01-05T00:02:14	tleeuwenburg I don't think that was TheEconomist's intentions.
+randal_olson	684120946630737920	2016-01-04T21:15:18	In 2016, the world's richest 1% have more wealth than the remaining 99% of people. dataviz  
+randal_olson	684119860654149632	2016-01-04T21:10:59	Half of the population of the USA lives in the blue areas. dataviz  
+randal_olson	684119311007363072	2016-01-04T21:08:48	Half of the population of Australia lives in the red areas. dataviz  
+randal_olson	684119160683560961	2016-01-04T21:08:12	Half of the population of Iceland lives in the red areas. dataviz  
+randal_olson	684118955384913920	2016-01-04T21:07:23	Half of the population of Norway lives in the blue areas. dataviz  
+randal_olson	683318087924510720	2016-01-02T16:05:02	Python development is moving to GitHub. programming  
+randal_olson	683317412427620352	2016-01-02T16:02:21	randal_olson Source: 
+randal_olson	683317361588453377	2016-01-02T16:02:09	Racial Dot Map of District 5 in Florida, one of the most gerrymandered Congressional districts in America. dataviz 
+randal_olson	683316638213627905	2016-01-02T15:59:16	Map of NSFW subreddits on Reddit. dataviz  Full res at  
+randal_olson	682987612110491648	2016-01-01T18:11:50	Runner up on DataIsBeautiful: The Fallen of World War II. dataviz  
+randal_olson	682985915422240773	2016-01-01T18:05:06	Runner up on DataIsBeautiful: "Wore my Fitbit heart rate monitor during sex." dataviz  
+randal_olson	682985648572227584	2016-01-01T18:04:02	Most-upvoted DataIsBeautiful post of 2015: TV finales that surprise/disappoint. dataviz  
+randal_olson	682982806000168960	2016-01-01T17:52:44	Dot map of home owners vs. renters across the U.S. dataviz  
+randal_olson	682610024682754048	2015-12-31T17:11:26	Happy New Year's Eve! We are celebrating by releasing 2015 trip data! rideindego opendata  
+randal_olson	682618726919856129	2015-12-31T17:46:01	.wyokauffman moorejh I wonder how it would've looked as a streamgraph. Seems it could work for this data. 
+randal_olson	682618091948392448	2015-12-31T17:43:30	BestMemoriesOf2015 GoGreen 
+randal_olson	682616498938982400	2015-12-31T17:37:10	Kolie_Yola That's the problem: You don't. We need to do a better job of noting when papers are retracted.
+randal_olson	682616208689004544	2015-12-31T17:36:01	.neuromusic How about a retraction penalty instead? 
+randal_olson	682600786816286721	2015-12-31T16:34:44	One of my 2015 dataviz goals achieved: nightingale graphs created! See entire post here:  
+randal_olson	682404568643178496	2015-12-31T03:35:02	The four topics that dominated Twitter this year  dataviz socialmedia 
+randal_olson	682614179019149313	2015-12-31T17:27:57	.FiveThirtyEight's 47 weirdest charts from 2015. dataviz  
+randal_olson	682612703643308032	2015-12-31T17:22:05	Interesting survey about online anonymity. dataviz  
+randal_olson	682611985997955072	2015-12-31T17:19:14	Good accompanying article explaining why researchers continue citing retracted papers: 
+randal_olson	682611520665063424	2015-12-31T17:17:23	Researchers keep citing retracted papers. dataviz  
+randal_olson	682241544053743616	2015-12-30T16:47:14	Beautiful maps comparing the lengths/heights of the rivers/mountains of the world. dataviz  
+randal_olson	681310618830376961	2015-12-28T03:08:04	Common Probability Distributions via ClouderaEng  stats datascience 
+randal_olson	681846347230777345	2015-12-29T14:36:51	Old school (outdated?) arguments in favor of SVMs over NeuralNets: 
+randal_olson	682234242529660929	2015-12-30T16:18:13	U.S.-born population still living in their state of birth (2008) dataviz  
+randal_olson	682232153095143425	2015-12-30T16:09:55	Although I think this correlation is driven purely by geography. Classic correlation != causation. 
+randal_olson	682231779017781248	2015-12-30T16:08:26	Interesting negative correlation between a country's avg temperature &amp; HDI. dataviz  
+randal_olson	681870167140372481	2015-12-29T16:11:31	MathieuFlex SimonPerera aynowow Yeah, I traced it back to Wikipedia. Someone must've made it and posted it on there.
+randal_olson	681869883337011200	2015-12-29T16:10:23	JPdeRuiter amazon google Let's not leave Netflix out as a minor overlord.
+randal_olson	681863926997360641	2015-12-29T15:46:43	Large repo of Python DataScience notebooks: Deep learning, matplotlib, sklearn, ...   
+randal_olson	681862965503475713	2015-12-29T15:42:54	The word for "War" across Europe. dataviz  
+randal_olson	681862407300366338	2015-12-29T15:40:40	"My growing reliance on Amazon over the past 8 years" dataviz  Yeah, mine looks similar.   
+randal_olson	681486640800489472	2015-12-28T14:47:31	Timeline of same-sex partnership rights in Europe. dataviz  
+randal_olson	681485393896812544	2015-12-28T14:42:33	StarWarsTheForceAwakens' path to box office glory. dataviz  
+randal_olson	681185456499879937	2015-12-27T18:50:43	jbiggley Nooooooooooooooo! *falls down endless shaft*
+randal_olson	681173763996684290	2015-12-27T18:04:15	PlasticFShow Yup.
+randal_olson	681166192191606785	2015-12-27T17:34:10	Although it's been over a week since the release, so it's amazing I haven't run across any spoilers yet.

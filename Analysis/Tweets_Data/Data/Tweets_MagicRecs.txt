@@ -1,0 +1,30 @@
+MagicRecs	592684452498800640	2015-04-27T13:39:19	ZephSnapp twitter we've made this feature available to all twitter users since October 2013.
+MagicRecs	591277051119710208	2015-04-23T16:26:49	Introducing Highlights. Get the best of Twitter every day, sent to your Android device:  
+MagicRecs	589855731462971393	2015-04-19T18:19:00	kitson Support No, it's still going strong!
+MagicRecs	546757515526942720	2014-12-21T20:02:04	bracco you can just unfollow this account and Twitter will send you same recommendations as push notifications instead of DMs.
+MagicRecs	538563649410174977	2014-11-29T05:22:34	@itscrazzywill You can block or mute that account.
+MagicRecs	538539450934894593	2014-11-29T03:46:25	@itscrazzywill That feature is temporarily broken, we're getting out the fix very soon.
+MagicRecs	536762266071232513	2014-11-24T06:04:31	bechan_maciak Yes, via DM, but that feature recently broke. We're fixing it and will let you know once the fix is in.
+MagicRecs	535832345643741185	2014-11-21T16:29:21	arjunram pankaj that is a good suggestion, we'll look into it.
+MagicRecs	531988527756496896	2014-11-11T01:55:23	NickNRickShep Just unfollow.
+MagicRecs	531869663052181504	2014-11-10T18:03:03	iammollymchugh You can either mute or block her, or you can turn off tweet recs entirely (DM "help" to get instructions)
+MagicRecs	529687575351799809	2014-11-04T17:32:13	caleweissman Thanks for the feedback, we're working on the fix
+MagicRecs	529370493623623680	2014-11-03T20:32:15	drinkzima thanks for the feedback. We're working on it.
+MagicRecs	529370258935521282	2014-11-03T20:31:19	tutmarie you dm'ed "hi"?
+MagicRecs	529340976448274432	2014-11-03T18:34:58	tutmarie you can DM even if you are not followed back.
+MagicRecs	525012894526611456	2014-10-22T19:56:42	@DLLKEVIN You can mute or block x
+MagicRecs	524658430137487360	2014-10-21T20:28:12	5TurnerAlley Yes, send a DM saying "help", and you should get a reply with instructions
+MagicRecs	524293930221727744	2014-10-20T20:19:48	StephLauren You can mute the account, and we won't show their tweets.
+MagicRecs	472462508473581568	2014-05-30T19:40:14	aditseth03 You can turn hashtags off, just send a DM with "hashtags off" as the text
+MagicRecs	456672106822901762	2014-04-17T05:54:49	samerfarha you can turn it off if you wish; DM me with "help" as text and reply back with some commands you can use to customize.
+MagicRecs	449586183266254848	2014-03-28T16:37:53	ciaranpjd you can turn this feature off by replying "hashtags off" in a dm to me.
+MagicRecs	449584980448903169	2014-03-28T16:33:06	asmith83 you can turn this feature off by replying "hashtags off" in a dm to me. Also I hope you didn't miss the call.
+MagicRecs	449584632237789184	2014-03-28T16:31:43	WesleyLowery SladeHV Bencjacobs KimBhasin you can turn this feature off by replying "hashtags off" in a dm to me.
+MagicRecs	445336997263982592	2014-03-16T23:13:08	kimacannon flrdelis you need to do both. Thanks for trying out the service.
+MagicRecs	445334984874672128	2014-03-16T23:05:08	kimacannon flrdelis turn off notifications - "recommendations" to stop receiving push notifications.
+MagicRecs	438509177434931200	2014-02-26T03:01:49	sdkstl yes.  Direct message "help" to configure.
+MagicRecs	433461228397027329	2014-02-12T04:43:04	flrdelis there is a notification setting called "recommendation" which you can turn off for for user and tweet recommendation.
+MagicRecs	432190879499952128	2014-02-08T16:35:10	kdoohan Aerocles sad to know. You can configure your recommendation frequency. Try DM help.
+MagicRecs	432189922443669505	2014-02-08T16:31:21	michaeloliveira thank you for your feedback. We are continuously iterating on quality.
+MagicRecs	431149091046035456	2014-02-05T19:35:28	atwapp magicrecs &amp; digg Congrats on being chosen by the Shorty Awards nominating board! 
+MagicRecs	417246174693703680	2013-12-29T10:50:14	iamxande you can customise by DMing us commands. DM us "help" to get started

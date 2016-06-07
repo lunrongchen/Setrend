@@ -1,0 +1,150 @@
+econstyleguide	726185838535675910	2016-04-29T23:06:10	What is a global vacancy (as advertised by The Economist Group)?
+econstyleguide	725823479283589122	2016-04-28T23:06:17	Overused words: flatlining, focus (all the world’s a stage, not a lens), global
+econstyleguide	725460576227446785	2016-04-27T23:04:14	“Now that we’re all part of a global world,” merely conjures up images of a flat earth.
+econstyleguide	725098251645538305	2016-04-26T23:04:29	Avoid saying, “Now that we’re all part of a global world”, unless you have hitherto believed the Earth to be flat.
+econstyleguide	724736164545105921	2016-04-25T23:05:41	The members of the global community are a mystery.
+econstyleguide	724373060728590336	2016-04-24T23:02:50	Avoid the language of spokesmen, businessmen, lawyers, bureaucrats and academics.
+econstyleguide	724010889083523073	2016-04-23T23:03:42	A cheque is an order for money, whereas a chequer is a chessboard or a pattern of different-coloured squares.
+econstyleguide	723649077896970241	2016-04-22T23:05:59	Avoid such constructions as "He will likely announce the date on Monday." Prefer "He is likely to announce…"
+econstyleguide	723286437681094657	2016-04-21T23:04:59	"A two-thirds majority is needed to amend the constitution" but "A majority of the Senate were opposed."
+econstyleguide	722924080958173185	2016-04-20T23:05:06	None usually takes a singular verb. So does neither (or either) a nor (or) b, unless b is plural.
+econstyleguide	722561722150690818	2016-04-19T23:05:13	Do not confuse one part of a parliament with the whole thing. The Dail is only the lower house of Ireland’s parliament.
+econstyleguide	722199205012447232	2016-04-18T23:04:42	Endemic means prevalent or generally found in a place or population. Epidemic means prevalent among a population at a particular time.
+econstyleguide	721836886331887617	2016-04-17T23:04:59	Overused words: paradigm, participate in (take part in—more words but fewer syllables), passion, passionate
+econstyleguide	721474538802966528	2016-04-16T23:05:09	Try not to verb nouns or to adjective them. So do not access files, action proposals.
+econstyleguide	721112143026896896	2016-04-15T23:05:07	The Economist has a single editorial outlook, and it is anonymous. But it is the work of many people.
+econstyleguide	720749480623140865	2016-04-14T23:04:01	Use all metaphors, dead or alive, sparingly, otherwise you will make trouble for yourself.
+econstyleguide	720387228229193728	2016-04-13T23:04:34	Do not use may or might when the appropriate verb is to be: "His colleagues wonder how far the prime minister will go."
+econstyleguide	720025379331813376	2016-04-12T23:06:42	Overused words: overseas (inexplicably, and often wrongly, used to mean abroad or foreign)
+econstyleguide	719663355141713920	2016-04-11T23:08:09	Someone with high name-recognition is well known.
+econstyleguide	719299579821322245	2016-04-10T23:02:38	When you express opinions, do not simply make assertions.
+econstyleguide	718937681481375744	2016-04-09T23:04:35	Political correctness: strike a balance.
+econstyleguide	718576072695160834	2016-04-08T23:07:40	Venerable means worthy of reverence. It is not a synonym for old.
+econstyleguide	718213141037989888	2016-04-07T23:05:31	The Richter scale is unknown to seismologists. The strength of an earthquake is its magnitude, so write an earthquake of magnitude 8.9.
+econstyleguide	717850921821212672	2016-04-06T23:06:11	As a generic term, home is useful, even though it may be inaccurate.
+econstyleguide	717488447448092676	2016-04-05T23:05:50	As of (April 5th or April): prefer on (or after, or since) April 5th, in April.
+econstyleguide	717126008860762112	2016-04-04T23:05:38	Do not confuse one part of a parliament with the whole thing. The Dail is only the lower house of Ireland’s parliament.
+econstyleguide	716762823435685888	2016-04-03T23:02:28	In the twinkling of an eye means in a very short time.
+econstyleguide	716400946348167169	2016-04-02T23:04:30	When writing about Spanish-speaking people, use either Latino or Hispanic as a general term, but try to be specific (Mexican-American)
+econstyleguide	716039082053345281	2016-04-01T23:06:35	Noisome means noxious, harmful or offensive to the eyes or nose – but not the ears: that is noisy.
+econstyleguide	715676101591306245	2016-03-31T23:04:13	Avoid: impact (used as a verb; affect will do the job)
+econstyleguide	715314395816075264	2016-03-30T23:06:56	To affect means have an impact on someone or something. To effect means to bring something about.
+econstyleguide	714951980834234369	2016-03-29T23:06:50	Remember the New Yorker’s comment: “Backward ran the sentences until reeled the mind.”
+econstyleguide	714588926661509121	2016-03-28T23:04:11	Many are Americanisms are unnecessarily long (so use "and" not "additionally", "car" not "automobile"…).
+econstyleguide	714226156271243264	2016-03-27T23:02:39	Some cities have inhabitants with odd names: Mumbai: Mumbaikars, Naples: Neapolitans, Rio de Janeiro: Cariocas, So Paulo: Paulistas
+econstyleguide	713879191498985472	2016-03-27T00:03:57	Some cities have inhabitants with odd names: Glasgow: Glaswegians, Liverpool: Liverpudlians, Manchester: Mancunians
+econstyleguide	713517448935374848	2016-03-26T00:06:30	Prefer "suspected terrorists" to "terrorist suspects".
+econstyleguide	713154542662193154	2016-03-25T00:04:27	Unadorned, unfancy prose is usually all you need.
+econstyleguide	712792105932947457	2016-03-24T00:04:15	Fund is a technical term. Try to avoid it if you mean to finance or to pay for.
+econstyleguide	712430374106882048	2016-03-23T00:06:52	Revenue enhancements are probably tax increases.
+econstyleguide	712068578028158976	2016-03-22T00:09:13	Why outfit your children when you can fit them out?
+econstyleguide	711705559641300996	2016-03-21T00:06:42	Historical is preceded by an, whether or not you treat the h as silent.
+econstyleguide	711342236471001088	2016-03-20T00:02:59	Put adverbs where you would put them in normal speech, which is usually after the verb.
+econstyleguide	710980119230337024	2016-03-19T00:04:04	Figures may also be appropriate for fractions, if the context is either technical or precise, or both.
+econstyleguide	710617715367665664	2016-03-18T00:04:00	London’s National Gallery is absurd: the gallery is the United Kingdom’s, not London’s, hence the National in its name.
+econstyleguide	710255991862988801	2016-03-17T00:06:39	Do not call when you mean predict.
+econstyleguide	709893492353474560	2016-03-16T00:06:12	Americans tend to be fussy about making a distinction between which and that. Good writers of British English are less fastidious.
+econstyleguide	709530865089585152	2016-03-15T00:05:15	Collapse is not transitive. You may collapse, but you may not collapse something.
+econstyleguide	709168313662894080	2016-03-14T00:04:36	"Straight" means direct or uncurved; "strait" means narrow or tight. The strait-laced tend to be straight-faced.
+econstyleguide	708805954662481924	2016-03-13T00:04:43	Percolate means to pass through, not up or down.
+econstyleguide	708444137075433473	2016-03-12T00:06:59	A parking lot is a car park.
+econstyleguide	708081247894032384	2016-03-11T00:04:59	Try to avoid one as a personal pronoun. You will often do instead.
+econstyleguide	707718999900078080	2016-03-10T00:05:33	University development officers are fundraisers.
+econstyleguide	707356723028336640	2016-03-09T00:05:59	Migrate is intransitive, so do not migrate anyone or anything.
+econstyleguide	706994096041234432	2016-03-08T00:05:02	There is, there are: Often unnecessary, seldom elegant.
+econstyleguide	706631658267668484	2016-03-07T00:04:50	Many good writers break the rules of English, and readers may occasionally forgive The Economist for doing so too.
+econstyleguide	706268731614302208	2016-03-06T00:02:42	"Break any rules sooner than say anything outright barbarous." (Orwell)
+econstyleguide	705907140469387265	2016-03-05T00:05:52	Nor means and not, so should not be preceded by and.
+econstyleguide	705544515168428032	2016-03-04T00:04:55	"Relationship" is a long word often better replaced by "relations".
+econstyleguide	705181772783489024	2016-03-03T00:03:30	Report on, not into.
+econstyleguide	704819594532364288	2016-03-02T00:04:20	Long paragraphs, like long sentences, can confuse the reader.
+econstyleguide	704457267593256964	2016-03-01T00:04:35	Overused words: pulling teeth, redact, reductive
+econstyleguide	704094399827996672	2016-02-29T00:02:41	May and might are not always interchangeable, and you may want may more often than you think.
+econstyleguide	703732293672816640	2016-02-28T00:03:48	"Instruct the reader without lecturing him" may be put as "Instruct readers without lecturing them."
+econstyleguide	703370252193832963	2016-02-27T00:05:10	Use and abuse: two words much used and abused. You take drugs, not use them (Does he use sugar?).
+econstyleguide	703007935610417152	2016-02-26T00:05:27	By all means protest your innocence. But if you are making a complaint or objection, you must protest at or against something.
+econstyleguide	702645441691848704	2016-02-25T00:05:02	Someone with good interpersonal skills probably just gets on well with others.
+econstyleguide	702283336174190592	2016-02-24T00:06:09	As part of an adverb, either -ward or –wards may be correct, though –wards is usually to be preferred in British English.
+econstyleguide	701920885230465025	2016-02-23T00:05:54	Per cent is not the same as a percentage point.
+econstyleguide	701557996879482880	2016-02-22T00:03:55	Hold your reader’s attention by keeping the story moving.
+econstyleguide	701195340440072197	2016-02-21T00:02:51	Initial, initially. Prefer first, at first.
+econstyleguide	700833289951645699	2016-02-20T00:04:11	Those who talk about "talent management" or are probably just talking about "senior staff".
+econstyleguide	700471401489240064	2016-02-19T00:06:10	There is usually a more appropriate preposition than as to.
+econstyleguide	700132903234244609	2016-02-18T01:41:06	Much of the trouble arises from the fact that may becomes might in both the subjunctive and in some constructions using past tenses.
+econstyleguide	699747707775221760	2016-02-17T00:10:28	Socialise: Not so long ago this word was usually employed to mean emerge into society, as a toddler might when leaving its mother.
+econstyleguide	699385259683684352	2016-02-16T00:10:14	An extra-judicial execution is a contradiction in terms.
+econstyleguide	699022903946436608	2016-02-15T00:10:22	Some titles of foreign books are so well known that they are unlikely to need translation (“Das Kapital”, “Mein Kampf”, “Le Petit Prince”).
+econstyleguide	698660891181580289	2016-02-14T00:11:51	Per cent is not the same as a percentage point.
+econstyleguide	698298380657782784	2016-02-13T00:11:22	The Taliban are plural. The singular is Talib. The Shabab are also plural.
+econstyleguide	697936320325402624	2016-02-12T00:12:40	Overused words: environment (in a writing environment you may want to make use of your Tipp-Ex, rubber or delete button)
+econstyleguide	697575410045952001	2016-02-11T00:18:32	In the United States section, you may use the measurements more familiar to Americans.
+econstyleguide	697211224598179840	2016-02-10T00:11:24	"The omens were good" may have more force than "The omens were very good."
+econstyleguide	696848255372693504	2016-02-09T00:09:05	Married women who are known by their maiden names, unless they are usually called something else.
+econstyleguide	696487159474364416	2016-02-08T00:14:13	The primary, long-standing use of gender is in grammar, where it is applied to words, not people.
+econstyleguide	696124824876421121	2016-02-07T00:14:26	Avoid: poster child
+econstyleguide	695761818069950464	2016-02-06T00:11:58	Hyphens: if the prefix is of one or two syllables, attach it without a hyphen to form a single word: carmaker, chipmaker, peacemaker.
+econstyleguide	695398995292659712	2016-02-05T00:10:15	The army is accused of committing numerous human-rights abuses probably means The army is accused of torture and murder.
+econstyleguide	695037646410801153	2016-02-04T00:14:22	Overused words: resources (especially human resources, which may be personnel, staff or just people)
+econstyleguide	694675454964404225	2016-02-03T00:15:09	Overused words: resources (especially human resources, which may be personnel, staff or just people)
+econstyleguide	694313468153954307	2016-02-02T00:16:45	Annual leave is usually a holiday.
+econstyleguide	693947963098447872	2016-02-01T00:04:21	"Who" is one of the few words in English that differs in the accusative (objective) case, when it becomes "whom".
+econstyleguide	693588343272116224	2016-01-31T00:15:21	On-site inspections are allowed, but not in-flight entertainment, on-train teams or in-ear headphones.
+econstyleguide	693224365899550721	2016-01-30T00:09:02	Skills: These are turning up all over the place—in learning skills, thinking skills, teaching skills—instead of the ability to.
+econstyleguide	692863290381176832	2016-01-29T00:14:15	You may mete out punishment, but if it is to fit the crime it is meet.
+econstyleguide	692499458672738304	2016-01-28T00:08:31	Overused words: cusp, deliver, driver
+econstyleguide	692137679266451457	2016-01-27T00:10:56	Cusp: This is a pointed end or the point at which two branches of a curve meet. It does not mean edge, brink or verge.
+econstyleguide	691773769560489984	2016-01-26T00:04:53	If not a vessel in which herbs etc are pounded with a pestle, a mortar is a piece of artillery for throwing a shell, bomb or lifeline.
+econstyleguide	691410943935389696	2016-01-25T00:03:09	Avoid: looking to (meaning intending to)
+econstyleguide	691048818670964736	2016-01-24T00:04:12	Avoid: savvy
+econstyleguide	690686883303723008	2016-01-23T00:05:59	Current and contemporary mean at that time, not necessarily at this time.
+econstyleguide	690324125018099712	2016-01-22T00:04:31	Come up with: Try suggest, originate or produce.
+econstyleguide	689961448894787584	2016-01-21T00:03:22	Optics is the science of light. Do not use it to mean impression or appearances.
+econstyleguide	689600212285952001	2016-01-20T00:07:57	Overused words: too close to call, tough (fine with steak, tedious with decisions), toxic
+econstyleguide	689236963770105856	2016-01-19T00:04:32	Decommissioning weapons means disarming.
+econstyleguide	688874836425322496	2016-01-18T00:05:34	In due course nuclear weapons became nuclear deterrents – unless they were held by bad people.
+econstyleguide	688512664939659264	2016-01-17T00:06:25	Use hyphens to avoid ambiguities: a little-used car, high-school girl, fine-tooth comb (most people do not comb their teeth)
+econstyleguide	688149993966796800	2016-01-16T00:05:18	Do not be ashamed of sometimes using man to include women, or making he do for she.
+econstyleguide	687787555501281283	2016-01-15T00:05:06	Pressurise is what you want in an aircraft, but not in an argument or encounter where persuasion is being employed.
+econstyleguide	687425650941136896	2016-01-14T00:07:01	To try and end the killing does not mean the same as to try to end the killing.
+econstyleguide	687062638216478726	2016-01-13T00:04:32	"Never use a Metaphor, simile or other figure of speech which you are used to seeing in print." (Orwell)
+econstyleguide	686700755953283073	2016-01-12T00:06:33	Often the title of a foreign book will be significant, and you will want to translate it.
+econstyleguide	686337661859151873	2016-01-11T00:03:44	Do not use finally when you mean eventually or at last.
+econstyleguide	685975791583236097	2016-01-10T00:05:48	The terms emerging economies and emerging markets are unhappy albeit useful, but emerging countries is absurd.
+econstyleguide	685613314819420160	2016-01-09T00:05:26	Globalisation can go to the head. It is not necessary to describe, eg, the head of Baker &amp; McKenzie as the global boss of that firm.
+econstyleguide	684888283978010629	2016-01-07T00:04:26	Remember that euphemisms are the stock in trade of people trying to obscure the truth.
+econstyleguide	684527472633864192	2016-01-06T00:10:42	Useful for those who value gender-neutrality above all else, but others may prefer boyfriend or girlfriend or even lover.
+econstyleguide	684163590576836608	2016-01-05T00:04:45	Ferment, foment. These are two unrelated words that can sometimes, as transitive verbs, be used interchangeably.
+econstyleguide	683800906543005696	2016-01-04T00:03:35	Do not force nouns or other parts of speech to act as verbs.
+econstyleguide	683438498456694784	2016-01-03T00:03:30	Fractions should be hyphenated (one-half, three-quarters, etc) and spelled out in words.
+econstyleguide	683076259782504452	2016-01-02T00:04:05	"Wreaked" is the past participle of "wreak", to give vent or expression to, or to punish.
+econstyleguide	682714336473804800	2016-01-01T00:05:56	Any de is likely to be lower case, unless it starts a sentence.
+econstyleguide	682351557418029056	2015-12-31T00:04:23	To deprecate is to argue or plead against (by prayer or otherwise). To depreciate is to lower in value.
+econstyleguide	681989348737310720	2015-12-30T00:05:06	Ground zero. This is any place of devastation, originally in Hiroshima and Nagasaki where atom bombs fell in 1946.
+econstyleguide	681627259778797568	2015-12-29T00:06:17	Avoid: source (meaning obtain)
+econstyleguide	681264111745937408	2015-12-28T00:03:16	Deplete, too, is transitive: stocks do not deplete, they are depleted.
+econstyleguide	680901812073938944	2015-12-27T00:03:37	Use single ones only for quotations within quotations. Thus: “When I say ‘immediately’, I mean some time before April,” said the spokesman.
+econstyleguide	680539426968190978	2015-12-26T00:03:37	If "This door is alarmed", does its "hair stand on end?"
+econstyleguide	680177079170777090	2015-12-25T00:03:47	Take particular care if you borrow the language of politicians, especially when they bring bad news.
+econstyleguide	679814866291523584	2015-12-24T00:04:29	Hyphens: Greek-Cypriot, Irish-American, etc, whether noun or adjective.
+econstyleguide	675467620204699648	2015-12-12T00:10:04	Sorry, econstyleguide, but surreal can't overused in a world where Trump leads a Presidential nominating contest. 
+econstyleguide	679453332444950529	2015-12-23T00:07:52	Overused words: spikes (many rises described as spikes turn out to have no descents)
+econstyleguide	679090663510659075	2015-12-22T00:06:45	You can speak softly and carry a big stick, but if you have a quiet voice you are soft—not softly—spoken.
+econstyleguide	678727679751888898	2015-12-21T00:04:23	Academics engaged in sociological or psychological research demurred at the prospect of a chair in sex studies.
+econstyleguide	678365066656358400	2015-12-20T00:03:29	Bureaucrats are inevitably committed, creative, dynamic, innovative and proactive.
+econstyleguide	678002918788853762	2015-12-19T00:04:27	Do not progress it, if by that you mean advance it. Progress is also intransitive.
+econstyleguide	677640891742466048	2015-12-18T00:05:53	Separating identical letters I: book-keeping (but bookseller), coat-tails, co-operate, unco-operative, pre-eminent.
+econstyleguide	677279046556893185	2015-12-17T00:08:02	People, most of them anyway, are either male or female and that, by convention, is their sex, not their gender.
+econstyleguide	676916423629885441	2015-12-16T00:07:06	Gender. Stick to sex if possible.
+econstyleguide	676553949651038208	2015-12-15T00:06:46	Loans to the industrial and agricultural sectors are just loans to industry and farming.
+econstyleguide	676190747952087040	2015-12-14T00:03:31	Avoid: Big Pharma
+econstyleguide	675828637799727105	2015-12-13T00:04:38	People can meet rather than meet with; companies can be bought; and sold rather than bought up and sold off.
+econstyleguide	675466430788317184	2015-12-12T00:05:21	Overused words: strategic, supportive (helpful?), surreal
+econstyleguide	675104182790193153	2015-12-11T00:05:54	Quite: in America, quite is usually an intensifying adverb similar to altogether, entirely or very
+econstyleguide	674741784908570624	2015-12-10T00:05:52	Banish from your mind, your prose and your headlines bridges too far; empires striking back; F-words; flavours of the month…
+econstyleguide	674379840137666564	2015-12-09T00:07:37	Avoid: any time soon
+econstyleguide	674016937547055104	2015-12-08T00:05:35	Currently is much overused. Often it can be cut out, or a better word, such as now or today, used instead.
+econstyleguide	673654373457764352	2015-12-07T00:04:53	You may program a computer but in all other contexts the word is programme.
+econstyleguide	673291811616628736	2015-12-06T00:04:11	A rule for number. The number is…, A number are…
+econstyleguide	672929340737331201	2015-12-05T00:03:51	"If it is possible to cut out a word, always cut it out." (Orwell)
+econstyleguide	672567305109401600	2015-12-04T00:05:15	"Never use the passive where you can use the active." (Orwell)
+econstyleguide	672204863242137601	2015-12-03T00:05:03	Someone with good "interpersonal skills" gets on well with people. "He has the skills" probably means "He can."

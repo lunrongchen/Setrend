@@ -1,0 +1,599 @@
+chr1sa	726247572021501953	2016-04-30T03:11:28	This is actually a great idea: line following "rabbit" that you can set for any pace you want 
+chr1sa	726188832761106432	2016-04-29T23:18:04	why aren't more people talking about this here? this is huge, or at least Harbinger of Huge  
+chr1sa	726183511422570496	2016-04-29T22:56:55	We just finished our drone workshop! 12 middle school kids built 4 3Dprinted drones. pixhawk chr1sa 
+chr1sa	725842741876297728	2016-04-29T00:22:49	The ubiquity of WeChat in China is extraordinary, w/hints of an alternate Internet. Only seen such reach in subgroups (Snapchat+kids) before
+chr1sa	725839554280738816	2016-04-29T00:10:09	Lots of 3DRobotics Solo news at NAB. New cameras (Sony,  multispectral,  thermal), tether..  
+chr1sa	725678024197214208	2016-04-28T13:28:18	Standing room only for the first Dronecode China conference  
+chr1sa	725327921909514240	2016-04-27T14:17:07	As of 10am today (4/27/2016) I have flown my 3drobotics drone on all 7 continents including flying aboard a ship in Antarctica. iflysolo
+chr1sa	725024135865315328	2016-04-26T18:09:58	How the Freemium business model won the mobile gaming market, where it's problematic and how to fix it  
+chr1sa	724988836212707328	2016-04-26T15:49:42	Full port of the Dronecode autonomous UAV stack on Raspberry_Pi 
+chr1sa	491272626690859010	2014-07-21T17:24:56	starsandrobots 
+chr1sa	724630348663918593	2016-04-25T16:05:12	Corrected link for autonomous car race: . Terrified to see we'll now be up against Yamaha: 
+chr1sa	724627222674333697	2016-04-25T15:52:47	rrjwilson Sorry, typing too fast: 
+chr1sa	724456989124898816	2016-04-25T04:36:20	Amazing piece from WeChat product manager unlocking what is real &amp; not about messaging, bots, etc. Long but awesome. 
+chr1sa	724463258355142656	2016-04-25T05:01:15	ClintHowen Depends on how well we do in the race ;-)
+chr1sa	724430486156644352	2016-04-25T02:51:01	alejmrm sadly it's R1. Missed an opportunity for a good joke
+chr1sa	724400105852301313	2016-04-25T00:50:18	A remote killswitch: today's important addition to our autonomous racing kart for  
+chr1sa	723949565464875010	2016-04-23T19:00:01	4th graders had to design a resort &amp; include build costs &amp; maintenance costs! Here is picture! [SMIPTech] 
+chr1sa	723934414204358657	2016-04-23T17:59:49	"hacktivists might target farmers as a way of protesting against the US’ agricultural policies" 
+chr1sa	723696732605804544	2016-04-23T02:15:21	robwolfe But surely the same is true for iOS?
+chr1sa	723602298253897729	2016-04-22T20:00:06	Our human assignment will be to keep making jobs for robots. theinevitable 
+chr1sa	723683594191798273	2016-04-23T01:23:08	robwolfe Unclear how data is propaganda. If you don't believe the numbers, say so. But otherwise they're just numbers
+chr1sa	723656860792815617	2016-04-22T23:36:55	This is not a bug, but rather a feature.  Actually, it is *the* feature. 
+chr1sa	723649319522340864	2016-04-22T23:06:57	Dying well is difficult. Here is an essay from one member of the tech community trying to do so. 
+chr1sa	723628385121882112	2016-04-22T21:43:46	Simulation environment for Dronecode autonomous cars:  
+chr1sa	723625394717491202	2016-04-22T21:31:53	Video Friday: Snakebot Swimming, Robots and Duckies, and Giant Eyeball Blimp  
+chr1sa	723620995836170241	2016-04-22T21:14:24	Generally sceptical of all-in-one machines, but this 3D printer/CNC/laser cutter looks sweet  
+chr1sa	723618978715688960	2016-04-22T21:06:23	Messaging middleware is super nerdy but key for cloud robotics in real world. 3DRobotics standardises on FastRTPS 
+chr1sa	723613678642155521	2016-04-22T20:45:19	Building a 100+ person autonomous driving team in Silicon Valley.  Lets save 3,000 lives. Per DAY.
+chr1sa	723611473721729025	2016-04-22T20:36:34	zzbar Market share encourages better/more apps. If you were using Windows Phone you'd sure care
+chr1sa	723602941899231232	2016-04-22T20:02:39	Every time I see data on the rise of Android I'm impressed anew. A testament to the power of being more open 
+chr1sa	723594547947704320	2016-04-22T19:29:18	More evidence to support my theory that all unidentified objects will be classified as "drones" initially. 
+chr1sa	723573236819062786	2016-04-22T18:04:37	Now we just need this software to automatically match those ideas with patent filings &amp; submit prior art objections 
+chr1sa	723531389652611073	2016-04-22T15:18:20	One of the best things so far at PAXEast: LogitechG made a display. With their keyboards. 👍 GreatWallofLogitechG 
+chr1sa	723268726620061696	2016-04-21T21:54:36	London's Heathrow incident believed to have been a plastic bag, not a drone. 
+chr1sa	723233128290996224	2016-04-21T19:33:09	kkeshavjee Having now done this since 2009, I think any observable benefits long ago reached diminishing returns.
+chr1sa	723224314833592320	2016-04-21T18:58:08	cyberized Lots: "What should I do to sleep better?" "How can I get better mileage?" "How to use less electricity?" Etc. No useful answers
+chr1sa	722981356368588802	2016-04-21T02:52:42	Bill Clinton gives the longest "manologues " I've ever lived through. "How to Explain Mansplaining" 
+chr1sa	722953008640708610	2016-04-21T01:00:03	Good advice; cable modem rental is a ripoff: "Buy your own cable modem &amp; save $120yr while getting faster Internet": 
+chr1sa	722945291465306113	2016-04-21T00:29:23	joshu ataussig I had a countdown clock going until someone said that. Actually took 47 minutes longer than expected. Step it up people!
+chr1sa	722922587135680512	2016-04-20T22:59:10	JawboneSupport jamesbmeigs Yes, but not quite as comprehensibly displayed. Perhaps correlation w/ rank was not as strong
+chr1sa	722919797973856256	2016-04-20T22:48:05	jamesbmeigs Jawbone My guess is both. Shame the data doesn't include total sleeptime, rather than just bedtime.
+chr1sa	722916258597838848	2016-04-20T22:34:01	Interesting research from Jawbone on students &amp; sleep. Better schools = later bedtimes  
+chr1sa	722913421482598400	2016-04-20T22:22:45	azeem That's the meta-omission
+chr1sa	722912549964910592	2016-04-20T22:19:17	My top 3 head-slapping missing bits from Google apps: can't insert a date in Docs, can't embed a chart or non-YouTube video in Slides
+chr1sa	722846008158216194	2016-04-20T17:54:52	The history of fire is fascinating, especially our conflicted relationship with it. New word: "Pyrocene". longnow 
+chr1sa	722808454998458370	2016-04-20T15:25:39	The Internet of Telephones, Stockholm, 1890 (h/t MustWe) 
+chr1sa	722796526871781377	2016-04-20T14:38:15	HartzDaniel23 Thanks!
+chr1sa	722635753306492928	2016-04-20T03:59:24	.Dronecode-powered tractor!   Details:  …
+chr1sa	722631969658408961	2016-04-20T03:44:22	Amazing 1-hour flight time with 1Kg payload (Dronecode-based electric heli).  
+chr1sa	722612352114233344	2016-04-20T02:26:24	US Department of Interior buys big fleet of Dronecode copters and planes   
+chr1sa	722584036397285376	2016-04-20T00:33:53	Agree. My 2012 Air battery is getting feeble, but can't see enough innovation to upgrade yet. Maybe WDC in June? 
+chr1sa	722572308443824128	2016-04-19T23:47:17	Chinese drone developers: join us in Beijing next week for free Dronecode unconference:  
+chr1sa	722525131399008258	2016-04-19T20:39:49	Very nerdy but if you're into metal 3D printing: good research on whether it's smart to reuse unused powder (yes): 
+chr1sa	722522232673554432	2016-04-19T20:28:18	johnwbradley Thanks!
+chr1sa	722519082931585024	2016-04-19T20:15:47	johnwbradley Makes sense. Was there a sidebar to that piece that specified which of the 16 didn't pass the test and which did?
+chr1sa	722517472318873600	2016-04-19T20:09:23	johnwbradley Am I misreading? "I settled on a few that made me not just fitter athlete but also more effective worker &amp; better husband"
+chr1sa	722509761485217792	2016-04-19T19:38:45	patrickdijusto Dang. Link?
+chr1sa	722509612868435969	2016-04-19T19:38:09	pkedrosky I even did a '09 Wired cover. Thesis:u can only manage what u can measure. Wrong in time, also direction? 
+chr1sa	722492869773234176	2016-04-19T18:31:38	True that the unexamined life is not worth living, but equally true that a too  examined life is not really lived.  
+chr1sa	722500829509332993	2016-04-19T19:03:15	chr1sa Exciting update: latest drone cinematography research from Stanford, powered by 3DRobotics drones  ☺️🙇🔬
+chr1sa	722454878140964864	2016-04-19T16:00:40	8:55am on day 2, Solo is going up with the HoverflyTech tether - will not come down until late this afternoon! 
+chr1sa	722453896443125761	2016-04-19T15:56:46	FAA administrator Huerta, "Today there are over 425k recreational drone operators who have registered. " 
+chr1sa	722456862243688448	2016-04-19T16:08:33	Written by the perfect author for this subject: kevin2kelly 
+chr1sa	722449149971537920	2016-04-19T15:37:54	"We have 1,800 employees, and about 10 aren't millennials.  I need to abstract our ERP system behind a layer of delight."  Soul Cycle CTO
+chr1sa	722424975240654848	2016-04-19T14:01:50	AdoramaTV EXCLUSIVE! Exciting new announcements from 3DRobotics at NABShow. 📺:  🙌🙌 
+chr1sa	722319314649550848	2016-04-19T07:01:59	What does a "vice-president of reality capture" do?  
+chr1sa	722309238211485696	2016-04-19T06:21:56	Insane tiny Chinese camera drones w/ huge controllers. Soon: dust-drones with wall displays  
+chr1sa	722252298718543872	2016-04-19T02:35:41	Google provides a new glimpse of its delivery drone in new video and it looks a lot like Amazon's latest device. 
+chr1sa	722221385062297602	2016-04-19T00:32:51	Lots of new 3DRobotics Solo tech at NAB: VR, thermal &amp; multispectral cameras, tethered power for unlimited flight 
+chr1sa	722195835799408641	2016-04-18T22:51:19	Look at this crazy ass technological arms race when it comes to maybe hiding secret motors in Pro Racing bicycles. 
+chr1sa	722109933408260098	2016-04-18T17:09:58	Agumented reality, rewind, geofencing, more. "3DRobotics Announces Transformative New Software for Solo" 
+chr1sa	722099449644716032	2016-04-18T16:28:19	I still think Apple should buy Audi from struggling VW. "Apple Car reportedly being developed in secret Berlin lab" 
+chr1sa	721924481879379968	2016-04-18T04:53:03	Wow -- that's a first 
+chr1sa	721866554128728065	2016-04-18T01:02:52	Amazon,  it's time for you to create a proper app store for Alexa Skills. 62 pages of this randomness won't do 
+chr1sa	721859869519646720	2016-04-18T00:36:19	mattcutts pkedrosky benhuh hunterwalk I get Andre Agassi, but never on the tennis court
+chr1sa	721853022611972096	2016-04-18T00:09:06	Using a 3DRobotics Solo for river and forest conservation research 
+chr1sa	721836995941543937	2016-04-17T23:05:25	Loading up the autonomous go-kart for a day of testing with carlbass. Just a month till  
+chr1sa	721426728711630849	2016-04-16T19:55:10	Day 3 of Ning's outages. Not even trying to update or predict resolution anymore 
+chr1sa	721367371173089280	2016-04-16T15:59:18	chr1sa Gordon Bell recently came to the same conclusion 
+chr1sa	721414715113545728	2016-04-16T19:07:25	bryce Among other things what methods would help me sleep better. But sleep data is so poor, can't correlate with actions
+chr1sa	721198400150966274	2016-04-16T04:47:52	After many years of self-tracking everything (activity, work, sleep) I've decided it's ~pointless. No non-obvious lessons or incentives :(
+chr1sa	721046906101563393	2016-04-15T18:45:53	autonomike I'd argue that an octopus has an alien intelligence to our own. Not extraterrestrial, just non-mammalian (but still intelligent)
+chr1sa	721026569381097473	2016-04-15T17:25:04	AI is more "alien intelligence" than "artificial intelligence". What AI becomes won't resemble human thinking. We may not even recognize it
+chr1sa	721018759222325248	2016-04-15T16:54:02	Why companies are racing to make highly detailed maps for robotic vehicles  
+chr1sa	721018842604961793	2016-04-15T16:54:22	Grrr. Day 2 of ning's outage, which screwed up DIYDrones home page. No longer even giving fix updates: 
+chr1sa	720719599180718080	2016-04-14T21:05:17	.ning has been down all day and took DIYDrones with it -- ugh. Status here: 
+chr1sa	720704536441016323	2016-04-14T20:05:26	selfracingcars Promise? Define "into Mario Kart". Would banana dispenser do it?
+chr1sa	720702373648142336	2016-04-14T19:56:50	New 3DRobotics lounge looks great, cost almost nothing. Key: $14 Ikea fabric canopies:  
+chr1sa	720701154473029632	2016-04-14T19:51:59	This is the crash test dummy for our autonomous gokart entry in   next month cc joshu 
+chr1sa	720692594724896768	2016-04-14T19:17:59	.Inventables lets you crowdfund purchase of a Carvey for your school  (my 8yo loves ours) 
+chr1sa	720690812309229568	2016-04-14T19:10:54	What AirMap’s $15m Raise Means for the Drone Ecosystem (we're super happy 3DRobotics is part of that) 
+chr1sa	720646518655438848	2016-04-14T16:14:53	ponyxprs65 colinguinn New shots come out every month. I think Pano is next
+chr1sa	720640663855833090	2016-04-14T15:51:37	Filling the void left by Kiva’s 2012 acquisition by Amazon therobotreport 
+chr1sa	720327072149671936	2016-04-13T19:05:31	Check out 3DRobotics &amp;  chr1sa in VR on my Discovery VR show on the app or  thepotentialists
+chr1sa	720330697873838081	2016-04-13T19:19:56	My favorite band (Ladytron, which was led by Reuben_Wu) meets my favorite drone (3DRobotics Solo) 
+chr1sa	719950500821475329	2016-04-12T18:09:10	rstephens kwiens QR codes for *me* to scan when I'm called in to fix my mom's machine
+chr1sa	719916277515444224	2016-04-12T15:53:10	rstephens That's definitely going on my new business cards
+chr1sa	719916003426115584	2016-04-12T15:52:05	rstephens Are you sure they do nothing w/ info? Or might it actually statistically inform &amp; improve product over time? (I can imagine both)
+chr1sa	719915098928590848	2016-04-12T15:48:29	rstephens Interesting. I haven't tried myself, but if you google the info in a current BSOD crash error report, is it actually useless?
+chr1sa	719914471880151040	2016-04-12T15:46:00	rstephens Are crash reports for non-tech people? Are non-tech people unable to use QR codes? (these are honest questions -- I don't know)
+chr1sa	719914251826036736	2016-04-12T15:45:07	rstephens It may be that they can't fetch the plain english explanation online due to the crash.  Dynamic error code lookup tables
+chr1sa	719912925301833728	2016-04-12T15:39:51	rstephens That actually seems really smart. What am I missing?
+chr1sa	719896786966413312	2016-04-12T14:35:43	Devastating critique by BBC of anti-GMO complaints. Worth reading in detail, it's so comprehensive.  
+chr1sa	719767130581827584	2016-04-12T06:00:31	A Global Hawk protecting the Canadian border on a Monday night. 
+chr1sa	719880301141471232	2016-04-12T13:30:13	This Maker put a drone autopilot into his tractor to make it autonomous:  
+chr1sa	719637273139027968	2016-04-11T21:24:30	Introducing ArduSub, the latest member of the Dronecode family  
+chr1sa	719559982740426754	2016-04-11T16:17:23	Inventables She loves watching Carvey work. She's learning a lot about materials and which tool is best for the job 
+chr1sa	719380850895249408	2016-04-11T04:25:34	thefonso elonmusk As ANI vehicles move to cloud robotics they are quickly starting to use AGI technology, including general image analysis
+chr1sa	719379426757058560	2016-04-11T04:19:55	j0nlussier Yes, they're shipping. I'm doing multiple 3-axis passes, with 2-axis rotations in between
+chr1sa	719347195103674368	2016-04-11T02:11:50	seven groups confirmed for the selfracingcars days, including two whole vehicle teams. woot
+chr1sa	719348117682790400	2016-04-11T02:15:30	johnabella Totally. Standard materials, standard fixturing and closed-loop controls would make all the difference
+chr1sa	719347460703817728	2016-04-11T02:12:54	Great progress report from Dronecode's PX4 team. Cutting-edge object avoidance and simulation 
+chr1sa	719338471383441408	2016-04-11T01:37:10	msenese Either insanely boring or live-action catastrophe, probably involving injury &amp; certain humiliation. Let me dial it in 1st
+chr1sa	719335821283725313	2016-04-11T01:26:39	Meanwhile,  3-axis CNC is now so easy a child can do it (thx Inventables!) She did headboard for American Girl bed 
+chr1sa	719334929222410240	2016-04-11T01:23:06	Cutting my first design on a 5-axis CNC. At least 15x more complicated than a 3-axis. Like programming in assembly 
+chr1sa	718940078265880576	2016-04-09T23:14:06	joshu How about zapping SLA printer resin with laser in mid-drop?
+chr1sa	718938172269264898	2016-04-09T23:06:32	qDot We've got a few at 3DR in Berkeley if you want to swing by
+chr1sa	718453122658615296	2016-04-08T14:59:07	A book of great fantastic parenting hacks that might help you (and your kids) stay sane.  
+chr1sa	718929917853835264	2016-04-09T22:33:44	joshu Lead, if you've got a shot tower. 
+chr1sa	718891250913415168	2016-04-09T20:00:05	Rather than use AI to make its search better, Google is using search to make its AI better. theinevitable 
+chr1sa	718871458819153920	2016-04-09T18:41:26	chr1sa elonmusk in some ways it is like preparing to b a parent: we are raising something greater than ourselves, let's not mess it up
+chr1sa	718871145299124224	2016-04-09T18:40:11	chr1sa elonmusk he is for AI, but wants a framework that prepares humans for the possibility of super AI.
+chr1sa	718187771261816832	2016-04-07T21:24:42	Got the new ParentHacks book. Clever &amp; useful! Real life tips fro real parents!  
+chr1sa	718624482345111552	2016-04-09T02:20:02	paulkoan GreatDismal elonmusk Or not feared. See kevin2kelly's The Inevitable
+chr1sa	718586561437114368	2016-04-08T23:49:21	nabeel First they platooned &amp; I said nothing. Same for autovalet. But when they started predictively deploying in front of the schools...
+chr1sa	718578986440220672	2016-04-08T23:19:15	I'll be right there at the starting line w/carlbass. Our autonomous electric gokart is fast &amp; SO crash-tested. Ouch 
+chr1sa	718566788611514368	2016-04-08T22:30:47	nabeel elonmusk Don't you think industry trend towards cloud robotics blurs that distinction? Strong AI in cloud guiding weak AI in car
+chr1sa	718565914803773440	2016-04-08T22:27:19	deftbeta Define "fun". Our drones can goal-seek. Goals can vary and interpretation of goal can be unpredictable
+chr1sa	718559861642924034	2016-04-08T22:03:15	deftbeta elonmusk... (depending on your definition of "decide")
+chr1sa	718559497438900224	2016-04-08T22:01:49	deftbeta elonmusk None. Ours did the former yesterday and do the latter today
+chr1sa	718556889223528448	2016-04-08T21:51:27	Can someone help me reconcile elonmusk's concern about AI with his embrace of autonomous cars? They're on the same continuum
+chr1sa	718547879644647425	2016-04-08T21:15:39	It's getting hard for science fiction films to catch up with the present, much less predict the future.
+chr1sa	718530015550279680	2016-04-08T20:04:40	chr1sa And it's worth noting that the 2016 FAA forecast is just for commercial drones. Consumer drones are already at least 2x that
+chr1sa	718522855105761280	2016-04-08T19:36:12	Rise of civilian drones took FAA by surprise (just as the Internet surprised FCC 20yrs ago)   
+chr1sa	718502544075530243	2016-04-08T18:15:30	Excellent, free book w/ interviews of top AI researchers - "The Future of Machine Intelligence" by dbeyer123 
+chr1sa	718314456674148352	2016-04-08T05:48:06	At DMM_make Akiba in Tokyo. This is a super pro makerspace, with best factory-ready test equipment I've seen 
+chr1sa	718281163589173248	2016-04-08T03:35:49	This dog, which I met at the amazing DMM.Make Akiba makerspace, has a collar that tracks its emotions. It liked me? 
+chr1sa	718237476150734848	2016-04-08T00:42:13	Wrapping up dronecode unconference with Andrew Tridgell announcing mavlink 2.0 is ready with live demo! 
+chr1sa	718224343294218242	2016-04-07T23:50:02	anildash jeffjarvis Did Yahoo ever find synergies there?
+chr1sa	718223304952311808	2016-04-07T23:45:54	anildash jeffjarvis The Olds and the Kids. Is that a winning combo?
+chr1sa	718223101897654272	2016-04-07T23:45:06	BenedictEvans Would be interesting to benchmark vs same price Chromebook. Bet Chromebook wins
+chr1sa	718222055620100096	2016-04-07T23:40:56	jeffjarvis Patents?
+chr1sa	717843401610104832	2016-04-06T22:36:18	Sadly, my delight at losing Twitter's Moments is crushed: it turns out it's just because I'm in Japan today.  It's turned off here.
+chr1sa	717842464673914880	2016-04-06T22:32:35	rossini_martins Ah, yes. I'm in Japan. That explain it -- boo. So it will return when I'm back, I guess
+chr1sa	717840121152733184	2016-04-06T22:23:16	Twitter "Moments" gone from my menu bar! Am I just lucky or is this a policy shift? 
+chr1sa	717799779569274881	2016-04-06T19:42:58	.MaxCRoser reminds me of  
+chr1sa	717834950397931520	2016-04-06T22:02:43	.Dronecode "unconference" &amp; member mtng starting tomorrow in San Diego as part of the linuxfoundation conference: 
+chr1sa	717757755851800576	2016-04-06T16:55:58	Autonomous Tractor Brings In The Harvest (powered by Dronecode) 
+chr1sa	717743682548436993	2016-04-06T16:00:03	When AI arrives, its very ubiquity will hide it. theinevitable 
+chr1sa	717752623554625536	2016-04-06T16:35:35	The leader in the geospatial industry, Esri, now launching partnership with 3DRobotics using Solo drone 
+chr1sa	717519156602478592	2016-04-06T01:07:52	Big new APM:Rover code release from the Dronecode project: 
+chr1sa	717480587313954819	2016-04-05T22:34:36	Hacking a commercial drone to run open source autopilot- Dronecode APM on Parrot Bebop. Julien Beraud, Parrot ELC2016, San Diego.
+chr1sa	717441688780713984	2016-04-05T20:00:02	theinevitable  
+chr1sa	717414988307038210	2016-04-05T18:13:56	Meet the world's first autonomous race car, coming to roboracing. GTC16 
+chr1sa	717383879254876161	2016-04-05T16:10:19	High-precision RTK GPS now available for all Dronecode vehicles: copters, planes, rovers, boats, even tractors 
+chr1sa	717217011055665154	2016-04-05T05:07:15	All the big drone makers have formed a coalition to lobby for drones  
+chr1sa	717124354757124096	2016-04-04T22:59:04	ScottCher Wow! Good times. Might come back to blimps as part of an edu kit, using the C.H.I.P platform. They'll be so much smarter now.
+chr1sa	717111099397505025	2016-04-04T22:06:24	ScottCher Yikes, that was a long time ago. These ones from adafruit would probably be fine: 
+chr1sa	717107683376103425	2016-04-04T21:52:49	the irony. chr1sa's marvelous book "Free: The Future of a Radical Price" priced at $0.01  
+chr1sa	717089065753923584	2016-04-04T20:38:50	DJI, 3DR, Parrot and GoPro form new drone advocacy group  via techcrunch
+chr1sa	717069516891635713	2016-04-04T19:21:09	3DR, DJI, GoPro, and Parrot launch Drone Manufacturers Alliance.  Statement: 
+chr1sa	716036054650863617	2016-04-01T22:54:33	Introducing new version of Otherplan, our easy-to-use CNC control software for the Othermill  
+chr1sa	716993409433481217	2016-04-04T14:18:44	ryankuder Right now her DC-area preference is Hopkins, with Georgetown and GW next.
+chr1sa	716832887341846528	2016-04-04T03:40:53	Highlight of college tour to DC w/ my 17yo were White House interviews (thx whitehouseostp).  First Lady's office! 
+chr1sa	716831495634071553	2016-04-04T03:35:21	This 3D-printable American Girl doll chair came out really well:  
+chr1sa	716779409760346112	2016-04-04T00:08:23	Farmers are leading the driverless vehicle revolution. From Successful Farming magazine: 
+chr1sa	716759511906787328	2016-04-03T22:49:19	"Camera industry is healthier than ever, but 'camera company' brands aren’t participating"  
+chr1sa	716745740144418816	2016-04-03T21:54:35	In most states, it's easier to get into state universities because of quotas. But in California, it's harder: 
+chr1sa	716740858633129984	2016-04-03T21:35:11	This O’Reilly Hardware Podcast features chr1sa on the future of drones and the open source hardware movement 
+chr1sa	716479969744957442	2016-04-03T04:18:30	"Aoraki Mount Cook. Found out the Maoris used to call it Cloud Piercer... New Zealand’s greatest." JamesHustler 
+chr1sa	716423340513046529	2016-04-03T00:33:29	Arduino Releases MKR1000, IoT Development Environment, and Community Project Platform 
+chr1sa	716393270486646784	2016-04-02T22:34:00	Bad news: events in politics are outpacing satire. Good news: events in science and technology are outpacing science fiction.
+chr1sa	716320865009274880	2016-04-02T17:46:17	Best practices for using Time Lapse with Solo's Cable cam smart shot.  
+chr1sa	716324289616588800	2016-04-02T17:59:53	My fave device, but they should call it Alexa. "Inside story of how AMZN created Echo, the billion $ biz no one saw" 
+chr1sa	716282825272590336	2016-04-02T15:15:08	We're drowning in corn, with planting acres up 6% this year, near all-time record. Corn futures plunge. 
+chr1sa	716275269498224640	2016-04-02T14:45:06	China's no longer a nation of tech copycats  
+chr1sa	716046831772372992	2016-04-01T23:37:22	Cisco For sure!
+chr1sa	715990837696528385	2016-04-01T19:54:52	So did 3DRobotics 
+chr1sa	715746070358134784	2016-04-01T03:42:15	bryce You'd think. I guess difference between 90% accuracy and 98% is worth $1/min for now, but how long until that gap closes?
+chr1sa	715708173923913728	2016-04-01T01:11:40	You'd think. I guess difference between 90% accuracy and 98% is worth $1/min for now, but how long until that gap closes?
+chr1sa	715696992463138816	2016-04-01T00:27:14	What's that sign on the cell tower fence? A notice that it's now inspected by 3DRobotics Solo drones. More coming.. 
+chr1sa	715693946135916544	2016-04-01T00:15:08	bryce Mechanical Turk 
+chr1sa	715676458845274112	2016-03-31T23:05:39	bigchaz Yes, but from 3rd party: 
+chr1sa	715371128210984964	2016-03-31T02:52:22	Newest member of the Dronecode family: ArduSub (same code that powers autonomous copters, planes, cars &amp; boats) 
+chr1sa	715210894108700673	2016-03-30T16:15:39	I dare anyone to find a better conversational overview of AI than this one - smc90, stevesi, Frank Chen via a16z 
+chr1sa	715181746329747456	2016-03-30T14:19:50	Sneak peek of the new Drone360mag cover! DJIGlobal echeng CTATech chr1sa 
+chr1sa	714851707180740609	2016-03-29T16:28:22	Using drones for agriculture in the US just got a little easier. Altitude limits doubled to 400ft.  Thanks FAA. 
+chr1sa	714934250160521216	2016-03-29T21:56:22	Documentary storytelling with aerial footage tips and tricks.  
+chr1sa	714292839249682432	2016-03-28T03:27:38	Beauty in the abandoned. 🎥 by g.claasphotography on Instagram. fly3dr DroneSunday 
+chr1sa	714260327270100992	2016-03-28T01:18:26	Actually about weeds 
+chr1sa	714164614997512192	2016-03-27T18:58:07	starsandrobots On that point, see v. good cshirky podcast on sw scaling lessons from Chinese cities (cc smc90) 
+chr1sa	714162846150434817	2016-03-27T18:51:05	Speaking of sprinklers, the new OpenSprinker is highly recommended. Inexpensive, smart/connected and, yes, open: 
+chr1sa	714161948170948608	2016-03-27T18:47:31	New and improved site, servers and dev tools for Dronecode's ArduPilot project: 
+chr1sa	714156937839923200	2016-03-27T18:27:37	BTW, modern sprinklers nicely fit definition of robot: sensing, computation (through central control center) &amp; actuation in physical world
+chr1sa	714155624691400704	2016-03-27T18:22:23	kswint I have slight advantage there. My grandfather invented the automatic sprinkler and I co-created this: 
+chr1sa	714105351667187712	2016-03-27T15:02:37	Sprinklers are the perfect robot: put them where they're needed, tell 'em what to do &amp; they do it forever, unattended. Drones should do same
+chr1sa	713881014032924672	2016-03-27T00:11:11	"As world shifts from TV, mags &amp; newspapers to Internet, cultural influence shifts from NY &amp; LA to Bay Area" cdixon 
+chr1sa	713838129216688129	2016-03-26T21:20:47	If you haven't seen the Nexus trilogy of sci-fi books, ramez just won the Philip K. Dick Award for most recent one. 
+chr1sa	713849848814915584	2016-03-26T22:07:21	glengineered Yes, we give those to the kids as second phones (at 16)
+chr1sa	713827913951354880	2016-03-26T20:40:11	“I have been to more funerals than graduations”  A Mailman Handcuffed in Brooklyn 
+chr1sa	713825335192588288	2016-03-26T20:29:56	jezmck good idea. I think I've got some old Nokias I can use as punishment
+chr1sa	713810223991906305	2016-03-26T19:29:54	An adskFusion360 Easter Egg: If you zoom in just right on glass material, you can see the reflection of a warehouse 
+chr1sa	713797151738826752	2016-03-26T18:37:57	spidLL We had a B&amp;W TV with no remote, and it was uphill both ways to change the three channels
+chr1sa	713796814005084160	2016-03-26T18:36:36	michaelausems Just leads to daily pleading to unblock. Windows creates fatalistic defeatism. Parenting achievement unlocked!
+chr1sa	713795711213506561	2016-03-26T18:32:13	timcameronryan Yes, hidden agenda revealed
+chr1sa	713795524302757889	2016-03-26T18:31:29	spidLL They have lots of tech (desktop mfg, electronics, CAD, robotics) in the house so I think they'll survive Windows in their pocket
+chr1sa	713776833141997568	2016-03-26T17:17:13	john_kattenhorn 3DRobotics Yep! Event38 does a great fixed wing package w/added features: 
+chr1sa	713741399938609152	2016-03-26T14:56:25	smc90 If they turn out like you, no worries
+chr1sa	713740939513102336	2016-03-26T14:54:35	john_kattenhorn 3DRobotics No fear -- we offer stand-alone autopilots with Solo-like features for fixed wing: 
+chr1sa	713738514576187392	2016-03-26T14:44:57	zzbar So no filtering out porn sites at home, either? Or choosing age-appropriate movies?
+chr1sa	713737798306500609	2016-03-26T14:42:06	smc90 We're pretty Victorian but so far no pregnancies, felonies or even Bs. Highly filtered Net at home but they get exposure thru friends
+chr1sa	713736075076706305	2016-03-26T14:35:15	JonathanDeamer Uber is the main one for us. Ensures that the kids can always get home safely
+chr1sa	713735647253495808	2016-03-26T14:33:33	smc90 They can start when they're 18. Not too late to learn, but no longer my responsibility. We take a hardline on tech: no phones till HS
+chr1sa	713733881594130434	2016-03-26T14:26:32	Parenting pro tip: for your kid's first phone, consider a Windows phone. Lack of distracting apps is a feature, not bug. No Snapchat!
+chr1sa	713063501170884608	2016-03-24T18:02:41	Imagine if you had just woke up after having been in a coma for 25 years, and this was the first headline you saw 
+chr1sa	713730645378277376	2016-03-26T14:13:40	Really impressive video/glimpse of the future: OmniFoxAerial using 3DRobotics Solo for agriculture mapping 
+chr1sa	713728682712412160	2016-03-26T14:05:53	Why aliens are more likely to be found in non-Earth like planets. We're in "head" but most aliens are prob in "tail" 
+chr1sa	713582580239454208	2016-03-26T04:25:19	.Dronecode APM:Plane 3.5.2 released with improved VTOL plane support and smarter geofencing: 
+chr1sa	713485361452859392	2016-03-25T21:59:00	.3DRobotics uses AutodeskReCap to make way for drones in construction:  
+chr1sa	713451947643301889	2016-03-25T19:46:14	Video Friday: Robots Building Robots, EggBot Op Art, and The Beginning of T-1000  
+chr1sa	713385732610633730	2016-03-25T15:23:07	“The value is in the data, not the drone.” chr1sa talks UAVs and the open source movement:  
+chr1sa	713245775644327937	2016-03-25T06:06:59	Never ask "why?" 
+chr1sa	713245236307189760	2016-03-25T06:04:50	PS, here's a crazy easy way to remove Sharpie from a whiteboard. Just scribble over w/ dry erase marker. Who knew?  
+chr1sa	713237556792438784	2016-03-25T05:34:19	louisgray *We* use &amp; love Hangouts. It's the offsite meetings.  Was just in an unnamed office w/ a 16ft screen that nobody knew how to use
+chr1sa	713234991866466305	2016-03-25T05:24:07	It's 2016 and all my meetings still start: 1) how to connect to screen? 2) dial-in bridge? 3) is that a Sharpie or a whiteboard marker?
+chr1sa	713230771054510081	2016-03-25T05:07:21	GlennF Always say no to email interviews unless they're in five-word form. Huge time waster
+chr1sa	713214759626100736	2016-03-25T04:03:44	"Searching for patterns too large to see from the ground." Reuben_Wu 🎶: cover of Crystal Japan by DavidBowieReal. 
+chr1sa	713075752564973568	2016-03-24T18:51:22	Thanks again to everyone who joined the Drone Video Master Class w/ colinguinn. If you missed it, watch now 
+chr1sa	713053018166407170	2016-03-24T17:21:02	dgc Too good to check.
+chr1sa	712996037275717632	2016-03-24T13:34:36	This is kinda amazing: "OLO will turn your smartphone into a 3D printer for just $99" 
+chr1sa	712897955175337984	2016-03-24T07:04:52	Podcasting with Chris Anderson, drone-master 3drobotics jonbruner chr1sa Listen here:  
+chr1sa	712987500508291072	2016-03-24T13:00:41	The future of drones &amp; open source hardware  chr1sa on the O'Reilly Hardware Podcast 
+chr1sa	712860000172056576	2016-03-24T04:34:02	Love my 5-axis pocketnc CNC but OMG the UI: "First, ssh into pocketnc@192.168.7.2 on port 22". Spoiled by othermachine and Inventables
+chr1sa	712836810271920131	2016-03-24T03:01:54	.ROBO3DPrinter to be sold in 45 Staples locations across US  
+chr1sa	712772685768556545	2016-03-23T22:47:05	Maps-as-a-platform is at least as interesting as messaging-as-a-platform 
+chr1sa	712495438453018624	2016-03-23T04:25:24	Had weird "stuck delete key" prob w/PC that led to hours of debugging Arduino drivers &amp; reg edits. Turned out to be...actually stuck del key
+chr1sa	712487428531945472	2016-03-23T03:53:34	"In school you get lessons, then tests. In life you get tests, then lessons." Wisdom from my 15yo, who got it from the Internet
+chr1sa	712330146238169088	2016-03-22T17:28:35	elatable Love the feature &amp; have fully migrated from Picasa. But I miss the send-to-printing-service feature from Picasa/Picasaweb. Coming?
+chr1sa	712324224673718273	2016-03-22T17:05:04	Just realized that parrot CEO Henri Seydoux's daughter is latest Bond girl, Lea Seydoux.  
+chr1sa	710779348698185728	2016-03-18T10:46:17	Unexpected parenthacks : Leave things to read all over the house so when the passion to read explodes, they can. 
+chr1sa	710679025077751809	2016-03-18T04:07:38	.Dronecode-powered drones revolutionize ecological monitoring  via physorg_com
+chr1sa	710657244514258948	2016-03-18T02:41:05	This. Is. The Real StartupLJackson. Meet pt thanks to supersleuths bradstone &amp; ellenhuet  
+chr1sa	710615808670478336	2016-03-17T23:56:26	RoundCrab 3DRobotics Coming in next update, prob end of month
+chr1sa	710349681469956096	2016-03-17T06:18:56	What would you do differently if you had 1 year to live? How about 500 years? Are they similar? Hmm...
+chr1sa	710239281114034176	2016-03-16T23:00:14	All the cool companies are moving to East Bay: "OMC Moves to Berkeley (with Time-Lapse Video of Setup)" 
+chr1sa	710162142683475968	2016-03-16T17:53:43	I just backed sweep | Scanning LiDAR on Kickstarter 
+chr1sa	710144823332700160	2016-03-16T16:44:54	"Open" doesn't mean 100% opensource &amp; "Closed" doesn't mean 100% proprietary. Platforms just bias mix 1 way or other 
+chr1sa	709966159337156608	2016-03-16T04:54:57	Computer games teaching computers about real world. Watch for reality drift. First sign always too much lens flare.. 
+chr1sa	709938549525577728	2016-03-16T03:05:14	One of my prouder moments 
+chr1sa	709937761176793089	2016-03-16T03:02:06	It's like the notion that "Web 2.0 is Web 1.0 that works". Robo On-Demand is On-Demand that works 
+chr1sa	709820049574404096	2016-03-15T19:14:22	We've released the design files for the IRIS+! Download them for free &amp; build your own.  
+chr1sa	709798610284642304	2016-03-15T17:49:10	Genentech, ironically, looks the worst, but that may be due to a data reporting error 
+chr1sa	709798145757044737	2016-03-15T17:47:20	Yes, should have read more closely. Will edit my tweet 
+chr1sa	709794537992892416	2016-03-15T17:32:59	chr1sa Stefania_druga adafruit here's a tutorial: 
+chr1sa	709789404651347968	2016-03-15T17:12:35	Love the idea of animating papercraft with muscle wire. Easy to do tech+art project w/ kids  (via adafruit)
+chr1sa	709773368891826177	2016-03-15T16:08:52	Aviator TenacityPursuit filming with fly3dr in Turkey. 
+chr1sa	709787174405693441	2016-03-15T17:03:44	Feeling a surge of nerd pride for (almost) understanding this 
+chr1sa	709783749752283136	2016-03-15T16:50:07	Oh god. Is "cognitive" the new "neuro"...? 
+chr1sa	709764801526824960	2016-03-15T15:34:50	Thoughts about drone racing, and a quick review of 3 racing simulators. 
+chr1sa	709767074105532416	2016-03-15T15:43:51	According to clerk, most mornings my local grocery store now has more Amazon employees picking produce than actual customers.
+chr1sa	709611176947109888	2016-03-15T05:24:23	papakipos Also hairspray!
+chr1sa	709583371463032832	2016-03-15T03:33:53	The secret to getting ABS to stick to your 3D printer bed 
+chr1sa	709577746305777666	2016-03-15T03:11:32	RIP @SpoonRocket?  would be a shame. so many friends love this service.
+chr1sa	709570130057924609	2016-03-15T02:41:16	carlbass Man, keeping up with the Basses is getting hard
+chr1sa	709525773388918784	2016-03-14T23:45:01	App Developer Mag talks DroneCode with The Linux Foundation's jennifercloer:  
+chr1sa	709501397851447296	2016-03-14T22:08:09	I loved the original. One of the most original character/world in gaming.  
+chr1sa	709495559329959936	2016-03-14T21:44:57	andreasantopiet raffdandrea We already have! We work closely with the ETH team -- they're the best.
+chr1sa	709476908858281984	2016-03-14T20:30:51	ParaZero Publicly Launches Its Recovery System for Drones as Safety Regulations Take…  
+chr1sa	709462632214831104	2016-03-14T19:34:07	ANOTHER Solo App Update: Burst mode, killer FPV, Follow functions and a DroneKit Python update  via 3drobotics
+chr1sa	709461898752733185	2016-03-14T19:31:12	Testing next 3DRobotics Solo software update. Superfast GPS lock, launch from moving boat, better video. Connected HW keeps getting better!
+chr1sa	709454735053561856	2016-03-14T19:02:44	Honda's $20,440 Civic LX now offers self-driving capability for highway use 
+chr1sa	709448915330867204	2016-03-14T18:39:36	Research based on wildlife strike data:  
+chr1sa	709436345098219520	2016-03-14T17:49:40	ericgcoronel That was a custom product for BNSF.
+chr1sa	709433331666915328	2016-03-14T17:37:41	Drone market to top $12 billion by 2021 &amp; that's just hardware. SaaS/data side even bigger:  
+chr1sa	709059215634120707	2016-03-13T16:51:05	A better offer letter — 
+chr1sa	709226500403298304	2016-03-14T03:55:49	yvesbehar Epic subtweet ;-)
+chr1sa	709217947579887616	2016-03-14T03:21:49	I have seen lots of demos, but this is one of my favorites…six micro-robots pull a two-ton car…. 
+chr1sa	709152059254304768	2016-03-13T23:00:00	Get your profile lathed into a dowel, become an Escher print 10yrsago  
+chr1sa	709151142622564352	2016-03-13T22:56:22	Spotted after late-night hackathon at 3DRobotics 
+chr1sa	709060131573538818	2016-03-13T16:54:43	“Every time I see Ray Kurzweil I say ‘Ray, you’re going to die.’” — Roomba founder / Singularity doubter rodneyabrooks sxsw
+chr1sa	709058967524282372	2016-03-13T16:50:06	"Uber is largest acquirer of small business bank accounts in US today, bigger than Wells, BofA and Chase combined"  
+chr1sa	709053391872233472	2016-03-13T16:27:56	jasonpace No, just a vertical configuration. You can see some of them here: 
+chr1sa	708897513613316096	2016-03-13T06:08:32	davidharvey I use them every day for light duty. Up to 1/2" stock, aluminum and wood.
+chr1sa	708868998964707328	2016-03-13T04:15:14	Loving these $220 desktop combos of metal &amp; wood lathe, sander, drillpress &amp; mill  
+chr1sa	708854818140336129	2016-03-13T03:18:53	Take a pause. Orbit the 🌏 &amp; take in every sunset. Video from jameshustler fly3dr SoloOrbit 
+chr1sa	708530558171648002	2016-03-12T05:50:23	Added a little clarification to right axis. Also, data source for accidents is here.:  
+chr1sa	708520134504161280	2016-03-12T05:08:58	PS: all tweets about driverless cars are inspired by nabeel's amazing and very deserved big day. I, for one, welcome our robot car overlord
+chr1sa	708519324042924032	2016-03-12T05:05:45	nomadicnerd Data here: 
+chr1sa	708512016785285121	2016-03-12T04:36:42	chrisbalin 
+chr1sa	708511860597743616	2016-03-12T04:36:05	adampitchie zbirisingh source: my hat. And  
+chr1sa	708498610678210565	2016-03-12T03:43:26	Elon Musk says driverless cars must be 10x safer than drivers to be widely accepted. Here's the problem with that: 
+chr1sa	708483348264394752	2016-03-12T02:42:47	White House announces "National Week of Making" (June 17-23) with a DC Maker Faire and more: 
+chr1sa	708427201381675008	2016-03-11T22:59:41	GM Pays More Than $1 Billion for 40-person Self-Driving Car Software Startup via FortuneMagazine 
+chr1sa	708310136721281024	2016-03-11T15:14:31	leftfork 3DRobotics autodesk Details here: 
+chr1sa	708309781253984256	2016-03-11T15:13:06	Caspy7 Ooops. Forgot about that. Thx!
+chr1sa	708117310603571200	2016-03-11T02:28:17	3D model of a church in Tijuana captured by 3DRobotics Solo drone running SiteScan w/ Autodesk 
+chr1sa	708063638808961024	2016-03-10T22:55:01	This "CNC for Noobs" guide is great but still so intimidating. Shows how far CNC is from 3D printer-like adoption: 
+chr1sa	708045356286627840	2016-03-10T21:42:22	bryanffox Here's a more organic design from autodesk: 
+chr1sa	708044325683404802	2016-03-10T21:38:16	chr1sa The Verge podcast successfully set my Echo timer and tried - but failed - to get Alexa to donate to the Red Cross.
+chr1sa	708042985670180864	2016-03-10T21:32:57	A 3D-printed wing is a thing of beauty 
+chr1sa	708037937468821506	2016-03-10T21:12:53	3/ It's just a great hack. If you overpower the FM band, you can control people's homes. Maybe even a bullhorn would do it?
+chr1sa	708037517405065216	2016-03-10T21:11:13	2/ NPR autofunding itself by asking voice AIs (Alexa/Siri/OkGoogle) for donations was a joke proposal we made to Marketplace last year
+chr1sa	708036812518731777	2016-03-10T21:08:25	1/ Ponder this: NPR's radio piece about Amazon Alexa uttered her name &amp; caused her to change listeners' thermostats. 
+chr1sa	707432269917589505	2016-03-09T05:06:11	Google renames its satellite startup, Skybox Imaging, to Terra Bella and adds focus on…  
+chr1sa	707711086724653056	2016-03-09T23:34:06	Telstra is using 3DR drones for cell tower inspections.  Awesome.    
+chr1sa	707947457926148097	2016-03-10T15:13:21	kiterrob 3DRobotics It works for me. Shows up in your inbox in a min as an email from Colin Guinn, our CRO. Check spam folder?
+chr1sa	707706348947972096	2016-03-09T23:15:16	Free Aerial Photography ebook from 3DRobotics 
+chr1sa	707672756465176576	2016-03-09T21:01:47	Solo is ready to map the world in 3-D.  by michaelgrothaus via FastCompany 
+chr1sa	707593653393313794	2016-03-09T15:47:28	Alfaderen Yikes. Didn't know that -- thanks. Masks from now on!
+chr1sa	707218121313091584	2016-03-08T14:55:14	The Nefertiti 3D Scan Heist is a hoax. A terrifically interesting investigation by CosmoWenman 
+chr1sa	707459721398251520	2016-03-09T06:55:16	Alfaderen Really? Link?
+chr1sa	707308598519422976	2016-03-08T20:54:45	The most impressive use of a Smart Shot we've seen so far. WesReel shows the love for Multipoint Cable cam. 
+chr1sa	707361296711159808	2016-03-09T00:24:09	303 Atmel I can't jump more than I can count,  but maybe someone better at jumping and worse at counting?
+chr1sa	707342895569764352	2016-03-08T23:11:02	jacknicas congrats - you've earned it. Never been a better time to cover them
+chr1sa	707331921693569024	2016-03-08T22:27:26	The jump rope of the future shows your skip count in mid air:  
+chr1sa	707239382672121857	2016-03-08T16:19:43	HappyInternationalWomensDay  
+chr1sa	707293758929248257	2016-03-08T19:55:47	2016 will be the year of commercial drones. We're ready! 3DRobotics Enterprise w/ Autodesk  
+chr1sa	707283495626801153	2016-03-08T19:15:00	Thx for all the safety tips on 8yos using wood lathes. She's now holding tool further back &amp; wearing tighter sleeves 
+chr1sa	707279631573856256	2016-03-08T18:59:39	The easiest-to-use CAD site, tinkercad, hits 2 million users. Plus Minecraft export! 
+chr1sa	707277183497076736	2016-03-08T18:49:55	This drone can map the world in 3-D  by michaelgrothaus via FastCompany
+chr1sa	707270072989933568	2016-03-08T18:21:40	ChrisContiPhoto 3DRobotics Correct. Should be ~200ms lag or less
+chr1sa	707239879449534465	2016-03-08T16:21:41	ChrisContiPhoto 3DRobotics Solo controller has HDMI out. Will that work?
+chr1sa	707226739001270272	2016-03-08T15:29:28	Hey DIYDrones is at 76,000 members! Let's celebrate with 20% off at 3DRobotics. Solo+Gimbal for $799!  
+chr1sa	707225582174490624	2016-03-08T15:24:53	echeng Good choice. Not great writing (at least in translation) but amazing ideas. So much mindblowery packed into 1 book &amp; there's 2 more!
+chr1sa	707100265778786304	2016-03-08T07:06:55	eduardk You've solved the three-body problem? Awesome! Link?
+chr1sa	707075713661186048	2016-03-08T05:29:21	chrismichel Looks just like you + X years and Y smoke
+chr1sa	707074927787003904	2016-03-08T05:26:14	chrismichel Is that your dad?
+chr1sa	707074808199061504	2016-03-08T05:25:45	Me: How bad could cheap chinese PLA filament be? Surely plastic is plastic. A: Completely unusable. Jammed the printer &amp; left a spidery mess
+chr1sa	707065671239077888	2016-03-08T04:49:27	If you've read The Three Body Problem, this nicely illustrates the unpredictability of such orbits 
+chr1sa	707031905980563456	2016-03-08T02:35:17	chr1sa Starting to leverage the Solo's modularity and target enterprise market - 3DRobotics partners with Sony 
+chr1sa	706530656788951040	2016-03-06T17:23:29	i'm going to start publishing studies with N=0 since they're cheap, easy to do, and statistically indistinguishable from studies w/small N
+chr1sa	706960043162279937	2016-03-07T21:49:43	Wrong kind of hands-on instruction  
+chr1sa	706919227270168576	2016-03-07T19:07:32	msenese Also note slowing growth. Almost no new makerspaces in 2015?
+chr1sa	706912596679503872	2016-03-07T18:41:11	3D Robotics partners with Sony on a drone that can map the world in 3D  via verge
+chr1sa	706889128336437248	2016-03-07T17:07:56	Love this but "Roughly half of American adults call themselves makers"? Rise Of Makerspaces  
+chr1sa	706857549652332545	2016-03-07T15:02:27	Just announced: 3DRobotics drone using adskForge to capture data &amp; process in cloud:  
+chr1sa	706729813277483008	2016-03-07T06:34:52	Results are in from Google/IEEE efficient power converter challenge ($1m prize). Winners blew past the goal. 
+chr1sa	706720904638656512	2016-03-07T05:59:28	I just backed iBoardbot. The internet controlled whiteboard robot on Kickstarter 
+chr1sa	706664064513015808	2016-03-07T02:13:36	"Recreating JurassicPark in Thailand 🐉. Perfect opportunity to get the Drone up... 🚁👍🏽." tomjauncey fly3dr 
+chr1sa	706517448376373248	2016-03-06T16:31:00	GeekMom Lisa's Secret Origin: "Ugly In The Face"  
+chr1sa	706347644885413888	2016-03-06T05:16:16	myronray visual tracking coming in Solo app soon. That's the power of the platform: lots of SW expansion potential. No need for new HW
+chr1sa	706337147263930373	2016-03-06T04:34:33	I'm starting the kids on the desktop wood lathe at 8. Everyone makes their own candlestick 
+chr1sa	706336254032351234	2016-03-06T04:31:00	It's been a LONG road (all the way back to Makerbot #140) but my 3D printers now work as reliably as 2D paper printers. Thx ROBO3DPrinter!
+chr1sa	705651683250950144	2016-03-04T07:10:46	Setting a new small/cheap/smart standard for the Dronecode stack 
+chr1sa	705455354713214976	2016-03-03T18:10:37	The video on the 3DRobotics web site   says so much about the future of entertainment and personal sharing
+chr1sa	705219688825946114	2016-03-03T02:34:10	dapplestone othermachine PS -  I'm using the Windows version. No Cmd key
+chr1sa	705208696905707520	2016-03-03T01:50:30	dapplestone othermachine Loving this so far. But sometimes hard to reach w/ allen key &amp; Otherplan doesn't always offer option to unload
+chr1sa	704909757765832705	2016-03-02T06:02:37	mhildreth I'm not sure we ever sold those as stand-alone parts, but if you send me a note at chris@3dr.com I'll have the team send you one
+chr1sa	704908935250223105	2016-03-02T05:59:21	mhildreth As the post said, spare IRIS+ parts will be sold through the end of March (more than 2 months). Let me know what parts you need.
+chr1sa	704902973462282241	2016-03-02T05:35:39	mhildreth 250+ SKUs were retired as part of ending TJ mfg, of which IRIS+ was just one. Later posts gave details 
+chr1sa	704807856621551616	2016-03-01T23:17:42	Drone Video Masterclass with yours truly is filling up fast! Go register!   
+chr1sa	704885116485566464	2016-03-02T04:24:42	mhildreth 3DRobotics It is. We announce changes in DIY products on our community site: 
+chr1sa	704853114164113408	2016-03-02T02:17:32	mhildreth 3DRobotics Yes,  announced in November last year
+chr1sa	704838160539226112	2016-03-02T01:18:07	mhildreth 3DRobotics Amazon,  etc. Livechat designed to be *better* than phone
+chr1sa	704834550883430401	2016-03-02T01:03:46	mhildreth We provide great real-time livechat &amp; email support. Livechat provides transcript to user for better service! Have you tried it?
+chr1sa	704697827415494656	2016-03-01T16:00:29	Drones Have Reached a Tipping Point  via PeterDiamandis singularityhub chr1sa 3DRobotics 
+chr1sa	704437453831012353	2016-02-29T22:45:51	Our U.S. pricing on Solo has dropped! Order now &amp; get free shipping: ! 
+chr1sa	704433640097251328	2016-02-29T22:30:42	leonjacobs LaughingSquid how?
+chr1sa	704362000185294848	2016-02-29T17:46:01	Short answer: Zebras aren't really social/herd animals, while horses are. Similar on outside, but not inside 
+chr1sa	704119185656279041	2016-02-29T01:41:10	The wearables market dates back to Polar's first heart rate monitors in the 1970s  
+chr1sa	704074261682475008	2016-02-28T22:42:39	Those little Samsonite vanity kits from ANA airlines + a little Lego make a great rollaboard for American Girl dolls 
+chr1sa	704023150057623552	2016-02-28T19:19:33	really awesome  "Japans ageing population, animated with R" 
+chr1sa	704023240373473280	2016-02-28T19:19:55	The Dronecode project goes underwater w/ new "ArduSub" code:  …
+chr1sa	704000418460753920	2016-02-28T17:49:14	Has netflix repudiated the Long Tail strategy completely?  (they only had 1 Katherine Hepburn film when I searched)
+chr1sa	703774067887706112	2016-02-28T02:49:47	smc90 Begin here: "10. John and I wasted 15 years eating macrobiotic and drinking soy milk, when all I wanted was a little half-and-half."
+chr1sa	703718658640470016	2016-02-27T23:09:37	Also introduced me to the verb "spatialize". As the Internet extends to measure the physical world,  we superimpose the data layers on maps
+chr1sa	703717979096092672	2016-02-27T23:06:55	Back from mindblowing Esri GIS conf in DC. "Geography is an integrative discipline,  a lens on all the other 'ologys' - biology,  ecology"
+chr1sa	703356508042612736	2016-02-26T23:10:33	chr1sa 3DRobotics just awesome. The last 2 updates have transformed the Solo to be even more awesome. fly3DR
+chr1sa	703324650760048640	2016-02-26T21:03:58	Announcing Solo Update 2.1.0: even more GoPro control (exposure)  via 3drobotics
+chr1sa	703273966970875905	2016-02-26T17:42:34	The360Company colinguinn I've escalated
+chr1sa	702588777173270528	2016-02-24T20:19:52	FAA announces task force,  co-led by 3DRobotics,  to bring commercial use of  "micro"  (&lt;2kg) drones 
+chr1sa	702199577013788672	2016-02-23T18:33:20	dapplestone carlbass ericwilhelm othermachine Awesome. Ordered!
+chr1sa	701598997174063104	2016-02-22T02:46:50	tomcoates When the going gets weird, the weird get going
+chr1sa	701490771032014848	2016-02-21T19:36:47	uAvionix Announces Collaboration with the Dronecode Foundation  
+chr1sa	701300070814121984	2016-02-21T06:59:01	.jennifercloer of The Linux Foundation talks abt the importance &amp; direction of DroneCode:  
+chr1sa	701209861107769348	2016-02-21T01:00:33	ImHiiiiiiiiiit Very. Best 3D printer I've ever owned. It gets used every day at work
+chr1sa	701160699767103488	2016-02-20T21:45:12	lynxorlynx Great looking store! Send me an email at chris@3dr.com and I'll get you to the right people
+chr1sa	700879177814159361	2016-02-20T03:06:32	Amazing drone demo at TED from Raffaello D'Andrea from ETH 
+chr1sa	700845865628360704	2016-02-20T00:54:10	reBang I tried to test this back in 2012 with a Warhammer base, but they didn't ome after me 
+chr1sa	700834193085845504	2016-02-20T00:07:47	reBang Weird. I would have thought this would be a great topic for an ambitious and forward-looking law professor. No law review papers?
+chr1sa	700821394125291520	2016-02-19T23:16:55	reBang Great tweetstorm, but I'm hungry for more on these cases and precedent value. Can you suggest further reading?
+chr1sa	700795009033854978	2016-02-19T21:32:04	dariusvasefi 3DRobotics Yes, it's already built into our retail kiosks 
+chr1sa	700740138461102080	2016-02-19T17:54:02	The Solo Flight Simulator app is out. Hone your drone flying skills anytime, anywhere.  
+chr1sa	700706004103618560	2016-02-19T15:38:24	DrewMannTN New software update solved those issues, so go for it. Great price now, too!
+chr1sa	700561881866448896	2016-02-19T06:05:43	flytengu "If it becomes popular?" They're half of US classroom computers already: 
+chr1sa	700558935887994880	2016-02-19T05:54:00	skift rafat Sigh. "It's"
+chr1sa	700558286383263744	2016-02-19T05:51:25	You only need 1 PC adware/malware infection before you'll be convinced: switch to a Chromebook/Chromebox. We've switched the whole household
+chr1sa	700543801589239809	2016-02-19T04:53:52	Wait, isn't this the plot of The Three Body Problem?  
+chr1sa	700119226342723584	2016-02-18T00:46:45	Amazing solar-powered launch hanger for autonomus 3DRobotics drones 
+chr1sa	699975724497698816	2016-02-17T15:16:32	Funding per Internet of Things Category 
+chr1sa	699681406016843776	2016-02-16T19:47:01	The rise and fall of cameras 
+chr1sa	699350464639299584	2016-02-15T21:51:58	Eight Sobering Lessons for Hardware Startups From The Hoverboard Craze  via techcrunch
+chr1sa	699056574573191168	2016-02-15T02:24:09	A digital, 3D printed sundial whose precise holes cast a shadow displaying the current time  
+chr1sa	699022795854868480	2016-02-15T00:09:56	eichin Sure, could go back further (I started DIYDrones in 2007!) but they didn't hit consumer mainstream (big box retail) until recently
+chr1sa	698988920873168896	2016-02-14T21:55:19	Is there a Twitter app that automatically reposts predictions when their time expires?  Could there be one? 
+chr1sa	698970659452379136	2016-02-14T20:42:46	This is exactly the plot of doctorow's Makers 
+chr1sa	698952861795758080	2016-02-14T19:32:02	Gamified drones will be one of the biggest toy trends of the year  via mashable
+chr1sa	698945082674688000	2016-02-14T19:01:08	.Mattel and Autodesk team up to make a $300 3D printer for kids  … 
+chr1sa	698937410533658625	2016-02-14T18:30:38	Is 3D Carving the New 3D Printing?  engineering 
+chr1sa	698943257959530497	2016-02-14T18:53:53	From military industrial complex to Barbie in &lt;5 years.  Has there ever been a faster swords-to-plowshares story? 
+chr1sa	698939209944436736	2016-02-14T18:37:47	Valentine's day: when you wake up for a weekend work shift and your spouse has made you a Lego machine shop. 
+chr1sa	698682431629463552	2016-02-14T01:37:27	Experience with newmatter 3D printer so far: I like Wifi control, but prints are mediocre &amp; and it's excruciatingly slow. Looks pretty tho
+chr1sa	698612908255612934	2016-02-13T21:01:11	Manned Multicopter Project Undaunted By Crash 
+chr1sa	698613366999400448	2016-02-13T21:03:00	The ChemBros just raised the bar with a CG dancer:  
+chr1sa	698586430440759296	2016-02-13T19:15:58	chr1sa Discovery raypride Chris, I unpaywalled this article on editing VR by brillhart just for you. 
+chr1sa	698604992089882624	2016-02-13T20:29:44	thesithorder66 No, it has a pretty small build platform
+chr1sa	698597535032545280	2016-02-13T20:00:06	Just got newmatter 3DR printer, which has same model as OfficialCricut cutter: beautiful, inexpensive HW, hope to make money from content
+chr1sa	698580150275821569	2016-02-13T18:51:01	Andy Rubin Unleashed Android on the World. Now Watch Him Do the Same With AI  via WIRED
+chr1sa	698577868939374593	2016-02-13T18:41:57	Shock lesson from my first VR interview (with Discovery): you can't edit VR! Due to need for 360 continuity, everything has to be in 1 take
+chr1sa	698282755038146560	2016-02-12T23:09:16	Wow! Check out our guys putting Multipoint Cable cam to the test at a recent shoot. The possibilities... 👌🏼 
+chr1sa	698274355944361984	2016-02-12T22:35:54	This is what we're making with our OfficialCricut this weekend: Candy Hugger Valentines  
+chr1sa	698243840327573504	2016-02-12T20:34:38	DARPA uses 3DRobotics-powered drone to autonomously navigate warehouses FAST.  
+chr1sa	698200244077486080	2016-02-12T17:41:24	"...Allow for smaller objects to move past you, otherwise the element of motion is lost to the viewer." Reuben_Wu 
+chr1sa	698195704456425472	2016-02-12T17:23:22	I'd add 1 thing: Nokia was captured by the carriers (network equip was half the biz). Apple could focus on consumers 
+chr1sa	698182805688193025	2016-02-12T16:32:07	Great article about Esri and founder Jack Dangermond  
+chr1sa	698029093078507521	2016-02-12T06:21:19	Multispectral imagery from new Parrot Sequoia precision ag camera &amp; 3DRobotics Solo drone  
+chr1sa	697989146246123520	2016-02-12T03:42:35	this is the Olympic bobsled track, at night, from 300ft fly3dr 
+chr1sa	697864808960385025	2016-02-11T19:28:30	Releasing Solo 2.0, Our Biggest Feature Update Yet: Multipoint Cablecam, Airspace info, Free Look, more  3DRobotics
+chr1sa	697665132755685376	2016-02-11T06:15:04	The point you can really understand something in tech is normally the point it stops being interesting. So, curiousity is everything.
+chr1sa	697633680211050497	2016-02-11T04:10:05	Washington DC's 30-miles-from-the-White-House drone ban has been dialed back to the original 15 miles: 
+chr1sa	697443311737409536	2016-02-10T15:33:38	Most delightfully unexpected use of a 3DRobotics Pixhawk autopilot 
+chr1sa	697161619479138304	2016-02-09T20:54:17	The "stentrode". Fed through a neck vein to collect data from brain without opening skull  
+chr1sa	697211212438728704	2016-02-10T00:11:21	Leap of net neutrality from "carriers shall not charge some content more" to "poor people shall not get free partial Internet" = astounding.
+chr1sa	697172806883282944	2016-02-09T21:38:44	Look ma, no hands! Watch a 3DRobotics drone fly using only a voice &amp;  amazonecho  chr1sa 
+chr1sa	697080838102450176	2016-02-09T15:33:17	Intel creates Dronecode User Experience Studies series 
+chr1sa	696940921926119424	2016-02-09T06:17:18	New logo for Dronecode. Spread it around 
+chr1sa	696827654645948418	2016-02-08T22:47:13	"I'm the 38th author..." "Wow, that sucks." "I hadn't finished. I'm the 38th author called "Wang"." "Oh." 
+chr1sa	696910350235607041	2016-02-09T04:15:50	.FAANews: More registered drone operators than registered manned aircraft 
+chr1sa	696792729242591232	2016-02-08T20:28:27	Spoiler alert: it worked great. No drones entered The Zone 
+chr1sa	696541223880790016	2016-02-08T03:49:03	Voice Controlled Drone with Amazon Echo and 3DRobotics IRIS+ 
+chr1sa	696522623857995776	2016-02-08T02:35:08	Latest Dronecode code development and user stats. This thing is getting big!  
+chr1sa	696488201481916416	2016-02-08T00:18:22	Most thought-provoking Sci-Fi book I've read in yrs is "The Three Body Problem" by Cixin Liu. Physics+SETI+China.  …
+chr1sa	696477919598612481	2016-02-07T23:37:30	Keep your eyes peeled &amp; you might see our own colinguinn on the Jumbotron! SuperBowl50
+chr1sa	696473046995963904	2016-02-07T23:18:08	pmarca Yes, but note how much of that starts in closed gardens (Twit, FB) that web crawlers don't see. Web tech, sure, but not the open web
+chr1sa	696470992546369536	2016-02-07T23:09:59	pmarca Social &gt; Web for the father of the Web. thewebisdead
+chr1sa	696453453866999811	2016-02-07T22:00:17	Experience for yourself the sense of accomplishment that comes with hobbyist 3D printing. 
+chr1sa	696128768327491584	2016-02-07T00:30:06	Same world, different perspective. Captured by Reuben_Wu fly3dr 
+chr1sa	695762028854575104	2016-02-06T00:12:48	Agree. Alexa/Echo fulfills promise of what Nest etc supposed to do (trojan horse to central command center for home) 
+chr1sa	695831806680047616	2016-02-06T04:50:05	I'm suddenly interested in golf 
+chr1sa	695732671041830912	2016-02-05T22:16:09	sarahcuda Thanks for speaking at BHS! I've got 2 kids there now and 3 more in the pipeline. Econ program there is top notch (college level)
+chr1sa	695019950402965504	2016-02-03T23:04:03	josephflaherty DIYDrones thanks. Short form: "Industrialize your hobbies"
+chr1sa	695008703309680640	2016-02-03T22:19:22	Big milestone for DIYDrones today: it hit 75,000 members, which I think makes it the biggest robotics community in the world
+chr1sa	695006265341120512	2016-02-03T22:09:40	Is freemium a "trail of tears" (Evernote, etc)? Nope, says Ross, because it scales 
+chr1sa	694975357523353600	2016-02-03T20:06:51	FPV drone racing: Come for the girlfriend-repellent gear, stay for the motion sickness 
+chr1sa	694914146098237440	2016-02-03T16:03:37	Flying over a stadium will get more than a penalty flag on game day. See FAANews b4ufly app for more. SuperBowl 
+chr1sa	694956591016116224	2016-02-03T18:52:17	al518 You mean this one? (). Should be back in stock tomorrow or Fri
+chr1sa	694771830251352064	2016-02-03T06:38:07	hanktoet Sorry to hear that. Please email me at chris@3dr.com and I'll have it escalated
+chr1sa	694407382177165314	2016-02-02T06:29:56	Let’s Fix Startup Board Meetings  from jcal7
+chr1sa	694271949376196609	2016-02-01T21:31:46	Alphabet passes Apple as most valuable firm after hours. Finally, software eats the world! pmarca BenedictEvans 
+chr1sa	694034776181768192	2016-02-01T05:49:19	First project with our new Inventables Carvey. Great out of the box experience &amp; easiest CNC I've ever used. Winner 
+chr1sa	693994292029706240	2016-02-01T03:08:27	Hell hath no fury like a free user. But that's nothing compared to $0.99, the perfect storm of infinite expectations &amp; negligible revenues
+chr1sa	693992937093369856	2016-02-01T03:03:04	toxi Totally. Hell hath no fury like a free user
+chr1sa	693992793933348864	2016-02-01T03:02:30	danielbertner toxi Just wait ;-)
+chr1sa	693990398255968256	2016-02-01T02:52:59	johnath For Enterprise/VAR customers for sure. SLAs are standar with them, and they're happy to pay for service and support
+chr1sa	693977488750292992	2016-02-01T02:01:41	The problem with selling DIY products is that non-DIY people can buy them. Support for anything that isn't plug-and-play can be crippling.
+chr1sa	693931033549361152	2016-01-31T22:57:05	“We’re in a brave, new post open source world” by nayafia 
+chr1sa	693930639356112896	2016-01-31T22:55:31	mbrassette xCraftUAV Sadly yes. Nice design but near impossible to fly manually: 
+chr1sa	693901420542631937	2016-01-31T20:59:25	Fully autonomous VTOL mission with Dronecode PX4 code 
+chr1sa	693751740823441409	2016-01-31T11:04:38	Love this from chr1sa Makers: 'Buy 1 &amp; you're not just buying a (3D) printer - you're buying a front row seat to a cultural transformation'
+chr1sa	693283122738167810	2016-01-30T04:02:31	Gorgeous crater photography from LadytronMusic co-founder Reuben_Wu  
+chr1sa	693279452126584832	2016-01-30T03:47:56	New Dronecode APM:Plane software released, adds support for Qualcomm Snapdragon chips, quadplanes, more: 
+chr1sa	692800611172032512	2016-01-28T20:05:11	Great example of using 3DRobotics Dronekit SDK in STEM education 
+chr1sa	692724576522993664	2016-01-28T15:03:03	Introducing the Bit Fan, a New Othermill Accessory You Can Make  
+chr1sa	692519292462600192	2016-01-28T01:27:20	Orbit action as nuriagoma takes to the water to do what she does best! wonderwomanwednesday fly3dr 
+chr1sa	692201689739321345	2016-01-27T04:25:17	Google files patent for drone 'delivery receptacle'  
+chr1sa	692046813587595264	2016-01-26T18:09:52	This past weekend we asked u to intro a character w/ SoloCablecam for Weekend Project. Loved this by @knowhereroad 
+chr1sa	692065269464698880	2016-01-26T19:23:12	hoeken lulzbot3D Probably not the best for offline
+chr1sa	692007536010997760	2016-01-26T15:33:48	hoeken lulzbot3D Fusion360
+chr1sa	691840573947449345	2016-01-26T04:30:21	Here we have Mr. Carlos Ghosn RenaultMX &amp; Nissan_MX_RP Alliance CEO´s flying a 3DRobotics drone with chr1sa 
+chr1sa	691772703859171329	2016-01-26T00:00:39	DIYDrones Thanks for the mention chr1sa. We've been using Pixhawk and other 3DR products since the beginning and couldn't be happier!
+chr1sa	691761787755204609	2016-01-25T23:17:17	GlennF The maximum pain point is $0.99. All of the entitlement of a real price but none of the revenues
+chr1sa	691759935596675074	2016-01-25T23:09:55	GlennF Think that's bad? Just try giving away software for free. No good deed goes unpunished
+chr1sa	691679761303666692	2016-01-25T17:51:20	To make a Batman style grapple gun, you could make the launched end a micro drone, so it really could loop around gargoyles, later unwind.
+chr1sa	691701752400338945	2016-01-25T19:18:43	45,000 farmers get drones, Some likely to apply to FAA for proper certificates to use UAS in farm operation 
+chr1sa	691404095135944704	2016-01-24T23:35:56	At a tech conference watching telepresence bots get stuck on cables taped to carpet. Grimly smiling handlers have to lift 60lbs to clear 'em
+chr1sa	691378341383794688	2016-01-24T21:53:36	playing with some beta multipoint cable cam yesterday fly3dr 
+chr1sa	691062558523068417	2016-01-24T00:58:47	This poor woman 
+chr1sa	691151862238744576	2016-01-24T06:53:39	chr1sa sUASnews By law anyone driving a horseless carriage in London had to have a man walking in front with a red flag to warn traffic
+chr1sa	691288183670231041	2016-01-24T15:55:21	A well deserved profile of a pioneer. 
+chr1sa	691084889194500096	2016-01-24T02:27:31	Nuts. "Crop mapping drone must be escorted by manned plane"  via suasnews
+chr1sa	691082682411798529	2016-01-24T02:18:45	"My main reaction is that we sure have come a long way from “peak oil” theory." 
+chr1sa	691080086536081408	2016-01-24T02:08:26	I have talked more to Alexa than my 16yo daughter today.
+chr1sa	691075863014567936	2016-01-24T01:51:39	New app adds 14 new autonomous flight modes to 3DRobotics Pixhawk autopilot: 
+chr1sa	667880568890101760	2015-11-21T01:41:50	Smart Shots give you a crane, dolly, jib, steadicam and, of course, helicopter. Only w/ Solo  
+chr1sa	690725385160495104	2016-01-23T02:38:59	FAA Says Nearly 300,000 Drone Owners Have Registered in First 30 Days  via nbcnews
+chr1sa	690581683217661952	2016-01-22T17:07:58	codysims 3DRobotics Email me at chris@3dr.com and I'll handle
+chr1sa	690378994290663426	2016-01-22T03:42:33	2/2 But quantumracing and others are bringing an awesome new perspective to the sport w/ drone footage Cc chr1sa 
+chr1sa	690558462447644672	2016-01-22T15:35:42	timsteno Mine. Just something I've been maintaining since The Long Tail book, which first showed it
+chr1sa	690322179448143872	2016-01-21T23:56:47	Hiking and flying through the icy caves of Nairn Falls with Brian White of Boreas Aerial Imagery. fly3dr 
+chr1sa	690015208962703360	2016-01-21T03:37:00	My British self-loathing is kicking in hard. Needed a trigger warning 
+chr1sa	690013475502977025	2016-01-21T03:30:07	rms80 Painful as it may be, I suggest you embrace the "3.0" in your about screen and update the copyright to 2016
+chr1sa	690013020328697860	2016-01-21T03:28:18	eqe ah, well that makes perfect sense then. Surprised they didn't need *two* supercomputers
+chr1sa	689981569591803904	2016-01-21T01:23:20	Weirdest thing about this story is the "supercomputer" bought to run a website 
+chr1sa	689980005250678784	2016-01-21T01:17:07	its official folks -  Microchip Signs to Buy Atmel  
+chr1sa	689980831209820160	2016-01-21T01:20:24	The Web Is Dead, ev version:  (My own 6yo version of this gets less wrong by the day: )
+chr1sa	689979714929344512	2016-01-21T01:15:57	Hey Autodesk why does Meshmixer 3.0 say it's actually Ver 11.x? Does it say "3.0" anywhere?  
+chr1sa	689958768671641601	2016-01-20T23:52:43	Autodesk Meshmixer 3: What's New:  via YouTube
+chr1sa	689954092089765889	2016-01-20T23:34:08	Sgt_Ric 3DRobotics I blamed my children for that one
+chr1sa	689948384199729152	2016-01-20T23:11:28	bizzyunderscore octal 3DRobotics Also not allowed because of flight over people/built-up areas. Not shown at this resolution
+chr1sa	689939795531939845	2016-01-20T22:37:20	Why is 3DRobotics in Berkeley? Because it's the one place in Bay Area that you can fly (screen from beta Solo app) 
+chr1sa	689933190824210432	2016-01-20T22:11:05	We're at "point of panic" w/drones but still have "height of hysteria" to look forward to. Hope time scale is months 
+chr1sa	689891564110278657	2016-01-20T19:25:41	Join us Thurs 01/28 as we discuss Drones in Public Safety w/ austinfiredept. Register here:  
+chr1sa	689879610159267840	2016-01-20T18:38:11	We're excited to have Benoit Landry whose researched was used in this project on the 3DR team. 
+chr1sa	689830034366865408	2016-01-20T15:21:11	tsport100 Not for consumers, but the commercial use of mapping and scanning is even bigger than satellites
+chr1sa	689629230125068288	2016-01-20T02:03:15	Turns out that there is winter weather in winter in Germany. So much for "neither snow nor rain..." 
+chr1sa	689524158598766593	2016-01-19T19:05:44	fredrikfalkman 
+chr1sa	689490900687319040	2016-01-19T16:53:35	fredrikfalkman 
+chr1sa	686608896421670912	2016-01-11T18:01:32	SyFy promotes new show theexpanse using 3-D printable models  Clever "startup" marketing 
+chr1sa	689126658071105536	2016-01-18T16:46:13	The collapse of broadcast TV ratings. How close to zero before we stop talking about "broadcast", "TV" &amp; "ratings"? 
+chr1sa	689114820889673728	2016-01-18T15:59:11	Mama &amp; calf flippin' around the islands of Tahiti as only Solo could catch. 🐳 fly3dr Courtesy brdfrd on Instagram. 
+chr1sa	689117563066933249	2016-01-18T16:10:04	michelmoralesm TeslaBEM Thanks!
+chr1sa	688933843462533120	2016-01-18T04:00:02	Over 1.3k people supported G_RO_GO: Revolutionary Carry-On Luggage:  travel 
+chr1sa	688932300420071425	2016-01-18T03:53:54	PhaserLockInt pmarca You need a cast-iron stomach. Barfomatic in my experience
+chr1sa	688260830631071746	2016-01-16T07:25:43	Iao Valley as seen by the 3DR Solo drone 3DRobotics 
+chr1sa	688851322699927557	2016-01-17T22:32:08	Paul Kalanithi’s ‘When Breath Becomes Air’ is as powerful and beautiful as everyone says
+chr1sa	688847769046388736	2016-01-17T22:18:00	After watching one episode each of Mr Robot and Jessica Jones, they feel like the same series, just with different gender leads
+chr1sa	688789647527428096	2016-01-17T18:27:03	Wind Turbine Drone Inspection Could Be a $6 Billion Industry in Under a Decade  drones 
+chr1sa	688536864052019200	2016-01-17T01:42:35	drones, for example 
+chr1sa	688049830854172672	2016-01-15T17:27:17	Press &amp; hold: FLY // fly3dr slow-mo captured by craig.coker on Instagram 
+chr1sa	687369942304460801	2016-01-13T20:25:39	Microbiome science is a hugely important area. Stay tuned! BigBlockOfCheeseDay 
+chr1sa	687121777886019584	2016-01-13T03:59:32	Reading Free: The Future of a Radical Price by chr1sa. Wish childcare was free right now so I could finish this great book. :)
+chr1sa	686972639559077888	2016-01-12T18:06:55	. Dronecode announces 100%+ growth, adds Qualcomm as lead w/ 3DRobotics and YuneecAviation : 
+chr1sa	686941909990821889	2016-01-12T16:04:48	{NEWS} Dronecode Project Advances Unmanned Aerial Vehicles for Commercial Applications 
+chr1sa	686952984631095297	2016-01-12T16:48:49	brondmo Congrats!
+chr1sa	686744730621882368	2016-01-12T03:01:17	Paul Kalanithi's book is one of the most beautiful I've ever read. Here's an excerpt: 
+chr1sa	686659766370742272	2016-01-11T21:23:40	Disney applies to use 3DRobotics drones as "Flixels" (flying pixels) in theme park shows:  
+chr1sa	686657109887418368	2016-01-11T21:13:07	Disney Seeks Permission to Use Drones for Nighttime Entertainment at Theme Parks.  drone 
+chr1sa	686651235374505984	2016-01-11T20:49:46	David Bowie's mesmerizing mismatched eyes were due to injuries from a fight when he was 15 
+chr1sa	686650405959278593	2016-01-11T20:46:28	Solo drone extends its capabilities with a parachute and 360 degree camera  via verge
+chr1sa	686647084058034176	2016-01-11T20:33:16	Wise words from ylecun AI 
+chr1sa	686352499670781952	2016-01-11T01:02:42	yridea "fun" may be going too far
+chr1sa	686350654806212608	2016-01-11T00:55:22	Well, when you put it like that it seems so obvious 
+chr1sa	686343557242687490	2016-01-11T00:27:10	European Truck Simulator with Oculus was cool. American Truck Simulator with Oculus will be cooler 
+chr1sa	686340922829701120	2016-01-11T00:16:42	sandymaxey Of course! They were my heros
+chr1sa	686303855361921024	2016-01-10T21:49:24	Here's the poster from our 9:30 Club battle with the "other"  REM (we lost)  
+chr1sa	686303063032778752	2016-01-10T21:46:15	I'm in it ;-) 
+chr1sa	686266246703153152	2016-01-10T19:19:58	"re-submitting is much easier than actually responding to any of the criticism that the Certification team gave you" 
+chr1sa	686203476116783104	2016-01-10T15:10:32	Read this review of the most recent Wu-Tang album, then shut the internet down for the day and do other things.  
+chr1sa	686235838187978753	2016-01-10T17:19:08	“Why, Waldo, are you so likely to hide in these two narrow bands?”  via _wernicke 
+chr1sa	685961328746315776	2016-01-09T23:08:19	swang75 Thanks. I eventually found that if I hit "accept txt reading" button super fast I could get in. Clearly signup never tested on 6.x
+chr1sa	684098467816419328	2016-01-04T19:45:59	Holy crap, y’all! Peep SyFy’s model library over at Thingiverse! 
+chr1sa	685939698372460545	2016-01-09T21:42:22	Phew. Tesla's autosteer feature "now limits its use to residential roads and roads without a center divider" 
+chr1sa	685894975909834753	2016-01-09T18:44:40	bau3D Did you already have an account? I can't create an account on Nexus 5X. Keeps complaining about screens drawing on top other screens
+chr1sa	685894482730987520	2016-01-09T18:42:42	I've been getting back into guitar w/ the amazing yousician app. It can pick out each string in a chord w/ your phone mike. Sourcery!
+chr1sa	685708505261707264	2016-01-09T06:23:42	New Dronecode APM:Plane released, supports Qualcomm Snapdragon Flight hardware: 
+chr1sa	685881851571867648	2016-01-09T17:52:31	WeChat may have a bazillion users in China but it's impossible to install the English version on Android 6.x.  It can't see confirmation txt
+chr1sa	685868657549938688	2016-01-09T17:00:05	The amazing decline of Guinea worm, in one chart  
+chr1sa	685692893906911232	2016-01-09T05:21:40	New Dronecode APM:Plane released, supports Qualcomm Snapdragon Flight hardware: 
+chr1sa	685653949953781760	2016-01-09T02:46:55	Pretty disappointed by El Chapo's shoulder/back hair situation. Was expecting Khalid Sheikh Mohammed status. Weak. 
+chr1sa	685644974000488448	2016-01-09T02:11:15	NYT gives a rave review of "When Breath Becomes Air". the brilliant and heartbreaking book by Paul Kalanithi (RIP): 
+chr1sa	685532994312994816	2016-01-08T18:46:17	Child mortality in West Africa.  Explore it for all countries of the world yourself:  
+chr1sa	685314941813952513	2016-01-08T04:19:49	Lily Robotics just got $34M for the preorder of 60k units of its quadcopter drone  
+chr1sa	685321097206575104	2016-01-08T04:44:16	marshallfrith Just business partners, I'm afraid
+chr1sa	685319276123717632	2016-01-08T04:37:02	marshallfrith We do a private suite instead. More our style and better for showing cool stuff before it's public
+chr1sa	685316133004546048	2016-01-08T04:24:33	marshallfrith We never have a CES booth (we're not a consumer electronics company). We did NAB once. Is that what you're thinking of?
+chr1sa	685315030577885184	2016-01-08T04:20:10	Great for explaining Duchamp to kids: "Nude descending a staircase - Animated"  
+chr1sa	685258898857574401	2016-01-08T00:37:07	Anyone else think it's a bad idea to have a pacifier shaped charger. Paro = Not for kids. CES2016 robotsofCES2016 
+chr1sa	685224790542565377	2016-01-07T22:21:35	3DR Makes It Easier To Take Exactly The Drone Video You Want  via techcrunch
+chr1sa	684922422798237696	2016-01-07T02:20:05	3DR's Made for Solo program does 360-degree video on a budget  
+chr1sa	685167886860587008	2016-01-07T18:35:28	New software for 3DRobotics Solo adds amazing multipoint cablecam, improved FollowMe, AirMapIO safe flight zones 
+chr1sa	685162334378192896	2016-01-07T18:13:24	Brooklyn. 
+chr1sa	685157472009506816	2016-01-07T17:54:05	Kentucky Drone Shooter Case May Determine How Low FAA's Jurisdiction Goes: 
+chr1sa	685127760486907905	2016-01-07T15:56:01	Great discussion with chr1sa of 3DRobotics about the future of drones, safety, &amp; AirMapIO integration 
+chr1sa	685135369310875648	2016-01-07T16:26:15	A small software update, an entirely new experience.  
+chr1sa	684970971892076545	2016-01-07T05:33:00	Wow, VW is likely going to buy 115,000 cars back from owners. 
+chr1sa	684952527104692225	2016-01-07T04:19:42	new laser time-of-flight ranging sensor from ST - Time-of-flight ranging sensor for cameras, robotics, IoT: 
+chr1sa	684838642918027264	2016-01-06T20:47:10	biotech advancing so fast, researchers have to take precautions against "an animal gaining human consciousness" 
+chr1sa	684938028968579073	2016-01-07T03:22:06	Drones, Drones Everywhere with 3DRobotics chr1sa  via techcrunch CES2016
+chr1sa	684945426223517697	2016-01-07T03:51:29	First the scooter on-camera interview. Now the Razor Hovertraxk hoverboard at CES2016  
+chr1sa	684760020085391360	2016-01-06T15:34:45	App store revenue: poor disclosure &amp; rounded numbers, but looks like iOS and Google Android *might* be roughly level 
+chr1sa	684238498866409472	2016-01-05T05:02:25	Each one of these now has a B+ company. More to come in each category in coming years. 
+chr1sa	684123970627567616	2016-01-04T21:27:19	Intel follows Qualcomm into drone market, buys German startup  via InaFried
+chr1sa	683978127165407232	2016-01-04T11:47:47	Fly-eye phones are coming - my tech prediction for what may show up at CES 
+chr1sa	684081508492001280	2016-01-04T18:38:35	Tech prediction by extrapolation: fly-eye phones are coming  previously HD tablets 
+chr1sa	683829902550827008	2016-01-04T01:58:48	"build a simple AI to run my home and help me with my work"  
+chr1sa	683728578702225408	2016-01-03T19:16:10	chr1sa 3DRobotics Thanks for sharing! We launched 2.0 today, and it sounds even better : ) 
+chr1sa	683472879153999873	2016-01-03T02:20:07	In 1420, China operated ships 10X the size of Columbus' tiny vessels. Discussed in my book:  
+chr1sa	683461081520447493	2016-01-03T01:33:14	Best footage of 2015 captured with the 3DRobotics Solo drone 
+chr1sa	683457687493804032	2016-01-03T01:19:45	"She will be 70 then; her ambition is to beat her time from 1967." 
+chr1sa	683448486226980864	2016-01-03T00:43:11	Open Source 3D Printed Violin Sounds Great (created by 3DRobotics developer kaitlynhova) 
+chr1sa	683439431315918848	2016-01-03T00:07:12	A great story of a modding community succeeding so well that Microsoft took notice 
+chr1sa	683408940814602240	2016-01-02T22:06:03	This is just a terrible 3rd-party app (tells you to do pushups &amp; goes silent for a minute), but idea has promise 
+chr1sa	683396603256909825	2016-01-02T21:17:01	A perfect Selfie Saturday. Stoked to have nuriagoma as a fly3dr Aviator!!! 
+chr1sa	683111079308689408	2016-01-02T02:22:27	The Economist does a very funny New Yorker Shouts-and-Murmurs -style takedown on European tech pollicy 
+chr1sa	683030314835394560	2016-01-01T21:01:31	FPV racing developers! Join PX4 devteam:  and push Pixracer:  with us! 
+chr1sa	682741973040513024	2016-01-01T01:55:45	mattkocaj keithbigelow Superfast. That's a SkysenseInc charging pad. 120v, ~10 amps, if memory serves. Faster than plugging into the wall
+chr1sa	682719646353494016	2016-01-01T00:27:02	Yes, that is a fly3dr Solo on a charging pad. Happy New Year! 
+chr1sa	682252207920549888	2015-12-30T17:29:36	Want to build your own Amazon delivery drone? "Quadplanes" now supported by Pixhawk/APM  
+chr1sa	682067974732120064	2015-12-30T05:17:32	Drat. Pure Tokyo. By all accounts not a great building to live in, but I will miss it and the future it aspired to. 
+chr1sa	682047693389090816	2015-12-30T03:56:56	Great cover on the hackaday compilation of their best articles. Inspiring plane reading 
+chr1sa	682008310954917888	2015-12-30T01:20:27	Just saw The Big Short. Unfuckingbelievably awesome movie. Wow.
+chr1sa	681521079878168580	2015-12-28T17:04:22	felixsalmon All symbols are shorthand for more complex ideas, but require external context. Think of language learning as neg externality
+chr1sa	681515260826632192	2015-12-28T16:41:14	felixsalmon to put it another way,  you can't increase information density just by counting in a different base.
+chr1sa	681514561019613184	2015-12-28T16:38:27	felixsalmon one hex digit is actually encoded as 4 binary digits.  Don't confuse human readable display formats with "information density"
+chr1sa	681444117667266561	2015-12-28T11:58:32	This book by chr1sa brings into sharp focus everything I've been doing over the last two years 
+chr1sa	681353406347268097	2015-12-28T05:58:05	felixsalmon and it takes more binary digits to express a number than hexadecimal digits. But that's not a measure of information density
+chr1sa	681352633487994881	2015-12-28T05:55:01	felixsalmon Reuters fitbit
+chr1sa	681306815162757120	2015-12-28T02:52:57	raju mathewi WSJ theranos JohnCarreyrou
+chr1sa	681293270337499137	2015-12-28T01:59:08	There should be a word for discovering that your personal troll is just that: a troll. On registered troll list everywhere. "Trollenfreude"?

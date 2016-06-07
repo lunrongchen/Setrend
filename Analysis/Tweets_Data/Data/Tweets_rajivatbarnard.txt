@@ -1,0 +1,120 @@
+rajivatbarnard	725716688012976129	2016-04-28T16:01:56	Who's Afraid of an IEX Exchange? | Traders News 
+rajivatbarnard	725713321341673472	2016-04-28T15:48:33	Net effect of Kasich-Cruz pact, Fiorina pick, and Tuesday results on Trump odds of winning IN is essentially zero 
+rajivatbarnard	725161158701887488	2016-04-27T03:14:27	Enjoyed working with Jorgen Weibull on short history of Nash Equilibrium  dealing with precursors &amp; existence proofs
+rajivatbarnard	725160191294070784	2016-04-27T03:10:37	The May issue of the Notices of the AMS honors John Nash 
+rajivatbarnard	724508424491401216	2016-04-25T08:00:43	Danger with publicly including PA &amp; MD is that deal would likely have failed its first test, implicit deal may exist 
+rajivatbarnard	722941260437131264	2016-04-21T00:13:22	"Reading Axel’s work has provided, for us, a thunderclap of clarity on several issues"  highly recommended econarjun
+rajivatbarnard	720991268864716800	2016-04-15T15:04:48	.sndurlauf you reminded me of this: 
+rajivatbarnard	720184824175181824	2016-04-13T09:40:17	RemcoLenterman it's about the impact on markets, not impact on industry, hence the analogy to climate change
+rajivatbarnard	720157345402220544	2016-04-13T07:51:05	Presumably also mystified that you can have a climate change panel without someone from the fossil fuel industry... 
+rajivatbarnard	720061247144726529	2016-04-13T01:29:14	If you're in NYC on 4/19 and interested in HFT this panel discussion is open to the public (registration required): 
+rajivatbarnard	719884126149586944	2016-04-12T13:45:25	.drcarlhart on how media distortions can influence even scientific knowledge about the consequences of drug use 
+rajivatbarnard	719700630210756608	2016-04-12T01:36:16	"Every battle of ideas is fought on the terrain of language" 
+rajivatbarnard	719200385949437952	2016-04-10T16:28:28	[New Post] Fee-Structure Distortions in Prediction Markets  DavMicRot PredictIt_
+rajivatbarnard	717659333123784704	2016-04-06T10:24:53	Over past two weeks Trump dropped 30 points, gains split evenly between Cruz and Ryan, oddly no change in party odds 
+rajivatbarnard	716749257458499584	2016-04-03T22:08:34	Inside the ppppolls national survey of GOP voter intentions, some questions about POTUS  
+rajivatbarnard	715143540519661568	2016-03-30T11:48:01	Adam Smith in 1759, explaining our current political predicament (via CJFDillow) 
+rajivatbarnard	713555265199730688	2016-03-26T02:36:47	mechmarkets pauld44 I agree, boundaries not clean, and fundamental algos could get tripped up, valid points
+rajivatbarnard	713504536036511749	2016-03-25T23:15:12	mechmarkets pauld44 order book information isn't fundamental it's technical, dark markets worth considering, but also have vulnerabilities
+rajivatbarnard	713501502216790017	2016-03-25T23:03:09	mechmarkets pauld44 technical analysis also predates algos, and is vulnerable to spoofing, not all humans are fundamental traders
+rajivatbarnard	713499042286866434	2016-03-25T22:53:22	pauld44 I really don't believe this, fundamental traders can never be manipulated by spoofing, but it's clear we have to agree to disagree
+rajivatbarnard	713481386154401793	2016-03-25T21:43:12	pauld44 I'm not questioning the legal point, but rather the wisdom of the law itself, on which we obviously disagree
+rajivatbarnard	713383690492096512	2016-03-25T15:15:00	pauld44 I'm concerned with effects of spoofing and electronic front running in general, you with a specific case, talking past each other
+rajivatbarnard	713380873303953408	2016-03-25T15:03:48	pauld44 You think it was manual traders who sold ACN at a penny and bought BID at 100K? Biggest beneficiaries of broken trades were algos
+rajivatbarnard	713378833236377600	2016-03-25T14:55:42	pauld44 Of course not. Read my letters to SEC in support of IEX application  and 
+rajivatbarnard	713377422931062784	2016-03-25T14:50:06	pauld44 No, aggressive algorithms thrive on real large orders, get tripped up by bogus. Also, all "bogus" orders are at risk of trading.
+rajivatbarnard	713372919762694144	2016-03-25T14:32:12	pauld44 Have to disagree. Also, self-learning algorithms will start spoofing if profitable, without explicit direction from capital owner
+rajivatbarnard	713257739573673984	2016-03-25T06:54:31	pauld44 Not conflating; spoofing limits electronic front running: , , 
+rajivatbarnard	712993253558263808	2016-03-24T13:23:33	Looks like Sarao will be extradited to face flash crash charges  on which I stand by this: 
+rajivatbarnard	712778390508597248	2016-03-23T23:09:45	mechmarkets If we agree that trading out of sequence is undesirable I'll be happy, but I doubt that IEX critics want to go down this road
+rajivatbarnard	712733300176076800	2016-03-23T20:10:35	mechmarkets if you post a response letter to explain I will read it closely
+rajivatbarnard	712728981280333824	2016-03-23T19:53:25	And posted here 
+rajivatbarnard	712205767160401920	2016-03-22T09:14:21	Grove: an economy that innovates but exports jobs will eventually lose both capacity for mass production and capacity for innovation
+rajivatbarnard	712204097248632832	2016-03-22T09:07:43	Discussed Grove's ideas on industrial commons here  politics today might be very different had we followed this path
+rajivatbarnard	712203249143537664	2016-03-22T09:04:21	Andy Grove has died  made interesting case for industrial policy 
+rajivatbarnard	712090945659899904	2016-03-22T01:38:06	mechmarkets Can't really argue the point here but if you read my first letter I go through the effects of notification delay using HRA Ex 3
+rajivatbarnard	712067702358040577	2016-03-22T00:05:44	SamWangPhD The chart doesn't show any causal effect of family size, could be entirely due to selection
+rajivatbarnard	712064307798757376	2016-03-21T23:52:15	Specifically... 
+rajivatbarnard	712032554241683456	2016-03-21T21:46:04	mechmarkets Well, it's mostly the material I've already posted online, but with a few additions and clarifications
+rajivatbarnard	712032017676894208	2016-03-21T21:43:56	Bottom line: When considering whether or not delays violate Reg NMS, SEC should consider not just length but also purpose
+rajivatbarnard	712031166765858822	2016-03-21T21:40:33	Comments on the SEC Interpretive Release concerning IEX can be submitted here  just posted mine
+rajivatbarnard	711191357709115393	2016-03-19T14:03:27	Some thoughts on the IEX delay, and the broader implications of market microstructure   matt_levine nanexllc
+rajivatbarnard	711190115251462144	2016-03-19T13:58:31	[New Post] Does Market Microstructure Matter? 
+rajivatbarnard	710977510402469891	2016-03-18T23:53:42	nanexllc IEX Possibly... but they seem to have taken Leuchtkafer's letter very seriously which is a good sign
+rajivatbarnard	710974802471755776	2016-03-18T23:42:56	.nanexllc I don't see the need for more delay and comment but it seems to me that they are leaning towards approval 
+rajivatbarnard	710972210752528384	2016-03-18T23:32:38	The Leuchtkafer letter that I flagged when posted  seems to have made an impact matt_levine 
+rajivatbarnard	710970253124055040	2016-03-18T23:24:52	"delays of less than a millisecond in quotation response times may be... consistent with the goals of Rule 611" 
+rajivatbarnard	710969669541212160	2016-03-18T23:22:33	Seems to me from this that the SEC is leaning towards approving the IEX application: 
+rajivatbarnard	709399385638105089	2016-03-14T15:22:48	This is interesting by Simon DeDeo on physics, Feynman and CORE economics:  coreeconteam
+rajivatbarnard	709182519590133760	2016-03-14T01:01:03	Anyone who doubts that there with be significant crossover voting in *both* directions this Fall needs to read this 
+rajivatbarnard	707961534643834880	2016-03-10T16:09:17	This use of Twitter for deep reporting and analysis by rcallimachi  is creative and effective 
+rajivatbarnard	707868980493602816	2016-03-10T10:01:31	"Perhaps the only surprising thing about the populist backlash... is that it has taken so long"  by rodrikdani
+rajivatbarnard	707547768747925504	2016-03-09T12:45:08	Just updated my post on biases in prediction market forecasts 
+rajivatbarnard	707542343608606721	2016-03-09T12:23:34	Hawaii becomes the first state that Trump won while being predicted to lose 
+rajivatbarnard	707405655041249282	2016-03-09T03:20:25	That's because DecisionDeskHQ called it for Clinton at 9pm ET  
+rajivatbarnard	707213353614184448	2016-03-08T14:36:17	Excellent development; see also  by coreeconteam for additional open-access content 
+rajivatbarnard	707200230266167296	2016-03-08T13:44:08	The most consequential race today may be the one for second place in Michigan... Kasich currently favored over Cruz 
+rajivatbarnard	707175708360097792	2016-03-08T12:06:42	JustinWolfers are you also puzzled by distress of voters who mistakenly voted Buchanan instead of Gore in FL 2000? No vote was decisive
+rajivatbarnard	707045315526959104	2016-03-08T03:28:34	[New Post] Systematic Biases in Prediction Market Forecasts 
+rajivatbarnard	706992599526146048	2016-03-07T23:59:05	Wrote this for a volume in honor of Willi Semmler, who introduced me to nonlinear dynamics and shock-independent models of business cycles
+rajivatbarnard	706990780586573824	2016-03-07T23:51:52	[New Paper] Self-Falsifying Prophecies  may interest fans of Kaldor's (1940) trade cycle model and nonlinear dynamics
+rajivatbarnard	706891987190943744	2016-03-07T17:19:17	4% for Kasich in MI is absurdly low, given possibility of strategic voting 
+rajivatbarnard	706886245813784576	2016-03-07T16:56:28	Not just possible but increasingly likely 
+rajivatbarnard	706869764887552000	2016-03-07T15:50:59	daveweigel Not just possible but increasingly likely, which is why Kasich's edged past Rubio on prediction markets 
+rajivatbarnard	706841861936259072	2016-03-07T14:00:07	PollyVote R_Thaler BrendanNyhan darlin Demographics and biases don't compromise accuracy  
+rajivatbarnard	706693703130345472	2016-03-07T04:11:23	Kasich has edged past Rubio on the PredictIt_ nomination market 
+rajivatbarnard	706336343224360960	2016-03-06T04:31:21	Updated my post on forecasting elections  markets still inflating Trump prospects, but Rubio seems done and dusted
+rajivatbarnard	706007533975150592	2016-03-05T06:44:47	[New Post] Forecasting Elections 
+rajivatbarnard	705373618138705921	2016-03-03T12:45:50	Probability of nominee in {Romney, Ryan} at 9% here... 
+rajivatbarnard	704984259996557312	2016-03-02T10:58:40	Updated my Super Tuesday post  Trump odds of nomination fall but conditional odds of winning presidency remain stable
+rajivatbarnard	704769767006142464	2016-03-01T20:46:21	[New Post] Super Tuesday 
+rajivatbarnard	704656523927150592	2016-03-01T13:16:21	For example, see  I suspect lots of crossover voting on both sides in November, outcome uncertain
+rajivatbarnard	704656013337694209	2016-03-01T13:14:20	What supports these prices is the possibility that a major political realignment is underway 
+rajivatbarnard	704655767694131200	2016-03-01T13:13:21	This is the conventional wisdom but not at all what prediction markets say: Trump 38% for presidency, 80% nomination 
+rajivatbarnard	702146375019003905	2016-02-23T15:01:55	Yes, "good and feisty" describes the Leuchtkafer letter on IEX perfectly, and matt_levine offers a nice overview: 
+rajivatbarnard	702145174382710784	2016-02-23T14:57:09	elnunesio Yes this kind of thing will happen in fragmented markets even without IEX, but Ex. 2 referenced blocking a particular strategy
+rajivatbarnard	702134593525325824	2016-02-23T14:15:06	elnunesio if held up order is in response to the same change that the peg is responding to, IEX is not facilitating out of sequence trade
+rajivatbarnard	702123377750896640	2016-02-23T13:30:32	elnunesio A CLOB is certainly consistent with the Exchange Act and IEX brings us closer to that but it's not necessary to go all the way
+rajivatbarnard	702122851260899331	2016-02-23T13:28:27	elnunesio IEX No they do not. This is a very important point. The order held up by the speed bump has not made contact with any exchange.
+rajivatbarnard	702070263127609344	2016-02-23T09:59:29	elnunesio I disagree, your Example 3 only shows IEX prevents others from trading out of sequence relative to first contact with market
+rajivatbarnard	701974524946989056	2016-02-23T03:39:03	mechmarkets Time of sending is totally irrelevant to Reg NMS, what matters is time of receipt... but really can't litigate this here
+rajivatbarnard	701970888338579456	2016-02-23T03:24:36	mechmarkets There's nothing good or evil about a strategy, but B's action is clear example of stale quote arbitrage 
+rajivatbarnard	701920016854294528	2016-02-23T00:02:27	mechmarkets Most compelling to me is the discussion of the 2012 Nasdaq Approval Order and the rebuttal to HRC Examples 2-3
+rajivatbarnard	701889375974649857	2016-02-22T22:00:42	And here it is:  RT Leuchtkafer dismantles some arguments against the IEX application matt_levine
+rajivatbarnard	701448600207937537	2016-02-21T16:49:13	If this is true you should be able to predict and beat the market... Try it out, you might be humbled 
+rajivatbarnard	701312997638193157	2016-02-21T07:50:23	Look out for a terrific comment letter by RT Leuchtkafer on IEX, should post here on Monday:  matt_levine
+rajivatbarnard	698191175820378113	2016-02-12T17:05:22	No Google, I didn't. 
+rajivatbarnard	696742447733415937	2016-02-08T17:08:39	"As striking as the book’s content is the price..." 
+rajivatbarnard	696710743295684608	2016-02-08T15:02:40	"one cannot run successfully with both hare and hound" 
+rajivatbarnard	694044417003376640	2016-02-01T06:27:38	TehRaio try 
+rajivatbarnard	694040879481290752	2016-02-01T06:13:34	Leigh Tesfatsion, pioneer in agent-based computational economics, has some very useful things to say about dynamics 
+rajivatbarnard	693958450926243840	2016-02-01T00:46:02	A NYSE Speed Bump You Weren't Aware Of 
+rajivatbarnard	692919630650818561	2016-01-29T03:58:08	Proposal to help make PredictIt_ even better: charge fees by investment by market, not by contract  rajivatbarnard
+rajivatbarnard	691646994281029632	2016-01-25T15:41:08	IEM to open nomination prediction markets  will be interesting to watch, no fee-structure distortions DavMicRot
+rajivatbarnard	691616403489755138	2016-01-25T13:39:34	"Cruz delivers every sentence, no matter how generic, as if he imagines himself reciting the Gettysburg Address" 
+rajivatbarnard	690523627314376706	2016-01-22T13:17:16	Interested in nonlinear dynamics &amp; chaos? My Cornell lectures are online free at 
+rajivatbarnard	690469173646999552	2016-01-22T09:40:53	Sharp movements in asset prices happen when plausible narratives collapse; latest is narrative that Trump can't win 
+rajivatbarnard	689439316116840449	2016-01-19T13:28:36	Amazing... Read this alongside bubble logic  by Cimmerian999, especially on Cisco 
+rajivatbarnard	688808902155059200	2016-01-17T19:43:34	What The Big Short gets right (and Politico gets wrong) on the crisis. cc MikeGrunwald adamdavidson GhostPanther 
+rajivatbarnard	688811155922546690	2016-01-17T19:52:31	Wow, quite an honor.... 
+rajivatbarnard	688124547124441088	2016-01-15T22:24:11	[New Paper] An Ethnic Roller Coaster  (with Olga Gorbachev and Dan O'Flaherty)
+rajivatbarnard	687596775117590528	2016-01-14T11:27:00	"When the peasants are in full revolt, there usually isn’t a rush among the elites to line up for the guillotine" 
+rajivatbarnard	686470609971224576	2016-01-11T08:52:02	A look back at what CORE achieved last year and a glimpse at what's in store for 2016:  
+rajivatbarnard	686217863024263173	2016-01-10T16:07:42	[New Post] College Sports and Deadweight Loss 
+rajivatbarnard	686192311911464960	2016-01-10T14:26:10	Since athletes aren't paid, schools compete for them in incredibly wasteful ways; See Clemson, Oregon examples here: 
+rajivatbarnard	686122335489802240	2016-01-10T09:48:06	Sign up to a free workshop on implementing CORE, and hear other teachers' experiences of it so far. Limited places: 
+rajivatbarnard	685222571550326784	2016-01-07T22:12:46	Mourning the death of the Hon. Judge Judith Kaye, Barnard '58.  An amazing, trailblazing woman. She will be missed. 
+rajivatbarnard	684385458151804928	2016-01-05T14:46:23	I've enjoyed and learned from matt_levine's posts on the IEX controversy so it was nice to get a mention today 
+rajivatbarnard	684241111385112577	2016-01-05T05:12:48	[New Post] The Order Protection Rule  My comment letter to the SEC on IEX, lightly edited with links added
+rajivatbarnard	684124669159452673	2016-01-04T21:30:06	mechmarkets thanks, found it
+rajivatbarnard	684082324871450625	2016-01-04T18:41:50	Fantastic IEX comment letter from Barnard:  
+rajivatbarnard	684120658406580224	2016-01-04T21:14:09	Bit late getting to this but here's my comment letter on the iex application  matt_levine nanexllc
+rajivatbarnard	684118488298852352	2016-01-04T21:05:32	mechmarkets Thanks, I will give it some thought.... didn't realize the comment had posted, do you have a link?
+rajivatbarnard	682641317105655808	2015-12-31T19:15:47	Prof. Kaiama Glover (inthewhirld) contributes nytimes book review on Nobel Prize winner Patrick Modiano's works: 
+rajivatbarnard	681966234339008512	2015-12-29T22:33:15	Terrific post; puts some flesh on the bones of Charles et al's theory of bling as signalling  
+rajivatbarnard	675382975148650496	2015-12-11T18:33:43	A bizarre and grotesque all-pay auction 
+rajivatbarnard	674256972615720960	2015-12-08T15:59:24	BrendanNyhan DavMicRot Not sure about this... look at how much JebBush has spent to no avail this cycle; in any case, an open question
+rajivatbarnard	674256134463741952	2015-12-08T15:56:04	BrendanNyhan DavMicRot It's an open question but RealClearNews and FiveThirtyEight were reporting prices in real time to large audiences
+rajivatbarnard	674254596311810052	2015-12-08T15:49:57	BrendanNyhan DavMicRot Turnout in purple states, ending with Colorado... All orders were removed at 9pm ET
+rajivatbarnard	674254246552993792	2015-12-08T15:48:34	ElectProject BrendanNyhan DavMicRot That's right, $7million is a drop in the bucket compared with costs of a national campaign
+rajivatbarnard	674253883619860480	2015-12-08T15:47:07	BrendanNyhan DavMicRot Goal was not profit, but maintaining fundraising, morale, etc... in hope of affecting electoral outcome

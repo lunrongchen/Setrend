@@ -1,0 +1,771 @@
+1954swilliamson	726060928664408064	2016-04-29T14:49:49	kocherlakota009 &amp; there have been transfers across regions - these happen through credit markets. w/limited commitment of course.
+1954swilliamson	726052755157094400	2016-04-29T14:17:20	kocherlakota009 the dispersion in performance is interesting. Poor performers are known for their distortions - corruption, etc.
+1954swilliamson	726043643161808896	2016-04-29T13:41:08	kocherlakota009 low r could be safe asset shortage. But US has that too. Why is Europe different? Is Europe more sticky?
+1954swilliamson	726042352045936640	2016-04-29T13:36:00	kocherlakota009 prices are stuck for many years?
+1954swilliamson	726040954671628288	2016-04-29T13:30:27	kocherlakota009 You're seeing an inefficiency. What is it?
+1954swilliamson	726039270658564096	2016-04-29T13:23:45	Noahpinion example: NK economics not about limitations and imperfections. With a few wrinkles, mostly unlimited policy fixes imperfections
+1954swilliamson	725863464778911744	2016-04-29T01:45:10	Noahpinion exactly. signaling is not cheap talk. though I think cheap talk can actually matter in some games.
+1954swilliamson	725860945503748097	2016-04-29T01:35:09	Noahpinion headline CPI (level) has been roughly flat for 20 years in Japan.
+1954swilliamson	725858534013816832	2016-04-29T01:25:34	MacRoweNick jp_koning dandolfa a tire standard.
+1954swilliamson	725063689951416320	2016-04-26T20:47:09	jp_koning MacRoweNick dandolfa see my comment on the post.
+1954swilliamson	724262040634695680	2016-04-24T15:41:41	Noahpinion at least give me 50, so I can see Buffalo Springfield at their peak.
+1954swilliamson	723940134102519808	2016-04-23T18:22:32	Noahpinion kocherlakota009 sounds like something the Donald would say.
+1954swilliamson	723939625522188288	2016-04-23T18:20:31	kocherlakota009 ToreEllingsen1 FrancoisGourio pi_0 can be too low. If so, you raise R_0 enough so that pi_1=pi*. Then pi* forever.
+1954swilliamson	723938703043764225	2016-04-23T18:16:51	kocherlakota009 ToreEllingsen1 FrancoisGourio But, OK. It's been a pleasure, and I've learned a lot. Thanks, Dr. K.
+1954swilliamson	723938452362813440	2016-04-23T18:15:51	kocherlakota009 ToreEllingsen1 FrancoisGourio when it's just mathematics, there can't be disagreement.
+1954swilliamson	723907104759640064	2016-04-23T16:11:17	kocherlakota009 ToreEllingsen1 FrancoisGourio and close to pi*. So, no problem.
+1954swilliamson	723906977764528128	2016-04-23T16:10:47	kocherlakota009 ToreEllingsen1 FrancoisGourio implies pi* is stable solving forward. So, eqm. implies pi_t converging to pi* over time,..
+1954swilliamson	723906606539251713	2016-04-23T16:09:19	kocherlakota009 ToreEllingsen1 FrancoisGourio and pi_0 &gt; pi* but close to it, which is OK. Now, work forward with the cont. rule, which..
+1954swilliamson	723906379715477504	2016-04-23T16:08:25	kocherlakota009 ToreEllingsen1 FrancoisGourio but FL rule implies backward stability of pi*. so now we rule everything but pi_0&lt;=pi* ...
+1954swilliamson	723905929175912448	2016-04-23T16:06:37	kocherlakota009 ToreEllingsen1 FrancoisGourio but parameters are actually slightly diff. Now, work back from date T, using the FL rule.
+1954swilliamson	723905511930761216	2016-04-23T16:04:58	kocherlakota009 ToreEllingsen1 FrancoisGourio (i) forward-looking rule; (ii) contemp. rule. CB fixes these based on what it "knows".
+1954swilliamson	723905217087987712	2016-04-23T16:03:47	kocherlakota009 ToreEllingsen1 FrancoisGourio no, we can perturb a bit if you want. do it from scratch. there are two parts of the rule..
+1954swilliamson	723897258614263808	2016-04-23T15:32:10	kocherlakota009 ToreEllingsen1 FrancoisGourio regular basis, but comes close. doesn't blow up.
+1954swilliamson	723897072328515584	2016-04-23T15:31:26	kocherlakota009 ToreEllingsen1 FrancoisGourio and solve forward to determine the equilibria. result: CB misses inflation target on a...
+1954swilliamson	723896863976361985	2016-04-23T15:30:36	kocherlakota009 ToreEllingsen1 FrancoisGourio stickiness by a small amount. now, solve backward as before for constrained optimal policy.
+1954swilliamson	723896480721850368	2016-04-23T15:29:05	kocherlakota009 ToreEllingsen1 FrancoisGourio no. fix the rules (forward looking and current). now change risk aversion or price...
+1954swilliamson	723894077284978689	2016-04-23T15:19:31	kocherlakota009 ToreEllingsen1 FrancoisGourio I do agree that forcing the CB to adhere to an arbitrary rule will give bad results.
+1954swilliamson	723893745171619841	2016-04-23T15:18:12	kocherlakota009 ToreEllingsen1 FrancoisGourio use that rule going forward. so your "perturbation" argument doesn't work.
+1954swilliamson	723893562711003136	2016-04-23T15:17:29	kocherlakota009 ToreEllingsen1 FrancoisGourio to the inflation target next period given what you see today. Note that in my solution, you
+1954swilliamson	723893295638695936	2016-04-23T15:16:25	kocherlakota009 ToreEllingsen1 FrancoisGourio the perturbation I think you're talking about is to the rule that brings you back...
+1954swilliamson	723890226347675651	2016-04-23T15:04:13	kocherlakota009 ToreEllingsen1 FrancoisGourio CB know, and what doesn't it know. then, work it out.
+1954swilliamson	723890085154803714	2016-04-23T15:03:40	kocherlakota009 ToreEllingsen1 FrancoisGourio now your'e talking about a different model and making conjectures. what info? what's the...
+1954swilliamson	723888010710913024	2016-04-23T14:55:25	kocherlakota009 ToreEllingsen1 FrancoisGourio period by period.
+1954swilliamson	723887862714916865	2016-04-23T14:54:50	kocherlakota009 ToreEllingsen1 FrancoisGourio rule not fixed. if you admit random errors into model, CB gets to correct for the errors...
+1954swilliamson	723881688967733249	2016-04-23T14:30:18	kocherlakota009 ToreEllingsen1 FrancoisGourio as to your beliefs, I'm not sure what you mean.
+1954swilliamson	723881492087070720	2016-04-23T14:29:31	kocherlakota009 ToreEllingsen1 FrancoisGourio understanding should be easy. given next period's pi, the CB does something feasible.
+1954swilliamson	723868165218787328	2016-04-23T13:36:34	kocherlakota009 ToreEllingsen1 FrancoisGourio optimal policy is pi_0&lt;=pi*, pi_t=pi*, t=1,2,... T.
+1954swilliamson	723867767787528192	2016-04-23T13:34:59	kocherlakota009 ToreEllingsen1 FrancoisGourio for any pi_0&lt;=pi*, CB can achieve pi_t=pi* for all t=1,2,... . so, the equilibrium with...
+1954swilliamson	723867307047419904	2016-04-23T13:33:09	kocherlakota009 ToreEllingsen1 FrancoisGourio otherwise, we've eliminated all possibilities for pi_0 except pi_0&lt;=pi*. Now, work forward.
+1954swilliamson	723866967539503104	2016-04-23T13:31:48	kocherlakota009 ToreEllingsen1 FrancoisGourio R_T-1=0. In the latter case, for some paths can get to pi* (going backward) before period 0
+1954swilliamson	723866579692179456	2016-04-23T13:30:16	kocherlakota009 ToreEllingsen1 FrancoisGourio so either pi_T-1=pi*, and can then work backward to get pi* at every previous date, or...
+1954swilliamson	723866162094706688	2016-04-23T13:28:36	kocherlakota009 ToreEllingsen1 FrancoisGourio given pi_T, CB chooses R_T-1. can then achieve pi_T-1=pi* as long as pi_T not too low.
+1954swilliamson	723865349741912065	2016-04-23T13:25:22	kocherlakota009 ToreEllingsen1 FrancoisGourio There is an inflation target, pi*. First, work backward from period T.
+1954swilliamson	723864796420968449	2016-04-23T13:23:10	kocherlakota009 ToreEllingsen1 FrancoisGourio assume finite horizon, as in NK^2 model. central bank can choose any path for R s.t. R&gt;0.
+1954swilliamson	723600629109649408	2016-04-22T19:53:28	ToreEllingsen1 kocherlakota009 FrancoisGourio We're both right, in a sense. NK's slides show equilibria under fixed policy, not optimal.
+1954swilliamson	722416107471052800	2016-04-19T13:26:36	t0nyyates Bham Uni sounded like an exotic place I had never heard of. Maybe Birmingham is exotic though? Never been there.
+1954swilliamson	722226390754586624	2016-04-19T00:52:44	dandolfa kocherlakota009 farmerrf similar GDP performance but labor market very different. are people focused on the right stuff?
+1954swilliamson	722226030321213441	2016-04-19T00:51:18	dandolfa kocherlakota009 farmerrf NK right I think, though "overhaul" is a strong word. we've noticed differences with Canada.
+1954swilliamson	722094777194270722	2016-04-18T16:09:45	kocherlakota009 FrancoisGourio only errors of omission :-)
+1954swilliamson	722094247550160896	2016-04-18T16:07:39	farmerrf FriedrichHayek triple negative
+1954swilliamson	722093945392476162	2016-04-18T16:06:27	kocherlakota009 FrancoisGourio seems the game is to find policy rules that rule out particular initial pi from consideration.
+1954swilliamson	722092842584121345	2016-04-18T16:02:04	kocherlakota009 FrancoisGourio but seems you're constructing RE equilibria with different initial conditions.
+1954swilliamson	722092685356507136	2016-04-18T16:01:26	kocherlakota009 FrancoisGourio look at blog post. It's identical. in slides you say "shocks to expectations about LR"
+1954swilliamson	722088611064119296	2016-04-18T15:45:15	kocherlakota009 FrancoisGourio you can make expectations exogenous of course. That's not a standard NK model.
+1954swilliamson	722088307065094144	2016-04-18T15:44:02	kocherlakota009 FrancoisGourio &amp;some rules imply -ve correlation between R and pi.
+1954swilliamson	722088054828077057	2016-04-18T15:43:02	kocherlakota009 FrancoisGourio (iii)NF rule goes to inf target in finite time.
+1954swilliamson	722087682990407684	2016-04-18T15:41:34	kocherlakota009 FrancoisGourio key results: (i) actv rule implies many equilibria converging to ZLB. (ii) psv rule forever to inf target.
+1954swilliamson	722087178822492160	2016-04-18T15:39:33	kocherlakota009 FrancoisGourio your finite horizon results are all embedded in my blog post. Just truncate.
+1954swilliamson	722066690641559554	2016-04-18T14:18:09	kocherlakota009 FrancoisGourio in your environment, there are better policies than the ones you're looking at.
+1954swilliamson	722066535271927809	2016-04-18T14:17:32	kocherlakota009 FrancoisGourio ur mistaken about what NF is. not an empirical statement. a statement about optimal policy.
+1954swilliamson	722063546473820160	2016-04-18T14:05:39	kocherlakota009 FrancoisGourio and, if CB is doing it right, you don't get these results.
+1954swilliamson	722063069099065346	2016-04-18T14:03:45	kocherlakota009 FrancoisGourio (i) non-NF as you define it. (ii) doesn't include all possible rules. (iii) ZLB as steady state? 1/2
+1954swilliamson	722060547059884032	2016-04-18T13:53:44	kocherlakota009 FrancoisGourio see addendum 2. With that rule you don't get that result.
+1954swilliamson	722060020704104448	2016-04-18T13:51:38	kocherlakota009 ToreEllingsen1 FrancoisGourio models on both sides? I used your model.
+1954swilliamson	721792151663697920	2016-04-17T20:07:13	kocherlakota009 FrancoisGourio not a proposition about long run 1-1.
+1954swilliamson	721792017693421568	2016-04-17T20:06:41	kocherlakota009 FrancoisGourio maybe you're after wrong thng. the idea is inflation control works better if you reverse the sign.
+1954swilliamson	721790888121249792	2016-04-17T20:02:12	Noahpinion kocherlakota009 he seems to believe everyone thinks like him. Hence his lack of success teaching econ 101.
+1954swilliamson	721788572819324929	2016-04-17T19:53:00	kocherlakota009 FrancoisGourio could give the patient some arsenic and see what happens. :-)
+1954swilliamson	721788196929933312	2016-04-17T19:51:30	kocherlakota009 FrancoisGourio constrained by choice. can always go up.
+1954swilliamson	721780633291194370	2016-04-17T19:21:27	kocherlakota009 FrancoisGourio would be different if policy seemed to be working. But it's not.
+1954swilliamson	721779697298726912	2016-04-17T19:17:44	kocherlakota009 FrancoisGourio The answer to: "Why do you do it this way?" shouldn't be: "That's the way the last guy did it."
+1954swilliamson	721778142289874944	2016-04-17T19:11:33	kocherlakota009 FrancoisGourio endog. policy makes the data hard to interpret of course.
+1954swilliamson	721777591107985408	2016-04-17T19:09:22	kocherlakota009 FrancoisGourio 1. can't have evidence w/o model. 2. science trumps religion.
+1954swilliamson	721766581638930432	2016-04-17T18:25:37	FrancoisGourio kocherlakota009 on the day? sounds event-studyish, w/usual event study issues.
+1954swilliamson	721764190671806464	2016-04-17T18:16:07	kocherlakota009 FrancoisGourio you need a model of that. NK seems to say inflation is Fisherian. What is AD?
+1954swilliamson	721752287555620864	2016-04-17T17:28:49	kocherlakota009 FrancoisGourio &amp;the evidence from Japan and Europe seems overwhelming. permazero implies perma low inflation.
+1954swilliamson	721745854978088961	2016-04-17T17:03:15	what tightening? 
+1954swilliamson	721745523678384128	2016-04-17T17:01:56	FrancoisGourio kocherlakota009 one argument - you're not actually seeing tightening. people think high prob. of going back to zero.
+1954swilliamson	721744533147488256	2016-04-17T16:58:00	FrancoisGourio kocherlakota009 Don't look at the breakevens (or 5/5). Watch what actually happens.
+1954swilliamson	721722821173493760	2016-04-17T15:31:44	t0nyyates Randy still writes on napkins, or serviettes, as we call them in Canada.
+1954swilliamson	721720552591896577	2016-04-17T15:22:43	MacRoweNick Noahpinion well, you can't proceed without assumptions.
+1954swilliamson	721718198354096128	2016-04-17T15:13:22	kocherlakota009 actually, probably not. :-) Try addendum 2.
+1954swilliamson	721717706446114817	2016-04-17T15:11:24	kocherlakota009 also, in your slides, try the neo-Fisher case, beta &lt;0.
+1954swilliamson	721716792868020226	2016-04-17T15:07:46	kocherlakota009 sorry, at ZLB. start at T with pi &gt; -r and R=0, then work backward, and active rule max[0,rule] eventually kicks in w/R&gt;0.
+1954swilliamson	721714263694258176	2016-04-17T14:57:43	kocherlakota009 agreed.
+1954swilliamson	721713949381558273	2016-04-17T14:56:28	kocherlakota009 or to the Japanese.
+1954swilliamson	721713774558720000	2016-04-17T14:55:47	kocherlakota009 Neil once told me empirical evidence never convinced anyone of anything :-)
+1954swilliamson	721713109463764993	2016-04-17T14:53:08	kocherlakota009 when CBs are confused about what they are doing, and everyone else is confused about everything, what do forecasts mean?
+1954swilliamson	721415945046982656	2016-04-16T19:12:19	kocherlakota009 you know how it's done, of course. fairly flat P curve and reversion to 2%, which is exogenous.
+1954swilliamson	721415475276582912	2016-04-16T19:10:27	kocherlakota009 I have a slide that shows how well the Riksbank has been doing, for example - it's at work though.
+1954swilliamson	721415207109562368	2016-04-16T19:09:23	kocherlakota009 pi_t = pi_t-1 works better than what CBs have been forecasting.
+1954swilliamson	721414878859108352	2016-04-16T19:08:05	kocherlakota009 seriously, they don't call these "unconventional" policies for nothing. no burden of proof there apparently.
+1954swilliamson	721413545775263745	2016-04-16T19:02:47	kocherlakota009 I've always thought everyone else was weird. :-)
+1954swilliamson	721412858861457409	2016-04-16T19:00:03	t0nyyates saw your ex-colleague R. Sustek last week in St. Louis.
+1954swilliamson	721411325285380096	2016-04-16T18:53:57	kocherlakota009 conventionally-thinking CBs need to provide evidence, in theory and practice, that ZLB, R&lt; 0, QE, raise inflation.
+1954swilliamson	721410480233783297	2016-04-16T18:50:36	kocherlakota009 in normal inf horizon case, it's the active case that takes you to ZLB. So can do active case and solve backward.
+1954swilliamson	721395227911593984	2016-04-16T17:49:59	kocherlakota009 we're considering rational expectations equilibria.
+1954swilliamson	721394961636167680	2016-04-16T17:48:56	kocherlakota009 the policy rule kills any equilibrium in which pi_t+1&lt;-2r for any t.
+1954swilliamson	721394414409486336	2016-04-16T17:46:45	kocherlakota009 as represented in your slides.
+1954swilliamson	721393943233957888	2016-04-16T17:44:53	kocherlakota009 clearest evidence is recent behavior of inflation around the world, given CB policies.
+1954swilliamson	721393748601475072	2016-04-16T17:44:07	kocherlakota009 that's rather specific. Seems we have to see inside heads. may be long-run non-neutralities, too. so not 1-1.
+1954swilliamson	721382724439683073	2016-04-16T17:00:18	kocherlakota009 don't know about sunspots of course. but I think that looks after deterministic equilibria.
+1954swilliamson	721382209618186240	2016-04-16T16:58:16	t0nyyates used to think this was medium was dog crap. seems OK though.
+1954swilliamson	721381801634050048	2016-04-16T16:56:38	kocherlakota009 the policy rule.
+1954swilliamson	721381436255670276	2016-04-16T16:55:11	kocherlakota009 question for you: finite horizon, active policy. why don't you consider ZLB and close to it at time T?
+1954swilliamson	721380216220725248	2016-04-16T16:50:20	kocherlakota009 you'll never see pi_t+1&lt;-2r
+1954swilliamson	721379201559842816	2016-04-16T16:46:18	kocherlakota009 start at 0. but pi_1 matters. only pi_1&gt;=pi** works. So pi_0=pi*, and I stay there forever.
+1954swilliamson	721378562633170944	2016-04-16T16:43:46	kocherlakota009 Well, we needed that to get the asset pricing equation (1). So, now we have (1), and your equation (2). 1/2
+1954swilliamson	721352405703462912	2016-04-16T14:59:50	PerkunosJones Noahpinion there's no right or wrong in empirical work. they measured something. may or may not be what they claim to msr.
+1954swilliamson	721351100721278977	2016-04-16T14:54:39	Noahpinion ZakDavid time on his hands.
+1954swilliamson	721349665833164800	2016-04-16T14:48:57	M_ttM_ good record, though I already had kids when it came out.
+1954swilliamson	721335883291451392	2016-04-16T13:54:11	kocherlakota009 Noahpinion OK, check this one and see if you like it. Doesn't involve bounding anything.
+1954swilliamson	721009513873080322	2016-04-15T16:17:18	kocherlakota009 Noahpinion well, lots of things could be in the NKPC. this will have to wait. other stuff to do, like filing my taxes.
+1954swilliamson	721007203788787713	2016-04-15T16:08:07	kocherlakota009 Noahpinion no, take that back. I'm just thinking out loud now.
+1954swilliamson	721006769326018560	2016-04-15T16:06:24	kocherlakota009 Noahpinion I see what you mean, but can fix preferences, I think to get the same Euler equation - quick&amp;dirty of course.
+1954swilliamson	721005112764706816	2016-04-15T15:59:49	kocherlakota009 Noahpinion No, it's just in the technology. productivity goes to zero if the guy doesn't eat enough.
+1954swilliamson	720994409328680965	2016-04-15T15:17:17	kocherlakota009 Noahpinion quick fix: subsistence cons.put it in the tech. Can't get enough to eat, can't work at all, so lwr bound on y
+1954swilliamson	720977661686722561	2016-04-15T14:10:44	kocherlakota009 Noahpinion (ii) with your P-curve, tax policy could do it. (iii) when I get it done, I'll show you what I've bn wkg on.
+1954swilliamson	720977144420040705	2016-04-15T14:08:40	kocherlakota009 Noahpinion so what I see are: (i) I think you could have P-curves that would permit m policy to nail down Fisherian eqm.
+1954swilliamson	720966827019411456	2016-04-15T13:27:41	kocherlakota009 Noahpinion the wonders of log linearization. I have to go back to the nonlinear system &amp; think about what it means.
+1954swilliamson	720958033493250048	2016-04-15T12:52:44	kocherlakota009 Noahpinion but pi&gt;-1, right?
+1954swilliamson	720802548467298306	2016-04-15T02:34:54	sjysnyc repagent1 I show an example with learning where it happens with a vengeance.
+1954swilliamson	720802431240642560	2016-04-15T02:34:26	repagent1 sjysnyc tatonnement is actually something outside the competitive eqm paradigm. totally meaningless.
+1954swilliamson	720801246207152128	2016-04-15T02:29:43	repagent1 kocherlakota009 put it another way: stay at zero or go lower, and there are no forces (ex. shocks) that will increase inflation.
+1954swilliamson	720799376256290816	2016-04-15T02:22:17	kocherlakota009 Noahpinion See if you like this. It's in the addendum at the bottom of the post.
+1954swilliamson	720742536579448832	2016-04-14T22:36:26	kocherlakota009 Noahpinion I'm agnostic on b. :) Think I have a solution. I'll check algebra and let you know.
+1954swilliamson	720730001247604736	2016-04-14T21:46:37	kocherlakota009 Noahpinion lower bound on y.
+1954swilliamson	720727594816024576	2016-04-14T21:37:03	kocherlakota009 Noahpinion depends on what out-of-eqm inflation you permit?
+1954swilliamson	720716401695023104	2016-04-14T20:52:35	kocherlakota009 Noahpinion yes, looks like it can't kill equilibria going to ZLB. of course, ngv nominal rate could fix it.
+1954swilliamson	720708595193479169	2016-04-14T20:21:33	kocherlakota009 Noahpinion don't know. can check, or you can.
+1954swilliamson	720702871612751873	2016-04-14T19:58:49	kocherlakota009 Noahpinion Though note that (10) kills all those weird equilibria in NK's finite horizon setup.
+1954swilliamson	720702169872072704	2016-04-14T19:56:01	kocherlakota009 Noahpinion It's mostly not about Narayana. Model is convenient though.
+1954swilliamson	720701466130788352	2016-04-14T19:53:14	kocherlakota009 Noahpinion There's a verbatim quote, and I'm using the model. What's misquoted?
+1954swilliamson	720699385043034113	2016-04-14T19:44:57	Neo-Fisherian Denial: 
+1954swilliamson	720643224361041920	2016-04-14T16:01:48	t0nyyates the individuals can be unorthodox, but the institution as a whole can be a dinosaur.
+1954swilliamson	720642302931181568	2016-04-14T15:58:08	kocherlakota009 PIrelandatBC DavidBeckworth EconomicsOne a problem with any rule.
+1954swilliamson	720640561644838912	2016-04-14T15:51:13	farmerrf t0nyyates BenChu_ not specific to interest rates at zero either.
+1954swilliamson	720640466543202304	2016-04-14T15:50:50	farmerrf t0nyyates BenChu_ it's more complicated than that. there's a broken model, but they're not even following it.
+1954swilliamson	720639718120038400	2016-04-14T15:47:52	In St. Louis, we're not "constrained by orthodoxy," I think. 
+1954swilliamson	720638863585062912	2016-04-14T15:44:28	t0nyyates EuroBriefing forecasting: don't need any theory. doing policy and learning stuff is another matter.
+1954swilliamson	720347257392865280	2016-04-13T20:25:44	t0nyyates EuroBriefing and I'm not saying this leads to bad forecasts. forecasting model left to its own devices produces nonsense.
+1954swilliamson	720346476774207490	2016-04-13T20:22:38	t0nyyates EuroBriefing not for me. Maybe your standards are lower.
+1954swilliamson	720345301731532800	2016-04-13T20:17:57	t0nyyates EuroBriefing not the ones I've seen. Typically someone saying: "that doesn't look right."
+1954swilliamson	720304409071124481	2016-04-13T17:35:28	t0nyyates EuroBriefing and a load of add factors.
+1954swilliamson	720269575686721536	2016-04-13T15:17:03	t0nyyates DavidBeckworth MacRoweNick involves the use of central bank lending.
+1954swilliamson	720269493969129476	2016-04-13T15:16:43	t0nyyates DavidBeckworth MacRoweNick again, see my slides. CB can commit to any price level path it wants with no fiscal implications.
+1954swilliamson	720244407966912512	2016-04-13T13:37:03	DavidBeckworth MacRoweNick t0nyyates FTPL is just not a useful way to think about monetary policy.
+1954swilliamson	720244320591155200	2016-04-13T13:36:42	DavidBeckworth MacRoweNick t0nyyates can commit to a price level path, &amp; this has implications for IBC, but RHS&lt;LHS.
+1954swilliamson	720051307093078016	2016-04-13T00:49:44	DavidBeckworth MacRoweNick t0nyyates inflation targets not relevant for this issue.
+1954swilliamson	720017754607079424	2016-04-12T22:36:24	MacRoweNick DavidBeckworth t0nyyates also: cashless economy, scarce gov. bonds with r=0 forever. initial transfer &gt; 0, B/P &gt; 0, RHS = 0.
+1954swilliamson	720017342432829440	2016-04-12T22:34:46	MacRoweNick DavidBeckworth t0nyyates can't get it to work. Initial M issued as a transfer, then nothing thereafter. RHS = 0. M/P &gt; 0.
+1954swilliamson	719990579996659712	2016-04-12T20:48:25	MacRoweNick in my last blog post (the slides). swept under the rug I think. won't be true for govt bonds w/liquidity premium either.
+1954swilliamson	719978707545239552	2016-04-12T20:01:15	kocherlakota009 BV andrewtlevin Suppose you had to serve on the FOMC with Governors you knew voted against you. Might not be so great.
+1954swilliamson	719977575116701696	2016-04-12T19:56:45	MacRoweNick exactly. It doesn't hold.
+1954swilliamson	719710791490936836	2016-04-12T02:16:38	Claudia_Sahm I'll say. I'm tired of hearing about this "new" revolution in empirical work.
+1954swilliamson	719710437701328896	2016-04-12T02:15:14	Noahpinion He was always looking for the empirical content in this theory, and the theory was motivated by emprics.
+1954swilliamson	719710005042130944	2016-04-12T02:13:31	Noahpinion Lucas turned us away from empirical work? That's silly.
+1954swilliamson	719592800002572288	2016-04-11T18:27:47	MacRoweNick dandolfa sjwrenlewis we also part ways on FTPL, I think: 
+1954swilliamson	719591930850463745	2016-04-11T18:24:20	MacRoweNick dandolfa sjwrenlewis point of disagreement: he says there is no liquidity effect with excess reserves outstanding. not crct.
+1954swilliamson	719591677686595584	2016-04-11T18:23:19	MacRoweNick dandolfa sjwrenlewis wouldn't characterize it as "backing away." Says, there's other stuff going on too.
+1954swilliamson	719519500379402240	2016-04-11T13:36:31	humanzane Noahpinion yes, Bagehot was writing about what the Bank of England had discovered. CB can use its inf. advantage in a crisis.
+1954swilliamson	719518982118645760	2016-04-11T13:34:28	humanzane Noahpinion exactly. Murray Rothbard. Libertarians who want draconian financial restrictions.
+1954swilliamson	719346528259694592	2016-04-11T02:09:11	Noahpinion humanzane hardcore narrow banking types (and the hard hardcore are gold bugs) say you don't need it - i.e. 100% reserves.
+1954swilliamson	719345217699127297	2016-04-11T02:03:59	FrancoisGourio repagent1 exactly.
+1954swilliamson	719344658950672386	2016-04-11T02:01:46	Noahpinion humanzane "stigma" is a problem - revealing your type. The TAF program, for example, was designed to get around that.
+1954swilliamson	719344363499757568	2016-04-11T02:00:35	Noahpinion humanzane Marvin Goodfriend and Bob King I think have made that argument.
+1954swilliamson	719344066136150017	2016-04-11T01:59:24	Noahpinion humanzane But some people might argue that, in a crisis, you should use open market operations rather than directed lending.
+1954swilliamson	719343914851762176	2016-04-11T01:58:48	Noahpinion humanzane that argument is rare. Friedman would even have supported lending by the central bank in a crisis.
+1954swilliamson	719234931054907392	2016-04-10T18:45:44	Noahpinion derekmc_ 1. yes. 2. yes yes 3. of course yes.
+1954swilliamson	719234602057863168	2016-04-10T18:44:26	Noahpinion the giveaway: paper begins with a quote.
+1954swilliamson	719232884519739392	2016-04-10T18:37:37	repagent1 FrancoisGourio Claudia_Sahm the wonders of chaining. in "real" terms, identities are not identities.
+1954swilliamson	719231876947251200	2016-04-10T18:33:36	repagent1 FrancoisGourio Claudia_Sahm correct. so just call that a normalization.
+1954swilliamson	719230128887177216	2016-04-10T18:26:40	repagent1 FrancoisGourio Claudia_Sahm thought about this. why not? best measure of (quantity x)/(quantity y)
+1954swilliamson	719200335277871105	2016-04-10T16:28:16	repagent1 FrancoisGourio Claudia_Sahm LHSummers the government sector certainly has a dearth of investment: 
+1954swilliamson	719199911963570177	2016-04-10T16:26:35	FrancoisGourio Claudia_Sahm repagent1 so if they investment rate is high, then K/Y should turn around?
+1954swilliamson	719183467192389636	2016-04-10T15:21:15	Claudia_Sahm repagent1 dividing nres fixed investment by GDP ain't tricky. Of course output growth is low. Can Summers say why?
+1954swilliamson	719176583127310336	2016-04-10T14:53:53	repagent1 Claudia_Sahm investment rate appears to be high: 
+1954swilliamson	718901465855569920	2016-04-09T20:40:40	On Wednesday, Larry Summers told us there was a dearth of investment opportunities. 
+1954swilliamson	718900748914810880	2016-04-09T20:37:49	MacRoweNick exactly. It's an asset with a big positive payoff now, big negative payoff in the future. Beta goes to zero, price of asset up.
+1954swilliamson	718833909392285696	2016-04-09T16:12:13	JoMicheII farmerrf dandolfa LHSummers I'm not saying I like the notion of stickiness. Just making suggestions as to what's on your mind.
+1954swilliamson	718833380528263168	2016-04-09T16:10:07	JoMicheII dandolfa farmerrf LHSummers like the soul.
+1954swilliamson	718828249103642624	2016-04-09T15:49:44	farmerrf yes, there's sunspot Farmer/Keynes, and indeterminate surplus-splitting Farmer/Keynes.
+1954swilliamson	718827753584332800	2016-04-09T15:47:46	JoMicheII dandolfa farmerrf LHSummers however, you could say: "prices are stuck, there's an inefficiency, and here's how I measure it."
+1954swilliamson	718827229690462208	2016-04-09T15:45:41	JoMicheII dandolfa farmerrf LHSummers it's not something I can observe, unless tautologically, i.e. C+I+G+NX
+1954swilliamson	718823053510057984	2016-04-09T15:29:05	farmerrf JoMicheII dandolfa LHSummers and there's more than one Farmer/Keynes.
+1954swilliamson	718822927836131328	2016-04-09T15:28:35	farmerrf JoMicheII dandolfa LHSummers in my book Keynes has many guises - Farmer/Keynes and Woodford/Keynes included.
+1954swilliamson	718811290785832962	2016-04-09T14:42:21	farmerrf JoMicheII dandolfa LHSummers You can be precise about it. Typically, people are pretty loose - sometimes deliberately, I think.
+1954swilliamson	718810166016106496	2016-04-09T14:37:53	MacRoweNick is heroin an asset?
+1954swilliamson	718809359359160320	2016-04-09T14:34:40	JoMicheII dandolfa farmerrf LHSummers growth reacting to "demand?" what is demand supposed to be?
+1954swilliamson	718808725822111744	2016-04-09T14:32:09	farmerrf dandolfa LHSummers when is a level effect a growth effect? in the transition of course.
+1954swilliamson	718437444287221760	2016-04-08T13:56:49	Better still, just stop talking about it. This is a non-solution. 
+1954swilliamson	718409327397068800	2016-04-08T12:05:05	repagent1 Noahpinion excellent. understood for once.
+1954swilliamson	718254554240937987	2016-04-08T01:50:04	Noahpinion I guess John thinks FTPL is some unified theory of macroeconomics.
+1954swilliamson	718252483764740096	2016-04-08T01:41:51	Noahpinion no.
+1954swilliamson	718167655736156160	2016-04-07T20:04:46	JohnHCochrane kocherlakota009 FTPL, Helicopters, CB balance sheets: 
+1954swilliamson	718141327381102592	2016-04-07T18:20:09	MacRoweNick repagent1 what happens in NK is policy rule determining anticipated inflation.
+1954swilliamson	718105763822960641	2016-04-07T15:58:50	repagent1 MacRoweNick locally determinate, but globally indeterminate, with many equilibria going to zero and staying there.
+1954swilliamson	718100036651843584	2016-04-07T15:36:05	repagent1 MacRoweNick that's odd. w/real rate in Taylor rule, it's standard. Perils of the Taylor rule, etc.
+1954swilliamson	718099041075077120	2016-04-07T15:32:07	MacRoweNick people hoped those would deliver a measure of the market long run real rate. Didn't work out.
+1954swilliamson	718098623913861121	2016-04-07T15:30:28	t0nyyates Noahpinion i.e. not exactly.
+1954swilliamson	718098480292433920	2016-04-07T15:29:53	t0nyyates Noahpinion exactly. "whatever it takes" means they will continue beating their heads against the wall.
+1954swilliamson	718097780430876672	2016-04-07T15:27:07	Claudia_Sahm and that you can write down a model that would show that. I don't think it's hard. I'll try a blog post.
+1954swilliamson	718097559051325440	2016-04-07T15:26:14	Claudia_Sahm What I'm thinking is that people are coming to the realization that breakeven rates aren't what they were purported to be.
+1954swilliamson	718079652233744384	2016-04-07T14:15:05	Noahpinion neo-Fisher.
+1954swilliamson	718079351967748096	2016-04-07T14:13:53	MacRoweNick Yes. You can't use as an instrument something that people can't agree how to measure.
+1954swilliamson	718078748742983680	2016-04-07T14:11:29	Claudia_Sahm what's the price of a contingent claim on the CPI? can probably write down a model in which this won't predict the CPI well.
+1954swilliamson	718074843355164672	2016-04-07T13:55:58	M_ttM_ stlouisfed right. "secular stagnation" took the express route from Larry's brain to his mouth - no intervening research.
+1954swilliamson	718073831659679745	2016-04-07T13:51:57	Noahpinion kocherlakota009 hyperplanes t0nyyates not sure if the financial plumbing is ready for that.
+1954swilliamson	717895508786741249	2016-04-07T02:03:21	kocherlakota009 hyperplanes t0nyyates Noahpinion Apparently Bernanke hated the term "QE." can see why-conventional policy seems to be QE
+1954swilliamson	717894522592583680	2016-04-07T01:59:26	t0nyyates Noahpinion I've read some memos on the "natural rate of interest" that would make you cringe.
+1954swilliamson	717893293770575874	2016-04-07T01:54:33	M_ttM_ stlouisfed He knows what Neo-Fisherism is, at least. Doesn't like it of course.
+1954swilliamson	717892857529368577	2016-04-07T01:52:49	dandolfa B_Renzle DavidBeckworth kocherlakota009 MarkThoma exactly. reserves less useful than UST. confnd to fewer traders + reg. costs
+1954swilliamson	717757097299935234	2016-04-06T16:53:21	kocherlakota009 DavidBeckworth dandolfa MarkThoma safe asset shortage can make R&gt;0 optimal w/more Taylor perils: 
+1954swilliamson	717557437071364096	2016-04-06T03:39:59	PIrelandatBC FrancoisGourio think of this as a t-bill liquidity premium - asset widely traded and useful as collateral in repo transctns
+1954swilliamson	717557000595345408	2016-04-06T03:38:15	PIrelandatBC FrancoisGourio t bill is a "better" asset than reserves. ff is unsecured, and limited to reserve account holders.
+1954swilliamson	717556614702587905	2016-04-06T03:36:43	FrancoisGourio PIrelandatBC sure, if a branch of a foreign bank has a reserve acct, it can get IOER. Also: 
+1954swilliamson	717456499522404353	2016-04-05T20:58:53	MacRoweNick farmerrf your case is fiscal policy gone kaput - like what would have happened in Greece w/o the ECB?
+1954swilliamson	717455430012653568	2016-04-05T20:54:38	M_ttM_ t0nyyates kocherlakota009 central bank can run away on its obligations with inflation.
+1954swilliamson	717455186914967553	2016-04-05T20:53:40	M_ttM_ t0nyyates kocherlakota009 was thinking more about moral hazard and limited commitment wrt private intermed liabilities.
+1954swilliamson	717422305106747393	2016-04-05T18:43:01	PIrelandatBC see:  
+1954swilliamson	717421451599425536	2016-04-05T18:39:37	PIrelandatBC usual interest rate configuration is:  IOER &gt; ff rate &gt; tbill rate 
+1954swilliamson	717419753879445505	2016-04-05T18:32:52	FrancoisGourio PIrelandatBC you mean this? 
+1954swilliamson	717418897557684225	2016-04-05T18:29:28	t0nyyates kocherlakota009 M_ttM_ as with QE, for eg. if it works, must be that I trust Fed more than private financial intermediaries.
+1954swilliamson	717418682519912448	2016-04-05T18:28:37	t0nyyates kocherlakota009 M_ttM_ not defending f mae, but the arg would have to be on the liabilities side. trust f mae, not private intm
+1954swilliamson	717390760752984064	2016-04-05T16:37:40	kocherlakota009 M_ttM_ presumably f mae also contracts out its trash collection.
+1954swilliamson	717390584709664769	2016-04-05T16:36:58	kocherlakota009 M_ttM_ seems a detail. e.g. f mae issues agency debt, holds mortgages in its portfolio. some agent collects on the debts.
+1954swilliamson	717389093647175680	2016-04-05T16:31:03	kocherlakota009 M_ttM_ agreed.
+1954swilliamson	717388765228965888	2016-04-05T16:29:44	MacRoweNick farmerrf think about the problem of a CB borrowing short, lending long, and it wants to increase R. What happens?
+1954swilliamson	717377933891899393	2016-04-05T15:46:42	kocherlakota009 M_ttM_ socially optimal, or better if you want to subsidize home ownership?
+1954swilliamson	717377353219907584	2016-04-05T15:44:23	MacRoweNick farmerrf I'm with Roger. CB can be technically insolvent, and no need to engage in some Ponzi scheme.
+1954swilliamson	717374869323718657	2016-04-05T15:34:31	M_ttM_ kocherlakota009 it's all related. should government be a financial intermediary? think about mortgages &amp; fannie mae, for ex.
+1954swilliamson	717356287382593536	2016-04-05T14:20:41	M_ttM_ kocherlakota009 works even if gov't no better at collecting on debts. A little complicated: 
+1954swilliamson	717353118619467776	2016-04-05T14:08:05	M_ttM_ kocherlakota009 And, gov't debt useful as collateral, as gov better at collecting on its tax liabilities.
+1954swilliamson	717349860492455938	2016-04-05T13:55:09	PIrelandatBC In the US, the interest rate margin is typically attributed to regulatory costs.
+1954swilliamson	717349635501625344	2016-04-05T13:54:15	PIrelandatBC daylight clearing and settlement requires a very small amount of reserves relative to what's outstanding.
+1954swilliamson	717104436783349761	2016-04-04T21:39:55	PIrelandatBC the only reason the positive spread can be maintained is lack of arbitrage - as in the U.S.
+1954swilliamson	717087071777632256	2016-04-04T20:30:55	PIrelandatBC So, whatever the interest rate on reserves, it's a liquidity trap.
+1954swilliamson	717086769850687488	2016-04-04T20:29:43	PIrelandatBC If reserves bear interest and have roughly the same properties as T-bills, then swaps of reserves for T-bills should be ntrl.
+1954swilliamson	717079800674816000	2016-04-04T20:02:01	MacRoweNick t0nyyates C_Trombley1 The average person doesn't know the square root of 81.
+1954swilliamson	717079464262303745	2016-04-04T20:00:41	t0nyyates C_Trombley1 MacRoweNick bad argument. For me, working out RE equilibirum is just as easy as running a regression.
+1954swilliamson	717078871581941760	2016-04-04T19:58:20	LJKawa HighlySalassee M_C_Klein not "too" big, just big. The Canadian banking system may or may not be optimal, but it's sure safe.
+1954swilliamson	717030966187790336	2016-04-04T16:47:58	PIrelandatBC So, what does a quantity theorist prescribe when there is a large stock of excess reserves? How do you make M growth go up?
+1954swilliamson	717028592438251520	2016-04-04T16:38:32	C_Trombley1 MacRoweNick not sure what that means. key question is why I should think this is any better than assuming RE.
+1954swilliamson	717028263458025472	2016-04-04T16:37:14	PIrelandatBC usual problems of course. why do you think so highly of this measure of "money?" Are you the last of the quantity theorists?
+1954swilliamson	716990328721375232	2016-04-04T14:06:30	for a quantity theorist, 6% money growth, 2% GDP growth, and 2% inflation target should spell tightening. 
+1954swilliamson	716979626053009408	2016-04-04T13:23:58	t0nyyates of course the current problem is meeting the current target.
+1954swilliamson	716979208619069445	2016-04-04T13:22:18	MacRoweNick You think that's plausible? Everyone out there doing OLS?
+1954swilliamson	716760767505129472	2016-04-03T22:54:18	MacRoweNick depends how they learn, of course. What do we know about that?
+1954swilliamson	716751879850430464	2016-04-03T22:18:59	Noahpinion The whole lot of you is hard to take sometimes.
+1954swilliamson	716750741868642304	2016-04-03T22:14:28	blub_29 farmerrf EconomicPolicy in 1970s people wanted to get rid of excessive inflation with "incomes policy." Roger puts tht in revrs.
+1954swilliamson	716749758908354560	2016-04-03T22:10:33	@Noahpinionn not like we're that informative when we argue by analogy. Narayana just told me economic policymakers are the power company.
+1954swilliamson	716748513502072832	2016-04-03T22:05:36	MacRoweNick Why is this worth getting?
+1954swilliamson	716747892430516224	2016-04-03T22:03:08	t0nyyates How do you want to do this? Can I get past the pay wall to find out?
+1954swilliamson	716746664501846016	2016-04-03T21:58:15	Claudia_Sahm Noahpinion I introduced the rep. agent in Chapter 3 of my intermediate macro book. No one every complained - about that.
+1954swilliamson	716745504764203009	2016-04-03T21:53:39	t0nyyates kocherlakota009 I thought the policymaker was the doctor. Now she's the power company.
+1954swilliamson	715192052980391936	2016-03-30T15:00:47	Not sure why people feel a need to apologize for thinking about Fisher effects. 
+1954swilliamson	714922405794177024	2016-03-29T21:09:18	Noahpinion yes, dignity premium rises with proximity to policy. We're also issued disguises to sneak in the door unrecognized. :-)
+1954swilliamson	714910836691578880	2016-03-29T20:23:20	Noahpinion Suppose my relatives hate the Fed. Should I get a subsidy for my loss of dignity?
+1954swilliamson	714897279941881856	2016-03-29T19:29:28	Noahpinion easy. the government likes mandates that have no direct implications for the government budget.
+1954swilliamson	714896430779932672	2016-03-29T19:26:05	Noahpinion There seems to be a legitimate role for government somewhere in there. Not sure it has anything to do with legislating wages.
+1954swilliamson	714881487493943296	2016-03-29T18:26:43	Noahpinion So the problem is empathy. Better work on the parents and friends. Or Mary needs a support group.
+1954swilliamson	714881062518697985	2016-03-29T18:25:01	Noahpinion and not just a scheme to redistribute from young to old.
+1954swilliamson	714880788412542976	2016-03-29T18:23:56	Noahpinion I think that's to give the illusion that it's a retirement account.
+1954swilliamson	714879949316882435	2016-03-29T18:20:36	Noahpinion Mary works in McDonalds. Which does Mary prefer: (i) $8/hr &amp; each customer says "great job." (ii) $15/hr and no compliments.
+1954swilliamson	714878752262529024	2016-03-29T18:15:51	Noahpinion For example, some say that Americans need to feel more dignified relative to others in the world. Are you on board with that?
+1954swilliamson	714878019689558016	2016-03-29T18:12:56	Noahpinion Dignity as a goal seems fine. What gets done in the cause of dignity is another thing.
+1954swilliamson	714848521103351808	2016-03-29T16:15:43	dandolfa t0nyyates Good to see you're setting high standards. :)
+1954swilliamson	714832942766264322	2016-03-29T15:13:49	dandolfa t0nyyates not sure that's anything to kill for.
+1954swilliamson	714832850122461184	2016-03-29T15:13:27	dandolfa t0nyyates You'll have to pardon David's boasting. We have indeed been undershooting for going on 4 yrs. 
+1954swilliamson	714831211391090688	2016-03-29T15:06:56	Noahpinion nothing new about your idea. e.g. cultural revolution was supposed to be dignity-promoting. That was certainly big and important
+1954swilliamson	714811188752809984	2016-03-29T13:47:22	Noahpinion the aggregate quantity of dignity is unlimited. People tell me that Cubans are really happy and dignified. Also really poor.
+1954swilliamson	714625715342172164	2016-03-29T01:30:22	Noahpinion That's why people keep calling me "person of advanced age."
+1954swilliamson	714621395162894336	2016-03-29T01:13:12	Noahpinion so taxing carbon to subsidize McDonalds would be a hard sell, but somehow a minimum wage seems like a free lunch.
+1954swilliamson	714618526103785472	2016-03-29T01:01:48	Noahpinion equivalent to taxing firms hiring low-skilled workers, in order to finance a subsidy to low-skilled workers.
+1954swilliamson	714617613695848448	2016-03-29T00:58:10	Noahpinion sure. basically a redistribution with a deadweight loss. So, there isn't enough to compensate the losers.
+1954swilliamson	714581449798582272	2016-03-28T22:34:28	Noahpinion measured emp effects are short run. long-run adjs are: substitute K and high-skilled L for low-skilled L; go out of business.
+1954swilliamson	714532361594011648	2016-03-28T19:19:25	Noahpinion public/private distinction is probably more important. Less funding for large midwestern public institutions: MI, WI, MN, IL
+1954swilliamson	714531420299919361	2016-03-28T19:15:40	Noahpinion best minds of a generation, destroyed by twitter.
+1954swilliamson	714445627279540227	2016-03-28T13:34:45	In the spirit of his post, Narayana should put a confidence band on recommendations (1) and (2). 
+1954swilliamson	714155173858246656	2016-03-27T18:20:36	t0nyyates central banks try to score goals by shooting at their own goal.
+1954swilliamson	714153452436258816	2016-03-27T18:13:46	t0nyyates no, wouldn't name it after coauthors. Probably Bagehot. Beagle Bagehot?
+1954swilliamson	714132732536721408	2016-03-27T16:51:26	t0nyyates What do you think Bernanke calls his dog now?
+1954swilliamson	714117911044952065	2016-03-27T15:52:32	vediense See this: 
+1954swilliamson	714116207561969664	2016-03-27T15:45:46	t0nyyates Mankiw once had a dog named Keynes.
+1954swilliamson	714115615561093120	2016-03-27T15:43:25	Their inflation forecasts are similar. 
+1954swilliamson	713812920006615040	2016-03-26T19:40:36	Claudia_Sahm least squares learning isn't IRL either.
+1954swilliamson	713808273766363136	2016-03-26T19:22:09	Claudia_Sahm t0nyyates Noahpinion IRL?
+1954swilliamson	713807983281463297	2016-03-26T19:20:59	Noahpinion presumably "more data" means you don't have "data problems."
+1954swilliamson	713801143420211200	2016-03-26T18:53:49	t0nyyates Noahpinion more like you have an annoying relative living in your house. ths thng pts him/her in bsmt while you get stuff done.
+1954swilliamson	713799785392672769	2016-03-26T18:48:25	Claudia_Sahm I should go back to 5th grade.
+1954swilliamson	713799397713137665	2016-03-26T18:46:52	Noahpinion t0nyyates RE is a labor-saving device, like a dishwasher. frees your time up to do something more useful.
+1954swilliamson	713798908162408448	2016-03-26T18:44:56	Noahpinion this is complicated. in the 1950s people knew what a regression was. but it was very time consuming to run one.
+1954swilliamson	713798170883395584	2016-03-26T18:42:00	Claudia_Sahm It was related to this product: 
+1954swilliamson	713797148068880385	2016-03-26T18:37:56	Claudia_Sahm when I was in first grade, we made ash trays out of asbestos.
+1954swilliamson	713796812969127936	2016-03-26T18:36:36	Noahpinion what's the difference between a tool and an idea? e.g. what's dynamic optimization? rational expectations?
+1954swilliamson	713795382094856192	2016-03-26T18:30:55	t0nyyates better that it be short-term bills if you're going to do it. Reserves are basically crappy assets.
+1954swilliamson	713793073457733633	2016-03-26T18:21:45	t0nyyates thought that was QE, but OK. hard to make a case that the CB is better at this. but could be means for sidestepping fiscal policy
+1954swilliamson	713745591663067136	2016-03-26T15:13:04	t0nyyates what's credit easing?
+1954swilliamson	713497337201430530	2016-03-25T22:46:35	More on dots: 
+1954swilliamson	713164629179047937	2016-03-25T00:44:32	kocherlakota009 DavidBeckworth Noahpinion paulkrugman didn't have an inflation goal until January 2012.
+1954swilliamson	713163878482493440	2016-03-25T00:41:33	kocherlakota009 DavidBeckworth Noahpinion paulkrugman "ability" isn't measurable in this case. is ECB able? Riksbank? SNB? BOJ?
+1954swilliamson	713113384070225920	2016-03-24T21:20:54	kocherlakota009 DavidBeckworth Noahpinion paulkrugman inflation control is easy if you get the sign right.
+1954swilliamson	713113294253338624	2016-03-24T21:20:33	kocherlakota009 DavidBeckworth Noahpinion paulkrugman We could say: (i) didn't do enough; (ii) doing it wrong. I'd say (ii).
+1954swilliamson	713112286555025408	2016-03-24T21:16:32	MacRoweNick yes.
+1954swilliamson	713101428554801152	2016-03-24T20:33:24	kocherlakota009 DavidBeckworth Noahpinion paulkrugman But by your definition they were trying really hard. Zero for 7 years, much QE.
+1954swilliamson	713100107751657472	2016-03-24T20:28:09	MacRoweNick Telegraph Canadians tend to shoot left, Americans right. 
+1954swilliamson	713007182367690753	2016-03-24T14:18:53	t0nyyates God forbid we think about financial stuff.
+1954swilliamson	713006783812411392	2016-03-24T14:17:18	Noahpinion t0nyyates kocherlakota009 point is the "helicopter" is just a CB balance sheet expansion - it's the fiscal policy, stupid. :-)
+1954swilliamson	713001167517646848	2016-03-24T13:54:59	t0nyyates It's in here:  I have some slides for a conference next week too - later.
+1954swilliamson	712999459165069313	2016-03-24T13:48:12	t0nyyates probably Narayana is thinking Phillips curve.
+1954swilliamson	712998969094189057	2016-03-24T13:46:15	t0nyyates binding collateral constraints. more gov debt relaxes the constraints. real rate up. if nominal rate constant, inflation down.
+1954swilliamson	712997804830957568	2016-03-24T13:41:38	Agree that "helicopter drop" is just held as reserves, but xpnsn in gov debt lowers inflation, not other way arnd 
+1954swilliamson	712708764143472640	2016-03-23T18:33:05	t0nyyates Noahpinion Don't think of "the Fed" as a person that "knows" things. It's a group of individuals trying to agree on stuff.
+1954swilliamson	712706929429118976	2016-03-23T18:25:48	dandolfa kocherlakota009 t0nyyates can make a case that the path for the short rate matters - it's not just the stuff in dual mandate.
+1954swilliamson	712705696286924800	2016-03-23T18:20:54	t0nyyates Noahpinion What's in the data now that didn't "pan out" as predicted?
+1954swilliamson	712704959410606081	2016-03-23T18:17:58	Noahpinion brings us to "efficient," which is another one.
+1954swilliamson	712704409784836096	2016-03-23T18:15:47	t0nyyates kocherlakota009 happy to have just one to sort out.
+1954swilliamson	712654111573803008	2016-03-23T14:55:55	t0nyyates kocherlakota009 that's the argument the policymaker gives you before confusing everyone.
+1954swilliamson	712653414606331904	2016-03-23T14:53:09	kocherlakota009 t0nyyates seems an example of how foreward guidance can go wrong - too much talk (and changing talk) sows confusion.
+1954swilliamson	712637510648606720	2016-03-23T13:49:57	kocherlakota009 t0nyyates you want people to understand the policy rule. people think an instrument forecast is a commitment.
+1954swilliamson	712635929085607938	2016-03-23T13:43:40	jmarcusnunes kocherlakota009 t0nyyates Nunes is confused. Roughly, Bullard is agreeing with Narayana on this one.
+1954swilliamson	712273993500217349	2016-03-22T13:45:28	Noahpinion no, that's just a Bayesian with a very low-dispersion prior trying to make other's posterior distns look like his/her prior.
+1954swilliamson	712099056097452032	2016-03-22T02:10:19	t0nyyates don't worry, I get that too.
+1954swilliamson	712001829756731392	2016-03-21T19:43:59	t0nyyates this is why we learn recursion.
+1954swilliamson	711997855142060032	2016-03-21T19:28:11	C_Trombley1 Noahpinion definition of definition: a statement of the exact meaning of a word. vague is not a synonym for exact, I think.
+1954swilliamson	711994216667226112	2016-03-21T19:13:44	C_Trombley1 Noahpinion seems a bad definition. some quite school at 16. some go to grad school and don't get out until 40.
+1954swilliamson	711993334017826816	2016-03-21T19:10:13	Noahpinion only applies to MBAs.
+1954swilliamson	711992675990261760	2016-03-21T19:07:36	Noahpinion C_Trombley1 depends how define "attaining adulthood."
+1954swilliamson	711989773934592002	2016-03-21T18:56:04	Noahpinion You have much more human capital. Who gave you that? 
+1954swilliamson	711919865469112320	2016-03-21T14:18:17	t0nyyates Japan has had 20 years of inflation averaging about zero. There's nothing in BOJ policy or other factors that shd incrs inflation
+1954swilliamson	711905320503672832	2016-03-21T13:20:29	t0nyyates a few days ago, I sighted a leprechaun.
+1954swilliamson	711674186402377728	2016-03-20T22:02:02	Noahpinion that was annoying.
+1954swilliamson	711674026901372928	2016-03-20T22:01:24	Noahpinion mine too. tho whn in grd schl I met an elderly woman - nvr wrkd a day in life, xtrmly wlthy, says: "those who can't do, teach"
+1954swilliamson	711638682030084096	2016-03-20T19:40:58	Noahpinion no, I understand that. But sometimes the initial endowment kills effort. If that's the rich uncle, he's really annoying.
+1954swilliamson	711637303014268928	2016-03-20T19:35:29	kocherlakota009 dandolfa also, in early period labor force participation going up, in later period down.
+1954swilliamson	711636935698030592	2016-03-20T19:34:01	smithsj Noahpinion Yes, Noah, even in Clayton, MO.
+1954swilliamson	711624546030215168	2016-03-20T18:44:47	Claudia_Sahm OK, I'll give him a chance. Though I thought his helicopter drop ideas were goofy.
+1954swilliamson	711623834021928960	2016-03-20T18:41:58	kocherlakota009 dandolfa later period is very different. lower growth in factor inputs, particularly labor, if you do std growth acctg.
+1954swilliamson	711622212977950720	2016-03-20T18:35:31	Noahpinion millenials can have my house. Tired of fixing the damn thing.
+1954swilliamson	711617589508644864	2016-03-20T18:17:09	Claudia_Sahm though I get irked when people claim "we" ignored the details of the financial system.
+1954swilliamson	711616044394106880	2016-03-20T18:11:00	MacRoweNick Seriously, I just ignore these messages. They will figure it out.
+1954swilliamson	711615577333243904	2016-03-20T18:09:09	MacRoweNick Depends what they want you to supervise.
+1954swilliamson	711614838133252096	2016-03-20T18:06:13	Noahpinion Annoyingly, the annoying rich uncle is often right. Success may be 5% talent/95% effort. But some are blind to their good luck.
+1954swilliamson	711267145145929729	2016-03-19T19:04:36	Noahpinion Typically an article titled "How Economics Failed" is authored by someone who knows little economics. Right again.
+1954swilliamson	711214613799383040	2016-03-19T15:35:52	GarettJones Claudia_Sahm So you can set x=ln(1+x)?
+1954swilliamson	711199790206361600	2016-03-19T14:36:58	Claudia_Sahm Noahpinion We need another word. Trump-rational?
+1954swilliamson	710946185205276673	2016-03-18T21:49:13	kocherlakota009 benbernanke like in Sweden?
+1954swilliamson	710944755333472256	2016-03-18T21:43:33	Noahpinion PeterFavaloro mattyglesias not like we should get too excited yet this is a monetary phenomenon, for various reasons.
+1954swilliamson	710943986119086082	2016-03-18T21:40:29	Noahpinion PeterFavaloro mattyglesias Erdogan indeed sounded neo-Fisherite, though probably confused anyway. Oh well. btw inflation is up
+1954swilliamson	710557054025371648	2016-03-17T20:02:57	MacRoweNick t0nyyates then you can convince students that knowledge is boundless, and we can produce every increasing q's of intangibles
+1954swilliamson	710556354537082880	2016-03-17T20:00:11	MacRoweNick t0nyyates if you have production, and the output is perishable, it's easy to call it a service.
+1954swilliamson	709762187867205632	2016-03-15T15:24:26	farmerrf it's a little weird that this idea needs a name, but apparently it's not obvious to everyone.
+1954swilliamson	709734051888779264	2016-03-15T13:32:38	salimfurth Noahpinion this is after repairs.
+1954swilliamson	709731239914176513	2016-03-15T13:21:28	Noahpinion Moose meat.
+1954swilliamson	709730970555908097	2016-03-15T13:20:24	Noahpinion yes, back in the day, we ran them on meat, eh?
+1954swilliamson	709544161381208065	2016-03-15T00:58:05	Noahpinion maybe I should get my car fixed by a butcher.
+1954swilliamson	709451664772571140	2016-03-14T18:50:32	t0nyyates Noahpinion little effort.
+1954swilliamson	709451528860360704	2016-03-14T18:50:00	t0nyyates Noahpinion how Noah comes to quote Arlo Guthrie is beyond me, but I did chuckle. NF is a property of NK in more ways than one.
+1954swilliamson	709450095998054402	2016-03-14T18:44:18	Noahpinion We Canadians are very upbeat and positive :)
+1954swilliamson	709448908355731456	2016-03-14T18:39:35	t0nyyates That's actually a plausible outcome from this whole process. CBs, unable to increase inflation, lower their targets to save face.
+1954swilliamson	709447057308684290	2016-03-14T18:32:14	t0nyyates is he frowning, or is that his happy face?
+1954swilliamson	708684447684681729	2016-03-12T16:01:53	t0nyyates left a comment.
+1954swilliamson	708321526500581378	2016-03-11T15:59:46	MacRoweNick Sure, but I'm saying that's not what they are doing in practice either. They don't know model, and are making systematic errors
+1954swilliamson	708299250954686464	2016-03-11T14:31:15	MacRoweNick i can show you a model where the CB experiments, sees a negative correlation between R and pi, and the world is actually NF.
+1954swilliamson	708298464959062016	2016-03-11T14:28:08	MacRoweNick and it's the belief that R down means pi up that causes all these central banks to get stuck, and perpetually miss on low side.
+1954swilliamson	708296832791613440	2016-03-11T14:21:39	MacRoweNick Sure, if they actually nailed inflation to the target, the correlation would be zero. But they don't.
+1954swilliamson	708121165072498688	2016-03-11T02:43:36	MacRoweNick i.e. a wide array of structural models has these properties, so I don't get it.
+1954swilliamson	708120548635574272	2016-03-11T02:41:09	MacRoweNick I knew that. What's that have to do with NF?
+1954swilliamson	708112171683725313	2016-03-11T02:07:52	MacRoweNick You'll have to explain that one to me.
+1954swilliamson	708076223981707264	2016-03-10T23:45:01	I approve this message:  1 quibble: neo-Fisherism not radical, just mainstream theory.
+1954swilliamson	707704099886620672	2016-03-09T23:06:20	Noahpinion he's not talking about the dark age of macro any more. as you can imagine, that helps a lot.
+1954swilliamson	707338185714442240	2016-03-08T22:52:19	kocherlakota009 salimfurth dandolfa MacRoweNick agreed. But what about your "fiscal offset" in isolation?
+1954swilliamson	707326104814497792	2016-03-08T22:04:19	kocherlakota009 salimfurth dandolfa MacRoweNick would you tell me I'm stupid if I said higher R would raise inflation expectations?
+1954swilliamson	707323115076845568	2016-03-08T21:52:26	kocherlakota009 salimfurth dandolfa MacRoweNick That's standard NK. But not a standard NK situation. initial state is heavily distorted.
+1954swilliamson	707299044121415680	2016-03-08T20:16:47	kocherlakota009 salimfurth dandolfa MacRoweNick through what mechanism? start in 1946 with relative prices out of whack. what's optimal?
+1954swilliamson	707295966718627840	2016-03-08T20:04:34	kocherlakota009 ticketdust dandolfa salimfurth MacRoweNick frightening for us is the rhetoric - matches current xtrm right and left.
+1954swilliamson	707295507517825024	2016-03-08T20:02:44	kocherlakota009 ticketdust dandolfa salimfurth MacRoweNick big public invstmnt, high growth, u low by 39, even Hansen territory expn.
+1954swilliamson	707294909938569216	2016-03-08T20:00:22	kocherlakota009 ticketdust dandolfa salimfurth MacRoweNick Germany 33-39 looks like your story (absent the frightening part).
+1954swilliamson	707292273986248704	2016-03-08T19:49:53	kocherlakota009 salimfurth dandolfa MacRoweNick pre Accord, no mp. price cntrls lifted 1946, then inflation takes off. looks like bad mp
+1954swilliamson	707260370113531904	2016-03-08T17:43:07	kocherlakota009 MacRoweNick dandolfa Also what Taylor had in mind with his rule.
+1954swilliamson	707252816947978240	2016-03-08T17:13:06	dandolfa kocherlakota009 MacRoweNick doesn't look like OK stimulus. where's the multiplier?
+1954swilliamson	707252426244403202	2016-03-08T17:11:33	kocherlakota009 salimfurth dandolfa MacRoweNick what's the smplst explntn for what's going on? smtms things are complicated.
+1954swilliamson	707250025944866816	2016-03-08T17:02:00	salimfurth kocherlakota009 dandolfa MacRoweNick well, wars do get in the way of moving stuff around the world.
+1954swilliamson	707249804749856768	2016-03-08T17:01:08	kocherlakota009 salimfurth dandolfa MacRoweNick big investment - eg Germany/Japan - doesn't Solow do a good job w/that?
+1954swilliamson	707248443513638913	2016-03-08T16:55:43	salimfurth kocherlakota009 dandolfa MacRoweNick and if expectations dominate, many things would never have happened.
+1954swilliamson	707241307849105408	2016-03-08T16:27:22	kocherlakota009 MacRoweNick dandolfa if sticky prices are the only friction. shortage of gov debt tells you something difft.
+1954swilliamson	707238700359417856	2016-03-08T16:17:00	kocherlakota009 salimfurth dandolfa MacRoweNick Yes. By std OK stry, big drop in G, big ngtive sectoral shock should be devastating.
+1954swilliamson	707237603905417217	2016-03-08T16:12:39	kocherlakota009 salimfurth dandolfa MacRoweNick also US appropriation of German technology as spoils of war.
+1954swilliamson	707235084374384641	2016-03-08T16:02:38	kocherlakota009 salimfurth dandolfa MacRoweNick compare this to UK post-WWII.
+1954swilliamson	707234910763819008	2016-03-08T16:01:57	kocherlakota009 salimfurth dandolfa MacRoweNick in 1945, U.S. economy is ready to go.
+1954swilliamson	707234814785499136	2016-03-08T16:01:34	kocherlakota009 salimfurth dandolfa MacRoweNick U.S. appropriated much German technology as WWII war booty.
+1954swilliamson	707234644551278592	2016-03-08T16:00:53	kocherlakota009 salimfurth dandolfa MacRoweNick higher education in U.S. pre-WWII built on European human capital.
+1954swilliamson	707215086088097792	2016-03-08T14:43:10	kocherlakota009 MacRoweNick dandolfa Post WWII recovery: sectoral reallocation from wartime production. What's the parallel?
+1954swilliamson	707214318601838597	2016-03-08T14:40:07	kocherlakota009 MacRoweNick dandolfa low growth need not put ZLB in play. That's a CB choice.
+1954swilliamson	707022196305047554	2016-03-08T01:56:42	1EquationShort @Noahpinionstudents stdnts will eventually run into this stuff. Best hope is you give them enough tools to think critically
+1954swilliamson	706972651193929728	2016-03-07T22:39:49	Noahpinion or leave out principles entirely for majors, and start them at intermediate level.
+1954swilliamson	706972144974974977	2016-03-07T22:37:48	MacRoweNick Yes, that's why PLT could work better. With IT you're absolved daily with no consequences.
+1954swilliamson	706971329321250816	2016-03-07T22:34:34	Noahpinion like standard intermediate level competitive consumer and production theory. Some micros just want to do game theory.
+1954swilliamson	706970890773266433	2016-03-07T22:32:49	Noahpinion dandolfa I knew there was an uncle here. Smith Sr. too?
+1954swilliamson	706970635121983488	2016-03-07T22:31:48	Noahpinion you give them this set of tools - here's what we understand about these markets - so they can run with it.
+1954swilliamson	706970365570879488	2016-03-07T22:30:44	Noahpinion we always want to know more. we know a lot more than they did 25 years ago.
+1954swilliamson	706969959239278594	2016-03-07T22:29:07	Noahpinion here are some things: labor search, credit markets, basic money, banking. nonneutralities (including sticky prices) of money.
+1954swilliamson	706967633225080832	2016-03-07T22:19:53	Noahpinion me to kids: "There's some stupid stuff in the news today. Here's what those dopes are trying to say."
+1954swilliamson	706966905731481600	2016-03-07T22:16:59	Noahpinion C_Trombley1 to be honest (ha ha) I'm just being fair. let the person explain him/herself before you give them a hard time.
+1954swilliamson	706964861696102400	2016-03-07T22:08:52	Noahpinion MacRoweNick Chapter 7 of my favorite book, except the facts aren't stylized - there's actual data.
+1954swilliamson	706964547941171200	2016-03-07T22:07:37	Noahpinion MacRoweNick 2 wks of that, and you get the typical nonsense that gets written by journalists for NYT and WSJ.
+1954swilliamson	706964007165407232	2016-03-07T22:05:28	Noahpinion So the macros teach it. I wrote my book as something that would integrate with other non-macro courses in the curriculum.
+1954swilliamson	706963701836820481	2016-03-07T22:04:15	Noahpinion One argument would be that it's just a name. Micro/macro, who cares? In graduate programs, micros have abandoned GE. 1/2
+1954swilliamson	706962939123601409	2016-03-07T22:01:14	Noahpinion not sure what you mean. Help me understand your Dad.
+1954swilliamson	706962614488662016	2016-03-07T21:59:56	MacRoweNick you could argue that PLT is superior in theory, but then it's just a different metric for success.
+1954swilliamson	706962283268689920	2016-03-07T21:58:37	MacRoweNick But if it's an inflation target, then past inflation is bygones, so you can't accuse them of failing in the mission.
+1954swilliamson	706925793260142592	2016-03-07T19:33:37	MacRoweNick BOC seems to have done better than some other central banks.
+1954swilliamson	706875692672163840	2016-03-07T16:14:32	Read last paragraph. Fiscal advice unobjectionable. Monetary advice not helpful. Read:  
+1954swilliamson	706868250777231360	2016-03-07T15:44:58	MacRoweNick Noahpinion you would never show them a Solow growth model, for example?
+1954swilliamson	706867892688564225	2016-03-07T15:43:33	MacRoweNick Noahpinion dynamic AD/AS = IS/LM plus Phillips curve?
+1954swilliamson	706846768651079680	2016-03-07T14:19:36	Noahpinion what the hell is "dynamic AD-AS?"
+1954swilliamson	706846375065964544	2016-03-07T14:18:03	Noahpinion sometimes the students will never see price theory unless they take macro.
+1954swilliamson	706845761791590400	2016-03-07T14:15:36	Noahpinion how can I sell any books?
+1954swilliamson	706525085012611072	2016-03-06T17:01:21	Noahpinion Thomas_Zwilling a small town with no private schools is a great leveler. Stupidity/ignorance seem uniformly distributed.
+1954swilliamson	706522479477415937	2016-03-06T16:51:00	Noahpinion Yes, the belief that some people will just keep coming back could be a dangerous.
+1954swilliamson	706241609164140545	2016-03-05T22:14:55	t0nyyates Noahpinion It's a good story. Sims is a genius, and I loved this stuff when I discovered it in 1980. Now I'm a jaded old fart.
+1954swilliamson	706240445328674816	2016-03-05T22:10:18	t0nyyates Noahpinion so I don't know. my experience is that larry christiano can produce any result, and give you a "reasonable" explntn
+1954swilliamson	706239660993826816	2016-03-05T22:07:11	t0nyyates Noahpinion commodities prices? conventional central bankers seem to want to ignore those.
+1954swilliamson	706239106758541312	2016-03-05T22:04:58	slumps: 
+1954swilliamson	706223423958061057	2016-03-05T21:02:39	t0nyyates Noahpinion and "what central bankers respond to" is everything in the universe, including what you just heard in the coffee shop
+1954swilliamson	706222176098086912	2016-03-05T20:57:42	t0nyyates Noahpinion find a specification that conforms to my priors. Success! puzzle solved.
+1954swilliamson	706221708659658752	2016-03-05T20:55:50	t0nyyates Noahpinion nothing new about specification searches. Leamer wrote about it long ago.
+1954swilliamson	706219689127464960	2016-03-05T20:47:49	t0nyyates Noahpinion people work hard to get rid of the "price puzzle" which is quite non-puzzling. See V. Ramey's new hdk of macro chptr
+1954swilliamson	706202410792808449	2016-03-05T19:39:09	Noahpinion kocherlakota009 IvanWerning mileskimball dandolfa t0nyyates Thx muchly.
+1954swilliamson	706201673442525184	2016-03-05T19:36:14	t0nyyates Noahpinion Cochrane says NK has NF properties.
+1954swilliamson	706201059409047552	2016-03-05T19:33:47	t0nyyates Noahpinion these are VAR restrictions?
+1954swilliamson	705874464928452609	2016-03-04T21:56:01	t0nyyates Noahpinion This is going to be really loose, but I'll say 6 months.
+1954swilliamson	705862640589877249	2016-03-04T21:09:02	t0nyyates darioperkins sjwrenlewis met him once. within a std dev of the mean for economists.
+1954swilliamson	705857628753121280	2016-03-04T20:49:07	t0nyyates Noahpinion and in the short run the fisher effect is going to be swamped by non-monetary variability in inflation.
+1954swilliamson	705857003223027712	2016-03-04T20:46:38	t0nyyates Noahpinion exactly. in any model with non-neutralities, that's what happens. so that combined with a small impulse dsnt do much
+1954swilliamson	705854575920558080	2016-03-04T20:36:59	t0nyyates sjwrenlewis this books rehashes the episode (you probably already know about it): 
+1954swilliamson	705854310274347008	2016-03-04T20:35:56	Noahpinion pulling my chain, right? too soon to see that, I think, and hike so far small &amp; public seems to think it's unlikely to continue
+1954swilliamson	705840901956857856	2016-03-04T19:42:39	t0nyyates sjwrenlewis one of the few friends of Thatcher in the British econ profession, right?
+1954swilliamson	705794728323756032	2016-03-04T16:39:10	emiliomanfred t0nyyates see these slides: 
+1954swilliamson	705789794278715392	2016-03-04T16:19:34	t0nyyates emiliomanfred "natural" in this case might imply real rate inefficiently high, but could be inefficiently low.
+1954swilliamson	705770228362268673	2016-03-04T15:01:49	emiliomanfred t0nyyates yes. real rate is persistent, and has substantial variation. I hate the adjective "natural" though.
+1954swilliamson	705767524277682176	2016-03-04T14:51:04	MacRoweNick t0nyyates we are stardust, we are golden ...
+1954swilliamson	705766711866200064	2016-03-04T14:47:51	ticketdust MacRoweNick t0nyyates the funny part is that some of the CBs with  humongous balance sheets were thinking like Malcom Inf X
+1954swilliamson	705764389618524160	2016-03-04T14:38:37	t0nyyates I like to reverse the sign on the inflation rate.
+1954swilliamson	705764167202918400	2016-03-04T14:37:44	t0nyyates Sure, reduce the constant enough and increase the coeff. on inflation enough, and actual policy conforms to your rule.
+1954swilliamson	705583591627993088	2016-03-04T02:40:12	Noahpinion emeyerson have you ever noticed that the fuzziest ideas in economics are called "laws." Like Okun's Law, for example.
+1954swilliamson	705582605672919040	2016-03-04T02:36:16	Noahpinion emeyerson throw out your Phillips curve, for sure.
+1954swilliamson	705582540661219328	2016-03-04T02:36:01	Noahpinion emeyerson no. this is just standard. what do you expect to see with 20+ years of low nominal interest rates?
+1954swilliamson	705581833254076417	2016-03-04T02:33:12	emeyerson Noahpinion Head not exploding here. You don't mean "all" mainstream macro - just some econ 101 I think.
+1954swilliamson	705579623929638912	2016-03-04T02:24:26	Noahpinion Elizabethan no-Berns?
+1954swilliamson	705579266352623616	2016-03-04T02:23:00	What's going on with inflation? 
+1954swilliamson	705485252454518784	2016-03-03T20:09:26	MacRoweNick t0nyyates well, it makes &gt;&gt;0 sense to me otherwise. let's leave it at that.
+1954swilliamson	705448346161254400	2016-03-03T17:42:46	WilliamJLuther DavidBeckworth AtlasSoundMoney I see. Paying interest at 0 instead of 0.25 would have done the trick.
+1954swilliamson	705409869889712130	2016-03-03T15:09:53	Didn't mention the Phillips curve: 
+1954swilliamson	705406712191160320	2016-03-03T14:57:20	vediense farmerrf dandolfa M_ttM_ t0nyyates (68) is just equilibrium selection - agree it's a free parameter.
+1954swilliamson	705404969285857280	2016-03-03T14:50:25	MacRoweNick t0nyyates By the way, Tony is right, Nick. baseline NK is standard real competitive equilibrium with no money.
+1954swilliamson	705404464140677121	2016-03-03T14:48:24	MacRoweNick t0nyyates There are properties of NK in the reduced form that people accept, which may not be robust in the fleshed out model.
+1954swilliamson	705403085707878400	2016-03-03T14:42:56	t0nyyates Noahpinion bryan_caplan even Noah.
+1954swilliamson	705402987066175489	2016-03-03T14:42:32	t0nyyates Noahpinion bryan_caplan actually, these choices are better than the majority of people we're actually faced with.
+1954swilliamson	705401209721479168	2016-03-03T14:35:28	farmerrf dandolfa vediense M_ttM_ t0nyyates true. in monetary economics you can't avoid multiple eqm.
+1954swilliamson	705400779239088128	2016-03-03T14:33:46	dandolfa vediense M_ttM_ t0nyyates farmerrf we can't say everything is OK. we have to have a consensus on assumptions or we get nowhere
+1954swilliamson	705399205104209921	2016-03-03T14:27:30	M_ttM_ dandolfa t0nyyates farmerrf M.E. is generally tough for an empirical person to deal with. Talk to the structural micro people.
+1954swilliamson	705209945638117376	2016-03-03T01:55:27	dandolfa M_ttM_ t0nyyates farmerrf I predict you will say another dim-witted thing soon.
+1954swilliamson	705209395999715329	2016-03-03T01:53:16	vediense M_ttM_ dandolfa t0nyyates farmerrf exactly. multiple eqm may not be consistent with anything we might see, but its problmtc
+1954swilliamson	705207990530367488	2016-03-03T01:47:41	dandolfa M_ttM_ t0nyyates farmerrf Ma told me: never trust a Vancouverite.
+1954swilliamson	705162291499511808	2016-03-02T22:46:06	C_Trombley1 Noahpinion a tunesmith.
+1954swilliamson	705161526638850048	2016-03-02T22:43:03	Noahpinion C_Trombley1 I think Sonny Bono skied into a tree. Certainly don't want U2 Bono's glasses.
+1954swilliamson	705159510961225728	2016-03-02T22:35:03	dandolfa M_ttM_ t0nyyates farmerrf I was taught to beware economists who use the word "believe."
+1954swilliamson	705151223553392640	2016-03-02T22:02:07	farmerrf dandolfa M_ttM_ t0nyyates I'm stuck in the 20th century in more ways than one.
+1954swilliamson	705151086064062464	2016-03-02T22:01:34	farmerrf dandolfa M_ttM_ t0nyyates it's a self-fulfilling belief.
+1954swilliamson	705150282653573120	2016-03-02T21:58:23	Noahpinion But if I take Bono's stuff, I will have his stuff.
+1954swilliamson	705149863239921664	2016-03-02T21:56:43	Noahpinion spooknine and the Bernie people won't likely stay home.
+1954swilliamson	705148439701524480	2016-03-02T21:51:03	dandolfa M_ttM_ t0nyyates farmerrf and he was out to lunch on his predictions.
+1954swilliamson	705148100864675840	2016-03-02T21:49:42	dandolfa M_ttM_ t0nyyates farmerrf but we shouldn't take A. Hansen seriously. He seemed pretty confused.
+1954swilliamson	705147799315353600	2016-03-02T21:48:31	dandolfa M_ttM_ t0nyyates farmerrf those aren't shocks. that's an endogenous eqm stochastic process.
+1954swilliamson	705147085159428096	2016-03-02T21:45:40	dandolfa t0nyyates but then he's on about how this means low I and insufficient demand. He was basically the American JMK.
+1954swilliamson	705128462294495232	2016-03-02T20:31:40	dandolfa t0nyyates Hansen was about low population growth and running out of territory to occupy. What's that have to do with RBC?
+1954swilliamson	705063888182575104	2016-03-02T16:15:05	t0nyyates is there ever a new hat? the diffrnc is the technology - could radically chng thinking about central banking vs. private banking.
+1954swilliamson	705043906535297024	2016-03-02T14:55:41	t0nyyates Thanks. I'll read this. fundamental issue for central banking that needs to be addressed. Anything new in the talk? not sure.
+1954swilliamson	704721664941010944	2016-03-01T17:35:12	fwred t0nyyates sounds very familiar - extended considerable patience.
+1954swilliamson	704720574711377920	2016-03-01T17:30:52	1EquationShort kocherlakota009 Noahpinion IvanWerning It has to be backward-looking or limited forward-looking.
+1954swilliamson	704682019469414400	2016-03-01T14:57:40	MacRoweNick DavidBeckworth I love the snow. Don't get enough here. Give me the Bank of Montreal and a snow drift.
+1954swilliamson	704681534712709120	2016-03-01T14:55:44	Noahpinion purge of elites: sounds like Pol Pot
+1954swilliamson	704680931785707521	2016-03-01T14:53:21	fwred t0nyyates BofE goes from under a year to 4 yrs. What's Carney been saying?
+1954swilliamson	704679738959212545	2016-03-01T14:48:36	t0nyyates ScouseView In the Fed system, there's no attempt to coordinate forecasting. The Board does its own thing.
+1954swilliamson	704678759165620225	2016-03-01T14:44:43	MacRoweNick make Canada great again.
+1954swilliamson	704678205886566401	2016-03-01T14:42:31	kocherlakota009 1EquationShort Noahpinion IvanWerning behave like Venezuela, and expectations quickly unstick themselves.
+1954swilliamson	704677302634844160	2016-03-01T14:38:55	kocherlakota009 1EquationShort Noahpinion IvanWerning or it's the policy rule that delivers the stickiness you think you're seeing.
+1954swilliamson	704493318323834880	2016-03-01T02:27:50	technical change and commitment: 
+1954swilliamson	704492632269959168	2016-03-01T02:25:07	kocherlakota009 Noahpinion IvanWerning but how big a problem? and correctible with tax policy.
+1954swilliamson	704490123514122240	2016-03-01T02:15:08	kocherlakota009 1EquationShort Noahpinion IvanWerning but maybe the actual expectations are noisy and the measures are smooth.
+1954swilliamson	704410374729117696	2016-02-29T20:58:15	t0nyyates ilzetzki for sure. now there's a route where asset-backed securities substitute for government debt as collateral.
+1954swilliamson	704409562191802369	2016-02-29T20:55:01	kocherlakota009 Noahpinion IvanWerning with a discontinuity as you go to perfect flexibility?
+1954swilliamson	704408502530240512	2016-02-29T20:50:48	Noahpinion kocherlakota009 IvanWerning which of course is the mainstream.
+1954swilliamson	704408193074491392	2016-02-29T20:49:35	kocherlakota009 Noahpinion IvanWerning seems the weird stuff is coming out of Phillips curve models.
+1954swilliamson	704392789128155137	2016-02-29T19:48:22	t0nyyates Noahpinion heterodox says: "wtf." To me, it looks like good stuff about dynamic incentives - the essence of life.
+1954swilliamson	704392192685510656	2016-02-29T19:46:00	t0nyyates ilzetzki and those are asset prices. How do we think about that?
+1954swilliamson	704391366839644160	2016-02-29T19:42:43	kocherlakota009 Noahpinion IvanWerning never quite understood this. what does it have to do with zero?
+1954swilliamson	704361569694580736	2016-02-29T17:44:19	t0nyyates ilzetzki on stickiness, the argument is that the distortions come from the sticky prices - that's all you worry abt in NK world.
+1954swilliamson	704361237564403712	2016-02-29T17:43:00	t0nyyates ilzetzki for starters, imputed rents don't even involve any transactions - no prices.
+1954swilliamson	704317955098566657	2016-02-29T14:51:00	MacRoweNick Noahpinion you did watch it, but it was so traumatic you locked it away in unrecoverable memory.
+1954swilliamson	704316715287465984	2016-02-29T14:46:05	dandolfa aprilmfranco M_ttM_ UCLA exactly. that's the way I would explain it in class. doesn't capture what is going on I think.
+1954swilliamson	704314971014844416	2016-02-29T14:39:09	t0nyyates high-inflation cmpnents are health care and shelter (mainly imputed rent). questions: temporary? do we care about imputed rent?
+1954swilliamson	704313768700829697	2016-02-29T14:34:22	Noahpinion you're not missing anything.
+1954swilliamson	704122914530922496	2016-02-29T01:55:59	aprilmfranco M_ttM_ dandolfa UCLA but I'm revising it now, and I'm taking that out as I'm not so sure.
+1954swilliamson	704122747392143360	2016-02-29T01:55:19	aprilmfranco M_ttM_ dandolfa UCLA In my book, I used to argue that this was one source of TFP shocks (oil price up, TFP down).
+1954swilliamson	704118757895966720	2016-02-29T01:39:28	M_ttM_ dandolfa Was Ping's model in the book, or did Ping make it up?
+1954swilliamson	704117291349217280	2016-02-29T01:33:38	t0nyyates yes, 100 years of grazing. what beats that?
+1954swilliamson	704116813240532992	2016-02-29T01:31:44	kocherlakota009 DavidBeckworth But r is also too low b/c of insffcnt govt. debt (in real terms). So removing that inefficiency mks r go up
+1954swilliamson	704064538828607488	2016-02-28T22:04:01	Noahpinion thrs a diffrnce btw forecasting and policy analysis. In latter realm we may not trust the Romers either. But it's bs vs. xtrm bs
+1954swilliamson	704062593598492672	2016-02-28T21:56:17	t0nyyates a day chomping on raw gazelle? Rather be the sheep, thanks.
+1954swilliamson	704061395340435460	2016-02-28T21:51:32	kocherlakota009 DavidBeckworth suppose monetary policy just controls inflation. Would that kill your fiscal program?
+1954swilliamson	704059945214291968	2016-02-28T21:45:46	dandolfa M_ttM_ Ping's model not too helpful for that.
+1954swilliamson	704054002715987968	2016-02-28T21:22:09	Noahpinion &amp; over an even longer period, the catchup (ketchup, catsup) becomes less important.
+1954swilliamson	704051962858201088	2016-02-28T21:14:03	Noahpinion Claudia_Sahm would have thght that, if U.S. cnsmrs eating up less of the world's resources,there would be more for evryone else
+1954swilliamson	704049603583160320	2016-02-28T21:04:40	Claudia_Sahm Noahpinion what do you think this means: " too much of the global economy relied on the U.S. consumer."
+1954swilliamson	704048102936702977	2016-02-28T20:58:42	Noahpinion a lot of idiosyncratic factors affecting individual countries over short periods. a longer period and you get rid of some of tht
+1954swilliamson	704047232748617729	2016-02-28T20:55:15	dandolfa M_ttM_ we're thinking about a glbl ecnmy. wht dtrmines the price of an object that is an input to production and an asset - in GE
+1954swilliamson	703972604009263104	2016-02-28T15:58:42	Noahpinion 2002-2007 too short
+1954swilliamson	703972469456003072	2016-02-28T15:58:10	Noahpinion different countries. growth over a long period pre-f. crisis, growth after crisis. Make the comparision across countries.
+1954swilliamson	703971569865895936	2016-02-28T15:54:36	M_ttM_ dandolfa Ping's model probably said a lower relative price of oil was literally a positive TFP shock.
+1954swilliamson	703971133863759876	2016-02-28T15:52:52	M_ttM_ dandolfa yes. "supply" and "demand" have no meaning in GE. That's for econ 101.
+1954swilliamson	703970061447376896	2016-02-28T15:48:36	1EquationShort t0nyyates See "teaching materials" in 
+1954swilliamson	703967980023992320	2016-02-28T15:40:20	1EquationShort t0nyyates One issue: the basic monetary friction is not "search," but information frictions.
+1954swilliamson	703967645024948224	2016-02-28T15:39:00	1EquationShort t0nyyates Some people like the book. The authors are good friends, I know what's in it, but haven't taught from it.
+1954swilliamson	703677799014371329	2016-02-27T20:27:15	From several months ago, but it came up the other day: 
+1954swilliamson	703668148747300864	2016-02-27T19:48:54	female participation rate (40-44) went from about 60% to about 76% over same period. households make joint decisions 
+1954swilliamson	703661195908124672	2016-02-27T19:21:17	Noahpinion what I really meant was "they should have..."
+1954swilliamson	703660860078579712	2016-02-27T19:19:57	M_ttM_ dandolfa exactly. 1970s was supposed to be the double horror of high inflation and a high relative price of oil.
+1954swilliamson	703624177006153728	2016-02-27T16:54:11	ATabarrok salimfurth Noahpinion gfriedma an ignorant gentleman. not unheard of.
+1954swilliamson	703623262715006976	2016-02-27T16:50:33	MarkThoma he should be looking at the participation rates of women too. labor supply is a household decision.
+1954swilliamson	703620513852096512	2016-02-27T16:39:37	paulkrugman yes.
+1954swilliamson	703620289561628672	2016-02-27T16:38:44	Noahpinion there's a typo. should be "empirical," not empirical.
+1954swilliamson	703619683237257216	2016-02-27T16:36:19	Noahpinion Why don't they do pre-crisis average growth over a longer period, like 1945-2007?
+1954swilliamson	703618929202040837	2016-02-27T16:33:19	M_ttM_ dandolfa central bankers trying in vain to get inflation up was not a future problem envisioned by people in the 1970s.
+1954swilliamson	703312566127185920	2016-02-26T20:15:57	dandolfa M_ttM_ intro to macro student: "Why is inflation always 3.14?"
+1954swilliamson	703311458801569792	2016-02-26T20:11:33	dandolfa M_C_Klein kocherlakota009 yeh, the paper you never understood.
+1954swilliamson	703311129058025472	2016-02-26T20:10:14	dandolfa M_ttM_ My favorite number is e.
+1954swilliamson	703310641591767040	2016-02-26T20:08:18	Noahpinion dandolfa always glad to help.
+1954swilliamson	703301399526789120	2016-02-26T19:31:35	dandolfa Noahpinion should increase the Andolfatto allocation.
+1954swilliamson	703248867320397824	2016-02-26T16:02:50	dandolfa M_C_Klein kocherlakota009 "willing to say" isn't much to go on.
+1954swilliamson	703248432144646144	2016-02-26T16:01:06	dandolfa kocherlakota009 M_C_Klein not sure you want to go the 1937 analogy route. WWII is directed public spending?
+1954swilliamson	703243361432408064	2016-02-26T15:40:57	kocherlakota009 dandolfa M_C_Klein Questions: (i) How large are the effects? (ii) Can you get anyone to do it?
+1954swilliamson	703242689454604288	2016-02-26T15:38:17	kocherlakota009 dandolfa M_C_Klein so non-idealogue says: (i) more TFP; (ii) multipliers from complementarities; (iii) shortage of g. dbt
+1954swilliamson	703242190751813632	2016-02-26T15:36:18	kocherlakota009 dandolfa M_C_Klein pttl comes from directed policies. Break it down: (i) education; (ii) infrastructure; (iii) gov. debt.
+1954swilliamson	703241544803856384	2016-02-26T15:33:44	kocherlakota009 dandolfa M_C_Klein so, the only long-run policy in play is fiscal policy. Your point is huge growth potential.
+1954swilliamson	703241023602823168	2016-02-26T15:31:40	kocherlakota009 dandolfa M_C_Klein OK, take monetary policy out of the mix - one could argue it has zero effect on long-run growth.
+1954swilliamson	703234837734240256	2016-02-26T15:07:05	dandolfa M_C_Klein kocherlakota009 What is that new steady state? You've measured it?
+1954swilliamson	703234387027103744	2016-02-26T15:05:17	kocherlakota009 dandolfa M_C_Klein What do you mean by "monetary policy capacity?"
+1954swilliamson	703234146768965632	2016-02-26T15:04:20	dandolfa I read his piece and thought I understood what he was getting at, but you seem to be taking something different out of it.
+1954swilliamson	703064153565466624	2016-02-26T03:48:51	dandolfa Well, maybe you're both wrong.
+1954swilliamson	703058689108750337	2016-02-26T03:27:08	dandolfa no idea what you're trying to say.
+1954swilliamson	703057707998142464	2016-02-26T03:23:14	dandolfa M_C_Klein kocherlakota009 A good or bad measure of what?
+1954swilliamson	703028203779026944	2016-02-26T01:26:00	M_C_Klein dandolfa kocherlakota009 unemployment rate: 1937: 12.2%; 1965: 4.5%; now: 4.9%
+1954swilliamson	702957717686587392	2016-02-25T20:45:54	farmerrf AdairTurnerUK Shorter maturity debt doesn't seem more helpful than long in overcoming that friction.
+1954swilliamson	702957061080903680	2016-02-25T20:43:18	dandolfa No, in that paragraph he's making a general statement w.r.t. to his NK paper.
+1954swilliamson	702956609954123777	2016-02-25T20:41:30	LHSummers Wonkblog Note that 100s are about 2/3 of the outstanding stock of Federal Reserve notes.
+1954swilliamson	702952135852294145	2016-02-25T20:23:44	t0nyyates If you can't make 2, why promise 3 or 4? To make yourself look worse?
+1954swilliamson	702948626981478400	2016-02-25T20:09:47	dandolfa No, he says they can do it. See second-to-last paragraph.
+1954swilliamson	702945994535628801	2016-02-25T19:59:19	farmerrf AdairTurnerUK &amp; if short maturity is so great, why does govt. ever issue long maturity?
+1954swilliamson	702945703924895744	2016-02-25T19:58:10	farmerrf AdairTurnerUK if comp of CB prtflio matters,  must be bcs of mkt segmentation. Why is CB btr at ovrcmng this than pvt fin intrm?
+1954swilliamson	702507581399396352	2016-02-24T14:57:14	Noahpinion In the heat saturated with pessimism. The optimistic heart thinks there will be some good laughs on the road to sanity.
+1954swilliamson	702144366240862210	2016-02-23T14:53:56	Surprise: Phillips curve is unstable. 
+1954swilliamson	701950799023370240	2016-02-23T02:04:46	Noahpinion tucker_doherty I'm feeling more threatened by the residents of the country in which I live.
+1954swilliamson	701949377259167744	2016-02-23T01:59:07	t0nyyates Pete_Spence darioperkins GabrielSterne The public seems to have accepted QE, but negative rates are another thing altogether.
+1954swilliamson	701948039297163264	2016-02-23T01:53:48	DavidBeckworth Noahpinion KDS is different. That's like when the dog next door won't stop barking.
+1954swilliamson	701947795683594240	2016-02-23T01:52:50	DavidBeckworth Noahpinion Han is understandable - how you'd feel if someone locked you in a basement for 35 years.
+1954swilliamson	701900564183973888	2016-02-22T22:45:09	Noahpinion Mark Thoma used to say I had KDS. These days, Paul seems pretty reasonable. Am I well now, or do I just have another  malady?
+1954swilliamson	701857516162953216	2016-02-22T19:54:06	jp_koning t0nyyates It's not 1600. It's costly to trade cash in the vault for any financial asset, but easy to trade reserves.
+1954swilliamson	701806127873327105	2016-02-22T16:29:54	t0nyyates yes, they can do intraday transactions with secured credit. but suppose they want to incrs or decrs cash at the end of the day.
+1954swilliamson	701804151521439744	2016-02-22T16:22:03	Interesting on a number of dimensions.  
+1954swilliamson	701796933493391361	2016-02-22T15:53:22	t0nyyates and if it's vault cash, the bank has to make interbank transactions - involves moving cash around in trucks.
+1954swilliamson	701796692228644865	2016-02-22T15:52:24	t0nyyates start with the costs. How much cash does a safe hold? What's the safe cost? At what interest rate is the safe worthwhile?
+1954swilliamson	701776221785358336	2016-02-22T14:31:04	t0nyyates question: What will the outcome be, many small safes, or banks with huge quantities of cash in the vault?
+1954swilliamson	701600309877952512	2016-02-22T02:52:03	t0nyyates Noahpinion Noah will make macro great again.
+1954swilliamson	701504353111187456	2016-02-21T20:30:45	Noahpinion You should have a contest: The worst thing since...
+1954swilliamson	701177439892844544	2016-02-20T22:51:43	ericlonners sjwrenlewis American cities are (mostly) built for cars. You could write a book about why (and some people have).
+1954swilliamson	700799591281664000	2016-02-19T21:50:17	Noahpinion multipliers are always big. interest rates should never go up.
+1954swilliamson	700798586770984960	2016-02-19T21:46:17	Noahpinion yes, Superman no longer comes to school.
+1954swilliamson	700797879510654976	2016-02-19T21:43:29	Noahpinion That looks like some fine structural estimation.
+1954swilliamson	700710737170149378	2016-02-19T15:57:12	morganwarstler 1EquationShort DavidBeckworth farmerrf there are factors other than monetary policy moving the real interest rate.
+1954swilliamson	700710318608023553	2016-02-19T15:55:33	morganwarstler 1EquationShort DavidBeckworth farmerrf same reason you shouldn't have and NGDP target.
+1954swilliamson	700690608487202816	2016-02-19T14:37:13	Narayana: "above-normal growth is always possible" Paul: "raising long-run growth is very hard"
+1954swilliamson	700688815732580352	2016-02-19T14:30:06	DavidBeckworth dandolfa GregoryGivens LSAPs
+1954swilliamson	700688246288691200	2016-02-19T14:27:50	morganwarstler 1EquationShort DavidBeckworth farmerrf well guys, I'm not brimming with confidence yet.
+1954swilliamson	700498964609519616	2016-02-19T01:55:42	morganwarstler farmerrf DavidBeckworth which human is going to write this algorithm?
+1954swilliamson	700498289947377664	2016-02-19T01:53:01	morganwarstler DavidBeckworth farmerrf Friedman thought you could put central banking on automatic pilot too. didn't work.
+1954swilliamson	700460805267988480	2016-02-18T23:24:04	morganwarstler DavidBeckworth farmerrf took considerable effort to figure out how to control ff rate with a big balance sheet.
+1954swilliamson	700460498756612096	2016-02-18T23:22:51	morganwarstler DavidBeckworth farmerrf yikes. CB portfolio of futures contracts and equities? what if you can't control the prices?
+1954swilliamson	700460144476295168	2016-02-18T23:21:27	farmerrf morganwarstler DavidBeckworth and you would write the u target in stone?
+1954swilliamson	700459837230960640	2016-02-18T23:20:13	t0nyyates PIrelandatBC "funding advantage" = economies of scale? hard to deny there are monopoly rnts. act of Parliament to get charter.
+1954swilliamson	700439871517634560	2016-02-18T22:00:53	Noahpinion t0nyyates these are not problems in micro? you've never seen a panel data set? There's always a micro ntrl expt?
+1954swilliamson	700438832722784256	2016-02-18T21:56:45	t0nyyates there's one regulator that watches them carefully. &amp; maybe they behave given out-of-equilibrium loss of bank charter.
+1954swilliamson	700437503220719617	2016-02-18T21:51:28	t0nyyates Noahpinion Yes. Sometimes you can't distinguish among "macro" theories with aggregate data - you need micro data.
+1954swilliamson	700436882178469889	2016-02-18T21:49:00	morganwarstler DavidBeckworth which assets?
+1954swilliamson	700436671993479168	2016-02-18T21:48:10	morganwarstler DavidBeckworth if the target is hit. If you can't hit an inflation target, why can you hit an NGDP target?
+1954swilliamson	700436255801118721	2016-02-18T21:46:31	t0nyyates The banks are very large. They never fail, and they're never bailed out.
+1954swilliamson	700378785242157057	2016-02-18T17:58:09	OK, but micro/macro not different. 
+1954swilliamson	700376978226982914	2016-02-18T17:50:58	t0nyyates That's the trick. Entertain and do something useful at the same time.
+1954swilliamson	700376473744506880	2016-02-18T17:48:58	(i) Canada has large banks and no TBTF problem. (ii) major fncl crisis problem was shdw banks and large non-banks. 
+1954swilliamson	700358522823782400	2016-02-18T16:37:38	morganwarstler DavidBeckworth That's a change in objectives - now I care about NGDP or PL, not pi or u. What problem would that solve?
+1954swilliamson	700334354677964800	2016-02-18T15:01:36	kocherlakota009 BasilHalperin dandolfa What's the goal? Make sense of the world, or make orthodox central bankers feel better?
+1954swilliamson	700331199709978624	2016-02-18T14:49:04	UserGoogol So, give them cash? What if they put it in the bank and it becomes reserves?
+1954swilliamson	700330783072874497	2016-02-18T14:47:24	DavidBeckworth She just needs to say the "right" things? Why haven't a large balance sheet, persistent low rates made inflation go up?
+1954swilliamson	700328300544188416	2016-02-18T14:37:32	The problem is seeing zero as a problem. 
+1954swilliamson	700149407308607489	2016-02-18T02:46:41	Noahpinion UserGoogol 1)define the "helicopter drop." 2) It's not "thinking" about the rates - what defines the monetary policy?
+1954swilliamson	700139634173423616	2016-02-18T02:07:51	t0nyyates He's just in partisan mode.
+1954swilliamson	700139172321886209	2016-02-18T02:06:01	AmbroseEP kocherlakota009 helicopter money probably also a "foolish distraction."
+1954swilliamson	700138892654039042	2016-02-18T02:04:54	kocherlakota009 dandolfa equitablegrowth delong Exactly.
+1954swilliamson	700138626458324992	2016-02-18T02:03:51	Noahpinion Isn't declaring war on a group of human beings the first step to solving any problem?
+1954swilliamson	700137536178356224	2016-02-18T01:59:31	DavidBeckworth What would you do, or have done?
+1954swilliamson	700137060749840384	2016-02-18T01:57:37	Noahpinion reminder to self: renew Canadian passport.
+1954swilliamson	700135764953174016	2016-02-18T01:52:28	Noahpinion Haven't you heard? The money printers in our basement are in a standoff - won't work unless they can wear sandals on Friday.
+1954swilliamson	699637577305829377	2016-02-16T16:52:51	Jim Bullard &amp; FOMC goals: 
+1954swilliamson	699601074571726848	2016-02-16T14:27:48	Noahpinion and none of the SF people have a suit in the closet.
+1954swilliamson	699600624292220928	2016-02-16T14:26:01	Noahpinion It's all econ.
+1954swilliamson	699600158254718976	2016-02-16T14:24:10	MargaretAtwood MacRoweNick What I remember was indeed prescient. Will get to Heart Goes Last, if I ever stop tweeting.
+1954swilliamson	699411500935426049	2016-02-16T01:54:30	dandolfa But the shortage can persist forever, with no "natural" corrective.
+1954swilliamson	699411002534723584	2016-02-16T01:52:32	MacRoweNick MargaretAtwood I read it thirty years ago. Good thing about being old. It'll seem like a new book.
+1954swilliamson	699380857157455873	2016-02-15T23:52:44	AndyHarless dandolfa DavidBeckworth oops. typo. They DO - supply at least.
+1954swilliamson	699380418408161280	2016-02-15T23:51:00	AndyHarless dandolfa DavidBeckworth That's the idea. They don't. Government debt consists of nominal claims.
+1954swilliamson	699372550019612673	2016-02-15T23:19:44	MacRoweNick MargaretAtwood Margaret has many points. Which one were you thinking of?
+1954swilliamson	699356775728996353	2016-02-15T22:17:03	
+1954swilliamson	699349921015529472	2016-02-15T21:49:49	dandolfa DavidBeckworth A deflation would certainly give us a larger stock of safe assets.
+1954swilliamson	699240798035042304	2016-02-15T14:36:12	jmackin2 PIrelandatBC kocherlakota009 I'm looking at long-short yields in TIPS market - no action recently: 
+1954swilliamson	699238979359612928	2016-02-15T14:28:58	ericlonners PIrelandatBC kocherlakota009 jmackin2 Fed funds futures say no more increases this year w/high probability.
+1954swilliamson	699044231109677056	2016-02-15T01:35:06	PIrelandatBC kocherlakota009 jmackin2 look at the TIPS yields curve. I don't think it's a recession risk story.
+1954swilliamson	699001363930288128	2016-02-14T22:44:46	Noahpinion left a comment. you're actually convincing me for once.
+1954swilliamson	699001097877217280	2016-02-14T22:43:43	wagesofwins Noahpinion This is just econ departments optimizing given the incentives provided by the university. Blame the administrators.
+1954swilliamson	699000037209051137	2016-02-14T22:39:30	PIrelandatBC kocherlakota009 jmackin2 Just think of it as: we're now Japan in 1995. So past regularity is irrelevant.
+1954swilliamson	698994182271053824	2016-02-14T22:16:14	DavidBeckworth Noahpinion it's hard to do empirical work well. you want to give them the idea that a scatter plot is definitive?
+1954swilliamson	698971015318097920	2016-02-14T20:44:10	
+1954swilliamson	698969812270120960	2016-02-14T20:39:24	Noahpinion He fed his cat and took out the trash.
+1954swilliamson	698916832435023872	2016-02-14T17:08:52	fedvalentines You would swoon over my large balance sheet, but you've left for a two-bit Fisherian, and I've hit the punch bowl.
+1954swilliamson	698913655853699074	2016-02-14T16:56:15	It's the end of the world as we know it:  and I feel fine.
+1954swilliamson	698551861092028416	2016-02-13T16:58:36	Uncv policy seems highly effective in controlling inflation in Euro zone, Sweden, Japan, Switzerland too? Come on. 
+1954swilliamson	698224991742070784	2016-02-12T19:19:45	DavidBeckworth dandolfa Given bad fiscal policy, the real rate is too low, and there's an inefficiency. Welfare might go up with higher R.
+1954swilliamson	698175971715784704	2016-02-12T16:04:57	bennpeifert Noahpinion I'm warming up to the idea. What could go wrong?
+1954swilliamson	698174939778535426	2016-02-12T16:00:51	DavidBeckworth You think financial markets are not clearing? Prices of goods and  services are stuck forever?
+1954swilliamson	698174453134405632	2016-02-12T15:58:55	DavidBeckworth What do you mean "can do level targeting." That's an objective. What instruments? Set how?
+1954swilliamson	698173625560465408	2016-02-12T15:55:38	enlundm DavidBeckworth kocherlakota009 the participants have been lousy forecasters, apparently - maybe they'll catch up though.
+1954swilliamson	698171921779675136	2016-02-12T15:48:52	DavidBeckworth dandolfa No, they are responsible. It's a choice to go negative.
+1954swilliamson	697898917791268864	2016-02-11T21:44:02	Noahpinion A Fed ottoman?
+1954swilliamson	697898425518403584	2016-02-11T21:42:05	Noahpinion t0nyyates adam_tooze What's wrong w/Sargent? Hyperinflation follows from out-of-control fiscal policy.
+1954swilliamson	697897196000129024	2016-02-11T21:37:12	dandolfa right now, oil is probably cheaper than water, by the barrel.
+1954swilliamson	697896967205031936	2016-02-11T21:36:17	Noahpinion In this case, the markets are bad, which makes CBs choose negative rates. Theories are not "true" or "false," only useful or not
+1954swilliamson	697874838212341761	2016-02-11T20:08:21	AndyHarless MacRoweNick Sure. Price level targeting might be welfare improving. Aggressive Taylor rule also converges to the lower bound.
+1954swilliamson	697872219129511936	2016-02-11T19:57:57	AndyHarless MacRoweNick short-term feeback? drift? What do you mean?
+1954swilliamson	697818137215905792	2016-02-11T16:23:03	AndyHarless MacRoweNick Exactly. There is an instrument, and a policy rule that says what you do with it.
+1954swilliamson	697816045885632517	2016-02-11T16:14:44	MacRoweNick Those are different objectives. It's the same instrument.
+1954swilliamson	697794212390002688	2016-02-11T14:47:59	dandolfa weird thing is that there's little theory in either book.
+1954swilliamson	697793987227176960	2016-02-11T14:47:05	MacRoweNick But that may actually be the only instrument you have.
+1954swilliamson	697431006534471680	2016-02-10T14:44:44	t0nyyates IvanWerning kocherlakota009 No, Ivan Jones and Steve Jones are wasting resources keeping up with each other.
+1954swilliamson	697165879457361920	2016-02-09T21:11:13	Noahpinion t0nyyates enough silliness. back to work.
+1954swilliamson	697165650561601536	2016-02-09T21:10:18	t0nyyates Noahpinion IvanWerning kocherlakota009 holy crap. we're not immortal?
+1954swilliamson	697161729013252096	2016-02-09T20:54:43	Noahpinion t0nyyates IvanWerning kocherlakota009 an opinion not shared by some younguns in NH, so they say.
+1954swilliamson	697150688237780992	2016-02-09T20:10:51	Noahpinion t0nyyates IvanWerning kocherlakota009 too old? is Bernie too old to run for President?
+1954swilliamson	697148271760769025	2016-02-09T20:01:15	t0nyyates IvanWerning kocherlakota009 OK. Tweeting a social waste - I just do it to keep up with Werning. Lucas neighbors don't tweet.
+1954swilliamson	697142511773446144	2016-02-09T19:38:21	t0nyyates IvanWerning kocherlakota009 I don't think he feels a void in his life for lack of Tweeting.
+1954swilliamson	697141325632638976	2016-02-09T19:33:38	t0nyyates kocherlakota009 IvanWerning Noahpinion no. in basic cashless model can't think about CB liabilities and assets.
+1954swilliamson	697093469295104000	2016-02-09T16:23:29	t0nyyates kocherlakota009 IvanWerning Noahpinion seriously. small: RBC+Dxt/Stgltz+Calvo; strange and crude: monetary policy w/no assets.
+1954swilliamson	697092682884067329	2016-02-09T16:20:21	t0nyyates kocherlakota009 IvanWerning Noahpinion like foul-mouthed little gnome.
+1954swilliamson	697073277416579073	2016-02-09T15:03:14	kocherlakota009 IvanWerning t0nyyates Noahpinion NK is a small deviation from basic RBC. Strange and crude model of monetary policy.
+1954swilliamson	696731110529593344	2016-02-08T16:23:36	farmerrf dandolfa Federal Reserve notes are small-denomination relative to some. The Swiss have a 1000 franc note.
+1954swilliamson	696520896396206080	2016-02-08T02:28:17	C_Trombley1 Noahpinion MacRoweNick mileskimball Shortage of comedy duos?Plenty of dead ones (Bob/Ray, Mike/Elaine) - name live stdup duo
+1954swilliamson	696440295232135168	2016-02-07T21:08:00	MacRoweNick mileskimball Noahpinion I mean the distortions in credit markets from uncertain inflation may be a big deal.
+1954swilliamson	696439506069643264	2016-02-07T21:04:52	Noahpinion MacRoweNick mileskimball Yes, you have to remind them. Just like in McDonalds.
+1954swilliamson	696401403456000000	2016-02-07T18:33:27	MacRoweNick mileskimball Noahpinion But don't forget that central bankers are VERY sticky.
+1954swilliamson	696400752000929792	2016-02-07T18:30:52	MacRoweNick mileskimball Noahpinion probably nominal debt contracts are more important than spot prices. Could be focused on wrong prblm.
+1954swilliamson	696400278552096769	2016-02-07T18:28:59	MacRoweNick mileskimball Noahpinion agreed.
+1954swilliamson	696370251525656576	2016-02-07T16:29:40	MacRoweNick mileskimball Noahpinion endogeneity? durables prices change frequentlly b/c of high intertemporal elasticity.
+1954swilliamson	696369519216979970	2016-02-07T16:26:45	MacRoweNick mileskimball Noahpinion Bils-Klenow says durables prices change more frequently. Wdfd says target sticky prices.
+1954swilliamson	696068565389062145	2016-02-06T20:30:52	mileskimball Noahpinion Matter most? Looks like non-durs. and svcs. are a larger fraction of CPI. Shelter imputed. U mean something else?
+1954swilliamson	696066749452562432	2016-02-06T20:23:40	Noahpinion Nixon gave us the EPA and ended the Viet Nam War. Oops - forgot that Hanoi bombing and that Watergate thing. Never mind.
+1954swilliamson	696063252183146496	2016-02-06T20:09:46	mileskimball PMauroPIIE kocherlakota009 Government diverts capital to producing tanks and planes, works it around the clock. Y up.
+1954swilliamson	695616971887390720	2016-02-05T14:36:24	MacRoweNick level targeting: depends how quickly you make it up, if you know how to do it, or if even feasible.
+1954swilliamson	695432538169282560	2016-02-05T02:23:32	farmerrf Noahpinion The Farmer that lifts all boats?
+1954swilliamson	695416011734937601	2016-02-05T01:17:52	MacRoweNick You mean promises of one sort or another, I guess. A problem if you're not sure what promises to make. NK is sure, in hindsight
+1954swilliamson	695373697234792450	2016-02-04T22:29:43	Forward guidance was crappy. But a time machine would make it really powerful. 
+1954swilliamson	695359876252377088	2016-02-04T21:34:48	jp_koning As you point out, lending in the fed funds market would flow the other way - from banks to GSEs. ON-RRP can't fix that.
+1954swilliamson	695277271129702400	2016-02-04T16:06:33	farmerrf Noahpinion speaking of: 
+1954swilliamson	695275291686535168	2016-02-04T15:58:41	farmerrf Noahpinion Maybe. I don't understand the consequences of debt management. Maturity structure may matter. How much and why?
+1954swilliamson	695257865490079744	2016-02-04T14:49:27	t0nyyates I think people are thinking about currency models, and not taking account of the outstanding reserves. Reversals another issue.
+1954swilliamson	695255870272176128	2016-02-04T14:41:31	Apparently central bankers are dopes, but they should meet more frequently, and in larger groups: 
+1954swilliamson	695251825964875776	2016-02-04T14:25:27	Noahpinion That's the idea. Finance the transfer by handing out currency, and the currency ends up in the banks as reserves.
+1954swilliamson	695060230820892672	2016-02-04T01:44:07	Noahpinion Government hands out transfers. Distribution is going to matter. But financing by bonds or reserves doesn't matter.
+1954swilliamson	695031721780080640	2016-02-03T23:50:50	MaMoMVPY boes_ stlouisfed DavidBeckworth There is some OM in NM, but yes OM is dead here. No money demand function or "money."
+1954swilliamson	695028909578940418	2016-02-03T23:39:39	t0nyyates Noahpinion even better.
+1954swilliamson	695017769343930368	2016-02-03T22:55:23	Noahpinion Should subsidize people to pick up their computers and get out of the Starbucks.
+1954swilliamson	695017189988913152	2016-02-03T22:53:05	Noahpinion I just got through starving myself:  Now I should flush cells?
+1954swilliamson	695015627770036224	2016-02-03T22:46:53	Noahpinion No, why do you think that matters?
+1954swilliamson	695015177465393152	2016-02-03T22:45:05	Noahpinion Seems like it. Even if the Treasuries are purchased with currency, the extra money should ultimately end up as reserves.
+1954swilliamson	695014520704540672	2016-02-03T22:42:29	DavidBeckworth NYTimeskrugman Good. Krugman pulls it off once in a while.
+1954swilliamson	694989335058186240	2016-02-03T21:02:24	equalitus Noahpinion Treasury does not issue money, when I last checked.
+1954swilliamson	694989165016928257	2016-02-03T21:01:43	Noahpinion Since that's roughly the same thing as a purchase of Treasuries, same effect. Liquidity trap implies it's held as reserves.
+1954swilliamson	694934945022607361	2016-02-03T17:26:16	Noahpinion They can't (except when they pay me). But suppose Treasury issues bonds and CB hands money to the bondholders. Same thing.
+1954swilliamson	694925726005354496	2016-02-03T16:49:38	kocherlakota009 That's your interpretation. I don't see it.
+1954swilliamson	694924411678232576	2016-02-03T16:44:25	farmerrf Looks like a standard narrow banking proposal, subject to the usual problems of course.
+1954swilliamson	694898212860067840	2016-02-03T15:00:19	never understood "helicopter money" solutions. Isn't Japan doing this already? 
+1954swilliamson	694897154117099522	2016-02-03T14:56:06	Noahpinion Exactly: 
+1954swilliamson	694896609474138113	2016-02-03T14:53:56	DavidBeckworth MESandbu Left on #5. Someone could argue that the Fed waited too long to normalize.
+1954swilliamson	694645061510823936	2016-02-02T22:14:23	Noahpinion which I'm not. has=he
+1954swilliamson	694644491454558208	2016-02-02T22:12:07	This is useful if you want to know more about the nuts and bolts of central banking. 
+1954swilliamson	694643650890870784	2016-02-02T22:08:46	Noahpinion Put lithium in the water?
+1954swilliamson	694642267659771904	2016-02-02T22:03:17	Noahpinion If Derrida actually said that, has must have been suffering from an attack of precision.
+1954swilliamson	694603404572651520	2016-02-02T19:28:51	dandolfa jp_koning ProfSteveKeen This should be a cold potato effect.
+1954swilliamson	694534797910118400	2016-02-02T14:56:14	kocherlakota009 mileskimball Would be impressive. Maybe 400,000 added payroll employment per month for 4 years. Part rate after 4 yrs?
+1954swilliamson	693421799321812992	2016-01-30T13:13:34	mileskimball with current demand shortfall - 4% growth for at least 4 yrs is possible with *demand* stimulus ...
+1954swilliamson	694338020598685696	2016-02-02T01:54:18	kocherlakota009 Noahpinion Answer: Obvious. They already used them incorrectly by using them at all in this instance.
+1954swilliamson	694287770391425024	2016-02-01T22:34:38	Here's a blog post:  Commenting on: 
+1954swilliamson	694245248885608448	2016-02-01T19:45:40	Apparently an optimal policy is to stay at zero unless the world is perfect: 
+1954swilliamson	694244210250088448	2016-02-01T19:41:32	ObsoleteDogma kocherlakota009 votes aren't everything. FOMC members do plenty of speeches and interviews.
+1954swilliamson	693889545591398400	2016-01-31T20:12:14	ericlonners farmerrf dandolfa ProfSteveKeen bonds are very much like means of payment. currency can go haywire too.
+1954swilliamson	693883281914204160	2016-01-31T19:47:20	Negative nominal interest rates, Bank of Japan, etc. 
+1954swilliamson	693870544572276740	2016-01-31T18:56:43	ericlonners farmerrf dandolfa ProfSteveKeen If people decide to hold more currency, reserves goes down.
+1954swilliamson	693870100491808768	2016-01-31T18:54:58	ericlonners farmerrf dandolfa ProfSteveKeen reserves, currency, ON-RRPs, are all Fed liabilities. Composition: fraction of each.
+1954swilliamson	693867685063491584	2016-01-31T18:45:22	farmerrf kocherlakota009 dandolfa ProfSteveKeen Take that into account and see if it correlates with the stock market.
+1954swilliamson	693867414686081024	2016-01-31T18:44:17	farmerrf kocherlakota009 dandolfa ProfSteveKeen What do you mean by "effective?" They certainly increased maturity. What should they do?
+1954swilliamson	693845184258379776	2016-01-31T17:15:57	ericlonners farmerrf dandolfa ProfSteveKeen CB determines total quantity of its liabilities, and IOER. Market determines the composition
+1954swilliamson	693844029671350272	2016-01-31T17:11:22	farmerrf kocherlakota009 dandolfa ProfSteveKeen Roger, if you're right, Treasury debt management should matter too.
+1954swilliamson	693843020601389056	2016-01-31T17:07:21	kocherlakota009 dandolfa ProfSteveKeen That describes the payoffs. It's more important how these assets are traded and used as collateral
+1954swilliamson	693631798731870210	2016-01-31T03:08:02	dandolfa BV Exactly. What about all the crisis intervention? TAF program. Bear/Stearns resolution? TBTF incentives maybe, but too tight?
+1954swilliamson	693120018582622208	2016-01-29T17:14:24	Noahpinion You can see why the usual rules takes you to zero - or lower - and you stay there. Surprising they don't figure it out, though.
+1954swilliamson	693118066360647680	2016-01-29T17:06:39	farmerrf economic history is great. If only if weren't taught by economic historians...
+1954swilliamson	693117228003172352	2016-01-29T17:03:19	Noahpinion NF is so all-encompassing that it tells you why they won't do it.
+1954swilliamson	693101261684477952	2016-01-29T15:59:52	Noahpinion you're learning.
+1954swilliamson	693084268629655552	2016-01-29T14:52:21	Noahpinion dandolfa exactly.
+1954swilliamson	693084116833533952	2016-01-29T14:51:44	dandolfa Noahpinion "helicopter drops" don't work, actually. R has to go up.
+1954swilliamson	693081945094225920	2016-01-29T14:43:07	Noahpinion announce it, and then do what?
+1954swilliamson	693081717368688640	2016-01-29T14:42:12	Noahpinion BOJ statement says it's to make inflation go up. Apparently they haven't been watching Sweden, Switzerland, ECB.
+1954swilliamson	689915055224127488	2016-01-20T20:59:01	pwi12 repec_signup
+1954swilliamson	689888714474938368	2016-01-20T19:14:21	pwi12@repec_signup
+1954swilliamson	689886690052206592	2016-01-20T19:06:19	repec_signup
+1954swilliamson	689549445348732928	2016-01-19T20:46:13	Noahpinion farmerrf Well, it's a general problem. Start with something that can explain anything, and then restrict the structure.
+1954swilliamson	689544774622191616	2016-01-19T20:27:40	farmerrf I guess I'm more of a purist. There's a model, and it has equilibria. Adaptive learning rules is another model.
+1954swilliamson	689496098776346625	2016-01-19T17:14:14	farmerrf Yes, I know that's what you've been saying. To me that looks like equilibrium selection - the modeler gets to choose the beliefs.
+1954swilliamson	689493443127554048	2016-01-19T17:03:41	farmerrf So, empiricism helps us to choose among equilibria. Seems OK. But beliefs are endogenous - we can't just choose to make them exog.
+1954swilliamson	689485118621089792	2016-01-19T16:30:36	farmerrf There's some discipline on the choice of a utility function, eg what we know about risk aversion. Why choose among equilibria?
+1954swilliamson	689287933052850176	2016-01-19T03:27:04	dandolfa Planning on coming back from Vancouver with a refrigerator in your luggage?
+1954swilliamson	689265813912592385	2016-01-19T01:59:10	Noahpinion IvanWerning It was Noah that came up with the "neo-Fisherite" moniker: Dopey, but people remember it.
+1954swilliamson	689264396275593217	2016-01-19T01:53:32	farmerrf You're leaving UCLA?
+1954swilliamson	689215019087572992	2016-01-18T22:37:20	Noahpinion Bieber looks ineligible - born in London Ontario to presumably Canadian parents. Don't want a birther Beiber movement.
+1954swilliamson	689195650802532354	2016-01-18T21:20:22	Noahpinion kocherlakota009 Narayana: Why not set up your posts on Google, and allow comments? Google has some handy features too.
+1954swilliamson	689189385640620032	2016-01-18T20:55:28	Noahpinion These aren't really debates - I haven't got a response out of him. The closest thing was his finite-horizon post.
+1954swilliamson	689176106910400512	2016-01-18T20:02:42	Here's my take on this:  
+1954swilliamson	689122256304250881	2016-01-18T16:28:43	Noahpinion Question: Did the Colonel just live under the name of Sanders?
+1954swilliamson	688862232805949440	2016-01-17T23:15:29	DavidBeckworth I still say that's a lot of QE with little effect.
+1954swilliamson	688823852390952960	2016-01-17T20:42:58	dandolfa t0nyyates 1997 in the U.S. Not sure what maturities they issued back then. So, there are methods for "unbalanced panels?"
+1954swilliamson	688811885437689856	2016-01-17T19:55:25	dandolfa (i) You could evaluate these like you would any forecasting model. See how they perform "out of sample."
+1954swilliamson	688810370408960000	2016-01-17T19:49:24	DavidBeckworth The BOJ set a goal of 2% inflation by April 2015. By any measure they fell short, and are continuing to do so.
+1954swilliamson	688781646900760576	2016-01-17T17:55:16	t0nyyates dandolfa Here's the Cleveland Fed's inflation expectations measure. This might be similar: 
+1954swilliamson	688780808358776833	2016-01-17T17:51:56	t0nyyates dandolfa looks like they split the sample. But, do we believe the model? I thought term structure models were no good.
+1954swilliamson	688779769656156160	2016-01-17T17:47:48	dandolfa Questions: (i) are the market-based measures any good? (ii) is the Atlanta Fed measure any good?
+1954swilliamson	688778331798413312	2016-01-17T17:42:05	DavidBeckworth Here, they strip out tax effects:  Still little action on inflation given a lot of QE.
+1954swilliamson	688776061090312192	2016-01-17T17:33:04	DavidBeckworth headline CPI shows essentially no inflation in Japan since spring 2014. Not sure what you're talking about.
+1954swilliamson	688517755708944384	2016-01-17T00:26:39	Started out with central bank liabilities, on to inflation targets, low breakevens, and ... neo-Fishersim. 
+1954swilliamson	688448742932922368	2016-01-16T19:52:25	dandolfa kocherlakota009 Too formal though. NK needs to shed his central banker image.
+1954swilliamson	688447536663691264	2016-01-16T19:47:38	farmerrf You could say that relative asset supplies matter in some circumstances. Usual one is an OMO, but there can be more.
+1954swilliamson	688446833459240960	2016-01-16T19:44:50	Noahpinion Well, it conforms to some kind of accounting conventions. Things add up, the balance sheet balances, etc.
+1954swilliamson	688400760942407680	2016-01-16T16:41:45	Noahpinion Yes, reserves and currency appear on the "liablilities" side of the Fed's balance sheet, but aren't promises. Reverse repos are.
+1954swilliamson	688177166631088129	2016-01-16T01:53:16	John Cochrane liked Gerald's guest post:  So did I, but Noah's commenters didn't seem to get it.
+1954swilliamson	688138949554917377	2016-01-15T23:21:25	HPublius dandolfa What's the obligation behind the Fed's "liabilities?"
+1954swilliamson	688134089983922180	2016-01-15T23:02:06	I've written a post on low real interest interest rates:  This is related to: 
+1954swilliamson	687816810515664896	2016-01-15T02:01:21	dandolfa kocherlakota009 Yes, you look like you're in pain.
+1954swilliamson	687814647496351744	2016-01-15T01:52:45	Noahpinion First time I've been accused of being stylish.
+1954swilliamson	687814197632053249	2016-01-15T01:50:58	DavidBeckworth Thanks.
+1954swilliamson	687813813844877312	2016-01-15T01:49:26	HPublius dandolfa no. That's the idea. We don't care about the paper. We care about what people will give us in exchange.
+1954swilliamson	687813496210206721	2016-01-15T01:48:11	dandolfa kocherlakota009 I'm worried that engaging with this medium could be a big mistake, but what the heck.
+1954swilliamson	687778893256732672	2016-01-14T23:30:41	Here's a blog post:  It's about this: 
+1954swilliamson	687457724368461825	2016-01-14T02:14:28	kocherlakota009 Sure, the market is worried that normalization will stall or backtrack.
+1954swilliamson	687457354535718912	2016-01-14T02:13:00	Noahpinion Sure, different models for different purposes. What's new?

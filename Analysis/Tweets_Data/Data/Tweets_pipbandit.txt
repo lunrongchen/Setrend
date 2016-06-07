@@ -1,0 +1,870 @@
+pipbandit	725279505296855041	2016-04-27T11:04:43	something to research into: 
+pipbandit	723472934971576320	2016-04-22T11:26:03	Kkta90 yes m8,  i know this too good.
+pipbandit	723472600899440640	2016-04-22T11:24:44	thanks m8,  FF back and a great weekend to all of you guys! 
+pipbandit	723219960605085696	2016-04-21T18:40:50	PLN inverted head and shoulders from major supp zone 
+pipbandit	722477834657263616	2016-04-19T17:31:53	Kkta90 haha...  nei, kei ziit eigentli 😉
+pipbandit	722476672474341377	2016-04-19T17:27:16	Tom Wallisch World Record Railslide  via xgames
+pipbandit	722457569600647173	2016-04-19T16:11:21	JWorksTrader ???
+pipbandit	722457527590457345	2016-04-19T16:11:11	PappaTrader not at all, just didnt work before and might work for some time BUT still too unstable for me!
+pipbandit	722457371688235009	2016-04-19T16:10:34	johanww i throwed it. I dont tweak! tweaking is curve fitting!
+pipbandit	722308652602945536	2016-04-19T06:19:37	kiwi weekly - there we go 
+pipbandit	721655294112239616	2016-04-17T11:03:24	The Changing Generations of Financial Data - Quandl Resource Hub 
+pipbandit	720276897121349632	2016-04-13T15:46:09	Xtremtfokus1 very nice m8!
+pipbandit	720175039077879808	2016-04-13T09:01:24	macroarb hi m8, sorry my late reply. have a look at these ones as well:  
+pipbandit	718411059883806721	2016-04-08T12:11:58	johanww hi, i mainly keep it simple with as less variables/parameters as possible. I use vol in my stops and profits. MA only as filter
+pipbandit	717759965998542848	2016-04-06T17:04:45	back in beautiful Switzerland 😊 
+pipbandit	717636917827878913	2016-04-06T08:55:48	Broekie_007 thanks mate 😉
+pipbandit	717636837246910464	2016-04-06T08:55:29	simondiamondzzz thanks m8
+pipbandit	717636226891825152	2016-04-06T08:53:04	breakfast in Berlin while checking algos 
+pipbandit	717635517525925888	2016-04-06T08:50:15	simondiamondzzz hi mate, any more info on that?
+pipbandit	717624590151888896	2016-04-06T08:06:49	SGE_Rob_Trading haha...  nein. aber den kenn ich auch! gibt bessere ... ;)
+pipbandit	717581202870415360	2016-04-06T05:14:25	gm folks, on my way to Berlin to meet one of the best system developers in Europe. happy trading all 
+pipbandit	715547443253870592	2016-03-31T14:32:59	Faros_Techs price / volume distribution
+pipbandit	715472735783129091	2016-03-31T09:36:07	CADJPY - posted this before! 
+pipbandit	715470123528818688	2016-03-31T09:25:44	CAD &lt; 1.29 next 1.2760ish 
+pipbandit	715180753320067072	2016-03-30T14:15:53	ali_caspian BBG or Reuters Eikon with Tradesignal App. But you could basically use Multicharts with IQFeed as well and code indi yourself
+pipbandit	715166810694369280	2016-03-30T13:20:29	do some proper research and you'll come up with new ideas and models pretty easy. systematictrading 
+pipbandit	715164727232569344	2016-03-30T13:12:12	1rideofyourlife thanks Pawel. I didnt hear anything else...
+pipbandit	715161527729393664	2016-03-30T12:59:29	EURPLN any clue? 
+pipbandit	715095882300067840	2016-03-30T08:38:38	owsi1968 would make one of my FDAX algos very happy :)
+pipbandit	715084345858531328	2016-03-30T07:52:48	no need to consider EURCAD for a trade! 
+pipbandit	715083012636020736	2016-03-30T07:47:30	AUDCAD nice move of the distribution 
+pipbandit	715082387072397313	2016-03-30T07:45:01	CHF 
+pipbandit	715081453709688832	2016-03-30T07:41:18	not what sby would expect ES_F JPY 
+pipbandit	715080131690250240	2016-03-30T07:36:03	NZD weekly breakout 
+pipbandit	715079710364057601	2016-03-30T07:34:23	ZAR back to 14.50? 
+pipbandit	715077722440077312	2016-03-30T07:26:29	algos like the early morning moves :) EUR JPY XAU
+pipbandit	715072012377538561	2016-03-30T07:03:47	just keep in mind - if EUR breaks upper boundary of distribution this could go pretty fast &gt; 1.20ish 
+pipbandit	715071296514691073	2016-03-30T07:00:57	there you go - EUR 1.1312 
+pipbandit	715071004809289728	2016-03-30T06:59:47	huh_FutexLive looks like the lower your interest rates the stronger your currency (e.g. CHF) - THE NEW NORMAL
+pipbandit	715070106053820416	2016-03-30T06:56:13	Kkta90 ich glaub dir, dass das super funktioniert. aber tue mol d'date spiegle und mach es long/short!
+pipbandit	715069902344818688	2016-03-30T06:55:24	NZD 2yr swap new all-time low 
+pipbandit	715069441843838976	2016-03-30T06:53:34	Germany 10yr on the way sub-zero? 
+pipbandit	715068590253350912	2016-03-30T06:50:11	Xtremtfokus1 JWorksTrader m8, why dollarstop and not volatility adjusted?
+pipbandit	715066325140373504	2016-03-30T06:41:11	N8rB3rt danke. glück ;)
+pipbandit	715062016281604096	2016-03-30T06:24:04	BINGO - trading 100 pips lower this morning 
+pipbandit	715057061407670272	2016-03-30T06:04:23	Xtremtfokus1 i can show you something later on. pls remind me if I forget. gonna do a conf call first.
+pipbandit	715056137679343617	2016-03-30T06:00:42	Xtremtfokus1 nice one! i like systems like this :) long and short?
+pipbandit	715054980764459008	2016-03-30T05:56:07	Xtremtfokus1 hey m8, does this model only trade the nite session?
+pipbandit	714900693488902145	2016-03-29T19:43:02	amigo and myself taking a breather from the markets systematictrading 
+pipbandit	714816228121001984	2016-03-29T14:07:24	AUDNZD: huge inverted head 'n' shoulders 
+pipbandit	714796425964568576	2016-03-29T12:48:42	explorefx very nice. I hope you enjoyed and are fully relaxed :)) have fun!
+pipbandit	714795329930051584	2016-03-29T12:44:21	explorefx no worries m8. moving? sports? or move into a new flat? ;)
+pipbandit	714790654329663488	2016-03-29T12:25:46	panosk1 yes, it was amazing for some last days of skiing this season. feel free to use it :)
+pipbandit	714787161204264964	2016-03-29T12:11:53	Kkta90 looks like m8, check if all trades at correct levels and not bar high or low!
+pipbandit	714783140116561920	2016-03-29T11:55:55	owsi1968 haha... i dont touch it medium-term within that range. algos is a different story :P
+pipbandit	714782399700275200	2016-03-29T11:52:58	watch this fly above 87 CADJPY 
+pipbandit	714780887615938560	2016-03-29T11:46:58	very nice reversal at the distribution top CAD 
+pipbandit	714780662746783744	2016-03-29T11:46:04	I wouldnt touch JPY unless we break  out of the rectangle 
+pipbandit	714780177834893313	2016-03-29T11:44:09	EUR: this looks like another attempt at 1.1350ish 
+pipbandit	714739917440610304	2016-03-29T09:04:10	USDINR - kiss of death imminent explorefx ;) 
+pipbandit	714739689098444800	2016-03-29T09:03:15	back from this beautiful view in front of four screens... happy trading all! 
+pipbandit	713016207536951298	2016-03-24T14:54:45	Kkta90 m8, that's the real life !
+pipbandit	713014142236508160	2016-03-24T14:46:33	PappaTrader holding period
+pipbandit	713011839718846467	2016-03-24T14:37:24	I use a simple statistical test to define my first baseline strategy for a new underlying/timeframe 
+pipbandit	713011604342902785	2016-03-24T14:36:28	Kkta90 suuber, ich bi au flat de monet! han aber es paar böck gschosse mit algos vergesse wieder aastelle :))
+pipbandit	713007558055821313	2016-03-24T14:20:23	Kkta90 ja, ich han 2: 1) range bars und 2) 2h chart. sind beide short gsi. denn use denn wieder ine. hammer :)
+pipbandit	713006688895438848	2016-03-24T14:16:56	rBauhn JWorksTrader range, standard deviation etc. ;)
+pipbandit	713006593936388096	2016-03-24T14:16:33	Kkta90 ok, und da isch demfall noed passiert...
+pipbandit	713002789618786305	2016-03-24T14:01:26	arne_reabel 5ticks  ;)
+pipbandit	713002333458841602	2016-03-24T13:59:37	arne_reabel u can try this... i used to work with 1.25 on ES_F
+pipbandit	713000547075403784	2016-03-24T13:52:31	arne_reabel i have some renko algos as well. it's a nice diversification. no, not yet sorry. i am busy developing for some pot clients
+pipbandit	712998763003047936	2016-03-24T13:45:26	arne_reabel 0.5 cents?
+pipbandit	712998607738298368	2016-03-24T13:44:49	Kkta90 hesch du noed au en channel breakout? long und short?
+pipbandit	712995812989648897	2016-03-24T13:33:43	Kkta90 m8, was macht din CL algo?
+pipbandit	712984685480132609	2016-03-24T12:49:30	Kkta90 called 'diversification' :)
+pipbandit	712984297410600960	2016-03-24T12:47:57	2nd algo with new position management done AUDJPY systematictrading 
+pipbandit	712962879599804416	2016-03-24T11:22:51	something else u could do. calculate a certain threshold, activate a breakeven stop and take some chips off 
+pipbandit	712960065255391232	2016-03-24T11:11:40	Kkta90 noch em comma ;)
+pipbandit	712959222846267393	2016-03-24T11:08:19	Kkta90 mol luege, bisch no long dax?
+pipbandit	712958810340593664	2016-03-24T11:06:41	CL_F entering support zone 80-35 
+pipbandit	712951695920201729	2016-03-24T10:38:24	this guy got it! :) 
+pipbandit	712949741961789440	2016-03-24T10:30:39	bbki2611 happy you Stelios. I still have no balls to change all algos from WIN7 to WIN10.
+pipbandit	712949356400402432	2016-03-24T10:29:07	still short CL_F as well 
+pipbandit	712949256722784256	2016-03-24T10:28:43	JWorksTrader PappaTrader for the Nordics :) at the arrow when line color changes i change my stop management 
+pipbandit	712946449017880576	2016-03-24T10:17:34	JWorksTrader i am a simple mind. NO PhD bullshit m8!
+pipbandit	712946159678070785	2016-03-24T10:16:25	Kkta90 covered :) now it can go your direction m8!
+pipbandit	712944744498917376	2016-03-24T10:10:47	JWorksTrader using volatility to a certain facor to secure profits and/or measuring the move from the entryprice after a certain time ;)
+pipbandit	712943379194191872	2016-03-24T10:05:22	Kkta90 shit, bi no short :P
+pipbandit	712942220928753664	2016-03-24T10:00:45	improving pos mgmt on my algos - left before / right after. pnl goes up as drawdown is much less systematictrading 
+pipbandit	712918850388561928	2016-03-24T08:27:53	RANsquawk poor guys, I'll think of you when I hit the slopes :P
+pipbandit	712915737023815680	2016-03-24T08:15:31	N8rB3rt ja, ist echt super und da wir schön öfters da waren kennen sich die Kleinen da auch schon gut aus und wir kommen au mal zur Ruhe ;)
+pipbandit	712911637708206080	2016-03-24T07:59:14	N8rB3rt Wünsche dir auf jeden Fall auch viel Spass mit Familie und gute Erholung
+pipbandit	712910735530131456	2016-03-24T07:55:39	N8rB3rt Allgäu - Kinderhotel und familienfreundliches Skigebiet :)) und bezahlbar, nicht zu vergessen !
+pipbandit	712908624268500992	2016-03-24T07:47:15	N8rB3rt Super, 'quality time' mit Familie tut immer gut. Fahren auch nach D zum Skifahren :)
+pipbandit	712908090933387265	2016-03-24T07:45:08	N8rB3rt geht's in den Urlaub Norbert?
+pipbandit	712908038416498688	2016-03-24T07:44:56	rltrades sure, happy to hear from you :)
+pipbandit	712905481120059392	2016-03-24T07:34:46	CL algo 1 took profit overnite. CL algo 2 still short
+pipbandit	712643427196919808	2016-03-23T14:13:27	WSGAnalytics as a human being I wouldnt do this as well.... but the machine doesnt care - only plays probabilities :)
+pipbandit	712640318945042432	2016-03-23T14:01:06	WSGAnalytics algo shorts CL_F
+pipbandit	712639060691525632	2016-03-23T13:56:06	WSGAnalytics look at XAU!
+pipbandit	712638985735114752	2016-03-23T13:55:49	panosk1 thanks m8, will read it!
+pipbandit	712629923786190848	2016-03-23T13:19:48	just grabbing an old classic for reference 
+pipbandit	712604285930967040	2016-03-23T11:37:55	AsennaWealth Dwyzee  guys, long/short AORD. simple momentum strategy. didn't know u have such a great market ;) 
+pipbandit	712593130021863424	2016-03-23T10:53:36	bbki2611 m8, i know you like EURNOK short BUT if this goes topside maybe have a look at EURCAD as well ;) 
+pipbandit	712586220203810817	2016-03-23T10:26:08	JPY range 114.60 - 111. with 113.30 resistance 
+pipbandit	712584443391844353	2016-03-23T10:19:05	a pretty clear picture of the range in EURCHF 1.1000 - 1.0760 
+pipbandit	712578012525543425	2016-03-23T09:53:31	ACTFutures i am happy with my broker
+pipbandit	712577947845206017	2016-03-23T09:53:16	Kkta90 8
+pipbandit	712577004252569600	2016-03-23T09:49:31	done! Nikkei ORB with new position management script. systematictrading 
+pipbandit	712531618066522116	2016-03-23T06:49:10	My life as an algo trader, most days the market opens  - and I research, develop and watch my algos trade :) 
+pipbandit	712280620093841408	2016-03-22T14:11:48	GabrielOMX BO
+pipbandit	712275867754504192	2016-03-22T13:52:54	patrickrooney suits my algo :P
+pipbandit	712275482121789440	2016-03-22T13:51:23	started coding on this 6 hours ago... still not done 
+pipbandit	712269135028330496	2016-03-22T13:26:09	Fixing The Flaws In Fixed- Fractional Position Sizing  systematictrading
+pipbandit	712263041816137728	2016-03-22T13:01:57	owsi1968 exactly
+pipbandit	712262055491977216	2016-03-22T12:58:01	owsi1968 ;-) top pane EUR ag. G10 as a simple index. bottome pane GBP ag. G10. gives a general overview of strength / weakness of ccy
+pipbandit	712260389321510912	2016-03-22T12:51:24	owsi1968 i see. just fyi my EUR- and GBP-Index. (ignore title bar) 
+pipbandit	712258529260924928	2016-03-22T12:44:01	owsi1968 what's your timeframe ?
+pipbandit	712257607067635712	2016-03-22T12:40:21	owsi1968 good luck m8, algo short cable. But as you know - very short-term
+pipbandit	712242764990259202	2016-03-22T11:41:22	WSGAnalytics algo has a buy stop 40 ticks higher ;)
+pipbandit	712177948636401664	2016-03-22T07:23:49	
+pipbandit	712001695702753282	2016-03-21T19:43:27	AolAnders EdMatts spz_trader thanks mate
+pipbandit	711920941220159493	2016-03-21T14:22:33	it looked like a cont. triangle quite a long time - now it looks like a lt top SEK 
+pipbandit	711858073627979776	2016-03-21T10:12:45	new 1h FDAX open range taking into consideration internal bar strength (IBS) of yesterday. in progress... 
+pipbandit	711836722380840960	2016-03-21T08:47:54	many times its all about common sense. take range bars, simple statistics and you get this with 10 lines of code 
+pipbandit	711816437380358144	2016-03-21T07:27:18	N8rB3rt dir auch Norbert :)
+pipbandit	711792805904044032	2016-03-21T05:53:24	gm guys, have a great start into the new week and dont get wiped out 
+pipbandit	710937483299700736	2016-03-18T21:14:39	arne_reabel let me check on Monday m8. have a nice weekend!
+pipbandit	710868919729463298	2016-03-18T16:42:12	thanks vm and a big FF back to all these guys owsi1968 ZiggyFX AolAnders piptrain Pipstealer_ piptee realclod
+pipbandit	710835572940603392	2016-03-18T14:29:41	Xtremtfokus1 rBauhn Kkta90 first hour breakout l/s. exit 1730 Swiss time or stop. to be continued 
+pipbandit	710833829024550912	2016-03-18T14:22:46	Xtremtfokus1 rBauhn Kkta90 i am coding a first hour breakout... let's see what I come up with
+pipbandit	710833698199965696	2016-03-18T14:22:14	Xtremtfokus1 leave it
+pipbandit	710832813881303040	2016-03-18T14:18:44	Xtremtfokus1 rBauhn Kkta90 baseline idea looks promising. do you take volatility into consideration?
+pipbandit	710831480969302016	2016-03-18T14:13:26	Kkta90 Xtremtfokus1 well done m8
+pipbandit	710831344952209413	2016-03-18T14:12:53	Xtremtfokus1 no, do you?
+pipbandit	710828171734679552	2016-03-18T14:00:17	Xtremtfokus1 looks nice :) I didnt' succeed with the other one. Currently coding another idea
+pipbandit	710826878957961217	2016-03-18T13:55:09	Twitter message 
+pipbandit	710797692272820224	2016-03-18T11:59:10	thank you very much m8 :) 
+pipbandit	710777909087244288	2016-03-18T10:40:33	tradermod i am in
+pipbandit	710773288000208897	2016-03-18T10:22:12	tradermod let's see.. for now it's only an order ;)
+pipbandit	710771772262653952	2016-03-18T10:16:10	if CL_F keeps going I am on it. Algo has jut put a buy stop in
+pipbandit	710767445267619840	2016-03-18T09:58:59	it looked sooo nice BUT shows how important OOS is FDAX systematictrading 
+pipbandit	710766629525835780	2016-03-18T09:55:44	panosk1 here you go 
+pipbandit	710765032511037440	2016-03-18T09:49:23	panosk1 or do u mean DAX with volume profile?
+pipbandit	710764943151386625	2016-03-18T09:49:02	panosk1 u mean the equity curve of the 4h AUD strategy?
+pipbandit	710762648867045377	2016-03-18T09:39:55	tomorrow i change left to right :)) 
+pipbandit	710760892850434048	2016-03-18T09:32:56	here we are - progressing with 1h FDAX 
+pipbandit	710759358964047872	2016-03-18T09:26:51	just a simple exitonclose takes out more than 50% of the most recent DD 
+pipbandit	710758102077992960	2016-03-18T09:21:51	just applied my 4h-$AUD channel breakout baseline to 1h-$FDAX. let's see what I can make out of this... 
+pipbandit	710754928168464384	2016-03-18T09:09:14	N8rB3rt lol, me neither.... i have fun doing what I do :)
+pipbandit	710754863009890304	2016-03-18T09:08:59	lampidicsparrow that's the point i would recommend every discretionary trader!
+pipbandit	710754324234825728	2016-03-18T09:06:50	definitely YES! 
+pipbandit	710751882520694784	2016-03-18T08:57:08	XAU on the move. algo out CL_F
+pipbandit	710751598356652034	2016-03-18T08:56:00	SGE_Rob_Trading ja, gibt diverse API's zu den meisten bekannten Brokern
+pipbandit	710742314193395713	2016-03-18T08:19:07	russian_market uhhh, ezt aber ;-)
+pipbandit	710740452840964100	2016-03-18T08:11:43	one algo still long CL_F, others NIKKEI and XAU short
+pipbandit	710727129361678336	2016-03-18T07:18:46	etleggett I dont know anything bout fundamentals m8... just trading charts ;-)
+pipbandit	710726934465003520	2016-03-18T07:18:00	etleggett imo USD ag EM has made a top two weeks ago... let's see if USD G10 follows..
+pipbandit	710726003501486080	2016-03-18T07:14:18	is this the bottom for CAD? 
+pipbandit	710725370757177344	2016-03-18T07:11:47	Hubon jetzt?
+pipbandit	710724654391017472	2016-03-18T07:08:56	Hubon Morge Hans, ziit für es Tel huet?
+pipbandit	710704398339547136	2016-03-18T05:48:27	Meet the DIY Quants Who Ditched Wall Street for the Desert  via technology
+pipbandit	710488611888750592	2016-03-17T15:30:59	Kkta90 well done!
+pipbandit	710485741550362624	2016-03-17T15:19:35	looks like we could do another 2$ in CL_F 
+pipbandit	710480479267512321	2016-03-17T14:58:41	CL_F algo two fired as well...
+pipbandit	710479539915399169	2016-03-17T14:54:57	to be continued... 
+pipbandit	710476789966094336	2016-03-17T14:44:01	Kkta90 geil, mine 2x ine und use mit profit :)
+pipbandit	710476577482674177	2016-03-17T14:43:10	Bond managers, take care! Working on a Bond Rotation Strategy 
+pipbandit	710476326457704448	2016-03-17T14:42:10	Kkta90 m8, i am a momo algo guy ;)
+pipbandit	710476110178492416	2016-03-17T14:41:19	CL_F algo one fired, algo two waiting for his prey
+pipbandit	710439533981130752	2016-03-17T12:15:58	zammofx lol.... why not, you go balls deep mate :))
+pipbandit	710439243680759808	2016-03-17T12:14:49	PrometheusAM hearing BOJ but not confirmed..
+pipbandit	710438500227751937	2016-03-17T12:11:52	zammofx lucky you - algo was short EURJPY...
+pipbandit	710438407990878208	2016-03-17T12:11:30	PrometheusAM let me check
+pipbandit	710438128528576512	2016-03-17T12:10:23	JPY WTF?
+pipbandit	710421689797099520	2016-03-17T11:05:04	
+pipbandit	710419026367877120	2016-03-17T10:54:29	SGE_Rob_Trading cool, ich habe es auch mehrere Jahre genutzt und habe dann zu Multicharts gewechselt. Vor allem aufgrund der Range/Renkos
+pipbandit	710417393370144769	2016-03-17T10:48:00	SGE_Rob_Trading einer der mal TradeSignal benutzt, selten hier :)
+pipbandit	710413933136515072	2016-03-17T10:34:15	Orderflowtradr btw: nice computer u have for your trading :P
+pipbandit	710413805558308864	2016-03-17T10:33:44	Orderflowtradr lol, trying my best :)
+pipbandit	710412360708657152	2016-03-17T10:28:00	
+pipbandit	710410244434894848	2016-03-17T10:19:35	Interesting lvl on kiwi here. could be a nice move if we break the current distribution 
+pipbandit	710408874688421888	2016-03-17T10:14:09	retailpropshop thanks for the flowers m8 :) I am currently using multicharts and just started to learn python . Happy to help and share
+pipbandit	710401639266578432	2016-03-17T09:45:24	retailpropshop I see, thanks for explaining me !
+pipbandit	710398916764835840	2016-03-17T09:34:34	retailpropshop there is not really a strong correlation. did you backtest this?
+pipbandit	710089709851189248	2016-03-16T13:05:54	Newest addition to my algo farm - CL_F range bar system systematictrading 
+pipbandit	709814730798587904	2016-03-15T18:53:14	Xtremtfokus1 thanks m8
+pipbandit	709814691334324224	2016-03-15T18:53:04	JWorksTrader fixed fractional
+pipbandit	709782062421647360	2016-03-15T16:43:25	JWorksTrader just developed.will start trading with small risk immediately
+pipbandit	709763460113043457	2016-03-15T15:29:30	MattBrookes3 very nice. as u can see the algo is a little late to the party
+pipbandit	709761260162846720	2016-03-15T15:20:45	MattBrookes3 I couldn't but thumbs up if you can do this profitably ;-)
+pipbandit	709760715196911621	2016-03-15T15:18:35	2016 in CL_F thru the eyes of an algo. systematictrading 
+pipbandit	709757607708327936	2016-03-15T15:06:14	USDMXN anybody? watch 17.95 
+pipbandit	709755618517770240	2016-03-15T14:58:20	CL_F 2h breakout anyone? Kkta90 
+pipbandit	709750463009300480	2016-03-15T14:37:51	bbki2611 back to 95? 
+pipbandit	709719746053328896	2016-03-15T12:35:48	simondiamondzzz algos are on your side m8 :)
+pipbandit	709676744500977664	2016-03-15T09:44:55	CL_F is takin a proper dump :)
+pipbandit	709672553468583936	2016-03-15T09:28:16	PRO_FITS glad to hear!
+pipbandit	709670212686237696	2016-03-15T09:18:58	NotGiacomo spread of 1usd
+pipbandit	709662157147869184	2016-03-15T08:46:57	XAU 4h breakout model compounding profits with 1% risk per trade systematictrading 
+pipbandit	709656973097242628	2016-03-15T08:26:21	PRO_FITS hey m8, did you meet Andreas?
+pipbandit	709643523776237568	2016-03-15T07:32:55	first time in a few weeks my CL_F triggers a short
+pipbandit	709641374107353088	2016-03-15T07:24:22	Kkta90 well done my friend!
+pipbandit	709633905318559744	2016-03-15T06:54:42	Good morning folks, 4h XAU breakout model triggered first short signal since dev. happy trading all 
+pipbandit	709402105254121474	2016-03-14T15:33:36	DavidTaggart PrometheusAM 50 weeks
+pipbandit	709391046048882688	2016-03-14T14:49:39	hmm... just applied the baseline code of the XAU breakout model to a CL_F chart :)) 
+pipbandit	709353639178051584	2016-03-14T12:21:01	georgi_stanoev very welcome m8
+pipbandit	709352978931699712	2016-03-14T12:18:23	georgi_stanoev exactly, and they are short the most in recent weeks!
+pipbandit	709352745300594688	2016-03-14T12:17:28	brucegreenroger thanks
+pipbandit	709350573259268098	2016-03-14T12:08:50	work on request: AUD and XAU model portfolio 
+pipbandit	709349414448537600	2016-03-14T12:04:14	brucegreenroger I would buy above 1.4280ish
+pipbandit	709349249809522688	2016-03-14T12:03:34	georgi_stanoev BuenaP97 Hi Georgi, one is for Commercials and one for Non-Commercials e.g. Funds
+pipbandit	709338099252391936	2016-03-14T11:19:16	BuenaP97 no, COT data indexed
+pipbandit	709328022046941184	2016-03-14T10:39:13	look what happend the last time these indicators diverged like now! XAU GC_F 
+pipbandit	709321043039666176	2016-03-14T10:11:29	Inverted head and shoulder and TL break? GBPCHF 
+pipbandit	709304067797950464	2016-03-14T09:04:02	Testing the robustness of a trading model. Moving average length vs net profit.MA is filter only systematictrading 
+pipbandit	708169206726955008	2016-03-11T05:54:30	rBauhn it is mate BUT backtesting and actually trading such an event is very different. the slippage can be massive!
+pipbandit	707930117436252160	2016-03-10T14:04:27	dasvee not worth the slippage and noise!
+pipbandit	707929340013576193	2016-03-10T14:01:22	
+pipbandit	707928209912897537	2016-03-10T13:56:52	1.0830! EUR
+pipbandit	707925313519546368	2016-03-10T13:45:22	CHF &gt; 1.01 triggers 1.0150 
+pipbandit	707917151420719104	2016-03-10T13:12:56	MrTopStep 2030 just by looking at profile ;-)
+pipbandit	707916110394482689	2016-03-10T13:08:47	keep this in mind ;-) 
+pipbandit	707913592675377154	2016-03-10T12:58:47	the EUR is still in the range. Fun starts &lt; 1.0830/1.0800 
+pipbandit	707912233590890497	2016-03-10T12:53:23	EUR 10yr swap barely moving 
+pipbandit	707911864412446720	2016-03-10T12:51:55	there we go EURGBP 
+pipbandit	707908105074511872	2016-03-10T12:36:59	brucegreenroger makes sense! i have turned off all algos as well!
+pipbandit	707900766225358848	2016-03-10T12:07:49	brucegreenroger that's correct m8, same to you !
+pipbandit	707897151762919424	2016-03-10T11:53:27	andrisilbi_ ha dir scho immer gsait du söllsch uf Android wechsle :P
+pipbandit	707895330197659648	2016-03-10T11:46:13	brucegreenroger BBG, Reuters Eikon etc. R u looking for something special?
+pipbandit	707894160808943620	2016-03-10T11:41:34	EUR 1.1050 - 1.0830 lvls to watch ECB 
+pipbandit	707877474881949696	2016-03-10T10:35:16	Improved stop loss concept on XAU 4h-breakout 
+pipbandit	707859499386859520	2016-03-10T09:23:50	Sanity checking some algos AUDUSD 
+pipbandit	707849387192557568	2016-03-10T08:43:39	EURGBP again - this gets weaker and weaker 
+pipbandit	707845110436929536	2016-03-10T08:26:40	same here... 
+pipbandit	707586398371581952	2016-03-09T15:18:38	Kkta90 ;-)
+pipbandit	707586123489525760	2016-03-09T15:17:32	Kkta90 ui, bisch hässig? :))
+pipbandit	707584825729933313	2016-03-09T15:12:23	Kkta90 long/short XAU 4h :P 
+pipbandit	707579287914811392	2016-03-09T14:50:23	VonAnka_se LOOOL, not too bad :))
+pipbandit	707579089285201920	2016-03-09T14:49:35	Kkta90 gueti frog. ich rechne halt andersch.
+pipbandit	707577414352818176	2016-03-09T14:42:56	Kkta90 du muesch es über bigpointvalue ufe rechne. chunnt druf a was du dett dinne hesch!
+pipbandit	707575523237613568	2016-03-09T14:35:25	Kkta90 ebe, hesch das extra so gmacht?
+pipbandit	707575243674677248	2016-03-09T14:34:18	XAU 4h breakout 1% risk per trade NO compounding 
+pipbandit	707573871868825600	2016-03-09T14:28:51	Kkta90 wenn ich mis script nimm und 1% risk nimm vo 3000 zbsp. denn git's gar kei trades well ich gar noed so wenig kontrakt cha handle
+pipbandit	707573583594299392	2016-03-09T14:27:43	Kkta90 du, bisch sicher, dass mit dem money management script alles stimmt?
+pipbandit	707569796397797377	2016-03-09T14:12:40	Kkta90 getting closer :P 4h XAU breakout 
+pipbandit	707537514681262082	2016-03-09T12:04:23	I LOVE ALGOS :)
+pipbandit	707530077202997248	2016-03-09T11:34:50	Kkta90 super!
+pipbandit	707529745953656832	2016-03-09T11:33:31	Kkta90 merci, hesch recht. han de falschi chart aaglueget. cool !
+pipbandit	707527154779734017	2016-03-09T11:23:13	Kkta90 das gseht noch 4h us. isch de guet?
+pipbandit	707527073020125188	2016-03-09T11:22:54	Kkta90 bi au long :P
+pipbandit	707517219576680449	2016-03-09T10:43:44	Hubon stimmt... sorry, vermuetli kids wieder am händy gspielt und somit ha ich's gar noed gseh. tuet mer leid!
+pipbandit	707514430301593600	2016-03-09T10:32:39	Hubon let me check
+pipbandit	707513206307201024	2016-03-09T10:27:48	Freeride world tour LIVE 
+pipbandit	707501939953688576	2016-03-09T09:43:01	WHEN HUMANS FAIL! have taken the algo offline yesterday and forgot to turn it back on! 
+pipbandit	707496388700053504	2016-03-09T09:20:58	EURGBP 4h: do I see a shoulder head shoulder? 
+pipbandit	707495681901129729	2016-03-09T09:18:09	Hubon ha der doch gsait du söllsch bitte e präsi mache und vorbii cho
+pipbandit	707495143599960064	2016-03-09T09:16:01	Hubon wenn hesch du mir aaglüte oder es mail gmacht?
+pipbandit	707480539645812736	2016-03-09T08:17:59	nice done algos - long audjpy short eurjpy - both in profit so far :)
+pipbandit	707479805416120320	2016-03-09T08:15:04	Good morning folks, just in case u wanna start your hard trading day with some rock tunes ;) 
+pipbandit	707474969245126656	2016-03-09T07:55:51	Hubon GM Hans, ich dir au! Warte immer no.... ;)
+pipbandit	707207447845474304	2016-03-08T14:12:49	MrTopStep was on BBG: 
+pipbandit	707181052272500736	2016-03-08T12:27:56	VonAnka_se lol, that's a request m8. I am into intraday not daily models ;)
+pipbandit	707179324672188416	2016-03-08T12:21:04	daily TF model on AUD buying setback/selling rallies. 2014/15 trends pretty strong. work in progress. 
+pipbandit	706926944328273922	2016-03-07T19:38:12	just amazing!  
+pipbandit	706856622203801600	2016-03-07T14:58:46	mchadders555 thanks a lot m8!
+pipbandit	706856513915265024	2016-03-07T14:58:20	huh_FutexLive apwtrader same on ES_F, could work... 
+pipbandit	706856150105460737	2016-03-07T14:56:53	mchadders555 sure, please!
+pipbandit	706855568955338753	2016-03-07T14:54:35	mchadders555 exactly, when I saw this guy skate the first time I told my son there was this guy (Mullen) when I was young :)
+pipbandit	706854190866366464	2016-03-07T14:49:06	that actually creates my plan for tomorrow - testing a breakout strategy in USDCAD by looking at CL_F 
+pipbandit	706853980761157633	2016-03-07T14:48:16	algo in line with CL_F --&gt; shorts USDCAD ;-)
+pipbandit	706851466066186240	2016-03-07T14:38:16	huh_FutexLive apwtrader since 2008. might be worth digging a little deeper into this 
+pipbandit	706851001232449536	2016-03-07T14:36:26	huh_FutexLive apwtrader FDAX trades lower last 2 trading hours. got balls and hold till cash open next day 
+pipbandit	706835007495675904	2016-03-07T13:32:52	pipbandit 3-months
+pipbandit	706834923945066497	2016-03-07T13:32:32	it's not him - but his role model in skating ;) 
+pipbandit	706834799747604480	2016-03-07T13:32:03	my son is now into skateboarding as I was myself :) check out this video 
+pipbandit	706832084053188608	2016-03-07T13:21:15	The Dollar is broken against my Asian basket USD 
+pipbandit	706825041883832320	2016-03-07T12:53:16	algos have only one remaining position from this morning's 'hard work' - short EURAUD
+pipbandit	706821934147833856	2016-03-07T12:40:55	LongFangFX yeah, have it on my weekly watchlist... Zzzzzz....
+pipbandit	706820739060600833	2016-03-07T12:36:10	NotGiacomo apwtrader huh_FutexLive m8, this was just to see if there could be an edge. It would certainly need more testing!
+pipbandit	706818495972024320	2016-03-07T12:27:16	apwtrader huh_FutexLive Long FDAX if close is in the lower 10% of the hourly range adding some filters... 
+pipbandit	706813372998787072	2016-03-07T12:06:54	probably NOT the most watched ccy but I'll have a look on it - GBPSEK 
+pipbandit	706810706398724096	2016-03-07T11:56:18	Kkta90 leck bobby, intermarket jetzt schon ;-)
+pipbandit	706776132599861249	2016-03-07T09:38:55	apwtrader I need to finish something BUT i will look at hourly charts later. Maybe it's worth a try on FDAX for a st model
+pipbandit	706774398418731008	2016-03-07T09:32:02	apwtrader i see... check the link, math/statistics proof your idea!
+pipbandit	706773132036718592	2016-03-07T09:27:00	huh_FutexLive apwtrader fyi: 
+pipbandit	706772833343574016	2016-03-07T09:25:49	apwtrader u mean a closer in the lower 10% of the candle's range?
+pipbandit	706764338128953344	2016-03-07T08:52:03	hlelowrold all algos very short-term. minutes to hours. no overnite
+pipbandit	706764154804314112	2016-03-07T08:51:20	hlelowrold yeah, it's an open range algo adaptive to volatility which was very low during Asian session
+pipbandit	706763101681655808	2016-03-07T08:47:09	huh_FutexLive lol... they get some more RAM maybe ;-)
+pipbandit	706762903928623104	2016-03-07T08:46:21	long XAU now... pretty busy my lil babies this morning :))
+pipbandit	706762389325287424	2016-03-07T08:44:19	2 tp's hit - EURUSD and EURJPY
+pipbandit	706759761400893440	2016-03-07T08:33:52	N8rB3rt sad u dont' believe in your Union's currency... :P
+pipbandit	706758186586472448	2016-03-07T08:27:37	my algos are pretty bearish EUR. Short EURUSD, EURAUD, EURJPY... hmm...
+pipbandit	706746542221336576	2016-03-07T07:41:21	Ch2Christo same to you m8!
+pipbandit	705840598553645056	2016-03-04T19:41:27	majewski_km lol...  home alone with 3 lil kids I need some extra shots 😁😜
+pipbandit	705835266267877379	2016-03-04T19:20:15	GioSaccatar enjoy m8!
+pipbandit	705834943646208000	2016-03-04T19:18:59	Nataliem55 enjoy both of 'em 😇
+pipbandit	705820635134566400	2016-03-04T18:22:07	Happy weekend guys!  ...the same color as this weeks best trade 😉 
+pipbandit	705773303303159808	2016-03-04T15:14:02	EdMatts just got this from sobata416 
+pipbandit	705771738378977280	2016-03-04T15:07:49	still long XAU. glad i didnt shit my pants during NFP noise.
+pipbandit	705743988096147456	2016-03-04T13:17:33	Giv1775 she was just saying that the threshold is taking into consideration family members and refugee's as well
+pipbandit	705743535669121024	2016-03-04T13:15:45	Giv1775 not really any big news yet. Switzerland will use a threshold to cap immigration
+pipbandit	705742383460294656	2016-03-04T13:11:10	Giv1775 I know, i am listening.... will tell you ;)
+pipbandit	705741716490428417	2016-03-04T13:08:31	Giv1775 
+pipbandit	705741187697811456	2016-03-04T13:06:25	Giv1775 but dont' u have a working permit?
+pipbandit	705740789599625216	2016-03-04T13:04:50	Giv1775 it's a retweed but I think from one of the big agencies
+pipbandit	705740417174773760	2016-03-04T13:03:22	Giv1775 Hi Pierre, I dont' think so... but wait for the official PR
+pipbandit	705739865804181504	2016-03-04T13:01:10	
+pipbandit	705739094786236416	2016-03-04T12:58:06	TeycirTrades i see what you mean that's the problem when correlations break. have a look at this predictive correlation concept
+pipbandit	705733123011690498	2016-03-04T12:34:23	TeycirTrades discipline is a virtue in this business. But this can be 'trained'.
+pipbandit	705732929977188352	2016-03-04T12:33:37	TeycirTrades yes, this happens.
+pipbandit	705732248298000384	2016-03-04T12:30:54	TeycirTrades PRICE IS KEY m8 - ANYTIME!
+pipbandit	705731095770357760	2016-03-04T12:26:19	TeycirTrades sorry, didnt know that. I understand what you mean
+pipbandit	705730292208766980	2016-03-04T12:23:08	TeycirTrades but as COT is weekly, just leave it!
+pipbandit	705729992362217472	2016-03-04T12:21:56	TeycirTrades hmm...
+pipbandit	705729823809871872	2016-03-04T12:21:16	TeycirTrades but then why not trade it on the underlying COT (weekly) chart?
+pipbandit	705729520733659136	2016-03-04T12:20:04	TeycirTrades dont want to offend you but why use COT for trades based on a 4h-chart?!?
+pipbandit	705728922344951808	2016-03-04T12:17:41	TeycirTrades that's why I went long at the bottom. didn't update yet 
+pipbandit	705728112898736128	2016-03-04T12:14:28	TeycirTrades hmm.. i use my own knowing what's inside the code ;)
+pipbandit	705727290924257280	2016-03-04T12:11:12	TeycirTrades I index COT, how do u look at it?
+pipbandit	705726662080593920	2016-03-04T12:08:42	TeycirTrades on some of my ES_F models I look at VIX or A/D for confirmation/filter NOT for signals
+pipbandit	705726356521414664	2016-03-04T12:07:29	TeycirTrades predictive correl: 
+pipbandit	705726115801907200	2016-03-04T12:06:32	TeycirTrades u know COT data is predictive BUT i can take weeks till it fullfills!
+pipbandit	705725997841256449	2016-03-04T12:06:04	TeycirTrades how u measure flow?
+pipbandit	705725899036106756	2016-03-04T12:05:40	TeycirTrades ever read about predictive correlation? Only use intermarket when it's able to forecast
+pipbandit	705725704399396864	2016-03-04T12:04:54	TeycirTrades makes sense on these kind of timeframe.
+pipbandit	705724998116372480	2016-03-04T12:02:05	TeycirTrades u talk about what kind of holding period?
+pipbandit	705724079534428160	2016-03-04T11:58:26	TeycirTrades most profitable system or those using 1 or max 2 parameters. Automatically prevents you from curve-fitting as well!
+pipbandit	705723711496785920	2016-03-04T11:56:59	TeycirTrades same here, I started using all this standard indicator crap. Simple backtest reveals the uselessness of them.
+pipbandit	705721794616029184	2016-03-04T11:49:22	TeycirTrades same to you m8! and thanks!
+pipbandit	705721254230278144	2016-03-04T11:47:13	TeycirTrades exactly. I like simple models with very few parameters
+pipbandit	705719577829842945	2016-03-04T11:40:33	TeycirTrades i tried some NN years ago. DIDN'T really feel comfortable with them. How about you?
+pipbandit	705716129898086401	2016-03-04T11:26:51	fyi: 
+pipbandit	705709737623605248	2016-03-04T11:01:27	TeycirTrades didnt look at the chart. I am coding but new position just popped up :)
+pipbandit	705707538835226624	2016-03-04T10:52:43	one of the few algos trading today just went long FDAX. hmmm....
+pipbandit	705678759224078336	2016-03-04T08:58:21	i'll keep trailing my stops on this XAU very tight going into NFP
+pipbandit	705676697270669312	2016-03-04T08:50:10	Anybody ever used this? 
+pipbandit	705671735505526784	2016-03-04T08:30:27	Next targets on XAU 
+pipbandit	705666342205186048	2016-03-04T08:09:01	zammofx lol
+pipbandit	705666102270042117	2016-03-04T08:08:04	zammofx hey m8, that's me in my early days - i look much better now :P
+pipbandit	705665905490071552	2016-03-04T08:07:17	bbki2611 same to you and your family m8
+pipbandit	705663859521101825	2016-03-04T07:59:09	I think bbki2611 will have a great day seeing this ;-) 
+pipbandit	705660863164850176	2016-03-04T07:47:14	VonAnka_se but much easier to fly than take the train with kids :) there will be other opportunities
+pipbandit	705658513066950656	2016-03-04T07:37:54	VonAnka_se very nice. will you stop by in Switzerland?
+pipbandit	705655943221133312	2016-03-04T07:27:41	dasvee thank you!
+pipbandit	705655304537677824	2016-03-04T07:25:09	dasvee thanks for the links!
+pipbandit	705654850655272960	2016-03-04T07:23:21	dasvee absolutely, totally agree!
+pipbandit	705654689824677888	2016-03-04T07:22:43	dasvee u have a link to it?
+pipbandit	705654376636014592	2016-03-04T07:21:28	dasvee thanks m8
+pipbandit	705652830275837952	2016-03-04T07:15:19	dasvee never traded USDCNH so far. might have a look at it!
+pipbandit	705652391933321217	2016-03-04T07:13:35	dasvee 10MB hard drive.... holy shit :))
+pipbandit	705650854154473472	2016-03-04T07:07:28	dasvee i started coding on a Commodore.. puhh, saying this i feel pretty old now :))
+pipbandit	705649669070655489	2016-03-04T07:02:46	80% of my algos dont trade on NFP day. that's gonna be a nice day for me to do some research and code. 
+pipbandit	705647785534574592	2016-03-04T06:55:17	CNH quite some USD weakness last two days 
+pipbandit	705647626964721664	2016-03-04T06:54:39	PrometheusAM you as well m8, enjoy it!
+pipbandit	705638968809754624	2016-03-04T06:20:14	happy Friday all,  commuting and checking webcams. hmmm... looks like i have chosen the wrong direction this morning 
+pipbandit	705488940699164673	2016-03-03T20:24:05	on the road....  what a nice move 😀 
+pipbandit	705414813510406144	2016-03-03T15:29:32	TommmyF PrometheusAM we are only two months into the new year 😉 let's see...
+pipbandit	705412034360451072	2016-03-03T15:18:29	SPY mean reversion idea coded in 5mins. incl. commission and slippage systematictrading 
+pipbandit	705403105127604224	2016-03-03T14:43:00	bbki2611 anytime amigo!
+pipbandit	705402641115955200	2016-03-03T14:41:10	bbki2611 not too bad :) 
+pipbandit	705402444528877568	2016-03-03T14:40:23	bbki2611 I will do this for you of course :P
+pipbandit	705402058959155200	2016-03-03T14:38:51	XAU and US real interest rate 
+pipbandit	705398758947868673	2016-03-03T14:25:44	BuenaP97 i just see that XAU has some more room to run into 1280/1300 and my XAU-Index is still showing upside. It's range 1200-1300
+pipbandit	705397918451290112	2016-03-03T14:22:24	BuenaP97 the rally in what? XAU or equities?
+pipbandit	705380704381698049	2016-03-03T13:13:59	Global Tactical Asset Allocation with a simple quant model: 
+pipbandit	705344567932035072	2016-03-03T10:50:24	Getting closer: Tactical Asset Allocation with a simple quant model. Volatility adjusted (grey) 
+pipbandit	705338193948893184	2016-03-03T10:25:04	how a simple model can improve TAA dramatically - reduces volatility and drawdown 
+pipbandit	705332455251832832	2016-03-03T10:02:16	Kkta90 na ja, noed übertriebe amigo :)
+pipbandit	705329120251658241	2016-03-03T09:49:01	Kkta90 amazing how fast u've learned that shit mate! congrats!
+pipbandit	705328518129963013	2016-03-03T09:46:37	Trader_Dante tells a lot about the folks using twitter...
+pipbandit	705327474599657474	2016-03-03T09:42:28	explorefx same here. If i check my USD- and XAU-Index i would favor a break to the upside soon... let's see and be flexible ;)
+pipbandit	705326795134996480	2016-03-03T09:39:46	Belated good morning folks, this looks like a continuation triangle in XAU. Next target 1280-1300. 
+pipbandit	705046704484126720	2016-03-02T15:06:48	Outperforming TAA buy and hold - sure, just use some simple rules to switch your Asset Allocation 
+pipbandit	705040478849339392	2016-03-02T14:42:03	work in progress GTAA as per request: 
+pipbandit	705039777662369792	2016-03-02T14:39:16	
+pipbandit	705035616413687808	2016-03-02T14:22:44	Kkta90 well done amigo!
+pipbandit	705031396306370560	2016-03-02T14:05:58	just in case sby follow USDPLN - this looks like a pending breakout! 
+pipbandit	705020387676000256	2016-03-02T13:22:13	FXMasterCourse yes, I've read something similar not too long ago...
+pipbandit	705018761808633857	2016-03-02T13:15:46	ForexStopHunter got it! thanks
+pipbandit	705017281399627777	2016-03-02T13:09:53	ForexStopHunter many thanks Dale, I'll come back...
+pipbandit	705016088187293697	2016-03-02T13:05:08	FXMasterCourse download in progress.... Thanks Corvin
+pipbandit	705008013288054784	2016-03-02T12:33:03	owsi1968 LOL
+pipbandit	705007789110927360	2016-03-02T12:32:09	Thank you so much m8 :) I owe you some Swiss chocolate ;-) 
+pipbandit	704969061222981632	2016-03-02T09:58:16	short FDAX now. open range algo
+pipbandit	704967358172024832	2016-03-02T09:51:30	pretty quite on the algo front today.
+pipbandit	704620642084249600	2016-03-01T10:53:46	Kkta90 andere aasatz ;) nimm de close vo geschter. aber au adaptiv a'd vola
+pipbandit	704620103942455297	2016-03-01T10:51:38	Kkta90 total neu!
+pipbandit	704616764798328833	2016-03-01T10:38:22	This new ORB is the total opposite of all my others currently running live - that's gonna be a nice diversification! systematictrading
+pipbandit	704615470595444737	2016-03-01T10:33:13	Kkta90 Kristian sitting in a lecture and checking his algos - I LIKE :)
+pipbandit	704614174169669632	2016-03-01T10:28:04	new ORB e-mini Russell update.. less trades almost same profit --&gt; profit/trade much better, less exposure ;) 
+pipbandit	704586544162672640	2016-03-01T08:38:17	Basline equity of a new ORB trading e-mini Russell. Needs more work.... systematictrading 
+pipbandit	704585376464281600	2016-03-01T08:33:38	simondiamondzzz totally agree. I see continued strength in MXN, TRY and ZAR
+pipbandit	704584766507642880	2016-03-01T08:31:13	PRO_FITS thanks m8, just hit tp on Nikkei :)
+pipbandit	704580408973922304	2016-03-01T08:13:54	Flaschinformationen? Österreicher klagen Schweizer Nationalbank 
+pipbandit	704564971489906689	2016-03-01T07:12:34	N8rB3rt Ch2Christo explorefx Danke Norbert :) good luck!
+pipbandit	704562412293332992	2016-03-01T07:02:23	current algos positioning: long aud, long nikkei, short xau happy trading folks
+pipbandit	704560158022770688	2016-03-01T06:53:26	Ch2Christo explorefx u as well :)
+pipbandit	704554372248768512	2016-03-01T06:30:26	explorefx same to u amigo
+pipbandit	704550337726824448	2016-03-01T06:14:25	You_Trade i doubt... unless u code it on your own!
+pipbandit	704314432407670785	2016-02-29T14:37:00	You_Trade price time distribution
+pipbandit	704275675688136704	2016-02-29T12:03:00	German 5yr projection 
+pipbandit	704275333307080705	2016-02-29T12:01:38	German 10yr projection 
+pipbandit	704271643582013441	2016-02-29T11:46:59	Projecting Swiss 10yr 
+pipbandit	704270830302269441	2016-02-29T11:43:45	pearldiver99 yes, good for the extension of my mortgages :P
+pipbandit	704270435974778881	2016-02-29T11:42:11	Swiss 10yr new record low -0.419
+pipbandit	704253571542487040	2016-02-29T10:35:10	bbki2611 thanks m8, some luck as well ;)
+pipbandit	704253337475149824	2016-02-29T10:34:14	bbki2611 hey m8, how r u? btw: I took profit on my EURGBP long last week
+pipbandit	704252243130904576	2016-02-29T10:29:53	But hard to beat this country ;P 
+pipbandit	704251585854046208	2016-02-29T10:27:17	Germany up to 9yrs negative now 
+pipbandit	704235692566712320	2016-02-29T09:24:07	BTP Futures same strategy 
+pipbandit	704233797441757185	2016-02-29T09:16:35	Month-end trading strategy in BUNDS. Am I looking for new equity highs in 2016? ;-) systematictrading 
+pipbandit	704231437436907520	2016-02-29T09:07:13	mar67760521 let's see m8 :) i am currently flat medium-term. Algos is another story ;-)
+pipbandit	704225443705167872	2016-02-29T08:43:24	explorefx no new low with SNB peg removal is a sign to me that USDCHF hast hit long-termbottom in 2011. I am bullish LT looking 4 1.25ish
+pipbandit	704224886584168448	2016-02-29T08:41:11	explorefx 
+pipbandit	704224822247747584	2016-02-29T08:40:56	Could you pls have as look at this and tell me your thoughts? The TL was drawn in 15 after SNB shock 
+pipbandit	704224551144652800	2016-02-29T08:39:51	explorefx absolutely my friend. I have no bias just an open mind ;-)
+pipbandit	704223005111664640	2016-02-29T08:33:42	this looks like a continuation triangle and a push towards 1290ish once broken. XAU 
+pipbandit	704093807411748864	2016-02-29T00:00:19	For every retweet this gets, Pedigree will donate one bowl of dog food to dogs in need! 😊 tweetforbowls 
+pipbandit	703166498567663620	2016-02-26T10:35:32	Giv1775 all good. i am skiing today
+pipbandit	702871820794511360	2016-02-25T15:04:35	pipbandit msgbi N8rB3rt TeraEuro rszbt alex13wetter
+pipbandit	702871486751752195	2016-02-25T15:03:15	
+pipbandit	702869373019680768	2016-02-25T14:54:51	Global Tactical Asset Allocation in progess.... 
+pipbandit	702858974505377792	2016-02-25T14:13:32	once again FDAX makes algo daddy happy to pare all the losses from fx this morning. diversification is key guys!
+pipbandit	702802890931507200	2016-02-25T10:30:41	TraderSimon jp_trade Broekie_007 explorefx likewise, enjoy it!
+pipbandit	702801509927534592	2016-02-25T10:25:12	TraderSimon jp_trade monthly cable 
+pipbandit	702801382575886340	2016-02-25T10:24:41	TraderSimon jp_trade exactly, just trade it ;)
+pipbandit	702801125720907776	2016-02-25T10:23:40	TraderSimon jp_trade close to parity I say
+pipbandit	702799553372798976	2016-02-25T10:17:25	Giv1775 not totally sure about that.. but we'll see...
+pipbandit	702799461483978752	2016-02-25T10:17:03	jp_trade TraderSimon u tell me - i have no clue :P
+pipbandit	702798518642151424	2016-02-25T10:13:18	Giv1775 u dont need FED to hike! you just need a total collapse in Europe to see international capital flow into US ;)
+pipbandit	702798316942303232	2016-02-25T10:12:30	TraderSimon it's all about good RM ;)
+pipbandit	702797754809114624	2016-02-25T10:10:16	TraderSimon absolutely, still have a short EUR open but +/- flat. cable got stopped in after figs, stopped around 35 just to see it lower..
+pipbandit	702797396300926976	2016-02-25T10:08:51	Giv1775 high vol will remain in H1 equities trading between 1830 - 1980 but I am quite bullish for H2. not sure abt Credit. USD bullish
+pipbandit	702796469204606978	2016-02-25T10:05:10	TraderSimon absolutely, not only DAX. my algos having a hard day today...
+pipbandit	702774741510262784	2016-02-25T08:38:49	Liquidity, Kill Switches Are the Talk of the Currency Universe  via business
+pipbandit	702767734166310912	2016-02-25T08:10:59	Giv1775 haha... we all have ;-)
+pipbandit	702767110414585857	2016-02-25T08:08:30	Giv1775 sure, have fun
+pipbandit	702766422695526400	2016-02-25T08:05:46	Giv1775 yeah, good for you :)
+pipbandit	702764083163099137	2016-02-25T07:56:28	Giv1775 Hi Pierre, yes :) how about you?
+pipbandit	702742651561443328	2016-02-25T06:31:19	gm folks, commuting and checking algos with a big ☺ $N225 happy trading all
+pipbandit	702513288026972160	2016-02-24T15:19:54	hmeisler didnt he just say this rally has far more to go.... *scratching my head* ;)
+pipbandit	702512588207292416	2016-02-24T15:17:07	GTAA Quant Model in progress systematic AssetAllocation 
+pipbandit	702509156654309377	2016-02-24T15:03:29	Kkta90 seckel, verdiensch grad wieder 2johr studium huet :P
+pipbandit	702505444540022784	2016-02-24T14:48:44	Kkta90 gratuliere :)
+pipbandit	702482481056976896	2016-02-24T13:17:29	
+pipbandit	702473614596169728	2016-02-24T12:42:15	MrTopStep m8, i have some algos doing this. Surely not as professional as you do BUT it's simple and works :)
+pipbandit	702473185506287616	2016-02-24T12:40:33	EUR 100% prob of a cut priced in... 
+pipbandit	702470735370067968	2016-02-24T12:30:49	explorefx CFD's suck m8
+pipbandit	702470348021878784	2016-02-24T12:29:16	explorefx on NYMEX usually 0.01
+pipbandit	702461382273441792	2016-02-24T11:53:39	EUR approaching some decent support here 
+pipbandit	702444398018215936	2016-02-24T10:46:09	Giv1775 working in Zug, living close to Zurich. Glad to hear :))
+pipbandit	702444265071316992	2016-02-24T10:45:38	Giv1775 i see what you mean. maybe more easy in FX. Read this if you didn't already 
+pipbandit	702443814020124672	2016-02-24T10:43:50	Giv1775 if you trade a small account trade fx where you can vary your positions accordingly.
+pipbandit	702442324396265472	2016-02-24T10:37:55	Giv1775 NOT true, exactly the same if you vary your position size!
+pipbandit	702442061438525440	2016-02-24T10:36:52	Giv1775 m8, it's all about risk management in this business! i don't care about return - i care about my risk!
+pipbandit	702441616058032129	2016-02-24T10:35:06	stelu_olar LMAX very fast and reliable in FX  - no rejects!
+pipbandit	702441230010064897	2016-02-24T10:33:34	Giv1775 i tend to disagree.... just look at it on a relative basis. 0.5% is the same for your total assets then if you trade 10k or 10Mio
+pipbandit	702440610070929408	2016-02-24T10:31:06	NicTrades dasvee ECantoni multicharts LMAX they do
+pipbandit	702438455830323200	2016-02-24T10:22:33	couldn't agree more! 
+pipbandit	702437139578032128	2016-02-24T10:17:19	dasvee gerne
+pipbandit	702436855749414913	2016-02-24T10:16:11	ECantoni let's see.... there r certain times not worth being in a momentum position ;)
+pipbandit	702436475548409856	2016-02-24T10:14:41	algo just closed GBP short - time exit
+pipbandit	702435226769879040	2016-02-24T10:09:43	dasvee ECantoni multicharts and trading with LMAX
+pipbandit	702433839273136128	2016-02-24T10:04:12	ECantoni dasvee sure m8, no fundamental data input. some of them dont trade around certain times or days but the rest... i dont care :P
+pipbandit	702431726648295424	2016-02-24T09:55:48	dasvee ECantoni i dont know.. the algo manages everything ;)
+pipbandit	702429527234977794	2016-02-24T09:47:04	Swiss 10yr Swap SFSW10 Curncy-.1825-.0225(-14.06%) approaching Jan 15 levels
+pipbandit	702428790740422656	2016-02-24T09:44:08	Swiss 20yr Govt close to zero now 0.0170...
+pipbandit	702427732349739008	2016-02-24T09:39:56	my algo got balls shorting cable at the lows... uhhh...
+pipbandit	702427627416637440	2016-02-24T09:39:31	rltrades yeah, incredible skier this guy :)
+pipbandit	702424064724475904	2016-02-24T09:25:22	must see... :) 
+pipbandit	702394231877410818	2016-02-24T07:26:49	huh_FutexLive all in m8 :)
+pipbandit	702393242986348544	2016-02-24T07:22:53	N8rB3rt Moin Moin Minsky :))
+pipbandit	702157369334177793	2016-02-23T15:45:36	msgbi DiegoKuonen danke für die links heute
+pipbandit	702079368743559168	2016-02-23T10:35:40	David_Scutt absolutely David. But maybe put it in a longer-term context and it still looks ugly ;-) 
+pipbandit	702060042493829121	2016-02-23T09:18:52	explorefx i have a separate account where i trade semi-automated. But not on this kind of momentum algos ;) btw: tp hit :))
+pipbandit	702059762943397889	2016-02-23T09:17:45	explorefx that was close 1.1008 low so far...
+pipbandit	702059633050066945	2016-02-23T09:17:14	explorefx unfortunately I can't - I DON'T OVERRULE MY ALGOS :)
+pipbandit	702058998086893568	2016-02-23T09:14:43	explorefx let's see...tp 1.10075
+pipbandit	702058473689899009	2016-02-23T09:12:38	explorefx my algo is :P
+pipbandit	702057857705967616	2016-02-23T09:10:11	ECantoni enjoy your trip m8
+pipbandit	702046759174979584	2016-02-23T08:26:05	msgbi rszbt TeraEuro N8rB3rt alex13wetter ähhhmmm markus, ich hab aber leider keinen PhD... ;-)
+pipbandit	702046406190768128	2016-02-23T08:24:41	" one who can build financial models and write code but who also has the guts to spot a market anomaly and bet big" 
+pipbandit	702044545085808640	2016-02-23T08:17:17	msgbi rszbt TeraEuro N8rB3rt alex13wetter merci :)
+pipbandit	702031678982778880	2016-02-23T07:26:10	Hubon Morge Hans, machsch mer ja au grad wieder freud so frueh am morge :P
+pipbandit	701769237426262016	2016-02-22T14:03:19	PredatorTrading done
+pipbandit	701768398389297152	2016-02-22T13:59:59	PredatorTrading explain me more pls
+pipbandit	701767649525637120	2016-02-22T13:57:00	PredatorTrading why should I link my account to you guys if I only trade my own money?
+pipbandit	701750961082126337	2016-02-22T12:50:41	TeycirTrades luck as well ;-)
+pipbandit	701750647599849472	2016-02-22T12:49:26	TeycirTrades i didnt short either, but we've been long from 1075ish
+pipbandit	701750415122161664	2016-02-22T12:48:31	TeycirTrades thanks m8
+pipbandit	701749240683503616	2016-02-22T12:43:51	TeycirTrades wow, nice!
+pipbandit	701749145338564608	2016-02-22T12:43:28	TeycirTrades then u were probably on the right side of the XAU move ;) was a perfect one!
+pipbandit	701748363620970496	2016-02-22T12:40:22	TeycirTrades so, u trade COT or systematic?
+pipbandit	701747948615548928	2016-02-22T12:38:43	EUR finds next support 1.0970 - 30 
+pipbandit	701747680058470400	2016-02-22T12:37:39	TeycirTrades great! r u looking at volume profiles as well?
+pipbandit	701746179068063744	2016-02-22T12:31:41	TeycirTrades i see... but all kinds of underlyings or only CCY?
+pipbandit	701745451217895424	2016-02-22T12:28:48	TeycirTrades EURCAD doing very nice ;-) 
+pipbandit	701736920947236864	2016-02-22T11:54:54	zungybungy LOL.... or just relocate to Switzerland :P
+pipbandit	701735886090797056	2016-02-22T11:50:47	EUREX back
+pipbandit	701733486118445056	2016-02-22T11:41:15	zungybungy not my algos dont. BUT my personal target is close to parity if 1.40 goes
+pipbandit	701714708408229888	2016-02-22T10:26:38	FDAX algo turned off - just in case...
+pipbandit	701713231136608256	2016-02-22T10:20:46	TeycirTrades take the weak ones ag. CAD ;)
+pipbandit	701712774280441858	2016-02-22T10:18:57	TeycirTrades against? USD?. i am long CADCHF and short EURCAD, looks fine!
+pipbandit	701711488264830977	2016-02-22T10:13:50	TeycirTrades what TF u looking at?
+pipbandit	701711329606897664	2016-02-22T10:13:12	
+pipbandit	701710913276092416	2016-02-22T10:11:33	EurexGroup danke !
+pipbandit	701710142501482496	2016-02-22T10:08:29	
+pipbandit	701709552601997312	2016-02-22T10:06:09	NicTrades EurexGroup looks like  - no updates either!
+pipbandit	701705941440397312	2016-02-22T09:51:48	my only 'risk-off' position (short EURJPY) has just been stopped out
+pipbandit	701691601928777728	2016-02-22T08:54:49	a missed one.... GBPJPY 
+pipbandit	701691442645831680	2016-02-22T08:54:11	io8_8ov yeah!
+pipbandit	701691081113661443	2016-02-22T08:52:45	io8_8ov shit, I just bought some new shirts... :(
+pipbandit	701689708468944896	2016-02-22T08:47:17	owsi1968 algo short as well ;-)
+pipbandit	701687390809759744	2016-02-22T08:38:05	algos quite busy this morning - running 7 positions in this risk-on move systematictrading
+pipbandit	701679089342660608	2016-02-22T08:05:06	you really wanna be long that crap? my GBP-Index tells the story 
+pipbandit	701677550951669760	2016-02-22T07:58:59	GBP 6-month ATM vol at 4yr highs 
+pipbandit	701668083694493697	2016-02-22T07:21:22	the fight continues - UST 10yr 
+pipbandit	701643818353954816	2016-02-22T05:44:56	PRO_FITS that's part of the game m8 ;)
+pipbandit	701642650814906368	2016-02-22T05:40:18	PRO_FITS usdjpy?
+pipbandit	700648297980035072	2016-02-19T11:49:06	commuting by train and just seeing that FDAX short was triggered in the meantime and tp hit. the freedom of a systematic trader. ;)
+pipbandit	700638713273909250	2016-02-19T11:11:01	N8rB3rt lol
+pipbandit	700637341518462977	2016-02-19T11:05:34	holy shit, the Brit's have problems... :)) 
+pipbandit	700636311212830720	2016-02-19T11:01:28	dmg_FutexLive r u copying my algo mate ;-) 
+pipbandit	700634414414364672	2016-02-19T10:53:56	TeycirTrades yeah, break of the early days range
+pipbandit	700634071202828288	2016-02-19T10:52:34	TeycirTrades algo open range
+pipbandit	700633840990048258	2016-02-19T10:51:39	it looks like i will soon b short FDAX...
+pipbandit	700618321784397824	2016-02-19T09:49:59	lol, just made 20 pips on that move. Couldnt even see the algo open a position :)) 
+pipbandit	700615828379672576	2016-02-19T09:40:04	GBP once below 1.40 this crap will fall close to parity in the medium-term 
+pipbandit	700599562201862144	2016-02-19T08:35:26	Niederhoffer talks about his algos... 
+pipbandit	700586156342296576	2016-02-19T07:42:10	thank you m8! 
+pipbandit	700585134265909248	2016-02-19T07:38:06	PRO_FITS algos pretty quite here. had some bad trades overnite... but that's part of the game!
+pipbandit	700584863997501440	2016-02-19T07:37:02	PRO_FITS good luck m8 :)
+pipbandit	700583931960233986	2016-02-19T07:33:20	PRO_FITS hey mate, u look at 3min charts? r u trading HFT? :))
+pipbandit	700581841540087808	2016-02-19T07:25:01	BankersUmbrella same to you and greetings to Zurich ;)
+pipbandit	700581765019262976	2016-02-19T07:24:43	InterpreTASteve  v welcome and thanks as well ;-) yeah, market always goes where it hurts the most ;-)
+pipbandit	700578779895357440	2016-02-19T07:12:51	Interesing video for system developers: Time factor and progressive stops by AndreaUngerOYT 
+pipbandit	700578064191897600	2016-02-19T07:10:01	InterpreTASteve my JPY-Index (daily basis) ;-) 
+pipbandit	700306237917941760	2016-02-18T13:09:52	owsi1968 ECantoni nice one!
+pipbandit	700305192990937088	2016-02-18T13:05:43	looks like Canada has used the rally in XAU to get rid of its reserves... are they desperately in need for cash? 
+pipbandit	700302110664032256	2016-02-18T12:53:28	owsi1968 ECantoni don't forget my algos guys - have been short EUR this morning and currently short EURAUD :)
+pipbandit	700289092748238848	2016-02-18T12:01:45	watch 126ish in EURJPY - probably the drag why JPY can't go higher despite some risk-on trading 
+pipbandit	700288553650147328	2016-02-18T11:59:36	paststat 
+pipbandit	700287000058925056	2016-02-18T11:53:26	paststat yeah, currently looking at Quandl as well. really like their offering!
+pipbandit	700286557115256832	2016-02-18T11:51:40	paststat thanks for your feedback m8! but is it affordable?
+pipbandit	700285408517746688	2016-02-18T11:47:06	Anybody uses them? 
+pipbandit	700285291039477760	2016-02-18T11:46:38	TalbsUK MattBrookes3 i heard that before - sooo damn easy :D
+pipbandit	700284811190079488	2016-02-18T11:44:44	MattBrookes3 LOL, maybe i should stop posting charts :P
+pipbandit	700284074045370368	2016-02-18T11:41:48	GabrielOMX u can use whatever you like, just backtest it and tweak it to your needs ;-)
+pipbandit	700282649785540608	2016-02-18T11:36:08	hlelowrold yeah, most simple if you don't have a bias and just let the machine do their job ;-)
+pipbandit	700281142201679872	2016-02-18T11:30:09	GabrielOMX close to ;-) yes, PT and SL based on current volatility
+pipbandit	700280020061855744	2016-02-18T11:25:42	should I call it a day - NO. But well done algo :)) systematictrading 
+pipbandit	700275885576949760	2016-02-18T11:09:16	when algos suck ;-) systematictrading 
+pipbandit	699954699164913664	2016-02-17T13:52:59	AAIIBULL have fallen below 20 again. Whenever this has happened since 1987 SPX was higher 3 months later by 6% with a hit ratio of 71.5%
+pipbandit	699901608918962176	2016-02-17T10:22:01	from idea to tradeable system - kiwi from yesterday systematictrading 
+pipbandit	699612547977244672	2016-02-16T15:13:24	Kkta90 long leider, gell....
+pipbandit	699611349085773824	2016-02-16T15:08:38	CL down 8% since this mornings high around 31.50ish
+pipbandit	699608848877887489	2016-02-16T14:58:42	20-day correl CL_F MXN -0.80 
+pipbandit	699604472385904640	2016-02-16T14:41:18	half the trades  - almost exact same profit --&gt; profitability / trade has risen ;-) 
+pipbandit	699587858672312322	2016-02-16T13:35:17	Kkta90 doch doch.... profit / trade mues no ufe weg slippage etc.
+pipbandit	699586652084310016	2016-02-16T13:30:30	baseline idea for a new model trading kiwi. now it's time to add some filters to improve profit/trade 
+pipbandit	699585858438094848	2016-02-16T13:27:20	tp hit on cable - 5 out of 6 today! systematictrading
+pipbandit	699584048012910596	2016-02-16T13:20:09	zammofx just turned 19 :P
+pipbandit	699583917205143553	2016-02-16T13:19:38	zammofx we need to whatsapp m8! ok?
+pipbandit	699583816646664192	2016-02-16T13:19:14	zammofx slowly but surely.... but not that easy once you are my age :P
+pipbandit	699582939244404737	2016-02-16T13:15:44	kiwi long  - natural flow... amazing 
+pipbandit	699580447332962304	2016-02-16T13:05:50	algo shorts cable. let's see... today 4 out of 5 so far ;-) systematictrading
+pipbandit	699564574903656452	2016-02-16T12:02:46	not bad for trading once a week 
+pipbandit	699543507078402048	2016-02-16T10:39:03	PRO_FITS or combine both worlds :)
+pipbandit	699543390157938688	2016-02-16T10:38:35	PRO_FITS try the systematic way - takes out guessing and emotions ;-)
+pipbandit	699542993758527489	2016-02-16T10:37:01	PRO_FITS nice!
+pipbandit	699541530982400000	2016-02-16T10:31:12	PRO_FITS anytime m8, do you trade discretionary or systematic?
+pipbandit	699540890013069312	2016-02-16T10:28:39	PRO_FITS breakouts, time and volume delta
+pipbandit	699537737658015744	2016-02-16T10:16:08	PRO_FITS thanks mate! just an example where algos can really suck. tp on eurjpy is 121.197 low so far 121.208 on my broker so far!
+pipbandit	699536797618012160	2016-02-16T10:12:23	PRO_FITS haha... or maybe true luck :P
+pipbandit	699536501340774400	2016-02-16T10:11:13	PRO_FITS FDAX tp done :)
+pipbandit	699535822496858112	2016-02-16T10:08:31	PRO_FITS just look at CL_F tells all the story currently. dunno wha algos will do... but currently close to take profits lvls :))
+pipbandit	699534949620322304	2016-02-16T10:05:03	PRO_FITS algos short NIK, F_DAX and EURJPY ... looks like risk-off m8 :)
+pipbandit	699529796083175425	2016-02-16T09:44:34	took out a filter i've added... lol XAU 
+pipbandit	699528586827603968	2016-02-16T09:39:46	do you got the balls to buy and hold XAU over the weekend? it might be worth guys! 2009 - today 
+pipbandit	699521939757465600	2016-02-16T09:13:21	algo likes short NIKKEI :)
+pipbandit	699519308335095808	2016-02-16T09:02:54	these days u gotta be happy with 6pips in EUR. open ranges are so damn tight. systematictrading
+pipbandit	699518445491220480	2016-02-16T08:59:28	Kkta90 ich mich au!
+pipbandit	699518216738095104	2016-02-16T08:58:33	Kkta90 also, ich schrieb dir e DM sobald ich fertig bin.ok?
+pipbandit	699516530862788608	2016-02-16T08:51:52	Kkta90 bi am dunnstig morge in zh. han es meeting bis ca. 9.30. hesch ziit für en kafi denn?
+pipbandit	699509090876268544	2016-02-16T08:22:18	Kkta90 schüss los!
+pipbandit	699500923756933120	2016-02-16T07:49:50	Kkta90 ja, goht so... bruchsch halt chli länger i mim alter :P
+pipbandit	699500093267951616	2016-02-16T07:46:32	Kkta90 cool, trendfollowing?breakout?
+pipbandit	699499486704492544	2016-02-16T07:44:08	Kkta90 Hoi Kristian, new 4h-model?
+pipbandit	692716314423660545	2016-01-28T14:30:14	Trader_Dante dear market, please let me see this miracle happen :P
+pipbandit	692715479576776704	2016-01-28T14:26:55	spz_trader good timing m8, algo just sold longs
+pipbandit	692713288384286720	2016-01-28T14:18:12	ECantoni as long as order flow is positive my algo can't :P
+pipbandit	692693893574479872	2016-01-28T13:01:08	FXMasterCourse ragsforex both
+pipbandit	692689356444811264	2016-01-28T12:43:06	FXMasterCourse ragsforex hey Corvin, do u still trade manually as well?
+pipbandit	692675333716328453	2016-01-28T11:47:23	FXMasterCourse hehe.... nice one for trading systematically m8!
+pipbandit	692622179322716161	2016-01-28T08:16:10	Watch 1.5350 in EURAUD 
+pipbandit	692610162469765120	2016-01-28T07:28:25	Hubon Kkta90 lol
+pipbandit	692608359913144321	2016-01-28T07:21:15	Hubon Kkta90 Merci gliichfalls! Gseh de Edu am 10i ;-)
+pipbandit	692605230261891072	2016-01-28T07:08:49	Welcome to the real world of trading m8 :)) 
+pipbandit	692296773826711553	2016-01-27T10:43:07	Swiss 10yr swap - u dont get that many chances to get a 10yr mortgage for only the banks premium/markup 
+pipbandit	692293750874333184	2016-01-27T10:31:07	TRY weekly - looks like a double top 
+pipbandit	692277089479835648	2016-01-27T09:24:54	PrometheusAM nono m8, I actually think we could backtest the 'breakout' before heading higher again ;-)
+pipbandit	692274539565322240	2016-01-27T09:14:46	EURCHF - are we going to backtest 1.0970ish to target 1.1170 later? 
+pipbandit	691961558302326784	2016-01-26T12:31:06	FXMasterCourse no, not yet as I trade the Bund breakout separately. But actually a very good point. thanks Corvin!
+pipbandit	690602907507539968	2016-01-22T18:32:18	Kkta90 enjoy m8!
+pipbandit	690601103214428160	2016-01-22T18:25:08	Kkta90 lol, viel spass bim ufefahre...;)  und en ganz schöne tag
+pipbandit	690597854755340288	2016-01-22T18:12:13	Kkta90 wo ane gosch?
+pipbandit	690596390699978752	2016-01-22T18:06:24	nice weekend all! Swissbeer delicious ;) 
+pipbandit	690545793011470336	2016-01-22T14:45:21	ARichartz __mf__fx as I am fully automated, I dont have stress at all ;-) time for proper research and anything else :)
+pipbandit	690543348327776256	2016-01-22T14:35:38	ARichartz __mf__fx this was developed in investox. a small german software co. use it for quick dev. trading only with multicharts
+pipbandit	690541998508527616	2016-01-22T14:30:16	ARichartz __mf__fx algo, contract size depends on client and leverage
+pipbandit	690537059384201217	2016-01-22T14:10:39	Developing on request - daily strategy trading AUD and NZD only - work in progress 
+pipbandit	690514723364823040	2016-01-22T12:41:53	loving volatility - show balls and trade RUB ;-) 
+pipbandit	690514567206735872	2016-01-22T12:41:16	ECantoni hehe... algos on it :P
+pipbandit	690488980136132608	2016-01-22T10:59:36	__mf__fx :) ich noed, für das han i mini algos :P
+pipbandit	690488430418116609	2016-01-22T10:57:25	__mf__fx seckel
+pipbandit	690488009578385408	2016-01-22T10:55:44	I am looking at this (left) - instead of this today (right)... hmm... :( 
+pipbandit	690455111223623680	2016-01-22T08:45:01	In case u run some algos and have time to watch :) 
+pipbandit	690167792767754241	2016-01-21T13:43:19	back from a meeting - LOL 
+pipbandit	690145398313369600	2016-01-21T12:14:19	Cable trading on levels last seen March 09
+pipbandit	689865426591989761	2016-01-20T17:41:49	N8rB3rt or the Swiss version of Dschungelcamp 😂 
+pipbandit	689862899968380928	2016-01-20T17:31:47	fun in the kitchen with the kids 😜 
+pipbandit	689761741509537792	2016-01-20T10:49:48	dsquareddigest LadyFOHF or some kind of de-regulated again ;)
+pipbandit	689756762098905088	2016-01-20T10:30:01	dsquareddigest LadyFOHF how u mean?
+pipbandit	689733153427103744	2016-01-20T08:56:13	hmm... UST 30yr 
+pipbandit	689732727076061185	2016-01-20T08:54:31	dont forget to look at UST 10yr - 1.97
+pipbandit	689728033389871108	2016-01-20T08:35:52	JPM EM CCY Index 
+pipbandit	689727634150858752	2016-01-20T08:34:17	is today the day when RUB hits 80?
+pipbandit	689727349143707648	2016-01-20T08:33:09	Fasten your seatbelt if JPY breaks 116/115.50 
+pipbandit	689726820275609600	2016-01-20T08:31:03	lmtdown PrometheusAM LONGCONVEXITY LadyFOHF yes, or analyzing the flow of the 'good ones' just run with them
+pipbandit	689723804235366400	2016-01-20T08:19:04	HYG for ppl with balls. lower low with lower volume 
+pipbandit	689721066386632704	2016-01-20T08:08:11	PrometheusAM LONGCONVEXITY LadyFOHF one of the reasons i have recently change most of my trading to a co. which works like an exchange
+pipbandit	689720663909621761	2016-01-20T08:06:35	PrometheusAM LONGCONVEXITY LadyFOHF there is NOT only BARX doing this. I have seen increases of hold times from 30ms to 240ms regularly
+pipbandit	689720550818590720	2016-01-20T08:06:08	PrometheusAM LONGCONVEXITY LadyFOHF as you know I trade with various big players fully automated. I check their hold time regularly.
+pipbandit	689719479580798977	2016-01-20T08:01:52	and once again the EUR tries 1.0950
+pipbandit	689717758515261440	2016-01-20T07:55:02	LONGCONVEXITY LadyFOHF which brings us back to the reg issue ;)
+pipbandit	689717238371221505	2016-01-20T07:52:58	PrometheusAM LONGCONVEXITY LadyFOHF absolutely, a friend of mine (Credit Trader) can tell you a story bout this
+pipbandit	689716214751330304	2016-01-20T07:48:54	LONGCONVEXITY LadyFOHF slippage on execution is getting worse and worse...
+pipbandit	689716123248365568	2016-01-20T07:48:32	LONGCONVEXITY LadyFOHF couldn't agree more. I see the same in my little world of FX. Although spreads shown seem to be very attractive
+pipbandit	689713185603981312	2016-01-20T07:36:52	Baja California - I am ready to spent my purchasing power :) CHFMXN 
+pipbandit	689712351499591680	2016-01-20T07:33:33	EU 10yr swap - last chance for rebound 
+pipbandit	689711238759120896	2016-01-20T07:29:08	nice to have a little friend taking the trades while you are sleeping CL_F 
+pipbandit	689709803443105792	2016-01-20T07:23:25	Break_Retrace3 we will!
+pipbandit	689709698308648960	2016-01-20T07:23:00	LadyFOHF it is :( I recently talked to UBS and some other big names in LDN. all bitching about bad liquidity
+pipbandit	689709021465423872	2016-01-20T07:20:19	LadyFOHF I hear the same from some big players in the market!
+pipbandit	689708833812316160	2016-01-20T07:19:34	Break_Retrace3 I think it would make sense we meet some time :)
+pipbandit	689708729168564224	2016-01-20T07:19:09	mnycx NorthmanTrader another reason why it sucks to trade fundamentals!
+pipbandit	689708243476590592	2016-01-20T07:17:14	Break_Retrace3 Howard, are they all live yet? since when? or did you just develop them
+pipbandit	689706301631238144	2016-01-20T07:09:31	Bund with new all time high this am 
+pipbandit	689705819537969153	2016-01-20T07:07:36	@trader1906 just start... it isn't that complicated as you posess some coding skills. I just started with Python ;-)
+pipbandit	689705305232408577	2016-01-20T07:05:33	@trader1906 haha.... little tip. automate your trading and get some extra time for building tools for discretionary trading ;-)
+pipbandit	689704966508806144	2016-01-20T07:04:12	PrometheusAM danielweston83 AimedCapital I am not married to anything except my wife ;)
+pipbandit	689704309710200832	2016-01-20T07:01:36	YTD performance of some major indices. It looks like Switzerland isn't too bad :P 
+pipbandit	689703622741856256	2016-01-20T06:58:52	@trader1906 thanks m8, how about your progess in systematic? did you start yet?
+pipbandit	689702148469186560	2016-01-20T06:53:00	io8_8ov ok, still in band. thanks m8
+pipbandit	689702065707167744	2016-01-20T06:52:41	explorefx u only need one of these per week and you make a decent living. patience is key as we both know my friend!
+pipbandit	689701789264818176	2016-01-20T06:51:35	isn't HKD pegged? 
+pipbandit	689701475958697984	2016-01-20T06:50:20	
+pipbandit	689701140032712704	2016-01-20T06:49:00	explorefx GM amigo, good luck for today. I saw some tweets about GBP from you. very nice!
+pipbandit	689700981588627456	2016-01-20T06:48:22	bbki2611 i know m8 :)
+pipbandit	689700794287816704	2016-01-20T06:47:38	Thanks mate! 
+pipbandit	689700745944297473	2016-01-20T06:47:26	lrzhou yeah, better to have no overnite risk currently unless you are a LT investor
+pipbandit	689700541312569344	2016-01-20T06:46:37	bbki2611 Hi Stelios, we are soon going to put out a reco on buying NOKCHF. I will send you once the one pager is done!
+pipbandit	689700101887897600	2016-01-20T06:44:52	Good morning Europe 
+pipbandit	689699835054698496	2016-01-20T06:43:49	Hubon Morge Hans, nonig uf em weg? :P
+pipbandit	689464004406706177	2016-01-19T15:06:42	zungybungy lol
+pipbandit	689462643338252288	2016-01-19T15:01:18	zungybungy longer-term I see a bottom 29 - 26
+pipbandit	689462526589870081	2016-01-19T15:00:50	stopped FDAX - algo crushed his balls ;-)
+pipbandit	689461252041510912	2016-01-19T14:55:46	zungybungy this 31 can be pulled quite fast ;-)
+pipbandit	689460631833960448	2016-01-19T14:53:18	MattBrookes3 let's see. no algo is correct 100% of the time ;)
+pipbandit	689460125287907328	2016-01-19T14:51:18	algo short the low of the day in FDAX... algos have big balls :))
+pipbandit	689458981497008128	2016-01-19T14:46:45	CL_F &lt; 30 again
+pipbandit	689431056898887681	2016-01-19T12:55:47	Break_Retrace3 great!
+pipbandit	689429292690763779	2016-01-19T12:48:47	Break_Retrace3 well done! looks great!
+pipbandit	689425190665650176	2016-01-19T12:32:29	Break_Retrace3 thanks. Can you do the same with 2?
+pipbandit	689424521204396032	2016-01-19T12:29:49	Break_Retrace3 did you include it or not? spread is always important as is size and liquidity m8!
+pipbandit	689423888355176448	2016-01-19T12:27:18	Break_Retrace3 looks awesome! spread?
+pipbandit	689102838425845760	2016-01-18T15:11:34	Hubon merci, I will tell you ;-)
+pipbandit	689101721663070208	2016-01-18T15:07:07	Hubon chasch mer en link schicke/poste
+pipbandit	689101582768680960	2016-01-18T15:06:34	Hubon u better dont tell the guys you meet on thursday :P
+pipbandit	689101122091532288	2016-01-18T15:04:45	N8rB3rt msgbi TeraEuro Sehr gut möglich. Sehe das Potenzial aber begrenzt. aber klar, von 30 auf 45 sind 50% :))
+pipbandit	689100734672035840	2016-01-18T15:03:12	Hubon Korea de einti de ander Thai
+pipbandit	689100254873042944	2016-01-18T15:01:18	N8rB3rt msgbi TeraEuro das stimmt. wir scheinen eher am unteren ende des trends zu sein.
+pipbandit	689097039389560836	2016-01-18T14:48:31	msgbi N8rB3rt TeraEuro Glencore sieht aber schitter aus ... Put auf Glencore? Bankcruptcy? 
+pipbandit	689095777797427201	2016-01-18T14:43:30	Hubon oder de da! 
+pipbandit	689095697170350087	2016-01-18T14:43:11	msgbi N8rB3rt TeraEuro wüsste nicht wie man das 'spielen' kann.
+pipbandit	689095042175225856	2016-01-18T14:40:35	Hubon Hans, lueg mol 068270 Korea a!
+pipbandit	689087334327959552	2016-01-18T14:09:57	Kaiser0506 lol :) as long as they pay me for coding ;-)
+pipbandit	689076808801718272	2016-01-18T13:28:08	Working on a new FX Hedging Model for a EUR denominated fund 
+pipbandit	689022081665732608	2016-01-18T09:50:40	atoast2trading who knows what they do  - let's just trade our models ;)
+pipbandit	689021327194353664	2016-01-18T09:47:40	atoast2trading lower rates, higher equities... ;-)
+pipbandit	689018625123028992	2016-01-18T09:36:56	atoast2trading what would you think of? top or bottom? ;-)
+pipbandit	689018311145861120	2016-01-18T09:35:41	Just bought this one: Python for Quants  systematictrading
+pipbandit	688990539983761408	2016-01-18T07:45:20	Hubon Morgen Hans, exactly, I see a bounce this week as well ;)
+pipbandit	688976470698491904	2016-01-18T06:49:25	GM World &amp; happy trading this week! Huge resistance for UST 10yr 2.05 - 1.90 
+pipbandit	687997806355869698	2016-01-15T14:00:34	for short-term / intradaytraders: "either you play the game of the algos or you lose" fxadvice systematictrading
+pipbandit	687995065428500480	2016-01-15T13:49:40	bbki2611 sure, my target is 79/80 but let's secure some profits...
+pipbandit	687993685699620864	2016-01-15T13:44:11	EURSTG :P bbki2611 just joking :)
+pipbandit	687977253175713792	2016-01-15T12:38:53	tks  FF InterpreTASteve RaphaInvest craigellan FXTraderPaul piotrkaras diamondsforex BinaryTrading13 FernandeVanakin sugardaddyFED
+pipbandit	687972866055368705	2016-01-15T12:21:27	Dear Mr President, are you visiting Switzerland? 20 Minuten - Black Hawks in Dübendorf – kommt Obama ans WEF? 
+pipbandit	687943831204028420	2016-01-15T10:26:05	Kaiser0506 probably for the vanishing Swiss Banking Secrecy ;)
+pipbandit	687941697137938432	2016-01-15T10:17:36	Swiss Algo Teaching ;-) 
+pipbandit	687941603135221762	2016-01-15T10:17:14	DiegoKuonen SRF cool, eine neue Generation von Algo-Tradern wächst heran ;-)
+pipbandit	687928269853868033	2016-01-15T09:24:15	CL_F is in a support zone down to 27ish. this better holds otherwise we might see low 20ies 
+pipbandit	687925525818556416	2016-01-15T09:13:21	Open Range Breakouts working very nicely last few days across all assets my algos are trading :) systematictrading
+pipbandit	687924496079187968	2016-01-15T09:09:15	MXN &gt; 18
+pipbandit	687924415238127616	2016-01-15T09:08:56	explorefx I agree, cut your losers short and let your winners run ;-)
+pipbandit	687924269095976961	2016-01-15T09:08:21	CL, RUB and MXN 
+pipbandit	687921156633001986	2016-01-15T08:55:59	explorefx yeah, it pays to have patience :)
+pipbandit	687920074490023936	2016-01-15T08:51:41	MXN close to my target ;-) 
+pipbandit	687897972068192256	2016-01-15T07:23:51	Hubon Morge Hans and good luck today
+pipbandit	687650736709218304	2016-01-14T15:01:26	EUR is tracing out a potential cup and handle formation on the 4h chart. Watch a break of 1.0950 for 1.1150ish 
+pipbandit	687356539645095937	2016-01-13T19:32:24	Kkta90 amigo, isch das long only?
+pipbandit	687293741200191492	2016-01-13T15:22:51	Xtremtfokus1 no, my own one ;-) I still use fixed time but anything else is fully adptable to volatility. from pos sizing to stops, tps etc
+pipbandit	687227797698416640	2016-01-13T11:00:49	hlelowrold not that I know
+pipbandit	687224567115477002	2016-01-13T10:47:59	At least I got a new looking 3D chart :) 
+pipbandit	687223362737803264	2016-01-13T10:43:12	hlelowrold mine :)
+pipbandit	687222816962424832	2016-01-13T10:41:02	hlelowrold lol... or something like this 
+pipbandit	687222055243247616	2016-01-13T10:38:00	8 CPU's working close to 100% to test the robustness of a trading model...hmm.... systematictrading
+pipbandit	687220722612236288	2016-01-13T10:32:42	Hubon ohh je, behörde-scheiss.
+pipbandit	687220545977475072	2016-01-13T10:32:00	Hubon wieso schwierig?
+pipbandit	687220291924307968	2016-01-13T10:31:00	Hubon ohhh, de lunch cha ja heiter werde ;)
+pipbandit	687191645620727810	2016-01-13T08:37:10	PrometheusAM nice one below 10. next support 25% lower
+pipbandit	687190965375885312	2016-01-13T08:34:28	PrometheusAM better view ;-) 
+pipbandit	687176959936323584	2016-01-13T07:38:49	N8rB3rt io8_8ov lol
+pipbandit	687173645286948864	2016-01-13T07:25:38	io8_8ov Asians are sick ;-)
+pipbandit	687164207373107200	2016-01-13T06:48:08	Any question on where is support in EURNZD? 
+pipbandit	687163344613158912	2016-01-13T06:44:42	Hubon gm m8, ja klar, meld di doch über Whatsapp!
+pipbandit	686933317418115072	2016-01-12T15:30:40	bbki2611 u know m8,  i trade the charts and models and i am not married to any position 😊
+pipbandit	686930152111095809	2016-01-12T15:18:05	bbki2611 we just bought eurstg yesterday around 7455ish
+pipbandit	686930070636785665	2016-01-12T15:17:46	bbki2611 good luck ;-)
+pipbandit	686928144398417920	2016-01-12T15:10:06	bbki2611 and Stelios, I talk GBP as a whole not just against one currency ;)
+pipbandit	686927889556750336	2016-01-12T15:09:06	bbki2611 I could agree st but my longer-term model has just started to turn negative on GBP
+pipbandit	686927724708007936	2016-01-12T15:08:26	FXMasterCourse Corvin, use CME fx futures data!
+pipbandit	686927465349013504	2016-01-12T15:07:24	if you believe in a CL_F rebound and further GBP weakness this might be your prefered short GBPNOK bbki2611 
+pipbandit	686919758508351489	2016-01-12T14:36:47	FXMasterCourse that's absolutely true.
+pipbandit	686918683696959488	2016-01-12T14:32:31	FXMasterCourse ahh... yes i did vote m8. just wanted to let you know that i think it is useful  but not on its own ;-)
+pipbandit	686917676460032000	2016-01-12T14:28:31	FXMasterCourse to use tickvolume?
+pipbandit	686917192689016833	2016-01-12T14:26:35	FXMasterCourse lol :)   works but not as a standalone information
+pipbandit	686916545667297280	2016-01-12T14:24:01	FXMasterCourse Corvin, where is that poll?
+pipbandit	686915165225414656	2016-01-12T14:18:32	CL_F and CL Vol: Short when OVX breaks above BB and CL trades below 20DMA. Exit if close &gt; 20DMA or after 2 weeks 
+pipbandit	686886135990194176	2016-01-12T12:23:11	just upgraded my dev computer with 4x 8GB RAM. According to MS this equals to 36GB *lol* 
+pipbandit	686812298871201792	2016-01-12T07:29:47	Hubon doch, das cha mer vorstelle.
+pipbandit	686811429777833984	2016-01-12T07:26:19	
+pipbandit	686805665063538688	2016-01-12T07:03:25	Hubon Danke Hans, du au. wege morn alles palletti? du seisch wo ane. ich kenn mich in ZH ja noed so guet us ;-)
+pipbandit	686805480824549376	2016-01-12T07:02:41	GM world,continued strength in JPY. My JPY-Index (4h) since early 2016 
+pipbandit	686546323093499904	2016-01-11T13:52:53	This 2.10 better hold... UST 10yr 
+pipbandit	686537752763068416	2016-01-11T13:18:50	stats: 
+pipbandit	686537557224587264	2016-01-11T13:18:03	ES_F loses more than 4% in 5 days and has 3 down days in a row. Buy and hold for n-days. 
+pipbandit	686480249375318016	2016-01-11T09:30:20	majewski_km lol :)
+pipbandit	686477109938774016	2016-01-11T09:17:51	majewski_km macht mir angst! ;-)
+pipbandit	686473505521692672	2016-01-11T09:03:32	thetailchaser I use different ones but mostly Mutlicharts for st algos and Investox for quick development or daily trades
+pipbandit	686471769411158016	2016-01-11T08:56:38	msgbi EllieAsksWhy oditorium N8rB3rt thanks for the link... starting to follow their 'quantletter'
+pipbandit	686471173987786752	2016-01-11T08:54:16	msgbi EllieAsksWhy oditorium N8rB3rt on the site and checking out...
+pipbandit	686470475405471744	2016-01-11T08:51:29	looks like this damn little algo was spot on :)) 
+pipbandit	686468877702795264	2016-01-11T08:45:09	Kkta90 idee sammle ;-)
+pipbandit	686468047369056256	2016-01-11T08:41:51	Kkta90 Konzentrier dich uf dich :)
+pipbandit	686467982298578945	2016-01-11T08:41:35	Kkta90 Hoi, ja kenn i... halt aber noed viel vo dem!
+pipbandit	686467290313928704	2016-01-11T08:38:50	Still no buy signal from my new A/D-Model ES_F 
+pipbandit	686452591627243521	2016-01-11T07:40:26	algo shorts XAU in this risk-off environment. What does he know I don't? ;-)
+pipbandit	686446093337542656	2016-01-11T07:14:36	if 116/115.50 goes in JPY you better fasten your seatbelt 
+pipbandit	686444073419407361	2016-01-11T07:06:35	@inflatemeNOT oder mit dem netten Nachbarn aus der Schweiz :)
+pipbandit	686443974127693824	2016-01-11T07:06:11	@inflatemeNOT yeah, heard some really ugly stories about that
+pipbandit	686443694099197952	2016-01-11T07:05:04	@inflatemeNOT sprichst du auch Deutsch? ;)
+pipbandit	686443555754250240	2016-01-11T07:04:31	@inflatemeNOT lol, u only need to pick the right side of the trade :P
+pipbandit	686441767848284160	2016-01-11T06:57:25	Hubon Morge Hans... &amp; gl die wuche
+pipbandit	686441370437980160	2016-01-11T06:55:50	Maniac Monday for ZAR 
+pipbandit	686109583648145410	2016-01-10T08:57:26	msgbi danke dir und schönen sonntag
+pipbandit	685785291437797376	2016-01-09T11:28:49	msgbi schulte_stef danke
+pipbandit	685734374101352448	2016-01-09T08:06:29	majewski_km danke!
+pipbandit	685722826616246273	2016-01-09T07:20:36	welcome to winter with 3 kids ;) 
+pipbandit	685481040471846912	2016-01-08T15:19:50	Hubon Kkta90 __mf__fx LOL
+pipbandit	685480822158286848	2016-01-08T15:18:58	To all Swiss: consider some holidays in SouthAfrica :) cc: Hubon Kkta90 __mf__fx 
+pipbandit	685479133204365312	2016-01-08T15:12:15	Well, there is some more room to go EURZAR 
+pipbandit	685478326731935745	2016-01-08T15:09:03	NZDJPY loses 6% since Monday 
+pipbandit	685475378278854656	2016-01-08T14:57:20	LongFangFX was just about to post this chart ;-) 
+pipbandit	685474788391960576	2016-01-08T14:54:59	is this a BIG top for GBPCHF? looks like to me... 
+pipbandit	685466863401308160	2016-01-08T14:23:30	msgbi schulte_stef TeraEuro oditorium funktioniert leider nicht :(
+pipbandit	685435919537704960	2016-01-08T12:20:32	Hubon freu mi, bis bald :)
+pipbandit	685435049265754112	2016-01-08T12:17:05	Hubon bueched. wenn wo mache mer no ab :)
+pipbandit	685434508427005952	2016-01-08T12:14:56	Hubon Zurich
+pipbandit	685434339019079680	2016-01-08T12:14:15	Hubon Hans, nöchst Mittwuch Lunch? Ich lad i ;-)
+pipbandit	685363273156456448	2016-01-08T07:31:52	Trader_Dante or name it "high conviction" like CS sends out his calls to clients!
+pipbandit	685362669604466692	2016-01-08T07:29:28	If stocks wanna bounce they better do now. Otherwise we gonna re-visit last year's lows. INDU 
+pipbandit	685349527587520512	2016-01-08T06:37:15	Schweizerische Nationalbank machte 2015 23 Milliarden Verlust (SNB) 
+pipbandit	685165394559168513	2016-01-07T18:25:34	majewski_km 20min ja,  das wollte ich dir auch noch schicken...  :(
+pipbandit	685115004614500352	2016-01-07T15:05:20	Hubon already out - time exit. minor loss
+pipbandit	685114009096425473	2016-01-07T15:01:23	DANISH CENTRAL BANK RAISES DEPOSIT RATE TO -0.65% FROM -0.75%
+pipbandit	685113535240732672	2016-01-07T14:59:30	MattBrookes3 @jonathanpmprice I didnt understand it that way! Just saying if I get stopped. it's ok. No algo is correct 100% of the time ;)
+pipbandit	685113373583867904	2016-01-07T14:58:51	majewski_km absolut. richtige deppen manchmal!
+pipbandit	685112908783681536	2016-01-07T14:57:00	MattBrookes3 @jonathanpmprice let's see. the algo just plays probabilities and a certain setup. It executed completely in line with coding
+pipbandit	685112535213801473	2016-01-07T14:55:31	majewski_km ich hab ne Tochter, ich  denke ich würde da als Vater 'Amok' laufen!
+pipbandit	685112272696537088	2016-01-07T14:54:29	majewski_km rolandtichy bin gespannt wann's bei uns soweit ist... :(
+pipbandit	685111850581753856	2016-01-07T14:52:48	RolandTichy majewski_km krass was da bei euch abgeht :(
+pipbandit	685111643358015489	2016-01-07T14:51:59	@jonathanpmprice above early morning high, going for the gap close or whatever he thinks :P
+pipbandit	685110671915249664	2016-01-07T14:48:07	Hubon you know m8, i could b out in a matter of seconds.. ;-)
+pipbandit	685110468051103744	2016-01-07T14:47:18	is my algo goin nuts? buying FDAX????
+pipbandit	685108497269182464	2016-01-07T14:39:29	just in case you are a global equity portfolio manager. Have a look at Korean HC stocks! 
+pipbandit	685082540592480258	2016-01-07T12:56:20	Kkta90 nei nonig. sorry. bi chli im seich...
+pipbandit	685080925328248832	2016-01-07T12:49:55	Kkta90 this guy is learning fast :) well done!
+pipbandit	685080812895760384	2016-01-07T12:49:28	Kkta90 geil ;-)
+pipbandit	685080584314597376	2016-01-07T12:48:34	__mf__fx Hubon du bisch no jung, dir stoht d'welt no offe :))
+pipbandit	685080520078835712	2016-01-07T12:48:18	Hubon __mf__fx au ja, gern! Han öppis schö's zämägstellt ;-)
+pipbandit	685079230846242816	2016-01-07T12:43:11	Hubon __mf__fx Hans, wenn mache mer mol ab. Han no öppis interessant's für dich :)
+pipbandit	685079029435731969	2016-01-07T12:42:23	Hubon __mf__fx de chunnt. aber erscht chli spöter :)
+pipbandit	685078782743547904	2016-01-07T12:41:24	__mf__fx Hubon jungs, fokus, noed dumm schnurre :P
+pipbandit	685034148562628609	2016-01-07T09:44:02	Hubon nei, isch saukomisch... JPY viel stärcher!
+pipbandit	685033994950410240	2016-01-07T09:43:26	mnycx maybe gamma related - options guys. has been the case late yesterday
+pipbandit	685033011990114305	2016-01-07T09:39:32	Hubon yeah, just an idea.
+pipbandit	685032238623375360	2016-01-07T09:36:27	Shoulder Head Shoulder on the Swiss 10yr swap? Hubon 
+pipbandit	684742887599390721	2016-01-06T14:26:40	watch out for more potential upside in XAU 
+pipbandit	684729994388570112	2016-01-06T13:35:26	The importance of 1 for the EUR 10yr swap 
+pipbandit	684678393850413056	2016-01-06T10:10:24	JohanHakon Hi Johan, happy new year :) what kind of software you used for this?
+pipbandit	684675665526976512	2016-01-06T09:59:33	mkt chatter CNH agent bank smoothing..,. CNH dropped more than 300 pips quickly
+pipbandit	684673711669141504	2016-01-06T09:51:48	The US is going to hike? how many times? 
+pipbandit	684673534547869698	2016-01-06T09:51:05	Systematic_FX thank you - open range kickin in :)
+pipbandit	684669980424691712	2016-01-06T09:36:58	XAUEUR on track for the avg Jan gain 
+pipbandit	684667133553426432	2016-01-06T09:25:39	twins on the move CL_F and RUB 
+pipbandit	684664406341496832	2016-01-06T09:14:49	advdesk looks almost like home ;-)
+pipbandit	684659628001607680	2016-01-06T08:55:50	still like this one XAUEUR 
+pipbandit	684658962214612992	2016-01-06T08:53:11	XAU on the move 
+pipbandit	684645172047659008	2016-01-06T07:58:23	The spread between CNY and CNH has never been this wide! Capital outflows? 
+pipbandit	684643194349457408	2016-01-06T07:50:32	MrPeterTep yeah :)
+pipbandit	684640527514513408	2016-01-06T07:39:56	Posted a few month's back and still looking for 1.60ish long-term CAD 
+pipbandit	684630109119184896	2016-01-06T06:58:32	CNH continues to devalue 
+pipbandit	684628819735609344	2016-01-06T06:53:25	Kkta90 Morge Kristian, bi Nik han i 6ticks und de nasdaq trade ich noed
+pipbandit	684027892863516672	2016-01-04T15:05:32	fxmacro 2nd jan 1980 -2% 3rd jan 1983 -1.63% 2nd jan 2001 -2.8%
+pipbandit	684024596757114881	2016-01-04T14:52:27	QuantEdges  Since 1960 only 8x first trading day&lt;-1%. Rest of January the market gained 3.6% on average in 75% of the time.
+pipbandit	684020930704728069	2016-01-04T14:37:53	GBPJPY - I guess we hold this time BUT i might be wrong... 
+pipbandit	684004301937754112	2016-01-04T13:31:48	
+pipbandit	684003171950280704	2016-01-04T13:27:19	PrometheusAM lool
+pipbandit	684002786963492865	2016-01-04T13:25:47	PrometheusAM tststs..... :P
+pipbandit	683988690062938112	2016-01-04T12:29:46	SPX avg monthly %-gain all years vs election years since 1960 
+pipbandit	683982820893691904	2016-01-04T12:06:26	VonAnka_se thank u very much. same to you and your family! no not yet, too less snow :(
+pipbandit	683981640071266304	2016-01-04T12:01:45	VonAnka_se hey m8, HAPPY NEW YEAR!
+pipbandit	683979493229346817	2016-01-04T11:53:13	Kkta90 anyway, good to see if algo does what is supposed to ;-)
+pipbandit	683979136717594624	2016-01-04T11:51:48	Kkta90 good luck amigo ;-)
+pipbandit	683976691190992896	2016-01-04T11:42:05	JPM EM CCY Index 
+pipbandit	683959580825640961	2016-01-04T10:34:06	Hubon Lang isch es her ;-) 
+pipbandit	683957962663133184	2016-01-04T10:27:40	SPX ends year nearly flat (+/-3%). What happens next year?  Only 6 observations is too less but interesting anyway 
+pipbandit	683924523943653376	2016-01-04T08:14:47	Asian Currencies having a hard time as well 
+pipbandit	683923979250364416	2016-01-04T08:12:38	EURNOK - that looks like a proper breakout after a long consolidation just below resistance! 
+pipbandit	683923252515860480	2016-01-04T08:09:44	JPY the biggest gainer and NZD the biggest loser so far 
+pipbandit	683918723703517185	2016-01-04T07:51:44	JPY the trend from 2012 seems to be history for now. Approaching imp. supp. 118.30ish 
+pipbandit	683918186526445568	2016-01-04T07:49:36	N8rB3rt Ch2Christo Hubon io8_8ov alex13wetter thanks m8 and same to all of you guys!
+pipbandit	683892347655053312	2016-01-04T06:06:56	timdayipper io8_8ov Hubon LOL crazy 😂
+pipbandit	682840272225570816	2016-01-01T08:26:22	zungybungy Kkta90   🍸🍸🍸🍸🍸🍸 Happy New Year
+pipbandit	682720470203019268	2016-01-01T00:30:19	Kkta90 danke amigo. it's my pleasure! all the best for 2016!
+pipbandit	682481792927043584	2015-12-31T08:41:53	AsennaWealth awesome! all the best for you guys in 2016!
+pipbandit	682245175486365696	2015-12-30T17:01:39	bbki2611 same to you Stelios
+pipbandit	682240359410352128	2015-12-30T16:42:31	bbki2611 AbiolaHP let's see...   just follow price. HAPPY NEW YEAR guys!
+pipbandit	682234047368687616	2015-12-30T16:17:26	AbiolaHP i have no clue m8. i just look at technicals!
+pipbandit	682233937981239298	2015-12-30T16:17:00	AbiolaHP bbki2611 do u think the market cares about new wells?
+pipbandit	682230906116005888	2015-12-30T16:04:57	bbki2611 AbiolaHP Hi Stelios, i can't share that view. think we range around 40 - 50.
+pipbandit	682206037185662976	2015-12-30T14:26:08	Trading_Tech thank you!
+pipbandit	682205957556801536	2015-12-30T14:25:49	Hubon Danke Hans, dir au! und alles alles Gueti fürs 2016! ich hoffe mir gsehnd ues bald mol wieder!
+pipbandit	682179543021432832	2015-12-30T12:40:51	Trading_Tech looks great. i might give it a try. How about an API for automated trading?
+pipbandit	682168065950269440	2015-12-30T11:55:15	Trading_Tech guys, is this app available for Android? for anybody?
+pipbandit	682167343733051392	2015-12-30T11:52:23	VonAnka_se Xtremtfokus1 sure, let's share ideas !
+pipbandit	682164878874836993	2015-12-30T11:42:35	Xtremtfokus1 great idea :) do u follow VonAnka_se ? I think he is Swedish as well and does systematic trading as well.
+pipbandit	682163782248865792	2015-12-30T11:38:14	TeycirTrades thanks m8, appreciated!
+pipbandit	682163538723377153	2015-12-30T11:37:16	Xtremtfokus1 bummer. i would really like to read your stuff. yes, MC ;-)
+pipbandit	682163327816974336	2015-12-30T11:36:25	TeycirTrades nope, I still use the regular version. it's powerlanguage which is almost equal to Tradestation easylanguage
+pipbandit	682162289336713216	2015-12-30T11:32:18	TeycirTrades multicharts 
+pipbandit	682160944600879104	2015-12-30T11:26:57	from left to right with one simple filter and improving stop losses and take profits systematictrading 
+pipbandit	682159137032019968	2015-12-30T11:19:46	Xtremtfokus1 m8, is your website available in English as well?
+pipbandit	682147648841728001	2015-12-30T10:34:07	*RIKSBANK'S INGVES SAYS READY TO INTERVENE IN EXCHANGE MARKET well done on the 30th of Dec ! 
+pipbandit	682141357960384512	2015-12-30T10:09:07	hard core strategy backtesting. Still making money while you quadruple the spread! systematictrading 
+pipbandit	682127317410263041	2015-12-30T09:13:20	Hubon ahh jo, stimmt! merci für reminder!

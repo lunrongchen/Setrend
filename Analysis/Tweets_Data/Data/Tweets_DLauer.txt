@@ -1,0 +1,600 @@
+DLauer	726211410104037376	2016-04-30T00:47:47	adhonore R1ck_L4n3 EScottMullins Alexa short 5 ES contracts. No not 50! OH SHIT!
+DLauer	726211187596210176	2016-04-30T00:46:54	Weird - ecobee followed me on the day I learned about them and started researching if I want to buy one.
+DLauer	726151512284618753	2016-04-29T20:49:46	JPMORGAN SAYS BEING INVESTIGATED BY DOJ CRIMINAL &amp; SEC
+DLauer	726153145190105088	2016-04-29T20:56:15	adhonore ok this is pretty cool. I feel like I'm in Star Trek.
+DLauer	726130869841354752	2016-04-29T19:27:44	Wow - this quote could not be more perfect for the apparent Trump v Clinton election that's coming. 
+DLauer	726069101689450496	2016-04-29T15:22:18	adhonore Do you use spotify or amazon music? What smart home stuff do you find worthwhile?
+DLauer	726065527056138240	2016-04-29T15:08:05	On May 02, ExchangeChat on how we put needs of investors, capital-raising companies, 1st. Join JoacimWiklander! 
+DLauer	726051322089316352	2016-04-29T14:11:39	adhonore Mine's coming today - what's your favorite thing it does?
+DLauer	725467922408169472	2016-04-27T23:33:25	SEC Proposes Design of New Audit System to Better Catch Market Manipulation:  CAT davidamichaels
+DLauer	726027963075039232	2016-04-29T12:38:50	HEY BLOOMBERG STOP SNITCHING
+DLauer	725127081831632897	2016-04-27T00:59:03	msttrader I couldn't help myself. This is what being such on a tarmac for 2 hours will do to someone.
+DLauer	725126453931696128	2016-04-27T00:56:33	WHY WOULD ANYONE EVER CLICK ON THIS LINK??? 
+DLauer	725028503675133952	2016-04-26T18:27:20	SIP Latency issues have never been about avg perf (even though it's bad), it's about tails. V diff from prop feeds. 
+DLauer	725028091710550016	2016-04-26T18:25:42	Great to see the new reporting detail, makes it obvious how bad SIP infrastructure is. Almost 10ms in 99th %! 
+DLauer	725024335967207425	2016-04-26T18:10:46	There Will Always Be A Difference. Cuz The Exchanges Sell That Difference. SIP LATENCY 
+DLauer	725004695975124992	2016-04-26T16:52:44	Rick Ketchum just made a great joke about limiting "dark" NMS executive sessions - says obv exchs must support that idea.
+DLauer	724981274348244993	2016-04-26T15:19:39	Dougielarge He sort-of intimated it. We need to define stds and define the benefits. They should be real and valuable.
+DLauer	724981085545861122	2016-04-26T15:18:54	Internalizers and discount brokers represent active traders. Mutual funds/ETFs are retail.  And as I type this, Cronin makes this pt! EMSAC
+DLauer	724980908516904963	2016-04-26T15:18:12	So much focus on "retail investor" &amp; lie that internalizers &amp; discount brokers cater to them. EMSAC
+DLauer	724977720820662274	2016-04-26T15:05:32	Farley argues that eliminating rebates, imposing MMing obligations and trade-at would make meaningful liquidity diff. Totally agree. EMSAC
+DLauer	724977543305134081	2016-04-26T15:04:50	Farley: "We wld eliminate rebates entirely."  "Real meaningful market maker obligations."  Yes!  I hate when I agree w/NYSE so much. EMSAC
+DLauer	724973823972384768	2016-04-26T14:50:03	Jamil Nazirali from Citadel to SEC  emsac: Could have no rebate instead of zero take fee bucket.
+DLauer	724970194637099008	2016-04-26T14:35:38	Not sure why the response to poorly functioning gov't price controls is to institute more fine-grained gov't price controls.
+DLauer	724970067377709056	2016-04-26T14:35:08	Undoubtedly. So let's study and measure them. Instead, a proper pilot should examine presence of rebates and a trade-at.
+DLauer	724969918878326784	2016-04-26T14:34:32	Stocks trade at different prices, which means access fees vary widely across securities in terms of basis points. Is there mkt qlty diffs?
+DLauer	724969760757284864	2016-04-26T14:33:54	I'd like to repeat this point. Access fee pilot as designed will do very little. Data is already there for this kind of analysis.
+DLauer	724969286155030528	2016-04-26T14:32:01	davidamichaels Sure does, and they are obviously frustrated. But still, I think their points are valid.
+DLauer	724969108018712580	2016-04-26T14:31:19	Shouldn't EMSAC be a majority of independent experts, investor and issuer reps?
+DLauer	724968984546824193	2016-04-26T14:30:49	Farley's done. With all due criticism to NYSE &amp; Nasdaq, I think they made excellent points. Huge probs with EMSAC composition &amp; conflicts.
+DLauer	724968799313776642	2016-04-26T14:30:05	Farley's done. With all due criticism to NYSE and Nasdaq
+DLauer	724968584527659008	2016-04-26T14:29:14	Farley: instead of focusing on how to simplify markets, some EMSAC members have focused on how to increase their own profits.
+DLauer	724968437991264256	2016-04-26T14:28:39	If you're not watching the EMSAC live stream, you're missing out right now. You don't often see such honesty in public forums. EMSAC
+DLauer	724968274212040704	2016-04-26T14:28:00	Farley calling out ATS sub-cmte members for pushing for changes to increase exch costs with no mention of ATS enforcement. EMSAC
+DLauer	724968093395636224	2016-04-26T14:27:17	They're not pulling any punches. Wow. 
+DLauer	724967995873878016	2016-04-26T14:26:54	Farley brings up a good point - so much of the data is already out there. Access fees already v diff in terms of basis points. EMSAC
+DLauer	724967879028920321	2016-04-26T14:26:26	Farley calls access fee pilot "ill conceived" and says it will widen spreads. The data is already there.
+DLauer	724967447984525314	2016-04-26T14:24:43	Farley making case that access fee pilot could incr off-exch trading. W/o trade-at free-riding public quote will worsen. EMSAC
+DLauer	724965448098390018	2016-04-26T14:16:46	Nasdaq appears angry that many EMSAC recommendations targeted at SROs and exch biz models, despite no exch reps on sub-committees.
+DLauer	724964879472447489	2016-04-26T14:14:31	I believe M-T pilot of limited utility as designed. Conflicts will still persist. Far more important to push trading back to exchs. EMSAC
+DLauer	724964651553935362	2016-04-26T14:13:36	Here's the EMSAC live-stream if you're interested. Discussing maker-taker pilot right now. 
+DLauer	724822275556556800	2016-04-26T04:47:51	Strong words from a smart guy.  Worth noodling how and why and how to fix for those of us who expect better. 
+DLauer	723882236890763264	2016-04-23T14:32:29	Using unnecessary complexity to sell things is a primary part of Wall Street's business model. egrefen tyillc MikeSigner mcuban
+DLauer	723581549384470528	2016-04-22T18:37:39	Yesterday, NEOExchange reached 4.3% marketshare in value excluding cross trades! It sure is a HappyFriday! Canada CapitalMarkets
+DLauer	723121696111230976	2016-04-21T12:10:21	Dear NYSE - Read this: BYRD SCAM  
+DLauer	720967584607248384	2016-04-15T13:30:41	DeepSkyMaven In fact, the article is doing exactly what it accuses Bernie of doing - demonizing / ad hom attacks, and ignoring real issues.
+DLauer	720967357288607744	2016-04-15T13:29:47	DeepSkyMaven I just don't like the solutions he's proposed.
+DLauer	720967282999083008	2016-04-15T13:29:29	DeepSkyMaven But the corruption of campaign finance, revolving door and TBTF is a tremendous problem. He's right on that.
+DLauer	720967121895890945	2016-04-15T13:28:51	DeepSkyMaven I think that's over-simplifying Bernie's points. I don't think he's argued that or believes that.
+DLauer	720966833914978308	2016-04-15T13:27:42	DeepSkyMaven And being a capitalist, I prefer to have companies fail, rather than bailed out by tax payers.
+DLauer	720966573142499328	2016-04-15T13:26:40	DeepSkyMaven Exactly why I don't agree with Bernie!! I didn't say I was a fan of an FTT. I just think TBTF is a huge, unresolved issue.
+DLauer	720965938946908160	2016-04-15T13:24:09	DeepSkyMaven They didn't nearly destroy our economy. They haven't become an outsized portion of GDP. Also, oil industry is often attacked.
+DLauer	720964750876794881	2016-04-15T13:19:26	DeepSkyMaven I agree with you that demonizing people in the industry is wrong. But the broader point is hard to argue.
+DLauer	720964669058494464	2016-04-15T13:19:06	DeepSkyMaven I think the public has a right to be angry at any industry that socializes failure but privatizes success.
+DLauer	720964114860875777	2016-04-15T13:16:54	RemcoLenterman I'm sure I'm guilty of the same thing, though I try hard not to.
+DLauer	720963998510903297	2016-04-15T13:16:26	RemcoLenterman I think you don't look at studies that support your premises nearly as critically as those that question it.
+DLauer	720963878151143425	2016-04-15T13:15:58	RemcoLenterman I didn't say (and never have said) anything of the kind. Why would you read it that way?
+DLauer	720962800332500992	2016-04-15T13:11:41	RemcoLenterman You realize your study cites often suffer the same confirmation bias you accuse others of, right?
+DLauer	720962644434399232	2016-04-15T13:11:03	Um "This could be due to the physical characteristics of the UK market. As all the trading venues are within a few miles of each other"
+DLauer	720961928223465473	2016-04-15T13:08:13	Come on! Bernie is not pushing Nazism. This is way too extreme. I'm not a Bernie supporter, but this is unreasonable 
+DLauer	720790081666224128	2016-04-15T01:45:21	advodude Isn't that what this entire election is about?
+DLauer	720767888878137344	2016-04-15T00:17:10	It's unfortunate she's not familiar with the meaning of the word "scientist". Or maybe it's the word "is". 
+DLauer	720347620506472448	2016-04-13T20:27:10	.AlgoTrdr You of all people should know that's a silly question. Clearly to combat the massive resources being deployed to fight them.
+DLauer	720347216074944512	2016-04-13T20:25:34	AlgoTrdr I would assume (based on nothing but my own beliefs) that their public comment letters sum up their arguments.
+DLauer	720346733797122049	2016-04-13T20:23:39	AlgoTrdr lobby so strongly against something they claim doesn't make a meaningful difference.
+DLauer	720346640746471424	2016-04-13T20:23:17	AlgoTrdr Of course, I don't have access to anything non-public. Just seems worth pointing out when coalition of competitors and "analysts"
+DLauer	720346542477942784	2016-04-13T20:22:53	AlgoTrdr You think it's newsworthy that IEX would lobby for approval for their exchange app?
+DLauer	720340191181959168	2016-04-13T19:57:39	Looks like HPS has updated the deck that prominent firms / analysts were using to lobby against IEX. 
+DLauer	720272319369883648	2016-04-13T15:27:57	The Phantom Quotes of the OPRA HFTHorrorMovies
+DLauer	720270522861404160	2016-04-13T15:20:49	I Know What You Did Last Tick HFTHorrorMovies
+DLauer	720270214382907392	2016-04-13T15:19:35	One fully redundant fiber optic ring to rule them all! 
+DLauer	720037376081444864	2016-04-12T23:54:22	Chris_arnade please live tweet this
+DLauer	720017311583891457	2016-04-12T22:34:39	You'd think, being 2016 and all, that Microsoft would've figured out how to send a smiley face instead of a J by now.
+DLauer	719880122619269120	2016-04-12T13:29:30	MarketPlumber healthymkts exactly. Honestly they already do. This is central point of our comment letter.
+DLauer	719878319001329664	2016-04-12T13:22:20	Agreed. That's why healthymkts we said not to do it, or do it right if they insist.  
+DLauer	718651119174594560	2016-04-09T04:05:53	ELON MUSK: We landed a rocket on a floating autonomous platform  CONGRESS: We’re taking a vacation after a long week of doing nothing
+DLauer	718526181046423552	2016-04-08T19:49:25	msttrader I'd have loved to see him
+DLauer	718526153955348480	2016-04-08T19:49:19	msttrader He must've put on an awesome show
+DLauer	718524612452216833	2016-04-08T19:43:11	I just backed Who the F*@% is Frank Zappa (Save the Vault, Tell the Story) on Kickstarter 
+DLauer	718522018820440064	2016-04-08T19:32:53	itsflynn Kickstarter Very cool! So glad you tweeted this!
+DLauer	718089362173460480	2016-04-07T14:53:40	Senate Banking Committee not expected to vote on SEC nominees today after voice vote broke down. Next full committee hearing not scheduled
+DLauer	717834567915188229	2016-04-06T22:01:12	Mini-Options-Too bad things didn't turn out differently  - In 2014 I wrote:  Today I read:: 
+DLauer	717724334077452288	2016-04-06T14:43:10	On SEC's 1ms de minimis interpretation. We don't think it's necessary. But if they insist, they should do it right. 
+DLauer	717723578846806016	2016-04-06T14:40:10	joshua_ulrich well that explains why it showed up while updating scipy. But still.
+DLauer	717721554767974400	2016-04-06T14:32:07	Why does python need this? Why is this still a thing??  libgfortran-3.0
+DLauer	717714494722600960	2016-04-06T14:04:04	We also examined whether it was correlated with volatility &amp; found it was not if you exclude the financial crisis. 
+DLauer	717714300513751040	2016-04-06T14:03:18	We highlighted this concern in a recent issue of Market Structure Insights.  
+DLauer	717454901224144896	2016-04-05T20:52:32	50% of trades on NEOexchange is taking place between naturalinvestors says Jos_Schmitt to bloombergTV ritchiepamela
+DLauer	716033515524079616	2016-04-01T22:44:28	mechmarkets ZakDavid none of this would be necessary without 611/mid pt pegs. But they both exist, so we have responsibility to investors
+DLauer	716031058739871744	2016-04-01T22:34:42	mechmarkets not if our criteria are adopted.
+DLauer	716030917995847681	2016-04-01T22:34:08	mechmarkets if someone gives the exchange responsibility to price the order, the exchange has responsibility to make it as accurate as poss
+DLauer	716028648369872897	2016-04-01T22:25:07	mechmarkets I don't see how. Incoming orders should all equally be subject to speed bump. Exchange pricing mechanism should not.
+DLauer	716005543450644480	2016-04-01T20:53:18	elnunesio as I said in my presentation to the msac, we should get rid of 611 and strengthen best ex disclosures and requirements.
+DLauer	716003387603550209	2016-04-01T20:44:44	elnunesio thanks Adam, nice of you to say.If you read the letter you'd see alpha is an illustration of dangers of no standards w/speed bump
+DLauer	715994733483569153	2016-04-01T20:10:21	Our comment letter regarding the SEC's de minimis interpretation posted:   tldr; unnecessary, poorly designed.
+DLauer	715930255748374529	2016-04-01T15:54:08	stayshus I read your letter a couple of days ago &amp; thought it was very good. Unfortunately I think it's too sophisticated for regulators.
+DLauer	715925679343288320	2016-04-01T15:35:57	I love Google on April Fools. There's really nothing better. Always makes me remember the Toilet ISP. 
+DLauer	715886477503283200	2016-04-01T13:00:11	We believe the implications on market structure are significant, and urge SEC to refine their interpretation. 
+DLauer	715886294149296128	2016-04-01T12:59:27	Just filed healthymkts comment letter on SEC 1ms de minimis interpretation. tldr; not necessary &amp; bad formulation. 
+DLauer	715883137595740160	2016-04-01T12:46:55	_TimCave You're right, I misread it. Thanks!
+DLauer	715859590236217345	2016-04-01T11:13:20	georgepearkes matt_levine while I'm sure it wouldn't apply, I doubt regulators thought of that. Interesting question
+DLauer	715577561816764417	2016-03-31T16:32:40	Immersed in Java SSL hell...
+DLauer	715525697024966657	2016-03-31T13:06:34	This is a great day for Aequitas_NEO and for competition in Canadian markets! 
+DLauer	715521233526333441	2016-03-31T12:48:50	Of course they move pretty slowly at the moment, so maybe "whizzing" is being generous. But the kids are little, so let's go with it.
+DLauer	715521108292866048	2016-03-31T12:48:20	It's amazing that my kids will never know a life in which robots aren't whizzing around the house doing menial tasks.
+DLauer	715512260597252096	2016-03-31T12:13:11	georgepearkes I think even that tweet was funnier.
+DLauer	715512140531154944	2016-03-31T12:12:42	georgepearkes Nothing? Really? Literally nothing?
+DLauer	715236706891509761	2016-03-30T17:58:14	TheFoodLab nerditry To be fair, a normal blender is pretty reasonable for this too. Or an immersion blender.
+DLauer	714975721693777920	2016-03-30T00:41:10	Seriously? Regulators are struggling to make sense of market data, and you want them data mining smart contracts?! 
+DLauer	714877193210437633	2016-03-29T18:09:39	melememe What do you think RossSchulman? Ethereum-based politicians?
+DLauer	714877065238024192	2016-03-29T18:09:08	melememe You're living in a fantasy world, man! What a dream that would be. Maybe we can build blockchain-based smart contract/politicians.
+DLauer	714869052288667648	2016-03-29T17:37:18	MarkCalabria TylerGellasch I'm sure you agree on principles - generally most of us do. I meant policy.
+DLauer	714863611282382849	2016-03-29T17:15:41	TylerGellasch MarkCalabria Seriously, you both realize you couldn't possibly agree with each other on anything related to FinReg right?
+DLauer	714833798849044480	2016-03-29T15:17:13	Yet another illustration of the dangerous incentives in the current SRO structure, and conflicts from for-profits policing their markets.
+DLauer	714833598919143425	2016-03-29T15:16:25	What's amazing is that the CME would get to keep the revenue earned from "allegedly manipulative" trades, the fine &amp; let activity continue!
+DLauer	714833380316151809	2016-03-29T15:15:33	Impossible to know if Oystacher story is true, but considering incentives it's not hard to believe. 
+DLauer	713792863444840449	2016-03-26T18:20:54	opulencephp Can you follow/DM? I have a question about opulence, and one about J Braun.
+DLauer	712698940756529153	2016-03-23T17:54:03	Fair access not fare access
+DLauer	711222452643307520	2016-03-19T16:07:01	Trump effect? 
+DLauer	710175042953486338	2016-03-16T18:44:59	It's true. The republican opposition over the last few years obviously had nothing to do with it. 
+DLauer	710121088068489217	2016-03-16T15:10:35	Endorse 
+DLauer	710066311951306752	2016-03-16T11:32:55	The March edition of the healthymkts Market Structure Insights is out.Sign up here or inquire for a free preview: 
+DLauer	709923300823195652	2016-03-16T02:04:39	Reminder: the Stop Trump forces spent around $15 million in Florida, $5 million in Illinois.
+DLauer	709824344256606208	2016-03-15T19:31:26	Yo, just FYI: If your day job makes you a witness to mkt abuse, confidentiality agreements are unenforceable when reporting to the SEC (1/2)
+DLauer	709786713497985024	2016-03-15T17:01:54	msttrader There is no doubt that would be cooler
+DLauer	709785642612428801	2016-03-15T16:57:39	Do you know what lichen are? Did you even know there were lichenologists? Check out interview with my bro-in-law 
+DLauer	709756590539329536	2016-03-15T15:02:12	Treasury Department pleads for industry comments ahead of 3/22 deadline for Gov bond mkt structure assessment. 
+DLauer	709735803635834880	2016-03-15T13:39:36	ThemisSal amazing! How will you do this? Will the wall be beautiful that keeps out the predators?
+DLauer	709426037801816065	2016-03-14T17:08:42	New NYSE filing to provide Nasdaq FPGA market data feed received wirelessly. Only $11k per month! Steal of a deal! 
+DLauer	709032201321619456	2016-03-13T15:03:44	If video games have taught me anything, it’s that if you encounter enemies then you’re going the right way.
+DLauer	707993542648528897	2016-03-10T18:16:29	mechmarkets Agreed. No surprise they rank so high, they were a pleasure to work with.
+DLauer	707988903815471104	2016-03-10T17:58:03	Proud to say that some of the largest ATSs updated their public disclosures in response to healthymkts efforts. 
+DLauer	707988649833537536	2016-03-10T17:57:02	The healthymkts ATS Transparency Index does not pass judgment on ATS disclosures, it simply measures availability. 
+DLauer	707988278335709184	2016-03-10T17:55:33	The healthymkts ATS Transparency Index is updated. Nice to see broad increases overall since May 2015 version. 
+DLauer	707605337185067008	2016-03-09T16:33:53	So it turns out those who accused SEC of using holistic review as delay tactic... might have been right. 
+DLauer	707603567415271424	2016-03-09T16:26:51	It's inexplicable at this point that it hasn't swept the country. 
+DLauer	707596677578887168	2016-03-09T15:59:29	ICYMI: Citadel's comment on new ATS reg calls for fair access. Sick of being kicked out of ATSs bc of toxic trading? 
+DLauer	707349626937065477	2016-03-08T23:37:47	mechmarkets RobinWigg ltabb RemcoLenterman now that was fun
+DLauer	707349485693833221	2016-03-08T23:37:13	mechmarkets RobinWigg ltabb RemcoLenterman page 2 about Tervela. I wrote &amp; performed those tests on AMD cluster 
+DLauer	707347172459728896	2016-03-08T23:28:02	mechmarkets RobinWigg ltabb RemcoLenterman that was game over for AMD in hft. Everything was AMD before that.
+DLauer	707347051718295552	2016-03-08T23:27:33	mechmarkets RobinWigg ltabb RemcoLenterman up until around 2009 when nehalem was released. Replicated amd's fast mem bus if I remember
+DLauer	707324286906793984	2016-03-08T21:57:06	ICE evaluating takeover of LSE to include tax inversion to move HQ to UK from USA.  And IEX is "Un-American". Right.
+DLauer	707306965903482880	2016-03-08T20:48:16	I mean, we've all gotten those emails. NY fed should've realized Bangladesh didn't lose wallet while in London. 
+DLauer	707305356553293824	2016-03-08T20:41:52	Bangladesh CB hacked, sends email asking friends for help, NY fed sends money. Poof. 
+DLauer	706217421376495617	2016-03-05T20:38:48	RemcoLenterman TheStalwart bunch of penny stocks
+DLauer	705398685371383808	2016-03-03T14:25:26	Here is a link for the 10am Senate Hearing -Regulatory Reforms to Improve Equity Market Structure 
+DLauer	705191354322837504	2016-03-03T00:41:35	Seriously, you can't write this stuff. It reads like they're sick of being kicked out of ATSs bc of toxic trading. 
+DLauer	705190862536515584	2016-03-03T00:39:38	In other news, Citadel comments on new Reg ATS, asks for fair access. They're tired of restrictions due to toxicity! 
+DLauer	705188316723986432	2016-03-03T00:29:31	connaje I shudder at the thought of him winning anything, and yet part of me really hopes this massively backfires on them.
+DLauer	705187640052731905	2016-03-03T00:26:49	I'm no fan of Trump. But how can anyone possibly think that money is not corrupting/destroying democracy? 
+DLauer	705187410217472000	2016-03-03T00:25:55	Wall St to put massive $ in PAC to oppose Trump. Are they that tonedeaf to not realize this is why people are upset? 
+DLauer	705026997483905028	2016-03-02T13:48:29	HFBondsTrader He's brilliant, right? Futurama so underrated.
+DLauer	705026639864995840	2016-03-02T13:47:04	HFBondsTrader I wish
+DLauer	705026310435938305	2016-03-02T13:45:45	I'm disappointed in my followers' appreciation/love of the Simpsons. This is freaking hilarious.  
+DLauer	704858272298344450	2016-03-02T02:38:02	governor christie, blink three times if trump is holding you hostage
+DLauer	704854420459282432	2016-03-02T02:22:44	advodude there's something delightfully old fashioned about it, especially when you're so thankful to not be in a caucus state
+DLauer	704740488792907777	2016-03-01T18:50:00	What are you gonna do, vote for a 3rd party candidate? Sure, throw your vote away. 
+DLauer	704660265099354112	2016-03-01T13:31:13	Congratulations nanexllc, who says public service doesn't pay?  
+DLauer	704488029633830912	2016-03-01T02:06:49	DouthatNYT do you see any possibility that doesn't result in a splintered party? At this point, seems like wishful thinking.
+DLauer	704475899891208192	2016-03-01T01:18:37	ltabb mechmarkets sumohurd agthreesixty saw them live a couple years ago, along with Dave Chapelle. Amazing show
+DLauer	704431468794159104	2016-02-29T22:22:04	davidamichaels JoeRBLT ltabb I bet they have significant advantage. Also structure and incentives remain unique.
+DLauer	704416509691564032	2016-02-29T21:22:37	agthreesixty mechmarkets ltabb It's supposed to be what the SEC pays attention to. Right??
+DLauer	704414443858436096	2016-02-29T21:14:25	ltabb I dunno - so far it's pretty evident in Canada.
+DLauer	704414029675106304	2016-02-29T21:12:46	agthreesixty ltabb Then it becomes clear which venues are protecting investors &amp; which aren't. Slowly but surely, things shift. Hopefully.
+DLauer	704413777769472000	2016-02-29T21:11:46	agthreesixty ltabb I peg it at 95%.
+DLauer	704412971250929664	2016-02-29T21:08:34	mechmarkets ltabb I bet they're designed like Alpha is relative to Neo, rather than an imitation. And I bet folks see through them.
+DLauer	704412710465880066	2016-02-29T21:07:32	ltabb I bet 3 besides IEX.
+DLauer	704412044687249408	2016-02-29T21:04:53	Probably not, but it might satisfy the SEC! 
+DLauer	704409259593887744	2016-02-29T20:53:49	I was JUST about to tweet that. You totally beat me to it. 
+DLauer	704409071877754880	2016-02-29T20:53:04	Is there anything that show doesn't know?? 
+DLauer	704402193911291904	2016-02-29T20:25:44	MarketPlumber IEX it means what you said earlier. 350 to router, then 350 to ME
+DLauer	704401599377055744	2016-02-29T20:23:23	mechmarkets MarketPlumber I haven't read the amendment, just the letter. Are you sure the detail isn't in there?
+DLauer	704401071855312896	2016-02-29T20:21:17	MarketPlumber IEX I might be reading it wrong, I think your right
+DLauer	704399795071393792	2016-02-29T20:16:12	MarketPlumber IEX no. They're just saying that it is 350 more than if the member went directly to the other exchange.
+DLauer	704396436415373314	2016-02-29T20:02:52	mechmarkets IEX Totally standard comment period for exchange filings.
+DLauer	704396094420156420	2016-02-29T20:01:30	.IEX offers to subject their order router to the speed bump. Odds of exchange approval just spiked to 95%. 
+DLauer	704359305894629377	2016-02-29T17:35:19	Great read and suggestions  
+DLauer	704361652888723456	2016-02-29T17:44:39	It doesn't get much better than this - adamd243 and dtomar finally come together, results in Phillies article. 
+DLauer	704336913847750656	2016-02-29T16:06:20	mechmarkets ThemisSal I think your sequencing is an extreme edge case. You're criticizing IEX for an order type where they forego a fill?
+DLauer	704335964462784512	2016-02-29T16:02:34	The healthymkts comment letter focuses on conflicts and quant disclosure for new ATS transparency rules: 
+DLauer	704335846183444480	2016-02-29T16:02:06	.healthymkts advocates for Rule 605 updates &amp; quant disclosures in new ATS rule proposal. Full list of quant recs: 
+DLauer	704335578620436480	2016-02-29T16:01:02	mechmarkets ThemisSal It happens from time to time. Even a broken clock and such.
+DLauer	704335249396858881	2016-02-29T15:59:44	mechmarkets ThemisSal I'm not singling out Edge on this one. It's an absurd situation in general.
+DLauer	704335170292334592	2016-02-29T15:59:25	mechmarkets ThemisSal This sucks. There is nothing in the rule book that lays out destinations, and no Rule 606 requirement. F-ing crazy.
+DLauer	704333642017992704	2016-02-29T15:53:20	mechmarkets ThemisSal The displayed portion, yes. The Edge filing says they currently display the entire order.
+DLauer	704333189884592129	2016-02-29T15:51:33	ThemisSal So they're saying currently Post To Away w/Reserve or Hidden would be fully displayed at Away market? Well done.
+DLauer	704298295275999232	2016-02-29T13:32:53	JohnAllenPaulos 2 trillion
+DLauer	703774755216818176	2016-02-28T02:52:31	kodyfrankler66 it'd be a hell of a storm, that's for sure. Terrifying
+DLauer	703394634035240960	2016-02-27T01:42:03	Maybe it's always darkest before the dawn. I sure hope so. Peggynoonannyc WSJ
+DLauer	703394315326853120	2016-02-27T01:40:47	Not normally a Peggynoonannyc fan, but impt piece. Seems the most fortunate don't realize how bad the rest have it. 
+DLauer	703328629921587205	2016-02-26T21:19:47	We continue to advocate for investors' interests in pushing for robust quantitative disclosures for new SEC ATS reg: 
+DLauer	703326649916506112	2016-02-26T21:11:55	We believe the SEC proposal is good, but needs robust quantitative disclosures, including improvements to 605. 
+DLauer	703326470240915457	2016-02-26T21:11:12	We just filed a comprehensive review of SEC's new ATS disclosure proposal, w/new quant disclosure recommendations. 
+DLauer	703286867576410112	2016-02-26T18:33:50	ThemisSal mechmarkets AlgoTrdr Imagine that... institutional is retail? No way! Not like most of their retirement savings are in insts
+DLauer	703040614384934912	2016-02-26T02:15:18	"We are the party of diversity, not the Democrats" says the Hispanic guy from the party whose primaries are 90%white.
+DLauer	703039775763271681	2016-02-26T02:11:59	The saddest statement there is... 
+DLauer	702948825099542528	2016-02-25T20:10:34	ThemisSal Very cool organization, never heard of them, but it's a wonderful cause.
+DLauer	702946848596746240	2016-02-25T20:02:43	Hey Guitar-playing friends. I just supported these guys. Perhaps you might?  guitars4vets cc billykaos Moonalice
+DLauer	702916702791725056	2016-02-25T18:02:56	mechmarkets RemcoLenterman ZakDavid It's insane that we have to go through contortions to try to have poor estimate of what shld b public
+DLauer	702912238148046848	2016-02-25T17:45:11	daveweisberger For Marketable Limit Orders, I show IEX has a better (lower) EQ than Citadel. 84 for IEX, 97 for Citadel
+DLauer	702908768137437185	2016-02-25T17:31:24	mechmarkets RemcoLenterman ZakDavid You can be sure that this is not how Markit calc'd the wholesaler E/Q.
+DLauer	702908360107151360	2016-02-25T17:29:47	RemcoLenterman I know that's what Barron's did, but I don't believe it works, and we told them that.
+DLauer	702903977764134912	2016-02-25T17:12:22	RemcoLenterman Although in our MANY attempts to get the SEC to modernize 605 disclosures, we've asked for this column to be added.
+DLauer	702903670086770688	2016-02-25T17:11:08	RemcoLenterman Not really sure why you're questioning me on this. There is no way to do it. There is no "Quoted Spread" column.
+DLauer	702896724818444288	2016-02-25T16:43:33	RemcoLenterman that's only the E. And there is no info on time of order receipt. But if we had raw order data and that time, then yes.
+DLauer	702893240366796800	2016-02-25T16:29:42	RemcoLenterman E/Q can't be calculated from 605
+DLauer	702885341154418688	2016-02-25T15:58:18	If only there was objective, unbiased research that we could point to that regularly monitors market quality. We hope to build that.
+DLauer	702885183721238528	2016-02-25T15:57:41	ITG recently showed IS costs highest since 2009, with 2007 marking the lowest. Doesn't appear correlated to volatility.
+DLauer	702884971304906756	2016-02-25T15:56:50	Lots of claims on market quality, but little research to back it up. Have spreads decreased when adjusted for plummeting trade sizes?
+DLauer	702875211394367488	2016-02-25T15:18:03	Those interested in facilitating true, objective, reproducible market structure research should let us know. 
+DLauer	702874771562872832	2016-02-25T15:16:18	The state of scientific study in market structure is abysmal &amp; primary thing we hope to address with the healthymkts Research Institute
+DLauer	702874344905641984	2016-02-25T15:14:37	Not reproducible, as has become the standard in market structure "research". "Study" should always be in quotes here 
+DLauer	702857894665068544	2016-02-25T14:09:15	nanexllc I'm surprised that a well-diversified financial information services firm like Markit has taken sides in the IEX debate.
+DLauer	702676057640538113	2016-02-25T02:06:41	ColPClark I learned so much from it
+DLauer	702675937415073792	2016-02-25T02:06:13	ColPClark that's a trip back in time for me. That book's been in my collection since 2006. When I tried to design new middleware msging sys
+DLauer	702611023040225281	2016-02-24T21:48:16	New record! Today we traded 6.8 million shares in the NEO Book™ 
+DLauer	702533065625759746	2016-02-24T16:38:29	Lots of discussion on the IEX exchange application, so you know we had to weigh in. Read our comment letter here: 
+DLauer	702279159070982149	2016-02-23T23:49:33	If only somehow we could harness the energy a 4 year old uses to avoid sitting and eating dinner, all our energy problems would be solved.
+DLauer	701891261393809408	2016-02-22T22:08:11	TripleDTrader shows cognitive dissonance in retail price improvement (which btw counters Reg NMS Rule 612). 
+DLauer	698162848850014212	2016-02-12T15:12:49	The February edition of Market Structure Insights is out!  
+DLauer	701823182374883329	2016-02-22T17:37:40	IvanTheK Impressive that you could so completely offend two opposite ends of ~50% the population in so few characters.
+DLauer	701572615056576516	2016-02-22T01:02:00	Donald Trump would definitely nominate Judge Judy to swing SCOTUS balance. We'll be sure to thank SenateMajLdr for that.
+DLauer	701173497041707008	2016-02-20T22:36:03	Cimmerian999 I think he's gone double or nothing like 10 times now and is in line to be a trillionaire if he pulls this out
+DLauer	701171389286498304	2016-02-20T22:27:40	Cimmerian999 FoxNews so far this cycle it's only getting worse.
+DLauer	701171319447142400	2016-02-20T22:27:24	Cimmerian999 FoxNews both parties have fostered extremism, built it out structurally with gerrymandering. Country suffering for it.
+DLauer	701100509185314817	2016-02-20T17:46:01	“We live for books.”        Umberto Eco
+DLauer	701110125738729472	2016-02-20T18:24:14	Eco on DOS: "The user is closed within the loneliness of his own inner torment" lol RIP cc pauld44 SniperInMahwah 
+DLauer	701108920169971713	2016-02-20T18:19:27	Amazingly accurate. Other than the background check fee of course. 
+DLauer	701103764753743872	2016-02-20T17:58:58	Oooohhhh... Everything makes so much more sense now 
+DLauer	701103471559364610	2016-02-20T17:57:48	Amazing that Wu Tang was ahead of their time in diagnosing fundamental corrupting force destroying our country. CREAM cc Wu_Tang_Finance
+DLauer	701101798409551872	2016-02-20T17:51:09	WuTangCannabis Check out the poster behind him in the picture. CREAM
+DLauer	701099602267795456	2016-02-20T17:42:25	"I just walked into the SEC, made some Caddyshack references"  
+DLauer	701099272192847874	2016-02-20T17:41:06	Bill Murray running the SEC? Yes please  Mr. Murray made brief statement to press. “SEC ain’t nuthing ta fuck wit.”  
+DLauer	701011079745425408	2016-02-20T11:50:40	pauld44 I loved Foucault's Pendulum and Rose. Never read this one, I'll make it my next. Amazing writer.
+DLauer	700780686295363585	2016-02-19T20:35:10	eleven_seconds It's funny how every supportive study is worth reading, and every critical study is academically flawed.
+DLauer	700751807392382976	2016-02-19T18:40:24	Dougielarge ThemisSal Reading and Tweeting from the beach?! You're addicted. Go swimming.
+DLauer	700697031925489664	2016-02-19T15:02:45	Of course they did - they're awesome. Total rock stars! 
+DLauer	700353933366026243	2016-02-18T16:19:24	Simple security rule of thumb: don't build encryption for how the world is today, but how it could be if Donald Trump were President.
+DLauer	700396920020320264	2016-02-18T19:10:13	New Slate piece from me on the Apple FBI demand, and how it will undermine our cybersecurity. 
+DLauer	700369315242123264	2016-02-18T17:20:31	Just when you think it can't get any better, it just keeps getting better! 
+DLauer	699620258307506176	2016-02-16T15:44:02	Whoah. neelkashkari, one of the banking bailout architects, now wants to end TBTF.  
+DLauer	699240184962031616	2016-02-15T14:33:46	So cute how 24% of you think the Senate will vote on Obama's nominee... 
+DLauer	698705573525790721	2016-02-14T03:09:24	Cimmerian999 clearly-you continue to watch these debates! I can't take more than 10 minutes of them.
+DLauer	698703576655339520	2016-02-14T03:01:28	Cimmerian999 it'll just continue to leave you frustrated.
+DLauer	698702537826902016	2016-02-14T02:57:20	Cimmerian999 you think reason and rationality will play any role in this nomination?
+DLauer	698696404731064320	2016-02-14T02:32:58	Do you think the Senate will vote on Obama's Supreme Court nominee?
+DLauer	698309578820292608	2016-02-13T00:55:52	"we made a measurement that is about a thousandth the diameter of a proton" Stunning story of observing grav waves. 
+DLauer	697811621926846464	2016-02-11T15:57:10	Cruz channels NYSE market structure criticism of IEX! 
+DLauer	697807355904421888	2016-02-11T15:40:12	This is amazing, what a discovery. 
+DLauer	697752719256330240	2016-02-11T12:03:06	Wow they actually broke the entire bond mkt
+DLauer	697726943656026112	2016-02-11T10:20:41	If the US had fiscal policy common sense (we don't), Treasury would be issuing long bonds in size, and we'd ramp up infrastructure spend.
+DLauer	697226953242374145	2016-02-10T01:13:54	"a Jew.....  ... a communist Jew from Brooklyn. Not even the cool part of Brooklyn." 
+DLauer	697154348409868289	2016-02-09T20:25:23	.RemcoLenterman Losing trading volume is one thing. Having market data and co-lo rev threatened is an entirely different thing!
+DLauer	697150205477650432	2016-02-09T20:08:56	mechmarkets I don't have any insight on this.
+DLauer	697138716129755137	2016-02-09T19:23:16	mechmarkets I think so.
+DLauer	697131715991629824	2016-02-09T18:55:27	mechmarkets Not sure. I'd argue it doesn't. We'll find out what the SEC thinks soon enough.
+DLauer	697129955130482691	2016-02-09T18:48:28	mechmarkets I find it very weird that venues should be FORCED to allow firms to pay to circumvent their speed bumps.
+DLauer	697129644160638976	2016-02-09T18:47:13	mechmarkets Of course it's a great idea - but you know it wouldn't stand a chance as it would threaten SRO revenues.
+DLauer	697126589478408194	2016-02-09T18:35:05	mechmarkets And if the price was double the highest price? Triple? Regulators are supposed to be setting price controls?
+DLauer	697126021213069313	2016-02-09T18:32:50	mechmarkets If they allow firms to pay to circumvent the speed bump, their model is identical to every exch that offers co-lo, yes?
+DLauer	697125919182422016	2016-02-09T18:32:25	mechmarkets I think everyone agrees. But again, back to my point, why would IEX need to be reasonably priced? Isn't this philosophical?
+DLauer	697125231463428096	2016-02-09T18:29:41	mechmarkets But haven't DFs and co-lo pricing become less and less reasonable? Doesn't appear to be much of a limit.
+DLauer	697124626439266304	2016-02-09T18:27:17	mechmarkets Why should it depend on the price? As long as you can pay, "anyone can access it" right?
+DLauer	697123064191049728	2016-02-09T18:21:05	So nobody wants to comment on this? Is it b/c you've run through it in your head &amp; realize exactly where it leads? 
+DLauer	697115905680089088	2016-02-09T17:52:38	If IEX provided the ability for firms to pay to circumvent the speed bump, would you still have a problem with it?
+DLauer	697115771894374400	2016-02-09T17:52:06	I have a thought experiment for those that believe the IEX systematic delay contravenes Reg NMS.
+DLauer	697072762146394112	2016-02-09T15:01:12	Completely applicable to market structure debates as well. 
+DLauer	697070660535873536	2016-02-09T14:52:51	It's getting harder and harder to argue otherwise. 
+DLauer	696886960380633088	2016-02-09T02:42:53	I'm beginning to think the markets are going down because we are all idiots...and can't hide it anymore. 
+DLauer	697068717981700096	2016-02-09T14:45:07	I'm surprised anyone thought HFT would play a larger role than the other 3.
+DLauer	697068601430380544	2016-02-09T14:44:40	Interesting results. I'd say Electronic Trading is by far the dominant force here. 
+DLauer	697058480423837696	2016-02-09T14:04:27	msttrader It's pining...
+DLauer	696863905755369474	2016-02-09T01:11:16	EnergyRosen I did the same, and haven't regretted it for a second.
+DLauer	696752061359263745	2016-02-08T17:46:51	mechmarkets Good point - I had forgot Wedbush. I get the twitter-hack example, but I'd argue that wasn't actual trading.
+DLauer	696749981303238656	2016-02-08T17:38:35	I believe this is first case we know of involving market manipulation as a result of hacking (the ruble of course): 
+DLauer	696742820493836291	2016-02-08T17:10:07	What do you think drives the decline in transaction costs? 
+DLauer	696699809013567488	2016-02-08T14:19:13	HodgsonCapital I'll withhold comments for a bit so as to not poison the poll results.
+DLauer	696698551494123520	2016-02-08T14:14:13	Transaction costs have declined in equity markets over past 20 years. What do you think is most important force?
+DLauer	696691867031838720	2016-02-08T13:47:39	IvanTheK Goldman?
+DLauer	696408944244346882	2016-02-07T19:03:25	HFBondsTrader only if I can call you Betty
+DLauer	696164590074359809	2016-02-07T02:52:27	ThemisSal you're like 90 minutes behind!
+DLauer	696118985377636352	2016-02-06T23:51:14	justinhandler O3 labs? I'm sure you can figure out a way to integrate raspberry pi
+DLauer	696118406928592896	2016-02-06T23:48:56	justinhandler you cold heartless bastard! Seriously though, there should be an app for this.
+DLauer	696117613286580224	2016-02-06T23:45:46	justinhandler been there man. Want me to call you? :)
+DLauer	695994850395738112	2016-02-06T15:37:57	I don't think QBASIC has ever been so mesmorizing. 
+DLauer	695773617125253120	2016-02-06T00:58:51	Wow, that's horrible. So sorry to hear it. 
+DLauer	695766388158418944	2016-02-06T00:30:08	Robots, probably. 
+DLauer	695703792118013952	2016-02-05T20:21:24	elnunesio Cimmerian999 KeithCampbell7 Their argument is their architecture is within the rules. SEC has to decide that question.
+DLauer	695702150480003072	2016-02-05T20:14:52	EMH 
+DLauer	695670266001760256	2016-02-05T18:08:11	Cimmerian999 KeithCampbell7 Why do you think what they told him was fictional?
+DLauer	695668965352337412	2016-02-05T18:03:00	mechmarkets Cimmerian999 KeithCampbell7 Read Ronan quote, 5th paragraph: 
+DLauer	695668452858662912	2016-02-05T18:00:58	Cimmerian999 KeithCampbell7 Yes but my point was that IEX had no control over Lewis. They are trying to compete fairly, and are doing well
+DLauer	695667342450282496	2016-02-05T17:56:33	Cimmerian999 None of us want a transaction tax. And IEX will not lead to one.
+DLauer	695663597893066753	2016-02-05T17:41:41	Cimmerian999 Regardless of whether they're "rigged' (a term I hate), it's hard to argue the attention hasn't been good in some respects.
+DLauer	695663504116838400	2016-02-05T17:41:18	Cimmerian999 I disagree - not nearly enough attention was being paid to venue characteristics and analysis.
+DLauer	695663233567432704	2016-02-05T17:40:14	This is the American way, obviously. 
+DLauer	695661803800522752	2016-02-05T17:34:33	Cimmerian999 Hard to argue that a sophisticated market isn't rewarding a model that appears to give investors good outcomes.
+DLauer	695659063917592576	2016-02-05T17:23:40	Cimmerian999 What-If IEX principals were sincere in their views of the market &amp; their drive to improve it? You make assumptions on motives.
+DLauer	695658657183354880	2016-02-05T17:22:03	Cimmerian999 He was spot-on with completely skewed incentives of PFOF/retail brokers, dark pool operators and exchange market data feeds.
+DLauer	695656354128793600	2016-02-05T17:12:54	Cimmerian999 (not that I'm endorsing your contention that it's populist drivel - I think he got some things right and some things wrong).
+DLauer	695656179507273728	2016-02-05T17:12:12	Cimmerian999 Also, folks making routing decisions are generally sophisticated and subject to best ex. Not as beholden to "populist drivel".
+DLauer	695654449293959168	2016-02-05T17:05:20	Cimmerian999 Amazing that you think IEX could exert such influence over Lewis.
+DLauer	695634454929342465	2016-02-05T15:45:52	Say what you will about IEX &amp; effectiveness of approach. They've put solution forward &amp; are letting mkt decide. As American as it gets.
+DLauer	695632889988382721	2016-02-05T15:39:39	mkt_strctr_guy ICE_Markets IEX He's Canadian?! You'd think he'd be a lot more polite.
+DLauer	695632390459240448	2016-02-05T15:37:40	ICE_Markets Jamil from citadel just took over the kcg NYSE dmm's. He was born in Canada. Is he un-American like IEX ? askingforafriend
+DLauer	695607720897081344	2016-02-05T13:59:39	It's official.. Citadel to be the largest DMM on the NYSE - alongside Virtu, GTS, IMC. 
+DLauer	695332948300730368	2016-02-04T19:47:48	IvanTheK no
+DLauer	695310029751246848	2016-02-04T18:16:43	nanexllc Strange periodicity in all of this - 200-400us according to IEX for FIX v Binary, 230us here, 200us in the TRF batches.
+DLauer	695300550271844352	2016-02-04T17:39:03	NYSE: regulated monopolies are un-american! NYSE: pay us crazy money for our regulated monopoly market data!
+DLauer	695299804008677376	2016-02-04T17:36:05	MarketPlumber ThemisSal IEX No way is that second order. Without it, you're comparing apples-to-oranges.
+DLauer	695282966440886272	2016-02-04T16:29:11	MarketPlumber ThemisSal IEX yes, while pointing out many other flaws of the article. Also haven't done math but it doesn't add up
+DLauer	695255043101102080	2016-02-04T14:38:14	This is incredible new Intrusion Detection System. Cld revolutionize security as we know it.(only read headline BTW) 
+DLauer	695254436365668353	2016-02-04T14:35:49	Fascist assholes suck 
+DLauer	694592830359085060	2016-02-02T18:46:50	EMSAC Prof. Christine Parlour from UCBerkeley now testifying for SEC_News. Payment for order flow removes valuable liquidity form markets
+DLauer	694591611221733376	2016-02-02T18:41:59	.TripleDTrader Completely dismatles the free-riding internalization business model. Bad for Investors. Skewed incentives. EMSAC
+DLauer	694533763208974336	2016-02-02T14:52:07	ICYMI $0.99 1 DAY ONLY! Marking record SEC/NYAG settlements against CS&amp;Barclays. The Market Structure Crisis e-book 
+DLauer	694513793267843072	2016-02-02T13:32:46	Topics today are Aug 24, order types, 605/606, PFOF. Let's hope to see movement on 605/606! 
+DLauer	694336336891879425	2016-02-02T01:47:37	georgepearkes I'm impressed he got 1!
+DLauer	694336066392866816	2016-02-02T01:46:33	georgepearkes you're misreading it, that's SDEs, not votes. Some kind of delegate equivalent.
+DLauer	694182949307162624	2016-02-01T15:38:07	ThemisSal mkt_strctr_guy Like: "Hello Exchange, We have a secret data feed your router might be able to use. " exchange: "Hi ATS, Great."
+DLauer	694328573679661057	2016-02-02T01:16:46	In the snow! 
+DLauer	694244883977129984	2016-02-01T19:44:13	Who do you think drives revenue at online discount brokers (and therefore at the wholesalers)? 
+DLauer	694230791908413446	2016-02-01T18:48:13	Our post talking about NYSE's market data fee extremism and their "Grand Bargain" with CS from December, 2014. 
+DLauer	694173497648619520	2016-02-01T15:00:33	Barclays Admits To Core Facts In The Attorney General’s Lawsuit; Admits To Violating Securities Laws 
+DLauer	694103060965113856	2016-02-01T10:20:40	Where is CItadel and BATS and NASDAQ and NYSE and MMI to complain about that? I wonder who the two exchanges and HFT firms are CreditSuisse
+DLauer	694144934950100994	2016-02-01T13:07:03	What % of online discount broker revenue comes from active traders (as opposed to long-term investors)?
+DLauer	694135465922920448	2016-02-01T12:29:26	cromwellc daveweisberger nope, just pointing out this is all about defending P&amp;L of wholesalers &amp; brkrs serving active trdrs not investors
+DLauer	694135011491053568	2016-02-01T12:27:37	The discount broker/wholesaler racket makes money on active traders, not investors. Don't mistake them as defending anything other than P&amp;L.
+DLauer	693953347368439812	2016-02-01T00:25:45	daveweisberger mechmarkets cromwellc that word (retail) doesn't mean what you think it means.
+DLauer	693947448650264577	2016-02-01T00:02:19	mechmarkets daveweisberger cromwellc and again, huge disservice to market by siphoning off that order flow into the wholesaler racket.
+DLauer	693947260279902208	2016-02-01T00:01:34	mechmarkets daveweisberger cromwellc amongst a couple of firms, sure. Far more firms in open markets who want to compete
+DLauer	693946218737766400	2016-01-31T23:57:26	mechmarkets daveweisberger cromwellc at least it allows for open competition for order flow, which I believe everyone should support
+DLauer	693945594931449858	2016-01-31T23:54:57	mechmarkets daveweisberger cromwellc not really a fan of segmentation but wouldn't have much of argument absent massive pfof/fee conflict
+DLauer	693944446119976960	2016-01-31T23:50:23	daveweisberger cromwellc sending low information orders to lit markets wld improve quality for all, especially institutions, therefore m&amp;p
+DLauer	693944254075396096	2016-01-31T23:49:37	daveweisberger cromwellc are you reading my tweets? Retail is institutions. Online discount brokers are not.
+DLauer	693943724359970816	2016-01-31T23:47:31	MarketPlumber daveweisberger I said I wasn't sure if it was the case, and it didn't matter as I pointed out many other flaws.
+DLauer	693943294955536385	2016-01-31T23:45:49	daveweisberger cromwellc the comparisons are so flawed as to be nearly worthless. Plus if retail ords sent to iex, huge change in quality
+DLauer	693943055620182016	2016-01-31T23:44:51	daveweisberger cromwellc none of this can be compared and you know it. Institutions send orders to iex, not retail. 605 way too flawed.
+DLauer	693942576630611968	2016-01-31T23:42:57	cromwellc daveweisberger "mom and pop" buy mutual funds and ETFs. This is a huge racket to make money and siphon off order flow.
+DLauer	693942303078088704	2016-01-31T23:41:52	cromwellc daveweisberger also it's a joke to call any online discount broker "retail". They serve active day traders.
+DLauer	693940747561758720	2016-01-31T23:35:41	daveweisberger cromwellc I corrected myself in subsequent tweets. I still believe this analysis is extremely flawed.
+DLauer	693940596805914624	2016-01-31T23:35:05	cromwellc daveweisberger of course he feels that way, he made huge money from the system.
+DLauer	693869701240238081	2016-01-31T18:53:22	NYAG office press-releases 'dark pools' settlements following our WSJ story: Credit Suisse, Barclays to pay $154mm 
+DLauer	693847941665165312	2016-01-31T17:26:55	RemcoLenterman mechmarkets MarketPlumber I don't think the math adds up on that, but I haven't had time to check. Will analyze 605 2mrw
+DLauer	693803281605365760	2016-01-31T14:29:27	Is it me or is Donald Trump's skin the color of an oompa loompa?
+DLauer	693576714211958784	2016-01-30T23:29:09	MarketPlumber mechmarkets And with that, I'm going back to my family for the weekend. Hope you guys enjoy yours. :)
+DLauer	693576634650226689	2016-01-30T23:28:50	MarketPlumber mechmarkets But I do know that this is no study, and carries little information content.
+DLauer	693576550361481216	2016-01-30T23:28:30	MarketPlumber mechmarkets Frankly, I don't know what the answer is here, although obv I believe retail orders should go to lit mkts
+DLauer	693576397319737344	2016-01-30T23:27:53	MarketPlumber mechmarkets finally, he used a tiny subset of orders on IEX (21M) - keep in mind they do ~150M per day. This isn't science.
+DLauer	693576079378874369	2016-01-30T23:26:38	MarketPlumber mechmarkets which mr. W knows all too well.
+DLauer	693576036735389696	2016-01-30T23:26:27	MarketPlumber mechmarkets Second, you can't comp 605 stats from venue like IEX, which uses DFs &amp; from wholesalers who game crap out of 605
+DLauer	693575891360817152	2016-01-30T23:25:53	MarketPlumber mechmarkets If retail order flow was going to IEX, execution quality would likely look very different.
+DLauer	693575821882191873	2016-01-30T23:25:36	MarketPlumber mechmarkets You can't compare trading dynamics of institutional midpt venue with that of a retail wholesaler.
+DLauer	693575755066925057	2016-01-30T23:25:20	MarketPlumber mechmarkets In any case, this analysis is flawed enough without that. First it makes no sense.
+DLauer	693575675291275264	2016-01-30T23:25:01	MarketPlumber mechmarkets ThemisSal IEX I don't know if it does or not, but I don't think so.
+DLauer	693564151613001728	2016-01-30T22:39:14	mechmarkets MarketPlumber ThemisSal IEX I don't believe there's such a thing as post speed bump DFs. That's the point of the speed bump
+DLauer	693563355823521792	2016-01-30T22:36:04	mechmarkets MarketPlumber ThemisSal IEX for example, iex uses DFs for 605 reports whole everyone else uses the SIP
+DLauer	693563209236770817	2016-01-30T22:35:29	mechmarkets MarketPlumber ThemisSal IEX like I said, I don't think so. So many other flaws in the analysis too, as 605 is deeply flawed
+DLauer	693561511202127873	2016-01-30T22:28:44	mechmarkets MarketPlumber ThemisSal IEX it's not about the price, it's about the order type and interactions therewith (is that a word?)
+DLauer	693559906004238337	2016-01-30T22:22:21	mechmarkets MarketPlumber ThemisSal IEX based on conversations with IEX and SEC
+DLauer	693559256121999360	2016-01-30T22:19:47	mechmarkets MarketPlumber ThemisSal IEX at least, I don't believe it does. I probably shouldn't be so definitive
+DLauer	693558923484368896	2016-01-30T22:18:27	mechmarkets MarketPlumber ThemisSal IEX it does not
+DLauer	693554171837046784	2016-01-30T21:59:34	MarketPlumber ThemisSal IEX you're misunderstanding argument. Sending marketable retail order to venue w/ 74% midpt wld be mean huge PI
+DLauer	693175362533064704	2016-01-29T20:54:19	DeepSkyMaven ChristopherNagy also don't believe it matters anyway,as I don't know why everyone is so passionate to help active day traders
+DLauer	693175109864067076	2016-01-29T20:53:19	DeepSkyMaven ChristopherNagy Like I said, I have no idea, all I know is what they said after Senate hearing.
+DLauer	693172541981114368	2016-01-29T20:43:07	DeepSkyMaven ChristopherNagy There's literally no possibility. Chris can speak more when he's back, he's traveling right now.
+DLauer	693172452436905985	2016-01-29T20:42:45	DeepSkyMaven ChristopherNagy These numbers are non-sensical. I don't know what net improvement means, but they are not giving 0.0146 in PI
+DLauer	693169991810748416	2016-01-29T20:32:59	DeepSkyMaven ChristopherNagy I have no idea what their #'s will look like for 2015, they have only fully disclosed #'s for 2014.
+DLauer	693167672893243392	2016-01-29T20:23:46	DeepSkyMaven ChristopherNagy dude, the PI each order receives is de-minimus. This is what TDA disclosed after Senate PSI hearing.
+DLauer	693166693208756224	2016-01-29T20:19:52	DeepSkyMaven ChristopherNagy In 2014, TDA received $80M from equity PFOF ($236M total) and gave $16M of PI. That's what they've disclosed.
+DLauer	693166559876005890	2016-01-29T20:19:20	DeepSkyMaven ChristopherNagy Wouldn't it be amazing if there were some sort of standardized disclosure to evaluate this? There's not.
+DLauer	693165315858022400	2016-01-29T20:14:24	DeepSkyMaven ChristopherNagy For equities, yes.
+DLauer	693163412709335040	2016-01-29T20:06:50	DeepSkyMaven ChristopherNagy Huh? These are on market orders. They got $16M in savings.
+DLauer	693163004712591360	2016-01-29T20:05:13	DeepSkyMaven ChristopherNagy Also in 2014 AMTD paid $16M in PI, received $236M in PFOF. Hmmm.
+DLauer	693162797295898624	2016-01-29T20:04:23	DeepSkyMaven ChristopherNagy discount brokers represent active traders not mom-and-pop retail. Mutual funds and ETFs represent real retail
+DLauer	693162513140154368	2016-01-29T20:03:16	DeepSkyMaven ChristopherNagy shouldn't necessarily be a reason to damage market quality and chase away market makers.
+DLauer	693162439765008384	2016-01-29T20:02:58	DeepSkyMaven ChristopherNagy Besides the fact that IEX might change that, I again want to point out that giving active day traders PI
+DLauer	693161436382695424	2016-01-29T19:58:59	DeepSkyMaven I agree with you. Why should wholesalers benefit to the detriment of the market as a whole?
+DLauer	693161297928650753	2016-01-29T19:58:26	DeepSkyMaven Totally different. Lit markets can't satisfy institutional orders w/o market impact, so dark pools have a critical role.
+DLauer	693160045568212992	2016-01-29T19:53:27	DeepSkyMaven This evolution happened without study of the unintended consequences of siphoning off the most valuable order flow.
+DLauer	693159964010004481	2016-01-29T19:53:08	DeepSkyMaven Nobody is entitled to it! It should hit the lit market and market makers should compete for it. You know, capitalism.
+DLauer	693159188793548801	2016-01-29T19:50:03	DeepSkyMaven Of course they do. Because by capturing all of the uninformed order flow, they've killed lit market makers.
+DLauer	693157888701890560	2016-01-29T19:44:53	DeepSkyMaven Huge difference. Increases lit market diversity, improves order book stability and market quality overall.
+DLauer	693157761727733760	2016-01-29T19:44:23	DeepSkyMaven Wholesalers being profitable only helps the wholesaler. Lit market makers being profitable helps the entire market.
+DLauer	693142360457355264	2016-01-29T18:43:11	It's funny because it's true. Also sad. 
+DLauer	693141605088387072	2016-01-29T18:40:11	.NYSE &amp; NASDAQ are boycotting an SEC advisory panel's deliberations because they weren't given seats on the panel. 
+DLauer	693120972522721280	2016-01-29T17:18:12	RemcoLenterman Yes, AFTER paying for that flow. Also recent FINRA best ex guidance has significant implications here.
+DLauer	693116496839622658	2016-01-29T17:00:24	nanexllc ThemisSal cromwellc It's worse. It's passing judgement on IEX "quantitatively" w/o considering the platform's best feature.
+DLauer	693116252940849152	2016-01-29T16:59:26	RemcoLenterman I can't really speak to that. I can say that wholesalers see threat from midpt pricing, which is not captured on the IEX 605
+DLauer	693115989001682944	2016-01-29T16:58:23	RemcoLenterman Discount brokers represent active traders. Not retirement savings.
+DLauer	693115923776065538	2016-01-29T16:58:08	RemcoLenterman I'm not going to speak to that. But retail != discount broker. Retail is invested in mutual funds and ETFs.
+DLauer	693114155595894784	2016-01-29T16:51:06	Nobody has studied if the benefits to active traders outweighs the damage to the market. You'd think regulators would be interested in that.
+DLauer	693114112340037632	2016-01-29T16:50:56	That makes markets more fragile, more self-similar, and affects all participants.
+DLauer	693114036548956164	2016-01-29T16:50:38	It makes market makers less like to participate, drives some away when their orders get "queue jumped". Reduces market diversity.
+DLauer	693113909860024320	2016-01-29T16:50:08	PFOF siphons off most profitable order flow, removes it from lit mkts. This directly impacts mkt maker profitability, impacting mkt quality.
+DLauer	693113872039964672	2016-01-29T16:49:59	Second, there is no doubt that these active traders get a good deal. That's not the issue. The issue is the damage to the market.
+DLauer	693113823776079872	2016-01-29T16:49:47	First, discount brokers are not mom-and-pop retail. They are active traders. The overwhelming majority of profits come from active traders.
+DLauer	693113752166764546	2016-01-29T16:49:30	So many flaws in the arguments of those who defend PFOF and current retail model. (1/5)
+DLauer	693113166696431616	2016-01-29T16:47:11	RemcoLenterman I can't believe anyone argues against open competition for order flow. ThemisSal cromwellc daveweisberger
+DLauer	693110496476663808	2016-01-29T16:36:34	mechmarkets cromwellc That's a big reason why they're protesting IEX, when combined with FINRA's new best ex guidance.
+DLauer	693110355753594881	2016-01-29T16:36:00	mechmarkets cromwellc No - but their market orders wld hit resting midpt pegs, resulting in far more price improvement than wholesalers.
+DLauer	693109803669950464	2016-01-29T16:33:49	Huge problem with this analysis. Based on 605 data, which does not include IEX midpoint orders (74% of fills). cromwellc
+DLauer	693066877585735680	2016-01-29T13:43:14	RGNewJr ThemisSal Oh man, I'd trust a robo-FED and robo-SEC so much more!
+DLauer	693066625990418432	2016-01-29T13:42:14	ThemisSal Very few people realize how much they actually need to be putting away to send their kids to college or for their retirement.
+DLauer	693066534466486272	2016-01-29T13:41:53	ThemisSal Exactly. Most don't realize that. A site like goalinvestor really quantifies it - the results are often shocking.
+DLauer	693066174066757632	2016-01-29T13:40:27	ThemisSal Yes. For those who wouldn't traditionally save or have enough money to access decent advice, it can be incredibly valuable.
+DLauer	693065592543252480	2016-01-29T13:38:08	ThemisSal You're not a fan of robo-advisors?
+DLauer	693065551267155968	2016-01-29T13:37:58	ThemisSal Really? For most, it's a good approach. Although at GI it's a bit more involved than how you've presented it.
+DLauer	693065309016756225	2016-01-29T13:37:00	ThemisSal Check out . Been working on that for a couple of years now. It's free!
+DLauer	692908433528479744	2016-01-29T03:13:38	Politically, Trump made the right move tonight. Sadly.  GOPDebate
+DLauer	692815070338945028	2016-01-28T21:02:39	There is nothing about this that could be considered high-frequency trading. 
+DLauer	692812795763646465	2016-01-28T20:53:37	*sigh* 
+DLauer	692806393775128577	2016-01-28T20:28:10	RemcoLenterman Just making sure!
+DLauer	692804751344427013	2016-01-28T20:21:39	RemcoLenterman You keep advocating this, but don't you agree that reform to Best Ex and venue disclosures are a necessary pre-condition?
+DLauer	692803916732436480	2016-01-28T20:18:20	Read the financialpost coverage of our first listing announcement here: 
+DLauer	692384667669041152	2016-01-27T16:32:23	They don't explicitly say this is about Greenwich CT but come on... 
+DLauer	692468688264499200	2016-01-27T22:06:15	JohnAidanByrne I have no idea about incentives, although I wouldn't be surprised. It would take a lot of effort to figure out the gross amt
+DLauer	692464862535008257	2016-01-27T21:51:03	It's amazing how many multi-million dollar violations there are in which firms don't "admit or deny" wrongdoing. Like, all of them. (2/2)
+DLauer	692464718871687169	2016-01-27T21:50:29	Been spending a lot of time in FINRA BrokerCheck researching broker violations. (1/2)
+DLauer	692371041725890560	2016-01-27T15:38:14	This guy gets it. 
+DLauer	692357929496879105	2016-01-27T14:46:08	nanexllc Of course. However, my previous tweet had nothing to do with incentives/motivations. Just pointing out fact - bad tech infra.
+DLauer	692357207011282947	2016-01-27T14:43:16	nanexllc you might enjoy this article I wrote about how to quantify millisecond-level message bursts in 2008: 
+DLauer	692356898461458432	2016-01-27T14:42:02	nanexllc so extreme SIP delays under those conditions are not surprising, given their fragile tech and poor networking infrastructure
+DLauer	692355321923276801	2016-01-27T14:35:46	nanexllc Did those two days also happen to have the highest per-millisecond messaging rates up to that point?
+DLauer	692353833352167424	2016-01-27T14:29:51	ThemisSal So I would turn it around and say without the flash crash we don't have D.
+DLauer	692353720718344193	2016-01-27T14:29:24	ThemisSal But what I'm trying to tell you is feed delays came about because of a crazy amount of trading, which SIP infra couldn't handle
+DLauer	692350763822137344	2016-01-27T14:17:40	ThemisSal The more I read the more I believe you are mistaking correlation for causation. The authors acknowledge as much in the paper.
+DLauer	692349352283631616	2016-01-27T14:12:03	RemcoLenterman Well at least the CME disagrees with you. I'll spend more time on this later.
+DLauer	692347626289782785	2016-01-27T14:05:11	RemcoLenterman Sounds familiar. 
+DLauer	692347217080901633	2016-01-27T14:03:34	RemcoLenterman Did you read the paper? 
+DLauer	692346632923385856	2016-01-27T14:01:15	RemcoLenterman I'm reading the paper now. There's a lot of correlation vs causation in here that I question.
+DLauer	692343747418390529	2016-01-27T13:49:47	RemcoLenterman and I will always put "cause" in quotes when talking about non-linear, complex adaptive systems.
+DLauer	692343640648241153	2016-01-27T13:49:21	RemcoLenterman I'm not saying it wasn't big, I'm just saying it wasn't the "cause"
+DLauer	692343560620867584	2016-01-27T13:49:02	RemcoLenterman I don't have time today, but there have been other similarly sized orders since, and there were others before.
+DLauer	692343296606244864	2016-01-27T13:47:59	ThemisSal RemcoLenterman increasing self-similarity of market making strategies. That's why there's no cause-and-effect here.
+DLauer	692343226284560384	2016-01-27T13:47:42	ThemisSal RemcoLenterman There have been other sell orders since. You can't separate that "order" from the prevailing conditions, and
+DLauer	692343022093275136	2016-01-27T13:46:54	RemcoLenterman You know this issue well enough to know that there's no simple explanation, and W&amp;R isn't the answer.
+DLauer	692342874994794496	2016-01-27T13:46:19	RemcoLenterman Right, like those other times similar sized orders did the same thing.
+DLauer	692342814580015106	2016-01-27T13:46:04	ThemisSal I believe PFOF is a root-cause issue. Get rid of it, increase market maker profitability, and increase participant diversity.
+DLauer	692342603921104897	2016-01-27T13:45:14	ThemisSal That contributed to a further feedback loop, etc etc. Again, complex systems, no direct cause-and-effect.
+DLauer	692342508412604417	2016-01-27T13:44:51	ThemisSal the non-linear feedback loop created by lack of diverse participants led to huge trading volumes, which overwhelmed SIP systems.
+DLauer	692342400040210432	2016-01-27T13:44:25	ThemisSal I think the paper confuses causality. The feed discrepancies were magnified by the huge amount of trading.
+DLauer	692342176974528516	2016-01-27T13:43:32	ThemisSal It's actually not so math-y. But this is important. Without understanding complexity of systems, we're doomed to keep repeating.
+DLauer	692341765249093632	2016-01-27T13:41:54	RemcoLenterman Come on. You know that's absurd.
+DLauer	692341154243854336	2016-01-27T13:39:28	ThemisSal That the Flash Crash was a non-linear feedback loop, and therefore linear causality cannot be established.
+DLauer	692340700357246976	2016-01-27T13:37:40	ThemisSal Um - you left out a very important (and many would say the correct) option.
+DLauer	692339177573212160	2016-01-27T13:31:37	mkt_strctr_guy ThemisSal Nothing "caused" the flash crash, though data issues exacerbated it. Non-linear positive feedback loop.
+DLauer	692337842958237696	2016-01-27T13:26:19	adhonore Surprisingly enlightened views on security and encryption for a R from Texas
+DLauer	692148108474589184	2016-01-27T00:52:23	Chris_arnade ivanthek For him they're indistinguishable
+DLauer	692145696170995713	2016-01-27T00:42:48	This is exactly why he thinks Fox will cave. And he's probably right. 
+DLauer	692015426440663042	2016-01-26T16:05:09	Even if you were right, you were wrong. 
+DLauer	692003814417809409	2016-01-26T15:19:00	I can't believe no one at WSJ was taking a hard look at HFT before Flash Boys! 
+DLauer	692003979899846656	2016-01-26T15:19:40	pattersonscott jeez
+DLauer	691709391859511296	2016-01-25T19:49:05	In 1987 Warren Buffett predicted that quantitative trading would not be successful.   
+DLauer	691697391569891328	2016-01-25T19:01:23	BeLikeBob 
+DLauer	691697522956443652	2016-01-25T19:01:55	MarketPlumber elnunesio That's a direct, significant revenue threat to them. So good luck with that.
+DLauer	691697468149514241	2016-01-25T19:01:42	MarketPlumber elnunesio So many of us agree there should be no latency advantage for DFs v SIP. Exchs have to fix it though.
+DLauer	691696973074808833	2016-01-25T18:59:44	elnunesio Who is against modernizing 605 and 606? Easiest, lowest hanging fruit, yet nothing is done.
+DLauer	691696852006207489	2016-01-25T18:59:15	elnunesio If only it were that easy - there are so many things that would've been done by now.
+DLauer	691672979827212289	2016-01-25T17:24:23	A big trader, KCG, just joined criticism of the SIP  via antoniabmassa business
+DLauer	691270173446266880	2016-01-24T14:43:47	I am staunch advocate for feminist rights. = pay for = work. For example, my wife gets paid exactly what I wld for doing all the shoveling.
+DLauer	691000154225246210	2016-01-23T20:50:49	A Jew, a WASP and a Socialist walk into a Williamsburg hipster bar... 
+DLauer	690949200180350979	2016-01-23T17:28:21	Bernie vs Trump vs Bloomberg? You couldn't have a better caricature of New York if you tried.
+DLauer	690936744494120961	2016-01-23T16:38:51	"But everyone *I* know voted for Bloomberg." -- Acela train morning after Trump landslide
+DLauer	690689699007086593	2016-01-23T00:17:11	I love snow
+DLauer	690638545208369152	2016-01-22T20:53:55	ExistentialTwitter 
+DLauer	690638119520096257	2016-01-22T20:52:13	HFBondsTrader Sounds like a normal weekend for you. What's different, the mac &amp; cheese?
+DLauer	690637940045844481	2016-01-22T20:51:30	rbattali You are. Cogito ergo sum?
+DLauer	690637182143430656	2016-01-22T20:48:30	Ok, who voted for BrokerCheck? Out yourself! 
+DLauer	690633343495442432	2016-01-22T20:33:15	Would you rather Review Bulge Bracket B/D BrokerCheck Reports or Gouge Your Own Eyes Out?
+DLauer	690603599890628608	2016-01-22T18:35:03	SniperInMahwah mechmarkets ThemisSal IEX I think meetings regarding a public rule filing / comment could easily be made public.
+DLauer	690416149037764609	2016-01-22T06:10:11	"The notion that people who have been lucky enough to make a lot of money know something or are worth listening to is a risky proposition."
+DLauer	690240234907439104	2016-01-21T18:31:10	CME and ICE oppose CFTC in their attempt to go after their customer, DRW,  for Manipulation 
+DLauer	690203304035487744	2016-01-21T16:04:25	TrilliumMJF I'm not trying to defend the manual open process based on this, I'm just trying to say it's not damning evidence.
+DLauer	690203055523008512	2016-01-21T16:03:26	TrilliumMJF SPY was very similar to QQQ and is a much more reasonable comparison than a low-liquidity ETF.
+DLauer	690193969301622785	2016-01-21T15:27:20	TrilliumMJF You should review SEC staff report - that's not accurate.
+DLauer	690186181959684097	2016-01-21T14:56:23	TrilliumMJF Most severe dislocation was in QQQ, which had everything open electronically and on-time.
+DLauer	690185667427569664	2016-01-21T14:54:20	Chris_arnade Amazingly ironic
+DLauer	690185426812981248	2016-01-21T14:53:23	Doubtful - doesn't really address even more severe issues in the Nasdaq-100 on 8/24. TrilliumMJF BATSGlobal
+DLauer	690167857817243648	2016-01-21T13:43:34	ThemisSal GPhillipNYC IEX That's at least part of my interpretation of their recent Best Ex guidance. I think it's a big deal.
+DLauer	690167689143283712	2016-01-21T13:42:54	ThemisSal GPhillipNYC IEX Yes, and there's a possibility, however slight, that FINRA is looking to change that.
+DLauer	690166970004697089	2016-01-21T13:40:02	GPhillipNYC ThemisSal IEX but that's because of conflicted order routing and liability, nothing having to do with retail exec quality.
+DLauer	690166886554796032	2016-01-21T13:39:43	GPhillipNYC ThemisSal the IEX mid doesn't have to be better than any others. retail won't go to any venue other than wholesalers.
+DLauer	690165281310769152	2016-01-21T13:33:20	MarketPlumber So why do you think there's such dramatic, public opposition. It's not out of the goodness of their hearts.
+DLauer	690163177607294976	2016-01-21T13:24:58	MarketPlumber You don't think the new guidance is concerning to them, specifically requirement to evaluate other markets?
+DLauer	690160117891866624	2016-01-21T13:12:49	Brokers will have to evaluate all trading venues in making order routing decisions, and price improvement comparisons will be compelling.
+DLauer	690159979182100480	2016-01-21T13:12:16	Shouldn't be surprising that one of largest retail wholesalers is so opposed to IEX, given the midpoint model &amp; recent FINRA BestEx guidance
+DLauer	690159596888014848	2016-01-21T13:10:45	Last chance to vote! What do you think? 
+DLauer	689966373255143424	2016-01-21T00:22:56	quantian1 only if you're subpoenaed
+DLauer	689906192106262528	2016-01-20T20:23:48	We're off the low, but also off the high since the low, yet still much higher than the low and not that much lower than the high.
+DLauer	689878685642592256	2016-01-20T18:34:30	EnergyRosen chigrl folks will infer whatever causality is convenient.
+DLauer	689878582106136577	2016-01-20T18:34:05	EnergyRosen chigrl 
+DLauer	689869877608370181	2016-01-20T17:59:30	Hilarious. "Our investment advice is often self-interested or deceitful". 
+DLauer	689851596080021505	2016-01-20T16:46:51	Wow, he invokes Heisenberg Uncertainty regarding the NBBO. 
+DLauer	689851357814194177	2016-01-20T16:45:55	Detailed, thoughtful examination of the pros/cons of the IEX exchange application by Jefferies: 
+DLauer	689846056633368580	2016-01-20T16:24:51	JoeSaluzzi Of course! All of the ones that get sent to NYSE, right?
+DLauer	689845528729927680	2016-01-20T16:22:45	Right back with the crazy complexity of too many complex order types. 
+DLauer	689799072161599488	2016-01-20T13:18:09	Thank you for forcing the NYSE disclosure RegSCI 
+DLauer	689801631207153664	2016-01-20T13:28:19	I'm sure these edge cases have nothing to do with massive complexity of managing so many complex order types. 
+DLauer	689581030089609216	2016-01-19T22:51:44	Between BakingSteel and TheFoodLab, I've seriously upped my home pizza game. 
+DLauer	689570815684141056	2016-01-19T22:11:08	Microsoft to Donate $1 Billion in Cloud Services to Nonprofits and Researchers  via nytimesbits Standup commitment.
+DLauer	689571458423623680	2016-01-19T22:13:41	Chris_arnade IvanTheK this is way too tempting.
+DLauer	689571369290485762	2016-01-19T22:13:20	IvanTheK wouldn't it be crazy if we looked back on this as what turned Iowa and gave him a huge early boost?
+DLauer	689531154882523136	2016-01-19T19:33:32	Get your vote in! Just a few think IEX exch app should be denied, majority want unconditional approval. 
+DLauer	689474231650914304	2016-01-19T15:47:21	Deutsche Bank does a fantastic job of disclosure on their ATS, with impressive quantitative detail: 
+DLauer	689470061778599941	2016-01-19T15:30:47	DLauer LeveL ATS has been doing this forever too, not that I'm in the business of promoting dark pools. 
+DLauer	689460615434375168	2016-01-19T14:53:14	Two great quotes from GS comment letter on IEX. Echo healthymkts views.    
+DLauer	689457272741691394	2016-01-19T14:39:57	Do you think the SEC should approve the IEX exchange application?
+DLauer	689455010233495552	2016-01-19T14:30:58	(although to be fair, IEX and BIDS have been leaders here too): IEX:  BIDS: 
+DLauer	689454790716227585	2016-01-19T14:30:06	Goldman is now providing fantastic quantitative disclosures on SigmaX. A model for other dark pools. 
+DLauer	689453891096707072	2016-01-19T14:26:31	RemcoLenterman And what about other asset classes? Treasuries especially
+DLauer	689453809307779072	2016-01-19T14:26:12	RemcoLenterman Ok, makes sense. Do you think bank liquidity is important enough in FX to warrant last look?
+DLauer	689450759591714816	2016-01-19T14:14:05	RemcoLenterman Was last look found in other asset classes? Or just FX?
+DLauer	689450267545186304	2016-01-19T14:12:07	RemcoLenterman Ok, fair enough. Although to MOST people, 100s of ms is pretty fast.
+DLauer	689448906657140738	2016-01-19T14:06:43	RemcoLenterman To be fair, in order to do this properly, you need to do it REALLY fast!
+DLauer	687713047532580864	2016-01-14T19:09:02	Oooohh, Obama is proposing $4B of spending on driverless vehicles:  I can think of worse things to spend $4B on!
+DLauer	687708745565102080	2016-01-14T18:51:56	bencasselman Obviously you should name it CREAM, right Wu_Tang_Finance?
+DLauer	687631295355162625	2016-01-14T13:44:11	Interesting article on the increase in dark trading in Europe, despite regulatory efforts to slow it: 
+DLauer	687630176197414912	2016-01-14T13:39:44	Looks like jmccrank read it the same way we did. Didn't even touch on routing issue.  
+DLauer	687610035590017024	2016-01-14T12:19:42	nanexllc ThemisSal LizMoyer I'm not disagreeing with you on the content, I read their letter same as you.
+DLauer	687607468529172482	2016-01-14T12:09:30	ThemisSal LizMoyer nanexllc could've been a mistake/misunderstanding, yes? In context of other letters, easy to get confused.
+DLauer	687366592124944384	2016-01-13T20:12:20	RemcoLenterman FIAPTG Um.. we are.
+DLauer	687364852340383744	2016-01-13T20:05:26	It's not as simple as saying "get rid of Rule 611 and everything will work out."
+DLauer	687364756936724480	2016-01-13T20:05:03	Yes, many agree. But you can't do anything about it without significant changes to Best Ex and disclosure. 
+DLauer	687363820348641281	2016-01-13T20:01:20	AlgoTrdr RemcoLenterman amacker GoldmanSachs yes of course, that was a typo. Or brainfart. Whichever you prefer.
+DLauer	687361278004871168	2016-01-13T19:51:13	RemcoLenterman amacker mechmarkets AlgoTrdr Here's our presentation at EMSAC on Rule 611: 
+DLauer	687360763929886720	2016-01-13T19:49:11	RemcoLenterman AlgoTrdr amacker GoldmanSachs Sounds exactly like the healthymkts position. We don't think exchs should route orders.
+DLauer	687360684351422464	2016-01-13T19:48:52	RemcoLenterman AlgoTrdr amacker Sounds like GoldmanSachs supports IEX application as-is, but urges re-exam of broker order routing.
+DLauer	687327106225815552	2016-01-13T17:35:26	paulvigna Actually not too stupid. While it won't happen - if it did, your company would probably go under too and you'd be out of a job.
+DLauer	686920611021615105	2016-01-12T14:40:10	SEC Priorities 2016...  concerned about leveraged and esoteric ETFs. Which is why they approved a Put-Writing ETF: 
+DLauer	686966235238645760	2016-01-12T17:41:28	guywebster TheFoodLab AyaAlt I like roast pork. Cheesesteak tastes like home.
+DLauer	686965451402928128	2016-01-12T17:38:21	TheFoodLab guywebster ayaalt (we've never spoken, but I'm obsessed with your cookbook) that's because you're not from Philly. :)
+DLauer	686962603793461248	2016-01-12T17:27:02	I wish irenealdridge didn't block me so she could see me making fun of this.   Wait, no I don't.  
+DLauer	686911360052146177	2016-01-12T14:03:25	RemcoLenterman why did you do this to me?
+DLauer	686905607681650689	2016-01-12T13:40:33	ThemisSal WOW!
+DLauer	686387469353402368	2016-01-11T03:21:39	TheFoodLab AyaAlt guywebster here you're wrong. You can get something called a cheesesteak elsewhere, but they never compare.
+DLauer	686294470086782978	2016-01-10T21:12:07	DeepSkyMaven LACES OUT!
+DLauer	685459140966281216	2016-01-08T13:52:49	Unemployment would probably be negative by now. ThanksObama 
+DLauer	685458246862278656	2016-01-08T13:49:15	HFBondsTrader You forgot the part where they destroyed the American economy.
+DLauer	685450175897321472	2016-01-08T13:17:11	I wonder if there is a natural limit to the number of options exchanges? 
+DLauer	685447861362896896	2016-01-08T13:07:59	elnunesio mkt_strctr_guy Aside from the order router.
+DLauer	685447793020895232	2016-01-08T13:07:43	elnunesio mkt_strctr_guy If there was no latency diff btw SIP and DF, that would address significant portion of your concerns, yes?
+DLauer	685194332329095168	2016-01-07T20:20:33	elnunesio I think you're mistaken on some of your points, but I can't imagine a way to explain it that doesn't involve a whiteboard.
+DLauer	685128744827252736	2016-01-07T15:59:56	mechmarkets RemcoLenterman DLauer agreed, exacerbates and postpones problem. US needs a better price extension mechanism for (re-)opens.
+DLauer	685120223804981250	2016-01-07T15:26:04	MarketPlumber RemcoLenterman antoniabmassa even still, qualities of market very important too. 
+DLauer	685119178093817857	2016-01-07T15:21:55	RemcoLenterman antoniabmassa agreed, that's a much more reasonable level.
+DLauer	685117199527329792	2016-01-07T15:14:03	RemcoLenterman antoniabmassa and by "tweaking" they mean throwing their hands up and suspending!
+DLauer	685113482925207552	2016-01-07T14:59:17	Chinese markets don't meet those criteria- simply copying US mechanisms doesn't work. No cheap jokes on ripping off IP and cheap knockoffs.
+DLauer	685113185955901440	2016-01-07T14:58:06	Circuit breakers can work as liquidity refresh mechanisms for liquid, diverse markets where participants are confident and experienced.
+DLauer	685112942463959041	2016-01-07T14:57:08	RemcoLenterman antoniabmassa who knew?
+DLauer	685098704269897728	2016-01-07T14:00:34	China's 29 minutes of chaos... here's what happened  
+DLauer	684914225874104320	2016-01-07T01:47:31	It's been over 3 years now since the SEC approved the Consolidated Audit Trail and they still haven't picked a bidder to build it yet.
+DLauer	684722309362483201	2016-01-06T13:04:54	Excited to announce the expansion of the healthymkts board, 2 great securities law professors: 
+DLauer	684535267127083008	2016-01-06T00:41:40	Credit Suisse U.S. stock trading chief Mathisson is leaving bank, told employees today of plans to start new business - DJ
+DLauer	684538511618359296	2016-01-06T00:54:33	RemcoLenterman mechmarkets Happy to take this offline to have a more substantive conversation so I can show you what I'm talking about.
+DLauer	684538387987050496	2016-01-06T00:54:04	RemcoLenterman mechmarkets We're obviously talking about 2 very different things. I'm talking about market data volumes.
+DLauer	684492382067396612	2016-01-05T21:51:15	RemcoLenterman mechmarkets when seconds per msg go down, msgs per second go up. You're mistaken on this point, I witnessed it firsthand.
+DLauer	684477562475524096	2016-01-05T20:52:22	RemcoLenterman mechmarkets you would include the spread networks line in that statement?
+DLauer	684473952249470976	2016-01-05T20:38:01	J.P. Morgan Fires KCG Holdings as Its NYSE Market Maker      via WSJ
+DLauer	684474612625743872	2016-01-05T20:40:39	RemcoLenterman mechmarkets I specialized in measuring &amp; reducing latency and building trading systems that could handle millions of msgs/s
+DLauer	684472068403032066	2016-01-05T20:30:32	RemcoLenterman mechmarkets I lived this for years. I respectfully disagree.
+DLauer	684463356535767041	2016-01-05T19:55:55	RemcoLenterman mechmarkets 
+DLauer	684448573547757570	2016-01-05T18:57:11	mechmarkets ThemisSal The question remains, to what extent are non-arrival-normalized routers still used.
+DLauer	684448464894320642	2016-01-05T18:56:45	mechmarkets ThemisSal But I don't think it was widely done across fragmented equity market centers until Thor.
+DLauer	684448354978369536	2016-01-05T18:56:18	mechmarkets ThemisSal It's true, I remember seeing this across asset classes at one place I was at.
+DLauer	684445871451299840	2016-01-05T18:46:26	mechmarkets ThemisSal Was there any measurable spread-widening w/ proliferation of THOR-like tech that made it riskier to overquote?
+DLauer	684438512012275712	2016-01-05T18:17:12	RemcoLenterman Strange to limit it to w/in NBBO. Also strange to exclude situations in which the bona-fide order entered before the non-bf
+DLauer	684382697100324865	2016-01-05T14:35:24	New Year… same old story: On Dec. 31st TMX announced a market data fee increase. Go to  - demand lower fees!
+DLauer	684380393907290112	2016-01-05T14:26:15	ThemisSal RemcoLenterman politico ltabb elnunesio Article clearly states that it was produced by IEX.
+DLauer	684368080332537856	2016-01-05T13:37:19	Sounds like neither Nasdaq, nor BATS and NYSE had an issue with it back then. Strange that they are so concerned about IEX now.
+DLauer	684367904679292928	2016-01-05T13:36:38	In this 2012 filing from Nasdaq, they recv'd approval for simultaneously hitting their book and routing orders out: 
+DLauer	684367695333212160	2016-01-05T13:35:48	Here's the Nasdaq filing IEX refers to, describes exact latency arbitrage issue on pg 5-6:  
+DLauer	684365561833361408	2016-01-05T13:27:19	jgreco Have you read anything I've written? I'm always trying to suggest constructive, pragmatic solutions.
+DLauer	684365405285122048	2016-01-05T13:26:42	jgreco I'm not redirecting. Huge amount of academic lit on mkt/exec quality. Why do I need to recap it for you?
+DLauer	684365289199419392	2016-01-05T13:26:14	mechmarkets at some point, diminishing returns set in from latency reduction, which I believe was hit long ago.
+DLauer	684365223948582913	2016-01-05T13:25:58	mechmarkets See my previous two tweets. I disagree with you and have seen no evidence that supports such a proposition.
+DLauer	684364826781577216	2016-01-05T13:24:24	jgreco because it's simply intuitive to see that any latency reduction increases messaging volume, which is a tax on entire industry.
+DLauer	684364734330699776	2016-01-05T13:24:02	jgreco Absolutely not vague. Show me any evidence that latency reduction of us (or even low single-digit ms) has impact on mkt quality.
+DLauer	684363946850168834	2016-01-05T13:20:54	RemcoLenterman Sounds exhausting. And time consuming.
+DLauer	684190808724127744	2016-01-05T01:52:55	jgreco anything that reduces latency past a threshold where exec quality improves creates message traffic pollution.
+DLauer	684182756167958528	2016-01-05T01:20:55	jgreco Agree a tough question, but better regulation could help. Regs need to step in when pollution socializes costs, privatizes benefits.
+DLauer	684175677587853312	2016-01-05T00:52:47	Nearly all market participants agree that the socially wasteful latency race to 0 should end.
+DLauer	684175369012928512	2016-01-05T00:51:33	Somehow this is supposed to improve market efficiency and execution quality? Socially wasteful race to 0 continues. 
+DLauer	684148919136337921	2016-01-04T23:06:27	pauld44 ThemisSal and in this context there is a reasonable analogy to the "oversizing" of quotes across market centers.
+DLauer	684148825460715521	2016-01-04T23:06:05	pauld44 ThemisSal I had actually assumed the over-sizing in futures the letter refers to was because of pro-rata allocations.
+DLauer	684145765795651584	2016-01-04T22:53:56	pauld44 ThemisSal you don't think an equal or greater amount of manipulation is occurring in equities?
+DLauer	684119957538484225	2016-01-04T21:11:22	3 software standards:  InfoSec: must always work  WebDev: must almost always work  Machine Learning: must work more often than a coin flip
+DLauer	684144732545626113	2016-01-04T22:49:49	You're right. Didn't mean I couldn't laughing at the absurdity of the letter. 
+DLauer	684136938534731778	2016-01-04T22:18:51	ThemisSal I mental image I can never un-see. I blame RemcoLenterman.
+DLauer	684133357626781697	2016-01-04T22:04:37	Marx Brothers and market structure. Who knew? 
+DLauer	684132309084278785	2016-01-04T22:00:27	ThemisSal SEC_News matt_levine This is definitely a winner. 
+DLauer	684131751497723904	2016-01-04T21:58:14	Discount brokers have enriched themselves and the wholesalers by convincing the industry &amp; regulators that they represent "mom and pop". BS.
+DLauer	684131088420237316	2016-01-04T21:55:36	Discount brokers represent active day traders - NOT mom-and-pop investors.  Mutual funds and institutions represent mom-and-pop retirements.
+DLauer	684130930341081088	2016-01-04T21:54:58	I've said it before and will say it again - equating discount broker interests with that of "retail" is dangerous conflation.
+DLauer	684129893756604425	2016-01-04T21:50:51	This is hilarious. The tone and signatory are both reminiscent of RTL, so that's my guess.  
+DLauer	684047990974214144	2016-01-04T16:25:24	Need to stop following this maniac. 
+DLauer	682574086246133764	2015-12-31T14:48:38	Finish out your year by supporting a great organization trying to address extreme poverty. Give_Directly. 
+DLauer	682186479343239168	2015-12-30T13:08:25	Maxterhater I think the last paragraph of their comment letter is pretty unequivocal. Clearly they disagree with FIA PTG and MM.
+DLauer	682186235842965508	2015-12-30T13:07:27	It also appears that critics of IEX stand to lose quite a bit if the exch app is approved. 
+DLauer	682186090942300160	2015-12-30T13:06:53	I believe the $4T of AUM lined up in support of IEX understand these issues very well. 
+DLauer	682185957332799488	2015-12-30T13:06:21	I would never advocate that. However, critics of IEX claim that supporters don't understand complex issues at stake 

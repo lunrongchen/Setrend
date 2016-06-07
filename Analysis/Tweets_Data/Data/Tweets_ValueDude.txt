@@ -1,0 +1,1 @@
+ValueDude	699679693562322944	2016-02-16T19:40:13	If Weather &gt;= average,       mood = "I love NYC!" Else      mood = "WTF do I not live in southern California?!?!"  Print mood.

@@ -1,0 +1,1110 @@
+Banxico	726148785743663106	2016-04-29T20:38:56	Dos nuevos miembros independientes del Comité Técnico del Fondo Mexicano del Petróleo: Jesús Marcos y Jordy Herrera, 
+Banxico	726148167163478017	2016-04-29T20:36:28	Celebra Fondo Mexicano del Petróleo 2a. sesión ordinaria del año, aprueba informe anual 2015 y 1er. trimestre 2016: 
+Banxico	726130390604218368	2016-04-29T19:25:50	Peso/dollar FIX ExchangeRate of the last 5 working days. Peso gained 41 cents vs. dollar during the week.  **
+Banxico	726128829719142401	2016-04-29T19:19:38	91-day TIIE (04/29/2016): 4.1159% 
+Banxico	726128648361631744	2016-04-29T19:18:55	28-day TIIE (04/29/2016): 4.0655% 
+Banxico	726128412717260800	2016-04-29T19:17:59	FIX ExchangeRate for 04/29/2016 (MXN/USD): 17.1767 
+Banxico	726127658900185088	2016-04-29T19:14:59	Target rate (04/29/2016)(annual percent): 3.75 
+Banxico	726126679517630464	2016-04-29T19:11:05	UDI value (04/29/2016): 5.450862 
+Banxico	726108800571179008	2016-04-29T18:00:03	Tasa de interés objetivo(29/04/2016), valor: 3.75 
+Banxico	726101459259936768	2016-04-29T17:30:52	TIIE 91(29/04/2016), valor: 4.1159 
+Banxico	726101348077301760	2016-04-29T17:30:26	TIIE 28(29/04/2016), valor: 4.0655 
+Banxico	726094920008638465	2016-04-29T17:04:53	Tipo de cambio FIX en la semana (lun-vie). Hoy 17.1767 pesos por dólar. El dólar 41 centavos más bajo que el lunes / 
+Banxico	726093832761171968	2016-04-29T17:00:34	FIX determinado el 29/04/2016 (Pesos por dólar), valor: 17.1767 
+Banxico	726050261274267648	2016-04-29T14:07:26	Incrementos anuales términos reales: crédito al consumo 9.8%; crédito a la vivienda 9.7%; crédito a empresas 12.7%/ 
+Banxico	726049520384012288	2016-04-29T14:04:29	Cartera de crédito vigente de la banca comercial al sector privado crecimiento real anual de 11.1 por ciento, 
+Banxico	726049146478583808	2016-04-29T14:03:00	Financiamiento otorgado por la banca comercial aumentó 5.2 por ciento anual real en marzo de 2016: 
+Banxico	726048867234406401	2016-04-29T14:01:53	Agregados monetarios y actividad financiera, marzo 2016: 
+Banxico	725770553139712000	2016-04-28T19:35:58	Peso gains 19 cents (1.1%) vs.dollar: today´s FIX ExchangeRate is 17.2125 MXN/USD, yesterday´s: 17.3993 MXN/USD;  **
+Banxico	725767967305125889	2016-04-28T19:25:42	Cae 1.1% (19 centavos) el precio del dólar. Tipo de cambio FIX hoy: 17.2125 pesos/dólar; ayer, 17.3993 pesos/dólar. 
+Banxico	725761281194487809	2016-04-28T18:59:08	91-day TIIE (04/28/2016): 4.1150% 
+Banxico	725760918106181632	2016-04-28T18:57:41	28-day TIIE (04/28/2016): 4.0650% 
+Banxico	725760352495898624	2016-04-28T18:55:26	FIX ExchangeRate for 04/28/2016 (MXN/USD): 17.2125 
+Banxico	725759905634754560	2016-04-28T18:53:40	Target rate (04/28/2016)(annual percent): 3.75 
+Banxico	725759622368256000	2016-04-28T18:52:32	UDI value (04/28/2016): 5.452118 
+Banxico	725394519710158848	2016-04-27T18:41:45	Peso gains slightly vs. dollar: today´s FIX ExchangeRate is 17.3993 MXN/USD, yesterday´s: 17.4298 MXN/USD;  **
+Banxico	725393904619540480	2016-04-27T18:39:18	182-day TIIE (04/27/2016): 4.2222% 
+Banxico	725393649874259968	2016-04-27T18:38:17	91-day TIIE (04/27/2016): 4.1150% 
+Banxico	725393494534029313	2016-04-27T18:37:40	28-day TIIE (04/27/2016): 4.0650% 
+Banxico	725393112529408000	2016-04-27T18:36:09	Target rate (04/27/2016)(annual percent): 3.75 
+Banxico	725392907507666945	2016-04-27T18:35:20	UDI value (04/27/2016): 5.453373 
+Banxico	725376625559265280	2016-04-27T17:30:39	TIIE 182(27/04/2016), valor: 4.2222 
+Banxico	725370847779799040	2016-04-27T17:07:41	Cae de forma marginal el precio del dólar. Tipo de cambio FIX hoy es 17.3993 pesos por dólar; ayer fue 17.4298, 
+Banxico	725368935336398848	2016-04-27T17:00:05	Resultados de la subasta de cupones segregados de Udibonos 
+Banxico	725047724089987074	2016-04-26T19:43:42	Peso gains 16 cents (+0.9%) vs. dollar: today´s FIX ExchangeRate is 17.4298 MXN/USD, yesterday´s: 17.5866;  **
+Banxico	725047151085101058	2016-04-26T19:41:26	GovernmentSecurities auction results (Apr 26) (Cetes, 30-year Bonos, BondesD, 30-year Udibonos);  **
+Banxico	725046894842486789	2016-04-26T19:40:25	28-day Cetes (04/26/2016), yield(%): 3.76 
+Banxico	725046608111476737	2016-04-26T19:39:16	ForeignReserves (04/22/2016) (mdd): 177,651.8 
+Banxico	725045979892830208	2016-04-26T19:36:46	FIX ExchangeRate for 04/26/2016 (MXN/USD): 17.4298 
+Banxico	725045226889469952	2016-04-26T19:33:47	Target rate (04/26/2016)(annual percent): 3.75 
+Banxico	725044938774335488	2016-04-26T19:32:38	UDI value (04/26/2016): 5.454629 
+Banxico	725014047624716288	2016-04-26T17:29:53	Recupera 16 centavos (+0.9%) el peso frente al dólar. La cotización FIX de hoy es 17.4298 p/d; ayer 17.5866 p/d. 
+Banxico	725000607849816065	2016-04-26T16:36:29	Udibonos 30 años colocados hoy: tasa real implícita: 3.69%, ver más de la subasta de valores gubernamentales aquí: 
+Banxico	724999607604768768	2016-04-26T16:32:30	Subasta primaria de valores gubernamentales: suben tasas de Cetes a 28 y 91 días, bajan a 182 y 336 días, ver más: 
+Banxico	724999014333091840	2016-04-26T16:30:09	CETES 28(26/04/2016), valor: 3.76 
+Banxico	724962708878184448	2016-04-26T14:05:53	Banxico realizó operaciones de mercado abierto para compensar contracción neta de liquidez por 153,036 mdp / 
+Banxico	724961848248946689	2016-04-26T14:02:28	Reserva internacional: disminuyó en la semana 13 millones de dólares (mdd), su saldo el viernes. 177,652 mdd / 
+Banxico	724961311981887488	2016-04-26T14:00:20	Reservas internacionales (mdd)(22/04/2016), valor: 177,651.8 
+Banxico	724680943726792705	2016-04-25T19:26:15	Peso loses 15 cents vs. dollar: today´s FIX ExchangeRate is 17.5866 MXN/USD, last Friday´s: 17.4359 MXN/USD  **
+Banxico	724680055050260480	2016-04-25T19:22:43	91-day TIIE (04/25/2016): 4.1150% 
+Banxico	724679788850348032	2016-04-25T19:21:40	28-day TIIE (04/25/2016): 4.0650% 
+Banxico	724679524546318337	2016-04-25T19:20:37	FIX ExchangeRate for 04/25/2016 (MXN/USD): 17.5866 
+Banxico	724679225345642496	2016-04-25T19:19:25	Target rate (04/25/2016)(annual percent): 3.75 
+Banxico	724679030566309888	2016-04-25T19:18:39	UDI value (04/25/2016): 5.455886 
+Banxico	724647011270561792	2016-04-25T17:11:25	Sube el precio del dólar 15 centavos respecto del viernes. FIX hoy es 17.5866 pesos por dólar; el viernes, 17.4359, 
+Banxico	724619240376954880	2016-04-25T15:21:04	Próximo viernes se publica "Agregados monetarios y actividad financiera marzo de 2016, ver comunicados anteriores: 
+Banxico	724618178622447616	2016-04-25T15:16:51	¿Sabe usted cómo afecta negativamente la inflación a la distribución del ingreso?, ver aquí: 
+Banxico	724617587259113472	2016-04-25T15:14:30	Conozca los cuatro tipos de riesgo a que están sujetos los sistemas de pago, temas de divulgación Banxico: 
+Banxico	723557573614440448	2016-04-22T17:02:23	El tipo de cambio FIX en la semana (lun-vie). Hoy se determinó en 17.4359 pesos por dólar (ayer 17.4202 pesos/dólar) 
+Banxico	723551029757767680	2016-04-22T16:36:23	Convocatoria a subasta de cupones Segregados de Udibonos 
+Banxico	723501481425424384	2016-04-22T13:19:29	Inflación anual general primera quincena de abril: 2.6 por ciento. Inflación anual subyacente 2.79 por ciento, informa INEGI.
+Banxico	723207595897442309	2016-04-21T17:51:42	Sube 0.6% (11 centavos) precio del dólar. Tipo de cambio FIX hoy 17.4202 pesos/dólar; ayer, 17.3078 pesos/dólar, 
+Banxico	722840053886484482	2016-04-20T17:31:13	TIIE 182(20/04/2016), valor: 4.2200 
+Banxico	722834360198520832	2016-04-20T17:08:35	Sube 3 centavos (0.15%) el precio del dólar. FIX de hoy 17.3078 pesos por dólar; ayer, 17.2825 pesos por dólar, 
+Banxico	722567184308830210	2016-04-19T23:26:56	"Recent Developments and Outlook for the Mexican Economy", Agustín Carstens, Gobernador de Banco de México (di... 
+Banxico	722539329105473536	2016-04-19T21:36:14	"Is Mexico different from other emerging economies?", Manuel Sánchez, Subgobernador del Banco de México (dispo... 
+Banxico	722491853694631936	2016-04-19T18:27:35	Peso appreciates 18 cents (1%) vs. dollar: today´s FIX ExchangeRate is 17.2825 MXN/USD, yesterday´s: 17.4598;  **
+Banxico	722489167129616384	2016-04-19T18:16:55	Target rate (04/19/2016)(annual percent): 3.75 
+Banxico	722488763608268800	2016-04-19T18:15:19	GovernmentSecurities auction results (Apr 19) (Cetes, 5-year Bonos, 10-year Udibonos)  **
+Banxico	722488192641839105	2016-04-19T18:13:02	28-day Cetes (04/19/2016), yield(%): 3.74 
+Banxico	722483350544392197	2016-04-19T17:53:48	ForeignReserves (mdd)(04/15/2016): 177,664.6 
+Banxico	722482786049732608	2016-04-19T17:51:33	UDI value (04/19/2016): 5.452586 
+Banxico	722470794081619968	2016-04-19T17:03:54	Baja el precio del dólar 1% (se aprecia el peso18 centavos). FIX hoy es 17.2825 pesos por dólar; ayer, 17.4598, 
+Banxico	722464913063419906	2016-04-19T16:40:32	Resultados subasta primaria valores gubernamentales. Cetes (28, 91 y 175 días); Bonos 5 años y Udibonos 10 años ver: 
+Banxico	722464312078389250	2016-04-19T16:38:09	Subasta primaria de valores gubernamentales. La tasa de Cetes a 28 días sin cambio, permanece en 3.74%, ver más: 
+Banxico	722462105664815106	2016-04-19T16:29:23	CETES 28(19/04/2016), valor: 3.74 
+Banxico	722426759476424704	2016-04-19T14:08:56	Se registra en el estado de cuenta semanal Banxico depósito en la Tesorería de la Federación de 239,093.8 mdp: 
+Banxico	722426104892366853	2016-04-19T14:06:20	Banco de México realizó operaciones de mercado abierto para compensar expansión neta de liquidez por 40,839 mdp: 
+Banxico	722425557267271681	2016-04-19T14:04:09	La semana pasada el Gobierno Federal le compró 15 millones de dólares al Banco de México, ver estado de cuenta: 
+Banxico	722425249996734465	2016-04-19T14:02:56	Estado de cuenta semanal de Banxico: la variación anual de la base monetaria fue de 15.5 por ciento: 
+Banxico	722424989610192896	2016-04-19T14:01:54	Disminuyeron 11 millones de dólares las reservas internacionales, su saldo: 177,665 mdd, estado de cuenta Banxico: 
+Banxico	722424599284031490	2016-04-19T14:00:21	Reservas internacionales (mdd)(15/04/2016), valor: 177,664.6 
+Banxico	722394318497927168	2016-04-19T12:00:01	UDIS(19/04/2016), valor: 5.452586 
+Banxico	722141945821179905	2016-04-18T19:17:11	Peso gains 11 cents (0.6%) vs. dollar: today´s FIX ExchangeRate is 17.4598 MXN/USD, last Friday´s: 17.5669;  **
+Banxico	722141303660634112	2016-04-18T19:14:38	91-day TIIE (04/18/2016): 4.1158% 
+Banxico	722141098123001856	2016-04-18T19:13:49	28-day TIIE (04/18/2016): 4.0652%; 
+Banxico	722140621264150528	2016-04-18T19:11:55	FIX ExchangeRate for 04/18/2016 (MXN/USD): 17.4598 
+Banxico	722140409615425537	2016-04-18T19:11:05	Target rate (04/18/2016)(annual percent): 3.75 
+Banxico	722140210369208320	2016-04-18T19:10:17	UDI value (04/18/2016): 5.452036 
+Banxico	722122536423596032	2016-04-18T18:00:03	Tasa de interés objetivo(18/04/2016), valor: 3.75 
+Banxico	722115135200866305	2016-04-18T17:30:39	TIIE 91(18/04/2016), valor: 4.1158 
+Banxico	722115119262470144	2016-04-18T17:30:35	TIIE 28(18/04/2016), valor: 4.0652 
+Banxico	722113758575759364	2016-04-18T17:25:10	Baja 11 centavos (0.6%) precio del dólar. Tipo de cambio FIX hoy 17.4598 pesos/dólar; viernes: 17.5669 pesos/dólar, 
+Banxico	722107747072737280	2016-04-18T17:01:17	FIX determinado el 18/04/2016 (Pesos por dólar), valor: 17.4598 
+Banxico	722092816805994496	2016-04-18T16:01:58	"Monetary Policy Outlook in a Negative Rates Environment", Javier Guzmán, Subgobernador del Banco de México (d... 
+Banxico	721059486320840704	2016-04-15T19:35:52	"Comparecencia ante el Senado de la República", Agustín Carstens, Gobernador de Banco de México 
+Banxico	721054548949766144	2016-04-15T19:16:15	FIX ExchangeRate for this week (Mon-Fri). Today: 17.5669 MXN/USD; yesterday: 17.3880;  **
+Banxico	721053626421018624	2016-04-15T19:12:35	91-day TIIE (04/15/2016): 4.1150% 
+Banxico	721053440051286016	2016-04-15T19:11:51	28-day TIIE (04/15/2016): 4.0650% 
+Banxico	721052947249889280	2016-04-15T19:09:53	FIX ExchangeRate for 04/15/2016 (MXN/USD): 17.5669 
+Banxico	721052677690433536	2016-04-15T19:08:49	Target rate (04/15/2016)(annual percent): 3.75 
+Banxico	721052391873744897	2016-04-15T19:07:41	UDI value (04/15/2016): 5.450387 
+Banxico	721021711366246402	2016-04-15T17:05:46	Tipo de cambio FIX a lo largo de la semana (l-v). Hoy se determinó en 17.5669 pesos por dólar; ayer: 17.3880, 
+Banxico	720725998946234368	2016-04-14T21:30:43	Peso gains 10 cents vs. dollar: today´s FIX ExchangeRate is 17.3880 MXN/USD, yesterday´s: 17.4900 MXN/USD;  **
+Banxico	720696552512036864	2016-04-14T19:33:42	Recupera 10 centavos el peso ante el dólar. El tipo de cambio FIX determinado hoy es 17.3880 p/d; ayer 17.4900 p/d. 
+Banxico	720683078637592577	2016-04-14T18:40:10	Target rate (04/14/2016)(annual percent): 3.75  
+Banxico	720673217824690181	2016-04-14T18:00:59	91-day TIIE (04/14/2016): 4.1150% 
+Banxico	720672874822914048	2016-04-14T17:59:37	28-day TIIE (04/14/2016): 4.0650% 
+Banxico	720672185891758081	2016-04-14T17:56:53	FIX ExchangeRate for 04/14/2016 (MXN/USD): 17.3880 
+Banxico	720671518057824256	2016-04-14T17:54:13	UDI value (04/14/2016): 5.449838 
+Banxico	720615239880876032	2016-04-14T14:10:36	Entre el 10 y 20 % de trabajadores informales preferiría un empleo formal (documentos de investigación Banxico): 
+Banxico	720613783245164544	2016-04-14T14:04:48	Trabajadores que laboran en un municipio diferente de aquel en el que residen tienden a ganar más, ver, pág. 14: 
+Banxico	720328370366459904	2016-04-13T19:10:41	Peso gains 0.5% vs. dollar: today´s FIX ExchangeRate is 17.4900 MXN/USD, yesterday´s: 17.5719 MXN/USD;   **
+Banxico	720327282657611776	2016-04-13T19:06:21	182-day TIIE (04/13/2016): 4.2300% 
+Banxico	720327085097504769	2016-04-13T19:05:34	91-day TIIE (04/13/2016): 4.1125% 
+Banxico	720326853890682880	2016-04-13T19:04:39	28-day TIIE (04/13/2016): 4.0618% 
+Banxico	720326679348908036	2016-04-13T19:03:58	FIX ExchangeRate for 04/13/2016 (MXN/USD): 17.4900 
+Banxico	720326211428192257	2016-04-13T19:02:06	Target rate (04/13/2016)(annual percent): 3.75 
+Banxico	720325666848137216	2016-04-13T18:59:56	UDI value (04/13/2016): 5.449289 
+Banxico	720303355189284864	2016-04-13T17:31:17	TIIE 182(13/04/2016), valor: 4.2300 
+Banxico	720298935273672704	2016-04-13T17:13:43	Nuevo descenso del precio del dolar, ahora de 0.5 por ciento. El FIX determinado hoy en 17.49 pesos por dólar, 
+Banxico	719973724288471041	2016-04-12T19:41:26	Aumenta 199 millones de dólares reserva internacional. Saldo: 177,676 mdd.  Estado de cuenta semanal Banxico: 
+Banxico	719972198602027009	2016-04-12T19:35:23	Peso gains 7 cents vs. dollar: today´s FIX ExchangeRate is 17.5719 MXN/USD, yesterday´s: 17.6452 MXN/USD;  **
+Banxico	719970038740979713	2016-04-12T19:26:48	FIX ExchangeRate for 04/12/2016 (MXN/USD): 17.5719  
+Banxico	719969154162237440	2016-04-12T19:23:17	91-day TIIE (04/12/2016): 4.1125% 
+Banxico	719968867427090432	2016-04-12T19:22:09	28-day TIIE (04/12/2016): 4.0625% 
+Banxico	719968566112464897	2016-04-12T19:20:57	ForeignReserves (mdd)(04/08/2016): 177,675.8 
+Banxico	719967222102274048	2016-04-12T19:15:36	GovernmentSecurities auction results (Apr 12) (Cetes, 20-year Bonos, BondesD);  **
+Banxico	719966922545041410	2016-04-12T19:14:25	28-day Cetes (04/12/2016), yield(%): 3.74 
+Banxico	719965904348446720	2016-04-12T19:10:22	Target rate (04/12/2016)(annual percent): 3.75 
+Banxico	719965686303358976	2016-04-12T19:09:30	UDI value (04/12/2016): 5.448739 
+Banxico	719965233612083200	2016-04-12T19:07:42	Resultados subasta primaria de valores gubernamentales: sube un punto base tasa de Cetes 28 días a 3.74%, ver más: 
+Banxico	719947152185622528	2016-04-12T17:55:51	El precio del dólar disminuye 7 centavos. Hoy el tipo de cambio FIX es 17.5719 pesos/dólar; ayer: 17.6452 p/d. 
+Banxico	719925501867864064	2016-04-12T16:29:49	CETES 28(12/04/2016), valor: 3.74 
+Banxico	719887844190199808	2016-04-12T14:00:11	Reservas internacionales (mdd)(08/04/2016), valor: 177,675.8 
+Banxico	719609199672500228	2016-04-11T19:32:57	Determina Junta de Gobierno remanente de operación 2015 a entregar al Gobierno Federal: 239,093.8 mdp, ver: 
+Banxico	719604840368713729	2016-04-11T19:15:38	Peso gains 9 cents (0.5%) vs.dollar: today´s FIX ExchangeRate is 17.6452 MXN/USD, last Friday´s: 17.7391 MXN/USD  **
+Banxico	719603234554273792	2016-04-11T19:09:15	91-day TIIE (04/11/2016): 4.1130% 
+Banxico	719602657791356929	2016-04-11T19:06:57	28-day TIIE (04/11/2016): 4.0625% 
+Banxico	719602226331684864	2016-04-11T19:05:14	FIX ExchangeRate for 04/11/2016 (MXN/USD): 17.6452 
+Banxico	719601739704369152	2016-04-11T19:03:18	Target rate (04/11/2016)(annual percent): 3.75 
+Banxico	719600982141702144	2016-04-11T19:00:18	Determinación del Remanente de Operación delBanco de México correspondiente al ejercicio 2015 
+Banxico	719594942851514368	2016-04-11T18:36:18	UDI value (04/11/2016): 5.448190 
+Banxico	719573232504803329	2016-04-11T17:10:02	Baja 9 centavos (0.5%) el precio del dólar. Tipo de cambio FIX hoy: 17.6452 pesos por dólar; el viernes, 17.7391, 
+Banxico	719555365013037056	2016-04-11T15:59:02	¿De qué forma procura el Banco de México (Banxico ) su objetivo prioritario: lograr la estabilidad de precios?, ver 
+Banxico	719554798492594177	2016-04-11T15:56:47	¿Por qué son diferentes los balances de un banco central de los de un banco comercial?, ver la respuesta aquí: 
+Banxico	718523560784867328	2016-04-08T19:39:01	Weekly FIX ExchangeRate.Peso up 15 cts vs.dollar: today´s FIX ExchangeRate:17.7391 MXN/USD,yesterday´s:17.8930;  **
+Banxico	718521164407054337	2016-04-08T19:29:29	Next Banxico mon.pol.statement: Thursday, May 5, 2016 (see 2016 schedule, only in Spanish);  **
+Banxico	718519311858409472	2016-04-08T19:22:08	91-day TIIE (04/08/2016): 4.1161% 
+Banxico	718518968730787840	2016-04-08T19:20:46	28-day TIIE (04/08/2016): 4.0624% 
+Banxico	718518692930146305	2016-04-08T19:19:40	FIX ExchangeRate for 04/08/2016 (MXN/USD): 17.7391 
+Banxico	718518415925772288	2016-04-08T19:18:34	Target rate (04/08/2016)(annual percent): 3.75 
+Banxico	718518286468587520	2016-04-08T19:18:03	UDI value (04/08/2016): 5.446985 
+Banxico	718485113273585664	2016-04-08T17:06:14	Tipo de cambio FIX en la semana (l-v). Hoy se determinó en 17.7391 pesos por dólar (se aprecia el peso 15 cvs.) 
+Banxico	718203000662073344	2016-04-07T22:25:13	SabíasQue al cierre de marzo de 2016 había en circulación 612.59 millones de billetes de $100 
+Banxico	718437291216076800	2016-04-08T13:56:12	El próximo anuncio de política monetaria de Banxico está programado para el jueves 5 de mayo, ver calendario 2016: 
+Banxico	718436071525101568	2016-04-08T13:51:22	Aquí :  puede consultar el estado de conexión de todas las instituciones participantes en el SPEI de Banxico.
+Banxico	718163150755930112	2016-04-07T19:46:52	Dollar gains 0.9% vs. peso: today´s FIX ExchangeRate is 17.8930 MXN/USD, yesterday´s: 17.7286 MXN/USD;  **
+Banxico	718162621594087426	2016-04-07T19:44:46	According to INEGI, annual headline inflation: 2.6% (at end/March 2016); annual core inflation: 2.76% (same period). **
+Banxico	718161612838842368	2016-04-07T19:40:45	91-day TIIE (04/07/2016): 4.1150% 
+Banxico	718160207289786372	2016-04-07T19:35:10	28-day TIIE (04/07/2016): 4.0650% 
+Banxico	718159246802554880	2016-04-07T19:31:21	FIX ExchangeRate for 04/07/2016 (MXN/USD): 17.8930 
+Banxico	718151335871315968	2016-04-07T18:59:55	Target rate (04/07/2016)(annual percent): 3.75 
+Banxico	718150935541714944	2016-04-07T18:58:20	UDI value (04/07/2016): 5.446658 
+Banxico	718121933535993857	2016-04-07T17:03:05	Sube 0.9% el precio del dólar. Tipo de cambio FIX hoy es 17.8930 pesos por dólar; ayer fue 17.7286 pesos por dólar: 
+Banxico	718064007282700288	2016-04-07T13:12:54	Inflación general anual de 2.6% al cierre de marzo de 2016 informa INEGI.  Inflación subyacente anual: 2.76 por ciento.
+Banxico	717790543997050881	2016-04-06T19:06:16	Peso remains stable vs. dollar: today´s FIX ExchangeRate is 17.7286 MXN/USD, yesterday´s: 17.7252 MXN/USD;  **
+Banxico	717789962192551936	2016-04-06T19:03:57	182-day TIIE (04/06/2016): 4.2250% 
+Banxico	717789706553962496	2016-04-06T19:02:56	91-day TIIE (04/06/2016): 4.1150% 
+Banxico	717789477691744256	2016-04-06T19:02:02	28-day TIIE (04/06/2016): 4.0661% 
+Banxico	717789205846368256	2016-04-06T19:00:57	FIX ExchangeRate for 04/06/2016 (MXN/USD): 17.7286 
+Banxico	717787071130144768	2016-04-06T18:52:28	Target rate (04/06/2016)(annual percent): 3.75 
+Banxico	717786895711744000	2016-04-06T18:51:46	UDI value (04/06/2016): 5.446630 
+Banxico	717767304545632257	2016-04-06T17:33:55	TIIE 182(06/04/2016), valor: 4.2250 
+Banxico	717765245419200512	2016-04-06T17:25:44	Estable el precio del dólar. Tipo de cambio FIX hoy 17.7286 pesos/dólar: ayer: 17.7252 pesos/dólar, 
+Banxico	717737009117179905	2016-04-06T15:33:32	Programa de Investigadores de Verano 2016 de la Dirección General de Asuntos del Sistema Financiero del Banco ... 
+Banxico	717711767686635520	2016-04-06T13:53:14	El SPID y administración de riesgos relacionados con prevención de operaciones con recursos de procedencia ilícita: 
+Banxico	717711185110372352	2016-04-06T13:50:55	Infraestructuras de los mercados financieros (IMF) en México, Mercado de derivados, SPEI y SPID: 
+Banxico	717427532908204032	2016-04-05T19:03:47	Dollar gains 1.6% vs. peso: today´s FIX ExchangeRate is 17.7252 MXN/USD, yesterday´s: 17.4484 MXN/USD;  **
+Banxico	717426667359043584	2016-04-05T19:00:21	91-day TIIE (04/05/2016): 4.1164% 
+Banxico	717426436554948609	2016-04-05T18:59:26	28-day TIIE (04/05/2016): 4.0653% 
+Banxico	717425987240112129	2016-04-05T18:57:39	FIX ExchangeRate for 04/05/2016 (MXN/USD): 17.7252 
+Banxico	717425775327059970	2016-04-05T18:56:48	InternationalReserves (04/01/2016) (mdd): 177,476.4; 
+Banxico	717424639685693440	2016-04-05T18:52:17	GovernmentSecurities auction results (Apr 5) (Cetes, 3-year Bonos, 3-year Udibonos);  **
+Banxico	717424374224068608	2016-04-05T18:51:14	28-day Cetes (04/05/2016), yield(%): 3.73 
+Banxico	717423757141225472	2016-04-05T18:48:47	Target rate (04/05/2016)(annual percent): 3.75 
+Banxico	717423392496832512	2016-04-05T18:47:20	UDI value (04/05/2016): 5.446003 
+Banxico	717413301370531841	2016-04-05T18:07:14	Las normas contables y la difusión de información transparente de Banxico están a la vanguardia en el mundo, ver: 
+Banxico	717411493973626880	2016-04-05T18:00:03	Tasa de interés objetivo(05/04/2016), valor: 3.75 
+Banxico	717398375507726340	2016-04-05T17:07:55	Sube 1.6% el precio del dólar. Tipo de cambio FIX hoy es 17.7252 pesos/dólar, ayer fue 17.4484 pesos/dólar: 
+Banxico	717397658516598785	2016-04-05T17:05:05	Resultados de la subasta primaria de valores gubernamentales: Bajan las tasas de Cetes, Bonos M y Udibonos a 3 años: 
+Banxico	717396552369606656	2016-04-05T17:00:41	FIX determinado el 05/04/2016 (Pesos por dólar), valor: 17.7252 
+Banxico	717388788226334721	2016-04-05T16:29:50	CETES 28(05/04/2016), valor: 3.73 
+Banxico	717355778600898560	2016-04-05T14:18:40	La semana pasada PEMEX vendió 500 millones de dólares a Banxico, ver estado de cuenta semanal: 
+Banxico	717355336613568512	2016-04-05T14:16:54	La base monetaria disminuyó 27,457 millones de pesos, comportamiento usual tras la Semana Santa/ Estado de cuenta: 
+Banxico	717354820567322625	2016-04-05T14:14:51	Suben 811 millones de dólares (mdd) las reservas internacionales, su saldo: 177,476 mdd, ver estado de cuenta: 
+Banxico	717351281690456065	2016-04-05T14:00:47	Reservas internacionales (mdd)(01/04/2016), valor: 177,476.4 
+Banxico	717320889134493697	2016-04-05T12:00:01	UDIS(05/04/2016), valor: 5.446003 
+Banxico	717069900003483648	2016-04-04T19:22:41	Dollar gains 11 cents (0.7%) vs. peso: today´s FIX ExchangeRate is 17.4484 MXN/USD, last Friday´s: 17.3338;  **
+Banxico	717068365676699648	2016-04-04T19:16:35	91-day TIIE (04/04/2016): 4.1150% 
+Banxico	717068077565739008	2016-04-04T19:15:26	28-day TIIE (04/04/2016): 4.0650% 
+Banxico	717067853019516928	2016-04-04T19:14:33	FIX ExchangeRate for 04/04/2016 (MXN/USD): 17.4484 
+Banxico	717067514920837120	2016-04-04T19:13:12	Target rate (04/04/2016)(annual percent): 3.75 
+Banxico	717067359769395200	2016-04-04T19:12:35	UDI value (04/04/2016): 5.445675 
+Banxico	717049117252300800	2016-04-04T18:00:06	Tasa de interés objetivo(04/04/2016), valor: 3.75 
+Banxico	717042572418359298	2016-04-04T17:34:05	Hoy empezó operaciones: todo sobre el SPID (Sistema de Pagos Interbancarios en Dólares), aquí: 
+Banxico	717041671184068608	2016-04-04T17:30:31	TIIE 91(04/04/2016), valor: 4.1150 
+Banxico	717041658051694592	2016-04-04T17:30:27	TIIE 28(04/04/2016), valor: 4.0650 
+Banxico	717038559350226944	2016-04-04T17:18:09	Sube 11 centavos (0.7%) el precio del dólar. FIX hoy es 17.4484 pesos/dólar; el viernes fue 17.3338 pesos/dólar, 
+Banxico	717034454871506945	2016-04-04T17:01:50	FIX determinado el 04/04/2016 (Pesos por dólar), valor: 17.4484 
+Banxico	716989845625700352	2016-04-04T14:04:34	Hoy inicia el Sistema de Pagos Interbancarios en Dólares (SPID), conozca sus reglas y las disposiciones aplicables: 
+Banxico	716279302862409728	2016-04-02T15:01:08	Programa de Investigadores de Verano 2016 de la Dirección General de Estabilidad Financiera del Banco de Méxic... 
+Banxico	716279035538452481	2016-04-02T15:00:04	Programa de Investigadores de Verano 2016 de la Dirección General de Investigación Económica del Banco de Méxi... 
+Banxico	716278809419321344	2016-04-02T14:59:10	Reporte sobre las economías regionales, octubre-diciembre 2015 (video) 
+Banxico	716023909682798592	2016-04-01T22:06:17	Interbank exch.rate, wholesale operations, closes today at 17.3670 MXN/USD (selling rate); 
+Banxico	716018306612797440	2016-04-01T21:44:01	Dollar gains 9 cents (0.6%) vs. peso: today´s FIX ExchangeRate is 17.3338 MXN/USD, yesterday´s: 17.2370;  **
+Banxico	716013391949619200	2016-04-01T21:24:30	Revenues from workers´ remittances grow 16% (yearly) during bimester 1-2016 vs. same period of 2015, see table:  **
+Banxico	716011769483776000	2016-04-01T21:18:03	91-day TIIE (04/01/2016): 4.1150% 
+Banxico	716011311172161537	2016-04-01T21:16:14	28-day TIIE (04/01/2016): 4.0625% 
+Banxico	716009499367071744	2016-04-01T21:09:02	FIX ExchangeRate for 04/01/2016 (MXN/USD): 17.3338 
+Banxico	716009081979293696	2016-04-01T21:07:22	Available now: Banxico Minutes on mon.pol.statement announced March 18, 2016 (available only in Spanish);  **
+Banxico	716007769321644032	2016-04-01T21:02:09	Target rate (04/01/2016)(annual percent): 3.75 
+Banxico	716007527373082625	2016-04-01T21:01:11	UDI value (04/01/2016): 5.444693 
+Banxico	716003489462272000	2016-04-01T20:45:09	Tipo de cambio interbancario (venta), operaciones al mayoreo, cierra hoy en 17.3670 pesos por dólar (venta), ver: 
+Banxico	715969627696697344	2016-04-01T18:30:35	TIIE 91(01/04/2016), valor: 4.1150 
+Banxico	715969596424003584	2016-04-01T18:30:28	TIIE 28(01/04/2016), valor: 4.0625 
+Banxico	715962780889780224	2016-04-01T18:03:23	Aumenta 9 centavos (0.6%) el precio del dólar. Tipo de cambio FIX hoy es 17.3338 pesos por dólar; ayer  fue 17.2370 
+Banxico	715962122836910080	2016-04-01T18:00:46	FIX determinado el 01/04/2016 (Pesos por dólar), valor: 17.3338 
+Banxico	715921078334459904	2016-04-01T15:17:40	Remesas familiares crecen 16% anual en el primer bimestre de 2016 respecto del mismo periodo de 2015, ver cuadro: 
+Banxico	715920263196581888	2016-04-01T15:14:26	Expectativa de especialistas encuestados para tipo de cambio al cierre de 2016 (media): 17.66 pesos por dólar: 
+Banxico	715919833574088704	2016-04-01T15:12:44	Expectativa inflación al cierre de 2016 (media): 3.30%/ expectativa crecimiento del PIB 2016 (media): 2.4% Encuesta: 
+Banxico	715919290491228162	2016-04-01T15:10:34	Encuesta sobre las expectativas de los especialistas en economía del sector privado, marzo 2016: 
+Banxico	715918631293419521	2016-04-01T15:07:57	La Junta seguirá muy de cerca todos los determinantes de la inflación para consolidar convergencia al 3% Minuta42 
+Banxico	715918045324058624	2016-04-01T15:05:37	Objetivo del ajuste de postura monetaria el 17 de feb.: preservar y consolidar anclaje de la inflación, Minuta42 : 
+Banxico	715917311991873539	2016-04-01T15:02:42	Unánime la decisión de mantener el objetivo para la Tasa de Interés Interbancaria a un día en 3.75% Minuta42: 
+Banxico	715916762223677440	2016-04-01T15:00:31	Minuta de la reunión de la Junta de Gobierno del Banco de México, con motivo de la decisión de política moneta... 
+Banxico	715886438328328194	2016-04-01T13:00:02	UDIS(01/04/2016), valor: 5.444693 
+Banxico	715665131166773248	2016-03-31T22:20:38	Peso gains slightly vs. dollar: today´s FIX ExchangeRate is 17.2370 MXN/USD, yesterday´s: 17.2509 MXN/USD  **
+Banxico	715663504007532547	2016-03-31T22:14:10	91-day TIIE (03/31/2016): 4.1150% 
+Banxico	715663089383780352	2016-03-31T22:12:31	28-day TIIE (03/31/2016): 4.0650% 
+Banxico	715661393551228928	2016-03-31T22:05:47	FIX ExchangeRate for 03/31/2016 (MXN/USD): 17.2370 
+Banxico	715661161073483776	2016-03-31T22:04:51	Target rate (03/31/2016)(annual percent): 3.75 
+Banxico	715660650828025856	2016-03-31T22:02:50	UDI value (03/31/2016): 5.444366 
+Banxico	715641151835901952	2016-03-31T20:45:21	Directivos esperan tasas de variación anual de costos salariales menor a las del año previo.  
+Banxico	715639928307064833	2016-03-31T20:40:29	Directivos esperan variaciones anuales en precios de bienes y serv. menores que año previo.  
+Banxico	715635999011790849	2016-03-31T20:24:52	Directivos empresariales prevén expansión de demanda de bienes y serv. en todas las regiones  
+Banxico	715634139890733060	2016-03-31T20:17:29	Inflación general anual presentó disminuciones en todas las regiones en 4to trimestre 2015.  
+Banxico	715633247162503170	2016-03-31T20:13:56	En 4to trim. las condiciones de financiamiento de empresas mejoraron en todas las regiones  
+Banxico	715632043288240129	2016-03-31T20:09:09	Durante 4to trimestre 2015, evolución de la economía presentó heterogeneidad entre regiones  
+Banxico	715626169601687552	2016-03-31T19:45:49	Baja marginal del precio del dólar respecto de su cotización FIX de ayer. Hoy 17.2370 pesos por dólar, ayer 17.2509, 
+Banxico	715614663774343168	2016-03-31T19:00:05	Tasa de interés objetivo(31/03/2016), valor: 3.75 
+Banxico	715608461799587840	2016-03-31T18:35:27	Reporte sobre las economías regionales, octubre-diciembre 2015 
+Banxico	715607594312708096	2016-03-31T18:32:00	TIIE 91(31/03/2016), valor: 4.1150 
+Banxico	715607207828525056	2016-03-31T18:30:28	TIIE 28(31/03/2016), valor: 4.0650 
+Banxico	715599714939326464	2016-03-31T18:00:41	FIX determinado el 31/03/2016 (Pesos por dólar), valor: 17.2370 
+Banxico	715592057083965440	2016-03-31T17:30:16	Hoy 12:30 horas: Reporte sobre las Economías Regionales (octubre-diciembre 2015), ver reportes anteriores: 
+Banxico	715557328221634560	2016-03-31T15:12:16	Financiamiento otorgado por la banca de desarrollo creció 6.1% real anual en febrero de 2016: 
+Banxico	715557045391392768	2016-03-31T15:11:08	Crédito de banca comercial a empresas y personas con actividad empresarial creció 16.4% anual real en febrero 2016: 
+Banxico	715556704444788736	2016-03-31T15:09:47	Cartera de crédito vigente de la banca comercial al sector privado (feb. 2016) creció 12.8% anual real: 
+Banxico	715556352714604544	2016-03-31T15:08:23	Crédito para vivienda otorgado por banca comercial creció 9.8% anual real en febrero de 2016: 
+Banxico	715555974208028672	2016-03-31T15:06:53	Crédito al consumo otorgado por banca comercial registró crecimiento anual real de 8.8% en febrero de 2016: 
+Banxico	715555100958142464	2016-03-31T15:03:25	Agregados monetarios y actividad financiera feb. 2016: Financiamiento de banca comercial creció 7.5% anual real 
+Banxico	715524052345970688	2016-03-31T13:00:02	UDIS(31/03/2016), valor: 5.444366 
+Banxico	715266359995662336	2016-03-30T19:56:03	Peso gains 15 cents (0.9%) vs. dollar: today´s FIX ExchangeRate is 17.2509 MXN/USD, yesterday´s: 17.4015;  **
+Banxico	715266104008900608	2016-03-30T19:55:02	Tipo de cambio interbancario cierra hoy en 17.2090 pesos por dólar (venta), ver: 
+Banxico	715265346756681728	2016-03-30T19:52:02	182-day TIIE (03/30/2016): 4.2400% 
+Banxico	715265154867339264	2016-03-30T19:51:16	91-day TIIE (03/30/2016): 4.1150% 
+Banxico	715264920456040448	2016-03-30T19:50:20	28-day TIIE (03/30/2016): 4.0650% 
+Banxico	715264692415893505	2016-03-30T19:49:26	FIX ExchangeRate for 03/30/2016 (MXN/USD): 17.2509 
+Banxico	715264213908754432	2016-03-30T19:47:32	Target rate (03/30/2016)(annual percent): 3.75 
+Banxico	715263962997084160	2016-03-30T19:46:32	UDI value (03/30/2016): 5.444038 
+Banxico	715252271471177728	2016-03-30T19:00:04	Tasa de interés objetivo(30/03/2016), valor: 3.75 
+Banxico	715245024548560897	2016-03-30T18:31:17	TIIE 182(30/03/2016), valor: 4.2400 
+Banxico	715244891173834754	2016-03-30T18:30:45	TIIE 91(30/03/2016), valor: 4.1150 
+Banxico	715244784676315136	2016-03-30T18:30:19	TIIE 28(30/03/2016), valor: 4.0650 
+Banxico	715241888010244096	2016-03-30T18:18:49	Aquí  usted puede monitorear el estado de las conexiones de instituciones financieras al SPEI.
+Banxico	715241506802544641	2016-03-30T18:17:18	Aquí  usted puede consultar el estado de operaciones realizadas a través de SPEI.
+Banxico	715240629144395776	2016-03-30T18:13:49	Cae 0.9% (15 centavos) el precio del dólar. Tipo de cambio FIX hoy 17.2509 pesos/dólar, ayer 17.4015 pesos/dólar. 
+Banxico	715237248292159488	2016-03-30T18:00:23	FIX determinado el 30/03/2016 (Pesos por dólar), valor: 17.2509 
+Banxico	715193216488706053	2016-03-30T15:05:25	Lunes 4 de abril inicia operaciones el Sistemas de Pagos Interbancarios en Dólares (SPID), conozca sus reglas aquí: 
+Banxico	715192368811548675	2016-03-30T15:02:03	Calendario de abril. Próximo viernes: Minuta 42 sobre decisión de política monetaria; Encuesta expectativas de especialistas y Remesas.
+Banxico	715191250140340224	2016-03-30T14:57:36	Calendario. Mañana jueves, Reporte sobre Economías Regionales y Agregados Monetarios y Actividad Financiera: 
+Banxico	715161661812776960	2016-03-30T13:00:01	UDIS(30/03/2016), valor: 5.444038 
+Banxico	714939628080463876	2016-03-29T22:17:44	Peso gains 6 cents (0.3%) vs. dollar: today´s FIX ExchangeRate is 17.4015 MXN/USD, yesterday´s: 17.4610 MXN/USD;  **
+Banxico	714938988314791936	2016-03-29T22:15:12	InternationalReserves (03/23/2016) (mdd): 176,665.1 
+Banxico	714938528765861889	2016-03-29T22:13:22	GovernmentSecurities auction results (Mar 29) (Cetes, 10-year Bonos, BondesD, 30-year Udibonos);  **
+Banxico	714937856628686849	2016-03-29T22:10:42	28-day Cetes (03/29/2016), yield(%): 3.76 
+Banxico	714936782492536832	2016-03-29T22:06:26	91-day TIIE (03/29/2016): 4.1125% 
+Banxico	714935326968393729	2016-03-29T22:00:39	28-day TIIE (03/29/2016): 4.0625% 
+Banxico	714935023095259136	2016-03-29T21:59:27	FIX ExchangeRate for 03/29/2016 (MXN/USD): 17.4015 
+Banxico	714934784225452032	2016-03-29T21:58:30	Target rate (03/29/2016)(annual percent): 3.75 
+Banxico	714933775247872000	2016-03-29T21:54:29	UDI value (03/29/2016): 5.443711 
+Banxico	714889891797032960	2016-03-29T19:00:06	Tasa de interés objetivo(29/03/2016), valor: 3.75 
+Banxico	714882551882485760	2016-03-29T18:30:56	TIIE 91(29/03/2016), valor: 4.1125 
+Banxico	714882382189305856	2016-03-29T18:30:16	TIIE 28(29/03/2016), valor: 4.0625 
+Banxico	714875780686188544	2016-03-29T18:04:02	Cae 0.3% (6 centavos) el precio del dólar. Tipo de cambio FIX hoy: 17.4015 pesos/dólar; ayer, 17.4610 pesos/dólar / 
+Banxico	714873048466219008	2016-03-29T17:53:11	Subasta primaria valores gubernamentales: baja dos puntos base la tasa de Cetes a 28 días, queda en 3.76%, ver más: 
+Banxico	714867243054567424	2016-03-29T17:30:06	CETES 28(29/03/2016), valor: 3.76 
+Banxico	714832889431482369	2016-03-29T15:13:36	Estado de cuenta semanal Banxico (al 23 de marzo de 2016): baja reserva internacional 274 mdd, saldo: 176,665 mdd 
+Banxico	714829595598454784	2016-03-29T15:00:31	Reservas internacionales (mdd)(23/03/2016), valor: 176,665.1 
+Banxico	714521387013046273	2016-03-28T18:35:48	Gana seis centavos el peso frente al dólar, después del feriado de lSemana Santa. FIX hoy: 17.4610 pesos por dólar, 
+Banxico	714474414264324096	2016-03-28T15:29:09	Las exportaciones manufactureras representaron el 90% de las exportaciones totales de México en el primer bimestre: 
+Banxico	714473447837933568	2016-03-28T15:25:18	Las importaciones totales disminuyeron 2.1% en el primer bimestre de 2016 respecto del mismo periodo de 2015, ver: 
+Banxico	714473142513586176	2016-03-28T15:24:06	En el primer bimestre de 2016 las exportaciones totales disminuyeron 4.8% respecto del mismo periodo de 2015, ver: 
+Banxico	714472726639980546	2016-03-28T15:22:26	La balanza comercial de mercancías al primer bimestre de 2016: déficit de 4,166 millones de dólares, ver cuadro: 
+Banxico	712702686483718144	2016-03-23T18:08:56	Sube 1.1% el precio del dólar. Tipo de cambio FIX hoy: 17.5273 pesos por dólar; ayer: 17.3361 pesos por dólar: 
+Banxico	712666998493171714	2016-03-23T15:47:07	La semana pasada PEMEX vendió 500 millones de dólares a Banxico,  ver estado de cuenta semanal de Banxico: 
+Banxico	712666621727285248	2016-03-23T15:45:37	Estado de cuenta semanal de Banxico: aumenta la reserva internacional 845 millones de dólares, saldo: 176,939 mdd: 
+Banxico	712345809337974784	2016-03-22T18:30:50	TIIE 182(22/03/2016), valor: 4.2400 
+Banxico	712345274585260033	2016-03-22T18:28:42	Sube 4 centavos el precio del dólar. El tipo de cambio FIX hoy es 17.3361 pesos por dólar. El viernes: 17.2995 p/d. 
+Banxico	712320145457160192	2016-03-22T16:48:51	"Mexico: external conditions and economic outlook", Manuel Sánchez, Subgobernador del Banco de México (disponi... 
+Banxico	712292120418082817	2016-03-22T14:57:29	Mañana, miércoles 23 de marzo, se publicará el estado de cuenta semanal de Banxico, ver calendario de difusión: 
+Banxico	712291570590945281	2016-03-22T14:55:18	Inflación general anual 1a quincena de marzo: 2.71 por ciento. Inflación subyacente anual: 2.86 por ciento, informa INEGI.
+Banxico	710944117140770816	2016-03-18T21:41:00	Peso gains 10 cents (0.6%) vs. dollar: today´s FIX ExchangeRate is 17.2995 MXN/USD, yesterday´s: 17.4034;    **
+Banxico	710943364456157184	2016-03-18T21:38:01	91-day TIIE (03/18/2016): 4.1150% 
+Banxico	710943145299542017	2016-03-18T21:37:09	28-day TIIE (03/18/2016): 4.0660% 
+Banxico	710943001850150912	2016-03-18T21:36:34	FIX ExchangeRate for 03/18/2016 (MXN/USD): 17.2995 
+Banxico	710942748845539328	2016-03-18T21:35:34	GovernmentSecurities auction results (Mar 18) (Cetes, 5-year Bonos, 10-year Udibonos);  **
+Banxico	710941939487477760	2016-03-18T21:32:21	28-day Cetes (03/18/2016), yield(%): 3.78 
+Banxico	710941107429871616	2016-03-18T21:29:03	Banxico Board decides to keep the target rate unchanged at 3.75% (see mon.pol.statement)(available in Spanish);  **
+Banxico	710940177892401152	2016-03-18T21:25:21	Target rate (03/18/2016)(annual percent): 3.75 
+Banxico	710939712706326528	2016-03-18T21:23:30	UDI value (03/18/2016): 5.443656  
+Banxico	710925507081084928	2016-03-18T20:27:03	Cierra en 17.3640 pesos por dólar el tipo de cambio interbancario (venta): 
+Banxico	710906606406344704	2016-03-18T19:11:57	La Junta de Gobierno vigilará en especial el tipo de cambio y su posible traspaso a los precios al consumidor:
+Banxico	710905548481269761	2016-03-18T19:07:45	El balance de riesgos para la inflación es neutral, considerando el reciente incremento en la tasa de referencia: 
+Banxico	710905072763281408	2016-03-18T19:05:51	Anuncio Política Monetaria: Balance de riesgos para el crecimiento de la economía mexicana se mantiene sin cambios: 
+Banxico	710904577667674116	2016-03-18T19:03:53	La Junta de Gobierno de Banxico mantiene en 3.75% el objetivo para la tasa de interés interbancaria a un día: 
+Banxico	710903746755035136	2016-03-18T19:00:35	El objetivo para la Tasa de Interés Interbancaria a 1 día (tasa objetivo) se mantiene sin cambio en 3.75 por c... 
+Banxico	710896171628122112	2016-03-18T18:30:29	TIIE 91(18/03/2016), valor: 4.1150 
+Banxico	710896144918777856	2016-03-18T18:30:23	TIIE 28(18/03/2016), valor: 4.0660 
+Banxico	710891480622112768	2016-03-18T18:11:51	Baja 10 centavos (0.6%) el precio del dólar. Tipo de cambio FIX hoy: 17.2995 pesos por dólar; ayer 17.4034, 
+Banxico	710888609872674817	2016-03-18T18:00:26	FIX determinado el 18/03/2016 (Pesos por dólar), valor: 17.2995 
+Banxico	710883528527912960	2016-03-18T17:40:15	Resultados de subasta primaria de valores gubernamentales, baja dos puntos base la tasa de CETES a 28 días, a 3.78% 
+Banxico	710880970958704641	2016-03-18T17:30:05	CETES 28(18/03/2016), valor: 3.78 
+Banxico	710848140744654849	2016-03-18T15:19:38	Hoy viernes 18 de marzo: resultados de subasta primaria de valores gubernamentales y Anuncio de Política Monetaria: 
+Banxico	710813009166204929	2016-03-18T13:00:02	UDIS(18/03/2016), valor: 5.443656 
+Banxico	710600774762385408	2016-03-17T22:56:41	Cierra hoy en 17.35 pesos por dólar el tipo de cambio interbancario (mayoreo, venta): 
+Banxico	710590589595615232	2016-03-17T22:16:13	Programa de investigadores de verano 2016 de la Dirección General de Sistemas de Pagos y Servicios Corporativo... 
+Banxico	710569420054093824	2016-03-17T20:52:06	Peso gains 53 cents (2.9%) vs. dollar. Today´s FIX ExchangeRate is 17.4034 MXN/USD; yesterday: 17.9308 MXN/USD  **
+Banxico	710568339139985409	2016-03-17T20:47:48	Notice: next March 21, 24, 25, 2016 are bank holidays.  **
+Banxico	710563876341882880	2016-03-17T20:30:04	91-day TIIE (03/17/2016): 4.1150% 
+Banxico	710563402997862400	2016-03-17T20:28:11	28-day TIIE (03/17/2016): 4.0648% 
+Banxico	710562936234725376	2016-03-17T20:26:20	FIX ExchangeRate for 03/17/2016 (MXN/USD): 17.4034 
+Banxico	710562677815250944	2016-03-17T20:25:18	Target rate (03/17/2016)(annual percent): 3.75 
+Banxico	710562408599687168	2016-03-17T20:24:14	UDI value (03/17/2016): 5.443835 
+Banxico	710536603966398464	2016-03-17T18:41:42	Baja 53 centavos (2.9%) el precio del dólar. Tipo de cambio FIX hoy 17.4034 pesos por dólar; ayer, 17.9308/ 
+Banxico	710486323539279872	2016-03-17T15:21:54	Los días lunes 21, jueves 24 y viernes 25 de marzo serán días bancarios no laborables, tome nota: 
+Banxico	710218278652674048	2016-03-16T21:36:47	Peso remains stable vs. dollar: Today´s FIX ExchangeRate is 17.9308 MXN/USD, yesterday´s: 17.9260 MXN/USD;  **
+Banxico	710217347563266052	2016-03-16T21:33:05	182-day TIIE (03/16/2016): 4.2500% 
+Banxico	710217077240410112	2016-03-16T21:32:01	91-day TIIE (03/16/2016): 4.1150% 
+Banxico	710216822428082176	2016-03-16T21:31:00	28-day TIIE (03/16/2016): 4.0647% 
+Banxico	710216432684896256	2016-03-16T21:29:27	FIX ExchangeRate for 03/16/2016 (MXN/USD): 17.9308 
+Banxico	710215951069765634	2016-03-16T21:27:32	Target rate (03/16/2016)(annual percent): 3.75 
+Banxico	710215430032338945	2016-03-16T21:25:28	UDI value (03/16/2016): 5.444014 
+Banxico	710205639239274497	2016-03-16T20:46:34	Cae, al final de la jornada, el dólar interbancario (operaciones al mayoreo) a 17.6475 (venta), 
+Banxico	710171683202531329	2016-03-16T18:31:38	TIIE 182(16/03/2016), valor: 4.2500 
+Banxico	710169830431678464	2016-03-16T18:24:16	Estable el tipo de cambio FIX. Hoy es 17.9308 pesos por dólar, ayer 17.9260 pesos por dólar 
+Banxico	709861844786106368	2016-03-15T22:00:27	El Consejo de Estabilidad del Sistema Financiero actualiza su balance de riesgos 
+Banxico	709857267047239680	2016-03-15T21:42:15	Dollar gains 16 cents (0.9%) vs. peso: today´s FIX ExchangeRate is 17.9260 MXN/USD, yesterday´s: 17.7691  **
+Banxico	709855937033424896	2016-03-15T21:36:58	91-day TIIE (03/15/2016): 4.1200% 
+Banxico	709855733492228096	2016-03-15T21:36:10	28-day TIIE (03/15/2016): 4.0645% 
+Banxico	709855094339145728	2016-03-15T21:33:37	GovernmentSecurities auction results (Mar 15) (Cetes, 30-year Bonos, BondesD);  **
+Banxico	709854799865319426	2016-03-15T21:32:27	28-day Cetes (03/15/2016), yield(%): 3.80 
+Banxico	709854346674970625	2016-03-15T21:30:39	InternationalReserves (03/11/2016) (mdd): 176,093.8 
+Banxico	709853801595834368	2016-03-15T21:28:29	FIX ExchangeRate for 03/15/2016 (MXN/USD): 17.9260 
+Banxico	709853228309942272	2016-03-15T21:26:12	Target rate (03/15/2016)(annual percent): 3.75 
+Banxico	709852850138914818	2016-03-15T21:24:42	UDI value (03/15/2016): 5.444194 
+Banxico	709803991622770688	2016-03-15T18:10:33	Sube 0.9% (16 centavos) el precio del dólar. Tipo de cambio FIX hoy: 17.9260 pesos por dólar; ayer. 17.7691, 
+Banxico	709799032340611072	2016-03-15T17:50:51	Debido a feriados de la siguiente semana, la próxima subasta primaria de valores gubernamentales será este viernes: 
+Banxico	709795637596848128	2016-03-15T17:37:22	Estado de cuenta semanal de Banxico: reservas internacionales, base monetaria, operaciones de mercado abierto, : 
+Banxico	709794668431564802	2016-03-15T17:33:30	Resultados subasta primaria valores gubernamentales. Sube 2 puntos base tasa de Cetes a 28 días, a 3.80%, ver más: 
+Banxico	709793809404563456	2016-03-15T17:30:06	CETES 28(15/03/2016), valor: 3.80 
+Banxico	709756121959956481	2016-03-15T15:00:20	Reservas internacionales (mdd)(11/03/2016), valor: 176,093.8 
+Banxico	709725841312251904	2016-03-15T13:00:01	UDIS(15/03/2016), valor: 5.444194 
+Banxico	709480298136743937	2016-03-14T20:44:19	Dollar gains 7 cents vs. peso: today´s FIX ExchangeRate is 17.7691 MXN/USD, last Friday´s: 17.7002 MXN/USD;  **
+Banxico	709478817392254976	2016-03-14T20:38:26	Next Friday, Mar.18 (13 hrs.): Banxico mon.pol. statement (see previous statements)(available only in Spanish),   **
+Banxico	709477279152275458	2016-03-14T20:32:19	91-day TIIE (03/14/2016): 4.1150% 
+Banxico	709477077376835584	2016-03-14T20:31:31	28-day TIIE (03/14/2016): 4.0625% 
+Banxico	709476371739750402	2016-03-14T20:28:43	FIX ExchangeRate for 03/14/2016 (MXN/USD): 17.7691 
+Banxico	709475815243710468	2016-03-14T20:26:30	Target rate (03/14/2016)(annual percent): 3.75 
+Banxico	709475475492474880	2016-03-14T20:25:09	UDI value (03/14/2016): 5.444373 
+Banxico	709439898151825409	2016-03-14T18:03:47	Sube 7 centavos precio del dólar, de viernes a lunes. Tipo de cambio FIX hoy: 17.7691 pesos/dólar; viernes: 17.7002, 
+Banxico	709398141196308480	2016-03-14T15:17:51	Viernes 18 de marzo 13 horas: Anuncio de Política Monetaria de Junta de Gobierno Banxico, ver anuncios anteriores: 
+Banxico	708390784479789056	2016-03-11T20:34:58	Peso gained 16 cents vs.yesterday´s USDexchange rate.During the week it gained 0.3%.This week´s FX ExchangeRate:  **
+Banxico	708388369789689856	2016-03-11T20:25:23	Conozca las Reglas del Sistema de Pagos Interbancarios en Dólares (SPID):  (Disposición publicada hoy en el DOF).
+Banxico	708387647467597824	2016-03-11T20:22:31	91-day TIIE (03/11/2016): 4.1199% 
+Banxico	708387435290300416	2016-03-11T20:21:40	28-day TIIE (03/11/2016): 4.0613% 
+Banxico	708387114103099392	2016-03-11T20:20:23	FIX ExchangeRate for 03/11/2016 (MXN/USD): 17.7002 
+Banxico	708386857407488000	2016-03-11T20:19:22	Target rate (03/11/2016)(annual percent): 3.75 
+Banxico	708386688150581248	2016-03-11T20:18:42	UDI value (03/11/2016): 5.444910 
+Banxico	708356063637020672	2016-03-11T18:17:00	Respecto de ayer el peso se apreció 16 centavos. Durante la semana recuperó 0.3%. Cotización FIX hoy: 17.7002 p/d. 
+Banxico	708103576170573826	2016-03-11T01:33:43	"79° Convención Nacional Bancaria", Agustín Carstens, Gobernador de Banco de México 
+Banxico	708028948920152064	2016-03-10T20:37:10	Dollar gains 11 cents vs. peso: today´s FIX ExchangeRate is 17.8601 MXN/USD, yesterday´s: 17.7523 MXN/USD  **
+Banxico	708028282994712576	2016-03-10T20:34:31	91-day TIIE (03/10/2016): 4.1117% 
+Banxico	708028086294421504	2016-03-10T20:33:44	28-day TIIE (03/10/2016): 4.0606% 
+Banxico	708027800448405505	2016-03-10T20:32:36	FIX ExchangeRate for 03/10/2016 (MXN/USD): 17.8601 
+Banxico	708027481974935553	2016-03-10T20:31:20	Target rate (03/10/2016)(annual percent): 3.75 
+Banxico	708027139333881856	2016-03-10T20:29:59	UDI value (03/10/2016): 5.445090 
+Banxico	707994858791698433	2016-03-10T18:21:42	Sube precio del dólar 11 centavos respecto de ayer. Tipo de cambio FIX hoy es 17.8601 pesos por dólar, ayer 17.7523 
+Banxico	707654110871326720	2016-03-09T19:47:42	Peso gains 15 cents (0.8%) vs. dollar. Today´s FIX ExchangeRate is 17.7523 MXN/USD, yesterday´s:17.9044 MXN/USD;  **
+Banxico	707652986525224960	2016-03-09T19:43:14	182-day TIIE (03/09/2016): 4.2300% 
+Banxico	707652536988082176	2016-03-09T19:41:27	91-day TIIE (03/09/2016): 4.1135% 
+Banxico	707652352426188800	2016-03-09T19:40:43	28-day TIIE (03/09/2016): 4.0601% 
+Banxico	707652056249544705	2016-03-09T19:39:32	FIX ExchangeRate for 03/09/2016 (MXN/USD): 17.7523 
+Banxico	707651193586081792	2016-03-09T19:36:06	According to INEGI, at the end of February 2016, annual headline inflation was 2.87%; annual core inflation: 2.66%. **
+Banxico	707650536829362176	2016-03-09T19:33:30	Target rate (03/09/2016)(annual percent): 3.75 
+Banxico	707650214262231042	2016-03-09T19:32:13	UDI value (03/09/2016): 5.443982 
+Banxico	707634837696282624	2016-03-09T18:31:07	TIIE 182(09/03/2016), valor: 4.2300 
+Banxico	707631547050897409	2016-03-09T18:18:02	Baja 15 centavos (0.8%) el precio del dólar. Tipo de cambio FIX hoy 17.7523 pesos por dólar, ayer 17.9044, 
+Banxico	707567759723352064	2016-03-09T14:04:34	Inflación general anual al cierre de febrero de 2016 fue 2.87 por ciento; inflación subyacente anual: 2.66 por ciento informa INEGI.
+Banxico	707298335384670208	2016-03-08T20:13:58	Dollar gains 15 cents vs. peso: today´s FIX ExchangeRate is 17.9044 MXN/USD, yesterday´s: 17.7526 MXN/USD;  **
+Banxico	707297627407142912	2016-03-08T20:11:09	91-day TIIE (03/08/2016): 4.1121% 
+Banxico	707297409399803904	2016-03-08T20:10:18	28-day TIIE (03/08/2016): 4.0606% 
+Banxico	707296875074879488	2016-03-08T20:08:10	FIX ExchangeRate for 03/08/2016 (MXN/USD): 17.9044 
+Banxico	707296570627084288	2016-03-08T20:06:58	GovernmentSecurities auction results: 28-day Cetes down 10 bp to 3.75%, see info.:  **
+Banxico	707294479389057024	2016-03-08T19:58:39	Target rate (03/08/2016)(annual percent): 3.75 
+Banxico	707293823278288896	2016-03-08T19:56:03	GovernmentSecurities auction results (Mar 8) (Cetes, 3-year Bonos, 3-year Udibonos);  **
+Banxico	707293008681512960	2016-03-08T19:52:48	28-day Cetes (03/08/2016), yield(%): 3.78 
+Banxico	707279555782770689	2016-03-08T18:59:21	"Situación económica internacional y sus implicaciones para la economía mexicana", Javier Guzmán, Subgobernado... 
+Banxico	707270026064048128	2016-03-08T18:21:29	Sube precio del dólar 15 centavos respecto de ayer.  Tipo de cambio FIX hoy es 17.9044 pesos por dólar, ayer 17.7526 
+Banxico	707269137379123200	2016-03-08T18:17:57	Resultados subasta primaria valores gubernamentales. Baja 10 puntos base tasa de CETES a 28 días, a 3.78%, ver más: 
+Banxico	707257092533460992	2016-03-08T17:30:05	CETES 28(08/03/2016), valor: 3.78 
+Banxico	707249787452522496	2016-03-08T17:01:04	InternationalReserves (03/04/2016) (mdd): 176,097.5 
+Banxico	707249272358481921	2016-03-08T16:59:01	UDI value (03/08/2016): 5.442874 
+Banxico	707225439475884032	2016-03-08T15:24:19	Reservas internacionales de Banxico registraron una revaluación de 235 millones de dólares, ver estado de cuenta: 
+Banxico	707224154760581120	2016-03-08T15:19:12	Saldo de las reservas internacionales de Banxico 176,097 millones de dólares, la semana pasada aumentaron 82 mdd: 
+Banxico	707223269275865088	2016-03-08T15:15:41	Durante la semana pasada Banxico no realizó intervenciones en el merado de cambios, ver estado de cuenta: 
+Banxico	707219415507406848	2016-03-08T15:00:22	Reservas internacionales (mdd)(04/03/2016), valor: 176,097.5 
+Banxico	707189131009400833	2016-03-08T13:00:02	UDIS(08/03/2016), valor: 5.442874 
+Banxico	706959308420829184	2016-03-07T21:46:48	Peso appreciates slightly vs. dollar: today´s FIX ExchangeRate is 17.7526 MXN/USD, last Friday´s: 17.7723  **
+Banxico	706957461173833728	2016-03-07T21:39:28	91-day TIIE (03/07/2016): 4.1085% 
+Banxico	706957223138693120	2016-03-07T21:38:31	28-day TIIE (03/07/2016): 4.0625% 
+Banxico	706957038677438464	2016-03-07T21:37:47	FIX ExchangeRate for 03/07/2016 (MXN/USD): 17.7526 
+Banxico	706956811950133249	2016-03-07T21:36:53	Target rate (03/07/2016)(annual percent): 3.75 
+Banxico	706956505778507776	2016-03-07T21:35:40	UDI value (03/07/2016): 5.441767 
+Banxico	706917347135606784	2016-03-07T19:00:04	Tasa de interés objetivo(07/03/2016), valor: 3.75 
+Banxico	706909967387734016	2016-03-07T18:30:44	TIIE 91(07/03/2016), valor: 4.1085 
+Banxico	706909838748463104	2016-03-07T18:30:13	TIIE 28(07/03/2016), valor: 4.0625 
+Banxico	706904521260212224	2016-03-07T18:09:06	Avance marginal del peso frente al dólar. Tipo de cambio FIX hoy 17.7526 pesos por dólar; el viernes 17.7723  
+Banxico	705861729998123008	2016-03-04T21:05:25	Peso gained 33 cents (1.8%) vs. dollar during the week. Today´s FIX ExchangeRate is 17.7723 MXN/USD;  **
+Banxico	705860844949667840	2016-03-04T21:01:54	Available now: Banxico Quarterly Report (Oct-Dec 2015) (summary and presentation);  **
+Banxico	705859880297431040	2016-03-04T20:58:04	91-day TIIE (03/04/2016): 4.1100% 
+Banxico	705859125129785344	2016-03-04T20:55:04	28-day TIIE (03/04/2016): 4.0640% 
+Banxico	705858660379942913	2016-03-04T20:53:13	FIX ExchangeRate for 03/04/2016 (MXN/USD): 17.7723 
+Banxico	705857322686369792	2016-03-04T20:47:54	Target rate (03/04/2016)(annual percent): 3.75 
+Banxico	705857027461894144	2016-03-04T20:46:44	UDI value (03/04/2016): 5.438446 
+Banxico	705825352510144512	2016-03-04T18:40:52	A lo largo de la semana el peso se apreció 33 centavos (1.8%) frente al dólar. FIX hoy es 17.7723 pesos por dólar, 
+Banxico	705807450104995840	2016-03-04T17:29:44	Informe trimestral, octubre-diciembre 2015 (video) 
+Banxico	705502872788598784	2016-03-03T21:19:27	Para 2016 se espera un crecimiento del PIB de 2 a 3 por ciento, así como entre 610 y 710 mil nuevos empleos formales 
+Banxico	705501305624596480	2016-03-03T21:13:13	Las expectativas de inflación se mantuvieron estables; para algunos horizontes incluso siguieron disminuyendo. 
+Banxico	705499008806965248	2016-03-03T21:04:05	El traspaso de la depreciación cambiaria a precios ha sido limitado. No hay evidencia de efectos de segundo orden. 
+Banxico	705498534708006912	2016-03-03T21:02:12	La inflación registró disminuciones adicionales a las que se venían observando; cerró 2015 en nivel mínimo histórico 
+Banxico	705496846022496256	2016-03-03T20:55:30	En oct-dic, la economía mexicana continuó mostrando un crecimiento sustentado en el dinamismo del sector servicios. 
+Banxico	705495121312100352	2016-03-03T20:48:39	Los precios internacionales de las materias primas reanudaron su tendencia a la baja durante el 4o trimestre de 2015 
+Banxico	705493310761148416	2016-03-03T20:41:27	La actividad económica global se caracteriza por una débil expansión, en especial por un estancamiento del comercio. 
+Banxico	705467329392414720	2016-03-03T18:58:12	Peso loses 4 cents vs. dollar: today´s FIX ExchangeRate is 17.8971 MXN/USD, yesterday´s: 17.8561 MXN/USD;   **
+Banxico	705466432629268481	2016-03-03T18:54:39	LIVE NOW: Banxico Quarterly Report (Oct-Dec 2015) presentation;  **
+Banxico	705466004290187264	2016-03-03T18:52:57	91-day TIIE (03/03/2016): 4.1075% 
+Banxico	705465761733726208	2016-03-03T18:51:59	28-day TIIE (03/03/2016): 4.0601% 
+Banxico	705464884033511424	2016-03-03T18:48:29	FIX ExchangeRate for 03/03/2016 (MXN/USD): 17.8971 
+Banxico	705464263796662273	2016-03-03T18:46:02	UDI value (03/03/2016): 5.437340 
+Banxico	705461497808334848	2016-03-03T18:35:02	Informe trimestral, octubre-diciembre 2015 
+Banxico	705460628975058944	2016-03-03T18:31:35	TIIE 91(03/03/2016), valor: 4.1075 
+Banxico	705460573039783936	2016-03-03T18:31:22	TIIE 28(03/03/2016), valor: 4.0601 
+Banxico	705459919256838144	2016-03-03T18:28:46	En unos minutos la transmisión en vivo de la presentación del Informe Trimestral, octubre-diciembre 2015. 
+Banxico	705454415910539264	2016-03-03T18:06:54	Retrocede cuatro centavos el peso frente al dólar. Tipo de cambio FIX hoy 17.8971 pesos/dólar, ayer 17.8561 
+Banxico	705453680934277120	2016-03-03T18:03:58	FIX determinado el 03/03/2016 (Pesos por dólar), valor: 17.8971 
+Banxico	705384418580365312	2016-03-03T13:28:45	Hoy transmisión en vivo a partir de las 12:30 horas: Presentación del Informe Trimestral, octubre-diciembre 2015: 
+Banxico	705377189403893760	2016-03-03T13:00:01	UDIS(03/03/2016), valor: 5.437340 
+Banxico	705216822157545473	2016-03-03T02:22:47	Mañana a las 12.30 hrs., transmisión en vivo de la presentación del Informe Trimestral, octubre-diciembre 2015: 
+Banxico	705118341531209728	2016-03-02T19:51:27	Peso gains 9 cents (0.5%) vs. dollar: today´s FIX ExchangeRate is 17.8561 MXN/USD, yesterday´s: 17.9432 MXN/USD;  **
+Banxico	705117785295187968	2016-03-02T19:49:15	Tomorrow, at 12:30 hrs., watch live webcast of Banxico Quarterly Report (Oct-Dec 2015) presentation;  **
+Banxico	705117060796280832	2016-03-02T19:46:22	182-day TIIE (03/02/2016): 4.2307% 
+Banxico	705116856403648512	2016-03-02T19:45:33	91-day TIIE (03/02/2016): 4.1044% 
+Banxico	705116608012775424	2016-03-02T19:44:34	28-day TIIE (03/02/2016): 4.0600% 
+Banxico	705115755235274752	2016-03-02T19:41:11	FIX ExchangeRate for 03/02/2016 (MXN/USD): 17.8561 
+Banxico	705115117248077824	2016-03-02T19:38:39	Target rate (03/02/2016)(annual percent): 3.75 
+Banxico	705114896141189120	2016-03-02T19:37:46	UDI value (03/02/2016): 5.436234 
+Banxico	705105407732125696	2016-03-02T19:00:04	Tasa de interés objetivo(02/03/2016), valor: 3.75 
+Banxico	705098086104707073	2016-03-02T18:30:58	TIIE 182(02/03/2016), valor: 4.2307 
+Banxico	705091965335908354	2016-03-02T18:06:39	Gana 9 centavos (0.5%) el peso frente al dólar. FIX hoy 17.8561 pesos por dólar, ayer 17.9432 pesos por dólar: 
+Banxico	705086060452163584	2016-03-02T17:43:11	Presentación del Informe Trimestral, octubre-diciembre 2015. Transmisión en vivo, mañana jueves 03/03/16; 12.30 hrs. 
+Banxico	705084075850137600	2016-03-02T17:35:18	Resultados de la subasta de valores IPAB correspondientes a la 9a semana de 2016: 
+Banxico	705046987947683841	2016-03-02T15:07:55	Expectativa tipo de cambio cierre de 2016, especialistas sector privado: 17.43 pesos (media), 17.45 pesos (mediana): 
+Banxico	705046555292622850	2016-03-02T15:06:12	Expectativa crecimiento del PIB en 2016, especialistas del sector privado: 2.45% (media), 2.49% (mediana), 
+Banxico	705046202023174144	2016-03-02T15:04:48	Expectativa de inflación para 2016, especialistas sector privado: 3.34% (media), 3.38% (mediana), 
+Banxico	705045888884826113	2016-03-02T15:03:33	Encuesta: Expectativas de los especialistas en economía del sector privado, febrero de 2016: 
+Banxico	705014801181741056	2016-03-02T13:00:01	UDIS(02/03/2016), valor: 5.436234 
+Banxico	704803101228666880	2016-03-01T22:58:48	Peso appreciates 16 cents (0.9%) vs. dollar. Today´s FIX ExchangeRate is 17.9432 MXN/USD; yesterday´s: 18.1020;  **
+Banxico	704801691602804738	2016-03-01T22:53:12	Total workers´ remittances in January 2016 (1,932 mdd): the highest for a month of January in all history;  **
+Banxico	704800321151762432	2016-03-01T22:47:45	Workers' remittances increased 18.8% during January 2016 vs. the same period of 2015 (total: 1,932 mdd);  **
+Banxico	704795718016315392	2016-03-01T22:29:28	GovernmentSecurities auction results (Mar 1) (Cetes, 20-year Bonos, BondesD, 30-year Udibonos);  **
+Banxico	704794800093065216	2016-03-01T22:25:49	28-day Cetes (03/01/2016), yield(%): 3.88 
+Banxico	704794239360630784	2016-03-01T22:23:35	91-day TIIE (03/01/2016): 4.0900% 
+Banxico	704793708554661888	2016-03-01T22:21:29	28-day TIIE (03/01/2016): 4.0577% 
+Banxico	704792846780338176	2016-03-01T22:18:03	Target rate (03/01/2016)(annual percent): 3.75 
+Banxico	704792294268882944	2016-03-01T22:15:52	InternationalReserves (02/26/2016) (mdd): 176,015.5 
+Banxico	704791531169841152	2016-03-01T22:12:50	UDI value (03/01/2016): 5.435128 
+Banxico	704743026644488192	2016-03-01T19:00:05	Tasa de interés objetivo(01/03/2016), valor: 3.75 
+Banxico	704735607642148864	2016-03-01T18:30:36	TIIE 91(01/03/2016), valor: 4.0900 
+Banxico	704735544429809666	2016-03-01T18:30:21	TIIE 28(01/03/2016), valor: 4.0577 
+Banxico	704732073072787456	2016-03-01T18:16:34	Se aprecia 0.9% (16 centavos) el peso frente al dólar. Cotización FIX de hoy: 17.9432 pesos por dólar. Ayer 18.1020, 
+Banxico	704728183514337281	2016-03-01T18:01:06	FIX determinado el 01/03/2016 (Pesos por dólar), valor: 17.9432 
+Banxico	704721944436875264	2016-03-01T17:36:19	Resultados de la subasta primaria de valores gubernamentales. Sube 3 puntos base tasa de Cetes a 28 días, a 3.88%, 
+Banxico	704720378359209984	2016-03-01T17:30:05	CETES 28(01/03/2016), valor: 3.88 
+Banxico	704688213873397760	2016-03-01T15:22:17	Durante la semana pasada el Gobierno Federal vendió 1,262 millones de dólares al Banco de México (estado de cuenta): 
+Banxico	704686938897256449	2016-03-01T15:17:13	Monto de remesas familiares en enero de este año (1,932 mdd): el más alto para un mes de enero en toda la historia: 
+Banxico	704684666519834624	2016-03-01T15:08:11	Durante enero de 2016 remesas familiares crecieron 18.8% respecto de enero 2015. Fueron 1,932 millones de dólares: 
+Banxico	704683959272144896	2016-03-01T15:05:22	Estado de cuenta semanal del Banco de México: Durante la semana pasada Banxico no intervino en mercado de cambios: 
+Banxico	704683438486347777	2016-03-01T15:03:18	Aumenta 1,305 millones de dólares (mdd) la reserva internacional de Banxico. Saldo: 176,0156 mdd 
+Banxico	704682763970965505	2016-03-01T15:00:37	Nuevo comercial sobre billetes y monedas 
+Banxico	704682762985275392	2016-03-01T15:00:37	Reservas internacionales (mdd)(26/02/2016), valor: 176,015.5 
+Banxico	704652414708617217	2016-03-01T13:00:02	UDIS(01/03/2016), valor: 5.435128 
+Banxico	704391945620049920	2016-02-29T19:45:01	Peso gains 7 cents vs. dollar: today´s FIX ExchangeRate is 18.1020 MXN/USD, last Friday´s: 18.1706 MXN/USD  **
+Banxico	704391549941977088	2016-02-29T19:43:27	FIX ExchangeRate for 02/29/2016 (MXN/USD): 18.1020  
+Banxico	704391200384487424	2016-02-29T19:42:03	91-day TIIE (02/29/2016): 4.0944% 
+Banxico	704390625353793536	2016-02-29T19:39:46	28-day TIIE (02/29/2016): 4.0594% 
+Banxico	704390117905936384	2016-02-29T19:37:45	Target rate (02/29/2016)(annual percent): 3.75 
+Banxico	704387366484516864	2016-02-29T19:26:49	UDI value (02/29/2016): 5.434022 
+Banxico	704380629417263105	2016-02-29T19:00:03	Tasa de interés objetivo(29/02/2016), valor: 3.75 
+Banxico	704373331466686465	2016-02-29T18:31:03	TIIE 91(29/02/2016), valor: 4.0944 
+Banxico	704373250839547904	2016-02-29T18:30:44	TIIE 28(29/02/2016), valor: 4.0594 
+Banxico	704366206506012672	2016-02-29T18:02:44	Gana siete centavos el peso frente al dólar. Tipo de cambio FIX hoy es 18.1020 pesos por dólar; el viernes 18.1706, 
+Banxico	704365757858127872	2016-02-29T18:00:57	FIX determinado el 29/02/2016 (Pesos por dólar), valor: 18.1020 
+Banxico	704322344496422917	2016-02-29T15:08:27	Comunicado de prensa: Agregados monetarios y actividad financiera en diciembre de 2015, ver aquí: 
+Banxico	704322079185702912	2016-02-29T15:07:24	Financiamiento otorgado por la banca de desarrollo creció 9.7% real anual durante diciembre de 2015: 
+Banxico	704321779997626372	2016-02-29T15:06:12	Crecimientos anuales del crédito (dic. 2015): consumo, 8.8%; vivienda, 10.9%; empresas, actividad empresarial: 14.5% 
+Banxico	704321170485542913	2016-02-29T15:03:47	La cartera de crédito vigente de la banca comercial al sector privado creció 11.7% real anual en dic. de 2015/ 
+Banxico	704320713293836292	2016-02-29T15:01:58	El financiamiento otorgado por la banca comercial creció 8.4% anual real en diciembre de 2015: 
+Banxico	703321798008438785	2016-02-26T20:52:38	"México en el extraño entorno internacional", Manuel Sánchez, Subgobernador del Banco de México 
+Banxico	703278726008537090	2016-02-26T18:01:29	El tipo de cambio FIX a lo largo de la semana (lunes a viernes). Hoy fue: 18.1706 pesos por dólar: 
+Banxico	703266707184308224	2016-02-26T17:13:43	"Economía mexicana: cinco tópicos de actualidad", Manuel Sánchez, Subgobernador del Banco de México 
+Banxico	702923589155094528	2016-02-25T18:30:18	TIIE 26(25/02/2016), valor: 4.0555 
+Banxico	702916816641794048	2016-02-25T18:03:23	Gana 12 centavos (0.66%) el peso frente al dólar. Tipo de cambio FIX hoy: 18.1680 pesos por dólar; ayer, 18.2893, 
+Banxico	702905780685533185	2016-02-25T17:19:32	El Gobernador de Banxico en entrevista con SergioSarmiento : 
+Banxico	702875971490226176	2016-02-25T15:21:05	Balanza de Pagos 2015: El déficit en cuenta corriente fue equivalente a 2.8% del PIB, ver informe completo aquí: 
+Banxico	702874534144118784	2016-02-25T15:15:22	Balanza de Pagos 2015: No se observaron salidas netas de capitales durante el año, sino recomposición de carteras: 
+Banxico	702873916415483904	2016-02-25T15:12:55	Balanza de Pagos 2015 México captó suficientes recursos en cuenta financiera para financiar déficit cuenta corriente 
+Banxico	702873249378533376	2016-02-25T15:10:16	Balanza de Pagos 2015: Estancamiento exportaciones manufactureras, a pesar de depreciación del tipo de cambio real: 
+Banxico	702872865859723264	2016-02-25T15:08:44	Balanza de Pagos en 2015. Déficit en cuenta corriente: 32,381 mdd, Superávit en cuenta financiera: 33,826 mdd, ver: 
+Banxico	702563000062840832	2016-02-24T18:37:26	Pierde el peso 9 centavos ante el dólar. El tipo de cambio FIX hoy es 18.2893 pesos por dólar, ayer 18.1948 p/d. 
+Banxico	702561408970395649	2016-02-24T18:31:07	TIIE 182(24/02/2016), valor: 4.1562 
+Banxico	702561233283616769	2016-02-24T18:30:25	TIIE 27(24/02/2016), valor: 4.0547 
+Banxico	702509776333250561	2016-02-24T15:05:57	La inflación de la 1a quincena de febrero fue 0.29% (2.94% anual), reporta INEGI. Subyacente: 0.23% (2.62% anual). 
+Banxico	702196427057790976	2016-02-23T18:20:49	Resultados de la subasta primaria de valores gubernamentales: sube 62 pb tasa de CETES a 27 días a 3.85% ver más: …
+Banxico	702195683881721856	2016-02-23T18:17:51	Avanza 13 centavos el dólar frente al peso. Tipo de cambio FIX hoy es 18.1948 pesos por dólar, ayer 18.0568, 
+Banxico	702183667578220548	2016-02-23T17:30:06	CETES 28(23/02/2016), valor: 3.85 
+Banxico	702149148045287425	2016-02-23T15:12:56	Operaciones de mercado abierto de Banxico para compensar contracción neta de liquidez por 141,649 millones de pesos 
+Banxico	702147912428433408	2016-02-23T15:08:02	La semana pasada Banxico vendió 2,000 mdd directo al mercado de acuerdo con determinación de la Comisión de Cambios 
+Banxico	702147420004548609	2016-02-23T15:06:04	La semana pasada Pemex vendió 1,000 millones de dólares a Banxico y el Gobierno Federal le vendió 1,322 mdd:  
+Banxico	702146430278856704	2016-02-23T15:02:08	Aumentó 309 millones de dólares la reserva internacional. Su saldo al 19 de febrero: 174,711 millones de dólares: 
+Banxico	702145989910466561	2016-02-23T15:00:23	Reservas internacionales (mdd)(19/02/2016), valor: 174,710.8 
+Banxico	701831294599036928	2016-02-22T18:09:54	Se sigue apreciando el peso frente al dólar: FIX de hoy 18.0568 pesos por dólar. Viernes: 18.2762 pesos por dólar: 
+Banxico	700772702831816705	2016-02-19T20:03:26	FIX ExchangeRate for this week (Mon-Fri).Today:18.2762 MXN/USD. Today´s peso gained 3% vs. dollar;  **
+Banxico	700770648759504898	2016-02-19T19:55:17	91-day TIIE (02/19/2016): 4.0550% 
+Banxico	700770497781301249	2016-02-19T19:54:41	28-day TIIE (02/19/2016): 4.0350% 
+Banxico	700770190989008896	2016-02-19T19:53:27	FIX ExchangeRate for 02/19/2016 (MXN/USD): 18.2762 
+Banxico	700769836440289280	2016-02-19T19:52:03	Target rate (02/19/2016)(annual percent): 3.75 
+Banxico	700769548664836096	2016-02-19T19:50:54	UDI value (02/19/2016): 5.421941 
+Banxico	700755365286137857	2016-02-19T18:54:33	El tipo de cambio FIX en la semana (lun-vie), el peso se apreció 3% frente al dólar: 
+Banxico	700749225995300864	2016-02-19T18:30:09	TIIE 29(19/02/2016), valor: 4.0350 
+Banxico	700698311133519874	2016-02-19T15:07:50	Hoy se dio a conocer el comunicado sobre "Evolución del financiamiento a las empresas (octubre-diciembre de 2015)": 
+Banxico	700402309155524608	2016-02-18T19:31:38	Peso gains 1.3% vs. dollar: today´s FIX ExchangeRate is 18.1439 MXN/USD, yesterday´s: 18.3895 MXN/USD;  **
+Banxico	700401682643968000	2016-02-18T19:29:08	91-day TIIE (02/18/2016): 4.0578% 
+Banxico	700401139188002818	2016-02-18T19:26:59	28-day TIIE (02/18/2016): 4.0303% 
+Banxico	700400704125403136	2016-02-18T19:25:15	FIX ExchangeRate for 02/18/2016 (MXN/USD): 18.1439 
+Banxico	700400307629469696	2016-02-18T19:23:40	Banxico Board considerations (Feb.4 meeting) as possible causes for raising the target rate (see Minutes);  **
+Banxico	700397792343097345	2016-02-18T19:13:41	Available now: Minutes on Banxico latest mon.pol.statement (Feb.4) (available only in Spanish);  **
+Banxico	700396610103062528	2016-02-18T19:08:59	Target rate (02/18/2016)(annual percent): 3.75 
+Banxico	700396468146802688	2016-02-18T19:08:25	UDI value (02/18/2016): 5.420665 
+Banxico	700386901350461440	2016-02-18T18:30:24	TIIE 28(18/02/2016), valor: 4.0303 
+Banxico	700383894021894144	2016-02-18T18:18:27	Consideraciones que veía el 4 de febrero la Junta de Gobierno como causas posibles para incrementar la tasa, minuta: 
+Banxico	700381410859692032	2016-02-18T18:08:35	Nueva apreciación del peso frente al dólar: 1.3% de ayer a hoy. FIX de hoy: 18.1439 pesos/dólar, ayer fue 18.3895 
+Banxico	700379412139651074	2016-02-18T18:00:38	"Fundamental mantener marco macroeconómico sólido": todos, Junta de Gobierno en reunión política monetaria 4 de feb. 
+Banxico	700334074217394176	2016-02-18T15:00:29	Minuta de la reunión de la Junta de Gobierno del Banco de México, con motivo de la decisión de política moneta... 
+Banxico	700059954317668352	2016-02-17T20:51:14	Peso gains 42 cents(+2.3%) vs.dollar: today´s FIX ExchangeRate is 18.3895 MXN/USD, yesterday´s: 18.8148 MXN/USD;  **
+Banxico	700059353936588800	2016-02-17T20:48:51	182-day TIIE (02/17/2016): 4.0950% 
+Banxico	700059145299308545	2016-02-17T20:48:01	91-day TIIE (02/17/2016): 4.0425% 
+Banxico	700058865354690560	2016-02-17T20:46:54	28-day TIIE (02/17/2016): 4.0350% 
+Banxico	700058559535382528	2016-02-17T20:45:41	FIX ExchangeRate for 02/17/2016 (MXN/USD): 18.3895 
+Banxico	700057831655890944	2016-02-17T20:42:48	Nevertheless, FX Comm.does not discard possibility of intervening at its discretion in FXmarket(Spanish version);  **
+Banxico	700055868314783744	2016-02-17T20:35:00	The FX Commission decides to cancel immediately all USD sale auctions (available only in Spanish);  **
+Banxico	700055581004988416	2016-02-17T20:33:51	Banxico Board decides to raise the target rate to 3.75% (available only in Spanish);  **
+Banxico	700050940028522496	2016-02-17T20:15:25	Target rate (02/17/2016)(annual percent): 3.75 
+Banxico	700050473156349954	2016-02-17T20:13:33	Today, Banxico Governing Board met in an extraordinary session and decided to raise the target rate by 50 bp, to 3.75%. **
+Banxico	700048258404495361	2016-02-17T20:04:45	UDI value (02/17/2016): 5.419389 
+Banxico	700024696822059008	2016-02-17T18:31:08	TIIE 182(17/02/2016), valor: 4.0950 
+Banxico	700024607621799937	2016-02-17T18:30:46	TIIE 91(17/02/2016), valor: 4.0425 
+Banxico	700024540437438464	2016-02-17T18:30:30	TIIE 28(17/02/2016), valor: 4.0350 
+Banxico	700019092627959808	2016-02-17T18:08:52	Recupera el peso 42 centavos (+2.3%) frente al dólar. Tipo de cambio FIX hoy 18.3895 pesos/dólar, ayer 18.8148 p/d.  
+Banxico	700012709002108928	2016-02-17T17:43:30	La decisión de aumentar la tasa objetivo contó con el voto favorable de todos los miembros de la Junta de Gobierno. 
+Banxico	700010369620643840	2016-02-17T17:34:12	El aumento de la tasa de referencia no inicia un ciclo de contracción monetaria. 
+Banxico	700008284766363649	2016-02-17T17:25:55	Empero, la Comisión de Cambios no descarta la posibilidad de intervenir discrecionalmente en el mercado cambiario. 
+Banxico	700007375357411328	2016-02-17T17:22:18	Por su parte, la Comisión de Cambios decidió suspender los mecanismos de venta de dólares inmediatamente. 
+Banxico	700006794072948741	2016-02-17T17:19:59	En sesión extraordinaria la Junta de Gobierno del Banco de México decidió incrementar la tasa objetivo en 50 pb para fijarla en 3.75%.
+Banxico	700006627273932800	2016-02-17T17:19:20	La Comisión de Cambios decide suspender a partir de este anuncio los mecanismos de ventas de dólares vigentes 
+Banxico	700005769593270273	2016-02-17T17:15:55	Anuncia SHCP ajuste preventivo al gasto para 2017, el desgolse estará disponible hoy por la tarde: 
+Banxico	700005676022517760	2016-02-17T17:15:33	El objetivo para la Tasa de Interés Interbancaria a 1 día (tasa objetivo) se incrementa en 50 puntos base. 
+Banxico	700005557000761345	2016-02-17T17:15:04	Tasa de interés objetivo(17/02/2016), valor: 3.75 
+Banxico	699996922921164800	2016-02-17T16:40:46	Hoy a las 11.00 hrs., mensaje del Secretario de Hacienda y el Gobernador del Banco de México a los medios. 
+Banxico	699974557847826434	2016-02-17T15:11:54	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 9 horas 
+Banxico	699941369989591041	2016-02-17T13:00:01	UDIS(17/02/2016), valor: 5.419389 
+Banxico	699731252027326464	2016-02-16T23:05:05	Peso gains 5 cents vs. dollar: today´s FIX ExchangeRate is 18.8148 MXN/USD, yesterday´s: 18.8471 MXN/USD;  **
+Banxico	699730382527172608	2016-02-16T23:01:38	No bids tendered (demanded) in today´s 9:00 hr./12:00hr./15:00hr. USD sale auctions with minimum price (200 mdd);  **
+Banxico	699727290473664512	2016-02-16T22:49:21	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada hoy a las 15 horas/ 
+Banxico	699705908478119936	2016-02-16T21:24:23	InternationalReserves (02/12/2016) (mdd): 174,401.5 
+Banxico	699705464154501120	2016-02-16T21:22:37	GovernmentSecurities auction results (Feb 16) (Cetes, BondesD, 10-year Bonos);  **
+Banxico	699704867258896384	2016-02-16T21:20:14	28-day Cetes (02/16/2016), yield(%): 3.23 
+Banxico	699704592053854209	2016-02-16T21:19:09	91-day TIIE (02/16/2016): 3.5858% 
+Banxico	699704439079211009	2016-02-16T21:18:32	28-day TIIE (02/16/2016): 3.5543% 
+Banxico	699704245138788352	2016-02-16T21:17:46	FIX ExchangeRate for 02/16/2016 (MXN/USD): 18.8148 
+Banxico	699704048396570624	2016-02-16T21:16:59	Target rate (02/16/2016)(annual percent): 3.25 
+Banxico	699703772730171392	2016-02-16T21:15:53	UDI value (02/16/2016): 5.418114 
+Banxico	699662125082374145	2016-02-16T18:30:24	TIIE 91(16/02/2016), valor: 3.5858 
+Banxico	699662097915875329	2016-02-16T18:30:17	TIIE 28(16/02/2016), valor: 3.5543 
+Banxico	699658867022540800	2016-02-16T18:17:27	No se recibieron posturas (demanda) para subasta de 200 millones de dólares con precio mínimo convocada a las 12 h. 
+Banxico	699658044343394304	2016-02-16T18:14:11	Resultados de la subasta primaria de valores gubernamentales: suben tasas de CETES en todos sus plazos, ver más: 
+Banxico	699657400953884672	2016-02-16T18:11:38	Gana el peso 5 (cinco) centavos frente al dólar. Tipo de cambio FIX hoy 18.8148 pesos por dólar. Ayer 18.8471 / 
+Banxico	699654607539048448	2016-02-16T18:00:32	FIX determinado el 16/02/2016 (Pesos por dólar), valor: 18.8148 
+Banxico	699646948458954753	2016-02-16T17:30:05	CETES 28(16/02/2016), valor: 3.23 
+Banxico	699610597684432897	2016-02-16T15:05:39	Sin posturas (demanda) para la subasta de dólares con precio mínimo (200 millones) convocada hoy a las 9 horas: 
+Banxico	699610040068517888	2016-02-16T15:03:26	Estado de cuenta semanal Banxico (al 12 de febrero): reservas, base monetaria, operaciones de mercado abierto, ver  
+Banxico	699609670336417792	2016-02-16T15:01:58	Saldo de las reservas internacionales al 12 de febrero: 174,401 millones de dólares. Disminución semanal: 573 mdd 
+Banxico	699609254588583936	2016-02-16T15:00:19	Reservas internacionales (mdd)(12/02/2016), valor: 174,401.5 
+Banxico	699578986230190080	2016-02-16T13:00:02	UDIS(16/02/2016), valor: 5.418114 
+Banxico	699348715501281280	2016-02-15T21:45:01	Peso gains 19 cents (1%) vs. dollar:today´s FIX ExchangeRate is 18.8471 MXN/USD, last Friday´s: 19.0392 MXN/USD;  **
+Banxico	699348101312557056	2016-02-15T21:42:35	No bids tendered in today´s (9:00 hr.,12:00hr.,15:00 hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	699347472842227712	2016-02-15T21:40:05	91-day TIIE (02/15/2016): 3.5825% 
+Banxico	699346827993157632	2016-02-15T21:37:31	28-day TIIE (02/15/2016): 3.5483% 
+Banxico	699343680654540800	2016-02-15T21:25:01	FIX ExchangeRate for 02/15/2016 (MXN/USD): 18.8471 
+Banxico	699343135764119552	2016-02-15T21:22:51	Target rate (02/15/2016)(annual percent): 3.25 
+Banxico	699342938485030912	2016-02-15T21:22:04	UDI value (02/15/2016): 5.416839 
+Banxico	699338179187355648	2016-02-15T21:03:09	No se recibieron posturas (demanda de dólares) para subasta de 200 mdd con precio mínimo convocada  a las 15 horas 
+Banxico	699307190947950593	2016-02-15T19:00:01	Tasa de interés objetivo(15/02/2016), valor: 3.25 
+Banxico	699299786579546112	2016-02-15T18:30:36	TIIE 91(15/02/2016), valor: 3.5825 
+Banxico	699299727628603392	2016-02-15T18:30:22	TIIE 28(15/02/2016), valor: 3.5483 
+Banxico	699296266631557121	2016-02-15T18:16:36	No se recibieron posturas (demanda de dólares) para la subasta de 200 mdd con precio mínimo convocada a las 12 horas 
+Banxico	699295653998907392	2016-02-15T18:14:10	Se aprecia 1% (19 cvs.) el peso frente al dólar. Tipo de cambio FIX hoy: 18.8471 pesos por dólar; viernes: 19.0392, 
+Banxico	699292235557314560	2016-02-15T18:00:35	FIX determinado el 15/02/2016 (Pesos por dólar), valor: 18.8471 
+Banxico	699247746125922306	2016-02-15T15:03:48	No se recibieron posturas (demanda de dólares) para la subasta de 200 mdd con precio mínimo convocada a las 9 horas: 
+Banxico	699245689470001152	2016-02-15T14:55:38	Próximo jueves 18 a las 9 horas se difundirá la Minuta referente a la más reciente decisión de política monetaria: 
+Banxico	699244651425845248	2016-02-15T14:51:30	En este sitio usted puede obtener un comprobante sobre un pago realizado a través de SPEI: 
+Banxico	699244218653343744	2016-02-15T14:49:47	Consulte estado de conexión de las instituciones participantes SPEI (Sistema de Pagos Electrónicos Interbancarios): 
+Banxico	698262278773211136	2016-02-12T21:47:55	Interbank exch.rate: peso appreciates. Opening sell rate(9:00 hrs.): 19.1220 MXN; closing sell rate: 18.9185 MXN;  **
+Banxico	698256201646125056	2016-02-12T21:23:46	Peso gains 14 cents vs. dollar: today´s FIX ExchangeRate is 19.0392 MXN/USD, yesterday´s: 19.1754 MXN/USD;  **
+Banxico	698254577582284800	2016-02-12T21:17:18	No bids tendered (demanded dollars) in today´s 9:00 hr.,12:00hr.,15:00 hr. 200 mdd sale auctions w/min.bid price;  **
+Banxico	698252854797045760	2016-02-12T21:10:28	No se recibieron posturas (demanda de dólares) para subasta de 200 mdd con precio mínimo convocada a las 15 horas: 
+Banxico	698252414130876416	2016-02-12T21:08:43	Tipo de cambio interbancario: se aprecia el peso. Abrió venta (9 horas) en 19.1220 pesos y cerró en 18.9185 pesos: 
+Banxico	698252314612621312	2016-02-12T21:08:19	91-day TIIE (02/12/2016): 3.5813% 
+Banxico	698251998412451841	2016-02-12T21:07:03	28-day TIIE (02/12/2016): 3.5476% 
+Banxico	698251774101041152	2016-02-12T21:06:10	FIX ExchangeRate for 02/12/2016 (MXN/USD): 19.0392 
+Banxico	698251144229826560	2016-02-12T21:03:40	Target rate (02/12/2016)(annual percent): 3.25 
+Banxico	698250820337274881	2016-02-12T21:02:23	UDI value (02/12/2016): 5.413017 
+Banxico	698212602183180288	2016-02-12T18:30:31	TIIE 91(12/02/2016), valor: 3.5813 
+Banxico	698212534294155264	2016-02-12T18:30:14	TIIE 28(12/02/2016), valor: 3.5476 
+Banxico	698206201096441857	2016-02-12T18:05:05	No se recibieron posturas (demanda de dólares) para subasta de 200 mdd con precio mínimo convocada a las 12 horas: 
+Banxico	698205801748377600	2016-02-12T18:03:29	Gana el peso 14 centavos frente al dólar. Tipo de cambio FIX hoy: 19.0392 pesos por dólar; ayer: 19.1754 p/d. 
+Banxico	698205098187448320	2016-02-12T18:00:42	FIX determinado el 12/02/2016 (Pesos por dólar), valor: 19.0392 
+Banxico	698161211645399040	2016-02-12T15:06:18	No se recibieron posturas (demanda de dólares) para la subasta de 200 mdd con precio mínimo convocada a las 9 horas: 
+Banxico	698158782279323648	2016-02-12T14:56:39	Precio mínimo para "activar" subasta de 200 mdd: tipo de cambio 19.3671 pesos por dólar (tipo de cambio FIX + 1%) 
+Banxico	697974851441598465	2016-02-12T02:45:46	Firman Banco Central de Cuba y Banco de México Acuerdo de Cooperación Técnica en Materia de Banca Central, hoy... 
+Banxico	697935082162491393	2016-02-12T00:07:45	Peso loses 37 cents vs. dollar: today´s FIX ExchangeRate is 19.1754 MXN/USD, yesterday´s: 18.8089 MXN/USD;  **
+Banxico	697934618721284096	2016-02-12T00:05:54	912 mdd tendered in supplementary USD sale auction with minimum bid price (74 bids/15 bidders);  **
+Banxico	697928334454329344	2016-02-11T23:40:56	Additional 200 mdd are allotted in supplementary sale auction at a weighted ave.exch.rate of 19.1693 MXN/USD;  **
+Banxico	697925649374191618	2016-02-11T23:30:16	Total amount tendered in 200 mdd sale auction with minimum price: 735 mdd (59 bids received);  **
+Banxico	697924676371124224	2016-02-11T23:26:24	200 mdd auction with minimum bid price. Bids allotted. Weighted average exch.rate: 19.0449 pesos  **
+Banxico	697921737741066240	2016-02-11T23:14:43	91-day TIIE (02/11/2016): 3.5850% 
+Banxico	697921460174598144	2016-02-11T23:13:37	28-day TIIE (02/11/2016): 3.5550% 
+Banxico	697919317564743680	2016-02-11T23:05:06	FIX ExchangeRate for 02/11/2016 (MXN/USD): 19.1754 
+Banxico	697917891895689216	2016-02-11T22:59:26	Target rate (02/11/2016)(annual percent): 3.25 
+Banxico	697914288657141760	2016-02-11T22:45:07	UDI value (02/11/2016): 5.411743 
+Banxico	697857646150324224	2016-02-11T19:00:03	Tasa de interés objetivo(11/02/2016), valor: 3.25 
+Banxico	697850274468081665	2016-02-11T18:30:45	TIIE 91(11/02/2016), valor: 3.5850 
+Banxico	697850207602503680	2016-02-11T18:30:29	TIIE 28(11/02/2016), valor: 3.5550 
+Banxico	697843394115022848	2016-02-11T18:03:25	El día de hoy el peso perdió 37 centavos frente al dólar. Tipo de cambio FIX hoy: 19.1754 pesos/dólar; ayer, 18.8089 
+Banxico	697824795157606400	2016-02-11T16:49:30	Para subasta suplementaria de dólares con precio mínimo se demandaron 912 mdd a través de 74 posturas y 15 postores. 
+Banxico	697823719557722113	2016-02-11T16:45:14	En subasta suplementaria se asignan otros 200 mdd a un tipo de cambio ponderado de 19.1693 pesos por dólar. 
+Banxico	697798693882179588	2016-02-11T15:05:47	Monto total demandado en la subasta de 200 mdd dólares con precio mínimo fue de 735 mdd (59 posturas recibidas) 
+Banxico	697798196831981568	2016-02-11T15:03:49	Subasta de 200 millones de dólares con precio mínimo. Posturas asignadas. Tipo de cambio ponderado: 19.0449 pesos 
+Banxico	697782872384495616	2016-02-11T14:02:55	El precio mínimo para la subasta de 200 millones de dólares correspondiente a hoy, 11 de febrero, es 18.9970 pesos por dólar (FIX + 1%).
+Banxico	697767043248992257	2016-02-11T13:00:01	UDIS(11/02/2016), valor: 5.411743 
+Banxico	697536724595937280	2016-02-10T21:44:49	Dollar gains 2 cents vs. peso: today´s FIX ExchangeRate is 18.8089 MXN/USD, yesterday´s: 18.7818 MXN/USD        **
+Banxico	697536275927019520	2016-02-10T21:43:02	No bids were tendered in today´s (9:00 hr.,12:00hr.,15:00 hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	697535193951838209	2016-02-10T21:38:44	FIX ExchangeRate for 02/10/2016 (MXN/USD): 18.8089 
+Banxico	697534827084394496	2016-02-10T21:37:17	182-day TIIE (02/10/2016): 3.6758% 
+Banxico	697533863451500545	2016-02-10T21:33:27	91-day TIIE (02/10/2016): 3.5873% 
+Banxico	697533589177503744	2016-02-10T21:32:21	28-day TIIE (02/10/2016): 3.5541% 
+Banxico	697533236235251712	2016-02-10T21:30:57	Target rate (02/10/2016)(annual percent): 3.25 
+Banxico	697533045193113604	2016-02-10T21:30:12	UDI value (02/10/2016): 5.410470  
+Banxico	697529131995561984	2016-02-10T21:14:39	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada para las 15 horas 
+Banxico	697495260574777344	2016-02-10T19:00:03	Tasa de interés objetivo(10/02/2016), valor: 3.25 
+Banxico	697489708805324800	2016-02-10T18:37:59	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 12 horas 
+Banxico	697488818564259840	2016-02-10T18:34:27	Avanza 2 (dos) centavos el dólar frente al peso. Tipo de cambio FIX hoy es 18.8089 pesos por dólar, ayer 18.7818  
+Banxico	697487949445746688	2016-02-10T18:31:00	TIIE 182(10/02/2016), valor: 3.6758 
+Banxico	697487878184566784	2016-02-10T18:30:43	TIIE 91(10/02/2016), valor: 3.5873 
+Banxico	697487811344072704	2016-02-10T18:30:27	TIIE 28(10/02/2016), valor: 3.5541 
+Banxico	697480425749348352	2016-02-10T18:01:06	FIX determinado el 10/02/2016 (Pesos por dólar), valor: 18.8089 
+Banxico	697436597550075904	2016-02-10T15:06:57	No hubo posturas para la subasta de dólares con precio mínimo (tipo de cambio FIX +1%) convocada a las 9 horas: 
+Banxico	697182596598333440	2016-02-09T22:17:38	Target rate (09/02/2016)(annual percent): 3.25 
+Banxico	697182315944894464	2016-02-09T22:16:31	No bids tendered in today´s (15:00hr.) 200 mdd sale auction with minimum bid price;  **
+Banxico	697164147037859840	2016-02-09T21:04:19	No se recibieron posturas para la subasta de dólares con precio mínimo convocada a las 15 horas: 
+Banxico	697131250696323072	2016-02-09T18:53:36	Peso loses 9 cents vs. dollar: today´s FIX ExchangeRate is 18.7818 MXN/USD, yesterday´s: 18.6959 MXN/USD;  **
+Banxico	697130318998835200	2016-02-09T18:49:54	No bids were tendered in today´s (9:00 hr. and 12:00hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	697129990039580672	2016-02-09T18:48:36	91-day TIIE (02/09/2016): 3.5900% 
+Banxico	697129755250851841	2016-02-09T18:47:40	28-day TIIE (02/09/2016): 3.5598% 
+Banxico	697129622970871809	2016-02-09T18:47:08	GovernmentSecurities auction results (Feb 9) (Cetes, 3-year Bonos, 3-year Udibonos);  **
+Banxico	697129067384995840	2016-02-09T18:44:56	28-day Cetes (02/09/2016), yield(%): 3.20 
+Banxico	697128747296665600	2016-02-09T18:43:40	FIX ExchangeRate for 02/09/2016 (MXN/USD): 18.7818 
+Banxico	697128454257389568	2016-02-09T18:42:30	According to INEGI, annual headline infation at the end of January 2016 was 2.61%. Core inflation: 2.64% (annual rate). **
+Banxico	697127453899169797	2016-02-09T18:38:31	InternationalReserves (02/05/2016) (mdd): 174,974.8 
+Banxico	697126825730797568	2016-02-09T18:36:01	UDI value (02/09/2016): 5.410378 
+Banxico	697119062531244033	2016-02-09T18:05:11	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 12 horas: 
+Banxico	697118596829306880	2016-02-09T18:03:19	Retrocede nueve (9) centavos el peso frente al dólar. Tipo de cambio FIX hoy: 18.7818 pesos por dólar; ayer: 18.6959 
+Banxico	697117901015232513	2016-02-09T18:00:34	FIX determinado el 09/02/2016 (Pesos por dólar), valor: 18.7818 
+Banxico	697115977184473088	2016-02-09T17:52:55	Subasta primaria valores gubernamentales: Udibono 3 años a tasa real de 1.98% (61 puntos base menos que anterior)/ 
+Banxico	697115216325181440	2016-02-09T17:49:54	Subasta primaria de valores gubernamentales: Bono M 3 años colocado en 5.05% (baja 6 puntos base), ver: 
+Banxico	697113955957772288	2016-02-09T17:44:53	Resultados de la subasta primaria de valores gubernamentales. Suben las tasas de Cetes a 28, 91 y 175 días. Ver más: 
+Banxico	697110416313352192	2016-02-09T17:30:49	CETES 28(09/02/2016), valor: 3.20 
+Banxico	697079389599629312	2016-02-09T15:27:32	Sin demanda (posturas recibidas) para subasta de 200 millones de dólares con precio mínimo convocada a las 9 horas: 
+Banxico	697078524193050624	2016-02-09T15:24:05	Saldo reserva internacional: 174,975 millones de dólares (mdd), disminución semanal: 412 mdd. Estado de cuenta: 
+Banxico	697072513528901632	2016-02-09T15:00:12	Reservas internacionales (mdd)(05/02/2016), valor: 174,974.8 
+Banxico	697058065510629376	2016-02-09T14:02:48	Inflación general anual al cierre de enero de 2016 fue 2.61% informa INEGI. Inflación subyacente, tasa anual 2.64 por ciento.
+Banxico	697042268373389312	2016-02-09T13:00:01	UDIS(09/02/2016), valor: 5.410378 
+Banxico	696791034852827136	2016-02-08T20:21:43	En subasta suplementaria de dólares con precio mínimo asignan 200 millones. Tipo de cambio ponderado 18.7292 pesos 
+Banxico	696781752891604993	2016-02-08T19:44:50	"Evolución y perspectivas de la economía mexicana", Agustín Carstens, Gobernador de Banco de México 
+Banxico	696770489562214400	2016-02-08T19:00:04	Tasa de interés objetivo(08/02/2016), valor: 3.25 
+Banxico	696758652376449024	2016-02-08T18:13:02	Pierde el peso 32 centavos frente al dólar (respecto del viernes). Tipo de cambio FIX hoy 18.6959 pesos por dólar 
+Banxico	696712740920889345	2016-02-08T15:10:36	Se asignan 200 millones de dólares en subasta con precio mínimo. Tipo de cambio ponderado 18.6446 pesos por dólar :
+Banxico	695778682682474497	2016-02-06T01:18:59	Siga a DivulgaBanxico para mantenerse informado de más indicadores económicos y financieros de México y el mundo.
+Banxico	695707996874125312	2016-02-05T20:38:06	FIX ExchangeRate for this week (Mon-Fri). See table:  **
+Banxico	695707547840307200	2016-02-05T20:36:19	Remaining 5 mdd-allotted (of the 200 mdd w/minimum bid price auctioned).Weighted ave.exch.rate: 18.3741 MXN/USD;  **
+Banxico	695706585604030464	2016-02-05T20:32:30	195 mdd allotted of the 200 mdd with minimum bid price auctioned. Weighted average exch.rate: 18.3712 MXN/USD;  **
+Banxico	695704725807824896	2016-02-05T20:25:06	91-day TIIE (02/05/2016): 3.5921% 
+Banxico	695704538527838208	2016-02-05T20:24:22	28-day TIIE (02/05/2016): 3.5616% 
+Banxico	695704312748453888	2016-02-05T20:23:28	FIX ExchangeRate for 02/05/2016 (MXN/USD): 18.3748 
+Banxico	695703916776804352	2016-02-05T20:21:53	Target rate (02/05/2016)(annual percent): 3.25 
+Banxico	695703682596282368	2016-02-05T20:20:58	UDI value (02/05/2016): 5.410014 
+Banxico	695669953567952899	2016-02-05T18:06:56	El tipo de cambio FIX peso-dólar en la semana (martes a viernes), ver tabla: 
+Banxico	695669690689912832	2016-02-05T18:05:53	Asignados los 5 millones de dólares restantes de subasta con precio mínimo. Tipo de cambio ponderado: 18.3741 pesos. 
+Banxico	695665973399941120	2016-02-05T17:51:07	Convocatoria a subasta de 5 (cinco) millones de dólares con precio mínimo para las 12 horas: 
+Banxico	695629915622739969	2016-02-05T15:27:50	Se asignan 195 de los 200 millones de dólares con precio mínimo subastados. Tipo de cambio ponderado: 18.3712 pesos: 
+Banxico	695388854786744320	2016-02-04T23:29:57	Peso gains 26 cents vs. dollar: today´s FIX ExchangeRate is 18.1891 MXN/USD, yesterday´s: 18.4537 MXN/USD;  **
+Banxico	695388190471892993	2016-02-04T23:27:18	No bids were tendered in today´s (9:00 hr.,12:00hr.,15:00 hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	695350407111966720	2016-02-04T20:57:10	91-day TIIE (04/02/2016): 3.5925% 
+Banxico	695350252195282944	2016-02-04T20:56:33	28-day TIIE (04/02/2016): 3.5600% 
+Banxico	695350047857225728	2016-02-04T20:55:45	FIX ExchangeRate for 04/02/2016 (MXN/USD): 18.1891 
+Banxico	695349640745525248	2016-02-04T20:54:07	Banxico Board decides to keep target rate unchanged at 3.25%; see mon.pol.statement (available only in Spanish);  **
+Banxico	695348456882212864	2016-02-04T20:49:25	Target rate (02/04/2016)(annual percent): 3.25 
+Banxico	695348278540398593	2016-02-04T20:48:43	UDI value (02/04/2016): 5.409923 
+Banxico	695324615967535104	2016-02-04T19:14:41	Fundamental, mantener marco macroeconómico sólido, llevar a cabo ajustes en finanzas públicas incluyendo a Pemex, 
+Banxico	695323672953794560	2016-02-04T19:10:56	La Junta de Gobierno vigilará en especial el tipo de cambio y su posible traspaso a los precios al consumidor 
+Banxico	695322916817207296	2016-02-04T19:07:56	Anuncio de política monetaria advierte que la coyuntura ha cambiado desfavorablemente y los riesgos se han acentuado 
+Banxico	695322439060889600	2016-02-04T19:06:02	En tanto, en el mediano plazo el balance riesgos para la inflación se mantuvo sin cambio. Anuncio política monetaria 
+Banxico	695322019819163649	2016-02-04T19:04:22	"Se estima que en el corto plazo el balance riesgos para la inflación se ha deteriorado", Anuncio política monetaria 
+Banxico	695321031007928321	2016-02-04T19:00:26	El objetivo para la Tasa de Interés Interbancaria a 1 día (tasa objetivo) se mantiene sin cambio en 3.25 por c... 
+Banxico	695320942667411456	2016-02-04T19:00:05	Tasa de interés objetivo(04/02/2016), valor: 3.25 
+Banxico	695313496347574273	2016-02-04T18:30:30	TIIE 91(04/02/2016), valor: 3.5925 
+Banxico	695313425174401024	2016-02-04T18:30:13	TIIE 28(04/02/2016), valor: 3.5600 
+Banxico	695307637840162817	2016-02-04T18:07:13	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 12 horas: 
+Banxico	695307197010415618	2016-02-04T18:05:28	Gana el peso 26 centavos frente al dólar. Tipo de cambio FIX hoy 18.1891 pesos por dólar. Ayer, 18.4537, 
+Banxico	695305980305764352	2016-02-04T18:00:38	FIX determinado el 04/02/2016 (Pesos por dólar), valor: 18.1891 
+Banxico	695263705861238785	2016-02-04T15:12:39	Hoy a las 13 horas: Anuncio de la decisión de política monetaria de Banxico: ver anuncios anteriores, 
+Banxico	695261428857462784	2016-02-04T15:03:36	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada hoy a las 9 horas: 
+Banxico	695230330882510848	2016-02-04T13:00:02	UDIS(04/02/2016), valor: 5.409923 
+Banxico	695000133490987008	2016-02-03T21:45:18	Sin posturas recibidas para la subasta de 200 mdd con precio mínimo convocada a las 15 horas. 
+Banxico	694953223648481280	2016-02-03T18:38:54	No se recibieron posturas para la subasta de dólares con precio mínimo convocada a las 12 horas. 
+Banxico	694952743799140353	2016-02-03T18:37:00	Hoy el peso recuperó 4 centavos ante el dólar. El tipo de cambio FIX es 18.4537 pesos por dólar, ayer 18.4902 p/d. 
+Banxico	694951373754880000	2016-02-03T18:31:33	TIIE 182(03/02/2016), valor: 3.6856 
+Banxico	694943453390594049	2016-02-03T18:00:05	Resultados de la subasta de cupones segregados de Udibonos  
+Banxico	694900684630568960	2016-02-03T15:10:08	La semana pasada la Reserva Internacional aumentó 672 millones de dólares, su saldo: 175,387 mdd, 
+Banxico	694900226826465280	2016-02-03T15:08:19	El Boletín semanal del estado de cuenta del Banco de México (Banxico) se puede consultar aquí: 
+Banxico	694899279362588672	2016-02-03T15:04:33	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 9 horas: 
+Banxico	694898204798681089	2016-02-03T15:00:17	Reservas internacionales (mdd)(29/01/2016), valor: 175,387.3 
+Banxico	694622729543090176	2016-02-02T20:45:38	Se asignan en subasta suplementaria con precio mínimo 200 millones de dólares.Tipo de cambio ponderado 18.4883 pesos 
+Banxico	694585784859398145	2016-02-02T18:18:50	Retrocede el peso casi 40 centavos frente al dólar respecto de cotización FIX viernes. Hoy 18.4902 pesos por dólar 
+Banxico	694585002919473152	2016-02-02T18:15:44	Resultados de la subasta primaria de valores gubernamentales. Suben las tasas de CETES a 28, 91 y 182 días. Ver más:
+Banxico	694573573944414209	2016-02-02T17:30:19	CETES 28(02/02/2016), valor: 3.16 
+Banxico	694543581952868352	2016-02-02T15:31:08	Expectativa tipo de cambio cierre 2016 especialistas sector privado: 17.60 p/d (media), 17.55 p/d (mediana): 
+Banxico	694541837432856576	2016-02-02T15:24:12	Expectativa inflación general anual 2016 (dic-dic) para especialistas sector privado es de 3.1% (media y mediana): 
+Banxico	694540983912890372	2016-02-02T15:20:49	Durante 2015 los envíos de remesas fueron 84.7 millones de operaciones, la remesa promedio fue de 292 dólares / 
+Banxico	694538329547628544	2016-02-02T15:10:16	Se asignan 200 millones de dólares en subasta con precio mínimo. Tipo de cambio ponderado: 18.4289 pesos por dólar/ 
+Banxico	694537468184363009	2016-02-02T15:06:50	Durante 2015 las remesas familiares a México fueron 24,771 millones de dólares, un crecimiento anual de 4.75%, 
+Banxico	694536334237519872	2016-02-02T15:02:20	Encuesta sobre las expectativas de los especialistas en economía del sector privado. Enero 2016. 
+Banxico	693246336812986368	2016-01-30T01:36:21	Bancos con las tasas de interés más bajas para créditos de nómina de julio 2014 a junio 2015: Inbursa, HSBC, Banorte 
+Banxico	693210921607430144	2016-01-29T23:15:37	Programa de política monetaria para 2016 
+Banxico	693182494095478784	2016-01-29T21:22:39	During the week (Mon-Fri), the peso regained 34 cents (1.8%) vs. dollar;  **
+Banxico	693181357669744640	2016-01-29T21:18:09	Peso gains 10 cents vs. dollar: today´s FIX ExchangeRate is 18.1935 MXN/USD, yesterday´s: 18.2906 MXN/USD;  **
+Banxico	693180017686114304	2016-01-29T21:12:49	No bids tendered in today´s (9:00 hr./12:00hr./15:00 hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	693175619832516608	2016-01-29T20:55:21	91-day TIIE (01/29/2016): 3.5904% 
+Banxico	693175288226672640	2016-01-29T20:54:01	28-day TIIE (01/29/2016): 3.5570% 
+Banxico	693175065119043584	2016-01-29T20:53:08	FIX ExchangeRate for 01/29/2016 (MXN/USD): 18.1935 
+Banxico	693174765406695424	2016-01-29T20:51:57	Target rate (01/29/2016)(annual percent): 3.25 
+Banxico	693174627644755968	2016-01-29T20:51:24	UDI value (01/29/2016): 5.409376 
+Banxico	693139225483411456	2016-01-29T18:30:43	TIIE 91(29/01/2016), valor: 3.5904 
+Banxico	693139163080560640	2016-01-29T18:30:29	TIIE 28(29/01/2016), valor: 3.5570 
+Banxico	693135899920478208	2016-01-29T18:17:31	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada hoy a las 12 horas: 
+Banxico	693135408624852992	2016-01-29T18:15:33	De lunes a viernes el peso recuperó 34 centavos frente al dólar, esto es: 1.8%, ver: 
+Banxico	693134347101011968	2016-01-29T18:11:20	Se aprecia, ahora 10 centavos, el peso frente al dólar. Tipo de cambio FIX hoy 18.1935 pesos por dólar; ayer 18.2906 
+Banxico	693131621151539200	2016-01-29T18:00:30	FIX determinado el 29/01/2016 (Pesos por dólar), valor: 18.1935 
+Banxico	693126697030258688	2016-01-29T17:40:56	La tasa de interés promedio ponderada de créditos de nómina otorgados de julio 2014 a junio 2015 fue de 26.3%: 
+Banxico	693123979729510400	2016-01-29T17:30:09	Convocatoria para la subasta de cupones segregados de udibonos 
+Banxico	693094892776456192	2016-01-29T15:34:34	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada hoy a las 9 horas: 
+Banxico	693093953780871168	2016-01-29T15:30:50	El financiamiento otorgado por la banca comercial creció 8.4% real anual en diciembre de 2015: 
+Banxico	693093177104867328	2016-01-29T15:27:45	Agregados monetarios y actividad financiera en diciembre de 2015, comunicado de prensa: 
+Banxico	693086239235244032	2016-01-29T15:00:11	Indicadores básicos de créditos de nómina (datos a junio de 2015) 
+Banxico	693056004846542848	2016-01-29T13:00:02	UDIS(29/01/2016), valor: 5.409376 
+Banxico	692917560141021185	2016-01-29T03:49:54	Hoy se celebró la primera reunión de 2016 del Comité Técnico del Fondo Mexicano del Petróleo, comunicado de prensa: 
+Banxico	692917208498987008	2016-01-29T03:48:30	El Comité Técnico del FMP nombró hoy a su nuevo Coordinador Ejecutivo, el Maestro Mauricio Herrera Madariaga: 
+Banxico	692794309154701312	2016-01-28T19:40:09	Peso gains 16 cents vs. dollar: today´s FIX ExchangeRate is 18.2906 MXN/USD, yesterday´s: 18.4530 MXN/USD;  **
+Banxico	692793816437256192	2016-01-28T19:38:11	No bids tendered in today´s (9:00 hr. and 12:00hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	692793110678507520	2016-01-28T19:35:23	91-day TIIE (01/28/2016): 3.5882% 
+Banxico	692792956571377664	2016-01-28T19:34:46	28-day TIIE (01/28/2016): 3.5551% 
+Banxico	692792588252741632	2016-01-28T19:33:19	FIX ExchangeRate for 01/28/2016 (MXN/USD): 18.2906 
+Banxico	692792390914977792	2016-01-28T19:32:32	Target rate (01/28/2016)(annual percent): 3.25 
+Banxico	692791957421056000	2016-01-28T19:30:48	UDI value (01/28/2016): 5.409285 
+Banxico	692784241340477441	2016-01-28T19:00:09	La Comisión de Cambios extiende las medidas preventivas para proveer liquidez al mercado cambiario 
+Banxico	692784216816287744	2016-01-28T19:00:03	Tasa de interés objetivo(28/01/2016), valor: 3.25 
+Banxico	692776752548966400	2016-01-28T18:30:23	TIIE 91(28/01/2016), valor: 3.5882 
+Banxico	692776693820305408	2016-01-28T18:30:09	TIIE 28(28/01/2016), valor: 3.5551 
+Banxico	692771297164529664	2016-01-28T18:08:42	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada hoy a las 12 horas: 
+Banxico	692770312094556160	2016-01-28T18:04:48	Se aprecia el peso 16 centavos frente al dólar. Tipo de cambio FIX hoy 18.2906 pesos por dólar, ayer 18.4530 
+Banxico	692769315406290944	2016-01-28T18:00:50	FIX determinado el 28/01/2016 (Pesos por dólar), valor: 18.2906 
+Banxico	692724466791481344	2016-01-28T15:02:37	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada hoy a las 9 horas: 
+Banxico	692713390381240320	2016-01-28T14:18:36	Recuerde el calendario 2016 para los anuncios de las decisiones de política monetaria del Banco de México, ver aquí: 
+Banxico	692712727450497024	2016-01-28T14:15:58	"La política monetaria (...) carecería de eficacia y efectividad si no estuviese impregnada de transparencia": 
+Banxico	692710799303790593	2016-01-28T14:08:19	Mañana 29 de enero Banxico publicará "Agregados monetarios y actividad financiera a diciembre de 2015" ver aquí: 
+Banxico	692693611796779008	2016-01-28T13:00:01	UDIS(28/01/2016), valor: 5.409285 
+Banxico	692512883905683456	2016-01-28T01:01:52	La tasa de interés promedio ponderado de los créditos automotrices otorgados entre mayo 2014 y abril 2015 fue 11.7%: 
+Banxico	692480582366928902	2016-01-27T22:53:31	No bids tendered for today´s (15:00hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	692453750833811456	2016-01-27T21:06:54	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada hoy a las 15 horas: 
+Banxico	692444110662279168	2016-01-27T20:28:35	Peso gains slightly vs. dollar: today´s FIX ExchangeRate is 18.4530 MXN/USD, yesterday´s: 18.4715 MXN/USD;  **
+Banxico	692443400734400513	2016-01-27T20:25:46	No bids tendered for today´s (9:00 hr. and 12:00hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	692442229869301762	2016-01-27T20:21:07	182-day TIIE (01/27/2016): 3.7083% 
+Banxico	692442060494872576	2016-01-27T20:20:26	91-day TIIE (01/27/2016): 3.5915% 
+Banxico	692441833180364800	2016-01-27T20:19:32	28-day TIIE (01/27/2016): 3.5600% 
+Banxico	692441664577605632	2016-01-27T20:18:52	FIX ExchangeRate for 01/27/2016 (MXN/USD): 18.4530 
+Banxico	692441051903164418	2016-01-27T20:16:26	Target rate (01/27/2016)(annual percent): 3.25 
+Banxico	692440841592389633	2016-01-27T20:15:36	UDI value (01/27/2016): 5.409194 
+Banxico	692437050012733440	2016-01-27T20:00:32	Banco de México publica las bases para la primera edición del premio “Reto Banxico”, dirigido a los estudiante... 
+Banxico	692421826463547394	2016-01-27T19:00:02	Tasa de interés objetivo(27/01/2016), valor: 3.25 
+Banxico	692421450947493888	2016-01-27T18:58:33	Indicadores básicos de crédito automotriz (datos a abril de 2015) 
+Banxico	692414610452905984	2016-01-27T18:31:22	TIIE 182(27/01/2016), valor: 3.7083 
+Banxico	692414534313734144	2016-01-27T18:31:04	TIIE 91(27/01/2016), valor: 3.5915 
+Banxico	692414449282588673	2016-01-27T18:30:43	TIIE 28(27/01/2016), valor: 3.5600 
+Banxico	692409450842439680	2016-01-27T18:10:52	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 12 horas: 
+Banxico	692408466804068352	2016-01-27T18:06:57	Avance marginal del peso frente al dólar. Tipo de cambio FIX hoy 18.4530 pesos por dólar; ayer 18.4715 
+Banxico	692407312791654401	2016-01-27T18:02:22	FIX determinado el 27/01/2016 (Pesos por dólar), valor: 18.4530 
+Banxico	692362394304126976	2016-01-27T15:03:52	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada hoy a las 9 horas: 
+Banxico	692358631203966976	2016-01-27T14:48:55	Algunos de los Informes que genera el Banco de México (Banxico ) con fundamento en disposiciones legales, ver aquí: 
+Banxico	692357720960339968	2016-01-27T14:45:18	Conozca las estadísticas generadas de la base datos que Banxico utiliza, en este vínculo: 
+Banxico	692331226837884928	2016-01-27T13:00:02	UDIS(27/01/2016), valor: 5.409194 
+Banxico	692096671736422400	2016-01-26T21:27:59	Peso gains 6 cents vs. dollar: today´s FIX ExchangeRate is 18.4715 MXN/USD, yesterday´s: 18.5352 MXN/USD        **
+Banxico	692096192541384704	2016-01-26T21:26:05	No bids tendered in today´s (9:00 hr./12:00hr./15:00 hr.) 200 mdd sale auctions with a minimum price;  **
+Banxico	692093695760314368	2016-01-26T21:16:10	"Firma del convenio de colaboración entre el INAI y Banco de México", Agustín Carstens, Gobernador de Banco de... 
+Banxico	692093517364002817	2016-01-26T21:15:27	"México ante el continuo deterioro del exterior", Manuel Sánchez, Subgobernador del Banco de México 
+Banxico	692091779366039553	2016-01-26T21:08:33	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 15 horas: 
+Banxico	692091099435773955	2016-01-26T21:05:51	GovernmentSecurities auction results (Jan 26) (Cetes, 5-year Bonos, 10-year Udibonos);  **
+Banxico	692090772254957572	2016-01-26T21:04:33	28-day Cetes (01/26/2016), yield(%): 3.14 
+Banxico	692090312437559296	2016-01-26T21:02:43	InternationalReserves (01/22/2016) (mdd): 174,702.8 
+Banxico	692089734835736576	2016-01-26T21:00:25	91-day TIIE (01/26/2016): 3.5917% 
+Banxico	692089372481458176	2016-01-26T20:58:59	28-day TIIE (01/26/2016): 3.5610% 
+Banxico	692088643553341440	2016-01-26T20:56:05	FIX ExchangeRate for 01/26/2016 (MXN/USD): 18.4715 
+Banxico	692087855993081856	2016-01-26T20:52:57	Target rate (01/26/2016)(annual percent): 3.25 
+Banxico	692086884042866688	2016-01-26T20:49:06	UDI value (01/26/2016): 5.409103 
+Banxico	692078448165015552	2016-01-26T20:15:34	"Firma del convenio de colaboración entre el INAI y Banco de México", Agustín Carstens, Gobernador de Banco de... 
+Banxico	692059453751894016	2016-01-26T19:00:06	Tasa de interés objetivo(26/01/2016), valor: 3.25 
+Banxico	692054088402362368	2016-01-26T18:38:47	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 12 horas: 
+Banxico	692053363328831488	2016-01-26T18:35:54	El peso recupera 6 centavos ante el dólar. En su cotización FIX esta divisa está en 18.4715 pesos; ayer en 18.5352. 
+Banxico	692052065355337728	2016-01-26T18:30:44	TIIE 91(26/01/2016), valor: 3.5917 
+Banxico	692052002235248640	2016-01-26T18:30:29	TIIE 28(26/01/2016), valor: 3.5610 
+Banxico	692044496532430848	2016-01-26T18:00:40	FIX determinado el 26/01/2016 (Pesos por dólar), valor: 18.4715 
+Banxico	692043037640228865	2016-01-26T17:54:52	Resultados de la subasta de valores gubernamentales. Sube 5 puntos base la tasa de CETES 28 días a 3.14%, ver más: 
+Banxico	692036809652457472	2016-01-26T17:30:07	CETES 28(26/01/2016), valor: 3.14 
+Banxico	692000638163509248	2016-01-26T15:06:23	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 9 horas: 
+Banxico	692000297091096576	2016-01-26T15:05:02	Base monetaria: saldo al 22/01/16 fue 1,189.819 millones de pesos. Disminución semanal: 17,587 millones de pesos: 
+Banxico	691999497132507136	2016-01-26T15:01:51	Reservas internacionales Banxico saldo al 22/01/16: 174.703 millones de dólares (mdd), disminución de 529 mdd: 
+Banxico	691999132999819264	2016-01-26T15:00:24	Reservas internacionales (mdd)(22/01/2016), valor: 174,702.8 
+Banxico	691984943916814336	2016-01-26T14:04:01	Para la subasta suplementaria de 200 mdd con precio mínimo de las 15:10 horas de ayer no se recibieron posturas: 
+Banxico	691984605209964545	2016-01-26T14:02:40	Ayer a las 15 horas se asignaron 200 mdd en subasta con precio mínimo. Tipo de cambio ponderado: 18.6127 pesos, 
+Banxico	691968836636028929	2016-01-26T13:00:01	UDIS(26/01/2016), valor: 5.409103 
+Banxico	691708045089337344	2016-01-25T19:43:43	Peso loses 11 cents vs. dollar: today´s FIX ExchangeRate is 18.5352 MXN/USD, last Friday´s: 18.4280 MXN/USD;  **
+Banxico	691707329989840896	2016-01-25T19:40:53	No bids were tendered in today´s (9:00 hr./12:00hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	691707000909107202	2016-01-25T19:39:34	91-day TIIE (01/25/2016): 3.5900% 
+Banxico	691706774722781184	2016-01-25T19:38:41	28-day TIIE (01/25/2016): 3.5600% 
+Banxico	691706585475747840	2016-01-25T19:37:55	FIX ExchangeRate for 01/25/2016 (MXN/USD): 18.5352 
+Banxico	691706169413357568	2016-01-25T19:36:16	Target rate (01/25/2016)(annual percent): 3.25 
+Banxico	691705546093654016	2016-01-25T19:33:48	UDI value (01/25/2016): 5.409012 
+Banxico	691697046504341504	2016-01-25T19:00:01	Tasa de interés objetivo(25/01/2016), valor: 3.25 
+Banxico	691689697760776193	2016-01-25T18:30:49	TIIE 91(25/01/2016), valor: 3.5900 
+Banxico	691689607017033728	2016-01-25T18:30:27	TIIE 28(25/01/2016), valor: 3.5600 
+Banxico	691684186395058176	2016-01-25T18:08:55	No hubo demanda de dólares para la subasta de 200 millones con precio mínimo convocada a las 12 horas: 
+Banxico	691683398486626304	2016-01-25T18:05:47	Retrocede el peso 11 centavos frente al dólar. Tipo de cambio FIX hoy 18.5352 pesos por dólar; viernes 18.4280 
+Banxico	691682162781790208	2016-01-25T18:00:53	FIX determinado el 25/01/2016 (Pesos por dólar), valor: 18.5352 
+Banxico	691651575412953089	2016-01-25T15:59:20	No hubo demanda de dólares para la subasta de 200 millones con precio mínimo convocada a las 9 horas: 
+Banxico	690715435088482305	2016-01-23T01:59:27	No bids were tendered in today´s (15:00hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	690706009451462656	2016-01-23T01:22:00	Para más información económica y financiera, así como discursos y presentaciones de personajes de la banca central siga a DivulgaBanxico.
+Banxico	690634081076293632	2016-01-22T20:36:10	According to INEGI, during the first 2 weeks of January, Mexico's National Consumer Price Index recorded a variation of 0.03%. **
+Banxico	690632587358765056	2016-01-22T20:30:14	According to INEGI, the annual inflation rate (first 2 weeks of Jan/2016) was 2.48 percent. **
+Banxico	690631913191542784	2016-01-22T20:27:34	Peso/dollar ExchangeRate of the last 5 working days, including today´s (Jan 22) FIX (18.4280 MXN/USD):  **
+Banxico	690631526040530945	2016-01-22T20:26:01	No bids were tendered in today´s (9:00 hr.,12:00hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	690631146384728064	2016-01-22T20:24:31	91-day TIIE (01/22/2016): 3.5886% 
+Banxico	690630983750578176	2016-01-22T20:23:52	28-day TIIE (01/22/2016): 3.5545% 
+Banxico	690630574470369280	2016-01-22T20:22:14	FIX ExchangeRate for 01/22/2016 (MXN/USD): 18.4280
+Banxico	690630393813307392	2016-01-22T20:21:31	Target rate (01/22/2016)(annual percent): 3.25 
+Banxico	690629404272173057	2016-01-22T20:17:35	UDI value (01/22/2016): 5.405171 
+Banxico	690598599302840322	2016-01-22T18:15:11	No hubo demanda de dólares para la subasta de 200 millones con precio mínimo convocada a las 12 horas: 
+Banxico	690597474700910592	2016-01-22T18:10:43	El tipo de cambio FIX a lo largo de la semana, de lunes a viernes: 
+Banxico	690551398476328960	2016-01-22T15:07:37	Variación del Índice Nacional de Precios al Consumidor (INPC) durante la primera quincena de enero: 0.03% informa INEGI.
+Banxico	690550621812830208	2016-01-22T15:04:32	No hubo demanda de dólares para la subasta de 200 millones con precio mínimo convocada hoy a las 9 horas, ver: 
+Banxico	690550253955579904	2016-01-22T15:03:05	Tasa de inflación anual, primera quincena de enero de 2016 fue: 2.48 por ciento informa INEGI.
+Banxico	690519287207886848	2016-01-22T13:00:01	UDIS(22/01/2016), valor: 5.405171 
+Banxico	690306940346339329	2016-01-21T22:56:14	No hubo demanda de dólares para la subasta de 200 millones con precio mínimo convocada hoy a las 15 horas: 
+Banxico	690234120811614208	2016-01-21T18:06:52	No hubo demanda de dólares para la subasta de 200 millones con precio mínimo convocada hoy a las 12 horas: 
+Banxico	690233704640217090	2016-01-21T18:05:13	Gana el peso cerca de 10 centavos frente al dólar. Tipo de cambio FIX hoy es 18.5084 pesos por dólar; ayer, 18.6080 
+Banxico	690190142124851200	2016-01-21T15:12:07	No hubo demanda de dólares para la subasta de 200 millones con precio mínimo convocada a las 9 horas de hoy jueves: 
+Banxico	689950830850621441	2016-01-20T23:21:11	Peso depreciates 2.3% vs. dollar: today´s FIX ExchangeRate is 18.6080 MXN/USD, yesterday´s: 18.1947 MXN/USD;  **
+Banxico	689950149880221698	2016-01-20T23:18:29	Total amount tendered in 200 mdd sale auction (no.2) with minimum bid price: 765 mdd. No.of bids/bidders:  **
+Banxico	689949703383957509	2016-01-20T23:16:42	Bids allotted in 200 mdd sale auction (no.2) with minimum price. Weighted average exch.rate: 18.6022 MXN/USD;  **
+Banxico	689948042057924609	2016-01-20T23:10:06	Total amount tendered in 200 mdd sale auction with minimum bid price: 947 mdd. No.bids/bidders:  **
+Banxico	689947424849334272	2016-01-20T23:07:39	Bids allotted in 200 mdd sale auction with minimum price. Weighted average exch.rate: 18.4399 MXN/USD;  **
+Banxico	689907319845421056	2016-01-20T20:28:17	182-day TIIE (01/20/2016): 3.6766% 
+Banxico	689906932522442752	2016-01-20T20:26:45	91-day TIIE (01/20/2016): 3.5871% 
+Banxico	689906723750936576	2016-01-20T20:25:55	28-day TIIE (01/20/2016): 3.5540% 
+Banxico	689906259034669056	2016-01-20T20:24:04	FIX ExchangeRate for 01/20/2016 (MXN/USD): 18.6080 
+Banxico	689906044525371392	2016-01-20T20:23:13	Target rate (01/20/2016)(annual percent): 3.25 
+Banxico	689905845308563456	2016-01-20T20:22:26	UDI value (01/20/2016): 5.402612 
+Banxico	689877944131452928	2016-01-20T18:31:33	TIIE 182(20/01/2016), valor: 3.6766 
+Banxico	689877672181108736	2016-01-20T18:30:29	TIIE 91(20/01/2016), valor: 3.5871 
+Banxico	689877499988221952	2016-01-20T18:29:47	TIIE 28(20/01/2016), valor: 3.5540 
+Banxico	689871213233967105	2016-01-20T18:04:49	El peso se deprecia 2.3% ante al dólar. Tipo de cambio FIX hoy: 18.6080 pesos por dólar; ayer: 18.1947 pesos/dólar, 
+Banxico	689842284062322688	2016-01-20T16:09:51	Monto total demandado en subasta suplementaria de dólares (200 mdd) con precio mínimo: 765 mdd. Posturas recibidas: 
+Banxico	689841541284663298	2016-01-20T16:06:54	Subasta suplementaria de 200 millones de dólares a precio mínimo. Tipo de cambio ponderado: 18.6022 pesos por dólar 
+Banxico	689826069428338688	2016-01-20T15:05:25	Monto total demandado en subasta de 200 millones de dólares (mdd) con precio mínimo: 947 mdd. Posturas recibidas: 
+Banxico	689825711721349120	2016-01-20T15:04:00	Se asignan 200 millones de dólares en subasta con precio mínimo. Tipo de cambio ponderado: 18.4399 pesos por dólar/ 
+Banxico	689818660894957569	2016-01-20T14:35:59	Conozca las preguntas más frecuentes - y sus respuestas- acerca del mercado cambiario en México, en esta liga: 
+Banxico	689794516807618561	2016-01-20T13:00:03	UDIS(20/01/2016), valor: 5.402612 
+Banxico	689554231850770432	2016-01-19T21:05:14	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 15 horas: 
+Banxico	689545726515249152	2016-01-19T20:31:26	Peso gains slightly 0.2% vs. dollar: today´s FIX ExchangeRate is 18.1947 MXN/USD, yesterday´s: 18.2327 MXN/USD;  **
+Banxico	689544870248079361	2016-01-19T20:28:02	No bids were tendered in today´s (9:00 hr.,12:00hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	689544267350482944	2016-01-19T20:25:39	InternationalReserves (01/15/2016) (mdd): 175,232.0 
+Banxico	689543952953815040	2016-01-19T20:24:24	GovernmentSecurities auction results (Jan 19) (Cetes, 20-year Bonos, BondesD);  **
+Banxico	689543600762257409	2016-01-19T20:23:00	28-day Cetes (01/19/2016), yield(%): 3.09 
+Banxico	689543237862723585	2016-01-19T20:21:33	91-day TIIE (01/19/2016): 3.5886% 
+Banxico	689542060454449152	2016-01-19T20:16:52	28-day TIIE (01/19/2016): 3.5551% 
+Banxico	689531826126229504	2016-01-19T19:36:12	FIX ExchangeRate for 01/19/2016 (MXN/USD): 18.1947 
+Banxico	689531432994103296	2016-01-19T19:34:39	Target rate (01/19/2016)(annual percent): 3.25 
+Banxico	689531053011181568	2016-01-19T19:33:08	UDI value (01/19/2016): 5.401333 
+Banxico	689522738717818881	2016-01-19T19:00:06	Tasa de interés objetivo(19/01/2016), valor: 3.25 
+Banxico	689515409473536000	2016-01-19T18:30:58	TIIE 91(19/01/2016), valor: 3.5886 
+Banxico	689515286697930752	2016-01-19T18:30:29	TIIE 28(19/01/2016), valor: 3.5551 
+Banxico	689509202029510656	2016-01-19T18:06:18	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 12 horas: 
+Banxico	689508524070547456	2016-01-19T18:03:37	Avance marginal del peso en tipo de cambio FIX: 0.2%. La cotización hoy es 18.1947 pesos por dólar, ayer 18.2327, 
+Banxico	689507774271660032	2016-01-19T18:00:38	FIX determinado el 19/01/2016 (Pesos por dólar), valor: 18.1947 
+Banxico	689500957508370432	2016-01-19T17:33:33	Resultados subasta primaria de valores gubernamentales. Sube tasa de Cetes a 28 días 4 puntos base a 3.09%, ver más: 
+Banxico	689500273463529473	2016-01-19T17:30:50	CETES 28(19/01/2016), valor: 3.09 
+Banxico	689464343545573376	2016-01-19T15:08:03	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 9 horas: 
+Banxico	689463693235519488	2016-01-19T15:05:28	Disminución semanal de la base monetaria: 4,195 millones de pesos; su crecimiento anual: 17.2 por ciento: 
+Banxico	689462988189728768	2016-01-19T15:02:40	Reserva internacional Banxico en 175,232 millones de dólares, disminución semanal: 523 mdd, ver estado de cuenta: 
+Banxico	689462461750075392	2016-01-19T15:00:35	Reservas internacionales (mdd)(15/01/2016), valor: 175,232.0 
+Banxico	689432122071715840	2016-01-19T13:00:01	UDIS(19/01/2016), valor: 5.401333 
+Banxico	689240453967810560	2016-01-19T00:18:24	"El museo y la ciencia económica", Manuel Sánchez, Subgobernador del Banco de México 
+Banxico	689217063039045632	2016-01-18T22:45:27	Dollar gains 2 cents vs. peso: today´s FIX ExchangeRate is 18.2327 MXN/USD, last Friday´s: 18.2108 MXN/USD;  **
+Banxico	689216317879025664	2016-01-18T22:42:29	No bids were tendered in today´s (9:00 hr./12:00hr./15:00 hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	689214372170735616	2016-01-18T22:34:45	91-day TIIE (01/18/2016): 3.5900% 
+Banxico	689191679669055488	2016-01-18T21:04:35	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada para las 15 horas: 
+Banxico	689184881553752064	2016-01-18T20:37:34	28-day TIIE (01/18/2016): 3.5598% 
+Banxico	689184708903612417	2016-01-18T20:36:53	FIX ExchangeRate for 01/18/2016 (MXN/USD): 18.2327 
+Banxico	689184292346310657	2016-01-18T20:35:14	Target rate (01/18/2016)(annual percent): 3.25 
+Banxico	689184113371164672	2016-01-18T20:34:31	UDI value (01/18/2016): 5.400054 
+Banxico	689160334406336513	2016-01-18T19:00:02	Tasa de interés objetivo(18/01/2016), valor: 3.25 
+Banxico	689153000858894336	2016-01-18T18:30:53	TIIE 91(18/01/2016), valor: 3.5900 
+Banxico	689152929392017408	2016-01-18T18:30:36	TIIE 28(18/01/2016), valor: 3.5598 
+Banxico	689150621883092992	2016-01-18T18:21:26	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 12 horas: 
+Banxico	689148414437675008	2016-01-18T18:12:40	Avanza dos centavos el dólar frente al peso. Tipo de cambio FIX hoy 18.2327 pesos por dólar; el viernes: 18.2108, 
+Banxico	689145377136611328	2016-01-18T18:00:36	FIX determinado el 18/01/2016 (Pesos por dólar), valor: 18.2327 
+Banxico	689109527048908800	2016-01-18T15:38:08	"Participación en el evento 2nd BBVA Latin American Local Markets Conference", Javier Guzmán, Subgobernador de... 
+Banxico	689103078822416384	2016-01-18T15:12:31	¿Cómo conocer y rastrear el estado de una transferencia bancaria vía SPEI?: 
+Banxico	689101528133677056	2016-01-18T15:06:21	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 9 horas: 
+Banxico	689084811932209152	2016-01-18T13:59:56	¿En qué consiste la actuación de Banxico para lograr la estabilidad de precios? Consulte aquí la respuesta: 
+Banxico	689069735829323776	2016-01-18T13:00:01	UDIS(18/01/2016), valor: 5.400054 
+Banxico	688151473037819904	2016-01-16T00:11:11	Siga a DivulgaBanxico para estar informado sobre indicadores, discursos y otras noticias relacionadas con la banca central en el mundo.
+Banxico	688137688730316802	2016-01-15T23:16:24	Dollar gains 1.7% vs. peso: today´s FIX ExchangeRate is 18.2108 MXN/USD, yesterday´s: 17.9121 MXN/USD;  **
+Banxico	688136695208792064	2016-01-15T23:12:27	Additional 200 mdd sale auction w/min.bid price. Bids allotted. Weighted average exch.rate: 18.1880 MXN/USD;  **
+Banxico	688130990435205120	2016-01-15T22:49:47	Bids allotted in 200 mdd sale auction with minimum bid price. Weighted average exch.rate: 18.1189 MXN/USD;  **
+Banxico	688099291630456832	2016-01-15T20:43:50	91-day TIIE (01/15/2016): 3.5875% 
+Banxico	688099062617260032	2016-01-15T20:42:55	28-day TIIE (01/15/2016): 3.5547% 
+Banxico	688095978021228544	2016-01-15T20:30:40	FIX ExchangeRate for 01/15/2016 (MXN/USD): 18.2108 
+Banxico	688095155329470464	2016-01-15T20:27:23	Target rate (01/15/2016)(annual percent): 3.25 
+Banxico	688094966183145472	2016-01-15T20:26:38	UDI value (01/15/2016): 5.396219 
+Banxico	688065820216328192	2016-01-15T18:30:49	TIIE 91(15/01/2016), valor: 3.5875 
+Banxico	688065748938260484	2016-01-15T18:30:32	TIIE 28(15/01/2016), valor: 3.5547 
+Banxico	688059449345347584	2016-01-15T18:05:30	Se aprecia 1.7% el dólar frente al peso de ayer a hoy. Tipo de cambio FIX hoy: 18.2108 pesos por dólar. Ayer 17.9121 
+Banxico	688032205013184514	2016-01-15T16:17:15	Subasta adicional 200 millones de dólares con precio mínimo. Asignaciones. Tipo de cambio ponderado: 18.1880 pesos 
+Banxico	688015326605369347	2016-01-15T15:10:11	Se asignan 200 millones de dólares en subasta con precio mínimo. Tipo de cambio ponderado 18.1189 pesos por dólar 
+Banxico	687735073970327552	2016-01-14T20:36:33	Dollar gains 6 cents vs. peso: today´s FIX ExchangeRate is 17.9121 MXN/USD, yesterday´s: 17.8500;  **
+Banxico	687727506862944256	2016-01-14T20:06:29	No bids were tendered in today´s (9:00 hr./ 12:00hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	687726718933532673	2016-01-14T20:03:21	91-day TIIE (01/14/2016): 3.5865% 
+Banxico	687726164027125760	2016-01-14T20:01:09	28-day TIIE (01/14/2016): 3.5543% 
+Banxico	687725822992515072	2016-01-14T19:59:48	FIX ExchangeRate for 01/14/2016 (MXN/USD): 17.9121 
+Banxico	687725464329166848	2016-01-14T19:58:22	Target rate (01/14/2016)(annual percent): 3.25 
+Banxico	687725150607806464	2016-01-14T19:57:07	UDI value (01/14/2016): 5.394942 
+Banxico	687697142115270659	2016-01-14T18:05:50	No se recibieron posturas para la subasta de dólares (200 millones) con precio mínimo convocada hoy a las 12 horas: 
+Banxico	687696775772147712	2016-01-14T18:04:22	Avanza dólar 6 centavos ante el peso. Tipo de cambio FIX hoy: 17.9121 pesos por dólar, ayer 17.8500 pesos por dólar. 
+Banxico	687652057696743424	2016-01-14T15:06:41	Presentación Gobernador de Banxico en simposio "Ultra low interest rates &amp; challenges for central banks" (12-01): 
+Banxico	687651172212031488	2016-01-14T15:03:10	Sin posturas recibidas para la subasta de dólares (200 millones) con precio mínimo convocada hoy a las 9 horas: 
+Banxico	687650356273135619	2016-01-14T14:59:55	Las preguntas más frecuentes acerca de Banxico y sus respuestas: 
+Banxico	687496061359763456	2016-01-14T04:46:48	"Unconventional monetary policies, spillovers and policy options for EMEs", Agustín Carstens, Gobernador de Ba... 
+Banxico	687397927128580096	2016-01-13T22:16:51	Para más información económica y financiera de México y el mundo, siga a DivulgaBanxico.
+Banxico	687390441612771328	2016-01-13T21:47:07	Peso gains 6 cents (+0.3%) vs. dollar: today´s FIX ExchangeRate is 17.8500 MXN/USD, yesterday´s: 17.9119  **
+Banxico	687389339307782144	2016-01-13T21:42:44	No bids were tendered in today´s (9:00 hr.,12:00hr.,15:00 hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	687388571800449024	2016-01-13T21:39:41	182-day TIIE (01/13/2016): 3.6800% 
+Banxico	687388212315082752	2016-01-13T21:38:15	91-day TIIE (01/13/2016): 3.5900% 
+Banxico	687387675221884928	2016-01-13T21:36:07	28-day TIIE (01/13/2016): 3.5579% 
+Banxico	687387348456226816	2016-01-13T21:34:49	FIX ExchangeRate for 01/13/2016 (MXN/USD): 17.8500 
+Banxico	687386921106984960	2016-01-13T21:33:07	Target rate (01/13/2016)(annual percent): 3.25 
+Banxico	687386595691896833	2016-01-13T21:31:50	UDI value (01/13/2016): 5.393664 
+Banxico	687380916591710208	2016-01-13T21:09:16	Sin posturas recibidas para la subasta de dólares (200 millones) con precio mínimo convocada a las 3.00 pm. 
+Banxico	687348405962539008	2016-01-13T19:00:04	Tasa de interés objetivo(13/01/2016), valor: 3.25 
+Banxico	687341208436224000	2016-01-13T18:31:28	TIIE 182(13/01/2016), valor: 3.6800 
+Banxico	687341109807202304	2016-01-13T18:31:05	TIIE 91(13/01/2016), valor: 3.5900 
+Banxico	687341029133963264	2016-01-13T18:30:46	TIIE 28(13/01/2016), valor: 3.5579 
+Banxico	687336519141441536	2016-01-13T18:12:50	No se recibieron posturas para la subasta de 200 millones de dólares con precio mínimo convocada a las 12.00 hrs. 
+Banxico	687335979653316608	2016-01-13T18:10:42	El peso recuperó 6 centavos (+0.3%) frente al dólar. El tipo de cambio FIX es 17.8500 p/d; ayer 17.9119 p/d. 
+Banxico	687334058158735360	2016-01-13T18:03:04	FIX determinado el 13/01/2016 (Pesos por dólar), valor: 17.8500 
+Banxico	687293246721007616	2016-01-13T15:20:53	No se recibieron posturas para la subasta de dólares (200 millones) con precio mínimo convocada a las 9 horas: 
+Banxico	687257796849471488	2016-01-13T13:00:02	UDIS(13/01/2016), valor: 5.393664 
+Banxico	687023585479622657	2016-01-12T21:29:21	Peso gains 2 cents vs. dollar: today´s FIX ExchangeRate is 17.9119 MXN/USD, yesterday´s: 17.9304 MXN/USD;  **
+Banxico	687023099523403776	2016-01-12T21:27:25	No bids were tendered in today´s (9:00 hr./12:00hr./15:00 hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	687022775026847744	2016-01-12T21:26:08	GovernmentSecurities auction results (Jan 12) (Cetes, 3-year Bonos, 3-year Udibonos);  **
+Banxico	687022436450095105	2016-01-12T21:24:47	28-day Cetes (01/12/2016), yield(%): 3.05 
+Banxico	687021515414441984	2016-01-12T21:21:08	91-day TIIE (01/12/2016): 3.5839% 
+Banxico	687020924336345088	2016-01-12T21:18:47	28-day TIIE (01/12/2016): 3.5505% 
+Banxico	687020561776549888	2016-01-12T21:17:20	FIX ExchangeRate for 01/12/2016 (MXN/USD): 17.9119 
+Banxico	687020277046226944	2016-01-12T21:16:12	InternationalReserves (01/08/2016) (mdd): 175,754.7 
+Banxico	687019520024645633	2016-01-12T21:13:12	Target rate (01/12/2016)(annual percent): 3.25 
+Banxico	687019234560327682	2016-01-12T21:12:04	UDI value (01/12/2016): 5.392387 
+Banxico	687017428392390656	2016-01-12T21:04:53	Tampoco hubo postores para la subasta de venta de dólares (200 millones) con precio mínimo convocada a las 15 horas: 
+Banxico	686991508340260865	2016-01-12T19:21:53	El Grupo de Gobernadores de Bancos Centrales y Jefes de Supervisión respalda el nuevo marco de riesgo de merca... 
+Banxico	686986016998080512	2016-01-12T19:00:04	Tasa de interés objetivo(12/01/2016), valor: 3.25 
+Banxico	686978520526917632	2016-01-12T18:30:17	TIIE 91(12/01/2016), valor: 3.5839 
+Banxico	686978435583836160	2016-01-12T18:29:57	TIIE 28(12/01/2016), valor: 3.5505 
+Banxico	686972082106712064	2016-01-12T18:04:42	No se recibieron posturas para la subasta de dólares (200 millones) con precio mínimo convocada hoy a las 12 horas: 
+Banxico	686971691948347392	2016-01-12T18:03:09	Se aprecia 2 centavos el peso frente al dólar, tipo de cambio FIX. Hoy en 17.9119 pesos por dólar (ayer: 17.9304): 
+Banxico	686971217140514816	2016-01-12T18:01:16	FIX determinado el 12/01/2016 (Pesos por dólar), valor: 17.9119 
+Banxico	686970634828529664	2016-01-12T17:58:57	El Banco de México, en octubre de 2015, segundo lugar mundial entre bancos centrales en seguidores en Twitter, ver: 
+Banxico	686969756126023680	2016-01-12T17:55:27	Resultados de la subasta primaria de valores gubernamentales. Tasa de Cetes a 28 días sin cambio, en 3.05% ver más: 
+Banxico	686963372424704000	2016-01-12T17:30:05	CETES 28(12/01/2016), valor: 3.05 
+Banxico	686937854761537536	2016-01-12T15:48:41	No se recibieron posturas para la subasta de dólares (200 millones) con precio mínimo convocada a las 9 horas de hoy 
+Banxico	686932053628039171	2016-01-12T15:25:38	La base monetaria durante la semana pasada disminuyó 30,084 millones de pesos, congruente con su patrón estacional: 
+Banxico	686931705924419584	2016-01-12T15:24:15	Por efecto de la apreciación del dólar, la reserva internacional expresada en pesos creció 102,747 millones: 
+Banxico	686927446432595968	2016-01-12T15:07:20	Operaciones de mercado abierto de Banxico para compensar expansión neta de liquidez por 130,748 millones de pesos: 
+Banxico	686926686479192064	2016-01-12T15:04:19	La semana pasada se subastaron con precio mínimo 600 mdd en subastas ordinarias y 400 mdd en subastas suplemantarias 
+Banxico	686926047158255617	2016-01-12T15:01:46	Saldo reserva internacional Banxico viernes pasado: 175,755 millones de dólares. Disminución en la semana: 968 mdd, 
+Banxico	686925871156838400	2016-01-12T15:01:04	Reservas internacionales (mdd)(08/01/2016), valor: 175,754.7 
+Banxico	686895406945406977	2016-01-12T13:00:01	UDIS(12/01/2016), valor: 5.392387 
+Banxico	686656857146916864	2016-01-11T21:12:06	Peso remains stable vs. dollar: today´s FIX ExchangeRate is 17.9304 MXN/USD, last Friday´s: 17.9283 MXN/USD;  **
+Banxico	686655789486878720	2016-01-11T21:07:52	No bids were tendered in today´s (9:00 hr./12:00hr./15:00 hr.) 200 mdd sale auctions with minimum bid price;  **
+Banxico	686655040484851712	2016-01-11T21:04:53	91-day TIIE (01/11/2016): 3.5856% 
+Banxico	686654763346178048	2016-01-11T21:03:47	28-day TIIE (01/11/2016): 3.5539% 
+Banxico	686654553106722816	2016-01-11T21:02:57	FIX ExchangeRate for 01/11/2016 (MXN/USD): 17.9304 
+Banxico	686654188583952384	2016-01-11T21:01:30	Target rate (01/11/2016)(annual percent): 3.25 
+Banxico	686642759990513665	2016-01-11T20:16:05	UDI value (01/11/2016): 5.391111 
+Banxico	686623619665940481	2016-01-11T19:00:02	Tasa de interés objetivo(11/01/2016), valor: 3.25 
+Banxico	686616204857851904	2016-01-11T18:30:34	TIIE 91(11/01/2016), valor: 3.5856 
+Banxico	686616188252639232	2016-01-11T18:30:30	TIIE 28(11/01/2016), valor: 3.5539 
+Banxico	686609851808526336	2016-01-11T18:05:19	No se recibieron posturas para la subasta de dólares (200 millones) con precio mínimo convocada a las 12 horas: 
+Banxico	686609460626784256	2016-01-11T18:03:46	Estable el tipo de cambio FIX desde el cierre del viernes. Hoy es 17.9304 pesos por dólar, el viernes: 17.9283, 
+Banxico	686608642976550912	2016-01-11T18:00:31	FIX determinado el 11/01/2016 (Pesos por dólar), valor: 17.9304 
+Banxico	686598668292456448	2016-01-11T17:20:53	"The Mexican economy in an adverse external environment: challenges and policy response", Javier Guzmán, Subgo... 
+Banxico	686564602134396928	2016-01-11T15:05:31	No se recibieron posturas para la subasta de dólares (200 millones) con precio mínimo de hoy a las 9 horas: 
+Banxico	685606517215645696	2016-01-08T23:38:26	La actualización de la app "Banxico al día" está disponible para su descarga:  
+Banxico	685566558882500608	2016-01-08T20:59:39	"La contribución de la Política Monetaria a la estabilidad económica", Agustín Carstens, Gobernador de Banco d... 
+Banxico	685529218592059392	2016-01-08T18:31:16	En lo que va de 2016, el peso acumula una depreciación de 3.94% (68 centavos) ante el dólar. FIX hoy: 17.9283 p/d. 
+Banxico	685502694476230656	2016-01-08T16:45:53	18 posturas fueron recibidas para la subasta adicional con precio mínimo en la que se demandaron 225 mdd. 
+Banxico	685500370500644864	2016-01-08T16:36:38	En subasta adicional se asignaron 200 millones de dólares más a un tipo de cambio ponderado de 17.9229 pesos/dólar. 
+Banxico	685477815282601984	2016-01-08T15:07:01	El monto total demandado en la subasta con precio mínimo fue de 586 millones de dólares y se recibieron 30 posturas. 
+Banxico	685477163118673922	2016-01-08T15:04:25	Se asignan 200 millones de dólares en la subasta con precio mínimo a un tipo de cambio ponderado de 17.8521 p/d. 
+Banxico	685178973509189632	2016-01-07T19:19:31	Para la subasta adicional se recibieron 27 posturas de 11 postores, que demandaron 350 mdd. 
+Banxico	685178158623014912	2016-01-07T19:16:17	Se asignan otros 200 mdd en subasta adicional con precio mínimo a un tipo de cambio ponderado de 17.7066 p/d. 
+Banxico	685159909453770752	2016-01-07T18:03:46	Depreciación del peso frente al dólar en la jornada: 1%. Tipo de cambio FIX hoy: 17.6568 pesos por dólar/ 
+Banxico	685115486955122689	2016-01-07T15:07:15	Monto total demandado en subasta de dólares con precio mínimo de las 9 horas: 2,295 millones. Ver posturas recibidas 
+Banxico	685114736095047682	2016-01-07T15:04:16	Se asignan 200 millones de dólares en subasta con precio mínimo. Tipo de cambio ponderado: 17.6552 pesos. Ver: 
+Banxico	685099423823626240	2016-01-07T14:03:25	Inflación general en 2015 fue 2.13 por ciento. Inflación subyacente: 2.41 por ciento, Informa INEGI.
+Banxico	684845717895000065	2016-01-06T21:15:17	No se recibieron posturas para subasta adicional de 200 mdd con precio mínimo convocada para las 15.10 hrs. 
+Banxico	684842890422431744	2016-01-06T21:04:03	Se asignan 200 mdd a 8 postores a un tipo de cambio ponderado de 17.5250 pesos por dólar en la subasta de las 15hrs. 
+Banxico	684804320542392320	2016-01-06T18:30:47	TIIE 182(06/01/2016), valor: 3.6770 
+Banxico	684798900394307584	2016-01-06T18:09:15	Avanza el dólar 9 centavos frente al peso. Tipo de cambio FIX hoy es 17.4411 pesos por dólar, ayer fue 17.3456: 
+Banxico	684762674123542528	2016-01-06T15:45:18	Calendario 2016: decisiones de política monetaria, minutas e informes trimestrales del Banco de México (Banxico) 
+Banxico	684761088118767617	2016-01-06T15:39:00	Resultados de la subasta de valores gubernamentales de ayer: la tasa de Cetes sin cambio, en 3.05%, ver más: 
+Banxico	684453123583164416	2016-01-05T19:15:15	Sin variación la tasa de los cetes a 28 días. Disminuye 2, 1 y 10 puntos base en plazos de 91, 182 y 336 días. 
+Banxico	684451920635797504	2016-01-05T19:10:29	Estable prácticamente el tipo de cambio. En su cotización FIX, el dólar está en 17.3456 p/d; ayer 17.3529 p/d. 
+Banxico	684426783781863424	2016-01-05T17:30:35	CETES 28(05/01/2016), valor: 3.05 
+Banxico	684392183944749056	2016-01-05T15:13:06	Al cierre de 2015 la reserva internacional de Banxico equivale a 2.4 veces la base monetaria, ver estado de cuenta: 
+Banxico	684391365648633856	2016-01-05T15:09:51	La semana pasada sólo se vendieron seis (6) millones de dólares en subastas con precio mínimo, ver estado de cuenta: 
+Banxico	684391111922601986	2016-01-05T15:08:51	Disminución acumulada de reserva internacional en 2015 fue de 16,516 millones de dólares (menos de 10% de su saldo): 
+Banxico	684390544441610241	2016-01-05T15:06:35	Efectos remanentes de Reforma Hacendaria y cambios en uso de medios de pago explican crecimiento de base monetaria, 
+Banxico	684389978265128964	2016-01-05T15:04:20	Variación anual de la base monetaria en 2015 (estado de cuenta Banxico) : 16.8 por ciento, 
+Banxico	684389672957546497	2016-01-05T15:03:08	En la última semana de 2015 las reservas internacionales aumentaron 370 millones de dólares, cerraron en 176,723 mdd 
+Banxico	684389352529502209	2016-01-05T15:01:51	Saldos preliminares del estado de cuenta de Banxico al 31 de diciembre de 2015, ver: 
+Banxico	684389000740618240	2016-01-05T15:00:27	Reservas internacionales (mdd)(31/12/2015), valor: 176,722.7 
+Banxico	684080240063205376	2016-01-04T18:33:33	El peso se deprecia 10 centavos (-0.6%) frente al dólar. El tipo de cambio FIX es 17.3529 p/d; jueves 17.2487 p/d. 
+Banxico	684034940518809600	2016-01-04T15:33:33	Recuerde: el plazo de vigencia de subastas diarias de dólares con precio mínimo es: 23 de nov. a 29 de enero, ver: 
+Banxico	684028773876936705	2016-01-04T15:09:02	Crecen 5.4% remesas familiares acumuladas enero-noviembre de 2015 respecto del mismo periodo de 2014/ 
+Banxico	682629835487883265	2015-12-31T18:30:10	TIIE 29(31/12/2015), valor: 3.5550 
+Banxico	682627164756377607	2015-12-31T18:19:33	Avanza el peso 9 centavos (+0.5%) frente al dólar. El tipo de cambio FIX hoy es 17.2487 pesos/dólar, ayer 17.3398. 
+Banxico	682581894928711681	2015-12-31T15:19:40	Agregados monetarios y actividad financiera nov. de 2015:  Crece 13.4% real anual financiamiento de banca comercial, 
+Banxico	682580620875317248	2015-12-31T15:14:36	Algunos señalaron que se mantendrán condiciones monetarias acomodaticias en Estados Unidos por periodo prolongado: 
+Banxico	682580070494527489	2015-12-31T15:12:25	Se prevé que tanto la inflación general como la subyacente cierren 2015 en aproximadamente 2%, advierte Minuta 40: 
+Banxico	682579108585435136	2015-12-31T15:08:35	Dados los esfuerzos de comunicación de Banxico los mercados ya esperaban un aumento en la tasa de referencia: 
+Banxico	682578340146999296	2015-12-31T15:05:32	La Junta de Gobierno decidió de forma unánime aumentar 0.25% el objetivo para la TII a un día revela la Minuta 40: 
+Banxico	682577064575287296	2015-12-31T15:00:28	Minuta de la reunión de la Junta de Gobierno del Banco de México, con motivo de la decisión de política moneta... 

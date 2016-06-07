@@ -1,0 +1,360 @@
+hmason	725906443212201985	2016-04-29T04:35:57	phooky huertanix the one on Bowery just south of Delancey is having a going out of business sale right now.
+hmason	725505532396769280	2016-04-28T02:02:52	AliceAlbrecht Welcome back! Please do let us know if there's anything we can do to make the visit more fun &amp; productive. :)
+hmason	725382330530041856	2016-04-27T17:53:19	groby I actually just tried and that option doesn't appear for me. Perhaps it's my version of OS X.
+hmason	725380244249690114	2016-04-27T17:45:01	glen_george Rochelle I just tried this and that option is not there for me.
+hmason	725169518390157314	2016-04-27T03:47:40	groby wait, really? I totally missed that.
+hmason	725166392836804608	2016-04-27T03:35:15	Rochelle It's in /Users/[username]/Library/Spelling/LocalDictionary . I won't share the horrific find command I used to get there. :)
+hmason	725165677854752768	2016-04-27T03:32:25	Accidentally added a typo to the Mac dictionary, had to edit a hidden config file to remove it. How do non-tech people even use computers?
+hmason	725068953383362560	2016-04-26T21:08:04	Finally got this running: snappy in-editor "autocomplete" powered by a neural net trained on old sci-fi stories. 
+hmason	725066329020092416	2016-04-26T20:57:38	nerdworldorder Definitely. The challenge is the difference in complexity between solving for n=1 (just me) vs solving for large n (anyone).
+hmason	725064376173092866	2016-04-26T20:49:52	nerdworldorder :-) we've come a long way since 2009!
+hmason	725007802012471296	2016-04-26T17:05:04	You can come hear from great speakers, including dtunkelang claudia_perlich hailekofi KirkDBorne mikepqr HumeKathryn and more.
+hmason	725007589038280704	2016-04-26T17:04:13	There are a few tickets left for the FastForwardLabs Data Leadership conference on Thursday afternoon! 
+hmason	724707891198996481	2016-04-25T21:13:20	mrogati pbrane I have used a slide very close to that before, but it's pretty straightforward stuff.
+hmason	724688922136174594	2016-04-25T19:57:57	Automated text summarization is interesting, useful, and underhyped. Why we chose it for a FastForwardLabs report: 
+hmason	724666191701225474	2016-04-25T18:27:38	antimytheme zeigenvector thebinarium I don't know what level they are looking for, but TanookiLabs is good people and they are hiring
+hmason	724627262612619264	2016-04-25T15:52:56	sh1mmer I think studies show people like recommendations more with a reason, and Google Play's interpretation is bullshit.
+hmason	724623550380924928	2016-04-25T15:38:11	sh1mmer Does that make sense to you? I would think Uber is used by people who are not more likely than average to use AWS.
+hmason	724604427680755713	2016-04-25T14:22:12	One of these games is not like the others. 
+hmason	724246104200630272	2016-04-24T14:38:21	kissane Ordered. Thanks for the recommendation. :)
+hmason	722942058390888448	2016-04-21T00:16:32	esammer Congratulations on the upgrade!
+hmason	722581139425243137	2016-04-20T00:22:23	hmason jimschachter datanews NYC is really the city of edge cases
+hmason	722580856636895232	2016-04-20T00:21:15	veltman jimschachter datanews awesome! I &lt;3 these little edge cases.
+hmason	722578728572862464	2016-04-20T00:12:48	jimschachter Awesome! It's obviously not urgent, just such an odd curiosity.
+hmason	722551217822507008	2016-04-19T22:23:29	MAPS: After polls close at 9 p.m. ET, we will display NYPrimary results by NYC neighborhood here: 
+hmason	722566891722653696	2016-04-19T23:25:46	jimschachter WNYC datanews Now I'm super curious... where are the election districts with no registered voters?
+hmason	722476690186833925	2016-04-19T17:27:20	jtleek dgmacarthur Agreed, but I'm also concerned about the issues that come up when a system is marketed as automated when it isn't.
+hmason	722465204588699648	2016-04-19T16:41:42	John4man Some things aren't so easy to make. Lots of confirmation bias in building businesses that way. :)
+hmason	722426952137719808	2016-04-19T14:09:42	danofer What these companies are doing is not human-in-the-loop ML (which is very powerful).
+hmason	722260140032946176	2016-04-19T03:06:50	When a new startup announces an implausible "AI", always look at their jobs page to see how many low wage "trainers" they are hiring.
+hmason	722259777611505664	2016-04-19T03:05:24	So many "AI" products are just humans behind the scenes + dramatic tech marketing. 
+hmason	722188702617718784	2016-04-18T22:22:58	There are Google reviews of prisons. 
+hmason	722091697937780739	2016-04-18T15:57:31	NY law folks, catch HumeKathryn on April 21 talking about legal use cases for NLP + text summarization! 
+hmason	721466002530242560	2016-04-16T22:31:13	lara_hogan I'm so glad you are okay!
+hmason	721185079582535680	2016-04-16T03:54:56	Lorem Dim Sum is great 
+hmason	721158875181883392	2016-04-16T02:10:48	skamille I couldn't put that one down either.
+hmason	721001171893293056	2016-04-15T15:44:09	arctictony congratulations!
+hmason	720986441527005186	2016-04-15T14:45:37	neilw auerbach This is what gmail's block feature is perfect for.
+hmason	720756740736856065	2016-04-14T23:32:52	gclaramunt snipeyhead mikeolson this is awesome, thank you!
+hmason	720734756170809345	2016-04-14T22:05:31	This is hilarious: Classic Programmer Paintings  (via snipeyhead mikeolson)
+hmason	720635743744495617	2016-04-14T15:32:04	So many of these problems on the surface seem like technical problems but are actually social and human problems. 
+hmason	720330400892002304	2016-04-13T19:18:45	cwfreeman ...and none of them are new or funny? :)
+hmason	720316223880192003	2016-04-13T18:22:25	galinash yes!
+hmason	719980074116739072	2016-04-12T20:06:40	drewconway you should be in my office right now... it's painful
+hmason	719978638884610049	2016-04-12T20:00:58	What are your current favorite data scientist jokes? All of the ones on my list are either offensive or cheeeeesy.
+hmason	719876974789926913	2016-04-12T13:17:00	AhlemMustapha Unfortunately not for this one! I'm hoping to be able to do that for future events.
+hmason	719876839930490881	2016-04-12T13:16:27	thinkjson FastForwardLabs There is a Chrome extension, but it's currently available only to our clients.
+hmason	719702669074567168	2016-04-12T01:44:22	ian_soboroff FastForwardLabs I'm happy to answer, but it's too much for Twitter. Can you DM me your e-mail?
+hmason	719630993443942400	2016-04-11T20:59:33	agolo Hey team, looks like your web site is giving 502s!
+hmason	719629562695524352	2016-04-11T20:53:52	benjaminellis Not immediately but later this year or early next, definitely. What would you like to see? cc: HumeKathryn
+hmason	719625855010476035	2016-04-11T20:39:08	And you can check out a static version of our Brief article summarizer here: 
+hmason	719625584406605824	2016-04-11T20:38:03	I'm thrilled by our FastForwardLabs report and prototype release today on Text Summarization Algorithms: 
+hmason	719283746134999040	2016-04-10T21:59:43	There are human consequences for data decisions. 
+hmason	718775216441270272	2016-04-09T12:19:00	TerezaN thanks, Tereza!
+hmason	717772654867038208	2016-04-06T17:55:11	kenburbary We are planning to record the event and hopefully post presentations later, but not to do a live stream.
+hmason	717770912574083072	2016-04-06T17:48:15	There's still time to register for our Data Leadership event on April 28th in NYC!  
+hmason	717717293531324416	2016-04-06T14:15:11	Austin data nerds, don't miss FastForwardLabs research engineer mikepqr on bias in sentiment analysis! 
+hmason	717549897654861824	2016-04-06T03:10:01	Enceladosaurus FastForwardLabs Excellent, please send us your cv at jobs@fastforwardlabs.com. :)
+hmason	717449082680320000	2016-04-05T20:29:25	seanmylaw Unfortunately not for this position. We've done visas in the past and will for future roles, though.
+hmason	717407960675303426	2016-04-05T17:46:01	falicon Thanks, Kevin!
+hmason	717384119387308032	2016-04-05T16:11:17	MikeTufekci FastForwardLabs That's implied.
+hmason	717380601049968640	2016-04-05T15:57:18	Come work with me! We're hiring at FastForwardLabs for a new role: Client-focused Data Scientist. 
+hmason	717190487489265665	2016-04-05T03:21:51	mattb peteskomoroch Interesting. Even if you just view that Tweet on the web (not as a quoted tweet)?
+hmason	717188891040681984	2016-04-05T03:15:31	peteskomoroch Yes, they render it as a card. I assume the API has the full URL.
+hmason	717187695689265153	2016-04-05T03:10:46	yash_j1 Many. For example:  The URL has been moved to a card.
+hmason	717186633393692672	2016-04-05T03:06:32	I'm really not a fan of how Twitter has started removing links from tweets. The URL has value!
+hmason	717186393760509952	2016-04-05T03:05:35	chrismentzel chrismentzel Sure, I'm happy to discuss. You can email me at hilary AT fastforwardlabs DOT com
+hmason	717049490113323009	2016-04-04T18:01:35	I wrote down everything I know about how an emoji gets rendered! 💁✨🎨  
+hmason	717132188811202560	2016-04-04T23:30:12	rachelbinx this current weather is bullshit.
+hmason	716813134145658884	2016-04-04T02:22:23	bitchwhocodes yay!
+hmason	716809542688980992	2016-04-04T02:08:07	bitchwhocodes ... or come to nycresistor. :) Any Monday or Thursday evening!
+hmason	716759629909327872	2016-04-03T22:49:47	tag395 I've met him, he's wonderful.
+hmason	716742025203286017	2016-04-03T21:39:49	azeem isss111 scifri What's your question?
+hmason	716659313973018624	2016-04-03T16:11:09	How do we change the system so it enables more innovators? The Tampon of the Future:  
+hmason	716475806860582912	2016-04-03T04:01:58	DataSawr It's a common topic of discussion and concern (as it should be) in the data science community I spend time with.
+hmason	715998121357086720	2016-04-01T20:23:49	We accept algorithms in some systems more readily than in others. 
+hmason	715988941686644736	2016-04-01T19:47:20	snawbary scifri WillOremus LOL!
+hmason	715979894556069888	2016-04-01T19:11:23	icopaolo thank you!
+hmason	715965785643028480	2016-04-01T18:15:19	knowlengr cogdog scifri No, we'll be talking about Instagram's move to an algorithmic feed.
+hmason	715963947036319744	2016-04-01T18:08:01	cogdog Thanks, Alan!
+hmason	715959732369035269	2016-04-01T17:51:16	I'll be on scifri today at 3:20pm to discuss algorithmic personalization on social networks! Tune in: 
+hmason	715225973340241920	2016-03-30T17:15:34	dangerdave whoa, that's seriously not cool.
+hmason	715221560416608257	2016-03-30T16:58:02	Find out how shivon (awesome creator of the machine intelligence landscape!) thinks about tech in this interview: 
+hmason	715180528341745665	2016-03-30T14:15:00	JeremyBenmoussa What problem does it solve for me?
+hmason	714931206618386432	2016-03-29T21:44:17	annemlock Yes! And I agree with you.
+hmason	714918394093371392	2016-03-29T20:53:22	mdbraber It's being human. Hopefully a good one.
+hmason	714916832713412608	2016-03-29T20:47:10	mdbraber Impact is hard to quantify, and yes, I think you are responsible for what your creations do in the world.
+hmason	714916569768284160	2016-03-29T20:46:07	charliesaidthat Yes, but most businesses aren't facing decisions like that.
+hmason	714911204867645441	2016-03-29T20:24:48	DanielVerton This is my opinion. I don't think most of the industry necessarily agrees with me.
+hmason	714904487803092993	2016-03-29T19:58:06	One more reason why data ethics is so essential in training every data scientist 
+hmason	714898914181120001	2016-03-29T19:35:57	cddddr Google Fi's wifi calling isn't seamless, but I really like it.
+hmason	714898763286847488	2016-03-29T19:35:22	If you design and create a product or a business, you *are* responsible for the impact it has on other humans and the world.
+hmason	714894123568799744	2016-03-29T19:16:55	farhannow awesome, see you there!
+hmason	714862419965685761	2016-03-29T17:10:57	laurenleto Maybe we can set up lots of little tents?!
+hmason	714859754120589313	2016-03-29T17:00:21	laurenleto In theory, but in practice NYC real estate is expensive. :-/
+hmason	714630384349265921	2016-03-29T01:48:55	NatashaGreen25 I'm not involved with that event, but I also don't understand what you're asking for.
+hmason	714583006464368640	2016-03-28T22:40:39	arnicas Bummer.
+hmason	714582457086001152	2016-03-28T22:38:28	peejaronitweets People interested in how to best run data science.
+hmason	714581914447978496	2016-03-28T22:36:19	Springcoil We hope so but have not locked down the A/V yet.
+hmason	714580103481671680	2016-03-28T22:29:07	We're featuring a keynote from dtunkelang and excellent speakers all around including claudia_perlich hailekofi KirkDBorne and more.
+hmason	714579901840535552	2016-03-28T22:28:19	In NYC on April 28th? Run a data team? Join us for the first FastForwardLabs Data Leadership conference! 
+hmason	714579274037112832	2016-03-28T22:25:49	jeremyphoward I'm going to miss seeing you all. Have a great time!
+hmason	714574584272580609	2016-03-28T22:07:11	openfly maradydd thequux Go with the simplest possible thing. 
+hmason	714501616813154305	2016-03-28T17:17:14	hspter Congratulations!! I'm sad you're leaving NYC but so happy for you. :-D
+hmason	714499583280283649	2016-03-28T17:09:10	I'm sorry for miss Strata this week, but if you'll be there don't miss this excellent talk from mikepqr! 👍 
+hmason	713918933233958912	2016-03-27T02:41:52	... and maybe a bit about founders misleading employees about the product direction.
+hmason	713916706553536512	2016-03-27T02:33:01	This is not an article about a robot "taking your job". It's an article about how hard + expensive NLP is. 
+hmason	713490155227766785	2016-03-25T22:18:03	seanmylaw It's actually a current topic of nuanced debate among statisticians! For example: 
+hmason	713462425656406016	2016-03-25T20:27:52	How good are you at guessing correlation from scatter plots? Friday afternoon fun: 
+hmason	713454685282287616	2016-03-25T19:57:06	Complete with a live interactive demo. Check it out! 
+hmason	713424602274394113	2016-03-25T17:57:34	openfly now I'm trying to decide which of my bots is most condescending. myuberdriverbot, perhaps? Or bc_l?
+hmason	713421029863985155	2016-03-25T17:43:22	ClaudeWillan Yes, clearly. I mean all of it.
+hmason	713420435841552384	2016-03-25T17:41:01	At the age to feel nothing but entirely left out of these condescending generation characterizations (on all sides): 
+hmason	713418713987485697	2016-03-25T17:34:10	jalak futurepvc Thank you!
+hmason	713415883398496256	2016-03-25T17:22:55	hspter jakeporway So odd, it was there when I posted it!
+hmason	713415837554720770	2016-03-25T17:22:44	And the link again: 
+hmason	713373556793614337	2016-03-25T14:34:44	The Trials and Tribulations of Data Visualization for Good, a lovely piece by jakeporway on how to use data effectively (via hspter)
+hmason	713028724099313665	2016-03-24T15:44:29	phooky are you okay?
+hmason	712997172032180225	2016-03-24T13:39:07	Has anyone done any reporting on the bot networks that clearly fuel a lot of the content that drumpf retweets?
+hmason	712475183618138116	2016-03-23T03:04:55	pinzler nycresistor Perfect, you should!
+hmason	712303208299892736	2016-03-22T15:41:33	Made a fun interactive art project? Submit it to the nycresistor interactive show/party! MakeInteractiveGreatAgain 
+hmason	712293975273676800	2016-03-22T15:04:52	fredbenenson Check the headers! You can see which totally completely legit marketing automation saas product they're using.
+hmason	712284005278863360	2016-03-22T14:25:15	benjedwards I often find legitimate messages just got lost in the noise. Twitter isn't a reliable platform, I know I miss things. :-/
+hmason	712009828508540928	2016-03-21T20:15:46	petras I don't have a problem with greed, just the misrepresentation of personal communication.
+hmason	712007185723695105	2016-03-21T20:05:16	This is super cool if you don't like poking through e-mail headers. 
+hmason	712005591661678592	2016-03-21T19:58:56	I love when you send "personal" e-mail with headers that show that you're explicitly appealing to my sense of greed. 
+hmason	711946578563620864	2016-03-21T16:04:26	PatJD I giggle every time I see it. It's a great name. But definitely not what they intended. :)
+hmason	711763635647995904	2016-03-21T03:57:29	catehstn This is my favorite picture of you.
+hmason	711753200454529028	2016-03-21T03:16:01	Boaty McBoatface also tells us that even purely human data processes need quality control :)  
+hmason	711735270962499584	2016-03-21T02:04:46	Adventures in Narrated Reality by rossgoodwin  (via GrantCuster)
+hmason	711338919518998530	2016-03-19T23:49:49	kosamari grocery shopping is one of the rare things that's so much better in the suburbs than in NYC.
+hmason	711309288883544064	2016-03-19T21:52:04	VR is an unusual space for R&amp;D, as applied research is led as much by industry as academia. 
+hmason	710981513077268480	2016-03-19T00:09:36	These are fantastic.  
+hmason	667118579075141632	2015-11-18T23:13:58	HOW DOES PROGRAMMING TAKE SO LONG YOU LITERALLY JUST TYPE WHAT YOU WANT IT TO DO THIS SHOULD BE EASY
+hmason	710858792448217088	2016-03-18T16:01:57	“you would have done us more of a favor by saying nothing about women” — TessaHarmon  
+hmason	710866833818128385	2016-03-18T16:33:55	SteffLocke BecomingDataSci dikwizdumbnews bhive01 arnicas A small sample (from a small population) doesn't invalidate the results.
+hmason	710857089262993408	2016-03-18T15:55:11	SteffLocke bhive01 arnicas It's the salary gap by experience that concerns me.
+hmason	710843049170083840	2016-03-18T14:59:24	bhive01 arnicas Just wait until you get to the part about women's salaries!
+hmason	710839643407785985	2016-03-18T14:45:52	There's a lot to unpack in the Stack Overflow developer survey: 
+hmason	710502802645237761	2016-03-17T16:27:23	amywebb Congratulations, this is awesome.
+hmason	710470607779995648	2016-03-17T14:19:27	kosamari bitchwhocodes I got an invitation to speak at a conference last week where ALL talks are sponsored. It's scammy behavior.
+hmason	710248099399094275	2016-03-16T23:35:17	"Threadsteading" - two-player territory control game using a sewing machine as the platform:  
+hmason	709777049964158976	2016-03-15T16:23:30	Congratulations to friends and colleagues Accel on their new fund! 
+hmason	709590494729408512	2016-03-15T04:02:12	monavernon KieranSnyder it's self-published, as far as I can see.
+hmason	709587733690376192	2016-03-15T03:51:13	Stay tuned for my upcoming publication: Postgres for Dicks.  
+hmason	709470269916598276	2016-03-14T20:04:28	Why do we call it data science? Because it is an art.
+hmason	709154656279207936	2016-03-13T23:10:20	heckj It's not just $$, these systems aren't designed for non-library purchasers, and they are all different and terrible.
+hmason	709150086274662405	2016-03-13T22:52:10	IMO s/free/accessible/g: Should All Research Papers Be Free? 
+hmason	708837418724499456	2016-03-13T02:09:44	Crikey. February redraws the NASA global temperature graph - nothing like it ever observed  
+hmason	708412032668852225	2016-03-11T21:59:24	We are building ourselves the noisy, ambiguous, and connected future that we deserve.  (via chrisbaglieri)
+hmason	707667163818139648	2016-03-09T20:39:34	JoyOfJessalin hyperisland mattlemay awesome.
+hmason	707374751216439296	2016-03-09T01:17:37	kezubo Wow, thanks for the link!
+hmason	707361801881649153	2016-03-09T00:26:10	daniel_levine Exactly.
+hmason	707358577778925568	2016-03-09T00:13:21	After Go, I think the only game left for AI researchers will be Diplomacy.
+hmason	706963399209521154	2016-03-07T22:03:03	I'm building a science crank email classifier. I need emails from cranks! Please forward them to cranks@mike.place.
+hmason	706948348121460736	2016-03-07T21:03:15	NoorDinTech radar KirkDBorne OReillyMedia thank you!
+hmason	706882406310141952	2016-03-07T16:41:13	seanmylaw Several, but they tend to be domain specific (ie, ecommerce or even "ecommerce + shoes"). Can you e-mail what you're looking for?
+hmason	706576464997650432	2016-03-06T20:25:31	phooky ranjit Don't be ridiculous, What Cheer is in Iowa! 
+hmason	706163308265644032	2016-03-05T17:03:47	kosamari This is the norm at conferences. If you want people to not do it, mention it at the start of your talk.
+hmason	705904675623739393	2016-03-04T23:56:04	Now you can use emoji to code 🎉  
+hmason	705592304657166336	2016-03-04T03:14:49	Can megynkelly be the GOP candidate?
+hmason	705538738277982210	2016-03-03T23:41:58	passcod please stop mentioning me.
+hmason	705484198233153537	2016-03-03T20:05:14	tdierks I know. Two hour side projects rot over the years.
+hmason	705471068463603712	2016-03-03T19:13:04	The folks at OReillyMedia posted my Cultivate talk from last Strata conference about Innovating through Data. 
+hmason	705241874420916224	2016-03-03T04:02:20	skamille It was a magnificent engineering effort!
+hmason	705241804300546048	2016-03-03T04:02:03	skamille If you're interested in this, I really liked The Making of the Atomic Bomb by Richard Rhodes 
+hmason	704774762464219137	2016-03-01T21:06:12	The result is an almost ghostly slippage between digital maps and the landscapes they document.  
+hmason	705099376746590208	2016-03-02T18:36:06	BiellaColeman that wins for the tweet that most summarizes adulthood.
+hmason	704468514061430784	2016-03-01T00:49:16	gutelius enlitic It's a summary of the article.
+hmason	704462892641300480	2016-03-01T00:26:56	Eshjolly Excellent, send me your preferred e-mail address! Mine is: me at hilarymason dot com
+hmason	704462792703680512	2016-03-01T00:26:32	mik3cap I believe you, though it's much harder to go from prototype to robust service in this area than in others.
+hmason	704458882505003008	2016-03-01T00:11:00	IBM's Watson has amazing marketing. Startups like enlitic are actually delivering on that promise. 
+hmason	704447229298216960	2016-02-29T23:24:42	grisuy Awesome! Can you send me your preferred e-mail so I can invite you to some events? Mine is: me AT hilarymason dot com
+hmason	704443043378647040	2016-02-29T23:08:04	bgoncalves AshleyRReports Sure, send me a note with your preferred e-mail address. My e-mail is: me AT hilarymason dot com
+hmason	704442081855479808	2016-02-29T23:04:14	tcarmody Asher_Wolf I haven't seen anything quite like that yet. mikepqr, how about you?
+hmason	704436543105007616	2016-02-29T22:42:14	xaranke Yes! If you send me your e-mail I'll put you our 'data nerd drinks' invite list. My e-mail is: me AT hilarymason dot com
+hmason	704434669928869888	2016-02-29T22:34:47	If you're a data nerd interested in moving to NYC, I'm happy to help connect you with the community. 
+hmason	704092402471071744	2016-02-28T23:54:44	An excellent guide to getting started by petewarden.  
+hmason	703286669391179776	2016-02-26T18:33:03	fisadev if that's enough to do it, I'm already on a list. :-/
+hmason	703279201596608512	2016-02-26T18:03:22	My best plane hack by far is that the Gmail Offline app makes intermittent wifi tolerable: 
+hmason	703278187829137408	2016-02-26T17:59:20	If you're a data scientist with a fondness for social science, GrinnellCollege wants to hire you: 
+hmason	703040765459468288	2016-02-26T02:15:55	Taxi pickups &amp; dropoffs around JFK; interactive bokehplots &amp; datashader viz of the 170million pt NYC taxi data 
+hmason	702983514233434114	2016-02-25T22:28:25	adamlaiacano jqpubliq Yes! I'm traveling next week but I'm around after that. E-mail?
+hmason	702977736919404545	2016-02-25T22:05:27	seanmylaw LOL, sometimes I feel like the city is humoring us. :)
+hmason	702974423041761280	2016-02-25T21:52:17	AvrahamAdler Yup. We are the second floor.
+hmason	702973638811721728	2016-02-25T21:49:10	No joke, the Python delivery van was parked outside the FastForwardLabs office this morning. (photo by jqpubliq) 
+hmason	702972086063636480	2016-02-25T21:43:00	justinhendrix Thank you! It was a great event.
+hmason	702965105961668614	2016-02-25T21:15:16	kellan (let me know if you would like an e-mail introduction!)
+hmason	702964994141503488	2016-02-25T21:14:49	kellan We work with VirtualFelicity and she's amazing.
+hmason	702897587339153408	2016-02-25T16:46:58	Engineer getting started with deep learning? mikepqr shares "hello world with Keras" on the FastForwardLabs blog: 
+hmason	702895445610242049	2016-02-25T16:38:28	The excellent hailekofi explaining how physics informs analysis of social media behavior at Mashable. PPalooza 
+hmason	702887870844035072	2016-02-25T16:08:22	elenaDulys aww, thanks!
+hmason	702630537790427136	2016-02-24T23:05:49	marshallk We? Probably not. Facebook? Absolutely.
+hmason	702629216962142209	2016-02-24T23:00:34	Bitly did you shut the thing down? The bookmarklet does nothing for me anymore.
+hmason	702626618309799937	2016-02-24T22:50:14	mik3cap heatherfro haha, that's awesome.
+hmason	702621079660003328	2016-02-24T22:28:14	bethbeck Indeed, but I do have to acknowledge when they are clever about collecting it!
+hmason	702616463895617538	2016-02-24T22:09:53	heatherfro It was a real product: 
+hmason	702615913275723778	2016-02-24T22:07:42	Facebook just launched bitly for feelings! They are going to gather amazing data. 
+hmason	702198290377474048	2016-02-23T18:28:13	I don't often post job ads, but DataKind is special! They are hiring for data science and more: 
+hmason	702135779905114112	2016-02-23T14:19:49	The post on building generative tools by GalaxyKate is amazing 
+hmason	701916854290403328	2016-02-22T23:49:53	natematias not if you drink sufficient coffee beforehand. :)
+hmason	701894276905615360	2016-02-22T22:20:10	The latest FastForwardLabs newsletter is on the very cool intersection of art and machine learning. 
+hmason	701826564737130496	2016-02-22T17:51:06	asm2tweet Never! Though Slack does have a lovely burger emoji.
+hmason	701803159061196800	2016-02-22T16:18:06	spsaaibi Next time you're in town we'll have to do pancakes again. :)
+hmason	701798649626550272	2016-02-22T16:00:11	Hey josh_wills how come no matter what reaction I search for Slack suggests the crying face? :-P 
+hmason	701471606045020160	2016-02-21T18:20:38	"One of the common fallacies is that data is opposed to intuition. Data is a tool for enhancing intuition." hmason 
+hmason	701198384833683456	2016-02-21T00:14:57	nucAmbiguous If it gets rate limited, it will just pull from the local cache, so you will see some repeats.
+hmason	701160829463437312	2016-02-20T21:45:43	Nice live predictive models of Clinton vs Sanders in Nevada on The Upshot: 
+hmason	700872939072151556	2016-02-20T02:41:44	Thanks! This is a nice list of good people to follow in machine learning &amp; data. 
+hmason	700834683999768577	2016-02-20T00:09:44	tcarmody oh no :(
+hmason	700523918742802432	2016-02-19T03:34:51	SteveRides I'm very happy to hear it!
+hmason	700308251481493504	2016-02-18T13:17:52	Good morning, Iowa! I'm excited to be back at GrinnellCollege this morning. 
+hmason	699648294402859008	2016-02-16T17:35:26	Artists will influence the path of machine intelligence. A wonderful post by genekogan on the FastForwardLabs blog 
+hmason	699600957114576897	2016-02-16T14:27:20	lizzadwoskin I imagine so, but different products and workflows. It's like if Python was discontinued (but for this specific application).
+hmason	699432034482184192	2016-02-16T03:16:06	RealRojoCup BillPetti Decent grammar isn't a particularly challenging skill, either. Please have some empathy.
+hmason	699428777676427268	2016-02-16T03:03:10	Kimono Labs made good tools for non-experts to scrape data from the web. Now we've lost that power. Sad. 
+hmason	699347168545652737	2016-02-15T21:38:52	loleg You can make your own on that Google site. I don't see a way to share the code directly.
+hmason	699335748387008519	2016-02-15T20:53:30	Check out my heart CodedWithLove google madewithcode. Code your own here:  
+hmason	699333995411206144	2016-02-15T20:46:32	GlennF counting things is hard. (I'm serious.)
+hmason	699320515626954757	2016-02-15T19:52:58	A rare clear description of how adtech works:  How this company tracked 16,000 Iowa caucus-goers via their phones 
+hmason	699032570038722561	2016-02-15T00:48:46	spread the code, spread the love codedwithlove madewithcode 
+hmason	698328834500902913	2016-02-13T02:12:23	These NASA space tourism posters are so great:  
+hmason	697862873620606977	2016-02-11T19:20:49	Curious about the process of writing a programming book? I wrote up some notes re: writing Learning React Native. 
+hmason	697485614556573696	2016-02-10T18:21:43	On StoryInABottle, hmason explains how computer science is accessible to anyone &amp; businesses need to embrace it. 
+hmason	697477871057506304	2016-02-10T17:50:57	via WSJ, hmason and aweigend on mistakes companies make with bigdata 
+hmason	697192332588883973	2016-02-09T22:56:19	TimelessP Those PDFs were awesome! It took me back to my childhood programming. :) Thanks for the link.
+hmason	697157591382781953	2016-02-09T20:38:17	Appleguysnake That would be delightfully meta. Perhaps I'll do that. :)
+hmason	696442968807510020	2016-02-07T21:18:37	For a bit of nostalgia, Usborne has 80s programming books for kids as PDFs!  (via TimelessP) 
+hmason	696236114093412352	2016-02-07T07:36:39	Introducing, Records: Just Write SQL!   I'm really excited about this one—I've wanted it to exist for a long time.   
+hmason	696174277922574338	2016-02-07T03:30:56	Watching the GOP debate is just like reading the comments.
+hmason	696147296417943552	2016-02-07T01:43:43	BrunswickHorace It is random, but when it gets high traffic, it will be rate limited, and pull content from a local cache.
+hmason	696085799159332864	2016-02-06T21:39:21	jrossibarra JeremyAbramson BrianMFloyd The system will pull from cache when it's rate limited. Like now. So you may see repeats.
+hmason	696051749858189312	2016-02-06T19:24:03	mgiraldo when it is rate limited it pulls from cache.
+hmason	696046107747549184	2016-02-06T19:01:38	paix120 I think there's a bias in what shows up in the twitter spinklerhose by retweets, but wow.
+hmason	696044246273499145	2016-02-06T18:54:14	ricardoz17 unfortunately.
+hmason	696044171103178753	2016-02-06T18:53:56	sanford_and_son ugh report that please!
+hmason	696043325976113152	2016-02-06T18:50:35	jarg0naut BrianMFloyd ha. There's no filtering on that app. :)
+hmason	696041027921145856	2016-02-06T18:41:27	 shows you random tweets. It makes it very clear that most people do not use Twitter the way you use Twitter.
+hmason	696025769407938560	2016-02-06T17:40:49	See what a program does before deciding whether you really want it to happen  Linux Python 
+hmason	695825370193461248	2016-02-06T04:24:30	psidentity I use a Twitter list for that.
+hmason	695824539440312320	2016-02-06T04:21:12	The upside of an algorithmic Twitter feed is that now you have a built-in excuse for not having read someone's tweets.
+hmason	695766779470221313	2016-02-06T00:31:41	pipix that is adorable!
+hmason	695753079698939905	2016-02-05T23:37:15	bitchwhocodes as a veteran of many a stuck train, buy your beer now. :)
+hmason	695628868703645696	2016-02-05T15:23:41	sarita wow, that's terrifying.
+hmason	695627925819944960	2016-02-05T15:19:56	sarita I'm so glad you are okay!
+hmason	695371352870506496	2016-02-04T22:20:24	nsbarr I'd love to hear what you have in mind.
+hmason	695030320098205700	2016-02-03T23:45:16	sogrady Considered against the energy costs &amp; consequences of cooling on land, this might actually be less damaging.
+hmason	694945661309988865	2016-02-03T18:08:51	kellbot hot tub datacenter is a movie I would pay to see.
+hmason	694943015853424640	2016-02-03T17:58:21	Microsoft is prototyping an ocean floor data center. The coral reefs of the future may compute! 
+hmason	694918158591766528	2016-02-03T16:19:34	hadleywickham arnicas I *love* this idea.
+hmason	694359760687108096	2016-02-02T03:20:42	It's a fallacy that data is opposed to intuition; it enhances intuition, hmason WSJCIO wsj cio
+hmason	693843053963010048	2016-01-31T17:07:29	the FastForwardLabs topic model review summarizer has discovered a "mindfulness" theme in pet supplies 
+hmason	694195138440998912	2016-02-01T16:26:33	chessninja anildash That's fine, but please don't approach technical women at tech events and assume they want to hear about your kids.
+hmason	694186734964191232	2016-02-01T15:53:09	anildash I cannot tell you how often men tell me this.
+hmason	693838578267230208	2016-01-31T16:49:42	adamlaiacano mikepqr Can you mount your phone as a filesystem? I have an android utility that lets me do this.
+hmason	693270378391715840	2016-01-30T03:11:53	catehstn You nailed it!
+hmason	693096800606121989	2016-01-29T15:42:09	LiamMerrill Congratulations! I'll take a look.
+hmason	692834097379446784	2016-01-28T22:18:15	Simulating H.P. Luhn's "Automatic Creation of Literature Abstracts"  today FastForwardLabs 
+hmason	692559963001098243	2016-01-28T04:08:56	HessianInf Scary that you can purchase that!
+hmason	692550117518360579	2016-01-28T03:29:49	aallan You either pay in money or in time/technical costs.
+hmason	692470845873262596	2016-01-27T22:14:49	gutelius peteskomoroch deronaucoin What's CMS?
+hmason	692455674836574210	2016-01-27T21:14:32	hmason market data is very expensive and necessary data if you trade intraday in US equities - some cost as much as $25k+/mo/exchange.
+hmason	692453078650503168	2016-01-27T21:04:13	hmason a dataset of how much people paid for datasets, actually
+hmason	692454236550987776	2016-01-27T21:08:49	Interviews with me, HumeKathryn and mynameisfiber about what we're up to at Fast Forward Labs on theCUBE: 
+hmason	692453256128258049	2016-01-27T21:04:56	joshu seriously? ha.
+hmason	692411738306822145	2016-01-27T18:19:57	That is amazing! 
+hmason	692410364240236544	2016-01-27T18:14:29	cklemke I see data products (where data is interpreted via a UI) as a completely different thing (diff audience) than data feeds.
+hmason	692408958779269121	2016-01-27T18:08:54	bani Enterprise is a different world.
+hmason	692407642157899777	2016-01-27T18:03:40	peteskomoroch It's a terrible startup business model, but I'm not talking about startups here. They can't sell it and they can't afford it.
+hmason	692406803968167936	2016-01-27T18:00:21	hmason linguistic annotations on early Modern English texts 
+hmason	692406769725870080	2016-01-27T18:00:12	hmason Our scientists yahoolabs subscribe to the LDC corpora, useful in NLP research.
+hmason	692404112919543808	2016-01-27T17:49:39	hmason large amount of weather observations from the Australian bureau of meteorology
+hmason	692404184952344576	2016-01-27T17:49:56	hmason College Board college entrance statistics of entering freshmen
+hmason	692403794844450816	2016-01-27T17:48:23	cdubhland 'useful' would probably have been a better word to use than 'interesting'. I was hoping for answer beyond "Twitter data". :)
+hmason	692402931979665408	2016-01-27T17:44:57	onlymattjohnson Absolutely.
+hmason	692402716258234368	2016-01-27T17:44:06	DynamicWebPaige For industry work -- I imagine most individuals aren't purchasing data feeds for personal use. Or are you?
+hmason	692401964051775490	2016-01-27T17:41:07	hmason &lt; I know that pharma have to pay to access health registry data. I think this is good for both € generation &amp; limiting their access
+hmason	692401821126639617	2016-01-27T17:40:33	onlymattjohnson Interesting, is ownership something to avoid?
+hmason	692400983654137860	2016-01-27T17:37:13	chrisalbon There's paying and then there's paying.
+hmason	692400861469921280	2016-01-27T17:36:44	I'm seeing a bit split between people who think of data as a commodity to purchase and those who don't see it as worth $.
+hmason	692400678166208513	2016-01-27T17:36:00	What's the most interesting data set you have ever *paid* for?
+hmason	691998974195187712	2016-01-26T14:59:46	I heard deep learning was revolutionary, but I didn’t know it was 2-space indent revolutionary 
+hmason	691053994811244544	2016-01-24T00:24:46	blprnt noralidgus We're right with you. Bolognese sauce and pasta!
+hmason	690938919677005824	2016-01-23T16:47:30	Dear nytimes, why is "escaped cow headed to sanctuary" a related article to "Bloomberg possibly running for pres"? 
+hmason	690636204228894720	2016-01-22T20:44:37	The latest FastForwardLabs newsletter is on ethics of machine intelligence. Check it out: 
+hmason	690570440864075777	2016-01-22T16:23:17	It's always a delight to chat with Jeff and theCUBE team. This time in our office!  
+hmason	690265444184358912	2016-01-21T20:11:21	hspter you are welcome to come say hi to this adorable and gentle fellow who spends time at my office. :-) 
+hmason	689986484737294336	2016-01-21T01:42:51	mattwallaert NataliasTweeet you should join sometime!
+hmason	689568071946747904	2016-01-19T22:00:14	Hilary Mason: Fast Forward Labs CEO. One-time aspiring taxi driver. Your nerd best friend.  
+hmason	689554277107298304	2016-01-19T21:05:25	ExpectAPatronum What do you have in mind? Each entry already has an address associated, so there shouldn't be too much manual work.
+hmason	689548415621947392	2016-01-19T20:42:08	cigardubey I take the subway. :)
+hmason	689544577875742720	2016-01-19T20:26:53	darwineco I'd love to see my appointments visualized on a google map, nothing fancy.
+hmason	689544402700664832	2016-01-19T20:26:11	randileeharper I might give it a try!
+hmason	689543983601610753	2016-01-19T20:24:31	Is there a way to visualize my google calendar geographically?
+hmason	689543423196409856	2016-01-19T20:22:17	esammer whatevs. :-p
+hmason	689512499914235905	2016-01-19T18:19:25	esammer LOL. I started getting these the minute I had an e-mail account at a VC firm.
+hmason	689218443481075713	2016-01-18T22:50:56	carolinesinders BillieBeta huertanix happily, but in private. :-)
+hmason	689166815059144705	2016-01-18T19:25:47	Please be true. Please be true. 
+hmason	688883190174498816	2016-01-18T00:38:46	jenny8lee Yes, people are very confused by emoji. They also often complain to Apple when they want one added.
+hmason	688882113333071872	2016-01-18T00:34:29	jenny8lee dumplingemoji This is great! Did you see my whynoemoji bot?
+hmason	688830576141438976	2016-01-17T21:09:41	MoniqueLBlake BillieBeta I'm too happy to run, this is finally a New York winter. :-)
+hmason	688829850203848704	2016-01-17T21:06:48	MoniqueLBlake Yes!!
+hmason	688596007177818112	2016-01-17T05:37:36	mat_kelcey Is this a game or work?
+hmason	688528266202902528	2016-01-17T01:08:25	widestance the old signs on 14th are an endangered species.
+hmason	688143824841879552	2016-01-15T23:40:47	Yahoo Releases Largest Cache of Internet Data  (with a small quote from me :)
+hmason	688139790118592512	2016-01-15T23:24:45	It's NYC-style slow TV on the 7 train!  (via herdingbats)
+hmason	688069067257819137	2016-01-15T18:43:43	earino are there other robot designs that you particularly admire?
+hmason	688067894794665984	2016-01-15T18:39:04	earino the design of these machines is really cool.
+hmason	688067583103365120	2016-01-15T18:37:50	We'll be talking about the state of natural language generation, where it's going, and how to plan your own system. 
+hmason	688066800546918401	2016-01-15T18:34:43	This Kiva warehouse robot teardown is fascinating: 
+hmason	687765922740846592	2016-01-14T22:39:08	arainert I really like the Nexus 5x, though I haven't tried an S6.
+hmason	687764951319089152	2016-01-14T22:35:17	wesmckinn Wow, there are a lot of people who think pandas is the cutest Python library name. You should be proud! 
+hmason	687764652000952322	2016-01-14T22:34:05	dvellante I believe I will see some of your team a week from Friday!
+hmason	687721293815398400	2016-01-14T19:41:48	cdubhland omg that is just too much!
+hmason	687716589010063364	2016-01-14T19:23:06	randyzwitch you're right, that's a good one!
+hmason	687715586256814080	2016-01-14T19:19:07	joeclarkphd I just looked it up, it looks useful. Also, the name is adorable.
+hmason	687714858998042624	2016-01-14T19:16:14	joeclarkphd NO!
+hmason	687713040524009473	2016-01-14T19:09:00	dianam a close #2, IMO. :)
+hmason	687712973394153473	2016-01-14T19:08:44	someben agreed.
+hmason	687711501587746817	2016-01-14T19:02:53	I still believe that pickle is the cutest name of any Python library.
+hmason	687465246542458884	2016-01-14T02:44:21	tdhopper tables ftw! these web sites are amazing
+hmason	687463851420442625	2016-01-14T02:38:49	The jackpot is $1.5 billion but  has a javascript marquee.
+hmason	687341196725907456	2016-01-13T18:31:26	drfeifei agreed
+hmason	687302242274275329	2016-01-13T15:56:38	Nice post on the Twitter blog! 
+hmason	687298939276636161	2016-01-13T15:43:31	MikeTufekci decisionorg It's a target for harassers. I'd rather it be deleted.
+hmason	687293461012320257	2016-01-13T15:21:45	decisionorg I hate the idea of having a wikipedia page, can you delete it?
+hmason	687089652763881472	2016-01-13T01:51:53	lintzston are you at the State of the Union?!
+hmason	687046689857777669	2016-01-12T23:01:10	witheiler win
+hmason	687043551616610304	2016-01-12T22:48:42	witheiler Congrats!! Are you staying in NYC?
+hmason	686991448160354304	2016-01-12T19:21:39	Are you interested in natural language generation? The FastForwardLabs NLG report &amp; prototype is now on sale! 
+hmason	686570347177590784	2016-01-11T15:28:21	  welp, I wonder how much damage the use of student evaluations has caused to diverse hiring 
+hmason	686324258679599104	2016-01-10T23:10:29	chrismunns If it's your first one, call and they will take it off. I had to after a garage attendant made us wait 10 mins.
+hmason	684495581432033280	2016-01-05T22:03:58	Twitter is not removing the character limit. It's killing the link. It's the walled garden for eyeballs, not length. 
+hmason	684187776909094912	2016-01-05T01:40:52	The Fuck: a Python app that corrects your previous console command. programming  
+hmason	684150878568222720	2016-01-04T23:14:15	hadleywickham ...and I have a second generic presentation full of slides that I have used that work well for me, so I can grab them easily.
+hmason	684150609264685057	2016-01-04T23:13:10	hadleywickham Just simple stuff: Set up a generic presentation you can just copy + edit. I also store all slides by date, event, location.
+hmason	684147118542598144	2016-01-04T22:59:18	hadleywickham I have a generic presentation set up with my fonts and title + end slides, but it's not in a shareable template format. Why?
+hmason	684122967790469121	2016-01-04T21:23:20	MikeTufekci I'd rather spend my time building good stuff than arguing against a ridiculous premise. :)
+hmason	684120460410372098	2016-01-04T21:13:22	FarMcKon every year is the year of linux on the desktop!
+hmason	684081360290484224	2016-01-04T18:38:00	The LSST Data Science Fellowship Program 
+hmason	684081299678707712	2016-01-04T18:37:46	j94305 when you get old enough you realize everything in tech is the same discussion, again, with slightly different details.
+hmason	684079975952166912	2016-01-04T18:32:30	Can 2016 be the year we stop talking about AI as an existential threat and start talking about how to use it well? 
+hmason	684071315456815104	2016-01-04T17:58:05	This looks like it's going to be an awesome class. 
+hmason	683787388397731840	2016-01-03T23:09:52	Good op-ed on the need for transit planning &amp;  investment to follow NYC job growth... Let the good times roll 
+hmason	683783312121397249	2016-01-03T22:53:40	hunterwalk , but be careful, it's a rabbit hole
+hmason	683341216692441088	2016-01-02T17:36:56	noUpside what you accomplished is so important. Thank you!
+hmason	682741226697834496	2016-01-01T01:52:47	smurthas Dude, that code was from 2008. No.
+hmason	682735885499117568	2016-01-01T01:31:34	smurthas I did and took it down years ago. I got thousands of e-mails from people wanting help. Some didn't even program.
+hmason	682285178895634432	2015-12-30T19:40:37	zeigenvector I usually wait for someone else to share and retweet that. Is there something I can tweet for you? :)
+hmason	682243814992556035	2015-12-30T16:56:15	I don't entirely agree but I loved this piece: "The truth of the future is now visibly beyond our ken." 
+hmason	682234999488262148	2015-12-30T16:21:13	emojidomains you can send the $1 million to me AT 
+hmason	681957961179213825	2015-12-29T22:00:22	emojidomains $1 million
+hmason	681935837563584512	2015-12-29T20:32:28	earino danielrock yy ArnoCandel They didn't look at any of the API-based solutions.
+hmason	681934311365439488	2015-12-29T20:26:24	Evaluation of Deep Learning Toolkits  (via yy)
+hmason	680835229712551936	2015-12-26T19:39:02	section_sign a sensory deprivation float center actually opened not far from my apartment recently, and this is how they advertise...
+hmason	680214355036737536	2015-12-25T02:31:54	cibomahto That's so frustrating. :-/
+hmason	680212205598568448	2015-12-25T02:23:22	cibomahto oh no! Why? Is there anything you can do about that?
+hmason	680129409026768896	2015-12-24T20:54:21	lexnederbragt You do need to have permission to work in the US for the summer. It's a paid internship.
+hmason	679814058497961985	2015-12-24T00:01:16	LeonYin FastForwardLabs sure.
+hmason	679795875472871425	2015-12-23T22:49:01	We are hiring interns for an awesome summer experience at FastForwardLabs! Please share with your fav students: 
+hmason	679763627088449536	2015-12-23T20:40:52	After a lab Slack chat about the anachronism of the scientific publication process, cureffi explains it thusly: 

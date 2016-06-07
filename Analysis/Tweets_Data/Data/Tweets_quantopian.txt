@@ -1,0 +1,300 @@
+quantopian	726145068306993154	2016-04-29T20:24:10	Discounted Tickets to odsc-east until 12:00AM ET tomorrow! Use ODSC-LastChance1 for an extra 15% off: .
+quantopian	726127252975587328	2016-04-29T19:13:22	Boston Algo Trading Meetup on 5/3 with 2 great talks from saeedamen thalesians and seongboii! 
+quantopian	726079285891571714	2016-04-29T16:02:46	Learn about News Sentiment Pipeline Factors with Accern: .
+quantopian	725805579965464576	2016-04-28T21:55:09	Next contest deadline is Monday, 9:30AM EDT. The best algorithm wins $5000! Is your entry complete?  
+quantopian	725717010856943616	2016-04-28T16:03:13	Can one firm's good news impact another firm's stock price? Find out: .
+quantopian	725487732869488641	2016-04-28T00:52:09	We're proud to partner with StrataHadoop in London 31 May-3 June. Save 20% w/code PCQUANT .
+quantopian	725426156799975424	2016-04-27T20:47:28	Congratulations to our QuantCon 2016 Hackathon Winner: Luke Lee!  
+quantopian	725399764188147716	2016-04-27T19:02:35	Learn about the Long/Short Earnings &amp; News Sentiment Trading Strategy: .
+quantopian	725354821490974721	2016-04-27T16:04:00	How can GARCH models help estimate risk exposures? .
+quantopian	724992198970867712	2016-04-26T16:03:04	How does M&amp;A affect dividends and stock prices? .
+quantopian	724708050662207490	2016-04-25T21:13:58	aaanwar You should have gotten an email earlier today. Email us at feedback@quantopian.com if you don't have it. Thanks!
+quantopian	723584690666541056	2016-04-22T18:50:08	A happy Quantopian member: "My simulation time drops from 3-4 hours to a couple of minutes." 
+quantopian	723514598540873728	2016-04-22T14:11:37	Get started on Quantopian with our new tutorial series: . 
+quantopian	723133546378874880	2016-04-21T12:57:27	pyfolio 0.5.0 "Olympia" released (main contributor TheAndyCamps is rowing to qualify today)  quantopian
+quantopian	719192193710342145	2016-04-10T15:55:55	Packed house at the quantopian hackathon today featuring data from AccernCorp psychsignal and eventvestor 
+quantopian	719238563699646464	2016-04-10T19:00:11	aaanwar We will be sharing recordings and slide decks with attendees in about a week.
+quantopian	719177179934953474	2016-04-10T14:56:16	The room for the hackathon is packed 
+quantopian	718901926654566408	2016-04-09T20:42:30	fawceisfawce wrapping up QuantCon 2016 
+quantopian	718900747065303040	2016-04-09T20:37:49	Wonderful afternoon keynote QuantCon speech by Manoj Narang 
+quantopian	718888798810202112	2016-04-09T19:50:20	Our QuantCon afternoon speaker Manoj Narang is about to go on stage
+quantopian	718881275625541632	2016-04-09T19:20:26	Great questions and answers by MatthewGranade and fawceisfawce at the QuantCon Fireside chat 
+quantopian	718877034844463104	2016-04-09T19:03:35	Fireside Chat with MatthewGranade and fawceisfawce is about to start at QuantCon 
+quantopian	718872381838778368	2016-04-09T18:45:06	Great QuantCon lecture by clenow about how to "Trade Like A Chimp" 
+quantopian	718862992805376000	2016-04-09T18:07:47	MebFaber giving his QuantCon talk about "The Trinity Portfolio" 
+quantopian	718850060293914624	2016-04-09T17:16:24	twiecki starting off his lecture at QuantCon 
+quantopian	718837710572634117	2016-04-09T16:27:20	jstauth and justinlent talking about The Holy Grail of Investing at QuantCon 
+quantopian	718818842877800449	2016-04-09T15:12:21	Great introduction of joshpayne by karenrubin QuantCon 
+quantopian	718805401601515520	2016-04-09T14:18:57	Wonderful QuantCon talk about social media and finance by tickertags CEO Chris Camillo 
+quantopian	718798408220323840	2016-04-09T13:51:09	Wonderful morning keynote QuantCon talk by EmanuelDerman 
+quantopian	718790944980615168	2016-04-09T13:21:30	QuantCon is kicking off with fawceisfawce 
+quantopian	718788165528641536	2016-04-09T13:10:27	Our QuantCon morning keynote speaker EmanuelDerman is about to go on stage
+quantopian	718785948293734402	2016-04-09T13:01:39	fawceisfawce is kicking off QuantCon
+quantopian	718771308402708480	2016-04-09T12:03:28	QuantCon registration is starting 
+quantopian	718514429000818688	2016-04-08T19:02:43	Catch "Combining the Best Stock Selection Factors" by millennial_inv  on QuantCon Live Stream on 4/9:  .
+quantopian	718469264320110593	2016-04-08T16:03:15	Can't make QuantCon in person? We will be live-streaming QuantCon:  .
+quantopian	718423957637099520	2016-04-08T13:03:13	Find out how to "Light Up Your Dark Data" by Lance Ransom at quantcon: .
+quantopian	718151995140530176	2016-04-07T19:02:32	Catch "Trade Like A Chimp! Unleash Your Inner Primate" by clenow on QuantCon Live Stream on 4/9:  .
+quantopian	718096938068000768	2016-04-07T15:23:46	luigiplr Thank you! We think you're pretty cool too.
+quantopian	718061556806901761	2016-04-07T13:03:10	See Dr. Vesna Straser's talk "From Backtesting to Live Trading" at QuantCon: .
+quantopian	717789602006827012	2016-04-06T19:02:31	Catch EmanuelDerman, chanep, twiecki, mhallsmoore, and many more on QuantCon Live Stream. April 9th:  .
+quantopian	717699447359217664	2016-04-06T13:04:17	Don't miss "Honey, I Deep-Shrunk the Sample Co-variance Matrix!" by Dr. Erk Subasi: .
+quantopian	717692500916506624	2016-04-06T12:36:40	QuantCon 2016 is sold out! You can still catch our talks via live stream: .
+quantopian	717384936924139521	2016-04-05T16:14:31	My idea of a perfect Saturday: 
+quantopian	717426753497665538	2016-04-05T19:00:41	News Sentiment Drift Trading Strat AccernCorp  
+quantopian	717382139818414080	2016-04-05T16:03:25	Tix going fast for QuantCon April 9th in NYC. Get yours before they are gone: .
+quantopian	717336744463572993	2016-04-05T13:03:02	Learn about: "Machine Learning Based on High Frequency Bitcoin Trading" by Arshak Navruzyan: .
+quantopian	717064464940605440	2016-04-04T19:01:05	We will be live streaming many of the QuantCon talks - tix still available:  .
+quantopian	717043360884776960	2016-04-04T17:37:13	25 minutes until our webinar with psychsignal. It’s not too late to register. Social media sentiment and trading: 
+quantopian	717036560856784897	2016-04-04T17:10:12	andreimpop Fastest solution: you get access to recordings with livestream purchase. If you want them free: most will be released over time.
+quantopian	717025968334962688	2016-04-04T16:28:07	andreimpop QuantCon is Saturday! If you buy a livestream ticket, you'll get prompt access to the videos. 
+quantopian	717019713151307776	2016-04-04T16:03:15	Learn how social media impacts your algo: "Discovering Deep Insights from Social Media" by Dr. Sameena Shah: .
+quantopian	717002239890554881	2016-04-04T14:53:49	Only 1 ticket left to QuantCon! 
+quantopian	716974386260086784	2016-04-04T13:03:09	Join us this Sunday in NYC for our Advanced Workshop: 
+quantopian	716969255800086528	2016-04-04T12:42:45	Want to write a strategy based on Twitter sentiment? It’s not to late to register for today’s webinar: 
+quantopian	716702242926161920	2016-04-03T19:01:45	We would love to see you at QuantCon! Get your tix here: .
+quantopian	716656966433681408	2016-04-03T16:01:50	Check out "Man versus Machine: Battle of the Strategies" by Dr. Lisa Borland at QuantCon: .
+quantopian	716620778935087104	2016-04-03T13:38:02	Only 6 QuantCon tickets left!  
+quantopian	716339893123825669	2016-04-02T19:01:54	Watch "Deep Value and the Acquirer's Multiple" by Greenbackd at QuantCon .
+quantopian	716294743018364929	2016-04-02T16:02:29	What happens after the algorithm? Find out at Daniel Shultz's talk: .
+quantopian	715913683617103872	2016-04-01T14:48:17	Calling all Quants! Unlock the opportunities of algorithmic trading quantopian brings you QuantCon Sat. 4/9 in NYC! 
+quantopian	715899983250264066	2016-04-01T13:53:51	Only 10 Quantcon tickets left! 
+quantopian	715887244784111617	2016-04-01T13:03:14	NYC folks: Want to develop and deploy your own factor-driven strategy? Join us for our workshop on April 10th: 
+quantopian	715616094019522560	2016-03-31T19:05:46	If you haven't already, RSVP for QuantCon with Keynote speaker EmanuelDerman  Quantopian
+quantopian	715667713776070658	2016-03-31T22:30:54	Post-Earnings Announcement Drift algo w/ Crowd-sourced earnings announcements estimize  
+quantopian	715570076557185028	2016-03-31T16:02:55	Check out "Quantitative Trading in the Eurodollar Futures Market" by Edith Mandel at QuantCon: .
+quantopian	715524701553102848	2016-03-31T13:02:37	"Size Doesn't Matter: A Case for Small Data" by Dr. Robert Reider at QuantCon: .
+quantopian	715297911756734465	2016-03-30T22:01:26	A systematic way to compare multiple backtests using the Research platform.  
+quantopian	715253638365577217	2016-03-30T19:05:30	Long/Short News Sentiment trading strategy template with Sentdex  
+quantopian	714886799932280832	2016-03-29T18:47:49	Join us in NYC next weekend at QuantCon, lineup includes:  millennial_inv, LDrogen, EmanuelDerman, alphaarchitect, Greenbackd, clenow
+quantopian	715207607032684546	2016-03-30T16:02:36	Come watch Quantcon's afternoon keynote: "Untapped Alpha" by Manoj Narang. .
+quantopian	715187152389324800	2016-03-30T14:41:19	Zipline 0.9.0 released  Best feature: conda builds for all platforms: "conda install zipline -c quantopian"
+quantopian	715162342795907072	2016-03-30T13:02:44	Learn how to build trading strategies at our Advanced NYC workshop: 
+quantopian	714910057192955905	2016-03-29T20:20:14	A simple cross-sectional long/short algorithm with an earnings announcement calendar  
+quantopian	714888644763467776	2016-03-29T18:55:09	We love seeing the WPI Investing Association running their own algorithmic trading contest on our platform. 
+quantopian	714871252381343744	2016-03-29T17:46:02	Curious about investing with social media? View this intro to social media Trader Mood  
+quantopian	714825586041098241	2016-03-29T14:44:35	Webinar: Learn how to use social media Trader Mood to research and backtest trading strategies on  April 4th. 
+quantopian	714799705079865344	2016-03-29T13:01:44	Don't miss one of QuantCon's keynotes: "Financial Engineering and Its Discontents" by Dr. EmanuelDerman .
+quantopian	714527657594060803	2016-03-28T19:00:43	Tickets for QuantCon are going fast! Get yours before they run out: .
+quantopian	714511391818911744	2016-03-28T17:56:05	Hey VikashKodati, Great Question! We just created a Seattle meetup: . We will be hosting a meetup on June 1st.
+quantopian	714437500404699136	2016-03-28T13:02:28	Join us on the April 10th for our Advanced Algorithmic Trading Workshop in NYC: 
+quantopian	713757946669375488	2016-03-26T16:02:10	Sign up for our NYC Advanced algo trading workshop: 
+quantopian	713350363789803520	2016-03-25T13:02:34	NYC Advanced Workshop on Algorithmic Trading on April 10th. RSVP: 
+quantopian	713111665613676544	2016-03-24T21:14:04	Markov Chain Monte Carlo for Bayesian Inference - The Metropolis Algorithm  via mhallsmoore 
+quantopian	712987749050097664	2016-03-24T13:01:40	Nice shout out for us in “Powered by Jupyter”: .
+quantopian	712806400813047810	2016-03-24T01:01:03	Quantopian has landed in Sydney: .
+quantopian	712716198711009280	2016-03-23T19:02:38	Webinar with jstauth on earnings announcements volatility: 
+quantopian	712670963360534528	2016-03-23T16:02:53	Tech sector rebalance w/ SPY hedge: 
+quantopian	712625567628140544	2016-03-23T13:02:29	Sign up for our Advanced NYC algo trading workshop on 4/10: 
+quantopian	712297631473647616	2016-03-22T15:19:23	experquisite Kearns had to step down...but Manoj Narang has stepped up to join EmanuelDerman as our afternoon keynote at QuantCon!
+quantopian	712282180500774913	2016-03-22T14:18:00	Manoj Narang has come onboard as our afternoon keynote at QuantCon!  
+quantopian	711946414801199105	2016-03-21T16:03:47	Learn how sentdex analyzes news sentiment and how that affects stock volatility: .
+quantopian	711885673142345729	2016-03-21T12:02:25	"This Illegally Collected Data Set Produced More Alpha For Hedge Funds Than Any Other" by LDrogen , at QuantCon: .
+quantopian	711764487565676544	2016-03-21T04:00:52	Join us this Saturday in Sydney for an Intro to Algo Trading Workshop: .
+quantopian	710994672584421376	2016-03-19T01:01:54	.thestreetquant will show you how wrong you are at QuantCon: .
+quantopian	710924542877696000	2016-03-18T20:23:14	QuantCon tix are going fast! Get yours before they're gone: . 
+quantopian	710904335870386176	2016-03-18T19:02:56	The Dangers of Overfitting: .
+quantopian	710854893884579841	2016-03-18T15:46:28	The BBC interviewed fawceisfawce and me for this piece on algorithmic investing  quantopian algotrading
+quantopian	710891483524669441	2016-03-18T18:11:52	samay58 We give it an A! And extra credit for the Wolf of Wall Street reference. . .
+quantopian	710859159755948034	2016-03-18T16:03:25	Learn about what can happen when you violate Regression Model Assumptions: .
+quantopian	710831863468838912	2016-03-18T14:14:57	"Everyone openly admits it's impossible to predict the future, but it's too important to ignore." fawceisfawce 
+quantopian	710798630383448064	2016-03-18T12:02:54	Not to be missed! HullLLC will present  "Market Timing, Big Data, And Machine Learning" at QuantCon: .
+quantopian	710677384987611136	2016-03-18T04:01:06	Learn how to build trading strategies at our Singapore workshop: .
+quantopian	710480873779552256	2016-03-17T15:00:15	We are in Taipei! thestreetquant presenting at National Tsinghua University! 
+quantopian	710452347399491584	2016-03-17T13:06:53	Rise of the DIY Quants by daniburgr bloomberg:  
+quantopian	710179578820612096	2016-03-16T19:03:00	Simple Machine Learning Example Mk II: .
+quantopian	710170071080017920	2016-03-16T18:25:13	The Trader Mood Series: Intro to Social Media Sentiment with psychsignal:  
+quantopian	710134352341045249	2016-03-16T16:03:17	The Good, the Bad, and the Correlated: .
+quantopian	710092711890649089	2016-03-16T13:17:50	Nice article on DIY Quants from daniburgr business: 
+quantopian	710088976682643456	2016-03-16T13:02:59	"Trading Strategies Based on Impact of Macroeconomic Announcements" by Dr. Schmidt kensho at QuantCon this year: .
+quantopian	709952606857269250	2016-03-16T04:01:06	Join us this Monday and Tuesday in Singapore for an Intro to Algo Trading Workshop: .
+quantopian	709907432420581376	2016-03-16T01:01:35	QuantCon is happening on April 9th! Don't miss out: .
+quantopian	709711299110895617	2016-03-15T12:02:14	Make sure to buy your QuantCon tix before they run out: .
+quantopian	709544986417754113	2016-03-15T01:01:22	Learn about "Systematic M&amp;A Arbitrage" by Yin Luo at QuantCon: .
+quantopian	709493749026574336	2016-03-14T21:37:46	Freddie_V4 We sure do! Glad you like the new look!
+quantopian	709454710923722753	2016-03-14T19:02:38	Quandl Data Now In Pipeline: .
+quantopian	709409519378497537	2016-03-14T16:03:04	Learn about the Instability of Parameters: 
+quantopian	709390287093821440	2016-03-14T14:46:38	Come find out "When Should You Build Your Own Backtester?" by mhallsmoore at QuantCon this year:  .
+quantopian	709227822926196736	2016-03-14T04:01:04	Singapore folks: Want to learn how to algo trade? Join us for our workshop on March 21st and 22nd: .
+quantopian	708472880678506497	2016-03-12T02:01:12	.chanep  will present "The Peculiarities Of Volatility" at QuantCon: .
+quantopian	708382574960361472	2016-03-11T20:02:21	Learn about Maximum Likelihood Estimates (MLEs): .
+quantopian	708341349553201153	2016-03-11T17:18:32	The Q: Announcing Our New Logo:  
+quantopian	708337398099398657	2016-03-11T17:02:50	Learn about the Dangers of Model Misspecification: .
+quantopian	708291934725472256	2016-03-11T14:02:11	Watch "The Sustainable Active Investing Framework: Simple, But Not Easy" talk by alphaarchitect at QuantCon: .
+quantopian	708155731103637504	2016-03-11T05:00:57	Learn how to build trading strategies at our Singapore workshop: .
+quantopian	708110490203979776	2016-03-11T02:01:11	Check out "Combining the Best Stock Selection Factors" by millennial_inv at QuantCon: .
+quantopian	707914334232567808	2016-03-10T13:01:44	Don't miss "The Peculiarities Of Volatility" talk by chanep at QuantCon: .
+quantopian	707748021199609856	2016-03-10T02:00:52	Learn how to use code to analyze data. Come to QuantCon &amp; see Anita Raichand's "Intro to Data Analysis in Python": .
+quantopian	707657912303407104	2016-03-09T20:02:48	Learn how Skewness and Kurtosis can affect your algo: .
+quantopian	707612813787840515	2016-03-09T17:03:36	Become confident with confidence intervals: .
+quantopian	707567375059689472	2016-03-09T14:03:02	Singapore Workshop on Introduction to Algorithmic Trading on March 21st and 22nd. RSVP: .
+quantopian	707360277860323328	2016-03-09T00:20:07	Calling all quants! QuantCon 4.9.16 NYC: .
+quantopian	707195283323686912	2016-03-08T13:24:29	Our paper "Probabilistic programming in Python using PyMC3" was accepted at thePeerJ! fonnesbeck johnsalvatier 
+quantopian	706962816394240001	2016-03-07T22:00:44	Sign up for our Singapore algo trading workshop on March 21st and 22nd: .
+quantopian	706933385785188352	2016-03-07T20:03:48	Learn more about Post-Earnings Drift Trading Strategy with estimize: .
+quantopian	706888262502248448	2016-03-07T17:04:29	Learn about the "Robust Asset Allocation Strategy from alphaarchitect: .
+quantopian	706842820133441537	2016-03-07T14:03:55	Learn how to build trading strategies at our Sydney workshop: .
+quantopian	706163057697955840	2016-03-05T17:02:47	Sydney folks: Want to learn how to algo trade? Join us for our workshop on March 26th: .
+quantopian	705860295642783752	2016-03-04T20:59:43	QuantCon Hackathon. 4.10.16. NYC.  
+quantopian	705846144056823808	2016-03-04T20:03:29	Have some spare time but don't know what to do? Watch Quantopian's tutorials: .
+quantopian	705801090684551168	2016-03-04T17:04:27	Learn how to build trading strategies at our Sydney workshop: .
+quantopian	705057817837711360	2016-03-02T15:50:57	Pipeline API w/ quantopian introduction:  stocks fintech
+quantopian	705121343025651713	2016-03-02T20:03:23	Sydney Workshop on Introduction to Algorithmic Trading on March 26th. RSVP: .
+quantopian	705076382150365185	2016-03-02T17:04:43	Come join us at Boston Machine Learning on Sat to hear jstauth's talk "Applying Machine Learning techniques" 
+quantopian	705053683915079680	2016-03-02T15:34:32	Join O'Reilly at JupyterDays Boston 2016 March 17-18. jupyter 
+quantopian	705030976557215744	2016-03-02T14:04:18	"Trade Like A Chimp! Unleash Your Inner Primate" by clenow at QuantCon this year: .
+quantopian	704788383151722498	2016-03-01T22:00:19	One hour until “Using Crowdsourced Earnings with Estimize”  Register for the webinar here: 
+quantopian	704715680013275136	2016-03-01T17:11:25	Interesting article from SteveLohr about A.I. and the potential to use A.I. for investments 
+quantopian	704678529523437569	2016-03-01T14:43:48	It’s not too late to register for today’s webinar about crowd-sourced earnings estimates w @leighdrogan &amp; Vinesh Jha 
+quantopian	704668507972214784	2016-03-01T14:03:59	Hear our own twiecki "All that glitters ain't gold" at QuantCon. .
+quantopian	704403073658183680	2016-02-29T20:29:14	Instant (no more T+3) Zero Commission Algorithmic Trading with RobinhoodApp Instant 
+quantopian	704396590862229504	2016-02-29T20:03:28	"We believe in this model enough to risk our own capital" Read more about our allocations: .
+quantopian	704351407885950976	2016-02-29T17:03:56	.jstauth will be talking about "Applying Machine Learning techniques" at Boston Machine Learning on 3/5. .
+quantopian	704320468422172673	2016-02-29T15:00:59	Sign up for our Sydney algo trading workshop on 3/26: .
+quantopian	704306035767508992	2016-02-29T14:03:38	Don't miss QuantCon's keynote speech by EmanuelDerman "Financial Engineering and Its Discontents." 
+quantopian	703626250775109633	2016-02-27T17:02:25	"These allocations are how we can convert your hard work and insight into your profit." .
+quantopian	703265171477647360	2016-02-26T17:07:37	Gary Kazantsev Bloomberg has just joined our QuantCon lineup! Tix still available: 
+quantopian	703264217558814720	2016-02-26T17:03:50	"We are making additional allocations this quarter and going forward." .
+quantopian	703261041321504768	2016-02-26T16:51:12	Omidtrades We're pretty busy working on adding US futures trading. Non-US markets will follow sometime in the future, including India.
+quantopian	703218719523266560	2016-02-26T14:03:02	QuantCon is happening on April 9th! Don't miss out: .
+quantopian	702953708682911744	2016-02-25T20:29:59	Want to use earnings estimates in an algo? Ask questions of LDrogen &amp; Vinesh Jha questions next Tuesday: 
+quantopian	702901590253051904	2016-02-25T17:02:53	Our First Discretionary Capital Allocations: .
+quantopian	702858599521882113	2016-02-25T14:12:03	Check out this oil &amp; gold pairs trading strategy inspired by chanep  
+quantopian	702856200958955520	2016-02-25T14:02:31	Our very own jstauth will be talking at Boston Machine Learning on 3/5: .
+quantopian	702616818721144833	2016-02-24T22:11:18	Webinar: Learn how to use crowdsourced estimates in your algorithm w/ LDrogen and Vinesh Jha. 3/2/2016 
+quantopian	702502570762358784	2016-02-24T14:37:19	We are allocating capital to our community members! . 
+quantopian	702247666156236800	2016-02-23T21:44:25	Learn from a pro. Join Vinesh Jha as he explains how to derive trading signal from crowd sourced earnings estimates  
+quantopian	702242905289793536	2016-02-23T21:25:30	Market-neutral trading strategy using news sentiment from sources like CNBC, WSJ and more. Signal by sentdex: 
+quantopian	702138371355734020	2016-02-23T14:30:07	Learn how to trade on earnings calls using Crowdsourced Earnings Estimates with Estimize  
+quantopian	702131841948655616	2016-02-23T14:04:10	NYC folks: Want to learn how to algo trade? Join us for our workshop on February 28th: 
+quantopian	701859112674422784	2016-02-22T20:00:27	Webinar: Join LDrogen and Vinesh Jha as they explore Crowdsourced Estimates. 3/1/2016 6PM EST.  Estimize
+quantopian	701829750294257664	2016-02-22T18:03:46	Join us this Wed to learn about "Data Analytics in Aeronautics and Space Research" by onyame: .
+quantopian	701814797092986880	2016-02-22T17:04:21	.seongboii explains how to do a long-short strategy with an earnings avoidance: . 
+quantopian	701801103277608960	2016-02-22T16:09:56	Low beta, high return earnings-drift strategy with Crowdsourced Estimates  Estimize 
+quantopian	701769364677259264	2016-02-22T14:03:49	Join us this Sunday in NYC for an Intro to Algo Trading Workshop: 
+quantopian	701497187847565312	2016-02-21T20:02:17	Want to learn how to reference securities in your algorithm? . 
+quantopian	701451922654502912	2016-02-21T17:02:25	Learn how to build trading strategies at our NYC workshop: 
+quantopian	701134845393686528	2016-02-20T20:02:28	Learn how to manage your orders without borrowing too much money: . 
+quantopian	701089595627282438	2016-02-20T17:02:39	Join us on the February 28th for an Introduction to Algorithmic Trading Workshop in NYC: 
+quantopian	700790478791290881	2016-02-19T21:14:04	QuantCon NYC 4.9.2016. Tix still available: . 
+quantopian	700783859361669121	2016-02-19T20:47:46	Get started on Quantopian! Check out our video tutorial series: .
+quantopian	700766550366638080	2016-02-19T19:38:59	StrataHadoop is back in San Jose Mar 28-31. See the future of bigdata &amp; business. Save 20% with code PCQUANT 
+quantopian	700742473593856000	2016-02-19T18:03:19	Düsseldorf meetup on Feb 24th! Hear onyame's talk on "Data Analytics in Aeronautics and Space Research." 
+quantopian	700727484153733121	2016-02-19T17:03:45	ARCH, GARCH, and GMM: . 
+quantopian	700682019475476480	2016-02-19T14:03:06	Sign up for our NYC algo trading workshop: 
+quantopian	700417132585160705	2016-02-18T20:30:32	augustlights thestreetquant Doh! Pairs (not Paris) Trading. We love Paris too :)
+quantopian	700410192530423808	2016-02-18T20:02:57	Learn how to build a Paris Trading Strategy by thestreetquant: .
+quantopian	700379929729503232	2016-02-18T18:02:42	Düsseldorf meetup on "Data Analytics in Aeronautics and Space Research"  with onyame on Feb 24th: .
+quantopian	700364984115687424	2016-02-18T17:03:19	Arbitrage Pricing Theory: . 
+quantopian	700361749896261634	2016-02-18T16:50:27	BCCSSociety Thank you for hosting us last night!
+quantopian	700113051207528448	2016-02-18T00:22:13	Standing room only for quantopian intro to Algorithmic Investing 
+quantopian	700319595589144576	2016-02-18T14:02:57	NYC Workshop on Introduction to Algorithmic Trading on February 28th. RSVP: 
+quantopian	700047426934194176	2016-02-17T20:01:27	Have 3 minutes? Learn how to order securities! . 
+quantopian	700002114332975104	2016-02-17T17:01:24	View our webinar on Long-Short Equities: .
+quantopian	699956600136716289	2016-02-17T14:00:32	Sign up for our NYC algo trading workshop on 2/28: 
+quantopian	699630311689158656	2016-02-16T16:23:59	Our pipeline API is now available for use in real money trading: .
+quantopian	698167171457949696	2016-02-12T15:29:59	Do you have your tix to QuantCon yet?  
+quantopian	698158589786124289	2016-02-12T14:55:53	Don't trade Earnings Reports - A Simple Risk Avoidance Trading Strategy:  
+quantopian	697887715598196740	2016-02-11T20:59:32	robboyk Hi Jason. Please try registering again, it should work for you now.
+quantopian	697862130096279553	2016-02-11T19:17:52	Delaney from quantopian at MLParis 
+quantopian	697063163422969856	2016-02-09T14:23:03	anthonyherron once we schedule our next trip, we will let you know! thestreetquant is in Paris on Wed-Thurs: .
+quantopian	696797619021094914	2016-02-08T20:47:52	Thank you to thomsonreuters for hosting our London meetup this evening! 
+quantopian	696750765784825856	2016-02-08T17:41:42	London Algo Trading Meetup tonight with thestreetquant and saeedamen! Stop by and see us: 
+quantopian	696741442111344640	2016-02-08T17:04:39	Watch our video on how to measure momentum from a quantitative perspective: 
+quantopian	696695949687705600	2016-02-08T14:03:53	Join us this Wednesday in Paris for an Intro to Algo Trading Workshop: .
+quantopian	696690394701111296	2016-02-08T13:41:48	Had a great London workshop this past Saturday 
+quantopian	695705987882340352	2016-02-05T20:30:07	Reuters and Quantopian: How Shootings Drive Gun Sales MacMutual reuters specialreports 
+quantopian	695654215151194112	2016-02-05T17:04:24	Great video on Beta Hedging: 
+quantopian	695634678343168000	2016-02-05T15:46:46	More QuantCon talks announced!  
+quantopian	695608904122761216	2016-02-05T14:04:21	Join us on the 10th of Feb for an Introduction to Algorithmic Trading Workshop in Paris: .
+quantopian	695356175290728448	2016-02-04T21:20:05	LNKD down 20% after earnings call. Don't let this happen to your trading strategies, use earnings calendars. 
+quantopian	695291877646540800	2016-02-04T17:04:36	Learn how to use pyfolio to evaluate your algo’s performance and risk: 
+quantopian	695246405804408832	2016-02-04T14:03:54	Paris Workshop on Introduction to Algorithmic Trading on the 10th of Feb. RSVP: .
+quantopian	694929476698898432	2016-02-03T17:04:33	Great video about how women are conquering the S&amp;P 500 by karenrubin  at Strata: 
+quantopian	694884050301890561	2016-02-03T14:04:02	London folks: Want to learn how to algo trade? Join us for our workshop on the 6th of February: .
+quantopian	694612186866585600	2016-02-02T20:03:45	How can a long-short strategy help you? Watch and find out: 
+quantopian	694567050610642944	2016-02-02T17:04:23	Check out twiecki 's MCMC Sampling for Dummies post: . 
+quantopian	694549838780841984	2016-02-02T15:56:00	It’s not too late. Our webinar on using earnings announcement data is only 3 hours away. Register: 
+quantopian	694521708024336384	2016-02-02T14:04:13	Paris friends - learn how to algo trade. Sign up for our workshop:  .
+quantopian	694299954467074048	2016-02-01T23:23:03	Are you adding risk to your quant strategy by ignoring earnings announcements? Learn more tmrw w jstauth: 
+quantopian	694258897847242752	2016-02-01T20:39:54	Digging into work of 2 StanfordBiz profs on the rising impact of earnings announcements  
+quantopian	694249714024325121	2016-02-01T20:03:25	Learn more about Fundamental Factor Modeling. Watch our webinar: 
+quantopian	694204506507218945	2016-02-01T17:03:46	Find out how to use Accern 's Alphaone in your long short strategy:  .
+quantopian	694193900064497665	2016-02-01T16:21:37	Earnings announcements, volatility and your algorithm. Learn how &amp; why to use earnings data in your quant strategy: 
+quantopian	694159230207664129	2016-02-01T14:03:51	Learn how to build trading strategies at our London workshop: .
+quantopian	693494436580495361	2016-01-30T18:02:12	Learn about how to reference securities in your algorithm. Watch: 
+quantopian	693449170988986368	2016-01-30T15:02:20	Sign up for our Paris algo trading workshop on 10th of February: . 
+quantopian	693162368319229953	2016-01-29T20:02:41	Great piece about Bayesian Optimization by twiecki justinlent DrScottClark: .
+quantopian	693117279312199681	2016-01-29T17:03:31	Learn how to build a Pairs Trading strategy on Quantopian: .
+quantopian	693072023807983616	2016-01-29T14:03:41	Join us on the 6th of Feb for an Introduction to Algorithmic Trading Workshop in London: .
+quantopian	692844720137998337	2016-01-28T23:00:28	Want to win like Spencer? () Enter the Quantopian Open. Deadline Monday morning. 
+quantopian	692829529199476736	2016-01-28T22:00:06	Trader mood as signal in your strategy. PsychSignal derives bearish &amp; bullish sentiment from Twitter &amp; StockTwits: 
+quantopian	692828161067859968	2016-01-28T21:54:40	More details posted on our QuantCon talks and workshops - tix are still available!  
+quantopian	692754806860029956	2016-01-28T17:03:11	Google Search terms predict market movements: .
+quantopian	692727879923318785	2016-01-28T15:16:11	"I wouldn't have been able to get $100K in a million years to trade" Singleton, winner of our contest, told Reuters 
+quantopian	692726368816230401	2016-01-28T15:10:11	Thank you Dr. Vesna Straser for giving a wonderful talk about your career path at the Women in Tech Breakfast 
+quantopian	692723707467399168	2016-01-28T14:59:36	Rocky markets test the rise of amateur "algo" traders:  via Reuters.
+quantopian	692709268756250625	2016-01-28T14:02:14	Paris folks: Want to learn how to algo trade? Join us for our workshop on the 10th of February: .
+quantopian	692323101586096128	2016-01-27T12:27:44	Momentum combined with fundamentals in single strategy. Creative recombination of two open source algos: 
+quantopian	692420939825451011	2016-01-27T18:56:31	Wonderful talk by Dr. Vesna Straser today at our team lunch 
+quantopian	692347277147508736	2016-01-27T14:03:48	Sign up for our London algo trading workshop: .
+quantopian	692095212118773760	2016-01-26T21:22:11	Join our webinar with Dr. Jess Stauth jstauth on Feb 2: Using Earnings Calendars to Reduce Volatility - Register: 
+quantopian	691656918058823681	2016-01-25T16:20:34	Happy to announce MebFaber will be joining us again at QuantCon 2016!  
+quantopian	691628367544762368	2016-01-25T14:27:07	Reducing volatility and increasing your Sharpe ratio by accounting for earnings announcements in your algo: 
+quantopian	691622434215108608	2016-01-25T14:03:32	London Workshop on Introduction to Algorithmic Trading on the 6th of Feb. RSVP: .
+quantopian	690641314321416192	2016-01-22T21:04:55	Bayesian Optimization of a Technical Trading Algorithm with Zipline+SigOpt by twiecki justinlent DrScottClark: 
+quantopian	690535082298339328	2016-01-22T14:02:47	Join us this Saturday in NYC for an Intro to Algo Trading Workshop: .
+quantopian	690353548039692288	2016-01-22T02:01:26	Sign up for our NYC algo trading workshop on 1/23: .
+quantopian	690191750103744513	2016-01-21T15:18:31	Only 5 spots left in our NYC algo trading workhop on Saturday. RSVP: 
+quantopian	689886231539380225	2016-01-20T19:04:29	We are excited to announce Sameena Shah thomsonreuters has joined our speaker lineup for QuantCon! 
+quantopian	689871936281788418	2016-01-20T18:07:41	We are up for a Benzinga Fintech Award! Vote for us:  via BZAwards
+quantopian	689085830942617600	2016-01-18T14:03:59	Don't miss the second year of QuantCon. Reserve your tickets today: .
+quantopian	688857571516624896	2016-01-17T22:56:58	@jwell96 wzpurdy Give it a go, let us know if you have any questions.
+quantopian	688381599793172482	2016-01-16T15:25:37	Learn how to build an algorithmic trading strategy at our workshop in NYC on 1/23. RSVP: .
+quantopian	687953356883652610	2016-01-15T11:03:56	Abstract of my accepted StrataHadoop London talk "Comparing backtest and out-of-sample performance"  quantopian
+quantopian	687734956366409728	2016-01-14T20:36:05	Intro to Algorithmic Trading Workshop in NYC on Jan 23. RSVP: . 
+quantopian	687700013506506753	2016-01-14T18:17:14	chrshmmmr Our meetups are free.  The videos of the meetups are on our Youtube channel: 
+quantopian	687652614494879744	2016-01-14T15:08:53	How to use news sentiment in your algorithm: .
+quantopian	687636234919886848	2016-01-14T14:03:48	Open source meets algorithmic trading. Join us at QuanCon 2016. .
+quantopian	687327498607194117	2016-01-13T17:37:00	This week's quantopian lunch &amp; learn talk: fast Bayesian parameter optimization by justinlent 
+quantopian	687364785273499648	2016-01-13T20:05:10	_BorisKT_ Thank you! And happy coding =)
+quantopian	687356495818788865	2016-01-13T19:32:13	wijayaliu Anyone tried Quantopian, you ask? 60,000 registered members so far. We hope you join them! Let us know if you have any questions.
+quantopian	687312696300179456	2016-01-13T16:38:11	2.5 hours until our next webinar, "Using News Sentiment in Your Contest Algorithm” — Register now: 
+quantopian	687300085995143168	2016-01-13T15:48:04	12 Predictions For How Tech Will Change Your Financial Life in 2016 by fintech experts including our fawceisfawce. 
+quantopian	687059846244511748	2016-01-12T23:53:26	Don’t miss out on our most popular webinar ever: Using News Sentiment in Your Content Algo 
+quantopian	686949390078971904	2016-01-12T16:34:32	How to trade like a quant with fawceisfawce and jbredeche on SquawkCNBC:  
+quantopian	686911440121393153	2016-01-12T14:03:44	Join us at QuantCon to hear lectures from Dr. Lisa Borland, twiecki, and more! 
+quantopian	686888815466786816	2016-01-12T12:33:50	Our first appearance on SquawkCNBC!  
+quantopian	686875149023457280	2016-01-12T11:39:31	Our founders, fawceisfawce and jbredeche, will be on SquawkCNBC at 6:40am ET today!
+quantopian	686666168380166144	2016-01-11T21:49:06	Itching to use news sentiment data in a quant trading strategy? Join us on Wednesday for a webinar to learn how: 
+quantopian	686570686022815744	2016-01-11T15:29:42	Quantopian journal club is the new highlight of my week. Today reading Lopez de Prado.    
+quantopian	686060084317687808	2016-01-10T05:40:45	Thanks to everyone who came out to our 6 Bay Area quantopian events and workshops. I will now sleep for 48-72 hours.
+quantopian	686549021444411392	2016-01-11T14:03:36	Don't miss the second year of QuantCon. Reserve your tickets today: .
+quantopian	686435184669921280	2016-01-11T06:31:16	Here's the video from thestreetquant's talk on Fundamental Factor Models. Thanks to Yelp for hosting! 
+quantopian	686186344922673152	2016-01-10T14:02:28	Keynote speakers announced for QuantCon 2016: EmanuelDerman &amp; Marcos López de Prado! 
+quantopian	685839140269748224	2016-01-09T15:02:47	Speaker list for QuantCon 2016: . NYC On 4.9.16.
+quantopian	685523930547924993	2016-01-08T18:10:16	Only 2 spots left in our San Francisco Algo Trading Workshop tomorrow! RSVP: .
+quantopian	685507283875446784	2016-01-08T17:04:07	Fantastic lineup for Quantcon including Emanuel Derman, Marcos López de Prado, Ernest Chan, and more! 
+quantopian	685234527808155648	2016-01-07T23:00:17	Algo Trading Meetup hackerdojo tonight! Stop by and see us: .
+quantopian	685233234922344449	2016-01-07T22:55:08	Implementing Frog in the Pan algorithm from Alpha Architects alphaarchitect 
+quantopian	685190479927971840	2016-01-07T20:05:15	Peter Muller, in his Forbes profile: "Quantitative investing is the best way to manage money, period." 
+quantopian	685141404448866304	2016-01-07T16:50:14	Machine Learning - Comparing Multi Output Estimators for Intraday Close Price Completion 
+quantopian	685132877835694081	2016-01-07T16:16:21	Intro to Algo Trading Workshop this Saturday in San Francisco:  
+quantopian	684816908735135746	2016-01-06T19:20:48	chrshmmmr - we certainly do offer students discounts! I will dm you your code.
+quantopian	684737035702263809	2016-01-06T14:03:25	Calling all quants for QuantCon 
+quantopian	684465415649660932	2016-01-05T20:04:06	San Francisco Algo Trading Meetup tonight with thestreetquant: . 
+quantopian	684418286323384325	2016-01-05T16:56:49	Learn how to use news sentiment data in your algorithm. Join us for a live webinar on Jan 13th at 2pm ET: .
+quantopian	684099608436457472	2016-01-04T19:50:31	We are pleased to announce Dr. Robert Reider has joined the speaker lineup for QuantCon. Tix still available: .
+quantopian	684088516041654277	2016-01-04T19:06:26	The Quantopian Workshop in San Francisco this Saturday. RSVP: .
+quantopian	684018386079215616	2016-01-04T14:27:46	Check out scottbsanderson's podcast on algo trading Podcast__init__: 
+quantopian	684012239351840769	2016-01-04T14:03:20	Learn top notch trading strategies at our SF workshop 
+quantopian	684012239200882688	2016-01-04T14:03:20	Join the conversation at QuantCon NYC 2016!
+quantopian	683809020080197634	2016-01-04T00:35:49	Live from our workshop with thestreetquant. Next stop SF on 1/9. A few spots still left: . 
+quantopian	683649496983728128	2016-01-03T14:01:56	The curriculum for Quantopian's workshop has been vetted and used to teach lectures by professors at top-tier universities
+quantopian	683332534223126528	2016-01-02T17:02:26	Check out the fantastic line up of speakers at QuantCon 
+quantopian	683317315560013824	2016-01-02T16:01:58	Want to jump-start your coding abilities? Sign up for Quantopian's Bay Area's workshops  
+quantopian	682977364725346305	2016-01-01T17:31:07	Learn top notch trading strategies at our Mountain View workshop 
+quantopian	682970162706952192	2016-01-01T17:02:30	Get ready for QuantCon!
+quantopian	682569715349360640	2015-12-31T14:31:16	Take your trading strategies to the next level at our Mountain View workshop 
+quantopian	682562466207891456	2015-12-31T14:02:27	Registration is now open! Get your tickets for QuantCon 
+quantopian	682207282382397440	2015-12-30T14:31:05	Take your trading strategies to the next level at our SF workshop 

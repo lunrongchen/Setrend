@@ -1,0 +1,870 @@
+OnThisDayNYT	726040919141556226	2016-04-29T13:30:18	The front page OTD in 1992. Bush and Clinton prevail in Pennsylvania primaries. nytimes 
+OnThisDayNYT	726033462491123713	2016-04-29T13:00:41	The front page OTD in 1982. Britain imposes a blockade on all shipping and flights near the Falklands. nytimes 
+OnThisDayNYT	726025832922112000	2016-04-29T12:30:22	The front page OTD in 1945. Adolf Hitler is said to be dying. nytimes 
+OnThisDayNYT	726018399432675328	2016-04-29T12:00:49	The front page OTD in 1916. British troops seize rebel positions in Dublin. nytimes 
+OnThisDayNYT	725708756470788097	2016-04-28T15:30:25	The front page OTD in 1976. Jimmy Carter wins in Pennsylvania. nytimes 
+OnThisDayNYT	725701304295661568	2016-04-28T15:00:48	OTD - April 28th 1969. Charles De Gaulle resigns as leader of France. nytimes 
+OnThisDayNYT	725693660252139520	2016-04-28T14:30:25	The front page OTD in 1968. Hubert Humphrey announces his candidacy for the presidential nomination. nytimes 
+OnThisDayNYT	725690086050926592	2016-04-28T14:16:13	On the front page OTD in 1947. Babe Ruth is honored at Yankee Stadium. nytimes 
+OnThisDayNYT	725678562733223938	2016-04-28T13:30:26	The front page OTD in 1945. Russian and American troops meet at the Elbe. nytimes 
+OnThisDayNYT	725671183002144768	2016-04-28T13:01:07	The front page OTD in 1918. Russians revolt, name Tsars son as ruler. nytimes 
+OnThisDayNYT	725663443823398913	2016-04-28T12:30:21	The front page OTD in 1916. Irish revolt spreads west and south. Whole island is under martial law. nytimes 
+OnThisDayNYT	725656030449823744	2016-04-28T12:00:54	The front page OTD in 1865. John Wilkes Booth is killed. nytimes 
+OnThisDayNYT	725353937193172992	2016-04-27T16:00:29	On the front page OTD in 2013. George Jones has died at 81. nytimes 
+OnThisDayNYT	725346343720357889	2016-04-27T15:30:19	The front page OTD in 1994. South Africa holds first multiracial elections. nytimes 
+OnThisDayNYT	725338839351349249	2016-04-27T15:00:30	On the front page  OTD in 1989. Lucille Ball dies at 77. nytimes 
+OnThisDayNYT	725331220838522880	2016-04-27T14:30:13	The front page OTD in 1988. Bush wins in Pennsylvania, now has enough delegates to secure the nomination. nytimes 
+OnThisDayNYT	725323744718163972	2016-04-27T14:00:31	On the front page OTD in 1984. Count Basie dies at 79. nytimes 
+OnThisDayNYT	725316150721056768	2016-04-27T13:30:20	The front page OTD in 1956. Nixon tells Eisenhower that he would run again as his running mate. nytimes 
+OnThisDayNYT	725308638525427712	2016-04-27T13:00:29	The front page OTD in 1945. British troops win Bremen, Russians seize Szczecin and most of Berlin. nytimes ww2 
+OnThisDayNYT	725301031215624192	2016-04-27T12:30:15	The front page OTD in 1941. German troops enter Athens. nytimes ww2 
+OnThisDayNYT	725293556970053633	2016-04-27T12:00:33	The front page OTD in 1925. Paul von Hindenburg is elected president of Germany. nytimes 
+OnThisDayNYT	724976481223335938	2016-04-26T15:00:37	The front page OTD in 2015. Magnitude 7.8 earthquake devastates Nepal. nytimes 
+OnThisDayNYT	724968848902889473	2016-04-26T14:30:17	In the paper OTD in 1995. Ginger Rogers dies at 83. nytimes 
+OnThisDayNYT	724961367124385792	2016-04-26T14:00:33	The front page OTD in 1982. British troops seize a key harbor on South Georgia. nytimes 
+OnThisDayNYT	724953760737284096	2016-04-26T13:30:20	The front page OTD in 1980. Carter vows to pursue Iran hostages release after rescue failure. nytimes 
+OnThisDayNYT	724946266757570560	2016-04-26T13:00:33	The front page OTD in 1974. Rebels seize control of Portugal. nytimes 
+OnThisDayNYT	724938674450796545	2016-04-26T12:30:23	On the front page OTD in 1942. Princess Elizabeth registers for war service. nytimes ww2 
+OnThisDayNYT	724931205406167040	2016-04-26T12:00:42	The front page OTD in 1916. British troops crush Easter revolt in Dublin. nytimes 
+OnThisDayNYT	724591329074769920	2016-04-25T13:30:09	On the front page OTD in 1986. Wallis, Duchess of Windsor dies in France. nytimes 
+OnThisDayNYT	724583851381510144	2016-04-25T13:00:26	The front page OTD in 1980. Hostage rescue mission ends in disaster. nytimes 
+OnThisDayNYT	724576239269203968	2016-04-25T12:30:12	On this front page OTD in 1953. Winston Churchill is knighted by Queen Elizabeth II. nytimes 
+OnThisDayNYT	724568713735729152	2016-04-25T12:00:17	The front page OTD in 1945. Two Soviet armies join inside Berlin. nytimes ww2 
+OnThisDayNYT	724213891262095360	2016-04-24T12:30:21	On the front page OTD in 2007. Boris Yeltsin has died. nytimes 
+OnThisDayNYT	724206380870033409	2016-04-24T12:00:30	On the front page OTD in 1998. James Earl Ray has died in Nashville. nytimes 
+OnThisDayNYT	723866584993820676	2016-04-23T13:30:17	The front page OTD in 2008. Clinton clearly outduels Obama in Pennsylvania. nytimes 
+OnThisDayNYT	723859136824233985	2016-04-23T13:00:41	The front page OTD in 1994. Richard Nixon has died. nytimes 
+OnThisDayNYT	723851494055763969	2016-04-23T12:30:19	The front page OTD in 1980. Bush defeats Reagan in Pennsylvania. nytimes 
+OnThisDayNYT	723844018736496640	2016-04-23T12:00:37	The front page OTD in 1961. Kennedy meets with Eisenhower at Camp David to discuss the Bay of Pigs. nytimes 
+OnThisDayNYT	723496667798900737	2016-04-22T13:00:22	The front page OTD in 1995. Timothy McVeigh is arrested for Oklahoma City bombing. nytimes 
+OnThisDayNYT	723489092873281536	2016-04-22T12:30:16	The front page OTD in 1961. Kennedy to meet with Eisenhower over crisis in Cuba. nytimes 
+OnThisDayNYT	723481596674772992	2016-04-22T12:00:28	On the front page OTD in 1910. Mark Twain is dead. nytimes 
+OnThisDayNYT	723223130144169984	2016-04-21T18:53:25	The nytimes review of Purple Rain which was published in July 1984. R.I.P. Prince. 
+OnThisDayNYT	723149543378804738	2016-04-21T14:01:01	The front page OTD in 1999. Two students massacre 13 others at Columbine High School. nytimes 
+OnThisDayNYT	723141923620282369	2016-04-21T13:30:44	The front page OTD in 1972. Apollo 16 lands on the Moon. nytimes 
+OnThisDayNYT	723134529087496195	2016-04-21T13:01:21	The front page OTD in 1961. Kennedy says the U.S. won't allow communism to take over Cuba. nytimes 
+OnThisDayNYT	723126789061505024	2016-04-21T12:30:36	The front page OTD in 1945. The United States 7th Army captures Nuremberg. nytimes ww2 
+OnThisDayNYT	723119272281530368	2016-04-21T12:00:44	In the paper OTD in 1882. Charles Darwin has died. nytimes 
+OnThisDayNYT	722802128847122433	2016-04-20T15:00:31	The front page OTD in 2013. Dzhokhar Tsarnaev is arrested in connection to the Boston Marathon bombings. nytimes 
+OnThisDayNYT	722794532497063936	2016-04-20T14:30:20	The front page OTD in 2005. German Cardinal Ratzinger elected Pope Benedict XVI. nytimes 
+OnThisDayNYT	722787037795856385	2016-04-20T14:00:33	In the paper OTD in 1998. Linda McCartney has died at 56. nytimes 
+OnThisDayNYT	722779454427111425	2016-04-20T13:30:25	The front page OTD in 1995. Timothy McVeigh bombs Oklahoma City building. nytimes 
+OnThisDayNYT	722771939324862464	2016-04-20T13:00:33	The front page OTD in 1993. Scores die in standoff at Waco cult compound. nytimes 
+OnThisDayNYT	722764339866763266	2016-04-20T12:30:21	The front page OTD in 1988. New York gives Dukakis a crucial victory. nytimes 
+OnThisDayNYT	722756867768778753	2016-04-20T12:00:40	The front page OTD in 1961. Castro says the Bay of Pigs invasion has been crushed. nytimes 
+OnThisDayNYT	722454826844459008	2016-04-19T16:00:27	On the front page OTD in 2012. Dick Clark dies at 82. nytimes 
+OnThisDayNYT	722447227356975104	2016-04-19T15:30:16	On the front page OTD in 1999. Wayne Gretzky has played his final NHL game. nytimes 
+OnThisDayNYT	722439748615147520	2016-04-19T15:00:33	The front page OTD in 1983. Suicide bomber destroys the U.S. embassy in Beirut. nytimes 
+OnThisDayNYT	722432133399089154	2016-04-19T14:30:17	The front page OTD in 1978. The Senate votes to transfer control of the Panama Canal to Panama. nytimes 
+OnThisDayNYT	722424660873256962	2016-04-19T14:00:35	The front page OTD in 1961. Kennedy warns Khrushchev on Cuba after Russian vows to help Castro. nytimes 
+OnThisDayNYT	722420763253276674	2016-04-19T13:45:06	On the front page OTD in 1956. Grace Kelly has married Prince Rainier III of Monaco. nytimes 
+OnThisDayNYT	722417039567028225	2016-04-19T13:30:18	The front page OTD in 1955. Dr. Albert Einstein has died. nytimes 
+OnThisDayNYT	722409565564698624	2016-04-19T13:00:36	The front page OTD in 1912. Eyewitness accounts from the Titanic are published. nytimes 
+OnThisDayNYT	722401938348716032	2016-04-19T12:30:18	The front page OTD in 1906. A great earthquake strikes San Francisco. nytimes 
+OnThisDayNYT	722394491139678209	2016-04-19T12:00:42	OTD - April 19th 1881. Benjamin Disraeli is dead. nytimes 
+OnThisDayNYT	722058820202184704	2016-04-18T13:46:52	The front page OTD in 1970. Apollo 13 lands safely on its target. nytimes 
+OnThisDayNYT	722047099248848896	2016-04-18T13:00:18	The front page OTD in 1961. The Bay of Pigs invasion begins. nytimes 
+OnThisDayNYT	722039524457455617	2016-04-18T12:30:12	In the paper OTD in 1960. Eddie Cochran has been killed in a car crash in Britain. nytimes 
+OnThisDayNYT	722031987918147584	2016-04-18T12:00:15	The front page OTD in 1912. Carpathia arrives tonight with the Titanic's survivors. nytimes 
+OnThisDayNYT	721692266889228288	2016-04-17T13:30:19	The front page OTD in 2007. Massacre at Virginia Tech leaves 32 dead. nytimes 
+OnThisDayNYT	721684799203618816	2016-04-17T13:00:39	On the front page OTD in 1999. Wayne Gretzky announces his retirement. nytimes 
+OnThisDayNYT	721677161250226177	2016-04-17T12:30:18	The front page OTD in 1972. Apollo 16 launched. nytimes 
+OnThisDayNYT	721669678444056577	2016-04-17T12:00:33	The front page OTD in 1970. Apollo 13 is speeding towards Earth for Pacific splashdown this afternoon. nytimes 
+OnThisDayNYT	721382823064522752	2016-04-16T17:00:42	On the front page OTD in 2015. Aaron Hernandez is found guilty of murder. nytimes 
+OnThisDayNYT	721375207521275904	2016-04-16T16:30:26	The front page OTD in 2013. Two bombs explode near the finish line of the Boston Marathon. nytimes 
+OnThisDayNYT	721367743040126982	2016-04-16T16:00:46	On the front page OTD in 1998. Pol Pot is dead. nytimes 
+OnThisDayNYT	721360091232899072	2016-04-16T15:30:22	On the front page OTD in 1990. Greta Garbo dies at 84. nytimes 
+OnThisDayNYT	721352635249364993	2016-04-16T15:00:44	In the paper OTD in 1988. Kenneth Williams dies at 62. nytimes 
+OnThisDayNYT	721345006175268864	2016-04-16T14:30:26	On the front page OTD in 1980. Jean-Paul Sartre has died in Paris. nytimes 
+OnThisDayNYT	721337514833805312	2016-04-16T14:00:39	The front page OTD in 1970. Apollo 13 astronauts fire rockets and correct aim to prepare for landing. nytimes 
+OnThisDayNYT	721329903983931392	2016-04-16T13:30:25	The front page OTD in 1961.  Eight B-26 bombers attack Cuban airfields. nytimes 
+OnThisDayNYT	721322435031601153	2016-04-16T13:00:44	The front page OTD in 1945. Roosevelt is buried in Hyde Park. nytimes 
+OnThisDayNYT	721314777209765888	2016-04-16T12:30:18	The front page OTD in 1912. Titanic sinks four hours after hitting iceberg. nytimes 
+OnThisDayNYT	721307283913728000	2016-04-16T12:00:32	The front page OTD in 1865. Abraham Lincoln is dead. nytimes 
+OnThisDayNYT	721005249041866753	2016-04-15T16:00:21	The front page OTD in 2003. Pentagon asserts the main fighting is finished in Iraq. nytimes 
+OnThisDayNYT	720997662426734593	2016-04-15T15:30:12	The front page OTD in 1994. U.S. jets over Iraq shoot down own helicopters in error. nytimes 
+OnThisDayNYT	720990133839736833	2016-04-15T15:00:17	The front page OTD in 1986. U.S. launches air strikes on Libya. nytimes 
+OnThisDayNYT	720982556561113089	2016-04-15T14:30:11	The front page OTD in 1981. Columbia space shuttle returns to Earth after first flight. nytimes 
+OnThisDayNYT	720975078381334528	2016-04-15T14:00:28	The front page OTD in 1970. Apollo 13 is returning to Earth. nytimes 
+OnThisDayNYT	720967460531228672	2016-04-15T13:30:12	The front page OTD in 1945. The funeral of Franklin Roosevelt takes place in the White House. nytimes 
+OnThisDayNYT	720959943642259456	2016-04-15T13:00:20	The front page OTD in 1931. King Alfonso XIII of Spain quits and the Second Republic begins. nytimes 
+OnThisDayNYT	720952374584434688	2016-04-15T12:30:15	The front page OTD in 1912. The Titanic has struck an iceberg and is sinking. nytimes 
+OnThisDayNYT	720944842159706112	2016-04-15T12:00:19	The front page OTD in 1865. President Lincoln has been shot. nytimes 
+OnThisDayNYT	720590007732281345	2016-04-14T12:30:20	OTD - April 14th 1970. Critical explosion cripples Apollo 13. nytimes 
+OnThisDayNYT	720582552994467840	2016-04-14T12:00:43	The front page OTD in 1941. Japan and the Soviet Union sign nonaggression pact. nytimes ww2 
+OnThisDayNYT	720295819736260608	2016-04-13T17:01:20	On the front page OTD in 2015. Jordan Spieth wins the Masters in record-breaking fashion. 
+OnThisDayNYT	720288185641644032	2016-04-13T16:31:00	The front page OTD in 1999. Bill Clinton is found in contempt of court in Paula Jones lawsuit. nytimes 
+OnThisDayNYT	720280711500988416	2016-04-13T16:01:18	On the front page OTD in 1989. Sugar Ray Robinson dies at 67. nytimes 
+OnThisDayNYT	720272959617654784	2016-04-13T15:30:30	Also on the front page OTD in 1981. Joe Louis is dead at 66. nytimes 
+OnThisDayNYT	720265495161638912	2016-04-13T15:00:50	The front page OTD in 1981. Space Shuttle Columbia launches for the first time. nytimes 
+OnThisDayNYT	720257871477219329	2016-04-13T14:30:32	The front page OTD in 1980. U.S. Olympic group votes to boycott the Moscow games. nytimes 
+OnThisDayNYT	720250358514065409	2016-04-13T14:00:41	The front page OTD in 1961. Kennedy bars using U.S. force to remove Castro. nytimes 
+OnThisDayNYT	720242760830169089	2016-04-13T13:30:30	The front page OTD in 1955. Polio vaccine is declared safe and effective. nytimes 
+OnThisDayNYT	720235305538691074	2016-04-13T13:00:52	In the paper OTD in 1953. King George VI's speech therapist Lionel Logue has died. nytimes 
+OnThisDayNYT	720227617232662528	2016-04-13T12:30:19	The front page OTD in 1945. President Roosevelt is dead. nytimes 
+OnThisDayNYT	720220183785185280	2016-04-13T12:00:47	The front page OTD in 1861. The American Civil War has begun. nytimes 
+OnThisDayNYT	719880307176972289	2016-04-12T13:30:14	In the paper OTD in 2001. Harry Secombe has died at 79. nytimes 
+OnThisDayNYT	719872888078082048	2016-04-12T13:00:45	The front page OTD in 1970. Apollo 13 has launched and is on the way to the Moon. nytimes 
+OnThisDayNYT	719865280269148160	2016-04-12T12:30:31	OTD - April 12th 1961. Yuri Gagarin becomes the first human to travel into space. nytimes 
+OnThisDayNYT	719857768274853889	2016-04-12T12:00:40	The front page OTD in 1951. Truman says he fired MacArthur to prevent a new world war. nytimes 
+OnThisDayNYT	719540566304825345	2016-04-11T15:00:14	The front page OTD in 1998. Good Friday Agreement is signed in Northern Ireland. nytimes 
+OnThisDayNYT	719533020940664832	2016-04-11T14:30:15	The front page OTD in 1984. Walter Mondale wins in Pennsylvania. nytimes 
+OnThisDayNYT	719525486393556995	2016-04-11T14:00:18	Also in the paper OTD in 1970. Paul McCartney announces the breakup of the Beatles. nytimes 
+OnThisDayNYT	719517988408266752	2016-04-11T13:30:31	The front page OTD in 1970. Apollo 13 set to launch today. nytimes 
+OnThisDayNYT	719510376249864192	2016-04-11T13:00:16	The front page OTD in 1963. USS Thresher is lost in the North Atlantic killing all 129 on board. nytimes 
+OnThisDayNYT	719502791861886976	2016-04-11T12:30:07	The front page OTD in 1951. Harry Truman relieves Douglas MacArthur of his duties in Korea. nytimes 
+OnThisDayNYT	719495266299064321	2016-04-11T12:00:13	The front page OTD in 1932. Paul von Hindenburg defeats Adolf Hitler in the German presidential election. nytimes 
+OnThisDayNYT	719193317750083584	2016-04-10T16:00:23	On the front page OTD in 2005. Prince Charles marries Camilla Parker-Bowles. nytimes 
+OnThisDayNYT	719185752542674944	2016-04-10T15:30:19	The front page OTD in 2003. U.S. troops take control in Baghdad. nytimes 
+OnThisDayNYT	719178333813022722	2016-04-10T15:00:51	The front page OTD in 1968. Martin Luther King has been buried in Atlanta. nytimes 
+OnThisDayNYT	719170620232048640	2016-04-10T14:30:12	The front page OTD in 1963. Winston Churchill is made an honorary citizen of the United States. nytimes 
+OnThisDayNYT	719163156346511360	2016-04-10T14:00:32	The front page OTD in 1959. Frank Lloyd Wright dies at 89. nytimes 
+OnThisDayNYT	719155528723660800	2016-04-10T13:30:13	The front page OTD in 1945. U.S. and British armies drive for the Elbe. nytimes ww2 
+OnThisDayNYT	719148018780377088	2016-04-10T13:00:23	The front page OTD in 1942. Japanese capture Bataan. nytimes ww2 
+OnThisDayNYT	719140461873467393	2016-04-10T12:30:21	The front page OTD in 1918. Protests take place as Lloyd George announces conscription for Ireland. nytimes ww1 
+OnThisDayNYT	719132908733071360	2016-04-10T12:00:20	The front page OTD in 1865. General Robert E. Lee surrenders. The Civil War is over. nytimes 
+OnThisDayNYT	718830992807501825	2016-04-09T16:00:38	On the front page OTD in 2013. Margaret Thatcher has died. nytimes 
+OnThisDayNYT	718823369576026113	2016-04-09T15:30:21	The front page OTD in 2005. Pope John Paul II is buried beneath St. Peter's Basilica. nytimes 
+OnThisDayNYT	718815929631531009	2016-04-09T15:00:47	On the front page OTD in 2001. Tiger Woods wins the Masters for his 4th straight major. nytimes 
+OnThisDayNYT	718808280240234497	2016-04-09T14:30:23	On the front page OTD in 1994. Kurt Cobain has been found dead in his Seattle home. nytimes 
+OnThisDayNYT	718800809215954944	2016-04-09T14:00:42	The front page OTD in 1974. Hank Aaron passes Babe Ruth's homerun record. nytimes 
+OnThisDayNYT	718793167286378496	2016-04-09T13:30:20	The front page OTD in 1973. Pablo Picasso is dead in France. nytimes 
+OnThisDayNYT	718785727266295808	2016-04-09T13:00:46	The front page OTD in 1968. Coretta Scott King asks for a 'peaceful society' after marching in Memphis. nytimes 
+OnThisDayNYT	718778067078873088	2016-04-09T12:30:20	The front page OTD in 1940. Germany invades Denmark and bomb Oslo. nytimes ww2 
+OnThisDayNYT	718770584750927874	2016-04-09T12:00:36	The front page OTD in 1935. Adolph Ochs has died at 77. nytimes 
+OnThisDayNYT	718460954241961986	2016-04-08T15:30:14	The front page OTD in 2015. South Carolina officer is charged with murder of Walter Scott. nytimes 
+OnThisDayNYT	718453422916145154	2016-04-08T15:00:18	The front page OTD in 1999. NATO bombers hit Serb forces. nytimes 
+OnThisDayNYT	718445854093287424	2016-04-08T14:30:14	The front page OTD in 1982. Britain imposes a war-zone around the Falkland Islands. nytimes 
+OnThisDayNYT	718438355017465858	2016-04-08T14:00:26	The front page OTD in 1980. The United States cuts all diplomatic ties with Iran. nytimes 
+OnThisDayNYT	718430727683973121	2016-04-08T13:30:07	The front page OTD in 1972. Joe Gallo is murdered in Little Italy restaurant. nytimes 
+OnThisDayNYT	718423319150592000	2016-04-08T13:00:41	The front page OTD in 1968. U.S. troops are sent to Baltimore. nytimes 
+OnThisDayNYT	718415663430152192	2016-04-08T12:30:16	In the paper OTD in 1950. Walter  Huston has died. nytimes 
+OnThisDayNYT	718408137384931328	2016-04-08T12:00:21	The front page OTD in 1947. Henry Ford is dead at 83. nytimes 
+OnThisDayNYT	718103608240250880	2016-04-07T15:50:16	The front page OTD in 1896 featured a report from the first day of the first modern Olympic Games. nytimes 
+OnThisDayNYT	718098598190157824	2016-04-07T15:30:22	In the paper OTD in 1998. Tammy Wynette has died at 55. nytimes 
+OnThisDayNYT	718091093695340545	2016-04-07T15:00:32	The front page OTD in 1985. Muhammad Numayri has been deposed in Sudan. nytimes 
+OnThisDayNYT	718083502776823808	2016-04-07T14:30:23	The front page OTD in 1971. Igor Stravinsky has died. nytimes 
+OnThisDayNYT	718076015096893444	2016-04-07T14:00:37	The front page OTD in 1968. More soldiers are sent to control riots in Washington and Chicago. nytimes 
+OnThisDayNYT	718068428674703361	2016-04-07T13:30:29	The front page OTD in 1955. Anthony Eden has been appointed as British Prime Minister. nytimes 
+OnThisDayNYT	718060938054664193	2016-04-07T13:00:43	The front page OTD in 1917. The U.S. declares war on Germany. nytimes ww1 
+OnThisDayNYT	717766399523815424	2016-04-06T17:30:19	On the front page OTD in 2008. Charlton Heston has died at 83. nytimes 
+OnThisDayNYT	717758902662668288	2016-04-06T17:00:32	The front page OTD in 2003. U.S. tanks make quick strike into Baghdad. nytimes 
+OnThisDayNYT	717751280995676160	2016-04-06T16:30:15	The front page OTD in 1976. Howard Hughes has died on a flight to Houston. nytimes 
+OnThisDayNYT	717743822696910853	2016-04-06T16:00:37	The front page OTD in 1975. Chiang Kai-shek has died in Taipei. nytimes 
+OnThisDayNYT	717736171225292806	2016-04-06T15:30:12	The front page OTD in 1968. Riots take place nationwide following the death of Martin Luther King. nytimes 
+OnThisDayNYT	717728720572669954	2016-04-06T15:00:36	The front page OTD in 1960. John F. Kennedy defeats Hubert Humphrey in Wisconsin. nytimes 
+OnThisDayNYT	717721100461821952	2016-04-06T14:30:19	The front page OTD in 1955. Sir Winston Churchill resigns as British Prime Minister. nytimes 
+OnThisDayNYT	717713631979278336	2016-04-06T14:00:38	The front page OTD in 1951. Julius and Ethel Rosenberg have been sentenced to death. nytimes 
+OnThisDayNYT	717705992666873856	2016-04-06T13:30:17	The front page OTD in 1945. Soviet Union denounces its neutrality pact with Japan. nytimes ww2 
+OnThisDayNYT	717698510192152576	2016-04-06T13:00:33	The front page OTD in 1941. Germany invades Yugoslavia and Greece. nytimes ww2 
+OnThisDayNYT	717690908641079296	2016-04-06T12:30:21	The front page OTD in 1933. Beer becomes legal at midnight tonight. nytimes 
+OnThisDayNYT	717683403177373697	2016-04-06T12:00:31	The front page OTD in 1917. House votes to approve the U.S. entering the war. nytimes ww1 
+OnThisDayNYT	717351207447080962	2016-04-05T14:00:30	On the front page OTD in 1990. Sarah Vaughan has died at 66. nytimes 
+OnThisDayNYT	717343588682608640	2016-04-05T13:30:13	The front page OTD in 1972. George McGovern wins in Wisconsin. nytimes 
+OnThisDayNYT	717336124331438083	2016-04-05T13:00:34	The front page OTD in 1968. Dr Martin Luther King has been assassinated. nytimes 
+OnThisDayNYT	717328505105571841	2016-04-05T12:30:17	The front page OTD in 1933. The USS Akron has crashed. 73 people are dead. nytimes 
+OnThisDayNYT	717320990510809088	2016-04-05T12:00:25	The front page OTD in 1917. The Senate votes to support the declaration of war on Germany. nytimes ww1 
+OnThisDayNYT	717018977436696578	2016-04-04T16:00:20	The front page OTD in 2003. U.S. forces are at the edge of Baghdad. nytimes 
+OnThisDayNYT	717011382709792770	2016-04-04T15:30:09	The front page OTD in 1999. NATO is increasing the bombing of Belgrade. nytimes 
+OnThisDayNYT	717003865829150722	2016-04-04T15:00:17	The front page OTD in 1984. Mondale wins New York by a large margin. nytimes 
+OnThisDayNYT	716996311359205376	2016-04-04T14:30:16	The front page OTD in 1982. London orders a 35 ship task force to the Falkland Islands. nytimes 
+OnThisDayNYT	716988782549929984	2016-04-04T14:00:21	The front page OTD in 1948. President Harry Truman signs the Marshall Plan. nytimes 
+OnThisDayNYT	716981194903060480	2016-04-04T13:30:12	The front page OTD in 1936. Bruno Hauptmann is executed for murdering the Lindbergh baby. nytimes 
+OnThisDayNYT	716973686406774784	2016-04-04T13:00:22	In the paper OTD in 1897. The death of Johannes Brahms. nytimes 
+OnThisDayNYT	716966088202801153	2016-04-04T12:30:10	On the front page OTD in 1882. Jesse James is murdered. nytimes 
+OnThisDayNYT	716958603433811968	2016-04-04T12:00:26	The front page OTD in 1865.  The Confederate capital of Richmond is captured by the Union army. nytimes 
+OnThisDayNYT	716664116169957377	2016-04-03T16:30:14	The front page OTD in 2005. Pope John Paul II has died. nytimes 
+OnThisDayNYT	716656664905027584	2016-04-03T16:00:38	The front page OTD in 2003. U.S. troops are sweeping towards  Baghdad. nytimes 
+OnThisDayNYT	716649025403883520	2016-04-03T15:30:17	The front page OTD in 1999. NATO begins bombing Belgrade. nytimes 
+OnThisDayNYT	716641530153291776	2016-04-03T15:00:30	The front page OTD in 1992. John Gotti is convicted of murder. nytimes 
+OnThisDayNYT	716633941688475652	2016-04-03T14:30:20	The front page OTD in 1982. Argentina invades the Falkland Islands. nytimes 
+OnThisDayNYT	716626462485274624	2016-04-03T14:00:37	The front page OTD in 1974. Georges Pompidou has died in Paris. nytimes 
+OnThisDayNYT	716618833054666754	2016-04-03T13:30:18	The front page OTD in 1969. Dwight Eisenhower has been buried in Kansas. nytimes 
+OnThisDayNYT	716611349032226816	2016-04-03T13:00:34	The front page OTD in 1968.  Eugene McCarthy wins Democratic primary in Wisconsin. nytimes 
+OnThisDayNYT	716603717772902400	2016-04-03T12:30:14	On the front page OTD in 1941. Virginia Woolf is missing and presumed dead. nytimes 
+OnThisDayNYT	716596222807531520	2016-04-03T12:00:27	The front page OTD in 1917. Woodrow Wilson asks Congress for declaration of war. nytimes ww1 
+OnThisDayNYT	716264070077243392	2016-04-02T14:00:36	The front page OTD in 2005. Pope John Paul II is nearing death. nytimes 
+OnThisDayNYT	716248979881603073	2016-04-02T13:00:38	The front page OTD in 1998. Paula Jones' lawsuit against President Clinton has been dismissed. nytimes 
+OnThisDayNYT	716233836112191489	2016-04-02T12:00:28	The front page OTD in 1984. Marvin Gaye has been shot and killed by his father. nytimes 
+OnThisDayNYT	715916796004466688	2016-04-01T15:00:39	OTD - April 1st 2001. Slobodan Milošević has been arrested in Belgrade. nytimes 
+OnThisDayNYT	715909208248422400	2016-04-01T14:30:30	OTD - April 1st 1999. NATO plans weeks of bombing to break grip of Serb leader. nytimes 
+OnThisDayNYT	715901842840952832	2016-04-01T14:01:14	OTD - April 1st 1980. Jesse Owens has died of cancer at 66. nytimes 
+OnThisDayNYT	715894124855975936	2016-04-01T13:30:34	OTD - April 1st 1969. The funeral of President Eisenhower has taken place in Washington. nytimes 
+OnThisDayNYT	715886668104933376	2016-04-01T13:00:56	OTD - April 1st 1968. Lyndon Johnson announces that he will not seek re-election. nytimes 
+OnThisDayNYT	715878977944952833	2016-04-01T12:30:23	OTD - April 1st 1966. Harold Wilson wins sweeping victory in British election. nytimes 
+OnThisDayNYT	715871510657826816	2016-04-01T12:00:43	OTD - April 1st 1913. John Pierpont Morgan has died in Rome. nytimes 
+OnThisDayNYT	715546789525323780	2016-03-31T14:30:23	OTD - March 31st 2002. Queen Elizabeth, the Queen Mother has died at 101. nytimes 
+OnThisDayNYT	715539406946312192	2016-03-31T14:01:03	OTD - March 31st 2000. Ian Dury has died in London at 57. nytimes 
+OnThisDayNYT	715531744556900353	2016-03-31T13:30:36	OTD - March 31st 1986. James Cagney is dead at 86. nytimes 
+OnThisDayNYT	715524211700146177	2016-03-31T13:00:40	OTD - March 31st 1981. Ronald Reagan has been shot by John Hinckley, Jr. nytimes 
+OnThisDayNYT	715516555509911553	2016-03-31T12:30:15	OTD - March 31st 1945. Russians capture Danzig and invade Austria. nytimes ww2 
+OnThisDayNYT	715509109915693056	2016-03-31T12:00:39	OTD - March 31st 1939. Britain and France decide to defend Poland if Germany attacks. nytimes 
+OnThisDayNYT	715192057459965952	2016-03-30T15:00:48	OTD - March 30th 1973. U.S. troops withdraw from Vietnam. nytimes 
+OnThisDayNYT	715176953829941252	2016-03-30T14:00:47	OTD - March 30th 1952. Harry S. Truman announces that he will not seek re-election. nytimes 
+OnThisDayNYT	715161876728909824	2016-03-30T13:00:53	OTD - March 30th 1943. Rommel flees as British break Mareth line. nytimes ww2 
+OnThisDayNYT	714829602376409089	2016-03-29T15:00:32	OTD - March 29th 1991. 100,000 join rally in Moscow defying ban by Gorbachev to show support for Yeltsin. nytimes 
+OnThisDayNYT	714821975990870016	2016-03-29T14:30:14	OTD - March 29th 1987. Maria von Trapp is dead at 82. nytimes 
+OnThisDayNYT	714814513728466945	2016-03-29T14:00:35	OTD - March 29th 1979. British government loses vote of "no confidence" in the House of Commons. nytimes 
+OnThisDayNYT	714806978510323713	2016-03-29T13:30:38	OTD - March 29th 1969. Dwight D. Eisenhower is dead at 78. nytimes 
+OnThisDayNYT	714799418130563074	2016-03-29T13:00:36	OTD - March 29th 1968. Martin Luther King leads protest march in Memphis on behalf of sanitation workers. nytimes 
+OnThisDayNYT	714791803090636801	2016-03-29T12:30:20	OTD - March 29th 1953. Jim Thorpe is dead at 64. nytimes 
+OnThisDayNYT	714784297148817410	2016-03-29T12:00:31	OTD - March 29th 1943. Sergei Rachmaninoff has died in California. nytimes 
+OnThisDayNYT	714489840692121600	2016-03-28T16:30:27	OTD - March 28th 2002. Dudley Moore dies at 66. nytimes 
+OnThisDayNYT	714482350998953984	2016-03-28T16:00:41	OTD - March 28th 1995. Eazy-E dies of AIDS at 31. nytimes 
+OnThisDayNYT	714474734742679552	2016-03-28T15:30:25	OTD - March 28th 1977. Hundreds are killed as two Boeing 747s collide in Tenerife. nytimes 
+OnThisDayNYT	714467270672527360	2016-03-28T15:00:46	OTD - March 28th 1968. Yuri Gagarin has been killed in a jet crash. nytimes 
+OnThisDayNYT	714459631624396800	2016-03-28T14:30:24	OTD - March 28th 1958. Nikita Khrushchev becomes Premier of the Soviet Union. nytimes 
+OnThisDayNYT	714452171333304320	2016-03-28T14:00:46	OTD - March 28th 1941. Pro-German government is overthrown in Yugoslavia. nytimes ww2 
+OnThisDayNYT	714104868349173767	2016-03-27T15:00:42	OTD - March 27th 1997. 39 members of the Heaven's Gate cult are dead after mass suicide in California. nytimes 
+OnThisDayNYT	714097211743711232	2016-03-27T14:30:17	OTD - March 27th 1979. Israel and Egypt end 30 years of war with historic peace treaty. nytimes 
+OnThisDayNYT	714089771744632832	2016-03-27T14:00:43	OTD - March 27th 1974. Noël Coward has died at 73. nytimes 
+OnThisDayNYT	714082109686571008	2016-03-27T13:30:16	OTD - March 27th 1945. David Lloyd George has died. nytimes 
+OnThisDayNYT	714074659591823361	2016-03-27T13:00:40	OTD - March 27th 1918. Claude Debussy has died at 55. nytimes 
+OnThisDayNYT	713734848976805888	2016-03-26T14:30:23	OTD - March 26th 1980. Edward Kennedy defeats Carter in New York and Connecticut. nytimes 
+OnThisDayNYT	713727418637258752	2016-03-26T14:00:51	OTD - March 26th 1975. King Faisal of Saudi Arabia is assassinated by his nephew. nytimes 
+OnThisDayNYT	713719713172365312	2016-03-26T13:30:14	OTD - March 26th 1965. Martin  Luther King leads march into Montgomery. nytimes 
+OnThisDayNYT	713410279510376448	2016-03-25T17:00:39	OTD - March 25th 1999. NATO opens broad barrage against Serbs as Clinton denounces Milošević. nytimes 
+OnThisDayNYT	713402630903468032	2016-03-25T16:30:16	OTD - March 25th 1998. 5 children have been killed in a school shooting in Jonesboro, Arkansas. nytimes 
+OnThisDayNYT	713395228137226240	2016-03-25T16:00:51	OTD - March 25th 1992. Democrats rebuff Clinton in the Connecticut primary. nytimes 
+OnThisDayNYT	713387537390145536	2016-03-25T15:30:17	OTD - March 25th 1989. The Exxon Valdez has ran aground off the coast of Alaska. nytimes 
+OnThisDayNYT	713380085575757824	2016-03-25T15:00:41	OTD - March 25th 1980. Archbishop Óscar Romero has been assassinated in El Salvador. nytimes 
+OnThisDayNYT	713372441825808384	2016-03-25T14:30:18	OTD - March 25th 1972. The British government reassumed direct control of Northern Ireland. nytimes 
+OnThisDayNYT	713364989742940160	2016-03-25T14:00:41	OTD - March 25th 1955. John W. Davis has died at 81. nytimes 
+OnThisDayNYT	713357361994313728	2016-03-25T13:30:23	OTD - March 25th 1953. Queen Mary, the Queen's grandmother, has died peacefully in her sleep. nytimes 
+OnThisDayNYT	713349861844717568	2016-03-25T13:00:35	OTD - March 25th 1905. Jules Verne has died in France at 77. nytimes 
+OnThisDayNYT	713032762823876608	2016-03-24T16:00:32	OTD - March 24th 2011. Elizabeth Taylor has died. nytimes 
+OnThisDayNYT	713025212661391360	2016-03-24T15:30:32	OTD - March 24th 2010. Obama signs health care overhaul into law. nytimes 
+OnThisDayNYT	713017667192360961	2016-03-24T15:00:33	OTD - March 24th 1999. NATO authorizes bomb strikes against Yugoslavia. nytimes 
+OnThisDayNYT	713010080472412160	2016-03-24T14:30:24	Also OTD - March 24th 1976. Field Marshal Bernard Montgomery has died at 88. nytimes 
+OnThisDayNYT	713002737957351424	2016-03-24T14:01:14	OTD - March 24th 1976. Ronald Reagan defeats Ford in North Carolina. nytimes 
+OnThisDayNYT	712994973461778432	2016-03-24T13:30:23	OTD - March 24th 1939. Hungarians invade Slovakia. nytimes 
+OnThisDayNYT	712987531382370304	2016-03-24T13:00:48	OTD - March 24th 1933. Hitler gets the power to rule Germany as a dictator. nytimes 
+OnThisDayNYT	712625096242794497	2016-03-23T13:00:37	OTD - March 23rd 1933. FDR legalizes sale of beer and wine. nytimes 
+OnThisDayNYT	712272301937594368	2016-03-22T13:38:44	OTD - March 22nd 2010. Congress sends White House landmark health overhaul. nytimes 
+OnThisDayNYT	711953071744491520	2016-03-21T16:30:14	OTD - March 21st 2003. U.S. and British troops push into Iraq as missiles strike Baghdad. nytimes 
+OnThisDayNYT	711945539319758848	2016-03-21T16:00:18	OTD - March 21st 1997. Cigarette maker concedes smoking can cause cancer. nytimes 
+OnThisDayNYT	711937985122447360	2016-03-21T15:30:17	OTD - March 21st 1984. Mondale is Illinois winner. nytimes 
+OnThisDayNYT	711930489251074049	2016-03-21T15:00:30	OTD - March 21st 1976. Patty Hearst is convicted on bank robbery charges. nytimes 
+OnThisDayNYT	711922887016321024	2016-03-21T14:30:17	OTD - March 21st 1974. Princess Anne and her husband escape kidnapping attempt outside Buckingham Palace. nytimes 
+OnThisDayNYT	711915376200654849	2016-03-21T14:00:27	OTD - March 21st 1944. German troops occupy Hungary. nytimes ww2 
+OnThisDayNYT	711907772502188032	2016-03-21T13:30:14	OTD - March 21st 1933. Reichstag meeting today is prepared to give Hitler full control as dictator. nytimes 
+OnThisDayNYT	711900308322922497	2016-03-21T13:00:34	OTD - March 21st 1929. Ferdinand Foch dies in Paris at 77. nytimes 
+OnThisDayNYT	711545447060340736	2016-03-20T13:30:29	OTD - March 20th 2003. George W. Bush orders the start of the war on Iraq. nytimes 
+OnThisDayNYT	711538520901419008	2016-03-20T13:02:57	OTD - March 20th 1992. Tsongas ends his campaign leaving Clinton a clear path towards nomination. nytimes 
+OnThisDayNYT	711235927826235392	2016-03-19T17:00:33	OTD - March 19th 2014. Putin reclaims Crimea for Russia. nytimes 
+OnThisDayNYT	711228323246903297	2016-03-19T16:30:20	OTD - March 19th 2003. War imminent as Hussein rejects ultimatum. nytimes 
+OnThisDayNYT	711220848720412672	2016-03-19T16:00:38	OTD - March 19th 2000. Taiwan nationalists ousted after half-century reign. nytimes 
+OnThisDayNYT	711213226550136832	2016-03-19T15:30:21	OTD - March 19th 1992. White South Africans vote for political reforms to end apartheid. nytimes 
+OnThisDayNYT	711205759774646272	2016-03-19T15:00:41	OTD - March 19th 1980. Carter wins easily in Illinois primary, G.O.P backs Reagan. nytimes 
+OnThisDayNYT	711198123738030081	2016-03-19T14:30:20	OTD - March 19th 1965. Alexey Leonov became the first person to perform a spacewalk. nytimes 
+OnThisDayNYT	711190641326161920	2016-03-19T14:00:36	OTD - March 19th 1913. King George I of Greece is assassinated. nytimes 
+OnThisDayNYT	710873570595876864	2016-03-18T17:00:41	OTD - March 18th 2014. Putin recognizes Crimea secession. nytimes 
+OnThisDayNYT	710858477627772929	2016-03-18T16:00:42	OTD - March 18th 2003. Bush gives Hussein 48 hours and vows to act. nytimes 
+OnThisDayNYT	710843410530185217	2016-03-18T15:00:50	OTD - March 18th 1992. Clinton wins big victories in 2 Midwestern primaries. nytimes 
+OnThisDayNYT	710828299295981568	2016-03-18T14:00:47	OTD - March 18th 1984. Mondale is victor in Michigan. nytimes 
+OnThisDayNYT	710813241765535746	2016-03-18T13:00:57	OTD - March 18th 1920. Kapp surrenders power to Ebert and flees Berlin. nytimes 
+OnThisDayNYT	710526371508789249	2016-03-17T18:01:02	OTD - March 17th 2003. Bush and allies set for war to depose Saddam Hussein. nytimes 
+OnThisDayNYT	710518748394889216	2016-03-17T17:30:45	OTD - March 17th 1988. Oliver North and John Poindexter indicted on charges in the Iran–Contra affair. nytimes 
+OnThisDayNYT	710511316067221505	2016-03-17T17:01:13	OTD - March 17th 1978. Aldo Moro is kidnapped at gunpoint in Rome nytimes 
+OnThisDayNYT	710503583771287552	2016-03-17T16:30:29	OTD - March 17th 1976. Ford decisively defeats Reagan in Illinois primary. nytimes 
+OnThisDayNYT	710496114558967808	2016-03-17T16:00:48	OTD - March 17th 1975. T-Bone Walker dies at 64. nytimes 
+OnThisDayNYT	710488494498381824	2016-03-17T15:30:31	OTD - March 17th 1971. Thomas E. Dewey is dead at 68. nytimes 
+OnThisDayNYT	710481059587096576	2016-03-17T15:00:59	OTD - March 17th 1968. Robert Kennedy announces his candidacy for the presidency of the United States. nytimes 
+OnThisDayNYT	710473412041252864	2016-03-17T14:30:36	OTD - March 17th 1966. Gemini 8 is forced down in the Pacific after docking with another spacecraft. nytimes 
+OnThisDayNYT	710465907206676480	2016-03-17T14:00:46	OTD - March 17th 1920. Kapp quits revolt 'in favour of Ebert'. nytimes 
+OnThisDayNYT	710458286198300673	2016-03-17T13:30:29	OTD - March 17th 1917. The Romanov dynasty ended in Russia. nytimes 
+OnThisDayNYT	710450857796440065	2016-03-17T13:00:58	OTD - March 17th 1883. Karl Marx has died in London. nytimes 
+OnThisDayNYT	710241606792777729	2016-03-16T23:09:29	OTD - March 16th 2001. The population of New York tops 8 million for the first time. nytimes 
+OnThisDayNYT	710240087645286401	2016-03-16T23:03:27	OTD - March 16th 1975. Aristotle Onassis has died in France. nytimes 
+OnThisDayNYT	710103480648671233	2016-03-16T14:00:37	OTD - March 16th 1968. Robert Kennedy is running for president. nytimes 
+OnThisDayNYT	710088398757728256	2016-03-16T13:00:41	OTD - March 16th 1917. Tsar Nicholas II abdicates. nytimes 
+OnThisDayNYT	709771250403401729	2016-03-15T16:00:27	OTD - March 15th 1978. Big Israeli force invades South Lebanon. nytimes 
+OnThisDayNYT	709756184677339136	2016-03-15T15:00:35	OTD - March 15th 1964. Jack Ruby is sentenced to death for killing Lee Harvey Oswald. nytimes 
+OnThisDayNYT	709741149955629056	2016-03-15T14:00:51	OTD - March 15th 1938. Hitler enters a cheering Vienna. nytimes 
+OnThisDayNYT	709725980030410752	2016-03-15T13:00:34	OTD - March 15th 1920. General strike spreads in Germany. nytimes 
+OnThisDayNYT	709408775795449858	2016-03-14T16:00:06	OTD - March 14th 2013. Jorge Mario Bergoglio elected Pope Francis. nytimes 
+OnThisDayNYT	709401220243333120	2016-03-14T15:30:05	OTD - March 14th 1996. 16 children are massacred at  Dunblane Primary School. nytimes 
+OnThisDayNYT	709393687185195010	2016-03-14T15:00:09	OTD - March 14th 1968. Robert Kennedy is ready to run for president. nytimes 
+OnThisDayNYT	709386121445138433	2016-03-14T14:30:05	OTD - March 14th 1938. Austria is absorbed into the German Reich. nytimes 
+OnThisDayNYT	709378582791856128	2016-03-14T14:00:08	OTD - March 14th 1930. The discovery of a 9th planet in the solar system is announced. nytimes 
+OnThisDayNYT	709371026107269121	2016-03-14T13:30:06	OTD - March 14th 1920. Junkers and army seize power in  Berlin. nytimes 
+OnThisDayNYT	709363514750570496	2016-03-14T13:00:15	OTD - March 14th 1901. Benjamin Harrison has died. nytimes 
+OnThisDayNYT	709046397614436352	2016-03-13T16:00:09	OTD - March 13th 2011. Japan scrambles to avoid nuclear meltdown. nytimes 
+OnThisDayNYT	709038833870897154	2016-03-13T15:30:05	OTD - March 13th 2008. Eliot Spitzer resigns as Governor of New York. nytimes 
+OnThisDayNYT	709031312946888706	2016-03-13T15:00:12	OTD - March 13th 1999. Poland, Hungary and the Czech Republic join NATO. nytimes 
+OnThisDayNYT	709023727048994816	2016-03-13T14:30:04	OTD - March 13th 1959. Hawaii is voted into the Union as the 50th State. nytimes 
+OnThisDayNYT	709016217982345216	2016-03-13T14:00:13	OTD - March 13th 1940. Moscow announces a peace treaty with Finland has been signed. nytimes ww2 
+OnThisDayNYT	709008632025718784	2016-03-13T13:30:05	OTD - March 13th 1938. Hitler enters Austria in triumphal parade.  nytimes 
+OnThisDayNYT	709001116118228992	2016-03-13T13:00:13	OTD - March 13th 1906. Susan B. Anthony dies at 86. nytimes 
+OnThisDayNYT	708691558887849984	2016-03-12T16:30:09	OTD - March 12th 2011. Japan hit by tsunami after massive earthquake. nytimes 
+OnThisDayNYT	708684016442978307	2016-03-12T16:00:10	OTD - March 12th 2004. Terrorists bomb trains in Madrid. nytimes 
+OnThisDayNYT	708676464497963008	2016-03-12T15:30:10	OTD - March 12th 1990. Lithuania declares independence from the Soviet Union. nytimes 
+OnThisDayNYT	708668919234433024	2016-03-12T15:00:11	OTD - March 12th 1985. Konstantin Chernenko dies in Moscow at 73. nytimes 
+OnThisDayNYT	708661360448577537	2016-03-12T14:30:09	OTD - March 12th 1957. Admiral Richard B. Byrd has died.nytimes 
+OnThisDayNYT	708653844268355584	2016-03-12T14:00:17	OTD - March 12th 1955. Sir Alexander Fleming has died. nytimes 
+OnThisDayNYT	708646258961883145	2016-03-12T13:30:08	OTD - March 12th 1952. Eisenhower defeats Taft in the New Hampshire primary. nytimes 
+OnThisDayNYT	708638721478778885	2016-03-12T13:00:11	OTD - March 12th 1938. Germany annexes Austria. nytimes 
+OnThisDayNYT	708298986478657536	2016-03-11T14:30:12	OTD - March 11th 1992. Clinton takes Florida and sweeps primaries in the South. nytimes 
+OnThisDayNYT	708291459942776836	2016-03-11T14:00:18	OTD - March 11th 1977. Gunmen release all hostages held in Washington DC. nytimes 
+OnThisDayNYT	708283889714737152	2016-03-11T13:30:13	OTD - March 11th 1969. James Earl Ray admits killing Martin Luther King.  nytimes 
+OnThisDayNYT	708276377754075136	2016-03-11T13:00:22	OTD - March 11th 1948. Jan Masaryk is killed. Reds claim he commited suicide. nytimes 
+OnThisDayNYT	707944240781766657	2016-03-10T15:00:34	OTD - March 10th 1997. Christopher Wallace—a.k.a. The Notorious B.I.G.—is killed in Los Angeles. nytimes 
+OnThisDayNYT	707936648886005760	2016-03-10T14:30:24	OTD - March 10th 1977. Muslim gunmen invade 3 buildings in Washington D.C. and take scores hostage. nytimes 
+OnThisDayNYT	707929229741035520	2016-03-10T14:00:55	OTD - March 10th 1976. Ford defeats Reagan in Florida. nytimes 
+OnThisDayNYT	707921571621371904	2016-03-10T13:30:29	OTD - March 10th 1967. Stalin's daughter defects to the United States. 
+OnThisDayNYT	707914139717402624	2016-03-10T13:00:57	OTD - March 10th 1965. Martin Luther King leads a march at Selma. nytimes 
+OnThisDayNYT	707596925101445121	2016-03-09T16:00:28	OTD - March 9th 1999. Joe DiMaggio dies at 84. nytimes 
+OnThisDayNYT	707589337374793729	2016-03-09T15:30:19	OTD - March 9th 1988. Bush routs Dole in primaries. nytimes 
+OnThisDayNYT	707581838525538305	2016-03-09T15:00:31	OTD - March 9th 1971. Joe Frazier defeats Muhammad Ali at Madison Square Garden. nytimes 
+OnThisDayNYT	707574218351718400	2016-03-09T14:30:14	OTD - March 9th 1953. Stalin is entombed at the side of Lenin. nytimes 
+OnThisDayNYT	707566764721221634	2016-03-09T14:00:37	OTD - March 9th 1942. Japanese invade Papua New Guinea. nytimes ww2 
+OnThisDayNYT	707559153313517569	2016-03-09T13:30:22	OTD - March 9th 1930. William Howard Taft dies. nytimes 
+OnThisDayNYT	707554381227560960	2016-03-09T13:11:24	OTD - March 9th 1874. Millard Fillmore has died. nytimes 
+OnThisDayNYT	707234562879787010	2016-03-08T16:00:34	OTD - March 8th 2000. Gore and Bush triumph nationwide. nytimes 
+OnThisDayNYT	707226951753162752	2016-03-08T15:30:19	OTD - March 8th 1999. Stanley Kubrick dies at 70. nytimes 
+OnThisDayNYT	707219464710848512	2016-03-08T15:00:34	OTD - March 8th 1996. Dole is victorious in New York. nytimes 
+OnThisDayNYT	707211857375825920	2016-03-08T14:30:20	OTD - March 8th 1995. Death penalty is reinstated in New York. nytimes 
+OnThisDayNYT	707204341950582785	2016-03-08T14:00:28	OTD - March 8th 1936. Hitler orders German troops to reoccupy the Rhineland. nytimes 
+OnThisDayNYT	707196840903479296	2016-03-08T13:30:40	OTD - March 8th 1921. Foch's armies advance to seize more German towns. nytimes 
+OnThisDayNYT	707189259921305602	2016-03-08T13:00:33	OTD - March 8th 1912. Roald Amundsen announces the discovery of the South Pole. nytimes 
+OnThisDayNYT	706857162765504512	2016-03-07T15:00:55	OTD - March 7th 1983. Helmut Kohl and his coalition win decisively in West Germany. nytimes 
+OnThisDayNYT	706849487629586432	2016-03-07T14:30:25	OTD - March 7th 1963. Patsy Cline is killed in a plane crash. nytimes 
+OnThisDayNYT	706842037635588096	2016-03-07T14:00:48	OTD - March 7th 1961. George Formby dies at 56. nytimes 
+OnThisDayNYT	706834426093654017	2016-03-07T13:30:34	OTD - March 7th 1953. Malenkov is named new Soviet Premier. nytimes 
+OnThisDayNYT	706827034090057729	2016-03-07T13:01:11	OTD - March 7th 1945. American troops capture Cologne. nytimes 
+OnThisDayNYT	706524397239214080	2016-03-06T16:58:37	Friday would have been Ronald and Nancy Reagan's 64th wedding anniversary. RIP Nancy. 
+OnThisDayNYT	706517310710767616	2016-03-06T16:30:27	OTD - March 6th 1996. Bob Dole sweeps 8 primaries and calls for the party to unite. nytimes 
+OnThisDayNYT	706509843285147648	2016-03-06T16:00:47	OTD - March 6th 1982. John Belushi dies at 33. nytimes 
+OnThisDayNYT	706502161358655488	2016-03-06T15:30:16	OTD - March 6th 1953. Joseph Stalin dies. nytimes 
+OnThisDayNYT	706494723955896322	2016-03-06T15:00:42	OTD - March 6th 1951. Ivor Novello dies at 57. nytimes 
+OnThisDayNYT	706487071817400320	2016-03-06T14:30:18	OTD - March 6th 1945. Three U.S. columns enter Cologne. nytimes 
+OnThisDayNYT	706479662361219073	2016-03-06T14:00:51	OTD - March 6th 1942. Japanese announce occupation of Batavia. nytimes 
+OnThisDayNYT	706472027461275649	2016-03-06T13:30:31	OTD - March 6th 1933. Roosevelt orders a 4-day bank holiday and puts and embargo on gold. nytimes 
+OnThisDayNYT	706464566771724288	2016-03-06T13:00:52	OTD - March 6th 1917. Woodrow Wilson is inaugurated for the second time. nytimes 
+OnThisDayNYT	706215300602003457	2016-03-05T20:30:23	OTD - March 5th 2008. John McCain secures Republican nomination. nytimes 
+OnThisDayNYT	706207804311228416	2016-03-05T20:00:35	OTD - March 5th 1996. Minnie Pearl dies at 83. nytimes 
+OnThisDayNYT	706201122726400000	2016-03-05T19:34:02	OTD - March 5th 1994. John Candy dies from a heart attack at 43. nytimes 
+OnThisDayNYT	706192737331056640	2016-03-05T19:00:43	OTD - March 5th 1994. 4 are convicted in bombing at the World Trade Center. nytimes 
+OnThisDayNYT	706185127580176385	2016-03-05T18:30:29	OTD - March 5th 1974. Harold Wilson becomes Prime Minister of the United Kingdom for the second time. nytimes 
+OnThisDayNYT	706177654290919424	2016-03-05T18:00:47	OTD - March 5th 1933. Franklin D. Roosevelt is inaugurated, acts to end banking crisis quickly. nytimes 
+OnThisDayNYT	706170042426089472	2016-03-05T17:30:32	OTD - March 5th 1929. Herbert Hoover is inaugurated. nytimes 
+OnThisDayNYT	706162537960607745	2016-03-05T17:00:43	OTD - March 5th 1925. Calvin Coolidge is inaugurated with simple ceremonies. nytimes 
+OnThisDayNYT	706154948577243136	2016-03-05T16:30:34	OTD - March 5th 1921. Warren G. Harding is inaugurated. nytimes 
+OnThisDayNYT	706147473660575744	2016-03-05T16:00:51	OTD - March 5th 1913. Woodrow Wilson is sworn in as president. nytimes 
+OnThisDayNYT	706139787833397252	2016-03-05T15:30:19	OTD - March 5th 1909. William Howard Taft takes the oath of office in the United States Senate chamber. nytimes 
+OnThisDayNYT	706132338359439360	2016-03-05T15:00:43	OTD - March 5th 1905. Theodore Roosevelt is inaugurated as president of the United States. nytimes 
+OnThisDayNYT	706124727782256642	2016-03-05T14:30:28	OTD - March 5th 1901. William McKinley is inaugurated for the second time. nytimes 
+OnThisDayNYT	706117221722947585	2016-03-05T14:00:39	OTD - March 5th 1897. William McKinley is sworn in as president. nytimes 
+OnThisDayNYT	706109578639855616	2016-03-05T13:30:17	OTD - March 5th 1865. Lincoln begins his second term as president. nytimes 
+OnThisDayNYT	706102146748403712	2016-03-05T13:00:45	OTD - March 5th 1861. Abraham Lincoln becomes the 16th president of the United States. nytimes 
+OnThisDayNYT	705769971003949056	2016-03-04T15:00:48	OTD - March 4th 1999. Dusty Springfield dies at 59. nytimes 
+OnThisDayNYT	705762348061970432	2016-03-04T14:30:30	OTD - March 4th 1992. Bill Clinton wins the Georgia primary. nytimes 
+OnThisDayNYT	705754867625623552	2016-03-04T14:00:47	OTD - March 4th 1953. Joseph Stalin is gravely ill after suffering a stroke. nytimes 
+OnThisDayNYT	705747204208611328	2016-03-04T13:30:20	OTD - March 4th 1950. Alaska wins approval from the House to become the 49th State. nytimes 
+OnThisDayNYT	705739762917732354	2016-03-04T13:00:46	OTD - March 4th 1933. Franklin Roosevelt takes up task as President today. nytimes 
+OnThisDayNYT	705430112833921024	2016-03-03T16:30:19	OTD - March 3rd 1974. Grand Jury reportedly conclude that Nixon was involved in Watergate cover-up. nytimes 
+OnThisDayNYT	705425177610473472	2016-03-03T16:10:43	OTD - March 3rd 1973. Palestinian gunmen murder U.S. diplomats in Khartoum. nytimes 
+OnThisDayNYT	705415034332061697	2016-03-03T15:30:24	OTD - March 3rd 1949. A B-50 bomber makes the first non-stop flight around the world. nytimes 
+OnThisDayNYT	705407554625499137	2016-03-03T15:00:41	OTD - March 3rd 1945. Germans in full retreat across the Rhine. nytimes ww2 
+OnThisDayNYT	705399927925374976	2016-03-03T14:30:23	OTD - March 3rd 1939. Cardinal Pacelli is elected Pope Pius XII. nytimes 
+OnThisDayNYT	705392471509848065	2016-03-03T14:00:45	OTD - March 3rd 1932. The hunt for the Lindbergh baby goes on. nytimes 
+OnThisDayNYT	705067764390559744	2016-03-02T16:30:29	OTD - March 2nd 2014. Russian armed forces seize Crimea. nytimes 
+OnThisDayNYT	705060322512535552	2016-03-02T16:00:54	OTD - March 2nd 1980. Gerald Ford says Reagan can't win election. Invites G.O.P to ask him to run. nytimes 
+OnThisDayNYT	705052652816584709	2016-03-02T15:30:26	OTD - March 2nd 1974. Seven indicted for Watergate crimes. nytimes 
+OnThisDayNYT	705045155842109441	2016-03-02T15:00:38	OTD - March 2nd 1954. Puerto Rican nationalists open fire on House of Representatives. nytimes 
+OnThisDayNYT	705037563686289409	2016-03-02T14:30:28	OTD - March 2nd 1945. 9th Army captures Mönchengladbach. nytimes ww2 
+OnThisDayNYT	705030078376185856	2016-03-02T14:00:44	OTD - March 2nd 1942. Japanese drive into Java. nytimes ww2 
+OnThisDayNYT	705022464015802369	2016-03-02T13:30:28	OTD - March 2nd 1941. Nazi troops occupy Sofia and key bases as Bulgaria enters alliance with Axis. nytimes 
+OnThisDayNYT	705014963262214148	2016-03-02T13:00:40	OTD - March 2nd 1932. Charles Lindbergh's son is kidnapped from his home in New Jersey. nytimes 
+OnThisDayNYT	704705296896126977	2016-03-01T16:30:10	OTD - March 1st 2004. Jean-Bertrand Aristide is overthrown in Haiti. nytimes 
+OnThisDayNYT	704697835065778176	2016-03-01T16:00:31	OTD - March 1st 2000. Bush sweeps McCain in three States. nytimes 
+OnThisDayNYT	704690223351902208	2016-03-01T15:30:16	OTD - March 1st 1986. Olof Palme, Prime Minister of Sweden, is assassinated. nytimes 
+OnThisDayNYT	704682754005270530	2016-03-01T15:00:35	OTD - March 1st 1956. Eisenhower announces that he is seeking a second term as President. nytimes 
+OnThisDayNYT	704675144250191872	2016-03-01T14:30:21	OTD - March 1st 1944. U.S. troops take Admiralty Isle. nytimes ww2 
+OnThisDayNYT	704667662933061633	2016-03-01T14:00:37	OTD - March 1st 1942. Japanese land on Java. nytimes ww2 
+OnThisDayNYT	704660031245922304	2016-03-01T13:30:18	OTD - March 1st 1941. Bulgaria to join the Axis today. nytimes ww2 
+OnThisDayNYT	704652536830005248	2016-03-01T13:00:31	OTD - March 1st 1917. Germany seeks an alliance against us, asks Japan and Mexico to join her. nytimes ww1 
+OnThisDayNYT	704320422091722752	2016-02-29T15:00:48	OTD - February 29th 1984. Gary Hart wins the New Hampshire primary. nytimes 
+OnThisDayNYT	703973182936461312	2016-02-28T16:01:00	OTD - February 28th 2015. Leonard Nimoy dies. nytimes 
+OnThisDayNYT	703965450661593088	2016-02-28T15:30:17	OTD - February 28th 2003. Fred Rogers dies at 74. nytimes 
+OnThisDayNYT	703958009337114624	2016-02-28T15:00:42	OTD - February 28th 2002. Spike Milligan dies at 83. nytimes 
+OnThisDayNYT	703950356225478656	2016-02-28T14:30:18	OTD - February 28th 1996. Steve Forbes wins the Arizona primary. nytimes 
+OnThisDayNYT	703942920383008769	2016-02-28T14:00:45	OTD - February 28th 1991. George Bush announces that Kuwait has been liberated from Iraqi occupation nytimes 
+OnThisDayNYT	703640874857553923	2016-02-27T18:00:32	OTD - February 27th 2001. Sir Donald Bradman dies at 92. nytimes 
+OnThisDayNYT	703633243916996608	2016-02-27T17:30:12	OTD - February 27th 1993. A car bomb explodes underneath the World Trade Center. nytimes 
+OnThisDayNYT	703625816362455041	2016-02-27T17:00:42	OTD - February 27th 1991. Allied units surge through Kuwait. nytimes 
+OnThisDayNYT	703618170209218562	2016-02-27T16:30:19	OTD - February 27th 1990. Sandinistas are defeated in Nicaraguan elections. nytimes 
+OnThisDayNYT	703610751269769216	2016-02-27T16:00:50	OTD - February 27th 1987. Inquiry finds Reagan and his advisers responsible for chaos in Iran arms deals. nytimes 
+OnThisDayNYT	703603069024497664	2016-02-27T15:30:18	OTD - February 27th 1980. Reagan easily defeats Bush and Baker in New Hampshire. nytimes 
+OnThisDayNYT	703595715147145221	2016-02-27T15:01:05	OTD - February 27th 1951. The 22nd Amendment is ratified, limiting the President to two terms.nytimes 
+OnThisDayNYT	703587994410680324	2016-02-27T14:30:24	OTD - February 27th 1936. Ivan Pavlov dies at 86. 
+OnThisDayNYT	703278466913796096	2016-02-26T18:00:27	OTD - February 26th 1991. Iraq orders troops to leave Kuwait. 
+OnThisDayNYT	702901063590944768	2016-02-25T17:00:47	OTD - February 25th 2004. Bush backs ban in constitution on gay marriage. nytimes 
+OnThisDayNYT	702893374957719552	2016-02-25T16:30:14	OTD - February 25th 1994. Dinah Shore dies at 76. nytimes 
+OnThisDayNYT	702885910560411649	2016-02-25T16:00:34	OTD - February 25th 1991. Allies report fast advances in Iraq and Kuwait. nytimes 
+OnThisDayNYT	702878287148658688	2016-02-25T15:30:17	OTD - February 25th 1986. Marcos and Aquino stage rival inaugurals in Manila. nytimes 
+OnThisDayNYT	702870869995970561	2016-02-25T15:00:48	OTD - February 25th 1982. Wayne Gretzky Breaks the NHL Single-Season Goal Record. nytimes 
+OnThisDayNYT	702863224966770690	2016-02-25T14:30:26	Also OTD - February 25th 1981. Prince Charles and Lady Diana Spencer announce their engagement. nytimes 
+OnThisDayNYT	702855762188500992	2016-02-25T14:00:46	OTD - February 25th 1981. Rightist coup fails in Spain. nytimes 
+OnThisDayNYT	702848093184663554	2016-02-25T13:30:18	OTD - February 25th 1967. The Boston Strangler escapes from a mental hospital in Massachusetts. nytimes 
+OnThisDayNYT	702840613893337089	2016-02-25T13:00:35	OTD - February 25th 1945. Marines raise the U.S. flag on Iwo Jima. nytimes 
+OnThisDayNYT	702530649048145920	2016-02-24T16:28:53	OTD - February 24th 2000. Sir Stanley Matthews dies at 85. nytimes 
+OnThisDayNYT	702527122888396800	2016-02-24T16:14:53	OTD - February 24th 1997. Gunman shoots 7 people inside the Empire State Building before killing himself. nytimes 
+OnThisDayNYT	702513572455260160	2016-02-24T15:21:02	OTD - February 24th 1991. Allied forces storm Iraq and Kuwait after Hussein ignores U.S. deadline. nytimes 
+OnThisDayNYT	702507751281463296	2016-02-24T14:57:54	OTD - February 24th 1986. Marcos forces rush crowd; rebels seize key TV station. nytimes 
+OnThisDayNYT	702500859037544448	2016-02-24T14:30:31	OTD - February 24th 1981. Rebel army seizes control in Spain. nytimes 
+OnThisDayNYT	702493745346908160	2016-02-24T14:02:15	OTD - February 24th 1965. Stan Laurel dies at 74. nytimes 
+OnThisDayNYT	702486347827843072	2016-02-24T13:32:51	OTD - February 24th 1913. Madero and Suarez are murdered on their way to prison. nytimes 
+OnThisDayNYT	702176303810813952	2016-02-23T17:00:51	OTD - February 23rd 2000. McCain wins in Michigan and Arizona. nytimes 
+OnThisDayNYT	702169362300592129	2016-02-23T16:33:16	OTD - February 23rd 1991. Bush demands Iraq starts withdrawing from Kuwait immediately. nytimes 
+OnThisDayNYT	702161556558245889	2016-02-23T16:02:15	OTD - February 23rd 1987. Andy Warhol dies at 58. nytimes 
+OnThisDayNYT	702153536679899136	2016-02-23T15:30:23	OTD - February 23rd 1986. Two key Filipino military leaders quit and urge Marcos to resign the presidency. nytimes 
+OnThisDayNYT	702145564637577216	2016-02-23T14:58:42	OTD - February 23rd 1980. U.S.A. Beats Soviet Union in ‘Miracle on Ice’. nytimes 
+OnThisDayNYT	702138407099744257	2016-02-23T14:30:16	OTD - February 23rd 1956. Rosa Parks is arrested for her role in the Montgomery bus boycott. nytimes 
+OnThisDayNYT	702132896858054659	2016-02-23T14:08:22	OTD - February 23rd 1934. Sir Edward Elgar dies at 77. nytimes 
+OnThisDayNYT	702123029917261825	2016-02-23T13:29:09	OTD - February 23rd 1919. Soviet republic is proclaimed in Bavaria. nytimes 
+OnThisDayNYT	701791135383949312	2016-02-22T15:30:19	OTD - February 22nd 1991. Soviets announce Iraq agrees to proposal to end Gulf War; US rejects the plan. nytimes 
+OnThisDayNYT	701783634827542530	2016-02-22T15:00:31	OTD - February 22nd 1975. Mitchell, Haldeman, Ehrlichman sentenced to prison for Watergate cover-up. nytimes 
+OnThisDayNYT	701779905479057408	2016-02-22T14:45:42	OTD - February 22nd 1972. Nixon makes historic visit to China to meet Chairman Mao. nytimes 
+OnThisDayNYT	701768530618789888	2016-02-22T14:00:30	OTD - February 22nd 1965. Malcolm X is assassinated in New York City. nytimes 
+OnThisDayNYT	701761121309425666	2016-02-22T13:31:04	OTD - February 22nd 1922.  U.S. Army airship Roma crashes in Norfolk. nytimes 
+OnThisDayNYT	701753438825091072	2016-02-22T13:00:32	OTD - February 22nd 1919. Civil war breaks out in Munich. Premier Eisner is assassinated. nytimes 
+OnThisDayNYT	701443813110231040	2016-02-21T16:30:11	OTD - February 21st 2001.  FBI agent Robert Philip Hanssen is charged as Russian spy. nytimes 
+OnThisDayNYT	701436353767018496	2016-02-21T16:00:33	OTD - February 21st 1996. Buchanan a narrow victor over Dole in New Hampshire. nytimes 
+OnThisDayNYT	701428734423773184	2016-02-21T15:30:16	OTD - February 21st 1991. U.S.-Iraqi clashes grow fierce in possible prelude to attack. nytimes 
+OnThisDayNYT	701421244420239361	2016-02-21T15:00:31	OTD - February 21st 1983. Hundreds die in Assam poll violence. nytimes 
+OnThisDayNYT	701413636581908480	2016-02-21T14:30:17	OTD - February 21st 1962. John Glenn is the first American to orbit Earth. nytimes 
+OnThisDayNYT	701406226765099009	2016-02-21T14:00:50	OTD - February 21st 1938. Hitler demands self-determination for Germans in Austria and Czechoslovakia. nytimes 
+OnThisDayNYT	701398526803070976	2016-02-21T13:30:14	OTD - February 21st 1933. House votes to repeal prohibition. nytimes 
+OnThisDayNYT	701391020152348672	2016-02-21T13:00:25	OTD - February 21st 1910. Boutros Ghali is assassinated in Egypt. nytimes 
+OnThisDayNYT	701051248166850560	2016-02-20T14:30:17	OTD - February 20th 2000. Bush wins South Carolina by drawing a huge Republican vote. nytimes 
+OnThisDayNYT	701043793231872000	2016-02-20T14:00:39	OTD - February 20th 1997. Deng Xiaoping dies at 92. nytimes 
+OnThisDayNYT	701036235293384704	2016-02-20T13:30:37	OTD - February 20th 1945. Marines fight way to airfield on Iwo Jima. nytimes ww2 
+OnThisDayNYT	700704005194788864	2016-02-19T15:30:27	OTD - February 19th 2001. Dale Earnhardt is killed on the final lap of the Daytona 500. nytimes 
+OnThisDayNYT	700696563522211840	2016-02-19T15:00:53	OTD - February 19th 1992. Paul Tsongas wins the New Hampshire primary, Bill Clinton in a strong 2nd. nytimes 
+OnThisDayNYT	700688902252683269	2016-02-19T14:30:27	OTD - February 19th 1979. Soviets warn China to pull out of Vietnam 'before it is too late'. nytimes 
+OnThisDayNYT	700681517299687424	2016-02-19T14:01:06	OTD - February 19th 1945. U.S. Marines land on Iwo Jima. nytimes ww2 
+OnThisDayNYT	700673782210392066	2016-02-19T13:30:22	OTD - February 19th 1918. Two German armies invade Russia. nytimes ww1 
+OnThisDayNYT	700666561430851584	2016-02-19T13:01:40	OTD - February 19th 1913. Madero is deposed. Huerta seizes the presidency of Mexico. nytimes 
+OnThisDayNYT	700341553496100864	2016-02-18T15:30:12	OTD - February 18th 2004. John Kerry wins the Wisconsin primary. nytimes 
+OnThisDayNYT	700334075500822528	2016-02-18T15:00:29	OTD - February 18th 1979. Chinese troops and planes attack Vietnam. nytimes 
+OnThisDayNYT	700326459097808897	2016-02-18T14:30:13	OTD - February 18th 1934. Albert I of Belgium is killed in a mountaineering accident. nytimes 
+OnThisDayNYT	700318972822982658	2016-02-18T14:00:29	OTD - February 18th 1919. Germans finally sign armistice giving up territory to Poland. nytimes 
+OnThisDayNYT	700311363969626112	2016-02-18T13:30:14	OTD - February 18th 1909. Geronimo dies at 79. nytimes 
+OnThisDayNYT	699979188917239809	2016-02-17T15:30:18	OTD - February 17th 2002. Steven Bradbury wins Olympic gold in the 1,000m speed skating. nytimes 
+OnThisDayNYT	699971683696799745	2016-02-17T15:00:28	OTD - February 17th 2001. U.S. and British jets strike air-defense centers in Iraq. nytimes 
+OnThisDayNYT	699964172583350273	2016-02-17T14:30:38	OTD - February 17th 1988. Bush and Dukakis win the New Hampshire primaries. nytimes 
+OnThisDayNYT	699956590703607808	2016-02-17T14:00:30	OTD - February 17th 1923. Howard Carter opens the burial chamber of Tutankhamun. nytimes 
+OnThisDayNYT	699677167613923328	2016-02-16T19:30:10	OTD - February 16th 1999. John Ehrlichman dies at 73. nytimes 
+OnThisDayNYT	699669642566995970	2016-02-16T19:00:16	OTD - February 16th 1989. Soviet troops pull out of Afghanistan. nytimes 
+OnThisDayNYT	699662076256489472	2016-02-16T18:30:12	OTD - February 16th 1986. Ferdinand Marcos is proclaimed president of the Philippines. nytimes 
+OnThisDayNYT	699661290952925184	2016-02-16T18:27:05	PuckBuddys I'm afraid I don't have any control over that.
+OnThisDayNYT	699654569786085377	2016-02-16T18:00:23	OTD - February 16th 1984. Ethel Merman dies at 76. nytimes 
+OnThisDayNYT	699647021855039488	2016-02-16T17:30:23	OTD - February 16th 1978. Leon Spinks defeats Muhammad Ali to win the World Heavyweight Championship. nytimes 
+OnThisDayNYT	699639484145467392	2016-02-16T17:00:26	OTD - February 16th 1971. Britain launches a new decimal currency. nytimes 
+OnThisDayNYT	699631874482663424	2016-02-16T16:30:12	OTD - February 16th 1965. Nat King Cole dies of cancer at 45. nytimes 
+OnThisDayNYT	699624357560094720	2016-02-16T16:00:19	OTD - February 16th 1952. The funeral of King George VI takes place in London. nytimes 
+OnThisDayNYT	699616781283950592	2016-02-16T15:30:13	OTD - February 16th 1945. The United States launches a fire-bombing operation over Japan. nytimes ww2 
+OnThisDayNYT	699609269860085762	2016-02-16T15:00:22	OTD - February 16th 1942. Singapore falls to Japan. nytimes ww2 
+OnThisDayNYT	699601692807987200	2016-02-16T14:30:16	OTD - February 16th 1938. Austria gives in to Germany and adds pro-Nazi members to its cabinet. nytimes 
+OnThisDayNYT	699594193354633216	2016-02-16T14:00:28	OTD - February 16th 1933. Franklin Roosevelt escapes assassination in Miami. nytimes 
+OnThisDayNYT	699329617505738753	2016-02-15T20:29:08	OTD - February 15th 1979.  Militants storm the U.S. Embassy in Tehran nytimes 
+OnThisDayNYT	699254365769437185	2016-02-15T15:30:06	OTD - February 15th 1975. P. G. Wodehouse dies at 93. nytimes 
+OnThisDayNYT	699246862079922181	2016-02-15T15:00:17	OTD - February 15th 1943. Rostov and Voroshilovgrad recaptured by Russians. nytimes ww2 
+OnThisDayNYT	699239277587091457	2016-02-15T14:30:09	OTD - February 15th 1942. Japanese parachutists attack Sumatra. nytimes ww2 
+OnThisDayNYT	699231758810677249	2016-02-15T14:00:17	OTD - February 15th 1928. H. H. Asquith dies at 75. nytimes 
+OnThisDayNYT	699224175697723392	2016-02-15T13:30:09	OTD - February 15th 1917. Austrian submarine destroys American schooner. nytimes ww1 
+OnThisDayNYT	699216656745127937	2016-02-15T13:00:16	OTD - February 15th 1913. Rebels win in Mexico and Madero resigns. nytimes 
+OnThisDayNYT	698907195992215552	2016-02-14T16:30:35	OTD - February 14th 2002. Waylon Jennings dies at 64. nytimes 
+OnThisDayNYT	698899755062067201	2016-02-14T16:01:01	OTD - February 14th 1991. U.S. bombers strike civilians in Baghdad. nytimes 
+OnThisDayNYT	698892099232501762	2016-02-14T15:30:35	OTD - February 14th 1990. Agreement Is reached on a plan to reunify Germany. nytimes 
+OnThisDayNYT	698884586080612352	2016-02-14T15:00:44	OTD - February 14th 1984. Konstantin Chernenko is the new Soviet leader. nytimes 
+OnThisDayNYT	698876975855718400	2016-02-14T14:30:30	OTD - February 14th 1961. The assassination of Patrice Lumumba is announced in the Congo. nytimes 
+OnThisDayNYT	698869493041266688	2016-02-14T14:00:46	OTD - February 14th 1945. Budapest is captured by the Red Army. nytimes 
+OnThisDayNYT	698861915787759617	2016-02-14T13:30:39	OTD - February 14th 1941. Bulgaria to accept Nazi occupation. nytimes 
+OnThisDayNYT	698854364392230913	2016-02-14T13:00:39	OTD - February 14th 1935. Lindbergh Baby Kidnapper Found Guilty of Murder. nytimes 
+OnThisDayNYT	698522181387423745	2016-02-13T15:00:40	OTD - February 13th 2000. Tom Landry dies at 75. nytimes 
+OnThisDayNYT	698514585070936066	2016-02-13T14:30:29	OTD - February 13th 1999. Bill Clinton is acquitted by the Senate in his impeachment trial. nytimes 
+OnThisDayNYT	698507061294837760	2016-02-13T14:00:35	OTD - February 13th 1996. Bob Dole wins the Iowa caucuses. nytimes 
+OnThisDayNYT	698499647325622272	2016-02-13T13:31:08	OTD - February 13th 1934. The Austrian Civil  War begins. nytimes 
+OnThisDayNYT	698494912527011840	2016-02-13T13:12:19	OTD - February 13th 1928. Herbert Hoover announces his candidacy for president. nytimes 
+OnThisDayNYT	698167375326130179	2016-02-12T15:30:48	OTD - February 12th 2014. Shirley Temple dies at 85. nytimes 
+OnThisDayNYT	698160002523992065	2016-02-12T15:01:30	OTD - February 12th 2013. Pope Benedict XVI resigns. nytimes 
+OnThisDayNYT	698152156226985986	2016-02-12T14:30:19	OTD - February 12th 2011. Murbarak is ousted from power in Egypt. nytimes 
+OnThisDayNYT	698150855883755528	2016-02-12T14:25:09	trwhitmire_OBT richarddeitsch You would be correct. 
+OnThisDayNYT	698144955017986050	2016-02-12T14:01:42	OTD - February 12th 2005. Arthur Miller dies at 89. nytimes 
+OnThisDayNYT	698137140799021056	2016-02-12T13:30:39	OTD - February 12th 1990. Nelson Mandela has been released from prison. nytimes 
+OnThisDayNYT	698129636278956036	2016-02-12T13:00:50	OTD - February 12th 1975. Margaret Thatcher is elected leader of the Conservative Party. nytimes 
+OnThisDayNYT	697820118273798144	2016-02-11T16:30:55	OTD - February 11th 2011. Mubarak refuses to resign. nytimes 
+OnThisDayNYT	697812680845856769	2016-02-11T16:01:22	OTD - February 11th 1992. Mike Tyson is found guilty of rape. nytimes 
+OnThisDayNYT	697804904186777600	2016-02-11T15:30:28	OTD - February 11th 1990. Nelson Mandela is to be released from prison today. nytimes 
+OnThisDayNYT	697797418629201920	2016-02-11T15:00:43	OTD - February 11th 1983. Ariel Sharon quits as Israeli defence chief. nytimes 
+OnThisDayNYT	697789862770946048	2016-02-11T14:30:42	OTD - February 11th 1964. The Civil Rights Bill passes the House. nytimes 
+OnThisDayNYT	697782341561749505	2016-02-11T14:00:49	OTD - February 11th 1917. Germany makes informal advances to avert war with the United States. nytimes ww1 
+OnThisDayNYT	697774808046522369	2016-02-11T13:30:52	OTD - February 11th 1913. The death of Captain Robert Falcon Scott is announced. nytimes 
+OnThisDayNYT	697767300150087680	2016-02-11T13:01:02	OTD - February 11th 1861. Jefferson Davis is named president of the Confederate States of America. nytimes 
+OnThisDayNYT	697480517592068096	2016-02-10T18:01:28	OTD - February 10th 2002. Princess Margaret dies at 71. nytimes 
+OnThisDayNYT	697472655826382849	2016-02-10T17:30:14	OTD - February 10th 1990. Del Shannon is found dead at his home after committing suicide. nytimes 
+OnThisDayNYT	697465398745141248	2016-02-10T17:01:23	Also OTD - February 10th 1981. Bill Haley dies at 55. nytimes 
+OnThisDayNYT	697457685260689408	2016-02-10T16:30:44	OTD - February 10th 1981. Polish Prime Minister is ousted. nytimes 
+OnThisDayNYT	697450632072941569	2016-02-10T16:02:43	OTD - February 10th 1966. Sophie Tucker dies at 79. nytimes 
+OnThisDayNYT	697442480678006784	2016-02-10T15:30:19	OTD - February 10th 1945. Canadians drive on, now 4 miles from Cleve. nytimes ww2 
+OnThisDayNYT	697435013583757312	2016-02-10T15:00:39	OTD - February 10th 1943. Roosevelt orders 48-hour week in war effort. nytimes ww2 
+OnThisDayNYT	697427422199742470	2016-02-10T14:30:29	OTD - February 10th 1941. British warships attack Genoa. nytimes ww2 
+OnThisDayNYT	697419924210208768	2016-02-10T14:00:42	OTD - February 10th 1939. Pope Pius XI dies at 81. nytimes 
+OnThisDayNYT	697412348454174722	2016-02-10T13:30:35	OTD - February 10th 1913. Mexican army revolts and seizes Mexico City. nytimes 
+OnThisDayNYT	697087760427909120	2016-02-09T16:00:48	OTD - February 9th 1998. Enoch Powell dies at 85. nytimes 
+OnThisDayNYT	697080391266533376	2016-02-09T15:31:31	OTD - February 9th 1988. Bob Dole wins in Iowa, Pat Robertson is second. nytimes 
+OnThisDayNYT	697072680453873664	2016-02-09T15:00:52	OTD - February 9th 1955. Bulganin is Premier as Malenkov resigns. Khrushchev is viewed as real leader. nytimes 
+OnThisDayNYT	697065000418955265	2016-02-09T14:30:21	OTD - February 9th 1952. Elizabeth takes the oath as Queen amid medieval pageantry in London. nytimes 
+OnThisDayNYT	697057520381140994	2016-02-09T14:00:38	OTD - February 9th 1944. Russians win Nikopol. nytimes ww2 
+OnThisDayNYT	697049961846820864	2016-02-09T13:30:36	OTD - February 9th 1943. Russians win Kursk. nytimes ww2 
+OnThisDayNYT	697042415782203393	2016-02-09T13:00:37	OTD - February 9th 1936. Charles Curtis dies at 76. nytimes 
+OnThisDayNYT	696732793762504704	2016-02-08T16:30:17	OTD - February 8th 1999. King Hussein of Jordan dies. nytimes 
+OnThisDayNYT	696725361439088640	2016-02-08T16:00:45	OTD - February 8th 1990. Soviet leaders agree to surrender Communist party monopoly on power. nytimes 
+OnThisDayNYT	696717741110112256	2016-02-08T15:30:28	OTD - February 8th 1986. Duvalier flees Haiti to end family's 28 years in power. nytimes 
+OnThisDayNYT	696710259939762178	2016-02-08T15:00:44	OTD - February 8th 1965. U.S. jets attack North Vietnam in reprisal for Vietcong raids. nytimes 
+OnThisDayNYT	696702606916210691	2016-02-08T14:30:20	OTD - February 8th 1952. Elizabeth II arrives in London. Her Accession Proclamation is today. nytimes 
+OnThisDayNYT	696695145639473152	2016-02-08T14:00:41	OTD - February 8th 1945. Big 3 set final steps to crush Germany. nytimes ww2 
+OnThisDayNYT	696687514996703232	2016-02-08T13:30:22	OTD - February 8th 1917. Liner California is sunk without warning. nytimes ww1 
+OnThisDayNYT	696680019184132096	2016-02-08T13:00:34	OTD - February 8th 1878. Pope Pius IX dies. nytimes 
+OnThisDayNYT	696362898294091776	2016-02-07T16:00:27	OTD - February 7th 2001. Ariel Sharon easily ousts Barak to become Israel's Prime Minister. nytimes 
+OnThisDayNYT	696355275767304192	2016-02-07T15:30:10	OTD - February 7th 2000. Hillary Clinton declares her candidacy for the U.S. Senate. nytimes 
+OnThisDayNYT	696347793535823873	2016-02-07T15:00:26	OTD - February 7th 1993. Arthur Ashe dies at 49. nytimes 
+OnThisDayNYT	696340187035512835	2016-02-07T14:30:12	OTD - February 7th 1971. Apollo 14 is heading back to Earth. nytimes 
+OnThisDayNYT	696340175975092225	2016-02-07T14:30:09	OTD - February 7th 1984. Rebels capture West Beirut. U.S. Gunfire supports the regime. nytimes 
+OnThisDayNYT	696332674495975424	2016-02-07T14:00:21	OTD - February 7th 1958. The Munich air crash kills 23 people including 8 Manchester United players. nytimes 
+OnThisDayNYT	696325099910115330	2016-02-07T13:30:15	OTD - February 7th 1952. King George VI dies. Princess Elizabeth is now Queen. nytimes 
+OnThisDayNYT	696317598309314560	2016-02-07T13:00:27	OTD - February 7th 1922. Cardinal Ratti is elected as Pope Pius XI. nytimes 
+OnThisDayNYT	695985521340731392	2016-02-06T15:00:53	OTD - February 6th 2008. Hillary Clinton wins in California. nytimes 
+OnThisDayNYT	695977904916733952	2016-02-06T14:30:37	OTD - February 6th 1990. Barack Obama is elected president of the Harvard Law Review. nytimes 
+OnThisDayNYT	695970422957838337	2016-02-06T14:00:53	OTD - February 6th 1989. Moscow reports the last Soviet soldiers have left Kabul. nytimes 
+OnThisDayNYT	695962821482295296	2016-02-06T13:30:41	OTD - February 6th 1971. Apollo 14 astronauts walk on the moon's surface. nytimes 
+OnThisDayNYT	695955324574937089	2016-02-06T13:00:54	OTD - February 6th 1945. Douglas MacArthur announces the fall of Manila. nytimes ww2 
+OnThisDayNYT	695638325957275648	2016-02-05T16:01:15	OTD - February 5th 1990. 100,000 at rally in Moscow urge democratic changes. nytimes 
+OnThisDayNYT	695630534274232320	2016-02-05T15:30:18	OTD - February 5th 1987. Liberace dies at 67. nytimes 
+OnThisDayNYT	695623193034248194	2016-02-05T15:01:07	OTD - February 5th 1983. Karen Carpenter dies at 32. nytimes 
+OnThisDayNYT	695615450663616513	2016-02-05T14:30:22	OTD - February 5th 1971. Apollo 14 lands on the Moon. nytimes 
+OnThisDayNYT	695607931849428992	2016-02-05T14:00:29	OTD - February 5th 1945. Americans enter Manila and seize a prison camp. nytimes ww2 
+OnThisDayNYT	695600350024192000	2016-02-05T13:30:21	OTD - February 5th 1938. Hitler assumes control of the German army. nytimes 
+OnThisDayNYT	695305911762464768	2016-02-04T18:00:22	OTD - February 4th 2013. 'American Sniper' Chris Kyle is shot dead at a Texas shooting range. nytimes 
+OnThisDayNYT	695298323339567109	2016-02-04T17:30:12	OTD - February 4th 2011. Egypt officials widen crackdown. nytimes 
+OnThisDayNYT	695290811190104064	2016-02-04T17:00:21	OTD - February 4th 2008. New York Giants defeat the unbeaten Patriots to win Super Bowl XLII. nytimes 
+OnThisDayNYT	695283221966094336	2016-02-04T16:30:12	OTD - February 4th 2002. New England Patriots win their first Super Bowl. nytimes 
+OnThisDayNYT	695275724052148224	2016-02-04T16:00:24	OTD - February 4th 1994. Clinton ends the 14-year ban on trading with Vietnam. nytimes 
+OnThisDayNYT	695268127244836864	2016-02-04T15:30:13	OTD - February 4th 1989. Coup in Paraguay ousts Stroessner. nytimes 
+OnThisDayNYT	695260626373857280	2016-02-04T15:00:25	OTD - February 4th 1966. Luna 9 becomes the first spacecraft to achieve a soft landing on the Moon. nytimes 
+OnThisDayNYT	695253055663542272	2016-02-04T14:30:20	OTD - February 4th 1959. Buddy Holly, Ritchie Valens and The Big Bopper are killed in a plane crash. nytimes 
+OnThisDayNYT	695245574560309248	2016-02-04T14:00:36	OTD - February 4th 1945. Russians closing in on Frankfurt. nytimes ww2 
+OnThisDayNYT	695237951790325760	2016-02-04T13:30:19	OTD - February 4th 1924. Woodrow Wilson passes away. nytimes 
+OnThisDayNYT	695230440093802496	2016-02-04T13:00:28	OTD - February 4th 1917. Relations with Germany are broken off after another U.S. ship is sunk. nytimes ww1 
+OnThisDayNYT	694920846146560000	2016-02-03T16:30:15	OTD - February 3rd 2014. Philip Seymour Hoffman dies at 46. nytimes 
+OnThisDayNYT	694913341244907520	2016-02-03T16:00:26	OTD - February 3rd 1996. Gene Kelly dies at 83. nytimes 
+OnThisDayNYT	694905733150695424	2016-02-03T15:30:12	OTD - February 3rd 1995. Fred Perry dies at 85. nytimes 
+OnThisDayNYT	694898281197887489	2016-02-03T15:00:35	OTD - February 3rd 1990. F. W. de Klerk ends the 30 year ban of the ANC. nytimes 
+OnThisDayNYT	694890659723898881	2016-02-03T14:30:18	OTD - February 3rd 1979. Sid Vicious dies from a drug overdose. nytimes 
+OnThisDayNYT	694883178721341440	2016-02-03T14:00:34	OTD - February 3rd 1970. Bertrand Russell dies at 97. nytimes 
+OnThisDayNYT	694875553489235968	2016-02-03T13:30:16	OTD - February 3rd 1944. Marines capture Roi Island. nytimes ww2 
+OnThisDayNYT	694868064723013632	2016-02-03T13:00:31	OTD - February 3rd 1901. Queen Victoria's funeral takes place in London. nytimes 
+OnThisDayNYT	694588639318142976	2016-02-02T18:30:11	OTD - February 2nd 2003. Space Shuttle Columbia disintegrates as it re-enters Earth's atmosphere 
+OnThisDayNYT	694581122932453377	2016-02-02T18:00:19	OTD - February 2nd 2000. John McCain romps to victory in the New Hampshire primary. nytimes 
+OnThisDayNYT	694573531430932480	2016-02-02T17:30:09	OTD - February 2nd 1992. Bush and Yeltsin declare formal end to the Cold War. nytimes 
+OnThisDayNYT	694566020942426113	2016-02-02T17:00:18	OTD - February 2nd 1991. South Africa moves to scrap apartheid. nytimes 
+OnThisDayNYT	694558445068877825	2016-02-02T16:30:12	OTD - February 2nd 1988. Georgy Malenkov dies at 86. nytimes 
+OnThisDayNYT	694550964297072641	2016-02-02T16:00:28	OTD - February 2nd 1968. Street clashes go on in Vietnam. nytimes 
+OnThisDayNYT	694543353380098048	2016-02-02T15:30:14	OTD - February 2nd 1966. Buster Keaton dies at 70. nytimes 
+OnThisDayNYT	694535847656357889	2016-02-02T15:00:24	OTD - February 2nd 1945. Nazis report Russians 39 miles from Berlin. nytimes 
+OnThisDayNYT	694528268721004544	2016-02-02T14:30:17	OTD - February 2nd 1944. U.S. force wins beaches on Marshall Islands. nytimes 
+OnThisDayNYT	694520781611479041	2016-02-02T14:00:32	OTD - February 2nd 1942. U.S. Pacific fleet batters Japanese bases in Marshall and Gilbert Islands. nytimes 
+OnThisDayNYT	694513166810677248	2016-02-02T13:30:17	OTD - February 2nd 1924. Woodrow Wilson is dying. nytimes 
+OnThisDayNYT	694505659811823616	2016-02-02T13:00:27	OTD - February 2nd 1908. King of Portugal and his heir are assassinated. nytimes 
+OnThisDayNYT	694211154629910528	2016-02-01T17:30:11	OTD - February 1st 2006. Coretta Scott King dies at 78. nytimes 
+OnThisDayNYT	694203639552815105	2016-02-01T17:00:20	OTD - February 1st 2001. Abdelbaset al-Megrahi is found guilty of the Lockerbie bombing. nytimes 
+OnThisDayNYT	694196060659404801	2016-02-01T16:30:13	OTD - February 1st 1999. Denver Broncos win their second straight Super Bowl. nytimes 
+OnThisDayNYT	694188555380219904	2016-02-01T16:00:23	OTD - February 1st 1993. Dallas Cowboys win Super Bowl XXVII. nytimes 
+OnThisDayNYT	694180954005319680	2016-02-01T15:30:11	OTD - February 1st 1988. Washington Redskins smash the Broncos in Super Bowl XXII 
+OnThisDayNYT	694173430862602240	2016-02-01T15:00:17	OTD - February 1st 1958. Army launches U.S. satellite into orbit. nytimes 
+OnThisDayNYT	694165871913103360	2016-02-01T14:30:15	OTD - February 1st 1956. A. A. Milne dies in England at 74. nytimes 
+OnThisDayNYT	694158371516121088	2016-02-01T14:00:27	OTD - February 1st 1948. Gandhi is cremated in Delhi as millions watch. nytimes 
+OnThisDayNYT	694150779645534210	2016-02-01T13:30:17	OTD - February 1st 1942. Japanese lay siege to Singapore island. nytimes ww2 
+OnThisDayNYT	694143268532015105	2016-02-01T13:00:26	OTD - February 1st 1917. Germany begins ruthless sea warfare. nytimes ww1 
+OnThisDayNYT	693878966050906112	2016-01-31T19:30:11	OTD - January 31st 2000. St. Louis Rams defeat the Titans in Super Bowl XXXIV. nytimes 
+OnThisDayNYT	693871437128413184	2016-01-31T19:00:16	OTD - January 31st 1994. Dallas Cowboys retain the NFL Championship in Super Bowl XXVIII. nytimes 
+OnThisDayNYT	693863868284608517	2016-01-31T18:30:12	OTD - January 31st 1991. Iraq raid across Saudi border leads U.S. into ground combat. nytimes 
+OnThisDayNYT	693856355182972929	2016-01-31T18:00:20	OTD - January 31st 1983. Washington Redskins defeat the Dolphins in Super Bowl XVII nytimes 
+OnThisDayNYT	693848767271825408	2016-01-31T17:30:11	OTD - January 31st 1972. Thirteen people shot dead by British soldiers in Derry. nytimes 
+OnThisDayNYT	693841261988425728	2016-01-31T17:00:22	OTD - January 31st 1965. The state funeral of Winston Churchill takes place in London. nytimes 
+OnThisDayNYT	693835585052606464	2016-01-31T16:37:48	MaggieLDNguide I am sorry for that. I always post the newspapers on the day they were published so it is sometimes a day after the event.
+OnThisDayNYT	693834989218197504	2016-01-31T16:35:26	allanholloway BluePlaquesGuy So therefore it was front page news on this day. I'm glad we have got that cleared up.
+OnThisDayNYT	693834395623497728	2016-01-31T16:33:05	allanholloway BluePlaquesGuy Well done. It's quite hard to get the news on the front page before it happens.
+OnThisDayNYT	693834260294275074	2016-01-31T16:32:33	MaggieLDNguide You know how newspapers work right? It's quite hard to have the news on the front page before it happens.
+OnThisDayNYT	693833677923491840	2016-01-31T16:30:14	OTD - January 31st 1963. Francis Poulenc dies at 64. nytimes 
+OnThisDayNYT	693826181146148864	2016-01-31T16:00:26	OTD - January 31st 1951. Ferdinand Porsche dies in West Germany. nytimes 
+OnThisDayNYT	693818558158020608	2016-01-31T15:30:09	Also OTD - January 31st 1948. Orville Wright dies in Dayton. nytimes 
+OnThisDayNYT	693811081882374144	2016-01-31T15:00:26	OTD - January 31st 1948. Mahatma Gandhi is assassinated in Delhi. nytimes 
+OnThisDayNYT	693803474157326336	2016-01-31T14:30:13	OTD - January 31st 1940. Hitler warns of total war. nytimes ww2 
+OnThisDayNYT	693795989400858624	2016-01-31T14:00:28	OTD - January 31st 1933. Adolf Hitler is made Chancellor of Germany. nytimes 
+OnThisDayNYT	693788377779347456	2016-01-31T13:30:13	OTD - January 31st 1928. Douglas Haig dies suddenly in  London. nytimes 
+OnThisDayNYT	693503761206153216	2016-01-30T18:39:16	OTD - January 30th 1995. San Francisco 49ers win their 5th Super Bowl. nytimes 
+OnThisDayNYT	693472265023983616	2016-01-30T16:34:06	OTD - January 30th 1984. Ronald Reagan says that he will seek a second term as President. nytimes 
+OnThisDayNYT	693464166615662592	2016-01-30T16:01:55	OTD - January 30th 1980. Jimmy Durante dies at 86. nytimes 
+OnThisDayNYT	693454939620769793	2016-01-30T15:25:16	OTD - January 30th 1944. January 30th 1944. 800 U.S. bombers hit Frankfurt. nytimes ww2 
+OnThisDayNYT	693435924466761729	2016-01-30T14:09:42	OTD - January 30th 1922. Ernest Shackleton has died in Antarctica. nytimes 
+OnThisDayNYT	693108935604047873	2016-01-29T16:30:22	OTD - January 29th 2014. Pete Seeger dies at 94. nytimes 
+OnThisDayNYT	693101460020547585	2016-01-29T16:00:39	OTD - January 29th 2003. Bush vows to disarm Iraq. nytimes 
+OnThisDayNYT	693093852295467008	2016-01-29T15:30:26	OTD - January 29th 2001. Baltimore Ravens defeat the New York Giants in Super Bowl XXXV. nytimes 
+OnThisDayNYT	693086401361907712	2016-01-29T15:00:49	OTD - January 29th 1996. Dallas Cowboys win their 5th Super Bowl. nytimes 
+OnThisDayNYT	693078745976934400	2016-01-29T14:30:24	OTD - January 29th 1990. San Francisco 49ers beat the Broncos 55-10 in Super Bowl XXIV. nytimes 
+OnThisDayNYT	693071291218157568	2016-01-29T14:00:47	OTD - January 29th 1986. Space Shuttle Challenger explodes 74 seconds after lift-off. nytimes 
+OnThisDayNYT	693063625003524096	2016-01-29T13:30:19	OTD - January 29th 1936. King George V is buried in Windsor. nytimes 
+OnThisDayNYT	693056175772868608	2016-01-29T13:00:43	OTD - January 29th 1922. Washington theatre is crushed by snow as the roof caves in on the audience. nytimes 
+OnThisDayNYT	692751199888605185	2016-01-28T16:48:51	OTD - January 28th 2004. John Kerry wins in New Hampshire. nytimes 
+OnThisDayNYT	692739051212771328	2016-01-28T16:00:34	Also OTD - January 28th 1991. New York Giants win Super Bowl XXV. nytimes 
+OnThisDayNYT	692731433253605376	2016-01-28T15:30:18	OTD - January 28th 1991. U.S. bombs Kuwait oil stations. nytimes 
+OnThisDayNYT	692723929627041792	2016-01-28T15:00:29	OTD - January 28th 1973. U.S. formally ends participation in Vietnam War. nytimes 
+OnThisDayNYT	692716314125664256	2016-01-28T14:30:13	OTD - January 28th 1972. Mahalia Jackson dies. nytimes 
+OnThisDayNYT	692708828337410049	2016-01-28T14:00:29	OTD - January 28th 1967. Three astronauts die when fire engulfs the Apollo 1 capsule. nytimes 
+OnThisDayNYT	692701242535968768	2016-01-28T13:30:20	OTD - January 28th 1964. Margaret Chase Smith announces her Candidacy for President. nytimes 
+OnThisDayNYT	692693712116125696	2016-01-28T13:00:25	OTD - January 28th 1945. Red Army overruns Silesian war arsenal. nytimes ww2 
+OnThisDayNYT	692406864345075712	2016-01-27T18:00:35	OTD - January 27th 2008. Barack Obama wins South Carolina by a wide margin. nytimes 
+OnThisDayNYT	692399285338447872	2016-01-27T17:30:28	OTD - January 27th 2001. Severe earthquake strikes India, killing thousands. nytimes 
+OnThisDayNYT	692391808932839424	2016-01-27T17:00:45	OTD - January 27th 1998. Bill Clinton emphatically denies having an affair with Monica Lewinsky nytimes 
+OnThisDayNYT	692384182819880960	2016-01-27T16:30:27	OTD - January 27th 1997. Brett Favre leads the Green Bay Packers to victory in Super Bowl XXXI nytimes 
+OnThisDayNYT	692376713989267459	2016-01-27T16:00:47	OTD - January 27th 1992. Washington Redskins defeat the Buffalo Bills in Super Bowl XXVI nytimes 
+OnThisDayNYT	692369065646555136	2016-01-27T15:30:23	OTD - January 27th 1986. Unstoppable Chicago Bears win Super Bowl XX. nytimes 
+OnThisDayNYT	692361592197894144	2016-01-27T15:00:41	OTD - January 27th 1979. Nelson Rockefeller dies at 70. nytimes 
+OnThisDayNYT	692353963413213184	2016-01-27T14:30:22	OTD - January 27th 1945. Russians reach the Baltic and cut off East Prussia.  nytimes ww2 
+OnThisDayNYT	692346520167796737	2016-01-27T14:00:48	OTD - January 27th 1944. Argentina breaks with the Axis nytimes ww2 
+OnThisDayNYT	692338890321989632	2016-01-27T13:30:29	OTD - January 27th 1901. Giuseppe Verdi dies in Milan.  nytimes 
+OnThisDayNYT	692331396291911680	2016-01-27T13:00:42	OTD - January 27th 1874. The news of Dr David Livingstone's death is received in England.  nytimes 
+OnThisDayNYT	692044463393222657	2016-01-26T18:00:32	OTD - January 26th 1998. John Elway and the Denver Broncos finally win the Super Bowl. nytimes 
+OnThisDayNYT	692036850521808897	2016-01-26T17:30:17	OTD - January 26th 1991. U.S. says Iraq is pumping Kuwaiti oil into the Gulf. nytimes 
+OnThisDayNYT	692029366700605440	2016-01-26T17:00:32	OTD - January 26th 1987. New York Giants win their first Super Bowl. nytimes 
+OnThisDayNYT	692021784107884545	2016-01-26T16:30:25	Also OTD - January 26th 1981. Oakland Raiders win Super Bowl XV. nytimes 
+OnThisDayNYT	692014259144757248	2016-01-26T16:00:31	OTD - January 26th 1981. Former hostages arrive home from Iran. nytimes 
+OnThisDayNYT	692006639377846273	2016-01-26T15:30:14	OTD - January 26th 1971. The Manson Family are found guilty of the Tate-LaBianca murders nytimes 
+OnThisDayNYT	691999217955409920	2016-01-26T15:00:44	OTD - January 26th 1947. Al Capone dies in Florida. nytimes 
+OnThisDayNYT	691991583915270144	2016-01-26T14:30:24	OTD - January 26th 1945. Russians four miles from Posen, nearing Baltic. nytimes ww2 
+OnThisDayNYT	691984038429532160	2016-01-26T14:00:25	OTD - January 26th 1944. Nazis believed to be quitting Cassino. nytimes ww2 
+OnThisDayNYT	691976503010074624	2016-01-26T13:30:29	OTD - January 26th 1943. French in Marseille fight Nazis. nytimes ww2 
+OnThisDayNYT	691969008162119684	2016-01-26T13:00:42	OTD - January 26th 1919. The League of Nations is formed. nytimes 
+OnThisDayNYT	691644270705422336	2016-01-25T15:30:18	OTD - January 25th 2000. Bush and Gore win in Iowa. nytimes 
+OnThisDayNYT	691636790013243392	2016-01-25T15:00:35	OTD - January 25th 1982. San Francisco 49ers defeat the Cincinnati Bengals in Super Bowl XVI. nytimes 
+OnThisDayNYT	691304559373717504	2016-01-24T17:00:25	OTD - January 24th 2005. Johnny Carson dies at 79. nytimes 
+OnThisDayNYT	691289444100341760	2016-01-24T16:00:21	OTD - January 24th 1989. Salvador Dalí dies at 84. nytimes 
+OnThisDayNYT	691281856457670656	2016-01-24T15:30:12	OTD - January 24th 1976. Paul Robeson dies at 77. nytimes 
+OnThisDayNYT	691274368135991298	2016-01-24T15:00:27	OTD - January 24th 1973. Nixon announces Vietnam peace deal. nytimes 
+OnThisDayNYT	691266754064977920	2016-01-24T14:30:11	OTD - January 24th 1965. Sir Winston Churchill dies at 90. nytimes 
+OnThisDayNYT	691259182251573248	2016-01-24T14:00:06	OTD - January 24th 1945. Russians reach the Oder. nytimes ww2 
+OnThisDayNYT	691251661939970049	2016-01-24T13:30:13	OTD - January 24th 1943. Tripoli falls to the British. nytimes ww2 
+OnThisDayNYT	691244142085562368	2016-01-24T13:00:20	OTD - January 24th 1932. Franklin Roosevelt enters the race to be President. nytimes 
+OnThisDayNYT	690964779398074368	2016-01-23T18:30:15	OTD - January 23rd 2015. King Abdullah of Saudi Arabia dies. nytimes 
+OnThisDayNYT	690957283530919936	2016-01-23T18:00:28	OTD - January 23rd 1995. Rose Kennedy dies at 104. nytimes 
+OnThisDayNYT	690949673922637824	2016-01-23T17:30:14	OTD - January 23rd 1991. Iraq sets oil refineries on fire. nytimes 
+OnThisDayNYT	690942198259396609	2016-01-23T17:00:31	OTD - January 23rd 1989. San Francisco 49ers defeat the Bengals in Super Bowl XXIII. nytimes 
+OnThisDayNYT	690934580824543233	2016-01-23T16:30:15	OTD - January 23rd 1984. Los Angeles Raiders win Super Bowl XVIII. nytimes 
+OnThisDayNYT	690927110710386688	2016-01-23T16:00:34	OTD - January 23rd 1980. George Bush defeats Reagan in Iowa. nytimes 
+OnThisDayNYT	690919492864454658	2016-01-23T15:30:18	OTD - January 23rd 1973. Lyndon Johnson is dead. nytimes 
+OnThisDayNYT	690911997509013510	2016-01-23T15:00:31	OTD - January 23rd 1945. Russians seize Insterburg and Allenstein. nytimes ww2 
+OnThisDayNYT	690904384817856512	2016-01-23T14:30:16	OTD - January 23rd 1943. British reach Tripoli. nytimes ww2 
+OnThisDayNYT	690896903165214720	2016-01-23T14:00:32	OTD - January 23rd 1941. Australians capture Tobruk. nytimes ww2 
+OnThisDayNYT	690889300460711937	2016-01-23T13:30:19	OTD - January 23rd 1924. Vladimir Lenin dies. nytimes 
+OnThisDayNYT	690881808397762560	2016-01-23T13:00:33	OTD - January 23rd 1901. Queen Victoria is dead. nytimes 
+OnThisDayNYT	690564765991579649	2016-01-22T16:00:44	OTD - January 22nd 2013. Obama is inaugurated for the second time. nytimes 
+OnThisDayNYT	690557119624392704	2016-01-22T15:30:21	OTD - January 22nd 1979. Pittsburgh Steelers defeat the Cowboys in Super Bowl XIII. nytimes 
+OnThisDayNYT	690549647224401920	2016-01-22T15:00:40	OTD - January 22nd 1957. Dwight D. Eisenhower is inaugurated for his second term. nytimes 
+OnThisDayNYT	690542019547009024	2016-01-22T14:30:21	OTD - January 22nd 1950. George Orwell dies at 46. nytimes 
+OnThisDayNYT	690534534337593344	2016-01-22T14:00:37	OTD - January 22nd 1943. British close in on Tripoli. nytimes ww2 
+OnThisDayNYT	690526930941018113	2016-01-22T13:30:24	OTD - January 22nd 1936. Edward VIII is proclaimed King. nytimes 
+OnThisDayNYT	690519421287170048	2016-01-22T13:00:33	OTD - January 22nd 1922. Pope Benedict XV passes away. nytimes 
+OnThisDayNYT	690316713653501952	2016-01-21T23:35:04	Phew. I'm off for a lie-down I'll see you all again tomorrow.
+OnThisDayNYT	690315501856141312	2016-01-21T23:30:15	OTD - January 21st 2013. Barack Obama begins his second term as President. nytimes 
+OnThisDayNYT	690308010384592896	2016-01-21T23:00:29	OTD - January 21st 2009. Barack Obama takes the oath of office. nytimes 
+OnThisDayNYT	690300403217408000	2016-01-21T22:30:15	OTD - January 21st 2005. Bush is inaugurated to begin his second term. nytimes 
+OnThisDayNYT	690292892120711168	2016-01-21T22:00:25	OTD - January 21st 2001. George W. Bush takes office. nytimes 
+OnThisDayNYT	690285738206822401	2016-01-21T21:31:59	OTD - January 21st 1997. Bill Clinton is sworn in for his 2nd term. nytimes 
+OnThisDayNYT	690277802872942592	2016-01-21T21:00:27	OTD - January 21st 1993. Bill Clinton takes oath as 42nd President. nytimes 
+OnThisDayNYT	690270196443971584	2016-01-21T20:30:14	OTD - January 21st 1991. U.S. foils missile attacks on two Saudi cities. nytimes 
+OnThisDayNYT	690262708520779776	2016-01-21T20:00:28	OTD - January 21st 1990. Soviets claim control in Baku. nytimes 
+OnThisDayNYT	690255105908543489	2016-01-21T19:30:16	OTD - January 21st 1989. George Bush takes office. nytimes 
+OnThisDayNYT	690247653444026369	2016-01-21T19:00:39	Also OTD - January 21st 1985. San Francisco 49ers overwhelm the Miami Dolphins in Super Bowl XIX nytimes 
+OnThisDayNYT	690240026353897474	2016-01-21T18:30:20	OTD - January 21st 1985. Reagan is sworn in for his 2nd term. nytimes 
+OnThisDayNYT	690232548987797505	2016-01-21T18:00:38	OTD - January 21st 1981. Ronald Reagan takes oath as 40th President. nytimes 
+OnThisDayNYT	690224924623933440	2016-01-21T17:30:20	OTD - January 21st 1980. Pittsburgh Steelers win their fourth Super Bowl. nytimes 
+OnThisDayNYT	690217371861037056	2016-01-21T17:00:19	OTD - January 21st 1977. Jimmy Carter is sworn in. nytimes 
+OnThisDayNYT	690209808608145408	2016-01-21T16:30:16	OTD - January 21st 1973. Nixon is inaugurated for his second term. nytimes 
+OnThisDayNYT	690202271234191360	2016-01-21T16:00:19	OTD - January 21st 1969. Richard Nixon is sworn in. nytimes 
+OnThisDayNYT	690194716189569024	2016-01-21T15:30:18	OTD - January 21st 1965. Lyndon Johnson takes the oath of office. nytimes 
+OnThisDayNYT	690187278228959233	2016-01-21T15:00:44	OTD - January 21st 1961. John F. Kennedy is sworn in as President. nytimes 
+OnThisDayNYT	690179691999703041	2016-01-21T14:30:36	OTD - January 21st 1953. Eisenhower is sworn in. nytimes 
+OnThisDayNYT	690172244010528769	2016-01-21T14:01:00	OTD - January 21st 1949. Harry Truman is inaugurated. nytimes 
+OnThisDayNYT	690164590227787777	2016-01-21T13:30:35	OTD - January 21st 1945. Roosevelt is sworn in for his fourth term. nytimes 
+OnThisDayNYT	690157083086295040	2016-01-21T13:00:45	OTD - January 21st 1941. Roosevelt is inaugurated for the third time. nytimes 
+OnThisDayNYT	690149399796719617	2016-01-21T12:30:13	OTD - January 21st 1936. King George V dies. nytimes 
+OnThisDayNYT	690141944991756288	2016-01-21T12:00:36	OTD - January 21st 1922. Pope Benedict XV is close to death. nytimes 
+OnThisDayNYT	690140548850540544	2016-01-21T11:55:03	Today is going to be a busy day!
+OnThisDayNYT	689824932071518209	2016-01-20T15:00:54	OTD - January 20th 2004. John Kerry wins the Iowa caucuses. nytimes 
+OnThisDayNYT	689817255090085889	2016-01-20T14:30:24	OTD - January 20th 2001. Bill Clinton accepts immunity deal on his last day in office. nytimes 
+OnThisDayNYT	689809791292604416	2016-01-20T14:00:44	OTD - January 20th 1991. Allies intensify bombing of Iraqi troops. nytimes 
+OnThisDayNYT	689802140252971009	2016-01-20T13:30:20	OTD - January 20th 1990. Soviet forces battling with Azerbaijani militants. nytimes 
+OnThisDayNYT	689794675041955840	2016-01-20T13:00:40	OTD - January 20th 1901. Queen Victoria is at death's door. nytimes 
+OnThisDayNYT	689472199657394176	2016-01-19T15:39:16	OTD - January 19th 1991. Iraq fires new missile attack at Israel.  nytimes 
+OnThisDayNYT	689454696403116032	2016-01-19T14:29:43	OTD - January 19th 1981. U.S. and Iran sign accord on hostages. nytimes 
+OnThisDayNYT	689445128088322049	2016-01-19T13:51:42	OTD - January 19th 1976. Pittsburgh Steelers defeat the Cowboys in Super Bowl X. nytimes 
+OnThisDayNYT	689443221227712514	2016-01-19T13:44:07	OTD - January 19th 1963. Hugh Gaitskell dies at 56. nytimes 
+OnThisDayNYT	689431047214264321	2016-01-19T12:55:45	OTD - January 19th 1943. Russians break Leningrad siege. nytimes ww2 
+OnThisDayNYT	689130217860804608	2016-01-18T17:00:22	OTD - January 18th 1994. Severe earthquake hits Los Angeles. nytimes 
+OnThisDayNYT	689122622487957508	2016-01-18T16:30:11	OTD - January 18th 1993. Bush launches missile attack on a Baghdad industrial park. nytimes 
+OnThisDayNYT	689118266829238273	2016-01-18T16:12:52	stevena472 At least it wasn't as bad as the time we said that John Wilkes Booth was killed in 1965!
+OnThisDayNYT	689117874229743616	2016-01-18T16:11:19	Correction. OTD - January 18th 1893. Rutherford B. Hayes has died. nytimes 
+OnThisDayNYT	689116668358995969	2016-01-18T16:06:31	stevena472 Thanks for spotting that. No idea why I typed 73. It was obviously 1893.
+OnThisDayNYT	689116464431939584	2016-01-18T16:05:42	mjroth1 Thanks for spotting that. No idea why I typed 73. My mistake.
+OnThisDayNYT	689115131687510016	2016-01-18T16:00:25	OTD - January 18th 1991. Iraqis fire missiles at Israeli cities after second day of Allied bombing. nytimes 
+OnThisDayNYT	689107526017613824	2016-01-18T15:30:11	OTD - January 18th 1974. Egypt and Israel reach accord on separation of canal forces. nytimes 
+OnThisDayNYT	689100036425175041	2016-01-18T15:00:26	OTD - January 18th  1971. Baltimore Colts win Super Bowl V. nytimes 
+OnThisDayNYT	689092455455535104	2016-01-18T14:30:18	OTD - January 18th 1945. Russians take Warsaw. nytimes ww2 
+OnThisDayNYT	689085226044112896	2016-01-18T14:01:35	OTD - January 18th 1936. Rudyard Kipling dies at 70. nytimes 
+OnThisDayNYT	689081433055309824	2016-01-18T13:46:30	OTD - January 18th 1916. Allied troops land near Athens. nytimes ww1 
+OnThisDayNYT	688767844729790465	2016-01-17T17:00:25	OTD - January 17th 1995. Kobe is devastated by massive earthquake. nytimes 
+OnThisDayNYT	688760238892122114	2016-01-17T16:30:12	OTD - January 17th 1991. U.S. and Allies open air war on Iraq. nytimes 
+OnThisDayNYT	688752743192739842	2016-01-17T16:00:25	OTD - January 17th 1979. Shah of Iran flees into exile. nytimes 
+OnThisDayNYT	688745127464968192	2016-01-17T15:30:09	OTD - January 17th 1972. Dallas Cowboys rout the Dolphins in Super Bowl VI. nytimes 
+OnThisDayNYT	688737663852007424	2016-01-17T15:00:29	OTD - January 17th 1957. Arturo Toscanini dies at 89. nytimes 
+OnThisDayNYT	688730037999112193	2016-01-17T14:30:11	OTD - January 17th 1951. Allies push to within 20 miles of Seoul. nytimes 
+OnThisDayNYT	688722541800652800	2016-01-17T14:00:24	OTD - January 17th 1945. Russians seize stronghold flanking Warsaw. nytimes ww2 
+OnThisDayNYT	688714959291678720	2016-01-17T13:30:16	OTD - January 17th 1944. Eisenhower arrives in Britain to prepare for the invasion of France.    nytimes ww2 
+OnThisDayNYT	688707439449907200	2016-01-17T13:00:23	OTD - January 17th 1943. Russians strike near Voronezh. nytimes ww2 
+OnThisDayNYT	688390422964535297	2016-01-16T16:00:41	OTD - January 16th 2009. U.S. Airways airplane safely crash lands into the Hudson River nytimes 
+OnThisDayNYT	688382789989744640	2016-01-16T15:30:21	OTD - January 16th 2008. Mitt Romney defeats McCain in Michigan. nytimes 
+OnThisDayNYT	688375335084097536	2016-01-16T15:00:43	OTD - January 16th 1978. Dallas Cowboys win Super Bowl XII. nytimes 
+OnThisDayNYT	688367699106246657	2016-01-16T14:30:23	OTD - January 16th 1967. Green Bay Packers rout the Chiefs in the Super Bowl. mytimes 
+OnThisDayNYT	688360202458943488	2016-01-16T14:00:36	OTD - January 16th 1965. Sir Winston Churchill is felled by a stroke. His condition is very grave. nytimes 
+OnThisDayNYT	688352578346717184	2016-01-16T13:30:18	OTD - January 16th 1944. RAF bombers smash Brunswick. nytimes ww2 
+OnThisDayNYT	688345096450785284	2016-01-16T13:00:34	OTD - January 16th 1898. Lewis Carroll dies at 65. nytimes 
+OnThisDayNYT	688043065110495232	2016-01-15T17:00:24	OTD - January 15th 1999. Senators hear first plea by House to remove Clinton. nytimes 
+OnThisDayNYT	688035470685540353	2016-01-15T16:30:13	OTD - January 15th 1991. U.S. and Iraq prepare for war. nytimes 
+OnThisDayNYT	688027969235730433	2016-01-15T16:00:25	OTD - January 15th 1977. Anthony Eden is dead at 79. nytimes 
+OnThisDayNYT	688020378547916805	2016-01-15T15:30:15	OTD - January 15th 1973. Miami Dolphins win Super Bowl VII and finish the season 17-0. nytimes 
+OnThisDayNYT	688012916830769152	2016-01-15T15:00:36	OTD - January 15th 1968. Green Bay Packers defeat the Raiders in Super Bowl II. nytimes 
+OnThisDayNYT	688005388696829952	2016-01-15T14:30:41	OTD - January 15th 1964. U.S. and Panama agree to new diplomatic ties. nytimes 
+OnThisDayNYT	687997779252133889	2016-01-15T14:00:27	OTD - January 15th 1957. Humphrey Bogart dies of cancer at 57. nytimes 
+OnThisDayNYT	687990175050289152	2016-01-15T13:30:14	OTD - January 15th 1945. Russians cross the last river before Krakow. nytimes ww2 
+OnThisDayNYT	687982671515914242	2016-01-15T13:00:25	OTD - January 15th 1935. Saar votes to return to Germany. nytimes 
+OnThisDayNYT	687688186349260801	2016-01-14T17:30:14	OTD - January 14th 2010. Haiti lies in ruins after being hit by a magnitude 7.0 earthquake. nytimes 
+OnThisDayNYT	687680763160956928	2016-01-14T17:00:45	OTD - January 14th 1993. U.S. and allied planes bomb Iraq. nytimes 
+OnThisDayNYT	687673104986804224	2016-01-14T16:30:19	OTD - January 14th 1991. Soviet loyalists in charge after attack in Lithuania. nytimes 
+OnThisDayNYT	687665647040335872	2016-01-14T16:00:41	OTD - January 14th 1978. Hubert Humphrey dies at 66. nytimes 
+OnThisDayNYT	687658038384168960	2016-01-14T15:30:27	OTD - January 14th 1974. Miami Dolphins win their second consecutive Super Bowl. nytimes 
+OnThisDayNYT	687650576323104768	2016-01-14T15:00:47	OTD - January 14th 1945. Russians open winter offensive in Poland. nytimes 
+OnThisDayNYT	687642937090379776	2016-01-14T14:30:26	OTD - January 14th 1942. U.S. guns win 24 hour Luzon duel. nytimes 
+OnThisDayNYT	687635436030668807	2016-01-14T14:00:38	OTD - January 14th 1929. Wyatt Earp dies in Los Angeles. nytimes 
+OnThisDayNYT	687627818503569408	2016-01-14T13:30:22	OTD - January 14th 1920. Mobs rushing the Reichstag are shot down by German troops. nytimes 
+OnThisDayNYT	687620340759937024	2016-01-14T13:00:39	OTD - January 14th 1915. Massive earthquake destroys Avezzano. Shaking is felt in Rome. nytimes 
+OnThisDayNYT	687295626455863297	2016-01-13T15:30:21	OTD - January 13th 1991. Congress acts to authorize war in the Gulf. nytimes 
+OnThisDayNYT	687288124804698112	2016-01-13T15:00:32	OTD - January 13th 1976. Agatha Christie dies aged 85. nytimes 
+OnThisDayNYT	687280538474815489	2016-01-13T14:30:24	OTD - January 13th 1975. The Pittsburgh Steelers win their first Superbowl. nytimes 
+OnThisDayNYT	687273022365896704	2016-01-13T14:00:32	OTD - January 13th 1969. Joe Namath and the New York Jets upset the Colts to win Superbowl III. nytimes 
+OnThisDayNYT	687265423436288000	2016-01-13T13:30:20	OTD - January 13th 1935. Amelia Earhart flies from Hawaii to Oakland. nytimes 
+OnThisDayNYT	687257948402221057	2016-01-13T13:00:38	OTD - January 13th 1919. 300 killed as German troops reclaim the Vorwärts building. nytimes 
+OnThisDayNYT	686933228410679296	2016-01-12T15:30:18	OTD - January 12th 2014. Ariel Sharon dies. nytimes 
+OnThisDayNYT	686925755620577282	2016-01-12T15:00:37	OTD - January 12th 1970. Kansas City Chiefs win Superbowl IV. nytimes 
+OnThisDayNYT	686918140563869697	2016-01-12T14:30:21	OTD - January 12th 1954. Oscar Straus dies at 83. nytimes 
+OnThisDayNYT	686910628280184833	2016-01-12T14:00:30	OTD - January 12th 1945. Americans deepen and widen Luzon foothold. nytimes ww2 
+OnThisDayNYT	686903044697489408	2016-01-12T13:30:22	OTD - January 12th 1942. Japanese invade Dutch Indies at two points. nytimes ww2 
+OnThisDayNYT	686895563606917120	2016-01-12T13:00:38	OTD - January 12th 1928. Thomas Hardy dies at 87. nytimes 
+OnThisDayNYT	686616105889075200	2016-01-11T18:30:11	OTD - January 11th 1971. Coco Chanel dies in Paris. nytimes 
+OnThisDayNYT	686608580837949441	2016-01-11T18:00:16	OTD - January 11th 1966. Lal Bahadur Shastri dies hours after signing the Tashkent Declaration. nytimes 
+OnThisDayNYT	686601016976920576	2016-01-11T17:30:13	OTD - January 11th 1964. Riots take place over sovereignty of the Panama Canal Zone. nytimes 
+OnThisDayNYT	686593516080738304	2016-01-11T17:00:25	OTD - January 11th 1957. Harold Macmillan succeeds Anthony Eden as British Prime Minister. nytimes 
+OnThisDayNYT	686585904991879168	2016-01-11T16:30:10	OTD - January 11th 1945. Americans drive 10 miles inland on Luzon. nytimes ww2 
+OnThisDayNYT	686578405492404224	2016-01-11T16:00:22	OTD - January 11th 1944. Soviets offer deal to Poland, setting Curzon Line as border. nytimes ww2 
+OnThisDayNYT	686570802234277888	2016-01-11T15:30:09	OTD - January 11th 1943. Red Army rings Georgiyevsk. nytimes ww2 
+OnThisDayNYT	686563337237180418	2016-01-11T15:00:29	OTD - January 11th 1942. Japanese storm Kuala Lumpur. nytimes ww2 
+OnThisDayNYT	686555732972445696	2016-01-11T14:30:16	OTD - January 11th 1923. France moves to occupy the Rhineland. nytimes 
+OnThisDayNYT	686548225914843136	2016-01-11T14:00:27	OTD - January 11th 1920. The Treaty of Versailles comes into effect. nytimes 
+OnThisDayNYT	686540650867630084	2016-01-11T13:30:21	OTD - January 11th 1917. Buffalo Bill dies. nytimes 
+OnThisDayNYT	686182070339657728	2016-01-10T13:45:28	OTD - January 10th 1945. Americans land 107 miles from Manila, seize four Lingayen Gulf beachheads. nytimes ww2 
+OnThisDayNYT	686178435354460161	2016-01-10T13:31:02	OTD - January 10th 1916. Allies abandon all of Gallipoli. nytimes ww1 
+OnThisDayNYT	686174642348908544	2016-01-10T13:15:57	OTD - January 10th 1873.  Napoleon III dies. nytimes 
+OnThisDayNYT	685853815375966208	2016-01-09T16:01:06	OTD - January 9th 2011. Gabby Giffords is shot in Tucson. nytimes 
+OnThisDayNYT	685846052629385216	2016-01-09T15:30:16	OTD - January 9th 2008. Hillary Clinton wins the New Hampshire primary. nytimes 
+OnThisDayNYT	685840480526057472	2016-01-09T15:08:07	OTD - January 9th 1996. François Mitterrand dies at 79. nytimes 
+OnThisDayNYT	685830959699116032	2016-01-09T14:30:17	OTD - January 9th 1991. Bush asks Congress to back use of force if Iraq defies Kuwait pullout deadline. nytimes 
+OnThisDayNYT	685823483247333377	2016-01-09T14:00:35	OTD - January 9th 1948. Richard Tauber dies at 55. nytimes 
+OnThisDayNYT	685815853749645312	2016-01-09T13:30:16	OTD - January 9th 1941. Robert Baden-Powell dies. nytimes 
+OnThisDayNYT	685483679242571776	2016-01-08T15:30:19	OTD - January 8th 2015. Terrorists attack the offices of Charlie Hebdo in Paris leaving 12 dead. nytimes 
+OnThisDayNYT	685476167227330560	2016-01-08T15:00:28	OTD - January 8th 1999. The impeachment trial of President Bill Clinton begins. nytimes 
+OnThisDayNYT	685468577550352384	2016-01-08T14:30:18	OTD - January 8th 1997. G.O.P. narrowly re-elects Gingrich as House Speaker. nytimes 
+OnThisDayNYT	685461058656419846	2016-01-08T14:00:26	OTD - January 8th 1947. James F. Byrnes resigns as Secretary of State. George Marshall to succeed him. nytimes 
+OnThisDayNYT	685453497882415104	2016-01-08T13:30:23	OTD - January 8th 1944. Red Army surrounds Kirovograd. nytimes ww2 
+OnThisDayNYT	685446012337393664	2016-01-08T13:00:38	OTD - January 8th 1933. Calvin Coolidge is buried in Vermont. nytimes 
+OnThisDayNYT	685438393786843136	2016-01-08T12:30:22	OTD - January 8th 1922. Dáil Eireann votes 64 to 57 to accept Irish Free State. nytimes 
+OnThisDayNYT	685430933625778176	2016-01-08T12:00:43	OTD - January 8th 1919. Hundreds shot dead in Berlin streets. nytimes 
+OnThisDayNYT	685113729235554304	2016-01-07T15:00:16	OTD - January 7th 1993. Rudolf Nureyev and Dizzy Gillespie die. nytimes 
+OnThisDayNYT	685106136920358912	2016-01-07T14:30:06	OTD - January 7th 1989. Hirohito is dead at 87. nytimes 
+OnThisDayNYT	685098626155024384	2016-01-07T14:00:15	OTD - January 7th 1971. Sonny Liston is found dead. nytimes 
+OnThisDayNYT	685091032422154240	2016-01-07T13:30:05	OTD - January 7th 1944. Russians 10 miles inside Poland, drive nearer to Odessa railroad. nytimes 
+OnThisDayNYT	685083523246493697	2016-01-07T13:00:14	OTD - January 7th 1919. Theodore Roosevelt dies suddenly at his Oyster Bay home. nytimes 
+OnThisDayNYT	684841930480553985	2016-01-06T21:00:14	OTD - January 6th 1945. Allies cut 3 miles into Nazi bulge in north.. nytimes ww2 
+OnThisDayNYT	684834339574673408	2016-01-06T20:30:04	OTD - January 6th 1944. Russians win Ukraine rail hub. nytimes 
+OnThisDayNYT	684827627186745344	2016-01-06T20:03:24	OTD - January 6th 1943. Nazis lose 6 towns to Russians. nytimes ww2 
+OnThisDayNYT	684820088860618752	2016-01-06T19:33:27	OTD - January 6th 1941. Bardia falls to British assault. nytimes ww2 
+OnThisDayNYT	684812605492441088	2016-01-06T19:03:43	OTD - January 6th 1933. Calvin Coolidge dies suddenly at 60. nytimes 
+OnThisDayNYT	684464131609591813	2016-01-05T19:59:00	OTD - January 5th 2006. Ariel Sharon suffers a stroke. nytimes 
+OnThisDayNYT	684456632802213889	2016-01-05T19:29:12	OTD - January 5th 1965. T. S. Eliot dies at 76. nytimes 
+OnThisDayNYT	684449682093928448	2016-01-05T19:01:35	OTD - January 5th 1945. 1st Army drives 3 miles in sleet into Bulge. nytimes ww2 
+OnThisDayNYT	684094603654479872	2016-01-04T19:30:38	OTD - January 4th 2009. Israeli tanks and troops launch attack on Gaza. nytimes 
+OnThisDayNYT	684086823438663680	2016-01-04T18:59:43	OTD - January 4th 2008. Obama takes Iowa in big turnout. nytimes 
+OnThisDayNYT	684079290577731585	2016-01-04T18:29:47	OTD - January 4th 1990. Noriega gives himself up to U.S. military. nytimes 
+OnThisDayNYT	684071864176525312	2016-01-04T18:00:16	OTD - January 4th 1967. Jack Ruby dies in Dallas. nytimes 
+OnThisDayNYT	684064300139319296	2016-01-04T17:30:13	OTD - January 4th 1961. U.S breaks all diplomatic ties with Cuba. nytimes 
+OnThisDayNYT	684056788069552128	2016-01-04T17:00:22	OTD - January 4th 1959.  Soviet rocket passes Moon, Castro leads Cuban army and Alaska becomes 49th state nytimes 
+OnThisDayNYT	684049210304413696	2016-01-04T16:30:15	OTD - January 4th 1951. Seoul abandoned to Red Army. nytimes 
+OnThisDayNYT	684041636544786432	2016-01-04T16:00:09	OTD - January 4th 1945. 1st Army opens drive at top of Belgian Bulge. 3rd Army beyond Bastogne. nytimes ww2 
+OnThisDayNYT	684034118112288768	2016-01-04T15:30:17	OTD - January 4th 1944. The Russian army enters Poland. nytimes ww2 
+OnThisDayNYT	684026607044972544	2016-01-04T15:00:26	OTD - January 4th 1943. Russians take Mozdok. nytimes ww2 
+OnThisDayNYT	684018991795314688	2016-01-04T14:30:10	OTD - January 4th 1942. 60 planes bomb Corregidor. nytimes ww2 
+OnThisDayNYT	684011523493072896	2016-01-04T14:00:30	OTD - January 4th 1941. British open assault on Bardia. nytimes ww2 
+OnThisDayNYT	684003927369490432	2016-01-04T13:30:19	OTD - January 4th 1924. Tutankhamun's sarcophagus is found. nytimes 
+OnThisDayNYT	683679294518722560	2016-01-03T16:00:20	OTD - January 3rd 1977. Erroll Garner dies at 53. nytimes 
+OnThisDayNYT	683671725595209728	2016-01-03T15:30:16	OTD - January 3rd 1974. Tex Ritter dies at 67. nytimes 
+OnThisDayNYT	683664193891872772	2016-01-03T15:00:20	OTD - January 3rd 1960. John F. Kennedy announces he is running for President. nytimes 
+OnThisDayNYT	683656619280891905	2016-01-03T14:30:14	OTD - January 3rd 1959. Russians launch a Moon rocket. nytimes 
+OnThisDayNYT	683649094309380097	2016-01-03T14:00:20	OTD - January 3rd 1955. President Ramon of Panama is assassinated. nytimes 
+OnThisDayNYT	683641520520429568	2016-01-03T13:30:14	OTD - January 3rd 1944. U.S. troops land behind foe in New Guinea. nytimes ww2 
+OnThisDayNYT	683633973864480768	2016-01-03T13:00:15	OTD - January 3rd 1942. Manila falls to Japan. nytimes ww2 
+OnThisDayNYT	683626411467227138	2016-01-03T12:30:12	OTD - January 3rd 1941. Ireland is attacked four times. Britain attacks Bremen. nytimes ww2 
+OnThisDayNYT	683618874776924162	2016-01-03T12:00:15	OTD - January 3rd 1940. Finns claim capture of Soviet base. nytimes ww2 
+OnThisDayNYT	683331994747445249	2016-01-02T17:00:17	OTD - January 2nd 1975. Watergate jury convicts Mitchell, Haldeman, Ehrlichman and Mardian. nytimes 
+OnThisDayNYT	683324413157101568	2016-01-02T16:30:10	OTD - January 2nd 1972. Maurice Chevalier dead at 83. nytimes 
+OnThisDayNYT	683316906841919490	2016-01-02T16:00:20	OTD - January 2nd 1959. Fulgencio Batista flees Cuba. Fidel Castro moving to take power. nytimes 
+OnThisDayNYT	683309325570281472	2016-01-02T15:30:13	OTD - January 2nd 1953. Hank Williams is found dead in his car. nytimes 
+OnThisDayNYT	683301821679439872	2016-01-02T15:00:24	OTD - January 2nd 1945. 3rd Army drills into salient above Bastogne. nytimes ww2 
+OnThisDayNYT	683294229381001217	2016-01-02T14:30:13	OTD - January 2nd 1944. Russians plunge ahead 14 miles, near Poland and Latvia. nytimes WW2 
+OnThisDayNYT	683286699242172418	2016-01-02T14:00:18	OTD - January 2nd 1943. Russians capture Velikiye Luki. nytimes ww2 
+OnThisDayNYT	683279127537831937	2016-01-02T13:30:13	OTD - January 2nd 1942. McArthur unites his lines for crucial stand. nytimes ww2 
+OnThisDayNYT	683271613517676544	2016-01-02T13:00:21	OTD - January 2nd 1941. R.A.F. strikes hard at Italy. Raids on Taranto, Naples and Libya. nytimes ww2 
+OnThisDayNYT	683264018602004483	2016-01-02T12:30:11	OTD - January 2nd 1929. Franklin Roosevelt inaugurated as Governor of New York. nytimes 
+OnThisDayNYT	683256496809836546	2016-01-02T12:00:17	OTD - January 2nd 1916. SS Persia is torpedoed, hundreds are killed. nytimes ww1 
+OnThisDayNYT	682961971159904257	2016-01-01T16:29:57	OTD - January 1st 2002. Bloomberg takes oath as 108th Mayor of New York. nytimes 
+OnThisDayNYT	682954425711865856	2016-01-01T15:59:58	OTD - January 1st 2000. Boris Yeltsin resigns as President of Russia. nytimes 
+OnThisDayNYT	682948001015443456	2016-01-01T15:34:26	OTD - January 1st 1945. Patton opens a new drive into Nazis flank. nytimes ww2 
+OnThisDayNYT	682939326351675396	2016-01-01T14:59:58	OTD - January 1st 1944. Red Army recaptures Zhytomyr. nytimes ww2 
+OnThisDayNYT	682931921752604672	2016-01-01T14:30:33	OTD - January 1st 1943. Soviets seal ring around 22 Nazi divisions. nytimes ww2 
+OnThisDayNYT	682924376824672256	2016-01-01T14:00:34	OTD - January 1st 1942. Manila in peril as reinforced foe closes in. nytimes ww2 
+OnThisDayNYT	682917744161996800	2016-01-01T13:34:12	OTD - January 1st 1941. Hitler sees victory in 1941, disavows world conquest. nytimes ww2 
+OnThisDayNYT	682909135386599424	2016-01-01T13:00:00	OTD - January 1st 1940. Finns smash a Soviet division, halt move to cut country. nytimes ww2 
+OnThisDayNYT	682585706082996224	2015-12-31T15:34:48	OTD - December 31st 1999. George Harrison is stabbed by an intruder in his house. nytimes 
+OnThisDayNYT	682577115749945344	2015-12-31T15:00:40	OTD - December 31st 1979. Richard Rodgers is dead at 77. nytimes 
+OnThisDayNYT	682169324258390016	2015-12-30T12:00:15	OTD - December 30th 2006. Saddam Hussein executed in Baghdad. nytimes 
+OnThisDayNYT	681838504880541696	2015-12-29T14:05:42	OTD - December 29th 1937. Maurice Ravel died at 62. nytimes 
+OnThisDayNYT	681830388784848896	2015-12-29T13:33:27	OTD - December 29th 1923. Gustave Eiffel died at 91. nytimes 
+OnThisDayNYT	681482213087670272	2015-12-28T14:29:55	OTD - December 28th 2007. Benazir Bhutto assassinated in Pakistan. nytimes 
+OnThisDayNYT	681477044824326145	2015-12-28T14:09:23	OTD - December 28th 1985. Terrorists attack Israeli counters at Rome and Vienna airports. nytimes 
+OnThisDayNYT	681467053056913408	2015-12-28T13:29:41	OTD - December 28th 1979. President of Afghanistan is ousted and executed by Soviet forces. nytimes 
+OnThisDayNYT	681459855790608384	2015-12-28T13:01:05	OTD - December 28th 1968. Apollo 8 returns to Earth. nytimes 
+OnThisDayNYT	681112458266849280	2015-12-27T14:00:39	OTD - December 27th 2006. Gerald Ford dies at 93. nytimes 
+OnThisDayNYT	681104741712171008	2015-12-27T13:29:59	OTD - December 27th 2004. Thousands die as a tsunami crashes into Southern Asia. nytimes 
+OnThisDayNYT	681097194993131520	2015-12-27T13:00:00	OTD - December 27th 1972. Harry S. Truman is dead. nytimes 
+OnThisDayNYT	680840677404635136	2015-12-26T20:00:41	OTD - December 26th 2008. Harold Pinter dies at 78. nytimes 
+OnThisDayNYT	680832922497204224	2015-12-26T19:29:52	OTD - December 26th 2006. James Brown dies at 73. nytimes 

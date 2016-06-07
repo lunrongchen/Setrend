@@ -1,0 +1,660 @@
+kleinmatic	726163632153833472	2016-04-29T21:37:56	Lemonade is the Pet Sounds of our generation.
+kleinmatic	726150226621304832	2016-04-29T20:44:39	Uh..... 
+kleinmatic	726135070667509761	2016-04-29T19:44:26	kellybkrause Will do! DM me email address pls?
+kleinmatic	726130388570132480	2016-04-29T19:25:50	eagereyes We're imagining an interactive text paper connected to a code-heavy jupyter notebook, serving multiple audiences.
+kleinmatic	726129213456171012	2016-04-29T19:21:09	eagereyes We want to come up with a "journalistic" version of the academic paper. Refs, figs, etc. but interactive, linked to Jupyter ntbk.
+kleinmatic	726127759853031424	2016-04-29T19:15:23	kleinmatic REFS FOR THE REF GOD! FIGS FOR THE FIG THRONE
+kleinmatic	726127669423804417	2016-04-29T19:15:01	Hey academics: Who's innovating around publishing academic papers? Would like to see non-PDF versions of "published" papers. Refs, figs, &amp;c.
+kleinmatic	726054176401330177	2016-04-29T14:22:59	NickSherman jasonsantamaria So many big words. They can tell you’re not a civilian. Bug should say “the quotation marks are backward.”
+kleinmatic	726011595067781120	2016-04-29T11:33:47	Welcome to New York, home of the friendly Flash Script Error 
+kleinmatic	725865125115219968	2016-04-29T01:51:46	Just say you’re keeping the name, man. 
+kleinmatic	725863120007213056	2016-04-29T01:43:48	⚡️MissRyley FTW.  
+kleinmatic	725859512507326464	2016-04-29T01:29:28	jasonsantamaria NickSherman dirtystylus ”Truth.“
+kleinmatic	725841471438479361	2016-04-29T00:17:46	jasonsantamaria NickSherman dirtystylus I’d love to see the original bug ticket.
+kleinmatic	725760601427955712	2016-04-28T18:56:26	⚡ 
+kleinmatic	725743288024702976	2016-04-28T17:47:38	jeremybowers You'll be too preoccupied with her relationship to thesqueezle. Those are some complex feels.
+kleinmatic	725742697080823809	2016-04-28T17:45:17	jeremybowers Everybody who told you the 2nd is easier is a damn liar. But soon you realize you've got a *team* of awesome ppl in your life.
+kleinmatic	725741595719520261	2016-04-28T17:40:54	jeremybowers Having two is the real deal, man. So exciting!
+kleinmatic	725739295655469056	2016-04-28T17:31:46	*fires up a console*  “I found you a new server. Upstate. Lots more room.”  *shuts down prod*  *muffled sobs* 
+kleinmatic	725730111048306689	2016-04-28T16:55:16	1993: WSJ "interactive edition" prototype required software on disk, dialing in for updates  
+kleinmatic	725729065693528064	2016-04-28T16:51:07	lifewinning You read this? 
+kleinmatic	725721205961936896	2016-04-28T16:19:53	WellsiteGeo elakdawalla DrPhiltill Multiple desks? Still jealous.
+kleinmatic	725713084631883776	2016-04-28T15:47:37	Represent shows you how often your rep/senator votes against party majority:  
+kleinmatic	725708995063898113	2016-04-28T15:31:22	And once again, thanks to chasedavis and everybody at the NYT for letting us provide a good home for Represent and the Congress API.
+kleinmatic	725708795880587264	2016-04-28T15:30:34	I love the cartograms lenagroeger &amp; derekwillis built for the new Represent. They're like partisanship thumbnails. 
+kleinmatic	725707658548924416	2016-04-28T15:26:03	A continuation of the NYT's work, and a new beginning. We've got big plans:  
+kleinmatic	725707253295239169	2016-04-28T15:24:26	New app! Represent, a guide to who represents you in Congress, and their bills and votes. 
+kleinmatic	725672038120062976	2016-04-28T13:04:30	Panel trucks of New York. 
+kleinmatic	725668091561140224	2016-04-28T12:48:49	We've just launched our rebuilt and redesigned Android app.  
+kleinmatic	725514983908499457	2016-04-28T02:40:26	The US labor market over the past 5 years by The Washington Post:  
+kleinmatic	706885356310945792	2016-03-07T16:52:56	
+kleinmatic	706580294783127552	2016-03-06T20:40:44	On the mystery of the vertical elipsis ⋮ on early typewriters. 
+kleinmatic	706525338734628864	2016-03-06T17:02:22	Could a CMS have prevented the Daniel Holtzclaw story retraction? 
+kleinmatic	706521371254378496	2016-03-06T16:46:36	elananewman DartCenter Is this slide from a paper or something I can read?
+kleinmatic	706511330010861568	2016-03-06T16:06:42	juruwolfe And yet they still aren't requiring it.
+kleinmatic	706506167586050049	2016-03-06T15:46:11	Advanced copy of P. Manning's retirement speech. Profound, moving stuff. 
+kleinmatic	706499665181720576	2016-03-06T15:20:20	100 years of US presidential elections: Table of how each state voted:  
+kleinmatic	706506052200697856	2016-03-06T15:45:43	The Library of Congress still requires newspapers to submit archives in microfilm. 
+kleinmatic	706501664023384064	2016-03-06T15:28:17	ProfEdmondson Can share privately. Email me Scott at ProPublica dot org.
+kleinmatic	706500373775831040	2016-03-06T15:23:09	albertocairo -&gt; 
+kleinmatic	706100112989294592	2016-03-05T12:52:40	Great to see data journalism &amp;digital humanities communities brought together  ddj opendata 
+kleinmatic	706500089070616578	2016-03-06T15:22:02	El Pais "enters a new era," will hire more graphics editors, audience analysts, etc. "We're not afraid of change." 
+kleinmatic	706496308811436032	2016-03-06T15:07:00	HEY my excellent former student Allison Bishop has a piece in the Wall Street Journal today 
+kleinmatic	706492351003402242	2016-03-06T14:51:17	"The site is built on a Python Web framework, called Django, which we plan to open-source..." 
+kleinmatic	706198415441588224	2016-03-05T19:23:17	auremoser Thanks Aurelia. a_l sisiwei and thejefflarson spent a looong time perfecting that.
+kleinmatic	706150225145102337	2016-03-05T16:11:47	Sad to see Ben Carson drop out. First person I've ever seen campaign for President while fast asleep. Got to admire that.
+kleinmatic	705959642850074624	2016-03-05T03:34:29	Jindal had helped the state put off its day of reckoning in a way that mirrored a “Ponzi scheme.” 
+kleinmatic	705955305331548160	2016-03-05T03:17:15	tiffehr ryanpitts I stale toast overnight to make French Toast (but I don’t bake it because baconmethod is in the oven)
+kleinmatic	705954536234610688	2016-03-05T03:14:12	tiffehr I still hard boil eggs by steaming them because of that guy.
+kleinmatic	705951080400740352	2016-03-05T03:00:28	.NorthwesternU eliminates student loans from financial aid for next year's incoming class. Proud of my alma mater. 
+kleinmatic	705884540158476288	2016-03-04T22:36:03	This week’s MuckReads are HighWater themed! Roundup of stories, old and new, about the Gulf Coast’s storm risk  
+kleinmatic	705818055964811264	2016-03-04T18:11:52	The Southwest terminal at LGA is like the waiting room at a gulag.
+kleinmatic	705806690352963585	2016-03-04T17:26:42	Rap Genius Assisted Reporting: Very cool feature by terryparrisjr collecting veterans' stories about Agent Orange. 
+kleinmatic	705803502170165248	2016-03-04T17:14:02	Astonishing story by my colleague alecmacgillis. 
+kleinmatic	705802475366850561	2016-03-04T17:09:57	Why Texas (specifically Houston) isn't ready for the next big hurricane: 
+kleinmatic	705802758981447680	2016-03-04T17:11:05	ryanpitts If you watch our Houston simulation with The Wizard of Oz playing...
+kleinmatic	705713711575605248	2016-03-04T11:17:15	Funny guy John Grimwade IC2016nl 
+kleinmatic	705636258609934336	2016-03-04T06:09:28	highwater 
+kleinmatic	705559429253431296	2016-03-04T01:04:11	Galveston community activist Leon Phillips: 3,500 African Americans haven't returned to Galveston since Hurricane Ike. ttevents highwater
+kleinmatic	705555464763756546	2016-03-04T00:48:26	In which a_l explains his work at ProPublica and then floods Houston a few times. highwater 
+kleinmatic	705537953271930880	2016-03-03T23:38:50	Our event on the Houston Ship Channel project starts in an hour. Live stream here: 
+kleinmatic	705463050980069376	2016-03-03T18:41:12	This is interesting: UNC is offering a design-thinking workshop for news/media orgs. 
+kleinmatic	705461545996783616	2016-03-03T18:35:14	Saved my butt for the hundreth time by having written a README for my own solo data project. Document your analysis, journos.
+kleinmatic	705428091808686080	2016-03-03T16:22:17	Been having fun with twitter collections ProPublica lately - our latest, for Hell and HighWater 
+kleinmatic	705459607846592512	2016-03-03T18:27:31	no_such_zone Thanks Hanna! a_l is doing a session about satellite imagery and mapping at NICAR.
+kleinmatic	705390974806183936	2016-03-03T13:54:48	How high is the water momma? Three feet high and rising. 
+kleinmatic	705391561836597248	2016-03-03T13:57:08	clockwerks I just explained that reference to a_l. Kids these days.
+kleinmatic	705379216897007616	2016-03-03T13:08:05	☞ In which we show you how Hurricane Ike was a best case scenario for Houston. Next time we won’t be so lucky.  
+kleinmatic	705379653033152513	2016-03-03T13:09:49	How a_l and thejefflarson tackled (and made) new data formats to visualize supercomputed storm modeling data. 
+kleinmatic	705379402683535361	2016-03-03T13:08:49	"Hell and High Water" -- what it does and why it matters. 
+kleinmatic	705378845944221696	2016-03-03T13:06:36	Kudos to a_l thejefflarson neenareports kiahcollier sisiwei and rdmurphy. A great partnership w Texas Tribune. 
+kleinmatic	705378338282426370	2016-03-03T13:04:35	New app! Hell and High Water -- Visualizes Houston's vulnerability to strong hurricanes. 
+kleinmatic	705329737384771584	2016-03-03T09:51:28	a_l Bratislava train terminal ✅
+kleinmatic	705321891456819201	2016-03-03T09:20:17	Be advised: At 4 a.m. the BQE is like the Autobahn.
+kleinmatic	705321144572878848	2016-03-03T09:17:19	octonion a resident of Manchester is a Mancunian.
+kleinmatic	705205592474951680	2016-03-03T01:38:09	nandelabra MsShade jdforward the story involves really good soup.
+kleinmatic	705205351663140864	2016-03-03T01:37:12	palewire Soup is involved.
+kleinmatic	705204712467988480	2016-03-03T01:34:40	nandelabra jdforward the chosen carbohydrate.
+kleinmatic	705203931157274625	2016-03-03T01:31:33	We have reached peak Forward. 
+kleinmatic	705064063164878848	2016-03-02T16:15:46	The complex typographical instruments that nearly ruined our economy. 
+kleinmatic	705055717112352768	2016-03-02T15:42:36	Coming tomorrow: Houston is a sitting duck for a devastating hurricane that could cripple the whole country. 
+kleinmatic	705031899035656193	2016-03-02T14:07:58	Phylogeny recapitulates ontogeny, GOP edition: 
+kleinmatic	704863691192328192	2016-03-02T02:59:34	almost done for the night. watch the last few states come in  
+kleinmatic	704863693046153216	2016-03-02T02:59:34	If you're enjoying UpshotNYT's models tonight, good news: amandacox (byline on the piece) is now upshot's editor! 
+kleinmatic	704859409592283138	2016-03-02T02:42:33	Trevor Noah’s The Daily Show is here for you, with some jokes your 13-year-old cousin found on a popsicle stick. 
+kleinmatic	704824579018117121	2016-03-02T00:24:09	Georgia is going to build a wall and Florida is going to pay for it.
+kleinmatic	704657024982896640	2016-03-01T13:18:21	tlangford ndhapple To be fair, have you tried the breakfast tacos up here?
+kleinmatic	704651356951412736	2016-03-01T12:55:49	In Hell, NPR is always doing a pledge drive.
+kleinmatic	704635782816989184	2016-03-01T11:53:56	Non-AP-style abbreviation for Mass. a dead giveaway. 
+kleinmatic	704371477232148481	2016-02-29T18:23:41	Can We Solve Baseball’s Other Catcher Concussion Problem? 
+kleinmatic	704473967063658496	2016-03-01T01:10:56	ryanpitts thanks!
+kleinmatic	704360684398776320	2016-02-29T17:40:48	For first time in 10 years, Justice Thomas asks questions during argument 
+kleinmatic	704303433734557696	2016-02-29T13:53:18	“…design is a fundamentally participatory act, engaging systems that extend further than the constraints of individual…imagination.”
+kleinmatic	704185223047737344	2016-02-29T06:03:34	Including Kirk Kerkorian in a Hollywood film tribute montage is like including a Visigoth in a tribute to Rome. 
+kleinmatic	704173093430943745	2016-02-29T05:15:23	SPOTLIGHT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+kleinmatic	704171142089551872	2016-02-29T05:07:37	If you're feeling all the feels for investigative journalism, now's as good a time as any to support ProPublica 
+kleinmatic	704125959444807680	2016-02-29T02:08:05	jeremybowers asduner Start with Goldfinger, then maybe Dr. No, then the Casino Royale with Woody Allen.
+kleinmatic	704098257991958528	2016-02-29T00:18:00	The reporters behind SpotlightMovie tell SteveEngelberg how they exposed priest abuse 
+kleinmatic	702926606902419456	2016-02-25T18:42:17	Old vs. new proposed NC congressional districts:  
+kleinmatic	703987632427175936	2016-02-28T16:58:25	Trump has attacked Muslims, journalists, scientists, immigrants and Iowans, but needs to research the KKK before condemning them.
+kleinmatic	703988380812582912	2016-02-28T17:01:24	This Republicans-for-LBJ commercial is strange and kind of amazing. Wonder if team Clinton studying this stuff. 
+kleinmatic	704044934291189760	2016-02-28T20:46:07	djacobs Were in a golden age of cartoons. Adventure Time, Bob’s Burgers, Stephen Universe, Regular Show, Gravity Falls, Over the Garden W…
+kleinmatic	704036709714010112	2016-02-28T20:13:26	In 1927, Donald Trump’s father was arrested after a Klan riot in Queens 
+kleinmatic	704023875928006656	2016-02-28T19:22:26	We are literally in last row... but we are here &amp; proud of SpotlightMovie. Can't wait. oscar Oscars Oscars2016 
+kleinmatic	704026027253608448	2016-02-28T19:30:59	If Linux is so good why didn't it buy Minecraft.
+kleinmatic	703598424529174529	2016-02-27T15:11:51	The ever growing size of Donald Trump's wall. 
+kleinmatic	703611182901567488	2016-02-27T16:02:33	B&amp;H forced Hispanic workers to use separate bathroom: feds | New York Post 
+kleinmatic	704021920212197376	2016-02-28T19:14:40	Barry Goldwater knew who the Klan was, repudiated their support, and called them Democrats.  
+kleinmatic	704016230735323136	2016-02-28T18:52:04	Fantastic software archeology here about an early Django development. I'd love to read a book of stories like these. 
+kleinmatic	704016928201961472	2016-02-28T18:54:50	Trump says "I know nothing" about the KKK four times. This phrase has a history behind it.  
+kleinmatic	704015962023043073	2016-02-28T18:50:59	weggleston MZHemingway Well, Lincoln wasn’t a Republican yet either. They all became Republicans though. Twitteristic license I hope.
+kleinmatic	703969023973838848	2016-02-28T15:44:29	We are now officially in the Twilight Zone. Or, America 2016. 
+kleinmatic	703973628266876933	2016-02-28T16:02:46	Abraham Lincoln, writing about the "Know Nothing" racists within his party. 
+kleinmatic	703730894595604480	2016-02-27T23:58:14	That seems like a lot of Ent-strides.  
+kleinmatic	703592048335712257	2016-02-27T14:46:31	This is the most amazing paragraph I have read in a long time.  
+kleinmatic	703347939494658048	2016-02-26T22:36:31	This gallery of 💯 glyphs is indicative of Microsoft's fun-loving typographic design.  
+kleinmatic	703352822922768384	2016-02-26T22:55:55	Now posted by StateDept: New HRC emails cache, released under court order in response to my/vicenews FOIA lawsuit 
+kleinmatic	703299068831907840	2016-02-26T19:22:19	krees Digidave Not fun enough :)
+kleinmatic	703286097942458368	2016-02-26T18:30:46	Quick survey on color schemes for a data visualization. Do certain color combos evoke any emotions or associations? 
+kleinmatic	702233724318982144	2016-02-23T20:49:01	Curious about California’s snowfall?  Here is a look at snow depth since October 1st!  cawx 
+kleinmatic	703052788939378688	2016-02-26T03:03:41	Watching Trump start to move to the center in preparation for the general election is like when the velociraptors learned how to open doors.
+kleinmatic	703046856931201025	2016-02-26T02:40:07	quantitatively speaking, Donald Trump does repeat himself a lot 
+kleinmatic	702910648104198144	2016-02-25T17:38:52	mbostock worrydream [FOMO] [I think I offended someone] [What did I open this tab for?] [What's that smell?] [Googling "stroke symptoms"]
+kleinmatic	702908971997335552	2016-02-25T17:32:12	mbostock worrydream I'm pretty much covered with two: "worried" and "temporarily ignorant of his worries."
+kleinmatic	702530986605735937	2016-02-24T16:30:14	XML is celebrating its 18th year of holding its ears and making a high-pitched whine until the world changes to suit it.
+kleinmatic	702483453917405184	2016-02-24T13:21:21	This makes me miss mayoremanuel all the more. 
+kleinmatic	702312862929317888	2016-02-24T02:03:29	Bill James hates Donald Trump, except he loves Donald Trump.   
+kleinmatic	702290227822534656	2016-02-24T00:33:32	ryanpitts MLB players under contract prolly. Next April hopefully they’ll all switch.
+kleinmatic	702285357660954625	2016-02-24T00:14:11	ryanpitts It's it great!? I knew him when...
+kleinmatic	702283120624726018	2016-02-24T00:05:18	mterenzio jeremybowers I've hurt myself facepalming/ headdesking while editing. Masks for all, just to be on the safe side!
+kleinmatic	702280907659542528	2016-02-23T23:56:30	jeremybowers The mask should be required for kids in little league. And not just because I want my brother to buy me a house.
+kleinmatic	702278458605510656	2016-02-23T23:46:46	jeremybowers He was a pro umpire for 10 years. A foul tip to the face really focuses the mind on problem-solving.
+kleinmatic	702278244352000001	2016-02-23T23:45:55	jeremybowers Watch the high speed. 
+kleinmatic	702277328697749504	2016-02-23T23:42:17	I'm insanely proud of my brother, who invented a catcher's mask that will save lives. 
+kleinmatic	702212152770351105	2016-02-23T19:23:18	JohnMuyskens so if you want a bespoke layout markup that’s kept separate somehow?
+kleinmatic	702207484296093696	2016-02-23T19:04:45	I wonder if Vox or NYT have solved this already. clockwerks tysone
+kleinmatic	702206711554293760	2016-02-23T19:01:41	How to do that while also doing immersive, bespoke layouts is not an easy thing to engineer. 
+kleinmatic	702074855710072832	2016-02-23T10:17:44	Spoiler: Economic forecasts haven't changed. Ever year, forecasters say "We've hit bottom. Sharp rebound immanent!" 
+kleinmatic	701982918118395905	2016-02-23T04:12:24	Late night comedy dataviz with iamsambee 
+kleinmatic	701965986061135872	2016-02-23T03:05:07	A peek inside Spotlightmovie, from a reporter who was there  journalism oscar2016 dataviz
+kleinmatic	701966241351790597	2016-02-23T03:06:08	JSEllenberg vereniki might be related too I guess. Luckily kreplach stands alone.
+kleinmatic	700708542358036480	2016-02-19T15:48:29	Italic type, Underwood, 1932. 2nd generation of characters, typed out on paper. (Cropped from full sheet + detail.) 
+kleinmatic	701950098033549312	2016-02-23T02:01:59	Letterforms for roman typewriter font. Client not identified but most likely for Underwood, c. 1932. 
+kleinmatic	701954365800759298	2016-02-23T02:18:57	Here is how Trump's favorability compares to every nominee since 1992 
+kleinmatic	701951318173335552	2016-02-23T02:06:50	rcalo karlgrindal Third Amendment violation?
+kleinmatic	701530482433982465	2016-02-21T22:14:35	a cross between ProPublica and Paste
+kleinmatic	701594809170055169	2016-02-22T02:30:12	I somehow missed this sharp, thoughtful Op-Ed by eyalpress 
+kleinmatic	701497093991624704	2016-02-21T20:01:55	ICYMI: Read uscensusbureau's latest blog on customer-centric Webdesign:  
+kleinmatic	701583634927636482	2016-02-22T01:45:48	lateandsoon I think he’d have sent Lobot. By typing on his watch of course.
+kleinmatic	701539156363706368	2016-02-21T22:49:03	
+kleinmatic	701558651601993728	2016-02-22T00:06:31	jonkeegan I remember wondering that when I was 10 and seeing it for the first time. How does Vader even eat with that helmet?
+kleinmatic	701558432822861824	2016-02-22T00:05:39	arnicas infrahumano Now that brings me back.
+kleinmatic	701544304901279744	2016-02-21T23:09:31	arnicas Ok so then what about snogging his sister?
+kleinmatic	701543434235023360	2016-02-21T23:06:03	If Luke had killed Darth Vader inside Cloud City, would Obi-Wan have just never told him Vader was his father?
+kleinmatic	701542035723931648	2016-02-21T23:00:29	The American primary system is a disaster. Maybe it's time to give Strange Women Lying in Ponds Giving Out Swords a second look.
+kleinmatic	701534961086562304	2016-02-21T22:32:23	uhm i starting suspect big bird is not a bird at all.
+kleinmatic	701241204101541888	2016-02-21T03:05:06	What activities send people to the emergency room?  
+kleinmatic	701524983609171969	2016-02-21T21:52:44	konklone zubakskees vdavez JoeGermuska harrisj jeremybowers But reporters are pretty divorced from production, a legacy from print.
+kleinmatic	701524724241850372	2016-02-21T21:51:42	konklone zubakskees vdavez JoeGermuska harrisj jeremybowers We started DocumentCloud to get this to happen. Mostly worked.
+kleinmatic	701456672842248193	2016-02-21T17:21:17	The “me” generation. 
+kleinmatic	701456397184212992	2016-02-21T17:20:12	Wat.  
+kleinmatic	701084286426988544	2016-02-20T16:41:34	A 1996 attempt at explaining what an application server is. Painful. (WashPost) 
+kleinmatic	700841527988326401	2016-02-20T00:36:55	fmanjoo Same as everybody who carries both, I assume: Website testing.
+kleinmatic	700840039027232768	2016-02-20T00:31:00	whet I read his last two LBJ books on my phone. Also the Song of Ice and Fire series. Have I mentioned the eye surgery I had?
+kleinmatic	700839344471470081	2016-02-20T00:28:15	derekwillis JoshData History is a fun corollary to work writing. And there’s so much that happened in history that nobody remembers.
+kleinmatic	700838339000270848	2016-02-20T00:24:15	whet I refuse to read Power Broker until the ebook is out. I can’t lug the damn thing. And I really really wanna read it.
+kleinmatic	700837624337068032	2016-02-20T00:21:25	Love the gradient confidence interval on that table. 
+kleinmatic	700836596170551296	2016-02-20T00:17:20	scottpham What is that a chart of?
+kleinmatic	700830058429210624	2016-02-19T23:51:21	hatchjt jonahshai It smells like an on-high kind of idea.
+kleinmatic	700821635008483331	2016-02-19T23:17:53	jonahshai hatchjt Yah it makes zero sense when I hear it on NPR One.
+kleinmatic	699979120491495426	2016-02-17T15:30:01	Free copy of ddemaree’s Git for Humans! Best haiku about modern web dev angst wins. Tag it GitContestABA. Ends 2/19, 11pm EST. abookapart
+kleinmatic	700699151877722112	2016-02-19T15:11:10	Cool conference on April 8: The Color of Surveillance: Government Monitoring of the Black Community 
+kleinmatic	700698911623794688	2016-02-19T15:10:13	NEW: How FEC Itemizer handles with ActBlue FEC filings. You can’t see itemized records, but you can download CSVs: 
+kleinmatic	699655735488065536	2016-02-16T18:05:00	lol uber just hired a lawyer that is known specifically as america’s most successful union-breaker  DISRUPTION sure looks mighty familiar
+kleinmatic	700675584683352065	2016-02-19T13:37:31	What about it, r2rusa? What’s the reasoning behind filing IE reports in groups late in the day? 
+kleinmatic	700690278643056641	2016-02-19T14:35:55	Handy! 
+kleinmatic	700675464197758976	2016-02-19T13:37:03	nickconfessore Birthdays are for the children of job creators, Nick. 
+kleinmatic	700671909655085056	2016-02-19T13:22:55	What precise cuts of meat should poor people be able to buy? Hamburger okay? 
+kleinmatic	700380145211850752	2016-02-18T18:03:33	More fun with spirals:  
+kleinmatic	700673807690891264	2016-02-19T13:30:28	Outstanding! 
+kleinmatic	700672998018326532	2016-02-19T13:27:15	Twitter = Tweetbot + Nuzzel for me. Works great. 
+kleinmatic	700332845659779074	2016-02-18T14:55:36	 NoahRFeldman with the most interesting perspective I've read on the SCOTUS controversy.
+kleinmatic	700507258640277505	2016-02-19T02:28:39	
+kleinmatic	700507380795232256	2016-02-19T02:29:09	polotek Ugh — the “reasonably considered harassment” part of that CoC enforces the very norms it should be questioning.
+kleinmatic	700505515659567104	2016-02-19T02:21:44	jeremybowers I am ecstatic at seeing the work buddy. Crazy awesome.
+kleinmatic	700450060044095488	2016-02-18T22:41:22	New Digital Media Innovation major at sjmctxst (pending final approval by the Texas Coordinating Board)! 
+kleinmatic	700481064641372160	2016-02-19T00:44:34	'The Truthful Art' has arrived  dataviz infographics datajournalism 
+kleinmatic	700502561242161152	2016-02-19T02:09:59	jeremybowers “when elections are over” adorbs
+kleinmatic	700485691952783360	2016-02-19T01:02:58	losowsky pomeranian99 Sorta. Probably inherited more from timely gov’t reports than from books.
+kleinmatic	700484891847356421	2016-02-19T00:59:47	She’s right. But it’s an odd way to split the work. Editors shouldn’t be excused from it. 
+kleinmatic	700474244187168768	2016-02-19T00:17:28	"What are all the things that are not the story that makes the story possible," s_m_i's definition of product at newsproduct16
+kleinmatic	700483402911379456	2016-02-19T00:53:52	Wat. 
+kleinmatic	700432217357578240	2016-02-18T21:30:28	Where do the presidential candidates stand on encryption?  
+kleinmatic	415868924841189376	2013-12-25T15:37:32	The new Pope is a humble man, very much like me, which probably explains why I like him so much!
+kleinmatic	700342872176898048	2016-02-18T15:35:27	I wonder if there's a third amendment defense for Apple here.  
+kleinmatic	700339931663699968	2016-02-18T15:23:46	Is it too late to call this the “Letter from the Bromingham Jail”?  
+kleinmatic	700329889434570752	2016-02-18T14:43:51	Check out the SunFoundation's new handy glossary of campaign finance terms &amp; lingo: 
+kleinmatic	700327122028646400	2016-02-18T14:32:51	derekwillis Each sentence of this is its own hand hewn outrage. Swiftian yet witless.
+kleinmatic	700325660129173508	2016-02-18T14:27:03	derekwillis "there is going to be a  revolution." Is he afraid the riff raff are going to overthrow "us" or threatening to do so himself?
+kleinmatic	700137768890949632	2016-02-18T02:00:26	Editors don't get enough credit for saving writers from themselves. If you have an editor who makes you better don't ever let that person go
+kleinmatic	700184197378535425	2016-02-18T05:04:56	"..."  starwarsgif 
+kleinmatic	700093557756006401	2016-02-17T23:04:45	kainazamaria Congrats! New York or DC?
+kleinmatic	700088265446133760	2016-02-17T22:43:44	@nprkitty NYTFridge I think the three of us (and Caro) are in vigorous agreement.
+kleinmatic	700058494557429760	2016-02-17T20:45:26	That time in 2003 when FBI tried to force car safety systems (OnStar) to secretly enable in-car microphones IoT 
+kleinmatic	700080947966959617	2016-02-17T22:14:39	The glass ceiling on digital-native talent is a big part of why. 
+kleinmatic	700079822324760576	2016-02-17T22:10:11	Ethan_Lindsey He’d browbeat his staff over it, or tell a dirty story. Same as ever.
+kleinmatic	700079214951866368	2016-02-17T22:07:46	In which Robert Caro finds out about web analytics.   
+kleinmatic	699969676948930564	2016-02-17T14:52:30	dansinker Didn’t you write a novel on your phone, 140 characters at a time?
+kleinmatic	699929574159884288	2016-02-17T12:13:09	New this morning in Upshot-land, a tally of every senator's position on Scotus vacancy:  
+kleinmatic	699813789219291136	2016-02-17T04:33:03	MattBoggie dansinker A_L ryansholin I heard they shut down the old-fighter-jet hangar. Do they still fly RC planes there?
+kleinmatic	699813599355740160	2016-02-17T04:32:18	MattBoggie dansinker A_L ryansholin Idlewild was the best name for an airport ever.
+kleinmatic	699813423207555072	2016-02-17T04:31:36	"..."  starwarsgif 
+kleinmatic	699811049076367360	2016-02-17T04:22:10	dansinker A_L ryansholin Chicago is good at citying.
+kleinmatic	699810234429210624	2016-02-17T04:18:56	dansinker A_L ryansholin Brooklyn had an airport before it was cool. 
+kleinmatic	699796639456821248	2016-02-17T03:24:55	gmikewebb I’m neither internationally known, nor known to rock the microphone.
+kleinmatic	699795854325084160	2016-02-17T03:21:47	ryansholin Airports are in Queens. I would have accepted “stuck in traffic”, “Nets game” or “brief abduction.”
+kleinmatic	699794893733044224	2016-02-17T03:17:58	Once again my vanity Google News Alert reveals that I am the least interesting of the many Scott Kleins. 
+kleinmatic	699787651931627520	2016-02-17T02:49:12	Smart to make a video! I'm jealous. 
+kleinmatic	699784417586372609	2016-02-17T02:36:21	Mizzou prof who called for "some muscle" against student journalist now using reputation management SEO firm.  
+kleinmatic	699780984326201344	2016-02-17T02:22:42	BGrueskin Ivy grads? Best-selling authors? People whose first names start with B?
+kleinmatic	699779657860804609	2016-02-17T02:17:26	stuartathompson Are they just leaving the roof open more often, or is there a new gmo mutant grass or something?
+kleinmatic	699779318545838080	2016-02-17T02:16:05	HabibaNosheen It takes a village.
+kleinmatic	699778182929653765	2016-02-17T02:11:34	HabibaNosheen Alas, a hoax. 
+kleinmatic	699776855054770176	2016-02-17T02:06:18	stuartathompson Are you a Blue Jays fan?
+kleinmatic	699757348466913280	2016-02-17T00:48:47	ryansholin I would like to hear an accidental Brooklyn story please.
+kleinmatic	699584235686989824	2016-02-16T13:20:54	i took a look at the 34k submissions for our midwest poll. chart and map inside: 
+kleinmatic	699423250577813508	2016-02-16T02:41:12	donohoe derekwillis Found lots of great articles that way. Replaced by Twitter but with a lower signal to noise ratio.
+kleinmatic	699418942616551424	2016-02-16T02:24:05	donohoe derekwillis I admit that I was a big fan of it.
+kleinmatic	699390441079377920	2016-02-16T00:30:49	derekwillis donohoe TimesPeople.
+kleinmatic	699241483438788608	2016-02-15T14:38:55	The challenges of the modern news business are myriad and complex. So are the opportunities. And the successes I see every day.
+kleinmatic	699065071436218368	2016-02-15T02:57:55	brianboyer chrisalbon jeremybowers Thanks. It tastes bland but I didn’t know if there was something I’d miss if I tossed it.
+kleinmatic	699063635755319296	2016-02-15T02:52:13	jeremybowers Bits of chicken left after you make stock: useful or trash?
+kleinmatic	699016232163524610	2016-02-14T23:43:51	Wow all the replies  
+kleinmatic	699010222577336321	2016-02-14T23:19:58	GROCERY STORES ARE NOT WHERE BAGELS COME FROM
+kleinmatic	698986303241723905	2016-02-14T21:44:55	dancow Works for me.
+kleinmatic	698678670735446017	2016-02-14T01:22:30	New York Toy Fair just got the first look! View-Master® Viewer DLX is launching this Fall with 🔑features! VR AR 
+kleinmatic	698174729518256129	2016-02-12T16:00:01	what a time to be alive 
+kleinmatic	698716315163475968	2016-02-14T03:52:05	vosdscott Nope. 
+kleinmatic	698707771877941248	2016-02-14T03:18:08	"please add me to your professional network on LinkedIn" - RealBenCarson
+kleinmatic	698706179044864001	2016-02-14T03:11:49	Esta nice of el Marco de Rubio to attempto to speako to el foreigner Quenada Cruz en his language nativero.
+kleinmatic	698698081701916673	2016-02-14T02:39:38	asymmetricinfo He’s losing a lot of friends tonight I think.
+kleinmatic	698694225077104641	2016-02-14T02:24:19	One way sitting senators can get some clarity on last election-year SCOTUS confirmation: ask the Senate Historian, who works for them.
+kleinmatic	698692093292765184	2016-02-14T02:15:50	OMG,  jdickerson momentarily forgets he's supposed to let candidates make up any facts they want.
+kleinmatic	698687705778167808	2016-02-14T01:58:24	William Howard Taft was Chief Justice after he was President.  
+kleinmatic	698687095049711616	2016-02-14T01:55:59	neenareports Judge Wapner is available.
+kleinmatic	698682101273620480	2016-02-14T01:36:08	Presidential term limits and life tenure for judges are both bad ideas. This year, they collide in an entirely predictable fiasco.
+kleinmatic	698663394073829377	2016-02-14T00:21:48	January 20, 2017: President Trump nominates Judge Judy. 
+kleinmatic	698660207107264512	2016-02-14T00:09:08	With quotation marks, Scalia cast aspersions on the idea of actual innocence. As tho just legal trickery. 
+kleinmatic	698659707834232832	2016-02-14T00:07:09	It is impossible to discriminate between the honest and dishonest potato peddlers. 
+kleinmatic	698640860385255424	2016-02-13T22:52:15	hannahsbirch Exactly. Unless you're talking about, say, how many bottles of bitters there are I suppose.
+kleinmatic	698640415222845440	2016-02-13T22:50:29	KevinQ Heh. Sorry.
+kleinmatic	698640137392123906	2016-02-13T22:49:23	NYT seems to have waited for adamliptak to file, with a John Roberts quote. OK, I'll buy that. 
+kleinmatic	698638471238459392	2016-02-13T22:42:46	Sigh. Yeah. 
+kleinmatic	698638363037978625	2016-02-13T22:42:20	Door Number Two for the Senate might be a nominee sent by Bernie Sanders. Or Donald Trump.
+kleinmatic	698637612890906627	2016-02-13T22:39:21	neenareports I feel the same! NYT reporters are tweeting about it, though.
+kleinmatic	698636542844264448	2016-02-13T22:35:06	Can somebody please tell The New York Times that Antonin Scalia died?
+kleinmatic	698631182595006465	2016-02-13T22:13:48	Whoa if true. 
+kleinmatic	698617443200192514	2016-02-13T21:19:12	My tauntaun froze before I reached the first marker.
+kleinmatic	698545810133426176	2016-02-13T16:34:34	chriswilsondc harrisj Algorthmic ordering of potions.
+kleinmatic	698543840752443393	2016-02-13T16:26:44	Snape was right about the Gryffindor kids. Bunch a twerps.
+kleinmatic	698514092848508928	2016-02-13T14:28:32	mccanner Me too. We’re still thinking that through.
+kleinmatic	698511589096431616	2016-02-13T14:18:35	mccanner We’ve got stipends to defray the cost of taking it off unpaid.
+kleinmatic	698496874555117569	2016-02-13T13:20:06	Pdf: the fourth largest religion 
+kleinmatic	698507028679897088	2016-02-13T14:00:27	Was The Indisputable Future once. 
+kleinmatic	698257687381983232	2016-02-12T21:29:40	If you or someone you love can’t name 10 Henry Kissinger war crimes you should read this   whoisHenryKissinger
+kleinmatic	698330880545308672	2016-02-13T02:20:30	xenocryptsite I understand why you use them but the overlapping circles on bubble maps mystify me. 
+kleinmatic	698329569422606336	2016-02-13T02:15:18	xenocryptsite I don’t think I’ve ever seen a cartogram of subgeographies inside a state.
+kleinmatic	698328530405425152	2016-02-13T02:11:10	xenocryptsite I’m from CT. Small states disappear, or get a visual consolation prize, on most geographic maps. 
+kleinmatic	698327164144508928	2016-02-13T02:05:44	xenocryptsite I’m a sucker for the classic election cartogram. 
+kleinmatic	698324366908596224	2016-02-13T01:54:37	xenocryptsite Depends on the story you’re trying to tell and the precision with which you need people to perceive other variables.
+kleinmatic	698165540666413057	2016-02-12T15:23:30	charlesarthur Hey Charles is there a high-res version of that somewhere? (I'd like to see this wow effect).
+kleinmatic	698139324559331328	2016-02-12T13:39:20	eisingerj The curious case of the child in the nighttime.
+kleinmatic	698132804304052225	2016-02-12T13:13:25	lifewinning I mean, a major candidate is running pretty much on an Occupy platform. Amazing.
+kleinmatic	697731535101792257	2016-02-11T10:38:55	SHUT THE FRONT DOOR 
+kleinmatic	697602592822726656	2016-02-11T02:06:33	Great moments in FOIA handling.   
+kleinmatic	697600416289329152	2016-02-11T01:57:54	We’re gonna miss this kind of thing.  
+kleinmatic	697473375845875713	2016-02-10T17:33:05	blueloggy Because Russia?
+kleinmatic	697423383873654785	2016-02-10T14:14:26	blueloggy 
+kleinmatic	697414134468603904	2016-02-10T13:37:41	Vermin Supreme got 247 votes, handily beating former Virginia governor Jim Gilmore, who received 127. 
+kleinmatic	697415138748530688	2016-02-10T13:41:41	quinnnorton I feel similarly about the programmers who rail against interruptions as a way to make a virtue of antisocial behavior.
+kleinmatic	697407373837799426	2016-02-10T13:10:49	quinnnorton Said the man whose company would be a charity without its army of marketers and advertising sales reps.
+kleinmatic	697213004685975552	2016-02-10T00:18:28	⚡️ Face With Look of Triumph! 
+kleinmatic	697179148779782144	2016-02-09T22:03:56	It's official! DUMPLING, TAKEOUT BOX, FORTUNE COOKIE and CHOPSTICKS are official emoji candidates! Likely 2017. 
+kleinmatic	697163099925831681	2016-02-09T21:00:10	Really important detail: The promise to pay attention to ad quality.  
+kleinmatic	696779020122333184	2016-02-08T19:33:58	Final NH ’08 polls ARG Obama +8 Suffolk O +9 Rasmussen O +7 Zogby O +13 CBS O +7 Marist O +8 CNN O +9 Fox O +4 RESULT Clinton +2.6 FITN
+kleinmatic	696823995883241474	2016-02-08T22:32:41	Icmyi: I'm going to write a newsletter about codes of conduct for the next month or two. Subscribe here: 
+kleinmatic	696881550852517888	2016-02-09T02:21:23	ftrain Love means never having to say you'll listen to his podcast.
+kleinmatic	696879334850740225	2016-02-09T02:12:35	jeremybowers stuartathompson The Eyes of Dixville Are Upon You
+kleinmatic	696878349839368192	2016-02-09T02:08:40	Why it’s hard to tell campaign finance stories.  
+kleinmatic	696875760305491968	2016-02-09T01:58:23	derekwillis JoshData smotus 7 percent is the difference between cloture and bupkes.
+kleinmatic	696872909512511488	2016-02-09T01:47:03	raju I’ve heard it paired with “fail forward,” meaning: preserve the part that works even inside a completely different project.
+kleinmatic	696865414144516096	2016-02-09T01:17:16	Calderón: México no pagará un solo centavo por el estúpido muro de Trump  
+kleinmatic	696869404584366081	2016-02-09T01:33:07	You want to work for Mandy. 
+kleinmatic	696857357813465088	2016-02-09T00:45:15	If this story about Snapchat does not win the Pulitzer Prize for explanatory journalism, the prize has no meaning. 
+kleinmatic	696848034496409600	2016-02-09T00:08:12	Fantastic Mario typology right here 
+kleinmatic	696768833437175808	2016-02-08T18:53:29	BatLabels Hah! I assume you found the original episode with those? I asked about them a long time ago...
+kleinmatic	696729911520796672	2016-02-08T16:18:50	mattwaite jtemplon News is What Happens to Command-Line Text Editors.
+kleinmatic	696723230866993152	2016-02-08T15:52:17	mattwaite My favorite moment from the episode: jtemplon making a bit more clear that the statistics lead to the story.
+kleinmatic	696719473097703425	2016-02-08T15:37:21	I only host about once a year, so on balance it's a great show. 
+kleinmatic	696541071761936385	2016-02-08T03:48:27	If he’s really retiring, Peyton should avoid beer. It’s like all carbs.
+kleinmatic	696540082958774273	2016-02-08T03:44:31	*Peyton Manning* thinks he's too good to drink Sterno in a train tunnel like *real* Americans.
+kleinmatic	696424705633480704	2016-02-07T20:06:03	whet It’s built into every question, I’d imagine.
+kleinmatic	696420789206282240	2016-02-07T19:50:29	The Ricky Jay micrography collection at the Metropolitan Museum is completely amazing. 
+kleinmatic	696366591252934656	2016-02-07T16:15:07	American Anti-Involvement Propaganda Map, 1937. Featured in Miami Map Fair (More 🗺  map 
+kleinmatic	696276720404533249	2016-02-07T10:18:00	An algorithmic timeline means the end of ambient intimacy, which is, to this day, Twitter’s core differentiator 
+kleinmatic	696352205864099840	2016-02-07T15:17:58	sherships For sure! And not every art school grad can be a business journalist. But multidisciplinary people make amazing things.
+kleinmatic	696350932402053121	2016-02-07T15:12:54	derekwillis I’m running a special: I will meet or beat the speaking fee for any of the Clintons, or your speech is free.
+kleinmatic	696350412761407488	2016-02-07T15:10:50	sherships This is how my team works. But we recruit on aptitude as much as ability. Authorship makes better stuff than specialty.
+kleinmatic	696345967143100416	2016-02-07T14:53:10	Graphic designers used to design graphics, and copy writers wrote the copy, but no longer. On Marketplace 
+kleinmatic	696342796576366592	2016-02-07T14:40:34	This intvu with atmccann is required reading if you’re working/hoping to become a visual journalist. 
+kleinmatic	696020872428187648	2016-02-06T17:21:22	The Machine Learning will continue until revenue improves.
+kleinmatic	696129932112621568	2016-02-07T00:34:43	Quite an astonishing admission of incompetence for a guy famous for firing people.  
+kleinmatic	696102394996920321	2016-02-06T22:45:18	Congrats to MissRyley for finishing her investigation into the use and misuse of NYC's nuisance abatement law 
+kleinmatic	696046220826042368	2016-02-06T19:02:05	nytlabs Looks like Chronicle needs some TLC. 
+kleinmatic	696033173403267072	2016-02-06T18:10:14	stuntbox Right. High switching costs is a central characteristic to all of these.
+kleinmatic	696004997654429696	2016-02-06T16:18:17	felixsalmon Rent seeking is at least understandable. Twitter moves our cheese.
+kleinmatic	696003667648868352	2016-02-06T16:13:00	drinks Could definitely be. And as long as your core users can’t leave, the choices are obvious.
+kleinmatic	696002746533748738	2016-02-06T16:09:20	monteiro room34 Cable companies and airlines. Not quite the team Twitter wants to join.
+kleinmatic	696001835514077184	2016-02-06T16:05:43	If only New Coke had had Metcalfe’s Law to protect it. 
+kleinmatic	695999748961132544	2016-02-06T15:57:25	drinks Naw we worry about readers all the time.
+kleinmatic	695998797223194624	2016-02-06T15:53:38	Twitter is a consumer product with a tense, adversarial relationship with its most devoted users. I can’t think of a precedent for that.
+kleinmatic	695996903318749184	2016-02-06T15:46:07	zeynep It’s the opposite of a “hit it where they ain’t” strategy.
+kleinmatic	695775616394727424	2016-02-06T01:06:48	Chanders Superman Meets the Mole People
+kleinmatic	695725459460517889	2016-02-05T21:47:30	ryanpitts onyxfish Little of the original is left intact.
+kleinmatic	695723943911628801	2016-02-05T21:41:28	ryanpitts onyxfish I watched as much as I could bear of it on the plane a few months ago. It's dreadful.
+kleinmatic	695596984422502402	2016-02-05T13:16:59	Chanders At $22 a person, her warnings are a public service.
+kleinmatic	695589528619376640	2016-02-05T12:47:21	Chanders “Like being at the eye doctor.”
+kleinmatic	695445669230702592	2016-02-05T03:15:42	BGrueskin I think a north career is why he left Flatbush.
+kleinmatic	695440462522351616	2016-02-05T02:55:01	Whoa. 
+kleinmatic	695438317140123648	2016-02-05T02:46:30	Wall Street? When will they address Hillary Clinton’s connection to Sesame Street? DemDebate 
+kleinmatic	695433845428989953	2016-02-05T02:28:43	NickKristof sullivanamy Don’t get me started about Lincoln’s career in the House.
+kleinmatic	695432395613278208	2016-02-05T02:22:58	I’m a Bukharinite who gets things done!
+kleinmatic	695432181498249220	2016-02-05T02:22:07	AndreaWNYC “In-ack-arrat”
+kleinmatic	695431902967169027	2016-02-05T02:21:00	I’m the only real Troyskyite in this election!
+kleinmatic	695430554334810112	2016-02-05T02:15:39	alykatzz Fair point. Canarsie too, I bet. The former Flatlands keeps the old ways.
+kleinmatic	695429843693883392	2016-02-05T02:12:49	I wish there was still a Brooklyn accent.
+kleinmatic	695428522173530112	2016-02-05T02:07:34	History jokes are the best jokes. Go sufferage! 
+kleinmatic	695427157359591425	2016-02-05T02:02:09	derekwillis Day ain’t over yet, Derek. DemDebate blessed
+kleinmatic	695426078614036482	2016-02-05T01:57:52	nxthompson Lincoln was a pretty mediocre legislator.
+kleinmatic	695420619773517825	2016-02-05T01:36:10	rafat I agree more than halfway.
+kleinmatic	695419002856681474	2016-02-05T01:29:45	rafat Depends what they say no to.
+kleinmatic	695417061221117952	2016-02-05T01:22:02	chrisalbon harrisj DanielleAlberti no_such_zone A troll on NICAR-L, followed by predictably poor behavior by men who should know better.
+kleinmatic	695409936155561984	2016-02-05T00:53:43	no_such_zone harrisj  The best I can say is, we’re all works in progress and hopefully are better than the worst things we say.
+kleinmatic	695409312500350977	2016-02-05T00:51:14	harrisj no_such_zone  This is precisely what the troll was hoping to accomplish: Exposing our worst selves.
+kleinmatic	695408554941947905	2016-02-05T00:48:14	no_such_zone Telling white dudes there are rules they are not exempt from is worth doing.
+kleinmatic	695080876238102528	2016-02-04T03:06:09	So NYC pols are talking about horse carriages, trolleys and ferries. It's actually the 1880s.
+kleinmatic	695032085057298433	2016-02-03T23:52:16	We sure are! Come work w me,  BenChartoff and an awesome team! 
+kleinmatic	695013237016829952	2016-02-03T22:37:23	We need volunteers for user testing! Want to help? Email usertesting[at]propublica[dot]org 
+kleinmatic	694742790157287424	2016-02-03T04:42:43	myersnews fair point.
+kleinmatic	694741163241246720	2016-02-03T04:36:15	myersnews Plenty of incentive to do pub svc. Awards are flawed but they do enforce some good behavior.
+kleinmatic	694739820153815040	2016-02-03T04:30:55	myersnews There are incentives in journalism?
+kleinmatic	694664523136004096	2016-02-02T23:31:43	The F-35’s Terrifying Bug List  by DefTechPat 
+kleinmatic	694739168644218880	2016-02-03T04:28:20	cerealcommas The Knicks were in the playoffs. I remember asking my friend if they had suspended the game because the TV had cut away.
+kleinmatic	694736843963764736	2016-02-03T04:19:05	Scientist who found lead in Flint says academic incentives discourage public interest work.  
+kleinmatic	694700464789655553	2016-02-03T01:54:32	ryansholin Omg you watched that when u were 14.
+kleinmatic	694699177993998338	2016-02-03T01:49:25	ryansholin The first half has lost its sharp edge because it’s been parodied so much but man when I first saw that it was unbearable.
+kleinmatic	694682395866447872	2016-02-03T00:42:44	Amazing list of host orgs for next year's Mozilla Open Web Fellows. Why not apply? 
+kleinmatic	694524610243620864	2016-02-02T14:15:45	Hear about the data journalism behind Buzzfeed News’s tennis match fixing story. jtemplon on the ProPublica Podcast 
+kleinmatic	694523612565508096	2016-02-02T14:11:47	In this week’s ProPublica Podcast I ask Buzzfeed News’s jtemplon about their tennis match-fixing story. 
+kleinmatic	694386435118469121	2016-02-02T05:06:41	mcpli fmanjoo It got pretty elaborate for a few years. 
+kleinmatic	694380378484797440	2016-02-02T04:42:37	Latest from LegoIowa: Bernie Sanders and Hillary Clinton are virtually tied.  
+kleinmatic	694370178000392192	2016-02-02T04:02:05	s_m_i Interesting! But surely there's a distributed way for graphics, too.
+kleinmatic	694369736839335937	2016-02-02T04:00:20	stuartathompson It's not impossible that this means you didn't have live results back then.
+kleinmatic	694369382961651716	2016-02-02T03:58:56	Trump got schlonged.
+kleinmatic	694368681887940608	2016-02-02T03:56:09	stuartathompson ccanipe lauratitian jessiaspa I don't have a WSJ example from 2012. I think that means you win most-improved.
+kleinmatic	694367704447320066	2016-02-02T03:52:16	laneharrison So true! Everybody had great second-screen designs this year. That was cutting edge in 2012.
+kleinmatic	694367522078986242	2016-02-02T03:51:32	kcecireyes I teach the 2012 page in my class as a great example of inverted pyramid information design.
+kleinmatic	694367334874611713	2016-02-02T03:50:48	stuartathompson This is terrific work, Stuart. 
+kleinmatic	694366867574673409	2016-02-02T03:48:56	asduner I do wonder if it's the same traffic draw it was years ago.
+kleinmatic	694366139611267072	2016-02-02T03:46:03	Interesting to see Buzzfeed News choosing not to compete on live results data tonight.
+kleinmatic	694365612970213380	2016-02-02T03:43:57	The Guardian, 2012 vs. 2016. IowaCaucus 
+kleinmatic	694364771395768320	2016-02-02T03:40:36	stuartathompson So much more competition now.
+kleinmatic	694364640218849281	2016-02-02T03:40:05	N.Y. Times, 2012 vs. 2016. IowaCaucus 
+kleinmatic	694364556232105990	2016-02-02T03:39:45	Washington Post, 2012 vs. 2016. IowaCaucus 
+kleinmatic	694364402464755712	2016-02-02T03:39:08	Huffington Post, 2012 vs. 2016. IowaCaucus 
+kleinmatic	694348419721236480	2016-02-02T02:35:38	I wonder how much traffic this costs news sites.  
+kleinmatic	694346678678261761	2016-02-02T02:28:43	Nerds win! Go ftrain! 
+kleinmatic	694346421596753920	2016-02-02T02:27:41	How does The Caucasus work?
+kleinmatic	694342232804040705	2016-02-02T02:11:03	Hey that’s schoofsfeed! Congrats Mark! 
+kleinmatic	694325125479555072	2016-02-02T01:03:04	Spoiler warning.  
+kleinmatic	694324592068943872	2016-02-02T01:00:57	jeremybowers When will results start appearing? Asking for a friend.
+kleinmatic	694154754809839616	2016-02-01T13:46:04	kaythaney riordan Imagine the web without links and with a thousand paywalls with disconnected search engines.
+kleinmatic	694154169415045120	2016-02-01T13:43:45	riordan Small point about access: So much anxiety about journo misreporting of sci research yet many of us have only piecemeal access.
+kleinmatic	694153410724139010	2016-02-01T13:40:44	guan Access issues aside, findability and discovery are a joke.
+kleinmatic	694148209841721344	2016-02-01T13:20:04	riordan albertocairo Even with access (which I have), tracking down articles is needlessly painful.
+kleinmatic	694146371306287104	2016-02-01T13:12:46	Seriously, is there an Uber for downloading academic papers? riordan albertocairo
+kleinmatic	694146071665233920	2016-02-01T13:11:34	harrisj derekwillis The parallels are obvious.
+kleinmatic	694145169034252288	2016-02-01T13:07:59	albertocairo Scholarly publishing seems designed to make sure nobody reads it.
+kleinmatic	694144973579669504	2016-02-01T13:07:12	derekwillis If I had that kind of dough, I wouldn’t lend it to me. I’m not good for it.
+kleinmatic	693909600479879168	2016-01-31T21:31:55	floodfish mind blown.
+kleinmatic	693898072682844160	2016-01-31T20:46:07	█▃▃▄▁▂▅  Domestic box-office gross of Star Wars movies, 1977-2016, inflation adjusted.  ▁▂▃▄▄▅█  Opening weekends.  sparktweet
+kleinmatic	693650302608744448	2016-01-31T04:21:34	carlmalamud Or, pay for an open license. This isn’t exactly F-35 money we’re talking about.
+kleinmatic	693645691869118465	2016-01-31T04:03:14	carlmalamud That would be typical for retail fonts.
+kleinmatic	693444250126663681	2016-01-30T14:42:47	ibogost Oh that’s not a diss on 18f, it’s a diss on the mid-teen rows on airplanes.
+kleinmatic	693443347705413632	2016-01-30T14:39:12	ibogost One of the rows in front of the exit where the seats don’t recline.
+kleinmatic	693418040038395904	2016-01-30T12:58:38	Shocking image. How US Eugenics Society promoted forced sterilisation of "weak people". By 1964, 63k were sterilised 
+kleinmatic	692421555419267073	2016-01-27T18:58:58	“Helen Keller can tell you from the grave that Clearview looks better."  
+kleinmatic	693288177470152713	2016-01-30T04:22:36	harrisj hbillings I originally wrote that I'd FOIA your slacks and it seemed creepy so I improvised tbh.
+kleinmatic	693276763594584065	2016-01-30T03:37:15	hbillings Congrats. I cannot wait to FOIA your and harrisj's slackbots.
+kleinmatic	693272026149175296	2016-01-30T03:18:26	Inside the Rotting Wreck of the Costa Concordia 
+kleinmatic	693272384388861952	2016-01-30T03:19:51	kainazamaria joannakakissis 5 eps starting from Nov. 14.
+kleinmatic	693271666764431361	2016-01-30T03:17:00	kainazamaria joannakakissis You listen to the Scott Carrier podcasts about this? Super good. 
+kleinmatic	693268051962261506	2016-01-30T03:02:38	jacqui NeilBhatiya dansinker I've heard if you go into the pub you can join some kind of club. Or sign up online. 
+kleinmatic	693266652327211008	2016-01-30T02:57:04	jacqui NeilBhatiya dansinker You gotta go to John Snow's pub and join the society!
+kleinmatic	693265755211747333	2016-01-30T02:53:30	derekwillis dansinker Human history is tribal wars and epidemics punctuated by the occasional Gilbert and Sullivan opera.
+kleinmatic	693264975486423042	2016-01-30T02:50:25	derekwillis dansinker Off-label use of a weapon.
+kleinmatic	693263870350249984	2016-01-30T02:46:01	dansinker I just finished Low Life. Seriously there’s no evidence to support humanity making it out of the 1800s.
+kleinmatic	693260469168181250	2016-01-30T02:32:30	dansinker The more history I read, the more I realize there were never rails and that humanity survives despite itself.
+kleinmatic	693248194772209664	2016-01-30T01:43:44	We are made of our longest days.
+kleinmatic	693231271149965313	2016-01-30T00:36:29	Congrats sivavaid - I'm excited to follow your work at the new center.  
+kleinmatic	693237612144893952	2016-01-30T01:01:41	Chanders (ಠ_ಠ)
+kleinmatic	693127821129048065	2016-01-29T17:45:24	dansinker tswicegood heychrisbarr This is precisely why the News Lab was put together.
+kleinmatic	693127641734516736	2016-01-29T17:44:42	tswicegood heychrisbarr I'm OK with loosely coupled services, with everybody doing what they do best. Trick is to keep the coupling loose.
+kleinmatic	693126451202265088	2016-01-29T17:39:58	tswicegood heychrisbarr and make breaking changes and don't know it. I've been working on that with the Google News Lab folks. (2/2)
+kleinmatic	693126246738305025	2016-01-29T17:39:09	tswicegood heychrisbarr The issue isn't the middleware b/w Google and journo. It's that Google doesn't know we're doing this (1/2)
+kleinmatic	693087359936655360	2016-01-29T15:04:38	tswicegood heychrisbarr What’s the alternative?
+kleinmatic	693077438461558784	2016-01-29T14:25:12	Handy 
+kleinmatic	693071438421573632	2016-01-29T14:01:22	Someone made a big list of live dataviz.  Check them out:  
+kleinmatic	693069999720759296	2016-01-29T13:55:39	There it is. 
+kleinmatic	692731492993241088	2016-01-28T15:30:32	techladymafia The Web Archiving Team at the Library of Congress is looking for a Data Specialist. Pls share? 
+kleinmatic	693043662952009728	2016-01-29T12:11:00	Challenger engineer blames himself, "didn't argue the data well enough." cc edwardtufte  
+kleinmatic	692892253354795013	2016-01-29T02:09:21	Wut. 
+kleinmatic	692884342326951940	2016-01-29T01:37:55	You want to work with hatchjt. Trust me on this. 
+kleinmatic	692861558985076736	2016-01-29T00:07:23	jonathanglick Yes if it were bankers we’d have scolded them and then given them Seattle for $1.
+kleinmatic	692859687574736897	2016-01-28T23:59:56	djacobs He is the embodiment of the era. It is not a Hall of Fame without him. But I wish he were a Red Sock.
+kleinmatic	692859372385337344	2016-01-28T23:58:41	Who do these militia people think they are, bankers?  
+kleinmatic	692844878590390274	2016-01-28T23:01:06	djacobs Everything about A-Rod makes me sad.
+kleinmatic	692741675811225600	2016-01-28T16:11:00	Negotiations between the Times and ProPublica for taking over the Campaign Finance API included "What do you need" and "How can we help."
+kleinmatic	692740742121394176	2016-01-28T16:07:18	harrisj derekwillis jeremybowers So much good work is simply abandoned when newsroom priorities change. This is a model outcome.
+kleinmatic	692737420689838080	2016-01-28T15:54:06	And this wasn’t simply a case of NYT handing over the code &amp; data. chasedavis &amp; jeremybowers worked with us for months. I’m very grateful.
+kleinmatic	692736633943298048	2016-01-28T15:50:58	jeremybowers chasedavis lavallee Awesome. I Can't wait to see what you guys are making for election night. (Literally. Invite me over.)
+kleinmatic	692732476154843136	2016-01-28T15:34:27	Starting today, the NYT Campaign Finance API is now the ProPublica Campaign Finance API: 
+kleinmatic	692736159856795648	2016-01-28T15:49:05	I'm really grateful to chasedavis and the NYT nerds for letting us give the Campaign Finance API a good home. 
+kleinmatic	692201722282905600	2016-01-27T04:25:25	Those Davos pictures are greatly improved when you replace the words with Mitch Hedberg quotes 
+kleinmatic	692541246892568579	2016-01-28T02:54:34	s_m_i I think you’re missing the part where he says he did this story last year. Now THAT is impressive.
+kleinmatic	692537024667058177	2016-01-28T02:37:48	zubakskees waldojaquith I wasn’t watching but one of the science teachers called us in saying something bad had happened.
+kleinmatic	692337953222299648	2016-01-27T13:26:45	Cruz says he and Trump should have a "Lincoln-Douglas" debate, presumably referring to George Lincoln (Rockwell) and Douglas MacArthur
+kleinmatic	692132164398366721	2016-01-26T23:49:01	Two water sampling studies. Two very different results.  FlintWaterCrisis 
+kleinmatic	692181852908601344	2016-01-27T03:06:28	Learn Data, Design and Code for Journalism. Apply for ProPublica’s Summer Data Institute. It’s Free! 
+kleinmatic	692109656538378240	2016-01-26T22:19:35	An outstanding crop of knightfdn News Challenge Winners this year. Wow. 
+kleinmatic	692072398649212929	2016-01-26T19:51:32	⚡ This is the smartest promotion since Jacob Ruppert hired Babe Ruth. Congrats amandacox and DLeonhardt 
+kleinmatic	691996701796745218	2016-01-26T14:50:45	Dig that headline. 
+kleinmatic	691984727574757376	2016-01-26T14:03:10	A DMV-whispering howto by hannahsbirch 
+kleinmatic	691970538726670336	2016-01-26T13:06:47	memefan2000 Good edit.
+kleinmatic	691970193787064320	2016-01-26T13:05:25	memefan2000 I was trying to say we’re making more people poor. Too clever by half.
+kleinmatic	691963637469220864	2016-01-26T12:39:21	memefan2000 The biggest first-world problem is increasing the population of the second and third.
+kleinmatic	691957428448055296	2016-01-26T12:14:41	harrisj I was gonna say there should be a service that raises my kids for me but there are actually a lot of those.
+kleinmatic	691955420202663936	2016-01-26T12:06:42	Silicon Valley has run out of first-world problems to solve.  
+kleinmatic	691822012067639296	2016-01-26T03:16:35	I mean, also beware most of the normal substances in your supplements   
+kleinmatic	691821848405897217	2016-01-26T03:15:56	jeremybowers Partytime for Republicans and Democrats
+kleinmatic	691821047788761090	2016-01-26T03:12:45	jeremybowers What does the PRD stand for?
+kleinmatic	691820535550996481	2016-01-26T03:10:43	jeremybmerrill jeremybowers  It's no sunset detector, but it'll do, Merrill.
+kleinmatic	691819053883744263	2016-01-26T03:04:50	Q: How cool is jeremybmerrill   A: Really frickin cool  
+kleinmatic	691816759565881345	2016-01-26T02:55:43	Fake ID Assisted Reporting  
+kleinmatic	691038666492395520	2016-01-23T23:23:51	If electedo presidente, yo will fixo el problemo de los immigratioño by gentrifyingo el border so los migrantos no can affordo to live aqui.
+kleinmatic	691424053630992384	2016-01-25T00:55:15	derekwillis Some things are their own prize.
+kleinmatic	691423069848604672	2016-01-25T00:51:20	nandelabra Already announced that schools are open. Effective public transit, walkability, working parents FTW.
+kleinmatic	691420114827214849	2016-01-25T00:39:35	Michigan questions federal authority in Flint crisis but asks for federal money designed for natural disasters. 
+kleinmatic	691406568257101824	2016-01-24T23:45:46	ryangabrielson The Meadowlands is not a place either I guess.
+kleinmatic	691404620116131841	2016-01-24T23:38:01	I don’t really follow football. Quick question please: Everybody knows Carolina isn’t a place, right?
+kleinmatic	691300358149246976	2016-01-24T16:43:43	MargotWilliams Does FL consider these journalism jobs? “You’ll work with journalists” can mean they’re something else.
+kleinmatic	691268355307802624	2016-01-24T14:36:33	Benoit Challand’s large-scale, letter-savvy office DesignMuseum FontSunday publicart type typography 
+kleinmatic	691271385239437314	2016-01-24T14:48:36	wilsonandrews Hey Jimmy, wanna see my chords for Beautiful Day?
+kleinmatic	691023003904188416	2016-01-23T22:21:37	I just want someone who looks at me the way my brother looks at ketchup 
+kleinmatic	691239567798726656	2016-01-24T12:42:10	What social scientists get wrong about science communication, according to 20 of them. 
+kleinmatic	691085683314802688	2016-01-24T02:30:41	!!! 
+kleinmatic	691084734739410944	2016-01-24T02:26:55	That time Edge and Jack White tried desperately to look cool and failed.  
+kleinmatic	690995332000317440	2016-01-23T20:31:39	When I see this spot, it makes me wonder what GOP oppo researchers/ad makers have been doing for the last 6 months 
+kleinmatic	690960861586919426	2016-01-23T18:14:41	Why you *really* shouldn’t drive that classic car on the road.  
+kleinmatic	690724552805081088	2016-01-23T02:35:41	TFW an old photo is revived for laughs and you realize you knew everybody in it then. 
+kleinmatic	690723754310238208	2016-01-23T02:32:30	felix Dat photo. 
+kleinmatic	690718850187395073	2016-01-23T02:13:01	nealpollack He’s still alive btw.
+kleinmatic	690688887707062272	2016-01-23T00:13:57	Preparing for the blizzard with newtgingrich.  blizzard2016 
+kleinmatic	690715744846417920	2016-01-23T02:00:41	jbenton Queens. Where Trump is from. Hadn’t thought of that.
+kleinmatic	690715392692584448	2016-01-23T01:59:17	jbenton I saw people buying canned olives, Josh. Canned. My wife had to buy national brand cheese. Where is the America I knew?
+kleinmatic	690710718933536770	2016-01-23T01:40:42	bdeskin The Canadians know how to get the bubbles the right size.
+kleinmatic	690709747297841152	2016-01-23T01:36:51	Park Slope is only three missed sushi orders away from revolution.
+kleinmatic	690707970649407489	2016-01-23T01:29:47	donohoe annapainter I got the last plain Canada Dry seltzer from key food and now the second amendment makes sense to me.
+kleinmatic	690707184812978177	2016-01-23T01:26:40	There’s a conplete breakdown of 10-items-or-less compliance. Polite society’s thin veneer hides such savagery.
+kleinmatic	690706227370786816	2016-01-23T01:22:51	brianboyer Get to the basement before they come for yours.
+kleinmatic	690705544424919040	2016-01-23T01:20:09	donohoe great minds think alike. 
+kleinmatic	690705057747177472	2016-01-23T01:18:13	The caper supply in Park Slope is at critical.
+kleinmatic	690529814789406720	2016-01-22T13:41:51	ihearttheroad The one who wasn’t in Regarding Henry. 
+kleinmatic	690529440732962816	2016-01-22T13:40:22	nucAmbiguous I was like a mama cat. I hated that movie halfway for the kids so they would learn how to hate a movie on their own.
+kleinmatic	690528909687984128	2016-01-22T13:38:16	blueloggy He vaguely remembered them when prompted. We always skip to the snowspeeders.
+kleinmatic	690528560256196608	2016-01-22T13:36:52	hannahsbirch I live across the street from a Key Food, so yes.
+kleinmatic	690524061596815360	2016-01-22T13:19:00	My younger kid just asked me what a tauntaun is. I’m literally the worst father.
+kleinmatic	690523315186831360	2016-01-22T13:16:02	Using trigonometry to explain congressional dysfunction. Great work by derekwillis 
+kleinmatic	690519538966863873	2016-01-22T13:01:01	What business journalism interactives did you create last year? Enter 2016 LoebAwards -  
+kleinmatic	690521683610996741	2016-01-22T13:09:33	hannahsbirch I’m queuing up a bunch of kvetchy tweets to use all weekend. Tryna figure out the hashtag.
+kleinmatic	690358311749840896	2016-01-22T02:20:22	mattwaite jeremybowers sisiwei derekwillis Derek can give me the side-eye from hundreds of miles away. Handy.
+kleinmatic	690331000451141632	2016-01-22T00:31:50	How we finish graphics with derekwillis. cc sisiwei 
+kleinmatic	690198086036123649	2016-01-21T15:43:41	Tee hee (h/t stuntbox) 
+kleinmatic	690021065725095936	2016-01-21T04:00:16	1793 Théodore Olivier born -his  popular mathematical models were exhibited in US   
+kleinmatic	689461173503205376	2016-01-19T14:55:27	Every airline flight in the world over a 24-hour period WEF16 
+kleinmatic	689666284380897280	2016-01-20T04:30:30	derekwillis Still true. 
+kleinmatic	689655353529778176	2016-01-20T03:47:04	dansinker It’s so worth listening to, if only to behold ScottCarrier57′s mad skills.
+kleinmatic	689651830054375424	2016-01-20T03:33:04	Absolutely, God Told Us To Do This 
+kleinmatic	689620830016409600	2016-01-20T01:29:53	Congrats to NYC on your new public wifi. 
+kleinmatic	689617694354710528	2016-01-20T01:17:25	mattdpearce ryanpitts That headline!
+kleinmatic	689261804967571457	2016-01-19T01:43:14	I don't know what kathrynschulz is advocating for here.   
+kleinmatic	689259451887562752	2016-01-19T01:33:53	I'm old enough to remember when my Mac believed me when I said I wanted to quit a program, or to close a file without saving it.
+kleinmatic	689219650186522624	2016-01-18T22:55:44	An invasion of women's libbers from space! Where do I sign up? 
+kleinmatic	689058446042361856	2016-01-18T12:15:10	Microcomputer shipments by platform. 
+kleinmatic	689196436119007232	2016-01-18T21:23:29	waldojaquith As were most people, even on the left. Letter From a Birmingham Jail is a good sign of that.
+kleinmatic	688935838009454596	2016-01-18T04:07:58	It’s like data journalism but with people. 
+kleinmatic	688718045800460288	2016-01-17T13:42:32	This is why we can't have nice things. 
+kleinmatic	688556417368756226	2016-01-17T03:00:17	Hole punch flip book. 
+kleinmatic	688543452494192641	2016-01-17T02:08:46	agentdana Hey Dana! I didn’t know you started working at Planet Labs. Say hi to my buddy rsimmon.
+kleinmatic	688530732449460224	2016-01-17T01:18:13	eisingerj A good friend points out that Obi-Wan offering to teach Han Solo the Force doesn’t happen tho that’s not lethal to the analysis.
+kleinmatic	688431863476711424	2016-01-16T18:45:21	Ooh me too.  
+kleinmatic	687394537438855168	2016-01-13T22:03:23	Forever my favourite latter-day Bowie pic. 
+kleinmatic	688416181062135808	2016-01-16T17:43:02	Yesterday we had the honor of taking the 1st-ever 360 photo of POTUS - take a look!   
+kleinmatic	688403892095287301	2016-01-16T16:54:12	Today in ProPublicaObscura: You can ship blood to Italy.  
+kleinmatic	688399553268174848	2016-01-16T16:36:58	lateandsoon blueloggy He should have used skull shape and had Qui-Gon take out a phrenology chart and rub Jake Lloyd’s head.
+kleinmatic	688398412253949952	2016-01-16T16:32:25	lateandsoon blueloggy The gov’t is never far from the action in Le Guin’s books. The Dispossessed is essentially a political science book.
+kleinmatic	688397917900636160	2016-01-16T16:30:28	lateandsoon blueloggy Lucas’s democracies aren’t corrupt, they’re ossified and incompetent. It’s a paper thin critique.
+kleinmatic	688396322030903296	2016-01-16T16:24:07	thejefflarson lateandsoon Yep. And the more 19th century journalism I read, the more accurate Deadwood feels.
+kleinmatic	688396080048918529	2016-01-16T16:23:09	lateandsoon blueloggy He loses only his assertion that Lucas used to love democracy and then stopped.
+kleinmatic	688395894631346177	2016-01-16T16:22:25	lateandsoon blueloggy The point still stands that the Force only works for the chosen, which has lots of uncomfortable implications.
+kleinmatic	688395591055978496	2016-01-16T16:21:13	lateandsoon blueloggy I noticed that and assumed it happens while they’re on the Falcon.
+kleinmatic	688395192743899136	2016-01-16T16:19:38	lateandsoon Deadwood is a lot of fun. I encourage it.
+kleinmatic	688394550285565954	2016-01-16T16:17:05	lateandsoon It’s funny until you realize that movie is 35 years old.
+kleinmatic	688393490909282304	2016-01-16T16:12:52	lateandsoon Oh also, this is worth reading. Screw Yoda, amirite? cc blueloggy 
+kleinmatic	688393201456148481	2016-01-16T16:11:43	lateandsoon So Fine, the Ryan O’Neal / Mariangela Melato rom com from the early 80s? That is a deep cut.
+kleinmatic	688226343813697536	2016-01-16T05:08:41	marcua Thanks Adam!
+kleinmatic	688080801276243968	2016-01-15T19:30:21	AmeliaMN I'm happy to come talk to your class about this (or datajournalism broadly) btw. I come to NoHo a few times a year.
+kleinmatic	688080634552651776	2016-01-15T19:29:41	AmeliaMN Please send us great people!
+kleinmatic	688069748198895616	2016-01-15T18:46:26	JameelJaffer Thanks Jameel!
+kleinmatic	688036983059427329	2016-01-15T16:36:14	Seriously, people. This is like learning how to play baseball by joining the Yankees for a  few games. 
+kleinmatic	688032134464929792	2016-01-15T16:16:58	Here's why we're running a FREE workshop in June: we need to broaden pool of journalists.  
+kleinmatic	688034248687775745	2016-01-15T16:25:22	JoeGermuska Yes, surely the case in many places.
+kleinmatic	688030494206914560	2016-01-15T16:10:27	martgnz For lots of reasons, we can't -- for now, at least.
+kleinmatic	688030296495812609	2016-01-15T16:09:40	kaeti Congrats! I'm thrilled to hear the Post is moving in that direction, and doubly thrilled you're the one who'll lead it!
+kleinmatic	688029424260898816	2016-01-15T16:06:12	Big announcement! ProPublica is running an intensive 2-week workshop in interactive data journalism this summer. 
+kleinmatic	687821401219174402	2016-01-15T02:19:35	Vote bird or earth will literal explode.
+kleinmatic	687815583493140480	2016-01-15T01:56:28	It's only a matter of time until somebody blames Donald Trump on the Yankees.   
+kleinmatic	687732856500674560	2016-01-14T20:27:45	altquinn Entropy has its own plan for me, of course.
+kleinmatic	687732758903390211	2016-01-14T20:27:21	altquinn This is my current plan.
+kleinmatic	687701940801802241	2016-01-14T18:24:54	ultracasual Yes, literally. Asking for all my friends who left behind great teams only to watch them collapse.
+kleinmatic	687700395934773248	2016-01-14T18:18:45	cc brianboyer pilhofer mattwaite and all my fellow nerdbosses. 
+kleinmatic	687699978760929284	2016-01-14T18:17:06	How do we keep news app teams thriving after their founder leaves?
+kleinmatic	687622554484379648	2016-01-14T13:09:27	golan Espeland’s “Commensuration as a Social Process” and the introductions William Playfair wrote for his books.
+kleinmatic	687467312593694720	2016-01-14T02:52:34	vosdscott We could pay Bryce Harper to ring for the ProPublica softball team. Drive those odds down to even.
+kleinmatic	687466898120962048	2016-01-14T02:50:55	Whatever it’s successes and shortcomings, $30-a-barrel oil killed AJAM.
+kleinmatic	687406715994804225	2016-01-13T22:51:47	You're 58x more likely to have been born with two dicks than to win tonight's Powerball jackpot 
+kleinmatic	687462182947287040	2016-01-14T02:32:11	Bartolo Colon is more likely to hit an inside the park home run than you are of winning the Powerball. (Per MLB) 
+kleinmatic	687449307411296258	2016-01-14T01:41:01	What’s truly remarkable about this statement is that it was said in support of tolerance. 
+kleinmatic	687389808205926400	2016-01-13T21:44:36	Oy vey.  
+kleinmatic	687388210532618240	2016-01-13T21:38:15	How nerdblog posts should work -- Start for a general audience, then get progressively more technical. 
+kleinmatic	687387372254818305	2016-01-13T21:34:55	Do you want to run your news site as a Tor hidden service? mtigas reveals all the nerdly details. 
+kleinmatic	687330695522480128	2016-01-13T17:49:42	anildash I don’t want to reduce it to a checklist, I want to reduce it to a vaguely worded memo.
+kleinmatic	687240998628540416	2016-01-13T11:53:17	This is very cool. 
+kleinmatic	687097336837861376	2016-01-13T02:22:25	How tough things are: Republicans didn't clap for this. 
+kleinmatic	687093986272608256	2016-01-13T02:09:06	ericuman where’s my h/t on that joke?
+kleinmatic	687091032073334784	2016-01-13T01:57:22	The pundit-less live video on C-SPAN of people milling around the House chamber is my favorite part of SOTU
+kleinmatic	687089983153418241	2016-01-13T01:53:12	Hey I thought the bandages were supposed to be off the Capitol dome by now. SOTU
+kleinmatic	687017073738907650	2016-01-12T21:03:29	Great work by kcecireyes and thepapaya - NYC puts 100k school children through metal detectors every day. 
+kleinmatic	686939630441213952	2016-01-12T15:55:45	Terrific work by esagara, letting big gorgeous map tell the story. 
+kleinmatic	686735722901057536	2016-01-12T02:25:29	leonardbenardo1 I meant to tweet that Greeley post to you. Sad ending for a remarkable guy.
+kleinmatic	686729684655190016	2016-01-12T02:01:30	ICYMI: The bizarre last days and words of Horace Greeley. 
+kleinmatic	686706708127858690	2016-01-12T00:30:12	jasonbreitkopf I didn’t say there was no difference I said it was indistinguishable.
+kleinmatic	686703163836100609	2016-01-12T00:16:07	patocheese DanielEran Not quite true. 
+kleinmatic	686702888853356546	2016-01-12T00:15:01	jasonbreitkopf DanielEran The difference is between 0 and  0.000000003
+kleinmatic	686667273470382081	2016-01-11T21:53:30	blueloggy chowflap Implying that I look like Jared from Subway is a little much. But calling me a smarmy prick seems reasonable.
+kleinmatic	686650104808226816	2016-01-11T20:45:16	It’s NationalChampionship gameday! Vegas odds favor AlabamaFTBL over ClemsonFB, but... 
+kleinmatic	686525541005045760	2016-01-11T12:30:18	ICYMI: A big team effort 2 create our Campus Sex Assault Investigation tracker. Look up 243 investigations:  titleix
+kleinmatic	686519808809144320	2016-01-11T12:07:31	I sang “The Prettiest Star” to my kids when they were babies.
+kleinmatic	686425957469532161	2016-01-11T05:54:36	The Milwaukee Journal Sentinel's hiring a web developer to build news apps: 
+kleinmatic	686420381046050816	2016-01-11T05:32:26	Try as we might, journalists are not the biggest FOIA requesters.   
+kleinmatic	686397811781406720	2016-01-11T04:02:45	Star Wars for the Classical Guitar  
+kleinmatic	686338856594071554	2016-01-11T00:08:29	JasonLeopold jasonsmathers Let's face it, you were eventually gonna ask for those anyway. Why not save some photocopier time.
+kleinmatic	686300763111448576	2016-01-10T21:37:07	I wrote a short piece about the last days and strange death of Horace Greeley. 
+kleinmatic	686300269773209601	2016-01-10T21:35:09	"Thus have I been led on by one villain after another until my ruin is beyond all example."  
+kleinmatic	686293207869747200	2016-01-10T21:07:06	Excellent, magical podcasts by ScottCarrier57 following the refugee trail.    
+kleinmatic	686283183244079106	2016-01-10T20:27:16	Tramps like us… 
+kleinmatic	686277641893208064	2016-01-10T20:05:14	Meet the four men Steven Avery believes may have killed Teresa Halbach.  
+kleinmatic	685993570436804608	2016-01-10T01:16:26	I didn’t buy a Powerball ticket so my chance of winning is statistically indistinguishable from yours.
+kleinmatic	685964072358121472	2016-01-09T23:19:14	This is a colour-related card trick dataviz people should watch:  cc RichardWiseman
+kleinmatic	685950756239847425	2016-01-09T22:26:19	stuntbox zseward That’s exciting!
+kleinmatic	685829335400509440	2016-01-09T14:23:50	This version of Super Mario tells the plight of Syrian refugees crossing Europe 
+kleinmatic	685695331040931840	2016-01-09T05:31:21	Whoa if true. 
+kleinmatic	685693063428239360	2016-01-09T05:22:20	albertocairo first day at office uninoticias already full of awards in front of him! @ Univision 
+kleinmatic	685653900804894721	2016-01-09T02:46:43	There are 3.3 million Muslims living in the U.S. Peter King apparently thinks that 33,000 of them are terrorists. 
+kleinmatic	685650189353414657	2016-01-09T02:31:58	newshour Stephen Engelberg’s name is misspelled. Please fix. 
+kleinmatic	685647348949725184	2016-01-09T02:20:41	lifewinning I’m glad they didn’t shoot you when you did a u-turn in the DNI’s driveway.
+kleinmatic	685645591217491968	2016-01-09T02:13:42	Must read: lifewinning searches for Amazon's US-East data center, and finds the Internet instead. 
+kleinmatic	685556598312439808	2016-01-08T20:20:04	blueloggy Seems important. 
+kleinmatic	685518378853883905	2016-01-08T17:48:12	ff tunawillis ProPublicat
+kleinmatic	685460061678866432	2016-01-08T13:56:28	Fellowship alert! 
+kleinmatic	685279191667871744	2016-01-08T01:57:45	RoysBirthday BladeRunner 
+kleinmatic	685271835563409408	2016-01-08T01:28:31	ryanpitts One of my side businesses.
+kleinmatic	685269384391163905	2016-01-08T01:18:47	Googling my name is full of moments like this. 
+kleinmatic	685192905603051521	2016-01-07T20:14:53	Internal graffiti at ProPublica  
+kleinmatic	685186127083520001	2016-01-07T19:47:57	martijn_grooten csoghoian Details, details.
+kleinmatic	685179607570640896	2016-01-07T19:22:03	We are currently the largest news site on the dark web.  
+kleinmatic	685068732528463872	2016-01-07T12:01:28	The Malofiej infographics summit is coming (March 6-11). Call for entries:  
+kleinmatic	684954123301695488	2016-01-07T04:26:03	Plans for the subway to Staten Island, never built. (1921) 
+kleinmatic	684930540122804224	2016-01-07T02:52:20	The Force Awakens has outgrossed each of the prequels, adjusting for inflation. 
+kleinmatic	684927902396379137	2016-01-07T02:41:51	You gotta hand it to Jar Jar: he made you forget that this happened. 
+kleinmatic	684916690795233280	2016-01-07T01:57:18	Scott Walker won't pardon Avery or Dassey no matter what. Why? He doesn't pardon.  
+kleinmatic	684892173498757120	2016-01-07T00:19:53	A developer’s New Years resolution: to be more focused on what I want to do than the minutiae of how I want to do it.
+kleinmatic	684846875581792259	2016-01-06T21:19:53	Lesson of the day: Hire smart people and give them root. 
+kleinmatic	684823248303992833	2016-01-06T19:46:00	ICYMI: 2015 in Visual Storytelling at ProPublica.  
+kleinmatic	684546478652690432	2016-01-06T01:26:13	adviserdavid jayrosen_nyu What is the status of her discipline within the university?
+kleinmatic	684546158438539270	2016-01-06T01:24:57	adviserdavid jayrosen_nyu This is a distinction I don’t understand as it’s not my field. Willing to believe it matters.
+kleinmatic	684543364654608385	2016-01-06T01:13:50	jayrosen_nyu Are any other state employees exempt from their constitutional obligations? What if a campus cop had done this?
+kleinmatic	684537906980073472	2016-01-06T00:52:09	jayrosen_nyu I thought she was a comms professor.
+kleinmatic	684526059572883457	2016-01-06T00:05:05	jayrosen_nyu A good question. I don't know. I assume you suspect a motive other than a steadfast defense of press freedom?
+kleinmatic	684523075380101120	2016-01-05T23:53:13	jayrosen_nyu You can see more chess moves ahead than I can, but dismissing a state employee for such a thing seems fairly standard.
+kleinmatic	684522301493215232	2016-01-05T23:50:09	stuartathompson Congrats! I'm curious: Who's going to run the new, combined team?
+kleinmatic	684522177127936003	2016-01-05T23:49:39	stuartathompson I *love* Enterprise visuals. 
+kleinmatic	684521084520128512	2016-01-05T23:45:18	jayrosen_nyu What about the civil rights violation she seems to have committed? It was not, in my view, a trivial one.
+kleinmatic	684517188112379905	2016-01-05T23:29:50	jayrosen_nyu She's a state emp who violated civil rights, and instructed students to "muscle" another student. What's your bar for firing?
+kleinmatic	684428783198289920	2016-01-05T17:38:32	xenocryptsite Of course, the cities genuinely were dens of iniquity and thoroughly corrupt. But I doubt the countryside was any better.
+kleinmatic	684399025773215744	2016-01-05T15:40:17	ryangabrielson (raises hand)
+kleinmatic	684394726703894528	2016-01-05T15:23:12	Crucial question. 
+kleinmatic	683895241133436928	2016-01-04T06:18:26	libbybrittain Way worse.
+kleinmatic	683885933301751809	2016-01-04T05:41:27	Episode III in one tweet. 
+kleinmatic	683816095661342723	2016-01-04T01:03:56	“The NRA is a sophisticated entity that filed its tax returns after multiple layers of internal and external review" 
+kleinmatic	683778940343840768	2016-01-03T22:36:18	Chewbacca’s feet.  
+kleinmatic	683777404678967296	2016-01-03T22:30:11	Enter the Electome: Charting disparities b/t coverage &amp; conversation in 2016 election  socialmachines prototypefund
+kleinmatic	683747890531926016	2016-01-03T20:32:55	Why can't we write election stories like this anymore? (1916) 
+kleinmatic	681818162493534208	2015-12-29T12:44:52	Basically the plot of Toy Story 
+kleinmatic	683467145016119296	2016-01-03T01:57:20	jeremybowers brianboyer alexremington ryanpitts Cd probably watch last 15 mins or so (lava fight, “noooo!”, epilogue) of 3 at the end.
+kleinmatic	683462506686345216	2016-01-03T01:38:54	jeremybowers brianboyer alexremington ryanpitts Yeah 4,5,6,7. Get Harmy’s “Despecialized” 4,5,6 if you can.
+kleinmatic	682998887150321664	2016-01-01T18:56:38	I have so many questions for the creator(s) of this chart… 
+kleinmatic	682959925065158656	2016-01-01T16:21:49	Wimbledon semifinals, 1982. Scoreboard lists Chris Evert-Lloyd and Billie Jean King using their husbands’ names. 
+kleinmatic	682939103751454722	2016-01-01T14:59:05	111 years ago today: The New York Times moved into its new headquarters in (the just renamed) Times Square. tdih 
+kleinmatic	682938777967398912	2016-01-01T14:57:47	harrisj Oh beacons. Yah those died earlier than the party did.
+kleinmatic	682938583435591681	2016-01-01T14:57:01	harrisj 11/6/40 “400,000 in Times Square in a Genial Mood”
+kleinmatic	682938082644111360	2016-01-01T14:55:01	harrisj Happened in the 40s too. There’s an article in ‘52 about a failed attempt to gather a crowd using a new fancy display.
+kleinmatic	682925501606854656	2016-01-01T14:05:02	.codefornigeria launched 'Dodgy Doctors' service to help Nigerians find out if their doctors are con artists: 
+kleinmatic	682932957510811653	2016-01-01T14:34:40	harrisj Will share next time we are in same city.
+kleinmatic	682931641048788992	2016-01-01T14:29:26	tasneemraja onyxfish Lucky Libya.
+kleinmatic	682930385035116546	2016-01-01T14:24:26	harrisj I’ve got old trade mag articles about the gear they used, memos b/w Ochs and managers about it, etc.
+kleinmatic	682929728119017473	2016-01-01T14:21:50	harrisj And so much of the betting was happening at the stock exchanges. Pre-Pecora Hearings of course.
+kleinmatic	682929221216387073	2016-01-01T14:19:49	harrisj Also lots of talk about kids lighting improvised bonfires in the 1800s. And “no riots broke out” was a newsworthy observation.
+kleinmatic	682928669522833408	2016-01-01T14:17:37	harrisj Also very similar festivities in Chicago Atlanta London etc. All killed slowly by radio, completely dead by ‘52.
+kleinmatic	682928239426273281	2016-01-01T14:15:55	harrisj jeremybowers  I found an old lawsuit by a guy who got pushed into the subway ditch by the swelling crowd.
+kleinmatic	682739353756528640	2016-01-01T01:45:21	George Lucas said he didn’t like the new Star Wars movie, which is great because now he finally knows what that feels like.
+kleinmatic	682765382143311873	2016-01-01T03:28:46	bennyfactor harrisj seecmb jeremybowers There's always a fair bit of tech bragging. Stereopticons, teleautographs, auxetophones, etc.
+kleinmatic	682763439635300352	2016-01-01T03:21:03	FloridaLegal harrisj Ah, gotcha. Thanks!
+kleinmatic	682762640863670272	2016-01-01T03:17:53	harrisj mccanner jeremybowers They knew how to keep the audience excited back then. 
+kleinmatic	682761510289039360	2016-01-01T03:13:23	FloridaLegal harrisj (also, would you mind if I used this in a presentation about election nights? I'm scott at kleinmatic dot com)
+kleinmatic	682761194000769025	2016-01-01T03:12:08	FloridaLegal harrisj Nice shot. Was this a special Obama moment or is Grant Park like this every four years?
+kleinmatic	682756793928429568	2016-01-01T02:54:39	GrammarGirl hannahsbirch It's delightful, not to mention a crucial service.
+kleinmatic	682753367291097088	2016-01-01T02:41:02	hannahsbirch This requires your attention. Also, there's a Wookiepedia Manual of Style. 
+kleinmatic	682752723452821504	2016-01-01T02:38:28	mccanner jeremybowers Most of my tweets are really just thinly veiled harrisj subtweets anyway.
+kleinmatic	682752401229615108	2016-01-01T02:37:12	HeerJeet He isn't wrong. I mean, today is only the 11th of Nivôse on the French Republican Calendar.
+kleinmatic	682751466864533505	2016-01-01T02:33:29	jeremybowers Pun opportunities like this make me wish I was as smart as jeremybmerrill.
+kleinmatic	682751289512595456	2016-01-01T02:32:46	harrisj jeremybowers mccanner Yup. Working on a story about this. The research has been fun. 
+kleinmatic	682743773663752192	2016-01-01T02:02:55	jeremybowers For real: They were projecting live results on a big screen, pulled from an AP telegraph feed.
+kleinmatic	682741799333556225	2016-01-01T01:55:04	We used to celebrate election night like we now celebrate New Years Eve. This is from 1940. 
+kleinmatic	682738821931360256	2016-01-01T01:43:14	Times Square, 1945 vs. 2015. 
+kleinmatic	682736593740918784	2016-01-01T01:34:23	These are great.  
+kleinmatic	682566453543976960	2015-12-31T14:18:18	Wow. 
+kleinmatic	682446436173262848	2015-12-31T06:21:24	This is awful news.  
+kleinmatic	682445601687138306	2015-12-31T06:18:05	internetrebecca derekwillis Me too! (And thanks!)
+kleinmatic	682437749715169281	2015-12-31T05:46:53	Glad to see detailed DDJ methods section for this report:  CharlesOrnstein 
+kleinmatic	682387425021267971	2015-12-31T02:26:54	Original Nazgul LOTR production art added -  

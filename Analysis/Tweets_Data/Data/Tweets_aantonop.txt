@@ -1,0 +1,990 @@
+aantonop	726236225623957505	2016-04-30T02:26:23	dandolfa Hash Time-Locked Contract. A smart-contract used in eg Lightning Network to secure bi-di payment channel balance from cheating
+aantonop	726231810150158336	2016-04-30T02:08:50	dandolfa In a payment channels,  an HTLC is an automatic repossession order on encumbered security against the channel balance
+aantonop	726229955085000706	2016-04-30T02:01:28	dandolfa For scalability reasons, it can't be instantaneous settlement , at least not for micropayments. Payment channels address that
+aantonop	726227970927513600	2016-04-30T01:53:35	dandolfa Payment channels work by encumbered micro-assets for seconds/minutes,  so offer a new paradigm
+aantonop	726227485310984192	2016-04-30T01:51:39	dandolfa Yes and also the timeframe and value associated may be dramatically smaller.  Micro-securing micro-payments for seconds.
+aantonop	726226201505849345	2016-04-30T01:46:33	dandolfa Also, the granularity of "secured"  assets and the ability to enforce contracts quickly and inexpensively may be very different
+aantonop	726223445097365504	2016-04-30T01:35:36	dandolfa I start by admitting I don't know. But excited about exploring new possible models
+aantonop	726222796624375808	2016-04-30T01:33:01	dandolfa Don't know. Worth exploring alternatives,  because digitized reputation / identity systems have too many negative side effects
+aantonop	726220987918876675	2016-04-30T01:25:50	dandolfa Not very effective. Instead risk diversification through massively spread P2P lending better IMO
+aantonop	726220748063387649	2016-04-30T01:24:53	Congress' regulation of Wall St is a charade designed to distract you from Wall Street's regulation of Congress
+aantonop	726207178189758464	2016-04-30T00:30:58	Reputation is poor proxy for default risk Identity is a poor proxy for reputation With programmable money, we address default risk directly
+aantonop	726197299664154624	2016-04-29T23:51:42	I see a great future for DAOs related to physical-asset fractional-ownership (cars, yachts, aircraft, buildings), more so than service corps
+aantonop	726159862325874688	2016-04-29T21:22:57	Media on bitcoin's price:  "Bitcoin ended the week..." or "By close of day..."   Ahem. Bitcoin trading is 24/7/365.   ignoranceleakingthru
+aantonop	726120222118154240	2016-04-29T18:45:26	loganspappy TuurDemeester Banks can't adopt a public, open, borderless network like bitcoin. The regulations prevent them from doing so
+aantonop	726117123894857728	2016-04-29T18:33:07	loganspappy TuurDemeester Not like every other holder. That's your reasoning but it's not universal.
+aantonop	726101052240584707	2016-04-29T17:29:15	Bitcoin Q&amp;A: Can patent law slow down Bitcoin?:  via YouTube
+aantonop	726097099662585856	2016-04-29T17:13:33	Of all my body parts my eyes are probably in the best shape. I do at least a thousand eye rolls a day.
+aantonop	726085893921095681	2016-04-29T16:29:01	This. Is a thing. AirbnbWhileBlack 
+aantonop	725834243633500160	2016-04-28T23:49:03	BobMcElrath Perhaps watch the video rather than reading click-bait. Then come back and call me confused.
+aantonop	725774869879726081	2016-04-28T19:53:07	Bitcoin Q&amp;A: How can Bitcoin &amp; Ethereum work together? - The Synergistic Partnership:  via YouTube
+aantonop	725750042745798656	2016-04-28T18:14:28	My heart be still! A Rube Goldberg machine built entirely from HTML form elements.  
+aantonop	725708871982010368	2016-04-28T15:30:52	AnnCavoukian Who says they're "unintended"?
+aantonop	725685138747740160	2016-04-28T13:56:34	Has Trump weighed in on Lemonade? I think he could really swing the black vote on this one.
+aantonop	725683557071523840	2016-04-28T13:50:17	BigAppleChickNY I'd prefer to tip in-app or better yet in bitcoin. But my discomfort should not be on the shoulders of poor service workers
+aantonop	725506899190398976	2016-04-28T02:08:18	The scary impact and steep price of surveillance on US society, freedom and speech:  
+aantonop	725495814576037890	2016-04-28T01:24:15	BIP47 Reusable Payment Codes or  Deterministic Stealth Addresses or  onename/netki decentralized &amp; anonymous.  Fascinating
+aantonop	725494387732525056	2016-04-28T01:18:35	Plato was such an asshole
+aantonop	725334506429906944	2016-04-27T14:43:17	Proof-of-Regulator-Approval is not a consensus algorithm  consensus2016
+aantonop	725331700889309184	2016-04-27T14:32:08	Bitcoin Q&amp;A: Why Bitcoin is the poison pill of global finance - The Internet of Money:  via YouTube
+aantonop	725204639776264192	2016-04-27T06:07:14	tleydn For that I would wait at least 3-4 confirmations before handing over the art. I handed over keys to my car after 4 confirmations.
+aantonop	725203790182256640	2016-04-27T06:03:51	tleydn one-block forks happen once every day or two days. 2+ block forks happen rarely. A &gt;3 block fork raises alarms
+aantonop	725202452811681792	2016-04-27T05:58:33	tleydn Depends. It would take a deliberate double-spend by the sender to reverse it and that would only work if there was a fork event
+aantonop	725157878705868801	2016-04-27T03:01:25	The FBI has been lying for 20 years, including in cases where the death penalty was inflicted. Horrendous abuse. 
+aantonop	725074420771991552	2016-04-26T21:29:47	Total cost of F-35 program, $1.45 trillion, could provide free college to every student in the U.S. for 20 years  
+aantonop	725116503662596096	2016-04-27T00:17:01	If a Bitcoin mining pool is bribed/regulated to censor transactions, miners will leave that pool and go for another mining pool of freedom
+aantonop	725092086043693056	2016-04-26T22:39:59	North Carolina is a beautiful awesome part of America. And a civil rights shithole thanks to powerful bigots.  
+aantonop	725050572836081666	2016-04-26T19:55:02	georgevaccaro No laws or regs needed either way. It's a non-issue designed to distract the gullible with fear.
+aantonop	725050154177327104	2016-04-26T19:53:22	ScottS_Esq The scientific studies are not "anecdotal". Repression of normal urges (due to religion for ex.) leads to abnormal expression.
+aantonop	725049080246849538	2016-04-26T19:49:06	ScottS_Esq Also, I went to a Catholic school and met my share of perverts: they all wore black dresses and obsessed about boys and sex.
+aantonop	725048529903734784	2016-04-26T19:46:54	ScottS_Esq Because scientific studies have shown higher rates of sexual predation associated with repression of sex in religious groups
+aantonop	725045147453427712	2016-04-26T19:33:28	. Itsjoeco Of course BitClub_Network is under no obligation to do anything. Caveat emptor and all. But it's a great chance to do good.
+aantonop	725044757236465665	2016-04-26T19:31:55	Itsjoeco Someone seems to have accidentally paid 300BTC in fees. BitClub_Network could refund, if the originator asks for help fixing this
+aantonop	725040701889617920	2016-04-26T19:15:48	jeff7ft3in Perhaps ckpool/BitClub Network will do the honorable thing and refund the fees to the originating address. Been done before
+aantonop	725032811229548545	2016-04-26T18:44:27	New Laura Poitras film on Assange/WikiLeaks to premiere at Cannes May 19  Cannes2016
+aantonop	724810388177559552	2016-04-26T04:00:37	joestump sacca The F-35 program, which at $1.5 T would fund the entire NIH biomedical research portfolio for 41 years.
+aantonop	725002192751628289	2016-04-26T16:42:47	taariqlewis FGordillo bitsquare_ Coinfeine had only one,  I think.  Bitsquare has about a dozen.
+aantonop	724999541628391424	2016-04-26T16:32:15	NojusNamajunas You should move
+aantonop	724998352316719105	2016-04-26T16:27:31	If religious conservatives boycott Target, that will statistically make Target bathrooms safer, reducing access by sexual predators.
+aantonop	724997133158375424	2016-04-26T16:22:40	.FGordillo bitsquare_ I wonder what caused Coinfeine to fail. Any insights?
+aantonop	724995945872523264	2016-04-26T16:17:57	FGordillo bitsquare_ Did Coinffeine ever get to beta? I'm running Bitsquare as we speak
+aantonop	724850820303433728	2016-04-26T06:41:17	I like how people _still_ say ethereum "can't work" when it's been running non-stop for 9 months. 
+aantonop	724993911253393408	2016-04-26T16:09:52	Very excited about the beta of bitsquare_   Decentralized currency exchange, could be a very useful tool
+aantonop	724980242176036864	2016-04-26T15:15:33	cryptocointalk The word sabotage comes from farm workers throwing their clogs (sabots) into threshing machines to stop automation
+aantonop	724972241549688833	2016-04-26T14:43:46	DOJ on encryption: No one should defy a court order. When DOJ is ordered to do something it doesn't like: Haha. Nope 
+aantonop	724969888737947650	2016-04-26T14:34:25	The driverless truck is coming, and it’s going to automate millions of jobs  
+aantonop	724962705929474048	2016-04-26T14:05:52	How License-Plate Readers Have Helped Police and Lenders Target the Poor  
+aantonop	724764786148425728	2016-04-26T00:59:25	Prediction: Cellphone geolocation data for every person in the US (or the world) is being collected 24/7. Congress will act surprised.
+aantonop	724700046277677057	2016-04-25T20:42:09	You have got to be kidding me. BUT YOU AREN'T.  
+aantonop	724764127235850241	2016-04-26T00:56:48	NSA says its too hard to calculate how many US citizens are spied on.  Allow me to assist. The word you are looking for is E-V-E-R-Y-O-N-E
+aantonop	724710531282665477	2016-04-25T21:23:49	never let them say they protect children, or that they're tough on crime.  
+aantonop	724709645038829568	2016-04-25T21:20:18	Leading Republicans send letters in support of Dennis Hastert, pedophile. How many letters? 60 of them. 
+aantonop	724701455832240128	2016-04-25T20:47:46	opusbank Asking a financial services media outlet to explain bitcoin and blockchain is like asking a horse breeder to explain automobiles
+aantonop	724701178806845440	2016-04-25T20:46:39	Bitcoin Q&amp;A: What is the impact of private blockchains and coins? - Intranet vs. Internet:  via YouTube
+aantonop	724700953065218052	2016-04-25T20:45:46	Bitcoin Q&amp;A: What is the future role of altcoins? - Altcoins as laboratories:  via YouTube
+aantonop	724698584009048064	2016-04-25T20:36:21	NSA says it is operating in compliance with the law.   Has secret memo that redefines the word L.A.W. : Latitude to Abuse the World.
+aantonop	724697595193511938	2016-04-25T20:32:25	barrysilbert businessinsider Bwaaaahahahaha. Click-bait at its worst.
+aantonop	724695579247435776	2016-04-25T20:24:24	Broke thru the 3000 CNY ceiling?
+aantonop	724692986328653825	2016-04-25T20:14:06	ryansittler The "correct" answer is any hash that is less than a specific target number. The target is calculated by all every 2 weeks
+aantonop	724366516485939200	2016-04-24T22:36:50	Bitcoin is a trust anchor. It is the system that provides the most reasonable degree of certainty for systems requiring shared perspectives.
+aantonop	724389817904058368	2016-04-25T00:09:25	Consensus is the shared perspective that emerges from a freedom of choice between participating parties.  Bitcoin unilaterally aligns trust.
+aantonop	724628979236364290	2016-04-25T15:59:46	.Bitstamp Congratz to nejc_kodric and his team
+aantonop	724612035674292226	2016-04-25T14:52:26	Erik Voorhees makes the connection between Bitlicense forced collection of customer info and endangering customers:  
+aantonop	724594842613981184	2016-04-25T13:44:07	MooreGramsBeats Glad to hear it. I have 25+ more in processing.
+aantonop	724591465737891840	2016-04-25T13:30:42	Melt_Dem PirateOrg No comparison is perfect, but bitcoin has many compelling similarities to the early Internet.
+aantonop	724392303868153857	2016-04-25T00:19:18	Proof of Steak.  Mmmmmmm
+aantonop	724386166833860611	2016-04-24T23:54:55	leandromtlima  If you set it up right,  you can have 2 of the keys &amp; don't need to trust Bitgo. They are well run company,  anyway.
+aantonop	724353177710170112	2016-04-24T21:43:50	petertoddbtc Some people take their oath seriously. Like Snowden himself, for example.
+aantonop	724275438097432576	2016-04-24T16:34:55	Great investigative journalism about the truth behind bitcoin mining in China:  
+aantonop	724265401216065537	2016-04-24T15:55:02	via_koqoo McKinsey koqoo Amazing how one can write an entire article on digital threats to banking without the word bitcoin in it.
+aantonop	724259121382334464	2016-04-24T15:30:05	"Concentrated power is not rendered harmless by the good intentions of those who create it." - Milton Friedman bitcoin
+aantonop	724140720987082756	2016-04-24T07:39:36	British spies are using their database of millions of people as their personal Rolodex  
+aantonop	724254467487621121	2016-04-24T15:11:35	Leading Republicans send letters in support of Dennis Hastert, pedophile  
+aantonop	724224753955930114	2016-04-24T13:13:31	Major recession we're likely to see in 2016 will be made exponentially worse by lack of recovery from 2008 recession 
+aantonop	724057412576116736	2016-04-24T02:08:34	doctorow The have a great hackerspace, culture-jamming, coworking, 3D printing, bitcoin fueled community of hacker/makers: Parallelni Polis
+aantonop	724057116126879744	2016-04-24T02:07:23	doctorow I visited Prague for the first time this year. It's an amazing city.
+aantonop	724055289302007808	2016-04-24T02:00:07	Prague more than 45 years ago  
+aantonop	724056202213101568	2016-04-24T02:03:45	Loved this ...Bitcoin is the Sewer Rat of Currencies — Urgent Futures — Medium (via Pocket) longreads 
+aantonop	724056728560656384	2016-04-24T02:05:51	howardlindzon Thanks!
+aantonop	724051902367981569	2016-04-24T01:46:40	andrewhaas So then, don't use it. I don't see what the problem is. No one is forcing you to use it.
+aantonop	724049262305267712	2016-04-24T01:36:10	andrewhaas lopp LN isn't "instead" of any other solutions, it's "in addition to". This isnt a zero-sum game. We can do more than one thing
+aantonop	724046694149677057	2016-04-24T01:25:58	andrewhaas lopp Both LN and Segwit are incredible innovations that will help bitcoin reach a new level of functionality and scale
+aantonop	724039365677211648	2016-04-24T00:56:51	howardlindzon Hey, I recognize that quote ;-)
+aantonop	723992128746086401	2016-04-23T21:49:09	AegisFS It would take more than 140chars to explain the cozy and captured relationship between banks and regulators &amp; how it benefits banks
+aantonop	723949669810733056	2016-04-23T19:00:26	Andreas Antonopoulos: Thoughts On The Future Of Money    
+aantonop	723941517706944512	2016-04-23T18:28:02	obussmann Confused is correct. Confused about what is the innovative part of bitcoin and what is not. Hint: It's not the blockchain
+aantonop	723929585469923328	2016-04-23T17:40:37	Excellion No, I got trolled-out from /r/bitcoin ages ago. Then the censorship, now the backlash. It's a mess.
+aantonop	723916455532736514	2016-04-23T16:48:27	Meet the Man Who Will Hack Your Long-Lost Bitcoin Wallet for Money:  tnx coindesk | Bitcoin News
+aantonop	723916529591422977	2016-04-23T16:48:45	Banks built a wall against competition by supporting regulations and surveillance. Now, that wall became their prison &amp; they can't adapt
+aantonop	723916012811231232	2016-04-23T16:46:41	wisemoe I have assistance
+aantonop	723915932045713408	2016-04-23T16:46:22	Banking regulation is a deal with the devil: Deliver surveillance and control to govt and govt will prevent competition by new entrants
+aantonop	723915159949828097	2016-04-23T16:43:18	Banks are software companies but they are the world's most regulated software companies. Can they adapt and compete? 
+aantonop	723914613062950913	2016-04-23T16:41:08	EJPharmD Because they gain more from limiting competition thru control and regulation, even if the side effect of that is economic exlusion
+aantonop	723882133119344640	2016-04-23T14:32:04	NickJamesBtc Not if you pay attention to the technology and ignore all the drama. The tech innovation is amazing.
+aantonop	723880534657630209	2016-04-23T14:25:43	Bitcoin Q&amp;A: How do banks react to Bitcoin? - The Five Stages of Grief:  via YouTube
+aantonop	723880346048188416	2016-04-23T14:24:58	Bitcoin Q&amp;A: Will banks, which are software companies at heart, adapt to digital currencies?:  via YouTube
+aantonop	723878806868529153	2016-04-23T14:18:51	.Reddit_BTC QED. The rage turns on me. Ironically, this started with an interview of me decrying censorship in /r/bitcoin.
+aantonop	723701521389608961	2016-04-23T02:34:23	Mandrik Read until the part where the author suggests you don't take out your ideology against the least-paid service workers.
+aantonop	723693444128989184	2016-04-23T02:02:17	tcarewe Hm I wonder if that's new. I'll try it. Thanks!
+aantonop	723691235278467072	2016-04-23T01:53:30	tcarewe I've setup dozens of Uber drivers with bitcoin wallets, during a trip, and tipped in bitcoin.
+aantonop	723690699900784640	2016-04-23T01:51:23	tcarewe I expect Uber will add an option. I tip cash. Can't use Lyft because it requires Facebook which I abandoned in '11
+aantonop	723688065521336320	2016-04-23T01:40:54	By supporting the bourgeois economics of surveillance (KYC/AML) you condemn billions to economic exclusion and poverty
+aantonop	723687826819260417	2016-04-23T01:39:58	Economic exclusion (the unbanked) are not an accident. Choose KYC/AML controls, sacrifice billions to poverty. How many will you sacrifice?
+aantonop	723683757442650112	2016-04-23T01:23:47	Tip Your Uber Driver  
+aantonop	723679508440711170	2016-04-23T01:06:54	MikeCautillo TuurDemeester Repeating the conventional wisdom, the cliche, the establishment position, is risk  free but also value free
+aantonop	723678737028538370	2016-04-23T01:03:50	MikeCautillo The line for writing bitcoin obituaries is very long. I'll be over here, in the "end of banking as we know it" line. Lonely.
+aantonop	723674469315665920	2016-04-23T00:46:53	Great primer into aantonop's thinking on cryptocurrency ecosystem: “Bitcoin is the Sewer Rat of Currencies” 
+aantonop	723657450063302657	2016-04-22T23:39:15	M0rgUK No, thank Theymos for everything he has done and then selectively criticize censorship action. That's what my interview was about
+aantonop	723655349547483136	2016-04-22T23:30:54	alexqgb Thank you
+aantonop	723655159906209792	2016-04-22T23:30:09	alexqgb It's mine.
+aantonop	723654001045180416	2016-04-22T23:25:33	theonevortex TuurDemeester A 75% net worth commitment is a strong commitment. Let's not lose our reasoning here.
+aantonop	723652195619639296	2016-04-22T23:18:22	TuurDemeester As Vitalik said he should not apologize for sound financial planning. Diversification, especially at his age, is a smart move
+aantonop	723482806907731968	2016-04-22T12:05:17	You will dig Prince's *burning* cover of Radiohead's "Creep"  
+aantonop	723644189179699202	2016-04-22T22:46:34	ZackVirtual lopp You know that a block limit increase is on the Core roadmap, right? Almost everyone supports it. The question is timing.
+aantonop	723642370906968064	2016-04-22T22:39:20	ZackVirtual lopp I support a block size limit increase, as does Classic, as do almost all Core devs.
+aantonop	723629057737371648	2016-04-22T21:46:26	lopp Yup. I've quit both. I only lurk occasionally and I very rarely post in either forum. It's a pity really how the trolls won.
+aantonop	723625667364052992	2016-04-22T21:32:58	This is why reddit has become a useless forum for bitcoin. The old group is mismanaged, the new one insane with rage 
+aantonop	723625404481810433	2016-04-22T21:31:55	On /r/btc they failed to hear the positive things I said about Theymos. On /r/bitcoin they didn't hear any of it because the deleted it. LOL
+aantonop	723621722268770305	2016-04-22T21:17:17	An old interview of mine decrying censorship on /r/bitcoin is creating a fuss, so now all mentions of that interview being removed. LOL
+aantonop	723601233295085569	2016-04-22T19:55:52	Superb piece from AaronvanW on Segregated Witness's history and future  Bitcoin
+aantonop	723594547947704320	2016-04-22T19:29:18	More evidence to support my theory that all unidentified objects will be classified as "drones" initially. 
+aantonop	723600716984659969	2016-04-22T19:53:49	Today victims of CIA torture scored a major legal victory  
+aantonop	722978816843386880	2016-04-21T02:42:36	Carter's grandson on why Carter Center doesnt monitor US elections. Let it sink in for a mo. via nicolesandler 
+aantonop	723602639271931904	2016-04-22T20:01:27	!!! Court rules that "CIA detainees can sue the psychologists who designed the agency's torture techniques." 
+aantonop	723581331058397184	2016-04-22T18:36:47	A review of my recent talk in Barcelona   
+aantonop	723565390798925824	2016-04-22T17:33:27	TraceMayer Hey, you spelled my name wrong in this post:  
+aantonop	723559581398388736	2016-04-22T17:10:21	"We've tried everything and there is no viable use case for the blockchain." "Did you try permissionless internet money?" "No." - Banks 2020
+aantonop	723542995417616385	2016-04-22T16:04:27	Any Bitcoin regulation would be outdated immediately. There is no "right" time  regulations
+aantonop	723524188535947264	2016-04-22T14:49:43	Proud to have mr aantonop opening our EMEA fintechtalks in Milan blockchain DeloitteItalia 
+aantonop	723523066840518656	2016-04-22T14:45:16	Banks are trying out Ethereum in the manner of an old man wearing a baseball hat backwards  
+aantonop	723508600094732288	2016-04-22T13:47:47	Yesterday I broadcasted a 401-input bitcoin transaction and it got mined in 13 minutes. Fattest transaction I pushed 
+aantonop	723352268687466496	2016-04-22T03:26:34	Using Steam, I can buy Kerbal Space Program with Bitcoin and go  TO THE MUN
+aantonop	723293550268407808	2016-04-21T23:33:15	Secret court confirms use of NSA spying data for general criminal investigations: 
+aantonop	723269412367659008	2016-04-21T21:57:20	Haso_04 I think the same applies, only blockchain is an even worse "solution" for voting. Voting doesn't suffer from fraud, but from apathy
+aantonop	723262375575576577	2016-04-21T21:29:22	ponli137 Thanks, it's an experiment, let's see if others like them too. It is meant to be shared as a quick and contained response to a Q
+aantonop	723259700813398017	2016-04-21T21:18:44	I get asked this question a lot lately... 
+aantonop	723258757912891393	2016-04-21T21:15:00	Bitcoin Q&amp;A: Do alt-coins threaten to replace bitcoin?:  via YouTube
+aantonop	723256208010792960	2016-04-21T21:04:52	"Drone that struck BA flight may have been a plastic bag"  "A lie can circle the world before the truth has even put on its shoes"  Bah
+aantonop	723247473775501312	2016-04-21T20:30:09	Bitcoin Q&amp;A: Does Ethereum compete against Bitcoin:  via YouTube
+aantonop	723241633471291393	2016-04-21T20:06:57	bitcoin Shingai Thornton: "Can the Lightning Network Help Re-spark Confidence in Bitcoin?": ...  crypto anarchy
+aantonop	723239760756617216	2016-04-21T19:59:30	coinfund_io TuurDemeester "spiced with a certain futurism". Love it. Thanks!
+aantonop	723237212117196800	2016-04-21T19:49:23	BeautyBubble Not really. There are unspent values (UTXO), but not traceable coins per-se.
+aantonop	723200133668675584	2016-04-21T17:22:02	Prince crowdfunded an album on the Internet, complete w/ Kickstarter-style late delivery to angry fans, 20 YEARS AGO. Your fave could never.
+aantonop	723200266565099520	2016-04-21T17:22:34	How prodigious was Prince’s talent? He wrote, sang, produced, arranged, composed &amp; played all 27 instruments on his first album, For You.
+aantonop	723198121388478464	2016-04-21T17:14:03	💔
+aantonop	723158315094577152	2016-04-21T14:35:52	For those who asked: I'm not going to Consensus 2016 in NYC. Not my scene.
+aantonop	723156116486557696	2016-04-21T14:27:08	U.S. opens criminal investigation into Panama Papers over tax avoidance claims 
+aantonop	723156084010029056	2016-04-21T14:27:00	Why is Congress so clueless about tech? Because they fired all their experts 20 years ago 
+aantonop	723155885422321664	2016-04-21T14:26:13	NYPD cops charged with felonies after beating up mailman 
+aantonop	723155683214925824	2016-04-21T14:25:25	Why Internet voting is a terrible idea, explained in small words anyone can understand 
+aantonop	722960380692205568	2016-04-21T01:29:21	daboloskov Still plenty of competition in sourcing cheap electricity and buying more hardware. Just no advantage in sourcing hardware
+aantonop	722957467727073280	2016-04-21T01:17:46	What kind of health insurance should someone use if they travel internationally more than 250 days a year? Asking for a friend.
+aantonop	722956913936310272	2016-04-21T01:15:34	Nebraska abolishes civil forfeiture, aka 'cops can steal your stuff' law   
+aantonop	722957069628915712	2016-04-21T01:16:11	The greatest and most persistent illusion is the continuity and stability of the present. History is happening now and we are part of it
+aantonop	717519454914084864	2016-04-06T01:09:03	"You have the right to believe homosexuality is wrong but you don't have the right to use that belief to harm other people"Jay Kaplan, ACLU
+aantonop	722916871767519232	2016-04-20T22:36:28	Next phase of the Crypto Wars: law enforcement tries to get around encryption rather than break through it. 
+aantonop	722955024184168450	2016-04-21T01:08:04	cryptowords Yes, and several more on the topic. I find Shapeshift's open discussion of this breach refreshing and laudable.
+aantonop	722934456336580608	2016-04-20T23:46:20	Bitmit_Exchange Of course, not everything I suggest is a good thing. But at least make sure I actually suggested it.
+aantonop	722934225347813376	2016-04-20T23:45:25	TonyFratto "Balance your checkbooks"? What is this 1861?   Send a telegram to grandma while you're at it. Or use the Pony Express.
+aantonop	722933718994673665	2016-04-20T23:43:24	Bitmit_Exchange Bitcoin I didn't suggest that. It was a silly click-bait headline about a hypothetical I used to discuss UX design
+aantonop	722931799685525504	2016-04-20T23:35:47	Bitcoin Q&amp;A: The End of Mining Centralization- From 1000x increases to hitting Moore's "Wall".:  via YouTube
+aantonop	722916255993192448	2016-04-20T22:34:01	"The safest way to make laws respected is to make them respectable." –Frederic Bastiat 
+aantonop	722915422350127104	2016-04-20T22:30:42	The story of Shapeshift's recovery is also the story of Michael Perklin mperklin, an amazing security professional I am proud to know.
+aantonop	722896669122007040	2016-04-20T21:16:11	Bitcoin's blockchain tech clearly demonstrates that digital records can be held securely without the need of a central authority.fintech
+aantonop	722896923875618816	2016-04-20T21:17:12	Very interesting read on how tptb may be trying to hijack bitcoin. whitelisting 
+aantonop	722903507276201988	2016-04-20T21:43:21	.timtriana1 Ahem, Bitcoin has at least 4 debit cards that I know of.
+aantonop	722881168845234177	2016-04-20T20:14:35	RT NPR UPDATE: New $20 bill will keep image of Andrew Jackson on the back, Harriet Tubman on the front of the bill 
+aantonop	722891792207642628	2016-04-20T20:56:48	Last July, NSA &amp; CIA Decided They Didn’t Have to Follow Minimization Procedures, and Judge Hogan Is Cool with That  
+aantonop	722776904768602112	2016-04-20T13:20:17	On 4/20 remember the horrific racial injustices in our mass incarceration system. Bankers &amp; war-profiteers should be in those cells instead.
+aantonop	722849897280630784	2016-04-20T18:10:20	xeni Anytime
+aantonop	722849358039904256	2016-04-20T18:08:11	xeni See DM
+aantonop	722845410742689792	2016-04-20T17:52:30	I would take the SHIT out of this SF/LA luxury overnight bus with sleeper cabins. To Burning Man or Coachella, too. 
+aantonop	722824452870778881	2016-04-20T16:29:13	Looting of the Fox - The Story of Sabotage at ShapeShift  bitcoin ethereum opsec hack shapeshift_io
+aantonop	722836352602128385	2016-04-20T17:16:30	Los Angeles Bitcoin Meetup - January 2014:  via YouTube
+aantonop	722835281599025152	2016-04-20T17:12:15	I hear if Blythe Masters says word Bitcoin instead of "Blockchain" she melts into a puddle of credit default swaps. 
+aantonop	722824897643163648	2016-04-20T16:30:59	PilotDaveCrypto Class G is uncontrolled but not unlicensed. Needs to be unlicensed for drones in pilot-controlled or autonomous mode.
+aantonop	722792365572763649	2016-04-20T14:21:43	lopp The number of obituaries is growing at the same rate as the number of users and transactions: doubling every year.
+aantonop	722787480412545025	2016-04-20T14:02:18	CathyReisenwitz I don't
+aantonop	722782818783236097	2016-04-20T13:43:47	Deaths of Bitcoin proclaimed per year: 2010: 1 2011: 6 2012: 1 2013: 14 2014: 26 2015: 39 2016: 14 (run rate of 45) 
+aantonop	722787014689628160	2016-04-20T14:00:27	btclunatic You can software limit open source drones, because people voluntarily use sensible software. I wrote geofence for arducopter.
+aantonop	722786708740259840	2016-04-20T13:59:14	Ozy_Oz you missed the words "as we know it"
+aantonop	722620525013389312	2016-04-20T02:58:53	joelgombiner There's a good reason why drones (and planes) should not fly over crowds. FAA prohibits both. Otherwise? Very low probability
+aantonop	722618551807250432	2016-04-20T02:51:03	joelgombiner Neither can small drones. Please show evidence of harm caused by a civilian drone.
+aantonop	722612716431474690	2016-04-20T02:27:51	WiFi thrived in 2.4 GHz because no license was required. Drones could thrive without license under 1500ft. (+ sw limits around airports)
+aantonop	722612442417614848	2016-04-20T02:26:46	FAA should regulate drones like FCC regulates WiFi: Create an open space for innovation to thrive - unlicensed below a certain altitude
+aantonop	722611893878194177	2016-04-20T02:24:35	abrkn yep, my bad, missed it.
+aantonop	722605454879256576	2016-04-20T01:59:00	SaltMashPotatoe No didn't know that, I just noticed. That's a pity. I hope the rest returns soon.   PS. I don't shill.
+aantonop	722603442422853632	2016-04-20T01:51:00	It's back!  ShapeShift_io   ... we missed you ...
+aantonop	722601807890018305	2016-04-20T01:44:30	GlennF xeni Would be happy to teach either of you how to use bitcoin. It's quite easy. Frauenfelder interviewed me about it a while back
+aantonop	722557590488686593	2016-04-19T22:48:48	mxschumacher Not soon, but many things we take for granted are not based on fundamentals but rather habit and tradition.
+aantonop	722557377346715649	2016-04-19T22:47:57	22loops That's the cliche, but it fails to materialize. The death of banking as we know it is more likely.
+aantonop	722557219863162880	2016-04-19T22:47:20	Alto5 The second edition of Mastering Bitcoin is currently in progress. Due for publication late 2016. Segwit timing will determine date
+aantonop	722556378880073728	2016-04-19T22:43:59	Disruptive technology has the greatest impact in over-regulated and stagnant industries where innovation has died.   debanking bitcoin
+aantonop	722556093940023296	2016-04-19T22:42:51	Being squeezed between bitcoin and fintech: banking as we know it will not survive.
+aantonop	722555934153826304	2016-04-19T22:42:13	Traditional banking is dead. It just hasn't noticed yet.  nowthatsnewsworthy
+aantonop	722538944110399489	2016-04-19T21:34:43	.SouthwestAir  Got in an uber and the driver was speaking Arabic on the phone.   Maybe I’ll make it to my destination, Inshallah
+aantonop	722535951512117248	2016-04-19T21:22:49	bmclannahan A sign of strong tradition or stagnant markets? Sometimes "recycling" of productive resources &amp; markets is a good thing.
+aantonop	722535556417069057	2016-04-19T21:21:15	If the "suspicion" is serious and well validated, everyone should be off the flight. If not, then not. Instant fix for racism and xenophobia
+aantonop	722535245417873409	2016-04-19T21:20:01	If airlines kicked off every passenger and delayed the flight instead of just the victim of discrimination, the problem would self-regulate
+aantonop	722534981315088385	2016-04-19T21:18:58	abrkn SouthwestAir Nowhere did I suggest more regulation. I made a market-based choice as a frequent flyer.
+aantonop	722520232913408000	2016-04-19T20:20:21	schmiddc Oh yawn - another prediction of bitcoin's death. Not original anymore, such a cliche followed by "but blockchain is interesting"
+aantonop	722473227419721728	2016-04-19T17:13:34	On the 7th day, God rested. But Pieter Wuille (pwuille) made a Pull Request for Segwit in Bitcoin Core:   gosipago
+aantonop	722465532918767617	2016-04-19T16:43:00	Bitcoin: Opportunity for South America and Emerging Markets - Sao Paulo:  via YouTube
+aantonop	722456370163789825	2016-04-19T16:06:35	Rep Eshoo just swept in and is absolutely not holding back. "Congress gave FBI $9 billion. How did you not know what to do?" encryption
+aantonop	722456581581905922	2016-04-19T16:07:26	Rep Eshoo: "Once criminals know American encryption products are open to surveillance, what's going to stop them from going abroad?"
+aantonop	722454538687549440	2016-04-19T15:59:19	while &lt;encryption hearing gov testimony&gt;:    tweet &lt;"why you always lying" video&gt; 
+aantonop	722448902453084161	2016-04-19T15:36:55	JamesGDAngelo I always deal in honesty and truth as I see it. I don't paint a rosy picture, but I am an optimist.
+aantonop	722446211731628032	2016-04-19T15:26:13	JamesGDAngelo That's me. Bitcoin's Chief Sunny Assumptions Officer.
+aantonop	722446085587910656	2016-04-19T15:25:43	JamesGDAngelo No worries. I don't take offense easily. I know you don't mean it as a personal attack, more an expression of incredulity
+aantonop	722444145101398017	2016-04-19T15:18:01	"Cops trying to access an encrypted toaster might find themselves ... in a jam." -xor Encryption HouseCommerce
+aantonop	722442859232698369	2016-04-19T15:12:54	JamesGDAngelo Looking at the curve of hashrate from CPU-&gt;ASIC, Moore represents a "wall". That's with optimistic extrapolation of Moore law
+aantonop	722442604617420801	2016-04-19T15:11:53	JamesGDAngelo Obsolescence in 3 months will now be obsolescence in 2 yrs. That's a big change in the economics of mining
+aantonop	722442453588914177	2016-04-19T15:11:17	JamesGDAngelo My primary argument is that CPU-&gt;ASIC represented 4 orders of magnitude boost. Moore's law is a snooze by comparison
+aantonop	722442298479345664	2016-04-19T15:10:40	JamesGDAngelo Maybe watch my actual comments on the issue before assigning drug-consumption delusion to me?
+aantonop	722264515899863050	2016-04-19T03:24:14	aantonop Hi Andreas, we'll be tracking BIP9, along with all future proposals, over at .
+aantonop	722048211544850432	2016-04-18T13:04:43	"The research vessel will NOT be named 'Boaty McBoatface. It is too childish" said government spokesperson, Twatty McTwatface
+aantonop	722204587545866242	2016-04-18T23:26:06	"There are 27,000 compliance workers at HSBC. There is a large opportunity in unsexy fintech." M_Marsollier
+aantonop	722191855300042752	2016-04-18T22:35:30	Two more videos in production, ready soon
+aantonop	722191565511401476	2016-04-18T22:34:21	Waseem99 It's sickening that you have to even state that obvious truth. Don't feed trolls. Block them and move on
+aantonop	722139400310824960	2016-04-18T19:07:04	Americans who see all Muslims as potential terrorists are “playing straight into the rhetoric of the Islamic State.” 
+aantonop	722157798952411138	2016-04-18T20:20:10	BjorkmanJesper SouthwestAir victim(s)  plural.  It's happened 3 times this week and a dozen times before. Pattern &amp; practice
+aantonop	722152139062145024	2016-04-18T19:57:41	ModernApostate  It's  writing click-bait junk,  not Bitcoin who just tweeted the link
+aantonop	722146510679457792	2016-04-18T19:35:19	Bitcoin It's a rhetorical point  illustrating the need for good design and naming in new tech,  not a proposal to rename bitcoin.
+aantonop	722143306138980352	2016-04-18T19:22:35	DOJ complaining about companies delivering "warrant-proof" encryption to users when they are defending warrantless gov searches of devices.
+aantonop	722065550814261249	2016-04-18T14:13:37	The Real Transgender Bathroom Hysteria: Trans people as scapegoats for crimes that cis men commit.
+aantonop	722078300223467522	2016-04-18T15:04:16	I'm not flying SouthwestAir again until they address their discrimination issues 
+aantonop	721875990511816704	2016-04-18T01:40:22	dandolfa Thanks, very interesting. Consider mine to be the pop-sci rendition of that idea ;-)
+aantonop	721854922887675905	2016-04-18T00:16:39	Bitcoin: Money as language &amp; the multi-currency future:  via YouTube
+aantonop	721539563722797056	2016-04-17T03:23:32	Don't be impressed by: 1 money 2 titles  3 degrees 4 fancy talk   Be impressed by: 1 generosity 2 integrity 3 humility 4 shared knowledge
+aantonop	721552075646087168	2016-04-17T04:13:15	This might well be true. 18 years probably not a full phase out, but certainly in some regions... 
+aantonop	721540159838228481	2016-04-17T03:25:54	Supposedly ransomware authors are using OP_RETURN for decryption keys. 10 mBTC says they are doing it wrong &amp; de-anonymzing themselves.
+aantonop	721468482148253696	2016-04-16T22:41:05	AdamSorini ManInManila1 coinbase A spot-check from ~3 yrs ago is meaningless for evaluating current security.
+aantonop	721384898456653824	2016-04-16T17:08:57	A lecture on FreeSpeech never looked so good!  jeffreyatucker at sfliberty focus series thisisCKI datbowtie 
+aantonop	721400867069554688	2016-04-16T18:12:24	artmurr YouTube thank you
+aantonop	721079941433962496	2016-04-15T20:57:09	Your regular reminder that surveillance tech disproportionately targets the poor  by sarahjeong:
+aantonop	721349400329588736	2016-04-16T14:47:53	Would you prefer if my video talks were:
+aantonop	721347471755079680	2016-04-16T14:40:13	LuizFelipecsrj Only if you assume that the third party can manage risk better than you can. Bitcoin gives you both options, you eval risk
+aantonop	721347368327778304	2016-04-16T14:39:49	LuizFelipecsrj Depends. For novices that won't/can't use a hardware wallet and back it up, a (well managed) exchange may be safer.
+aantonop	721313334394515456	2016-04-16T12:24:34	There once was a poet named Jan Who satirized Pres. Erdogan With Merkel's support Jan's art goes to court The Germans now act like Iran
+aantonop	721193140942729216	2016-04-16T04:26:58	Canadian Senate Testimony on Bitcoin:  via YouTube
+aantonop	720669844543291392	2016-04-14T17:47:34	The UC system spent $175,000 trying to remove this picture from the internet, so please, please do NOT retweet this. 
+aantonop	721094328861519873	2016-04-15T21:54:19	Down the rabbit hole: my deep dive on aantonop's fight with UpholdInc over 'The Internet of Money'  bitcoin
+aantonop	721026205361815552	2016-04-15T17:23:38	Terrific work by ACLU  Government’s Unprecedented Position in CIA Torture Lawsuit Is Very Good News  via aclu
+aantonop	720908117211549696	2016-04-15T09:34:23	Bitcoin Core 0.12.1 with CHECKSEQUENCEVERIFY softfork has been released. Upgrade today!  
+aantonop	720800238345302016	2016-04-15T02:25:43	The Jewish candidate 4 president calls us 2 support the Palestinian people be "treated with respect and dignity." The Christian, not so much
+aantonop	720802720425328640	2016-04-15T02:35:35	Bibi Clinton. Disgusting.
+aantonop	720784384572465152	2016-04-15T01:22:43	Don't store crypto-currencies on custodial accounts (eg exchanges). Your keys, your coin. Not your keys, not your coins. How many times?
+aantonop	720780792717160448	2016-04-15T01:08:27	gavinandresen 's first AMA in Chinese bitcoin community,April 21 7PM CN time (7AM US time)  
+aantonop	720781296457220096	2016-04-15T01:10:27	Hillary today said she wants people like Eric Holder to run her DOJ.  You know. The guy who couldn't indict a single big banker.
+aantonop	720781006966358016	2016-04-15T01:09:18	aantonop Comcast's pals in Congress are trying to screw up netneutrality!  
+aantonop	720722972797849601	2016-04-14T21:18:41	The HouseCommerce committee is having an encryption hearing next week. mattblaze is on the witness list. YESSSSSS! 
+aantonop	720776947089989632	2016-04-15T00:53:10	Burr &amp; Feinstein's anti-cryptography bill amounts to a War On Mathematics. Ron Wyden vows to filibuster. 
+aantonop	720749083837800452	2016-04-14T23:02:27	Disrupt Conference - What is Bitcoin?:  via YouTube
+aantonop	720743051489058816	2016-04-14T22:38:28	therealcounts  No, it's not random. Police brutality is institutionally biased and falls primarily on the powerless, minorities &amp; the poor
+aantonop	720740941242437634	2016-04-14T22:30:05	Cops have killed way more Americans in America than terrorists have 1yrago  
+aantonop	720736040789487616	2016-04-14T22:10:37	‘They’re Missing the Point!’ – Antonopoulos Slams Banks’ Blockchain Romance   
+aantonop	720710896025235456	2016-04-14T20:30:42	SwiftOnSecurity Will a machine ever enjoy doing something? I love my "job": perhaps that is a difference (for now).
+aantonop	720670418932273152	2016-04-14T17:49:51	I've posted 4 videos from my tour of Europe. Subscribe to my youtube channel &amp; check out the playlist  
+aantonop	720665283149631488	2016-04-14T17:29:27	The fourth video from my Europe Tour, from Berlin   Elements of trust - unleashing creativity    Subscribe!
+aantonop	720664927799812096	2016-04-14T17:28:02	Bitcoin: Elements of trust - unleashing creativity:  via YouTube
+aantonop	720396548966858753	2016-04-13T23:41:36	choose one:  Lawsky is “crony capitalism at its finest” or “fantastic” I side w/ pamelawjd 
+aantonop	720343774099017728	2016-04-13T20:11:53	I will do everything in my power to block Burr-Feinstein anti-encryption bill. It makes Americans less safe. 
+aantonop	720344745189322752	2016-04-13T20:15:45	Dianne Feinstein: 2 decades of joining with Senate GOP to embrace authoritarianism &amp; make Americans less safe 
+aantonop	720345184978997248	2016-04-13T20:17:30	When someone tells you a law is about “requiring companies to comply with court orders” your reply should be: “How dumb do you think I am?"
+aantonop	720301282188070916	2016-04-13T17:23:02	BitGive Donation Transparency Platform is underway! … bitcoin blockchain philanthropy 
+aantonop	720264309650100225	2016-04-13T14:56:07	Mini vacation (one day off) but at a great location -  Ipanema beach,  Rio de Janeiro. 
+aantonop	720234335786262528	2016-04-13T12:57:01	The way unemployment is measured -- discounting long-term unemployed, counting very minimal employment as employed -- skews perception.
+aantonop	720229062837432320	2016-04-13T12:36:04	Sisi spoke for hr 2day. All u need to know is when someone tried to say something, Sisi snapped"I haven't given anyone permission to speak"
+aantonop	720220694706057216	2016-04-13T12:02:49	conspiracylando yanisvaroufakis Not a good idea. Bitcoin is an alternative  choice, not to be imposed from above in exclusion/replacement
+aantonop	720219887919067137	2016-04-13T11:59:36	peanutsrevenge There are 200+ countries. I have at least 160 to go.
+aantonop	720218249963708417	2016-04-13T11:53:06	38 countries 417 cities...  and counting
+aantonop	720210082701668353	2016-04-13T11:20:39	Δεν δικαιούμαστε να αφήσουμε, άλλη μια φορά, ανεκμετάλλευτη την διαπίστωση του ΔΝΤ: «Εξαιρετικά μη βιώσιμο το χρέος» 
+aantonop	720210236074815488	2016-04-13T11:21:15	Third video from the European tour, from Barcelona -  Identity, privacy, surveillance and finance:  
+aantonop	720067074215841792	2016-04-13T01:52:23	Bitcoin: Privacy, Identity, Surveillance and Money - Barcelona Fablab Meetup March 2016:  via YouTube
+aantonop	720067062614335488	2016-04-13T01:52:20	Bitcoin: Privacy, Identity, Surveillance and Money  My Barcelona talk (Europe Tour 3 of 7) is now up: 
+aantonop	720050627607310336	2016-04-13T00:47:02	Here’s how much of your life the United States has been at war  
+aantonop	720061317780885504	2016-04-13T01:29:30	"Worldwide access to financial services"  HT dwr 
+aantonop	720007494739869697	2016-04-12T21:55:38	Bitcoin is the new blockchain
+aantonop	719919124361691136	2016-04-12T16:04:29	IRC bitcoincoreorg meeting summary for 2016-04-07  
+aantonop	719907989101146112	2016-04-12T15:20:14	If anyone knows how to get from asciidoc source to render RTL Arabic into PDF, I could use help
+aantonop	719906883209924610	2016-04-12T15:15:50	Xtien johnbiggs Money already rules this country. Oil money, bank money, and war-machine money, instead of tech money. Tech is naive
+aantonop	719904330413973504	2016-04-12T15:05:42	Arabic translation of "Mastering Bitcoin", now at 85%. Help finish, translate this message into Arabic &amp; RT please  
+aantonop	719891887226818560	2016-04-12T14:16:15	CatoCMFA valkenburgh The alternative is regulation-from-ignorance - never good for the local bitcoin industry. But they can't help it
+aantonop	719891048420544512	2016-04-12T14:12:55	Great news, Bitcore is a superb backend. 
+aantonop	719887814544875520	2016-04-12T14:00:04	Bitcoins do not need to be changed into dollars any more than email needs to be printed.
+aantonop	719721808648413185	2016-04-12T03:00:25	123knez Depends on the event. Send me an invite at 
+aantonop	719655199044800512	2016-04-11T22:35:44	stacyherbert LibertyBlitz birgittaj Yes but dropping the first name as motherboard did and using only the "surname" makes no sense.
+aantonop	719646606614659072	2016-04-11T22:01:36	Best ever. | Porn Site XHamster Bans North Carolina Users Over LGBT Law  
+aantonop	719647800569552897	2016-04-11T22:06:20	The DEA / Riverside County wiretap factory had a busy 2015: Authorities intercepted 5.1 million communications by 70,000 people.
+aantonop	719648713765974016	2016-04-11T22:09:58	LibertyBlitz motherboard Ah,  it's a common mistake, seen everywhere now that Iceland is in the news.
+aantonop	719647614195658752	2016-04-11T22:05:36	LibertyBlitz interesting article,  but all the names are wrong. Icelanders don't have surnames.
+aantonop	719638317453553665	2016-04-11T21:28:39	"If a picture is worth 1000 words, a prototype is worth 1000 meetings." Ancient IDEO proverb. Learn how w/IDEOU: 
+aantonop	719624830933270528	2016-04-11T20:35:04	Lady Liberty arrested at the Capitol. DemocracySpring 
+aantonop	719636196314382336	2016-04-11T21:20:14	The Burr-Feinstein briefing includes no one who knows a single damn thing about encryption. 
+aantonop	719575153844350976	2016-04-11T17:17:40	Looks like the Samourai Wallet for Android was quietly open-sourced: 
+aantonop	719559894496645122	2016-04-11T16:17:02	If tech lobby was proportionate to the tech industry, Feinstein would not be playing with fire. Learn from NRA, oil, tobacco, banks &amp; pharma
+aantonop	719559597476995073	2016-04-11T16:15:51	Tech industry face the facts: Congress is not dealing in good faith and is willing to destroy the industry (and California) with ignorance
+aantonop	719559320925519872	2016-04-11T16:14:45	It's about time the Tech industry grows up politically. Feinstein should be facing a billion-dollar funded independent in the next election
+aantonop	719285388335058944	2016-04-10T22:06:14	A gay-bashing, "family values", judgmental, self-righteous christian, republican charged as a pedophile?   I want to say I am surprised, but
+aantonop	719257350033563648	2016-04-10T20:14:50	ggreenwald Visiting Brazil (Sao Paulo) for the first time.  Hey neighbor!
+aantonop	719256545389899782	2016-04-10T20:11:38	Security is not achievable by the elimination of crime but only through the introduction of justice for all.
+aantonop	719254398778609664	2016-04-10T20:03:06	cypherdoc2 
+aantonop	719239169042726916	2016-04-10T19:02:35	Heliopay invite at 
+aantonop	719227604902023168	2016-04-10T18:16:38	. Snowden  One nation with liberty and justice for all. There's "all" and then there's "all".
+aantonop	719218767788666880	2016-04-10T17:41:31	Anyone have the number for the Attorney General? Asking for a friend. 
+aantonop	719158263913267200	2016-04-10T13:41:06	Percival naval  Your "//M 3.16" has arrived  BMWUber
+aantonop	719154492168605696	2016-04-10T13:26:06	aantonop naval Potential app notification:  "Your car has arrived and is now parked across two parking spaces waiting for you"
+aantonop	719157072097644544	2016-04-10T13:36:21	Percival naval We need a hashtag and a series of tweets to handle the immense well of hilarity this concept has opened up. BMWUber
+aantonop	719151631980498944	2016-04-10T13:14:44	naval So, Uber but without ever using the indicator signals?
+aantonop	718783598690766848	2016-04-09T12:52:18	 
+aantonop	718809014264602625	2016-04-09T14:33:18	MrChrisEllis You are very kind, thanks for your support.
+aantonop	718802208712749057	2016-04-09T14:06:15	The Internet fails to scale gracefully - aantonop  This video deserves way more views, scale it! Bitcoin
+aantonop	718460689006911488	2016-04-08T15:29:11	Both sides of the crypto war hoped Congress might broker peace. Instead this draft bill threatens a nuclear option. 
+aantonop	718460883995795456	2016-04-08T15:29:57	The Burr-Feinstein backdoor bill would outlaw secure comms&amp;storage, endanger security, &amp; endanger US business. And it'd be unconstitutional.
+aantonop	718424446013456385	2016-04-08T13:05:10	justmeger btcdrak Take one Andreas video daily until hysteria symptoms pass.
+aantonop	718223045979201538	2016-04-07T23:44:52	"Celebrate the engineers who remove code, deprecate and refactor as much as those who add features" - mipsytipsy 
+aantonop	718423020440784896	2016-04-08T12:59:30	digitsu lopp thanks,  but it is too short notice.  I'm booking September events currently.
+aantonop	718183580338233344	2016-04-07T21:08:03	The FCC's plan to unlock your set-top box is about competition, not copyright 
+aantonop	718069437086216194	2016-04-07T13:34:29	DominikWeil Definitely interested, but it's very short notice. Send me details via 
+aantonop	717860753907310596	2016-04-06T23:45:15	Sao Paulo, here I come.  See you at the coinbr Bitcoin Summit on April 8th.
+aantonop	717786498632908800	2016-04-06T18:50:11	I think ASSSoL is a very good acronym for the Antonin Scalia School of Law. Don't change it!
+aantonop	717487072865423360	2016-04-05T23:00:23	yaoeo Without proof-of-work, blockchain is only tamper-resistant, not tamper-proof. Important difference
+aantonop	717389562897633281	2016-04-05T16:32:54	Fifteen engineers at WhatsApp delivered encryption to a billion users. Google has no excuse.  
+aantonop	717385406942027776	2016-04-05T16:16:24	Vaultoro Yup, that's my assessment too.
+aantonop	717382870000660480	2016-04-05T16:06:19	Fuck yeah whispersystems:  
+aantonop	717378524051415040	2016-04-05T15:49:03	Beautyon_ Both represent business as usual: war, big banks, destroying the middle class, surveillance, police state.
+aantonop	717377542701719552	2016-04-05T15:45:09	Ironic: world leaders are now all about "financial privacy". For them, not for us. We're under surveillance for our own good  panamapapers
+aantonop	717375928771280896	2016-04-05T15:38:44	Beautyon_ Neither Clinton nor Trump will be good for bitcoin. They're both control-freak big-bank big-state authoritarians.
+aantonop	717375532942274560	2016-04-05T15:37:09	Beautyon_ BitcoinMoney You're dreaming. Trump is a old-school crony-capitalist. He will stomp on bitcoin to help out his friends.
+aantonop	717355977608196096	2016-04-05T14:19:27	.G1lius Thanks for writing the Core IRC meeting summaries. Very useful stuff
+aantonop	717341020250370048	2016-04-05T13:20:01	Trump says he'll block remittances to Mexico. He'll try to ban bitcoin.  Who's writing Spanish tutorials for bitcoin remittances? Get on it
+aantonop	717334853298032640	2016-04-05T12:55:31	Whoever is writing the bitcoincore IRC meeting summaries - Thank you, this is very helpful  
+aantonop	717168250660892672	2016-04-05T01:53:29	Did Australia remove the GST from bitcoin and other crypto-currencies?
+aantonop	717028416562835456	2016-04-04T16:37:50	Seems like a good day to mention I wrote a book in 2012 predicting a new era of megaleaks.  
+aantonop	716966652030496769	2016-04-04T12:32:25	My talk from Zurich Bitcoin Meetup is now up on youtube.   Bitcoin and the coming "Infrastructure Inversion" 
+aantonop	716964100488749056	2016-04-04T12:22:16	Bitcoin and the coming "Infrastructure Inversion":  via YouTube
+aantonop	716113539002314752	2016-04-02T04:02:27	Former CIA director on how water boarding is ok for the US but not US enemies.  mehdirhasan 
+aantonop	716719785950576640	2016-04-03T20:11:27	Dear panamapapers source,  Now that the story is out, please leak the database to wikileaks. We want it searchable.
+aantonop	716752663942004736	2016-04-03T22:22:06	Republican establishment right now:  $ grep -r "Trump" PanamaPapers/*
+aantonop	716751007284375552	2016-04-03T22:15:31	Nea Demokratia's Stavros Papastavrou in PanamaPapers 1:  2:  3: 
+aantonop	716751158937686018	2016-04-03T22:16:07	The exact moment Iceland's PM realizes journalists found his secret:  Cashljós PanamaPapers 
+aantonop	716749378254454784	2016-04-03T22:09:02	sobieniecki I can't read forbes  because of their ad-blocker-blocker. I have Javascript and cookie blockers and won't turn them off.
+aantonop	716745800659902464	2016-04-03T21:54:50	.SZ / BBC Will you be publishing info about Western leaders who (have) evade(d) taxes through Mossack Fonseca? Thank you.  PanamaPapers
+aantonop	716735783152054272	2016-04-03T21:15:01	Says a lot that Western papers uniformly leading w/ Putin inst of politicians of more immediate relevance to their readers panamapapers
+aantonop	716738469557628928	2016-04-03T21:25:42	Why the PanamaPapers are unlikely to be the whole picture and what any gatekeepers may want to remain hidden  olsx
+aantonop	716736260648411137	2016-04-03T21:16:55	PanamaPapers Prediction: Not one politician/banker will go to jail. Instead, media will call for more surveillance &amp; ban encryption/bitcoin
+aantonop	716722336397967361	2016-04-03T20:21:35	AudriusRingaila Youtube comments are a cesspool of abuse and trolls. I don't want my videos dipped in that morass.
+aantonop	716682662002360321	2016-04-03T17:43:56	I will be posting 7 new videos this week on my channel. First one is up already.   Subscribe here: 
+aantonop	716639313073541120	2016-04-03T14:51:41	.doctorow   The article on bitcoin power consumption is based on incorrect assumptions and bad math. Disappointing  
+aantonop	716633226228277250	2016-04-03T14:27:30	TIL of smart darknets: Darknets running on Ethereum smart contracts.   Oh boy will the banking partners be surprised when they find out
+aantonop	716371022484606977	2016-04-02T21:05:35	First of the European Tour videos (Prague)  A talk on Bitcoin Scaling: 
+aantonop	716368357306474497	2016-04-02T20:55:00	FrankoCurrency Robtichenor I love how the term "maximalist" is used to dismiss critical thinking about value and differentiation.
+aantonop	716335992823676930	2016-04-02T18:46:24	DigiEconomist Innovation has not been lagging at all. Payment channels, lightning, CLTV, CSV, CT, Schnor Sigs, Segwit, MAST. Seriously?
+aantonop	716335741878403075	2016-04-02T18:45:24	TuurDemeester Jumped the shark on this show.
+aantonop	716335511552466944	2016-04-02T18:44:29	DigiEconomist Perhaps the fact that bitcoin moves more conservatively is what makes it better adapted (fit) as a strong reserve currency
+aantonop	716294587086561282	2016-04-02T16:01:52	kristovatlas I count your BIP69 as part of that. Yes, it is.
+aantonop	716294017244237827	2016-04-02T15:59:36	ImHid I was reading about MAST (Merkleized Abstract Syntax Trees) this morning. I continue to be amazed at the level of innovation.
+aantonop	716290970615029760	2016-04-02T15:47:30	First mover advantage is great. Consistent innovation surplus is better. Bitcoin's innovation rate is astonishing and increasing.
+aantonop	716290443177164805	2016-04-02T15:45:24	MKjrstad "if". It won't
+aantonop	716284453333520384	2016-04-02T15:21:36	MortuusBestia Specializing in one niche automatically means de-specializing in another. BTC is good for ETH, ETH is good for BTC.
+aantonop	716283488454844416	2016-04-02T15:17:46	Predicting bitcoin's demise and it's replacement by some alt-coin is neither interesting nor original
+aantonop	716282640739885056	2016-04-02T15:14:24	JamesDueck If you say so. I disagree.
+aantonop	716272899158466561	2016-04-02T14:35:41	KEcurious Better at what?
+aantonop	716262527441604609	2016-04-02T13:54:28	Ethereum is a competitor of Bitcoin, like a shark is a competitor of a lion. You can have two apex species in different niches not competing
+aantonop	716249639637241856	2016-04-02T13:03:16	JamesDueck Very unlikely. Many miners buy electricity on long contracts, have no incentive to stop mining. Relax.
+aantonop	716249241627131904	2016-04-02T13:01:41	Completed 7 talks in 5 cities across Europe. Videos will be posted in the next two weeks.
+aantonop	715103222516555776	2016-03-30T09:07:48	Hello "segnet4"  Segregated Witness with CHECKSEQUENCEVERIFY  
+aantonop	715093982645207040	2016-03-30T08:31:05	Auf Wiedersehen Berlin  Zurich,  here I come.   PS. FlySWISS (Swiss Air)  sucks.
+aantonop	714941364300038148	2016-03-29T22:24:38	It is a great honor to meet Andreas Schildbach,  creator of the first Bitcoin mobile wallet 
+aantonop	714551729073876992	2016-03-28T20:36:22	Instead of creating value UpholdInc  is leeching off bitcoin community. "Worthless Leeches in suits" (TM)
+aantonop	714550100639481856	2016-03-28T20:29:54	. CaitlinRegan Are you disputing the legal threats against  owner last year? Seems like a pattern of behavior IMO
+aantonop	714548439816749056	2016-03-28T20:23:18	readDanwrite CoinTelegraph AnthonyWatson A trademark is by definition exclusivity of use, backed by threat of lawsuit.
+aantonop	714548070231441409	2016-03-28T20:21:50	CaitlinRegan AnthonyWatson CoinTelegraph Trademarks are a legal claim of exclusivity,  backed by the threat of a lawsuit.
+aantonop	714547892661403648	2016-03-28T20:21:07	CaitlinRegan AnthonyWatson CoinTelegraph A trademark on a phrase we all have used for years is by definition a threat against its use
+aantonop	714512186052374529	2016-03-28T17:59:14	Tomorrow evening - Berlin  See you there   
+aantonop	714496783108415488	2016-03-28T16:58:02	NF_BitcoinDon Not really,  but they sure try to make it look that way.  Berlin Wall was western  border of USSR. CA/AZ/TX used to be Mexico
+aantonop	714438290288545792	2016-03-28T13:05:36	schmiddc Walls work both ways, eventually everyone is a prisoner
+aantonop	714433736029433856	2016-03-28T12:47:30	Trump is not the first or the last to propose a wall for "security". Evil repeats unless we stop it  berlinwall 
+aantonop	714175936938303488	2016-03-27T19:43:06	hewitt_david Thank you, it is very humbling and I am grateful. It is a very nice sketch.
+aantonop	713406353503621120	2016-03-25T16:45:03	_jonasschnelli_ I saw a demo in Zurich. Nice work Jonas!
+aantonop	713305415380025345	2016-03-25T10:03:58	¡Hasta luego Barcelona!  What a great city, enthusiastic bitcoin community and amazing Fablab community, design &amp; co-working space  Thanks!
+aantonop	713062356809621504	2016-03-24T17:58:08	Glowbl_Official Well, Andreas is running a bit late, sorry! Only 20 minutes from now.
+aantonop	712937799578726400	2016-03-24T09:43:11	slushcz That's a great honor coming from you Slush. Many thanks for your kind words of support!
+aantonop	712937584616468482	2016-03-24T09:42:20	jnc01 Barcelona is tonight
+aantonop	712738178168406016	2016-03-23T20:29:58	TaoOfSatoshi AlenaSatoshi Paralelni_polis Roman_Tyc Consensus is necessary but not sufficient to solve engineering challenges
+aantonop	712737123540078592	2016-03-23T20:25:46	TaoOfSatoshi AlenaSatoshi Paralelni_polis Roman_Tyc To have scaling "problems"  you need big scale. Naive to think Dash won't have any.
+aantonop	712717125962637314	2016-03-23T19:06:19	Thanks to Glowbl_Official we have live steaming at tomorrows aantonop Meetup    AndreasBCN
+aantonop	712718262732267520	2016-03-23T19:10:50	We have the streaming ready for our meetup with aantonop.  Cordially provided by Glowbl_Official --&gt;  AndreasBCN
+aantonop	712585206990028800	2016-03-23T10:22:07	bitcoin is internet of money 
+aantonop	712552618179108865	2016-03-23T08:12:37	Prague bitcoin at Paralelní Polis was amazing.  One of the most active and interesting bitcoin communities in the world. On to Barcelona
+aantonop	712276660947697664	2016-03-22T13:56:04	We're excited about today's Bitcoin meetup with one and only aantonop. Starting at 6 PM, don't miss it. 
+aantonop	712289702557179904	2016-03-22T14:47:53	sobieniecki Next Europe tour,  for sure! When I plan,  I will announce on twitter
+aantonop	712252138949365760	2016-03-22T12:18:37	Hello Prague 
+aantonop	712215990545850369	2016-03-22T09:54:59	DOJ was going to lose in Apple case. Even their most "appealing" case met massive backlash and was legally weak. Better to avoid precedent
+aantonop	711914245710090240	2016-03-21T13:55:57	DarioTepoTec START_Summit There is already a micropayments economy.  You pay for content with micro-violations of your privacy
+aantonop	710866358011957248	2016-03-18T16:32:01	pw;dr Pay walled; didn't read.  abb;dr Ad-blocker-blocker; didn't read.   Can we make these things?
+aantonop	710584749979381760	2016-03-17T21:53:01	I had 5 appointments rescheduled this year.  What was your DaylightSavingCost?
+aantonop	710486705611132928	2016-03-17T15:23:25	Wired: Don't worry about malware on our site. Our ads use HTTPS &lt; HTTPS doesn't stop malware  
+aantonop	710509439833387008	2016-03-17T16:53:45	"The Internet of Money" European tour begins: Zurich,  Barcelona, Prague, Athens, Berlin.  Here I come!
+aantonop	710242801754071040	2016-03-16T23:14:14	I stopped using Bitreserve about the time they began badmouthing Bitcoin. lame bullshit  2 strikes &amp; yer out!  
+aantonop	710228065008353280	2016-03-16T22:15:40	Bitreserve, now known as UpholdInc is in my opinion a perfect example of a trademark bully with questionable ethics 
+aantonop	710219831199604736	2016-03-16T21:42:57	If you care about the principles of open source &amp; bitcoin as a customer of Uphold you should know how they behave: 
+aantonop	710219372091068420	2016-03-16T21:41:08	Uphold's founder used trademarks and litigation against bitcoin companies before. Troll behaviour in my opinion:  
+aantonop	710132244631805952	2016-03-16T15:54:55	foxbitcoin Yes!
+aantonop	710129829245366272	2016-03-16T15:45:19	BLR13 bitcoinmom Ah, the good old days
+aantonop	709866107562106880	2016-03-15T22:17:23	jasogamol See NoScript for Firefox or ScriptSafe for Chrome. I get all the functionality of JS, selecting only the sources I consider safe
+aantonop	709865970911686657	2016-03-15T22:16:50	jasogamol I unblock selected JS for selected sites, especially the JS they control, but not the JS they allow 3rd parties to inject.
+aantonop	709830139090046977	2016-03-15T19:54:27	KC9HZN I am uninterested in working even harder to access that content because they won't work to secure their ads. I move to another site
+aantonop	709819448274886656	2016-03-15T19:11:58	As FBI war on crypto intensifies, Facebook, Google, WhatsApp to intensify use of encryption  
+aantonop	709820286951165953	2016-03-15T19:15:18	Be wary of holding your funds on exchanges. Keep your keys to yourself:  bitcoin altcoins security
+aantonop	709820475568820224	2016-03-15T19:16:03	Sites that ask me to disable ad and JS blockers? This is why I refuse and drop you instead:  
+aantonop	709770984006397954	2016-03-15T15:59:24	woodygar Haha, no worries.
+aantonop	709770218336231424	2016-03-15T15:56:21	CryptoRSS ethereumproject No, I think Ethereum is one of the few chains that offers substantial and useful differentiation from bitcoin
+aantonop	709770007735967744	2016-03-15T15:55:31	woodygar I don't play the coin casino. My focus is education (books, conferences, teaching)
+aantonop	709758363186298880	2016-03-15T15:09:15	BoingBoing frauenfelder I like proXPN for which I got a lifetime service subscription via the BoingBoing Store
+aantonop	709757707167764480	2016-03-15T15:06:38	DavidJools85 UpholdInc I am not interested in owning, all my work is open-source and free for others to re-use. Their TM precludes my use
+aantonop	709696232118198273	2016-03-15T11:02:21	24 de Marzo  Charla de Andreas Antonopoulos, gran especialista en Bitcoin aantonop  https:/… 
+aantonop	709691406844104704	2016-03-15T10:43:11	Remember, 24/3 aantonop in a Barcelona Bitcoin meetup.  …  … Donations accepted!
+aantonop	709732679118233600	2016-03-15T13:27:11	DavidJools85 How about UpholdInc trademarking "The Internet of Money", a phrase I and others coined and used for years before they existed
+aantonop	709591882750238720	2016-03-15T04:07:43	BittBurger I won't sue Uphold. But I will work to invalidate their bogus trademark. This rando coined the phrase 2 yrs before they existed.
+aantonop	709039798875455492	2016-03-13T15:33:56	Population size:  1. Facebook 2. China 🇨🇳  3. India 🇮🇳 4. Whatsapp 5. WeChat 6. Instagram 7.  USA 🇺🇸 8. Twitter 9. Indonesia 🇮🇩 10. Snapchat
+aantonop	709509196954226688	2016-03-14T22:39:09	BitcoinPaul cryptocointalk Yup, litigious leeches, in my opinion.
+aantonop	709507522168623104	2016-03-14T22:32:29	cryptocointalk Sunlight is the best disinfectant for parasites.
+aantonop	709506460477054977	2016-03-14T22:28:16	Scamcoins were made by low life scum. Pump, dump, profit pursuit  Now bankers are making scam coins. Here they come all dressed in a suit
+aantonop	709504497467297792	2016-03-14T22:20:28	You didn't coin that, you parasite.  Hide in the shadows, out of sight.  Openness is how we're operating Trolls we sure ain't tolerating
+aantonop	709503598929969152	2016-03-14T22:16:54	If you think that being prevented from using the phrase "The Internet of Money" in relation to your business will harm you, get in touch...
+aantonop	709503449281331200	2016-03-14T22:16:18	Which one of you intrepid Crypto/Ledger journalists is going to write about parasitic patents and trademarks in the blockchain industry?
+aantonop	709498630739132417	2016-03-14T21:57:10	readDanwrite I used it as early as March of 2013 and continuously since. Many others even before that. Thanks for seeking truth.
+aantonop	709498608467337216	2016-03-14T21:57:04	ArthurB Also provides immutability, which can't be done with signing.
+aantonop	709495940223094784	2016-03-14T21:46:28	ArthurB It's much harder than keeping a physical plate secure. It's also much harder to replace if stolen, or to roll out new keys.
+aantonop	709491829293473792	2016-03-14T21:30:08	readDanwrite UpholdInc AnthonyWatson Yep, they sure "appropriated" it from the creative commons. Parasites.
+aantonop	709476712245923840	2016-03-14T20:30:04	iand NoahJS I want to use one of the black dots in that graph
+aantonop	709476109365030912	2016-03-14T20:27:40	Congratulations to ethereum for going into "production" with the release of Homestead.
+aantonop	709444191852609536	2016-03-14T18:20:50	A backdoor is forever
+aantonop	709475493947383808	2016-03-14T20:25:13	Personally, I never liked "Internet of Money" and prefer the term "World Wide Wallet".
+aantonop	709474985769771008	2016-03-14T20:23:12	jmvp415 donaldmcintyre_ Hehe, US-centric bias in cropping and centering of maps.
+aantonop	709451822520508416	2016-03-14T18:51:10	We are there! ethereum reached the homestead block! 
+aantonop	709469729816252416	2016-03-14T20:02:19	What anti-money-laundering laws and crappy copyright laws have in common [ By Joi ]  
+aantonop	709413715746144256	2016-03-14T16:19:44	DNSSEC: We managed to make our elliptic-curve NSEC5 proofs even shorter! (By 128-bits)  Updated paper here: 
+aantonop	709374347862007808	2016-03-14T13:43:18	Look up in the sky: Activists have paid for planes to fly banners stating: ‘Chicago Stands with Laquan, Hillary Stands with Rahm’ all day.
+aantonop	709105013818150912	2016-03-13T19:53:04	Ethereum nodes: 6390 Bitcoin nodes: 7400  Two global, highly secure, open blockchains &lt;- let's change the world! 
+aantonop	709090526847348736	2016-03-13T18:55:30	dandolfa I thought I already followed you David. Fixed now!
+aantonop	709088177466703872	2016-03-13T18:46:10	DarrenMills It doesn't exist. So many barriers to it actually existing. Won't waste time thinking about it.
+aantonop	709088029743325184	2016-03-13T18:45:35	dandolfa I was referring to the puerile telegraph article.
+aantonop	709078979639021568	2016-03-13T18:09:37	Tell me again how central banks beat bitcoin by announcing a superficial clone that is vaporware? Magical wishful thinking.
+aantonop	709035509616648192	2016-03-13T15:16:53	Never judge a man for using predictive text until you have wanked a milf in his shed.
+aantonop	709045443276091392	2016-03-13T15:56:21	Why can't Netflix offer a filter to remove violence from the listing of movies?  Search returned 0 results  Oh.
+aantonop	708414778520244226	2016-03-11T22:10:19	20 years of mobile apps eating the work desk SXSW2016 
+aantonop	709007747040280577	2016-03-13T13:26:34	OMFG. People.  OMFG the video. GOP in 2016 
+aantonop	709034814179975169	2016-03-13T15:14:07	TeringNering TheDailyDecrypt No because an address can be derived from a script (P2SH), instead of a public key  (P2PKH).
+aantonop	708476492674637824	2016-03-12T02:15:33	A description, by Jason Gurney, of ritualized violence against protesters at Oswald Mosley's Fascist rallies. 
+aantonop	709032820081987584	2016-03-13T15:06:12	TeringNering TheDailyDecrypt Address is not synonym for Public Key, it is derived in a one-way function:   Priv. Key -&gt; Pub Key -&gt; Address
+aantonop	708838766555832320	2016-03-13T02:15:06	I wanna buy ETH because BTC isn't a good medium of exchange? Let me get some BTC, as a medium to exchange it for ETH.  QED BTC ETH FTW LOL
+aantonop	708834962682863617	2016-03-13T01:59:59	CryptoWolf64 No, it's a parody account. It's not serious.
+aantonop	708355765434769408	2016-03-11T18:15:49	NSA data to be routinely shared with domestic law enforcement:   We owe Snowden a huge debt for the risks he took.
+aantonop	708831101381439488	2016-03-13T01:44:38	Joi Ito: AML is DRM. Both are misguided, ineffective and force the network to violate neutrality and reduce security 
+aantonop	708830187421634560	2016-03-13T01:41:00	VincentBressler If ETH catches up to bitcoin, it will start to exhibit many of the same governance and scaling problems.  Too early to know
+aantonop	708824275021598720	2016-03-13T01:17:31	lucasmzanella Two billion bank account numbers derived from 12 words, securely. That beats any swiss bank.
+aantonop	708805381494075392	2016-03-13T00:02:26	Lightning Network explained for non-coders, by John Ratcliff and aantonop, with co-hosts S_Murphy_PhD Adam Levine: 
+aantonop	708822787079741444	2016-03-13T01:11:36	No Mr. President, that's not a swiss bank account in my pocket. It's an entire Swiss bank in an app &amp; it's open source, so can't backdoor it
+aantonop	708653003339931648	2016-03-12T13:56:56	Yesterday Prez made it official — he’s fighting the crypto war again. POTUS, pls read this.  
+aantonop	708662994918486016	2016-03-12T14:36:38	Stop changing our clocks!  stopDST Accommodating farmers without electricity by disrupting 2bn circadian clocks? No
+aantonop	708654593396178944	2016-03-12T14:03:15	smartbrain MScDigital You have some of the best questions, for sure!  Thanks
+aantonop	708093286552981505	2016-03-11T00:52:49	xeni Blue Monday is my life's jingle.
+aantonop	708092914778431488	2016-03-11T00:51:21	Listen: New Order's 'Blue Monday' performed with obsolete instruments 
+aantonop	708088833754193920	2016-03-11T00:35:08	"History suggests that open technology always wins over closed-garden approaches."  Bitcoin blockchain
+aantonop	708079575251562496	2016-03-10T23:58:20	DOJ could just nationalize Apple. Take a page from the Putin playbook. The audacity is astonishing. 
+aantonop	708075227935150080	2016-03-10T23:41:04	miami_bitcoin nullc_ To Jool!
+aantonop	708075173698625536	2016-03-10T23:40:51	MatthewZipkin I have reason to believe that the American retail store 7-11 is engaged in illegal prime number activity.
+aantonop	708074389359632384	2016-03-10T23:37:44	nullc_ My Kerbal model says otherwise. Moar rockets.
+aantonop	708073701405646848	2016-03-10T23:35:00	hughlang LilButerin My name is antonopolis, I am the sewer rat of the bitcoin metropolis. I speak in rhymes so fuck da polis.
+aantonop	708073094418538497	2016-03-10T23:32:35	nullc_ I'm a big fan of sidechains already. Together with a block limit increase, SegWit and Lightning, bitcoin will scale up for new apps
+aantonop	708068300257800192	2016-03-10T23:13:32	Anyone have a link to the BIP48 spec (unofficial) used for multisig HD?
+aantonop	708062818881261568	2016-03-10T22:51:45	JamesDueck Winner-takes-all is the model of nationalist flag-money. Bitcoin opened the door to pluralistic money. There will be thousands
+aantonop	708060655736135680	2016-03-10T22:43:10	jptrophardy jaxx_io The confirmed via another account. It is BIP44 and it uses 60' as the cointype indeed.
+aantonop	708057861918621696	2016-03-10T22:32:04	DOJ: It's Apple's fault for making their phones "warrant proof" deliberately.   By "warrant proof" you mean secure? How dare they!
+aantonop	707979900183912453	2016-03-10T17:22:16	jaxx_io Can you confirm the HD derivation scheme you use? Is it BIP44? If yes, do you use m/44'/60'/ ad the ETH cointype?
+aantonop	707925169730297856	2016-03-10T13:44:47	thorjag petertoddbtc Yeah, that makes sense. Should be the root OS, with insecure OS on top.
+aantonop	707716812457123841	2016-03-09T23:56:51	petertoddbtc Instead of existing OS? Inside OS as a VM? Or as a dual-boot? Interested in doing this too...
+aantonop	707676862848356352	2016-03-09T21:18:06	Can Trust-Based Private Blockchains Be Trusted?  Best explanation of &amp; defense of proof of work I've read Bitcoin
+aantonop	707676151687196677	2016-03-09T21:15:17	neiltyson I have a connection who imports it from France where they cut it with minerals. Makes the trip much smoother, but it's expensive
+aantonop	707675375036440576	2016-03-09T21:12:12	I also recreationally consume large quantities of dihydrogen monoxide. On the street, I pay up to $2,000 per megagram for it.
+aantonop	707652769369300992	2016-03-09T19:42:22	How to be a BTC Celebrity Step 9: Get invited to richardbranson's islnd to contemplate really important things like mimosas &amp; cryptography
+aantonop	707576883634954241	2016-03-09T14:40:49	aantonop Andreas Antonopoulos will be in Berlin talking about the future of money on the 29th march! Grab seats now 
+aantonop	707329770502168576	2016-03-08T22:18:53	Biggest meetup in Switzerland so far, 100 people attending, only 20 seats left:  aantonop on the future of money
+aantonop	707345725420482560	2016-03-08T23:22:17	MarkosZach Next to the Tx ID in details, click the (+) sign to open the full TX details including scriptsig and output scripts
+aantonop	707273573207912448	2016-03-08T18:35:35	C_Blockchain Limiting economic inclusion and relegating billions to cash-only local-trade to provide a false sense of security? Bourgeois
+aantonop	707009417825259520	2016-03-08T01:05:55	catsfive gavinandresen Do you have any evidence this is Blockstream action? More likely idiots escalating from rhetoric to network attack
+aantonop	707007834223812609	2016-03-08T00:59:37	vidal007 Many thanks! Would appreciate an Amazon review
+aantonop	706837613856952320	2016-03-07T13:43:14	I knew Mitch when I lived in Brooklyn, he was a friend. Gay-bashers killed him. NYPD too busy frisking ppl for pot 
+aantonop	706611064247455744	2016-03-06T22:43:00	lightlistio Great news. Thank you so much! DM with email
+aantonop	706608237982806017	2016-03-06T22:31:46	lightlistio Thank you for helping!
+aantonop	706608204101218305	2016-03-06T22:31:38	lightlistio Some do, some don't. It will be a lot easier to fix if we can pull the pledges.
+aantonop	706606092583727104	2016-03-06T22:23:15	lightlistio lighthouseprojects.io and we have no copies of the pledges before they went away.
+aantonop	706604996167532544	2016-03-06T22:18:53	lightlistio Details from client attached: 
+aantonop	706604666889502720	2016-03-06T22:17:35	lightlistio Several people pledged through different sources. We need a copy of the signed inputs so we can complete the Tx manually.
+aantonop	706603394216042496	2016-03-06T22:12:31	lightlistio Can you help us recover pledges from a Lighthouse fundraiser? The original site is gone and the project is abandoned
+aantonop	706226973815734277	2016-03-05T21:16:46	Event: Thoughts on the future of money - Andreas M. Antonopoulus | March 30, Zürich  lucas_lclc aantonop
+aantonop	705581326318116864	2016-03-04T02:31:11	Observation: use of the word blockchain as an uncountable noun ("I'm interested in blockchain") is a predictor of technical cluelessness.
+aantonop	705739329558212608	2016-03-04T12:59:02	Join our Bitcoin meetup in Athens on March 26th with aantonop 
+aantonop	704419750357630976	2016-02-29T21:35:30	The first uses of my iOS forensics tools were in terrorism and kidnapping cases. Not long after, cops were using it for girlfriends’ phones.
+aantonop	704310502382555136	2016-02-29T14:21:23	On March 30, aantonop will talk at our Bitcoin Meetup in Zurich:  no entry fee
+aantonop	703803744043945985	2016-02-28T04:47:43	Zedux joyce politico rogerkver 
+aantonop	703733273504018432	2016-02-28T00:07:41	2016: a choice between Donald Trump and Goldman Sachs.
+aantonop	703709014094254081	2016-02-27T22:31:17	Tom_Horvath Fascism is the collusion of nationalism and corporate interests against human rights and individual self-determination
+aantonop	703678189017681920	2016-02-27T20:28:48	oggybogy I'm no Clinton fan. We're still in the primaries though and Trump is a true american fascist, scary how successful fascism is.
+aantonop	703668687400792064	2016-02-27T19:51:03	Fascists for Trump (TM).   Sinclair Lewis was an optimist. 
+aantonop	703580385070882816	2016-02-27T14:00:10	Forced decryption in a nutshell  
+aantonop	703587915834626048	2016-02-27T14:30:05	HamishMacEwan GitKilbert The 5th is more than self-incrimination. Read it. It's also substantive due process which Apple is deprived
+aantonop	703424813419798528	2016-02-27T03:41:59	paleotreats He will be very pleased by this comment, I will tell him when I see him next month in Athens.
+aantonop	703296870521528320	2016-02-26T19:13:35	Trump on Amazon: "If I become president, oh do they have problems. They're going to have such problems". • AMZN 
+aantonop	703422909696446464	2016-02-27T03:34:25	So there are three branches of government, m-kay? You're running for the OTHER one, m-kay? 
+aantonop	703399731339378688	2016-02-27T02:02:19	bitxbitxbitcoin coolbearcjs yup. thanks
+aantonop	703393600084770816	2016-02-27T01:37:57	My mind blown by two Bitcoin developments presented today.    
+aantonop	703361987456032768	2016-02-26T23:32:20	Venmo kills off developer API without warning:   thisiswhybitcoin
+aantonop	703334028200517632	2016-02-26T21:41:14	Announcing the first successful Zero-Knowledge Contingent Payment (ZKCP) on the Bitcoin network 
+aantonop	703304686045175808	2016-02-26T19:44:38	Peter Todd: "Whomever is DoS attacking f2pool please stop. You're only making it harder to come to consensus - … 
+aantonop	703305897217495040	2016-02-26T19:49:27	KidyLee Fixed the link! Thanks for the advice. I learned more about the Chinese language.   谢谢
+aantonop	703301979561467905	2016-02-26T19:33:53	KidyLee Will update the link text,  thanks
+aantonop	703301674278985729	2016-02-26T19:32:40	KidyLee Sorry for my ignorance
+aantonop	703281724604592129	2016-02-26T18:13:24	lopp Today on our MOOC session, I mentioned  as a very useful site for statistics. My students loved it!
+aantonop	703253648541769729	2016-02-26T16:21:50	Join us today for the 2nd live session of MOOCDC with aantonop at 1200EST, 1700GMT, 1900EET byzantine generals problem bitcoin crypto
+aantonop	703031216442732544	2016-02-26T01:37:58	You don't need to chant "USA!" after the National Anthem because you JUST HEARD THE NATIONAL ANTHEM FER CHRISSAKES. GOPDebate
+aantonop	703029808385662976	2016-02-26T01:32:22	It's so much fun when you make a casual comment on twitter and it becomes 3-4 reddit threads with 800 comments full of trolls. /s
+aantonop	703027112261914624	2016-02-26T01:21:39	brian_armstrong I think the first time I showed ID on coinbase was so long ago (the week you opened) that the system didn't keep it.
+aantonop	703026930006761472	2016-02-26T01:20:56	brian_armstrong That's a great article. I always used Coinbase only as an exchange, so I was not surprised by the regulatory burden
+aantonop	702968093694402560	2016-02-25T21:27:08	Apple's response to the court, as a PDF:  
+aantonop	702964069628772353	2016-02-25T21:11:09	FBI director says Apple case is not about setting precedent. 
+aantonop	702959482633129988	2016-02-25T20:52:55	I am delighted to announce Mastering Bitcoin in Chinese (Mandarin) is now available free on 
+aantonop	702957330065821696	2016-02-25T20:44:22	KidyLee Thank you!
+aantonop	702947130210717697	2016-02-25T20:03:50	dltk I understand that most people have no clue what LN is or who invented it. Sad really
+aantonop	702946969497501703	2016-02-25T20:03:12	dltk Blockstream are not its creators. Ignorance driving animosity
+aantonop	702943475906584576	2016-02-25T19:49:19	aantonop Did you aware that your book already fully translated into Chinese? Check it out: 
+aantonop	702946726496354304	2016-02-25T20:02:14	KidyLee Is there a PDF available that I can download and put on my site?
+aantonop	702946275117953026	2016-02-25T20:00:26	When I travel (which is a lot) I use a keepgo SIM &amp; get data in 60+ countries. Discount for you,  data for me: 
+aantonop	702884762927685632	2016-02-25T15:56:01	A Canadian is a Canadian - and today we're repealing parts of the Citizenship Act brought in by the last government: 
+aantonop	702734187560710144	2016-02-25T05:57:41	You plebs understand that the MOMENT we get that signed malware from apple, we're going to use it to shell EVERYONE, right?
+aantonop	702734777351278592	2016-02-25T06:00:01	odaraia Privacy is protected by law. The problem is that in the US the rule of law itself has weakened substantially over the last 15 years
+aantonop	702729978132172801	2016-02-25T05:40:57	xeni Don't worry. There's a reason they're getting desperate - we're winning. Millions of devices with unbreakable strong crypto.
+aantonop	702729658232659968	2016-02-25T05:39:41	xeni Fear Begat Insecurity but I live in the home of the brave. Try harder, I'm not easily scared.
+aantonop	702720895006089216	2016-02-25T05:04:51	diggadugger My mistake. German is only 3% done. Help the volunteers!  
+aantonop	702716026484461568	2016-02-25T04:45:31	kristovatlas Somehow the two get weirdly conflated.
+aantonop	702715909777936384	2016-02-25T04:45:03	kyuupichan I think it can stand on its own. It's not a "Blockstream" technology. They're just one of the teams working on it.
+aantonop	702715750335782912	2016-02-25T04:44:25	kristovatlas No doubt. But that doesn't explain the animosity towards a promising innovation.
+aantonop	702711382592978944	2016-02-25T04:27:04	aantonop Я очень рад объявить, что русский перевод "Mastering Bitcoin" выполнен уже на 85% и доступен бесплатно на 
+aantonop	702707805606772737	2016-02-25T04:12:51	El libro "Mastering Bitcoin" de Andreas Antonopoulos aantonop está disponble en español! Pasen la voz, hispanos! 
+aantonop	702706319434739713	2016-02-25T04:06:56	BlockChannel For the translations, . For the English version, Amazon or 
+aantonop	702706120956088320	2016-02-25T04:06:09	ecaverog Ooh, I missed that. My bad. Yes, spanish is 100% done
+aantonop	702703785353678848	2016-02-25T03:56:52	Please help me announce the Russian translation of Mastering Bitcoin, by translating this tweet into Russian: 
+aantonop	702703344549101568	2016-02-25T03:55:07	Mastering Bitcoin is now available for free in 9 languages: HU, JA, EL, ITA, DE, PT_BR, FR and RU at   Spread it
+aantonop	702702094252318721	2016-02-25T03:50:09	Very excited to announce the Russian translation of "Mastering Bitcoin" has reached 85% and is available for free at 
+aantonop	702700424193675264	2016-02-25T03:43:31	Just introduced to Coinbase's new identity verification policies. After 4 years. "Andreas Who? Papers Please!".  That's Classic ;-)
+aantonop	702044075399192576	2016-02-23T08:15:25	Rezension: Mastering Bitcoin  t3see 
+aantonop	702547934936702976	2016-02-24T17:37:35	Mastering Bitcoin Libro Gratis de Bitcoin de Andreas M Antonopoulos:  via YouTube
+aantonop	702629146115969025	2016-02-24T23:00:17	昨夜書いた、Mastering Bitcoinをオススメするエントリです＞Mastering Bitcoin（日本語訳 PDF）を読んで解決した疑問点、しなかった疑問点 - 無印吉澤  
+aantonop	702692095228661760	2016-02-25T03:10:25	Steven_McKie ethereumproject BittrexExchange BlockChannel Shapeshift.io
+aantonop	702691848209326080	2016-02-25T03:09:26	technocrypto Very good point. Of course, that increases the value of the public ledger and requires more security to back it.
+aantonop	702691094333501440	2016-02-25T03:06:26	linhares Yet. That's hardly a reason for animosity, paranoia and conspiracies. That's a reason to keep working. The design allows routing
+aantonop	702689498442825729	2016-02-25T03:00:06	dlaregbtc Not fair. Has nothing to do with LN. That's guilt by association. LN is a solution to scaling, not exclusive of other solutions
+aantonop	702688226864009216	2016-02-25T02:55:03	We all have an interest in privacy. It's a human right, not a perk.  
+aantonop	702685467230081024	2016-02-25T02:44:05	dlaregbtc That doesn't even make sense.
+aantonop	702676301090394112	2016-02-25T02:07:39	rezendi Oh yes! It's "Blockstream's LN", a plan to collect fees in a layer above by making bitcoin untenable. It's fact-free paranoia.
+aantonop	702675623248945152	2016-02-25T02:04:58	I don't get all the animosity and conspiracy around Lightning Network. I think it's really amazing innovation &amp; a great solution to scaling
+aantonop	702578856461467651	2016-02-24T19:40:27	BraveTheWorld Yep. Only 10x worse because of numbers.
+aantonop	702574360989720576	2016-02-24T19:22:35	Enough attention on the fakers and the opportunists. Blocked. Moving on
+aantonop	702569448360771584	2016-02-24T19:03:04	For the record, I am not affiliated with AZChamberDig. I have asked them to remove mention of my name.
+aantonop	702568602323566592	2016-02-24T18:59:42	.AZChamberDig I'm glad you like my work. "Honorary member" gives the illusion of affiliation and I do not appreciate that.
+aantonop	702566411546333184	2016-02-24T18:51:00	AZChamberDig No, synergy with the legacy banking system is neither needed, nor desirable. No permission, no accommodation.
+aantonop	702564653709332480	2016-02-24T18:44:01	AZChamberDig Also, I don't use my reputation to endorse companies, products or organizations. I would decline even if we agreed on goals
+aantonop	702564329309261824	2016-02-24T18:42:43	AZChamberDig A Fedcoin and supporting R3 are definitely not among them. My goals are empowering individuals, especially the other 6 billion
+aantonop	702554727133929472	2016-02-24T18:04:34	AZChamberDig No thank you. I'm not interested in the "AZ Chamber of Digital Commerce" and its goals are not in alignment with mine.
+aantonop	702332392132837377	2016-02-24T03:21:05	Apple going to use a 1st amdt. defense against compelled speech, as I expected. A very strong argument:  
+aantonop	702309363638259712	2016-02-24T01:49:35	I'm loving the term Proof-of-Authority that was self-applied by bank chains. It tells you everything that is wrong in a single word.
+aantonop	702308681938026496	2016-02-24T01:46:52	TheJamesDWilson Not backed by PoW at all. Closed consensus systems based on round-robin signing.
+aantonop	702308515222835200	2016-02-24T01:46:12	brianchoffman junseth derosetech Not quite. Git doesn't require proof-of-work in the chain
+aantonop	702307516739428353	2016-02-24T01:42:14	Most of the blockchain stuff being sold to banks is insecure snake-oil, not very different from the pump-and-dump altcoins of 2013-14
+aantonop	702306423418576897	2016-02-24T01:37:54	mwilcox Immutability. You can't fake proof-of-work. PoA doesn't have any immutable characteristics.
+aantonop	702300988275859457	2016-02-24T01:16:18	mwilcox The issue is whether the chain uses Proof-of-Work or some round-robin signing (Proof-of-Authority). PoA isn't immutable, PoW is.
+aantonop	702291021145755648	2016-02-24T00:36:42	One of the most important attributes of bitcoin's blockchain is immutability.   Permissioned ledgers are not immutable.
+aantonop	702279320203608064	2016-02-23T23:50:12	CoinSciences No it's not the same. A mining pool can't rewrite blocks in the past without proof-of-work. A proof-of-authority ledger can
+aantonop	702230884712390660	2016-02-23T20:37:44	Compelled developer signing of exploit code has WAY broader implications than “privacy”—it’s about cybersecurity more broadly.
+aantonop	702178631599177728	2016-02-23T17:10:06	Remember this is the same FBI that spied on MLK and recently used Stingrays to spy on cellphones without warrants across the US.
+aantonop	702173912449286144	2016-02-23T16:51:21	Obama sends plan to close Guantanamo Bay to Congress  
+aantonop	702151786442924035	2016-02-23T15:23:25	My latest for reason: FBI v. Apple could serve as a pretext to legislate crypto backdoors  
+aantonop	702150732104015872	2016-02-23T15:19:14	comcoev Blockchains without Proof-of-Work or currency are no longer immutable, neutral, or easy to secure
+aantonop	701983531761856512	2016-02-23T04:14:50	
+aantonop	701974470299402241	2016-02-23T03:38:50	Characteristically evenhanded analysis of the state of Bitcoin &amp; blockchain from Joi:  (A master consensus builder.)
+aantonop	701966185085194240	2016-02-23T03:05:55	xeni Huge fan of yours. Glad you liked the interview with Mark
+aantonop	701955035761139712	2016-02-23T02:21:36	FBI’s “narrow” focus v. Apple is baloney, and law-enforcement agencies around the country know it 
+aantonop	701881168279408640	2016-02-22T21:28:05	I wonder if Google is very intentionally trying to get people off their system. Voluntary canary. Nah. 
+aantonop	701925959465877504	2016-02-23T00:26:04	The encryption debate will continue, until it moves from being:  rights vs powers  to being:  capability vs impotence
+aantonop	701925047632535552	2016-02-23T00:22:27	Blockchains far beyond currency - Yes, you understand correctly Blockchains without currency - No, you misunderstood blockchains
+aantonop	701856787721400321	2016-02-22T19:51:12	getsignal  
+aantonop	701839055806332929	2016-02-22T18:40:45	The Manhattan DA has plans if the FBI wins v Apple. That is one heck of a reason that the world needs Apple to win. 
+aantonop	701855082254565376	2016-02-22T19:44:26	tallystick There's always a case that makes people afraid and willing to sacrifice their rights and give power to govt. It never ends.
+aantonop	701854696940634112	2016-02-22T19:42:54	tallystick normative The US constitution limits government. The limits are important, regardless of one case. It's not about the one case
+aantonop	701853687820451840	2016-02-22T19:38:53	tallystick normative Like what? Violate the constitution? Surveillance of everyone against the law? Been there, done that. I'm with Apple
+aantonop	701852676674494465	2016-02-22T19:34:52	tallystick normative Apple is defending the rights of a billion customers. That's the right approach and the right scope.
+aantonop	701851465548173312	2016-02-22T19:30:03	tallystick normative They dont want the phone or the data. They want the precedent of compelling Apple to hack their own customer security
+aantonop	701848719998763008	2016-02-22T19:19:09	post by Joi  "If you're serious about security &amp; stability - &amp; you should be --Bitcoin is almost the only choice"  
+aantonop	701834209200099328	2016-02-22T18:21:29	And I'd wager most of the polled think this is somehow about protecting a dead terrorist's "privacy" rather than the actual issues.
+aantonop	701834345409961984	2016-02-22T18:22:02	Age is a huge factor in that survey. Young people *do* believe in privacy. Older people prefer government be able to investigate.
+aantonop	701804735125303296	2016-02-22T16:24:22	mirraxFTC I'll be happy to meet you and if you want, take a photo with you. See you in Prague!
+aantonop	701799469243740161	2016-02-22T16:03:26	Prague Bitcoin Meetup at Paralelni Polis announced:  
+aantonop	701772032476712961	2016-02-22T14:14:25	DaMagN SamHarris Sure, please have them reach out to me by DM.
+aantonop	701586953611800577	2016-02-22T01:58:59	_drgo JohnKitzmiller TSA's job is to stage security theater for-profit. Now, pretending to be cops too, without need for warrants. Cute.
+aantonop	701544633055236096	2016-02-21T23:10:49	"Mexicans are rapists! Ban Muslims!"  "He's quite an entertainer."  "Fuck the press!"  "Well now he's gone too far." 
+aantonop	701530916087267328	2016-02-21T22:16:18	tedlieu hendry118 Crosscutters are a terrorist tool. Why do you hate America, FellowesInc ?
+aantonop	701465947526172672	2016-02-21T17:58:09	Can FBI force paper shredder company to alter its product to make thicker shreds so FBI can recreate shredded docs? FBIvsApple Apple
+aantonop	701529830219759617	2016-02-21T22:11:59	JohnKitzmiller rogersherman TSA If you need help, JasonLeopold might be interested ;-)
+aantonop	701529653618540544	2016-02-21T22:11:17	JohnKitzmiller rogersherman TSA File a FOIA request for information on the specific incident and any policy guidelines regarding bitcoin
+aantonop	701516628991684609	2016-02-21T21:19:32	JohnKitzmiller tsa Under what authority? Cash instruments &gt;$10k cannot be carried across borders. But internally in the US? Lawsuit!
+aantonop	701501265491140608	2016-02-21T20:18:29	.tsa agents at PHL took my property out of my sight, claimed they "saw bitcoins" in my bag and needed to count how much I had.
+aantonop	701511608741179392	2016-02-21T20:59:35	TSA can't locate weapons 95%+ of the time, but god forbid you have a Bitcoin t-shirt:  idiots
+aantonop	701474423489097730	2016-02-21T18:31:49	Reminder: While the FBI is slamming Apple for building too much encryption into its iPhones, the agency still isn't encrypting its emails.
+aantonop	701466500717109249	2016-02-21T18:00:21	Three-prong test of All Writs Act: 3rd test is whether only Apple can fulfill this writ. Yet FBI's negligence created this burden on Apple
+aantonop	701424727248793600	2016-02-21T15:14:21	sovereignmonkey WIRED ProTipHQ All of same-domain elements are whitelisted. Still won't let me read. I have to open 20+ random sites
+aantonop	701424299018690560	2016-02-21T15:12:39	ladirittavia  has a donate page. Thank you !
+aantonop	701243593642549250	2016-02-21T03:14:35	jcr_2222 theonevortex brian_armstrong manusporny Bitcoin is becoming the defacto currency of the Internet. Defacto first standard later
+aantonop	701231778615267329	2016-02-21T02:27:38	theonevortex brian_armstrong It's a move in the right direction. Whether it is good enough or timely, is another issue. Let's see actions
+aantonop	701229227299868673	2016-02-21T02:17:30	I'm glad there's more clarity on the Core roadmap regarding HF timing. Waiting for official writeup. Much closer now to moving past this
+aantonop	701106968304308224	2016-02-20T18:11:41	Perfect. 
+aantonop	700889669022720001	2016-02-20T03:48:13	kashhill csoghoian joshgerstein politico Damaging one of the world's most valuable brands sounds like a "burden" imposed by writ. Huh...
+aantonop	700823383961792512	2016-02-19T23:24:50	Journalists: Crucial details in the FBI v. Apple case are being obscured by officials. Skepticism here is fair: 
+aantonop	700888218426810368	2016-02-20T03:42:27	CosmosisG netik csoghoian Privacy works best when it is strong, everywhere,  always on and by default.
+aantonop	700824225855045633	2016-02-19T23:28:10	"Privacy is dead" is an argument that people in power make to convince you to stop resisting their efforts to kill it.
+aantonop	700836547176706048	2016-02-20T00:17:08	Call on Twitter to encrypt DMs, now.  
+aantonop	700845174994423808	2016-02-20T00:51:25	RaUL_AMDERLAINE So they're saying that this will impact Apple's brand. That sounds "burdensome". Oops. ;-)
+aantonop	700843752244568064	2016-02-20T00:45:46	Apples has an even stronger 1st Amendment defense against "compelled speech": 
+aantonop	700738698481160192	2016-02-19T17:48:19	johnhenderson For now,  perhaps.  But anonymity is getting stronger and easier. Eventually will be default,  I hope
+aantonop	700721986293604352	2016-02-19T16:41:54	johnhenderson gronager chainalysis PointNineCap Much much longer. In fact, it's going to get stronger over time.
+aantonop	700532366440329216	2016-02-19T04:08:26	_hoyet Yeah and I've been doing this long enough to know you don't give permission to any included ad-banner to run JS. Or you get hacked.
+aantonop	700490471378972674	2016-02-19T01:21:57	If WIRED can't be bothered to separate advertising from 25+ Javascript and cookie trackers, I can separate myself from them. Too expensive
+aantonop	700488492435038208	2016-02-19T01:14:05	WIRED just stopped me from reading unless I whitelist all their JS and cookie trackers. DENIED. I'm no longer reading WIRED, after 15+ yrs
+aantonop	700484937250639872	2016-02-19T00:59:58	JeremieGuelat lcheylus Yes please!  Volunteers register at:  
+aantonop	699811046278742016	2016-02-17T04:22:09	If nothing else, the Apple All Writs order underscores a basic security principle: design your systems so even you can't attack them.
+aantonop	700067521852878848	2016-02-17T21:21:18	bitcoinbaltics I am speaking in Sao Paolo Brazil on April 8th, unfortunately. I usually need at least 3 months notice to schedule events.
+aantonop	700018279297982464	2016-02-17T18:05:38	M_Gauche Maybe the US govt isn't, but I can say with confidence that many are. Currency controls don't work if you can switch currency
+aantonop	700018142140088320	2016-02-17T18:05:05	Government overreach is pushing tech companies to the only solution: They must build hardware security even they can't break such as A7/iOS8
+aantonop	700003997646610434	2016-02-17T17:08:53	Apple does a good thing. We should not allow backdoors. 
+aantonop	699999733994094592	2016-02-17T16:51:56	dav917 More important is action in court. A strong precedent setting decision that puts a stop to the government overreach is needed.
+aantonop	699998928914272256	2016-02-17T16:48:44	BitPay github OK,  thanks!
+aantonop	699971759068487681	2016-02-17T15:00:46	spair BitPay Is there a support channel for Insight?
+aantonop	699971716370423809	2016-02-17T15:00:36	spair BitPay I followed the instructions on the insight-ui github and the node spins up and listens on 3001. But GET /insight fails.
+aantonop	699778710027657216	2016-02-17T02:13:40	Oops. Turns out if it is done right, there is no "SIF" to undo it.  
+aantonop	699778196997144576	2016-02-17T02:11:38	"To the extent that Apple believes that compliance with this Order would be unreasonably burdensome it may make an application to the Court"
+aantonop	699777421671845888	2016-02-17T02:08:33	shiruken I can't violate causality because I killed my grandfather using a time machine and therefore do not exist.
+aantonop	699777257619877890	2016-02-17T02:07:54	Techdirt has some real and interesting analysis of the order served to Apple:  
+aantonop	699777072567230465	2016-02-17T02:07:09	d3rrial Actually, they are asking for software to undo the PIN brute force lockout and wipe. Apple'll fight it I guess. I'm just parodying
+aantonop	699776286709821441	2016-02-17T02:04:02	It is hereby ordered that Apple shall solve P=NP, prime factoring and any other math problems preventing the FBI from breaking crypto.  LOL
+aantonop	699773719481155585	2016-02-17T01:53:50	Is bitpay still supporting insight server? I can't get v3.0.1 to work. Anyone able to help?
+aantonop	699765963848228865	2016-02-17T01:23:01	_codacoin Thank you for buying it! I would appreciate a review on Amazon once you're done reading it.
+aantonop	699765169149194240	2016-02-17T01:19:51	MillyBitcoin I bring more people to bitcoin in a week than you have in 7 years. Go troll someone else. Blocked.
+aantonop	699763655382929408	2016-02-17T01:13:51	Jeb, like his brother, cynically exploiting the sacrifices and patriotism of others to promote his own enrichment. Armchair warriors. Coward
+aantonop	699762709487685632	2016-02-17T01:10:05	MillyBitcoin How noble of you. Perhaps we have different opinions of what is nonsense and what is truth. Can you live with that and let be?
+aantonop	699758887608582146	2016-02-17T00:54:54	MillyBitcoin How about I link my stuff to what I want and you do whatever it is you do. I certainly don't worry about what you say or do
+aantonop	699754994724007936	2016-02-17T00:39:26	MillyBitcoin It's a cultist rant. Don't concern yourself.
+aantonop	699754856433655808	2016-02-17T00:38:53	Civics 101 
+aantonop	699642421655814144	2016-02-16T17:12:06	What stops the signers in a permissioned ledger from merging until there's only one signer? Nothing. 32 banks to 4 in 20 years. Do the math
+aantonop	699641622926118912	2016-02-16T17:08:56	Clevelandlawyer Real criminals have banking licenses and would benefit from banning cash. The poor, immigrants and disadvantaged suffer
+aantonop	699635547246039040	2016-02-16T16:44:47	Hey bitgo, your login page is lagging 30-60 seconds, which is messing up the 2FA
+aantonop	699616898187710465	2016-02-16T15:30:41	McTeeth coolgc That's why bitcoin is a solution. We fired the banker.
+aantonop	699614818693685248	2016-02-16T15:22:25	DJWESG ProletariatWISH That's not true. We live in a golden era of cryptography. It will only get better
+aantonop	699614523884494849	2016-02-16T15:21:15	DJWESG ProletariatWISH It doesn't matter who invented it. It opened the door to truly anonymous and untraceable payments.
+aantonop	699613987147751424	2016-02-16T15:19:07	DJWESG ProletariatWISH Cash was ending whether bitcoin or not. Bitcoin &amp; other decentralized currencies are building strong privacy
+aantonop	699611465003765760	2016-02-16T15:09:06	Take bitcoin and remove the open access, decentralized control, permissionless innovation, borderless nature, and you get...  brokechain
+aantonop	699610460279197697	2016-02-16T15:05:06	Government say they are worried that criminals will use bitcoin.  In truth, they are terrified that all the rest of us will.
+aantonop	699609538039779328	2016-02-16T15:01:26	The nation state's dream of 100% control and surveillance over all money flows started in the 70s. It ended on January 3rd 2009.   bitcoin
+aantonop	699608876136730624	2016-02-16T14:58:48	CadeMetz follow for DM please
+aantonop	699608763486097408	2016-02-16T14:58:21	The future is all-digital money: State-surveilled money or Open, borderless digital money (bitcoin)  Go ahead, ban cash, see what happens
+aantonop	699608153399422976	2016-02-16T14:55:56	Negative interest rates Efforts to ban cash Mobile growth Capital controls Currency wars  I couldn't dream of more bullish case for bitcoin
+aantonop	699608242050232320	2016-02-16T14:56:17	CadeMetz If you want a slightly different opinion on the banks embracing "blockchain", let me know. There's a big gap in that message
+aantonop	699446233056862208	2016-02-16T04:12:31	US military is the world’s biggest oil consumer &amp; polluter - yet it's shielded from nearly all pollution regulation: 
+aantonop	699442618107830276	2016-02-16T03:58:09	@landofscala 
+aantonop	697755766275629056	2016-02-11T12:15:13	Livre OReilly "Mastering Bitcoin" en cours de traduction en français 
+aantonop	699350771226247168	2016-02-15T21:53:11	To βιβλίο του Ανδρέα Αντωνόπουλου 'Mastering Bitcoin' διαθέσιμο στα Ελληνικά -  
+aantonop	699425062479339520	2016-02-16T02:48:24	internaut42 gavinandresen Yup, the /r/btc community promptly ignored everything and provided weak excuses to continue attacks. Shameful
+aantonop	699421715206684672	2016-02-16T02:35:06	Gavin's message to /r/btc and supporters of Classic, is classy and mature:  
+aantonop	699259673120145408	2016-02-15T15:51:12	.Philsabang No, the troll did a video pretending to be distraught about it. It's nauseating. Backpfeifengesicht
+aantonop	699259367158259712	2016-02-15T15:49:59	WorldCryptoNet Speaking of which, when should I come back?
+aantonop	699249507872051200	2016-02-15T15:10:48	Here's a nuanced, well argued and well supported legal argument about FinCEN and hard forks. Unlike the other one:  
+aantonop	699249192854622210	2016-02-15T15:09:33	Shkreli is trolling bitcoin, hard. Stop feeding this troll. There's no transaction, it's all a self-agrandazing hoax
+aantonop	699248496352694272	2016-02-15T15:06:47	It's too bad Coin Center has to spend valuable time knocking down bullshit FUD, but I guess somebody's gotta do it. 
+aantonop	699164796504117248	2016-02-15T09:34:11	We're excited to announce that aantonop will be special guest at Prague Bitcoin Meetup 22/3 at Paralelni_polis . 
+aantonop	699092783085170688	2016-02-15T04:48:02	fanfare100 chdimosthenis My Greek is rusty enough that I can't do a technical translation like this. Fortunately, Dimos could and did.
+aantonop	698983629284732928	2016-02-14T21:34:18	chapperdychap Ah, excellent. I'm glad you enjoyed it. Thanks for the support
+aantonop	698979822693806080	2016-02-14T21:19:10	chapperdychap Which video was that?
+aantonop	698967551045283841	2016-02-14T20:30:25	pbaril Yes, download Spanish translation of Mastering Bitcoin, for free, here:  
+aantonop	698952154313314304	2016-02-14T19:29:14	Dear Strict Constructionists:  Can't find "lame duck" in Constitution; surely if it didn't exist in 1789 we shouldn't use it now?
+aantonop	698952204326035458	2016-02-14T19:29:26	I am delighted to announce the translation of Mastering Bitcoin into GREEK  Thanks to chdimosthenis  Download free: 
+aantonop	698884147092131840	2016-02-14T14:58:59	O'Reilly Media is having a 50% off ebook sale for programming books (including Mastering Bitcoin):  
+aantonop	698672243237330944	2016-02-14T00:56:58	First they came for the Bitcoin Classic developers, and I did not speak out— Because I was a "Core supporter."
+aantonop	698615127797436416	2016-02-13T21:10:00	Verifying that +aantonop is my blockchain ID. 
+aantonop	698604104168448001	2016-02-13T20:26:12	Payment channels allowing for off-chain trustless nanopayments released for 21dotco API. A CLTV implementation: 
+aantonop	698545269839888388	2016-02-13T16:32:25	pamelawjd It was politics dressed up as legal writing.  Cherry picked one side, forgot liability to other side.  Plonk.
+aantonop	698547146988089345	2016-02-13T16:39:52	Don't mention me in your tirade against Core devs or Classic devs and expect encouragement. I will denounce personal attacks and rhetoric
+aantonop	698546465589895169	2016-02-13T16:37:10	@BraneFewl Even less credible when you pair your rhetoric with advertising for another system.
+aantonop	698546263470514176	2016-02-13T16:36:22	@BraneFewl Rhetoric on both sides, unworthy of the serious debate. Trivializing the issue and pouring fuel on the argument isn't helpful
+aantonop	698544429364350976	2016-02-13T16:29:04	Any headline that has a sensational question can be answered with "No".  "Is the Looming Hard Fork Illegal?"...NO.  Piss poor "journamalism"
+aantonop	698543137246076928	2016-02-13T16:23:56	Weak legal arguments, wrong on tech, heavy on sensationalism. Don't freak out bitcoin, it's not even worth a read. 
+aantonop	698542662413115392	2016-02-13T16:22:03	@BraneFewl Because there's nothing easy about in-flight upgrades to a $6 billion system. Armchair critics think it's easy, but it's not.
+aantonop	698537037713039361	2016-02-13T15:59:42	BronxR Let's try and tone down the rhetoric please.
+aantonop	698327176878272512	2016-02-13T02:05:47	ecaverog They collect Tx fees. It's not a big incentive for now, but it's growing.
+aantonop	698306220617244677	2016-02-13T00:42:31	luismoflo openbazaar Just download and run. Releases for different OSs are on github.
+aantonop	698304615088001025	2016-02-13T00:36:08	Enjoying the openbazaar beta, trying out a simple store for digital goods. This is going to be big...
+aantonop	698288667538931713	2016-02-12T23:32:46	kristovatlas BraveTheWorld Same people would be nitpicking the argument otherwise. Bias is showing.
+aantonop	698288490409238528	2016-02-12T23:32:04	kristovatlas BraveTheWorld The response to this has been schadenfreude because it was seen as a problem only for Classic devs.
+aantonop	698270559893897216	2016-02-12T22:20:49	BraveTheWorld kristovatlas Not really. The foundational assumption is weak and it builds a sandcastle on top. It's not well reasoned
+aantonop	698233702694920192	2016-02-12T19:54:21	BitcoinHatesYou taoeffect coinbase brian_armstrong Stop with the personal attacks.
+aantonop	698224342770049026	2016-02-12T19:17:10	mashuribc aantonop That PR isn’t OP_CSV, it’s the equivalent of nLockTime enforcement for sequence #. This is CSV: 
+aantonop	698202517398630401	2016-02-12T17:50:26	BIP 68 (OP_CSV) just got merged. Next is Segregated Witness. Then the foundation for Lightning will be set. 
+aantonop	698163952707051520	2016-02-12T15:17:12	kashhill Really interesting stories lately. Nice work! (the cell tower bermuda triangle and the iowa caucus location tracking)
+aantonop	698162322733457409	2016-02-12T15:10:43	If this doesn't demonstrate that ad tracking has gotten dangerously out of control, I don't know what will. 
+aantonop	698160044693708800	2016-02-12T15:01:40	matthew_d_green ncardozo Isn't  forcing developers to create specific features "compelled speech"?
+aantonop	698141232615153664	2016-02-12T13:46:55	This guy thinks new Bitcoin hard forks like Classic etc. are illegal unless they include AML features.  cc ncardozo
+aantonop	697989191578202113	2016-02-12T03:42:45	MBoudet Not at all. I find Ethereum fascinating and it has a very interesting niche to fill. Whether it can succeed is a whole other q
+aantonop	697989001345499138	2016-02-12T03:42:00	PolyParadyme Step up and take over, then. Lots of meetups flopped and had to be revived by new leaders.
+aantonop	697988789180850176	2016-02-12T03:41:10	MBoudet Small base, little volume = big moves. Works on the downside too through. I'd be cautious with this volatility.
+aantonop	697988513036263425	2016-02-12T03:40:04	PolyParadyme I would love to come to Seattle. Haven't been in a while and I have friends there. Maybe the local meetup can host me...
+aantonop	697988372896178176	2016-02-12T03:39:30	MBoudet Wasn't really paying attention to the price, just noticed.
+aantonop	697981563905048577	2016-02-12T03:12:27	lockwoodgary85 Very interested and have played with the Frontier code and writing some contracts.
+aantonop	697980756501536768	2016-02-12T03:09:14	Crypto is worldwide and can't be stopped (kinda like bitcoin)  
+aantonop	697980282222215168	2016-02-12T03:07:21	@nikhilmohan7 No these are all local bitcoin meetups where I will speak and meet people
+aantonop	697975067867746305	2016-02-12T02:46:38	.TheBlueMatt calls for civility and appreciation of the near-consensus: "How Bitcoin Moves Forward"  — Hear, hear.
+aantonop	697963319747981314	2016-02-12T01:59:57	exiledsurfer So you can take a train to any one of those cities and come see me. Would love to meet up!
+aantonop	697962733312933888	2016-02-12T01:57:37	Recap - Upcoming events Mar 22 - Prague Mar 24 - Barcelona Mar 29 - Berlin Mar 30 - Zurich
+aantonop	697961641661468673	2016-02-12T01:53:17	Confirmed:  Prague Bitcoin Meetup, March 22nd
+aantonop	697914750060011520	2016-02-11T22:46:57	Confirmed:   Berlin Bitcoin Meetup, March 29th  Talk, meetup and book signing.
+aantonop	697910826829631488	2016-02-11T22:31:22	Confirmed:  Barcelona Bitcoin Meetup, March 24th  Talk, meetup and book signing event
+aantonop	697910698462957569	2016-02-11T22:30:51	Confirmed:  Zurich Bitcoin Meetup March 30th
+aantonop	697904614545338368	2016-02-11T22:06:41	colingplatt Not this time. I've done events in London frequently. Perhaps later in the spring or summer. Always good to visit London
+aantonop	697902185879744512	2016-02-11T21:57:02	Looks like I will get to visit 5 cities in Europe in March. Standby for details. Very excited!
+aantonop	697840985271742464	2016-02-11T17:53:50	Gravitational waves confirmed. What a time to be alive. Science is so cool.  (I'm such a nerd)
+aantonop	697814611693850624	2016-02-11T16:09:02	Bonus Tatiana show w/ Josh of Vaultoro at 11:30am EST today with special guest aantonop &gt;  
+aantonop	697618005413466114	2016-02-11T03:07:48	coindesk Concern trolling again? Come on, you can do better than that.
+aantonop	697596522213543936	2016-02-11T01:42:26	.aantonop "Here's your centralized non-proof-of-work blockchain sir... We call it BankSQL... Just don't turn off this server."
+aantonop	697594869544525824	2016-02-11T01:35:52	An oldie but goodie, video post on my youtube channel:  
+aantonop	697593152916602880	2016-02-11T01:29:02	I miss the time when altcoins were just worthless scams rather than projects sponsored by giant international banks. Oh wait...
+aantonop	697590509343240193	2016-02-11T01:18:32	"Distributed Ledger" 
+aantonop	697579948043796480	2016-02-11T00:36:34	bitcoinist thebancorp ... and that's a feature, not a bug.
+aantonop	697579156146524160	2016-02-11T00:33:25	tbccsf thebancorp Cheryl Gurz - "bitcoin is a nonstarter for banks."
+aantonop	697559544428437504	2016-02-10T23:15:30	JTremback Twitter is more suited for slogans. I also work on threat models but this isn't the right forum for that discussion, not enough c
+aantonop	697538439374188544	2016-02-10T21:51:38	If Twitter's in trouble, a key turning point was the day it screwed the 3rd party developers who'd done all the platform innovation.
+aantonop	697547496977997828	2016-02-10T22:27:37	tendermint_team Seriously though, how do you maintain an immutable ledger with signatures? What stops the quorum from reverting the state?
+aantonop	697547212654514177	2016-02-10T22:26:29	tendermint_team bitcoinist Except that signatures and quorums are reversible and can be hacked. So...  Y U NO LIKE SECURITY?
+aantonop	697542506549026816	2016-02-10T22:07:47	[bitcoin-dev] RFC for BIP: Best Practices for Heterogeneous Input Script Transactions 
+aantonop	697541188468002816	2016-02-10T22:02:33	Rolmopz Whether Greeks have to pay or not has always been the distraction in this discussion. The plain fact is that Greeks can not pay.
+aantonop	697528735562653696	2016-02-10T21:13:04	matthew_d_green Funny, that's how I feel about banking. Except banking tech has no redeeming quality.
+aantonop	697516258183540736	2016-02-10T20:23:29	BlockChannel Huh? It doesn't?   ahem sidechains
+aantonop	697516043053461504	2016-02-10T20:22:38	@BraneFewl But but... they won't have security of their own either. Blockchain + KYC + AML is the worst scenario for leaked financials.
+aantonop	697514892509761536	2016-02-10T20:18:04	
+aantonop	697513397185855488	2016-02-10T20:12:07	brockton I hope you didn't send those addresses any money... I burnt the keys.
+aantonop	697513137587810304	2016-02-10T20:11:05	
+aantonop	697512705155014658	2016-02-10T20:09:22	bitcoinist tendermint_team   Really why?   U NO LIKE SECURITY?
+aantonop	697512199108091905	2016-02-10T20:07:22	Nolaan_boy noscript AdblockPlus Don't forget Ghostery
+aantonop	697511295445295104	2016-02-10T20:03:46	brave Aboundlessworld ElissaBeth Oh hey, didn't know you were with Brave now, Elissa. Yes, interested in learning more. Running test now
+aantonop	697494277148913664	2016-02-10T18:56:09	Anyone who knows pmarca knows he's no bigot. Also know he has a big mouth and very little self-censorship, this time it backfired. Move on.
+aantonop	697490886037368832	2016-02-10T18:42:40	.pmarca's latest tweetstorm... 
+aantonop	697490792374542336	2016-02-10T18:42:18	The Princeton Bitcoin textbook is now freely available  bitcoin blockchain
+aantonop	697486875376934912	2016-02-10T18:26:44	Karmic Overload:  Deutsche Bank ends up needing a bail-in from German depositors.
+aantonop	697471693917257728	2016-02-10T17:26:24	"Public and permissionless blockchain provides for a probabistically superior model for creating network value" tbccsf bitcoin
+aantonop	697479093735026688	2016-02-10T17:55:49	pete_rizzo_ If pro-individual is anti-government then the government has failed to get the consent of the governed.
+aantonop	697478534529474561	2016-02-10T17:53:35	startupeddy BlockChainSpace Looking very possible. In discussions with Barcelona meetup to arrange financial support and dates.
+aantonop	697463561598197761	2016-02-10T16:54:05	NMcCay Brain wallets are not broadly used, are insecure and we have been advising against their use for 3-4 years. Nothing new...
+aantonop	697463221846937600	2016-02-10T16:52:44	Ryan_XxOo No payment for translators, but they can include their name in the book, in the preface.
+aantonop	697463111062835201	2016-02-10T16:52:18	Ryan_XxOo The book is published under open source license. Anyone can print and sell in China, self-published or through publisher
+aantonop	697462922289745920	2016-02-10T16:51:33	Ryan_XxOo site is   Books are published as PDF on  
+aantonop	697460092095086594	2016-02-10T16:40:18	Ryan_XxOo YES! Mandarin has made no progress. I need volunteer translators and I need people to communicate this need in Mandarin.
+aantonop	697442715160727552	2016-02-10T15:31:15	Thank you all for the invitations to visit various European cities. The response was overwhelming. Will have to make some hard choices now
+aantonop	697442415007961089	2016-02-10T15:30:04	DJ_Erock23 Market forces at work. If they can't make their ads safe for my browser, I block them, they don't get paid.
+aantonop	697441122331848704	2016-02-10T15:24:56	I block your ads is because they come with 20-30 external JS sources. Unacceptable risk. Serve them w plain HTML, I'll reconsider
+aantonop	697440614254841856	2016-02-10T15:22:54	In this whole debate about ad-blockers, the main point is missed. I have JS/cookie firewalls because of security, not ads. Not turning off.
+aantonop	697440387305238529	2016-02-10T15:22:00	Just asked to turn off my ad-blocker to access Forbes. I have 2 layers of JS/cookie firewalls. You have 25 external trackers. DENIED.
+aantonop	697438334734491648	2016-02-10T15:13:51	SamMurrant Bitcoin is more exciting than ever, if you pay attention to what is happening to the technology and innovation in the space.
+aantonop	697434137049825285	2016-02-10T14:57:10	MikeCautillo It's a funny paper. Wishful thinking and missing the point.
+aantonop	697417110318878720	2016-02-10T13:49:31	Didja see our latest episode? Here's a preview of aantonop's take on identity in payments:  
+aantonop	697053668554752000	2016-02-09T13:45:19	Amazon's new engine: Lumberyard, includes licensing terms banning you from using other cloud services. 
+aantonop	697263476776005632	2016-02-10T03:39:02	Valve has pushed Bitcoin payment option live - Only available for Americans  gaming 
+aantonop	697261230591873024	2016-02-10T03:30:06	"All successful revolutions are the kicking in of a rotten door." - John Kenneth Galbraith bitcoin
+aantonop	697237257632100352	2016-02-10T01:54:50	Looking forward to Trump debating Sanders.
+aantonop	697237898274480129	2016-02-10T01:57:23	cochise_kid   LOL. Unfollow me please. I don't need to be told what to tweet about.   Torture apologists disgust me
+aantonop	697216083862814720	2016-02-10T00:30:42	GOP candidates compete over who will commit most war crimes once elected  by mazmhussain froomkin
+aantonop	697216386079318017	2016-02-10T00:31:54	BitcoinZAR random_walker Excellent! More books for teaching bitcoin. 2nd Edition of Mastering Bitcoin will be out this summer, too
+aantonop	697202302776553472	2016-02-09T23:35:57	True, as long as people like Feinstein are around, that's all they need to attack our freedoms and way of life. 
+aantonop	697205329705226240	2016-02-09T23:47:58	Instead of worrying about the word "pussy", worry instead that it was used because Cruz didn't endorse war crimes strongly enough.
+aantonop	697201646732972032	2016-02-09T23:33:20	I've added Portuguese to the translation teams for Mastering Bitcoin. The Russian team is at 65%, getting close. Mandarin could use help!
+aantonop	697200519014694914	2016-02-09T23:28:51	finnovationCH START Summit and FinTech 2016.
+aantonop	697200176696578048	2016-02-09T23:27:30	ArthurB Can I use the term "brokechain" in my talks? Love it.
+aantonop	697169326072274945	2016-02-09T21:24:54	What passes as cutting edge blockchain technology in finance is often a half-baked, bug-ridden, poorly thought bitcoin fork: a brochain.
+aantonop	697199270110347265	2016-02-09T23:23:53	finnovationCH Both of the events I'm doing are Fintech. I will reserve the extra time specifically for bitcoin! See you at the conference?
+aantonop	697086496491204609	2016-02-09T15:55:46	ZachMontellaro benpopper It oversimplifies the problem, understates the solutions and completely misrepresents how a fork would play out.
+aantonop	697082353127034882	2016-02-09T15:39:18	ZachMontellaro BenPopper Poorly researched and full of errors and mis-statements. It's a pity, could've been very good article.
+aantonop	697075960672161792	2016-02-09T15:13:54	I've uploaded three more videos to my youtube channel:    
+aantonop	696888400494903297	2016-02-09T02:48:36	Server I built that uses BTC smart contracts to allow P2P wagers for online chess. 0 fees. Your thoughts Vegas? 😜 
+aantonop	696816118737080320	2016-02-08T22:01:23	Innovators Disruptors and Misfits: The history of innovation and bitcoin  
+aantonop	696813137979248640	2016-02-08T21:49:32	If you care about women, you can't be silent when they are abused by your bros.  womeninbitcoin cryptoqueens giveyourmoneytowomen
+aantonop	696813032702398465	2016-02-08T21:49:07	zooko You only go to hell for narcissism if you start collecting all the CT caricatures of yourself, like I do. If hell existed, that is.
+aantonop	696811942724419584	2016-02-08T21:44:47	Thanks TheBlueMatt! Bitcoin's way forward lies in this direction. We need to find a solution all can live with. 
+aantonop	696747636804734976	2016-02-08T17:29:16	chingooo Je suis allé deux fois à Lyon. J'aime la France et je l'espère revenir bientôt
+aantonop	696727121016852480	2016-02-08T16:07:44	JonRamvi Is there a big community in Norway? Do you have a meetup or other community event in Oslo?
+aantonop	696726881081630720	2016-02-08T16:06:47	lucas_lclc Definitely. Let's organize it. I can do it perhaps one or two days before or after March 31st.
+aantonop	696725133474557952	2016-02-08T15:59:51	matshenricson Datavetaren nanok  Send me a note via my website so we can discuss:  
+aantonop	696724941589372928	2016-02-08T15:59:05	Zero_Cult I will be in Brazil on those dates :-(
+aantonop	696724464134963201	2016-02-08T15:57:11	matshenricson Datavetaren nanok Would love to visit Sweden, never been. Is there a local group that can sponsor expenses?
+aantonop	696521389394669568	2016-02-08T02:30:14	How western countries loved the UN Working Group on Arbitrary Detention - until it found in favour of Assange 
+aantonop	696720364324446208	2016-02-08T15:40:53	DarioTepoTec  March 18th St. Galen March 31st, Zurich.
+aantonop	696717875940347904	2016-02-08T15:31:00	I'll be in Europe from March 20th to March 28th. Suggestions for some European bitcoin event, conference or meetup?
+aantonop	696716476003282944	2016-02-08T15:25:26	Upcoming Events: March 18th: START Summit,  St. Gallen, CH March 31st: Fintech 2016, Zurich, CH April 8th: Sao Paolo, BR
+aantonop	696485632827269120	2016-02-08T00:08:09	JaredMimms LOL  No
+aantonop	696162192350167040	2016-02-07T02:42:55	When you don't punish war criminals, the next time around war crimes become presidential debate slogans.   tortureisawarcrime
+aantonop	696161799213682688	2016-02-07T02:41:21	republican robot monsters- waterboarding not torture - flat out bald faced criminal lie - waterboarding defined as torture by Geneva
+aantonop	696120919727669248	2016-02-06T23:58:55	cgcardona Thank you! Please submit an Amazon review, if you don't mind!
+aantonop	695843092184829953	2016-02-06T05:34:55	More US black sites where people are disappeared and tortured. This one in NYC:  
+aantonop	695451117262516225	2016-02-05T03:37:21	"The truth is the longest chain." Deep dive into Bitcoin’s Proof of Work algorithm. Lecture by aantonop at UCL 
+aantonop	695458654854717440	2016-02-05T04:07:18	Book Review: Mastering Bitcoin | AT&amp;T ThreatTraq Bits  via YouTube aantonop
+aantonop	695328540691193862	2016-02-04T19:30:17	FintechCareers It certainly increases profit margins and marketing potency. Not actual potency.
+aantonop	695327283297542144	2016-02-04T19:25:17	R3 last stand. 300 bankers united against disruption.  
+aantonop	695326074671120385	2016-02-04T19:20:29	Bitcoin is to Fintech ...what Che Guevara is to a Hipster wearing a Che Guevara T-Shirt.
+aantonop	695325734982803457	2016-02-04T19:19:08	2014 Bitcoin 2015 Blockchain 2016 Permissioned Ledger 2017 Distributed Ledger 2018 Homeopathic Fintech  Diluting disruptive content &lt; 1ppb.
+aantonop	695286894033293312	2016-02-04T16:44:48	BREAKING: Sweden: Assange has won UN fight   More:   
+aantonop	695249301828734976	2016-02-04T14:15:25	Could an encryption backdoor tied to the NSA have let in foreign spies? CS’ matthew_d_green , FastCompany: 
+aantonop	695106865621905409	2016-02-04T04:49:25	teknikk7 Sure, but I like Dennis' work the most. I have a collection of his illustrations.
+aantonop	695092970257657856	2016-02-04T03:54:12	.deray is now running for Baltimore mayor  --&gt; JimDalrympleII is reporting.... 
+aantonop	695099598231072768	2016-02-04T04:20:33	dennisspaanss follow for DM please?
+aantonop	695098111962681345	2016-02-04T04:14:38	Does anyone know the artist that illustrates CoinTelegraph stories and whether they do freelance work?
+aantonop	695082523752157184	2016-02-04T03:12:42	Principles, Metaphors, and Words aantonop 
+aantonop	695077230880247808	2016-02-04T02:51:40	vakeraj My videos are open-source (CC-BY-SA). Feel free to copy them to any decentralized video services or store on your own computer.
+aantonop	695065037778464768	2016-02-04T02:03:13	I'm re-posting a lot of videos on my youtube channel. If you enjoy my videos, subscribe here to get notifications:  
+aantonop	694950768189792256	2016-02-03T18:29:09	@AirBoyNoises whispersystems It's a Chrome App, which is not part of the browser. It's a sandboxed mini-OS.
+aantonop	694950494058500096	2016-02-03T18:28:03	BotFomo whispersystems If all participants are Whisper users, then yes, it is end-to-end encrypted. Non-Whisper users get insecure MMS .
+aantonop	694948396948443136	2016-02-03T18:19:44	FlySWISS What a joke. "Your call is important to us", on hold for 25+ min. My call is not important enough to hire call center agents.
+aantonop	694947981762674689	2016-02-03T18:18:05	Private chat and calls, now on desktop with whispersystems. Use this link to join the waitlist for desktop beta:  
+aantonop	694943460672061441	2016-02-03T18:00:07	If my call was important to you, you would have hired more customer agents. Clearly, it's not that important.   callcenterlies
+aantonop	694890509396000768	2016-02-03T14:29:42	IBMSecurity Too many errors in that headline to count.
+aantonop	694432218161242112	2016-02-02T08:08:37	I just heard Ted Cruz's first words on his Iowa caucus win: "To God goes the glory."   That's Republican for "Allahu Akbar!"
+aantonop	694731392941461504	2016-02-03T03:57:26	getur It is shameful that these new automobile companies have no veterinarians on staff. A public health menace!
+aantonop	694727915469049856	2016-02-03T03:43:37	CoderTrader No, principles are not profitable. That's why profits are often unprincipled. Sleep well though...
+aantonop	694727140844023808	2016-02-03T03:40:32	Beautiful. Agree 100%. Yet, I still sometimes deliver this response to their audience, if they want. Truth always. 
+aantonop	694660952306946048	2016-02-02T23:17:31	The U.S., now more than ever, must have a renewed conversation about the Drug War, and how to end it. 
+aantonop	694665375666049025	2016-02-02T23:35:06	Chris Ellis on LTB ep. #160 TheLTBNetwork. Let's support Chris in return for all he has done for Bitcoin.  
+aantonop	694641471094304768	2016-02-02T22:00:07	Chris Ellis and I discuss the philosophy of identity in this episode    Chris needs our help: 
+aantonop	694629238494760960	2016-02-02T21:11:30	One of bitcoin's best voices and good friend Chris Ellis is suffering and needs funds for healthcare. Help here:   
+aantonop	694267513304055808	2016-02-01T21:14:08	bmill247 joerogan Whenever Joe wants to talk about bitcoin again. Lots of new stuff to talk about.
+aantonop	694262059106631680	2016-02-01T20:52:28	LMAO 
+aantonop	694261948783808512	2016-02-01T20:52:02	LOL 
+aantonop	694233007855702016	2016-02-01T18:57:01	aantonop your book on at&amp;t tech chanel 
+aantonop	693527126675439616	2016-01-30T20:12:06	European Parliament discusses Bitcoin and virtual currencies for the first time 
+aantonop	692850785546153985	2016-01-28T23:24:34	That's 1.3 million unique domains in a single day. Yesterday. Let's Encrypt is doing a thing. 
+aantonop	693242600137035777	2016-01-30T01:21:30	Eric Lombrozo: Bitcoin Needs Protocol Layers Similar to the Internet  
+aantonop	693244823151734784	2016-01-30T01:30:20	Eric Voorhees at his very best. A poet with vision and wisdom.   
+aantonop	693122523886555136	2016-01-29T17:24:21	JamesDueck Disagree. Economy of scale was strongest when 100x improvements were possible. Consumerization, volume, decentralization.
+aantonop	693122127466106880	2016-01-29T17:22:47	IanDeMartino Thank you!   See 
+aantonop	693098664693137408	2016-01-29T15:49:33	hafturtle Now that's a great question. It depends on the sidechain and the implementation of the two-way peg. Will do a video...
+aantonop	693093040727044096	2016-01-29T15:27:12	PwCAdvisory Almost but not quite correct. Bitcoin issuance diminishes over time, but difficulty can dynamically go up and go down.
+aantonop	693092137697579009	2016-01-29T15:23:37	tampines_tech I'm already booked for several events in May. Would have to organize quickly.   
+aantonop	692856596896968706	2016-01-28T23:47:40	.TheDailyDecrypt is putting out some quality content lately. Recommending subscribing. Interview with aantonop: 
+aantonop	692850307336839168	2016-01-28T23:22:40	I'm looking to add the best bitcoin libraries to the next edition of my book. Submit yours with reply:  Language : Library Name
+aantonop	692833569824247808	2016-01-28T22:16:09	Python:pybitcointools Python:pycoin C++:libbitcoin
+aantonop	692833339653406720	2016-01-28T22:15:15	Poll:  What bitcoin libraries are you using in your chosen programming language?  Answer format (as many as you like): Language : Library
+aantonop	692823496326512640	2016-01-28T21:36:08	12 PH/s in a 40 foot environmentally sealed marine bitcoin container  BitFuryGroup redefines drop-in...
+aantonop	692824822481580034	2016-01-28T21:41:24	Will bitcoincoreorg host Core executable builds (gitian) for OSX, Win, Ubuntu PPA etc., or is that all staying on ?
+aantonop	692807550308216832	2016-01-28T20:32:46	timpastoor That's not how copyright law works. No license means all restrictions apply. I found it was licensed MIT, so I can re-publish.
+aantonop	692759166449012736	2016-01-28T17:20:30	swelenc btcArtGallery English has been available during the entire production at 
+aantonop	692736792034983936	2016-01-28T15:51:36	BitcoinRat Deborah Gordon's work and talks were the inspiration for the book cover.
+aantonop	692727467455287297	2016-01-28T15:14:33	"Why leafcutter ants evolved to be farmers"  My book cover has leafcutter ants for a reason, explained in preface  
+aantonop	692724827287789570	2016-01-28T15:04:03	Most popular free download of translation of Mastering Bitcoin is in Italian.   
+aantonop	692723354738888708	2016-01-28T14:58:12	Biscoitos1 I welcome an effort to translate to PT. Can you communicate in Portuguese with the local bitcoin community, find volunteers?
+aantonop	692721310909091840	2016-01-28T14:50:05	Biscoitos1 No one has volunteered to translate to Portuguese/Portugal. Perhaps the Brazilian translation can be helpful?
+aantonop	692494126428884993	2016-01-27T23:47:20	desantis @paulohaonghusa Whether anyone would sue is not the basis on which I decide to honor contracts or law. ;-)
+aantonop	692493840440229889	2016-01-27T23:46:12	cakirBTC Was AFK, not ignoring!
+aantonop	692493750380204033	2016-01-27T23:45:50	davidmanheim Thanks, this is the answer I was looking for.
+aantonop	692493576664670208	2016-01-27T23:45:09	cakirBTC This might be the answer. This is a license for the specific content, that would allow me to republish. Thank you.
+aantonop	692480637593325571	2016-01-27T22:53:44	I can't just consider Satoshi's paper fair use or public. I am under contract with my publisher, so can't include work of unknown license
+aantonop	692455331943813127	2016-01-27T21:13:10	alfiedotwtf @paulohaonghusa Unless otherwise stated, it is under copyright and cannot be republished without permission.
+aantonop	692450414810124288	2016-01-27T20:53:38	@paulohaonghusa I am asking specifically for re-publishing, in an appendix in Mastering Bitcoin. Can't do without clear license :-(
+aantonop	692444260952440832	2016-01-27T20:29:11	Does anyone know if the original Satoshi  white paper has any licensing info associated with it? Would it be considered public domain?
+aantonop	692441832492498944	2016-01-27T20:19:32	goldcoin Resources used to provide security for the system are not "wasted". No other way to do it has been proven to work at scale
+aantonop	692424974699618304	2016-01-27T19:12:33	New word for 2016:   n. Exahash: One quintillion hashes (per second). The amount of computation providing security for bitcoin
+aantonop	692414379497820161	2016-01-27T18:30:27	If you're a CIA spook it's ok to torture people, but talk to a reporter? Go to jail. 1yrago  
+aantonop	692408576652873728	2016-01-27T18:07:23	Artur_Bizgu Translations are done by volunteers. There's a team doing Russian, but they need help. See 
+aantonop	692408452421963778	2016-01-27T18:06:54	s_b_sh Huh?
+aantonop	692408281944305664	2016-01-27T18:06:13	spiroseliot You'd be surprised to learn most of the translations were completed by ONE volunteer. It's the best way to learn about bitcoin.
+aantonop	692400673028247557	2016-01-27T17:35:59	spiroseliot There's a team of volunteers working on Greek. It's about 45% done. See  to help with the effort.
+aantonop	692395220378333184	2016-01-27T17:14:19	Mastering Bitcoin is available for free in Spanish, Italian, French, Japanese, Hungarian and Brazilian (PT):  
+aantonop	692039642351308801	2016-01-26T17:41:22	L'ouvrage de référence Mastering Bitcoin écrit par aantonop est maintenant traduit en français 
+aantonop	691772759429488641	2016-01-26T00:00:53	cassidysweb In that case, I apologize for my comment. I was mistaken. The TNABC organizers once again failed to set or enforce standards.
+aantonop	691680563233574913	2016-01-25T17:54:31	cassidysweb I was saying I won't block or mute because you didn't do any of those things. We're just disagreeing
+aantonop	691678021766393856	2016-01-25T17:44:25	anarchoass I was criticizing the choices of the booth organizers, not the currency. They chose to associate the two. Association succeeded.
+aantonop	691675690173800448	2016-01-25T17:35:09	cassidysweb I don't block or mute people for disagreeing with me, only for trolling or ad hominem.
+aantonop	691675066971459585	2016-01-25T17:32:41	cassidysweb For taking a stand on using women as marketing props. If that lost me your respect, it's ok.
+aantonop	691665535822647296	2016-01-25T16:54:48	cassidysweb I will not "keep my comments for BTC". Unfollow me.
+aantonop	691301406582525953	2016-01-24T16:47:53	ricardoaba There's a donation page on the site .  Thank you!
+aantonop	690930471186907136	2016-01-23T16:13:55	NextCoin It's open source. Please do a pull request with a correction.   
+aantonop	690685766989692928	2016-01-23T00:01:33	MyceliumCom SamouraiDev CanadaWoodcock MrHodl SamouraiWallet YEEES!
+aantonop	690603006518267904	2016-01-22T18:32:42	SamouraiDev CanadaWoodcock MrHodl SamouraiWallet Is your BIP47 fully open source? We'll finish CoinJoin, you finish BIP47, and we share?
+aantonop	690633293138632705	2016-01-22T20:33:03	Toyota eyes satellite antennas for data-hungry connected cars  
+aantonop	690615320634093569	2016-01-22T19:21:38	Samourai Wallet implementing Reusable Payment Codes (BIP 47): A really important privacy and usability standard!  
+aantonop	690571640070131712	2016-01-22T16:28:03	"Mastering Bitcoin" de Andreas Antonopoulos en Español  
+aantonop	690558370173034497	2016-01-22T15:35:20	peanutsrevenge Everything I do is open source. All my talks and my book are licensed CC-BY-SA. Re-use, mashup, share with attribution
+aantonop	690558193731244032	2016-01-22T15:34:37	the_scambuster btcmiami *encourages* this kind of behavior, at every show. Shame on dash and TNABC. Desperate and pathetic.
+aantonop	690365952261754880	2016-01-22T02:50:44	alfiedotwtf Not at all. I'm working on it now. Two chapters done, already.
+aantonop	690351872725614593	2016-01-22T01:54:47	Translations of "Mastering Bitcoin" -  Download PDF in Japanese, Spanish, Hungarian, Brazilian(PT), Italian, French  
+aantonop	689116137955536896	2016-01-18T16:04:25	MortenFjord Probably for the launch of the second edition, due this summer
+aantonop	689093328953061376	2016-01-18T14:33:47	SunnyStartups That's an old release. You can get the latest directly from github, it's much better.
+aantonop	688741550688456704	2016-01-17T15:15:56	Bitcoin skeptics use "Chinese Miners" much like Trump uses the China bogeyman: it's socially acceptable bigotry. 
+aantonop	688377175700025345	2016-01-16T15:08:02	Have used f.lux for years. Shame on Apple for first banning it then stealing the idea 100% and building their own.
+aantonop	688111075389120518	2016-01-15T21:30:39	Bitcoin's invention was an engineering solution to a governance problem. We can solve bitcoin's governance challenges with more engineering
+aantonop	688033874572656640	2016-01-15T16:23:53	wjschafer It's a Poisson distribution.   
+aantonop	688019573740843009	2016-01-15T15:27:03	Best way to respond to all the drama in bitcoin is to focus. Buckle down, work, don't get distracted. Engineering solves problems. Code On!
+aantonop	688017682139058176	2016-01-15T15:19:32	I disagree with Mike Hearn's analysis and concerns (see LTB show next week). I thank him for all his work and wish him all the best. Onwards
+aantonop	688013609696374784	2016-01-15T15:03:21	@Timothy_Ruff We recorded an episode of LTB about all this drama this week. It will be published on Saturday.
+aantonop	687838698612736000	2016-01-15T03:28:19	ethought It's not even original.   
+aantonop	687834756545773568	2016-01-15T03:12:39	Cui Bono?
+aantonop	687834130936016897	2016-01-15T03:10:10	embeddedthought Decentralized is not a True/False value. Bitcoin is the most decentralized payment network at this scale ever in existence
+aantonop	687816259728089088	2016-01-15T01:59:09	I just found out that bitcoin failed. Oh well, I'll figure out something else to do. /s   failingtodie
+aantonop	687797115771289600	2016-01-15T00:43:05	cambone Drama is part of all communities. It's just visible in open communities instead of hidden.
+aantonop	687661618503680000	2016-01-14T15:44:40	Nasty SSH bug exposes client keys. Fixed with: echo 'UseRoaming no' &gt;&gt; /etc/ssh/ssh_config  
+aantonop	686957560948076544	2016-01-12T17:07:00	I used to want policymakers to care about crypto. Now I want policymakers to forget that crypto exists.
+aantonop	686952668712046592	2016-01-12T16:47:33	.JohnLegere. I contributed to the EFF again today, since you reminded us why we fight and who's on our side (not you). WeAreEFF
+aantonop	685300492864360450	2016-01-08T03:22:24	Our ally and hero in the fight for human rights in the digital age. WeAreEFF 
+aantonop	686754859715018757	2016-01-12T03:41:32	PolitrickinCom Evaluating multiple suggestions. Won't be ready to start until end of month
+aantonop	686539380043984896	2016-01-11T13:25:18	3 years ago today Aaron Swartz died. He deserves to be remembered. 
+aantonop	686251903580123136	2016-01-10T18:22:58	Sir_Lebowski Details are on my linkedin. Most now obsolete: , openbitcoinstore, openpaperwallet, thirdkey and more
+aantonop	686237563074445312	2016-01-10T17:25:59	mrgunn copystar griffey Not if you want it to be an open decentralized blockchain. You can if you want same-old centralized database
+aantonop	686047148308312064	2016-01-10T04:49:20	GregMoon 
+aantonop	686046868233687040	2016-01-10T04:48:14	It's out!  Let's Talk Bitcoin! #277 Separating Signatures with Segregated Witness  
+aantonop	685587912491167744	2016-01-08T22:24:30	Ironically I mostly agree with the "statement from Core". I vehemently oppose the means used to fake unity, silence disagreement &amp; opponents
+aantonop	685512763016359936	2016-01-08T17:25:53	btcdrak _jonasschnelli_ These actions are pouring fuel on a fire at a time when cooler attitudes and compromise are needed. Disappointing.
+aantonop	685512533705396224	2016-01-08T17:24:58	morcosa btcdrak Again disingenuous. You know there's a big messy controversy and you choose this method and time to stomp all over it.
+aantonop	685511338060312576	2016-01-08T17:20:13	btcdrak _jonasschnelli_ How convenient. I guess it's ok when you're "right" all means to get what you want are acceptable.
+aantonop	685510771527315456	2016-01-08T17:17:58	btcdrak _jonasschnelli_ I'm tired of arguing this. If you can't see how this is causing more friction and fragmentation, it's a pity.
+aantonop	685510591323238400	2016-01-08T17:17:15	btcdrak _jonasschnelli_ These types of actions are disrespectful to all who have contributed for years, as if their opinion doesn't count
+aantonop	685510320182456320	2016-01-08T17:16:11	btcdrak morcosa It's very hard to push for consensus when you keep playing political games like this. I'm disappointed but not surprised
+aantonop	685510003734777860	2016-01-08T17:14:55	btcdrak morcosa It's neither plain nor simple. It's a deliberate attempt to promote one side in an area of controversy as the only side.
+aantonop	685505694687178752	2016-01-08T16:57:48	JohnLegere EFF Backpedalling furiously. EFF has been around a lot longer than T-Mobile and represents a much bigger community. Shame
+aantonop	685504438975524864	2016-01-08T16:52:48	_jonasschnelli_ Conveniently presented as if it is unanimous by hiding the controversy behind a vague "we". Not cool.
+aantonop	685503448058572800	2016-01-08T16:48:52	morcosa I think it is disingenuous to hide controversy behind a vague "we", especially on contentious issues. Is being right so important?
+aantonop	685251238661849088	2016-01-08T00:06:41	satoBit That would remove the illusion of unanimity that they are trying to weasel into with this propaganda. They disappeared the dissent
+aantonop	685250309787090944	2016-01-08T00:02:59	lopp No it ceased to be impartial with the political games around the "press page" almost 4 years ago. My first "debate" with the admins
+aantonop	685247752801005568	2016-01-07T23:52:50	 admins continue to abuse commit authority to impose opinion and hide controversy: 
+aantonop	685247311786700800	2016-01-07T23:51:05	JustusRanvier We've gone from signed statements to using PR's to make statements that hide the controversy and dissent. Slippery slope
+aantonop	685244746764279808	2016-01-07T23:40:53	Who is the "we" behind this statement that purports to represent the Bitcoin Core project?  
+aantonop	685243177188605952	2016-01-07T23:34:39	Bitcoin Core released a statement today. Which begs the question: Who is making this statement as representing Bitcoin Core?
+aantonop	685199616539754500	2016-01-07T20:41:33	humpa64 . I guess "air" is a skeuomorphic malopropism.
+aantonop	685178194438295552	2016-01-07T19:16:26	CoderTrader BryceWeiner Depends on your prefered language. What are you most comfortable coding in?
+aantonop	685177251982393344	2016-01-07T19:12:41	Finished recording this week's LTB podcast on the topic of Segregated Witness. Episode airs on Saturday!
+aantonop	685136529157689345	2016-01-07T16:30:52	What is a good and reliable archive of IRC chat logs for bitcoin-dev and bitocin-wizards?  Anyone have any suggestions?
+aantonop	685128220262445057	2016-01-07T15:57:51	Segregated Witness testnet is now live. Excited to see rapid progress on this feature:  
+aantonop	684940413233442816	2016-01-07T03:31:34	TraceMayer taariqlewis bergalex The wiki is incorrect. Soft-forks are forwards compatible which means they reduce validation incentives.
+aantonop	684849499466907649	2016-01-06T21:30:19	shibuyashadows and more...CT is a massive privacy improvement. Coinjoin can be broken with statistical analysis of input/output value pairs
+aantonop	684840528219881473	2016-01-06T20:54:40	TraceMayer taariqlewis bergalex I'm thinking that Taariq's feeling is correct. There's risk there too. That's why the versionbits matters
+aantonop	684840236136984579	2016-01-06T20:53:30	Many of the core devs are now much more active on Twitter - this is great.   Their avatars are eggs - this is not so great  Hatch!
+aantonop	684802258698027008	2016-01-06T18:22:36	cypherdoc2 pwuille Just because it *can* be done doesn't mean it should. This will become more of a debate now that a lot more can be done
+aantonop	684797141890433025	2016-01-06T18:02:16	Another proposal based on the SegWit soft-fork script upgrades: Adding Confidential Transactions as a soft-fork.   
+aantonop	684796657423138816	2016-01-06T18:00:20	cypherdoc2 pwuille Not as is, but I think it would allow someone to introduce Turing completeness as a soft-fork. Not sure.
+aantonop	684780858138587136	2016-01-06T16:57:33	haakonnilsen pwuille The coolest part comes from the trick for script versioning soft fork upgrades by LukeDashjr
+aantonop	684760184074432512	2016-01-06T15:35:24	While everyone is discussing pwuille SegWit's solution to scaling, I'm most excited by the "other" stuff it delivers, like script versions
+aantonop	684759586390302720	2016-01-06T15:33:02	Segwit's soft-fork script versioning opens the door for rapid innovation. Here's one example:  
+aantonop	684753717229436928	2016-01-06T15:09:42	nerdonica You can bookmark an individual heading (the URL contains a # anchor). Right-click and copy link from the heading and save it
+aantonop	683881220992716800	2016-01-04T05:22:43	LLCoolSC Thank you! I would appreciate an Amazon review!
+aantonop	683416289298124804	2016-01-02T22:35:15	bitstein kristovatlas JonathanVaage Thanks Michael!
+aantonop	683405119896064000	2016-01-02T21:50:52	Our Friends and Allies in the Region™ 
+aantonop	683404642215157760	2016-01-02T21:48:58	matshenricson Also, black &amp; white only!
+aantonop	683404573545869312	2016-01-02T21:48:42	matshenricson Mostly technical diagrams to explain complex concepts in the book. O'Reilly style (clean &amp; simple) as much as possible.
+aantonop	683403897218568192	2016-01-02T21:46:00	Working on the second edition of Mastering Bitcoin. I need a *great* illustrator in Feb-Mar. Pay bitcoin and with attribution. Suggestions?
+aantonop	683403409219649536	2016-01-02T21:44:04	InvesterGadget gavinandresen You can read my book "Mastering Bitcoin" to answer those questions. Buy on amazon, or download from github
+aantonop	683403137714016256	2016-01-02T21:42:59	TraceMayer I'd say it's a three-way-tie between pwuille (segwit and alot more) petertoddbtc (CLTV) and Greg Maxwell (CT, Segwit and more)
+aantonop	681575987797168130	2015-12-28T20:42:33	When I return to DC, I'm going to introduce legislation to repeal the unconstitutional cyberspying bill that was enacted with the omnibus.
+aantonop	682703791913865217	2015-12-31T23:24:02	Hmm..Bloomberg named bitcoin worst performing currency in '14, but excludes in '15 when it was best cc julieverhage 
+aantonop	682384940756004864	2015-12-31T02:17:02	TheSecondCity your website is down with HTTP 500
+aantonop	682356251683065856	2015-12-31T00:23:02	JeromeLegoupil Assume good faith. Work is already in progress and dev commitment means nothing if not work.
+aantonop	682348185726091264	2015-12-30T23:50:59	JeromeLegoupil There's commitment and dates for all the measures except the limit. It's a bit of an obvious omission.
+aantonop	682347232692166657	2015-12-30T23:47:12	adam3us It's so close that it is worth the extra effort to reach the ones who are left out. My signature would be pointless, not a core dev
+aantonop	682345959234400256	2015-12-30T23:42:08	adam3us It's the "more steps later" without any date or commitment that is the weak part of this proposal. Premature "mission accomplished"
+aantonop	682337376216076291	2015-12-30T23:08:02	adam3us I'm optimistic that a few tweaks could bring 100% consensus. Still not quite there but very very close.
+aantonop	682336970597519360	2015-12-30T23:06:25	adam3us It's not consensus until everyone agrees, right? Not everyone agrees without a timetable for a limit fix, in addition to segwit.
+aantonop	682336559014662144	2015-12-30T23:04:47	adam3us While contentious hard fork is bad, a consensus-driven planned hard fork would polish SegWit (root of tree) and raise block limit.
+aantonop	682336348393451520	2015-12-30T23:03:57	adam3us I am very positive about Greg's scaling proposal. I think it would be a lot stronger if there was a date commitment to 2-4-8
+aantonop	682330638930690049	2015-12-30T22:41:16	adam3us SegWit is great, but it will take too long to implement to have a major impact. Need to also raise block size limit IMHO.
+aantonop	682324229338062848	2015-12-30T22:15:47	I think the two sides are closer than ever on the block size debate. Just a small compromise and commitment needed to  get consensus.
+aantonop	682229546234429440	2015-12-30T15:59:33	The difference between "settlement" and "payment" is a relic of old world. There should be no such distinction in Bitcoin.

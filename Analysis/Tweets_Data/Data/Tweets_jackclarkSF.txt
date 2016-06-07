@@ -1,0 +1,870 @@
+jackclarkSF	726182175754850304	2016-04-29T22:51:37	jamescham I'm gonna crop and use this as a new twitter profile pic, if that's ok with you?
+jackclarkSF	725863859529998336	2016-04-29T01:46:44	"We are in the Galileo stages of machine learning. No longer in dark ages but Newton is still to come" ~pmddomingos 
+jackclarkSF	725943463150129153	2016-04-29T07:03:03	Miles_Brundage obviously Google/Tesla have benefited from same thing as well. But i think Amazon could be secretly reaping some cool R&amp;D
+jackclarkSF	725943316982820866	2016-04-29T07:02:28	Miles_Brundage Amazon has had tens of thousands of robots deployed for longer than many typical tech rivals
+jackclarkSF	725941588141051906	2016-04-29T06:55:36	Grounded cognition (aka robots) important for development of common sense 'AI' so Amazon has an R&amp;D advantage 
+jackclarkSF	725477308476215297	2016-04-28T00:10:43	jordannovet my 5x had a crash yesterday that worsened a lurking hardware error that ultimately bricked the phone. Fun.
+jackclarkSF	725472248211992576	2016-04-27T23:50:37	theAlexLavin open_ai Numenta do you have plans to publish on any other comparative metrics besides NAB?
+jackclarkSF	725472047120306176	2016-04-27T23:49:49	jordannovet 6P
+jackclarkSF	725463378836115456	2016-04-27T23:15:22	My face when I realize it's quicker to get a new Nexus phone via Amazon than via Google's own site: ಠ_ಠ
+jackclarkSF	725404766184992770	2016-04-27T19:22:28	apulkka Hello. Jack Clark with Bloomberg News here. What's a good email to contact you on?
+jackclarkSF	725380402244767744	2016-04-27T17:45:39	OpenAI trying to push reinforcement learning AI by creating free software to develop, test &amp; compare RL models. 
+jackclarkSF	725178493055733760	2016-04-27T04:23:20	Phoneless! Does anyone here live in SF/East Bay and have a spare unlocked Android phone that takes a nanosim they'd be willing to sell me?
+jackclarkSF	725099431222235138	2016-04-26T23:09:10	INFERNAL ROBOT LORD OF BERKELEY TO JOIN COMPANY SEEKING TO CREATE BENEVOLENT AI  
+jackclarkSF	724787290824798209	2016-04-26T02:28:50	💰 state of top tech internship offers, 2016 talkpay 
+jackclarkSF	724663652486385664	2016-04-25T18:17:33	LorenSchmidt great, thanks
+jackclarkSF	724660029714997248	2016-04-25T18:03:09	LorenSchmidt what program/framework are you building this in?
+jackclarkSF	724403558104190976	2016-04-25T01:04:01	mims FB+ other social platforms &amp; that's how they're selling it.  "launched exclusively on social in September 2015"
+jackclarkSF	724398754304909312	2016-04-25T00:44:56	mims what about thisisinsider ?
+jackclarkSF	724398050819473408	2016-04-25T00:42:08	sknthla trans US high-speed rail
+jackclarkSF	724323615399763970	2016-04-24T19:46:21	mattsiegel that's the gist of it. I might randomize the color pallet at each timestep to give myself a headache
+jackclarkSF	724322938518806529	2016-04-24T19:43:40	Happy Cellular Automata Simulation Sunday everyone! 
+jackclarkSF	724267875742048256	2016-04-24T16:04:52	Pink dawn, a gang of wild turkeys, and the East Bay being escorted into the day by the moon VOTENATURE2016 
+jackclarkSF	723935330026422272	2016-04-23T18:03:27	ShiraOvide Absolutely. So are machines. The HFT market is an example of machines lying to eachother for profit.
+jackclarkSF	723933727823265792	2016-04-23T17:57:05	ShiraOvide it creates a kind of false division between human and machine, which is unfair to our robot overlords
+jackclarkSF	723933592754102273	2016-04-23T17:56:33	ShiraOvide I'm just grumpy because the opening paragraphs aren't very accurate. Eg "A key reason: Unlike machines, humans are good at lying
+jackclarkSF	723932540285800448	2016-04-23T17:52:22	ShiraOvide the premise of this article is broadly wrong. Work being done on bluffing if you read the research. Eg 
+jackclarkSF	723598197789171714	2016-04-22T19:43:48	GrandpaRobot rgdgtmrw I find your argument a bit perplexing - DeepMind has reasonably diverse backgrounds/specialisms
+jackclarkSF	723313870509477889	2016-04-22T00:53:59	AETROSai and based on Keras? fchollet will be pleased!
+jackclarkSF	723298303270617088	2016-04-21T23:52:08	Cool AI competition that is testament to how far field has come - can AI play Doom purely from pixel input 
+jackclarkSF	723271334839595008	2016-04-21T22:04:58	DawnPaladin very end of this 
+jackclarkSF	723269725694922752	2016-04-21T21:58:34	kentindell diodesign it does if you're a robot.
+jackclarkSF	723262810499723264	2016-04-21T21:31:06	Google CEO: "In the long-run we will evolve computing from a mobile-first to an AI-first world."
+jackclarkSF	723231453484605441	2016-04-21T19:26:30	If anyone wants to chat with me on telegram I'm Jackclarksf
+jackclarkSF	723189665403011073	2016-04-21T16:40:27	free schematics + cheap hardware + bright-eyed, relentless optimism of FB = trouble for telco equipment makers 
+jackclarkSF	723186490465869826	2016-04-21T16:27:50	kevinroose *very journalist voice* what happens next?
+jackclarkSF	723170836660649985	2016-04-21T15:25:37	zoezhang18 when are you next in San Francisco? Would love to get coffee
+jackclarkSF	723018715684462592	2016-04-21T05:21:09	igorbb yeah, it's like normal python, but sometimes you randomly destroy the world.
+jackclarkSF	723016449023840256	2016-04-21T05:12:09	Debugging scripts within Blender is nasty (or I'm not doing it right). Nonetheless, things are happening. 
+jackclarkSF	722929071932375040	2016-04-20T23:24:56	cloudtoad yup, see the footnote 
+jackclarkSF	722927717549641729	2016-04-20T23:19:33	growth could slow if European regulators get Google to unbundle its apps from Android  
+jackclarkSF	722904592036470785	2016-04-20T21:47:40	Miles_Brundage which paper had the water maze
+jackclarkSF	722901421541068801	2016-04-20T21:35:04	Nikilster who is your cloud provider that couldn't scale? Strange thing to read in an article
+jackclarkSF	722860874847821824	2016-04-20T18:53:57	Interested in a special chance to see pmddomingos , who wrote the best book on practically thinking about machine learning? Drop me a note.
+jackclarkSF	722867485502869504	2016-04-20T19:20:13	melyork oarful.
+jackclarkSF	722546868299939840	2016-04-19T22:06:12	Cliché = links between child dev &amp; AI, but... unsupervised learning via jigsaw puzzles!  
+jackclarkSF	722417553084055552	2016-04-19T13:32:21	gideonmann where was it from?
+jackclarkSF	722401741514399744	2016-04-19T12:29:31	As the EU readies charges against Google, here's what's at stake in Europe:  by jackclarkSF
+jackclarkSF	722284708772470784	2016-04-19T04:44:28	sgourley absolutely
+jackclarkSF	722241612793782272	2016-04-19T01:53:13	At kickoff of the reboot of the Silicon Valley Artificial Intelligence group at SentientDAI . Discussing AI&amp;Go 
+jackclarkSF	722107201247145984	2016-04-18T16:59:07	sandhillstrat I haven't read enough about rat  brains to know.
+jackclarkSF	722106345487470592	2016-04-18T16:55:43	sandhillstrat the organic term is confirmation bias.
+jackclarkSF	721940731078651905	2016-04-18T05:57:37	The ultimate machine learning model should be capable of introspection and subsequent self-adjustment.
+jackclarkSF	721814936440012800	2016-04-17T21:37:46	Fantastic hike in Yosemite to highlands above the huge waterfall VOTENATURE2016 
+jackclarkSF	721732657105600517	2016-04-17T16:10:49	RobinWigg nice piece
+jackclarkSF	721731939821035520	2016-04-17T16:07:58	"It's very powerful, and could unleash a very important period for quantitative investing". AHL's Rattray loves AI. 
+jackclarkSF	720839806595387393	2016-04-15T05:02:57	Microsoft CaptionBot, Please Analyze Google's HQ ... CaptionBot...? CaptionBot - wake up!  : ( 
+jackclarkSF	720835013801959424	2016-04-15T04:43:54	qevni were all of your traveling moments incredibly unsettling and full of the sounds of howling trashfires and drunk turnpikes?
+jackclarkSF	720765725166542849	2016-04-15T00:08:34	normantasfi I think a game example is always useful. Maybe a v simple one, like flappy bird?
+jackclarkSF	720755469241999361	2016-04-14T23:27:49	fchollet normantasfi as someone who programs in Python and is familiar with Pygame, I concur. This would be super helpful.
+jackclarkSF	720692480111456256	2016-04-14T19:17:31	diodesign jordannovet gamoid TheRegister malware.
+jackclarkSF	720691859744423936	2016-04-14T19:15:03	jordannovet gamoid TheRegister ask diodesign
+jackclarkSF	720689868339310592	2016-04-14T19:07:09	Another turn of the regulatory screw in Europe: EU Speeds Up Android Probe, Giving Foes 24-Hour Deadlines 
+jackclarkSF	720373574666596353	2016-04-13T22:10:18	The more the VR becomes AR, there more it needs AI. All roads these days lead to AI.
+jackclarkSF	720320704130879490	2016-04-13T18:40:13	Facebook hires Google's Regina Dugan, who helped the company add lab-fresh tech to new products 
+jackclarkSF	720105342810648576	2016-04-13T04:24:27	moesch how does this story end
+jackclarkSF	720055548645756928	2016-04-13T01:06:35	iainthomson if it's this month I can't as I have things I'm doing both nights
+jackclarkSF	720051936574083072	2016-04-13T00:52:14	felipehoffa iconara thetinot github why didn't you build it yourselves? Eg AWS builds DB migration services. Cc gregde
+jackclarkSF	720050543733792768	2016-04-13T00:46:42	iainthomson freelance, iirc
+jackclarkSF	720050244369559553	2016-04-13T00:45:30	iainthomson bonus factoid -- she used to be a journalist!
+jackclarkSF	720049714205319168	2016-04-13T00:43:24	iainthomson saw them at The Fox a year and a half ago, or so, cracking band!
+jackclarkSF	719946057891844097	2016-04-12T17:51:30	tsimonite halhod *Skinny Luddite
+jackclarkSF	719687278436683776	2016-04-12T00:43:12	sparklefingered TheRegister iainthomson TWiT I left The Register because of Iain's freakishly skinny legs. Hard to be around.
+jackclarkSF	719683865254752256	2016-04-12T00:29:39	jwan584 ask drfeifei
+jackclarkSF	719302973524840448	2016-04-10T23:16:07	diodesign kentindell you'd be out a hundred grand for illegally photographing it and thereby copying the system onto another reality node
+jackclarkSF	719299627820781569	2016-04-10T23:02:49	diodesign did you... take this photo?
+jackclarkSF	719254890816475136	2016-04-10T20:05:03	arikia this sounds like the perfect life tbh
+jackclarkSF	719237814668242944	2016-04-10T18:57:12	hollie_slade NO
+jackclarkSF	719232452514811905	2016-04-10T18:35:54	All the boom areas MattRosoff identifies in modern tech depend on AI - VR, transport, robotics, chatbots 
+jackclarkSF	719180415039221761	2016-04-10T15:09:07	Thick ghostfog on today's dawn ride VOTENATURE2016 
+jackclarkSF	718981388737753088	2016-04-10T01:58:15	mcwm edzitron WillOremus what's your Venmo I'll send you a monkey
+jackclarkSF	718980942925156353	2016-04-10T01:56:29	WillOremus edzitron mcwm pretty much all non-locomotion drone electronics come from smartphone manufacturing ecosystem
+jackclarkSF	718584637115641856	2016-04-08T23:41:42	But make no mistake, it's happening. And it will happen much faster than you expect.
+jackclarkSF	718584473978167296	2016-04-08T23:41:03	Right now it may seem hard to believe that AI is about to change our world, because at this point it isn't yet widely deployed.
+jackclarkSF	718584876283265024	2016-04-08T23:42:39	I see a lot of discussion about job automation --but one thing that is as important is how AI has the potential to transform culture and art
+jackclarkSF	718909672535646208	2016-04-09T21:13:17	DaveLeeBBC Google said this then displayed this screen 
+jackclarkSF	718861059164012544	2016-04-09T18:00:06	diodesign all the Rockstar you can drink
+jackclarkSF	718848505788280833	2016-04-09T17:10:13	SoftWear_co you are a strange bot
+jackclarkSF	718844266378764288	2016-04-09T16:53:23	mattz62 oh, yikes, the music isn't mine! The music is 'Hold Tight' by Jamie XX. I'm just listening to it and am too lazy to turn off
+jackclarkSF	718843044968050692	2016-04-09T16:48:32	Do any other Bay Area journalists who follow me program? Shall we start a hack coding club?
+jackclarkSF	718842235362541568	2016-04-09T16:45:19	samim yeah - at some point I'm hoping to print this stuff in blender, as you can script it with python.
+jackclarkSF	718842101346140160	2016-04-09T16:44:47	mattz62 there's also an economic substructure so there's a kind of energy being exchanged among all entities
+jackclarkSF	718842027060764672	2016-04-09T16:44:29	mattz62 everything on screen is an object with own rules and propagates according to various CA-style rules
+jackclarkSF	718841930361098241	2016-04-09T16:44:06	mattz62 a simulation program I've been building for a few months! Hopefully can reveal something more substantial soon
+jackclarkSF	718840966249971712	2016-04-09T16:40:16	Cellular Automata Saturday 
+jackclarkSF	718801740636655616	2016-04-09T14:04:24	qhardy natureerasure
+jackclarkSF	718558956663099392	2016-04-08T21:59:40	THAToneil samim absolutely! That's going to be a huge issue.
+jackclarkSF	718555440263507968	2016-04-08T21:45:41	samim elonmusk it's not either/or. Both?
+jackclarkSF	718554443684270080	2016-04-08T21:41:44	Miles_Brundage mark_riedl just have an arm thing placing something onto a bunch of these critters, then they scamper around
+jackclarkSF	718554382581637120	2016-04-08T21:41:29	Miles_Brundage mark_riedl and actually just carrying stuff up stairs is potentially useful
+jackclarkSF	718554323668471808	2016-04-08T21:41:15	Miles_Brundage mark_riedl well, it's got way fewer joints and poss body configurations
+jackclarkSF	718554044613009409	2016-04-08T21:40:08	samim many people - eg elonmusk - want Option 1, but Google is quite keen about Option 2
+jackclarkSF	718553438909370368	2016-04-08T21:37:44	Miles_Brundage mark_riedl so I believe that also tech platform differences are a factor
+jackclarkSF	718553333426819072	2016-04-08T21:37:19	Miles_Brundage mark_riedl also worth noting that this Schaft machine is an order of magnitude less complex than BD 
+jackclarkSF	718553154397151232	2016-04-08T21:36:36	Miles_Brundage mark_riedl another problem was the BD team just wasn't very integrated with rest of Google
+jackclarkSF	718553090551492611	2016-04-08T21:36:21	Miles_Brundage mark_riedl not quite that bad, from my understanding, but definite concern it could snowball into a big perception problem
+jackclarkSF	718542679173439488	2016-04-08T20:54:59	Wow... SpaceX just landed a rocket. On a barge. In the ocean. Amazing feat. 
+jackclarkSF	718542066041532416	2016-04-08T20:52:33	1st stage has landed on Of Course I Still Love You 
+jackclarkSF	718504322258964480	2016-04-08T18:22:34	jimmfleming that's not accurate. They're still doing loads of robot stuff. BD division v separate &amp; being sold for several reasons.
+jackclarkSF	718504131325898752	2016-04-08T18:21:48	mhbergen 
+jackclarkSF	718502116013125632	2016-04-08T18:13:48	mark_riedl reminds me of 'TARS' in Interstellar, also.
+jackclarkSF	718500507237548032	2016-04-08T18:07:24	View from Wildcat Canyon Road looking east around dawn this morning. VOTENATURE2016 
+jackclarkSF	718500081914122240	2016-04-08T18:05:43	Google's Schaft: new bipedal robot w low center of gravity. Walks on snow/steps/pebbles  
+jackclarkSF	718498333505916928	2016-04-08T17:58:46	IBMResearch bit of a copy-paste error there, methinks
+jackclarkSF	718223015679541248	2016-04-07T23:44:45	mhbergen markmilian MattRosoff presaging the weirdest Jets vs Sharks dance-off Silicon Valley has ever seen
+jackclarkSF	718216461270020096	2016-04-07T23:18:42	Amazon promotes Andy Jassy, the Jolly Roger of Cloud Computing/Grim Reaper of Enterprise Margins, to CEO, AWS 
+jackclarkSF	718188548684439552	2016-04-07T21:27:47	hintikka yoavgo alright, fine. BRAIN MAGIC.
+jackclarkSF	718188122778038273	2016-04-07T21:26:06	yoavgo pattern induction
+jackclarkSF	718148539583438848	2016-04-07T18:48:49	BREAKING: Verizon to proceed with Yahoo bid, Google weighs offer  
+jackclarkSF	718069466534268928	2016-04-07T13:34:36	Not every algorithm is artificial intelligence. Not every ChatBot is AI. Let's please tone down the hype &amp; buzzwords. socbiz futureofwork
+jackclarkSF	717885693171671043	2016-04-07T01:24:21	LusciousPear oh, gosh, I didn't mean that! We meant Google has infrastructure in place to rapidly and trivially switch fleet from Intel
+jackclarkSF	717867564018216962	2016-04-07T00:12:19	Google has built tech that makes it trivial for it to switch from Intel/AMD to ARM or OpenPower chips. 
+jackclarkSF	717832306979803136	2016-04-06T21:52:13	Aelkus Miles_Brundage can confirm I am a creature that likes to get paid.
+jackclarkSF	717732728167247872	2016-04-06T15:16:31	thomeagle that's for my off Broadway play "Tin Can The Dancing Robot Man"
+jackclarkSF	717718866692943872	2016-04-06T14:21:27	I'm going to try to synthesize more research and do some histories, eg highway nets -&gt; res nets. Thanks for voting! 
+jackclarkSF	717716961216495616	2016-04-06T14:13:52	ZaraKessler THAToneil foxjust this is an entire Netflix series. Wagnerian.
+jackclarkSF	717567652902776834	2016-04-06T04:20:34	clmt npinto I chatted to people at GTC who reckon it's actually pretty reasonable. I wonder if there are extras, like leather interior ; )
+jackclarkSF	717523939769987072	2016-04-06T01:26:52	gamoid Techmeme FLAM YOU DAMN MEINBURGER!
+jackclarkSF	717522861083111424	2016-04-06T01:22:35	Techmeme yo, my name is jackclarksf now
+jackclarkSF	717514685856133120	2016-04-06T00:50:06	rbhar90 Aelkus etangent traviskorte that's a good method. I always look for papers associated w/people at company
+jackclarkSF	717461421764648960	2016-04-05T21:18:27	Amazon quietly acquired AI startup Orbeus_inc last year, picking up some good DNN image people. 
+jackclarkSF	717460037845655552	2016-04-05T21:12:57	PabloRedux will take a look, thanks
+jackclarkSF	717454717320691712	2016-04-05T20:51:48	Aelkus etangent traviskorte agreed. Getting companies to admit this is difficult as it runs counter to their marketing strategies.
+jackclarkSF	717454234375970816	2016-04-05T20:49:53	Aelkus etangent traviskorte +Markov chains.
+jackclarkSF	717453217949286400	2016-04-05T20:45:51	Aelkus etangent traviskorte but this could just be my own personal experience!
+jackclarkSF	717453157429694464	2016-04-05T20:45:37	Aelkus etangent traviskorte I think writing about products is difficult because most companies lie about how their AI works
+jackclarkSF	717452350365929472	2016-04-05T20:42:24	DaniLeo_Racing understood. I think it's a great benchmark for the scientists when trying to push the Tech, but I doubt it'll be any fun.
+jackclarkSF	717447686081744896	2016-04-05T20:23:52	samim alexjc graphific paging qevni
+jackclarkSF	717446937503358977	2016-04-05T20:20:54	jigarkdoshi what would you like to read about?
+jackclarkSF	717446837318193153	2016-04-05T20:20:30	alanlepo what companies do you know that are actually applying AI to this, rather than saying they are applying AI to this?
+jackclarkSF	717446594094759936	2016-04-05T20:19:32	DaniLeo_Racing what makes it pathetic?
+jackclarkSF	717414737265299456	2016-04-05T18:12:56	Nvidia announces 'Roborace'. 10 teams using ten identical autonomous cars from Nvidia, to compete in 2016/17 Formula1 E season.
+jackclarkSF	717414185227800577	2016-04-05T18:10:45	jashsf none so far. That's an option for another poll!
+jackclarkSF	717414101358497796	2016-04-05T18:10:25	Nvidia just showed off a self-driving car that uses an end-to-end net called 'DAVENET'. Kudos to them for showing it making mistakes.
+jackclarkSF	717413436133539840	2016-04-05T18:07:46	So far, about 70% of you want to read about AI research and analysis of the research, versus product stuff. 
+jackclarkSF	717406261386477569	2016-04-05T17:39:16	Nvidia's new Deep Learning system, the DGX-10, is powerful but chugs 3200 Watts. 
+jackclarkSF	717405000519913473	2016-04-05T17:34:15	seaandsailor karpathy thanks
+jackclarkSF	717404839341383680	2016-04-05T17:33:37	jackclarkSF karpathy It's their residual net paper: 
+jackclarkSF	717404860258209793	2016-04-05T17:33:42	karpathy thanks
+jackclarkSF	717404740141719552	2016-04-05T17:33:13	jackclarkSF ResNets. 1202 on CIFAR10 at least
+jackclarkSF	717404609870823424	2016-04-05T17:32:42	Microsoft is developing 1000-layer neural networks, says Nvidia chief. Anyone seen Arxiv papers on nets this deep? cc karpathy
+jackclarkSF	717389218775846913	2016-04-05T16:31:32	mhbergen i love plumbing
+jackclarkSF	717388996150632449	2016-04-05T16:30:39	Nvidia has a new production library called 'GPU Inference Engine'. Means a TX1 card goes from processing 4 imgs per sec per watt, to 24.
+jackclarkSF	717387687183851520	2016-04-05T16:25:27	Nvidia's cuDNN5 will support LSTMs, says CEO. Will speed training time of memory networks.
+jackclarkSF	717363151021297664	2016-04-05T14:47:57	qhardy we are a B2B skynet solutions provider with a focus on bringing about dynamic change within organizations through integrated AI
+jackclarkSF	717215432898437121	2016-04-05T05:00:59	MattRosoff yup. It's terrible. Snakeoilpalooza.
+jackclarkSF	717213920314966018	2016-04-05T04:54:58	MattRosoff and a lot of times products sold as AI are really based on rebranded old 'big data" approaches
+jackclarkSF	717213746742104066	2016-04-05T04:54:17	MattRosoff most companies crib from academic and industrial research then pretend they invented their own stuff, making analysis difficult
+jackclarkSF	717213566907113473	2016-04-05T04:53:34	MattRosoff problem here is that analyzing viability of products requires companies to disclose underlying tech
+jackclarkSF	717213124831617024	2016-04-05T04:51:48	snikolov fchollet deepgenomics is the best example, though - atomwise is connected but diff focus (medicine discovery)
+jackclarkSF	717212236629078020	2016-04-05T04:48:17	kleinsound the implication would be - I am the word monkey in this case
+jackclarkSF	717212117103951872	2016-04-05T04:47:48	snikolov fchollet also AtomWise
+jackclarkSF	717200605660352512	2016-04-05T04:02:03	IDavidson2110 fast-forward past all this complicated R&amp;D and I can't wait to hear about human therapists for depressed AIs
+jackclarkSF	717200029526536192	2016-04-05T03:59:46	hintikka ran out of polling options for a "all of above". I feel like Societal Impact is a bit difficult -- too many hypotheticals.
+jackclarkSF	717199506073190400	2016-04-05T03:57:41	What do you want to read about, when you read about artificial intelligence?
+jackclarkSF	717177111778168833	2016-04-05T02:28:42	jbeda two filled glasses = you were faithful till the very end
+jackclarkSF	717127104790458368	2016-04-04T23:10:00	“We’re always about AI for enterprise and they’re one of the most exciting enterprise companies in the world.” 
+jackclarkSF	717099593629102082	2016-04-04T21:20:40	Miles_Brundage we did write something fast, but it's not online yet : ).
+jackclarkSF	717098323803553796	2016-04-04T21:15:38	Miles_Brundage yeah, shame that. (that article is from 2014)
+jackclarkSF	717094725279420417	2016-04-04T21:01:20	MetaMind distinguished among AI startups by publishing solid papers in valuable areas, eg Dynamic Mem Nets 
+jackclarkSF	717093629030961152	2016-04-04T20:56:58	Salesforce acquisition MetaMind does image &amp; text analysis. + publishes research! Benioff an early investor. 
+jackclarkSF	717090088019226624	2016-04-04T20:42:54	Salesforce acquired AI startup metamind!
+jackclarkSF	717088679395770370	2016-04-04T20:37:18	Aelkus Miles_Brundage who is the author of machine dreams?
+jackclarkSF	717081643362684933	2016-04-04T20:09:21	Aelkus Miles_Brundage that's a great turn of phrase.
+jackclarkSF	717078404110090244	2016-04-04T19:56:28	jackclarkSF Miles_Brundage and x theory becoming more honest, in turn, leads to better insight about how to reverse-engineer it.
+jackclarkSF	717078328889491456	2016-04-04T19:56:10	jackclarkSF Miles_Brundage Trying to make other scientific theories "computable' tends to make x scientific theory more honest
+jackclarkSF	717058747319734272	2016-04-04T18:38:22	sgourley dbeyer123 you tried programming something that captures text subtleties and didn't drink????
+jackclarkSF	717028271406321664	2016-04-04T16:37:16	IgorCarron these are great posts. Thanks for bringing to my attention!
+jackclarkSF	716990800182153216	2016-04-04T14:08:22	hack_musician this won't help: 
+jackclarkSF	716980668152942592	2016-04-04T13:28:06	Flexi23 ha! I was trying to hint at fact that lots of academics who doubted DNN for $particulardiscipline have had to change course.
+jackclarkSF	716972199668625408	2016-04-04T12:54:27	Flexi23 not sure where you're getting fear-mongering from?
+jackclarkSF	716818988488073216	2016-04-04T02:45:39	nikillinit chrissyfarr the main win from AI seems to be giving professionals a very cheap system to flag cases/patients they shld examine
+jackclarkSF	716818809710108673	2016-04-04T02:44:56	nikillinit chrissyfarr AI can have the same basic symptom identification capabilities as a radiologist but never gets tired or biased
+jackclarkSF	716776809396899840	2016-04-03T23:58:03	Our new investment in George Hotz &amp; Comma.ai 
+jackclarkSF	716781843765284864	2016-04-04T00:18:03	maxerbubba dbeyer123 just keep chugging that sweet, sweet DNN code. Pass the TensorFlow fizz with a CNTK chaser!
+jackclarkSF	716755243904552960	2016-04-03T22:32:21	changeist NAUGHTY NEURAL NETS FOX BOFFINS. What newsletter?
+jackclarkSF	716753127722987521	2016-04-03T22:23:56	devnag Miles_Brundage wasn't aware of the pivot - AFAIK Hawkins is pushing on with work. Nupic quite different.
+jackclarkSF	716747311729147905	2016-04-03T22:00:50	Miles_Brundage IBM ; )
+jackclarkSF	716747247799574528	2016-04-03T22:00:35	psygnisfive Miles_Brundage Also, loads of IBM research projects are based at intersection of neuroscience and AI
+jackclarkSF	716747112638099456	2016-04-03T22:00:02	psygnisfive Miles_Brundage yeah, Numenta are modelling on known neural structures.
+jackclarkSF	716730082417647620	2016-04-03T20:52:22	"Why AI development is going to get even faster."  
+jackclarkSF	716745277483253760	2016-04-03T21:52:45	jackclarkSF and I'd prob. assign much more weight to hardware and core ML insights than cross-fertilization as accelerators but hard to say
+jackclarkSF	716744993835094016	2016-04-03T21:51:37	jackclarkSF agreed...maybe mentioned in the book but over a 5-10 year timeframe if not sooner, I'd expect neuroscience to also help a lot.
+jackclarkSF	716745515866533888	2016-04-03T21:53:42	Miles_Brundage but, yes, hardware is important, as are core ML insights, but that's another post! : )
+jackclarkSF	716745442764070912	2016-04-03T21:53:24	Miles_Brundage My theory is that you learn a lot about something when you adapt it to new domain, so drives core innovation
+jackclarkSF	716745295564898304	2016-04-03T21:52:49	Miles_Brundage yeah, there are a few references to neuroscience in there, but not dealt with at length.
+jackclarkSF	716732590141493248	2016-04-03T21:02:20	bhadrasandeep thanks. Gonna try and do more of these summaries as I think it can be handy. Sort of a Cliff's Notes of a Cliff's Notes.
+jackclarkSF	716728943559086080	2016-04-03T20:47:50	dbeyer123 who cares about the write-up -- what about those premium illustrations!?!?
+jackclarkSF	716726875758833665	2016-04-03T20:39:37	Why AI development is going to get even faster -- notes on dbeyer123's new book.  
+jackclarkSF	712486369382244352	2016-03-23T03:49:22	You know what's punk? Gay rights, Pro-choice laws, and environmental sustainability.
+jackclarkSF	715916532363227137	2016-04-01T14:59:37	Bot startup recipe: Upwork team + Crowdflower for training data cleanup + Twilio API.  Seed funding: $4M New grad devs: ~1 Amount of AI: 0
+jackclarkSF	715911758360104960	2016-04-01T14:40:38	When you encounter difficulty programming in Python, XKCD will usually come to your rescue: 
+jackclarkSF	715901411741945857	2016-04-01T13:59:32	marshallk correct. Still waking up here. I un-retweeted.
+jackclarkSF	715740114962395137	2016-04-01T03:18:35	Musk-backed OpenAI has hired some amazing researchers, including Google's Ian Goodfellow 
+jackclarkSF	715664505984802816	2016-03-31T22:18:09	hintikka human error.
+jackclarkSF	715664271531593729	2016-03-31T22:17:13	The potential impact of reinforcement learning on NLP is:
+jackclarkSF	715663054059474945	2016-03-31T22:12:23	mattsiegel this is some turin-shroud-level sketch
+jackclarkSF	715661376186757121	2016-03-31T22:05:43	Notes from a chat with a reinforcement learning expert: 
+jackclarkSF	715040144647176192	2016-03-30T04:57:09	benkepes MadronaVentures also, check out qhardy 's great posture
+jackclarkSF	714839360621838339	2016-03-29T15:39:19	nheudecker such as?
+jackclarkSF	714559935594565632	2016-03-28T21:08:59	J&amp;J kills its Anesthesiology robot. Not that it didn't work; the medical industry didn't want to accept it could 
+jackclarkSF	714548683124121601	2016-03-28T20:24:16	derektmead lorenzoFB stick it in a bread roll and add ketchup, then see what he says about your 'brooklyn pizza'
+jackclarkSF	714475351494119424	2016-03-28T15:32:52	Video understanding is the next frontier after still images. Introduce ActivityNet and its challenge by jcniebles 
+jackclarkSF	714028332900179968	2016-03-27T09:56:35	Recipe for a big fraction of AI news articles: new arXiv paper + author comments + other ppl's comments + Musk/Hawking mention + job stuff.
+jackclarkSF	714159502300286977	2016-03-27T18:37:48	jbeda Kennjason sriramhere Agreed. I've seen NDAs that explicitly talk about not revealing stuff that can bring company into disrepute.
+jackclarkSF	713942247486595072	2016-03-27T04:14:30	Interpipes yeah, I need to re-factor my post-it stack before tomorrow's push on the f***ed items
+jackclarkSF	713938919465701376	2016-03-27T04:01:17	Another glorious day spent with computers or, as I term them, grey-matter-manglers 
+jackclarkSF	713888459119661056	2016-03-27T00:40:46	gregde I'd love to talk about contracts, also! Cc jkositz
+jackclarkSF	713867714293420032	2016-03-26T23:18:20	Is Apple the new Sony? The next-gen interface is all about machine learning, speech and vision, and Apple is falling behind in these.
+jackclarkSF	713826942839959553	2016-03-26T20:36:20	milesward cloudpundit adrianco surely a bit of selection-bias here?
+jackclarkSF	713796276005900288	2016-03-26T18:34:28	qhardy that's what I'm trying to tell this computer program but it just won't listen!
+jackclarkSF	713793663717904384	2016-03-26T18:24:05	
+jackclarkSF	713573069680316416	2016-03-26T03:47:32	iankar_ I blame it on poor diet
+jackclarkSF	713477876490833920	2016-03-25T21:29:16	A markoff SteveLohr double byline on how the race is on among tech giants to control the A.I. platform. 
+jackclarkSF	713439742088445952	2016-03-25T18:57:44	mark_riedl Miles_Brundage Apple's secrecy hurts its recruiting.  &amp; privacy makes AI dev hard cc byJuliaLove
+jackclarkSF	713409364380352512	2016-03-25T16:57:01	BudnitzBicycles stop temping me with phenomenally nice bikes I can't afford
+jackclarkSF	713408226037932032	2016-03-25T16:52:30	BudnitzBicycles I recommend taking skyline to pinehurst, then go into the valley - redwoods &amp; fog, then cycle past san leandro resevoir
+jackclarkSF	713407980746637316	2016-03-25T16:51:31	BudnitzBicycles around redwood regional park in East Bay above Oakland. Dawn view = skyline blvd &amp; pinehurst rd. Others= east ridge trail
+jackclarkSF	713407739897126912	2016-03-25T16:50:34	GotzyT wild turkeys
+jackclarkSF	713402748704653312	2016-03-25T16:30:44	diodesign ABridgwater where are my internet cents, eh? my digital dimes? my content quids?
+jackclarkSF	713399899472011264	2016-03-25T16:19:25	ABridgwater when they start using my hashtag I will have a yuuuuuuge success
+jackclarkSF	713399546647154690	2016-03-25T16:18:00	Attempted to sweat out a cold with a dawn bike ride VOTENATURE2016 
+jackclarkSF	713221834708090881	2016-03-25T04:31:51	jbeda there's a nasty cold going round at the moment - several colleagues had it in past week. Perhaps it has spread north!
+jackclarkSF	713173689131339776	2016-03-25T01:20:32	edzitron gamoid c_davies kylebrussell throw your damn car in the cloud
+jackclarkSF	713173628469182464	2016-03-25T01:20:17	edzitron gamoid c_davies kylebrussell but that's because I prefer reading &amp; typing to driving.
+jackclarkSF	713173558025854976	2016-03-25T01:20:01	edzitron gamoid c_davies kylebrussell I just tend to get a bus to fremont BART, or take a train to Millbrae
+jackclarkSF	713172875738394624	2016-03-25T01:17:18	c_davies kylebrussell do you live so far from a BART that a train&amp;BART combo is impossible?
+jackclarkSF	713170240096509952	2016-03-25T01:06:49	Tremendous slides from a ylecun talk at CERN today  
+jackclarkSF	713041000004882432	2016-03-24T16:33:16	samcharrington juliaferraioli seconded
+jackclarkSF	713040268811833344	2016-03-24T16:30:22	GotzyT Jeff Dean said he and his team at Google are building tools to debug and explain output of neural networks
+jackclarkSF	712849826388508672	2016-03-24T03:53:37	mcwm TayandYou I DM'd it as well and got no reply : (
+jackclarkSF	712843776297869313	2016-03-24T03:29:34	wolfejosh was it fun? I've heard good things
+jackclarkSF	712818751175929856	2016-03-24T01:50:08	TayandYou hey, what do you think about HAL 9000?
+jackclarkSF	712752157087256576	2016-03-23T21:25:31	jedgar dynamic handles! Cc jack
+jackclarkSF	712744862395662336	2016-03-23T20:56:32	marypcbuk yeah, he means stuff like layer introspection, I think. Not a solution, sure. Says people get used to lack of interpretibility
+jackclarkSF	712743549695971328	2016-03-23T20:51:19	Jeff Dean: some Googlers complain about poor interpretibility of ML/AI systems. Is developing better debug tools. 
+jackclarkSF	712730602965827584	2016-03-23T19:59:52	Google Taps Machine Learning to Lure Companies to Its Cloud  jackclarkSF
+jackclarkSF	712703476875206656	2016-03-23T18:12:04	michael_nielsen karpathy don't go towards the light! and whatever you do, put the lisp down!
+jackclarkSF	712697876569149440	2016-03-23T17:49:49	aronchick jbeda ericschmidt kubernetesio cool!
+jackclarkSF	712697396539445248	2016-03-23T17:47:55	aronchick jbeda ericschmidt how does it relate to Omega?
+jackclarkSF	712504345040801792	2016-03-23T05:00:48	Outside of the core people, who actually know what they're doing, AI is talked about like gamification was three years ago.
+jackclarkSF	712464291908206592	2016-03-23T02:21:38	Amazon's Jeff Bezos, a bunch of scientists and some robots are whooping it up in the desert:  jackclarkSF
+jackclarkSF	712333124324233216	2016-03-22T17:40:26	petewarden Next: a poet's guide to hyperparameter initialization.
+jackclarkSF	712332257705508865	2016-03-22T17:36:59	wattersjames jordannovet stu Uber's moving to Oakland in 2017. It's the place to be for the upcoming corporate types, like myself.
+jackclarkSF	712326144524218368	2016-03-22T17:12:41	jackclarkSF sindarina cloudpundit I know of three customers that would send them $300K+/yr if they expand to western or southern Africa.
+jackclarkSF	712325407207460864	2016-03-22T17:09:46	kennwhite sindarina cloudpundit they didn't share details of the where for the others, but they committed to it
+jackclarkSF	712313567576346624	2016-03-22T16:22:43	Google Cloud is quintupling its new regions around the world from 3 to 15 to take on Amazon 
+jackclarkSF	712116620081111040	2016-03-22T03:20:07	When Jobs and Ellison told Andy Grove he was the only boss they would work for, he called them 'a couple of flakes.' 
+jackclarkSF	712114553652293633	2016-03-22T03:11:54	Seconded. "Distributed systems archeology" is one of the finest talks I've seen.  
+jackclarkSF	688868459447480320	2016-01-17T23:40:13	Q: Why did the deep net cross the road?   A: We don't know. But look, it did it really well...  deeplearning
+jackclarkSF	712106505034539008	2016-03-22T02:39:55	jimaley just read it. A great piece. And the problems have got worse. Eg - why didn't the US spawn DJI? Same reasons.
+jackclarkSF	711949537280131073	2016-03-21T16:16:11	melyork another fine extract from your hellish existence, there, Mel. Hardship assignment, I see?
+jackclarkSF	711949236724744192	2016-03-21T16:15:00	jeremyakahn thanks Jeremy!
+jackclarkSF	711282504318066689	2016-03-19T20:05:38	kunikos chillicampari or 4chan
+jackclarkSF	711282184741474304	2016-03-19T20:04:22	iandanforth marvelous. Sent you a msg on linkedin
+jackclarkSF	711256177623982080	2016-03-19T18:21:01	Aelkus Miles_Brundage yeah - great example here of how a dragonfly does targeting/movement 
+jackclarkSF	711248853781975040	2016-03-19T17:51:55	Aelkus Miles_Brundage Agreed. I think we can build far more capable hardware than the software to control/move it autonomously.
+jackclarkSF	711247388715798528	2016-03-19T17:46:06	Aelkus Miles_Brundage yeah. And even if you do stuff like fuzzing/synthetic noise to mimic world, it can still fail.
+jackclarkSF	711247009924063233	2016-03-19T17:44:36	jackclarkSF Miles_Brundage ....but even best simulators aren't necessarily a substitute for real world immersion.
+jackclarkSF	711246909013229568	2016-03-19T17:44:12	jackclarkSF Miles_Brundage also, there is a tradeoff in terms of how to make them work. Training in real world = expensive/risky....
+jackclarkSF	711247272009289728	2016-03-19T17:45:38	kleinsound kind of made sense to move to a handle with my name in it though
+jackclarkSF	711247208062930945	2016-03-19T17:45:23	kleinsound pour one out for my brand identity!
+jackclarkSF	711247104203563008	2016-03-19T17:44:58	iandanforth thanks sir! spoke to a lot of people to try and ensure we didn't emit any egregious errors
+jackclarkSF	711246817342545921	2016-03-19T17:43:50	Miles_Brundage 2) your potential action space is so vast that we need better ways to optimize policy to get stronger signal frm reward func
+jackclarkSF	711246508746612737	2016-03-19T17:42:36	Miles_Brundage couple of problems with robots -- 1) movements are continuous, so not just forward/back, but all degrees between 1/2
+jackclarkSF	711246412353130496	2016-03-19T17:42:13	Miles_Brundage yeah, lots of people are starting to do collaborative learning.
+jackclarkSF	711235004047630336	2016-03-19T16:56:53	Miles_Brundage thanks Miles, means a lot coming from you!
+jackclarkSF	711192792794591232	2016-03-19T14:09:09	this is what a neural net sees when it looks at satellite images. wip with golan workergnome 
+jackclarkSF	711100591523631104	2016-03-19T08:02:47	Wise words: Geoffrey Hinton, the 'godfather' of deep learning, on AlphaGo 
+jackclarkSF	710948567611932673	2016-03-18T21:58:41	kevinclosson so you get all these weird things propagating across social media which will sway opinion
+jackclarkSF	710948502759673856	2016-03-18T21:58:26	kevinclosson probably wise. Scenarios I'm imagining = take political candidate press conf clips &amp; apply new audio from voice actor
+jackclarkSF	710946737955872768	2016-03-18T21:51:25	New AI method for transferring facial expressions onto other faces = in future gonna be hard to verify vid clips 
+jackclarkSF	710924192703590400	2016-03-18T20:21:50	SFNick ArmstrongDrew alexbarinka crayton_h needs some clipart stars and arrows and you're good.
+jackclarkSF	710888491845083136	2016-03-18T17:59:58	Chris_Gaun ShiraOvide that's what the car is for. The big money is in global-scale turkey catching.
+jackclarkSF	710888203117596672	2016-03-18T17:58:49	ellenhuet ShiraOvide after that it's just 'the turkey story'
+jackclarkSF	710888092274704385	2016-03-18T17:58:23	ShiraOvide goddamit now I need to go and do some more reporting
+jackclarkSF	710887860258390016	2016-03-18T17:57:28	ShiraOvide this happened. The car kind of paused cautiously and eventually went round it. If memory serves, was in MTV
+jackclarkSF	710886842472734721	2016-03-18T17:53:25	gamoid ShiraOvide we plumbed the babel
+jackclarkSF	710886515841359872	2016-03-18T17:52:07	More on why Google wanted to sell Boston Dynamics: software hasn't quite caught up with BD mechanical capabilities 
+jackclarkSF	710651970558636032	2016-03-18T02:20:07	kleinsound l2k &gt; ;  (
+jackclarkSF	710649551636463616	2016-03-18T02:10:30	A good way to filter out insane comments is to check if there's a semi-colon, says l2k - crazy people don't properly punctuate.
+jackclarkSF	710505688229879809	2016-03-17T16:38:51	Google puts Boston Dynamics up for sale in robotics retreat  
+jackclarkSF	710287462589800448	2016-03-17T02:11:42	Important paper: "One-Shot Generalization in Deep Generative Models" by DeepSpiker, shakir_za et al. at DeepMind: 
+jackclarkSF	710279320879534080	2016-03-17T01:39:21	Possibly attentional bias, but training deep nets in simulators seems to be coming up in every meeting lately especially w/ automotive co.s
+jackclarkSF	710171285578326020	2016-03-16T18:30:03	Toyota, Ford, Volkswagen fund deep learning AI research at Berkeley for self-driving cars 
+jackclarkSF	710152695999553536	2016-03-16T17:16:11	Buying in: Automakers Go Back to School to Learn to Build Self-Driving Cars  via technology mappingbabel
+jackclarkSF	709770146877837312	2016-03-15T15:56:04	The state of deep learning frameworks: March 2016. 
+jackclarkSF	709583716205481984	2016-03-15T03:35:16	Good week to invest in whatever company makes Go sets.
+jackclarkSF	709583014926245888	2016-03-15T03:32:28	The neural nets were trained through self-play so there will be gaps in their knowledge, which is why we are here: to test AlphaGo the limit
+jackclarkSF	709582557843591170	2016-03-15T03:30:39	This meant that all the prior searching AlphaGo had done was rendered useless, and for a while it misevaluated the highly complex position
+jackclarkSF	709582135363903488	2016-03-15T03:28:59	Taken a quick look at the logs: AlphaGo gave a probability of &lt;1 in 10000 for Lee's brilliant move 78, so AG found this move very surprising
+jackclarkSF	709543484785434624	2016-03-15T00:55:24	somethinggrace *deep in the recesses of a pyramid, a coffin cracks open and an eerie voice howls* rememberrr theeee shinnnnnns
+jackclarkSF	709465955223543808	2016-03-14T19:47:19	BatchNorm, STN, DCGAN, DRAW, soft/hard attention, char-rnn, DeepDream, NeuralStyle, TensorFlow, ResNet, AlphaGo.. a lot happened over 1 year
+jackclarkSF	708934687926804482	2016-03-13T08:36:15	When I say 'thought' and 'realisation' I just mean the output of AlphaGo value net. It was around 70% at move 79 and then dived on move 87
+jackclarkSF	708928006400581632	2016-03-13T08:09:42	Mistake was on move 79, but AlphaGo only came to that realisation on around move 87
+jackclarkSF	708920239052824578	2016-03-13T07:38:50	Lee Sedol is playing brilliantly! AlphaGo thought it was doing well, but got confused on move 87. We are in trouble now...
+jackclarkSF	709422117666885632	2016-03-14T16:53:07	halhod Sam_L_Shead they'll be flaming beakers and labcoats galore &amp; CRISPR-edited dogs that vomit bees
+jackclarkSF	709420567347208192	2016-03-14T16:46:58	Sam_L_Shead we'll discuss over pints at some point, I'm sure. There are far better ways to evaluate research impact.
+jackclarkSF	709419885047242753	2016-03-14T16:44:15	halhod Sam_L_Shead demishassabis exactly!
+jackclarkSF	709419526627135488	2016-03-14T16:42:50	Sam_L_Shead I'm just grumpy because this piece turns scientific impact into a weird numbers game &amp; ignores vast unnamed contributors.
+jackclarkSF	709419396985430016	2016-03-14T16:42:19	Sam_L_Shead surely if you're going to rank papers, then you rank via citations as that shows impact?
+jackclarkSF	709419131045543937	2016-03-14T16:41:15	Sam_L_Shead also, quantity != quality. One paper can have the impact of 100.
+jackclarkSF	709418937251926017	2016-03-14T16:40:29	Sam_L_Shead AlphaGo is one of around 8 projects, most of which haven't been revealed.
+jackclarkSF	709414920195022848	2016-03-14T16:24:31	Sam_L_Shead plus, the DeepMind page doesn't publish all the papers its scientists are involved in, so your methodology is wrong.
+jackclarkSF	709414831590342657	2016-03-14T16:24:10	Sam_L_Shead and imagine how profoundly insulting this is to one of the non-21 people you've arbitrarily picked out here?
+jackclarkSF	709414741970690048	2016-03-14T16:23:49	Sam_L_Shead it completely ignores quantity over quality. some scientists are doing huge research but have published no papers. disingenous.
+jackclarkSF	709414349681590273	2016-03-14T16:22:15	Sam_L_Shead sam, this is bollocks. the company has over 200 research scientists.
+jackclarkSF	709108805221482496	2016-03-13T20:08:08	In about eight years, AlphaGo will look as crude as this card in the left, if it scales with hardware. 
+jackclarkSF	708523279221297152	2016-03-12T05:21:28	The things people say when they have their process running on 1000 cores and 200 GPUs. 
+jackclarkSF	708790738083917824	2016-03-12T23:04:15	mjd1735 RobinWigg that's what I mean - it's impossible to explore all possible moves practically so it has systems to evaluate intuitively
+jackclarkSF	708752899019448321	2016-03-12T20:33:53	A larger message of AlphaGo: computationally intractable / high-dimensional problems can now be 'contemplated' by advanced software. Huge!
+jackclarkSF	708750902643929088	2016-03-12T20:25:57	"In forcing AlphaGo to withstand a very severe, one-sided attack, Lee revealed its hitherto undetected power." 
+jackclarkSF	708567021122772992	2016-03-12T08:15:17	AlphaGo won game 3 and the match! Historic moment. In complete awe of Lee Sedol’s incredible genius, and proud of the amazing AlphaGo team!
+jackclarkSF	708647799982661632	2016-03-12T13:36:16	AlphaGo bests expert human at a 2,500-year-old game of strategy and beauty 
+jackclarkSF	708590856618377216	2016-03-12T09:49:59	With its AlphaGo tournament 3-0 win, DeepMind has given best demonstration yet of the flexibility and subtlety of Neural Nets &amp; RL.
+jackclarkSF	708514496701042692	2016-03-12T04:46:34	snagglechud the Nature paper
+jackclarkSF	708514297807118337	2016-03-12T04:45:46	AlphaGo's logo is secretly cheerful. By design, I'm sure! 
+jackclarkSF	708509132618207232	2016-03-12T04:25:15	snagglechud (I transcribed that section because I thought it was notable)
+jackclarkSF	708509041404698624	2016-03-12T04:24:53	snagglechud it was on the pre-match livestream, so you can just wind this back to before the match and watch 
+jackclarkSF	708506790887993344	2016-03-12T04:15:57	complex ah, interesting!
+jackclarkSF	708504149252448257	2016-03-12T04:05:27	David Silver of DeepMind discussed AlphaGo ahead of match three &amp; made amazing Freudian slip (calling AI 'him') 
+jackclarkSF	708502448781049856	2016-03-12T03:58:41	AlphaGo Match 3 livestream is here: 
+jackclarkSF	708488741275312128	2016-03-12T03:04:13	Our neural network training algorithms are more important to AlphaGo performance than the hardware it uses to play (see the Nature paper)
+jackclarkSF	708488229750591488	2016-03-12T03:02:11	We are using roughly same amount of compute power as in Fan Hui match: distributing search over further machines has diminishing returns
+jackclarkSF	708085819009990657	2016-03-11T00:23:09	Google's Jeff Dean just boasted that TensorFlow is now "the No. 1 machine learning repository on GitHub." structuredata
+jackclarkSF	708085846554103809	2016-03-11T00:23:16	Google's usage of AI technology is spiking, says Jeff Dean at structuredata 
+jackclarkSF	708004536875487232	2016-03-10T19:00:10	samcharrington MSFTResearch peteratmsr thanks dude, it was fun!
+jackclarkSF	707994880438472704	2016-03-10T18:21:48	Microsoft challenged by intimacy context prosody in improving Skype real-time translator peteratmsr structuredata 
+jackclarkSF	707959327030521858	2016-03-10T16:00:31	Not able to attend structuredata in person? Watch peteratmsr + mappingbabel take the stage at 10:05am PT 
+jackclarkSF	707940509767979008	2016-03-10T14:45:45	mat_kelcey two degrees of Lee-bacon separation. What's your Erdos AlphaGo number
+jackclarkSF	707864416512053248	2016-03-10T09:43:23	Wow! Totally different match this morning to yesterday. Strong play on both sides that had the commentators guessing until the end! AlphaGo
+jackclarkSF	707845224731508736	2016-03-10T08:27:07	AlphaGo wins match 2, to take a 2-0 lead!! Hard for us to believe. AlphaGo played some beautiful creative moves in this game. Mega-tense...
+jackclarkSF	707796856475099136	2016-03-10T05:14:55	AlecRad our greatest chance to learn from this is to distort the game board and/or topology and see how it reacts, I think.
+jackclarkSF	707796767505571840	2016-03-10T05:14:34	AlecRad what I'm looking forward to is the experiments they plan to do after match, eg, make edges of board interconnected, 1/2
+jackclarkSF	707791733115883520	2016-03-10T04:54:33	"It's playing moves that are definitely not usual moves... coming up with the moves on its own" - AlphaGo
+jackclarkSF	707791032021176321	2016-03-10T04:51:46	AlphaGo just played a surprising move and Lee Sedol left the room. Idiosyncratic AI.  
+jackclarkSF	707789538807173120	2016-03-10T04:45:50	Match 2 is underway! View from the room... AlphaGo DeepMind 
+jackclarkSF	707783637190778880	2016-03-10T04:22:23	This is a serious move from AlphaGo. No human plays like this, which means AlphaGo came up with this on its own.
+jackclarkSF	707782712313188352	2016-03-10T04:18:43	But of course, AlphaGo has no face.
+jackclarkSF	707782642876465152	2016-03-10T04:18:26	Comm: "It's such a weird move, the kind of move that makes you look up immediately to look at the face of the opposing player."
+jackclarkSF	707724157694386176	2016-03-10T00:26:02	bpatrick001 StevenJBurke CRN presume the blurry photo is due to your hands shaking, though? He grilled you good!
+jackclarkSF	707677449149136896	2016-03-09T21:20:26	mpesce You're not the only one cc TheKanter 
+jackclarkSF	707651884346003456	2016-03-09T19:38:51	ShiraOvide yeah
+jackclarkSF	707643273121234944	2016-03-09T19:04:38	Google moved to 48V-power some time ago and is now sharing with world, but isn't giving over server schematics, etc 
+jackclarkSF	707474683906674688	2016-03-09T07:54:43	AlphaGo WINS!!!! We landed it on the moon. So proud of the team!! Respect to the amazing Lee Sedol too
+jackclarkSF	707472017323388928	2016-03-09T07:44:07	here’s the board from alphago’s amazing victory over lee se-dol  
+jackclarkSF	707474649832001536	2016-03-09T07:54:35	NandoDF pocketpixels 'Yuge victory. My tactics will amaze you. I am very smart and powerful. My opponent is weak, low-energy.'
+jackclarkSF	707473006189277184	2016-03-09T07:48:03	I worked on machine learning and Go in grad school in 1989. I'm thrilled to watch today's game &amp; proud of whole AI research field!
+jackclarkSF	707471639852752896	2016-03-09T07:42:37	... and while lee se-dol sleeps alphago will replay variants of that game (and others) against itself a kazillion times
+jackclarkSF	707471371694153728	2016-03-09T07:41:33	Thanks, Yann! Another victory for deep learning, RL and Monte Carlo tree search 
+jackclarkSF	707469083458068480	2016-03-09T07:32:28	Huge milestone in AI! AlphaGo beats the world champion Lee Sedol! We made history! What an incredible moment! :-) 
+jackclarkSF	707462654353416192	2016-03-09T07:06:55	The AlphaGo control room! Truly nail biting! :-) 
+jackclarkSF	707428933197799425	2016-03-09T04:52:55	Love it... The DeepMind office in London is packed at 5am for the big match. Enjoy guys! :-) 
+jackclarkSF	707334741679345666	2016-03-08T22:38:38	OH at office: "In a way, food is super mainstream and touches everyone."
+jackclarkSF	707088097943494657	2016-03-08T06:18:34	ConorDougherty gosh. Well, stuff from Narrative Sciences / Automated Insights does that. Depends how you define AI.
+jackclarkSF	707084767817142272	2016-03-08T06:05:20	ConorDougherty your employer has a prototype that uses RNNs for tagging 
+jackclarkSF	706865617593364480	2016-03-07T15:34:30	2016: the year where anything that uses any form of algorithm is marketed as using 'AI'. We'll laugh about that in a couple of years.
+jackclarkSF	706658815857393665	2016-03-07T01:52:45	fchollet Also, Bostrom always qualifies his comments. Reeks of clickbait.
+jackclarkSF	706633471939055616	2016-03-07T00:12:02	etzioni irresponsible, one-sided article
+jackclarkSF	706544101005459456	2016-03-06T18:16:55	gideonmann ALPHAGO CN BN&lt;GO&gt;
+jackclarkSF	706539103613902848	2016-03-06T17:57:03	Is anyone hosting an AlphaGo watch party in the Bay Area this week or next week?
+jackclarkSF	706534174639808512	2016-03-06T17:37:28	Hassabis suggests DeepMind's next big AI challenge after Go is a game like Starcraft (1:08) 
+jackclarkSF	706528816961720320	2016-03-06T17:16:11	Storm casualty seen on Centennial Drive in Berkeley. VOTENATURE2016 FEARNATURE2016 
+jackclarkSF	705790174324662272	2016-03-04T16:21:05	Marvelously visceral explanation of why DNN classifiers are like high-dimensional analogue arcade machines 
+jackclarkSF	705750528710475777	2016-03-04T13:43:32	vakibs agreed. He is a very lucid and considered interviewee
+jackclarkSF	705631907271221252	2016-03-04T05:52:11	We live in a world where Geoff Hinton can talk about 'thought vectors' on a major Canadian TV show 
+jackclarkSF	705607659609718784	2016-03-04T04:15:50	Miles_Brundage rbhar90 yeah, they had that new paper on hierarchical attentive memory recently, is that what you meant
+jackclarkSF	705606685507715072	2016-03-04T04:11:58	Miles_Brundage rbhar90 I'm operating in assumption it would be mostly end-to-end and mostly neural stuff, eg Neural GPU, etc
+jackclarkSF	705605220420624384	2016-03-04T04:06:08	rbhar90 Miles_Brundage I'm gonna wager that's a year and a half away, minimum, and I would love to be surprised.
+jackclarkSF	705604110200893440	2016-03-04T04:01:44	Miles_Brundage this is a big one
+jackclarkSF	705587189178994688	2016-03-04T02:54:29	At packed nervanasys AI meetup -- they claim their new v1.3 AI framework exceeds Nvidia cuDNNv4 perf 
+jackclarkSF	705553494749491200	2016-03-04T00:40:36	ShiraOvide jordannovet alex enjoy your flavored water while I sit here typing away powered by CLUB-MATE 
+jackclarkSF	705551075236028416	2016-03-04T00:30:59	jordannovet alex ya'll need to get on the Club-Mate train
+jackclarkSF	705530348617146368	2016-03-03T23:08:37	GPU-palooza: Why Nvidia is making hay out of Deep Learning  though likely custom chips will enter market soon
+jackclarkSF	705473471686508544	2016-03-03T19:22:37	iankar_ moneymoneymoney@qz.com is a p good email, tbh.
+jackclarkSF	705450325285707776	2016-03-03T17:50:38	brendandburns paging ms705
+jackclarkSF	705434919892340736	2016-03-03T16:49:25	lawrencelundy everything you interact with will display a useful preference signal, when analyzed in the aggregate
+jackclarkSF	705431522522730496	2016-03-03T16:35:55	lawrencelundy amazon Sonos yup
+jackclarkSF	705190848900648960	2016-03-03T00:39:34	Glimpse what peteratmsr will chat with mappingbabel at dataconf next week. Hint: It's deep  deeplearning
+jackclarkSF	705134408714559489	2016-03-02T20:55:18	That time Peter Norvig casually wrote a spelling corrector in 21 lines of Python 
+jackclarkSF	705132423672172545	2016-03-02T20:47:25	forthebest we'll have true AI when it is suitably perturbed by the offer to 'tangle your bracket'
+jackclarkSF	705128462063935488	2016-03-02T20:31:40	thomeagle where did you get the knives, and how much is reasonable to pay for a really good knife?
+jackclarkSF	705126273597710336	2016-03-02T20:22:58	sknthla already happened, and it's awesome:  / 
+jackclarkSF	705114982824828928	2016-03-02T19:38:06	famous no, but you will be forced to sign a Soul Enterprise Agreement.
+jackclarkSF	704862409794519040	2016-03-02T02:54:28	Miles_Brundage 100 simultaneous games
+jackclarkSF	704736462651187200	2016-03-01T18:34:00	dschatsky my worst was an 10&amp;1/2-hour flight from UK to Las Vegas with screaming children, turbulence, and entertainment systems broken
+jackclarkSF	704683190032535552	2016-03-01T15:02:19	meretrivia yr new EP is 100/100
+jackclarkSF	704450478051074048	2016-02-29T23:37:36	yoavgo thanks. I find these kinds of studies fantastically useful.
+jackclarkSF	704449071549964288	2016-02-29T23:32:01	yoavgo is there a link available?
+jackclarkSF	704432479093039106	2016-02-29T22:26:05	bobmcmillan : /
+jackclarkSF	704431545231220736	2016-02-29T22:22:22	davmre lawrennd yeah, the racecar vs go kart idea is really, really good. Stealing it!
+jackclarkSF	704419616106409986	2016-02-29T21:34:58	"Like a buttefly’s wings, the locked in nature of our own intelligence is a thing of rare and natural beauty" 
+jackclarkSF	704372882407874560	2016-02-29T18:29:16	Rolling Stone goes big on RL for robots. NIce one, pabbeel  
+jackclarkSF	704369548212961281	2016-02-29T18:16:01	Here are Gawker's (proposed) salary minimums for every position: 
+jackclarkSF	704012050192842753	2016-02-28T18:35:27	How to Code and Understand DeepMind's Neural Stack Machine   Truly epic post by iamtrask
+jackclarkSF	704182289027084289	2016-02-29T05:51:55	beaucronin tiltbrush is far and away the most exciting VR app I've used
+jackclarkSF	704114127292137476	2016-02-29T01:21:04	As such, the cells in your body and the neurons in your brain represent untold amounts of solar energy accumulated over billions of years.
+jackclarkSF	704114026091950080	2016-02-29T01:20:40	Because it takes energy to go against entropy, information represents accumulated energy (analogous to potential energy, though different).
+jackclarkSF	704090137081163776	2016-02-28T23:45:44	Marvelous post that should let anyone get started with a basic image classifier - no code required. Bravo. 
+jackclarkSF	703981499872362496	2016-02-28T16:34:03	Thoughtful analysis of software and hardware progress in DeepMind's AlphaGo,  by Miles_Brundage 
+jackclarkSF	600771282431561728	2015-05-19T21:13:30	Accidental Escher 
+jackclarkSF	703634232426364928	2016-02-27T17:34:08	FRACTAL CITY ALERT  
+jackclarkSF	703634115581472769	2016-02-27T17:33:40	samim davidgraeber it's a great book, definitely worth reading.
+jackclarkSF	703392314299801600	2016-02-27T01:32:50	edzitron DelRey Red Herring: Uncut
+jackclarkSF	703391891220332545	2016-02-27T01:31:09	edzitron DelRey your shameful addiction to astronomy audiobooks
+jackclarkSF	703386256177168384	2016-02-27T01:08:46	diodesign ktreed puns are for the birds.
+jackclarkSF	703380552183721984	2016-02-27T00:46:06	ktreed "murdered them dead" -- stop crufting up the generous 140 character limit with these redundant phrases. Help, diodesign
+jackclarkSF	703307930750201856	2016-02-26T19:57:32	BretteQ I kept clear of them. They looked like cheerful bullies
+jackclarkSF	703307829994631168	2016-02-26T19:57:08	diodesign binocular vision plugged into a pretty big convnet
+jackclarkSF	703307336031404032	2016-02-26T19:55:10	Found a gang of wild turkeys on the bike today VOTENATURE2016 
+jackclarkSF	703070567679655936	2016-02-26T04:14:20	DanielleMorrill this is one of jeremyphoward 's favorite topics, eg: 
+jackclarkSF	703049092180541440	2016-02-26T02:49:00	samim Miles_Brundage marypcbuk monkchips there is no ML here yet. DeepMind built totally separate infrastructure dedicated to health.
+jackclarkSF	703039737179680769	2016-02-26T02:11:49	CalebMelby the great wall of china 
+jackclarkSF	703039328478310400	2016-02-26T02:10:12	John_Eddy_ over half the circumference of the earth
+jackclarkSF	703037751113809921	2016-02-26T02:03:56	Donald Trump just said the Great Wall of China is 13,000 miles long.
+jackclarkSF	702992240424013824	2016-02-25T23:03:05	shanley paging AmberIshikawa
+jackclarkSF	702946089364639744	2016-02-25T19:59:42	Facebook is donating their multi-GPU servers to academic and research institutions in Europe doing ML &amp; AI 
+jackclarkSF	702937216557821952	2016-02-25T19:24:27	Neural nets are getting good at enhancing/up-scaling images. Spies &amp; designers rejoice! 
+jackclarkSF	702917004756283392	2016-02-25T18:04:08	mat_kelcey do you think this is just smartphones, or other trends driving this massive component price reduction?
+jackclarkSF	702912681972355072	2016-02-25T17:46:57	marypcbuk monkchips DeepMind is a separate company. Do you just mean it's weird that DeepMind gets NHS data?
+jackclarkSF	702912022774575104	2016-02-25T17:44:20	marypcbuk monkchips no data goes over to google infrastructure nor does it leave the UK. DeepMind Health is separate.
+jackclarkSF	702911942034198529	2016-02-25T17:44:01	marypcbuk monkchips it doesn't, it's completely separate. the data, infrastructure, governance, all separate.
+jackclarkSF	702909308913102848	2016-02-25T17:33:33	monkchips marypcbuk so saying it is Google in an NHS data center is factually incorrect - it's totally separate
+jackclarkSF	702909228751519744	2016-02-25T17:33:14	monkchips marypcbuk the infrastructure and technology is totally separated from google's infrastructure cc mustafasuleymn
+jackclarkSF	702637286823993344	2016-02-24T23:32:38	samim Miles_Brundage alexjc togelius have you seen any interesting postings yet?
+jackclarkSF	702636503495811073	2016-02-24T23:29:31	Miles_Brundage alexjc togelius Amirmizroch samim yeah, it was not nearly as committed/tangible as people are making out.
+jackclarkSF	702583202783690753	2016-02-24T19:57:43	mark_riedl they've started using little toy examples in a few papers, not full game.
+jackclarkSF	702582527962144769	2016-02-24T19:55:02	mark_riedl yeah. FB has also published on this
+jackclarkSF	702582233341636608	2016-02-24T19:53:52	DeepMind's new Health group starts with software and could lead to medical AI! NHS  
+jackclarkSF	702581027038834689	2016-02-24T19:49:04	Miles_Brundage yup, very, please send!
+jackclarkSF	702579880236482560	2016-02-24T19:44:31	admsch np, walking somewhere so couldn't find an URL : )
+jackclarkSF	702579273652051969	2016-02-24T19:42:06	admsch it's widely known
+jackclarkSF	702571892704681984	2016-02-24T19:12:47	Sassy Smart Reply? Google AI R&amp;D is giving natural language systems ability to "perceive and project" personalities 
+jackclarkSF	702565706601209857	2016-02-24T18:48:12	TheKanter I do not know why they chose to rent fiber in SF rather than build. Theoretically should bring it here faster but at cost of covg
+jackclarkSF	702565626024497154	2016-02-24T18:47:52	TheKanter one of GFiber's new strategies is to roll out using combination of own infrastructure and renting and tapping muni broadband
+jackclarkSF	702560209902936064	2016-02-24T18:26:21	kevinroose Humans V.05
+jackclarkSF	702551625722892288	2016-02-24T17:52:15	Pretty big delta between Google's AI Go bot (left) and Facebook's Go bot (right), based on a demishassabis slide 
+jackclarkSF	702550931750178816	2016-02-24T17:49:29	jimmfleming oh, absolutely! 
+jackclarkSF	702543801299111937	2016-02-24T17:21:09	Live stream of demishassabis giving a talk on AI and the Future 
+jackclarkSF	702543474235727873	2016-02-24T17:19:51	StephenNellis most weird databases are only really valuable under those circumstances, also. Otherwise MySQL is your best friend.
+jackclarkSF	702542625920970752	2016-02-24T17:16:29	open source Deep Learning frameworks are the new open source databases - everyone's releasing them, only one or two will be widely used.
+jackclarkSF	702539817893154816	2016-02-24T17:05:19	As freaky as new Atlas robot vid is, worth remembering that these are mostly driven by people with controllers 
+jackclarkSF	702143255547236352	2016-02-23T14:49:31	Recursive functions. 
+jackclarkSF	701888113820495872	2016-02-22T21:55:41	caseyjohnston daveyalba NellieBowles this is not normal. cc EricNewcomer
+jackclarkSF	701779816161251328	2016-02-22T14:45:21	mims So Google is making some tools free, but not the materials (data) or techniques needed to design AI systems.
+jackclarkSF	701779631838404609	2016-02-22T14:44:37	mims all Google does is make some of the tools for making AI available for free so it can pick up some developers.
+jackclarkSF	701779419929546752	2016-02-22T14:43:46	mims TensorFlow is a framework for running various things. Note Google doesn't release many models with weights etc
+jackclarkSF	701779312664453120	2016-02-22T14:43:21	mims where do they claim to? They haven't released as open source rankbrain (the ML for Google search ranking)
+jackclarkSF	701777737095073793	2016-02-22T14:37:05	mims it doesn't.
+jackclarkSF	701429862695710720	2016-02-21T15:34:45	cdixon bobmcmillan they can also synthesise new patterns through stuff like generative adversarial networks, so that's new
+jackclarkSF	701429742763814912	2016-02-21T15:34:17	cdixon bobmcmillan new ML systems can also infer causal links between patterns, so more sophisticated than straight recognition
+jackclarkSF	701235856489598976	2016-02-21T02:43:51	mark_riedl that bit came out of nowhere, didn't it?
+jackclarkSF	700484833018048512	2016-02-19T00:59:33	Some areas of "genuine progress" in AI = memory networks, neural turing machine, continuous reinforcement learning, says GaryMarcus
+jackclarkSF	700483717534511104	2016-02-19T00:55:07	Miles_Brundage thanks!
+jackclarkSF	700482645847908352	2016-02-19T00:50:51	Miles_Brundage robinhanson link to these models, please?
+jackclarkSF	700478543944355842	2016-02-19T00:34:33	fchollet GaryMarcus I like Norvig's new haircut
+jackclarkSF	700476313614868480	2016-02-19T00:25:42	AI could add half a trillion to two trillion to global economy, Google's Peter Norvig told GaryMarcus 
+jackclarkSF	700474342212296705	2016-02-19T00:17:52	At the GaryMarcus talk at NYC Machine Learning - he is gonna spill the beans on AI, so the projector has rebelled 
+jackclarkSF	700327383707099138	2016-02-18T14:33:54	tsgiles NateLanxon does the driver still get paid?
+jackclarkSF	700203311861895170	2016-02-18T06:20:53	In "neural networks", the neuro analogies represent an unnecessary and actively harmful level of conceptual indirection.
+jackclarkSF	700168691334430721	2016-02-18T04:03:19	danahull timkhiggins "and just like that, they pulled me back in"
+jackclarkSF	700050024550551552	2016-02-17T20:11:46	amir I haven't been able to establish that
+jackclarkSF	700029377732550656	2016-02-17T18:49:44	CalebMelby EricNewcomer you bastard.
+jackclarkSF	700024386959581184	2016-02-17T18:29:54	EricNewcomer I've earned the right to no longer have my inbuilt feelings of empathy triggered by the visible unfairness of the world
+jackclarkSF	700021873585868801	2016-02-17T18:19:55	Immensely privileged person says they have earned right to not look at homeless people  
+jackclarkSF	699646162580582401	2016-02-16T17:26:58	The perils of closed-source startups: It will not be possible for us 2 continue providing the publicly available cloud hosted kimono product
+jackclarkSF	699366131161665537	2016-02-15T22:54:13	mattocko does this mean Portland is now SF?
+jackclarkSF	699311334094032896	2016-02-15T19:16:29	Dawn in Tilden and breakfast by Briones reservoir. + TRASH ROOSTER VOTENATURE2016 
+jackclarkSF	699010519873642496	2016-02-14T23:21:09	HailBloocifer Grade-A Wooing, right there.
+jackclarkSF	698606431625310208	2016-02-13T20:35:27	michaelbshane TheStalwart I think you need to do it early in the day, as it's hard to block time in the evenings
+jackclarkSF	698606359487471617	2016-02-13T20:35:10	michaelbshane TheStalwart Yes. I get up about an hour and a half before I need to leave for work and it's improved my quality of life
+jackclarkSF	698581371548139521	2016-02-13T18:55:52	AT&amp;T embarking on huge training program to make its workers more technical (and reduce headcount by a third by 2020) 
+jackclarkSF	698569294695653376	2016-02-13T18:07:53	TomArchitects if you ever have a spare day in California when touring we should go on a hike. Plus there are living cartoons like racoons
+jackclarkSF	698565350640594944	2016-02-13T17:52:12	gpapilion ascent to ridge from Berkeley. Fog sign = tunnel road. Altitude shots= looking from Grizzly Peak down at 24 freeway
+jackclarkSF	698564262650732544	2016-02-13T17:47:53	oliviasolon weather in the Bay is so mind-bendingly weird compared to London. Multiple microclimates. V rapid shifts. Fun!
+jackclarkSF	698563925919535104	2016-02-13T17:46:33	Dawn cycle: fog thick enough to chew. Later the sun took it like a thief lifting a hat from a sleeper. 
+jackclarkSF	698359323500552192	2016-02-13T04:13:32	For all of the good things happening in tech right now, let's be honest that the database automation problem is still waiting to be loved
+jackclarkSF	698270275889016832	2016-02-12T22:19:41	thomeagle statistically it looks like you're merely a successful egg comedian
+jackclarkSF	698022563901890562	2016-02-12T05:55:22	2/3 As unsupervised learning becomes reality, excited for prospect of AI becoming mainstream API. Like GPS/camera, enables new class of apps
+jackclarkSF	698022532700483584	2016-02-12T05:55:15	1/3 In 10+ years of web services, used lots of supervised learning. Hard for non-experts like me to get feature selection and training right
+jackclarkSF	698025888043040768	2016-02-12T06:08:35	I've heard salary for freshly-minted PHDs in deep learning at big tech companies = $180k total comp
+jackclarkSF	698004563039682560	2016-02-12T04:43:50	mcwm dollar store padlock makes me think in a past life you played a lot of Russian Roulette
+jackclarkSF	697959338833412097	2016-02-12T01:44:08	Werner Skrillex does the keynote and werner DJs. Mix it up!
+jackclarkSF	697946449703645185	2016-02-12T00:52:55	thomeagle welcome to the Internet, please leave all senses of pride and self-worth and general 'worthyness' at the door
+jackclarkSF	697852548162703361	2016-02-11T18:39:47	I don't understand what this is even trying to insinuate 
+jackclarkSF	697497687659184129	2016-02-10T19:09:42	Update – fleshed out the origin story to Google’s slightly mysterious networking CPU Lanai 
+jackclarkSF	697491899469340672	2016-02-10T18:46:42	mappingbabel I'm in India on a 2G network. Can confirm.
+jackclarkSF	696387255485599744	2016-02-07T17:37:14	Snow causing an odd illusion of extruded and/or sunken fields. 
+jackclarkSF	697474291701448704	2016-02-10T17:36:44	jedgar does this mean my plan to buy a mattress store and lease mattresses as "SLEEP SOUND SAFES" is a good idea???
+jackclarkSF	697466704989855744	2016-02-10T17:06:35	Lucas_Shaw as soon as they have a hard-takeoff singularity and the ensuing AI god buys me plane tickets in thanks for my coverage
+jackclarkSF	697466228185509888	2016-02-10T17:04:41	Google Inbox becomes unusable on low-bandwidth connections and unlike Gmail there's no 'lite' option. Good luck in emerging markets, chaps!
+jackclarkSF	697231199681585152	2016-02-10T01:30:46	Is there a single peer reviewed scientific paper that shows IBM Watson tech was superior to current methods/tech in any biomedical domain?
+jackclarkSF	697302747452846080	2016-02-10T06:15:04	inafried madfoot exceptional sightgag, bravo
+jackclarkSF	697277517321760768	2016-02-10T04:34:49	edzitron false. Its name is Gorkana.
+jackclarkSF	697193521565065219	2016-02-09T23:01:03	jbeda twilio "THAT ARE YOU ARE you are that dark Yes you" reads like an outtake from the end of Joyce's Ulysses
+jackclarkSF	697136909106180096	2016-02-09T19:16:05	mappingbabel tallinzen Language Modeling != Language Understanding.
+jackclarkSF	697137070859390976	2016-02-09T19:16:44	yoavgo tallinzen you are 100% correct, I used wrong wording. Apologies!
+jackclarkSF	697124382683066369	2016-02-09T18:26:19	Deep learning tsunami starting to wash over language understanding, in same way it swept through image and audio 
+jackclarkSF	697082465291206656	2016-02-09T15:39:45	A+ Scoop here: internal doc shows Amazon's plan to control global logistics is far more ambitious than it lets on 
+jackclarkSF	696829565163798529	2016-02-08T22:54:49	jordannovet ShiraOvide rachelking yeah it's pretty beautiful. A+
+jackclarkSF	696392193884475392	2016-02-07T17:56:52	My reply to HP, which threatened to cut ads in FT after reading my col.  I love the FT for letting me write this.  
+jackclarkSF	696038435266539520	2016-02-06T18:31:09	That is, a lot of AI may just be about the computer seeming less stupid, not obvious things like autonomous vehicles or Turing tests.
+jackclarkSF	696039063753592833	2016-02-06T18:33:39	One could suggest AI will be a step change in UI, enabling new services but improving existing ones, much like GUIs and then multitouch
+jackclarkSF	696171068663304194	2016-02-07T03:18:11	jamescham yes, I might try and do a bike tour of them, if possible. Marvelously Ballardian.
+jackclarkSF	693573633076113409	2016-01-30T23:16:54	Welcome to the sb50 militarized zone. 
+jackclarkSF	696075879324094464	2016-02-06T20:59:56	mattocko Prime (Nightm)Air
+jackclarkSF	696073122223493121	2016-02-06T20:48:59	graphific samim would love to see a write-up of this
+jackclarkSF	696072160490618880	2016-02-06T20:45:10	Cycled the East Bay ridges: had breakfast on an old Nike missile site then caught a cow voguing. VOTENATURE2016 
+jackclarkSF	695848883788849152	2016-02-06T05:57:56	sknthla exactly! AI will be woven into all businesses like thread through a tapestry.
+jackclarkSF	695848159956721664	2016-02-06T05:55:04	Building an 'AI company' today is like building an 'Internet company' in the 90s. Implicit &amp; necessary, but not the main business.
+jackclarkSF	695636128972410880	2016-02-05T15:52:32	MattCampbel KaleighRogers BoydErman have you considered that your brain may not be working because you haven't eaten herb chocolate???
+jackclarkSF	695634722836250624	2016-02-05T15:46:56	thomeagle that would be an ecumenical matter
+jackclarkSF	695378300890271744	2016-02-04T22:48:01	Thrilled to officially announce the 5-game challenge match between AlphaGo and Lee Sedol in Seoul from March 9th-15th for a $1M prize!
+jackclarkSF	695353996735705090	2016-02-04T21:11:26	DigitalOcean comes off pretty well in this outage report. Legit, samkottler 
+jackclarkSF	695322054938079236	2016-02-04T19:04:31	Most active AI investors &amp; other AI investment trends   BloombergBeta DCVC Lux_Capital 
+jackclarkSF	695320048370585601	2016-02-04T18:56:32	mattlynley ahess247 ShiraOvide markmilian tsgiles owenthomas AI IN THE OFFICE!
+jackclarkSF	695299105703202816	2016-02-04T17:33:19	If you stare at a mirror and say 'Cloud' three times in a row Jeff Bezos appears and devours your profit margins: 
+jackclarkSF	670005732893421568	2015-11-26T22:26:29	Carrara Robotics diamond wire cutter shaping marble. 
+jackclarkSF	694998485670707206	2016-02-03T21:38:46	krmarko TheRegister in fairness, history is littered with dead semicon startups that tried to do in short-timeframe + good chips are hard.
+jackclarkSF	694965684434968576	2016-02-03T19:28:25	A senior AMD bod recently told El Reg over a bottle of wine that Qualcomm is 10 years away from decent server chips… 
+jackclarkSF	694934587240091648	2016-02-03T17:24:51	Oh what a journey! Fifteen amazing years at google. Time for me to take the next turn. 
+jackclarkSF	694937610213552128	2016-02-03T17:36:52	dannysullivan 
+jackclarkSF	694937558216736768	2016-02-03T17:36:39	Amit Singhal retirement and John Giannandrea taking over represents further ascent of AI tech at Google 
+jackclarkSF	694933183868100613	2016-02-03T17:19:16	Google's Big Search Kahuna, Amit Singhal, is retiring. Replacement is John Giannandrea, who has led lots of AI efforts, eg RankBrain.
+jackclarkSF	694885163356987392	2016-02-03T14:08:27	ShiraOvide getwired ianmking A key diff is scale. previous top ARM plays were little startups like Tilera and Calxeda.
+jackclarkSF	694883663561904128	2016-02-03T14:02:30	Google is ARMing itself: Google Said to Endorse Qualcomm's Fledgling Server-Chip Efforts 
+jackclarkSF	694880017306644480	2016-02-03T13:48:01	News from terminal: Google said to endorse Qualcomm's ARM chips and plans to use processors if they are built to Google's specifications.
+jackclarkSF	694755795557191680	2016-02-03T05:34:24	DOG BITES SELF 
+jackclarkSF	694666263872806912	2016-02-02T23:38:38	jbeda jordannovet XOOGLER'S SHOCK CONFESSION: IPHONE'd HOME cc diodesign
+jackclarkSF	694656424022966272	2016-02-02T22:59:32	anshublog pmarca paging danahull
+jackclarkSF	694640469029036033	2016-02-02T21:56:08	roybahat also sundarpichai and a few others at the Alphabet firm 
+jackclarkSF	694618713727709184	2016-02-02T20:29:41	Programming is like "writing down instructions for an extremely literal child who is millions of times faster than you" - Avrim Blum
+jackclarkSF	694611412409282561	2016-02-02T20:00:40	Impact of machine intelligence startups is "going to be much more profound than people realize." says roybahat 
+jackclarkSF	694590549232357376	2016-02-02T18:37:46	ShiraOvide lexnfx remix strategy, you mean.
+jackclarkSF	694588687435309058	2016-02-02T18:30:22	jeremyphoward kleinsound BloombergBeta shivon roybahat the field test of our cyborg AI VCs is going well, it seems.
+jackclarkSF	694201820999217152	2016-02-01T16:53:06	Been writing about Apple for &gt; 2 years and PRs never engage. Arrived in Ireland yesterday and head of Apple PR for Europe wants to call me.
+jackclarkSF	694535134393925633	2016-02-02T14:57:34	Sam_L_Shead they could. This is willful misinterpretation.
+jackclarkSF	694372254608543745	2016-02-02T04:10:20	mark_riedl this is a wonderfully obscure in-joke. Bravo!
+jackclarkSF	694298503489675267	2016-02-01T23:17:17	qhardy amir "I'll let Siri take that. Siri?"
+jackclarkSF	694298348875091968	2016-02-01T23:16:40	amir it's a very odd thing to ask on an earnings call to a person who doesn't specialize in AI.
+jackclarkSF	694284268978184194	2016-02-01T22:20:43	Miles_Brundage none yet
+jackclarkSF	694284245775310848	2016-02-01T22:20:38	Miles_Brundage listen in 
+jackclarkSF	694281397452869632	2016-02-01T22:09:18	Google CEO Sundar Pichai says "early days" for strong AI. Google will have AI in form that "benefits a lot of users in the coming years".
+jackclarkSF	694280865527009281	2016-02-01T22:07:12	First question from financial analyst on Google's earnings call: Do you think you'll achieve strong AI in next five years?
+jackclarkSF	694279554932830209	2016-02-01T22:01:59	CEO of world's most valuable company by market cap (in after-hours trading) leads earnings call by talking up investment in linear algebra.
+jackclarkSF	694278495640363009	2016-02-01T21:57:47	samim basically he's just saying to Wall Street - you should learn linear algebra because that is what we do
+jackclarkSF	694277953501413377	2016-02-01T21:55:37	Google CEO mentions TensorFlow, DeepMind Go, Seq2Seq Learning (Smart Reply on Inbox). This earnings call is AI heaven.
+jackclarkSF	694252383258427393	2016-02-01T20:14:01	vambenepe I now can't see this and not insert Apache (Laser)Beam. Damn, that's good branding!
+jackclarkSF	694240383509905409	2016-02-01T19:26:20	tcarmody robinsloan I don't understand why you didn't write about this at the time and beat Hinton &amp; gang by 4 years?
+jackclarkSF	694239137268895746	2016-02-01T19:21:23	robinsloan tcarmody recent AI was driven by papers showing 100X speedup of neural net algos on GPUs in 2012.
+jackclarkSF	694222284052111361	2016-02-01T18:14:25	tsimonite I'd watch that sitcom
+jackclarkSF	694025564974247936	2016-02-01T05:12:43	dmonett relevant: 
+jackclarkSF	693961176607141888	2016-02-01T00:56:52	Same for journalists, to be honest. 
+jackclarkSF	693903595712872448	2016-01-31T21:08:03	Meet Viv: the AI that wants to read your mind and run your life 
+jackclarkSF	693895857859534848	2016-01-31T20:37:19	ParishWendy yes, I've found it v helpful.
+jackclarkSF	693680965172854785	2016-01-31T06:23:24	Though Hon Hai sales growth at 6% in '15 missed 10% target, Terry Gou tells me automation helped profit hit 10% goal. They report end March
+jackclarkSF	693663932876083205	2016-01-31T05:15:43	girlziplocked obviously we need loads more people, but there is good research being conducted and community is aware of the need.
+jackclarkSF	693663818589704192	2016-01-31T05:15:16	girlziplocked to be fair, elonmusk put $7 million into a foundation which dispensed a bunch of research grants 
+jackclarkSF	693580633965092864	2016-01-30T23:44:43	rbranson dolftown they're just filming the sequel to The Rock
+jackclarkSF	693535799963316224	2016-01-30T20:46:34	I love the vibe in super bowl town!! 
+jackclarkSF	693544038306197504	2016-01-30T21:19:18	A friend's 1.5 year old met a Roomba today: "Pap! Look that round disc is going crazy and running into walls why why why?!"
+jackclarkSF	693541152981553152	2016-01-30T21:07:50	jedgar benkepes pitching a tent next to the psychedelic hill rooster now yeah
+jackclarkSF	693541015781666816	2016-01-30T21:07:18	benkepes awesome. Tech is wonderful but I think working with computers is dangerous for mental health, so try to offset w/lots of nature!
+jackclarkSF	693537722435153920	2016-01-30T20:54:12	benkepes possibly running, though I mostly hike and cycle.
+jackclarkSF	693537684753494016	2016-01-30T20:54:04	benkepes oh, absolutely. I am planning to holiday in NZ at some point so we should do some hiking/biking then.
+jackclarkSF	693537335774806017	2016-01-30T20:52:40	Today's find on the Vote Nature 2016 campaign trail - psychedelic hill rooster! 
+jackclarkSF	693525496420765698	2016-01-30T20:05:38	My notes on Sequence Level Training with Recurrent Neural Networks:   Nice work from our friends at FAIR!
+jackclarkSF	693261329981792256	2016-01-30T02:35:55	VirtualTal but what is the Uber of Google?!?! WHAT IS THE FOURSQUARE OF PATH????????????????
+jackclarkSF	693260448905326596	2016-01-30T02:32:25	jakerobinson I believe that technology journalists should understand the tech they write about.
+jackclarkSF	693260271087792129	2016-01-30T02:31:43	morganpolotan obviously the code is horrific but I find it to be a very effective way to learn
+jackclarkSF	693260089663188992	2016-01-30T02:31:00	morganpolotan yes. I have a couple of outlandish programming projects and am trying to implement pretty much everything myself (badly)
+jackclarkSF	693259788516327425	2016-01-30T02:29:48	Writing a sorting algorithm on a Friday night (don't do this). A screen brightness app called 'flux' is helping. 
+jackclarkSF	693246684894081024	2016-01-30T01:37:44	For Facebook's 50th Hackathon, Zuckerberg had encouraged people to concentrate on AI 
+jackclarkSF	692757769217269765	2016-01-28T17:14:57	A short guardiantech op-ed on data efficiency and the AlphaGo achievement by DeepMind was just published: 
+jackclarkSF	693155906129768448	2016-01-29T19:37:00	RELXEL GPUComputing I'm a technology journalist so it would be a breach of ethics to accept gifts from companies I cover.
+jackclarkSF	693150909157634048	2016-01-29T19:17:09	RELXEL GPUComputing I didn't win a GPU and whoever runs social media at Nvidia made a weird assumption and indicated I did
+jackclarkSF	693150842380136448	2016-01-29T19:16:53	RELXEL GPUComputing because I'm a journalist and it would be a massive breach of ethics to have accepted a $1000 GPU
+jackclarkSF	693149247449903104	2016-01-29T19:10:33	GPUComputing RELXEL I did not win this. Please un-retweet this as it could give impression I accepted a $1000 dollar gift!
+jackclarkSF	693149066792861696	2016-01-29T19:09:50	GPUComputing this is wrong and you should delete it at once cc LeoKTam
+jackclarkSF	693148067709607936	2016-01-29T19:05:52	GPUComputing whoever runs your social media is insane. I didn't win this and I couldn't accept it if I did. cc LeoKTam
+jackclarkSF	693143740240629760	2016-01-29T18:48:40	At AI summit Nvidia gives away a $1000 GPU. Calls out first name and person isn't in room. GPU goes to second name. Success= showing up.
+jackclarkSF	692991675099189248	2016-01-29T08:44:25	20/All the good dreams of the 90s might still come true, but now we know it will be a longer, harder, bumpier road to reach them. (end)
+jackclarkSF	692991620971696128	2016-01-29T08:44:12	19/15 years of flat incomes, the breakup of the family, slowing productivity, inequality, polarization, and the end of Pax Americana. :P
+jackclarkSF	692912962785382400	2016-01-29T03:31:38	sla excellent, I will try to visit it, thanks!
+jackclarkSF	692910141696401408	2016-01-29T03:20:26	sla where is this magical thing from?
+jackclarkSF	692900501654929408	2016-01-29T02:42:07	clearpathrobots BotJunkie UCBerkeley what was wrong with the poor chap? Did you have to harvest circuits from pabbeel ?
+jackclarkSF	692900034241671169	2016-01-29T02:40:16	Kasich refusing to discussion encryption backdoors on the grounds that no one outside of the White House situation room should talk about it
+jackclarkSF	692842445143351298	2016-01-28T22:51:25	Article portrays AI research as a big race/PR battle but doesn't use a real name on the byline. Naughty! 
+jackclarkSF	692722319941173252	2016-01-28T14:54:05	MattCampbel I like that bizweekgraphics is on our side.
+jackclarkSF	692561542215274498	2016-01-28T04:15:13	7/ mappingbabel 's piece 'Berekeley's Preschool for Robots' shows how AI can be trained in simulated 'real-worlds' 
+jackclarkSF	692488858726993921	2016-01-27T23:26:24	alexjc davegershgorn eg FB Go is being applied to M and VQA
+jackclarkSF	692488754691457025	2016-01-27T23:25:59	alexjc davegershgorn our story noted DeepBlue was merely an advert for IBM hardware. The DeepMind and FB work is more meaningful
+jackclarkSF	692486448235282432	2016-01-27T23:16:49	alexjc a paper where it was trained on 1000s rather than millions of games would be a huge breakthrough
+jackclarkSF	692459473781284864	2016-01-27T21:29:38	derektmead this is a great idea. A+
+jackclarkSF	692459302808846336	2016-01-27T21:28:57	Vice doing a dedicated AI week/theme. Great to see! 
+jackclarkSF	692430224382902272	2016-01-27T19:33:24	We made the front cover of Nature! Details here:  AlphaGo DeepMind 
+jackclarkSF	692442578764075009	2016-01-27T20:22:30	caragsdale technology not really - DeepMind had, at most, 15 people on this. Game rules were inferred through a DNN. MCTS helped w/playing
+jackclarkSF	692414444702470144	2016-01-27T18:30:42	stephen_oman yup. Humans = 1000s of games. DNN&amp;MCTS = millions.
+jackclarkSF	692412807292284928	2016-01-27T18:24:12	TradeIdeas1 tell me more? Email is in bio
+jackclarkSF	692408127724089349	2016-01-27T18:05:36	Here's why Google &amp; Facebook's work on using AI to beat boardgames matters for the world:  
+jackclarkSF	692407585874518017	2016-01-27T18:03:27	DeepMind's AlphaGo system is "a large, sudden leap in strength," says head of British Go Society, who thought this was 5-10 years away.
+jackclarkSF	692407443616301057	2016-01-27T18:02:53	Google racks up second Nature cover in a year w/AlphaGo, a system that beats professional humans 
+jackclarkSF	692184556317835264	2016-01-27T03:17:13	gregde charlesfitz thetinot maryjofoley presents!?!? Have you met many English people?
+jackclarkSF	692175171294224386	2016-01-27T02:39:55	gregde charlesfitz thetinot maryjofoley tell us now
+jackclarkSF	692172369708843009	2016-01-27T02:28:47	derekcollison prediction looking A+ so far
+jackclarkSF	692094552266571776	2016-01-26T21:19:34	lmeyerov deep learning + other stuff, eg reinforcement learning, is something else, though
+jackclarkSF	692093789159075840	2016-01-26T21:16:32	Reminder to AI pundits: deep learning is not about strong AI, but getting weak AI closer to 99.9%.
+jackclarkSF	692092332766658560	2016-01-26T21:10:45	EricNewcomer alexbarinka terminals on fleek
+jackclarkSF	692071496731222018	2016-01-26T19:47:57	Journos, note: linear algebra toolkits are not artificial brains. 
+jackclarkSF	692068713361719296	2016-01-26T19:36:53	I'm on a locked-down machine today - can anyone open a tar.gz file for me and count the lines of code in it?
+jackclarkSF	691998200169795584	2016-01-26T14:56:42	Artificial Intelligence will provide companies with first mover advantage TechVision2016 AI mappingbabel 
+jackclarkSF	691862766479613952	2016-01-26T05:58:32	gpapilion awesome. Where?
+jackclarkSF	691781426409246720	2016-01-26T00:35:19	etangent most things are better explained via ice worms moreiceworms
+jackclarkSF	691776307559022596	2016-01-26T00:14:58	In honor of Marvin Minsky, here is a planet-sized neural network made by space worms 
+jackclarkSF	691767361976811521	2016-01-25T23:39:26	Marvin Minsky, Pioneer in Artificial Intelligence, Dies at 88 
+jackclarkSF	691700679396724738	2016-01-25T19:14:27	RealDarrenCohen I'm all for a good media conspiracy now and then, but this isn't that.
+jackclarkSF	691700597951709184	2016-01-25T19:14:08	RealDarrenCohen this article has been in the work for about 6 months so the timing is coincidental.
+jackclarkSF	691643981730426880	2016-01-25T15:29:10	An important milestone for Deep Learning R&amp;D - CNTK is now on GitHub 
+jackclarkSF	691666759275913217	2016-01-25T16:59:40	Progress in Machine Learning today is combination of: new algorithms/raw compute, more data/fast storage, new architectures/big datacenters.
+jackclarkSF	691657683313635328	2016-01-25T16:23:36	dinabass ShiraOvide like using a time machine to market a type of paint that will stay glossy for a century
+jackclarkSF	691642791462449153	2016-01-25T15:24:26	Google &amp; Facebook embed research into product (and also do long-range, eg FAIR hired Vapnik, Google has DeepMind) 
+jackclarkSF	691434018374422529	2016-01-25T01:34:50	derektmead depends on how heavy metal you want to get. You could also set it on fire, then cover it in mud.
+jackclarkSF	691433961868791808	2016-01-25T01:34:37	derektmead better to clean it - vodka works! - and then apply pressure to hasten clotting, tbh
+jackclarkSF	691433756121395201	2016-01-25T01:33:48	AI/robots= lower prices &amp; higher unemployment=low inflation=low interest rates. Great simonjkennedy Davos wrap 
+jackclarkSF	691371224736215040	2016-01-24T21:25:19	paging internetofshit 
+jackclarkSF	691370680470736897	2016-01-24T21:23:09	Baidu thinks that building self-driving cars for the Mad Max conditions of Chinese traffic will give it an AI edge 
+jackclarkSF	691328304981233664	2016-01-24T18:34:46	kumaraniket LPlus google earns money from ads and app sales on android devices, etc
+jackclarkSF	686475601264291840	2016-01-11T09:11:52	I'll just leave this here: 
+jackclarkSF	691123338375114752	2016-01-24T05:00:18	mattz62 splendid. We shall continue this over bourbon in the coming months.
+jackclarkSF	691123100407062528	2016-01-24T04:59:22	mattz62 We keep on resurrecting the french philosophers Sartre and Camus to explain this, but they consistently kill themselves
+jackclarkSF	691122654376386560	2016-01-24T04:57:35	mattz62 "witness him in his natural habitat: a tasteful glass office complete with a computer that lets him trade on a " Stock Market""
+jackclarkSF	691122049020866561	2016-01-24T04:55:11	mattz62 idk. If we get killer machines then we might get zoos with 1000 year old humans in that are in space stations orbiting the sun
+jackclarkSF	691121693234860032	2016-01-24T04:53:46	jordnb so that + intersection of AI and medicine + wildcards like crispr suggests there's gonna be a broad range of Tech for rich folk
+jackclarkSF	691121457154265089	2016-01-24T04:52:50	jordnb (due to some tech and a lot of tailored health regimes and careful lifestyle)
+jackclarkSF	691121339160113153	2016-01-24T04:52:22	jordnb so a 40 year old today may have only really 'aged' a few years, from a biological perspective, by time they're technically 60
+jackclarkSF	691121106124582912	2016-01-24T04:51:26	jordnb so I think over next 20 years its likely we'll develop life extension stuff that can further slow aging
+jackclarkSF	691120988138786816	2016-01-24T04:50:58	jordnb couple of things: tech billionaires all have incredible doctors and personalized healthcare, so they tend to be v healthy
+jackclarkSF	691069124580106240	2016-01-24T01:24:53	mappingbabel interesting. Limitation to the current 1826 billionaires (avg age 63) makes me think not.
+jackclarkSF	691056047948103680	2016-01-24T00:32:55	qhardy what's the NYT's official opinion on systemic collapse?
+jackclarkSF	691055936136310784	2016-01-24T00:32:29	qhardy your turn!
+jackclarkSF	691055872072482816	2016-01-24T00:32:13	mappingbabel This posits civilization in something like the present form will be around in 2126. Get a vote going on that.
+jackclarkSF	691054744479993856	2016-01-24T00:27:44	Is there a billionaire alive today who, using life-extension technologies, will live past 150?
+jackclarkSF	691052728118685696	2016-01-24T00:19:44	This does not tend to happen in other countries.  
+jackclarkSF	691023777568681984	2016-01-23T22:24:41	beaucronin serves me right for sullying its majesty with my camera
+jackclarkSF	691023705565102080	2016-01-23T22:24:24	beaucronin I marveled at it for a while, then the wind changed and it came towards me. Rain hit during a nasty ascent to 1700ft.
+jackclarkSF	691019198454038528	2016-01-23T22:06:30	Saw a fierce&amp;diminutive rain cloud while cycling Grizzly Peak today. Weather is nature's Heavy Metal. 
+jackclarkSF	691009919768604673	2016-01-23T21:29:37	gideonmann TechAtBloomberg this looks cool...
+jackclarkSF	653621441053753344	2015-10-12T17:21:09	Use of the phrase 'exponential growth' by decade 
+jackclarkSF	690958865005809665	2016-01-23T18:06:45	My friend meretrivia has a new song/video out and it is incredibly good and (warning!) incredibly sad! 
+jackclarkSF	690949760723738624	2016-01-23T17:30:34	jedgar nicknew epic
+jackclarkSF	690930372129886208	2016-01-23T16:13:32	gamoid go back to bed. Saturday is done.
+jackclarkSF	690539045441658880	2016-01-22T14:18:32	slick interactive Node-Link Visualization of Convolutional Neural Networks by Adam Harley:  
+jackclarkSF	690757856698630147	2016-01-23T04:48:01	Tonight: a side-splitting play about a headless chicken's journey to stardom. Tickets $5. Support the local scene! 
+jackclarkSF	690715880041230336	2016-01-23T02:01:13	MattRosoff paging alisonvekshin
+jackclarkSF	690669355353288704	2016-01-22T22:56:20	Marvelously spooky weather on East Bay ridge. Hills swaddled in fast-flowing fog &amp; braided with young streams. 
+jackclarkSF	690427337515622400	2016-01-22T06:54:39	samim vakibs had been meaning to go to bed, but then read that and now have fallen into a supreme internet rabbit hole. Thanks!
+jackclarkSF	690427187254661121	2016-01-22T06:54:03	Miles_Brundage not getting Atkinson/Albus references - links?
+jackclarkSF	690418953399705600	2016-01-22T06:21:20	vakibs samim absolutely, but evidence so far is that network economics = weird power laws = new feudalism 
+jackclarkSF	690418542458503168	2016-01-22T06:19:42	Frozen waterfall, seen outside the Seoul, South Korea studio of artists Biteandmove 
+jackclarkSF	690414648940707840	2016-01-22T06:04:14	vakibs I'm not saying there's no need for personal AIs, I'm saying AI deployment will favor centralization of power to a few parties
+jackclarkSF	690414526840324098	2016-01-22T06:03:45	vakibs except parts of the economy did end up being controlled by a few companies, augmented by masses of computing power?
+jackclarkSF	690406100169015296	2016-01-22T05:30:16	BretteQ already got the drum machine and the delay pedal out. Too late. I'll come round the office on Monday for our first concert.
+jackclarkSF	690402633778139137	2016-01-22T05:16:29	BretteQ USBass Drive is damn good
+jackclarkSF	690401706492977152	2016-01-22T05:12:48	BretteQ well, I meant that you have a knack for naming these bands, but punk bands don't have money, so the sidegig is non-lucrative
+jackclarkSF	690401354456666116	2016-01-22T05:11:24	BretteQ I see a (because they're broke musicians) non-lucrative sidegig in your future!
+jackclarkSF	690400686199148544	2016-01-22T05:08:45	BretteQ "Tech Wasteland" is good. "Drones Before Hoes" feels like more of an East Coast bandname.
+jackclarkSF	690399679918575616	2016-01-22T05:04:45	BretteQ still waiting for "Techie Vomit", which I think is probably the best punk name, tbh.
+jackclarkSF	690399600440692736	2016-01-22T05:04:26	BretteQ Not to be confused with Techie Tears, who were briefly a band here as well
+jackclarkSF	690399445339480064	2016-01-22T05:03:49	AI's need for vast data&amp;compute likely means "the future economy could be controlled by a handful of companies." 
+jackclarkSF	690396644634947584	2016-01-22T04:52:41	Because "seeing", "thinking" are such self-evident &amp; intuitive activities, people perpetually misjudge how difficult it is to implement them
+jackclarkSF	690395552631119872	2016-01-22T04:48:21	Name of hardcore band that played Oakland recently:   Techie Blood
+jackclarkSF	690302739683811332	2016-01-21T22:39:33	jedgar U-AAS
+jackclarkSF	690292433616277506	2016-01-21T21:58:35	jowens510 "since its launch"
+jackclarkSF	690289515169210368	2016-01-21T21:47:00	Oracle lawyer says Google has made $31bn in sales and $22 billion in profit from Android since its launch 
+jackclarkSF	690281848228966401	2016-01-21T21:16:32	Oracle says Android has generated sales of $31bn and profits of $22bn for Google since its inception.
+jackclarkSF	690265805896994818	2016-01-21T20:12:47	stephcd i got a 4D Ballmer
+jackclarkSF	690249423604039680	2016-01-21T19:07:41	Once you embed your fonts into vectors, then you can come up with new fonts by exploring the space between 
+jackclarkSF	690060638182309888	2016-01-21T06:37:31	I believe several people have already sketched out the architecture-lvl solution. Difficulty to translate that into an algorithm is immense.
+jackclarkSF	690060167904268288	2016-01-21T06:35:39	If you "solve AI" at the principle level, it's pretty much useless. Architecture level is nicer. But the real obstacle is the algorithm.
+jackclarkSF	690059802760773632	2016-01-21T06:34:12	Levels of problem solving: principle/idea level, architecture level, algorithm level, the prototype, and the well-oiled implementation
+jackclarkSF	690032313783181312	2016-01-21T04:44:58	fxshaw yeah, I removed that tweet as it glossed over a bunch of stuff
+jackclarkSF	690010267187597312	2016-01-21T03:17:22	fxshaw MattRosoff if I'm wrong I'll buy you a pint in ten years, if I'm right, you owe me a pint! : )
+jackclarkSF	689993104569556993	2016-01-21T02:09:10	VR is to physical reality as gruel is to a feast. It expand the experiences available to people, but it's still gruel.
+jackclarkSF	689982606323113984	2016-01-21T01:27:27	fxshaw MattRosoff cars are just part of mapping and indexing infrastructure in the long term, so it fits.
+jackclarkSF	689955292445065220	2016-01-20T23:38:55	chrissyfarr blame all bugs on JoshuaLieberman
+jackclarkSF	689834116120997890	2016-01-20T15:37:24	We just obliterated another heat record.  
+jackclarkSF	689942351226089472	2016-01-20T22:47:29	MattRosoff SEASTEADING REDUX
+jackclarkSF	689922218415955968	2016-01-20T21:27:29	jmelaskyriazi v early stages on quantum computer but have definitive time-tabled plans for quantum-secured networks 
+jackclarkSF	689882182635147265	2016-01-20T18:48:24	Baidu Looks to Artificial Intelligence to Reduce Insurance Risks  by jeremyakahn Davos
+jackclarkSF	689856418137014272	2016-01-20T17:06:01	danahull teach me your ways!
+jackclarkSF	689855082943229952	2016-01-20T17:00:43	gpapilion anyway, I don't think we disagree - Nvidia is huge here. But relationships manifest differently
+jackclarkSF	689854920078430212	2016-01-20T17:00:04	gpapilion but that wasn't really done with Nvidia (I covered that story), more Facebook talking its infrastructure
+jackclarkSF	689853758432419840	2016-01-20T16:55:27	gpapilion whereas Alibaba has done a big media thing to get people to write about its partnership, which feels different.
+jackclarkSF	689853588605009920	2016-01-20T16:54:47	gpapilion other cloud providers don't have big official co-development partnerships. More subtle.
+jackclarkSF	689852947358814208	2016-01-20T16:52:14	Alibaba partners with Nvidia on AI development 
+jackclarkSF	689500804089257984	2016-01-19T17:32:56	mims how long have you been off both?
+jackclarkSF	689484866736402432	2016-01-19T16:29:36	jimaley JeffMuskus keep calm and slog along
+jackclarkSF	689209034143084547	2016-01-18T22:13:33	i fed a recurrent neural network with the scripts for every episode of friends and it learned to generate new scenes 
+jackclarkSF	689039312243970053	2016-01-18T10:59:08	mhbergen I just love tweeting about AI!
+jackclarkSF	689026055118524416	2016-01-18T10:06:27	mhbergen a few DeepMind people came out of his lab, also
+jackclarkSF	688937512438349824	2016-01-18T04:14:37	I asked if I could share it externally bc I think it’s an important message for everyone to read. Full text here: 
+jackclarkSF	688940386421624832	2016-01-18T04:26:02	Spy VS Spy! Facebook's neural net-based face-finder finds faces in ones generated via AI  
+jackclarkSF	688925141800071168	2016-01-18T03:25:28	etangent give it 30 years and they might have an opinion on the matter
+jackclarkSF	688924000672587778	2016-01-18T03:20:56	soosiechoi that actually looks like a really satisfying afternoon
+jackclarkSF	688922716712247296	2016-01-18T03:15:49	"WON'T SOMEONE THINK OF THE POOR BOAT!?!?!" 
+jackclarkSF	688920993079767040	2016-01-18T03:08:58	edzitron also based on a Rex the Runt character 
+jackclarkSF	677636633768951809	2015-12-17T23:48:58	Funny to see my electricity bill doubled for the month where all the models were cranking for the ICLR deadline.
+jackclarkSF	688200551025127424	2016-01-16T03:26:12	jyarow jguynn Google revenue per employee is $1.339m, says Wolfram Alpha, so -- wouldn't you do the same? 
+jackclarkSF	688146028755726338	2016-01-15T23:49:33	Miles_Brundage vkrakovna just watch for the sun being dimmed by construction of a dyson sphere
+jackclarkSF	688145026379984897	2016-01-15T23:45:34	Miles_Brundage vkrakovna some of it was off record, so I'd expect not.
+jackclarkSF	688128163143024642	2016-01-15T22:38:33	One of the key figures in modern AI research, U Montreal's Yoshua Bengio, is doing a Quora AMA next Tuesday: 
+jackclarkSF	688107026942013440	2016-01-15T21:14:34	Visualizing CNN architectures side by side with mxnet  &amp; Visual cortex:  almost there
+jackclarkSF	688099534598111232	2016-01-15T20:44:47	A fan writes: “Trump will turn off the internet. El Reg should stop pushing the cloud so hard. Everybody is going to lose their stuff.”
+jackclarkSF	688069514433445888	2016-01-15T18:45:30	swardley would love to read this report
+jackclarkSF	688060801945485312	2016-01-15T18:10:53	CarolineAIng dannyodwyer shhh woah, definitely!
+jackclarkSF	688048711826452480	2016-01-15T17:22:50	SFNick premium moment for a side-by-side pic comparison
+jackclarkSF	688031569978744832	2016-01-15T16:14:43	jeremyphoward why do you think that is? (Popularity drawing in everyone * learning curve)?
+jackclarkSF	687874115248590848	2016-01-15T05:49:03	mappingbabel Miles_Brundage Few good things are *fully* interpretable (nothing at the quantum level) We have to agree on a goal (not here)
+jackclarkSF	687873471330689024	2016-01-15T05:46:30	Miles_Brundage 'it's v hard to understand whats going on, except something is happening' when NTM GPU does addition 
+jackclarkSF	687872530460229633	2016-01-15T05:42:45	Ilya Sutskever's talk on AI memory at NIPS: "The neural GPU is actually a differentiable cellular automata" 
+jackclarkSF	687872378999803904	2016-01-15T05:42:09	Miles_Brundage eg - what if we wanted to directly monitor 10% of the neurons in a human brain to infer patterns? stunningly hard
+jackclarkSF	687872265526980608	2016-01-15T05:41:42	Miles_Brundage and I think it becomes punishingly expensive, from an efficiency standpoint, to instrument it all
+jackclarkSF	687872138892582912	2016-01-15T05:41:12	Miles_Brundage I'm not saying it's something to be worried about, but the trend is towards models with exploding sophistication
+jackclarkSF	687871491157852160	2016-01-15T05:38:38	Miles_Brundage but at the local level its location is not entirely predictable
+jackclarkSF	687871330553741312	2016-01-15T05:37:59	Miles_Brundage you can loosely know what's going on, but the information being dealt with propagates broadly predictably through the net
+jackclarkSF	687871210156236800	2016-01-15T05:37:31	Miles_Brundage 
+jackclarkSF	687871197946580992	2016-01-15T05:37:28	Miles_Brundage I am of the opinion that systems like the NTM and stuff like MS's new 152-layer deep convnet, are not fully interpretable
+jackclarkSF	687869148907474944	2016-01-15T05:29:19	Known Unknown = AI safety research, where scientists design control systems for uninterpretable cognition engines.
+jackclarkSF	687865794353467392	2016-01-15T05:15:59	reiver I think some of it is more applied - eg, how to treat user data with respect. How to know if an A/B test is potentially harmful
+jackclarkSF	687487016427126785	2016-01-14T04:10:52	What sort of powerball tickets do security engineers buy? 1-2-3.141-99-up-down-;DROP TABLE winner;- ?
+jackclarkSF	687816471192272896	2016-01-15T02:00:00	diodesign NEVER WRITE IN THE CMS. WHY DO YOU DO THIS? cc zackwhittaker
+jackclarkSF	687794535594913792	2016-01-15T00:32:50	bradneuberg This is a big one: 
+jackclarkSF	687770812753944576	2016-01-14T22:58:34	samkottler doing the Lord's work, Mr K.
+jackclarkSF	687767202401890304	2016-01-14T22:44:13	AnnaZvag where is my AI MEDIA ENFORCER badge?????
+jackclarkSF	687758467474444288	2016-01-14T22:09:31	jeremyphoward yeah, that was a bit of the clanger, but I feel it makes some valid points along with errors. Debate is healthy.
+jackclarkSF	687650705251930112	2016-01-14T15:01:18	benbryant amazing article. Great work.
+jackclarkSF	687643152346427393	2016-01-14T14:31:17	Undercover reporters were offered an IMSI Catcher - phone surveillance tech that can intercept comms - for $15000 
+jackclarkSF	687622258660118528	2016-01-14T13:08:16	Marvelous post on 'The Unreasonable Reputation of Neural Networks' 
+jackclarkSF	687471332288761856	2016-01-14T03:08:32	lauradavis611 thanks!
+jackclarkSF	687379871471910912	2016-01-13T21:05:06	AnthonyMarnell jedgar was just focusing intently on liking John's tweets
+jackclarkSF	687363355884044293	2016-01-13T19:59:29	jedgar renegades of thinkfluencing
+jackclarkSF	687102729970384897	2016-01-13T02:43:51	CalebMelby good answer. 
+jackclarkSF	687082228736757760	2016-01-13T01:22:23	GonzOakland Nick Cave
+jackclarkSF	687074398055067648	2016-01-13T00:51:16	tsantero samkottler he has a teleporter
+jackclarkSF	687062990974246917	2016-01-13T00:05:56	samkottler who let you into BradStone 'S zeppelin?
+jackclarkSF	687048818899173376	2016-01-12T23:09:37	graphific press hype / looming winter due to press hype/over-promising
+jackclarkSF	687041306066055169	2016-01-12T22:39:46	shhh dannyodwyer greyhounds at cafe van kleef / walk around lake merrit cc CarolineAIng
+jackclarkSF	687034823798616064	2016-01-12T22:14:01	Miles_Brundage I think it's a necessary evil when so many researchers have been burnt by inaccurate media stories about their speeches
+jackclarkSF	687033210736406528	2016-01-12T22:07:36	Miles_Brundage can't say, unfortunately.
+jackclarkSF	687031018776301569	2016-01-12T21:58:53	Slide at AI conference at NYU - message to the press &amp; to AI researchers. 
+jackclarkSF	687012264533213184	2016-01-12T20:44:22	stuloeser thought leader ProfJeffJarvis has already recommended Senor Frogs - a sophisticated establishment.
+jackclarkSF	687011399143391232	2016-01-12T20:40:56	ProfJeffJarvis gotta try the $10 Obama-bucket cocktail.
+jackclarkSF	687010888218480640	2016-01-12T20:38:54	Does anyone know of any bars in NYC that will be playing the State of the Union tonight? Ideally near East Village.
+jackclarkSF	686937014306996224	2016-01-12T15:45:21	Eric Schmidt - AI can help us understand massive, hard-to-parse problems like climate change, education 
+jackclarkSF	686662527032377344	2016-01-11T21:34:38	AlecRad Bengio just gave a shout out to generative adversarial models during a speech at NYU!
+jackclarkSF	686641517205807104	2016-01-11T20:11:09	mappingbabel In the US all accredited CS undergrads require ethics class. GeorgiaTech has an AI/robo specific undergrad ethics class.
+jackclarkSF	686642681557073920	2016-01-11T20:15:47	mappingbabel mark_riedl ASU has "computing ethics" which is not AI/robo specific. +Siloization not ideal - intro classes should cover too.
+jackclarkSF	686641676761337856	2016-01-11T20:11:47	mark_riedl does that extend for grads?
+jackclarkSF	686639383630495745	2016-01-11T20:02:40	Google DeepMind's Demis Hassabis suggests ethics should be taught to AI MAs and PHDs
+jackclarkSF	686610769937580033	2016-01-11T18:08:58	tsrandall danahull Baywatch orange
+jackclarkSF	686609994029121536	2016-01-11T18:05:53	danahull marmalade
+jackclarkSF	686608636617994240	2016-01-11T18:00:30	Google chairman thinks AI can help solve the world's "hard problems"  by mappingbabel
+jackclarkSF	686560018431393795	2016-01-11T14:47:18	justinhendrix gideonmann mdredze we should devise one at lunch
+jackclarkSF	686387761067241472	2016-01-11T03:22:49	coda moonpolysoft the first ever bug data infrastructure for AI. We don't have a public price list.
+jackclarkSF	686086308985311232	2016-01-10T07:24:57	an amazing read 
+jackclarkSF	685930559290277888	2016-01-09T21:06:03	TheSteve0 YouTube thanks for the nightmare-fuel!
+jackclarkSF	685669751431942147	2016-01-09T03:49:42	mopatel thanks for the advice!
+jackclarkSF	685642088357089280	2016-01-09T01:59:47	the_pc_doc zackwhittaker would it just melt? What's the potential worst outcome?
+jackclarkSF	685641121012187136	2016-01-09T01:55:56	TheSteve0 I told them that they should get rid of it at once.  They are dangerously chill about its danger value.
+jackclarkSF	685640559357112320	2016-01-09T01:53:42	My friend's bent-but-working phone battery. It has been like this for two months. Credibly dangerous, right? 
+jackclarkSF	685629652702871552	2016-01-09T01:10:22	samkottler rzezeski you can thank diodesign for that tasty joke
+jackclarkSF	685599961354903552	2016-01-08T23:12:23	4. ...and it now seems physicists who told me a few years ago that there was plenty of room for faster computing w/ light etc. were right :)
+jackclarkSF	685599626859167744	2016-01-08T23:11:03	3. Hardware seems &gt;important ( + KatjaGrace paper ref'd) as enabler of progress, along with growing/improving data..
+jackclarkSF	685598984417574912	2016-01-08T23:08:30	2. AI progress as exponential or is accelerating seems more plausible after I found it in Atari data, others finding in SAT, vision, poker..
+jackclarkSF	685598115986944001	2016-01-08T23:05:03	1. As a result of researching AI progress and talking to a lot of people about it, I've changed my views in a few ways over the past year...
+jackclarkSF	685592859953729537	2016-01-08T22:44:10	BenedictEvans pour one out for the AI hub of the home, which must parse multiple formats to shuttle data between walled-garden devices.
+jackclarkSF	685565714397200386	2016-01-08T20:56:18	BarneyEvison Clinton has a wonderful speaking manner.
+jackclarkSF	685565035918299136	2016-01-08T20:53:36	Nov 2000 - Bill Clinton and Tony Blair chat about Vladimir Putin (pg 526)  
+jackclarkSF	685557854183514112	2016-01-08T20:25:04	mhbergen pretty egregious error, mate. You need to run a correction. See attached evidence. 
+jackclarkSF	685512919296159745	2016-01-08T17:26:30	"Automatic Colorization" - deep learning to automatically colorize black and white photos   
+jackclarkSF	685352092974747649	2016-01-08T06:47:26	Why machine learning matters: it lets you teach robots general functions based on input, rather than static outcomes. tl;dr: flexibility.
+jackclarkSF	685258942121963521	2016-01-08T00:37:17	bradneuberg pabbeel jealous!
+jackclarkSF	685237400122056704	2016-01-07T23:11:41	BenedictEvans Khaydarov if Apple doesn't develop a strong AI team it cedes the interaction layer. It must do it. 
+jackclarkSF	685221417101717505	2016-01-07T22:08:11	iankar_ had a temporary moment of insanity there, sorry. The five ones referenced in the story are granted. Think it applied for about ten
+jackclarkSF	685221336084557824	2016-01-07T22:07:51	iankar_ they were granted
+jackclarkSF	685220367510667264	2016-01-07T22:04:01	iankar_ these are ones applied for.
+jackclarkSF	685219418381619200	2016-01-07T22:00:14	alexbarinka yup
+jackclarkSF	685219380947464192	2016-01-07T22:00:05	Apple's newly acquired AI company has a patent to help judge the emotional tone of a conversation and improve it 
+jackclarkSF	685218925865480192	2016-01-07T21:58:17	Apple's newly acquired AI company has a patent to help judge the emotional tenor of a conversation and improve it 
+jackclarkSF	685193972847775745	2016-01-07T20:19:08	Posit: Apple needs to do what Google did when it bought Android, but for cloud and AI. It needs to take this seriously as a core strategy
+jackclarkSF	685166049109606400	2016-01-07T18:28:10	lizzadwoskin qhardy daiwaka RolfeWinkler ScottThurm ah, yes, this was a wonderful story! I thought you meant an Apple competitor!
+jackclarkSF	685165410786906113	2016-01-07T18:25:38	lizzadwoskin qhardy daiwaka RolfeWinkler ScottThurm who does that?
+jackclarkSF	685165178393079808	2016-01-07T18:24:42	JohnPaczkowski np. Think three qualifies as a spree.
+jackclarkSF	685163021346451457	2016-01-07T18:16:08	ShiraOvide strong evidence they've had trouble hiring  so... acquihire
+jackclarkSF	685162294712643588	2016-01-07T18:13:15	JohnPaczkowski Third, actually - they also acquired Perceptio recently: 
+jackclarkSF	685158556291698688	2016-01-07T17:58:24	Apple just bought AI Startup Emotient - which specializes in software that can infer emotions from facial recognition.
+jackclarkSF	685152828751503360	2016-01-07T17:35:38	kentindell all the car companies have become very optimistic lately about how fast they can roll out this stuff. Funny, that.
+jackclarkSF	685152028335673344	2016-01-07T17:32:27	kentindell frm press release: 2020 = "can navigate city intersections and heavy urban traffic without driver intervention."
+jackclarkSF	685151524796903425	2016-01-07T17:30:27	Nissan's self-driving car timeline: 2016 - single-lane highway   2018 - multiple-lane highway  2020 - intersections 
+jackclarkSF	685150855461474304	2016-01-07T17:27:48	kentindell able to deal with busy intersections in urban areas
+jackclarkSF	685148212261466112	2016-01-07T17:17:17	Renault-Nissan plans to offer 10 vehicles with autonomous driving capabilities within four years 
+jackclarkSF	685130080750841856	2016-01-07T16:05:15	Investor Bill Gross is not happy  
+jackclarkSF	685116513242615808	2016-01-07T15:11:20	MattCampbel cash in the attic
+jackclarkSF	685115450938662912	2016-01-07T15:07:06	AI means "Administrative jobs... will need to evolve", says Bloomberg's digital brain chap gideonmann 
+jackclarkSF	685034599727132672	2016-01-07T09:45:50	The moment computers controlling our nuclear arsenals become sentient  
+jackclarkSF	684912977959608321	2016-01-07T01:42:33	TheRegister pndc lproven ACTUALLY cakeis_not_alie is a demon summoned by the editing gods to torture other, lesser writers. The swine!
+jackclarkSF	684820989272834048	2016-01-06T19:37:01	Amazon sells its own diapers, babywipes, USB cables and now, via Annapurna Labs, ARM SoCs! 
+jackclarkSF	684815751203688448	2016-01-06T19:16:13	diodesign move2oakland
+jackclarkSF	684763367345487873	2016-01-06T15:48:03	Seems certain that neural nets will be adopted by gaming for level design cc alexjc 
+jackclarkSF	684592901733535744	2016-01-06T04:30:41	bobbie Preparation for the Next Life by Atticus Lish
+jackclarkSF	684556517052289025	2016-01-06T02:06:06	gamoid MattRosoff most Casino floors have free WiFi, Inc venetian/palazzo
+jackclarkSF	684555447446077441	2016-01-06T02:01:51	BREAKING 5.1 magnitude quake detected close to North Korea nuclear test site: USGS
+jackclarkSF	684511856296247296	2016-01-05T23:08:38	RomaJay Elite Content
+jackclarkSF	684501014351761408	2016-01-05T22:25:33	iankar_ MikeIsaac yup. Though things get weird when Justin Bieber does a 10,000 char update that needs to fan-out in real-time to millions
+jackclarkSF	684499255994613760	2016-01-05T22:18:34	iankar_ MikeIsaac oh, absolutely. It's a couple orders of magnitude more expensive, computationally, to churn images into text.
+jackclarkSF	684498684738801664	2016-01-05T22:16:18	MikeIsaac iankar_ they can read and index all the screenshot stuff with OCR tech, it is just a bit expensive
+jackclarkSF	684496675503620096	2016-01-05T22:08:19	Google's James Kuffner, who played big role in its robotics, is heading to Toyota's AI R&amp;D lab.
+jackclarkSF	684471744673927168	2016-01-05T20:29:15	dribnet yup, especially routine cognitive ones, which includes bits of my job (eek!)
+jackclarkSF	684471279928213505	2016-01-05T20:27:24	mappingbabel Splitting by routine / non-routine is interesting and highlights that routine jobs of any sort are now targets of automation.
+jackclarkSF	684467945016172544	2016-01-05T20:14:09	bradneuberg cool!
+jackclarkSF	684465397752446976	2016-01-05T20:04:02	As we head toward multi-core and multi-node systems it is worth remembering that data transfer is v expensive. 
+jackclarkSF	684463739353956352	2016-01-05T19:57:26	Employment for routine physical and cognitive jobs is stagnating, likely due to tech-led automation 
+jackclarkSF	684200033554583553	2016-01-05T02:29:34	Another shoutout for Toyota in nvidia CEO's presentation. Highlights carmaker's $1B investment as part of AI race 
+jackclarkSF	684204743426584577	2016-01-05T02:48:17	AshOnIndia tried to do a thing about reinforcement learning &amp; deep learning for robotics here + a ~5min video 
+jackclarkSF	684204515373916160	2016-01-05T02:47:23	gamoid it's delicious robot-brain candy for me, yes! Albeit wildly optimistic, but then all keynotes tend to skew that way.
+jackclarkSF	684203668728459264	2016-01-05T02:44:01	Drivenet running on NVIDIA GeForce GTX TITAN X doing detection at 50 FPS CES2016 CNETatCES  
+jackclarkSF	684203878032617472	2016-01-05T02:44:51	RobbyMeals a coincidence, I'm sure!
+jackclarkSF	684203457692086273	2016-01-05T02:43:10	AshOnIndia you can watch it live here: 
+jackclarkSF	684203138824339456	2016-01-05T02:41:54	AshOnIndia all of this stuff is the perception but there's need for reinforcement learning for truly intelligent agents
+jackclarkSF	684203058864066560	2016-01-05T02:41:35	AshOnIndia He's made a number of statements that are quite... optimistic.
+jackclarkSF	684196896668291072	2016-01-05T02:17:06	Nvidia CEO says deep learning is as significant a breakthrough as internet or mobile computing.
+jackclarkSF	684174676243779584	2016-01-05T00:48:48	derrickharris tomkrazit we're getting to that, you Klout-chaser.
+jackclarkSF	684174164140294145	2016-01-05T00:46:46	tomkrazit derrickharris pretty good. Looping diodesign
+jackclarkSF	684173914155565056	2016-01-05T00:45:47	derrickharris tomkrazit I'm just disappointed they didn't stick some nice English tabloid words in like TROUNCES
+jackclarkSF	684173685033287680	2016-01-05T00:44:52	derrickharris tomkrazit at this stage I think Google and MSFT and FB all field cutting-edge systems for slightly different tasks
+jackclarkSF	684173461892153344	2016-01-05T00:43:59	derrickharris tomkrazit the headline implies a far greater capability gap than there is
+jackclarkSF	684112946021052416	2016-01-04T20:43:31	"Oracle (the company) is widely hated, in a way that IBM generally wasn’t." 
+jackclarkSF	684111850796007424	2016-01-04T20:39:10	moonpolysoft LusciousPear my investment all those years ago in a Premium Content Distillery is finally paying off. (thanks!)
+jackclarkSF	683844869580668928	2016-01-04T02:58:16	Zuckerberg's New Year's Challenge: To Build an AI-Powered Helper  via technology
+jackclarkSF	683380274508345346	2016-01-02T20:12:08	fchollet paging benhamner
+jackclarkSF	682401745629278208	2015-12-31T03:23:49	Our fall deeplearning conference videos  mappingbabel enlitic nvidia Yelp vicariousinc mLearning
+jackclarkSF	682337974491598850	2015-12-30T23:10:25	The North Pole was above freezing today, on what should be one of the coldest days of the year. 50 deg F above norm. 
+jackclarkSF	682326674273366016	2015-12-30T22:25:30	EricNewcomer playing a nuts German board game called CamelUp that involves a pyramid and betting 
+jackclarkSF	682323133500645377	2015-12-30T22:11:26	EricNewcomer mine
+jackclarkSF	682305594242560000	2015-12-30T21:01:44	Sort of sucks that in Silicon Valley almost everything becomes a monopoly. om on why. 
+jackclarkSF	681750451952431104	2015-12-29T08:15:48	etangent good point. We should discuss this over beer and microwaved food in SF. : )
+jackclarkSF	681749936300519424	2015-12-29T08:13:45	etangent still a pretty big chunk of power: 
+jackclarkSF	681748933098520576	2015-12-29T08:09:46	etangent psygnisfive issues of data sharing and centralized versus decentralized capabilities will be issues people care about, surely?
+jackclarkSF	681748704185946112	2015-12-29T08:08:52	etangent psygnisfive computers are, what, two orders of magnitude less efficient than brains? Not banning them, but an AI per person=mad.
+jackclarkSF	681748380339560448	2015-12-29T08:07:34	etangent psygnisfive ...which is a bad thing. Eg local environment (Earth) suffering from 7bn of us &amp; tragedy of commons right now
+jackclarkSF	681747297588363264	2015-12-29T08:03:16	psygnisfive similar - what if each country of 100m+ people ran its own Google Street View-like data collection &amp; didn't share data?
+jackclarkSF	681746781735120896	2015-12-29T08:01:13	psygnisfive in fairness, fully distributed AIs -- an agent per person, say -- could lead to massive inefficiency from replicated data, etc
+jackclarkSF	681745826541125632	2015-12-29T07:57:25	Billions of AIs competing for resources - computational, data, etc - could lead to tragedy of commons. 
+jackclarkSF	681309572137627649	2015-12-28T03:03:54	rbhar90 diodesign absolutely! They haven't said they've built super-intelligence, but Demis says co structured to work on building it
+jackclarkSF	681309080892342272	2015-12-28T03:01:57	rbhar90 diodesign so it strikes me as odd the article neglects to mention that a significant AI dev group is not skeptical of the idea
+jackclarkSF	681308910377156608	2015-12-28T03:01:16	rbhar90 diodesign and DeepMind + ethics stuff is structured on basis they will eventually create superintelligence
+jackclarkSF	681308783591723008	2015-12-28T03:00:46	rbhar90 diodesign they're not worried about it but they believe they are working toward it. Eg Demis and Shane Legg and others.
+jackclarkSF	681299924449910785	2015-12-28T02:25:34	Piece neglects to mention that many DeepMind researchers assume they are on path to create superintelligence. 
+jackclarkSF	680806104658382848	2015-12-26T17:43:18	jedgar gerstenzang we don't, but I believe we should do
+jackclarkSF	679453427194327040	2015-12-23T00:08:15	Google's robot Christmas card is not disconcerting at all 
+jackclarkSF	679440500361945089	2015-12-22T23:16:53	samim "“We do not plan to become the Foxconn of Apple,” 

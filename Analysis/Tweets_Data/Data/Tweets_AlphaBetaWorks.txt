@@ -1,0 +1,59 @@
+AlphaBetaWorks	725722467851898881	2016-04-28T16:24:54	Daniel Loeb on Hedge Fund risk management:  
+AlphaBetaWorks	724630371472535554	2016-04-25T16:05:18	The Smart Money on Valeant: exited sharply throughout 2014.   VRX HedgeFunds 
+AlphaBetaWorks	723542419506102274	2016-04-22T16:02:10	The Decay of Stock Picking Skill AlphaBetaWorks  finserv Quant largecap microcap 
+AlphaBetaWorks	723196976641134594	2016-04-21T17:09:30	Finding skilled managers requires spotting them long before visible and arbitraged away   
+AlphaBetaWorks	722561616835776514	2016-04-19T23:04:48	"The Decay of Stock Picking Skill"    ABW article:  MutualFunds HedgeFunds 
+AlphaBetaWorks	718542133829967872	2016-04-08T20:52:49	Slate Path Capital, long return history split into active and passive sources. StockPicking Alpha 
+AlphaBetaWorks	718534577371942918	2016-04-08T20:22:47	Top stock pickers aren't famous, but they deliver consistent alpha. Blog: 
+AlphaBetaWorks	718450722459803649	2016-04-08T14:49:35	The best stock pickers are often unglamorous firms. Their picks among Industrials:  
+AlphaBetaWorks	717463106721480704	2016-04-05T21:25:09	SUNE had a big crowding problem - from our Q2 '15 analysis.  
+AlphaBetaWorks	714831607086116864	2016-03-29T15:08:30	How Did the Top U.S. Stock Pickers Do in 2015? AlphaBetaWorks  retail consumer tech 
+AlphaBetaWorks	712675612977041408	2016-03-23T16:21:21	Hedge Funds of a feather may flock together: HF Clustering: Unique or Not?  
+AlphaBetaWorks	712315346246443008	2016-03-22T16:29:47	Liquidation of the crowded hedge fund bets in 2008 was a non-event compared to the 2015 liquidation: 
+AlphaBetaWorks	712055294159773696	2016-03-21T23:16:26	MU: Top stock pickers' timely consensus "underweight" in early 2015. ABWExpertAggregate  
+AlphaBetaWorks	712050217822978048	2016-03-21T22:56:15	JacobWolinsky ...vs...Pershing Square..  
+AlphaBetaWorks	712049538945716225	2016-03-21T22:53:33	JacobWolinsky ValueAct sold over half of their position in 2011, locking in 20% alpha to the fund. 
+AlphaBetaWorks	712003694208753664	2016-03-21T19:51:23	Great use of a cocktail napkin.. 
+AlphaBetaWorks	711987203144978432	2016-03-21T18:45:51	crowdsourcing investment wisdom works, but finding wisdom in the sea of mediocrity is the hard part: 
+AlphaBetaWorks	710844121695399936	2016-03-18T15:03:40	Crowdsourcing skilled fund managers. BigData 
+AlphaBetaWorks	710858281762234371	2016-03-18T15:59:56	Hedge Fund Crowding wasn't a factor in '08, compared to now...  
+AlphaBetaWorks	710813802913107969	2016-03-18T13:03:11	interesting look at the most skillful stock-pickers among institutions via AlphaBetaWorks 
+AlphaBetaWorks	710567300869390336	2016-03-17T20:43:40	"The most celebrated stocks frequently appear as top stock pickers’ consensus shorts" in our ABWExpertAggregate  
+AlphaBetaWorks	710555679744888832	2016-03-17T19:57:30	A look back at our Q2 '15 Hedge Fund Crowding Report: VRX LNG JD NFLX SUNE  
+AlphaBetaWorks	710499763725045761	2016-03-17T16:15:18	Skilled stock pickers had a great 2015; 2016 is off to a solid start. ABWExpertAggregate  
+AlphaBetaWorks	710497093459288066	2016-03-17T16:04:42	Nike: Top stock pickers have gone from underweight to overweight. ABWExpertAggregate NKE  
+AlphaBetaWorks	710492454106095616	2016-03-17T15:46:16	VRX: The smart money was in early and out just-in-time. ABWExpertAggregate  Analysis:  
+AlphaBetaWorks	710251769213755392	2016-03-16T23:49:52	Top stock pickers profited (and avoided pain) from VRX. ABWExpertAggregate  
+AlphaBetaWorks	709371673552801792	2016-03-14T13:32:41	How Did The Top U.S. Stock Pickers Do In 2015? AlphaBetaWorks  V EA XOM 
+AlphaBetaWorks	710142550334504960	2016-03-16T16:35:52	Great checklist  HVST  
+AlphaBetaWorks	709867028165709824	2016-03-15T22:21:02	The best stock pickers had a good 2015. It's an eclectic bunch. Article:  
+AlphaBetaWorks	709864481317236736	2016-03-15T22:10:55	VRX and Hedge Fund Crowding: ICYMI from our 2/22/16 blog:   
+AlphaBetaWorks	709413622590492672	2016-03-14T16:19:22	The “AlphaBetaWorks Expert Aggregate”: Skilled managers and their stock picks. Blog:  
+AlphaBetaWorks	707687171176534021	2016-03-09T21:59:04	VRX: Historical Positioning and Cumulative Alpha to Pershing Square.. 
+AlphaBetaWorks	707686726727106562	2016-03-09T21:57:18	VRX: Historical Positioning and Cumulative Alpha to ValueAct. Still their 2nd best Alpha producing position. 
+AlphaBetaWorks	707254369662545920	2016-03-08T17:19:16	researchpuzzler Thank you for the mention - a topic we've been steeped in.  -ABW
+AlphaBetaWorks	706901791657426946	2016-03-07T17:58:15	Hedge Fund Clustering: predicting uniqueness (or lack):  
+AlphaBetaWorks	704408793090646016	2016-02-29T20:51:58	StuartReid1929 GestaltU researchpuzzler Re robustness:  (summary chart below) 
+AlphaBetaWorks	704393771106996225	2016-02-29T19:52:16	How robust (and, therefore, predictive) is your equity risk model?  
+AlphaBetaWorks	704390822301556736	2016-02-29T19:40:33	Hedge Fund Crowding Factors: Still heavy market exposure. (much less VRX than Q3).  
+AlphaBetaWorks	704379014832476160	2016-02-29T18:53:38	GestaltU StuartReid1929 researchpuzzler Methodology is key. Market is obvious first-in-line. Excess market risk (beta) =&gt; crowded factor
+AlphaBetaWorks	702623526860124160	2016-02-24T22:37:57	The persistence of Active Security Selection Return: Major implications for fund allocators.  
+AlphaBetaWorks	702618789733490688	2016-02-24T22:19:08	"Past performance does not predict future results"  It predicts poor results.   
+AlphaBetaWorks	697573809985949696	2016-02-11T00:12:11	Article: 
+AlphaBetaWorks	697572347486851072	2016-02-11T00:06:22	Dont chase Fund Performance; it reverts. Same for SharpeRatio. Active Return, however, does trend. abReturn 
+AlphaBetaWorks	697490928693456901	2016-02-10T18:42:50	Collinearity issues aside--How SmartBeta isn't always as smart as claimed:  HT to: MicahHauptman
+AlphaBetaWorks	697169420641181697	2016-02-09T21:25:17	MicahHauptman VIG: Return vs. Passive (chart) - holdings based analysis. Same conclusion, different approach. 
+AlphaBetaWorks	697153233173684224	2016-02-09T20:20:57	MicahHauptman Enjoyable article on Smart Beta. Do you mind providing a link to the Glushkov research? Also, what is the fund you speak of?
+AlphaBetaWorks	697121245557452800	2016-02-09T18:13:51	RS Investors Fund (RSIYX): Average alpha producer overall, but exceptional in Tech... ActiveReturns 
+AlphaBetaWorks	694567535216168960	2016-02-02T17:06:19	We wonder which additional indices funds are "closet indexing". ESMA study won't find out, as designed.  
+AlphaBetaWorks	689521495702302721	2016-01-19T18:55:09	Challenging the Momentum Factor in Smart Beta ETFs MTUM Blog:  
+AlphaBetaWorks	688122275451699200	2016-01-15T22:15:09	groditi DavidSchawel MTUM is, now, a hefty consumer sector bet + market. We blogged on this yest, FWIW: 
+AlphaBetaWorks	688099552457404416	2016-01-15T20:44:52	Challenging the "Quality Factor" in Smart Beta strategies:  
+AlphaBetaWorks	684780606295654400	2016-01-06T16:56:33	The main source of Hedge Fund Crowding is record Market (Beta) exposure - our data. Blog:  
+AlphaBetaWorks	682262501451403265	2015-12-30T18:10:30	Berkshire Hathaway's $107B equity port: Recent gains are passive. Our holdings-based analysis... 
+AlphaBetaWorks	681581247093542912	2015-12-28T21:03:27	Chimerix WAS NOT a crowded Hedge Fund name - our data. INCY ANAC SGEN &amp; ACAD bear watching, though. CMRX 
+AlphaBetaWorks	681576579084849153	2015-12-28T20:44:54	What I Learned from Losing $200 Million  via NautilusMag
+AlphaBetaWorks	679400157713006592	2015-12-22T20:36:34	Issaquahfunds Many folks have since been rewarded (with AUM) by confusing "alpha" with risk.
+AlphaBetaWorks	679379291600117760	2015-12-22T19:13:40	Issaquahfunds We did - for a decade - and can relate.
+AlphaBetaWorks	679374280954544128	2015-12-22T18:53:45	Not-the-Best stock picking Hedge Funds by Active Return. Our blog:  
+AlphaBetaWorks	679374128554479616	2015-12-22T18:53:09	Best stock picking Hedge Funds by Active Return. Our blog:  

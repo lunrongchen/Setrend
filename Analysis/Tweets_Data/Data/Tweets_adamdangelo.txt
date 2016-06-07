@@ -1,0 +1,59 @@
+adamdangelo	725927338358136832	2016-04-29T05:58:59	Ego depletion, the idea of willpower as depletable resource, fails in another meta-analysis.  
+adamdangelo	725413342735532032	2016-04-27T19:56:33	Just finished my Q&amp;A session on Quora, check it out here: 
+adamdangelo	724313771011788800	2016-04-24T19:07:14	Really agree with this re Apple and services and org structure: 
+adamdangelo	724116143091273728	2016-04-24T06:01:56	WeChat PM: chat apps succeed by removing friction, not by relying on conversational UI  
+adamdangelo	722985164901482496	2016-04-21T03:07:50	Even Facebook only has around 1bn DAUs - there are 3bn people online now &amp; mobile will take that to 5bn+. There's more scale coming.
+adamdangelo	722562030863953920	2016-04-19T23:06:27	Open sourcing QMF for matrix factorization: 
+adamdangelo	720121699585388544	2016-04-13T05:29:27	I strongly disagree with "premature optimization is the root of all evil". Much easier to make things fast from the start than the reverse.
+adamdangelo	716279065888563200	2016-04-02T15:00:11	We will lowercase internet effective June 1, when the 2016 Stylebook launches.  ACES2016 
+adamdangelo	715559027514679296	2016-03-31T15:19:01	Questions about the Zika epidemic? Ask NSC44 Advisor Amy Pope on Quora →  
+adamdangelo	715344941694582784	2016-03-31T01:08:19	Welcoming the Parlio team to Quora! 
+adamdangelo	715194658079420417	2016-03-30T15:11:08	Asana 
+adamdangelo	713219392746590208	2016-03-25T04:22:08	Avoiding Complexity in Machine Learning Systems: 
+adamdangelo	712104166987055104	2016-03-22T02:30:38	My Take on FBI’s “Alternative” Method 
+adamdangelo	711262794683842560	2016-03-19T18:47:19	This is why I don't think Uber will own food delivery: 
+adamdangelo	710946737955872768	2016-03-18T21:51:25	New AI method for transferring facial expressions onto other faces = in future gonna be hard to verify vid clips 
+adamdangelo	710608311494684672	2016-03-17T23:26:38	Huge milestone. Makes me optimistic that so many people in the world are engaging with such great content. 
+adamdangelo	710601373646073856	2016-03-17T22:59:04	Update: we crossed 100M monthly uniques on Quora: 
+adamdangelo	708937560068739072	2016-03-13T08:47:40	Lee Sedol wins game 4!!! Congratulations! He was too good for us today and pressured AlphaGo into a mistake that it couldn’t recover from
+adamdangelo	707071290549473281	2016-03-08T05:11:47	I am really optimistic about Amazon Echo and similar devices. So much more natural than talking to a phone.
+adamdangelo	704384792641449984	2016-02-29T19:16:36	Fixing the Inequity of Startup Equity: 
+adamdangelo	704086429962358784	2016-02-28T23:31:00	blumenfeld 
+adamdangelo	704031881726066688	2016-02-28T19:54:15	yes yes yes X 1e6 
+adamdangelo	703038943126691841	2016-02-26T02:08:40	2 ez POTUS debate fixes: subtract answer overtime from future answer time, realtime fact checking on claims (&lt;3 min, post in crawl)
+adamdangelo	703019785156562945	2016-02-26T00:52:32	Taking questions: activist &amp; Baltimore mayoral candidate DeRay Mckesson.  
+adamdangelo	701196621837504512	2016-02-21T00:07:56	My answer to Will Uber dominate the home food delivery market — restaurants, groceries, etc?  
+adamdangelo	699749748333375489	2016-02-17T00:18:35	Why did ACRush (Tiancheng Lou) join Quora's engineering team? 
+adamdangelo	699020241137893378	2016-02-14T23:59:47	ilyasu valuations get high, or there is a lot of competition to get in
+adamdangelo	699016327978098689	2016-02-14T23:44:14	ilyasu sounds like an unreasonably high bar but lots of companies make it through. so far I've done 7 investments that fit the pattern.
+adamdangelo	699011375406800896	2016-02-14T23:24:33	Example:  I'll participate in rounds at all stages, but won't lead above 10M in valuation.
+adamdangelo	699011107948621826	2016-02-14T23:23:29	Also, AI / machine learning application companies. I can provide some advice but am mostly hands off on my investments.
+adamdangelo	699010935696945153	2016-02-14T23:22:48	I’m interested in consumer internet companies that already have traction, are growing exponentially, and have a network effect.
+adamdangelo	699010848933548032	2016-02-14T23:22:28	I had backed off investing in startups the last few years, but due to the market I'm planning to start again.
+adamdangelo	697538570727260160	2016-02-10T21:52:09	for those who disagreed with my initial quora AMA on majoring in liberal arts, I have updated it thoroughly here: 
+adamdangelo	696151081026453504	2016-02-07T01:58:46	Best read on the twitter algorithm this far.  
+adamdangelo	696148606881935363	2016-02-07T01:48:56	My thoughts on the Twitter algorithmic timeline: 
+adamdangelo	692278826383085573	2016-01-27T09:31:48	Long Short-Term Memory-Networks for Machine Reading. "the LSTM has a memory tape (instead of a memory cell)"   
+adamdangelo	693500922949799936	2016-01-30T18:27:59	Words/minute by input method (via ) 
+adamdangelo	693487344863694848	2016-01-30T17:34:02	davidbyttow I have been hoping to read your postmortem whenever you get to it
+adamdangelo	693278024066666497	2016-01-30T03:42:16	Best thing I read this week! .artypapers's session on Quora 
+adamdangelo	692440064735985665	2016-01-27T20:12:31	Knowledge Prizes (QuoraPrizes): Unlock answers to important questions  
+adamdangelo	691361393396678656	2016-01-24T20:46:15	I'm going to reserve judgment on Jack's performance as CEO until after he's been there a few years.
+adamdangelo	688098304832311296	2016-01-15T20:39:54	Announcing the Machine Learning Series, starting with Yoshua Bengio &amp; AndrewYNg  
+adamdangelo	687456240411127808	2016-01-14T02:08:34	Highly recommend read: chamath is dropping some knowledge on Quora and it's awesome.  
+adamdangelo	683400055533899776	2016-01-02T21:30:44	Deep learning -&gt; Differentiable programing.  Armand Joulin &amp; Tomas Mikolov 's Stack-Augmented RNN,  Jason Weston,... 
+adamdangelo	676635576842379264	2015-12-15T05:31:07	I'm taking questions to answer on Quora for Wednesday:  
+adamdangelo	675832113350893568	2015-12-13T00:18:26	patrickc pmarca vkrakovna I read this as "Elon Musk = outsider who we must ignore, people at NIPS = insiders whose concerns are valid"
+adamdangelo	673973319863894016	2015-12-07T21:12:15	Answer on Quora by hackingdata to What was the main takeaway from Jeff Dean and Oriol Vinyal's NIPS2015 tutorial? 
+adamdangelo	672890361824460801	2015-12-04T21:28:58	A New Quora Editor 
+adamdangelo	672542136751927297	2015-12-03T22:25:15	Great read by vkhosla on changing liberal arts degree to liberal science, w/ heavy emphasis on critical thinking.   
+adamdangelo	666051507440082944	2015-11-16T00:33:48	rajatsuri yeah, it feels awesome, a nice change from the usual boring weather around here
+adamdangelo	666047205027934208	2015-11-16T00:16:42	I love how windy it is outside today.
+adamdangelo	665764360111833088	2015-11-15T05:32:47	KevinSimler yeah, I think in all cases the benefit of the signal needs to be greater than the amount by which it makes life harder
+adamdangelo	665763574942269440	2015-11-15T05:29:40	KevinSimler yeah. I think the only way to get a mostly honest signal is to have everyone waste a lot of resources making the sign
+adamdangelo	665763055083483136	2015-11-15T05:27:36	KevinSimler I think the "handicap" is the cost of having to produce the sign and carry it, which turns out to be expensive but worth it.
+adamdangelo	665762662819627008	2015-11-15T05:26:02	KevinSimler doesn't have to be expensive to produce an honest number as long as it's expensive to fake
+adamdangelo	665762478521880576	2015-11-15T05:25:18	KevinSimler I'm not sure about the terms. But I think of it like a fitness score number on a sign they have to carry around and can't fake.
+adamdangelo	665759627510845442	2015-11-15T05:13:59	KevinSimler I think you can view the tail as a signal that is hard to fake more than expensive. It carries information beyond the handicap.
+adamdangelo	660252065864663041	2015-10-31T00:28:54	The road to startup failure is paved with excuses for moving slowly.
+adamdangelo	655842036013096960	2015-10-18T20:25:00	I'm grateful to be in a market dealing purely with information. None of the friction of supply chains, the FDA, risk of killing people, etc.

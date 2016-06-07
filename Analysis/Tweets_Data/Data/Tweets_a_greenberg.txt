@@ -1,0 +1,240 @@
+a_greenberg	726106506752606208	2016-04-29T17:50:56	anniekarni Pre-check becomes regular check, regular becomes no-fly list, new pre-check requires your Facebook password and a stool sample
+a_greenberg	725701276663734272	2016-04-28T15:00:41	Wired will switch on HTTPS today to the security section, and soon our full site. My explainer on why that matters: 
+a_greenberg	723519816460570624	2016-04-22T14:32:21	The Ingenious Way Iranians Are Using Satellite TV to Beam in Censored Data 
+a_greenberg	723195017557221376	2016-04-21T17:01:43	Of Course Congress Is Clueless About Tech—It Killed Its Tutor 
+a_greenberg	722795092042362882	2016-04-20T14:32:33	Google’s New YouTube Analysis App Crowdsources War Reporting 
+a_greenberg	722142935463170048	2016-04-18T19:21:07	AP Pulitzer Prize-winning investigation freed more than 2,000 slaves. Read how one of them went home after 22 years. 
+a_greenberg	720714333760667649	2016-04-14T20:44:22	ClipperChip Ok, you do have a high tolerance for creepiness then
+a_greenberg	720713682150387714	2016-04-14T20:41:46	ClipperChip Did you read to the part where they found name/age/address of a woman sharing Google Map directions to Planned Parenthood?
+a_greenberg	720712868811972608	2016-04-14T20:38:32	ClipperChip This is a different variety/degree of creepiness
+a_greenberg	720711987710308356	2016-04-14T20:35:02	Researchers Crack Google/Microsoft Shortened URLs To Spy On People  Who knew enumerating bit.ly links got this creepy
+a_greenberg	719943423852208128	2016-04-12T17:41:02	riskybusiness dakami footage leaked: 
+a_greenberg	719584691456749568	2016-04-11T17:55:34	BradVanceAuthor Sure thing. agreenberg @ ?
+a_greenberg	719583262880972801	2016-04-11T17:49:53	BradVanceAuthor Can you send me a review copy?
+a_greenberg	719559204156084225	2016-04-11T16:14:17	kashhill Amazing find.
+a_greenberg	719536500854145025	2016-04-11T14:44:04	joemfbrown If you're both my editor and claiming to be the inventor of Bitcoin covering this could get really complicated for me.
+a_greenberg	719534645075976192	2016-04-11T14:36:42	joemfbrown hence "prove." Luckily cryptography is pretty good for proving things.
+a_greenberg	719534136009105408	2016-04-11T14:34:40	As rumors suggest Craig Wright plans to stake his claim as Bitcoin's creator: How To Prove You're Satoshi Nakamoto: 
+a_greenberg	719200736467423232	2016-04-10T16:29:52	🤔 
+a_greenberg	718532851218702336	2016-04-08T20:15:56	gaberivera My retort was also a jerk move. More important: mrmattsimon's absurd creature series is incredibly good 
+a_greenberg	718479448882987008	2016-04-08T16:43:43	gaberivera mat tip techmeme this is also pretty cool: 
+a_greenberg	718477650814230529	2016-04-08T16:36:35	gaberivera mat tip techmeme 
+a_greenberg	718460689006911488	2016-04-08T15:29:11	Both sides of the crypto war hoped Congress might broker peace. Instead this draft bill threatens a nuclear option. 
+a_greenberg	718145087159537664	2016-04-07T18:35:05	jessiwrites I can't tell if I'm getting seasick right now or just going insane
+a_greenberg	718129454522966016	2016-04-07T17:32:58	One World Trade Center is swaying in the wind today and creating a not very reassuring creaking sound in my office: 
+a_greenberg	717925692130910208	2016-04-07T04:03:18	TheBlueMatt dakami Aquentys matthew_d_green Do you have a link for this by any chance?
+a_greenberg	717764037547679744	2016-04-06T17:20:56	a_greenberg here's a viz of your Moore's Law of Leaks. 
+a_greenberg	717771758867202049	2016-04-06T17:51:37	jovany fair point!
+a_greenberg	717766745516351488	2016-04-06T17:31:42	jovany Nice. You think a log scale is best to show this though? For the average reader it kind of hides the orders of magnitude increase.
+a_greenberg	717745916871118848	2016-04-06T16:08:56	brandonzwa don't do it
+a_greenberg	717368656129302528	2016-04-05T15:09:50	Forget Apple vs. the FBI: WhatsApp Just Switched on Encryption for a Billion People 
+a_greenberg	717116355477172224	2016-04-04T22:27:17	_No__ thanks!
+a_greenberg	717053005250633730	2016-04-04T18:15:33	noahi b_obermayer WIRED Oh yeah, weird. Fixed that typoed instance, thanks, and apologies Bastian
+a_greenberg	717052144717836288	2016-04-04T18:12:08	memarkelliottme yes!
+a_greenberg	717045633975193600	2016-04-04T17:46:15	whoa 
+a_greenberg	717032549797732356	2016-04-04T16:54:16	lorenzoFB Thanks Lorenzo...when are you gonna write one about Hacking Team?
+a_greenberg	717028416562835456	2016-04-04T16:37:50	Seems like a good day to mention I wrote a book in 2012 predicting a new era of megaleaks.  
+a_greenberg	716980886873485312	2016-04-04T13:28:58	Reporter talking to PanamaPapers source used tools "like" Threema, Signal, PGP, switching often &amp; deleting history 
+a_greenberg	716978247267958784	2016-04-04T13:18:29	How Reporters Pulled Off the Panama Papers, the Biggest Leak in Whistleblower History 
+a_greenberg	716775936482533376	2016-04-03T23:54:34	b_obermayer, hey there. Got a moment to talk to a Wired data security reporter? I'm at agreenberg@wired.com and eager to hear from you.
+a_greenberg	715887361826144256	2016-04-01T13:03:42	How trevorpaglen is Using Museums to Amplify Tor’s Anonymity Network 
+a_greenberg	715666709009547264	2016-03-31T22:26:54	That "bold" Pentagon bug bounty we all applauded will last &lt; month, include only "non-critical" sites chosen by DoD 
+a_greenberg	715536777449226241	2016-03-31T13:50:36	onekade Thanks, added that correction.
+a_greenberg	715522025868099584	2016-03-31T12:51:59	The most common reason feds have demanded Google/Apple unlock phones? Drugs, of course 
+a_greenberg	714807668184125440	2016-03-29T13:33:23	71% of people want the dark web shut down, according to a global survey of 24,000 respondents. 
+a_greenberg	713419652135854080	2016-03-25T17:37:54	This Artist Turns Live Surveillance Feeds Into Unsettling Works of Art 
+a_greenberg	713031526909349888	2016-03-24T15:55:38	Also Microsoft, don't say CadeMetz didn't warn you: 
+a_greenberg	713031019167944704	2016-03-24T15:53:37	The Microsoft AI that learned racism from Twitter is a better story than Ex Machina  Related: 
+a_greenberg	712641382750556160	2016-03-23T14:05:20	You guys can stop making content today because Wired got the Silicon Valley cast to make this: 
+a_greenberg	712651972420222977	2016-03-23T14:47:25	Chartbeat Wow, major upgrade, so slick. This has been a very satisfying twitter-complaining experience for me, thank you!
+a_greenberg	712337467093950464	2016-03-22T17:57:41	Chartbeat I'd DM but yours don't seem to be open. :)
+a_greenberg	712311618256896000	2016-03-22T16:14:58	chartbeat do you guys ever plan on updating your iOS app? Compared to your other great stuff it's...um...not great
+a_greenberg	712071744383680512	2016-03-22T00:21:48	"Heads I get the precedent I do want, tails I don't get the precedent I don't want" ---FBI
+a_greenberg	712071031989669888	2016-03-22T00:18:58	Tonight in Riverside, CA is going to be the best party for marooned reporters since Snowden tricked them into going to Havana.
+a_greenberg	711998252669865984	2016-03-21T19:29:46	One nuance of iMessage attack: even if you patch, your message can potentially be decrypted if recipient hasn't: 
+a_greenberg	711941055462174720	2016-03-21T15:42:29	Personal favor pls? Vote for my dad, who runs a clinic for uninsured in Raleigh, for North Carolina Dr. of the Year! 
+a_greenberg	711932682532462592	2016-03-21T15:09:13	Study Finds 24 Car Models Open to Unlocking, Ignition Hack  (cc: nickbilton)
+a_greenberg	711642919531319296	2016-03-20T19:57:48	This Instagram sponsored post links to a 100% fake CNN story pushing non-FDA-regulated "brain viagra." Classy! 
+a_greenberg	711637570107609088	2016-03-20T19:36:32	Penenberg Still a gap between reporters who cover info security &amp; those who cover nat'l security. But NYtimes is one place that has both
+a_greenberg	711604072420417536	2016-03-20T17:23:26	This was another very silly passage on encryption in the nytimes' coverage of the Paris attacks: 
+a_greenberg	711577285489520641	2016-03-20T15:36:59	Snowden debating with the Wire creator David Simon right now, starting w/ this tweet:  Just another Sunday on Twitter
+a_greenberg	711303298024923136	2016-03-19T21:28:16	BarefootBoomer thegrugq 
+a_greenberg	710858007953989633	2016-03-18T15:58:50	HowellONeill nytimes All congrats go to MalikaZW and davidosit but thanks!
+a_greenberg	710857143210156032	2016-03-18T15:55:24	Wife's short film on empathic/tragic videogames up at nytimes:  Feature doc opening tonight: 
+a_greenberg	710610063451410432	2016-03-17T23:33:36	thepacketrat JZdziarski We were dubious on this too, but Palo Alto Networks has done some really excellent work in the past.
+a_greenberg	710604545433464835	2016-03-17T23:11:40	TheBrockJohnson WIRED Thanks...I took it myself after giving up on getting 0xcharlie's Jeep out of the ditch
+a_greenberg	710604267107778563	2016-03-17T23:10:34	Given the Apple/FBI situation, this line in the FBI's public service announcement on car hacking is pretty choice: 
+a_greenberg	710603238987407361	2016-03-17T23:06:29	The FBI has noticed that car hacking is a thing: 
+a_greenberg	710585530933600256	2016-03-17T21:56:07	For 3yrs Lavabit couldn't say who gov was targeting in its 2013 case; now in error gov has revealed it was Snowden 
+a_greenberg	710529615903727622	2016-03-17T18:13:56	adrjeffries "An Apple spokesperson declined to comment on whether he remembered what he dreamed last night." 
+a_greenberg	710527069994754048	2016-03-17T18:03:49	Some real talk about yesterday's Chinese iphone-ageddon:  cc: everybody 
+a_greenberg	709481034690240512	2016-03-14T20:47:14	mattblaze my cameo paled in comparison to your starring role as a 1990s crypto warrior
+a_greenberg	709399947888758784	2016-03-14T15:25:02	In the FBI’s Crypto War, Apps May Be the Next Target  via WIRED
+a_greenberg	708335703319584769	2016-03-11T16:56:06	dinodaizovi 
+a_greenberg	708069974141755392	2016-03-10T23:20:11	HeyMerrill 
+a_greenberg	708008313531850753	2016-03-10T19:15:10	Nice one by josephfcox who found the long-lost DPR of Silk Road 2, may or not be living like a king in Patagonia 
+a_greenberg	707980756702916608	2016-03-10T17:25:40	Researcher Finds Thousands of Trucks, Buses and Ambulances Open to Hackers 
+a_greenberg	707624455254765568	2016-03-09T17:49:51	0xcharlie I agree with this point but want to emphasize that I didn't actually cry.
+a_greenberg	707596432547557376	2016-03-09T15:58:30	Everyone makes mistakes. Best correction we’ve ever published.  
+a_greenberg	707285040598749184	2016-03-08T19:21:09	Buy Frank Zappa’s house for just $9M, and/or support the exciting Kickstarter for my friend alxwinter's next film! 
+a_greenberg	707252533866139648	2016-03-08T17:11:58	runasand nytimes amazing, congrats Runa!
+a_greenberg	707205851757584385	2016-03-08T14:06:28	jcarlosnorte Hey, reporter from Wired here, still hoping to talk. Please get back to me when you can, thanks!
+a_greenberg	706566412664373249	2016-03-06T19:45:34	An almost Neal-Stephenson-worthy take on the Apple/FBI standoff: 
+a_greenberg	705493706925670400	2016-03-03T20:43:01	Top iPhone Hackers Ask Court to Protect Apple From the FBI 
+a_greenberg	705422388557541376	2016-03-03T15:59:38	Inside the Unprecedented Hack of Ukraine’s Power Grid  by kimzetter, w/ this holy-shit lede: 
+a_greenberg	705031974054809600	2016-03-02T14:08:16	Hacker Says He Can Hijack a $35K Police Drone From a Mile Away 
+a_greenberg	704834308201009152	2016-03-02T01:02:48	The Feds Have Let the Cyber World Burn. Lets Put the Fire Out  -  &lt;- fantastic piece by dakami AppleFBI
+a_greenberg	704361560572096512	2016-02-29T17:44:17	fromedome jyarow SAI mafia taking over...congrats to you both
+a_greenberg	704337830277980160	2016-02-29T16:09:59	Last chance!  
+a_greenberg	703320355855863811	2016-02-26T20:46:54	sarahjeong super
+a_greenberg	703269861057765381	2016-02-26T17:26:15	DennisF ryanaraine TheBrianDonohue actually 0xcharlie is quite protective of the Jeep despite crashing it/me into a ditch multiple times
+a_greenberg	703269004010504193	2016-02-26T17:22:51	TheBrianDonohue DennisF ryanaraine *fat cat journalist chuckles villainously, sips yesterday's leftover coffee*
+a_greenberg	703267437735710720	2016-02-26T17:16:37	DennisF ryanaraine TheBrianDonohue Will miss you guys, but at least I have this Lambo I bought w all those $4s paid for our ad-free site.
+a_greenberg	703252366603259904	2016-02-26T16:16:44	neiltyson And computer security.
+a_greenberg	702959924905709569	2016-02-25T20:54:41	Apple Responds to FBI: You Have No Authority to Force Us to Help You 
+a_greenberg	702959449972084737	2016-02-25T20:52:47	FBI’s Tor Hack Shows the Risk of Subpoenas to Security Researchers  Yes...Apple. But remember the last FBI intrusion?
+a_greenberg	702660386038931456	2016-02-25T01:04:25	dannyyadron I'd say he sees Apple as Luke v. Emperor, resisting urge to take his weapon, strike him down, journey to dark side complete etc
+a_greenberg	702617317302099968	2016-02-24T22:13:17	Question: In the case of Silk Road, “do you assume the NSA was involved in gathering evidence?”   Snowden: “Yes."   
+a_greenberg	702576622168358912	2016-02-24T19:31:34	jarrettabello IAmRedShift I chuckled!
+a_greenberg	702534043502563329	2016-02-24T16:42:23	Unreleased blooper reel footage from Boston Dynamics' Atlas robot testing: 
+a_greenberg	702510632684363776	2016-02-24T15:09:21	Google Wants to Save News Sites From Cyberattacks—For Free  Extends free DDOS mitigation to any non-state news site
+a_greenberg	702500290965200897	2016-02-24T14:28:15	Court docs confirms FBI subpoena to Carnegie Mellon IDed Silk Road 2 user: 
+a_greenberg	702149165745356800	2016-02-23T15:13:01	ryanaraine special offer: whitelist Wired in your adblocker and I will buy you a beer next time I see you.
+a_greenberg	702147288420974592	2016-02-23T15:05:33	esizkur 4Dgifts Fair point...would have given those guys a mention if I'd known. But breadth of flaws Bastille found in devices matters.
+a_greenberg	702142624912842754	2016-02-23T14:47:01	Flaws in wireless mice and keyboards let radio hackers inject keystrokes on your PC from 100+ yards 
+a_greenberg	701500750623592448	2016-02-21T20:16:26	Remember when NYC cops actually wanted your iPhone to be secure? 
+a_greenberg	700383881703268352	2016-02-18T18:18:24	Apple’s FBI Battle Is Complicated. Here’s What’s Really Going On -
+a_greenberg	700364639138406404	2016-02-18T17:01:56	j_littlewood Yeah fine, of course, though I was pretty angry at the time.
+a_greenberg	700360135181471748	2016-02-18T16:44:02	ioerror nudehaberdasher Yes. I think I got CBP lite compared with your experience and others.
+a_greenberg	700357531747688448	2016-02-18T16:33:42	nudehaberdasher next time I get held at CBP I'm gonna trim it in their bathroom and leave little hairs everywhere...my wife hates that
+a_greenberg	700343467394912256	2016-02-18T15:37:49	kaepora Definitely...and in retrospect I clearly got the easiest, most trivial version of this compared with you/others.
+a_greenberg	700331342404460544	2016-02-18T14:49:38	moltke sounds right, thanks Henrik
+a_greenberg	700319642116624384	2016-02-18T14:03:08	runasand moltke yeah, maybe a dozen other people came and went while I waited
+a_greenberg	700319274884341760	2016-02-18T14:01:41	HowellONeill runasand moltke no, my phone was on me. They just told me I wasn't allowed to use it
+a_greenberg	700318472925011968	2016-02-18T13:58:29	runasand moltke they asked me why I'd traveled to different places, mostly Morocco and Turkey...(just in Morocco, Turkey was last in 2013)
+a_greenberg	700317864088231936	2016-02-18T13:56:04	moltke not sure what secondary is. I showed the printed form to the CBP guy in line, then got put in a waiting room for around 90 min
+a_greenberg	700317358531985408	2016-02-18T13:54:04	josephfcox ha, no, nothing to do with my electronics really, just a minor PITA
+a_greenberg	700316952145850369	2016-02-18T13:52:27	moltke I don't think so...there was a big X across my CBP form when the machine printed it out
+a_greenberg	700316451673153536	2016-02-18T13:50:27	HowellONeill not at all, coming back from vacation in Morocco
+a_greenberg	700316114887303168	2016-02-18T13:49:07	josephfcox No, they put my stuff outside the room but I could see it all. Left my phone on me but told me I wasn't allowed to use it
+a_greenberg	700315142337249280	2016-02-18T13:45:15	No big deal. But a tiny taste of CBP's crazy impunity:  and a reminder of the ordeals of kaepora ioerror, Poitras
+a_greenberg	700314125939908610	2016-02-18T13:41:13	Got held for ~2 hrs last night by Customs &amp; Border Protection. No explanation, no sense of how long I'd wait, not allowed to use a phone.
+a_greenberg	697067995789660161	2016-02-09T14:42:15	iblametom HRF didn't detail it to me, but said they're talking now to technical folks to figure out the best method
+a_greenberg	697067776901513217	2016-02-09T14:41:23	JZdziarski iblametom Not entirely sure about regions/classes, I admit, but NK defectors say there's enough power that players are common
+a_greenberg	697066489841643522	2016-02-09T14:36:16	iblametom They'll be wiped. (But yeah, you could probably compromise a N. Korean farmer's video player w BadUSB if that's what you're into)
+a_greenberg	697062009762947074	2016-02-09T14:18:28	Donate your old USB drives so they can be filled with movies and TV shows and smuggled into North Korea  via WIRED
+a_greenberg	696761336483573760	2016-02-08T18:23:42	nudehaberdasher 0xcharlie Congrats on the award, and let me know when you're ready for a revitalizing beer
+a_greenberg	696758157595443200	2016-02-08T18:11:04	chriseng 0xcharlie All credit to the clowns from Barcelona for this explanation-defying performance
+a_greenberg	696712463593644032	2016-02-08T15:09:30	I talked w/ JPBarlow for the 20th anniversary of his "Declaration of Independence of Cyberspace." He stands by it. 
+a_greenberg	696358285738385408	2016-02-07T15:42:07	SteveD3 Agreed, but at some point you might as well skip the beverage part and recommend amphetamines
+a_greenberg	695692832061923328	2016-02-05T19:37:51	joemfbrown Yeah except he buried the superior headline 
+a_greenberg	695669613284192257	2016-02-05T18:05:35	JZdziarski Maybe! Or he might experience mysterious runway delays until some dudes from Scotland Yard board the plane.
+a_greenberg	695665543848837122	2016-02-05T17:49:25	JZdziarski I think the UK would see through that pretty quickly. I preferred the diplomatic bag idea.
+a_greenberg	695664412808634368	2016-02-05T17:44:55	JZdziarski They apparently considered it, but worried that the UN general assembly could revoke the immunity: 
+a_greenberg	695257917235290114	2016-02-04T14:49:39	With New Documents, Snowden Chronicler Laura Poitras Reveals Her Own Life Under Surveillance 
+a_greenberg	695041459205070848	2016-02-04T00:29:31	Lines like this are how BarrettBrownLOL's prison diaries earned a national magazine award.  
+a_greenberg	695021115551436809	2016-02-03T23:08:41	fluffyponyza no
+a_greenberg	694995499267571712	2016-02-03T21:26:54	mweinberg2D elidourado in derwood's defense, I ran to him (after seeing his YouTube videos)
+a_greenberg	694901515983704064	2016-02-03T15:13:26	This is What a (Mostly) 3-D Printed Semi-Automatic Weapon Looks Like 
+a_greenberg	694256480913068034	2016-02-01T20:30:18	HowellONeill You mean Ulbricht's jury? Very weird that they didn't know about either of these extremely enterprising criminals.
+a_greenberg	694254310952009728	2016-02-01T20:21:41	HowellONeill Nice one...hadn't seen that from you.
+a_greenberg	694253307536216064	2016-02-01T20:17:41	Corrupt Silk Road Investigator Re-Arrested Trying to Flee US  Carl Force is no longer the craziest fed in this story.
+a_greenberg	694243179160289281	2016-02-01T19:37:26	If you care about video games/cancer/art/life/death, help bring my wife malikazw's new film (tyfpfilm) to theaters:
+a_greenberg	693880515150135296	2016-01-31T19:36:21	The Look of Silence, doc on Indonesia's 1965 genocide, deserves an Oscar if only for the risks it took. Its credits: 
+a_greenberg	693160778724163585	2016-01-29T19:56:22	Wired wants YOU to apply for this incredible features editing job:  (Actually we want markrobsf back but you'll do)
+a_greenberg	692816273554677760	2016-01-28T21:07:26	StocktonSays williamalden I'm very glad I don't either
+a_greenberg	692718230729666564	2016-01-28T14:37:50	NSA Hacker Chief Explains How to Keep Him Out of Your System  by KimZetter
+a_greenberg	692571267388542976	2016-01-28T04:53:52	Another excellent magazine profile of Laura Poitras, who deserves as many as there are magazines to write them: 
+a_greenberg	692417233734205440	2016-01-27T18:41:47	NYC Dept of Consumer Affairs subpoenaes baby monitor companies for answers on security vulnerabilities 
+a_greenberg	692092634400161792	2016-01-26T21:11:57	PJVogt Wearing it occasionally = 2, every day without exception = 10
+a_greenberg	691683103220305921	2016-01-25T18:04:37	TheBrockJohnson kashhill That ping pong ball shot :0 
+a_greenberg	691679607024717824	2016-01-25T17:50:43	kashhill Any idea if PD James ever wrote anything else that good?
+a_greenberg	691677771337199617	2016-01-25T17:43:26	kashhill The book is pretty incredible though, too...love them both.
+a_greenberg	691356738403049476	2016-01-24T20:27:45	lennypane kevination NutsTheFilm (bfd )
+a_greenberg	691352099767111680	2016-01-24T20:09:19	lennypane kevination NutsTheFilm that's nearly 12% of a David Bowie
+a_greenberg	691350726547763202	2016-01-24T20:03:52	lennypane kevination NutsTheFilm ybd!
+a_greenberg	691349485897846784	2016-01-24T19:58:56	ninthstreetesp any update ThreesBrewing? Trying to avoid an unnecessary snow trek
+a_greenberg	691336539062812673	2016-01-24T19:07:29	ninthstreetesp any update as to whether someone's opening the place at Threes?
+a_greenberg	691322505022324737	2016-01-24T18:11:44	ThreesBrewing ninthstreetesp thanks!
+a_greenberg	691298219410788353	2016-01-24T16:35:13	ThreesBrewing You guys open today? (The coffee shop at least?)
+a_greenberg	690239897429512193	2016-01-21T18:29:50	AdrianChen Whoa, congrats! Good hire NewYorker
+a_greenberg	689977472713134080	2016-01-21T01:07:03	The idea of spending money truly anonymously is really exciting. Or terrifying. I don't know, but I want to find out.
+a_greenberg	689856241691160577	2016-01-20T17:05:19	Zcash, the untraceable cryptocurrency originally known as Zerocoin, just launched in alpha for testing: 
+a_greenberg	688120028181311488	2016-01-15T22:06:14	Feds Prod Automakers to Play Nice With Hackers  (h/t adavies47!)
+a_greenberg	687748076644241410	2016-01-14T21:28:13	ggreenwald Oh right. Yes. Can't wait to read a book by him someday soon.
+a_greenberg	687747372101857280	2016-01-14T21:25:25	ggreenwald I have, hence the delight
+a_greenberg	687747010578018304	2016-01-14T21:23:59	Pretty surprised/delighted to see Barrett Brown nominated for a National Magazine Award for prison diaries he published at the_intercept
+a_greenberg	687703093820190721	2016-01-14T18:29:29	lorenzoFB 
+a_greenberg	687696004204871681	2016-01-14T18:01:18	Darknet counterfeit coupon king PurpleLotus gets 41 months prison:  My story on him from May: 
+a_greenberg	687647021742841856	2016-01-14T14:46:40	The Silk Road’s Dark-Web Dream Is Dead 
+a_greenberg	687488765292589056	2016-01-14T04:17:49	Free_Ross PolyParadyme I think it was chosen by an art director looking for an image to illustrate a story, not intending to demonize Ross
+a_greenberg	687484106591047681	2016-01-14T03:59:18	PolyParadyme Free_Ross No, I did not pick the picture.
+a_greenberg	687322621864767488	2016-01-13T17:17:37	kristovatlas Not a huge fan, but it's not meant to be literal representation of my story. (Yeah, Ulbricht didn't drink coffee/own a phone)
+a_greenberg	687303801032847360	2016-01-13T16:02:50	While you were watching the SOTU, the defense in the Silk Road case dropped a giant brief appealing for a new trial: 
+a_greenberg	687267710888198144	2016-01-13T13:39:25	RECAP doesn't work for appellate courts so this is roughly $30 of docs downloaded and shared from PACER. SilkRoad 
+a_greenberg	687102733804023808	2016-01-13T02:43:52	Ross Ulbricht’s Defense Focuses on Corrupt Feds In Silk Road Appeal 
+a_greenberg	686732102235205632	2016-01-12T02:11:06	
+a_greenberg	685955202499874816	2016-01-09T22:43:59	DennisF Send me a link so I can buy it?
+a_greenberg	685954327350001665	2016-01-09T22:40:30	DennisF sure thing, DMing you
+a_greenberg	685954257233784833	2016-01-09T22:40:13	OddLetters BiellaColeman nice, thanks!
+a_greenberg	685949524934799360	2016-01-09T22:21:25	DennisF oh yeah, plenty, thanks for asking: 
+a_greenberg	685938536525250560	2016-01-09T21:37:45	mattblaze thanks Matt!
+a_greenberg	685937726861000704	2016-01-09T21:34:32	bitstein much appreciated. :)
+a_greenberg	685936991985336320	2016-01-09T21:31:37	Sadbrag: packing up unsold copies of my 3-year old book when Philip Zimmermann spontaneously calls to say he finally read it and loved it
+a_greenberg	685568828399566851	2016-01-08T21:08:40	Hey JohnLegere I found a 1994 issue of Wired you might want to check out 
+a_greenberg	685543637816578048	2016-01-08T19:28:34	cwhe 🆗🆒
+a_greenberg	685542232053706755	2016-01-08T19:22:59	splinterknight Thanks! I'll definitely be checking out Project Syndicate.
+a_greenberg	685541992248537088	2016-01-08T19:22:02	(Now not behind a paywall, 👍. Thanks cwhe)
+a_greenberg	685540342721032192	2016-01-08T19:15:29	splinterknight Splinter!
+a_greenberg	685539447094509568	2016-01-08T19:11:55	0xcharlie WeldPond Hacker0x01 Looks like vehicle vulns are not the main focus, but not out of scope: 
+a_greenberg	685533830283792385	2016-01-08T18:49:36	a_greenberg Hacker0x01 nah, it's just an attempt to control the actions of researchers.
+a_greenberg	685529899273187328	2016-01-08T18:33:59	GM's partnership with Hacker0x01 is basically a bug bounty without a bounty, but it's progress.
+a_greenberg	685529425929179136	2016-01-08T18:32:06	oops, I mean, h/t thepacketrat
+a_greenberg	685529169422323712	2016-01-08T18:31:05	GM Asks Friendly Hackers to Report Its Cars’ Security Flaws  h/t seangallagher
+a_greenberg	685242289980047361	2016-01-07T23:31:07	dannyyadron (congrats on the move, btw!)
+a_greenberg	685242155326156800	2016-01-07T23:30:35	dannyyadron "disguised"? He's been hiding inside the whole time!?
+a_greenberg	685185047402516480	2016-01-07T19:43:40	ProPublica is the first major news site with a torproject hidden service:  
+a_greenberg	684870541895938048	2016-01-06T22:53:56	matthew_d_green runasand 
+a_greenberg	684794324954017792	2016-01-06T17:51:04	micahflee csoghoian I'd suggest it assumes goodwill from all nine nodes collectively, but not from any one individually
+a_greenberg	684791862272638976	2016-01-06T17:41:17	micahflee csoghoian Ha, fair point. But I'd suggest Tor nodes are both trusted (to a certain degree) and not trustworthy
+a_greenberg	684790488000495616	2016-01-06T17:35:49	micahflee csoghoian Not in Chaum's final plan...he's described them as "independent contractors."
+a_greenberg	684789207185887233	2016-01-06T17:30:44	kpoulsen After a morning of reading crypto folks lambasting this idea, I appreciate your pointing out that LE won't like it either.
+a_greenberg	684746528687276032	2016-01-06T14:41:09	For those who want more info on David Chaum's cMix/PrivaTegrity anonymity system, I've added his paper to our story: 
+a_greenberg	684737765741883396	2016-01-06T14:06:19	iblametom note the goal is to "end," not "win." (But yeah, yet to find a fan in the crypto world so far this morning.)
+a_greenberg	684736512353775616	2016-01-06T14:01:20	The Father of Online Anonymity Has a Plan to End the Crypto War 
+a_greenberg	684586113827090432	2016-01-06T04:03:43	Where is Stuxnet when you need it? 
+a_greenberg	684122651573489664	2016-01-04T21:22:05	jcase Anytime, next defcon the synthetic meal substitute fluid is on me
+a_greenberg	684117905433358336	2016-01-04T21:03:13	jcase Mostly now I want to buy some to keep their genius marketing guy employed
+a_greenberg	684116685033476096	2016-01-04T20:58:22	Casually browsing the Soylent website, actually considering buying some, now I can't stop laughing/vomiting 
+a_greenberg	684082598046490624	2016-01-04T18:42:55	KimZetter A certain carmaker I wrote about last summer req'd signup on a "press portal," 24h wait for approval to see a f-ing email address
+a_greenberg	684077045245194240	2016-01-04T18:20:51	RMac18 kittens, drones, and liquor...looks like a good start to the year
+a_greenberg	681559523224621056	2015-12-28T19:37:07	snackfight in 2016 a picture of me sucking at using a drill press will be the art on all my stories
+a_greenberg	680503286328340485	2015-12-25T21:40:01	Nice profile of Gary Alford, the IRS agent who signed DPR and Variety Jones criminal complaints SilkRoad 
+a_greenberg	679725228000415744	2015-12-23T18:08:17	NEW: NSA helped British spies find security holes in Juniper firewalls 
+a_greenberg	679640517643268096	2015-12-23T12:31:41	Judge Rules Kim Dotcom Can Be Extradited to US to Face Charges 
+a_greenberg	679196489193689088	2015-12-22T07:07:16	Researchers Solve Mystery of the Juniper Backdoor; Point Fingers at NSA - 
+a_greenberg	678580324213899264	2015-12-20T14:18:51	Deeply reported, disturbing piece on how France's "pre-crime" prosecutions fight and foster terrorism  (paywall, 👎)
+a_greenberg	677898106592194561	2015-12-18T17:07:58	Both House &amp; Senate have now passed the Omnibus bill w/ (even more surveillance friendly) version of CISA included. 
+a_greenberg	677587577881407488	2015-12-17T20:34:02	Six Men Admit to Running a Global $100M Software Piracy Ring 
+a_greenberg	677528120694595584	2015-12-17T16:37:46	The Greatest Hits of Samy Kamkar, YouTube’s Favorite Hacker 
+a_greenberg	676414877209141248	2015-12-14T14:54:08	DennisF WIRED No. [very long sigh] No, he is not.
+a_greenberg	676032831731179525	2015-12-13T13:36:01	david_glance BiellaColeman exiledsurfer yes, got it. I've admitted as much. We were debating intentions. Now I'm turning off Twitter.
+a_greenberg	676030318042836992	2015-12-13T13:26:02	BiellaColeman thank you Biella and you too, exiledsurfer, you both know I wouldn't be having this debate if I didn't respect your views.
+a_greenberg	676029759743262720	2015-12-13T13:23:49	BiellaColeman exiledsurfer Yep, we've been debating it for 2 hrs. I've explained my thinking, but I agree it's a tough call.
+a_greenberg	676025696809013252	2015-12-13T13:07:40	BiellaColeman exiledsurfer Yes, reporters are rewarded reputation for scoops, but not unethical ones, and any reporter considers that.
+a_greenberg	676022102068187136	2015-12-13T12:53:23	BiellaColeman exiledsurfer I don't get paid in clicks. My career is based on my rep, like yours. I debated the merits, not the $.
+a_greenberg	676020854912847872	2015-12-13T12:48:26	BiellaColeman exiledsurfer The philosophy of bitcoin doesn't change the fact that IDing someone w vast, secret wealth (power) is important
+a_greenberg	676019597083021312	2015-12-13T12:43:26	BiellaColeman exiledsurfer Right, he just controls enough actual bitcoins to be a powerful person.
+a_greenberg	676017855113109504	2015-12-13T12:36:31	exiledsurfer BiellaColeman You really don't think bitcoins can be difficult to trace?
+a_greenberg	676016818545426432	2015-12-13T12:32:23	exiledsurfer BiellaColeman Sure, but in the public interest to know.
+a_greenberg	676015790441676800	2015-12-13T12:28:18	exiledsurfer BiellaColeman Do you believe in climate change? Wright doesn't seem to. What if he had $435m to back that view?
+a_greenberg	676012954840637440	2015-12-13T12:17:02	exiledsurfer When a bunch of very convincing docs drop into your lap, you're forced to make a choice.
+a_greenberg	676012076310126592	2015-12-13T12:13:33	exiledsurfer Thanks, I appreciate the debate on this, and I know I'm biased as a reporter towards revealing info. It's not a simple thing.
+a_greenberg	676010951196459008	2015-12-13T12:09:05	exiledsurfer anarchodin True, but again that's the case for everyone with vast wealth, with every motivation in how they might use it.
+a_greenberg	676009221272506373	2015-12-13T12:02:12	exiledsurfer Yes, but what if the ones attached to his actual identity weren't?
+a_greenberg	676008543468847104	2015-12-13T11:59:31	exiledsurfer We wanted to be first, yes. I never had ambitions for a book deal, figured that would go to Satoshi's chosen biographer.
+a_greenberg	676005481786302465	2015-12-13T11:47:21	exiledsurfer Sure, but we know very little about Satoshi, and that makes more knowledge about him/her newsworthy.
+a_greenberg	676003062167805953	2015-12-13T11:37:44	exiledsurfer (We also pointed out in the story that Wright seemed to want to be identified as Satoshi, was dropping breadcrumbs for us.)
+a_greenberg	676002371122655232	2015-12-13T11:34:59	exiledsurfer Agreed that's a tough balance. But Satoshi isn't the world's only rich person with this problem.
+a_greenberg	676001088433209344	2015-12-13T11:29:53	exiledsurfer Money = potential power and influence in the hands of a person, and who that person is matters.
+a_greenberg	675998645691490304	2015-12-13T11:20:11	exiledsurfer I'd argue that IDing a secret, enormous fortune would be revelation of potential power and influence in the public interest

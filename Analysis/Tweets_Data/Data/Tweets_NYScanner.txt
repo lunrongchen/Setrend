@@ -1,0 +1,480 @@
+NYScanner	725767260720222209	2016-04-28T19:22:53	Manhattan: West 23 St &amp; 6th Ave, NYPD13pct calling a level 1 mobilization in regards to a robbery at knife point, Perp m/w 60 y/o fled.
+NYScanner	725764219849838596	2016-04-28T19:10:48	U/D Brooklyn: Doumnt Ave &amp; Pontauk Ave, 43 y/o female shot earlier today during a robbery, was  transported in serious condition.
+NYScanner	725741421504897026	2016-04-28T17:40:13	Brooklyn: Doumnt Ave and Montauk Ave Crime scene being established in regards to a female shot, ESU requested for Evidence search.
+NYScanner	725126204832006144	2016-04-27T00:55:34	Brooklyn: Box 0341 at 29 Lorimer St FDNY using all hands fire on the 1st floor of a 3 story Multiple dwelling. 
+NYScanner	724416070052941824	2016-04-25T01:53:44	Manhattan: Lexington Ave &amp; East 118 St Active Crime scene established in regards to a male shot, Aided transported by EMS.
+NYScanner	724415390848311298	2016-04-25T01:51:02	Brooklyn: *6th Alarm fire* Box 1784 at 268 Arlington Ave heavy fire in a private dwelling. 
+NYScanner	723652795967086593	2016-04-22T23:20:46	Brooklyn: 790 Eldert Lane, NYPD75pct calling a Level 1 in regards to 3 perps barricaded, numerous ESU responding.
+NYScanner	723368331936296967	2016-04-22T04:30:24	Manhattan: 860 Columbus Ave, NYPD24pct requesting Aviation &amp; ESU in regards to shots fired.
+NYScanner	723328352946393088	2016-04-22T01:51:32	Queens: 101 St &amp; 107 St Active Crime scene established in regards to a male shot, Aided in stable condition.
+NYScanner	723252770527162371	2016-04-21T20:51:12	Manhattan: 615 West 160 St, NYPD33Pct requesting ESU for Evidence search in regards to shots fired.
+NYScanner	723233404553203712	2016-04-21T19:34:15	Brooklyn: 940 Gates Ave, @NYPD81poct calling a Level 1 mobilization in regards to a male shot, ESU requested for evidence search.
+NYScanner	723166053786898432	2016-04-21T15:06:37	Manhattan: George Washington Bridge ESU &amp; NYPD harbor on scene with a jumper down from the bridge, Aided was pronounced DOA.
+NYScanner	723023151072980996	2016-04-21T05:38:46	Bronx: 700 Morris Ave Crime scene being established in regards to 2 males shot, both victims transported by EMS, 1 Aided in stable condition
+NYScanner	722941894397964288	2016-04-21T00:15:53	Brooklyn: *2 Alarm Fire* Box 2079 at 1116 Belmont Ave heavy fire in a private dwelling.
+NYScanner	722884817952514048	2016-04-20T20:29:05	U/D Brooklyn: 13 Ave &amp; 54 St 6y/o child struck by vehicle, child in serious condition NYPDhighway CIS investigating 
+NYScanner	722861087100649472	2016-04-20T18:54:47	Brooklyn: 13 Ave &amp; 54 St 6 y/o child struck &amp; pinned under a vehicle, Aided being transported in serious condition. 
+NYScanner	722790153366999041	2016-04-20T14:12:56	Brooklyn: Sterling Pl &amp; 6 Ave Pedestrian struck by truck, Aided was pronounced DOA, NYPDhighway CIS investigating. 
+NYScanner	722618296017752064	2016-04-20T02:50:02	Brooklyn: 895 Handcock St Crime scene being established in regards to a male shot, Aided in serious condition.
+NYScanner	722611967064698880	2016-04-20T02:24:53	Brooklyn: *3 alarm Fire* Box 931 at 257 Handcock St heavy fire on the 4th floor of a 4 story private dwelling.
+NYScanner	722532166824013825	2016-04-19T21:07:47	U/D Brooklyn: 177 Sand St, NYPD84pct &amp; ESU have a Perp in custody in regards to the shooting by Police. 
+NYScanner	722518160465928193	2016-04-19T20:12:07	Brooklyn: 233 Sand Street NYPD84pct calling a level 1 mobilization in regards to shots fired By Police, K-9 &amp; ESU requested.
+NYScanner	722474210891808768	2016-04-19T17:17:29	Manhattan: 315 East 9 St NYPD9pct calling a level 1 mobilization in regards to armed robbery of a commercial, Perp fled.
+NYScanner	722437676180381696	2016-04-19T14:52:18	Queens: *2 Alarm Fire* Box 7008 at 59-36-48 Ave heavy fire in a private dwelling.
+NYScanner	722219989932093442	2016-04-19T00:27:18	Brooklyn: *2 Alarm fire* Box 3082 at Coleman St &amp; Ave P heavy fire in a private dwelling. 
+NYScanner	722197842966745088	2016-04-18T22:59:18	Brooklyn: *2 Alarm fire* Box 203 Fenimore St heavy fire on the 2nd floor of a private dwelling, 1 fire victim was pronounced DOA.
+NYScanner	721584493992230912	2016-04-17T06:22:04	Manhattan: East 124 St &amp; 1st Ave Crime scene being established in regards to a male shot in head, Aided in serious condition.
+NYScanner	721579024452096000	2016-04-17T06:00:20	Queens: 116 St &amp; 135 St Active Crime scene established in regards to a police involved shooting, Perp shot by police.
+NYScanner	721546227557535744	2016-04-17T03:50:00	U/D Brooklyn: 1803 Fulton St Active Crime scene established in regards to 2 people shot, both victims transported by EMS.
+NYScanner	721544442956660738	2016-04-17T03:42:55	Brooklyn: 1803 Felton St NYPD81pct calling a level 1 mobilization in regards to a person shot, ESU requested for evidence search.
+NYScanner	721531568116862976	2016-04-17T02:51:45	Queens: 94 St &amp; Astoria Blvd, NYPD115pct &amp; ESU has a Perp in custody in regards to shots fired, firearm recovered.
+NYScanner	721070764263411712	2016-04-15T20:20:41	Queens: Caronaga Ave &amp; Beach 20 St Crime scene being established in regards to a male shot, Aided being transported in stable condition.
+NYScanner	721056831653732352	2016-04-15T19:25:19	U/D Brooklyn: Lexington Ave &amp; Classon Ave 34 year old  female struck earlier this morning by a car, was pronounced dead at the hospital.
+NYScanner	721011808249753600	2016-04-15T16:26:25	Manhattan: 400 East 30 St, NYPD13pct investigating after 56 y/o male found dead with a few laceration to his neck, Active Crime scene.
+NYScanner	720994695690764288	2016-04-15T15:18:25	Queens: JFK airport PAPD &amp; ESU on scene reporting a suspicious package at the location, Bomb Squad requested.
+NYScanner	720977070260690944	2016-04-15T14:08:23	Brooklyn: Classon Ave &amp; Lexington Ave biker struck by vehicle in serious condition, @NYPYPDHighway CIS investigating 
+NYScanner	720762245811171328	2016-04-14T23:54:45	Manhattan: 213 West 115 St Active Crime scene established in regards to 2 males shot, ESU requested for Evidence search.
+NYScanner	720724482927783936	2016-04-14T21:24:41	NYC: Tonight at 9pm is the Democratic  presidential debate between Hillary Clinton and Bernie Sanders at the Brooklyn Navy Yard.
+NYScanner	720421103882084352	2016-04-14T01:19:10	Bronx: East 229 St &amp; Laconia Ave, NYPD47pct reporting shots fired, ESU requested for Evidence search, perp m/b age 19-20 fled.
+NYScanner	720348860120461313	2016-04-13T20:32:06	U/D Bronx: *3rd Alarm Fire* Box 2523 at 209 East 165 St heavy fire in a 6 story multiple dwelling. 
+NYScanner	720339938227531777	2016-04-13T19:56:39	Bronx: *2 Alarm Fire* Box 2523 at 209 East 165 St heavy fire in a 6 story multiple dwelling.
+NYScanner	720078760477900801	2016-04-13T02:38:49	Manhattan: Lexington Ave &amp; E128 St, NYPD25pct calling a Level 1 mobilization in regards to shots fired, ESU requested for Evidence search.
+NYScanner	719987713668214784	2016-04-12T20:37:02	Brooklyn: 395 South 2 St Active Crime scene established in regards to a male shot, Perp in custody. 
+NYScanner	719561408392904704	2016-04-11T16:23:03	Queens: 73-60 Grand Ave, female struck by a mini school bus, Aided transported in serious condition, NYPDhighway CIS investigating.
+NYScanner	719544684629123072	2016-04-11T15:16:35	Brooklyn. 13th Ave &amp; 44 St Almost $300,000 Stolen From HSBC Bank Branch in Borough Park …
+NYScanner	719360756236578823	2016-04-11T03:05:44	Manhattan: East 124 St &amp; Lexington Ave, NYPD25pct calling a Level 1 in regards to shots fired, ESU requested for Evidence search.
+NYScanner	719163436232531968	2016-04-10T14:01:39	Manhattan: *2 Alarm Fire* Box 1558 at West 136 St &amp; Broadway heavy fire in a 6 story multiple dwelling.
+NYScanner	719040951277240320	2016-04-10T05:54:56	Brooklyn: 22 Graham Ave NYPD90pct Calling a Level 1 mobilization in regards to armed robbery at gunpoint, perp m/b took 200 in cash &amp; fled.
+NYScanner	718479242393231362	2016-04-08T16:42:54	Brooklyn: 13 Ave &amp; Ovington St NYPD has 2 perps in regards to an officer assaulted, perps wanted for a robbery, 1 perp fled.
+NYScanner	717943980667744256	2016-04-07T05:15:58	Queens: 21 St &amp; Rd Pedestrian struck by hit &amp; run driver, Aided in serious condition, NYPDhighway CIS investigating 
+NYScanner	717859349331382273	2016-04-06T23:39:40	Brooklyn: East 95 St &amp; Winthrop St Crime scene being established in regards to a male shot, ESU requested for Evidence search.
+NYScanner	717572113595572224	2016-04-06T04:38:18	Brooklyn: 200 Wallabout St FDNY on scene with a fully involved car fire no injuries 
+NYScanner	717450277218033664	2016-04-05T20:34:10	Brooklyn: Bushwick Ave and Montrose Ave FDNY on scene reporting a person struck by a train, power off requested.
+NYScanner	717186697172279300	2016-04-05T03:06:47	Brooklyn: 882 Dumont Ave Crime scene being established in regards to a male shot in the leg, Aided in Stable Condition.
+NYScanner	717055152524492800	2016-04-04T18:24:05	Brooklyn: East 31 St &amp; Snyder St Crime scene being established in regards to 2 Ppl shot, Both victims being transported in Stable Condition.
+NYScanner	716999495909818370	2016-04-04T14:42:55	VickiChoiTV yes with credit
+NYScanner	716998323018854400	2016-04-04T14:38:16	U/D Brooklyn: 4th Ave &amp; 22 St, driver that fled on foot carjacked a victim &amp; then struck him with his own vehicle. 
+NYScanner	716991710396563457	2016-04-04T14:11:59	Brooklyn: 4th Ave &amp; 22 St Pedestrian struck &amp; killed by a vehicle, driver fled on foot,  NYPDhighway CIS investigating.
+NYScanner	716900996321058816	2016-04-04T08:11:31	U/D Brooklyn: *5 Alarm Fire* Box 1569 at 640 Parkside Ave heavy fire in a 1 story commercial. 
+NYScanner	716845813524262913	2016-04-04T04:32:14	U/D Brooklyn: *3rd Alarm Fire* Box 1569 at 640 Parkside Ave heavy fire in a 1 story commercial.
+NYScanner	716840320999227393	2016-04-04T04:10:25	U/D Brooklyn: *2 Alarm Fire* Box 1569 at 640 Parkside Ave heavy fire in a 1 story commercial, Main body k/d. NYC911 
+NYScanner	716825149610278912	2016-04-04T03:10:08	Brooklyn: *2 Alarm Fire* Box 1569 at 640 Parkside Ave heavy fire in a 1 story commercial.
+NYScanner	716740903478640640	2016-04-03T21:35:22	U/D Queens: *4th Alarm Fire* Box 7183 at 38-72 13 St heavy fire in a 1 story commercial.
+NYScanner	716719789742358528	2016-04-03T20:11:28	U/D Queens: *3rd Alarm Fire* Box 7183 at 38-72 13 St heavy fire in a 1 story commercial.
+NYScanner	716719039624691712	2016-04-03T20:08:29	Brooklyn: BQE West bound at Lee Ave FDNY on scene with an overturned vehicle. 
+NYScanner	716716244964126720	2016-04-03T19:57:23	Queens: *2 Alarm Fire* Box 7183 at 38-72 13 St heavy fire in a commercial.
+NYScanner	716520312725176322	2016-04-03T06:58:49	Bronx: 1162 Cromwell Ave, NYPD44pct calling a level 1 mobilization in regards to a male shot, ESU requested for Evidence Search.
+NYScanner	716431909086240768	2016-04-03T01:07:32	Manhattan: 7th Ave &amp; 46th St Bomb Squad giving all clear at Times Square after a suspicious truck.
+NYScanner	715958290254004225	2016-04-01T17:45:32	Brooklyn: 556 Flushing Ave, NYPD79pct reporting shots fired, requesting a hospital canvas for a possible male shot.
+NYScanner	715875662494498816	2016-04-01T12:17:12	Queens: LIE at the Clearview Expy FDNY on scene reporting a MVA with multiple people pinned in the vehicle Hurst tool in operation.
+NYScanner	715755598760001536	2016-04-01T04:20:07	Brooklyn: Flatbush Ave &amp; East 38 St Crime scene being established in regards to a person shot, ESU requested for Evidence search.
+NYScanner	715753666502856704	2016-04-01T04:12:26	Bronx: 1441 Webster Ave, Crime scene being established in regards to a person shot, Aided in Stable Condition.
+NYScanner	715748419835396096	2016-04-01T03:51:35	Brooklyn: 224 Schenectady Avenue, Crime scene being established in regards to a male shot to the leg, Aided in Stable Condition.
+NYScanner	715651621498302464	2016-03-31T21:26:57	Manhattan: 65 Broadway NYPD1pct calling a level 1 mobilization in regards to a person Slashed, Perp fled.
+NYScanner	715585417555415040	2016-03-31T17:03:53	Manhattan: 7th Ave &amp; West 23 St Pedestrian struck &amp; Pinned by a train, Aided in serious condition. 
+NYScanner	715385318753640448	2016-03-31T03:48:45	Manhattan: 501 West 134 Amsterdam &amp; Broadway, NYPD30pct calling a level 1 in regards to a person shot, ESU requested for Evidence search.
+NYScanner	715288487465918465	2016-03-30T21:23:59	Bronx: East 165 St &amp; Union Ave Pedestrian Struck by a Vehicle, Aided transported in serious condition, NYPDhighway CIS investigating.
+NYScanner	715277199398604802	2016-03-30T20:39:08	Bronx: 2962 Jerome Avenue, NYPD52pct calling a Level 1 mobilization in regards to armed robbery of a Metro PCS store, Perp fled.
+NYScanner	715032735941791744	2016-03-30T04:27:43	U/D Brooklyn: *6th Alarm Fire* Box 0746 at 1427 Dekalb Ave heavy fire in multiple dwellings of 4 building's. 
+NYScanner	715015629812707329	2016-03-30T03:19:45	U/D Brooklyn: *5h Alarm Fire* Box 0746 at 1427 Dekalb Ave heavy fire in multiple dwellings of 3 building's, 2 fire victims removed.
+NYScanner	715007741669015555	2016-03-30T02:48:24	U/D Brooklyn: *4th Alarm Fire* Box 0746 at 1427 Dekalb Ave heavy fire in multiple dwellings of 3 building's. 
+NYScanner	715004767769071616	2016-03-30T02:36:35	RobbieBSosa Yes with credit.
+NYScanner	715003196545097729	2016-03-30T02:30:20	U/D Brooklyn: *3rdAlarm Fire* Box 0746 at 1427 Dekalb Ave heavy fire on the 1st floor of a 3 story multiple dwelling 
+NYScanner	715001023564288000	2016-03-30T02:21:42	U/D Brooklyn: *3rd Alarm Fire* Box 0746 at 1427 Dekalb Ave heavy fire on of 3 building's.
+NYScanner	714998784065937409	2016-03-30T02:12:48	Brooklyn: *2 Alarm Fire* Box 0746 at 1427 Dekalb Ave heavy fire on the 1st floor of a 3 story multiple dwelling.
+NYScanner	714819013780619264	2016-03-29T14:18:28	Manhattan: East Broadway &amp; Rutgers St Pedestrian struck by a train, Aided was pronounced DOA on scene.
+NYScanner	714677673746948096	2016-03-29T04:56:50	Manhattan: 2185 2nd Ave Crime scene being established in regards to a male shot, Aided being transported in Stable Condition.
+NYScanner	714655271558242304	2016-03-29T03:27:49	U/D Brooklyn: *2 Alarm Fire* Box 125 at 232 Metropolitan Ave 1 fire victim being removed with CPR in progress. 
+NYScanner	714652828254486528	2016-03-29T03:18:06	U/D Brooklyn: *2 Alarm Fire* Box 125 at 232 Metropolitan Ave fire in a 6 story md, 1 fire victim removed. 
+NYScanner	714646939514638336	2016-03-29T02:54:42	U/D Brooklyn: *2 Alarm Fire* Box 125 at 232 Metropolitan Ave heavy fire of a 6 story multiple dwelling, reports of people trapped.
+NYScanner	714646125546967041	2016-03-29T02:51:28	Brooklyn: Box 125 at 232 Metropolitan Ave FDNY using all hands fire on the 1st floor of a 6 story multiple dwelling.
+NYScanner	714514346676719616	2016-03-28T18:07:49	U/D Brooklyn: 3 Pulaski St Active Crime scene established in regards to a male shot in the head, Aided in serious. 
+NYScanner	714505388025110528	2016-03-28T17:32:14	Brooklyn: 3 Pulaski St crime scene being established in regards to a male shot, Aided in serious condition.
+NYScanner	714446093229170689	2016-03-28T13:36:37	Brooklyn: BQE East bound at Flushing Ave overturned truck - Expect heavy delays. 
+NYScanner	714263397815230464	2016-03-28T01:30:39	U/D Brooklyn: Mermaid Ave &amp; West 25 St NYPD60pct calling A level 1 in regards to shots fired, 2 m/b wearing black sweaters fled.
+NYScanner	714256991212797956	2016-03-28T01:05:11	NYPD20Pct Thanks!
+NYScanner	714207284428025856	2016-03-27T21:47:40	Manhattan: 105 West 77 St &amp; Columbus, NYPD20pct calling a Level 1 mobilization in regards to a home invasion, Perp fled.
+NYScanner	714154857263992832	2016-03-27T18:19:20	U/D Brooklyn: 88 St &amp; Shore Road NYPD68pct &amp; ESU Advising the EDP is now in police custody.
+NYScanner	714145293802074112	2016-03-27T17:41:20	U/D Brooklyn: 88 St &amp; Shore Road NYPD68pct &amp; ESU requesting HNT for the EDP that is on the rocks &amp; wants to jump.
+NYScanner	714141580903452672	2016-03-27T17:26:35	Brooklyn: Shore Road &amp; 80 St NYPD68pct requesting ESU and Aviation in regards to a Perp search.
+NYScanner	714134535403864064	2016-03-27T16:58:35	U/D Manhattan: Essex St &amp; Delancey St NYPD7pct &amp; ESU advising all clear has been given for the suspicious package.
+NYScanner	714130567202209792	2016-03-27T16:42:49	Manhattan: 6th Street &amp; Delancey Street NYPD7pct Requesting ESU for a suspicious package near the train station.
+NYScanner	713967506487119872	2016-03-27T05:54:53	Manhatten: West 180 St &amp; Audubon Ave Crime scene being established in regards to a person stabbed, Aided being transported by EMS.
+NYScanner	713922129281085440	2016-03-27T02:54:34	Brooklyn: 336 Blake Ave Crime scene being established in regards to a male shot in the head &amp; back, Aided Stable condition.
+NYScanner	713901699732254720	2016-03-27T01:33:23	Bronx: Boston Ave and Allerton Ave , car into a store Aided transported by EMS in serious condition, NYPDhighway CIS requested.
+NYScanner	713485376216764416	2016-03-25T21:59:04	Manhattan: 3rd Ave &amp; East 112 St Active Crime scene established in regards to a teen boy shot, Aided in serious condition.
+NYScanner	713131998047576066	2016-03-24T22:34:52	Staten Island: 14 Roxbury St Active Crime scene established in regards to 3 people shot, 2 victims transported in serious condition.
+NYScanner	712723608146206720	2016-03-23T19:32:04	Brooklyn: 58 St &amp; 8th Ave Pedestrian struck by EMS, Aided in serious condition, @NYHPDhighway CIS investigating.
+NYScanner	712713422807375872	2016-03-23T18:51:36	Manhattan: Box 1599 at 212 West 141 St FDNY using all hands for a boiler explosion in the basement.
+NYScanner	712690252087959554	2016-03-23T17:19:31	Brooklyn: *2 Alarm Fire* Box 2487 at 474 Stratford Road heavy fire in a 3 story private dwelling. 
+NYScanner	712672218505936896	2016-03-23T16:07:52	Queens: Rockway Trunpike at the Van Wyck Expwy West bound FDNY on scene with an overturned truck. 
+NYScanner	712348598483165184	2016-03-22T18:41:55	Manhattan: Box 8794 at 105 East 42 St FDNY using all hands fire at the grand Central Station.
+NYScanner	712343990482444289	2016-03-22T18:23:36	U/D Bronx: East 179 St &amp; Honeywell Ave NYPD48pct requesting now ESU for the evidence search in regards to shots fired.
+NYScanner	712340514893373441	2016-03-22T18:09:48	Bronx: East 179 St &amp; Honeywell Ave NYPD48pct reporting shots fired, PD requesting a hospital canvas for a possible shot victim.
+NYScanner	712115735250800640	2016-03-22T03:16:36	Queens: *2 Alarm Fire* box 7959 at 42-24 Ithaca St heavy fire throughout a private dwelling, 3 fire victims removed.
+NYScanner	712022449991368705	2016-03-21T21:05:55	Manhattan: East 34 St &amp; FDR Drive FDNY on scene with an MVA involving a City bus, multiple EMS busses requested.
+NYScanner	712018770873753600	2016-03-21T20:51:18	Manhattan: George Washington Bridge ESU &amp; NYPD Harbor on scene with a jumper down from the bridge.
+NYScanner	711974919899385856	2016-03-21T17:57:03	Brooklyn: Linden Blvd &amp; Bedford NYPD vehicle involved in a MVA no serious injuries reported. 
+NYScanner	711964240236711936	2016-03-21T17:14:37	Brooklyn: 282 East 35 St NYPD67pct requesting K-9 &amp; Aviation to assist in the Perp search Perp wanted for shots fired.
+NYScanner	711761943896465408	2016-03-21T03:50:45	Brooklyn: 233 South 4 St NYPD90pct reporting armed robbery at gunpoint of a smoke shop, 2 Perp m/h fled with cash.
+NYScanner	711759030201491456	2016-03-21T03:39:11	Queens: Grand Central Parkway at 94 St Pedestrian struck by a vehicle, Aided in serious condition, NYPDhighway CIS investigating.
+NYScanner	711726903678406656	2016-03-21T01:31:31	Brooklyn: Bay Ridge at Pier 69 ESU &amp; NYPD Harbor o/s with a female into the water, Aided removed &amp; being treated by EMS conscious &amp; Alert.
+NYScanner	711599262119960576	2016-03-20T17:04:19	Heartless Man who stole Chai Lifeline Charity Box in Brooklyn Identified. -  
+NYScanner	711373283820740608	2016-03-20T02:06:22	Brooklyn: East 14 St &amp; Gravesend Road NYPDhighway CIS requested in regards to a car into a store, driver transported in serious condition.
+NYScanner	710893520790360064	2016-03-18T18:19:57	Manhattan: West 138 St &amp; Broadway NYPD30pct requesting ESU for Evidence search in regards to a shooting.
+NYScanner	710852365088374784	2016-03-18T15:36:25	Brooklyn: East 88 St &amp; Ave L Crime scene being established in regards to a male shot, Aided being transported by EMS.
+NYScanner	710617587265245184	2016-03-18T00:03:30	Queens: JFK Airport AA Flight 4233 from Raleigh Durham to LGA made an emergency landing after plane hit turbulence &amp; was struck by lightning
+NYScanner	710545429671370753	2016-03-17T19:16:46	Bronx: Rosedale Ave &amp; Story Ave Crime scene being established in regards to a male shot, Aided being transported in serious condition.
+NYScanner	710522903863947264	2016-03-17T17:47:15	Queens: Hoover Ave &amp; 135 St NYPD107pct calling a level 1 mobilization in regards to armed robbery, 2 perps that fled.
+NYScanner	710505306229497856	2016-03-17T16:37:20	Brooklyn: Quentin Road &amp; Coney island Ave Hatzolah EMS on scene with an overturned vehicle no serious injuries. 
+NYScanner	710340893706985472	2016-03-17T05:44:01	Manhattan: Washington St &amp; Christopher St ESU &amp; NYPD Harbor on scene with a dead body in the water, body removal in progress.
+NYScanner	710297440910483456	2016-03-17T02:51:21	U/D Manhattan: Lenox Ave &amp; West 110 St Active crime scene established in regards to a male stabbed, Aided was pronounced dead at hospital.
+NYScanner	710281385332887552	2016-03-17T01:47:33	Manhattan: Lenox Ave &amp; West 110 St Active crime scene established in regards to a male stabbed, Aided in serious condition.
+NYScanner	710140057924014080	2016-03-16T16:25:58	Brooklyn: Flushing Ave &amp; Williamsbrug St FDNY and ESU on scene with an overturned vehicle no injuries. 
+NYScanner	710128309254942721	2016-03-16T15:39:17	Manhattan: 2 Park Ave NYPD reporting attempted Bank Robbery Perp m/h fled the scene no note was passed.
+NYScanner	710125404678451201	2016-03-16T15:27:44	Manhattan: West 135 St &amp; 12th Ave ESU &amp; NYPD Harbor on scene with a dead body floating in the water, body removal in progress.
+NYScanner	709871631846543360	2016-03-15T22:39:20	Brooklyn: 49th St &amp; 6th Ave crime scene being established in regards to a male stabbed, aided being transported in Stable condition.
+NYScanner	709862536296984576	2016-03-15T22:03:11	Brooklyn: North 4 St &amp; Kent Ave NYPD94pct has 2 perps in custody in regards to armed robbery at gunpoint. 
+NYScanner	709779517414490113	2016-03-15T16:33:18	Queens: JFK Airport, NYPD and Bomb Squad on scene investigating a Suspicious package at building 263.
+NYScanner	709756328596606976	2016-03-15T15:01:10	Manhattan: George Washington Bridge NYPD Harbor on scene with a dead body floating in the water, Body removal in progress.
+NYScanner	709753877957103616	2016-03-15T14:51:25	Manhattan: 235 1st St NYPD &amp; ESU on scene with a Bomb a threat at the location, Bomb squad requested in regards.
+NYScanner	709547361639464960	2016-03-15T01:10:48	Bronx: 3480 3rd Ave Crime scene being established in regards to 2 people shot, both victims being transported by EMS.
+NYScanner	709217169117224960	2016-03-14T03:18:44	Queens: 102-48 148 St Crime scene being established in regards to 2 males shot, ESU requested for Evidence search.
+NYScanner	709021489144664064	2016-03-13T14:21:10	Queens: *3 Alarm Fire* Box 4404 at 141-14 Laburnum Ave heavy fire on the 1st and 2nd floor of a private dwelling.
+NYScanner	708962723548233728	2016-03-13T10:27:39	U/D Brooklyn: *3 Alarm Fire* Box 1611 at 1539 East New York Ave heavy fire on the 1st floor of a mixed Occupancy
+NYScanner	708956346775949313	2016-03-13T10:02:19	Brooklyn: *2 Alarm Fire* Box 1611 at 1539 East New York Ave heavy fire on the 1st floor of a mixed Occupancy
+NYScanner	708910203358593024	2016-03-13T06:58:58	Queens: Gates Ave &amp; Fairview Ave crime scene being established in regards to 2 people shot, EMS requested on a rush.
+NYScanner	708712030358745088	2016-03-12T17:51:29	AMBER ALERT: PD looking for 7 y/o was last seen in a white 2015 Ford Transit cargo van with Connecticut plates, plate number is C040379.
+NYScanner	707979151567949826	2016-03-10T17:19:18	Queens: *2 Alarm Fire* Box 7455 at 30-87 23 St heavy fire in the Rear shed in a private dwelling.
+NYScanner	707862028770082817	2016-03-10T09:33:53	Staten Island: *2 Alarm fire* Box1019 at75 Cedar Terrace heavy fire on the 2nd floor in a private dwelling.
+NYScanner	707377784201617408	2016-03-09T01:29:40	Manhattan: West 25 St &amp; 9th Ave crime scene being established in regards to male shot, Aided being transported in Stable condition.
+NYScanner	707347256890892288	2016-03-08T23:28:22	U/D Brooklyn: Troutman St &amp; Wilson Ave NYPD83pct calling a Level 1 mobilization in regards to an NYPD officer shot, perp in custody.
+NYScanner	707346844502794240	2016-03-08T23:26:44	Brooklyn: Troutman St &amp; Wilson Ave Crime scene being established in regards to NYPD officer shot, officer in Stable condition.
+NYScanner	706620085948063745	2016-03-06T23:18:51	U/D Queens: 38-18 Astoria Blvd NYPD shot &amp; seriously a perp wanted for pushing a 17 y/o girl  and stabbing a person.
+NYScanner	706585044622643200	2016-03-06T20:59:37	U/D Queens: 38-18 Astoria Blvd NYPD114pct calling a Level 2 mobilization in regards to the stabbing, Aided in serious condition.
+NYScanner	706572876057542656	2016-03-06T20:11:15	Queens: Steinway St &amp; Astoria Blvd NYPD114pct calling a level 1 mobilization in regards to a male stabbed, Aided transported by EMS.
+NYScanner	706480665877987329	2016-03-06T14:04:51	Queens: PD Looking for a male in 20's Aprox 5'5 wearing a black jacket white T-shirt wanted for pushing a 17 y/o girl onto the Train tracks.
+NYScanner	706465082377691138	2016-03-06T13:02:55	Bronx: Jerome Ave and Mosholu Parkway Pedestrian struck &amp; Pinned by a train, Aided was pronounced DOA.
+NYScanner	706396024928137216	2016-03-06T08:28:31	Brooklyn: *2 Alarm Fire* Box 2442 at 2179 Carendon road heavy fire in a 1 Story multiple dwelling.
+NYScanner	706395523100614656	2016-03-06T08:26:31	Queens: 38 St &amp; 33 Ave NYPD114pct &amp; ESU on scene with an MVA with a person pinned inside the vehicle.
+NYScanner	706388575059886080	2016-03-06T07:58:55	Manhattan: West 19 St &amp; Broadway NYPD34pct reporting armed robbery at gunpoint by a m/h that fled.
+NYScanner	706367366087753728	2016-03-06T06:34:38	U/D Brooklyn: *3rd Alarm fire* Box 1832 at 1155 Blake Ave heavy fire in the chilling of a commercial.
+NYScanner	706356643659964416	2016-03-06T05:52:01	Brooklyn: *2 Alarm fire* Box 1832 at 1155 Blake Ave heavy fire in the chilling of a commercial.
+NYScanner	705562148278312961	2016-03-04T01:14:59	Bronx: East Gun Hill Road and Bronxwood Ave Pedestrian struck by a vehicle, aided in serious condition, NYPDHighway CIS Investigating.
+NYScanner	705517001029058560	2016-03-03T22:15:35	Manhattan: East 112 St &amp; 3Rd Ave NYPD23pct on scene reporting shots fired, ESU requested for Evidence search.
+NYScanner	705260131567669249	2016-03-03T05:14:53	NYC: Police investigating after a small device exploded under a car with 2 people inside earlier tonight in the Bronx.
+NYScanner	705182995943182336	2016-03-03T00:08:22	U/D Queens: 85-10 Jamaica Ave Active Crime scene established in regards to a male stabbed in the neck, PD looking for 12 perps that fled.
+NYScanner	705181673227419650	2016-03-03T00:03:07	Queens: 85-10 Jamaica Ave NYPD102pct calling a level 1 mobilization in regards to a male stabbed, Aided transported by EMS.
+NYScanner	705164369961865216	2016-03-02T22:54:21	U/D Brooklyn: 85 St &amp; 25th Ave 70 y/o male seriously injured after being struck by a hit &amp; run driver while riding a motorized scooter.
+NYScanner	705162503957962754	2016-03-02T22:46:56	Brooklyn: 85 St &amp; 25 Ave Elderly male seriously injured by  hit&amp;run driver, NYPDhighway CIS investigating MaiAndy 
+NYScanner	705118879698149376	2016-03-02T19:53:36	Brooklyn: Troy Ave &amp; Dean St crime scene being established in regards to a male shot in front of a school, Aided in Stable condition.
+NYScanner	704902279351169026	2016-03-02T05:32:54	Manhattan: Broadway &amp; East 14 St Pedestrian struck &amp; Pinned by a train, Aided was pronounced DOA on scene.
+NYScanner	704802677209833472	2016-03-01T22:57:07	Manhattan: 8th Ave &amp; West 31 St NYPD ESU on scene in Penn Station of a suspicious package, Bomb Squad on scene.
+NYScanner	704790350280392708	2016-03-01T22:08:08	Brooklyn: *2 Alarm Fire* Box1848 at 3301 Fulton Street heavy fire on the 3rd floor of a story.
+NYScanner	704695416781213696	2016-03-01T15:50:54	U/D Manhattan: 111 East 35 St, Person down an Elevator Shaft, aided has been removed &amp; transported to Bellevue hospital in Stable condition.
+NYScanner	704691955813453824	2016-03-01T15:37:09	Manhattan: 111 East 35 St FDNY on scene reporting a person down an Elevator shaft.
+NYScanner	704472453519687680	2016-03-01T01:04:56	Manhattan: East 1117 St &amp; Pleasant Ave NYPD25pct calling a Level 1 mobilization in regards to a demonstration at the East River plaza Mall.
+NYScanner	704456686652809216	2016-03-01T00:02:16	U/D Manhattan: 400 Manhattan Ave Active Crime scene established in regards to a male stabbed, Aided was pronounced DOA.
+NYScanner	704449701827973122	2016-02-29T23:34:31	Manhattan: 400 Manhattan Ave NYPD28pct calling a Level 1 mobilization in regards to a male stabbed, aided transported by EMS.
+NYScanner	704436446795603969	2016-02-29T22:41:51	Brooklyn: Box 3703 at 834 McDonald Ave FDNY using all hands fire in a 1 story commercial. 
+NYScanner	704384824442757120	2016-02-29T19:16:43	Bronx: 681 Magenta Ave NYPD47pct calling a Level 1 mobilization in regards to armed robbery at gunpoint, perp 2 m/b fled.
+NYScanner	704384486448996352	2016-02-29T19:15:23	Brooklyn: 19th Ave and 70 St NYPD62pct &amp; ESU on scene with a jumper down, Aided being transported by EMS.
+NYScanner	704346945259769856	2016-02-29T16:46:12	U/D Manhattan: East 36 St &amp; Madison Ave 77 y/o female struck by a overturned livery cab was pronounced DOA at Bellevue hospital.
+NYScanner	704319343186808833	2016-02-29T14:56:31	U/D Manhattan: East 36 St &amp; Madison Driver seriously injured after his vehicle overturned &amp; Pinned, NYPDhighway CIS investigating.
+NYScanner	704306789643329536	2016-02-29T14:06:38	Queens: *2 Alarm Fire* Box 5088 at 177-08. Troutville Road heavy fire on the 1st floor of a 2 story private dwelling.
+NYScanner	704305358546804736	2016-02-29T14:00:57	Brooklyn: 957 Utica Ave NYPD67pct calling Level 1 mobilization in regards to a male shot, Aided is conscious &amp; being transported by EMS.
+NYScanner	704303325936807936	2016-02-29T13:52:52	Manhattan: Madison Ave &amp; East 36 St Pedestrian Struck by a vehicle, Aided transported in serious condition, NYPDhighway CIS requested.
+NYScanner	704183288894775296	2016-02-29T05:55:53	Bronx: Mcgraw Ave &amp; Unionport Road Pedestrian struck by a vehicle, Aided was pronounced DOA at Jacobi hospital, NYPDHighway CIS requested.
+NYScanner	704176094782603265	2016-02-29T05:27:18	Brooklyn: East 51 St &amp; Beverly Road Crime scene being established in regards to a male shot, Aided in Stable condition.
+NYScanner	704121405156270080	2016-02-29T01:49:59	Bronx: East 175 St and Walton Ave, NYPD46pct reporting armed robbery at gunpoint by 3 m/h that fled.
+NYScanner	704116357860872192	2016-02-29T01:29:56	Bronx: 184 St &amp; Morris Ave NYPD46pct calling a Level 1 mobilization in regards to a male shot, Aided in Stable condition.
+NYScanner	703858830304628736	2016-02-28T08:26:36	Queens: Guy R Brewer Blvd &amp; 118 Rd Pedestrian struck by a hit &amp; Run driver, Aided in serious condition, NYPDhighway CIS investigating
+NYScanner	703851754987737088	2016-02-28T07:58:29	Manhattan: Broadway &amp; Prince St FDNY reporting a Pedestrian struck by a train, Power off requested.
+NYScanner	703840858034941953	2016-02-28T07:15:11	U/D Bronx: Cross Bronx Expy at Webster Ave Pedestrian struck by hit&amp; run driver, Aided in serious condition, NYPDhighway CIS investigating
+NYScanner	703837840883392513	2016-02-28T07:03:12	Bronx: Cross Bronx expressway at Webster Ave Pedestrian struck by a vehicle, Aidedin Serious condition, NYPDHighway CIS investigating.
+NYScanner	703812101815574529	2016-02-28T05:20:55	Brooklyn: Nostrand Ave &amp; Eastern Parkway Crime scene being established in regards to a male shot, ESU requested for Evidence Search.
+NYScanner	702979854891884544	2016-02-25T22:13:52	Brooklyn: 611 Blake Ave Crime scene being established in regards to a male shot to the Neck, Aided being transported in serious condition.
+NYScanner	702975921624649728	2016-02-25T21:58:15	Bronx: 1785 Monroe Ave Crime scene being established in regards to a male shot, Aided being transported in Stable condition.
+NYScanner	702917253583470592	2016-02-25T18:05:07	U/D Manhattan: Water St &amp; Pine St NYPD says suspicious package near Wall St Was 2 motorcycle batteries. 
+NYScanner	702899555759689728	2016-02-25T16:54:47	Manhattan: Water St &amp; Pine St NYPD ESU on scene with a suspicious package at the location, Bomb Squad requested.
+NYScanner	702866764829483009	2016-02-25T14:44:30	Bronx: East 205 St &amp; Bainbridge Ave Pedestrian struck by a vehicle, Aided transported in serious condition, NYPDHighway CIS investigating.
+NYScanner	702692805181837313	2016-02-25T03:13:14	Manhattan: George Washington Bridge NYPD on scene with an overturned Tractor trailer expect delays. 
+NYScanner	702632828836646914	2016-02-24T23:14:55	U/D Staten Island: The St. George Terminal is closed to Staten Island Ferry passengers until further notice, due to a suspicious package.
+NYScanner	702630230217920512	2016-02-24T23:04:35	Staten Island: Richmond Terrace &amp; Bay St NYPD &amp; ESU on scene with a suspicious package at the St George Terminal, Bomb Squad requested.
+NYScanner	702542759203201024	2016-02-24T17:17:01	Queens: Power Line explosion on 56th Ave &amp; 59 street. Large Power outage confirmed by local businesses. ConEdison onsite.
+NYScanner	702346934191788033	2016-02-24T04:18:52	Brooklyn: Box 1267 at 506 6th St FDNY using all hands electrical fire in the basement of Methodist Hospital.
+NYScanner	702317763197542400	2016-02-24T02:22:57	U/D Queens: Box 3150 at Queens Blvd &amp; 71 St Pedestrian struck &amp; pinned by a train, Aided pronounced DOA on scene, investigation in progress.
+NYScanner	702316401940369409	2016-02-24T02:17:33	Queens: Box 3150 at Queens Blvd &amp; 71 St FDNY reporting a person struck by a train, power off requested.
+NYScanner	702216511801401344	2016-02-23T19:40:37	Manhattan: Box 552 at  223 West 13 St FDNY on scene reporting a minor wall collapsed in the basement no injuries reported.
+NYScanner	702206373833080833	2016-02-23T19:00:20	Manhattan: 1717 Broadway FDNY on scene reporting 2 window washers stuck outside of the 65th floor on Scaffolding of a high rise.
+NYScanner	702120880684539904	2016-02-23T13:20:37	Bronx: 2552 Webb Ave NYPD52pct reporting a jumper down from 6th floor Aided in serious condition, NYPD calling a Level 1 for crowd control.
+NYScanner	701595584227102720	2016-02-22T02:33:16	Queens: 164-01 Foch Blvd Crime scene being established in regards to a male shot in the arm, Aided transported in Stable conditionm
+NYScanner	701583116658417664	2016-02-22T01:43:44	Brooklyn: Union St &amp; 7th Ave Pedestrian struck by a vehicle, Aided in serious condition, NYPDhighway CIS requested.
+NYScanner	701485921871470601	2016-02-21T19:17:31	Brooklyn: 568 Cleveland St FDNY on scene reporting a child that fell between 2 buildings.
+NYScanner	701264850476015616	2016-02-21T04:39:03	U/D Brooklyn: 44th St &amp; 5th Ave Active Crime scene established in regards to 2 males shot, both victims transported in Stable condition.
+NYScanner	701262450361028608	2016-02-21T04:29:31	Brooklyn: 44th St &amp; 5th Ave NYPD72pct calling a level 1 mobilization in regards to 2 males shot, EMS requested on a rush.
+NYScanner	701208678779764736	2016-02-21T00:55:51	Brooklyn: 3790 Nostrand Ave crime scene being established in regards to a male shot, Aided being transported by EMS
+NYScanner	700737982123343872	2016-02-19T17:45:28	Manhattan: West St &amp; Horatio St FDNY &amp; NYPD Harbor on scene with a person in the water, Aided being removed at this time.
+NYScanner	700506123275780096	2016-02-19T02:24:09	Brooklyn: Decatur St &amp; Saratoga Ave Crime scene being established in regards 2 males shot, ESU requested for Evidence search.
+NYScanner	700441628159434752	2016-02-18T22:07:52	Queens: Irwin Place &amp; Ursina Road NYPD105pct calling a level 1 mobilization in regards to shots fired, ESU requested for Evidence search.
+NYScanner	700368295694897152	2016-02-18T17:16:28	Manhattan: West 50 St &amp;10 Ave NYPD has 2 perps in custody &amp; 1 outstanding in regards to avehicle pursuit, perps wanted for hit&amp;run on 2 MOS.
+NYScanner	700040224085250048	2016-02-17T19:32:50	Brooklyn: East 38 St &amp; Ave H NYPD67pct reporting armed robbery at knife point, M/b in his 20's 6ft armed with a knife fled on foot.
+NYScanner	699992935245467648	2016-02-17T16:24:55	U/D Brooklyn: 1753 47 St jumper down from a building, Aided was pronounced DOA on scene.
+NYScanner	699991792243077120	2016-02-17T16:20:23	Brooklyn: 1753 47 St Hatzolah EMS on scene with a jumper down from a building, Aided being transported in serious condition.
+NYScanner	699785442493886464	2016-02-17T02:40:25	Staten Island: Ely St &amp; Brighton Ave NYPD120pct requesting ESU &amp; K-9 in regards to a perp search, perps wanted for a GLA.
+NYScanner	699784796894031872	2016-02-17T02:37:51	U/D Queens: Beach 67 St &amp; Ocean Ave Active Crime scene established in regards to shots fired at MOS,  ESU &amp; Aviation on scene.
+NYScanner	699783256506560512	2016-02-17T02:31:44	Queens: Beach 67 St &amp; Ocean Ave NYPD100pct calling a Level 1 mobilization in regards to shots fried, ESU &amp; Aviation requested.
+NYScanner	699751668133576705	2016-02-17T00:26:13	U/D Brooklyn: 666 Hancock St crime scene being established in regards to a male shot , Aided being transported in serious condition.
+NYScanner	699751258861760513	2016-02-17T00:24:35	Brooklyn: 666 Hancock St crime scene being established in regards to a male shot in the head, EMS requested on a rush.
+NYScanner	699747991444439041	2016-02-17T00:11:36	Brooklyn: 303 Vernon Ave Crime scene being established in regards to 2 males shot, Both victims being transported by EMS.
+NYScanner	699716286016843776	2016-02-16T22:05:37	Brooklyn: 550 Ocean Ave Crime scene being established in regards to a male shot, EMS requested on a rush.
+NYScanner	699691264657199105	2016-02-16T20:26:11	Queens: 80-02 32th Ave NYPD115pct &amp; ESU on scene with 2 Barricaded perps, now advising the 2 perps are in custody.
+NYScanner	699688373087313920	2016-02-16T20:14:42	U/D Brooklyn: *2 Alarm Fire*  Box1609 at 1481 Sterling Place heavy Fire on 1st floor in a 3 story. Multiple dwelling,1 fire victim removed.
+NYScanner	699686324719243264	2016-02-16T20:06:34	Brooklyn: Box1609 at 1481 Sterling Place FDNY using all hands Fire on the 1st floor in a 3 story, 1 fire victim removed.
+NYScanner	699683262906687489	2016-02-16T19:54:24	Manhattan: 2246 2nd Ave NYPD25pct calling a level 1 mobilization in regards to armed robbery of a store,  perp M/b fled no money taken.
+NYScanner	699434093939970049	2016-02-16T03:24:17	Brooklyn: 8th Ave &amp; 57 St Active Crime scene established in regards to a person stabbed, Aided in serious condition.
+NYScanner	699405278203285505	2016-02-16T01:29:47	U/D Brooklyn: 219 East 65 St 33 y/o male shot earlier was pronounced DOA, 2nd victim in serious condition. 
+NYScanner	699384784657772544	2016-02-16T00:08:21	U/D Brooklyn: 219 East 65 St Active Crime scene established in regards to 2 males shot, 1 Aided in. Serious. Condition.
+NYScanner	699383922715709440	2016-02-16T00:04:55	Brooklyn: 219 East 65 St NYPD67pct calling a level 1 mobilization in regards to 2 males shot, Both Victims being transported by EMS.
+NYScanner	699341690054799360	2016-02-15T21:17:06	Bronx: East 165 St &amp; Tinton Ave Active Crime scene established in regards to a perp shot by PD in the. Right arm, Perp in Stable condition.
+NYScanner	699337048155627522	2016-02-15T20:58:39	Queens: Box 3858 at 223-10 56th Ave FDNY. Using all hands fire in a private dwelling.
+NYScanner	699109487752454144	2016-02-15T05:54:25	U/D Brooklyn: *4 Alarm Fire* Box 0086 at 49 Diamond St heavy fire. In a 3 story private dwelling. 
+NYScanner	699089997538979840	2016-02-15T04:36:58	U/D Brooklyn: *3rd Alarm Fire* Box 0086 at 49 Diamond St heavy fire in a private dwelling. 
+NYScanner	699076550608683012	2016-02-15T03:43:32	U/D Brooklyn: *3rd  Alarm Fire* Box 0086 at 49 Diamond St heavy fire in a private dwelling.
+NYScanner	699076171967942657	2016-02-15T03:42:02	Brooklyn: *2 Alarm Fire* Box 0086 at 49 Diamond St heavy fire in a private dwelling.
+NYScanner	699026084571045888	2016-02-15T00:23:00	Brooklyn: *2 Alarm Fire* Box 0619 at 171 Adelphi St heavy fire in a 3 story private dwelling.
+NYScanner	698889449250426882	2016-02-14T15:20:04	Brooklyn: 1678 Nostrand Ave NYPD67pct calling a Level 1 in regards to a robbery at gunpoint of a Metro PCS store, 2 m/b both ski masks fled
+NYScanner	698676375306268672	2016-02-14T01:13:23	Brooklyn: West 33 St &amp; Neptune Ave Crime scene being established in regards to a person stabbed, Aided in stable condition.
+NYScanner	698248063849205760	2016-02-12T20:51:25	Brooklyn: Box 3485 at 8224 Bay Parkway FDNY using all hands fire on the 5th floor of a 6 story multiple dwelling.
+NYScanner	698213939235131393	2016-02-12T18:35:49	U/D Brooklyn: East 86 St &amp; Ave M Pedestrian struck by a vehicle, was a perp wanted for a robbery, @NYPDhiighway CIS investigating.
+NYScanner	698208397477482496	2016-02-12T18:13:48	Brooklyn: East 86 St &amp; Ave M Pedestrian struck by a vehicle, aided transported in serious condition, NYPDhighway CIS requested.
+NYScanner	698165563252744192	2016-02-12T15:23:36	Manhattan: 11th Ave &amp; West 37 St Pedestrian struck by a vehicle, Aided was pronounced DOA, NYPDhighway CIS requested.
+NYScanner	698007319318241280	2016-02-12T04:54:47	U/D Brooklyn: Miller Ave &amp; New Lots Ave Active Crime scene in regards to a 16 y/o male shot in the face, Aided in serious condition.
+NYScanner	697975805876531200	2016-02-12T02:49:34	Brooklyn: Miller Ave &amp; New Lots Ave crime scene being established in regards to a male shot to the face, Aided being transported by EMS.
+NYScanner	697857941198786562	2016-02-11T19:01:13	Bronx: East 233rd St &amp; White Plains Rd NYPD47pct calling level 1 mobilization in regards to a robbery of Chase Bank, perp m/b fled.
+NYScanner	697636840669581312	2016-02-11T04:22:38	Brooklyn: New York Ave &amp; Prospect Place NYPD77pct calling a Level 1 mobilization in regards to shots fired on a unmarked police vehicle.
+NYScanner	697593898827456512	2016-02-11T01:32:00	Brooklyn: Church Ave &amp; Schenectady St Active Crime scene in regards to a male shot in the chest, ESU requested for Evidence search.
+NYScanner	697506662265925632	2016-02-10T19:45:21	U/D Staten Island: 535 North Gannon Ave 24 y/o mother &amp; her 2 kids Pronounced DOA after being stabbed earlier this morning at Ramada Hotel.
+NYScanner	697474843747491840	2016-02-10T17:38:55	Queens: Cypress Hill St at Jackson Robinson parkway NYPDhighway CIS requested in regards to an MVA with PIN, 1 Aided in serious condition.
+NYScanner	697473915237568513	2016-02-10T17:35:14	Staten Island: 535 N Gannon Ave NYPD looking for this suspect wanted in killing of Mom &amp; daughter at Ramada hotel. 
+NYScanner	697463826405552128	2016-02-10T16:55:09	U/D Brooklyn: Kingston &amp; Empire Blvd Active Crime scene established in regards to a 30 year old male stabbed. 
+NYScanner	697462364480925696	2016-02-10T16:49:20	Brooklyn: Kingston &amp; Empire Blvd crime scene being established in regards to a male stabbed, aided in stable condition.
+NYScanner	697457085777371136	2016-02-10T16:28:22	U/D Staten Island: 535 North Gannon Ave Active Crime scene in regards to a Mother &amp; 3  kids stabbed, 24 y/o  Mother was pronounced DOA.
+NYScanner	697449313434214400	2016-02-10T15:57:28	U/D Staten Island: 535 N Gannon Ave Aviation &amp; K-9 requested in regards to a perp search, perp wanted for multiple stabbing at Ramada hotel.
+NYScanner	697446900291735553	2016-02-10T15:47:53	Staten Island: 535 N Gannon Ave Active Crime scene in regards to 4 ppl stabbed including 2 children at  Ramada hotel, 1 in serious condition
+NYScanner	697246040227999745	2016-02-10T02:29:44	Brooklyn: 729 East 31 St NYPD70Pct on scene reporting armed robbery at gunpoint by 3 males black that fled with an iphone.
+NYScanner	697173445990289408	2016-02-09T21:41:17	Bronx: East Fordham Road &amp; Webster Ave Active Crime scene established in regards to male shot, Aided transported by EMS in stable condition.
+NYScanner	696346896454066178	2016-02-07T14:56:52	Brooklyn: 989 Bedford Ave NYPD79pct reporting armed robbery at gunpoint of  the MetroPCS store, perps 2 m/b fled with cash &amp; cell phones.
+NYScanner	696340902860693505	2016-02-07T14:33:03	Queens: 205th St &amp; 100th Ave NYPDhighway CIS investigating an overturned vehicle with 1 aided transported in serious condition.
+NYScanner	696128723666468864	2016-02-07T00:29:55	Bronx: Morris Ave &amp; 150 St Crime scene being established in regards to a male shot, Aided in Stable condition.
+NYScanner	695646996233895938	2016-02-05T16:35:43	U/D Manhattan: 40 Worth St video of the crane collapsed that killed 1 &amp; injured others. 
+NYScanner	695605455033335808	2016-02-05T13:50:38	U/D Manhattan: Box 05151 at 40 Worth St FDNY using a 3 alarm for a fatal crane collapsed. 
+NYScanner	695603404354293760	2016-02-05T13:42:29	U/D Manhattan: 40 Worth St FDNY &amp; ESU on scene with a crane collapsed, 1 Aided is DOA, 2nd victim in serious condition, breaking
+NYScanner	695601368548114433	2016-02-05T13:34:24	Manhattan: Worth St &amp; Broad St NYPD1pct calling a level 1 mobilization in regards a crane collapsed, 1 Aided was pronounced DOA on scene.
+NYScanner	695585271815995392	2016-02-05T12:30:26	Brooklyn: Greenpoint Ave &amp; Kingsland Ave NYPD94pct requesting NYPD Highway CIS in regards to a Bicyclist struck, Aided in serious condition
+NYScanner	695431382734999552	2016-02-05T02:18:56	U/D Bronx: 320 East 156 St 2 NYPD officers shot earlier while on duty are expected to survive.
+NYScanner	695416624531111936	2016-02-05T01:20:18	Bronx: 320 East 156 St crime scene being established in regards 2 NYPD officers shot, 1 officer   in serious condition, PD has 1 perp.
+NYScanner	695400976635703296	2016-02-05T00:18:07	Brooklyn: 2940 West 31 St NYPD60pct calling a Level 1 mobilization in regards to a male shot, Aided transported in Stable condition.
+NYScanner	695378996603686912	2016-02-04T22:50:46	Brooklyn: 80 East 93 St Crime scene being established in regards to a male shot, Aided being transported in Stable condition.
+NYScanner	695289119795187715	2016-02-04T16:53:38	Bronx: 3955 Baychester Ave, NYPD47pct calling a Level 1 mobilization in regards to a attempted Bank Robbery, perp m/b fled location.
+NYScanner	695275578484744192	2016-02-04T15:59:50	Manhattan: 501 2nd Ave NYPD13pct calling a Level 1 in regards to a robbery of chase Bank, perp m/b in his 50's passed a note &amp; fled
+NYScanner	695016429263818753	2016-02-03T22:50:04	Queens: JFK Airport PAPD reporting an Air France flight AF23 makes an emergency leading due to technical checks.
+NYScanner	694950317251813376	2016-02-03T18:27:21	U/D Staten Island: 79 Vera st NYPD122pct advising now all 3 perps in custody, canceling all further.
+NYScanner	694949779688808457	2016-02-03T18:25:13	Staten Island: 79 Vera st NYPD122pct requesting K-9 and &amp; ESU in regards to 3 Barricaded perps, perps wanted for a break-in.
+NYScanner	694946891574939648	2016-02-03T18:13:45	Brooklyn: East 99 St &amp; Ave N NYPD69pct calling a level 1 mobilization in regards to armed robbery at gunpoint by 3 m/b that fled.
+NYScanner	694886038041288705	2016-02-03T14:11:56	Brooklyn: 14th Ave &amp; 65 St Pedestrian struck by a vehicle, Aided was pronounced DOA at the hospital, NYPDhighway CIS investigating.
+NYScanner	694754872105791488	2016-02-03T05:30:44	Brooklyn: 1625 Dean St Crime scene being established in regards to a male shot, Aided being transported in Stable condition.
+NYScanner	694748393776812032	2016-02-03T05:04:59	Brooklyn: Pennsylvania Ave &amp; Lots Ave Pedestrian struck by a vehicle, aided transported in serious condition, NYPDHighway CIS requested.
+NYScanner	694696026377183236	2016-02-03T01:36:54	Manhattan: 2345 Broadway NYPD20pct calling a Level 1 mobilization in regards to a robbery of a store, perp m/h fled.
+NYScanner	694695570028511232	2016-02-03T01:35:05	Staten Island: 409 Tompkins Ave NYPD120pct calling a Level 1  in regards to armed robbery at gunpoint, perp m/h fled in a vehicle.
+NYScanner	694648466987941888	2016-02-02T22:27:55	U/D Manhattan: George Washington Bridge female jumper down from the bridge, Aided removed at this time. 
+NYScanner	694644919529541633	2016-02-02T22:13:49	U/D Brooklyn: 8th Ave &amp; 57 St Active Crime scene established in regards to 2 males stabbed, both victims being transported by EMS.
+NYScanner	694644151699243008	2016-02-02T22:10:46	Manhattan: George Washington Bridge ESU &amp; NYPD Harbor on scene with a jumper down from  bridge into to the water, body removal in progress.
+NYScanner	694643625276346368	2016-02-02T22:08:40	Queens: 178 St &amp; 132 Ave Active Crime scene established in regards to a male shot, aided transported by EMS.
+NYScanner	694643273995018241	2016-02-02T22:07:17	Brooklyn: 8th Ave. &amp; 57 St Crime scene being established in regards to a male stabbed, EMS requested on a rush.
+NYScanner	694557747573047296	2016-02-02T16:27:25	Staten Island: Box 3385 at 1297 Arthur Kill Road FDNY &amp; ESU on scene reporting a car into the water, 1 Aided removed at this time.
+NYScanner	694557264942858240	2016-02-02T16:25:30	U/D Manhattan: *3rd Alarm fire* Box. 1267 at 2642 Broadway heavy fire  of a mixed occupancy, NYPD24Pct calling a level 1 In regards.
+NYScanner	694544921987026944	2016-02-02T15:36:28	Manhattan: *2 Alarm fire* Box. 1267 at 2642 Broadway heavy fire in a Restaurant of a mixed occupancy.
+NYScanner	694347904274829312	2016-02-02T02:33:35	U/D Staten Island: *3 Alarm Fire* Box4311 at 1053 Sinclair Ave heavy fire of a 2 story private dwelling, 2 FF removed &amp; being treated by EMS
+NYScanner	694345790345625601	2016-02-02T02:25:11	U/D Staten Island: *3rd  Alarm Fire* Box 4311 at 1053 Sinclair Ave heavy in the basement of a 2 story private dwelling.
+NYScanner	694344107569889281	2016-02-02T02:18:30	Staten Island: *2 Alarm Fire* Box 4311 at 1053 Sinclair Ave heavy in the basement of a 2 story private dwelling.
+NYScanner	694336286820319233	2016-02-02T01:47:25	Queens: 217-08 99th Ave NYPD105pct called a level 1 mobilization in regards to shots fired, ESU requested for Evidence search.
+NYScanner	694292900310556674	2016-02-01T22:55:01	Manhattan: 180 Canal St NYPD5pct calling a Level 1 mobilization in regards to a Bank robbery, 2 M/b fled the scene.
+NYScanner	694283679296798720	2016-02-01T22:18:22	Brooklyn: 19 Humboldt St NYPD90pct on scene  reporting armed robbery at gunpoint of a Commercial, M/h fled with cash.
+NYScanner	694237487615582209	2016-02-01T19:14:50	Manhattan: *2 Alarm Fire* Box 0991 at 333 East 68 st heavy fire in a multiple dwelling.
+NYScanner	694199214688096256	2016-02-01T16:42:45	Brooklyn: 145 East 18 St Crime scene being established in regards to an NYPD officer stabbed, officer being transported to KCH in stable.
+NYScanner	694040192261423104	2016-02-01T06:10:51	Brooklyn: Stilwell Ave and Ave W Crime scene being established in regards to a person shot, ESU requested for Evidence Search.
+NYScanner	693966231045537793	2016-02-01T01:16:57	Queens: Liberty Ave &amp; 98 St NYPD106pct calling a Level 1 mobilization in regards to armed robbery at gunpoint by 2 m/b that fled with $700.
+NYScanner	693946267022524416	2016-01-31T23:57:37	Brooklyn: 830 Lafayette Ave NYPD81pct on scene reporting armed robbery at gunpoint by a perp m/b that fled with a ski mask in his 20's.
+NYScanner	693803038037970945	2016-01-31T14:28:29	Manhattan: 160 Central Park West NYPD &amp; ESU being requested to the scene for a suspicious package in front of a church.
+NYScanner	693625496844816385	2016-01-31T02:43:00	Bronx: 269 East Burnside Avee crime scene being established in regards to a male shot, Aided transported by EMS.
+NYScanner	693130763919847424	2016-01-29T17:57:06	Manhattan: 3540 Broadway NYPD30pct reporting a bank robbery of Popular Community Bank, PD has 1 perp in custody.
+NYScanner	693110317308448768	2016-01-29T16:35:51	Queens: 230-05 144 Ave NYPD105pct calling a Level 1 in regards to a Home invasion, PD looking for 5 perps that fled 1 with a firearm.
+NYScanner	693097860074729472	2016-01-29T15:46:21	Manhattan: 2100 Broadway NYPD20pct calling a Level 1 mobilization in regards to a attempted robbery of an apple bank, perp in his 50's fled
+NYScanner	693079923867656192	2016-01-29T14:35:05	Brooklyn: Rogers Ave &amp; Albermarle Ave, NYPD  looking for Male black 5'3 height, Aprox 140 Pounds wanted for attempted kidnapping of a 11 y/o
+NYScanner	692791010120863744	2016-01-28T19:27:02	Queens: 139 St &amp; Jamaica Ave NYPD calling a Level 1 mobilization in regards to shots fired ESU requested for Evidence search, 2 perps fled.
+NYScanner	692787810554777601	2016-01-28T19:14:20	Brooklyn: BQE. W/B at Metropolitan Ave NYPD officer involved in a MVA, officer transported to believe Hospital, NYPDhighway CIS requested.
+NYScanner	692778910799519744	2016-01-28T18:38:58	Manhattan: 77 St and 3Rd Ave NYPD19pct reporting attempted bank robbery of HBSC bank, perp is now in custody after a foot pursuit.
+NYScanner	692774955843342337	2016-01-28T18:23:15	Manhattan: 1221 Madison Ave NYPD19pct calling a level 1 in regards to bank robbery of chase Bank, perp passed a note &amp; fled no money taken.
+NYScanner	692754932240400385	2016-01-28T17:03:41	U/D Brooklyn: Ave O &amp; East 14 St Perp shot by PD during a robbery of a Verizon store on 418 Ave P. 
+NYScanner	692753231567572993	2016-01-28T16:56:55	Brooklyn: East 14 St &amp; Ave O NYPD involved in a shooting, perp in his 30's transported in serious condition to kings. County hospital.
+NYScanner	692747999009755136	2016-01-28T16:36:08	Brooklyn: Ocean Parkway &amp; Ave P NYPD vehicle involved in an MVA no serious injuries. 
+NYScanner	692745215472488448	2016-01-28T16:25:04	Manhattan: 345 Park Ave NYPD13pct reporting robbery of a bank, perp fled with cash, requesting K-9 &amp; ESU to the scene.
+NYScanner	692743748040724481	2016-01-28T16:19:14	Brooklyn: Ave P &amp; East 2 St NYPD66pct reporting armed robbery at gunpoint of a commercial, PD has 1 perp in custody in regards.
+NYScanner	692722359883730944	2016-01-28T14:54:15	Manhattan: 800 6th Ave NYPD13pct calling a Level 1 mobilization in regards to a bank robbery of America Bank, perp passed a note &amp; fled.
+NYScanner	692714947269246977	2016-01-28T14:24:48	Manhattan: George Washington Bridge ESU &amp; NYPD Harbor on scene with a jumper down from the bridge, body removal in progress.
+NYScanner	692562781124587521	2016-01-28T04:20:08	U/D Bronx: *2 Alarm Fire* Box 3389 at 227 West Kingsbridge Road heavy fire of a private dwelling, 1 fire victim was pronounced DOA.
+NYScanner	692551306502868994	2016-01-28T03:34:33	Bronx: *2 Alarm Fire* Box 3389 at 227 West Kingsbridge Road heavy fire on the 2nd floor of a private dwelling.
+NYScanner	692436547472334848	2016-01-27T19:58:32	U/D Queens: 333 Beach 32 St Active Crime scene in regards to 2 females shot, 1 female was pronounced DOA. 
+NYScanner	692432645440020480	2016-01-27T19:43:02	Queens: 333 Beach 32 St Active crime scene established in regards to 2 female shot, 1 female was pronounced DOA,  NYPD101pct investigating.
+NYScanner	692347448757501952	2016-01-27T14:04:29	Queens: Grand Central Parkway at near 94 St FDNY &amp; ESU on scene with an overturned vehicle no injuries. 
+NYScanner	692341660022378497	2016-01-27T13:41:29	Manhattan: Box 0576 at 34 West 17 St FDNY &amp; ESU on scene with a construction worker that fell off a roof to a basement.
+NYScanner	692333450037190656	2016-01-27T13:08:52	Brooklyn: North 5th St &amp; Kent Ave ESU &amp; NYPD Harbor on scene with a dead body footing in the water, body removal in progress.
+NYScanner	692214312753045504	2016-01-27T05:15:27	Brooklyn: Smith St &amp; Warren St NYPD84pct on scene reporting armed robbery at gunpoint by 3 m/b that fled, perps stolen a cell phone.
+NYScanner	692208995822653441	2016-01-27T04:54:19	Staten Island: Bay St &amp; Hylan Blvd, NYPD120pct calling a Level 1 mobilization in regards to a robbery of commercial, perp fled.
+NYScanner	692164168108150785	2016-01-27T01:56:12	Bronx: Gunther Ave &amp; East Gunhill Road NYPD49pct calling a level 1 mobilization in regards to assault of an NYPD officer.
+NYScanner	692095140324904960	2016-01-26T21:21:54	U/D Queens: 140th Ave &amp; 219 St Active crime scene in regards to a male shot, Aided transported to Jamaica hospital in stable condition.
+NYScanner	692093409251696640	2016-01-26T21:15:01	Queens: 140 Ave and 219 St Crime scene being established in regards to a male shot, Aided being transported by EMS.
+NYScanner	692090981953454085	2016-01-26T21:05:23	Manhattan: 44 St and 1st Ave NYPD ESU &amp; Bomb Squad on scene with a suspicious package at the United Nations building.
+NYScanner	691862225259216896	2016-01-26T05:56:23	Bronx: *2 Alarm Fire* Box 3130 at Crotona Ave &amp; East 179 St heavy fire in a 2 story private dwelling.
+NYScanner	691858488360898560	2016-01-26T05:41:32	Manhattan: 765 FDR Drive Crime scene being established in regards to a male shot by PD, Aided being transported in serious condition.
+NYScanner	691793196309987328	2016-01-26T01:22:05	U/D Brooklyn: 525 47 St 44 year old man found dead inside his vehicle may have died from carbon monoxide poisoning.
+NYScanner	691789102849626113	2016-01-26T01:05:49	Brooklyn: 525 47 St NYPD72pct investigating after a 44 y/o male found dead inside his vehicle. 
+NYScanner	691679599336513537	2016-01-25T17:50:41	Manhattan: 2100 Broadway NYPD20pct calling a level 1 mobilization in regards to a bank robbery, perp m/b passed a note no money was taken.
+NYScanner	691654437257908224	2016-01-25T16:10:42	Brooklyn: 295 Ocean Parkway NYPD66pct on scene with a barricaded EDP, EDP is now in custody. 
+NYScanner	691651141919178757	2016-01-25T15:57:37	Queens: *2 Alarm Fire* Box 7895 at 35-27 93 Road heavy fire in a private dwellingm
+NYScanner	691493731489431552	2016-01-25T05:32:07	U/D Queens: *2 Alarm Fire* Box 6518 at 160-22 77 Rd heavy fire in a private dwelling, all occupants accounted for. 
+NYScanner	691485423458205697	2016-01-25T04:59:06	Queens: *2 Alarm Fire* Box 6518 at 22-77 Road heavy fire in a private dwelling. Mayday transmitted.
+NYScanner	691313420730286083	2016-01-24T17:35:38	Manhattan: FDR exit 13 South bound FDNY &amp; ESU on scene with an overturned vehicle no serious injuries. 
+NYScanner	691272048908308481	2016-01-24T14:51:14	U/D Manhattan: *4th Alarm Fire* Box 0871 at 763 9th Ave heavy fire in a  boiler room in the rear of a 4 story multiple dwelling.
+NYScanner	691264294953095168	2016-01-24T14:20:25	U/D Manhattan: *3 Alarm Fire* Box 0871 at 763 9th Ave heavy fire in a  boiler room in the rear of a 4 story multiple dwelling.
+NYScanner	691260586710155265	2016-01-24T14:05:41	Manhattan: *2 Alarm Fire*  Box 871 at 763 9th Ave heavy fire in on the 2nd floor of a multiple dwelling.
+NYScanner	690597899714043909	2016-01-22T18:12:24	Queens: NYPD is looking for this vehicle 2005-2010 VW Jetta wanted for a shooting near JFK airport by Hampton Hotel 
+NYScanner	690590972053450752	2016-01-22T17:44:52	PIX11News you guys can use it.
+NYScanner	690564019321700352	2016-01-22T15:57:46	Queens: College Point Blvd &amp; 15 Ave Pedestrian struck by cement truck, Aided was pronounced DOA at  hospital, NYPDhighway CIS investigating
+NYScanner	690421700106780672	2016-01-22T06:32:15	Manhattan: 421 East 6th St NYPD9pct calling a Level 1 mobilization in regards to shots fired, Perp m/b wearing a black jacket fled.
+NYScanner	690418720464867328	2016-01-22T06:20:24	Brooklyn: Marcy Ave &amp; Broadway NYPD90pct requesting CIS in regards to a pedestrian struck by Hit &amp; Run driver, Aided in serious condition.
+NYScanner	690364346132774914	2016-01-22T02:44:21	U/D Queens: 144-10 135 Ave Active Crime scene in regards to a female shot at Hampton hotel near JFK airport. 
+NYScanner	690352555277336578	2016-01-22T01:57:29	Manhattan: FDR drive at East 41 St Pedestrian struck by a vehicle, Aided in serious condition, NYPDHighway CIS investigating.
+NYScanner	690348087458578436	2016-01-22T01:39:44	Bronx: Grand Concourse &amp; East Tremont Ave Active Crime scene established in regards to a person shot, Aided transported by EMS.
+NYScanner	690347682997628928	2016-01-22T01:38:08	U/D Queens: 144-10 135 Ave, Female shot during a robbery by 2 m/b in front of the Hampton hotel, Active Crime scene.
+NYScanner	690346461796646917	2016-01-22T01:33:17	Queens: 114-10 135 Ave Crime scene being established in regards to a female shot in front of the Hampton hotel, Aided in serious condition.
+NYScanner	690316121531088897	2016-01-21T23:32:43	Bogs4NY You guys can use it with credit sorry for the late respond.
+NYScanner	690269335718334467	2016-01-21T20:26:48	U/D Brooklyn: *3 Alarm Fire* box 2396 at East 80 St &amp; Paerdegat 14th St heavy fire on the 2nd floor of a private dwelling.
+NYScanner	690265104819056640	2016-01-21T20:10:00	Brooklyn: *2 Alarm Fire* box 2396 at East 80 St &amp; Paerdegat 14th St heavy fire on the 2nd floor of a private dwelling.
+NYScanner	690257547308220416	2016-01-21T19:39:58	Brooklyn: 1683 West 7th St FDNY on scene with a construction worker down in a hole in a basement, Worker was removed &amp; being transported.
+NYScanner	690253140084547584	2016-01-21T19:22:27	U/D Manhattan: Lexington Ave &amp; East 102 St  NYPD involved in MVA Both officers are Stable, 1 Civilian in serious, NYPDhighway CIS requested
+NYScanner	690249334332456961	2016-01-21T19:07:20	Manhattan: Lexington Ave &amp; East 102 St,  NYPD vehicle involved in a MVA with PIN, NYPD officer being transported by EMS in Stable condition.
+NYScanner	690243884266430465	2016-01-21T18:45:40	foxnewsdesk u can use it with credit
+NYScanner	690240393858961408	2016-01-21T18:31:48	NYC: Video of a cow running around in Queens earlier today on 164 St and Jamaica Ave. 
+NYScanner	690053380287401984	2016-01-21T06:08:41	Manhattan: 506 Lenox Ave NYPD25Pct calling a Level 1 mobilization in regards to a male shot, Aided transported by EMS.
+NYScanner	689950355489189888	2016-01-20T23:19:18	Queens: *2 Alarm Fire* box 9650 at 87-28 118 St heavy fire in a  Private dwelling.
+NYScanner	689927687113195520	2016-01-20T21:49:13	Brooklyn: Lorimer St &amp; Montrose Ave NYPD90pct calling a Level 1 in regards to a male stabbed, requesting Aviation for the perp search.
+NYScanner	689881468777152513	2016-01-20T18:45:34	Brooklyn: 126 Milford St NYPD75pct on scene requesting Aviation in regards to shots fired, perp m/b wearing a green jacket fled.
+NYScanner	689826152156942336	2016-01-20T15:05:45	Brooklyn: Noostrand Ave &amp; Question Road FDNY &amp; Hatzolah EMS on scene with an overturned vehicle with PIN. 
+NYScanner	689583070060613632	2016-01-19T22:59:50	Brooklyn: Ave U &amp; East 9 St Pedestrian struck by a truck, Aided transported by Hatzolah EMS in serious condition, NYPDHighway CIS requested
+NYScanner	689469256103112704	2016-01-19T15:27:35	Manhattan: 2 Ave &amp; East 106 St NYPD23Pct calling a Level 1 mobilization in regards Bank robbery, perp m/b in his 30s fled the scene.
+NYScanner	689244910806036481	2016-01-19T00:36:06	Brooklyn: Box 0342 at 114 Harrison Ave FDNY using all hands fire on the top floor of a 5 story multiple dwelling.
+NYScanner	689219862573510657	2016-01-18T22:56:34	Queens: 8401 89 Ave NYPD102pct calling a Level 1 mobilization in regards to a barricaded perp armed with a gun in the basement.
+NYScanner	689159131610136576	2016-01-18T18:55:15	Brooklyn: East 88 St &amp; Flatlands Ave NYPD69pct calling a Level 1 for a robbery at knife point inside the pharmacy by a perp m/b that fled.
+NYScanner	689121267706937344	2016-01-18T16:24:48	Brooklyn: Bond St &amp; Douglass St FDNY &amp; ESU on scene with a vehicle into the water advising everyone is out of the vehicle.
+NYScanner	689113746057330689	2016-01-18T15:54:54	NYC: An NYPD officer shot &amp; injured 18 y/o  perp earlier this morning during attempted robbery in the Bronx, PD looking for 2 other perps.
+NYScanner	688960573678202885	2016-01-18T05:46:15	Bronx: Bronx River Pkwy &amp; East Gun Hill, FDNY, ESU &amp; NYPD47pct on scene with an overturned vehicle into water w/ a person trapped inside.
+NYScanner	688935527295365120	2016-01-18T04:06:44	U/D Brooklyn: 2839 West 33 St Active Crime scene in regards to a male shot, Aided was pronounced DOA on scene. 
+NYScanner	688913442204467200	2016-01-18T02:38:58	Brooklyn: 2839 West 33 St Crime scene being established in regards to a male shot, Aided in serious condition.
+NYScanner	688589739776196609	2016-01-17T05:12:41	Brooklyn: 45th St &amp; 5th Ave Crime scene being established in regards to a male shot, ESU requested for Evidence search.
+NYScanner	688529363382456320	2016-01-17T01:12:47	Brooklyn: 7721 Flatlands Ave NYPD69pct calling a Level 1 in regards to a robbery at knife point of a 99 cent store, perp m/b fled the scene
+NYScanner	687855981221572609	2016-01-15T04:37:00	Brooklyn: Atlantic Ave &amp; Kingston Ave NYPD ESU on scene w/an MVA w/PIN, All Aides transported in stable condition. 
+NYScanner	687806845961007104	2016-01-15T01:21:45	Queens: 97-17 Rockway Blvd NYPD106pct calling a level 1 mobilization for armed robbery of a TD bank, 2 m/b fled with a firearm.
+NYScanner	687793630141104128	2016-01-15T00:29:14	Brooklyn: Ocean Ave &amp; Beverly road Pedestrian struck by a vehicle, aided being transported in serious condition, NYPDhighway CIS requested.
+NYScanner	687779623455821824	2016-01-14T23:33:35	Manhattan: West 96 St &amp; Amsterdam Ave Pedestrian struck by a vehicle, Aided transported in serious condition, NYPDHighway CIS investigating
+NYScanner	687764190224867329	2016-01-14T22:32:15	Manhattan: 7th Ave &amp; 37 St FDNY On scene reporting a Gas leak in the area, building Evacuated. 
+NYScanner	687758100032569344	2016-01-14T22:08:03	Brooklyn: *2 Alarm Fire* Box 3344 at 1223 Ave U heavy fire in a commercial building.
+NYScanner	687757711388311553	2016-01-14T22:06:30	Bronx: 865 East 135 St NYPD40pct reporting armed robbery at gunpoint of a cab company by 2 m/h that fled with $1000.
+NYScanner	687742713207353344	2016-01-14T21:06:55	Brooklyn: 3601 Ave J NYPD63pct on scene requesting ESU for a barricaded EDP on the 2nd floor.
+NYScanner	687727546822180866	2016-01-14T20:06:39	Staten Islands: 73 industrial Loop Crime scene being established in regards to a male stabbed, Aided transported by EMS in Traumatic arrest.
+NYScanner	687703994752438274	2016-01-14T18:33:03	Manhattan: 95 Madison Ave NYPD13pct calling a Level 1 mobilization in regards to a bank robbery of M&amp;T Bank, 2 perps m/b fled the scene.
+NYScanner	687519239540965376	2016-01-14T06:18:54	Manhattan: Ave C &amp; East 12 St Active Crime scene established in regards to a person shot, Aided transported by EMS.
+NYScanner	687392657178509312	2016-01-13T21:55:55	U/D Brooklyn: Pennsylvania Ave &amp; Livonia Ave 18 year old male shot earlier today was pronounced DOA, Active Crime scene.
+NYScanner	687389825503248386	2016-01-13T21:44:40	Bronx: East Tremont Ave &amp; Raymonds Ave NYPD45pct calling a Level 1 in regards to shots fired, ESU requested for Evidence Search.
+NYScanner	687363119761518592	2016-01-13T19:58:32	U/D Brooklyn: Pennsylvania Ave &amp; Riverdale Ave NYPD75pct calling a Level 1 mobilization in regards to 2 people shot, 2 perps in custody.
+NYScanner	687361385169326086	2016-01-13T19:51:39	Brooklyn: Pennsylvania Ave &amp; Riverdale Ave Crime scene being established in regards to 2 people shot, EMS requested on a rush.
+NYScanner	687360051619704832	2016-01-13T19:46:21	U/D Staten Island: 40 Prospect St NYPD120pct &amp; ESU advising Barricaded EDP is now in custody, canceling all further.
+NYScanner	687357404384747521	2016-01-13T19:35:50	Queens: Belt Parkway at Exit 225th St FDNY &amp; ESU on scene with a vehicle into the water advising everyone is out of the vehicle.
+NYScanner	687353887016235012	2016-01-13T19:21:51	Staten Island: 40 Prospect St @NYPD120 &amp; ESU on scene with an barricaded EDP, requesting additional &amp; airbag.
+NYScanner	687327186550951936	2016-01-13T17:35:45	Manhattan: 301 3rd Ave NYPD13pct calling a level 1 in regards to attempted bank robbery of Amalgamated bank, perp m/h fled with a fireman.
+NYScanner	687067703677431808	2016-01-13T00:24:40	Bronx: 731 East 161 St NYPD42Pct calling a Level 1 mobilization for shots fired, 2 males Perp fled, requesting ESU for Evidence search.
+NYScanner	687038061289574400	2016-01-12T22:26:53	Brooklyn: 212 Cleveland St NYPD75pct &amp; ESU on scene of a perp search, perp wanted for an attempted assault on a child.
+NYScanner	686949379622760448	2016-01-12T16:34:29	Brooklyn: 14th Ave &amp; 86 St FDNY on scene reporting an NYPD vehicle involved in a MVA, officer being transported by EMS in Stable condition.
+NYScanner	686911135040278528	2016-01-12T14:02:31	Brooklyn: The Brooklyn Queens Expy At exit 29 East Bound, has been reopened after an overturned Tractor trailer. 
+NYScanner	686704663417237504	2016-01-12T00:22:04	Staten Island: Richmond Ave &amp; Drumgoogle road E Pedestrian struck by vehicle, Aided in serious condition, NYPDhighway CIS interesting.
+NYScanner	686693233586520065	2016-01-11T23:36:39	Brooklyn: 15th Ave &amp; 39 St FDNY &amp; Hatzolah EMS on scene with an overturned vehicle no serious injuries. 
+NYScanner	686678079842947072	2016-01-11T22:36:26	Bronx: *2 Alarm Fire* Box 335 east 236 St heavy fire on the 1st &amp; 2nd floor in a private dwelling.
+NYScanner	686566661957267457	2016-01-11T15:13:42	Manhattan: Canal St &amp; Allen St NYPD7pct calling a level 1 in regards to a perp search, perp m/b fled in a red Nissan Altima with a firearm.
+NYScanner	686559481526939649	2016-01-11T14:45:10	Brooklyn: Crosby Ave &amp; Miller Place Crime scene being established in regards to a male shot, Aided being transported in serious condition.
+NYScanner	686422588139155456	2016-01-11T05:41:12	U/D Brooklyn: 458 Columbia St Active Crime scene established in regards to 2 people shot, 1 Aided was pronounced dead at the hospital.
+NYScanner	686419188970328064	2016-01-11T05:27:42	Brooklyn: Ocean Parkway and Ave I FDNY &amp; Hatzolah EMS on scene with an overturned vehicle no serious injuries. 
+NYScanner	686386747442368513	2016-01-11T03:18:47	Brooklyn: 458 Columbia St Crime scene being established in regards to 2 people shot, EMS requested on a rush.
+NYScanner	686297480078712837	2016-01-10T21:24:04	Brooklyn: Box 7120 at Bedford Ave &amp; North 7 St FDNY on scene reporting a person under a train, power off requested.
+NYScanner	686284554244599808	2016-01-10T20:32:42	Brooklyn: 1216 Flatbush Ave NYPD70pct calling a level 1 mobilization in regards to armed robbery at gunpoint of a 99 cents store, perp fled
+NYScanner	686279280628727809	2016-01-10T20:11:45	Manhattan: Broadway &amp; West 68 St NYPD20pct on scene requesting ESU for a perp search on the train tracks, requesting power off in regards.
+NYScanner	686267849191632897	2016-01-10T19:26:20	U/D Queens: 77 St &amp; Astoria Blvd NYPDhighway CIS on scene investigating a serious accident. 
+NYScanner	686259444594929665	2016-01-10T18:52:56	Queens: 77 St &amp; Astoria Blvd NYPDHighway CIS requested in regards to a serious accident, Aided transported in serious condition.
+NYScanner	686057699713351680	2016-01-10T05:31:16	Brooklyn: Box 2118 at 44 Lott Ave FDNY using all hands fire on the 2nd floor of multiple dwelling.
+NYScanner	686052468933935104	2016-01-10T05:10:29	Brooklyn: 117 East 93 St Crime scene being established in regards to a male shot, Aided being transported in serious condition.
+NYScanner	686022470932000768	2016-01-10T03:11:17	U/D Queens: 166 St &amp; 110 Rd NYPD103Pct reporting 1 in custody 2 others fled in a White Nissan in regards to the NYPD Officer Struck.
+NYScanner	686018221347061760	2016-01-10T02:54:24	Queens: 166 St &amp; 110 Rd NYPD103pct reporting an NYPD officer struck by vehicle that fled the scene, officer being transported w/ minor inj.
+NYScanner	686008288811593728	2016-01-10T02:14:56	U/D Queens: 135-37 Brookville Blvd NYPD105 on scene with  shots fired, perp wanted for shots fired is now in police custody.
+NYScanner	686006914166177792	2016-01-10T02:09:28	Queens: 135-37 Brookville Blvd NYPD105Pct calling a Level 1 mobilization in regards to shots fired, ESU requested for the Evidence Search.
+NYScanner	685999732477530112	2016-01-10T01:40:56	Brooklyn: Bath Ave &amp; Bay 8 St NYPD68pct on scene reporting a carjacking at gunpoint by 2 perps m/h that fled on foot.
+NYScanner	685975536074620928	2016-01-10T00:04:47	Bronx: 2105 Wallace Ave NYPD49Pct on scene with an EDP female that jumped out from a window, requesting EMS.
+NYScanner	685965796540047360	2016-01-09T23:26:05	NYC: 25 y/o NYPD officer marking his 4th anniversary on the job, recovering after being shot early this morning in Bronx, officer in Stable.
+NYScanner	685555201164623872	2016-01-08T20:14:31	Brooklyn: 4th Ave &amp; 1st St FDNY on scene reporting an overturned mini school bus, requesting multiple busses for 4 injured children.
+NYScanner	685340643770634240	2016-01-08T06:01:57	Manhattan: FDR Drive at East 34 St Pedestrian struck by hit&amp;Run vehicle, Aided transported in serious condition, NYPDHighway CIS requested.
+NYScanner	685309405907255296	2016-01-08T03:57:49	Brooklyn: 3323 Ave H NYPD67Pct calling a level 1 mobilization in regards to armed robbery at gunpoint, perp fled the scene.
+NYScanner	685277018209054720	2016-01-08T01:49:07	Manhattan: York Ave &amp; East 78 St NYPDHighway CIS investigating a pedestrian struck by a vehicle, Aided transported in serious condition.
+NYScanner	685260452880846848	2016-01-08T00:43:18	Bronx: 737 Throgs Neck Expy NYPD45pct &amp; ESU reporting baby fell down an elevator Shaft, Baby removed &amp; transported in Stable condition
+NYScanner	685162367353749504	2016-01-07T18:13:32	U/D Bronx: 800 SoundView Ave ESU &amp; NYPD43pct on scene reporting perp is now in custody, perp wanted for a slashing.
+NYScanner	685155362538917889	2016-01-07T17:45:42	Bronx: 800 Soundview Ave NYPD43pct on scene reporting a barricaded perp, requesting now ESU, perp wanted for a slashing.
+NYScanner	685098447825952768	2016-01-07T13:59:33	Brooklyn: All lanes now reopened after a serious multiple MVA between a car &amp; tractor trailer that injured 4 ppl on Gowanus Expwy at 86 St.
+NYScanner	684976035369238528	2016-01-07T05:53:07	Staten island: *2 Alarm Fire* Box 2224 at 38 10 St heavy fire in a private dwelling.
+NYScanner	684833743174000642	2016-01-06T20:27:42	Brooklyn: Box 1655 at 1629 Eastern Parkway FDNY using all hands fire of a 4 story multiple dwelling.
+NYScanner	684761854472794114	2016-01-06T15:42:03	Bronx: 1470 Outlook Ave ESU &amp; NYPD Harbor on scene with a body floating in the water, body removal in progress.
+NYScanner	684740481616576512	2016-01-06T14:17:07	Manhattan: NYPD Harbor &amp; PAPD on scene reporting a dead body recovered on the Rocks near the GWB on the NY side.
+NYScanner	684738455713247232	2016-01-06T14:09:04	Brooklyn: Albany Ave &amp; St Marks Ave Active Crime scene established in regards to a person shot, aided transported by EMS in stable condition
+NYScanner	684621642279055360	2016-01-06T06:24:53	Manhattan: 103 West 141 st Crime scene being established in regards to a male shot, aided being transported by EMS.
+NYScanner	684563964898979843	2016-01-06T02:35:42	Manhattan: 2218 Broadway NYPD20pct on scene reporting armed robbery at gunpoint of a commercial, Level 1 mobilization called in regards.
+NYScanner	684505241811824640	2016-01-05T22:42:21	Queens: 111-02 Sutphin Blvd NYPD113Pct requesting ESU, &amp; Aviation in regards to a perp search.
+NYScanner	684469021958356993	2016-01-05T20:18:26	Staten Island: 226 Benziger Ave NYPD120Pct on scene reporting a female shot, Aided being transported in stable condition.
+NYScanner	684394609091440640	2016-01-05T15:22:44	Brooklyn: *2 Alarm Fire* Box 1825 at 223 Fountain Ave heavy fire on the 2nd floor of a multiple dwelling, fire remains Dwh.
+NYScanner	684198795509415936	2016-01-05T02:24:39	Brooklyn: Box 2862 at 1946 70 St FDNY using all hands for a fire on thee 2nd floor of a multiple dwelling.
+NYScanner	684173198007615488	2016-01-05T00:42:56	Bronx: 824 East 149th St NYPD40pct on scene reporting armed robbery at gunpoint by 2 m/h age 20 &amp; 30 both perps fled the scene.
+NYScanner	684165833338273792	2016-01-05T00:13:40	Manhattan: York Ave &amp; East 70 St NYPD19pct on scene with a scaffolding collapsed ESU &amp; FDNY on scene.
+NYScanner	684165223549382657	2016-01-05T00:11:15	Queens: 147-14-45th Ave NYPD109pct calling a Level 1 mobilization in regards to armed robbery at gunpoint, perp fled on foot.
+NYScanner	684020764912267264	2016-01-04T14:37:13	Bronx: East 222 St, NYPDhighway CIS investigating after a driver killed, 21y/o female passenger injured in a car crash earlier this morning
+NYScanner	684013470791155712	2016-01-04T14:08:14	Bronx: 5765 Broadway, NYPD50Pct investigating after a 28 y/o  worker stabbed to death earlier this morning inside McDonald's restaurant.
+NYScanner	683891161883348992	2016-01-04T06:02:13	Brooklyn: Ave K &amp; Coney Island Ave FDNY &amp; Hatzolah EMS on scene with an overturned vehicle no serious injuries. 
+NYScanner	683889654588903428	2016-01-04T05:56:14	Manhattan: 353 Ave 6th Ave NYPD6pct calling a Level 1 mobilization in regards to armed robbery at gunpoint, perp fled with $250
+NYScanner	683833258308710401	2016-01-04T02:12:08	Brooklyn: 2364 Batchelder St Active Crime scene established in regards to a Male and female found dead, NYPD Questioning a 16 y/o boy.
+NYScanner	683810464342654977	2016-01-04T00:41:33	Brooklyn: 1303 Ave Z, NYPD61pct reporting a armed robbery at gunpoint, Perps M/H fled with $1K in a green mini van with NJ Plates S12AGK.
+NYScanner	683803949514768385	2016-01-04T00:15:40	Queens: 137-07 246th St &amp; 137th Ave, NYPD105pct on scene reporting shots fired, perps fled in a  Black mini van, occupied by 3 male blacks.
+NYScanner	683793142500454400	2016-01-03T23:32:44	Staten Island: 810 Henderson Ave Crime scene being established to a male shot, Aided being transported in Stable condition.
+NYScanner	683792295213297664	2016-01-03T23:29:22	Bronx: 4229 Park Ave Crime scene being established in regards to a male shot, ESU requested for Evidence search.
+NYScanner	683727683776282624	2016-01-03T19:12:37	Brooklyn: 340 George Ave Crime scene being established in regards to a male shot, ESU requested for the evidence search.
+NYScanner	683657110278803456	2016-01-03T14:32:11	Bronx: *Fatal 2 Alarm Fire* Box 3807 at 655 East 230 St fire in a 6 story multiple dwelling, 1 dead body recovered.
+NYScanner	683510178004729856	2016-01-03T04:48:20	Queens: Box 8750 at 245-13 133 Road FDNY using all hands fire of a 2 story private dwelling.
+NYScanner	683504839834386432	2016-01-03T04:27:07	NYC: A 19  y/o female has become the city's first murder victim of 2016 after she was beaten to death in her bed in Queens on Friday.
+NYScanner	683485028152639488	2016-01-03T03:08:23	Brooklyn: Box 1895 at 381 Elderts Lane FDNY using all hands fire on the 2nd floor in a 2 story  private dwelling.
+NYScanner	683458262252056576	2016-01-03T01:22:02	Manhattan: East 104 St &amp; Lexington Ave Active Crime scene established in regards to 2 people shot, ESU requested for the Evidence Search.
+NYScanner	683449340858380288	2016-01-03T00:46:35	CallMeKateUpton u can use it
+NYScanner	683442196520013824	2016-01-03T00:18:12	Brooklyn: 5702 6th Ave NYPDHighway CIS on scene investigating a serious accident, Aided transported by EMS in serious condition.
+NYScanner	683429786031656960	2016-01-02T23:28:53	Brooklyn: Ocean Ave and Ave J FDNY &amp; Hatzolah EMS on scene with an MVA with PIN. 
+NYScanner	682944983666700288	2016-01-01T15:22:27	Queens: 109 Ave &amp; Merrick Blvd NYPD103Pct investigating after a 16 year old boy shot &amp; killed in the head last night.
+NYScanner	682811259616649216	2016-01-01T06:31:04	Bronx: 174 St &amp; Stratford Ave Crime scene being established in regards to 2 people shot, both victims being transported in Stable condition.
+NYScanner	682804155354902529	2016-01-01T06:02:51	Brooklyn: 730 Herkimer St Crime scene being established in regards to a male shot, EMS requested on a rush.
+NYScanner	682789147661201408	2016-01-01T05:03:13	As the year 2016 is here we would like to wish everyone a Happy New Year
+NYScanner	682740268026695680	2016-01-01T01:48:59	Brooklyn: 4821 14th Ave Crime scene being established in regards to a person stabbed, Aided being transported in serious condition.
+NYScanner	682729475839266816	2016-01-01T01:06:06	Brooklyn: Canarsie Road &amp; Ave N NYPD69pct calling a level 1 mobilization in regards to armed robbery at gunpoint by 1 m/b &amp; 1 m/h.
+NYScanner	682721125705592832	2016-01-01T00:32:55	Brooklyn: 637 East 8 St NYPD66Pct on scene reporting armed robbery at gunpoint, perp fled in a blue 2003 Pontiac, NY Plate HCN4202.
+NYScanner	682685326930919426	2015-12-31T22:10:40	U/D Brooklyn: Tompkins Ave &amp; Willoughby Ave Active Crime scene established in regards to a male &amp; female shot. 
+NYScanner	682680024508534784	2015-12-31T21:49:36	Brooklyn: Tompkins Ave &amp; Willoughby Ave Crime scene being established in regards to a female shot to the leg, Aided being transported by EMS

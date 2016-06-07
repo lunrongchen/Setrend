@@ -1,0 +1,240 @@
+PredictedMkts	725798670160023552	2016-04-28T21:27:42	A close Friday above 17685 would mark the 3rd  month of gains for the Dow. The Dow last rallied for 4 successive months in June 2014 stocks
+PredictedMkts	725745164044500992	2016-04-28T17:55:05	Thursday's 2.4% fall was the biggest drop seen in EUR/JPY since Tuesday 26 February 2013, 821 trading days earlier forex japan fx
+PredictedMkts	725740649140473857	2016-04-28T17:37:09	A close Friday below 1.2675 would mark the 5th week of losses for USD/CAD, and would be the 14th weekly fall seen in the last 15 weeks fx
+PredictedMkts	725730080081596416	2016-04-28T16:55:09	A close Friday above 0.7675 would mark the 6th monthly rally seen in AUD/USD in the last 7 months forex
+PredictedMkts	725725050008117248	2016-04-28T16:35:09	Thursday's 2.4% fall was the biggest drop seen in USD/JPY since Monday 24 August 2015, 176 trading days earlier forex fx
+PredictedMkts	725434458413891584	2016-04-27T21:20:27	Trading range in the Dow so far this week is 229 points (1.3%). The average 'full' weekly trading range so far in 2016 has been 3.2% stocks
+PredictedMkts	725391604127666176	2016-04-27T18:30:10	Tuesday's 0.5% range was narrowest daily range seen in FTSE since 24 December 2014. Average so far in 2016 has been 1.9%. ftse equities
+PredictedMkts	725365596838318084	2016-04-27T16:46:49	Wednesday's 1.9% fall was the biggest drop seen in AUD/USD since Monday 24 August 2015, 175 trading days earlier forex fx aud
+PredictedMkts	725075421948157952	2016-04-26T21:33:46	T-Notes have closed below the midpoint of the day's range for 7 days in a row. Run last extended on 23 June 2006, 2488 session ago tnotes
+PredictedMkts	725000757385285633	2016-04-26T16:37:05	EUR/USD has rallied for two days in a row, adding 0.7%. Run has extended to 3 days once in the 58 sessions since 4 February 2016 forex fx
+PredictedMkts	724844236407902208	2016-04-26T06:15:07	FTSE has closed below the previous day's low for 3 days in a row. The run last extended on 24 August 2015, 170 sessions ago stocks ftse
+PredictedMkts	724710250146881542	2016-04-25T21:22:42	Monday's 6 tick fall was the 6th day of losses for T-Notes. The run last extended on 5 May 2015, 246 trading days ago tnotes futures
+PredictedMkts	724637071705559041	2016-04-25T16:31:55	EUR/GBP has broken previous day's low for 6 days in a row. Run has extended to 7 days twice in 1239 sessions since 12 July 2011 forex fx
+PredictedMkts	724343424917233664	2016-04-24T21:05:04	Friday's 1.9% rally was the biggest gain seen in USD/JPY since Friday 29 January 2016, 60 trading days earlier forex yen japan
+PredictedMkts	724329255006527493	2016-04-24T20:08:46	S&amp;P futures have broken previous week's high for 10 weeks in a row. Run has extended four times in last decade, last on 2 Mar 2012 stocks
+PredictedMkts	724328807457546241	2016-04-24T20:06:59	USD/CAD has fallen for 13 of the last 14 weeks, dropping 12.8%, and ended Friday at the lowest weekly closing level in 42 weeks forex fx
+PredictedMkts	724328104110501892	2016-04-24T20:04:12	WTI has rallied for 9 of last 10 weeks, adding 50.3%, making this the biggest 10 week rally since 30 April 1999, 886 weeks earlier crude
+PredictedMkts	723458110707343362	2016-04-22T10:27:09	The Dow has posted a daily trading range of less than 1.0% for 7 days in a row. The run last extended 257 trading days ago equities Dow
+PredictedMkts	723188044283695104	2016-04-21T16:34:00	A close Friday above 1.4215 would mark 2nd consecutive week of gains for GBP/USD, and would be 6th weekly rally seen in last 8 weeks fx
+PredictedMkts	722897982094385152	2016-04-20T21:21:24	DAX has rallied for 8 of the last 9 days, adding 10.0%, making it the biggest 9 day gain since 7 Dec 2011, 1104 days earlier DAX stocks
+PredictedMkts	722826578728787968	2016-04-20T16:37:40	USD/CAD has fallen for 7 of the last 9 days, dropping 4.1%, making this the biggest 9 day fall in the 1688 sessions since 15 Oct 2009 fx
+PredictedMkts	722536076800229376	2016-04-19T21:23:19	EuroStoxx has rallied for 7 of the last 8 days, adding 9.4%, making it the biggest 8 day gain since 20 July 2015, 190 days earlier stocks
+PredictedMkts	722469311760240640	2016-04-19T16:58:01	The 1.6% drop in USD/CAD over Monday and Tuesday is biggest drop seen in opening 2 sessions of a week since 3 Feb 2015, 63 weeks ago forex
+PredictedMkts	722172770755485696	2016-04-18T21:19:40	The Dow rallied on Monday for 4th time in 5 days, ending at highest close since Monday 20 July 2015, 188 trading days earlier. stocks dow
+PredictedMkts	722101768528728065	2016-04-18T16:37:32	EUR/USD has rallied for 2 days in a row adding 0.5%. Run last extended to 3 days on Wednesday 3 February 2016, 54 trading days ago forex
+PredictedMkts	721939232168796160	2016-04-18T05:51:40	S&amp;P futures have broken the previous week's high for 9 weeks in a row. The run has extended to 10 weeks 4 times in the last decade stocks
+PredictedMkts	721939068070858752	2016-04-18T05:51:01	AUD/USD has rallied for 11 of last 13 weeks, adding 12.4%, making this biggest 13 week rally since 15 October 2010, 287 weeks earlier forex
+PredictedMkts	721938731373084672	2016-04-18T05:49:41	WTI has rallied for 8 of the last 9 weeks, adding 38.8%, making this the biggest 9 week rally since 20 March 2009, 369 weeks earlier crude
+PredictedMkts	720722259493654529	2016-04-14T21:15:51	Thursday's 0.6% rally was the 5th day of gains for DAX. The run last extended on 4 August 2015, 177 trading days ago dax equities futures
+PredictedMkts	720657631933652992	2016-04-14T16:59:03	A close Friday below 1.2995 would mark 12th weekly fall seen USD/CAD in the last 13 weeks forex loonie canada
+PredictedMkts	720654126158249985	2016-04-14T16:45:07	A close Friday above 0.7670 would mark the highest weekly close in AUD/USD for at least 43 weeks (since 19 June 2015) forex aussie audusd
+PredictedMkts	720651140363382789	2016-04-14T16:33:15	A close Friday below 1.1205 would make this the biggest weekly fall in EUR/USD for at least 23 weeks (since 6 November 2015) forex euro
+PredictedMkts	720360050246574080	2016-04-13T21:16:34	Wednesday was 3rd day in a row that EuroStoxx had closed above previous day's high. The run last extended in July last year stocks futures
+PredictedMkts	720289551990800385	2016-04-13T16:36:26	The 1.25 cent (-1.1%) fall seen in EUR/USD so far this week marks softest start to a week in 23 weeks since Wednesday 4 November 2015 forex
+PredictedMkts	720130672719867904	2016-04-13T06:05:06	Tuesday's 15+ tick fall was the 3rd day of losses for T-Notes. The run last extended on 30 April 2015, 240 trading days ago tnotes futures
+PredictedMkts	719927980001206274	2016-04-12T16:39:40	EUR/USD has finished each of the last 9 sessions within the 45 pip (0.4%) band between 1.1380 and 1.1425. forex fx euro
+PredictedMkts	719639933925785600	2016-04-11T21:35:05	FTSE futures have broken the previous day's high for 4 days in a row. Run last extended 24 December 2015, 73 trading days ago stocks ftse
+PredictedMkts	719615103381979136	2016-04-11T19:56:25	Monday was 7th day in a row that EUR/JPY had failed to break previous day's high. Run last extended on 14 May 2012, 1013 sessions ago forex
+PredictedMkts	719225584010862592	2016-04-10T18:08:36	The Dow has held the previous week's low for 8 weeks in a row. Run last extended to 9 weeks 314 weeks ago in April 2010 stocks dow usa
+PredictedMkts	719225243672387588	2016-04-10T18:07:15	USD/CAD has fallen for 11 of the last 12 weeks, dropping a total of 15.35 cents (-10.6%), ending at lowest weekly close for 25 weeks forex
+PredictedMkts	719224453998256128	2016-04-10T18:04:07	WTI has rallied for 7 of the last 8 weeks adding 36.3%, making this the biggest 8 week rally since 12 June 2009, 356 weeks earlier crude
+PredictedMkts	718185197532024836	2016-04-07T21:14:28	A close Friday above 131-30 would make this the biggest two week rally seen in T-Notes for at least 242 weeks (since 19 August 2011) tnotes
+PredictedMkts	718184799173767173	2016-04-07T21:12:54	A close Friday below 2885 would mark 4th week of losses for EuroStoxx futures. Run has extended to 5 weeks once in last 252 weeks stocks
+PredictedMkts	718121897830006784	2016-04-07T17:02:57	Thursday's 1.8% fall was the biggest drop seen in EUR/JPY since Tuesday 26 February 2013, 806 trading days earlier forex japan
+PredictedMkts	718120001065115649	2016-04-07T16:55:24	USD/JPY has fallen for 7 days in a row, dropping 4.7% has not fallen for 8 days in a row since Monday 12 Nov 2007, 2178 trading days ago fx
+PredictedMkts	717753802422620160	2016-04-06T16:40:16	EUR/GBP ended Wednesday at the highest closing level since Tuesday 10 June 2014, 472 trading days earlier forex brexit fx
+PredictedMkts	717459813945516032	2016-04-05T21:12:04	The Dow has fallen for 2 days in a row dropping 1.1%. Run last extended to 3 days on Tuesday 9 February 2016, 39 trading days ago stocks
+PredictedMkts	717396126446563328	2016-04-05T16:58:59	USD/CAD has rallied for 4 days in a row, adding 1.7%. Run last extended to 5 days on Friday 6 November 2015, 106 trading days ago forex
+PredictedMkts	717097440206307328	2016-04-04T21:12:07	DAX futures have fallen for 3 days in a row dropping 2.7%. Run last extended on Tuesday 9 February 2016, 38 trading days ago stocks
+PredictedMkts	717027801686220804	2016-04-04T16:35:24	USD/JPY has fallen for 4 days in a row, dropping 1.8%. Run last extended to 5 days on Thursday 7 January 2016, 63 trading days ago forex
+PredictedMkts	716736803579932675	2016-04-03T21:19:04	Last week's 1.5% gain was the 16th weekly rally in EUR/GBP in the last 19 weeks, over which it has added 1000 pips (+14.3%) forex
+PredictedMkts	716730761856942080	2016-04-03T20:55:04	S&amp;P futures have rallied for 6 of last 7 weeks adding 11.5%, making it the biggest 7 week gain in the 220 weeks since 13 Jan 2012 stocks
+PredictedMkts	716721592324243456	2016-04-03T20:18:38	AUD/USD has rallied for 10 of the last 11 weeks adding 11.7%, making this the biggest 11 week rally in the 282 weeks since 5 Nov 2010 forex
+PredictedMkts	715649911954530309	2016-03-31T21:20:09	S&amp;P futures end March up 133.75 points (+6.9%), ending a run of 3 months of losses over which S&amp;Ps had dropped 149.25 points (-7.2%) stocks
+PredictedMkts	715649154064781312	2016-03-31T21:17:09	EUR/GBP ended March up 1.5%. It was the 4th consecutive month of gains, over which EUR/GBP has added a total of 12.8% brexit forex
+PredictedMkts	715648694834618368	2016-03-31T21:15:19	The 5.25 cent (+4.8%) rally in EUR/USD in March was the biggest monthly gain in the 66 months since September 2010 forex euro
+PredictedMkts	715288963733405696	2016-03-30T21:25:53	With one day remaining, S&amp;P futures were showing a gain for March of 7.1%. S&amp;Ps had dropped 7.2% over the previous 3 months stocks futures
+PredictedMkts	715217414250700800	2016-03-30T16:41:34	A close Thursday above 1.1350 would make this the biggest monthly rally in EUR/USD for at least 66 months (since September 2010) forex
+PredictedMkts	714924989598793730	2016-03-29T21:19:34	T-Notes have rallied for 2 days in a row, adding 27+ ticks, making this the strongest start to a week in the 26 weeks since 29 Sept 2015 us
+PredictedMkts	714853023701450753	2016-03-29T16:33:36	USD/CAD has fallen for 3 days in a row, dropping 1.05 cents (-0.8%). Run has extended to 4 days on 3 occasions in the last 12 months forex
+PredictedMkts	714561888269508608	2016-03-28T21:16:44	S&amp;P futures have posted a daily trading range of less than 1.0% for 6 days in a row. The run last extended 172 trading days ago stocks us
+PredictedMkts	714493419855417344	2016-03-28T16:44:40	GBP/USD ends Monday 0.7% higher at 1.4245. Only once in the last 28 weeks has it added more than 0.6% over the first 2 days of the week fx
+PredictedMkts	714155055541125120	2016-03-27T18:20:08	The Dow has broken the previous week's high for 6 weeks in a row. The run last extended on 29 November 2013, 122 weeks ago stocks us dow
+PredictedMkts	714150806061187076	2016-03-27T18:03:15	WTI has rallied for 6 weeks in a row, adding $10.45 (+35.9%), making it the biggest 6 week gain in the 354 weeks since 12 June 2009 crude
+PredictedMkts	712757799227359232	2016-03-23T21:47:56	A close on Thursday above 9981.5 would mark the 6th consecutive week of gains for DAX futures. Run last extended 57 weeks ago stocks
+PredictedMkts	712697946689642496	2016-03-23T17:50:06	USD/JPY has rallied for 4 days in a row, adding 1.5%. Run last extended to 5 days on Wednesday 15 July 2015, 179 trading days ago forex
+PredictedMkts	712398292915789827	2016-03-22T21:59:23	The Dow has broken the previous day's high for 5 days in a row. Run last extended to 6 days on 22 October 2015, 104 trading days ago stocks
+PredictedMkts	712331867555553280	2016-03-22T17:35:26	EUR/USD has fallen for 3 days in a row, dropping 1.15 cents (-1.0%). Run last extended on Monday 4 January 2016, 57 trading days ago forex
+PredictedMkts	712033488866820097	2016-03-21T21:49:47	The Dow has rallied for 7 days in a row, adding 629 points (+3.7%). Run last extended on 12 March 2013, 762 trading days ago stocks
+PredictedMkts	711982820462338048	2016-03-21T18:28:27	Monday's 0.4% range was the narrowest range in EUR/USD in the first 56 sessions of 2016. Average daily range so far in 2016 is 1.0% forex
+PredictedMkts	711672609818202112	2016-03-20T21:55:47	S&amp;P futures have rallied for 5 weeks adding 10.1%, making this the biggest 5 week rally seen in the 228 weeks since 4 Nov 2011 stocks
+PredictedMkts	711672328833404933	2016-03-20T21:54:40	USD/CAD has fallen for 9 weeks in a row dropping 15.25 cents (-10.5%), making it the biggest 9 week fall in 355 weeks since 29 May 2009 fx
+PredictedMkts	711671857271988224	2016-03-20T21:52:47	WTI has rallied for 5 weeks in a row, adding $10.25 (+32.2%). Run last extended to 6 weeks in 24 April 2015, 48 weeks ago crude wti
+PredictedMkts	710586295576170496	2016-03-17T21:59:09	A close Friday below 128-08+ would make this the first 5 week fall in T-Note futures since 27 December 2013, 116 weeks ago tnotes futures
+PredictedMkts	710584244540719104	2016-03-17T21:51:00	A close on Friday above 3008 would make this the first 5 week rally in Eurostoxx futures since 20 March 2015, 52 weeks ago stocks futures
+PredictedMkts	710534691896500224	2016-03-17T18:34:06	A close Friday above 0.7575 would mark 9th week of gains for AUD/USD. Run last extended to 10 weeks on 14 November 2003, 644 weeks ago fx
+PredictedMkts	710522442159038464	2016-03-17T17:45:25	A close Friday above 1.4425 would mark 3rd week of gains for GBP/USD. Run last extended to 4 weeks on 2 May 2014, 98 weeks ago forex
+PredictedMkts	710220334260158464	2016-03-16T21:44:57	The Dow has rallied for 4 days in a row, adding 1.9%. Run has extended to 5 days twice in the 306 sessions since 26 December 2014 stocks
+PredictedMkts	710156280678260737	2016-03-16T17:30:26	AUD/USD has fallen for 3 days in a row, dropping 1.9%. Run has extended to 4 days once in the 122 sessions since 24 September 2015 forex
+PredictedMkts	709857450942468099	2016-03-15T21:42:59	Tuesday's trading range in Eurostoxx futures was 31 points, or 1.0%, the narrowest range seen in 97 days since Monday 26 Oct 2015 stocks
+PredictedMkts	709793863096000512	2016-03-15T17:30:18	This week has seen the biggest fall in GBP/USD on a Tuesday in the 307 weeks since Tuesday 27 April 2010 brexit fx forex
+PredictedMkts	709499062291189763	2016-03-14T21:58:52	The Dow has rallied for 8 of the last 10 days, adding a total of 4.3%. It ended Monday at the highest close since 31 December 2015 stocks
+PredictedMkts	709434321434775552	2016-03-14T17:41:37	GBP/USD finished Monday at the midpoint of the 9.80 cent (6.6%) range seen in the opening 51 sessions of 2016 forex fx cable
+PredictedMkts	709139260834779136	2016-03-13T22:09:09	S&amp;P futures have rallied for 4 weeks adding 160.5 points (+8.6%), the biggest 4 week rally in the 220 weeks since 23 December 2011 stocks
+PredictedMkts	709138683719458816	2016-03-13T22:06:52	AUD/USD has rallied for 8 weeks in a row adding 10.3%, making this the biggest 8 week rally in the 282 weeks since 15 October 2010 forex
+PredictedMkts	709138426700947456	2016-03-13T22:05:50	WTI has rallied for 4 weeks in a row, adding $9.36 (+32.2%), making it the biggest 4 week rally since 20 March 2009, 364 weeks earlier oil
+PredictedMkts	708057494384279553	2016-03-10T22:30:36	The trading range in the Dow so far this week is 1.8%. The average 'full' weekly trading range for first 9 weeks of 2016 has been 4.1% dow
+PredictedMkts	708053543111008257	2016-03-10T22:14:54	A close Friday below 129-05 would mark the 4th week of losses for T-Notes. Market last fell for 5 weeks on 27 Dec 2013, 115 wks ago tnotes
+PredictedMkts	707988173205282817	2016-03-10T17:55:08	A close Friday below 1.3335 would make this the first 8 week fall seen in USD/CAD since 8 May 2009, 357 weeks ago forex canada fx
+PredictedMkts	707984832140341253	2016-03-10T17:41:52	A close Friday above 0.7425 would make this the first 8 week rally seen in AUD/USD since 15 October 2010, 282 weeks ago forex fx
+PredictedMkts	707691528504909825	2016-03-09T22:16:23	The Dow has posted a daily trading range below 1.0% for 6 days in a row for the first time since 26 June 2015 stocks dow
+PredictedMkts	707620424906055681	2016-03-09T17:33:50	AUD/USD has rallied for 7 of the last 8 sessions, adding 5.5%, making this the biggest 8 day gain in the 1102 sessions since 5 Dec 2011 fx
+PredictedMkts	707257237975257088	2016-03-08T17:30:40	Tuesday was 9th day in a row that USD/CAD had broken the previous day's low. Run last extended on 7 November 2007, 2159 trading days ago fx
+PredictedMkts	707100702896734208	2016-03-08T07:08:39	Monday's rally in GBP/USD was 6th day of gains. Run last extended on 29 April 2014, 222 trading days ago fx forex brexit gbp
+PredictedMkts	706966850933035008	2016-03-07T22:16:46	The Dow has rallied for 5 days in a row, adding 3.4%. Run has extended to 6 days once in the 299 sessions since Friday 26 December 2014 dow
+PredictedMkts	706608055065014272	2016-03-06T22:31:03	Last week's 3.60 cent (+2.6%) rally in GBP/USD was the biggest weekly rally in the 333 weeks since 16 October 2009 forex gbp brexit
+PredictedMkts	706601518531637249	2016-03-06T22:05:04	FTSE futures have rallied for 3  weeks adding 8.6%, making this the biggest 3 week rally in 228 weeks since 21 October 2011 stocks futures
+PredictedMkts	706592707712585729	2016-03-06T21:30:04	WTI has rallied for 3 weeks in a row, adding $7.19 (+24.7%), making it the biggest 3 week rally since 28 Sept 1990, 1327 weeks ago crude
+PredictedMkts	705518236536848386	2016-03-03T22:20:30	The Dow has rallied for 3 days in a row, adding 2.6%. Run has extended to 4 days three times in the last 12 months, last on 7 Oct 2015 dow
+PredictedMkts	705457876706463744	2016-03-03T18:20:39	A close above 1.4155 would make this the biggest weekly rally seen in GBP/USD for at least 143 weeks (since 7 June 2013) brexit fx
+PredictedMkts	705284713410400257	2016-03-03T06:52:33	Wednesday's 39 point (1.3%) trading range was narrowest  in Eurostoxx futures so far in 2016. Average so far this year has been 2.8% stocks
+PredictedMkts	705157326014128128	2016-03-02T22:26:22	The trading range in S&amp;P futures on Wednesday was 0.9%, the narrowest trading range seen in the 44 sessions since 28 December 2015 stocks
+PredictedMkts	705094417582002176	2016-03-02T18:16:23	GBP/USD has rallied for 3 days in a row adding 1.4%. Run last extended to 4 days on Tuesday 14 July 2015, 165 trading days ago forex fx
+PredictedMkts	704794901993676801	2016-03-01T22:26:13	Tuesday's 2.6% rally was the 2nd biggest rally seen in S&amp;P futures in the 128 sessions since Wednesday 26 August 2015 stocks futures
+PredictedMkts	704726681978667011	2016-03-01T17:55:08	The 110 pip (-1.4%) fall in EUR/GBP over Monday and Tuesday marks the softest start to a week in the 33 weeks since 14 July 2015 brexit fx
+PredictedMkts	704721842326642690	2016-03-01T17:35:54	USD/CAD has fallen for 5 days in a row 2.8%. Run has extended to 6 days once in the 672 sessions since Thursday 25 July 2013 forex fx cad
+PredictedMkts	704431166301016065	2016-02-29T22:20:52	S&amp;P futures have fallen for 3 months in a row, dropping 7.2%. Market last fell for 4 successive months in Sept 2011, 54 months ago stocks
+PredictedMkts	704359016122720256	2016-02-29T17:34:10	GBP/USD ended February down -1.8%. GBP/USD has fallen for 16 of the last 20 months, dropping a total of 31.80 cents (-18.6%) brexit fx
+PredictedMkts	704071124175335425	2016-02-28T22:30:11	A close on Monday below 115.20 would make this the biggest monthly drop seen in USD/JPY for at least 88 months (since October 2008) forex
+PredictedMkts	704066575049949184	2016-02-28T22:12:07	Last week's 3.3% drop was the biggest weekly fall in GBP/USD in the 303 weeks since 7 May 2010 brexit forex fx
+PredictedMkts	704052076309929984	2016-02-28T21:14:30	FTSE futures have rallied for 2 weeks in a row adding 6.5%, making it the biggest 2 week rally in the 220 weeks since 9 Dec 2011 brexit
+PredictedMkts	704051198236688385	2016-02-28T21:11:00	Last week's 10.1% rally was the 2nd biggest weekly gain seen in WTI in the 261 weeks since 25 February 2011 crude oil futures
+PredictedMkts	702981761958019072	2016-02-25T22:21:27	The Dow has rallied for two days in a row, adding 1.6%. The sequence of rallies has extended to 3 days once so far in 2016 stocks
+PredictedMkts	702917280204652545	2016-02-25T18:05:13	A close Friday above 0.7125 would mark 6th consecutive week of gains for AUD/USD. Run has extended to 7 weeks twice since May 2008 forex
+PredictedMkts	702910945190932480	2016-02-25T17:40:03	A close on Friday below 1.3970 would make this the biggest weekly fall in GBP/USD for at least 303 weeks (since 7 May 2010) fx brexit
+PredictedMkts	702619478123814912	2016-02-24T22:21:52	S&amp;P futures finished Wednesday matching the highest closing level seen in the 32 sessions since Thursday 7 January 2016 stocks futures
+PredictedMkts	702549299608031232	2016-02-24T17:43:00	GBP/USD has fallen for 3 days in a row dropping 2.8%, making it the biggest 3 day fall since 13/17 May 2010 (1497 trading days) brexit fx
+PredictedMkts	702256431756660738	2016-02-23T22:19:15	Tuesday's trading range was 1.2%, the narrowest trading range seen in FTSE futures so far in 2016 stocks coiled breather
+PredictedMkts	702187526270746626	2016-02-23T17:45:26	The 2.1% drop in GBP/USD over Monday and Tuesday marks the softest start to a week since 19/20 January 2009, 370 weeks ago forex brexit
+PredictedMkts	701898040408305664	2016-02-22T22:35:08	This week has seen the biggest rally in the Dow on a Monday (+1.4%) since 5 October 2015, 20 weeks ago stocks dow
+PredictedMkts	701824238412496898	2016-02-22T17:41:52	EUR/USD dropped 1.0% on Monday. Only once in last 32 weeks has it fallen more than a total of 1.1% over Monday and Tuesday forex euro fx
+PredictedMkts	701551756048601088	2016-02-21T23:39:07	AUD/USD has rallied for 5 weeks in a row, adding 3.8%. Run last extended to 6 weeks on 29 April 2011, 252 weeks ago forex fx aussie
+PredictedMkts	701522309027340288	2016-02-21T21:42:06	Last week's 6.8% rally was 5th biggest weekly gain seen in the Nikkei since Dec 2008, and was biggest weekly gain for 68 weeks stocks
+PredictedMkts	701521530149330944	2016-02-21T21:39:01	USD/JPY has fallen for 3 weeks in a row, dropping 7.2%, making this the biggest 3 week fall seen in the 382 weeks since 24 October 2008 fx
+PredictedMkts	700451021730877440	2016-02-18T22:45:11	A close above 16587 would make this the biggest weekly rally in the Dow for at least 220 weeks (since 2 December 2011) stocks dow
+PredictedMkts	700375173187399683	2016-02-18T17:43:48	USD/CAD has broken the low from the previous session for 5 days in a row. Run last extended on 12 December 2012, 824 trading days ago forex
+PredictedMkts	700202348883238913	2016-02-18T06:17:03	The 4.6% rally in DAX futures so far this week marks the strongest start to a week 30 November 2011, 220 weeks ago stocks dax germany
+PredictedMkts	700081493641711616	2016-02-17T22:16:49	The Dow ended the Wednesday 26 points above the midpoint of the 1954 point (11.2%) trading range seen so far in 2016 stocks dow
+PredictedMkts	700012417493893120	2016-02-17T17:42:20	USD/JPY has posted a daily trading range of more than 1.0% for 8 days in a row. Run last extended to 9 days on 7 June 2013, 698 days ago fx
+PredictedMkts	699858631244718080	2016-02-17T07:31:15	The 2.8% rally in FTSE futures over Monday and Tuesday marks the strongest start to a week in the 193 weeks since 7 June 2012 stocks
+PredictedMkts	699718796118990848	2016-02-16T22:15:35	Tuesday's 1.4% rally represents the strongest opening session in a week for the Dow since 5 October 2015, 19 weeks ago stocks dow us
+PredictedMkts	699653235422863360	2016-02-16T17:55:04	GBP/USD has fallen for two days in a row, dropping 1.2%, making this the softest start to a week in the 21 weeks since 22 Sept 2015 forex
+PredictedMkts	699347655714066433	2016-02-15T21:40:49	FTSE futures have rallied for two days in a row adding 4.4%, making it biggest 2 day rally in 118 sessions since 27 August 2015 stocks
+PredictedMkts	699285990750429186	2016-02-15T17:35:46	This week has seen the biggest rally in USD/JPY on a Monday since 3 November 2014, 67 weeks ago forex fx japan yen
+PredictedMkts	698960681253474304	2016-02-14T20:03:07	WTI finished Friday at the lowest weekly closing level in the 646 weeks since 26 September 2003 wti crude oil futures
+PredictedMkts	698952404239147009	2016-02-14T19:30:13	Last week's 5.5% rally was the biggest weekly gain in Gold in the 224 weeks since 28 October 2011 gold trading
+PredictedMkts	698948598189305857	2016-02-14T19:15:06	Last week's 11.1% fall was the biggest weekly drop in the Nikkei in the 381 weeks since the week ending 24 October 2008 stocks japan
+PredictedMkts	697908481614090240	2016-02-11T22:22:03	FTSE futures finished Thursday at the lowest closing level in the 898 sessions since Wednesday 25 July 2012 ftse uk stocks futures
+PredictedMkts	697908167804653569	2016-02-11T22:20:48	The Dow finished Thursday at the lowest closing level in the 507 sessions since Thursday 6 February 2014 stocks dow us
+PredictedMkts	697837978257899520	2016-02-11T17:41:53	USD/JPY has fallen for 8 of the last 9 days dropping 7.8%, making this the biggest 9 day fall since Monday 27 October 2008 forex japan
+PredictedMkts	697550704651669505	2016-02-10T22:40:22	S&amp;P futures have fallen for 5 days in a row, dropping 65.75 points (-3.3%). Run has extended to 6 days five times since October 2008 stocks
+PredictedMkts	697474147652395008	2016-02-10T17:36:09	USD/JPY had fallen for 7 of  last 8 sessions, dropping 5.8%, making this the biggest 8 day fall in the 687 sessions since 14 June 2013 fx
+PredictedMkts	697182424409755648	2016-02-09T22:16:57	DAX futures finished Tuesday at the lowest closing level in the 326 sessions since Wednesday 22 October 2014 futures dax stocks Germany
+PredictedMkts	697182139490639872	2016-02-09T22:15:49	S&amp;P futures ended Tuesday at the lowest closing level in the 459 sessions since Tuesday 15 April 2014 stocks futures
+PredictedMkts	697114664879190016	2016-02-09T17:47:42	The 1.85 cent (+1.7%) rally in EUR/USD over Monday and Tuesday marks the strongest start to a week in the 282 weeks since 14 Sept 2010 fx
+PredictedMkts	696824613444124674	2016-02-08T22:35:08	FTSE futures finished Monday at the lowest closing level in the 814 sessions since Friday 16 November 2012 stocks futures
+PredictedMkts	696824244739665925	2016-02-08T22:33:40	This week has seen the biggest rally in T-Notes on a Monday (and the strongest start to a week) since 6 July 2015, 31 weeks ago tnotes
+PredictedMkts	696754639375433729	2016-02-08T17:57:05	EUR/GBP has rallied for 4 days in a row, adding 2.2%. Run has extended to 5 days once in the last 587 sessions forex gbp euro trading
+PredictedMkts	696751181469720577	2016-02-08T17:43:21	USD/JPY ended Monday at the lowest closing level in the 318 sessions since Thursday 13 November 2014 forex japan
+PredictedMkts	696464742215319552	2016-02-07T22:45:08	AUD/USD has rallied for 3 weeks in a row, 3.2%. The sequence of weekly gains has extended to 4 weeks twice in the last 169 weeks forex aud
+PredictedMkts	696462684183777280	2016-02-07T22:36:58	S&amp;P futures finished Friday only 1.2% above the lowest closing level seen in the 330 sessions since 15 October 2014 stocks futures
+PredictedMkts	696461947043237888	2016-02-07T22:34:02	The 10.5% rally seen in Gold in the opening 5 weeks of 2016 is the biggest five week gain in the 230 weeks since 9 September 2011 gold
+PredictedMkts	695375219049955331	2016-02-04T22:35:46	DAX futures finished Thursday at lowest closing level seen in front month contract in 285 sessions since 15 December 2014 stocks europe
+PredictedMkts	695300671449518080	2016-02-04T17:39:32	A close on Friday above 1.1180 would make this the biggest weekly rally in EUR/USD for at least 350 weeks (since 22 May 2009) forex euro
+PredictedMkts	695024722375892994	2016-02-03T23:23:01	The Dow finished Wednesday 91 points (0.6%) below the midpoint of the 1954 point (12.6%) trading range seen so far in 2016 stocks
+PredictedMkts	694937892150448128	2016-02-03T17:37:59	The 2.6% drop in USD/JPY over the opening 3 sessions of the week marks the softest start to a week since 10 August 2011, 234 weeks ago fx
+PredictedMkts	694661332528816128	2016-02-02T23:19:02	FTSE futures have fallen 4.0% so far this week, making it the softest start to a week since 2 November 2011, 222 weeks ago stocks ftse
+PredictedMkts	694652801289293825	2016-02-02T22:45:08	This week has seen the biggest rally in T-Notes on a Tuesday since 25 October 2011, 223 weeks ago tnotes fixedincome futures
+PredictedMkts	694645975231696896	2016-02-02T22:18:01	The 1.9% drop seen in the Dow over Monday and Tuesday marks the softest start to a week since 25 August 2015, 23 weeks ago stocks dow
+PredictedMkts	694577494113030145	2016-02-02T17:45:53	GBP/USD has rallied for 2 days in a row, adding 1.6%. Run has extended to 3 days once in the 95 sessions since Friday 18 September 2015 fx
+PredictedMkts	694320628678139904	2016-02-02T00:45:12	Monday was the 2nd day in a row that the Dow had broken previous day's high. Run has extended to 3 days once in last 40 sessions stocks
+PredictedMkts	694211986113073152	2016-02-01T17:33:29	EUR/JPY has rallied for 8 days in a row, adding 3.8%. Run has extended to 9 days four times since the Euro was launched forex japan euro
+PredictedMkts	693920470328938496	2016-01-31T22:15:07	GBP/USD fell 3.8% in January,  the biggest monthly fall in 35 months since February 2013 and lowest monthly close since February 2002 forex
+PredictedMkts	693915918687047680	2016-01-31T21:57:02	January's 2.5% trading range in EUR/USD was the narrowest monthly trading range in the 14 months since November 2014 forex coiled trading
+PredictedMkts	693904587808346112	2016-01-31T21:12:00	Friday's 3.0% rally was the biggest daily gain seen in FTSE futures since the 3.3% rally of 6 June 2012, 924 sessions earlier stocks
+PredictedMkts	693900532700831744	2016-01-31T20:55:53	WTI has posted a weekly trading range above 10% for 4 weeks in a row for first time in the 297 weeks since 29 May 2010 crude wti futures
+PredictedMkts	692833302961528833	2016-01-28T22:15:06	A close Friday below 10729 would mark 2nd month of losses for DAX futures. Mkt last fell for 3 months in Sept 2011, 52 months ago stocks
+PredictedMkts	692767206803951617	2016-01-28T17:52:27	A close Friday below 1.4530 would mark the lowest monthly close in GBP/USD for at least 82 months (since March 2009) forex cable fx
+PredictedMkts	692478461609283584	2016-01-27T22:45:05	The Dow has posted a daily net change of at least 1.0% (a rally or a fall) for 4 consecutive days for the first time in 104 days stocks
+PredictedMkts	692405479931146242	2016-01-27T17:55:05	EUR/JPY has rallied for 5 days in a row adding 1.8%. Run has extended to 6 days once in the 556 sessions since Monday 2 December 2013 forex
+PredictedMkts	692110284115308549	2016-01-26T22:22:05	Eurostoxx futures have rallied for 3 of last 4 days adding 4.8%, making this biggest 4 day rally since 26 October 2015 (62 days) stocks
+PredictedMkts	692037703110676481	2016-01-26T17:33:40	EUR/JPY has rallied for 4 days in a row adding 1.2%. Run last extended to 5 days on Friday 11 September 2015, 96 trading days ago forex
+PredictedMkts	691749956273569792	2016-01-25T22:30:16	S&amp;P futures dropped 1.5% Monday. It is 21 weeks since mkt last posted a fall over the first 2 sessions of week of more than 2.13% stocks
+PredictedMkts	691678515058589697	2016-01-25T17:46:23	Only once in last 16 weeks has EUR/USD posted net gain over opening 2 days of week of more than 25 pips, equivalent this week of 1.0840 fx
+PredictedMkts	691383755953410048	2016-01-24T22:15:07	Friday's 2.8% rally was the biggest daily gain seen in FTSE futures  since Wednesday 6 June 2012, 919 sessions earlier stocks futures uk
+PredictedMkts	691376197767286784	2016-01-24T21:45:05	USD/CAD fell on Thursday and Friday last week, dropping 3.0% making it the biggest two day fall since 14/15 July 2009 forex canada fx
+PredictedMkts	691371156591345664	2016-01-24T21:25:03	USD/JPY has broken the previous week's low for 7 consecutive weeks. This sequence has extended to 8 weeks twice in the last decade forex
+PredictedMkts	690296599264661504	2016-01-21T22:15:09	A close Friday below 1876.5 would make this first 4 week fall in S&amp;P futures in 66 weeks since 17 October 2014 stocks futures
+PredictedMkts	690231403280109568	2016-01-21T17:56:05	GBP/USD finished Thursday higher only after posting a new 1772 session low at 1.4080, the lowest trade since Thursday 19 March 2009 forex
+PredictedMkts	690226673753677824	2016-01-21T17:37:17	Thursday's 2.4% fall was the biggest drop in USD/CAD since Thursday 19 March 2009, 1772 trading days ago forex fx canada
+PredictedMkts	689936994387021826	2016-01-20T22:26:12	S&amp;P futures have fallen for 11 of the last 14 sessions, dropping 10.7%, making this the biggest 14 day fall since 19 August 2011 stocks
+PredictedMkts	689863732529401857	2016-01-20T17:35:05	EUR/USD has ended 9 of the last 10 sessions within the 70 pip band between 1.0835 and 1.0905 forex trading eyeofthestorm
+PredictedMkts	689572221367521280	2016-01-19T22:16:43	The Dow ended Tuesday 0.2% higher at 16016. For 9 of the last 11 weeks the Dow has ended the week below Tuesday's closing level stocks
+PredictedMkts	689506386355486720	2016-01-19T17:55:07	EUR/GBP ended Tuesday at the highest closing level in the 262 sessions since Wednesday 14 January 2015 forex eur gbp fx
+PredictedMkts	689501112085409792	2016-01-19T17:34:10	AUD/USD has rallied for two days in a row, adding 1.0%. Run last extended on Wednesday 7 October 2015, 73 trading days ago forex fx aus
+PredictedMkts	689199481322098688	2016-01-18T21:35:35	FTSE futures finished Monday at the lowest closing level in the 799 sessions since Friday 16 November 2012 stocks ftse
+PredictedMkts	689137914895331328	2016-01-18T17:30:57	GBP/USD finished Monday at the lowest closing level since Monday 30 March 2009, 1762 sessions earlier forex cable fx
+PredictedMkts	688809279403393025	2016-01-17T19:45:04	Friday's 4.1% fall was the biggest drop in DAX futures on a Friday since Friday 14 November 2008, 374 weeks earlier stocks germany euro
+PredictedMkts	688805556908249089	2016-01-17T19:30:16	EUR/USD has finished 6 of the last 7 weeks within the 1.20 cent (1.1%) band between 1.0845 and 1.0965 forex fx trading
+PredictedMkts	688801735540789248	2016-01-17T19:15:05	S&amp;P futures ended Friday only 6 points above lowest closing level seen in front month contract in 315 sessions since 16 October 2014 stocks
+PredictedMkts	688799209869320193	2016-01-17T19:05:03	USD/JPY has fallen for 4 weeks in a row, dropping 3.7%. Run last extended to 5 weeks on 27 November 2009, 321 weeks ago forex japan fx
+PredictedMkts	687759439563198464	2016-01-14T22:13:23	The Dow posted a new 71 session low on Thursday, then rallied to end the day with a gain of 1.4%, the biggest rally for 27 sessions stocks
+PredictedMkts	687704999363657729	2016-01-14T18:37:03	Close Friday above 0.7495 would mark 8th consecutive week of gains for EUR/GBP. Run has not extended to 9 weeks since Euro was launched fx
+PredictedMkts	687689632700588032	2016-01-14T17:35:59	EUR/JPY ends Thurs within 20 pips of midpoint of 1.1% range seen this week. Average 'full' weekly trading range for last 52 wks is 2.4% fx
+PredictedMkts	687412583440060416	2016-01-13T23:15:06	S&amp;P futures finished Wednesday only 12.5 points above lowest closing level seen in 313 sessions since Thursday 16 October 2014 stocks
+PredictedMkts	687406828733509633	2016-01-13T22:52:14	FTSE futures finished Wednesday at the lowest closing level seen in the 789 sessions since Tuesday 27 November 2012 stocks ftse uk
+PredictedMkts	687326387917746176	2016-01-13T17:32:35	It is 11 weeks since USD/CAD last ended the week more than 45 pips below Wednesday's closing level forex canada supported
+PredictedMkts	687040128208928768	2016-01-12T22:35:05	DAX futures have rallied for 2 days in a row adding 293.5 points (+3.0%), making this strongest start to a week for 18 weeks stocks euro
+PredictedMkts	687007739512492032	2016-01-12T20:26:23	EUR/USD finished Tuesday within 5 pips of the midpoint of the 2.60 cent (2.4%) trading range seen in the opening 7 sessions of 2016 forex
+PredictedMkts	686673926295023616	2016-01-11T22:19:56	S&amp;P futures have fallen for 4 days in a row, dropping 97.75 points (-4.9%). Run has extended to 5 days twice in the last 12 months stocks
+PredictedMkts	686601239384162305	2016-01-11T17:31:06	USD/JPY has fallen for 7 days in a row, dropping 2.6%. Run has extended to 8 days once in the 2513 sessions since Monday 1 May 2006 forex
+PredictedMkts	686331201225789440	2016-01-10T23:38:04	AUD/USD finished Friday only 60 pips above the lowest weekly closing level in the 354 weeks since 27 March 2009 forex fx australia
+PredictedMkts	686316111747362817	2016-01-10T22:38:06	GBP/USD finished Friday at the lowest closing level in the 1448 sessions since Tuesday 8 June 2010 forex cable gbp trading
+PredictedMkts	686307801858113536	2016-01-10T22:05:05	Last week's 6.2% drop in the Dow was 2nd biggest weekly fall seen in 378 weeks since 18.2% weekly fall of week ending 10 Oct 2008 stocks
+PredictedMkts	686301020234858496	2016-01-10T21:38:08	USD/JPY has fallen for 3 weeks in a row, dropping 2.9%. Run of weekly falls has extended to 4 weeks once in 181 weeks since 20 July 2012 fx
+PredictedMkts	686300686015946752	2016-01-10T21:36:49	WTI finished Friday at the lowest weekly closing level in the 622 weeks since 6 February 2004 crude oil futures
+PredictedMkts	685223861642735616	2016-01-07T22:17:54	The 5.2% drop in the Dow in the first 4 sessions of the week is biggest drop seen in the first 4 sessions of any week for 224 weeks stocks
+PredictedMkts	685223533476200448	2016-01-07T22:16:35	Thursday's 2.6% fall was the 4th biggest drop seen in S&amp;P futures in the last 12 months (and was biggest fall for 88 sessions) stocks
+PredictedMkts	685167040991084544	2016-01-07T18:32:07	A close on Friday below 1.4645 would mark the lowest weekly close in GBP/USD for at least 290 weeks (since 11 June 2010) forex cable fx
+PredictedMkts	685151864480989184	2016-01-07T17:31:48	USD/JPY has fallen for 5 days in a row dropping 2.2%. Run of falls has extended to 6 days once in the last 50 months (since Nov 2011) forex
+PredictedMkts	685000462064431106	2016-01-07T07:30:11	The 4.8% drop seen in Eurostoxx futures so far this week marks the softest start to a week for 215 weeks (since 23 November 2011) stocks
+PredictedMkts	684879681053589504	2016-01-06T23:30:15	The 1.67 point rally in Bunds so far this week marks the strongest start to a week in 25 weeks futures europe fixedincome
+PredictedMkts	684864601834405888	2016-01-06T22:30:19	Only once in the last 10 weeks have S&amp;P futures ended the week more than 5 points above Wednesday's closing level futures stocks us
+PredictedMkts	684804400330608640	2016-01-06T18:31:06	Only once in the last 12 weeks has EUR/USD ended the week more than 20 pips above Wednesday's closing level forex fx euro pressure
+PredictedMkts	684789167218421761	2016-01-06T17:30:34	GBP/USD finished Wednesday at the lowest closing level in the 1443 sessions since Friday 11 July 2010 forex cable gbpusd
+PredictedMkts	684505945838206976	2016-01-05T22:45:09	T-Notes have rallied for 4 days in a row, adding 21+ ticks. Run has extended to 5 days once in the last 181 sessions futures tnotes
+PredictedMkts	684500295733395457	2016-01-05T22:22:42	DAX futures have fallen for 3 days in a row, dropping 4.8%. The run last extended to 4 days on 20 August 2015, 95 trading days ago stocks
+PredictedMkts	684141191630327809	2016-01-04T22:35:45	The Dow has fallen for 3 days in a row, dropping 3.2%. Run last extended to 4 days on Friday 21 August 2015, 93 trading days ago stocks
+PredictedMkts	684075596209471488	2016-01-04T18:15:06	USD/CAD finished Monday only 20 pips below the highest closing level seen in the 3206 sessions since Wednesday 27 August 2003 canada forex
+PredictedMkts	684070566072987649	2016-01-04T17:55:07	GBP/USD finished Monday at the lowest closing level since Monday 13 April 2015, exactly 38 weeks earlier forex trading sterling
+PredictedMkts	684067250224140288	2016-01-04T17:41:56	This week has seen the biggest drop in USD/JPY on a Monday in the 19 weeks since 24 August 2015 forex japan
+PredictedMkts	683774857587245056	2016-01-03T22:20:04	EUR/GBP has rallied for 6 weeks in a row, adding 5.0%. Run has extended to 7 weeks twice in the history of the Euro forex fx
+PredictedMkts	683773761003372545	2016-01-03T22:15:43	USD/CHF ended Dec with a loss for the month of 2.60 cents (-2.5%), ending a run of 5 months of gains over which it had added 10.0% forex
+PredictedMkts	683772283920498688	2016-01-03T22:09:51	December's 2.0% drop in GBP/USD was 14th monthly fall in the last 18 months (and the lowest close for 9 months) forex fx
+PredictedMkts	683771962682961920	2016-01-03T22:08:34	The Y2.95 (-2.4%) drop in USD/JPY in December was the biggest monthly drop in the 23 months since January 2014 forex fx trading
+PredictedMkts	683771701155512321	2016-01-03T22:07:32	December's 5.6% drop was the 2nd biggest monthly fall seen in DAX futures in the 43 months since May 2012 stocks futures
+PredictedMkts	683771442111102977	2016-01-03T22:06:30	T-Notes have fallen for 3 weeks in a row, dropping a total of 1-11+ points. Run last extended to 4 weeks on 13 Dec 2013, 108 weeks futures
+PredictedMkts	681527442884968448	2015-12-28T17:29:39	Monday was 6th day in a row that AUD/USD held previous day's low. Run has extended to 7 days once in 442 sessions since 14 April 2014 fx
+PredictedMkts	681249468956553216	2015-12-27T23:05:05	EUR/GBP has rallied for 5 weeks in a row, adding 4.5%. The sequence of weekly gains has extended to 6 weeks five times in history forex
+PredictedMkts	681240676999143428	2015-12-27T22:30:08	Last week's 2.8% rally in S&amp;P futures ended a run of 3 weeks of losses and was the 4th biggest weekly gain of 2015 stocks futures
+PredictedMkts	681238133896118273	2015-12-27T22:20:02	USD/CAD has fallen for 3 days in a row dropping 1.0%. Run has extended to 4 days once in the 188 sessions since Monday 6 April 2015 fx
+PredictedMkts	681236885272805376	2015-12-27T22:15:04	T-Notes have fallen for 2 weeks in a row, dropping 1-03 points. Run has extended to 3 weeks once in 44 weeks since 30 February 2015 futures
+PredictedMkts	681188401442324480	2015-12-27T19:02:25	Last week's 10.0% rally was the 2nd biggest weekly gain seen in WTI in the 252 weeks since 25 February 2011 crude oil futures
+PredictedMkts	679788728156577793	2015-12-23T22:20:37	A close on Thursday above 17787 would make this the biggest weekly rally in the Dow for at least 212 weeks (since 2 December 2011) stocks
+PredictedMkts	679722911607820289	2015-12-23T17:59:05	Wednesday was the first time for 20 sessions that USD/CAD had ended the session beneath the previous day's low forex canada
+PredictedMkts	679720166117216256	2015-12-23T17:48:10	Wednesday's 1.3% fall was the 6th biggest drop seen in EUR/GBP so far in 2015, and was the biggest fall since Thursday 22 October forex
+PredictedMkts	679439796570161152	2015-12-22T23:14:05	S&amp;P futures have rallied for 2 days in a row adding 2.0%, making this strongest start to a week since 3 February 2015, 46 weeks ago stocks
+PredictedMkts	679370837208600578	2015-12-22T18:40:04	EUR/GBP has rallied for 3 days in a row adding 2.0%. Run has extended to 4 days once in the 167 sessions since Friday 1 May 2015 forex fx
+PredictedMkts	679355501197533184	2015-12-22T17:39:07	The 1.30 cent (+1.2%) rally seen in EUR/USD over Monday and Tuesday marks the strongest start to a week for 28 weeks forex fx
+PredictedMkts	679067590786875393	2015-12-21T22:35:04	Eurostoxx futures have fallen for 3 days in a row, dropping 2.3%. Run has extended to 4 days once in the last 85 sessions stocks

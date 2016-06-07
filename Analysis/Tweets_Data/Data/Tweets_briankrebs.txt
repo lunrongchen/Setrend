@@ -1,0 +1,240 @@
+briankrebs	725736736203149313	2016-04-28T17:21:36	wyldtek my pleasure. was great. I got to meet all 200 attendees! got lots of business cards and "hope you never need to use that" comments
+briankrebs	725711532303212544	2016-04-28T15:41:27	American Dental Association mails malware to thousands of dentists  rootcanal
+briankrebs	725691674358329347	2016-04-28T14:22:32	"Wishing without work is like fishing without bait. -- Frank Tyger" &lt; so true. or did he mean phishing...
+briankrebs	725069412848537601	2016-04-26T21:09:53	m0rb are you using FF by chance?
+briankrebs	725046350182813696	2016-04-26T19:38:15	yes. i'm aware some people are experiencing problems accessing the site, thanks.
+briankrebs	725029931672047619	2016-04-26T18:33:00	RT TripwireInc: Missed briankrebs talk? No worries. Key points here SecuringRetail RetailCISC 
+briankrebs	725043323757535233	2016-04-26T19:26:13	Ever wondered how crooks steal credit card CVV codes when merchants are forbidden to store this info? 
+briankrebs	725042764958801920	2016-04-26T19:24:00	posledniy_geroy my impressions is there may be multiple actors claiming to be Armada
+briankrebs	724695671526285312	2016-04-25T20:24:46	Cloudflare says organizations paid &gt;$100k to fake Armada Collective group that aparently hasn't DDoS'd anyone 
+briankrebs	723150456147611648	2016-04-21T14:04:38	Better late than never...Apple posts KB article acknowledging that Quicktime for Windows is no longer supported 
+briankrebs	722943918032232448	2016-04-21T00:23:56	SpyEye Botnet Kit Makers Get a Combined 24 years in Prison 
+briankrebs	722408268967120896	2016-04-19T12:55:27	sroberts 0rann1s selenakyle hacks4pancakes ydklijnsma aye. i was following two of those, thanks for the other two :)
+briankrebs	722407213151744000	2016-04-19T12:51:15	ASolopreneur thanks but i don't do guest posts.
+briankrebs	722070573233410048	2016-04-18T14:33:34	ftp_alun couldn't agree more. transparency has never been Apple's thing WRT security, and still isn't.
+briankrebs	722061788683104256	2016-04-18T13:58:40	US-CERT says Windows users should ditch Quicktime; QT browser plugin has been gone since Jan 2016 update 
+briankrebs	720750047248388096	2016-04-14T23:06:16	eileenfilmus I don't know. If you find them, please tell me :)
+briankrebs	720624637944705024	2016-04-14T14:47:56	briankrebs   For your entertainment.
+briankrebs	720625149175808001	2016-04-14T14:49:58	MalwareTechBlog maybe. he was helping a lot of gangs that were robbing Russian banks, and they tend not to have a sense of humor about that
+briankrebs	720623690606632960	2016-04-14T14:44:11	Blackhole Exploit Kit author Dmitry "Paunch" Fedotov gets 8 years in a Russian penal colony 
+briankrebs	720038276711718912	2016-04-12T23:57:57	programmersamad ah yes. did you read the story? that's pretty clear if you read it.
+briankrebs	719934767437869056	2016-04-12T17:06:38	hydrajump thanks, that's helpful
+briankrebs	719910373772652545	2016-04-12T15:29:43	Researchers build evil network that can change your iPad's date to 1/1/1970, bricking the device 
+briankrebs	719879018372317184	2016-04-12T13:25:07	unsynchronized follow for DM please thanks.
+briankrebs	718450439591698433	2016-04-08T14:48:27	Adobe patches zero-day Flash threat. Patch it or pitch it, people! 
+briankrebs	718086988411314181	2016-04-07T14:44:14	Kashthefl0w where is that from? what's the source of that data?
+briankrebs	718086722274373632	2016-04-07T14:43:10	FBI: $2.3 Billion Lost to CEO fraud emails since 2013 
+briankrebs	717870234871398400	2016-04-07T00:22:56	After tax fraud spike, payroll firm stops allowing people to log in with just their SSN and DOB 
+briankrebs	717157575612047360	2016-04-05T01:11:04	MikaelThalen nope sorry
+briankrebs	717074460579393536	2016-04-04T19:40:48	briankrebs  Said Trump, "We're going to build a massive firewall, and China is going to pay for it."
+briankrebs	717075770066083840	2016-04-04T19:46:00	briankrebs Let me tell you about encryption. I can say I don't know a whole lot about encryption, but we're gonna have the best encryption…
+briankrebs	717073922848632832	2016-04-04T19:38:40	Exclusive: Banking industry sources say Trump Hotel Collection dealing w/ 2nd credit card breach in a year 
+briankrebs	716802009706446848	2016-04-04T01:38:11	Wh1t3Rabbit CISO_Advantage JMP_EBP MackAvery97 sitting on it?  Moi? ewwww. Never!
+briankrebs	716729995100610560	2016-04-03T20:52:01	JMP_EBP Wh1t3Rabbit MackAvery97 purple couch, baby
+briankrebs	714432633720188929	2016-03-28T12:43:08	Ah thanks for the non-optional lack of overpriced, slow internet for six hours, United! Third time in a year. Bravo.
+briankrebs	714429545231880192	2016-03-28T12:30:51	OferRahat it's  lot better than it used to be, but not across the industry yet.
+briankrebs	713473012482310148	2016-03-25T21:09:56	CasualSec perhaps they did. they said they found it prior to my reaching out to them.
+briankrebs	713084203034931200	2016-03-24T19:24:57	daevski they didn't say anything about the how, which was sort part of the irony, i thought. maybe they know, but they haven't said yet.
+briankrebs	713074032955015169	2016-03-24T18:44:32	There's something very wrong about alerting a company to a data breach when that company helps companies respond to data breaches
+briankrebs	713073512173404161	2016-03-24T18:42:28	Exclusive: Crooks Steal, Sell Customer Data Stolen from Verizon Enterprise Solutions 
+briankrebs	713024515882815488	2016-03-24T15:27:46	hunterwalk nicoleperlroth scare tactics to sell against form of fraud that doesn't scale and is very low likelihood imho
+briankrebs	713016720529760256	2016-03-24T14:56:48	W-2 Phishing Victims (more named in this story) Muddle Tax Fraud Fight 
+briankrebs	712766918906785792	2016-03-23T22:24:10	chrismerkel haha. where is that?
+briankrebs	712337328186990595	2016-03-22T17:57:08	Kentucky hospital declares "internal state of emergency" after ransomware infestation 
+briankrebs	712079699917324288	2016-03-22T00:53:24	darryl_macleod have fun up there, you guys. I'll miss you all. Have a donair for me, willya? :)
+briankrebs	711968555416297472	2016-03-21T17:31:46	While the vast majority of our customers have normal sized hands, we’ve created a new iPhone just for Donald Trump.
+briankrebs	711951474679541760	2016-03-21T16:23:53	Carders park piles of cash at Joker's Stash  &lt; offers customer loyalty programs, frequent buyer discounts.
+briankrebs	711177389259300864	2016-03-19T13:07:57	notdan still not clear to me why this is so different than other recent Amex notices. Just do ctrl+f for american 
+briankrebs	710577223372247041	2016-03-17T21:23:06	How spammers are abusing .gov redirects and bit.ly to get  short links 
+briankrebs	710127333236154368	2016-03-16T15:35:24	Scammers phish tax, salary data from current, past employees of payday lender Moneytree  &lt;offers $50 toward freeze
+briankrebs	709377171530375168	2016-03-14T13:54:31	It's remarkable how quickly a stolen wallet or purse can morph into full blow ID theft, even wrongful arrest 
+briankrebs	708321122484416513	2016-03-11T15:58:10	Attackers knock anti-DDoS provider Staminus offline, then leak customer passwords, credit cards 
+briankrebs	708041806345150464	2016-03-10T21:28:16	Interested in cybersecurity? Check out why briankrebs blog is a must read: 
+briankrebs	708037922918961153	2016-03-10T21:12:50	With a big shout out to briankrebs: Incident Response Lessons from the IRSnews, Target, and Symantec: 
+briankrebs	708037675308224512	2016-03-10T21:11:51	Cooloutac other than call the issuer and dispute teh charges?
+briankrebs	707978282894041089	2016-03-10T17:15:50	sg_luke no. what's going on at WF?
+briankrebs	707977309706440705	2016-03-10T17:11:58	it's been a while since my name/portrait showed up in a new piece of malware flashpoint arbor alphaleon 
+briankrebs	707942827855114240	2016-03-10T14:54:57	BrandonJeup citi citi says it doesn't have any additional factors, although it may one day offer voice biometrics
+briankrebs	707942491128000512	2016-03-10T14:53:37	Rfdevere really? how do you think I found out about this?
+briankrebs	707937176915468290	2016-03-10T14:32:30	Have a special code 4 when i call in to citi, but turns out if you call in to their collections they still verify you with just SSN. fail
+briankrebs	707679643139239936	2016-03-09T21:29:09	markov_polov you lost me. what was the question?
+briankrebs	707679396719632384	2016-03-09T21:28:10	JulioCyberSec think your link got a bit fubared there, friend.
+briankrebs	707644931721003008	2016-03-09T19:11:13	MusicforWhat kansasalps you might be thinking of "churnalists," which also describes a lot of bloggers. :)
+briankrebs	707594932337381376	2016-03-09T15:52:33	thanks kansasalps for using "journalist" and not "blogger in your piece on IRS and IP PIN 
+briankrebs	707587938754887680	2016-03-09T15:24:45	Water_Steve not according to their ceo. read the story
+briankrebs	707582803790139392	2016-03-09T15:04:21	After a long year's wait, my eero mesh WiFi system finally arrived. Here's my take on it 
+briankrebs	707566483140952064	2016-03-09T13:59:30	good piece by k8em0 on prosecuting cyber crooks, not security researchers: 
+briankrebs	707369362634752000	2016-03-09T00:56:12	Adobe, Microsoft push critical updates. Flash Player update due later this week GetYourPatchOn 
+briankrebs	707215062587596804	2016-03-08T14:43:04	Environmental consulting firm ERM is latest IRS W-2 phishing victim 
+briankrebs	707207362726203392	2016-03-08T14:12:29	Miami Dade County cops' info posted online, reportedly after former deputy sold his site to Russian hackers crazy 
+briankrebs	707054467397586944	2016-03-08T04:04:56	IRS suspends its 'Get IP PIN' feature just days after I showed how thieves were abusing it to conduct refund fraud 
+briankrebs	706674893207826432	2016-03-07T02:56:38	Exclusive: Phishing attack on data storage giant Seagate exposes W-2 data on all current, former employees 
+briankrebs	706499935496237057	2016-03-06T15:21:25	wonder why Launch Federal Credit Union has an SSL cert from Bronco FCU? 
+briankrebs	706478779661688832	2016-03-06T13:57:21	midnightslacker thank you! hope you like the rest of it!
+briankrebs	705545632929423360	2016-03-04T00:09:21	ritzsanti pleasure was all mine, thanks!
+briankrebs	705433448987693056	2016-03-03T16:43:35	RSWestmoreland hrm. sounds like the RSA effect.
+briankrebs	705433204103225344	2016-03-03T16:42:36	ThomLangford sorry for leaving you hanging, Thom! Hope you had a great night!
+briankrebs	705110556374605825	2016-03-02T19:20:31	A credit union CEO told me that members report debit card losses from Wendy's breach eclipsed Target/Home Depot 
+briankrebs	705079361175691265	2016-03-02T17:16:34	dhubbard858 thank you, Dan. Was a great panel.
+briankrebs	704736636584796161	2016-03-01T18:34:42	Thieves steal IP PINs, 6-digit #'s used by the IRS to help victims of tax fraud avoid getting hit 2 yrs in a row 
+briankrebs	704596935756390401	2016-03-01T09:19:34	brianfagioli krebsonsecurity at gmail dot com
+briankrebs	704492254174568448	2016-03-01T02:23:36	brianfagioli no but i'll let you know if i do thanks, :)
+briankrebs	704389112598544384	2016-02-29T19:33:46	SimonZerafa GossiTheDog glad someone got the joke. this way I don't have to hear fake happy birthdays on my fakebook but once every 4 yrs
+briankrebs	703339667169677312	2016-02-26T22:03:38	in 2015, IRS said 330k consumers had tax ID fraud b/c of  flaws. IRS now: it's more like 724k 
+briankrebs	703193548880015360	2016-02-26T12:23:01	Alerted a credit union to a breach. as sometimes happens w/ these things, they didn't believe me at first 
+briankrebs	703058989865631744	2016-02-26T03:28:20	nbuuck whoa! the printer told you that? scary! :)
+briankrebs	702598278630670337	2016-02-24T20:57:37	If you don't want to go full Hollywood OR full geek at RSAC, come hear journos me, briankrebs, kpoulsen &amp; nicoleperlroth Tues. at 3:30.
+briankrebs	702548747222384640	2016-02-24T17:40:48	A twist on CEO fraud: Phishers spoof email from CEO, asking HR/accounting for all employee W2s 
+briankrebs	701886049560219649	2016-02-22T21:47:29	The lowdown on the Apple-FBI showdown  FBIvsApple
+briankrebs	701885017480437765	2016-02-22T21:43:23	Elincello great. you rock, thank you. i used it here 
+briankrebs	701848506479337474	2016-02-22T19:18:18	Elincello okay if I use your drawing here in my blog post with credit? thanks in advance 
+briankrebs	701848091759140867	2016-02-22T19:16:39	Claymoore229 it happens. thanks for not being an asshole about it.
+briankrebs	701471570049380356	2016-02-21T18:20:29	briankrebs Backdoor was placed on Linux Mint ISO's Feb 20. 
+briankrebs	700809941968408577	2016-02-19T22:31:25	MartyMacGyver it's an http https mismatch on some images statically linked on my site. been meaning to fix it forward. no 3rd party content
+briankrebs	700809712632209408	2016-02-19T22:30:30	This paper in the journal Nature about killing mosquitos with lasers is awesome  I look fwd to more lethal bugzappers
+briankrebs	700781369249685504	2016-02-19T20:37:52	Dell to Customers: Report "Service Tag" Tech Support Scams 
+briankrebs	700695149588905984	2016-02-19T14:55:16	a tremendous story from Bloomberg today on a "secret memo" directing agencies to find ways to access phone data 
+briankrebs	700359432040009729	2016-02-18T16:41:15	This Is why people fear the Internet of Things  &lt; Foscam devices feeding large P2P network
+briankrebs	700103134421610496	2016-02-17T23:42:49	xme hey Xavier. follow for dm? thx
+briankrebs	700011103997317120	2016-02-17T17:37:07	hmmm NorseCorp is firing back at briankrebs and it sounds like damage control from a dead company. 
+briankrebs	699954600963604481	2016-02-17T13:52:36	CThiefUK yea. seems pretty thin.
+briankrebs	699624708577357824	2016-02-16T16:01:43	No Chip for You! The Great EMV (chip card) Fake-Out  &lt; why are so many chip card readers still asking for a swipe?
+briankrebs	699251938886553601	2016-02-15T15:20:28	Jwagner732 thank you!
+briankrebs	698162478082031616	2016-02-12T15:11:20	anyone know a solution/service that prescreens MS patches after release to see what issues they're known 2 cause for other users or systems?
+briankrebs	697867986355486721	2016-02-11T19:41:08	RT 13pt: Take 4 min to watch how LIGO detected gravitational waves/proved Einstein right  
+briankrebs	697861212265172992	2016-02-11T19:14:13	hoffmang qitaana cherian_abraham sorry, mixed bins? link to more info on this? thanks.
+briankrebs	697861058262859776	2016-02-11T19:13:36	allinthelogs yes please feel free, and include a reference back to the site if you can please thanks.
+briankrebs	697860932786061312	2016-02-11T19:13:06	GermantownPulse sure. just make sure to credit , and preferably a link in the story somewher, tx
+briankrebs	697827223110340608	2016-02-11T16:59:09	cherian_abraham qitaana I think there is. let me check. if there isn't, it's worth an industry funding the effort regularly.
+briankrebs	697825813547372544	2016-02-11T16:53:33	qitaana cherian_abraham but really I was like you know, if nobody in the banking industry knows all the prepaid bins, it's a free for all
+briankrebs	697825619460124672	2016-02-11T16:52:47	qitaana cherian_abraham had a discussion with a fraud guy from Rush Card at con this month, and I really laid into him. Probably too much
+briankrebs	697825078634029056	2016-02-11T16:50:38	AnnieCBai thanks. it's all been doxed :/
+briankrebs	697823494046928896	2016-02-11T16:44:20	Retailers I have spoke to, point to loyalty fraud as a rising concern in a post-EMV world. briankrebs on Kohls 
+briankrebs	697820043741106177	2016-02-11T16:30:37	Fraudsters tap Kohl's cash for cold hard cash 
+briankrebs	697785783034474496	2016-02-11T14:14:29	AnnieCBai If you have it available in your state, yes. 
+briankrebs	697445666197499904	2016-02-10T15:42:59	Official press release on appointment of Howard Bain as interim CEO/CFO at Norse.  company promises "serious changes"
+briankrebs	697125727808913408	2016-02-09T18:31:40	gattaca why's that?
+briankrebs	697087682841833472	2016-02-09T16:00:29	NCR warns of ATM skimmers that hijack the machine's network cables 
+briankrebs	697064511250042880	2016-02-09T14:28:24	Gyft publicly acknowledges (?) a breach I first wrote about in Dec. 2015 
+briankrebs	697063617334788096	2016-02-09T14:24:51	dfwtexn that's great to hear! hopefully they were good conversations! :)
+briankrebs	696767652535132160	2016-02-08T18:48:48	ncweaver jabolins actually I did, if I understand what's being discussed correctly 
+briankrebs	696764730044784641	2016-02-08T18:37:11	RT Jehochman: briankrebs You'd think they could print a 1-use password on the letter.  A diff one for each customer. &lt; yep. 101 other ways
+briankrebs	696761252341800960	2016-02-08T18:23:22	some of you had trouble seeing the WTH image I just tweeted about. here's a better version. just wow. 
+briankrebs	696760327476793346	2016-02-08T18:19:41	Hey First National Bank (); WTH? Resetting passwords w/ just email &amp; last 4 of customer SSN? 
+briankrebs	696714480911323136	2016-02-08T15:17:31	IoT Reality: Smart Devices, Dumb Defaults  New research into Trane Comfortlink thermostat vulnerabilities
+briankrebs	696534134152425472	2016-02-08T03:20:53	Econopete popehat i'd be okay with everything except the up to date part. :(
+briankrebs	695813356838653952	2016-02-06T03:36:46	Adam_Cyber oh man! well, just being mentioned is cool :) thanks!
+briankrebs	695628585751744512	2016-02-05T15:22:33	Another nice shout out, this one from Crowdstrike at ~0:46 in their global threat report video,  
+briankrebs	695339653403009024	2016-02-04T20:14:26	RT edwardsanchez: First time I see transparent LED being used. Feels science fictiony.  very eye catching. neat.
+briankrebs	695264618944552960	2016-02-04T15:16:17	.NorseCorp co-founder Sam Glines issues a statement discussing the .briankrebs story.  
+briankrebs	695327921221844992	2016-02-04T19:27:49	@master_zibdie thanks! i hope you like it.
+briankrebs	695300727170822144	2016-02-04T17:39:46	IRS computer problems shut down e-file system 
+briankrebs	695284734696382464	2016-02-04T16:36:13	.jack_daniel briankrebs armorguy SteveD3 Twist: The North Koreans are actually responsible for the downfall of NorseCorp
+briankrebs	695283097831612416	2016-02-04T16:29:42	Nice shout out in this video about "accepting the risk" 
+briankrebs	695226829867761664	2016-02-04T12:46:07	This is funny because it's true. And I'm living it RIGHT NOW!  :-) 
+briankrebs	695282120982421504	2016-02-04T16:25:50	armorguy SteveD3 or just, you know, respond to the requests for comment. I was working on that story for weeks and all I got was the hand
+briankrebs	694993060762095616	2016-02-03T21:17:12	security_craig wireheadlance SteveD3 what's the evidence they're back? I haven't been able 2 get their site 2 load each time i tried 2day
+briankrebs	694926279175442432	2016-02-03T16:51:50	watching NCWeaver talk USENIX Enigma 2016 - The Golden Age of Bulk Surveillance  good info
+briankrebs	694910519971569668	2016-02-03T15:49:13	In December I wrote about self-checkout skimmers in Colorado Safeways. Here's one retrieved from a Md. Safeway 
+briankrebs	694531335965245441	2016-02-02T14:42:28	grecs andrewsmhay either is permitted. both are correct.
+briankrebs	694005734489624578	2016-02-01T03:53:55	TheRealSpaf amen, Spaf!
+briankrebs	694001916653731841	2016-02-01T03:38:45	SpireSec not if you paid me. Trump is exactly what our political process deserves, unfortunately.
+briankrebs	694001688559144961	2016-02-01T03:37:51	JasonBelich this story isn't about you; it's about so many hurt by so few. i'm glad you're so proud of your work. next time, be prouder.
+briankrebs	694000110037028864	2016-02-01T03:31:34	JasonBelich steved3 @switfonsecurity Wow. I didn't realize you were the "co-creator of the cyber threat intelligence community." My bad.
+briankrebs	693996291152543745	2016-02-01T03:16:24	billflu it happens from time to time. my site gets attacked constantly
+briankrebs	693994315006230528	2016-02-01T03:08:33	JasonBelich I did tell you many things she said, w/out mentioning it was her who said it. shall I also share with others what you said?
+briankrebs	693993701723488256	2016-02-01T03:06:06	the world has no room for cowards. i wish more people had the courage to fail, to be wrong, to be ridiculed, and to stick by their guns.
+briankrebs	693992302939881472	2016-02-01T03:00:33	JasonBelich Victim shamed? I gave them the same opportunity to comment/tell their side of story as you. Like you, they cowered.
+briankrebs	693991855021801472	2016-02-01T02:58:46	JasonBelich haha. *I* got duped? Aren't you the one still talking as if you work at Norse?
+briankrebs	693991394327805952	2016-02-01T02:56:56	JasonBelich Still see no comment from you in my queue, despite your whinging.
+briankrebs	693991013245964288	2016-02-01T02:55:25	JasonBelich ...to say your piece on the record up front.
+briankrebs	693990869158985728	2016-02-01T02:54:51	JasonBelich Here's a clue for the future, Jason. If you're going to use words like "hit piece" and "agenda driven" at least be man enough..
+briankrebs	693990631027404801	2016-02-01T02:53:54	JasonBelich "agenda-driven hit piece"? really? guess I know what you think of the media in general. Class act, there, Jason.
+briankrebs	693989155865542656	2016-02-01T02:48:03	JasonBelich and nobody would, including yourself. and now you want to say I got it all wrong. too bad.
+briankrebs	693989055344857090	2016-02-01T02:47:39	JasonBelich the only reason this story wasn't published sooner was I bent over backwards to get comments from people who supported norse
+briankrebs	693988579182301184	2016-02-01T02:45:45	JasonBelich gave you every opportunity to speak on the record. in fact, begged you to offer your perspective in my story. now....
+briankrebs	693988054659383296	2016-02-01T02:43:40	JasonBelich @switfonsecurity also, I asked you about 4 to 5 times to speak on the record, and now you go and publish a blog post? strange.
+briankrebs	693987858005299201	2016-02-01T02:42:53	JasonBelich swiftonsecurity jason, I don't see a comment from you, either in spam or moderation. did you use your real name?
+briankrebs	693880791361810437	2016-01-31T19:37:26	Looks like norse corp site is officially gone 
+briankrebs	693862493672837121	2016-01-31T18:24:44	T3h_0w1 
+briankrebs	693544379751923712	2016-01-30T21:20:40	"No, Norse is Not a Bellwether of the Threat Intelligence Industry"  &gt; My latest blog CTI DFIR
+briankrebs	693815951154896897	2016-01-31T15:19:47	Awesome timing as always by RobertMLee This relates well to briankrebs article on how Norse Corp. imploding… 
+briankrebs	693500891954044928	2016-01-30T18:27:51	Norse's attack map gone, as are all the bios that were there yesterday at "who we are" 
+briankrebs	693483380617396224	2016-01-30T17:18:16	workentin thanks. yeah, either that or headhunting :)
+briankrebs	693039045845336064	2016-01-29T11:52:39	Can we start calling backdoored crypto, crapto? And people pushing it can be craptographers.
+briankrebs	693432002406670336	2016-01-30T13:54:07	Exclusive: Sources Say Norse Corp is Imploding, Company CEO Asked to Step Down 
+briankrebs	692844322551517185	2016-01-28T22:58:53	FTC: Tax ID Theft (refund fraud) behind a nearly 50 percent jump in ID theft claims 
+briankrebs	692767466787860480	2016-01-28T17:53:29	steven_king what was the issue exactly? that hashtag doesn't seem to be a thing yet
+briankrebs	692689299838472193	2016-01-28T12:42:53	RT brennantom: Wendys where's the breach? cc briankrebs Oh man, that would be a great headline! 
+briankrebs	692419546465112065	2016-01-27T18:50:59	wiedzmin no idea but i doubt it
+briankrebs	692351014595334144	2016-01-27T14:18:39	Exclusive: Nationwide fast food chain Wendy's Probes Reports of Credit Card Breach  
+briankrebs	692183655389749248	2016-01-27T03:13:38	Incapsula_com cool! thank you.
+briankrebs	691998016169971712	2016-01-26T14:55:58	If you've got Java installed and you need it, patch it. If you don't know why you still have Java, pitch it! 
+briankrebs	691660193059491840	2016-01-25T16:33:35	Skype Now Hides Your Internet Address from Other Users, Blocks Skype "resolver" services used in DDoS attacks 
+briankrebs	691657124439531521	2016-01-25T16:21:23	.briankrebs robpegoraro Something to ponder in our Brave New World. 
+briankrebs	690702566448054274	2016-01-23T01:08:19	WhatIsDaE yep. wrote bout that briefly last year. I think my name or likeness is used on a whole bunch of carding sites.
+briankrebs	690669489919283200	2016-01-22T22:56:53	shonaghosh charlesarthur Sony was going to, but I haven't heard from them since an initial call. 
+briankrebs	690269153740111872	2016-01-21T20:26:05	carmoca point? i just thought it was interesting. no idea if the rounds were chambered. you should relax or go out more.
+briankrebs	690206330838237185	2016-01-21T16:16:27	TSA says: Of the 2,653 firearms discovered in carry-on bags at checkpoints across the country in 2015; 2,198 (82.8 percent) were loaded
+briankrebs	690203718361464832	2016-01-21T16:06:04	InfoSec_Student thank you, sir. Glad you like it. Thanks for saying so.
+briankrebs	690012865244323841	2016-01-21T03:27:41	Guy who tried to get me busted for heroin possession pleads guilty to cybercrime charges 
+briankrebs	689864187800064000	2016-01-20T17:36:54	RayBrunet I think it's more important to pick complex and unique passwords. password-reuse is source of all password evil
+briankrebs	689863787940306945	2016-01-20T17:35:18	Been meaning to put this together for some time: The lowdown on state laws for freezing your kid's credit file 
+briankrebs	689808781186854912	2016-01-20T13:56:44	RellimMij sure. send me a note through the site with more info? thanks. 
+briankrebs	689452346997272577	2016-01-19T14:20:23	Firm that lost $480,000 in CEO impersonation fraud via email sues cyber insurer for refusing to cover the loss 
+briankrebs	688078641524256768	2016-01-15T19:21:46	grecs what time are we talking about? I might be able to make it in this evening.
+briankrebs	688070419518197761	2016-01-15T18:49:06	EMc_SLC yes but it still comes down to how FIs authenticate their customers.
+briankrebs	688062474172653568	2016-01-15T18:17:32	I started this post as an update on the Hyatt breach, which affected 250 hotels in 50 nations. Turned into a rant 
+briankrebs	688020364497006592	2016-01-15T15:30:12	I interviewed astronauts to find out how seeing Earth from space changes people  spacewalk 
+briankrebs	687996472298737664	2016-01-15T13:55:16	This made me smile. SECURITAY!!! briankrebs selenakyle neirajones EmLindley SwiftOnSecurity 
+briankrebs	687678418452901889	2016-01-14T16:51:26	Cloud services are not a panacea against ransomware. Here's one victim's story: 
+briankrebs	687357950076301313	2016-01-13T19:38:00	vincetrune thank you!
+briankrebs	687078017500364800	2016-01-13T01:05:39	72hrslater ny pleasure. Smither is a modern genius who is nowhere near as recognized as his stellar songwriting and performances deserve
+briankrebs	687016939856760833	2016-01-12T21:02:57	thanks for all the responses re: reverse mergers. Remaining ?: Yes, they're legal, but do they also have an association with shady firms? tx
+briankrebs	687013669398573056	2016-01-12T20:49:57	ParatrooperJJ that might be it. thanks.
+briankrebs	687013580852572160	2016-01-12T20:49:36	justinlabel anyone calling the fitbit thing a breach doesn't grasp one of biggest problems for all e-commerce providers; account takeovers
+briankrebs	687013188517380097	2016-01-12T20:48:02	need an investment expert: Is there a technical term for companies that essentially acquire themselves via shell companies?
+briankrebs	686999674046263296	2016-01-12T19:54:20	First Patch Tuesday of 2016 includes 9 updates from Microsoft and fixes for Adobe Reader/Acrobat 
+briankrebs	686997183510495234	2016-01-12T19:44:26	72hrslater yes as the inimitable Chris Smither says, if nobody hates you, nobody knows you're alive 
+briankrebs	686953658530029568	2016-01-12T16:51:29	FraudBird i thought that "plagiarism" was the sincerest form :)
+briankrebs	686946779368177665	2016-01-12T16:24:09	neka didn't you know? you can get drugs there too :) 
+briankrebs	686942992607883265	2016-01-12T16:09:06	MalwareKiwi yea and krebsonsecurity dot org is currently being used to spam the dark comet rat
+briankrebs	686942396412739584	2016-01-12T16:06:44	codelancer probably for the same reason they used my surname. a big FU
+briankrebs	686941661549719552	2016-01-12T16:03:49	if you find a domain with my surname in it, it's probably selling credit cards, drugs or illegal stuff. latest e.g. 
+briankrebs	686939408331845632	2016-01-12T15:54:52	UID_ sometimes my sarcasm is too thin :)
+briankrebs	686922618772045825	2016-01-12T14:48:09	jigsawsecent uid_ I can't imagine why more people wouldn't be receptive to MMD's charming and unassuming personality
+briankrebs	686622133401849856	2016-01-11T18:54:08	slagell ah interesting! :)
+briankrebs	686619586037415936	2016-01-11T18:44:00	slagell the big number is the day.
+briankrebs	686535265213648897	2016-01-11T13:08:57	A look inside several call centers built for cybercriminals 
+briankrebs	686388887124611072	2016-01-11T03:27:17	JaggedLeanne truly independent journos without a true mastery of their subject are in a tough spot. but otherwise, I'd argue opposite.
+briankrebs	686261162707685378	2016-01-10T18:59:45	MalwareMustDie oh i see. so I should remove "first"?
+briankrebs	686258862110937089	2016-01-10T18:50:37	MalwareMustDie huh? what fact is wrong? not sure why you're so offended.
+briankrebs	685512995758313472	2016-01-08T17:26:49	michaelbirnbaum fyi, this isn't the first time Google Translate has produced bizarre results: 
+briankrebs	684823031114522624	2016-01-06T19:45:08	grecs yessir. I should be there for at least part of the con.
+briankrebs	684817531060809728	2016-01-06T19:23:17	Account takeovers fueling "warranty fraud" 
+briankrebs	684145955923456001	2016-01-04T22:54:41	RT greggawatt: briankrebs this is scary:  &lt; "I come to starbucks to get coffee, not to get robbed." priceless.
+briankrebs	683876402219843584	2016-01-04T05:03:34	Fraudsters Automate Russian Dating Scams 
+briankrebs	683809436004126720	2016-01-04T00:37:28	A year in digital insecurity – nothing, and no one is safe  KimZetter a_greenberg lorenzoFB briankrebs tim_cook
+briankrebs	682972083425525760	2016-01-01T17:10:08	Gchat pops up an animation today if you type "happy new year" to someone in a chat window
+briankrebs	682810233551478784	2016-01-01T06:27:00	Happy, healthy, wealthy and secure New Year, everyone!
+briankrebs	682234657258213376	2015-12-30T16:19:52	58Keithlove chrissistrunk not much info available other than what's in the cached copy of the SBU press release.
+briankrebs	682039372942807040	2015-12-30T03:23:52	rcfp I think something's wrong with your donation page. neither my wife nor I could donate using CC on your site using different cards.
+briankrebs	681879139125735424	2015-12-29T16:47:10	Happy 6th Anniversary, KrebsOnSecurity! And thanks everyone! 
+briankrebs	681581567983095808	2015-12-28T21:04:43	infosecBRK i already do. text alerts. if I didn't authorize it, I dispute it.
+briankrebs	681579744777867264	2015-12-28T20:57:28	@aura_stresser that's a lot in Internet time
+briankrebs	681579525000556544	2015-12-28T20:56:36	infosecBRK they did and he hung up. point is that pretty much all US credit cards are compromised already. should cancel on fraud only
+briankrebs	681579179461181442	2015-12-28T20:55:14	selecadm thanks.
+briankrebs	681578651759054848	2015-12-28T20:53:08	infosecBRK that's deep. Thanks, Citi, for leaving me without a card for six days!
+briankrebs	681578105870389248	2015-12-28T20:50:58	You didn't really think Adobe would let 2015 pass without just one more Flash Player update, did you? 0-day fix  
+briankrebs	681569206941433856	2015-12-28T20:15:36	Beautyon_ Fatal flaw? Hah. You misunderstand me. Every time they screw with me, I get a good story (and the screwer usually gets screwed)
+briankrebs	681569024510148608	2015-12-28T20:14:53	bacsirta i did. he was misinformed. that info is in the story.
+briankrebs	681541983555465216	2015-12-28T18:27:25	RichWalston who said anything about owning a network?
+briankrebs	681540322179026944	2015-12-28T18:20:49	Lazy Authentication is still the norm.  &lt; story about how my PayPal account was hacked on Christmas Eve
+briankrebs	680765077700653056	2015-12-26T15:00:17	Star Wars/Christmas Story lamp  
+briankrebs	679811328853303299	2015-12-23T23:50:25	Apparently, only thing needed to shut down your Citi card is call their automated system, input card# &amp; and hang up after sec challenge
+briankrebs	679791285843181568	2015-12-23T22:30:47	Malware-driven Card Breach at Hyatt Hotels  the hospitality industry is practically giving away rooms these days!
+briankrebs	679784074031022080	2015-12-23T22:02:07	mlrlf more likely committed somewhere. she was certifiable, fo sho.
+briankrebs	679783921589030912	2015-12-23T22:01:31	wupunn that's from my front security cam. came home and was like, i thought I had a tree there. video footage showed the carnage.
+briankrebs	679774605901459456	2015-12-23T21:24:30	bryanthemapsguy she was just usually a spark away from exploding on anyone who crossed her &amp; anything could set her off. Then, she'd sing.
+briankrebs	679774010163462144	2015-12-23T21:22:08	If I ever write another book, must find a way to include this crazy neighbor who hacked down my tree in 2013 
+briankrebs	679731544186052609	2015-12-23T18:33:23	MopWax sorry, what's the source on that?

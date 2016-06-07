@@ -1,0 +1,1319 @@
+a16z	726215774734524416	2016-04-30T01:05:07	Podcast: Teams, Trust, and Object Lessons. By a16z  team culture tech career
+a16z	726204604635959296	2016-04-30T00:20:44	. martin_casado in ultras there's a clearly defined finish line, unlike startups.
+a16z	726202459404689408	2016-04-30T00:12:13	Interesting to note that many entrepreneurs are endurance athletes.  Thinking it through, it makes a lot of sense.
+a16z	726079888923463681	2016-04-29T16:05:10	Great read on trends and economy of the internet by cdixon. Gotta consider the whole loop rather than just the layer. tech
+a16z	726126325237325824	2016-04-29T19:09:41	cdixon all big platforms definitely know this already so hopefully they will design around it and have fall back options.
+a16z	726126049013075969	2016-04-29T19:08:35	cdixon great piece. One barrier that video faces that text and images did not is data small data caps in emerging market
+a16z	726106790174273537	2016-04-29T17:52:03	The internet is a data supply chain. Much more open than closed.  a16z digital tech
+a16z	726090496469135360	2016-04-29T16:47:19	Love envoy’s Raspberry Pi-powered gong that sounds every time they close a deal  
+a16z	726085434145669124	2016-04-29T16:27:12	2012: start my day with Starbucks 2016: start my day with nootrobox and soylent
+a16z	726052308102963201	2016-04-29T14:15:34	The Internet Economy  
+a16z	726059377614942208	2016-04-29T14:43:39	i love cdixon's comparison of public:private blockchains to Wikipedia:internal wikis. great ProductHunt interview 
+a16z	725916526788775937	2016-04-29T05:16:01	You should listen to this a16z podcast with BenedictEvans and stevesi 
+a16z	726030242612019200	2016-04-29T12:47:53	Now that I'm running a real, growing tech startup, I can tell you that bhorowitz is right: This isn't checkers, it's motherfucking chess.
+a16z	725734264168452096	2016-04-28T17:11:46	“4SQ is playing global chess, while most others are still playing checkers…” — mcarney  
+a16z	725825695000096768	2016-04-28T23:15:05	Watch Lytro Change Cinematography Forever  via nofilmschool
+a16z	725783053306630146	2016-04-28T20:25:38	Amazon Q1 earnings: "over-performing compared to what everyone expected”. a16z explained it so well in 
+a16z	725784428941852672	2016-04-28T20:31:06	Can't wait to give a16z's new podcast a listen 
+a16z	725763287191707648	2016-04-28T19:07:06	I did a podcast with stevesi - iPads Pro, tablets and laptops. 
+a16z	725786933050376192	2016-04-28T20:41:03	Listening to LarsLuv (founder of SuccessFactors) on scaling &amp; culture in a company. Communication is key! 
+a16z	725740381736865792	2016-04-28T17:36:05	Good post highlighting some Q's from cdixon's ProductHunt AMA.  Here's a favorite. 
+a16z	725665798849601536	2016-04-28T12:39:43	The best podcast you will ever listen to. The (Definite) Optimism of PeterThiel a16z interdisciplinary 
+a16z	725623391651291137	2016-04-28T09:51:12	The product CEO paradox and why founders fail   via bhorowitz cc: startups ✔️
+a16z	725545295094767616	2016-04-28T04:40:52	Love this story about Ben Horowitz bhorowitz - True Success does not have a finish line a16z 
+a16z	725493378020864000	2016-04-28T01:14:34	.bhorowitz "HARD THINGS" won the Business Book Award 2016 in JPN!!   Many readers in JPN selected Ben's book!
+a16z	725500777544871936	2016-04-28T01:43:59	Felt like coming home. Had fun sharing lessons with next generation of entrepreneurs in annimaniac's MS&amp;E class. 
+a16z	725231125543550977	2016-04-27T07:52:29	5/ The ability to quantify substitution effects means the ability to systematize competitive response. Invaluable for any business.
+a16z	725229840358510592	2016-04-27T07:47:22	4/ Next, the chains. Foursquare data is so rich/granular/longitudinal that it can quantify *substitution* effects! 
+a16z	725512591926255617	2016-04-28T02:30:55	How Foursquare accurately predicted that Chipotle's sales would plummet:  
+a16z	725473215267508224	2016-04-27T23:54:27	"Litigation is a terrible place to have any discussion about a complicated policy issue."--FBI Director James Comey. 
+a16z	725494356371632128	2016-04-28T01:18:28	Indeed. Many pro-business environments are pro-incumbent and anti-startup. 
+a16z	725366401574273024	2016-04-27T16:50:01	But software is eating cars, and cars are much bigger market than phones, in some ways 
+a16z	725348272680787968	2016-04-27T15:37:59	IMHO this article might have been written 15 years ago about PCs fmanjoo on android monopoly 
+a16z	725215521151442944	2016-04-27T06:50:28	This is a very good idea for many legacy tech companies on their current paths (Apple aside). Then lever up. 
+a16z	725338007809581057	2016-04-27T14:57:11	platform fallacy corollary 1: Products proceed platforms in the market.  So win the insertion battle with a product 1rst.  Then generalize.
+a16z	725216004645736448	2016-04-27T06:52:24	martin_casado same as infrastructure fallacy. If you have infrastructure the service will work ?
+a16z	725167972751278080	2016-04-27T03:41:32	dkalintsev it's more "your new language/library/platform is great, but you still need a full company to build a specific product"
+a16z	725007237421260800	2016-04-26T17:02:50	relationship sales fallacy: a post-chasm sales lead w/ deep relationships can necessarily provide product fit insight in an emerging market.
+a16z	724992329493286912	2016-04-26T16:03:35	the platform fallacy : assuming that because the core technology is very general, a product built on top of must (and will) be too.
+a16z	725294819191492608	2016-04-27T12:05:34	Truly amazing podcast by a16z on the nuts and bold of sales - esp. for scaleups: 
+a16z	725076453596008448	2016-04-26T21:37:52	"If a company is doing well and there is nobody in marketing - that's when magic can happen"   MetricsMatter
+a16z	725138253179838465	2016-04-27T01:43:26	Here's a recording of Campbell ...telling me about RockMelt, later acquired by YHOO. 
+a16z	725136392343289857	2016-04-27T01:36:02	.AvionVentures DemoDay w bevisiblelatina dentidesk AltitudeSeven madeBOS LatinasinSTEM womenintech a16z 
+a16z	725112458260652033	2016-04-27T00:00:56	The age of borderless commerce begins as OpenBazaar launches 
+a16z	725132064828219392	2016-04-27T01:18:51	.a16z to the top. As a portfolio co CEO, I can happily say that working with them is like plugging into the matrix 
+a16z	725045413473079296	2016-04-26T19:34:31	I read this by bhorowitz over&amp;over again. It captures the essence of change in the business of advertising so well 
+a16z	725077448296136709	2016-04-26T21:41:49	In case you missed it, Foursquare now accurately predicting quarterly sales based on foot traffic data :) 
+a16z	725033719086616577	2016-04-26T18:48:03	Ford, Volvo, Google, Lyft and Uber start coalition for self-driving cars  
+a16z	725065951276851200	2016-04-26T20:56:08	I suppose this is the time to note, again, that share prices reflect expectations of future cashflows, not past ones.
+a16z	725064730772148224	2016-04-26T20:51:17	First time iPhone TTM sales have fallen. Starting to bump up against saturation of the $600+ segment. 
+a16z	724937831634841602	2016-04-26T12:27:02	Every student deserves a chance to learn this essential 21st century skill:  CSForAll 
+a16z	724941467442098177	2016-04-26T12:41:29	SteveMidwest karaswisher Recode annewoj23 a16z i think so too!
+a16z	724921912548286466	2016-04-26T11:23:47	OH on a16z podcast: Deep learning is a triumph of data over algorithms.
+a16z	724930785514541057	2016-04-26T11:59:02	Interesting payments stack visualization from a16z 
+a16z	724957750258622465	2016-04-26T13:46:11	artandlogic …and a great podcast about bots and the future of apps from a16z at 
+a16z	724974599860064260	2016-04-26T14:53:08	Great a16z podcast: bhorowitz and LarsLuv discuss Scaling Companies &amp; Culture simultaneously  startups
+a16z	724873926774558720	2016-04-26T08:13:06	This is probably my favorite Ben Horowitz article  via bhorowitz startups
+a16z	724770169604562945	2016-04-26T01:20:48	. This is very cool imgur and HacksawAcademy starting a company on the Imgur platform !!! Good luck  
+a16z	724771853655412736	2016-04-26T01:27:30	How technologies evolve: Stumbling, then breakthroughs, then tiny optimizations as the next arrives  -BenedictEvans
+a16z	724770524870537217	2016-04-26T01:22:13	. "Framework for inclusive workplace" couldn't be prouder than to hear that be your assessment of the podcast :-)  
+a16z	724757033526906880	2016-04-26T00:28:36	carlmartin a16z comes to mind too. The sheer breath of the topics they cover on their podcast is reflective of what you are talking about.
+a16z	724745627188494336	2016-04-25T23:43:17	chrismessina Btw I wrote that post after listening to a16z podcast and reading DanGrover 's article - really made me think, great stuff :)
+a16z	724708661252263936	2016-04-25T21:16:23	thorpus a16z yep, loved it too! Especially the idea that bots could shape future service experience and deliver "brand personalities"
+a16z	724728246105980928	2016-04-25T22:34:13	Bots and Beyond — A must listen to episode of the a16z Podcast  
+a16z	724691298209271808	2016-04-25T20:07:24	Mobile Is Eating the World (2016) - mobile, the death of PCs, IoT, search&amp; discovery. ♻️ 
+a16z	724639277267570688	2016-04-25T16:40:41	The Internet should be seen as a form of supply chain: A Supply Chain for Data  by paragkhanna Connectography
+a16z	724683746578849793	2016-04-25T19:37:23	Nice piece by Alex Rampell a16z on why your wallet is becoming the next platform 
+a16z	724622866680020992	2016-04-25T15:35:28	The ultimate sales forecasting playbook from mdcranney a16z  
+a16z	724531837348024321	2016-04-25T09:33:45	Great article and presentation by a16z about network effects. Must read! 
+a16z	724396906592407552	2016-04-25T00:37:35	Terrific presentation by a16z on network effect, slide 82 describes LOCK's competitive advantage 
+a16z	724707917589417985	2016-04-25T21:13:26	martin_casado If functionality is specialized to a segment, then yes.  But consider use of http (way up the stack) by object storage
+a16z	724617630678568960	2016-04-25T15:14:40	martin_casado and by smaller, I mean more fragmented.
+a16z	724617327673634817	2016-04-25T15:13:28	As functionality moves up the stack, from hw,to hypervisor,to OS,to middleware, etc.  Do the markets necessarily get smaller?  It seems so.
+a16z	724410193702838272	2016-04-25T01:30:23	Worth Listening-in: Infrastructure... Is Everything | a16z Podcast via soundcloud  Digital Networks Software
+a16z	724589895835066368	2016-04-25T13:24:28	a16z podcast first thing on mondaymotivation
+a16z	724260536859398144	2016-04-24T15:35:42	Listening to a16z podcast while I  plan the next week
+a16z	724213631055863809	2016-04-24T12:29:19	My travel companion (thank you a16z!) 
+a16z	724354994842025984	2016-04-24T21:51:03	Great discussion! --- a16z Podcast: Bots and Beyond  via a16z 
+a16z	724285119356395520	2016-04-24T17:13:23	Love a16z podcast. If you haven't already, check out their talk on Scaling Companies and Culture 
+a16z	724365394916466689	2016-04-24T22:32:22	Just read all of pmarca's posts on career and productivity advice. Highly recommended for anyone graduating soon 
+a16z	724348724793737216	2016-04-24T21:26:08	Great arampell a16z piece! Wallets as financial platforms, &amp; how players can carve out a position in the stack: 
+a16z	724336731747577856	2016-04-24T20:38:29	🔮: this chart via arampell is going to start showing up in a lot of decks. Interesting to consider where Echo sits: 
+a16z	724336557986045952	2016-04-24T20:37:47	Really compelling post on mobile wallets by a16z fintech head arampell. Worth multiple reads  
+a16z	724315591167733760	2016-04-24T19:14:28	New post on wallet as platform -- which wallets will ultimately survive, and how banks/startups should play 
+a16z	724031091267399682	2016-04-24T00:23:58	On the other hand, philosophy major cdixon is three for four. 😀 janmpdx 
+a16z	724292364005568512	2016-04-24T17:42:10	Getting ready to judge BayesHack 2016, hacking government data for good 
+a16z	724227810202624000	2016-04-24T13:25:40	Notes from "Selling to Developers &amp; Open Source" cc: a16z martin_casado Peter_Levine  
+a16z	724029516209774592	2016-04-24T00:17:43	So damn good. Listen now a16z's peter_levine &amp; martin_casado  
+a16z	724204034928816128	2016-04-24T11:51:11	Internet as Supply Chain Stitcher a16z 
+a16z	724102310331207681	2016-04-24T05:06:58	As decentralized marketplaces grow over the next 15 years, best companies will look more like vertical Googles than Amazons, Airbnbs.
+a16z	724101335553990656	2016-04-24T05:03:06	Spent the entire day digging around OpenBazaar. More opportunities for revenue-generating businesses than all of the "blockchain" industry.
+a16z	723988536265863169	2016-04-23T21:34:52	This is how intersections with autonomous driving work compared to traditional intersections 
+a16z	724005662066249729	2016-04-23T22:42:55	williamrfry a16z educate people whether they want it or not!
+a16z	724001334136037376	2016-04-23T22:25:44	If you forgot your headphones, is playing an a16z podcast out loud on a bus acceptable? 🤔
+a16z	723958384240664576	2016-04-23T19:35:03	Inside A16Z’s Low-Key Diversity Outreach:  
+a16z	723889007751487488	2016-04-23T14:59:23	Hey look wennmachers made a rare public appearance on Slate Money! She’s super-interesting, you should listen 
+a16z	723608862444539904	2016-04-22T20:26:11	"Yes Sir, just like Ben described in the book"  w Admiral Richardson &amp; bhorowitz a16ztechsummit lol 
+a16z	723914937781895168	2016-04-23T16:42:25	The internet is the newest kind of supply chain, with paragkhanna on the a16z podcast.  
+a16z	723764207662075909	2016-04-23T06:43:28	My Internet of Smart Things: - qz mandatory daily brief.  - a16z podcast.  - my Twitter timeline.
+a16z	723636404815712256	2016-04-22T22:15:38	If your a entrepreneur pmarca a16z is the best podcast period!!!! imjussayn
+a16z	723653218345963520	2016-04-22T23:22:26	Big news: Udacity has a new CEO!  FortuneMagazine Incredibly excited for vishalm!
+a16z	723611799837401089	2016-04-22T20:37:51	Thanks to a16z for this incredibly fun conversation  More in Connectography:  digital tech
+a16z	723502404017225728	2016-04-22T13:23:09	Our May issue is live, with snazzy cover based on a paper from francesarnold &amp; vijaypande  
+a16z	723554314170540032	2016-04-22T16:49:26	How Airbnb pulled off a coup in Cuba  
+a16z	723542238618353664	2016-04-22T16:01:27	From the archives of a16z: Performance Data and the "Babe Ruth" Effect in Venture Capital 
+a16z	723527641077288961	2016-04-22T15:03:26	“Introduction to High Output Management”  bhorowitz leadership management - amazing read
+a16z	723348710583758849	2016-04-22T03:12:26	Datasets play crucial roles in advancing AI. ImageNet helped to enable the latest deep learning advances.  
+a16z	723166258963709952	2016-04-21T15:07:26	Good commentary from vijaypande about the issues with data network effects that occur in healthcare (data is new, much larger orgs, etc.)
+a16z	723165714052321282	2016-04-21T15:05:16	Lots about data pooling, and how aggregated data is way more beneficial than each part (and useful parts of the data different to each org)
+a16z	723165245854740480	2016-04-21T15:03:25	Which is very different than just sitting on top of a lot of data (ie. Visa has a ton of data, but they don't use it to improve the CX)
+a16z	723165098810839042	2016-04-21T15:02:49	Interesting tidbits: data network effects are useful only if the data gets better. More data-&gt;better user experience-&gt;more use-&gt;more data
+a16z	723164664201277444	2016-04-21T15:01:06	Really good podcast from a16z with vijaypande and arampell about data network effects: 
+a16z	722954262901202944	2016-04-21T01:05:02	a16z podcasts are the best thing on the internet. So much knowledge shared for free.
+a16z	723329446405611520	2016-04-22T01:55:53	Great podcast, a broader look at convcomm with chrismessina Connie Chan and BenedictEvans  ux
+a16z	723183041946984449	2016-04-21T16:14:07	Why all this attention for chatbots? a16z look to sort out substance from the hype  messaging
+a16z	723394865929670656	2016-04-22T06:15:50	Great a16z conversation on infra;  
+a16z	723244334598868993	2016-04-21T20:17:41	Love, love, love the incredible insights here via a16z smc90 and AdamMGrant 
+a16z	723225058559320066	2016-04-21T19:01:05	Great a16z podcast on selling open source in enterprise 
+a16z	723145271786409986	2016-04-21T13:44:02	My goto list of podcasts (real info; no startup porn) TWistartups thepitchfm TechnicallyPHL a16z
+a16z	723112754551214080	2016-04-21T11:34:50	Thanks bgracely for pointers to a16z and exponentfm podcasts on thecloudcastnet #245 - always looking for drive time brain enhancers
+a16z	723165414788718593	2016-04-21T15:04:05	Opportunities that exist for startups: build dataset by offering product at cost at first, or be bridge between multiple datasets
+a16z	722853072645591040	2016-04-20T18:22:57	The intersection of tech and politics is the future. Thanks to a16z for sparking the conversation! ForthePeople 
+a16z	722824453764300800	2016-04-20T16:29:13	A Silicon Valley CEO once told me that SV thinks no one in DC understands SV. Great to see/hear evidence to the contrary at a16z today.
+a16z	722803673970184192	2016-04-20T15:06:39	Yesterday and today participating in a16z 's Washington policy meeting. Tech meets gov - this needs to happen more! 
+a16z	722915454453321728	2016-04-20T22:30:50	When worlds collide: bhorowitz0 and Admiral John Richardson talk hard things in tech and… 
+a16z	722908306440761345	2016-04-20T22:02:25	Fireside chat with bhorowitz and Adm John Richardson 
+a16z	722893815443431425	2016-04-20T21:04:50	Election2016 reaches a whole new level of engaging directly with people on their device a16z ForThePeople 
+a16z	722891054484049920	2016-04-20T20:53:52	Pleased to join jomalleydillon CarlForti and Matt Rhoades AmericaRising on tech and Election2016 a16z 
+a16z	722892887134896128	2016-04-20T21:01:09	Disrupting traditional media is the biggest change this Election2016 a16z ForThePeople
+a16z	722883628854697985	2016-04-20T20:24:22	Watching smc90 interview BuzzFeed's SLoguidice, Genius' dumbnamenumbers and Medium's matthigginson with a16z 🤘 
+a16z	722862755766800384	2016-04-20T19:01:25	Very stimulating panel. Thanks to a16z for having me.  
+a16z	722847634159976448	2016-04-20T18:01:20	Listening to Simon Callan of foursquare at a16z conf; did not know they do this much predictive data analysis for political campaigns.
+a16z	722845574031110146	2016-04-20T17:53:09	UK interesting for cryptocurrency, get 1 license and go anywhere, US is much more difficult. jerrybrito a16z 
+a16z	722811922677153792	2016-04-20T15:39:26	Listening to pmarca &amp; JamesFallows discuss the future of technological innovation, jobs &amp; economic growth. 
+a16z	722811951328464896	2016-04-20T15:39:33	Gt 2 hear PennyPritzker stress importance of innovation/ entrepreneurship &amp; global trade a16z forthepeople event 
+a16z	722807661444468736	2016-04-20T15:22:30	Commerce Sec Penny Pritzker and Ted Ullyot at Andreessen Horowitz conf in DC. a16z CommerceGov apcoworldwide 
+a16z	722794120083742720	2016-04-20T14:28:41	.KelseyMellard of honor explains how the company brings FTE to the zip codes that need them most. a16z 
+a16z	722792153953484801	2016-04-20T14:20:52	B/c of omadahealth people w/ diabetes in low-income areas r having lives changed. Sense of community for them. seanduffy a16z 1776
+a16z	722790390819065856	2016-04-20T14:13:52	Startups like 1776 member omadahealth are disrupting digitalhealth. CEO seanduffy w/ a16z Partner vijaypande 
+a16z	722787258219237376	2016-04-20T14:01:25	Now, an a16z session in my area (health care): vijaypande on disrupting biotech via Moore's Law. Moore's Law (good) vs Eroom's Law (bad).
+a16z	722782937071153152	2016-04-20T13:44:15	Great conference by Andreessen Horowitz a16z on intersection of DC and Silicon Valley. Session on the Gig Economy. 
+a16z	722780830544838656	2016-04-20T13:35:53	NewDem sethmoulton shared how SV and DC can work together to innovate at a16z ForThePeople conference. 
+a16z	722777642206777344	2016-04-20T13:23:13	Transforming ops to ask, know, act. Lt. Gen Bender, USAF w/ Tanium CEO/co-founder Orion Hindawi. a16z tech summit. 
+a16z	722747200103661568	2016-04-20T11:22:15	One of the more interesting talks I've heard In a while. The innovation future of DOD with halvorsen and bhorowitz 
+a16z	722772295916212225	2016-04-20T13:01:58	SkySafe lands $3 million led by Andreessen to disable badly behaving drones  by cookie
+a16z	722559715662692352	2016-04-19T22:57:15	Subscribing to your fave communities are the way to read reddit. Awesome Cdixon. 
+a16z	722509694506528769	2016-04-19T19:38:29	Read this, it's far more informative than whatever media twitter is apparently discussing this afternoon 
+a16z	722492069013544960	2016-04-19T18:28:27	So cdixon from a16z likes to walk founders through the Idea Maze   More 🔑's : 
+a16z	722613813514776576	2016-04-20T02:32:13	Thanks to kenauletta for a thoughtful obit: Postscript: Bill Campbell, 1940-2016 - The New Yorker 
+a16z	722555581941293056	2016-04-19T22:40:49	Great way to end the day- a front row seat with SpeakerRyan!  Thanks a16z! Great insights from the Top. 
+a16z	722553243671207936	2016-04-19T22:31:32	New podcast - chrismessina BenedictEvans smc90 and I discuss messaging bots convcomm  
+a16z	722465414739922944	2016-04-19T16:42:32	Listen now: conniechan BenedictEvans smc90 &amp; me on Bots &amp; Beyond! We could've gone another hour!  convcomm
+a16z	722485527300202497	2016-04-19T18:02:27	Drones, Bitcoin, 3D Printing, VR, the future of computing...   Ask a16z's cdixon anything:  
+a16z	722095315885498368	2016-04-18T16:11:53	Just 'cause msuster reminded me how great this was, cdixon's year-old post on the Babe Ruth effect in venture 
+a16z	722514241631035393	2016-04-19T19:56:33	Today Target rolled out Bevel products to 100+ additional stores. Congrats, WalkerCoBrands and tristanwalker omnichannel
+a16z	722427926050971649	2016-04-19T14:13:34	Cool look at a16z's low-key diversity approach + how it's connecting w/ the black tech community 
+a16z	722434909885693952	2016-04-19T14:41:19	Great article on a16z's under the radar focus on diversity - because it makes (business) sense  via theinformation
+a16z	722484262159519744	2016-04-19T17:57:25	2/ Today, I'm excited to announce that Bevel 4x'd its store count with Target. Couldn't be more thrilled! 
+a16z	722484027853148161	2016-04-19T17:56:30	1/ We’ve been partnering with Target for about 10 weeks now. Our original goal: More Bevel. More places. Meet our customers where they are
+a16z	722498405444915200	2016-04-19T18:53:37	In many ways, Pinterest is a perfect reflection of Silbermann: It’s a quiet overachiever.  
+a16z	722500277073420288	2016-04-19T19:01:04	This is what daily computing with Magic Leap could look like  
+a16z	722454437818671104	2016-04-19T15:58:55	jhirschtick Onshape demo at a16z techsummitdc 
+a16z	722450104435785733	2016-04-19T15:41:42	.everlaw CEO ajshankar sharing ideas about using ML, deep tech, and more for litigation a16z DC tech summit 
+a16z	722420377394278400	2016-04-19T13:43:34	Great event today in DC w/ a16z on tech and the federal government 
+a16z	722285636086947840	2016-04-19T04:48:09	Want to build an empire like Google's? Well meet your OS: 
+a16z	722119290963398661	2016-04-18T17:47:09	The rationale of the R&amp;D behind nootrobox 
+a16z	722477414115188739	2016-04-19T17:30:13	MEDDICC via a16z startup growthhacking inboundmarketing VC sales 
+a16z	722118005413527554	2016-04-18T17:42:03	“MEDDICC” is the new "BANT". The need to automate is clear.  
+a16z	722078287787397120	2016-04-18T15:04:14	Progressive Equity, a concept by Andrew Mason worth checking out and implementing: 
+a16z	722152753804390400	2016-04-18T20:00:08	theinevitable  
+a16z	721763444228120576	2016-04-17T18:13:09	Most always, new innovations in platform/UX that come along augment what exists for a long time before supplanting v instant replacement.
+a16z	720674645737746432	2016-04-14T18:06:39	See also: cdixon on the AI startup idea maze. Keep narrowing that domain!  
+a16z	722171082740903936	2016-04-18T21:12:58	This is really lovely tribute “Bill” by bhorowitz 
+a16z	722232049302503424	2016-04-19T01:15:13	RIP Bill Campbell- you helped a generation of us view leadership in a whole new way. Thanks a16z for giving me the opportunity to meet him.
+a16z	722128794597900288	2016-04-18T18:24:55	I lost my friend Bill Campbell today. I can't stop missing him 
+a16z	722101317045334017	2016-04-18T16:35:44	Sad news. I learned more about leadership at GO Corp all hands meetings than anywhere else. RIP,  Coach. 
+a16z	722085756529823744	2016-04-18T15:33:54	A Dozen Things I’ve Learned From Bill Campbell  "like having extra wildcards in a game of five-card draw.”
+a16z	722083349867536384	2016-04-18T15:24:20	Pretty interesting intersection of my tech, leadership, trust &amp; learning from military worlds in a a16z podcast.  
+a16z	721841902652235776	2016-04-17T23:24:55	Four Startup Principles: - Money matters - Performance counts - Time is the enemy - Your investors eventually want liquidity
+a16z	721821949924495360	2016-04-17T22:05:38	Fantastic discussion from the crew at a16z on teams, building trust and tough leadership: 
+a16z	721709444891979776	2016-04-17T14:38:35	First time i've heard this type of perspective on "types" of CEOs--peace v wartime. Thought provoking  a16z
+a16z	721050482769272832	2016-04-15T19:00:06	The 1st VirtualReality cancer surgery was streamed live yesterday. Huge leap for Medicine  
+a16z	721052547100708864	2016-04-15T19:08:18	Another reason why nationbuilder exists. The technology of democracy must be available to everyone. EVERYONE. 
+a16z	721046464772861952	2016-04-15T18:44:08	Mesosphere's 3 Tricks To Open Source SaaS Success 
+a16z	721006311547101185	2016-04-15T16:04:34	Smart take from BenedictEvans on VR and its future... 
+a16z	721314701179822080	2016-04-16T12:30:00	Facebook doesn’t sell software, but it’s the largest open source software company on Earth:  
+a16z	721248572038082560	2016-04-16T08:07:14	Worth a listen. Exactly the issues vendors have selling Openstack VIMs (and related services) to telco operators 
+a16z	721100114584973312	2016-04-15T22:17:19	Lol now, Wasn't as funny at the time 
+a16z	721054392590344192	2016-04-15T19:15:38	Control, or Be Controlled: Sales Forecasting Done&amp;nbsp;Right 
+a16z	721058274435575808	2016-04-15T19:31:03	Every sales professional I know should read mdcranney's Control, or Be Controlled: Sales Forecasting Done Right 
+a16z	719883097702014976	2016-04-12T13:41:19	Must listen for sales, work with sales, hiring first sales. The Why, How, and When of Sales  via a16z
+a16z	719670223549382656	2016-04-11T23:35:26	Great podcast from a16z The Why, How and When of Sales  Great idea of reps recognizing other depts who helped close
+a16z	719621542296969216	2016-04-11T20:22:00	Great a16z podcast -- crucially important to startup success, but frequently overlooked -- building a sales team: 
+a16z	719601220512530432	2016-04-11T19:01:15	Great podcast by a16z - "The Why, How, and When of Sales" 
+a16z	719566730054537216	2016-04-11T16:44:12	Everything Product Managers need to know about Sales | Great podcast from a16z prodmgmt 
+a16z	721022128749879296	2016-04-15T17:07:26	. bhorowitz mdcranney and I worked really hard to learn these things about scaling sales - telling our truth 
+a16z	721021351876624384	2016-04-15T17:04:20	. Lot of hard earned facts here about how to think through sales compensation 
+a16z	720814974881300480	2016-04-15T03:24:16	Grigz Very good content. I like these behind the scenes looks. I'm pretty excited to see what martin_casado does as a A16Z partner.
+a16z	720674055074897920	2016-04-14T18:04:18	The New Pipeline: Dev as decision maker in freemium model -&gt; enterprise licenses -&gt; expand across biz silos 
+a16z	720451436958654464	2016-04-14T03:19:42	pmarca semil modestproposal1 a16z linked to a good post on platforms in its 4/10 digest  
+a16z	720767344704770048	2016-04-15T00:15:00	Exclusive: Ex-VMware CFO Joins Board at Cybersecurity Hotshot Tanium 
+a16z	720714146375839744	2016-04-14T20:43:37	Cambridge startup Onshape backed by heavy hitters like a16z lands new investment round   
+a16z	719998798202826752	2016-04-12T21:21:05	Geohot proclaims Comma.ai's self-driving tech is coming by the end of year  
+a16z	720288977853358080	2016-04-13T16:34:09	Job hopping helped Silicon Valley thrive. So why do other states restrict it?  via voxdotcom
+a16z	720446679418281984	2016-04-14T03:00:48	erickschonfeld chrisfralic sequoia GVteam a16z GreylockVC firstround BessemerVP most founders would be lucky to have anyone of these
+a16z	720027786144907264	2016-04-12T23:16:16	1/2 My #1 reason for becoming a professional VC was all the exceptional founders I expected to meet,and be on the front lines of the future
+a16z	720823325132337152	2016-04-15T03:57:27	sbp04 congratulations Stacy!! time for another a16z Podcast with you;) 
+a16z	720822864048304128	2016-04-15T03:55:37	caseywest good or bad thing? ;)
+a16z	720822804543725568	2016-04-15T03:55:23	phillipstutts LarsLuv here you go!  [more of his posts were also tagged w that podcast at: ]
+a16z	720822211792076801	2016-04-15T03:53:02	cindygallop genderavenger we're glad you're monitoring this, but your numbers are wrong: have more than just 2 women speakers (total=13)!
+a16z	720758490495627265	2016-04-14T23:39:49	16z continues the great series on B2B sales and commercial strategies. These ladies &amp; gents really get it IMHO! 
+a16z	720139232082337792	2016-04-13T06:39:07	A comprehensive presentation on network effects by a16z, the power of them, case studies and more. 
+a16z	719901191489089536	2016-04-12T14:53:13	3. All about NetworkEffects from a16z 
+a16z	719900676441157632	2016-04-12T14:51:11	2. trengriffin a16z on mental models &amp; the one that is NetworkEffects  
+a16z	719899762514898944	2016-04-12T14:47:33	1. Reflecting on a great coaching session / Workshop yesterday with a cool client of mine. Excellent articles we referred to....
+a16z	720155078116507649	2016-04-13T07:42:05	Affirm secures $100M in Series D funding to expand beyond loans  by fitztepper
+a16z	720031661514104832	2016-04-12T23:31:40	Teachers want to spend more time with students. Altschool is making that happen (with a little help from Slack). 🍎
+a16z	720117618762498048	2016-04-13T05:13:14	Chris, we wouldn't be here without a16z's incredible support. 
+a16z	719961869394382848	2016-04-12T18:54:20	Pumped to release Bot Engine, the first step of our vision for conversational bots  
+a16z	720013654733623296	2016-04-12T22:20:07	What we didn't have: messaging services with user bases in the billions... 
+a16z	720006087206785024	2016-04-12T21:50:02	Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots Bots
+a16z	719287599404191745	2016-04-10T22:15:02	Love that you can see trends in the a16z newsletter bots riseofthebots 
+a16z	719936544769871873	2016-04-12T17:13:42	Messenger + WhatsApp now at 60bn messages a day, versus about 20bn SMS
+a16z	719936194377703424	2016-04-12T17:12:19	Facebook's 10 year roadmap 
+a16z	719900073862307840	2016-04-12T14:48:47	Unmasking the fraudsters - The tech making online banking safer and easier  
+a16z	719889160136486912	2016-04-12T14:05:25	.pindrop research uncovers what the IRS tax scam sounds like. 
+a16z	719933365764235265	2016-04-12T17:01:04	Gainspeed's Virtual CCAP wins scte_ Technology Innovation Award for "Best Broadband Network Transmission Solution" 
+a16z	719892426412945409	2016-04-12T14:18:24	Our customers operate everywhere in the world. We're now making that easier in the cloud. 
+a16z	719857751912947712	2016-04-12T12:00:37	Startup Rising Africa  cmschroed 
+a16z	719714223165685760	2016-04-12T02:30:17	RIGHT ON! Chat UX helps funnel users to a visual UI, like how a storekeeper guides customer to a shelf in a store. 
+a16z	719671755929821188	2016-04-11T23:41:32	Notes on chat, AI and messaging-as-a platform ahead of F8: 1:   2:   3:
+a16z	719737375421673473	2016-04-12T04:02:17	conniechan logangreen thanks for the help!
+a16z	719646427165503488	2016-04-11T22:00:53	Lyft and Didi Kuaidi launching cross-platform service this week in U․S.  by meganrosedickey
+a16z	719629098033745920	2016-04-11T20:52:01	Hear how Mesosphere built a business around open source software 
+a16z	719634638256410624	2016-04-11T21:14:02	Lytro Cinema is giving filmmakers 400 gigabytes per second of creative freedom  
+a16z	719564463817424897	2016-04-11T16:35:11	We're bringing Light Field tech to cinema: Lytro’s 755 Megapixel Camera Aims to Change How Hollywood Makes Movies 
+a16z	719543559112802305	2016-04-11T15:12:07	Lytro's new Cinema camera could mean the end of green screen  
+a16z	719510390640635905	2016-04-11T13:00:19	Lytro's new Cinema camera is designed to help filmmakers nail that 'impossible shot'  
+a16z	719437578739564544	2016-04-11T08:10:59	BotList: An app store for bots!  by mubashariqbal sethlouey bentossell 🤖🔎💫 
+a16z	719557952495988736	2016-04-11T16:09:19	This compilation of top 10 Posts on Product Management by sachinrekhi is worth revisiting again and again 
+a16z	719379473074950145	2016-04-11T04:20:06	Network Effects Explained by a16z startup  
+a16z	719137933501022209	2016-04-10T12:20:18	Especially smart episode from the always interesting a16z pod: "The Why, How, and When of Sales" 
+a16z	719037268741070848	2016-04-10T05:40:18	Great investors... a16z has been super helpful to DialpadHQ and this is just more goodness. 
+a16z	718689761855057920	2016-04-09T06:39:26	A key lesson I've learned w/ 5 yrs at Okta is the importance of our great sales team.  The Why, How, &amp; When of Sales 
+a16z	719135901868277760	2016-04-10T12:12:14	An excellent crash course in sales team and process development from a16z.  
+a16z	718868784266682369	2016-04-09T18:30:48	A16z excellent unifying segment summarizing Sales. Something startups should listen to as a team.  
+a16z	718800978988953600	2016-04-09T14:01:22	IMHO Founders should set their compass by this advice: "a16z Podcast: The Why, How, and When of Sales" 
+a16z	718616781976248320	2016-04-09T01:49:26	Brilliant podcast... 'Why, How, and When of Sales' mdcranney LarsLuv bhorowitz  via a16z. 
+a16z	718598888945491969	2016-04-09T00:38:20	“if you are hesitant to pay commissions, you run into an adverse selection problem where you attract the worst sales people.” bhorowitz
+a16z	718599738409529345	2016-04-09T00:41:43	To engineers who complained about sales rep compensation:  “if you think you can do it, we are hiring in sales. come join!” LarsLuv
+a16z	718598515128213504	2016-04-09T00:36:51	“the first criteria i look for hiring in sales is how competitive a person is, how courageous, how much intellectual horsepower” mdcranney
+a16z	718597295776866305	2016-04-09T00:32:00	“biggest misconception of sales is that it’s there to communicate value. It’s actually there to *create* new value for customers” mdcranney
+a16z	717784702459850752	2016-04-06T18:43:03	“Every company builds two things: the products they sell, &amp; the culture inside the company.”  
+a16z	718990964166012928	2016-04-10T02:36:18	🍉💥
+a16z	718610602458005505	2016-04-09T01:24:53	Watermelon is the future.   
+a16z	718845861229297666	2016-04-09T16:59:43	Ha, get it. medium adding a chuckle to the 
+a16z	718714123823910913	2016-04-09T08:16:14	Bots, circa 1989. 😀  Every tech idea is a good idea; it's mostly a question of timing.
+a16z	718607689387905024	2016-04-09T01:13:18	Working in tech is the first place I have not been told 2 play small 2 make someone else feel comfortable. I love that ideas win.
+a16z	718502544075530243	2016-04-08T18:15:30	Excellent, free book w/ interviews of top AI researchers - "The Future of Machine Intelligence" by dbeyer123 
+a16z	718493683239157760	2016-04-08T17:40:17	Best non-VR experience I've seen so far that demonstrates what it's like to be in VR: SteamVR trailer 
+a16z	718483767736868864	2016-04-08T17:00:53	Why SlackHQ is game-like — NOT gamified. Great post by amyjokim  startup
+a16z	718605741288894464	2016-04-09T01:05:34	Onboard view of landing in high winds 
+a16z	718589328927113221	2016-04-09T00:00:21	DrawABirdDay birds by Marie-José Ammann and Michelle Z | madewithpaper 
+a16z	718562584127885312	2016-04-08T22:14:04	The 'Slack Effect': meetings have decreased by 30%, teams are able to make decisions 30-40% faster 
+a16z	718463099465031680	2016-04-08T15:38:45	Jeff Bezos: "Failure and invention are inseparable twins.'  
+a16z	718460201775464448	2016-04-08T15:27:15	Looks like you're pointing out that what's new is old.  
+a16z	718448706299699200	2016-04-08T14:41:34	Siri, when you hear a kid’s voice asking you math problems, please say “Go do your homework the old fashioned way”
+a16z	718461929153499137	2016-04-08T15:34:06	aarondelp  Agreed. I only got turned on to a16z after the martin_casado interview, but it’s quickly becoming a favorite podcast.
+a16z	718445495782400000	2016-04-08T14:28:48	Listening to a16z podcast this morning. Great conversations and insight
+a16z	718359423203295233	2016-04-08T08:46:47	Start your day off right with an a16z  podcast.
+a16z	718456183233855489	2016-04-08T15:11:17	Via the a16z newsletter. Existing Technologies Can Assist the Disabled 
+a16z	718205357714206720	2016-04-07T22:34:35	Infrastructure and Maintenance are boring? It keeps the world going say aeonmag  and a16z 
+a16z	718226994933166081	2016-04-08T00:00:34	Here's what a mobile breach will cost you:  MobileSecurity 
+a16z	718234934767456257	2016-04-08T00:32:07	HR apps have 50%+ penetration in NA companies with &lt;25% adoption in EMEA + APAC. See more &gt;  
+a16z	718208736804737024	2016-04-07T22:48:01	By 2018, cloud will become a preferred delivery mechanism for analytics  via LouisColumbus
+a16z	718127434579595264	2016-04-07T17:24:57	Today we share the Slack Platform Roadmap and Ideaboard. Help build the future along with us  
+a16z	718141830517432321	2016-04-07T18:22:09	Some of the best management books are actually military books, argues Ben Horowitz. There's just a certain mental... 
+a16z	718193732013588481	2016-04-07T21:48:23	"Venture capital earned an annual average of 93 percent over the past 20 years" for Yale. Extraordinary.  
+a16z	718142613136744448	2016-04-07T18:25:16	Awesome post by fredwilson for anyone who thinks “batting average” is a meaningful metric in investing (it’s not)   
+a16z	717928511890010112	2016-04-07T04:14:30	Best VC returns go to those who optimize for grand slams. Intuitively we knew this but the data is remarkable. 
+a16z	718130210638434304	2016-04-07T17:35:59	2. It has to be done, a*holes in teams data vs self delusion a16z podcast on scaling cos 
+a16z	718129265363976192	2016-04-07T17:32:13	1. commuting pain on 237 becomes a delight with a16z podcasts Today's listen - LarsLuv talking scaling cos and cultures with bhorowitz
+a16z	717908048321363969	2016-04-07T02:53:11	A16Z bio fund as forced many investors to rethink their approach to healthcare , which is a positive , a lot more folks now interested
+a16z	717811917260242945	2016-04-06T20:31:12	Awesome dealbook section examining the rise of fintech and disruption. Stories by qhardy nathanielpopper + more: 
+a16z	717779230512185344	2016-04-06T18:21:18	Why it is important to be bold - JeffBezos' 2015 Letter to Amazon Shareholders  (pdf) 
+a16z	717780806639296513	2016-04-06T18:27:34	The first WomenWhoCode womenwhocode NASAJPL  
+a16z	717751335886655489	2016-04-06T16:30:28	Startup Notes From the 2016 Female Founders Conference: 
+a16z	717842144715743232	2016-04-06T22:31:18	Excited to work with Sonia, Uriah, and Stav- the excellent founders of Dispatch Robotics 
+a16z	717834381184905216	2016-04-06T22:00:27	Couple of remarkable things: $2m seed incredibly efficient, &amp; cdixon a16z's primacy in autonomous vehicles. Kudos. 
+a16z	717756620562759680	2016-04-06T16:51:28	.cdixon is on an autonomous vehicle roll right now, first comma_ai and now Dispatch 
+a16z	717755890296885248	2016-04-06T16:48:34	The coolest thing about this article: how little money the seed required. The March towards low capex continues 
+a16z	717723870032183296	2016-04-06T14:41:19	A podcast by one of the biggest venture capitalists in the world about investing in Communities and impact 
+a16z	717619836138835968	2016-04-06T07:47:56	Useful Ofcom study on the state of piracy. Key charts:  
+a16z	717566026959822848	2016-04-06T04:14:07	Worthwhile podcast about Leadership by dickc &amp; bhorowitz, 
+a16z	717582625850830849	2016-04-06T05:20:04	And in VC:  
+a16z	717517480474730496	2016-04-06T01:01:12	And the fact that GPUs for those silly games are now the engine for AI just shows you how you really, really can't tell what will matter
+a16z	717499906441789440	2016-04-05T23:51:22	Very exciting advances coming from Nvidia - "Nvidia Places Its Bets on Virtual Reality and Artificial Intelligence" 
+a16z	717398790454382593	2016-04-05T17:09:34	The expanding AI universe. 
+a16z	717476978320781313	2016-04-05T22:20:16	Yes we're on it! You're not the first one to ask;) 
+a16z	717380592728289280	2016-04-05T15:57:16	To those who ask "How will Medium make money?" Simple: Help publishers make money while respecting user experience. 
+a16z	717366825219178496	2016-04-05T15:02:33	Medium has shifted away from its own digital publication to become a platform for others' work: 
+a16z	717348580411838464	2016-04-05T13:50:03	“Making Medium More Powerful for Publishers” by Medium 
+a16z	717203288798674944	2016-04-05T04:12:43	Attention, search and discovery online feel less like 'solvable' problems than a balloon that's always being squeezed in different ways.
+a16z	717204330349260800	2016-04-05T04:16:52	A lot of the process of mobile in the last 15 years or so is not so much unbundling as delamination. Things that were one layer become many
+a16z	717338060376170496	2016-04-05T13:08:15	bhorowitz dickc your sentiment on entrepreneurship in the a16z podcast is exactly what I wrote about here! 🙌
+a16z	717343246901448704	2016-04-05T13:28:52	'I would sacrifice a 10x'er for the power of the team'-Lars Dalgaard.  Another brilliant podcast by a16z on Mar 17. pmarca bhorowitz
+a16z	717335528656470017	2016-04-05T12:58:12	.dickc + bhorowitz on management during times of (business) war  startups tech via a16z
+a16z	717334120456527872	2016-04-05T12:52:36	Joe_Curry sorry for delay:) we sometimes use favorites as way to track what to respond to later
+a16z	717334020288159744	2016-04-05T12:52:12	Joe_Curry it's 'presence', and we talk about it in very first line here:  and also in here: 
+a16z	717333679635243008	2016-04-05T12:50:51	gsopitan thank you for listening! is a firm thing, but those last two bits you tweeted were from pmarca (bhorowitz was on larsluv podcast:)
+a16z	717275894096785408	2016-04-05T09:01:14	LarsLuv had a no A-hole policy at his Startup even as they grew.   A-hole=speaks without thinking, rude, abusive etc.   a16z Podcast
+a16z	717270399914999808	2016-04-05T08:39:24	LarsLuv on a16z podcast discussed Culture with bhorowitz. Epic.  A truly no-BS conversation. Worth the listen 
+a16z	717160344452513792	2016-04-05T01:22:04	patrickdonegan bhorowitz dickc a16z every time a new episode drops and I tell myself “too busy, can’t indulge”, turns out to be great!
+a16z	717155730915241984	2016-04-05T01:03:45	So damn good. Listen now. Teams, Trust and Object Lessons bhorowitz dickc a16z  
+a16z	717261276720672768	2016-04-05T08:03:09	Cars versus phones 
+a16z	716974884488744960	2016-04-04T13:05:07	2of2 cdixon coins WhatsAppEffect - ability to do more with fewer engineers - strap in. This is getting exciting. 
+a16z	716814012839649284	2016-04-04T02:25:53	"The more his system gets used, the more data it collects, and the smarter it becomes." 
+a16z	716785025283268608	2016-04-04T00:30:41	If you build it, they will come: a16z invests $3.1M in guy who made his own self-driving car.  
+a16z	716731212249833472	2016-04-03T20:56:51	“[…] is a toy.”  
+a16z	716454036174557184	2016-04-03T02:35:27	Just finished (and thoroughly enjoyed) bhorowitz’s “The Hard Thing About Hard Things”. Required reading for anyone looking to run a company
+a16z	716447249996197889	2016-04-03T02:08:30	Just recently finished listening to "The Hard Thing About Hard Things" by bhorowitz on Audible. Phenomenal book. Every founder must read!
+a16z	717098446314823680	2016-04-04T21:16:07	Obamacare: The Gazillion-Dollar Startup Machine jeffbercovici  via Inc thx to a16z for the link
+a16z	717069381868593152	2016-04-04T19:20:37	Must-read for leaders or those aspiring to be a16z LarsLuv Thoughts on Building Weatherproof&amp;nbsp;Companies 
+a16z	717048138712752128	2016-04-04T17:56:13	Great post by stevesi cataloging how often game changing tech has been derided as "a toy" Facebook iphone guis 
+a16z	717041262289747968	2016-04-04T17:28:53	A16z leads $3.1M seed investment in George Hotz's wildly ambitious self-driving car startup  
+a16z	717002943451402240	2016-04-04T14:56:37	Congrats to the comma_ai team on the a16z investment. The new Pirates, methinks.
+a16z	716974334581952514	2016-04-04T13:02:56	Why fintech? a16z's astrange shows us. 75% millelenials prefer dentists to bank messages. bdcfintech 
+a16z	716900101436866560	2016-04-04T08:07:58	"Mobile Is Eating the World" - the latest (March 2016) version of this remarkable BenedictEvans a16z story 
+a16z	716890615112462336	2016-04-04T07:30:16	Good stuff. a16z Podcast: Teams, Trust, and Object Lessons w/ dickc and bhorowitz  
+a16z	716893812619128832	2016-04-04T07:42:58	.a16z invests in Comma.ai and the WhatsApp effect in AI 
+a16z	716815183251832836	2016-04-04T02:30:32	George Hotz's autonomous tech startup gets cash infusion from a16z  jmbooyah 
+a16z	716202747465441280	2016-04-02T09:56:56	This is a wonderful podcast episode from a16z 
+a16z	716097986325905413	2016-04-02T03:00:39	This a16z interview on company building is solid gold:     TRUTH
+a16z	716065624099672064	2016-04-02T00:52:03	a16z: Investing in (Business and Career) Change. Probably my most favourite podcast on business.  
+a16z	716065623269253120	2016-04-02T00:52:03	This alecjross a16z pod really resonated w me. Industries of the Future, &amp; the geographies poised to capitalize: 
+a16z	715689641643364352	2016-03-31T23:58:02	Zenefits My team loves the a16z podcast and Kara Swisher's Re/code Decode podcast too - both great for entrepreneurs! &lt;3
+a16z	715639338160119808	2016-03-31T20:38:08	elliswonk Don’t knock interviews. Some of my favorite podcasts are well-done interviews, e.g., a16z’s.
+a16z	715569981300191232	2016-03-31T16:02:32	My new favorite podcast a16z
+a16z	715364856111710208	2016-03-31T02:27:27	Totally agree.  An hour of pmarca is invaluable.   Podcasts are making conventional radio obsolete in my car.   
+a16z	716029838889394176	2016-04-01T22:29:51	Bridging the Accountability Gap  Tanium NASDAQ 
+a16z	716043803459657729	2016-04-01T23:25:20	.LarsLuv on company values. From the a16z podcast interview w/ bhorowitz.  
+a16z	715864472246743040	2016-04-01T11:32:44	Awesome video in here featuring HermanNarula AaronNeale gabrielgambetta talking SpatialOS &amp; company culture!  
+a16z	715854391077707776	2016-04-01T10:52:41	Estonia launches its "Country as a Service" platform  Another bold move after e-govt project.
+a16z	715786736094298112	2016-04-01T06:23:51	Estonia launched Country As A Service for the rest of the world:  IlvesToomas seikatsu estonianmafia
+a16z	715699771072065537	2016-04-01T00:38:17	VR and other tech will soon drive the mobility of human capital.  
+a16z	715779395248590848	2016-04-01T05:54:41	And please, if you're going to write about WeChat, even in passing, read conniechan's overview first.  
+a16z	715773848147374080	2016-04-01T05:32:38	6/ THIS is what a WeChat transaction actually looks like (ordering McDonalds); not a chat but an app-within-an-app. 
+a16z	715773530235924480	2016-04-01T05:31:22	2/ WeChat’s earliest official accounts back in 2013 were chat and text based, but it wasn't effective for most use cases.
+a16z	715696934762233856	2016-04-01T00:27:00	On Medium posts get more interesting the longer they live on. More highlights/comments/responses. Showing signs of powerful network effects
+a16z	715915886545084416	2016-04-01T14:57:03	“The Tesla Model 3 Event, in GIFs.” by ProductHunt 
+a16z	715768391802478592	2016-04-01T05:10:57	elonmusk FYI, you've been added as a maker of Tesla Model 3 on ProductHunt  h/t nivo0o0 🙌
+a16z	715627804008833024	2016-03-31T19:52:18	"Creative monopolies aren't just good for the rest of society; they're powerful engines for making it better."  
+a16z	715633673345875968	2016-03-31T20:15:38	Upon further review... Why I'm no longer reporting on Fidelity's monthly startup valuations  
+a16z	715716302245990400	2016-04-01T01:43:58	.3/3 as in the movie "you (we) can't handle the truth" data isn't perfect but it can keep ephemeral brain/us honest  
+a16z	715600084373737476	2016-03-31T18:02:09	Pass the baton. Don't throw over the wall. Scaling up lesson by a16z 
+a16z	715620391448748032	2016-03-31T19:22:51	Why Everybody Loves Seniors on Airbnb  via technology
+a16z	715572262456266752	2016-03-31T16:11:36	Welcome to the Virtual Age, a new blog from Michael Abrash, Chief Scientist at Oculus:  
+a16z	715550501165744128	2016-03-31T14:45:08	Mobile: The Universal Technology Product (benedictevans - a16z) 
+a16z	715624783845531648	2016-03-31T19:40:18	John Chambers on CNBC discussing commercial drones and why he joined Airware's board 
+a16z	715567227773128706	2016-03-31T15:51:36	I'm a little late to this one from LarsLuv~it's as good as reported "Thoughts on building weatherproof companies" 
+a16z	715546247801610240	2016-03-31T14:28:14	Thanks to a16z - esp. Tina, Kristina &amp; Matt on the Talent/People team - for the terrific event last night. Great topic, awesome people!
+a16z	715361442220871680	2016-03-31T02:13:53	I highly recommend the a16z podcast to anyone who wants to run their own business successfully
+a16z	715360981623443460	2016-03-31T02:12:03	That's how I feel, much of what was holding me back was me making excuses for why I don't have to do the shit I NEED to do
+a16z	715360811330506752	2016-03-31T02:11:22	When he was running his company it never got easy after the first day, he had to do difficult things on his own because he HAD to
+a16z	715360575958687745	2016-03-31T02:10:26	Anything you want to learn is on the Internet...I listened to this dope a16z podcast episode and the dude was like (ctd)
+a16z	715331987230228480	2016-03-31T00:16:50	Still amazing to think about how quickly this happened--via presentation by BenedictEvans [] 
+a16z	715334033643847680	2016-03-31T00:24:58	Mobile Is Eating the World (2016) - Scale, ecosystems, productivity, search, discovery: by BenedictEvans a16z 
+a16z	715331285221126144	2016-03-31T00:14:03	2/3  raised $ from a16z 1st tech co. in its substantial portfolio serving Sub-Saharan Africa 
+a16z	715228994250080256	2016-03-30T17:27:35	2 announcements branch_co . 1) funding w a16z and 2) our launch in tanzania this week.   
+a16z	715208336891846656	2016-03-30T16:05:30	Thoughts on Building Weatherproof Companies by LarsLuv of a16z  
+a16z	715316039223881728	2016-03-30T23:13:28	a16z Podcast: Truth and Humanity in Leadership with bethanycoates larsluv BreakLine vets program series 
+a16z	715232955203850240	2016-03-30T17:43:19	Software coding is quite possibly the most open, inviting, inclusive profession ever: 
+a16z	715302095134597120	2016-03-30T22:18:03	Branch․co raises $9.2 million to bring financial services where banks don’t go  by lorakolodny
+a16z	715298586427310082	2016-03-30T22:04:07	This is Amazon:Walmart::Fintech:RetailBanks. Branch network going from asset to liability very fast 
+a16z	715156902754271232	2016-03-30T12:41:07	.Genius to launch advertising business 
+a16z	715210894108700673	2016-03-30T16:15:39	I dare anyone to find a better conversational overview of AI than this one - smc90, stevesi, Frank Chen via a16z 
+a16z	715237793962803201	2016-03-30T18:02:33	Management lessons from "the only successful slave revolt in history", via bhorowitz 
+a16z	715192012056748032	2016-03-30T15:00:37	Insightful take by balajis on how laws/regulations impede U.S. infrastructure.  Lessons for digital deployment, too.
+a16z	715180421244461056	2016-03-30T14:14:34	Kiva cofounder Matt Flannery has raised $9.2 million from a16z for a "branchless bank" for the developing world. 
+a16z	715181543698866176	2016-03-30T14:19:02	Very excited to announce we are leading Series A in Branch. Here's why: 
+a16z	715010285011120128	2016-03-30T02:58:30	"The Winning Strategy: Go Boring...and be patient" via arampell  
+a16z	714957072392175617	2016-03-29T23:27:03	Distribution v Innovation!  
+a16z	715050926063620097	2016-03-30T05:40:00	Best thing on leadership in some time; thx larsluv (I can vouch for part about real data at real board meetings!) 
+a16z	715032028589195264	2016-03-30T04:24:54	I'm a little behind but I liked this a16z podcast on originality, especially the "cultural contribution" concept. 
+a16z	714859797489655812	2016-03-29T17:00:31	Lyft gets back to Zimride roots with Lyft Carpool  by sarahbuhr 
+a16z	715032373528760320	2016-03-30T04:26:17	available as an ebook too!  
+a16z	715032107182108676	2016-03-30T04:25:13	Altimor codinghorror also available as an ebook here --&gt; 
+a16z	715005168153075712	2016-03-30T02:38:10	"If you can find a way to try out the Rift, do it. The future is finally here."  
+a16z	714989845496651781	2016-03-30T01:37:17	my new favorite mobile deck =&gt; Mobile Is Eating the World (2016) by benedictevans 
+a16z	714952743429931008	2016-03-29T23:09:51	I don't know what's more important if you're serious abt building to last- if "built to flip" why bother abt anythg? 
+a16z	714915498350272513	2016-03-29T20:41:51	&amp; EXCELLENT cdixon (a16z) old post on VC &amp; the Babe Ruth Effect  lossaversion 
+a16z	714840384732463105	2016-03-29T15:43:23	anshublog perhaps the same thing;)
+a16z	714838691701661696	2016-03-29T15:36:39	Mobile: the universal technology product (Mobile Is Eating the World, 2016 edition, by benedictevans): 
+a16z	714799303219351552	2016-03-29T13:00:08	.GetRingly's new smart bracelet is wearable tech you might actually wear.  
+a16z	714787963109031936	2016-03-29T12:15:05	Let's get down to business! Our new BusinessesAtWork report shows growth &amp; popularity of enterprise cloud apps &gt; 
+a16z	714659070691528705	2016-03-29T03:42:54	LarsLuv is a competitor but his post on weatherproof companies is too good to ignore. respect noshortcuts
+a16z	714621828757499904	2016-03-29T01:14:55	“Thoughts on building weatherproof companies” by LarsLuv 
+a16z	714569975692791808	2016-03-28T21:48:52	Excellent read for the aspiring entrepreneur: "Thoughts on Building Weatherproof Companies" 
+a16z	714707139407847424	2016-03-29T06:53:55	“Without this influence from the top down and strong founder-product fit, it…” — Besvinick  
+a16z	714532257654910976	2016-03-28T19:19:00	Why I'm optimistic about VR - I believe Moore's Law will solve the problems that matter, so we'll overlook the problems that aren't solved
+a16z	714528989453398021	2016-03-28T19:06:01	Pretty great line in Oculus' safety manual 
+a16z	714513345508982784	2016-03-28T18:03:51	Some happy few will be oculously rifting today. 
+a16z	714589921198096384	2016-03-28T23:08:08	LarsLuv This post you wrote is amazing - one can build courses around this for founders &amp; startups - that deep - 
+a16z	714572965170581504	2016-03-28T22:00:45	Insightful article on building 'weatherproof' companies from LarsLuv, esp like the not lying to yourself part 
+a16z	714608023298187264	2016-03-29T00:20:04	MaryGreenIM no we totally appreciate it!! thank *you*
+a16z	714564860147699716	2016-03-28T21:28:33	"If you do not define how your company does business...it will be defined for you." 
+a16z	714561873895493632	2016-03-28T21:16:41	Don't hire executives on "look and feel."  
+a16z	714557423361650691	2016-03-28T20:59:00	WOW, must read for all CEOs who found their market fit and are scaling their company. 
+a16z	714551404623491072	2016-03-28T20:35:05	Great read by a great leader. Would work at his company again larsluv. Thoughts on Building Weatherproof Companies 
+a16z	714532630188920833	2016-03-28T19:20:29	Building firms for the long term. a16z on creating an organization that will weather good times and bad. 
+a16z	714478996205871104	2016-03-28T15:47:21	Veterans embed in tech with BreakLine program backed by a16z hpe paypal salesforce 
+a16z	714316067179397120	2016-03-28T04:59:56	This a16z podcast series is a fantastic -- and free! -- business and innovation education. USArmy should tune in. 
+a16z	714470796459171840	2016-03-28T15:14:46	Great a16z interview with martin_casado. Hear more in his keynote interop 
+a16z	714481050974609410	2016-03-28T15:55:31	ICYMI a16z Exec Explained How the VC Firm Works  
+a16z	714347629069656064	2016-03-28T07:05:21	Do not follow your passion (listen to it &amp; it'll make sense). And more from bhorowitz's brilliant speech Columbia 
+a16z	714507158633652224	2016-03-28T17:39:16	MaryGreenIM Hi Mary, ok, we figured it out:) For now, please feel free to share from this link:  -- thank you!
+a16z	714505016350932992	2016-03-28T17:30:45	MaryGreenIM hi Mary, we were working on this but could you send us a screenshot or more details? from where were you trying? thank you!!
+a16z	714297461783678976	2016-03-28T03:46:00	“You have a bigger opportunity than ever before to build a long-lasting, fundamentally important tech company.” 
+a16z	714096633961717762	2016-03-27T14:27:59	One of the best articles I've read in a while for CEOs who want to scale. Nice job larsluv 
+a16z	714032781152550912	2016-03-27T10:14:15	Feld Thoughts:  Building Long Term Companies 
+a16z	714234737980792832	2016-03-27T23:36:46	Thoughts on building weatherproof companies ⬅️ great advice that applies to all leaders, not just startup CEOs  a16z
+a16z	713647856813490176	2016-03-26T08:44:42	Q&amp;A with pmarca in front of 25 veterans shifting into careers in the tech industry   
+a16z	713648607103049729	2016-03-26T08:47:41	a16z Podcast: Investing in (Business and Career) Change  Deep insights from pmarca &amp; worth listening
+a16z	713668240636030977	2016-03-26T10:05:42	"Good companies are BOUGHT, not SOLD" an EXCELLENT post on company building, MustRead by a16z's LarsLuv 
+a16z	713499324311670784	2016-03-25T22:54:29	"The best pitches quickly turn into discussions with both sides of the table contributing and learning." 
+a16z	713453606796656644	2016-03-25T19:52:49	Saku Panditharatne of Andreessen Horowitz (a16z) gives her take on how to spot the next big trends in tech. 
+a16z	713466449143205888	2016-03-25T20:43:51	.Airbnb is one of 1st American cos. doing biz in Cuba. Bchesky shared his biz insight w/ Cuban entreps 
+a16z	713464501819932672	2016-03-25T20:36:07	How do you make utilities inspections safer? Airware’s infographic explains: 
+a16z	713462685065555968	2016-03-25T20:28:54	Expert commentary on the significance of the AlphaGo milestone, and the future of self-learning AI. ? A16z
+a16z	713423878027132930	2016-03-25T17:54:41	stevesi a16z withfries2 it was the best podcast in a while. Have a medium post coming up
+a16z	713420524521525248	2016-03-25T17:41:22	9/ PS. a16z's withfries2 and I podcasted on practical side of doing AI/ML in this look at how tech in AI evolved 
+a16z	713519626710175744	2016-03-26T00:15:10	Really enjoying this post on building weatherproof companies from LarsLuv 
+a16z	713423348370444293	2016-03-25T17:52:35	HarvardBiz a16z this is so true. It's like a body without a soul.
+a16z	713437957034672128	2016-03-25T18:50:38	The Hard Thing About Hard Things by bhorowitz is without a doubt the most useful business book I've ever read 
+a16z	713483670024118272	2016-03-25T21:52:17	"Always remember that the purpose of your company is to serve others, not your ego." 
+a16z	713469278142369792	2016-03-25T20:55:06	Impressed by how this counsel is both expansive and practical for building a weatherproof company by LarsLuv 
+a16z	713512087486537728	2016-03-25T23:45:12	My god. This article from LarsLuv is the best thing I've read on building a business since bhorowitz. 
+a16z	713436798974828545	2016-03-25T18:46:02	LarsLuv Medium Brilliantly written...it cannot get any simpler and blunt than this !!!!
+a16z	713462074915983361	2016-03-25T20:26:28	a16z Podcast: Scaling Companies... and Culture with LarsLuv bhorowitz 
+a16z	713433971351093248	2016-03-25T18:34:48	My tips on building great important companies, the quick read book - 
+a16z	713404667854622720	2016-03-25T16:38:21	a16z Podcast: Investing in Business and Career Change  (with Marc Andreessen &amp; Don Faul at BreakLine)
+a16z	713394244753494017	2016-03-25T15:56:56	Andreessens give $275,000, seek to aid military veterans in tech 
+a16z	713221664805244928	2016-03-25T04:31:10	Another example of useful sims: MD simulation aiding enzyme design in francesarnold 's lab.   
+a16z	713194164096094208	2016-03-25T02:41:53	When bits start to matter more than atoms, maps start looking like this.    
+a16z	713155443527446529	2016-03-25T00:08:02	When the founder is still involved, companies are more innovative and able to maintain more loyal employees 
+a16z	713116058735890432	2016-03-24T21:31:32	What I’ll miss about Andy Grove 
+a16z	713110857484468224	2016-03-24T21:10:52	How can marketers and publishers best use Medium? ev shares his vision.  
+a16z	713112350337970176	2016-03-24T21:16:47	Thank you stevesi for stopping by today 😊 ICYMI: this episode of a16z podcast is 👍👍  
+a16z	713103287176663040	2016-03-24T20:40:47	Fun LIVE Chat on ProductHunt 🙌  Cool questions about lots of stuff (startups, PM, tech, mgmt, bigco v smallco)  
+a16z	713095407568457728	2016-03-24T20:09:28	ML is great, but simulations have a unique, extrapolative ability, eg  Improbableio ’s Internet simulations.  
+a16z	713074787757735936	2016-03-24T18:47:32	"So what did you do today?" "Oh nothing much, just simulated the entire internet in a distributed operating system" 
+a16z	713040755888164869	2016-03-24T16:32:18	Biggest-ever Internet simulation built by British government and UK startup Improbable to find vulnerabilities. 
+a16z	713026060535902209	2016-03-24T15:33:54	What we found when we simulated the entire internet simulation infosec  
+a16z	713022764513296384	2016-03-24T15:20:49	Rare analytically perceptive take on how a rapidly scaling O2O business works! - on Instacart - by danprimack.  
+a16z	713019470550159361	2016-03-24T15:07:43	"Instacart is now unit economic profitable in 10 of its markets..the company recently turned gross margin positive" 
+a16z	712987420195598336	2016-03-24T13:00:22	Mesosphere raises $73.5M Series C led by HPE, with Microsoft as strategic investor  by fredericl
+a16z	712745622227460097	2016-03-23T20:59:33	This is a very big deal and could be a huge blow to the "lower stack" (eg not hardware/OS) wallets (eg PayPal) 
+a16z	712739921669201920	2016-03-23T20:36:54	Engineering Proteins in the Cloud w/Python and Transcriptic:  How to Make Any Protein You Want for $360 btnaughton 
+a16z	712672585352290304	2016-03-23T16:09:19	*somebody* needs to create a data network effect for test run results. it won't be me.  cc a16z
+a16z	712676188557352961	2016-03-23T16:23:38	“my dream product: a business operations (BizOps platform) that would…” — bhorowitz  
+a16z	712635213034217472	2016-03-23T13:40:49	I just published “Low friction, high delight on-boarding via Slack”  Thanks to dan_kolodgee zachinglis
+a16z	712661960374923265	2016-03-23T15:27:06	We are proud to announce our new partnership with AmericanCancer. Learn more at . 
+a16z	712640935579017216	2016-03-23T14:03:33	Your Worst Deeds Don’t Define You - Absolutely incredible a16z Podcast with ShakaSenghor. So much work to do. 
+a16z	712558838269022208	2016-03-23T08:37:20	I love the a16z podcast; it totally blows my mind that Dartmouth were studying neural networks in the 50s 
+a16z	712714267695263744	2016-03-23T18:54:57	Spacekatgal a16z soylent I'm all in then - my friends in Kyoto all rage about it! It's truly gloabl. Thanks &lt;3
+a16z	712712943713062912	2016-03-23T18:49:42	arriola a16z soylent it's excellent! Press has done a serious disservice to this issue. The reports on it are simply absurd.
+a16z	712288753910464513	2016-03-22T14:44:07	This is what the kitchen is stocked with at the Wu house. I ❤️ soylent! 
+a16z	712681450257010688	2016-03-23T16:44:33	College dropout -&gt; TechCrunch reporter -&gt; a16z investor. Meet kylebrussell  
+a16z	712582031226613760	2016-03-23T10:09:30	Exceptional post on how to spot the next big trends in tech from a16z  … via Alicebentinck
+a16z	712570690038337536	2016-03-23T09:24:26	How do you find the next big thing? Great post from sknthla of a16z 
+a16z	712335676960677888	2016-03-22T17:50:34	martin_casado glad to see you're about to push security and infrastructure into a whole new age at a16z
+a16z	712423834293559297	2016-03-22T23:40:52	I speak yell scream directly at the old guard on behalf of the future.
+a16z	712427382548791296	2016-03-22T23:54:58	emilychangtv pmarca bhorowitz Andy's Only the Parnoid Survive is one of favorite books on entrepreneurship
+a16z	711949314516504577	2016-03-21T16:15:18	.a16z Exec Explains How the VC Firm Works  
+a16z	712662907243388929	2016-03-23T15:30:52	We're talking abt IPOs and terms/conversions to common @ our offsite which reminded me of this a16z podcast i liked 
+a16z	712385137774895105	2016-03-22T21:07:06	Every founder should listen to this great Recode interview with Orion Hindawi of Tanium. He's the real deal.  
+a16z	712501627463147520	2016-03-23T04:50:00	Half of the YC class from today’s Demo Day were on Product Hunt prior. 🐱  
+a16z	712278970604109824	2016-03-22T14:05:14	1/We just launched Topics, a new way to share and discover things on ProductHunt:  🚀 
+a16z	712335395418202114	2016-03-22T17:49:27	You don't compete with PowerPoint with better slides or Excel with better spreadsheets. You move away from slides and spreadsheets
+a16z	712335128354099200	2016-03-22T17:48:23	But tablets fit into much broader generational change in productivity away from typing &amp; filing and towards SaaS, AI &amp; unbundled Office
+a16z	712103148089782272	2016-03-22T02:26:35	Apropos Apple's continuing iPad push, revisiting my post on how tools shape your work, and how Excel will fade away 
+a16z	712072304121884672	2016-03-22T00:24:01	Shedding a few tears tonight for my hero and the best CEO and teacher I have ever known. Goodbye Andy. I love you. 
+a16z	712076363365113856	2016-03-22T00:40:09	The Man Who Built Silicon Valley: A Tribute to Andy Grove 
+a16z	712041239173058560	2016-03-21T22:20:35	What's next in computing? cdixon of a16z answers  
+a16z	712000233845231616	2016-03-21T19:37:38	How to figure out next generation investment trends by a16z 
+a16z	711999773050535936	2016-03-21T19:35:48	Hunting What’s Next in High Tech a16z blog 
+a16z	711981897635594241	2016-03-21T18:24:47	Great interview with tilt cofounder jjbeshara on how to run a startup! 
+a16z	711990202093404160	2016-03-21T18:57:46	'Mobile is consumption and PC is creation' is a completely false mental model that tells you nothing at all about what's going on in tech.
+a16z	711987888401985537	2016-03-21T18:48:35	Shifting the release of the SE to 6 months after the larger model is a way to reduce cannibalisation. Also smooths out the supply chain.
+a16z	711984078182977537	2016-03-21T18:33:26	So, Apple is having a new run at the mid-range smartphone market, with a new strategy, and potentially could do much better.
+a16z	711984483633745920	2016-03-21T18:35:03	6/ Everything new, all innovation happening on mobile OS and mobile hardware (+cloud). That's done. We're just in a long tail now. // EOTS
+a16z	711984291505307648	2016-03-21T18:34:17	stevesi great thread. Echoes an equally interesting a16z podcast 
+a16z	711982988821594113	2016-03-21T18:29:07	2/ First work is changing. But changes take a generation. Desktop defined productivity but we're in the long tail of that.
+a16z	711982627092189184	2016-03-21T18:27:40	1/ Ppl keep asking for "desktop" s/w on an iPad but keep forgetting that (a) already there (b) the desktop is rear-view mirror view.
+a16z	711974382533345282	2016-03-21T17:54:55	An iPad Pro CPU has 'more than 3bn' transistors. The original Pentium for 1995 had 3.1 million. Not a perfect comparison, but relevant.
+a16z	711926523977052160	2016-03-21T14:44:44	“Usermind” by bhorowitz 
+a16z	711687981149528066	2016-03-20T22:56:51	3 of 3: your Sunday evening listen -- a16z Podcast on life and redemption in prison with ShakaSenghor &amp; bhorowitz 
+a16z	711687624201621504	2016-03-20T22:55:26	2 of 3: your weekend reads: Benedict's newsletter 
+a16z	711687457377374208	2016-03-20T22:54:47	1 of 3 your weekend reads: *this* week's a16z newsletter 
+a16z	711568103256285184	2016-03-20T15:00:30	When I lost the ability to eat solid food, I tried Soylent — now I'm a believer  
+a16z	711221861535784961	2016-03-19T16:04:40	Podcast by hugely thoughtful bhorowitz on the important topic of the prison crisis through a personal prism 
+a16z	711316272508641280	2016-03-19T22:19:49	Do enough rides per week and get a free car. Interesting option for people starting with $0 resources. 
+a16z	711298715646955520	2016-03-19T21:10:03	"The human mind is still 50,000 times more energy efficient than machine intelligence."  
+a16z	711296900465491968	2016-03-19T21:02:50	"Geoffrey Hinton, the godfather of deep learning, on the past, present and future of AI" 
+a16z	711183577468239872	2016-03-19T13:32:32	"In Deep Learning, data wins over algorithms" - interesting a16z podcast episode. 
+a16z	710903075293241344	2016-03-18T18:57:55	Recommended listening: a16z podcast on AI machinelearning and google AlphaGo 
+a16z	711002283438448642	2016-03-19T01:32:08	Two Powerful Mental Models: Network Effects and Critical Mass via nireyal  
+a16z	711000247967698944	2016-03-19T01:24:03	My interview with my guy ShakaSenghor who spent 19 years behind bars and 7 in solitary. A very real discussion. 
+a16z	710978519078084608	2016-03-18T23:57:42	Crazy week at GDC, VR attendance was so huge they moved talks to rooms with double capacity. And all demos booked up 
+a16z	710845331412373505	2016-03-18T15:08:28	What are some transformative directions for software startups in Bio &amp; HC?  Here’s my take:  vatortv a16z 
+a16z	710993808255635457	2016-03-19T00:58:28	"Never buy software that wasn't run as a service first" -- classic wattersjames quote.
+a16z	710948902384508929	2016-03-18T22:00:01	Drixer pmarca benthompson EXACTLY. That's what we're sayin' //cc anuhariharan cdixon
+a16z	710945316049059841	2016-03-18T21:45:46	Drixer pmarca but yes, later in the deck we do share strategies for how :) but none at expense of users
+a16z	710945151628091392	2016-03-18T21:45:07	Drixer pmarca that is, that "network effects create" not just action verb "create..."
+a16z	710944254491648000	2016-03-18T21:41:33	Drixer pmarca that slide is not a directive, it's simply definitional/ descriptive: what hapoens when users find a lot of value in network
+a16z	710857385129017345	2016-03-18T15:56:22	Interview with Palmer Luckey on his day-to-day involvement, VR's future, more (krisgraft)  
+a16z	710922891659845633	2016-03-18T20:16:40	Is SDN Necessary? Slides from my SOSR keynote posted  via SlideShare
+a16z	710843854568755200	2016-03-18T15:02:36	2016 Security 100: 20 Coolest Web And Application Security Vendors  via CRN infosec 
+a16z	710824605292822528	2016-03-18T13:46:07	Spot-on post about two of the most misused concepts out there: network effects and critical mass  trengriffin a16z
+a16z	710454463602024448	2016-03-17T13:15:18	Super detailed slide deck by a16z on "how to go about  creating network effects more deterministically" 
+a16z	710608676801945600	2016-03-17T23:28:05	In his HowtoStartaStartup lecture, bhorowitz dropped serious knowledge on managing a team.  
+a16z	710828622181957633	2016-03-18T14:02:04	What does the future of AI mean to society? a16z podcast goes deep into deeplearning + machinelearning. 🗣🎙 🤖 💭  
+a16z	710783548119187456	2016-03-18T11:02:58	At this point it's obvious -Data is eating AI-  Super interesting a16z podcast by Frank Chen and Steven Sinofsky 
+a16z	710241925270474753	2016-03-16T23:10:45	Internet video realtalk w/ one of youtube's finest creators. CaseyNeistat on a16z 
+a16z	710495936234004481	2016-03-17T16:00:06	Catching up on a16z podcast, great source for how tech trends shape our future. Consistently informative analysis. 
+a16z	710873087470735360	2016-03-18T16:58:46	“2 out of 3 developers are self-taught, and other insights from Stack Overflow’s 2016 survey of 50…” by ossia 
+a16z	710535786576240640	2016-03-17T18:38:27	The landscape of developer technologies, based on the 2016 Stack Overflow Dev Survey  
+a16z	710519277544050688	2016-03-17T17:32:51	tparekh StackOverflow Diversity. This does not add to a 100 since everyone is multi-lingual.
+a16z	710518310459170816	2016-03-17T17:29:00	As aways super interesting results from StackOverflow Developer Survey  (my combined chart). 
+a16z	710615742568239105	2016-03-17T23:56:10	"The vision, mission, and strategy for Coinbase" -  
+a16z	710279158312669184	2016-03-17T01:38:42	A solid heuristic “However, mining is like a machine minimum wage…” — 21  
+a16z	710125345660207104	2016-03-16T15:27:30	As 21 Inc. Launches its Ping21 Internet of Things concept, here's a look at some IOT market size projections: 
+a16z	710103853685866496	2016-03-16T14:02:06	Excited to see 21 move in this direction.  Related blog post on how bitcoin decentralized grids are powerful: 
+a16z	710578758395146240	2016-03-17T21:29:12	Your drone awesomeness for the day is a flying + wall climbing robot called SCAMP brought to you by StanfordEng 
+a16z	710539085752967168	2016-03-17T18:51:33	Holy sh*t!! Onshape is the First Professional 3D CAD System for iPad Pro &amp; Apple Pencil 
+a16z	710414331226300416	2016-03-17T10:35:50	It’s alive! Introducing the results of the 2016 Stack Overflow Developer Survey:  DevSurvey2016 NoMoreNinjas
+a16z	710137311237832705	2016-03-16T16:15:03	VR won’t only be first-person games. Chronos is a good example of how developers can do 3rd person adventures 
+a16z	710105417561587712	2016-03-16T14:08:19	Rift launch's with 30 incredible VR games – all available March 28 with more coming soon.  
+a16z	710121694149513216	2016-03-16T15:12:59	NYTimes piece on SXSW: Nootrobox &amp; gocubes are a relief to years of general ennui in the tech world. We agree. 
+a16z	710347569516314624	2016-03-17T06:10:32	High-tech Coolhunting  
+a16z	709980446252212224	2016-03-16T05:51:43	iPeterSharkey it's consistently underestimated how much users will adapt when the tech is truly breakthrough
+a16z	709932248603222017	2016-03-16T02:40:12	caseyneistat interviewed by a16z on creating video content  
+a16z	709916328165965824	2016-03-16T01:36:56	Your drone awesomeness for the day reveals that there is no end of the rainbow 
+a16z	709914112466165760	2016-03-16T01:28:08	Wow. Great deck on Network Effects courtesy of anuhariharan and a16z.   
+a16z	709925305272504320	2016-03-16T02:12:37	Pay bitcoin to a grid of machines and have them do tasks, starting with ping. It's like map/reduce, but for bitcoin. 
+a16z	709925498470711296	2016-03-16T02:13:23	21 Inc Launches First Proof-of-Concept for Bitcoin Computer Network  
+a16z	709857322953089024	2016-03-15T21:42:28	Microsoft changes its mind and re-invites Okta its conference  and now back to regularly scheduled programming.
+a16z	709850375021404160	2016-03-15T21:14:52	That moment you realize your lyft driver is born deaf but technology allows him same opportunities logangreen YEAH 
+a16z	709619511654088705	2016-03-15T05:57:30	Driving with Lyft is even easier. Announcing Express Drive with GM:  
+a16z	709790310444871681	2016-03-15T17:16:11	stevesi that's a great point.  Also, it looks like hybrid OS / service companies (e.g. GitHub) are having a lot of success.
+a16z	709768070944784385	2016-03-15T15:47:49	The shift from design for manufacture to design for operations lies at the heart of 'DevOps'  
+a16z	709722756909244417	2016-03-15T12:47:45	Lenovo pulls back duvet – oh em gee, it's Maxta 
+a16z	709556981690925056	2016-03-15T01:49:02	Open source project Meteor has come a long way since it reacher version 1.0 in 2014:  
+a16z	709509786065313794	2016-03-14T22:41:29	Great read from a16z . Loved eying their emails each week  tech
+a16z	709295845615730688	2016-03-14T08:31:22	signar yep—tastemaker.
+a16z	709295511312932864	2016-03-14T08:30:02	Always interesting reads - a16z monthly newsletter - The Disruption Issue 
+a16z	709412983353548800	2016-03-14T16:16:50	Hunting What’s Next in High Tech by a16z's sknthla  + more from CBinsights 
+a16z	709565754933284864	2016-03-15T02:23:53	MSFT has reason to be afraid. Be very afraid . . .  okta
+a16z	709535864997564416	2016-03-15T00:25:07	Microsoft boots startup Okta from an IT conference, cites "broad competition" btw the companies.  Julie188 reports
+a16z	709422807176708097	2016-03-14T16:55:52	"I've yet to meet a developer who actually wants to program the network" (paraphrased) --_drbruced
+a16z	709496343576719362	2016-03-14T21:48:04	Formal verification of race conditions in the real world!  Improbableio
+a16z	709441156178771969	2016-03-14T18:08:47	Spent the morning learning with a16z's podcast on AI &amp; making sense of the buzz around Go - super interesting stuff 
+a16z	709416015667417088	2016-03-14T16:28:53	Excellent post from a16z: Hunting What’s Next in High Tech  
+a16z	709467690860027904	2016-03-14T19:54:13	Here's my story on Imgur and its quest to stay weird and in-jokey even as it grows huge. 
+a16z	709438587444568064	2016-03-14T17:58:34	The exponential value of network effects mustread by@a16z 
+a16z	709381964151832576	2016-03-14T14:13:34	Some very thoughtful parsing of network effects, virality and marketplace dynamics by the a16z team. 
+a16z	709340689914527744	2016-03-14T11:29:34	a16z deck on networkeffects is a must-read. Most important, yet least understood concept in tech: 
+a16z	709242751477387264	2016-03-14T05:00:23	Network Effects by a16z   As a founder who is building a market network, this was a godsend. 💯 insights.
+a16z	709167955125391360	2016-03-14T00:03:10	walkerdavide a16z such a great podcast!
+a16z	709145340885213186	2016-03-13T22:33:19	This made me feel dumb about my previous conception of network effects (in the best way) a16z 
+a16z	709145633483980800	2016-03-13T22:34:28	Network Effects explained by a16z 
+a16z	709095406257442816	2016-03-13T19:14:53	Where do new ideas come from? Fascinating piece by sknthla on spotting the next the thing.  via a16z startup
+a16z	708992999913553921	2016-03-13T12:27:58	Want to make a dent in the universe?  This issue of a16z's newsletter is one even non-startups should read: 
+a16z	708821176101904388	2016-03-13T01:05:12	I got a lot out of this a16z conversation about AI: it pulls a number of threads and trends together. 
+a16z	709002083383451648	2016-03-13T13:04:03	BenedictEvans that tweet prompted this post 
+a16z	708719238064836609	2016-03-12T18:20:08	Is AI going to replace mobile as the center of the tech industry by benedictevans 
+a16z	709081431901921284	2016-03-13T18:19:22	“Every new discovery in machine learning demystifies a bit more of what may be going on in our brains” —pentagoniac 
+a16z	709076609370710016	2016-03-13T18:00:12	johnhenderson on that theme, see also pentagoniac 
+a16z	708953576152891394	2016-03-13T09:51:18	7/ Thus, the story of AlphaGo isn't just about machine intelligence improving. It's about progress in HUMAN intelligence too.
+a16z	708959377038770177	2016-03-13T10:14:21	speed of progress: the world on wednesday amazed a computer beat the top human at go, then on sunday amazed the human beat the computer
+a16z	708769898063761408	2016-03-12T21:41:26	In particular, fellow readers of nntaleb will appreciate the discussion on academic vs. product/market standards for AI approaches. a16z
+a16z	708769206855028736	2016-03-12T21:38:41	Latest pod from a16z gives great context to the recent AlphaGo-Sedol matches. Excellent history of AI techniques. 
+a16z	709075684572856321	2016-03-13T17:56:31	rrhoover come for the shrimp, stay for the network! ;)
+a16z	709075487696379905	2016-03-13T17:55:44	Nivo0o0 always:)
+a16z	708937654096764929	2016-03-13T08:48:02	presence of entrepreneurs&amp;artists is associated with faster long-term growth  HT GarettJones 
+a16z	709039141795696640	2016-03-13T15:31:19	The a16z SXSW2016 mixer is alone worth flying to Austin for. Three hours of pure quality, dense with great people.
+a16z	708827427611369472	2016-03-13T01:30:02	Kicking off sxsw by nursing at the a16z party, woot changetheratio momlife IguessSXSWwillbedifferentformenow
+a16z	708880160569708544	2016-03-13T04:59:35	BUILDGala honoree Brian Chesky inspires with his vision, passion, and spirit of entrepreneurship Airbnb 
+a16z	708443419345952769	2016-03-12T00:04:08	Team a16z: Veterans say you rock!  Thank you for an amazing week w/ your investors, teams, and portcos. BreakLine 
+a16z	708757156577710080	2016-03-12T20:50:48	Thanks! Catch this month's newsletter-- the 'disruption issue' -- here:  
+a16z	708714283945697282	2016-03-12T18:00:27	As a PM who leverages deep learning for actual products, this a16z podcast resonated with me. 
+a16z	708611534440820736	2016-03-12T11:12:09	👉"The triumph of DeepLearning is the triumph of data over algorithms".👈 -withfries2 w stevesi smc90 AI 
+a16z	708743262371061760	2016-03-12T19:55:36	Why I said we'd see that BigData BigCompute are more profoundly significant to humanity than all the hype around them, withfries2.
+a16z	704009081581932545	2016-02-28T18:23:39	Examination of AlphaGo highlights the significance of BigData and BigCompute in our AI march of progress 
+a16z	708533180827967488	2016-03-12T06:00:48	stevesi and I talk about AlphaGo victory and share war stories from early days of AI research a16z podcast 
+a16z	708739250645180416	2016-03-12T19:39:39	"Machines have conquered the last games. Now comes the real world."  
+a16z	708536485331341312	2016-03-12T06:13:56	“What do games tell us about intelligence?” by jugander 
+a16z	708525602274353153	2016-03-12T05:30:42	Gaming is just a hook. The future of virtual reality lies in medicine &amp; many other fields!    
+a16z	708256686063091713	2016-03-11T11:42:07	VR as a new tool in the arsenal for cognitive behavioral therapy 
+a16z	708426358943195136	2016-03-11T22:56:20	sogrady craigkerstiens: Super weird. The OSS pattern I keep running into is *aaS + on-prem sub
+a16z	708424434927808512	2016-03-11T22:48:41	sogrady I’m surprised more haven’t come around to as-a-service as monetization path for OSS, so many seem to actively steer clear
+a16z	708355723990687744	2016-03-11T18:15:39	My new post: "High Tech Coolhunting" - how to find the next big thing before it happens 
+a16z	707949578490912768	2016-03-10T15:21:47	Product Hunt's Rise: An Overnight Success 1,834 Days in the Making   featuring rrhoover 
+a16z	708140155069140992	2016-03-11T03:59:04	Campaign software company NationBuilder doesn't limit itself to one party. Trump and Sanders supporters both use it. 
+a16z	707597189317394432	2016-03-09T16:01:31	One Lawyer’s Motivations and Challenges  via everlaw
+a16z	708330170877288448	2016-03-11T16:34:07	The Most Active VCs In HR Tech And Their Investments In One Infographic via cbinsights  
+a16z	707989558785400832	2016-03-10T18:00:39	8/ Think MarriottIntl StarwoodBuzz execs are not talking about Airbnb regularly?  
+a16z	707986240428228608	2016-03-10T17:47:28	3/ Even within tech, getting to a billion users is happening quicker (see WhatsApp)  
+a16z	707985820700057601	2016-03-10T17:45:48	2/ Technology adoption is happening more quickly. See the internet and cellphones in this  
+a16z	707985292670713857	2016-03-10T17:43:42	1/ It's harder than ever for incumbents to stay on top. Witness decline of S&amp;P 500 lifespan  
+a16z	707705220273410048	2016-03-09T23:10:47	rkfalcon where to start? :) Exchanges, marketplaces, crowdfunding, social networks, dev tools etc
+a16z	707700728177922049	2016-03-09T22:52:56	Watch this, then read through the whole storm 
+a16z	707667239885885440	2016-03-09T20:39:52	Brrrr, AI got cold, twice :-)  'History of Machine Learning' by stevesi a16z lunchnlearn 
+a16z	708018787421982720	2016-03-10T19:56:47	Great slide deck on Network Effects: 
+a16z	708031977845346304	2016-03-10T20:49:12	if you're curious why i constantly push software companies towards data rev models, this a16z podcast is for you: 
+a16z	707995732616331264	2016-03-10T18:25:11	Kick some thinking ass with these mental models: Network Effects and Critical Mass – Andreessen Horowitz 
+a16z	707993467348123648	2016-03-10T18:16:11	.sethjs et al. &amp; startup Honor are using innovation to restore dignity to care-givers. FillTheNeed a16z pmarca 
+a16z	708004527408959488	2016-03-10T19:00:08	Ever wondered how CODE2040 came to be? Dive into our origin story, as told by laurawp 
+a16z	707778282536767489	2016-03-10T04:01:07	The Cloud Awards named Illumio Most Promising Start-Up. Full winner list:  infosec 
+a16z	707955922606432256	2016-03-10T15:46:59	pmarca discusses this with claychristensen a16z podcast  
+a16z	707952371465216002	2016-03-10T15:32:53	12a/ Since this tweet turned out to be star of the tweetstorm, here's a shout out to the fabulous creator of MarI/O Seth Bling sethbling
+a16z	707698892016525312	2016-03-09T22:45:38	This tweetstorm is amazing but so is this must-watch video (if you care about AI) 
+a16z	707666618462052352	2016-03-09T20:37:24	.withfries2 wrote a 16 part tweetstorm about AlphaGo, AI &amp; Google 
+a16z	707927562442379265	2016-03-10T13:54:18	Data network effects: psychology, ethics, + why startups need to get data collection right early on  via a16z
+a16z	707554659846787073	2016-03-09T13:12:31	Great article about the network effect by Anu Hariharan a16z must read for anybody creating a platform (such as... 
+a16z	707574936790028288	2016-03-09T14:33:05	It seems like I reference this a16z post multiple times per year ever since it was written  longtail
+a16z	707625452597215232	2016-03-09T17:53:49	3/ ...eagerness to try new things and learn. That was a tidbit was from AdamMGrant on this great a16z podcast 
+a16z	707632991481176064	2016-03-09T18:23:47	joepawl overcastfm a16z It is an amazing Podcast!
+a16z	707676371439357952	2016-03-09T21:16:09	Holy cow LarsLuv is invigorating. Just a couple minutes for a fireside chat and I'm ready to conquer the world! BreakLine veterans a16z
+a16z	707688394248196097	2016-03-09T22:03:56	.LarsLuv thx for speaking w/ BreakLine veterans today. Loved ur advice: If u lead w/ humanity, those around u will see you, &amp; raise you!
+a16z	707782702653636608	2016-03-10T04:18:40	A plain language look at Ethereum.  
+a16z	707647625160359936	2016-03-09T19:21:55	16/ So is this AlphaGo win the beginning of real progress towards generalized intelligence compared to the false start of winning chess?
+a16z	707646811024924672	2016-03-09T19:18:41	15/ Rather than just solve problems with  brute force computational power and reliable, large memories
+a16z	707646458019708928	2016-03-09T19:17:17	14/ So the oh-so-tantalizing prospect is that we can program computers to mimic human intuition and flow and imagination
+a16z	707646260182790145	2016-03-09T19:16:30	13/ Finally, as Google writes: 
+a16z	707627097913569280	2016-03-09T18:00:21	12/ figured out how to play and beat Super Mario World 
+a16z	707626923887693824	2016-03-09T17:59:40	11/ algorithms which learn themselves through experience. A delightful example if this class of algorithms called genetic algorithms
+a16z	707626750281297921	2016-03-09T17:58:58	10/ Third, it perfectly illustrates the pendulum switch in AI away from expert systems (capturing human expertise in algorithms) to
+a16z	707626591900176384	2016-03-09T17:58:21	9/ very large search space without brute force exploring every node
+a16z	707626449625161729	2016-03-09T17:57:47	8/ technique in isolation. Monte Carlo tree search is unsung hero (since deep learning gets all the glory), as it’s great way of exploring
+a16z	707626276069122048	2016-03-09T17:57:05	7/ Second, it shows off how an ensemble of learning techniques (deep learning + reinforcement + Monte Carlo tree search) beats any single
+a16z	707626077267431424	2016-03-09T17:56:18	6/ compared with chess. Because yo can’t bruce force search space, whole new set of learning algorithms were needed
+a16z	707625921138655236	2016-03-09T17:55:41	5/ First, Go is much more complicated than tic-tac-toe or checkers or chess. GOOG points out Go has a googol more possible positions
+a16z	707625684642832384	2016-03-09T17:54:44	4/ AI breakthroughs with applications far beyond board games
+a16z	707625572071944196	2016-03-09T17:54:18	3/ But here are some reasons AI researchers are fired up about AlphaGo beating Lee Se-dol and how it might presage much more general
+a16z	707625273764655104	2016-03-09T17:53:06	2/ We saw similar media mania around Deep Blue beating Kasparov in 1996-97, but that didn't lead to general AI breakthroughs
+a16z	707625167288029184	2016-03-09T17:52:41	1/ Why are people so fired up about a computer winning yet-another-board-game?
+a16z	707615090191638528	2016-03-09T17:12:39	AR, AI, VR and PCs - Disrupting mobile (new blog post) ♻️ 
+a16z	707648950296190976	2016-03-09T19:27:11	Spectacular comprehensive explanation of network effects by my partner anuhariharan and colleagues -- read today! 😀 
+a16z	707624625476231168	2016-03-09T17:50:32	VC podcasts generally ok but this one on data business models is great arampell vijaypande: Data Network Effects  
+a16z	707321202679750656	2016-03-08T21:44:50	Great presentation on the nuances of network effects by a16z  (h/t andrewchen)
+a16z	707308473277526017	2016-03-08T20:54:15	New Brookings research:  Slowdown in productivity growth is NOT a measurement problem; it's real 
+a16z	707294893522026496	2016-03-08T20:00:18	'offerup GMV = $14 bil this year. For context, 's GMV was $15 bil 8 years after its launch. 
+a16z	707249907355095040	2016-03-08T17:01:32	"We teach mktg wrong." To find growth, look for "non-consumption," not current mkt s - claychristensen  via a16z
+a16z	707246019948339200	2016-03-08T16:46:05	Honored to kick off the Forbes CIO Summit last Sunday. It’s not easy being CIO so here’s a shout out to that crew 
+a16z	707239880443731969	2016-03-08T16:21:42	Here's what a Stanford, a16z and bitcoin community members city graph looks like  balajis 
+a16z	707210221756813312	2016-03-08T14:23:50	How Much of a Global Citizen are You? Get your city graph with TeleportInc freepeoplemove  
+a16z	707197194017714176	2016-03-08T13:32:04	US patents by decade  1920s-1930s: Chemistry 1950s-1960s: Electronics 1990s-2000s: Software 
+a16z	707263446065217536	2016-03-08T17:55:20	The new a16z podcast on Data Network Effects is incredible listening for anyone building a software co. Listen here 
+a16z	707222769197420546	2016-03-08T15:13:42	Wow. Incredibly detailed and very very helpful for startup founder/entrepreneurs. Thanks a16z anuhariharan 
+a16z	706989881516494848	2016-03-07T23:48:17	The Mental Models of Network Effects and Critical Mass  via sandimac
+a16z	706943183502991360	2016-03-07T20:42:43	Best summary I've ever seen on Network Effects.From anuhariharan at a16z. Synthesizing + Applying to my work now! 
+a16z	706920923681660928	2016-03-07T19:14:16	'Network Effects' by a16z is the SlideShare of the day. 
+a16z	706916774495842304	2016-03-07T18:57:47	Smart trengriffin a16z post, on internalizing the concepts of Network Effects &amp; Critical Mass as mental models: 
+a16z	706909449680596992	2016-03-07T18:28:41	Hello, it's me—Dialpad. Communications for the modern workplace. See what's new at:  
+a16z	706883639599046657	2016-03-07T16:46:07	“We make more than 10M requests to 3rd party services when load spikes, only SignalFx has stayed up.” mohitgupta 
+a16z	706924793140908032	2016-03-07T19:29:39	More CIO tech risk-taking possible bc of robust security, excellent a/b testing, engineer knowledge,speed deployment 
+a16z	706874620469747712	2016-03-07T16:10:17	Peter Levine “Next-generation open-source companies will have innovated on both the technology &amp; the...  via a16z
+a16z	706902227630198784	2016-03-07T17:59:59	Big Tech Company M&amp;A Trends  via cbinsights 
+a16z	706800326448451586	2016-03-07T11:15:04	The hunt for talent behind cloud computing is pitting three generations of companies against one another. 
+a16z	706865594495275008	2016-03-07T15:34:25	Clayton Christensen is rivetting in this a16z Podcast Disruption.  ~ data &amp; response to it dictates corporate fate
+a16z	706882329852022784	2016-03-07T16:40:55	"It is easier to hold to our principles 100% of the time than it is 98% of the time." Clayton Christensen  a16z 
+a16z	706851920955236352	2016-03-07T14:40:05	interesting podcast about disruption, business models, digital capitalism in the end about values in life! 
+a16z	706850440890224641	2016-03-07T14:34:12	Meanwhile, fabulous episode of a16z Podcast with pmarca claychristensen: Disruption in Business and Life 
+a16z	706508940473819136	2016-03-06T15:57:12	Very nice article . This article is even prescribed my prof at uni Sydney_Uni  for understanding IT inovations. 
+a16z	706363997683994624	2016-03-06T06:21:15	Peter Levine “Next-generation open-source companies will have innovated on both the technology &amp; the business model” 
+a16z	706666186289733632	2016-03-07T02:22:02	withfries2 says ArtificialIntelligence and machinelearning are new intel. All tech will have AI and ML Inside ForbesCIOSummit Forbes
+a16z	706658656016691200	2016-03-07T01:52:07	The awesome &amp; engaging Frank Chen withfries2 kicks off the forbesCIOSummit (extra points for 👌Twitter handle) 
+a16z	705927056589193216	2016-03-05T01:25:00	Cyanogen tackles how developers interact with mobile devices  MOD
+a16z	706034281450045440	2016-03-05T08:31:04	Estonia, ever the digital leader, is using Blockchain to secure health records.      
+a16z	706011603062239232	2016-03-05T07:00:57	a16z with AlecJRoss: Open vs. Closed, Alpha Cities, and the Industries of the Future. Science + HUMANITIES = yes! 
+a16z	705922921265389568	2016-03-05T01:08:34	From encryption to AI, it's harder for laws to keep up with tech, unless people (esp lawmakers) know more basic CS 
+a16z	706299794415693824	2016-03-06T02:06:08	Great explanation of the magic of Andy Grove and High Output Management by bhorowitz. 
+a16z	706282929039630337	2016-03-06T00:59:07	"Contrary to popular narratives about young, technology-savvy entrepreneurs...the median age for innovators is 47." 
+a16z	706107410029682688	2016-03-05T13:21:40	Cash flow is a fact, earnings are an opinion and share prices are a dream. Plan accordingly.
+a16z	706102468124536832	2016-03-05T13:02:01	Entrepreneurs, put this at the top of your reading list! NOW! It helped me deal w/ hard issues bhorowitz 
+a16z	706164704452939776	2016-03-05T17:09:20	"It’s not incompetence, but competence, that causes companies to be disrupted" a16z podcast 
+a16z	706104315551698944	2016-03-05T13:09:22	"It's much simpler to uphold your principles 100% of the time than 98% of the time"—from this really good episode 
+a16z	706101181236416512	2016-03-05T12:56:54	Why do we do the right thing so often and get killed? A great talk on how to allocate resources to what matters: 
+a16z	705974094030725120	2016-03-05T04:31:55	Stellar podcast on what disruption theory *actually* is and how to apply it, with Clayton Christensen and pmarca.   
+a16z	705875708241817602	2016-03-04T22:00:58	"life is an unending stream of extenuating circumstances" deep wisdom from claychristensen and pmarca 
+a16z	705825638851149824	2016-03-04T18:42:00	The last programming book you'll ever need 
+a16z	705812805249662976	2016-03-04T17:51:00	Blown away by stephen_wolfram a16z this morning! withfries2 a16zevents
+a16z	705811464712392704	2016-03-04T17:45:41	a16z Podcast: Disruption in Business...and Life with claychristensen pmarca at StartupGrind Global Conference 
+a16z	705482040729214976	2016-03-03T19:56:40	VR has two development camps. 1)Building what people think they want  2)Building what people don't yet know they want. #1 is very dangerous!
+a16z	705403757916528640	2016-03-03T14:45:36	Dear startups: These industries in red and yellow might be worth a look. Software hasn't eaten the whole world (yet) 
+a16z	705555616195072001	2016-03-04T00:49:02	“If you develop an app, it’s usually a best practice to not leave a hardcoded password in your code.” On RSAC2016: 
+a16z	705552828845023233	2016-03-04T00:37:57	Amicus brief by Facebook, Google, Microsoft, Box, Dropbox, Pinterest, Slack, Cisco, others…  
+a16z	705552533146570752	2016-03-04T00:36:47	I'm very proud that Facebook is taking a stand for the ability to build trustworthy, secure systems. 
+a16z	705548389908283392	2016-03-04T00:20:19	"Focus first on the product—but day dream about what the virtuous cycle around the product and market can become." 
+a16z	705536795073769476	2016-03-03T23:34:14	Great podcast from a16z on unlocking human potential. Reminds me of tferriss style  startups
+a16z	705531216447934466	2016-03-03T23:12:04	In the 21st century openness, not ideology, matters.  Great podcast on cities. industries of future AlecJRoss a16z 
+a16z	705447358931165184	2016-03-03T17:38:51	 Defense Secretary Takes Position Against A Data Back Door.  nicoleperlroth cites me!  More: 
+a16z	705448830037315584	2016-03-03T17:44:42	No-one talks about ‘color TV’ anymore. The same will apply to ‘mobile internet’ 
+a16z	705283459548196864	2016-03-03T06:47:34	"Before the iPhone, it didn’t feel like we desperately needed some catalytic event."  
+a16z	705467217601826816	2016-03-03T18:57:46	Some of my favorite gifts to give and receive... WorldBookDay 
+a16z	705469079365222400	2016-03-03T19:05:10	bhorowitz You made it. You're so global. kilonpop in Nigeria lists your book as one of her Faves. Mine too a16z 
+a16z	705466105964290048	2016-03-03T18:53:21	Another greatly inspiring episode by a16z : "Infrastructure… is Everything"  sdn devops networking
+a16z	705459838021599232	2016-03-03T18:28:26	(some of last year's conversations and other related podcasts on the boards topic here: )
+a16z	705459193487060992	2016-03-03T18:25:53	Co-hosting StanfordRock Guide for Venture-Backed Board Membership [VCDC] again today all day corpgov 
+a16z	705242459715080192	2016-03-03T04:04:39	A very different a16z podcast- Technology of human performance :  
+a16z	705272040727703552	2016-03-03T06:02:12	Great podcast from a16z on 'Mapping the future of Virtual Reality', highly recommended for those interested in VR 
+a16z	705182261306589184	2016-03-03T00:05:27	“It’s anything where you would want time travel or teleportation.” -cdixon.  Mapping the Future of VR  a16z
+a16z	705056849230479360	2016-03-02T15:47:06	Slack will soon start testing voice and video chat  
+a16z	704905178814816257	2016-03-02T05:44:25	How to position a disruptive product?  still the best description ever.
+a16z	704940510708948992	2016-03-02T08:04:49	Just finished bhorowitz's "The Hard Thing About Hard Things"; the most inspiring book about the dark art of business management I've read.
+a16z	704881608734543873	2016-03-02T04:10:46	My latest a16z Podcast: mobile, MWC, VR, cheap Android 
+a16z	704871133112172546	2016-03-02T03:29:08	Another excellent VR a16z podcast ep from cdixon, sknthla, and kylebrussell - gives a great "state of the union" 
+a16z	704802084143534081	2016-03-01T22:54:46	Great VR podcast.   a16z
+a16z	704843768063664129	2016-03-02T01:40:24	martin_casado Thanks! Also, great podcast…thought the bit about using open source projects as a gambit into the enterprise was fascinating.
+a16z	704840522104328192	2016-03-02T01:27:30	AndrewThappa I know it from the seminal paper by Saltzer&amp;Schroeder, The Protection of Information in Comp Systems 
+a16z	704794779931033600	2016-03-01T22:25:44	WOW - One Management Concept by BHorowitz VideoLecture Stanford [VIDEO] 
+a16z	704772812880240640	2016-03-01T20:58:27	2015 IPO data from FenwickWest - (i) 43% dual class; (ii) 50% triggered ratchet 
+a16z	704772232971616256	2016-03-01T20:56:09	Great data from FenwickWest re 2015 unicorns: (i) 21% sr liq pref; (ii) 25% IPO block right; (iii) 10% IPO ratchet 
+a16z	704710464719220736	2016-03-01T16:50:42	Infrastructure is Everything: VC martin_casado on the key trends in networking &amp; the impact of infrastructure. 
+a16z	704565197986406400	2016-03-01T07:13:28	Great chat with the a16z crew on the opportunities of VR + AR 
+a16z	704575986667548672	2016-03-01T07:56:20	The a16z podcast is really good.  
+a16z	704668111220436992	2016-03-01T14:02:24	Microsoft is bringing 'Minecraft' to the Oculus Rift  
+a16z	704666364821311489	2016-03-01T13:55:28	.cdixon: VR's not just for gaming, it's for anything where you would want time travel or teleportation  via a16z
+a16z	704688444933472256	2016-03-01T15:23:12	Rise of the NextPats - How technology is helping us live more global lives:  
+a16z	704341828737363968	2016-02-29T16:25:52	My thoughts on Teleport Zen on ProductHunt cc chrismessina  
+a16z	704540504583606272	2016-03-01T05:35:20	and shedding light on the issues plaguing underrepresented communities....empathy.
+a16z	704539222577811456	2016-03-01T05:30:15	My heart is super full. Many thanks to bhorowitz &amp; the great folks at a16z for hosting a talk w/ ShakaSenghor. 
+a16z	704508223668121600	2016-03-01T03:27:04	If you're rich &amp; have mental illness, you get treatment. If you're poor &amp; have mental illness, your treatment is prison ShakaSenghor a16z
+a16z	704505580686184448	2016-03-01T03:16:34	"Like Fred Flintstone walking into an episode of the Jetsons." ShakaSenghor on what it was like to get out of prison
+a16z	704504016177201152	2016-03-01T03:10:21	Shaka Senghor author of Writing My Wrongs: Life, Death, &amp; Redemption in an American Prison in conversation w/ bhorowitz SFJAZZ ✊🏾✊🏾✊🏾
+a16z	704443436401827841	2016-02-29T23:09:37	AltSchool's founder on the startup's tech-centric approach to teaching:  
+a16z	704388734729388032	2016-02-29T19:32:15	“Education needs to change, not just in our micro-schools but all over the world.” NewYorker profiles AltSchool. 
+a16z	704429981657595913	2016-02-29T22:16:09	My thoughts on GO CUBES Chewable Coffee on ProductHunt cc bentossell gocubes  
+a16z	704371624678723584	2016-02-29T18:24:16	What A Time To Be Alive- chewable coffee cubes   
+a16z	704400221216706561	2016-02-29T20:17:54	👌Brill talk w/ martin_casado on SDN, CS, Physics, EDU &amp; his journey Nicira &gt; A16Z.   I always learn fm smc90 Qs
+a16z	704368285727330304	2016-02-29T18:11:00	The Office Hack Podcast, by envoy! Slack keeps productivity rolling w/ mobile meeting rooms  
+a16z	704370444548222976	2016-02-29T18:19:35	Calling all office wizards: we just launched our podcast, Office Hacks! 😍🌟🎉 productivity 
+a16z	704360202091495425	2016-02-29T17:38:53	NEWS: Illumio Named Most Innovative Data Center Security Solution by cyberdefensemag  
+a16z	704360181480742912	2016-02-29T17:38:48	Full-Stack Startups by cdixon over at a16z 
+a16z	704287920182706180	2016-02-29T12:51:39	Ep a16z future of VR, beyond HW: Toolchains, Lightfield, presence threshold and more from  cdixon and sknthla 
+a16z	704154584755732480	2016-02-29T04:01:50	Another great a16z podcast about what to expect in VR with cdixon, kylebrussell, and sknthla 
+a16z	704039432593100802	2016-02-28T20:24:15	This is what Oculus Research is focusing on, the remaining challenges in VR for the next 5 years gerstenzang 
+a16z	703972455367503873	2016-02-28T15:58:07	Interessanter Podcast von a16z: Reinventing Insurance  insurtech
+a16z	703959637951975428	2016-02-28T15:07:11	Is Bitcoin a Security?  
+a16z	703962715362951169	2016-02-28T15:19:24	Fascinating podcast starring the A.I consultant from the movie "Ex Machina" a16z 
+a16z	703409339076182017	2016-02-27T02:40:29	Another episode of the a16z podcast looking at the future of VR, w/ insights from cdixon and sknthla 
+a16z	703394099856936960	2016-02-27T01:39:56	Calling martin_casado an “SDN specialist” is like calling the Wright Brothers “aviation guys.” FatherOfSDN
+a16z	703339758085341184	2016-02-26T22:04:00	Excited to see top engineers/researchers like martin_casado getting into VC. Means more "deep tech" investments. 
+a16z	703277233150914560	2016-02-26T17:55:33	I think this link is mandatory. Save in favorites. Now! =) 16 Startup Metrics  vía top VC player a16z
+a16z	703352862793867264	2016-02-26T22:56:04	"This is not a trend, it's not a fad, it's part of the way people are shopping now".  Andronico's CEO on Instacart. 
+a16z	703180976462016513	2016-02-26T11:33:03	If you do one thing today, overcome your fear of failure and read this  adammgrant also great podcast smc90 👍
+a16z	703283509838770176	2016-02-26T18:20:29	Distributed TensorFlow is now open source 
+a16z	703230416501776385	2016-02-26T14:49:31	Also good stuff from martin_casado on the move to OSS business models.
+a16z	703229509181579265	2016-02-26T14:45:55	Really interesting thoughts from martin_casado. Listen to the end. Talks about non technical shifts in the industry.
+a16z	703217128908972032	2016-02-26T13:56:43	a16z Podcast: Infrastructure... Is Everything by a16z via soundcloud 
+a16z	702892491763281924	2016-02-25T16:26:43	Software-defined Data Centers:The future is now-compatibility issues +solutiona are in this blog.hyperconvergence 
+a16z	703017532425375744	2016-02-26T00:43:35	Looking forward to seeing the direction martin_casado's move will take some future a16z investments.  
+a16z	702961470997278721	2016-02-25T21:00:49	I am so excited to be working with martin_casado again! 
+a16z	702896166791421952	2016-02-25T16:41:19	teenage girls are better drivers than boyz; and other fascinating insurance tidbits via a16z: 
+a16z	702901137507278852	2016-02-25T17:01:05	Our friend vijaypande a16z talked yesterday on how Omada is making proven therapies accessible and efficient: 
+a16z	702931210457092096	2016-02-25T19:00:35	You need way higher video resolutions for VR because the pixels are wrapped around you  
+a16z	702919002306191360	2016-02-25T18:12:04	So fantastic!—Google Unveils Neural Network with “Superhuman” Ability to Determine the Location of Almost Any Image 
+a16z	702728684462018560	2016-02-25T05:35:49	10 years hence, it'll be obvious that BigData was really about a MachineIntelligence revolution. Sorry BI. 
+a16z	702970260517814272	2016-02-25T21:35:45	WeChat payments works at 100,000 retail locations, 80,000 restaurants, 44,000 vending machines, 3,000 gas stations, 400,000 parking spots.
+a16z	702829400480464896	2016-02-25T12:16:01	Stripe Atlas aims to make it easier for foreign entrepreneurs to start businesses in the U.S., MikeIsaac reports 
+a16z	702676233004457984	2016-02-25T02:07:23	a16z Podcast: Code and Culture in South Central Los Angeles, f/ menjivar 
+a16z	702602939181871104	2016-02-24T21:16:09	Computer Science Is Now A High School Graduation Requirement In Chicago's Public School District  by meganrosedickey
+a16z	702659059753684992	2016-02-25T00:59:09	Eyes-wateringly excited to be joining a16z.  Heartbroken to be leaving my team.  So glad I'm moving from family to family.
+a16z	702628581529231360	2016-02-24T22:58:02	Nicira Co-Founder Martin Casado Joins Andreessen Horowitz as General Partner  via WSJD
+a16z	702622012099981316	2016-02-24T22:31:56	pmarca martin_casado a16z amazing hire. go software-defined networking
+a16z	702619959734595584	2016-02-24T22:23:47	Welcome martin_casado to a16z! I'm thrilled to be on your team. 
+a16z	702599370806415360	2016-02-24T21:01:58	In Advance of Next Fund, Andreessen Horowitz Brings Aboard Martin Casado As GP  by cookie
+a16z	702599747664789506	2016-02-24T21:03:28	Andreessen Horowitz named Nicira founder + VMware exec Martin Casado as its 9th general partner. He speaks Forbes: 
+a16z	702559044628647936	2016-02-24T18:21:43	Fantastic fireside chat with claychristensen and MarcAndreessen startupgrind SiliconValley 
+a16z	702559965882351616	2016-02-24T18:25:23	Informative, inspiring and both super funny - great to hear claychristensen and pmarca speak on disruption startupgrind
+a16z	702557294093955073	2016-02-24T18:14:46	"When a company is going to get disrupted, the best defense against the disruption, is the founder " pmarca 💖🐝 startupgrind
+a16z	702556268809097216	2016-02-24T18:10:42	"Online learning and corporate universities are emerging. Business schools are being disrupted." - Professor claychristensen startupgrind
+a16z	702556241923600384	2016-02-24T18:10:35	We teach marketing wrong. To see potential people look at money being spent now, not non-consumption. startupgrind 
+a16z	702555428056469504	2016-02-24T18:07:21	"20 times more money is coming out of big companies than is going into startups" pmarca at startupgrind
+a16z	702556720392855553	2016-02-24T18:12:29	And even claychristensen makes funny jokes, last one about a famous university close to Redwood City.... Stan something startupgrind
+a16z	702554703779856384	2016-02-24T18:04:28	claychristensen recruiting pmarca to come teach at harvard business school. startupgrind live on stage.
+a16z	702554270772523009	2016-02-24T18:02:45	At startupgrind pmarca says scary thing for investors is that new disruptors they invest in are often soon Disrupted. 5yr max window
+a16z	702553748606832641	2016-02-24T18:00:41	.pmarca says that big companies get disrupted bc of a "gap that opens up as a result of competence, not incompetence" startupgrind
+a16z	702553713538310146	2016-02-24T18:00:32	"Well run companies are their own barrier to disruption"  pmarca  w/ DerekjAndersen claychristensen startupgrind 
+a16z	702553536848990208	2016-02-24T17:59:50	Simplicity of framework is inspiring. 👏🏼 claychristensen for your dedication &amp; generosity of thought StartUpGrind 
+a16z	702550018834698240	2016-02-24T17:45:51	Two legends, one stage. Silicon Valley and the State of Disruption with pmarca of a16z and claychristensen 
+a16z	702242985262448641	2016-02-23T21:25:49	vijaypande a16z talks about exponential decrease in compute+cloud biology + sensors=Bio2.0 VatorSplashHealth 
+a16z	702208477628792832	2016-02-23T19:08:42	Pay by the word — China innovation of the day 
+a16z	702186001121341441	2016-02-23T17:39:23	Global cellular use, as seen by Facebook 
+a16z	702196044034015233	2016-02-23T18:19:17	Top VC investors in cybersecurity since '13: 1. ? T-2. BessemerVP &amp; intelcapital 4. NEAVC T-5. a16z &amp; sequoia 
+a16z	702167418680926208	2016-02-23T16:25:32	Huge coup for Medium. Among U.S. sports fans, there is no more important set of writers to read. 
+a16z	702166848490475520	2016-02-23T16:23:16	Us too! RT etl: Incredibly excited for medium to be working with billsimmons and the ringer team 
+a16z	702165228864180226	2016-02-23T16:16:50	Please join us in welcoming BillSimmons and his new site (The Ringer) to Medium! 
+a16z	702165075549794304	2016-02-23T16:16:14	Thought-provoking piece on VR as the end game of media.  "Virtual Reality"  cdixon a16z
+a16z	701937179010805760	2016-02-23T01:10:39	“The Secret to Moonshots? Killing Our Projects” by astroteller  
+a16z	701896559810781186	2016-02-22T22:29:15	1/ Most of a16z's podcasts are a must-listen. This episode doubly so if you're managing high performers: 
+a16z	702004274474131456	2016-02-23T05:37:16	Tristan Walker's Bevel is making shaving better for men of color  
+a16z	701862685114286080	2016-02-22T20:14:38	Mindsets for Thinking about Innovation In and Competition from China  A powerful must-read eye-opener a16z China
+a16z	701624413066817537	2016-02-22T04:27:50	The makers of the internetz can't (and never should have) assume they're designing for ppl like them. 3.3bn online: extremely diverse.
+a16z	702100282042286080	2016-02-23T11:58:46	BuzzFeed's new video app helps you binge watch its shows   MWC16 peretti BuzzFeed 
+a16z	702092787446128641	2016-02-23T11:28:59	“I hated mobile“. Jona peretti of BuzzFeed at MWC16 
+a16z	702074438095872000	2016-02-23T10:16:04	What a beautiful post - Ideas instead of places via TeleportInc remoteworking  
+a16z	701861797989654528	2016-02-22T20:11:07	Here's wired's take on why legaltech is seeing a surge of investment, like ours, led by a16z:  by julia_greenberg
+a16z	701790315955539969	2016-02-22T15:27:04	The single best thing I read today is **The Struggle** by bhorowitz. Go, fellow entrepreneur, and read it asap: 
+a16z	701815260316049408	2016-02-22T17:06:11	Congratulations to David and Orion for teaming together so well; honored to be partners with Tanium 
+a16z	701462760895283200	2016-02-21T17:45:29	The Genius annotation on this WIRED story is a good example of why web annotation should exist: A+ context 
+a16z	701429258942439425	2016-02-21T15:32:21	vdavez this is why A16Z pumped $15M into Genius    Annotating the Internet is a big deal.
+a16z	701498444674953216	2016-02-21T20:07:17	“Positional tracking for mobile VR is important because it allows developers to…” — amittm  
+a16z	701477064986103810	2016-02-21T18:42:19	“What’s Next in Computing?” by cdixon - next big wave after mobile - ubiquitous hardware and AI 
+a16z	701482132120727552	2016-02-21T19:02:27	MWC16 Here's to a great start! Full house with BenedictEvans host robinwauters mobilesunday 
+a16z	701444059798204420	2016-02-21T16:31:10	More AlgorithmsOfTheMind evidence :) HT ylecun cc phvu ushnishde 
+a16z	701472981357166592	2016-02-21T18:26:06	cdixon great write-up, and it's even more fundamental in that we're upending the von Neumann architecture within the next ten years.
+a16z	701472467097812993	2016-02-21T18:24:03	bznotes wolfejosh can't tell you how often I hear smartest founders talk about Nvidia (as I'm sure you do). Reminds me of AWS ~5 years ago
+a16z	701471599338196992	2016-02-21T18:20:36	3/ Not enough has been said about the rise of GPU computing. NVIDIA stands to be a big winner but others may catch up. (cc: wolfejosh)
+a16z	701448547137261568	2016-02-21T16:49:00	Major "gestation phase" underway... AI, VR, AR 
+a16z	701451363885121536	2016-02-21T17:00:12	“the future is coming: markets go up and down, and excitement ebbs and flows…” — cdixon  
+a16z	701462875680825344	2016-02-21T17:45:56	I (re-)posted to medium my "product manager" take on this moment in time.  BenedictEvans ♻️
+a16z	701440474293391364	2016-02-21T16:16:55	“We are seeing pieces of a future that isn’t quite here” — cdixon  
+a16z	701422955058728961	2016-02-21T15:07:18	What's Next In Computing? 
+a16z	701425235858427904	2016-02-21T15:16:22	"Things that look like expensive toys are often the future." — BenedictEvans 
+a16z	701133922193674240	2016-02-20T19:58:48	You can buy AI on the cloud. Google is selling image recognition for 60 cents per M. First of commodity AI grid.  
+a16z	701149674690912256	2016-02-20T21:01:23	.pmarca interviews peterthiel Great insights.  
+a16z	701159813774872577	2016-02-20T21:41:41	Giving this a16z interview with John Markoff a second listen for the Moore's law bits. 
+a16z	701080140751589377	2016-02-20T16:25:05	Absolutely loving the a16z podcast 
+a16z	701142268024066049	2016-02-20T20:31:57	The a16z podcast has had some amazing episodes in the last few weeks focused on foreign cities and markets. Love it. thanks global
+a16z	701095295992598529	2016-02-20T17:25:18	On a16z podcast AlecJRoss says its not about Left/Right anymore but Open/Closed if you want to be prosperous 
+a16z	701091273612984320	2016-02-20T17:09:19	In the future we will see more global tech competition: dragons of the East vs. unicorns of the West. And some amazing hybirds as well!
+a16z	701033510434447360	2016-02-20T13:19:48	By far one of the best articles on innovation (&amp; the illusion of Western-centricity) I read recently  txs conniechan
+a16z	700863613427298304	2016-02-20T02:04:41	I did an a16z podcast with conniechan, about my book Little Rice  &amp; innovation in China  …
+a16z	700949762313314304	2016-02-20T07:47:01	.chamath 3 rules: 1. Better before cheaper. 2. Revenue before cost. 3. There are no other rules. Listen here:  |
+a16z	700844640199712772	2016-02-20T00:49:17	"Slack App Store could be as seminal a development as the Apple and Google App stores were for mobile applications." 
+a16z	700860709425561600	2016-02-20T01:53:09	"We would fall on our faces, but we would learn fast and do what was needed to survive." - Ben Horowitz, a16z venture capital
+a16z	700795895999123456	2016-02-19T21:35:36	edtech has come a long way. We're so excited that presidential candidates are talking about what we can do. 😄 
+a16z	700862953927667715	2016-02-20T02:02:04	If you want to start programming but don't know where to start we've got you covered.  
+a16z	700875731622981632	2016-02-20T02:52:50	10/ Defined our mission: to make entrepreneurship easier and more accessible to everyone.    More to come.
+a16z	700782010588004353	2016-02-19T20:40:25	Mobile, smartphones and hindsight — new blog post 
+a16z	700672149212811264	2016-02-19T13:23:52	Fascinating a16z podcast with cshirky and conniechan on China innovation, with focus on Xiaomi - 
+a16z	700515657633423360	2016-02-19T03:02:02	‘iOS versus Android’ now very boring. Whta happens within Android and on top of each is far more interesting
+a16z	700412031510409216	2016-02-18T20:10:15	.cshirky on China's emerging innovation trend: 
+a16z	700382653220950016	2016-02-18T18:13:31	Super fun chat with cshirky on China innovation, Xiaomi, and the Chinese dream. More reasons to think cross border 
+a16z	700437073841487873	2016-02-18T21:49:46	Discussing best practices in financing innovation w/ ASEAN foreign ministers &amp; the a16z team AEMRoadshow exports 
+a16z	700406615841722368	2016-02-18T19:48:44	Mindsets for Thinking about Innovation In — and Competition from — China a16z conniechan 
+a16z	700243989354651648	2016-02-18T09:02:31	A very insightful episode by a16z on what innovation means in China vs US &amp; rest of the W -  
+a16z	700381974469292032	2016-02-18T18:10:49	How a team of five created a next-gen MMO 
+a16z	700364189546770432	2016-02-18T17:00:09	Yes, we're open sourcing our implementation of Distributed TensorFlow on ApacheSpark. Right now. See below! 
+a16z	700365858921697280	2016-02-18T17:06:47	“we’ve seen over 3 million upvotes and 50 thousand things posted, illustrating…” — rrhoover  
+a16z	700333975517069313	2016-02-18T15:00:05	After a month of beta testing, we’re introducing the next evolution of ProductHunt.  Login and visit . 😀
+a16z	700345474276982786	2016-02-18T15:45:47	5/ I'll just reference this tweetstorm again 
+a16z	700284904811032576	2016-02-18T11:45:06	Once you've had Airbnb, you (often) don't go back, says Goldman Sachs 
+a16z	700120876046417921	2016-02-18T00:53:19	.omadahealth Brings Its Diabetes Prevention Program To Low-Income Populations  diabetes chronicdisease
+a16z	700112482803675136	2016-02-18T00:19:58	MARC ANDREESSEN: “I am more bullish abt the future of the news industry than anyone I know” : 
+a16z	700105980554547200	2016-02-17T23:54:07	Building end to end start-ups helps bypass incumbents  fullstack
+a16z	700095938879066113	2016-02-17T23:14:13	China China China. These are the four mindsets I use when I read any headlines related to innovation in China --&gt; 
+a16z	700070499519373312	2016-02-17T21:33:08	Chips with everything 
+a16z	700052143768788992	2016-02-17T20:20:12	stewart avibryant On the LIGO timescale, you're just warming up on the problem :-)
+a16z	700043859112251393	2016-02-17T19:47:16	Lesson: just fixate on the same problem for 14 or so years &amp; approach from every possible angle. Simple! 
+a16z	700045350078251008	2016-02-17T19:53:12	Arimo named Top 10 World's FCMostInnovative in DataScience w/ Google, IBM  
+a16z	700027781728616448	2016-02-17T18:43:23	It’s Not Just Politics: The Evolution of Marketing in Presidential Campaigns:  election2016
+a16z	699985289255628800	2016-02-17T15:54:32	Tim Cook on the importance of encryption  
+a16z	699971601563922433	2016-02-17T15:00:09	This is seriously cool. Next up on my list of things to learn.  
+a16z	699956574589046784	2016-02-17T14:00:26	Databricks Launches Free Community Edition As Companion To Free Online Spark Courses  by ron_miller
+a16z	699957982457524229	2016-02-17T14:06:02	Global tech spending is down because cloud is saving companies money 
+a16z	699648429925011460	2016-02-16T17:35:59	For building trust, reputation is more important than similarity. jgebbia Airbnb TED2016
+a16z	699759584555040768	2016-02-17T00:57:40	Our very own jgebbia dropping some of his design knowledge at TED2016.  
+a16z	699758842687705088	2016-02-17T00:54:43	How would paintings by Pollock, Picasso or Van Gogh look like if they painted on digital devices and lived today? 🤔 
+a16z	699617169936687104	2016-02-16T15:31:46	BuzzFeed is #1 in list of most innovate companies. (As an e.g: 1st UK mainstream news outlet to hire LGBT editor): 
+a16z	699616795808833536	2016-02-16T15:30:17	BuzzFeed now generates half of its 5 billion monthly pageviews from video. 
+a16z	699572920079794176	2016-02-16T12:35:56	How Buzzfeed's Jonah Peretti is building a 100-year media company  FCMostInnovative 
+a16z	699272786838048768	2016-02-15T16:43:18	Lots of VR &amp; AR at TED2016 this week: Wed: metaglasses' merongribetz Th: HoloLens' akipman Th: Vrseworks' milk Plus VOIDvr demos
+a16z	699101894703054854	2016-02-15T05:24:15	Great to see a16z devote an entire section of their latest weekend newsletter to “The Art of VR”  VirtualReality
+a16z	699095794041929728	2016-02-15T05:00:00	"Those believing [she was a computer] revealed more personal material." ML and Prof of Med  thx a16z cc dataguild
+a16z	699027440312647680	2016-02-15T00:28:23	World wide survey of encryption products  via a16z &lt;would have been interesting to plot the graph from 1996 ;)
+a16z	698528067355074560	2016-02-13T15:24:03	16 Startup Metrics  via a16z startup 
+a16z	698292131744636928	2016-02-12T23:46:32	Brilliant explanation. 
+a16z	698696544560648192	2016-02-14T02:33:32	Check out CourtCast: a computer model that predicts Supreme Court decisions based on oral arguments alone 
+a16z	698762187733532672	2016-02-14T06:54:22	Thanks bhorowitz  I enjoyed your book in Korean version. Here's my Korean review.  
+a16z	698597602703462400	2016-02-13T20:00:22	.Honor is using innovation to restore dignity and respect to caregivers. A very inspiring startup. pmarca a16z 
+a16z	698895808448458753	2016-02-14T15:45:20	Understanding the Economics Changing Startup Valuations  
+a16z	698598543456505857	2016-02-13T20:04:06	2015 unicorn financing data from FenwickWest - sharp ^ vs. '14.  a16z 
+a16z	698530744897900544	2016-02-13T15:34:42	Micropayments  and grid computing  with bitcoin. Super cool balajis !
+a16z	698375631470395392	2016-02-13T05:18:20	"True Micropayments with Bitcoin" via 21   Good analogy-- payment channel : bar tab 
+a16z	698376642557771776	2016-02-13T05:22:21	Building 3D models and environments will be one of the killer apps of VR. Great video: 
+a16z	698373189655724032	2016-02-13T05:08:38	"When I looked at Soylent, I knew I had found food paradise."  
+a16z	698259650345463808	2016-02-12T21:37:28	It’s the second anniversary of Slack’s public launch! Here's our story in numbers as we enter the Terrific Twos 🎂🎉🎈 
+a16z	698169753513390080	2016-02-12T15:40:15	This week in fraud, TheAtlantic predicts the future of fraud detection and nytimes on asset recovery scams. 
+a16z	698119831699128320	2016-02-12T12:21:52	This Silicon Valley team-builder uses Akira Kurosawa's "Seven Samurai" as a management text book. 
+a16z	698070907861012480	2016-02-12T09:07:28	One of those inspiring podcast episodes 🎧 that I know I'll be listening to again  from a16z
+a16z	698072300277596160	2016-02-12T09:13:00	Mandatory listen for anyone claiming "disruption" left and right: What Disruption Theory Is ... and Isn't by a16z 
+a16z	697848865634922500	2016-02-11T18:25:09	ApacheSpark is all the rage, and there are legitimate reasons to use it for MachineLearning 
+a16z	698173329727889408	2016-02-12T15:54:27	Key take-away: "Operational excellence will be at a real premium." 
+a16z	697657464259526656	2016-02-11T05:44:35	David, as an experienced and effective leader, Would you share your wisdom in a book ? No. Read the bhorowitz book  
+a16z	697978692086042624	2016-02-12T03:01:02	16 yrs, 25 mobile companies become 4 m&amp;a 
+a16z	697978597206720513	2016-02-12T03:00:40	50 yrs, 35 railroads become 4 m&amp;a 
+a16z	697977040318918657	2016-02-12T02:54:28	14 yrs, 10 airlines become 4 m&amp;a 
+a16z	697830917038022656	2016-02-11T17:13:50	How many people does it take to find a gravitational wave? Here's the official list... 
+a16z	697559024020037632	2016-02-10T23:13:26	Teleport Runway: a search engine to maximize your startup's runway.  
+a16z	697539319905570816	2016-02-10T21:55:08	I fight against this instinct every-single-day stevesi on redesigning products:  
+a16z	697500286714155008	2016-02-10T19:20:01	These HaloNeuro headphones claim to make you jump higher, think faster, remember longer  
+a16z	697405924709965825	2016-02-10T13:05:04	Halo Sport: Neurotechnology for athletes.  by richlowenberg &amp; drk36 
+a16z	697323941707259904	2016-02-10T07:39:18	Princeton University created an excellent, 300-page textbook on Bitcoin, available as a free download. 👍👍 
+a16z	697164893200318464	2016-02-09T21:07:17	1/ Here's the thing about the Consumer Packaged Goods (CPG) industry. Most r&amp;d is spent on *existing* brands which is crazy.
+a16z	697240974758531073	2016-02-10T02:09:37	ngardideh BenedictEvans it depends on where we're recording, whether locally or online or on the road -- but all standard not fancy stuff!
+a16z	697213808008232960	2016-02-10T00:21:40	First we needed graphics co-processing, hence the GPU. Next up: vision recognition, neural networks, etc. 
+a16z	697209594678906880	2016-02-10T00:04:55	Small companies are software - as they get bigger, they become ASICs and then chips. More efficient, but hard to change anything.
+a16z	697169448059346944	2016-02-09T21:25:23	New on Mattermark: We mapped nearly every 2015 funding event to a cool, interactive 3D globe: 
+a16z	696831143694483456	2016-02-08T23:01:05	ajkurki Greenbackd davebudge This is a glimpse into otherwise proprietary VC returns data from Horsley Bridge: 
+a16z	696861319727808512	2016-02-09T01:01:00	Happy ChineseNewYear! Kick off the YearoftheMonkey with 45 photos of monkeys in the wild:  
+a16z	696846623352094720	2016-02-09T00:02:36	In honor of Chinese New Year, a brief history of the American Chinese restaurant: 
+a16z	696922624094560256	2016-02-09T05:04:36	Best Startup is honor techcrunch crunchies - great team - great app to help elderly! 
+a16z	696921488050495490	2016-02-09T05:00:05	Congrats to the honor team on a much deserved crunchieawards! Doing well by doing good. sethjs pmarca crunchies2016
+a16z	696914431301652487	2016-02-09T04:32:03	Stewart Butterfield wins Founder of the Year at the 9th Annual Crunchies 
+a16z	696912850766331904	2016-02-09T04:25:46	Go SlackHQ!!! Here are some engineers of slack accepting the award at the Crunchies! 
+a16z	696862244764647424	2016-02-09T01:04:40	LAST CHANCE Register for tomorrow’s webinar w. our chief scientist ddcumulus! Demystifying Networking 10:30AM PT 
+a16z	696862615503409152	2016-02-09T01:06:09	Cloud communications and mobility solve the problem of hiring the best talent. .HarvardBiz futureofwork 
+a16z	696858683930578944	2016-02-09T00:50:31	Excited about DavidSacks becoming CEO Zenefits + expanding our board with Peterthiel GraciasAntonio Bill McGlashan - w Laks David and I
+a16z	696856015862542336	2016-02-09T00:39:55	Grateful to have invested in Parker and Laks' idea that's now a real company Zenefits thank you for all the hard work parkerconrad
+a16z	696717697027944451	2016-02-08T15:30:18	Investors be like, please guys include those in your decks.TY a16z 16 Startup Metrics 
+a16z	696462310190116864	2016-02-07T22:35:29	We a16z find the opposite to be true. Smart later round investors can help in many ways. fredwilson danprimack 
+a16z	696782854286487552	2016-02-08T19:49:12	A Morehouse College Student Gets Real About Campus Recruitment  
+a16z	696755121418424320	2016-02-08T17:59:00	Thrilled to announce ycombinator's third annual Female Founders Conf on April 4 in SF: 
+a16z	696827895109451776	2016-02-08T22:48:11	Wow -- Google: 82% Of Super Bowl Ad Searches Happened On Mobile, Up From 70%  via sengineland
+a16z	696739051953659905	2016-02-08T16:55:09	She's putting the Bey in Air-Bey-N-Bey Airbnb Beyonce 
+a16z	696739309064482818	2016-02-08T16:56:10	I wrote about my journey into tech. Thanks to everyone who helped get me here!   
+a16z	696600569910169600	2016-02-08T07:44:52	Learning to code not only important thing -- but rather what you can DO with code.  pahlkadot codeforamerica WorldGovSummit
+a16z	696478851103268865	2016-02-07T23:41:12	"Put on your Oculus, the game is starting"   Tweets from SB55
+a16z	696465835502804996	2016-02-07T22:49:29	We're live at SB50 on Snapchat! Follow along here:   
+a16z	696447517194526720	2016-02-07T21:36:42	Save room for snacking during the big game with a Soylent for breakfast. 
+a16z	696429863935148032	2016-02-07T20:26:33	Are you ready for some... podcasts? on performance science:  on sports &amp; tech: 
+a16z	695365299038629889	2016-02-04T21:56:21	Fascinating insight into SuperBowl fans from IFTTT. 
+a16z	696406352638386176	2016-02-07T18:53:07	I learned a lot about the current state of VR from this a16z podcast: 
+a16z	695708637247991808	2016-02-05T20:40:39	Great podcast from a16z on how to reinvente insurance. InsurTech FinTech startup 
+a16z	695756877779472384	2016-02-05T23:52:20	How Non-Conformists Move the World (+ so many other amazing podcasts on the future of tech) by a16z 
+a16z	695885112248938496	2016-02-06T08:21:54	In AlecJRoss's new book TheIndustriesOfTheFuture, pmarca is the VC with the most pages: 103-5, 113-14, 116, 119, 186-87, 195, 204 impact
+a16z	696016414457487360	2016-02-06T17:03:39	Searching for the Algorithms Underlying Life  (via the great a16z newsletter)
+a16z	695725012515319808	2016-02-05T21:45:43	Really good write up on how equity compensations works Thanks for the share a16z startups equity CFO 
+a16z	695794021713596416	2016-02-06T02:19:56	this week's edition -- "big big big ideas, anthropology of tech, &amp; more" -- went out today:  
+a16z	695777244094943232	2016-02-06T01:13:16	My favorite newsletters in Tech  a16z  BenedictEvans  socialcapital 
+a16z	695773120724992000	2016-02-06T00:56:53	This company is onto something.    
+a16z	695783492139921408	2016-02-06T01:38:06	"Adjusted EBITDA" = earnings before compensation = bad for shareholders and a bad steady state financial metric: 
+a16z	695678318398410752	2016-02-05T18:40:10	The Watney Rule for startups: Survival depends on achieving self-sufficiency. 
+a16z	695699185425739777	2016-02-05T20:03:05	Discouraging &amp; thoughtful from Ev. But surprises abound. “Maturing markets = higher stakes, closing doors” 
+a16z	695738676182151168	2016-02-05T22:40:01	Four ways you need to rethink innovation and competition from China:  
+a16z	695592917830914048	2016-02-05T13:00:49	Super Bowl 50: Are you ready for some platform?  
+a16z	695648921864036352	2016-02-05T16:43:22	Software eats manufacturing (and manufacturing gains) | New post with kellyhkline bruce_katz  via BrookingsInst
+a16z	695647131940581376	2016-02-05T16:36:15	Liked this a lot: Lists are the new search 
+a16z	695646247559024641	2016-02-05T16:32:44	American Express Engineering is now soylent Powered! 
+a16z	695503270324768769	2016-02-05T07:04:36	Bitcoin Classic nodes are starting to come online   Beta binaries are out 
+a16z	695454646802866176	2016-02-05T03:51:23	Max Levchin talks about his financial startup Affirm on a16z. Geared toward millennials but it appeals to me too. 
+a16z	695369249506746370	2016-02-04T22:12:03	Shaping key mgmt &amp; crypto into a form usable by 'normals' is essential but HARD. I've tried. Impressed w/ KeybaseIO 
+a16z	695547425742843904	2016-02-05T10:00:03	Hey, tech companies: Stop treating race and gender separately 
+a16z	695413040817242112	2016-02-05T01:06:03	Slack is doing more to hire a diverse staff than other tech companies 
+a16z	695307640226729984	2016-02-04T18:07:14	.LaborSec spoke to SethJS about the innovative ways we provide flexibility and security to home care workers. 
+a16z	695589911232180224	2016-02-05T12:48:52	A rising Middle East through innovation; bi-partisan effort. Who'd of thunk it?  Must read:   
+a16z	695317980109017091	2016-02-04T18:48:19	Q: Can mobility help Africa produce, not just consume? smc90 w AlanKnottCraig niNanjira Nkiruspinlet via a16z 
+a16z	695164709008449536	2016-02-04T08:39:16	Can a bank become the "AWS of money"? And other questions... fintech arampell talks to jjbeshara &amp; kaarmann 
+a16z	695098748435881984	2016-02-04T04:17:10	cbtadvisors vijaypande a16z labcentral Lowers cost to start lab-based company by factor of &gt;10x.
+a16z	695098503723405312	2016-02-04T04:16:12	cbtadvisors vijaypande a16z labcentral "Very cloudy" Certainly creates unprecedented level of capital efficiency for lab-based startups.
+a16z	695068779190095872	2016-02-04T02:18:05	km Such comprehensive post by slazar. You might wanna check out a16z's recent  episode abt insurance. They touch a lot of these points.
+a16z	695054324943228928	2016-02-04T01:20:39	Listening to any a16z podcast gives me such fresh perspectives on real world problems/economies. Total value add!  
+a16z	695287281020633088	2016-02-04T16:46:20	jonathanbowden adrianfenty jeff_jordan JoeMontana hopefully yes, in podcast form! stay tuned
+a16z	695020381346881536	2016-02-03T23:05:46	Thx a16z for hosting a great event. NFLPATech Tour rolls on with more stops here:  
+a16z	695005148192579584	2016-02-03T22:05:14	Players going thru demos after hearing from a16z's bhorowitz + JoeMontana at NFLPATech Tour. 
+a16z	694953618240176128	2016-02-03T18:40:28	jeff_jordan JoeMontana a16z "the intersection of sports and technology" 
+a16z	694952681081671680	2016-02-03T18:36:45	.Ericwinston speaks on the value of creating opportunities for NFL players beyond the field NFLPA a16z 
+a16z	694950183474327552	2016-02-03T18:26:49	Starting our day at a16z with bhorowitz addressing our NFLPA delegation...JoeMontana &amp; Coby front row seats 
+a16z	694950717828775937	2016-02-03T18:28:57	Thanks for following today's ACMEST event w/ madeleine. ICYMI: 
+a16z	694926289535438848	2016-02-03T16:51:53	Now: cmschroed speaks on the importance of the intersection of tech education and youth in the MidEast. ACMEST 
+a16z	694924789841031169	2016-02-03T16:45:55	ACMEST co-chair madeleine introduces a new report on “youth-led economic transformation” →  
+a16z	694940167321305088	2016-02-03T17:47:01	The a16z Podcast: smc90 interviews AdamMGrant on original thinkers  
+a16z	694955797751676930	2016-02-03T18:49:08	Q: Do people trust tech companies w/ their money more than banks? a16z chats w astrange &amp; taavet of TransferWise 
+a16z	694941515383226368	2016-02-03T17:52:23	Thank goodness insurance is getting disrupted. Great podcast from a16z 
+a16z	694918382949367808	2016-02-03T16:20:28	"Today's culture of quarterly earnings hysteria is totally contrary to the long-term approach we need." 
+a16z	694956952783179777	2016-02-03T18:53:43	and the related podcast on what disruption theory is/isn't (w Christensen co-author) is here  
+a16z	694915914618134528	2016-02-03T16:10:39	How are tech trends &amp; sharing economy changing insurance? On the latest a16z🎙w withfries2  
+a16z	694902462789107712	2016-02-03T15:17:12	If your client or your customers are insurance companies, this podcast is well worth the ltd viewing time. tech 
+a16z	694891925988442113	2016-02-03T14:35:20	.a16z on insurance in a future where someone could remotely hack your garage and then steal your driverless car 
+a16z	694702255375847425	2016-02-03T02:01:39	The OPM hack represents an enormous intelligence threat that is still not fully understood, says LarryHanauer: 
+a16z	694576439862034432	2016-02-02T17:41:42	The case for ubiquitous strong encryption, in one story. 
+a16z	694576175255949312	2016-02-02T17:40:39	The fundamental flaw with deliberate encryption backdoors, in one story. 
+a16z	694424739343921152	2016-02-02T07:38:54	Need some inspiration on the work? I think these podcasts are brilliant: techreview StanfordBiz HarvardBiz a16z 
+a16z	694552891458220032	2016-02-02T16:08:08	really looking forward to getting caught up on the last month of a16z podcast  all great + very relevant topics
+a16z	694561108137512960	2016-02-02T16:40:47	Marc Andreessen pmarca once had a popular blog...  Get the free archive as ebook via a16z   P.S.: No mail required
+a16z	694310243975589888	2016-02-02T00:03:56	Excited for the bhorowitz interview tomorrow. Watch it LIVE online! Tues @ 5 p.m. PST  
+a16z	694755196656705536	2016-02-03T05:32:01	M.S. Madeline Albright, cmschroed [see also ], &amp; others -- AtlanticCouncil discussion tomw: 
+a16z	694683794335363072	2016-02-03T00:48:17	Silicon Valley innovation is coming to (wait for it) insurance. Mike &amp; I share what we’re seeing on a16z podcast 
+a16z	694683256118185990	2016-02-03T00:46:09	.pmarca's series of tweets all the way back from 2014 absolutely nail the truth about disruption. Must read. 
+a16z	694663700020535296	2016-02-02T23:28:26	Key concepts of disruption. Summarized by pmarca. Full article here by claychristensen  
+a16z	694663761014054912	2016-02-02T23:28:41	cbtadvisors VijayPande a16z cloud biology = real experiments in a cloud like way: elastic, low touch, low CapEx, etc, great for startups!
+a16z	692499418478678018	2016-01-28T00:08:22	What’s the difference between “software-led” and “using software”? - andrew_radin  software pharma biotech
+a16z	694580944813035520	2016-02-02T17:59:36	Empowering urban stylists &amp; salons, MayvennHair rocketed into a $13 million business:  
+a16z	694666819945148416	2016-02-02T23:40:50	a16z Podcast: How to Be Original (Or, If Entrepreneurs Are Made Not Born, Then) AdamMGrant  
+a16z	694665268346253312	2016-02-02T23:34:40	"We have the supply, can we now drive demand?" sukhindersingh on theBoardlist  
+a16z	694659781404037122	2016-02-02T23:12:52	Cloud biology, digital thx &amp; machine learnng in med 3 areas 4 VijayPande new bio fund a16z  
+a16z	694541787394883584	2016-02-02T15:24:00	Andreesen Horowitz wants to bring biology to the cloud: 
+a16z	694503473799254016	2016-02-02T12:51:46	The quest to “cloud” biology: read my new Forbes post on VijayPande and his $200M a16z fund DHS16 
+a16z	694512086647332864	2016-02-02T13:25:59	Larry Fink: "Today’s culture of quarterly earnings hysteria is totally contrary to the long-term approach we need." 
+a16z	694403704913408000	2016-02-02T06:15:19	What if Apple spent $40 billion on moonshots instead of share buy backs? Alphabet investors are about to find out.
+a16z	694408339287990273	2016-02-02T06:33:44	I suspect for some kinds of service, MAU is as much a 'liar's metric' as 'registered users'. If you use gmail/FB once/month, are you a user?
+a16z	694419659332980736	2016-02-02T07:18:43	This changes everything: Google Alphabet, a company whose core services are FREE, is the world's most valuable company! pmarca
+a16z	694391687620104192	2016-02-02T05:27:34	7 Google products with more than 1B users (email, mobile os, browser, map, search, web video, app store): 
+a16z	694410753860734976	2016-02-02T06:43:19	Mobile operators spend $1/4tr a year on capex WhatsApp sends 2.5x more messages than SMS, w/ 57 engineers Unfair - but very, very relevant
+a16z	694368372671123456	2016-02-02T03:54:55	Whatsapp just hit a billion users. Here's why it matters. A lot.  
+a16z	694277172492636160	2016-02-01T21:52:31	I have to say… right now a16z is adding more value to our business than any investor I’ve ever worked with. Bravo. peterlevine pmarca
+a16z	694276339285651456	2016-02-01T21:49:12	Watching this interview with pmarca makes me very proud to be a part of the a16z family. 
+a16z	694281699534905345	2016-02-01T22:10:30	Excited for WalkerCoBrands as its flagship brand Bevel is now available in select Target stores/Target.com! 
+a16z	694210169580974080	2016-02-01T17:26:16	Think there are only 22 ways into your network? You're wrong! - bhorowitz w OrionHindawi of Tanium via a16z 
+a16z	694193646237827072	2016-02-01T16:20:37	So mims says Soylent 2.0 tastes like Cheerios milk, which honestly is my ideal food 
+a16z	694333910336049152	2016-02-02T01:37:58	.BuzzFeedNews wins Public Interest category for 2 stories by JVGarrison, kenbensinger &amp; JSVine. Congrats BuzzFeedBen! ellies
+a16z	694344520452980736	2016-02-02T02:20:08	And do it on a fluid publishing schedule, inside an ever-evolving, constantly transforming, totally extradition dart network--Medium.
+a16z	694330028901933056	2016-02-02T01:22:33	Nominees in Reporting category are TheAtlantic, ReadMatter (2 noms), MotherJones, NYTmag, NewYorker &amp; RollingStone ellies
+a16z	694377414013521920	2016-02-02T04:30:51	Top 3 trends from pmarca tonight at MasterCard Board reception: Deep Learning, SW eats biology &amp; SW eats Finance a16z
+a16z	694337150335217664	2016-02-02T01:50:51	a16z arjanschutte's white paper on how startups can disrupt insurance is a great addition:  
+a16z	694268073763823616	2016-02-01T21:16:22	Hey pmarca, a16z had an intriguing piece on Africa + tech: Having spent time there, here is an oldy-but-goody: 
+a16z	694234030741557249	2016-02-01T19:01:05	Soccer &amp; Christianity drive mobile data usage in Africa. smc90 w AlanKnottCraig niNanjira Nkiruspinlet via a16z 
+a16z	694204340567846912	2016-02-01T17:03:07	One of those days we'll never forget. Starting today, you can also learn about + purchase bevel at Target!! 😀❤️🎯  
+a16z	694177124702408705	2016-02-01T15:14:58	Totally agree with mims: Soylent is a great replacement for the other crappy things we eat when we don’t have time 
+a16z	694126156715548672	2016-02-01T11:52:26	"There is nothing more quintessentially human than fast food." Good article on Soylent 2.0 by mims 
+a16z	694031621197074432	2016-02-01T05:36:47	pmarca mims Nice. My first case arrived last week, after I listened to a16z podcast w/ robrhinehart. I now sip breakfast on Metronorth.
+a16z	694180557001887744	2016-02-01T15:28:36	pmarca bhorowitz The a16z podcast is a "must listen" in my latest Inc post 
+a16z	693980685409914880	2016-02-01T02:14:23	rrhoover mat danprimack pmarca Looking forward to exploring a16z podcasts &amp; much more on ProductHunt. A rewarding experience, thanks.
+a16z	693940597565100033	2016-01-31T23:35:05	JonahLupton All the a16z podcasts are awesome and full of useful insights.
+a16z	693911080427327488	2016-01-31T21:37:48	Adding a16z to my daily podcast stream! The huge archive should keep me busy on my commute. 
+a16z	693886079490002944	2016-01-31T19:58:27	Highly recommend a16z podcast on insurance. New data sources = huge disruption opportunity  
+a16z	693924725160947712	2016-01-31T22:32:01	Lists are the new search — new blog post 
+a16z	693939706581651456	2016-01-31T23:31:33	pmarca You are mentioned here  in the context of my new book.   Oh! and also here 
+a16z	693815533163147264	2016-01-31T15:18:08	On the a16z podcast with bhorowitz: the incredible story of jgilliam.  NationBuilder 🙏 
+a16z	693830358857601024	2016-01-31T16:17:02	Facing the challenges and risks of data privacy, it boils down to these 3 key factors:  
+a16z	693828844298510336	2016-01-31T16:11:01	How to set up Apache virtual hosts to run multiple domains from your server  
+a16z	693818539015299072	2016-01-31T15:30:04	Great a16z episode on how new insurance products in so many industries are needed.   
+a16z	693721695320956928	2016-01-31T09:05:15	'When banking works like my smartphone' - listen back to the latest a16z podcast with taavet and astrange:  tech
+a16z	693509755453710337	2016-01-30T19:03:05	Loads here but key pt: consumers don't care about fintech they care about a better service  a16z podcast w taavet 
+a16z	693217435915124736	2016-01-29T23:41:30	How does banking enter the worth of FinTech. A smart conversation about banking innovation from a16z 
+a16z	693856579620360192	2016-01-31T18:01:14	Stay Young by jasoncharleshil:  weekend 
+a16z	693848993109921792	2016-01-31T17:31:05	Ready for some football? Discover game-day classics &amp; more SuperBowl ideas on Pinterest:  
+a16z	693827588142297089	2016-01-31T16:06:02	How Iowa uses data to manage snow --   
+a16z	693212064077090816	2016-01-29T23:20:09	Friday Night Lights. 
+a16z	693540563543412736	2016-01-30T21:05:30	THANK you!! it is a huge community effort, the incredible work is that of America's teachers behind this :) 
+a16z	693657037037707264	2016-01-31T04:48:19	👍👍 Obama outlines $4 billion "Computer Science for All" education plan 
+a16z	693620582483492864	2016-01-31T02:23:28	Important trend: VR opens expensive experiences to much wider audiences and reduces effective inequality  
+a16z	693201143153831941	2016-01-29T22:36:46	Also watch out for Benedict's newsletter this Sunday: 
+a16z	693200902778281984	2016-01-29T22:35:48	This weekend's weekly reads newsletter just went out! Available in archives here:  
+a16z	693141190770692096	2016-01-29T18:38:32	Answer on Quora by Andrew Ng to When will self-driving cars be on roads?  - They will be mass produced in 5 years!
+a16z	692799336858517504	2016-01-28T20:00:08	Distributed physics without server boundaries  
+a16z	693104975849742338	2016-01-29T16:14:38	What we know for sure: Amazon has at least 46 million Prime members  by DelRey 
+a16z	692936874365734913	2016-01-29T05:06:39	"the Jiu-Jitsu of the Stack Fallacy" explained in “5 Ways to Compete With [Big] Incumbents” by stevesi (amazing!) 
+a16z	692895021226291201	2016-01-29T02:20:21	sean_a_rose mdudas cdixon balajis both Dixon's post and this [  ] convinced me to start a startup.
+a16z	692889687942238208	2016-01-29T01:59:09	mdudas most important paragraph published re founders and startups
+a16z	692858117709692928	2016-01-28T23:53:42	Excellnt by Aelkus on why we should stop asking tech cos to attack the "important problems"  
+a16z	692784619792506880	2016-01-28T19:01:39	"Every generation has underestimated the potential for finding new recipes and ideas"   
+a16z	692740550076735488	2016-01-28T16:06:32	The quote is from the excellent book Our Robots, Ourselves by MIT professor davidmindell
+a16z	692739961108373504	2016-01-28T16:04:11	People talk about robots replacing humans like they talked about trains replacing horses: bad analogy in both cases 
+a16z	692602436138078208	2016-01-28T06:57:43	pmarca andrewmutz One of the things I admire about you, Marc, is your obvious belief in the power of tech to improve humanity.
+a16z	692845630675267584	2016-01-28T23:04:05	Icahn "Xerox"'s the activist playbook and the splits keep on coming -  via WSJ
+a16z	692396675772514304	2016-01-27T17:20:06	This is huge: Box is now integrated directly into Office on iOS and .  
+a16z	692542958072131585	2016-01-28T03:01:22	'FB is tiny today, so it's worthless' 'Apple has loads of money today, so whatever the share price is today, it should go up'
+a16z	692542321938792448	2016-01-28T02:58:51	Apple &amp; FB make a great case study of how people confuse 'what this company looks like today' with the right price for all/any future growth
+a16z	692365068357361664	2016-01-27T15:14:30	1st responses to disruption rarely survive:  -Videophone -Microminicomputer -Portable TV -Hypercard  -Private Cloud -Bitcoinless Blockchain
+a16z	692584072447590400	2016-01-28T05:44:45	adammarx13 ShaanVP pmarca It was coined by balajis here  and cdixon covers it here too: 
+a16z	692539382256013315	2016-01-28T02:47:10	federicoast People helping other people build new things!
+a16z	692528572834136067	2016-01-28T02:04:12	pmarca I'm a journalist from Argentina writing a piece on Silicon Valley startup ecosystem. In just one tweet, what's SV "secret sauce"?
+a16z	692465817015992320	2016-01-27T21:54:50	a16z wrote about innovation arbitrage also: 
+a16z	692461867944538113	2016-01-27T21:39:09	Facebook is now making over $5/quarter from each DAU
+a16z	692461435243204608	2016-01-27T21:37:26	Transition to mobile takes FB to much higher engagement and revenue. 
+a16z	692458484856688640	2016-01-27T21:25:42	Mobile-only users are now over half of Facebook's MAU base - 52% and 823m users.
+a16z	692457945943162880	2016-01-27T21:23:34	Facebook's platform transition. 
+a16z	692370433874792449	2016-01-27T15:35:49	Joe Tucci on Dell+EMC skeptics: "A lot of opinions are not based on a lot of facts" 
+a16z	692397230628737024	2016-01-27T17:22:18	VMware bought Nicira = one of most successful tech acquisitions ever. NSX today would be worth $10-20B standalone. 
+a16z	692119283481075712	2016-01-26T22:57:50	Pat Gelsinger &amp; Paul Maritz are the Babe Ruths of tech--called it, hit it out of the park!  
+a16z	692056604187832320	2016-01-26T18:48:46	7/ If you lived through this, then you know how illogical it would be today to consider trying to do a private DC/cloud or "host" on-prem.
+a16z	692157121778024450	2016-01-27T01:28:12	Tim Cook: "I don’t think VR is a niche. It’s really cool and has some interesting applications."  
+a16z	692139703143940096	2016-01-27T00:18:59	Apple net cash: $160bn.   US tech funding 1980-1998, public &amp; private: $161bn (2015 dollars)
+a16z	692128893332000769	2016-01-26T23:36:01	Flat iPhone sales, macro headwinds and forecasts first revenue decline since 2003. Investors' view of value changes 
+a16z	692116066823200774	2016-01-26T22:45:03	Apple had about 12% of global mobile phone unit sales in 2015. 231m units.
+a16z	692103257238458368	2016-01-26T21:54:09	Annual mobile phone mobile is ~2bn units. Market for premium phones is not ~2bn units. Eventually, Apple bumps against that.
+a16z	691668892104704000	2016-01-25T17:08:09	A review: The Hard Thing About Hard Things by bhorowitz -  startups thestruggle 
+a16z	691716394379923456	2016-01-25T20:16:54	A phrase heard in a16z podcast "20 years ago when almost all software we purchased was from MS". Think about how much that has changed.
+a16z	691287838269177856	2016-01-24T15:53:58	At same time "16 Startup Metrics" post by a16z is good read for everyone 
+a16z	691018856526127104	2016-01-23T22:05:08	futuresagency had to share this on my site. Thank you! 
+a16z	690987763227709440	2016-01-23T20:01:35	Maybe we should categorise companies this way? The 4 types of cities &amp; how to prepare them for the future  via a16z
+a16z	691844728577486848	2016-01-26T04:46:51	starsandrobots yes! pmarca on 'regulatory arbitrage' here  &amp; adamthierer also discusses in 
+a16z	691754071493992448	2016-01-25T22:46:37	a16z Podcast: Truths about Tech in Africa AlanKnottCraig niNanjira Nkiruspinlet  
+a16z	690626818056011777	2016-01-22T20:07:19	Great read about jeff_jordan talk DLDConference about private/public "should I stay or IPO" as Deezer 'd say ;) 
+a16z	690687077369778176	2016-01-23T00:06:46	On the substitution of private growth rounds for IPOs in tech over last decade--and yes, prices both rise and fall: 
+a16z	691485977819242497	2016-01-25T05:01:18	Venture Capitalist vijaypande a16z is investing in firms that use computers to improve healthcare 
+a16z	691309699468283904	2016-01-24T17:20:50	Don’t believe me? Last year, a16z led a $10m funding round for a hair extensions company named Mayvenn.  /7
+a16z	691463076877447168	2016-01-25T03:30:18	in other facebook news: that CaseyNeistat snowboarding around nyc video has over 14M views on FB compared to YouTube's 2M in &lt; 24 hrs
+a16z	691182822309044224	2016-01-24T08:56:41	New a16z newsletter, topics include SmartCities, Psychology and Computing, Institutions &amp; Tech, AI ..  startups
+a16z	690999630709002240	2016-01-23T20:48:44	I'm now hooked on podcasts with the a16z podcast as the gateway drug.
+a16z	690939932278427648	2016-01-23T16:51:31	a16z's stevesi joined karaswisher &amp; laurengoode to talk about the FUUUUTUUURREEE:  🔮 
+a16z	690667573902356480	2016-01-22T22:49:16	Relistening to The Hard Thing About Hard Things by bhorowitz. Truly practical biz book that raises/answers questions others don't. pmarca
+a16z	690256192715759617	2016-01-21T19:34:35	. pmarca interviews peterthiel -- so so so great:  
+a16z	690343201912266752	2016-01-22T01:20:19	Silicon Valley companies say they want black engineers. So why don't they hire them?  
+a16z	690662054630264832	2016-01-22T22:27:20	moesch bhunstable Good idea!
+a16z	690614258887864324	2016-01-22T19:17:24	Thoughts on IPOs from my recent DLD talk.“We urge entrepreneurs to try as much as possible to control their destiny” 
+a16z	690486133390573571	2016-01-22T10:48:17	coolbearcjs bhorowitz Ustream grit.
+a16z	690423584062357509	2016-01-22T06:39:44	.bhorowitz I sold Ustream today.  Your book was critical to this process. Thank you.
+a16z	689496294776291328	2016-01-19T17:15:01	bhorowitz Hey Ben! Your "Andy" article was one of our top stories of 2015: 
+a16z	690419765764952064	2016-01-22T06:24:34	First-ever scalable, distributed deep learning arch with Spark and Tachyon StrataHadoop  
+a16z	690413925649760256	2016-01-22T06:01:21	thanks for having me!  what a great night.  ps my flight still hasn't taken off 😬 
+a16z	690287738747240449	2016-01-21T21:39:56	The Best of Tech Podcasts  featuring smc90 MVC a16z verge whatstech plante 
+a16z	690300971910443008	2016-01-21T22:32:31	Super excited about shifting the work/life balance equation... 
+a16z	690259590911500288	2016-01-21T19:48:05	Elder care startup Honor makes contractors full-time workers with equity  
+a16z	690138337865236481	2016-01-21T11:46:16	HBCU HU Why Doesn’t Silicon Valley Hire Black Coders?: In the fall of 2013 a young so...  
+a16z	689944465184800774	2016-01-20T22:55:53	Why This Homeware Startup (honor) Is Giving Equity To Its Caregivers, Not Just Its Engineers  health
+a16z	689889807984496645	2016-01-20T19:18:42	Tech startup reinventing home care gives workers W2 status, benefits and stock options -- a first in the industry  
+a16z	689770998648938496	2016-01-20T11:26:36	The Automation Paradox ~ great piece by JamesBessen  TheAtlantic via pmarca cdixon 
+a16z	689847881327509505	2016-01-20T16:32:06	Time to drop the wall: Honor Care Professionals becoming employees - equity and all: 
+a16z	689846057338040321	2016-01-20T16:24:51	Magic Johnson, Andreessen Horowitz lead $3.25M round for diverse recruitment platform Jopwell  by siindy64
+a16z	689847096082456576	2016-01-20T16:28:59	on tech &amp; Myanmar:  erikcrouch // a16z Podcast with AyeMoah EthanZ DavidMadden 
+a16z	689786726445912064	2016-01-20T12:29:05	Staggering. &lt;0.5 million to 30 million in 5 years.  
+a16z	689739846294765568	2016-01-20T09:22:48	Myanmar Internet usage went from 12% to 60% in 2 years!  
+a16z	689676704587984897	2016-01-20T05:11:54	cdixon ramez Researching robotics for an article last year, I’m convinced augmentation of humans is more important than more automation.
+a16z	689675546716811264	2016-01-20T05:07:18	"When computers start doing the work of people, the need for people often increases."  
+a16z	689555231877632000	2016-01-19T21:09:13	Why Nootropics Will Be Big Business In 2016.  Forbes
+a16z	688853699959980034	2016-01-17T22:41:35	Soylent's new "What is Soylent" video convinced me that we should put the stuff in the water supply. 
+a16z	689651868230770690	2016-01-20T03:33:13	Great a16z podcast with stewart on Slack (+ why he thinks Microsoft is an interesting competitor) 
+a16z	688829435089297408	2016-01-17T21:05:09	Teaching a new course at Stanford GSB about what happens when we go from industrial world to digital world: 
+a16z	689319139874213888	2016-01-19T05:31:04	Marc Andreessen’s once popular blog has apparently been archived as a free ebook  
+a16z	689207396967686145	2016-01-18T22:07:02	Is Entrepreneurship a Universal Language? Interesting discussion about the startup ecosystem in Iran.  by a16z
+a16z	689125578893570048	2016-01-18T16:41:55	Fascinating read on the public problems tech might influence:  h/t a16z
+a16z	688937512438349824	2016-01-18T04:14:37	I asked if I could share it externally bc I think it’s an important message for everyone to read. Full text here: 
+a16z	689065581258084352	2016-01-18T12:43:31	Great show, a16z. Mentioning Shenzhen 6+ times in 30 mins = totally unprecedented in SV media and well deserved. 
+a16z	689103705325596675	2016-01-18T15:15:00	"What you are essentially seeing is the unbundling of the banking business" -Jeff Jordan, Andreessen Horowitz fintech DLD16
+a16z	689101770493136896	2016-01-18T15:07:19	You want an enduring company? Go Public - general partner at Andreessen Horowitz jeff_jordan DLD16 
+a16z	689100895414538240	2016-01-18T15:03:50	.jeff_jordan &amp; muradahmed onstage talking IPOs and tech DLD16 a16z 
+a16z	689007498355945472	2016-01-18T08:52:43	We even published the code. 
+a16z	688845874349367297	2016-01-17T22:10:29	And here’s more on the data analysis part of the investigation, with GIFs! 
+a16z	688845029868187648	2016-01-17T22:07:07	One player exchanged 82 texts with Sicilian gambler who cashed in on his matches, but evidence ignored TennisRacket 
+a16z	688844086753783809	2016-01-17T22:03:23	Massive BuzzFeedNews/  BBC: Leaked files expose match-fixing evidence tennis authorities kept secret for years 
+a16z	688907370534154240	2016-01-18T02:14:51	10 a16z Podcasts Every Entrepreneur Should Listen Before Too Late -  
+a16z	688922457026113537	2016-01-18T03:14:47	...also a good time to revisit our a16z Podcasts with entrepreneurs *in Iran*:  
+a16z	688840339604414464	2016-01-17T21:48:29	On the new generation of tech entrepreneurs in Iran!  cmschroed
+a16z	688568750480621568	2016-01-17T03:49:17	With Soylent Sales Up 300 Percent, Its Founders Have Eyes on Europe 
+a16z	688573225329119232	2016-01-17T04:07:04	How To Build a Lead Generation Machine at a Startup:  leadgen startup 
+a16z	688499591528878080	2016-01-16T23:14:28	sauravtom infoarbitrage BenedictEvans bhorowitz pmarca in our profile and on our website homepage! can sign up directly that way. thx!!
+a16z	688400047168446465	2016-01-16T16:38:55	The a16z weekly newsletter is really, really good. An excellent community resource. Tks BenedictEvans bhorowitz pmarca et al
+a16z	688383616959655936	2016-01-16T15:33:38	pmarca you guys are crushing it with your very valuable a16z weekend newsletter. Thanks!
+a16z	688415096930979840	2016-01-16T17:38:43	A late but good find: a16z Top 5 Longreads of 2015  …
+a16z	688357144060645376	2016-01-16T13:48:26	One of my top 10 podcast episodes of 2015 -&gt; a16z team on the intricacies of startup ecosystems in China &amp; India.  
+a16z	687803038162092032	2016-01-15T01:06:37	Oh on a16z podcast: SSH into this remote robot and boom!
+a16z	688246459678867460	2016-01-16T06:28:37	Yep. Also why I try to convince people Apple is a software company. Good SoC design will also help define winners. 
+a16z	688144186491588610	2016-01-15T23:42:13	BenedictEvans a16z stevesi -  another great insight .. the distinction between hardware / firmware / operating systems / software is fun.
+a16z	688124917158526976	2016-01-15T22:25:39	.a16z pod: Software is What Distinguishes the Hardware Winners  BenedictEvans and I talk h/w ecosystems at CES.
+a16z	688095594544365568	2016-01-15T20:29:08	a16z CES Podcast with me and stevesi  - software and lego 
+a16z	688046436030611456	2016-01-15T17:13:48	My annual heartfelt thank you to stevesi for doing this, so I don't have to go to CES. Thank you! 
+a16z	688105997328515072	2016-01-15T21:10:28	beLaurie design with empathy. Main theme for our work: 
+a16z	688040478604947457	2016-01-15T16:50:07	At every stage of new tech taking human jobs (over centuries), we've underestimated the number &amp; quality of new jobs that would be invented.
+a16z	688059350808576000	2016-01-15T18:05:07	Observation: markets are maturing much faster in the 21st century. Fascinating company and product implications.
+a16z	687803258211926016	2016-01-15T01:07:30	Fascinating analysis of the role of psychology in public markets 
+a16z	688043068847702017	2016-01-15T17:00:25	Great 16z podcast on using &amp; contributing OSS at both large and small companies 
+a16z	688072345995620352	2016-01-15T18:56:45	Seconded.   Roast me w facts, Twitter.  
+a16z	688073398744821762	2016-01-15T19:00:56	pmarca History bears this out. 
+a16z	688071816779141120	2016-01-15T18:54:39	Contrarian stance: Vigorous argument and debate in politics, business, and technology is good, not bad. More!!
+a16z	688018522262355970	2016-01-15T15:22:53	This computer from 21 is not about getting rich mining Bitcoin. It is for developers to build modern apps.  
+a16z	688009143106580481	2016-01-15T14:45:36	What a drone can mean to someone  
+a16z	688027396310708224	2016-01-15T15:58:08	Once again stewart proves that he is hyper self aware &amp; reflective as a person. Always insightful to listen to him 
+a16z	687779285700968448	2016-01-14T23:32:14	Since they started hosting 5 years ago, Doug and Linda have hosted nearly 1,000 people from all over the world. 
+a16z	687681731567206402	2016-01-14T17:04:35	.Mastercard is working with getringly so you can make purchases with your ring! CES2016 tech… 
+a16z	687775685104893952	2016-01-14T23:17:56	Inspired by the a16z podcast w/ bhorowitz &amp; Mellody Hobson of ArielFunds 
+a16z	687763003337498625	2016-01-14T22:27:32	When a16z bhorowitz got your back…  
+a16z	687174519040020480	2016-01-13T07:29:07	Thanks a16z for making me look forward to my commute.  bhorowitz gets schooled by Oprah.  Wonderful show!
+a16z	687197964473860096	2016-01-13T09:02:16	a16z weekly newsletter &amp; lennyletter 📬 
+a16z	687441333913530372	2016-01-14T01:09:20	.cdixon on the knowledge project talking venture capitcal, why companies fail, AI, and more 
+a16z	687713284053712896	2016-01-14T19:09:58	Some of the questions I’m asking about VR in 2016.  
+a16z	687648177923559429	2016-01-14T14:51:16	Everlaw Lands $8.1 Million Series A Led By Andreessen Horowitz  by cookie
+a16z	687614082963275776	2016-01-14T12:35:47	We can finally reveal our big news!  legaltech
+a16z	687185002430267392	2016-01-13T08:10:46	Every new market requires a new codebase.
+a16z	687407168602157056	2016-01-13T22:53:35	Finish one of 4 Udacity class and get a job. Or you money back. BOOM! 
+a16z	687407102004969473	2016-01-13T22:53:19	Econ history: The past wasn’t as good as you remember, the present isn’t as bad as you think, the future will be better than you anticipate.
+a16z	687137463085723648	2016-01-13T05:01:52	Illumio Taps Former NSA Guru as Strategy Chief 
+a16z	687352579697725441	2016-01-13T19:16:40	Process of getting bench to beadside is hardly a process healthcare innovation Pande a16z Dickman cbtadvisors EBDgroup erinrighetti
+a16z	687352127375577088	2016-01-13T19:14:52	Traditional pharma &amp; biotech cos. will have to transform into digitalhealth companies - Pande a16z Dickman cbtadvisors EBDgroup
+a16z	687349759258935296	2016-01-13T19:05:27	Human genome cost was $3M in '93 and now it is less than $300 Pande a16z Dickman cbtadvisors EBDgroup erinrighetti HoganLovells
+a16z	687031937475547137	2016-01-12T22:02:32	"10 years from now, it will seem barbaric to give people a pill" vijaypande on how digital will change medicine: 
+a16z	687319020345819136	2016-01-13T17:03:18	Great piece from danprimack on comparing apples to oranges in the investment management world 
+a16z	687318557743431680	2016-01-13T17:01:28	+1. wences is a prince of a man, entrepreneur, and financial services visionary.  
+a16z	687219220623572993	2016-01-13T10:26:44	Future of Finance: Our report on how tech is democratising the financial services sector:  
+a16z	687037876131901441	2016-01-12T22:26:08	Some time this year, the 20 billionth mobile phone and 5 billionth PC will be sold.
+a16z	686645205416701954	2016-01-11T20:25:48	3.8 trillion photos were taken in all of human history until mid-2011.  1 trillion photos were taken in 2015 alone 
+a16z	687102380874149888	2016-01-13T02:42:28	The voices of smc90 and MVC have become so familiar around our house, I feel we should invite them to Thanksgiving. a16z chrisfralic
+a16z	687101520681152512	2016-01-13T02:39:02	Hands down. a16z is top-of-stack. chrisfralic alexiskold pmarca BenedictEvans bhorowitz cdixon
+a16z	687003309618630656	2016-01-12T20:08:47	Someone asked me what my favorite podcast was - answer was a16z 
+a16z	687133041983029248	2016-01-13T04:44:18	“President Obama’s 2016 State of the Union Address” by WhiteHouse  Great use of medium
+a16z	687100583094824961	2016-01-13T02:35:19	America is every immigrant &amp; entrepreneur from Austin to Boston to Silicon Valley racing to shape a better future - POTUS SOTU
+a16z	687098393726812160	2016-01-13T02:26:37	We had a record night of 1.3 million guests staying in an Airbnb on New Year's Eve.
+a16z	687071699779645441	2016-01-13T00:40:33	When will every company be a tech company?, 
+a16z	687027920955547648	2016-01-12T21:46:35	Spotify And Genius Team To Stream The Backstory On Music Tracks (ingridlunden / TechCrunch)  
+a16z	686933700529897472	2016-01-12T15:32:11	*Mic check* Genius annotations are now on Spotify. Put music under the microscope and go BehindTheLyrics.  
+a16z	686911043461890049	2016-01-12T14:02:09	GENIUS HITS Spotify!   Go BehindTheLyrics of your fav songs as you listen.  
+a16z	686802976040599552	2016-01-12T06:52:44	No matter how big/established your biz is, these are solid tools to evaluate new projects and efforts. Thanks a16z 
+a16z	686945514873556996	2016-01-12T16:19:08	My thoughts on a16z Podcast - Mellody Hobson and Ben Horowitz Talk Investing, Career, and Star Wars! on ProductHunt 
+a16z	686916248421167105	2016-01-12T14:22:50	. a16z podcasts make my long commutes quick &amp; informative. Tnx pmarca BenedictEvans bhorowitz cdixon and crew, you are super helpful.
+a16z	686828309049655296	2016-01-12T08:33:24	"CES has become a software show. Even interesting hardware is dominated by firmware, cloud services &amp; connectivity" 
+a16z	686810930760433665	2016-01-12T07:24:20	3/ disciplines like software that make their own tools generate accelerating returns due to this "Blacksmith Effect"
+a16z	686630701140062208	2016-01-11T19:28:10	Was at CES last week. Here's the stuff I learned and what made me think. 
+a16z	686240198439534592	2016-01-10T17:36:27	"Only the paranoid survive" means looking hard for disconfirming evidence because your bias is to ignore it.  ?
+a16z	686059563032948736	2016-01-10T05:38:40	Obvious-in-retrospect explanation of why Uber vs. Lyft isn't winner-take-all  
+a16z	686032497071661057	2016-01-10T03:51:07	Yes x 100: "Network effects is the most powerful form of competitive advantage" - my GSB strategy prof. 
+a16z	685894737451192323	2016-01-09T18:43:43	Challenging Uber, Lyft Bets on a Road Wide Enough for Two 
+a16z	686699977918251008	2016-01-12T00:03:27	Best newsletters (yes still a thing): a16z, BenedictEvans &amp; augustpublic
+a16z	686691027487338496	2016-01-11T23:27:53	besides our weekly (what we're reading) + monthly (a16z resources) editions, there's also BenedictEvans' newsletter 
+a16z	686688671102189568	2016-01-11T23:18:31	The a16z weekly newsletter went out this weekend after a vacation hiatus  sign up here: 
+a16z	685857004577918976	2016-01-09T16:13:47	The Website Obesity Crisis: Excellent example of an annotated slide deck/must read for all web site devs.  HT a16z
+a16z	685540507351519237	2016-01-08T19:16:08	A world of unicorns, black swans, and exponentials (aka what your stats model won't tell you)  thx a16z cc@dataguild
+a16z	685521280351780864	2016-01-08T17:59:44	Latest a16z newsletter highlights the significance of Systems thinking, using emoji!  🌲🔥
+a16z	685519762768572417	2016-01-08T17:53:42	Curious pmarca how you curate your weekly newsletter? Do you take multiple contributions across a16z with a single editor? Compelling!
+a16z	685520780596137984	2016-01-08T17:57:45	Hands down, the a16z newsletter is the best tech info I get in my inbox. 
+a16z	686567759858147328	2016-01-11T15:18:04	And show you must come correct when selling goods to POC.   We spend way to much to be a product design afterthought ¯\_(ツ)_/¯
+a16z	686566704877441024	2016-01-11T15:13:52	Making quality accessible - dead serious the first thing I thought about was apple products.
+a16z	686566367676387328	2016-01-11T15:12:32	Also I'm smiling about this bevel announcement is that tristanwalker &amp; his team are making quality an expectation for prod that POC use.
+a16z	686518992987500544	2016-01-11T12:04:17	Introducing the newest member in our Bevel fam: Bevel Trimmer  BevelWorks ShapeYourLegacy 
+a16z	686247860073926656	2016-01-10T18:06:54	White House using Genius to annotate State of the Union! 😀 
+a16z	686045049063358464	2016-01-10T04:41:00	Meet the "queen" of Imgur, a social network half the size of Twitter  
+a16z	685974412483493889	2016-01-10T00:00:19	GM's Mary Barra on GM's investment in Lyft and the future of driverless cars:  
+a16z	686002957289140224	2016-01-10T01:53:44	My new favorite tech podcast - a16z  - Andreessen Horowitz | Software Is Eating the World 
+a16z	685637693636644864	2016-01-09T01:42:19	a16z podcasts are the best thing. ever.
+a16z	685941951795998720	2016-01-09T21:51:20	a16z Podcast: Making the Most of the Data That Matters 
+a16z	685841854781337600	2016-01-09T15:13:35	Interesting podcast on the future of VR from a16z featuring sknthla  (cc efLDN)
+a16z	685783229056466944	2016-01-09T11:20:37	Every company is becoming a software company. But developers are the bottleneck. The future of software development: 
+a16z	685256805279252480	2016-01-08T00:28:48	'The Future of Software Development', a great listen and yet another great a16z podcast. 
+a16z	685500562666737664	2016-01-08T16:37:24	7 lessons from Mellody Hobson's talk with BHorowitz 
+a16z	684807659678203905	2016-01-06T18:44:03	Yes yes yes. This is "take out a notebook" good. Thanks bhorowitz 
+a16z	685220750186393601	2016-01-07T22:05:32	I have to say that bhorowitz 'the hard things' is one of the easiest, enjoyable and most honest 'business' books I've read. Recommended.
+a16z	685520831925989376	2016-01-08T17:57:57	Meet the queen of Imgur, the image-sharing site that's half the size of Twitter  forbestech 
+a16z	685292819288829952	2016-01-08T02:51:54	"The missing factor in the Oculus Rift discussion: The technology is magic"  
+a16z	685216599704375296	2016-01-07T21:49:02	My full interview with oculus CEO Brendan Iribe. I love his prediction of VR as a new marketplace for artists. 
+a16z	685101472242118657	2016-01-07T14:11:34	That BuzzFeed is so open about how it succeeds and yet few copy it shows knowledge isn't the problem -- it's institutional momentum.
+a16z	684986768999890944	2016-01-07T06:35:46	My latest thoughts on BuzzFeed and the media industry  
+a16z	685120198219796482	2016-01-07T15:25:58	It’s easier to take Lyfts than Ubers at CES. Buried lede—Maya has weak 4.6 rating. Must be a terror to drive around! 
+a16z	684634920539455488	2016-01-06T07:17:39	Just a bang-on article about lyft &amp; today’s on-demand transport marketplace dynamics.  h/t emilycastor
+a16z	685215228393467905	2016-01-07T21:43:35	"Airbnb passes on around 85% of guests’ total payments to hosts, whereas hotels spend just 30-35% on labour." 
+a16z	685234282554593280	2016-01-07T22:59:18	A warm bath and an a16z podcast episode. Life's great.
+a16z	685096146759475200	2016-01-07T13:50:24	if you're on your way to work or chilling at home, let yourself be tempted by delicious a16z podcasts on tech 
+a16z	684915103364431881	2016-01-07T01:51:00	Binge-listening to a16z podcasts. Outstanding content.
+a16z	685144832445042689	2016-01-07T17:03:52	a16z Podcast: Mellody Hobson and Ben Horowitz Talk Investing, Career, and Star Wars  CedFunches
+a16z	685115594153263104	2016-01-07T15:07:41	great podcast episode - really enjoyed the latest from a16z 
+a16z	685137939257397248	2016-01-07T16:36:28	Cool commentary by a16z. Never thought of github as a pub. platform like YT and Medium:  
+a16z	685090936645414913	2016-01-07T13:29:42	beaucronin just listened to your a16z podcast – good stuff!
+a16z	684903619498491904	2016-01-07T01:05:22	bjorn have you read the a16z article on WeChat analysis? It's all coming very soon :)
+a16z	684565722937208834	2016-01-06T02:42:41	5 years 
+a16z	684541173906542592	2016-01-06T01:05:08	All of the ways the visuals for VR will improve beyond the steady improvements in models/textures/shading 
+a16z	684495102895456256	2016-01-05T22:02:04	Foveated rendering will bring a huge boost to VR performance once headsets have eye-tracking  
+a16z	684553306446770176	2016-01-06T01:53:21	"Here are a few fun facts about the Middle East that I bet you haven’t seen on the news." !!  cmschroed
+a16z	684554040366125057	2016-01-06T01:56:16	Global income inequality is falling, not rising. 
+a16z	684626439929344000	2016-01-06T06:43:57	Here's the link for those interested in the MOOC:  
+a16z	684367745782263808	2016-01-05T13:36:00	Bitcoin Engineering (CS251P), taught by balajis and Dan Boneh.   Awesome syllabus. Can't wait to see it replicated.
+a16z	684454309228982272	2016-01-05T19:19:58	That is a CRAZY good idea. hunterwalk ConorDougherty Genius 
+a16z	684487675596910592	2016-01-05T21:32:33	Why longer tweets won't work. "Twitter doesn't need to adapt to Marc Andreessen but to everyone else" pmarca 
+a16z	684455401840979969	2016-01-05T19:24:19	.pmarca's latest tweetstorm... 
+a16z	684452389814796288	2016-01-05T19:12:20	Misspelled "make glorious". ericgeller 
+a16z	684451236263792644	2016-01-05T19:07:45	12 parts, 10,000 characters each. Print book version on demand. PaulSzoldra 
+a16z	684445089804980224	2016-01-05T18:43:20	Just imagine pmarca's 100,000 character tweetstorms. Are you shuddering in fear?
+a16z	684421951872479232	2016-01-05T17:11:23	gaberivera pmarca’s tweetstorms will henceforth be called “tweets."
+a16z	684533597684957185	2016-01-06T00:35:02	And here is your New Years' drone awesomeness from Lima, Peru 
+a16z	684501620466528256	2016-01-05T22:27:58	The Lyft-GM deal and why you probably won't buy a self-driving car 
+a16z	684241215328370688	2016-01-05T05:13:12	.omadahealth's 2015: 3M+ weigh-ins, 200k lbs lost, &amp; Minnesota as top state (we're now in all 50). Here's to 2016! 
+a16z	682755878789857284	2016-01-01T02:51:01	Just signed up for gobbleinc to make more meals at home in 2016! Heard about it first on a16z podcast.
+a16z	684406173836025856	2016-01-05T16:08:42	George Church: "Nootropic Neural News" 
+a16z	684353999395512322	2016-01-05T12:41:22	Fantastic a16z podcast with Mellody Hobson and bhorowitz if you're an investor, board member, or Star Wars fan.   
+a16z	684301953996816384	2016-01-05T09:14:34	simonhinrichsen I like the a16z stuff
+a16z	684272374280130560	2016-01-05T07:17:01	.JasonHitchcock samesfandiari andre it's like live TV for me—i listen to the a16z podcast the moment it airs every time!
+a16z	684118116540915712	2016-01-04T21:04:03	samesfandiari a16z andre  always a compelling podcast!
+a16z	684113437614419969	2016-01-04T20:45:28	The a16z podcast w/ andre on Tech and Sports was pretty interesting: 
+a16z	684097417948446721	2016-01-04T19:41:49	I was fairly skeptical of virtual reality before this a16z podcast. Now I think it may just be the next platform 
+a16z	683905130987532288	2016-01-04T06:57:44	Great post on Indian e-commerce. But I think Amazon has a much higher mkt share in India than what is quoted in here 
+a16z	684084420417040385	2016-01-04T18:50:10	"Foursquare's location data is way more powerful than people realize" -- love seeing folks understanding our story 
+a16z	684114051668905985	2016-01-04T20:47:54	Amazing day for Lyft and a sign of more to come in 2016. Doubling their valuation in a year: 
+a16z	683897235751305216	2016-01-04T06:26:21	.Jawbone tracked warriors' andre's sleep: "My free throws were so much better when I got (8 hrs) sleep."  by a16z
+a16z	683831472155791360	2016-01-04T02:05:02	What is on your reading list in 2016? Check out 9 business books recommended by StanfordGSBAlumni → 
+a16z	684012931214884864	2016-01-04T14:06:05	.a16z's "Top Listicles of 2015" is well worth a read. Consistently excellent content throughout the year 
+a16z	684057343496044544	2016-01-04T17:02:34	As we move from an industrial to digital economy, non-tech companies may become the biggest acquirers and investors in tech startups.
+a16z	684004067396333568	2016-01-04T13:30:52	Lyft, Now Worth $5.5 Billion, Hops Into The Autonomous Car Race With General Motors  by sarahbuhr
+a16z	684027208642510849	2016-01-04T15:02:49	Cars lie idle 95% of the time. Can't wait for self-driving cars +the $1.3 trillion in annual savings via Danneilwsj 
+a16z	683742877961318401	2016-01-03T20:13:00	Utilization of cars is 5% but the avg household spends ~17% on transportation. Autonomous vehicles will change this. 
+a16z	683804582552584192	2016-01-04T00:18:11	And then what happens with telepresence, VR and self-driving cars? 
+a16z	683685549228466176	2016-01-03T16:25:11	TaiksooKim pmarca modestproposal1 The emotion is always there. You just don't see it.
+a16z	683683850162061312	2016-01-03T16:18:26	But optimism is also how CEOs lead their companies to do great new things. modestproposal1 bhorowitz 
+a16z	683664053462544384	2016-01-03T14:59:46	Love this Andy Grove anecdote from bhorowitz. CEOs are optimists so tend to miss leading indicators of bad news. 
+a16z	683953411058872321	2016-01-04T10:09:35	More quantitative support for sama thesis that we've been in a bust, not a bubble. 
+a16z	683668764374642690	2016-01-03T15:18:30	Contra paulg, "The notion that entrepreneurship and inequality go hand in hand is I suspect a myth." 
+a16z	683634174046023680	2016-01-03T13:01:03	If you get all your social needs from those geographically near you, you're lucky. Few of us are that fortunate.  
+a16z	683628342931668992	2016-01-03T12:37:52	Is tech keeping us apart from each other? If you say yes, ask who's included in "us" and who is not. The latter often needs tech the most.
+a16z	683060952233820160	2016-01-01T23:03:16	"Entrepreneurs have become democratized" Beyond Lean Startups by a16z via soundcloud 
+a16z	683909677235703808	2016-01-04T07:15:48	Developers love the 21 Bitcoin Computer...the beginning of the machine payable web and the microservice economy 
+a16z	682776403813728256	2016-01-01T04:12:34	The Edge Annual Question, live at midnight: . 194 essay (133,000 words). Reading time ....??
+a16z	682740016984936448	2016-01-01T01:47:59	At 11:59, pmarca will admit there's an internet bubble in a cynical effort to fuck up your 2015 list of predictions.
+a16z	682692333029199872	2015-12-31T22:38:30	New Years Resolution  
+a16z	682670103507415040	2015-12-31T21:10:10	👏 The Most Top-Selling Photo of 2015 on 500px: Team Collaboration by NattasLounge  
+a16z	682671669761056768	2015-12-31T21:16:24	2015 was an exciting year for vr and Oculus. Cheers to 2016 and our community! HappyNewYear 2015topnine NYE2016 
+a16z	682594964665151488	2015-12-31T16:11:36	We’re proud of the progress the Bitcoin ecosystem made in 2015, but there’s lots of work ahead.   A Year in Review: 
+a16z	682669683552591872	2015-12-31T21:08:30	our top 16 podcasts of 2015 
+a16z	682513241138835456	2015-12-31T10:46:51	This episode on AI was just excellent &amp; deep: “AI &amp; the space of possible minds” Thx smc90 pmarca &amp; a16z co 
+a16z	682392493258895362	2015-12-31T02:47:03	our top listicles of 2015 
+a16z	682376017424609281	2015-12-31T01:41:35	Our Top 5 Longreads of 2015 by a16z via erictwillis  
+a16z	682204601693683712	2015-12-30T14:20:26	Year in review: Top 10 Health Stories of 2015   via WSJ health healthcare
+a16z	682338290100383744	2015-12-30T23:11:40	The Internet Allowed Us to Learn Anything—VR Will Let Us Experience Everything  
+a16z	682193938552324096	2015-12-30T13:38:04	Utterly fascinating podcast on virtual reality as a medium... inc issues you never would have considered (cc a16z) 
+a16z	682328113133404161	2015-12-30T22:31:13	Summary of an excellent a16z interview with andre about his POV on technology and sports  
+a16z	682255385667842050	2015-12-30T17:42:14	Great interview with tristanwalker who's trying to reset expectations for working parents.  
+a16z	682241390789566464	2015-12-30T16:46:37	“Success at Work, Failure at Home” by W_ScottWeiss of a16z - 
+a16z	681721041840910336	2015-12-29T06:18:56	Just did ‘Getting the right stuff done’ exercise with team. Thanks stevesi for this masterpiece. 
+a16z	682214734687408129	2015-12-30T15:00:42	Where N = Σ. Also, communication is not based on read/reply to bullets in essays so you don't need a desk and time. 
+a16z	682179033321320448	2015-12-30T12:38:50	BREAKING: India's mobile-phone subscribers cross 1 billion. Only country after China to cross the milestone, via 
+a16z	682115492304138241	2015-12-30T08:26:21	Why now for realtime group chat?  Async email: better when internet population density was low. But today N colleagues are *always* online.
+a16z	681778161177083904	2015-12-29T10:05:55	Centralized v decentralized Synchronous v asynchronous Monolithic v microservices Hierarchy (status) v trade (money) Loyalty v contract
+a16z	682057809475665920	2015-12-30T04:37:08	ICYMI: latest holiday podcasts including Golden State Warriors' Andre Iguodala; Chris Milk on VR storytelling; more: 
+a16z	682057196054515712	2015-12-30T04:34:42	our top 5 longreads of 2015 
+a16z	681996394857537537	2015-12-30T00:33:06	An extremely good explanation of the magic of Andy Grove and High Output Management:
+a16z	681953535081201666	2015-12-29T21:42:47	“people at the age of 18 are coming to universities saying, ‘I have an idea; I think I can have an impact’” 
+a16z	681740513335181312	2015-12-29T07:36:19	Great wsj piece comparing Canada's successful integration of immigrants with Europe's struggles 
+a16z	681753191336161281	2015-12-29T08:26:41	Everyone on earth will get a pocket supercomputer. They won’t necessarily get free power or connectivity
+a16z	681524628372631552	2015-12-28T17:18:28	"In real life you won't always have a calculator with you." — math teachers in the 80s
+a16z	681671720802119680	2015-12-29T03:02:57	This is a pretty intriguing a16z podcast on nootropics, aka cognitive enhancers: 
+a16z	681648580596084736	2015-12-29T01:31:00	I highly recommend this podcast from a16z about dealing with a distributed workforce effectively. telepresence 

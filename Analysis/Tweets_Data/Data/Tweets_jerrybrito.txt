@@ -1,0 +1,180 @@
+jerrybrito	725720771293761536	2016-04-28T16:18:09	The Spanish economy has improved significantly since they stopped having a government 
+jerrybrito	725360123565248512	2016-04-27T16:25:04	Thanks to our sponsors for the Coin Center Annual Dinner. Tickets still available:  ccdinner 
+jerrybrito	725341264976207875	2016-04-27T15:10:08	WSJ: Financial Crimes Enforcement Network Director Calvery to Depart 
+jerrybrito	725333763799040001	2016-04-27T14:40:19	Reuters: EU lawmakers to hold off from regulating blockchain for now 
+jerrybrito	725326193982115840	2016-04-27T14:10:15	UK Treasury Won't Seek AML Rules for Bitcoin Wallet Providers  UK getting the regulatory balance right once again.
+jerrybrito	725040733670019076	2016-04-26T19:15:56	Vanity Fair: Why Democrats Are Becoming the Party of the 1 Percent 
+jerrybrito	724555011603099649	2016-04-25T11:05:51	Portfolio Company Bitstamp Becomes First Nationally Regulated Bitcoin Exchange. Read more:  
+jerrybrito	723189773414871040	2016-04-21T16:40:52	Come join me at Consensus2016 using discount COINCENTERGALA and save $500 before they sell-out:  ReachConsensus
+jerrybrito	721781985266556929	2016-04-17T19:26:50	Austin law enforcement asks city council not to regulate Uber because it has decreased drunk driving crashes 23% 
+jerrybrito	720991522787880960	2016-04-15T15:05:49	Finalist voting is now live for the 2016 Blockchain Awards. Vote today!  ccdinner blockies 
+jerrybrito	720632549949718530	2016-04-14T15:19:23	1cyrilblanc1 oleganza Is there a legal fund?
+jerrybrito	720328850316505088	2016-04-13T19:12:35	Priorities.  
+jerrybrito	720256494332198912	2016-04-13T14:25:04	Report: Two Venezuelan Men Arrested for Mining Bitcoin  This is horrible. What can the community do?
+jerrybrito	719990921501261824	2016-04-12T20:49:47	ELforeignpolicy Thank you! Sincerely appreciate you coming out.
+jerrybrito	719912627112189952	2016-04-12T15:38:40	If Allowed to Thrive, Blockchain May Finally Give Regulators Transparency:  CatoCMFA CryptoCato
+jerrybrito	719873331080638464	2016-04-12T13:02:31	Livestream for CryptoCato starts now: . Agenda:  
+jerrybrito	719574009277456384	2016-04-11T17:13:07	WIRED: How to Prove You’re Bitcoin Creator Satoshi Nakamoto  Quoting yours truly.
+jerrybrito	718285053931962373	2016-04-08T03:51:16	The most readable article yet about how junk-science took over nutrition research and national policy: 
+jerrybrito	718827270815772672	2016-04-09T15:45:51	German comedian under investigation for mocking Erdoğan 
+jerrybrito	718538306137546752	2016-04-08T20:37:36	Looks like valkenburgh found how the Satoshi PGP key ended up on the MIT server. 
+jerrybrito	718506127214960641	2016-04-08T18:29:44	How to evaluate a claim that a certain person is Satoshi Nakamoto  Would appreciate suggestions, critiques, etc.
+jerrybrito	718484275402829824	2016-04-08T17:02:54	bergalex It’s probabilistic, no? First block is certain, second block is 99% certain, etc.?
+jerrybrito	718481848196861953	2016-04-08T16:53:16	bergalex Thank you. What specifically is contested?
+jerrybrito	718473709015666688	2016-04-08T16:20:55	SDLerner If you can put it somewhere I can link to, that would be great. Working on this: 
+jerrybrito	718465473680171008	2016-04-08T15:48:12	SDLerner Thanks.
+jerrybrito	718418270316060672	2016-04-08T12:40:37	For my friends at Mercatus elidourado AdamThierer anjiecast 
+jerrybrito	718281136372391937	2016-04-08T03:35:42	pheared Good to hear from you, Kevin!
+jerrybrito	718281073193533441	2016-04-08T03:35:27	pheared _drgo Thank you. Yes, I’ve been able to confirm that’s what it is. It’s the same key but signed by lots of people.
+jerrybrito	718237213717307392	2016-04-08T00:41:10	oocBlog Agreed.
+jerrybrito	718228310082371584	2016-04-08T00:05:47	SDLerner Do you mean Satoshi signed a tx to Trammel? Or that he PGP-signed a message to Trammel? In either case, how do you know? Thanks.
+jerrybrito	718213485235187719	2016-04-07T23:06:53	oocBlog If you help address our lack of crypto / PGP knowledge, please do. Thanks. 
+jerrybrito	718212687931523072	2016-04-07T23:03:43	oocBlog Yes, I agree. But we may soon have to explain why we’re so sure to the press and their readers, so I’m boning up. :)
+jerrybrito	718199815662936066	2016-04-07T22:12:34	jgarzik Would appreciate any thoughts on this:  For fun and preparedness. :)
+jerrybrito	718193866873139204	2016-04-07T21:48:55	Technical friends, please help: Why are these two Satoshi keys different? 
+jerrybrito	718193766419537920	2016-04-07T21:48:31	EthereumNetNews I have found no such signed correspondence. I don’t think it exists.
+jerrybrito	718193465562161153	2016-04-07T21:47:20	_drgo Yeah, just noticed that. Limits of my crypto knowledge fast approaching!
+jerrybrito	718193051387228161	2016-04-07T21:45:41	EthereumNetNews There’s still no evidence Satoshi ever used it to sign or encrypt anything.
+jerrybrito	718192961318752256	2016-04-07T21:45:20	EthereumNetNews That’s the same key that’s been on  since at least 2011, so no surprise Dillinger has it.
+jerrybrito	718176447177826309	2016-04-07T20:39:42	alansilbert bergalex _drgo She actually did us a favor here by blowing the whistle on this.
+jerrybrito	718176294555500548	2016-04-07T20:39:06	robustus Even then I would not consider it proof, only evidence. I’d want more early blocks + logical explanation for behavior of claimant
+jerrybrito	718175947883749378	2016-04-07T20:37:43	EthereumNetNews Link?
+jerrybrito	718173846273179649	2016-04-07T20:29:22	alansilbert _drgo I had thought so too, but here is the FT front page from last week. 
+jerrybrito	718173247628517378	2016-04-07T20:26:59	EthereumNetNews Just checked, there was no correspondence w/ wikileaks. It was a public posting. 
+jerrybrito	718172432868188160	2016-04-07T20:23:45	_drgo I wouldn’t be satisfied.
+jerrybrito	718171000605646848	2016-04-07T20:18:04	_drgo Yes, but anyone can vouch. There are random people there vouching and dating in 1995! Means nothing really.
+jerrybrito	718170643741728768	2016-04-07T20:16:39	EthereumNetNews Well, more accurate to say they have correspondence from someone signing with that key. :) Thanks for tip!
+jerrybrito	718168294281363456	2016-04-07T20:07:18	Related Q: Where was the satoshin@gmx.com PGP key first published? On ? At MIT keyserver? Elsewhere? How do we know?
+jerrybrito	718167561955909633	2016-04-07T20:04:24	petertoddbtc Right, thank you.   gavinandresen: Would be very helpful if you could let us know.
+jerrybrito	718166569717735425	2016-04-07T20:00:27	petertoddbtc My question is: Is that ACK from gavinandresen that it is the key from , or from correspondence? 2/2
+jerrybrito	718166555616477184	2016-04-07T20:00:24	petertoddbtc Understood, but in that GitHub thread you ask for ACK from someone who has corresponded w/ Satoshi &amp; gavinandresen does. 1/2
+jerrybrito	718164338419310592	2016-04-07T19:51:35	petertoddbtc Yes, I linked to that thread in my previous tweet. Seems like gavinandresen vouched for it tho? See 
+jerrybrito	718163219873972224	2016-04-07T19:47:09	virtuallylaw Thanks! So does this mean gavinandresen had encrypted or signed correspondence w/ Satoshi using the key in the bylaws?
+jerrybrito	718161028345892864	2016-04-07T19:38:26	_drgo gavinandresen virtuallylaw jonmatonis rogerkver Interesting! Where was it taken from and added to the bylaws?
+jerrybrito	718160250457735168	2016-04-07T19:35:21	Coming soon! jerrybrito 
+jerrybrito	718159381502758912	2016-04-07T19:31:53	Is the US losing its global competitive edge in fintech?  Yours truly on what recent developments tell us. bitcoin
+jerrybrito	718125918716370945	2016-04-07T17:18:55	Asking for a friend: Is there any evidence Satoshi ever signed anything with his PGP key? 
+jerrybrito	717822204898095110	2016-04-06T21:12:04	NYT: For Fintech Start-Ups, Efforts to Rethink Rules That Cramp Innovation  Quoting yours truly.
+jerrybrito	717804352052834306	2016-04-06T20:01:08	Who Funds Bitcoin Core Development? How the Industry Supports Bitcoin's 'Reference Client' 
+jerrybrito	717776438162640896	2016-04-06T18:10:13	Looking forward to the coincenter  annual dinner during Consensus2016 - just got my ticket
+jerrybrito	716956788000731136	2016-04-04T11:53:13	Are your views on privacy and PanamaPapers consistent? Just asking...
+jerrybrito	715641309206286336	2016-03-31T20:45:58	Idea: FTC releases own ransomware, decrypts infected computers only if companies settle for poor security ;o) 
+jerrybrito	715633656010829824	2016-03-31T20:15:34	Join me, coincenter giancarloCFTC MarcHochstein &amp; more at CatoInstitute on April 12  
+jerrybrito	715594424672198656	2016-03-31T17:39:40	OCC releases its fintech whitepaper, announces June 23 forum on Innovation 
+jerrybrito	715344481718050816	2016-03-31T01:06:29	Same as everywhere else: bad cyber hygiene.  
+jerrybrito	715284699602673667	2016-03-30T21:08:56	Carol_VanCleef You seem to agree w/ Treasury’s call for regulator discretion rather than clear rules. Surprised. 
+jerrybrito	715256191446867969	2016-03-30T19:15:39	What's the URVCBA!? We've posted two of our letters to the ULC. Everyone should see how the sausage gets made. 
+jerrybrito	715231935358959621	2016-03-30T17:39:16	Very surprised that carol_vancleef of ChamberDigital thinks Treasury’s case-by-case approach that would hurt innovators makes sense.  2/2
+jerrybrito	715231911342436353	2016-03-30T17:39:10	American Banker: How Treasury Is Trying to Shape State Digital Currency Regs  Great piece on ULC process. 1/2
+jerrybrito	715225329464422400	2016-03-30T17:13:01	WSJ: U.S. Terror Rules Drive Money Underground  I've been saying this for years.
+jerrybrito	715179377592545282	2016-03-30T14:10:25	Coin Center Opens Nominations for the 2016 Blockchain Awards 
+jerrybrito	714500544400908288	2016-03-28T17:12:59	WSJ: Regulator Moves to Create New Fintech Framework  Quoting yours truly.
+jerrybrito	714474283783823360	2016-03-28T15:28:38	Just Announced: RepMickMulvaney to keynote Coin Center Annual Dinner on May 2 in NYC.  
+jerrybrito	714470509296095233	2016-03-28T15:13:38	.mit creates wallet to accept bitcoin from donors for $900K Bitcoin Developer Fund  Congrats brianforde!
+jerrybrito	713005405266395136	2016-03-24T14:11:50	When does a company actually control customer bitcoins?  
+jerrybrito	712686266224152578	2016-03-23T17:03:41	.jerrybrito and Patrick Byrne, OverstockCEO are just two of the great speakers at the CryptoCato conference: 
+jerrybrito	712685245112393728	2016-03-23T16:59:38	have you purchased your tickets for the coincenter dinner yet?! i'll be there in my ball gown :D  
+jerrybrito	712688638291787777	2016-03-23T17:13:07	BitGo Engineers Launch Ethereum Wallet Side Project 
+jerrybrito	712358989393170432	2016-03-22T19:23:12	Schedule is live for the FREE CatoInstitute cryptocurrency conference. Join us 4/12 in DC.   
+jerrybrito	712013162740973568	2016-03-21T20:29:01	Thrilled to have fredwilson keynote Coin Center Dinner on 5/2. We’ll also present the Blockchain Awards. Join us. 
+jerrybrito	711932423781613568	2016-03-21T15:08:11	Women in Bitcoin and Blockchain Tech — An Opportunity  Eye-opening piece by Melt_Dem
+jerrybrito	710890378304610305	2016-03-18T18:07:28	Phenomenal profile of Ethereum, Consensys, and ethereumJoseph  Great job by jimepstein
+jerrybrito	710187984465862657	2016-03-16T19:36:24	Cyberlaw Podcast: Interview with CoinCenter's RobinWeisman and Valkenburgh  ApplevsFBI Blockchain Cybersecurity
+jerrybrito	710177451448598528	2016-03-16T18:54:33	Hearing went well. Happy to (probably) be first person to say “Ethereum” in the Congressional Record. 
+jerrybrito	710107122625847296	2016-03-16T14:15:05	WATCH LIVE @ 11AM ET: We testify at a Congressional hearing on Digital Currency and Blockchain Technology. 
+jerrybrito	710090766333427713	2016-03-16T13:10:06	I'm speaking at Consensus2016! Register with *$500* discount code “COINCENTERGALA” &amp; MakeConsensusGreatAgain! 
+jerrybrito	709798712629960704	2016-03-15T17:49:35	Interesting new white paper from BitFuryGroup: Digital Assets on Public Blockchains 
+jerrybrito	709401843680423936	2016-03-14T15:32:34	andrewmgrossman It’ll be posted shortly. It’s a basic educational hearing.
+jerrybrito	709396198659117057	2016-03-14T15:10:08	Congressional hearing on Wednesday: Digital Currency and Blockchain Technology  I'll be testifying. Tune in. bitcoin
+jerrybrito	708111684682915841	2016-03-11T02:05:56	One of our openbazaar stores is taking the initiative on the Bitcoin block size debate. 
+jerrybrito	708113386240811008	2016-03-11T02:12:42	Amazing what happens when the moderators ask questions about policy and not about what other candidates have said.
+jerrybrito	707630311857917952	2016-03-09T18:13:08	What is Ethereum?  Great plain-english explainer by VitalikButerin
+jerrybrito	707600515727810560	2016-03-09T16:14:44	NBC/WSJ poll now includes Apple and Google in favorability polls. They do better than the presidential candidates. 
+jerrybrito	707592712401375232	2016-03-09T15:43:43	tatewatkins I have little choice :(
+jerrybrito	707591799725023236	2016-03-09T15:40:06	Looking forward to speaking at ABA's 2016 digital currency conference on 4/1  Get $100 off with code CE15CPDNIVIP
+jerrybrito	707267969181741056	2016-03-08T18:13:18	CNBC: Bitcoin—a solution to the ad-blockers? 
+jerrybrito	705425559300530183	2016-03-03T16:12:14	Why Bitcoin is not the root cause of ransomware  Clear thinking on this thorny problem.
+jerrybrito	703083411737591808	2016-02-26T05:05:22	xbtbtc Then he should say he won’t release because it’s confidential, not give weak excuse that he’d love to release but for audit. Weak.
+jerrybrito	703063754787827712	2016-02-26T03:47:16	I'm so old, I remember when everyone thought Al Gore was a jerk for sighing while George Bush was talking during one debate.
+jerrybrito	703065612994670592	2016-02-26T03:54:39	anjiecast 
+jerrybrito	703063351711145984	2016-02-26T03:45:39	elidourado Oh, Cruz understands it. Carson is enjoying a fruit salad.
+jerrybrito	703063153672916992	2016-02-26T03:44:52	anjiecast that’s exactly why I wasn’t looking forward to that question
+jerrybrito	703057434076516352	2016-02-26T03:22:09	 
+jerrybrito	703055831869227008	2016-02-26T03:15:47	No legit reason realDonaldTrump can't release returns while being audited, but if scared, release earlier returns no longer under audit.
+jerrybrito	703058014434160640	2016-02-26T03:24:27	jblanton I have that somewhere in a closet except it’s called an AlphaSmart. 
+jerrybrito	702585673463808000	2016-02-24T20:07:32	Just used ShapeShift_io for the first time. Even better than I imagined.
+jerrybrito	702214998244913153	2016-02-23T19:34:36	SamuelPatt scratch that. The consensys guy is up now.
+jerrybrito	702214678181756928	2016-02-23T19:33:20	SamuelPatt Ethereal guy from Consensus. His ideas actually make a lot of sense but yes, his talk is very dense and jargony.
+jerrybrito	702210251156824064	2016-02-23T19:15:44	Yesterday was at FSB meeting on bitcoin and blockchain and today at CFTC. Regulator interest accelerating.
+jerrybrito	702209822930944000	2016-02-23T19:14:02	Happening now: CFTC meeting on bitcoin and block chain. Live video here: 
+jerrybrito	701825356479725569	2016-02-22T17:46:18	No plans Wednesday night? Join us in NYC for circlepay coincenter paulvigna WSJ - hosted GrantThorntonUS -
+jerrybrito	691519822362968064	2016-01-25T07:15:48	This sums up so much about the world, so simply. 
+jerrybrito	701223840421179392	2016-02-21T01:56:06	*Jeb removes his exclamation mark, releases it into an open field* “Go. You’re free now”
+jerrybrito	700051945399197696	2016-02-17T20:19:24	How big banks are paying lip service to the blockchain  Spot on piece by readDanwrite
+jerrybrito	699683759713550340	2016-02-16T19:56:22	Save the date: Coin Center Annual Dinner on May 2 during Consensus 2016 
+jerrybrito	699633152982179840	2016-02-16T16:35:16	Save May 2: Coin Center Annual Dinner 
+jerrybrito	699366015206088704	2016-02-15T22:53:46	ICYMI: No, FinCEN Policy is not Relevant to the Bitcoin Forking Debate 
+jerrybrito	699309074576498688	2016-02-15T19:07:30	virtuallylaw FFFFUUUUUU!! How can I argue with the wisdom of the crowds?
+jerrybrito	699306876018823168	2016-02-15T18:58:46	brucefenton Thanks, Bruce. BTW Coin Center is two words. :)
+jerrybrito	697799651395764224	2016-02-11T15:09:36	clipperhouse dangillmor I think that’s different. Apple has always had an open development platform for the Mac.
+jerrybrito	697538439374188544	2016-02-10T21:51:38	If Twitter's in trouble, a key turning point was the day it screwed the 3rd party developers who'd done all the platform innovation.
+jerrybrito	697499105355022338	2016-02-10T19:15:20	JuanLlanos Congrats Juan!!
+jerrybrito	697445003338059776	2016-02-10T15:40:21	One of the core developers of bitcoin has a new startup modeled on his former employer, Red Hat  Congrats jgarzik!
+jerrybrito	697256298350571520	2016-02-10T03:10:30	pmarca 
+jerrybrito	697245294660943873	2016-02-10T02:26:47	So I guess New Hampshire voters are going with "or die."
+jerrybrito	697245293088264192	2016-02-10T02:26:46	Bad night to be an immigrant Mexican billionaire.
+jerrybrito	697233191367806976	2016-02-10T01:38:41	Bloomberg sweeps New Hampshire!
+jerrybrito	697140600852914176	2016-02-09T19:30:46	Coin Center raises $1 million, announces new supporters  Thrilled to have such amazing folks support our work.
+jerrybrito	697122166781960192	2016-02-09T18:17:31	FANTASTIC coverage of coincenter - we are proud to support this organization and their hard work! 
+jerrybrito	697113458567999490	2016-02-09T17:42:54	Here's a bitcoin scooplet: coincenter raises $1M from big names like Andreessen, Silbert and Overstock  OSTK BTC
+jerrybrito	697090166712827904	2016-02-09T16:10:21	Can't wait to talk about the 'clockchain'  
+jerrybrito	696164376412295168	2016-02-07T02:51:36	stvswn Itsjoeco 
+jerrybrito	696146718119690240	2016-02-07T01:41:26	This is what an EMP looks like 
+jerrybrito	696146711857795072	2016-02-07T01:41:24	delitzer Yes.
+jerrybrito	696146199921950721	2016-02-07T01:39:22	EMP! EMP! EMP!
+jerrybrito	695385026922311684	2016-02-04T23:14:44	SamuelPatt yeah I noticed that!
+jerrybrito	695255520186404864	2016-02-04T14:40:07	I just backed The Business Blockchain Books on Kickstarter 
+jerrybrito	695247965846380545	2016-02-04T14:10:06	Techcrunch: Let’s Be Honest About The Problems With Blockchain And Finance 
+jerrybrito	694545856654151681	2016-02-02T15:40:10	Bank of England Economist Joins Ledger Journal Editorial Board 
+jerrybrito	692899455679332352	2016-01-29T02:37:58	Stop looking at me Chris Christie. GOPDebate
+jerrybrito	692900028952645632	2016-01-29T02:40:15	John Kasich can't give his answer of encryption because it's encrypted.
+jerrybrito	692813746239082497	2016-01-28T20:57:23	I cannot bookmark this hard enough:  bitcoin valkenburgh jerrybrito coincenter
+jerrybrito	692067141114269696	2016-01-26T19:30:39	Coin Center Releases Bitcoin Report for Securities Regulators 
+jerrybrito	691984733912330240	2016-01-26T14:03:11	.coincenter Report: Which Digital Currencies Should Be Regulated as Securities?  
+jerrybrito	691984711502188545	2016-01-26T14:03:06	Released today: Is Bitcoin a Security?  
+jerrybrito	690455320368381952	2016-01-22T08:45:51	Everybody uses Tor. It has no competition. The campaign was allstar. Yet the $ donated can hardly pay 2 skilled devs 
+jerrybrito	690653079293837312	2016-01-22T21:51:40	Had a great time at TNABC. See you all again soon! 
+jerrybrito	690208586866253824	2016-01-21T16:25:25	bitcoinconsumer Woah, woah… That’s not me on stage. It’s brucefenton.
+jerrybrito	689977472713134080	2016-01-21T01:07:03	The idea of spending money truly anonymously is really exciting. Or terrifying. I don't know, but I want to find out.
+jerrybrito	689880052520058880	2016-01-20T18:39:56	I'm glad the fine people of New Hampshire have their priorities straight. 
+jerrybrito	689879235801026561	2016-01-20T18:36:41	This is seriously awesome. A big national press corps is in Concord, waiting for the Bitcoin debate to end so Christie can speak.
+jerrybrito	689863473203912704	2016-01-20T17:34:03	Zcash, an Untraceable Bitcoin Alternative, Launches in Alpha  Congrats to zooko! Great regulatory discussions ahead!
+jerrybrito	689834892004364289	2016-01-20T15:40:29	New backgrounder: "Is Blockchain Different than Bitcoin?" by gendal of R3CEV  
+jerrybrito	689601724793917441	2016-01-20T00:13:58	Coin Center is doing great things for the blockchain &amp; cryptocurrency industry, proud to be a supporter 
+jerrybrito	689491104085868544	2016-01-19T16:54:23	We tell Washington: an open global blockchain is the innovation that matters.  
+jerrybrito	689457396918255618	2016-01-19T14:40:27	Keep Calm and Bitcoin On  Very thoughtful by valeryvavilov
+jerrybrito	688102591943720972	2016-01-15T20:56:56	Enjoying a glass of fine Georgian wine at coincenter thanks to BitfuryGeorge and valeryvavilov! 
+jerrybrito	687821117558517760	2016-01-15T02:18:28	EMP FTW!!!!
+jerrybrito	687800334866100225	2016-01-15T00:55:53	First Bowie, then Rickman, and now this… 
+jerrybrito	687376550430380032	2016-01-13T20:51:55	You can now register for Consensus 2016 in NYC on May 2-4, brought to you by CoinDesk, coincenter and DCGco 
+jerrybrito	687579417862889472	2016-01-14T10:18:02	.PayPal Adds Bitcoin Xapo Startup CEO Wences (wences) Casares to Board of Directors  
+jerrybrito	687693442919587841	2016-01-14T17:51:08	BitfuryGeorge Awesome! When’s the open house party? ;o)
+jerrybrito	687376037655769088	2016-01-13T20:49:52	Thrilled to be partnering with DCGco and CoinDesk on Consensus 2016 - the premier blockchain conference 
+jerrybrito	684811979182215168	2016-01-06T19:01:13	Here's why banks are obsessed with a technology that's 'becoming the new internet'  Great deck by wmougayar
+jerrybrito	684805485082619904	2016-01-06T18:35:25	Interesting if odd new report from RAND: Examining the Potential for Nonstate Actor Deployment of Virtual Currencies 
+jerrybrito	684798780709965825	2016-01-06T18:08:46	Gem Raises $7.1 Million in Series A  Congrats to winkelspecht and the whole GemHQ team!
+jerrybrito	684140315989549056	2016-01-04T22:32:16	I'm live right now on DigitalShow111 with ldignan mattfwood jerrybrito &amp; om. Tune in on SiriusXM channel 111.
+jerrybrito	684109705673879552	2016-01-04T20:30:38	4 Trends That Will Shape Bitcoin Regulation in 2016  Smart piece by jasonweinstein6
+jerrybrito	684099738216566784	2016-01-04T19:51:02	This 'stall' has given us time to work with PA lawmakers and stakeholders to improve the bill. More soon. 
+jerrybrito	682317445395251200	2015-12-30T21:48:50	hmm missed this talk at GoldmanSachs btwn balajis and jerrybrito on bitcoin a year ago…looks really interesting 
+jerrybrito	682600181569851393	2015-12-31T16:32:20	In which I make both the bear case and the bull case for bitcoin in 2016: 
+jerrybrito	680163102730551296	2015-12-24T23:08:15	Five 2015 Themes That Will Carry Over Into the Rest of the Decade 
+jerrybrito	677900111595347969	2015-12-18T17:15:56	Remember the time IBM teamed up with CBS and Sears to launch Prodigy? It eventually had to become an ISP. 
+jerrybrito	677563976214036480	2015-12-17T19:00:15	WATCH: In just 10 minutes jerrybrito explains why you should be excited about Beyoncé. 
+jerrybrito	675065903470497792	2015-12-10T21:33:48	How to Spot Bitcoin Inventor Satoshi Nakamoto  Phenomenal article by el33th4xor. Must read. 
+jerrybrito	674698967821778944	2015-12-09T21:15:43	The Identity of Satoshi Nakamoto, Inventor of Bitcoin, Doesn't Matter  Great as usual by readDanwrite
+jerrybrito	674693138678681601	2015-12-09T20:52:34	Procrastinating a bit from work, found Craig Wright’s fiction novel. Enjoy.  notsatoshi
+jerrybrito	674418808552095745	2015-12-09T02:42:28	StartupLJackson I don’t think Republican voters were the intended audience for that message.
+jerrybrito	674368369164857344	2015-12-08T23:22:03	In news sure to be overshadowed, BIP 65 is active. Huge step forward in Bitcoin and smart contract security. 
+jerrybrito	674358952105271296	2015-12-08T22:44:37	Judging by the reaction so far, I think we all got it out of our system with Newsweek last year. That’s good.
+jerrybrito	674252106539384833	2015-12-08T15:40:03	What are Forks, Alt-coins, Meta-coins, and Sidechains?  New backgrounder by valkenburgh

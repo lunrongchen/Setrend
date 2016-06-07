@@ -1,0 +1,960 @@
+joshu	726191576146288640	2016-04-29T23:28:58	kryptara got some things to show off? you could come to the selfracingcars event
+joshu	726191436660510720	2016-04-29T23:28:25	Denso, nVidia, and ppprs's Pittsburgh team will be bringing vehicles to my selfracingcars event.
+joshu	726160872087777280	2016-04-29T21:26:57	Fun visit today with nVidia. 
+joshu	725800070474424320	2016-04-28T21:33:16	anukul
+joshu	725799896788307969	2016-04-28T21:32:34	inconvergent it's good for you. the bad part is when you stop worrying and think, YEAH I'M GREAT
+joshu	725555013288751104	2016-04-28T05:19:29	tomcoates simonw so you are saying godlike reality fabricators can't make completely secure VMs?
+joshu	725545331589406721	2016-04-28T04:41:01	simonw tomcoates being loud is probably a disadvantage, long-term. or there's something better than radio
+joshu	725388588616052736	2016-04-27T18:18:11	Nice shout out by ThunderhillPark in their newsletter for selfracingcars 
+joshu	725373466656923648	2016-04-27T17:18:05	TypesUnknown well, worrydream's lab uses this interaction a lot
+joshu	725191858310119424	2016-04-27T05:16:27	Ran out of ink. Damnit. 
+joshu	725160711735902209	2016-04-27T03:12:41	seldo i hit close on the fourth face
+joshu	725149702866505728	2016-04-27T02:28:56	seldo FIFTY SIX FACES???
+joshu	725131581073969152	2016-04-27T01:16:55	odomojuli it's not quite the same. 3-400 non-overlapping pixels vertically
+joshu	725126993839198208	2016-04-27T00:58:42	odomojuli that's nominally addressable. Not possible due to the pen tip
+joshu	725126069158703104	2016-04-27T00:55:01	odomojuli addressable 45 dots per mm. And 1100mm X 1600mm. But the pen tip is like 3mm
+joshu	725125329090547712	2016-04-27T00:52:05	I need source material with a better aspect ratio. # 
+joshu	725125167639203841	2016-04-27T00:51:26	odomojuli ultimately vector
+joshu	725118896370421764	2016-04-27T00:26:31	I think I used up an entire pen. 
+joshu	725006337172594692	2016-04-26T16:59:15	DanielGriehaber HDPE
+joshu	724815053883621376	2016-04-26T04:19:09	Slow but steady progress today. Cage to hold the lead bolt. 
+joshu	724739638963769344	2016-04-25T23:19:29	metacool rfid in bolt, IoT torque wrench?
+joshu	724739404967735300	2016-04-25T23:18:33	Using advanced CAD software a was able to design and fab a very precisely incorrect part.
+joshu	724711357879197696	2016-04-25T21:27:06	vved123 selfracingcars fill out the "apply" form and i'll send updates for the spectator requests when i get that sorted
+joshu	724693555952775169	2016-04-25T20:16:22	sampatil38 i am going to talk to the attendees and see how they feel about spectators.
+joshu	724674631332818947	2016-04-25T19:01:10	
+joshu	724670709230764033	2016-04-25T18:45:35	metacool let's see how it goes first?
+joshu	724657721417469952	2016-04-25T17:53:58	trying conventional instead of defaulting to climb.
+joshu	724437420003880960	2016-04-25T03:18:34	mathowie mattcutts season 3?
+joshu	724369379421380608	2016-04-24T22:48:12	brett1211 peteskomoroch hunterwalk semil sonar or perhaps it was never done right?
+joshu	724362985339113472	2016-04-24T22:22:48	jewelia I disagree
+joshu	724360281791467520	2016-04-24T22:12:03	peteskomoroch hunterwalk semil got tired of explaining the future to investors
+joshu	724360140242083841	2016-04-24T22:11:30	peteskomoroch hunterwalk semil that was the idea. "Who does my network think is good at X?"
+joshu	724355779235434496	2016-04-24T21:54:10	jcreech3 i haven't decided on spectators. i don't want to stress out the participating companies.
+joshu	724355213507719168	2016-04-24T21:51:55	so should i invite chp_hq to the selfracingcars event? or some other relevant LE group?
+joshu	724354626024148993	2016-04-24T21:49:35	almost time to make a FAQ page for selfracingcars
+joshu	724354243381993472	2016-04-24T21:48:04	seldo rabois hunterwalk arampell sarahtavel this is totally different. i wasn't at bin 38
+joshu	724351225236320256	2016-04-24T21:36:04	In other news: friend of TRG Joshua Schachter is starting his own robotic race series:  
+joshu	724340890504847360	2016-04-24T20:55:00	Also, hooray, I was mentioned on a gawker site that isn't Valleywag. Now I am sad that Valleywag is gone, though. Cc nicknotned
+joshu	724340079498387456	2016-04-24T20:51:47	rabois hunterwalk arampell sarahtavel what
+joshu	724338585290203136	2016-04-24T20:45:50	varund7 bring it. Seriously.
+joshu	724336430193897472	2016-04-24T20:37:17	ims43 selfracingcars Jalopnik someday. both plain obstacles and the other cars. (racing is the goal, not time trials)
+joshu	724336309699907584	2016-04-24T20:36:48	varund7 yes please
+joshu	724333650335014915	2016-04-24T20:26:14	ims43 but lots of people race cars already.
+joshu	724333592336166913	2016-04-24T20:26:00	varund7 actually I am a CMU alum too. so i am disappoint.
+joshu	724333471468916736	2016-04-24T20:25:31	ims43 selfracingcars Jalopnik no. it's an engineering challenge.
+joshu	724325910896209920	2016-04-24T19:55:29	nelson I have some experience with chaos, thankfully. Alas I have no connections to the DARPA folks.
+joshu	724325561619734528	2016-04-24T19:54:05	nelson still have to see how the day itself goes!
+joshu	724325481248526337	2016-04-24T19:53:46	nelson i had been thinking about it for a while and I am reacting to motion elsewhere. Other people picked the moment.
+joshu	724317196361420804	2016-04-24T19:20:51	justinkan thunderhill. Details at 
+joshu	724317048449323008	2016-04-24T19:20:16	justinkan may 28, 29
+joshu	724315009774280706	2016-04-24T19:12:10	gitcrunk i'm mostly writing code which involves hair self-removal...
+joshu	724314749039599616	2016-04-24T19:11:07	sokane1 yeah my phrasing could have been better is all. i am excited for them
+joshu	724313473472032768	2016-04-24T19:06:03	i wish i had phrased the comment about roborace better. seems meaner than i meant.
+joshu	724312464624488448	2016-04-24T19:02:03	inconvergent just plot the dots? got it
+joshu	724312324832534528	2016-04-24T19:01:29	my selfracingcars event gets a little press in Jalopnik 
+joshu	724311801333055488	2016-04-24T18:59:25	inconvergent this is the raw, unoptimized output?
+joshu	724306636123181057	2016-04-24T18:38:53	justinkan you should come livesnap my robots event
+joshu	724305716874350592	2016-04-24T18:35:14	mjdominus b0rk kf I bricked some tplink devices installing openwrt, does that count? Never bricked stuff with removable storage
+joshu	724293967928389634	2016-04-24T17:48:33	wait, what? 
+joshu	724283078856691712	2016-04-24T17:05:17	inconvergent ahh interesting. I went to the art store and bought a bunch of stuff to try with my Inkdrop machine, they didn't mention this
+joshu	724282567894028288	2016-04-24T17:03:15	inconvergent I didn't know you can stretch paper for water colors.
+joshu	724282002803838976	2016-04-24T17:01:00	inconvergent need paper with appropriate sizing (fluid permeability)
+joshu	724080810060455936	2016-04-24T03:41:32	mitchturck thanks. Lets see if it goes anywhere first
+joshu	724023603386175488	2016-04-23T23:54:13	peteskomoroch starsandrobots we all did
+joshu	724023149260460032	2016-04-23T23:52:25	RaeBeta mendel jeffparker theisb GOODNESSaidan in the end we slide alone
+joshu	724022814752165888	2016-04-23T23:51:05	nmoryl who funded them?
+joshu	724021751630319616	2016-04-23T23:46:51	nmoryl selfracingcars yes that would be cool
+joshu	723947943359733761	2016-04-23T18:53:34	inconvergent nice
+joshu	723947812933627906	2016-04-23T18:53:03	inconvergent I think the drawing in the right had a couple hundred thousand. 
+joshu	723947472549105664	2016-04-23T18:51:42	inconvergent gotcha. I dump the points out to a tsp file (which is some sort of standard) and then read them back in.
+joshu	723946984395038724	2016-04-23T18:49:46	inconvergent have you looked at Concorde for optimizing stuff?
+joshu	723946910164246528	2016-04-23T18:49:28	inconvergent that's perfect. Email me one and I can try it in a bit? I have a toolchain for optimizing already.
+joshu	723946563639250945	2016-04-23T18:48:05	vgr how long can one burst be?
+joshu	723946201242980352	2016-04-23T18:46:39	inconvergent how do you optimize the pen plot? Can you send me the file and I can try it on the big plotter
+joshu	723768006044610560	2016-04-23T06:58:34	paulg trade you. i just ordered a book on how to make race cars.
+joshu	723691299015024640	2016-04-23T01:53:45	dapplestone the adhesive offset would be nice to break out in the ux
+joshu	723691203720433668	2016-04-23T01:53:23	dapplestone (I have done a ll this before but had to figure it out... The sw could help)
+joshu	723690615024685056	2016-04-23T01:51:02	dapplestone how do you account for the thickness of the tape?
+joshu	723689370121691136	2016-04-23T01:46:05	dapplestone that is neat but please talk about workholding
+joshu	723634211664498689	2016-04-22T22:06:55	jazzychad email me about it
+joshu	723620885106556928	2016-04-22T21:13:57	bought parts i thought i would need. now i need them. of course i can't find them.
+joshu	723592671571243008	2016-04-22T19:21:51	jazzychad excellent, proceed
+joshu	723592351952691200	2016-04-22T19:20:35	jazzychad HoD does a great job for that. sign up early because they fill first. What car?
+joshu	723587839267500033	2016-04-22T19:02:39	jazzychad is it your first event on track?
+joshu	723574633354526720	2016-04-22T18:10:10	waxpancake 
+joshu	723574534394118144	2016-04-22T18:09:47	tinysubversions none of the people none of the time and that's my final offer.
+joshu	723409304586326016	2016-04-22T07:13:13	karpathy now I have another platform to feel anxious about choosing. Damnit
+joshu	723405335747170304	2016-04-22T06:57:26	vgr zeroth world problems
+joshu	723326698180083713	2016-04-22T01:44:58	jazzychad different fun domain
+joshu	723325204387110913	2016-04-22T01:39:02	jazzychad yup, many times. HOD is good
+joshu	723266293944578048	2016-04-21T21:44:56	Just confirmed vardenlabs will be demoing at my selfracingcars event!
+joshu	723226920666558464	2016-04-21T19:08:29	just confirmed AutonomouStuff  and  for the selfracingcars event!
+joshu	723225430191284225	2016-04-21T19:02:34	tferriss i tried this but i never got the ideas back
+joshu	723214480566407170	2016-04-21T18:19:03	hugs yup that's smoke
+joshu	723179076588957696	2016-04-21T15:58:22	Harvcaster if you put my id first only people who sub to both of us  see it
+joshu	723038197932953600	2016-04-21T06:38:34	semil rational not the same as optimal
+joshu	722966119464607744	2016-04-21T01:52:09	chr1sa ataussig yay! What do I win?
+joshu	722962720887181314	2016-04-21T01:38:39	after i do autonomous racing this will be the next sport: 
+joshu	722944230197305346	2016-04-21T00:25:10	ataussig chr1sa correlation is not causation
+joshu	722919665714860033	2016-04-20T22:47:34	robconeybeer there is an ever-growing list of confirmed attendees on the site now
+joshu	722911654237724672	2016-04-20T22:15:44	now i'm pestering gokart companies via their support pages.
+joshu	722873419264491521	2016-04-20T19:43:48	kwancho maybe move this to email or phone?
+joshu	722873199306743808	2016-04-20T19:42:55	kwancho looking for a baseline kart to base an autonomous class on. So ease of articulating? And low cost?
+joshu	722854697032224768	2016-04-20T18:29:24	kcm is there a standard low end specific mfg model? Or should i just use everything from a specific class?
+joshu	722852286737686529	2016-04-20T18:19:49	Is there a standard kart? I want to look into a spec kart for autonomous racing
+joshu	722846954888101888	2016-04-20T17:58:38	jasoncrawford msuster one million yes please
+joshu	722846652755652608	2016-04-20T17:57:26	drewolbrich Genius Bar sans Apple?
+joshu	722846460669075456	2016-04-20T17:56:40	"Repeating is a plot by big shampoo to sell more product"
+joshu	722836198805254144	2016-04-20T17:15:54	hchamp this is what happens when you only measure one action and not the opposite
+joshu	722630769877725184	2016-04-20T03:39:36	naval ::bonghits::
+joshu	722615212122112001	2016-04-20T02:37:46	AlexRoy144 you inquired first but sokane1 got the article out first :)
+joshu	722571583936528384	2016-04-19T23:44:24	gaberivera hey I was gonna write that essay.
+joshu	722557405213491201	2016-04-19T22:48:04	craigcalef there were so few, that would be a travesty
+joshu	722550719509696512	2016-04-19T22:21:30	a ton of incoming autonomous race car press requests. kudos to sokane1 for beating the rush. i'm gonna lie down
+joshu	722549153453072386	2016-04-19T22:15:17	i had an alarming idea for old computer restomods. deck out a IIgs with SSD and a carbon fiber case?
+joshu	722548568507023360	2016-04-19T22:12:57	TypesUnknown this is my first time seeing it. it's actually pretty decent. better than i could write, i'm sure
+joshu	722524818575216640	2016-04-19T20:38:35	JonBruner it is shaping up to more of a mini conference. Crazy idea huh?
+joshu	722521164241723392	2016-04-19T20:24:04	Ok VR is pretty hard. 
+joshu	722507189613559809	2016-04-19T19:28:32	stlhood no worries, sokane1 fixed it.
+joshu	722485965546065920	2016-04-19T18:04:11	verge can you change "Josh" to "Joshua" in that article?
+joshu	722485029209657344	2016-04-19T18:00:28	rchen woot
+joshu	722463312789823488	2016-04-19T16:34:11	A Silicon Valley entrepreneur is bootstrapping his own self-driving racing series  
+joshu	722271420240175104	2016-04-19T03:51:40	are there any multiplayer sandbox games that are good and not minecraft?
+joshu	722233176702062593	2016-04-19T01:19:42	chrisfralic backordered
+joshu	722214459234648065	2016-04-19T00:05:19	evimyr Nintendo virtual boy
+joshu	722214258247766016	2016-04-19T00:04:31	This VR thing is gonna be huge. I am hopping on the bandwagon. 
+joshu	722179797082775553	2016-04-18T21:47:35	Is there a nice dslr-&gt; social media workflow for realtimeish event coverage?
+joshu	722173271278358528	2016-04-18T21:21:39	pt tim_cook this happens to me all the time
+joshu	722171761840640000	2016-04-18T21:15:39	golan they probably will never understand
+joshu	721965734805372928	2016-04-18T07:36:59	naval not sure Coase agrees
+joshu	721945607720468480	2016-04-18T06:17:00	Chump we are gonna live stream some of it. And maybe have a photographer
+joshu	721944801424199680	2016-04-18T06:13:48	Chump keep watch, I will let you know how well it goes.
+joshu	721940418426875904	2016-04-18T05:56:23	arnabdotorg kfury infinite array of selfie stick
+joshu	721939553859145728	2016-04-18T05:52:57	roybahat dots: still in
+joshu	721870082477989889	2016-04-18T01:16:54	zpPAPD 2pm is precisely when I start to need coffee.
+joshu	721869868392251394	2016-04-18T01:16:02	Interesting output from the printer. Cc danshapiro 
+joshu	721831160146341888	2016-04-17T22:42:14	cortesi your emotions shouldn't be world writeable
+joshu	721830627939524608	2016-04-17T22:40:07	fmanjoo or have a neighbor pick shit up for you?
+joshu	721830513112035328	2016-04-17T22:39:39	DanielleMorrill messes. 
+joshu	721828728230129664	2016-04-17T22:32:34	odomojuli if you write a text file with a series of lines I can draw it on the plotter.
+joshu	721803525542387712	2016-04-17T20:52:25	odomojuli tell me more about your process?
+joshu	721802160569069568	2016-04-17T20:47:00	qhardy with demos and testing and so on
+joshu	721802028347817985	2016-04-17T20:46:28	qhardy it is turning into a bit of a automotive future tech mini conference.
+joshu	721801923804790784	2016-04-17T20:46:03	qhardy  - end of may. wanna join?
+joshu	721792642489581568	2016-04-17T20:09:10	dackboor not yet. someday.
+joshu	721792604686319616	2016-04-17T20:09:01	odomojuli yeah? what do you do? i have thought about this but i don't have any paint skills.
+joshu	721786416980594688	2016-04-17T19:44:26	pattufts that's just evil, not mad
+joshu	721786319035207680	2016-04-17T19:44:03	qhardy did you see the autonomous event i am trying to run?
+joshu	721786204971077632	2016-04-17T19:43:36	odomojuli gcode. they are cnc machines.
+joshu	721722463315308548	2016-04-17T15:30:18	More plottertwitter 
+joshu	721722018412961794	2016-04-17T15:28:32	I didn't even know plottertwitter  was a thing. 
+joshu	721720450531786752	2016-04-17T15:22:18	qhardy i am hoping this trend continues all the way up to entire  vehicles
+joshu	721719634689286144	2016-04-17T15:19:04	inconvergent now you're talkin'!
+joshu	721597740774334464	2016-04-17T07:14:42	Stupid othermachine tricks: 
+joshu	721545792566140932	2016-04-17T03:48:17	waxpancake this will be very addictive once i stop getting killed due to lag
+joshu	721531128004280320	2016-04-17T02:50:00	i hate you, waxpancake slitherio
+joshu	721504226883477504	2016-04-17T01:03:07	danshapiro heh. I want something to modulate the water with the urea resin
+joshu	721496793578491905	2016-04-17T00:33:35	danshapiro I don't see it
+joshu	721481983117754368	2016-04-16T23:34:43	mjdominus ok i am way off, then. back to the grindstone
+joshu	721480479602388992	2016-04-16T23:28:45	BradJMurray ok then i am way off
+joshu	721480436438818816	2016-04-16T23:28:35	bertmb ok, so i am not even close.
+joshu	721476348854689792	2016-04-16T23:12:20	how many strange robots do i have to build before i am officially a mad scientist?
+joshu	721468547898019840	2016-04-16T22:41:20	merket just a tiny bit. i hope MountainViewPD isn't reading this.
+joshu	721467870572457984	2016-04-16T22:38:39	merket i need to slightly drift a car.
+joshu	721467113857134592	2016-04-16T22:35:38	any ideas where i can rent a large empty parking lot for an hour near mountain view?
+joshu	721463090680705024	2016-04-16T22:19:39	danshapiro gefilte fish is just an excuse for eating horseradish. so make horseradish jelly?
+joshu	721462627298201600	2016-04-16T22:17:49	mrgunn SimoneGiertz building really strange, high risk stuff. most startups are very pedestrian/conservative
+joshu	721459855538524160	2016-04-16T22:06:48	mrgunn SimoneGiertz also i hate the current trend of creativity to get a single step into terra infirma, plant a flag, and do a startup
+joshu	721459643424215041	2016-04-16T22:05:57	mattocko you should write slash fic
+joshu	721457200724488192	2016-04-16T21:56:15	mrgunn SimoneGiertz i also used the time to learn a proper cad tool. i knew about syringe pumps...
+joshu	721454552780648448	2016-04-16T21:45:44	mrgunn SimoneGiertz also, i've sold a personal hobby to a public company in the past. so that's actually an inane thing to say.
+joshu	721452155731705856	2016-04-16T21:36:12	Urea resin + xantham fun test. Cc danshapiro 
+joshu	721451873136345088	2016-04-16T21:35:05	mrgunn SimoneGiertz learning how to make things increases value of future time. I regret nothing.
+joshu	721449071064403968	2016-04-16T21:23:57	danshapiro I am raising my molecular gastronomy stuff already. 
+joshu	721448530687107073	2016-04-16T21:21:48	mrgunn SimoneGiertz a) mine cost like $15, b) syringe pump was wrong anyway, needed peristaltic pump. 
+joshu	721429669489152000	2016-04-16T20:06:51	Previous gen syringe pump (for SimoneGiertz ) 
+joshu	721429162905370626	2016-04-16T20:04:50	SimoneGiertz i built a couple of these for liquids recently. this one worked:  (for thin liquids anyway)
+joshu	721410510860603393	2016-04-16T18:50:43	danshapiro because I am going to be demoing this near kids I am going to with something pretty safe
+joshu	721409538889424896	2016-04-16T18:46:51	danshapiro next project is probably a piece of wood I can level...
+joshu	721409420496732160	2016-04-16T18:46:23	danshapiro that is an interesting idea. Will consider after I test my new batch of materials.
+joshu	721409256172290048	2016-04-16T18:45:44	danshapiro already ahead of you. I have that stuff on-hand already.
+joshu	721407403908947968	2016-04-16T18:38:22	AlexRoy144 they see it as a point of differentiation, even. A feature.
+joshu	721225861056180226	2016-04-16T06:36:59	NotDuncanSmith is there a url?
+joshu	721172946543226880	2016-04-16T03:06:43	flipzagging I am up to my neck in the current one
+joshu	721171645738516481	2016-04-16T03:01:33	pkedrosky I mean, consider the TAM slide
+joshu	721171599093661696	2016-04-16T03:01:22	torrez 
+joshu	721170917359898624	2016-04-16T02:58:40	pkedrosky world domination is the implicit bullet point in every business plan.
+joshu	721170471908020224	2016-04-16T02:56:53	pkedrosky that sounds more like a business model. I prefer crazier ideas.
+joshu	721169682665852928	2016-04-16T02:53:45	Need more crazy robot ideas.
+joshu	721135840861093888	2016-04-16T00:39:17	benhuh you should come to the track.
+joshu	721133082200264704	2016-04-16T00:28:19	johnolilly I am surprised how well it works. I mostly focused on the mechanicals. Software is next.
+joshu	721131855655768064	2016-04-16T00:23:27	first car test with my automotive camera prototype:  (muhahaha it works)
+joshu	721016111852965888	2016-04-15T16:43:31	crystaldbeasley this times one million billion trillion.
+joshu	721015387932925953	2016-04-15T16:40:38	Pinboard I hope there is a monthly subscription required.
+joshu	720828013919600640	2016-04-15T04:16:05	abatalion semil I actually think this is a dead evolutionary path. One thing to talk to that can negotiate multiple services.
+joshu	720827906256011264	2016-04-15T04:15:39	abatalion semil chatlets?
+joshu	720760267815002113	2016-04-14T23:46:53	kimbatronic geteero i am very happy so far
+joshu	720715197619408896	2016-04-14T20:47:48	i need to make a small platform that i can make very level for my plotter. is there a name for this or the parts i to use, so i can google?
+joshu	720496508991315969	2016-04-14T06:18:48	mattocko too bad you didn't already go to quantum crypto.
+joshu	720496434995445760	2016-04-14T06:18:30	I think we're at 12 teams now. Getting full! 
+joshu	720490862740905984	2016-04-14T05:56:22	mattocko i already have it. ps your 2048bit keys are too short
+joshu	720440853160787969	2016-04-14T02:37:39	cshirky are we talking hot grits?
+joshu	720401124411310080	2016-04-13T23:59:47	Just did a radio show with robconeybeer 
+joshu	720390628958298112	2016-04-13T23:18:04	AAinslie email, I guess?
+joshu	720377548761268224	2016-04-13T22:26:06	sircoolio robconeybeer has a show on Sirius XM
+joshu	720377427843649536	2016-04-13T22:25:37	AAinslie this alanwilz sounds like my kind of crazy. Intro?
+joshu	720374196170133508	2016-04-13T22:12:46	Heading up SF to prep for robconeybeer's radio show at 4:30. Should I ask for questions via Twitter?
+joshu	720373076882366464	2016-04-13T22:08:20	BenedictEvans well, dynamite
+joshu	720372933432987649	2016-04-13T22:07:45	johnolilly fund the founders to buy it back from Dropbox?
+joshu	720372653630947332	2016-04-13T22:06:39	AAinslie alanwilz I do like British cars...
+joshu	720358253524230146	2016-04-13T21:09:25	Pinboard I back up all my quanta and qualia on a regular basis. I just email them to myself on gmail.
+joshu	720357228222414848	2016-04-13T21:05:21	SmoothOn willsmith I think I confused your tech support desk.
+joshu	720350943024295936	2016-04-13T20:40:22	inconvergent i do feel like i make more stuff but only because my day "job" is even less productive per se
+joshu	720350844932100096	2016-04-13T20:39:59	inconvergent i go from hating what i made to how it works to how little progress i have made. it's what drives you.
+joshu	720350761004060674	2016-04-13T20:39:39	inconvergent that sounds about right. any maker that doesn't hate something about what they are doing isn't worth their salt
+joshu	720350634935869441	2016-04-13T20:39:09	inconvergent your stuff reminds me a lot of 
+joshu	720350368983416834	2016-04-13T20:38:06	inconvergent also, damnit, my pinboard tells me that i bookmarked your stuff in 2015. 
+joshu	720349847740493825	2016-04-13T20:36:01	inconvergent btw your level of productivity is daunting. wow
+joshu	720349277331959810	2016-04-13T20:33:45	inconvergent not my place to argue. was just making sure you knew about the relevant things i've seen
+joshu	720347389635080194	2016-04-13T20:26:15	inconvergent i am assuming you know about concorde etc too? super useful
+joshu	720347278595137536	2016-04-13T20:25:49	inconvergent some other things I have used: 
+joshu	720347171229270016	2016-04-13T20:25:23	inconvergent i was thinking about using an r*tree. seen libspatialindex?
+joshu	720346638170984448	2016-04-13T20:23:16	inconvergent fuck me,  would have come in useful yesterday.
+joshu	720346481715089408	2016-04-13T20:22:39	inconvergent anodized aluminum with a CNC pocket cut looks good too though
+joshu	720346357630771201	2016-04-13T20:22:09	inconvergent i already put that on my todo list to try. just have to convert to gcode, which shouldn't be hard
+joshu	720341171336163329	2016-04-13T20:01:33	inconvergent also i can make huge plots of this stuff on the whiteboard. could get nice paper and fancy pens too
+joshu	720341090134417408	2016-04-13T20:01:13	inconvergent have you thought about cncing alu sheets for the simpler patterns?
+joshu	720340586016813058	2016-04-13T19:59:13	inconvergent these are amazing. expensive?
+joshu	720335595931734017	2016-04-13T19:39:23	SmoothOn willsmith danshapiro I created a ticket - DMA-DZ2-MSVY - i would love to collaborate.
+joshu	720331116649971712	2016-04-13T19:21:35	was hoping to get tinysubversions to come to my robot racecar event but apparently I misunderstood the whole "bot" thing
+joshu	720330893068374016	2016-04-13T19:20:42	I'm going to be on Launch Pad today on XM Radio today at 4:30 Pacific, 7:30 PM Eastern. 
+joshu	720327857143021568	2016-04-13T19:08:38	willsmith I fixed it so you could do that.
+joshu	720316779868737536	2016-04-13T18:24:37	willsmith danshapiro come see it? I am on the peninsula.
+joshu	720316667813691392	2016-04-13T18:24:11	willsmith danshapiro oh man have I ever. This machine is pretty flimsy. I have built more substantial machines. 
+joshu	720307672063414272	2016-04-13T17:48:26	
+joshu	720289053858340864	2016-04-13T16:34:27	willsmith danshapiro 
+joshu	720144289641041920	2016-04-13T06:59:12	dannysullivan wish they'd credit or work with JustGetFlux
+joshu	720126679306346496	2016-04-13T05:49:14	danshapiro willsmith good thing i got 
+joshu	720107364632903680	2016-04-13T04:32:29	willsmith danshapiro so far lots of messy pics of the results in 
+joshu	720103570461339649	2016-04-13T04:17:24	danshapiro willsmith oh my god I am doing artisanal inkjet printing then.
+joshu	720076041092333568	2016-04-13T02:28:01	nmoryl yeah I will figure out how to do guests. I don't know yet if we will have room for drivers or will have to charge for that tho
+joshu	720052528725958656	2016-04-13T00:54:35	I'm excited about this one! 
+joshu	720036825205616641	2016-04-12T23:52:11	annimaniac ManuKumar following up on my earlier email
+joshu	720005742317608960	2016-04-12T21:48:40	ManuKumar ohhhh
+joshu	720004882686566400	2016-04-12T21:45:15	ManuKumar are you saying I should take you to lunch
+joshu	720002353449930753	2016-04-12T21:35:12	ManuKumar but I want to pick your brain
+joshu	720001862078898177	2016-04-12T21:33:15	ManuKumar that actually reminds me, want to get coffee?
+joshu	720001084979195905	2016-04-12T21:30:10	ManuKumar I do a first one free for the brain scavenging with bigger companies that have interesting problems...
+joshu	720000928313507840	2016-04-12T21:29:32	ManuKumar damn. 
+joshu	720000436221059073	2016-04-12T21:27:35	ManuKumar sounds great. Let's get coffee and I can pick your brain.
+joshu	720000295963533312	2016-04-12T21:27:02	davidhornik ironically my flying solar wing has terrible network connectivity
+joshu	720000007181479937	2016-04-12T21:25:53	semil rsarver something something global address book
+joshu	719999891003445248	2016-04-12T21:25:25	ManuKumar I noticed you invested in &lt;three unrelated companies&gt; and thought you might be interested in...
+joshu	719999721176084480	2016-04-12T21:24:45	mendel I use index cards. Less scary and more fun to throw out
+joshu	719960231724199937	2016-04-12T18:47:50	metacool can you join us?
+joshu	719769196196864000	2016-04-12T06:08:43	I talked with joshu about his upcoming autonomous track day. Some interesting thinking about the project 
+joshu	719729944008400896	2016-04-12T03:32:45	ataussig geteero fast before and after. but the old system was having weird network lag (dropout on video etc)
+joshu	719715680841371648	2016-04-12T02:36:04	seldo what'd you do now
+joshu	719715336077979648	2016-04-12T02:34:42	just transitioned my whole house to geteero while my wife was away
+joshu	719668815659798529	2016-04-11T23:29:51	mozboz katylevinson yes. i posted something and an instant expert lectured me for five paragraphs about stuff they'd just googled.
+joshu	719668669052100610	2016-04-11T23:29:16	mozboz katylevinson fair enough. I mean "people employed as software engineers"
+joshu	719645076922568704	2016-04-11T21:55:31	Thanks for explaining sanctioning bodies to me.
+joshu	719644641713192960	2016-04-11T21:53:47	It is amazing how condescending it is when engineers used to just googling to become instant experts apply it to everything else.
+joshu	719420700964958208	2016-04-11T07:03:55	inconvergent i was planning to actually work backwards from an image i think
+joshu	719418358387515392	2016-04-11T06:54:37	inconvergent this one.
+joshu	719417933051535360	2016-04-11T06:52:56	inconvergent i got the idea from watching one of your gifs
+joshu	719417742483279872	2016-04-11T06:52:10	inconvergent anyway. i think there's a special case for RD pictures. each blob becomes a drop, and  a large one becomes a bunch of drips
+joshu	719417345257517056	2016-04-11T06:50:35	inconvergent there is also stipplegen using secord's voronoi relaxation: 
+joshu	719416005605208064	2016-04-11T06:45:16	inconvergent i reimplemented this one 
+joshu	719415958180265984	2016-04-11T06:45:05	inconvergent yeah
+joshu	719415774243213312	2016-04-11T06:44:21	inconvergent good paper though. and omg they have code
+joshu	719415265759354881	2016-04-11T06:42:20	inconvergent i built something based on Bridson's sampling algorithm that seems to work well enough.
+joshu	719415105918672896	2016-04-11T06:41:41	inconvergent yes. i think for the RD type stuff it's perfect, though
+joshu	719411747828793345	2016-04-11T06:28:21	inconvergent thanks. Next is finding the way to deposit dots so that they look good.  This one looked like a puddle 
+joshu	719347312879775748	2016-04-11T02:12:18	mcgd or does soap melt? hmm
+joshu	719347279367249920	2016-04-11T02:12:10	mcgd can you get me some bulk soap? flat slabs would be good
+joshu	719347195103674368	2016-04-11T02:11:50	seven groups confirmed for the selfracingcars days, including two whole vehicle teams. woot
+joshu	719346959572557824	2016-04-11T02:10:54	chr1sa of course i saw it in the picture after i tweeted this.
+joshu	719346747210731521	2016-04-11T02:10:04	mcgd i wonder what happens when i put soap in the CNC machine
+joshu	719343479143333888	2016-04-11T01:57:04	chr1sa what hw are you using?
+joshu	719286839597608960	2016-04-10T22:12:00	mflux also I notice great engineers always hate something. If not your code, your design. If not that, your tools. Etc
+joshu	719286600505516032	2016-04-10T22:11:03	mflux I guess the motivation is important. Are you doing speculative research? If yes, then ok to trade technical debt for existential risk
+joshu	719286256060932097	2016-04-10T22:09:41	nelson cc elatable
+joshu	719285588587728896	2016-04-10T22:07:02	mflux every single time. i take it to mean "i am excited about arriving" rather than "i am bored of this"
+joshu	719284906845560832	2016-04-10T22:04:20	inconvergent also reminds me a bit of some old tinkering i did. 
+joshu	719284778080415745	2016-04-10T22:03:49	inconvergent so far i only have dots working though: 
+joshu	719284461288820736	2016-04-10T22:02:33	inconvergent this series is really inspiring me. i'm trying to design a physical plotter to place droplets in the same way you are.
+joshu	719276038954442752	2016-04-10T21:29:05	Joshmedia 
+joshu	719275589471842304	2016-04-10T21:27:18	Joshmedia I got that one too.
+joshu	719275481313378304	2016-04-10T21:26:52	LadyCartoonist I just think meant some things to try. There is no clear answer but there are several axes
+joshu	719217940155883520	2016-04-10T17:38:14	joeracer I am not making spheres. I am depositing ink. I just want to retain the 3D shape
+joshu	719031875793063936	2016-04-10T05:18:52	Case no it is water dropped onto resin powder.
+joshu	719025497485619201	2016-04-10T04:53:32	Another attempt. I need to rig up something so I can move the needle closer. 
+joshu	719020843196493825	2016-04-10T04:35:02	I think this is gonna either come out derp or amazing. 
+joshu	719020700191707136	2016-04-10T04:34:28	danshapiro very nice. Will think about how to do that.
+joshu	719015998364327936	2016-04-10T04:15:47	BG_Nelson epoxy? The stuff o have is too thick
+joshu	718961833281912833	2016-04-10T00:40:33	LadyCartoonist can you pick out some stuff on amazon for me to order and try out? that seems easiest.
+joshu	718942930828861440	2016-04-09T23:25:26	mengwong probably no. i'm using aquarium air hose
+joshu	718942876831338497	2016-04-09T23:25:13	i wonder what would happen if i drip water onto a layer of powdered glue or something
+joshu	718942718295060480	2016-04-09T23:24:36	rohit_x_ so i can run it through the tubing succesfully and then cure it when it drips on? i guess i can just remove the tubing apparatus
+joshu	718941453817229312	2016-04-09T23:19:34	every time i go to the hardware store or art store, they say, "oh god, what strange thing are you building now?"
+joshu	718941157611294721	2016-04-09T23:18:23	neilphillips i just want to attach droplets to a piece of paper. they don't have to be round. just bulbous.
+joshu	718941051046612993	2016-04-09T23:17:58	chr1sa i want it to stick to the paper. so the timing isn't that critical. i wonder if my clear tubing transmits UV too?
+joshu	718939455751454721	2016-04-09T23:11:38	TheFoodLab yes, except the pattern matters. doesn't have to be food (that was rstephens intuitive leap)
+joshu	718939331155496960	2016-04-09T23:11:08	chr1sa i'm trying to deposit in an interesting pattern, like a plotter. i don't want to make individual sphere things.
+joshu	718924315194863616	2016-04-09T22:11:28	kfury i have some but it's not very thin
+joshu	718920380300136448	2016-04-09T21:55:50	BradJMurray that's not what i am making.
+joshu	718920351883788288	2016-04-09T21:55:43	neilphillips i know about those. it's not what i want
+joshu	718910818864070656	2016-04-09T21:17:50	dbeyer123 i will totally use green if i get a good answer re things that won't damage the tubing etc
+joshu	718910660512337920	2016-04-09T21:17:12	rstephens that's still w/ humans
+joshu	718910124203450368	2016-04-09T21:15:04	rstephens btw did you see 
+joshu	718910068008177664	2016-04-09T21:14:51	rstephens TheFoodLab i'm definitely a huge fan of thefoodlab. are you into cars by any chance?
+joshu	718909626578640896	2016-04-09T21:13:06	TheFoodLab rstephens here's the machine itself. in this case i am using old coffee. 
+joshu	718909360735264768	2016-04-09T21:12:02	TheFoodLab rstephens hmm. i do have a variety of molecular gastronomy supplies here. maybe i can drop water into a bed of agar?
+joshu	718909057940099072	2016-04-09T21:10:50	TheFoodLab i would like them to stick to the paper. think of it as a glue plotter? (ps omg it's you! i'm not worthy!)
+joshu	718908879032029184	2016-04-09T21:10:08	rstephens nope. epoxy or glue or resin or something?
+joshu	718908201345818624	2016-04-09T21:07:26	is there a thin liquid that i could drop out of a syringe that will harden as it falls? i want these to solidify. 
+joshu	718663389417869313	2016-04-09T04:54:38	Jacob__Gordon but seriously, "i'm going to throw some tires on the track partway through the race" seems awesome
+joshu	718656068629344257	2016-04-09T04:25:33	inconvergent lhl i wonder if i can print this on the inkdrop printer. the merged dots etc?
+joshu	718655746791964673	2016-04-09T04:24:16	Jacob__Gordon comma_ai that would be awesome. usually those are other cars. but someday soon, yeah!
+joshu	718633519182819332	2016-04-09T02:55:57	Jacob__Gordon comma_ai probably too boring.
+joshu	718594724806795264	2016-04-09T00:21:47	carlmalamud I think I am in for an extended bout of cat herding. But hopefully.
+joshu	718579527450906624	2016-04-08T23:21:24	chr1sa carlbass and the testing event idea was based around you.
+joshu	718579385276588032	2016-04-08T23:20:50	chr1sa carlbass I think you can safely take more credit here. You were the first person i talked to about this.
+joshu	718578986440220672	2016-04-08T23:19:15	I'll be right there at the starting line w/carlbass. Our autonomous electric gokart is fast &amp; SO crash-tested. Ouch 
+joshu	718578828675645440	2016-04-08T23:18:37	LadyCartoonist maybe i should just lend you the machine or make another
+joshu	718578441252016128	2016-04-08T23:17:05	LadyCartoonist gotcha. do i just go to the art store and ask? alternatively i will bring the machine to Maker Faire, if you will be there
+joshu	718578050900725760	2016-04-08T23:15:32	Steven_McKie comma_ai this can be arrange. george should own a racing suit anyway
+joshu	718577250140950529	2016-04-08T23:12:21	some autonomous love for my little project. 
+joshu	718575872182063106	2016-04-08T23:06:53	i made an account for selfracingcars and twitter suggested elonmusk
+joshu	718518168256270336	2016-04-08T19:17:35	gwestr don't talk to press?
+joshu	718474557267525632	2016-04-08T16:24:17	peteskomoroch lauriejoyfrick 
+joshu	718362162784288768	2016-04-08T08:57:40	LadyCartoonist whatever looks good? I am just messing around. Doing pictures would be cool. RGB someday?
+joshu	718360309572976640	2016-04-08T08:50:18	LadyCartoonist no, I judged some stuff I got at the art store. No idea what I am doing here, advice welcome. 
+joshu	718356106544816128	2016-04-08T08:33:36	Much improvement. 
+joshu	718353259929460737	2016-04-08T08:22:18	I got a sheet of PETG and gave it a try with coffee. 
+joshu	718352020353232897	2016-04-08T08:17:22	Very low resolution mattcutts made of coffee drips: 
+joshu	718325627267497985	2016-04-08T06:32:30	TheDabblerBlog substitute ducking ducks
+joshu	718324832815984641	2016-04-08T06:29:20	Joshmedia because of your investment in &lt;random company&gt; i think you would be interest in &lt;completely unrelated vertical&gt;
+joshu	718315900219351042	2016-04-08T05:53:50	sterlingcrispin yeah, good point. i was using this as an inspiration: 
+joshu	718315827985063936	2016-04-08T05:53:33	jeffiel this is the machine i based mine on: 
+joshu	718315007289765888	2016-04-08T05:50:18	RaviMikkelsen it's been dripping water on paper towels mostly. haven't tried oils.
+joshu	718314889077526528	2016-04-08T05:49:49	jeffiel that's true. i was just thinking of the stuff i had on hand will stain practically anything (transtint)
+joshu	718300648035520513	2016-04-08T04:53:14	i need to load the inkdrop robot with a colorful but not staining liquid. any ideas? coffee?
+joshu	718242041298337793	2016-04-08T01:00:21	i forgot there was going to be an angry birds movie.
+joshu	718241685805887488	2016-04-08T00:58:56	veen tags you say?
+joshu	718201314660855808	2016-04-07T22:18:31	hugs we can call it FORO. Or ROBO?
+joshu	718179666217963520	2016-04-07T20:52:30	AlexRoy144 I'm here, boss. What's up?
+joshu	718120541308059648	2016-04-07T16:57:33	pt did you see I started  already?
+joshu	718120370465669120	2016-04-07T16:56:53	hugs lets start a club.
+joshu	718120097697509376	2016-04-07T16:55:47	GreatDismal moleitau they wouldn't make tees. They would be jackets with embroidered logos. Who makes those??
+joshu	718111336677318656	2016-04-07T16:20:59	Hybernaut I'm fairly sure it wouldn't survive moving across the room.
+joshu	717979205317709824	2016-04-07T07:35:56	Here is the CNC water pump in action. 
+joshu	717978811493527553	2016-04-07T07:34:22	Fixed water pump. Now delivers one drop at a time. 
+joshu	717949205814181888	2016-04-07T05:36:44	BerryFabian will think about it. i am very lazy
+joshu	717947241382588416	2016-04-07T05:28:55	BerryFabian yep. check my twitter timeline
+joshu	717917866926981120	2016-04-07T03:32:12	AlexRoy144 yes, let's.
+joshu	717867678589779968	2016-04-07T00:12:46	mathowie i took an actual rally driving school and found it very stressful
+joshu	717856857188999168	2016-04-06T23:29:46	BerryFabian sure
+joshu	717841354840125441	2016-04-06T22:28:10	sailorhg triketora i get ~ four "let's grab coffee and chat about x" requests a day
+joshu	717805997385867264	2016-04-06T20:07:40	BenedictEvans you can have multiple windows. just add more ipads
+joshu	717805965102358529	2016-04-06T20:07:32	Congrats! (I am an investor) 
+joshu	717802068417716224	2016-04-06T19:52:03	NikhilKal sahaskatta nobody will be racing to start. it's just about getting some transport tech folks together.
+joshu	717801920048402432	2016-04-06T19:51:28	i nominate pinboard for the reader's choice ycombinator funding award. 
+joshu	717796782340575232	2016-04-06T19:31:03	NikhilKal know any companies that are doing anything interesting in this space that i should invite?
+joshu	717788773136793600	2016-04-06T18:59:14	rabbigrinshtein Here's a much better explanation: 
+joshu	717787332242309120	2016-04-06T18:53:30	AAinslie  i invited anki already
+joshu	717787187186536448	2016-04-06T18:52:55	rabbigrinshtein when the last roller comes off pressure, there is reverse flow.
+joshu	717752608962641920	2016-04-06T16:35:31	rabois straight line acceleration is for people who don't know how to drive
+joshu	717750974790508545	2016-04-06T16:29:02	i am launching an autonomous race series. first event is here: 
+joshu	717740925435293696	2016-04-06T15:49:06	MattHardigree indentation is the sincerest form of flattening.
+joshu	717610847703400449	2016-04-06T07:12:13	Donna_Howell wish i knew them (i am a CMU alum) but i don't
+joshu	717602918325616640	2016-04-06T06:40:42	rohit_x_ i don't know them. intro?
+joshu	717595124402761728	2016-04-06T06:09:44	rohit_x_ I got an intro to them and am trying to get them interested.
+joshu	717592603261186048	2016-04-06T05:59:43	rohit_x_ renovo is already confirmed.
+joshu	717591589908905984	2016-04-06T05:55:41	anyone know cool automotive tech car companies? who should i invite to this? 
+joshu	717554297739673600	2016-04-06T03:27:30	ataussig bob &amp; bob decided this was the least confrontational way to tell you that you were fired
+joshu	717549897709256704	2016-04-06T03:10:01	vgr pix plz?
+joshu	717549771167113216	2016-04-06T03:09:31	plibin but we have a culture of innovation, here at Cultural Innovations Inc
+joshu	717549246719725570	2016-04-06T03:07:26	dpatel2 bfrank robconeybeer chudson semil Cookie PCH_Intl invisible sandwich
+joshu	717487497618415616	2016-04-05T23:02:04	PCH_Intl on stage! 
+joshu	717478918211567616	2016-04-05T22:27:58	MayhemBCN i am listening if you are talking!
+joshu	717471461758210048	2016-04-05T21:58:21	therealfitz as in MayhemBCN ? Anyway this isn't for flow. Just droplets.
+joshu	717464438215823360	2016-04-05T21:30:26	Pinboard better than my offer, certainly.
+joshu	717464363733356544	2016-04-05T21:30:08	joachimp_o 
+joshu	717463234694029312	2016-04-05T21:25:39	Getting ready for our Hardware Angel &amp; Seed Investor event w/ semil, joshu &amp; et al. Join the convo w/ hwinvest! 
+joshu	717461063520768004	2016-04-05T21:17:01	Anyone want to get lunch NOW? I am at 135 Mississippi in PCH_Intl
+joshu	717448008187514880	2016-04-05T20:25:09	i'm wowed that this peristaltic pump worked at all. it's like that astonishment when i write a program and it compiles and works first time
+joshu	717447235139555328	2016-04-05T20:22:05	soypunk i am out in the boonies. plenty of room, just annoyed at the occasional speeders at 3x the speed limit
+joshu	717436464758304770	2016-04-05T19:39:17	soypunk is this bureaucracy or just entrenched thinking?
+joshu	717431297321230336	2016-04-05T19:18:45	soypunk i complained about people speeding on my street, naturally.
+joshu	717431158905004032	2016-04-05T19:18:12	jason_pontin fmanjoo my iphone case gropes my iphone pretty tightly. it's hard to remove.
+joshu	717431085185900544	2016-04-05T19:17:54	karpathy what is the emoji for "rimshot"
+joshu	717430948199944193	2016-04-05T19:17:21	substitute Pinboard f6255bb01c648fe967714d52a89e8e9c
+joshu	717430593730949120	2016-04-05T19:15:57	Pinboard yo
+joshu	717430483861123072	2016-04-05T19:15:31	Pinboard surely it is a known-yotext attack?
+joshu	717418891102670848	2016-04-05T18:29:27	soypunk thank you, i didn't know how deep this particular rabbit hole goes.
+joshu	717418737419157504	2016-04-05T18:28:50	pt if only price discovery was a thing
+joshu	717413141512986624	2016-04-05T18:06:36	my town's traffic folks tell me the 85th percentile speed is approx the speed limit on my street. i guess i get to teach statistics now.
+joshu	717412091913592833	2016-04-05T18:02:26	Pinboard yo
+joshu	717407990651850752	2016-04-05T17:46:08	sacca I am confused, can you explain it more clearly?
+joshu	717406886165786624	2016-04-05T17:41:45	rabbigrinshtein neat. Is there a fix for the pulsating output?
+joshu	717401594510217216	2016-04-05T17:20:43	BG_Nelson reading around seems to indicate pulsing comes from having rollers at all. I have a solution I think.
+joshu	717401440759603201	2016-04-05T17:20:06	CFrank42 no real rush. Just goofing around. But I am using a stepper to control the rollers so I can do one drop at a time.
+joshu	717401249230888961	2016-04-05T17:19:21	rabbigrinshtein I am trying to make a water droplet plotter. Need to be able to emit single droplets.
+joshu	717239551849144320	2016-04-05T06:36:49	Peristaltic pump actually works. Output seems to pulse though. 
+joshu	717158582211317760	2016-04-05T01:15:04	Peristaltic pump version 2. Used the parts view to make sure the things actually fit together. 
+joshu	717089748389462016	2016-04-04T20:41:33	Pinboard i feel like this is beyond the normal crap. It is or should be illegal.
+joshu	716868829633052672	2016-04-04T06:03:42	starsandrobots started with it today. seems to work ok. 
+joshu	716789299962720261	2016-04-04T00:47:41	hackaday BBenchoff why are you tweeting about an april fool's joke two days later?
+joshu	716009056213700608	2016-04-01T21:07:16	amendlocke cstross that was a good book
+joshu	715950997261185024	2016-04-01T17:16:34	tinysubversions idea: bot automatically adds definition to three rarest words in song on genius. except they are synthetic definitions.
+joshu	715941418951450624	2016-04-01T16:38:30	waxpancake mic drops can't melt steel beams
+joshu	715714838257750017	2016-04-01T01:38:09	vgr everything piss me off, which is a superset of that. so yes?
+joshu	715714751590830080	2016-04-01T01:37:48	Quan lithium.
+joshu	715665157922271232	2016-03-31T22:20:44	ftrain ooh, let's communicate
+joshu	715665050447388672	2016-03-31T22:20:19	is there a dash button for ordering dash buttons?
+joshu	715664513232572416	2016-03-31T22:18:11	nsweaves geteero i didn't know i needed this. but i do.
+joshu	715580894161952768	2016-03-31T16:45:54	migurski mjcunningham_ press button, receive bacon
+joshu	715567946857230336	2016-03-31T15:54:27	I want to have some web and mobile prototypes built. Know anyone good? Non-local preferred.
+joshu	715561035080400898	2016-03-31T15:26:59	tqbf what! where?
+joshu	715556181805117440	2016-03-31T15:07:42	ManuKumar best lesson on this is the Chopped tv show. other people rarely win; it's that everyone else lost.
+joshu	715555791743229952	2016-03-31T15:06:09	ros_bell tinysubversions how do you feel about that?
+joshu	715548477401346049	2016-03-31T14:37:05	JasonHirschhorn ok i have some toilet paper, epoxy, and a vacuum press loaded up, when are we meeting this company
+joshu	715546379930566656	2016-03-31T14:28:45	kraneland GVteam dude it is way too early in the morning to be launching shit
+joshu	715546209398562818	2016-03-31T14:28:05	JasonHirschhorn let's hold off on "good" and see how it goes? i also ordered a bunch of industrial felt and a vacuum press. for epoxying.
+joshu	715545740865441792	2016-03-31T14:26:13	JasonHirschhorn intermedia_net i was just going to use it in the normal way. but it also occurs to me that i could fill w/ epoxy and etch
+joshu	715545416222138368	2016-03-31T14:24:56	JasonHirschhorn intermedia_net i have a use for that.
+joshu	715544629953699845	2016-03-31T14:21:48	JasonHirschhorn intermedia_net i just read the profile. could be a ruse.
+joshu	715544221613076480	2016-03-31T14:20:11	oh yes, this is accurate. 
+joshu	715543770175971331	2016-03-31T14:18:23	JasonHirschhorn intermedia_net it says they are in mountain view. i could drive over and wait in the lobby?
+joshu	715234664663920640	2016-03-30T17:50:07	starsandrobots I am just an amateur. These folks are pro: madelinegannon golan theDANtheMAN creativeinquiry
+joshu	715217025195491328	2016-03-30T16:40:01	On April fool's day hoaxes:  cc nelson anildash
+joshu	715214857864392704	2016-03-30T16:31:24	nelson anildash unless it is actually an April fool's joke. But most are terrible and stupid. When in doubt, don't.
+joshu	713538344160854016	2016-03-26T01:29:32	sampullara huh. Job Title is my core competency
+joshu	713500039755079680	2016-03-25T22:57:20	kfury I use a latency hiding mechanism. Order what I need and switch to another project until it shows up.
+joshu	713478378506964992	2016-03-25T21:31:15	The fewer empty bins I have, the more I realize previously separated parts are actually pretty similar. 
+joshu	713470786414063616	2016-03-25T21:01:05	Flimsy CNC machine prototype 1/3rd complete! 
+joshu	713244745431015424	2016-03-25T06:02:53	fmanjoo too bad it is a ripoff of JustGetFlux
+joshu	713205971649110016	2016-03-25T03:28:49	hugs so we can use them to predict the future??
+joshu	713159564544217088	2016-03-25T00:24:24	i just used "champing at the bit" as a euphemism in a chat w/ a founder. that one should go on the shelf next to the floppy disk "save" icon
+joshu	713156164112879616	2016-03-25T00:10:53	What kind of laptop is this??? 
+joshu	713148840178634753	2016-03-24T23:41:47	hugs yes!! Going home to work on my new machine now! 
+joshu	713044037507395584	2016-03-24T16:45:20	On 4/5 join semil chudson joshu cookie brady and more for a discussion about angel &amp; seed investing in hardware 
+joshu	713146080783826944	2016-03-24T23:30:49	Met cool aquaponics startup EdenworksGrows 
+joshu	712882181111095297	2016-03-24T06:02:11	pt that's hipsters
+joshu	712850598551556096	2016-03-24T03:56:41	Seriously who is responsible for "puppy monkey baby"
+joshu	712832539648331776	2016-03-24T02:44:55	fmanjoo well let me know next time and I can lend you my dog. She knows how to do this 
+joshu	712830861226299393	2016-03-24T02:38:15	fmanjoo darkuncle quiet time to self, yes. twitter is bad. dog is good.
+joshu	712829071562964993	2016-03-24T02:31:09	fmanjoo a few mile walk with the dog.
+joshu	712772698271657984	2016-03-23T22:47:08	fmanjoo does a fav mean yes?
+joshu	712772283681492992	2016-03-23T22:45:29	textfiles get back in the box
+joshu	712771854440595456	2016-03-23T22:43:47	fmanjoo actually I have the solution for this. Should I stop by?
+joshu	712771712887033856	2016-03-23T22:43:13	Joshmedia much props for standers
+joshu	712752564563869696	2016-03-23T21:27:08	therealfitz please format your complaint as xxx-xxxx-xxxxx. For your convenience we cleared all the form fields.
+joshu	712728159616012288	2016-03-23T19:50:09	othermachine my jig didn't work out. Any hints on how to mill a lead screw? It's a 3/8ths 4start acme screw. McMaster wants $40.
+joshu	712684302408912897	2016-03-23T16:55:53	rabbigrinshtein my whiteboard plotters are based on the shapeoko 2
+joshu	712527558538104832	2016-03-23T06:33:02	zarfeblong did you try factorio? it felt like chip layout
+joshu	712388611761639429	2016-03-22T21:20:55	baconmeteor so the I should use keurig kcup or nespresso pods?
+joshu	712388321054339072	2016-03-22T21:19:45	rabbigrinshtein I use an othermachine + a Prazi lathe + a Sherline mill. Or did you mean software? Note I am an amateur.
+joshu	712066343877496833	2016-03-22T00:00:20	gaberivera that is why I am totally crushing it all the time
+joshu	712066045473763328	2016-03-21T23:59:09	Made a containment jig so I can machine a lead nut accurately. 
+joshu	712016653844750338	2016-03-21T20:42:53	Annaleen sent and also sent
+joshu	712013596146839553	2016-03-21T20:30:44	Annaleen ok. I can't dm you so maybe email?
+joshu	712013018788302852	2016-03-21T20:28:26	Annaleen that reminds me. Are you interested in a self driving car track day and/or race event? I am trying to plan one.
+joshu	712012682937786373	2016-03-21T20:27:06	Annaleen or use your remaining energy to amazon a kcup machine
+joshu	712012479140761601	2016-03-21T20:26:18	Annaleen postmates a coffee?
+joshu	712012341651505152	2016-03-21T20:25:45	Well predicted.  
+joshu	712012269291319296	2016-03-21T20:25:28	louisgray mreedell very nice. We should make a bot that points these out.
+joshu	712010925725712384	2016-03-21T20:20:07	Did we make the iPhone SE/30 joke yet?
+joshu	711589319123701760	2016-03-20T16:24:49	7. Other people suffered and were stolen from to get you that cash-that you didn't earn. I
+joshu	711717713605894144	2016-03-21T00:55:00	mcgd we could do a general prototyping class too
+joshu	711641040633999361	2016-03-20T19:50:20	vibhu b8ta holy shit, this is something i've always wanted. cc osunick
+joshu	711621451237863424	2016-03-20T18:32:29	pt  the linear predictive coding chip was badass for its time
+joshu	711607010425307136	2016-03-20T17:35:06	Parapros not enough to get attention or help for what you are doing. So fail like everyone else.
+joshu	711604353459572737	2016-03-20T17:24:33	Sketching a new machine. 
+joshu	711603005745827841	2016-03-20T17:19:12	pt transferring blame... Now 
+joshu	711601909790969856	2016-03-20T17:14:50	pt button or membrane? Now I want to make an internet connected version. Plenty of room in there for an rPi?
+joshu	711601119693185024	2016-03-20T17:11:42	Parapros I am busy building my own things. Why should I pay attention when you lead with anger or demands?
+joshu	711098851906551809	2016-03-19T07:55:52	karpathy so, does this sort of research require human ethics board approval?
+joshu	711097907789697024	2016-03-19T07:52:07	cc JustGetFlux 
+joshu	711054879691710464	2016-03-19T05:01:08	DanielleMorrill that's from venture bros
+joshu	711043931161501697	2016-03-19T04:17:38	Joshmedia narnia?
+joshu	711043762542108672	2016-03-19T04:16:58	Designing a thing with CAD (cardboard aided design) -- thanks Project Binky! 
+joshu	711024219098734592	2016-03-19T02:59:18	iankennedy i'm thinking less demolition, more derby
+joshu	710999345613578240	2016-03-19T01:20:28	Anyone know of hobbyist/amateur autonomous car teams? Get in touch, I am thinking of putting on an event.
+joshu	710998692208058369	2016-03-19T01:17:52	Joshmedia ps gibe me moneys
+joshu	710994948590477312	2016-03-19T01:03:00	Joshmedia when i get email about startups fundraising and they don't bother to tell me what they DO i just hit delete
+joshu	710917934655229952	2016-03-18T19:56:58	Anyone at gdc I should meet?
+joshu	710308708819963904	2016-03-17T03:36:07	disassemble this
+joshu	710272635389607938	2016-03-17T01:12:47	holy shit, clickhole is ripping off HowToBasic  -&gt; 
+joshu	710201673432498177	2016-03-16T20:30:48	zarfeblong I lucked out. Not that painful.
+joshu	710201435955200001	2016-03-16T20:29:51	zarfeblong no worries. Turns out I have a broken rib and cannot go do race cars on Thursday eve.
+joshu	710200419159580673	2016-03-16T20:25:49	zarfeblong  are you at GDC all week? maybe i should come up
+joshu	710198837172944896	2016-03-16T20:19:32	tferriss alpha-geek note-taking is show up, interrupt a lot, and tell rambling, irrelevant stories designed to highlight social stature
+joshu	710169011619799040	2016-03-16T18:21:01	this is brilliant 
+joshu	709609609372110848	2016-03-15T05:18:09	AdenwalaSimal I guess the first but prefer caged race cars. The second won't make sound at my usual track.
+joshu	709582404210458625	2016-03-15T03:30:03	msuster also the ones that talk about their fundraising and want to meet but don't bother telling me what they do.
+joshu	709582346043858945	2016-03-15T03:29:49	msuster i get like eight of those a day. you must be drowning in them.
+joshu	709574637361836033	2016-03-15T02:59:11	mendel i feel like i should make a computer controlled version of that
+joshu	709569459640410112	2016-03-15T02:38:36	Left hand X bracket for Mark MK3. Those are recessed nuts. 
+joshu	709539602910957568	2016-03-15T00:39:58	sama i like all of those too. except the nuclear energy, i'm not qualified.
+joshu	709497424104927232	2016-03-14T21:52:22	tqbf you have a working group for ranting???
+joshu	709491391324225536	2016-03-14T21:28:24	hey emsl - i failed to include your twitter handle. ok if i delete and remake this tweet?
+joshu	709491240862031872	2016-03-14T21:27:48	KashiMTahir someone sent it to me. but EMSL is famous. i already bought the watercolor bot out of drawing robot solidarity.
+joshu	709486226093400064	2016-03-14T21:07:52	anyone have any particular egregious NDAs they would consider pointing me to?
+joshu	709476911769001984	2016-03-14T20:30:51	Wikipedia chamath this is way too much. please stop. you are likely to run into copyrighted strings (in fact, it is inevitable)
+joshu	709463592345546752	2016-03-14T19:37:56	MattHardigree with enough heads up i can arrange something with the Vantage GT4
+joshu	709460438325420032	2016-03-14T19:25:24	i'm super jealous of the design of the axidraw - 
+joshu	709285555616423936	2016-03-14T07:50:29	MattHardigree let me know and I will arrange something.
+joshu	709238295541080064	2016-03-14T04:42:41	MattHardigree you are never out here?
+joshu	709114991144665089	2016-03-13T20:32:43	MattHardigree btw when are we going to the track? i have an AE86 almost done being prepped, want to review it?
+joshu	709114642908340224	2016-03-13T20:31:20	MattHardigree mostly i just want to feel good about buying a lesser pro car (the Aston)
+joshu	709114474511249410	2016-03-13T20:30:40	MattHardigree yeah i imagine not. when i was pointed at the wall, it wasn't my life that flashed before my eyes. it was the repair invoice.
+joshu	709114092888264704	2016-03-13T20:29:09	MattHardigree any idea what sort of laptimes are happening?
+joshu	709113272608251904	2016-03-13T20:25:53	MattHardigree i did it once in a 12c. blah
+joshu	708858025675599873	2016-03-13T03:31:37	paulg me too. Mostly spam bots unfortunately.
+joshu	708851063898505216	2016-03-13T03:03:58	anukul NO RECURSION
+joshu	708728979029565440	2016-03-12T18:58:50	rpconnolly in a car without power steering, the wheel can jerk in an impact and break/bruise/dislocate a thumb.
+joshu	708461202687430656	2016-03-12T01:14:47	mcgd filed under "dancing" i have   and 
+joshu	708460710477455360	2016-03-12T01:12:50	mcgd that dancing doesn't seem that great.
+joshu	708459014619660289	2016-03-12T01:06:06	johnolilly the usual VC reasons. too risky, not enough science, is sequoia in, etc
+joshu	708457497632198656	2016-03-12T01:00:04	johnolilly 
+joshu	708446259833483264	2016-03-12T00:15:25	rpconnolly I haven't learned that lesson the hard way yet. Unless it's keep thumb out of steering wheel?
+joshu	708389422954192897	2016-03-11T20:29:34	psa: if you are going to go drive go karts, i recommend you wear a rib protector.
+joshu	708381447707492352	2016-03-11T19:57:52	justinkan nabeel eshear kvogt i have one where i didn't follow up on kvogt's invite, does that count? i am dumb
+joshu	708380230046461952	2016-03-11T19:53:02	waxpancake i'm also jealous of her video editing skills
+joshu	708379694882643968	2016-03-11T19:50:54	tinysubversions 
+joshu	708043934346256385	2016-03-10T21:36:43	evimyr no. but my friends have one
+joshu	708043549590196225	2016-03-10T21:35:11	evimyr they actually emailed me about it
+joshu	708024863395414016	2016-03-10T20:20:56	therealfitz nickkokonas nope, this week wore him out.
+joshu	707807285989535745	2016-03-10T05:56:22	BenedictEvans new new: hacking your genome to find out about future models
+joshu	707387720880889856	2016-03-09T02:09:09	BenedictEvans I thought the rule was one minute per slide?
+joshu	707387495516778497	2016-03-09T02:08:16	BenedictEvans is that a 70 minute presentation?
+joshu	707061554785570816	2016-03-08T04:33:05	max_hodak I have seen cars painted with bed liner before so I believe it is possible...
+joshu	707060156312326144	2016-03-08T04:27:32	max_hodak oh wow
+joshu	707059280583720961	2016-03-08T04:24:03	max_hodak almost certainly a vinyl wrap.
+joshu	706694145121714177	2016-03-07T04:13:08	stlhood I keep telling you uranium powder does not repel insects
+joshu	706636088065060864	2016-03-07T00:22:26	This is revolting  and abhorrent. 
+joshu	706248097035264000	2016-03-05T22:40:42	dodeja I have a teeny tiny Prazi lathe. It is mostly useful for turning things into chips and dust.
+joshu	706216914893148160	2016-03-05T20:36:48	waxpancake informed that i am single lady
+joshu	706200746966933504	2016-03-05T19:32:33	paulg this is why I enjoy using the lathe.
+joshu	706185306165239808	2016-03-05T18:31:11	paulg organiccouples plibin can we say YC folks are founders-to-be? I would agree.
+joshu	706018502654558208	2016-03-05T07:28:22	organiccouples um, he just started?
+joshu	706017612048654336	2016-03-05T07:24:50	organiccouples sorry to be so blunt, plibin. see you next week.
+joshu	706016690807525378	2016-03-05T07:21:10	organiccouples plibin and dispensing vague but wise sounding thing is the domain of newly minted VCs, who inevitably grow out of it.
+joshu	706016523454812160	2016-03-05T07:20:31	organiccouples plibin the investor/founder dynamic is very different from teacher/student
+joshu	706013376514666496	2016-03-05T07:08:00	organiccouples plibin or in the words of paultoo: 
+joshu	706012136095424513	2016-03-05T07:03:04	organiccouples plibin generally non-specific advice is low value. But it sounds valuable.
+joshu	705897917366738944	2016-03-04T23:29:13	hugs developer = does things with programming languages and apis. engineer = negotiates constraints. they are orthogonal skills.
+joshu	705897761728630785	2016-03-04T23:28:35	plibin what are these tips meant to do?
+joshu	705897437211144192	2016-03-04T23:27:18	hugs engineer
+joshu	705669655923290113	2016-03-04T08:22:11	BenedictEvans delete three
+joshu	705570159562346496	2016-03-04T01:46:49	I guess I will be showing the whiteboard robot at Maker Faire! mattcutts i need you 
+joshu	705569836391202816	2016-03-04T01:45:32	nlanza to repel vampires
+joshu	705492528447909888	2016-03-03T20:38:20	hunterwalk shave
+joshu	705492384751038464	2016-03-03T20:37:46	mvictoras SpiderSenseSuit yes just tying to get out from my email.
+joshu	705267419971846144	2016-03-03T05:43:50	marshallk i know OF that guy
+joshu	705266502010691584	2016-03-03T05:40:11	marshallk I know a guy with all the best words.
+joshu	705211382724038659	2016-03-03T02:01:10	dapplestone othermachine omg i need this. othermill 2 only?
+joshu	705210678642999296	2016-03-03T01:58:22	nelson i've really liked Tenkaippin but it's not what youa re looking for.
+joshu	705189710142971904	2016-03-03T00:35:03	fmanjoo "Drumpf"
+joshu	705146912408604673	2016-03-02T21:44:59	Visiting OpenROV who makes cool undersea robots. 
+joshu	705117429471424512	2016-03-02T19:47:50	I race cars as a hobby and this uber ride is still making me ill
+joshu	705098728550461440	2016-03-02T18:33:31	Bill_Gross cruise
+joshu	704934136423825408	2016-03-02T07:39:29	naval naval for president!
+joshu	704933161621446656	2016-03-02T07:35:37	rocallahan what's next?
+joshu	704871473849180160	2016-03-02T03:30:29	joshu turns out to be Cruise
+joshu	704871390214619136	2016-03-02T03:30:09	brezina I asked Kyle. You are right
+joshu	704871321851662338	2016-03-02T03:29:53	cdibona cereal comes with velodyne scanners?
+joshu	704836040339501056	2016-03-02T01:09:41	brezina yes it was a leaf.
+joshu	704812125890306048	2016-03-01T23:34:40	soypunk cool. This was in SF so maybe
+joshu	704809269799981056	2016-03-01T23:23:19	Anyone know whose self-driving car this is? Just saw it. 
+joshu	704788265535025152	2016-03-01T21:59:51	JasonHirschhorn muhahahah
+joshu	704788058671964160	2016-03-01T21:59:02	JasonHirschhorn I'm starting a new thing so i will have a new list soon enough.
+joshu	704787938106695681	2016-03-01T21:58:33	JasonHirschhorn the list of folks who passed on my stuff?
+joshu	704787698280591360	2016-03-01T21:57:36	JasonHirschhorn so that means I'm actually ultra dangerous?
+joshu	704538480873897984	2016-03-01T05:27:18	I took Middleditch to visit the pneumatic robots at otherlab 
+joshu	704491462428225536	2016-03-01T02:20:28	kfury tinysubversions I guess I am trying to think of something funnier than "Make &lt;singular noun&gt; great again"
+joshu	704409643976556544	2016-02-29T20:55:21	kfury I feel like we could automate this. tinysubversions can you help?
+joshu	704409233383493632	2016-02-29T20:53:43	SimoneGiertz's robots are amazing.
+joshu	704403034231611392	2016-02-29T20:29:05	DanielleMorrill Remember Thinking Machines' slogan.
+joshu	704402625114976256	2016-02-29T20:27:27	textfiles I approve. Btw we have a meeting upstairs in the basement
+joshu	704402439470907392	2016-02-29T20:26:43	textfiles "fuck you, non-orientable surface"
+joshu	704400457653837824	2016-02-29T20:18:50	ruhlman i met NK via his cofounder therealfitz when visiting ORD
+joshu	704399717107503104	2016-02-29T20:15:54	rklau kumailn no spoilers. Alas I am a consultant for the show.
+joshu	704396258203422720	2016-02-29T20:02:09	ruhlman no sweat. Big fan of yours. Tell nickkokonas I said hi.
+joshu	704391953140428801	2016-02-29T19:45:03	Hey jack any chance we can get ruhlman the hookup?
+joshu	704385464506028032	2016-02-29T19:19:16	Why ad blockers exist, exhibit #2 
+joshu	704124453739896832	2016-02-29T02:02:06	Joshmedia he is saying my IRR is fat
+joshu	704117966787338240	2016-02-29T01:36:19	Publishers of text who do this don't respect the text or the readers and deserve to evaporate. 
+joshu	704041310873714688	2016-02-28T20:31:43	Joshmedia SERIOUSLY NOW TELL ME YOUR THESIS
+joshu	704040061805793280	2016-02-28T20:26:45	triketora i have spare dogs i am willing to pose into various ways and take photos if necessary
+joshu	704039885926113280	2016-02-28T20:26:03	Joshmedia congrats!!!!!
+joshu	704039510565212160	2016-02-28T20:24:34	anyone tinkered with both nodemcu and micropython? compare/contrast?
+joshu	704038002171863040	2016-02-28T20:18:34	agromov imustaev btw that is just the "hershey" line fonts with a sharply cut nib pen. happy to try other designs or build things.
+joshu	703785093022687232	2016-02-28T03:33:36	papakipos sounds good, drop an email.
+joshu	703785052774092800	2016-02-28T03:33:26	papakipos neat. What's it do?
+joshu	703754513027436545	2016-02-28T01:32:05	papakipos happy to ramble on but Twitter prolly wrong format
+joshu	703754356256931841	2016-02-28T01:31:28	papakipos underlying protocol is the good part. Compile gcode to said protocol.
+joshu	703754207799545856	2016-02-28T01:30:52	papakipos idea is one simple controller per axis, connected via canbus, for coordinated motion.
+joshu	703752380840411137	2016-02-28T01:23:37	papakipos what are you building?
+joshu	703752319020630016	2016-02-28T01:23:22	papakipos just the motion control parts. So other people can make robots. I think we can do way better than gcode etc.
+joshu	703727742076911617	2016-02-27T23:45:42	papakipos i have an idea for a an architecture more powerful than what currently powers hobbyist CNC and 3d printers.
+joshu	703727487390347266	2016-02-27T23:44:42	papakipos a low end motion control platform. above grbl+arduino but below say galil
+joshu	703727358943997952	2016-02-27T23:44:11	jjmata 
+joshu	703698967578578944	2016-02-27T21:51:22	sterlingcrispin those do something very different tho. The boom just refers to the pole, not how it gets moved.
+joshu	703682784817090560	2016-02-27T20:47:04	bwertz also ask them if they are an a player.
+joshu	703681689910784000	2016-02-27T20:42:43	Any hardware engineers want to start a motion control business with me?
+joshu	703681480300474368	2016-02-27T20:41:53	alexophile GreatDismal oh yes, it gives me significant anxiety.
+joshu	703678111070588929	2016-02-27T20:28:30	sterlingcrispin already thinking about a design with two degrees of stabilization.
+joshu	703678011481071616	2016-02-27T20:28:06	alexophile GreatDismal seriously watch Silicon Valley, it is surprisingly accurate. (I am a consultant for the show, even)
+joshu	703677820522770432	2016-02-27T20:27:20	sterlingcrispin so far as I know there are no existing commercial products. My design is based the DIY one linked in the video.
+joshu	703677662670106624	2016-02-27T20:26:43	sterlingcrispin yes I race with SCCA (club racing) - here is me in the Miata 
+joshu	703671715331608576	2016-02-27T20:03:05	GreatDismal you should come along one day if you want to see some new kinds of dystopia
+joshu	703671643399282690	2016-02-27T20:02:48	GreatDismal i'm an angel investor - many bad pitches include something like this in the storyline. important part of the narrative.
+joshu	703670814562881536	2016-02-27T19:59:30	mgsiegler so last year. 
+joshu	703670109387161600	2016-02-27T19:56:42	sterlingcrispin ServoCity gyro-adjusted camera boom for on top of a car. first outdoor test: 
+joshu	703451975677902849	2016-02-27T05:29:55	Met a startup that is reinventing email. Or is it disrupting email? I forget
+joshu	703382242706370560	2016-02-27T00:52:49	torrez yessss
+joshu	703380298071814144	2016-02-27T00:45:05	hchamp would probably annoy the goat.
+joshu	703380020991889408	2016-02-27T00:43:59	hchamp it is a camera rig that doesn't rotate even though the car underneath is. (Race and drift cars slide around)
+joshu	703376369665708032	2016-02-27T00:29:29	first outdoor test of my drift cam design. 
+joshu	703007533242298368	2016-02-26T00:03:51	aaronkoblin accelerate to mars in 30 minutes. but how to decelerate?
+joshu	702937615926845440	2016-02-25T19:26:02	Middleditch omg dark crystal
+joshu	702926514761826305	2016-02-25T18:41:55	dapplestone you just gave your devops people a heart attack
+joshu	702917098142461952	2016-02-25T18:04:30	twittner ha you are probably right.
+joshu	702733742507339776	2016-02-25T05:55:55	nmoryl unencrypted pop3, apparently.
+joshu	702733445378625538	2016-02-25T05:54:44	nmoryl  his email connection is not encrypted. his fault.
+joshu	702733242978271233	2016-02-25T05:53:55	nmoryl that does not make sense. wifi is generally not strongly encrypted. the connection from his machine to the server should be.
+joshu	702730268071763968	2016-02-25T05:42:06	does he read his email on an unencrypted connection? was he MITM'd on an ssl connection? this smells v fishy to me. 
+joshu	702390639573475330	2016-02-24T07:12:32	vgr this business plan looks excellent. i am interested in investing.
+joshu	702334714804174848	2016-02-24T03:30:19	justinkan i will pay you $20 if you recenter your snapchat image
+joshu	702292872515624961	2016-02-24T00:44:03	DraWallPlotter anto1ne bhajduk it's just a different style. i love the polar plotters too!  is the grandparent
+joshu	701834429992296448	2016-02-22T18:22:22	mjdominus good idea but not quite the problem I was thinking about
+joshu	701649472095256576	2016-02-22T06:07:24	rabois i'm just talking about their strategy, not whether it's a good one
+joshu	701647365107617792	2016-02-22T05:59:02	also another idea: engineering idea meetup at happy donuts at 2am in palo alto
+joshu	701647181170651136	2016-02-22T05:58:18	sama cool i sent you some email
+joshu	701647040107839488	2016-02-22T05:57:44	rabois it does. it's more about who you are against than who you are for
+joshu	701646881433071618	2016-02-22T05:57:07	buzz yeah i've been having Big Ideas on this lately.
+joshu	701646646396846080	2016-02-22T05:56:11	idea: a distributed ledger of binary hashes/checkins?
+joshu	701556065477918720	2016-02-21T23:56:14	fredbenenson yes it is amazing
+joshu	701535348245958656	2016-02-21T22:33:55	LaughingSquid BLUE IS THE WRONG COLOR cc herf lorna
+joshu	701530100144078848	2016-02-21T22:13:04	on how Los Angeles is similar to the movies: 
+joshu	701507760949571585	2016-02-21T20:44:18	qhardy i can barely stand it myself
+joshu	701507673712267264	2016-02-21T20:43:57	are newly minted VCs required to dispense bland, generic advice on twitter? is this in the LP agreement?
+joshu	701504833732235264	2016-02-21T20:32:40	just applied to show the whiteboard at makerfaire
+joshu	700132946041294849	2016-02-18T01:41:16	silklabs off to a roaring start (I am an investor) 
+joshu	699272728570777601	2016-02-15T16:43:05	ServoCity saw that. Hoping to be able to telescope 10+ feet. I am using a pool cleaning handle now. 
+joshu	699270042630795264	2016-02-15T16:32:24	cjoh got the idea to use Twitter from a Fb board member
+joshu	699269911135145985	2016-02-15T16:31:53	ServoCity Actobotics you should offer some nicely priced carbon fiber tubing too.
+joshu	699058310419337216	2016-02-15T02:31:03	rajatsuri naval BenedictEvans i can't wait for you guys to invent fermi's paradox. voting for the great filter, myself.
+joshu	699038235033366528	2016-02-15T01:11:17	"You forgot? We didn't" 
+joshu	698975802231132161	2016-02-14T21:03:12	the idea was mvictoras's SpiderSense. i don't think MarcPortney is really looking for innovation and associated risk.
+joshu	698952009399930880	2016-02-14T19:28:39	Just reached out to someone a TV investor show passed on. Help me sacca
+joshu	698724927826886656	2016-02-14T04:26:19	kfury um why? Is he stalking you?
+joshu	697993575376642048	2016-02-12T04:00:11	seldo I suppose people could use this for discussing sportsball too!
+joshu	697993469453737985	2016-02-12T03:59:45	seldo I guess. For realtime stuff? Maybe with transcripts? I ask a lot
+joshu	697993307813601281	2016-02-12T03:59:07	ABCSharkTank sacca "well, except for the fancy cowboy"
+joshu	697993128268050433	2016-02-12T03:58:24	Wish there was a way to link to specific parts of things like debates
+joshu	697972645510324224	2016-02-12T02:37:01	qhardy i knew someone that snorted marijuana at a party. died instantly.
+joshu	697971357397594112	2016-02-12T02:31:53	pw3456 not at this time, no
+joshu	697939160657625088	2016-02-12T00:23:57	fmanjoo I was pretending to be Eliza
+joshu	697939051928645636	2016-02-12T00:23:31	erictpaine BenedictEvans it is rare but happens.
+joshu	697915508289511424	2016-02-11T22:49:58	plibin platform is still ok? Whew.
+joshu	697915337581330432	2016-02-11T22:49:17	Ugh. Founders sending cold pitches: if you ask for money and don't tell me what you are actually doing in first email, I just hit delete.
+joshu	697914601841696768	2016-02-11T22:46:22	fmanjoo why is it you feel that way?
+joshu	697909016786153472	2016-02-11T22:24:10	starsandrobots the disc at the top rotates. It is very heavy.
+joshu	697908500140195840	2016-02-11T22:22:07	starsandrobots 
+joshu	697908100330749953	2016-02-11T22:20:32	starsandrobots thinking about getting with the card edge holder
+joshu	697907936954179584	2016-02-11T22:19:53	starsandrobots two hands to awkwardly hold my thing and two to be frustratingly in the way.
+joshu	697906965712769024	2016-02-11T22:16:01	starsandrobots 
+joshu	697906792072761344	2016-02-11T22:15:20	starsandrobots also i met a dude that had this strange cylindrical vise to hold boards. it was amazing. i could not find it for sale.
+joshu	697906687655587840	2016-02-11T22:14:55	starsandrobots i got one with FOUR HANDS
+joshu	697878385163268096	2016-02-11T20:22:27	nickhencher 
+joshu	697864177679884288	2016-02-11T19:26:00	Just saw a drawing robot on All American Makers. picassobot?
+joshu	697846652653023232	2016-02-11T18:16:22	paulsmith yeah i started thinking about building a fast drone.
+joshu	697660747283697664	2016-02-11T05:57:38	vgr yes I learned this in Ultima
+joshu	697646796114296833	2016-02-11T05:02:12	Todo: teleport into The Institute, steal everything that isn't nailed down.
+joshu	697634958613966848	2016-02-11T04:15:10	bre you are wise
+joshu	697633540834353153	2016-02-11T04:09:32	harper allspaw jkriss milesmiles I feel like I need to have it mostly defined before the HN and pmarca peanut gallery get in.
+joshu	697630993952321536	2016-02-11T03:59:24	harper allspaw jkriss milesmiles I want to build and spec something first. Then after.
+joshu	697629719240388608	2016-02-11T03:54:21	allspaw harper I think we are gonna have to talk about things at some point, but wanted to have the idea expressed.
+joshu	697629441464205312	2016-02-11T03:53:14	I approve of this tiny robot whiteboard. 
+joshu	697542368392663041	2016-02-10T22:07:14	harper allspaw I have an idea for a way to... It's hard to explain. I am gonna build a prototype, I guess.
+joshu	697296371703894016	2016-02-10T05:49:44	harper it's ok. i have ideas on what comes next.
+joshu	697296062243942400	2016-02-10T05:48:31	johnolilly naval patrickc this isn't happening, right? i'm hallucinating this whole thing?
+joshu	697179454842413056	2016-02-09T22:05:09	Lewwwk well. i couldn't really explain it in 140 chars but it came to me in a dream.
+joshu	697148764276920320	2016-02-09T20:03:12	Lewwwk and i definitely didn't post the epoxy + dried oregano mix
+joshu	697148716923228164	2016-02-09T20:03:01	Lewwwk not really. consider it doodling? i didn't post the epoxy mixes i was making (uv sensitive + tio2 to make a uv laser board)
+joshu	697140682322935808	2016-02-09T19:31:05	Lewwwk ha that is cooler than mine too. i'm building a gyro-adjusted camera boom for car racing
+joshu	697139473507745792	2016-02-09T19:26:17	Lewwwk alas most of my stuff is fixed position. i am building a robot designed to be attached to a car, though
+joshu	697137080804048896	2016-02-09T19:16:46	I commented on facebook, Exomotive . Our email comes from Lesher Motorsports to Kevin.
+joshu	697136816365801472	2016-02-09T19:15:43	Lewwwk I started getting the parts for a very high resolution smaller plotter for ballpoint pens a while ago tho.
+joshu	697135565620137984	2016-02-09T19:10:45	except theirs is way nicer than mine! i backed it sheerly out of whiteboard solidarity. 
+joshu	696969403384991744	2016-02-09T08:10:29	mat w̩̍̎͌̓̒̅͋e̵̟̝̺̫̍̈́̓̀̑̇b͘į̳͍̫̦n̴̰͙̺̪ͮͩ̏͗̇̌̓a̴̹̙̲ͫ͛ͦ̊r̻̮̩͎͛̚
+joshu	696948254454517761	2016-02-09T06:46:27	DanielleMorrill what's happening on friday
+joshu	696932854564024323	2016-02-09T05:45:15	vgr surprisingly easy to develop the skills...
+joshu	696885321795915777	2016-02-09T02:36:22	craigcalef broken things, mispainted things, damaged in shipping things, etc
+joshu	696829846442217473	2016-02-08T22:55:56	craigcalef we have a bunch of things but mostly they don't reply to email. they don't fix that was wrong from their end...
+joshu	696824506292183040	2016-02-08T22:34:43	craigcalef was wondering if they would actually reply to our issues
+joshu	696808082169409536	2016-02-08T21:29:27	big surprise, exomotive deleted my comments.
+joshu	696806683725574144	2016-02-08T21:23:54	BenedictEvans i remember that cover
+joshu	696509266820116480	2016-02-08T01:42:04	This halftime show is dedicated to all the hardworking stars who died in past halftime shows.
+joshu	696464999196151810	2016-02-07T22:46:10	why do i get mail from "29 messages from your neighbors today"  nextdoor when i have everything turned off? grr 
+joshu	696439469998678016	2016-02-07T21:04:43	How do I install an ad blocker again? 
+joshu	696374655792197632	2016-02-07T16:47:10	fmanjoo idea: commercials only party
+joshu	696215224798486528	2016-02-07T06:13:39	PearlF jeff i'm just being silly. one assumes it's a reasonable prior to assume this and they don't have good customization
+joshu	696212798322245632	2016-02-07T06:04:00	jeff it's statistically likely that you are wrong about that
+joshu	696211988112740352	2016-02-07T06:00:47	jeff it is statistically likely that you like NFL Cyrus or whatever
+joshu	696210236458164224	2016-02-07T05:53:49	harper i am working on an app to realign your chi
+joshu	696184440406474752	2016-02-07T04:11:19	fmanjoo every time i come back to twitter my "in case you missed it" is entirely you and seldo
+joshu	696184247401340929	2016-02-07T04:10:33	rsarver too bad it's audi
+joshu	696159966588047360	2016-02-07T02:34:04	BenedictEvans paulg they can retarget based on locations the phone has been... coupons and ads are in the same family
+joshu	695863202626740224	2016-02-06T06:54:50	Annaleen i quite liked it
+joshu	695834115040358401	2016-02-06T04:59:15	merket joshelman i really don't slack
+joshu	695833071795335168	2016-02-06T04:55:06	joshelman the apple one. i guess it was actually "osx" 
+joshu	695832678138970112	2016-02-06T04:53:33	joshelman for a long time it was "Mac" actually. Which was also true
+joshu	695831367771230208	2016-02-06T04:48:20	joshelman turns out I run on spite
+joshu	695830747928596480	2016-02-06T04:45:52	BenedictEvans 
+joshu	695830540293767168	2016-02-06T04:45:03	BenedictEvans imaginarium shows empty acct for me on mobile.
+joshu	695830118715920384	2016-02-06T04:43:22	BenedictEvans account long gone btw
+joshu	695829997844475904	2016-02-06T04:42:54	joshelman anyway I am kidding. Meeting with folks who didn't pass last time first.
+joshu	695829657946435585	2016-02-06T04:41:33	joshelman let's see how Sunday goes.
+joshu	695829162594930688	2016-02-06T04:39:34	joshelman nicely done, frees up my calendar next week
+joshu	695828948861620225	2016-02-06T04:38:43	BenedictEvans I moved to Pinboard
+joshu	695828726118899712	2016-02-06T04:37:50	joshelman only if you guys pass
+joshu	695828400309579776	2016-02-06T04:36:33	BenedictEvans joshelman needs more algorithmic pinkness, 
+joshu	695828112513175556	2016-02-06T04:35:24	BenedictEvans joshelman 
+joshu	695826564735488000	2016-02-06T04:29:15	joshelman BenedictEvans I think it won't be a web thing.
+joshu	695826139307061249	2016-02-06T04:27:34	joshelman BenedictEvans I am thinking of calling a part of the thing I am working on "tags" just so people cannot argue
+joshu	695825611491663872	2016-02-06T04:25:28	BenedictEvans that one is totally my fault, sorry.
+joshu	695825098155012096	2016-02-06T04:23:25	BenedictEvans there were a bunch of them. "WEB 2.0" and "PLATFORM"
+joshu	695811133395972096	2016-02-06T03:27:56	aileenlee check the fridge? it's always the last place you look
+joshu	695810012719878144	2016-02-06T03:23:29	rr johnmaeda (i class those as the hypercars). i just mean lots of software and etc. objectively fast computer doing a lot of the driving.
+joshu	695809311402930176	2016-02-06T03:20:42	johnmaeda i guess his review is largely good. disappointment about not living up to its namesake. it is very typical for recent supercars.
+joshu	695795953681313792	2016-02-06T02:27:37	johnmaeda not so much...
+joshu	695789683393990657	2016-02-06T02:02:42	stlhood i will bring hannah over for biting therapy
+joshu	695764964154281985	2016-02-06T00:24:28	fmanjoo clamtastic
+joshu	695748317574094852	2016-02-05T23:18:19	harryh fredbenenson "a couple of standard deviations" "happen sometimes" - it turns out that we can quantify that...
+joshu	695682185127276544	2016-02-05T18:55:32	ServoCity wrong motor and boom not extended, but: 
+joshu	695655474272702464	2016-02-05T17:09:24	ServoCity a new kind of filming rig. and a self-drawing whiteboard (though your parts are largely going to the first)
+joshu	695313241895874560	2016-02-04T18:29:29	shervin these guys have to come to my next track event! i emailed you.
+joshu	695032557306408963	2016-02-03T23:54:09	sama i feel like this is something they NEVER really nailed down. what do we do? what don't we do?
+joshu	694956786139267072	2016-02-03T18:53:04	johnolilly year 5 is always somehow billions of dollars
+joshu	694956485562888192	2016-02-03T18:51:52	seldo are there any teens out there that can explain this? Or do we have to wait till we are younger?
+joshu	694668692278235136	2016-02-02T23:48:17	jesserobbins webinar?
+joshu	694668660003074048	2016-02-02T23:48:09	tinysubversions what about kanye bot jokes
+joshu	694646378656468992	2016-02-02T22:19:37	i just coordinated a meeting via Starcraft's chat feature. Who needs Slack?
+joshu	694367064794894337	2016-02-02T03:49:43	nickkokonas that's my secret. i'm always worried.
+joshu	694339112090804224	2016-02-02T01:58:39	Brackets assembled! The whiteboard now has steel ways. 
+joshu	694304639592730624	2016-02-01T23:41:40	Whiteboard v3 is coming along nicely. 
+joshu	694266866978521088	2016-02-01T21:11:34	textfiles following up on my earlier email about signing an NDA so I can tell you what I want
+joshu	694266587944124416	2016-02-01T21:10:28	triketora seems useful on the race track though. If only they had license plates there.
+joshu	694013543063035904	2016-02-01T04:24:57	BenedictEvans start touching other people's computer screens. They love that.
+joshu	694013386602876928	2016-02-01T04:24:20	sschillace ok NOW it's time to start something new.
+joshu	694013080808738816	2016-02-01T04:23:07	joestump I put a mount in the front tow hook. I refuse to cut the front bumper.
+joshu	693623492449738752	2016-01-31T02:35:02	Quan it never happened
+joshu	693623466625380352	2016-01-31T02:34:56	manp there was no 2
+joshu	693622166089170944	2016-01-31T02:29:45	carlmalamud also, gets rid of vampires.
+joshu	693621440956932097	2016-01-31T02:26:53	Kung Fu Panda 3 was amazing. I wonder why they went straight from 1 to 3 though.
+joshu	693559788936916992	2016-01-30T22:21:54	ftrain I know the feeling. 
+joshu	693552918134296576	2016-01-30T21:54:35	shervin when can I go see the hyperloop?
+joshu	693552224543252480	2016-01-30T21:51:50	JasonHirschhorn loved the first, hated the second. How is the third?
+joshu	693524519865028608	2016-01-30T20:01:45	waxpancake lisadraws do I need to build s gaming pc for this?
+joshu	693524120907034624	2016-01-30T20:00:10	sacca hunterwalk semil Mazzeo that was like the Neil Armstrong of humblebrags
+joshu	693523832200519680	2016-01-30T19:59:01	metacool I have a car that is theoretically eligible to run in it. Just need to drive better.
+joshu	693523515459284993	2016-01-30T19:57:45	metacool lets go next year.
+joshu	693487565253423104	2016-01-30T17:34:54	tinysubversions remember to breathe?
+joshu	693455249068023813	2016-01-30T15:26:29	bre same 
+joshu	693279811637157888	2016-01-30T03:49:22	i wonder how long before servocity gets annoyed that i do several orders in a day
+joshu	693182585350926336	2016-01-29T21:23:01	this takes me about 15 minutes 
+joshu	693144813840011264	2016-01-29T18:52:56	harryh if one doesn't exist, we should make one?
+joshu	693135185513021440	2016-01-29T18:14:40	This issue tracking system has "Rekt" as a issue type.
+joshu	692978130508713984	2016-01-29T07:50:35	alexismadrigal ibogost i tried the actual gif maker. the coy "something went wrong" error when it eats a word it didn't like feels odd.
+joshu	692976908502437889	2016-01-29T07:45:44	cdibona polyurethane is vile stuff
+joshu	692968626937270272	2016-01-29T07:12:50	cdibona and low viscosity so it dries very smooth
+joshu	692968307595595778	2016-01-29T07:11:33	cdibona I want to make something that is white (titanium dioxide?) color changing (like that thing at ORD) and dry-erasable (siloxane)
+joshu	692967862231760896	2016-01-29T07:09:47	joshu (I want to make a new kind of whiteboard, of course)
+joshu	692967376057454594	2016-01-29T07:07:51	cowbs fmanjoo engineers that understand humans are called designers...
+joshu	692967186651021312	2016-01-29T07:07:06	cowbs fmanjoo that's a wacky replacement for a command line thing. Engineering is about constraints. In this case, "users scared of cli"
+joshu	692966590602678272	2016-01-29T07:04:44	vgr I already read it.
+joshu	692966080814419969	2016-01-29T07:02:43	Had an need for a kind of epoxy. Googled it, got a patent as first result. Uhoh.
+joshu	692828921398595588	2016-01-28T21:57:41	therealfitz dylanr harper 
+joshu	692815253483057152	2016-01-28T21:03:22	metacool you win this round
+joshu	692814533350428673	2016-01-28T21:00:31	props to nshivakumar, good stuff. kraneland UrbanEngines SoftBank ToyotaMotorCorp
+joshu	692814059469537281	2016-01-28T20:58:38	metacool what if it is a prototype doomsday device?
+joshu	692738272447983616	2016-01-28T15:57:29	crystaldbeasley although naturally things are always more complicated than they appear. even when you account for that fact.
+joshu	692734076122337280	2016-01-28T15:40:48	hchamp sorry. historical bias for me. i'm making non-startup things now!
+joshu	692733916734566400	2016-01-28T15:40:10	crystaldbeasley 
+joshu	692719976277372929	2016-01-28T14:44:47	eBoyArts tehkraft rstevens hchamp tock we should make one where everyone signs the startup they founded
+joshu	692570930636148736	2016-01-28T04:52:31	But why? 
+joshu	692570707398537217	2016-01-28T04:51:38	garrytan watch American Makers instead.
+joshu	692513235384307714	2016-01-28T01:03:16	dakotasmith ha
+joshu	692494064705470464	2016-01-27T23:47:05	i thought i was computer literate but seriously why is skype so confusing?
+joshu	692490544610680833	2016-01-27T23:33:06	avantgame hope i didn't sound like i was arguing btw
+joshu	692490178083098624	2016-01-27T23:31:38	fmanjoo that gives me an idea for a startup!!!
+joshu	692489643351261185	2016-01-27T23:29:31	avantgame and makes assumptions about demog of readers too
+joshu	692488745946333185	2016-01-27T23:25:57	avantgame "i felt socially awkward" somehow is "emasculating" because all insults are an affront to his manhood, maybe?
+joshu	692488547736109057	2016-01-27T23:25:10	avantgame can i reject that not granting an interview is "emasculating"?
+joshu	692488195586539521	2016-01-27T23:23:46	4derekdeboer theracersgroup "remind me what the third pedal does"
+joshu	692487995170164740	2016-01-27T23:22:58	avantgame i wonder if some types take all insults as intrinsically being against their core whatever?
+joshu	692453078650503168	2016-01-27T21:04:13	hmason a dataset of how much people paid for datasets, actually
+joshu	692089816675037184	2016-01-26T21:00:45	dhh like "so bad it has to be watched" or "just pretend it didn't happen"
+joshu	692052001396396032	2016-01-26T18:30:29	i just realized that my tibetanprayerwheel.txt is no longer stored on spinning media.
+joshu	691853072683896832	2016-01-26T05:20:01	dbentley shell out to basename
+joshu	691720630618628096	2016-01-25T20:33:44	My copy of Sacca Simulator 2016 arrived. 
+joshu	691478524138430464	2016-01-25T04:31:41	dapplestone can we track it?
+joshu	691459873381306369	2016-01-25T03:17:35	fmanjoo not new. this is how mat got in trouble too.
+joshu	691453608659779585	2016-01-25T02:52:41	semil Joshmedia joshelman sacca a huge % don't say what company is doing or just ask for money or ask for a meeting etc
+joshu	691333344953552896	2016-01-24T18:54:48	semil Joshmedia joshelman sacca I give myself permission to ignore stuff that is vague, indirect, or out of order. Which is most.
+joshu	691332276018348033	2016-01-24T18:50:33	Joshmedia &lt;mindfulness /&gt;
+joshu	691300229417664512	2016-01-24T16:43:13	triketora this is awesome. I have several receipt printers waiting for an art project idea.
+joshu	691299921031467009	2016-01-24T16:41:59	Joshmedia there are tags for that in HTML 5. Turn on "investor mode" in outlook to strip. &lt;/glowing&gt;
+joshu	691298692029157378	2016-01-24T16:37:06	seldo this is the in-game Twitter clone
+joshu	691086752333860865	2016-01-24T02:34:56	DanielZarick rawr
+joshu	691011705938247681	2016-01-23T21:36:43	Another meeting of the Nic Cage Portrait Appreciation society 
+joshu	690797626422198273	2016-01-23T07:26:03	ericnakagawa cornusammonis RezaAli that is true
+joshu	690790441046814720	2016-01-23T06:57:30	Jason hugs is super psyched about his fabbed board. 
+joshu	690621724094631937	2016-01-22T19:47:04	damonpace maybe I can get mattcutts to be my booth assistant
+joshu	690596656589508608	2016-01-22T18:07:28	mattcutts thinking about applying to show the whiteboard at maker faire
+joshu	690373151658745856	2016-01-22T03:19:20	dapplestone for something specific or in general?
+joshu	690372750779813888	2016-01-22T03:17:44	tehkraft rstevens hchamp tock eBoyArts is that poster still for sale???? I will buy myself and hchamp one.
+joshu	690331140759023616	2016-01-22T00:32:24	Uber_Support I filed in app already, is that ok?
+joshu	690322462014324736	2016-01-21T23:57:55	Hey Uber my driver canceled after he _arrived_ so he could get the 1.9x surge - which wasn't in effect when I called for it...
+joshu	690313003724640256	2016-01-21T23:20:20	airdamien no hub. Hw works fine on Windows vm on same machine.
+joshu	690291624748924928	2016-01-21T21:55:22	airdamien it spews errors and reconnects over and over. Will get a log later.
+joshu	690285167412432896	2016-01-21T21:29:43	tqbf of course
+joshu	690284285354496000	2016-01-21T21:26:13	Spotted  on the wall at Tock 
+joshu	690283183531782144	2016-01-21T21:21:50	airdamien first noticed it in the pololu micro maestro.
+joshu	690283060751892480	2016-01-21T21:21:21	Visiting the Tock offices. 
+joshu	689893279656112129	2016-01-20T19:32:30	Re: re: re: fwd: re: re: lol fmanjoo
+joshu	689667006547648512	2016-01-20T04:33:22	dancapper Pinboard unless you include the exclamation point with "Yahoo" in which case proceed
+joshu	689666372851228672	2016-01-20T04:30:51	dancapper Pinboard that is a word mark. Not necessarily the same thing. Still not an acronym.
+joshu	689662985011200000	2016-01-20T04:17:23	dancapper Pinboard hemi. It means hemispherical, not an acronym for something.
+joshu	689617854321168384	2016-01-20T01:18:03	shapertools woot!
+joshu	689562634727723009	2016-01-19T21:38:38	rksio @myrPaul i'm mostly just fucking around with opencv. looking for something that's cheap, decent, not hard to get running.
+joshu	689562510240808960	2016-01-19T21:38:08	shapertools will the firefly work with linux or macos reasonably?
+joshu	689559202369404928	2016-01-19T21:24:59	shapertools is there a good/easy way to buy these?
+joshu	689233869866844160	2016-01-18T23:52:14	@myrPaul eg 
+joshu	689233657068834816	2016-01-18T23:51:23	@myrPaul for me robot isn't necessarily mobile.
+joshu	689230745252986880	2016-01-18T23:39:49	@myrPaul I want to have robots react to images in realtime. Low res is fine.
+joshu	689225076202340352	2016-01-18T23:17:18	What cameras do I want for opencv stuff?
+joshu	689164311730651136	2016-01-18T19:15:50	Annaleen "spam" is a copyright term, maybe they don't want to get lawyers involved?
+joshu	688987842232504320	2016-01-18T07:34:37	pmjordan yep. all god. needed &gt;= 10.8 so i could run twitch casting sw, but &lt; 10.11 so the pololu mini maestro would work.
+joshu	688987637030371328	2016-01-18T07:33:48	joestump remember to play nice on the streets.
+joshu	688842729741144064	2016-01-17T21:57:59	pmjordan oh. mac with the serial errors is now running elcapitan. upgrading a macmini4,1 to mountain lion now to run the hw
+joshu	688832560407822337	2016-01-17T21:17:34	pmjordan yup, it's a slightly older mbp
+joshu	688827678552506370	2016-01-17T20:58:11	sports content analysis and blocking would be nice
+joshu	688813473724104704	2016-01-17T20:01:44	joestump you really ought to come with me sometime. 
+joshu	688813228671946752	2016-01-17T20:00:45	pmjordan it doesn't give an error. Board just resets repeatedly. (Fine under Windows VMware on same machine)
+joshu	688813095511142400	2016-01-17T20:00:14	starsandrobots I want to make a distributed motion controller board. Ethercat + fpga + driver?
+joshu	688812759371259904	2016-01-17T19:58:54	starsandrobots hard = painful software toolchain? I want to make a high speed quad decoder off chip. Guess i could use attiny?
+joshu	688805157237178368	2016-01-17T19:28:41	FPGA still seems hard for amateurs. Are GALs and CPLDs any easier? Cc starsandrobots
+joshu	688803594766692352	2016-01-17T19:22:29	pmjordan the hw I am using bails under El Capitan.
+joshu	688803487778385921	2016-01-17T19:22:03	pmjordan yeah, that part I knew. Figuring out how to download from App Store was key.
+joshu	688791478751985664	2016-01-17T18:34:20	joestump all body kit, no go, alas. There are pix of them melting on track.
+joshu	688791063079686144	2016-01-17T18:32:41	pmjordan ooh thanks!
+joshu	688591103444951040	2016-01-17T05:18:07	simonrothman i've almost given up on inviting you?
+joshu	688571748552323072	2016-01-17T04:01:12	f anything that isn't $500? I want to stream a camera, not my display.
+joshu	688571070337568768	2016-01-17T03:58:30	How do I update to something before El Capitan? Serial is broken so something a bit older would be good.
+joshu	688561223042859008	2016-01-17T03:19:23	am i better off  streaming via a camera from mac or linux?
+joshu	688417065967812608	2016-01-16T17:46:33	plibin CIACulinary I didn't know this was a thing. Amazing!
+joshu	688416456036323328	2016-01-16T17:44:07	sacca so are you permanent on the show or what?
+joshu	688187042153418752	2016-01-16T02:32:31	Drove some classics today. What a blast! 
+joshu	687502960369115138	2016-01-14T05:14:13	sacca i did but you didn't follow back. shame
+joshu	687485623389700096	2016-01-14T04:05:20	Pinboard the fact that i googled "python x" for basically every x once came up in a meeting in front of marissamayer
+joshu	687471714930790401	2016-01-14T03:10:04	Pinboard what to do with a perl codebase: 
+joshu	687471585574293505	2016-01-14T03:09:33	Pinboard i have a thunderscan downstairs.
+joshu	687452351225925632	2016-01-14T01:53:07	waxpancake wr ong | wr-ong
+joshu	687116323847995392	2016-01-13T03:37:52	MarkGhuneim waxpancake if laughter is medicine, what is a polite chuckle?
+joshu	687115634610573312	2016-01-13T03:35:07	complex it works fine under Windows in VMware on same machine.
+joshu	687114590971244544	2016-01-13T03:30:59	hardware preparations for waxpancake's idea continue. vaguetweeting
+joshu	687101486061387777	2016-01-13T02:38:54	complex my devices show up, but they are unreliable. i don't want to turn off kernel signing though
+joshu	687095144475054080	2016-01-13T02:13:42	pedraum 
+joshu	687095032617111552	2016-01-13T02:13:16	so did el capitan totally break serial on mac or what?
+joshu	687077873153253376	2016-01-13T01:05:04	does anyone have some sage? fresh is best but dried will do.
+joshu	687077630126866432	2016-01-13T01:04:06	Pinboard i do this too. it's called "consulting"
+joshu	687066344102047744	2016-01-13T00:19:16	stlhood this is why i run wordperfect under dosbox
+joshu	687065768828125184	2016-01-13T00:16:59	plibin whyyyyyyyyyyyyyyyyyyyy
+joshu	687065585448947714	2016-01-13T00:16:15	mattcutts look i just want to write about New and Ucoming Entrepreneur Techniques, since i get to see so many
+joshu	686994500300877824	2016-01-12T19:33:47	Pinboard yes, you totally called that one. i still have one wish left though
+joshu	686982141050093568	2016-01-12T18:44:40	last night i dreamt that i managed to get iOS to show a mouse cursor.
+joshu	686978288049205251	2016-01-12T18:29:21	waxpancake one assumes, yeah
+joshu	686977403730526208	2016-01-12T18:25:51	looks like delicious was acquired again. is there some sort of record for corporate hot potato?
+joshu	686976084819066880	2016-01-12T18:20:36	Annaleen alexismadrigal ok let's buy one and i'll make a robot.
+joshu	686975512472752128	2016-01-12T18:18:20	Pinboard anatsuno we need to do some math here. is it accelerating or decelerating?
+joshu	686804580282175488	2016-01-12T06:59:06	alexismadrigal Annaleen geography doesn't move fast. cameras are fine.
+joshu	686793298728456193	2016-01-12T06:14:17	Annaleen lidar is optics. doesn't go through rocks?
+joshu	686775620403990528	2016-01-12T05:04:02	if this were a channel, i would watch it always. 
+joshu	686670265648951296	2016-01-11T22:05:23	triketora this is mainly why I am holed up in basement workshop.
+joshu	686669910257225728	2016-01-11T22:03:58	Got to ride an actual hoverboard. Best demo ever. Thanks ArxPaxLab 
+joshu	686444343880593409	2016-01-11T07:07:39	we need to send baconmeteor to CES next year. 
+joshu	686442757120892928	2016-01-11T07:01:21	triketora do you have a domain with whois records?
+joshu	686434494434287616	2016-01-11T06:28:31	substitute i was trying to use a piece of hardware for waxpancake
+joshu	686434157308690432	2016-01-11T06:27:11	updated windows, vmware, osx, two software packages. to solve a hardware problem. didn't work. fixed with a razor blade.
+joshu	686346256625483776	2016-01-11T00:37:53	sacca kfury nest's progress is... interesting
+joshu	686321207872851968	2016-01-10T22:58:21	zarfeblong  poor stan.
+joshu	686310308692930561	2016-01-10T22:15:03	jhuber "enter password to view page"
+joshu	686253205714382848	2016-01-10T18:28:08	metacool ideo Target medialab FoodFuturecoLAB ok that sounds fun
+joshu	686090363904237568	2016-01-10T07:41:04	waxpancake I got the hardware done and I am still trying to figure out the windows situation. Gah 
+joshu	686069942181994496	2016-01-10T06:19:55	tomcoates textfiles it made my response to lmorchard much more innuendoed though
+joshu	686069723465818113	2016-01-10T06:19:03	lmorchard 
+joshu	686068298232954880	2016-01-10T06:13:23	tomcoates textfiles "love"
+joshu	686052834081521664	2016-01-10T05:11:56	waxpancake i had all that in stock. just waiting for windows to update so i can update the drivers so i can update the firmware.
+joshu	685932294192824320	2016-01-09T21:12:57	BoltMotorbikes yes. drop an email
+joshu	685931312016826368	2016-01-09T21:09:03	BoltMotorbikes justinkan bring one to my next event
+joshu	685929436592484352	2016-01-09T21:01:36	teaser: waxpancake had an idea for a robot thingy. i am gonna build it. parts started arriving today.
+joshu	685902986661335040	2016-01-09T19:16:30	kfury i dreamt that there was a school of martial arts that taught optimizing ways to punch people based on facial structure.
+joshu	685518540976209920	2016-01-08T17:48:51	nelson consensus class?
+joshu	685350182913851397	2016-01-08T06:39:51	nelson migurski iandees i usually just do "if x in d"
+joshu	685350082191855616	2016-01-08T06:39:27	nelson migurski iandees so make a class that acts like a dict but does the perl thing?
+joshu	685334752102989824	2016-01-08T05:38:32	nelson migurski iandees um. thingy.get("key","sensible default in case of failure")
+joshu	685175524285480960	2016-01-07T19:05:49	rstevens it's less your phrasing and more the way you brandish the knives.
+joshu	685175382656462848	2016-01-07T19:05:15	BenedictEvans GPSE Lite!
+joshu	685145340064837632	2016-01-07T17:05:53	Quan the original one.
+joshu	685144495973777408	2016-01-07T17:02:31	AvidanRoss sacca prynt I did just watch that one. I liked it!
+joshu	685004583211421700	2016-01-07T07:46:34	Quan can i have an opel gt instead?
+joshu	685004300032937984	2016-01-07T07:45:26	SiVola rsarver CaseyNewton tell me more about ELIZA already got mentioned today.
+joshu	684990219079176192	2016-01-07T06:49:29	SiVola rsarver tell me more about forgotten Wikipedia page.
+joshu	684984763598254080	2016-01-07T06:27:48	rsarver why is it you feel that way?
+joshu	684973469071618049	2016-01-07T05:42:55	einarvollset sacca no
+joshu	684971993922318336	2016-01-07T05:37:04	If Sacca can be on sharktank -- can I be on allamericanmakers ?
+joshu	684969661151117314	2016-01-07T05:27:47	MarcPortney I am addicted to the show (sorry Sacca) but you realize your computer in the intro isn't plugged in?
+joshu	684935789159972864	2016-01-07T03:13:12	Been playing Just Cause 3 (h/t nelson) and wondering if I am the bad guy.
+joshu	684934441798533120	2016-01-07T03:07:51	sacca mattcutts cdibona i suspect "chris sacca vegas" and "matt cutts vegas" are very, very different realities
+joshu	684879452321390593	2016-01-06T23:29:20	fmanjoo ie5 isn't on that list so I am golden.
+joshu	684852259616731136	2016-01-06T21:41:17	fmanjoo go on periscope and let people drive you around.
+joshu	684851796678815744	2016-01-06T21:39:26	someone should combine AppMeerkat or periscopetv and "twitch plays" to have someone drive around CES
+joshu	684850908966944768	2016-01-06T21:35:55	realSimonBurns quantopian i have - looks excellent. but mostly i keep my software writing and investment separate hobbies
+joshu	684842972765028352	2016-01-06T21:04:23	realSimonBurns we had that. called it "unix". wait, wrong joke?
+joshu	684842838215950336	2016-01-06T21:03:51	realSimonBurns however when they talk about data they always contextualize it in terms of # of libraries of congress. go fig.
+joshu	684842668707295233	2016-01-06T21:03:10	realSimonBurns (fwiw i was an algo trader in a former life)
+joshu	684842615875874817	2016-01-06T21:02:58	realSimonBurns 
+joshu	684842351617966080	2016-01-06T21:01:55	. realSimonBurns all reporters do this. "THIS BRIDGE COST $100M!!!" and imply it is big. but how does it compare to other bridges etc?
+joshu	684842202615300096	2016-01-06T21:01:19	realSimonBurns indeed. volatility is measured as stdev. but when i say that then people will say "but that is too complicated"
+joshu	684841729975914496	2016-01-06T20:59:26	dear reporters, when you say "shares spike x%" and not in terms of typical change, you don't provide enough context if that is big or small
+joshu	684841475067125760	2016-01-06T20:58:26	BenedictEvans i thought purple was in next?
+joshu	684671494476050433	2016-01-06T09:42:59	harryh ssh bby is ok
+joshu	684529098106863616	2016-01-06T00:17:09	this is amazing 
+joshu	684528371133317121	2016-01-06T00:14:16	fmanjoo early preview of the twitter long text feature
+joshu	684523859551207424	2016-01-05T23:56:20	10k characters seems excessive. I do like the brevity that the platform enforces, I just can't stand how often I am just one character shor
+joshu	684500751322775552	2016-01-05T22:24:31	PaloAltoPolice I also pay attention to portable camera stuff, would love to see a dash cam startup. Maybe body cams too, dunno.
+joshu	684498834144145408	2016-01-05T22:16:54	PaloAltoPolice i spent a bit of time with SFPD re my last startup (for coordinating distributed groups) - lots of interesting challenges
+joshu	684493033765638145	2016-01-05T21:53:51	ataussig mrogati I have it. A few seconds, maybe.
+joshu	684492797055864833	2016-01-05T21:52:54	PaloAltoPolice hah, ok.
+joshu	684489807163047936	2016-01-05T21:41:01	if twitter extends the limits how is pmarca supposed to tweetstorm?
+joshu	684489581316542464	2016-01-05T21:40:08	PaloAltoPolice need any software engineers? or amateur race car drivers?
+joshu	684138325402202112	2016-01-04T22:24:22	Travelling salesman problem art on the CNC etch a sketch. 
+joshu	684137925932527616	2016-01-04T22:22:46	falicon i suppose. looking for mostly mechanical things that are currently human controlled.
+joshu	684121238764007425	2016-01-04T21:16:28	wooble i think many would be not much more fun.
+joshu	684121065795137536	2016-01-04T21:15:47	falicon isaach i was thinking of adding cnc controls to stuff. eg 
+joshu	684109692314845184	2016-01-04T20:30:35	isaach i am thinking about how to make motor controllers that are a queue of position/velolcity/time messages from a network
+joshu	684109211161133056	2016-01-04T20:28:40	isaach that is three levels past my current skill. i can't do responsive things yet but am thinking about how.
+joshu	684108400116928512	2016-01-04T20:25:27	those of you with kids: can you please audit your child's toys and let me know if any would be interesting with computer controlled motors?
+joshu	683746619280392192	2016-01-03T20:27:52	CNC etch-a-sketch with better drivers. Much better. 
+joshu	682373998055915521	2015-12-31T01:33:33	Was that an ad for vampirism or alcohol?
+joshu	682332966479990785	2015-12-30T22:50:30	seldo StartupLJackson chuck e cheese and phillz too.
+joshu	682311235124211723	2015-12-30T21:24:09	qhardy fmanjoo it's ok though. i caught you 'mirin.
+joshu	682308579622268928	2015-12-30T21:13:36	qhardy fmanjoo thus the joke that i am cool but no secretly a nerd

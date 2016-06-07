@@ -1,0 +1,120 @@
+OECD_Stat	725619632619569152	2016-04-28T09:36:16	How much time do 15-yr-olds put into school work after the bell rings?   stats on learning 
+OECD_Stat	725265715750703104	2016-04-27T10:09:56	Brexit would constitute a tax of £2200 per household/yr by 2020 &amp; up to £5000 by 2030: OECD  
+OECD_Stat	725051874424971265	2016-04-26T20:00:12	Enterprises that engage in exports &amp; imports account for virtually all merchandise trade in OECD countries, more at 
+OECD_Stat	723768449751744512	2016-04-23T07:00:20	In which countries are self-employment rates highest? Surprised? Read more here  OECD stats 
+OECD_Stat	724606665572524032	2016-04-25T14:31:06	OECD data show that top 100 enterprises in OECD countries account for 40% of int’l merchandise trade 
+OECD_Stat	724575203464880129	2016-04-25T12:26:05	Small firms typically export to neighbouring markets but source imports more widely, more at  
+OECD_Stat	724544441822928896	2016-04-25T10:23:50	Large firms continue to dominate international merchandise trade, read latest OECD Statistical Insights 
+OECD_Stat	722365548668055552	2016-04-19T10:05:42	Employment rate back to pre-crisis levels in OECD area in Q4 2015  
+OECD_Stat	720304756376211456	2016-04-13T17:36:51	How generous are unemployment benefits? See stats &amp; dataviz in our tax/benefits database  
+OECD_Stat	720198189765300224	2016-04-13T10:33:23	Net ODA in 2015 increased by 6.9% in real terms, highest level ever achieved  development 
+OECD_Stat	719931172801880064	2016-04-12T16:52:21	How do tax &amp; benefit systems impact women’s incentives to enter the workforce?  
+OECD_Stat	719866601617678337	2016-04-12T12:35:46	Good data needed for the successful implementation of the SDGs, read latest OECD DEVPost  
+OECD_Stat	719829873150267392	2016-04-12T10:09:50	OECD unemployment rate stable at 6.5% in February 2016  
+OECD_Stat	719467053351112704	2016-04-11T10:08:07	Composite leading indicators continue to point to signs of easing growth in the OECD area  
+OECD_Stat	718409320509997057	2016-04-08T12:05:04	In Canada, GDP growth slowed markedly to 0.2% in Q4 2015, down from 0.6% in Q3  OECD
+OECD_Stat	718196437398360064	2016-04-07T21:59:08	In Japan, GDP contracted (- 0.3%) as private consumption fell (contributing - 0.5 pp to overall growth)  OECD
+OECD_Stat	718090721140482048	2016-04-07T14:59:04	In Germany, GDP grew by 0.3% with investment being the main driver (0.3 pp)  OECD
+OECD_Stat	718061032007045121	2016-04-07T13:01:05	In the US, private consumption was the main contributor to GDP growth (0.3%)  OECD
+OECD_Stat	718023424715669504	2016-04-07T10:31:39	Private consumption growth slows in OECD area in Q4 2015  
+OECD_Stat	717400668365926401	2016-04-05T17:17:02	Are you underestimating income inequality in your country? Find out with OECD tool  
+OECD_Stat	717291534346018816	2016-04-05T10:03:23	Annual inflation in OECD area slowed to 1.0% in February 2016  
+OECD_Stat	715830581507043328	2016-04-01T09:18:04	RevStatsAfrica: rising tax revenues are key to economic development in African countries  
+OECD_Stat	713354523193032704	2016-03-25T13:19:06	The OECD Statistics Newsletter: the latest issue just published 
+OECD_Stat	711098899029745664	2016-03-19T07:56:03	3 things that make a job great  work 
+OECD_Stat	710423619269218304	2016-03-17T11:12:44	Growth in unit labour costs (ULCs) in  OECD area accelerated to 0.5%  in Q4 2015  
+OECD_Stat	710160654540390400	2016-03-16T17:47:48	Average tax revenue in LAC countries (21.7% of GDP) is well below avg of OECD area (34.4%)  
+OECD_Stat	707885242485448704	2016-03-10T11:06:08	Cha ching! Global tourism racks up 4.1% of GDP &amp; 5.9% of employment  Compare country stats 
+OECD_Stat	709704971151749120	2016-03-15T11:37:05	GDP growth slowed markedly in Canada (0.2% vs. 0.6%) and  Mexico (0.5% vs. 0.8%) in Q4 2015  OECD
+OECD_Stat	709514199433486336	2016-03-14T22:59:01	GDP growth slowed markedly in Korea (to 0.6% vs. 1.3% in Q3) and Australia (0.6% vs. 1.1%) in Q4 2015  OECD
+OECD_Stat	709480497965957124	2016-03-14T20:45:06	GDP growth slowed marginally in China (to 1.6%) and in India (1.7%) in Q4 2015  OECD
+OECD_Stat	709373554609881089	2016-03-14T13:40:09	GDP contracted in Brazil in Q4 2015, for 4th straight quarter (minus 1.4%)  OECD
+OECD_Stat	709334490884259840	2016-03-14T11:04:56	Slight easing in G20 GDP growth in Q4 2015  OECD 
+OECD_Stat	707559186154987521	2016-03-09T13:30:30	In Jan. 2016 OECD unemployment rate for women stable at 6.6%, for men it declined to 6.4%  
+OECD_Stat	707522487211397120	2016-03-09T11:04:40	OECD unemployment rate down to 6.5% in January 2016  
+OECD_Stat	707151375956836352	2016-03-08T10:30:00	How much more do men earn than women? 15.6% on average. 😠 More Stats here  IWD Inequality 
+OECD_Stat	707182345346940931	2016-03-08T12:33:04	Starting a business: what about women?  OECD gender data 
+OECD_Stat	707160362521661440	2016-03-08T11:05:43	Composite leading indicators (CLIs) point to signs of easing growth in OECD area  
+OECD_Stat	707128772932141056	2016-03-08T09:00:11	Gender equality, check out new OECD gender data Portal  
+OECD_Stat	704979107952594944	2016-03-02T10:38:11	More fathers’ leave wld help women’s careers. How much leave do dads in yr country get?  IWD 
+OECD_Stat	704988766977593344	2016-03-02T11:16:34	Annual inflation in OECD area rose to 1.2% in January 2016 
+OECD_Stat	704627483883216896	2016-03-01T11:20:58	G20 total international merchandise trade continued to contract in Q4 2015  OECD 
+OECD_Stat	702418145689149440	2016-02-24T09:01:50	Lithuanian youth were hit hard by the crisis: jobless rate remains above pre-crisis levels.  
+OECD_Stat	702055066778230784	2016-02-23T08:59:06	In 2015 GDP rose by 2.0% in the OECD area, up from 1.8% in 2014 
+OECD_Stat	700690197244063744	2016-02-19T14:35:35	Great! Latest news &amp; research on measurement of income inequality at OECD-COPE  
+OECD_Stat	701724377822310400	2016-02-22T11:05:03	In Q4 2015, GDP growth decelerated by 0.1 percentage point in France to 0.2% and in Italy to 0.1% OECD
+OECD_Stat	701540918759821312	2016-02-21T22:56:03	In Japan GDP contracted by 0.4% in Q4 2015  OECD
+OECD_Stat	700671187404230656	2016-02-19T13:20:03	Download data, charts &amp; broadband penetration maps for different countries at our updated portal  statistics
+OECD_Stat	700681538325774336	2016-02-19T14:01:11	GDP growth stable at 0.3% in Germany in Q4 2015, while it picked up marginally to 0.5% in the UK  OECD
+OECD_Stat	700658689514950656	2016-02-19T12:30:23	In the US, economic growth slowed to 0.2% in Q4 2015, compared with 0.5% in Q3  OECD
+OECD_Stat	700637441514835972	2016-02-19T11:05:57	Marked slowdown in OECD GDP growth (0.2%) in Q4 2015  
+OECD_Stat	699950156393873408	2016-02-17T13:34:56	In SouthAfrica,42% of health spending is on private health insurance,highest share in OECD  
+OECD_Stat	699905412850647040	2016-02-17T10:37:08	Mind the income gap: how far is your ideal from reality? Find out with the OECD tool  
+OECD_Stat	697053106408968193	2016-02-09T13:43:05	OECD countries with the most native-born people living abroad. Compare your country.  Expat 
+OECD_Stat	699163000100392960	2016-02-15T09:27:03	Household disposable income per capita grew 1.5% in Norway &amp; fell 0.7% in Greece in Q3 2015. Compare countries 
+OECD_Stat	698472705411063808	2016-02-13T11:44:04	You can have high employment and high job quality, even during the crisis. New OECD data on jobquality 
+OECD_Stat	698156379115167746	2016-02-12T14:47:06	OECD Labour Ministers have given strong mandate to OECD to design policies to improve all aspects of jobquality 
+OECD_Stat	698084190005276672	2016-02-12T10:00:15	Since 2007 GDP &amp; household income grew most in Poland but Greece saw large declines  OECD 
+OECD_Stat	698038872232493056	2016-02-12T07:00:10	German unemployment &amp; labour underutilisation rates fell by 0.1% in Q3 2015  OECD 
+OECD_Stat	697850347323150337	2016-02-11T18:31:02	Youth &amp; unskilled tend to have lower quality jobs. New OECD data on jobquality  
+OECD_Stat	697801541093183490	2016-02-11T15:17:06	How’s your country doing? See the OECD household-dashboard 
+OECD_Stat	697770082970120192	2016-02-11T13:12:06	In Germany, household spending increased by 0.3% in Q3 2015 OECD  
+OECD_Stat	697724574859988997	2016-02-11T10:11:16	What has increased more in Germany: Household income or real GDP per capita? Find out here:  OECD
+OECD_Stat	697456003143434240	2016-02-10T16:24:03	New OECD jobquality data on earnings quality, labour market insecurity &amp; the quality of the working environment 
+OECD_Stat	697349555373780994	2016-02-10T09:21:04	Men paid more than women, while women enjoy better quality of work environment jobquality  
+OECD_Stat	697124313099403264	2016-02-09T18:26:02	During the crisis, labour market security decreased in most countries. New OECD data on jobquality 
+OECD_Stat	697046299506388993	2016-02-09T13:16:02	What makes for a good job? How can we measure job quality? Find out here:  
+OECD_Stat	697021267988365312	2016-02-09T11:36:34	Unemployment rate stable at 6.6% in OECD area in December 2015  
+OECD_Stat	696995833183629312	2016-02-09T09:55:30	OECD releases new data on quality of jobs: 3 dimensions for 34 countries over almost a decade jobquality 
+OECD_Stat	696650865181138944	2016-02-08T11:04:44	CLIs continue to signal a mixed outlook across major emerging economies and stable growth momentum in OECD area 
+OECD_Stat	694564195434496000	2016-02-02T16:53:03	Test your knowledge on income inequality with the OECD tool, now avail. in 9 languages  
+OECD_Stat	694453446246821888	2016-02-02T09:32:58	With current legislation, av. retirement age set to rise to over 65 for both men &amp; women  
+OECD_Stat	694478027925909504	2016-02-02T11:10:39	Annual inflation picks up to 0.9% in OECD area in December 2015  
+OECD_Stat	693184362288795649	2016-01-29T21:30:05	Assets more than offset gross government debt levels in Norway, Finland, Sweden, Denmark OECD Statistical Insights  
+OECD_Stat	693025844831264768	2016-01-29T11:00:11	Increase in net government debt ratios over 2007-13 highest in Ireland OECD Stats Insights  
+OECD_Stat	692715518621388800	2016-01-28T14:27:04	Net government debt ratios above 100% of GDP for Greece, Japan and Italy OECD Statistical Insights  
+OECD_Stat	692693778017046528	2016-01-28T13:00:40	Net government debt is highest in Greece, lowest in Norway OECD Statistical Insights 
+OECD_Stat	692661021631238144	2016-01-28T10:50:31	Inclusion of government assets can significantly alter view on government debt, see new OECD Statistical Insights 
+OECD_Stat	689743528138768384	2016-01-20T09:37:26	What do 10 countries spend their tax revenue on? BBC_Capital cites OECD stats  wef 
+OECD_Stat	688039668659666945	2016-01-15T16:46:54	1 in 6 young pple across OECD is not in employment, education or training. More stats here  
+OECD_Stat	689430475878768640	2016-01-19T12:53:29	&gt;40 million jobless in OECD area. Compare your c'tries unemployment rates. More Stats here  
+OECD_Stat	689199084272504832	2016-01-18T21:34:01	Some 7% of students spend &gt;6 hours/day online, outside of school; does it matter?  📱 
+OECD_Stat	689086870873976832	2016-01-18T14:08:07	Fifth International Conference on Establishment Surveys to take place on 20-23 June 2016.  
+OECD_Stat	689027973639356417	2016-01-18T10:14:05	In Germany, private consumption was the main driver of GDP growth (0.3%) in Q3 2015. OECD 
+OECD_Stat	688031155774345216	2016-01-15T16:13:05	Real GDP in the OECD area slowed slightly to 0.5 % in Q3 2015  
+OECD_Stat	687954329312059392	2016-01-15T11:07:48	OECD employment rate increases to 66.2% in the third quarter of 2015.  
+OECD_Stat	687713807402008576	2016-01-14T19:12:03	In the US, private consumption and investment were main drivers of GDP growth (0.5%) in Q3 2015. OECD 
+OECD_Stat	687654674044854272	2016-01-14T15:17:04	Assessing progress on sustainable development requires measures of multidimensional well-being. OECD SDGs 
+OECD_Stat	687576651014656000	2016-01-14T10:07:02	In UK, stockbuilding and private consumption drove GDP growth in Q3 2015. OECD 
+OECD_Stat	687303186156130304	2016-01-13T16:00:23	Destocking reduced GDP growth in the OECD area by 0.1 percentage point in Q3 2015 
+OECD_Stat	687229249321889792	2016-01-13T11:06:35	OECD unemployment rate stable at 6.6% in November 2015  
+OECD_Stat	686921058746822656	2016-01-12T14:41:57	Good news: 58% of university grads are women. Bad news: Degree choices still skewed  gender 
+OECD_Stat	686887899980259328	2016-01-12T12:30:11	Hours worked is one thing, productivity is another. Compare GDP/country &amp; hours worked  
+OECD_Stat	686866191412006913	2016-01-12T11:03:56	Private consumption main driver of OECD GDP growth in the third quarter of 2015  
+OECD_Stat	686503963471011841	2016-01-11T11:04:34	Composite leading indicators continue to point to stable growth momentum in the OECD area  
+OECD_Stat	685396962221404160	2016-01-08T09:45:44	andresmmujica for the moment we don't have comparable data for Colombia.
+OECD_Stat	685089617725489152	2016-01-07T13:24:27	Are cities the new countries? Population living in urban areas grew from 60% in 1960 to around 80% in 2013. READ 
+OECD_Stat	685055414040395777	2016-01-07T11:08:33	OECD annual inflation up to 0.7% in November 2015  
+OECD_Stat	684052947349581824	2016-01-04T16:45:06	How is income distributed in your country? Find out with the OECD tool  
+OECD_Stat	683994006813040640	2016-01-04T12:50:53	You studied what? Read OECD findings on the frequency of education/jobs mismatch  work 
+OECD_Stat	682546762821709824	2015-12-31T13:00:04	New Year’s resolution for a BetterLife? Share your wellbeing priorities with the OECD  
+OECD_Stat	681423615460376576	2015-12-28T10:37:04	Do you feel like you over spent this holiday season? Here is a reality check  
+OECD_Stat	679602388278218756	2015-12-23T10:00:10	Cooking a roast can be tricky, but the recipe for a BetterLife is up to you Noel  
+OECD_Stat	678944285484449792	2015-12-21T14:25:06	Lend a helping hand this holiday season: volunteers lead happier &amp; healthier lives Noel  
+OECD_Stat	677794711319412737	2015-12-18T10:17:06	Interested in the outcomes of the OECD5WF, read the summary report now available at:  
+OECD_Stat	677505233682079744	2015-12-17T15:06:49	New data sources and OfficialStatistics: Where do we stand? MobileData PPPs Happening now: 
+OECD_Stat	677445401868419073	2015-12-17T11:09:04	Growth in unit labour costs in OECD area slowed to 0.3% in Q3 2015  
+OECD_Stat	677106161200402432	2015-12-16T12:41:03	Check out the new wikigender platform launching today! Learn how you can add your voice to the genderequality conversation OECD_Centre
+OECD_Stat	676703308375953408	2015-12-15T10:00:15	GDP growth accelerated in Canada in Q3 2015 (to 0.6% from minus 0.1% in Q2)  OECD
+OECD_Stat	676536906184654849	2015-12-14T22:59:02	In Japan, GDP rose by 0.3% in Q3 2015, compared with growth of minus 0.1% in Q2  OECD
+OECD_Stat	676506992274354177	2015-12-14T21:00:10	GDP growth accelerated in Korea and Australia in Q3 2015 to 1.3% and 0.9%, respectively,  
+OECD_Stat	676393768778616832	2015-12-14T13:30:15	In US GDPgrowth slowed markedly in Q3 2015 (to 0.5%, compared with 1.0% in Q2)  OECD
+OECD_Stat	676357726075768833	2015-12-14T11:07:02	GDP growth stable in G20 area at 0.7% in Q3 2015  OECD 
+OECD_Stat	674545839671410688	2015-12-09T11:07:15	OECD unemployment rate down to 6.6% in October 2015  
+OECD_Stat	674182466031255552	2015-12-08T11:03:20	Stable growth momentum in OECD area but mixed outlook for major emerging economies  
+OECD_Stat	673908270030004224	2015-12-07T16:53:46	OECD_Centre el_pais mariopezzini
+OECD_Stat	672701918666358784	2015-12-04T09:00:10	Merchandise exports decline in Brazil with more than 7% in Q3 2015  OECD
+OECD_Stat	672626403871854592	2015-12-04T04:00:06	Merchandise exports decline in Russia with more than 7% in Q3 2015  OECD
+OECD_Stat	672550653047148545	2015-12-03T22:59:05	Exports grow for first time since 2014 in China, shows G20 international merchandise trade data for Q3 2015  OECD
+OECD_Stat	672430280867577856	2015-12-03T15:00:46	G20 international merchandise imports fall for sixth successive quarter in Q3 2015 to levels seen in 2010  OECD
+OECD_Stat	672392455707213824	2015-12-03T12:30:28	European Union (EU28) exports and imports fell for a fifth consecutive quarter by 0.4% and 0.3% respectively  OECD

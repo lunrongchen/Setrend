@@ -1,0 +1,30 @@
+TradingTheOdds	685720622010347520	2016-01-09T07:11:51	The VIX gained 48.33% over the course of the last week. Since 1/2/1990 there were 38 other occurences w/ VIX gained &gt; 48% over 5 sessions.
+TradingTheOdds	685719224778665984	2016-01-09T07:06:17	On Friday iShares MSCI Brazil Capped ( EWZ ) closed at 19.09 , a 11+ year low and its lowest level since 11/08/2004.
+TradingTheOdds	685719157363621888	2016-01-09T07:06:01	On Friday the Russell 2000 Index ( RUT ) closed at 1,046.20 , a 2+ year low and its lowest level since 10/09/2013.
+TradingTheOdds	652207106515451908	2015-10-08T19:41:06	QuantStratTradR Sorry, I didn't follow the entire communication. Link to what ? // @easyvolatility
+TradingTheOdds	648708737281212416	2015-09-29T03:59:50	Since 1/1/2000, SPX 2-day RSI closed &lt; 1 on 30 occurrences: Average move ($SPX) next day: +/-2.19% (22x up, 8x down); median move: +/-1.24%
+TradingTheOdds	648699859621572608	2015-09-29T03:24:33	w/ VIX closing above RVX in 2015 (5 occurrences so far), SPX moved (up and down) 2.49% the next day on average (at least +/-1.35%).
+TradingTheOdds	631324738124541952	2015-08-12T04:42:01	XA4P Yes, VRPStrategy (Volatility Risk Premium Strategy w/ cont. contract) went long VXX on yesterday's (8/10/2015) close.
+TradingTheOdds	623229034709819392	2015-07-20T20:32:35	w/ VUX/N5 (Russel 2000 Volatility Futures, JUL'15 expiration) @ 15.05 , RVX front month volatility futures settled at an all-time low.
+TradingTheOdds	622138994629980161	2015-07-17T20:21:09	VXX (iPath S&amp;P 500 VIX ST Futures ETN) and VXZ closed (again) at a fresh all-time low, ZIV at a fresh all-time high. XIV w/ no new high.
+TradingTheOdds	621777277567803392	2015-07-16T20:23:49	VXX (iPath S&amp;P 500 VIX ST Futures ETN) and VXZ closed at a fresh all-time low today, ZIV at a fresh all-time high. XIV w/ no new high.
+TradingTheOdds	618860193124888576	2015-07-08T19:12:22	The HSI Volatility Index ($VHSI) is up 58.39% , the Nikkei Stock Average Volatility Index ($NKVI) is up 29.67% today.
+TradingTheOdds	618276131129716736	2015-07-07T04:31:31	Algyros Due to the fact that I made public the respective formula behind, I do not tweet position changes any longer. // 33 25
+TradingTheOdds	618160297099051008	2015-07-06T20:51:14	Algyros What do you mean with "will 'this' have …" ('this' ???) / 33 25
+TradingTheOdds	616970905265307648	2015-07-03T14:05:01	VSTOXX 33.76 (+2.09), while $V2TX 1st month 25.90 (+1.00). Market participants are looking for implied volatility to implode next week.
+TradingTheOdds	616091531825451008	2015-07-01T03:50:42	XA4P On 6/30/2015 the VRP-Strategy based on VIX futures (cont. contract) switched to VXX also.
+TradingTheOdds	615722200709079040	2015-06-30T03:23:06	The CBOE VIX VOLATILITY INDEX ($VVIX) 117.00 (+39.50%) posted its biggest gain since 2/27/2007.
+TradingTheOdds	613269068766945280	2015-06-23T08:55:14	XA4P Sure. Thanks and corrected.
+TradingTheOdds	613241584558153728	2015-06-23T07:06:01	On Monday, Jun 22, XIV closed at a new all-time high, while VXX and VXZ closed at a new all-time low. ZIV closed at a 6-month high.
+TradingTheOdds	613190730421534720	2015-06-23T03:43:57	On Monday, Jun 22, RVX (Russell 2000 Volatility Index) closed at a 2-year low (its lowest level since 3/15/2013).
+TradingTheOdds	612108752351830016	2015-06-20T04:04:33	VSTOXX (EURO STOXX 50® Volatility Index) vs. $VFS1 (front month futures): @-5.07 highest negative premium since 9/9/2011. Reversal ahead ?
+TradingTheOdds	608738314984763392	2015-06-10T20:51:38	iPath S&amp;P 500 VIX ST Futures ETN ( VXX ) closed at a new all-time low (18.43). XIV closed at its highest level since 7/16/2014 (46.34).
+TradingTheOdds	607081120551849984	2015-06-06T07:06:32	(2) The all-time average of the delta between Russell 2000 ($RVX) and EURO STOXX 50 Volatility ($VSTOXX) front month futures is +0.62.
+TradingTheOdds	607080539191955456	2015-06-06T07:04:14	(1) On Friday, 6/5/2015, the delta between RVX and EURO STOXX 50 Volatility ($VSTOXX) front month futures closed at an all-time low (-6.28)
+TradingTheOdds	607075851226759168	2015-06-06T06:45:36	On Friday, 6/5/2015, the EURO STOXX 50 Index 3510.01 closed at a 3-month low (lowest level since 2/20/2015).
+TradingTheOdds	607075374602850304	2015-06-06T06:43:42	On Friday, 6/5/2015, the VSTOXX (EURO STOXX 50 Volatility Index) 25.2745 and front month futures 23.325 both closed at a 3-month high.
+TradingTheOdds	607073996279050240	2015-06-06T06:38:14	The delta between the Russell 2000 ($RVX) and EURO STOXX 50 Volatility Index ($VSTOXX) closed at its lowest level since 10/16/2008 (-8.76).
+TradingTheOdds	601850474069925888	2015-05-22T20:41:49	Today CBOE Nasdaq 100 Volatility Index ( VXN, 13.23) closed at a 6-month low (its lowest level since 9/2/2014).
+TradingTheOdds	600492344434171904	2015-05-19T02:45:06	On Monday, 5/18/2015, VIX (S&amp;P 500 Volatility Index) front month futures (13.275) closed (settled ) at a 6-month low (since 9/16/2014).
+TradingTheOdds	600489966888714240	2015-05-19T02:35:39	On Monday, 5/18/2015, RVX (Russell 2000 Volatility Index) front month futures closed (settled) at a new all time low (15.825).
+TradingTheOdds	600489088442052608	2015-05-19T02:32:09	On Monday, 5/18/2015, VXX, VXZ and the S&amp;P 500 VIX Short-Term Futures Index ( $SPVIXSTR ) closed at a new all time low.

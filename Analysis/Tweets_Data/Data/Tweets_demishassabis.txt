@@ -1,0 +1,87 @@
+demishassabis	726116428948983808	2016-04-29T18:30:21	Happy to see DeepMindAI adopt TensorFlow - should help accelerate progress in machine learning for everyone! 
+demishassabis	725716605078917121	2016-04-28T16:01:36	In Annual Letter, Sundar Pichai Says Computing, And Google, Will Be Driven By Artificial Intelligence - Forbes 
+demishassabis	726079159051649024	2016-04-29T16:02:16	Torch served us well, but DeepMind is moving to Tensorflow! Excited to contribute to this new open source ML lib: 
+demishassabis	724735776907497473	2016-04-25T23:04:08	We had 9(!) papers accepted at ICML 2016 - congrats to the team! See our publications page for the pdfs: 
+demishassabis	723917381773463552	2016-04-23T16:52:08	Thanks Hajin_lee - so cute :) Lee's family were wonderful - was great to spend some time with them during the match 
+demishassabis	723029172914782208	2016-04-21T06:02:42	ahead of tonight's AmigaPower reunion, a 1992 coding triumph for DeepMindAI's AI Go pioneer demishassabis 
+demishassabis	722965266989109248	2016-04-21T01:48:46	Always a pleasure being back at MIT catching up with old friends! 
+demishassabis	721449176018657280	2016-04-16T21:24:22	Google DeepMind Is Now Analysing Magic And Hearthstone Cards  :)
+demishassabis	721677462736912384	2016-04-17T12:31:29	Harvey1966 DeepMindAI I was thinking more with DeepMind's AI powering the game under the hood...
+demishassabis	721672852110512128	2016-04-17T12:13:10	So proud of NandoDF and Scott Reed for Best Paper Award at ICLR for nets that can learn programs:  Huge congrats!
+demishassabis	721665616814477312	2016-04-17T11:44:25	Harvey1966 I still dream of coming back to the concept one day and making the Republic game I originally imagined, but with DeepMindAI :)
+demishassabis	720446759437213696	2016-04-14T03:01:07	one of my all-time scientific heroes Richard Feynman talking about the challenge of computer Go 
+demishassabis	716216066863542272	2016-04-02T10:49:51	worldwide shortage of Go equipment due to AlphaGo vs Lee Sedol match! so cool to see the surge in popularity of Go: 
+demishassabis	716211853253173248	2016-04-02T10:33:07	.elonmusk really amazing to hear!! just placing my order...
+demishassabis	715992179341205504	2016-04-01T20:00:12	Also got to talk with a group of promising young Go students, learning a bit more about the people, history, culture 
+demishassabis	715560727331938304	2016-03-31T15:25:46	Google DeepMind is trying to create software that can learn anything  by tsimonite 
+demishassabis	714912010639572992	2016-03-29T20:28:00	Very clear article on the difference between the approaches taken by AlphaGo and Deep Blue, and why it is important 
+demishassabis	713888427301801985	2016-03-27T00:40:39	Great article summarizing the key moments from the games, some really creative and beautiful moves from AlphaGo: 
+demishassabis	711870170067836929	2016-03-21T11:00:49	The numbers are in: 280M viewers, 35K articles, 10x more Go boards sold. Hopefully the match inspired many people to play this amazing game
+demishassabis	711870016535334912	2016-03-21T11:00:12	Back in the UK. Thanks Korea for welcoming us with such passion and enthusiasm, and to the KBA for graciously co-hosting the match with us!
+demishassabis	711091010365947904	2016-03-19T07:24:42	Mark Zuckerberg tells Jack Ma that he's impressed by AlphaGo, and believes AI to make big progress in next 5-10 yrs 
+demishassabis	710353013957926912	2016-03-17T06:32:10	See our latest paper. Stress-testing the generalisation properties of deep generative models, with DeepSpiker 
+demishassabis	710492665402494978	2016-03-17T15:47:06	Excellent post from demishassabis about what Google learned from the AlphaGo match. 
+demishassabis	709264683530899457	2016-03-14T06:27:32	Outstanding article on the significance of AlphaGo by DeepMinder Lucas Baker    AlphaGo
+demishassabis	710434526598733825	2016-03-17T11:56:05	.CadeMetz's coverage of the match was brilliant. Beautifully written articles, many of which really moved me! 
+demishassabis	710187791058116609	2016-03-16T19:35:38	The Korean Baduk (Go) Association (KBA) have officially awarded AlphaGo an honorary 9-dan ranking! So cool... 
+demishassabis	708315832795926528	2016-03-11T15:37:09	Did a ftweekend "person in the news" on Google Deepmind's Demis Hassabis: master of the new machine age 
+demishassabis	709692166919081984	2016-03-15T10:46:12	Congrats DeepMindAI, Sedol! Inspiring matches! Now begins the work to move beyond board games. When machines win, humans win! AlphaGo
+demishassabis	709085718283481089	2016-03-13T18:36:24	Mark Zuckerberg congratulates Google for ‘historic AI achievement’  
+demishassabis	709670715390164992	2016-03-15T09:20:58	Congratulations to the amazing Lee Sedol and AlphaGo team for an unbelievable 5-game match that will go down in history...
+demishassabis	709666308137193472	2016-03-15T09:03:27	AlphaGo wins game 5! One of the most incredible games ever. To comeback from the initial big mistake against Lee Sedol was mind-blowing!!!
+demishassabis	709645361246113793	2016-03-15T07:40:13	Quiet and tense expressions. Viewers at Seoul Station focus on the TV for the last Human vs AI Go match. AlphaGo 
+demishassabis	709635140020871168	2016-03-15T06:59:36	AlphaGo made a bad mistake early in the game (it didnt know a known tesuji) but now it is trying hard to claw it back... nail-biting.
+demishassabis	709597591864877056	2016-03-15T04:30:24	SouthKorea KBS stops normal programs to show live game between LeeSedol and AlphaGo in final of five-game match. 
+demishassabis	709591060196950017	2016-03-15T04:04:26	Game 5 begins... Lee Sedol vs AlphaGo 
+demishassabis	709583319973801984	2016-03-15T03:33:41	Game 5 starting in 30 mins: going to be really exciting to see if Lee Sedol can exploit the weakness in AlphaGo’s play he found in game 4
+demishassabis	709583014926245888	2016-03-15T03:32:28	The neural nets were trained through self-play so there will be gaps in their knowledge, which is why we are here: to test AlphaGo the limit
+demishassabis	709582557843591170	2016-03-15T03:30:39	This meant that all the prior searching AlphaGo had done was rendered useless, and for a while it misevaluated the highly complex position
+demishassabis	709582135363903488	2016-03-15T03:28:59	Taken a quick look at the logs: AlphaGo gave a probability of &lt;1 in 10000 for Lee's brilliant move 78, so AG found this move very surprising
+demishassabis	709536657477804033	2016-03-15T00:28:16	Final game 5 starting in a few hours: 13:00 KST (local), 04:00 GMT, 20:00 PT. Livestream:  Should be epic! AlphaGo
+demishassabis	709034865132310528	2016-03-13T15:14:19	Just shows how deeply complex Go is. Lee Sedol's move 78 in Game 4 and move 37 by AlphaGo in Game 2 will be discussed for a very long time
+demishassabis	708964046205112320	2016-03-13T10:32:55	Lee Sedol is currently trending worldwide at no. 1, and also 7 and 9. Huge congratulations to him again! AlphaGo 
+demishassabis	708952355790786560	2016-03-13T09:46:27	Lee Sedol’s brilliant moves deliver a comeback against AlphaGo in game 4 →  
+demishassabis	708937560068739072	2016-03-13T08:47:40	Lee Sedol wins game 4!!! Congratulations! He was too good for us today and pressured AlphaGo into a mistake that it couldn’t recover from
+demishassabis	708934687926804482	2016-03-13T08:36:15	When I say 'thought' and 'realisation' I just mean the output of AlphaGo value net. It was around 70% at move 79 and then dived on move 87
+demishassabis	708928006400581632	2016-03-13T08:09:42	Mistake was on move 79, but AlphaGo only came to that realisation on around move 87
+demishassabis	708920239052824578	2016-03-13T07:38:50	Lee Sedol is playing brilliantly! AlphaGo thought it was doing well, but got confused on move 87. We are in trouble now...
+demishassabis	708862256482627585	2016-03-13T03:48:26	Game 4 about to start shortly. Livestream here:  I'm rooting for the genius that is Lee Sedol for this game :)
+demishassabis	708567021122772992	2016-03-12T08:15:17	AlphaGo won game 3 and the match! Historic moment. In complete awe of Lee Sedol’s incredible genius, and proud of the amazing AlphaGo team!
+demishassabis	708489093676568576	2016-03-12T03:05:37	Distributed version is only ~75% win rate against single machine version! Using distributed for match but single machine AG very strong also
+demishassabis	708488741275312128	2016-03-12T03:04:13	Our neural network training algorithms are more important to AlphaGo performance than the hardware it uses to play (see the Nature paper)
+demishassabis	708488229750591488	2016-03-12T03:02:11	We are using roughly same amount of compute power as in Fan Hui match: distributing search over further machines has diminishing returns
+demishassabis	708483897193996288	2016-03-12T02:44:58	Game 3 starting in an hour! livestream here:  also live on national TV in China (CCTV) and Korea (KBS)
+demishassabis	707945328696119301	2016-03-10T15:04:54	interviewed deepmind’s demishassabis this am; it was fascinating and near-uneditable, so here’s basically all of it 
+demishassabis	708216474125660160	2016-03-11T09:02:20	Just to clarify, the match is being played under standard Chinese rules with no restrictions on how either player can play of course!
+demishassabis	707853230663999488	2016-03-10T08:58:56	A hard fought game by Lee Sedol, but AlphaGo’s creative tactics prevailed →  
+demishassabis	707845384945668096	2016-03-10T08:27:45	Wow! AlphaGo wins a second time! Completely surreal... Huge respect for Lee Sedol. Amazing battle! 
+demishassabis	707845224731508736	2016-03-10T08:27:07	AlphaGo wins match 2, to take a 2-0 lead!! Hard for us to believe. AlphaGo played some beautiful creative moves in this game. Mega-tense...
+demishassabis	707834295193178112	2016-03-10T07:43:41	Lee Sedol entering overtime. AlphaGo confident, but top pro player commentators divided. Excruciatingly nerve-wracking :)
+demishassabis	707767604912361472	2016-03-10T03:18:41	Just been told 60m viewers watched the first match online just in China! 100m+ worldwide inc. TV, 3300 news articles just in Korea. Amazing!
+demishassabis	707737279163342848	2016-03-10T01:18:11	Proud of AlphaGo team, a privilege to see this seminal moment, look forward to game 2 today  
+demishassabis	707611375191744512	2016-03-09T16:57:53	Congrats to DeepMind! Many experts in the field thought AI was 10 years away from achieving this. 
+demishassabis	707706616158621696	2016-03-09T23:16:20	5 hours to Match 2, going to be epic! Livestream here:  Subscribe to DeepMind channel: 
+demishassabis	707621349020160000	2016-03-09T17:37:31	Like AlphaGo’s big win, AI will help us tackle complex challenges we previously thought impossible.
+demishassabis	707540472038752257	2016-03-09T12:16:08	Trending globally on twitter no. 3, 6, 7, 9, all AlphaGo. Wall-to-wall TV in Korea, Live on 14 channels in China! 
+demishassabis	707474683906674688	2016-03-09T07:54:43	AlphaGo WINS!!!! We landed it on the moon. So proud of the team!! Respect to the amazing Lee Sedol too
+demishassabis	707451830226296832	2016-03-09T06:23:54	extremely tense... Lee Sedol is famous for his creative fighting skills, AlphaGo going toe to toe. Incredibly complicated position...
+demishassabis	707405269345521664	2016-03-09T03:18:53	Less than an hour to go!! Lee Sedol vs AlphaGo Match 1 livestream here:  unbelievably excited and nervous.
+demishassabis	707357690301800448	2016-03-09T00:09:50	we started working on AlphaGo less than 2 years ago, hard to believe we are here. Congrats to the team for such an amazing achievement!
+demishassabis	707354317615972352	2016-03-08T23:56:25	Practicing Go with demishassabis where AlphaGo will play legendary Lee Sedol later today →  
+demishassabis	707048715052130304	2016-03-08T03:42:04	Mega press conference, apparently the biggest one in Google history! Great that ericschmidt could join us. AlphaGo 
+demishassabis	706779898036092928	2016-03-07T09:53:53	Just arrived in Seoul, so excited to be here! Fun scenes at the airport :) Big press conference tomorrow AlphaGo 
+demishassabis	706435287442972672	2016-03-06T11:04:32	Livestream for Match 1:  Wed 9th Mar 13:00 KST, 04:00 GMT, which is Tue 8th Mar (-1 day) 20:00 PT, 23:00 ET  AlphaGo
+demishassabis	706094729495240704	2016-03-05T12:31:16	Only a few days to go! crazy excitement in Seoul, 500+ journalists covering the match, on national TV in Korea, Japan, and China AlphaGo
+demishassabis	704834622618800128	2016-03-02T01:04:03	We had over a dozen papers with DeepMind co-authors accepted to the upcoming ICLR conf! All our publications here: 
+demishassabis	702576396221227010	2016-02-24T19:30:40	So proud to announce the launch of DeepMind Health – working with nurses &amp; doctors to transform patient care. 
+demishassabis	702113103278956544	2016-02-23T12:49:43	KBA press conf packed to the rafters! details of Lee Sedol vs AlphaGo match:  - can’t wait! 
+demishassabis	699507398784843776	2016-02-16T08:15:34	The superhero of artificial intelligence 
+demishassabis	697038808504737792	2016-02-09T12:46:16	Tackling 3D environments... awesome work from Vlad, Adria and the async team! 
+demishassabis	695379217870008321	2016-02-04T22:51:39	Match days: 9, 10, 12, 13, 15 March - will be livestreamed on YouTube. More details soon. We are very excited to be coming to South Korea!
+demishassabis	695378995232141312	2016-02-04T22:50:46	It is a real privilege and honour to be playing the greatest Go player of the past decade, and a legend of the game LeeSedol AlphaGo
+demishassabis	695378300890271744	2016-02-04T22:48:01	Thrilled to officially announce the 5-game challenge match between AlphaGo and Lee Sedol in Seoul from March 9th-15th for a $1M prize!
+demishassabis	692764912708227072	2016-01-28T17:43:20	Nice article from Wired on Deepmind and Go 
+demishassabis	693181345573572608	2016-01-29T21:18:06	for Go aficionados, very interesting analysis of one of the games by a top 8-dan pro:  
+demishassabis	693175900888776705	2016-01-29T20:56:28	"Decade earlier than expected" - great article from MIT Tech Review 
+demishassabis	692430224382902272	2016-01-27T19:33:24	We made the front cover of Nature! Details here:  AlphaGo DeepMind 
+demishassabis	692407870072160256	2016-01-27T18:04:35	A 20-year dream comes to fruition - our program AlphaGo masters the game of Go, achieving a grand challenge of AI 

@@ -1,0 +1,60 @@
+LibertyStEcon	722016843976708096	2016-04-18T11:00:04	What’s behind the March Spike in Treasury Fails? 
+LibertyStEcon	720982524264972294	2016-04-15T14:30:03	Just Released: The New York Fed Staff Forecast—April 2016 
+LibertyStEcon	720567313443856385	2016-04-14T11:00:09	A Peek behind the Curtain of Bank Supervision 
+LibertyStEcon	720204897111527424	2016-04-13T11:00:02	How Does Supervision Affect Banks? 
+LibertyStEcon	719842535737167872	2016-04-12T11:00:09	Just Released: Introducing the FRBNY Nowcast 
+LibertyStEcon	719842530552975360	2016-04-12T11:00:07	The Economics of Bank Supervision: So Much to Do, So Little Time 
+LibertyStEcon	719527189566193665	2016-04-11T14:07:04	Supervising Large, Complex Financial Institutions: Defining Objectives and Measuring Effectiveness 
+LibertyStEcon	719526671913590784	2016-04-11T14:05:01	Just Released: U.S. Economy in a Snapshot—More Data for More Charts 
+LibertyStEcon	718392967375892481	2016-04-08T11:00:05	Reconciling Survey- and Market-Based Expectations for the Policy Rate 
+LibertyStEcon	718143809847033856	2016-04-07T18:30:01	How Do Survey- and Market-Based Expectations of the Policy Rate Differ? 
+LibertyStEcon	717668215048896512	2016-04-06T11:00:10	Bank Regulation and Bank Complexity 
+LibertyStEcon	716943412310597632	2016-04-04T11:00:04	Are Stress Tests Still Informative? 
+LibertyStEcon	715856262420779008	2016-04-01T11:00:07	Hey, Economist! What Did You Make of “The Big Short”? 
+LibertyStEcon	715131484500205569	2016-03-30T11:00:07	The Effect of Exchange Rate Shocks on Domestic Prices 
+LibertyStEcon	714406702821482497	2016-03-28T11:00:05	How the Fed Smoothed Quarter-End Volatility in the Fed Funds Market 
+LibertyStEcon	713347799295787008	2016-03-25T12:52:23	Happy Fifth Birthday, LSE! 
+LibertyStEcon	713319567347482624	2016-03-25T11:00:12	Upstate New York Job Growth: The Bad News Is that the Good News Was Wrong 
+LibertyStEcon	712633521416724480	2016-03-23T13:34:06	Is Bitcoin Really Frictionless? 
+LibertyStEcon	711869992652767233	2016-03-21T11:00:06	What Tracks Commodity Prices?  
+LibertyStEcon	706819576969826304	2016-03-07T12:31:33	Banking Deserts, Branch Closings, and Soft Information  
+LibertyStEcon	705724476072206336	2016-03-04T12:00:01	Hey, Economist! How Well Do We Weather Snowstorms? 
+LibertyStEcon	704999724575666177	2016-03-02T12:00:07	Would Monetary Tightening Increase Bank Wholesale Funding?  
+LibertyStEcon	704312033588588545	2016-02-29T14:27:28	The “Cadillac Tax”: Driving Firms to Change Their Plans? 
+LibertyStEcon	703187769275756544	2016-02-26T12:00:03	From the Vault: The Path of Interest Rates 
+LibertyStEcon	702825390562082816	2016-02-25T12:00:05	Just Released: Five New Data Series on Consumer Expectations  
+LibertyStEcon	702463005456334849	2016-02-24T12:00:06	The Graying of American Debt 
+LibertyStEcon	701738220757757953	2016-02-22T12:00:04	Whither Mortgages? 
+LibertyStEcon	700651065486643200	2016-02-19T12:00:06	Quantifying Potential Spillovers from Runs on High-Yield Funds 
+LibertyStEcon	700288674680864768	2016-02-18T12:00:05	Are Asset Managers Vulnerable to Fire Sales? 
+LibertyStEcon	699926282054701057	2016-02-17T12:00:04	High-Frequency Cross-Market Trading and Market Volatility 
+LibertyStEcon	699639387538128896	2016-02-16T17:00:03	The Workup, Technology, and Price Discovery in the Interdealer Market for U.S. Treasury Securities 
+LibertyStEcon	698160884703584257	2016-02-12T15:05:00	Just Released: Household Debt Grew Slowly in 2015 as Mortgage Balances Stayed Flat 
+LibertyStEcon	698114349047517184	2016-02-12T12:00:05	Primary Dealer Participation in the Secondary U.S. Treasury Market 
+LibertyStEcon	697751961261731840	2016-02-11T12:00:05	Is Treasury Market Liquidity Becoming More Concentrated? 
+LibertyStEcon	697391230850740224	2016-02-10T12:06:40	Further Analysis of Corporate Bond Market Liquidity 
+LibertyStEcon	697027176193925122	2016-02-09T12:00:03	Corporate Bond Market Liquidity Redux: More Price-Based Evidence 
+LibertyStEcon	696665286208978944	2016-02-08T12:02:02	Has MBS Market Liquidity Deteriorated? 
+LibertyStEcon	696664794380652544	2016-02-08T12:00:05	Continuing the Conversation on Liquidity 
+LibertyStEcon	695577644314730497	2016-02-05T12:00:08	Crisis Chronicles: The Long Depression and the Panic of 1873 
+LibertyStEcon	695215244684107776	2016-02-04T12:00:05	How Do Central Bank Balance Sheets Change in Times of Crisis? 
+LibertyStEcon	694857029861535744	2016-02-03T12:16:40	What Is the Composition of Central Bank Balance Sheets in Normal Times? 
+LibertyStEcon	694490477135994880	2016-02-02T12:00:07	Counterparties and Collateral Requirements for Implementing Monetary Policy 
+LibertyStEcon	694128077983485952	2016-02-01T12:00:04	Standard Elements of a Monetary Policy Implementation Framework 
+LibertyStEcon	693086227780628480	2016-01-29T15:00:08	Just Released: New Web Feature Provides Timely Data on the Job Market for Recent College Graduates 
+LibertyStEcon	687967490110914560	2016-01-15T12:00:06	Crisis Chronicles: The Gold Panic of 1869, America’s First Black Friday 
+LibertyStEcon	687242700408504320	2016-01-13T12:00:02	Fundamental Disagreement: How Much and Why? 
+LibertyStEcon	686517931656654848	2016-01-11T12:00:04	Working as a Barista After College Is Not as Common as You Might Think 
+LibertyStEcon	685431403845033984	2016-01-08T12:02:36	Historical Echoes: How Members of the Society for Creative Anachronism Make Money 
+LibertyStEcon	684706005138055168	2016-01-06T12:00:07	Hedging Income Fluctuations with Foreign Currency Assets 
+LibertyStEcon	684343596242210816	2016-01-05T12:00:02	Who is Driving the Recent Decline in Consumer Inflation Expectations? 
+LibertyStEcon	683981280225013760	2016-01-04T12:00:19	Characterizing the Rising Settlement Fails in Seasoned Treasury Securities 
+LibertyStEcon	678907780669956096	2015-12-21T12:00:03	The Effect of Fed Funds Rate Hikes on Consumer Borrowing Costs 
+LibertyStEcon	673834353865023488	2015-12-07T12:00:03	Dealer Positioning and Expected Returns 
+LibertyStEcon	672747199105622016	2015-12-04T12:00:05	At the New York Fed: Conference on the Evolving Structure of the U.S. Treasury Market 
+LibertyStEcon	672384793753993216	2015-12-03T12:00:01	The FRBNY DSGE Model Meets Julia 
+LibertyStEcon	672131876425895936	2015-12-02T19:15:01	Just Released: Job Market Remains Tight as Regional Economy Slows 
+LibertyStEcon	671660034720329728	2015-12-01T12:00:05	The FRBNY DSGE Model Forecast—November 2015  
+LibertyStEcon	671297659542503424	2015-11-30T12:00:08	U.S. Banks’ Changing Footprint at Home and Abroad 
+LibertyStEcon	668760933640990721	2015-11-23T12:00:06	End of the Road? Impact of Interest Rate Changes on the Automobile Market 
+LibertyStEcon	667673768110653442	2015-11-20T12:00:05	Crisis Chronicles: The Cotton Famine of 1862-63 and the U.S. One-Dollar Note 

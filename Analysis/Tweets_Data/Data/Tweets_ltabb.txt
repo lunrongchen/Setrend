@@ -1,0 +1,388 @@
+ltabb	726161504777715712	2016-04-29T21:29:28	Off to MilkenGlobal, Moderating panel with adenatfriedman DanielNadler corrieelston &amp; David Siegel of 2Sigma 
+ltabb	726157128508002304	2016-04-29T21:12:05	This piece by AlgoTrdr is on point. No one wants 1ms delay-even IEX. But IEX supporters want medallion anyway.  
+ltabb	726155591740231680	2016-04-29T21:05:59	mechmarkets elnunesio RemcoLenterman IMHO SEC can do what they like...but may get sued. Best compromise is no order protection-eg Canada
+ltabb	726105155956006914	2016-04-29T17:45:34	This should make nanexllc apoplectic hft 
+ltabb	726075477128019969	2016-04-29T15:47:38	.FinancialNews reports on BNY Mellon, IBM collaboration on blockchain project, with insight from ltabb's research 
+ltabb	725719256680259584	2016-04-28T16:12:08	Euro Equity Mkt going through significant changes in advance of MiFID II - impacting virtually all aspects of biz. 
+ltabb	725583368260210688	2016-04-28T07:12:10	European Equity Markets Being Recast by Regulatory-Driven Shockwaves, Says TABB Group…  
+ltabb	725671264245927936	2016-04-28T13:01:26	Whoa. The current bull market in US stocks is about to become the second-longest ever.  
+ltabb	725445514548879361	2016-04-27T22:04:23	NEWS: NYSE Joins Nasdaq Assailing Plan to Overhaul Trading Fees (Bloomberg) 
+ltabb	725446367313842176	2016-04-27T22:07:46	NEWS: IEX exchange bid should be judged on its own merits: FINRA chief (Reuters) 
+ltabb	724768456076320768	2016-04-26T01:14:00	NEWS: IEX asks for SEC exchange approval on merits of its application (FT)($) 
+ltabb	724768068883369984	2016-04-26T01:12:27	jacobbunge Annie_gasparro isn't that just slim jim's / beef jerky?
+ltabb	724707588034727936	2016-04-25T21:12:08	NEWS: Gatecrashing the London Stock Exchange (Bloomberg) 
+ltabb	724749997472899077	2016-04-26T00:00:39	Stevephenni DavidBCollum gonna need more than a little bullion if SWIFT becomes swiss cheese
+ltabb	724725029141925888	2016-04-25T22:21:26	This makes more sense. Breach local not network. Still not good, but hard to hack a private network w/o login cred. 
+ltabb	724724204659216385	2016-04-25T22:18:09	SWIFT hacked - more info - "said  attackers obtained valid credentials ...then submitted fraudulent messages..."  
+ltabb	724687428930404352	2016-04-25T19:52:01	piece in the FT about hubris in investing  Note that the trades mentioned are quite likely to start working again!
+ltabb	724716036705144833	2016-04-25T21:45:42	clare21509308 ok 2nd time in 30yrs. Still scary :-). Amazing how they weren't hacked more often given their criticality - hope u are well
+ltabb	724705072396029952	2016-04-25T21:02:08	SWIFT hacked - this is very scary. 1st time hackers breach major industry infrastructure. Hope patch fixed it. 
+ltabb	724691812988923909	2016-04-25T20:09:26	JL-great art. for a very wonderful &amp; deserving person. MA Burns helped the industry for decades-she will be missed 
+ltabb	724689952420814849	2016-04-25T20:02:03	Always fun to talk with anchorpimm talked about HFT, IEX, dark pools, algos, and FinReg and the elections 
+ltabb	724573339763806209	2016-04-25T12:18:40	Gallup:  only 52% of Americans own stock, matching lowest level since survey began 19 years ago 
+ltabb	724580997245837312	2016-04-25T12:49:06	“We are close to the endgame here, where it is clear that more stimulus does more harm than good." 
+ltabb	723495073074286593	2016-04-22T12:54:01	CAT is inching along -- SEC says they will complete it by year's end  
+ltabb	723146132642091008	2016-04-21T13:47:28	Will it eventually break the Sell Side silo'ed model ... another buy side merges trading desks 
+ltabb	722418968770789376	2016-04-19T13:37:58	Deutsche Boerse / LSE deal gets more complicated as Euronext attempts blocking move - 
+ltabb	722407163084320768	2016-04-19T12:51:04	Won't be everyone. Largest mkts will say real-time. Folks will analyze real vs. fake liquidity. EoD real has to win. 
+ltabb	722095301797027840	2016-04-18T16:11:50	'The prices at which orders are filled beat quoted prices 91% of the time, versus 14% a decade ago' 
+ltabb	722095902874333184	2016-04-18T16:14:13	'...retail investors receiving more than $600 million in direct price improvement....in 2014 alone' 
+ltabb	722091867203092480	2016-04-18T15:58:11	Yes but how can exch give me a midpoint match at dif price than they were displaying? Wouldn't that be  weird?  
+ltabb	722090533762572289	2016-04-18T15:52:53	but they don't have O Protect for that mkt, Which is the right. Also eliminate locked and xed for that mkt too   
+ltabb	722090013643685890	2016-04-18T15:50:49	2/2 W/delayed dark RT lit, wouldn't the bump make dark matching at different price from lit matching? 
+ltabb	722089729525694464	2016-04-18T15:49:41	Thats Greifeld's '000s of order types. How would delay &amp; non work? 1/2 
+ltabb	722088396529758208	2016-04-18T15:44:24	Agreed. Only works if IEX is only speedbump. once others are created then no one has accurate price 
+ltabb	722035641895280640	2016-04-18T12:14:46	It doesn't -  Imho.  Reduces determinism. Harder to ascertain right price. Only IEX will know right price  
+ltabb	722035046325096449	2016-04-18T12:12:24	Gives IEX more time to determine right midpoint so it reduces adverse selection &amp; risk of being picked off 
+ltabb	721875220194279424	2016-04-18T01:37:18	Came to same conclusion. That said - interesting and need to read closer.  
+ltabb	721874762708946945	2016-04-18T01:35:29	Take that back. Measures post &amp; cxls- when high, mkt qual low. Post &amp; cxl up when uncertainty up &amp; spreads sb wide 
+ltabb	721871950910484481	2016-04-18T01:24:19	Really interesting-says during times of high UFA (ultra fast activity) - displayed &amp; effective spreads worsen HFT 
+ltabb	721867076068065280	2016-04-18T01:04:57	Shouldn't be about iex should be about best market structure. If IEX speedbump is good then why aren't others? 
+ltabb	721816149789405184	2016-04-17T21:42:35	SEC 1mili comment letters - 0 want SEC to grant 1mili relief, but a # want IEX carve out.. That seems hypocritical 
+ltabb	721801595810353152	2016-04-17T20:44:45	SEC faces opposition to planned share trading rules change -   via FT
+ltabb	721433987672055808	2016-04-16T20:24:00	“Wave a final goodbye to this:” by RobinWigg ... Are HFT's bad ?.... Good read  
+ltabb	721346132002127872	2016-04-16T14:34:54	nathanielpopper good article. A story that no one seems to want to tell &amp; few (politicians) want to hear. Nice job 
+ltabb	721086865873465345	2016-04-15T21:24:40	Good piece by George Bollenbacher on "EU’s Hard Line on Soft Dollars May Push US Investment Managers to Stay Home" 
+ltabb	721077014501924866	2016-04-15T20:45:31	matt_levine no, you officially become one of those guys who folks wonder whether they have too much time on their hands :-)
+ltabb	721073485825634304	2016-04-15T20:31:30	Looking forward on Monday to guest lecturing vasantdhar 's NYU class on HFT and Market Micro Structure - SB fun
+ltabb	721022396581486592	2016-04-15T17:08:29	Nice job Annie! Soon you will be experienced enough to be on TabbFORUM :-) Good story too with mattleising 
+ltabb	721007335016165377	2016-04-15T16:08:38	Also talked BatsGlobal, IEX, NASDAQ, LSE, DeutscheBoerse and our favorite topic these days blockchain 
+ltabb	720986535777157121	2016-04-15T14:46:00	BATS IPO pops 20%  BatsGlobal Nice job guys. Congrats.
+ltabb	720731257714421761	2016-04-14T21:51:37	"Bats Global Markets boosts IPO size"  
+ltabb	720338828850913280	2016-04-13T19:52:14	See ltabb at MilkenInstitute MIGlobal panel, "The Transformation of Finance: Technology's Impact on Wall Street"  
+ltabb	719905981031976961	2016-04-12T15:12:15	...Nasdaq CEO Greifeld warned of 1000s of order types based on diff. time delays under SEC's proposed millisecond grace period. SIFMA IEX
+ltabb	719689985318907905	2016-04-12T00:53:58	cody_washburn aaronlucchetti katyburne If they came through using legit passwords &amp; authentication-prob not. But if hacked... sure
+ltabb	719689356437544961	2016-04-12T00:51:28	Very good piece by Edwin Schooling Latter of FCA on "The Consequences of Increasing Electronification of Trading" 
+ltabb	719672308563111936	2016-04-11T23:43:43	Pretty amazing story: NY Fed and Bangladesh central bank played email tag while $100 million was stolen KatyBurne 
+ltabb	719587955434786817	2016-04-11T18:08:32	Don't miss AlexatTabb discussing why you should care about blockchain - Wed. 13 April at the event! TradeTech 
+ltabb	718560958503874560	2016-04-08T22:07:37	Private vs. public Blockchain risk - Not as simple as you think ReggieMiddleton blockchain 
+ltabb	718493149136445440	2016-04-08T17:38:10	Wrap up your week by watching ltabb and Market Structure Weekly: 
+ltabb	718460871689781248	2016-04-08T15:29:54	Excited to announce our investment in South Africa-based Custos which uses bitcoin bounties to combat digital piracy 
+ltabb	718421481919803396	2016-04-08T12:53:23	Credit Traders Drawn by Allure of Equity Options 
+ltabb	717743006779105280	2016-04-06T15:57:22	ThemisSal good q. historically I would say yes. but w/fines these days - rules aren't bad. but generally principals are better than rules.
+ltabb	717742302647742469	2016-04-06T15:54:34	ThemisSal for trade-through? yes, 1 second is too long. for routing brokers - micros are probably too narrow, but a second is way too long
+ltabb	716036594705240065	2016-04-01T22:56:42	Really interesting article by bradleyhope The Secret Money Behind ‘The Wolf of Wall Street’ 
+ltabb	714918218104762368	2016-03-29T20:52:40	Blythe Masters digitalassetcom and Mike Bodson The_DTCC DTCCBlockchain 
+ltabb	714913487928107008	2016-03-29T20:33:52	Blythe Masters digitalassetcom - "building bridges and tunnels into existing financial infrastructure". DTCCBlockchain
+ltabb	714907727118655488	2016-03-29T20:10:59	I didn't vote 4 BC cause of high valuation factor of BC firms. But would certainly think about building/being client 
+ltabb	714873685795028992	2016-03-29T17:55:43	telisdemos actually DTCC corrected me it's only 1.9 quadrillion :-) dtccblockchain
+ltabb	714826582980960256	2016-03-29T14:48:32	Don't miss the lunch debate if you are at DTCCBlockchain today. TABBGroup CEO ltabb is leading this discussion. 
+ltabb	714620515810414592	2016-03-29T01:09:42	Good article, but Lynne-is this title non PC? Or am I waring my PC-glasses :-)? Or is this just counter- trump? 
+ltabb	714513827048636417	2016-03-28T18:05:46	Bobby Jain jumps to Millennium -
+ltabb	713167407779561473	2016-03-25T00:55:34	jgreco mechmarkets ChuckHill137 DLauer yes but that is done through 2 or more exchanges, not under one license
+ltabb	713167120373256192	2016-03-25T00:54:26	mechmarkets jgreco ChuckHill137 DLauer Don't know. Will have to see about de minimis rule. If they pass then anything could be possible
+ltabb	713165421046800385	2016-03-25T00:47:41	jgreco mechmarkets ChuckHill137 DLauer that I would doubt - but it would be interesting if they did
+ltabb	713163781203968000	2016-03-25T00:41:10	jgreco mechmarkets ChuckHill137 IEX DLauer Do they own data center or have colo space to rent? better question w/b port fees/access
+ltabb	713160198496632832	2016-03-25T00:26:55	mechmarkets ChuckHill137 IEX DLauer BATS was free. When they began charging they offered discount. Free 2 not = discount great marketing
+ltabb	713157639451123716	2016-03-25T00:16:45	mechmarkets ChuckHill137 DLauer IEX Made big deal re:free. Not likely 2 change soon. If successful--free=hard when others charge--easy $
+ltabb	712698940756529153	2016-03-23T17:54:03	Fair access not fare access
+ltabb	712800265666056193	2016-03-24T00:36:41	Well one now :-) 
+ltabb	712653674720403457	2016-03-23T14:54:11	Market Data Feed Fight, a SIP Alternative and … Uber -TabbFORUM ltabb MayStreet2 marketdata WallStreet 
+ltabb	712451082794852352	2016-03-23T01:29:09	mechmarkets much better to use speed to pick off uninformed ie buy side. They know where they want to trade but unaware of supply/demand
+ltabb	712450614236549120	2016-03-23T01:27:17	mechmarkets disagree completely - will deteriorate quote. If you can't tell where the price is - how can u quote tightly?
+ltabb	712449921736048640	2016-03-23T01:24:32	mechmarkets why would u think LL will tighten quotes? What is incentive if I can hit replay button &amp; match wherever or DK. W/widen quotes
+ltabb	712449133777276928	2016-03-23T01:21:24	mechmarkets good question. I think it's good for ATSs. Mkt maker quotes will be wider as prices less definitive. Midpoints more valued
+ltabb	712434740880547841	2016-03-23T00:24:13	mechmarkets jgreco if pigs had wings.... :-)
+ltabb	712434463859286017	2016-03-23T00:23:07	sumohurd agreed - that would be so bad
+ltabb	712434018973671424	2016-03-23T00:21:21	mechmarkets maybe - would have to be done via order type. Having 2 matching models in same exch may be problem. But there are rlps,so maybe
+ltabb	712433015851331584	2016-03-23T00:17:22	Agree. I think sb mkts will have natural caps - RT Mkts will maintain maj of flow. Maybe 20% total but that's a swag 
+ltabb	712432086976573441	2016-03-23T00:13:40	mechmarkets not sure high vol exch will employ sb. At EoD mkt makers want 2 trade. Best reliable prices &amp; comp will drive flow&amp;share
+ltabb	712422247567261697	2016-03-22T23:34:34	Agree completely. Still first in first out - just 350 micros later. 4 a more interesting SB model look at PDQ_ATS 
+ltabb	712415650686193664	2016-03-22T23:08:21	U need aggressive quotes - few will aggressively quote w/o rebate. But will get SIP data fees &amp; lower clearing fees 
+ltabb	712414914090901504	2016-03-22T23:05:26	all will copy - its a no brainer there are 5 mkts w/ &lt;5% share + NDAQ now has ISE with 3+. Written about this 4 mths 
+ltabb	711988179834765312	2016-03-21T18:49:44	Head exploding in DC foreign policy as Trump says US should reconsider NATO participation.  
+ltabb	711967203969646593	2016-03-21T17:26:23	The FT's nicoleabullock reports SEC interpretation could lead to IEX copycats - ltabb agrees it opens the door 
+ltabb	711179813260828672	2016-03-19T13:17:35	7) The most straightforward solution to markets' complexities is not introducing new ones. It's by removing cause of it: Rule 611
+ltabb	710908997688287232	2016-03-18T19:21:27	1. I just learned this won a bronze in the Society for News Design's Malofiej awards rjnskl &amp; adamrpearce rule!  
+ltabb	711230638163173377	2016-03-19T16:39:32	This post by rajivatbarnard is absolutely brilliant re IEX. Gives me confidence it will be (belatedly) approved: 
+ltabb	711025114247241730	2016-03-19T03:02:52	I guess because the sec says so :-)? Agree should get rid of order protection. Would simplify market structure  
+ltabb	711009646207746048	2016-03-19T02:01:24	No I just blocked an ahole 
+ltabb	711009243009306624	2016-03-19T01:59:48	sumohurd IEX HFT I didn't see anything about tape fees but i read it pretty quickly - is that in there?
+ltabb	711006586395824129	2016-03-19T01:49:14	That seems to be what nanexllc wants.  
+ltabb	711006129778774022	2016-03-19T01:47:25	sumohurd IEX HFT that is kind of what this means - track all ticks w/i last mili &amp; fill @ worst &amp; u are cool. is this really good policy?
+ltabb	711004214965747712	2016-03-19T01:39:49	not 1 micro but is less than 1 millisecond de minimis? 
+ltabb	711003429964029952	2016-03-19T01:36:42	Seems like SEC honing in on is &lt;1micro latency imp? So is this a green light or setting IEX up to deny? HFT 
+ltabb	711001254454042624	2016-03-19T01:28:03	SEC IEX comment Qs... will 1ms impair EQ?,Should 1ms be de minimis? s/SEC worry about manip? Anything else? hft 
+ltabb	710999191431077888	2016-03-19T01:19:51	Looks like SEC thinks 350micrs is de minininus - Assume IEX will get its medallion hft  
+ltabb	710923918543036417	2016-03-18T20:20:45	Just read from antoniabmassa that Pankil Patel from CS left the firm today.
+ltabb	710847494515720193	2016-03-18T15:17:04	Oh No! Three more months of this. Oy! That said NASDAQ took 5 years.... 
+ltabb	710841689527681024	2016-03-18T14:54:00	Really good piece on what folks are doing with blockchain in financial mkts by CandyceEdelen 
+ltabb	710826729892401152	2016-03-18T13:54:33	ltabb Weeden - not Weeded !!!
+ltabb	710826622107127808	2016-03-18T13:54:07	Weeded "the rules suggesting that IEX’s quotes should be denied trade-through protection should be upheld" 
+ltabb	710638529718718464	2016-03-18T01:26:43	EU rejects Mifid II trading reforms -   via FT
+ltabb	710641581221650433	2016-03-18T01:38:50	Why IEX becoming an exchange will hurt retail investors HFT - 
+ltabb	710599518073577473	2016-03-17T22:51:42	Herewegoagon IEX No
+ltabb	710524240177537025	2016-03-17T17:52:34	NEWS: EU rejects Mifid II trading reforms (FT)($) 
+ltabb	710203833641771010	2016-03-16T20:39:23	NEWS: Updated: State Street to shut FCM business (The Trade)($) 
+ltabb	710241531526037504	2016-03-16T23:09:11	EU looking to walk back some the post GFC bank capital rules, which should work out well for everyone  
+ltabb	710164116598607872	2016-03-16T18:01:34	Condi Rice keynotes fia boca 2016 
+ltabb	708710172789755904	2016-03-12T17:44:07	TradingDutchman HFT roburban technology Not crying for them - but stat arb guys &amp; HFs getting faster &amp; isn't  so easy &amp; more expensive
+ltabb	708425560121348096	2016-03-11T22:53:10	What is the opposite of a heart? :-( 
+ltabb	708424909433806848	2016-03-11T22:50:34	mechmarkets inkbacker AlgoTrdr IMHO much more to do with options exch &amp; esp clearing. equity medallion optionality - nice to have.
+ltabb	708361902594924545	2016-03-11T18:40:12	He is right on target. hft being squeezed out by fast hedge funds with way more capital 
+ltabb	708351631331614720	2016-03-11T17:59:24	RemcoLenterman mechmarkets mattleising you just stop seeing them :-)
+ltabb	708351492307161088	2016-03-11T17:58:50	mechmarkets RemcoLenterman mattleising welcome to the party pal.
+ltabb	708335281510944768	2016-03-11T16:54:26	Not really. Best Ex forces bkrs to connect &amp; pay for direct data &amp; tech. more exchanges more connections &amp; fees 
+ltabb	708330472389091329	2016-03-11T16:35:19	Probably not tech - its the comms latency, pinging, intermediation &amp; data cost will just upset many folks 
+ltabb	708327654785720320	2016-03-11T16:24:07	mechmarkets inkbacker algotrdr can u imagine 16 equity markets? With 4 or 5 different speedbumps? What a mess. Folks hate mkt str now.
+ltabb	708326394464497664	2016-03-11T16:19:07	inkbacker mechmarkets Yes - I think - 1 license can do both eq &amp; op - may need approval but not hard 2 get-unless odd ball structure
+ltabb	708325802748862468	2016-03-11T16:16:46	mechmarkets But BSX &amp; PSX share small - not sure Y they need 3 more mkts to do speedbump. But w/6 Y not experiment - but 16mkts - argh!
+ltabb	708324106396180480	2016-03-11T16:10:01	duh - ISE has 3 more - U are right give them ability to open 3 more equity exchanges.   
+ltabb	708323707194888192	2016-03-11T16:08:26	mechmarkets not sure I agree, already v/easy to get license. Now getting one with market share - different story
+ltabb	708323122609594369	2016-03-11T16:06:07	mechmarkets IEX even tho NADA has 6-not sure they can add more EQ Ex. each license can do 2 but bsx/psx already do Eq&amp;Op - ? re: ndaq/nom
+ltabb	708321251325038592	2016-03-11T15:58:40	mechmarkets IEX sure - i think you were at 5 (4+IEX)
+ltabb	708318067160424448	2016-03-11T15:46:01	IEX shoebox coveted by Nasdaq (and probably others) - &amp; thats just one of the issues with IEX becoming an exchange. 
+ltabb	708316944466841600	2016-03-11T15:41:34	duncanjw great to see you too. excellent discussion on cloud and blockchain - looking forward to many more.
+ltabb	707716896389468161	2016-03-09T23:57:11	Na, short squeezing the the 2,7, and 10 year notes kind of did him in.  
+ltabb	707688990334459904	2016-03-09T22:06:18	A Wall Street legend passes: John Gutfreund, former ‘King of Wall Street,’ dies at 86  WSJ 
+ltabb	707687278613831680	2016-03-09T21:59:30	Is Blockchain the Uber for Banking? Toni_Lapp BankNews_Media reviews its potential with some insight from ltabb 
+ltabb	707374908507082754	2016-03-09T01:18:15	SEC’s Chief White rules out stock-market overhaul in her tenure.  
+ltabb	707350981202321409	2016-03-08T23:43:10	DLauer mechmarkets RobinWigg RemcoLenterman Ah - Tervela - I remember them. Never got the traction they deserved.
+ltabb	707330010399559680	2016-03-08T22:19:50	Exactly. Front running also legal term. Means U trade in front of UR client. Front running can only B done by UR bkr 
+ltabb	707255009407324160	2016-03-08T17:21:49	Wow, congrats Ray! 
+ltabb	707174811659845632	2016-03-08T12:03:08	ChuckHill137 mechmarkets RobinWigg My pt-if U don't want HFT U will wait a long time &amp; miss liquidity &amp; still interact with them
+ltabb	706997214791540736	2016-03-08T00:17:26	NYSE files to offer its prop data feeds to Federal Agencies for free in support of their regulatory responsibilities 
+ltabb	706977567581011969	2016-03-07T22:59:21	mechmarkets RobinWigg RemcoLenterman The same time they last had a competitive chip?   :-(
+ltabb	706975817537089536	2016-03-07T22:52:24	RemcoLenterman RobinWigg mechmarkets did u ever talk with Peter Kovac - he tried to vet that trade &amp; couldn't :-)
+ltabb	706975171802955776	2016-03-07T22:49:50	Y but... unless holding period = days, U will miss more by waiting than by trading. May as well not trade at all 
+ltabb	706972203687026688	2016-03-07T22:38:02	mechmarkets RobinWigg see attached - I aggregated SEC mkt structure web data 
+ltabb	706970517035679744	2016-03-07T22:31:20	I'm shocked - truly shocked...  
+ltabb	706970029213011968	2016-03-07T22:29:24	mechmarkets but manual trader el morte. Look at SEC mkt str web, 37% LG caps ords exe w/i 1 sec. What pro can afford to miss 1/3 of LC liq?
+ltabb	706968507041378305	2016-03-07T22:23:21	mcgunay mechmarkets MarketPlumber  but Y? parity is all anyone is asking 4. Big question now is sanctity of quote-esp if there R 3-5bumps
+ltabb	706967960880021504	2016-03-07T22:21:11	True - but latency does matter. why route if you are routing to a historic view of the market?  
+ltabb	706967690838155264	2016-03-07T22:20:06	agreed 
+ltabb	706967525746155520	2016-03-07T22:19:27	Interesting idea, b/Y wouldn't U just take other liquidity 1st b4 going to IEX. Unless u don't trust other routers.  
+ltabb	706966562486538240	2016-03-07T22:15:37	so if you send direct -- latency = 350 mics but route-able orders have 700mics to order book. So go direct. 
+ltabb	706966114702598144	2016-03-07T22:13:51	I was just reading this. Seems like route-able orders have an extra 350mics to order book. So not 350 b/700 - odd. 
+ltabb	706941216164855808	2016-03-07T20:34:54	Read pattersonscott dark pools - a very good history of electronic trading. don't fully agree with ending but vgood 
+ltabb	706853981511929857	2016-03-07T14:48:16	Woman Starves To Death Trapped Inside Elevator- And I thought our elevators were bad at 115 Bway TabbJalexander 
+ltabb	706521991252205568	2016-03-06T16:49:03	Peyton to announce retirement after 18-year career 
+ltabb	706521000326909956	2016-03-06T16:45:07	Really good read! 
+ltabb	706502042060263424	2016-03-06T15:29:47	pretty good definition of a market maker  
+ltabb	705868737728159744	2016-03-04T21:33:16	NEWS: 40 top banks just did an experiment of 'unprecedented scale' with the technology behind bitcoin (Bus... 
+ltabb	705852923138412544	2016-03-04T20:30:25	after rearranging 3 mtgs w/CEOs FIA Boca &amp; booking 6am tkts to DC to debate Brad K of IEX he cancels on me - argh
+ltabb	705842008921870336	2016-03-04T19:47:03	NEWS: INSIGHTS: IEX's Impact On Retail Investors (Traders) 
+ltabb	705809569323184128	2016-03-04T17:38:09	.ltabb's latest blockchain research for TABBGroup breaks down the challenges:  
+ltabb	705103311507169281	2016-03-02T18:51:44	mechmarkets but not to the matching engine. only 350 in and 350 out to matching engine. At least that was what someone close told me
+ltabb	705103033626206208	2016-03-02T18:50:38	mechmarkets I think so. somehow there is another 350bump if you route. so instead of bypassing bump w/routing it goes over bump 2x
+ltabb	705099918537572353	2016-03-02T18:38:15	I heard-350 to &amp; from ME-700 total. W/router, 350 to pop, 350 to router, 350 to other exch 1050 total. but c/b wrong 
+ltabb	705056000982781953	2016-03-02T15:43:44	Great article. Been chatter about this for years. Not sure that the merger ever worked well for LCH or Clearnet 
+ltabb	705052601449127936	2016-03-02T15:30:14	What is the state of US clearing? Join TABB CEO ltabb and The_DTCC to discuss in an online roundtable on March 8: 
+ltabb	704855619396902912	2016-03-02T02:27:29	no, there are a #, Liquidnet, BIDSTrading, blockcross, ITGinc Posit, Aqua, Luminex, &amp; a few bkr pools do big size 
+ltabb	704854421562388480	2016-03-02T02:22:44	mechmarkets I am not so sure that that will get through SEC vetting - that said as an aggregate (multi mkt) OB it will be exactly that
+ltabb	704854023766204416	2016-03-02T02:21:09	PaulWestmontUsa mechmarkets that is really interesting - higher rebate for greater adverse selection risk
+ltabb	704813478557655045	2016-03-01T23:40:02	yes but... traders like finality. I would doubt many would go to market w/LL when there is a wysiwyg market 
+ltabb	704812806303031296	2016-03-01T23:37:22	Absolutely right but opportunity costs would be high. Can you imagine - 100 shares dked cause markets moved? yuck!  
+ltabb	704811793550548993	2016-03-01T23:33:21	LL is appropriate when U use capital. Its an accommodation. if U guarantee capital - U don't deserve to be hosed 
+ltabb	704811103713361920	2016-03-01T23:30:36	mechmarkets Last Look for exchanges died when NDAQ became exchange. LL is a function when using capital (OTC) across products
+ltabb	704810008664543232	2016-03-01T23:26:15	Our biz is to listen &amp; inform. Isn't that def of research? Focus of biz has moved south. I know markets not politics 
+ltabb	704808545951342593	2016-03-01T23:20:26	Simplest market is something like Liquidnet. Its only the buyer and seller negotiating - well mostly midpoint.  
+ltabb	704808070627659776	2016-03-01T23:18:33	absolutely. 
+ltabb	704807918802227205	2016-03-01T23:17:57	not to mention that everyone gets their own quote montage - FX ain't equities by a long shot 
+ltabb	704807260418138112	2016-03-01T23:15:20	so mechmarkets, AlgoTrdr &amp; I at 5, TylerGellasch &amp; DLauer are at 3 (but they work together :-) ) 
+ltabb	704806351415988224	2016-03-01T23:11:43	unfortunately so. 
+ltabb	704805276193525760	2016-03-01T23:07:27	so AlgoTrdr is at 5+, I'm at 5 including iex, TylerGellasch is at 3, DLauer is at 3, mechmarkets is at 4 - so spread = 3-5 miss anyone?
+ltabb	704803980380151808	2016-03-01T23:02:18	agreed. many bumps many models - w/b hard to know the best price 
+ltabb	704803500409163776	2016-03-01T23:00:23	that's a good thing. longer duration quotes should get higher priority. Folks should get rewarded for that! 
+ltabb	704715904567943168	2016-03-01T17:12:19	I agree as well. All it will do is hurt ability to match inbound orders as data will be slow 
+ltabb	704649282616475649	2016-03-01T12:47:35	This is very good and interesting once you get past the theme :-) Isabella is one smart lady  
+ltabb	704476041956425728	2016-03-01T01:19:11	DLauer mechmarkets sumohurd agthreesixty jealous - that would have been a really great show
+ltabb	704475036753797120	2016-03-01T01:15:11	mechmarkets sumohurd agthreesixty DLauer very funny song - I miss those guys on hbo
+ltabb	704451108467507200	2016-02-29T23:40:06	mechmarkets sumohurd agthreesixty DLauer do you guys want 2 negotiate every transaction? sometimes (often) folks want 2 see price &amp; hit
+ltabb	704450717675872257	2016-02-29T23:38:33	mechmarkets sumohurd agthreesixty DLauer Lets simplify it - how do u know the price is no one displays? price discovery is key to mkts
+ltabb	704450373159927811	2016-02-29T23:37:11	mechmarkets sumohurd agthreesixty DLauer Are u guys smoking crack again? completely dark markets, no quoting, eliminate micro alpha? 1/
+ltabb	704430869784743936	2016-02-29T22:19:41	abekohen IEX decided to put router on other side of speedbump about 1hr ago. Odd are for compromise now
+ltabb	704430632399716352	2016-02-29T22:18:45	sumohurd mechmarkets agthreesixty DLauer KidDynamiteBlog Need to ask the BIG Q. What do we want? Jobs? Efficy? Liquidity? Protect Ind?
+ltabb	704429800837013508	2016-02-29T22:15:26	sumohurd mechmarkets agthreesixty DLauer I wrote a piece years ago saying why bother displaying quantity-w/algo &amp; icebergs...immaterial
+ltabb	704429158793920516	2016-02-29T22:12:53	ASX just inked blockchain deal w/NASDAQ- didn't ASX just invest in digitalassetcom?  
+ltabb	704426852123852800	2016-02-29T22:03:43	ltabb mechmarkets sumohurd agthreesixty DLauer US topped at 38%, UK 40% was always tossed around. Dark doesn't work without lit.
+ltabb	704426170830462978	2016-02-29T22:01:01	mechmarkets sumohurd agthreesixty DLauer good Q. Doubt it. While not scientific, seems like mkts have natural 40%+/- dark cap.
+ltabb	704418567194861568	2016-02-29T21:30:48	And clients need better transparency and analytics to know who is doing a good job. I'm biased but not wrong 
+ltabb	704417893770010624	2016-02-29T21:28:07	DLauer agthreesixty mechmarkets but routing and getting to the venue is the bkr's job. they need better tech
+ltabb	704417580749082624	2016-02-29T21:26:53	sumohurd agthreesixty DLauer vgood points. but gl trying to get the full dob displayed. as for stepping back - bkrs need better tech
+ltabb	704415197054832646	2016-02-29T21:17:25	agthreesixty DLauer Not 100% but degraded. Exchanges in biz of price discovery not price obfuscation-that is my concern
+ltabb	704414636691611648	2016-02-29T21:15:11	mechmarkets DLauer agthreesixty agreed! deterioration of the quote. what is right bid/offer? Who knows?
+ltabb	704414365550829568	2016-02-29T21:14:06	I don't think u can say that. Not all bumps w/be good for investors. GL figuring out which ones good vs bad 
+ltabb	704413922141605888	2016-02-29T21:12:21	Significant advantages to being an exchange a) data rebates, b) order protection c) clearing fees-in that order 
+ltabb	704413508251885568	2016-02-29T21:10:42	Agree 100% - one alpha, one random, like Aequitas, and one other model - none will be similar 
+ltabb	704412520350621700	2016-02-29T21:06:46	Over/under? My guess-4 speedbumps besides IEX w/i 1yr of approval. Anyone else? 
+ltabb	704412309695942656	2016-02-29T21:05:56	Big Q will be-how many other Exchs w/ follow &amp; what happens to quote quality?  
+ltabb	704409484052013056	2016-02-29T20:54:42	That is the crux, should exchanges have an edge (esp a big one)? but accurately pricing midpoints is a great feature 
+ltabb	704406836687085568	2016-02-29T20:44:11	`Flash Boys' Exchange Offers Fix for Key Objection From Critics 
+ltabb	704402567376326658	2016-02-29T20:27:13	ltabb not firewall - speedbump oops
+ltabb	704402327021752320	2016-02-29T20:26:16	IEX amends exchange app to make router go over the firewall. hft 
+ltabb	704342948062875649	2016-02-29T16:30:19	Bank liquidity / capital regulations coming home to roost? 
+ltabb	704297899719577600	2016-02-29T13:31:19	IanAllison123 sure - message me privately and I will give you contact details
+ltabb	704011622071844864	2016-02-28T18:33:45	Mcdtv sure message me privately and I will give you my email - or you can ask dave, jesse or erika
+ltabb	704009593765109762	2016-02-28T18:25:41	You are a bit biased :-) (but so are many) Love to hear how. Ur site doesn't say much. Talking w/ur ceo in 3 weeks.  
+ltabb	703368625156198400	2016-02-26T23:58:42	good question? dark book is 9/9 - not sure if iex passes back rebate as IEX s/get credit, not sure if they rebate 
+ltabb	703324394614030336	2016-02-26T21:02:57	Exactly. Phantom liquidity. A displayed quote that doesn't exist. But didn't know they had an OT to exacerbate it:-) 
+ltabb	703320816117800961	2016-02-26T20:48:44	Y seems like a bkr function. but that is IEX underlying issue-part bkr &amp; part exchange. that's why folks love &amp; hate 
+ltabb	703320051496177669	2016-02-26T20:45:41	resting ISO?  
+ltabb	703319657596522503	2016-02-26T20:44:08	agree-when they are getting filled away - move more liquidity away &amp; y, no bump - replenishment timing w/b a problem 
+ltabb	703315972153876484	2016-02-26T20:29:29	when route2rest order finds liq away, iex reduces reserve in relation to shares executed away. that's how I read 
+ltabb	703313183612780544	2016-02-26T20:18:24	mechmarkets RemcoLenterman DLauer elnunesio got a page number - need more context
+ltabb	703263228705574914	2016-02-26T16:59:54	VIDEO: Market Structure Weekly With Larry Tabb: Algo Secrets, the Rise of Robos, Last Look, Jane Street Ste... 
+ltabb	703239639830827009	2016-02-26T15:26:10	More from ltabb &amp; TABBGroup on addressing blockchain challenges by izakaminska 
+ltabb	703236068183838720	2016-02-26T15:11:58	NYSE's new tech hit a blip in its first week. Pillar's been bumped back to test mode until March 8: 
+ltabb	702711170315194368	2016-02-25T04:26:13	Interesting IEX letter - Haoming Chen of Univ NS Wales &amp; Sean Foley, Ph.D. of U Sydney comparing various speed bumps 
+ltabb	702566823078694912	2016-02-24T18:52:38	Brutal. Really interesting read. 
+ltabb	702295306914963456	2016-02-24T00:53:43	Spread Networks (the co. that Michael Lewis wrote about in "Flash Boys") is still trying to shave microseconds. 
+ltabb	702124949733904385	2016-02-23T13:36:47	Chris Bruner of Tradeweb discusses flexibility in credit trading w. ltabb tabbfixed  
+ltabb	702336194793885696	2016-02-24T03:36:12	I agree - years!? @#$%^!  No wonder why there is so much "discussion" about market structure. 
+ltabb	702111406997512193	2016-02-23T12:42:58	On the way to DC for the CFTC TAC meeting. Great that the CFTC has restarted it after Commissioner ScottOMalia went off to lead ISDA
+ltabb	701762142970716160	2016-02-22T13:35:07	Is blockchain the Holy Grail? Latest TABBGroup report reviews its challenges &amp; application in the capitalmarkets 
+ltabb	701784072591433728	2016-02-22T15:02:16	And ltabb will join the Lunch Debate: Blockchain...The Right Model for the Securities Industry?  
+ltabb	701055504659968002	2016-02-20T14:47:11	While this is good news - what was going on before? Bats Global Markets gets okay to speed manipulation crackdowns 
+ltabb	700777282055569408	2016-02-19T20:21:38	mechmarkets ThemisSal jgreco So I send my order &amp; someone gives me a best price over the last x time look back option? GL with that.
+ltabb	700750426665312256	2016-02-19T18:34:55	ThemisSal mechmarkets jgreco you mean I have to listen to you sing - argh!
+ltabb	700749254604759040	2016-02-19T18:30:16	ltabb ThemisSal mechmarkets jgreco How does slowing 1 source make it harder to pick off retail-w/b easier. wider latitude where to price
+ltabb	700748727892516866	2016-02-19T18:28:10	ThemisSal mechmarkets jgreco yes I kind of missed the 3 tick boogie reference too.
+ltabb	700729695755755521	2016-02-19T17:12:33	Big Banks, HFT &amp; NYSE, IEX, sale of CHX, and more today on Market Structure Weekly with ltabb at TabbFORUM: 
+ltabb	700731873480282112	2016-02-19T17:21:12	jgreco the router is the bigger issue. That said speedbump obfuscates best price w/only IEX knowing true price - albeit for 350micros
+ltabb	700435955522658306	2016-02-18T21:45:19	IEX `Speed Bump' Seems to Comply With Rules, Finra CEO Says 
+ltabb	700331821750489091	2016-02-18T14:51:32	CadeMetz read your blockchain piece. Many challenges adopting blockchain settlement for equities. love to talk. 
+ltabb	700087191297462272	2016-02-17T22:39:28	NEWS: Break Up the Big Banks? Do This First (WSJ)($) 
+ltabb	700040009995440128	2016-02-17T19:31:59	Join me &amp; The_DTCC for round-table discussion on State of US Clearing -Webinar March, 8th at 11am (EST) / 8 am (PST)
+ltabb	700038872898674688	2016-02-17T19:27:28	New research for folks working on  blockchain - Blockchain Clearing &amp; Settlement: Crossing the Chasm 
+ltabb	699781723773603840	2016-02-17T02:25:38	And yes this was self-funded and no we weren’t lobbying but when asked we did provide our thoughts. That is what an analyst does  5/5
+ltabb	699781564201332738	2016-02-17T02:25:00	Also market data, blockchain clearing, &amp; market structure thoughts across a number of asset classes 4/5
+ltabb	699781463475142657	2016-02-17T02:24:36	Talked about a lot of our research including Basel III, TBTF, liquidity challenges, electronic bond trading, SEFs, corp bond platforms…, 3/5
+ltabb	699781271455670272	2016-02-17T02:23:51	Went w/my co-head of research Anthony Perrotta. Talked with CFTC Chair Massad, US Treasury, FINRA, &amp; SEC Coms Stein, &amp; Piwowar’s staff 2/5
+ltabb	699781141033783296	2016-02-17T02:23:19	Interesting that there’s so much discussion on my trip to DC last week. 1/5
+ltabb	699776512048943104	2016-02-17T02:04:56	New research for folks working on  blockchain - Blockchain Clearing &amp; Settlement: Crossing the Chasm 
+ltabb	698208431807791104	2016-02-12T18:13:56	See which 3 equities ATSs had the highest month over month volume increases in Jan-16.  
+ltabb	695752574788571136	2016-02-05T23:35:14	I wrote about seating charts. 
+ltabb	695722782617948160	2016-02-05T21:36:51	Pics are up from last week's Fixed Income Event - see the movers &amp; shakers of Fixed Income  
+ltabb	694896370373783552	2016-02-03T14:52:59	NYSE seeks to abandon the controversial Rule 48, reports nicoleabullock 
+ltabb	694883827244728320	2016-02-03T14:03:09	Hedge Fund Alert saying that Wells is in talks to buy CSs investment bank, cap mkts biz including their prime 
+ltabb	694200554285879296	2016-02-01T16:48:04	WSL February issue OUT; stories via NICE_Actimize Algomi_Ltd Linedata TABBGroup Liquidnet Bloomberg NASDAQ 
+ltabb	694179416272982017	2016-02-01T15:24:04	On BloombergTV at 2:30 p.m., I'll talk to the TABBGroup's ltabb about AGSchneiderman's darkpools settlement: .
+ltabb	693898719964631041	2016-01-31T20:48:41	NEWS: Credit Suisse, Barclays to Pay $154.3 Million to Settle 'Dark Pool' Investigations (WSJ)($) 
+ltabb	692731643673600000	2016-01-28T15:31:08	ANOUN: New York Stock Exchange Outlines Priorities to Strengthen Equity Market Structure During Extreme Vol... 
+ltabb	692725066384162816	2016-01-28T15:05:00	just finished reading full DTCC blockchain report. Very good piece. 
+ltabb	692724569271042049	2016-01-28T15:03:02	We hope to see you today at the TabbFORUM "Fixed Income 2016: The BIG Fix" event at the TimesCenter in NY! TABBFixed
+ltabb	692706720913756160	2016-01-28T13:52:06	Market Data Deathmatch:The Increasingly Brutal Fight Over Equity Market Data Costs - 21 pages 
+ltabb	692391887794212865	2016-01-27T17:01:04	
+ltabb	692355642430980096	2016-01-27T14:37:03	Very interesting rpt- but market data abnormalities big factor. Had heard that at the time but theory kind of died. 
+ltabb	692350507587887104	2016-01-27T14:16:38	Boom. Proper, incisive, and correct lead-in by uglylukes 
+ltabb	692061573800706052	2016-01-26T19:08:31	You know you have made it when.... congrats 
+ltabb	692027092666601474	2016-01-26T16:51:30	I guess this means its official :-) 
+ltabb	692017016299986944	2016-01-26T16:11:28	Nice analysis of market data costs, ltabb. We provide full transparency around the MD fees for the xchngs we carry 
+ltabb	692019254133182465	2016-01-26T16:20:21	"Panic may be warranted" at the Fed, says Paul Krugman. 
+ltabb	692007304699514880	2016-01-26T15:32:52	vyodaiken our piece on the value of a millisecond came out in '08 and were covering algos since we were founded in '03
+ltabb	692005919027232768	2016-01-26T15:27:22	Certainly not you :-). Can't let all of these uninformed folks get you down. When's the next authoritative book due? 
+ltabb	691989155732156417	2016-01-26T14:20:45	Congress begins to question IEX fairness; urges SEC to thoughtfully consider market impacts. HFT 
+ltabb	691986525018558464	2016-01-26T14:10:18	Massad: Let Market Decide What It Wants from SEFs - Chrman Massad been spending 2 much time w/ giancarloCFTC ? :-) 
+ltabb	691629758157885440	2016-01-25T14:32:38	TABB Fixed Income Event-see Cushing Wellington, Vanguard, Blackrock, Oppy, Jane St &amp; more  
+ltabb	691432777812688900	2016-01-25T01:29:55	The CFTC Technology Advisory Committee meeting scheduled for Tuesday has been cancelled due to the weather. To be rescheduled ASAP.
+ltabb	691427478372552704	2016-01-25T01:08:51	JC Flowers just bought Chi-x Australia, Japan and Chi-tech from Nomura - amount undisclosed
+ltabb	690929269766262788	2016-01-23T16:09:09	Mike Bloomberg thinking of indy pres bid. Of alternatives, he would have my vote - 
+ltabb	690544690878222336	2016-01-22T14:40:58	Anyone who hasn't listened to Ray Dalio's Davos interview, must watch: 
+ltabb	690707896699600897	2016-01-23T01:29:29	ltabb RobinWigg this tweet was for you :-)
+ltabb	690707342699171840	2016-01-23T01:27:17	you need to come up to SnowBorrough (central MA). At least last year you would be more at home 
+ltabb	690564985517445120	2016-01-22T16:01:37	ThemisSal always happy to have a civil discussion / debate
+ltabb	690561727654711299	2016-01-22T15:48:40	Have to wait until next week to read my opinions on why I don't necessarily agree.  
+ltabb	690559512881815552	2016-01-22T15:39:52	Not so sure I would go there. Topic of my next rant :-). most likely next week. 
+ltabb	689839365510537217	2016-01-20T15:58:15	Industry friends.. TABBFixed is just around the corner - Sign up today or reach out for more info!  
+ltabb	689123449722290176	2016-01-18T16:33:28	Death of bitcoin has been covered by NYT, WSJ &amp; FT in last few days. Here's original Mike Hearn blog- good read 
+ltabb	688025496878231553	2016-01-15T15:50:36	IEX Trading Alert #2016 - 002: Updated Exchange Transition Plan and Test Opportunities - Pending SEC approval  
+ltabb	688022688011522048	2016-01-15T15:39:26	Thanks for the clarity. 
+ltabb	688021794687709184	2016-01-15T15:35:53	Sounds like IEX may have gotten the green light. But not 100% clear. If so - wonder if they got Oked in tact? 
+ltabb	688002132180623362	2016-01-15T14:17:45	Interesting article on bitcoin blockchain. Author thinks BC has failed as 2 China miners control &gt;50% resources 
+ltabb	687767815844171778	2016-01-14T22:46:40	NEWS: Goldman Sachs Agrees to $5 Billion Mortgage Settlement (Fortune) 
+ltabb	687103973338169344	2016-01-13T02:48:47	Bon Rubin - political process isn't functioning properly. Compromise is critical to economic success of our nation.
+ltabb	687101864953929729	2016-01-13T02:40:24	Bob Rubin at museum of American finance Gala - receiving the John Whitehead award 
+ltabb	687101197732413440	2016-01-13T02:37:45	Tim Geithner at the museum of American finance gala introducing Bob Rubin 
+ltabb	687094788097708032	2016-01-13T02:12:17	Chuck Schwab at Museum Finance Gala 
+ltabb	686635141503021059	2016-01-11T19:45:49	That is right - he was the first person to securitize concert tickets. Blast from the past. 
+ltabb	686613886536171521	2016-01-11T18:21:21	DanGallagherGrp aarg - lots of lawsuits
+ltabb	686609510887243777	2016-01-11T18:03:58	DanGallagherGrp Think the DOL fiduciary standard issue goes away or they push it through? Or it gets watered down to something workable?
+ltabb	686604533204676608	2016-01-11T17:44:11	DanGallagherGrp this doesn't impact fiduciary responsibility being discussed by SEC and Congress is it?
+ltabb	686558848690352129	2016-01-11T14:42:39	Bowie, so sad. Many fond memories of listening to Bowie in the early &amp; mid 70's. A real influence to us all 
+ltabb	685637011043127296	2016-01-09T01:39:36	nanexllc I read that. its intersting. Can't validate data. But not unlike what do with Clarity, except work with invest to fix these probs
+ltabb	685636300909744128	2016-01-09T01:36:47	nanexllc Y. LT investors... I agree. Mkt should be tipped toward investors. But tight quoting makes it cheaper for investors.
+ltabb	685635455291944960	2016-01-09T01:33:25	nanexllc I am not saying anything like that. But if my ex quality sucks then my broker should be fired. been saying this for years
+ltabb	685635147438374912	2016-01-09T01:32:12	nanexllc If that is basis, then SEC will approve IEX &amp; if mkt complexity increases - maybe that's a good. More confusion may = larger size
+ltabb	685633012478926850	2016-01-09T01:23:43	nanexllc true - but if the taker was quicker... And if not - then that becomes a spoofing issue that hopefully FINRA would take issue with
+ltabb	685631352746721280	2016-01-09T01:17:07	DesTvil nanexllc no. it's live until either the quoter cxls it or the liquidy is taken.
+ltabb	685630928568332288	2016-01-09T01:15:26	nanexllc what nyse deal? love to hear about it
+ltabb	685630675899314176	2016-01-09T01:14:26	nanexllc ? so you light up a quote at XYX. If I am quick enough &amp; go direct w/o dp or some other thing - I can't get that quote?
+ltabb	685630103498440705	2016-01-09T01:12:09	nanexllc Yes it is. But exch rules set by regs. If SEC says IEX is cool then great. it may cause other issues but mkt will figure it out
+ltabb	685629565427937281	2016-01-09T01:10:01	nanexllc every quote is real. the challenge is accessing it quickly &amp; directly. Seems like a data, routing, connectivity &amp; tech prob
+ltabb	685628706119880706	2016-01-09T01:06:36	nanexllc best idea - better data,  measurement,  transparency, &amp; analytics so you can avoid the folks that suck! Transparency &amp; competition
+ltabb	685628218418827264	2016-01-09T01:04:40	nanexllc Also what if NDAQ/Arca... put in their own speed bumps? wouldn't that defeat IEX router advantage?
+ltabb	685627876671143936	2016-01-09T01:03:18	nanexllc Ok say IEX is approvied as is. Won't others follow w/slightly different models? Won't it be harder to know what is real?
+ltabb	685624517272670215	2016-01-09T00:49:57	nanexllc What is alternative? specialists? Old mkt maker system? Wider tick? Synch sip &amp; DF (that I am for)? Ban computers? How do we fix?
+ltabb	685623933165527041	2016-01-09T00:47:38	nanexllc what will I see? quick cxlled quotes? prints outside nbbo? lots of routing? I know  this happens. We measure it. Not all nefarious
+ltabb	685596254743728128	2016-01-08T22:57:39	nanexllc IEX elnunesio Biggest issue I think would be funky midpoint prints in moving mkt. not sure how regulators would  would like that
+ltabb	685595521852010498	2016-01-08T22:54:44	nanexllc IEX elnunesio as for dropping 350u &amp; routing concurrently (ndaq) it gets rid of some Larb, but IEX prob wants more protection
+ltabb	685594732639174656	2016-01-08T22:51:36	nanexllc IEX elnunesio if I were the midpoint guy - I would probably be pissed
+ltabb	685594355667701760	2016-01-08T22:50:06	nanexllc IEX elnunesio challenge would be you may have funky executions in a moving mkt where mid ex would look outside of nbbo
+ltabb	685594037273935872	2016-01-08T22:48:50	nanexllc IEX elnunesio Agree that IEX coil mostly benefits midpoint orders. having RT lit vs. delayed midpt is interesting idea.
+ltabb	685593603612225536	2016-01-08T22:47:07	nanexllc IEX elnunesio Adam is right that IEX is against latency arb in IEX but router setup enables IEX to do latency arb on other mkts
+ltabb	685583118825295873	2016-01-08T22:05:27	nanexllc IEX love your take.
+ltabb	685521998831841280	2016-01-08T18:02:35	This is a really good and thoughtful piece on the IEX Exchange application. Nice job elnunesio 
+ltabb	685507441321193472	2016-01-08T17:04:44	Chinese regulators lurching from one policy to another: collars, no collars, cancel msg taxes, what's next? HFT 
+ltabb	684377855657140224	2016-01-05T14:16:10	Not same. The way I read it, ndaq router sends to ndaq &amp; others simultaneously, while IEX delays other bkrs by 350u 
+ltabb	684138103750148096	2016-01-04T22:23:29	abekohen mkt_strctr_guy nytimes NYT ed board has consistantly opined 4 IEX &amp; has avoided presenting the other side or even contra issues
+ltabb	684135725885984768	2016-01-04T22:14:02	RemcoLenterman ThemisSal good luck - too late :-)
+ltabb	684135450303442945	2016-01-04T22:12:56	mkt_strctr_guy iextrading And I don't own an investment in IEX and I am looking at the market from pro/non pro position, unlike  authors
+ltabb	684135091010846721	2016-01-04T22:11:30	mkt_strctr_guy iextrading I think we are on the same page here. And that is basically what my peice said.
+ltabb	684133625529544704	2016-01-04T22:05:41	mkt_strctr_guy iextrading do you really think mkt is rigged? Should an Ivy League univ/mgr of a major endowment be espousing that via nyt?
+ltabb	684132742225915904	2016-01-04T22:02:10	ChicagoPhotoSho nanexllc it gets fixed by changing rules or quantifying tolerances. eveyone should be playing by same rules
+ltabb	684132081157423108	2016-01-04T21:59:33	mkt_strctr_guy So you just let misguided folks share their opinions with the whole NYT community, and not allow discussion?
+ltabb	684131598300778500	2016-01-04T21:57:38	mkt_strctr_guy iextrading Give me a break. How much of that article was just wrong?
+ltabb	684131099660959745	2016-01-04T21:55:39	mkt_strctr_guy yes - I am working on a piece about that now. that should piss off all of the exchanges.
+ltabb	684128462332936192	2016-01-04T21:45:10	mkt_strctr_guy well besides that :-)
+ltabb	684128280828579840	2016-01-04T21:44:27	mkt_strctr_guy abekohen The whole yale peice (except for order types) was bs. Just rehashed michael lewis no proof crap.
+ltabb	684127888698900480	2016-01-04T21:42:53	mkt_strctr_guy Why not? In theory they have as much chance as anyone but without the marketing budget or the bankroll.
+ltabb	684127435353387008	2016-01-04T21:41:05	mkt_strctr_guy it is personal. I am tired of folks saying, without data, that the mkt is rigged &amp; mkt s/b for large institutions
+ltabb	684123412604780548	2016-01-04T21:25:06	ChicagoPhotoSho nanexllc just 350 microseconds later. But their router cuts in line of eveyone else 2/2
+ltabb	684123202843488256	2016-01-04T21:24:16	ChicagoPhotoSho nanexllc Not the same. Speed bump doesn't equalize speed. Someone near IEX gets there faster than someone farther away 1/1
+ltabb	684122704958586880	2016-01-04T21:22:17	mkt_strctr_guy Yes UR right. I was just using shorthand here. look at my past writing.  The point wasn't really IEX here it was Yale
+ltabb	684121409145143296	2016-01-04T21:17:08	mkt_strctr_guy mechmarkets AlgoTrdr Yale Speed Bump? what don't I understand?
+ltabb	684120943967481857	2016-01-04T21:15:18	mkt_strctr_guy mechmarkets AlgoTrdr Yale SB?
+ltabb	684120395847446528	2016-01-04T21:13:07	ChicagoPhotoSho nanexllc that would be  great. But then it pushes you to 1 exchange, or all in same DC, 1 telco provider...no competition
+ltabb	684119845361848320	2016-01-04T21:10:56	agthreesixty I assume they're fighting for their view of a better market for them (pro $ mgr). But is it better for all? Not easy decision.
+ltabb	684116288868872192	2016-01-04T20:56:48	agthreesixty mechmarkets AlgoTrdr The question is for who? For me buying 100 shares or a pro investor buying 1m shares. Hard to do both
+ltabb	684115858369736704	2016-01-04T20:55:05	nanexllc ChicagoPhotoSho I agree-that is the crux of the decision the SEC needs to make. Does the bump impact or facilitate fair markets?
+ltabb	684113905283629056	2016-01-04T20:47:19	ChicagoPhotoSho nanexllc The speed bump - may impact order protection, &amp; router may violate fair access. Up to the SEC to opine
+ltabb	684110695449923584	2016-01-04T20:34:34	Zatara5555 nanexllc ?
+ltabb	684109471493304320	2016-01-04T20:29:42	ChicagoPhotoSho nanexllc I am not against IEX. They should just play by the SEC rules like everyone else - also stop spreading falsehoods
+ltabb	684108972325007360	2016-01-04T20:27:43	nanexllc nope
+ltabb	684106676518162432	2016-01-04T20:18:36	AlgoTrdr mechmarkets really intersting blog post - thx for sharing.
+ltabb	684104303443886081	2016-01-04T20:09:10	mechmarkets AlgoTrdr Yale agreed - but why are they piping out if they don't understand? Without dets, how can U create a better market?
+ltabb	684102199211900930	2016-01-04T20:00:48	mechmarkets AlgoTrdr Yale What does that say for them as a fiduciary/money mgr? They don't understand the market they are investing in?
+ltabb	684101117094047745	2016-01-04T19:56:30	mechmarkets AlgoTrdr Yale This would be an interesting discussion but really hard to entertain in 140 character snippets
+ltabb	684100370210111489	2016-01-04T19:53:32	mechmarkets AlgoTrdr Yale I think they're "believers" &amp; there are mkt structure prob, but to sow fear, they're uninformed or talking book
+ltabb	684098507028959233	2016-01-04T19:46:08	mechmarkets AlgoTrdr Yale By that measure why don't they just invest in any crappy equity? I assume they expt $ from all their invtmts
+ltabb	684097431122919425	2016-01-04T19:41:52	mechmarkets AlgoTrdr Yale They have a fid resp to protect investments. Are they biased...? A mkt to execute size benefits them not retail
+ltabb	684094417121193984	2016-01-04T19:29:53	Yale Flunks Market Structure Exam - my thoughts on the Yale NYT OpEd from Dec 24rd (that NYT wouldn't print) 
+ltabb	684080910275330048	2016-01-04T18:36:13	Interesting artical in Redi newsletter today on Shanghai-Hong Kong Connect 
+ltabb	684042895960207361	2016-01-04T16:05:09	
+ltabb	682647652127870976	2015-12-31T19:40:57	amacker yup. Was probably the 50th person in little cloud this year. Epic
+ltabb	681913947746795520	2015-12-29T19:05:29	Fresh tracks in little cloud! 
+ltabb	681656296026718208	2015-12-29T02:01:40	JohnLothian RemcoLenterman nanexllc hey you also have video capabilities - if Eric says ok you can tape it too.
+ltabb	681656004342235136	2015-12-29T02:00:30	JohnLothian RemcoLenterman nanexllc talk with Eric. I won't voice an opinion as if I say anything Eric will strike you
+ltabb	681553202463027201	2015-12-28T19:12:00	monge25 RemcoLenterman nanexllc and Eric can have the video to post too.
+ltabb	681553029246652416	2015-12-28T19:11:19	monge25 RemcoLenterman nanexllc correction 35 years. Offer still stands. Whenever Eric and I are in NYC - no cost &amp; will donate proceeds
+ltabb	680560718958211072	2015-12-26T01:28:14	RobinWigg good luck convicing your girlfriend/wife :-)
+ltabb	680452989618925568	2015-12-25T18:20:09	StephenFDiamond agthreesixty elnunesio nanexllc Also the guys own a stake in the firm - they are biased
+ltabb	680452867472375808	2015-12-25T18:19:40	StephenFDiamond agthreesixty elnunesio nanexllc No. Real Qs as to IEX following rules. Also no cnterpoint. Just mkt rigged invest harmed
+ltabb	680414770546216960	2015-12-25T15:48:17	Agreed.  Why is the NYT taking a onesided view? I submited a rebuttle but I was dked. Don't take rebuttals on OpEds 
+ltabb	680070087320154112	2015-12-24T16:58:38	very funny. I guess eveyone wants to get their eoy revs. up :-) 
+ltabb	680065334183870464	2015-12-24T16:39:45	its not bad. market data is a mess &amp; very expensive. A better SIP would be good for all - except maybe exchanges 
+ltabb	679027597833965569	2015-12-21T19:56:09	ThemisSal isn't that about this issue of finra historically tying best ex routing to the SIP given its tape of record?
+ltabb	678968873513693185	2015-12-21T16:02:48	mechmarkets RGNewJr ThemisSal DLauer Good question for SEC enforcement. Either way - sb same rules for all players
+ltabb	678964843123097600	2015-12-21T15:46:47	mechmarkets RGNewJr ThemisSal DLauer Not the point. SEC allowed it so why should SEC deny IEX? Retroactive DK = poor policy.
+ltabb	678964266397863936	2015-12-21T15:44:30	mechmarkets DLauer hard to explain in 140 characters - but if you route - its a broker function and SEC treats you as a broker.
+ltabb	678962309117566977	2015-12-21T15:36:43	mechmarkets RGNewJr ThemisSal DLauer My tech sucks shouldn't be an argument
+ltabb	678961806451183616	2015-12-21T15:34:43	mechmarkets ThemisSal RGNewJr DLauer Looks like u r right. if that's case then can't use router as argument. its either level or not
+ltabb	678955748857012224	2015-12-21T15:10:39	mechmarkets DLauer Exch ME should have no exposure-B net S. When u route- u hv exch ctp risk. Exch risk needs to be netted via ccp, ie bkr
+ltabb	678949940257624064	2015-12-21T14:47:34	mechmarkets DLauer Exch need to route cause of NMS Order Protection &amp; routing because of clearing needs to be in seperate B/D
+ltabb	678949431073308677	2015-12-21T14:45:33	mechmarkets DLauer yes but that's just competition. If folks invest to compete &amp; on fair playing field-u can't be upset when they compete
+ltabb	678947375470129152	2015-12-21T14:37:23	mechmarkets DLauer my issue is fairness. if exchanges pref own routers...why can't IEX? doesn't matter if others are crap. that's just IT
+ltabb	678694244924710912	2015-12-20T21:51:32	DLauer mechmarkets ThemisSal RGNewJr Ok so really it doesn't matter cause they suck? And the ~10microsecond advantage is a non issue.
+ltabb	678693282461949952	2015-12-20T21:47:42	DLauer mechmarkets ThemisSal RGNewJr ok say u r right. Don't u think all their clients would be furious about that?
+ltabb	678582125151539200	2015-12-20T14:26:00	NEWS: Trying to Force the S.E.C.'s Hand on High-Speed Trading (NY Times) 

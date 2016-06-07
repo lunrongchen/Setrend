@@ -1,0 +1,180 @@
+altmandaniel	726172445284143105	2016-04-29T22:12:57	Probably one of the coolest things that's ever been done. "dutchmacdonald: We're shipping! "
+altmandaniel	726036467072557056	2016-04-29T13:12:37	.Chobani founder's gesture is commendable. But would be so much better for companies to team up and give diversified stakes to employees.
+altmandaniel	725813585222447105	2016-04-28T22:26:58	A Lesson in Game Theory on "Draft Day":  TBT
+altmandaniel	723589536949874688	2016-04-22T19:09:23	Smart, simple guidance from lucyrushton12 of ATLUTD on using analytics in recruitment:  HT MartynPhillips1
+altmandaniel	722548607048617984	2016-04-19T22:13:06	The relationship between the structure of data &amp; the unpredictability of live sport is why we watch GameChangersIBM 
+altmandaniel	722545559177977857	2016-04-19T22:01:00	IBMSports Please spell my quote correctly, then I'll RT. Thanks.
+altmandaniel	722379823121899520	2016-04-19T11:02:25	Advanced analytics in nytimes: no explanation, no link to explanation, just... clunk, there it is. Don't do this. 
+altmandaniel	721031301105639425	2016-04-15T17:43:52	NYA Analytics Review email went out this morning. If you're a sport or media professional who wants it, please DM, @, or email via website.
+altmandaniel	719540136061571072	2016-04-11T14:58:31	Over at zdnet, ldignan wrote up the analytics panel I was on at WhartonPAC last week: 
+altmandaniel	715939980980432896	2016-04-01T16:32:47	Has choosing quality over quantity helped Leicester City? New analysis on NYA blog:  LCFC StringerSport seaningle
+altmandaniel	709180814723047425	2016-03-14T00:54:16	Signing off. Thanks to profs who gave me tools that got me this far, especially G Seligman, J Liu, G Chamberlain, T Sjöström, &amp; O Hart. TY!
+altmandaniel	709156799274999808	2016-03-13T23:18:51	Thanks seaningle for this great writeup of my SSAC16 talk on LCFC: 
+altmandaniel	709119134177566720	2016-03-13T20:49:11	Could I have run more sims? Yes. Would they still have shown LCFC was a bit unlucky? Very probably. As much? Maybe, maybe not. That's stats.
+altmandaniel	709118238655959041	2016-03-13T20:45:37	Addendum - histogram of pts from my sim of LCFC's 2nd half of 2014-15. 32 points or 1.7 PPG was most likely (just). 
+altmandaniel	709075919034572803	2016-03-13T17:57:27	I'd never claim that I saw Leicester coming in summer 2015 - I wasn't even trying to predict the table. Full credit to any who did! (2/2)
+altmandaniel	709075850738720769	2016-03-13T17:57:11	Final note. I didn't start forecasting the EPL until Oct 2015. So I've used a current forecasting tool as though it were summer 2015. (1/2)
+altmandaniel	709068717649469443	2016-03-13T17:28:50	all their matches suggested that an even higher point total was a more likely outcome, given how they played. (2/2) 
+altmandaniel	709068397737328640	2016-03-13T17:27:34	Had some queries about Leicester. In 2nd half of 2014-15, they were 9th in PPG and 7th in xGD in my shot model. But my simulation of (1/2)
+altmandaniel	709048328932171776	2016-03-13T16:07:49	Per dingosports (check out ), Ranieri was the 13th ranked coach in football when he joined Leicester. Pretty good.
+altmandaniel	709044745612488708	2016-03-13T15:53:35	Hey dingosports, what was Ranieri's rank in your manager ratings when he took over at Leicester?
+altmandaniel	708823412676935681	2016-03-13T01:14:05	Thank you, Professor. 
+altmandaniel	708800721852846080	2016-03-12T23:43:55	Fantastic two days at SSAC16, learned a lot from many smart folks. Would love to see women's sports become more prominent here next year.
+altmandaniel	708704328836583424	2016-03-12T17:20:53	MessiSeconds JakeFCohen Sounds wise
+altmandaniel	708702673692966914	2016-03-12T17:14:19	MessiSeconds JakeFCohen I have some more commentary on the race coming out soon...
+altmandaniel	708702134443909125	2016-03-12T17:12:10	MessiSeconds JakeFCohen They've had some luck this season, sure. But it's not as crazy as a good value 14th-placed club would have been!
+altmandaniel	708699577138991104	2016-03-12T17:02:00	JakeFCohen MessiSeconds Yep, the "unluckiness" is just from xGD vs GD. Pretty simple stuff with old numbers, nothing revisionist here.
+altmandaniel	708502245134966784	2016-03-12T03:57:53	I'm told they play that game in that place 40 times a year when there's no SSAC! Go figure! 
+altmandaniel	708389371314053120	2016-03-11T20:29:22	atosoccer MC_of_A Torvaney Sigh
+altmandaniel	708388775714488320	2016-03-11T20:27:00	LukeBornn RWhittall Damned if I do, damned if don't, eh?
+altmandaniel	708388458662858758	2016-03-11T20:25:44	RWhittall LukeBornn I can't push Shapley values and ball progression xG any harder, Luke!
+altmandaniel	708387920785371137	2016-03-11T20:23:36	LukeBornn RWhittall Other sports should be as critical of their "standard" metrics. Even with progress in baseball, WAR is deeply flawed.
+altmandaniel	708386779859185668	2016-03-11T20:19:04	Someone say *something* controversial or provocative socceranalytics SSAC16
+altmandaniel	708385703298789376	2016-03-11T20:14:47	Did someone say "Managing the player portfolio"? SSAC16 socceranalytics 
+altmandaniel	708380120805982209	2016-03-11T19:52:36	StatHunting What if you add up the teams' followers? Not every league has a similar portal/used their account the same way
+altmandaniel	708365478780080129	2016-03-11T18:54:25	Sartorial highlight of SSAC16 so far: Bob Kraft's black patent Air Force 1s (with white soles, very on-trend)
+altmandaniel	708364233663234050	2016-03-11T18:49:28	NatsLady Hey, this isn't a Trump rally
+altmandaniel	708350662044741633	2016-03-11T17:55:33	Now listening to an SSAC16 talk that's interesting, but four significant digits on coefficients based on maybe dozens of actions. winning
+altmandaniel	708348204333588481	2016-03-11T17:45:47	There are a few women here. I swear. SSAC16 
+altmandaniel	708335083921530881	2016-03-11T16:53:38	So far at SSAC16 I've seen one presentation that had an index to four significant figures based on maybe a handful of data points. winning
+altmandaniel	708318358303870976	2016-03-11T15:47:11	Waiting to find out who will decide to be the IRS's Edward Snowden and release Trump's tax returns in the national interest
+altmandaniel	708298742915604480	2016-03-11T14:29:14	Quick look at mentions. My nonfiction writing trolling is 💯 today! SSAC16
+altmandaniel	708297733531115520	2016-03-11T14:25:13	RWhittall I know one Welsh winger who would be into that
+altmandaniel	708297021040492544	2016-03-11T14:22:23	RWhittall You mean the one with all those dead ball situations?
+altmandaniel	708296577111232512	2016-03-11T14:20:38	Of course, Hatteberg wouldn't have been at bat in that situation without statistics. But they didn't sign him for his power. SSAC16
+altmandaniel	708296192183156737	2016-03-11T14:19:06	Michael Lewis knew his book was made when Scott Hatteberg hit his game-winning HR. One swing. In a book on statistics. Sigh. SSAC16
+altmandaniel	708293005715906561	2016-03-11T14:06:26	"Find players with 'defects' that don't matter" - Michael Lewis summarizing one arbitrage strategy in the player market SSAC16
+altmandaniel	708292329715736576	2016-03-11T14:03:45	Interesting that sszy's work on undervalued black footballers in UK was done before Oakland A's started hiring ugly and fat players SSAC16
+altmandaniel	708289084888883200	2016-03-11T13:50:51	SSAC16 is now three guys talking about Billy Beane (who's not here)... but now Michael Lewis says it's probably better he didn't show up!
+altmandaniel	708156221279313921	2016-03-11T05:02:54	mitchlasky Or is it just Curry's shooting? Would want to check all shot assists (whether shot scores or not) to see if difference is as big
+altmandaniel	708118347850842112	2016-03-11T02:32:24	delta budgets 1 hour 31 minutes for a 35-minute flight with an on-time departure and still can't get the plane to the gate on time. smh
+altmandaniel	708117162209185792	2016-03-11T02:27:42	soccermetrics Just landed. Worth coming over or are you wrapping up?
+altmandaniel	708099679880237056	2016-03-11T01:18:14	Rafa at Newcastle. Pinch me. NUFC 
+altmandaniel	708067725323718656	2016-03-10T23:11:15	Fellaini is MUFC's biggest misfit. Great individual numbers but terrible team numbers when he plays. More misfits: 
+altmandaniel	708020307337023489	2016-03-10T20:02:50	Apart from against Bayern, BVB have conceded three just once this season:  Time for a call to Norway? THFC COYS
+altmandaniel	707942647726534657	2016-03-10T14:54:14	Slides all done for SSAC16 talks at NYA dinner Friday (new research on MLS) and conference Saturday (how to beat Leicester). Let's rock.
+altmandaniel	707754158221357056	2016-03-10T02:25:15	I'm betting pretty much every guy who belittles women's sports is incapable of doing this: 
+altmandaniel	707295379545522176	2016-03-08T20:02:14	This will be cool. 
+altmandaniel	707203231378755584	2016-03-08T13:56:04	GOP running an independent candidate seems like a no-brainer. Distance selves from Trump/Cruz and raise chance of Congress picking the prez.
+altmandaniel	707171540287229952	2016-03-08T11:50:08	What are sports analytics really for? Some thoughts in advance of this week's SloanSportsConf: … SSAC16
+altmandaniel	707040647476355072	2016-03-08T03:10:01	soccermetrics SloanSportsConf How long will you be there, Howard? I'm getting in late...
+altmandaniel	706938540152786944	2016-03-07T20:24:16	Last chance - free dinner for SSAC16 attendees working in sports, showcasing some brand new methods. Reserve here: 
+altmandaniel	706905117405143040	2016-03-07T18:11:28	van_hong Also interested!
+altmandaniel	706904802014470144	2016-03-07T18:10:13	Last chance - free dinner for SSAC16 attendees on Friday March 11, showcasing some brand new methods. Reserve here: 
+altmandaniel	706887610845831169	2016-03-07T17:01:54	What are sports analytics really for? Some thoughts in advance of this week's 10th annual SloanSportsConf:  SSAC16
+altmandaniel	706842039435075584	2016-03-07T14:00:49	What are sports analytics really about? Some thoughts in advance of the SloanSportsConf this week:  SSAC16
+altmandaniel	706614131353391104	2016-03-06T22:55:11	cunytv portereduardo BobHerbert Here's a simple explanation: 
+altmandaniel	706613930114813954	2016-03-06T22:54:23	cunytv portereduardo BobHerbert It would be more useful to focus on inequality of wealth, which determines opportunity more than income.
+altmandaniel	706519866711347200	2016-03-06T16:40:37	Barcelona's last league match is v Granada. Would love to see Messi score 6 in the first half just to show certain people he can. RayHudson
+altmandaniel	706500603531419648	2016-03-06T15:24:04	Ha! 
+altmandaniel	706496255187353601	2016-03-06T15:06:47	.SloanSportsConf award nominees for "best advanced stat": Adjusted plus minus, VORP, Corsi. Useful stuff but now a bit out of date. SSAC16
+altmandaniel	706488034091515904	2016-03-06T14:34:07	.MLS is back today! Looking forward to watching some great players make their debuts.
+altmandaniel	706367375969484800	2016-03-06T06:34:40	TheFix Neil_Irwin There are three states with black populations above 50%? Which ones?
+altmandaniel	706190903501844480	2016-03-05T18:53:26	This is great! 
+altmandaniel	706127459427684353	2016-03-05T14:41:20	Want to see one derby per team played as two-legged tie with extra time, pens if no winner on away goals. Local mayor awards medals. NLD
+altmandaniel	706126928005242880	2016-03-05T14:39:13	My only tip of the season. One for one. Clearly the model works. not NLD 
+altmandaniel	706116490328723456	2016-03-05T13:57:44	This is why NYA's Shapley values count a sent off player as though he's still on. His influence endures. NLD coquelin
+altmandaniel	705831013725904896	2016-03-04T19:03:22	@choppedkiwi Sure, send your email info via the contact address on the NYA website: 
+altmandaniel	705828872487628800	2016-03-04T18:54:51	The inaugural NYA Review Email for sports and media professionals is arriving now. To subscribe, please @, DM, or email via the NYA website.
+altmandaniel	705794343660097537	2016-03-04T16:37:39	One week until the NYA dinner at SSAC16, featuring brand new research! Free for sports professionals. Reserve here: 
+altmandaniel	705541756343992320	2016-03-03T23:53:57	The GOP messes with the political process entirely at its own risk. Not smart. 
+altmandaniel	705461116252639233	2016-03-03T18:33:31	The SloanSportsConf agenda is now online:  Want to meet? Info here:  SSAC16
+altmandaniel	705430156912021504	2016-03-03T16:30:30	Looking forward to speaking tonight at the FordhamGSB Sports Business Symposium, with BrooklynNets's Glenn_DuPaul and NHL's Rob Mulhall.
+altmandaniel	705400520018698241	2016-03-03T14:32:44	Cutler_econ Trampcare?
+altmandaniel	705382021623914496	2016-03-03T13:19:13	Vacation planner: Hours you can sit in front of your TV per day watching live Euro 2016/Copa América this summer. 
+altmandaniel	705381563941457924	2016-03-03T13:17:24	WorldBookDay WBD WBD16 
+altmandaniel	705033008399704064	2016-03-02T14:12:22	Last call this week: analytics email for sports and media professionals. Sign up via DM or web. First one on Friday! 
+altmandaniel	705032116380307457	2016-03-02T14:08:50	Preview of my SSAC16 talk: LCFC was already playing like a 5th-place team pre Ranieri and €50m in data-driven transfers, including Kanté!
+altmandaniel	704808729972236288	2016-03-01T23:21:10	Half expecting to see TimSparv at SSAC16. Hey, he doesn't have a match between March 7 and March 14, good timing! 
+altmandaniel	704769895536398336	2016-03-01T20:46:51	It's March! Just 10 days until SSAC16 and the NYA dinner for sports and media professionals. A few spots left: 
+altmandaniel	704328705133379584	2016-02-29T15:33:43	JakeFCohen Shouldn't have done it in French I guess! 
+altmandaniel	704313253736882176	2016-02-29T14:32:19	Announcing new analytics email from NYA. I'll check DMs here for add requests. You can also email via the website. 
+altmandaniel	703322651301974016	2016-02-26T20:56:01	Coming to SSAC16? My talk, "How do you stop Leicester City? Advanced tactical analysis in the English Premier League," is March 12, 10:15am
+altmandaniel	703196777705562112	2016-02-26T12:35:51	alistairmagowan Hey, I'm just trying to get you to write an anti-analytics rant. Is that so wrong? :)
+altmandaniel	702858997364301824	2016-02-25T14:13:38	I truly don't understand people who dismiss analytics. It's like screaming, "I am a master carpenter, I have no need for a tape measure!"
+altmandaniel	703189049499131904	2016-02-26T12:05:08	alistairmagowan Zonal_Marking Love those tweets! I thought a "save" saved a goal. Alistair says a "crap" ones doesn't. Paging oilysailor.
+altmandaniel	703186808998334465	2016-02-26T11:56:14	alistairmagowan Zonal_Marking And by redundant, I mean "trolling to make the same point repeatedly for years" :) 
+altmandaniel	703184942461808640	2016-02-26T11:48:49	alistairmagowan Zonal_Marking And by meaningless, in this case I mean redundant.
+altmandaniel	703184739994365952	2016-02-26T11:48:01	alistairmagowan Zonal_Marking Or are you confusing "finish" with "goal"? If every finish is a goal, then "good" is as meaningless as "bad"
+altmandaniel	702989545889996804	2016-02-25T22:52:23	alistairmagowan Zonal_Marking Because I have a feeling that the first player doesn't score 10 next season, and the second one might do.
+altmandaniel	702989220550463489	2016-02-25T22:51:05	alistairmagowan Zonal_Marking Alistair. Are you indifferent between signing a FW who scores 10 that way and one who scores 10 like Messi?
+altmandaniel	702590794637688832	2016-02-24T20:27:53	I'm speaking at the Sports Business Symposium FordhamGSB and SloanSportsConf in March and WhartonPAC in April. Hope to meet some of you!
+altmandaniel	702349175841755137	2016-02-24T04:27:47	Harvard_Sports You all might want to work on the diversity of your membership. I hear women like sports analytics, too. cc Bbl_Astrophyscs
+altmandaniel	701562235773177857	2016-02-22T00:20:46	USWNT reminds me of Leicester City. Fast, direct, one-touch football never giving the opponent a moment to rest. But losing the ball less!
+altmandaniel	701556986647859201	2016-02-21T23:59:54	If skill means making hard things look so easy you don't notice them, then step forward Ballon d'Or winners Busquets and Sauerbrunn. USWNT
+altmandaniel	701547876527304704	2016-02-21T23:23:42	WHAT A HIT by TobinHeath USWNT
+altmandaniel	701546055134007296	2016-02-21T23:16:28	Sauerbrunn FTW again, GrantWahl.
+altmandaniel	701481857121177600	2016-02-21T19:01:22	milanaknez You just missed the deadline. Also, where's your passport? 
+altmandaniel	700731379315822592	2016-02-19T17:19:14	Is it time for Louis van Gaal to leave? How to think about sacking the manager, new on the NYA blog:  MUFC LVG
+altmandaniel	700711352453562371	2016-02-19T15:59:39	Moving into NYA's new office space soon and excited to put up some wundergol art - check out their awesome site and ff!
+altmandaniel	700711036416962561	2016-02-19T15:58:24	When is it time for the manager to go? New on the NYA blog:  LVG MUFC
+altmandaniel	699789294639128576	2016-02-17T02:55:43	wfrick jimtankersley 
+altmandaniel	699788376359202816	2016-02-17T02:52:05	America. 
+altmandaniel	699784879135989760	2016-02-17T02:38:11	.RayHudson calling a dog show from his living room is proof that RayHudson could even call a dog show from his living room. Magisterial!
+altmandaniel	699692687847526401	2016-02-16T20:31:51	Last plug today - NYA's free dinner for SSAC16 folks, showcasing new analytical tools, is Friday, March 11. Info: 
+altmandaniel	699640797273198592	2016-02-16T17:05:39	I'm hosting a free dinner for SSAC16 attendees on Friday, March 11 and showing some brand new methods. Book here: 
+altmandaniel	699558659446034433	2016-02-16T11:39:16	I'm hosting a free dinner for SSAC16 attendees on Friday March 11 and showing some brand new methods. Reserve here: 
+altmandaniel	699325314586042368	2016-02-15T20:12:02	My next charitable donation will be to improve statistical literacy in rich countries. Just kidding.
+altmandaniel	699324948163198979	2016-02-15T20:10:35	For more on the work of Evidence Action, please visit  - it's one of the most cost-effective ways to fight disease.
+altmandaniel	699324699554275328	2016-02-15T20:09:35	Time to put $ where my mouth (too often) is. Great charity backed by MessiSeconds and based on work by tedmiguel. 
+altmandaniel	698249504584286209	2016-02-12T20:57:09	JermaineJones Shapley value, 2015: 48/100  NERevs average Shapley value, 2015 (weighted by playing time): 57/100  Not convinced.
+altmandaniel	698170486723907584	2016-02-12T15:43:10	Leicester! They don't make sense! It's magic! Not if you look at the data:  LCFC jonawils 
+altmandaniel	697466034094239744	2016-02-10T17:03:55	An explainer of what's happening in the global economy and how it affects the US - my talk at 2015 ideafestival: 
+altmandaniel	697073030409887748	2016-02-09T15:02:16	Best of luck to OptaProForum presenters tomorrow and to simonjfarrant and ryanbahia for a great event! Sorry I can't make it this year.
+altmandaniel	697060201548115968	2016-02-09T14:11:17	ICYMI - What would happen if ticket prices fell? New on the NYA blog:  LFC TicketQA
+altmandaniel	696786778871750661	2016-02-08T20:04:48	What would happen if Liverpool ticket prices fell? Some fans might not like the answer - new on the NYA blog:  LFC
+altmandaniel	696767477586509824	2016-02-08T18:48:06	What would happen if ticket prices fell? Something for LFC fans to consider (with John_W_Henry and FCBarcelona): 
+altmandaniel	696006735790804997	2016-02-06T16:25:11	Nothing against Leicester, but boy am I tired of these "They used to be there, now they're here!" tweets. We get it. We all get it.
+altmandaniel	695951038252261377	2016-02-06T12:43:52	Why Mike Ashley was right to spend - now updated with a lengthy explanation of the economics behind it:  NUFC
+altmandaniel	695653539587170304	2016-02-05T17:01:43	Forget Guardiola to City - Newcastle United won the January transfer window. New on the NYA blog:  NUFC Swans EPL
+altmandaniel	695643617206149124	2016-02-05T16:22:17	Read MC_of_A on the implications of MCFC v LCFC and how both teams have evolved this season:  ff
+altmandaniel	695633273704292352	2016-02-05T15:41:11	Mike Ashley was right to spend - new on the NYA blog:  NUFC
+altmandaniel	695304233080508416	2016-02-04T17:53:41	Seriously, if you don't try my pal's cool new game, I'm not sure we can be friends. It's free: 
+altmandaniel	695292295483146242	2016-02-04T17:06:15	My friend sebastiansgames has a new STEAMPUNK HORROR PINBALL game out, and it's stunning (and FREE). Check it out: 
+altmandaniel	693863712797646848	2016-01-31T18:29:35	Yes, I told Le Monde €200k in analytics was as good as €10m in buying power, such is arbitrage in the player market: 
+altmandaniel	693816588831756288	2016-01-31T15:22:19	Clubs need to use analytics for selling as well as buying players. With a thorough dossier, Lokomotiv could easily get more for Niasse. EFC
+altmandaniel	693589217159548928	2016-01-31T00:18:50	TonyKhan Hi Tony, hope to meet you at SSAC in March. I'll be giving a talk about opposition analysis.
+altmandaniel	693471335377473536	2016-01-30T16:30:25	So now we're all just waiting for Zelalem to be called back before the window shuts and dropped into Arsenal's XI. Morris Miazga Pulisic
+altmandaniel	693417427284148224	2016-01-30T12:56:12	I spoke to IciLondres about the current English Premier League season for Le Monde:  (free up to quota on desktop)
+altmandaniel	693236025297084416	2016-01-30T00:55:22	I wrote about having lunch with the Mondavis (and their wines): 
+altmandaniel	693131694350700544	2016-01-29T18:00:48	Good stuff here. ff 
+altmandaniel	693112555280166912	2016-01-29T16:44:45	I'm in this. Also, good people are in this. 
+altmandaniel	692713220797251584	2016-01-28T14:17:56	When did the word "visualization" replace the word "chart", anyway? Maybe about the same time as "curated" replaced "picked". jargon silly
+altmandaniel	692382143826268161	2016-01-27T16:22:21	With TheRealAC3 coming to MLS and MattMiazga3 leaving, may be a good time to ask whether it's being hollowed out: 
+altmandaniel	692362694150725632	2016-01-27T15:05:04	I rated MattMiazga3 as one of top 10 CBs in MLS last season, impressive at his age. Will European clubs look at top 10 at other positions?
+altmandaniel	692346542695522304	2016-01-27T14:00:53	Fascinating insights about penalty kicks in benlyt's timeline right now - check it out!
+altmandaniel	692340618098536449	2016-01-27T13:37:21	How well do soccer/football players perform when they switch leagues? New on the NYA blog:  MUFC NUFC CFC
+altmandaniel	692030401284608000	2016-01-26T17:04:39	Is Man United squandering talent? Is Newcastle a black hole? Predicting performance of new signings:  MUFC NUFC
+altmandaniel	692002500229087232	2016-01-26T15:13:47	How will that new signing perform? I finally found something I could write about during the transfer window:  ITK
+altmandaniel	691963410095984640	2016-01-26T12:38:27	Secret ballot for FIFA president is a disgrace. Members say they represent billions of people. If so, why not tell those people their votes?
+altmandaniel	690583418430701572	2016-01-22T17:14:52	What's it like to work as a consultant in soccer/football analytics during the transfer window? Listen here: 
+altmandaniel	690544279903690752	2016-01-22T14:39:20	Links to the articles I mentioned on the si_soccer podcast:   
+altmandaniel	690502746798161920	2016-01-22T11:54:18	How are analytics being used in this transfer window? Listen to the si_soccer podcast with me and GrantWahl:  ITK
+altmandaniel	690490968420827136	2016-01-22T11:07:30	I talked about all things soccer/football analytics - including goalkeepers! - on the si_soccer Planet Fútbol pod: 
+altmandaniel	690332840119144448	2016-01-22T00:39:09	Links to pieces I mentioned on the si_soccer podcast:    GrantWahl
+altmandaniel	690331019543744513	2016-01-22T00:31:55	New Planet Fútbol podcast: Euro transfer window, Jordan Morris, Feilhaber vs Klinsmann, analytics ace altmandaniel 
+altmandaniel	689576817930412032	2016-01-19T22:34:59	LukeBornn Hi Luke, is your agenda already full?
+altmandaniel	689101477676216320	2016-01-18T15:06:09	Who were Barcelona, Bayern Munich, and Chelsea's *weakest* players in 2014-15? New on the NYA blog:  FCB Barca CFC
+altmandaniel	689089281298690048	2016-01-18T14:17:41	Finding the weak link - how can we use Shapley values to improve a soccer/football team? New on the NYA blog: 
+altmandaniel	688517897870774272	2016-01-17T00:27:13	Ignore previous tweet when considering deepxg's goalkeeper ratings. You need much bigger samples for those, as other analysts can attest.
+altmandaniel	688191360327761920	2016-01-16T02:49:40	ff folks doing some cool soccer stuff these days: deepxg rakkhis jmyrharkins And folks explaining it: RWhittall TheM_L_G MessiSeconds
+altmandaniel	687454828486868992	2016-01-14T02:02:58	A great pleasure meeting up with Rene Muelensteen and Fred Spencer in Baltimore today! NSCAA MLSSuperDraft
+altmandaniel	686943143858716672	2016-01-12T16:09:42	I'll be in Baltimore part of this week showing off some cool stuff... @ or DM me if you'd like to meet up! NSCAA MLSSuperDraft
+altmandaniel	686712818389938176	2016-01-12T00:54:29	I'll be in Baltimore part of this week showing off some cool stuff... @ or DM me if you'd like to meet up. NSCAA MLSSuperDraft
+altmandaniel	686633805566861312	2016-01-11T19:40:30	No PuskasAward for Messi? I'm calling Loretta Lynch. 
+altmandaniel	686605967325302788	2016-01-11T17:49:53	megustaleerarg HernaniiBA They say history is written by the victors (or by the great-grandsons of Moritz Braun, one or the other)
+altmandaniel	686586848689393664	2016-01-11T16:33:55	New: Why Liverpool needs variance to win anything, and why Arsenal hasn't won much without it. NYA blog:  LFC AFC
+altmandaniel	686526174219075584	2016-01-11T12:32:49	Why Liverpool needs variance to win something - and why Arsenal hasn't won much without it. New from NYA:  LFC AFC
+altmandaniel	685467428143378432	2016-01-08T14:25:44	Public Service Announcement: A higher wage bill will only improve your team if 1) you pay market rates &amp; 2) the market pays for performance.
+altmandaniel	684735155693555712	2016-01-06T13:55:57	North Yard Analytics is helping clients to sort through thousands of players this transfer window - need help?  ITK
+altmandaniel	684729286566232064	2016-01-06T13:32:38	jonawils Fyi, on MUFC chance quality and pressing:  (note the date though)
+altmandaniel	682948432852598784	2016-01-01T15:36:09	JohanCruyff Absolutely! Here is an example of how: 
+altmandaniel	682692663569727488	2015-12-31T22:39:49	Thanks to NYAsoccer's clients for a great year. With your help, we've made huge strides in analytics. Looking forward to more in 2016!
+altmandaniel	682615286906916864	2015-12-31T17:32:21	I'll be giving a Competitive Advantage talk at SloanSportsConf in March and hosting at least one side event. See you there! ssac2016
+altmandaniel	682170896111407104	2015-12-30T12:06:30	OptaPro remembers some of the strongest analytical articles and videos from 2015. . Reminisce.
+altmandaniel	680870872765349888	2015-12-26T22:00:40	altmandaniel PS Those figures were from before today's match. You think maybe they'd be useful in squad selection? I'll settle for maybe...
+altmandaniel	680857439206510592	2015-12-26T21:07:17	Public Service Announcement:  Shapley Values 2015-16 English Premier League  Mathieu Flamini: 22/100  Arsenal average: 93/100  AFC Gunners
+altmandaniel	680414958027431936	2015-12-25T15:49:02	RayHudson I like this one even more, Ray - the fan reactions before he scores are priceless:  Happy Christmas!
+altmandaniel	680193763369693186	2015-12-25T01:10:05	One year ago, this was my first try at a ball progression (non-shots) expected goals model for soccer/football:  TBT
+altmandaniel	679742652288516096	2015-12-23T19:17:31	ForeignAffairs AdamPosen Can I get a shout-out for writing the same thing a few years back? 
+altmandaniel	679741987956867072	2015-12-23T19:14:53	ICYMI - here's what Van Gaal is doing well at MUFC. It's different, important, and underappreciated:  LVG LVGIN

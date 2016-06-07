@@ -1,0 +1,30 @@
+Susan_Athey	720758568585015296	2016-04-14T23:40:08	.Susan_Athey StanfordBiz on online advertising &amp; auction-based marketplaces at PROGIO 
+Susan_Athey	718435234945970176	2016-04-08T13:48:02	Economists Adding Up At , Microsoft, Google  via IBDInvestors
+Susan_Athey	718200473703084032	2016-04-07T22:15:11	.Susan_Athey discusses how academia is shaping adtech and platform business models:  JamesHercher
+Susan_Athey	717951335094595584	2016-04-07T05:45:11	NYT profiles Ripple.  Seagate CFO: Why should it take me 48 hours to make a foreign currency payment? 
+Susan_Athey	715720471065587712	2016-04-01T02:00:32	Using high-dimensional surrogates in A/B tests and causal inference  from Susan_Athey
+Susan_Athey	712776020399489024	2016-03-23T23:00:20	Don't miss StanfordBiz  economist Susan_Athey TOMORROW Columbia:  machinelearning 
+Susan_Athey	709037961757790210	2016-03-13T15:26:38	Li and Bishop are right: for most workers in the new economy, Statistics is much more important than Calculus 
+Susan_Athey	708044929033834496	2016-03-10T21:40:40	"The annual revenues earned by the banking system for processing payments are huge, at $1.7 trillion, and rising." 
+Susan_Athey	706882324877672448	2016-03-07T16:40:54	All star female panel moderated by martinwolf_ LBSFinTech Conf with Verena Ross Susan_Athey LucreziaReichli
+Susan_Athey	702896269627359232	2016-02-25T16:41:44	Observational causal inference with social media: AAAI Symposium at Stanford. Susan_Athey, jure &amp; I will be there 
+Susan_Athey	692428011325517824	2016-01-27T19:24:37	tristan_winters XRP can play an impt role in finding the most efficient path (exchange rates) from one bank/currency to another.
+Susan_Athey	692423226178342912	2016-01-27T19:05:36	My Quora answer to Since you already work with Ripple, do you believe that block chain technology can be successfu… 
+Susan_Athey	692421706326151171	2016-01-27T18:59:34	My Quora answer to Is ML "just" prediction? What can tech companies and traditional ML take from economists' focus… 
+Susan_Athey	692420467752353792	2016-01-27T18:54:38	My Quora answer to In today's world, if I'm a smart undergrad economist thinking about my future, is academic econ… 
+Susan_Athey	692418454146699265	2016-01-27T18:46:38	My Quora answer to Are older companies (without strong tech capabilities) fundamentally disadvantaged as data anal… 
+Susan_Athey	692416625543385090	2016-01-27T18:39:22	My Quora answer to You've done research indicating that under some circumstances, there may be some benefits to co… 
+Susan_Athey	692415904349556737	2016-01-27T18:36:30	My Quora answer to How do academic economists use A/B testing? How can you A/B test historical events? 
+Susan_Athey	692412687343620096	2016-01-27T18:23:43	My Quora answer to What is the state of bitcoin and blockchain technology as of early 2016? 
+Susan_Athey	692411762369503232	2016-01-27T18:20:03	My Quora answer to What will be the impact of machine learning on economics? 
+Susan_Athey	692408579211575296	2016-01-27T18:07:24	My Quora answer to Why do technology companies hire economists, and what is their contribution? What kinds of prob… 
+Susan_Athey	691713496182992896	2016-01-25T20:05:23	Stanford senior economist / John Bates Clark Medal winner Susan_Athey -- taking questions.  
+Susan_Athey	685507289420181505	2016-01-08T17:04:08	How to do principled, data-driven subgroup analysis with valid standard errors: see my paper  
+Susan_Athey	685506848724615168	2016-01-08T17:02:23	InfonomicsToday How to do principled, data-driven subgroup analysis: recursive partitioning for causal inference 
+Susan_Athey	684813359737212928	2016-01-06T19:06:42	WIRED: Interledger a movement to create tech to let online ledgers talk to one another, send money between systems 
+Susan_Athey	684494646588784640	2016-01-05T22:00:15	.Susan_Athey on retooling MachineLearning for inference using honest trees (CART w/ true SEs) ASSA2016 
+Susan_Athey	684502845186387968	2016-01-05T22:32:50	Full house for big data &amp; causal inference at ASSA2016.  Papers, including mine on heterogeneous treatment effects: 
+Susan_Athey	684497254695043073	2016-01-05T22:10:37	Predictive cities: Economists as engineers use big data to improve productivity, reduce discrimination in public services.  ASSA2016
+Susan_Athey	684158466064187392	2016-01-04T23:44:24	Micro data sheds light on price formation at Uber, eBay, Amazon, and Bitcoin (my talk).  ASSA2016
+Susan_Athey	684117259875401729	2016-01-04T21:00:39	Clark Medalists, Profs Athey &amp; Fryer. All the big names are at ASSA2016! Awards Ceremony 4:45 Continental Ballroom 
+Susan_Athey	677578847592701952	2015-12-17T19:59:20	My Women in Data Science interview: combine Economics/CompSci/Stats for great science &amp; biz impact  WiDSConference

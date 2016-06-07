@@ -1,0 +1,120 @@
+echofon	726192222375284736	2016-04-29T23:31:32	PeteyPabs267 Thank you for bringing this to our attention. We'll look into getting this fixed ASAP. Sorry for the inconvenience
+echofon	725794755347542016	2016-04-28T21:12:08	Zach101788 Unfortunately, Twitter hasn't released an API to enable us to offer polls yet, but we'll add this once it becomes available
+echofon	725793743001935872	2016-04-28T21:08:07	mjc_24 Thank you! We appreciate the feedback
+echofon	725793113457856512	2016-04-28T21:05:37	thomas1973 We're sorry to hear about this issue. We'll look into this. Thank you for letting us know
+echofon	725360866053345280	2016-04-27T16:28:01	bastahipocresia We're sorry to hear about this issue. We'll look into getting it fixed. Thank you for letting us know
+echofon	725360370840260608	2016-04-27T16:26:03	DarylSurat We're sorry for this inconvenience. We'll investigate what could be causing this issue. Thank you for your feedback!
+echofon	722198302314381313	2016-04-18T23:01:07	Check out today's blog post highlighting some key features of the new photo editor available now in Echofon - iOS: 
+echofon	722168681602506752	2016-04-18T21:03:25	hfrees Unfortunately, Twitter hasn't released an API to enable us to offer this feature yet, but we'll add this once it becomes available
+echofon	720662427029741573	2016-04-14T17:18:06	MadalynSklar We really appreciate your support. Thank you!!
+echofon	718205564203835392	2016-04-07T22:35:24	packbat Sorry for the inconvenience. We'll look into what could be causing this issue. Thanks for bringing this to our attention
+echofon	717835455387930624	2016-04-06T22:04:43	NJBearsFan51 Also, can you advise which iOS version you are using currently?
+echofon	717834865513631744	2016-04-06T22:02:23	NJBearsFan51 Sorry for this issue. It's an iOS bug. You can try rebooting device or enable "Use Old Style Web View" in Settings to fix
+echofon	717119091471831041	2016-04-04T22:38:09	JENinATX We're sorry to hear about this issue you're having. We'll investigate this. Hope to find a fix asap! Thank you for letting us know
+echofon	714890391942602753	2016-03-29T19:02:06	deborah_gu Thanks for sharing this! We'll make sure to pass this along to our development team. We appreciate the feedback!
+echofon	714862637591371777	2016-03-29T17:11:48	stefancrisan We're very sorry for the inconvenience. We're looking into this issue now. Thank you for letting us know
+echofon	714536323982331905	2016-03-28T19:35:09	RileyOakBidwell Thanks for this suggestion! We'll pass this along to our development team. We appreciate the feedback!!
+echofon	713073143384899584	2016-03-24T18:41:00	michaelcarew Sorry for this issue. It's an iOS bug. You can try rebooting your device or enable "Old Style Web View" in the Settings to fix
+echofon	712672889565151233	2016-03-23T16:10:32	MetaSolange Sorry for the inconvenience. It's an iOS bug.You can try rebooting the device or enable "Old Style Web View" in Settings to fix
+echofon	712668266288668672	2016-03-23T15:52:10	MetaSolange Sorry to hear about this issue. Can you advise what happens when you try to open a link?
+echofon	712667833440710657	2016-03-23T15:50:26	Aems1 The tab bar icons are customizable. Long-press the current Mutes icon to change it back. More info here: 
+echofon	712328679431348224	2016-03-22T17:22:46	JamesERead Sorry for the inconvenience. It's an iOS bug. You can try rebooting the device or enable "Old Style Web View" in Settings to fix
+echofon	711976564662145025	2016-03-21T18:03:35	Tom_Heitbrink Sorry for the inconvenience. Yes, we are investigating this issue now. Hope to have a fix very soon. Thanks for the feedback!
+echofon	710886474556682241	2016-03-18T17:51:57	patrick_breen Thanks! We appreciate the feedback. Apologies for any inconvenience this issue has caused
+echofon	710860850593030144	2016-03-18T16:10:08	patrick_breen We're very sorry for this issue. We're looking into this now. Can you advise which device &amp; Android version you are using?
+echofon	710566415783211009	2016-03-17T20:40:09	ekwetzel Sorry about this issue. It's an iOS bug. You can try rebooting your device or enable "Old Style Web View" in Settings to fix
+echofon	710212244924018688	2016-03-16T21:12:48	badasian We apologize for any inconvenience this has caused. Thanks for bringing the issue to our attention. Hope to find a fix very soon
+echofon	710211748012302337	2016-03-16T21:10:50	badasian We're very sorry to hear about this issue you've discovered. We'll let our developers know so they can investigate this ASAP
+echofon	710170021331410944	2016-03-16T18:25:02	Kez Unfortunately, we are still investigating this. We haven't been able to reproduce the issue. Can you advise which device you're using?
+echofon	710169487518126083	2016-03-16T18:22:54	TOLDating Sorry to hear you're having problems with Echofon. Please let us know what issues you're experiencing. We'd be happy to help
+echofon	709774606609948674	2016-03-15T16:13:47	DeepaPops The Search feature is still available. Long press the icon that is currently showing in its place to change it back
+echofon	708457679769874432	2016-03-12T01:00:48	Amelia_E_Adler We're very sorry for the inconvenience. We're looking into a fix for this issue now. Thank you for your feedback!
+echofon	708396752051806208	2016-03-11T20:58:41	stefancrisan Thank you so much for the feedback! We're very glad to hear that the update resolved these issues for you
+echofon	708074989065383936	2016-03-10T23:40:07	MarshMadhatter You can locate the version/build number in the app by going to: Menu -&gt; Settings -&gt; Scroll to bottom of the screen
+echofon	708074538974613506	2016-03-10T23:38:20	MarshMadhatter Very sorry to hear about this issue. Could you possibly send us a screenshot? The version number would really help too
+echofon	707660940745945089	2016-03-09T20:14:50	drchris123 Sorry about this issue. It's an iOS bug. You can try rebooting your device or enable "Old Style Web View" in Settings to fix
+echofon	707335878926962689	2016-03-08T22:43:09	MulberryPoppins Sorry about this issue. It's an iOS bug. You can try rebooting the device or enable "Old Style Web View" in Settings to fix
+echofon	707335567655047169	2016-03-08T22:41:55	dflite Sorry to hear about this. We'll look into the issue. Thank you for bringing this to our attention. We appreciate your feedback
+echofon	706947924320784384	2016-03-07T21:01:34	Kez Thank you for letting us know. We're looking into this. Very sorry for the inconvenience
+echofon	705904433738153985	2016-03-04T23:55:06	stefancrisan Thanks! We'll investigate what could be causing this. Sorry for the inconvenience
+echofon	705890351018430464	2016-03-04T22:59:09	stefancrisan Sorry to hear about this issue. Can you advise which device you're using? We'll look into this
+echofon	705839209823666176	2016-03-04T19:35:56	frownloads We're very sorry for this issue. We've alerted our developers and hope to have a fix asap. We apologize for the inconvenience
+echofon	705838480505511936	2016-03-04T19:33:02	Thunder_Cat_4 Thank you for the suggestions! We'll pass this along to our developers. We appreciate the feedback. Thanks!
+echofon	705581078552166400	2016-03-04T02:30:12	Check out our latest blog post highlighting some of the new features included in today's Android update: 
+echofon	705528996327346176	2016-03-03T23:03:15	Kez Thanks! Update 2.7.0.0 is rolling out now. Please let us know if the problem continues after you receive the update on your device
+echofon	705525609078743042	2016-03-03T22:49:47	Kez Sorry to hear about this issue. We'll look into this asap! Can you advise which Echofon version you have installed?
+echofon	705524811968045058	2016-03-03T22:46:37	Android update is rolling out now! Includes many new features &amp; improvements. Download now:  
+echofon	705519814177992704	2016-03-03T22:26:46	VoidBurger We're very sorry for the inconvenience. We're looking into this issue now. Hope to find a fix soon. Thanks for the feedback!
+echofon	705178566774824960	2016-03-02T23:50:46	tgwtom We're very sorry for the inconvenience this has caused. We're looking into this issue now. Thank you for letting us know
+echofon	704454298847936512	2016-02-29T23:52:47	WReynoldsYoung We're very sorry for any inconvenience. We'll report this to our developers and look into a fix for this ASAP
+echofon	704454128907386881	2016-02-29T23:52:07	WReynoldsYoung Oh, sorry. We had the same issue on the iOS version recently. This is the first time hearing of this on the Mac version
+echofon	704447869839937537	2016-02-29T23:27:14	WReynoldsYoung Sorry to hear about this issue. Are you using the most recent version? A fix for this was included in the last update
+echofon	703261313728966656	2016-02-26T16:52:17	TomMorrisEsq Sorry for the inconvenience. We'll work to get this fixed ASAP. Thank you for letting us know
+echofon	703007400270278656	2016-02-26T00:03:20	Amelia_E_Adler Sorry for the inconvenience. We'll look into a fix for this issue. Thank you for bringing this to our attention
+echofon	702585723099086848	2016-02-24T20:07:44	londoncharlotte Yes, in the app. Tap the Menu button in the top-left and you'll then see the Settings option in the bottom left corner
+echofon	702220961542615040	2016-02-23T19:58:18	londoncharlotte Sorry about this issue.It's an iOS bug. You can try rebooting your device or enable "Old Style Web View" in Settings to fix
+echofon	701906300976898049	2016-02-22T23:07:57	DanCovello You're welcome! Glad we could help
+echofon	701905733139431424	2016-02-22T23:05:42	DanCovello Hello. You can long press on the icon that's currently showing to change it to the Search option
+echofon	700769732778020865	2016-02-19T19:51:38	Axe_Grrl We're sorry for the inconvenience. Thank you very much for bringing this to our attention.
+echofon	700769554599784450	2016-02-19T19:50:56	Axe_Grrl Sorry about that. Looks like this may be broken in the iPad app. We've alerted our developers and are looking into this now
+echofon	700728194094096385	2016-02-19T17:06:35	JoBrodie We're very sorry to hear about this. Can you advise which apps you're being sent to? We'll have our team look into this asap
+echofon	700727922189991937	2016-02-19T17:05:30	omxtyger Hello.To unfollow, tap the Menu icon in the top-right corner when viewing the user's profile screen. You will see the option there
+echofon	700473989299355648	2016-02-19T00:16:27	Axe_Grrl Hello! You can view your all of tweets from the "My Profile" screen
+echofon	700031613661372416	2016-02-17T18:58:37	fredrikhed Sorry about this issue. It's an iOS bug. You can try rebooting your device or enable "Old Style Web View" in Settings to fix
+echofon	699994574932955136	2016-02-17T16:31:26	VernaPolitics If you're having issues opening links you can try rebooting your device or enable "Old-Style Web View" in Settings to fix
+echofon	699731233773752321	2016-02-16T23:05:01	Check out our latest blog post highlighting some of the key improvements in today's Echofon iOS update! Read here: 
+echofon	699729981329399808	2016-02-16T23:00:02	Echofon 9.2 is available now in the App Store, includes many bug fixes! Free:   / Pro: 
+echofon	698222510542843904	2016-02-12T19:09:53	marciliroff TweetSmarter On Echofon, tweets will continue to be shown in real time
+echofon	698187932713127937	2016-02-12T16:52:29	ManoloMyranda Sorry about this issue. It's an iOS bug. You can try rebooting your device or enable "Old Style Web View" in Settings to fix
+echofon	698187515711205376	2016-02-12T16:50:50	FaeriBex Sorry about that. You can enable "Old-Style Web View" in the Settings and move the Close button back to the bottom
+echofon	697912633660456960	2016-02-11T22:38:33	mjc_24 Sorry about this issue. This is an iOS bug. You can try rebooting your device or enable "Old Style Web View" in Settings to fix
+echofon	697219020727021569	2016-02-10T00:42:22	proroan Sorry about this issue. Appears to be an iOS 9 bug. You can try rebooting your device or enabling 'Old-Style Web View" in Settings
+echofon	697218709438406656	2016-02-10T00:41:08	CityKittySF We're very sorry about this issue. We have an update with a fix that is currently pending approval. Will release asap
+echofon	695641234816110593	2016-02-05T16:12:49	LittleGirlMX We're very sorry for the inconvenience. We're investigating this issue now and hope to have a fix ready as soon as possible
+echofon	694976405889626112	2016-02-03T20:11:01	master_at_work We recommend rebooting the app or enabling "Use Old-Style Web View" in Settings. Please let us know if either fixes this
+echofon	694976227300364288	2016-02-03T20:10:19	master_at_work We're sorry for this issue. We're looking into this now. Could possibly be an iOS 9 bug
+echofon	694662522637541376	2016-02-02T23:23:46	liannehy You can long press the Followers icon that is currently showing to change it back to Search
+echofon	694289870416670720	2016-02-01T22:42:59	sarahsportmag We're very sorry for this issue. We're looking into getting this fixed ASAP. Thank you for letting us know
+echofon	694207673890390016	2016-02-01T17:16:21	Dreadmc Sorry to hear about this issue. Can you let us know which ads are doing this?
+echofon	691704884995837952	2016-01-25T19:31:10	WoodwardRJ You can try enabling "Use old-style Web view" in Settings as a possible workaround. If the problem continues, please let us know
+echofon	691704433495797760	2016-01-25T19:29:22	WoodwardRJ We're very sorry for the issue. We're looking into a fix for this now.
+echofon	691703578814119936	2016-01-25T19:25:59	brianstorms We apologize for this inconvenience. TMI allows you to send tweets &gt;140 characters. You can disable this in the app settings.
+echofon	690233316780277762	2016-01-21T18:03:41	BigJay810 Thank you for the info. We'll look into this. Have you tried clearing the cache or reinstalling the app on your phone?
+echofon	690231252159299584	2016-01-21T17:55:29	BigJay810 Also, could you advise which device &amp; OS version you're using?
+echofon	690231196366729216	2016-01-21T17:55:15	BigJay810 Very sorry for the inconvenience. What happens when trying to perform these actions?
+echofon	690229299777921024	2016-01-21T17:47:43	K_Slice70 Sorry for this issue. We're looking into this now. Do you have any specific link(s) you could share that aren't working for you?
+echofon	690228623123451904	2016-01-21T17:45:02	vajohna Sorry to hear about this issue. We'll look into it. Thank you for the feedback!
+echofon	690228377068810240	2016-01-21T17:44:03	BigJay810 Sorry to hear that you're having troubles with Echofon. Could you be more specific on what issues you're experiencing?
+echofon	689868789085769728	2016-01-20T17:55:11	NJBearsFan51 Sorry for this issue. We're looking into a fix now. Could you possibly share a link with us that does not work for you?
+echofon	689855867903148032	2016-01-20T17:03:50	maxnotmaks Sorry about that. We're looking into this now. We appreciate the feedback. Apologies for the inconvenience.
+echofon	689520160852455424	2016-01-19T18:49:51	Our apologies to users affected by recent service disruptions. Twitter has confirmed that the issue has been fixed! 
+echofon	687428109142994947	2016-01-14T00:16:47	RC31584 Thanks for the feedback and screenshot. Looking into this issue now. Hope to find a fix soon. Sorry for the inconvenience
+echofon	687328499271634944	2016-01-13T17:40:58	L4ndrew Thank you for sending us this screenshot. We'll look into this. Hopefully we can a fix soon. Sorry for the inconvenience
+echofon	687324998466465793	2016-01-13T17:27:04	mimi78 We're very sorry for these issues with Echofon. What happens when you select a link? Any additional information would be helpful
+echofon	687324718500806656	2016-01-13T17:25:57	RC31584 Sorry for this issue. Can you advise what happens when you select a link? Any additional information would be helpful
+echofon	687320975805931522	2016-01-13T17:11:05	VernaPolitics Sorry to hear that you have troubles with Echofon. Could you be a bit more specific on what is happening for you?
+echofon	687019201660346368	2016-01-12T21:11:56	tussenpozen Sorry for the inconvenience. We'll look into this issue. Thanks for the feedback
+echofon	685605358153396228	2016-01-08T23:33:49	WLF_FC Sorry to hear about this issue. Can you advise which ad is doing this?
+echofon	685221443643166720	2016-01-07T22:08:17	akscojo Sorry to hear about this. We'll look into this issue. Thanks for the feedback!
+echofon	685216356476698624	2016-01-07T21:48:04	Echofon 9.1.1 now available in the App Store, includes several bug fixes! Free:  / Pro: 
+echofon	684865198885335041	2016-01-06T22:32:42	_PinKedMyEgo We will release the update ASAP!
+echofon	684865092496801795	2016-01-06T22:32:16	_PinKedMyEgo Sorry for the inconvenience. A fix is ready and has been submitted. Unfortunately, the approval process can take a few days
+echofon	684414164488601601	2016-01-05T16:40:27	julianswainson Sorry to hear about your issues with Echofon. We are working on a fix for this now
+echofon	682833763173314560	2016-01-01T08:00:30	HAPPY NEW YEAR! Looking forward to a great 2016!
+echofon	680448261195460608	2015-12-25T18:01:22	Merry Christmas from Echofon!!!!!! 
+echofon	680070540514734080	2015-12-24T17:00:26	Happy Holidays! What do you want for Christmas this year?
+echofon	679058902483378176	2015-12-21T22:00:33	New Echofon - iOS beta available today, includes 3D Touch support! Send a request to echofonbeta@ubermedia.com to sign up for beta releases
+echofon	677640212311375872	2015-12-18T00:03:11	thekamamama Sorry for this issue. Could you let us know which ads are doing this? We'll look into getting it fixed
+echofon	677639953522802688	2015-12-18T00:02:09	Allieandra_m We're sorry to hear about this issue. Can you advise which ads are doing this?
+echofon	676896836628692992	2015-12-15T22:49:16	TeamKanyeChi Thanks for bringing this to our attention. We'll report this issue to our developers. Sorry for the inconvenience.
+echofon	675043679078338560	2015-12-10T20:05:29	Chiefinho We encountered some issues when we first added it and had to temporarily disable. Working to bring it back again in the future!
+echofon	674993424626352128	2015-12-10T16:45:47	Echofon 9.0.2 available now in the App Store, includes Instagram photo fix. Free:  / Pro: 
+echofon	674423370830753792	2015-12-09T03:00:36	Learn how to access additional features and change your tab bar options on Echofon - iOS in today's blog post - 
+echofon	674313431609032704	2015-12-08T19:43:44	Apologies to any users on iOS unable to see Instagram photos. Update w/ fix has been submitted to the App Store. We will release ASAP
+echofon	672472920262864896	2015-12-03T17:50:12	JMHCooper That's great to hear. Thanks for the feedback! We really appreciate you helping us to resolve the issue. Thank you!!
+echofon	672208657141116928	2015-12-03T00:20:07	dnel0780 Sorry to hear about this. Could you possibly send us a screenshot of this? We'll let our developers know about the issue
+echofon	672203909364977665	2015-12-03T00:01:15	Echofon iOS - 9.0.1 available now. Check out our latest blog post about today's update - . Let us know your thoughts!
+echofon	672100637048369152	2015-12-02T17:10:53	Echofon 9.0.1 is now available in the App Store, includes many bug fixes!  / Pro: 
+echofon	671833973631418368	2015-12-01T23:31:16	grace_eludes_me Thank you for confirming. We'll let our dev team know right away. Very sorry for this inconvenience.
+echofon	671825406262173696	2015-12-01T22:57:13	grace_eludes_me We're looking into this issue now. Hope to have a fix ASAP. Can you advise if you're on the Free or Pro version?
+echofon	669969062559137794	2015-11-26T20:00:46	Happy Thanksgiving! Wishing you a wonderful holiday with your family and friends!

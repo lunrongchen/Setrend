@@ -1,0 +1,360 @@
+benchmark	725681360489181188	2016-04-28T13:41:33	"How to take your startup from 5 to 500" - practical hiring advice from our Head of People ljg  startuplife
+benchmark	725739839321042944	2016-04-28T17:33:55	RT Domotalk "Domo Launches Appstore with More Than 1,000 Apps" via programmableweb: 
+benchmark	725724411047727107	2016-04-28T16:32:37	RT travisk .ariannahuff welcome to uber! Can't tell you how excited we all are to have you on board!! 
+benchmark	725709048813772800	2016-04-28T15:31:34	RT hortonworks Did you hear that ApacheAtlas and ApacheRanger are now integrated? Read the Press Release 
+benchmark	725423960796499968	2016-04-27T20:38:44	RT Glassdoor Today Carmel Galvin joins us as our new Chief Human Resources Officer. Welcome, Carmel! 
+benchmark	725409559427342339	2016-04-27T19:41:31	RT Hacker0x01 Congratulations seanmeals for being the first hacker to pass 10,000+ reputation! bugbounty 
+benchmark	725394711503114241	2016-04-27T18:42:31	RT cyngn Cyanogen OS 13.0 is rolling out to the OnePlus One  CyanogenOS MOD
+benchmark	725370663742005248	2016-04-27T17:06:57	RT bugsnag Check out all new settings in Bugsnag! Everything's now centralized for easier navigation 
+benchmark	725352471653052417	2016-04-27T15:54:40	RT Nextdoor Announcing Nextdoor Polls for Our Public Agency Partners 
+benchmark	725037838853660672	2016-04-26T19:04:25	RT Glassdoor We are proud to be one of the 150 companies committed to UpSkillAmerica 
+benchmark	725022626704424960	2016-04-26T18:03:59	RT asana Out with the old, in with spring! Archive inactive projects in Asana and breathe a little easier. 
+benchmark	725007554649026560	2016-04-26T17:04:05	RT Domotalk Domo put transparent, real-time data into the hands of people who could use it at Apria: 
+benchmark	724994276522741760	2016-04-26T16:11:19	RT stitchfix This Mother’s Day, celebrate all impactful women. See 5 Stitch Fix employees' stories: 
+benchmark	724669284866220033	2016-04-25T18:39:55	Awesome work by rebekah_bastian + team zillow, Community Pillars helping tackle housing affordability 
+benchmark	724641624114925568	2016-04-25T16:50:01	Twitter is committed to keeping our community safe. Today, we've improved the ability to report abuse to us. 
+benchmark	724666609562836992	2016-04-25T18:29:18	RT sailthru The 3 Keys to Digital Marketing Relevance - Content, Cadence and Channel:  digitalmarketing
+benchmark	724647876035399682	2016-04-25T17:14:51	RT Upwork We're thrillled to welcome industry veteran REricGilpin as Senior Vice President of Sales: 
+benchmark	724629766129623042	2016-04-25T16:02:53	RT Zuora Consider these go-to-market strategies before choosing positioning &amp; messaging plans. 
+benchmark	723608705447514112	2016-04-22T20:25:34	RT Hacker0x01 How to Become a Successful Bug Bounty Hunter by H1's jobertabma 
+benchmark	723597011392450560	2016-04-22T19:39:05	RT WeWork 7 ways to build your business reputation: 
+benchmark	723579250092040193	2016-04-22T18:28:31	RT asana Small changes can make a big difference! Check out our second round of new Polish Week features! 
+benchmark	723565097302392832	2016-04-22T17:32:17	RT Grubhub We’ve joined forces with HBO NOW to pair your favorite foods with your favorite shows: 
+benchmark	723220332111257601	2016-04-21T18:42:18	Our latest blog post details index selection in CockroachDB. Also included: a slow-burn Rick Roll. Enjoy! 
+benchmark	723252389092818944	2016-04-21T20:49:41	RT Optimizely We’ve teamed up with other leaders in ABM to form the ABMAlliance to help educate B2B marketers: 
+benchmark	723237757481447424	2016-04-21T19:51:33	RT michielprins Ever wanted to hack your school and get paid for it? You now can with MIT's bug bounty program: 
+benchmark	723221005766795264	2016-04-21T18:44:59	RT hortonworks Next Market Leaders Will Power Their Businesses from IoAT Data Sources via MarkLochbihler 
+benchmark	723204704990171141	2016-04-21T17:40:12	RT zillow Rent or buy? Skip the coin flip and use this guide to help you decide: 
+benchmark	722999534767341568	2016-04-21T04:04:56	Would recommend that all of those in the Unicorn ecosystem, or those considering it, read this. Times are changing: 
+benchmark	722870869614206978	2016-04-20T19:33:40	RT jeremys Yelp names Lanny Baker as CFO 
+benchmark	722855623998578688	2016-04-20T18:33:05	RT hortonworks Announcing ApacheStorm 1.0.0, continue reading for highlights and more - 
+benchmark	722636417235611648	2016-04-20T04:02:02	Networking considerations when using Docker with an Elastic cluster by bennacersamir: 
+benchmark	722812552451784704	2016-04-20T15:41:56	RT Optimizely 3 Optimization Trends from Optimizely Retail Customers:  retail ecommerce
+benchmark	722524190595657728	2016-04-19T20:36:05	RT spencerrascoff March traffic data from Comscore - Zillow up 29% yoy to 70.3 million uniques. Happiness
+benchmark	722510266273935360	2016-04-19T19:40:45	RT mikkelsvane News on our Zendesk Loves Startups program:  … csr free allthethings
+benchmark	722488907137286144	2016-04-19T18:15:53	RT zillow Congrats ZillowGroup CEO SpencerRascoff! Named one of the top 10 CEOs under 40 by Forbes: 
+benchmark	722467812208300032	2016-04-19T16:52:03	RT Nextdoor Meet our Co-Founder and Chief Architect, prak_daddy! 
+benchmark	722452533986242561	2016-04-19T15:51:21	RT newrelic The Community has spoken! Custom metrics, Azure deployment &amp; our rockstar Forum Heroes! 
+benchmark	722172367108046855	2016-04-18T21:18:04	RT sailthru Auto-tagging is here. Find out why its crucial to your personalization efforts:  marketing
+benchmark	722146013884997636	2016-04-18T19:33:21	RT Upwork This week in FutureofWork: surviving the first year of entrepreneurship, and the tasks best suited for freelancers
+benchmark	722131360337375232	2016-04-18T18:35:07	RT elastic This week in Elasticsearch and Apache Lucene - Elasticsearch gets IPv6 support with point fields for numerics/dates
+benchmark	722089084819079168	2016-04-18T15:47:08	RT docker 80% cite Docker as part of org's cloud strategy, 35+% use to avoid cloud vendor lock-in: 
+benchmark	721049966584602624	2016-04-15T18:58:03	RT Upwork Are you an expert in your field? Boost your reputation with Upwork Premier Author: 
+benchmark	721032721661755393	2016-04-15T17:49:31	RT elastic Ever wondered how many nodes you need? Find out how to size your Elasticsearch clusters: 
+benchmark	721017158629601280	2016-04-15T16:47:41	RT Zendesk Increase proactive engagement with Mobile Chat Notifications. 
+benchmark	721000134318796800	2016-04-15T15:40:02	RT Optimizely By creating a culture of optimization, this digital agency pivoted to focus on CRO: 
+benchmark	720701416113774592	2016-04-14T19:53:02	RT sailthru The 3 Keys to Digital Marketing Relevance - Content, Cadence and Channel:  digitalmarketing
+benchmark	720672242669989888	2016-04-14T17:57:06	RT Zuora Microsoft &amp; Zuora are partnering to make your subscription data come to life! 
+benchmark	720658123959062528	2016-04-14T17:01:00	RT docker Announcing Docker 1.11: The first OCI-compliant runtime, built on containerd - 
+benchmark	720642131631603716	2016-04-14T15:57:27	RT MarinSoftware scores as one of '10 best YouTube PPC management firms' - via 10BestPPC 
+benchmark	720359355850162176	2016-04-13T21:13:48	RT hortonworks Cloudbreak 1.2 is HERE! 
+benchmark	720345298787115008	2016-04-13T20:17:57	RT Zendesk Zendesk Message will help businesses engage customers on their favorite messaging platforms. 
+benchmark	720325196725428224	2016-04-13T18:58:04	RT michielprins Over $7 million in bug bounties paid on the Hacker0x01 platform!
+benchmark	720294581774843904	2016-04-13T16:56:25	RT elastic Learn how to be an Elastic Pioneer, &amp; try alpha-1 of ElasticStack 5.0. (Ax not included) 
+benchmark	720279151962251264	2016-04-13T15:55:06	RT Nextdoor Improvements to How Our Members Post about Crime and Safety via niravtolia 
+benchmark	719982301312974848	2016-04-12T20:15:31	RT @WeWorkOur Co-founder MiguelMcKelvey talks to BW about WeLive. BWDesign2016 
+benchmark	719969219329130496	2016-04-12T19:23:32	RT asana We’re really excited about offline access on Android. It's launching on April 13th! 
+benchmark	719949616725106688	2016-04-12T18:05:39	RT docker Learn more about our world-class support and services for our community users &amp; customers :) 
+benchmark	719913728586555392	2016-04-12T15:43:02	RT duosec Duo Security Hires Ambrosia Vertesi (hambrody) as Vice President of People 
+benchmark	719609731829006336	2016-04-11T19:35:04	RT Grubhub Ready to get tapping? The Grubhub mmmoji Keyboard is available to download on GooglePlay: 
+benchmark	719588450173739008	2016-04-11T18:10:30	RT cockroachdb If CockroachDB is "open source Spanner," why doesn't it use atomic clocks? 
+benchmark	719544385319395328	2016-04-11T15:15:24	Our Director of TalentAcquisition shares why you shouldn't fear candidate feedback  over at GDforEmployers
+benchmark	719551990364110848	2016-04-11T15:45:37	RT Zendesk Customer data dreams do come true: Introducing BIME &amp; Segment integration. 
+benchmark	718488641408880640	2016-04-08T17:20:15	We decided to polish Dashboards &amp; search features to give you a clearer picture of the work you track in Asana. 📈 💯 
+benchmark	718515844897054720	2016-04-08T19:08:21	RT peterfenton Welcome to the Twitter board, marthalanefox and hughjohnston excited to work with you both :-)
+benchmark	718500134275780609	2016-04-08T18:05:55	RT Zuora Named One of the Coolest Cloud Software Vendors Of The 2016 Cloud 100  CIO
+benchmark	718163276945731584	2016-04-07T19:47:22	The alpha-1 of the ElasticStack is here! If you’re exploring it, you’re an Elastic Pioneer — &amp; we’ve got good news: 
+benchmark	718177385078624256	2016-04-07T20:43:26	RT michielprins Reports on Hacker0x01 now have a "hacker header" displaying information about the researcher who's reporting to you
+benchmark	718157218072244224	2016-04-07T19:23:18	RT bgurley Congratulations Uber!  One of the premiere Veteran's hiring programs of all time. Just soared through 50K goal.
+benchmark	718139587244089344	2016-04-07T18:13:14	RT Upwork 3 Tips for Finding the Best Talent on Upwork nancy_vanbrunt UpworkTips 
+benchmark	718076183527743488	2016-04-07T14:01:18	Live TODAY! 🎉 AMA with Spenser Skates (spenserskates), CEO &amp; Founder of amplitudemobile.  Ask questions now!
+benchmark	717791502123081728	2016-04-06T19:10:04	How we are moving our entire RightScale platform comprising 52 services &amp; 1,028 cloud instances to docker &gt; 
+benchmark	717822707597844480	2016-04-06T21:14:04	RT WeWork Get ready, Berlin! Our first location in Germany, the WeWork Sony Center, will open in May. 
+benchmark	717727707916804096	2016-04-06T14:56:34	We're excited to announce our acquisition of mobilemarketing automation platform Carnivalio. Welcome to the team! 
+benchmark	717794483144818688	2016-04-06T19:21:55	RT Hacker0x01 You Received A Vulnerability Report, Now What? 6 Steps to Resolution  … michielprins
+benchmark	717479495951917056	2016-04-05T22:30:16	Our CEO dhchait explains 4 traps that are holding back your diversity recruiting—any others you can think of? 
+benchmark	717761740247683072	2016-04-06T17:11:48	RT Zuora Zuora Community Launches on the Lithium Platform, Cuts Support Tickets by 9% in a Single Week  CMGR
+benchmark	717742705099472897	2016-04-06T15:56:10	RT WeWork And then this happened:   Thanks to FastCompany for being one of the first to tour WeLive.
+benchmark	717455720011018240	2016-04-05T20:55:47	RT Optimizely Are you struggling to get your team on board with optimization? Read our top tips on DigiMktgMag 
+benchmark	717441255475511296	2016-04-05T19:58:19	RT quip 🚢  New Feature: Our Windows desktop app has been redesigned to be optimized for Windows10 🎉  
+benchmark	717420471633862656	2016-04-05T18:35:44	RT newrelic As our Community Forum turns 2, we’re celebrating those who make it great: our users 
+benchmark	717403700038270976	2016-04-05T17:29:05	RT OpenTable Our CEO talks mobile payments, premium reservations, and more via FortuneMagazine. 
+benchmark	717388700682858497	2016-04-05T16:29:29	RT Domotalk "Josh James Bets Big To Build Domo As The First Business Cloud" via Forbes: 
+benchmark	717079829267361793	2016-04-04T20:02:08	RT MarinSoftware 5 Ways to Optimize Your Dynamic Search -  searchmarketing digitalmarketing
+benchmark	717061264648712192	2016-04-04T18:48:22	RT duosec A Breakdown of Different Types of Point-of-Sale Malware -  infosec cybersecurity retail
+benchmark	717040438360670208	2016-04-04T17:25:37	RT WeWork How one of our lead designers set about designing our first Queens location: 
+benchmark	716747121853079552	2016-04-03T22:00:05	How do you align everyone on recruiting best practices? Download our NEW structuredinterview workbook: 
+benchmark	715988934854049792	2016-04-01T19:47:19	RT docker Announcing Docker Hub Classic, an alternative way to pull images from Docker Hub: 
+benchmark	715850305234145282	2016-04-01T10:36:27	Not an AprilFoolsDay joke—we're welcoming members to new locations in Denver, London, NYC, and Austin this month. Let the move-ins begin!
+benchmark	715963096007880708	2016-04-01T18:04:38	RT Zuora Named One of the Coolest Cloud Software Vendors Of The 2016 Cloud 100  COO
+benchmark	715946751719522304	2016-04-01T16:59:41	RT sailthru Boost your bottom line with customer retention - here are 4 ways to get started:  marketing
+benchmark	715930090450718722	2016-04-01T15:53:29	RT Nextdoor Honored to be included in Inc's "18 Tech Companies To Get Excited About" article 
+benchmark	715657473441398785	2016-03-31T21:50:12	RT elastic Announcing Logstash 2.3 &amp; 2.2.3 with an awesome performance boost, new features, &amp; more! 
+benchmark	715637602771013632	2016-03-31T20:31:15	RT Uber Learn how uberPOOL can help you go the extra mile: 
+benchmark	715342849609310209	2016-03-31T01:00:00	We're excited about our latest round of funding &amp; even more ecstatic for great people to join us on our mission! 
+benchmark	715590741553078272	2016-03-31T17:25:02	RT Hacker0x01 martenmickos  on Security: Tech Is the Problem, People Are the Solution  … eWEEKNews
+benchmark	715566040214740992	2016-03-31T15:46:53	RT spencerrascoff Just reached 2 million real estate pro reviews on Zillow and Trulia!  …
+benchmark	715192410381422593	2016-03-30T15:02:12	New Feature: Show Edit History. See the history of your document, going all the way back to when it was created. 
+benchmark	715258716530958336	2016-03-30T19:25:41	RT hortonworks Hortonworks DataFlow Optimizes Log Analytics from the Edge, read more!  futureofdata
+benchmark	714964356560084992	2016-03-29T23:56:00	We're honored to be named one of fastcompany's Most Innovative Companies. Just doing our part to make teamwork fun: 
+benchmark	715206917929316352	2016-03-30T15:59:51	RT cockroachdb Thrilled to launch CockroachDB Beta &amp; announce our Series A1 funding led by IndexVentures 
+benchmark	714513748363444224	2016-03-28T18:05:27	Check out H1's CEO martenmickos on How We Make the Internet's Building Blocks Secure  linuxfoundation lfcollab
+benchmark	714867641052041217	2016-03-29T17:31:41	RT twitter Starting today, anyone can make Tweets with images accessible to the visually impaired:  …
+benchmark	714860950537383937	2016-03-29T17:05:06	RT ConfluentInc Announcing Confluent University! apachekafka public training course schedule now available 
+benchmark	714857752342827010	2016-03-29T16:52:24	RT Snapchat Introducing Chat 2.0  …
+benchmark	714829861714526208	2016-03-29T15:01:34	Introducing file attachments. Embed files from your computer directly into docs, task lists and spreadsheets. 
+benchmark	714849314170757121	2016-03-29T16:18:52	RT Hacker0x01 Hack on! Over 20K bugs found &amp; fixed on HackerOne by &gt;2,500 hackers who've earned &gt;$6.5M! 
+benchmark	714499300424859648	2016-03-28T17:08:02	ServiceSource is pioneering a new kind of industry, via TheStandard_PH: BPO employees evolve into knowledge workers 
+benchmark	714505586482610176	2016-03-28T17:33:01	RT Grubhub Got feels about food? Download the Grubhub mmmoji Keyboard via AppStore to show ‘em.
+benchmark	714492223870480385	2016-03-28T16:39:55	RT Hacker0x01 Hack on! Now over 2,500 individual hackers "thanked" for making the Internet safer 
+benchmark	714472347290349569	2016-03-28T15:20:56	RT docker How Docker Helps Your DevOps Infrastructure  … via spkaa blog
+benchmark	713464987994337280	2016-03-25T20:38:03	RT DogVacay We’re celebrating 4 years of DogVacay by the numbers. Check out our fun infographic: 
+benchmark	713451602808406016	2016-03-25T19:44:52	RT newrelic How to use New Relic to monitor your website’s video and audio performance 
+benchmark	713432052666753024	2016-03-25T18:27:10	RT Zendesk Ticketing + chat = a match made in customer heaven. Meet the upgraded Zopim integration:  cx
+benchmark	713063583664345088	2016-03-24T18:03:01	Admins now have the ability to manage deprovisioned members’ tasks. So nothing slips through when someone leaves. 
+benchmark	713392994947215360	2016-03-25T15:51:58	RT Vessel Happy Birthday to Us! Vessel launched one year ago today. 😊
+benchmark	712713303974408192	2016-03-23T18:51:07	“Viewability” is transforming how digital advertising is bought and sold. Here's how to optimize for it: 
+benchmark	713078057557331968	2016-03-24T19:00:31	RT bugsnag We now support phabricator so you can click to create Maniphest tasks from your Dashboard  …
+benchmark	712716171032723456	2016-03-23T19:02:31	Open Tinder to find out which candidate best matches your views! We partnered with RockTheVote to SwipeTheVote 
+benchmark	713045604906061825	2016-03-24T16:51:34	RT Zuora "Subscriptions give companies a lot more flexibility" Zuora's tattiwell on the SubscriptionEconomy 
+benchmark	712768724852477959	2016-03-23T22:31:21	Bug bounty market evolution is happening quickly. Here Apple is called out for NOT having a program:  Hacker0x01
+benchmark	712655387946835968	2016-03-23T15:00:59	"Traditional metrics don't work in a digital economy"-Zuora CFO tylersloat. The 3 metrics he focuses on:  SaaS
+benchmark	712700913912164352	2016-03-23T18:01:53	RT hortonworks Take advantage of our new online learning classes including HDP Developer: ApacheSpark using Python 
+benchmark	712328666177359872	2016-03-22T17:22:43	🚢’d: Always have access to your inbox, docs &amp; chat. Our Mac &amp; Win app updates let you see the sidebar in every view: 
+benchmark	712668749791244288	2016-03-23T15:54:05	RT joshjames It's here!!!! JoshJames led Domo launches Business Cloud, raises $131M  … via ahess247
+benchmark	712367158001438720	2016-03-22T19:55:40	RT edmodo globalsearch4ed interviews the CEO of MinervaSchools on the future of highered 
+benchmark	712353604628144128	2016-03-22T19:01:48	RT Zuora Interview w/ NewRelic CIO ytechdata: How We Use Our Own Technology   Subscribed16
+benchmark	712335396135284736	2016-03-22T17:49:27	RT btaylor New Quip feature! See the edit history of any paragraph, checklist item, or even a spreadsheet cell -  …
+benchmark	712309679326507008	2016-03-22T16:07:16	RT bgurley Excited: Uber invests in security by investing in hackers, using best platform out there, 
+benchmark	712062118044913664	2016-03-21T23:43:33	RT amplitudemobile Building your growth model and the Ladder of Engagement   by joshelman
+benchmark	712033223958765569	2016-03-21T21:48:44	RT newrelic Good news: It’s easy to use NR Insights to analyze Alerts data! Here’s how:   via philweber
+benchmark	712018174582005760	2016-03-21T20:48:56	RT elastic Watch &amp; learn about Elastic Cloud, the hosted elasticsearch solution: 
+benchmark	711994210656727040	2016-03-21T19:13:42	RT asana Learn more about our diversity efforts: 
+benchmark	711963582594809857	2016-03-21T17:12:00	RT proofpoint Find sensitive BigData with the Proofpoint profiler. See where your data hides:  InfoSec
+benchmark	711885140138467328	2016-03-21T12:00:18	Thank you for an incredible 10 years. We can't wait to see what you Tweet next:    Love, Twitter   LoveTwitter
+benchmark	710916346402332672	2016-03-18T19:50:39	RT asana We launched two new features just for admins that make member management even easier! 
+benchmark	710894625762910209	2016-03-18T18:24:21	RT docker Turns 3: What A Ride It Has Been by madgreek65:   … via Forbes
+benchmark	710879850278457344	2016-03-18T17:25:38	RT adamdangelo Update: we crossed 100M monthly uniques on Quora: 
+benchmark	710857291503828994	2016-03-18T15:56:00	RT Zuora CEO tientzuo talks SubscriptionEconomy with Jim Cramer of "Mad Money" 
+benchmark	710498626414518272	2016-03-17T16:10:47	Find and join a customer-organized user group to meet in-person and share optimization best practices: 
+benchmark	710534564481896448	2016-03-17T18:33:35	RT mattcohler My Quora answer to Why do you think Benchmark Capital has been so successful? 
+benchmark	710514137688715264	2016-03-17T17:12:25	RT peterfenton Thanks mattturck for the invite to datadrivennyc refreshingly deep, focused topics
+benchmark	710492776471736320	2016-03-17T15:47:32	RT docker Welcome verstaen! Looking forward to more awesome products from the Docker team:  …
+benchmark	710028836029595648	2016-03-16T09:04:00	Answer your customer’s call with Basic Voice: Cloud-powered phone support available to everyone. 
+benchmark	710007910269583361	2016-03-16T07:40:51	HackerOne enables private bounty programs to go public while still maintaining high signal.  
+benchmark	710170977406226432	2016-03-16T18:28:50	RT asana Enter the “fancy” profile card and other innovations from Asana Polish week. 
+benchmark	710149048431288320	2016-03-16T17:01:41	RT zillow Attention renters: Get your highlighters ready, our renters guide is here: 
+benchmark	710133873611419649	2016-03-16T16:01:23	RT MarinSoftware Today we're 10 years &amp; counting! Excited to celebrate a decade of growth and success! 
+benchmark	709812860491173888	2016-03-15T18:45:48	RT Yelp We've reached our 100 millionth review! Read about our journey to Yelp100M. 
+benchmark	709809124041555968	2016-03-15T18:30:57	RT Zendesk Let the machines do the learning: Introducing Satisfaction Prediction.  cx custserv
+benchmark	709801432103268352	2016-03-15T18:00:23	RT newrelic We've partnered w/ Hacker0x01 to create a responsible disclosure program for security bugs 
+benchmark	709473264330887169	2016-03-14T20:16:22	Looking forward to doing a QuoraSessions on Quora Wednesday at 10 am PT, lots of great questions already! 
+benchmark	709789374590754816	2016-03-15T17:12:28	RT scottbelsky Building an infrastructure years later than your competitors gives advantage of modern lessons, even if a commodity.
+benchmark	709782476739096576	2016-03-15T16:45:04	RT WeWork FastCompany on how we got our start and the exciting things that are in store:  …
+benchmark	709422027250098176	2016-03-14T16:52:46	RT thatgamecompany Journey came out four years ago today.  Thanks for all the amazing love, everyone!
+benchmark	709419785524682752	2016-03-14T16:43:51	RT Dropbox How we're scaling to exabytes and beyond:   via WIRED
+benchmark	709411595806334976	2016-03-14T16:11:19	RT asana Less switching between tools. More getting stuff done with slackhq and asana 📝📈🙌 
+benchmark	708356355820642305	2016-03-11T18:18:10	RT LithiumTech Check out the latest LSW Download: 3 New Product Features, Continued Growth &amp; Much More: 
+benchmark	708349006108164096	2016-03-11T17:48:58	RT loopj Nice little bugsnag shout out from Amazon today in their AWS blog  …
+benchmark	708331979956064256	2016-03-11T16:41:18	Boiling down digital products to basic human tendencies... Sharing a few new ideas today at SXSW talk, 12:30pm :: 
+benchmark	707989960645746688	2016-03-10T18:02:15	RT twitter Discover the latest on any topic, instantly. TwitterTips Search to see the conversation:  …
+benchmark	707987198830743552	2016-03-10T17:51:16	RT thatgamecompany Make sure to see flOw and Flower at FrostArtMuseum in The Art Of Video Games.  One month left! TAOVG
+benchmark	707980669402505217	2016-03-10T17:25:19	RT Glassdoor Our CEO bobhohman explains to Forbes how playing world of warcraft led him to co-founding Glassdoor 
+benchmark	707977407546859524	2016-03-10T17:12:22	RT martenmickos Improved program invitation logic for our hackers  …
+benchmark	707393010141499392	2016-03-09T02:30:11	We’re building a diverse and inclusive culture. Here’s what that means to the women who work at Asana.  IWD16
+benchmark	707621180002295809	2016-03-09T17:36:50	RT Zuora Zuora CEO tientzuo explains the importance of choosing the right cofounders:  startup
+benchmark	707340714238197761	2016-03-08T23:02:22	Very excited to see our zendesk Pathfinder app out in the wild. Will provide great context for our customers: 
+benchmark	707279426623373312	2016-03-08T18:58:50	RT Dropbox Easier collaboration with Windows 10 mobile app: 
+benchmark	706947652408254466	2016-03-07T21:00:29	We're so excited to announce the GrowAtGreenhouse blog! Spotlighting the talented people who work here: 
+benchmark	707272495607390208	2016-03-08T18:31:18	RT Uber Ask and you shall receive. Use only your voice to request a ride with Houndapp—not even the tap of an app required!
+benchmark	707269391335862272	2016-03-08T18:18:57	RT twitter New emojis and more for the biggest WT20 cricket viewing party on Twitter:  …
+benchmark	707220612452716544	2016-03-08T15:05:08	Proud to celebrate InternationalWomensDay today! Read our CMO's blog on Women in BigData here:  ingridvdhburton
+benchmark	707263539489021952	2016-03-08T17:55:42	RT spenserskates Launch of Amplitude Compass today. Find out why users retain: 
+benchmark	707260279965364224	2016-03-08T17:42:45	RT LithiumTech Excited to share: You can now send in-channel surveys &amp; track your Twitter NPS with LSW 
+benchmark	707256630920945664	2016-03-08T17:28:15	RT IjadMadisch New and only on ResearchGate: your h-index with and without self-citations!
+benchmark	706921621018140673	2016-03-07T19:17:03	RT onemedical We're thrilled to join the GrandLake community. Come visit our new Oakland office today. 
+benchmark	706591434409975808	2016-03-06T21:25:00	Don't forget to request uberPOOL today with code CAPITALONEPOOL—eligible CapitalOne cardholders get 4 free rides: 
+benchmark	706913585352474624	2016-03-07T18:45:07	RT Join the Founding Dean MinervaSchools for his first reddit AMA.
+benchmark	706910247349125121	2016-03-07T18:31:51	RT LithiumTech The 2016 Lithy Awards are officially open! Submit your entry today, and get recognized! 
+benchmark	705485009755353089	2016-03-03T20:08:28	The GIFparty is moving to Direct Messages! Invite friends to a private afterparty and GIF like nobody's watching. 
+benchmark	705566045231259652	2016-03-04T01:30:28	Receipts are so 2015. Now, business profile rides will auto-send to your expense provider.  
+benchmark	705468329016692736	2016-03-03T19:02:11	RT Upwork New features in store for the Upwork mobile app! 
+benchmark	705465447211094016	2016-03-03T18:50:44	RT Zuora CEOs are the driving force of the SubscriptionEconomy. Zuora CEO tientzuo explains why: 
+benchmark	705462725543985152	2016-03-03T18:39:55	RT twitter Drop your plans for today, we're celebrating GIFs on Twitter! Tap the GIF button to join the GIFparty.
+benchmark	705454146367848449	2016-03-03T18:05:49	RT Uber_SF Starting today, uberPOOL is available in Oakland, Berkeley, and Alameda. 
+benchmark	705450818023981056	2016-03-03T17:52:36	RT twitter Control chatter in your timeline. Learn how to quiet down an account with Mute:  … TwitterTips
+benchmark	705444692658225152	2016-03-03T17:28:15	RT Uber_BLR Your uberMOTO has arrived! Get a faster and more affordable ride at the tap of a button! 
+benchmark	705442523523608576	2016-03-03T17:19:38	RT spencerrascoff Home sellers &amp; listing agents: Zillow’s “Best Time to List” tool helps you sell faster &amp; for mo’ money.
+benchmark	705438203365298176	2016-03-03T17:02:28	RT jack A HUGE welcome to AppleSupport! Now using Twitter to provide customer support through tweets and DMs!
+benchmark	705134846243254272	2016-03-02T20:57:02	RT Hacker0x01 U.S. Announces 'Hack The Pentagon' Bug Bounty Program  … 
+benchmark	704758143302004736	2016-03-01T20:00:09	New to Australia!⚡️ Find the best of Twitter in an instant with MomentsAU:  ⚡️⚡️ MomentsAU 
+benchmark	705065842933964805	2016-03-02T16:22:51	Now available! The Q4 2015 benchmark report, detailing cross-device performance across search, social, and display. 
+benchmark	704720967788945408	2016-03-01T17:32:26	RT Zendesk Apps here, get your apps here!  
+benchmark	704675557271859200	2016-03-01T14:31:59	Announcing Docker Cloud, new cloud service by Docker expanding on tutumcloud features:  
+benchmark	704376842631974912	2016-02-29T18:45:00	Come behind-the-scenes with Zillow Group CEO SpencerRascoff and trello's creator spolsky in 1 hour on Periscope. 
+benchmark	704388486443331584	2016-02-29T19:31:16	SanJose, let's get to know each other a little better. Our newest office is open today.  
+benchmark	704211322553020416	2016-02-29T07:47:17	How the Oscars action and the world’s reaction unfolded on Twitter — and broke a record:  
+benchmark	703276406508118016	2016-02-26T17:52:16	RT Zuora Congratulations! The Zuora Security Team Finalists at 2016 SCAwards  
+benchmark	703267196491821058	2016-02-26T17:15:40	RT WeWork Happy Birthday, WeWork Berkeley! What an awesome year it's been. WeWorkSF  …
+benchmark	702964678763261953	2016-02-25T21:13:34	RT cyngn Hey UK users, the BQ Aquaris X5 is now available to you on O2! 
+benchmark	702897146207416320	2016-02-25T16:45:13	We're honored! Lithium Named an Elite Winner on ZDNet's 2016 CRM Watchlist:  pgreenbe 
+benchmark	702870732267614208	2016-02-25T15:00:15	We’re thrilled to announce the new Quip! A new Inbox for your “living documents” makes them even more useful: 
+benchmark	702568778098278400	2016-02-24T19:00:24	Hooray! 🎉 Collections are here on the Polyvore app! For more deets check out our blog post 👉  
+benchmark	702580084331261953	2016-02-24T19:45:20	RT asana Customize Asana for your workflow with templates from templana  
+benchmark	702296887420915712	2016-02-24T01:00:00	We’ve seen the impact hunger has on success rates at school. When you’re a part of TeamNKH, you help kids succeed. NKH nokidhungry
+benchmark	702198941912137728	2016-02-23T18:30:48	The fabric team continues to build the best developer tools out there! This one was a huge request. Delivered! 
+benchmark	702213955343650817	2016-02-23T19:30:28	RT docker Introducing Docker Datacenter to Power Your On-Premises CaaS:  … 
+benchmark	702133246419738624	2016-02-23T14:09:45	Now you can warn users that they're out of date with Duo Platform!  TrustedAccess 
+benchmark	701874803242717184	2016-02-22T21:02:47	RT jack Welcoming nataliekerris to Twitter as our VP of Global Communications!
+benchmark	701873615545831425	2016-02-22T20:58:04	RT newrelic Excited to be part of this list!  … Congrats to all the recipients   …
+benchmark	701870448376610816	2016-02-22T20:45:29	RT Snapchat Introducing On-Demand Geofilters!  … 
+benchmark	701822272999288832	2016-02-22T17:34:03	RT cyanogenone Today we launch MOD. The post app era begins! 
+benchmark	701798613815459840	2016-02-22T16:00:02	Less switching between tools. More getting stuff done with slackhq and asana 📝📈🙌  
+benchmark	700377261606879232	2016-02-18T17:52:06	Available today! A toolkit of resources to set your foundation for online personalization  
+benchmark	700432207509221376	2016-02-18T21:30:26	Honored to make the list of Top 10 Companies That Win Employer Branding  via recruiterdotcom 
+benchmark	700436354946199552	2016-02-18T21:46:55	We're thrilled to be on businessinsider's 25 hottest to watch alongside other great SF startups  bizcarson
+benchmark	700440391628120064	2016-02-18T22:02:57	We’re excited to integrate new Twitter tools to help brands manage social customerservice @ scale  OfficialPartner
+benchmark	700371907103715328	2016-02-18T17:30:49	Customer service on Twitter is huge! And now customers can take an issue private into DM &amp; give NPS/CSAT ratings! 
+benchmark	700084890008686592	2016-02-17T22:30:19	Announcing ElasticCloud, hosted Elasticsearch service formally known as Found.  elasticon 
+benchmark	700141333080461313	2016-02-18T02:14:36	RT k8em0: Awesome! Hacker0x01 made DarkReading 's list of security startups to watch!  /cc senorarroz
+benchmark	700322706789638145	2016-02-18T14:15:19	Announcing Upwork Pro and Enterprise: helping midmarket and enterprise companies access premium freelance talent 
+benchmark	700360599524483073	2016-02-18T16:45:53	BLOG: Announcing Kafka Connect in apachekafka 0.9+. Build &amp; manage stream data pipelines orders of magnitude easier 
+benchmark	700377953230680064	2016-02-18T17:54:51	RT jack Videos in your DM starting today, too!  …
+benchmark	700371745207775236	2016-02-18T17:30:10	RT bugsnag Check us out on Dribbble - we’re so excited about this!   …
+benchmark	700368409289060352	2016-02-18T17:16:55	RT bgurley How Uber Improved the L.A. Comedy Scene  … via vulture
+benchmark	700002208306171904	2016-02-17T17:01:46	The GIFs are coming! Get ready to search and send GIFs in Tweets and Direct Messages:  
+benchmark	699745210469904384	2016-02-17T00:00:33	We are honored to be on FastCompany's World's Most Innovative Companies 2016 list! Read more about the award here: 
+benchmark	700014159425986560	2016-02-17T17:49:15	RT Tinder Tinder made FastCompany​’s FCMostInnovative in Social Media 🎉
+benchmark	699736517753724928	2016-02-16T23:26:00	Fantastic Q4 for zendesk, and great momentum coming into 2016. Thanks to our employees, partners, and customers! 
+benchmark	700002836612980736	2016-02-17T17:04:16	RT amplitudemobile 42 essential user onboarding tools to drive your app's growth 
+benchmark	699692868277895168	2016-02-16T20:32:34	RT Optimizely Optimizely Wins with Beautiful Community Redesign: A Q&amp;A with our own Swan606:
+benchmark	699689907212541952	2016-02-16T20:20:48	RT bgurley Travis Kalanick speaks out: Uber’s CEO on risk, regulation, and women in tech  … via betakit
+benchmark	699677206998417408	2016-02-16T19:30:20	We're honored to be an elite winner of the 2016 CRM Watchlist!  via ZDNet pgreenbe 
+benchmark	699666131418640384	2016-02-16T18:46:19	RT sailthru Watch bgurley break down the trends all digital retailers should know:  ecommerce
+benchmark	699659638388559872	2016-02-16T18:20:31	RT Nextdoor Exclusive: Nextdoor Expands to First Market Outside U.S. ||  … via mlevram FortuneMagazine
+benchmark	698207910422142976	2016-02-12T18:11:52	RT twitter Moments is now live on iPad in the US, UK and Brazil. Get the best of Twitter in an instant by tapping the ⚡️ .
+benchmark	698201178455146496	2016-02-12T17:45:07	RT asana We've made it even faster to get your work done with swipe actions on iOS notifications 
+benchmark	698195410066608129	2016-02-12T17:22:12	RT bugsnag Create tasks in meistertask right from your Bugsnag Dashboard for those errors you need to fix  …
+benchmark	697819684071051264	2016-02-11T16:29:12	Glassdoor reviews on both of these companies confirm this issue: Delivery Start-Ups Face Road Bumps ...  MikeIsaac
+benchmark	697473905913675776	2016-02-10T17:35:12	We're pleased to support STOPTHNKCONNECT and our shared commitment to online safety education &amp; awareness. 
+benchmark	697540750926442496	2016-02-10T22:00:49	Here’s what our designers created just for you 💌:  DropboxLove ValentinesDay 
+benchmark	697158764768657408	2016-02-09T20:42:56	Here's a new feature for you! Issue Created Tooltips save you time moving between Bugsnag and your issue tracker 
+benchmark	697478172061773824	2016-02-10T17:52:09	RT asana You can now add full conversations from Frontapp as new Asana tasks directly to a project:
+benchmark	697420917253668868	2016-02-10T14:04:38	Starting today you can choose to try our new feature, so you'll never miss important Tweets from people you follow: 
+benchmark	697103416137424896	2016-02-09T17:03:00	Twitter stands for freedom of expression, speaking truth to power, and empowering dialogue. That starts with safety. 
+benchmark	697177821253206016	2016-02-09T21:58:40	10 years of Zillow history, in a 2 minute video. Exhausting &amp; exhilarating for me to watch  
+benchmark	697127900420509696	2016-02-09T18:40:18	RT Zuora .Zuora Named One of the Coolest Cloud Software Vendors Of The 2016 Cloud 100 
+benchmark	696829111918944257	2016-02-08T22:53:01	Inbox by Zendesk lets you talk among yourselves, respond as one, and be there for your people.  warmfuzzies
+benchmark	697113434207313920	2016-02-09T17:42:49	RT spencerrascoff Discussing zillow's 10 year anniversary w/ Rich_Barton seattletimes  … 
+benchmark	697064875730825216	2016-02-09T14:29:51	Thank you Hackers! $6Million in bounties awarded for 17,876 bugs fixed wehavethetechnology  
+benchmark	696741314080079872	2016-02-08T17:04:08	2/ Thrilled to join Benchmark team - ericvishria bgurley mattcohler mitchlasky peterfenton ...
+benchmark	696740404461379584	2016-02-08T17:00:31	Welcome scottbelsky, Benchmark’s newest general partner. 
+benchmark	696738147258925056	2016-02-08T16:51:33	RT Optimizely Optimizely Now Available Via Twitter Fabric:  webdev mobile mobiledev app
+benchmark	695352989280645120	2016-02-04T21:07:26	We're so excited to share our new blog!  You can subscribe to stay up to date on the latest from our team.
+benchmark	695638054308982784	2016-02-05T16:00:11	Hadoop is All. Grown. Up. Look at all the progress that's been made in the community! FutureOfData Hadoop 
+benchmark	695650266243166208	2016-02-05T16:48:42	RT docker Just released Docker 1.10: New Compose file, improved security, networking and much more!  …
+benchmark	695016984984084480	2016-02-03T22:52:16	Congrats to Jahangir Mohammed and entire team at Jasper_IoT, that's what you call a "REAL" (non-paper) Unicorn!  
+benchmark	695300477538316293	2016-02-04T17:38:46	RT newrelic Excited to be named one of CRN's Coolest Companies in the Cloud!    cc sweetlew Congrats to all!
+benchmark	695294951538577409	2016-02-04T17:16:49	RT eBags eBags Celebrates 25 million bags sold. So many memories we are glad to be part of. Team 
+benchmark	695291183342309376	2016-02-04T17:01:50	RT mattcohler Congrats Jahangir Mohammad and the teams at Jasper_IoT and Cisco!  …
+benchmark	695288835278663680	2016-02-04T16:52:30	RT jesskah Polyvore now has menswear! 
+benchmark	695000215468703744	2016-02-03T21:45:38	Just announced Cisco intends to acquire Jasper_IoT to unite further growth of the IoT  
+benchmark	694944326942478336	2016-02-03T18:03:33	RT twitter Today we're bringing Tweets to more people around the 🌍 on our homepage:  …
+benchmark	694938199295029248	2016-02-03T17:39:12	RT WeWork Welcoming members to new WeWork locations in Brooklyn, Crystal City, Seattle, &amp; L.A. this month! | Video: fivenyc
+benchmark	694934906242101248	2016-02-03T17:26:07	RT LithiumTech We're excited to offer Social CustomerService at Scale on Facebook w/Business Messenger: 
+benchmark	694931151744405504	2016-02-03T17:11:12	RT Uber Check out the bits and atoms behind our new look. 
+benchmark	694927789149978628	2016-02-03T16:57:50	RT Glassdoor Our CEO bobhohman explains how Glassdoor is growing w/ googlecapital 
+benchmark	694595664710279168	2016-02-02T18:58:06	RT Uber UberPuppyBowl is kicking off in 7 cities on February 3rd. Fur real—this is not a drill: 
+benchmark	694226217097035776	2016-02-01T18:30:02	Introducing Pat, the inventor of Hortonworks Dataflow, learn why he created it here!  
+benchmark	694574919825256449	2016-02-02T17:35:40	RT jack This is a fascinating way to experience an election year. Right on the ground live where it's unfolding.  …
+benchmark	694572487519043585	2016-02-02T17:26:00	RT Vessel Welcome to Vessel, mashable! Be sure to check out all their videos here:  …
+benchmark	694302297715675136	2016-02-01T23:32:21	Excited to have currentbyGE at WeWorkBOS! MT BosBizSara: GE's energy startup has a new HQ  
+benchmark	694564907447005184	2016-02-02T16:55:52	RT jack Trends have more context now so you can see if someone you follow is tweeting about it 
+benchmark	694218627738763264	2016-02-01T17:59:53	RT WeWorkLA An office, with a view. Our newest LA location, wework Gas Tower opens Monday 2/1!  DTLA
+benchmark	694213195427282944	2016-02-01T17:38:18	RT Optimizely Optimizely Now Available Via Twitter Fabric: 
+benchmark	694208786366476288	2016-02-01T17:20:47	RT bgurley The Mistake Spencer Rascoff Made When Creating Zillow via FortuneMagazine 
+benchmark	694205749837234176	2016-02-01T17:08:43	RT Hacker0x01 The rise of white hat hackers, our modern-day web cowboys  … granteb Newsweek hackers
+benchmark	694200370138996736	2016-02-01T16:47:20	RT WeWork Can't wait to welcome members to our second Brooklyn location tomorrow! Come say hi if you're in Williamsburg.
+benchmark	693130566393163776	2016-01-29T17:56:19	RT Glassdoor Students, If It's time to find an internship or your 1st job GlassdoorU has you covered. 
+benchmark	693125224875700224	2016-01-29T17:35:05	RT Dropbox Drew Houston and Judith Williams talk diversity at Dropbox. 
+benchmark	693121956279791617	2016-01-29T17:22:06	RT Optimizely Optimizely technology partner Demandware appoints our CCO lcrawfordsfo to its Board of Directors: 
+benchmark	692764977627734016	2016-01-28T17:43:36	So adore Citymapper -- gives you superpowers in Paris, as essential as an ATM or uber  
+benchmark	692771102498516992	2016-01-28T18:07:56	RT Upwork Introducing Upwork Premier Author! Boost your reputation and stand out from the crowd 
+benchmark	692765954879565824	2016-01-28T17:47:29	RT TwitterUK Kicking off a series of special BRITs 2016 Twitter emojis...  Starting today with LittleMixBRITs &amp; ColdplayBRITs
+benchmark	692760844640256002	2016-01-28T17:27:10	RT Tinder Because GIFs are SO much better than words. Tinder, now with GIFs! 🎉💃
+benchmark	692757630306004992	2016-01-28T17:14:24	RT bgurley Quora Turns 80M Visitors Into Q&amp;A Bounty Hunters With Knowledge Prizes   via techcrunch
+benchmark	692420907495743489	2016-01-27T18:56:23	RT Optimizely Introducing dynamic customer profiles:  personalization
+benchmark	692417886606888960	2016-01-27T18:44:23	RT WeWork Time to add "Just a Kid from BERLIN". Can't wait to grow our community in Germany!   …
+benchmark	692413031851167744	2016-01-27T18:25:05	RT OpenTable Meet OpenTable's new CFO Jeff McCombs (aka jmmccombs) 
+benchmark	692408126692331521	2016-01-27T18:05:36	RT cockroachdb We're giving 20% time a cockroachdb try: 
+benchmark	692406390896345088	2016-01-27T17:58:42	RT YelpCareers We're honored to earn the #7 spot on FortuneMagazine Best Large Workplaces in Tech! 
+benchmark	692021102206283777	2016-01-26T16:27:42	Excited to share today that discordapp is off to an incredible start &amp; has raised a round led by joshelman. 
+benchmark	692334367281119233	2016-01-27T13:12:30	Pleased to have Northwood Realty listings on Zillow &amp; trulia. Good for their 1000+ agents &amp; clients. ICNY 
+benchmark	692045451676155904	2016-01-26T18:04:27	RT 1stdibs See the beautiful Manhattan triplex by 1stdibs friend Eric Cohler via ArchDigest: 
+benchmark	692039128037224448	2016-01-26T17:39:20	RT Zendesk This January brings a little something for everyone to our Apps Marketplace. Take a look: 
+benchmark	692034538562695170	2016-01-26T17:21:06	RT rightscale CEO of RightScale on AWS "...it’s more of an expanding pie as the overall market grows”   (via FT)
+benchmark	692031134129979392	2016-01-26T17:07:34	RT jack Welcoming leslieberland to Twitter! She will join as our CMO to help tell the stories of our iconic product!
+benchmark	691679451571073024	2016-01-25T17:50:06	RT hortonworks Hortonworks Named a Leader in Big Data Hadoop Distributions Report by Independent Research Firm  - 
+benchmark	691311703024209920	2016-01-24T17:28:48	Proud to have duosec provide grants for women to attend USENIX EnigmaConf; only GoldmanSachs joined us to do so? 
+benchmark	691652124610932736	2016-01-25T16:01:31	VERY excited about our new office opening in Cork, Ireland.  
+benchmark	690218605254987776	2016-01-21T17:05:13	Today, we announced the acquisition of Unikernel Systems to extend breadth of Docker platform  containers
+benchmark	690202075884453888	2016-01-21T15:59:32	It's official, welcome to Docker avsm Balraj eriangazag justincormack and unikernel team!  oh, this will be fun!
+benchmark	689925078734082048	2016-01-20T21:38:51	RT Zendesk Second year running: Forrester names Zendesk a ‘Strong Performer’ -  custserv cx
+benchmark	689922373579968513	2016-01-20T21:28:06	RT docker is InfoWorld's 2016 Technology of the Year!  …
+benchmark	689920207083597824	2016-01-20T21:19:30	RT sailthru Introducing the first true cross-channel solution for modern marketers! Learn more: 
+benchmark	689867588612939776	2016-01-20T17:50:24	RT WeWork Guess what, New York? Our next WeWorkNY is just 2 blocks from the Empire State building! 
+benchmark	689863058609418241	2016-01-20T17:32:24	RT Glassdoor We identified the 25 Best Jobs in America for 2016. Did yours make the cut? loveyourjob 
+benchmark	689851635737100288	2016-01-20T16:47:01	CockroachDB takes the anxiety out of online schema changes. To learn how they're implemented, read our blog's latest 
+benchmark	689485081975459844	2016-01-19T16:30:28	We gave our learning hub and community an extreme makeover! Introducing the redesigned and enhanced Optiverse: 
+benchmark	689550136335212544	2016-01-19T20:48:58	RT bugsnag We've opened our second office in Bath, England and we're happy to welcome our new UK engineering team  …
+benchmark	689499283209355265	2016-01-19T17:26:54	RT Zuora Zuora named a leader in “The Forrester Wave™: Subscription Billing Platforms, Q4, 2015”  CFO
+benchmark	689495496138723328	2016-01-19T17:11:51	RT WeWork London friends, did you hear? We're coming to the heart of Shoreditch! Take a look: 
+benchmark	688045048521293824	2016-01-15T17:08:17	RT sailthru The Importance of Customer Retention (and 3 Ways to Improve Yours):  retentionmarketing
+benchmark	688042507666599937	2016-01-15T16:58:11	RT GrubHub Proud to be featured as Best New App for iOS in the AppStore. Download the GrubHub app today! 
+benchmark	688040045626916865	2016-01-15T16:48:24	RT Optimizely Introducing Dynamic Customer Profiles: Use your data for more powerful personalization: 
+benchmark	687687582591795200	2016-01-14T17:27:50	RT Uber Bird's-eye of Dubai—hop in an UberCHOPPER on our Snapchat. ResolutionExplore  Username: uber
+benchmark	687620937739448320	2016-01-14T13:03:01	Proud to announce our new Partner program that meets the demands of an open and growing ecosystem!  HDPartnerworks
+benchmark	687677334619459584	2016-01-14T16:47:07	RT cockroachdb We’ve kicked off 2016 with a sprint towards beta. Follow our progress here:  betaiscoming
+benchmark	687342346556424192	2016-01-13T18:36:00	RT LithiumTech A new year, a new LSW Download! Get the latest product &amp; customer news here:  custcare
+benchmark	687336804530307072	2016-01-13T18:13:58	RT Optimizely We’ve compiled a toolkit of resources to help you start + grow an A/B testing &amp; CRO program 
+benchmark	687331350764912642	2016-01-13T17:52:18	RT WeWork Guess what? New floors have opened in WeWorkNY locations including Dumbo &amp; NoMad: 
+benchmark	687327896155758592	2016-01-13T17:38:35	RT Glassdoor Find the right job faster with Glassdoor's new job search experience 
+benchmark	687277625023315968	2016-01-13T14:18:49	We had an epic 2015 - tripling revenue for third year in a row - thx to amazing customers &amp; a dedicated team! 
+benchmark	687317934608261120	2016-01-13T16:59:00	RT MinervaSchools Please join us in welcoming the newest members of our academic team: 
+benchmark	686968601408966656	2016-01-12T17:50:52	RT twitter See the world, live! We're bringing Periscope broadcasts directly into Tweets on iOS:  …
+benchmark	686593513551577088	2016-01-11T17:00:24	Partner Kick Off is this week! We hope you're as excited as we are. Follow HDPartnerworks for all partner related content Partnerworks
+benchmark	686959500348100608	2016-01-12T17:14:42	RT Optimizely Announcing Optimizely's integration with RedEyeUK 
+benchmark	686954264627810304	2016-01-12T16:53:54	RT proofpoint Proofpoint Extends Office365 for Advanced Protection &amp; Guaranteed Email Availability: 
+benchmark	686605238036381697	2016-01-11T17:46:59	RT duosec Our monumental move from   to  . The real reason: Too many fingeraches
+benchmark	686602127414673408	2016-01-11T17:34:38	RT Quora Announcing Top Writers 2016.  …
+benchmark	686596144051273728	2016-01-11T17:10:51	RT Tinder Tinder is the #2 most used app at CES! 🔥  via Adweek
+benchmark	686592002356424704	2016-01-11T16:54:24	RT Hacker0x01 GM launches vulnerability coordination program on HackerOne  … thepacketrat
+benchmark	686589820034875394	2016-01-11T16:45:43	RT bgurley Uber to Drop Prices in 80 Cities in the U.S. and Canada   via technology
+benchmark	685158825012273152	2016-01-07T17:59:28	We're cooling down from the excitement of making Symmetry 50's list of the 34 Hottest Startups in NYC! 
+benchmark	685510936019353600	2016-01-08T17:18:37	RT Hacker0x01 New! HackerOne Success Index digs into data across hundreds of customers and 15,000 rewards  …
+benchmark	685466270788014080	2016-01-08T14:21:08	292,000 new jobs added &amp; wage growth at 2.5%. Chief Economist adchamberlain's take on today's JobsReport 
+benchmark	685165868704083968	2016-01-07T18:27:27	RT LithiumTech New! U can now analyze Lithium Community data w/MSPowerBi. Great partnership w/Microsoft! 
+benchmark	684982424766386176	2016-01-07T06:18:31	Add us on Snapchat and experience New Orleans during KingCake season.  Username: uber 
+benchmark	685156883615764480	2016-01-07T17:51:45	RT Glassdoor Today we welcome our new CPO, heatfri to Glassdoor’s executive team 
+benchmark	685154848749170688	2016-01-07T17:43:40	RT hortonworks We had a great time blogging last year, take a look at the top 10 blogs from 2015 -  …
+benchmark	684809530270597121	2016-01-06T18:51:29	RT spenserskates Next level conversion funnel analysis with Amplitude:  …
+benchmark	684803302207307777	2016-01-06T18:26:44	RT onemedical Come on in Brooklyn, we can't wait to meet you! Visit our 1st BK location-794 Union Street. 
+benchmark	684797884785557504	2016-01-06T18:05:13	RT bugsnag You can now save filters and set defaults for your Inbox and Timeline pages:  … Happy New Year!
+benchmark	684585200790028288	2016-01-06T04:00:05	New GlassdoorResearch report finds the EU job market is toughest in Greece and Spain with 25% unemployment rate. 
+benchmark	684496529621557248	2016-01-05T22:07:44	
+benchmark	684485744186937344	2016-01-05T21:24:53	RT cyngn We're bringing Cortana to Cyanogen OS! 12.1.1 is rolling out now for the Oneplus One. 
+benchmark	684434693274484737	2016-01-05T18:02:01	RT WeWork Congrats to members margauxny dearkates zaption SlantNews &amp; more Forbes 30Under30: 
+benchmark	684428771718332417	2016-01-05T17:38:29	RT Vessel And we're back with a new Channel launch! TechSmartt, welcome to Vessel! 
+benchmark	684422288427450368	2016-01-05T17:12:44	RT WeWork London, 2 new locations are coming! This Mar '16 in the heart of Shoreditch + Chancery Lane: 
+benchmark	684094602156982272	2016-01-04T19:30:37	RT Nextdoor In honor of the new year, we took a look back at the most neighborly posts of 2015:  …
+benchmark	684090931457339393	2016-01-04T19:16:02	RT hortonworks We are still the ONLY 100% open source company out there. Happy New Years to all! 31DaysOfHadoop
+benchmark	684087134177787904	2016-01-04T19:00:57	RT cyngn In our newest byte video for AudioFX we show you how to precision tune your phone's sound.  …
+benchmark	684079929877598209	2016-01-04T18:32:19	RT bgurley Can you go public too late? The data says "absolutely"  playbigger HarvardHBS
+benchmark	682369349601116162	2015-12-31T01:15:05	7/ As I turn my attention to finding the next great entrepreneurs, I can only hope for as amazing an experience as we had w/ GRUB and Z.
+benchmark	682641555803533312	2015-12-31T19:16:44	RT amplitudemobile Analytics in 2015: A Year in Review 
+benchmark	682635741759942656	2015-12-31T18:53:38	RT Greenhouse 3 reasons why Greenhouse was named one of Crain's BestPlaces to Work 
+benchmark	682631649377579008	2015-12-31T18:37:22	RT cyngn Forbes named the Wileyfox Swift the best smartphone of 2015! 
+benchmark	682621372040933377	2015-12-31T17:56:32	RT twitter Twitter for Mac is getting a fresh new look and feel today. Download now to see what’s new:  …
+benchmark	682619245797208064	2015-12-31T17:48:05	RT WeWork Seattle, we're growing! Join our 3rd space this Feb '16 w/in the skyscraping Westlake Tower: 
+benchmark	682614517965037568	2015-12-31T17:29:18	RT ResearchGate A final look back on 2015. We can't wait to see what 2016 has in store!  …
+benchmark	682608872398413824	2015-12-31T17:06:52	RT bgurley One in a Billion  …

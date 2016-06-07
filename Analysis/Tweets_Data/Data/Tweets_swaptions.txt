@@ -1,0 +1,90 @@
+swaptions	725805117555888128	2016-04-28T21:53:19	Convertbond if true then can likely expect increased CMBS delinquencies. Newer vintage product is showing slight tick up but nothing crazy
+swaptions	725301862174494720	2016-04-27T12:33:34	dmwlsw 17?
+swaptions	725300069893857280	2016-04-27T12:26:26	dmwlsw from Apr 1 to Apr 22 fwd annual growth EPS estimates were lowered by 50bps for 1Q16 and 2Q16
+swaptions	725270637200183298	2016-04-27T10:29:29	TFMkts Convertbond all in an effort to get the trade weighted CNY lower. {MSCECNTW Index &lt;GO&gt;}
+swaptions	724738988083425280	2016-04-25T23:16:54	The OBV on NDX looks BAD
+swaptions	722210378927751168	2016-04-18T23:49:07	1 day rate of change and absolute net oil shorts as implied by ETFs. 
+swaptions	722210012001669121	2016-04-18T23:47:39	Chinese average property prices YoY for 1,2,3rd tier cities 
+swaptions	722209348076834816	2016-04-18T23:45:01	China freight volume YoY 
+swaptions	722209164102082569	2016-04-18T23:44:17	what might happen to risk assets if the UST 10yr term premium snapped back to positive? 
+swaptions	722208352894337025	2016-04-18T23:41:03	R2K % members with MACD buy or sell signals 
+swaptions	722208022098014208	2016-04-18T23:39:45	YoY China Industrial Output 
+swaptions	720430416415563776	2016-04-14T01:56:10	Japan CDS 41 / 43
+swaptions	720429376727154688	2016-04-14T01:52:02	groditi for CLOs at least it's not always Bloomberg's fault, as the manager has to grant permission. Intex monopoly needs to change IMHO
+swaptions	720070716100579328	2016-04-13T02:06:51	dmwlsw the asymmetry is laughable. Used to see 75bps in one day on the way up. -10 vs -20bps? Who cares.
+swaptions	719935274395045889	2016-04-12T17:08:39	So this API report 2day is now considered the biggest most important report ever? Seasonally shld b draw but id love 2c the vol+ if a build
+swaptions	717317740374192128	2016-04-05T11:47:31	AGN 45s +40 to open
+swaptions	717103386894680064	2016-04-04T21:35:45	AGN cds went out 25/45
+swaptions	714866535593074688	2016-03-29T17:27:18	Economic cycles don't die of old age but they can be murdered by a central bank.
+swaptions	714860126646247428	2016-03-29T17:01:50	Whatever the narrative it seems to keep coming back to a Shanghai accord.
+swaptions	714599368029052928	2016-03-28T23:45:40	VXX TVIX 
+swaptions	714400752693850112	2016-03-28T10:36:27	VXX 
+swaptions	712949645698330624	2016-03-24T10:30:16	Japan CDS 44/49
+swaptions	712800410277396480	2016-03-24T00:37:15	I have a number of risk ON/OFF indicators. All have been risk ON for a number of weeks but today two of them went risk OFF.
+swaptions	707917718922645505	2016-03-10T13:15:11	Draghi deserves credit for overdelivering here but was this the last bullet? Will the market sniff out that this is it? Hope it works 4 him
+swaptions	707029536790155265	2016-03-08T02:25:52	Business model of a company who is required to hold a minimum in sov securities likely suffers w/o reg relief. Japanese insurance companies
+swaptions	707028686516707334	2016-03-08T02:22:29	Although if you're a natural buyer of sov paper you may buy a little extra today in anticipation of a negative yield (coupon) tomorrow.
+swaptions	707028535622422529	2016-03-08T02:21:53	In the land of negative yield ones book yield may not necessarily equal today's current market yield.
+swaptions	705377991933689856	2016-03-03T13:03:13	Cumulative challenger monthly job cuts. 
+swaptions	702979233619025920	2016-02-25T22:11:24	Here come the downgrades
+swaptions	700495035700224002	2016-02-19T01:40:05	maybe the green bar can pull the red bars up..... maybe it cant. 
+swaptions	700494140283494400	2016-02-19T01:36:32	
+swaptions	700487211385491457	2016-02-19T01:09:00	oil ETF net shorts 
+swaptions	700484315566702595	2016-02-19T00:57:29	if you're just starting to learn how the US rates market works, it's important to understand these four charts. 
+swaptions	700482625618767872	2016-02-19T00:50:46	Taiwan Export Orders Europe YoY 
+swaptions	699560271187046400	2016-02-16T11:45:40	I'd argue it's easier to roll a high coupon with a small notional than it would be to roll a large notional bond size but with a low coupon.
+swaptions	699560030987616256	2016-02-16T11:44:43	It's not only about the rate but notional borrowed too. Total debt burden is the same ($1mm × 5%  =   $5mm × 1%)
+swaptions	698224765165838336	2016-02-12T19:18:51	zerohedge 87 bid just went out
+swaptions	698224375284310016	2016-02-12T19:17:18	zerohedge could be a preference action on these bonds if they declare bankruptcy within 90 after maturity. Ain't out of the woods yet.
+swaptions	697870263157919745	2016-02-11T19:50:11	US production wont stop until the debt financed prod becomes equity financed prod. Can't cut today if you have debt to service tomorrow.
+swaptions	697761966136274944	2016-02-11T12:39:51	The Treasury is OK with negative yields but not negative coupons.    
+swaptions	697752940908539905	2016-02-11T12:03:59	These types of bonds don't care about  central banks, recessions, earnings, commodities, or C suite boardrooms. What are ILS securities?
+swaptions	697622516622356480	2016-02-11T03:25:43	The Treasury is OK with negative yields but not negative coupons.  
+swaptions	697413767425085440	2016-02-10T13:36:14	Classic bond style sales pitch. Yellen wants a bid for 4, market shows a 0, they "discuss" settle at 1 and will work an order for another 1.
+swaptions	697151834939588609	2016-02-09T20:15:24	Operation twist II.... Checkers revenge.
+swaptions	697067235198812161	2016-02-09T14:39:14	TenYearNote dial tones and thin markets.... Hmmm... I think I've seen this movie before. It didn't end well.
+swaptions	697063438581952513	2016-02-09T14:24:09	Adult swim in TIPS and breakevens market
+swaptions	696881458091323392	2016-02-09T02:21:01	Nasty day in the markets today and the overnight session doesn't look any different. But tomorrow is pancake day and that's all that matters
+swaptions	696776237084188677	2016-02-08T19:22:55	zerohedge to encourage mrkt participants to use the indices which puts further pressure on peers as broad index widens and skew widens
+swaptions	696679829056462849	2016-02-08T12:59:49	CDX IG +6.5 CDX HY +25
+swaptions	695249889933029376	2016-02-04T14:17:45	Wheel Decide | Why Can't I Get a Decent Bid? - 
+swaptions	694555000530411520	2016-02-02T16:16:30	economistmeg W/the only choice left to Eurozone, Japan &amp; China being to devalue their currencies to steal demand, US bonds look damn good.
+swaptions	693111038775017472	2016-01-29T16:38:43	Blended average 10yr yield for US, Germany, Japan now at 78bps only 4bps away from all time lows set on last trading day in Jan last year.
+swaptions	692439690767638532	2016-01-27T20:11:01	Shorter Fed: "we now admit seeing what the rest of you have been seeing for months"
+swaptions	691949691441942528	2016-01-26T11:43:56	financial conditions can tighten outside of a Fed rate hike. Reverse wealth effect to limit new found gains from lower gas prices
+swaptions	691930189970960384	2016-01-26T10:26:27	_the_goose it's all relative in the context of how this year plays out but I'd happily sell my CRTs at 300 and into CLO 2.0 AAA
+swaptions	691815692459466753	2016-01-26T02:51:29	And finally someone is biting into the Intex monopoly. I hope they reduce their fees with the release of CLO analytics on Bloomberg.
+swaptions	691814757687529474	2016-01-26T02:47:46	I miss LCDX, TRS just not the same.  Once oil and gas fears truly hit the CLO market, the oil and gas heavy CLO AAAs will offer good value.
+swaptions	690514266483462144	2016-01-22T12:40:04	zerohedge no need to issue there will be plenty of fallen angel supply this year.
+swaptions	690504609824141313	2016-01-22T12:01:42	Mr Risk: Buy the Falling Knife
+swaptions	689868707926007808	2016-01-20T17:54:51	Useless statistic but only 16% of the R2K is above their 200MA. A number not seen since late 2011.
+swaptions	689810600881491969	2016-01-20T14:03:57	Next month 1.2% (jan15) rolls off real avg weekly earnings. Current YoY reading is 1.6%. Going to be a difficult comp to beat.
+swaptions	689190571160768512	2016-01-18T21:00:11	NYSE new highs minus new lows 
+swaptions	688394692917116930	2016-01-16T16:17:39	anilvohra69 Oxford economics and IEA
+swaptions	688369785084751872	2016-01-16T14:38:40	Less than 1% of debt maturing in 2016 
+swaptions	688369433316880384	2016-01-16T14:37:16	Oil supply demand 
+swaptions	688369146808127489	2016-01-16T14:36:08	WTI breakeven 
+swaptions	688367979973730304	2016-01-16T14:31:30	RSI 
+swaptions	688367394432151552	2016-01-16T14:29:10	Chinese currency spread driving risk premium 
+swaptions	688364638740844545	2016-01-16T14:18:13	consecutive days without a 20% correction 
+swaptions	688364048967143424	2016-01-16T14:15:53	Only Jan 2009 had a worst start to to the month than the current over the last 30 years. (normalized jan returns) 
+swaptions	688360631725084673	2016-01-16T14:02:18	Farrell sentiment study 
+swaptions	688357751303598081	2016-01-16T13:50:51	VIX term skew (8mo-2mo) 
+swaptions	688357336885366784	2016-01-16T13:49:12	Adrian Crump &amp; Moench 10 Year treasury term premium 
+swaptions	688356966528323584	2016-01-16T13:47:44	NYSE new highs minus new lows. 
+swaptions	688356665574469633	2016-01-16T13:46:32	Compression/Decompression. Top box CDX HY:IG index ratio measured by index spread. Bottom uses intrinsic levels. 
+swaptions	688355036737474560	2016-01-16T13:40:04	CDX IG basis reaches -18bps 
+swaptions	688354352319311872	2016-01-16T13:37:21	JPM Domestic High Yield reaches 10% 
+swaptions	688353958629380096	2016-01-16T13:35:47	Percentage of companies above their 200 moving average. SPX R2K R3K 
+swaptions	688072482574708737	2016-01-15T18:57:18	Sell in Jan and go away?
+swaptions	687712069056114688	2016-01-14T19:05:08	Don_Homer nice post. VENZ 5¾ 16 traded in mid 90s in Nov. Trades/quoted in mid 80s now. Media chatter and focus will increase in coming wks
+swaptions	687707718115835905	2016-01-14T18:47:51	Does Venezuela pay (willingness) its $1.5bn bond next month? Could this impact Pedevesa's oil production/revenue? Could be oil bullish.
+swaptions	687246181404139520	2016-01-13T12:13:52	ABIBB out with roughly a $30bn new issue (3s, 5s, 7s, 10s, 20s, 30s)
+swaptions	685578969643638791	2016-01-08T21:48:58	The Golden Sprice. CDX IG spread wider than CDX HY price.
+swaptions	684760856207486980	2016-01-06T15:38:05	{DOIDMOGA Index} implied gasoline demand
+swaptions	684072674918797312	2016-01-04T18:03:29	ITB just had it's own little flash crash
+swaptions	677483455765172224	2015-12-17T13:40:17	CRB Food index. Better hope that's a bad print otherwise you've got some 'flation comin, and not the good kind. 
+swaptions	676436001628282880	2015-12-14T16:18:05	I think this week will tell us if high yield trading desks have their hedge ratios correctly sized. If not they'll need to derisk cash bonds
+swaptions	676210791041925124	2015-12-14T01:23:10	There are ylds and exp loss adj yields. A basket of CCC at 30% vs expected loss adj yld of 15%. Be careful abt quoted yld vs expected return
+swaptions	675417313928085504	2015-12-11T20:50:10	MCDX vs CDX about to invert
+swaptions	675409465265405952	2015-12-11T20:18:59	VIX curve hasn't inverted yet. I suspect we have more to go before it gets better. 8s-2s

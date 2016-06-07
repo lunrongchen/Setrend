@@ -1,0 +1,30 @@
+wallstreettech	569895820209885185	2015-02-23T16:25:26	Mitigating Risk for Electronic Trading Infrastructure electronictrading  corvilinc
+wallstreettech	569875694345424896	2015-02-23T15:05:27	Operational Intelligence from Wire Data to Run Electronic Trading Systems in the Now   corvilinc electronictrading
+wallstreettech	568799770329772032	2015-02-20T15:50:07	Optimizing Electronic FX Trading Performance and Execution Quality  corvilinc trading
+wallstreettech	560135563819634689	2015-01-27T18:01:39	A Wild Ride Comes to an End 
+wallstreettech	555454591329132544	2015-01-14T20:01:09	Morgan Stanley Data Theft Exposes Insider Threat &amp; Need for More Restrictions 
+wallstreettech	553250172864835584	2015-01-08T18:01:34	Asset Managers Set Sights on Defragmenting Back-Office Data 
+wallstreettech	553250171686252546	2015-01-08T18:01:34	Beyond Bitcoin: Why Counterparty Has Won Support From Overstock's Chairman 
+wallstreettech	553219873741221888	2015-01-08T16:01:10	4 Mobile Security Predictions for 2015 
+wallstreettech	553147653899714560	2015-01-08T11:14:12	Increasing Cyberthreats Pose Massive Challenge for Financial Firms 
+wallstreettech	552917906200489984	2015-01-07T20:01:16	How to Talk to Your Board About Stress Testing 
+wallstreettech	552842369247485952	2015-01-07T15:01:06	Financial Data Supply Chain, Part 2: Integration as the Ultimate Weapon 
+wallstreettech	552842368400257025	2015-01-07T15:01:06	Clearpool Releases Iris Technology to Meet Needs of Evolving Equities Market 
+wallstreettech	552784104169955330	2015-01-07T11:09:35	The Clock For Market Structure Change Is Ticking 
+wallstreettech	552515031888576512	2015-01-06T17:20:23	CES 2015 Preview: 8 Hot Trends by kevinrcasey InformationWeek  CES2015 
+wallstreettech	552268567639760896	2015-01-06T01:01:01	Swap Markets Debate Anonymous Trading in SEFs 
+wallstreettech	552155058964815872	2015-01-05T17:29:59	5 Smartphone Wishes For 2015 by phonescooper via InformationWeek 
+wallstreettech	552208221713473536	2015-01-05T21:01:14	IEX Bolsters Information Security With Top Hire From BlackRock 
+wallstreettech	552159584916611072	2015-01-05T17:47:58	CES 2015 Preview: 8 Hot Trends by kevinrcasey InformationWeek  CES2015 
+wallstreettech	552059565681172481	2015-01-05T11:10:31	E-Trading Disruptors Seek Untapped Liquidity in Corporate Bonds 
+wallstreettech	549988656396910593	2014-12-30T18:01:28	Bitcoin Taxation: A Gift From the IRS &amp; the Coffee Problem 
+wallstreettech	549885320251326464	2014-12-30T11:10:51	Financial Data Supply Chain, Part 1: A Common Foe Requires a Common Language 
+wallstreettech	549885318690635777	2014-12-30T11:10:51	Next Year, Aim for Communication &amp; Clarity of Cloud Apps 
+wallstreettech	549550629283450882	2014-12-29T13:00:54	2014 in Review: Looking Back at a Year in Risk 
+wallstreettech	549522830707400704	2014-12-29T11:10:27	Universities Increasing Programs for Data Scientists 
+wallstreettech	547446567662518273	2014-12-23T17:40:07	2015 tech: experts forecast an increase in big data/cloud investments for the coming year 
+wallstreettech	547391477371129856	2014-12-23T14:01:12	Improving Performance Measurement for Asset Managers 
+wallstreettech	547362581703585792	2014-12-23T12:06:23	2015 Predition: FinServ &amp; Regulators Will See Opportunity in Internet of Things 
+wallstreettech	547348603883503616	2014-12-23T11:10:51	As Market Matures, Fintech Startup Winners Will Emerge in 2015 
+wallstreettech	547086712548376576	2014-12-22T17:50:11	5 tips on preparing for a data breach from wallstreettech  security
+wallstreettech	547000340059811841	2014-12-22T12:06:58	Financial Firms to Struggle With Growing Social Infrastructure in 2015 

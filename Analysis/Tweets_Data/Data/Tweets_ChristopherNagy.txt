@@ -1,0 +1,210 @@
+ChristopherNagy	725766554722258944	2016-04-28T19:20:05	TylerGellasch Nice Job!
+ChristopherNagy	725722836166303744	2016-04-28T16:26:22	HaimBodek Aaah, the SEC's technology nerve center - A Bloomberg terminal, A TV, a phone and of course a clock with London time.
+ChristopherNagy	725711570127310851	2016-04-28T15:41:36	Somthingisawry CATNMSPLAN Cost $3.2-$3.6 billion Ongoing $2.8-$3.4 billion  5% error rate ~8% reconstruction rate 
+ChristopherNagy	725698056637714438	2016-04-28T14:47:54	What's the profit on that Ham Sandwich TylerGellasch?  
+ChristopherNagy	725691598114181120	2016-04-28T14:22:14	. HouseAgNews Subcommittee on Commodity Exchanges Hearing on the Impact of Capital and Margin Requirements: 
+ChristopherNagy	725467922408169472	2016-04-27T23:33:25	SEC Proposes Design of New Audit System to Better Catch Market Manipulation:  CAT davidamichaels
+ChristopherNagy	725357955487522816	2016-04-27T16:16:27	.MarkWarner, frequent critic of SEC's pace on audit trail, says today's action "is extremely welcome and a very, very overdue development"
+ChristopherNagy	725360962908225536	2016-04-27T16:28:24	GuFinProf 
+ChristopherNagy	725341683500511232	2016-04-27T15:11:48	SEC Commissioner Stein is blasting CAT Proposal for allowing 50 millisecond clock drift  and a 5% error rate. 
+ChristopherNagy	725052273974476800	2016-04-26T20:01:47	Despite broad support among SEC members, nobody said "maker taker" pilot a priority. I.e.: not going to happen soon
+ChristopherNagy	725047868353089536	2016-04-26T19:44:17	GuFinProf DLauer Oh the fine print.
+ChristopherNagy	725026336163557376	2016-04-26T18:18:43	.ThemisSal DLauer 400 microseconds...Looks more like 920 microseconds to me: 
+ChristopherNagy	725008673945214976	2016-04-26T17:08:32	.TabbFORUM Not sure I agree auctions are killing volumes-they've been around forever. I think it's more due to: 
+ChristopherNagy	724980912425852929	2016-04-26T15:18:13	The EMSAC discussion about M/T  demonstrates the link to Market Maker obligations/incentives and need for reform.
+ChristopherNagy	724979727161643008	2016-04-26T15:13:31	davidamichaels TrilliumMJF DLauer The SIP plans are not transparent!
+ChristopherNagy	724968477916680192	2016-04-26T14:28:49	Farley Blasts EMSAC subcommittee recommendations on maker/taker and then blasts SIFMA members for attacking NYSE on Mkt data fees.
+ChristopherNagy	724966056909905920	2016-04-26T14:19:11	AndrewDeLoach That's why there are buckets to pilots.
+ChristopherNagy	724963961297207297	2016-04-26T14:10:52	SEC EMSAC Mecane's states that a trade at would drive volume to the lit exchanges and that's why they didn't include it-Isn't that a goal?
+ChristopherNagy	724938019942322177	2016-04-26T12:27:47	GPhillipNYC Acsussman Agree and step-out's.
+ChristopherNagy	724927042777694208	2016-04-26T11:44:10	Citadel tops list of private U.S. trading venues in new report  jmccrank
+ChristopherNagy	724926755027488769	2016-04-26T11:43:01	Acsussman it was not explicit in the filing so its somwhat surprising that they are rolled up that way.
+ChristopherNagy	724637171001384960	2016-04-25T16:32:19	Fantastic letter guys! HaimBodek StanDolgopolov 
+ChristopherNagy	724627199257501704	2016-04-25T15:52:41	Added transparency about broker/dealer volumes rolling out today via FINRA_News ATS site: 
+ChristopherNagy	723882236890763264	2016-04-23T14:32:29	Using unnecessary complexity to sell things is a primary part of Wall Street's business model. egrefen tyillc MikeSigner mcuban
+ChristopherNagy	723129745110503424	2016-04-21T12:42:20	ThemisSal True. One of the problems with the old FRO's was they did not fit into old symbology well.
+ChristopherNagy	723129111464448001	2016-04-21T12:39:49	ThemisSal yes appears so. The FRO's never took off, don't really see these taking off either.
+ChristopherNagy	723128834837499904	2016-04-21T12:38:43	ThemisSal Personally I liked the "FRO" acryonm: "Hey bro throw on a fro".
+ChristopherNagy	723127906260508674	2016-04-21T12:35:02	ThemisSal Sal, Respectfully beg to differ: 
+ChristopherNagy	723124414154346498	2016-04-21T12:21:09	EMSAC subcommittee recommends framework for a reduced maker-taker pilot 
+ChristopherNagy	722867266782687232	2016-04-20T19:19:21	.MarkWarner again on regulators' case about Consolidated Audit Trail - today urges CFTC's Massad to include "interconnected markets" data
+ChristopherNagy	722043895610093568	2016-04-18T12:47:34	FCA provides few answers with HFT study 
+ChristopherNagy	721063883318763520	2016-04-15T19:53:21	dindjic TheFCA It is disappointing that in the US of the ~130 SRO filings monthly only a few receive comments and even fewer commenters
+ChristopherNagy	721026453744148480	2016-04-15T17:24:37	dindjic 
+ChristopherNagy	721024258244096001	2016-04-15T17:15:53	SEC approves FINRA move to tighten clock tolerances to 50 milliseconds - cites healthymkts  
+ChristopherNagy	720999361870573568	2016-04-15T15:36:58	pointsnfigures happens to all of us. Enjoyable article, thanks for sharing!
+ChristopherNagy	720995970092113920	2016-04-15T15:23:29	pointsnfigures BatsGlobal I think you meant IEX was in Flash Boys &amp; 60 minutes rather than ISE.
+ChristopherNagy	720982724677271553	2016-04-15T14:30:51	Another stock exchange transforms itself to a "for profit publicly traded company" BatsGlobal - Open for trading BATS
+ChristopherNagy	720981634330292225	2016-04-15T14:26:31	BATS up 3.5% in early trading -- I can hear the exhales in KC from here
+ChristopherNagy	720973029304459264	2016-04-15T13:52:19	Market Innovation Will Remain Stalled Until Best Execution Standards Evolve: 
+ChristopherNagy	720924249914019841	2016-04-15T10:38:29	Contrary to pop. belief, ind. ownership* of US stocks is actually quite high:  *Direct, indirect.  V bySamRo, SL 
+ChristopherNagy	720058282795278336	2016-04-13T01:17:27	Looking forward to speaking to Mao Ye's students tomorrow Illinois_Alma about IEX HFT RegNMS &amp; Flashboys ChampaignLove
+ChristopherNagy	718110912452943875	2016-04-07T16:19:18	Concrete suggestions on a key stock market rebate system are likely coming this month, says SEC's Shillman @ STANY 
+ChristopherNagy	718104051351744513	2016-04-07T15:52:02	SEC Nominations Stalled After U.S. Senate Panel Suspends Vote 
+ChristopherNagy	718069569374388225	2016-04-07T13:35:01	ThemisSal Priceless!
+ChristopherNagy	718069371923337216	2016-04-07T13:34:14	.nanexllc Apparently not "un-American" enough to copy: 
+ChristopherNagy	718066512712437761	2016-04-07T13:22:52	ThemisSal IEX NYSE because the NBBO is so 2015.
+ChristopherNagy	718064866171310080	2016-04-07T13:16:19	in a move to copy IEX - NYSE is introducing a Discretionary Pegged Order-type: 
+ChristopherNagy	718057580271157248	2016-04-07T12:47:22	stany. David Shillman - working on institutional 606 routing disclosure, will include some execution quality metrics. Will propose soon
+ChristopherNagy	718057532187484160	2016-04-07T12:47:11	ChuckHill137 NASDAQ but its not for 40 venues,just one.I'm not implying its bad, just relaying the thought provoking filing.
+ChristopherNagy	718025918464176129	2016-04-07T10:41:33	.NYSE moves to update the opening process and remove controversial rule 48 
+ChristopherNagy	717834567915188229	2016-04-06T22:01:12	Mini-Options-Too bad things didn't turn out differently  - In 2014 I wrote:  Today I read:: 
+ChristopherNagy	717794006390837248	2016-04-06T19:20:01	ThemisSal Just reading and reviewing the SRO filings as I do this time of the month. There are some comical filings this month for sure!
+ChristopherNagy	717792735785168896	2016-04-06T19:14:58	If your going to cancel &amp; replace your order 10,000 times nasdaq is gonna cancel it but anything less than is fine: 
+ChristopherNagy	717787628259516416	2016-04-06T18:54:41	It's not payment for order-flow, it's a marketing fee says NASDAQ...wink ;) 
+ChristopherNagy	717096010099589122	2016-04-04T21:06:26	Senate Banking Committee will vote on SEC nominees Hester Peirce and Lisa Fairfax this Thursday!
+ChristopherNagy	717047699061628928	2016-04-04T17:54:28	Excited to see the innovative TradeOnCHX SNAPauctions make their debut on May13th: 
+ChristopherNagy	717019824556093440	2016-04-04T16:03:42	1/2 Our new SNAPauctions product will launch on May 13, with two different types of auction initiation. Learn more: 
+ChristopherNagy	715878869971001344	2016-04-01T12:29:57	You have to wonder about the conflicts with Nasdaq's new Ocean darkpool and the RTFY ordertype: 
+ChristopherNagy	712281700454109184	2016-03-22T14:16:05	An excellent document detailing Best Execution for Investment Advisors. Well done RGNewJr, ChristopherNagy, et al. 
+ChristopherNagy	712217766762307584	2016-03-22T10:02:02	Great Paper on Best Execution!  Better Best Execution  AbelNoser healthymkts KORtrading DLauer ChristopherNagy
+ChristopherNagy	711969563118845952	2016-03-21T17:35:46	SEC interpretation could lead to IEX copycats , reports nicoleabullock
+ChristopherNagy	710884909049470976	2016-03-18T17:45:44	.healthymkts comments on FINRA_News filing to reduce clock syncronization tolerances 
+ChristopherNagy	710220671633248256	2016-03-16T21:46:18	Pisani: Deutsche Boerse finally moves on LSE deal 
+ChristopherNagy	709847373866995712	2016-03-15T21:02:56	Senate Democrats, from the most liberal to the most moderate, unleashed economic outrage at two SEC nominees today 
+ChristopherNagy	710066311951306752	2016-03-16T11:32:55	The March edition of the healthymkts Market Structure Insights is out.Sign up here or inquire for a free preview: 
+ChristopherNagy	708276403599335424	2016-03-11T13:00:28	ICYMI, yesterday healthymkts published a groundbreaking ATS Transparency Index:  PR:  Index: 
+ChristopherNagy	708020687194095616	2016-03-10T20:04:20	FINRA finally proposing a 50% reduction in clock tolerances to 50ms: 
+ChristopherNagy	707616462891032578	2016-03-09T17:18:06	"Extra! Extra! Read all about it!" 
+ChristopherNagy	707594223063863296	2016-03-09T15:49:43	Stock-market overhaul won’t be part of Mary Jo White's legacy at SEC, davidamichaels  via WSJ
+ChristopherNagy	707554885819047937	2016-03-09T13:13:25	Come see how HealthyMarkets is shining light. Dark Pool Settlements Spark Calls for Greater Transparency  via iimag
+ChristopherNagy	707218529330839552	2016-03-08T14:56:51	Introducing Prospector from Fidessa providing a competitive advantage in the search for liquidity  
+ChristopherNagy	705822478434594817	2016-03-04T18:29:27	FredRuffy Yes that would. Try this: 
+ChristopherNagy	705820268644597760	2016-03-04T18:20:40	If this then that but this therefore that. Confused? me too: …
+ChristopherNagy	705426700197306368	2016-03-03T16:16:46	dcsummit: chain CEO adamludwin  says "Blockchain is a strategy"
+ChristopherNagy	705424142175047680	2016-03-03T16:06:36	Ketchum raises lack of transparency in treasuries-How about lack of oversight? Neither SEC nor FINRA claim ownership of the Treasury market.
+ChristopherNagy	705423654813761538	2016-03-03T16:04:40	Luparello - for the record: Tick Size Pilot commences in October!
+ChristopherNagy	705422541007884288	2016-03-03T16:00:14	839 fee schedules with 3,700 variables within maker/taker - "that's not on the up and up"  - SenatorWarner
+ChristopherNagy	705417205865811969	2016-03-03T15:39:02	.elizabethforma blasts FINRA &amp; the SRO model citing Booth study that 1 in 13 advisors have history of misconduct: 
+ChristopherNagy	705415364990017537	2016-03-03T15:31:43	Luparello in response to SenatorWarner   "EMSAC will make a recommendation on Maker/Taker reform in April"
+ChristopherNagy	705414936843853824	2016-03-03T15:30:01	.SenatorWarner "Com'on SEC Maker/Taker reform does not require months of preperation-lets see a pilot" program. MakeitHappen
+ChristopherNagy	705413494770782208	2016-03-03T15:24:17	SEC Trading &amp; Markets head Luparello says top 2 items SEC bringing in 2016: #1 CAT #2 Institutional 606
+ChristopherNagy	705410737703784448	2016-03-03T15:13:20	.SenatorWarner "beyond frustrating that 6 years after approval we still don't have a CAT" MakeitHappen
+ChristopherNagy	705085069904318464	2016-03-02T17:39:15	Tomorrow's Senate hearing will examine what regulatory reforms are being done to improve equity Market Structure: 
+ChristopherNagy	705017132694638592	2016-03-02T13:09:17	Congrats Eric! Whistleblower award for NYSE fine goes to HFT critic   nanex
+ChristopherNagy	704350099392991232	2016-02-29T16:58:44	.healthymkts Reg ATS comment letter focuses on conflicts &amp; quant disclosure for new ATS transparency rules: 
+ChristopherNagy	703328629921587205	2016-02-26T21:19:47	We continue to advocate for investors' interests in pushing for robust quantitative disclosures for new SEC ATS reg: 
+ChristopherNagy	702866303426560001	2016-02-25T14:42:40	daveweisberger nanexllc as have we: 
+ChristopherNagy	702854086241091584	2016-02-25T13:54:07	daveweisberger nanexllc Right, but its not a 605 stat and not in the raw 605 files. Here's Alpert's Github study: 
+ChristopherNagy	702851773321469952	2016-02-25T13:44:55	nanexllc daveweisberger Quoted spread is not a 605 statistic.
+ChristopherNagy	702582194573692928	2016-02-24T19:53:43	With two days left for comments on the SEC's DarkPools proposal letters starting to roll in: 
+ChristopherNagy	702581108383178752	2016-02-24T19:49:24	Foudroyant How is Reg NMS undermined?
+ChristopherNagy	702530981606006784	2016-02-24T16:30:13	Great to see Darkpool operator Liquidnet comment in positive fashion on the IEX application: 
+ChristopherNagy	702487163095547904	2016-02-24T13:36:05	True that! NMS Plans Require Good Governance to Strengthen Market Structure  
+ChristopherNagy	702149112855027712	2016-02-23T15:12:48	First CFTC TAC panel; Many elements of RegAT are already incorporated in best practices among the industry. automatedtrading
+ChristopherNagy	702136050764763136	2016-02-23T14:20:54	.CFTC Technology committee meets today to talk about HFT regulation and blockchain 
+ChristopherNagy	702118649369333762	2016-02-23T13:11:45	Did investor stoporders or liquidity disincentives cause Aug ’15 flashcrash?  TripleDTrader
+ChristopherNagy	700754381310861312	2016-02-19T18:50:38	ThemisSal Dougielarge ty!
+ChristopherNagy	700753528336175104	2016-02-19T18:47:15	Dougielarge ThemisSal Ugh, cursed! I hope not!!
+ChristopherNagy	700749562923896832	2016-02-19T18:31:29	Memory Lane. Congressional Dark Pool Panel in 2009 BillObrien DanMathisson BobGasser TedKaufman ChrisNagy  HFT
+ChristopherNagy	700748535440998400	2016-02-19T18:27:24	SEC's Investor Advocate takes a swipe at the for-profit exchange model  
+ChristopherNagy	700704920018755584	2016-02-19T15:34:06	K. Stein: consolidated audit trail was proposed 6 yrs ago.  We need this data. It is time for the SEC &amp; SROs to get this done.  SECSpeaks
+ChristopherNagy	700727842766598144	2016-02-19T17:05:11	SEC Investor Advocate Rick Fleming bemoans "drift downward" of NYSE listing stndrds, conflicts of interest in exchange/SRO model SECSpeaks
+ChristopherNagy	700718632167313408	2016-02-19T16:28:35	.davidamichaels And just hundreds?There were over 1,500 SRO filings last year. 
+ChristopherNagy	700716009364193281	2016-02-19T16:18:09	davidamichaels You would not know that from the 1,555 SRO filings last year where only a small fraction designated a longer comment period.
+ChristopherNagy	700044046815727616	2016-02-17T19:48:01	Options exchanges now total 14: ISE Mercury begins trading: 
+ChristopherNagy	700033151561830401	2016-02-17T19:04:43	"Clearing the Air", a letter from IEX.  
+ChristopherNagy	699631990224474112	2016-02-16T16:30:39	Franklin Templeton, representing 25.3 Million investor accounts, supports IEX 
+ChristopherNagy	698934627185065984	2016-02-14T18:19:35	Great panel today with ChristopherNagy ITGinc discussing Reg ATS, thank you Florida STA
+ChristopherNagy	698260211329560578	2016-02-12T21:39:42	Foster is the only physics Ph.D. in Congress  
+ChristopherNagy	698207652640374785	2016-02-12T18:10:51	Extracting alpha hidden and commingled with trading noise - blog post 
+ChristopherNagy	698197999789322240	2016-02-12T17:32:29	Looking forward to speaking on V ❤ Day at the Florida STA conference!  …
+ChristopherNagy	698162848850014212	2016-02-12T15:12:49	The February edition of Market Structure Insights is out!  
+ChristopherNagy	698143679085617152	2016-02-12T13:56:38	Options Quotes have gone super-nova since the start of the year: 
+ChristopherNagy	697906889997156352	2016-02-11T22:15:43	Exchanges also state: broker-dealers act entirely in their own commercial interests. As if for-profit exchanges don't? sip
+ChristopherNagy	697906384273166336	2016-02-11T22:13:43	Exchanges claim Non-SRO voting rights are unnecessary b/c investing public is already represented in creation &amp; operation of NMS Plan. SIP
+ChristopherNagy	697881889730883585	2016-02-11T20:36:23	ThemisSal ChristopherNagy look at minutes of October UTP/CTA plan meeting. Item 4 - BATS proposed expanding voting rights. Was voted down.
+ChristopherNagy	697876438607917056	2016-02-11T20:14:43	Kudos BATSGlobal and Chris Concannon  NMSPlans
+ChristopherNagy	697878771399917569	2016-02-11T20:23:59	Exchanges plea to retain monopoly control over SIP plans &amp; while Investors may have voice they don't have a vote! 
+ChristopherNagy	697471139342323712	2016-02-10T17:24:12	CME to cut trading hours for livestock futures to reduce volatility, after ranchers complain  via kelseykgee
+ChristopherNagy	697451981284069376	2016-02-10T16:08:05	.IEX 3rd comment letter out citing that the SEC has never defined “intentional device” 
+ChristopherNagy	697426116487749634	2016-02-10T14:25:18	Why is it that BATSGlobal Options Regulatory Fee (ORF) is an order of magnitude less than NYSE CBOE NASDAQ ? 
+ChristopherNagy	697164929141346304	2016-02-09T21:07:26	jmccrank Great point.
+ChristopherNagy	697156576218484736	2016-02-09T20:34:14	jmccrank That's going to be a tight development timeframe for the winning bidder.
+ChristopherNagy	697146953616916480	2016-02-09T19:56:00	jmccrank need to pick a winning bidder first if we aregoing to see a CAT in 2017.
+ChristopherNagy	697097878469156865	2016-02-09T16:41:00	.ebudish comment letter on IEX application  &amp; associated paper on Frequent Batch Auctions: 
+ChristopherNagy	696823465832108032	2016-02-08T22:30:35	.AlgoTrdr BernieSanders Noahpinion BV Chris Culp examined the effects of an FTT globally in 2010: 
+ChristopherNagy	696806816647237632	2016-02-08T21:24:25	Options volume since 1973. Is the Options Regulatory Fee (ORF) making an impact or are Options on their way out? 
+ChristopherNagy	696799880254087168	2016-02-08T20:56:52	Are $0.08 in Options Regulatory Fees (ORF) on a round trip options transaction stunting volumes? 
+ChristopherNagy	696757034633408512	2016-02-08T18:06:36	CyborgQuant Interesting. Thanks!
+ChristopherNagy	696756953553379328	2016-02-08T18:06:17	MarketPlumber There's still some value but your right, leaves much to be desired.
+ChristopherNagy	696756822925914112	2016-02-08T18:05:46	MarketPlumber I see that too. The old qtrs don't really provide a clue.
+ChristopherNagy	696752078316670976	2016-02-08T17:46:55	Anyone care to suggest who "blank" is receiving Credit Suisse Listed/Nasdaq orders from their 606 report? 
+ChristopherNagy	696733812663984128	2016-02-08T16:34:20	One way to make the Consolidated Audit Trail happen:  make it useful by giving participants useful data.   via BV
+ChristopherNagy	696348837552611328	2016-02-07T15:04:35	Comical filing from the ISE exchange. It's not Payment For Order-Flow, it's a "marketing fee" wink, wink 
+ChristopherNagy	696315683370565632	2016-02-07T12:52:50	"Risky bond fund leverage alarms IMF"  
+ChristopherNagy	695736558834442240	2016-02-05T22:31:36	The cost of trading Options is going up.  CBOE and Nasdaq just raised ORF fees by 21% which are applied to customer trades.
+ChristopherNagy	695639090964770816	2016-02-05T16:04:18	Informative discussion by TylerGellasch on Benzinga discussing healthymkts  TripleDTrader Spus Marketstructure
+ChristopherNagy	695612324355444736	2016-02-05T14:17:56	Chicago Stock Exchange Says It's Being Sold to Chinese-Led Group  exchange has only 0.5% of US stock-trading now
+ChristopherNagy	695612870063759360	2016-02-05T14:20:06	.IEX is now "Un-American"? :) That's when you know the incumbents are desperate. That's what disruption feels like. 
+ChristopherNagy	695320838468345856	2016-02-04T18:59:40	RemcoLenterman ThemisSal mechmarkets The stat makes me question if Reg NMS and specifically 611 was worth doing? 
+ChristopherNagy	694938659808636928	2016-02-03T17:41:02	Buyside Speakers Announced for 2016 Florida STA Conference | Traders News 
+ChristopherNagy	694887125485944832	2016-02-03T14:16:15	marascio @pennyspread RemcoLenterman Dougielarge JoeSaluzzi HaimBodek Good to C UR back on twitter Louis!
+ChristopherNagy	694604421343416320	2016-02-02T19:32:53	Brad/IEX are probably referring to  and 
+ChristopherNagy	694600222618431488	2016-02-02T19:16:12	T Rowe's take on PFOF - "They're not doing this to help the world. They're not going to get a Nobel Prize for wholesaling" ... gets a laugh
+ChristopherNagy	694598453188493314	2016-02-02T19:09:10	I loved Chester's line of questioning! EMSAC
+ChristopherNagy	694595389350027264	2016-02-02T18:57:00	But then why do brokers send their market orders to wholesalers and their non-marketable limit orders to exchanges? EMSAC
+ChristopherNagy	694593306496409601	2016-02-02T18:48:43	.TripleDTrader Blasts internalization, highlights the predominace of sub-penny PI and lambastes the accuracy of Rule 605. EMSAC
+ChristopherNagy	694587743083577344	2016-02-02T18:26:37	Chldress:  SEC Rules 605 and 606 are outdated and need to be refreshed. My take: Agree! Brokers should disclose better exec quality info.
+ChristopherNagy	694587115066171394	2016-02-02T18:24:07	ChuckHill137 Not sure but I think he's referencing this: 
+ChristopherNagy	694585410341605376	2016-02-02T18:17:21	ChuckHill137 MarketPlumber yet another reason to modernize 606 as the stats do not represent reality.
+ChristopherNagy	694582943994413056	2016-02-02T18:07:33	Market orders are two thirds of CharlesSchwab orders? What am I missing Jeff Brown?  EMSAC
+ChristopherNagy	694564603817099264	2016-02-02T16:54:40	ChuckHill137 TripleDTrader We do have TylerGellasch on the ground attending as well.
+ChristopherNagy	694564202401259520	2016-02-02T16:53:04	ChuckHill137 TripleDTrader No. Still working. Have had some quality issues though.
+ChristopherNagy	694563849291235328	2016-02-02T16:51:40	Looking forward to TripleDTrader presentation at EMSAC 
+ChristopherNagy	694536140695580673	2016-02-02T15:01:34	DeepSkyMaven DLauer The lit markets do have the RLP programs.
+ChristopherNagy	694535555137179648	2016-02-02T14:59:14	RemcoLenterman DeepSkyMaven DLauer Schwab and others also report stats here.  Too bad more do not. 
+ChristopherNagy	694504184343764992	2016-02-02T12:54:35	DeepSkyMaven DLauer Not arguing that but confused. R U saying that without PFOF there would be no PI?
+ChristopherNagy	694495252028076032	2016-02-02T12:19:05	DeepSkyMaven DLauer No retail clients receive a direct PFOF benefit but the argument can be made that they receive benefit indirectly.
+ChristopherNagy	692798037228257280	2016-01-28T19:54:58	davidamichaels Higher PFOF rates as well. Also interesting the differences between brokers.
+ChristopherNagy	692789146515955712	2016-01-28T19:19:38	ThemisSal Love that letter!
+ChristopherNagy	692788815090491392	2016-01-28T19:18:19	ThemisSal Yup! I used to deal with Mark back in the early 90's.
+ChristopherNagy	692788530611773440	2016-01-28T19:17:11	ThemisSal I'm sure of that. Very interesting read and take on their thoughts on PFOF and where they are wanting to go.
+ChristopherNagy	692787864396910592	2016-01-28T19:14:32	davidamichaels The PFOF part forward.  Interesting that PFOF is skyrocketing while trades have not.
+ChristopherNagy	692786688423174144	2016-01-28T19:09:52	Wow!  Pg 8: 
+ChristopherNagy	691641615551590400	2016-01-25T15:19:45	What Is an Exchange? 
+ChristopherNagy	691602105602191360	2016-01-25T12:42:45	The stock exchanges are eating your returns by ltabb 
+ChristopherNagy	687841134899539968	2016-01-15T03:38:00	Kitty still got it stacmwm
+ChristopherNagy	687689014678261760	2016-01-14T17:33:32	STACMWM's market structure panel is underway, featuring our CEO JohnKerin_CHX 
+ChristopherNagy	687431303009026048	2016-01-14T00:29:29	call convened at 10:30; call concluded at 10:35. Must have a 140-character limit. 
+ChristopherNagy	687341368369258496	2016-01-13T18:32:07	Next ESMAC meeting announced for Feb 2, 2015. Hearing 605/606 may actually be discussed: 
+ChristopherNagy	685589984036818944	2016-01-08T22:32:44	James Cox and J. Robert Brown Join Board of Healthy Markets Association | Traders News 
+ChristopherNagy	685566724012388352	2016-01-08T21:00:18	Gonna need a whole lotta Shakin'  jmccrank 
+ChristopherNagy	685471372802396160	2016-01-08T14:41:25	.TradeKing reflects on the biggest and boldest investing shifts that have taken place since 2005: 
+ChristopherNagy	685462702714699776	2016-01-08T14:06:58	Excellent article from pascalbouvier -10 Common Reasons Why Fin Tech Startups Fail: 
+ChristopherNagy	685449999363260416	2016-01-08T13:16:29	14th US Options exchange plans to commence trading Feb 16th: 
+ChristopherNagy	685156745971277824	2016-01-07T17:51:12	davidamichaels paving the trend!
+ChristopherNagy	685150819964944384	2016-01-07T17:27:39	davidamichaels Love the skull &amp; crossbone emojis!
+ChristopherNagy	684816337055514624	2016-01-06T19:18:32	"My orders at brokers are time stamped to the minute" Such a valid point from this iex comment ltr:   unthinkable
+ChristopherNagy	684806624930742272	2016-01-06T18:39:57	kmcpartland RemcoLenterman It's TV Remco all they want are those sound bites and in less characters than twitter!
+ChristopherNagy	684802059212685312	2016-01-06T18:21:48	ICYMI-Are Equity Market Algorithms an Unfair Advantage? kmcpartland discusses on BloombergTV: 
+ChristopherNagy	684751803930570753	2016-01-06T15:02:06	kmcpartland Nice Job!
+ChristopherNagy	684748212041846784	2016-01-06T14:47:50	kmcpartland ha!
+ChristopherNagy	684740725678977025	2016-01-06T14:18:05	On BloombergTV in a few minutes 
+ChristopherNagy	684741340966588416	2016-01-06T14:20:32	kmcpartland tuned in-good luck!
+ChristopherNagy	684718939218259968	2016-01-06T12:51:31	Prominent Law Professors James Cox and J. Robert Brown Join Board of healthymkts 
+ChristopherNagy	684535267127083008	2016-01-06T00:41:40	Credit Suisse U.S. stock trading chief Mathisson is leaving bank, told employees today of plans to start new business - DJ
+ChristopherNagy	684450957896253440	2016-01-05T19:06:39	.davidamichaels and while they are at it they should update the Best Execution report catds.
+ChristopherNagy	684399073995046914	2016-01-05T15:40:29	"approximately 96% of all orders sent to U.S. equity markets are never executed"  davidamichaels efficiency
+ChristopherNagy	684376224936820736	2016-01-05T14:09:41	Fascinating story Temple_West on the IEX exchange app:  Also includes this hill handout: 
+ChristopherNagy	684367695333212160	2016-01-05T13:35:48	Here's the Nasdaq filing IEX refers to, describes exact latency arbitrage issue on pg 5-6:  
+ChristopherNagy	684213249743564800	2016-01-05T03:22:05	DealBook: A Growing Conflict in Wall St. Buyouts 
+ChristopherNagy	684143377684676608	2016-01-04T22:44:26	NSX volumes since launch. ouchfits 
+ChristopherNagy	682205313043267584	2015-12-30T14:23:16	SEC seeks to overhaul 40 year old stock transfer agent rules: 
+ChristopherNagy	681860868653625344	2015-12-29T15:34:34	Hey Remco - let's make it a double - you an Larry vs me and a partner. 
+ChristopherNagy	681875444883406848	2015-12-29T16:32:29	bbolan1 And devoid of any conclusions or recommendations!
+ChristopherNagy	681869562955083776	2015-12-29T16:09:06	SEC releases research summarizing the events of Aug 24th: 
+ChristopherNagy	678222260956585984	2015-12-19T14:36:02	ChuckHill137 Re-read, LOL.
+ChristopherNagy	678222026293690368	2015-12-19T14:35:06	From the BATS S-1, re: market data and connectivity costs - on the rise. 
+ChristopherNagy	677135801751334912	2015-12-16T14:38:50	BATS in February: “We are absolutely not planning an IPO,”  via bradleyhope
+ChristopherNagy	677960605542645760	2015-12-18T21:16:18	Abelnoser Abel/Noser's comment letter 
+ChristopherNagy	677940131236413440	2015-12-18T19:54:57	Barron's asks online traders for help with the upcoming review. 
+ChristopherNagy	677886390445588481	2015-12-18T16:21:24	Another Delay for an Upstart Stock Exchange 
+ChristopherNagy	677857936291569664	2015-12-18T14:28:20	Non-profits representing investors' interests: HMA. healthymkts 
+ChristopherNagy	677598212291735552	2015-12-17T21:16:17	If you are interested reading the BATSGlobal S-1 filing, here's the link: 
+ChristopherNagy	677589556204580864	2015-12-17T20:41:53	Katsuyama of IEX: "There are 11 exchanges.  10 of them are owned by 3 companies.  I don't think that's competition."
+ChristopherNagy	677236207336751105	2015-12-16T21:17:48	.RemcoLenterman Crazy... if you just switch the first letters of the first and last name, it spells your name. 
+ChristopherNagy	677217850671693827	2015-12-16T20:04:52	Omnibus policy rider tells SEC to study impact of Volcker Rule, Basel, and other stuff on "liquidity." 
+ChristopherNagy	677177824332115968	2015-12-16T17:25:49	.NYSE filing to eliminate GTC &amp; Stop Orders "simplifying functionality reducing complexity of its order types." 
+ChristopherNagy	676754552557715456	2015-12-15T13:23:53	Letter to TabbFORUM One Market Participant’s Anonymous Comments on IEX Recent Letter to the Buy Side:  
+ChristopherNagy	676496081618911233	2015-12-14T20:16:49	Someone noticing that FINRA is getting specific. Very specific. And existing business models are in play... 

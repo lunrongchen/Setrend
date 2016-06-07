@@ -1,0 +1,54 @@
+googleresearch	726094182666792960	2016-04-29T17:01:57	Have a question about Machine Learning? Maybe NatAndLo can get it answered in their next video episode on ML 
+googleresearch	726078731316400129	2016-04-29T16:00:34	Today we are excited to announce that DeepMind will start using TensorFlow for all future research! - 
+googleresearch	725040745019760640	2016-04-26T19:15:58	Join CEOs, governors, and education leaders in asking Congress to support computer science in every K-12 school - 
+googleresearch	723569717110173696	2016-04-22T17:50:38	Have fun with TensorFlow Playground, an open source visualization of how neural networks learn and optimize. 
+googleresearch	723298581864542209	2016-04-21T23:53:14	Congratulations to Jeff Dean and Sanjay Ghemawat for being elected to the American Academy of Arts and Sciences! 
+googleresearch	722213471350165505	2016-04-19T00:01:24	Some new research from UC Berkeley and Google, presented at www2016, about helping webmasters re-secure their sites 
+googleresearch	721058621241565185	2016-04-15T19:32:26	Would you plug a strange USB drive into your computer? A recent study found that 48% of people would! Learn more at 
+googleresearch	720306516562030592	2016-04-13T17:43:50	Announcing TensorFlow 0.8 – now with distributed computing support! Check it out at  
+googleresearch	719936637099061248	2016-04-12T17:14:04	Announcing a CS EDU website that outlines our initiatives in CS education. Learn more at  
+googleresearch	718238266219216896	2016-04-08T00:45:21	The Google Brain team is focused on advancing the state of the art in Deep Learning. Learn more about their work at 
+googleresearch	717748721866244097	2016-04-06T16:20:05	Google Genomics and broadinstitute collaborating on large-scale genomic data analysis leads to impressive results - 
+googleresearch	715941674623574017	2016-04-01T16:39:31	NatAndLo investigate recent discoveries from the Google Quantum AI Lab 
+googleresearch	715238449725374468	2016-03-30T18:05:09	Find out how speech synthesis works via an inside look from NatAndLo at the new voice of the google app.  
+googleresearch	714908471120953345	2016-03-29T20:13:56	Check out what we've learned in the past 10 years of protecting Gmail users enigma2016  
+googleresearch	712679579727433729	2016-03-23T16:37:07	Scaling neural network image classification using Kubernetes with TensorFlow Serving.  
+googleresearch	712688225173635072	2016-03-23T17:11:28	We are happy to announce Google Cloud Machine Learning, based on TensorFlow  GCPNEXT2016 
+googleresearch	710904463284768768	2016-03-18T19:03:26	Learn about the "ultimate synergy of spreadsheets and Deep Neural Networks" at  artisanaldatascience
+googleresearch	709800455941922816	2016-03-15T17:56:30	The 5 game match between AlphaGo and Lee Sedol has come to an end, but what's next? Find out at 
+googleresearch	707699676317757440	2016-03-09T22:48:45	Train or fine tune Inception-v3 yourself, on one or multiple GPU’s, with TensorFlow  
+googleresearch	707623945424384000	2016-03-09T17:47:50	Congratulations to AlphaGo 
+googleresearch	707417532634804225	2016-03-09T04:07:37	Watch the livestream of DeepMind's AlphaGo playing against the top Go player of the past decade, Lee Sedol! - 
+googleresearch	707265963830304768	2016-03-08T18:05:20	Learn about some research into training a deep CNN to learn to predict the outcome of a robotic grasp - 
+googleresearch	705516763140771840	2016-03-03T22:14:38	16 teams. 238,900 miles. One dream: GLXPMoonShot from bad_robot:  
+googleresearch	705006026421051392	2016-03-02T12:25:09	Learn about some research aimed at bringing route planning to the next level -  
+googleresearch	704411644106022912	2016-02-29T21:03:17	Congratulations to the Red Electrical Devils, winners of the $1Million Little Box Challenge!  
+googleresearch	704370189702397952	2016-02-29T18:18:34	The Little Box Challenge winner will be announced at 2:50pm EST in Maryland Ballroom D, right after  arpae16 ARPAE
+googleresearch	703348983310086144	2016-02-26T22:40:39	Check out a DeepDream VR experiment made by brillhart dohug and and the Artists and Machine Intelligence program 
+googleresearch	703290327847731205	2016-02-26T18:47:35	The $1Million Little Box Challenge () winner will be announced Monday at ARPAE16 - Excited? 
+googleresearch	702953608992587776	2016-02-25T20:29:35	Applications for the 2016 Google Earth Engine User Summit are now available online! Learn more @  RemoteSensing GIS
+googleresearch	702569662874312704	2016-02-24T19:03:55	How would a Neural Network respond to the questions of a personality test? Find out at  
+googleresearch	701832048793690112	2016-02-22T18:12:54	Exploring the intersection of Art and Machine Intelligence with DeepDream -  
+googleresearch	701581274335424512	2016-02-22T01:36:25	Learn more about how Google technologies can be used to to study genomic data -  
+googleresearch	700752565948907520	2016-02-19T18:43:25	GoogleTranslate brings support to 13 new languages - now over 100 in total! Learn more at  
+googleresearch	699654801802420225	2016-02-16T18:01:18	Utilize the power of machine learning in your next product with TensorFlow Serving -  
+googleresearch	698279066353299456	2016-02-12T22:54:37	Congratulations to the recipients of the Fall 2015 Google Research Awards! 
+googleresearch	697499278747549696	2016-02-10T19:16:01	Nuurbs Thanks for the heads up, the permissions have been fixed!
+googleresearch	697494073192611840	2016-02-10T18:55:20	Announcing the Google Internet of Things (IoT) Technology Research Award Pilot. Learn more at  
+googleresearch	692409962677571585	2016-01-27T18:12:54	AlphaGo: Mastering the ancient game of Go with Machine Learning. Learn more at  
+googleresearch	690227459493535744	2016-01-21T17:40:24	Check out the new Deep Learning Course we developed in collaboration with Udacity, using tensorflow 
+googleresearch	687014127638728704	2016-01-12T20:51:46	Interested in a career in deep learning? Apply to the Google Brain Residency Program at  
+googleresearch	686609479299936257	2016-01-11T18:03:51	Interested in research on security, privacy, and electronic crime? Read why we are excited about USENIX Enigma at 
+googleresearch	685565454849409024	2016-01-08T20:55:16	Stanford and the VA use Google technologies like BigQuery, Cloud Dataflow, and Genomics to look at human genome data 
+googleresearch	684535992754176001	2016-01-06T00:44:33	Applications for the Google Earth Engine Research Awards are now open. Details on deadlines and how to apply at 
+googleresearch	677928161909202944	2015-12-18T19:07:23	Meet Airbender, a team experimenting w/ VR, interactive design &amp; more in a new video by NatAndLo  -  
+googleresearch	677628623436816384	2015-12-17T23:17:08	After 4 years of , "Structured data markup is now a core part of the modern web."  - 
+googleresearch	676473565395349504	2015-12-14T18:47:20	Curious about how deepdream got started?  Check out the Medium article at 
+googleresearch	675461065128280065	2015-12-11T23:44:02	Why Enigma2016? Let us show you: 
+googleresearch	674700911785054208	2015-12-09T21:23:27	At NIPS2015 ? Stop by the Google booth for a TensorFlow demo with Rajat Monga 
+googleresearch	674308613737979904	2015-12-08T19:24:36	When can Quantum Annealing win? See some new results from the Google Quantum A.I. team at  
+googleresearch	673942488852205568	2015-12-07T19:09:45	If you're at NIPS2015 stop by the Google booth at 3PM for a Google Brain Residency Q&amp;A with Ilya Sutskever 
+googleresearch	673868483063619584	2015-12-07T14:15:40	Use TensorFlow to train your very own deep network to identify objects in images  
+googleresearch	673517739865210885	2015-12-06T15:01:57	Google has a strong presence at NIPS2015 in Montreal this week. See all the work our researchers are presenting at 
+googleresearch	671394681431945216	2015-11-30T18:25:40	Google Handwriting Input () now supports a total of 87 languages in 23 distinct scripts! - 
+googleresearch	664930011007217665	2015-11-12T22:17:23	Read the results of a multi-year study of how email security has evolved since 2013 -  

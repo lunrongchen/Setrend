@@ -1,0 +1,570 @@
+KitchenNews	725777809197551616	2016-04-28T20:04:48	SPX down 0.9% Nasdaq down 1.2% DJIA down 1.2% WTI crude up 0.6% (45.60) Comex gold up 1.7% Euro 1.1360 Yen 108.11 SPX COMP DJIA EUR JPY
+KitchenNews	725762938150129664	2016-04-28T19:05:43	SPX down 0.4% Nasdaq down 0.5% DJIA down 0.7% WTI crude up 1.5% (46.03) Comex gold up 1.4% Euro 1.1352 Yen 108.14 SPX COMP DJIA EUR JPY
+KitchenNews	725745771283275776	2016-04-28T17:57:30	SPX flat Nasdaq up 0.1% DJIA down 0.4% WTI crude up 1.5% (46.01) Comex gold up 1.3% Euro 1.1349 Yen 108.09 SPX COMP DJIA EUR JPY
+KitchenNews	725731560905838592	2016-04-28T17:01:02	SPX up 0.1% Nasdaq up 0.2% DJIA down 0.2% WTI crude up 0.8% (45.69) Comex gold up 1.2% Euro 1.1340 Yen 108.33 SPX COMP DJIA EUR JPY
+KitchenNews	725716809115037696	2016-04-28T16:02:25	SPX up 0.2% Nasdaq up 0.5% DJIA down 0.1% WTI crude up 0.5% (45.54) Comex gold up 1.3% Euro 1.1328 Yen 108.56 SPX COMP DJIA EUR JPY
+KitchenNews	725701494113071104	2016-04-28T15:01:33	SPX up 0.1% Nasdaq up 0.5% DJIA down 0.2% WTI crude up 0.3% (45.47) Comex gold up 0.7% Euro 1.1315 Yen 108.56 SPX COMP DJIA EUR JPY
+KitchenNews	725687355793764352	2016-04-28T14:05:22	SPX down 0.1% Nasdaq up 0.3% DJIA down 0.3% WTI crude up 0.4% (45.50) Comex gold up 0.5% Euro 1.1337 Yen 108.66 SPX COMP DJIA EUR JPY
+KitchenNews	725419520236605444	2016-04-27T20:21:05	SPX up 0.2% Nasdaq down 0.5% DJIA up 0.3% WTI crude up 2.8% (45.26) Comex gold up 0.3% Euro 1.1312 Yen 111.51 SPX COMP DJIA EUR JPY
+KitchenNews	725401091685261312	2016-04-27T19:07:52	SPX up 0.2% Nasdaq down 0.7% DJIA up 0.4% WTI crude up 2.8% (45.26) Comex gold up 0.3% Euro 1.1321 Yen 111.38 SPX COMP DJIA EUR JPY
+KitchenNews	725382865911988226	2016-04-27T17:55:26	SPX down 0.1% Nasdaq down 0.9% DJIA up 0.1% WTI crude up 1.3% (44.61) Comex gold up 0.6% Euro 1.1340 Yen 111.40 SPX COMP DJIA EUR JPY
+KitchenNews	725369572388298753	2016-04-27T17:02:37	SPX down 0.1% Nasdaq down 0.9% DJIA up 0.1% WTI crude up 1.2% (44.58) Comex gold up 0.6% Euro 1.1324 Yen 111.31 SPX COMP DJIA EUR JPY
+KitchenNews	725354964264984576	2016-04-27T16:04:34	SPX down 0.1% Nasdaq down 0.8% DJIA up 0.1% WTI crude up 0.6% (44.28) Comex gold up 0.5% Euro 1.1324 Yen 111.26 SPX COMP DJIA EUR JPY
+KitchenNews	725341471608426497	2016-04-27T15:10:57	SPX down 0.3% Nasdaq down 1.1% DJIA down 0.3% WTI crude down 0.4% (43.88) Comex gold up 0.2% Euro 1.1316 Yen 111.27 SPX COMP DJIA EUR
+KitchenNews	725325853178118144	2016-04-27T14:08:53	SPX down 0.2% Nasdaq down 0.8% DJIA down 0.2% WTI crude up 2.2% (45.00) Comex gold up 0.5% Euro 1.1318 Yen 111.29 SPX COMP DJIA EUR JPY
+KitchenNews	725055146665869312	2016-04-26T20:13:12	SPX up 0.2% Nasdaq down 0.2% DJIA up 0.1% WTI crude up 3.2% (44.01) Comex gold up 0.3% Euro 1.1289 Yen 111.43 SPX COMP DJIA EUR JPY
+KitchenNews	725038727073005568	2016-04-26T19:07:57	SPX flat Nasdaq down 0.3% DJIA down 0.1% WTI crude up 3.2% (44.00) Comex gold up 0.3% Euro 1.1293 Yen 111.42 SPX COMP DJIA EUR JPY
+KitchenNews	725020540336005120	2016-04-26T17:55:41	SPX flat Nasdaq down 0.3% DJIA down 0.1% WTI crude up 3.1% (43.97) Comex gold up 0.3% Euro 1.1293 Yen 111.39 SPX COMP DJIA EUR JPY
+KitchenNews	725008090731405312	2016-04-26T17:06:13	SPX up 0.1% Nasdaq down 0.2% DJIA flat WTI crude up 3.2% (43.99) Comex gold up 0.2% Euro 1.1295 Yen 111.38 SPX COMP DJIA EUR JPY
+KitchenNews	724993443018067969	2016-04-26T16:08:01	SPX up 0.2% Nasdaq flat DJIA up 0.1% WTI crude up 3.1% (44.00) Comex gold up 0.4% Euro 1.1312 Yen 111.32 SPX COMP DJIA EUR JPY
+KitchenNews	724977278149488641	2016-04-26T15:03:47	SPX down 0.1% Nasdaq down 0.4% DJIA down 0.2% WTI crude up 2.1% (43.53) Comex gold up 0.2% Euro 1.1305 Yen 111.18 SPX COMP DJIA EUR JPY
+KitchenNews	724962894803247104	2016-04-26T14:06:37	SPX up 0.4% Nasdaq up 0.3% DJIA up 0.3% WTI crude up 1.5% (43.28) Comex gold up 0.2% Euro 1.1332 Yen 111.03 SPX COMP DJIA EUR JPY
+KitchenNews	724691733036949504	2016-04-25T20:09:07	SPX down 0.2% Nasdaq down 0.2% DJIA down 0.2% WTI crude down 2% (42.86) Comex gold up 0.8% Euro 1.1262 Yen 111.22 SPX COMP DJIA EUR JPY
+KitchenNews	724675859433459712	2016-04-25T19:06:03	SPX down 0.4% Nasdaq down 0.4% DJIA down 0.4% WTI crude down 2.3% (42.72) Comex gold up 0.8% Euro 1.1263 Yen 111.27 SPX COMP DJIA EUR
+KitchenNews	724658209273737217	2016-04-25T17:55:55	SPX down 0.3% Nasdaq down 0.3% DJIA down 0.3% WTI crude down 1.8% (42.94) Comex gold up 0.8% Euro 1.1274 Yen 111.24 SPX COMP DJIA EUR
+KitchenNews	724644950864883713	2016-04-25T17:03:14	SPX down 0.3% Nasdaq down 0.3% DJIA down 0.3% WTI crude down 1.1% (43.24) Comex gold up 1% Euro 1.1270 Yen 111.26 SPX COMP DJIA EUR JPY
+KitchenNews	724629564933066752	2016-04-25T16:02:05	SPX down 0.5% Nasdaq down 0.5% DJIA down 0.6% WTI crude down 1.4% (43.11) Comex gold up 1% Euro 1.1272 Yen 111.10 SPX COMP DJIA EUR JPY
+KitchenNews	724622343549505536	2016-04-25T15:33:24	SPX down 0.5% Nasdaq down 0.4% DJIA down 0.6% WTI crude down 1.1% (43.25) Comex gold up 0.9% Euro 1.1273 Yen 111.07 SPX COMP DJIA EUR
+KitchenNews	724601250470219776	2016-04-25T14:09:35	SPX down 0.5% Nasdaq down 0.3% DJIA down 0.6% WTI crude up 0.1% (43.77) Comex gold up 0.8% Euro 1.1260 Yen 111.00 SPX COMP DJIA EUR JPY
+KitchenNews	723590449009549312	2016-04-22T19:13:01	SPX flat Nasdaq down 0.8% DJIA up 0.1% WTI crude up 1.2% (43.70) Comex gold down 1.3% Euro 1.1234 Yen 111.63 SPX COMP DJIA EUR JPY
+KitchenNews	723573138198392832	2016-04-22T18:04:14	SPX down 0.1% Nasdaq down 1% DJIA up 0.1% WTI crude up 1.6% (43.86) Comex gold down 1.5% Euro 1.1225 Yen 111.78 SPX COMP DJIA EUR JPY
+KitchenNews	723558453784924160	2016-04-22T17:05:53	SPX down 0.3% Nasdaq down 1.2% DJIA down 0.2% WTI crude up 1.2% (43.69) Comex gold down 1.6% Euro 1.1225 Yen 111.65 SPX COMP DJIA EUR
+KitchenNews	723543809691262977	2016-04-22T16:07:41	SPX down 0.3% Nasdaq down 1.2% DJIA down 0.2% WTI crude up 2.3% (44.15) Comex gold down 0.9% Euro 1.1233 Yen 111.52 SPX COMP DJIA EUR
+KitchenNews	723526930306228224	2016-04-22T15:00:37	SPX down 0.4% Nasdaq down 1.4% DJIA down 0.4% WTI crude up 2.2% (44.14) Comex gold down 0.5% Euro 1.1241 Yen 111.47 SPX COMP DJIA EUR
+KitchenNews	723513952957648897	2016-04-22T14:09:03	SPX flat Nasdaq down 0.7% DJIA up 0.1% WTI crude up 2.4% (44.20) Comex gold down 0.4% Euro 1.1258 Yen 111.41 SPX COMP DJIA EUR JPY
+KitchenNews	723243558539390976	2016-04-21T20:14:36	SPX down 0.5% Nasdaq down 0.1% DJIA down 0.6% WTI crude down 1.3% (43.60) Comex gold down 0.3% Euro 1.1289 Yen 109.46 SPX COMP DJIA EUR
+KitchenNews	723226574120591361	2016-04-21T19:07:06	SPX down 0.5% Nasdaq down 0.1% DJIA down 0.6% WTI crude down 1.9% (43.35) Comex gold down 0.3% Euro 1.1296 Yen 109.53 SPX COMP DJIA EUR
+KitchenNews	723208102699372544	2016-04-21T17:53:42	SPX down 0.5% Nasdaq flat DJIA down 0.5% WTI crude down 1.6% (43.48) Comex gold down 0.3% Euro 1.1295 Yen 109.47 SPX COMP DJIA EUR
+KitchenNews	723195612477284352	2016-04-21T17:04:04	SPX down 0.3% Nasdaq flat DJIA down 0.4% WTI crude down 1.4% (43.56) Comex gold down 0.1% Euro 1.1296 Yen 109.53 SPX COMP DJIA EUR JPY
+KitchenNews	723182457135099905	2016-04-21T16:11:48	SPX down 0.3% Nasdaq down 0.1% DJIA down 0.3% WTI crude down 0.8% (43.85) Comex gold down 0.1% Euro 1.1312 Yen 109.36 SPX COMP DJIA EUR
+KitchenNews	723166224834658304	2016-04-21T15:07:18	SPX down 0.1% Nasdaq up 0.3% DJIA down 0.1% WTI crude down 1.6% (43.46) Comex gold down 0.1% Euro 1.1292 Yen 109.51 SPX COMP DJIA EUR
+KitchenNews	723150793772134403	2016-04-21T14:05:59	SPX down 0.3% Nasdaq down 0.2% DJIA down 0.2% WTI crude down 2% (43.29) Comex gold down 0.2% Euro 1.1302 Yen 109.42 SPX COMP DJIA EUR
+KitchenNews	722879463462023168	2016-04-20T20:07:49	SPX up 0.1% Nasdaq up 0.2% DJIA up 0.2% WTI crude up 3.8% (42.63) Comex gold down 0.6% Euro 1.1296 Yen 109.79 SPX COMP DJIA EUR JPY
+KitchenNews	722864352764633088	2016-04-20T19:07:46	SPX up 0.4% Nasdaq up 0.6% DJIA up 0.6% WTI crude up 3.8% (42.63) Comex gold down 0.2% Euro 1.1296 Yen 109.84 SPX COMP DJIA EUR JPY
+KitchenNews	722846936894537729	2016-04-20T17:58:34	SPX up 0.4% Nasdaq up 0.4% DJIA up 0.5% WTI crude up 3.6% (42.57) Comex gold flat Euro 1.1315 Yen 109.74 SPX COMP DJIA EUR JPY
+KitchenNews	722833833293262848	2016-04-20T17:06:30	SPX up 0.3% Nasdaq up 0.3% DJIA up 0.4% WTI crude up 3% (42.33) Comex gold up 0.1% Euro 1.1325 Yen 109.71 SPX COMP DJIA EUR JPY
+KitchenNews	722817887510011904	2016-04-20T16:03:08	SPX up 0.2% Nasdaq up 0.3% DJIA up 0.3% WTI crude up 1.6% (41.75) Comex gold up 0.2% Euro 1.1330 Yen 109.51 SPX COMP DJIA EUR JPY
+KitchenNews	722806429392838656	2016-04-20T15:17:36	SPX up 0.1% Nasdaq up 0.3% DJIA up 0.2% WTI crude down 0.3% (40.96) Comex gold up 0.1% Euro 1.1338 Yen 109.27 SPX COMP DJIA EUR JPY
+KitchenNews	722789149934100481	2016-04-20T14:08:56	SPX flat Nasdaq up 0.1% DJIA up 0.1% WTI crude down 2.2% (40.19) Comex gold up 0.1% Euro 1.1344 Yen 109.27 SPX COMP DJIA EUR JPY
+KitchenNews	722522170811752449	2016-04-19T20:28:03	Belatedly... SPX up 0.3% Nasdaq down 0.4% DJIA up 0.3% WTI crude up 3.2% (41.05) Comex gold up 1.4% Euro 1.1362 Yen 109.19
+KitchenNews	722502046318854145	2016-04-19T19:08:05	SPX up 0.2% Nasdaq down 0.5% DJIA up 0.2% WTI crude up 3.1% (41.02) Comex gold up 1.5% Euro 1.1378 Yen 109.13 SPX COMP DJIA EUR JPY
+KitchenNews	722484103564513280	2016-04-19T17:56:48	SPX up 0.2% Nasdaq down 0.4% DJIA up 0.2% WTI crude up 2.9% (40.92) Comex gold up 1.6% Euro 1.1382 Yen 109.06 SPX COMP DJIA EUR JPY
+KitchenNews	722470256648663040	2016-04-19T17:01:46	SPX up 0.1% Nasdaq down 0.6% DJIA up 0.1% WTI crude up 2.8% (40.90) Comex gold up 1.7% Euro 1.1379 Yen 109.12 SPX COMP DJIA EUR JPY
+KitchenNews	722456126583746560	2016-04-19T16:05:37	SPX up 0.1% Nasdaq down 0.6% DJIA up 0.1% WTI crude up 3.5% (41.16) Comex gold up 1.8% Euro 1.1374 Yen 109.19 SPX COMP DJIA EUR JPY
+KitchenNews	722442462300475394	2016-04-19T15:11:20	CORRECTION to 9am tweet -- WTI was up 3.5% (not 1.4%)
+KitchenNews	722441990273536000	2016-04-19T15:09:27	SPX up 0.4% Nasdaq down 0.1% DJIA up 0.4% WTI crude up 3.7% (41.25) Comex gold up 1.7% Euro 1.1384 Yen 109.25 SPX COMP DJIA EUR JPY
+KitchenNews	722426629335547904	2016-04-19T14:08:25	SPX up 0.4% Nasdaq down 0.1% DJIA up 0.5% WTI crude up 1.4% (40.34) Comex gold up 1.7% Euro 1.1378 Yen 109.30 SPX COMP DJIA EUR JPY
+KitchenNews	722154585951834113	2016-04-18T20:07:24	SPX up 0.7% Nasdaq up 0.4% DJIA up 0.6% WTI crude down 1.2% (39.89) Comex gold down 0.1% Euro 1.1312 Yen 108.78 SPX COMP DJIA EUR JPY
+KitchenNews	722142135416279040	2016-04-18T19:17:56	SPX up 0.6% Nasdaq up 0.3% DJIA up 0.5% WTI crude down 1.4% (39.80) Comex gold flat Euro 1.1312 Yen 108.83 SPX COMP DJIA EUR JPY
+KitchenNews	722120924858679296	2016-04-18T17:53:39	SPX up 0.5% Nasdaq up 0.3% DJIA up 0.5% WTI crude down 1.2% (39.86) Comex gold up 0.1% Euro 1.1318 Yen 108.85 SPX COMP DJIA EUR JPY
+KitchenNews	722108271545323520	2016-04-18T17:03:22	SPX up 0.5% Nasdaq up 0.2% DJIA up 0.5% WTI crude down 1.3% (39.84) Comex gold flat Euro 1.1329 Yen 108.88 SPX COMP DJIA EUR JPY
+KitchenNews	722094914360573952	2016-04-18T16:10:18	SPX up 0.4% Nasdaq up 0.2% DJIA up 0.4% WTI crude down 1.4% (39.79) Comex gold up 0.1% Euro 1.1319 Yen 108.89 SPX COMP DJIA EUR JPY
+KitchenNews	722079469888884736	2016-04-18T15:08:55	SPX up 0.4% Nasdaq up 0.3% DJIA up 0.3% WTI crude down 2.6% (39.30) Comex gold up 0.2% Euro 1.1322 Yen 108.74 SPX COMP DJIA EUR JPY
+KitchenNews	722063963836448768	2016-04-18T14:07:18	SPX up 0.2% Nasdaq up 0.1% DJIA up 0.3% WTI crude down 3% (39.14) Comex gold up 0.2% Euro 1.1308 Yen 108.89 SPX COMP DJIA EUR JPY
+KitchenNews	721069367861993472	2016-04-15T20:15:08	SPX down 0.1% Nasdaq down 0.2% DJIA down 0.2% WTI crude down 2.7% (40.37) Comex gold up 0.7% Euro 1.1286 Yen 108.74 SPX COMP DJIA EUR
+KitchenNews	721052611005165568	2016-04-15T19:08:33	SPX down 0.1% Nasdaq down 0.2% DJIA down 0.1% WTI crude down 2.9% (40.29) Comex gold up 0.6% Euro 1.1288 Yen 108.72 SPX COMP DJIA EUR
+KitchenNews	721034853227978752	2016-04-15T17:57:59	SPX down 0.2% Nasdaq down 0.3% DJIA down 0.3% WTI crude down 2.2% (40.57) Comex gold up 0.7% Euro 1.1293 Yen 108.69 SPX COMP DJIA EUR
+KitchenNews	721022767131336704	2016-04-15T17:09:58	G17333O444789DS :-)
+KitchenNews	721021676893315074	2016-04-15T17:05:38	SPX down 0.2% Nasdaq down 0.2% DJIA down 0.2% WTI crude down 2.8% (40.34) Comex gold up 0.8% Euro 1.1310 Yen 108.63 SPX COMP DJIA EUR
+KitchenNews	721004894220472321	2016-04-15T15:58:57	SPX down 0.1% Nasdaq flat DJIA down 0.1% WTI crude down 2.8% (40.34) Comex gold up 0.7% Euro 1.1293 Yen 108.77 SPX COMP DJIA EUR JPY
+KitchenNews	720990509691310081	2016-04-15T15:01:47	G17333O444789DS May be some skepticism over Doha, since freeze on current output levels means little if Saudi, Russia already at capacity
+KitchenNews	720990317776769025	2016-04-15T15:01:01	SPX down 0.1% Nasdaq down 0.1% DJIA flat WTI crude down 3.3% (40.12) Comex gold up 0.4% Euro 1.1300 Yen 108.74 SPX COMP DJIA EUR JPY
+KitchenNews	720977321780350981	2016-04-15T14:09:23	SPX down 0.1% Nasdaq down 0.2% DJIA down 0.1% WTI crude down 3.3% (40.15) Comex gold up 0.2% Euro 1.1302 Yen 108.78 SPX COMP DJIA EUR
+KitchenNews	720704777617694720	2016-04-14T20:06:23	SPX flat Nasdaq flat DJIA up 0.1% WTI crude down 0.8% (41.44) Comex gold down 1.8% Euro 1.1262 Yen 109.44 SPX COMP DJIA EUR JPY
+KitchenNews	720688594088636416	2016-04-14T19:02:05	SPX up 0.1% Nasdaq up 0.1% DJIA up 0.1% WTI crude down 1.1% (41.30) Comex gold down 1.7% Euro 1.1269 Yen 109.28 SPX COMP DJIA EUR JPY
+KitchenNews	720672660363943936	2016-04-14T17:58:46	SPX up 0.1% Nasdaq flat DJIA up 0.1% WTI crude up 0.3% (41.90) Comex gold down 1.8% Euro 1.1271 Yen 109.13 SPX COMP DJIA EUR JPY
+KitchenNews	720659010039341056	2016-04-14T17:04:31	SPX up 0.2% Nasdaq up 0.3% DJIA up 0.3% WTI crude up 0.2% (41.83) Comex gold down 1.8% Euro 1.1266 Yen 109.19 SPX COMP DJIA EUR JPY
+KitchenNews	720644243555880960	2016-04-14T16:05:51	SPX up 0.1% Nasdaq up 0.1% DJIA up 0.2% WTI crude up 0.5% (41.96) Comex gold down 1.6% Euro 1.1267 Yen 109.18 SPX COMP DJIA EUR JPY
+KitchenNews	720629259547443200	2016-04-14T15:06:18	SPX flat Nasdaq down 0.1% DJIA up 0.1% WTI crude up 0.1% (41.78) Comex gold down 1.2% Euro 1.1267 Yen 109.18 SPX COMP DJIA EUR JPY
+KitchenNews	720614291540353025	2016-04-14T14:06:50	SPX down 0.1% Nasdaq down 0.2% DJIA down flat WTI crude down 0.2% (41.69) Comex gold down 1.1% Euro 1.1277 Yen 108.98 SPX COMP DJIA EUR
+KitchenNews	720342598339039232	2016-04-13T20:07:13	SPX up 1% Nasdaq up 1.6% DJIA up 1.1% WTI crude down 1.6% (41.51) Comex gold down 1.4% Euro 1.1280 Yen 109.29 SPX COMP DJIA EUR JPY
+KitchenNews	720328495339954176	2016-04-13T19:11:11	SPX up 0.9% Nasdaq up 1.4% DJIA up 1% WTI crude down 1.3% (41.62) Comex gold down 1.2% Euro 1.1287 Yen 109.26 SPX COMP DJIA EUR JPY
+KitchenNews	720310202969432064	2016-04-13T17:58:29	SPX up 0.8% Nasdaq up 1.1% DJIA up 0.9% WTI crude down 0.5% (41.95) Comex gold down 1% Euro 1.1284 Yen 109.28 SPX COMP DJIA EUR JPY
+KitchenNews	720296678616469504	2016-04-13T17:04:45	SPX up 0.7% Nasdaq up 1.1% DJIA up 0.8% WTI crude down 0.7% (41.89) Comex gold down 1.1% Euro 1.1288 Yen 109.16 SPX COMP DJIA EUR JPY
+KitchenNews	720281114422607872	2016-04-13T16:02:54	SPX up 0.7% Nasdaq up 1.1% DJIA up 0.8% WTI crude down 0.2% (42.10) Comex gold down 1.2% Euro 1.1278 Yen 109.22 SPX COMP DJIA EUR JPY
+KitchenNews	720265612027518976	2016-04-13T15:01:18	SPX up 0.6% Nasdaq up 1% DJIA up 0.6% WTI crude down 0.3% (42.06) Comex gold down 0.9% Euro 1.1285 Yen 109.27 SPX COMP DJIA EUR JPY
+KitchenNews	720252171116089344	2016-04-13T14:07:53	SPX up 0.6% Nasdaq up 1.1% DJIA up 0.7% WTI crude down 1.8% (41.41) Comex gold down 1.1% Euro 1.1277 Yen 109.11 SPX COMP DJIA EUR JPY
+KitchenNews	719980159365808128	2016-04-12T20:07:01	SPX up 1% Nasdaq up 0.8% DJIA up 0.9% WTI crude up 4% (41.98) Comex gold up 0.1% Euro 1.1390 Yen 108.53 SPX COMP DJIA EUR JPY
+KitchenNews	719964937058004992	2016-04-12T19:06:31	SPX up 1.1% Nasdaq up 0.9% DJIA up 1.1% WTI crude up 4.5% (42.16) Comex gold up 0.1% Euro 1.1397 Yen 108.54 SPX COMP DJIA EUR JPY
+KitchenNews	719947845973901312	2016-04-12T17:58:37	SPX up 0.8% Nasdaq up 0.6% DJIA up 0.9% WTI crude up 3.9% (41.94) Comex gold up 0.1% Euro 1.1382 Yen 108.64 SPX COMP DJIA EUR JPY
+KitchenNews	719933811983671296	2016-04-12T17:02:51	SPX up 0.8% Nasdaq up 0.6% DJIA up 0.9% WTI crude up 3.4% (41.75) Comex gold down 0.1% Euro 1.1380 Yen 108.77 SPX COMP DJIA EUR JPY
+KitchenNews	719920292789768192	2016-04-12T16:09:07	G17333O444789DS Possible Saudi-Russia deal on output freeze may be driving the price up 
+KitchenNews	719919051347111938	2016-04-12T16:04:11	SPX up 0.7% Nasdaq up 0.4% DJIA up 0.8% WTI crude up 3.3% (41.68) Comex gold flat Euro 1.1395 Yen 108.55 SPX COMP DJIA EUR JPY
+KitchenNews	719903952158916608	2016-04-12T15:04:12	SPX up 0.5% Nasdaq up 0.3% DJIA up 0.6% WTI crude up 1.9% (41.11) Comex gold down 0.2% Euro 1.1378 Yen 108.55 SPX COMP DJIA EUR JPY
+KitchenNews	719889848065085440	2016-04-12T14:08:09	SPX up 0.2% Nasdaq down 0.1% DJIA up 0.4% WTI crude up 0.7% (40.65) Comex gold flat Euro 1.1352 Yen 108.66 SPX COMP DJIA EUR JPY
+KitchenNews	719622151678992384	2016-04-11T20:24:25	SPX down 0.3% Nasdaq down 0.4% DJIA down 0.1% WTI crude up 1.7% (40.38) Comex gold up 1.1% Euro 1.1407 Yen 107.98 SPX COMP DJIA EUR JPY
+KitchenNews	719606323101347840	2016-04-11T19:21:31	G17333O444789DS excellent!
+KitchenNews	719602120651984896	2016-04-11T19:04:49	SPX up 0.2% Nasdaq up 0.3% DJIA up 0.4% WTI crude up 1.8% (40.44) Comex gold up 1.2% Euro 1.1412 Yen 107.95 SPX COMP DJIA EUR JPY
+KitchenNews	719586463113842688	2016-04-11T18:02:36	SPX up 0.4% Nasdaq up 0.4% DJIA up 0.5% WTI crude up 1% (40.13) Comex gold up 1.1% Euro 1.1406 Yen 108.09 SPX COMP DJIA EUR JPY
+KitchenNews	719572412346413056	2016-04-11T17:06:46	SPX up 0.4% Nasdaq up 0.5% DJIA up 0.5% WTI crude up 1.5% (40.32) Comex gold up 1.2% Euro 1.1417 Yen 107.98 SPX COMP DJIA EUR JPY
+KitchenNews	719557511687249920	2016-04-11T16:07:34	SPX up 0.2% Nasdaq up 0.3% DJIA up 0.3% WTI crude up 1.7% (40.40) Comex gold up 1.3% Euro 1.1412 Yen 107.95 SPX COMP DJIA EUR JPY
+KitchenNews	719544861808922624	2016-04-11T15:17:18	SPX up 0.2% Nasdaq up 0.3% DJIA up 0.3% WTI crude up 1.5% (40.31) Comex gold up 1.2% Euro 1.1431 Yen 107.93 SPX COMP DJIA EUR JPY
+KitchenNews	719527100286251008	2016-04-11T14:06:43	SPX up 0.7% Nasdaq up 0.9% DJIA up 0.8% WTI crude up 2.2% (40.59) Comex gold up 1% Euro 1.1440 Yen 108.12 SPX COMP DJIA EUR JPY
+KitchenNews	718531937669750785	2016-04-08T20:12:18	SPX up 0.3% Nasdaq up 0.1% DJIA up 0.2% WTI crude up 6% (39.51) Comex gold up 0.3% Euro 1.1401 Yen 108.15 SPX COMP DJIA EUR JPY
+KitchenNews	718514820576772097	2016-04-08T19:04:17	SPX up 0.2% Nasdaq flat DJIA up 0.2% WTI crude up 6.2% (39.55) Comex gold up 0.4% Euro 1.1401 Yen 108.29 SPX COMP DJIA EUR JPY
+KitchenNews	718497967859077121	2016-04-08T17:57:19	G17333O444789DS :-)
+KitchenNews	718497855002923009	2016-04-08T17:56:52	SPX up 0.4% Nasdaq up 0.1% DJIA up 0.3% WTI crude up 5.6% (39.33) Comex gold up 0.5% Euro 1.1402 Yen 108.44 SPX COMP DJIA EUR JPY
+KitchenNews	718485203199463424	2016-04-08T17:06:35	SPX up 0.3% Nasdaq flat DJIA up 0.3% WTI crude up 6.7% (39.77) Comex gold up 0.4% Euro 1.1402 Yen 108.37 SPX COMP DJIA EUR JPY
+KitchenNews	718469372721795076	2016-04-08T16:03:41	SPX up 0.4% Nasdaq flat DJIA up 0.4% WTI crude up 5.6% (39.36) Comex gold up 0.3% Euro 1.1410 Yen 108.37 SPX COMP DJIA EUR JPY
+KitchenNews	718460463890042880	2016-04-08T15:28:17	steripps Thanks! Yeah, once in a while I screw it up -- hopefully not too often
+KitchenNews	718459953510387713	2016-04-08T15:26:15	vinnehvincent :-) Good you guys keep me honest!
+KitchenNews	718458465983733761	2016-04-08T15:20:21	CORRECTION: SPX up 0.6% Nasdaq up 0.4% DJIA up 0.5% WTI crude 6.7% (39.77) Comex gold up 0.3% Euro 1.1409 Yen 108.33 SPX COMP DJIA EUR
+KitchenNews	718457986130153472	2016-04-08T15:18:26	Arrgh! Crazy at work today -- correcting market check now, stock indexes up
+KitchenNews	718455185501085696	2016-04-08T15:07:19	SPX down 0.7% Nasdaq down 0.6% DJIA down 0.7% WTI crude up 6.6% (39.71) Comex gold up 0.2% Euro 1.1403 Yen 108.42 SPX COMP DJIA EUR JPY
+KitchenNews	718439937528307712	2016-04-08T14:06:43	SPX up 0.8% Nasdaq up 0.8% DJIA up 0.8% WTI crude up 5.3% (39.23) Comex gold up 0.2% Euro 1.1392 Yen 108.66 SPX COMP DJIA EUR JPY
+KitchenNews	718170876026290177	2016-04-07T20:17:34	SPX down 1.2% Nasdaq down 1.5% DJIA down 1% WTI crude down 0.8% (37.44) Comex gold up 1.5% Euro 1.1371 Yen 108.41 SPX COMP DJIA EUR JPY
+KitchenNews	718156372655742976	2016-04-07T19:19:56	SPX down 1.4% Nasdaq down 1.6% DJIA down 1.1% WTI crude down 1% (37.39) Comex gold up 1.4% Euro 1.1378 Yen 108.37 SPX COMP DJIA EUR JPY
+KitchenNews	718136525196632064	2016-04-07T18:01:04	SPX down 1.3% Nasdaq down 1.5% DJIA down 1% WTI crude down 2% (36.98) Comex gold up 1.2% Euro 1.1376 Yen 108.15 SPX COMP DJIA EUR JPY
+KitchenNews	718122397329526784	2016-04-07T17:04:56	SPX down 1% Nasdaq down 1.1% DJIA down 0.8% WTI crude down 2.6% (36.76) Comex gold up 1.3% Euro 1.1380 Yen 108.14 SPX COMP DJIA EUR JPY
+KitchenNews	718106802894712832	2016-04-07T16:02:58	SPX down 0.9% Nasdaq down 1.1% DJIA down 0.9% WTI crude down 2% (36.98) Comex gold up 1.5% Euro 1.1390 Yen 108.00 SPX COMP DJIA EUR JPY
+KitchenNews	718091749197885440	2016-04-07T15:03:09	SPX down 0.9% Nasdaq down 1.2% DJIA down 0.9% WTI crude down 1.7% (37.11) Comex gold up 1.4% Euro 1.1389 Yen 107.83 SPX COMP DJIA EUR
+KitchenNews	718077248851419136	2016-04-07T14:05:32	SPX down 0.5% Nasdaq down 0.6% DJIA down 0.6% WTI crude down 0.8% (37.44) Comex gold up 1.6% Euro 1.1359 Yen 108.14 SPX COMP DJIA EUR
+KitchenNews	717807517301014528	2016-04-06T20:13:43	SPX up 1.1% Nasdaq up 1.6% DJIA up 0.6% WTI crude up 5.3% (37.80) Comex gold down 0.4% Euro 1.1401 Yen 109.77 SPX COMP DJIA EUR JPY
+KitchenNews	717780235568021505	2016-04-06T18:25:18	SPX up 0.6% Nasdaq up 1% DJIA up 0.2% WTI crude up 4.5% (37.49) Comex gold down 0.5% Euro 1.1414 Yen 109.61 SPX COMP DJIA EUR JPY
+KitchenNews	717759657289199616	2016-04-06T17:03:32	SPX up 0.6% Nasdaq up 1% DJIA up 0.4% WTI crude up 5.2% (37.76) Comex gold down 0.5% Euro 1.1416 Yen 109.70 SPX COMP DJIA EUR JPY
+KitchenNews	717744885630001153	2016-04-06T16:04:50	SPX up 0.6% Nasdaq up 0.9% DJIA up 0.4% WTI crude up 5% (37.69) Comex gold down 0.1% Euro 1.1428 Yen 109.59 SPX COMP DJIA EUR JPY
+KitchenNews	717729360162099200	2016-04-06T15:03:08	SPX up 0.5% Nasdaq up 0.7% DJIA up 0.3% WTI crude up 4% (37.33) Comex gold down 0.5% Euro 1.1371 Yen 110.06 SPX COMP DJIA EUR JPY
+KitchenNews	717714928065318912	2016-04-06T14:05:48	SPX up 0.2% Nasdaq up 0.5% DJIA down 0.1% WTI crude up 2.5% (36.80) Comex gold down 0.5% Euro 1.1396 Yen 110.03 SPX COMP DJIA EUR JPY
+KitchenNews	717445723977953280	2016-04-05T20:16:04	SPX down 1% Nasdaq down 1% DJIA down 0.8% WTI crude up 0.6% (35.93) Comex gold up 1% Euro 1.1387 Yen 110.28 SPX COMP DJIA EUR JPY
+KitchenNews	717430187273510912	2016-04-05T19:14:20	SPX down 0.8% Nasdaq down 0.8% DJIA down 0.5% WTI crude up 0.9% (36.01) Comex gold up 0.9% Euro 1.1384 Yen 110.44 SPX COMP DJIA EUR JPY
+KitchenNews	717412270154776577	2016-04-05T18:03:08	SPX down 0.9% Nasdaq down 0.8% DJIA down 0.5% WTI crude down 0.2% (35.64) Comex gold up 0.9% Euro 1.1391 Yen 110.26 SPX COMP DJIA EUR
+KitchenNews	717397170756788224	2016-04-05T17:03:08	SPX down 1% Nasdaq down 1% DJIA down 0.7% WTI crude down 0.1% (35.65) Comex gold up 0.9% Euro 1.1400 Yen 110.24 SPX COMP DJIA EUR JPY
+KitchenNews	717382714932875264	2016-04-05T16:05:42	SPX down 0.7% Nasdaq down 0.7% DJIA down 0.4% WTI crude up 0.4% (35.84) Comex gold up 1.1% Euro 1.1390 Yen 110.23 SPX COMP DJIA EUR JPY
+KitchenNews	717367275272048640	2016-04-05T15:04:21	SPX down 0.9% Nasdaq down 0.7% DJIA down 0.6% WTI crude down 0.5% (35.54) Comex gold up 0.9% Euro 1.1373 Yen 110.48 SPX COMP DJIA EUR
+KitchenNews	717353096754540545	2016-04-05T14:08:00	SPX down 0.6% Nasdaq down 0.5% DJIA down 0.2% WTI crude down 0.6% (35.49) Comex gold 1.2% Euro 1.1337 Yen 110.63 SPX COMP DJIA EUR JPY
+KitchenNews	717080799711875072	2016-04-04T20:06:00	SPX down 0.3% Nasdaq down 0.5% DJIA down 0.3% WTI crude down 2.9% (35.72) Comex gold down 0.6% Euro 1.1393 Yen 111.32 SPX COMP DJIA EUR
+KitchenNews	717066825008197632	2016-04-04T19:10:28	SPX down 0.3% Nasdaq down 0.4% DJIA down 0.3% WTI crude down 2.8% (35.77) Comex gold down 0.5% Euro 1.1394 Yen 111.33 SPX COMP DJIA EUR
+KitchenNews	717048997781708800	2016-04-04T17:59:37	SPX down 0.3% Nasdaq down 0.3% DJIA down 0.3% WTI crude down 1.8% (36.12) Comex gold down 0.3% Euro 1.1404 Yen 111.17 SPX COMP DJIA EUR
+KitchenNews	717035746494799872	2016-04-04T17:06:58	SPX down 0.2% Nasdaq down 0.1% DJIA down 0.1% WTI crude down 1.4% (36.29) Comex gold down 0.4% Euro 1.1397 Yen 111.16 SPX COMP DJIA EUR
+KitchenNews	717022615164956672	2016-04-04T16:14:47	SPX down 0.1% Nasdaq down 0.2% DJIA flat WTI crude down 0.6% (36.58) Comex gold down 0.3% Euro 1.1391 Yen 111.21 SPX COMP DJIA EUR JPY
+KitchenNews	717005650723627008	2016-04-04T15:07:23	SPX down 0.3% Nasdaq down 0.5% DJIA down 0.3% WTI crude down 0.3% (36.70) Comex gold down 0.3% Euro 1.1385 Yen 111.25 SPX COMP DJIA EUR
+KitchenNews	716990464423907329	2016-04-04T14:07:02	SPX flat Nasdaq flat DJIA up 0.1% WTI crude up 0.9% (37.11) Comex gold down 0.3% Euro 1.1401 Yen 111.39 SPX COMP DJIA EUR JPY
+KitchenNews	715996078361952256	2016-04-01T20:15:42	SPX up 0.6% Nasdaq up 0.9% DJIA up 0.6% WTI crude down 4.4% (36.65) Comex gold down 0.9% Euro 1.1399 Yen 111.64 SPX COMP DJIA EUR JPY
+KitchenNews	715978121145683969	2016-04-01T19:04:20	SPX up 0.5% Nasdaq up 0.8% DJIA up 0.6% WTI crude down 4.1% (36.76) Comex gold down 1.2% Euro 1.1396 Yen 111.73 SPX COMP DJIA EUR JPY
+KitchenNews	715961322165432320	2016-04-01T17:57:35	SPX up 0.4% Nasdaq up 0.6% DJIA up 0.5% WTI crude down 3.5% (37.01) Comex gold down 1.1% Euro 1.1387 Yen 111.82 SPX COMP DJIA EUR JPY
+KitchenNews	715947244734668800	2016-04-01T17:01:39	SPX up 0.1% Nasdaq up 0.4% DJIA up 0.2% WTI crude down 3.9% (36.85) Comex gold down 1.4% Euro 1.1397 Yen 111.72 SPX COMP DJIA EUR JPY
+KitchenNews	715933084106022912	2016-04-01T16:05:23	SPX up 0.1% Nasdaq up 0.4% DJIA up 0.2% WTI crude down 3.5% (37.01) Comex gold down 1.7% Euro 1.1387 Yen 112.06 SPX COMP DJIA EUR JPY
+KitchenNews	715917432435511297	2016-04-01T15:03:11	SPX up 0.1% Nasdaq up 0.4% DJIA up 0.3% WTI crude down 3.8% (36.90) Comex gold down 1.7% Euro 1.1346 Yen 112.38 SPX COMP DJIA EUR JPY
+KitchenNews	715902907279810560	2016-04-01T14:05:28	SPX down 0.5% Nasdaq down 0.3% DJIA down 0.4% WTI crude down 4.1% (36.77) Comex gold down 1.5% Euro 1.1367 Yen 112.18 SPX COMP DJIA EUR
+KitchenNews	715632497267073024	2016-03-31T20:10:57	SPX down 0.2% Nasdaq flat DJIA down 0.2% WTI crude down 0.4% (38.17) Comex gold up 0.4% Euro 1.1383 Yen 112.54 SPX COMP DJIA EUR JPY
+KitchenNews	715615727076519936	2016-03-31T19:04:19	SPX down 0.2% Nasdaq up 0.1% DJIA down 0.2% WTI crude down 0.2% (38.23) Comex gold up 0.5% Euro 1.1390 Yen 112.49 SPX COMP DJIA EUR JPY
+KitchenNews	715587521028050945	2016-03-31T17:12:14	CSDURR Yeah, SPX seems to have retraced losses ytd -- guess we'll see :-)
+KitchenNews	715586893610504192	2016-03-31T17:09:45	SPX up 0.1% Nasdaq up 0.3% DJIA up 0.1% WTI crude down 0.3% (38.20) Comex gold up 0.4% Euro 1.1386 Yen 112.49 SPX COMP DJIA EUR JPY
+KitchenNews	715569810994630657	2016-03-31T16:01:52	SPX up 0.2% Nasdaq up 0.4% DJIA up 0.2% WTI crude up 1.2% (38.79) Comex gold up 0.6% Euro 1.1390 Yen 112.43 SPX COMP DJIA EUR JPY
+KitchenNews	715555719085338624	2016-03-31T15:05:52	SPX up 0.1% Nasdaq up 0.3% DJIA up 0.2% WTI crude up 0.7% (38.59) Comex gold up 0.6% Euro 1.1393 Yen 112.41 SPX COMP DJIA EUR JPY
+KitchenNews	715540545968320512	2016-03-31T14:05:34	SPX flat Nasdaq up 0.1% DJIA flat WTI crude up 0.7% (38.57) Comex gold up 0.7% Euro 1.1406 Yen 112.25 SPX COMP DJIA EUR JPY
+KitchenNews	715269749467254784	2016-03-30T20:09:31	SPX up 0.4% Nasdaq up 0.5% DJIA up 0.5% WTI crude down 0.1% (38.25) Comex gold down 0.8% Euro 1.1335 Yen 112.45 SPX COMP DJIA EUR JPY
+KitchenNews	715255458005581824	2016-03-30T19:12:44	SPX up 0.6% Nasdaq up 0.7% DJIA up 0.6% WTI crude up 0.3% (38.39) Comex gold down 0.6% Euro 1.1333 Yen 112.46 SPX COMP DJIA EUR JPY
+KitchenNews	715237717156634624	2016-03-30T18:02:14	SPX up 0.5% Nasdaq up 0.5% DJIA up 0.5% WTI crude down 0.1% (38.24) Comex gold down 0.7% Euro 1.1319 Yen 112.54 SPX COMP DJIA EUR JPY
+KitchenNews	715225746839445505	2016-03-30T17:14:40	Zizipho_ZA agree for sure, dollar reaction to Yellen likely a component today
+KitchenNews	715222829990412292	2016-03-30T17:03:05	SPX up 0.4% Nasdaq up 0.4% DJIA up 0.4% WTI crude up 0.3% (38.39) Comex gold down 0.6% Euro 1.1322 Yen 112.55 SPX COMP DJIA EUR JPY
+KitchenNews	715207627085520896	2016-03-30T16:02:40	SPX up 0.5% Nasdaq up 0.5% DJIA up 0.5% WTI crude up 0.8% (38.60) Comex gold down 0.8% Euro 1.1330 Yen 112.60 SPX COMP DJIA EUR JPY
+KitchenNews	715194543893680128	2016-03-30T15:10:41	SPX up 0.8% Nasdaq up 0.8% DJIA up 0.8% WTI crude up 3% (39.42) Comex gold down 0.2% Euro 1.1348 Yen 112.51 SPX COMP DJIA EUR JPY
+KitchenNews	715178277946535938	2016-03-30T14:06:03	SPX up 0.7% Nasdaq up 0.9% DJIA up 0.7% WTI crude up 3.5% (39.62) Comex gold down 0.2% Euro 1.1328 Yen 112.55 SPX COMP DJIA EUR JPY
+KitchenNews	714909890855088128	2016-03-29T20:19:35	SPX up 0.9% Nasdaq up 1.7% DJIA up 0.6% WTI crude down 2.4% (38.43) Comex gold up 1.8% Euro 1.1295 Yen 112.72 SPX COMP DJIA EUR JPY
+KitchenNews	714890900925591554	2016-03-29T19:04:07	SPX up 0.8% Nasdaq up 1.6% DJIA up 0.5% WTI crude down 2.7% (38.34) Comex gold up 1.8% Euro 1.1299 Yen 112.76 SPX COMP DJIA EUR JPY
+KitchenNews	714544206237163524	2016-03-28T20:06:29	SPX up 0.1% Nasdaq down 0.1% DJIA up 0.1% WTI crude down 0.2% (39.38) Comex gold down 0.2% Euro 1.1200 Yen 113.43 SPX COMP DJIA EUR JPY
+KitchenNews	714541792406818816	2016-03-28T19:56:53	G17333O444789DS :-)
+KitchenNews	714530593787129856	2016-03-28T19:12:23	SPX up 0.2% Nasdaq flat DJIA up 0.3% WTI crude down 0.2% (39.40) Comex gold down 0.1% Euro 1.1203 Yen 113.31 SPX COMP DJIA EUR JPY
+KitchenNews	714513697863966721	2016-03-28T18:05:15	SPX up 0.3% Nasdaq up 0.2% DJIA up 0.4% WTI crude down 0.5% (39.25) Comex gold down 0.1% Euro 1.1201 Yen 113.34 SPX COMP DJIA EUR JPY
+KitchenNews	714498368139952128	2016-03-28T17:04:20	SPX up 0.2% Nasdaq up 0.1% DJIA up 0.3% WTI crude down 0.6% (39.22) Comex gold down 0.4% Euro 1.1197 Yen 113.39 SPX COMP DJIA EUR JPY
+KitchenNews	714485344565985281	2016-03-28T16:12:35	SPX flat Nasdaq down 0.2% DJIA flat WTI crude down 0.9% (39.09) Comex gold down 0.2% Euro 1.1211 Yen 113.28 SPX COMP DJIA EUR JPY
+KitchenNews	714469817651081217	2016-03-28T15:10:53	SPX down 0.1% Nasdaq down 0.2% DJIA flat WTI crude down 0.8% (39.14) Comex gold down 0.1% Euro 1.1215 Yen 113.28 SPX COMP DJIA EUR JPY
+KitchenNews	714453243217096711	2016-03-28T14:05:01	SPX flat Nasdaq down 0.1% DJIA up 0.1% WTI crude down 0.3% (39.33) Comex gold down 0.1% Euro 1.1200 Yen 113.34 SPX COMP DJIA EUR JPY
+KitchenNews	713093910289997827	2016-03-24T20:03:31	SPX flat Nasdaq up 0.1% DJIA up 0.1% WTI crude down 0.5% (39.60) Comex gold down 0.5% Euro 1.1181 Yen 112.83 SPX COMP DJIA EUR JPY
+KitchenNews	713079130611265536	2016-03-24T19:04:47	SPX down 0.3% Nasdaq down 0.1% DJIA down 0.1% WTI crude down 0.5% (39.60) Comex gold down 0.2% Euro 1.1178 Yen 112.81 SPX COMP DJIA EUR
+KitchenNews	713062459762847744	2016-03-24T17:58:33	SPX down 0.3% Nasdaq down 0.3% DJIA down 0.3% WTI crude down 0.9% (39.44) Comex gold down 0.2% Euro 1.1183 Yen 112.70 SPX COMP DJIA EUR
+KitchenNews	713048752634724352	2016-03-24T17:04:05	SPX down 0.5% Nasdaq down 0.3% DJIA down 0.4% WTI crude down 1.6% (39.16) Comex gold down 0.2% Euro 1.1173 Yen 112.67 SPX COMP DJIA EUR
+KitchenNews	713033718445637632	2016-03-24T16:04:20	SPX down 0.4% Nasdaq down 0.2% DJIA down 0.3% WTI crude down 2.3% (38.88) Comex gold down 0.3% Euro 1.1166 Yen 112.67 SPX COMP DJIA EUR
+KitchenNews	713018434976546816	2016-03-24T15:03:36	SPX down 0.4% Nasdaq flat DJIA down 0.3% WTI crude down 2.4% (38.90) Comex gold down 0.2% Euro 1.1156 Yen 112.60 SPX COMP DJIA EUR JPY
+KitchenNews	713004510642241536	2016-03-24T14:08:16	SPX down 0.5% Nasdaq down 0.4% DJIA down 0.5% WTI crude down 3% (38.61) Comex gold down 0.5% Euro 1.1159 Yen 112.45 SPX COMP DJIA EUR
+KitchenNews	712738976935710721	2016-03-23T20:33:08	vinnehvincent :-)
+KitchenNews	712735505868148736	2016-03-23T20:19:21	SPX down 0.6% Nasdaq down 1.1% DJIA down 0.5% WTI crude down 4% (39.81) Comex gold down 2.3% Euro 1.1181 Yen 112.43 SPX COMP DJIA EUR
+KitchenNews	712716566303870978	2016-03-23T19:04:05	SPX down 0.7% Nasdaq down 1% DJIA down 0.5% WTI crude down 4.1% (39.76) Comex gold down 1.9% Euro 1.1184 Yen 112.40 SPX COMP DJIA EUR
+KitchenNews	712700211735343104	2016-03-23T17:59:06	SPX down 0.3% Nasdaq down 0.7% DJIA down 0.2% WTI crude down 3.2% (40.11) Comex gold down 2% Euro 1.1183 Yen 112.55 SPX COMP DJIA EUR
+KitchenNews	712686420238860288	2016-03-23T17:04:18	SPX down 0.4% Nasdaq down 0.7% DJIA down 0.1% WTI crude down 3.3% (40.10) Comex gold down 2% Euro 1.1173 Yen 112.68 SPX COMP DJIA EUR
+KitchenNews	712672654679932928	2016-03-23T16:09:36	SPX down 0.5% Nasdaq down 0.8% DJIA down 0.3% WTI crude down 3.2% (40.11) Comex gold down 2% Euro 1.1172 Yen 112.70 SPX COMP DJIA EUR
+KitchenNews	712656222822903808	2016-03-23T15:04:18	SPX down 0.3% Nasdaq down 0.7% DJIA down 0.2% WTI crude down 2.2% (40.52) Comex gold down 2.3% Euro 1.1179 Yen 112.68 SPX COMP DJIA EUR
+KitchenNews	712641388135878656	2016-03-23T14:05:21	SPX down 0.3% Nasdaq down 0.5% DJIA down 0.2% WTI crude down 2% (40.63) Comex gold down 2.5% Euro 1.1182 Yen 112.77 SPX COMP DJIA EUR
+KitchenNews	712372736819986432	2016-03-22T20:17:50	SPX down 0.1% Nasdaq up 0.3% DJIA down 0.2% WTI crude down 0.2% (41.43) Comex gold up 0.3% Euro 1.1220 Yen 112.30 SPX COMP DJIA EUR JPY
+KitchenNews	712354869978406913	2016-03-22T19:06:50	SPX flat Nasdaq up 0.3% DJIA down 0.1% WTI crude down 0.2% (41.44) Comex gold up 0.3% Euro 1.1215 Yen 112.33 SPX COMP DJIA EUR JPY
+KitchenNews	712338620284178432	2016-03-22T18:02:16	SPX up 0.2% Nasdaq up 0.4% DJIA up 0.1% WTI crude down 0.5% (41.33) Comex gold up 0.3% Euro 1.1222 Yen 112.39 SPX COMP DJIA EUR JPY
+KitchenNews	712325122720342017	2016-03-22T17:08:38	SPX up 0.2% Nasdaq up 0.4% DJIA up 0.1% WTI crude down 0.5% (41.32) Comex gold up 0.2% Euro 1.1209 Yen 112.13 SPX COMP DJIA EUR JPY
+KitchenNews	712309440435716096	2016-03-22T16:06:19	SPX down 0.2% Nasdaq up 0.1% DJIA down 0.2% WTI crude (May) down 0.9% (41.15) Comex gold up 0.6% Euro 1.1224 Yen 111.83 SPX COMP DJIA
+KitchenNews	712293559462825984	2016-03-22T15:03:13	SPX down 0.1% Nasdaq up 0.1% DJIA down 0.2% WTI crude up 0.4% (41.69) Comex gold up 0.8% Euro 1.1230 Yen 111.74 SPX COMP DJIA EUR JPY
+KitchenNews	712279519231500288	2016-03-22T14:07:25	SPX down 0.2% Nasdaq down 0.1% DJIA down 0.3% WTI crude down 0.8% (41.19) Comex gold up 0.9% Euro 1.1221 Yen 111.69 SPX COMP DJIA EUR
+KitchenNews	712007796565233664	2016-03-21T20:07:41	SPX up 0.1% Nasdaq up 0.3% DJIA up 0.1% WTI crude up 1.2% (39.91) Comex gold down 0.8% Euro 1.1244 Yen 111.91 SPX COMP DJIA EUR JPY
+KitchenNews	711991961364746240	2016-03-21T19:04:46	SPX up 0.1% Nasdaq up 0.3% DJIA up 0.2% WTI crude up 1.2% (39.91) Comex gold down 0.9% Euro 1.1254 Yen 111.86 SPX COMP DJIA EUR JPY
+KitchenNews	711975213332692992	2016-03-21T17:58:13	SPX up 0.1% Nasdaq up 0.2% DJIA up 0.1% WTI crude up 1.4% (40.00) Comex gold down 0.8% Euro 1.1249 Yen 111.78 SPX COMP DJIA EUR JPY
+KitchenNews	711961039726718978	2016-03-21T17:01:54	SPX flat Nasdaq up 0.1% DJIA up 0.1% WTI crude up 1.3% (39.97) Comex gold down 0.8% Euro 1.1244 Yen 111.73 SPX COMP DJIA EUR JPY
+KitchenNews	711949577029464064	2016-03-21T16:16:21	SPX flat Nasdaq up 0.1% DJIA up 0.1% WTI crude up 1.1% (39.88) Comex gold down 0.6% Euro 1.1251 Yen 111.65 SPX COMP DJIA EUR JPY
+KitchenNews	711930956903354368	2016-03-21T15:02:21	SPX down 0.2% Nasdaq down 0.2% DJIA down 0.2% WTI crude down 0.2% (39.37) Comex gold down 0.8% Euro 1.1261 Yen 111.68 SPX COMP DJIA EUR
+KitchenNews	711916998028963842	2016-03-21T14:06:53	SPX down 0.1% Nasdaq up 0.1% DJIA down 0.2% WTI crude up 1.2% (39.92) Comex gold down 0.7% Euro 1.1260 Yen 111.75 SPX COMP DJIA EUR JPY
+KitchenNews	710922177260879873	2016-03-18T20:13:50	SPX up 0.4% Nasdaq up 0.4% DJIA up 0.7% WTI crude down 2.2% (39.33) Comex gold down 0.8% Euro 1.1277 Yen 111.60 SPX COMP DJIA EUR JPY
+KitchenNews	710905590843707392	2016-03-18T19:07:55	SPX up 0.4% Nasdaq up 0.4% DJIA up 0.7% WTI crude down 1.9% (39.43) Comex gold down 0.9% Euro 1.1266 Yen 111.61 SPX COMP DJIA EUR JPY
+KitchenNews	710905091536998400	2016-03-18T19:05:56	lambari_trader no problem :-)
+KitchenNews	710888132086902785	2016-03-18T17:58:33	SPX up 0.2% Nasdaq up 0.2% DJIA up 0.5% WTI crude down 1.1% (39.77) Comex gold down 0.5% Euro 1.1273 Yen 111.55 SPX COMP DJIA EUR JPY
+KitchenNews	710874199116500992	2016-03-18T17:03:11	SPX up 0.4% Nasdaq up 0.5% DJIA up 0.5% WTI crude down 0.5% (40.01) Comex gold down 1% Euro 1.1274 Yen 111.50 SPX COMP DJIA EUR JPY
+KitchenNews	710859447992586240	2016-03-18T16:04:34	SPX up 0.5% Nasdaq up 0.5% DJIA up 0.6% WTI crude down 0.1% (40.18) Comex gold down 0.9% Euro 1.1292 Yen 111.39 SPX COMP DJIA EUR JPY
+KitchenNews	710843678718201856	2016-03-18T15:01:54	SPX up 0.5% Nasdaq up 0.4% DJIA up 0.6% WTI crude up 1.1% (40.65) Comex gold down 0.9% Euro 1.1294 Yen 111.44 SPX COMP DJIA EUR JPY
+KitchenNews	710830276457332737	2016-03-18T14:08:39	SPX up 0.4% Nasdaq up 0.1% DJIA up 0.6% WTI crude up 1.9% (40.95) Comex gold down 1.1% Euro 1.1283 Yen 111.52 SPX COMP DJIA EUR JPY
+KitchenNews	710557920031744000	2016-03-17T20:06:24	SPX up 0.7% Nasdaq up 0.2% DJIA up 0.9% WTI crude up 4.4% (40.15) Comex gold up 2.2% Euro 1.1320 Yen 111.43 SPX COMP DJIA EUR JPY
+KitchenNews	710542526650777601	2016-03-17T19:05:14	SPX up 0.8% Nasdaq up 0.3% DJIA up 1.1% WTI crude up 4.5% (40.20) Comex gold up 2.4% Euro 1.1319 Yen 111.48 SPX COMP DJIA EUR JPY
+KitchenNews	710526341804793856	2016-03-17T18:00:55	SPX up 0.8% Nasdaq up 0.3% DJIA up 1% WTI crude up 3.7% (39.90) Comex gold up 2.9% Euro 1.1320 Yen 111.36 SPX COMP DJIA EUR JPY
+KitchenNews	710511449500573696	2016-03-17T17:01:44	SPX up 0.6% Nasdaq up 0.2% DJIA up 0.8% WTI crude up 3.6% (39.85) Comex gold up 3% Euro 1.1326 Yen 111.15 SPX COMP DJIA EUR JPY
+KitchenNews	710496491295662085	2016-03-17T16:02:18	SPX up 0.3% Nasdaq down 0.2% DJIA up 0.5% WTI crude up 3.5% (39.79) Comex gold up 2.9% Euro 1.1318 Yen 111.25 SPX COMP DJIA EUR JPY
+KitchenNews	710482936630349825	2016-03-17T15:08:26	SPX up 0.2% Nasdaq down 0.2% DJIA up 0.4% WTI crude up 3.4% (39.76) Comex gold up 2.9% Euro 1.1310 Yen 111.37 SPX COMP DJIA EUR JPY
+KitchenNews	710466911847329792	2016-03-17T14:04:46	SPX down 0.1% Nasdaq down 0.4% DJIA up 0.1% WTI crude up 2.1% (39.25) Comex gold up 3% Euro 1.1325 Yen 111.44 SPX COMP DJIA EUR JPY
+KitchenNews	710196268765749248	2016-03-16T20:09:19	SPX up 0.6% Nasdaq up 0.8% DJIA up 0.4% WTI crude up 5.9% (38.48) Comex gold up 2.6% Euro 1.1227 Yen 112.55 SPX COMP DJIA EUR JPY
+KitchenNews	710165164545413120	2016-03-16T18:05:44	USD down after Fed trims rate-hike outlook Euro 1.1150 Yen 113.22
+KitchenNews	710164814170087424	2016-03-16T18:04:20	Stocks rise on Fed statement SPX up 0.3% Nasdaq up 0.5% DJIA up 0.3%
+KitchenNews	710164181606133761	2016-03-16T18:01:49	SPX up 0.1% Nasdaq up 0.4% DJIA up 0.2% WTI crude up 4% (37.78) Comex gold down 0.1% Euro 1.1086 Yen 113.74 SPX COMP DJIA EUR JPY
+KitchenNews	710150123603365888	2016-03-16T17:05:58	SPX down 0.2% Nasdaq flat DJIA down 0.2% WTI crude up 4% (37.80) Comex gold down 0.1% Euro 1.1087 Yen 113.62 SPX COMP DJIA EUR JPY
+KitchenNews	710135048574410752	2016-03-16T16:06:03	SPX up 0.1% Nasdaq up 0.3% DJIA flat WTI crude up 4% (37.80) Comex gold down 0.1% Euro 1.1073 Yen 113.65 SPX COMP DJIA EUR JPY
+KitchenNews	710119722977665024	2016-03-16T15:05:10	SPX up 0.1% Nasdaq up 0.2% DJIA up 0.1% WTI crude up 3.5% (37.61) Comex gold up 0.1% Euro 1.1066 Yen 113.73 SPX COMP DJIA EUR JPY
+KitchenNews	710103798102921216	2016-03-16T14:01:53	SPX up 0.1% Nasdaq up 0.1% DJIA flat WTI crude up 2.8% (37.36) Comex gold down 0.1% Euro 1.1066 Yen 113.72 SPX COMP DJIA EUR JPY
+KitchenNews	709832727072083968	2016-03-15T20:04:44	SPX down 0.2% Nasdaq down 0.5% DJIA up 0.1% WTI crude down 2% (36.43) Comex gold down 0.8% Euro 1.1109 Yen 113.11 SPX COMP DJIA EUR JPY
+KitchenNews	709818845398085632	2016-03-15T19:09:35	SPX down 0.4% Nasdaq down 0.6% DJIA flat WTI crude down 2.2% (36.35) Comex gold down 1.1% Euro 1.1106 Yen 113.13 SPX COMP DJIA EUR JPY
+KitchenNews	709802524300025856	2016-03-15T18:04:43	SPX down 0.4% Nasdaq down 0.5% DJIA down 0.1% WTI crude down 2.1% (36.40) Comex gold down 1.2% Euro 1.1114 Yen 113.00 SPX COMP DJIA EUR
+KitchenNews	709787722760650752	2016-03-15T17:05:54	SPX down 0.5% Nasdaq down 0.7% DJIA down 0.2% WTI crude down 3% (36.06) Comex gold down 1.1% Euro 1.1101 Yen 112.98 SPX COMP DJIA EUR
+KitchenNews	709771701614084097	2016-03-15T16:02:15	SPX down 0.5% Nasdaq down 0.6% DJIA down 0.2% WTI crude down 2.9% (36.09) Comex gold down 1% Euro 1.1110 Yen 112.87 SPX COMP DJIA EUR
+KitchenNews	709759846858371073	2016-03-15T15:15:08	SPX down 0.5% Nasdaq down 0.5% DJIA down 0.2% WTI crude down 2.8% (36.15) Comex gold down 1% Euro 1.1099 Yen 112.98 SPX COMP DJIA EUR
+KitchenNews	709742876184346624	2016-03-15T14:07:42	SPX down 0.6% Nasdaq down 0.7% DJIA down 0.4% WTI crude down 2.3% (36.33) Comex gold down 1% Euro 1.1110 Yen 112.72 SPX COMP DJIA EUR
+KitchenNews	709471223067967489	2016-03-14T20:08:15	SPX down 0.1% Nasdaq flat DJIA up 0.1% WTI crude down 3.2% (37.27) Comex gold down 2.1% Euro 1.1100 Yen 113.83 SPX COMP DJIA EUR JPY
+KitchenNews	709455321341644800	2016-03-14T19:05:04	SPX flat Nasdaq up 0.2% DJIA up 0.2% WTI crude down 3.2% (37.27) Comex gold down 1.9% Euro 1.1098 Yen 113.80 SPX COMP DJIA EUR JPY
+KitchenNews	709438890260635648	2016-03-14T17:59:46	SPX down 0.1% Nasdaq up 0.2% DJIA up 0.2% WTI crude down 3.6% (37.13) Comex gold down 1.4% Euro 1.1088 Yen 113.78 SPX COMP DJIA EUR JPY
+KitchenNews	709424278198886400	2016-03-14T17:01:43	RobertMrtdsastr equities turning around a little now
+KitchenNews	709424080743628800	2016-03-14T17:00:55	SPX down 0.1% Nasdaq up 0.1% DJIA up 0.2% WTI crude down 4.4% (36.81) Comex gold down 1.2% Euro 1.1101 Yen 113.64 SPX COMP DJIA EUR JPY
+KitchenNews	709409958631120896	2016-03-14T16:04:48	SPX down 0.4% Nasdaq down 0.1% DJIA down 0.1% WTI crude down 4% (36.96) Comex gold down 1.2% Euro 1.1110 Yen 113.56 SPX COMP DJIA EUR
+KitchenNews	709394484837023744	2016-03-14T15:03:19	SPX down 0.3% Nasdaq flat DJIA down 0.1% WTI crude down 4.2% (36.89) Comex gold down 1.2% Euro 1.1099 Yen 113.78 SPX COMP DJIA EUR JPY
+KitchenNews	709380703197073408	2016-03-14T14:08:33	SPX down 0.5% Nasdaq down 0.3% DJIA down 0.2% WTI crude down 4.1% (36.91) Comex gold down 0.9% Euro 1.1109 Yen 113.70 SPX COMP DJIA EUR
+KitchenNews	708399877403729920	2016-03-11T21:11:06	SPX up  1.6% Nasdaq up 1.9% DJIA up 1.3% WTI crude up 1.8% (38.53) Comex gold down 1.7% Euro 1.1154 Yen 113.77 SPX COMP DJIA EUR JPY
+KitchenNews	708382985519636480	2016-03-11T20:03:59	SPX up 1.4% Nasdaq up 1.5% DJIA up 1.1% WTI crude up 1.5% (38.42) Comex gold down 1% Euro 1.1160 Yen 113.71 SPX COMP DJIA EUR JPY
+KitchenNews	708366383638155264	2016-03-11T18:58:01	SPX up 1.4% Nasdaq up 1.5% DJIA up 1.2% WTI crude up 1.7% (38.50) Comex gold down 1% Euro 1.1164 Yen 113.65 SPX COMP DJIA EUR JPY
+KitchenNews	708352171633291264	2016-03-11T18:01:32	SPX up 1.3% Nasdaq up 1.3% DJIA up 1.2% WTI crude up 2.1% (38.65) Comex gold down 1.1% Euro 1.1158 Yen 113.72 SPX COMP DJIA EUR JPY
+KitchenNews	708339627472490496	2016-03-11T17:11:42	SPX up 1.4% Nasdaq up 1.4% DJIA up 1.3% WTI crude up 2.2% (38.67) Comex gold down 1% Euro 1.1179 Yen 113.68 SPX COMP DJIA EUR JPY
+KitchenNews	708322626939138050	2016-03-11T16:04:08	SPX up 1.2% Nasdaq up 1.3% DJIA up 1.1% WTI crude up 1% (38.22) Comex gold down 1.1% Euro 1.1159 Yen 113.48 SPX COMP DJIA EUR JPY
+KitchenNews	708308713346437120	2016-03-11T15:08:51	SPX up 0.9% Nasdaq up 0.9% DJIA up 0.9% WTI crude up 2.7% (38.86) Comex gold down 0.5% Euro 1.1155 Yen 113.41 SPX COMP DJIA EUR JPY
+KitchenNews	708036522692337664	2016-03-10T21:07:16	SPX flat Nasdaq down 0.3% DJIA flat WTI crude down 0.9% (37.94) Comex gold up 1.2% Euro 1.1180 Yen 113.15 SPX COMP DJIA EUR JPY
+KitchenNews	708021377937190912	2016-03-10T20:07:05	SPX down 0.3% Nasdaq down 0.6% DJIA down 0.4% WTI crude down 1.3% (37.78) Comex gold up 1% Euro 1.1198 Yen 113.10 SPX COMP DJIA EUR JPY
+KitchenNews	708003789052051457	2016-03-10T18:57:12	SPX down  0.6% Nasdaq down 1% DJIA down 0.7% WTI crude down 0.5% (38.11) Comex gold up 1.3% Euro 1.1199 Yen 112.90 SPX COMP DJIA EUR
+KitchenNews	707992381392424961	2016-03-10T18:11:52	roccoiubatti long EUR?
+KitchenNews	707990457746239489	2016-03-10T18:04:13	SPX down 0.8% Nasdaq down 1.1% DJIA down 0.8% WTI crude down 1.1% (37.87) Comex gold up 1.2% Euro 1.1193 Yen 112.83 SPX COMP DJIA EUR
+KitchenNews	707975167557808128	2016-03-10T17:03:28	SPX down 0.3% Nasdaq down 0.4% DJIA down 0.4% WTI crude down 2.1% (37.48) Comex gold up 0.7% Euro 1.1160 Yen 113.09 SPX COMP DJIA EUR
+KitchenNews	707960308573188097	2016-03-10T16:04:25	SPX down 0.3% Nasdaq down 0.4% DJIA down 0.4% WTI crude down 2.1% (37.48) Comex gold up 0.7% Euro 1.1144 Yen 113.41 SPX COMP DJIA EUR
+KitchenNews	707946657661366276	2016-03-10T15:10:10	SPX up 0.7% Nasdaq up 0.3% DJIA up 0.6% WTI crude down 1.9% (37.57) Comex gold up 0.3% Euro 1.1056 Yen 113.73 SPX COMP DJIA EUR JPY
+KitchenNews	707674500146434049	2016-03-09T21:08:43	SPX up 0.5% Nasdaq up 0.6% DJIA up 0.2% WTI crude up 4.7% (38.23) Comex gold down 1% Euro 1.1006 Yen 113.39 SPX COMP DJIA EUR JPY
+KitchenNews	707658835134025728	2016-03-09T20:06:28	SPX up 0.5% Nasdaq up 0.5% DJIA up 0.2% WTI crude up 4.7% (38.22) Comex gold down 0.7% Euro 1.1007 Yen 113.35 SPX COMP DJIA EUR JPY
+KitchenNews	707641958705926144	2016-03-09T18:59:24	SPX up 0.5% Nasdaq up 0.6% DJIA up 0.3% WTI crude up 3.6% (37.80) Comex gold down 0.4% Euro 1.1020 Yen 113.24 SPX COMP DJIA EUR JPY
+KitchenNews	707627517000032256	2016-03-09T18:02:01	SPX up 0.3% Nasdaq up 0.2% DJIA up 0.1% WTI crude up 3.9% (37.93) Comex gold down 0.4% Euro 1.1030 Yen 113.07 SPX COMP DJIA EUR JPY
+KitchenNews	707612814848843778	2016-03-09T17:03:36	SPX up 0.6% Nasdaq up 0.4% DJIA up 0.4% WTI crude up 4% (37.97) Comex gold down 0.7% Euro 1.1021 Yen 113.04 SPX COMP DJIA EUR JPY
+KitchenNews	707597615337054208	2016-03-09T16:03:12	SPX up 0.2% Nasdaq up 0.1% DJIA up 0.1% WTI crude up 3.3% (37.70) Comex gold down 0.6% Euro 1.1012 Yen 112.92 SPX COMP DJIA EUR JPY
+KitchenNews	707583103661789184	2016-03-09T15:05:32	SPX up 0.4% Nasdaq up 0.2% DJIA up 0.4% WTI crude up 1.8% (37.16) Comex gold down 1.3% Euro 1.0965 Yen 112.93 SPX COMP DJIA EUR JPY
+KitchenNews	707312293881708545	2016-03-08T21:09:26	SPX down 1.1% Nasdaq down 1.3% DJIA down 0.6% WTI crude down 4.3% (36.26) Comex gold down 0.1% Euro 1.1008 Yen 112.65 SPX COMP DJIA EUR
+KitchenNews	707296816375533568	2016-03-08T20:07:56	SPX down 0.8% Nasdaq down 0.9% DJIA down 0.4% WTI crude down 3.8% (36.46) Comex gold up 0.1% Euro 1.1004 Yen 112.58 SPX COMP DJIA EUR
+KitchenNews	707279970934984704	2016-03-08T19:01:00	SPX down 0.5% Nasdaq down 0.5% DJIA down 0.2% WTI crude down 3.1% (36.71) Comex gold up 0.1% Euro 1.0999 Yen 112.65 SPX COMP DJIA EUR
+KitchenNews	707265643834281984	2016-03-08T18:04:04	SPX down 0.6% Nasdaq down 0.6% DJIA down 0.2% WTI crude down 3.5% (36.56) Comex gold up 0.2% Euro 1.1015 Yen 112.59 SPX COMP DJIA EUR
+KitchenNews	707250238340210689	2016-03-08T17:02:51	SPX down 0.7% Nasdaq down 0.6% DJIA down 0.4% WTI crude down 2.7% (36.88) Comex gold up 0.2% Euro 1.1030 Yen 112.54 SPX COMP DJIA EUR
+KitchenNews	707234616483008516	2016-03-08T16:00:47	SPX down 1% Nasdaq down 1% DJIA down 0.8% WTI crude down 2.9% (36.81) Comex gold up 0.3% Euro 1.1054 Yen 112.47 SPX COMP DJIA EUR JPY
+KitchenNews	707221551557414912	2016-03-08T15:08:52	SPX down 0.8% Nasdaq down 0.7% DJIA down 0.6% WTI crude down 2% (37.14) Comex gold up 0.2% Euro 1.1033 Yen 112.78 SPX COMP DJIA EUR JPY
+KitchenNews	706949591623569410	2016-03-07T21:08:11	SPX up 0.1% Nasdaq down 0.2% DJIA up 0.4% WTI crude up 5.7% (37.96) Comex gold down 0.2% Euro 1.1012 Yen 113.44 SPX COMP DJIA EUR JPY
+KitchenNews	706933856608190464	2016-03-07T20:05:40	SPX down 0.4% Nasdaq down 0.9% DJIA flat WTI crude up 5.4% (37.86) Comex gold down 0.2% Euro 1.1014 Yen 113.25 SPX COMP DJIA EUR JPY
+KitchenNews	706917312712957953	2016-03-07T18:59:55	SPX flat Nasdaq down 0.4% DJIA up 0.4% WTI crude up 5.3% (37.83) Comex gold down 0.3% Euro 1.1003 Yen 113.46 SPX COMP DJIA EUR JPY
+KitchenNews	706904116610486272	2016-03-07T18:07:29	SPX up 0.2% Nasdaq up 0.4% DJIA up 0.8% WTI crude up 5.5% (37.90) Comex gold down 0.6% Euro 1.1014 Yen 113.55 SPX COMP DJIA EUR JPY
+KitchenNews	706888041537798144	2016-03-07T17:03:37	SPX up 0.1% Nasdaq up 0.3% DJIA up 0.7% WTI crude up 4.4% (37.50) Comex gold down 0.3% Euro 1.1008 Yen 113.58 SPX COMP DJIA EUR JPY
+KitchenNews	706874111226589184	2016-03-07T16:08:15	SPX down 0.2% Nasdaq down 0.1% DJIA up 0.5% WTI crude up 3.3% (37.12) Comex gold down 0.2% Euro 1.0979 Yen 113.58 SPX COMP DJIA EUR JPY
+KitchenNews	706859112047321088	2016-03-07T15:08:39	SPX flat Nasdaq down 0.3% DJIA up 0.4% WTI crude up 2% (36.64) Comex gold down 0.1% Euro 1.0954 Yen 113.64 SPX COMP DJIA EUR JPY
+KitchenNews	705864911331561473	2016-03-04T21:18:03	SPX up 0.3% Nasdaq up 0.2% DJIA up 0.4% WTI crude up 4.7% (36.20) Comex gold up 0.3% Euro 1.1011 Yen 113.92 SPX COMP DJIA EUR JPY
+KitchenNews	705849466432008192	2016-03-04T20:16:41	SPX up 0.1% Nasdaq flat DJIA up 0.1% WTI crude up 3.7% (35.86) Comex gold up 0.4% Euro 1.1002 Yen 113.95 SPX COMP DJIA EUR JPY
+KitchenNews	705830608698605568	2016-03-04T19:01:45	SPX up 0.7% Nasdaq up 0.7% DJIA up 0.6% WTI crude up 3.8% (35.89) Comex gold up 0.5% Euro 1.0997 Yen 114.20 SPX COMP DJIA EUR JPY
+KitchenNews	705816883493150720	2016-03-04T18:07:13	SPX up 0.5% Nasdaq up 0.5% DJIA up 0.4% WTI crude up 3.7% (35.83) Comex gold up 0.9% Euro 1.0999 Yen 113.94 SPX COMP DJIA EUR JPY
+KitchenNews	705804287285207042	2016-03-04T17:17:09	22ronald2222 Yes, making a move indeed -- ibovespa gain supposedly linked to Lula news 
+KitchenNews	705801298533199872	2016-03-04T17:05:17	SPX up 0.5% Nasdaq up 0.5% DJIA up 0.5% WTI crude up 3.5% (35.79) Comex gold up 0.9% Euro 1.1014 Yen 113.90 SPX COMP DJIA EUR JPY
+KitchenNews	705786086711128064	2016-03-04T16:04:50	SPX up 0.3% Nasdaq up 0.2% DJIA up 0.3% WTI crude up 1.5% (35.08) Comex gold up 0.8% Euro 1.1006 Yen 113.81 SPX COMP DJIA EUR JPY
+KitchenNews	705772062963421184	2016-03-04T15:09:07	SPX down 0.2% Nasdaq down 0.2% DJIA down 0.1% WTI crude up 0.1% (34.60) Comex gold up 1.7% Euro 1.1021 Yen 113.49 SPX COMP DJIA EUR JPY
+KitchenNews	705499934510845952	2016-03-03T21:07:46	SPX up 0.4% Nasdaq up 0.1% DJIA up 0.3% WTI crude up 0.1% (34.68) Comex gold up 1.8% Euro 1.0964 Yen 113.62 SPX COMP DJIA EUR JPY
+KitchenNews	705485211102945280	2016-03-03T20:09:16	SPX up 0.2% Nasdaq flat DJIA up 0.1% WTI crude down 0.1% (34.61) Comex gold up 1.6% Euro 1.0964 Yen 113.57 SPX COMP DJIA EUR JPY
+KitchenNews	705468179447853056	2016-03-03T19:01:35	SPX up 0.1% Nasdaq down 0.1% DJIA flat WTI crude up 0.4% (34.78) Comex gold up 1.3% Euro 1.0970 Yen 113.59 SPX COMP DJIA EUR JPY
+KitchenNews	705453208026509312	2016-03-03T18:02:06	SPX down 0.2% Nasdaq down 0.4% DJIA down 0.2% WTI crude down 0.3% (34.55) Comex gold up 1.4% Euro 1.0948 Yen 113.52 SPX COMP DJIA EUR
+KitchenNews	705438545813467137	2016-03-03T17:03:50	SPX down 0.3% Nasdaq down 0.4% DJIA down 0.3% WTI crude up 0.1% (34.70) Comex gold up 1.2% Euro 1.0950 Yen 113.53 SPX COMP DJIA EUR JPY
+KitchenNews	705425545354280960	2016-03-03T16:12:10	VineetBubna Hard to say, tho FWIW, SPY seems to have made a double-bottom since start of '16 (...if you're into technical analysis)
+KitchenNews	705422651792031744	2016-03-03T16:00:40	SPX down 0.1% Nasdaq down 0.2% DJIA down 0.1% WTI crude up 1% (35.02) Comex gold up 1.1% Euro 1.0929 Yen 113.61 SPX COMP DJIA EUR JPY
+KitchenNews	705408325941243904	2016-03-03T15:03:45	SPX down 0.4% Nasdaq down 0.4% DJIA down 0.4% WTI crude down 0.3% (34.56) Comex gold up 0.4% Euro 1.0936 Yen 113.49 SPX COMP DJIA EUR
+KitchenNews	705139571374186496	2016-03-02T21:15:49	SPX up 0.4% Nasdaq up 0.3% DJIA up 0.2% WTI crude up 1.3% (34.83) Comex gold up 0.9% Euro 1.0870 Yen 113.33 SPX COMP DJIA EUR JPY
+KitchenNews	705122150873591809	2016-03-02T20:06:35	SPX flat Nasdaq down 0.1% DJIA down 0.1% WTI crude up 0.8% (34.68) Comex gold up 0.9% Euro 1.0868 Yen 113.42 SPX COMP DJIA EUR JPY
+KitchenNews	705105441286565888	2016-03-02T19:00:12	SPX down 0.1% Nasdaq down 0.3% DJIA down 0.2% WTI crude down 0.2% (34.35) Comex gold up 1% Euro 1.0870 Yen 113.38 SPX COMP DJIA EUR JPY
+KitchenNews	705092507663618048	2016-03-02T18:08:48	SPX down 0.1% Nasdaq down 0.3% DJIA down 0.1% WTI crude up 0.7% (34.65) Comex gold up 0.8% Euro 1.0851 Yen 113.76 SPX COMP DJIA EUR JPY
+KitchenNews	705076191204499456	2016-03-02T17:03:58	SPX down 0.3% Nasdaq down 0.4% DJIA down 0.2% WTI crude up 0.3% (34.50) Comex gold up 0.7% Euro 1.0844 Yen 113.80 SPX COMP DJIA EUR JPY
+KitchenNews	705066166243340290	2016-03-02T16:24:08	SPX down 0.1% Nasdaq down 0.2% DJIA down 0.1% WTI crude up 1.5% (34.91) Comex gold up 0.4% Euro 1.0836 Yen 113.90 SPX COMP DJIA EUR JPY
+KitchenNews	705047138296680448	2016-03-02T15:08:31	SPX down 0.2% Nasdaq down 0.1% DJIA down 0.2% WTI crude down 1.2% (33.99) Comex gold up 0.8% Euro 1.0834 Yen 113.94 SPX COMP DJIA EUR
+KitchenNews	704776370937724928	2016-03-01T21:12:35	SPX up 2.4% Nasdaq up 2.9% DJIA up 2.1% WTI crude up 1.9% (34.39) Comex gold down 0.1% Euro 1.0867 Yen 113.89 SPX COMP DJIA EUR JPY
+KitchenNews	704763895483764736	2016-03-01T20:23:01	CSDURR :-)
+KitchenNews	704759138341900288	2016-03-01T20:04:07	SPX up 2.3% Nasdaq up 2.7% DJIA up 2.1% WTI crude up 2% (34.41) Comex gold up 0.1% Euro 1.0867 Yen 114.03 SPX COMP DJIA EUR JPY
+KitchenNews	704741756298878976	2016-03-01T18:55:02	SPX up 2% Nasdaq up 2.4% DJIA up 1.9% WTI crude up 2% (34.41) Comex gold down 0.3% Euro 1.0869 Yen 114.09 SPX COMP DJIA EUR JPY
+KitchenNews	704730235871232000	2016-03-01T18:09:16	SPX up 1.9% Nasdaq up 2.2% DJIA up 1.8% WTI crude up 2.1% (34.45) Comex gold down 0.3% Euro 1.0857 Yen 113.99 SPX COMP DJIA EUR JPY
+KitchenNews	704713582550736896	2016-03-01T17:03:05	SPX up 1.8% Nasdaq up 2.1% DJIA up 1.6% WTI crude up 2% (34.41) Comex gold down 0.2% Euro 1.0844 Yen 113.95 SPX COMP DJIA EUR JPY
+KitchenNews	704699581829742592	2016-03-01T16:07:27	SPX up 1.2% Nasdaq up 1.5% DJIA up 1.1% WTI crude down 0.5% (33.57) Comex gold flat Euro 1.0854 Yen 113.63 SPX COMP DJIA EUR JPY
+KitchenNews	704684642658463745	2016-03-01T15:08:05	SPX up 0.9% Nasdaq up 1.1% DJIA up 0.8% WTI crude down 0.4% (33.60) Comex gold up 0.5% Euro 1.0856 Yen 113.37 SPX COMP DJIA EUR JPY
+KitchenNews	704413666871906304	2016-02-29T21:11:20	SPX down 0.8% Nasdaq down 0.7% DJIA down 0.7 WTI crude up 3.2% (33.83) Comex gold up 1.7% Euro 1.0883 Yen 112.76 SPX COMP DJIA EUR JPY
+KitchenNews	704399628804841472	2016-02-29T20:15:33	SPX down 0.7% Nasdaq down 0.5% DJIA down 0.7% WTI crude up 3% (33.76) Comex gold up 1.6% Euro 1.0886 Yen 112.76 SPX COMP DJIA EUR JPY
+KitchenNews	704381341589057536	2016-02-29T19:02:53	SPX up 0.2% Nasdaq up 0.2% DJIA up 0.1% WTI crude up 2.8% (33.68) Comex gold up 1.1% Euro 1.0874 Yen 112.95 SPX COMP DJIA EUR JPY
+KitchenNews	704366950353252353	2016-02-29T18:05:42	SPX up 0.3% Nasdaq up 0.5% DJIA up 0.4% WTI crude up 3.2% (33.83) Comex gold up 1% Euro 1.0871 Yen 112.94 SPX COMP DJIA EUR JPY
+KitchenNews	704351174854455297	2016-02-29T17:03:00	SPX up 0.4% Nasdaq up 0.5% DJIA up 0.4% WTI crude up 2.4% (33.56) Comex gold up 1.1% Euro 1.0869 Yen 112.92 SPX COMP DJIA EUR JPY
+KitchenNews	704340815036854272	2016-02-29T16:21:50	roccoiubatti at your service! :-)
+KitchenNews	704336349617229824	2016-02-29T16:04:06	SPX up 0.2% Nasdaq up 0.3% DJIA up 0.1% WTI crude up 1.7% (33.33) Comex gold up 1.1% Euro 1.0874 Yen 112.81 SPX COMP DJIA EUR JPY
+KitchenNews	704322584280600576	2016-02-29T15:09:24	SPX down 0.1% Nasdaq flat DJIA down 0.1% WTI crude up 1.7% (33.35) Comex gold up 1.2% Euro 1.0884 Yen 112.79 SPX COMP DJIA EUR JPY
+KitchenNews	703330746165923841	2016-02-26T21:28:11	SPX down 0.2% Nasdaq up 0.2% DJIA down 0.3% WTI crude down 0.8% (32.80) Comex gold down 1.2% Euro 1.0940 Yen 113.97 SPX COMP DJIA EUR
+KitchenNews	703310093132001280	2016-02-26T20:06:07	SPX down 0.1% Nasdaq up 0.3% DJIA down 0.2% WTI crude down 0.7% (32.83) Comex gold down 1.1% Euro 1.0929 Yen 113.94 SPX COMP DJIA EUR
+KitchenNews	703292728130469888	2016-02-26T18:57:07	SPX down 0.1% Nasdaq up 0.1% DJIA down 0.2% WTI crude up 0.3% (33.17) Comex gold down 1.4% Euro 1.0929 Yen 113.80 SPX COMP DJIA EUR JPY
+KitchenNews	703279927211085824	2016-02-26T18:06:15	SPX up 0.3% Nasdaq up 0.4% DJIA up 0.2% WTI crude up 1.1% (33.44) Comex gold down 1.5% Euro 1.0923 Yen 113.87 SPX COMP DJIA EUR JPY
+KitchenNews	703263386759331840	2016-02-26T17:00:32	SPX up 0.2% Nasdaq up 0.3% DJIA flat WTI crude up 1% (33.39) Comex gold down 1.8% Euro 1.0932 Yen 113.79 SPX COMP DJIA EUR JPY
+KitchenNews	703251332497481728	2016-02-26T16:12:38	SPX up 0.4% Nasdaq up 0.5% DJIA up 0.2% WTI crude up 2.3% (33.84) Comex gold down 1.9% Euro 1.0920 Yen 113.90 SPX COMP DJIA EUR JPY
+KitchenNews	703234559060488199	2016-02-26T15:05:59	SPX up 0.2% Nasdaq up 0.4% DJIA up 0.1% WTI crude up 3.4% (34.19) Comex gold down 0.8% Euro 1.0960 Yen 113.70 SPX COMP DJIA EUR JPY
+KitchenNews	702966264235360256	2016-02-25T21:19:52	SPX up 1.1% Nasdaq up 0.9% DJIA up 1.3% WTI crude up 2.8% (33.05) Comex gold down 0.4% Euro 1.1029 Yen 112.88 SPX COMP DJIA EUR JPY
+KitchenNews	702946794800414721	2016-02-25T20:02:30	SPX up 0.6% Nasdaq up 0.3% DJIA up 0.8% WTI crude up 2.4% (32.92) Comex gold down 0.1% Euro 1.1043 Yen 112.82 SPX COMP DJIA EUR JPY
+KitchenNews	702930480799191040	2016-02-25T18:57:41	SPX up 0.6% Nasdaq up 0.3% DJIA up 0.8% WTI crude up 1.3% (32.56) Comex gold down 0.3% Euro 1.1027 Yen 112.96 SPX COMP DJIA EUR JPY
+KitchenNews	702915121127895040	2016-02-25T17:56:39	SPX up 0.2% Nasdaq down 0.2% DJIA up 0.4% WTI crude down 2.3% (31.40) Comex gold up 0.3% Euro 1.1036 Yen 112.69 SPX COMP DJIA EUR JPY
+KitchenNews	702902253120679936	2016-02-25T17:05:31	SPX up 0.3% Nasdaq flat DJIA up 0.4% WTI crude down 1.6% (31.65) Comex gold up 0.1% Euro 1.1031 Yen 112.68 SPX COMP DJIA EUR JPY
+KitchenNews	702887247327023104	2016-02-25T16:05:53	SPX down 0.1% Nasdaq down 0.3% DJIA down 0.1% WTI crude down 2.3% (31.42) Comex gold down 0.2% Euro 1.1035 Yen 112.62 SPX COMP DJIA EUR
+KitchenNews	702871632457523200	2016-02-25T15:03:50	SPX down 0.1% Nasdaq down 0.4% DJIA down 0.1% WTI crude down 1.2% (31.76) Comex gold down 0.4% Euro 1.1017 Yen 112.63 SPX COMP DJIA EUR
+KitchenNews	702238737766359040	2016-02-23T21:08:56	SPX down 1.3% Nasdaq down 1.5% DJIA down 1.1% WTI crude down 4.6% (31.87) Comex gold up 1.2% Euro 1.1016 Yen 112.12 SPX COMP DJIA EUR
+KitchenNews	702227636869697536	2016-02-23T20:24:50	roccoiubatti :-)
+KitchenNews	702222930420207616	2016-02-23T20:06:07	SPX down 1.3% Nasdaq down 1.4% DJIA down 1.3% WTI crude down 4.6% (31.85) Comex gold up 1.1% Euro 1.1015 Yen 112.01 SPX COMP DJIA EUR
+KitchenNews	702205406244802560	2016-02-23T18:56:29	SPX down 1.1% Nasdaq down 1.2% DJIA down 1.2% WTI crude down 4.9% (31.77) Comex gold up 1.1% Euro 1.1022 Yen 112.03 SPX COMP DJIA EUR
+KitchenNews	702193816241967104	2016-02-23T18:10:26	SPX down 0.9% Nasdaq down 0.9% DJIA down 0.9% WTI crude down 4.9% (31.77) Comex gold up 1.1% Euro 1.1018 Yen 112.19 SPX COMP DJIA EUR
+KitchenNews	702178508370370560	2016-02-23T17:09:36	SPX down 1% Nasdaq down 1.1% DJIA down 0.9% WTI crude down 4.6% (31.84) Comex gold up 1.2% Euro 1.1018 Yen 112.15 SPX COMP DJIA EUR JPY
+KitchenNews	702165019727831040	2016-02-23T16:16:00	SPX down 1.2% Nasdaq down 1.4% DJIA down 1% WTI crude down 4.8% (31.78) Comex gold up 1.3% Euro 1.1029 Yen 112.06 SPX COMP DJIA EUR JPY
+KitchenNews	701878417201897473	2016-02-22T21:17:09	SPX up 1.5% Nasdaq up 1.5% DJIA up 1.4% WTI crude up 6% (31.43) Comex gold down 1.9% Euro 1.1030 Yen 112.83 SPX COMP DJIA EUR JPY
+KitchenNews	701860320910782464	2016-02-22T20:05:15	SPX up 1.2% Nasdaq up 1.3% DJIA up 1.3% WTI crude up 6% (31.43) Comex gold down 1.8% Euro 1.1027 Yen 112.80 SPX COMP DJIA EUR JPY
+KitchenNews	701843328208211968	2016-02-22T18:57:43	SPX up 1.5% Nasdaq up 1.6% DJIA up 1.6% WTI crude up 6.9% (31.69) Comex gold down 1.8% Euro 1.1013 Yen 113.17 SPX COMP DJIA EUR JPY
+KitchenNews	701829967223500800	2016-02-22T18:04:38	SPX up 1.3% Nasdaq up 1.3% DJIA up 1.3% WTI crude up 7.6% (31.90) Comex gold down 1.7% Euro 1.1021 Yen 113.06 SPX COMP DJIA EUR JPY
+KitchenNews	701814369261228032	2016-02-22T17:02:39	SPX up 1.3% Nasdaq up 1.4% DJIA up 1.3% WTI crude up 6.7% (31.62) Comex gold down 1.6% Euro 1.1018 Yen 113.13  SPX COMP DJIA EUR JPY
+KitchenNews	701802407911514113	2016-02-22T16:15:07	SPX up 1.3% Nasdaq up 1.3% DJIA up 1.2% WTI crude up 6.2% (31.49) Comex gold down 1.5% Euro 1.1026 Yen 113.04 SPX COMP DJIA EUR JPY
+KitchenNews	701784820196597762	2016-02-22T15:05:14	SPX up 1.5% Nasdaq up 1.5% DJIA up 1.4% WTI crude up 6.8% (31.64) Comex gold down 1.5% Euro 1.1013 Yen 113.18 SPX COMP DJIA EUR JPY
+KitchenNews	700790494767370240	2016-02-19T21:14:08	SPX flat Nasdaq up 0.4% DJIA down 0.1% WTI crude down 3.3% (29.77) Comex gold up 0.2% Euro 1.1133 Yen 112.65 SPX COMP DJIA EUR JPY
+KitchenNews	700773399337897984	2016-02-19T20:06:12	SPX down 0.2% Nasdaq up 0.2% DJIA down 0.3% WTI crude down 3.9% (29.58) Comex gold up 0.6% Euro 1.1132 Yen 112.61 SPX COMP DJIA EUR JPY
+KitchenNews	700755631309893632	2016-02-19T18:55:36	SPX down 0.2% Nasdaq up 0.3% DJIA down 0.3% WTI crude down 3.8% (29.60) Comex gold up 0.5% Euro 1.1137 Yen 112.46 SPX COMP DJIA EUR JPY
+KitchenNews	700743301901594625	2016-02-19T18:06:37	SPX down 0.2% Nasdaq up 0.3% DJIA down 0.3% WTI crude down 4% (29.55) Comex gold up 0.4% Euro 1.1130 Yen 112.44 SPX COMP DJIA EUR JPY
+KitchenNews	700726905255800833	2016-02-19T17:01:27	SPX down 0.2% Nasdaq up 0.3% DJIA down 0.3% WTI crude down 3.8% (29.59) Comex gold up 0.5% Euro 1.1129 Yen 112.43 SPX COMP DJIA EUR JPY
+KitchenNews	700712089111785472	2016-02-19T16:02:35	SPX down 0.4% Nasdaq flat DJIA down 0.5% WTI crude down 4.8% (29.30) Comex gold up 0.4% Euro 1.1111 Yen 112.76 SPX COMP DJIA EUR JPY
+KitchenNews	700701572154544128	2016-02-19T15:20:47	BenjWalt acardenasfx no, sorry
+KitchenNews	700698667288629248	2016-02-19T15:09:15	SPX down 0.6% Nasdaq down 0.3% DJIA down 0.7% WTI crude down 3.4% (29.73) Comex gold up 0.2% Euro 1.1107 Yen 112.83 SPX COMP DJIA EUR
+KitchenNews	700429351255281664	2016-02-18T21:19:05	SPX down 0.5% Nasdaq down 1% DJIA down 0.3% WTI crude down 0.8% (30.42) Comex gold up 2% Euro 1.1098 Yen 113.21 SPX COMP DJIA EUR JPY
+KitchenNews	700410881729892352	2016-02-18T20:05:41	SPX down 0.2% Nasdaq down 0.7% DJIA flat WTI crude up 0.4% (30.77) Comex gold up 1.8% Euro 1.1096 Yen 113.59 SPX COMP DJIA EUR JPY
+KitchenNews	700393137991094272	2016-02-18T18:55:11	SPX down 0.5% Nasdaq down 0.9% DJIA down 0.3% WTI crude flat (30.66) Comex gold up 1.6% Euro 1.1112 Yen 113.52 SPX COMP DJIA EUR JPY
+KitchenNews	700380059551444992	2016-02-18T18:03:13	SPX down 0.3% Nasdaq down 0.6% DJIA down 0.1% WTI crude up 1% (30.96) Comex gold up 1.1% Euro 1.1117 Yen 113.51 SPX COMP DJIA EUR JPY
+KitchenNews	700365019322560513	2016-02-18T17:03:27	SPX down 0.2% Nasdaq down 0.4% DJIA flat WTI crude up 0.3% (30.75) Comex gold up 0.7% Euro 1.1093 Yen 113.64 SPX COMP DJIA EUR JPY
+KitchenNews	700352827802066944	2016-02-18T16:15:00	SPX down 0.4% Nasdaq down 0.7% DJIA down 0.2% WTI crude up 0.6% (30.84) Comex gold up 0.5% Euro 1.1101 Yen 113.59 SPX COMP DJIA EUR JPY
+KitchenNews	700336799126679552	2016-02-18T15:11:19	SPX down 0.2% Nasdaq down 0.4% DJIA up 0.1% WTI crude up 2.9% (31.56) Comex gold down 0.1% Euro 1.1091 Yen 113.78 SPX COMP DJIA EUR JPY
+KitchenNews	700066154627203073	2016-02-17T21:15:52	SPX up 1.7% Nasdaq up 2.2% DJIA up 1.6% WTI crude up 5.3% (30.59) Comex gold flat Euro 1.1133 Yen 113.93 SPX COMP DJIA EUR JPY
+KitchenNews	700049885853143040	2016-02-17T20:11:13	SPX up 1.6% Nasdaq up 2.1% DJIA up 1.5% WTI crude up 5.4% (30.62) Comex gold flat Euro 1.1139 Yen 113.82 SPX COMP DJIA EUR JPY
+KitchenNews	700033013002833920	2016-02-17T19:04:10	SPX up 1.5% Nasdaq up 2% DJIA up 1.5% WTI crude up 5.6% (30.67) Comex gold flat Euro 1.1149 Yen 113.93 SPX COMP DJIA EUR JPY
+KitchenNews	700017515594850304	2016-02-17T18:02:36	SPX up 1.6% Nasdaq up 2.1% DJIA up 1.5% WTI crude up 6.3% (30.88) Comex gold up 0.1% Euro 1.1147 Yen 114.21 SPX COMP DJIA EUR JPY
+KitchenNews	700004067423092736	2016-02-17T17:09:09	SPX up 1.4% Nasdaq up 1.8% DJIA up 1.3% WTI crude up 5.7% (30.69) Comex gold up 0.4% Euro 1.1143 Yen 114.08 SPX COMP DJIA EUR JPY
+KitchenNews	699987258540036097	2016-02-17T16:02:22	SPX up 1.4% Nasdaq up 1.8% DJIA up 1.3% WTI crude up 5% (30.48) Comex gold up 0.2% Euro 1.1136 Yen 114.28 SPX COMP DJIA EUR JPY
+KitchenNews	699973723126784000	2016-02-17T15:08:35	SPX up 1% Nasdaq up 1.2% DJIA up 1% WTI crude up 2.2% (29.68) Comex gold up 0.2% Euro 1.1121 Yen 114.28 SPX COMP DJIA EUR JPY
+KitchenNews	699705259124371456	2016-02-16T21:21:48	SPX up 1.7% Nasdaq up 2.3% DJIA up 1.4% WTI crude down 1.2% (29.09) Comex gold down 3.2% Euro 1.1138 Yen 113.98 SPX COMP DJIA EUR JPY
+KitchenNews	699687383311130625	2016-02-16T20:10:46	SPX up 1.4% Nasdaq up 1.9% DJIA up 1.2% WTI crude down 1.1% (29.13) Comex gold down 2.8% Euro 1.1146 Yen 113.91 SPX COMP DJIA EUR JPY
+KitchenNews	699669716181254144	2016-02-16T19:00:34	SPX up 1.5% Nasdaq up 2.1% DJIA up 1.3% WTI crude down 2% (28.86) Comex gold down 2.8% Euro 1.1139 Yen 113.93 SPX COMP DJIA EUR JPY
+KitchenNews	699655869315702784	2016-02-16T18:05:32	SPX up 1.5% Nasdaq up 2.1% DJIA up 1.3% WTI crude down 0.9% (29.17) Comex gold down 2.4% Euro 1.1139 Yen 113.90 SPX COMP DJIA EUR JPY
+KitchenNews	699640045846695936	2016-02-16T17:02:40	SPX up 1.2% Nasdaq up 1.7% DJIA up 1% WTI crude down 1.1% (29.12) Comex gold down 2% Euro 1.1142 Yen 113.91 SPX COMP DJIA EUR JPY
+KitchenNews	699624452380725248	2016-02-16T16:00:42	SPX up 0.8% Nasdaq up 1.2% DJIA up 0.6% WTI crude down 1.4% (29.03) Comex gold down 2.1% Euro 1.1145 Yen 113.80 SPX COMP DJIA EUR JPY
+KitchenNews	699611333113741312	2016-02-16T15:08:34	SPX up 0.7% Nasdaq up 1.1% DJIA up 0.5% WTI crude down 1.1% (29.12) Comex gold down 2.3% Euro 1.1145 Yen 113.85 SPX COMP DJIA EUR JPY
+KitchenNews	698255041342255104	2016-02-12T21:19:09	SPX up 2% Nasdaq up 1.7% DJIA up 2% WTI crude up 11% (29.08) Comex gold down 0.7% Euro 1.1257 Yen 113.24 SPX COMP DJIA EUR JPY
+KitchenNews	698237053536964609	2016-02-12T20:07:40	SPX up 1.8% Nasdaq up 1.5% DJIA up 1.9% WTI crude up 11.1% (29.13) Comex gold down 0.8% Euro 1.1257 Yen 113.24 SPX COMP DJIA EUR JPY
+KitchenNews	698219736258072576	2016-02-12T18:58:52	SPX up 1.3% Nasdaq up 0.9% DJIA up 1.4% WTI crude up 11% (29.10) Comex gold down 0.7% Euro 1.1239 Yen 113.44 SPX COMP DJIA EUR JPY
+KitchenNews	698207104704774144	2016-02-12T18:08:40	SPX up 1.3% Nasdaq up 0.9% DJIA up 1.4% WTI crude up 11.7% (29.27) Comex gold down 0.9% Euro 1.1246 Yen 113.33 SPX COMP DJIA EUR JPY
+KitchenNews	698192794309922816	2016-02-12T17:11:48	SPX up 1.4% Nasdaq up 1.1% DJIA up 1.5% WTI crude up 10.1% (28.86) Comex gold down 0.9% Euro 1.1233 Yen 113.00 SPX COMP DJIA EUR JPY
+KitchenNews	698181215472357376	2016-02-12T16:25:48	VineetBubna Ah well, what goes up must etc. :-)
+KitchenNews	698176527108694017	2016-02-12T16:07:10	SPX up 1% Nasdaq up 0.6% DJIA up 1.1% WTI crude up 9.7% (28.76) Comex gold down 0.7% Euro 1.1249 Yen 112.73 SPX COMP DJIA EUR JPY
+KitchenNews	698162351455875072	2016-02-12T15:10:50	SPX up 0.7% Nasdaq up 0.3% DJIA up 0.7% WTI crude up 5.9% (27.75) Comex gold down 0.7% Euro 1.1264 Yen 112.72 SPX COMP DJIA EUR JPY
+KitchenNews	697892658786623488	2016-02-11T21:19:10	SPX down 1.2% Nasdaq down 0.4% DJIA down 1.2% WTI crude down 1% (27.17) Comex gold up 4.5% Euro 1.1321 Yen 112.46 SPX COMP DJIA EUR JPY
+KitchenNews	697874003059281920	2016-02-11T20:05:02	SPX down 1.3% Nasdaq down 0.4% DJIA down 1.7% WTI crude down 1.9% (26.92) Comex gold up 4.5% Euro 1.1333 Yen 112.27 SPX COMP DJIA EUR
+KitchenNews	697857717700993025	2016-02-11T19:00:20	SPX down 1.8% Nasdaq down 1.2% DJIA down 2.2% WTI crude down 2.4% (26.78) Comex gold up 4.6% Euro 1.1341 Yen 112.05 SPX COMP DJIA EUR
+KitchenNews	697843935108947968	2016-02-11T18:05:34	SPX down 1.4% Nasdaq down 0.6% DJIA down 1.9% WTI crude down 2% (26.89) Comex gold up 4.5% Euro 1.1326 Yen 112.16 SPX COMP DJIA EUR JPY
+KitchenNews	697834928893874176	2016-02-11T17:29:46	magdale53459742 Black hole perhaps, but could still finish well off day's lows -- I guess we'll see!
+KitchenNews	697830404003246082	2016-02-11T17:11:48	SPX down 1.7% Nasdaq down 1.1% DJIA down 2% WTI crude down 2.8% (26.69) Comex gold up 5.2% Euro 1.1357 Yen 111.93 SPX COMP DJIA EUR JPY
+KitchenNews	697814021404164096	2016-02-11T16:06:42	SPX down 1.7% Nasdaq down 1.3% DJIA down 2% WTI crude down 3.3% (26.54) Comex gold up 4.2% Euro 1.1349 Yen 111.89 SPX COMP DJIA EUR JPY
+KitchenNews	697799137622777861	2016-02-11T15:07:33	SPX down 0.9% Nasdaq down 0.4% DJIA down 1% WTI crude down 1.3% (27.10) Comex gold up 3.4% Euro 1.1327 Yen 112.47 SPX COMP DJIA EUR JPY
+KitchenNews	697531001719771136	2016-02-10T21:22:04	SPX flat Nasdaq up 0.4% DJIA down 0.6% WTI crude down 2% (27.37) Comex gold down 0.1% Euro 1.1294 Yen 113.38 SPX COMP DJIA EUR JPY
+KitchenNews	697511759171571712	2016-02-10T20:05:37	SPX up 0.8% Nasdaq up 1.3% DJIA up 0.2% WTI crude down 1.8% (27.45) Comex gold down 0.4% Euro 1.1276 Yen 113.73 SPX COMP DJIA EUR JPY
+KitchenNews	697495431790473216	2016-02-10T19:00:44	SPX up 0.8% Nasdaq up 1.5% DJIA up 0.1% WTI crude down 0.8% (27.72) Comex gold down 0.6% Euro 1.1260 Yen 113.98 SPX COMP DJIA EUR JPY
+KitchenNews	697481654563000320	2016-02-10T18:05:59	SPX up 1.2% Nasdaq up 2% DJIA up 0.5% WTI crude down 0.4% (27.84) Comex gold down 0.6% Euro 1.1236 Yen 114.09 SPX COMP DJIA EUR JPY
+KitchenNews	697470293585952769	2016-02-10T17:20:51	SPX up 0.6% Nasdaq up 1.3% DJIA flat WTI crude flat (27.97) Comex gold down 0.4% Euro 1.1245 Yen 113.85 SPX COMP DJIA EUR JPY
+KitchenNews	697469625978585088	2016-02-10T17:18:11	roccoiubatti Thanks!
+KitchenNews	697469254682021888	2016-02-10T17:16:43	CORRECTION: Euro at 1.1239
+KitchenNews	697468970375327745	2016-02-10T17:15:35	KitchenNews Ouch! Will correct :-)
+KitchenNews	697465517775331329	2016-02-10T17:01:52	SPX up 0.7% Nasdaq up 1.3% DJIA up 0.1% WTI crude down 0.8% (27.72) Comex gold down 0.5% Euro 1.2222 Yen 114.11 SPX COMP DJIA EUR JPY
+KitchenNews	697450616176582656	2016-02-10T16:02:39	SPX up 0.7% Nasdaq up 1.3% DJIA up 0.3% WTI crude up 0.6% (28.12) Comex gold down 1.1% Euro 1.1193 Yen 114.51 SPX COMP DJIA EUR JPY
+KitchenNews	697438068073103360	2016-02-10T15:12:47	SPX up 1% Nasdaq up 1.7% DJIA up 0.6% WTI crude down 0.7% (27.73) Comex gold down 0.6% Euro 1.1212 Yen 114.70 SPX COMP DJIA EUR JPY
+KitchenNews	697165684778774529	2016-02-09T21:10:26	SPX down 0.1% Nasdaq down 0.4% DJIA down 0.1% WTI crude down 4.1% (28.48) Comex gold down 0.8% Euro 1.1295 Yen 115.01 SPX COMP DJIA EUR
+KitchenNews	697149945426477056	2016-02-09T20:07:54	SPX up 0.5% Nasdaq up 0.5% DJIA up 0.4% WTI crude down 4.6% (28.34) Comex gold down 0.6% Euro 1.1286 Yen 115.13 SPX COMP DJIA EUR JPY
+KitchenNews	697133537216991232	2016-02-09T19:02:42	SPX down 0.5% Nasdaq down 0.8% DJIA down 0.4% WTI crude down 6.1% (27.88) Comex gold down 0.2% Euro 1.1295 Yen 114.85 SPX COMP DJIA EUR
+KitchenNews	697119813739479040	2016-02-09T18:08:10	SPX down 0.7% Nasdaq down 0.9% DJIA down 0.6% WTI crude down 3.6% (28.63) Comex gold flat Euro 1.1308 Yen 114.83 SPX COMP DJIA EUR JPY
+KitchenNews	697103218069762048	2016-02-09T17:02:13	SPX down 0.4% Nasdaq down 0.3% DJIA down 0.4% WTI crude down 1.3% (29.32) Comex gold down 0.3% Euro 1.1316 Yen 114.85 SPX COMP DJIA EUR
+KitchenNews	697089754253275137	2016-02-09T16:08:43	SPX down 0.4% Nasdaq down 0.3% DJIA down 0.5% WTI crude down 0.3% (29.64) Comex gold down 0.4% Euro 1.1311 Yen 114.81 SPX COMP DJIA EUR
+KitchenNews	697073987029827585	2016-02-09T15:06:04	SPX up 0.3% Nasdaq up 0.9% DJIA up 0.1% WTI crude up 0.4% (29.81) Comex gold down 0.6% Euro 1.1267 Yen 115.17 SPX COMP DJIA EUR JPY
+KitchenNews	695718354498121733	2016-02-05T21:19:16	SPX down 1.9% Nasdaq down 3.3% DJIA down 1.3% WTI crude down 2.3% (30.99) Comex gold up 1.4% Euro 1.1162 Yen 116.93 SPX COMP DJIA EUR
+KitchenNews	695702203428794368	2016-02-05T20:15:05	SPX down 2.1% Nasdaq down 3.3% DJIA down 1.6% WTI crude down 3% (30.77) Comex gold up 0.6% Euro 1.1150 Yen 116.89 SPX COMP DJIA EUR JPY
+KitchenNews	695683813284818944	2016-02-05T19:02:00	SPX down 1.8% Nasdaq down 3% DJIA down 1.3% WTI crude down 0.8% (31.46) Comex gold flat Euro 1.1140 Yen 116.96 SPX COMP DJIA EUR JPY
+KitchenNews	695683200656355328	2016-02-05T18:59:34	keithboyles indeed! :-)
+KitchenNews	695668497846657024	2016-02-05T18:01:09	SPX down 1.6% Nasdaq down 2.6% DJIA down 1.2% WTI crude down 1% (31.41) Comex gold flat Euro 1.1141 Yen 116.91 SPX COMP DJIA EUR JPY
+KitchenNews	695654314111414273	2016-02-05T17:04:47	SPX down 1.4% Nasdaq down 2.5% DJIA down 1% WTI crude down 0.7% (31.52) Comex gold down 0.2% Euro 1.1134 Yen 117.00 SPX COMP DJIA EUR
+KitchenNews	695638610402410497	2016-02-05T16:02:23	SPX down 1.3% Nasdaq down 2.2% DJIA down 1.1% WTI crude up 0.7% (31.93) Comex gold down 0.5% Euro 1.1144 Yen 117.02 SPX COMP DJIA EUR
+KitchenNews	695625256845742081	2016-02-05T15:09:19	SPX down 0.6% Nasdaq down 1.2% DJIA down 0.3% WTI crude down 1.8% (31.11) Comex gold down 0.9% Euro 1.1120 Yen 117.21 SPX COMP DJIA EUR
+KitchenNews	695355368336003076	2016-02-04T21:16:53	SPX up 0.2% Nasdaq up 0.1% DJIA up 0.5% WTI crude down 1.6% (31.78) Comex gold up 1.3% Euro 1.1209 Yen 116.78 SPX COMP DJIA EUR JPY
+KitchenNews	695338621037989888	2016-02-04T20:10:20	SPX down 0.2% Nasdaq down 0.4% DJIA up 0.1% WTI crude down 1.7% (31.73) Comex gold up 1.4% Euro 1.1212 Yen 116.75 SPX COMP DJIA EUR JPY
+KitchenNews	695320766498238464	2016-02-04T18:59:23	SPX down 0.1% Nasdaq down 0.3% DJIA up 0.2% WTI crude down 1.5% (31.83) Comex gold up 1.3% Euro 1.1213 Yen 116.59 SPX COMP DJIA EUR JPY
+KitchenNews	695306602753069056	2016-02-04T18:03:06	SPX up 0.1% Nasdaq flat DJIA up 0.4% WTI crude up 0.2% (32.34) Comex gold up 1.3% Euro 1.1197 Yen 116.83 SPX COMP DJIA EUR JPY
+KitchenNews	695295518415544321	2016-02-04T17:19:04	brandonjamal661 :-)
+KitchenNews	695292335614140416	2016-02-04T17:06:25	SPX down 0.1% Nasdaq down 0.3% DJIA up 0.1% WTI crude down 1.2% (31.87) Comex gold up 1.2% Euro 1.1195 Yen 116.79 SPX COMP DJIA EUR JPY
+KitchenNews	695278714381205505	2016-02-04T16:12:17	SPX up 0.3% Nasdaq up 0.4% DJIA up 0.6% WTI crude up 2.9% (33.20) Comex gold up 0.9% Euro 1.1181 Yen 117.08 SPX COMP DJIA EUR JPY
+KitchenNews	695262069533200384	2016-02-04T15:06:09	SPX down 0.5% Nasdaq down 0.6% DJIA down 0.3% WTI crude up 3.2% (33.29) Comex gold up 1.2% Euro 1.1211 Yen 116.84 SPX COMP DJIA EUR JPY
+KitchenNews	694996010582421505	2016-02-03T21:28:55	SPX up 0.5% Nasdaq down 0.3% DJIA up 1.1% WTI crude up 9.3% (32.66) Comex gold up 1.4% Euro 1.1102 Yen 117.85 SPX COMP DJIA EUR JPY
+KitchenNews	694974949182734336	2016-02-03T20:05:14	SPX up 0.5% Nasdaq down 0.2% DJIA up 1.1% WTI crude up 8.1% (32.29) Comex gold up 1.1% Euro 1.1088 Yen 117.81 SPX COMP DJIA EUR JPY
+KitchenNews	694957970287775744	2016-02-03T18:57:46	SPX down 1% Nasdaq down 1.8% DJIA down 0.3% WTI crude up 6% (31.67) Comex gold up 1.6% Euro 1.1135 Yen 117.15 SPX COMP DJIA EUR JPY
+KitchenNews	694945362172227584	2016-02-03T18:07:40	SPX down 0.5% Nasdaq down 1.1% DJIA flat WTI crude up 6.3% (31.79) Comex gold up 1.1% Euro 1.1084 Yen 117.66 SPX COMP DJIA EUR JPY
+KitchenNews	694929796761935872	2016-02-03T17:05:49	SPX down 0.4% Nasdaq down 0.8% DJIA up 0.1% WTI crude up 5.8% (31.61) Comex gold up 1.1% Euro 1.1054 Yen 117.97 SPX COMP DJIA EUR JPY
+KitchenNews	694913593851006976	2016-02-03T16:01:26	SPX down 0.8% Nasdaq down 1.2% DJIA down 0.4% WTI crude up 1.2% (30.31) Comex gold up 0.9% Euro 1.1050 Yen 118.03 SPX COMP DJIA EUR JPY
+KitchenNews	694899857304059904	2016-02-03T15:06:51	SPX down 0.5% Nasdaq down 0.8% DJIA down 0.2% WTI crude up 1.9% (30.44) Comex gold up 0.4% Euro 1.1024 Yen 118.43 SPX COMP DJIA EUR JPY
+KitchenNews	694630987339173888	2016-02-02T21:18:27	SPX down 1.9% Nasdaq down 2.2% DJIA down 1.8% WTI crude down 5.5% (29.89) Comex gold up 0.2% Euro 1.0920 Yen 120.02 SPX COMP DJIA EUR
+KitchenNews	694612941795033088	2016-02-02T20:06:45	SPX down 2% Nasdaq down 2.3% DJIA down 1.9% WTI crude down 5% (30.04) Comex gold flat Euro 1.0916 Yen 120.11 SPX COMP DJIA EUR JPY
+KitchenNews	694596531400212480	2016-02-02T19:01:32	SPX down 1.8% Nasdaq down 2% DJIA down 1.8% WTI crude down 5% (30.03) Comex gold up 0.1% Euro 1.0920 Yen 120.05 SPX COMP DJIA EUR JPY
+KitchenNews	694582977829842944	2016-02-02T18:07:41	SPX down 1.6% Nasdaq down 1.6% DJIA down 1.6% WTI crude down 4% (30.33) Comex gold down 0.2% Euro 1.0906 Yen 120.20 SPX COMP DJIA EUR
+KitchenNews	694566367136129025	2016-02-02T17:01:41	SPX down 1.5% Nasdaq down 1.4% DJIA down 1.5% WTI crude down 4% (30.39) Comex gold down 0.3% Euro 1.0909 Yen 102.28 SPX COMP DJIA EUR
+KitchenNews	694554043901939713	2016-02-02T16:12:42	SPX down 1.4% Nasdaq down 1.2% DJIA down 1.5% WTI crude down 4.3% (30.27) Comex gold flat Euro 1.0901 Yen 120.32 SPX COMP DJIA EUR JPY
+KitchenNews	694537297253928960	2016-02-02T15:06:10	SPX down 1.3% Nasdaq down 1% DJIA down 1.4% WTI crude down 5.4% (29.92) Comex gold up 0.2% Euro 1.0926 Yen 120.39 SPX COMP DJIA EUR JPY
+KitchenNews	694270538089259010	2016-02-01T21:26:09	SPX flat Nasdaq up 0.1% DJIA down 0.1% WTI crude down 6.8% (31.34) Comex gold up 1.1% Euro 1.0892 Yen 121.02 SPX COMP DJIA EUR JPY
+KitchenNews	694249278445715456	2016-02-01T20:01:41	SPX flat Nasdaq up 0.1% DJIA down 0.1% WTI crude down 6.3% (31.52) Comex gold up 1.1% Euro 1.0896 Yen 121.12 SPX COMP DJIA EUR JPY
+KitchenNews	694232044008660992	2016-02-01T18:53:12	SPX down 0.5% Nasdaq down 0.3% DJIA down 0.6% WTI crude down 6.4% (31.46) Comex gold up 1% Euro 1.0886 Yen 121.12 SPX COMP DJIA EUR JPY
+KitchenNews	694219434882301952	2016-02-01T18:03:05	SPX down 0.6% Nasdaq down 0.5% DJIA down 0.6% WTI crude down 6.2% (31.53) Comex gold up 1% Euro 1.0891 Yen 121.02 SPX COMP DJIA EUR JPY
+KitchenNews	694205946382299136	2016-02-01T17:09:29	SPX down 0.5% Nasdaq down 0.5% DJIA down 0.5% WTI crude down 5.4% (31.82) Comex gold up 1% Euro 1.0895 Yen 121.01 SPX COMP DJIA EUR JPY
+KitchenNews	694189401375510528	2016-02-01T16:03:45	SPX down 0.5% Nasdaq down 0.3% DJIA down 0.5% WTI crude down 5.3% (31.83) Comex gold up 1% Euro 1.0898 Yen 120.98 SPX COMP DJIA EUR JPY
+KitchenNews	694174883513659392	2016-02-01T15:06:04	SPX down 1% Nasdaq down 1% DJIA down 1% WTI crude down 4.6% (32.07) Comex gold up 0.9% Euro 1.0908 Yen 120.75 SPX COMP DJIA EUR JPY
+KitchenNews	693181480617414656	2016-01-29T21:18:38	SPX up 2.5% Nasdaq up 2.4% DJIA up 2.5% WTI crude up 1.2% (33.61) Comex gold up 0.2% Euro 1.0836 Yen 121.05 SPX COMP DJIA EUR JPY
+KitchenNews	693163973764493312	2016-01-29T20:09:04	SPX up 1.9% Nasdaq up 1.7% DJIA up 1.9% WTI crude up 1.3% (33.66) Comex gold up 0.1% Euro 1.0836 Yen 121.05 SPX COMP DJIA EUR JPY
+KitchenNews	693149183084134400	2016-01-29T19:10:17	SPX up 1.7% Nasdaq up 1.5% DJIA up 1.8% WTI crude up 1.7% (33.77) Comex gold up 0.1% Euro 1.0830 Yen 121.16 SPX COMP DJIA EUR JPY
+KitchenNews	693133515659939840	2016-01-29T18:08:02	SPX up 1.6% Nasdaq up 1.5% DJIA up 1.7% WTI crude up 1% (33.61) Comex gold up 0.1% Euro 1.0841 Yen 120.95 SPX COMP DJIA EUR JPY
+KitchenNews	693118135428259840	2016-01-29T17:06:55	SPX up 1.4% Nasdaq up 1.3% DJIA up 1.5% WTI crude down 0.5% (33.04) Comex gold up 0.1% Euro 1.0824 Yen 121.12 SPX COMP DJIA EUR JPY
+KitchenNews	693103631856369664	2016-01-29T16:09:17	SPX up 1.2% Nasdaq up 1.2% DJIA up 1.3% WTI crude up 0.9% (33.52) Comex gold up 0.2% Euro 1.0819 Yen 121.10 SPX COMP DJIA EUR JPY
+KitchenNews	693087636768972800	2016-01-29T15:05:44	SPX up 1.1% Nasdaq up 1.2% DJIA up 1.3% WTI crude up 3.4% (34.34) Comex gold down 0.4% Euro 1.0836 Yen 121.66 SPX COMP DJIA EUR JPY
+KitchenNews	692801498254692352	2016-01-28T20:08:43	SPX up 0.5% Nasdaq up 0.7% DJIA up 0.7% WTI crude up 3.3% (33.38) Comex gold flat Euro 1.0955 Yen 118.77 SPX COMP DJIA EUR JPY
+KitchenNews	692784349276536833	2016-01-28T19:00:34	SPX up 0.3% Nasdaq up 0.5% DJIA up 0.3% WTI crude up 3.5% (33.44) Comex gold down 0.1% Euro 1.0966 Yen 118.70 SPX COMP DJIA EUR JPY
+KitchenNews	692769974557880320	2016-01-28T18:03:27	SPX up 0.4% Nasdaq up 0.8% DJIA up 0.3% WTI crude up 3.6% (33.48) Comex gold flat Euro 1.0952 Yen 118.73 SPX COMP DJIA EUR JPY
+KitchenNews	692762126125936640	2016-01-28T17:32:16	AnthonyMaceroni for sure, tho we're rolling back up now -- maybe more about earnings now, but I guess we'll see how long the oil leash is
+KitchenNews	692756115382104064	2016-01-28T17:08:23	SPX up 0.1% Nasdaq up 0.4% DJIA down 0.1% WTI crude up 2.2% (33.01) Comex gold flat Euro 1.0954 Yen 118.68 SPX COMP DJIA EUR JPY
+KitchenNews	692742060906917888	2016-01-28T16:12:32	SPX up 0.5% Nasdaq up 0.8% DJIA up 0.3% WTI crude up 3% (33.25) Comex gold down 0.1% Euro 1.0945 Yen 118.67 SPX COMP DJIA EUR JPY
+KitchenNews	692725480231825410	2016-01-28T15:06:39	SPX up 0.6% Nasdaq up 0.7% DJIA up 0.5% WTI crude up 5.3% (34.01) Comex gold down 0.2% Euro 1.0928 Yen 118.89 SPX COMP DJIA EUR JPY
+KitchenNews	692457895384862720	2016-01-27T21:23:22	SPX down 1.1% Nasdaq down 2.2% DJIA down 1.4% WTI crude up 1.8% (32.03) Comex gold up 0.5% Euro 1.0893 Yen 118.64 SPX COMP DJIA EUR JPY
+KitchenNews	692442875271913472	2016-01-27T20:23:41	SPX down 1.5% Nasdaq down 2.4% DJIA down 1.6% WTI crude up 1.5% (31.91) Comex gold up0.6% Euro 1.0908 Yen 118.52 SPX COMP DJIA EUR JPY
+KitchenNews	692425339906166784	2016-01-27T19:14:00	SPX down 0.5% Nasdaq down 1.3% DJIA down 0.8% WTI crude up 1.7% (31.93) Comex gold down 0.2% Euro 1.0901 Yen 118.63 SPX COMP DJIA EUR
+KitchenNews	692407352604123138	2016-01-27T18:02:31	SPX up 0.3% Nasdaq down 0.5% DJIA flat WTI crude up 3.2% (32.46) Comex gold down 0.2% Euro 1.0873 Yen 118.90 SPX COMP DJIA EUR JPY
+KitchenNews	692391832437788676	2016-01-27T17:00:51	SPX up 0.4% Nasdaq down 0.3% DJIA up 0.2% WTI crude up 2.7% (32.31) Comex gold down 0.2% Euro 1.0870 Yen 118.91 SPX COMP DJIA EUR JPY
+KitchenNews	692378766207774721	2016-01-27T16:08:56	SPX down 0.4% Nasdaq down 1% DJIA down 0.6% WTI crude down 1% (31.21) Comex gold down 0.3% Euro 1.0868 Yen 118.72 SPX COMP DJIA EUR JPY
+KitchenNews	692363373535715331	2016-01-27T15:07:46	SPX down 0.6% Nasdaq down 1% DJIA down 0.9% WTI crude down 1.4% (31.04) Comex gold down 0.2% Euro 1.0884 Yen 118.49 SPX COMP DJIA EUR
+KitchenNews	677726540847779840	2015-12-18T05:46:13	In Russian, there's a word that means “to call in sick to work so you can go get drunk”  
+KitchenNews	692096331079294976	2016-01-26T21:26:38	SPX up 1.4% Nasdaq up 1.1% DJIA up 1.8% WTI crude up 2.7% (31.16) Comex gold up 1.6% Euro 1.0857 Yen 118.48 SPX COMP DJIA EUR JPY
+KitchenNews	692077396216811521	2016-01-26T20:11:24	SPX up 1% Nasdaq up 0.8% DJIA up 1.4% WTI crude up 3.4% (31.38) Comex gold up 1.6% Euro 1.0861 Yen 118.40 SPX COMP DJIA EUR JPY
+KitchenNews	692058599908970497	2016-01-26T18:56:42	SPX up 1.4% Nasdaq up 1.2% DJIA up 1.7% WTI crude up 5.9% (32.14) Comex gold up 1.4% Euro 1.0846 Yen 118.57 SPX COMP DJIA EUR JPY
+KitchenNews	692043936202756100	2016-01-26T17:58:26	SPX up 1.4% Nasdaq up 1.1% DJIA up 1.7% WTI crude up 5.2% (31.92) Comex gold up 1.2% Euro 1.0843 Yen 118.55 SPX COMP DJIA EUR JPY
+KitchenNews	692030647381012480	2016-01-26T17:05:38	SPX up 1.2% Nasdaq up 1% DJIA up 1.6% WTI crude up 3.7% (31.45) Comex gold up 1.2% Euro 1.0848 Yen 118.52 SPX COMP DJIA EUR JPY
+KitchenNews	692017657034334208	2016-01-26T16:14:01	SPX up 1.1% Nasdaq up 0.6% DJIA up 1.5% WTI crude up 2.9% (31.23) Comex gold up 1.1% Euro 1.0840 Yen 118.49 SPX COMP DJIA EUR JPY
+KitchenNews	692001398351798272	2016-01-26T15:09:24	SPX up 0.9% Nasdaq up 0.3% DJIA up 1.4% WTI crude up 0.7% (30.55) Comex gold up 0.8% Euro 1.0835 Yen 118.51 SPX COMP DJIA EUR JPY
+KitchenNews	691731251711971328	2016-01-25T21:15:56	SPX down 1.6% Nasdaq down 1.6% DJIA down 1.3% WTI crude down 7.5% (29.78) Comex gold up 1.2% Euro 1.0851 Yen 118.33 SPX COMP DJIA EUR
+KitchenNews	691716946480345089	2016-01-25T20:19:06	SPX down 1.1% Nasdaq down 1.1% DJIA down 0.8% WTI crude down 6% (30.26) Comex gold up 0.9% Euro 1.0841 Yen 118.48 SPX COMP DJIA EUR JPY
+KitchenNews	691698158657613824	2016-01-25T19:04:26	SPX down 0.7% Nasdaq down 0.6% DJIA down 0.5% WTI crude down 4.8% (30.62) Comex gold up 0.9% Euro 1.0840 Yen 118.49 SPX COMP DJIA EUR
+KitchenNews	691684523075964928	2016-01-25T18:10:15	SPX down 0.3% Nasdaq down 0.1% DJIA down 0.1% WTI crude down 4.8% (30.68) Comex gold up 0.9% Euro 1.0829 Yen 118.60 SPX COMP DJIA EUR
+KitchenNews	691669194190925831	2016-01-25T17:09:21	SPX down 0.7% Nasdaq down 0.6% DJIA down 0.5% WTI crude down 4.8% (30.65) Comex gold up 1.1% Euro 1.0836 Yen 118.52 SPX COMP DJIA EUR
+KitchenNews	691653293370511360	2016-01-25T16:06:10	SPX down 0.7% Nasdaq down 0.5% DJIA down 0.6% WTI crude down 3.5% (31.07) Comex gold up 1% Euro 1.0835 Yen 118.55 SPX COMP DJIA EUR JPY
+KitchenNews	691638711788793858	2016-01-25T15:08:13	SPX down 0.3% Nasdaq down 0.1% DJIA down 0.3% WTI crude down 3.2% (31.15) Comex gold up 1.1% Euro 1.0833 Yen 118.62 SPX COMP DJIA EUR
+KitchenNews	690645797772234752	2016-01-22T21:22:44	point653 Some say up on US East Coast blizzard, some say QE coming in Europe, some say dead-cat bounce. Many analysts see more weakness tho
+KitchenNews	690645292517974016	2016-01-22T21:20:43	SPX 2% Nasdaq 2.7% DJIA 1.3% WTI crude up 8.7% (32.08) Comex gold flat Euro 1.0797 Yen 118.84 SPX COMP DJIA EUR JPY
+KitchenNews	690625686038454272	2016-01-22T20:02:49	SPX up 1.9% Nasdaq up 2.4% DJIA up 1.2% WTI crude up 8.3% (31.97) Comex gold down 0.1% Euro 1.0795 Yen 118.77 SPX COMP DJIA EUR JPY
+KitchenNews	690613045245018112	2016-01-22T19:12:35	SPX up 2% Nasdaq up 2.5% DJIA up 1.3% WTI crude up 8% (31.89) Comex gold down 0.2% Euro 1.0796 Yen 118.77 SPX COMP DJIA EUR JPY
+KitchenNews	690596255932637184	2016-01-22T18:05:52	SPX up 1.7% Nasdaq up 2.2% DJIA up 1% WTI crude up 6.8% (31.54) Comex gold flat Euro 1.0809 Yen 118.53 SPX COMP DJIA EUR JPY
+KitchenNews	690580925722144768	2016-01-22T17:04:57	SPX up 1.3% Nasdaq up 1.8% DJIA up 0.8% WTI crude up 6.9% (31.58) Comex gold up 0.1% Euro 1.0815 Yen 118.38 SPX COMP DJIA EUR JPY
+KitchenNews	690566188154290176	2016-01-22T16:06:24	SPX up 1.5% Nasdaq up 1.9% DJIA up 1% WTI crude up 6.1% (31.34) Comex gold up 0.3% Euro 1.0825 Yen 118.48 SPX COMP DJIA EUR JPY
+KitchenNews	690552190742605824	2016-01-22T15:10:46	SPX up 1.8% Nasdaq up 2.3% DJIA up 1.4% WTI crude up 6.8% (31.54) Comex gold down 0.2% Euro 1.0824 Yen 118.46 SPX COMP DJIA EUR JPY
+KitchenNews	690282245165158400	2016-01-21T21:18:06	SPX up 0.5% Nasdaq flat DJIA up 0.7% WTI crude up 5% (29.77) Comex gold down 0.4% Euro 1.0887 Yen 117.73 SPX COMP DJIA EUR JPY
+KitchenNews	690265805980733440	2016-01-21T20:12:47	SPX up 0.6% Nasdaq up 0.2% DJIA up 0.9% WTI crude up 4.9% (29.72) Comex gold down 0.5% Euro 1.0881 Yen 117.46 SPX COMP DJIA EUR JPY
+KitchenNews	690248534604406784	2016-01-21T19:04:09	SPX up 0.6% Nasdaq up 0.3% DJIA up 0.9% WTI crude up 4.9% (29.72) Comex gold down 0.6% Euro 1.0889 Yen 117.50 SPX COMP DJIA EUR JPY
+KitchenNews	690237925963919361	2016-01-21T18:22:00	SPX up 1.1% Nasdaq up 0.9% DJIA up 1.2% WTI crude up 6.3% (30.17) Comex gold down 1.1% Euro 1.0838 Yen 117.73 SPX COMP DJIA EUR JPY
+KitchenNews	690215975124238336	2016-01-21T16:54:46	SPX up 1.1% Nasdaq up 0.9% DJIA up 1.2% WTI crude up 3.9% (29.46) Comex gold down 1% Euro 1.0831 Yen 117.60 SPX COMP DJIA EUR JPY
+KitchenNews	690203383970435072	2016-01-21T16:04:44	SPX up 1% Nasdaq up 0.7% DJIA up 1% WTI crude up 0.6% (28.54) Comex gold down 1.1% Euro 1.0824 Yen 117.33 SPX COMP DJIA EUR JPY
+KitchenNews	690188923557916672	2016-01-21T15:07:17	SPX up 0.3% Nasdaq up 0.2% DJIA up 0.3% WTI crude down 0.9% (28.12) Comex gold down 0.8% Euro 1.0823 Yen 117.18 SPX COMP DJIA EUR JPY
+KitchenNews	689941971192819712	2016-01-20T22:45:59	Feb. WTI settles down 6.7% at $26.55 March WTI, now front-month, fell 4.1% to $28.35
+KitchenNews	689919133639507968	2016-01-20T21:15:14	SPX down 1.2% Nasdaq down 0.1% DJIA down 1.5% WTI crude down 6% (26.76) Comex gold up 1.2% Euro 1.0893 Yen 116.88 SPX COMP DJIA EUR
+KitchenNews	689913178600275968	2016-01-20T20:51:34	... but now Nasdaq back in loss column, down 0.1%
+KitchenNews	689905239491645441	2016-01-20T20:20:01	Nasdaq swings positive, now up 0.5%
+KitchenNews	689902722192056320	2016-01-20T20:10:01	SPX down 1.5% Nasdaq down 0.5% DJIA down 1.8% WTI crude down 6% (26.76) Comex gold up 1.4% Euro 1.0890 Yen 116.85 SPX COMP DJIA EUR JPY
+KitchenNews	689886016761569280	2016-01-20T19:03:38	SPX down 2.3% Nasdaq down 1.4% DJIA down 2.5% WTI crude down 6.8% (26.54) Comex gold up 1.5% Euro 1.0912 Yen 116.60 SPX COMP DJIA EUR
+KitchenNews	689871323653234688	2016-01-20T18:05:15	SPX down 2.7% Nasdaq down 2.4% DJIA down 2.7% WTI crude down 6.8% (26.52) Comex gold up 1.6% Euro 1.0916 Yen 116.51 SPX COMP DJIA EUR
+KitchenNews	689855384106872832	2016-01-20T17:01:55	SPX down 2.8% Nasdaq down 2.7% DJIA down 2.7% WTI crude down 6.1% (26.73) Comex gold up 1.4% Euro 1.0908 Yen 116.40 SPX COMP DJIA EUR
+KitchenNews	689840801157746688	2016-01-20T16:03:58	SPX down 2.8% Nasdaq down 3.1% DJIA down 2.6% WTI crude down 5.3% (26.95) Comex gold up 1.2% Euro 1.0898 Yen 116.28 SPX COMP DJIA EUR
+KitchenNews	689826516222345216	2016-01-20T15:07:12	SPX down 1.9% Nasdaq down 2.1% DJIA down 1.8% WTI crude down 3.2% (27.37) Comex gold up 1.2% Euro 1.0900 Yen 116.53 SPX COMP DJIA EUR
+KitchenNews	689557730231644160	2016-01-19T21:19:08	SPX up 0.1% Nasdaq down 0.3% DJIA up 0.2% WTI crude down 3.6% (28.35) Comex gold down 0.3% Euro 1.0915 Yen 117.58 SPX COMP DJIA EUR JPY
+KitchenNews	689542790544424960	2016-01-19T20:19:47	SPX down 0.3% Nasdaq down 0.7% DJIA down 0.1% WTI crude down 3.5% (28.38) Comex gold down 0.3% Euro 1.0921 Yen 117.49 SPX COMP DJIA EUR
+KitchenNews	689525492085436416	2016-01-19T19:11:02	SPX down 0.4% Nasdaq down 0.8% DJIA down 0.1% WTI crude down 3.2% (28.49) Comex gold down 0.1% Euro 1.0933 Yen 117.36 SPX COMP DJIA EUR
+KitchenNews	689509395336589312	2016-01-19T18:07:04	SPX up 0.2% Nasdaq flat DJIA up 0.3% WTI crude down 1.8% (28.91) Comex gold down 0.2% Euro 1.0929 Yen 117.48 SPX COMP DJIA EUR JPY
+KitchenNews	689493564770758656	2016-01-19T17:04:10	SPX up 0.5% Nasdaq up 0.3% DJIA up 0.6% WTI crude down 0.4% (29.29) Comex gold down 0.3% Euro 1.0904 Yen 117.69 SPX COMP DJIA EUR JPY
+KitchenNews	689479872649920514	2016-01-19T16:09:46	SPX up 0.6% Nasdaq up 0.5% DJIA up 0.6% WTI crude down 1.3% (29.05) Comex gold down 0.4% Euro 1.0907 Yen 117.71 SPX COMP DJIA EUR JPY
+KitchenNews	689464116285575168	2016-01-19T15:07:09	SPX up 0.8% Nasdaq up 0.9% DJIA up 0.9% WTI crude down 2.3% (28.75) Comex gold down 0.4% Euro 1.0894 Yen 117.73 SPX COMP DJIA EUR JPY
+KitchenNews	688107150221033482	2016-01-15T21:15:03	SPX down 2.3% Nasdaq down 2.7% DJIA down 2.4% WTI crude down 5% (29.68) Comex gold up 1.3% Euro 1.0918 Yen 117.02 SPX COMP DJIA EUR JPY
+KitchenNews	688092637765615616	2016-01-15T20:17:23	SPX down 2.3% Nasdaq down 3% DJIA down 2.5% WTI crude down 5% (29.66) Comex gold up 1.4% Euro 1.0926 Yen 116.94 SPX COMP DJIA EUR JPY
+KitchenNews	688074174602985472	2016-01-15T19:04:01	SPX down 2.5% Nasdaq down 3.2% DJIA down 2.7% WTI crude down 5.6% (29.46) Comex gold up 1.4% Euro 1.0953 Yen 116.74 SPX COMP DJIA EUR
+KitchenNews	688061041452818434	2016-01-15T18:11:50	SPX down 2.8% Nasdaq down 3.5% DJIA down 2.9% WTI crude down 5.8% (29.40) Comex gold up 1.5% Euro 1.0953 Yen 116.71 SPX COMP DJIA EUR
+KitchenNews	688043363711361025	2016-01-15T17:01:35	SPX down 2.5% Nasdaq down 3.2% DJIA down 2.5% WTI crude down 5.2% (29.60) Comex gold up 1.4% Euro 1.0963 Yen 116.78 SPX COMP DJIA EUR
+KitchenNews	688031208211660801	2016-01-15T16:13:17	SPX down 2.5% Nasdaq down 3.2% DJIA down 2.5% WTI crude down 5.3% (29.55) Comex gold up 1.6% Euro 1.0957 Yen 116.79 SPX COMP DJIA EUR
+KitchenNews	688014472359866372	2016-01-15T15:06:47	SPX down 2.4% Nasdaq down 2.8% DJIA down 2.5% WTI crude down 4.3% (29.85) Comex gold up 1.8% Euro 1.0962 Yen 116.91 SPX COMP DJIA EUR
+KitchenNews	687746146555461632	2016-01-14T21:20:33	SPX up 1.7% Nasdaq up 2% DJIA up 1.4% WTI crude up 2.3% (31.15) Comex gold down 0.9% Euro 1.0864 Yen 118.06 SPX COMP DJIA EUR JPY
+KitchenNews	687728920670547969	2016-01-14T20:12:06	SPX up 2.3% Nasdaq up 2.7% DJIA up 2% WTI crude up 2.3% (31.19) Comex gold down 1% Euro 1.0863 Yen 118.16 SPX COMP DJIA EUR JPY
+KitchenNews	687711913514422272	2016-01-14T19:04:31	SPX up 1.6% Nasdaq up 1.9% DJIA up 1.5% WTI crude up 3.6% (31.57) Comex gold down 1.3% Euro 1.0859 Yen 118.15 SPX COMP DJIA EUR JPY
+KitchenNews	687696153849147392	2016-01-14T18:01:54	SPX up 1.3% Nasdaq up 1.3% DJIA up 1.2% WTI crude up 2.3% (31.18) Comex gold down 0.9% Euro 1.0862 Yen 118.10 SPX COMP DJIA EUR JPY
+KitchenNews	687683094317412356	2016-01-14T17:10:00	SPX up 1.1% Nasdaq up 1% DJIA up 1.2% WTI crude up 2.3% (31.18) Comex gold down 0.5% Euro 1.0857 Yen 118.06 SPX COMP DJIA EUR JPY
+KitchenNews	687667196273627136	2016-01-14T16:06:50	SPX up 1% Nasdaq up 0.8% DJIA up 1.1% WTI crude up 3.5% (31.54) Comex gold down 0.5% Euro 1.0846 Yen 118.04 SPX COMP DJIA EUR JPY
+KitchenNews	687653306387181568	2016-01-14T15:11:38	SPX down 0.4% Nasdaq down 1% DJIA down 0.3% WTI crude up 0.9% (30.75) Comex gold flat Euro 1.0905 Yen 117.50 SPX COMP DJIA EUR JPY
+KitchenNews	687414565739585536	2016-01-13T23:22:58	point653 StanChart is reportedly calling $10 for WTI, but they are on the low end
+KitchenNews	687383126566277120	2016-01-13T21:18:02	SPX down 2.5% Nasdaq down 3.4% DJIA down 2.2% WTI crude up 1.3% (30.83) Comex gold up 0.8% Euro 1.0880 Yen 117.72 SPX COMP DJIA EUR JPY
+KitchenNews	687364865447464960	2016-01-13T20:05:29	SPX down 2.2% Nasdaq down 2.9% DJIA down 2% WTI crude flat (30.44) Comex gold up 0.8% Euro 1.0879 Yen 117.79 SPX COMP DJIA EUR
+KitchenNews	687348720153702400	2016-01-13T19:01:19	SPX down 1.7% Nasdaq down 2.5% DJIA down 1.6% WTI crude down 0.7% (30.24) Comex gold up 0.5% Euro 1.0857 Yen 117.89 SPX COMP DJIA EUR
+KitchenNews	687334569264070656	2016-01-13T18:05:06	SPX down 1% Nasdaq down 1.5% DJIA down 0.9% WTI crude up 0.5% (30.60) Comex gold up 0.5% Euro 1.0856 Yen 118.03 SPX COMP DJIA EUR JPY
+KitchenNews	687318459173097472	2016-01-13T17:01:05	SPX down 0.6% Nasdaq down 1% DJIA down 0.6% WTI crude up 0.1% (30.46) Comex gold up 0.4% Euro 1.0863 Yen 118.08 SPX COMP DJIA EUR JPY
+KitchenNews	687306200472395776	2016-01-13T16:12:22	SPX down 0.3% Nasdaq down 0.6% DJIA down 0.4% WTI crude up 1.1% (30.76) Comex gold up 0.4% Euro 1.0858 Yen 118.17 SPX COMP DJIA EUR JPY
+KitchenNews	687289576113635328	2016-01-13T15:06:18	SPX up 0.2% Nasdaq down 0.1% DJIA up 0.1% WTI crude up 3.5% (31.48) Comex gold up 0.4% Euro 1.0851 Yen 118.17 SPX COMP DJIA EUR JPY
+KitchenNews	687022788616429568	2016-01-12T21:26:11	SPX up 0.8% Nasdaq up 1% DJIA up 0.7% WTI crude down 1.9% (30.80) Comex gold down 0.6% Euro 1.0857 Yen 117.72 SPX COMP DJIA EUR JPY
+KitchenNews	687006616445571073	2016-01-12T20:21:55	SPX up 0.5% Nasdaq up 0.7% DJIA up 0.5% WTI crude down 3% (30.48) Comex gold down 0.6% Euro 1.0854 Yen 117.66 SPX COMP DJIA EUR JPY
+KitchenNews	686987437889859584	2016-01-12T19:05:43	SPX down 0.4% Nasdaq down 0.3% DJIA down 0.3% WTI crude down 3.6% (30.30) Comex gold down 0.9% Euro 1.0864 Yen 117.46 SPX COMP DJIA EUR
+KitchenNews	686972426647830528	2016-01-12T18:06:04	SPX down 0.1% Nasdaq up 0.2% DJIA down 0.1% WTI crude down 4% (30.16) Comex gold down 0.9% Euro 1.0839 Yen 117.71 SPX COMP DJIA EUR
+KitchenNews	686957539607461888	2016-01-12T17:06:55	SPX up 0.4% Nasdaq up 0.7% DJIA up 0.3% WTI crude down 3.6% (30.28) Comex gold down 0.9% Euro 1.0825 Yen 117.84 SPX COMP DJIA EUR JPY
+KitchenNews	686942879009210369	2016-01-12T16:08:39	SPX up 0.4% Nasdaq up 0.8% DJIA up 0.2% WTI crude down 2.3% (30.74) Comex gold down 0.8% Euro 1.0836 Yen 117.86 SPX COMP DJIA EUR JPY
+KitchenNews	686926896559341568	2016-01-12T15:05:09	SPX up 0.9% Nasdaq up 1.3% DJIA up 0.8% WTI crude up 0.7% Comex gold down 1% Euro 1.0847 Yen 117.82 SPX COMP DJIA EUR JPY
+KitchenNews	686053894640648192	2016-01-10T05:16:09	In Cherokee, the letters "CWY" are pronounced "TSALAGI" -- just to mess with you...  
+KitchenNews	686660725981368320	2016-01-11T21:27:29	SPX up 0.1% Nasdaq down 0.1% DJIA up 0.3% WTI crude down 6.1% (31.15) Comex gold down 0.3% Euro 1.0856 Yen 117.70 SPX COMP DJIA EUR
+KitchenNews	686643263189590016	2016-01-11T20:18:05	SPX down 0.8% Nasdaq down 1.2% DJIA down 0.5% WTI crude down 5.7% (31.26) Comex gold down 0.2% Euro 1.0879 Yen 117.43 SPX COMP DJIA EUR
+KitchenNews	686623905218338816	2016-01-11T19:01:10	SPX down 0.9% Nasdaq down 1.3% DJIA down 0.5% WTI crude down 6.4% (31.04) Comex gold down 0.1% Euro 1.0892 Yen 117.29 SPX COMP DJIA EUR
+KitchenNews	686609060297228288	2016-01-11T18:02:11	SPX down 0.3% Nasdaq down 0.6% DJIA flat WTI crude down 5.8% (31.26) Comex gold up 0.1% Euro 1.0883 Yen 117.38 SPX COMP DJIA EUR JPY
+KitchenNews	686596688375463936	2016-01-11T17:13:01	SPX up 0.1% Nasdaq down 0.2% DJIA up 0.3% WTI crude down 4.4% (31.70) Comex gold flat Euro 1.0881 Yen 117.45 SPX COMP DJIA EUR JPY
+KitchenNews	686580453508173824	2016-01-11T16:08:30	SPX down 0.4% Nasdaq down 0.6% DJIA down 0.2% WTI crude down 3.7% (31.95) Comex gold up 0.1% Euro 1.0871 Yen 117.35 SPX COMP DJIA EUR
+KitchenNews	686565139730939904	2016-01-11T15:07:39	SPX up 0.2% Nasdaq up 0.1% DJIA up 0.2% WTI crude down 2.3% Comex gold up 0.4% Euro 1.0884 Yen 117.67 SPX COMP DJIA EUR JPY
+KitchenNews	685573810636984320	2016-01-08T21:28:28	SPX down 1.1% Nasdaq down 1% DJIA down 1% WTI crude down 1.1% (32.91) Comex gold down 0.4% Euro 1.0922 Yen 117.57 SPX COMP DJIA EUR JPY
+KitchenNews	685555207372066816	2016-01-08T20:14:33	SPX down 0.5% Nasdaq down 0.2% DJIA down 0.5% WTI crude down 0.5% (33.09) Comex gold down 0.5% Euro 1.0911 Yen 117.61 SPX COMP DJIA EUR
+KitchenNews	685540974366306304	2016-01-08T19:17:59	SPX down 0.2% Nasdaq flat DJIA down 0.1% WTI crude down 0.3% (33.20) Comex gold down 0.9% Euro 1.0899 Yen 117.76 SPX COMP DJIA EUR
+KitchenNews	685522531952926720	2016-01-08T18:04:42	SPX up 0.2% Nasdaq up 0.3% DJIA up 0.2% WTI crude up 0.3% (33.37) Comex gold down 0.6% Euro 1.0892 Yen 117.82 SPX COMP DJIA EUR JPY
+KitchenNews	685508829325299713	2016-01-08T17:10:15	SPX up 0.2% Nasdaq up 0.4% DJIA up 0.3% WTI crude down 0.6% (33.08) Comex gold down 0.4% Euro 1.0885 Yen 117.80 SPX COMP DJIA EUR JPY
+KitchenNews	685494817724305408	2016-01-08T16:14:35	SPX flat Nasdaq up 0.1% DJIA flat WTI crude down 0.8% (32.99) Comex gold down 0.4% Euro 1.0896 Yen 117.68 SPX COMP DJIA EUR JPY
+KitchenNews	685479166330802176	2016-01-08T15:12:23	SPX up 0.2% Nasdaq up 0.6% DJIA up 0.2% WTI crude down 0.6% (33.07) Comex gold down 0.6% Euro 1.0887 Yen 118.02 SPX COMP DJIA EUR JPY
+KitchenNews	685207119629426688	2016-01-07T21:11:22	Was out today, but here's your bear of a close: SPX down 2.4% Nasdaq down 3% DJIA down 2.3% WTI down 2.2% Gold up 1.6% EUR 1.0937 JPY 117.63
+KitchenNews	684846510136143872	2016-01-06T21:18:26	SPX 1.3% Nasdaq 1.1% DJIA 1.5% WTI crude down 5.5% (34) Comex gold up 1.4% Euro 1.0788 Yen 118.48 SPX COMP DJIA EUR JPY
+KitchenNews	684828031500730368	2016-01-06T20:05:00	SPX down 1.8% Nasdaq down 1.7% DJIA down 1.9% WTI crude down 5.6% (33.97) Comex gold up 1.5% Euro 1.0795 Yen 118.40 SPX COMP DJIA EUR
+KitchenNews	684812140234985473	2016-01-06T19:01:52	SPX down 1.4% Nasdaq down 1.3% DJIA down 1.5% WTI crude down 5.5% (34.01) Comex gold up 1.5% Euro 1.0766 Yen 118.65 SPX COMP DJIA EUR
+KitchenNews	684797526210265088	2016-01-06T18:03:47	SPX down 1.1% Nasdaq down 1% DJIA down 1.3% WTI crude down 4.6% (34.34) Comex gold up 1.2% Euro 1.0761 Yen 118.59 SPX COMP DJIA EUR JPY
+KitchenNews	684782449646157824	2016-01-06T17:03:53	SPX down 1.1% Nasdaq down 0.8% DJIA down 1.3% Nymex WTI down 4.6% (34.33) Comex gold up 1% Euro 1.0761 Yen 118.53 SPX COMP DJIA EUR JPY
+KitchenNews	684773754518425600	2016-01-06T16:29:20	SPX down 0.8% Nasdaq down 0.6% DJIA down 1% Nymex WTI down 4.1% (34.49) Comex gold up 1.1% Euro 1.0752 Yen 118.68 SPX COMP DJIA EUR JPY
+KitchenNews	684754675334119424	2016-01-06T15:13:31	SPX down 1.3% Nasdaq down 1.2% DJIA down 1.3% Nymex WTI down 3.3% Comex gold up 1.2% Euro 1.0745 Yen 118.62 SPX COMP DJIA EUR JPY
+KitchenNews	684072648096092160	2016-01-04T18:03:23	SPX down 2.1% Nasdaq down 2.5% DJIA down 2.2% Nymex WTI down 1% Comex gold up 1.5% Euro 1.0817 Yen 119.42 SPX COMP DJIA EUR JPY
+KitchenNews	684059219943755776	2016-01-04T17:10:01	SPX down 2.3% Nasdaq down 2.7% DJIA down 2.4% Nymex WTI down 1.2% Comex gold up 1.2% Euro 1.0803 Yen 119.37 SPX COMP DJIA EUR JPY
+KitchenNews	684043199229214721	2016-01-04T16:06:22	SPX down 2.6% Nasdaq down 3.2% DJIA down 2.6% Nymex WTI up 0.5% Comex gold up 1.6% Euro 1.0809 Yen 119.22 SPX COMP DJIA EUR JPY
+KitchenNews	684028591332392960	2016-01-04T15:08:19	SPX down 2.2% Nasdaq down 2.7% DJIA down 2.3% Nymex WTI up 3.2% Comex gold up 1.9% Euro 1.0838 Yen 119.14 SPX COMP DJIA EUR JPY
+KitchenNews	658493953411444736	2015-10-26T04:02:47	In Chinese, the Forbidden City is purple. In Arabic, the Sphinx is "Father of the Terror"  
+KitchenNews	682673133053067264	2015-12-31T21:22:13	SPX down 0.9% Nasdaq down 1.2% DJIA down 1% Nymex WTI up 1.3% Comex gold flat Euro 1.0867 Yen 120.19 SPX COMP DJIA EUR JPY
+KitchenNews	682657102498803712	2015-12-31T20:18:31	SPX down 0.6% Nasdaq down 0.8% DJIA down 0.7% Nymex WTI up 1.5% Comex gold down 0.1% Euro 1.0866 Yen 120.21 SPX COMP DJIA EUR JPY

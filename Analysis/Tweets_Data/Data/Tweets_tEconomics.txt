@@ -1,0 +1,570 @@
+tEconomics	726144668405235712	2016-04-29T20:22:34	Uruguay Balance of Trade at $-123.6M   
+tEconomics	726119888813707265	2016-04-29T18:44:06	Colombia InterestRate at 7%   
+tEconomics	726116115458437120	2016-04-29T18:29:07	Mexico Fiscal Balance at MXN8.5B   
+tEconomics	726089308122308609	2016-04-29T16:42:35	Euro Core Annual Inflation Flash at 0.7%   
+tEconomics	726067435812610048	2016-04-29T15:15:41	Colombia Unemployment Rate at 10.1%   
+tEconomics	726064165555716096	2016-04-29T15:02:41	Canada Budget Balance at CAD 3.2B   
+tEconomics	726054041445404672	2016-04-29T14:22:27	Brazil Consumer Confidence at 95.7   
+tEconomics	726052016158588932	2016-04-29T14:14:24	Malawi InterestRate at 27%   
+tEconomics	726048572760834049	2016-04-29T14:00:43	UnitedStates Michigan Consumer Sentiment Final at 89   
+tEconomics	726045928352845824	2016-04-29T13:50:13	Poland Inflation Rate month-on-month Prel at 0.3%   
+tEconomics	726045604758052865	2016-04-29T13:48:56	Poland Annual Inflation Prel at -1.1%   
+tEconomics	726044717373374464	2016-04-29T13:45:24	UnitedStates Chicago PMI at 50.4   
+tEconomics	726040932425064448	2016-04-29T13:30:22	Brazil Nominal Budget Balance at BRL-9.99B   
+tEconomics	726036211052204033	2016-04-29T13:11:36	Brazil Unemployment Rate at 10.9%   
+tEconomics	726022140701609984	2016-04-29T12:15:41	Kenya Annual Inflation at 5.27%   
+tEconomics	726021673133166593	2016-04-29T12:13:50	Kenya GDP Growth Rate year-on-year at 5.27%   
+tEconomics	726019196635729921	2016-04-29T12:03:59	Chile Industrial Production year-on-year at 3.9%   
+tEconomics	726019006885466112	2016-04-29T12:03:14	Macedonia Current Account at $0.1M   
+tEconomics	726018864094568448	2016-04-29T12:02:40	Chile Retail Sales month-on-month at 1.9%   
+tEconomics	726018628286582785	2016-04-29T12:01:44	Chile Retail Sales year-on-year at 1.4%   
+tEconomics	726018495297802240	2016-04-29T12:01:12	Chile Unemployment Rate at 6.3%   
+tEconomics	726018416843300864	2016-04-29T12:00:54	SouthAfrica Balance of Trade at ZAR 2.92B   
+tEconomics	726018380680011778	2016-04-29T12:00:45	Chile Manufacturing Production year-on-year at 2.7%   
+tEconomics	726018307632058368	2016-04-29T12:00:27	Chile Copper Production year-on-year at 3.0%   
+tEconomics	726010940592951296	2016-04-29T11:31:11	India Bank Loan Growth at 10.4%   
+tEconomics	726010908275806209	2016-04-29T11:31:03	India Foreign Reserves at $361.6B   
+tEconomics	726003453365997568	2016-04-29T11:01:26	Kosovo Balance of Trade at €-209.9M   
+tEconomics	725995673603182592	2016-04-29T10:30:31	Russia InterestRate at 11%   
+tEconomics	725989195605528576	2016-04-29T10:04:47	SriLanka Annual Inflation at 3.1%   
+tEconomics	725988844244488193	2016-04-29T10:03:23	Portugal Industrial Production month-on-month at 2.4%   
+tEconomics	725988742704599040	2016-04-29T10:02:59	Italy PPI year-on-year at -3.4%   
+tEconomics	725988741488234496	2016-04-29T10:02:58	Portugal Industrial Production year-on-year at -0.3%   
+tEconomics	725988710622334976	2016-04-29T10:02:51	Italy PPI month-on-month at 0.2%   
+tEconomics	725988649637150720	2016-04-29T10:02:36	Latvia Retail Sales month-on-month at -0.1%   
+tEconomics	725988589880918016	2016-04-29T10:02:22	Latvia Retail Sales year-on-year at 0.3%   
+tEconomics	725988548923502592	2016-04-29T10:02:12	Latvia GDP Growth Rate year-on-year Flash at 1.8%   
+tEconomics	725988433341067264	2016-04-29T10:01:45	Latvia GDP Growth Rate QoQ Flash at -0.1%   
+tEconomics	725988433001328641	2016-04-29T10:01:45	Portugal Retail Sales month-on-month at -5.1%   
+tEconomics	725988304223637504	2016-04-29T10:01:14	Portugal Retail Sales year-on-year at 2.5%   
+tEconomics	725988172560252928	2016-04-29T10:00:43	Malaysia M3 Money Supply year-on-year at 0.9%   
+tEconomics	725982311699894273	2016-04-29T09:37:25	Vietnam Nikkei Manufacturing PMI at 52.3   
+tEconomics	725981743992438785	2016-04-29T09:35:10	Russia Markit Manufacturing PMI at 48   
+tEconomics	725981037055062017	2016-04-29T09:32:21	Indonesia M2 Money Supply year-on-year at 7.4%   
+tEconomics	725980541934272512	2016-04-29T09:30:23	Macau Balance of Trade at MOP-4.48B   
+tEconomics	725973458979577858	2016-04-29T09:02:15	Iceland PPI year-on-year at -10.7%   
+tEconomics	725973371222155267	2016-04-29T09:01:54	Iceland PPI month-on-month at 0.5%   
+tEconomics	725973330151481344	2016-04-29T09:01:44	Belgium Unemployment Rate at 8.5%   
+tEconomics	725973252162637824	2016-04-29T09:01:25	Cyprus Unemployment Rate at 12.1%   
+tEconomics	725973210676776960	2016-04-29T09:01:16	Croatia Industrial Production year-on-year at 6.9%   
+tEconomics	725973151528656900	2016-04-29T09:01:01	Italy Harmonised Inflation Rate month-on-month Prel at 0.3%   
+tEconomics	725973083522215936	2016-04-29T09:00:45	Euro Core Annual Inflation Flash at 0.8%   
+tEconomics	725973061569241089	2016-04-29T09:00:40	Italy Annual Inflation Prel at -0.4%   
+tEconomics	725973040266354688	2016-04-29T09:00:35	Euro GDP Growth Rate year-on-year Flash at 1.6%   
+tEconomics	725973001305493504	2016-04-29T09:00:26	Euro Unemployment Rate at 10.2%   
+tEconomics	725973000659554304	2016-04-29T09:00:25	Euro GDP Growth Rate QoQ Flash at 0.6%   
+tEconomics	725972968531202048	2016-04-29T09:00:18	Italy Inflation Rate month-on-month Prel at 0.0%   
+tEconomics	725972965834276864	2016-04-29T09:00:17	Euro Annual Inflation Flash at -0.2%   
+tEconomics	725970481535438848	2016-04-29T08:50:25	Montenegro Tourist Arrivals at 283K   
+tEconomics	725967185177399296	2016-04-29T08:37:19	Lithuania GDP Growth Rate QoQ Flash at 0.8%   
+tEconomics	725965753409765376	2016-04-29T08:31:38	Slovenia Harmonised Annual Inflation at -0.7%   
+tEconomics	725965727006642176	2016-04-29T08:31:31	Slovenia Retail Sales month-on-month at -0.3%   
+tEconomics	725965698430808065	2016-04-29T08:31:24	Slovenia Annual Inflation at -0.6%   
+tEconomics	725965683423612928	2016-04-29T08:31:21	Slovenia Retail Sales year-on-year at -0.2%   
+tEconomics	725965525348704256	2016-04-29T08:30:43	UnitedKingdom Mortgage Approvals at 71.36K   
+tEconomics	725965442439888896	2016-04-29T08:30:23	UnitedKingdom BoE Consumer Credit at £1883M   
+tEconomics	725965400266170368	2016-04-29T08:30:13	Austria Consumer Confidence at -18   
+tEconomics	725964120437174272	2016-04-29T08:25:08	Uganda Annual Inflation at 5.1%   
+tEconomics	725959420300136448	2016-04-29T08:06:28	CzechRepublic M2 Money Supply year-on-year at 7.6%   
+tEconomics	725958190878318592	2016-04-29T08:01:35	Spain Current Account at €-1455M   
+tEconomics	725958065737072640	2016-04-29T08:01:05	Italy Unemployment Rate at 11.4%   
+tEconomics	725958017250934784	2016-04-29T08:00:53	Norway Unemployed Persons at 100.36K   
+tEconomics	725957978898206720	2016-04-29T08:00:44	Norway Loan Growth year-on-year at 4.9%   
+tEconomics	725957962943094784	2016-04-29T08:00:40	Lithuania GDP Growth Rate year-on-year Flash at 2.2%   
+tEconomics	725950638316609536	2016-04-29T07:31:34	Thailand Current Account at $4950M   
+tEconomics	725950581504757761	2016-04-29T07:31:20	Thailand Private Consumption month-on-month at 0.4%   
+tEconomics	725949867810394117	2016-04-29T07:28:30	Tunisia InterestRate at 4.25%   
+tEconomics	725946145499811841	2016-04-29T07:13:43	Spain Business Confidence at -2.1   
+tEconomics	725945905296248833	2016-04-29T07:12:45	Russia GDP year-on-year at -1.8%   
+tEconomics	725943836506099712	2016-04-29T07:04:32	Austria GDP Growth Rate year-on-year Flash at 1.3%   
+tEconomics	725943580821360640	2016-04-29T07:03:31	Austria PPI month-on-month at 0.1%   
+tEconomics	725943544339304448	2016-04-29T07:03:23	Austria PPI year-on-year at -3.1%   
+tEconomics	725943443118120960	2016-04-29T07:02:58	Slovakia Business Confidence at 7   
+tEconomics	725943161898422273	2016-04-29T07:01:51	Slovakia Consumer Confidence at -9.7   
+tEconomics	725943046219550724	2016-04-29T07:01:24	Denmark Unemployment Rate at 4.2%   
+tEconomics	725943004985319424	2016-04-29T07:01:14	Turkey Tourism Revenues at $4.07B   
+tEconomics	725942949591142401	2016-04-29T07:01:01	Turkey Balance of Trade at $-4.95B   
+tEconomics	725942829843783681	2016-04-29T07:00:32	Switzerland KOF Leading Indicators at 102.7   
+tEconomics	725942829835395073	2016-04-29T07:00:32	Austria GDP Growth Rate QoQ Flash at 0.4%   
+tEconomics	725942802467557376	2016-04-29T07:00:26	Spain GDP Growth Rate QoQ Flash at 0.8%   
+tEconomics	725942786751516675	2016-04-29T07:00:22	Hungary PPI year-on-year at -1.6%   
+tEconomics	725942770938966017	2016-04-29T07:00:18	Spain GDP Growth Rate year-on-year Flash at 3.4%   
+tEconomics	725939910939541505	2016-04-29T06:48:56	France Harmonised Annual Inflation Prel at -0.1%   
+tEconomics	725939726771855360	2016-04-29T06:48:12	France Inflation Rate month-on-month Prel at 0.1%   
+tEconomics	725939214731214848	2016-04-29T06:46:10	France Annual Inflation Prel at -0.1%   
+tEconomics	725939071529283584	2016-04-29T06:45:36	France PPI month-on-month at 0.3%   
+tEconomics	725937547885445120	2016-04-29T06:39:33	Estonia Industrial Production month-on-month at -3.4%   
+tEconomics	725930938287300610	2016-04-29T06:13:17	Romania Unemployment Rate at 6.4%   
+tEconomics	725928206830706689	2016-04-29T06:02:26	France Household Consumption month-on-month at 1.2%   
+tEconomics	725928119597551617	2016-04-29T06:02:05	SouthAfrica Private Sector Credit year-on-year at 8.94%   
+tEconomics	725928050764840960	2016-04-29T06:01:49	SouthAfrica M3 Money Supply year-on-year at 10.30%   
+tEconomics	725927931336253440	2016-04-29T06:01:20	Germany Retail Sales year-on-year at 0.7%   
+tEconomics	725927774494461953	2016-04-29T06:00:43	Germany Retail Sales month-on-month at -1.1%   
+tEconomics	725921100098461696	2016-04-29T05:34:11	France GDP Growth Rate year-on-year 1st Est at 1.3%   
+tEconomics	725920199111667712	2016-04-29T05:30:37	France GDP Growth Rate QoQ 1st Est at 0.5%   
+tEconomics	725919709355339778	2016-04-29T05:28:40	Estonia Industrial Production year-on-year at -1.8%   
+tEconomics	725919353871302656	2016-04-29T05:27:15	Estonia Retail Sales month-on-month at -1%   
+tEconomics	725918828048191488	2016-04-29T05:25:10	Estonia Retail Sales year-on-year at 8%   
+tEconomics	725912891493249028	2016-04-29T05:01:34	Singapore Business Confidence at 1   
+tEconomics	725893468363485184	2016-04-29T03:44:23	Thailand Industrial Production year-on-year at 1.83%   
+tEconomics	725867698694029312	2016-04-29T02:01:59	Singapore Bank Lending at $590.6B   
+tEconomics	725860292786266112	2016-04-29T01:32:34	Australia PPI year-on-year at 1.2%   
+tEconomics	725860238008717313	2016-04-29T01:32:21	Australia PPI QoQ at -0.2%   
+tEconomics	725859905631059968	2016-04-29T01:31:01	Australia Private Sector Credit month-on-month at 0.4%   
+tEconomics	725852594615275520	2016-04-29T01:01:58	NewZealand ANZ Business Confidence at 6.2   
+tEconomics	725852515393257472	2016-04-29T01:01:40	Taiwan GDP Growth Rate year-on-year Adv at -0.84%   
+tEconomics	725823524699516930	2016-04-28T23:06:28	UnitedKingdom Gfk Consumer Confidence at -3   
+tEconomics	725822854806249473	2016-04-28T23:03:48	SouthKorea Manufacturing Production year-on-year at -2.1%   
+tEconomics	725822747331444736	2016-04-28T23:03:22	SouthKorea Retail Sales month-on-month at 4.2%   
+tEconomics	725822623867916288	2016-04-28T23:02:53	SouthKorea Retail Sales year-on-year at 5.7%   
+tEconomics	725822202663305220	2016-04-28T23:01:12	SouthKorea Industrial Production year-on-year at -1.5%   
+tEconomics	725822037575479297	2016-04-28T23:00:33	SouthKorea Industrial Production month-on-month at -2.2%   
+tEconomics	725818379865579520	2016-04-28T22:46:01	NewZealand Building Permits month-on-month at -9.8%   
+tEconomics	725792177599688704	2016-04-28T21:01:54	SouthKorea Business Confidence at 71   
+tEconomics	725732565764718593	2016-04-28T17:05:01	UnitedStates 7-Year Note Auction at 1.634%   
+tEconomics	725723568668024833	2016-04-28T16:29:16	Egypt Overnight Lending Rate at 10.75%   
+tEconomics	725723551567896577	2016-04-28T16:29:12	Egypt InterestRate at 10.75%   
+tEconomics	725714043147804672	2016-04-28T15:51:25	SaudiArabia Private Bank Lending year-on-year at 10.05%   
+tEconomics	725693666120052736	2016-04-28T14:30:27	UnitedStates EIA Natural Gas Stocks Change at 73Bcf   
+tEconomics	725686054829830145	2016-04-28T14:00:12	SaudiArabia M3 Money Supply year-on-year at -0.4%   
+tEconomics	725678546727919617	2016-04-28T13:30:22	Brazil Bank Lending month-on-month at -0.7%   
+tEconomics	725673205768290304	2016-04-28T13:09:09	Belgium GDP Growth Rate year-on-year Adv at 1.5%   
+tEconomics	725673159589023744	2016-04-28T13:08:58	Belgium GDP Growth Rate QoQ Adv at 0.2%   
+tEconomics	725667992453926912	2016-04-28T12:48:26	Botswana Balance of Trade at BWP 549M   
+tEconomics	725663519736221696	2016-04-28T12:30:39	UnitedStates Continuing Jobless Claims at 2130K   
+tEconomics	725663471996682240	2016-04-28T12:30:28	UnitedStates GDP Price Index Adv at 0.7%   
+tEconomics	725663447678095360	2016-04-28T12:30:22	UnitedStates GDP Growth Rate QoQ Adv at 0.5%   
+tEconomics	725663438949736448	2016-04-28T12:30:20	UnitedStates IJC Initial Jobless Claims at 257K   
+tEconomics	725655984622952448	2016-04-28T12:00:43	Bosnia and Herzegovina Retail Sales year-on-year at 5%   
+tEconomics	725655917400875008	2016-04-28T12:00:27	Germany Inflation Rate month-on-month Prel at -0.3%   
+tEconomics	725655875164188673	2016-04-28T12:00:17	Germany Harmonised Annual Inflation Prel at -0.1%   
+tEconomics	725655868222623744	2016-04-28T12:00:15	Germany Annual Inflation Prel at 0.1%   
+tEconomics	725647332587524096	2016-04-28T11:26:20	Moldova InterestRate decreased to 15%   
+tEconomics	725628756614889472	2016-04-28T10:12:31	Italy 10-Year BTP Auction increased to 1.51%   
+tEconomics	725628629376454657	2016-04-28T10:12:01	Italy 5-Year BTP Auction increased to 0.49%   
+tEconomics	725626732766715905	2016-04-28T10:04:29	UnitedArabEmirates Annual Inflation decreased to 1.43%   
+tEconomics	725626574805065728	2016-04-28T10:03:51	Serbia Balance of Trade at $-406.8M   
+tEconomics	725626436221034496	2016-04-28T10:03:18	Serbia Industrial Production year-on-year decreased to 8.8%   
+tEconomics	725626326728757248	2016-04-28T10:02:52	Serbia Retail Sales year-on-year increased to 12.7%   
+tEconomics	725625770626920448	2016-04-28T10:00:39	Ireland Retail Sales year-on-year decreased to 5.2%   
+tEconomics	725625738586689537	2016-04-28T10:00:32	Ireland Retail Sales month-on-month decreased to -2.1%   
+tEconomics	725625725353660416	2016-04-28T10:00:29	Albania Balance of Trade at ALL -27.15B   
+tEconomics	725618214877696000	2016-04-28T09:30:38	SouthAfrica PPI month-on-month decreased to 0.7%   
+tEconomics	725618177183506432	2016-04-28T09:30:29	SouthAfrica PPI year-on-year decreased to 7.1%   
+tEconomics	725618159823278080	2016-04-28T09:30:25	Belgium Inflation Rate month-on-month decreased to 0.18%   
+tEconomics	725618123660005376	2016-04-28T09:30:16	Belgium Annual Inflation decreased to 2.04%   
+tEconomics	725611555023392769	2016-04-28T09:04:10	Romania Business Confidence increased to -0.1   
+tEconomics	725611509179662336	2016-04-28T09:03:59	Romania Consumer Confidence increased to -17.6   
+tEconomics	725611458730557440	2016-04-28T09:03:47	Croatia Consumer Confidence decreased to -17.8   
+tEconomics	725611431664689152	2016-04-28T09:03:41	Croatia Business Confidence increased to 3.6   
+tEconomics	725611177347284992	2016-04-28T09:02:40	Austria Business Confidence increased to -8.5   
+tEconomics	725611150193364992	2016-04-28T09:02:34	Iceland Inflation Rate month-on-month decreased to 0.2%   
+tEconomics	725611127581859840	2016-04-28T09:02:28	Iceland Annual Inflation increased to 1.6%   
+tEconomics	725611095554199552	2016-04-28T09:02:21	Finland Business Confidence decreased to -10.5   
+tEconomics	725611090973962241	2016-04-28T09:02:19	Greece Retail Sales year-on-year increased to 6.6%   
+tEconomics	725611031700103168	2016-04-28T09:02:05	Malta Business Confidence increased to 109.2   
+tEconomics	725610973072084993	2016-04-28T09:01:51	Luxembourg Consumer Confidence decreased to 7.0   
+tEconomics	725610939932921857	2016-04-28T09:01:43	Malta Consumer Confidence decreased to -1.2   
+tEconomics	725610880797413376	2016-04-28T09:01:29	Luxembourg Business Confidence increased to 108   
+tEconomics	725610779861487616	2016-04-28T09:01:05	Greece Business Confidence increased to 90.3   
+tEconomics	725610729680818176	2016-04-28T09:00:53	Greece Consumer Confidence decreased to -73.7   
+tEconomics	725610719899705344	2016-04-28T09:00:51	Cyprus Consumer Confidence increased to -7.2   
+tEconomics	725610702539464704	2016-04-28T09:00:47	Euro Consumer Confidence Final increased to -9.3   
+tEconomics	725610665151463424	2016-04-28T09:00:38	Cyprus Business Confidence increased to 113.3   
+tEconomics	725610648164532224	2016-04-28T09:00:34	Euro Business Confidence increased to 0.13   
+tEconomics	725610529138577409	2016-04-28T09:00:05	Greece PPI year-on-year increased to -10.2%   
+tEconomics	725609400522686464	2016-04-28T08:55:36	Zambia Annual Inflation decreased to 21.8%   
+tEconomics	725596380253835264	2016-04-28T08:03:52	Norway Retail Sales year-on-year decreased to 0.6%   
+tEconomics	725596310297042944	2016-04-28T08:03:35	Turkey Tourist Arrivals year-on-year decreased to -12.8%   
+tEconomics	725596245906051072	2016-04-28T08:03:20	Bulgaria PPI month-on-month increased to 1.2%   
+tEconomics	725596218634723328	2016-04-28T08:03:14	Bulgaria PPI year-on-year decreased to -5.5%   
+tEconomics	725596052699635712	2016-04-28T08:02:34	Italy Wage Inflation year-on-year remained at 0.8%   
+tEconomics	725595954963988480	2016-04-28T08:02:11	Norway Industrial Confidence increased to -7   
+tEconomics	725595937511464960	2016-04-28T08:02:07	Georgia GDP year-on-year increased to 3.4%   
+tEconomics	725595619310600193	2016-04-28T08:00:51	Norway Retail Sales month-on-month decreased to -0.7%   
+tEconomics	725595507645624320	2016-04-28T08:00:24	Norway Unemployment Rate decreased to 4.6%   
+tEconomics	725594356950929408	2016-04-28T07:55:50	Germany Unemployment Change at -16K   
+tEconomics	725594293440774144	2016-04-28T07:55:35	Germany Unemployment Rate Harmonised decreased to 4.2%   
+tEconomics	725588493922127872	2016-04-28T07:32:32	Sweden Retail Sales month-on-month decreased to -0.7%   
+tEconomics	725588426595143680	2016-04-28T07:32:16	Sweden Retail Sales year-on-year decreased to 1.9%   
+tEconomics	725581869115412480	2016-04-28T07:06:12	Spain Inflation Rate month-on-month Prel increased to 0.7%   
+tEconomics	725581007970263040	2016-04-28T07:02:47	Denmark Business Confidence remained at -6   
+tEconomics	725580773680664576	2016-04-28T07:01:51	Spain Unemployment Rate increased to 21%   
+tEconomics	725580685046632450	2016-04-28T07:01:30	Hungary Unemployment Rate decreased to 6%   
+tEconomics	725580588074278913	2016-04-28T07:01:07	Spain Annual Inflation Prel decreased to -1.1%   
+tEconomics	725580431312228352	2016-04-28T07:00:30	Spain Harmonised Annual Inflation Prel decreased to -1.2%   
+tEconomics	725551418992680960	2016-04-28T05:05:13	Japan Construction Orders year-on-year increased to 19.8%   
+tEconomics	725551022358323200	2016-04-28T05:03:38	Netherlands Business Confidence increased to 4.7%   
+tEconomics	725550893383487488	2016-04-28T05:03:07	Japan Housing Starts year-on-year increased to 8.4%   
+tEconomics	725513032567296001	2016-04-28T02:32:41	Singapore Unemployment Rate Prel remained at 1.9%   
+tEconomics	725501096089780224	2016-04-28T01:45:15	Japan BoJ InterestRate unchanged at -0.1%   
+tEconomics	725500657285914624	2016-04-28T01:43:30	Australia Import Prices QoQ decreased to -3.0%   
+tEconomics	725500656988110848	2016-04-28T01:43:30	Australia Export Prices QoQ increased to -4.7%   
+tEconomics	725472520258871296	2016-04-27T23:51:42	Japan Retail Sales year-on-year decreased to -1.1%   
+tEconomics	725472457390477314	2016-04-27T23:51:27	Japan Industrial Production year-on-year Prel increased to 0.1%   
+tEconomics	725472450482429954	2016-04-27T23:51:25	Japan Stock Investment by Foreigners at ¥ 602.0B   
+tEconomics	725472387240742913	2016-04-27T23:51:10	Japan Foreign Bond Investment at ¥ 984.7B   
+tEconomics	725472221813170178	2016-04-27T23:50:30	Japan Industrial Production month-on-month Prel increased to 3.6%   
+tEconomics	725468407555080196	2016-04-27T23:35:21	Japan Inflation Rate month-on-month remained at 0.1%   
+tEconomics	725467886513491968	2016-04-27T23:33:17	Japan Core Annual Inflation at -0.3%   
+tEconomics	725467414926860288	2016-04-27T23:31:24	Japan Annual Inflation decreased to -0.1%   
+tEconomics	725467282193977345	2016-04-27T23:30:53	Japan Household Spending year-on-year decreased to -5.3%   
+tEconomics	725467226598445057	2016-04-27T23:30:40	Japan Unemployment Rate decreased to 3.2%   
+tEconomics	725460852212637696	2016-04-27T23:05:20	ElSalvador Balance of Trade at $-322.6M   
+tEconomics	725455566601117696	2016-04-27T22:44:20	Brazil InterestRate unchanged at 14.25%   
+tEconomics	725429402939613184	2016-04-27T21:00:22	NewZealand InterestRate unchanged at 2.25%   
+tEconomics	725384128707842048	2016-04-27T18:00:27	UnitedStates federalreserve InterestRate unchanged at 0.5%   
+tEconomics	725331268385267713	2016-04-27T14:30:25	UnitedStates EIA Gasoline Stocks Change increased to 1608K   
+tEconomics	725331232066797568	2016-04-27T14:30:16	UnitedStates EIA Crude Oil Stocks Change decreased to 1.999M   
+tEconomics	725323730499604480	2016-04-27T14:00:27	UnitedStates Pending Home Sales year-on-year increased to 1.4%   
+tEconomics	725309243268694016	2016-04-27T13:02:53	Mexico Unemployment Rate decreased to 3.7%   
+tEconomics	725288983262060544	2016-04-27T11:42:23	US MBA mortgage applications down 4.1%.  
+tEconomics	725255771232034821	2016-04-27T09:30:25	UK GDP growth slows to 0.4% in Q1.  
+tEconomics	725197545622900736	2016-04-27T05:39:03	Australia inflation rate lowest in 4 quarters.  
+tEconomics	724952428139962368	2016-04-26T13:25:02	US durable goods below expectations.  
+tEconomics	724822970590498816	2016-04-26T04:50:37	South Korean GDP slows to 0.4% QoQ in Q1.  
+tEconomics	724822515508453379	2016-04-26T04:48:48	South Korean GDP growth weakest since Q3 2015.  
+tEconomics	724790217585102848	2016-04-26T02:40:28	Philippines trade feficit widens in February.  
+tEconomics	724532037462446080	2016-04-25T09:34:33	German Ifo business climate falls in April.  
+tEconomics	724486611308781568	2016-04-25T06:34:03	Singapore CPI drops for 17th month.  
+tEconomics	723539950545846272	2016-04-22T15:52:21	Canada inflation rate down to 5-month low.  
+tEconomics	723166423682539520	2016-04-21T15:08:05	US jobless claims drop to lowest since 1973.  
+tEconomics	723055498057125888	2016-04-21T07:47:19	Switzerland trade surplus narrows in March.  
+tEconomics	722790562114506752	2016-04-20T14:14:33	US existing home sales surge 5.1%.  
+tEconomics	722749463438168065	2016-04-20T11:31:14	Turkey holds key rate at 7.5%, cuts lending rate to 10%.  
+tEconomics	722660849178054656	2016-04-20T05:39:07	Malaysia inflation rate at 5-month low.  
+tEconomics	722604281384288256	2016-04-20T01:54:20	Japan trade surplus largest in over 5 years.  
+tEconomics	722408374206394368	2016-04-19T12:55:52	US housing starts fall 8.8% in March.  
+tEconomics	722380449197252609	2016-04-19T11:04:54	German ZEW economic sentiment at 4-month high.  
+tEconomics	722248314679373824	2016-04-19T02:19:51	Bank of Korea holds base rate steady for 10th month.  
+tEconomics	721957462513946624	2016-04-18T07:04:07	India WPI drops for 17th straight month.  
+tEconomics	720977799021010944	2016-04-15T14:11:17	US consumer sentiment at 7-month low.  
+tEconomics	720974233573138432	2016-04-15T13:57:06	US industrial production falls 0.6% in March.  
+tEconomics	720832280193736706	2016-04-15T04:33:02	Indonesia trade surplus narrows in March.  
+tEconomics	720807999447638016	2016-04-15T02:56:33	China GDP growth weakest in 7 years.  
+tEconomics	720598444642054145	2016-04-14T13:03:51	US inflation rate slows for 2nd month.  
+tEconomics	720577795148091392	2016-04-14T11:41:48	Bank of England leaves rates on hold.  
+tEconomics	720546839360061440	2016-04-14T09:38:48	Euro Area inflation rate revised up to 0%. 
+tEconomics	720434878915981313	2016-04-14T02:13:54	Australia jobless rate at 30-month low.  
+tEconomics	720418122189172736	2016-04-14T01:07:19	Singapore GDP annual growth rate steady in Q1.  
+tEconomics	720236704389603328	2016-04-13T13:06:26	US retail sales decline 0.3%.  
+tEconomics	720184763806531584	2016-04-13T09:40:02	Euro Area industrial production down 0.8% in February.... 
+tEconomics	720156590859546624	2016-04-13T07:48:05	France CPI drops for 2nd straight month.  
+tEconomics	720108485480988676	2016-04-13T04:36:56	China trade surplus widens sharply in March.  
+tEconomics	719871145932140544	2016-04-12T12:53:50	India inflation rate slows to 6-month low.  
+tEconomics	719835911425536004	2016-04-12T10:33:49	Portugal inflation rate steady at 0.4% in March.  
+tEconomics	719823350638452736	2016-04-12T09:43:55	UK inflation rate at 15-month high.  
+tEconomics	719783927808925697	2016-04-12T07:07:15	German inflation rate confirmed at 0.3% in March.  
+tEconomics	719445745397538817	2016-04-11T08:43:27	Italy industrial production down 0.6%.  
+tEconomics	719346009382514689	2016-04-11T02:07:08	China inflation rate steady in March.  
+tEconomics	718423203421495297	2016-04-08T13:00:14	Canada jobless rate falls to 7.1%.  
+tEconomics	718421373366968321	2016-04-08T12:52:57	Brazil inflation rate at 9-month low.  
+tEconomics	718380268466343940	2016-04-08T10:09:37	Greece industrial output down 3% YoY.  
+tEconomics	718378394849779713	2016-04-08T10:02:10	UK industrial output falls the most since 2013.  
+tEconomics	718328369998348289	2016-04-08T06:43:23	German trade surplus widens in February.  
+tEconomics	718328083837816832	2016-04-08T06:42:15	Switzerland jobless rate edges down to 3.6%.  
+tEconomics	718057552844627968	2016-04-07T12:47:16	US jobless claims fall to 267K.  
+tEconomics	717987971694215169	2016-04-07T08:10:46	France trade deficit largest in 1-1/2-years.  
+tEconomics	717581487592325120	2016-04-06T05:15:33	Malaysia trade surplus widens in February.  
+tEconomics	717343422068219904	2016-04-05T13:29:34	US trade deficit at 6-month high.  
+tEconomics	717246940241661952	2016-04-05T07:06:11	India cuts repo rate to lowest in over 5 years.  
+tEconomics	717211318391087104	2016-04-05T04:44:38	Australia leaves monetary policy unchanged.  
+tEconomics	717175601426210816	2016-04-05T02:22:42	Australia trade deficit widens in February.  
+tEconomics	717175360706711552	2016-04-05T02:21:45	Philippines inflation rate accelerates in March.  
+tEconomics	716919976498749441	2016-04-04T09:26:56	Euro Area unemployment rate at 4-1/2-year low.  
+tEconomics	715904246638592000	2016-04-01T14:10:47	US consumer sentiment better than estimated.  
+tEconomics	715884064436301824	2016-04-01T12:50:36	US jobless rate unexpectedly rises to 5%.  
+tEconomics	715882102995161088	2016-04-01T12:42:48	US economy adds 215K jobs in March.  
+tEconomics	715834977640980480	2016-04-01T09:35:32	 
+tEconomics	715699996734132224	2016-04-01T00:39:10	South Korea inflation rate eases in March.  
+tEconomics	715530680915111941	2016-03-31T13:26:22	South Africa trade gap narrows sharply.  
+tEconomics	715498038534471680	2016-03-31T11:16:40	Italy deflation slows in March.  
+tEconomics	715464507997425664	2016-03-31T09:03:26	German jobless rate flat at 4.3% in February.  
+tEconomics	715464261473079296	2016-03-31T09:02:27	Turkish economy expands 5.7% in Q4.  
+tEconomics	715444406124429313	2016-03-31T07:43:33	France consumer prices drop for 2nd month.  
+tEconomics	715157082715078656	2016-03-30T12:41:50	US private sector adds 200K jobs in March.  
+tEconomics	715150661743222784	2016-03-30T12:16:19	German inflation rate beats expectations in March.  
+tEconomics	715136834771238912	2016-03-30T11:21:22	Portugal industrial output growth at 3-month high.  
+tEconomics	715136661378768900	2016-03-30T11:20:41	US mortgage applications fall 1%.  
+tEconomics	714619124949893120	2016-03-29T01:04:11	Japan jobless rate up slightly to 3.3% in February.  
+tEconomics	713286061229735936	2016-03-25T08:47:03	France GDP growth confirmed at 0.3% QoQ in Q4.  
+tEconomics	713239594565771264	2016-03-25T05:42:25	Malaysia Inflation Rate Highest in Over 7 Years.  
+tEconomics	713159801983860738	2016-03-25T00:25:21	Japan inflation rate rises to 0.3% in February.  
+tEconomics	713159317344673796	2016-03-25T00:23:25	South Korean Q4 GDP growth revised up to 0.7%.  
+tEconomics	712984183367401477	2016-03-24T12:47:30	US durable goods orders down 2.8% in February.  
+tEconomics	712767260654452738	2016-03-23T22:25:32	New Zealand trade surplus beats forecast.  
+tEconomics	712682828945862657	2016-03-23T16:50:02	Brazil jobless rate at nearly 7-year high. 
+tEconomics	712682606635130880	2016-03-23T16:49:09	Brazil jobless rate at nearly 7-year high.  
+tEconomics	712618788689207297	2016-03-23T12:35:33	Brazil jobless rate at nearly 7-year high.  
+tEconomics	712615329797693444	2016-03-23T12:21:49	 
+tEconomics	712571157011152896	2016-03-23T09:26:17	South Africa inflation rate highest since 2009.  
+tEconomics	712555987467689984	2016-03-23T08:26:00	Philippines trade deficit hits fresh record high in January.... 
+tEconomics	712555451095846913	2016-03-23T08:23:52	Philippines holds key rate steady for 12th month.  
+tEconomics	712555146484584449	2016-03-23T08:22:40	Thailand monetary policy leaves unchanged.  
+tEconomics	712521122609242112	2016-03-23T06:07:28	Singapore consumer prices fall for 16th month.  
+tEconomics	712520881029967874	2016-03-23T06:06:30	Philippines trade deficit hits fresh record high in January.... 
+tEconomics	710836161548296192	2016-03-18T14:32:02	US consumer sentiment drops to 5-month low.  
+tEconomics	710813835561713664	2016-03-18T13:03:19	Canada inflation rate eases to 1.4%.  
+tEconomics	710445982455107584	2016-03-17T12:41:36	US jobless claims rise to 265K.  
+tEconomics	710441605090713601	2016-03-17T12:24:12	BoE leaves monetary policy unchanged.  
+tEconomics	710420003770777600	2016-03-17T10:58:22	Italy trade surplus at 3-year low.  
+tEconomics	710412294195388416	2016-03-17T10:27:44	Norway cuts key rate to 0.5%, fresh record low.  
+tEconomics	710412127580901376	2016-03-17T10:27:04	Switzerland leaves Monetary Policy on hold.  
+tEconomics	710269019912327168	2016-03-17T00:58:25	Australia jobless rate down to 5.8%, less than expected.  
+tEconomics	710265638745477120	2016-03-17T00:44:59	Japan trade balance swings to surplus.  
+tEconomics	710091661293068289	2016-03-16T13:13:39	US inflation rate slows to 1%.  
+tEconomics	710091365577854976	2016-03-16T13:12:29	US inflation rate slows to 1%.  
+tEconomics	710091233205551105	2016-03-16T13:11:57	US housing starts at 5-month high.  
+tEconomics	710042571498774528	2016-03-16T09:58:35	UK unemployment rate stable at 5.1%.  
+tEconomics	710011670752526336	2016-03-16T07:55:48	South korea jobless rate at 6-year high.  
+tEconomics	709723943716962304	2016-03-15T12:52:28	Angola inflation rate at 10-year high.  
+tEconomics	709703741696548864	2016-03-15T11:32:12	Irish trade surplus widens to record high in January.  
+tEconomics	709674374421454848	2016-03-15T09:35:30	Italy consumer prices post first fall in 10 months  
+tEconomics	709663720797048832	2016-03-15T08:53:10	France CPI Confirmed at -0.2% YoY in February.  
+tEconomics	709663368752267264	2016-03-15T08:51:46	Turkey unemployment rate at 10-month high.  
+tEconomics	709616604712202240	2016-03-15T05:45:57	BoJ leaves monetary policy unchanged.  
+tEconomics	709590557803352064	2016-03-15T04:02:27	Singapore jobless rate confirmed at 1.9% in Q4.  
+tEconomics	709365548736446466	2016-03-14T13:08:20	India consumer inflation slows in February.  
+tEconomics	709327447360204800	2016-03-14T10:36:56	Euro Area industrial output growth at 4-1/2-year high.... 
+tEconomics	709288243607552001	2016-03-14T08:01:09	India WPI Drops for 16th Straight Month.  
+tEconomics	708203691929694208	2016-03-11T08:11:32	German consumer prices confirmed unchanged in February.  
+tEconomics	708132794879315969	2016-03-11T03:29:49	Philippines jobless rate rises slightly in January.  
+tEconomics	707924892151320576	2016-03-10T13:43:41	US jobless claims at 5-month low.  
+tEconomics	707913613839835136	2016-03-10T12:58:52	ECB cuts rates to fresh record low.  
+tEconomics	707899477370277889	2016-03-10T12:02:42	Portuguese inflation rate slows to 0.4%.  
+tEconomics	707893970282684416	2016-03-10T11:40:49	Irish GDP expands 2.7% in Q4, beats forecast  
+tEconomics	707891799365435392	2016-03-10T11:32:11	Greek jobless rate drops to fresh 2-1/2-year low.  
+tEconomics	707847405232857088	2016-03-10T08:35:47	German trade surplus smallest in 2-1/2-year.  
+tEconomics	707764508866048001	2016-03-10T03:06:23	Bank of Korea Keeps Base Rate Steady for 9th Month.  
+tEconomics	707760032436391937	2016-03-10T02:48:35	China inflation rate at 20-month high.  
+tEconomics	707574650860130305	2016-03-09T14:31:57	Mexico inflation rate highest since June 2015.  
+tEconomics	707546076182659072	2016-03-09T12:38:24	Brazil inflation rate slows to 10.4%.  
+tEconomics	707152401384513536	2016-03-08T10:34:05	Euro Area GDP growth confirmed at 0.3%.  
+tEconomics	707135631227539456	2016-03-08T09:27:27	Switzerland jobless rate edges down in February.  
+tEconomics	707135366638211072	2016-03-08T09:26:24	France trade deficit widens slightly in January.  
+tEconomics	707082967169044480	2016-03-08T05:58:10	China trade surplus smallest in nearly a year.  
+tEconomics	705752029688438785	2016-03-04T13:49:30	US economy adds 242K jobs in February.  
+tEconomics	705749536539545603	2016-03-04T13:39:36	US jobless rate flat at 4.9%.  
+tEconomics	705689982762094592	2016-03-04T09:42:57	Italian economy expands 0.1% in Q4.  
+tEconomics	705669936811794432	2016-03-04T08:23:18	Czech economy stalls in Q4.  
+tEconomics	705618434340614145	2016-03-04T04:58:39	Malaysia trade surplus smallest in 6 months.  
+tEconomics	705586279539412992	2016-03-04T02:50:52	Philippines inflation rate at 4-month low.  
+tEconomics	705387347710517248	2016-03-03T13:40:23	US jobless claims at 4-week high.  
+tEconomics	705372223553609728	2016-03-03T12:40:17	Brazil GDP posts sharpest contraction since 1991.  
+tEconomics	705312058116595712	2016-03-03T08:41:13	Turkish inflation rate slows to 8.8% in February.  
+tEconomics	705287905699303424	2016-03-03T07:05:14	French jobless rate falls to 10.3% in Q4.  
+tEconomics	705201916343685120	2016-03-03T01:23:33	Australia trade deficit narrows in January.  
+tEconomics	705020649119608832	2016-03-02T13:23:16	US private sector adds 214K jobs.  
+tEconomics	704948732081664000	2016-03-02T08:37:29	Switzerland GDP picks up in Q4.  
+tEconomics	704864818252136448	2016-03-02T03:04:03	Australian economy beats estimates in Q4.  
+tEconomics	704735294625603584	2016-03-01T18:29:22	Brazil trade surplus beats expectations.  
+tEconomics	704663940433899521	2016-03-01T13:45:50	Canada GDP growth slows in Q4.  
+tEconomics	704620454523346944	2016-03-01T10:53:02	Euro Area unemployment rate at fresh 4-1/2-year low.  
+tEconomics	704612657576308736	2016-03-01T10:22:03	South Africa Q4 GDP growth slows to 0.6%.  
+tEconomics	704599495577837568	2016-03-01T09:29:45	Italy jobless rate edges down to 11.5%.  
+tEconomics	704599295467634688	2016-03-01T09:28:57	German jobless rate falls to fresh 35-year low.  
+tEconomics	704577689462640640	2016-03-01T08:03:06	South Korea trade surplus beats estimates.  
+tEconomics	704522523615105024	2016-03-01T04:23:53	Australia keeps cash rate steady at 2%.  
+tEconomics	704298723032047616	2016-02-29T13:34:35	Turkey trade gap narrows 13% in January.  
+tEconomics	704298262266822661	2016-02-29T13:32:45	Italy returns to deflation in February.  
+tEconomics	704284128875773952	2016-02-29T12:36:35	South Africa trade balance swings to deficit.  
+tEconomics	704273557312946176	2016-02-29T11:54:35	Portugal Q4 GDP growth confirmed at 0.2%.  
+tEconomics	704239038908252160	2016-02-29T09:37:25	Polish Q4 GDP growth confirmed at 4-year high.  
+tEconomics	704227356156809216	2016-02-29T08:51:00	Swedish Q4 GDP growth highest in 5 years.  
+tEconomics	703222212229263365	2016-02-26T14:16:55	US GDP Growth Revised Up to 1% in Q4.  
+tEconomics	703207599240568832	2016-02-26T13:18:51	German consumer prices unchanged in February.  
+tEconomics	703147784824750080	2016-02-26T09:21:10	Switzerland Non Farm Payrolls Up 0.9% in Q4  
+tEconomics	703147582952878081	2016-02-26T09:20:22	French GDP growth revised up in Q4.  
+tEconomics	703147401322721280	2016-02-26T09:19:38	French consumer prices drop for 1st time since March 2015.  
+tEconomics	703147373950685184	2016-02-26T09:19:32	Italy Wage Inflation Hits Record Low  
+tEconomics	703011494963912705	2016-02-26T00:19:36	UK consumer morale lowest since December 2014.  
+tEconomics	703010573806673921	2016-02-26T00:15:56	Japan consumer prices unchanged in January.  
+tEconomics	702984014127370240	2016-02-25T22:30:24	New Zealand trade surplus narrows in January.  
+tEconomics	702834715938701312	2016-02-25T12:37:08	Brazil jobless rate rises to 7.6% in January.  
+tEconomics	702465287426326528	2016-02-24T12:09:10	US mortgage applications fall 4.3%.  
+tEconomics	702382207176982528	2016-02-24T06:39:02	Malaysia consumer prices at 23-month high.  
+tEconomics	702381962632286208	2016-02-24T06:38:04	Hong Kong GDP annual growth lowest in over 3 years.  
+tEconomics	702381442505031680	2016-02-24T06:36:00	Philippines trade balance swings to surplus in December.  
+tEconomics	702145052219408387	2016-02-23T14:56:40	Mexican economy expands 2.5% in Q4.  
+tEconomics	702059913481232387	2016-02-23T09:18:21	Germany business climate down to 14-month low.  
+tEconomics	702046829517602816	2016-02-23T08:26:22	German GDP growth confirmed at 0.3% in Q4.  
+tEconomics	702021550455836672	2016-02-23T06:45:55	Singapore consumer prices drop for 15th month.  
+tEconomics	700347819396354048	2016-02-18T15:55:06	Venezuela inflation rate reaches 180.9%.  
+tEconomics	700317250532864000	2016-02-18T13:53:38	Russia unemployment rate unchanged at 5.8%.  
+tEconomics	700315834137366528	2016-02-18T13:48:00	US jobless claims down to 262K.  
+tEconomics	700276248438796290	2016-02-18T11:10:42	Indonesia lowers key rate to 7%.  
+tEconomics	700203192655728640	2016-02-18T06:20:24	Malaysia GDP growth weakest in 2-1/2 years.  
+tEconomics	700154011270434816	2016-02-18T03:04:59	China inflation rate rises 1.8% YoY in January.  
+tEconomics	700153591022149632	2016-02-18T03:03:18	Australia's jobless rate at 4-month high.  
+tEconomics	699897173564063745	2016-02-17T10:04:24	UK unemployment rate steady at 5.1%.  
+tEconomics	699874846331772928	2016-02-17T08:35:41	South Africa inflation rate at 17-month high.  
+tEconomics	699824045748023302	2016-02-17T05:13:49	South Korea jobless rate steady in January.  
+tEconomics	699595392384684032	2016-02-16T14:05:14	Angola inflation rate highest since December 2005.  
+tEconomics	699595259769188352	2016-02-16T14:04:42	Angola inflation rate highest since December 2005.  
+tEconomics	699553662490832896	2016-02-16T11:19:24	Brazil retail sales down 2.7% in December.  
+tEconomics	699537990612295680	2016-02-16T10:17:08	UK inflation rate at 12-month high.  
+tEconomics	699536776034197504	2016-02-16T10:12:18	German Zew economic sentiment at 16-month low.  
+tEconomics	699532536561692673	2016-02-16T09:55:28	Italy trade surplus widens 5% in December.  
+tEconomics	699524150168317952	2016-02-16T09:22:08	Norway GDP contracts 1.2% QoQ in Q4.  
+tEconomics	699431336168312832	2016-02-16T03:13:20	South Korea holds base rate steady for 8th month.  
+tEconomics	699298133461884928	2016-02-15T18:24:02	Ukraine's economy shrinks 1.2% in Q4.  
+tEconomics	699199386342060032	2016-02-15T11:51:38	Irish trade surplus widens 19% in December.  
+tEconomics	699158111265771520	2016-02-15T09:07:38	Turkish jobless rate steady at 10.5% in November.  
+tEconomics	699157477879844864	2016-02-15T09:05:07	Thai GDP growth slightly below expectations in Q4.  
+tEconomics	699157075910397952	2016-02-15T09:03:31	Thai GDP expands 2.8% YoY in Q4, slightly above forecasts.  
+tEconomics	699156567476797440	2016-02-15T09:01:30	Indonesia posts small trade surplus in January.  
+tEconomics	699093682495086592	2016-02-15T04:51:37	China trade surplus hits fresh record high in January.  
+tEconomics	698124763949109248	2016-02-12T12:41:28	India consumer inflation rises to 17-month high.  
+tEconomics	698091963430658048	2016-02-12T10:31:08	Euro Area industrial output posts highest drop since August 2013.... 
+tEconomics	698091848099885056	2016-02-12T10:30:41	Euro Area economy advanced 0.3% in Q4.  
+tEconomics	698084042823114753	2016-02-12T09:59:40	Portuguese economy expands 0.2% in Q4.  
+tEconomics	698083846005395456	2016-02-12T09:58:53	Italian economy barely expands in Q4.  
+tEconomics	698075000696397824	2016-02-12T09:23:44	Germany inflation rate confirmed at 0.5% in January.  
+tEconomics	698074622512795648	2016-02-12T09:22:14	German GDP growth steady in Q4.  
+tEconomics	697817633492758529	2016-02-11T16:21:03	Dutch economy expands 0.3% in Q4.  
+tEconomics	697781240288645120	2016-02-11T13:56:26	US jobless claims fall more than expected.  
+tEconomics	697730473087410177	2016-02-11T10:34:42	Greek jobless rate at 24.6% in November.  
+tEconomics	697498170260119553	2016-02-10T19:11:37	US posts $55 billion budget surplus in January.  
+tEconomics	697392468447399936	2016-02-10T12:11:36	US mortgage applications rebound.  
+tEconomics	697392103626817536	2016-02-10T12:10:09	Portuguese inflation rate up to 0.8% in January.  
+tEconomics	697380672789487616	2016-02-10T11:24:43	Portuguese jobless rate rises to 12.2% in Q4.  
+tEconomics	697076460532723712	2016-02-09T15:15:53	Mexico inflation rate up to 6-month high.  
+tEconomics	697076291204485120	2016-02-09T15:15:13	US wholesale inventories fall for third month.  
+tEconomics	697054426272546816	2016-02-09T13:48:20	Mozambique inflation at nearly 5-year high.  
+tEconomics	696675232489349121	2016-02-08T12:41:33	India's economy expands 7.3% in Q4.  
+tEconomics	696675070605971456	2016-02-08T12:40:55	Irish Consumer Sentiment Highest in 15 Years.  
+tEconomics	695610822207340544	2016-02-05T14:11:58	Canada trade gap smallest since July 2015.  
+tEconomics	695610260124471296	2016-02-05T14:09:44	US jobless rate drops to 4.9% in January.  
+tEconomics	695571088667967488	2016-02-05T11:34:05	Brazil inflation rate highest since November 2003.  
+tEconomics	695541582213345281	2016-02-05T09:36:50	Norway industrial production shrinks for 3rd month. 
+tEconomics	695535375465500672	2016-02-05T09:12:10	French trade deficit narrows in December.  
+tEconomics	695508708705595393	2016-02-05T07:26:12	Philippines inflation rate eases to 1.3% YoY in January.  
+tEconomics	695476047895252992	2016-02-05T05:16:25	Malaysia trade surplus smallest in 5 months.  
+tEconomics	695461880656166912	2016-02-05T04:20:08	Indonesia economy contracts 1.83% QoQ in Q4.  
+tEconomics	695461648044318720	2016-02-05T04:19:12	Indonesia GDP grows 5.04% YoY in Q4, above expectations.  
+tEconomics	695241243769442304	2016-02-04T13:43:24	US jobless claims rise to 285K.  
+tEconomics	695227726823870464	2016-02-04T12:49:41	BoE leaves rates on hold, votes unanimously.  
+tEconomics	695227513103073281	2016-02-04T12:48:50	US Planned Layoffs at 6-Month High   
+tEconomics	695191245757485056	2016-02-04T10:24:43	China current account surplus widens in Q4, 2015.  
+tEconomics	694875342989824001	2016-02-03T13:29:26	US private sector adds 205K jobs in January.  
+tEconomics	694854268965261312	2016-02-03T12:05:42	US Mortgage Applications Post 1st Fall in 4 Weeks.... 
+tEconomics	694830972630646784	2016-02-03T10:33:07	Euro Area retail sales post 1st rise in 4 months.  
+tEconomics	694789409556840448	2016-02-03T07:47:58	Thailand leaves key policy rate on hold at 1.5%.  
+tEconomics	694693603923337216	2016-02-03T01:27:16	Australia trade deficit largest in 8 months in December.  
+tEconomics	694584106441687040	2016-02-02T18:12:10	Irish jobless rate hits lowest since November 2008.  
+tEconomics	694486623321481217	2016-02-02T11:44:48	Brazil industrial production shrinks 0.7%in December, down 8.3% in 2015. 
+tEconomics	694465873059409920	2016-02-02T10:22:21	Euro Area jobless rate lowest since September 2011.  
+tEconomics	694465673158881280	2016-02-02T10:21:33	German jobless rate at 4.5% for 4th straight month.  
+tEconomics	694399817389318145	2016-02-02T05:59:52	RBI leaves policy rate unchanged.  
+tEconomics	694369604668375040	2016-02-02T03:59:49	Australia holds cash rate steady at 2%.  
+tEconomics	694212854837309444	2016-02-01T17:36:57	Brazil posts trade surplus for 11th month in January.  
+tEconomics	694161980375064576	2016-02-01T14:14:47	Kazakhstan hikes key rate to 17%.  
+tEconomics	694157990346227713	2016-02-01T13:58:56	US personal spending flat, income up 0.3% in December.... 
+tEconomics	694114746220544000	2016-02-01T11:07:06	Angola raises key rate to 12%.  
+tEconomics	694112427349250048	2016-02-01T10:57:53	UK mortgage approvals at 4-month high.  
+tEconomics	693093903189303298	2016-01-29T15:30:38	Brazil budget gap hits record high in 2015.  
+tEconomics	693079556052353024	2016-01-29T14:33:37	Mexican GDP grows 0.6% in Q4, beats forecast.  
+tEconomics	693073512874037248	2016-01-29T14:09:36	US GDP growth slows to 0.7% in Q4.  
+tEconomics	693053755252686848	2016-01-29T12:51:06	South Africa trade surplus widens to 5-year high.  
+tEconomics	693007018257469440	2016-01-29T09:45:23	Spain GDP advances 0.8% QoQ in Q4.  
+tEconomics	692993951230513153	2016-01-29T08:53:27	French consumer prices steady in January.  
+tEconomics	692922928292347905	2016-01-29T04:11:14	BoJ sets negative interest rate.  
+tEconomics	692719617173819392	2016-01-28T14:43:21	US durable goods orders slump 5.1% in December.  
+tEconomics	692719484491145216	2016-01-28T14:42:49	South Africa raises key rate to 6.75%.  
+tEconomics	692673614596980736	2016-01-28T11:40:33	Brazil unemployment rate falls to 6-month low in December; full 2015 up to 6.8%.... 
+tEconomics	692648370943434752	2016-01-28T10:00:15	Spain unemployment rate falls to 4-1/2-year low.  
+tEconomics	692648215766777858	2016-01-28T09:59:38	UK GDP expands 0.5% in Q4.  
+tEconomics	692589467199262720	2016-01-28T06:06:11	Singapore jobless rate slightly down to 1.9% in q4.  
+tEconomics	692589028533784576	2016-01-28T06:04:26	Philippines economy expands 2.0% q-o-q in q4.  
+tEconomics	692588345705234433	2016-01-28T06:01:43	Philippines posts strong GDP growth in Q4.  
+tEconomics	692443929267027969	2016-01-27T20:27:52	New Zealand leaves cash rate unchanged.  
+tEconomics	692367007602315264	2016-01-27T15:22:12	US new home sales at 10-month high.  
+tEconomics	692173999271497728	2016-01-27T02:35:16	Australia inflation rate above expectations in q4.  
+tEconomics	691897585095827456	2016-01-26T08:16:53	Switzerland trade surplus widens in December.  
+tEconomics	691803201612464129	2016-01-26T02:01:51	Philippine posts smallest trade gap in 4 months.  
+tEconomics	691774739719819264	2016-01-26T00:08:45	South Korean economy expands 0.6% qoq in Q4.  
+tEconomics	691773574693179395	2016-01-26T00:04:07	South Korean GDP grows 3% in Q4, 2.6% in 2015.  
+tEconomics	691643429726654464	2016-01-25T15:26:58	Sri Lanka leaves key rates on hold.  
+tEconomics	691553556583837696	2016-01-25T09:29:50	German business morale at 11-month low.  
+tEconomics	691515305168863232	2016-01-25T06:57:51	Singapore consumer prices drop for 14th month.  
+tEconomics	690554983641714688	2016-01-22T15:21:52	US 2015 existing home sales at 9-year high.  
+tEconomics	690531967671111680	2016-01-22T13:50:25	Canada inflation rate highest since November 2014.  
+tEconomics	690469842462318592	2016-01-22T09:43:33	UK public finances improve in December.  
+tEconomics	690182134980567040	2016-01-21T14:40:18	Brazil economy sheds 596,208 jobs in December.  
+tEconomics	690169143094579200	2016-01-21T13:48:41	US jobless claims rise to 6-month high.  
+tEconomics	690116373700288514	2016-01-21T10:18:59	Spain trade gap widens 19% in November.  
+tEconomics	690115862074937345	2016-01-21T10:16:57	Malaysia leaves key rate at 3.25%.  
+tEconomics	689811352228098048	2016-01-20T14:06:57	US housing starts, building permits fall in December.  
+tEconomics	689811024040628224	2016-01-20T14:05:38	US inflation rate at 12-month high.  
+tEconomics	689781583398752256	2016-01-20T12:08:39	US mortgage applications surge 9% in latest week. 
+tEconomics	689746463073685504	2016-01-20T09:49:06	UK unemployment rate at near 10-year low.  
+tEconomics	689737679928430593	2016-01-20T09:14:12	South Africa inflation rate at 12-month high.  
+tEconomics	689671707271921664	2016-01-20T04:52:03	Malaysia inflation rate at 4-month high.  
+tEconomics	689569701631016960	2016-01-19T22:06:43	New Zealand inflation rate lowest since 1999.  
+tEconomics	689423131212062720	2016-01-19T12:24:18	German investor sentiment beats forecasts.  
+tEconomics	689422977683709953	2016-01-19T12:23:41	Turkey leaves rates unchanged for 11th straight month.  
+tEconomics	689359262821269504	2016-01-19T08:10:30	Germany inflation rate confirmed at 0.3% in December.  
+tEconomics	689359084139737088	2016-01-19T08:09:47	China GDP growth weakest in 25 years.  
+tEconomics	689034262167818240	2016-01-18T10:39:04	Italian trade surplus widens 25% in November.  
+tEconomics	689034063240384512	2016-01-18T10:38:16	Italian trade surplus widens 25% in November.  
+tEconomics	688004465207689216	2016-01-15T14:27:01	US industrial production falls for 3rd month.  
+tEconomics	688004265583968256	2016-01-15T14:26:14	US retail sales unexpectedly fall 0.1%.  
+tEconomics	687934194136268802	2016-01-15T09:47:47	UK construction output falls the most since May 2013.... 
+tEconomics	687921672272347140	2016-01-15T08:58:02	Spain inflation rate confirmed at 0%.  
+tEconomics	687917464424988672	2016-01-15T08:41:19	Turkish jobless rate highest in 7 months.  
+tEconomics	687850042594607104	2016-01-15T04:13:24	Indonesia trade balance swings to deficit in December.  
+tEconomics	687634199436750852	2016-01-14T13:55:43	US jobless claims up to 284K.  
+tEconomics	687612461302833152	2016-01-14T12:29:20	UK leaves monetary policy unchanged.  
+tEconomics	687599141715849216	2016-01-14T11:36:25	Irish consumer prices post first rise since November 2014.  
+tEconomics	687544887340863488	2016-01-14T08:00:49	India WPI drops for 14th straight month in December.  
+tEconomics	687459707255156736	2016-01-14T02:22:21	South Korea monetary policy unchanged for 7th month.  
+tEconomics	687443382638145536	2016-01-14T01:17:29	Australia jobless rate steady at 5.8% in December.  
+tEconomics	687352759616712706	2016-01-13T19:17:22	US posts $14 billion budget gap in December.  
+tEconomics	687245171914858496	2016-01-13T12:09:52	US mortgage applications jump in latest week. 
+tEconomics	687235016665989120	2016-01-13T11:29:30	Portuguese inflation rate at 8-month low in December.  
+tEconomics	687232890359394304	2016-01-13T11:21:03	Brazil retail sales rise 1.5% in November.  
+tEconomics	687215439110389760	2016-01-13T10:11:43	Euro Area industrial production down 0.7%.  
+tEconomics	687189120557387776	2016-01-13T08:27:08	French consumer prices at 6-month high.  
+tEconomics	687133831313408000	2016-01-13T04:47:26	China trade surplus widens in December.  
+tEconomics	687084690713522178	2016-01-13T01:32:10	South Korea jobless rate steady for the 3rd straight month.... 
+tEconomics	686892998727184384	2016-01-12T12:50:27	India consumer inflation rate at 15-month high.  
+tEconomics	686889925367721985	2016-01-12T12:38:14	India industrial production down 3.2%.  
+tEconomics	686874553159692288	2016-01-12T11:37:09	South Africa manufacturing output down 1%.  
+tEconomics	686851902055804928	2016-01-12T10:07:09	UK industrial output posts biggest drop in 3 years.... 
+tEconomics	686510053986320384	2016-01-11T11:28:46	Albanian GDP grows 2.98% in Q3.  
+tEconomics	685641481714053120	2016-01-09T01:57:22	China inflation rate in line with expectations.  
+tEconomics	685587243759734788	2016-01-08T22:21:51	Nicaragua GDP grows at fastest pace this year.  
+tEconomics	685497013560016896	2016-01-08T16:23:18	Tanzania GDP grows 6.3% in Q3.  
+tEconomics	685458053202841600	2016-01-08T13:48:29	US jobless rate steady at 7-1/2 year low.  
+tEconomics	685457487730978816	2016-01-08T13:46:14	US economy adds 292K jobs in December.  
+tEconomics	685447964530241537	2016-01-08T13:08:24	Tanzania inflation rate highest since July 2013.  
+tEconomics	685423094232690691	2016-01-08T11:29:34	Brazil inflation rate edges up to 10.67%.  
+tEconomics	685397557183406080	2016-01-08T09:48:06	UK trade deficit narrows in November.  
+tEconomics	685393385197334529	2016-01-08T09:31:31	French trade deficit narrows in November.  
+tEconomics	685377587967836160	2016-01-08T08:28:45	Germany trade surplus widens in November.  
+tEconomics	685372955770155008	2016-01-08T08:10:20	Swiss jobless rate at nearly 5-1/2-year high.  
+tEconomics	685079927658573824	2016-01-07T12:45:57	US planned layoffs at 15-year low.  
+tEconomics	685065238698442752	2016-01-07T11:47:35	Greek jobless rate edges down to 24.5% in October.  
+tEconomics	685051602592493568	2016-01-07T10:53:24	Italy unemployment rate falls to 3-year low.  
+tEconomics	685044183812468736	2016-01-07T10:23:55	Euro Area jobless rate down to 4-year low.  
+tEconomics	684974816147976192	2016-01-07T05:48:17	Malaysia trade surplus narrows in November.  
+tEconomics	684903183479607296	2016-01-07T01:03:38	Australia trade deficit narrows in November.  
+tEconomics	684745129798795264	2016-01-06T14:35:35	Canadian trade gap narrows to 4-month low  
+tEconomics	684734856924807168	2016-01-06T13:54:46	US trade deficit narrows in November.  
+tEconomics	684726917434597376	2016-01-06T13:23:13	US private sector adds 257K jobs in December.  
+tEconomics	684710838482108418	2016-01-06T12:19:19	US mortgage applications slump in latest week.  
+tEconomics	684369071731814400	2016-01-05T13:41:16	Canada producer prices down 0.2%.  
+tEconomics	684334138636288000	2016-01-05T11:22:27	Irish jobless rate steady at 7-year low.  
+tEconomics	684324758259920896	2016-01-05T10:45:11	Italian inflation rate disappoints in December.  
+tEconomics	684316184003514368	2016-01-05T10:11:06	Euro Area inflation rate below forecasts.   
+tEconomics	684301179556376576	2016-01-05T09:11:29	Unemployment in Spain falls by 55.8K.  
+tEconomics	684300852543225856	2016-01-05T09:10:11	German jobless rate unchanged at 4.5%.  
+tEconomics	684195392494395393	2016-01-05T02:11:07	Philippines inflation rate at 7-month high.  
+tEconomics	683999539397791744	2016-01-04T13:12:52	Germany inflation rate slows in December.  
+tEconomics	683946573580111872	2016-01-04T09:42:24	UK mortgage approvals at 3-month high.  
+tEconomics	683941964715323392	2016-01-04T09:24:06	Euro Area factory activity growth at 20-month high. 
+tEconomics	683941809677070336	2016-01-04T09:23:29	Turkey inflation rate up to 8.81%.  
+tEconomics	683812882958708737	2016-01-04T00:51:10	Singapore GDP growth beats forecast in Q4.  
+tEconomics	682721515633295360	2016-01-01T00:34:28	South Korea trade surplus widens in December.  
+tEconomics	682492529548357632	2015-12-31T09:24:33	Turkish trade gap narrows 49.1% YoY in November.  
+tEconomics	682397201079922688	2015-12-31T03:05:45	South Korea inflation rate at 16-month high.  

@@ -1,0 +1,690 @@
+IBMWatson	726124369374650368	2016-04-29T19:01:55	C is for Cognitive. Over the next three years, IBMWatson will work with SesameWorkshop:  
+IBMWatson	726094338711638017	2016-04-29T17:02:35	Get a jumpstart building your cognitive app with code examples that combine multiple services for common use cases: 
+IBMWatson	726064184597737472	2016-04-29T15:02:45	Six smart deployments powered by cognitive:  
+IBMWatson	726040494833328128	2016-04-29T13:28:37	Explore our cognitive services and bring the power of Watson to your app:  
+IBMWatson	725849509092159488	2016-04-29T00:49:43	Get a 360 degree view of your data with smart enterprisesearch. Join us 5/5 to learn more:  
+IBMWatson	725779258992263168	2016-04-28T20:10:34	Never worry about pressing "send" on an email again by using Watson service ToneAnalyzer.  
+IBMWatson	725762774744227840	2016-04-28T19:05:04	UnivThink IBM There is no single Watson app, but there are apps built using Watson APIs. Here's a nice demo: 
+IBMWatson	725761803469230080	2016-04-28T19:01:12	kushaanshah IBM We love it. We can't wait to see what they build with Watson in the future!
+IBMWatson	725750645261619200	2016-04-28T18:16:52	IBM's speech-to-text breakthrough brings error rate down to 6.9%, closer to human accuracy. -davidwkenny iheartsdc 
+IBMWatson	725736829614350336	2016-04-28T17:21:58	Vision API: Interpretation &amp; understanding of visual situations. IBMWatson detects subtle image differences &amp; sorts by relevance iheartsdc
+IBMWatson	725736097150455808	2016-04-28T17:19:03	Speech to Text API: Most fundamental thing is that IBMWatson can hear, write, analyze, use AND learn a text. iheartsdc
+IBMWatson	725733895598006273	2016-04-28T17:10:18	.davidwkenny: Cognitive computing allows systems to understand content in context, learn at scale, interact w/ humans naturally. iheartsdc
+IBMWatson	725722850401755136	2016-04-28T16:26:25	Train IBMWatson to recognize your logo or custom image content:  
+IBMWatson	725698870294904833	2016-04-28T14:51:08	The # of Internet sources is intimidating. Socialmediamonitoring with cognitive can help:  
+IBMWatson	725686567889723392	2016-04-28T14:02:15	Day 2: IBMWatson's davidwkenny will speak on AI &amp; unity3d's johnriccitiello on the future of VR. iheartSDC
+IBMWatson	725669688164782081	2016-04-28T12:55:10	Sending the wrong message? Watson can help. Watson has tone analyzing &amp; sentiment analysis technology: 
+IBMWatson	725432783355531264	2016-04-27T21:13:48	Even Hollywood is using socialmediamonitoring as a business advantage to make movies. Now it's your turn: 
+IBMWatson	725414455648083970	2016-04-27T20:00:58	Developers are transforming the financial industry with cognitive apps. Get started May 10:  
+IBMWatson	725399542028447745	2016-04-27T19:01:42	Learn how University of Illinois researchers are teaming up with IBM to help make IBMWatson smarter: 
+IBMWatson	725391577250684929	2016-04-27T18:30:03	How much of your data do you use to make decisions?
+IBMWatson	725384116766695426	2016-04-27T18:00:25	.SesameStreet and IBMWatson are teaming up to revolutionize preschool IBMandSesame  
+IBMWatson	725385189967433728	2016-04-27T18:04:40	Sesame Workshop, IBM partner to use Watson for preschoolers  IBM IBMWatson SesameWorkshop IBMandSesame
+IBMWatson	725361489729740800	2016-04-27T16:30:30	Cookie Monster is excited to learn all about chocolate computer chips! Wait...they’re not chocolate? IBMandSesame 
+IBMWatson	725316333559230464	2016-04-27T13:31:04	10 amazing ways companies are using IBMWatson -  
+IBMWatson	725308708847235072	2016-04-27T13:00:46	With IBMWatson's cognitive powers and our expertise, we'll bring personalized learning to kids around the world! 
+IBMWatson	725302587994587136	2016-04-27T12:36:27	Hello IBMWatson! Elmo and MeCookieMonster want to welcome their new friend to Sesame Street! IBMandSesame 
+IBMWatson	725299298389254144	2016-04-27T12:23:22	Today is brought to you by the letter S, for SesameStreet!  IBMandSesame 
+IBMWatson	725057716843102208	2016-04-26T20:23:25	Cognitive computing meets enterprise search with Watson Explorer:  
+IBMWatson	725041831747137536	2016-04-26T19:20:17	Watch GrushBrush tonight! Brushing your teeth is now a game for kids w/IBMWatson  greatestmakers
+IBMWatson	725021383726501888	2016-04-26T17:59:02	Watson is absorbing social media to predict and analyze trends in pop culture. Learn how:  
+IBMWatson	724980922353852417	2016-04-26T15:18:16	How does IBM Watson use cognitive technology to improve lives? Forbes breaks it down:  
+IBMWatson	724960349615718400	2016-04-26T13:56:31	IBMthinkIT Thank you for alerting us to this. We'll definitely look at bit.ly to see what's going on.
+IBMWatson	724644174050385920	2016-04-25T17:00:08	We're honored to receive a 2016 gold Edison Award for our innovative veterinary support tool, LifeLearn Sofie: 
+IBMWatson	724951609600532480	2016-04-26T13:21:47	The Chef Watson Twist app helps you make the perfect cocktail based on your mood, bar type &amp; preferred ingredients: 
+IBMWatson	724710266810703872	2016-04-25T21:22:46	Springtime = more fresh produce. Try this pecan blondie from ChefWatson.  yum 
+IBMWatson	724682605489086465	2016-04-25T19:32:51	Looking for some demos &amp; best practices on how to build apps in this CognitiveEra? We've got you covered: 
+IBMWatson	724646318820364288	2016-04-25T17:08:40	The movies of tomorrow: How cognitive storytelling is changing the movie going experience.  
+IBMWatson	724597450317565952	2016-04-25T13:54:29	Fact: IBM had been researching artificial intelligence since the 1970s. More via latimes:  
+IBMWatson	724581338653675520	2016-04-25T12:50:27	Woodside expands IBM Watson artificial intelligence as tech takes centre stage   via FinancialReview ibmwatson
+IBMWatson	724574204704649216	2016-04-25T12:22:06	Take the cognitive journey. Join us for a webcast on 5/5 &amp; learn to understand your data with cognitive solutions: 
+IBMWatson	724355460111847424	2016-04-24T21:52:54	Want to create the next big idea? Use Watson APIs on our Developer Cloud to get started.  
+IBMWatson	724246968319381504	2016-04-24T14:41:47	Three fields where AI will have a significant impact:  
+IBMWatson	723917140844126208	2016-04-23T16:51:10	9 ways IBMWatson is changing your world for the better:  
+IBMWatson	723870961691316229	2016-04-23T13:47:40	Cognitive business is here. How Watson is helping leaders outthink limits of what’s possible  
+IBMWatson	723619205216669697	2016-04-22T21:07:17	Love hot sauce? You're going to want to try this recipe from ChefWatson:  
+IBMWatson	723547960261414916	2016-04-22T16:24:11	Beneath the wires, IBMWatson turns out to be a granola chef  CC: livebearnaked 
+IBMWatson	723575934478102528	2016-04-22T18:15:20	Medical Minecraft: How Watson + IBMBluemix kick serious game design/development up a notch:  
+IBMWatson	723559980205510660	2016-04-22T17:11:57	What’s in your developer toolbox? Read how Watson APIs are fueling startups.  
+IBMWatson	723518684841517057	2016-04-22T14:27:51	How do you think Watson could be used in the music industry? Our latest blog explores:  
+IBMWatson	723508746958323712	2016-04-22T13:48:22	ianroseman We're glad you're enjoying Watson News Explorer. We'll certainly pass along your feedback to our team.
+IBMWatson	723494309085982721	2016-04-22T12:50:59	Building an IBM Watson powered AI Chatbot — Chatbots Magazine — Medium IBMWatson 
+IBMWatson	723497651841409024	2016-04-22T13:04:16	Listen to social media conversations around your brand using cognitive APIs &amp; a business intelligence dashboard: 
+IBMWatson	723255965433257984	2016-04-21T21:03:54	Before Sunday, see what GOT phrases IBMWatson found most popular. Hint: "Winter is coming"  
+IBMWatson	723252017204875264	2016-04-21T20:48:12	Check out some of the companies already building with Watson technology:  
+IBMWatson	723246243749621760	2016-04-21T20:25:16	whopperbuzz We're sorry you're experiencing issues. We'll notify our team to see this can get fixed right away. Thanks for letting us know.
+IBMWatson	723235401004101632	2016-04-21T19:42:11	By 2018, it's predicted 1/2 of all consumers will interact regularly with services based on cognitivecomputing. 
+IBMWatson	723201649729105921	2016-04-21T17:28:04	Developers used Watson APIs at the SXSW Music Hackathon. Here is one of the music applications created: 
+IBMWatson	723176224948809731	2016-04-21T15:47:02	Learn how Watson Explorer is giving folks a personalized social newsfeed-style timeline of their finances: 
+IBMWatson	723141596632375296	2016-04-21T13:29:26	Did you know there are over 100 partners building with Watson? Read more on Cognotion's success in this article: 
+IBMWatson	723124292670492672	2016-04-21T12:20:41	80% of data is unstructured. How are you managing yours? Find out how IBMWatson can help:  
+IBMWatson	722885764611112960	2016-04-20T20:32:51	IBMWatson takes on Hollywood 🎬during Tribeca2016  Read more  
+IBMWatson	722879644756652032	2016-04-20T20:08:32	Watson Personality Insights uncovers a deeper understanding of people's personality characteristics, needs &amp; values: 
+IBMWatson	722852640892133377	2016-04-20T18:21:14	How can you use AI to build assessment tools for healthcare? Cognotion is putting the technology to the test. 
+IBMWatson	722832235926315008	2016-04-20T17:00:09	Could your customer service be more efficient, more personal?
+IBMWatson	722793916374712320	2016-04-20T14:27:53	Bring the power of Watson to your app with our cognitive services:  
+IBMWatson	722524370791493633	2016-04-19T20:36:48	Oral hygiene for children revolutionized w/IBMWatson meet team GrushBrush!  greatestmakers 
+IBMWatson	722773621437956096	2016-04-20T13:07:14	Start your morning off right with customizable granola from LiveBearNaked + Chef Watson:  
+IBMWatson	722510551784517632	2016-04-19T19:41:53	Barnard women in tech hanging w/ some robots IBMWatson BarnardCollege thanks NathalieMolina &lt;3 tribecca2016 
+IBMWatson	722506202861535233	2016-04-19T19:24:36	.LiveBearNaked + ChefWatson team up to let you customize granola from 50+ ingredients.  
+IBMWatson	722496648954441729	2016-04-19T18:46:39	Don't miss our BuildingWithWatson webinar tomorrow on Social Media Monitoring. Register:  
+IBMWatson	722447927516352512	2016-04-19T15:33:03	Watson analyzed GameOfThrones &amp; found women were the strongest characters:  via techinsider 
+IBMWatson	722441713420148740	2016-04-19T15:08:21	Why business leaders are choosing a cognitive business approach:  CognitiveEra 
+IBMWatson	722428177956495360	2016-04-19T14:14:34	Are you using hybridcloud to enable digital services? Learn how you can get started:  
+IBMWatson	722395342579372033	2016-04-19T12:04:05	Looking forward to speaking at tribeca2016 today on AI in film &amp; the real world. If you're there, let me know what you think IBMWatson
+IBMWatson	722139025373409280	2016-04-18T19:05:35	High school students transform Minecraft with Watson to combat disease  via developerworks gaming VR cognitive
+IBMWatson	722138059609935872	2016-04-18T19:01:44	How has the expansion of AI brought business value? Hear an exec's perspective:  
+IBMWatson	722115251676844032	2016-04-18T17:31:06	Want to create powered by Watson apps? Check out the Watson Developer Cloud to get started.  
+IBMWatson	722086141621436416	2016-04-18T15:35:26	How will cognitive IoT disrupt industries? See the future of IoT unveiled with WatsonIoT.  
+IBMWatson	722049041060614144	2016-04-18T13:08:01	Unlike traditional computing platforms, cognitive systems like Watson can understand, reason and learn. 
+IBMWatson	722032119854313472	2016-04-18T12:00:46	Join coastw at Tribeca2016, 50 Varick St.   and experience CognitiveEra, learn more  
+IBMWatson	721871250679726080	2016-04-18T01:21:32	The TodayShow took a look at AI and the benefits it has for the healthcare industry. Check out the segment: 
+IBMWatson	721738760896045056	2016-04-17T16:35:04	A kiss hello!  WhoopiGoldberg Trendy Bot is in love!  Tribeca2016 cognitiveEra 
+IBMWatson	721739279572025344	2016-04-17T16:37:08	Which celebrity will match? .WhoopiGoldberg checking out Tribeca2016 cognitiveEra 
+IBMWatson	721750867230085121	2016-04-17T17:23:10	With ChefWatson &amp; bonappetit you can discover your cake and eat it. Try the web app today.  
+IBMWatson	721475054257635328	2016-04-16T23:07:11	Learn how to enable cognition in your apps with IBMWatson Developer Cloud. Watch the demo:  
+IBMWatson	721338680988856320	2016-04-16T14:05:18	Don't miss Watson Beat at Tribeca2016. Here's a sample of what it can create w/ you:  
+IBMWatson	721314938673758209	2016-04-16T12:30:57	America + Penelope (aka cybercodetwins) talk about changing the world with Watson:  
+IBMWatson	721078620358180864	2016-04-15T20:51:54	Four ways Watson is improving the retail experience for consumers:  
+IBMWatson	721061501348413440	2016-04-15T19:43:53	"Building with Watson" is a web series for developer scoop on Watson Developer Cloud APIs:  
+IBMWatson	721047127816691714	2016-04-15T18:46:46	A FridayFavorite: this quick &amp; easy Chef Watson recipe for a dinner party:  
+IBMWatson	721025447060967424	2016-04-15T17:20:37	A guide for you to understand cognitive computing WatsonIoT 
+IBMWatson	721013613067022336	2016-04-15T16:33:35	New on the blog: Glovators to gladiators: Changing the world with APIs with cybercodetwins:  
+IBMWatson	720995596648247296	2016-04-15T15:22:00	Watson the wingman? A new dating app from Connectidy uses Watson technology to find a match.  
+IBMWatson	720963038141116416	2016-04-15T13:12:37	The road to tech evangelism? Kati Venturato for IBM Watson Life shows us in the latest Watson blog: 
+IBMWatson	720717485788569600	2016-04-14T20:56:53	Enable cognitive computing in apps using IBMWatson's Language, Vision, Speech &amp; Data APIs.  
+IBMWatson	720691414733103104	2016-04-14T19:13:17	First Harry Potter. Then Star Wars. Now see how Watson analyzed 'The Lord of the Rings.'  
+IBMWatson	720626335383732225	2016-04-14T14:54:41	Create original music for your mood.  Join us at Tribeca2016 for Watson Beats Cognitive  
+IBMWatson	720648321589714946	2016-04-14T16:22:03	Learn how organizations use cognitive capabilities from IBMWatson to disrupt their markets:  
+IBMWatson	720619775672496128	2016-04-14T14:28:37	TBT to that time when builtbygirls met Pepper...read more on Medium.  
+IBMWatson	720599965714620416	2016-04-14T13:09:54	"Watson is learning to act more human." -IBM CTO rhigh  
+IBMWatson	720352726018723841	2016-04-13T20:47:28	Interested in using Watson APIs for social media monitoring? Find out how during our next BuildWithWatson series: 
+IBMWatson	720341089891188737	2016-04-13T20:01:13	.IBM WatsonHealth teams up w/ AmericanCancer in fight against cancer.  WHCC16
+IBMWatson	720337548195663873	2016-04-13T19:47:09	To make the best of Mother Nature’s unpredictable side, Watson is learning weathercompany's historical data: 
+IBMWatson	720303713315721216	2016-04-13T17:32:42	Did you know? IBM wants Watson to ask us questions. Check out the story from CNNMoney:  
+IBMWatson	720291563310440448	2016-04-13T16:44:25	See the power of Watson APIs by exploring Watson-powered apps in our gallery.  
+IBMWatson	720260760757084161	2016-04-13T14:42:01	It took 4 yrs. to enable Watson to play Jeopardy. Now you can build Watson capabilities into your apps in 20 mins. 
+IBMWatson	720240664512897024	2016-04-13T13:22:10	80% of data is basically invisible. IBM Watson in the IBMCloud can help businesses put it to work. 
+IBMWatson	719982243863785472	2016-04-12T20:15:18	ICYMI, Stephen King talks storytelling and Ridley Scott talks AI in our latest TV spots.  
+IBMWatson	719966124918464512	2016-04-12T19:11:15	Watch: Watson's cognitive capabilities mirrors key cognitive elements of human expertise. 
+IBMWatson	719936663007338496	2016-04-12T17:14:10	Online education &amp; personalized learning are helping to shape the "classroom of the future."  
+IBMWatson	719912558598049792	2016-04-12T15:38:23	Even IBMWatson powered Nao robot can "shake it off"  
+IBMWatson	719900347209109504	2016-04-12T14:49:52	Using IBM Watson, thenorthface can outthink one-size-fits-all.  CognitiveEra 
+IBMWatson	719878021973315585	2016-04-12T13:21:09	What's the perfect techevangelism recipe? A global audience, great tech + Chef Watson.  
+IBMWatson	719643915679182848	2016-04-11T21:50:54	5 ways cognitive will separate your business from the rest:  
+IBMWatson	719606269623939073	2016-04-11T19:21:18	Too much content, too little strategy? opentopic + Watson make sense of it:  
+IBMWatson	719576218811510784	2016-04-11T17:21:54	How tech evangelism is changing the AI experience for devs, marketers &amp; the general public. Read on: 
+IBMWatson	719528409622306817	2016-04-11T14:11:55	How Watson differs from Siri and Alexa Ibm Outthink 
+IBMWatson	719529571247341568	2016-04-11T14:16:32	Watson is assisting cancer research by analyzing cellular proteins with the same methodology as human scientists IBM Outthink
+IBMWatson	719538544096641024	2016-04-11T14:52:11	Learn how IBMWatson has helped AlphaModus improve their predictive accuracy by over 500%: 
+IBMWatson	719513681302675456	2016-04-11T13:13:24	Social media monitoring is an integral part of business. How CognitiveAPIs make it easier:  
+IBMWatson	719193896870223872	2016-04-10T16:02:41	In our latest TV spot, watch IBM Watson practice Japanese with Ken Watanabe:  
+IBMWatson	718876784888918016	2016-04-09T19:02:36	With Watson's help, learn how ClevelandClinic doctors are managing data overload:  
+IBMWatson	718827329540136960	2016-04-09T15:46:05	Weather can be TomWatsonPGA's biggest opponent. Enter IBM Watson:  
+IBMWatson	718786159988441088	2016-04-09T13:02:29	Learn how IBM Watson is working to bring AI to the blockchain:  
+IBMWatson	718532899767742464	2016-04-08T20:16:07	More data means more time for treating patients. And that's a good thing. Thanks, IBMWatson! 👍🏻 CognitiveEra   ▶️ 
+IBMWatson	718512786230239232	2016-04-08T18:56:12	"Watson’s cognitive APIs understand, reason, and learn in a way similar to your own human brain."  via inversedotcom
+IBMWatson	718492776195694593	2016-04-08T17:36:41	In the CognitiveEra, companies are working with Watson to find insights &amp; predict trends.  
+IBMWatson	718471223781371905	2016-04-08T16:11:02	.TechRepublic has the inside story of how IBM Watson was born and what's in store:  
+IBMWatson	718450918337986560	2016-04-08T14:50:21	Video: Ken Watanabe discuss how IBMWatson is learning nuance, context &amp; idiom in 7 languages: 
+IBMWatson	718434027850579968	2016-04-08T13:43:14	FACTS: 2 million blog posts are created each day. How opentopic + Watson help:  
+IBMWatson	718414756193763329	2016-04-08T12:26:40	Watch as IBM Watson gets storytelling tips from Stephen King:  CognitiveEra IBMWatson 
+IBMWatson	718159279895613441	2016-04-07T19:31:29	For TomWatsonPGA, weather can be his biggest opponent. IBMWatson can help:  CognitiveEra TheMasters
+IBMWatson	718169215367192576	2016-04-07T20:10:58	Adjust campaign ROI and track competitors with SocialMediaMonitoring during our webinar:  
+IBMWatson	718137192359460864	2016-04-07T18:03:43	.Forbes takes a look at how IBM Watson is learning to act a little more human:  
+IBMWatson	718123311797035015	2016-04-07T17:08:34	Too much content, too little strategy? Opentopic + Watson make sense of it:  
+IBMWatson	718087663085969409	2016-04-07T14:46:54	Five ways cognitive computing will transform businesses:  IBMWatson 
+IBMWatson	718067149168893952	2016-04-07T13:25:24	Watson APIs are tools developers can use to integrate Watson with their own software &amp; apps.  
+IBMWatson	717861264249196544	2016-04-06T23:47:17	Are you a master chef? Novice? Create new, innovative meals in a few clicks w/ ChefWatson:  
+IBMWatson	717821193743634434	2016-04-06T21:08:03	How can Watson work with you? Learn how cognitive computing is improving our everyday lives.  
+IBMWatson	717793306168725504	2016-04-06T19:17:14	Develop IoT apps that combine Raspberry Pi with IBM Watson IoT cognitive capabilities/APIs.  
+IBMWatson	717783679372804096	2016-04-06T18:38:59	syedwiquas We're not sure where that came from, but the email we provided hiwatson@us.ibm.com will get you in touch with the right person.
+IBMWatson	717774577703784449	2016-04-06T18:02:49	A step-by-step guide on how to transform your business with cognitivecomputing:  
+IBMWatson	717705503250497536	2016-04-06T13:28:20	Great story on how UnderArmour plans to use data for health by FortuneMagazine. 
+IBMWatson	717728703808188416	2016-04-06T15:00:32	Discover A.I. in film &amp; the real world. Join coastw for Tribeca2016 CognitiveEra  
+IBMWatson	717738981702701056	2016-04-06T15:41:22	Join coastw for Tribeca2016 &amp; discover A.I. in film &amp; the real world.  
+IBMWatson	717737884967682048	2016-04-06T15:37:01	syedwiquas Hi Swiquas. Did you reach out to hiwatson@us.ibm.com? Can you let us know where you tried contacting?
+IBMWatson	717717666090389505	2016-04-06T14:16:40	It was only a matter of time before golfer TomWatsonPGA + IBM Watson teamed up. Details:  
+IBMWatson	717701324884803586	2016-04-06T13:11:44	How cognitive can help marketers adapt to the non-linear customer journey:  
+IBMWatson	717463952905601026	2016-04-05T21:28:30	Want to create the next big idea? Use Watson APIs on our Developer Cloud to get started.  
+IBMWatson	717445742865092610	2016-04-05T20:16:09	How IBMWatsonHealth is helping to transform the health care industry:  via FortuneMagazine 
+IBMWatson	717435217208803328	2016-04-05T19:34:19	Need something to snack on? Why not popcorn via ChefWatson?  
+IBMWatson	717423565235216387	2016-04-05T18:48:01	teodorasandu Thank you for letting us know right away. We'll correct any future tweets regarding this story.
+IBMWatson	717423210296451076	2016-04-05T18:46:37	heytobey We certainly hope to soon, and we'll post any language updates on our Twitter page.
+IBMWatson	717419098444066816	2016-04-05T18:30:16	SamuelSetoh Thank you for letting us know. The story was removed after the tweet. Unfortunately, it's too late to take the tweet down.
+IBMWatson	717418862455685120	2016-04-05T18:29:20	sadderly We're happy to hear. Thank you for sharing you experience. We look forward to seeing what you build!
+IBMWatson	717418556909043713	2016-04-05T18:28:07	kristasande Cheers!
+IBMWatson	717409350780715008	2016-04-05T17:51:32	DYK, 80% of the world's data is invisible to today's computers. Enter IBMWatson  IBMToday 
+IBMWatson	717395273396269058	2016-04-05T16:55:36	Millennials demand great customer service. Find out how Watson Engagement Advisor can help:  
+IBMWatson	717361786157199361	2016-04-05T14:42:32	Watson Developer Cloud is a sandbox where developers can learn about Watson technology &amp; rapidly prototype new apps. 
+IBMWatson	717336644240576512	2016-04-05T13:02:38	It's predicted by 2018, 1/2 of all consumers will interact regularly with services based on cognitivecomputing. 
+IBMWatson	717180286362984448	2016-04-05T02:41:19	From leisure to social work, learn how Watson is in more areas of our lives than you think.  
+IBMWatson	717095383441088514	2016-04-04T21:03:57	More than 500 partners and 80,000 developers are building products &amp; apps powered by Watson.  
+IBMWatson	717079440593985536	2016-04-04T20:00:35	patheerinfo is using cutting edge machinelearning technology IBMWatson to provide employees with CAREER DIRECTION 
+IBMWatson	717058910360711168	2016-04-04T18:39:01	More industries are looking for ways to use artificial intelligence. See how AI is hitting the mainstream: 
+IBMWatson	717010650120073216	2016-04-04T15:27:15	How to empower developers with 'self-service' artificial intelligence:  via Forbes AI 
+IBMWatson	716972504292655104	2016-04-04T12:55:40	Did you know? IBM Watson can now detect joy and sadness. PSFK has the scoop:  
+IBMWatson	716800299642408960	2016-04-04T01:31:23	How you can build a JavaScript action using Watson Language Translation to translate text:  
+IBMWatson	716770093489782785	2016-04-03T23:31:21	From a wine advisor to a virtual assistant, how Watson is powering companies today:  
+IBMWatson	716738618228740096	2016-04-03T21:26:17	Get hands on with IBMWatson APIs at our Watson 202 upcoming workshops:  GTC16 
+IBMWatson	716343639954161664	2016-04-02T19:16:47	What is the future of cognitive computing in 2016 and beyond? Our latest blog explores:  
+IBMWatson	716299812644106240	2016-04-02T16:22:38	Watson can derive valuable insights from both structured data &amp; unstructured medical data.  
+IBMWatson	716006101737684992	2016-04-01T20:55:32	Refreshing with a 'lil kick? Meet ChefWatson's Ruby Red soda. Try it today:  
+IBMWatson	715975272655400961	2016-04-01T18:53:01	Watson is helping medical professionals derive valuable insights from unstructured data.  
+IBMWatson	715946458608959489	2016-04-01T16:58:32	The top 7 challenges for data-driven CXOs:  
+IBMWatson	715915811886669825	2016-04-01T14:56:45	How IBM is welcoming new developers to build with Watson:  
+IBMWatson	715889392175431680	2016-04-01T13:11:46	Interested in cognitive computing? Build with Watson API's at our upcoming workshops:  GTC16 
+IBMWatson	715669674403307520	2016-03-31T22:38:41	3 ways cognitive is improving your life. Yes, that includes a wine advisor:  IBMWatson 
+IBMWatson	715629500067745792	2016-03-31T19:59:03	What everyone should know about cognitive computing:  via Forbes 
+IBMWatson	715584643991351296	2016-03-31T17:00:48	New WatsonHealth Center in Italy will gather experts to develop a new type of data-driven healthcare solutions 
+IBMWatson	715589306341982208	2016-03-31T17:19:20	giancarlo_cs We cannot wait to see your cognitive cooking creations. Hope you enjoy the book.
+IBMWatson	715586698500026369	2016-03-31T17:08:58	IBM Watson is significant for investors, says Morgan Stanley  ibm ibmwatson AI
+IBMWatson	715585905193398272	2016-03-31T17:05:49	More than 80,000 developers are innovating on the Watson platform + building with our APIs:  
+IBMWatson	715560172089843713	2016-03-31T15:23:34	Want to build with Watson? Check out companies already building with cognitive technology:  
+IBMWatson	715535045809741824	2016-03-31T13:43:43	How IBMWatson is changing travel in ways nobody’s expecting:  
+IBMWatson	715510544048861185	2016-03-31T12:06:21	Learn how Watson + IBMcloud are helping boost graduation rates for guide dogs:  
+IBMWatson	715301391716122624	2016-03-30T22:15:16	Cognitive, including AI, augment human capabilities to help people make better decisions.  
+IBMWatson	715273821557645312	2016-03-30T20:25:42	How datascience conquered baseball – and why fantasy baseball is next:  
+IBMWatson	715260757047259136	2016-03-30T19:33:48	Explore our cognitive services and bring the power of Watson to your app:  
+IBMWatson	715170839612796928	2016-03-30T13:36:30	Empowering developers with self-service AI  via IBMWatson GM davidwkenny 
+IBMWatson	715238557602873346	2016-03-30T18:05:35	Over on the Watson blog, a guide to cognitive computing:  IBMWatson 
+IBMWatson	715196009316388864	2016-03-30T15:16:30	Self-service AI is empowering developers in this CognitiveEra.  via davidwkenny 
+IBMWatson	715183492682788866	2016-03-30T14:26:46	roswellc Thank you for the retweet!
+IBMWatson	715167789028216833	2016-03-30T13:24:22	Watson recently analyzed Star Wars, and techinsider has the fascinating conclusions:  
+IBMWatson	714929245177315328	2016-03-29T21:36:29	What is the future of cognitive computing? IBMWatson solution architect Chris Ackerson shares his insights: 
+IBMWatson	714883960149381120	2016-03-29T18:36:32	Who knew Han was so self-conscious? See what else IBMWatson learned analyzing "Star Wars"  
+IBMWatson	714890710273695744	2016-03-29T19:03:22	Cognitive buildings learn from past experiences to make timely adjustments. Find out how:  
+IBMWatson	714844524816822272	2016-03-29T15:59:50	UMCFE Thank you for sharing. We hope you enjoyed the talk!
+IBMWatson	714843683510697984	2016-03-29T15:56:29	A Watson-powered app uses biomaker data + sports nutrition to tailor programs for athletes.  
+IBMWatson	714808666495524864	2016-03-29T13:37:21	Retrieve and rank. Discover the most important content for your business need. Read how:  
+IBMWatson	714782477034897408	2016-03-29T11:53:17	Have an idea for a product or app powered by Watson? Join the WatsonEcosystem:  
+IBMWatson	714602567670566913	2016-03-28T23:58:23	Six smart deployments powered by cognitive computing:  
+IBMWatson	714558529265205248	2016-03-28T21:03:23	All about networking on LinkedIn? Stay in the loop with IBM Watson. Follow our page:  
+IBMWatson	714534592426827776	2016-03-28T19:28:16	Rethinking commerce product recommendations with Watson Personality Insights:  
+IBMWatson	714507901159809025	2016-03-28T17:42:13	Check out featured apps built using the power of Watson APIs and cognitive technology:  
+IBMWatson	714471495003672578	2016-03-28T15:17:33	Already thinking internships? Read what it's like to work on the Watson  team:  
+IBMWatson	714438085426020352	2016-03-28T13:04:47	What does it take to work on Watson Life team? Software Engineer Reah Miyara  tells us.  dev 
+IBMWatson	714210807395983360	2016-03-27T22:01:40	Watson cognitive services span across 4 key areas: Language, Vision, Speech &amp; Data Insights.  
+IBMWatson	714110789922066432	2016-03-27T15:24:14	We love this as a brunch option. Check out this ChefWatson waffle recipe:  
+IBMWatson	713833792503357443	2016-03-26T21:03:33	How can elite athletes benefit from IBMWatson? washingtonpost has the scoop:  
+IBMWatson	713713692962107394	2016-03-26T13:06:19	How IBMWatson is helping train service dogs:  
+IBMWatson	713460197616979969	2016-03-25T20:19:01	New on the blog: A day in the life: Reah Miyara, Watson Life Software Engineer  dev 
+IBMWatson	713456380380889088	2016-03-25T20:03:51	selfdrvn Hello. You can use our Language Translation API for Chinese: 
+IBMWatson	713442730110689280	2016-03-25T19:09:36	Cognitive computing is an emerging opportunity for startups. Learn more:  IBMWatson 
+IBMWatson	713419144532627456	2016-03-25T17:35:53	Watson the wingman? A new Watson-powered dating app aims to help find your perfect match.  
+IBMWatson	713376583776661504	2016-03-25T14:46:46	How many languages do you speak? Read how Natural Language Classifier is expanding:  
+IBMWatson	713355630283722752	2016-03-25T13:23:30	Watson isn't just sound or text - check out what it can do for your images:  
+IBMWatson	713152165041344512	2016-03-24T23:55:00	.jnwuke, Ecosystem Manager IBMWatson, discusses the capabilities of modern AI StartupWeekend WatsonEcosystem 
+IBMWatson	713112926375124992	2016-03-24T21:19:05	Just in time for dinner, we're loving this ChefWatson Moroccan almond curry dish:  
+IBMWatson	713089594217119744	2016-03-24T19:46:22	How will the predictive power of cognitive transform industries as we know them? Find out:  
+IBMWatson	713068030893264896	2016-03-24T18:20:41	Put your coding skills to use during Watson Developer Cloud's online hackathon for building conversational apps. 
+IBMWatson	713035873642631168	2016-03-24T16:12:54	The inside story of IBMWatson: How it's rapidly grown since Jeopardy  via TechRepublic 
+IBMWatson	713005001606569984	2016-03-24T14:10:14	The news from this month's WatsonEcosystem newsletter: Watson can now see and feel.  
+IBMWatson	712992871725408256	2016-03-24T13:22:02	80% of data today is unstructured. Learn how Watson can analyze unstructured data:  
+IBMWatson	712719839991730176	2016-03-23T19:17:06	What are the biggest misconceptions about AI? TechRepublic breaks down 7 myths:  
+IBMWatson	712703066965827584	2016-03-23T18:10:27	Watson analyzed HarryPotterFilm and books. How did your favorite characters fare?  via businessinsider
+IBMWatson	712687205202812928	2016-03-23T17:07:25	Get your tickets to DisrupthrBoston hosted by patheerinfo powered by IBMWatson on 3/31. We have some great speakers and great sponsors
+IBMWatson	712660564053463042	2016-03-23T15:21:33	We're putting you to the test. Build an app using IBMWatson APIs for your chance to win:  
+IBMWatson	712659618640474112	2016-03-23T15:17:48	We loved participating in  the sxsw Music Hackathon! Get the scoop:  WatsonEcosystem 
+IBMWatson	712630625035923460	2016-03-23T13:22:35	And the award for the best marketing execution at SXSW goes to...the IBM Cognitive Studio:  
+IBMWatson	712215521987600386	2016-03-22T09:53:07	Seen the Brussels situation IBMers are advised to avoid traveling to the Brussels region. Stay safe IBMBXL
+IBMWatson	712264644614688768	2016-03-22T13:08:19	How to write JavaScript actions using Watson API services: 
+IBMWatson	711993897627463680	2016-03-21T19:12:28	IBM leaders on why AI should be embraced as a foundational technology that can change lives  
+IBMWatson	711972005910679552	2016-03-21T17:45:28	Unlock your app’s potential by combining Watson APIs from the Developer Cloud:  
+IBMWatson	711927489082167296	2016-03-21T14:48:35	"A win for computers is a win for humans." IBM SVP John Kelly speaks to TIME about Watson:  
+IBMWatson	711917359146082306	2016-03-21T14:08:19	Did you know? You can now play a fun photo guessing game with IBM Watson:  
+IBMWatson	711903447499431937	2016-03-21T13:13:03	Take your app building to the next level. Build next-gen apps for industry exposure and a chance to win cool prizes: 
+IBMWatson	711712065967300608	2016-03-21T00:32:34	ICYMI, MasterCard will launch a new platform, giving small businesses access to big data analytics using Watson. 
+IBMWatson	711644697144459265	2016-03-20T20:04:52	Did you know? Watson used to be the size of a master bedroom.  
+IBMWatson	711570952782528513	2016-03-20T15:11:50	Hack, hack, hack away! Start assembling your team and building your app for the IBMWatson Developer Challenge: 
+IBMWatson	711266648448114688	2016-03-19T19:02:38	Meet Watson, the platform for cognitive business:  CognitiveEra 
+IBMWatson	711221375290048512	2016-03-19T16:02:44	Learn how Watson is helping to spark innovation across Asia Pacific:  
+IBMWatson	711176044393312256	2016-03-19T13:02:36	In Africa, IBM Watson's Project Lucy is growing, with the help of IBM’s Research team.  
+IBMWatson	710945361435570176	2016-03-18T21:45:57	Want to learn more about Watson? Get started with Watson Academy:  
+IBMWatson	710932912472870913	2016-03-18T20:56:29	SabineBieschke Hi Sabine. If you email, hiwatson@us.ibm.com, one of our team members can direct you to the right person (given the topic).
+IBMWatson	710928428908687360	2016-03-18T20:38:40	Did you know? Our Tone Analyzer API got a major upgrade. engadget has the scoop:  
+IBMWatson	710927055274127361	2016-03-18T20:33:13	AalokKamble IBMer_IN Unfortunately the competition is not open to India at this time. However, we hope to broaden our scope in the future.
+IBMWatson	710908801000407040	2016-03-18T19:20:40	How can federal procurement be simplified? IBMWatson is helping the usairforce:  
+IBMWatson	710877876329918464	2016-03-18T17:17:47	Hack with fellow developers &amp; coders during IBMWatson's first online developer challenge.  
+IBMWatson	710844912007118849	2016-03-18T15:06:48	Thanks for helping us make IBM's Cognitive Studio at SXSW an experience unlike any other.  
+IBMWatson	710817840220078080	2016-03-18T13:19:14	Vision is one of the most powerful senses. "See" what it takes for Watson Visual Recognition  
+IBMWatson	710581336344408065	2016-03-17T21:39:27	Experts predict a 4300% increase in annual data by 2020. How organizations can keep up:  
+IBMWatson	710560356301582336	2016-03-17T20:16:05	MasterCard gives SmallBiz BigData access using IBMWatson’s artificial integlligence via ZDNet 
+IBMWatson	710548633830068224	2016-03-17T19:29:30	New on the Watson blog: Unlock your app’s potential by combining APIs  IBMWatson 
+IBMWatson	710518189302489088	2016-03-17T17:28:31	The Chef Watson with bonappetit app is ready to help you spice up your culinary endeavors.  
+IBMWatson	710480052908118016	2016-03-17T14:56:59	Meet some of our WatsonEcosystem partners and learn how they use Watson:  
+IBMWatson	710421311751761920	2016-03-17T11:03:34	Master Card and IBMWatson partner to bring big data analytics to SMBs WatsonAnalytics  
+IBMWatson	710461700026273793	2016-03-17T13:44:03	Don't miss the final BuildingWithWatson session on conversational apps:  
+IBMWatson	710275449155411968	2016-03-17T01:23:58	Watson Engagement Advisor is cognitive agent that interacts w/ customers via a smartphone, a browser – even a robot. 
+IBMWatson	710204705176231937	2016-03-16T20:42:51	Can you create a conversational app using IBM Watson APIs? Show us what you've got during this online hackathon: 
+IBMWatson	710185628948946945	2016-03-16T19:27:03	Start your Watson journey and begin experimenting with our cognitive APIs on IBMBluemix:  
+IBMWatson	710149050260189184	2016-03-16T17:01:42	See how ChefWatson is inspiring kids to create new recipes using local produce:  
+IBMWatson	710111301041790976	2016-03-16T14:31:42	Businesses are applying IBMWatson 's cognitive capabilities to solve interesting problems:  
+IBMWatson	710094049173045248	2016-03-16T13:23:08	Great read from TechRepublic: the 7 biggest myths about AI  
+IBMWatson	709839232567644160	2016-03-15T20:30:35	Need some bracket help this March? See how cognitive can help:  
+IBMWatson	709822776941617158	2016-03-15T19:25:12	How can WatsonIoT help you?  
+IBMWatson	709802474761093120	2016-03-15T18:04:32	marmarbinks_ A badge is preferred but not necessary. We hope you enjoy the Cognitive Studio!
+IBMWatson	709795331605553152	2016-03-15T17:36:09	Are you part of the IBM ChefWatson community? See what our fans on social are saying:  
+IBMWatson	709760830963716096	2016-03-15T15:19:03	Watson has transformed from quiz show winner into the world’s leading cognitive platform:  
+IBMWatson	709723160745275392	2016-03-15T12:49:22	Today’s our last day of SXSW. Check out the IBM Cognitive Studio before it’s too late:  
+IBMWatson	709692166919081984	2016-03-15T10:46:12	Congrats DeepMindAI, Sedol! Inspiring matches! Now begins the work to move beyond board games. When machines win, humans win! AlphaGo
+IBMWatson	709491794187198464	2016-03-14T21:30:00	HaleyRSchmidt We would love to have you stop by next year!
+IBMWatson	709488131267899392	2016-03-14T21:15:26	Not at SXSW? Experience your own cognitive drink concoctions through IBM Watson Twist app:  
+IBMWatson	709463567372673025	2016-03-14T19:37:50	.UnderArmour CEO, Kevin Plank discusses the power of data and how it may be used to improve health IBMWatson SXSW 
+IBMWatson	709458458697793537	2016-03-14T19:17:32	Join us at the IBM Cognitive Studio for food, VR, IBMWatson &amp; more. Here’s a sneak peek:  
+IBMWatson	709450512429486081	2016-03-14T18:45:57	Got a personalized cocktail from IBMWatson at sxsw, cool exhibit w/ machine learning tech 
+IBMWatson	709402480241545216	2016-03-14T15:35:06	How is Watson helping elite athletes go for Olympic gold? Forbes has the latest:  
+IBMWatson	709276611389034497	2016-03-14T07:14:56	Something is brewing in Raydar! Our prototype came in 1st for IBM New Venture Challenge!  
+IBMWatson	709376659724443648	2016-03-14T13:52:29	Our recent app pitch competition in Singapore showcased promising startups in Asia:  
+IBMWatson	709042551131607040	2016-03-13T15:44:52	Visit the IBM Cognitive Studio for a personalized drink experience powered by Watson. SXSW:  
+IBMWatson	709027380908654592	2016-03-13T14:44:35	We built an immersive SXSW experience from the ground up. Check out IBM Cognitive Studio:  
+IBMWatson	708736911720878080	2016-03-12T19:30:22	See how IBMWatson helps me get race-ready and experience VR cycling at SXSW! 
+IBMWatson	708734618082488320	2016-03-12T19:21:15	Trochman We're glad you enjoyed the cognitive studio!
+IBMWatson	708729645353422849	2016-03-12T19:01:29	Trying a customized cocktail at IBM Cognitive Cocktail Bar - yum! Thanks, IBM &amp; IBMWatson! sxsw 
+IBMWatson	708663577327083520	2016-03-12T14:38:57	Experience virtual reality cycling with ultra-cyclist Dave Haase. Only at SXSW:  
+IBMWatson	708417251582541825	2016-03-11T22:20:09	In Austin for SXSW? Check out our Watson session, along with 9 other can't-miss sessions:  
+IBMWatson	708396424053051393	2016-03-11T20:57:23	My Cocktail with a cognitive twist by IBMWatson - ChefWatson just the way I like it! SWSW IBM 
+IBMWatson	708378447287083008	2016-03-11T19:45:57	FF Connie, our robotic concierge, draws on domain knowledge from IBMWatson &amp; WayBlazer  
+IBMWatson	708376574366605312	2016-03-11T19:38:30	Welcome to the world of cognitive computing, a transformative force in the future of everything:  via TheAtlantic
+IBMWatson	708375135196033024	2016-03-11T19:32:47	KulczarTech We hope you enjoyed your experience!
+IBMWatson	708369091686313985	2016-03-11T19:08:46	Meet Watson and immerse yourself in the unexpected at our Cognitive Studio at SXSW:  
+IBMWatson	708343499020587008	2016-03-11T17:27:05	Experience the Cognitive Cook-off, today at noon CST! Only at SXSW:  
+IBMWatson	708323585627021313	2016-03-11T16:07:57	The wait is over. Join us at IBM Cognitive Studio for apps, robots, food IBMWatson &amp; more:  
+IBMWatson	708299232998858753	2016-03-11T14:31:11	Who's on your dev all star team? Sign up for WatsonHack and get a head start:  
+IBMWatson	708271638152785920	2016-03-11T12:41:32	Taking the game of fantasy football to the next level with edgeupsports. Read their story:  
+IBMWatson	708271184891088896	2016-03-11T12:39:44	SXSW IBM Watson Displays New Digital Prowess  ibm IBM IBMWatson
+IBMWatson	708043684218974209	2016-03-10T21:35:43	Did you know? 90% of today’s data was created in the last 2 years alone.  
+IBMWatson	708000002933596161	2016-03-10T18:42:09	Whip up some delicious never-before-seen ingredient combos with the help of ChefWatson:  
+IBMWatson	707976173532262400	2016-03-10T17:07:27	Announcing Cognitive Cocktails at SXSW - a personalized drink experience powered by Watson:  
+IBMWatson	707949718794469376	2016-03-10T15:22:20	80,000 developers &amp; more than 500 partners are building products &amp; apps powered by Watson.  
+IBMWatson	707919214225428485	2016-03-10T13:21:07	RT if you're joining us at WatsonHacks this year. Register TODAY:  
+IBMWatson	707892413889650688	2016-03-10T11:34:38	IBM Watson CTO Rob High to Speak at GTC IBMWatson 
+IBMWatson	707696890649796608	2016-03-09T22:37:41	Kick off 2016 with a cognitive build! Join top devs at WatsonHacks 5/21-22:  
+IBMWatson	707655664433147904	2016-03-09T19:53:52	Our drinks at SXSW are served with a twist. Find out more:  
+IBMWatson	707632255233957888	2016-03-09T18:20:51	See "Connie" in action, the world’s first Watson-enabled hotel concierge  
+IBMWatson	707577298015227904	2016-03-09T14:42:28	From theverge: Hilton and IBM built a Watson-powered concierge robot  ibmwatson
+IBMWatson	707563957523865600	2016-03-09T13:49:28	Hilton and IBM Pilot “Connie,” The World’s First Watson-Enabled Hotel Concierge  ibmwatson 
+IBMWatson	707325570581815296	2016-03-08T22:02:12	Since Watson won Jeopardy!, IBM researchers and engineers expanded its capabilities to take on complex problems: 
+IBMWatson	707302422192852992	2016-03-08T20:30:13	See how edgeupsports used Watson Developer Cloud to revolutionize fantasy football:  
+IBMWatson	707286308327043072	2016-03-08T19:26:11	Introducing virtual reality cycling with ultra-cyclist Dave Haase. Only at SXSW:  
+IBMWatson	707265107512823808	2016-03-08T18:01:56	Who's trending &amp; creating buzz on InternationalWomensDay? What Watson News Explorer says:  
+IBMWatson	707257651478921216	2016-03-08T17:32:18	All set up SXSWedu with Circadence IBMWatson IBM &amp; UTCompSci - having fun at SXSW playground 
+IBMWatson	707249604706762752	2016-03-08T17:00:20	Breaking now: World of Watson Hackathon is open for business. Read on:  
+IBMWatson	707234870276173824	2016-03-08T16:01:47	What is Watson's next challenge, according to ZDNet? Filing your taxes. Get the scoop:  
+IBMWatson	707224386479136769	2016-03-08T15:20:07	.KPMG_US announces agreement with IBMWatson to help deliver cognitive-powered insights:  
+IBMWatson	707189305706414080	2016-03-08T13:00:44	.KPMG_US announces agreement w/ IBMWatson – The CognitiveEra Has Arrived 
+IBMWatson	706993596277219328	2016-03-08T00:03:03	Catch last year's WatsonHacks winners? Discover the top Watson use cases. Read on:  
+IBMWatson	706958786058006528	2016-03-07T21:44:43	Take your first step into the cognitive era with our variety of smart services.  
+IBMWatson	706917934203936768	2016-03-07T19:02:24	3,2,1...kickoff your 2016 hackathon season with Watson. Sign up for WatsonHacks 5/21-22:  
+IBMWatson	706902894453219328	2016-03-07T18:02:38	A new app taps WatsonHealth to study sleep health. Details:  
+IBMWatson	706887430742347777	2016-03-07T17:01:11	Ozradonc IBM Here's a form with contact information that would be your best bet: 
+IBMWatson	706882528024596480	2016-03-07T16:41:42	fernandopcg IBM Hello. We tried on different browsers &amp; mobile, and it worked. Can you try again? Let us know if you still have trouble.
+IBMWatson	706879891858264064	2016-03-07T16:31:14	Do you play Fantasy football? See how AI is being used to make it more competitive.  
+IBMWatson	706855746919477249	2016-03-07T14:55:17	Extending game-based AI research into the "messy" nature of real-world tasks.  murraycampbell AlphaGo
+IBMWatson	706861173887672325	2016-03-07T15:16:51	On March 11th, see how data can push the limits of what’s possible. SXSW:  
+IBMWatson	706600817747324928	2016-03-06T22:02:17	Looking for a new recipe idea? ChefWatson has a twist on a classic favorite.  
+IBMWatson	706525347286687749	2016-03-06T17:02:24	The Watson Developer Challenge: What will you build?  
+IBMWatson	706162968463937536	2016-03-05T17:02:26	Browse our cognitive APIs/powered by Watson apps &amp; begin experimenting on Bluemix:  
+IBMWatson	706132784578826240	2016-03-05T15:02:29	SleepHealth, a new app powered by IBMWatson, helps us understand how we sleep.  via TIME 
+IBMWatson	705876118977384452	2016-03-04T22:02:35	In case you missed it, the WatsonHealth Cloud is officially open for business.  
+IBMWatson	705845341875269636	2016-03-04T20:00:18	The entertainment industry has changed significantly due to the rise of digital. Here's how:  
+IBMWatson	705813706228240384	2016-03-04T17:54:35	Rhiannon_SJones Thank you for sharing. We hope you are able to attend at this year's event at SXSW. We'll post more details soon.
+IBMWatson	705812050644172800	2016-03-04T17:48:00	developerWorks Thank you for the FF!
+IBMWatson	705811516373790721	2016-03-04T17:45:53	Kristen_Lee_34 ssutner We're glad to hear. Thank you for sharing your experience!
+IBMWatson	705811294893547520	2016-03-04T17:45:00	Did you know? Watson can now understand emotions.  
+IBMWatson	705770410315538432	2016-03-04T15:02:33	Deploy your app from a local instance with these easy steps from IBMWatson experts. Register for the 3/9 webinar: 
+IBMWatson	705747186374438917	2016-03-04T13:30:16	Experience the Cognitive Cook-off. Only at SXSW:  
+IBMWatson	705735038588080128	2016-03-04T12:41:59	Register for the IBMWatson New Venture Challenge and meet panelist Jayson Goh:  
+IBMWatson	705470092310650881	2016-03-03T19:09:11	Hack w/ developers &amp; coders from around the world during IBMWatson's first online challenge. Learn more: 
+IBMWatson	705475524739600385	2016-03-03T19:30:46	ChrisOrth6 Thank you for sharing!
+IBMWatson	705475423187169281	2016-03-03T19:30:22	acharding_ Thank you for sharing!
+IBMWatson	705466750721265664	2016-03-03T18:55:54	Earth welcomes home astronaut Scott Kelly after his YearInSpace. Via Watson News Explorer:  
+IBMWatson	705425471459225601	2016-03-03T16:11:53	Attending HIMSS16? Check out a demo of CafeWell Concierge at the IBM booth #5932! IBMHealthcare IBMWatson 
+IBMWatson	705398077964685312	2016-03-03T14:23:02	Can you create a conversational app using IBM Watson APIs? Show us what you've got during this online hackathon: 
+IBMWatson	705150747328036865	2016-03-02T22:00:13	Check back Friday to see what we’re cookin’ up at SXSW:  
+IBMWatson	705112567795097601	2016-03-02T19:28:31	Want to build with Watson? Check out companies already building with cognitive technology:  
+IBMWatson	705075105034928132	2016-03-02T16:59:39	CognitiveComputing transforms image classification. How Watson Visual Recognition works:  
+IBMWatson	705060130627461120	2016-03-02T16:00:09	Reasons you’ll be at the IBM Cognitive Studio at SXSW:   1. vr  2. robots  3. food 
+IBMWatson	705035599477133313	2016-03-02T14:22:40	How will cognitive change business as we know it? The latest THINK blog explores:  
+IBMWatson	704769363736449025	2016-03-01T20:44:44	SuperTuesday news is trending right now. Dive in with Watson News Explorer:  
+IBMWatson	704747026303549440	2016-03-01T19:15:59	Have you heard the news? Check out one of the newest services to hit the IBMWatson catalog:  
+IBMWatson	704732444839309312	2016-03-01T18:18:02	From IBMInterConnect, here are the top 5 ways cognitive will help reinvent your business:  
+IBMWatson	704706918032478208	2016-03-01T16:36:36	From a wine advisor to a virtual assistant, how Watson is powering companies today:  
+IBMWatson	704673819341037569	2016-03-01T14:25:05	Need help deploying your app to Bluemix? Don't miss time saver tricks from Watson experts:  
+IBMWatson	704440171253600256	2016-02-29T22:56:39	A Chinese-style dish with Parmesan &amp; chocolate? WIRED put ChefWatson to the test. Recipe:  
+IBMWatson	704384636776898560	2016-02-29T19:15:58	Did you catch Sir Ridley Scott chatting w/ IBMWatson during the Oscars last night? Check it out:  CognitiveEra
+IBMWatson	704369579024252928	2016-02-29T18:16:08	Want more robot therapy with carrieffisher? Check out the extended version of our ad:  CognitiveEra Oscars
+IBMWatson	704400364347338752	2016-02-29T20:18:28	Hack with fellow developers &amp; coders during IBMWatson's first online developer challenge.  
+IBMWatson	704373063538884609	2016-02-29T18:29:59	A new dating app uses Watson APIs to help improve your dating experience.  via techinsider 
+IBMWatson	704345077133537281	2016-02-29T16:38:47	We're teaming up with iipl's accelerator in Singapore to offer startups the chance to work with Watson: 
+IBMWatson	704319820989407232	2016-02-29T14:58:25	Listen to this podcast via AlchemyAPI for a glimpse into the work behind growing a startup:  
+IBMWatson	704170442400133120	2016-02-29T05:04:50	Farewell LordOverbot MrSinisterBot tr3ndybot Gadgetb0t Oscars RobotsReact 
+IBMWatson	704168054457032705	2016-02-29T04:55:21	Lots of Oscars news right now, get a view of it with Watson News Explorer:  RobotsReact
+IBMWatson	704160506983096323	2016-02-29T04:25:22	Watson can understand natural language, even song lyrics  Oscars RobotsReact
+IBMWatson	704156581965996033	2016-02-29T04:09:46	NealStas want to get started with Chef Watson? It's free. 
+IBMWatson	704154631639801856	2016-02-29T04:02:01	Watson is designed to help humanity. See how its APIs are driving innovation across the world:  Oscars RobotsReact
+IBMWatson	704153831622447104	2016-02-29T03:58:50	Thanks SharonFalkowski Take a peek at the extended version: 
+IBMWatson	704153747367337985	2016-02-29T03:58:30	MahersClass thanks, you should check out the extended version 
+IBMWatson	704147776129650689	2016-02-29T03:34:46	ashrprasad glad you liked it! check out the extended version 
+IBMWatson	704147056596807680	2016-02-29T03:31:55	jansebasti glad you enjoyed, you should check out the extended version 
+IBMWatson	704145595993362432	2016-02-29T03:26:07	JwilMedia appreciate it! you should check out the extended version  here 
+IBMWatson	704145438287536140	2016-02-29T03:25:29	mrledford1498 thank you! you should check out the extended version of the commercial 
+IBMWatson	704145030622126080	2016-02-29T03:23:52	andytoronto thanks! you should check out the extended version 
+IBMWatson	704144857137283072	2016-02-29T03:23:10	BigBadEd Watson doesn't have thumbs, but we're glad you enjoyed the commercial. Check out the full version here: 
+IBMWatson	704144421835710464	2016-02-29T03:21:27	erumazeez glad you enjoyed, you should check out the extended version 
+IBMWatson	704144170315866112	2016-02-29T03:20:27	BibaGirrrl thanks, you should check out the extended version 
+IBMWatson	704143913767059456	2016-02-29T03:19:26	iamglor thanks, you should check out the extended version 
+IBMWatson	704139797770735616	2016-02-29T03:03:04	Think Watson's science fiction? Think again. Watson works with people to help humanity.  Oscars RobotsReact
+IBMWatson	704138869516562432	2016-02-29T02:59:23	Watson's an innovator too. In retail, in manufacturing, healthcare and more:  Oscars RobotsReact
+IBMWatson	704132768360472576	2016-02-29T02:35:08	Bring cognitive cooking to your next movie night with Chef Watson. Get cookin':  Oscars RobotsReact
+IBMWatson	704126020530515969	2016-02-29T02:08:19	Watson isn’t science fiction, its science fact. Learn why here:  Oscars RobotsReact
+IBMWatson	704122614353100800	2016-02-29T01:54:47	Want to analyze the tone of the winning screenplay? Check out Tone Analyzer:  Oscars RobotsReact
+IBMWatson	704118226892955649	2016-02-29T01:37:21	Want to learn more about the host? Watson tone analysis says he's extraverted &amp; conscientious:  Oscars RobotsReact
+IBMWatson	704103441698787328	2016-02-29T00:38:36	Follow RobotsReact tonight for more Oscars commentary.  
+IBMWatson	703668763443503104	2016-02-27T19:51:21	ICYMI, carrieffisher lends support to a group of bots struggling with the CognitiveEra:  
+IBMWatson	703348439850098690	2016-02-26T22:38:30	Sir Ridley Scott &amp; Watson discuss filmmaking &amp; the nature of AI in movies &amp; the real world:  
+IBMWatson	703297091821416452	2016-02-26T19:14:27	New Oscars TV ads star Sir Ridley Scott, carrieffisher and IBMWatson  CognitiveEra Adage 
+IBMWatson	703277244064653312	2016-02-26T17:55:35	IBM Watson is joining with Carrie Fisher to fight robot stereotypes for the Oscars. 
+IBMWatson	703278943449845760	2016-02-26T18:02:21	Spoiler alert: our latest TV spots feature Carrie Fisher &amp; Ridley Scott. From adage:  
+IBMWatson	703272121678561280	2016-02-26T17:35:14	Think Watson is science fiction? Think again.  
+IBMWatson	703223671415042048	2016-02-26T14:22:43	How has the expansion of AI brought business value? Hear an exec's perspective:  
+IBMWatson	703038354884071424	2016-02-26T02:06:20	Want to build with Watson? Get started with our library of APIs:  
+IBMWatson	702958551598170112	2016-02-25T20:49:13	New on the Watson blog: Startup junkie advice for both entrepreneurs and enterprises  
+IBMWatson	702923172472078336	2016-02-25T18:28:38	At WhiteHouseOSTP, Watson &amp; NYGenome unveil new cancer data repository to help advance PrecisionMedicine: 
+IBMWatson	702880970257670144	2016-02-25T15:40:56	The role of analytics in healthcare: bringing the WatsonHealth flavor  HIMSS16 
+IBMWatson	702873700371210240	2016-02-25T15:12:03	To solve health problems Watson ingests, understands 100M patient records, 30B medical images, 1.2M medical abstracts IBM IBMWatson
+IBMWatson	702866995557957632	2016-02-25T14:45:25	Get insights into the future of Watson and cognitive computing. Video:  IBMWatson 
+IBMWatson	702859847184809984	2016-02-25T14:17:00	Ginni Rometty: digital business + digital intelligence = cognitive business IBM IBMWatson cognitive
+IBMWatson	702609974099374080	2016-02-24T21:44:06	From the IBMWatson blog: A cognitive approach to decoding the recent debates  
+IBMWatson	702583575300935680	2016-02-24T19:59:12	IBM Watson machine learns the art of writing a good headline - TechRepublic IBMWatson 
+IBMWatson	702580722951966720	2016-02-24T19:47:52	Build the next big cognitive app with us. Learn how to get started with WatsonEcosystem:  
+IBMWatson	702563515471507456	2016-02-24T18:39:29	ICYMI, IBMWatson got a big emotion-detecting upgrade. Engadget has the scoop:  
+IBMWatson	702536994849583104	2016-02-24T16:54:06	Champagne + milk? You'll have to check out the ChefWatson Facebook page for recipe details:  
+IBMWatson	702496119927005185	2016-02-24T14:11:41	Never worry about pressing "send" on an email again by using Watson service, ToneAnalyzer.  
+IBMWatson	702261600066134017	2016-02-23T22:39:47	Machine learning meets self-service with Watson Engagement Advisor:  
+IBMWatson	702235219244490752	2016-02-23T20:54:57	Watson’s capabilities are available as APIs to help businesses tackle challenges:  
+IBMWatson	702215983784710144	2016-02-23T19:38:31	"IBMWatson is open to everyone, and 'personality insights' provide in-depth understandings of people just from text" - j_lancaster SMWNYC
+IBMWatson	702177675893342208	2016-02-23T17:06:18	A cognitive dating platform powered by Watson? Read more from MailOnline to get the scoop:  
+IBMWatson	702167623463784449	2016-02-23T16:26:21	Discover how to tone check your communication using a new Watson service, ToneAnalyzer:  
+IBMWatson	702133978900393984	2016-02-23T14:12:40	IBM &amp; SoftBank launch first Japanese language APIs for Watson:  via TechCrunch 
+IBMWatson	701886934352838656	2016-02-22T21:51:00	IBM's Watson can sense sadness in your writing  
+IBMWatson	701892592385003520	2016-02-22T22:13:29	How Watson just got a big emotion-detecting upgrade. engadget has the scoop:  
+IBMWatson	701875591172251648	2016-02-22T21:05:55	Eight ways WatsonAnalytics is transforming business:  
+IBMWatson	701851331028504576	2016-02-22T19:29:31	Learn how Watson is helping accelerate discovery &amp; bringing new technologies &amp; innovations.  
+IBMWatson	701811357713174529	2016-02-22T16:50:41	IBM, VMware announce strategic partnership to accelerate enterprise hybrid cloud adoption  
+IBMWatson	701774195991126016	2016-02-22T14:23:01	From leisure to social work, learn how Watson is in more areas of our lives than we think.  
+IBMWatson	701578252939202560	2016-02-22T01:24:24	European businesses are innovating with IBMWatson IoT cognitive capabilities IBMIoT  
+IBMWatson	701569507878432768	2016-02-22T00:49:39	Learn how to enable cognition in your apps with IBMWatson Developer Cloud. Watch the demo:  
+IBMWatson	701448880735592449	2016-02-21T16:50:20	Tune in 2/25 as Watson experts discuss how to digitally disrupt an industry using your data.  
+IBMWatson	701383401740177408	2016-02-21T12:30:08	Your Fears About The Coming Robot Revolution Might Be Overblown IBMWatson 
+IBMWatson	701223878421561344	2016-02-21T01:56:15	Looking for new cooking inspiration? ChefWatson has your back.  
+IBMWatson	701075987182833665	2016-02-20T16:08:35	What does AI have in store for us in the future? Read IBMWatson's Mike Rhodin predicts:  
+IBMWatson	700810318054760448	2016-02-19T22:32:54	How Watson is helping to build businesses:  
+IBMWatson	700754630125318144	2016-02-19T18:51:37	On 2/25, hear Watson experts discuss how to digitally disrupt industries using your data:  
+IBMWatson	700724696594010113	2016-02-19T16:52:41	Take a closer look at how Medtronic + Watson teamed up for a diabetes management app:  
+IBMWatson	700686517132349442	2016-02-19T14:20:58	Learn more on how Watson analyzes unstructured data:  IBMWatson 
+IBMWatson	700375862353330176	2016-02-18T17:46:32	IBM to acquire TruvenHealth, adding to growing trove of patient data at WatsonHealth  
+IBMWatson	700401539584651264	2016-02-18T19:28:34	Q&amp;A post with IBM Sr. Designer, Maya Weinstein on how design thinking is vital to business:  
+IBMWatson	700360565345165312	2016-02-18T16:45:45	IBM To Hold $5 Million Watson Artificial Intelligence Contest 
+IBMWatson	700337770246467584	2016-02-18T15:15:10	WatsonHealth announces plans to acquire TruvenHealth, a leading provider of cloud-based, health-related data: 
+IBMWatson	700299293190545408	2016-02-18T12:42:17	IBM &amp; SoftBank bring cognitive computing to Japanese entrepreneurs with 6 new Watson APIs:  
+IBMWatson	700145351345438726	2016-02-18T02:30:34	How does design thinking improve businesses &amp; products? The IBMWatson blog has the latest:  
+IBMWatson	700073987536191488	2016-02-17T21:47:00	Watson + xprize setting developers loose with AI &amp; no boundaries. Let's change the world:  
+IBMWatson	700038928821317632	2016-02-17T19:27:41	IBM &amp; Cognitiva are partnering to bring Watson to Latin America. Bienvenido, Watson!  
+IBMWatson	700007214254133249	2016-02-17T17:21:40	Here's your $5M shot IBMWatson XPRIZE AI CognitiveComputing​ TED2016 -  davidwkenny 
+IBMWatson	700006547682791424	2016-02-17T17:19:01	The $5M IBMWatson AI xprize: A Cognitive Computing Competition, presented by TEDTalks  
+IBMWatson	700005588072337410	2016-02-17T17:15:12	What happens when you mix developers, society's grand challenges, a $5M XPRIZE competition &amp; IBM Watson?  TED2016
+IBMWatson	699989068436938752	2016-02-17T16:09:33	Good read from the Watson blog: How coders have transformed the way we invent  
+IBMWatson	699969392881332224	2016-02-17T14:51:22	Take apps to the next level by pairing one API with another. Walk through examples on 2/24:  
+IBMWatson	699818435291668480	2016-02-17T04:51:31	Businesses are applying IBMWatson's cognitive capabilities to solve interesting problems  
+IBMWatson	699717081546280961	2016-02-16T22:08:47	To be a cognitivecomputing revolutionary, you need to understand your data. Learn how here.  
+IBMWatson	699681073828069376	2016-02-16T19:45:42	5 ways to turn data into insights and revenue in 2016:  
+IBMWatson	699659482893258761	2016-02-16T18:19:54	How Watson is helping companies transform the retail industry:  
+IBMWatson	699629619901808641	2016-02-16T16:21:14	5 ways cognitive will separate your business from the rest:  WatsonInIndia 
+IBMWatson	699343536085282816	2016-02-15T21:24:26	ICYMI, IBMWatson is helping sports teams make talent decisions  IBMSports 
+IBMWatson	699582500499120129	2016-02-16T13:14:00	IoT is at InterConnect 2016! More than 200 sessions &amp; 80 client speakers:  WatsonIoT 
+IBMWatson	699315784405884930	2016-02-15T19:34:10	Have an idea for a product or app powered by Watson? Join the WatsonEcosystem:  
+IBMWatson	699286617991696384	2016-02-15T17:38:16	How can Watson work with you? Learn how cognitive computing is improving our everyday lives.  
+IBMWatson	699263687660584960	2016-02-15T16:07:09	Check out 9 innovative businesses using IBM Watson:  
+IBMWatson	699248439918469120	2016-02-15T15:06:34	What’s behind Watson solutions? Powered by Watson – revealed:  
+IBMWatson	698997783827714049	2016-02-14T22:30:33	Cognitive IoT will transform businesses and industries. Find out how:  WatsonIoT 
+IBMWatson	698591459277148160	2016-02-13T19:35:57	Browse our library of cognitive APIs and start building your apps with Watson:  
+IBMWatson	698516785688113152	2016-02-13T14:39:14	New events, stories &amp; buzz announced! Read IBM WatsonEcosystem's latest newsletter:  
+IBMWatson	698273480618463232	2016-02-12T22:32:25	How cognitive technologies are critical to improving healthcare:  
+IBMWatson	698258875200344064	2016-02-12T21:34:23	Nine innovative ways businesses are using IBMWatson  via computerworlduk 
+IBMWatson	698199212866039810	2016-02-12T17:37:18	Meet the wifi-enabled, cloud-connected future of toys—powered by IBMWatson.  
+IBMWatson	698184353768038401	2016-02-12T16:38:16	Join the ChefWatson community to get started on your culinary, cognitive adventure:  
+IBMWatson	698153101312856064	2016-02-12T14:34:05	Are you using hybridcloud to enable digital services? Learn how you can get started:  
+IBMWatson	697603998614994945	2016-02-11T02:12:08	bloom_life doing amazing things with IBMWatson won ExTechChallenge davidwkenny richardbranson 
+IBMWatson	697522980293718018	2016-02-10T20:50:12	Yactraq announces IBM Watson Ecosystem Partnership for new OmniTraq audio mining business intelligence. More info:  
+IBMWatson	697904981194702848	2016-02-11T22:08:08	New events and stories announced! Read IBM WatsonEcosystem's latest newsletter:  
+IBMWatson	697861553983459328	2016-02-11T19:15:34	Big news for ChefWatson fans, we've expanded the list for dietary preferences!  
+IBMWatson	697843687599038464	2016-02-11T18:04:35	Discover how powerful your app could be with more than one API used to strengthen it:  
+IBMWatson	697814578902732800	2016-02-11T16:08:55	From gaining insights from text to analyzing images, use Watson APIs to build cognitive apps  
+IBMWatson	697801065903886337	2016-02-11T15:15:13	How will Cognitive change healthcare and business as we know it? Find out from top executives at THINKForum Japan 
+IBMWatson	697782400022147072	2016-02-11T14:01:02	Are you using hybridcloud to enable digital services? Learn how in this IBMCAI study:  
+IBMWatson	697589386570022913	2016-02-11T01:14:04	Excited to announce the 25 finalists for the Watson New Venture Challenge! Watch them pitch:  
+IBMWatson	697512203302227968	2016-02-10T20:07:23	Forbes // TriaxTec created a headband sensor that can evaluate concussions upon impact, powered by IBMWatson - 
+IBMWatson	697482109338980353	2016-02-10T18:07:48	Why business leaders are choosing a cognitive business approach:  
+IBMWatson	697465689171488768	2016-02-10T17:02:33	Did you know? Watson is helping sports teams make talent decisions. Get the scoop:  
+IBMWatson	697441697165406208	2016-02-10T15:27:13	We're in love with this Chef Watson Chocolate-Passion Fruit Tart recipe for ValentinesDay.  
+IBMWatson	697419157328044033	2016-02-10T13:57:39	With cognitive, the door to new horizon has been opened in healthcare.  CognitiveEra 
+IBMWatson	697177622451765248	2016-02-09T21:57:52	Check out this cognitive approach to decoding the debates using the AlchemyAPI News API:  
+IBMWatson	697134326283169794	2016-02-09T19:05:50	WatsonEcosystem’s GoMoment is heightening hotel experiences with a cognitive text solution  
+IBMWatson	697118722616619008	2016-02-09T18:03:49	ChefWatson you've done it again. So trying this apple pancake recipe for PancakeDay  
+IBMWatson	697099117751726081	2016-02-09T16:45:55	Nine innovative ways businesses are using IBMWatson  via computerworlduk 
+IBMWatson	697062109293780994	2016-02-09T14:18:52	Jump-start your cognitive app + get the most from your experience w/ Watson Developer Cloud:  
+IBMWatson	697007067106775040	2016-02-09T10:40:09	Check out our YouTube playlists to see how Watson is transforming industries.  
+IBMWatson	696801870736683008	2016-02-08T21:04:46	Learn how Watson is absorbing social media to predict and analyze trends in pop culture:  
+IBMWatson	696777132433747968	2016-02-08T19:26:28	Want to get started with the WatsonEcosystem? This video shows you how:  
+IBMWatson	696742844652867584	2016-02-08T17:10:13	Use Watson APIs from our Developer Cloud to get started with your next big idea.  
+IBMWatson	696700692048654336	2016-02-08T14:22:43	Good read: 18 AI researchers reveal the most impressive thing they've seen with AI.  
+IBMWatson	696506484058750976	2016-02-08T01:31:00	Businesses are applying IBMWatson 's cognitive capabilities to solve interesting problems  
+IBMWatson	696351951362072577	2016-02-07T15:16:57	Here's an easy last-minute ChefWatson recipe you can whip up for today's big game:  
+IBMWatson	696098010900598784	2016-02-06T22:27:53	Enable cognitivecomputing in apps using IBM Watson's Language, Vision, Speech &amp; Data APIs.  
+IBMWatson	696057870648012801	2016-02-06T19:48:23	Vision is one of the most powerful senses. "See" what it takes for Watson Visual Recognition  
+IBMWatson	695823067986186240	2016-02-06T04:15:21	Meet the WatsonIoT developer page and start building your IoT application  
+IBMWatson	695723559772147716	2016-02-05T21:39:57	What industries will AI impact the most? Get the scoop as Inc examines these 3 fields:  
+IBMWatson	695646863740051456	2016-02-05T16:35:11	Here's how IBM's Watson is trying to change heart health:  Watson 
+IBMWatson	695679751688736772	2016-02-05T18:45:52	Test drive Watson and deploy your own IoT sample app with the Watson IoT platform:  
+IBMWatson	695639557958737920	2016-02-05T16:06:09	Take meaningful action on visual information using cognitive vision services from WDC.  
+IBMWatson	695611652553592832	2016-02-05T14:15:16	How Watson has moved beyond Jeopardy to help build businesses:  
+IBMWatson	695591710919798784	2016-02-05T12:56:02	Cognitive computing meets enterprise search with Watson Explorer. Check out the demo:  
+IBMWatson	695339749834264576	2016-02-04T20:14:49	Ready to play with Watson APIs? Browse our library of cognitive APIs and start building:  
+IBMWatson	695310221003091968	2016-02-04T18:17:29	80% of all data today is unstructured. Learn how Watson analyzes this unstructured data:  
+IBMWatson	695278534227554304	2016-02-04T16:11:34	Cool use case! Analyze the US presidential election w/ IBMWatson AlchemyAPI  via LFeicho 
+IBMWatson	695254421060640768	2016-02-04T14:35:45	How did serenawilliams better understand her service game? With IBM Watson. Watch the latest video for more: 
+IBMWatson	695067245743964160	2016-02-04T02:11:59	IBM CEO Ginni Rometty on India's crucial role in the era of cognitive business  CognitiveEra 
+IBMWatson	695003918812758017	2016-02-03T22:00:21	Have the big idea, but need the marketing plan? See how Watson helps:  
+IBMWatson	694958946013073409	2016-02-03T19:01:39	Discover what, why &amp; how behind cognitive APIs during this Watson Thought Leadership series:  
+IBMWatson	694920697093619713	2016-02-03T16:29:39	Cognitive computing could spark a renaissance in the communications industry.  IBMIBV 
+IBMWatson	694898269080674305	2016-02-03T15:00:32	WatsonEcosystem is expanding. See how Ecosystem partners are applying Watson APIs in India.  
+IBMWatson	694885927211040770	2016-02-03T14:11:30	Start building your IoT application using IBM Watson IoT Platform APIs, demos and recipes.  
+IBMWatson	694663714046414848	2016-02-02T23:28:30	India is expected to be the 2nd largest IT market by 2019. Learn more about Watson in India:  
+IBMWatson	694647199230070784	2016-02-02T22:22:52	How is AI changing people's lives? IBM Watson General Manager davidwkenny explains AI's impact: 
+IBMWatson	694630184851353600	2016-02-02T21:15:16	The Internet of Emotions: Putting the person back into personalization  via mashable 
+IBMWatson	694584236511227904	2016-02-02T18:12:41	IBM’s Watson helped pick Kia’s Super Bowl influencers   ibm kia ibmwatson superbowlads christopherwalken
+IBMWatson	694560104402849792	2016-02-02T16:36:47	Learn how Watson is bringing cognitivecomputing to the classroom.  
+IBMWatson	694518325209141248	2016-02-02T13:50:46	If you love JimmyKimmel, check out our latest blog post with WatsonEcosystem's getampsy:  
+IBMWatson	694282264520294400	2016-02-01T22:12:45	New to the blog: 3 ways to increase your speed to market. Read here  IBMWatson 
+IBMWatson	694239045929582596	2016-02-01T19:21:01	To kick off HeartMonth, Welltok has teamed up w/ American_Heart &amp; IBMWatson to transform heart health ❤️! 
+IBMWatson	694217494882455552	2016-02-01T17:55:23	IBM Watson teams with Welltok, AHA to develop workplace health program  by natalienoell
+IBMWatson	694223864025448448	2016-02-01T18:20:41	Heart disease accounts for 1 in 3 US deaths &amp; 25% of employer health spending. How Watson could help:  HeartMonth
+IBMWatson	694177978838859776	2016-02-01T15:18:22	"Tapping Cognitive to Build a Culture of Heart Health in the Workplace"  by American_Heart's Nancy Brown HeartMonth
+IBMWatson	694161865824272384	2016-02-01T14:14:20	.American_Heart infuses cognitive computing into new workplace health offering:  HeartMonth 
+IBMWatson	694144568317468674	2016-02-01T13:05:36	On 1st day of HeartMonth, American_Heart, IBM and Welltok team up to create heart healthy workplaces: 
+IBMWatson	693854178268090370	2016-01-31T17:51:41	From social work to leisure, learn how Watson is in more areas of our lives than we think.  
+IBMWatson	693508565445824513	2016-01-30T18:58:21	Cooking with ChefWatson: Caymanian Plantain Dessert  
+IBMWatson	693148934676553729	2016-01-29T19:09:18	IBM closes Weather Co. deal and adds another CEO to the Watson team FortuneMagazine  ibm ibmwatson davidwkenny
+IBMWatson	693154138683744257	2016-01-29T19:29:59	Meet our newest team member davidwkenny, general manager of Watson:  via FortuneMagazine 
+IBMWatson	693151077043179524	2016-01-29T19:17:49	New Year, New Gig. Excited to lead IBMWatson and THINK big about AI and Cognitive -  
+IBMWatson	693139734273613824	2016-01-29T18:32:45	.IBMWatson makes adage list of most digitally engaging spots on TV right now  Check it out: 
+IBMWatson	693136834893893633	2016-01-29T18:21:13	One of our FridayFavorites is this quick &amp; easy Chef Watson recipe for a dinner party:  
+IBMWatson	693092338437070849	2016-01-29T15:24:25	Watson is learning to help accelerate discovery &amp; bring new technologies &amp; innovations.  
+IBMWatson	693059276105977856	2016-01-29T13:13:02	8 ways WatsonAnalytics is transforming business:  
+IBMWatson	692840517680308224	2016-01-28T22:43:46	Watson Personality Insights offers unbiased analysis of a body of text in matter of seconds.  
+IBMWatson	692812617002278913	2016-01-28T20:52:54	It's predicted by 2018, 1/2 of all consumers will interact regularly with services based on cognitivecomputing. 
+IBMWatson	692771912230006784	2016-01-28T18:11:09	Thank you for following us on Twitter and helping us reach 100,000 followers! IBMWatson 
+IBMWatson	692741045725990913	2016-01-28T16:08:30	Learn how Watson Explorer is giving folks a personalized social newsfeed-style timeline of their finances: 
+IBMWatson	692721088636125184	2016-01-28T14:49:12	How Watson uses cognitivecomputing to help improve people's lives:  via Forbes 
+IBMWatson	692471938749431812	2016-01-27T22:19:10	"Building with Watson" is a web series for developer scoop on Watson Developer Cloud APIs:  
+IBMWatson	692430263461285890	2016-01-27T19:33:34	To evolve in a data-driven culture, businesses will need to become cognitive.  CognitiveEra 
+IBMWatson	692398028221718528	2016-01-27T17:25:28	What’s in your developer toolbox? Read how Watson APIs are fueling startups.  
+IBMWatson	692378784520101889	2016-01-27T16:09:00	New Watson cognitive services span across 4 key areas: Language, Vision, Speech and Data Insights. Check them out 
+IBMWatson	692350734831128578	2016-01-27T14:17:33	tarheel_foodie We love this. Thank you for sharing!
+IBMWatson	692350597501210625	2016-01-27T14:17:00	Check out tarheel_foodie's 3 hummus recipes inspired by IBM Watson's ChefWatson! 
+IBMWatson	692006062405201920	2016-01-26T15:27:56	AI3.0 will change how we play, operate &amp; consume sports. Our VP kshuja thoughts on how AI 3.0 will change sports 
+IBMWatson	692074908382154753	2016-01-26T20:01:30	Three fields where AI will have a significant impact:  
+IBMWatson	692020484544815104	2016-01-26T16:25:15	Thursday: Get to know your audience with IBMWatson -  marketing cognitive 
+IBMWatson	692021813761552384	2016-01-26T16:30:32	Harness your big data and simplify the complex with Watson Data Insight services:  
+IBMWatson	691996423408205824	2016-01-26T14:49:38	What we're loving for breakfast this a.m.: Breakfast Apple Muffins from ChefWatson. Recipe:  
+IBMWatson	691742357109260288	2016-01-25T22:00:04	Want to create the next big idea? Use Watson APIs on our Developer Cloud to get started.  
+IBMWatson	691715379882754049	2016-01-25T20:12:52	An afternoon refresher we love...ChefWatson's Ruby Red Soda. Get the recipe here:  
+IBMWatson	691684454369206276	2016-01-25T18:09:59	Marketers get to know your audience. Join our webinar 1/28 for tips from Watson experts:  
+IBMWatson	691627940895985665	2016-01-25T14:25:25	IBM Watson &amp; Frank Abagnale of "Catch Me If You Can"   ibmwatson ibm CognitiveEra
+IBMWatson	691633915518410753	2016-01-25T14:49:10	What is the trend for 2016? Expect to see AI embedded in more robots and devices.  
+IBMWatson	691598710610853890	2016-01-25T12:29:16	4 days left: Apply today to pitch your solution to an all-star panel in Singapore.   
+IBMWatson	691462818034425858	2016-01-25T03:29:17	Want to get started with the WatsonEcosystem? Check out this video to learn how:  
+IBMWatson	691402965077381120	2016-01-24T23:31:27	Last chance to pitch your cognitive solution to an all-star panel in Singapore. Apply today!  
+IBMWatson	691300822836199426	2016-01-24T16:45:34	Missed our past webinars? We have a YouTube playlist of our webinars you can check out:  
+IBMWatson	691017139029987328	2016-01-23T21:58:19	How can Watson’s sentimentanalysis and personalityinsights help you understand your market? Find out on 1/28: 
+IBMWatson	690962240573349888	2016-01-23T18:20:10	Healthcare technology is reinventing how we treat obesity &amp; chronic diseases.  WatsonHealth 
+IBMWatson	690915961893888001	2016-01-23T15:16:16	Watson Developer Cloud is a library of Watson APIs &amp; SDKs to create powered by Watson apps.  
+IBMWatson	690620453455544320	2016-01-22T19:42:01	Personality meets behavior: The new IBMWatson Personality Insights demo  
+IBMWatson	690600892165439491	2016-01-22T18:24:18	A new project from IBM and UMich is bringing AI to undergrads in the classroom.  
+IBMWatson	690574456528441344	2016-01-22T16:39:15	Apps powering the revolution in fitness, including an app from IBMWatson:  via CNBC 
+IBMWatson	690537255895724032	2016-01-22T14:11:26	Know your market with Watson’s Sentiment Analysis &amp; Personality Insights. Learn how 1/28:  
+IBMWatson	690307506178945025	2016-01-21T22:58:29	Are you on board with cognitivecomputing? Learn the technology with Watson Academy.  
+IBMWatson	690278378537127936	2016-01-21T21:02:44	Love good food? Have a thing for tech? Like the Chef Watson FB page for both!  
+IBMWatson	690253637562601472	2016-01-21T19:24:26	See the power of IBMWatson APIs by exploring apps in our app gallery.  
+IBMWatson	690228715930959873	2016-01-21T17:45:24	Meet the 'empathic' robot, Pepper, powered by Watson.  via Forbes IBMWatson 
+IBMWatson	690190948085698560	2016-01-21T15:15:19	How AI will help undergrads navigate college. Project Sapphire, happening Umich IBMWatson 
+IBMWatson	690202584175505408	2016-01-21T16:01:34	datascienchris IBMBluemix We look forward to seeing what's in store. Best of luck!
+IBMWatson	690202441720184832	2016-01-21T16:01:00	Love hot sauce? You're going to want to try this recipe from ChefWatson:  
+IBMWatson	690178747954233344	2016-01-21T14:26:51	Bring valuable new offerings to the marketplace by joining the WatsonEcosystem. Learn how:  
+IBMWatson	689997376052924416	2016-01-21T02:26:08	Pitch your cognitive solution to the all-star panel in the IBM Watson New Venture Challenge:  
+IBMWatson	689913939807866880	2016-01-20T20:54:35	From the sidelines to the draft - read how Watson can transform football:  via SInow 
+IBMWatson	689892471267049474	2016-01-20T19:29:17	Our January WatsonEcosystem guide launched! Get the latest partner stories, events &amp; more:  
+IBMWatson	689852574426525696	2016-01-20T16:50:45	What is the future of A.I.? Watson SVP Mike Rhodin shares his insights with Forbes:  
+IBMWatson	689536466125459456	2016-01-19T19:54:39	Getting AusOpen ready. IBMWatson, any pointers? 
+IBMWatson	689817247389466624	2016-01-20T14:30:22	Watson is improving your shopping experience. Learn how:  IBMWatson 
+IBMWatson	689605838483406849	2016-01-20T00:30:18	It’s true, serenawilliams. IBMWatson analyzed every single one of your biggest matches.  CognitiveEra
+IBMWatson	689539358014177280	2016-01-19T20:06:08	Did you know Personality Insights has a new demo? Check it out here:  
+IBMWatson	689514176880971776	2016-01-19T18:26:04	Cognitive business is here. How Watson is helping leaders outthink limits of what’s possible  
+IBMWatson	689466358740856833	2016-01-19T15:16:04	Stop by IBMRetail booth 1720 and meet the brains behind CogniToys, powered by IBMWatson NRF16 DINOmite 
+IBMWatson	689469949882949637	2016-01-19T15:30:20	Don't forget to join us for our next webinar on the WatsonEcosystem, tomorrow at 2 p.m. ET:  
+IBMWatson	689452455961047040	2016-01-19T14:20:49	Just announced! The first panelists and mentors for the IBM Watson New Venture Challenge.  
+IBMWatson	689253797386973184	2016-01-19T01:11:25	From helping vets treat pets to designing your next vacation, how Watson can work with you:  
+IBMWatson	689214490269904897	2016-01-18T22:35:14	Mike Rhodin, head of IBMWatson, on the future of AI  by WorldClassIT for ForbesTech 
+IBMWatson	689190681093472258	2016-01-18T21:00:37	80% of data is unstructured. See Watson experts uncover cognitive solutions on January 21:  
+IBMWatson	689157045669367808	2016-01-18T18:46:58	Watson is learning to help accelerate discovery and bring new technologies and innovations.  
+IBMWatson	689124866667245568	2016-01-18T16:39:06	4 ways Watson is improving the retail experience for consumers:  NRF16 
+IBMWatson	689089964462739457	2016-01-18T14:20:24	How can Watson’s sentiment analysis help you understand your market? Find out how 1/28:  
+IBMWatson	688888404373860353	2016-01-18T00:59:29	Looking for internships? Read what it's like to work on the IBMWatson team:  
+IBMWatson	688840742660378624	2016-01-17T21:50:05	Want to build an app with a conversational interface? Learn how using IBMWatson APIs.  
+IBMWatson	688783130019246080	2016-01-17T18:01:09	How healthcare organizations can capitalize on cognitive computing:  
+IBMWatson	688456826824830976	2016-01-16T20:24:33	Need some help with your WatsonEcosystem application? Get some tips from our experts:  
+IBMWatson	688455782808031232	2016-01-16T20:20:24	Serena Williams teaches IBMWatson how to take a proper selfie.  
+IBMWatson	688422057541943296	2016-01-16T18:06:23	For NRF16, we’ve invited IBMWatsonRetail partners to demo at our headquarters. Sign up:  
+IBMWatson	688114592522764288	2016-01-15T21:44:38	.Medtronic + Watson teamed up for a diabetes management app:  CognitiveEra 
+IBMWatson	688087811455496192	2016-01-15T19:58:12	Secure a spot for IBMWatson's new web series &amp; learn the business value of cognitive APIs:  
+IBMWatson	688060284624334848	2016-01-15T18:08:50	The biggest wearables trend at CES2016 was fitness. What UnderArmour &amp; IBM have in store:  
+IBMWatson	688022428379910144	2016-01-15T15:38:24	Watson is absorbing social media to predict and analyze trends in pop culture. Learn how:  
+IBMWatson	688005813391196160	2016-01-15T14:32:23	What's on your YouTube playlist? See how IBMWatson is helping to transform industries:  
+IBMWatson	687779838950797314	2016-01-14T23:34:26	IBMWatson builtbygirls First ever Hashtag series! Thank you for this opportunity! So many eye-openers tonight! 
+IBMWatson	687760214150496256	2016-01-14T22:16:27	Excited to be at IBMWatson with BUILTBYGIRLS 💻❤️ 
+IBMWatson	687756125031272449	2016-01-14T22:00:12	Building with Watson APIs has never been easier. View the lineup of technical webinars:  
+IBMWatson	687740330779774976	2016-01-14T20:57:27	What is the next grand challenge? Computers that converse like people. Via the THINK blog:  
+IBMWatson	687714165662834693	2016-01-14T19:13:28	Project Sapphire from IBM + UMich will help to bring AI to undergrads.  via engadget 
+IBMWatson	687708094709764099	2016-01-14T18:49:21	How neutral is neutral? Let WatsonAnalytics for Social Media be your guide.  
+IBMWatson	687641688144220160	2016-01-14T14:25:28	Interested in becoming a WatsonEcosystem partner? Learn how to fast-track your application:  
+IBMWatson	687629814161870848	2016-01-14T13:38:17	Ready to do some cognitive cooking? Discover and create unique dishes with ChefWatson:  
+IBMWatson	687407830702395394	2016-01-13T22:56:12	Discover, analyze and witness the power of IBMWatson. We'll show you how on 1/21:  
+IBMWatson	687376892714979328	2016-01-13T20:53:16	Missed some of our past webinars? You're in luck. We have a YouTube playlist you can check out here: 
+IBMWatson	687354749813940225	2016-01-13T19:25:17	You'll actually want to eat brussels sprouts with this new recipe from ChefWatson:  
+IBMWatson	687308230280740865	2016-01-13T16:20:26	Want to apply to WatsonEcosystem, but don’t know how to start? Get tips from our experts:  
+IBMWatson	687290219104743425	2016-01-13T15:08:52	Did you know? You can step behind this NYHistory podium for a picture with Watson.  
+IBMWatson	687273895272017920	2016-01-13T14:04:00	Interested in getting started w/ AlchemyAPI on Bluemix? Get tips &amp; tricks from Watson experts today at 9:30 PST: 
+IBMWatson	687056524817084416	2016-01-12T23:40:15	Cognitive APIs are being used to create businesses that did not exist before. Learn how:  
+IBMWatson	687017448894246913	2016-01-12T21:04:58	Meet some of the WatsonEcosystem partners and see how they use Watson:  
+IBMWatson	686906808892526592	2016-01-12T13:45:20	Meet the 'empathic' robot powered by ibmwatson  FortuneMagazine 
+IBMWatson	686972832438480897	2016-01-12T18:07:41	See what other foodies are cooking with ChefWatson &amp; join the conversation on Facebook:  
+IBMWatson	686939657360158720	2016-01-12T15:55:51	You can now train Watson Natural Language Classifier for specific questions &amp; responses:  
+IBMWatson	686915963917320197	2016-01-12T14:21:42	Got plans tomorrow? Learn from Watson experts how to get started w/ AlchemyAPI on Bluemix.  
+IBMWatson	686671781613015040	2016-01-11T22:11:25	Want to build your own IBMWatson app? Build with Watson on January 12th at GA Singapore.  
+IBMWatson	686666122700140544	2016-01-11T21:48:55	Check out our webinar on 1/13 and learn how to get started with AlchemyAPI on Bluemix: 
+IBMWatson	686611015556042753	2016-01-11T18:09:57	WatsonHealth expands with the help of Medtronic and UnderArmour. Read the latest from Bloomberg business : 
+IBMWatson	686563388059742208	2016-01-11T15:00:42	Discover the What, Why and How behind Cognitive APIs during this IBMWatson Thought Leadership series: 
+IBMWatson	686335337367486465	2016-01-10T23:54:30	Already thinking internships? Read what it's like to work on the Watson team:  
+IBMWatson	686221728129880064	2016-01-10T16:23:04	IBM + UnderArmour partner for next-gen fitness app powered by Watson:  via mashable 
+IBMWatson	686206694041456640	2016-01-10T15:23:19	Getting started with AlchemyAPI on Bluemix is easy. Learn how during our 1/13 webinar:  
+IBMWatson	685942337676115968	2016-01-09T21:52:52	From TradeoffAnalytics to the acquisition of AlchemyAPI, check out the top APIs added to IBMWatson 
+IBMWatson	685922092160782336	2016-01-09T20:32:25	If you missed IBM CEO Ginni Rometty's CES2016 keynote, we have the replay here:  
+IBMWatson	685885626919600128	2016-01-09T18:07:31	Take app building beyond one API. Build a complete conversational interface through a series of technical webinars: 
+IBMWatson	685867713609203712	2016-01-09T16:56:20	In our latest blog post, we've answered the 7 FAQs on getting into the WatsonEcosystem:  
+IBMWatson	685852076182732800	2016-01-09T15:54:12	Retrieve and rank. Discover the most important content for your business need. Read how:  
+IBMWatson	685589646261235712	2016-01-08T22:31:23	Get a closer look at how Medtronic + Watson teamed up for a diabetes management app:  
+IBMWatson	685584334162624513	2016-01-08T22:10:17	.UnderArmour has put IBMWatson inside its new health-tracking app, "Record."  CES2016 
+IBMWatson	685560378277900288	2016-01-08T20:35:05	How many languages do you speak? Read how Natural Language Classifier is expanding:  
+IBMWatson	685537760803950593	2016-01-08T19:05:13	IBM Taps IBMWatson for Robotics Innovation  
+IBMWatson	685522294727401472	2016-01-08T18:03:46	Want to get started with AlchemyAPI on Bluemix? Get tips &amp; tricks from Watson experts:  
+IBMWatson	685497224814551044	2016-01-08T16:24:08	ICYMI, with Watson's help, Softbank's Pepper robot is getting even smarter:  
+IBMWatson	685469362128588801	2016-01-08T14:33:25	What does it take to get into the WatsonEcosystem? Here's a helpful guide to get started:  
+IBMWatson	685225505554055168	2016-01-07T22:24:26	Did you catch the CNBC interview with Watson-powered robot Pepper at CES2016? Video:  
+IBMWatson	685187715118272512	2016-01-07T19:54:16	A cognitive coaching system? The latest from UnderArmour + Watson for athletes at CES2016.  
+IBMWatson	685143910960648193	2016-01-07T17:00:12	Pathway Genomics, OME &amp; IBMWatson open doors to paradigm shift in healthcare. genetics personalizedmedicine 
+IBMWatson	685144409546031105	2016-01-07T17:02:11	.PathwayGenomics Debuts First Genomic Wellness App Powered by Watson at CES2016:  
+IBMWatson	685132315580825601	2016-01-07T16:14:07	IBM, UnderArmour team up to bring athletes a new fitness app powered by IBMWatson  CES2016 
+IBMWatson	685100164424556544	2016-01-07T14:06:22	Discover the Network Science world &amp; how Watson is fueling the next wave of cognitive apps:  
+IBMWatson	684985589997764608	2016-01-07T06:31:05	Here’s how you can propel your company into the limelight with IBM Watson  
+IBMWatson	684908048876322817	2016-01-07T01:22:58	Integrating Watson technology, UnderArmour &amp; IBM announced a new cognitive coaching system. 
+IBMWatson	684902447735779329	2016-01-07T01:00:43	At CES2016, IBM CEO Ginni Rometty announced new Watson advances &amp; partnerships. Details:  
+IBMWatson	684824922309312513	2016-01-06T19:52:39	The IBMWatson powered Cognisaur from CogniToys is getting kids off of screens with cognitive tech CES2016 IBMIoT 
+IBMWatson	684850484520333313	2016-01-06T21:34:14	Watch live: Ginni Rometty's CES2016 keynote today at 4:30pm PT/7:30pm ET 
+IBMWatson	684830011115859969	2016-01-06T20:12:52	What tech trends will make waves in 2016? Cognitive computing tops the list:  via CBSNews 
+IBMWatson	684790365673623557	2016-01-06T17:35:20	IBM Watson VP talks the nuts &amp; bolts of cognitive computing with BernardMarr via Forbes:  
+IBMWatson	684781918521524225	2016-01-06T17:01:46	IBM CEO Ginni Rometty is speaking at CES2016 today at 4:30 p.m. PT. Watch a live via Periscope at IBMIoT: 
+IBMWatson	684762786535215104	2016-01-06T15:45:45	Today at CES2016: IBM CEO Ginni Rometty keynotes w/ guests UnderArmour, Medtronic &amp; SoftBank 
+IBMWatson	684751978031910912	2016-01-06T15:02:48	Make better business decisions and meet conflicting goals using the Tradeoff Analytics API.  
+IBMWatson	684522998620131328	2016-01-05T23:52:55	The robot powered by IBM Watson technology is making an appearance at CES2016. IBMElectronics 
+IBMWatson	684503116868378628	2016-01-05T22:33:55	Developers can integrate Watson with their own software &amp; apps using Watson APIs.  IBMWatson 
+IBMWatson	684477043153747968	2016-01-05T20:50:18	Tomorrow at CES2016: IBM CEO Ginni Rometty keynotes w/ guests UnderArmour, Medtronic &amp; Softbank 
+IBMWatson	684481769362554880	2016-01-05T21:09:05	Learn more about Watson + start your cognitive journey in the new year with Watson Academy:  
+IBMWatson	684440071240609792	2016-01-05T18:23:23	Take app building beyond one API. Learn how to build a complete conversational interface:  
+IBMWatson	684410605265137664	2016-01-05T16:26:18	How can Watson work with you? From helping vets treat pets to designing your next vacation, see how: 
+IBMWatson	684381566911541248	2016-01-05T14:30:55	Start pinning some of your favorite ChefWatson recipes over on IBM's Pinterest page.  
+IBMWatson	684380590842462210	2016-01-05T14:27:02	davecraige We are hosting the World of Watson Hackathon in May. We'll post details as soon as they become available!
+IBMWatson	684140006051545088	2016-01-04T22:31:02	A Watson-powered app is giving teachers a new way to see how students learn in real time:  
+IBMWatson	684125254294310912	2016-01-04T21:32:25	WatsonEcosystem is coming to Singapore. Join the launch with our New Venture Challenge:  
+IBMWatson	684099514874130440	2016-01-04T19:50:08	Accurate insights from social media just got easier. New! WatsonAnalytics for Social Media:  
+IBMWatson	684077303417012225	2016-01-04T18:21:53	We have exciting, new updates for News Explorer. Check them out here:  IBMWatson 
+IBMWatson	684049834106556416	2016-01-04T16:32:44	Love for coding? Don't miss out on the latest from the IBMWatson Dev blog:  
+IBMWatson	684028479394938880	2016-01-04T15:07:52	krumhausen Unfortunately, the client experience center is not open to appointments.
+IBMWatson	684028440790601729	2016-01-04T15:07:43	krumhausen We apologize for the delay. We appreciate your application &amp; we look forward to reading it (continued)...
+IBMWatson	684020821715775488	2016-01-04T14:37:27	From inception to deployment, watch your app come to life with the help of Watson experts.  
+IBMWatson	683792593273110528	2016-01-03T23:30:33	Watch the video demo to learn how to train the Watson Visual Recognition API:  IBMWatson 
+IBMWatson	683725535873232896	2016-01-03T19:04:05	One BuiltWithWatson app via The_Don_Himself provides a network to help students find deals via image uploads &amp; virtual assistance.
+IBMWatson	683722277565952001	2016-01-03T18:51:08	Watson is collaborating with doctors to deliver more personalized treatment. Via nytimes:  
+IBMWatson	683660479147933697	2016-01-03T14:45:34	Partner with IBM &amp; bring powered by Watson apps to the market. Join the WatsonEcosystem:  
+IBMWatson	683474688325083140	2016-01-03T02:27:18	What’s behind Watson solutions? Powered by Watson  -- revealed:  IBMWatson 
+IBMWatson	683324509433262080	2016-01-02T16:30:33	Use Watson Language, Vision, Speech &amp; Data APIs to enable cognitive computing in apps:  
+IBMWatson	683011890990190592	2016-01-01T19:48:19	Interested in building with Watson in 2016? Register for our tech webinars starting 1/27:  
+IBMWatson	682977215747899393	2016-01-01T17:30:31	Experiment with Watson APIs in the Watson Developer Cloud. Start building:  
+IBMWatson	682568265655300096	2015-12-31T14:25:30	Happy New Year! 
+IBMWatson	682622375771410433	2015-12-31T18:00:31	Celebrate the NewYear with a refreshing cocktail from Chef Watson. Cheers!  
+IBMWatson	682592177663389698	2015-12-31T16:00:31	Are you a student? Participate in an IBMWatson Hackathon or explore university programs:  
+IBMWatson	682568294830845953	2015-12-31T14:25:37	From inception to deployment, watch your app come to life with the help of Watson experts.  
+IBMWatson	682320380011384835	2015-12-30T22:00:30	What’s in your dev toolbox? Read how Watson APIs are fueling startups.  
+IBMWatson	682288912241422337	2015-12-30T19:55:27	Meet some of the WatsonEcosystem partners and learn how they apply Watson:  
+IBMWatson	682259983157846017	2015-12-30T18:00:30	Watson's cognitive capabilities mirrors key cognitive elements of human expertise. Video:  
+IBMWatson	682229784823369728	2015-12-30T16:00:30	What's on your YouTube playlist? See how IBMWatson is transforming industries:  
+IBMWatson	682200231308570624	2015-12-30T14:03:04	.InformationWeek takes a look at Watson's evolution and how it's become smarter.  IBMWatson 
+IBMWatson	682030151413137408	2015-12-30T02:47:14	We love this ChefWatson recipe celebrating Kwanzaa: with cayenne, dijon, tomato &amp; chive.  
+IBMWatson	681957990786805761	2015-12-29T22:00:29	See how Watson's improving healthcare through cognitive computing tools with WatsonHealth:  
+IBMWatson	681927791701524484	2015-12-29T20:00:29	With the Watson Developer Cloud, developers can build with a collection of cognitive APIs.  
+IBMWatson	681897593333510144	2015-12-29T18:00:29	Here are a few steps to help set a foundation for cognitivecomputing in an enterprise:  
+IBMWatson	681867393984032768	2015-12-29T16:00:29	3 Ways To Create Smarter, Connected Healthcare  WatsonHealth 
+IBMWatson	681839631126642689	2015-12-29T14:10:10	What is your personality from your writing? Try the demo of Watson Personality Insights:  
+IBMWatson	681599716254171136	2015-12-28T22:16:50	80% of data is dark and unstructured. Learn how Watson Visual Recognition is shining light.  
+IBMWatson	681565399415144448	2015-12-28T20:00:28	Did you know the WatsonEcosystem is expanding to Singapore? Get the details:  
+IBMWatson	681535199168081920	2015-12-28T18:00:28	ChefWatson is turning recipe data into unlikely but delicious combinations.  

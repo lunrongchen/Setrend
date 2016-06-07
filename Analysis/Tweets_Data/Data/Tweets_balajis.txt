@@ -1,0 +1,1109 @@
+balajis	725622899265146881	2016-04-28T09:49:15	Facebook's ad revenue now surpasses the entire U.S. newspaper industry. 
+balajis	725509761379237889	2016-04-28T02:19:41	Now reading Cixin Liu's "The Three Body Problem". First thought: American kids do *not* learn enough about historical communist revolutions.
+balajis	725436567066689541	2016-04-27T21:28:50	1/ What is a bank?
+balajis	725436497088892929	2016-04-27T21:28:33	0/ I want to fill in some background to these thoughts, and why I think this is an interesting time for banking. "Chicago-style."
+balajis	725436184835575808	2016-04-27T21:27:19	-1/ I wrote a thing about Christensen disruption in banking.  tl;dr 
+balajis	725076697901576192	2016-04-26T21:38:50	Powerful image. 
+balajis	725151795220234241	2016-04-27T02:37:15	Always like to think of foursquare as the google analytics of the physical world. dens &amp; team once again stick it to the haters! Respect!
+balajis	725231125543550977	2016-04-27T07:52:29	5/ The ability to quantify substitution effects means the ability to systematize competitive response. Invaluable for any business.
+balajis	725229840358510592	2016-04-27T07:47:22	4/ Next, the chains. Foursquare data is so rich/granular/longitudinal that it can quantify *substitution* effects! 
+balajis	725228832370741248	2016-04-27T07:43:22	3/ Now apply to every other large public stock w/ foot traffic data. Enormous arbitrage opportunity - at least till everyone has Foursquare!
+balajis	725228002380906496	2016-04-27T07:40:04	2/ First, hedge funds. Dead on prediction of -30% drop weeks in advance would have allowed profit from &gt;$20 swing. 
+balajis	725227472514490368	2016-04-27T07:37:58	1/ After the Chipotle prediction, Foursquare Places Insight is on the radar of every hedge fund &amp; restaurant chain. 
+balajis	725117074465501184	2016-04-27T00:19:17	dens foursquare BrianSozzi found the Chipotle post by JeffGlueck  considering a data product for hedge funds? :)
+balajis	725225266142810112	2016-04-27T07:29:12	"Today’s news proves that [Foursquare is] indeed in the right business with a valuable product." 
+balajis	725064613105131520	2016-04-26T20:50:49	Darn impressive Chipotle first quarter sales estimate by foursquare on Apr. 12.  Foursquare: -30% Chipotle actual: -29.7% CMG
+balajis	725067119872872451	2016-04-26T21:00:47	How to Get Bitcoin (Without Mining or Buying Bitcoin) with 21's CEO balajis 
+balajis	724643510842855428	2016-04-25T16:57:30	This is the kind of data that can only be even collected because of the boldness of someone like Musk. 
+balajis	724076493006082048	2016-04-24T03:24:23	It’s a shame the mandatory electricity blackouts are keeping Venezuelans from reading about how lucky they are 
+balajis	724175192428175361	2016-04-24T09:56:35	Would love to see Asian countries on this chart... 
+balajis	723396395894366208	2016-04-22T06:21:55	Let's Encrypt has now issued 2 million certificates! 
+balajis	724065009945464832	2016-04-24T02:38:45	balajis you open it up completely it is bordering on general AI turf
+balajis	724064897567481856	2016-04-24T02:38:18	balajis yup. Like Echo.  It only seems magical bc it accepts 50ish commands
+balajis	724063099947388930	2016-04-24T02:31:10	dannyjespinoza You are using a particular bot, right? That communicates context or gives a list of possible commands.
+balajis	724062866488205317	2016-04-24T02:30:14	The bot space is thus a down the middle attack on Google's core competency on mobile. Their response? Probably aggressive.
+balajis	724061654606999553	2016-04-24T02:25:25	Building a good command line tool in a messaging app for a given domain might indeed be valuable...but is arguably more about UX than AI.
+balajis	724060635307212801	2016-04-24T02:21:22	Slack's bots constrain the problem in a huge way: by requiring slash commands, they reduce scope and avoid full natural language processing.
+balajis	724060086918762496	2016-04-24T02:19:11	Bots that accept unconstrained free text input are essentially stateful/iterated web search. Google-level difficulty to discern user intent.
+balajis	723699900400046082	2016-04-23T02:27:56	Prince's vision for lifting up black youths: Get them to code: 
+balajis	723227155719548932	2016-04-21T19:09:25	DimitriChupryna The Sovereign Individual?
+balajis	722823343196344321	2016-04-20T16:24:49	Times change!  "BMW’s strategy...developing niche products at a time when Tesla is moving into the mass market" 
+balajis	722665297270960129	2016-04-20T05:56:47	7/When all the loud, aggressive shouters are on one side, it creates a false impression of consensus that others may just go along with.
+balajis	722291674223759361	2016-04-19T05:12:09	matthewjamesr franklinbi fredzannarbor masonic_tweets Eventually, blockchain-inspired chain of title will be in Postgres. Moot then.
+balajis	722291381851398144	2016-04-19T05:10:59	matthewjamesr franklinbi fredzannarbor masonic_tweets Absolutely, can record assets. But is intra-company use compelling over db?  Dunno
+balajis	722291044637741056	2016-04-19T05:09:39	fredzannarbor franklinbi matthewjamesr masonic_tweets Explicit internal competition usually bad, even in bigco. Knives should point out.
+balajis	722123560488214528	2016-04-18T18:04:07	I am so stoked for this one... Thanks, balajis daviderutter1 for joining as our closers. cc: 21 R3CEV 
+balajis	722115329720193025	2016-04-18T17:31:25	21, R3 Founders to Close Consensus 2016 - 
+balajis	707078704837599232	2016-03-08T05:41:14	BernieSanders In Romania we have faster internet b/c we killed our commie dictator on Christmas morning in 1989Then we open up the markets
+balajis	721701694518751232	2016-04-17T14:07:47	1) I recommend that every Bitcoin enthusiast reads Satoshi's original announcement email thread in its entirety: 
+balajis	721599142842097664	2016-04-17T07:20:16	fredzannarbor matthewjamesr masonic_tweets They aren't internally traded for money, though. Within a company it's non-market environment.
+balajis	721512199580090368	2016-04-17T01:34:48	My standard advice to young people is that if things seem insane and the situation reflects consensus of a crowd, it probably is insane. :-)
+balajis	721552075646087168	2016-04-17T04:13:15	This might well be true. 18 years probably not a full phase out, but certainly in some regions... 
+balajis	721402593402982400	2016-04-16T18:19:15	We are closer to 2040 than 1990.
+balajis	721549555062349824	2016-04-17T04:03:14	derosetech kyletorpey gendal When it's early in a space, no point in sticking to (say) blocks or any early assumption. Iteration is good.
+balajis	721549060235067393	2016-04-17T04:01:16	derosetech kyletorpey I think gendal is very sharp, and this a good post on why they did things differently: 
+balajis	721548423166439424	2016-04-17T03:58:44	msantoriESQ That would usually slow down the sale even further :) There are exceptions. Depends very much on whether it's a political win.
+balajis	721547010092834817	2016-04-17T03:53:07	matthewjamesr masonic_tweets fredzannarbor Includes more than money, but without "transfer of scarce assets" we start to get far afield.
+balajis	721546687366365184	2016-04-17T03:51:50	matthewjamesr masonic_tweets fredzannarbor Hm. Not "any type of data"; blockchains are ledgers for scarce resources, not (say) map data.
+balajis	721432259413172224	2016-04-16T20:17:08	"A new generation of activist whose pro-market bent is the opposite of the San Francisco stereotypes" 
+balajis	721429455831302145	2016-04-16T20:06:00	fredzannarbor The exception would be if groups within the company are constantly buying/selling stuff to each other (odd, but maybe).
+balajis	721429052242800641	2016-04-16T20:04:24	fredzannarbor Internal private blockchain makes no sense. It's the same economic actor. Moving money from one company pocket to another.
+balajis	721427133873201157	2016-04-16T19:56:46	balajis banking consortia have worked well in the past - SWIFT, visa, MasterCard, DTCC etc. they do need to be bank owned
+balajis	721426605030121474	2016-04-16T19:54:40	balajis Question of how open consortia chains will be to outside developers is also poignant. Will they also be like making intl treaty?
+balajis	721412830730260480	2016-04-16T18:59:56	balajis it is why clearing/settlement initiatives have 5-10 year timeframes...
+balajis	721417933071716352	2016-04-16T19:20:13	.balajis we could see more consortiums / guild and network based structures in the futures. Not dissimilar to open source paradigm change.
+balajis	721423131949142016	2016-04-16T19:40:52	16/ Hard doesn't mean it's impossible. But consortium sales may prove to be the rate limiting step for private blockchain adoption.
+balajis	721422081515069441	2016-04-16T19:36:42	15/ So, to sell private blockchain: - assemble a consortium - deal with consortia leverage as buyer - survive long sales cycles That's hard!
+balajis	721420862444806144	2016-04-16T19:31:51	14/ Thus, even though banks have a lot of money, for these logistical reasons it may be hard to build a large private blockchain company.
+balajis	721420099756789762	2016-04-16T19:28:49	13/ They have leverage - private blockchain only exists with consortia's cooperation! - so will be hard to sustain profits at their expense.
+balajis	721419177861328896	2016-04-16T19:25:09	12/ Even if they do agree on a commercial vendor, consortia members won't want to create a monster like studios did with Netflix/iTunes.
+balajis	721418430067245056	2016-04-16T19:22:11	11/ For similar reasons, it may be easier to get consortia to agree on a pure open source private blockchain than a for-profit option.
+balajis	721417678544441344	2016-04-16T19:19:12	10/ That is, FB and Google compete on many things, but can cooperate on Linux as neither party can deprive the other of its contributions.
+balajis	721417124841807872	2016-04-16T19:17:00	9/ So even if a consortium *does* agree on a private blockchain, pure open source options may dominate...as they are demilitarized zones.
+balajis	721416506597187584	2016-04-16T19:14:33	8/ That is, if history of internet micropayments is any guide, everyone wants to be the troll on the payment bridge - browsers, OS, banks.
+balajis	721416080451698689	2016-04-16T19:12:51	7/ Moreover, LTV may not be that high, as consortia may demand totally open source solutions (eg PostChain-like: ).
+balajis	721415419425218560	2016-04-16T19:10:13	6/ So: oligopsonistic market (few large buyers w/ long sales cycles) means lots of leverage vs private blockchain vendors. CAC will be high.
+balajis	721414871720419328	2016-04-16T19:08:03	5/ An additional factor: there are fewer consortia than enterprises. Hence the market is more oligopsonistic. 
+balajis	721414571219505152	2016-04-16T19:06:51	4/ One inkling of this can be seen here:  
+balajis	721414227013971968	2016-04-16T19:05:29	3/ Private blockchains are more desirable when there is less trust (eg auditability is a goal). But less trust makes consortium sale harder.
+balajis	721412790561296384	2016-04-16T18:59:47	2/ If enterprise sales is getting a bill through Congress, consortium sales is passing an international treaty. 
+balajis	721411744858447872	2016-04-16T18:55:37	1/ Private blockchains are only useful in the context of multiple economic actors. That's beyond enterprise sales. It's *consortium* sales.
+balajis	720753488288817152	2016-04-14T23:19:57	The VR idea maze — new blog post 
+balajis	721092023369994241	2016-04-15T21:45:10	There should be a law that forces all congressmen to prepare their own taxes without the help of accountants or software.
+balajis	721167095111651328	2016-04-16T02:43:28	Just wait until people discover the role that television and newspapers play! 
+balajis	721164492219002880	2016-04-16T02:33:08	When communism fell, so did mass killings.  
+balajis	720467888260390913	2016-04-14T04:25:04	Chris Dixon on competing with internet giants for budding AI and VR talent  
+balajis	719672675371769858	2016-04-11T23:45:11	What the journalists giving Amazon shit about the Fire phone didn't understand:  
+balajis	718593669704454144	2016-04-09T00:17:36	I can’t believe I hadn’t read beaucronin’s fab piece on dueling definitions of AI!  No wonder everyone is confused
+balajis	718826135673397250	2016-04-09T15:41:20	Another great old piece by beaucronin  Explains untapped opportunities in AI by explaining what’s worked so far
+balajis	719389163322105856	2016-04-11T04:58:36	Most of the problem is articulating the problem.
+balajis	719043726249570304	2016-04-10T06:05:58	Outside Orlando, a new public transportation option: Uber. 
+balajis	718947544072454145	2016-04-09T23:43:46	ResistCapitalism. Also, ResistTheLawsofThermodynamics
+balajis	718977594356465664	2016-04-10T01:43:11	ResistCapitalism because brown kids in developing countries are starting to live too long and it makes Paul Ehrlich all agitated
+balajis	718935092437979136	2016-04-09T22:54:17	How Americans compare with the global middle class  Jankowski60 
+balajis	718920129103273984	2016-04-09T21:54:50	ResistCapitalism as seen above, YayCapitalism as seen below. 
+balajis	718805103386333188	2016-04-09T14:17:46	Failure To Get Into Private College To Be Most Financially Responsible Act Of 17-Year-Old’s Life 
+balajis	718585208165912578	2016-04-08T23:43:58	POTUS seems to be getting obsessed with Tech -- it's fascinating. Post presidency VC?
+balajis	718786874232283136	2016-04-09T13:05:19	Best compliment ever. Gave speech in LA on future of tech, MENA, globe. Host: "That was amazing and optimistic. You remind me of balajis "
+balajis	718338648522035204	2016-04-08T07:24:14	"If Tokyo wants to be Silicon Valley of the East, look at innovative sectors there and then deregulate them here" tanakayoshikazu NEST2016
+balajis	717183588660224001	2016-04-05T02:54:26	2008: “No one will buy a Tesla!”  2013: “Teslas are only for rich people!” 2016: “How is Tesla going to make all those Teslas!?”
+balajis	718598132888702976	2016-04-09T00:35:20	Just wanted to write a note of appreciation for all those who have supported Tesla, SpaceX &amp; SolarCity over the years. Thank you.
+balajis	718505534828253184	2016-04-08T18:27:23	Yey! My BitcoinComputer is finally here :)  on to  ! 21 balajis jamesldamico 
+balajis	717904871060586499	2016-04-07T02:40:33	What if there were a sympathetic NYT story like this for everyone who was taken apart on twitter?  jswatz
+balajis	717071153018355712	2016-04-04T19:27:40	If I were young and unmarried, I could see this being a cool way to live. 
+balajis	717469913967792128	2016-04-05T21:52:12	2006 Google: What if we can give free WiFi to everyone in a city?  2016 Alphabet: Fuck it lets build a city.  
+balajis	717644799822675968	2016-04-06T09:27:08	This is more relevant than ever. Thanks balajis  Software Is Reorganizing the World  via WIRED
+balajis	717595074717044736	2016-04-06T06:09:32	A factor in Trump's rise: 93% of US counties haven't recovered from Recession balajis pmarca jayrosen_nyu zeynep 
+balajis	717587753320341504	2016-04-06T05:40:27	"Trump...a symptom of the mass media’s growing weakness...in controlling the limits of what it is acceptable to say" 
+balajis	716956788000731136	2016-04-04T11:53:13	Are your views on privacy and PanamaPapers consistent? Just asking...
+balajis	717542839458992128	2016-04-06T02:41:58	Mostly b/c Times would have happily preempted other teams &amp;/or warned the investigation's targets to curry favor ;-/ 
+balajis	717538047932416000	2016-04-06T02:22:56	"The Times was not a part of the global consortium and was not aware that the story was coming" 
+balajis	716738018325823488	2016-04-03T21:23:54	I just published “‘[…] is a toy’”  //A good PM exercise is to ask yourself how many things you labeled toys early on?
+balajis	713043610002989056	2016-03-24T16:43:38	Zcash Privacy and Efficiency Tradeoffs vs the Bitcoin Blockchain 
+balajis	717051165700128768	2016-04-04T18:08:14	OpenBazaar is now open for business! Join the peer-to-peer network and start trading with Bitcoin now: 
+balajis	717020037777899520	2016-04-04T16:04:33	Very interesting ! M2M payment ! 
+balajis	716901917390024705	2016-04-04T08:15:11	jimepstein a16z 21dotco Maybe soon :)
+balajis	716251068116692992	2016-04-02T13:08:56	In just one week, the FBI’s gone from “just one phone” to sharing with the entire law enforcement community. Remember this for the next one.
+balajis	715909333465346048	2016-04-01T14:31:00	Willing to relocate? China's Silicon Valley will give you almost $1 million to move there:  
+balajis	716129290866130944	2016-04-02T05:05:02	Count me in :)  
+balajis	716138310767226880	2016-04-02T05:40:53	If this isn't innovation, I don't know what is. 
+balajis	716149214816784384	2016-04-02T06:24:12	tzhongg Not yet, but haven't been actively looking!
+balajis	716131101777862656	2016-04-02T05:12:14	I am still wrapping my head around this, but first reaction was this is pretty darn freaking awesome. balajis 
+balajis	710732885855047680	2016-03-18T07:41:39	balajis would be cool to see 21.co build an API aggregator. The segment for APIs. No API reg required. Send data that's relayed to API.
+balajis	716126726523215872	2016-04-02T04:54:51	Interested in machine marketplaces? Get a Bitcoin Computer at . Or get early access at .
+balajis	716126140994158592	2016-04-02T04:52:31	With Bitcoin, machines were given bank accounts.  With 21, machines now can use those bank accounts to trade. 
+balajis	716124889678131200	2016-04-02T04:47:33	Combine multiple bitcoin-payable APIs to produce novel functionality. Then publish these to earn bitcoin yourself. 
+balajis	716124373606727681	2016-04-02T04:45:30	With bitcoin, we eliminate the fixed cost of API signup. This means you can now easily chain many paid APIs. 
+balajis	716123902351507456	2016-04-02T04:43:37	You can now buy more than 50 different APIs for bitcoin in the 21 marketplace. 
+balajis	716124772791287813	2016-04-02T04:47:05	balajis 21 very cool. They implemented this!  
+balajis	715759812517224448	2016-04-01T04:36:52	Note that there are no dials or gauges in the TeslaModel3. Just a flat screen 
+balajis	715770672543309828	2016-04-01T05:20:01	Tesla Model3 preorders have now passed 130,000 and are climbing fast  
+balajis	715699771072065537	2016-04-01T00:38:17	VR and other tech will soon drive the mobility of human capital.  
+balajis	715669783560105985	2016-03-31T22:39:07	Truly outstanding article on what comes next.  cc ChrisSpoke hamandcheese patrickc
+balajis	715629392878108672	2016-03-31T19:58:37	Life imitates art. Black Mirror anticipated Erdogan's propaganda trucks.  
+balajis	715606545401155584	2016-03-31T18:27:50	Pro-Erdogan propaganda trucks outside St. Regis hotel, where his motorcade seemed to be just arriving. 
+balajis	715566909387882496	2016-03-31T15:50:20	This tweetstorm on obstacles to US infrastructure improvements is amazing, but this is the crux. 
+balajis	715459101015158784	2016-03-31T08:41:56	Satya has totally turned around Microsoft on the innovation front. So hard to do for a company that size! 
+balajis	715405456747814912	2016-03-31T05:08:47	Fantastic idea! Hopefully this a better process than the 'run of the mill' B-School  business plan competitions.  
+balajis	715400648477401090	2016-03-31T04:49:40	sknthla pmarca :)   
+balajis	715399810631671809	2016-03-31T04:46:20	wolfeb99 pmarca Intersectional. Not going to see a nonwhite NYT publisher anytime soon. But we have nonwhite CEOs of GOOG, NVIDIA, MSFT.
+balajis	715398705386381312	2016-03-31T04:41:57	Economist Chris Blattman: “Is this the most effective development program in history?”  
+balajis	715397892169568256	2016-03-31T04:38:43	OpenSorceress pmarca Actually, people of color worldwide are winning in software: 
+balajis	715396587896188928	2016-03-31T04:33:32	Interestingly, the people who claim it isn't are disproportionately white Westerners with liberal arts degrees.  
+balajis	715361442220871680	2016-03-31T02:13:53	I highly recommend the a16z podcast to anyone who wants to run their own business successfully
+balajis	710200744348164097	2016-03-16T20:27:07	Finally watched balajis “Silicon Valley’s Ultimate Exit”.   Someone highly recommended it.  It’s excellent!!  
+balajis	715285203510366208	2016-03-30T21:10:56	balajis You'll like this: 
+balajis	715192012056748032	2016-03-30T15:00:37	Insightful take by balajis on how laws/regulations impede U.S. infrastructure.  Lessons for digital deployment, too.
+balajis	655306196128280576	2015-10-17T08:55:46	email from 1996 
+balajis	714730507284717569	2016-03-29T08:26:46	Tough but seemingly knowledgeable take on Haskell. Some of these ring true; no mutable dicts, hard to predict perf. 
+balajis	714728282965602304	2016-03-29T08:17:56	editor_traceyd Don't know. Historians are always taught to look at primary sources. Hard to get more primary than the tweet from the scene.
+balajis	714664569059155968	2016-03-29T04:04:45	In reality, many NYT stories these days are basically long form pieces built around news that broke on Twitter. 
+balajis	714664005386641408	2016-03-29T04:02:31	prestonjbyrne mims The future will be interesting! :) 
+balajis	714663521527529472	2016-03-29T04:00:35	ChrisSpoke mims Would be win/win if migrants lower their tax rates while recipient country increases its tax base. (And that's just tax.)
+balajis	714663256103596032	2016-03-29T03:59:32	ChrisSpoke mims That's $100M in new tax base for destination city. Crowdchoice is the new collective bargaining of 21st century.
+balajis	714663077887672321	2016-03-29T03:58:50	ChrisSpoke mims May happen long term. To start, easier to get 1000 devs with $100k salaries to negotiate a move with an existing state.
+balajis	714634827924840450	2016-03-29T02:06:34	balajis mims think: tribal lands. Already have much of the sovereign rights necessary for a blank slate approach.
+balajis	714662203052306433	2016-03-29T03:55:21	Noahpinion mims Yes. Quick version: at least some states want to attract tech. They'll make deals first. 
+balajis	714661783533805568	2016-03-29T03:53:41	Noahpinion mims Anyway, should probably write this up as it's hard to tweet a paper :) Good chat as always!
+balajis	714661563945193472	2016-03-29T03:52:49	Noahpinion mims In addition, your preferences have feedback effects with crowdchoice. See what vectors are popular, pick the closest one.
+balajis	714661272961220608	2016-03-29T03:51:39	Noahpinion mims Many jurisdictions. Not all will perfectly match one's preferences. But choice gives better chance of a decent fit.
+balajis	714660532242911232	2016-03-29T03:48:43	Noahpinion mims So, IMO already happening. The main remaining q: when will states start systematically molding policy to attract migrants?
+balajis	714659647190212608	2016-03-29T03:45:12	Noahpinion mims Some of that is starting with eg nomadlist.io and  (which we set up).
+balajis	714659513677193221	2016-03-29T03:44:40	Noahpinion mims That sorting process is very ad hoc right now because the tools aren't yet there to assist moves.
+balajis	714658831352004608	2016-03-29T03:41:57	Noahpinion mims But we're already seeing the start. From tech cities to ISIS, people meet online &amp; meet up offline in greater s.
+balajis	714657052413431808	2016-03-29T03:34:53	Noahpinion mims Exactly :) Social network reputation: solve defection. Crowd commitment: solve free rider. (Can't fit all in 140 chars.)
+balajis	714656505681686529	2016-03-29T03:32:43	Noahpinion mims Good q. IMO answer is empiricism + collective action models like this:  
+balajis	714654591225233408	2016-03-29T03:25:06	Noahpinion mims Moreover, as prescient as Tiebout was, he was focused on individuals alone vs crowdchoice to solve collective action prob.
+balajis	714654137909059584	2016-03-29T03:23:18	Noahpinion mims That is, what Bewley is optimizing (a mathematical model of public goods) is not what mobile individuals will optimize.
+balajis	714653618180206593	2016-03-29T03:21:14	Noahpinion mims In re Bewley's paper specifically, I don't think the "general equilibrium" result is important. 
+balajis	714652871321460736	2016-03-29T03:18:16	Noahpinion mims Arguably the missing parts are "search jurisdictions" and "make money" from phone. Those are coming.
+balajis	714652514646228993	2016-03-29T03:16:51	Noahpinion mims Today you can already book flights, call cars, buy food, rent lodging, send millions from your phone.
+balajis	714651857063292928	2016-03-29T03:14:14	Noahpinion mims Theory from 35 years ago cited against smartphones that have brought us much closer to Tiebout is IMO not that persuasive.
+balajis	714641467659014144	2016-03-29T02:32:57	Noahpinion mims Smartphones + internet make Tiebout assumptions true. See many old posts from 2014: 
+balajis	714640857219993600	2016-03-29T02:30:32	Noahpinion mims Oh, I know all about Tiebout :)  
+balajis	714634513016422401	2016-03-29T02:05:19	mims Big cos already have this kind of leverage with states: ask for concession to put a new factory there. Now, universalize that idea.
+balajis	714633670993125376	2016-03-29T02:01:59	mims One idea: crowdchoice. Type your preferences in. Aggregate with millions of others. Collectively bargain with states. Then move.
+balajis	714255781529432065	2016-03-28T01:00:23	MyPoV: anytime some overeducated intellectual elite tells me it's good 4 me, I'd like to know if they've kept a min wage job or owned a biz
+balajis	714249453385998336	2016-03-28T00:35:14	147 (!!) FBI agents are investigating the Clinton email situation.  That's about 1% of ALL FBI agents.  
+balajis	714209460755894272	2016-03-27T21:56:19	balajis the environmental laws (e.g., CEQA) even delay small projects to increase bicycling. SMH.
+balajis	714226891255783424	2016-03-27T23:05:35	joshuaforman Well, Haiti is one of least economically free countries in the world with high rates of corruption. Think problems are deeper.
+balajis	714224993559715840	2016-03-27T22:58:02	RonenV Right. Which is why we need new jurisdictions that combine the best of both worlds (+ others).
+balajis	714224744002793472	2016-03-27T22:57:03	mwiegand ForrestTheWoods Ah - but calculations indicate a single self-driving car could do Uber Pool/Lyft Line pickups on steroids.
+balajis	714224607163588608	2016-03-27T22:56:30	Very interesting PDF here from Renee on privately managed ports:  
+balajis	714223674174234628	2016-03-27T22:52:48	kimmaicutler pmarca I think where we differ is: that's not a tax issue. It's an issue of regulations, incentives, competence.
+balajis	714223220694487040	2016-03-27T22:51:00	aarieff The $0 refers to cost of decriminalizing innovation. Self-driving cars themselves will cost money, but private sector money.
+balajis	714222736915111936	2016-03-27T22:49:04	aarieff Not zero cost. It's like the shift from USPS to email. Massively less cost in taxes for public sector, massively more innovation.
+balajis	714222117550563329	2016-03-27T22:46:37	mims Yes. Maybe most important problem. Can't be naively "anti-government". Seek a better government. But through migration, not election.
+balajis	714219223459897344	2016-03-27T22:35:07	balajis but I'd *love* Google to step in and say "you could have that (rail). OR you could have this. (self-driving)".
+balajis	714218964096671745	2016-03-27T22:34:05	balajis Seattle is voting on a $50 billion, 40-year light rail plan. What would 50b investment in self-driving look like? No one here knows
+balajis	714220290234929152	2016-03-27T22:39:21	mims Agree. My quick answer: a good government makes the right tradeoffs for its citizens, with abuses checked by exit/emigration.
+balajis	714219113745293312	2016-03-27T22:34:40	benadida pmarca  
+balajis	714214673223057410	2016-03-27T22:17:02	Read the storm™️ 
+balajis	714216744873668608	2016-03-27T22:25:16	Building infrastructure in the US, especially innovative infrastructure, is impossible: a tweetstorm. 
+balajis	714217228120379394	2016-03-27T22:27:11	Why you can't get there, from here. 
+balajis	714217260210999297	2016-03-27T22:27:19	noUpside davealevine balajis I think Chariot will grow and grow. Using the Google Fiber model to seed routes. 
+balajis	714217613421719552	2016-03-27T22:28:43	16/ But if you're a technologist who wants to innovate in transportation, look at the links in this thread. And then start looking overseas.
+balajis	714216417202049024	2016-03-27T22:23:58	15/ If you're ideologically committed to the premise that USG can do no wrong, I don't hope to convince you. Keep doing what you're doing.
+balajis	714214420008673280	2016-03-27T22:16:01	14/ In summary: US laws blocking construction do exist, their effects are not always good, and they increase price of basic infrastructure.
+balajis	714213856038375424	2016-03-27T22:13:47	13/ Third, "moar roads" aren't even possible in the US. $787B meant nothing. Building fast &amp; cheap is illegal. 
+balajis	714213605302886400	2016-03-27T22:12:47	12/ That is: self-driving cars, ride-sharing, drone delivery, and hyperloops take cars *off* the roads. Like email reduced need for postmen.
+balajis	714213426654896129	2016-03-27T22:12:05	11/ Second, "moar roads" is to self-driving cars roughly what "moar postmen" is to email.
+balajis	714213137671532544	2016-03-27T22:10:56	10/ First, roads aren't innovation. The Interstate Highway was innovative in 1950. Not anymore. Every country has roads. Table stakes.
+balajis	714212683940147200	2016-03-27T22:09:07	9/ As for the non-sequitur of "moar ROADS", it's so dumb that it will require a few tweets to disassemble.
+balajis	714212489194438656	2016-03-27T22:08:21	8/ So that's why if you want to build a hyperloop, you go abroad. Exit the US and the West.  
+balajis	714211697158807552	2016-03-27T22:05:12	7/ If Obama + $787B can't build a bridge, how hard do you think it is to build a hyperloop?  
+balajis	714211155678355456	2016-03-27T22:03:03	asharppaul girlziplocked Oh, an arrogant white Westerner? Same difference. GTFO of my mentions.
+balajis	714210273582649344	2016-03-27T21:59:33	6/ Point: it's not the cost of raw material that is driving the high price of US infrastructure. It's the cost of antiquated US laws.
+balajis	714210084520210432	2016-03-27T21:58:48	5/ The less obvious result is that these laws push innovation in construction overseas. For example: 
+balajis	714209798409965568	2016-03-27T21:57:39	4/ The obvious consequence is to increase the price of building basic infrastructure to the point of infeasibility. 
+balajis	714209074271748096	2016-03-27T21:54:47	asharppaul girlziplocked Wait, wait, let me predict...two white American liberals are going to tell me we need to pay more respect to USG!
+balajis	714208773779300352	2016-03-27T21:53:35	3/ First, for specific laws hindering construction, this is a good overview.   
+balajis	714208341090652160	2016-03-27T21:51:52	2/ All four responses here:  For those of you who don't actually know what it takes to build in the US, keep reading.
+balajis	714207960675721217	2016-03-27T21:50:21	1/ Is innovation in infrastructure legally obstructed in the US? a) yeah, duh b) lol no c) yes, and that's a good thing d) MOAR ROADS
+balajis	714185475703967744	2016-03-27T20:21:00	.kimmaicutler pmarca In reality, regulatory obstacles block any significant building:  
+balajis	714180292605390848	2016-03-27T20:00:25	eean pmarca SAI No, you started with "lol what anti hyperloop laws". Different from "those laws are good idea". Just admit ignorance.
+balajis	714178348742627328	2016-03-27T19:52:41	eean pmarca SAI Gadzooks! A Sanders supporter in favor of private property? Wondrous. (And no, by no means the only regulatory barrier.)
+balajis	713984661014360064	2016-03-27T07:03:03	DARPA kicks off $2m Grand Challenge focused on intelligently splitting up radio spectrum 
+balajis	713891419388153856	2016-03-27T00:52:32	"I'm sorry we in the media elite didn't take down this candidate backed by people we don't know who don't trust us" 
+balajis	713894718417993728	2016-03-27T01:05:39	"One of the crucial aspects of virtue signalling is that it does not require actually doing anything virtuous." 
+balajis	713960702004715520	2016-03-27T05:27:50	But all this time I've been told that they're just toys for the rich... 
+balajis	713980867731857408	2016-03-27T06:47:58	1jrice pmarca DOT, EPA, FAA, zoning, right of way, medallion laws...the list is endless. A good start: 
+balajis	713979389160005632	2016-03-27T06:42:06	benadida pmarca Actually, legal self driving cars would indeed be the solution to an enormous number of infrastructure problems.
+balajis	713976635578384384	2016-03-27T06:31:09	eean pmarca Start here:  
+balajis	713955573952163840	2016-03-27T05:07:28	balajis do you know about caja? 
+balajis	713954262808563712	2016-03-27T05:02:15	legittalon Many recurring patterns here. See eg: 
+balajis	713954077281898496	2016-03-27T05:01:31	The tool should have a SAAS component to be kept up to date with the latest security issues and run automatically on your codebase.
+balajis	713953866367143937	2016-03-27T05:00:41	But this needs to be baked into a tool and distributed with a standard library. Like gofmt, but for security rather than formatting.
+balajis	713953603791114240	2016-03-27T04:59:38	The combination of parseable code and huge open source datasets of bug fixes gives raw material to build and test automatic bug finders.
+balajis	713953218686914560	2016-03-27T04:58:06	And we have billions of lines of open source code on GitHub, with revision histories linked to issues mentioning bug fixes.
+balajis	713953050642092032	2016-03-27T04:57:26	We already have years of research into dynamic and static checkers () for automatic bug finding.
+balajis	713952383747776512	2016-03-27T04:54:47	Wanted: a programming language that makes security a first class consideration. Automatically parse and warn of exploits at compile time.
+balajis	713949263466659842	2016-03-27T04:42:23	The $0 alternative? Liberalize the laws blocking ride-sharing, hyperloops, drone delivery, and self-driving cars. 
+balajis	713844368461991938	2007-08-08T16:31:12	Was considering blogging about it, but this seems more appropriate: I am an investor in Twitter!
+balajis	713799692178444288	2016-03-26T21:45:34	"Isochrone Driving Maps of the World"  
+balajis	649047919836930048	2016-03-26T18:48:03	"Big companies spend too much time in meetings trying to reach consensus, then the world just passes them" - pmarca 
+balajis	713627389327069184	2015-09-30T02:27:37	First they dismiss you, then they tie you up in litigation, then they say you are niche. Then you hurt their business 
+balajis	713626737028964352	2016-03-26T07:23:22	But to my knowledge there isn't a great $1B+ success story for Haskell (closest cousin of high perf/strongly typed is OCaml/Jane Street).
+balajis	713626260363018240	2016-03-26T07:20:47	Uber uses a lot of Node JS, so that works at scale (). And Go keeps gaining ground in new areas.
+balajis	713613144334020612	2016-03-26T07:18:53	Facebook does have some Haskell services, but there isn't a company that is to Haskell what Whatsapp is to Erlang. Need a standard bearer.
+balajis	713583498335023104	2016-03-26T06:26:46	GabrielG439 balajis I've heard differing descriptions of just how much Haskell is really used at Facebook. Would love to really know.
+balajis	713587429093933056	2016-03-26T04:28:58	santisiri balajis Hell they even predicted cat videos! sovereignindividual catfancier 
+balajis	713041922462523396	2016-03-26T04:44:35	Erlang: Whatsapp Rails/Scala: Twitter Python/Django: Instagram OCaml: Jane Street Capital Go: Google +  Haskell: ?
+balajis	713039188283768832	2016-03-24T16:36:56	21 I mentioned Ping21 in my written evidence to the UK parliament, as an example of how the internet is changing. 
+balajis	713566791692189700	2016-03-24T16:26:04	Just ordered my 21 Bitcoin Computer I feel like a kid before Christmas
+balajis	713433971351093248	2016-03-26T03:22:35	.21 Hackathon project gitmoneyco listed as the #1 Bitcoin / Ethereum project to watch    Built with BitGo / 21BC
+balajis	713553887093858304	2016-03-25T18:34:48	My tips on building great important companies, the quick read book - 
+balajis	713533461735321600	2016-03-26T02:31:18	cdixon A_Raj11 dwr pmarca Ringtones are an interesting example of idea maze. Arguably replaced by $0.99 apps as entertainment.
+balajis	713155759974907904	2016-03-26T01:10:08	well folks, direct recommendation from balajis.. next couple of months I'll be diving int…  
+balajis	713192465843486720	2016-03-25T00:09:17	This is really awesome: simulating the Internet  Improbableio
+balajis	713101376398630912	2016-03-25T02:35:08	In the next Terminator movie, Skynet  is finally defeated after it tweets something offensive and embarrasses its parent company
+balajis	712867067960098816	2016-03-24T05:02:08	"Recruiting the tech industry into government to solve some of the biggest problems." 
+balajis	712525041402003456	2016-03-23T06:23:02	Prediction: 21 Bitcoin Computer's evolution; experiment =&gt; toy =&gt; product =&gt; ubiquity =&gt; standard cc balajis 
+balajis	712456556168609792	2016-03-23T01:50:54	Meanwhile, I Just built an app prototype using the nytimes api and 21 using 402 end-points and bitcoin. 
+balajis	712469708230897664	2016-03-23T02:43:10	The Fed will probably just quantitatively ease the money into existence to pay back Bangladesh. 
+balajis	712445822881759232	2016-03-23T01:08:15	brettarussell 21 speakeasy21 BIGbtc Cool! Ping us if you need anything :)
+balajis	712203985378222080	2016-03-22T09:07:16	We're just gettin started! The 21 Bitcoin Computer Meetup speakeasy21 Mar21. Stay tuned 4 our next event BIGbtc 
+balajis	709005191916425216	2016-03-13T13:16:25	C1aranMurray ryanxcharles Additionally there is growing remittance and totally new use cases thanks to OpenBazaar and 21 Inc (micropmnts).
+balajis	708769915159912452	2016-03-12T21:41:30	Exciting current developments for the future of Bitcoin for both humans and machines via openbazaar and 21, respectively
+balajis	704907070320091136	2016-03-02T05:51:56	openbazaar is live on testnet. They &amp; 21 cd bring us truly decentralised commerce,which may profoundly affect way internet apps are built.
+balajis	712345000269352960	2016-03-22T18:27:37	Loving the startup course on coursera by balajis. found out about it on twitter three days ago, binge watching and coding ever since!
+balajis	711358498743787521	2016-03-20T01:07:37	glad TeleportInc and NomadList exist, makes my trip planning much easier
+balajis	712287392732827648	2016-03-22T14:38:42	I think the FDA would make us healthier if they stopped regulating wristwatches 
+balajis	712280016378273792	2016-03-22T14:09:24	balajis SO TRUE "Fitness likely to be the back door to medicine."
+balajis	712280212952625152	2016-03-22T14:10:10	Drixer Special Innovation Zones are already happening worldwide, inside the US and without: 
+balajis	712275525071282177	2016-03-22T13:51:33	LDrogen pierre_rochard AaronKlein Dunno, we'll see! I think core likely to have issues; Brexit, Trump, NIRP. Future is high variance.
+balajis	712273474924875776	2016-03-22T13:43:24	LDrogen pierre_rochard AaronKlein But would also increase number of sovereign states, opportunities for true exit and innovation.
+balajis	712273263125082112	2016-03-22T13:42:33	LDrogen pierre_rochard AaronKlein Reduction of US military power would likely have some bad consequences, like more Ukraines and ISISes.
+balajis	712272780557877248	2016-03-22T13:40:38	LDrogen pierre_rochard AaronKlein Complex topic, but main thing is that US right/left each has a different piece of the puzzle.
+balajis	712272073175932928	2016-03-22T13:37:50	LDrogen pierre_rochard AaronKlein Well, many in South Korea actually do want US troops out:   Shortsighted? Maybe.
+balajis	712271245392240641	2016-03-22T13:34:32	LDrogen pierre_rochard AaronKlein State is good cop, Pentagon bad cop. US regulatory state's global influence is due to US military.
+balajis	712270634517028864	2016-03-22T13:32:07	LDrogen pierre_rochard AaronKlein For example: NATO countries instructed to deny asylum to Snowden. China/Russia did not have to abide.
+balajis	712270455860625409	2016-03-22T13:31:24	LDrogen pierre_rochard AaronKlein Understand that point of view, but not shared by many occupied countries. Protection always has cost.
+balajis	712269485500018688	2016-03-22T13:27:33	whitemansaywhat 👍🏽Will RT any cool tech coming out of Baltimore.
+balajis	712269113704382464	2016-03-22T13:26:04	pierre_rochard rebeltrading1 Past contributions are undeniable. Today, however, many fundamental problems. Great nations rise and fall.
+balajis	712268646576357376	2016-03-22T13:24:13	pierre_rochard LDrogen Unstable system. Without constant pressure to expand, there may be a contraction, like implosion of Soviet empire.
+balajis	712268049735266304	2016-03-22T13:21:51	As to whether the US is an empire: there are 800 US military bases worldwide in 70 countries. 
+balajis	712265612051877888	2016-03-22T13:12:09	Trump could mean the end of American empire. What if that is (on net) bad for the US, but good for the world? 
+balajis	712109736359890944	2016-03-22T02:52:46	Dear Media: Castro Is Not "President" of Anything  | David Boaz  via feeonline
+balajis	712238387969855488	2016-03-22T11:23:59	Pound falls as 'Brexit' seen a step closer amid Brussels tragedy  via anoojad 
+balajis	712258236393529344	2016-03-22T12:42:51	JackGavigan 👍🏽
+balajis	712169478612787201	2016-03-22T06:50:09	Why smaller British companies are more inclined to back a Brexit vote  
+balajis	712256897483612160	2016-03-22T12:37:32	JackGavigan Anyway, we have different axioms. I for one am thankful that Western gov influence is declining so precipitously. Bye!
+balajis	712256450802753536	2016-03-22T12:35:45	JackGavigan Uber founders had to risk jail to bring us a better taxi ride () and won in the market.
+balajis	712255495256408064	2016-03-22T12:31:57	JackGavigan Blah blah unicorn. We don't want to be ruled by unelected American bureaucrats who can't be fired. And soon we won't be.
+balajis	712253414080684032	2016-03-22T12:23:41	balajis This is the problem with having the two big appstores being US based companies. Very easy for FDA to apply the pressure if needed.
+balajis	712255074559340544	2016-03-22T12:30:17	JackGavigan Your preference: pay more for a cabbie with the Knowledge. Others prefer Uber. Tech means you can't interdict others' choices.
+balajis	712254314228502528	2016-03-22T12:27:16	arikaleph soodoku derek_j_morris OpenAPS Key is a software based approach and new angle. Fitness likely to be the back door to medicine.
+balajis	712254146867437568	2016-03-22T12:26:36	arikaleph soodoku derek_j_morris OpenAPS Don't have to start in US. Can start outside in smaller market and island hop.
+balajis	712251574291013632	2016-03-22T12:16:22	The FDA really needs to get out of the way of providing consumers information about themselves. 
+balajis	712253077043032064	2016-03-22T12:22:21	JackGavigan In the same way, exit at the country level will show what alternative to the FDA/Big Pharma symbiote looks like. Buckle up :)
+balajis	712252592760311809	2016-03-22T12:20:25	JackGavigan You might argue Uber was bad for taxi cos and taxi regulators. Very hard to say bad for public. Safety rationale was a facade.
+balajis	712252060742209536	2016-03-22T12:18:18	JackGavigan Exit at city level within US showed that municipal taxi regs were *far* from Pareto-optimal. Essentially no downside to Uber.
+balajis	712251688065769472	2016-03-22T12:16:50	JackGavigan Without the exit that Uber/Lyft represent, no one would have believed taxi regulations were holding back a $100B industry.
+balajis	712251100565377025	2016-03-22T12:14:30	JackGavigan Sure. But in the absence of exit (= alternatives) we don't know what the right balance of Type I and II errors looks like.
+balajis	712250654673088512	2016-03-22T12:12:43	dpfrank07 JackGavigan Many ride sharing cos, only one global health regulator. Google "harmonization"; many countries defer to US.
+balajis	712249797961330688	2016-03-22T12:09:19	JackGavigan Not really. Only Plum Book positions are. Most of agency has career status and can't be fired. Google the "Douglas Factors".
+balajis	712249421627404288	2016-03-22T12:07:49	JackGavigan Yes. But just like Uber realtime driver ratings &gt; taxi medallion system, that better system will be tech-driven &amp; global.
+balajis	712243340612231168	2016-03-22T11:43:39	derek_j_morris balajis OpenAPS not sure why US market should dictate all innovation. Apple not thinking clearly.
+balajis	712247869785288705	2016-03-22T12:01:39	JackGavigan The bureaucrats at those agencies were not elected and cannot be fired. Your safety is their priority? Why trust implicitly?
+balajis	712247442423480320	2016-03-22T11:59:57	.JackGavigan For every 9/11, Enron, or Thalidomide the answer for 50 years has been more budget for USG agencies. Time for a new answer.
+balajis	712246492505853952	2016-03-22T11:56:11	JackGavigan Terrorists do exist and Theranos may not work. That doesn't mean we look to TSA/FDA helplessly as our savior.
+balajis	712245538637262848	2016-03-22T11:52:23	Some have already done so; here's Kobe Bryant exiting to Germany for a stem cell operation: 
+balajis	712245094670151682	2016-03-22T11:50:38	Why care about the FDA so much? Well, whether you want a new drug or to get to transhumanism they are the man to beat - or escape, via exit.
+balajis	712242732081623040	2016-03-22T11:41:14	carribeiro Agreed that there are many doctors like that, but still the most progressive part of doctors/insurers/regulators troika.
+balajis	712241009279832066	2016-03-22T11:34:24	balajis so much opportunity here beyond the FitBits. ECG, glucose, oximeter and SOFTWARE. Users who need it, forced to hack -&gt; OpenAPS
+balajis	712242049173495808	2016-03-22T11:38:31	bijans Noun, verb, 9/11 = TSA.  Noun, verb, Thalidomide = FDA.  Stoke fear, gain budget.  See Carpenter's book: 
+balajis	712241478802669569	2016-03-22T11:36:16	bijans But they're not a passive actor. Like TSA, more failure means more funding for FDA. Incentive to make things out to be catastrophes.
+balajis	712241188200275968	2016-03-22T11:35:06	New tech also allows far better regulation than FDA. Scan a drug barcode, get 1000 worldwide MD opinions and 1 million patient self reports.
+balajis	712239936032808960	2016-03-22T11:30:08	Investigative reporting on the FDA would find so much. The big bad pharma does exist, but is only half the story. FDA sets the incentives.
+balajis	712235639803154432	2016-03-22T11:13:03	Apple plainly stating that regulation hinders innovation. Does anyone study how to spot too much regulation? 
+balajis	712234776879456257	2016-03-22T11:09:38	Dallas Buyers Club was a good start, but it'll take a Snowden-level event to change public opinion enough for Apple to stand up to the FDA.
+balajis	712233572262813697	2016-03-22T11:04:50	Q: Why were the health monitoring features taken out of the Apple Watch? A: The FDA.  
+balajis	711964497167011840	2016-03-21T17:15:38	Here's a longer quote from Tim Cook's opening remarks at the AppleEvent  AppleEvent 
+balajis	711675555142184960	2016-03-20T22:07:29	JP Morgan: Roughly 65% of government bonds worldwide now yield less than 1%. 
+balajis	712068364428914689	2016-03-22T00:08:22	We are saddened by Andy Grove's passing. He made the impossible happen, time and again.  
+balajis	712043859400892416	2016-03-21T22:30:59	Florida Man Begins Patiently Waiting for Gawker’s Money to Arrive 
+balajis	712071802042757120	2016-03-22T00:22:01	Hogan jury bodyslams Gawker. Another $25M in punitive damages, including $10M for Nick Denton in personal liability! 
+balajis	710698595482079232	2016-03-18T05:25:23	More than half of the current crop of $1B+ companies founded by immigrants. Thank you WSJ for surfacing this data! 
+balajis	699466071116378113	2016-02-16T05:31:21	balajis got me thinking. Conditions for seed VC/incubators existed for a while but 2008 accelerated them. What gets a boost from 2016?
+balajis	711823075881263104	2016-03-21T07:53:40	balajis Ha, I'm just reading now a stackoverflow survey: "Who codes? More people in more places than ever before." 
+balajis	711815096066924544	2016-03-21T07:21:58	scottew semil I think that's one of the most important and under-appreciated aspects of social networks. Less social penalty for moving.
+balajis	711813686143246336	2016-03-21T07:16:22	The new measure of seriousness may not be whether you're ready to move to Silicon Valley, but how far you're willing to move away.
+balajis	711812834254938112	2016-03-21T07:12:59	This doesn't mean seed goes away any more than VC did. It just moves up the ecosystem one step. The new question is what you can do with $0.
+balajis	711812579069272064	2016-03-21T07:11:58	All these trends are pre-existing, but will become the mainstream of global technology over the next decade. Bootstrapping as the new seed.
+balajis	711812212713652226	2016-03-21T07:10:30	What rises from the crash of 2016? Bootstrapping, hacker houses, digital nomadism, digital currency, and developers of the developing world.
+balajis	711642537476399105	2016-03-20T19:56:17	The CTO of Uber escaped Vietnam on a refugee boat that was rejected by two countries and nearly sunk 
+balajis	711667762431561728	2016-03-20T21:36:31	Spotlight was more accurate than we realized. 
+balajis	711691181713829888	2016-03-20T23:09:34	balajis jgarzik Bootstrap for lower income americans. Lyft is achieving what governments can't.
+balajis	711576878188929024	2016-03-20T15:35:22	Doing balajis’s course ! Goldmine of content in here :)
+balajis	710601373646073856	2016-03-17T22:59:04	Update: we crossed 100M monthly uniques on Quora: 
+balajis	711307212409311233	2016-03-19T21:43:49	The gitmoneyco hackathon is tonight (6pm PST), contribute to some great ideas, and get paid in Bitcoin 21hackers 
+balajis	711316272508641280	2016-03-19T22:19:49	Do enough rides per week and get a free car. Interesting option for people starting with $0 resources. 
+balajis	708908003114688512	2016-03-13T06:50:13	I have not kept up with the extent to which Google's services have been rebuilt on AI.  
+balajis	710859741510012928	2016-03-18T16:05:44	I have never heard a journalist admit to this. David Brooks today.  Via brianstelter 
+balajis	710972390566563845	2016-03-18T23:33:21	First they came for Gawker. And I did not speak out. Because fuck Gawker.
+balajis	711040320247439360	2016-03-19T04:03:17	You know what would help prevent a whole lot of remote car hacking -- drum roll... -- strong encryption! 
+balajis	710969084259672064	2016-03-18T23:20:13	Initial hulkvsgawk verdict reaction from a Gawker source, seconded by a colleague: "This is much worse than anyone ever expected"
+balajis	711016587202076672	2016-03-19T02:28:59	Gawker's still on the hook for punitive damages, which could be up to 3X the initial damages. They're effed. 
+balajis	710117277698404353	2016-03-16T14:55:27	I'm joining RunaCapital ✍ 
+balajis	711049180056330240	2016-03-19T04:38:29	I've been playing with my new 21 bitcoin computer all night. So impressed with the entire experience. Bravo! balajis 21dotco
+balajis	710963080851804160	2016-03-18T22:56:22	Awarded against not only Gawker Media, but also Nick Denton and AJ Daulerio personally. Wow. 
+balajis	710963575859372032	2016-03-18T22:58:20	And punitive damages will be tacked on top of that $110 million hulkvsgawk
+balajis	710966674791354368	2016-03-18T23:10:39	Hulk Hogan just won his lawsuit against Gawker.  $115 million! RIPGawker 
+balajis	710923538161479680	2016-03-18T20:19:14	johnolilly qhardy mims avyfain rezendi :) A Trump win would also only accelerate exit from USG. 
+balajis	710917871010852864	2016-03-18T19:56:43	BlairReeves mims avyfain rezendi Just wait! Digital nomadism is already accelerating. &lt;40% of 1B cos in SV: 
+balajis	710917034041737216	2016-03-18T19:53:23	qhardy mims avyfain rezendi Agreed. Various hybrids will form between the "3 Leviathans" - god, state, network. 
+balajis	710916477902127104	2016-03-18T19:51:11	qhardy mims rezendi Yes. Military power is increasingly also a function of software quality, not sheer numbers. 
+balajis	710915703050637312	2016-03-18T19:48:06	BlairReeves mims avyfain rezendi There are many governments. Many choices. And most technologists are nonwhite and/or non-American.
+balajis	710914694341480448	2016-03-18T19:44:05	mims avyfain rezendi I do think it's funny that the same people who say war for oil is bad think attacking a co for taxes/tech is good :)
+balajis	710914336550563840	2016-03-18T19:42:40	mims avyfain rezendi Many armies exist. The more mobile you are, the more cloud-based your operation, the easier it is to strike a deal.
+balajis	710912768539381760	2016-03-18T19:36:26	mims avyfain rezendi Well, weapons systems are increasingly computerized, and the FBI needs Apple's expertise rather than vice versa.
+balajis	710912130820616192	2016-03-18T19:33:54	rezendi mims Facebook and Google login are arguably the passport of the Internet. Travel docs for many sites.
+balajis	710720562675339264	2016-03-18T06:52:41	Amazing picture of the future of tech vs politics by balajis 
+balajis	710073287259238400	2016-03-16T12:00:38	Is anyone executing a clear, consistent, scaled, long-range bitcoin strategy other than 21 and balajis? 
+balajis	710103853685866496	2016-03-16T14:02:06	Excited to see 21 move in this direction.  Related blog post on how bitcoin decentralized grids are powerful: 
+balajis	710125345660207104	2016-03-16T15:27:30	As 21 Inc. Launches its Ping21 Internet of Things concept, here's a look at some IOT market size projections: 
+balajis	710210324172038144	2016-03-16T21:05:11	Look out. Now 21 has proof-of-concept for a whole bitcoin computer grid.  rww iot tech 
+balajis	710715060717375488	2016-03-18T06:30:49	Foreign Policy's new cover story: "Silicon Valley's ultimate exit...may even be inevitable."  
+balajis	710667329542103040	2016-03-18T03:21:09	Resist. Refuse.  "If the government tries to compel testimony or action from these engineers, good luck with that.” 
+balajis	710658259112173568	2016-03-18T02:45:07	Mystery project gitmoneyco giving Bitcoin away for pull requests 
+balajis	710460517022760960	2016-03-17T13:39:21	Interesting post from the 21 team   on buying and selling pings. What?!?! I see you EliHaims
+balajis	710419580137517056	2016-03-17T10:56:41	This is an awesome Slack/Github integration.  
+balajis	710365550367510528	2016-03-17T07:21:59	.balajis's tweets and products have consistently the same effect on me: Mind Expansion. 
+balajis	710336937257623553	2016-03-17T05:28:17	Is there a more innovative company than 21 on the planet right now? What other ideas do they have up their sleeve? 
+balajis	710279158312669184	2016-03-17T01:38:42	A solid heuristic “However, mining is like a machine minimum wage…” — 21  
+balajis	710279686002094085	2016-03-17T01:40:48	Today's links: the usual mix of tech, econ, and random.  Featuring alex, benthompson, Noahpinion, 21 and more. 
+balajis	710222619811905538	2016-03-16T21:54:02	Very cool what 21 Inc is doing for webmasters with the newly announced Ping21  via BitcoinMagazine Nasdaq
+balajis	710218955068145667	2016-03-16T21:39:28	.21 Inc’s Bitcoin Vision Becomes Clearer With Announcement of Ping21  
+balajis	710215666322649088	2016-03-16T21:26:24	Awesome 21 customer service experience while working through hardware issues, just saying. balajis has org firing on all cylinders.
+balajis	710021987444375553	2016-03-16T08:36:48	21 Inc continues to develop interesting technologies. Now it's Ping21. Very cool little app.   Bitcoin innovation
+balajis	709973264773341184	2016-03-16T05:23:11	Look out. Now 21 has proof-of-concept for a whole bitcoin computer grid.  rww iot mjasay
+balajis	709760587455143936	2016-03-15T15:18:05	Work is extra fun today. 21 bitcoin 
+balajis	709929429275971584	2016-03-16T02:29:00	This is how you Internet of Things. 
+balajis	709975809080086529	2016-03-16T05:33:18	.21 speed of innovation &amp; iteration should excite anyone in the cryptocurrency industry. Shipping like if there is no tomorrow (ironic)
+balajis	710021117713338368	2016-03-16T08:33:20	rodin_en_colors leovonp Flipboard Maybe not :) 
+balajis	709934129572356096	2016-03-16T02:47:41	This will be great for Smart Grids RT balajis: You can now earn bitcoin to help others monitor uptime and latency 
+balajis	709930156937314306	2016-03-16T02:31:53	balajis even layperson like me (uninformed about bitcoin/blockchain) notes crazy speed of 21 dev, activity of community, scale of vision
+balajis	709865970836357120	2016-03-15T22:16:50	balajis Agreed w/ Reddit commenter, the copy on the README markdown is quality 👌🏻 Not many companies today try to champion their missions.
+balajis	709869426745724928	2016-03-15T22:30:34	Back in the days: best MOOC ever startup engineering balajis 
+balajis	709928340111491072	2016-03-16T02:24:40	21's next stage? A decentralized, bitcoin-incentivized grid. 
+balajis	709925305272504320	2016-03-16T02:12:37	Pay bitcoin to a grid of machines and have them do tasks, starting with ping. It's like map/reduce, but for bitcoin. 
+balajis	709924784654581760	2016-03-16T02:10:33	You can now earn bitcoin for helping others monitor uptime and latency.  
+balajis	709864567707316224	2016-03-15T22:11:16	The 21hackers are doing some awesome things with bitcoin computing:  Reddit post on the tech: 
+balajis	709788126042918912	2016-03-15T17:07:31	Who clicks on ads the most? The Deep South. And the least? Silicon Valley.   
+balajis	709723919842811904	2016-03-15T12:52:23	Technology is hyperdeflation. Enter an industry, automate it, drive prices to the floor, kill legacy incumbents. 
+balajis	709180591317585920	2016-03-14T00:53:23	Students at top colleges dodging law school; 41.6% drop from 2008-15, incl &gt;50% Stanford/Cornell. associatesmind: 
+balajis	709629026814533632	2016-03-15T06:35:18	"The problem is not the problem. The problem is your attitude about the problem" - Captain Jack Sparrow  
+balajis	709435473224015872	2016-03-14T17:46:12	Please help me crowdsource the earliest occurrence of the phrase "The Internet of Money". RT!  Reward is offered: 
+balajis	709611020927541248	2016-03-15T05:23:45	With Bitcoin, market formation gets reduced to a command line.
+balajis	708656603336200192	2016-03-12T14:11:15	 payments marketplace. This is pretty awesome! 
+balajis	708527754388611072	2016-03-12T05:39:15	A marketplace for APIs, made possible with Bitcoin micropayments just became an awesome reality. 
+balajis	708453234243989504	2016-03-12T00:43:08	This is pretty cool! Utilizing micropayments for API calls: 21 - The 21 Marketplace 
+balajis	709434973137313792	2016-03-14T17:44:12	“we will soon be adding support…to cover micropayments for all APIs” — 21  
+balajis	709490557056368645	2016-03-14T21:25:05	It's here. 21 bitcoin 
+balajis	709281852402454529	2016-03-14T07:35:46	Maybe, during the next wave, the most important users of web/mobile services will be machines -- not humans.
+balajis	709357400764096512	2016-03-14T12:35:58	Everyone has a right to free speech, even if I don't like what they're saying.  RT if you agree Report me to Twitter If you disagree
+balajis	709319288755134464	2016-03-14T10:04:31	Sci-hub.io's Elbakyan is to the academic publishing racket what Snowden was to the NSA or Assange to the State Dept. 
+balajis	709016382495657985	2016-03-13T14:00:53	Russia's Aaron Swartz is Alexandra Elbakyan and she's liberated the world's scientific papers 
+balajis	709303484319838208	2016-03-14T09:01:43	Good one line mnemonic: a forward proxy hides the identities of clients, while a reverse proxy hides the identities of servers.
+balajis	709109198999527424	2016-03-13T20:09:42	Imagine millions of RNN AI models with APIs to sample from.  Prediction on tap! 
+balajis	708200008902778880	2016-03-11T07:56:54	Bezos was mocked for Fire Phone flop. But he knows it was a controlled risk bet and if he gets just one right (like Echo) payoff is 1,000X.
+balajis	708199756191784962	2016-03-11T07:55:54	Echo's breakout success shows brilliance of AMZN controlled risk betting model. Bezos understands optionality payoff 
+balajis	708839107653464064	2016-03-13T02:16:27	Very cool application for Bitcoin and a great way for devs to make money from open APIs  
+balajis	708871652562444288	2016-03-13T04:25:46	thechaz Soon! :) Sign up at .
+balajis	708871561164378112	2016-03-13T04:25:25	SaxSF Depends on workload, but see: 
+balajis	708863442304696320	2016-03-13T03:53:09	Now feasible via , at least on the backend. 
+balajis	708641933804048384	2016-03-12T13:12:57	. 21’s Micropayments Marketplace. Buy/Sell APIs instantly w/out signup or credit card. 
+balajis	708777619844501504	2016-03-12T22:12:07	My mind just exploded. This makes so much sense. “The First Micropayments Marketplace” by 21 
+balajis	708784682633068544	2016-03-12T22:40:11	Well, it's certainly not a *boring* time to be alive:   
+balajis	708839165761159176	2016-03-13T02:16:41	Old: Machines do labor.  New: Machines do business.   Great work 21.    
+balajis	708721855381708800	2016-03-12T18:30:32	Sort of changes what it means to be a 'company' also. Could just be a single person who builds something, global customer base from day 1
+balajis	708721341130641408	2016-03-12T18:28:29	Awesome work from 21! I could see many dev tool companies launching payment channel first in future vs credit card 
+balajis	708673140306481153	2016-03-12T15:16:57	So cool.  
+balajis	708693679645585408	2016-03-12T16:38:34	The post micropayments Internet extends beyond instantly sharing information. 
+balajis	708743566541979648	2016-03-12T19:56:48	Maybe the most interesting application of Bitcoin I've seen. This has potential. 
+balajis	707210221756813312	2016-03-08T14:23:50	How Much of a Global Citizen are You? Get your city graph with TeleportInc freepeoplemove  
+balajis	708489093676568576	2016-03-12T03:05:37	Distributed version is only ~75% win rate against single machine version! Using distributed for match but single machine AG very strong also
+balajis	708488741275312128	2016-03-12T03:04:13	Our neural network training algorithms are more important to AlphaGo performance than the hardware it uses to play (see the Nature paper)
+balajis	708567021122772992	2016-03-12T08:15:17	AlphaGo won game 3 and the match! Historic moment. In complete awe of Lee Sedol’s incredible genius, and proud of the amazing AlphaGo team!
+balajis	708420245220790272	2016-03-11T22:32:02	.POTUS makes a concise, but strong and poignant case for Bitcoin. SXSW 
+balajis	708423124069576704	2016-03-11T22:43:29	"A Swiss bank-account in your pocket" POTUS unknowingly coined one of the very best marketing soundbite for Bitcoin I've heard in a while
+balajis	708438928911536128	2016-03-11T23:46:17	The business model for the bot economy of the future 🤖 
+balajis	708555515391913984	2016-03-12T07:29:33	aghoshal Coming very soon! This is just the initial platform launch. Any requests in particular?
+balajis	708545725894766592	2016-03-12T06:50:39	Wow, this is super fascinating. Could deconstruct/reconstruct how we all consume and interact with software. 
+balajis	708431969374212098	2016-03-11T23:18:38	Would love to see API companies like twilio and clearbit throw endpoints on here.
+balajis	707778301067067393	2016-03-10T04:01:11	Love our execution on long term goals! (multi-year timeframes) 
+balajis	708530152435621888	2016-03-12T05:48:46	Satoshi sized payments for hassle free API calls thanks to 21. Low barrier of entry for anyone to code &amp; get paid! 
+balajis	708532290608087040	2016-03-12T05:57:16	Coming soon: IoT meets Machine Learning  
+balajis	708542078305722369	2016-03-12T06:36:10	aghoshal yishan We actually have a cross-device free client coming: . But a 21 device makes certain things easier.
+balajis	708535680230490112	2016-03-12T06:10:44	This is genius. 
+balajis	708529795676577792	2016-03-12T05:47:21	melvinmt See  :)
+balajis	708529261519319040	2016-03-12T05:45:14	dharmeshkakadia _jdkanani 21 It's coming; go and preorder at !
+balajis	708528831607386112	2016-03-12T05:43:31	austinhill 21 Thanks, Austin. By the way,  looks great!
+balajis	708526738729373700	2016-03-12T05:35:12	This is bigger than most people realize. Congrats balajis and 21 team. 
+balajis	708521901501472769	2016-03-12T05:15:59	I cannot wait to build the first robot that takes bitcoin  
+balajis	708516655064879104	2016-03-12T04:55:08	In which balajis sets in motion the rise of the machines 
+balajis	708498059945050112	2016-03-12T03:41:15	The future of machine to machine payments is fascinating. A micropayments marketplace for your machines.Via balajis 
+balajis	708431422751637505	2016-03-11T23:16:27	Why limit yourself to the 'Turks' on M-Turk? Expand yr. horizons with micropayments via 21 
+balajis	708431802843717632	2016-03-11T23:17:58	I was literally just talking about Micro payments with MicroHQ. Plot twist. Micro on 21. 
+balajis	708472349058686976	2016-03-12T01:59:05	APIs w/o needing to register or talk to sales. Another step closer to economy --upgrade via balajis and 21dotco. 
+balajis	708471290634567681	2016-03-12T01:54:53	the always thoughtful balajis and team 21 went and did it again! moving bitcoin forward - 
+balajis	708472251872452608	2016-03-12T01:58:42	brianchoffman bitstein Thanks, Brian. Awesome job on launching openbazaar by the way! Bitcoin marketplaces of very different kinds.
+balajis	708470366281326592	2016-03-12T01:51:12	Did 21 just light the touch paper to the machine economy?  Bitcoin
+balajis	708441340632141824	2016-03-11T23:55:52	Super dope bitcoin use case from 21 -- pay per api call 
+balajis	708457602884050944	2016-03-12T01:00:29	I'm not a bitcoin evangelist, but this a game changer “The First Micropayments Marketplace” by 21 
+balajis	708464480171139073	2016-03-12T01:27:49	Digital currency, meet your digital marketplace.  This is huge. Great job, 21! 
+balajis	708406273654398977	2016-03-11T21:36:31	One of the coolest opensource ideas powered by 21. Work anywhere and get paid in bitcoin  
+balajis	708429828400095232	2016-03-11T23:10:07	“The First Micropayments Marketplace” by 21 very cool, bitcoin an obvious marketplace that Bitcoin now allows  
+balajis	708431456956129282	2016-03-11T23:16:36	huge step for the bitcoin world with the announcement of the 21 micropayments marketplace 
+balajis	708431716394766336	2016-03-11T23:17:37	👏 21, looks great! 
+balajis	708443907672170496	2016-03-12T00:06:04	It's easy to imagine that the app store for APIs will eventually do more business than the actual App Store. 21 
+balajis	708442418211729408	2016-03-12T00:00:09	Welp... here we go. 21 bitcoin 
+balajis	708453101867442176	2016-03-12T00:42:36	Seems like a significant development. 
+balajis	708457726716682240	2016-03-12T01:00:59	Here comes the disrupter of disruptions.  
+balajis	708458168557305856	2016-03-12T01:02:44	This sounds like it could open a lot of new doors...  Bitcoin micropayments 
+balajis	708460370030104576	2016-03-12T01:11:29	Disruptive early-stage tech lives and dies on use cases. Insanely well done, balajis and crew. APIbizmodel 
+balajis	708463441145634816	2016-03-12T01:23:41	That 21 computer sounded like a toy miner initially but this is interesting. micropayments 
+balajis	708438291259916288	2016-03-11T23:43:45	the future is here 
+balajis	708440838859173888	2016-03-11T23:53:52	21 - The 21 Marketplace  via balajis
+balajis	708439773849919488	2016-03-11T23:49:38	Smart invention, balajis 
+balajis	708429660246265856	2016-03-11T23:09:27	The First Micropayments Marketplace. 
+balajis	708430676341575681	2016-03-11T23:13:29	We've launched a micropayments marketplace at . It allows machines to earn and spend bitcoin. 
+balajis	707806601504227329	2016-03-10T05:53:38	Most voted-up comment on TechCrunch's article breaking news of Uber's Series A investment back in 2011: 
+balajis	707969805387599873	2016-03-10T16:42:09	VP of AWS &amp; Distinguished Engineer James Hamilton recaps a decade of innovation:  
+balajis	707878729498935296	2016-03-10T10:40:15	Feels like I've been down selling and it's really ,really time to Hulk Up,make that huge comeback and drop the biggest leg ever brother HH
+balajis	707921479753715712	2016-03-10T13:30:07	With Hulk Hogan's case, it's Gawker’s culture of reporting that's being put on trial.  
+balajis	708097764823932928	2016-03-11T01:10:37	At a time like this, we can all only pray that Hulk smash.  
+balajis	708040577405861889	2016-03-10T21:23:23	This is seriously the story of my life. 
+balajis	707947760268349440	2016-03-10T15:14:33	Fear not, Bitcoin! A new digital currency stimulus program is on the way. 
+balajis	707942994259869696	2016-03-10T14:55:37	Bill to impose jail time for denying access to encrypted data during a terrorist investigation is cleared in France: 
+balajis	707947095664144384	2016-03-10T15:11:55	"A 'startup' within the White House that...is increasingly addressing policy issues with private-sector solutions." 
+balajis	707887793620410368	2016-03-10T11:16:16	Similar trend happening in space. Forget US vs USSR, it's Bezos/Blue Origin vs Musk/SpaceX. Nation vs nation just becoming less of a driver.
+balajis	707887064826519553	2016-03-10T11:13:22	Humans are done in Go. The next grudge match should be Google's team vs Facebook's best.
+balajis	707532443541225472	2016-03-09T11:44:14	Condolences to Lee Se-dol on losing game one to AlphaGo. I hope he can recover, but the writing is on the wall: 
+balajis	707743481876357122	2016-03-10T01:42:49	"Echo is on a path to become Amazon’s next $1 billion business"  
+balajis	707761582579691521	2016-03-10T02:54:45	In the long run, Sanders beating Clinton narrowly in Michigan is much less important than Google beating Lee Se-Dol convincingly in Go.
+balajis	707658108915490816	2016-03-09T20:03:35	Planning to use my 21 Bitcoin computer to create a gitmoneyco server to pay people to help build BlockChannel. Gonna be SWEET
+balajis	707475368559546368	2016-03-09T07:57:26	Incredible moment for AI. Congrats to AlphaGo and Lee Sedol for a great game. More to come! 
+balajis	707294893522026496	2016-03-08T20:00:18	'offerup GMV = $14 bil this year. For context, 's GMV was $15 bil 8 years after its launch. 
+balajis	707336966413520896	2016-03-08T22:47:29	Ah, but many in the developing world understand tech better than the average Westerner. A big shift is coming. 
+balajis	706823370575368192	2016-03-07T12:46:38	People are finally voting to destroy the establishment.   
+balajis	706711238802173952	2016-03-07T05:21:04	"any prefix (partial download) of a compressed file can be used as a reasonable lossy encoding of the entire image" 
+balajis	707074593756807168	2016-03-08T05:24:54	Google is run by a technological elite, but it is nevertheless very popular. Popularity and populism are not the same thing.
+balajis	707072863094710273	2016-03-08T05:18:01	Decentralization doesn't mean an absence of leadership. It means a choice of many leaders.
+balajis	706982894330376192	2016-03-07T23:20:31	Hulk Hogan bankrupting Gawker would be the perfect Internet story. 
+balajis	706763218190888960	2016-03-07T08:47:36	Kindle: probably a better recreational app than Twitter.
+balajis	706688376699654148	2016-03-07T03:50:13	How many do you know? Top 25 apps in India.   Via Jana  
+balajis	693168600652251136	2016-01-29T20:27:27	Micro — Async HTTP microservices  
+balajis	706639505927745536	2016-03-07T00:36:01	- Writing a TCP/IP stack   C:   Python: 
+balajis	706638279282561024	2016-03-07T00:31:09	Some example writings of this mindset: - Minimum viable Blockchain  - Re-creating React 
+balajis	706369691485245440	2016-03-06T06:43:52	Timeline: The March to a Billion Users [Chart]  via Visualcap
+balajis	706374075640250368	2016-03-06T07:01:18	The only companies in possession of apps with more than one billion active users: Google, Facebook, and Microsoft. 
+balajis	705797321498341376	2016-03-04T16:49:29	I learned way too much about Docker over the last couple weeks so I figured I'd write a beginner friendly intro :)  
+balajis	705903772040560640	2016-03-04T23:52:28	WATCH: Is the West fragmenting? Prof Timothy Garton Ash, Timothy Snyder &amp; Anne Applebaum:  
+balajis	705400098965028864	2016-03-03T14:31:03	Google's Eric Schmidt Hired to Bring Silicon Valley to the Pentagon  EricCMack
+balajis	705782887174545408	2016-03-04T15:52:07	If you haven't seen BenLangmead's free bioinformatics teaching materials yet, they are pretty freakin awesome 
+balajis	705691461963001856	2016-03-04T09:48:50	wmorein BenedictEvans Not a solved problem by any means, but there are next gen prototypes which are more like glasses.
+balajis	705688880083705856	2016-03-04T09:38:34	wmorein BenedictEvans You'd also want a facial motion capture camera (like a higher resolution Kinect).
+balajis	686693614865416192	2016-01-11T23:38:10	“5 important Python Data Science advancements of 2015” by elgehelge  ProjectJupyter TensorFlo matplotlib PyData
+balajis	701811847465476097	2016-02-22T16:52:38	balajis thedroneboy shervin naively: the day we can compile the laws of the land is the day we are free from lawyers, loopholes.
+balajis	705682172103913473	2016-03-04T09:11:55	morganwarstler Right. With that said, EU/Euro crack up against US wishes will happen. Maybe not Brexit, but soon.
+balajis	705679710173339648	2016-03-04T09:02:08	morganwarstler Much longer than a tweet, but "everyone knew" Soviet finances were unsustainable. Then reality caught up, all at once.
+balajis	705678787648757760	2016-03-04T08:58:28	Many parallels between financially tottering Eastern Bloc/USSR of the 80s and EU/USA of the 2010s.
+balajis	702977473303191552	2016-02-25T22:04:24	Sanders Foreign Policy Adviser In 2015: Demise Of The American Empire Coming 
+balajis	705668881239527424	2016-03-04T08:19:06	BenedictEvans bartdenny sknthla We'll see. I think VR chambers with items like this may eat into business travel in long term.
+balajis	705667760919982080	2016-03-04T08:14:39	bartdenny BenedictEvans sknthla This: 
+balajis	705403757916528640	2016-03-03T14:45:36	Dear startups: These industries in red and yellow might be worth a look. Software hasn't eaten the whole world (yet) 
+balajis	705658565709594624	2016-03-04T07:38:07	ankitml BenedictEvans sknthla Yep. But (IMO) demanding specs + sensory deprivation + MMORPG audience means VR is sessile for a while.
+balajis	705657873787826176	2016-03-04T07:35:22	BenedictEvans sknthla Wouldn't use VR goggles in a public subway or on sidewalk. Would use at home, office, or in self-driving car.
+balajis	705657484380237825	2016-03-04T07:33:49	BenedictEvans sknthla Absolutely. My take though: VR occupies eyes and ears. To use, want to be in a familiar/safe/stationary location.
+balajis	705655952050008064	2016-03-04T07:27:44	BenedictEvans sknthla Right, but does VR start out mass market? Or does it start with MMORPG market and then expand from there?
+balajis	705654508722860032	2016-03-04T07:21:59	.sknthla BenedictEvans I think mobile AR might work. But mobile VR? VR is sessile - not mobile. Think VR gloves, 3D treadmills, etc.
+balajis	705535734548185088	2016-03-03T23:30:01	Employees at some companies will get an Apple Watch for just $25, but they must meet fitness goals 
+balajis	705644276261105664	2016-03-04T06:41:20	Interesting potential long term vulnerability for Apple. Perhaps more important to fix this than to scale watches. 
+balajis	703320157679165440	2016-02-26T20:46:07	Some excellent points from kastnerkyle about the differences between Theano and TensorFlow. Worth a read! 
+balajis	705483378221408256	2016-03-03T20:01:59	MikeIsaac nickwingfield readDanwrite Position then (and now): tech mostly on Apple's side. Glad to see your new/good NYT story on that!
+balajis	705483062264537088	2016-03-03T20:00:43	MikeIsaac nickwingfield readDanwrite Hm. Mike, wouldn't say this was "trashing" by any means: 
+balajis	705464661383053312	2016-03-03T18:47:36	Would love to see this done to summarize news coverage as well. NYT and WSJ alike both blanketed in red vs Trump. 
+balajis	705461804600668161	2016-03-03T18:36:15	Romney was once happy to take Trump's endorsement in 2012, and endorse him in turn. 
+balajis	705246889709469697	2016-03-03T04:22:16	Wait, so you're telling me journalists would try to swing an election? That's unpossible!  
+balajis	705092074471723008	2016-03-02T18:07:05	It will be interesting to see whether Slack eventually incorporates VR telepresence - would make it the complete bizcomms solution balajis
+balajis	705056849230479360	2016-03-02T15:47:06	Slack will soon start testing voice and video chat  
+balajis	704962797436690432	2016-03-02T09:33:23	"Easy choices, hard life. Hard choices, easy life." - Jerzy Gregorek (TheHappyBody)
+balajis	705067412702388225	2016-03-02T16:29:05	This is truly a realigning election. The primary political axis is shifting from North vs South to East vs West. 
+balajis	705066558792466432	2016-03-02T16:25:41	Trump wins in the east and loses out west. (Of course, 60% of the US population is east of the Mississippi.) 
+balajis	704912648501129217	2016-03-02T06:14:06	AmityShlaes naval no one hates “socialism equality for all” more, than former subjects of this theory. Speaking from my experience;)
+balajis	704878544200081408	2016-03-02T03:58:35	Interesting....Kasparov clarity on Sanders 
+balajis	704902584121872384	2016-03-02T05:34:07	Had a great time at the 21 meetup talking ReinProject, Chalices of Lightning, banking, and the inspirational 21BC! 
+balajis	704907981960450048	2016-03-02T05:55:34	Hopefully one of many bots we will soon see making it easier for individuals to fight low-grade government bullshit. 
+balajis	704842441459953664	2016-03-02T01:35:08	Brazil is now arresting Facebook execs because WhatsApp is encrypted.  
+balajis	704842803130535936	2016-03-02T01:36:34	BREAKING: Republican Party establishment.
+balajis	704824325216415744	2016-03-02T00:23:08	jshieber rabois See definitions below. 
+balajis	704807419151429632	2016-03-01T23:15:58	jshieber rabois Historically economic freedom appears to be a necessary (though not sufficient) condition for freedom of speech.
+balajis	704758720132067328	2016-03-01T20:02:27	Boom. 
+balajis	704798109474250752	2016-03-01T22:38:58	Legacy media can no longer control the outcome of a vote by "predicting" it. 
+balajis	704768341924139008	2016-03-01T20:40:41	Compliance as a service.  
+balajis	704574198685913088	2016-03-01T07:49:13	alexjacobson markpinc Probably :) Today we're unbundling into social networks/VR. Rebundling will be interesting! 
+balajis	704556802755547136	2016-03-01T06:40:06	alexjacobson markpinc People still believe in God, and people will still believe in .Gov. Just not as many people - and not as fervently.
+balajis	704497159484235776	2016-03-01T02:43:06	Ride-sharing + electric cars + self-driving + new in-car monitors + bulk negotiation of gas = tough times for entire legacy auto stack.
+balajis	704487224230985729	2016-03-01T02:03:37	Seems like autonomous eventually leads vertical integration all the way to the well or solar plant  
+balajis	704488780447612928	2016-03-01T02:09:48	dyett Uber/Lyft integrates Gasbuddy-like feature into app, adds recommended gas stations to driver-side routing. Extreme price sensitivity.
+balajis	704488379728039936	2016-03-01T02:08:13	If you combine this with where Tesla and other electric cars could be in ten years...the entire oil &amp; gas industry could take quite a hit.
+balajis	704487320712425472	2016-03-01T02:04:00	The aggregation of millions of individual drivers into a few scaled ride-sharing cos greatly increases leverage versus Exxon and Chevron.
+balajis	704485783189590016	2016-03-01T01:57:54	Ride sharing has interesting long-term effects on the gas market. Uber/Lyft can do bulk deals and route drivers to today's cheapest gas.
+balajis	704485167121829888	2016-03-01T01:55:27	BankXIII Keeping the doctor away :) What else would you put in the basket of goods? cc seikatsu
+balajis	704481727582867456	2016-03-01T01:41:47	kevinmarks Skilled workers voted with their feet. So many of these states became prisons; try leaving, get shot. 
+balajis	704477296212578304	2016-03-01T01:24:10	kevinmarks We/they fled. Mathematics and engineering are portable skills. Take all our possessions but not our minds.
+balajis	704476121362857984	2016-03-01T01:19:30	kevinmarks But yes, empirically, socialism as practiced in China, India, Russia etc was very hostile indeed to tech entrepreneurship.
+balajis	704475857826377728	2016-03-01T01:18:27	kevinmarks Startups do have aspects of both left (egalitarianism, defaults/nudges, rebellion) and right (capitalism, equity, sales).
+balajis	704326347578064896	2016-02-29T15:24:21	Here are some consequences of 'very negative' interest rates 
+balajis	702619959734595584	2016-02-24T22:23:47	Welcome martin_casado to a16z! I'm thrilled to be on your team. 
+balajis	703426872441511936	2016-02-27T03:50:10	helvetica "now unlock phones please"
+balajis	703425508894228480	2016-02-27T03:44:44	wow. that is a real paragraph  
+balajis	703678702681337856	2016-02-27T20:30:51	Drixer Yeah, but mobile is making us ever more mobile. Not just Uber and Airbnb, but see nomadlist.io and .
+balajis	703519835632742400	2016-02-27T09:59:34	AbeLolisted SuB8u Crocodile out of water. The cloud hasn't yet gotten the mobility it needs to have real leverage over the state. It will.
+balajis	703519076107194368	2016-02-27T09:56:33	You have your elections, and we have our search engines. Vote how you want, we will move where we like.
+balajis	703516489723195392	2016-02-27T09:46:16	ankscricholic The Sovereign Individual is extremely good. 
+balajis	703514805311655936	2016-02-27T09:39:34	But perhaps the most interesting question is what happens if the cloud itself starts taking (buying? building?) territory. For another time.
+balajis	703514173787885569	2016-02-27T09:37:04	We'll also see significant innovation in legislative regimes as other nations try to attract (pieces of) the global technology cloud.
+balajis	703512581613314048	2016-02-27T09:30:44	Singapore and Estonia are far along here. Already set up to start winning as domiciles for global technology (and corresponding tax base).
+balajis	703512170852536320	2016-02-27T09:29:06	The ultimate fate of the nation state in this scenario is to become a commodity provider of land, natural resources, and rule sets.
+balajis	703511552528240640	2016-02-27T09:26:39	In the long run, though, the increasing mobility of the global technology cloud will discipline the land. Too much demonization, we move.
+balajis	703511111258083328	2016-02-27T09:24:54	The cloud has leverage because it knows tech and can move between nations. The land has leverage because it has more guns and people.
+balajis	703510504845631489	2016-02-27T09:22:29	The land will want the cloud to pay taxes and help its security forces. The cloud will want the land to open immigration and cut regulation.
+balajis	703509764202852352	2016-02-27T09:19:33	But that'll be the primary political axis worldwide. Left vs right torn apart &amp; reassembled into the cloud vs the land.
+balajis	703507787565764608	2016-02-27T09:11:41	There will be some collaboration as well. Nationalists need tech to win elections. And tech needs (some) nation states to allow innovation.
+balajis	703505827487830017	2016-02-27T09:03:54	A full-throated, jealous defender of borders, language, and culture. Or a rootless cosmopolitan with a laptop, bent on callow disruption.
+balajis	703504600393867264	2016-02-27T08:59:01	Squint a few years out to visualize the complete marginalization of today's establishment. The future is nationalists vs technologists.
+balajis	703503245390446593	2016-02-27T08:53:38	These are two separate trends - the return of nationalism and the rise of technology. Opposed to DC consensus, and to each other.
+balajis	703501984893022208	2016-02-27T08:48:38	The postwar Bush/Clinton consensus is being ripped in two - the land below vs the cloud above. Nationalist socialism vs global technology.
+balajis	703500493247504384	2016-02-27T08:42:42	It's amusing to watch Trump blow up (disrupt?) the political establishment. But he is no fan of technology. 
+balajis	702914749282045953	2016-02-25T17:55:10	Democracy is great, because you can empower gov't to do unspeakable things and then take no responsibility for it.
+balajis	702565339289276416	2016-02-24T18:46:44	What is your definition of true freedom? There is no true freedom without economic freedom.
+balajis	703318965762654208	2016-02-26T20:41:23	alexjacobson I realize my acronym had dual meanings :) ML in sense of machine learning. But yes, both ML language family + Haskell awesome.
+balajis	703272605810192384	2016-02-26T17:37:10	Why is ML universally useful? Every domain has data structures. Recorded in rows and columns of databases. Subject to data analysis.
+balajis	703143993014509568	2016-02-26T09:06:06	rsg I should clarify: in context, I'm saying *technologists* themselves won't win (many) elections. But they will never lose in the market.
+balajis	703142268367011840	2016-02-26T08:59:15	Tech won't win elections, but that doesn't matter. Bureaucrats and those that influence them (journalists, profs) aren't elected either.
+balajis	703140251930271744	2016-02-26T08:51:14	Idiocracy as prophecy. We got this guy who can code. Got a higher IQ than any man alive. He's gonna fix everything! 
+balajis	703137698836426752	2016-02-26T08:41:05	FBI needs help from Apple.  needed YC/Googlers. Every politician needs FB/Twitter. Dependency will only rise.
+balajis	703136831458529280	2016-02-26T08:37:38	? Just the start. Every USG project will have a software component. USG will fail. It will then ask tech for help.
+balajis	703135680679948289	2016-02-26T08:33:04	The imported technologist is a different kind of bureaucrat entirely from the typical flavor. DC will become completely reliant upon them.
+balajis	703134770973179904	2016-02-26T08:29:27	Our future: ever more Idiocratic elected officials, who are completely reliant on appointed technologists to actually run the government.
+balajis	703134202036785154	2016-02-26T08:27:12	The vast majority of the federal government is not actually elected, but is appointed or subject to career tenure: 
+balajis	703133066412167168	2016-02-26T08:22:41	In parallel, smart tech folks are taking over DC (). But not elected positions - appointed ones. Smart, remember?
+balajis	703132430442504192	2016-02-26T08:20:09	Part of the reason: we've drained so much IQ out of DC over the last few years. All the smart politicos are leaving for tech, like Plouffe.
+balajis	703130809306259461	2016-02-26T08:13:43	Could not stop laughing through this debate. Cartoon characters. Genuinely entertaining. 
+balajis	703025470015565824	2016-02-26T01:15:08	That is, a global empire (US/USSR) saw its largest vassal state (UK/GDR) break away from its bloc of (Western/Eastern) European satellites.
+balajis	703024422622355456	2016-02-26T01:10:58	30 years ago UK : East Germany USA : USSR EU : Eastern Bloc Stop immigration : Allow emigration Brexit : Berlin Wall 
+balajis	703010264254275585	2016-02-26T00:14:42	The reason to do a startup is to prove them wrong. 
+balajis	702969572350103552	2016-02-25T21:33:01	We're in Telefonica HackForGood. Time to code Blockchain Apps to change the world with our 21 computer. /balajis 
+balajis	702882010562428928	2016-02-25T15:45:04	Ended up getting a 21 computer, packaging so damn slick! Gonna mess with this over the weekend 💯 
+balajis	702923247524818944	2016-02-25T18:28:56	infofarmer Hi Andrew, good point re: Russia. Can you submit your email at  and we'll be in touch when available?
+balajis	702818106058518528	2016-02-25T11:31:08	Probably true.   
+balajis	702807895788752896	2016-02-25T10:50:34	96% of the world can't vote in a US election, but everyone can earn a US dollar. The democracy of capitalism.
+balajis	702793905792626688	2016-02-25T09:54:59	The 21 Bitcoin Computer is now available in 34 countries - and all of Europe. 
+balajis	702544348496449536	2016-02-24T17:23:19	Its finally here!! bitcoin canada Thanks 21
+balajis	701985721020645376	2016-02-23T04:23:32	First 21 bitcoin meetup next Tuesday 3/1 in SF at 11th and Market...beyond excited for this. Space is limited! 
+balajis	701866036115574784	2016-02-22T20:27:57	Under 15 minutes from sealed box to updated 21 - Now lets JOIN 21MARKET bitcoin 21bitcoincomputer M2M 
+balajis	700902119352586241	2016-02-20T04:37:42	Currently going through this bitcoin tutorial on the 21 computer. So. Damn. COOL. 
+balajis	702719964562608129	2016-02-25T05:01:10	And, of course, software is eating the world. Which is why the Network is the next Leviathan.
+balajis	702719784920567808	2016-02-25T05:00:27	"It is generally accepted that Silicon Valley’s tech giants can outgun the government in a technical fight" 
+balajis	702576496133550080	2016-02-24T19:31:04	Forget the "tech bubble". It's the MSM influence over elections that is getting permanently marked down to zero. 
+balajis	702296723826171904	2016-02-24T00:59:21	The Latest Generation Atlas Humanoid Robot Is Absolutely Incredible  by grg
+balajis	702359079977664512	2016-02-24T05:07:08	Presidential race summed up perfectly  
+balajis	701740983206223877	2016-02-22T12:11:02	Does it violate federal export law if a website publishes CAD files of firearms?  by cfarivar
+balajis	701829144879837184	2016-02-22T18:01:22	Hate online ads? This week we chat about monetizing the previously unmonetizable. PopChest + 21 Computer - balajis
+balajis	701422955058728961	2016-02-21T15:07:18	What's Next In Computing? 
+balajis	701518122797301760	2016-02-21T21:25:28	RISC for languages. I wonder if something like this will organically arise out of meme culture. A grammar of gifs. 
+balajis	698237472992595968	2016-02-12T20:09:20	More signal that the world will continue to get smaller and more unified. "The Language Barrier Is About to Fall" ?
+balajis	701329310305513472	2016-02-21T08:55:12	Trump has billions (doesn't need NYT-reading donors) and his followers don't care for NYT. Or Fox, for that matter. Just his direct feed.
+balajis	701328392411459584	2016-02-21T08:51:33	If a candidate's social network reads and respects the Times, the Times has power over that candidate. And if not? No power. Hence Trump.
+balajis	701286841677430785	2016-02-21T06:06:26	balajis Another benefit of renote driver is one more passenger seat in car
+balajis	701286837017382913	2016-02-21T06:06:25	Commercial application of VR headset: piloting remote vehicles?  
+balajis	701286099310637057	2016-02-21T06:03:29	The big win for remote car piloting? The regulatory angle. Uber could hire military vet UAV pilots who already did this for the government!
+balajis	701285047433736192	2016-02-21T05:59:19	nist jtwald No, but after about ~30 cars in a city I understand you get to 3-5 minute arrival times and face diminishing marginal returns.
+balajis	701284627906826240	2016-02-21T05:57:39	Benefits of remotely piloted cars: - 3 remote drivers for 1 car in 8 hour shifts - Over time, &gt;1 car per driver - Already works for UAVs
+balajis	701284074334228480	2016-02-21T05:55:27	.tsport100 Because same car (or more than 1) can now be supervised by 3 different people doing 8 hour shifts. Same tech as UAV piloting.
+balajis	701283286102835200	2016-02-21T05:52:19	JJChai Hm. I think the opposite, actually. Autonomous cars are probably better managed by private, overlapping networks than public sector.
+balajis	701282942518054912	2016-02-21T05:50:57	A (perhaps obvious) thought: what about remotely piloted cars as an intermediate between Ubers and self-driving cars? Like drone pilots.
+balajis	701279753282584576	2016-02-21T05:38:16	Singapore may be one of the best places in the world for Uber to pilot driverless cars: 
+balajis	701279496100446210	2016-02-21T05:37:15	Perhaps the most important thing Uber could do given its global reach: find a city somewhere to be that early testbed for self-driving cars.
+balajis	701279005220048897	2016-02-21T05:35:18	.nist jtwald The key cost is the regulatory licenses. It'll be more than $1M for sure. But I think closer to that than $100M.
+balajis	701278562930679808	2016-02-21T05:33:33	smenor jtwald Agreed. Though most cars (not Teslas) closer to $10k than $100k. Would have to add in extra cost of self-driving ability.
+balajis	701274029781430273	2016-02-21T05:15:32	The interesting observation here: the barrier to entry on a city-by-city level for (say) Tesla to compete with Uber may not be that high.
+balajis	701273739892117504	2016-02-21T05:14:23	"With…just a million dollars for a hundred [self-driving] cars, any car company could challenge Uber in [SF]." 
+balajis	701171570505547776	2016-02-20T22:28:24	.samsung digital trucks show drivers the traffic ahead 
+balajis	700823881934737408	2016-02-19T23:26:48	Snowden FBI So it's possible the FBI isn't telling the truth in an effort to gain heightened surveillance powers.
+balajis	700823383961792512	2016-02-19T23:24:50	Journalists: Crucial details in the FBI v. Apple case are being obscured by officials. Skepticism here is fair: 
+balajis	699813026468265988	2016-02-17T04:30:02	Define "cheap". 4" screen, 1GB RAM,8GB exp. storage,3.2MP cam, VGA front cam, 3G, Android 5.1. Price Rs.251 (~$3.7). 
+balajis	700346696073666560	2016-02-18T15:50:38	The way I’d put this: Technology is disintermediating everything. Why should politics be different? 
+balajis	700844640199712772	2016-02-20T00:49:17	"Slack App Store could be as seminal a development as the Apple and Google App stores were for mobile applications." 
+balajis	700457149227360256	2016-02-18T23:09:32	We stand with tim_cook and Apple (and thank him for his leadership)! 
+balajis	700777658691354625	2016-02-19T20:23:08	Great talk by balajis! Impressed he was lecturing on this back in 2013! 
+balajis	677367186332082176	2015-12-17T05:58:16	FB Msgr+Uber = WeChat+Didi, albeit 2 years later. Trojan horse of a free ride in return for payment credentials. ChinaPredictingTheFuture
+balajis	700471452768669698	2016-02-19T00:06:23	Mindsets for Thinking about Innovation In – &amp; Competition from – China  Anthr piece from brilliant &amp; wise conniechan
+balajis	700546102538272769	2016-02-19T05:03:01	catlin201 matthew_d_green TSA:  NSA: 
+balajis	700544089511464960	2016-02-19T04:55:01	catlin201 matthew_d_green A good start would be ending all the unlawful searches done by TSA and NSA.
+balajis	699969626936057856	2016-02-17T14:52:18	If the US government dictating iPhone encryption design sounds ok to you, ask yourself how you'll feel when China demands the same.
+balajis	700537467875667968	2016-02-19T04:28:42	dozba Of course, reputation services will also arise, so there will be second order effects to things like that. Pretty interesting.
+balajis	700533461334024192	2016-02-19T04:12:47	ALL of this, on how Apple vs FBI impacts China, vanished from story w/ no note. By no stretch is this not unusual. 
+balajis	700519233130639361	2016-02-19T03:16:14	PixelMetal readDanwrite I actually think MikeIsaac nickwingfield are usually good, but this headline didn't reflect tech sentiment.
+balajis	700517527256870912	2016-02-19T03:09:28	Yahoo's readDanwrite is outreporting NYT's normally strong MikeIsaac/ nickwingfield here:  
+balajis	700510736074715136	2016-02-19T02:42:28	He who votes decides nothing. He who writes the headlines decides everything. 
+balajis	700462549876219904	2016-02-18T23:31:00	Bought 21 Bitcoin Computer. Excited to learn how to run a full node client &amp; run command line apps balajis 
+balajis	700395944970420224	2016-02-18T19:06:20	Umm, nytimes has removed this entire section, about China, from its story about Apple vs FBI. Is this not strange? 
+balajis	700250677017088000	2016-02-18T09:29:06	Google, WhatsApp and Snowden back Apple against FBI 
+balajis	700252537010520064	2016-02-18T09:36:29	I don't know if helicopter money will help the US economy. But I am pretty sure it will help the Bitcoin economy. 
+balajis	700251316715532288	2016-02-18T09:31:38	NIRP is not enough - now we need to "prepare for helicopter money". Next 18 months will be incredible for Bitcoin. 
+balajis	700012858692620292	2016-02-17T17:44:05	No more copy and pasting: search for and add gifs right from the Tweetbox! 
+balajis	700237221803094016	2016-02-18T08:35:38	The mainstream media lead to mediated democracy. Social media means direct democracy. (Which is, historically, an unstable state.)
+balajis	700187402258632705	2016-02-18T05:17:40	This set up the current catastrophe for the parties. They no longer control any essential resource, and can no longer censor wedge issues.
+balajis	700187260596006912	2016-02-18T05:17:06	Reaching &amp; persuading even a fraction of the electorate used to be so daunting that only two national orgs could do it. Now dozens can.
+balajis	700182035407572994	2016-02-18T04:56:20	Social media is breaking the political 'Overton Window' -- the ability of elites to determine the outside edges of acceptable conversation.
+balajis	700181993695289344	2016-02-18T04:56:10	I started writing about both parties becoming host bodies for 3rd party candidates. Instead of an essay, it turned into 50 tweets. Here goes
+balajis	700104433183502336	2016-02-17T23:47:58	4/5 But that’s wholly different than requiring companies to enable hacking of customer devices &amp; data. Could be a troubling precedent
+balajis	700104298600886272	2016-02-17T23:47:26	1/5 Important post by tim_cook. Forcing companies to enable hacking could compromise users’ privacy
+balajis	700156370100711424	2016-02-18T03:14:21	rabois I might not, but millions of Apple's Chinese customers might. That would be Apple's problem.
+balajis	700154626046169088	2016-02-18T03:07:25	anseljh To be clear - "they" referred to the iPhone buyers, who mostly aren't Americans and aren't under US jurisdiction.
+balajis	700143411832094722	2016-02-18T02:22:52	The idea of jurisdictional nexus is vague and thus allows much overreaching to occur. 
+balajis	700153184757501952	2016-02-18T03:01:42	rabois Maybe China only allows the Chinese to buy Xiaomi or a modified non-Google Android. Fallout hard to predict.
+balajis	700136094839353345	2016-02-18T01:53:47	balajis as Steve might say, then don't buy an iPhone.
+balajis	700129462407536640	2016-02-18T01:27:26	balajis there's a great saying in English law. "If Parliament decrees it's illegal to smoke on the streets of Paris, it's illegal."
+balajis	700129238465298433	2016-02-18T01:26:32	balajis Apple sells more phones in China than US. Should Apple comply if China gov makes a similar request?
+balajis	700136462520455169	2016-02-18T01:55:15	.rabois Precisely! Which is why Apple has to resist this as otherwise their global sales are imperiled (to mostly non-American customers).
+balajis	700135960835547137	2016-02-18T01:53:15	.rabois To clarify: Apple is subject by virtue of being located in US, but foreign customers would not want FBI ordering Apple like this.
+balajis	700127922477109248	2016-02-18T01:21:19	The FBI's request thus has global implications; among them, whether Apple's foreign customers are subjected to US surveillance.
+balajis	700126743634399232	2016-02-18T01:16:38	For historical reasons Apple is located on US soil, but most of its customers are no longer American. Are they subject to US jurisdiction?
+balajis	700071552683880448	2016-02-17T21:37:19	Encryption is ultimately about sovereignty. International technology vs the nation state - the cloud vs the land. 
+balajis	700053065131384833	2016-02-17T20:23:51	.alexqgb Sanders said he wouldn't pardon Snowden (). Have a feeling he may ultimately side with USG here.
+balajis	700046892957216768	2016-02-17T19:59:20	balajis You were right about Trump. Authoritarian to the hilt. 
+balajis	700046846694019072	2016-02-17T19:59:09	staphwriter craig_montuori Right. Trump is happy to use eminent domain, for example. He talks about a wall, not smaller government.
+balajis	700044013810819072	2016-02-17T19:47:53	Trump likely to support FBI over Apple. Sanders less obvious, but backing .com over .gov would be atypical for him. 
+balajis	699984388067557376	2016-02-17T15:50:57	The FBI is creating a world where citizens rely on Apple to defend their rights, rather than the other way around. 
+balajis	699826931274010624	2016-02-17T05:25:17	Sometimes it seem like people bash anonymity because they're frustrated they can't get the person they're arguing w/ in trouble at their job
+balajis	699447292944711681	2016-02-16T04:16:44	Finally! Going to order one right away: “21: The Bitcoin Computer is now shipping to Canada: ”
+balajis	699531989913878528	2016-02-16T09:53:17	OP_CHECKSEQUENCEVERIFY (mempool) has been merged to Bitcoin Core  orionwl petertoddbtc MarkFriedenbach
+balajis	692131071933181953	2016-01-26T23:44:41	We launched Coinbase Exchange 1 year ago today.   There's been over $1B of BTC traded on the exchange since and we're just getting started 🚀
+balajis	699542593437237248	2016-02-16T10:35:25	VirgileDeville 21 Very soon. Please go to  and preorder to be in line!
+balajis	699484764823166976	2016-02-16T06:45:38	"Negative deposit rates…encourage the rise of virtual currencies"  
+balajis	699482317006336000	2016-02-16T06:35:54	ZIRP was the incentive for unprecedented investment into startups.  NIRP will be the incentive for unprecedented exit of the system.
+balajis	699481986004418561	2016-02-16T06:34:35	Bootstrapping becomes productized. Capital efficiency goes up another 10-100X. The developing world startup. 
+balajis	698203466506743808	2016-02-12T17:54:13	Slack launched two years ago this hour.
+balajis	699425797447135232	2016-02-16T02:51:19	marvinvista I think the replacement will be as different from HN as HN was from Slashdot. It'll become obvious in retrospect.
+balajis	699420508190707714	2016-02-16T02:30:18	Remarkable how bad HN has gotten. Has totally lost shared purpose &amp; esprit d'corps from when it was Startup News. Moderation can't fix.
+balajis	699418897447936000	2016-02-16T02:23:54	The inverse of an early adopter is an early rejecter. Natural habitat? Hater News. Rushes to the front of any event to throw tomatoes.
+balajis	699408432894316544	2016-02-16T01:42:19	Also: 21 is friendly with tdryja and we think the Lightning Network is great! Our implementation is complementary, not competitive. ⚡️🔜
+balajis	699406909883834368	2016-02-16T01:36:16	And we'll be releasing code to make Bitcoin micropayments over HTTP work on any device soon. For early access: .
+balajis	699405994023989249	2016-02-16T01:32:37	To play around with Bitcoin micropayments over HTTP today, get a Bitcoin Computer at .
+balajis	699405269378306049	2016-02-16T01:29:45	We've made it easy to do Bitcoin micropayments over HTTP, with just one line of code on the server side. Learn more: 
+balajis	699301147769581568	2016-02-15T18:36:00	The Bitcoin Computer is now shipping to Canada: 
+balajis	698903667492032517	2016-02-14T16:16:33	
+balajis	698550186503753728	2016-02-13T16:51:57	Said it before, saying it again.   
+balajis	698604104168448001	2016-02-13T20:26:12	Payment channels allowing for off-chain trustless nanopayments released for 21dotco API. A CLTV implementation: 
+balajis	698688770078420992	2016-02-14T02:02:38	I'm for Sri Srinivasan to replace Scalia for one very strong reason : I want to see mainstream media have to pronounce "Sri" regularly.
+balajis	698865635313520641	2016-02-14T13:45:26	Every startup should do help documentation as well as 21co .  They've raised the bar. balajis 
+balajis	698846484175941632	2016-02-14T12:29:20	Congratulations balajis the more we use our 21 Bitcoin computers, the more we realize it is great to build &amp; teach 
+balajis	698584013737295872	2016-02-13T19:06:22	Micropayment and grid computing APIs. Wonder what would happen if you added BitTorrent…🤔
+balajis	697420056506970116	2016-02-10T14:01:13	Our new competitors are, well, a bit fast.  
+balajis	698530744897900544	2016-02-13T15:34:42	Micropayments  and grid computing  with bitcoin. Super cool balajis !
+balajis	698550303474319360	2016-02-13T16:52:25	This is awesome! True Micropayments with Bitcoin by 21  syassami ndrego vsergeev tylerj harding balajis
+balajis	698375631470395392	2016-02-13T05:18:20	"True Micropayments with Bitcoin" via 21   Good analogy-- payment channel : bar tab 
+balajis	698385154872479744	2016-02-13T05:56:10	“True Micropayments with Bitcoin” by 21 
+balajis	698362795188838400	2016-02-13T04:27:19	21 on the future of micropayments 
+balajis	698370412871155712	2016-02-13T04:57:36	Awesome bitcoin micropayments announcement from 21. Many potential use-cases. Well done!  
+balajis	698401114627174400	2016-02-13T06:59:36	21 micropayment channels look sick. Now we need lightning network. Give it to us starkness tdryja and Joseph
+balajis	698353155344506880	2016-02-13T03:49:01	Last century, this was done by centralized regulators and expert panels.  This century, it's distributed reviews and realtime star ratings.
+balajis	698352955905277952	2016-02-13T03:48:14	This is why a recurrent configuration is a trusted marketplace reviewer. Each buyer just trusts a reviewer instead of paying review costs.
+balajis	698318591846776832	2016-02-13T01:31:41	Another way to look at it.. Platform share in the enterprise computing era vs. the consumer era. 
+balajis	698264936057679872	2016-02-12T21:58:28	Trust reduces transaction costs. But establishing trust in the first place costs time - and is itself a kind of transaction cost.
+balajis	698071914959364096	2016-02-12T09:11:28	4/ What comes out of the next trough? Pre-existing trends that gain new energy, fitted for the moment. Bitcoin will be a big part of that.
+balajis	698070522920177664	2016-02-12T09:05:56	3/ After Snowden, , Ukraine, ISIS, refugees...evidence that bailouts/QE didn't work (as many predicted) would be bad.
+balajis	698069474549714944	2016-02-12T09:01:46	2/ But the next trough is different. Tech will take its lumps, but the biggest damage may be done to Western government legitimacy.
+balajis	698064504232374272	2016-02-12T08:42:01	1/ What roared out of the trough of 2008? Pre-existing stuff (YC, angel investing, social media) moved from growing niche to mainstream.
+balajis	698062903534989312	2016-02-12T08:35:40	Bitcoin is just numbers. No numbers? No one can help you. Know the numbers? No one can stop you.
+balajis	697895355518595072	2016-02-11T21:29:53	Probably one of the best startup strategies is to work on things in the trough of the Gartner Hype Cycle.
+balajis	697608519726579713	2016-02-11T02:30:06	The IRS Says Identity Thieves Hacked Its Systems Again - Yahoo Finance 
+balajis	697577605319389184	2016-02-11T00:27:16	balajis pmarca not to mention that this is like the most lucid and terse intro to india's political economy one could hope for!
+balajis	697510534581788672	2016-02-10T20:00:45	John Spindler tried out Teleport Runway and discussed if it's worth paying more to build a tech startup in London 
+balajis	697559024020037632	2016-02-10T23:13:26	Teleport Runway: a search engine to maximize your startup's runway.  
+balajis	697532985843671040	2016-02-10T21:29:58	balajis the code in my head always works flawlessly
+balajis	697532909037686786	2016-02-10T21:29:39	balajis a subset of the grass is always greener my friend
+balajis	697532859628724224	2016-02-10T21:29:27	The code someone else has written never works as well as the code you can write ;) 
+balajis	697532434686939136	2016-02-10T21:27:46	The code you haven't written yet always works better than the code you already have.
+balajis	697503010381926400	2016-02-10T19:30:51	_mekin pmarca Yeah, I fully get why Indian startup guys were up in arms. Let's figure out another way to get access.
+balajis	697500520974458880	2016-02-10T19:20:57	pranavghode pratik_shah pmarca  It can arguably be *perceived* as reaction against global trade vs a progressive net neutrality argument.
+balajis	697499078112866304	2016-02-10T19:15:13	pranavghode Late 1700s, independence from UK led to US capitalism. But mid 1900s, often led to Fabian socialism. Atmosphere at time.
+balajis	697362985048805376	2016-02-10T10:14:26	14 point tweet storm by balajis on pmarca tweet. Most mature stance I've seen. Read this guys (1/2) 
+balajis	697494379070500864	2016-02-10T18:56:33	Pran50089812 I didn't say FB was good. I actually agree that it can feel a little too cozy a deal.
+balajis	697384434106937344	2016-02-10T11:39:40	balajis pmarca a great summary Balaji .Pls chk ' India Unbound ' by Gurcharan Das a well written readable economic story of post Indep Ind
+balajis	697381465508675585	2016-02-10T11:27:52	DoubleEph I am amazed at the reaction to balajis's tweets from across the board. There's like a chorus of "That's us!" from everyone.
+balajis	697381233911697408	2016-02-10T11:26:57	DoubleEph Would love to hear that story! Any links?
+balajis	697381076973400064	2016-02-10T11:26:20	kanchankumar I think on balance it has pushed the conversation forward. Ok, not 0 rating. Leave it. How to get the next 100 mil online?
+balajis	697380740414050305	2016-02-10T11:24:59	kanchankumar Well, one could definitely see it as social entrepreneurship. And you can conversely see it as sweetheart distribution deal!
+balajis	697380012509388800	2016-02-10T11:22:06	balajis As someone who loves India &amp; pmarca equally, this perspective might help! | Peace Between All Rationalists 
+balajis	697376791762071553	2016-02-10T11:09:18	rajathkedi Yeah, the FB thing definitely has some strings attached. May be another way to do it with better alignment.
+balajis	697375494207987712	2016-02-10T11:04:09	r0h1n kingslyj Yeah, I was bringing that up not so much in re: FB but in re: why someone would associate anti-colonialism with socialism.
+balajis	697375156990144512	2016-02-10T11:02:48	docolumide chubaoyolu asemota Nigerian diaspora needs only brain, laptop. Don't need to solve infrastructure or govt issues right away.
+balajis	697374850969632768	2016-02-10T11:01:35	docolumide chubaoyolu asemota Ah. Well, very hard to build good tech co. Not a small feat. But small relative to solving infrastructure.
+balajis	697370901969502209	2016-02-10T10:45:54	*slow clap* How to Explain Sensitive Topic with Appropriate Proverb 101. And for fullmarks for this thread. 
+balajis	697370745886937089	2016-02-10T10:45:16	balajis respect to each and everyone who has created entrepreneur pmarca is on top of that list 
+balajis	697372368902160385	2016-02-10T10:51:43	docolumide chubaoyolu asemota Starting "small" with a strong tech co staffed by Nigerian diaspora is one way. Solve for 1 first.
+balajis	697371106789998595	2016-02-10T10:46:43	narayananh pmarca BenedictEvans Well, anuhariharan will tell them :) She schools all of us!
+balajis	697370642350477315	2016-02-10T10:44:52	r0h1n kingslyj Right - there are actually good arguments for/against zero rating on both sides. If you read thread, I'm not pro-FB there.
+balajis	697369719721095168	2016-02-10T10:41:12	vipsy Please note: I never mentioned Free Basics here! And I actually agree that it presents complex issues. I'm pro-Marc, abstain on FB.
+balajis	697368950137552896	2016-02-10T10:38:08	docolumide Well, in the meantime, there are a lot of really smart Nigerians in the diaspora. Cc chubaoyolu :)
+balajis	697368668536180736	2016-02-10T10:37:01	nileshtrivedi yeah, I do get the NN issues and it's complex. I think other approaches might achieve the (desirable) goal of connecting poor
+balajis	697357625097322496	2016-02-10T09:53:08	Attack the argument, don't attack the person. Thread worth reading.  
+balajis	697354993909809152	2016-02-10T09:42:41	Agreed.. pmarca doesnt deserve hate.. even though we disagree with him on NN issue.  
+balajis	697355461679456256	2016-02-10T09:44:32	As a16z's 1st indo GP balajis exemplifies pmarca's capitalist &amp; anti-colon cred. Disagree with pmarca on NN, but stop the ad hominems.
+balajis	697366651461898240	2016-02-10T10:29:00	pratik_shah pmarca Pratik, I read that as "the overreaction against markets in the name of anti-colonialism should probably stop, no?"
+balajis	697365829885816832	2016-02-10T10:25:44	raveeshbhalla Agreed, two separate issues. And I'm not taking a position on Free Basics. There may be a better way which is more neutral.
+balajis	697365247380869121	2016-02-10T10:23:26	nitin Sure. Just giving some context if helpful :) By the way, I understand the arguments against Free Basics and agree it's complex.
+balajis	697362450014928896	2016-02-10T10:12:19	ankscricholic I do understand some of the arguments against Free Basics. Not taking a position there. Am taking a position for Marc :)
+balajis	697362081276944384	2016-02-10T10:10:51	s0urceCode1esme pmarca In 140 chars it's easy to be inadvertently misinterpreted - and Twitter doesn't have an edit button.
+balajis	697360336459067392	2016-02-10T10:03:55	14/ So, in closing: good for India/Indians? Colonialism? No Socialism? No Capitalism? Yes pmarca? Yes Software eating the world? Hell yes!
+balajis	697359991821463553	2016-02-10T10:02:33	13/ That's where he's coming from. He wants India to rise &amp; have its pick of awesome tech. You may disagree on means, but probably not ends.
+balajis	697359789723119617	2016-02-10T10:01:44	12/ And guys like pmarca are funding that, because they're very simply in favor of the best tech from the best technologists (many Indian!)
+balajis	697359192533942273	2016-02-10T09:59:22	11/ Indians don't need shelter from the global market. We're the ones "taking their jobs" (and creating new ones). See Satya, Sundar - &amp; SV.
+balajis	697358587396538368	2016-02-10T09:56:58	10/ It took till 1991 to realize markets were good for India. And what we found is that many Indians are really damn good at global markets.
+balajis	697357939775041536	2016-02-10T09:54:23	9/ It took till 1991 till we finally started liberalizing &amp; shedding Fabian influence (itself a British holdover!) 
+balajis	697357000502550528	2016-02-10T09:50:39	8/ Instead the (understandable) anti-colonialist overreaction threw out the capitalist baby with the colonialist bathwater.
+balajis	697356719647756288	2016-02-10T09:49:32	7/ Throwing off the British yoke - good! But we could have done it like the US did and set up capitalism rather than Fabian socialism.
+balajis	697356137193201665	2016-02-10T09:47:14	6/ So what was he saying? This: in the *name* of anti-colonialism, the British Raj was replaced by the License Raj. 
+balajis	697354087671558144	2016-02-10T09:39:05	5/ Point: given that Indians run a sizable chunk of pmarca's own portfolio, it'd be crazy to think he was against Indians running India!
+balajis	697352738368192514	2016-02-10T09:33:43	4/ He's hired, promoted, funded, &amp; supported Indian founders/CEOs all across tech, including Mixpanel/Instacart/etc. Deeds - not words.
+balajis	697352284544434177	2016-02-10T09:31:55	3/ He's helped the careers of countless Indians in tech when others were fulminating about H1Bs.
+balajis	697352084048326656	2016-02-10T09:31:07	2/ This is obvious to anyone who has &gt;140 characters of context, but pmarca is *OBVIOUSLY* pro-capitalist and anti-colonialist.
+balajis	697351910202822656	2016-02-10T09:30:26	1/ If you are an Indian in tech who follows me on Twitter, let me try to explain why y'all should show pmarca some love.
+balajis	697188369697091584	2016-02-09T22:40:35	all the folks supporting Coin Center  bitcoin fintech btc 
+balajis	697322527463354368	2016-02-10T07:33:40	girevikcap 21 Good feature request!
+balajis	697291955693187072	2016-02-10T05:32:11	Very cool demo to show the potential of balajis 21 Bitcoin computer.  
+balajis	697136152751378432	2016-02-09T19:13:05	You can now view recommended bitcoin fees in realtime at  More: 
+balajis	696981341590556672	2016-02-09T08:57:55	seikatsu Very insightful observation. In particular, some Northeastern European countries doing much better than Southwestern.
+balajis	696981001982107648	2016-02-09T08:56:34	Europe used to be Western capitalism vs Eastern communism. Now (relatively) industrious North vs bankrupt South. 
+balajis	696251266641559552	2016-02-07T08:36:52	That's the kind of tenacity you want in a president. 
+balajis	696834691614253057	2016-02-08T23:15:11	Seemingly Mentally Ill Internet Commenter Presumably Functions In Outside World  
+balajis	696815471115530241	2016-02-08T21:58:49	Bay Area tech is now majority Asian. How about that! balajis 
+balajis	696804359502299139	2016-02-08T21:14:39	mehals andrewchen But if you go global, and think about tech worldwide, the non-immigrant/foreigner proportion drops even further.
+balajis	696803755509952512	2016-02-08T21:12:15	dnlhmt The CEO of Apple is gay. The CEOs of Microsoft and Google are Indian. The CEOs of Alibaba, Tencent, et alia are Chinese. Etcetera.
+balajis	696802417380229120	2016-02-08T21:06:56	The issue: to be in the global middle class you'll have to be above the *global* 50th percentile. Borders won't protect you from foreigners.
+balajis	696801434755424256	2016-02-08T21:03:02	The US doesn't (yet) get how nonwhite/non-Western tech already is. But likely to become an area of (negative) focus. 
+balajis	696800499111059457	2016-02-08T20:59:19	shl See also:  Not yet a focus, but IMO his position on tech will be predictable.
+balajis	696800328188956673	2016-02-08T20:58:38	shl Yeah, it's not yet part of his stump speech, but it's on his radar: 
+balajis	696799262676381697	2016-02-08T20:54:24	Trump: Foreigners are taking our jobs! Sanders: Robots are taking our jobs! USA: The foreigners programming the robots are taking our jobs!
+balajis	696798628497661952	2016-02-08T20:51:53	Due to the Internet, you already can't wall off the global economy. And Bitcoin will amplify that. The result? Blame Bitcoin &amp; the Internet.
+balajis	696797943999770624	2016-02-08T20:49:10	There are millions of smart, driven, poor nonwhite/non-Western people willing to sacrifice and work hard just for a shot at a better life.
+balajis	696797475793801217	2016-02-08T20:47:18	The issue is, millions of Chinese and Indians *are* willing to make these sacrifices.  
+balajis	696739309064482818	2016-02-08T16:56:10	I wrote about my journey into tech. Thanks to everyone who helped get me here!   
+balajis	696562617947652096	2016-02-08T05:14:04	Donald Trump, top Republican candidate, is starting to say some very Bernie Sanders stuff.  
+balajis	696172153360805888	2016-02-07T03:22:30	While y'all watched the republican debate, I rented Bridge of Spies and I am 100% okay with that decision.
+balajis	696148606881935363	2016-02-07T01:48:56	My thoughts on the Twitter algorithmic timeline: 
+balajis	696070541761884160	2016-02-06T20:38:44	Yes! Message was if you're not willing to have outrageous experiments fail, you'll never benefit when they succeed. 
+balajis	695828182449041408	2016-02-06T04:35:41	The left and right both have their own ways of channeling the inevitable protectionist backlash... 
+balajis	695770386731044864	2016-02-06T00:46:01	China's economy is now almost 26 times larger than it was in 1980:  
+balajis	695783105437634561	2016-02-06T01:36:34	semil We'll see. In many ways US elections are becoming less important. A President can't stop global tides beyond their control.
+balajis	695781344614330368	2016-02-06T01:29:34	4/ If the economy turns south this year, a resentful nationalist socialism will be on the rise. America as the victim of the global economy.
+balajis	695773714609123328	2016-02-06T00:59:15	3/ Sanders is skeptical of global capitalism -- and not too fond of immigration (). Trump just flips these emphases.
+balajis	695770309668970496	2016-02-06T00:45:43	2/ If it's Trump/Sanders, as increasingly looks likely (), it's nationalist vs socialist.
+balajis	695769471386923008	2016-02-06T00:42:23	1/ I mentioned that the new political axis is not North/South but East/West. Now take a look at Trump's support. 
+balajis	695070006321614848	2016-02-04T02:22:57	Venezuela's central bank ordered 10 billion new bank notes in December, shipped into three-dozen 747 cargo planes. 
+balajis	695648589503209472	2016-02-05T16:42:02	.HansRosling's life expectancy vs fertility rate data animation made with ggplot2 &amp; gganimate drob hadleywickham 
+balajis	695684151907717121	2016-02-05T19:03:21	The limit case is the upper left corner. No children, but you live forever. (Not feasible yet obviously!) 
+balajis	695475379771838464	2016-02-05T05:13:46	Nobody publicly attacks Chrome even though it's 60% of the market. It doesn't happen. Why? There's no ROI. Everyone's patched in a few days.
+balajis	695475046375038977	2016-02-05T05:12:27	Let's talk about how not asking the user before updating makes security better for everyone. It's like compound interest for computers.
+balajis	694304482222542848	2016-02-01T23:41:02	Google now has 7 products with over 1 billion users a piece  
+balajis	695515277144956928	2016-02-05T07:52:18	Home automation is really more useful for hotels than for homes. Easy reset to default state.
+balajis	695505704602488833	2016-02-05T07:14:16	balajis US society has successfully convinced it's citizens that it is the best place in the world and everywhere else is mud hovels death
+balajis	695508488559067136	2016-02-05T07:25:20	SwiftOnSecurity Neither of them work
+balajis	695486059388362752	2016-02-05T05:56:12	balajis Code the change you want to see in the world.
+balajis	695485571641143300	2016-02-05T05:54:16	The US election is now essentially reality television. The audience will soon participate in our vote for Big Brother.
+balajis	695484571526176768	2016-02-05T05:50:17	Learn to Code is the opposite of Rock the Vote. Individual self-improvement vs submission to the collective.
+balajis	695463203233361921	2016-02-05T04:25:23	The alternative to election is migration. It's the other way to change the government under which you live.
+balajis	664677003338129408	2015-11-12T05:32:01	This is the cockiest hospital i have ever seen 
+balajis	695456054029627392	2016-02-05T03:56:58	Epic Country-Level A/B Test Proves Open Is Better Than Closed by AlecJRoss  
+balajis	695456515428192256	2016-02-05T03:58:48	Estonia 👏👏👏 
+balajis	688881029529120768	2016-01-18T00:30:10	Car safety 1959 v 2009 
+balajis	684164993172963329	2016-01-05T00:10:20	31% of this year's 30 under 30 didn't get college degrees:  (h/t leepnet) CC: 1517fund dstrachman william_blake
+balajis	695326904677584896	2016-02-04T19:23:47	mims Your analogy is actually very good, as early 20th c influx of physicists into other disciplines is like CS/stats eating the world.
+balajis	695326484483805184	2016-02-04T19:22:07	mims Right, but: 1) W/o physics can't understand bio 2) Physicists in bio very eminent  
+balajis	695289952850972672	2016-02-04T16:56:57	oditorium mims It's like managing a team of folks writing in Chinese otherwise. No ability to spot check. Blind faith.
+balajis	695289740006785025	2016-02-04T16:56:06	mims Longer post, but code is like math - very general. Every area can be understood in terms of underlying algorithms &amp; data structures.
+balajis	694890274758094848	2016-02-03T14:28:46	guess that resets with a bounce the bitcoin investment downturn narrative: nice start to 2016. onwards and upwards. 
+balajis	695149464722366464	2016-02-04T07:38:42	they take for granted the state _should_ provide such and such service, and do it better, but ignore that it is both unwilling and incapable
+balajis	695148449000361985	2016-02-04T07:34:40	my fav news narrative I've noticed recently is "private company did a good thing! but boo them, this is the government's turf"
+balajis	690192384794099713	2016-01-21T15:21:02	The 21 Bitcoin Computer allows you to monetize the previously unmonetizable:  
+balajis	695100177611292673	2016-02-04T04:22:51	SharifaMonawer Point being: as software eats military in particular, power shifts from quantity (sheer size) to quality (coding talent).
+balajis	695099298883641344	2016-02-04T04:19:21	.SharifaMonawer USG invades at will in meatspace…but is deterred by cyber-retaliation.  
+balajis	695097788753784832	2016-02-04T04:13:21	SharifaMonawer :) Instagram had 12 employees, Kodak had 1000s. With drones in particular, size matters less than having good engineers.
+balajis	695094129441665024	2016-02-04T03:58:49	.BlairReeves "No one in the White House...had any idea whether the technology worked."  
+balajis	695093198763339776	2016-02-04T03:55:07	jmitura But poor implementation is poor policy. Execution, not just idea. USG failed, Goog/YC folks did not. 
+balajis	695092228255920130	2016-02-04T03:51:16	.BlairReeves Well, the selection process for the US president is (literally) a popularity contest, not a measure of technical competence.
+balajis	695091898336223232	2016-02-04T03:49:57	ryanchris Well, almost anything of technological importance is going to be accessible via API. In part thanks to you guys!
+balajis	695091270788599808	2016-02-04T03:47:27	Compare for example Lee Hsien Loong of Singapore, or Toomas Ilves of Estonia.  
+balajis	695090515398643713	2016-02-04T03:44:27	A political leader who can't read or write code is going to have many more avoidable  and Snowden incidents.
+balajis	695088304161591296	2016-02-04T03:35:40	Thing is…the ability to run a nation state is quickly reducing to the ability to field a first class software team. 
+balajis	695082702349860864	2016-02-04T03:13:24	This is likely because quantitative skills are more unambiguously measurable.  
+balajis	694976694638129152	2016-02-03T20:12:10	The App Formerly Known as Uber 
+balajis	694578406835400704	2016-02-02T17:49:31	nichodges Sure. Preorder at  and we will ship soon.
+balajis	694443811997487104	2016-02-02T08:54:41	@wargfranklin mims Depends what local industry you are talking about! You may not be able to enforce (eg) software tariffs.
+balajis	694443070452948993	2016-02-02T08:51:44	mims Note that that scaled P2P personal reimportation in the link above complements 3DP. One for consumer, one for (small) industrial.
+balajis	694442218212319232	2016-02-02T08:48:21	.mims With that said, mercantilism definitely has its merits if one thinks one may be at war with a key supplier.
+balajis	694441800715505664	2016-02-02T08:46:42	.mims How the Internet will route around tariffs: 1) P2P:  2) 3DP:  
+balajis	694023750845509633	2016-02-01T05:05:31	Wonderful review of Soylent 2.0 by mims!  -- Try some today. 😀 
+balajis	692737355849969664	2016-01-28T15:53:50	We a16z are very proud of the entire team pindrop -- great business, magical anti-fraud technology! 
+balajis	694329698453626880	2016-02-02T01:21:14	Nishil_24 I think that kind of thing would be a v2 MOOC, integrated with AR like Magic Leap. Maybe 5-10 years out.
+balajis	694109379566526464	2016-02-01T10:45:46	mims NinjaEconomics AEI The Internet can (and will) be used to defeat many tariff regimes for all but the very largest goods.
+balajis	694108479724744704	2016-02-01T10:42:12	mims NinjaEconomics AEI Well, Swadeshi and Juche didn't work out too great. I guess we'll see if protectionism works given the Internet.
+balajis	694105765775159299	2016-02-01T10:31:25	2/ From 1945-2015, the US government was the official institutional champion of global capitalism. After 2016, that is going to change.
+balajis	694104244568219648	2016-02-01T10:25:22	1/ Trump/Sanders are what you get when enough Americans perceive themselves as net losers from global capitalism. A very new phenomenon.
+balajis	694101473785843712	2016-02-01T10:14:21	There was a time when two billion Chinese and Indians were colonized by oh-so-Western socialism. That time is over. 
+balajis	694080064015589376	2016-02-01T08:49:17	wikipolis jonathan_lack DanSWright Yup. 
+balajis	694044910287097856	2016-02-01T06:29:36	As code becomes law, we approach a future in which a presidential election is about as significant as the coronation of a new pope.
+balajis	694027214313000960	2016-02-01T05:19:16	Reminds me of this piece by Neal Stephenson:  In this metaphor, Bitcoin (and Unix) are the Hole Hawg.
+balajis	694027035589513217	2016-02-01T05:18:34	Bitcoin really is the Unix of money. Move millions instantly with a keystroke, or rm -rf your whole fortune by deleting your private keys.
+balajis	688559707238182912	2016-01-17T03:13:21	The revolution is being crowd-funded on the left and self-funded on the right. Social media + social financing.  
+balajis	693664854129782784	2016-01-31T05:19:23	morganwarstler Oh, I fully get why people support Trump/Sanders. I think of a lot of these trends (on both sides) as being inevitable.
+balajis	693663591635906560	2016-01-31T05:14:22	JoeConte The West? Tech, foreign capital, immigrant entrepreneurs. It will never win a national election, and never lose in the market.
+balajis	693662260187627521	2016-01-31T05:09:05	Our new political axis: not North/South but East/West, the nation state vs the international technologist. And Trump/Sanders both rep East.
+balajis	693661276937932800	2016-01-31T05:05:10	A Trump v Sanders contest would actually mean a new American center: against immigration, global capitalism, and the agents thereof.
+balajis	693207590394843136	2016-01-29T23:02:23	Just setting up my 21 balajis 
+balajis	692887127328034816	2016-01-29T01:48:59	Did you hear about Apple's terrible quarter: The $18.4B in profit reported on Tuesday is most ever earned by any company in any quarter!
+balajis	692915871761702913	2016-01-29T03:43:12	Why do I get the feeling that the best hedge against a Sanders or Trump nomination may be buying bitcoin?
+balajis	692899369201209344	2016-01-29T02:37:37	rabois mdudas I believe the best piece I've read on startups is the original by balajis
+balajis	692895021226291201	2016-01-29T02:20:21	sean_a_rose mdudas cdixon balajis both Dixon's post and this [  ] convinced me to start a startup.
+balajis	692668110902542336	2016-01-28T11:18:41	Hello from Spain 21 and balajis! I'm happy to be one of the first developers to play with the Bitcoin computer! 
+balajis	692584072447590400	2016-01-28T05:44:45	adammarx13 ShaanVP pmarca It was coined by balajis here  and cdixon covers it here too: 
+balajis	692557402579812353	2016-01-28T03:58:46	whoever coined the term "idea maze" was on-point.
+balajis	692365068357361664	2016-01-27T15:14:30	1st responses to disruption rarely survive:  -Videophone -Microminicomputer -Portable TV -Hypercard  -Private Cloud -Bitcoinless Blockchain
+balajis	692447782305529856	2016-01-27T20:43:11	ZUCK: Facebook's working on AI to eventually hopefully beat a human at "Go".  GOOGLE (10 HOURS LATER): Done. 
+balajis	692415810250371073	2016-01-27T18:36:08	The cloud will never win an election. And it will never lose in the market. 
+balajis	692218247043768320	2016-01-27T05:31:05	The future of politics may be the cloud (internationalists/capitalists) vs the land (nationalists/socialists). 
+balajis	692216979185373186	2016-01-27T05:26:03	The greatest strength comes from knowing one's own weaknesses.
+balajis	691941944872804353	2016-01-26T11:13:09	"When you're dealing with the physical world, it turns out, you get sued. A lot." 
+balajis	691935458301976576	2016-01-26T10:47:23	To disrupt an incumbent, identify the fixed costs that prevent competitors from arising - and disrupt those.
+balajis	691934696524091393	2016-01-26T10:44:21	The ultimate punishment for a misbehaving large company is not state regulation, but being dumped in a tank of startup piranhas.
+balajis	691933966178328576	2016-01-26T10:41:27	Regulation is often advocated as a punitive measure against large companies. But for such companies it is often a boon, a barrier to entry.
+balajis	691922645424717825	2016-01-26T09:56:28	"France loves its entrepreneurs as long as they act like children playing at a playground" by Nicolas_Colin — 
+balajis	691930355541110786	2016-01-26T10:27:06	Amazon and Netflix are going after Hollywood's seed corn. Strike the root. 
+balajis	690057530806968320	2016-01-21T06:25:10	“The sky is falling on print newspapers faster than you think” by dicktofel 
+balajis	690055694838583296	2016-01-21T06:17:52	Welcome to Davos, Satoshi.  
+balajis	689828394133893120	2016-01-20T15:14:40	 and  repos have uncloaked, thanks to amazing team effort. Roadmap and FAQ will be up today.
+balajis	689207615239274496	2016-01-18T22:07:54	.21 Bitcoin Community Holds 1st Hackathon; Develops Bounty Project Git Money by JayCoDon  
+balajis	689191051731468288	2016-01-18T21:02:05	.21 is building the Bitcoin infrastructure that will make the Internet what the Internet should have always been. Exciting times!
+balajis	689233314578747394	2016-01-18T23:50:02	With 21, you don't need to register with credentials or subscribe to payment plans. You pay on the go; your signature is your API key.
+balajis	689165400588726272	2016-01-18T19:20:10	It's funny that Slacking is now synonymous with working.
+balajis	689149583381798915	2016-01-18T18:17:19	21reddit balajis 21 this is the best  btc use case yet... surprised product github hasn't tried to democratize code review / bug bounty
+balajis	689116342411247618	2016-01-18T16:05:13	If you needed one reason to take a closer look at the 21 Bitcoin Computer… 
+balajis	689088656053788676	2016-01-18T14:15:12	How cool is that ? ... time to get one of these 21 things  
+balajis	688977681183064064	2016-01-18T06:54:14	balajis super stuff! cant wait to get my hands on 21 any ideas when it will be available in India?
+balajis	689074995088117760	2016-01-18T13:20:55	Git Money: turns issues on GitHub into payable bounties using the 21 Bitcoin Computer - . 
+balajis	688988259381194752	2016-01-18T07:36:16	jrmoreau 21 FCCSeoulMeetup James: Please go to  and put in South Korea + your email to be notified ASAP :)
+balajis	688988019869663232	2016-01-18T07:35:19	ak_digitech 21 It's coming! Go to  and put in India + your email to be notified immediately.
+balajis	688987503987052545	2016-01-18T07:33:16	Just wanted to note that stripe and coinbase are awesome. Great experience working with them to set up 
+balajis	688833469003137025	2016-01-17T21:21:11	Join masonic_tweets, jgarzik, JayCoDon &amp; me at  for the 1st 21 Bitcoin Hackathon! $400 Bounty for the Best 🍕API!
+balajis	688571463134220288	2016-01-17T04:00:04	Bitcoin giant 21 has updated the buying options for its signature developer tool 
+balajis	688193676304977921	2016-01-16T02:58:53	alantsen balajis 21 this was the original Internet. Everything would be linked and creators would receive $ every time their IP was used
+balajis	688129719347249157	2016-01-15T22:44:44	Bye, bye 402 error 👋 21  
+balajis	688185692371861504	2016-01-16T02:27:09	Got the 21 computer all set up. Now I have this weird 1997 sort of feeling.
+balajis	688036911869505537	2016-01-15T16:35:57	You Can Now Buy the 21 Bitcoin Computer With Bitcoin  
+balajis	688058773706027008	2016-01-15T18:02:49	You can now privately buy your own Bitcoin mining computer  
+balajis	687834680767299584	2016-01-15T03:12:21	Next month... It will be mine. Oh yes, it will be mine. “Buy the Bitcoin Computer Privately with Bitcoin” by 21 
+balajis	688063728395354112	2016-01-15T18:22:31	Buy the 21 Bitcoin Computer privately with bitcoins  and they are working on international sales, great!
+balajis	688077981684600832	2016-01-15T19:19:09	.21 Inc Introduces Direct Sales and Private Purchases of Its Bitcoin Computer by JayCoDon  
+balajis	688085551409446912	2016-01-15T19:49:14	“our long-term goal is to gradually replace advertising with micropayments from mined bitcoin" says balajis 
+balajis	688018522262355970	2016-01-15T15:22:53	This computer from 21 is not about getting rich mining Bitcoin. It is for developers to build modern apps.  
+balajis	687911227704520704	2016-01-15T08:16:32	No name is needed. We’ll address your package pseudonymously as permitted by USPS rules.  
+balajis	687910387090472960	2016-01-15T08:13:11	You can now buy the Bitcoin Computer privately with Bitcoin: 
+balajis	687836524306690048	2016-01-15T03:19:41	Getting satoshi for a simple http proxy was quick and easy. Learning more about ecosystem too: buffered pool mining = reduced time variance
+balajis	687835727174983680	2016-01-15T03:16:31	Initially unsure about 21 computer, but after a few tuts, its becoming clear that it is rapidly eliminating barrier to entry for dev
+balajis	687846389439582208	2016-01-15T03:58:53	Just me and my 21 Bitcoin computer tonight hellyeah 
+balajis	686745272701992960	2016-01-12T03:03:26	Mine comes tomorrow I'm so excited for 21dotco 
+balajis	687461752443908096	2016-01-14T02:30:28	Great start to our BOBmeetupCHI last night. Next workshop: demo of the 21 bitcoin computer  
+balajis	687400009512386560	2016-01-13T22:25:08	New 21 bitcoin computer just in. With official resources + notes coming out of Stanford bitcoin course by balaji, time to get started...
+balajis	687040271155118081	2016-01-12T22:35:39	21dotco 21 BC confirmed:  Some fun projects coming soon :) 
+balajis	687442670696833024	2016-01-14T01:14:39	joe_pickrell chrissyfarr We're going to need some form of mobile sequencing for this to work at scale
+balajis	687334855139442688	2016-01-13T18:06:14	Now this would be super disruptive...! Consumers monetizing their own genetic information (not paying companies to do it for them.) JPM16
+balajis	687338737366208512	2016-01-13T18:21:39	chrissyfarr ereinerts 21 Hi Christina. See:   DM me for more info :)
+balajis	687284055331737600	2016-01-13T14:44:22	Bitcoin academic papers published in: 2008: Bitcoin Whitepaper 2010: 1 2011: 8 2012: 21 2013: 64 2014: 217 2015: 288 
+balajis	687195096324804609	2016-01-13T08:50:53	We wanted 140 characters. We got 34 fields of metadata: 
+balajis	667567495465689088	2015-11-20T04:57:48	Perhaps the most important startup equation? (Constant improvement trumps all)  As spotted at homebrew HQ. 
+balajis	687187266205126657	2016-01-13T08:19:46	krmayank Depends on how close the customer is to your previous customer(s). Same type? More rows. New type? New columns.
+balajis	687185833548328961	2016-01-13T08:14:04	That doesn't mean junking old code necessarily; it means properly serving a new set of customers invariably means new code.
+balajis	687185359323541504	2016-01-13T08:12:11	Be so small they can't see you. Get so big they can't stop you.
+balajis	687185002430267392	2016-01-13T08:10:46	Every new market requires a new codebase.
+balajis	687173628463480834	2016-01-13T07:25:34	asaxena jasontoheal stevesi Because SV is disrupting itself. Everything we're doing is cloud/mobile, making things less location based.
+balajis	687173114417958912	2016-01-13T07:23:32	asaxena jasontoheal stevesi We'll see. I think SV today is like Java in 2007 -- conventional wisdom, getting overpriced vs alternatives.
+balajis	687169491600449538	2016-01-13T07:09:08	jasontoheal stevesi asaxena Already happened, in the sense that there are more 1B companies outside than within: 
+balajis	687167640150749184	2016-01-13T07:01:47	"Nearly half of those surveyed forecast that Silicon Valley will be surpassed within the next four years." 
+balajis	687164288939626497	2016-01-13T06:48:28	We call it the media because it mediates our experience of reality. 
+balajis	687161967220371456	2016-01-13T06:39:14	You may drive markets out with a pitchfork, but they will come back in. 
+balajis	687160820011106304	2016-01-13T06:34:40	Genius crushing the game. New Spotify integration gives you the story behind the song.  
+balajis	687033482254528512	2016-01-12T22:08:41	DavidShrier muneeb Melt_Dem 21 GuyZys Princeton random_walker DM me! :)
+balajis	686988824619032576	2016-01-12T19:11:14	Melt_Dem MIT 21 DavidShrier  Let's chat about this. GuyZys had some thoughts too. Please email support@21.co and we'll pick up thread.
+balajis	686819358169894912	2016-01-12T07:57:50	Satoshi_N_ 21 Sure do. DM me if any qs!
+balajis	686751031829516290	2016-01-12T03:26:19	conikeec Hm. Did you try ? Up for me, will check it out.
+balajis	686724335545929728	2016-01-12T01:40:14	Thanks balajis for the 21dotco 21computer - I'll be in class!! 😃 -Avery 
+balajis	686181043423068160	2016-01-10T13:41:24	Fun to see my experiments with genomic analysis for Bitcoin get a mention in this piece on 21 
+balajis	686651586420985856	2016-01-11T20:51:10	A real-time peer-to-peer IoT sensor data marketplace by bitcoin computer developer domiwoe:  
+balajis	686586641507471360	2016-01-11T16:33:06	Difference between the lottery and a grant application: one offers false hope for the depressed &amp; overworked, the other is a numbers game.
+balajis	686433400207585280	2016-01-11T06:24:10	How to build command-line SAAS with bitcoin is just an example, congrats balajis to make it so easy to create prototypes using 21 computer
+balajis	686100301988757504	2016-01-10T08:20:33	Finally reading "Frackers" by GZuckerman. No wonder Saudi Arabia is so freaked. Startlingly rapid technological disruption in energy.
+balajis	686273410125660160	2016-01-10T19:48:25	noting the evils of capitalism on a publicly traded social media service via a device made by the company with the largest market cap rn ama
+balajis	686279251293777920	2016-01-10T20:11:38	In ~2 years, summon should work anywhere connected by land &amp; not blocked by borders, eg you're in LA and the car is in NY
+balajis	686278452639567876	2016-01-10T20:08:28	Tap your phone or key and your car will open the garage door, exit, close the door and come to you. Will do same in reverse for unsummon.
+balajis	686261556737380357	2016-01-10T19:01:19	"Carmakers increasingly fret that their industry is on the brink of huge disruption"  
+balajis	686331903318732800	2016-01-10T23:40:51	Genius: now the official annotator of Air Force 1. Get your official SOTU annotations here:  cc genius
+balajis	684455710638264320	2016-01-05T19:25:32	Share of foreign born people in SV, California, US:   
+balajis	685993843813158912	2016-01-10T01:17:32	I got an idea. We'll take all the ResistCapitalism people and trade them for people who want to escape from communism countries Win/win
+balajis	686003473360371712	2016-01-10T01:55:48	blackbitcoiners Noahpinion Typically used interchangeably, no?  
+balajis	686002291594280960	2016-01-10T01:51:06	Noahpinion Weight by population :) India and China alone swing the game in the first round. But we can work out the math if you want.
+balajis	686000430829010944	2016-01-10T01:43:42	Noahpinion Specifically, if you go through that math, I think you'll find that US/Western Euro whites have the highest % anti-capitalist.
+balajis	685999600113602561	2016-01-10T01:40:24	.Noahpinion If we weight by population, it seems anti-capitalism is a white thing.  
+balajis	685997989228187648	2016-01-10T01:34:00	Exactly. Which is why capitalism is more popular in China &amp; India than the US.  
+balajis	685962512974524416	2016-01-09T23:13:02	Inefficiency is a luxury only the rich can afford 
+balajis	685920502221680640	2016-01-09T20:26:06	saifedean dandolfa bitstein mikejcasey MarcHochstein figure out Bitcoin products that might address need w/o sacrificing principles.
+balajis	685920346873008128	2016-01-09T20:25:29	saifedean dandolfa bitstein mikejcasey MarcHochstein Should listen to Fed's selling points (simply having them sell is good 1st step) &amp;
+balajis	685919866759430144	2016-01-09T20:23:34	saifedean dandolfa bitstein mikejcasey MarcHochstein 2/2 ...and upgrade your product. Example: Uber's reputation system &gt; taxi regs.
+balajis	685919638056640512	2016-01-09T20:22:40	saifedean dandolfa bitstein mikejcasey MarcHochstein 1/2 Best way to disrupt system: very closely listen to arguments of its proponents
+balajis	685919356715307008	2016-01-09T20:21:33	saifedean dandolfa bitstein mikejcasey MarcHochstein I disagree with him on FRB but often it's very useful to understand rationale.
+balajis	685919029769318400	2016-01-09T20:20:15	saifedean dandolfa bitstein mikejcasey MarcHochstein Hey guys, be nice. David is one of the smartest / most reasonable guys at the Fed.
+balajis	685911777889009664	2016-01-09T19:51:26	MarcHochstein JayCoDon dandolfa mikejcasey Bitcoin is scarce in a way the USD is not.  
+balajis	685910785608912896	2016-01-09T19:47:29	MarcHochstein JayCoDon dandolfa mikejcasey Right. I think genuine scarcity of funds is key. Else jawboning/scaring officials will work.
+balajis	685907830654676992	2016-01-09T19:35:45	MarcHochstein dandolfa mikejcasey VCs do sometimes let their cos fail. Sometimes not. Many good cos had near death moments (eg Tesla).
+balajis	685907479675273216	2016-01-09T19:34:21	MarcHochstein dandolfa mikejcasey Reminds me a lot of Alphabet. The key question is whether Page will let one of his subsidiaries fail.
+balajis	685710273475407873	2016-01-09T06:30:43	"How to C in 2016" 
+balajis	685723157060124672	2016-01-09T07:21:55	The only tweetstorm you need on driverless cars, by the brilliant SuB8u: 
+balajis	685722652506378242	2016-01-09T07:19:55	81% of Indians and 74% of Chinese would buy a car from a tech company (!). Self driving: critical mass outside US? 
+balajis	685709302405971969	2016-01-09T06:26:52	.balajis "trust but verify" trustless custodian: 2of2 multiSig &amp; timeLock ala GreenAddress can have custodians for security without trust
+balajis	685698853194993665	2016-01-09T05:45:20	Ideal Fr-Su: Think Mo-Fr: Act  Real Mo-Su: Work
+balajis	685690210915491841	2016-01-09T05:11:00	RyanMWalker Sneak preview: when Bitcoin becomes a fundamental system resource, the market becomes a datastructure on par with the queue.
+balajis	685689724812406784	2016-01-09T05:09:04	PatrickMakes Oh yeah. Depends where/when, but mid-days on weekends it can be a long waste of time.
+balajis	685689488098471936	2016-01-09T05:08:08	RyanMWalker You got the implication :)
+balajis	685688090271219713	2016-01-09T05:02:34	Soviet breadline: queues in lieu of prices American supermarket: queues + prices Instacart: surge pricing in lieu of queues
+balajis	685686854746701824	2016-01-09T04:57:40	VisionaryJordan Try  !
+balajis	685680829431812096	2016-01-09T04:33:43	saifedean Exactly!
+balajis	685680697307103233	2016-01-09T04:33:12	colincdocherty However, you can't trust that they'll never send a commercial email you might mark as spam. Different $ &amp; reputation risks.
+balajis	685680210440671232	2016-01-09T04:31:16	colincdocherty Ex: you can trust Starbucks wouldn't try to save money by taking risk of unsafe food, as $ damage too high.
+balajis	685679361538654209	2016-01-09T04:27:53	dandolfa The whole Fed/USG system represents a tremendous accomplishment built over decades - like MSFT. But it's not the end of history.
+balajis	685678912731394049	2016-01-09T04:26:06	dandolfa Yes, &amp; I don't actually think the dollar is displaceable offline. But online is another matter. USD not good for digital goods.
+balajis	685677425255006208	2016-01-09T04:20:12	Incidentally, this is why ideological fervor can have real world value. Not for sale at any price: extremely high trust internal network.
+balajis	685677056126926848	2016-01-09T04:18:44	The larger that value, the stronger the bonds between peers and the more capital/effort it would take to break up the trust group.
+balajis	685676714093969409	2016-01-09T04:17:22	Can quantify trust in many ways, but a useful one is the "Indecent Proposal" metric: the dollar threshold for a trusted party to defect.
+balajis	685674949516775424	2016-01-09T04:10:21	dandolfa Indeed. That would arguably be the prior probability - prior to 2008.
+balajis	685674345654431746	2016-01-09T04:07:57	Pragmatism: not trusting major banks after 2008 is not quite the same as vowing to never trust anyone again. Hard to really do that.
+balajis	685673907852951552	2016-01-09T04:06:13	Too much trust: high exit cost.  Too little trust: high transaction cost. Pragmatic hybrid models are interesting.
+balajis	685672320141164544	2016-01-09T03:59:54	Put another way: trust is a powerful lubricant for business. Can be shown game theoretically, sociologically, empirically, etc.
+balajis	685670640959930369	2016-01-09T03:53:14	The Internet led to a lot of unbundling followed by rebundling. Bitcoin may lead to untrusting, then *retrusting* in new groups.
+balajis	685669512583065600	2016-01-09T03:48:45	Bitcoin reduces our need for trust in banks, but not in each other.
+balajis	685549240601292801	2016-01-08T19:50:50	geoffreywoo datarade rshigeta RyanBethencourt Supplements won't kill you. But they *may* make you stronger.
+balajis	685549169252130816	2016-01-08T19:50:33	geoffreywoo datarade rshigeta RyanBethencourt Need thesis + data + early adopters to get real nutrition science.
+balajis	685548917761572864	2016-01-08T19:49:33	geoffreywoo datarade rshigeta RyanBethencourt USG nutrition studies flat out wrong (food pyramid) or contradictory (red wine).
+balajis	685548631970058240	2016-01-08T19:48:25	geoffreywoo datarade rshigeta RyanBethencourt Big thing is that w/ supplements we are reentering the age of real empiricism.
+balajis	685382335471091712	2016-01-08T08:47:37	Life in the US begins with a mandatory minimum 13 year sentence. No juvenile escapes...the Schoolag Archipelago...
+balajis	685286029742374912	2016-01-08T02:24:56	The new TCP/IP 
+balajis	685238215259766784	2016-01-07T23:14:56	Bitcoin will be built into every computer soon: What Are People Building With 21's Bitcoin Computer?  thanks balajis
+balajis	685204858534629376	2016-01-07T21:02:23	Course at Stanford Applies Hands-On Approach with 21 Bitcoin Computer by Andrew DeSantis  
+balajis	685211134803103744	2016-01-07T21:27:19	Webdev students, take Stanford's Bitcoin 21 course as a MOOC: Form here  indiedev cc: Liberationtech balajis
+balajis	685175596117307393	2016-01-07T19:06:06	What people are building with the 21 Bitcoin Computer: DNA for BTC, WiFi for BTC, RT for BTC and more! 
+balajis	684994390524170240	2016-01-07T07:06:03	PatrickWStanley Palmer is a very smart guy and (as you can see from his writings) very smart on Bitcoin.
+balajis	684966356354076672	2016-01-07T05:14:40	very cool . here is a bitcoin engineering class at Stanford 
+balajis	684870665036533760	2016-01-06T22:54:25	If you (genuinely) want to take Stanford's Bitcoin course as a MOOC fill out the form here:  Thanks balajis!
+balajis	684838256035401728	2016-01-06T20:45:38	We are seeing a Cambrian explosion in VR/AR tech. Can't remember the last time a new ecosystem this diverse showed up essentially overnight.
+balajis	684848225774256128	2016-01-06T21:25:15	RukmaSen OK -  :)
+balajis	684636373685411841	2016-01-06T07:23:26	Bitcoin is backed by an international network rather than a nation state.  Millions of people are behind it - just not in the same place.
+balajis	684633694707908609	2016-01-06T07:12:47	fjsosah NTmoney Check out  :)
+balajis	684367745782263808	2016-01-05T13:36:00	Bitcoin Engineering (CS251P), taught by balajis and Dan Boneh.   Awesome syllabus. Can't wait to see it replicated.
+balajis	684419822910713857	2016-01-05T17:02:56	Stanford CS students will be building a Bitcoin-enabled Google, Twitter, and Instagram this semester 
+balajis	684471013451644928	2016-01-05T20:26:21	Excited 2b experimenting w 21dotco Bitcoin in London 2c if ZeroCostDonations r possible icarewallet balajis 👍🏼 
+balajis	684313379289206784	2016-01-05T09:59:58	Compare/contrast. Two years in Bitcoin is a long time.   
+balajis	684310823905267712	2016-01-05T09:49:48	10/ Another is that there is significant overhead in placing bets of this kind. A pain to track/organize. Perhaps Bitcoin helps long term...
+balajis	684310383859924993	2016-01-05T09:48:04	9/ This is for several reasons, but one is: journalism/academia are primarily status-based economies while VC/finance are $-based economies.
+balajis	684310164510359552	2016-01-05T09:47:11	8/ These are interesting norms to compare.  "Conflict of interest" is norm in journalism/academia "Money where mouth is": VC/finance
+balajis	684309787111116800	2016-01-05T09:45:41	7/ Competing norms. Conflict of interest: have financial stake? Less credible. Put money where mouth is: no such stake? Less credible.
+balajis	684308603314962432	2016-01-05T09:40:59	6/ To get them to bet in the first place, though, need to get "put your money where your mouth is" back to a cultural norm.
+balajis	684307731713359873	2016-01-05T09:37:31	5/ In realtime, the only answer seems to be ask them to bet their beliefs. Over the long term, this kinda works too: 
+balajis	684306920887328769	2016-01-05T09:34:18	4/ The arguments usually begin with "it's bad because it's useless/a toy/etc" and end with "it's bad because it's too powerful".
+balajis	684306330140545024	2016-01-05T09:31:57	3/ In any industry, there's usually not an "aha" moment where the haters admit they were wrong. They just sort of quietly retrench.
+balajis	684305967119380480	2016-01-05T09:30:31	2/ They are both by the same guy. Yes, the arguments are self-contradictory. Surprisingly, doesn't matter. What is consistent is the *tone*.
+balajis	684305204066435072	2016-01-05T09:27:29	1/ Consider these two books: IT doesn't matter (2003):  Computers are changing us (2014): 
+balajis	684303866561560577	2016-01-05T09:22:10	All Blockchain all the time at Bloomberg:    
+balajis	683759641847808003	2016-01-03T21:19:36	It's been an interesting 7 years. 
+balajis	681658131592511488	2015-12-29T02:08:57	What three of the longest lived populations in the world have in common bluezones  
+balajis	683909677235703808	2016-01-04T07:15:48	Developers love the 21 Bitcoin Computer...the beginning of the machine payable web and the microservice economy 
+balajis	683336703315210240	2016-01-02T17:19:00	.rogerkver if people thought social media &amp; blogs brought social change, wait until we see what free market bearer ecash can do bitcoin
+balajis	683448656792440832	2016-01-03T00:43:52	Reporters: access is overrated Politicians: we don't need you anymore Reporters: wait come back 
+balajis	626456017203789824	2015-07-29T18:15:28	Apps, not for all.   
+balajis	683550886979739648	2016-01-03T07:30:05	JeremiahLee I'll RT it for sure! And you and Fitbit are awesome, so should be well received.
+balajis	683508861240606720	2016-01-03T04:43:06	JeremiahLee Interesting. Do you have a link to a head to head? (My main thought: Early FB w/ MySQL was still bigger than most sites today).
+balajis	683508189002764288	2016-01-03T04:40:25	prestonjbyrne 1000% agree and the tweet was not directed at you! A constant balance between conservative pragmatism and innovation.
+balajis	683507028459835393	2016-01-03T04:35:49	udaysubbarayan Well, Postgres 9.4 (an RDBMS) is basically a replacement for at least some NoSQL use cases :) 
+balajis	683506481581297664	2016-01-03T04:33:38	cafintechnet See:  
+balajis	683505830247833601	2016-01-03T04:31:03	prestonjbyrne It's more subtle than that. Adam built FB &amp; massively innovated on the backend. He minimized the necessary innovation though.
+balajis	683505590010691584	2016-01-03T04:30:06	Minimum Necessary Innovation: innovate, just not everywhere at once! See also this classic by dozba: 
+balajis	683503187341357056	2016-01-03T04:20:33	"The primary online data store for an application is the worst place to take a risk with new technology." 
+balajis	683502811141681152	2016-01-03T04:19:03	Here's adamdangelo on why you probably want to use a standard relational DB to the maximum extent possible: 
+balajis	683464340654010368	2016-01-03T01:46:11	JamesHDowner 21 DM me!
+balajis	683458677777416192	2016-01-03T01:23:41	Contemplating getting a 21 just to write a program that commits ball-by-ball scores from test match cricket to the blockchain.
+balajis	683460338302386176	2016-01-03T01:30:17	xdamman True. Hopefully resonates with DBAs. Btw, Storify is great, thanks for that!
+balajis	683458992627044352	2016-01-03T01:24:56	xdamman "Post" because of PostGIS and other Postgres extensions: 
+balajis	683451679807766528	2016-01-03T00:55:53	balajis makes total sense, I've come close to implementing this exact thing for mongo
+balajis	683439237220270080	2016-01-03T00:06:26	Generalstuff101 I think it'll be application dependent. Simplest: write a hash of txs to blockchain. Ultimate: full mirror of balances.
+balajis	683434444468846592	2016-01-02T23:47:23	ErolKazan Abstr_ct Sidechains are very cool but have different use case &amp; different performance constraints: 
+balajis	683433796272652289	2016-01-02T23:44:49	thebitledger Abstr_ct coinbase Yeah &amp; some of our (soon to be open) code for (de)serialization may be useful too: 
+balajis	683432741543763970	2016-01-02T23:40:37	balajis Abstr_ct seems like a starting point would be coinbase Toshi bitcoin node running on postgre  
+balajis	683433307535577089	2016-01-02T23:42:52	The good thing is that there are some really smart, positive people here as well. Love bouncing ideas off you guys! 
+balajis	683429360020267009	2016-01-02T23:27:11	Bingo. Abstr_ct nails why PostChain would be a highly useful piece of code. 
+balajis	683425448081141760	2016-01-02T23:11:38	brantonbits Abstr_ct balajis supporting an enterprise DB out of the box makes building scalable apps on top of Bitcoin blockchain easier
+balajis	683425651697713152	2016-01-02T23:12:27	Abstr_ct brantonbits Different use cases and workloads (frequency, size, latency) will mean several complementary technologies.
+balajis	683424733786845185	2016-01-02T23:08:48	Abstr_ct brantonbits Affords a simple, auditable, high throughput way to do off chain txs. Complementary to LIghtning and Sidechains.
+balajis	683424436125437952	2016-01-02T23:07:37	Abstr_ct brantonbits It'd also provide code for working with Bitcoin datastructures outside context of the Blockchain (eg data analysis).
+balajis	683424166259732480	2016-01-02T23:06:33	Abstr_ct brantonbits PostChain wouldn't be a replacement for the Blockchain. It'd be a way to buffer transactions for eventual writes.
+balajis	683404720573042688	2016-01-02T21:49:17	.Abstr_ct Postgres extensions are well documented (). Adding Bitcoin data structure support means minimal new code.
+balajis	683403836455686144	2016-01-02T21:45:46	.Abstr_ct Exactly. The Postgres part of PostChain wouldn't be a nice to have - it'd be the key. Lean on Postgres to minimize new code.
+balajis	683387335497486336	2016-01-02T20:40:12	GoldmanSachs did a 2015 review of the 20 popular stories. Bitcoin and balajis mentioned.  bitcoin
+balajis	683368820145180673	2016-01-02T19:26:37	Blown away by this documentation:  They've set the bar high and the 21 community is thriving because of it
+balajis	683375308611956736	2016-01-02T19:52:24	AdvaitaCoach balajis I'm having same experience after investing $399 in 21co computer. ;-)
+balajis	683378106371973120	2016-01-02T20:03:31	Abstr_ct Yep! Trying to discuss with Truthcoin why Postgres support is important/complementary. See this thread: 
+balajis	683371346064203777	2016-01-02T19:36:39	balajis Postgres Background workers for network sync, standard SQL interface, powerful indexing, and a very mature open codebase
+balajis	683368882325831680	2016-01-02T19:26:52	balajis I'm actually shocked it's taken so long for a postgres ext. to be proposed. How many orgs have written this same code already?
+balajis	683319192523771904	2016-01-02T16:09:25	balajis investing in 21 bitcoin computer has been personally exciting decision for me:now learning python to write code to ride blockchain!
+balajis	679626108703236096	2015-12-23T11:34:25	kimoji app crashes AAPL App Store as 9K/second were downloading the app. KimKardashian grossing $1M/minute. 
+balajis	683226057223229440	2016-01-02T09:59:20	Alex_Amsel Will differ depending on application. May also include collapsing transactions (A to B, B to C may be replaceable by A to C).
+balajis	683225691282751489	2016-01-02T09:57:53	arikaleph Well, with sufficient BTC that shouldn't happen. Enough to mirror the value of all internally conducted txs.
+balajis	683222030842372097	2016-01-02T09:43:20	arikaleph Very similar to intranet as a trusted network vs Internet as untrusted network.  
+balajis	683221046049148928	2016-01-02T09:39:25	arikaleph Absolutely right that private blockchains = internal trust. But not all private blockchains trust each other. Thus Bitcoin.
+balajis	683215955627933696	2016-01-02T09:19:12	viksit I think that without that feature built in from the start, they are like an air-gapped intranet. Some uses, not the main use case.
+balajis	683129128241868800	2016-01-02T03:34:10	5 years after seizing it, US govt returns hip-hop blog  to its owner: 
+balajis	683212402880425984	2016-01-02T09:05:04	balajis May I introduce you to subledger? 
+balajis	683211580830396416	2016-01-02T09:01:48	viksit The problem "private blockchain" is intended to solve. Can't replace Bitcoin Blockchain. Can be an intermediate buffer of txs.
+balajis	683211096233086976	2016-01-02T08:59:53	Buddhamangler Believe me I get that :) Read the full thread, not just the 1st of N. You'd need to have Bitcoin to make a PostChain work.
+balajis	683210573639593984	2016-01-02T08:57:48	viksit I think it also relates to the problem. Private blockchain alone: pay trusted friends. Adding sync to public chain is big change.
+balajis	683209599747375104	2016-01-02T08:53:56	viksit Yes, because it's mostly been talked about as a way to discuss Bitcoin without saying "Bitcoin". Few good public technical demos.
+balajis	683207645977677825	2016-01-02T08:46:10	A very interesting idea. Devs, comments/thoughts? 
+balajis	683209147538518016	2016-01-02T08:52:08	8/ If you build a good v0 of a PostChain and want to pursue it as an open source project, I will help fund it. Tweet at me w/ your demo!
+balajis	683208067874332672	2016-01-02T08:47:51	7/ Of course, people running PostChain instances would need to bulk buy BTC to sync their txs to the public Blockchain. Feature, not bug!
+balajis	683207534786707456	2016-01-02T08:45:44	6/ This then mirrors the "intranet, not Internet" debate. Blockchain w/o Bitcoin - private blockchain - is an intranet. Not totally useless.
+balajis	683206878956933120	2016-01-02T08:43:07	5/ This unites the concepts of "off-chain" &amp; "private blockchain". A local DB of off-chain txs, periodically synced with Bitcoin blockchain.
+balajis	683205237977399297	2016-01-02T08:36:36	4/ The key feature of a PostChain would  be the ability to periodically write a summary of off-chain transactions to the public Blockchain.
+balajis	683204747877158912	2016-01-02T08:34:39	3/ PostChain would similarly be a Postgres extension that adds support for working with crypto and Bitcoin-related datastructures.
+balajis	683204109453799424	2016-01-02T08:32:07	2/ PostGIS provides support for map-related data and range queries within Postgres: 
+balajis	683203771900362752	2016-01-02T08:30:47	1/ Let's grant that Blockchain without Bitcoin made no sense. How could we make it make sense? Perhaps a "PostChain": a PostGIS for Bitcoin.
+balajis	683202349226049536	2016-01-02T08:25:07	masonic_tweets You needed lots of home servers to bootstrap Bitcoin. That was rare behavior. Scaled/networked rareness required scaled Net.
+balajis	683201591046832128	2016-01-02T08:22:07	masonic_tweets Ah but blockchain replication wasn't feasible till recently. Less than 1/100k internet users have full copy even today.
+balajis	683200950069100544	2016-01-02T08:19:34	Best rap book ever. Like an offline Rap Genius.   Cc bhorowitz dumbnamenumbers RapGenius
+balajis	683175309575733249	2016-01-02T06:37:41	Excellent read. Future no longer works the way we thought it would, thanks to the Internet!  
+balajis	683194503604211712	2016-01-02T07:53:57	Coinnoisseur quantian1 pmarca techreview Go to . Many more apps like this coming: fine-grained SAAS for BTC.
+balajis	683190623784992768	2016-01-02T07:38:32	Coinnoisseur quantian1 pmarca This is intended to solve a completely different problem. Context: 
+balajis	683188757806231552	2016-01-02T07:31:07	Re-elect technology in 2016! Bitcoin is alive - and Valleywag is dead!   
+balajis	676863832682270720	2015-12-15T20:38:07	When are two networks that look different really the same? A new algorithm can tell:  
+balajis	683173398231429120	2016-01-02T06:30:05	China is not to be underestimated. WeChat in particular is highly innovative. Like Japan, ascending the value chain. 
+balajis	683171267407523840	2016-01-02T06:21:37	Bitcoin is the only way to make progress on many problems that don't appear to have anything to do with Bitcoin. 
+balajis	683146340436582400	2016-01-02T04:42:34	aryelipman joe_pickrell dgmacarthur erlichya eperlste Yep. But see here for context:   BTC decentralizes DTC.
+balajis	683140880912367617	2016-01-02T04:20:52	The future of DTC genomics is BTC genomics.  joe_pickrell dgmacarthur erlichya eperlste 
+balajis	683129742451593216	2016-01-02T03:36:37	jonoringer arampell People like us can't relax when there is something to be done. Hence, relax by doing something new :)
+balajis	682794415555883008	2016-01-01T05:24:09	Predict probabilities of disease from a genome sequence in a VCF file on the 21 BC - . 
+balajis	683061757959536640	2016-01-01T23:06:28	This is awesome. 21 
+balajis	682722930179063809	2016-01-01T00:40:05	The sound of 1000s of developers updating footers…
+balajis	682786813493161986	2016-01-01T04:53:56	sarthakgh SanguineEmpiric Hangouts I think is actually pretty widely used by Google Apps users.
+balajis	682786404875673601	2016-01-01T04:52:19	niraj I think HN is ripe for replacement but the replacement will look and feel very different.
+balajis	682785915098370048	2016-01-01T04:50:22	SanguineEmpiric With that said pick any thread at random. Here is classic Hater News: 
+balajis	682785785989312512	2016-01-01T04:49:51	.SanguineEmpiric There is the software everyone complains about and then there is the software no one uses.
+balajis	682784417585102848	2016-01-01T04:44:25	HN similarly started at a time when Web 2.0, SAAS, incubators were contrarian bets. Now they are mainstream. So community has no purpose.
+balajis	682783862229827585	2016-01-01T04:42:12	Reminds me of Slashdot's rise/fall.  Slashdot was for Linux, against MS.  Then Linux became the establishment.  And Slashdot lost its way.
+balajis	682782940724477952	2016-01-01T04:38:33	Startup News -&gt; Hacker News -&gt; Hater News  It's been unreadable for a while. Every thread is just so negative. Ex: 
+balajis	682696661949235201	2015-12-31T22:55:42	The Fed statement reminds me of the memos where MS first admitted Linux was a threat.  
+balajis	682695076812722177	2015-12-31T22:49:24	Again: "Bitcoin...places constraints on monetary policy." It's now an admitted fact.  It comes up in Fed meetings. It is a known constraint.
+balajis	682692999193559040	2015-12-31T22:41:09	VP of the Federal Reserve Bank of St Louis: "Bitcoin...places constraints on monetary policy." 
+balajis	682691424001785857	2015-12-31T22:34:53	First they ignore you, then they laugh at you, then they issue their own altcoin. 
+balajis	682038810822115328	2015-12-30T03:21:38	Kobe Bryant rendering in his first video game vs his last. 
+balajis	682045766467063808	2015-12-30T03:49:17	KeaganIlvonen many ppl are using things like 21 to build apps on top of Bitcoin. So that's where that might come in handy.
+balajis	682118106899038208	2015-12-30T08:36:44	davealevine Yes. But I think VR is not just focus of eyes but peripheral vision, ears, and (even) greater proportion of brain.
+balajis	682117738194550785	2015-12-30T08:35:16	atroyn Right. But I think it starts with VR as a better monitor. Emacs 3D is a gimmick today, won't be forever: 
+balajis	682117307259207680	2015-12-30T08:33:33	3/ Today the social networks monetize at $10/person/year and the nation states at $10k/person/year.  But tomorrow?
+balajis	682116436743987200	2015-12-30T08:30:06	2/ As monitors are replaced with VR/AR headsets, time online is more immersive. And Bitcoin will make online behavior more substantive.
+balajis	682116121089028096	2015-12-30T08:28:51	1/ Internet population density will keep growing. We are migrating to the cloud. First our eyes - phones more interesting than surroundings.
+balajis	682115492304138241	2015-12-30T08:26:21	Why now for realtime group chat?  Async email: better when internet population density was low. But today N colleagues are *always* online.
+balajis	682114580210819073	2015-12-30T08:22:43	Gmail must be seeing the disruption that SlackHQ has wrought in their analytics. Gmail used to be the default startup dashboard. No more.
+balajis	681778161177083904	2015-12-29T10:05:55	Centralized v decentralized Synchronous v asynchronous Monolithic v microservices Hierarchy (status) v trade (money) Loyalty v contract
+balajis	681776607053254656	2015-12-29T09:59:44	"We usually assume…they remain as loyal to the ideal of democracy. According to polling data…simply not the case." 
+balajis	681659728770936832	2015-12-29T02:15:18	Things just got a little easier “The 21 Bitcoin Library” by 21 balajis 

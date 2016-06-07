@@ -1,0 +1,180 @@
+EM_macro	725045862112579584	2016-04-26T19:36:18	UK productivity puzzle 
+EM_macro	724998418607661056	2016-04-26T16:27:47	darioperkins 
+EM_macro	724327318773178368	2016-04-24T20:01:04	Carlyle joins Bob Diamond for Africa bid 
+EM_macro	724289607723028481	2016-04-24T17:31:13	Things are getting weird... 
+EM_macro	724076765275021314	2016-04-24T03:25:28	Money and Banking Part13: Balance Sheet Interrelations and the Macroeconomy -  
+EM_macro	723947835507482624	2016-04-23T18:53:08	Wyplosz on the Eurozone 
+EM_macro	723672801937223680	2016-04-23T00:40:15	Microsoft R Open 3.2.4 now available  rstats DataScience
+EM_macro	723200827305938944	2016-04-21T17:24:48	Sorry ARIMA, I'm going Bayesian says Kim Larsen --&gt;  
+EM_macro	723616820201197569	2016-04-22T20:57:48	Mozambique's $1.35bn debt mystery explained 
+EM_macro	723594873069277184	2016-04-22T19:30:36	Humans have a terrible track record of predicting financial crises. Can algorithms help?  
+EM_macro	723593977522491392	2016-04-22T19:27:02	RobinWigg TenYearNote in my mind, the currency component of FCIs is key; the rest usually lag the real economy
+EM_macro	723585917898862592	2016-04-22T18:55:01	RobinWigg true story
+EM_macro	723584401603481602	2016-04-22T18:48:59	TenYearNote how is that financial conditions index constructed?
+EM_macro	722968326519934978	2016-04-21T02:00:55	ESM says it has "started" to "look into" options to ease Greece debt. "At a purely technical level," of course. 
+EM_macro	722471759128227841	2016-04-19T17:07:44	A world - and a Federal Reserve - hooked on China's credit-fueled growth  via Reuters Fed
+EM_macro	722963869245812736	2016-04-21T01:43:13	mdc Agree; solid approach as far as I can tell. Have fun with Elana tomorrow
+EM_macro	722945835303059457	2016-04-21T00:31:33	Interesting piece on hedge fund performance cc mdc 
+EM_macro	722944539980406785	2016-04-21T00:26:24	more fed nowcasting 
+EM_macro	722940564971339776	2016-04-21T00:10:36	D_Blanchflower your scholarship is good and I'm a consumer; Twitter trolling just seems like a bit of a waste
+EM_macro	722892957947330560	2016-04-20T21:01:26	righteous rubbish 
+EM_macro	722890696747683840	2016-04-20T20:52:27	The secret shame of middle-class Americans (Neal Gabler, TheAtlantic):  
+EM_macro	722888882363047936	2016-04-20T20:45:14	Weak global capex explains weak global trade. Great post by CarolineFreund PIIE 
+EM_macro	722890212951523329	2016-04-20T20:50:32	EM debt raises back in full swing: Argentina returns to global debt markets with largest ever EM bond sale  via WSJ
+EM_macro	722823404097769472	2016-04-20T16:25:03	D_Blanchflower troll much?
+EM_macro	722744537056178176	2016-04-20T11:11:40	Argentina’s blockbuster bond sale is opening up the floodgates for junk-rated issuers in developing countries. 
+EM_macro	722510096735928320	2016-04-19T19:40:05	New PyXLL by enthought and pyxll is bringing Python workflows to Excel ... looks slick!  
+EM_macro	722460407667908608	2016-04-19T16:22:38	DavidSchawel better to show all relative to GDP and use the same axis
+EM_macro	722200801024860165	2016-04-18T23:11:03	Another US GDP nowcast 
+EM_macro	721882515678629888	2016-04-18T02:06:18	Discord Grows Among the Parties Over Greek Debt Talks 
+EM_macro	721865857434001410	2016-04-18T01:00:06	As China's growth slows, its economy faces a growing threat: bad bank loans  
+EM_macro	721825394593239040	2016-04-17T22:19:19	Tonight, you may be confronted with a strong feeling that you have something smart to say about Doha or Rousseff. Ignore this impulse.
+EM_macro	721762248742412288	2016-04-17T18:08:24	WorthWray markets agree; clean break here would be a fresh election, house cleaning in Congress + new economic team; not holding my breath
+EM_macro	721752869196529664	2016-04-17T17:31:08	WorthWray markets difficult to see an upside to Rousseff's impeachment considering the characters who will run Brazil in the aftermath
+EM_macro	721683497992208384	2016-04-17T12:55:28	India's Rajan says if the Fed doesn't normalize rates when it can, other central banks won't be able to 
+EM_macro	721467346720653312	2016-04-16T22:36:34	GiveDirectly is about to provide guaranteed basic income to 6,000 low-income Kenyans for 10-15 years 
+EM_macro	721132958816542720	2016-04-16T00:27:50	Good read on the evolution of credit in developed markets 
+EM_macro	721027165345746945	2016-04-15T17:27:26	NBER macro conference papers 
+EM_macro	720992951053197313	2016-04-15T15:11:29	Mozambique govt failed to disclose $1bln debt 
+EM_macro	720933248969412608	2016-04-15T11:14:15	The bond market now has 99 electronic platforms for debt trading, but it's not much easier to get trades done. 
+EM_macro	720740678670671873	2016-04-14T22:29:03	Christopher Balding: Money's still fleeing China.  
+EM_macro	720742702757900288	2016-04-14T22:37:05	It's probably cheaper on the web. This new index explains why.  
+EM_macro	719903764036132865	2016-04-12T15:03:27	NEW | Free Python for Finance email-based course | Sign up under  and receive your first module immediately
+EM_macro	719718200687071234	2016-04-12T02:46:05	The new magic number for monthly job growth: 145,000  
+EM_macro	719636769403219968	2016-04-11T21:22:30	Worries about Europe.  Populism, rogue governments, and the risk of fiscal crises 
+EM_macro	719435884081344512	2016-04-11T08:04:15	I wrote some words about Granite and the state of the European RMBS market. 
+EM_macro	719414604707860481	2016-04-11T06:39:42	Poor New Yorkers Tend to Live Longer Than Other Poor Americans 
+EM_macro	719241780970012672	2016-04-10T19:12:58	Yu Yongding tells me China risks UK-style ERM crisis defending currency peg. Needs 15pc devalue. Could world cope? 
+EM_macro	718974234597269504	2016-04-10T01:29:50	Argentine Prosecutor Seeks to Include Cristina Kirchner in Money-Laundering Probe 
+EM_macro	718873406452719616	2016-04-09T18:49:10	Nigeria eyes China’s panda bond market to help plug $11bn deficit:  FT
+EM_macro	718518940444540937	2016-04-08T19:20:39	nice end to a crappy week - my piece on learning and addiction made the annfriedman newsletter 
+EM_macro	717876554647396352	2016-04-07T00:48:02	"Has the inflation risk premium fallen? Is it now negative?" new FEDS Note  
+EM_macro	717749780311588865	2016-04-06T16:24:17	Cc mdc 
+EM_macro	717195246556332032	2016-04-05T03:40:46	Online vs offline retail prices  
+EM_macro	716573494113394688	2016-04-03T10:30:08	Tuna and gunships: how $850 million in bonds went bad in Mozambique 
+EM_macro	716614968792256512	2016-04-03T13:14:57	Kenya tests Eurobond mkt 
+EM_macro	716369622052839426	2016-04-02T21:00:02	Watch Tiny Neural Nets Learn 
+EM_macro	716311081564577792	2016-04-02T17:07:24	Further to last tweet, here's link to wikileaks on Greek debt restructuring issue involving IMF Germany Greece 
+EM_macro	716127830971518976	2016-04-02T04:59:14	Lessons from 125 Years of US Bond and Stock Returns  
+EM_macro	715974528241909760	2016-04-01T18:50:04	This must be an 4/1 joke 
+EM_macro	715932698951491584	2016-04-01T16:03:51	Hey Montreal! Let's talk about the freelance hustle. April 19 at the Phi Centre 
+EM_macro	715922720928698368	2016-04-01T15:24:12	disappointingly weak assessment of Argentina's debt default from JosephEStiglitz 
+EM_macro	715856302422011904	2016-04-01T11:00:17	Dexter Filkins examines President Erdoğan’s brazen assault on journalists and free press in Turkey: 
+EM_macro	715690382177210370	2016-04-01T00:00:58	How does real GDP growth look when projecting trends in labor force participation? 
+EM_macro	715567425572483072	2016-03-31T15:52:23	Pisani-Ferry: EZ-wide borrowing or helicopter money need to be evaluated to prep for Europe’s next recession 
+EM_macro	715338593313628160	2016-03-31T00:43:05	What's at stake in Brazil's unfolding corruption scandal:  
+EM_macro	714365234392203264	2016-03-28T08:15:18	Typical formulations of Taylor rule assume natural interest rate is constant over time, but our study says it's not 
+EM_macro	714958744514334721	2016-03-29T23:33:42	Alberto and I started the Billion Prices Project 10 years ago. A decade of inflation obsession. 
+EM_macro	714960343659847680	2016-03-29T23:40:03	China’s credit hose leaves many firms parched 
+EM_macro	714947387681325056	2016-03-29T22:48:34	New Politico: Spare Me Your Journalism Lecture, Mr. Obama 
+EM_macro	714865357987717120	2016-03-29T17:22:37	Good read on subprime auto loans from rickjnewman  via YahooFinance
+EM_macro	714671462058213376	2016-03-29T04:32:09	True story 
+EM_macro	714662194332491776	2016-03-29T03:55:19	Ukraine's two-month political crisis could finally be coming to an end. 
+EM_macro	714666990250622984	2016-03-29T04:14:23	Fomc dot roulette continues... 
+EM_macro	714660606465417216	2016-03-29T03:49:00	Local currency bond markets as an inflation anchor 
+EM_macro	714660205087297537	2016-03-29T03:47:25	Uber is the quintessential employer of gig work—could represent two-thirds of all gig work --Alan_Krueger 
+EM_macro	714480333526327297	2016-03-28T15:52:40	big data + inflation overview 
+EM_macro	714302080593342464	2016-03-28T04:04:21	paulkrugman onJapan  
+EM_macro	714033335815782401	2016-03-27T10:16:28	Stop Crying About the Size of Government. Start Caring About Who Controls It. 
+EM_macro	713948637492019200	2016-03-27T04:39:54	A collection of artifacts from Kafka’s life includes juicy evidence of edits, and half-finished stories: 
+EM_macro	713895413368164352	2016-03-27T01:08:24	Early draft, feedback welcome: “China’s banks and bad debt: where from here?” 
+EM_macro	713525914244657153	2016-03-26T00:40:09	Why we think we’re better investors than we are  
+EM_macro	713765477290536963	2016-03-26T16:32:05	Andy Grove’s on tech innovation and job growth, via nytimes 
+EM_macro	713749415937314817	2016-03-26T15:28:16	"What will Egypt's flexible exchange rate look like? " - 
+EM_macro	713763265386528768	2016-03-26T16:23:18	When jobs disappear, people move away and unemployment comes down. But this time might be different 
+EM_macro	713761944793026560	2016-03-26T16:18:03	The effects of a neighborhood on children are far more powerful than we thought. 
+EM_macro	713735632028319745	2016-03-26T14:33:29	A Revived Challenge to Islam as Bangladesh’s State Religion Goes to Court, via nytimes 
+EM_macro	713717372662779904	2016-03-26T13:20:56	Yanis Varoufakis:  FT
+EM_macro	713431098550829058	2016-03-25T18:23:23	The U.S. spends roughly $30 billion a year on Pell grants for low-income students. How many are actually graduating? 
+EM_macro	713365174531571713	2016-03-25T14:01:25	For true econ wonks: more info on the best way to measure economic growth in this CEA issue brief (hint: it's GDO): 
+EM_macro	713057541706686464	2016-03-24T17:39:00	DavidKeo ElaineDMoore do you have any data on changes in hard currency vs CNY Chinese corp debt over the past year? Tks!
+EM_macro	712668618903912448	2016-03-23T15:53:34	GMO on "Quantifying the Fed’s Impact on the S&amp;P 500" 
+EM_macro	712507103190106112	2016-03-23T05:11:45	stop hurting America  
+EM_macro	712452348786962434	2016-03-23T01:34:11	Bullard on central bank orthodoxy  
+EM_macro	712410553503899650	2016-03-22T22:48:06	Through the lens of his family history, Siddhartha Mukherjee examines the hereditary nature of schizophrenia: 
+EM_macro	712063255318011904	2016-03-21T23:48:04	Half of the U.S. may endure a "lost decade" of depressed employment 
+EM_macro	711998697245184000	2016-03-21T19:31:32	JARennison RobinWigg it has been a slow grind higher since the the crisis, but a big spike this week 
+EM_macro	711975841740234752	2016-03-21T18:00:43	RobinWigg JARennison gracias -- Joe, any thoughts on the recent spike?
+EM_macro	711972445159346176	2016-03-21T17:47:13	RobinWigg any thoughts on Fed repo fails?
+EM_macro	711953087070642177	2016-03-21T16:30:18	Helicopter money is not that exotic or unprecedented. It’s a logical option for deflation/stagnation. My latest. 
+EM_macro	711953105554972673	2016-03-21T16:30:22	interesting line of research, but unusual for low wage service sectors to drive productivity in DMs 
+EM_macro	711951227320475649	2016-03-21T16:22:54	cc mdc elanab 
+EM_macro	711903566869430272	2016-03-21T13:13:31	The average American 65 or older earns 77% of the average citizen, up from 69% in 2008  
+EM_macro	711749928457019392	2016-03-21T03:03:01	Buy The Dip: Man v Machine, Africa Falling and the "Shanghai Accord" 
+EM_macro	711892117686259712	2016-03-21T12:28:01	U.S. shale producers reverse strategy on drilling:  
+EM_macro	711693204437864449	2016-03-20T23:17:37	Recent moves in oil prices - Econbrowser 
+EM_macro	711661945011634176	2016-03-20T21:13:24	$1 billion a month. Nigeria’s Treasury is short $36bn 2012–2014: oil "discrepancy" -FT.com  via FT h/t davidpilling
+EM_macro	711640058856673282	2016-03-20T19:46:26	Currency Premia and Global Imbalances 
+EM_macro	711088214669455360	2016-03-19T07:13:36	US manufacturing resurgent?  Those stump speeches are going to need rewriting...
+EM_macro	711584701287374848	2016-03-20T16:06:28	mdc perhaps if returns are measured like this (valid, but a little peculiar in my view): 
+EM_macro	711580047132463105	2016-03-20T15:47:58	86% of active equity funds underperform:  mdc - does fixed income do better?
+EM_macro	711497734352609280	2016-03-20T10:20:53	PBoC chief Zhou Xiaochuan: 1/3 of forex reserve accumulation in 2002-08 was due to arbitrage and other hot money 
+EM_macro	710122845028880385	2016-03-16T15:17:34	My quick-fire FT response to Osborne's Budget. There are only rules, damned rules and statistics: 
+EM_macro	711245269929746433	2016-03-19T17:37:41	Where you lived in 2007 may help determine whether you had a job in 2014 
+EM_macro	711242783080771584	2016-03-19T17:27:48	No 
+EM_macro	711203584063512576	2016-03-19T14:52:02	Brazil engulfed by corruption and a dangerous subversion of democracy  by ggreenwald AndrewDFish davidmirandario
+EM_macro	710820501577469953	2016-03-18T13:29:48	Thoughts on Conspiracy Theories of Dollar's Losses 
+EM_macro	710922908642709504	2016-03-18T20:16:44	Greece's bailout talks not going well. Troika could leave Athens this weekend w/out agreement to close 1st review 
+EM_macro	710934165068324865	2016-03-18T21:01:28	mdc good piece; herding in macro trades also amplified by CTAs
+EM_macro	710847391084240897	2016-03-18T15:16:39	In today's post, I ask if negative interest rates are a viable tool left in the Fed's monetary toolbox: 
+EM_macro	710847019254816768	2016-03-18T15:15:10	Yellen may be talking down negative rates, but Bernanke says anxieties are "overdone."  
+EM_macro	710632087053803520	2016-03-18T01:01:07	global macro reality check from PIIE_Pressroom 
+EM_macro	710102057840205824	2016-03-16T13:54:58	Central source of information on Puerto Rico fiscal and debt crisis muniland 
+EM_macro	709797414421569536	2016-03-15T17:44:25	Budget predictions 2016: 10 themes to look out for -   via FT
+EM_macro	709097083853082624	2016-03-13T19:21:33	The Obama Doctrine 
+EM_macro	709061100440915968	2016-03-13T16:58:34	The Robots Are Coming for Wall Street -  
+EM_macro	709060336230514688	2016-03-13T16:55:32	"Bonds are the most boring thing until you don't pay them" fantastic podcast on Argentina's debt h/t TonyFratto 
+EM_macro	708430676341575681	2016-03-11T23:13:29	We've launched a micropayments marketplace at . It allows machines to earn and spend bitcoin. 
+EM_macro	707984742147301378	2016-03-10T17:41:30	This is a remarkable chart  
+EM_macro	707627239395991552	2016-03-09T18:00:55	BREAKING: Egypt Said to Seek IMF Loan Talks Amid Dollar Shortage  via AhmedmFeteha ahmaui8
+EM_macro	707401412603420672	2016-03-09T03:03:34	Mining collapse cripples Africa’s dreams of prosperity  by patmcgroarty
+EM_macro	707327047765516288	2016-03-08T22:08:04	MylesUdland is that doubleline presentation online?
+EM_macro	707131585187987456	2016-03-08T09:11:22	Resilience to shocks: what does it take? Analysis and database.  OECD Resilience of Economies to Exogenous Shocks 
+EM_macro	707038469114208256	2016-03-08T03:01:21	In Fledgling Exchange-Traded Fund, Striking a Blow for Women -  
+EM_macro	703278079213477888	2016-02-26T17:58:55	Capital Flows and Deleveraging in Emerging Markets =&gt;  ocanuto Otaviano Canuto
+EM_macro	706238458365349888	2016-03-05T22:02:24	MUST READ: I strongly recommend this book, by avanagtmael. V interesting, it takes emerging markets saga further.  
+EM_macro	706152288952385538	2016-03-05T16:20:00	prchovanec bring power bars
+EM_macro	704654128572710912	2016-03-01T13:06:50	Poverty sucks for the environment. Great piece by Meeratweets  cc ShellenbergerMD 
+EM_macro	704548693966352384	2016-03-01T06:07:53	Interactive by ReutersGraphics crudeoil: crash and recovery  Brent WTI Supply OPEC US 
+EM_macro	703255779164495873	2016-02-26T16:30:18	Mapping the Most Distressed Communities in the U.S. - My latest w/ ariabendix CityLab - 
+EM_macro	702978558113812480	2016-02-25T22:08:43	Venezuela: the case for default 
+EM_macro	702232633783279616	2016-02-23T20:44:41	A policy mix for super-normal growth in the next 4 years (now optimized for your viewing pleasure) 
+EM_macro	699314461560016896	2016-02-15T19:28:54	I hate to be negative, but...a brief, critical comment on negative interest rates  
+EM_macro	698941332438515712	2016-02-14T18:46:14	You can measure health and wealth through global postal networks - 
+EM_macro	698639129609900032	2016-02-13T22:45:23	Some historical context: What if Venezuela declared default?  via oliverstuenkel
+EM_macro	698465960643137538	2016-02-13T11:17:16	Chinese Start to Lose Confidence in Their Currency 
+EM_macro	697832866579922944	2016-02-11T17:21:35	"What was the point of selling all those BMWs and washing machines..." izakaminska, 3 years ago. 
+EM_macro	697568679924539393	2016-02-10T23:51:48	Barry Eichengreen: China’s Exchange-Rate Trap 
+EM_macro	695873133652373504	2016-02-06T07:34:18	
+EM_macro	695724489678565378	2016-02-05T21:43:38	NYTimes, 1981 - "How The Oil Glut Is Changing Business" 
+EM_macro	695050928714461184	2016-02-04T01:07:09	Toxic Loans Around the World Weigh on Global Growth, via nytimes 
+EM_macro	693859452500471808	2016-01-31T18:12:39	Nigeria asks WorldBank and AfDB for $3.5bn in emergency loans. FT scoop with MaggieFick. 
+EM_macro	690215597485989889	2016-01-21T16:53:16	Q3 BIS report out.Shows reduction in net CN short FX position of 174 bio, almost exactly the reserve drawdown of 179 
+EM_macro	693221851535937536	2016-01-29T23:59:03	The pricing of natural gas is going global  
+EM_macro	693062971954761728	2016-01-29T13:27:43	Emerging markets: Big trouble from brittle China  longreads longread by _SidVerma 
+EM_macro	693147427130449920	2016-01-29T19:03:19	georgemagnus1 Thanks. What’s the source for the augmented balance sheet estimate?
+EM_macro	690199580424667136	2016-01-21T15:49:37	Venezuela: drumbeat of default gets louder 
+EM_macro	689661658353000448	2016-01-20T04:12:07	Both on YouTube: ojblanchard1 (economist Olivier) &amp; NYTimeskrugman (Paul): have you seen the video   Dec 7 2015?
+EM_macro	689152538667388928	2016-01-18T18:29:03	Given current concerns, I highly rec this paper exploring capital flows/currency fx in floating exchg rate environs: 
+EM_macro	688850983883943936	2016-01-17T22:30:47	My first tweet... Trying to make sense of the latest stock market slump 
+EM_macro	665285998805430273	2015-11-13T21:51:57	on hiatus until 2016
+EM_macro	665220569948884992	2015-11-13T17:31:57	Africa’s bond boom will be slow to return:  adrienneklasa; I suspect financing needs will force borrowers to mkt
+EM_macro	665153435755507712	2015-11-13T13:05:11	Alternative measures of government indebtedness 
+EM_macro	664521942112862208	2015-11-11T19:15:51	Thank you JustinWolfers: Even Famous Female Economists Get No Respect. --&gt; 
+EM_macro	664451488404475905	2015-11-11T14:35:54	Nigeria’s new government inclined to defend currency peg, analysts say 
+EM_macro	664166879070699520	2015-11-10T19:44:58	Prob of PCE inflation &gt; 2.5% in 12 months = 0 (Fed) 
+EM_macro	664165821623717888	2015-11-10T19:40:46	St. Louis Fed Price Pressures Measure | Economic Synopses via stlouisfed 
+EM_macro	664145852403945472	2015-11-10T18:21:25	xdotai artificial intelligence assistant to schedule meetings 
+EM_macro	663561413701447680	2015-11-09T03:39:04	India Inc not doing well. Number of BSE200 cos falling short of sales expectations highest in 6 yrs (GS) 
+EM_macro	663356355202404353	2015-11-08T14:04:14	The rise in corporate debt in China is one of the most pressing issues for future growth.  
+EM_macro	663189218412404736	2015-11-08T03:00:05	Puerto Rico filing says government likely to cut services or default on debt before year's end: 
+EM_macro	662993266779029504	2015-11-07T14:01:27	Poverty Surveyors in Sri Lanka Get Some Help From Satellites Orbiting the Earth 
+EM_macro	662990078193586176	2015-11-07T13:48:47	Killings of progressive, secular members of Bangladesh's intelligentsia have become routine  
+EM_macro	662751757127122944	2015-11-06T22:01:46	Going to send another newsletter this wknd. Can't promise quite as many gifs this time but peeps can sign up here. 
+EM_macro	662737848651505665	2015-11-06T21:06:30	Interesting approach to building a domestic investor base for govt bonds through mobile money services in Kenya  
+EM_macro	662735302830616576	2015-11-06T20:56:23	ARCPOLAK imfnews conference papers are up  
+EM_macro	662727327638421505	2015-11-06T20:24:42	Cash-strapped frontier economies rush to bond markets in tight window  via Reuters
+EM_macro	662718194432393217	2015-11-06T19:48:24	Gold prices heading towards &lt; $1k amplify the pain; 2016 looking like a good candidate for a Vene sovereign default 
+EM_macro	662670774541619200	2015-11-06T16:39:59	Good point on the need to correct for age composition effects in the Deaton/Case whites mortality data 
+EM_macro	662648812482228224	2015-11-06T15:12:42	Time to admit Ukraine has failed  via BV
+EM_macro	662367687876718592	2015-11-05T20:35:37	Carmen Reinhart revisits 2 centuries of Greek financial history to shed light on the current debt crisis 

@@ -1,0 +1,30 @@
+quantivity	725478046006841344	2016-04-28T00:13:39	MattiaManzoni1 Estimation for which parameter?
+quantivity	722194556591050753	2016-04-18T22:46:14	Firm Fundamentals and Variance Risk Premiums: 
+quantivity	722096453192011777	2016-04-18T16:16:25	Trading Volatility: At What Cost?: 
+quantivity	722096241400610817	2016-04-18T16:15:34	VIX Futures Basis: Evidence and Trading Strategies: 
+quantivity	721894805681217536	2016-04-18T02:55:08	What Drives Short-Sell Strategies? New Evidence from Mutual Fund Trades: 
+quantivity	721888536870293505	2016-04-18T02:30:13	Volatility does not lead to higher trading volume. Rather, trading volume increases when there exists more disagreement in asset pricing.
+quantivity	721886131101392896	2016-04-18T02:20:40	Disagreement and Asset Prices: 
+quantivity	721885620021243904	2016-04-18T02:18:38	Structural GARCH: The Volatility-Leverage Connection: 
+quantivity	721884903831277568	2016-04-18T02:15:47	Common Factors in Return Seasonalities: 
+quantivity	721884092220833792	2016-04-18T02:12:34	Comomentum: Inferring Arbitrage Activity from Return Correlations: 
+quantivity	721467714787631104	2016-04-16T22:38:02	Optimizing Sparse Mean Reverting Portfolios with AR-HMMs in the Presence of Secondary Effects: 
+quantivity	721465645380972544	2016-04-16T22:29:48	Mean-Reverting Portfolios: Tradeoffs Between Sparsity and Volatility: 
+quantivity	721449311389622272	2016-04-16T21:24:54	On Clustering Financial Time Series: Need for Distances Between Dependent Random Variables: 
+quantivity	721007099728101376	2016-04-15T16:07:42	Nonlinear Dependence Modeling with Bivariate Copulas: Statistical Arbitrage Pairs Trading on S&amp;P 100: 
+quantivity	721006076921913345	2016-04-15T16:03:39	Statistical Arbitrage Pairs Trading Strategies: Review and Outlook: 
+quantivity	720664267133812736	2016-04-14T17:25:25	Pervasive mistake is interpreting linear regression coefficients in context of time series, conflating arithmetic and geometric compounding
+quantivity	720378165638483968	2016-04-13T22:28:33	Time Varying Transition Probabilities for Markov Regime Switching Models: 
+quantivity	720368940786954240	2016-04-13T21:51:53	Anatomy of Market Timing with Moving Averages: 
+quantivity	720346325498200064	2016-04-13T20:22:02	Statistical Inference for Oscillation Processes: 
+quantivity	720329221537550336	2016-04-13T19:14:04	Dependency Structure and Scaling Properties of Financial Time Series are Related: 
+quantivity	720312320195362816	2016-04-13T18:06:54	Risk-Constrained Kelly Gambling: 
+quantivity	719641864714858496	2016-04-11T21:42:45	Excess Returns of "Quality" Stocks: A Behavioral Anomaly: 
+quantivity	719358076424364032	2016-04-11T02:55:05	Order Flow and Expected Option Returns: 
+quantivity	712661859938222080	2016-03-23T15:26:42	Optimal Delta Hedging for Options (minimum variance): 
+quantivity	684276032212307968	2016-01-05T07:31:33	Positive Skewness, Anti-leverage, Reverse Volatility Asymmetry, Short Sale Constraints (Chinese Markets): 
+quantivity	680834600692625409	2015-12-26T19:36:32	Nice summary of regime identification and strategy adaptation by steenbab, relevant for short- and med-frequency: 
+quantivity	680831271992344576	2015-12-26T19:23:19	Measuring Tail Risks at High Frequency (liquidity factor): 
+quantivity	680067945716789249	2015-12-24T16:50:07	Pairwise Correlations: 
+quantivity	680067519839731713	2015-12-24T16:48:26	Profitability Analysis of Shorted Down Stocks: 
+quantivity	679725144110018560	2015-12-23T18:07:57	Option-Based Estimation of the Price of Co-Skewness and Co-Kurtosis Risk: 

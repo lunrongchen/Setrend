@@ -1,0 +1,30 @@
+CSUSEqStrategy	700717543598632960	2016-02-19T16:24:15	Consumer Discretionary overweights fell among long-onlies last quarter. Was 3Q15 a peak? 
+CSUSEqStrategy	700717427508666368	2016-02-19T16:23:48	Tech overweights have been on the rise in long-onlies. 
+CSUSEqStrategy	700717323011756032	2016-02-19T16:23:23	Mutual fund bullishness on Industrials has slipped since 1H14, but may be stabilizing. 
+CSUSEqStrategy	700717196230561792	2016-02-19T16:22:52	Long-only funds pulled back from HC in 4Q15 – profit taking after long stretch of outperformance? 
+CSUSEqStrategy	693964986570428416	2016-02-01T01:12:00	S&amp;P 500 peaks to troughs during recessions via CSUSEqStrategy 
+CSUSEqStrategy	693966833158873088	2016-02-01T01:19:20	… importantly, S&amp;P 500 troughs to peaks during recessions via CSUSEqStrategy 
+CSUSEqStrategy	692759987702124544	2016-01-28T17:23:46	US Recession Risk: Since 1929, the S&amp;P 500 has averaged a decline of 33% during recessionary pullbacks SPX 
+CSUSEqStrategy	692760119579426816	2016-01-28T17:24:18	US Recession Risk: Large cap tends to see a 32% decline, while small cap sees a 37% decline 
+CSUSEqStrategy	692760380230209536	2016-01-28T17:25:20	US Recession Risk: Average Index Peak to Trough Performance Around Recessionary Period: 1990-1991, 2001 &amp; 2007-2009 
+CSUSEqStrategy	692760502099918848	2016-01-28T17:25:49	US Recession Risk: Industry Group Peak to Trough Performance Around Recessionary Period: 1990-1991, 2001 &amp; 2007-2009 
+CSUSEqStrategy	692760847358238720	2016-01-28T17:27:11	US Recession Recoveries: Since 1929, the S&amp;P 500 has averaged a gain of 62% during recessionary rebounds 
+CSUSEqStrategy	692760958457024512	2016-01-28T17:27:38	US Recession Recoveries: Small cap has averaged a gain of 86% while large cap has seen a 51% return 
+CSUSEqStrategy	692761086316134401	2016-01-28T17:28:08	US Recession Recoveries: The small cap indices have tended to outperform the large cap indices 
+CSUSEqStrategy	692761235088134144	2016-01-28T17:28:43	US Recession Recoveries: Consumer Discretionary &amp; Financials groups have tended to lead while defensives have lagged 
+CSUSEqStrategy	692761323285921792	2016-01-28T17:29:05	2016 Consensus GDP expectations have been falling; we are watching for a break below 2% 
+CSUSEqStrategy	692761454257246208	2016-01-28T17:29:36	US Equities struggle in 0-2% GDP; stocks tend to rise in years where real GDP is above 2% CSUSEqStrategy 
+CSUSEqStrategy	692761600302960640	2016-01-28T17:30:11	Are we in a recession in the US? Our CSUSEqStrategy team go through lessons from past US recessions; full report: 
+CSUSEqStrategy	656119397468217344	2015-10-19T14:47:09	Biggest problem facing US equities in 2015 – expensive valuations – still not resolved. 
+CSUSEqStrategy	656119314060300288	2015-10-19T14:46:49	Decline in announcements points to fading buyback environment. 
+CSUSEqStrategy	656119207516622848	2015-10-19T14:46:23	The most expensive groups in large cap are defensives. 
+CSUSEqStrategy	656119020807155712	2015-10-19T14:45:39	Deeply compelling valuations in small cap Capital Goods. Intriguing for 2016. 
+CSUSEqStrategy	656118895925972992	2015-10-19T14:45:09	Large cap Pharma/Biotech still pricey, even after recent weakness. 
+CSUSEqStrategy	654666018132897792	2015-10-15T14:31:56	Within small cap, growth flows have taken a turn for the worse. 
+CSUSEqStrategy	654665889862717446	2015-10-15T14:31:25	Health Care funds flows have turned sharply negative – reversing July’s extreme inflow. 
+CSUSEqStrategy	654665709314637825	2015-10-15T14:30:42	Improvement in US flows driven by less onerous outflows in large cap. 
+CSUSEqStrategy	654665440610783232	2015-10-15T14:29:38	Within the US, small cap flows are deteriorating. 
+CSUSEqStrategy	654665325204471808	2015-10-15T14:29:11	US equity fund outflows persist, but the trend is improving. 
+CSUSEqStrategy	650020533887737856	2015-10-02T18:52:26	Is the longest growth outperformance cycle of the past 35 years ending? 
+CSUSEqStrategy	650020409811828736	2015-10-02T18:51:57	Big cap defensives extremely expensive, Pharma/Biotech still overvalued. 
+CSUSEqStrategy	650020285857538049	2015-10-02T18:51:27	S&amp;P 500 correlations peaked in mid-September, but remain extremely high. 

@@ -1,0 +1,450 @@
+OptionAlert	726146558543167488	2016-04-29T20:30:05	Total preliminary option volume of 20.9million today is 39% above recent average.  Puts led calls 10.81M to 10.13M.
+OptionAlert	726067275531452417	2016-04-29T15:15:02	Notable gainers among liquid option names this morning include MNST (+11.0%), AMZN (+9.8%), FCX (+9.3%), NOV (+8.1%), and EXPE (+8.0%),
+OptionAlert	726059725905887232	2016-04-29T14:45:02	Bullish flow in Seadrill Ltd ($SDRL) today, with 15575 contracts trading and implied vol up 4.1 points to 120%. Shares near $4.81.
+OptionAlert	726052176573947906	2016-04-29T14:15:02	Unusually heavy option volume on today's open include SRCL, JEC, GNW, VFC, and EXPE.
+OptionAlert	726037075993223168	2016-04-29T13:15:02	Largest open interest increases among single stock options for 4/29 include BAX, AAPL, FB, BAC, and PFE.
+OptionAlert	725784167812861952	2016-04-28T20:30:04	Total preliminary option volume of 17.4million today is 17% above recent average.  Calls led puts 9.20M to 8.17M.
+OptionAlert	725704887514836992	2016-04-28T15:15:02	Notable gainers among liquid option names this morning include STJ (+28.2%), FB (+9.5%), MU (+5.1%), X (+5.1%), and JOY (+3.7%),
+OptionAlert	725701127677857793	2016-04-28T15:00:06	Micron MU call volume heavy with short term buyers on the open and 4K Jan 14s bought later in the session
+OptionAlert	725686024597286912	2016-04-28T14:00:05	Unusually heavy option volume on today's open include STJ, ABT, MJN, QEP, and VFC.
+OptionAlert	725674689222332417	2016-04-28T13:15:02	Largest open interest increases among single stock options for 4/28 include AAPL, FB, BAC, BAX, and TWTR.
+OptionAlert	725425545652125697	2016-04-27T20:45:02	Total preliminary option volume of 16.5million today is 14% above recent average.  Calls led puts 8.99M to 7.55M.
+OptionAlert	725342501574467585	2016-04-27T15:15:03	Notable gainers among liquid option names this morning include BSX (+9.8%), CNX (+8.2%), AKAM (+7.1%), AIZ (+6.3%), and FTI (+6.1%),
+OptionAlert	725334951072268288	2016-04-27T14:45:03	Bullish flow in FirstEnergy Corp ($FE) today, with 4033 contracts trading and implied vol up 1.1 points to 27%. Shares near $35.46.
+OptionAlert	725323632105365504	2016-04-27T14:00:04	Unusually heavy option volume on today's open include AMAT, CHRW, TWC, TSS, and BSX.
+OptionAlert	725312301100875776	2016-04-27T13:15:02	Largest open interest increases among single stock options for 4/27 include AAPL, BAX, ODP, GE, and FB.
+OptionAlert	725063158801510400	2016-04-26T20:45:02	Total preliminary option volume of 13.1million today is 10% below recent average.  Calls led puts 7.43M to 5.72M.
+OptionAlert	724980111519391744	2016-04-26T15:15:02	Notable gainers among liquid option names this morning include MU (+7.1%), PXD (+7.0%), AN (+3.5%), QEP (+3.3%), and COH (+2.7%),
+OptionAlert	724972567023521794	2016-04-26T14:45:03	Bullish flow in Arcelor Mittal ($MT) today, with 10487 contracts trading and implied vol up 3.5 points to 70%. Shares near $5.41.
+OptionAlert	724965013279150080	2016-04-26T14:15:03	Unusually heavy option volume on today's open include GLW, BWA, WYN, MU, and WHR.
+OptionAlert	724949913470132230	2016-04-26T13:15:02	Largest open interest increases among single stock options for 4/26 include BAX, AAPL, ODP, FB, and COH.
+OptionAlert	724700770956922881	2016-04-25T20:45:02	Total preliminary option volume of 11.6million today is 21% below recent average.  Calls led puts 5.88M to 5.73M.
+OptionAlert	724617724362645504	2016-04-25T15:15:02	Notable gainers among liquid option names this morning include GCI (+2.2%), TSN (+2.2%), AN (+2.1%), STX (+2.0%), and STZ (+1.6%),
+OptionAlert	724610173415919616	2016-04-25T14:45:02	Bullish flow in Sysco Corp ($SYY) today, with 2189 contracts trading and implied vol up 1.3 points to 21%. Shares near $46.02.
+OptionAlert	724602626118156288	2016-04-25T14:15:03	Unusually heavy option volume on today's open include DLTR, ADT, COL, COG, and A.
+OptionAlert	724587523415134210	2016-04-25T13:15:02	Largest open interest increases among single stock options for 4/25 include BAX, BAC, MSFT, V, and AAPL.
+OptionAlert	723609842456338432	2016-04-22T20:30:05	Total preliminary option volume of 17.3million today is 20% above recent average.  Calls led puts 9.20M to 8.14M.
+OptionAlert	723526801557979136	2016-04-22T15:00:06	Notable gainers among liquid option names this morning include SWN (+13.0%), NSC (+8.2%), RDC (+7.0%), ESV (+6.6%), and CNX (+6.2%),
+OptionAlert	723523009693253632	2016-04-22T14:45:02	Bullish flow in Chicos FAS Inc ($CHS) today, with 3860 contracts trading and implied vol up 3.1 points to 48%. Shares near $13.07.
+OptionAlert	723515460042498048	2016-04-22T14:15:02	Unusually heavy option volume on today's open include FLR, BAX, GLW, KMB, and GOOGL.
+OptionAlert	723497195308244992	2016-04-22T13:02:27	Halfway thru earnings with market near all-time highs! Up next week AAPL, TWTR, FB, AMZN   
+OptionAlert	723251220295593984	2016-04-21T20:45:02	Total preliminary option volume of 15.7million today is 9% above recent average.  Puts led calls 7.87M to 7.82M.
+OptionAlert	723246752720117760	2016-04-21T20:27:17	BNN - Watch TV Online | Be cautious on healthcare, short Fitbit and GoPro: Trade Alert 
+OptionAlert	723164413704953856	2016-04-21T15:00:06	Notable gainers among liquid option names this morning include UA (+7.9%), TSCO (+6.0%), NEM (+6.0%), CTXS (+5.7%), and TYC (+5.4%),
+OptionAlert	723160622704275456	2016-04-21T14:45:02	Bullish flow in SPDR S&amp;P Biotech ($XBI) today, with 31250 contracts trading and implied vol up 1.8 points to 40%. Shares near $56.71.
+OptionAlert	723153074173448192	2016-04-21T14:15:03	Unusually heavy option volume on today's open include ADS, CTXS, COH, FITB, and CPB.
+OptionAlert	723137973919854592	2016-04-21T13:15:02	Largest open interest increases among single stock options for 4/21 include BAC, XOM, GE, AAPL, and YHOO.
+OptionAlert	723119103263838209	2016-04-21T12:00:03	Total preliminary option volume of 16.9million today is 16% above recent average.  Calls led puts 9.10M to 7.79M.
+OptionAlert	722885064053231616	2016-04-20T20:30:04	Total preliminary option volume of 16.9million today is 16% above recent average.  Calls led puts 9.10M to 7.79M.
+OptionAlert	722802019958943744	2016-04-20T15:00:05	Notable gainers among liquid option names this morning include DFS (+6.9%), WDC (+4.3%), ISRG (+4.3%), STJ (+4.3%), and CNX (+4.1%),
+OptionAlert	722798237355270145	2016-04-20T14:45:03	Bullish flow in Xilinx Inc ($XLNX) today, with 7585 contracts trading and implied vol up 1.8 points to 31%. Shares near $46.22.
+OptionAlert	722790687280918529	2016-04-20T14:15:03	Unusually heavy option volume on today's open include MAC, DHR, LLTC, CPB, and STJ.
+OptionAlert	722775583520878592	2016-04-20T13:15:02	Largest open interest increases among single stock options for 4/20 include INTC, NFLX, CHK, MSFT, and BAC.
+OptionAlert	722756716341960704	2016-04-20T12:00:04	Total preliminary option volume of 17.5million today is 20% above recent average.  Calls led puts 10.07M to 7.47M.
+OptionAlert	722522675818668034	2016-04-19T20:30:04	Total preliminary option volume of 17.5million today is 20% above recent average.  Calls led puts 10.07M to 7.47M.
+OptionAlert	722474513032691714	2016-04-19T17:18:41	Whatstrading will be teaching how to combine option flow with technical indicators to boost your signals 
+OptionAlert	722439632064024576	2016-04-19T15:00:05	Notable gainers among liquid option names this morning include NE (+10.4%), RIG (+9.6%), ESV (+7.7%), FCX (+7.7%), and RDC (+7.4%),
+OptionAlert	722435847451250689	2016-04-19T14:45:02	Bullish flow in Las Vegas Sands Corp ($LVS) today, with 15834 contracts trading and implied vol up 2.0 points to 33%. Shares near $52.63.
+OptionAlert	722428298064719876	2016-04-19T14:15:02	Unusually heavy option volume on today's open include SWK, CMA, LYB, HOG, and MSI.
+OptionAlert	722413196208971778	2016-04-19T13:15:02	Largest open interest increases among single stock options for 4/19 include BAC, AAPL, NFLX, ETE, and FB.
+OptionAlert	722164054534594561	2016-04-18T20:45:02	Total preliminary option volume of 14.4million today is 3% below recent average.  Calls led puts 7.67M to 6.71M.
+OptionAlert	722132907385581568	2016-04-18T18:41:16	Bullish signals in SPY: Golden cross + P/C , 30d IVol and Skew below 20 percentile. See 'Charts' section @ 
+OptionAlert	722081008837910528	2016-04-18T15:15:02	Notable gainers among liquid option names this morning include HAS (+5.6%), VRTX (+4.4%), IRM (+3.8%), REGN (+3.3%), and TRIP (+3.0%),
+OptionAlert	722073460898426881	2016-04-18T14:45:03	Bullish flow in TripAdvisor Inc ($TRIP) today, with 7073 contracts trading and implied vol up 4.4 points to 61%. Shares near $65.22.
+OptionAlert	722065916280881152	2016-04-18T14:15:04	Unusually heavy option volume on today's open include HAS, SYMC, WIN, ATI, and SEE.
+OptionAlert	722050807986786304	2016-04-18T13:15:02	Latest earnings sheet  shows NFLX pricing in 12% move, IBM 6% and VMW 10%.
+OptionAlert	722031937876074497	2016-04-18T12:00:03	Total preliminary option volume of 17.5million today is 20% above recent average.  Calls led puts 9.57M to 7.91M.
+OptionAlert	721073126692495360	2016-04-15T20:30:04	Total preliminary option volume of 17.5million today is 20% above recent average.  Calls led puts 9.57M to 7.91M.
+OptionAlert	720993850710482949	2016-04-15T15:15:04	Notable gainers among liquid option names this morning include JOY (+4.0%), CMG (+2.9%), URBN (+2.3%), CVC (+2.2%), and M (+2.1%),
+OptionAlert	720986297976926208	2016-04-15T14:45:03	Bullish flow in Chicos FAS Inc ($CHS) today, with 5541 contracts trading and implied vol up 1.7 points to 39%. Shares near $13.20.
+OptionAlert	720974981652471809	2016-04-15T14:00:05	Unusually heavy option volume on today's open include LEN, RF, FITB, ESV, and INTU.
+OptionAlert	720963644738170889	2016-04-15T13:15:02	Largest open interest increases among single stock options for 4/15 include BAC, ETE, VRX, JPM, and C.
+OptionAlert	720710736138395648	2016-04-14T20:30:04	Total preliminary option volume of 15.1million today is 5% above recent average.  Calls led puts 8.27M to 6.86M.
+OptionAlert	720627691746144256	2016-04-14T15:00:04	Notable gainers among liquid option names this morning include CMG (+3.4%), AVP (+2.9%), AA (+2.2%), AN (+2.1%), and THC (+2.1%),
+OptionAlert	720613526314868737	2016-04-14T14:03:47	 Earnings on tap from C, SCHW, NFLX and GS.  Guess which might move 14%?
+OptionAlert	720601258042765312	2016-04-14T13:15:02	Largest open interest increases among single stock options for 4/14 include FB, BAC, C, EBAY, and AAPL.
+OptionAlert	720348352043466752	2016-04-13T20:30:05	Total preliminary option volume of 21.0million today is 47% above recent average.  Calls led puts 11.71M to 9.33M.
+OptionAlert	720265312923426816	2016-04-13T15:00:07	Notable gainers among liquid option names this morning include JOY (+9.7%), ATI (+8.2%), X (+7.1%), THC (+6.4%), and FCX (+6.2%),
+OptionAlert	720261521960361986	2016-04-13T14:45:03	Bullish flow in Ambarella Inc ($AMBA) today, with 11068 contracts trading and implied vol up 1.3 points to 56%. Shares near $43.95.
+OptionAlert	720253980752879616	2016-04-13T14:15:05	Unusually heavy option volume on today's open include RDC, IPG, HUM, DLPH, and CCL.
+OptionAlert	720238870445613057	2016-04-13T13:15:02	Largest open interest increases among single stock options for 4/13 include CHK, BAC, EMC, PBR, and AAPL.
+OptionAlert	719985966568620035	2016-04-12T20:30:05	Total preliminary option volume of 14.9million today is 4% above recent average.  Calls led puts 8.05M to 6.88M.
+OptionAlert	719906683129085952	2016-04-12T15:15:03	Notable gainers among liquid option names this morning include CHK (+26.4%), SWN (+11.1%), MRO (+9.3%), CNX (+8.3%), and RRC (+7.4%),
+OptionAlert	719899132354306048	2016-04-12T14:45:02	Bullish flow in Infosys Limited (ADS) ($INFY) today, with 3340 contracts trading and implied vol up 4.6 points to 49%. Shares near $18.19.
+OptionAlert	719891582732869636	2016-04-12T14:15:02	Unusually heavy option volume on today's open include SEE, DLPH, LB, ABT, and LLY.
+OptionAlert	719876482487697409	2016-04-12T13:15:02	Largest open interest increases among single stock options for 4/12 include CHK, AA, FB, AAPL, and BAC.
+OptionAlert	719627342059057152	2016-04-11T20:45:03	Total preliminary option volume of 13.0million today is 9% below recent average.  Calls led puts 6.93M to 6.05M.
+OptionAlert	719544293606735872	2016-04-11T15:15:02	Notable gainers among liquid option names this morning include STX (+7.0%), NEM (+4.6%), WDC (+4.2%), X (+4.1%), and GME (+3.4%),
+OptionAlert	719529195462922241	2016-04-11T14:15:03	Unusually heavy option volume on today's open include DHR, AMAT, ATI, LYB, and CHRW.
+OptionAlert	719514094760562688	2016-04-11T13:15:02	Largest open interest increases among single stock options for 4/11 include FB, AA, GE, PFE, and AAPL.
+OptionAlert	719495223525654528	2016-04-11T12:00:03	Total preliminary option volume of 14.3million today is 0% below recent average.  Calls led puts 7.62M to 6.70M.
+OptionAlert	718536415466950659	2016-04-08T20:30:05	Total preliminary option volume of 14.3million today is 0% below recent average.  Calls led puts 7.62M to 6.70M.
+OptionAlert	718457132509720576	2016-04-08T15:15:03	Notable gainers among liquid option names this morning include CNX (+8.6%), NBR (+7.1%), FCX (+6.8%), MUR (+6.8%), and ATI (+6.2%),
+OptionAlert	718449580719935488	2016-04-08T14:45:02	Bullish flow in Southwest Airlines Co ($LUV) today, with 7414 contracts trading and implied vol up 1.0 points to 33%. Shares near $44.49.
+OptionAlert	718442031375380480	2016-04-08T14:15:02	Unusually heavy option volume on today's open include COH, NRG, SEE, MSI, and GPS.
+OptionAlert	718438260763201536	2016-04-08T14:00:03	Call buyer energized in NRG as shares lift. paid $1.20 for nearly 1700 June 13 calls to open
+OptionAlert	718426931843186688	2016-04-08T13:15:02	Largest open interest increases among single stock options for 4/8 include AAPL, ODP, BAC, GE, and VRX.
+OptionAlert	718174025361592320	2016-04-07T20:30:05	Total preliminary option volume of 15.2million today is 7% above recent average.  Calls led puts 7.65M to 7.55M.
+OptionAlert	718090981543972864	2016-04-07T15:00:06	Notable gainers among liquid option names this morning include WYNN (+9.7%), BBBY (+5.1%), COG (+3.1%), DRI (+2.4%), and MPC (+2.4%),
+OptionAlert	718087194536181760	2016-04-07T14:45:03	Bullish flow in AK Steel Holding Corp ($AKS) today, with 28671 contracts trading and implied vol up 2.6 points to 92%. Shares near $4.20.
+OptionAlert	718075876655628289	2016-04-07T14:00:04	Unusually heavy option volume on today's open include BBBY, EBAY, CAH, FFIV, and GGP.
+OptionAlert	718064543683969024	2016-04-07T13:15:02	Largest open interest increases among single stock options for 4/7 include PFE, VRX, ETE, TSLA, and AAPL.
+OptionAlert	717811637202329600	2016-04-06T20:30:05	Total preliminary option volume of 13.5million today is 8% below recent average.  Calls led puts 7.38M to 6.10M.
+OptionAlert	717728592923332608	2016-04-06T15:00:05	Notable gainers among liquid option names this morning include BHI (+7.5%), HAL (+5.6%), OI (+5.1%), VRTX (+4.4%), and CELG (+4.4%),
+OptionAlert	717724807417237504	2016-04-06T14:45:03	Bullish flow in TransEnterix Inc New ($TRXC) today, with 6172 contracts trading and implied vol up 6.3 points to 164%. Shares near $5.82.
+OptionAlert	717717255027572736	2016-04-06T14:15:02	Unusually heavy option volume on today's open include TSS, STZ, TYC, EBAY, and ETN.
+OptionAlert	717702157416288256	2016-04-06T13:15:03	Largest open interest increases among single stock options for 4/6 include PFE, VRX, GE, AGN, and BAC.
+OptionAlert	717449250225917952	2016-04-05T20:30:05	Total preliminary option volume of 13.2million today is 12% below recent average.  Calls led puts 6.89M to 6.33M.
+OptionAlert	717369967709130752	2016-04-05T15:15:03	Notable gainers among liquid option names this morning include VRTX (+3.5%), NEM (+2.7%), QEP (+2.2%), GILD (+2.2%), and X (+1.4%),
+OptionAlert	717354869733081089	2016-04-05T14:15:03	Unusually heavy option volume on today's open include PGR, TAP, MAS, AGN, and HRL.
+OptionAlert	717339768703557634	2016-04-05T13:15:03	Largest open interest increases among single stock options for 4/5 include AAPL, FB, PFE, TWTR, and BAC.
+OptionAlert	717320896743084033	2016-04-05T12:00:03	Total preliminary option volume of 11.7million today is 22% below recent average.  Calls led puts 6.04M to 5.70M.
+OptionAlert	717086860200255488	2016-04-04T20:30:04	Total preliminary option volume of 11.7million today is 22% below recent average.  Calls led puts 6.04M to 5.70M.
+OptionAlert	717031043065323521	2016-04-04T16:48:17	QuoththeRavenSA SpeedyCalls OpenOutcrier WallStJesus OptionSweeps  and OptionAlert too!
+OptionAlert	717007578669166592	2016-04-04T15:15:02	Notable gainers among liquid option names this morning include EW (+16.1%), SWN (+11.6%), RRC (+5.0%), CNX (+4.9%), and VRTX (+3.9%),
+OptionAlert	717000029563658240	2016-04-04T14:45:02	Bullish flow in Bed Bath and Beyond Inc ($BBBY) today, with 3203 contracts trading and implied vol up 1.2 points to 34%. Shares near $49.59.
+OptionAlert	716992479749341184	2016-04-04T14:15:02	Unusually heavy option volume on today's open include DLPH, SJM, EW, ALXN, and MDT.
+OptionAlert	716977380380639232	2016-04-04T13:15:02	Largest open interest increases among single stock options for 4/4 include PFE, AAPL, VRX, FB, and DAL.
+OptionAlert	716958511566045184	2016-04-04T12:00:04	Total preliminary option volume of 14.7million today is 3% below recent average.  Calls led puts 7.98M to 6.72M.
+OptionAlert	715999694019764224	2016-04-01T20:30:04	Total preliminary option volume of 14.7million today is 3% below recent average.  Calls led puts 7.98M to 6.72M.
+OptionAlert	715916650571239424	2016-04-01T15:00:05	Notable gainers among liquid option names this morning include REGN (+7.6%), URBN (+3.1%), FIS (+2.6%), NFLX (+2.4%), and MU (+2.3%),
+OptionAlert	715905316039303168	2016-04-01T14:15:02	Unusually heavy option volume on today's open include MAR, DE, STT, EMC, and REGN.
+OptionAlert	715890215760609284	2016-04-01T13:15:02	Largest open interest increases among single stock options for 4/1 include MT, PFE, VRX, T, and GE.
+OptionAlert	715637313917816832	2016-03-31T20:30:06	Total preliminary option volume of 13.1million today is 14% below recent average.  Calls led puts 6.64M to 6.42M.
+OptionAlert	715554263854919680	2016-03-31T15:00:05	Notable gainers among liquid option names this morning include SWN (+4.3%), MRO (+4.0%), XRX (+3.7%), BBY (+3.3%), and ALXN (+2.9%),
+OptionAlert	715550478046773250	2016-03-31T14:45:02	Bullish flow in Xerox Corp ($XRX) today, with 7030 contracts trading and implied vol up 1.6 points to 30%. Shares near $11.25.
+OptionAlert	715542927842361344	2016-03-31T14:15:02	Unusually heavy option volume on today's open include CCE, ALXN, GT, CCL, and XRX.
+OptionAlert	715527828364779523	2016-03-31T13:15:02	Largest open interest increases among single stock options for 3/31 include AAPL, FB, BAC, RIG, and PBR.
+OptionAlert	715274921421758464	2016-03-30T20:30:05	Total preliminary option volume of 16.5million today is 8% above recent average.  Puts led calls 8.26M to 8.22M.
+OptionAlert	715191884910563329	2016-03-30T15:00:07	Notable gainers among liquid option names this morning include MET (+5.2%), ATI (+4.7%), MU (+4.2%), WMB (+4.2%), and RIG (+4.1%),
+OptionAlert	715180540656271360	2016-03-30T14:15:02	Unusually heavy option volume on today's open include COH, NSC, CL, BHI, and DHI.
+OptionAlert	715165441136562177	2016-03-30T13:15:02	Largest open interest increases among single stock options for 3/30 include AAPL, BAC, FB, EMC, and VALE.
+OptionAlert	714912536341000192	2016-03-29T20:30:05	Total preliminary option volume of 13.6million today is 10% below recent average.  Calls led puts 7.26M to 6.35M.
+OptionAlert	714829490866642945	2016-03-29T15:00:06	Notable gainers among liquid option names this morning include GME (+5.7%), TRIP (+2.9%), GCI (+2.2%), WIN (+2.1%), and DHI (+2.0%),
+OptionAlert	714825703523540995	2016-03-29T14:45:03	Bullish flow in Plains GP Holdings LP ($PAGP) today, with 3196 contracts trading and implied vol up 1.4 points to 85%. Shares near $7.92.
+OptionAlert	714818156200660992	2016-03-29T14:15:03	Unusually heavy option volume on today's open include ZION, CCL, CRM, JNPR, and CAG.
+OptionAlert	714803052138643456	2016-03-29T13:15:02	Largest open interest increases among single stock options for 3/29 include AAPL, FB, MDLZ, VRX, and NFLX.
+OptionAlert	714553912578220033	2016-03-28T20:45:03	Total preliminary option volume of 8.9million today is 42% below recent average.  Calls led puts 4.88M to 4.03M.
+OptionAlert	714467098752233474	2016-03-28T15:00:05	Notable gainers among liquid option names this morning include MAR (+4.1%), GHC (+2.9%), TWX (+2.6%), HOT (+2.4%), and FMC (+2.4%),
+OptionAlert	714463315934724096	2016-03-28T14:45:03	Bullish flow in Tableau Software Inc ($DATA) today, with 3161 contracts trading and implied vol up 1.8 points to 48%. Shares near $44.08.
+OptionAlert	714455765814222848	2016-03-28T14:15:03	Unusually heavy option volume on today's open include XLNX, PAYX, PVH, GME, and ALXN.
+OptionAlert	714440665615175680	2016-03-28T13:15:03	Largest open interest increases among single stock options for 3/28 include GE, AAPL, VRX, BAC, and GILD.
+OptionAlert	713100598057504768	2016-03-24T20:30:06	Total preliminary option volume of 13.3million today is 14% below recent average.  Puts led calls 6.81M to 6.50M.
+OptionAlert	713021313032425472	2016-03-24T15:15:02	Notable gainers among liquid option names this morning include SPLS (+7.3%), PVH (+6.1%), ACN (+3.8%), GILD (+3.0%), and REGN (+2.3%),
+OptionAlert	713013764090515457	2016-03-24T14:45:03	Bullish flow in Pandora Media Inc ($P) today, with 16693 contracts trading and implied vol up 4.4 points to 80%. Shares near $10.76.
+OptionAlert	713006212959350784	2016-03-24T14:15:02	Unusually heavy option volume on today's open include STJ, XLNX, GD, PVH, and ACN.
+OptionAlert	712991113741602817	2016-03-24T13:15:02	Largest open interest increases among single stock options for 3/24 include BAX, ODP, CHK, AAPL, and FCX.
+OptionAlert	712741971467583488	2016-03-23T20:45:02	Total preliminary option volume of 14.1million today is 9% below recent average.  Puts led calls 7.14M to 6.97M.
+OptionAlert	712658927712862208	2016-03-23T15:15:03	Notable gainers among liquid option names this morning include POM (+3.0%), AZO (+1.4%), NVDA (+1.4%), UNH (+1.3%), and AMZN (+1.3%),
+OptionAlert	712643825861263360	2016-03-23T14:15:03	Unusually heavy option volume on today's open include BAX, CCL, NKE, RHT, and HES.
+OptionAlert	712628725649645569	2016-03-23T13:15:02	Largest open interest increases among single stock options for 3/23 include ODP, VRX, BAC, SUNE, and AAPL.
+OptionAlert	712377536488075265	2016-03-22T20:36:54	Reminder: Webinar Tomorrow. "Professional option traders know it's all about WhatsTrading" . Register : 
+OptionAlert	712375815569326080	2016-03-22T20:30:04	Total preliminary option volume of 13.0million today is 17% below recent average.  Puts led calls 6.61M to 6.43M.
+OptionAlert	712296537313792000	2016-03-22T15:15:02	Notable gainers among liquid option names this morning include SHW (+4.5%), SPLS (+4.1%), WDC (+3.6%), TSO (+3.3%), and SWN (+2.8%),
+OptionAlert	712281438641639428	2016-03-22T14:15:03	Unusually heavy option volume on today's open include ZTS, FFIV, USB, PVH, and ESRX.
+OptionAlert	712266338190934016	2016-03-22T13:15:02	Largest open interest increases among single stock options for 3/22 include AAPL, VRX, GE, PFE, and BAC.
+OptionAlert	712013432548147200	2016-03-21T20:30:05	Total preliminary option volume of 13.0million today is 18% below recent average.  Calls led puts 7.04M to 5.95M.
+OptionAlert	711934148164845568	2016-03-21T15:15:02	Notable gainers among liquid option names this morning include HOT (+4.1%), EBAY (+2.5%), NKE (+2.2%), ZTS (+2.2%), and REGN (+2.2%),
+OptionAlert	711926600002961409	2016-03-21T14:45:03	Bullish flow in Yelp Inc ($YELP) today, with 3570 contracts trading and implied vol up 1.6 points to 54%. Shares near $20.63.
+OptionAlert	711919050750877696	2016-03-21T14:15:03	Unusually heavy option volume on today's open include IP, PVH, FFIV, DG, and HOT.
+OptionAlert	711903950023356416	2016-03-21T13:15:02	Largest open interest increases among single stock options for 3/21 include AAPL, VRX, BAC, ORCL, and JPM.
+OptionAlert	710933013580935168	2016-03-18T20:56:53	Free webinar next Wednesday with the team who invented option order flow analysis! 
+OptionAlert	710926267307134976	2016-03-18T20:30:05	Total preliminary option volume of 21.6million today is 37% above recent average.  Calls led puts 12.12M to 9.50M.
+OptionAlert	710887619446640640	2016-03-18T17:56:30	CBOE VIX Options Volume Surges 
+OptionAlert	710884733077553153	2016-03-18T17:45:02	Bullish flow Medivation MDVN 5700 calls trading, 7x expected, and IV up 4 points to 64%
+OptionAlert	710846986220650496	2016-03-18T15:15:03	Notable gainers among liquid option names this morning include WYNN (+7.7%), WDC (+5.7%), ADBE (+5.5%), THC (+5.3%), and HOT (+4.7%),
+OptionAlert	710831886394920962	2016-03-18T14:15:02	Unusually heavy option volume on today's open include FTI, WYN, SE, OMC, and BWA.
+OptionAlert	710816786875355141	2016-03-18T13:15:02	Largest open interest increases among single stock options for 3/18 include VRX, GE, BAC, KO, and NFLX.
+OptionAlert	710567644483682304	2016-03-17T20:45:02	Total preliminary option volume of 21.7million today is 40% above recent average.  Calls led puts 13.02M to 8.72M.
+OptionAlert	710484597151289344	2016-03-17T15:15:02	Notable gainers among liquid option names this morning include FDX (+10.5%), OI (+6.3%), ATI (+5.2%), NOV (+4.1%), and SPLS (+4.0%),
+OptionAlert	710477047517339649	2016-03-17T14:45:02	Bullish flow in Emerson Electric Co ($EMR) today, with 14848 contracts trading and implied vol up 4.2 points to 24%. Shares near $53.20.
+OptionAlert	710465730521784322	2016-03-17T14:00:04	Unusually heavy option volume on today's open include SNI, JBL, ACN, FDX, and EMR.
+OptionAlert	710454398158282752	2016-03-17T13:15:02	Largest open interest increases among single stock options for 3/17 include VRX, PFE, GE, BAC, and ORCL.
+OptionAlert	710205258618806275	2016-03-16T20:45:03	Total preliminary option volume of 16.6million today is 7% above recent average.  Calls led puts 9.31M to 7.34M.
+OptionAlert	710122210292269057	2016-03-16T15:15:03	Notable gainers among liquid option names this morning include WMB (+6.6%), ESV (+6.3%), DVN (+5.6%), FCX (+5.0%), and SWN (+4.7%),
+OptionAlert	710107111389306881	2016-03-16T14:15:03	Unusually heavy option volume on today's open include CA, ORCL, HIG, BMY, and CME.
+OptionAlert	710092011509039104	2016-03-16T13:15:03	Largest open interest increases among single stock options for 3/16 include VRX, BAC, QCOM, INTC, and AAPL.
+OptionAlert	710073142836916224	2016-03-16T12:00:04	Total preliminary option volume of 12.8million today is 20% below recent average.  Calls led puts 6.61M to 6.15M.
+OptionAlert	709839101776826368	2016-03-15T20:30:04	Total preliminary option volume of 12.8million today is 20% below recent average.  Calls led puts 6.61M to 6.15M.
+OptionAlert	709759821654921216	2016-03-15T15:15:02	Notable gainers among liquid option names this morning include MJN (+10.9%), AAPL (+2.3%), WHR (+1.6%), SRCL (+1.2%), and NOC (+1.1%),
+OptionAlert	709744722529619973	2016-03-15T14:15:02	Unusually heavy option volume on today's open include NAVI, DOV, ADI, RF, and WY.
+OptionAlert	709729623425355776	2016-03-15T13:15:03	Largest open interest increases among single stock options for 3/15 include BAC, ORCL, BBD, AAPL, and SUNE.
+OptionAlert	709476715807023104	2016-03-14T20:30:05	Total preliminary option volume of 12.6million today is 21% below recent average.  Calls led puts 6.67M to 5.95M.
+OptionAlert	709397435991375872	2016-03-14T15:15:03	Notable gainers among liquid option names this morning include HOT (+6.8%), TRIP (+4.9%), MOS (+3.1%), GME (+2.4%), and JOY (+2.4%),
+OptionAlert	709389887372468225	2016-03-14T14:45:03	Bullish flow in TripAdvisor Inc ($TRIP) today, with 6455 contracts trading and implied vol up 5.2 points to 40%. Shares near $67.30.
+OptionAlert	709378565163393024	2016-03-14T14:00:04	Unusually heavy option volume on today's open include PNR, IR, DAL, CI, and MAR.
+OptionAlert	709367232883781632	2016-03-14T13:15:02	Largest open interest increases among single stock options for 3/14 include BAC, AAPL, INTC, CHK, and BBD.
+OptionAlert	708404656465186817	2016-03-11T21:30:06	Total preliminary option volume of 17.7million today is 11% above recent average.  Calls led puts 9.49M to 8.26M.
+OptionAlert	708329144917106688	2016-03-11T16:30:02	Funky flow in 10% otm GE calls expiring today. 16K 33.5 calls bought to open 2 to 3 cents
+OptionAlert	708325373000486912	2016-03-11T16:15:03	Notable gainers among liquid option names this morning include SWN (+11.2%), NBR (+8.4%), DVN (+8.2%), CF (+7.8%), and APC (+6.6%),
+OptionAlert	708317819310612480	2016-03-11T15:45:02	Bullish flow in Express Inc ($EXPR) today, with 6162 contracts trading and implied vol up 3.1 points to 38%. Shares near $20.95.
+OptionAlert	708310271123726336	2016-03-11T15:15:03	Unusually heavy option volume on today's open include CL, BIIB, LYB, A, and ACN.
+OptionAlert	708295171054641152	2016-03-11T14:15:02	Largest open interest increases among single stock options for 3/11 include CMCSA, BTU, ETE, AAPL, and GOOGL.
+OptionAlert	708042263801307136	2016-03-10T21:30:05	Total preliminary option volume of 16.4million today is 2% above recent average.  Calls led puts 8.47M to 7.95M.
+OptionAlert	707959219081912321	2016-03-10T16:00:05	Notable gainers among liquid option names this morning include DG (+7.1%), BTU (+5.9%), EXPE (+4.4%), X (+4.0%), and DLTR (+2.9%),
+OptionAlert	707944113728036865	2016-03-10T15:00:04	Unusually heavy option volume on today's open include STT, COG, LLTC, DLTR, and CB.
+OptionAlert	707932781742067712	2016-03-10T14:15:02	Largest open interest increases among single stock options for 3/10 include CMCSA, BAC, GOOGL, SUNE, and CVX.
+OptionAlert	707683640264802310	2016-03-09T21:45:02	Total preliminary option volume of 12.1million today is 26% below recent average.  Calls led puts 6.27M to 5.87M.
+OptionAlert	707600593276301318	2016-03-09T16:15:02	Notable gainers among liquid option names this morning include BTU (+20.6%), QEP (+8.5%), TSO (+5.0%), NFX (+4.7%), and CVX (+4.2%),
+OptionAlert	707585496311009280	2016-03-09T15:15:03	Unusually heavy option volume on today's open include TXT, CNP, YHOO, QEP, and DRI.
+OptionAlert	707570395231219712	2016-03-09T14:15:02	Largest open interest increases among single stock options for 3/9 include CMCSA, CPB, SUNE, BAC, and GOOGL.
+OptionAlert	707317488976064512	2016-03-08T21:30:05	Total preliminary option volume of 14.6million today is 12% below recent average.  Puts led calls 7.45M to 7.11M.
+OptionAlert	707234440448253952	2016-03-08T16:00:05	Notable gainers among liquid option names this morning include URBN (+14.5%), NFLX (+2.3%), CLX (+2.3%), GPS (+2.2%), and ORLY (+1.9%),
+OptionAlert	707230655680286721	2016-03-08T15:45:02	Bullish flow in ONEOK Inc ($OKE) today, with 6047 contracts trading and implied vol up 9.9 points to 63%. Shares near $26.34.
+OptionAlert	707223107942129665	2016-03-08T15:15:03	Unusually heavy option volume on today's open include JBL, OKE, URBN, AN, and NUE.
+OptionAlert	707208004786065409	2016-03-08T14:15:02	Largest open interest increases among single stock options for 3/8 include AAPL, DIS, FB, AA, and CAT.
+OptionAlert	707189137238048768	2016-03-08T13:00:03	Total preliminary option volume of 13.7million today is 19% below recent average.  Calls led puts 7.91M to 5.81M.
+OptionAlert	706955099352993792	2016-03-07T21:30:04	Total preliminary option volume of 13.7million today is 19% below recent average.  Calls led puts 7.91M to 5.81M.
+OptionAlert	706875818308456450	2016-03-07T16:15:02	Notable gainers among liquid option names this morning include RRC (+11.3%), MUR (+10.3%), CHK (+8.8%), SWN (+7.5%), and NRG (+6.9%),
+OptionAlert	706868268284268544	2016-03-07T15:45:02	Bullish flow in Harley Davidson Inc ($HOG) today, with 13138 contracts trading and implied vol up 3.1 points to 31%. Shares near $47.40.
+OptionAlert	706856952018632704	2016-03-07T15:00:04	Unusually heavy option volume on today's open include HOG, NRG, URBN, HAL, and DD.
+OptionAlert	706845618908610560	2016-03-07T14:15:02	Largest open interest increases among single stock options for 3/7 include AAPL, AA, SDRL, RIG, and BAC.
+OptionAlert	705867939371687936	2016-03-04T21:30:05	Total preliminary option volume of 23.2million today is 41% above recent average.  Calls led puts 12.61M to 10.59M.
+OptionAlert	705788658675269632	2016-03-04T16:15:03	Notable gainers among liquid option names this morning include X (+11.8%), RIG (+11.0%), FCX (+10.5%), CNX (+10.1%), and SWN (+9.9%),
+OptionAlert	705781108579954692	2016-03-04T15:45:03	Bullish flow in AK Steel Holding Corp ($AKS) today, with 11798 contracts trading and implied vol up 2.3 points to 86%. Shares near $3.91.
+OptionAlert	705773554898477056	2016-03-04T15:15:02	Unusually heavy option volume on today's open include HRB, JBL, RF, KMX, and AVGO.
+OptionAlert	705758457195012096	2016-03-04T14:15:03	Largest open interest increases among single stock options for 3/4 include CMCSA, AAPL, BAC, CHK, and FCX.
+OptionAlert	705739586094370816	2016-03-04T13:00:03	Total preliminary option volume of 18.4million today is 13% above recent average.  Calls led puts 10.18M to 8.21M.
+OptionAlert	705505548142288896	2016-03-03T21:30:04	Total preliminary option volume of 18.4million today is 13% above recent average.  Calls led puts 10.18M to 8.21M.
+OptionAlert	705426270465757184	2016-03-03T16:15:03	Notable gainers among liquid option names this morning include JOY (+17.7%), SWN (+13.5%), NBR (+12.7%), ESV (+9.9%), and NE (+8.5%),
+OptionAlert	705418719774769152	2016-03-03T15:45:03	Bullish flow in Whiting Petroleum Corp ($WLL) today, with 11197 contracts trading and implied vol up 7.0 points to 120%. Shares near $6.14.
+OptionAlert	705411177673838592	2016-03-03T15:15:05	Unusually heavy option volume on today's open include KR, FFIV, JOY, SEE, and KEY.
+OptionAlert	705396070768103424	2016-03-03T14:15:03	Largest open interest increases among single stock options for 3/3 include CMCSA, BAC, FCX, AAPL, and AA.
+OptionAlert	705143163497934848	2016-03-02T21:30:05	Total preliminary option volume of 15.2million today is 8% below recent average.  Calls led puts 8.13M to 7.04M.
+OptionAlert	705063878703620098	2016-03-02T16:15:02	Notable gainers among liquid option names this morning include X (+14.0%), ATI (+8.9%), FCX (+7.1%), RRC (+5.8%), and NBR (+5.0%),
+OptionAlert	705048780576583680	2016-03-02T15:15:03	Unusually heavy option volume on today's open include BXP, DUK, KEY, RF, and HSY.
+OptionAlert	705033681539358720	2016-03-02T14:15:03	Largest open interest increases among single stock options for 3/2 include CMCSA, AAPL, F, CHK, and VRX.
+OptionAlert	705014811319472128	2016-03-02T13:00:04	Total preliminary option volume of 16.6million today is 1% above recent average.  Calls led puts 8.95M to 7.67M.
+OptionAlert	704780770041335810	2016-03-01T21:30:04	Total preliminary option volume of 16.6million today is 1% above recent average.  Calls led puts 8.95M to 7.67M.
+OptionAlert	704701489986576384	2016-03-01T16:15:02	Notable gainers among liquid option names this morning include BWA (+5.4%), STX (+5.2%), YUM (+4.2%), NTRS (+3.9%), and TRIP (+3.8%),
+OptionAlert	704686391360364544	2016-03-01T15:15:02	Unusually heavy option volume on today's open include DLTR, MDT, ADP, MSI, and OI.
+OptionAlert	704671291643731968	2016-03-01T14:15:02	Largest open interest increases among single stock options for 3/1 include CMCSA, AAPL, BAC, GOOGL, and VRX.
+OptionAlert	704418385518579715	2016-02-29T21:30:05	Total preliminary option volume of 12.5million today is 25% below recent average.  Calls led puts 6.38M to 6.08M.
+OptionAlert	704339102821453824	2016-02-29T16:15:02	Notable gainers among liquid option names this morning include CNX (+9.6%), RDC (+8.0%), X (+7.2%), ATI (+7.1%), and WIN (+5.9%),
+OptionAlert	704324004786651137	2016-02-29T15:15:03	Unusually heavy option volume on today's open include QEP, SCHW, ISRG, DFS, and CPB.
+OptionAlert	704308905078292481	2016-02-29T14:15:03	Largest open interest increases among single stock options for 2/29 include BAC, AAPL, RIG, CHK, and PFE.
+OptionAlert	703389147533348864	2016-02-27T01:20:15	Great episode! my favorite quote from Haim was"market quantum mechanics" 
+OptionAlert	703331223700111360	2016-02-26T21:30:05	Total preliminary option volume of 16.6million today is 1% above recent average.  Calls led puts 8.90M to 7.74M.
+OptionAlert	703248172274085888	2016-02-26T16:00:04	Notable gainers among liquid option names this morning include RDC (+15.1%), ESV (+11.6%), NE (+10.5%), OKE (+8.2%), and MRO (+7.7%),
+OptionAlert	703233071697494016	2016-02-26T15:00:04	Unusually heavy option volume on today's open include INTU, FITB, MNST, FDX, and AMT.
+OptionAlert	703221739497635840	2016-02-26T14:15:02	Largest open interest increases among single stock options for 2/26 include AAPL, CHK, OXY, MRO, and JCP.
+OptionAlert	702972598536294401	2016-02-25T21:45:02	Total preliminary option volume of 13.2million today is 19% below recent average.  Calls led puts 6.94M to 6.30M.
+OptionAlert	702898063619268608	2016-02-25T16:48:52	A big bet on gold is getting crowded  via WSJ
+OptionAlert	702889560972378112	2016-02-25T16:15:05	Notable gainers among liquid option names this morning include CRM (+9.0%), PWR (+5.8%), NFX (+5.6%), XRAY (+4.1%), and DLPH (+3.0%),
+OptionAlert	702874452963549184	2016-02-25T15:15:03	Unusually heavy option volume on today's open include CVC, BBY, MCHP, CRM, and HPQ.
+OptionAlert	702859351162286080	2016-02-25T14:15:02	Largest open interest increases among single stock options for 2/25 include ABX, BBY, CRM, BAC, and AAPL.
+OptionAlert	702606446593183746	2016-02-24T21:30:05	Total preliminary option volume of 15.6million today is 6% below recent average.  Puts led calls 7.88M to 7.73M.
+OptionAlert	702527163560534016	2016-02-24T16:15:02	Notable gainers among liquid option names this morning include FSLR (+11.4%), EIX (+3.4%), NEM (+2.8%), IFF (+2.3%), and UTX (+2.2%),
+OptionAlert	702512065467043840	2016-02-24T15:15:03	Unusually heavy option volume on today's open include MCO, FSLR, COG, TJX, and XLNX.
+OptionAlert	702496963674112000	2016-02-24T14:15:02	Largest open interest increases among single stock options for 2/24 include ABX, BAC, AAPL, CSCO, and CHK.
+OptionAlert	702244058899607556	2016-02-23T21:30:05	Total preliminary option volume of 12.6million today is 25% below recent average.  Puts led calls 6.30M to 6.30M.
+OptionAlert	702219668216479745	2016-02-23T19:53:10	"13F Option Data for Q4 2015" by OptionAlert on LinkedIn 
+OptionAlert	702161011789451264	2016-02-23T16:00:05	Notable gainers among liquid option names this morning include MSI (+7.0%), SNI (+3.0%), PVH (+2.3%), M (+2.1%), and AN (+1.7%),
+OptionAlert	702157227537383425	2016-02-23T15:45:03	Bullish flow in Kate Spade and Company ($KATE) today, with 6274 contracts trading and implied vol up 1.0 points to 67%. Shares near $18.08.
+OptionAlert	702149678478053376	2016-02-23T15:15:03	Unusually heavy option volume on today's open include AES, FTR, COL, ADT, and M.
+OptionAlert	702134577037496320	2016-02-23T14:15:02	Largest open interest increases among single stock options for 2/23 include AAPL, BAC, FB, VRX, and CSCO.
+OptionAlert	701881670597791744	2016-02-22T21:30:05	Total preliminary option volume of 15.4million today is 11% below recent average.  Calls led puts 8.17M to 7.18M.
+OptionAlert	701802388429086720	2016-02-22T16:15:02	Notable gainers among liquid option names this morning include FCX (+14.3%), AA (+11.2%), RDC (+9.1%), ESV (+7.9%), and MRO (+7.1%),
+OptionAlert	701783524613947392	2016-02-22T15:00:05	Unusually heavy option volume on today's open include CAH, MUR, GME, SYY, and ATI.
+OptionAlert	701772189406658561	2016-02-22T14:15:02	Largest open interest increases among single stock options for 2/22 include AAPL, BAC, MSFT, INTC, and CSCO.
+OptionAlert	700794508741632001	2016-02-19T21:30:05	Total preliminary option volume of 17.3million today is 0% above recent average.  Calls led puts 8.82M to 8.44M.
+OptionAlert	700711472234680320	2016-02-19T16:00:08	Notable gainers among liquid option names this morning include AMAT (+8.4%), ADSK (+3.5%), LRCX (+3.3%), TSO (+2.8%), and ESS (+2.5%),
+OptionAlert	700707674669899777	2016-02-19T15:45:02	Bullish flow in Groupon Inc ($GRPN) today, with 16875 contracts trading and implied vol up 1.7 points to 84%. Shares near $4.34.
+OptionAlert	700700125857972224	2016-02-19T15:15:03	Unusually heavy option volume on today's open include CA, TWC, JWN, HPQ, and DNR.
+OptionAlert	700685025382109186	2016-02-19T14:15:02	Largest open interest increases among single stock options for 2/19 include BAC, GE, ABX, DVN, and CHK.
+OptionAlert	700666158815514625	2016-02-19T13:00:04	Total preliminary option volume of 16.5million today is 7% below recent average.  Calls led puts 8.79M to 7.72M.
+OptionAlert	700432117927383041	2016-02-18T21:30:04	Total preliminary option volume of 16.5million today is 7% below recent average.  Calls led puts 8.79M to 7.72M.
+OptionAlert	700352836815753217	2016-02-18T16:15:02	Notable gainers among liquid option names this morning include NVDA (+9.5%), CF (+6.2%), IBM (+5.7%), FE (+4.2%), and ADS (+4.0%),
+OptionAlert	700333972388237312	2016-02-18T15:00:05	Unusually heavy option volume on today's open include HOT, COL, DVN, PPL, and MAR.
+OptionAlert	700322637176827905	2016-02-18T14:15:02	Largest open interest increases among single stock options for 2/18 include BAC, GE, KMI, JPM, and TWTR.
+OptionAlert	700307541817999360	2016-02-18T13:15:03	Total preliminary option volume of 18.8million today is 4% above recent average.  Calls led puts 9.89M to 8.93M.
+OptionAlert	700069727092285441	2016-02-17T21:30:04	Total preliminary option volume of 18.8million today is 4% above recent average.  Calls led puts 9.89M to 8.93M.
+OptionAlert	699975349371801603	2016-02-17T15:15:02	Unusually heavy option volume on today's open include CERN, ADT, FOSL, HST, and GRMN.
+OptionAlert	699960249609023489	2016-02-17T14:15:02	Largest open interest increases among single stock options for 2/17 include AAPL, BAC, C, FB, and GRPN.
+OptionAlert	699707344855437314	2016-02-16T21:30:05	Total preliminary option volume of 15.2million today is 17% below recent average.  Calls led puts 8.13M to 7.07M.
+OptionAlert	699624297724301312	2016-02-16T16:00:05	Notable gainers among liquid option names this morning include ADT (+49.5%), FCX (+8.9%), WMB (+7.6%), YHOO (+5.8%), and HRL (+5.5%),
+OptionAlert	699620511895195649	2016-02-16T15:45:03	Bullish flow in Groupon Inc ($GRPN) today, with 20621 contracts trading and implied vol up 10.5 points to 80%. Shares near $3.93.
+OptionAlert	699612961673998337	2016-02-16T15:15:02	Unusually heavy option volume on today's open include THC, ADT, URBN, ZTS, and LH.
+OptionAlert	699597861252698114	2016-02-16T14:15:02	Largest open interest increases among single stock options for 2/16 include BAC, AAPL, JPM, SUNE, and CHK.
+OptionAlert	698257792747098114	2016-02-12T21:30:05	Total preliminary option volume of 17.6million today is 3% below recent average.  Calls led puts 9.54M to 8.07M.
+OptionAlert	698174744559030272	2016-02-12T16:00:05	Notable gainers among liquid option names this morning include DNB (+13.5%), FCX (+12.9%), WYNN (+10.5%), NE (+7.7%), and JPM (+6.2%),
+OptionAlert	698168693465997312	2016-02-12T15:36:02	Last day for early bird special! Join us in the sun AND save $200! 
+OptionAlert	698163411532845056	2016-02-12T15:15:03	Unusually heavy option volume on today's open include WYNN, K, NRG, DVN, and XLNX.
+OptionAlert	698148308758433793	2016-02-12T14:15:02	Largest open interest increases among single stock options for 2/12 include BAC, T, C, AAPL, and BA.
+OptionAlert	697899168065527808	2016-02-11T21:45:02	Total preliminary option volume of 21.3million today is 17% above recent average.  Calls led puts 10.92M to 10.34M.
+OptionAlert	697796653261131778	2016-02-11T14:57:41	Tradingtech Talk with OptionAlert records today at 1pm central. Get your options Q's in now.
+OptionAlert	697816124596027393	2016-02-11T16:15:03	Notable gainers among liquid option names this morning include TRIP (+13.0%), EXPE (+9.6%), CTL (+8.8%), CSCO (+8.5%), and MOS (+7.1%),
+OptionAlert	697808573389217796	2016-02-11T15:45:03	Bullish flow in Electronic Arts Inc ($EA) today, with 25027 contracts trading and implied vol up 3.2 points to 43%. Shares near $58.78.
+OptionAlert	697797260680261633	2016-02-11T15:00:06	Unusually heavy option volume on today's open include MKC, CAH, JNPR, NDAQ, and TRIP.
+OptionAlert	697782155649351681	2016-02-11T14:00:04	Largest open interest increases among single stock options for 2/11 include AAPL, TWTR, TSLA, TWX, and BAC.
+OptionAlert	694166231734173696	2016-02-01T14:31:41	Don't forget, early bird rates for OIC2016 end 2/12!  ISEexchange OptionsClearing
+OptionAlert	697547875484594176	2016-02-10T22:29:07	Honored to be presenting the State of the Industry at OIC2016  Join us in sunny California May 11th!  OptionsConf 
+OptionAlert	697533018219679747	2016-02-10T21:30:05	Total preliminary option volume of 13.7million today is 26% below recent average.  Calls led puts 7.15M to 6.54M.
+OptionAlert	697453735488966660	2016-02-10T16:15:03	Notable gainers among liquid option names this morning include AKAM (+22.7%), SEE (+7.4%), RHT (+4.8%), NFLX (+4.6%), and WMB (+4.5%),
+OptionAlert	697446184898686976	2016-02-10T15:45:03	Bullish flow in Ally Financial Inc ($ALLY) today, with 4395 contracts trading and implied vol up 2.6 points to 47%. Shares near $16.85.
+OptionAlert	697434867273965568	2016-02-10T15:00:04	Unusually heavy option volume on today's open include BHI, QEP, WU, AKAM, and MAS.
+OptionAlert	697419782287728640	2016-02-10T14:00:08	Largest open interest increases among single stock options for 2/10 include BAC, GE, MSFT, DIS, and PFE.
+OptionAlert	697174392565059584	2016-02-09T21:45:02	Total preliminary option volume of 16.6million today is 12% below recent average.  Puts led calls 8.37M to 8.21M.
+OptionAlert	697087578143617026	2016-02-09T16:00:04	Notable gainers among liquid option names this morning include OI (+6.4%), CF (+4.9%), MAS (+4.4%), CRM (+3.8%), and BSX (+3.7%),
+OptionAlert	697083796013842432	2016-02-09T15:45:02	Bullish flow in ZIOPHARM Oncology Inc ($ZIOP) today, with 29733 contracts trading and implied vol up 62.2 points to 166%. Shares near $5.07.
+OptionAlert	697072490884022272	2016-02-09T15:00:07	Unusually heavy option volume on today's open include WYN, AVB, VIAB, OI, and TXT.
+OptionAlert	697061146696818688	2016-02-09T14:15:02	Largest open interest increases among single stock options for 2/9 include BAC, MDLZ, FB, CHK, and AAPL.
+OptionAlert	696808365582905344	2016-02-08T21:30:35	Hey there early birds! ! Don't forget to register for OIC2016 before Feb. 12 to get the discounted rate: 
+OptionAlert	696808247911706629	2016-02-08T21:30:07	Total preliminary option volume of 20.3million today is 8% above recent average.  Puts led calls 10.88M to 9.41M.
+OptionAlert	696728957119553537	2016-02-08T16:15:02	Notable gainers among liquid option names this morning include TSN (+4.7%), COG (+4.3%), JWN (+4.0%), NEM (+3.5%), and JNJ (+2.1%),
+OptionAlert	696721407284269056	2016-02-08T15:45:02	Bullish flow in Yamana Gold Inc ($AUY) today, with 9125 contracts trading and implied vol up 9.2 points to 93%. Shares near $2.53.
+OptionAlert	696713859512532992	2016-02-08T15:15:03	Unusually heavy option volume on today's open include MAS, DG, DLTR, ADBE, and WMB.
+OptionAlert	696698758684405761	2016-02-08T14:15:02	Largest open interest increases among single stock options for 2/8 include FB, MSFT, AAPL, LNKD, and BAC.
+OptionAlert	695721081068507136	2016-02-05T21:30:06	Total preliminary option volume of 19.9million today is 8% above recent average.  Puts led calls 10.21M to 9.67M.
+OptionAlert	695641794206437376	2016-02-05T16:15:02	Notable gainers among liquid option names this morning include TSN (+11.2%), NE (+10.2%), SWN (+7.6%), CNX (+5.9%), and RDC (+5.2%),
+OptionAlert	695634244333367298	2016-02-05T15:45:02	Bullish flow in Encana Corporation ($ECA) today, with 9585 contracts trading and implied vol up 4.4 points to 93%. Shares near $4.37.
+OptionAlert	695626696968511489	2016-02-05T15:15:03	Unusually heavy option volume on today's open include A, AME, SRCL, HOG, and ADBE.
+OptionAlert	695611596043915264	2016-02-05T14:15:02	Largest open interest increases among single stock options for 2/5 include AAPL, BAC, PFE, YHOO, and GE.
+OptionAlert	695358689281122305	2016-02-04T21:30:05	Total preliminary option volume of 17.0million today is 7% below recent average.  Calls led puts 8.99M to 8.04M.
+OptionAlert	695275641919401984	2016-02-04T16:00:05	Notable gainers among liquid option names this morning include FCX (+23.1%), ATI (+17.4%), X (+13.4%), TDC (+12.5%), and ESV (+11.8%),
+OptionAlert	695265480123244544	2016-02-04T15:19:42	GDX Call buyer in Gold Miners ETF can afford a nice gold Rolex today! Near 20K calls sold for $2.53 = $3.5M gain. 
+OptionAlert	695264310470254592	2016-02-04T15:15:03	Unusually heavy option volume on today's open include RL, BSX, MCK, PH, and MSI.
+OptionAlert	695249208450899970	2016-02-04T14:15:03	Largest open interest increases among single stock options for 2/4 include BAC, C, PFE, CHK, and GPRO.
+OptionAlert	694996302493544448	2016-02-03T21:30:05	Total preliminary option volume of 18.7million today is 3% above recent average.  Calls led puts 9.98M to 8.68M.
+OptionAlert	694917018575847424	2016-02-03T16:15:02	Notable gainers among liquid option names this morning include ADT (+9.3%), AVY (+6.8%), NRG (+6.8%), EW (+6.6%), and STX (+6.0%),
+OptionAlert	694909468681859072	2016-02-03T15:45:02	Bullish flow in Lowes Companies Inc ($LOW) today, with 14116 contracts trading and implied vol up 11.0 points to 36%. Shares near $66.79.
+OptionAlert	694901918699753472	2016-02-03T15:15:02	Unusually heavy option volume on today's open include AVY, EW, NOV, LOW, and HBAN.
+OptionAlert	694886819842781184	2016-02-03T14:15:02	Largest open interest increases among single stock options for 2/3 include BAC, FB, AAPL, YHOO, and C.
+OptionAlert	694633911801024513	2016-02-02T21:30:04	Total preliminary option volume of 15.0million today is 16% below recent average.  Puts led calls 7.83M to 7.18M.
+OptionAlert	694539531647893505	2016-02-02T15:15:02	Unusually heavy option volume on today's open include DTE, ROK, MCHP, PBI, and ADM.
+OptionAlert	694524431641776128	2016-02-02T14:15:02	Largest open interest increases among single stock options for 2/2 include BAC, AAPL, FB, TWTR, and PFE.
+OptionAlert	694505561417711617	2016-02-02T13:00:03	Total preliminary option volume of 13.0million today is 26% below recent average.  Calls led puts 6.54M to 6.47M.
+OptionAlert	694271521141952516	2016-02-01T21:30:04	Total preliminary option volume of 13.0million today is 26% below recent average.  Calls led puts 6.54M to 6.47M.
+OptionAlert	694192243113074688	2016-02-01T16:15:02	Notable gainers among liquid option names this morning include SYY (+6.3%), JOY (+5.7%), STX (+5.3%), NFLX (+5.3%), and CMG (+5.1%),
+OptionAlert	694181005243092992	2016-02-01T15:30:23	Home run in Alere ALR as shares jump 50% on deal news. $10 gain on 1000 lot of calls = $1M in just under a month! 
+OptionAlert	694177143287324672	2016-02-01T15:15:02	Unusually heavy option volume on today's open include PGR, SYMC, SYY, RAI, and KSU.
+OptionAlert	694169991361343489	2016-02-01T14:46:37	Outlook 2016: The Year of Outages   
+OptionAlert	694162045114191872	2016-02-01T14:15:03	Largest open interest increases among single stock options for 2/1 include GILD, PBR, BAC, AAPL, and DAL.
+OptionAlert	693202362450776064	2016-01-29T22:41:36	TTT 45 has it all Blockchain HFT SpreadTrading NatGas, a special guest, and of course OptionAlert Whatstrading 
+OptionAlert	693184361961803777	2016-01-29T21:30:05	Total preliminary option volume of 19.9million today is 16% above recent average.  Calls led puts 11.29M to 8.64M.
+OptionAlert	693105078983618560	2016-01-29T16:15:02	Notable gainers among liquid option names this morning include CNX (+15.0%), ATI (+11.9%), STX (+11.8%), WDC (+10.8%), and MU (+7.1%),
+OptionAlert	693097529106374656	2016-01-29T15:45:02	Bullish flow in Avon Products Inc ($AVP) today, with 3251 contracts trading and implied vol up 3.8 points to 118%. Shares near $3.10.
+OptionAlert	693089980613263361	2016-01-29T15:15:03	Unusually heavy option volume on today's open include NAVI, FMC, MNST, ETFC, and SYK.
+OptionAlert	693074879256641536	2016-01-29T14:15:02	Largest open interest increases among single stock options for 1/29 include FB, MSFT, SYF, AAPL, and AMZN.
+OptionAlert	692821974389805056	2016-01-28T21:30:05	Total preliminary option volume of 15.3million today is 9% below recent average.  Calls led puts 8.27M to 7.06M.
+OptionAlert	692742692246261762	2016-01-28T16:15:03	Notable gainers among liquid option names this morning include UA (+16.9%), FB (+13.2%), KMI (+8.7%), CTXS (+8.6%), and HES (+7.9%),
+OptionAlert	692727591921401856	2016-01-28T15:15:02	Unusually heavy option volume on today's open include LH, ABC, JNPR, SHW, and EBAY.
+OptionAlert	692712491940454400	2016-01-28T14:15:02	Largest open interest increases among single stock options for 1/28 include AAPL, FB, BAC, X, and BABA.
+OptionAlert	692693625801687040	2016-01-28T13:00:04	Total preliminary option volume of 15.9million today is 4% below recent average.  Calls led puts 8.38M to 7.50M.
+OptionAlert	692459582526980100	2016-01-27T21:30:04	Total preliminary option volume of 15.9million today is 4% below recent average.  Calls led puts 8.38M to 7.50M.
+OptionAlert	692376544594038784	2016-01-27T16:00:06	Notable gainers among liquid option names this morning include SWN (+6.9%), BIIB (+6.4%), HES (+6.1%), COF (+4.9%), and NBR (+4.8%),
+OptionAlert	692372776561332224	2016-01-27T15:45:08	Bullish flow in Dean Foods Company New ($DF) today, with 6568 contracts trading and implied vol up 8.8 points to 51%. Shares near $19.62.
+OptionAlert	692361441177899009	2016-01-27T15:00:05	Unusually heavy option volume on today's open include TAP, VRTX, MSI, HAL, and BA.
+OptionAlert	692350104662073344	2016-01-27T14:15:02	Largest open interest increases among single stock options for 1/27 include AAPL, BAC, CHK, T, and FB.
+OptionAlert	692097199782633473	2016-01-26T21:30:05	Total preliminary option volume of 13.3million today is 20% below recent average.  Calls led puts 7.47M to 5.84M.
+OptionAlert	692017915713970176	2016-01-26T16:15:02	Notable gainers among liquid option names this morning include WDC (+8.2%), COH (+8.1%), NEM (+5.9%), GLW (+5.9%), and STX (+5.8%),
+OptionAlert	692010367162146816	2016-01-26T15:45:03	Bullish flow in Viacom Inc ($VIAB) today, with 6784 contracts trading and implied vol up 2.2 points to 52%. Shares near $43.92.
+OptionAlert	692002818245431296	2016-01-26T15:15:03	Unusually heavy option volume on today's open include PCP, COH, VAR, HBAN, and HES.
+OptionAlert	691987716469321729	2016-01-26T14:15:02	Largest open interest increases among single stock options for 1/26 include AAPL, BAC, FB, C, and TWTR.
+OptionAlert	691738574866247680	2016-01-25T21:45:02	Total preliminary option volume of 12.1million today is 27% below recent average.  Puts led calls 6.07M to 6.05M.
+OptionAlert	691655528141975552	2016-01-25T16:15:02	Notable gainers among liquid option names this morning include TYC (+7.3%), WMB (+5.4%), WYNN (+4.0%), MAT (+4.0%), and WIN (+3.7%),
+OptionAlert	691640428647600128	2016-01-25T15:15:02	Unusually heavy option volume on today's open include KIM, IRM, SYY, FFIV, and HES.
+OptionAlert	691622705452425217	2016-01-25T14:04:37	Epic blizzard followed by earnings blizzard this week! AAPL, FB,  AMZN and hundreds more. Implied straddle run at 
+OptionAlert	691606461953249280	2016-01-25T13:00:04	Total preliminary option volume of 18.7million today is 11% above recent average.  Calls led puts 9.52M to 9.18M.
+OptionAlert	690647645489070080	2016-01-22T21:30:04	Total preliminary option volume of 18.7million today is 11% above recent average.  Calls led puts 9.52M to 9.18M.
+OptionAlert	690568364041883648	2016-01-22T16:15:02	Notable gainers among liquid option names this morning include WMB (+16.0%), KMI (+10.6%), DVN (+8.3%), OKE (+7.5%), and KSU (+7.2%),
+OptionAlert	690560814466596865	2016-01-22T15:45:02	Bullish flow in Golar LNG Limited ($GLNG) today, with 17501 contracts trading and implied vol up 4.0 points to 127%. Shares near $17.44.
+OptionAlert	690553265621200896	2016-01-22T15:15:03	Unusually heavy option volume on today's open include LM, MCHP, RRC, HP, and AXP.
+OptionAlert	690538164881113090	2016-01-22T14:15:02	Largest open interest increases among single stock options for 1/22 include CHK, BAC, AAPL, PBR, and MU.
+OptionAlert	690289023261220865	2016-01-21T21:45:02	Total preliminary option volume of 16.9million today is 0% above recent average.  Calls led puts 8.62M to 8.28M.
+OptionAlert	690248552983887872	2016-01-21T19:04:13	Single stock option flow in terms of dollar premium traded shows AMZN, AAPL, and FB in the lead with nearly 80M 
+OptionAlert	690209752362651652	2016-01-21T16:30:03	Union Pacific shares see 7% move lower on earnings, in line with straddle est. Eyes on SBUX next. Updated sheet at 
+OptionAlert	690202211108937729	2016-01-21T16:00:05	Notable gainers among liquid option names this morning include KMI (+16.5%), RRC (+10.8%), XLNX (+10.3%), SWN (+9.5%), and CNX (+8.8%),
+OptionAlert	690198431458050048	2016-01-21T15:45:03	Bullish flow in Southwestern Energy ($SWN) today, with 12139 contracts trading and implied vol up 5.7 points to 128%. Shares near $8.11.
+OptionAlert	690190879085236224	2016-01-21T15:15:03	Unusually heavy option volume on today's open include COH, WDC, APC, FFIV, and STX.
+OptionAlert	690175778437332992	2016-01-21T14:15:03	Largest open interest increases among single stock options for 1/21 include BAC, AAPL, C, MSFT, and MU.
+OptionAlert	689926637593477121	2016-01-20T21:45:03	Total preliminary option volume of 26.7million today is 63% above recent average.  Puts led calls 14.27M to 12.48M.
+OptionAlert	689843587874451456	2016-01-20T16:15:02	Notable gainers among liquid option names this morning include APH (+2.8%), MCHP (+0.9%), TEL (+0.5%), LLTC (+0.3%), and RL (+0.2%),
+OptionAlert	689828493010563072	2016-01-20T15:15:03	Unusually heavy option volume on today's open include EXC, CTXS, DVN, IBM, and ECL.
+OptionAlert	689813389556764672	2016-01-20T14:15:02	Largest open interest increases among single stock options for 1/20 include AAPL, NFLX, BAC, CSCO, and COP.
+OptionAlert	689568022953074688	2016-01-19T22:00:02	Earnings on tap from Goldman, KMI, AXP, SBUX and more. Expected move sheet here 
+OptionAlert	689564246158483457	2016-01-19T21:45:02	Total preliminary option volume of 17.0million today is 3% above recent average.  Calls led puts 8.84M to 8.14M.
+OptionAlert	689173089309962240	2016-01-18T19:50:43	TradingTechTalk with OptionAlert is recording tomorrow.  Send us your listener questions.
+OptionAlert	689481205079605248	2016-01-19T16:15:03	Notable gainers among liquid option names this morning include CNX (+7.2%), VIAB (+5.3%), THC (+4.3%), LLY (+4.2%), and NFLX (+3.6%),
+OptionAlert	689466106180800517	2016-01-19T15:15:04	Unusually heavy option volume on today's open include AMT, GGP, TIF, GIS, and CTXS.
+OptionAlert	689458555808657408	2016-01-19T14:45:03	Largest open interest increases among single stock options for 1/19 include AAPL, CHK, MSFT, BAC, and FB.
+OptionAlert	688114698584080384	2016-01-15T21:45:03	Total preliminary option volume of 29.4million today is 84% above recent average.  Puts led calls 16.82M to 12.62M.
+OptionAlert	688027884649345027	2016-01-15T16:00:05	Notable gainers among liquid option names this morning include WYNN (+8.6%), NEM (+2.6%), TIF (+1.8%), GGP (+1.5%), and EA (+1.4%),
+OptionAlert	688024099474518017	2016-01-15T15:45:02	Bullish flow in McDonalds Corp ($MCD) today, with 17671 contracts trading and implied vol up 1.3 points to 28%. Shares near $116.26.
+OptionAlert	688016551283429376	2016-01-15T15:15:03	Unusually heavy option volume on today's open include PEP, ADI, SYY, FAST, and INTC.
+OptionAlert	688001451050819585	2016-01-15T14:15:03	Largest open interest increases among single stock options for 1/15 include TWTR, BAC, AAPL, FOX, and C.
+OptionAlert	687748543172472832	2016-01-14T21:30:05	Total preliminary option volume of 23.4million today is 45% above recent average.  Puts led calls 11.88M to 11.48M.
+OptionAlert	687665498633416704	2016-01-14T16:00:05	Notable gainers among liquid option names this morning include WMB (+13.8%), KMI (+5.9%), THC (+4.9%), SE (+4.6%), and NE (+4.6%),
+OptionAlert	687654163216465920	2016-01-14T15:15:03	Unusually heavy option volume on today's open include JEC, MHK, CVC, BBY, and ALXN.
+OptionAlert	687643349721849856	2016-01-14T14:32:05	Put buyer GPRO powerball winner. Sweep buyer paid 20c for 1100 Jan 13.5 puts Weds shares $14.40. Now $1.65 itm 
+OptionAlert	687639062547705857	2016-01-14T14:15:02	Largest open interest increases among single stock options for 1/14 include BAC, ZINC, VALE, AAPL, and F.
+OptionAlert	687388133478895616	2016-01-13T21:37:56	GPRO buyer of 1100 Jan 13.5 puts at 2pm today, paid 20c.
+OptionAlert	687386154962956288	2016-01-13T21:30:05	Total preliminary option volume of 20.3million today is 29% above recent average.  Puts led calls 10.81M to 9.47M.
+OptionAlert	687306872420982784	2016-01-13T16:15:02	Notable gainers among liquid option names this morning include MET (+6.8%), CMG (+5.9%), ISRG (+4.6%), GGP (+4.3%), and COG (+3.8%),
+OptionAlert	687288006902976512	2016-01-13T15:00:04	Unusually heavy option volume on today's open include ADT, HBAN, PHM, SLB, and INTU.
+OptionAlert	687276677286596608	2016-01-13T14:15:03	Largest open interest increases among single stock options for 1/13 include CHK, TCK, ETE, BAC, and KMI.
+OptionAlert	687023763779620864	2016-01-12T21:30:04	Total preliminary option volume of 17.8million today is 14% above recent average.  Puts led calls 9.01M to 8.83M.
+OptionAlert	686944486816104449	2016-01-12T16:15:03	Notable gainers among liquid option names this morning include CTSH (+4.5%), AET (+3.7%), AKAM (+3.7%), CPB (+3.2%), and ROST (+3.1%),
+OptionAlert	686936935126962176	2016-01-12T15:45:02	Bullish flow in Williams Partners LP New ($WPZ) today, with 2107 contracts trading and implied vol up 5.2 points to 85%. Shares near $20.15.
+OptionAlert	686929387799855104	2016-01-12T15:15:03	Unusually heavy option volume on today's open include JCI, RIG, DLPH, AA, and AKAM.
+OptionAlert	686914285394608129	2016-01-12T14:15:02	Largest open interest increases among single stock options for 1/12 include FCX, BAC, AA, F, and VALE.
+OptionAlert	686895416663740422	2016-01-12T13:00:03	Total preliminary option volume of 19.2million today is 24% above recent average.  Puts led calls 10.05M to 9.15M.
+OptionAlert	686661377864392704	2016-01-11T21:30:04	Total preliminary option volume of 19.2million today is 24% above recent average.  Puts led calls 10.05M to 9.15M.
+OptionAlert	686582097113411584	2016-01-11T16:15:02	Notable gainers among liquid option names this morning include THC (+3.9%), CCL (+3.5%), M (+3.3%), KSS (+2.6%), and ADI (+2.4%),
+OptionAlert	686566998294294528	2016-01-11T15:15:02	Unusually heavy option volume on today's open include CI, DFS, VRTX, KSS, and BTU.
+OptionAlert	686551898086871040	2016-01-11T14:15:02	Largest open interest increases among single stock options for 1/11 include CHK, AAPL, C, BAC, and ORCL.
+OptionAlert	686533027976069120	2016-01-11T13:00:03	Total preliminary option volume of 20.5million today is 35% above recent average.  Puts led calls 11.30M to 9.20M.
+OptionAlert	685574213852393472	2016-01-08T21:30:04	Total preliminary option volume of 20.5million today is 35% above recent average.  Puts led calls 11.30M to 9.20M.
+OptionAlert	685494934317707265	2016-01-08T16:15:02	Notable gainers among liquid option names this morning include EA (+3.2%), RRC (+2.8%), BMS (+2.5%), TWX (+2.3%), and CF (+2.3%),
+OptionAlert	685479834156445696	2016-01-08T15:15:02	Unusually heavy option volume on today's open include BBBY, GPS, AA, KSS, and VIAB.
+OptionAlert	685464734578130946	2016-01-08T14:15:02	Largest open interest increases among single stock options for 1/8 include AAPL, SUNE, BAC, FB, and GE.
+OptionAlert	685215594132684800	2016-01-07T21:45:02	Total preliminary option volume of 25.1million today is 69% above recent average.  Puts led calls 13.83M to 11.27M.
+OptionAlert	685198192716087297	2016-01-07T20:35:54	What shall we do with the drunken trader? XON call buyer taking his licks. 
+OptionAlert	685132545994944512	2016-01-07T16:15:02	Notable gainers among liquid option names this morning include STZ (+5.5%), NRG (+5.0%), GPS (+4.7%), URBN (+4.4%), and M (+3.9%),
+OptionAlert	685124996017078273	2016-01-07T15:45:02	Bullish flow in Qorvo Inc ($QRVO) today, with 4800 contracts trading and implied vol up 10.5 points to 75%. Shares near $45.78.
+OptionAlert	685117447041617921	2016-01-07T15:15:02	Unusually heavy option volume on today's open include DNR, STZ, PNR, MCO, and HST.
+OptionAlert	685102346704130053	2016-01-07T14:15:02	Largest open interest increases among single stock options for 1/7 include AAPL, JD, BAC, NFLX, and COP.
+OptionAlert	684849439954059265	2016-01-06T21:30:05	Total preliminary option volume of 16.7million today is 12% above recent average.  Puts led calls 8.49M to 8.24M.
+OptionAlert	684770158104178688	2016-01-06T16:15:02	Notable gainers among liquid option names this morning include TWX (+4.3%), NFLX (+2.0%), NEM (+1.9%), EBAY (+1.5%), and LUV (+1.4%),
+OptionAlert	684755059113103360	2016-01-06T15:15:02	Unusually heavy option volume on today's open include EMR, PCP, PBI, DLPH, and ESV.
+OptionAlert	684739959211864064	2016-01-06T14:15:02	Largest open interest increases among single stock options for 1/6 include AAPL, BAC, TWX, ODP, and FB.
+OptionAlert	684721088610316289	2016-01-06T13:00:03	Total preliminary option volume of 13.2million today is 12% below recent average.  Calls led puts 6.79M to 6.37M.
+OptionAlert	684487051224465411	2016-01-05T21:30:04	Total preliminary option volume of 13.2million today is 12% below recent average.  Calls led puts 6.79M to 6.37M.
+OptionAlert	684407770234355716	2016-01-05T16:15:02	Notable gainers among liquid option names this morning include FSLR (+7.4%), FLIR (+6.7%), WYNN (+4.3%), MU (+4.3%), and GCI (+3.5%),
+OptionAlert	684400220915003393	2016-01-05T15:45:02	Bullish flow in Office Depot Inc ($ODP) today, with 31291 contracts trading and implied vol up 93.6 points to 94%. Shares near $5.70.
+OptionAlert	684392671725645824	2016-01-05T15:15:02	Early bull in Oracle $300K 10day trade. Buyer 5K Jan 36 calls paid 62 to 63c, opens with breakeven 2% above spot.
+OptionAlert	684388903529377796	2016-01-05T15:00:04	Unusually heavy option volume on today's open include FLIR, MAS, CTSH, GT, and LMT.
+OptionAlert	684377571308486657	2016-01-05T14:15:02	Largest open interest increases among single stock options for 1/5 include AAPL, FB, BAC, CMA, and CY.
+OptionAlert	684128429663490048	2016-01-04T21:45:02	Total preliminary option volume of 16.9million today is 14% above recent average.  Puts led calls 8.79M to 8.09M.
+OptionAlert	684041617477660673	2016-01-04T16:00:05	Notable gainers among liquid option names this morning include NEM (+2.3%), GPS (+2.0%), KSS (+1.9%), TSO (+1.9%), and FLIR (+1.1%),
+OptionAlert	684026522043289600	2016-01-04T15:00:06	Unusually heavy option volume on today's open include RL, GPS, CHRW, DE, and TRIP.
+OptionAlert	684015184315334656	2016-01-04T14:15:02	Largest open interest increases among single stock options for 1/4 include AAPL, FB, BAC, MSFT, and WMB.
+OptionAlert	682675116463882241	2015-12-31T21:30:05	Total preliminary option volume of 12.6million today is 15% below recent average.  Calls led puts 6.73M to 5.88M.
+OptionAlert	682592066384322560	2015-12-31T16:00:05	Notable gainers among liquid option names this morning include SWN (+5.9%), OKE (+3.7%), WMB (+3.4%), RRC (+2.8%), and NRG (+2.4%),
+OptionAlert	682588281498898432	2015-12-31T15:45:02	Bullish flow in Chimerix Inc ($CMRX) today, with 4761 contracts trading and implied vol up 6.8 points to 112%. Shares near $9.51.
+OptionAlert	682576970765434881	2015-12-31T15:00:06	Unusually heavy option volume on today's open include RDC, NBL, CA, APA, and EL.
+OptionAlert	682565636120252416	2015-12-31T14:15:03	Largest open interest increases among single stock options for 12/31 include AAPL, DOW, MSFT, BAC, and YHOO.
+OptionAlert	682312726144757761	2015-12-30T21:30:05	Total preliminary option volume of 8.9million today is 39% below recent average.  Calls led puts 4.57M to 4.34M.
+OptionAlert	682252319392686081	2015-12-30T17:30:03	Hilton call block is 15x daily volume. Nearly 30K Feb 23 calls crossed 57c near midmkt. Sources suggest buyer.
+OptionAlert	682233446501105664	2015-12-30T16:15:03	Notable gainers among liquid option names this morning include ATI (+2.1%), SEE (+1.7%), FFIV (+1.6%), TSO (+1.4%), and ADSK (+1.4%),
+OptionAlert	682225893536862208	2015-12-30T15:45:02	Bullish flow in Weight Watchers ($WTW) today, with 10512 contracts trading and implied vol up 1.3 points to 81%. Shares near $21.76.
+OptionAlert	682219045253439488	2015-12-30T15:17:50	Short term hedge on McDonalds suggests caution after impressive 25% run. 
+OptionAlert	682218345370902528	2015-12-30T15:15:03	Unusually heavy option volume on today's open include ACE, CAG, VIAB, BLK, and HES.
+OptionAlert	682203243418619904	2015-12-30T14:15:02	Largest open interest increases among single stock options for 12/30 include AAPL, BAC, GE, FB, and SUNE.
+OptionAlert	681950350681587712	2015-12-29T21:30:08	Total preliminary option volume of 10.3million today is 30% below recent average.  Calls led puts 5.77M to 4.50M.
+OptionAlert	681871056316043265	2015-12-29T16:15:03	Notable gainers among liquid option names this morning include KSS (+4.1%), URBN (+3.4%), WYNN (+3.3%), CNX (+2.9%), and VRTX (+2.9%),
+OptionAlert	681863505461514240	2015-12-29T15:45:02	Bullish flow in Medivation Inc ($MDVN) today, with 3212 contracts trading and implied vol up 3.3 points to 56%. Shares near $48.24.
+OptionAlert	681855956561575936	2015-12-29T15:15:02	Unusually heavy option volume on today's open include CERN, DVN, KORS, GS, and KSS.
+OptionAlert	681840855544651776	2015-12-29T14:15:02	Largest open interest increases among single stock options for 12/29 include CY, AAPL, FB, MSFT, and AMZN.
+OptionAlert	681591714012856321	2015-12-28T21:45:02	Total preliminary option volume of 8.7million today is 41% below recent average.  Calls led puts 4.46M to 4.25M.
+OptionAlert	681508668265869312	2015-12-28T16:15:02	Notable gainers among liquid option names this morning include SWN (+1.6%), DIS (+0.9%), ICE (+0.8%), AMZN (+0.7%), and NDAQ (+0.7%),
+OptionAlert	681493568880537600	2015-12-28T15:15:03	Unusually heavy option volume on today's open include HCP, MDLZ, KORS, ALXN, and KSU.
+OptionAlert	681478470577201153	2015-12-28T14:15:03	Largest open interest increases among single stock options for 12/28 include NKE, AAPL, BAC, SUNE, and FB.
+OptionAlert	680142166014861313	2015-12-24T21:45:03	Total preliminary option volume of 6.0million today is 60% below recent average.  Calls led puts 3.23M to 2.82M.
+OptionAlert	680055351186710528	2015-12-24T16:00:05	Notable gainers among liquid option names this morning include BTU (+7.9%), NAVI (+3.7%), NTAP (+2.3%), CNX (+2.2%), and WDC (+2.1%),
+OptionAlert	680051566745903104	2015-12-24T15:45:02	Bullish flow in TherapeuticsMD Inc ($TXMD) today, with 2032 contracts trading and implied vol up 3.4 points to 79%. Shares near $10.95.
+OptionAlert	680044017527205889	2015-12-24T15:15:03	Unusually heavy option volume on today's open include KMI, AMT, BBBY, GT, and NKE.
+OptionAlert	680028916879364096	2015-12-24T14:15:02	Largest open interest increases among single stock options for 12/24 include AAPL, FCX, F, FB, and BAC.
+OptionAlert	680010046391095298	2015-12-24T13:00:03	Total preliminary option volume of 13.1million today is 15% below recent average.  Calls led puts 7.46M to 5.59M.
+OptionAlert	679776007771914240	2015-12-23T21:30:04	Total preliminary option volume of 13.1million today is 15% below recent average.  Calls led puts 7.46M to 5.59M.
+OptionAlert	679696729457999872	2015-12-23T16:15:03	Notable gainers among liquid option names this morning include FCX (+13.2%), WMB (+10.6%), DVN (+8.8%), MRO (+8.1%), and CELG (+8.1%),

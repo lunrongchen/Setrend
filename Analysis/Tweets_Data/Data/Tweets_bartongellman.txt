@@ -1,0 +1,120 @@
+bartongellman	725324474686517248	2016-04-27T14:03:25	thegrugq Sometimes, not nearly always.
+bartongellman	725324168795951104	2016-04-27T14:02:12	For those asking, CNN will broadcast excerpts of Snowden-FareedZakaria crypto debate Sunday 10 am. We’ll post full archive link next week.
+bartongellman	725323477331394560	2016-04-27T13:59:27	jacklgoldsmith If most exploits are bought, that’s a lot of narrowing. Vendors will want non disclosure clause &amp; so will FBI, no?
+bartongellman	725321730357649408	2016-04-27T13:52:31	DevlinBarrett jacklgoldsmith Right. You reported that. Meant to say so.
+bartongellman	725314128785620992	2016-04-27T13:22:18	That’s an intelligible answer. Also an exception that would swallow the WH “vulnerability equities” task force.  
+bartongellman	725313031790534656	2016-04-27T13:17:57	Really quite funny performance art video on “nothing to hide.” 
+bartongellman	725156347554238464	2016-04-27T02:55:20	I’m looking into an archive link for tonight’s debate. dangillmor
+bartongellman	725082204657881088	2016-04-26T22:00:43	T minus 30 minutes for the Snowden-Zakaria crypto debate. Tune in.  
+bartongellman	725078877912064004	2016-04-26T21:47:30	Question for Snowden or FareedZakaria at tonight’s crypto debate? Use DOTC2016 and keep it on topic. .
+bartongellman	725029879641702401	2016-04-26T18:32:48	If accurate, I find this inexplicable. The FBI used a tool on vital forensic evidence without knowing what it does? 
+bartongellman	724987141823012866	2016-04-26T15:42:58	Tonight’s crypto debate, Snowden v FareedZakaria, sold out. You can livestream at . Tweet questions to DOTC2016.
+bartongellman	723238528331726849	2016-04-21T19:54:36	stewartbaker alvarombedoya  Preemptively? They got Booth after. Interesting question is whether we want room for Tubman-style lawbreaking.
+bartongellman	722856409168285696	2016-04-20T18:36:12	Any good discussion about crypto must begin with the admission by Congress that government is still capable of civil rights atrocities.
+bartongellman	722839261469257728	2016-04-20T17:28:04	The most important line in the new FISC opinion is a quote from Special Advocate Amy Jeffress's amicus brief: 
+bartongellman	722834633876856836	2016-04-20T17:09:40	In fact, the FBI Minimization rules literally *encourage* agents to use FISA 702 data for domestic criminal purposes 
+bartongellman	722862725601325056	2016-04-20T19:01:18	Likely true. See alvarombedoya on why surveillance culture would have caught Harriet Tubman.  
+bartongellman	720451607310245889	2016-04-14T03:20:23	PattieGardner paulmd199 Yes it should be live streamed.
+bartongellman	720301166005985280	2016-04-13T17:22:35	This is a ticketed event, so reserve yours here if you’ll be in New York on April 26:  
+bartongellman	720259435877310464	2016-04-13T14:36:45	Resolved: USG should have lawful access to any encrypted communication or device. Discuss.  
+bartongellman	719499405766893568	2016-04-11T12:16:40	Attention ad industry: your insistence on letting ads track users is what enables this to happen. 
+bartongellman	718424961455648770	2016-04-08T13:07:13	ethanchiel Bless you.
+bartongellman	718392448054136833	2016-04-08T10:58:01	Journalists (and everyone): please use something other than Scribd... 
+bartongellman	717753760953475072	2016-04-06T16:40:06	The technology may be new, but the argument isn't. SamAdlerBell on the decades-old encryption debate: 
+bartongellman	717786878494248960	2016-04-06T18:51:42	lilygellman Conspiring etymologists, more like.
+bartongellman	715896156484714496	2016-04-01T13:38:39	Oh, please, yes. 
+bartongellman	714939382403301376	2016-03-29T22:16:46	ErrataRob With crypto keys in plaintext? Missed that if the article said so.
+bartongellman	714937578106068992	2016-03-29T22:09:36	ErrataRob Right, got that. Just wondering how you see “grab” happening. Interrogation to compel passphrase disclosure?
+bartongellman	714933467524497408	2016-03-29T21:53:16	ErrataRob Whatcha mean in post by “grab their keys”? Does it make a difference if the containers required keyfiles as well as passphrase?
+bartongellman	714919654146371584	2016-03-29T20:58:22	I won’t delete this but my facts were wrong. See replies by ashk4n &amp; csoghoian.  
+bartongellman	714919130785300481	2016-03-29T20:56:17	beadony And in practice the precedent could have equally applied to forcing Apple to deliver remote exploits.
+bartongellman	714918572326313984	2016-03-29T20:54:04	beadony But in principle forcing a co to help is worse than an FBI breakin. Breaks consumer trust model completely.
+bartongellman	714917857503612928	2016-03-29T20:51:14	beadony 1st see replies by ashk4n &amp; csoghoian. My facts seem to be wrong.
+bartongellman	714910855675179008	2016-03-29T20:23:25	Ok. I derped that last tweet. Wonder if I should delete it to limit fud.  
+bartongellman	714908448895451136	2016-03-29T20:13:51	FBI can crack new iPhone hardware &amp; iOS. Unless it’s remote-deployable, I’d rather see exploit than US court win.  
+bartongellman	714522983751098369	2016-03-28T18:42:09	This is the deeply reported piece I've been waiting for on Hillary Clinton's email, by robertoharrow. .
+bartongellman	713713003041058816	2016-03-26T13:03:34	Facebook says “This lawsuit is without merit,” but doesn’t deny the facts. 
+bartongellman	712693852830871552	2016-03-23T17:33:50	Fixed. This bit you too? Time Machine restore ~/Library/Containers/com.apple.configurator,  ~/Library/Keychains and /var/db/lockdown.
+bartongellman	712415505286635522	2016-03-22T23:07:47	Updated to iOS 9.3 and iTunes stopped recognizing a phone supervised with Configurator. /var/db/lockdown unchanged. Help? JZdziarski
+bartongellman	712375966543257600	2016-03-22T20:30:40	JZdziarski Is there a (non-default) way to do it?
+bartongellman	712278949053726720	2016-03-22T14:05:09	Today, if I delete an iMessage, it stays on a free list in SQLite, and is sent to two more computers after the fact. This isn’t good design.
+bartongellman	712006249366290432	2016-03-21T20:01:32	ctcasberg Wanna send me a pdf? Not sure I'm looking for recurring subscription.
+bartongellman	711227453134520320	2016-03-19T16:26:53	Recommended  
+bartongellman	710831009617596417	2016-03-18T14:11:33	Web ads have become a system where when you walk into a store, an army of salespeople secretly follow you home. Occasionally they rob you..
+bartongellman	709907493519015936	2016-03-16T01:01:50	RachelBLevinson Natch
+bartongellman	709905949662834688	2016-03-16T00:55:42	Election night question from 8 year old: “I have a question about Democrats and Republicans. Are they sorted, or do they sort themselves?”
+bartongellman	709761406036533248	2016-03-15T15:21:20	Defense beat old timers: Anyone have a cite to AF Gen. McPeak's offer to drop dumb bombs on me in 1991? Response to .
+bartongellman	709543895332470785	2016-03-15T00:57:01	edstole @xavierdesmond What cover?
+bartongellman	707988680552615937	2016-03-10T17:57:09	rsingel Well played.
+bartongellman	707988549442924545	2016-03-10T17:56:38	Sheri883 ;-)
+bartongellman	707988278373441538	2016-03-10T17:55:34	ProPublica How do I get a short link to one of your stories?
+bartongellman	707382741281669124	2016-03-09T01:49:22	This is a fantastic idea.  
+bartongellman	706071661288755200	2016-03-05T10:59:36	Our brains are pretty extraordinary "secure enclaves". It's not that radical of a concept. It's okay to have spaces LE can't have access to.
+bartongellman	706509407782309888	2016-03-06T15:59:03	This is a funny and truly original take on Apple-FBI. Recommended.  
+bartongellman	706479650416029696	2016-03-06T14:00:49	.JTSEO9 csoghoian dotMudge Anyone know of there’s an iOS app for this kind of analysis?
+bartongellman	705586401753088001	2016-03-04T02:51:21	bartongellman No, the Secret Service is there to keep the reporters in the pen.
+bartongellman	705585874969477121	2016-03-04T02:49:16	If they do actually come to blows on stage, do their Secret Service details fight too? GOPDebate
+bartongellman	705120906318897152	2016-03-02T20:01:39	? 1Password jessysaurusrex 
+bartongellman	704320772827975681	2016-02-29T15:02:12	So everyone who's excited about "Spotlight" winning will subscribe to a local newspaper now, right?
+bartongellman	703002328287322113	2016-02-25T23:43:10	ncweaver Oh, that last paragraph is certainly suggestive.
+bartongellman	702986295170224128	2016-02-25T22:39:28	Apple brief p. 27 says USG, citing no case, claims that courts have compelled vendors “to write some amount of code." Did it happen in FISC?
+bartongellman	702952677282549760	2016-02-25T20:25:53	JZdziarski Whatcha use on OS X or installable by Brew?
+bartongellman	702870049762222081	2016-02-25T14:57:33	Interesting. Reasonable surmise that Apple plans to lock itself out of iMessage traffic as well as device crypto. 
+bartongellman	702587258394812416	2016-02-24T20:13:50	kashhill EricAdler2 Neither of us is a lawyer, but the judge seems to have made a 4th Amendment finding on some theory of state action.
+bartongellman	702541706395328512	2016-02-24T17:12:50	charlie_savage Thanks for the heads up.
+bartongellman	702541501264486400	2016-02-24T17:12:01	.ioerror Just wait. By this doctrine, the more people learn about wall-penetrating FLIR, the less they 'reasonably' expect bedroom privacy.
+bartongellman	702539627626962944	2016-02-24T17:04:34	(2) Judge rules that a Tor user, choosing the securest tech on earth to protect his privacy, shows no intent ... to protect his privacy.
+bartongellman	702538655898927105	2016-02-24T17:00:42	(1) How badly broken is 3rd Party Doctrine and 'reasonable expectation of privacy' under the 4th Amendment? 
+bartongellman	701895541802852352	2016-02-22T22:25:12	Really outstanding news. 
+bartongellman	700543200734289924	2016-02-19T04:51:29	Helpful piece, micahflee: . You sure the 80ms delay is enforced in hardware, not iOS? If not, 11 digits are too few.
+bartongellman	699794693140389889	2016-02-17T03:17:11	mattblaze csoghoian Can it be installed without PIN, and without access to an iTunes backup?
+bartongellman	699794151949389824	2016-02-17T03:15:02	kevinchen SteveBellovin That page warns its product won't stop device wipe after 10 attempts. The demo unlock is with PIN 0005  ;-)
+bartongellman	696842261674520576	2016-02-08T23:45:16	sabanaut If I'm in a 2way video chat (flavor-agnostic, but e.g. Facetime or Hangout) I want to capture it to local file.
+bartongellman	696768326140325888	2016-02-08T18:51:28	sabanaut Appreciated but that looks pretty complex to use. What settings would you use to capture a video call, audio from both ends?
+bartongellman	696767979472691200	2016-02-08T18:50:06	I've been reliably informed that 'surveillance industrial complex' in German is Uberwachungsindustriekomplex. Same # syllables but way cool.
+bartongellman	695320756339736576	2016-02-04T18:59:21	Hive mind, what do you use to capture video &amp; sound on a Mac from a Facetime or Google Hangout chat? It can't require sending to a server.
+bartongellman	693568260550311937	2016-01-30T22:55:33	Susan_Hennessey You know the ropes, not me. The outcome is foolish. I don’t know anyone more widely trusted with sensitive information.
+bartongellman	693566338183360513	2016-01-30T22:47:55	Susan_Hennessey Might have to split the tab.
+bartongellman	693563953285369856	2016-01-30T22:38:26	Susan_Hennessey benwizner ashk4n Didn’t know constituent service route was plausible here. Interesting.
+bartongellman	693563621734006789	2016-01-30T22:37:07	Susan_Hennessey No allegation made. 140 chars, etc. No direct evidence and and no prospect of getting any, but I’d bet you a beer.
+bartongellman	693247028416090112	2016-01-30T01:39:06	MythSerene Yes.
+bartongellman	693232655261900800	2016-01-30T00:41:59	To be clear, ashk4n didn't cause any Snowden docs to leak. He made our NSA stories better &amp; fairer--and the workspace far more secure.
+bartongellman	693228023252946945	2016-01-30T00:23:34	Looks like the natsec bureaucracy choked on a clearance for ashk4n. Big loss of talent &amp; integrity at the WH. 
+bartongellman	693107472131817472	2016-01-29T16:24:33	My conversation with Snowden on secrecy, surveillance &amp; free expression is online from LAReviewofBooks. .
+bartongellman	690166578353160192	2016-01-21T13:38:29	@SnowdenK9 dearner Not biographer. Book forthcoming on Snowden and the surveillance industrial revolution.
+bartongellman	689527902057136129	2016-01-19T19:20:37	Popehat doctorow Legal waivers are my #1 reason for switching doctors in recent years. I cross out the language, leave if they insist.
+bartongellman	689487569852039168	2016-01-19T16:40:21	gregqt15 kaepora I agree. I've removed Peerio from my Secure Contacts page -- .
+bartongellman	688874716241743874	2016-01-18T00:05:05	.jehld and I spoke by phone tonight with Jason Rezaian. Here's our update in a newsroom memo. 
+bartongellman	688917338255654912	2016-01-18T02:54:27	Moderating is hard. Lester Holt makes it look easy. Prepared, strong folos, no snark, knows when to let the candidates talk. DemDebate
+bartongellman	688374421967343616	2016-01-16T14:57:06	I sure hope this is true.  
+bartongellman	687489821774884864	2016-01-14T04:22:01	marciahofmann Doing both would be high quality trolling. 4 years, then Glomar.
+bartongellman	687366215103295488	2016-01-13T20:10:50	NSA estimates “it will take 4 years to process” my year-old FOIA request. So something to look forward to.
+bartongellman	687299474469851136	2016-01-13T15:45:38	sawaba Side channel attack. ;-)
+bartongellman	687268590932881408	2016-01-13T13:42:55	“Military-grade Krypto,” implemented poorly. NYC this morning. 
+bartongellman	685284624826806272	2016-01-08T02:19:21	NSAcodenames Haven’t fact checked everything, obviously, but looked and liked.
+bartongellman	684814096714313728	2016-01-06T19:09:38	bartonswaim We must indeed. It was a good piece.
+bartongellman	684392061181759489	2016-01-05T15:12:37	The nonpareil RobinGivhan, social as well as fashion critic, dissects the strategy of Cosby’s perp walk outfit. 
+bartongellman	680753087007555584	2015-12-26T14:12:38	Oona Hathaway &amp; I argue that USG's prepub review causes "pervasive and unjustifiable harms to freedom of speech"   
+bartongellman	680977254273429505	2015-12-27T05:03:24	sabinsdn 3x0sun telegram Yes, Google, Yahoo &amp; Microsoft all encrypted those after our story.
+bartongellman	680861732202516480	2015-12-26T21:24:21	Rose_Marie_Holt 🎯
+bartongellman	680859829972418560	2015-12-26T21:16:47	The name of every Deer Valley ski run could be an NSA cover name. Some are. Fairview, for one. Discuss.
+bartongellman	679037851254710273	2015-12-21T20:36:54	WSJ profiles washingtonpost digital under Bezos, now #2 news site by traffic. Conveniently, WP has a $19/year sale. 
+bartongellman	677580192802582530	2015-12-17T20:04:41	snowdenizer Helping understand and interpret them. He was an important part of The Washington Post reporting team, as consultant.
+bartongellman	677503957883834372	2015-12-17T15:01:45	“Dude,” he says in a homebrew self driving car going 65mph, “the first time it worked was this morning.” 
+bartongellman	677498858402947072	2015-12-17T14:41:29	Karma bites. Drug Executive Martin Shkreli Arrested on Fraud Charges 
+bartongellman	677487783817138176	2015-12-17T13:57:29	BradMossEsq Right? Senior officials fear sitting in a room with a Snowden Hangout or 1 redacted slide. Wimps. Someone worked hard for this.
+bartongellman	677485240466714624	2015-12-17T13:47:23	Also, dude was my SQL tutor. I knew him when.  
+bartongellman	677485025084985344	2015-12-17T13:46:31	Impressed the White House gave a job like this to a man who did such great work unpacking the Snowden files.  
+bartongellman	676739517320163329	2015-12-15T12:24:08	Not many people realize Disney runs a huge intelligence operation and is one of the biggest employers of all-source analysts outside the USG
+bartongellman	676948705270984706	2015-12-16T02:15:23	What is with CNN’s relentless campaign in the guise of news for more surveillance, less privacy? Talking to you, Dana Bash. gopdebate
+bartongellman	676591498058690560	2015-12-15T02:35:58	GPGTools please folo back. Woukd like to dm.
+bartongellman	676470700060909568	2015-12-14T18:35:57	GPGTools Sent email &amp; posted in forum, no reply.
+bartongellman	675048637001572352	2015-12-10T20:25:11	Fantastic technical deep dive on how washingtonpost rolled out HTTPS, and the challenges they faced:  willvanwazer
+bartongellman	675100525352890368	2015-12-10T23:51:22	GPGTools follow for DM?
+bartongellman	673886796900626433	2015-12-07T15:28:27	I'm shuddering to imagine what kind of mass surveillance program would be needed to identify a conspiracy between a married couple.
+bartongellman	672059399083552768	2015-12-02T14:27:01	Uncompromising reply by SteveCollNY to attack by Exxon (a Columbia donor) on the J School’s reporting. Bravo. 
+bartongellman	672029698155798528	2015-12-02T12:29:00	FredericJacobs Where’s that from?
+bartongellman	669288933113667584	2015-11-24T22:58:11	jreichelt I’m not going to debate it in 140 characters. Paris plot showed close to zero comsec. There’s no predicate for your question.
+bartongellman	668465981489094656	2015-11-22T16:28:04	Iran sentences WaPo's jrezaian to jail. No details. Lawyer told nothing. Opaque system persists in its cruelty. 
+bartongellman	667739721469136896	2015-11-20T16:22:10	Looks promising for digital security. A lot depends on ease of setup for Muggles. Write a kickass manual, nitrokey. 
+bartongellman	667365035325435904	2015-11-19T15:33:18	Aaaand … confirmed. smekhennet missy_ryan Anthony_Faiola 

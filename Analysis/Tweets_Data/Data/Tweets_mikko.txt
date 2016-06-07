@@ -1,0 +1,1286 @@
+mikko	725102679777771520	2016-04-26T23:22:05	“People come out of the cannabis closet to me”: The highlights from CollisionConf Day One. What a day. 
+mikko	725120072809730048	2016-04-27T00:31:12	Actually just rode in an elevator with an investor and gave her my pitch. Is this real life? CollisionConf
+mikko	725026554779209729	2016-04-26T18:19:35	Just had the pleasure of meeting Stephen Wolfram. I believe there's a puzzle of some kind on his business card. 
+mikko	725023645098192897	2016-04-26T18:08:01	Thank You, tarranms. 
+mikko	725011001482088448	2016-04-26T17:17:47	"The problems we are facing aren't technical, they are social" mikko live on CollisionConf  
+mikko	724979755905355776	2016-04-26T15:13:37	Yes, I believe I've seen a movie on this. 
+mikko	724958715892256768	2016-04-26T13:50:01	We’re delighted that infosec luminary Mikko will keynote at infosec16 on profiling the connected cyber criminal  
+mikko	724979139158138881	2016-04-26T15:11:10	dmichl It does? Link?
+mikko	724978959197294593	2016-04-26T15:10:27	dl1mur4tdj Thanks for the link!
+mikko	724785973637189633	2016-04-26T02:23:36	Is mikko a security executive leading a double life as a secret pop star? 🤔 
+mikko	724909390705352704	2016-04-26T10:34:01	MSDTechNews In this case, United States.
+mikko	724908991948677120	2016-04-26T10:32:26	DigiWarfare SwiftOnSecurity How secure? Fn secure.
+mikko	724908872738152449	2016-04-26T10:31:58	piercecp SwiftOnSecurity It's the law.
+mikko	724908818526773248	2016-04-26T10:31:45	SwiftOnSecurity Answer: yes.
+mikko	724722905007816704	2016-04-25T22:12:59	Live on stage tonight. 
+mikko	724682311459954688	2016-04-25T19:31:41	Trojan7Sec We like getting samples.
+mikko	724681767744053252	2016-04-25T19:29:32	Trojan7Sec Sorry, what?
+mikko	724522596792971264	2016-04-25T08:57:02	The C&amp;C from WarGames. Circa 1983. No overhead projector… 
+mikko	724535735504785409	2016-04-25T09:49:15	The SWIFT malware sample was uploaded to Virustotal possibly by the author himself, to find out if static antiviruses detect it or not.
+mikko	724535341651255296	2016-04-25T09:47:41	Researchers at BAE found the malware sample that was used by to redirect SWIFT transfers worth $951 million. 
+mikko	724531069308014592	2016-04-25T09:30:42	"The world of cybercrime is becoming both more complex and more professional"  mikko Hypponen
+mikko	724533119500619777	2016-04-25T09:38:51	_ Well, I was simply wondering who might have registered the twitter handle “_”, and ran across your tweet.
+mikko	724532853904683008	2016-04-25T09:37:48	dawn_alderson Thanks.
+mikko	724532673402802176	2016-04-25T09:37:05	dl1mur4tdj I have no idea of open positions in there. Mail them.
+mikko	724350784918437888	2011-06-24T14:07:29	Credit card encryption hack: Divide the digits embossed on the front of the card by 1 to get the credit card number.
+mikko	724350756820779008	2016-04-24T21:34:19	cyclerunner ALL OF THEM
+mikko	724350712973500417	2016-04-24T21:34:12	dawn_alderson I don't think so, sorry...
+mikko	724350628273786880	2016-04-24T21:34:02	davedittrich Yup, it's dense.
+mikko	724350298274320384	2016-04-24T21:33:42	woodpunk Thanks Tim, all the best!
+mikko	724348108822462464	2016-04-24T21:23:41	dl1mur4tdj That's correct.
+mikko	724324960446107648	2016-04-24T19:51:42	tje True, missed that! Not all SSD. Cc: tonytiigeri TapioYlitalo
+mikko	724324692526530564	2016-04-24T19:50:38	windyoona No problem, but it on a credit card.
+mikko	724324493842350080	2016-04-24T19:49:51	I'll be speaking in New York city tomorrow evening. See  IVYConnect 
+mikko	724324411273281536	2016-04-24T19:49:31	mhbx Here's another example, this is from a newspaper ad in Finland. They are trying to influence voters. 
+mikko	724324082737647616	2016-04-24T19:48:13	DrAndersBjork No. That's bullshit.
+mikko	724324011442880512	2016-04-24T19:47:56	dl1mur4tdj Nice video, thanks!
+mikko	724322793895112704	2016-04-24T19:43:05	windyoona Missed what?
+mikko	724320608209768448	2016-04-24T19:34:24	450 terabytes of SSD storage for $120k. 
+mikko	724306391909974016	2016-04-24T18:37:55	SecureSamurai Drama queen game console. 
+mikko	724238293152444417	2016-04-24T14:07:19	Drama queen fax machine. 
+mikko	724187136019292160	2016-04-24T10:44:02	Honest logos  by Hertzen83
+mikko	723842753134731264	2016-04-23T11:55:35	Geek out! Just got my copy of the •ARTCADE• coffee table book. Thanks, woodpunk &amp; bitmap_books! 
+mikko	723493214632603648	2016-04-22T12:46:38	Dilbert on encryption backdoors.  
+mikko	723429711976665089	2016-04-22T08:34:18	SecuringPodcast Yeah sure.
+mikko	723429115945086977	2016-04-22T08:31:56	Recording of a webinar by janikallionet &amp; JKauhanen from our Cyber Security Services: Post-Mortem of a Data Breach 
+mikko	723422535472152577	2016-04-22T08:05:47	SecuringPodcast I love it how your Episode 1 is tagged as 'Explicit'. I'll have to give it a listen. 
+mikko	723421935321767938	2016-04-22T08:03:24	Oelmann_Richard dawn_alderson I think it's pinned at the bottom on default on iPhones as well. So: 9% of users have moved it away.
+mikko	723421718618886144	2016-04-22T08:02:32	en4rab SwiftOnSecurity Can't hear you. Can you tweet louder?
+mikko	723419858478600192	2016-04-22T07:55:09	I'm the guest in the latest episode of the Securing Business podcast:   Cc: SecuringPodcast
+mikko	723402998571913218	2016-04-22T06:48:09	You have several pages of icons for apps on your smartphone. Do you have the 'Phone' icon on the first (home) page?
+mikko	723266019297513472	2016-04-21T21:43:51	a vintage style map of the Mandelbrot set  
+mikko	723345733764681728	2016-04-22T03:00:36	I am rocking the 1980s with my leather computer dust cover.    Ladies, please! One at a time! 
+mikko	723151275290816512	2016-04-21T14:07:54	The Playground - my favorite GTA V screenshots from the past 12 months. Album (32 images):  
+mikko	722188702617718784	2016-04-18T22:22:58	There are Google reviews of prisons. 
+mikko	723053924035366912	2016-04-21T07:41:03	Gribodemon gets nine years in jail.  SpyEye 
+mikko	723053710117470208	2016-04-21T07:40:12	dl1mur4tdj Beats me.
+mikko	723046515350982657	2016-04-21T07:11:37	jupenur TayDiscus Market is far from full. None of the big boys are building security for applicance IoT devices. Yet.
+mikko	723046291865903104	2016-04-21T07:10:44	christopheml earlkman They'll come again.
+mikko	723046228729024513	2016-04-21T07:10:29	SwissHttp What's the worst that could happen, right?
+mikko	722073693367590912	2016-04-18T14:45:58	Wow, Windows 10 is really over-aggressive. 
+mikko	723034135619624964	2016-04-21T06:22:25	I like the idea of virtually sitting live on stage, right next to TonyHawk as he is being interviewed.  
+mikko	723033150222422016	2016-04-21T06:18:30	harriskenny And I was already using the character '…' instead of three dots, to save space.
+mikko	723032781325012992	2016-04-21T06:17:03	harriskenny My tweet was already 139 characters long, so.
+mikko	723032350431580160	2016-04-21T06:15:20	TayDiscus jupenur Damn right. Also, it won't be out the door until by the end of the year. We want to make it right.
+mikko	723026913623695360	2016-04-21T05:53:44	Early on, it wasn't obvious that smartphones would always record &amp; report your location. Tweet from 5 years ago: 
+mikko	723016673951928320	2016-04-21T05:13:02	That's how I would get a satellite to space. I'd order DHL for it and put 'earth orbit' as the delivery address.  
+mikko	722838595090800640	2016-04-20T17:25:25	Good blog post by Andy on the engineering effort done in our labs.  
+mikko	722734595372949504	2016-04-20T10:32:09	Break!Ascii #09 is now also out on Textmod.es online gallery!  ascii textmode asciiart oldskool (ping mikko :)
+mikko	722790237626310656	2016-04-20T14:13:16	Example of law enforcement &amp; intel techniques originally billed for investigating terrorism, now also for cybercrime 
+mikko	722835548851732480	2016-04-20T17:13:19	NissinenMinna ssuomela Kiitos!
+mikko	722835449375395841	2016-04-20T17:12:55	petterikallio Leivänpaahdin voi toimia vektorina, jonka kautta hyökkääjä pääse sisäverkkoosi. Tai yrityksesi sisäverkkoon.
+mikko	722835283171934210	2016-04-20T17:12:15	henkkakorhola Jees, kiitos Henri!
+mikko	722833339615285251	2016-04-20T17:04:32	lookitsmk Lol. RT'd.
+mikko	489423823973126144	2014-07-16T14:58:27	I wonder what I've done to have Twitter show me ads for Tomahawk missiles. 
+mikko	722833154365493248	2016-04-20T17:03:48	harriskenny Oh?
+mikko	722833028750311424	2016-04-20T17:03:18	KiuruAntti Say, that is a nice drone right there. I'll take two.
+mikko	722832640500367360	2016-04-20T17:01:45	mrbellek Good luck.
+mikko	722728390487355392	2016-04-20T10:07:30	Bus stops? Yes, that's how ministers go to work in Denmark 
+mikko	722832499684958208	2016-04-20T17:01:12	FG_STrim JoedeBrig I do remember Panasonic Toughbook ads there. "We'd love to tell you which laptops Air Force uses. But it's classified."
+mikko	722832187754545153	2016-04-20T16:59:57	gammenion Well yeah, agreed. But take a look at this video anyway.
+mikko	722701515429974016	2016-04-20T08:20:43	As a security expert, I do not recommend this. 
+mikko	722669149164584960	2016-04-20T06:12:06	World Press Freedom Index 2016: 1. Finland 2. Netherlands 3. Norway 4. Denmark … 41. USA 148. Russia 176. China See 
+mikko	722476363006013441	2016-04-19T17:26:02	This time next week, mikko from FSecure will be talking about cybersecurity at the CollisionConf: 
+mikko	722659086467272704	2016-04-20T05:32:07	YrjoAho maraj60 Näkyy sitä vastaavaa mainontaa suomessakin. 
+mikko	722195758129233920	2016-04-18T22:51:01	the average iPhone user unlocks their phone 80 times per day, says analyst BenBajarin
+mikko	722373184356499456	2016-04-19T10:36:02	So, at what point in history are we supposed to rename "Wikipedia" to "The Hitchhiker's Guide to the Galaxy" to make it all work out?
+mikko	722481413598089216	2016-04-19T17:46:06	TimoOiva No... 
+mikko	722406133701324800	2016-04-19T12:46:58	Disable Windows Script Host to harden your computer against crypto-ransomware spam. 
+mikko	722460746064519168	2016-04-19T16:23:59	Boeing is running ads, advertising their fighter jets, in bus stops in Copenhagen, Denmark. 
+mikko	722104854173376512	2016-04-18T16:49:47	Over the last year Google detected nearly 800,000 compromised websites. big number 
+mikko	722060104971984896	2016-04-18T13:51:58	Loved this job role. FSecure want someone to fill it, must be able to beat mikko at Mettalica pinball 
+mikko	722104720022761472	2016-04-18T16:49:15	rasmusvuori brave 1Password Cheers.
+mikko	722104661336055808	2016-04-18T16:49:01	BrianHonan SecuringPodcast SmithFabbro Thanks guys, can't wait to hear the outcome.
+mikko	722104463129976832	2016-04-18T16:48:14	BrendanLiamT ErrataRob brave So far so good. It's still work in progress.
+mikko	722104384428097537	2016-04-18T16:47:55	robep00 After the crisis, parties could use those signed blocks to prove which malware was done by who. Or something like that.
+mikko	722104258976444416	2016-04-18T16:47:26	robep00 We would create international regulations detailing how nations would use public keys to sign blocks inside their cyber arms.
+mikko	722103405867573251	2016-04-18T16:44:02	KahlilTalledo Probably. We did build support for Authenticator for another product already once.
+mikko	721966925769785344	2016-04-18T07:41:43	The explanation for the need of backdoors.  By Saturday Morning Breakast Cereal. 
+mikko	721962054580584448	2016-04-18T07:22:21	Current status: Installing Brave. 
+mikko	721786917851963395	2016-04-17T19:46:26	Vectrex had VR glasses already in 1982. And that was for a home video game console. 
+mikko	721786212864946178	2016-04-17T19:43:37	TeroHAT Jep.
+mikko	721785985609109504	2016-04-17T19:42:43	ev_rat So, do you have any plans of turning The Mastermind into a Podcast? People would it eat it up. I would.
+mikko	721685068863905792	2016-04-17T13:01:43	Siri, how did you get my credit card number? Tell the truth.
+mikko	721684191465902081	2016-04-17T12:58:14	@seizethedev I watched several and RT'd the newest. Thanks for the pointer!
+mikko	721595400780718081	2016-04-17T07:05:24	"Get stolen" by Mikko Hypponen poetweet  cc mikko
+mikko	721459468563849216	2016-04-16T22:05:16	Nowadays bank robbers prefer to use malware.  
+mikko	721098874291507202	2016-04-15T22:12:23	mikko So there is a mirror () that scans you naked and stores your scan in the cloud. What could possibly go wrong.
+mikko	721199575491485697	2016-04-16T04:52:32	Hacking Team could’ve saved themselves if they’d invested in some simple tools for detecting lateral movement 
+mikko	721088026202546176	2016-04-15T21:29:17	Here's how the vigilante hacker only known as Phineas Fisher hacked Hacking Team.  
+mikko	720903107790708736	2016-04-15T09:14:29	The folks at malwrhunterteam setup an ID Ransomware service:  ~ Currently IDs 54 different families/variants.
+mikko	720915754133168128	2016-04-15T10:04:44	Cake time at FSecure Labs. Safe to eat? 
+mikko	720901076866699265	2016-04-15T09:06:25	Found in the Oculus privacy policy. Why do they want my dimensions?  
+mikko	720708458429882368	2016-04-14T20:21:01	Check out this ITsecurity podcast feat. mikko of FSecure following his keynote at CSE_London. CSE2016 
+mikko	720900129197277185	2016-04-15T09:02:39	santtu80 Joo, Google luki.
+mikko	720701147019886594	2016-04-14T19:51:58	NEW VIDEO: Safe and Sorry – Terrorism &amp; Mass Surveillance –  
+mikko	720897885215264768	2016-04-15T08:53:44	@seizethedev Thanks, will check it out!
+mikko	720643041799839744	2016-04-14T16:01:04	Paunch gets eight years in jail. Eight years in a Russian jail.  blackhole paunchbighecker 
+mikko	720642681282654210	2016-04-14T15:59:38	pauldevroede Actually, I think I was referring to encrypting the off-line copies of your backups in case they get stolen.
+mikko	720642436599541760	2016-04-14T15:58:40	jimmargo FSecure Good to hear backups worked as they should.
+mikko	720642331578339329	2016-04-14T15:58:15	judgepau FSecure TechRepublic Even if you'd change them to read-only before opening them wouldn't change anything.
+mikko	720642237726597124	2016-04-14T15:57:53	judgepau FSecure TechRepublic No. The dangerous documents are coming to your system from email or the web.
+mikko	720602413837656064	2016-04-14T13:19:38	"We have a technical term for ransomware trojans that go after backups. This is known as a dick move." - mikko 
+mikko	720547628535164928	2016-04-14T09:41:56	I think this Podcast we did with EMEACloudGuy yesterday turned out just great.  [12 minutes]
+mikko	720546393534918656	2016-04-14T09:37:01	0xabad1dea It is me.
+mikko	720546302220767232	2016-04-14T09:36:40	dipster01 Thank You.
+mikko	720546251956162561	2016-04-14T09:36:28	Cyber_stardust Thanks!
+mikko	720533342211416064	2016-04-14T08:45:10	'Everything Old is New Again', says F-Secure's Mikko Hypponen 
+mikko	720234469270110208	2016-04-13T12:57:33	That's a steal at 23 BTC.  
+mikko	720213390061355009	2016-04-13T11:33:47	"How do I recover from rm -rf /"  
+mikko	720224496272220160	2016-04-13T12:17:55	B4RT0S1K Absolutely. But nowadays he has a U.S. passport in addition to Finnish.
+mikko	720224137843761152	2016-04-13T12:16:30	sp3ctr4l thanks!
+mikko	720224088531341313	2016-04-13T12:16:18	vd yes
+mikko	720205085377183745	2016-04-13T11:00:47	Listening to mikko talk about ransom Trojan Bitcoin and dickmoves (dickmoves = encrypting backups) CSE_London 
+mikko	720223706572726272	2016-04-13T12:14:47	Jukka_Rauhala Hyvää jatkoa, Jukka!
+mikko	720222104164151296	2016-04-13T12:08:25	FernandoMigueI Don’t think so.
+mikko	720221780380676096	2016-04-13T12:07:08	aral Hi there! Will check.
+mikko	719968100565835777	2016-04-12T19:19:06	Do you know who Robert Bringhurst is? If yes, keep reading! t2infosec is looking for an artist -  - Please RT!
+mikko	719829171044634624	2016-04-12T10:07:02	1st TDC16 speakers announced! mikko james3murray KHCourage DarrenJobling irini_mirena  
+mikko	719815435919691776	2016-04-12T09:12:28	« La vie privée numérique n’existe pas », says le Hypponen. And I don't even speak French. 
+mikko	719749329137836032	2016-04-12T04:49:47	Chris Wysopal (WeldPond) is right on about hyping vulnerabilities. 
+mikko	719564976483082240	2016-04-11T16:37:13	
+mikko	719376222665449473	2016-04-11T04:07:11	Nordic Business Forum SWEDEN just launched. Here we go:  
+mikko	719407244408930304	2016-04-11T06:10:27	Ransom trojans on a corporate network really suck. Listen to Ms. Swift for the tip of the day.  
+mikko	719181353619742720	2016-04-10T15:12:51	cmvcooper BatildisWaters I have the evidence:  
+mikko	719181088300613632	2016-04-10T15:11:47	joukeri lindaliukas Linda rocks.
+mikko	718488224017031169	2016-04-08T17:18:36	Hey, I am no longer the only Finnish guy with a TED Talk. There's this other Finn called Linus...  TED2016
+mikko	718474145877663745	2016-04-08T16:22:39	MarkoMantere Sure it does.
+mikko	718447823281213441	2016-04-08T14:38:03	iMessage executes Javascript URLs. What is this clown show. 
+mikko	718411850342391809	2016-04-08T12:15:07	We bid farewell to our sales manager Miska by going to a theater museum during lunch. Good weekend everyone! 
+mikko	718403056623333376	2016-04-08T11:40:10	Jarkko's Youtube videos on reversing malware with elevator music seem to be a real hit. Check his channel. 
+mikko	718401691981361152	2016-04-08T11:34:45	JaaJanne skithund That's it! I need to see both of you in my office immediatly.
+mikko	718401448707538948	2016-04-08T11:33:47	veikkoeeva FSecure No partnership with Azure coming.
+mikko	718401321183944704	2016-04-08T11:33:16	anantshri Still, WordPress plugin takes down prime ministers.
+mikko	718401207249842176	2016-04-08T11:32:49	Tinkafur 
+mikko	718392933247021056	2016-04-08T10:59:57	Arcaire It looks just fine. Leave us alone.
+mikko	718392793039810560	2016-04-08T10:59:23	skithund Hey! You take that back! It looks fine.
+mikko	718392725624778753	2016-04-08T10:59:07	teusink FSecure Yes.
+mikko	718360256364068864	2016-04-08T08:50:06	F-Secure now has a vulnerability scanner. May we present: F-Secure Radar!  
+mikko	718358354419138560	2016-04-08T08:42:32	bartblaze 
+mikko	718358091046207488	2016-04-08T08:41:30	sebtweet Surely yes.
+mikko	718357637142855680	2016-04-08T08:39:41	Aatu_Kassinen FSecure Just use Panda.
+mikko	718357587994009601	2016-04-08T08:39:30	sts_fin Jees, näin tuon. Kiitti!
+mikko	718357460399079424	2016-04-08T08:38:59	AnttiKurittu REVOLUTION
+mikko	718357310503067648	2016-04-08T08:38:23	idle_sys Have a good day.
+mikko	718357240705589248	2016-04-08T08:38:07	41414141 flavialicious Just take it, Felix.
+mikko	718170082606727168	2016-04-07T20:14:25	Believe it was mikko who suggested taping mirror to webcam so that hacker would see themselves instead. 
+mikko	718314331239288832	2016-04-08T05:47:36	WordPress plugin takes down prime ministers. 
+mikko	717767672746876929	2016-04-06T17:35:23	LICENSE_TO_KILL is not something you want to see when disassembling a vehicle navigation software update. 
+mikko	717488228584914944	2016-04-05T23:04:58	Compare: 1. Encryption? You must be hiding something. 2. Tax Haven Account? Could be totally legit. PanamaPapers
+mikko	718059224438321152	2016-04-07T12:53:54	I'll be speaking at the IVY Ideas Night in New York on the 25th.  IVYConnect 
+mikko	718058362764718080	2016-04-07T12:50:29	KahlilTalledo Not this year, it seems. Too bad!
+mikko	717973794057535490	2016-04-07T07:14:26	With mikko Hypponen  FSecure to start SIdO16 today. 
+mikko	717912156381929473	2016-04-07T03:09:30	Unicorn Riot discovered MossackFonseca published own "portfolio" portal source code!! :O  
+mikko	717642451310223360	2016-04-06T09:17:48	HP seems to get it. That laptop does look really nice. Too bad the screen is missing both retina and touch. 
+mikko	716918295803379712	2016-04-04T09:20:16	Mikko Hyppönen and the woman who turned down the FBI talk security at Collision  
+mikko	717594911634288640	2016-04-06T06:08:53	Nice trick with the Debugging Petya bootloader 
+mikko	717487467876605953	2016-04-05T23:01:57	How to identify a vehicle at risk of collisions: 
+mikko	717597133784944640	2016-04-06T06:17:43	s7v7ns Bry_Campbell FujitsuUKEvents Man, I wish. I need to be in France. See you another time!
+mikko	717596878825725952	2016-04-06T06:16:42	Heinvn7Hein simility They don't, honest!
+mikko	717596738073280512	2016-04-06T06:16:09	cra0kalo We need to register livereversing.
+mikko	717596635124080640	2016-04-06T06:15:44	MarcDurdin Thanks for the link.
+mikko	717596424842715136	2016-04-06T06:14:54	Yup: portal․mossfon․com is running Drupal 7.23, from August 2013. PanamaPapers 
+mikko	717595499772133376	2016-04-06T06:11:14	letsgetcerreous All the best and take care.
+mikko	717595464825233408	2016-04-06T06:11:05	VessOnSecurity Can't make it to CARO this time as I need to be elsewhere. Too bad!
+mikko	717595354284343296	2016-04-06T06:10:39	juhamac Damn right.
+mikko	717581163519410176	2016-04-06T05:14:16	Is your user running a 32-bit OS on a 64-bit processor, with fresh cookies and flushed browser history? Fraudster. 
+mikko	717400438522294272	2016-04-05T17:16:07	"How Candy Japan got credit card fraud somewhat under control" on LinkedIn 
+mikko	717575577687953408	2016-04-06T04:52:04	k8em0 Congratulations, Katie! All the best.
+mikko	717408154166894592	2016-04-05T17:46:47	Jarkko was listening to elevator music while figuring out the Elliptic Curve key exchange in the Petya ransomtrojan: 
+mikko	717408135082872832	2016-04-05T17:46:42	Jarkko from our labs recorded how he debugs malware in 16-bit real mode - in this case, the Petya MBR ransomware. 
+mikko	717405084112588802	2016-04-05T17:34:35	tutakhail Beats me. I did 53 cities in 2015.
+mikko	717398312501043200	2016-04-05T17:07:40	Meet me in May at ThinkingDigital. Newcastle, May 11 SlushAsia, Tokyo, May 13 TNWconference, Amsterdam, May 26 RISEConfHQ, Hong Kong, 31
+mikko	717398289893732352	2016-04-05T17:07:35	Meet me in April at SIdOevent, Lyon, APR 6 CloudExpoEurope, London, APR 13 IVYConnect, New York, APR 25 CollisionHQ, New Orleans, APR 26
+mikko	717398202828386304	2016-04-05T17:07:14	cmvcooper B4RT0S1K Walshman23 As always, should you be caught or killed, the agency will disavow any knowledge of your actions.
+mikko	717366471626735616	2016-04-05T15:01:09	WhatsApp just switched on encryption for a billion people 
+mikko	717394108067790848	2016-04-05T16:50:58	starien I remember that. I'm glad it died.
+mikko	717393992770576384	2016-04-05T16:50:31	Rohitzidu Dick move anyway. I'm sure that domain gets quite a bit of search traffic.
+mikko	717393864164843520	2016-04-05T16:50:00	ITStudiosi Damn right.
+mikko	717392429452812288	2016-04-05T16:44:18	idle_sys 17 RTs, 29 Likes. I'll take them.
+mikko	717392268055982081	2016-04-05T16:43:39	irpx Exactly.
+mikko	717391958306586624	2016-04-05T16:42:26	Avmcomputers Sure.
+mikko	717387197285011456	2016-04-05T16:23:30	Rohitzidu Wow. This they do that to get back at DuckDuckGo?
+mikko	717386592583856128	2016-04-05T16:21:06	Ignore the references to hummus; this is an important article to read.  
+mikko	717359071523905536	2016-04-05T14:31:45	Habbie Thanks.
+mikko	717357064956329984	2016-04-05T14:23:46	ethicalhack3r True, thanks!
+mikko	717355687051923460	2016-04-05T14:18:18	B4RT0S1K Walshman23 Mistruncated to fit 140 characters
+mikko	717355585537183744	2016-04-05T14:17:54	andrewhowdencom goog.lers
+mikko	717355394230837248	2016-04-05T14:17:08	martijn_grooten Bing Is Not Google™
+mikko	717354008546058241	2016-04-05T14:11:38	Just five years ago... 
+mikko	717321871335809024	2016-04-05T12:03:55	Muessli Trojan7Sec Nah, can't be.
+mikko	717321355599937537	2016-04-05T12:01:53	jupenur True dat.
+mikko	717318302532575232	2016-04-05T11:49:45	raleigh_cerre letsgetcerreous TiziCerre eu_regulation 
+mikko	717317414011158528	2016-04-05T11:46:13	popisunga Nah, can't be.
+mikko	717317314853609472	2016-04-05T11:45:49	jupenur Joo, mutta valtaosa noista tuloksista on bugeja. Nuo saitit löytyy hakutuloksista, mutta niitä ei ole, eikä ole koskaan ollutkaan.
+mikko	717316586449805312	2016-04-05T11:42:55	Three questions: ● Who is Cerre? ● What is she searching for? ● Why does she new her own top-level domain for that??
+mikko	717315306197291009	2016-04-05T11:37:50	juhamoo "Goog.lers"
+mikko	717314890839490560	2016-04-05T11:36:11	CYxChris Good catch.
+mikko	717314842693136384	2016-04-05T11:36:00	christopherw You can monitor the new domains here: 
+mikko	717313325370109953	2016-04-05T11:29:58	Gabiskandar No, that's not long. This is long: 
+mikko	697493500040843264	2016-02-10T18:53:03	it really whips the llama's ass winamp lowpoly retro oldschool 
+mikko	717309112636334080	2016-04-05T11:13:14	There are now at least 4 live domains under the ".google" TLD. 
+mikko	712677622036226049	2016-03-23T16:29:20	We're proud to be hosting AVAR 2016 in Kuala Lumpur.  
+mikko	717283118781169664	2016-04-05T09:29:56	Then: I can't wait to get this great new game so I can finish it Now: I can't wait to watch someone else finish it. 
+mikko	717281585599541248	2016-04-05T09:23:51	It looks like Microsoft is releasing some new software package today. Cc: SamLakeRMD 
+mikko	717279537269248000	2016-04-05T09:15:42	LiPekka That would be neat. You're right.
+mikko	717279457980104704	2016-04-05T09:15:23	quentynblog Indeed.
+mikko	717278989241434112	2016-04-05T09:13:32	__tjf__ pathetiq Thank You.
+mikko	717278861097111552	2016-04-05T09:13:01	chlodnia Yes, for this version. The commercial version supports iOS, Android, OS X, Windows.
+mikko	717220472946040832	2016-04-05T05:21:00	Working at Public Relations department at Mossack Fonseca must be the hardest job right now.  
+mikko	717067627240226816	2016-04-04T19:13:39	BtEtta Not uncommon.
+mikko	717067417923555328	2016-04-04T19:12:49	dnlongen RCISCwendy Cheers.
+mikko	717067148791820288	2016-04-04T19:11:45	pparkko It's Netflix-capable unless Netflix happens to be blocking some of our exit nodes at the time.
+mikko	716676027540508672	2016-04-03T17:17:34	I praised my 97yr old Godmother today for learning to text...  She reminded me she worked at Bletchley during war codebreaker
+mikko	716976766322130944	2016-04-04T13:12:36	"...I declare that all funds for which Mossack Fonseca is to act as a custodian are not of criminal origin..." 
+mikko	716976217908514817	2016-04-04T13:10:25	kodmon buherator In Finland, we name children by concatenating their parents names and running that through MIME64. Or something.
+mikko	716975939603853312	2016-04-04T13:09:19	matalaz Right on.
+mikko	716975882410278912	2016-04-04T13:09:05	blaufish_ Indeed, partial recovery is possible.
+mikko	716975807340683265	2016-04-04T13:08:47	wscrivens Yes, it would improve the product. Thank you for your help.
+mikko	716975127947309056	2016-04-04T13:06:05	sts_fin rsrdjan SimonZerafa Thanks!
+mikko	716975077305278464	2016-04-04T13:05:53	sengork :)
+mikko	716975035831951361	2016-04-04T13:05:43	VessOnSecurity Indeed, you'd be much better suited with the commercial version of the product.
+mikko	716974913911922688	2016-04-04T13:05:14	PekkaLeivisk Hyvä artikkeli. Kiitoksia!
+mikko	716933563560693761	2016-04-04T10:20:56	Participate in a research project, get a special version of F-Secure Freedome for free:  Terms and conditions apply.
+mikko	716931856399265792	2016-04-04T10:14:09	buherator Beats me.
+mikko	714818354272464896	2016-03-29T14:15:50	Ransomware simulator PowerShell script - New blogpost and video  msitpros PowerShell
+mikko	716920297933373440	2016-04-04T09:28:13	JamesRufer True.
+mikko	716920092970364928	2016-04-04T09:27:24	pro_integritate Yeah right.
+mikko	716920067989114880	2016-04-04T09:27:18	blaufish_ Yes.
+mikko	716920040893849600	2016-04-04T09:27:12	Squelchtone We can block the malware before it has a chance to write to MBR.
+mikko	601399853911056384	2015-05-21T14:51:13	QuoteOfTheDay 
+mikko	716687346834350080	2016-04-03T18:02:33	Leaked files from Panama firm Mossack Fonseca reveal how world's wealthy hide their money  
+mikko	716913400987693056	2016-04-04T09:00:49	Remember to protect your documents, too. 
+mikko	716670842403491841	2016-04-03T16:56:58	We've updated our blog post on the Petya ransomware. Turns out, it uses Elliptic Curve Diffie-Hellman key exchange. 
+mikko	716670456497963009	2016-04-03T16:55:26	costermila Let's ping FreedomeVPN to find out. Cc: FSecure
+mikko	716664351927713793	2016-04-03T16:31:11	These guys literally know where you live. 
+mikko	710099918543822848	2016-03-16T13:46:28	Want to track internet trackers? Here's how.  
+mikko	716607537118711808	2016-04-03T12:45:25	Flashback Data Privacy Asia 2015: Watch mikko's keynote on Securing Our Future privacy cybersecurity 
+mikko	716359462056038400	2016-04-02T20:19:39	Poll: "AV" stands for…
+mikko	715961949020884997	2016-04-01T18:00:05	RT mikko: Everything old is new again: compare these 2 ransom trojans. Attacks are 27 yrs apart from 1989 &amp; 2016. 
+mikko	716100641215492096	2016-04-02T03:11:12	Make Bitcoin $100 again.
+mikko	715835996575805440	2016-04-01T09:39:35	Petya: Disk Encrypting Ransomware. Going after the MFT is a fast attack. 
+mikko	715889076453384192	2016-04-01T13:10:31	Thund3rUP For Nintendo, read "Game Over" the book. For Nokia, read "Nokia Story". For IBM, Wikipedia.
+mikko	715888925693329408	2016-04-01T13:09:55	uber_security Thanks.
+mikko	715888840943222784	2016-04-01T13:09:34	TheMighty_Llama 28 years.
+mikko	715887261036986368	2016-04-01T13:03:18	I need one of these.  Cc: BanKillerRobots
+mikko	715878725351550976	2016-04-01T12:29:23	txomon Thanks!
+mikko	715878689867702272	2016-04-01T12:29:14	peterjaric olanderofc Wow. Next, try the University of Bologna (est. 1088).
+mikko	715878542748332033	2016-04-01T12:28:39	uber_security That would work. Also, no one else has suggested that so far!
+mikko	715877960641855488	2016-04-01T12:26:20	AnonymousPressU Thanks man.
+mikko	715877926055624705	2016-04-01T12:26:12	InfoSecOne Nintendo is doing fine. So is IBM. So is Nokia. So, nope.
+mikko	715877781238841344	2016-04-01T12:25:38	estoicoouldmen Yeah thanks.
+mikko	715877633301549056	2016-04-01T12:25:02	drd8m Thx
+mikko	715877590884597760	2016-04-01T12:24:52	m3t4lk3y Indeed!
+mikko	715877563311243264	2016-04-01T12:24:46	Cyber_stardust Come and say hi after the talk.
+mikko	715877473515384833	2016-04-01T12:24:24	YeatesJM Yes. And toilet paper, too.
+mikko	715877414518259712	2016-04-01T12:24:10	librab103 Well, yes it is.
+mikko	715877308507234306	2016-04-01T12:23:45	jmpcallpoppush Yeah, thanks.
+mikko	715877278346002432	2016-04-01T12:23:38	Thund3rUP IBM: Typewriters. Nintendo: Games. Nokia: Paper.
+mikko	715760110778363905	2016-04-01T04:38:03	Hacker Group Changes Millions of Passwords to "password"; Only 38% of Users Notice: 
+mikko	715626504223334400	2016-03-31T19:47:08	ANSi Art created by a neutral net:  
+mikko	715623632442155009	2016-03-31T19:35:44	Apple will be 40 years old tomorrow.  Ages of some other tech companies: Microsoft: 40 Intel: 47 HP: 77 IBM: 104 Nintendo: 126 Nokia: 150
+mikko	715623554927214592	2016-03-31T19:35:25	jykivi HolopainenMinna LehtiHistorPics En tiedä mistä on kysymys. Ehkä se on joku ristiinlinkitys yhden selaimen välimuistitiedostoissa?
+mikko	715623226651590657	2016-03-31T19:34:07	jykivi HolopainenMinna LehtiHistorPics Näen oikean kuvan, ja tuossa kuvatiedostossa ei ole mitään piilotettuna: 
+mikko	715622845506797568	2016-03-31T19:32:36	Kuningaskunta I need it on a physical VHS tape. Don't ask.
+mikko	715622730507358208	2016-03-31T19:32:09	GeneralTaggart I think it was SHA-1 has of an empty file or something like that.
+mikko	715622540442537988	2016-03-31T19:31:23	dgl1984 Mongoose_Q Yeah, this seems to be the easiest solution. Thanks.
+mikko	715622461094625280	2016-03-31T19:31:05	Mgkarayan 5ean5ullivan The first thing that comes to mind are various banner ads that claim there's something wrong with your computer...
+mikko	715502015690981377	2016-03-31T11:32:28	"Flash will be dead within 2 years. Macro exploits will take over. Old stuff is coming back" mikko cybersecurity 
+mikko	715485788603940864	2016-03-31T10:27:59	Impressive as hell: Gary McGraw (cigitalgem) has been doing his security Podcast every month for 10 years straight! 
+mikko	715485762192420864	2016-03-31T10:27:53	DevTroy Yup. But I don't have a TV like that. Thanks!
+mikko	715485677484253190	2016-03-31T10:27:33	NodyTweet ...but it doesn't show anything at all, so it wouldn't be too interesting in the museum.
+mikko	715485576326029313	2016-03-31T10:27:09	IncaTrades Like EGA.
+mikko	715485537478389760	2016-03-31T10:26:59	BrandXJon Indeed. Thanks Jon!
+mikko	715485459770572800	2016-03-31T10:26:41	kautoh Ah, true. Thanks Kauto!
+mikko	715485382373052416	2016-03-31T10:26:22	ekiledjian Users, users &amp; users. And admins.
+mikko	715484796068061184	2016-03-31T10:24:03	maxsec Thanks, that would work.
+mikko	715484644267790336	2016-03-31T10:23:26	ExtremeStorms Wow. Thanks Jim! I'll try the DVD route first but will get back to you if needed. All the best!
+mikko	715484526344937472	2016-03-31T10:22:58	EagleProtective Yeah, thanks for the link!
+mikko	715484460246929408	2016-03-31T10:22:43	meineve Tried that. Didn't work.
+mikko	715484415648858112	2016-03-31T10:22:32	IgorSkochinsky Thanks!
+mikko	715484356484050944	2016-03-31T10:22:18	vivster81 A bit far away to ship the tape though.
+mikko	715484286053318660	2016-03-31T10:22:01	IQAndreas Tried that. Didn't work.
+mikko	715484265283104770	2016-03-31T10:21:56	deadarmfilms Tried that. Didn't work.
+mikko	715484243619553281	2016-03-31T10:21:51	AnttiKurittu Tried that. Didn't work.
+mikko	715484186379833344	2016-03-31T10:21:37	PlusYan Yeah. Thanks!
+mikko	715484131639963649	2016-03-31T10:21:24	wvsutphen Nice one! Thanks!
+mikko	715484049075081216	2016-03-31T10:21:05	datasquire My TV doesn't have SCART or RF out, unfortunately.
+mikko	715483902442209281	2016-03-31T10:20:30	colingoeu I'll try the DVD route first, thanks!
+mikko	715483809437732865	2016-03-31T10:20:07	wickux PVR?
+mikko	715483730945581056	2016-03-31T10:19:49	IncaTrades Thanks.
+mikko	715483650779779072	2016-03-31T10:19:30	SecuriPi Will try.
+mikko	715483616692703233	2016-03-31T10:19:21	takitimu juhasaarinen Thanks. Not a bad idea.
+mikko	715483422110588928	2016-03-31T10:18:35	mikkokotila My TV doesn't have SCART or RF out...
+mikko	715483290145140738	2016-03-31T10:18:04	StefanoCimy Thanks.
+mikko	715483087753220098	2016-03-31T10:17:15	RhetoricalDev a} Lol. b} Thanks!
+mikko	715482969356382208	2016-03-31T10:16:47	Junkie Yeah. Thanks!
+mikko	715482871553626113	2016-03-31T10:16:24	ddurvaux Thanks. And I do have a Pi around too.
+mikko	715482788594487297	2016-03-31T10:16:04	endomikey Thanks, that would work.
+mikko	715482725034041344	2016-03-31T10:15:49	Ultra_Sec I don't have a video card with SCART or RF out...
+mikko	715482569190420483	2016-03-31T10:15:12	gerardbyrne This is what I plan on doing now, thanks!
+mikko	715481637702602752	2016-03-31T10:11:30	thegrugq Yeah, thanks grugq.
+mikko	715450845840744448	2016-03-31T08:09:08	lockyear Yes, the DVD route might work.
+mikko	715450755067547648	2016-03-31T08:08:47	IncaTrades Will check.
+mikko	715450708179476480	2016-03-31T08:08:35	SecureTommi Thanks!
+mikko	715450677611388928	2016-03-31T08:08:28	Y0da4a I don't have a video card with S-Video or RF out...
+mikko	715450585634439169	2016-03-31T08:08:06	davidstalane My TV does not have an RF out. Most VHS recorders were between the antenna and the TV, too.
+mikko	715450470681210881	2016-03-31T08:07:39	sophistifunk I do have a VCR, but can't get the signal from the computer to it.
+mikko	715450333519069184	2016-03-31T08:07:06	hvcco Thanks.
+mikko	715450294637891584	2016-03-31T08:06:57	BaldingsWorld sanverde :)
+mikko	715450259565101056	2016-03-31T08:06:48	UliRies I don't see how I could get the video from my computer to my VHS recorder. Don't have an RF out in my video cards.
+mikko	715450109950042112	2016-03-31T08:06:13	tje Nice idea. That could work!
+mikko	715450024667299840	2016-03-31T08:05:52	GordyPls nicshaha Will try, thanks!
+mikko	715449966811021312	2016-03-31T08:05:39	andreasdotorg Great idea. And I have a Pi somewhere here. Thanks!
+mikko	715449902940164096	2016-03-31T08:05:23	colingoeu Don't have a card like that, unfortunately.
+mikko	715449821436514304	2016-03-31T08:05:04	tculpan My TV does not have an RF out. Most VHS recorders were between the antenna and the TV, too.
+mikko	715449087303237632	2016-03-31T08:02:09	Uus_it Thanks!
+mikko	715447235987812352	2016-03-31T07:54:48	Can anybody figure out a way to get an MP4 video onto a VHS tape without a VHS camera? And please don't ask me why.
+mikko	715355336849235972	2016-03-31T01:49:37	If Linux is so secure, why can't they protect its source code? How did Microsoft get a copy of it? 🤔
+mikko	680715890011299840	2015-12-26T11:44:49	Mobile experience in a nut shell:  1️⃣ Install app 2️⃣ Refuse to login via Facebook 3️⃣ Uninstall app
+mikko	715240507958497282	2016-03-30T18:13:20	sudo apt-get install gsm-network 
+mikko	715239826593808384	2016-03-30T18:10:37	winterbe_ dosnostalgic Robert Jung forever.
+mikko	714862632738533377	2016-03-29T17:11:47	Dear Tech Companies,  You have ~48 hours to stop whatever bad April Fool's joke you have planned. Do the right thing.  Sincerely, Everyone
+mikko	715184317018816514	2016-03-30T14:30:03	
+mikko	715164184728743936	2016-03-30T13:10:03	
+mikko	715234395691438084	2016-03-30T17:49:03	Excuse me, I meant GNU/Windows. Windows is only the kernel.
+mikko	715236996936048640	2016-03-30T17:59:23	mikkokotila Shocked that it's that high!
+mikko	715236895245148160	2016-03-30T17:58:58	5ean5ullivan It gets better, Sean. It always does.
+mikko	715236537240317960	2016-03-30T17:57:33	Dead_Flip Btw. Thank you for your work. Appreciated.
+mikko	715233723365597186	2016-03-30T17:46:22	pirtti True dat.
+mikko	715213709732405248	2016-03-30T16:26:51	15 years ago, macro viruses were a problem. And today… macro malware is a problem. Le sigh. 
+mikko	715213956911087616	2016-03-30T16:27:50	KivimakiJohanna Pitky_ry TIVIAry Kiitos käynnistä, Johanna!
+mikko	715154125864960000	2016-03-30T12:30:05	Handy MP3 player which does not need a battery:  [it's just a prototype, though]
+mikko	714950320887955456	2016-03-29T23:00:14	Anyone have any good resources for learning Fortran? "Don't use Fortran' not a valid option ;)
+mikko	715005099165155328	2016-03-30T02:37:54	The true danger of VR! 
+mikko	715128569287065600	2016-03-30T10:48:32	Finally a good use for Virtual Reality: A Sauna Simulator! Gameplay video:  
+mikko	715106488897953792	2016-03-30T09:20:47	Tinkafur End of Times.
+mikko	715106260455186432	2016-03-30T09:19:53	lfservin zer0815 True.
+mikko	715106115898503172	2016-03-30T09:19:18	TIJesusOfficial Indeed.
+mikko	715105966191194112	2016-03-30T09:18:43	XSSniper This is so bad.
+mikko	714919843036798976	2016-03-29T20:59:07	Should have done a faceswap.  
+mikko	714908024494768128	2016-03-29T20:12:10	Pennsylvania AG selling surplus unmarked surveillance vans. Bidding starts at $1000.  
+mikko	714863174210699266	2016-03-29T17:13:56	Not exactly the kind of news you'd like to hear about your medication dispensing systems.  
+mikko	714863088143634432	2016-03-29T17:13:36	_allo Well yes.
+mikko	714863036536905730	2016-03-29T17:13:24	insertScript RSWestmoreland Well, we stop tons of macro malware every day, protection end users from real infections.
+mikko	714862887882395648	2016-03-29T17:12:48	ruuined LauraHuu Jep. iPhone kutoset (ja varmaan 5 SE) eivät luultavasti aukeaisi samalla tekniikalla. Ehkä. Arvailua.
+mikko	714773840790880256	2016-03-29T11:18:58	This is what we get for declaring Antivirus is dead 
+mikko	714856030216302593	2016-03-29T16:45:33	blocktronics velikani ANSi is the future.
+mikko	714855305000194049	2016-03-29T16:42:40	alfiedotwtf 40hex and Phalcon/Skism both.
+mikko	647017653836623872	2015-09-24T12:00:04	Cellebrite is proud to announce support for the new iPhone 6s and 6s Plus for Cellebrite DeskTop and Touch v2.7. 
+mikko	714840036064174081	2016-03-29T15:42:00	Yesterday, FBI signed a $218,004 purchase order to Cellebrite for “IT Supplies” (a.k.a. toilet seat). 
+mikko	714842246395392000	2016-03-29T15:50:47	It's online, the Internet Of Toilets. 
+mikko	714454182665723905	2016-03-28T14:08:45	 This guy injected Flappy Bird into Super Mario World, by hand, live on Twitch.  It's...like a 53 minute Konami code
+mikko	714804013766688768	2016-03-29T13:18:51	ANSi Art &amp; Youtube: a match made in heaven.  
+mikko	714803557707485184	2016-03-29T13:17:03	u_calabrisi Thank You.
+mikko	714803308737794050	2016-03-29T13:16:03	alfiedotwtf True dat. It’s viruses, btw.
+mikko	714796835509039105	2016-03-29T12:50:20	chaz_6 Exactly.
+mikko	714796775270445056	2016-03-29T12:50:06	Oddvarmoe Good post!
+mikko	714720205851766784	2016-03-29T07:45:50	Looks like the FBI finally hired U2 to find out how to get into an iPhone without permission.
+mikko	714733005001109504	2016-03-29T08:36:42	Blocking malicious macros with earlier versions of MS Office:  /via VessOnSecurity
+mikko	714732411217686528	2016-03-29T08:34:20	disinformatico Not really. But it’s going to be ok I’m sure.
+mikko	714732231672115200	2016-03-29T08:33:37	SwiftOnSecurity Thank You For Your Work, Taylor.
+mikko	714723202543517696	2016-03-29T07:57:45	MS Office macro malware is a growing problem. Here's how to block macros in an enterprise with Group Policies. 
+mikko	714300136759955456	2016-03-28T03:56:38	And we are talking about 0 Days. 
+mikko	714166761369772032	2016-03-27T19:06:39	martin_sec Indeed. It's 2016 and we're fighting MBR and VBA malware!
+mikko	714166177552080897	2016-03-27T19:04:19	dosnostalgic  Old: $189.  New: 1 BTC.  Considering inflation, the old one was more expensive.
+mikko	714158149352235009	2016-03-27T18:32:25	Everything old is new again: compare these two ransom trojans. The attacks are 27 years apart, from 1989 and 2016. 
+mikko	714154375036411904	2016-03-27T18:17:26	donald-trump-sonofbitch[dot]com - what a name for a phishing nameserver 
+mikko	714152565806657536	2016-03-27T18:10:14	It's the 27th of March 2016 (27.3.2016), so this is the URL of the day: http://27.3.20.16 
+mikko	714149098933370881	2016-03-27T17:56:28	stacksmasher krypt3ia Everything old is new again. Here's the AIDS Information Trojan from 1989. 
+mikko	317006213386731521	2013-03-27T20:12:25	Who will be able to decypher The Voynich Manuscript? Any king/queen of code who would accept the challenge? 
+mikko	714077955413159936	2016-03-27T13:13:46	veeeeep True! Thanks.
+mikko	714005346306564096	2016-03-27T08:25:14	Err…I guess it's good to see that the Coverton ransom trojan has been translated to Finnish, too. Or is it? 
+mikko	714004895775465472	2016-03-27T08:23:27	michabailey Maybe.
+mikko	714004841945833472	2016-03-27T08:23:14	zer0815 No, but I believe it might be.
+mikko	714004709279932416	2016-03-27T08:22:42	ClaudioDekker So, donate for their fight first. Seems like a good cause.
+mikko	714004440177618944	2016-03-27T08:21:38	GJaniashvili Sure but then you lose all data.
+mikko	713902951488745472	2016-03-27T01:38:21	
+mikko	713591523175063552	2016-03-26T05:00:51	Museum Shows Off Retro Malware 
+mikko	713628192276422657	2016-03-26T07:26:34	Some ransom trojans are changing tactics and going deeper by overwriting your MBR and MFT.  
+mikko	713515953233891328	2016-03-26T00:00:34	"Kids, in our time, when someone finds a vulnerability, he would get a CVE-ID, not a domain name.“ 
+mikko	713427237882707970	2016-03-25T18:08:03	"Please type your PIN number to the ATM machine" -- tautologytautology
+mikko	713621311935930369	2016-03-26T06:59:13	graaandi Youtubessa on jotain tuorempaakin. Tee haku ja sorttaa aikajärjestykseen.
+mikko	713620913762213888	2016-03-26T06:57:38	hazula Amazing. Lousy idea.
+mikko	713388542215471106	2016-03-25T15:34:17	Bath time just got serious. 
+mikko	713323604386168832	2016-03-25T11:16:14	Want to see all the Unicode characters there are? Just click 'Go'. 
+mikko	713018703802032128	2016-03-24T15:04:40	"Skynet began to learn racist Facebook memes at a geometric rate, becoming self-aware at 2:14 AM Eastern Time..." 
+mikko	713123898955472896	2016-03-24T22:02:41	Skype for Business: The 1 gigabyte IRC client. No I'm not joking. This is the installer for it. 
+mikko	713017293312233473	2006-03-24T03:28:48	Listening to some guy reading an article sarcastically out loud about myspace on the train
+mikko	713006910396624897	2016-03-24T14:59:04	The speaker list for the security track of the Collision Conference looks pretty solid.  
+mikko	676910751144124416	2016-03-24T14:17:49	I hear there's a game called 'PWND' coming out soon. Cc: jay_akers 
+mikko	712750505013940224	2015-12-15T23:44:34	Consumers pay with their data &amp; privacy, content creators are paying with time, marketers pay per impression and everyone wants to be liked.
+mikko	712750148036739073	2016-03-23T21:18:57	This is what "The Cloud" really looks like.  
+mikko	712749607877476354	2016-03-23T21:17:32	samykamkar xek thephysicsgirl spenchdotnet Samy, you're welcome back any time! You're our hero.
+mikko	712748902513041408	2016-03-23T21:15:23	SwiftOnSecurity Btw: Twittercounter forecasts you will pass me in followers within a month. As you should. 
+mikko	712726846740291585	2016-03-23T21:12:35	Trojan7Sec SwiftOnSecurity Yes.
+mikko	712709487946285056	2016-03-23T19:44:56	AndreaBarisani Nice work! 
+mikko	712704724349353985	2016-03-23T18:35:58	happybandits Never heard of it. I suppose I haven't even thought about that.
+mikko	712562777538355200	2016-03-23T08:52:59	The cyber-spider is really good. I like the skull, too. I wonder if they paid a graphist... Weirdly professional. 
+mikko	712703790781227008	2016-03-23T18:13:19	infoatwc Let's ask Ian: ianwhi76. He might be able to help.
+mikko	712656003779715072	2016-03-23T15:03:26	skrollilehti Jee! Uusi Skrolli odotti postilaatikossa! 
+mikko	712601165658263552	2016-03-23T11:25:32	We are thrilled to present our new SocialByNature video series on how executives use socialmedia. First up mikko! 
+mikko	712627802479181825	2016-03-23T13:11:22	infoatwc I can try. What’s up?
+mikko	712627681645445120	2016-03-23T13:10:53	oljuanez InspiRadioFIN FSecure Jep. Träkkäyksen määrä on huimaa.
+mikko	712627508554936320	2016-03-23T13:10:12	ydklijnsma Cheers and keep up the good work!
+mikko	712561944604053505	2016-03-23T08:49:41	I can totally see us featuring today's ransomware in 's Malware Museum, in 2041 or so... Cc: textfiles
+mikko	712538616048787456	2016-03-23T07:16:59	3 Tools for Youtube in the Classroom  
+mikko	712560738368417792	2016-03-23T08:44:53	Kupci2 It's a pretty book.
+mikko	712560640670449665	2016-03-23T08:44:30	hazula That's bullshit.
+mikko	712560548764901376	2016-03-23T08:44:08	juanmiguells I you don't plan on paying the ransom, make a full image backup of the drive NOW, in case a way to decrypt is found in future.
+mikko	712560377079402496	2016-03-23T08:43:27	juanmiguells I hate the idea of paying money to these clowns, but if you do, they probably will deliver and will decrypt the files.
+mikko	712560194924969984	2016-03-23T08:42:43	juanmiguells You can either: 1) Restore from backups 2) Pay the ransom  3) Suffer the loss of the data
+mikko	712560026746032128	2016-03-23T08:42:03	juanmiguells I'm sorry, but there's no known way to decrypt the files encrypted by Locky.
+mikko	712559314473455616	2016-03-23T08:39:13	RichWalston Cheers, take it easy Rich.
+mikko	712559244663525376	2016-03-23T08:38:57	SketchMyApp Which webcast was that?
+mikko	712428847556390912	2016-03-23T00:00:48	In 1989, Scholastic gave up on copy protection. This is what they sent to their customers:  
+mikko	712291627222634498	2016-03-22T14:55:32	The technical term for encrypting people's backups: "a dick move" mikko cyberboost
+mikko	712295738810757120	2016-03-22T15:11:52	mikko giving a great keynote at SparkUpTurku. boostturku cyberboost 
+mikko	712193459105484800	2016-03-22T08:25:27	Metro Brussel nu  zaventem maalbeek
+mikko	712183789728964608	2016-03-22T07:47:01	Airplanes can't land in brussels all traffic is diverted 
+mikko	712186068448239616	2016-03-22T07:56:05	Kupci2 Like this? 
+mikko	712035050695557120	2016-03-21T21:55:59	nickdepetrillo It’s the law.
+mikko	712028644139540481	2016-03-21T21:30:32	SwiftOnSecurity 3X Optical Zoom.
+mikko	712028474219892738	2016-03-21T21:29:51	SwiftOnSecurity That was an amazing device.
+mikko	712024531813179392	2006-03-21T21:43:45	lunch
+mikko	711974183736053760	2016-03-21T21:14:11	aukia Yup, pretty much.
+mikko	711973175815512064	2016-03-21T17:54:07	Interesting graphic design in the Maktub Locker ransomware:  
+mikko	711965093802672128	2016-03-21T17:18:00	
+mikko	711965057639456772	2016-03-21T17:17:52	Om Malik writes about Twitter, 10 years ago:  Happy 10th Anniversary, Twitter!
+mikko	711638437808312320	2016-03-20T19:39:59	"Only criminals use encryption"  Well my bank LOVES encryption so I see your point
+mikko	711952711542054912	2016-03-21T16:28:48	We are growing. This month's new fellows briefing at F-Secure. 
+mikko	711926323552370688	2016-03-21T14:43:57	Nearly 1,000 pages of entry-level content on Revɘrse Engineering:  |Creative Commons BY-NC-ND 
+mikko	711430557947695104	2016-03-20T05:53:57	Hackers! We must rise up and smash the chains of cyber that bind our computers and networks with insecurity 
+mikko	711318390514827264	2016-03-19T22:28:14	Distellamap: Visualizing the contents of Atari 2600 modules, with code &amp; graphics mixed in:  
+mikko	604453889585344513	2015-05-30T01:06:52	Gifs of The 80s: Intellivison vs Atari - 1982 
+mikko	711313874142810112	2016-03-19T22:10:17	BrianDunning OlsySpeak sparkcbc There's only one way to find out, Brian.
+mikko	711297435037999104	2016-03-19T21:04:58	For a fast &amp; fun way to learn about the history of viruses, listen to sparkcbc interview with Mikko 
+mikko	711309196055212032	2016-03-19T21:51:42	Hulivili_Huima er3 Oh, we're totally ready for anything. No worries.
+mikko	711309116598329344	2016-03-19T21:51:23	lseltzer Indeed! I had no idea! Thanks, Larry.
+mikko	711309020494241792	2016-03-19T21:51:00	markrussinovich Goddammit! It's in Helsinki!
+mikko	711307208005443585	2016-03-19T21:43:48	marsvesec Thanks for the heads-up.
+mikko	711307060290457600	2016-03-19T21:43:13	jacksonm Thank You.
+mikko	711306933383405573	2016-03-19T21:42:43	demodisping cmvcooper It was the tinier version.
+mikko	711198469935894528	2016-03-19T14:31:43	"We used to purchase content with money, today we purchase content by paying with our privacy and data."  - mikko
+mikko	711230623768297472	2016-03-19T16:39:29	TheyCallMeTcat Nice one! Cc: velikani
+mikko	711230523767713792	2016-03-19T16:39:05	jonnesaleva FreedomeVPN Will check, thanks!
+mikko	711132429675859969	2016-03-19T10:09:18	Ooh look. It's ten past 1984. Thanks mikko Hyppönen. 
+mikko	710957914840834049	2016-03-18T22:35:50	CBC features the Malware Museum:  Cc: textfiles
+mikko	710934795627405316	2016-03-18T21:03:58	I often find open directories from the web, but rarely featuring so many different languages  
+mikko	710934723766390785	2016-03-18T21:03:41	timpastoor Just google for:  "IEEE 802.11 Direct Sequence" site:
+mikko	710155028061761536	2016-03-16T17:25:27	Screw optimism, we need hope instead  
+mikko	710928157377994752	2016-03-18T20:37:35	I really know nothing about this service, but I like the domain name: 
+mikko	710928147785637888	2016-03-18T20:37:33	Indeed, "Wi-Fi" is a little catchier than "IEEE 802.11b Direct Sequence", which it was originally called. 
+mikko	710905873762099201	2016-03-18T19:09:02	FBI Issues Warning: ‘Motor Vehicles Increasingly Vulnerable to Remote Exploits’: 
+mikko	710824487965609984	2016-03-18T13:45:39	dosnostalgic Have you seen my clock? 
+mikko	710604345163784196	2016-03-17T23:10:52	ATM running not genuine windows licence italy /cc mikko 
+mikko	710701048478957569	2016-03-18T05:35:08	rasmusroiha Kiitos!
+mikko	710700976873861120	2016-03-18T05:34:51	silascutler We’re running on sisu.
+mikko	710583670885785603	2016-03-17T21:48:43	OPSEC 
+mikko	710564108492521473	2016-03-17T20:30:59	I did a 20-minute Podcast with ingostoll at CeBIT yesterday:  Software Patents, Arms Race, Connected Devices etc.
+mikko	710122278424604673	2016-03-16T15:15:19	2/2 Cybersécurité : où en sommes-nous ? Réponse du sherif d'Internet mikko Hypponen  
+mikko	710117103894962177	2016-03-16T14:54:45	Trust me, you will never run an antivirus on your toaster.  CeBIT
+mikko	710116047135887360	2016-03-16T14:50:33	daithaigilbert At ease. Carry on.
+mikko	710115898372263940	2016-03-16T14:49:58	cgc_keynote Nice. Needs a higher framerate though. Cheers!
+mikko	710115747519979520	2016-03-16T14:49:22	H_Ericsson Will check, thanks for the link.
+mikko	710065351682301954	2016-03-16T11:29:06	daithaigilbert Well, I sort of did receive the Finnish equivalent of knighthood last year… 
+mikko	710064655255871488	2016-03-16T11:26:20	lnxdork Thank You.
+mikko	710064596552425472	2016-03-16T11:26:06	RamonThomas Upload the image to  and look at the headers.
+mikko	710064455984537601	2016-03-16T11:25:33	WuMingi I’m just very strong.
+mikko	710036298518695936	2016-03-16T09:33:40	gladioverbum F-Sucure. I like it.
+mikko	710036214523547648	2016-03-16T09:33:20	WildeW00tz I wish. See you another time!
+mikko	710036150241648640	2016-03-16T09:33:04	giop83 Go on...
+mikko	710022859331129344	2016-03-16T08:40:15	Finland's Master of Security, mikko Hyppönen, will be with us today. Join on location or online. cgc16 
+mikko	710036011162722304	2016-03-16T09:32:31	rprarnaud mrtux_ Pebble Thanks! It’s still the only Pebble I’ve seen with a Leatherman Tread as a strap. 
+mikko	710027054016831488	2016-03-16T08:56:55	I will be speaking about Cybercrime Unicorns on the CeBIT Global Conferences Open Stage at 10.45 today. 
+mikko	709952526251118593	2016-03-16T04:00:47	"I definitely did not sign up for this sh**” -mikko on the organised crime FSecure deals with. Read the interview: 
+mikko	709759758484574210	2016-03-15T15:14:47	At CNN, shooting a segment on the Malware Museum. 
+mikko	709663793891008513	2016-03-15T08:53:28	Credit Card skimmer in 3 seconds... 
+mikko	709736390762881024	2016-03-15T13:41:56	_refocus Based on what he showed us, his car is absolutely that promising.
+mikko	709736389542354944	2016-03-15T13:41:56	FNocher Wow, missed that. Never read the fine print.
+mikko	709420207274532864	2016-03-14T16:45:32	It's GeoHot, talking about his self-driving car.  SXSW 
+mikko	709392793370808321	2016-03-14T14:56:36	It's a Macbook mirror.  
+mikko	709389803746410496	2016-03-14T14:44:43	VessOnSecurity Ah! Nice. I'll steal that.
+mikko	709389752450084866	2016-03-14T14:44:31	melizeche Hey! It's only 29 years old. GIF87a
+mikko	709389602524676097	2016-03-14T14:43:55	ScooterDMC Cuppacafe 
+mikko	709389414795968512	2016-03-14T14:43:10	nickdepetrillo Exactly.
+mikko	709389381522563072	2016-03-14T14:43:03	ni9ner Nah, I'll stick with .
+mikko	709389265063510017	2016-03-14T14:42:35	EarthenBlueSky7 Ei ollut automaatit käytössä toissapäivänä.
+mikko	709389153939677185	2016-03-14T14:42:08	jaaniraty Joo, global entryyn ei pääse, mutta joillain jenkkikentillä on kyllä toisenlaisia immigraatioautomaatteja.
+mikko	709378422708031488	2016-03-14T13:59:30	There's a talk on GIFs at SXSW today.
+mikko	709371865014390784	2016-03-14T13:33:26	It's PiDay again! π Pi in hex:  URL of the day:  ℼ
+mikko	709367616830197761	2016-03-14T13:16:33	jaaniraty Jonotan kuten muut. Jonojen ohi pääsee lähinnä diplomaattipassilla.
+mikko	709367372520370177	2016-03-14T13:15:35	petterij Joo, en ole tarkistanut ja kehotan kaikkia pysymään kaukana Onecoinista.
+mikko	709343051571798017	2016-03-14T11:38:57	Trojan7Sec wimremes headhntr Also note that you do not register for the service, so we don't know who you are. 
+mikko	709154221728395264	2016-03-13T23:08:36	Your next car will be hacked. Will autonomous vehicles be worth it? 
+mikko	708777586315366400	2016-03-12T22:11:59	It's becoming really hard to take photos or record video which are NOT digital.
+mikko	708746132420034561	2016-03-12T20:07:00	Satire? Real? SXSW2016 
+mikko	708772779001126912	2016-03-12T21:52:53	Exiting US immigration. 🛃
+mikko	708762866116116480	2016-03-12T21:13:30	Entering US immigration. 🛂
+mikko	708630491432361984	2016-03-12T12:27:29	I will be in the «Hacking Your Ride» panel tomorrow at 12:30pm at SXSW. 
+mikko	708617059832340480	2016-03-12T11:34:07	Once again, I'm happy I work with security instead of safety. 
+mikko	708550766240395264	2016-03-12T07:10:41	Five years ago… 
+mikko	708550412090150913	2016-03-12T07:09:17	hannusotaniemi Checked that too. Then $2000 would have turned into close to $2 million.
+mikko	708550120510513153	2016-03-12T07:08:07	mt_sailor Actually, maybe 5 years ago.
+mikko	708549748400242688	2016-03-12T07:06:38	danshield Not yet.
+mikko	708549617483423744	2016-03-12T07:06:07	lindstorm Yes. There should be a word for rigged tech.
+mikko	708548347586543616	2016-03-12T07:01:04	S_Clarke22 Yes. Which is good.
+mikko	708548130850119681	2016-03-12T07:00:13	SwissHttp Better ask EvoHans.
+mikko	708547961861611520	2016-03-12T06:59:32	SirWumpus Well it *sounds* good, but I’d like to know how their investors plan to make money. In cases like this, it matters.
+mikko	708435468506025984	2016-03-11T23:32:32	It's not really crappy design if it accomplishes their goals, is it? 
+mikko	708435419873017857	2016-03-11T23:32:20	VessOnSecurity Still…if you would have invested $2000 in the Microsoft IPO, you would now have over one million dollars.
+mikko	708409157875933185	2016-03-11T21:47:59	Obama on unbreakable encryption: “It’s fetishizing our phones above every other value, and that can’t be the right answer."
+mikko	708405117280628736	2016-03-11T21:31:56	Obama just said, "Thanks, Obama." Crowd goes wild. ThanksObama SXSW
+mikko	708402839521873920	2016-03-11T21:22:53	If you would have invested $2000 in the Microsoft IPO on March 13th, 1986, you would now - 30 years later - have over one million dollars.
+mikko	708402762929860609	2016-03-11T21:22:34	30 years ago: News article from March 1986 mentions the Microsoft IPO briefly.  MSFT stock up over 50,000% since.
+mikko	708402562920292353	2016-03-11T21:21:47	joaocmendonca1 Because xxx.
+mikko	708399968709709824	2016-03-11T21:11:28	SirWumpus No I won't.
+mikko	708399937432719361	2016-03-11T21:11:21	CYxChris No I won't.
+mikko	708399895451996160	2016-03-11T21:11:11	JAMikdiena No I won't.
+mikko	708399858617606145	2016-03-11T21:11:02	fluffyponyza Nah. I prefer .
+mikko	708397756046577666	2016-03-11T21:02:41	agixid Indeed.
+mikko	708397708663455744	2016-03-11T21:02:29	IQAndreas Great idea!
+mikko	708397654699589632	2016-03-11T21:02:16	JarkkoIivarinen Siistiä!
+mikko	708316761767153667	2016-03-11T15:40:50	Do you often need to check your public IP address while on the go? Just memorize this address: 
+mikko	708314422373126144	2016-03-11T15:31:32	thorsheim 1337.
+mikko	708314375384383489	2016-03-11T15:31:21	SirWumpus Good job.
+mikko	708314177836879873	2016-03-11T15:30:34	joonaslinkola See 
+mikko	708291760846299136	2016-03-11T14:01:29	Oh man! We have to remove this list from the Internet immediately! 
+mikko	708291215758921729	2016-03-11T13:59:19	B4RT0S1K I spend my time dicking around the internet.
+mikko	708267450631131137	2016-03-11T12:24:53	batl_hilz Jep.
+mikko	708255732764954624	2016-03-11T11:38:20	batl_hilz Huh? Tietysti F-Secure blokkaa sen.
+mikko	708252292961722368	2016-03-11T11:24:39	DCEPT: Honeytokens for Active Directory ‒ a tripwire for intruders.  Done by joestewart71 and jbettke
+mikko	708238558000238592	2016-03-11T10:30:05	Example video on how Microsoft Word macro malware works in 2016:   [1'34"]
+mikko	708232267177525248	2016-03-11T10:05:05	DellAnnaLuca It's like an EULA that has a clause that it can change at any time but you agree to it anyway.
+mikko	708232117600325632	2016-03-11T10:04:29	LCTRgames Thanks for the link.
+mikko	708087017087881216	2016-03-11T00:27:55	Good news: FBI vs. Apple is motivating the making of more secure devices.  Bad news: they are motivating their makers to be outside the USA.
+mikko	708008400895012864	2016-03-10T19:15:31	Has anyone cross-referenced the Isis database leak with the Ashley Madison database leak?
+mikko	708022491197870080	2016-03-10T20:11:30	An archer holding an umbrella checks the target during the first day of the Archery test.  badideas
+mikko	708022396536680448	2016-03-10T20:11:08	Mgkarayan 5ean5ullivan THIS MEANS WAR or something.
+mikko	708022159390744576	2016-03-10T20:10:11	alfiedotwtf Those are AWESOME
+mikko	708021708901523456	2016-03-10T20:08:24	dosnostalgic Classic comments from the source of COMMAND․COM.  
+mikko	708020293642690560	2016-03-10T20:02:47	LiikanenAatu Joo, nyt tämän vuoden TEDissä oli lavalla Linus Torvalds. Eli nyt meitä on kaksi.
+mikko	707887405345411072	2016-03-10T11:14:44	Yeah thanks, I like my Pebble, but I don't need to be reminded that you guys actually follow how much I wear it. 
+mikko	707886536717565952	2016-03-10T11:11:16	Rangor Yes, indeed. But I'm still glad.
+mikko	707856667115913216	2016-03-10T09:12:35	I'm glad I work with security and not with safety. 
+mikko	707850814505787392	2016-03-10T08:49:20	You might be cool, but you're never as cool as Bruce Dickinson, landing his band's 747 jumbojet to Costa Rica. 
+mikko	707850714576461824	2016-03-10T08:48:56	HomeschoolCadet dosnostalgic And, SprinRite is still around. Greetings to SGgrc!
+mikko	707848841014415362	2016-03-10T08:41:29	dosnostalgic 
+mikko	707306954847350784	2016-03-08T20:48:13	Bill Gates giving advice on what to do in your career (I like the next comment too)  reddit  
+mikko	707814121761329152	2016-03-10T06:23:31	Sam0rai 
+mikko	707813797004767233	2016-03-10T06:22:14	pro_integritate Ok, show me.
+mikko	707514085550653440	2016-03-09T10:31:17	This is the sort of unusual defensive work that really matters and we really need to do more of. 
+mikko	707663708194017280	2016-03-09T20:25:50	Do notice that you can rotate and zoom in (on mobile too).  It's a bit creepy.
+mikko	707661667790942208	2016-03-09T20:17:43	dpapapetros Damn right!
+mikko	707661110594428932	2016-03-09T20:15:31	MTParkkinen LiljaJanne Maksupäätteen pitäisi salata tieto lukemisen yhteydessä. Ehkä heillä oli joku keino murtaa se.
+mikko	707660967308599296	2016-03-09T20:14:56	MTParkkinen LiljaJanne Itse asiassa tuossa jutussa ei sanota että rikolliset olisivat nauhoittaneet selväkielistä tietoliikennettä.
+mikko	707660320349790208	2016-03-09T20:12:22	danno321s A developer workstation infected with a file stealer and a keylogger is my guess.
+mikko	707530885713805313	2016-03-09T11:38:03	I wonder if anyone would complain if we would add detection for IE6 to F-Secure Anti-virus?   "Found W32/IE6.a, removing..."
+mikko	707599374864535552	2016-03-09T16:10:12	
+mikko	707596293846265857	2016-03-09T15:57:57	Mikko Hyppönen tells us about the mistakes he made and the hackers he couldn't save:  
+mikko	707605298341683200	2016-03-09T16:33:44	MichaelCarthy Thanks, will check.
+mikko	707604991901564928	2016-03-09T16:32:31	JukkaLang thorsheim See you tomorrow!
+mikko	707604935899226112	2016-03-09T16:32:18	uber_security thorsheim FSecure Yup.
+mikko	707604845377818626	2016-03-09T16:31:56	thorsheim FSecure 5ean5ullivan Thanks for coming, Per!
+mikko	651794474394361856	2015-10-07T16:21:27	"Your password contains invalid characters." No, your startup contains incompetent engineers.
+mikko	707558531126444032	2016-03-09T13:27:54	runasand nytimes Congrats to both!
+mikko	707513868201885696	2016-03-09T10:30:25	Excellent work by abuse_ch - setting up a public tracker for ransom trojans. 
+mikko	707513414571188224	2016-03-09T10:28:37	svblxyz jaysonstreet I prefer Xevious.
+mikko	706908696681390080	2016-03-07T18:25:41	COMPUTERS PRETENDING TO BE COMPUTERS PRETENDING TO BE COMPUTERS PRETENDING TO BE 
+mikko	707499382577438724	2016-03-09T09:32:52	Nikolai3d You are right, of course. But that's what they call them.
+mikko	707498986077294592	2016-03-09T09:31:17	bartblaze verovaleros siri_urz malekal_morte FSecure Agreed. Let's see if we could hack one together.
+mikko	707498840379813888	2016-03-09T09:30:42	hicksfilosopher 
+mikko	707498396765044737	2016-03-09T09:28:57	alfiedotwtf Yes, that would be neat.
+mikko	707498041369108480	2016-03-09T09:27:32	hacks4pancakes Also, why do they call them a selfie? That's not a selfie.
+mikko	707497978605473793	2016-03-09T09:27:17	LCTRgames You don't say.
+mikko	707481872788537344	2016-03-09T08:23:17	w_nicht Sure beats me.
+mikko	706878616341078017	2016-03-07T16:26:09	A very simple Facebook account takeover bug reward $15k reported by me  
+mikko	706873518198280192	2016-03-07T16:05:54	Mac finally seems to have large enough marketshare so that ransom malware gangs feel like it's worth their time to target it.
+mikko	706844559624552448	2016-03-07T14:10:50	Here's our statistics on the most common Ransom Trojans out there. Obviously KeRanger did not make the list, yet. 
+mikko	706843831107461120	2016-03-07T14:07:56	JamesMRClark Apple has revoked the signing key and is now blocking the trojanized version with Xprotect. Well done, and quickly.
+mikko	706843658126024705	2016-03-07T14:07:15	mikesmithc4 It's in their interest to provide good service, so future victims will pay too.
+mikko	706843352738762752	2016-03-07T14:06:02	vcsjones Yes, both.
+mikko	706843226527895553	2016-03-07T14:05:32	imknotar0b0t Well done, Transmission.
+mikko	706843069367361537	2016-03-07T14:04:54	JMTee On iOS, try our F-Secure Adblocker. It's free, too. 
+mikko	706841763911229440	2016-03-07T13:59:43	saltyhorse It attempted to avoid media coverage and advance warnings. Failed.
+mikko	706841678460665856	2016-03-07T13:59:23	mccabe615 Crash course.
+mikko	706841607304253440	2016-03-07T13:59:06	JamesMRClark It was signed with a developer key that was most likely stolen.
+mikko	706837858410168321	2016-03-07T13:44:12	This is what the KeRanger ticketing system looks like now (for the account № published in the Palo Alto blog post). 
+mikko	706836771775111168	2016-03-07T13:39:53	Worried about the KeRanger OS X trojan? Check the section "How to Protect Yourself" from  
+mikko	706836696554467328	2016-03-07T13:39:35	KeRanger starts encrypting files 72 hour after installation. Current version targets only local files and won't touch Time Machine backups.
+mikko	706836652086452224	2016-03-07T13:39:24	If you downloaded the 'Transmission' app to your Mac last week, YOU NOW ONLY HAVE COUPLE OF HOURS LEFT to check your system for KeRanger.
+mikko	705739102390509568	2016-03-04T12:58:08	Three reasons why everyone should (consider) using adblocker  adtech adblock JWhittingdale
+mikko	706835789745930240	2016-03-07T13:35:59	mikkokotila Thanks!
+mikko	706835643205337090	2016-03-07T13:35:24	paperghost snd_wagenseil Yeah, that's one. There was another browser-based one which worked fine on OS X, and also on LG televisions.
+mikko	706829770961641473	2016-03-07T13:12:04	Please remember to use ad blockers for your own safety. 
+mikko	706827533937987584	2016-03-07T13:03:10	Since Tracker Mapper for mobile is the hottest topic in town, here's our mini-documentary on tracking feat. mikko 
+mikko	706828057546514432	2016-03-07T13:05:15	snd_wagenseil I can only recall Browlock and other platform-free ransom trojans for Mac.
+mikko	706597160276660224	2016-03-06T21:47:45	osxreverser Ok, I saw the Time Machine attempt reference in here 
+mikko	706591362540552192	2016-03-06T21:24:43	KeRanger OS X ransom trojan attempts to encrypt your local files and Time Machine backups.  
+mikko	706466605195198464	2016-03-06T13:08:58	Or…hey, how about machines that could build copies of themselves and instead of using fuel they would eat humans? 
+mikko	706463626136313856	2016-03-06T12:57:08	ErFontan Yes, I tried it once this year. Took a lot of work for a 30 minute talk.
+mikko	706460959750135810	2016-03-06T12:46:32	nickdepetrillo So I get a digital copy instead of a film? No need for a Super 8 projector?
+mikko	706189522166538240	2016-03-05T18:47:57	Could we take the self-driving cars from Google, Tesla, Uber and Apple and have a demolition derby to see who wins? I’d pay to watch that.
+mikko	706189029264498688	2016-03-05T18:45:59	noplasticshower Let me fax you the manual for one.
+mikko	706183272477421568	2016-03-05T18:23:07	dhughes Nope. It's the same old Kodak.
+mikko	706181412039335936	2016-03-05T18:15:43	Today I learned that Kodak is selling Super 8 cameras and projectors again.  
+mikko	706173595576307712	2016-03-05T17:44:39	Wow. MAME can emulate a bootleg arcade game «39 in 1», which is built on...yes, on MAME.  
+mikko	706172314753372164	2016-03-05T17:39:34	ErFontan Sorry, what?
+mikko	659824957447237632	2015-10-29T20:11:43	Darek Tatum would like to recall the tweet, "I'm using the new Microsoft Twitter for Office software!"
+mikko	705712826896293889	2016-03-04T11:13:44	After 19 years, MAME is now OSI-compliant! Many thanks to all of the contributors who helped this to go as smoothly as possible!
+mikko	705562140795506688	2016-03-04T01:14:57	The air quotes are critical. #"cyber" 
+mikko	705789853691211776	2016-03-04T16:19:48	Looking for the SDK for Sega Dreamcast? Or Nintendo 64? Or Sony Playstation? Or Atari Jaguar? Here you go.  SDK
+mikko	703383780573118464	2016-02-27T00:58:56	All I want to do is eject a floppy disk in space  
+mikko	705786465150754816	2016-03-04T16:06:20	samilaiho Good tweeps on Incident Response? Try:   
+mikko	705413304282435584	2016-03-03T15:23:32	JSPaint: 
+mikko	705309729157947392	2016-03-03T08:31:58	Turkish hacker pleds guilty to massive $55M maniac global ATM hiest 
+mikko	705411361245945858	2016-03-03T15:15:49	saratrula Will quote you on that.
+mikko	705411094144262144	2016-03-03T15:14:45	ZibbyZ It's Georgian.
+mikko	705203202107375616	2016-03-03T01:28:40	I know not know what weapons Quake 5 will be fought with, but Quake 6 will be fought with sticks and rocks.
+mikko	701318208322609152	2016-02-21T08:11:05	Every website these days... UX 
+mikko	705055372856283136	2016-03-02T15:41:14	How I wish wintergatan would have posted a tweet linking to his Marble Machine video so I could have retweeted it. Too bad.
+mikko	705038565894295552	2016-03-02T14:34:27	It had to be done.  
+mikko	704820638746185728	2016-03-02T00:08:29	 The Feds Have Let The Cyber World Burn. Let's Put the Fire Out. AppleVsFBI
+mikko	704694301201043456	2016-03-01T15:46:28	It's true! Discover more:  
+mikko	704777934121205760	2016-03-01T21:18:48	F-Secure Sense whole-network protection due summer. This is a prototype. Salmon sold separately. RSAC2016 
+mikko	704668627484676097	2016-03-01T14:04:27	  ☑️ Catchy name  ☑️ Snazzy logo ☑️ Fancy website  Digging this new age of sec research. Can’t wait for vuln swag.
+mikko	704687102248820736	2016-03-01T15:17:52	Fun fact: Bluetooth logo was created by combining the runes of the initials of Harald 'Bluetooth' Gormsson: ᚼ and ᛒ. 
+mikko	704674502769287169	2016-03-01T14:27:48	The UK Must Take Time to Get Surveillance Laws Right, Says Our ekoivune  
+mikko	697984790323007488	2016-02-12T03:25:16	There’s still some great Twitter usernames available! 
+mikko	704649524883681280	2016-03-01T12:48:33	20dinar 
+mikko	704649241323573249	2016-03-01T12:47:25	xaocon Yeah, that's what I did.
+mikko	704643696088715264	2016-03-01T12:25:23	Funky URL of the day:  xnnode
+mikko	703839382160027649	2016-02-28T07:09:20	Comic for February 28, 2016 dilbert  
+mikko	704625638842437632	2016-03-01T11:13:38	istanboolean Yeah, but you first have to scroll to a tweet with 'j' before you can RT it with 't'.
+mikko	704619295628795904	2016-03-01T10:48:25	Using the web interface for Twitter? Here are the keyboard shortcuts. For example, typing 'j t' will do an RT. 
+mikko	704616262719025152	2016-03-01T10:36:22	bizcom smaret 1ns0mn1h4ck Good times...
+mikko	704616128748781568	2016-03-01T10:35:50	Paul_Reviews No, F-Secure AV will not fix Poodle on a server.
+mikko	704615898653413376	2016-03-01T10:34:56	itsec_martin Not boycotting any more. My excuse is that Dell bought RSA earlier this year. FSecure
+mikko	704615516946563072	2016-03-01T10:33:25	_Tx3 This is from 22 years ago. 
+mikko	704613679984021504	2016-03-01T10:26:07	CyberlawConf Hi. I have no idea how to contact you.
+mikko	704459043218173952	2016-03-01T00:11:38	dosnostalgic Thank you.
+mikko	704458765936914432	2016-03-01T00:10:32	Stef_van_Dop Yes it is.
+mikko	704443236052414464	2016-02-29T23:08:50	Exiting US immigration. 🛃
+mikko	704432431445745668	2016-02-29T22:25:54	Entering US immigration. 🛂
+mikko	701323153277108225	2016-02-21T08:30:44	One of the most common Linux distributions was replaced with a trojanized version, via a Word Press vulnerability. 
+mikko	701317085151043584	2016-02-21T08:06:37	You Never Actually Own An Apple® Watch™. You Merely Look After It Until The Next Version Comes Out. 
+mikko	701315562182483968	2016-02-21T08:00:34	AnttiKurittu thegrugq You Never Actually Own An Apple® Device.
+mikko	701313026994139136	2016-02-21T07:50:30	thegrugq You Never Actually Own An Apple® Watch™. You Merely Look After It For The Next Generation.
+mikko	700606452747075584	2016-02-19T09:02:49	Keeping the cyber streets safe: Catch FSecure CRO Mikko Hypponen at TNWEurope  
+mikko	700698612330852352	2016-02-19T15:09:02	A Museum for the Blocky Graphics of Early Computer Viruses - 
+mikko	700746811116535808	2016-02-19T18:20:33	Artists Covertly Scan Bust of Nefertiti and Release the Data for Free Online - 
+mikko	701160137269125120	2016-02-20T21:42:58	Nice watch. In other news, smartwatches outsold Swiss watches in the last quarter, for the first time ever.  
+mikko	701149719901433856	2016-02-20T21:01:34	«shutup.css» is a custom user stylesheet that silently and automatically hides comment blocks on web sites:  CSS
+mikko	701131688265576448	2016-02-20T19:49:55	The js1k competition is on again. Here's a nice example of what 1024 bytes of Javascript can do. Cc: BrendanEich 
+mikko	698242934102171650	2016-02-12T20:31:02	"Was this John Romero guy a big DOOM modder back in the day?" 
+mikko	688524821232140289	2016-01-17T00:54:44	
+mikko	698131673540648960	2016-02-12T13:08:56	iPods with SSDs. You heard that right. Fwd: 
+mikko	698129140239724544	2016-02-12T12:58:52	CodepointsNet Tried it, but the barcode blocks rendered so differently on different clients that it didn't work... 
+mikko	698100496175861760	2016-02-12T11:05:03	Coding Factory 2016 AFTERMOVIE  CodingFactory tech IT aftermovie
+mikko	698108164424785920	2016-02-12T11:35:31	Here GPTreb recreates a barcode with a single LED light. 
+mikko	698052673178697728	2016-02-12T07:55:01	Amazon buries zombie apocalypse clause in terms of service 
+mikko	698063082627715072	2016-02-12T08:36:22	41414141 wooyunsec That’s from 2007, that can’t possibly work any more. Oh, wait…
+mikko	698060732580151296	2016-02-12T08:27:02	Is there a way to embed a functioning Code128 barcode into a tweet without using a picture? Unicode? Emoji?
+mikko	698059981501890560	2016-02-12T08:24:03	You can modify barcodes to include codes that are interpreted as keyboard shortcuts. ⋆Win-R⋆  
+mikko	698056131042766848	2016-02-12T08:08:45	rufoguerreschi FreedomeVPN Trust but verify.
+mikko	698055955733467136	2016-02-12T08:08:03	mosesrenegade Hurts my head. But it’s great.
+mikko	698055795678773248	2016-02-12T08:07:25	shaurz Yup. Amazing.
+mikko	698055703659986945	2016-02-12T08:07:03	TheLightCosine I’m just pretending to be surprised.
+mikko	698055475238215680	2016-02-12T08:06:09	molcandr Yes.
+mikko	697817482795556870	2016-02-11T16:20:27	It's a WHAT? In WHERE? wtf 
+mikko	697809801775022083	2016-02-11T15:49:56	Current status: Playing Solitaire on Windows 3.1, via  
+mikko	697764618320678912	2016-02-11T12:50:23	Diagram of Hard Disk Drive Manufacturer Consolidation. From  
+mikko	697763677643108352	2016-02-11T12:46:39	happyfunstein No, Ken Thompson works for Google nowadays.
+mikko	697734955032514562	2016-02-11T10:52:31	 By domibarra   ͬͬͤ ͦͬͬͤ ͬͦͬͬͤ ͤͬͦͬͬͤ ͬͤͬͦͬͬͤ ͬͬͤͬͦͬͬͤ ͦͬͬͤͬͦͬͬͤ ͬͦͬͬͤͬͦͬͬͤ ͤͬͦͬͬͤͬͦͬͬͤ ͬͦͬͬͤͬͦͬͬͤ ͦͬͬͤͬͦͬͬͤ ͬͬͤͬͦͬͬ
+mikko	697728448828149762	2016-02-11T10:26:40	Malware Museum adds a bit more information about how old viruses showed activation routines.  
+mikko	697721067998224385	2016-02-11T09:57:20	pippuri JarnoLim Ah, so that's why the lecture hall was being quiet.
+mikko	697720819376615427	2016-02-11T09:56:21	Kryptoblog JarnoLim This was a public lecture at Aalto University. There will be a video recording on Youtube later.
+mikko	697720659670147072	2016-02-11T09:55:42	happyfunstein Nokia only sold their mobile phone business to Microsoft. This is an Internship at Bell Labs, which is now owned by Nokia.
+mikko	697716195861127168	2016-02-11T09:37:58	kyrah Ah, the good old switcharoo.
+mikko	697663504392790016	2016-02-11T06:08:36	"This year, it’s time to upgrade to Windows" Internet Archive now emulates Windows 3.1 apps.  
+mikko	697359898414342144	2016-02-10T10:02:10	Remember when every phone had their own type of charger? Bad times. 
+mikko	697186966396280832	2016-02-09T22:35:00	Amazon knows something we don’t.  Read Clause 57.10   
+mikko	696913938710188032	2016-02-09T04:30:05	Uplifting snippet from an interview with Rolf Rolles:  /via LambdaCube
+mikko	697348240468000768	2016-02-10T09:15:51	nric0 As a t-shirt? Why not. The Malware Museum doesn't have it, as we don't have support for Amiga malware at the moment.
+mikko	697348151997546496	2016-02-10T09:15:30	iMacminimee internetarchive That was the Amiga crashing. Would make a great shirt too!
+mikko	697346719118454784	2016-02-10T09:09:48	kr1t1c4l I assume eventually driving will be considered a hobby or a sport and only allowed on closed tracks.
+mikko	697345287954763777	2016-02-10T09:04:07	pli21 kimmorousku Supercell might make top 100 global software companies by revenue. Unfortunately it isn't a European company any more.
+mikko	697317358713626624	2016-02-10T07:13:08	Take note: This is the first step on the way to ban human-driven cars.  
+mikko	685125185775730688	2016-01-07T15:45:47	Put a Nobel Prize winning institution on your resume. Apply for the Bell Labs summer intern program today 
+mikko	690585613746089984	2016-01-22T17:23:35	
+mikko	697147997843542016	2016-02-09T20:00:09	We’re making t-shirts to celebrate classic malware. Vote for your favorites.  MalwareMuseum 
+mikko	697147077659385857	2016-02-09T19:56:30	
+mikko	697146341131227138	2016-02-09T19:53:34	antranigv geekarmenia For once, I really don't know what to say.
+mikko	697146205613195264	2016-02-09T19:53:02	pli21 kimmorousku On that list: yes. But they still wouldn't make the list of 100 top software companies worldwide.
+mikko	697145672517218310	2016-02-09T19:50:55	jahnitu Blocked, thanks. Just kidding.
+mikko	697145407101603840	2016-02-09T19:49:52	coulterliam gumzy96 BowenAlcock Yes it is.
+mikko	697145162754035712	2016-02-09T19:48:53	rvonpost naranek See 
+mikko	697144988514263040	2016-02-09T19:48:12	cqwww I'm pushing for us open sourcing it. That way it would live on.
+mikko	697093478141063168	2016-02-09T16:23:31	"In the real world we pay with real money. In online world you pay with privacy." -mikko aaltokyber
+mikko	697090155958702080	2016-02-09T16:10:19	"Name five large European software companies", asks mikko. Lecture hall is quiet. aaltokyber 
+mikko	697144712403271680	2016-02-09T19:47:06	Zippi_ The talk will be republished on Youtube with hires screenshots of the slides. Please stand by.
+mikko	697140766985035777	2016-02-09T19:31:25	japi999 Todella hyvä visualisointi!
+mikko	697139828727611392	2016-02-09T19:27:42	danooct1 FSecure Credit added, thanks again!  
+mikko	695285576535293952	2016-02-04T16:39:33	High-quality IBM Model F keyboard reproductions (get 'em while they're available): 
+mikko	697055854529536000	2016-02-09T13:54:01	danooct1 FSecure I'll make sure we add credit to the blog post too.
+mikko	697055803098927104	2016-02-09T13:53:48	danooct1 FSecure It's the favorite virus of one of our employees...
+mikko	697055321076932608	2016-02-09T13:51:53	thegrugq cynicalsecurity Indeed, Ericsson and Huawei are their main competitors now. We all hope they do well.
+mikko	697054951835574272	2016-02-09T13:50:25	thegrugq cynicalsecurity Which means that Nokia now owns Bell Labs. Which has more Nobels than any other research lab.
+mikko	697054817743716352	2016-02-09T13:49:53	thegrugq cynicalsecurity Nokia used the money they got by selling phones to Microsoft to buy Siemens out of NSN and to buy Alcatel-Lucent.
+mikko	697054254662549504	2016-02-09T13:47:39	jahnitu We can easily block the museum for German visitors. Just let me know.
+mikko	697053966522253312	2016-02-09T13:46:30	thegrugq cynicalsecurity Base stations, actually.
+mikko	697053305139286016	2016-02-09T13:43:53	cynicalsecurity thegrugq Well, at least Nokia (est. 1865) survived. Yes, they no longer make phones, but they are still big &amp; profitable.
+mikko	697052913093312512	2016-02-09T13:42:19	peterkruse cherepanov74 esetglobal Good job!
+mikko	697047843450834944	2016-02-09T13:22:11	3D printed homemade robot bartender at thesas2016 
+mikko	697017103451365376	2016-02-09T11:20:02	Ten days to go in our crowdfunding, and we put together a sample issue. Check it out and support our campaign! 
+mikko	697045591310909440	2016-02-09T13:13:14	Five years ago. 
+mikko	697044848717795330	2016-02-09T13:10:17	cqwww I'm sorry to say it's been discontinued. I just found out myself. Too bad! Sorry!
+mikko	683981304057040896	2016-01-04T12:00:25	Rail network flaws leave trains open to sabotage, say researchers  (darrenpauli)
+mikko	697027595452420096	2016-02-09T12:01:43	thegrugq anders_fogh pinkflawd Yeah, the amount of media coverage the museum has been receiving has been quite surprising.
+mikko	696382910946021376	2016-02-07T17:19:58	30 years ago he spoke to his watch and owned a driverless car. A true tech visionary and pioneer. 
+mikko	696999590952833024	2016-02-09T10:10:26	Colleagues at Kaspersky have just released new info on an APT campaign known as "Poseidon". Apparently from Brazil. 
+mikko	696998954437865472	2016-02-09T10:07:55	Video from the Disobey_Fi 2016 event: It's Harry Sintonen from F-Secure's CSS unit, Pwning power sockets.  [28'20"]
+mikko	696758901895667713	2016-02-08T18:14:02	Internet Archive Displays Viruses of Past in Malware Museum 
+mikko	696997566299422720	2016-02-09T10:02:24	pinkflawd You can check in to the malware museum any time you like, but you can never leave...
+mikko	696992311889240064	2016-02-09T09:41:31	Just noticed that FireEye's stock has dropped 80% in the last two years. FEYE
+mikko	696683209002786816	2016-02-08T13:13:15	Cybersecurity lecture 9.2 at Aalto University. Speakers enisa_eu´s Mr. Purser &amp; FSecure´s mikko. Also live feed 
+mikko	696979182933446656	2016-02-09T08:49:21	thegaryhawkins 
+mikko	696978420647985152	2016-02-09T08:46:19	Tiedetuubi Juu eipä kestä!
+mikko	696977987841978368	2016-02-09T08:44:36	cqwww Checking.
+mikko	696976906751758336	2016-02-09T08:40:18	aral It would need to consume 16% of the battery. Or something. Yes, we are being pussies.
+mikko	696976646939742208	2016-02-09T08:39:16	jahnitu Also, our lawyers tell me that criminal software does not enjoy copyright protection in the first place. Not sure if that's true.
+mikko	696976498553724928	2016-02-09T08:38:41	jahnitu Nope. I'm expecting a court case brought in by a virus writer whose rights were violated.
+mikko	696858700737355776	2016-02-09T00:50:35	Which classic malware would you like to see on a t-shirt?  
+mikko	696800291744804864	2016-02-08T20:58:30	Yet another case, Norwegian court allows police to force suspected criminal to unlock phone using his fingerprint: 
+mikko	696709234503892993	2016-02-08T14:56:40	Everyone enjoying the Malware Museum: please consider making a donation to the Internet Archive.   Thank You.
+mikko	696705869942255616	2016-02-08T14:43:18	Thousands flock to 'malware museum' 
+mikko	696698551204708352	2016-02-08T14:14:13	Take a trip back to a time when computer viruses still called you a**hole  
+mikko	696695971561009152	2016-02-08T14:03:58	Group-IB has published a report on the Corkow financial malware:  
+mikko	696695882213892097	2016-02-08T14:03:36	aamumehu Aikamoista. Ensimmäinen tämänkaltainen suomenkielinen puheluhuijaus mistä minä olen kuullut.
+mikko	696694906597830656	2016-02-08T13:59:44	da_667 jsprbkkr Also, I'll beat your high score any day. Any day.
+mikko	696694853330145280	2016-02-08T13:59:31	da_667 jsprbkkr Motherfuckin' Metallica.
+mikko	696693997243392001	2016-02-08T13:56:07	aamumehu Ilmoita Nordealle. Minä tekisin myös rikosilmoituksen.
+mikko	696693868448915456	2016-02-08T13:55:36	aamumehu Ja tyttö oli aidosti suomenkielinen?
+mikko	696693702866169856	2016-02-08T13:54:57	jsprbkkr You can buy a brand new Metallica pinball from Stern. They are still making them. That's where I bought mine.
+mikko	696690695034298368	2016-02-08T13:43:00	aamumehu Onko sinulla käytössä Nordean Koodisovellus, vai kirjaannutko sisään paperitunnuksilla?
+mikko	696690575005892608	2016-02-08T13:42:31	aamumehu Millä menit verkkopankkiin? Tietokoneella? Windows?
+mikko	696690507792121857	2016-02-08T13:42:15	aamumehu Wtf. Olitko käynyt tänään itse verkkopankissa ennen puhelua?
+mikko	696689932790841344	2016-02-08T13:39:58	jsprbkkr Guess what I have in my basement… 
+mikko	696689095687458817	2016-02-08T13:36:38	jsprbkkr Ah! You did.
+mikko	696679505881141248	2016-02-08T12:58:32	jsprbkkr And, of course: One.
+mikko	696679192272990208	2016-02-08T12:57:17	ESLPixelDust Yes, and streamed live.
+mikko	696679028128882691	2016-02-08T12:56:38	aamumehu Mikä on ES-tili?
+mikko	696664981278998528	2016-02-08T12:00:49	Shckwish Maybe it was me.
+mikko	696664756166459392	2016-02-08T11:59:55	miksuCS 
+mikko	696661794211938304	2016-02-08T11:48:09	Me and Steve Purser will be lecturing tomorrow at Aalto University. Public lecture, open to everyone.  aaltokyber
+mikko	696653356006305792	2016-02-08T11:14:37	Metadata Forever 🤘 
+mikko	696652844653477889	2016-02-08T11:12:36	joernchen Kickstarter?
+mikko	696652803385729024	2016-02-08T11:12:26	danooct1 It only took 24 years or so to realise that.
+mikko	696652481288343552	2016-02-08T11:11:09	daturkel Thanks Tom.
+mikko	694147413519548416	2016-02-01T13:16:54	"There are so many ways we could screw it up" – FSecure CRO Mikko Hypponen on the internet  
+mikko	696642937006981120	2016-02-08T10:33:13	LinusLarsson brokep Hey! Linus, I need to see you in my office right away.
+mikko	696642658110939138	2016-02-08T10:32:07	danooct1 I actually never realised before that Crash animation loops, and sometimes shows the original screen again 
+mikko	696641464269414400	2016-02-08T10:27:22	danooct1 Also, Walker is a classic.
+mikko	696641361391575041	2016-02-08T10:26:58	jupenur Casino. 
+mikko	696633224953524224	2016-02-08T09:54:38	It's interesting to compare which virus screenshot editors choose for their story on the MalwareMuseum. 
+mikko	696450312362684417	2016-02-07T21:47:48	"Hey, my favorite virus is missing from your malware museum" is the Technical Support Question of 2016 So Far
+mikko	696632734547103744	2016-02-08T09:52:41	brokep You look so serious. 
+mikko	696631681210589184	2016-02-08T09:48:30	daturkel Thanks for the article, Dan! But that's not how my name is spelled. 
+mikko	696630582462259201	2016-02-08T09:44:08	diverdutch I don't know.
+mikko	696333106752655360	2016-02-07T14:02:04	I admit it. I had lots of fun doing this blog post: 
+mikko	696628317781413888	2016-02-08T09:35:08	Yeah, thanks Brendan, we know. (Mr. Eich is the creator of Javascript) 
+mikko	696627977442959360	2016-02-08T09:33:47	mel_huang Uninstall Flash.
+mikko	696627930307411968	2016-02-08T09:33:35	markwo textfiles  Original Stoned.A isn't there, but it's activation is very boring: just one line of text. 
+mikko	696627666481475584	2016-02-08T09:32:33	markwo textfiles  Ping Pong is here:  Stoned.Flame is here: 
+mikko	696626982398906368	2016-02-08T09:29:49	njsantana spam?
+mikko	696626900207280128	2016-02-08T09:29:30	Cocoademon LukeDearden I'm afraid it's not. It's the original. But thank you for your work!
+mikko	696626032686854144	2016-02-08T09:26:03	iApeiron anocelot litchiedev I actually prefer iDOS 2. Best trick: Run DOSEDIT, then do File / DOS Shell.
+mikko	696349160849723392	2016-02-07T15:05:52	WhatsApp group chat size now 256 people -  "not clear why WhatsApp settled on such an oddly specific number ": er...
+mikko	692582723471323136	2016-01-28T05:39:23	Ever wondered how you would do continuous soak testing of Tap&amp;Go payments? Tyro: AlwaysInnovating 
+mikko	696061453007241216	2016-02-06T20:02:37	Usborne made their 80s children's computer books available for free:  Beautiful! nostalgia 
+mikko	696008454868201473	2016-02-06T16:32:01	Relive the nightmare of an old-school computer virus at the new Malware museum 
+mikko	696254361715003392	2016-02-07T08:49:10	Basically, choosing between a President that's either artificially intelligent or naturally stupid.  
+mikko	696254268794343424	2016-02-07T08:48:48	us3l3ssCS Do you mean the Tremor virus? 
+mikko	696253635106308096	2016-02-07T08:46:17	CyberkovCEO See 
+mikko	696253396744081408	2016-02-07T08:45:20	CyberkovCEO Running old MS-DOS viruses inside a browser on a smartphone is sure interesting. Cheers.
+mikko	696250059042717696	2016-02-07T08:32:04	"…then I was sent a Youtube link of a video of me and a list of my family members…" 
+mikko	696248857395642368	2016-02-07T08:27:17	alextai27 No.
+mikko	696248816178216960	2016-02-07T08:27:08	vmyths SCMagazine CANCEL EVERYTHING
+mikko	696248538846646272	2016-02-07T08:26:01	That looks like Al-Jazeera doing coverage on the MalwareMuseum. Or something.   Cc: textfiles internetarchive 
+mikko	696247950184476672	2016-02-07T08:23:41	Dr_Ball thx for the link.
+mikko	696247418397003776	2016-02-07T08:21:34	BlockZombie Misha is also a great writer.
+mikko	696246599404621825	2016-02-07T08:18:19	kanishkablack Watson can’t lie.
+mikko	696246432014139392	2016-02-07T08:17:39	RoryMaybe Missed that. Checking why it’s blocked.
+mikko	696246270483177472	2016-02-07T08:17:01	Infojanitor Well yes. I should know, shouldn’t I?
+mikko	696246088425193472	2016-02-07T08:16:17	1Mrree Do you have that binary somewhere?
+mikko	696245965523709952	2016-02-07T08:15:48	1Mrree FSecure Classic. I remember that.
+mikko	696245677945393152	2016-02-07T08:14:39	LukeDearden Excellent. Free as in free beer.
+mikko	696245574773907456	2016-02-07T08:14:15	s3yfullah let me know when you publish your write-up.
+mikko	696245373522804736	2016-02-07T08:13:27	anocelot Yes. Via web (Javascript). However, there’s also a trick to run it natively via one app on the App Store.
+mikko	696113432848896000	2016-02-06T23:29:10	Does IBM know that Watson has set up a website and that it's trying to run for President? 
+mikko	696030928355913728	2016-02-06T18:01:19	Executing 1991 MS-DOS malware on an iPad. We live in the future.   malwaremuseum 
+mikko	696017556902166528	2016-02-06T17:08:11	The Internet Archive opened a malware museum:  
+mikko	696026986502877184	2016-02-06T17:45:39	GilbePole Depends on your platform? I hear good things about bvkup.
+mikko	696026886095400960	2016-02-06T17:45:15	LukeDearden Slammer. Fun times indeed.
+mikko	696026833087832069	2016-02-06T17:45:03	Thireus Yes, it really is honest. I've tested it on a real machine. If you get £££, you get your files back. Losing or rebooting: files go.
+mikko	696026558423810048	2016-02-06T17:43:57	@y8ycgl Nice. I especially liked this one. 
+mikko	695806922528673794	2016-02-06T03:11:12	nationalize twitter
+mikko	695874114008064000	2016-02-06T07:38:12	Russian officials have raided a Moscow film company which is producing a cyber-crime thriller called ‘Botnet’  Dyre
+mikko	695663784271200256	2016-02-05T17:42:25	Relive your 90s technological catastrophes in the Malware Museum:  
+mikko	695743929942220801	2016-02-05T23:00:53	In honor of ’s malware museum, defconflashbackfriday is mikko on viruses at DEFCON 19. 
+mikko	695684346141868032	2016-02-05T19:04:07	The Malware Museum lets you relive old MS-DOS viruses from the comfort of your browser   
+mikko	695721309695840256	2016-02-05T21:31:00	glennlunder cyberzeddk gcluley dnlongen Excellent. I don't actually know if Internet Archive has capability to emulate them though.
+mikko	695720376941289473	2016-02-05T21:27:18	textfiles Good call. Thanks, Jason. Also, DEF CON.
+mikko	695710418241724416	2016-02-05T20:47:44	danooct1 Thank You for your help with the Malware Museum.
+mikko	695710325367250945	2016-02-05T20:47:21	orpach internetarchive textfiles xor danooct1 Danooct1 has been a great part of the project and has donated many of the binaries.
+mikko	695709537521836032	2016-02-05T20:44:14	textfiles JohnMPowersII xor lol
+mikko	695702243547422721	2016-02-05T20:15:15	I just heard from Jason Scott (textfiles) that the Malware Museum has been the #1 thing people are visiting The Internet Archive for today.
+mikko	695680741615599617	2016-02-05T18:49:48	Thanks to mikko &amp; textfiles, today we launched The Malware Museum! Our personal favorite is the adorable Ambulanc. 
+mikko	695698012153212928	2016-02-05T19:58:26	cryptax I think we miss that one.
+mikko	695697962131963904	2016-02-05T19:58:14	johnmenick Yeah, thanks! And thank you for your work.
+mikko	695697789066547200	2016-02-05T19:57:33	JohnMPowersII xor internetarchive textfiles I kid you not: you can actually download the .COM files from the Archive. You're welcome.
+mikko	695697182872223744	2016-02-05T19:55:08	cmvcooper drs_Andor FreedomeVPN STRAIGHTOUTTASOMEVIRTUALLOCATION
+mikko	695696991645523968	2016-02-05T19:54:22	cyberzeddk gcluley dnlongen That would be cool. Unfortunately I don't have a good collection of old Amiga (or Atari) stuff.
+mikko	695696764985327616	2016-02-05T19:53:28	Tietokeskus_Oy Ihan perus kotimainen raideri. Kori keskiolutta, kori jaloviinaa, pari jaffaa. Nakkeja.
+mikko	695696385140781056	2016-02-05T19:51:58	rjacksix Thanks, it's a blast
+mikko	695695984781819904	2016-02-05T19:50:22	gcluley dnlongen We should add that to the museum.
+mikko	695695855911858176	2016-02-05T19:49:52	windyoona petterilinn TORTILLAT AVATAAN
+mikko	695695068422914048	2016-02-05T19:46:44	TheCustos My AMA hit the front page of reddit last year, but I did not know that happened...because I was so busy with the AMA at the time!
+mikko	695579893216735232	2016-02-05T12:09:04	The Malware Museum is an epic collection of old-school viruses  
+mikko	695567994500575234	2016-02-05T11:21:47	Nostalgic For Old Viruses? The Malware Museum Has You Covered 
+mikko	695608198036901889	2016-02-05T14:01:32	Adding this to my CV on Linkedln. Sounds cool. 
+mikko	695607890632142849	2016-02-05T14:00:19	VessOnSecurity For submissions to the this archive, see 
+mikko	695607605746597892	2016-02-05T13:59:11	VessOnSecurity Well, we have it, but not as a standalone COM file. 
+mikko	695607440428109825	2016-02-05T13:58:32	gcluley Best part: when you finish playing with this version on the Internet Archive, you can dick around on the command line. Try 'MOUNT'
+mikko	695606976118702083	2016-02-05T13:56:41	gbenoni D'oh. Because they work!
+mikko	695606931025694720	2016-02-05T13:56:30	aimxhaisse Congrats on the Daft Punk thing. very cool!
+mikko	695591173684097024	2016-02-05T12:53:53	This is probably the first time that I'm on the top of Hacker News. 
+mikko	695587871340818432	2016-02-05T12:40:46	You can play the Disk Destroyer game in the Malware Museum:  
+mikko	695587399305465856	2016-02-05T12:38:54	Windows 10 is now more popular that Windows XP. Yay. 
+mikko	695581376603668480	2016-02-05T12:14:58	Minna___ Joo.
+mikko	695581045266235392	2016-02-05T12:13:39	textfiles You mean 
+mikko	695580806262190080	2016-02-05T12:12:42	botherder Thanks!
+mikko	695580789971542016	2016-02-05T12:12:38	botherder Please contribute! We already got a set of additional samples from danooct1. It's all coordinated by textfiles, talk to him.
+mikko	695579966575091713	2016-02-05T12:09:21	pro_integritate Oh yes it has.
+mikko	695579756687917056	2016-02-05T12:08:31	pro_integritate Yeah, absofuckinglutely.
+mikko	695354697478066178	2016-02-04T21:14:13	Introducing the Keybase filesystem: 
+mikko	695579544179314693	2016-02-05T12:07:41	ptotterm Neat. Sort of like a public ledger.
+mikko	695541211197792256	2016-02-05T09:35:21	Want to watch F-Secure analysts reverse engineer malware on Twitch? Vote in Mikko’s poll 
+mikko	695578674733694976	2016-02-05T12:04:13	chongodro1d 
+mikko	695570192924065792	2016-02-05T11:30:31	iamcorso textfiles Viruses are malware too. Technically, the things you're running here are NOT viruses, as they don't replicate any more.
+mikko	695551079770095616	2016-02-05T10:14:34	Oh no! Is my computer infected by the Walker virus? Nah, I visited The Malware Museum:  
+mikko	695535403428872192	2016-02-05T09:12:17	an emulated malware museum by mikko and textfiles  
+mikko	695538568664637442	2016-02-05T09:24:51	maxrothbarth Will pass on, thanks!
+mikko	695538474972286976	2016-02-05T09:24:29	paperghost   C:\windows\Microsoft․NET\Framework\v3.5\csc.exe /target:EXE  YOLOsec
+mikko	695538427463335936	2016-02-05T09:24:18	paperghost I love it.
+mikko	695536325987078148	2016-02-05T09:15:57	textfiles Re: BBS lists. Also see 
+mikko	695531255987900416	2016-02-05T08:55:48	Do you feel like emulating old malware inside a MS-DOS Virtual Machine inside your browser? But of course you do. 
+mikko	694952685083181057	2016-02-03T18:36:46	Now I understand! After a training session today, caught a glimpse of Microsoft Windows on the Soyuz display... 
+mikko	695528023240658944	2016-02-05T08:42:57	danooct1 Excellent! Please pass them on to textfiles. But let's aim for quality instead of quantity?
+mikko	695309997421551616	2016-02-04T18:16:36	Go back to Finland at 10% at the moment xD 
+mikko	695526648683327488	2016-02-05T08:37:29	WuMingi On siellä kaikenmaailman koodausta ja photoshoppailuakin, joten miksei reversaustakin.
+mikko	695526210072375296	2016-02-05T08:35:45	techlover0010 Can't wait.  XP
+mikko	695526095836286976	2016-02-05T08:35:18	BeSecureOnline1 FSecure It's cheap. I like that.
+mikko	695525707405983744	2016-02-05T08:33:45	k3r3n3 kermaani Hi! No DEF CON or 2600 groups in Finland any more, but check out  &amp; 
+mikko	695524128489660416	2016-02-05T08:27:29	cybersecurity18 joo katotaan.
+mikko	695523244900794369	2016-02-05T08:23:58	RichWalston Thanks, will check.
+mikko	695337611217375232	2016-02-04T20:06:19	Cybersecurity lectures 9.2 in AaltoUniversity. Speakers enisa_eu´s Mr. Purser &amp; FSecure´s mikko. Also live feed 
+mikko	695515778385367040	2016-02-05T07:54:18	sengork I’ve seen that.
+mikko	695515561942454272	2016-02-05T07:53:26	kerouanton Did you get in then?
+mikko	695361529042997253	2016-02-04T21:41:22	New blog post: Barcode recovery using a priori constraints 
+mikko	695307903746588673	2016-02-04T18:08:17	Simple and easy-to-use cheat sheet for special characters:  by viktornuebel¶
+mikko	695306907779796992	2016-02-04T18:04:19	sawaba mlowdi True. We live in the future.
+mikko	695306803681366016	2016-02-04T18:03:54	BCDodge_me NINJA_TEA &lt;initiating shitposting&gt;
+mikko	695306491188928513	2016-02-04T18:02:40	24367dfa In Finnish too.
+mikko	695306440160993280	2016-02-04T18:02:28	briegleb Thanks Volkker.  Cc: heiseonline MonikaErmert
+mikko	695306247646625792	2016-02-04T18:01:42	sawaba mlowdi Great idea!
+mikko	695103304678793216	2016-02-04T04:35:16	Most valuable companies timeline: Exxon - Makes oil Apple - Makes phones Google - Makes Google+
+mikko	695019154231967746	2016-02-03T23:00:53	d3 MAGIC 
+mikko	695018259821764608	2016-02-03T22:57:20	Parkkisenniemi autiomaa EskoSeppanen Kilpailu suomenkielellä tviittaavien keskuudessa tulee varmaan lähinnä TuomasEnbuske:n taholta.
+mikko	695016611309359109	2016-02-03T22:50:47	khaxan Yeah, agreed.
+mikko	695016371294490624	2016-02-03T22:49:50	autiomaa Parkkisenniemi EskoSeppanen Juuri näin.  Helppohan mun on keräillä isoja näkyvyyslukuja kun yli puolet seuraajista on jenkeistä.
+mikko	695015133245001728	2016-02-03T22:44:55	AvrahamAdler Many English-speakers told me in this thread that they’d say ‘dubdubdub’.
+mikko	695010750910369793	2016-02-03T22:27:30	MorganMac Yeah, not mine. Also, I don’t have a Galaga. I wish…
+mikko	695010405974949888	2016-02-03T22:26:08	AvrahamAdler Ah. I see. You're making assumptions on how people would pronounce 'www, though.
+mikko	695010079205113858	2016-02-03T22:24:50	khaxan It's not the same thing, is it?
+mikko	695009536286048256	2016-02-03T22:22:40	gsuberland PaulM I’ve seen people try to go to www.mikko.hypponen․com when they are looking for mikko.hypponen․com. I refuse to add that.
+mikko	695008726122635264	2016-02-03T22:19:27	gsuberland PaulM Some argue it has benefits. See 
+mikko	695002815404621824	2016-02-03T21:55:58	AvrahamAdler Sorry, what? Lost me there.
+mikko	695001700093059072	2016-02-03T21:51:32	Which one is faster to pronounce?
+mikko	694524082247852032	2016-02-02T14:13:39	Very interesting statistics – Windows Commands Abused by Attackers:  ~ HT tomituominen
+mikko	694999379061665792	2016-02-03T21:42:19	LukeDearden Rock on!
+mikko	694999315228581888	2016-02-03T21:42:03	lecklin That's it. I need to see you in my office right away.
+mikko	686861994922762240	2016-01-12T10:47:15	iOS 9.3 – password protect Notes. Nice! But Apple's marketing image and use cases… wat? 
+mikko	694899240821092352	2016-02-03T15:04:24	This hurts. 
+mikko	694996375075975172	2016-02-03T21:30:22	LukeDearden Is that Chocolate DOOM?
+mikko	694994721651974144	2016-02-03T21:23:48	YeatesJM FSecure Or hunter2
+mikko	694994421494996992	2016-02-03T21:22:37	H4k1p Then they've already failed. Control codes shouldn't really come into picture at all. The first step should be hashing the passwords.
+mikko	694993993256562688	2016-02-03T21:20:55	homakov Indeed.
+mikko	694993940114731008	2016-02-03T21:20:42	SwissHttp Right.
+mikko	694993914143580160	2016-02-03T21:20:36	gerard_schmid There's no reason that makes sense.
+mikko	694993856862019585	2016-02-03T21:20:22	lecklin Hey! I say, !@#$%^ you AND your mother!
+mikko	694992995859435521	2016-02-03T21:16:57	JoniNieminen Emojit? Kts. 
+mikko	694992879178113026	2016-02-03T21:16:29	JoniNieminen "Salasanojen ääkköset lisäävät tietoturvaa, mutta aiheuttavat käytännön ongelmia...": 
+mikko	694992385906974721	2016-02-03T21:14:31	leifnixon 4o4 
+mikko	694992192809607168	2016-02-03T21:13:45	grumbleweeds Thanks. Nice domain name, too!
+mikko	694992143929122816	2016-02-03T21:13:34	nikcub Which isn't really a big deal for them. So why not.
+mikko	694991402636333056	2016-02-03T21:10:37	CandN_be I sure can't think of any.
+mikko	694879638661812224	2016-02-03T13:46:30	Paypal password requirements. Make sure not to include spaces and not to make it too long. 
+mikko	694877171458924544	2016-02-03T13:36:42	Google's domain costs must be astronomical.     
+mikko	694870815062548480	2016-02-03T13:11:27	JosepAlbors Where is this? In Alicante?
+mikko	694868514914594816	2016-02-03T13:02:18	Recursion: See 'Loop'.  Loop: See '' 
+mikko	694864225303396352	2016-02-03T12:45:15	Kekkonenx3 lussej2000 TuijaSoikkeli Mitä minä käytän? No F-Secure Key:tä.
+mikko	694864068973301760	2016-02-03T12:44:38	JosepAlbors So beautiful. I want to visit that place!
+mikko	694863844527718400	2016-02-03T12:43:45	goebish Good choice.
+mikko	694841131549474816	2016-02-03T11:13:29	SFBayISSA Unfortunately, it doesn't.  18.11.99  11:04         250 640  WINFILE.EXE 
+mikko	694840646721495040	2016-02-03T11:11:34	kennu Tommi_M_Elo Joo en.
+mikko	694839561990569984	2016-02-03T11:07:15	This is why you want to store your arcade games in a dry and cool place.   Picture from  
+mikko	694826245079453696	2016-02-03T10:14:20	This talk by mikko still blows my mind. OnlineAds DigitalRights Security Privacy Anonymity DontKickTheRobots 
+mikko	694834172532277248	2016-02-03T10:45:50	dl1mur4tdj Yes, Red Star is interesting.
+mikko	694834106442608640	2016-02-03T10:45:35	robotterror Good call by deleting it right away.
+mikko	694833570288963584	2016-02-03T10:43:27	Tommi_M_Elo Ja kaljatkin tilaan amazonista.
+mikko	694831930274115584	2016-02-03T10:36:56	kotkavirta JuhisHeljaste Jep :)
+mikko	694185723646320641	2016-02-01T15:49:08	Is encryption really a threat to security? Get the bigger picture on the encryption debate  
+mikko	694598881087127552	2016-02-02T19:10:52	no. 
+mikko	694796775669010432	2016-02-03T08:17:14	Rosie_G_ They are going to be like every bookstore, where you check out the books you like, and then go and order them cheaper on amazon.
+mikko	694794332612759552	2016-02-03T08:07:32	"…I'd move to a non-extradition country, declare the revolution, and start working to bring down the government…“ 
+mikko	694599085442076673	2016-02-02T19:11:41	Hey DOS peeps, have you used any Borland Turbo line products? Tell me your memories. 
+mikko	694566546874732544	2016-02-02T17:02:23	Remind me not to read any news about ISIS any more.  
+mikko	694565035750854656	2016-02-02T16:56:23	bootdisk I know...
+mikko	694564996529963010	2016-02-02T16:56:14	joernchen IDSPISPOPD all the way.
+mikko	694562361651417089	2016-02-02T16:45:46	THelppi juhahelppi WippleH No esim. mailiosoite root@timo.help kuulostaa hauskalta...
+mikko	694556173698220032	2016-02-02T16:21:10	methodical_mike Took a screenshot, had it printed &amp; framed. Cost me 40€ or so.
+mikko	694555437799247872	2016-02-02T16:18:15	jhhdk romero dosnostalgic DOOM :) Time to go and play some DOOM.
+mikko	694537947564089344	2016-02-02T15:08:45	jhhdk romero dosnostalgic DOOM Strange choice of scene? Strange choice? Wow.
+mikko	694528974446333953	2016-02-02T14:33:05	Got some new art on the wall. 
+mikko	694524129349865477	2016-02-02T14:13:50	juhahelppi WippleH THelppi Moi Helpit! Oletteko huomanneet että .help -domainnimiä saa nykyään rekisteröidä? Esim. juha․help on vapaana…
+mikko	694522931590864896	2016-02-02T14:09:05	Tom jeriellsworth For what it's worth, I should have 2 free tickets to Collission...
+mikko	694092931007954944	2016-02-01T09:40:25	jautero I added it.
+mikko	694092808299384832	2016-02-01T09:39:55	WithinRafael I tagged him in the image.
+mikko	694092679802650624	2016-02-01T09:39:25	TheWack0lian markrussinovich Actually, it's from 1995. But anyway. 
+mikko	694092045451948032	2016-02-01T09:36:53	siilime No, it's not a DOS binary. It's 32-bit PE.
+mikko	694091793659469824	2016-02-01T09:35:53	CyberRoute Not really. Malware doesn't survive very well over long periods of time, for various reasons.
+mikko	694091325768126464	2016-02-01T09:34:02	LasPent Kas. Aika isolla erolla vielä.
+mikko	694090861462814720	2016-02-01T09:32:11	_jorge_peinado_ markrussinovich No I won't.
+mikko	694090435829088256	2016-02-01T09:30:30	am0_oma Sure thing. Ping FreedomeVPN.
+mikko	694090259693436928	2016-02-01T09:29:48	tvdMD I'm happy that Al Gore introduced the Supercomputer Network Study Act in the 1980s. I think all internet users should be. You too.
+mikko	693878094080393218	2016-01-31T19:26:43	One thing is quite remarkable in Windows. I can take a binary from 1994 and run it in 2016. And it actually works. 
+mikko	693603762544467968	2016-01-31T01:16:38	I have been locked out of Twitter for over a week by a fired campaign worker. FBI got it back. Woman soon to be incarcerated.
+mikko	693850176746852352	2016-01-31T17:35:47	1. Register the vr․com domain when it expires in October 2. Set up some virtual reality stuff on it 3. ??? 4. Profit 
+mikko	693812410713509893	2016-01-31T15:05:43	briankrebs For what it's worth, the rebranded versions of the attack map seem to be online:  
+mikko	693743008659980288	2016-01-31T10:29:57	alikhalidrana pascal_r2 I used a Unicode zero-lenght space to get 'pepsi' accepted.
+mikko	693740258605817856	2016-01-31T10:19:01	There's this new site by CocaCola where you can make GIF animations.  
+mikko	693734248407244800	2016-01-31T09:55:08	@FergusBremner Like the Nokia 7710? 
+mikko	693733783263154176	2016-01-31T09:53:17	vvk Jep. Esim: 
+mikko	693733113063739393	2016-01-31T09:50:37	ZarulShahrin Oh man. Shut up. :)
+mikko	693732890916601857	2016-01-31T09:49:44	SwiftOnSecurity It was even RTd by Nero, mrjamieeast AND Twiterhero. Nice.
+mikko	693731419965775872	2016-01-31T09:43:54	SwiftOnSecurity is that your best performing tweet ever?
+mikko	693560658361720832	2016-01-30T22:25:21	Vector glitch aesthetic 
+mikko	693488484615483395	2016-01-30T17:38:33	Adobe has an entire section on their website where they get all pissy about photoshop as a verb, and it's hilarious. 
+mikko	693714359697149952	2016-01-31T08:36:06	"I was amazed to find that the main features of iPhone were invented years earlier by a Finnish inventor"  myDevice
+mikko	693708102982569984	2016-01-31T08:11:14	Hutriel petterij jarvansalo Btw, number stationeita löytyy (tietysti?) myös Twitteristä. Esim. cr_conet. 
+mikko	693626338251399168	2016-01-31T02:46:20	this guy was there to call him out on it. no idea how the AmA continued after this. 
+mikko	693626159146242048	2016-01-31T02:45:37	in reddit AmA dark web “expert” repeats urban myth that people &amp; hitmen can be bought   
+mikko	693706978359640064	2016-01-31T08:06:46	nikcub Oh come on Nik. The dark web is exactly the right place to buy…people.
+mikko	693702335483269120	2016-01-31T07:48:19	mikkoivars Es ist gut.
+mikko	693702031471697920	2016-01-31T07:47:07	bit_of_hope That stopped with the ESTA system, I believe.
+mikko	693701871379353600	2016-01-31T07:46:29	Kalyr yeah!
+mikko	693534506540756993	2016-01-30T20:41:26	Good call, 90 years ago. Nikola Tesla forecasting the internet on January 30, 1926.  
+mikko	598926427896033280	2015-05-14T19:02:42	You either die a software engineer or live long enough to see yourself become the project manager
+mikko	693525090458341380	2016-01-30T20:04:01	nicolas09F9 Custom, like they used to do it in MS-DOS programs.
+mikko	693524764518912004	2016-01-30T20:02:43	drscriptt It works fine in DOSBox, btw.
+mikko	693524430732070912	2016-01-30T20:01:24	Amazon has to be the world's biggest non-profit. Did I get this right? 
+mikko	693386769216180225	2016-01-30T10:54:22	Tip of the day: You can download Adobe Acrobat for MS-DOS from . 
+mikko	693354547268444160	2016-01-30T08:46:20	Completely Secure™ Eternal Battery Life™  
+mikko	693353541721800705	2016-01-30T08:42:20	RobertMLee It's not that bad. Those top secret emails contained nothing really useful, according to all the Chinese intelligence agencies.
+mikko	693343140405706753	2016-01-30T08:01:01	Picture of rover tracks. On Mars.  /via elakdawalla thegrugq Curiosity 
+mikko	692921574450675716	2016-01-29T04:05:51	GET RICH OR DIE DIVERSIFYING
+mikko	693140588212817920	2016-01-29T18:36:08	Rob J at the 2016 enigmaconf: "You need to know your network better than anyone." 
+mikko	693221584933363712	2016-01-29T23:57:59	Bittersweet end to my stint in government — I’m disappointed to announce my departure from whitehouseostp 
+mikko	693100974622261248	2016-01-29T15:58:44	People sure collect weird things. 
+mikko	678838578806394880	2015-12-21T07:25:04	ah yes excellent, a smart cot 
+mikko	693069120334647296	2016-01-29T13:52:09	"There is job security, in security -  criminals are quite unlikely to quit, or retire" mikko CodingFactory tech 
+mikko	693061913731842048	2016-01-29T13:23:31	mikko takes the stage at codingfactory 
+mikko	693055951063097344	2016-01-29T12:59:49	We have webinar on security controls coming up on Tuesday morning. Register at 
+mikko	690339117603794944	2016-01-22T01:04:06	Here’s a movie to make you more praning over someone watching through your gadgets’ front cameras. 
+mikko	692693045305839616	2016-01-28T12:57:46	F-Secure survey charts privacy concerns in different countries  Read more here:  
+mikko	693028654272638976	2016-01-29T11:11:21	Keeping the cyber streets safe: FSecure CRO Mikko Hypponen will speak at TNWEurope  
+mikko	693037797431742465	2016-01-29T11:47:41	brokep See you in Amsterdam: 
+mikko	693037185260490752	2016-01-29T11:45:15	Are you looking for a summer job?  kesaetyoe
+mikko	692120944492572672	2016-01-26T23:04:26	A MacBook Pro came back from a trip to China with half of its bottom case screws missing. Not suspicious at all. 
+mikko	693034068443844608	2016-01-29T11:32:52	sxpert1 Siirtohinnoitteludokumentaatiosäännökset = The regulations governing the documentations for transfer pricings.
+mikko	693033744702279680	2016-01-29T11:31:35	SMITTAL012 Beats me.
+mikko	693033706253094912	2016-01-29T11:31:26	julioelpoeta The bot for mikko_2011 was built by EsaMakinen.
+mikko	693033472710021120	2016-01-29T11:30:30	TreadLinksCA But even today, I can't find you by googling for something like: "pebble" "leatherman tread"
+mikko	693033280728383488	2016-01-29T11:29:44	TreadLinksCA I wish I would have found you guys. It would have been much simpler to add my Pebble to my Tread with your system.
+mikko	693032660164349952	2016-01-29T11:27:16	HugoHirsh They are fairly close now. 
+mikko	693032092091944961	2016-01-29T11:25:01	PerKiilstofte aral Yeah, I've seen that documentary too.
+mikko	692809875395604481	2016-01-28T20:42:00	Google is now very close to becoming the largest publicly traded company, bypassing Apple in market cap.
+mikko	692703675932917760	2016-01-28T13:40:00	Facebook vs. Twitter stock prices over the past two years. Facebook up 14.55% in pre-market, near all-time high. 
+mikko	692809781384445954	2016-01-28T20:41:38	YFPUSHKIN With free shipping, too.
+mikko	692809668687691777	2016-01-28T20:41:11	pteridin tirsales stevengoossens Yes. Typically installing banking or ransom trojans. $$$
+mikko	692809421924220928	2016-01-28T20:40:12	jorntvdw If they can’t detect the language, they’ll just assume it has to be Finnish.
+mikko	692809104390295552	2016-01-28T20:38:56	jajelle hxmonsegur Thank you Jelle, and all the best.
+mikko	692808837934510081	2016-01-28T20:37:53	alfiedotwtf Well, I have the analytics data on the tweet. But that’s not the whole picture. So many copied it.
+mikko	692808581977104384	2016-01-28T20:36:52	alexlobov tomgara wow.
+mikko	692808374459695105	2016-01-28T20:36:02	YFPUSHKIN no
+mikko	692808308407812097	2016-01-28T20:35:47	markovanzwam Congrats to DeloitteNL!
+mikko	692754735150010368	2016-01-28T17:02:54	It only takes 10 business days to get removed from a Dow Jones email list. 
+mikko	692748690264584193	2016-01-28T16:38:53	You know we have a weird language when single words just won't fit in the layout. 
+mikko	692730442181709824	2016-01-28T15:26:22	Our ekoivune is doing an Ask-Me-Anything on reddit right now:  AMA
+mikko	692068110426198016	2016-01-26T19:34:30	What computer users see in security warning boxes enigma2016  Very, very true. 
+mikko	692720421897015297	2016-01-28T14:46:33	unorigmoniker It's a good joke.
+mikko	692720121119379456	2016-01-28T14:45:21	alfiedotwtf Good jokes sure go around... See 
+mikko	692719214113742848	2016-01-28T14:41:45	nickcalyx Great joke, but I think I've heard it before.
+mikko	692718898337189888	2016-01-28T14:40:30	daniel_bilar mikk0j Beats me.
+mikko	692713839838756864	2016-01-28T14:20:24	Found from the VBA macros of the latest version of the Dridex malware. Hat tip to stevengoossens. 
+mikko	692662285614063617	2016-01-28T10:55:32	It's DataProtectionDay and we have a -50% discount for today only to celebrate! Use code PRIVACYDAY at checkout 
+mikko	692710515777368064	2016-01-28T14:07:11	Yaogwai Great question.
+mikko	692710335942410240	2016-01-28T14:06:28	LasPent Valitan, ei ole suunnitelmissa.
+mikko	692708066995867650	2016-01-28T13:57:27	stevengoossens Found it.  Thanks!
+mikko	692705814193291265	2016-01-28T13:48:30	stevengoossens Where is that from?
+mikko	692705490367844352	2016-01-28T13:47:13	LasPent You don’t — except with Android.
+mikko	692697735179440128	2016-01-28T13:16:24	Nallellaan perspiraattori Tai siis, riippuu distribuutiosta. Androidissa toimii loistavasti.
+mikko	692373091868086272	2016-01-27T15:46:23	, please. Your printer is on the wrong side of the firewall. 
+mikko	692372609544118274	2016-01-27T15:44:28	Snaggo Great one...
+mikko	692261920653643776	2016-01-27T08:24:38	Facebook *sponsorsing* a “privacy” conference. Guess I was wrong about them; they must want to protect our privacy. 
+mikko	691994202675240961	2016-01-26T14:40:49	My TV has an antivirus. IoT what a time to be alive. cc internetofshit 
+mikko	674189429859295232	2015-12-08T11:31:00	We are thrilled to announce our CodingFactory Keynote Speaker: Mikko Hyppönen!  (Jan 29th) 
+mikko	691707654700453888	2016-01-25T19:42:10	What is the difference between USA and USB?  
+mikko	691753372123275269	2016-01-25T22:43:50	Unexpected new video! How "Crash Safari" reboots your phone: 
+mikko	691777850362437632	2016-01-26T00:21:06	S3 is cheap as hell for serving data, total costs for serving CrashSafari for today is about a quarter. 
+mikko	691756483852128256	2016-01-25T22:56:12	Oh man, Twitter blocked CrashSafari so nobody can post the link now.
+mikko	691720545579208704	2016-01-25T20:33:24	PSA: A Link That Crashes Safari Is Being Passed Around On Social Media  by sarahintampa
+mikko	691871289707995137	2016-01-26T06:32:24	Eilen tunteita herättivät: mikko cmadfi saurau SOD_FINLAND veronikahonka 
+mikko	691879423306502144	2016-01-26T07:04:43	PinnallaFI pyrylahti No huh. Nyt oli kyllä tavoittavuus kohdillaan.
+mikko	691656150731898880	2016-01-25T16:17:31	Don’t be trolled today by this iPhone-crashing link meme 
+mikko	691641529262305284	2016-01-25T15:19:25	Crashing my iPod touch. CrashSafari 
+mikko	691633446607851520	2016-01-25T14:47:18	Wow. One “Crash Safari” short-link has been clicked on more than one hundred thousand times… 
+mikko	691600741832720384	2016-01-25T12:37:20	Right now, lots of jokers are posting shortlinks to 'crashsafari․com'. The link will reboot your iPhone. Watch out. 
+mikko	691534642466398208	2016-01-25T08:14:41	True... 
+mikko	684389973986947075	2016-01-05T15:04:19	 - it's still there!
+mikko	691198014455713792	2016-01-24T09:57:03	Did a Russian operator try to hijack Google DNS? Sounds like a big deal.   OMZGlobal 8.8.8.8 DNS 
+mikko	691197314233405440	2016-01-24T09:54:16	AndreaBarisani windyoona Small internet, small world.
+mikko	691197184168042496	2016-01-24T09:53:45	burnettedmond You’re welcome.
+mikko	691197115133992961	2016-01-24T09:53:28	@mrt1n3z It’s Finnish.
+mikko	691197041872146432	2016-01-24T09:53:11	windyoona I remember ftping Commodore 64 binaries from funet. Before the web existed.  dinosaur
+mikko	691193470510301184	2016-01-24T09:38:59	In early 1990s, Funet FTP server made Finland the only country besides USA that sent out more data than it received. 
+mikko	691193053684600832	2016-01-24T09:37:20	@mrt1n3z It’s not.
+mikko	691192953981792257	2016-01-24T09:36:56	cmvcooper wgreiner I have some very nice lock &amp; key cufflinks somewhere.
+mikko	691192791263776768	2016-01-24T09:36:17	Jandep100 Thanks.
+mikko	691192777787510784	2016-01-24T09:36:14	Kuningaskunta Too bad.
+mikko	691192777779077120	2016-01-24T09:36:14	JukiMax ping FSecureCares
+mikko	691075625788944384	2016-01-24T01:50:43	"Maybe if we make just another one they'll finally end capitalism." 
+mikko	690908228692111361	2016-01-23T14:45:32	Find the panda hidden amongst the black metal bands! Drawn by Espen Westum, Norway. 
+mikko	690906161990782976	2016-01-23T14:37:20	BrandXJon I think they've been teaching it all throughout these years in the Finnish navy.
+mikko	690906061201604608	2016-01-23T14:36:56	zerointerupt Dammit. I thought I was clever.
+mikko	690905194050277376	2016-01-23T14:33:29	wgreiner You might be right!
+mikko	690905153373933568	2016-01-23T14:33:19	chanux Yes, I had to remove nodes.
+mikko	690905047706791937	2016-01-23T14:32:54	WirelessServInc I've used the screwdrivers and the Apple SIM pick. I like it.
+mikko	690904914155954176	2016-01-23T14:32:22	WirelessServInc WMiljas I got my Leatherman for christmas and I've flown 6 times with it, including 2 flights through TSA. No problems!
+mikko	655932647672279040	2015-10-19T02:25:04	GPS, Plan B: US Navy teaches celestial navigation as fallback for cyberattack  
+mikko	690806066871955456	2016-01-23T07:59:35	Leave some Bitcoin wallet files on your workstations and set an automatic alert on their blockchain status: Instant breach notifications! 💶
+mikko	689893680010895361	2016-01-20T19:34:05	What's the difference between USA and USB?
+mikko	690562455186071553	2016-01-22T15:51:34	Got my Leatherman Tread modified to fit as a watch strap for my Pebble. 
+mikko	690520166921302016	2016-01-22T13:03:31	HBSfin "It's kinda hard to buy cocaine with a credit card" bitcoin mikko 
+mikko	690517490313621504	2016-01-22T12:52:53	"There’s no free lunch. Free internet content is paid by your data and your privacy. And we think this is just normal." mikko HBSfin
+mikko	690559539456901120	2016-01-22T15:39:58	game_again Yes, exactly!
+mikko	690559494632398848	2016-01-22T15:39:48	saratrula Will check thanks
+mikko	690559425023709184	2016-01-22T15:39:31	paperghost mrbellek Aye aye Sir, he did indeed.
+mikko	690559228755496960	2016-01-22T15:38:44	5ean5ullivan True. Wow.
+mikko	690559195570147329	2016-01-22T15:38:36	SirWumpus It was originally developed by United States Naval Research Laboratory and then further developed by DARPA.
+mikko	690555999082651648	2016-01-22T15:25:54	leathermanusa Pebble Hi guys! Here's my Pebble smartwatch with Leatherman Tread custom-fitted as the strap! 
+mikko	690534186013294592	2016-01-22T13:59:14	varenc 
+mikko	690401311997739008	2016-01-22T05:11:14	Google paid Apple $1 billion to have its search bar on iPhones.  
+mikko	690496615635927040	2016-01-22T11:29:56	wtf 
+mikko	690494831177658368	2016-01-22T11:22:51	jmgosney Nope, not my picture. Too bad!
+mikko	690494563698499585	2016-01-22T11:21:47	So...FireEye and iSight merged.   I can only suppose they will now rename themselves to EyeSight?
+mikko	690458592143605762	2016-01-22T08:58:51	DavisSec Viss Genius! Can't wait for Youtube to open up video rental stores. I want my dank memes on a VHS.
+mikko	690458379026894848	2016-01-22T08:58:00	panther_modern Indeed can't even.
+mikko	690458324668559360	2016-01-22T08:57:47	obiwan666 Sounds great!
+mikko	690458251733942273	2016-01-22T08:57:29	Rosie_G_ See 
+mikko	690451278086967296	2016-01-22T08:29:47	Stupid me. I thought Amazon was a website. 
+mikko	690296296884850688	2016-01-21T22:13:56	UGH. 
+mikko	690449179995455488	2016-01-22T08:21:27	obiwan666 Nice. Might also be be safe against EMP.
+mikko	690449060067708928	2016-01-22T08:20:58	sengork 
+mikko	690448432620765184	2016-01-22T08:18:28	AnttiKurittu And me.
+mikko	690448407970783233	2016-01-22T08:18:23	keithintokyo Thanks Keith!
+mikko	690292703251304448	2016-01-21T21:59:40	Someone should check if this Dropbear SSH vulnerability would apply to the SSH server in a Mercedes-Benz S-Class. 
+mikko	690280671802167296	2016-01-21T21:11:51	murphyia By the U.S. Navy.
+mikko	690280605205008389	2016-01-21T21:11:35	murphyia That's what it was built for.
+mikko	690280527300026369	2016-01-21T21:11:17	Phoul ALL CAPS ALL THE TIME
+mikko	690279137529958405	2016-01-21T21:05:45	"TOR Network Exploits to De-Anonymize Terrorist Users" - is there any other kind, right? 
+mikko	690278673019183104	2016-01-21T21:03:55	timolehtinen Kts. 
+mikko	690274044185350144	2016-01-21T20:45:31	Best practices to make users forget their privacy concerns. From  
+mikko	690273881341427712	2016-01-21T20:44:52	timolehtinen Meinaatko että joku postasi oikeat vastaukset jonnekin?
+mikko	690269613645549568	2016-01-21T20:27:55	VessOnSecurity I can only assume so!
+mikko	656161090976501760	2015-10-19T17:32:49	To help keep sensitive info safe, don’t stay permanently signed in to accounts. More at 
+mikko	690117643521630209	2016-01-21T10:24:02	Crypto STEM challenge by US Army:  [WebGL]
+mikko	690117637246992384	2016-01-21T10:24:01	Team Test Challenge by the Swedish Armed Forces:  [Flash]
+mikko	690117630875799552	2016-01-21T10:23:59	Cyber Challenge by Finnish Military:  [HTML]
+mikko	690115746416967681	2016-01-21T10:16:30	popoutmag Cheers.
+mikko	690111478737821696	2016-01-21T09:59:32	@y8ycgl Well, Google does that.
+mikko	690111088273330177	2016-01-21T09:57:59	DellAnnaLuca Yeah, awful stuff.
+mikko	690111034670063616	2016-01-21T09:57:46	popoutmag Ctrl-F, "mykko"   :(
+mikko	690110457248661505	2016-01-21T09:55:29	kevinvdveer Nope.
+mikko	686369507321839616	2016-01-11T02:10:17	SUCH PLATFORM 
+mikko	689883437134712832	2016-01-20T18:53:23	Whole stock market is burning…but Twitter looks fine. TWTR 
+mikko	689839133750075393	2016-01-20T15:57:20	How to pronounce hexadecimal:  sevenbiteyebbity
+mikko	689825575897272320	2016-01-20T15:03:28	Patent to track ad effectiveness by monitoring your heart rate:  Hat tip: DellAnnaLuca
+mikko	689824917177638912	2016-01-20T15:00:51	DellAnnaLuca iamkoby Wow. Nice.
+mikko	689824810793373698	2016-01-20T15:00:25	veeeeep Ok, thanks!
+mikko	689819056128528384	2016-01-20T14:37:33	J3SS3nanes So, this was on iOS 9.0.2 with F-Secure Adblocker installed? Let me Cc: FreedomeVPN.
+mikko	689818582188978176	2016-01-20T14:35:40	popoutmag Thanks! But that's not how you spell my name.
+mikko	689818277418274816	2016-01-20T14:34:28	B4RT0S1K I know, but what do you do.
+mikko	689818141376024577	2016-01-20T14:33:55	Swizkill No sehän on hyvä että Facebook tukee Toria.
+mikko	689817836248760321	2016-01-20T14:32:43	EcoImQuadrat Cheers Anna. It was good to meet you.
+mikko	689817761938305024	2016-01-20T14:32:25	JamesRufer It does get tricky though when you have NAS servers in 1) and you want to access movies stored on NAS from a Playstation in 2).
+mikko	689817610385526784	2016-01-20T14:31:49	JamesRufer  1) Home network for your own computers and tablets 2) IoT network for your own IoT devices 3) Guest network for visitors
+mikko	689817580656300032	2016-01-20T14:31:42	JamesRufer Best practice is 3 separated networks.
+mikko	689806430023630848	2016-01-20T13:47:23	Somewhat confusing C&amp;C hostnames used by the Angler Exploit kit.  omakotirakentamisessa fin 
+mikko	689756745896456192	2016-01-20T10:29:57	In case you haven't seen, fascinating video featuring mikko, the first virus ever and its creators 
+mikko	689521611611971588	2016-01-19T18:55:37	Breakup, as captured by my fitbit. breakup Fitbit 
+mikko	689500183122472960	2016-01-19T17:30:28	The story of my trip to go and find the authors of the first PC virus: 
+mikko	689433046173356032	2016-01-19T13:03:41	1986: The first PC virus, a boot sector virus called Brain, first appeared.
+mikko	689497247604600835	2016-01-19T17:18:48	Fail whale tattoo. What an excellent idea. Cc: twitter 
+mikko	689496325423951872	2016-01-19T17:15:08	Too bad they have to make an emergency landing to the world of Windows XP. 
+mikko	689494749070290944	2016-01-19T17:08:53	ButterflyOfFire I've found sleeping adults too.
+mikko	689494612189143040	2016-01-19T17:08:20	SoCalledJaxon Really? Link?
+mikko	689494282802040833	2016-01-19T17:07:01	anked ...which means drones will themselves have to decide which human to kill and which human to save. Which sounds pretty bad.
+mikko	689494112517521408	2016-01-19T17:06:21	anked Frequency disturbance or malicious takeovers of military drones will inevitable lead to drones which do not need external control.
+mikko	689493809483218944	2016-01-19T17:05:09	anked It's scary, but it's pretty obvious why militaries are interested in it. It's cheaper and safer (for them).
+mikko	689493495938035712	2016-01-19T17:03:54	mathewjschwartz I'll buy a future option on that.
+mikko	689493047491432448	2016-01-19T17:02:07	soaj1664ashar I don't think there's such a video, but take a look at this: 
+mikko	689453678072168448	2016-01-19T14:25:40	I thought fraud like this is the reason companies get insurance.  
+mikko	689344566617616384	2016-01-19T07:12:06	My favourite Things Real People Don't Say About Advertising:  &amp; 
+mikko	689371079215714304	2016-01-19T08:57:27	Today, Brain, the first PC-virus, turns 30. Here's the video mikko made five years ago 
+mikko	689424875996352513	2016-01-19T12:31:13	McAkins Oh nothing.
+mikko	689424412634841088	2016-01-19T12:29:23	saratrula Nope, as far as I know.
+mikko	689424023680212993	2016-01-19T12:27:50	valimu Jep, on.
+mikko	689422435754479616	2016-01-19T12:21:32	MihaelaPana DLDConference Sorry! My talk will not be posted online. All the best.
+mikko	689372258880499712	2016-01-19T09:02:09	Yeah thanks.  
+mikko	689370626822307840	2016-01-19T08:55:39	Public Service Announcement: Twitter is down.
+mikko	689149426221355008	2016-01-18T18:16:41	Reuters video on risks to infrastructure:  Recorded last week at s4x16 in Miami.
+mikko	689148990756106240	2016-01-18T18:14:57	EcoImQuadrat Thanks Anna.
+mikko	689148795792265217	2016-01-18T18:14:11	sophos_news Hey, isn't that one of your Geek Fashion Range t-shirts? Cc: chetwisniewski jameslyne 
+mikko	689091648630992896	2016-01-18T14:27:06	New blog post – Analyzing Tinba: Configuration Data 
+mikko	689113065401495552	2016-01-18T15:52:12	Q: How to abbreviate Industrial Devices and Internet of Things without stealing light from an old IoT joke? Asking for friend. mikko
+mikko	689084425645240320	2016-01-18T13:58:24	The Future of Blockchain Don Tapscott at DLD16 DLDConference 
+mikko	689073029570113536	2016-01-18T13:13:07	It's a real world looper. A grid midi. So, a gridi! Cc: FLStudioMusic DLD16 
+mikko	688974251022495744	2016-01-18T06:40:36	Time to translate the Uninstalling the Ask toolbar guide into Iranian 
+mikko	689062788971524096	2016-01-18T12:32:25	peterjaric I've used that...but I think links like google․com can't be pasted to Chrome any more. They used to resolve fine.
+mikko	689062233838645248	2016-01-18T12:30:13	peterjaric I think  is even worse. At least sci.fi has some sites, like 
+mikko	689061875968045056	2016-01-18T12:28:48	LGudbrandsson Oh, that would be TOTALLY different.
+mikko	689061731075813380	2016-01-18T12:28:13	dotBATman Can't wait.
+mikko	689061657113399296	2016-01-18T12:27:55	WildeW00tz DEYCrypt Maybe.
+mikko	688779083480629248	2016-01-17T17:45:05	Whoa. This is a story about criminal inequality, not about buying a computer. 
+mikko	689035546170097664	2016-01-18T10:44:10	jsprbkkr Nice. Will check.
+mikko	689035434610061316	2016-01-18T10:43:43	herr_lampe Cheers!
+mikko	689035391731634176	2016-01-18T10:43:33	RyanOHoro Useful description.
+mikko	689035331690213376	2016-01-18T10:43:19	WildeW00tz DEYCrypt Yes.
+mikko	689035180959469568	2016-01-18T10:42:43	JMTee Siinä olet oikeassa. Kts. 
+mikko	689008970103570432	2016-01-18T08:58:34	Virtual reality gadget seen at DLD16. VR hangover 
+mikko	688941151152422913	2016-01-18T04:29:04	So, can Iranians now install Java?
+mikko	688929612500455425	2016-01-18T03:43:13	Crypto debate: "All houses should be required to be doused in gasoline but we'll definitely require a warrant to actually set fire to them"
+mikko	688927106399629312	2016-01-18T03:33:16	I’ve never used AOL, but from the descriptions, it sounds just like Facebook. Right?
+mikko	688922984720019460	2016-01-18T03:16:53	markonen Suomalainen postaus ykkösenä Hacker Newsissä. torillatavataan
+mikko	688739942529392640	2016-01-17T15:09:33	Collection of DMCA complaints where the rightsholder wants copyrighted content removed from the localhost.  1շ7·00·1
+mikko	688737638606598145	2016-01-17T15:00:23	MchLrgrSystm See  
+mikko	688735911023087616	2016-01-17T14:53:31	Sarasinha1992 Thank You!
+mikko	688735741325758464	2016-01-17T14:52:51	subvert29 James Earl Jones only got $7000 for playing Vader?
+mikko	688735606906712064	2016-01-17T14:52:19	tomiahonen MartiMasaKoegx Thanks Tomi for the updated mobile marketshare data!  Cc: horsemankukka arthpeeters
+mikko	688703367896502272	2016-01-17T12:44:13	jameslyne clappymonkey wimremes DanRaywood indi303 Indeed, TEDxBrussels is really good. All the talks are in English, too.
+mikko	688701670142930945	2016-01-17T12:37:28	horsemankukka arthpeeters Maybe there is a newer one; paging businessinsider &amp; IDC &amp; StrategyAC
+mikko	688701262456565760	2016-01-17T12:35:51	Kretiini Hirveet säästöt kun pidetään salasanat lyhyenä. Eikä tietnkään häshätä niitä, koska SHA-1:kin on jo heti yli 40 merkkiä.
+mikko	688701072395890689	2016-01-17T12:35:05	Kretiini Hei, tiedätkö yhtään mitä levytila maksaa nykyään?
+mikko	688700653468807168	2016-01-17T12:33:25	subvert29 James started at the Ramsdell Theatre in Manistee, Michigan, 60 years ago. I don't think he's there any more.
+mikko	688700337272795136	2016-01-17T12:32:10	Andreekgt IRC.
+mikko	688700245119754240	2016-01-17T12:31:48	SimonZerafa No, I think it's the other way around: The steep rise of Android is cut down for a little while by a new iPhone release.
+mikko	688700056166334465	2016-01-17T12:31:03	SamuliGloersen Their market share starts to remind me of Microsoft Windows a decade ago.
+mikko	688645764348833792	2016-01-17T08:55:19	Can the Android marketshare keep getting any higher? 
+mikko	688641706384855040	2016-01-17T08:39:11	Espinosa is the guy who joined Apple in 1976, got no company stock in the IPO in 1980, but still works there in 2016. Now working with iOS.
+mikko	688640806157201408	2016-01-17T08:35:37	Chris Espinosa (Apple employee number 8) tweets the story on how he bought the world's first Mac Plus: 
+mikko	688639108437176320	2016-01-17T08:28:52	WirelessServInc Oh boy.
+mikko	688637827366662145	2016-01-17T08:23:46	Jackitsdotcom Oh we don’t?
+mikko	688637698467360768	2016-01-17T08:23:16	rvonpost blazin’
+mikko	688637597258768384	2016-01-17T08:22:52	Andreekgt Telegram seems to be an excellent tool for non-important discussions. So, basically IRC for the 2010s?
+mikko	688582434863079424	2016-01-17T04:43:40	A hardware engineer somewhere was just like "I'll be retired by 2010" 
+mikko	688383936054071298	2016-01-16T15:34:54	Nima Golestaneh is an Iranian hacker who stole millions of software from US company from his laptop in Turkey. 
+mikko	688352230190104576	2016-01-16T13:28:55	LostPass: Pixel-perfect LastPass Phishing 
+mikko	688488679195717632	2016-01-16T22:31:07	Does anyone else see a duck with a cigarette, or is it just me? pareidolia A380 
+mikko	688484247968083968	2016-01-16T22:13:30	
+mikko	688472716060573696	2016-01-16T21:27:41	Kinda tempted to enable sounds for incoming emails. ​ youvegotmail 
+mikko	688472097912389632	2016-01-16T21:25:13	GJaniashvili I use several.
+mikko	688461362729738240	2016-01-16T20:42:34	Trojan7Sec Well, I was.
+mikko	688300409069395968	2016-01-16T10:03:00	Saw these at a parking lot. It's like father and son. 
+mikko	688299174870134784	2016-01-16T09:58:05	inversephase FSecure Thanks. This doesn't seem widespread: it hasn't hit our spam traps as far as I can see, and no google hits. Cheers.
+mikko	688298898826330112	2016-01-16T09:57:00	h_a_l_e_x See   Unfortunately no sound for iOS users.
+mikko	688298770229030912	2016-01-16T09:56:29	Yafsec Wow. Granted that it's easier to do that with 34 responses...
+mikko	687968967311409152	2016-01-15T12:05:58	After getting a foot of snow,  the bike stands in our yard look a bit like the imperial invasion of Hoth 
+mikko	688290784047595520	2016-01-16T09:24:45	This video of  has more than 43,000 views.  
+mikko	688290351019233283	2016-01-16T09:23:02	inversephase FSecure Spam as in email spam? If you have a copy, pastebin it and send me the link. Thx!
+mikko	688290194663936000	2016-01-16T09:22:24	Kekkonenx3 Mutta katso myös 
+mikko	688290097112862722	2016-01-16T09:22:01	Kekkonenx3 Surffatkoon siinä niin voi kysyä jos tulee jotain pelottavaa tai kummaa tai goatse vastaan.
+mikko	688289987289190400	2016-01-16T09:21:35	Kekkonenx3 Tietokoneelle paras parental control on tuoda kersan PC keskelle olohuonetta.
+mikko	688289849778946048	2016-01-16T09:21:02	Kekkonenx3 Tietokoneelle vai kännykälle?
+mikko	688287729231073280	2016-01-16T09:12:37	webtonull A Trojan Unicorn! Very clever. I love it!
+mikko	687983651783610368	2016-01-15T13:04:19	Overnight, we got four more sketches for a Cybercrime Unicorn! Thanks @Khittzen, Hackerstrip, TMrjmki and fok_it! 
+mikko	687982537340227585	2016-01-15T12:59:53	UID_ Yes. I don't think there are offline bitcoin casinos.
+mikko	687982444855865344	2016-01-15T12:59:31	teemu_p_peltola Herra_Tee Nettipalvelu voi yrittää tunnistaa IP-osoitteet, joita VPNnien exit nodet käyttää ja blokata ne. Kissa/hiiri.
+mikko	687982248876978176	2016-01-15T12:58:44	llc1138 Yes.
+mikko	687981971620892672	2016-01-15T12:57:38	PetersonSusanr Nice one!
+mikko	687981904482725888	2016-01-15T12:57:22	RichWalston I don't think I've ever heard of a bluetooth firewall. We rarely see malware or other attacks using bluetooth nowadays.
+mikko	687981299903164416	2016-01-15T12:54:58	@Khittzen Love it! Thanks!
+mikko	687981139022209024	2016-01-15T12:54:20	fok_it ilkka Wow! Kiitos! Hieno!
+mikko	687741737205403648	2016-01-14T21:03:02	As requested: A Cybercrime Unicorn! Drawn by 0xabad1dea. Very nice! 
+mikko	687741306165182464	2016-01-14T21:01:19	0xabad1dea Yes, I owe you. Beautiful. Thank you!
+mikko	687737459657043968	2016-01-14T20:46:02	securityaffairs Thanks. HUGS back.
+mikko	687737141284192256	2016-01-14T20:44:46	LewisCowles1 If you want to, you can of course submit it to us as a sample. See 
+mikko	687734985156079617	2016-01-14T20:36:12	0xabad1dea Hi! You came to mind... 
+mikko	687732779715526656	2016-01-14T20:27:26	securityaffairs 
+mikko	687732218970681346	2016-01-14T20:25:13	securityaffairs Yes, that's me.
+mikko	687732043925598213	2016-01-14T20:24:31	LewisCowles1 No idea. Click on it and let's find out.
+mikko	687731970160353280	2016-01-14T20:24:13	Mercifull FSecure Don't tell me that the binary wasn't even signed. Or that the download was over http.
+mikko	687731803399057408	2016-01-14T20:23:34	UID_ At least one group was using Bitcoin casinos to launder their money.
+mikko	687731655453310976	2016-01-14T20:22:58	pjcoyle Yes.
+mikko	687731619952766976	2016-01-14T20:22:50	pjcoyle Yes.
+mikko	687731588604555264	2016-01-14T20:22:42	ExtremeStorms Hopefully there will be a storm in New Orleans at the time.
+mikko	687731508036157440	2016-01-14T20:22:23	ExtremeStorms I'll buy you a beer if you do.
+mikko	687731453275336704	2016-01-14T20:22:10	Anyone here who can draw? We'd need a sketch of a cybercrime unicorn.  
+mikko	687685336357564417	2016-01-14T17:18:55	I believe in cybercrime unicorns   thanks to mikko + ProfWoodward 🌈💖💖🦄
+mikko	687635945642967040	2016-01-14T14:02:39	Add undocumented "UseRoaming no" to ssh_config or use "-oUseRoaming=no" to prevent upcoming openssh client bug CVE-2016-0777. More later.
+mikko	687646044436336642	2016-01-14T14:42:47	WeldPond Indeed! And Nico will be there too!
+mikko	687645911556571136	2016-01-14T14:42:15	Tom Sure.
+mikko	687625860778713088	2016-01-14T13:22:35	I'll be speaking at CollisionHQ in New Orleans in April. 
+mikko	687616130605776897	2016-01-14T12:43:55	I don't particularily like software patents, but we have plenty. We're even selling some patents we don't need. See 
+mikko	687572254348165120	2016-01-14T09:49:34	Forecast for today: rainy and windy. tor 
+mikko	687516722455252992	2016-01-14T06:08:54	No really, internet connected cameras in kids rooms are an awesome idea... 
+mikko	687337533013884928	2016-01-13T18:16:52	Remember to write down the password n3Y9kA6otYZu8 when configuring the modems for your PLCs.  
+mikko	687307472273473536	2016-01-13T16:17:25	thegrugq Also see 
+mikko	687307361447362560	2016-01-13T16:16:59	hubert3 jjoerlemans See 
+mikko	687307165091012609	2016-01-13T16:16:12	thegrugq Here’s one of their addresses:  Over 5200 BTCs went through that.
+mikko	687305468042084352	2016-01-13T16:09:27	koppelman No no, HenkkaHypponen is actually my father. As far as you know.
+mikko	687295264441303040	2016-01-13T15:28:55	Forbes writes about Henkka Hypponen's (HenkkaHypponen) new book, which is about fear. 
+mikko	687289279823745024	2016-01-13T15:05:08	Blockchain traffic shows that some cybercrime gangs have made hundreds of millions of dollars. Do we already have Cybercrime Unicorns?
+mikko	687275881371451392	2016-01-13T14:11:53	Red and green earths S4x16 
+mikko	687287124903636992	2016-01-13T14:56:34	matthew_d_green daveaitel Also, never trust a guy with a ponytail.
+mikko	687276438446321664	2016-01-13T14:14:06	S4x16 Mikko Hypponen Keynote: "War has been a driver of technology and technology has been a driver of war" mikko
+mikko	687279526758461440	2016-01-13T14:26:22	.mikko discussing cyber geopolitics, comparing effective nuclear deterrence with lack of such in cyberwar S4x16 
+mikko	687286624346976257	2016-01-13T14:54:35	Laves90 Toivottavasti.
+mikko	687286582433349632	2016-01-13T14:54:25	oscar_dr Yes. No.
+mikko	687286539638865921	2016-01-13T14:54:14	ReverseICS SynAckPwn Thanks. Will save that. 
+mikko	687285866184589312	2016-01-13T14:51:34	undercovercoach Great, now I’m hungry.
+mikko	687285400885276672	2016-01-13T14:49:43	Laves90 “$alasana1”
+mikko	687241799350390784	2016-01-13T11:56:27	Great talk, great delivery. Kudos.  [9'48"]
+mikko	687235604225101825	2016-01-13T11:31:50	TeroLehto I don't know and I'm not going to make guesses on this one.
+mikko	687225438356164608	2016-01-13T10:51:27	Final result. 
+mikko	686617877244436481	2016-01-11T18:37:13	This demonstrates hard work &amp; commitment of Fellows to build a great company! I'm honored to be part of this journey 
+mikko	687222559226515456	2016-01-13T10:40:00	Q: Why would anybody hack my IoT doorbell? A: To get access to your network.   
+mikko	686939214139756544	2016-01-12T15:54:06	How to mail a letter without a stamp: Address the letter to a non-existent address. Then put the real address on the Return Address section.
+mikko	687202758605291520	2016-01-13T09:21:19	602578 kuusisataakaksituhattaviisisataaseitsemänkymmentäkahdeksan
+mikko	687216471013855232	2016-01-13T10:15:49	ESLPixelDust Mailaa avoin hakemus tänne: fsopenpost@f-secure.com.
+mikko	687028332815241216	2016-01-12T21:48:13	LasPent pyrylahti Rakennusvirasto mikkorindell toninummela Jep, valitan. About 50% seuraajistani on jenkeistä.
+mikko	686941661549719552	2016-01-12T16:03:49	if you find a domain with my surname in it, it's probably selling credit cards, drugs or illegal stuff. latest e.g. 
+mikko	687016110005325824	2016-01-12T20:59:39	Exiting US immigration. 🛃
+mikko	686999833639518208	2016-01-12T19:54:58	Entering US immigration. 🛂
+mikko	686929402626727936	2016-01-12T15:15:06	General Hayden at S4x16: "We're going to be remembered for the internet, like Romans are for the roads" He's right. 
+mikko	671584687660380160	2015-12-01T07:00:41	In this amazing mini-documentary about tracking, mikko puts into words why we do what we do. 

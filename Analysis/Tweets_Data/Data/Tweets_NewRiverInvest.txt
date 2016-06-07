@@ -1,0 +1,60 @@
+NewRiverInvest	724103081164574721	2016-04-24T05:10:02	Initial jobless claims as % of NFP is ~0.18% (wkly). JOLTS Layoffs ~1.19%. The probability of being laid-off in America has never been lower
+NewRiverInvest	719753621697482752	2016-04-12T05:06:50	VIX futures sellers: they're back! 
+NewRiverInvest	710182797881683968	2016-03-16T19:15:48	CPI-adjusted retail sales.... no decline in final demand visible 
+NewRiverInvest	709975333286617088	2016-03-16T05:31:24	SDART shelf consolidated default rate  (annualized) and severity rate (1-recovery). 
+NewRiverInvest	709964728823652352	2016-03-16T04:49:16	SDART (nonprime auto) securitizations performing better than year ago, bad vintages were late 2013 to mid-late 2014 
+NewRiverInvest	705143912629817345	2016-03-02T21:33:04	However, if you compare periods by matching weekdays instead of calendar days, you can clearly see that Feb trailed for most of the month
+NewRiverInvest	705143662598946816	2016-03-02T21:32:04	The Feb YoY comparison benefitted from both extra day (leap year) and from that day falling on Monday, where flows tend to cluster
+NewRiverInvest	705141979827441664	2016-03-02T21:25:23	Despite strong monthly YoY comparison, adjusting for calendar shows Feb tax-withholding receipts declined YoY 
+NewRiverInvest	704866685988130817	2016-03-02T03:11:28	Public Construction Put in Place by type: Highway to Inflation  FiscalImpulse: Gooooing Up. 
+NewRiverInvest	703216204333199360	2016-02-26T13:53:02	On 2016-01-20 the 20d SMA of the NYSE Advance - Decline index was -630, the lowest level since -637 on 2008-10-24 
+NewRiverInvest	702968965383852032	2016-02-25T21:30:36	After a slow start, individual tax refunds pick-up, delivering a much needed positive fiscal impulse to households. 
+NewRiverInvest	702968277744513024	2016-02-25T21:27:52	After very weak readings during  CES sample period, withholding receipts return to postive, but still low, growth. 
+NewRiverInvest	702567309492121600	2016-02-24T18:54:34	Since 1/01/2014 Investors have poured in $9.58 billion into crude-oil linked ETNs, of which $5.34B has been lost 
+NewRiverInvest	698258933434048513	2016-02-12T21:34:37	Small caps have now erased all additional total return vs large caps since August 2003 
+NewRiverInvest	697878639224815616	2016-02-11T20:23:28	Current HY drawdown for an index of B-rated bonds is rivaling 2002's decline. 
+NewRiverInvest	697612148621471744	2016-02-11T02:44:31	Expected returns for selected High Yield indices produced with 2 different models. 
+NewRiverInvest	696343939641573378	2016-02-07T14:45:07	The US labor force and employment levels by age &amp; educational attainment. Labor force getting older &amp; more educated 
+NewRiverInvest	696340181935218689	2016-02-07T14:30:11	US Unemployment rates, percentile ranking of UERs, and YoY change in UERs by age and educational attainment. 
+NewRiverInvest	696336395409821696	2016-02-07T14:15:08	With &gt;50% of Russell 1,000 having reported, we have a pretty good look at the earnings season. Half good, half bad. 
+NewRiverInvest	696332862925074432	2016-02-07T14:01:06	Revenue growth by sector. Energy is likely responsible for most of the decline in Utilities and Industrials, too. 
+NewRiverInvest	695766904837791744	2016-02-06T00:32:11	For added context here is a long termvie of the spread between our estimated fair-value and the MMA benchmark 
+NewRiverInvest	695766530320019456	2016-02-06T00:30:42	the MMA AAA 10y tax-exempt bond bench mark looks expensive to our models on an absolute and relative basis 
+NewRiverInvest	695315612197789697	2016-02-04T18:38:54	ICI flows ex-domestic equity were negative into the middle of january but actually turned up sharply last 2 weeks 
+NewRiverInvest	695311906307833856	2016-02-04T18:24:11	Equity fund flows are usually structurally negative because the corporate sector typically repurchases more dollars of shares than it sells
+NewRiverInvest	695311501498777601	2016-02-04T18:22:34	A view of ICI fund flows, which cover 95% of ETFs, mutual funds, CEFs and UITs. Negative equity flows are normal. 
+NewRiverInvest	694593949969752064	2016-02-02T18:51:17	January withholding. 
+NewRiverInvest	694581781282983936	2016-02-02T18:02:56	Weakest part of this earnings season is revenues. Ests have been cleared, but cyclical declines have been outsized. 
+NewRiverInvest	693233737249615872	2016-01-30T00:46:17	A City of Two Tails 
+NewRiverInvest	692960228980162560	2016-01-29T06:39:27	Rusell 1,000 revenues by sector for the 273 companies that already reported for this period. Consumers are spending 
+NewRiverInvest	691730158428925953	2016-01-25T21:11:36	Large capitalization stocks have massively outperformed small capitalization stocks since june (total return) 
+NewRiverInvest	691637451442380800	2016-01-25T15:03:13	Snapshot into this earnings season so far 
+NewRiverInvest	689913378676994048	2016-01-20T20:52:22	Monthly ICI fund flows up to period ending January 13. ETF sample indicates more outflows since then. 
+NewRiverInvest	689912821866373120	2016-01-20T20:50:09	Total ICI fund flows negative for a 7th consecutive month, longer than the 6 consecutive outflow months from July 2008 to Dec 2009
+NewRiverInvest	689908559107108864	2016-01-20T20:33:13	YTD ETF create/redeem flows:  FI IG: +7.2B FI HY: -2.2B Equity: -21.2B  Total: -14.3B
+NewRiverInvest	689584973431500800	2016-01-19T23:07:24	From the $62 trillion peak during the week of 6/14/2015 through 1/15/2015, global market cap (in USD) has declined $12.75 trillion or 20%.
+NewRiverInvest	687427052660768769	2016-01-14T00:12:35	US ETF Universe (AUM-weighted) YTD: Fund Flows: -$13.17B Total Return: -5.75% Flows as % of AUM: -0.82%
+NewRiverInvest	687387015055151104	2016-01-13T21:33:30	Median Russell 1000 stock -23.3%  off the hights -8.55% YTD. About 35% of the index making new 52w lows 
+NewRiverInvest	687347503960739840	2016-01-13T18:56:29	Fund flows for week ending 1/6  Domestic Equity -3.6B World Equity +1.53B Hybrid +67mm Taxable Bonds -1.32B Muni bonds +$1.38B  Total -4.84B
+NewRiverInvest	687276703480025090	2016-01-13T14:15:09	Combined ICI fund flows (incl. MF, ETF, CEF) for December 2015 were the most negative we've seen since Nov 2008 
+NewRiverInvest	686652556496404480	2016-01-11T20:55:01	How does the current environment affect earnings of mortgage REITs? A simple proxy of the strategy illustrated 
+NewRiverInvest	686410059119628288	2016-01-11T04:51:25	Updates to our two HY models. Models still show CCC as unattractive and BB as best results across many scenarios 
+NewRiverInvest	686050702024507394	2016-01-10T05:03:28	Profit repatriation and the bond market -- thoughts on how repatriation would affect capital markets.  
+NewRiverInvest	685604419975557120	2016-01-08T23:30:06	Corrected: SA / NSA Income &amp; Employment Taxes Withheld 
+NewRiverInvest	685590984567042049	2016-01-08T22:36:43	The 1st week of 2016 included some very large losses  Worst/best YTD % changes and YTD contributions to Russell1000 
+NewRiverInvest	685570583019442178	2016-01-08T21:15:38	Those 3 groups account for about 12% of labor force participants. Two of the three groups are shrinking in size 
+NewRiverInvest	685569141395165185	2016-01-08T21:09:55	Of 27 subseries broken out by age &amp; educationl attainment, only 3 are experiencing above median unemployment rates 
+NewRiverInvest	685212239503077376	2016-01-07T21:31:43	Rusell 1,000 Internals 
+NewRiverInvest	685118160974958592	2016-01-07T15:17:53	Red is latest reading. No sign of relative or absolute value for the BM curve 
+NewRiverInvest	685094822303014912	2016-01-07T13:45:08	Munis look unattractive in both an absolute and relative (vs MBS or IG corp) basis according to our models 
+NewRiverInvest	684924747713359872	2016-01-07T02:29:19	Snapshot of Russell 1000 internals as-of 1/6 close. 
+NewRiverInvest	675507661626970113	2015-12-12T02:49:11	AAA tax exempt bonds marked at yields ~14bp below both our absolute- and relative-value models' "fair value". 
+NewRiverInvest	674940675771662336	2015-12-10T13:16:11	Hooper_Quant kev, why you up gyrodooler hours in the west coast if you don't gotta?
+NewRiverInvest	674681994169548800	2015-12-09T20:08:17	Conclusion: It's momentary and mostly fiscal. Demand growth should rebound in a couple of months. ACA open enrollment could also be a factor
+NewRiverInvest	674681588760731648	2015-12-09T20:06:40	Likewise, the effective payroll withholding rate has been rising, limiting take-home income growth. 
+NewRiverInvest	674680901708595200	2015-12-09T20:03:56	However, tax payments and lower refunds leading to a negative fiscal impulse, momentarily pressuring demand 
+NewRiverInvest	674679812129181697	2015-12-09T19:59:36	Likewise, UER is declining and measures of labor income remain on growing trends. More income to more households 
+NewRiverInvest	674679349757480960	2015-12-09T19:57:46	Consumer retrenchment &amp; lack of final demand are not likely not accurate due to rising revolving balances 
+NewRiverInvest	674678566949285889	2015-12-09T19:54:39	Final demand growth (ex-gasoline) has increased less than income recently, which suggests declining household MPC 
+NewRiverInvest	674678148756193282	2015-12-09T19:53:00	Speculation that a lack of acceleration in growth in final sales is indicative of an overall consumer downturn is likely innacurate
+NewRiverInvest	674307675585286148	2015-12-08T19:20:52	Declining amplitude of credit cycle (pictured) also coincided with expansion of corporate profit margins. 

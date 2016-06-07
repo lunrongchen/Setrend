@@ -1,0 +1,780 @@
+biz_reporter	726145047792513024	2016-04-29T20:24:05	Invesco Trust will reimburse some ERISA investors  DCplans
+biz_reporter	726130702069039108	2016-04-29T19:27:04	Colorado Fire &amp; Police could commit up to $250 million more to illiquid alternatives  pensions
+biz_reporter	726125812513017856	2016-04-29T19:07:39	BlackRock quant exec taking job with CPPIB  pensions
+biz_reporter	726072824192864256	2016-04-29T15:37:05	Kentucky governor signs bill funneling an additional $1.28 billion into pension funds  pensions
+biz_reporter	726049921065840640	2016-04-29T14:06:05	DC specialist leaving Willis Towers Watson to start own firm  DCplans
+biz_reporter	725785171631308800	2016-04-28T20:34:04	CEOs at 2 Iceland pension funds resign after being named in Panama Papers  pensions
+biz_reporter	725780907412492289	2016-04-28T20:17:07	Kroger participants sue Central States to get separate plan  pensions
+biz_reporter	725776270676516864	2016-04-28T19:58:41	Chicago Metropolitan Water fund narrows search for emerging core bond manager  pensions
+biz_reporter	725771841453756416	2016-04-28T19:41:05	UPS faces up to $3.8 billion charge if Central States benefit reductions approved  pensions
+biz_reporter	725767553155362816	2016-04-28T19:24:03	Northern Trust universe up 0.7% in quarter; all plan types negative for the year  pensions
+biz_reporter	725764553800212480	2016-04-28T19:12:08	Northern Trust universe up 0.7% in quarter; all plan types negative for the year  Endowments
+biz_reporter	725749445799759872	2016-04-28T18:12:06	CEOs at 2 Iceland pension fund resign after being named in Panama Papers  pensions
+biz_reporter	725740375717998592	2016-04-28T17:36:03	Denmark's ATP gains 0.4% in quarter; assets fall 1.9% for 12-month period  pensions
+biz_reporter	725739874725203968	2016-04-28T17:34:04	Norway's sovereign wealth fund returns -0.6% in quarter; government makes first withdrawal  SWF
+biz_reporter	725690215877074946	2016-04-28T14:16:44	U.S. corporate defined benefit plans continue to allocate a small percentage to private equity  pensions
+biz_reporter	725539303397314560	2016-04-28T04:17:04	Canadian investors plan to increase infrastructure investments, cut active equities  pensions
+biz_reporter	725537663202119680	2016-04-28T04:10:33	Canadian investors plan to increase infrastructure investments, cut active equities  Endowments
+biz_reporter	725446322468212737	2016-04-27T22:07:36	IBM chief investment officer to retire  DCplans
+biz_reporter	725446321088303104	2016-04-27T22:07:35	IBM chief investment officer to retire  pensions
+biz_reporter	725419137808240640	2016-04-27T20:19:34	AllianceBernstein hires managing director of custom defined contribution solutions  DCplans
+biz_reporter	725419136394764289	2016-04-27T20:19:34	N.Y. State Common looking to fill fixed income, real assets, risk officer positions  pensions
+biz_reporter	725413470485635073	2016-04-27T19:57:03	Michigan State University scouting for a director of investments  Endowments
+biz_reporter	725410464096608256	2016-04-27T19:45:06	Kodak reaches settlement on stock-drop case  DCplans
+biz_reporter	725361375824891904	2016-04-27T16:30:03	New Orleans City Employees names finalists in opportunistic hedge fund search  HedgeFunds
+biz_reporter	725330066087903232	2016-04-27T14:25:38	Hedge funds are falling in love with merger arb  HedgeFunds
+biz_reporter	725325899042676736	2016-04-27T14:09:04	PBGC offers sponsors a break on penalties  pensions
+biz_reporter	725051961033297920	2016-04-26T20:00:32	Spokane Employees doing asset allocation study  pensions
+biz_reporter	725038270778728448	2016-04-26T19:06:08	Alaska Retirement escalates private equity pacing as part of new long-term target  pensions
+biz_reporter	725024670987079680	2016-04-26T18:12:06	U.S. corporate defined benefit plans' expected rate of return continues to decline  pensions
+biz_reporter	725017369714659328	2016-04-26T17:43:05	Temasek revamps leadership ranks amid volatile markets  SWF
+biz_reporter	725010829444157440	2016-04-26T17:17:06	New York State Nurses plan promotes director of research to CIO  pensions
+biz_reporter	724996501139681280	2016-04-26T16:20:10	TIAA Global Asset Management selects head of DCIO  DCplans
+biz_reporter	724991701165608960	2016-04-26T16:01:05	Imperial County Employees looking for emerging markets equity manager  pensions
+biz_reporter	724729478350393344	2016-04-25T22:39:07	eVestment: Hedge fund net outflows in first quarter slow to nearly half the previous quarter  HedgeFunds
+biz_reporter	724685303529660416	2016-04-25T19:43:35	Aurora Investment Management to close, return client money  HedgeFunds
+biz_reporter	724682177712005120	2016-04-25T19:31:09	U.K.'s Pensions Regulator considering anti-avoidance powers regarding BHS pension funds  pensions
+biz_reporter	724637744098463744	2016-04-25T16:34:35	Canadian multiemployer CAAT pension fund returns 8.1% in 2015  pensions
+biz_reporter	724603400915025921	2016-04-25T14:18:07	Norway boosts withdrawals from sovereign wealth fund  SWF
+biz_reporter	723632232833802242	2016-04-22T21:59:03	Ann Arbor Employees' Retirement System drops Vontobel  pensions
+biz_reporter	723614107664928768	2016-04-22T20:47:02	CalPERS CEO at U.N. calls for climate disclosures, risk management  pensions
+biz_reporter	723605062711267328	2016-04-22T20:11:05	Kentucky Retirement Systems board ignores governor's order to remove chairman  pensions
+biz_reporter	723582908175282176	2016-04-22T18:43:03	Quebec's Caisse commits C$3 billion to build light-rail system  pensions
+biz_reporter	723546059184578560	2016-04-22T16:16:38	Australia's Future Fund reports 0.9% first-quarter drop to A$117.4 billion  SWF
+biz_reporter	723250915386396673	2016-04-21T20:43:50	How concerned are you about the U.S., global economies? 
+biz_reporter	723246510574428161	2016-04-21T20:26:20	Nuveen's Bob Doll is bullish on the economy 
+biz_reporter	723246081178365952	2016-04-21T20:24:37	Would you trust an investment strategy that involved mining social media? 
+biz_reporter	723245519389102080	2016-04-21T20:22:23	Congress looks to block DOL fiduciary rule with rarely successful Congressional Review Act 
+biz_reporter	723196875843596288	2016-04-21T17:09:06	Johnson &amp; Johnson names CIO  pensions
+biz_reporter	723170958144495616	2016-04-21T15:26:06	Samsung Asset Management, Capital Group launch target-date funds in Korea  DCplans
+biz_reporter	722884310395564034	2016-04-20T20:27:04	Court rules in favor of DOL on charges that City National Bank breached fiduciary duties  DCplans
+biz_reporter	722882447336050689	2016-04-20T20:19:40	HFR: Hedge funds see largest net outflows in first quarter since 2009  HedgeFunds
+biz_reporter	722880286808080385	2016-04-20T20:11:05	GSAM: Insurers’ optimism rising on investment opportunities, not on returns 
+biz_reporter	722879693372809217	2016-04-20T20:08:44	IMF pension exec to become CIO of Cornell's endowment 
+biz_reporter	722878023985340416	2016-04-20T20:02:05	Citadel adds new equity hedge fund strategy to be led by ex-Diamondback founder  HedgeFunds
+biz_reporter	722871094789574656	2016-04-20T19:34:33	Russell combines institutional and intermediary DC teams in revamp  DCplans
+biz_reporter	722870726701621248	2016-04-20T19:33:06	Unions recommend Costco contract that will expand pension plan participation  pensions
+biz_reporter	722854508884135938	2016-04-20T18:28:39	Cornell taps director of IMF's investment office as new CIO  Endowments
+biz_reporter	722847696860491776	2016-04-20T18:01:35	Philadelphia Board of Pensions CIO to resign  pensions
+biz_reporter	722829965012520960	2016-04-20T16:51:07	Michigan State University doubles allocation to hedge fund-of-funds manager  HedgeFunds
+biz_reporter	722827937553068033	2016-04-20T16:43:04	Michigan State University doubles allocation to hedge fund-of-funds manager  Endowments
+biz_reporter	722810717385064449	2016-04-20T15:34:38	Cornell taps director of IMF's investment office as new CIO  Endowments
+biz_reporter	722806794746073088	2016-04-20T15:19:03	GPIF launches manager registration system; first call to non-Japanese stock managers  pensions
+biz_reporter	722522797352755200	2016-04-19T20:30:33	Preqin: Sovereign wealth fund assets up 3.2% in year; oil-dependent funds drop  SWF
+biz_reporter	722516646607257600	2016-04-19T20:06:06	FSOC to scrutinize leverage in hedge funds  HedgeFunds
+biz_reporter	722502039415033856	2016-04-19T19:08:04	Multiemployer pension funding ratios fall 4 percentage points in last 6 months of 2015  pensions
+biz_reporter	722497517691142145	2016-04-19T18:50:06	Caisse reorganizes infrastructure, private equity units under new leaders  pensions
+biz_reporter	722493241333919744	2016-04-19T18:33:06	Caisse reorganizes private equity, infrastructure units under new leaders  pensions
+biz_reporter	722474736807059456	2016-04-19T17:19:34	POLL: How important are fees when considering an investment strategy?  pensions
+biz_reporter	722452464327241729	2016-04-19T15:51:04	CalPERS to review divestment program; sets parameters for real assets portfolio  pensions
+biz_reporter	722428967467155459	2016-04-19T14:17:42	Of the $481 billion MLP market, institutional investors own 44%, according to Capital Innovations 
+biz_reporter	722275923442081792	2016-04-19T04:09:34	AQR names co-head of U.S. portfolio solutions group  HedgeFunds
+biz_reporter	722189358837538818	2016-04-18T22:25:35	50 South Capital, Natixis terminate Aurora deal  HedgeFunds
+biz_reporter	722181682749513728	2016-04-18T21:55:05	CalPERS sets parameters for real assets portfolio  pensions
+biz_reporter	722159543514365952	2016-04-18T20:27:06	Central States Teamsters pension fund returns -0.81% in 2015  pensions
+biz_reporter	722148291853430784	2016-04-18T19:42:24	Subpar returns, little growth result in pay cuts for money manager CEOs 
+biz_reporter	722146698785521665	2016-04-18T19:36:04	Kentucky General Assembly passes budget to ratchet up pension fund contributions  pensions
+biz_reporter	722141923046129665	2016-04-18T19:17:05	CIEBA executive director resigning  pensions
+biz_reporter	722137387157954560	2016-04-18T18:59:04	Corporate pension plan funded status 2016  pensions
+biz_reporter	722066164386439170	2016-04-18T14:16:03	Mutual funds continue to dominate the 401(k) landscape  DCplans
+biz_reporter	721914611331571712	2016-04-18T04:13:50	On the spot: Experts react to fiduciary standard  DCplans
+biz_reporter	721914609511243776	2016-04-18T04:13:50	DC industry generally gives fiduciary rule a thumbs-up  DCplans
+biz_reporter	721914607850270720	2016-04-18T04:13:49	CalSTRS preps risk-mitigation portfolio  pensions
+biz_reporter	721913429414453249	2016-04-18T04:09:08	NYCERS pulls the plug on hedge funds  HedgeFunds
+biz_reporter	721888500887326720	2016-04-18T02:30:05	Charting corporate funding status through the years  pensions
+biz_reporter	721072617331908608	2016-04-15T20:28:03	Wisconsin Investment Board pays out $11.1 million in staff incentives  pensions
+biz_reporter	721068344124682240	2016-04-15T20:11:04	Caisse's private equity, infrastructure head to leave  pensions
+biz_reporter	721050224634888192	2016-04-15T18:59:04	National Railroad Retirement trust appoints new CEO, CIO  pensions
+biz_reporter	721010169115648000	2016-04-15T16:19:54	Seattle City Employees axes BlackRock hedge fund-of-funds strategy  pensions
+biz_reporter	721010166603251712	2016-04-15T16:19:54	Seattle City Employees axes BlackRock hedge fund-of-funds strategy  HedgeFunds
+biz_reporter	720832287558934529	2016-04-15T04:33:04	New Great-West unit names president  pensions
+biz_reporter	720709980811231232	2016-04-14T20:27:04	Appeals court dismisses Tibble vs. Edison lawsuit despite Supreme Court ruling  DCplans
+biz_reporter	720706335734534145	2016-04-14T20:12:35	BP sued over alleged misleading statements on changes to retirement plan  pensions
+biz_reporter	720697906114617344	2016-04-14T19:39:05	New York City Employees to liquidate hedge fund portfolio  HedgeFunds
+biz_reporter	720697656914219010	2016-04-14T19:38:05	New York City Employees to liquidate hedge fund portfolio  pensions
+biz_reporter	720669587029696512	2016-04-14T17:46:33	EIOPA recommends common risk assessment across all EU pension funds  pensions
+biz_reporter	720668225206288384	2016-04-14T17:41:08	Ontario introduces legislation to implement supplemental provincial pension fund  DCplans
+biz_reporter	720665059932831744	2016-04-14T17:28:34	North Port Police Officers' Pension Fund terminates WHV investment  pensions
+biz_reporter	720657395735629825	2016-04-14T16:58:06	Norway's Government Pension Fund Global excludes 52 coal companies  SWF
+biz_reporter	720647182035001345	2016-04-14T16:17:31	Do you expect more defaults in the next year? 
+biz_reporter	720645939833143296	2016-04-14T16:12:35	Ontario Public Service Pension Plan returns 6.14% in 2015  pensions
+biz_reporter	720641654672064516	2016-04-14T15:55:34	New York City Employees axes $1.5 billion hedge fund program  pensions
+biz_reporter	720639767285633025	2016-04-14T15:48:04	New York City Employees axes $1.5 billion hedge fund program  HedgeFunds
+biz_reporter	720637593709330433	2016-04-14T15:39:25	BREAKING: New York City Employees axes $1.5 billion hedge fund program  HedgeFunds
+biz_reporter	720610631930535936	2016-04-14T13:52:17	.RasJBaraka Don't ban Uber_NJ from Newark. Uber is safer than taxis and more convenient. BarakaBan
+biz_reporter	720342559835365376	2016-04-13T20:07:04	Verger Capital Management names president  Endowments
+biz_reporter	720342557926903808	2016-04-13T20:07:03	Manchester Employees adds absolute-return bonds, liquid alternatives in new allocation  HedgeFunds
+biz_reporter	720340052656558081	2016-04-13T19:57:06	CalPERS picks 2 finalists in real estate consultant search  pensions
+biz_reporter	720327686837506048	2016-04-13T19:07:58	Check out The Worst Job in America in 2016 on : 
+biz_reporter	720307580816338945	2016-04-13T17:48:04	Dallas Employees puts INTECH on watch  pensions
+biz_reporter	720302815168475136	2016-04-13T17:29:08	Illinois, California pension funds to receive millions from Goldman Sachs settlement  pensions
+biz_reporter	720289210771513344	2016-04-13T16:35:04	Tesco pension fund deficit falls 33% in year  pensions
+biz_reporter	720284424403701760	2016-04-13T16:16:03	Maryland bill for state-run private-sector retirement plan heads to governor  DCplans
+biz_reporter	720270383681671173	2016-04-13T15:20:16	Competition is driving down the fees on target-date funds - Morningstar 
+biz_reporter	719988224970481664	2016-04-12T20:39:04	Wilshire: S&amp;P 500 company pension fund liabilities fall in 2015, but so do funding levels  pensions
+biz_reporter	719982245939773440	2016-04-12T20:15:18	BofA survey of money managers reveals fear of quantitive failure, no more than 2 rate hikes 
+biz_reporter	719979086261592064	2016-04-12T20:02:45	Portfolio Advisors closes latest private equity fund of funds at $1.22 billion  pensions
+biz_reporter	719970364848078848	2016-04-12T19:28:06	Target-date fund fees continue to fall as inflows rise — Morningstar  DCplans
+biz_reporter	719970358921547776	2016-04-12T19:28:04	U.K. pension funding deficit falls 6.4% in March  pensions
+biz_reporter	719965834584522752	2016-04-12T19:10:05	POLL: With the DOL's new fiduciary rule complete, what will be the outcome for DC plans?  DCplans
+biz_reporter	719951487376314368	2016-04-12T18:13:05	Lehigh University appoints CIO  Endowments
+biz_reporter	719938392834727938	2016-04-12T17:21:03	Burlington Employees narrows search for first real estate manager  pensions
+biz_reporter	719611112308604928	2016-04-11T19:40:33	Dallas Police &amp; Fire expands NEPC's consulting duties  pensions
+biz_reporter	719606712160772096	2016-04-11T19:23:04	Dallas Police &amp; Fire expands NEPC's consulting duties  pensions
+biz_reporter	719599671790821376	2016-04-11T18:55:05	Empower appoints leader of record keeping, plan administration operations  DCplans
+biz_reporter	719584942682804224	2016-04-11T17:56:34	Kansas to delay state pension fund contribution  pensions
+biz_reporter	719567205407391744	2016-04-11T16:46:05	Austin City Employees chooses new CIO  pensions
+biz_reporter	719530997541249025	2016-04-11T14:22:12	Organizations largely applaud new DOL fiduciary rule  DCplans
+biz_reporter	719530986497650689	2016-04-11T14:22:10	Final fiduciary rule exempts plan sponsor education  DCplans
+biz_reporter	719375692232658944	2016-04-11T04:05:05	Anthem and Chevron suits seen as a worrisome trend  DCplans
+biz_reporter	718526854265614336	2016-04-08T19:52:06	CalPERS backing climate change proxy resolution for mining company  pensions
+biz_reporter	718524832309096448	2016-04-08T19:44:04	Saudi Aramco IPO could raise $106 billion for sovereign wealth fund  SWF
+biz_reporter	718512905486872577	2016-04-08T18:56:40	New York City Retirement Systems hires private equity senior officer  pensions
+biz_reporter	718499672545865728	2016-04-08T18:04:05	Corporate funding ratios climb in March despite drop in discount rate — 2 reports  pensions
+biz_reporter	718477270738841600	2016-04-08T16:35:04	Merced County Employees conducting asset-liability study  pensions
+biz_reporter	718477043579490304	2016-04-08T16:34:10	PIMCO survey shows TDF popular option jumped 40% in past year 
+biz_reporter	718472740567527425	2016-04-08T16:17:04	Oakland Police &amp; Fire terminates Wellington real-return strategy  pensions
+biz_reporter	718449960329416705	2016-04-08T14:46:33	NISA: Funded status volatility drops 40 basis points in March  pensions
+biz_reporter	718437024739405828	2016-04-08T13:55:09	Blackstone to shut mutual fund after Fidelity pulls out  HedgeFunds
+biz_reporter	718436374660009984	2016-04-08T13:52:34	Milwaukee Employes names 4 finalists in emerging markets equities search  pensions
+biz_reporter	718173173506658305	2016-04-07T20:26:42	Illinois SURS drops 2 equity managers to fund hedge fund allocation  pensions
+biz_reporter	718168625702526978	2016-04-07T20:08:37	Illinois SURS drops 2 equity managers to fund hedge fund allocation  HedgeFunds
+biz_reporter	718168358848319489	2016-04-07T20:07:34	Johns Hopkins University CIO to retire June 30  Endowments
+biz_reporter	718122182342103041	2016-04-07T17:04:04	Pension fund CIOs see diminished hope in achieving assumed rate of return  Endowments
+biz_reporter	718119173868560385	2016-04-07T16:52:07	Pension fund CIOs see diminished hope in achieving assumed rate of return  pensions
+biz_reporter	718096770169843712	2016-04-07T15:23:06	Milliman: Largest corporate pension funds see little change in 2015  pensions
+biz_reporter	718053482431922176	2016-04-07T12:31:05	Duke, Pomona endowment gains fall short of funding costs  Endowments
+biz_reporter	717832519702355968	2016-04-06T21:53:04	Schlumberger pay packages approved despite pension fund objections  pensions
+biz_reporter	717818932212539392	2016-04-06T20:59:04	Low-return environment has CIOs thinking differently — Pension Bridge conference  pensions
+biz_reporter	717815664350597120	2016-04-06T20:46:05	Pension execs speak out about Koch Brothers, other conservative groups opposed to pension funds 
+biz_reporter	717814653787570176	2016-04-06T20:42:04	Dallas Police &amp; Fire sues CDK Realty over fiduciary breaches, “reckless” advice  pensions
+biz_reporter	717805599312912384	2016-04-06T20:06:05	Moody's: U.S. pension liabilities moderate in relation to Social Security, Medicare  pensions
+biz_reporter	717801069649104897	2016-04-06T19:48:05	CQS parts ways with 12 traders, managers  HedgeFunds
+biz_reporter	717792005548412928	2016-04-06T19:12:04	CQS said to part with 12 traders, managers  HedgeFunds
+biz_reporter	717787718516748288	2016-04-06T18:55:02	Iowa Public Employees takes Wilshire, Wellington off watch  pensions
+biz_reporter	717765330316107777	2016-04-06T17:26:04	Canada Pension Plan takes 40% stake in Glencore agricultural business  pensions
+biz_reporter	717751609661362176	2016-04-06T16:31:33	AP2 breaks out green bonds into new stand-alone asset class  pensions
+biz_reporter	717728083554357249	2016-04-06T14:58:04	AP Pension signs Babson for high-yield bonds  pensions
+biz_reporter	717656354006020100	2016-04-06T10:13:02	What do you think of the DOL's decision to exempt financial education from the final fiduciary rules? 
+biz_reporter	717462336689156096	2016-04-05T21:22:05	Diocese of Palm Beach enters into pension buyout with Legal &amp; General America  pensions
+biz_reporter	717426215963856898	2016-04-05T18:58:33	Florida SBA puts Sprucegrove on watch for performance  pensions
+biz_reporter	717421790943797248	2016-04-05T18:40:58	Learn how institutional investors are incorporating ESG factors into their portfolios 
+biz_reporter	717402711902199808	2016-04-05T17:25:09	Chevron taps new treasurer  pensions
+biz_reporter	717395748204097537	2016-04-05T16:57:29	Execs say once-reviled investments, RMBS, aren't the same as earlier incarnation 
+biz_reporter	717395666553544706	2016-04-05T16:57:10	Norway sovereign wealth funds get red light on infrastructure  SWF
+biz_reporter	717362177015873536	2016-04-05T14:44:05	Norway's sovereign wealth fund increases real estate allocation  SWF
+biz_reporter	717336261506117632	2016-04-05T13:01:06	Puerto Rico investors sue to stop payments by development bank  HedgeFunds
+biz_reporter	717116731311804416	2016-04-04T22:28:46	Puerto Rico investors sue to stop payments by development bank  HedgeFunds
+biz_reporter	717116726018580480	2016-04-04T22:28:45	California attorney general sues Morgan Stanley over MBS sold to CalPERS, CalSTRS  pensions
+biz_reporter	717077743872004096	2016-04-04T19:53:51	U.S. corporate pension funding levels plummet in first quarter — 2 reports  pensions
+biz_reporter	717077742454345729	2016-04-04T19:53:51	Solano County 457 plan drops CalPERS option, extends its own 2 record keepers  DCplans
+biz_reporter	717077741036646400	2016-04-04T19:53:50	ValueAct sued by U.S. over Halliburton, Baker Hughes stakes  HedgeFunds
+biz_reporter	717054770234544128	2016-04-04T18:22:34	Sovereign wealth funds to collaborate with Hedge Fund Standards Board  SWF
+biz_reporter	717052638043308032	2016-04-04T18:14:05	Sovereign wealth funds to collaborate with Hedge Fund Standards Board  HedgeFunds
+biz_reporter	717052570963849216	2016-04-04T18:13:49	Although DC record keeper assets were down in 2015, the number of participants were up 
+biz_reporter	717038425669406720	2016-04-04T17:17:37	Sovereign wealth fund to collaborate with Hedge Fund Standards Board  HedgeFunds
+biz_reporter	717037795051593730	2016-04-04T17:15:06	Sovereign wealth fund to collaborate with Hedge Fund Standards Board  SWF
+biz_reporter	717014664333250560	2016-04-04T15:43:12	Legal &amp; General recruits director for pension risk transfer group  pensions
+biz_reporter	717010768093249536	2016-04-04T15:27:43	CalPERS' tobacco restriction said to have cost the pension fund about $3 billion since '01 
+biz_reporter	717009729151578112	2016-04-04T15:23:35	U.K. pension liabilities soar in March — Mercer  pensions
+biz_reporter	716989367265288195	2016-04-04T14:02:40	Market plunges in early 2016 may be a reaction to central bank policies 
+biz_reporter	716840265453932544	2016-04-04T04:10:12	DC record keepers' assets dropped 2.5% to $5.42 trillion  DCplans
+biz_reporter	716840261737775104	2016-04-04T04:10:11	Custom target-date zeal grows for participants  DCplans
+biz_reporter	716840255622492160	2016-04-04T04:10:09	Northern exposure  pensions
+biz_reporter	716840245434519552	2016-04-04T04:10:07	Some features hurt performance estimates  HedgeFunds
+biz_reporter	716838403635937283	2016-04-04T04:02:48	Korean public funds hesitant to outsource investing to SWF  SWF
+biz_reporter	715978932537851906	2016-04-01T19:07:34	DOL slated to release fiduciary rule on April 6  pensions
+biz_reporter	715978929392205825	2016-04-01T19:07:33	DOL slated to release fiduciary rule on April 6  DCplans
+biz_reporter	715955908962947073	2016-04-01T17:36:05	Colorado County shifts to custom target-date funds from risk-based options  DCplans
+biz_reporter	715955906471571456	2016-04-01T17:36:04	International Paper makes lump-sum offer  pensions
+biz_reporter	715955214918885376	2016-04-01T17:33:19	Rocaton sells business intelligence provider to Morningstar 
+biz_reporter	715954610427461633	2016-04-01T17:30:55	Staff departures could hamper PE firm efforts to raise new funds 
+biz_reporter	715942067067756544	2016-04-01T16:41:05	Management of New Brunswick pension plans to move to independent entity  pensions
+biz_reporter	715923692383916033	2016-04-01T15:28:04	U.K. corporate pension funding deficit rises 30% in March  pensions
+biz_reporter	715919285579751424	2016-04-01T15:10:33	Canadian pension fund levels dip in Q1, Mercer finds  pensions
+biz_reporter	715669268759601152	2016-03-31T22:37:04	Census Bureau: Public pension fund assets climb 0.9% in fourth quarter  pensions
+biz_reporter	715638063649587200	2016-03-31T20:33:04	PBGC calls for higher multiemployer premiums  pensions
+biz_reporter	715633531657957376	2016-03-31T20:15:04	4th multiemployer plan applies to reduce benefits  pensions
+biz_reporter	715619817672220672	2016-03-31T19:20:34	Florida State Board lists finalists for corporate governance, proxy-voting services  pensions
+biz_reporter	715603302642155520	2016-03-31T18:14:57	Mark Mobius to hand reins of Templeton Emerging Markets to Steven Dover next month 
+biz_reporter	715558286263627777	2016-03-31T15:16:04	Ontario Teachers remains committed to airports despite Brussels attack  pensions
+biz_reporter	715549737810722817	2016-03-31T14:42:06	Fate of 400,000 Teamster pensions rests in Ken Feinberg's hands  pensions
+biz_reporter	715277439400685568	2016-03-30T20:40:05	Ontario Teachers fund not fazed by Brussels airport bombing  pensions
+biz_reporter	715272065297743872	2016-03-30T20:18:44	MetLife's SIFI designation overturned 
+biz_reporter	715254032156131328	2016-03-30T19:07:04	San Joaquin County drops Kleinwort Benson, Bridgewater strategies  pensions
+biz_reporter	715239940875898881	2016-03-30T18:11:05	Preliminary settlement reached in Dudenhoeffer case  DCplans
+biz_reporter	715233252076683264	2016-03-30T17:44:30	SSgA to add $100 billion in AUM through GE Asset Management buy 
+biz_reporter	715217913477619713	2016-03-30T16:43:33	Hollywood Firefighters narrows search for all-cap growth manager  pensions
+biz_reporter	715199306140024832	2016-03-30T15:29:37	Ontario Teachers chalks up 13% return, 290 basis points above benchmark  pensions
+biz_reporter	715181309816012800	2016-03-30T14:18:06	Caisse adds managing director for Mexico subsidiary  pensions
+biz_reporter	714921343058255872	2016-03-29T21:05:05	Read chosen as CIO for Alaska Permanent Fund  SWF
+biz_reporter	714917310767628288	2016-03-29T20:49:04	Chicago Metropolitan Water fund dumps 1 manager, cuts assets to another  pensions
+biz_reporter	714909128452235264	2016-03-29T20:16:33	Aon Hewitt hires in U.K. for DC investment advisory  DCplans
+biz_reporter	714908630877798400	2016-03-29T20:14:34	Chicago credit rating slammed in wake of pension ruling  pensions
+biz_reporter	714902718020587520	2016-03-29T19:51:04	Cornell University CIO calls it quits  Endowments
+biz_reporter	714839176823197696	2016-03-29T15:38:35	Are asset owners underestimating the volatility of their investments?  pensions
+biz_reporter	714837407133085696	2016-03-29T15:31:33	Are asset owners underestimating the volatility of their investments?  Endowments
+biz_reporter	714827104139894784	2016-03-29T14:50:37	Och-Ziff's stock trading inexpensively driven by big stock drop  HedgeFunds
+biz_reporter	714574562264895492	2016-03-28T22:07:06	Southern Methodist University CIO resigns  Endowments
+biz_reporter	714544602737287168	2016-03-28T20:08:03	California board recommends Secure Choice legislation  DCplans
+biz_reporter	714522929728397312	2016-03-28T18:41:56	Fort Worth Employees adopts theme-based allocation 
+biz_reporter	714509873870872576	2016-03-28T17:50:03	MassPRIM to vote on dropping SouthernSun  pensions
+biz_reporter	714468352060620800	2016-03-28T15:05:03	Louisiana Firefighters cuts manager  pensions
+biz_reporter	714456036292210688	2016-03-28T14:16:07	Hedge fund invasion of U.S. Treasuries puts bond traders at risk  HedgeFunds
+biz_reporter	713385477873664000	2016-03-25T15:22:06	ICI wants California to delay private-sector retirement program  DCplans
+biz_reporter	713383592781488128	2016-03-25T15:14:37	Japanese public funds go heavy on non-domestic securities  pensions
+biz_reporter	713128538451214336	2016-03-24T22:21:07	Chicago Policemen's fund selects new CIO  pensions
+biz_reporter	713098590592184320	2016-03-24T20:22:07	Rockefeller Family Fund to divest from fossil fuels  Endowments
+biz_reporter	713095054940700672	2016-03-24T20:08:04	Tennessee Consolidated raises allocations to 2 managers  pensions
+biz_reporter	713090265884459008	2016-03-24T19:49:02	Pennsylvania budget to be adopted, does not address pension reform  pensions
+biz_reporter	713030759259320322	2016-03-24T15:52:35	The Illinois Supreme Court struck down a 2015 pension reform bill 
+biz_reporter	713011889907695617	2016-03-24T14:37:36	Chicago pension reform ruled unconstitutional  pensions
+biz_reporter	712736942266318848	2016-03-23T20:25:03	Kentucky House passes bill for teachers' fund to receive actuarially required contributions  pensions
+biz_reporter	712731667358572548	2016-03-23T20:04:06	PBGC finalizes annual reporting rules  pensions
+biz_reporter	712727250026635264	2016-03-23T19:46:32	Louisiana Firefighters cuts active global equity manager  pensions
+biz_reporter	712718447956725761	2016-03-23T19:11:34	5 companies to disclose political spending following N.Y. State Common proposals  pensions
+biz_reporter	712700200440102912	2016-03-23T17:59:03	Houston Firefighters extinguishes 3 equity managers  pensions
+biz_reporter	712679664561446912	2016-03-23T16:37:27	Brazil President's troubles have caused valuations to drop where asset managers see investment opportunities 
+biz_reporter	712666734583353346	2016-03-23T15:46:04	Council of Institutional Investors names new officers  pensions
+biz_reporter	712657173705142272	2016-03-23T15:08:05	Alameda County adds infrastructure, natural resources to target asset allocation  pensions
+biz_reporter	712655022853459968	2016-03-23T14:59:32	Do college students deserve a say in university endowment investing? 
+biz_reporter	712638816650067972	2016-03-23T13:55:08	New Jersey's rating outlook revised to negative  pensions
+biz_reporter	712369300959408128	2016-03-22T20:04:11	CII conference: Private equity industry moving toward more fee disclosure  pensions
+biz_reporter	712369295586512896	2016-03-22T20:04:09	DOL, SEC fiduciary rules may diverge, Mary Jo White tells lawmakers  DCplans
+biz_reporter	712369286166159360	2016-03-22T20:04:07	CII conference: Private equity industry moving toward more fee disclosure  DCplans
+biz_reporter	712369043181686784	2016-03-22T20:03:09	CII conference: Private equity industry moving toward more fee disclosure  Endowments
+biz_reporter	712364740249387008	2016-03-22T19:46:03	Investment contact details added for endowments  Endowments
+biz_reporter	712346122497306624	2016-03-22T18:32:05	AIMCo returns 9.1% in 2015, notches record active management outperformance  pensions
+biz_reporter	712340554667823104	2016-03-22T18:09:57	Learn how garden themes, board games urge DC plan participants to get involved in saving 
+biz_reporter	712335996461850625	2016-03-22T17:51:50	With little trading in the credit market, structure 'out of balance' 
+biz_reporter	712307622066585603	2016-03-22T15:59:05	Argon Capital expands with 7 hires  HedgeFunds
+biz_reporter	712302456869261312	2016-03-22T15:38:34	Carnegie Institution for Science brings on first CIO for endowment  Endowments
+biz_reporter	712299561931251712	2016-03-22T15:27:04	Pension funds, proxy-voting firms line up against Schlumberger compensation  pensions
+biz_reporter	712285091360182273	2016-03-22T14:29:34	Japan names former Norinchukin veteran as next GPIF president  pensions
+biz_reporter	712283975771824128	2016-03-22T14:25:08	POLL: Should the investment committee of university endowments include seats for students?  Endowments
+biz_reporter	712270885579677696	2016-03-22T13:33:07	EBRI: 'Clear dichotomy' on retirement readiness for those with, without retirement plans  DCplans
+biz_reporter	712270882412961792	2016-03-22T13:33:06	EBRI: 'Clear dichotomy' on retirement readiness for those with, without retirement plans  pensions
+biz_reporter	712132598454026240	2016-03-22T04:23:36	EBRI: 'Clear dichotomy' on retirement readiness for those with, without retirement plans  pensions
+biz_reporter	712132596742770688	2016-03-22T04:23:36	EBRI: 'Clear dichotomy' on retirement readiness for those with, without retirement plans  DCplans
+biz_reporter	712013682767568896	2016-03-21T20:31:05	U.K. taps new secretary for work and pensions following incumbent's resignation  pensions
+biz_reporter	712013679722496001	2016-03-21T20:31:04	U.K. taps new secretary for work and pensions following incumbent's resignation  DCplans
+biz_reporter	712009150717243392	2016-03-21T20:13:04	Colorado governor signs bill forcing pension fund to divest companies boycotting Israel  pensions
+biz_reporter	712000084670451712	2016-03-21T19:37:03	Advocate Health Care loses church plan appeal  pensions
+biz_reporter	711995063006416896	2016-03-21T19:17:05	Hawaii assigns $1.6 billion total to 4 managers for options-based strategies  pensions
+biz_reporter	711987222786879489	2016-03-21T18:45:56	If you are looking for something to read, check out my old boss' new book about M&amp;A "Bloodsport." Looking forward to…
+biz_reporter	711985986956337152	2016-03-21T18:41:02	Pensions &amp; Investments is looking for the best and brightest defined contribution plan execs 
+biz_reporter	711980594297593857	2016-03-21T18:19:36	U.K. taps new secretary for work and pensions following incumbent's resignation  DCplans
+biz_reporter	711980587381207045	2016-03-21T18:19:34	U.K. taps new secretary for work and pensions following incumbent's resignation  pensions
+biz_reporter	711975933238837248	2016-03-21T18:01:05	Appeals court rejects fiduciary breach claim in Lehman Brothers stock-drop case  DCplans
+biz_reporter	711973111646724097	2016-03-21T17:49:52	DOL, SEC legal filings in closely watched stock-drop case seen adding to fiduciary burden of 401(k) plans 
+biz_reporter	711925467243085824	2016-03-21T14:40:32	Study finds little difference in pension guarantee between PBGC and annuities  pensions
+biz_reporter	711766847389982720	2016-03-21T04:10:15	Innovation not confrontation  pensions
+biz_reporter	711766839022329856	2016-03-21T04:10:13	Detailed list of Eddy Award winners  DCplans
+biz_reporter	711766837046816768	2016-03-21T04:10:12	The best and the brightest being sought by P&amp;I  DCplans
+biz_reporter	711766834421174272	2016-03-21T04:10:11	State-sponsored programs confront challenge of the retirement crisis  DCplans
+biz_reporter	711766831640383489	2016-03-21T04:10:11	Pressures rising for fiduciaries on company stock in 401(k) plans  DCplans
+biz_reporter	711766823990009859	2016-03-21T04:10:09	46 DC plan education programs honored  DCplans
+biz_reporter	711766811516121090	2016-03-21T04:10:06	Japan banks cautiously eye hedge funds  HedgeFunds
+biz_reporter	710929540965470208	2016-03-18T20:43:05	Los Angeles City Employees terminates Franklin Templeton high-yield strategy  pensions
+biz_reporter	710911168810848256	2016-03-18T19:30:05	Alameda County Employees picks new CEO  pensions
+biz_reporter	710888020124131329	2016-03-18T17:58:06	Sears to contribute $318 million to pension fund this year  pensions
+biz_reporter	710855670313037824	2016-03-18T15:49:33	U.K. conference highlights a variety of certainties  pensions
+biz_reporter	710851396606631938	2016-03-18T15:32:34	U.K. conference highlights a variety of certainties  DCplans
+biz_reporter	710837421911347202	2016-03-18T14:37:02	Louisiana School Employees names 3 finalists in emerging markets debt search  pensions
+biz_reporter	710562620512731136	2016-03-17T20:25:05	Greenwich Roundtable: Rising complexity puts onus on investment committee for governance  pensions
+biz_reporter	710543757863624704	2016-03-17T19:10:07	Moody's: Low returns skyrocketing public pension fund liabilities  pensions
+biz_reporter	710543497451810816	2016-03-17T19:09:05	Markets likely to fall short of public pension fund assumed rate of returns - Moody's Investors Service 
+biz_reporter	710530146403373056	2016-03-17T18:16:02	Jacksonville Police and Fire Pension Fund looking for executive director  pensions
+biz_reporter	710525390339448833	2016-03-17T17:57:08	Global asset owner behemoths team up for A$12 billion bid for Asciano  pensions
+biz_reporter	710208546730692608	2016-03-16T20:58:07	Equities continue to suffer from outflows for the 11th quarter 
+biz_reporter	710196079187222528	2016-03-16T20:08:34	OECD countries facing $78 trillion in pension liabilities — Citi report  pensions
+biz_reporter	710191548567199744	2016-03-16T19:50:34	Perez to lawmakers: I'll walk you through changes to DOL fiduciary rule  DCplans
+biz_reporter	710177208870961153	2016-03-16T18:53:35	Putnam Investments names head of DCIO  DCplans
+biz_reporter	710172420351463424	2016-03-16T18:34:34	U.K. chancellor introduces Lifetime ISA initiative to spur retirement savings  DCplans
+biz_reporter	710172417566486528	2016-03-16T18:34:33	U.S. defined benefit assets down 1.84% in 2015 — Fed report  pensions
+biz_reporter	710168020140691457	2016-03-16T18:17:04	U.S. defined benefit assets down 1.84% in 2015 — Fed report  DCplans
+biz_reporter	710163328190971904	2016-03-16T17:58:26	Templeton's Mark Mobius opines on the U.S. election 
+biz_reporter	710131150048534529	2016-03-16T15:50:34	U.S. defined benefit assets down 3.03% in 2015 — Fed report  pensions
+biz_reporter	710131148161044484	2016-03-16T15:50:33	U.S. defined benefit assets down 3.03% in 2015 — Fed report  DCplans
+biz_reporter	710112666199547905	2016-03-16T14:37:07	Canadian pension funds urge Trudeau to think big on infrastructure  pensions
+biz_reporter	710103274871869441	2016-03-16T13:59:48	With the S&amp;P 500 having recovered its early 2016 losses, what are you doing with your domestic equity portfolio? 
+biz_reporter	709831196394426369	2016-03-15T19:58:39	Private equity investors say investments meet or exceed expectations — Preqin 
+biz_reporter	709823789815599104	2016-03-15T19:29:14	Should students have a say in how an endowment is invested? 
+biz_reporter	709822980956823553	2016-03-15T19:26:01	Asset manager outlook grows sunnier in March 
+biz_reporter	709818339925762048	2016-03-15T19:07:34	Volkswagen sued by 278 institutional investors, including CalPERS  pensions
+biz_reporter	709804129032351744	2016-03-15T18:11:06	Louisiana Municipal Employees pondering search for first CIO  pensions
+biz_reporter	709798342931296257	2016-03-15T17:48:07	Pennsylvania State Employees returns 0.4% in 2015  DCplans
+biz_reporter	709794819875348480	2016-03-15T17:34:07	Neuberger Berman Trust Co. appoints CIO  Endowments
+biz_reporter	709747498386984960	2016-03-15T14:26:04	NYU students want a voice in how endowment is invested  Endowments
+biz_reporter	709477840090050560	2016-03-14T20:34:33	Endowments, others form ESG peer-to-peer network  Endowments
+biz_reporter	709473200338436097	2016-03-14T20:16:06	SEC backs DOL in BP stock-drop case  DCplans
+biz_reporter	709473196139880448	2016-03-14T20:16:05	Texas Teachers general infrastructure executive resigns  pensions
+biz_reporter	709463046037438465	2016-03-14T19:35:46	TIAA adds chief income strategist  DCplans
+biz_reporter	709422994162995200	2016-03-14T16:56:36	Ontario Public Service Employees Union plan returns 8% in 2015  pensions
+biz_reporter	709413304276373509	2016-03-14T16:18:06	CalSTRS backs IEX effort to operate as U.S. stock exchange  pensions
+biz_reporter	709390926175539200	2016-03-14T14:49:11	SEC backs DOL in stock-drop case  DCplans
+biz_reporter	708390052531810304	2016-03-11T20:32:04	Miami Beach Employees scouting for active international manager  pensions
+biz_reporter	708310101342363649	2016-03-11T15:14:22	Learn how Texas ERS bundled a portfolio of bonds into an ETF to quickly unload them 
+biz_reporter	708056858313891840	2016-03-10T22:28:04	Allstate CIO to retire at end of March  pensions
+biz_reporter	708043268718665728	2016-03-10T21:34:04	Increased multiemployer contributions not keeping pace with liabilities — report  pensions
+biz_reporter	708041755342405632	2016-03-10T21:28:03	Bridgewater brings on former Apple, HP executive as co-CEO  HedgeFunds
+biz_reporter	708038364771983360	2016-03-10T21:14:35	U.S. defined benefit assets increase 2.8% in 2015 — Fed report  pensions
+biz_reporter	708033580320952320	2016-03-10T20:55:34	U.S. defined benefit assets increase 2.8% in 2015 — Fed report  DCplans
+biz_reporter	708023766790475776	2016-03-10T20:16:35	University of California endowment to terminate worst-performing hedge funds  HedgeFunds
+biz_reporter	708023763946700800	2016-03-10T20:16:34	University of California endowment to terminate worst-performing hedge funds  Endowments
+biz_reporter	708020741556408320	2016-03-10T20:04:33	Small-, medium-sized pension funds need help assessing climate change — conference speakers  pensions
+biz_reporter	708016208247791618	2016-03-10T19:46:33	Climate change, lack of a deferred annuities market top U.K. pension fund executives' concerns  pensions
+biz_reporter	708011684481216512	2016-03-10T19:28:34	JLT adds local U.K. government pension fund manager to consulting stable  pensions
+biz_reporter	708011681868165120	2016-03-10T19:28:33	Climate change, lack of a deferred annuities market top U.K. pension fund executives' concerns  DCplans
+biz_reporter	707997985964097536	2016-03-10T18:34:08	DC participants' growth bets pay off in the short term  DCplans
+biz_reporter	707992444478992384	2016-03-10T18:12:07	Speakers at DC East implore execs to embrace 'active engagement' with participants 
+biz_reporter	707991492564889600	2016-03-10T18:08:20	If LSE Group is sold, cost of trading may go up, number of exchanges likely to stay the same 
+biz_reporter	707989288672038912	2016-03-10T17:59:34	Style and substance key in DC plan communications, conference attendees told  DCplans
+biz_reporter	707857793890390016	2016-03-10T09:17:04	Pensions and Lifetime Savings Association launches task force to look at DB issues  pensions
+biz_reporter	707680634710265856	2016-03-09T21:33:06	Conference speakers discuss need, possible overreach of regulations  pensions
+biz_reporter	707679068569796608	2016-03-09T21:26:52	Target-date funds see healthy gains among the 100 largest 401(k) plans 
+biz_reporter	707675855179284480	2016-03-09T21:14:06	Conference speakers discuss need, possible overreach of regulations  DCplans
+biz_reporter	707671187896139776	2016-03-09T20:55:33	Colorado Senate passes bill requiring retirement system to divest companies boycotting Israel  pensions
+biz_reporter	707666542473773056	2016-03-09T20:37:06	CalPERS settles with Moody's for $130 million  pensions
+biz_reporter	707662018921107457	2016-03-09T20:19:07	General Motors adopts proxy access  pensions
+biz_reporter	707644485832810497	2016-03-09T19:09:27	General Motors, Ford Motor Company expected to make the largest pension fund contributions this year 
+biz_reporter	707639476827230208	2016-03-09T18:49:33	Quebec's Caisse appoints managing director to lead new India office  pensions
+biz_reporter	707639475174682624	2016-03-09T18:49:32	Aspect Capital acquires Auriel Capital Management  HedgeFunds
+biz_reporter	707593425978155008	2016-03-09T15:46:33	U.S. companies set to contribute $15.6 billion to pension funds  pensions
+biz_reporter	707589173444653057	2016-03-09T15:29:39	Endowments, foundations chasing active wave  Endowments
+biz_reporter	707577466827571200	2016-03-09T14:43:08	Norway's Government Pension Fund Global gains 2.7% in 2015  SWF
+biz_reporter	707319148812980224	2016-03-08T21:36:41	U.S. corporate pension funding continues 2016 slide in February — 3 reports  pensions
+biz_reporter	707314467453800448	2016-03-08T21:18:04	Harris Corp. retains Fidelity for merged 401(k) plan following Exelis acquisition  DCplans
+biz_reporter	707305536505536512	2016-03-08T20:42:35	First post-Omnicare Supreme Court decision goes against investors  pensions
+biz_reporter	707287793689452544	2016-03-08T19:32:05	REITs and commodities make up the bulk of real assets investments  DCplans
+biz_reporter	707283258656985088	2016-03-08T19:14:04	U.S. corporate pension funding continues 2016 slide in February — 2 reports  pensions
+biz_reporter	707255093725278209	2016-03-08T17:22:09	U.K. pension funding deficit rises again in February  pensions
+biz_reporter	706946924054585344	2016-03-07T20:57:35	Los Angeles City Employees adopts consistent private equity pacing schedule  pensions
+biz_reporter	706945904637399040	2016-03-07T20:53:32	Visium Asset Management under investigation by SEC, DOJ  HedgeFunds
+biz_reporter	706937239146602496	2016-03-07T20:19:06	Magnetar Capital Partners hires head of quantitative investments  HedgeFunds
+biz_reporter	706914591427547137	2016-03-07T18:49:07	P&amp;I announces 2016 Eddy Award winners  DCplans
+biz_reporter	706708851102502912	2016-03-07T05:11:34	The largest U.S. corporate DC plans  DCplans
+biz_reporter	706708849319804928	2016-03-07T05:11:34	Assets of the P&amp;I DC 100 increase 5.1% to $1.12 trillion  DCplans
+biz_reporter	706707743684440064	2016-03-07T05:07:10	Advantages of pooling funds  pensions
+biz_reporter	705854093894418432	2016-03-04T20:35:04	TVA retirement board approves counterproposal on plan changes  pensions
+biz_reporter	705852449790144512	2016-03-04T20:28:32	Renco Group to take back 2 plans from PBGC; marks second time in agency history 
+biz_reporter	705850447957917696	2016-03-04T20:20:35	TVA retirement board approves counterproposal on plan changes  DCplans
+biz_reporter	705831953451233280	2016-03-04T19:07:06	Gracie Asset Management appoints head of business development  HedgeFunds
+biz_reporter	705826534150373376	2016-03-04T18:45:34	Renco Group to take back 2 plans from PBGC; marks second time in agency history  pensions
+biz_reporter	705803514623070209	2016-03-04T17:14:05	ERISA pre-empts state reporting demands, Supreme Court says  pensions
+biz_reporter	705802756880076800	2016-03-04T17:11:05	UTIMCO increases stakes in private equity funds  Endowments
+biz_reporter	705801735520923648	2016-03-04T17:07:01	ERISA health-care ruling could have implications for retirement plans 
+biz_reporter	705800865672622080	2016-03-04T17:03:34	ERISA pre-empts state reporting demands, Supreme Court says  DCplans
+biz_reporter	705596266340691968	2016-03-04T03:30:33	Georgia Tech Foundation adjusts asset allocation  Endowments
+biz_reporter	705534857493884928	2016-03-03T23:26:32	Caisse picks Air Canada pension official as new executive VP  pensions
+biz_reporter	705498122806390784	2016-03-03T21:00:34	Healthcare of Ontario Pension Plan posts 5.1% return in 2015  pensions
+biz_reporter	705493591213215744	2016-03-03T20:42:34	Indiana bill will require pension fund to divest companies boycotting Israel  pensions
+biz_reporter	705465661347106817	2016-03-03T18:51:35	PepsiCo. to pour $150 million into pension plans this year  pensions
+biz_reporter	705436213725925377	2016-03-03T16:54:34	Man Group hires ex-Millennium trader for new hedge fund unit  HedgeFunds
+biz_reporter	705144835330605056	2016-03-02T21:36:44	Hedge fund launches in 2015 dominated by equity strategies — report  HedgeFunds
+biz_reporter	705139512825917440	2016-03-02T21:15:35	Vermont terminates PIMCO as part of asset allocation changes  pensions
+biz_reporter	705117502049660928	2016-03-02T19:48:07	Natixis Asset Management to sell Aurora Investment Management to Northern Trust unit 
+biz_reporter	705098369538981889	2016-03-02T18:32:06	Houston Municipal Employees terminates Profit Investment Management  pensions
+biz_reporter	705066777647034369	2016-03-02T16:26:33	Northern Trust boutique to acquire Aurora Investment Management  HedgeFunds
+biz_reporter	704785806657921024	2016-03-01T21:50:05	Florida State Board looking to fill 2 senior staff positions  pensions
+biz_reporter	704781278076207104	2016-03-01T21:32:05	New Wisconsin law gives municipal employees more retirement plan options  pensions
+biz_reporter	704772004344262657	2016-03-01T20:55:14	Wilshire: State pension plan funding falls in fiscal 2015  pensions
+biz_reporter	704730687052492801	2016-03-01T18:11:03	Unisys to contribute $139 million to global pension funds this year  pensions
+biz_reporter	704711323330871296	2016-03-01T16:54:07	U.K. corporate pension funding deficit decreases 17% in February  pensions
+biz_reporter	704697222743486464	2016-03-01T15:58:05	Indiana Public Retirement taps Korn/Ferry for CIO search  pensions
+biz_reporter	704687779502927872	2016-03-01T15:20:33	Arizona State Retirement System taps new CIO  pensions
+biz_reporter	704417786966073344	2016-02-29T21:27:42	General Electric to power up $930 million in contributions for affiliate pension funds  pensions
+biz_reporter	704406163287199744	2016-02-29T20:41:31	Buffett responds to shareholder proposal on climate change 
+biz_reporter	704395603824873473	2016-02-29T19:59:33	Merchant Navy Officers to freeze pension fund, move to enhanced DC plan  pensions
+biz_reporter	704378671201583104	2016-02-29T18:52:16	Smaller pension plans are driving the growth of annuitization 
+biz_reporter	704377872824160256	2016-02-29T18:49:06	U.S. pension fund annuity sales rise 54% in 2015 — survey  pensions
+biz_reporter	704373594290147328	2016-02-29T18:32:06	L-3 Communications expects to contribute $100 million to pension fund this year  pensions
+biz_reporter	704353518350544896	2016-02-29T17:12:19	Gov. Christie may have lost in the primaries, but he won his battle over pension contributions 
+biz_reporter	704350441996316672	2016-02-29T17:00:06	U.S. Supreme Court denies review of New Jersey pension fund contribution ruling  pensions
+biz_reporter	704345906498252800	2016-02-29T16:42:04	Indiana Public Retirement taps Korn Ferry for CIO search  pensions
+biz_reporter	704326909442666496	2016-02-29T15:26:35	Your participants may not know as much as you think  DCplans
+biz_reporter	704322253278720001	2016-02-29T15:08:05	SkyBridge pulls $1 Billion from Paulson, Loeb and Rosenstein  HedgeFunds
+biz_reporter	703334761264119808	2016-02-26T21:44:09	New Jersey reports $744 million in money management fees in fiscal 2015  pensions
+biz_reporter	703321529812017153	2016-02-26T20:51:34	National Railroad Retirement Investment Trust CEO/CIO leaves  pensions
+biz_reporter	703312627468881920	2016-02-26T20:16:11	Ontario Municipal Employees returns 6.7% in 2015  pensions
+biz_reporter	703307940313190400	2016-02-26T19:57:34	Colorado Fire &amp; Police increases target allocation to illiquid alternatives  pensions
+biz_reporter	703286168150872064	2016-02-26T18:31:03	Orange County Employees puts 2 global equity managers on watch for performance  pensions
+biz_reporter	703282020152004609	2016-02-26T18:14:34	Indiana Public Retirement looking at smoothing, amortization changes  pensions
+biz_reporter	703216964366249984	2016-02-26T13:56:04	Hedge-fund assets below $3 trillion  HedgeFunds
+biz_reporter	702973356790788096	2016-02-25T21:48:03	Why Google AMP Is So Much Faster in Three Dramatic Charts 
+biz_reporter	702960659160432640	2016-02-25T20:57:36	AP2 returns 4.1% in 2015; assets hit record high  pensions
+biz_reporter	702955748402200576	2016-02-25T20:38:05	Florida House passes bill making DC plan the default for new employees  pensions
+biz_reporter	702955410915856384	2016-02-25T20:36:44	Florida may steer new state employees away from pension plan 
+biz_reporter	702954245641752576	2016-02-25T20:32:07	Exceptional excess returns in listed equity drive Princeton's outperformance in 2015  Endowments
+biz_reporter	702951214271459328	2016-02-25T20:20:04	Florida House passes bill making DC plan the default for new employees  DCplans
+biz_reporter	702936869906968576	2016-02-25T19:23:04	Chevron to fill its pension plan with a $900 million contribution 
+biz_reporter	702929095789666304	2016-02-25T18:52:10	Chevron powers up $900 million in global pension plan contributions for 2016  pensions
+biz_reporter	702910467899944960	2016-02-25T17:38:09	UPS charts $1.16 billion in U.S. pension plan contributions for 2016  pensions
+biz_reporter	702907202609090560	2016-02-25T17:25:11	UPS to deliver $1.16 billion to pension funds 
+biz_reporter	702905947274891264	2016-02-25T17:20:11	AP2 returns 4.1% in 2015, lifts assets to record high  pensions
+biz_reporter	702848541677322240	2016-02-25T13:32:05	Ex-Harvard duo said to plan hedge fund after endowment  HedgeFunds
+biz_reporter	702848539630546944	2016-02-25T13:32:04	Ex-Harvard duo said to plan hedge fund after endowment  Endowments
+biz_reporter	702603189447581696	2016-02-24T21:17:08	BlackRock survey finds disconnect between plan executives and participants  DCplans
+biz_reporter	702598643849670656	2016-02-24T20:59:05	Investors petition SEC to reject Exxon plan to exclude climate-change proposal  pensions
+biz_reporter	702589576641024000	2016-02-24T20:23:03	Man Group's AUM increases 2.5% in quarter, 8% for year  HedgeFunds
+biz_reporter	702587299977043968	2016-02-24T20:14:00	'There is a brewing crisis' in multiemployer plans - Karen Friedman 
+biz_reporter	702580035929018368	2016-02-24T19:45:08	Hawaii Employees makes $60 million in additional commitments to 4 funds  pensions
+biz_reporter	702575508827967488	2016-02-24T19:27:09	Oklahoma Firefighters extinguishes low-volatility hedge fund allocation  pensions
+biz_reporter	702571586553978880	2016-02-24T19:11:34	Oklahoma Firefighters extinguishes low-volatility hedge fund allocation  HedgeFunds
+biz_reporter	702515978337280000	2016-02-24T15:30:36	Verizon Communications dials up $600 million pension plan contribution  pensions
+biz_reporter	702243047040352256	2016-02-23T21:26:04	CalPERS hires executive search firm to fill CEO position  pensions
+biz_reporter	702234110933073920	2016-02-23T20:50:33	Wisconsin Investment Board looking for public equities managing director  pensions
+biz_reporter	702198001846976512	2016-02-23T18:27:04	Pension funds globally increased hedge fund allocations in 2015 — survey  HedgeFunds
+biz_reporter	702193474691424256	2016-02-23T18:09:05	Chemtura Corp. enters into buyout with Voya  pensions
+biz_reporter	702188944834691072	2016-02-23T17:51:05	Some hedge fund firms are still hiring  HedgeFunds
+biz_reporter	702166500291932160	2016-02-23T16:21:53	Dennis Tito says Wilshire off selling block, and he has no retirement plans 
+biz_reporter	702123270112309248	2016-02-23T13:30:07	UTIMCO finds something to like about downtrodden energy  Endowments
+biz_reporter	701883399959498753	2016-02-22T21:36:57	Cost, flexibility cited as major factors for increased popularity of CITs in DC plans 
+biz_reporter	701875782994366465	2016-02-22T21:06:41	District Court judge rules in favor of RJR on 'reverse stock-drop' case  DCplans
+biz_reporter	701875780880445440	2016-02-22T21:06:41	Carlyle Group closing hedge funds-of-funds manager DGAM  HedgeFunds
+biz_reporter	701874626889035776	2016-02-22T21:02:05	POLL: When will you transfer pension liabilities to an annuity?  pensions
+biz_reporter	701854989984006144	2016-02-22T19:44:04	Xcel Energy contributes $125 million to pension funds in January  pensions
+biz_reporter	701842911869046784	2016-02-22T18:56:04	Chevron 401(k) participants sue company over high fees, underperforming funds  DCplans
+biz_reporter	701833972821536768	2016-02-22T18:20:33	Malaysia's EPF ends 2015 7.5% higher, helped by overseas holdings  DCplans
+biz_reporter	701827067881644032	2016-02-22T17:53:06	Prudential Financial plans $140 million in pension plan contributions  pensions
+biz_reporter	701817509540790272	2016-02-22T17:15:08	Allstate to contribute $129 million to pension funds in 2016  pensions
+biz_reporter	701784151003783168	2016-02-22T15:02:34	Carlyle Shutters DGAM Hedge Fund-of-Funds Unit It Bought in 2014  HedgeFunds
+biz_reporter	701642085460418560	2016-02-22T05:38:03	Innovation could be outcome of multiemployer plan debate  pensions
+biz_reporter	701637309012127745	2016-02-22T05:19:04	Targeting endowments  Endowments
+biz_reporter	701635297960792064	2016-02-22T05:11:05	PSCA to honor retired P&amp;I Editor Nancy Webman  DCplans
+biz_reporter	701635295494582272	2016-02-22T05:11:04	Use of CITs in DC plans booming, rises 68% since 2008  DCplans
+biz_reporter	701633151517327360	2016-02-22T05:02:33	Miller's new hedge fund applies earthquake predictors to stock market  HedgeFunds
+biz_reporter	700825458783301634	2016-02-19T23:33:04	NYC Bureau of Asset Management hires strategic initiatives director  pensions
+biz_reporter	700803070473601024	2016-02-19T22:04:06	U.K. local government pension schemes look to join existing partnership  pensions
+biz_reporter	700794251299258368	2016-02-19T21:29:04	Withdrawal liability to bricklayers pension fund upheld in court  pensions
+biz_reporter	700781798796558337	2016-02-19T20:39:35	Ontario Teachers to support proxy access at Apple  pensions
+biz_reporter	700777279522217984	2016-02-19T20:21:37	AP4 chief investment officer to depart in June  pensions
+biz_reporter	700772607264559104	2016-02-19T20:03:03	PG&amp;E Corp. sets $327 million pension plan contribution  pensions
+biz_reporter	700764177300729857	2016-02-19T19:29:34	New York State Common gains 2.88% in latest quarter  pensions
+biz_reporter	700759664204472321	2016-02-19T19:11:38	New York State Common gains 2.88% in fourth quarter  pensions
+biz_reporter	700754994958479365	2016-02-19T18:53:04	AT&amp;T charges up $735 million pension fund contribution  pensions
+biz_reporter	700723275710640128	2016-02-19T16:47:02	KIC's new CEO targets 20% alternatives weighting by 2020  SWF
+biz_reporter	700449355963060224	2016-02-18T22:38:34	Boeing, SPEEA union ratify deal to freeze pension fund at end of 2018  DCplans
+biz_reporter	700449352779587584	2016-02-18T22:38:34	Boeing, SPEEA union ratify deal to freeze pension fund at end of 2018  pensions
+biz_reporter	700431122551828480	2016-02-18T21:26:07	GM to issue debt to pay $2 billion contribution to U.S. hourly pension fund  pensions
+biz_reporter	700421294274191361	2016-02-18T20:47:04	Pew: More public pension fund transparency needed on fees  pensions
+biz_reporter	700416526034214912	2016-02-18T20:28:07	Boeing ratifies deal with SPEEA union to freeze pension fund at end of 2018  DCplans
+biz_reporter	700416520577388544	2016-02-18T20:28:06	Philip Morris International to contribute $113 million to global pension funds  pensions
+biz_reporter	700380186118782976	2016-02-18T18:03:43	CPPIB forms joint venture with REIT Welltower  pensions
+biz_reporter	700366435382489088	2016-02-18T17:09:05	Illinois Teachers returns 1.1% in 2015, missing benchmark by 130 basis points  pensions
+biz_reporter	700352120269111296	2016-02-18T16:12:12	Large companies continue to offer corporate stock in DC plans  DCplans
+biz_reporter	700328938975862784	2016-02-18T14:40:05	As hedge funds struggle, REITs become their victims  HedgeFunds
+biz_reporter	700324281306054656	2016-02-18T14:21:34	Dalio says governments must encourage spending to boost growth  HedgeFunds
+biz_reporter	700072509371092992	2016-02-17T21:41:07	FirstEnergy Corp. plans $381 million in pension fund contributions  pensions
+biz_reporter	700058150855008256	2016-02-17T20:44:04	Arizona governor signs law to change COLA for public safety pension fund  pensions
+biz_reporter	700056148406210561	2016-02-17T20:36:06	Hedge funds headed for record M&amp;A in 2016  HedgeFunds
+biz_reporter	700051480506605569	2016-02-17T20:17:33	Hedge fund firms headed for record number of mergers in 2016  HedgeFunds
+biz_reporter	700042297371561984	2016-02-17T19:41:04	Hedge fund industry headed for record number of M&amp;A deals in 2016  HedgeFunds
+biz_reporter	700039215430545408	2016-02-17T19:28:49	Investor demand for diversification is driving hedge fund manager consolidation 
+biz_reporter	700020778243239937	2016-02-17T18:15:33	FirstEnergy Corp. plans $381 million in pension plan contributions  pensions
+biz_reporter	700011850725851136	2016-02-17T17:40:05	BNY Mellon Master Trust Universe up 2.24% in quarter, but negative for 2015  pensions
+biz_reporter	699997891541147648	2016-02-17T16:44:37	Singapore's GLP, CPPIB launch second joint venture for Japan logistics developments  SWF
+biz_reporter	699997246763376640	2016-02-17T16:42:03	Singapore's GLP, CPPIB launch second joint venture for Japan logistics developments  pensions
+biz_reporter	699707090730790912	2016-02-16T21:29:05	Gov. Christie says New Jersey will contribute $1.9 billion to pension funds next fiscal year  pensions
+biz_reporter	699704358426939393	2016-02-16T21:18:13	Money managers continue the pivot toward cash 
+biz_reporter	699702553789886464	2016-02-16T21:11:03	Oklahoma Teachers pours $250 million more into MLPs  pensions
+biz_reporter	699693753452199937	2016-02-16T20:36:05	Unigestion lifts out hedge fund team from Cube Capital  HedgeFunds
+biz_reporter	699674749354442752	2016-02-16T19:20:34	Alaska Permanent returns 2.1% for quarter, missing its benchmark  SWF
+biz_reporter	699656626924486657	2016-02-16T18:08:33	POLL: When do you think target-date funds will overtake domestic equity funds in DC plans?  DCplans
+biz_reporter	699625934953951232	2016-02-16T16:06:35	Internally managed defined benefit assets continue to gradually rise  pensions
+biz_reporter	698258798117400577	2016-02-12T21:34:05	PennSERS alternative investments director to join Aegon  pensions
+biz_reporter	698244820314132480	2016-02-12T20:38:32	PennSERS alternative investments director leaves pension fund to join Aegon  pensions
+biz_reporter	698240430522048512	2016-02-12T20:21:05	Honeywell's non-U.S. pension plans to get $160 million in contributions  pensions
+biz_reporter	698240293829644288	2016-02-12T20:20:33	BlackRock's head of hedge funds of funds leaving  HedgeFunds
+biz_reporter	698235908055760896	2016-02-12T20:03:07	Texas Teachers supports proxy access proposal at Apple  pensions
+biz_reporter	698231367021305856	2016-02-12T19:45:05	McClatchy contributes real estate to pension fund  pensions
+biz_reporter	698221803911643137	2016-02-12T19:07:05	Arizona House OKs bill to change COLA for public safety pension fund  pensions
+biz_reporter	698217524987428865	2016-02-12T18:50:04	Co-head of BlackRock Alternative Advisors is leaving  HedgeFunds
+biz_reporter	698202939010129920	2016-02-12T17:52:07	3M slates pension fund contribution of up to $200 million  pensions
+biz_reporter	698202429897072641	2016-02-12T17:50:05	Financial Engines garners largest share in managed account market  DCplans
+biz_reporter	698202421990809600	2016-02-12T17:50:04	Iowa treasurer proposes state-sponsored retirement plan for private sector  DCplans
+biz_reporter	698103293378035712	2016-02-12T11:16:09	N.J. panel eyes health reforms to boost pension contributions  pensions
+biz_reporter	697897672192032768	2016-02-11T21:39:06	IRS' new proposed multiemployer guidance could affect UPS  pensions
+biz_reporter	697892892342235137	2016-02-11T21:20:06	Civic group proposes merging administration of Illinois, Chicago teachers pension funds  pensions
+biz_reporter	697874013314379776	2016-02-11T20:05:05	Reynolds American pours $325 million into pension funds  pensions
+biz_reporter	697850867337199616	2016-02-11T18:33:06	Exelon sets $250 million contribution for pension funds  pensions
+biz_reporter	697846475074613249	2016-02-11T18:15:39	Obama proposes curbs to retirement-savings tax incentives for wealthy, heirs  DCplans
+biz_reporter	697822935495487489	2016-02-11T16:42:07	DTE Energy plans $180 million contribution in 2016  pensions
+biz_reporter	697540557522907137	2016-02-10T22:00:03	Machinists union hits back at DOL lawsuit against pension fund trustees  pensions
+biz_reporter	697526398135611393	2016-02-10T21:03:47	O'Brien-Staley Partners brings on 2 to build impact investing team  HedgeFunds
+biz_reporter	697503825318416385	2016-02-10T19:34:05	Boeing to contribute $100 million to pension funds in 2016  pensions
+biz_reporter	697503437169143808	2016-02-10T19:32:33	Misalignment of incentives, investor-level gates – belts vs. suspenders?  HedgeFunds
+biz_reporter	697486141134475264	2016-02-10T18:23:49	Money management recruiting remains strong 
+biz_reporter	697480676048662529	2016-02-10T18:02:06	Canada Pension Plan returns 4.5% in fourth quarter  pensions
+biz_reporter	697479064177606656	2016-02-10T17:55:42	Oregon CIO John Skjervem discusses alts investing 
+biz_reporter	697468083439448064	2016-02-10T17:12:04	Sen. Hatch sets sights on university endowments ahead of tax reform 
+biz_reporter	697193780978384896	2016-02-09T23:02:05	Congressional leaders want details on how private university endowments operate  Endowments
+biz_reporter	697179223165808640	2016-02-09T22:04:14	Milliman: Negative investment returns drop pension funding ratios in January 
+biz_reporter	697175656157720576	2016-02-09T21:50:03	Secondary market transactions flat in 2015 — report  HedgeFunds
+biz_reporter	697174270187712512	2016-02-09T21:44:33	CalPERS considers policy pressuring companies to replace longtime independent directors  pensions
+biz_reporter	697129602859139072	2016-02-09T18:47:04	Fresno County looking to broaden hedge fund allocation with Grosvenor  HedgeFunds
+biz_reporter	697127337238724608	2016-02-09T18:38:03	Fresno County looking to broaden hedge fund allocation with Grosvenor  pensions
+biz_reporter	697115514296881152	2016-02-09T17:51:05	American Red Cross strengthens operations, governance  Endowments
+biz_reporter	697113377567473664	2016-02-09T17:42:35	American Red Cross strengthens operations, governance  pensions
+biz_reporter	697110851807936512	2016-02-09T17:32:33	American Red Cross strengthens operations, governance  DCplans
+biz_reporter	697108715854368770	2016-02-09T17:24:04	U.K. pension funding deficit soars in January  pensions
+biz_reporter	697096076076056576	2016-02-09T16:33:50	Energy and commodities dive, other asset classes up modestly among the P&amp;I 1000 largest retirement funds 
+biz_reporter	696805087776108544	2016-02-08T21:17:33	Hedge fund M&amp;A activity heats up in 2015 — report  HedgeFunds
+biz_reporter	696805085859319809	2016-02-08T21:17:33	Global slowdown increasingly seen as biggest threat to performance — NEPC  Endowments
+biz_reporter	696793005341061120	2016-02-08T20:29:32	General Dynamics plans $200 million in pension fund contributions  pensions
+biz_reporter	696783830317830144	2016-02-08T19:53:05	POLL: With stocks and bonds leading to poor pension returns last year, how might pension funds respond?  pensions
+biz_reporter	696760672273575936	2016-02-08T18:21:04	Defined benefit funds stick with commodities  pensions
+biz_reporter	696747583801167872	2016-02-08T17:29:03	San Diego appeals state board's decision to nullify pension reform  pensions
+biz_reporter	696743075847106560	2016-02-08T17:11:08	GPIF advisory committee: Green light for derivatives; yellow for in-house stocks  pensions
+biz_reporter	696741045539721216	2016-02-08T17:03:04	Growth flat for top DC funds; increase seen in public DC assets only 
+biz_reporter	696735630965870592	2016-02-08T16:41:33	QIC chief investment officer heading to Middle Eastern fund  SWF
+biz_reporter	696724686453870592	2016-02-08T15:58:04	P&amp;I 1,000 by the numbers: 2016  pensions
+biz_reporter	696722432279744513	2016-02-08T15:49:06	P&amp;I 1,000 by the numbers: 2016  DCplans
+biz_reporter	696722430685876224	2016-02-08T15:49:06	P&amp;I 1,000 across the country: 2016  DCplans
+biz_reporter	696706572827799554	2016-02-08T14:46:05	P&amp;I 1,000 by the numbers: 2016  pensions
+biz_reporter	696704063660904450	2016-02-08T14:36:07	P&amp;I 1,000 by the numbers: 2016  DCplans
+biz_reporter	696704061878333440	2016-02-08T14:36:07	P&amp;I 1,000 across the country: 2016  DCplans
+biz_reporter	696563753018462208	2016-02-08T05:18:34	Target-date assets up thanks to default option status  DCplans
+biz_reporter	696563751462375425	2016-02-08T05:18:34	SEC proposal could alter use of mutual funds in DC plans  DCplans
+biz_reporter	696563749772111872	2016-02-08T05:18:34	Assets of largest retirement funds tumble 2.3% for year  DCplans
+biz_reporter	696563748161519616	2016-02-08T05:18:33	Don't kill private-sector ideas  DCplans
+biz_reporter	696563122849472512	2016-02-08T05:16:04	U.S., Canadian assets rise 2.5% in fiscal year, NACUBO-Commonfund study finds  Endowments
+biz_reporter	696563121113079808	2016-02-08T05:16:04	Texas takes hybrid path to internally run hedge fund  HedgeFunds
+biz_reporter	696560361059713025	2016-02-08T05:05:06	Courts to consider New Jersey pension cases  pensions
+biz_reporter	696540974827212800	2016-02-08T03:48:04	U.S., Canadian assets rise 2.5% in fiscal year, NACUBO-Commonfund study finds  Endowments
+biz_reporter	695723338740555776	2016-02-05T21:39:04	GPIF to become more nimble to combat volatility  pensions
+biz_reporter	695719951613624320	2016-02-05T21:25:36	California Secure Choice report recommends target-date funds or pooled IRAs  DCplans
+biz_reporter	695718811853418498	2016-02-05T21:21:05	Pension funding ratios continue free fall in January — report  pensions
+biz_reporter	695714283934449664	2016-02-05T21:03:05	DuPont to contribute $230 million to U.S. pension plan  pensions
+biz_reporter	695710572797513730	2016-02-05T20:48:20	New York City mayor calls for creating private-sector retirement plan  DCplans
+biz_reporter	695709747433988096	2016-02-05T20:45:04	West Virginia trims 2 hedge fund allocations  pensions
+biz_reporter	695709745781432322	2016-02-05T20:45:03	West Virginia trims 2 hedge fund allocations  HedgeFunds
+biz_reporter	695363714401239040	2016-02-04T21:50:03	South Carolina revamps asset allocation, adding new strategies  HedgeFunds
+biz_reporter	695363347064053760	2016-02-04T21:48:35	South Carolina revamps asset allocation, adding new strategies  pensions
+biz_reporter	695359186306076672	2016-02-04T21:32:03	ATP returns 17.2% in 2015, unveils new risk-factor asset allocation  pensions
+biz_reporter	695325966587965440	2016-02-04T19:20:03	Former politicians want to help others tackle pension reform  pensions
+biz_reporter	695311876217896961	2016-02-04T18:24:04	NFL players' pensions moving toward goal  pensions
+biz_reporter	695298284714233856	2016-02-04T17:30:03	Ohio Bureau of Workers' Compensation adds $225 million to core real estate  pensions
+biz_reporter	695256522381619201	2016-02-04T14:44:06	CalSTRS to divest U.S. thermal coal assets  pensions
+biz_reporter	695003094912905216	2016-02-03T21:57:05	GM to contribute nearly $3 billion to pension plans  pensions
+biz_reporter	694999211805282304	2016-02-03T21:41:39	A reassuring Super Bowl statistic: Players' pensions headed toward goal line  pensions
+biz_reporter	694999207795515392	2016-02-03T21:41:38	SEC to refund $9 million to Diamondback after overturned insider-trading charges  HedgeFunds
+biz_reporter	694999204272304128	2016-02-03T21:41:37	InvestorForce universes rebound in fourth quarter with 2.19% median return  Endowments
+biz_reporter	694975289693069312	2016-02-03T20:06:35	Wilshire TUCS: 2015 marks first year of negative returns since 2008  pensions
+biz_reporter	694968348782653440	2016-02-03T19:39:00	The NFL's player pension fund continues to grind its way out of a funding hole. 
+biz_reporter	694960938126999554	2016-02-03T19:09:34	Netherlands government looking at potentially breaking up ABP  pensions
+biz_reporter	694942948123811840	2016-02-03T17:58:04	AIMCo recruits chief risk officer  pensions
+biz_reporter	694925583982026753	2016-02-03T16:49:04	Arizona State Retirement System CIO leaving to join Phoenix-based foundation  Endowments
+biz_reporter	694924569728065536	2016-02-03T16:45:03	Arizona State Retirement System CIO leaving to join Phoenix-based foundation  pensions
+biz_reporter	694919671619854337	2016-02-03T16:25:35	Ontario Teachers names capital markets, portfolio construction leaders  pensions
+biz_reporter	694660830277677057	2016-02-02T23:17:02	MassPRIM returns 1.1% for calendar year  pensions
+biz_reporter	694634539553980416	2016-02-02T21:32:34	Treasury extends Central States application comment period again  pensions
+biz_reporter	694634535296864256	2016-02-02T21:32:33	Most target-date fund investors not using all-in approach — report  DCplans
+biz_reporter	694630260139163649	2016-02-02T21:15:34	Willis Towers Watson: Global retirement assets relatively flat in 2015  DCplans
+biz_reporter	694598934648336384	2016-02-02T19:11:05	Northrop Grumman to contribute $79 million to U.S. pension plans in 2016  pensions
+biz_reporter	694575651173478400	2016-02-02T17:38:34	Merced County Employees withdraws private equity commitment  pensions
+biz_reporter	694574020679733248	2016-02-02T17:32:05	Directional or cross-sectional — a matter of choice for different quants  HedgeFunds
+biz_reporter	694552487978745856	2016-02-02T16:06:31	Asset manager says Panthers to fall to Broncos because Carolina out performed all season 
+biz_reporter	694271271123562496	2016-02-01T21:29:04	Garda Capital Partners formation completes Black River spinouts  HedgeFunds
+biz_reporter	694260197519335424	2016-02-01T20:45:04	New York State Teachers renews private equity consultant, 4 managers  pensions
+biz_reporter	694236794951376896	2016-02-01T19:12:04	Rocaton forms strategic pension risk transfer alliance with Penbridge Advisors  pensions
+biz_reporter	694191762282119168	2016-02-01T16:13:08	U.K. corporate pension funding deficits rise 10.5% in January  pensions
+biz_reporter	694185953368248320	2016-02-01T15:50:03	Malaysia cuts mandatory employee retirement contributions to boost economy  DCplans
+biz_reporter	693186615062102016	2016-01-29T21:39:02	CalPERS among large investors endorsing private equity fee reporting template  pensions
+biz_reporter	693181710276567040	2016-01-29T21:19:33	DC contribution rates decline as auto enrollment spurs more participation — report  DCplans
+biz_reporter	693177558238494720	2016-01-29T21:03:03	Oklahoma Teachers names finalists for international equity searches  pensions
+biz_reporter	693161076746166272	2016-01-29T19:57:33	Texas Permanent School Fund to manage first internal hedge fund-of-funds portfolio  HedgeFunds
+biz_reporter	693159440590118912	2016-01-29T19:51:03	Texas Permanent School Fund to manage first internal hedge fund-of-funds portfolio  Endowments
+biz_reporter	693136294164037632	2016-01-29T18:19:05	Final fiduciary rule sent for OMB approval  DCplans
+biz_reporter	693119435809247232	2016-01-29T17:12:05	Institutional investors behind iShares growth in Asia-Pacific  pensions
+biz_reporter	693114894699225088	2016-01-29T16:54:03	Institutional investors behind iShares growth in Asia-Pacific  Endowments
+biz_reporter	693114893147328512	2016-01-29T16:54:02	Institutional investors behind iShares growth in Asia-Pacific  SWF
+biz_reporter	693113643181830144	2016-01-29T16:49:04	Institutional investors behind iShares growth in Asia-Pacific  DCplans
+biz_reporter	692822094506143744	2016-01-28T21:30:33	IRS proposes new DB plan non-discrimination testing rules  pensions
+biz_reporter	692803975196749824	2016-01-28T20:18:34	PennSERS' managing director of alternative investments to retire Feb. 5  pensions
+biz_reporter	692799443809112064	2016-01-28T20:00:33	Colorado PERA appoints director of opportunity fund  pensions
+biz_reporter	692792398934441985	2016-01-28T19:32:34	Citadel names new head of Surveyor Capital equity group  HedgeFunds
+biz_reporter	692781452203683840	2016-01-28T18:49:04	Universities Superannuation Scheme sells 13 limited partnership interests to Ardian  pensions
+biz_reporter	692751881857175552	2016-01-28T16:51:33	Look to future for enterprise risk management, paper states  HedgeFunds
+biz_reporter	692750247886360576	2016-01-28T16:45:04	Kentucky governor proposes $1.1 billion in pension fund contributions over 2 years  pensions
+biz_reporter	692747350851194880	2016-01-28T16:33:33	'My kingdom for a consultant: How to find the right OCIO'  Endowments
+biz_reporter	692463103175479298	2016-01-27T21:44:03	New Jersey to review alternatives; sells stakes in 2 private equity funds  pensions
+biz_reporter	692458578196709381	2016-01-27T21:26:04	Royal Bank of Scotland to contribute $6 billion to pension fund this quarter  pensions
+biz_reporter	692448269495066631	2016-01-27T20:45:07	Illinois governor throws support behind pension reform proposal  pensions
+biz_reporter	692447381959278592	2016-01-27T20:41:35	AIG to cut hedge fund bets after 'greatly disappointing' results  HedgeFunds
+biz_reporter	692428620120207360	2016-01-27T19:27:02	Pershing Square partner leaves to start own firm  HedgeFunds
+biz_reporter	692425357278842881	2016-01-27T19:14:04	PGGM, Legal &amp; General form partnership to invest in U.K. housing  pensions
+biz_reporter	692422840516251648	2016-01-27T19:04:04	Cystic Fibrosis Foundation looking for first CIO  Endowments
+biz_reporter	692367743371317249	2016-01-27T15:25:08	Cambridge Associates reorganizes leadership  pensions
+biz_reporter	692367222912720902	2016-01-27T15:23:04	Australia's Future Fund returns 8.4% in 2015; cash holdings at 20.6%  SWF
+biz_reporter	692358160103915521	2016-01-27T14:47:03	Australia's Future Fund reports 8.4% gain for 2015; cash holdings at 20.6%  SWF
+biz_reporter	692213873181597698	2016-01-27T05:13:42	U.S., Canadian endowment assets rise 2.5% in fiscal year — NACUBO-Commonfund study  Endowments
+biz_reporter	692098448418435074	2016-01-26T21:35:03	Teamster Local 469 petitions Treasury Department for multiemployer cuts  pensions
+biz_reporter	692098446845579264	2016-01-26T21:35:02	SEC to refund Level Global Investors after overturned insider-trading charge  HedgeFunds
+biz_reporter	692094673720991744	2016-01-26T21:20:03	Oracle sued by 401(k) participants over 'excessive' record-keeping fees  DCplans
+biz_reporter	692093432882331649	2016-01-26T21:15:07	NYC Retirement Systems faces high 'operational risk' without reforms — report  pensions
+biz_reporter	692088393849708544	2016-01-26T20:55:06	Pension funds produce limited shocks to financial sector — EIOPA  pensions
+biz_reporter	692079264213041152	2016-01-26T20:18:49	Real estate secondary market heats up in 2015, led by CalPERS — report  pensions
+biz_reporter	692073675105787904	2016-01-26T19:56:36	Hutchin Hill brings on team from Highbridge Capital  HedgeFunds
+biz_reporter	692069759303573504	2016-01-26T19:41:03	CalPERS renews participation in OCC repurchase facility  pensions
+biz_reporter	692069008388935681	2016-01-26T19:38:04	Deimos Asset Management adds managing director  HedgeFunds
+biz_reporter	692065227127414784	2016-01-26T19:23:02	PSP Investments, Lightyear Capital to acquire AIG Advisor Group  pensions
+biz_reporter	692034940448276480	2016-01-26T17:22:41	Do you think more states will be coming up with new ways to expand access to retirement savings? 
+biz_reporter	692034388670828544	2016-01-26T17:20:30	President to promote retirement security in final budget 
+biz_reporter	692022356710019072	2016-01-26T16:32:41	Hong Kong provident fund reports 3.1% annualized gain since launch in 2000  pensions
+biz_reporter	691850827447832580	2016-01-26T05:11:05	Institutional investors turning to alts, active management in 2016 — survey  pensions
+biz_reporter	691850824583086080	2016-01-26T05:11:05	Obama to push retirement plans in 2017 budget, officials say  DCplans
+biz_reporter	691850817389907970	2016-01-26T05:11:03	Institutional investors turning to alts, active management in 2016 — survey  DCplans
+biz_reporter	691849448855572480	2016-01-26T05:05:37	Institutional investors turning to alts, active management in 2016 — survey  Endowments
+biz_reporter	691735561577435136	2016-01-25T21:33:04	Snowstorm shuts down Washington area, but New York open for business  pensions 
+biz_reporter	691734815884718080	2016-01-25T21:30:06	Supreme Court remands 2 ERISA cases to appeals courts  DCplans
+biz_reporter	691734813703688192	2016-01-25T21:30:06	Snowstorm shuts down Washington area, but New York open for business  DCplans 
+biz_reporter	691731022367469572	2016-01-25T21:15:02	Kimberly-Clark to contribute up to $100 million to pension plans this year  pensions
+biz_reporter	691730275311554560	2016-01-25T21:12:04	Johnson Controls-Tyco deal would merge $12 billion in retirement assets  DCplans 
+biz_reporter	691726495669071872	2016-01-25T20:57:02	North Dakota taps Atlanta Capital for small-cap equity  pensions
+biz_reporter	691720716815716352	2016-01-25T20:34:05	SunEdison sued over use of company stock in 401(k) plan  DCplans 
+biz_reporter	691709273152233472	2016-01-25T19:48:36	Energy-rich sovereign wealth funds pull money from firms as value of crude decreases 
+biz_reporter	691703098012598272	2016-01-25T19:24:04	Multiasset pools seen as best way to combine U.K. local pension funds' assets  pensions
+biz_reporter	691641938391339008	2016-01-25T15:21:02	POLL: Do you think more states will be coming up with new ways to expand access to retirement savings?  DCplans
+biz_reporter	691614163890601985	2016-01-25T13:30:40	Legg Mason goes big on alternatives acquisitions  HedgeFunds
+biz_reporter	691489824033746947	2016-01-25T05:16:35	Fiduciary duty fiasco is national disgrace, and investors pay price  DCplans
+biz_reporter	691489821970161664	2016-01-25T05:16:35	Grading retirement systems  DCplans 
+biz_reporter	691489819621355521	2016-01-25T05:16:34	Asian policymakers working to forestall retirement flood  DCplans 
+biz_reporter	691489818052681729	2016-01-25T05:16:34	Reassurance needed over market volatility  DCplans
+biz_reporter	691489815972311040	2016-01-25T05:16:34	Initiatives for private-sector retirement moving to states  DCplans 
+biz_reporter	691489813933895680	2016-01-25T05:16:33	Cost, complexity cited for the lackluster use of managed accounts  DCplans 
+biz_reporter	691489811962572800	2016-01-25T05:16:33	Singapore moving carefully on reforms  DCplans 
+biz_reporter	691488175022190592	2016-01-25T05:10:02	Multistrategy hedge funds ruled roost in 2015  HedgeFunds
+biz_reporter	691487425953030144	2016-01-25T05:07:04	Pension reforms could become power behind economic growth  pensions 
+biz_reporter	691486669317345280	2016-01-25T05:04:03	Managers burned by plunging price of oil  SWF 
+biz_reporter	691414821984538628	2016-01-25T00:18:34	AIMA: Hedge funds top stocks, bonds in risk-adjusted returns in 2015  HedgeFunds
+biz_reporter	690638074271764480	2016-01-22T20:52:02	AIMCo sells 50% stake in Chilean toll road for C$1.5 billion  pensions
+biz_reporter	690620528671883264	2016-01-22T19:42:19	Legg Mason bolsters alternatives with Clarion, EnTrust acquisitions  HedgeFunds
+biz_reporter	690608777263902720	2016-01-22T18:55:38	Banks use the technology behind bitcoin to run exchange 
+biz_reporter	690608381162221568	2016-01-22T18:54:03	Zurich Insurance adds strategic partnerships manager for DC business  DCplans
+biz_reporter	690585101525131265	2016-01-22T17:21:33	Legg Mason takes stakes in Clarion, EnTrust Capital and Precidian Investments  HedgeFunds
+biz_reporter	690548078399528960	2016-01-22T14:54:26	P&amp;I is hiring in London. If you are interested, give me a heads up and I'll put in a good word. 
+biz_reporter	690302864573333504	2016-01-21T22:40:02	Austin Police taps new executive director  pensions
+biz_reporter	690283614718668800	2016-01-21T21:23:33	San Francisco picks managing director to lead push into hedge funds  pensions
+biz_reporter	690278215114326016	2016-01-21T21:02:05	States commend DOL on secure choice rule, look for some expansions  DCplans
+biz_reporter	690278208588021760	2016-01-21T21:02:04	Empower Retirement sued over revenue-sharing practices  DCplans
+biz_reporter	690278206004301824	2016-01-21T21:02:03	DCIIA names Callan's Lucas as chairwoman  DCplans
+biz_reporter	690265873613885441	2016-01-21T20:13:03	CPPIB anchors $2 billion in investments benchmarked to new long-term value index  pensions
+biz_reporter	690236647275831296	2016-01-21T18:16:55	Assets managed by hedge funds and hedge funds-of-funds rose modestly in 2015, returns were down - HFR rpt 
+biz_reporter	689958848946376704	2016-01-20T23:53:03	Hedge fund assets rise 1.8% with $44 billion in net inflows despite down year  HedgeFunds
+biz_reporter	689922746814332928	2016-01-20T21:29:35	Supreme Court rules on benefit overpayments, class-action lawsuits  pensions
+biz_reporter	689921421661732864	2016-01-20T21:24:19	Gov. Christie pushes market-based solution to retirement crisis 
+biz_reporter	689917830662258688	2016-01-20T21:10:03	PBGC settles with Renco Group  pensions
+biz_reporter	689903862224814080	2016-01-20T20:14:33	AIMCo acquires minority stake in credit manager DFG Investment Advisers  pensions
+biz_reporter	689902982477967361	2016-01-20T20:11:03	Target-date fund selection: More than simply active vs. passive  DCplans
+biz_reporter	689899583195901953	2016-01-20T19:57:33	AIMCo acquires minority stake in credit manager DFG Investment Advisors  pensions
+biz_reporter	689894673712721920	2016-01-20T19:38:02	AIMCo acquires minority stake in credit manager DFF Investment Advisors  pensions
+biz_reporter	689892750372659201	2016-01-20T19:30:23	Investment managers lose confidence in the economy - Bank of America report 
+biz_reporter	689889389854363656	2016-01-20T19:17:02	Gov. Christie signs bill to create retirement plan marketplace for small businesses  DCplans
+biz_reporter	689886371104698369	2016-01-20T19:05:02	GPIF gets more freedom on hiring managers  pensions
+biz_reporter	689886369536081920	2016-01-20T19:05:02	Hedge fund managers seeing increased costs under Basel III — survey  HedgeFunds
+biz_reporter	689877307465474049	2016-01-20T18:29:02	N.Y. State Common enters into $1.4 billion real estate joint venture with MetLife  pensions
+biz_reporter	689870121272156161	2016-01-20T18:00:28	ETFs take majority of asset manager flows in 2015 - Casey, Quirk &amp; Associates 
+biz_reporter	689868377741864960	2016-01-20T17:53:33	Ontario Teachers looking for senior principal for EMEA private equity investments  pensions
+biz_reporter	689867298149048320	2016-01-20T17:49:15	California Treasurer John Chiang pushes CalPERS to update its ESG plan 
+biz_reporter	689795770287960064	2016-01-20T13:05:02	Hawaiian real estate continues to lift Kamehameha Schools' endowment  Endowments
+biz_reporter	689564753224531968	2016-01-19T21:47:03	CalPERS starts process of revamping ESG plan  pensions
+biz_reporter	689560095747739648	2016-01-19T21:28:32	Pension funds call on Exxon Mobil to disclose climate change effect on business  pensions
+biz_reporter	689550787463118848	2016-01-19T20:51:33	University of California task force makes recommendations for new retirement plan  pensions
+biz_reporter	689549146835914752	2016-01-19T20:45:02	University of California task force makes recommendations for new retirement plan  DCplans
+biz_reporter	689546124621848576	2016-01-19T20:33:01	Texas Teachers to assign $1.3 billion to emerging managers over next 3 years  pensions
+biz_reporter	689544745731776513	2016-01-19T20:27:33	Northwestern endowment's 2.5% return tops benchmark by 240 basis points  Endowments
+biz_reporter	689533565638303744	2016-01-19T19:43:07	What could result from proposed SEC regulations requiring mutual funds and ETFs to have more liquidity? 
+biz_reporter	689531792374628352	2016-01-19T19:36:04	Another flat quarter for Morgan Stanley Investment Management 
+biz_reporter	689469500316483585	2016-01-19T15:28:33	Korea Investment Corp. taps World Bank executive as CEO  SWF
+biz_reporter	689074268244594688	2016-01-18T13:18:02	Private foundations have modest asset growth based on preliminary 990 filings  Endowments
+biz_reporter	688123025594564608	2016-01-15T22:18:08	Moody's: Most states see pension liability decrease, but up slightly in aggregate in 2014  pensions
+biz_reporter	688109950971678721	2016-01-15T21:26:11	Newark, N.J. has the worst funded pension liabilities 
+biz_reporter	688106390318006272	2016-01-15T21:12:02	Pension liabilities to shift dramatically to cities from states following GASB 68 — study  pensions
+biz_reporter	688097080355598336	2016-01-15T20:35:02	Moody's: Most states see pension liability decrease, but up in aggregate in 2014  pensions
+biz_reporter	688096569787166720	2016-01-15T20:33:01	23 states reported pension liability increases in 2014 
+biz_reporter	688084250621419521	2016-01-15T19:44:03	Moody's: Most states see pension liability decrease, but up in aggregate in 2014  pensions
+biz_reporter	688075690348904449	2016-01-15T19:10:03	Set it and forget it: rethinking retirement income  DCplans
+biz_reporter	688075462896029698	2016-01-15T19:09:08	TIFF snags another investment exec from Alaska Permanent Fund  Endowments
+biz_reporter	688053299669422081	2016-01-15T17:41:04	Canada Pension Plan, Ontario Pension Board gain RQFII status  pensions
+biz_reporter	688038196744044544	2016-01-15T16:41:03	Aon Hewitt adds head of emerging manager research  HedgeFunds
+biz_reporter	687983836848766976	2016-01-15T13:05:03	Dartmouth College's endowment gets an A+ for long-term returns  Endowments
+biz_reporter	687756124565553152	2016-01-14T22:00:12	State Street settles with SEC on custody pay-to-play allegations  pensions
+biz_reporter	687753438055108608	2016-01-14T21:49:32	P&amp;I is hiring a Data Editor in Chicago 
+biz_reporter	687752433984909313	2016-01-14T21:45:32	PSCA: 401(k) participants contributing more, taking fewer loans  DCplans
+biz_reporter	687733940589731840	2016-01-14T20:32:03	Boeing reaches deal with SPEEA union that will freeze pension plan at end of 2018  DCplans
+biz_reporter	687733812067893248	2016-01-14T20:31:32	Boeing reaches deal with SPEEA union that will freeze pension plan at end of 2018  pensions
+biz_reporter	687729033161789440	2016-01-14T20:12:33	New York-Presbyterian Hospital CIO to retire at end of 2016  pensions
+biz_reporter	687724249503514624	2016-01-14T19:53:33	New York-Presbyterian Hospital CIO to retire at end of 2016  Endowments
+biz_reporter	687689978717933568	2016-01-14T17:37:22	Royal Ontario Museum Pension Plan to merge with multiemployer CAAT plan  pensions
+biz_reporter	687380743681527808	2016-01-13T21:08:34	Callan: DC plan executives focusing on investment policy, fees and compliance  DCplans
+biz_reporter	687371808824164352	2016-01-13T20:33:04	Pew study: Retirement savings access varies by state  DCplans
+biz_reporter	687371802876579840	2016-01-13T20:33:03	Pew study: Retirement savings access varies by state  pensions
+biz_reporter	687358714999734272	2016-01-13T19:41:02	United Methodist pension fund divests, bans investments in 5 Israeli banks  DCplans
+biz_reporter	687358712818745345	2016-01-13T19:41:02	United Methodist pension fund divests, bans investments in 5 Israeli banks  pensions
+biz_reporter	687357030076682241	2016-01-13T19:34:21	The president includes portable retirement savings as part of a “fair shot and opportunity in this new economy” 
+biz_reporter	687354314545704960	2016-01-13T19:23:33	Milliman: 100 largest corporate plans' funded status inches up in 2015  pensions
+biz_reporter	687312706836119552	2016-01-13T16:38:13	Abu Dhabi Investment Authority hires head of private equities  SWF
+biz_reporter	687297690518994944	2016-01-13T15:38:33	Canadian pension funds stay with long-term view despite boost from dollar's fall 
+biz_reporter	687297558171930624	2016-01-13T15:38:01	President Obama calls for portable retirement savings in State of the Union speech  pensions
+biz_reporter	687044647235878912	2016-01-12T22:53:03	Gov. Christie derides plan for New Jersey constitutional amendment on pension contributions  pensions
+biz_reporter	687040621664546816	2016-01-12T22:37:03	New York City Bureau of Asset Management fills 2 new positions  pensions
+biz_reporter	687036601407389696	2016-01-12T22:21:04	New York City Bureau of Asset Management fills 2 new positions  DCplans
+biz_reporter	687015835836153856	2016-01-12T20:58:34	New York City Bureau of Asset Management fills 2 news positions  DCplans
+biz_reporter	687015832145104896	2016-01-12T20:58:33	New York City Bureau of Asset Management fills 2 news positions  pensions
+biz_reporter	687003878596853761	2016-01-12T20:11:03	Sequoia Fund advisers sued for 'reckless' Valeant investment  pensions
+biz_reporter	686991804617510913	2016-01-12T19:23:04	NISA: Funded status volatility falls in December  pensions
+biz_reporter	686971047187353601	2016-01-12T18:00:35	Japan's GPIF debates 3% stock cap in push for in-house investing  pensions
+biz_reporter	686967188234702848	2016-01-12T17:45:15	N.J. Legislature passes first hurdle for constitutional amendment on pension contributions  pensions
+biz_reporter	686959211205398528	2016-01-12T17:13:33	U.K. corporate pension funding deficit improves for month, year  pensions
+biz_reporter	686922595657072640	2016-01-12T14:48:03	NYC comptroller files 72 proxy-access proposals in 'boardroom accountability' project  pensions
+biz_reporter	686681883241910272	2016-01-11T22:51:33	Texas Teachers names new head of London office  pensions
+biz_reporter	686661405236281344	2016-01-11T21:30:11	N.J. Senate wants voters to rule on constitutional amendment for full pension contributions  pensions
+biz_reporter	686653316646879232	2016-01-11T20:58:02	SEC to tackle retirement plan advisers, market risks with 2016 exam priorities  pensions
+biz_reporter	686652816438341633	2016-01-11T20:56:03	SEC to tackle retirement plan advisers, market risks with 2016 exam priorities  DCplans
+biz_reporter	686629035154124800	2016-01-11T19:21:33	BNY Mellon faces lawsuit claiming FX transaction overcharges on ADRs  pensions
+biz_reporter	686620981427748867	2016-01-11T18:49:33	PGGM enters into risk-sharing deal with Santander on SME loans  pensions
+biz_reporter	686612551216414721	2016-01-11T18:16:03	Ontario Teachers picks new CIO  pensions
+biz_reporter	686420154205380608	2016-01-11T05:31:32	Asian pension funds get aggressive on currency  SWF
+biz_reporter	686415624495472640	2016-01-11T05:13:32	Hedge fund investments up 5.5% in challenging year  HedgeFunds
+biz_reporter	686413116909817857	2016-01-11T05:03:34	CalPERS' new risk mitigation plan won't fix what ails it  pensions
+biz_reporter	686412609482952705	2016-01-11T05:01:33	What DC plan sponsors should do about bond exposures  DCplans
+biz_reporter	686412607884886016	2016-01-11T05:01:33	Former NEST CEO gets U.K. honor  DCplans
+biz_reporter	686412606307893249	2016-01-11T05:01:32	DC plans expected to exit prime money market funds  DCplans
+biz_reporter	686412604932112384	2016-01-11T05:01:32	TVA fund needs ERISA help  DCplans
+biz_reporter	685571935720189952	2016-01-08T21:21:01	HFR: Hedge fund indexes end 2015 in the red  HedgeFunds
+biz_reporter	685568039450882048	2016-01-08T21:05:32	CalPERS reduces fees in latest fiscal year, but funded status falls to 73.3%  pensions
+biz_reporter	685510325978857472	2016-01-08T17:16:12	Despite Third Avenue Management's troubles, Affiliated Managers Group is expected see strong inflows 
+biz_reporter	685243652168257536	2016-01-07T23:36:32	Vermont governor calls for state pension funds to divest coal stocks  pensions
+biz_reporter	685225913642926080	2016-01-07T22:26:03	New Jersey Senate follows General Assembly in approving Secure Choice bill  DCplans
+biz_reporter	685211960598605824	2016-01-07T21:30:36	Iron Workers Local 17 applies for multiemployer benefit cuts  pensions
+biz_reporter	685200123194785792	2016-01-07T20:43:34	Ford moves to mark-to-market accounting for pension funds  pensions
+biz_reporter	685172182280867841	2016-01-07T18:52:32	Louisiana School Employees names 3 finalists in global unconstrained bond search  pensions
+biz_reporter	685168160304058369	2016-01-07T18:36:33	Minnesota Teachers seeks to cut return assumption, hike employer contributions  pensions
+biz_reporter	684843396599435264	2016-01-06T21:06:04	Anthem 401(k) plan participants sue company over higher fees  DCplans
+biz_reporter	684843394187661316	2016-01-06T21:06:03	Corporate pension funding gains slim in 2015 despite falling liabilities — 3 reports  pensions
+biz_reporter	684823517817262080	2016-01-06T19:47:04	Hymans Robertson promotes 2 in LGPS business  pensions
+biz_reporter	684813447477870592	2016-01-06T19:07:03	Goldman Sachs private equity fund takes 10% stake in hedge fund FORT Management  HedgeFunds
+biz_reporter	684772427939774464	2016-01-06T16:24:03	Hoplite Capital Management names new head of business development  HedgeFunds
+biz_reporter	684761096838709248	2016-01-06T15:39:02	Hong Kong's Mandatory Provident Fund falls 2.95% in 2015  pensions
+biz_reporter	684482261534654464	2016-01-05T21:11:02	IRS determination letter guidance on deck  DCplans
+biz_reporter	684481506891333632	2016-01-05T21:08:02	IRS determination letter guidance on deck  pensions
+biz_reporter	684477355205644288	2016-01-05T20:51:33	Alaska to sell $2.6 billion in pension obligation bonds  pensions
+biz_reporter	684459908494786560	2016-01-05T19:42:13	FINRA takes on risk management, liquidity as top priorities for 2016 
+biz_reporter	684456948914196480	2016-01-05T19:30:27	Alaska Permanent taps DHR International to conduct search for CIO  SWF
+biz_reporter	684452566478917632	2016-01-05T19:13:03	CSRA reaches pension funding agreement with PBGC  pensions
+biz_reporter	684424468408569856	2016-01-05T17:21:23	The big story of 2016 will be rising rates, says Hedge Fund Research, Inc.'s Kenneth Heinz 
+biz_reporter	684420102167502848	2016-01-05T17:04:02	Mercer: U.K. pension funding deficit falls 17.9% in December  pensions
+biz_reporter	684416209224257541	2016-01-05T16:48:34	Alcatel-Lucent completes buy-in for U.K. pension fund, eyes full buyout  pensions
+biz_reporter	684139002694221824	2016-01-04T22:27:03	Connecticut board calls public retirement plan for private-sector workers feasible  DCplans
+biz_reporter	684120890997510144	2016-01-04T21:15:05	Argentem Creek Partners is first of 3 firms to complete spinout from Black River  HedgeFunds
+biz_reporter	684098238484369408	2016-01-04T19:45:04	Florida SBA cancels search for pool of real estate auditors  pensions
+biz_reporter	684094078863056898	2016-01-04T19:28:32	Census Bureau: Public pension fund assets dip nearly 5% in third quarter  pensions
+biz_reporter	684084895254065152	2016-01-04T18:52:03	Man GLG adds 2 asset managers to long/short equity team  HedgeFunds
+biz_reporter	684058598062702592	2016-01-04T17:07:33	Canada Pension Plan, GIC team up in college student housing joint venture  pensions
+biz_reporter	684056714572767232	2016-01-04T17:00:04	Canada Pension Plan, GIC team up in college student housing joint venture  SWF
+biz_reporter	684050725408620544	2016-01-04T16:36:16	POLL: Where do you expect the federal funds rate to end 2016?  pensions
+biz_reporter	682523482383462400	2015-12-31T11:27:33	Computer Sciences reaches pension funding agreement with PBGC  pensions
+biz_reporter	682260017626521600	2015-12-30T18:00:38	ICI: U.S. retirement assets drop in third quarter  pensions
+biz_reporter	682256602867433473	2015-12-30T17:47:04	ICI: U.S. retirement assets drop in third quarter  DCplans
+biz_reporter	682256177862807552	2015-12-30T17:45:23	PBGC to take over Walter Energy pension fund  pensions

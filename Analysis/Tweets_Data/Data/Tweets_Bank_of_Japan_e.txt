@@ -1,0 +1,270 @@
+Bank_of_Japan_e	725912565893615616	2016-04-29T05:00:17	Outlook for Economic Activity and Prices (April 2016, full text) 
+Bank_of_Japan_e	725640773476085760	2016-04-28T11:00:16	Sources of Changes in Current Account Balances and Market Operations (Preliminary for Apr.) 
+Bank_of_Japan_e	725595484627177472	2016-04-28T08:00:19	Timetable and schedule of U.S. Dollar Funds-Supplying Operations 
+Bank_of_Japan_e	725595482362286080	2016-04-28T08:00:18	Outline of Outright Purchases of Japanese Government Bonds 
+Bank_of_Japan_e	725595480172843008	2016-04-28T08:00:18	Schedules of Outright Purchases of CP and Corporate Bonds 
+Bank_of_Japan_e	725550175922450432	2016-04-28T05:00:16	Measures of Underlying Inflation (Preliminary Version) 
+Bank_of_Japan_e	725550173691121665	2016-04-28T05:00:16	Question 6 of Q&amp;A for the "Quantitative and Qualitative Monetary Easing with a Negative Interest Rate" is amended 
+Bank_of_Japan_e	725523762053943297	2016-04-28T03:15:19	Establishment of "Principal Terms and Conditions for the Funds-Supplying Operation to Support Financial Institutio… 
+Bank_of_Japan_e	725523759730282496	2016-04-28T03:15:18	Amendment to "Principal Terms and Conditions of Complementary Deposit Facility" 
+Bank_of_Japan_e	725521271534981120	2016-04-28T03:05:25	Outlook for Economic Activity and Prices (April 2016, The Bank's View) 
+Bank_of_Japan_e	725521269043515392	2016-04-28T03:05:24	Statement on Monetary Policy 
+Bank_of_Japan_e	725504883449716736	2016-04-28T02:00:18	Payment and Settlement Statistics (Mar.) 
+Bank_of_Japan_e	725472166964137984	2016-04-27T23:50:17	Bank of Japan Statistics (2016) 
+Bank_of_Japan_e	725172679511175168	2016-04-27T04:00:14	(Research Paper) Japan's Inflation Dynamics and Agents' Behavior 
+Bank_of_Japan_e	725109791828267008	2016-04-26T23:50:20	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	725109789424939008	2016-04-26T23:50:20	Input-Output Price Index of the Manufacturing Industry by Sector (Mar.) 
+Bank_of_Japan_e	724463012271157248	2016-04-25T05:00:16	Developments in Real Exports and Real Imports 
+Bank_of_Japan_e	724385001547030530	2016-04-24T23:50:17	Services Producer Price Index (Mar.) 
+Bank_of_Japan_e	723421157613932544	2016-04-22T08:00:19	Japanese Government Bonds held by the Bank of Japan 
+Bank_of_Japan_e	723421155248365568	2016-04-22T08:00:18	T-Bills Purchased by the Bank of Japan 
+Bank_of_Japan_e	723406053681963008	2016-04-22T07:00:18	Financial System Report (Apr. 2016) 
+Bank_of_Japan_e	723406051165360128	2016-04-22T07:00:17	Financial System Report Annex "Designing Scenarios for Macro Stress Testing (Financial System Report, Apr. 2016)" 
+Bank_of_Japan_e	723315446078836737	2016-04-22T01:00:15	Bank of Japan Accounts (April 20) 
+Bank_of_Japan_e	722935452978688001	2016-04-20T23:50:18	Senior Loan Officer Opinion Survey (Apr.) 
+Bank_of_Japan_e	722651070665793536	2016-04-20T05:00:16	Developments in Real Exports and Real Imports 
+Bank_of_Japan_e	722605774728339456	2016-04-20T02:00:16	IMES Discussion Paper Series (2016) 
+Bank_of_Japan_e	722578093626359808	2016-04-20T00:10:17	Statement by Governor Kuroda concerning the Bank's Semiannual Report on Currency and Monetary Control (Committee o… 
+Bank_of_Japan_e	722573072650272768	2016-04-19T23:50:19	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	721971603773370368	2016-04-18T08:00:18	BOJ Current Account Balances by Sector (Mar.) 
+Bank_of_Japan_e	721926316941938688	2016-04-18T05:00:21	65th Public Opinion Survey 
+Bank_of_Japan_e	720793828253302784	2016-04-15T02:00:15	(BOJ Review) Corporate Profits and Business Fixed Investment 
+Bank_of_Japan_e	720408801476628480	2016-04-14T00:30:17	Speech by Executive Director Amamiya at the ISDA 31st Annual General Meeting (Toward a Robust Financial Market and… 
+Bank_of_Japan_e	720388669249433600	2016-04-13T23:10:17	Speech by Governor Kuroda at Columbia University on Apr. 13, 2016 (The Battle Against Deflation: The Evolution of … 
+Bank_of_Japan_e	720114357355606016	2016-04-13T05:00:16	(Research Lab) Long-Term Unemployment in Japan 
+Bank_of_Japan_e	720069059027402752	2016-04-13T02:00:16	IMES Discussion Paper Series (2016) 
+Bank_of_Japan_e	720061515164848133	2016-04-13T01:30:17	Speech by Board Member Harada in Yamaguchi (Economic Activity and Prices in Japan, and Monetary Policy) 
+Bank_of_Japan_e	720036356936704000	2016-04-12T23:50:19	Money Stock (Mar.) 
+Bank_of_Japan_e	720036354709540864	2016-04-12T23:50:19	Corporate Goods Price Index (Mar.) 
+Bank_of_Japan_e	720036352369102849	2016-04-12T23:50:18	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	719797276764319744	2016-04-12T08:00:18	T-Bills Purchased by the Bank of Japan 
+Bank_of_Japan_e	719797274390364160	2016-04-12T08:00:18	Japanese Government Bonds held by the Bank of Japan 
+Bank_of_Japan_e	719789716971790336	2016-04-12T07:30:16	Basic Figures on Fails (Mar.) 
+Bank_of_Japan_e	719691570694361089	2016-04-12T01:00:16	Bank of Japan Accounts (April 10) 
+Bank_of_Japan_e	719673968035106816	2016-04-11T23:50:19	Hedonic Regression Model (CGPI, SPPI, Tablet Computers) 
+Bank_of_Japan_e	719673965732503556	2016-04-11T23:50:18	Principal Figures of Financial Institutions (Mar.) 
+Bank_of_Japan_e	719434881453785088	2016-04-11T08:00:16	Review of the Benchmark Ratio Used to Calculate the Macro Add-on Balance in Current Account Balances at the Bank o… 
+Bank_of_Japan_e	718224411984269312	2016-04-07T23:50:18	Direct Investment by Region and Industry (4th quarter 2015, 2015 C.Y.) 
+Bank_of_Japan_e	717955129983406081	2016-04-07T06:00:16	On-Site Examination Policy for Fiscal 2016 
+Bank_of_Japan_e	717940037980004352	2016-04-07T05:00:18	Regional Economic Report (Summary) (Apr. 2016) 
+Bank_of_Japan_e	717879638488326144	2016-04-07T01:00:18	Bank of Japan Accounts (March 31) 
+Bank_of_Japan_e	717862038228238337	2016-04-06T23:50:21	Monetary Base and the Bank of Japan's Transactions (Mar.) 
+Bank_of_Japan_e	717862035690663936	2016-04-06T23:50:21	Bank of Japan's Transactions with the Government (Mar.) 
+Bank_of_Japan_e	717862033144700928	2016-04-06T23:50:20	Money Market Operations Conducted by the Bank of Japan (Mar.) 
+Bank_of_Japan_e	717499625796722688	2016-04-05T23:50:15	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	717215255244447744	2016-04-05T05:00:16	Output Gap and Potential Growth Rate 
+Bank_of_Japan_e	717169950423519232	2016-04-05T02:00:15	Designation of a Board Member to Perform the Duties of the Chairperson When the Chairperson Is Prevented from Atte… 
+Bank_of_Japan_e	717154855937118210	2016-04-05T01:00:16	Flow of Funds (Basic Figures) (4th Quarter 2015) 
+Bank_of_Japan_e	717154853634449410	2016-04-05T01:00:15	Flow of Funds (Overview of Japan, US, and the Euro area)(4th Quarter 2015) 
+Bank_of_Japan_e	717137247770836992	2016-04-04T23:50:18	Sources of Changes in Current Account Balances (Projections for Apr.) 
+Bank_of_Japan_e	716898184199417856	2016-04-04T08:00:21	T-Bills Purchased by the Bank of Japan 
+Bank_of_Japan_e	716898181926096896	2016-04-04T08:00:20	Collateral Accepted by the Bank of Japan (End of Mar.) 
+Bank_of_Japan_e	716898179472470016	2016-04-04T08:00:19	Japanese Government Bonds held by the Bank of Japan 
+Bank_of_Japan_e	716775044672671744	2016-04-03T23:51:02	Monetary Base (Mar.) 
+Bank_of_Japan_e	716775042386821120	2016-04-03T23:51:01	Tankan (Mar.): Figures by Industry, Summary of "Inflation Outlook of Enterprises," and Comprehensive Data Set 
+Bank_of_Japan_e	715750602446209024	2016-04-01T04:00:16	Sources of Changes in Current Account Balances and Market Operations (Mar.) 
+Bank_of_Japan_e	715705305120641024	2016-04-01T01:00:16	Establishment of the "FinTech Center" 
+Bank_of_Japan_e	715687812834570240	2016-03-31T23:50:46	Tankan (Mar.): Summary and Outline 
+Bank_of_Japan_e	715495161673854976	2016-03-31T11:05:14	Sources of Changes in Current Account Balances and Market Operations (Preliminary for Mar.) 
+Bank_of_Japan_e	715448628093947904	2016-03-31T08:00:19	Outline of Outright Purchases of Japanese Government Bonds 
+Bank_of_Japan_e	715448625782886400	2016-03-31T08:00:19	Release of a Set of Outlines of the Bank's Market Operations 
+Bank_of_Japan_e	715448623475990529	2016-03-31T08:00:18	Timetable and schedule of U.S. Dollar Funds-Supplying Operations 
+Bank_of_Japan_e	715448621164929024	2016-03-31T08:00:18	Schedules of Outright Purchases of CP and Corporate Bonds 
+Bank_of_Japan_e	715433513042911232	2016-03-31T07:00:16	Public Consultation on Identification and Use of a Japanese Yen Risk-Free Rate 
+Bank_of_Japan_e	715358021489020928	2016-03-31T02:00:17	(Research Paper) Results of Revision to the Flow of Funds Accounts Based on 2008SNA 
+Bank_of_Japan_e	715358019240853505	2016-03-31T02:00:17	Payment and Settlement Statistics (Feb.) 
+Bank_of_Japan_e	715358016812371968	2016-03-31T02:00:16	IMES Discussion Paper Series (2016) 
+Bank_of_Japan_e	715086225263054848	2016-03-30T08:00:16	Speech by Board Member Funo in Hyogo on Mar. 23, 2016 (Economic Activity and Prices in Japan, and Monetary Policy) 
+Bank_of_Japan_e	715040922103365638	2016-03-30T05:00:15	Measures of Underlying Inflation 
+Bank_of_Japan_e	714962928395399172	2016-03-29T23:50:20	Average Contract Interest Rates on Loans and Discounts (Feb.) 
+Bank_of_Japan_e	714962926180761600	2016-03-29T23:50:19	Assets and Liabilities of Domestically Licensed Banks (Banking Accounts) (End of Feb.) 
+Bank_of_Japan_e	714962923945205760	2016-03-29T23:50:19	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	714600524142612481	2016-03-28T23:50:16	Input-Output Price Index of the Manufacturing Industry by Sector (Feb.) 
+Bank_of_Japan_e	714255764982870016	2016-03-28T01:00:19	(Research Paper) Household Portfolios in a Secular Stagnation World 
+Bank_of_Japan_e	713228983073001472	2016-03-25T05:00:15	Measures of Underlying Inflation (Preliminary Version) 
+Bank_of_Japan_e	713213910208262144	2016-03-25T04:00:21	Authorization regarding Loans that are made against Eligible Beneficial Interest of a Trust 
+Bank_of_Japan_e	713213907846889472	2016-03-25T04:00:21	Authorization regarding the conditions for purchases of ETFs 
+Bank_of_Japan_e	713150985493807104	2016-03-24T23:50:19	Flow of Funds Accounts (4th Quarter 2015, Preliminary Figures) 
+Bank_of_Japan_e	713150983061123072	2016-03-24T23:50:18	Services Producer Price Index (Feb.) 
+Bank_of_Japan_e	712788596239912960	2016-03-23T23:50:18	Summary of Opinions at the Monetary Policy Meeting on March 14 and 15, 2016 
+Bank_of_Japan_e	712788593509404672	2016-03-23T23:50:18	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	712549524087173120	2016-03-23T08:00:19	T-Bills Purchased by the Bank of Japan 
+Bank_of_Japan_e	712549520236756992	2016-03-23T08:00:18	Japanese Government Bonds held by the Bank of Japan 
+Bank_of_Japan_e	712504208012943360	2016-03-23T05:00:15	Developments in Real Exports and Real Imports 
+Bank_of_Japan_e	712443819187306498	2016-03-23T01:00:17	Launch of the Official Website for G7 Finance Ministers and Central Bank Governors' Meeting, Sendai 
+Bank_of_Japan_e	712443816863633408	2016-03-23T01:00:17	Bank of Japan Accounts (March 20) 
+Bank_of_Japan_e	712172016946688000	2016-03-22T07:00:15	(Research Paper) Productivity Slowdown in Japan's Lost Decades 
+Bank_of_Japan_e	712066322452975616	2016-03-22T00:00:15	Speech by Deputy Governor Nakaso at the IVA-JSPS Seminar on Mar. 21, 2016 (Challenges toward Financial Stability a… 
+Bank_of_Japan_e	710722481389056000	2016-03-18T07:00:18	Remarks by Executive Director Kuwabara at the Forum on Payment and Settlement Systems (Enhancement of Payment and … 
+Bank_of_Japan_e	710714924192763905	2016-03-18T06:30:17	Bilateral Local Currency Swap Agreement with the Reserve Bank of Australia 
+Bank_of_Japan_e	710707367545933824	2016-03-18T06:00:15	Establishing Three New Working Groups Under Forum Towards Making Effective Use of the BOJ-NET 
+Bank_of_Japan_e	710614290437267457	2016-03-17T23:50:24	The Results of BIS International Locational Banking Statistics and International Consolidated Banking Statistics i… 
+Bank_of_Japan_e	710614288109408256	2016-03-17T23:50:23	Minutes of the Monetary Policy Meeting on January 28 and 29, 2016 
+Bank_of_Japan_e	710360082064617476	2016-03-17T07:00:16	Remarks by Governor Kuroda at the Forum on Payment and Settlement Systems (Innovations in Payments and FinTech) 
+Bank_of_Japan_e	710329880055910400	2016-03-17T05:00:15	Developments in Real Exports and Real Imports 
+Bank_of_Japan_e	710284580834516992	2016-03-17T02:00:15	IMES Discussion Paper Series (2016) 
+Bank_of_Japan_e	710012802082185219	2016-03-16T08:00:18	BOJ Current Account Balances by Sector (Feb.) 
+Bank_of_Japan_e	709997699052015617	2016-03-16T07:00:17	Loan Disbursement under the Fund-Provisioning Measure to Stimulate Bank Lending (March 2016) 
+Bank_of_Japan_e	709922189340844032	2016-03-16T02:00:14	Payment and Settlement Systems Report (March 2016) 
+Bank_of_Japan_e	709903312582094848	2016-03-16T00:45:13	Statement by Governor Kuroda concerning the Bank's Semiannual Report on Currency and Monetary Control (Committee o… 
+Bank_of_Japan_e	709889486822383618	2016-03-15T23:50:17	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	709635305729429505	2016-03-15T07:00:15	Minutes of Study Group on Risk-Free Reference Rates (Feb. 8, 2016) 
+Bank_of_Japan_e	709600065816428544	2016-03-15T04:40:14	Question 7 and 8 of Q&amp;A for the "Quantitative and Qualitative Monetary Easing with a Negative Interest Rate" are a… 
+Bank_of_Japan_e	709588747910688768	2016-03-15T03:55:15	Establishment of "Special Rules for Purchases of ETFs to Support Firms Proactively Investing in Physical and Human… 
+Bank_of_Japan_e	709588745561853952	2016-03-15T03:55:15	Establishment of "Collateral Guidelines on Eligible Beneficial Interest of a Trust in Housing Loans" 
+Bank_of_Japan_e	709588743229845504	2016-03-15T03:55:14	Establishment of "Detailed Rules on Eligibility Criteria for Indices regarding Purchases of ETFs to Support Firms … 
+Bank_of_Japan_e	709583821985832962	2016-03-15T03:35:41	Statement on Monetary Policy 
+Bank_of_Japan_e	709583819666423812	2016-03-15T03:35:40	Amendment to "Principal Terms and Conditions of Complementary Deposit Facility" 
+Bank_of_Japan_e	709288028410261504	2016-03-14T08:00:18	Japanese Government Bonds held by the Bank of Japan 
+Bank_of_Japan_e	709288026094985216	2016-03-14T08:00:18	T-Bills Purchased by the Bank of Japan 
+Bank_of_Japan_e	709182316887695360	2016-03-14T01:00:14	Bank of Japan Accounts (March 10) 
+Bank_of_Japan_e	708077551017525248	2016-03-10T23:50:18	Regular Derivatives Market Statistics in Japan (End-Dec. 2015) 
+Bank_of_Japan_e	707830921630625792	2016-03-10T07:30:17	Basic Figures on Fails (Feb.) 
+Bank_of_Japan_e	707717670334902272	2016-03-10T00:00:16	Prime Lending Rates (Principal Banks) 
+Bank_of_Japan_e	707715161000255488	2016-03-09T23:50:17	Corporate Goods Price Index (Feb.) 
+Bank_of_Japan_e	707460972269719553	2016-03-09T07:00:14	Speech by Board Member Ishida in Fukuoka on Feb. 18, 2016 (Japan's Economy, Price Developments, and Monetary Policy) 
+Bank_of_Japan_e	707352789211488257	2016-03-08T23:50:21	Money Stock (Feb.) 
+Bank_of_Japan_e	707352786514485248	2016-03-08T23:50:20	Hedonic Regression Models (CGPI, SPPI, Servers) 
+Bank_of_Japan_e	707352784174075904	2016-03-08T23:50:20	Hedonic Regression Models (CGPI, SPPI, Desktop and Notebook Computers) 
+Bank_of_Japan_e	707352781460385792	2016-03-08T23:50:19	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	706990392185466881	2016-03-07T23:50:19	Gross External Debt Position of Japan (End of December, Preliminary Estimate; End of September, Revised Estimate) 
+Bank_of_Japan_e	706990389878611968	2016-03-07T23:50:18	International Investment Position of Japan (End of December, Preliminary Estimate; End of September, Revised Estim… 
+Bank_of_Japan_e	706990387584327681	2016-03-07T23:50:18	Principal Figures of Financial Institutions (Feb.) 
+Bank_of_Japan_e	706685863858536449	2016-03-07T03:40:14	Speech by Governor Kuroda at the Yomiuri International Economic Society (Answers to Frequently Asked Questions on … 
+Bank_of_Japan_e	706628006681268224	2016-03-06T23:50:19	Monetary Base and the Bank of Japan's Transactions (Feb.) 
+Bank_of_Japan_e	706628004365991936	2016-03-06T23:50:19	Bank of Japan's Transactions with the Government (Feb.) 
+Bank_of_Japan_e	706628001752969216	2016-03-06T23:50:18	Money Market Operations Conducted by the Bank of Japan (Feb.) 
+Bank_of_Japan_e	705203602973859840	2016-03-03T01:30:15	Speech by Deputy Governor Nakaso in Okinawa (Japan's Economy and Monetary Policy) 
+Bank_of_Japan_e	705178436784910336	2016-03-02T23:50:15	Sources of Changes in Current Account Balances (Projections for Mar.) 
+Bank_of_Japan_e	704939383632351233	2016-03-02T08:00:20	T-Bills Purchased by the Bank of Japan 
+Bank_of_Japan_e	704939380297887744	2016-03-02T08:00:20	Collateral Accepted by the Bank of Japan (End of Feb.) 
+Bank_of_Japan_e	704939376929853440	2016-03-02T08:00:19	Japanese Government Bonds held by the Bank of Japan 
+Bank_of_Japan_e	704924268920967168	2016-03-02T07:00:17	(Research Paper) Long-term interest rates and bank loan supply 
+Bank_of_Japan_e	704894062520881152	2016-03-02T05:00:15	Measures of Underlying Inflation 
+Bank_of_Japan_e	704833662362083329	2016-03-02T01:00:14	Bank of Japan Accounts (February 29) 
+Bank_of_Japan_e	704816237864312832	2016-03-01T23:51:00	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	704816235645505536	2016-03-01T23:51:00	Monetary Base (Feb.) 
+Bank_of_Japan_e	704561883798380544	2016-03-01T07:00:17	Bond Market Survey (Feb. 2016) 
+Bank_of_Japan_e	704516573952811008	2016-03-01T04:00:15	Sources of Changes in Current Account Balances and Market Operations (Feb.) 
+Bank_of_Japan_e	704453676304195585	2016-02-29T23:50:19	Assets and Liabilities of Domestically Licensed Banks (Banking Accounts) (End of Jan.) 
+Bank_of_Japan_e	704453674026729473	2016-02-29T23:50:18	Average Contract Interest Rates on Loans and Discounts (Jan.) 
+Bank_of_Japan_e	704253587690369025	2016-02-29T10:35:14	Sources of Changes in Current Account Balances and Market Operations (Preliminary for Feb.) 
+Bank_of_Japan_e	704214599277522945	2016-02-29T08:00:18	Schedules of Outright Purchases of CP and Corporate Bonds 
+Bank_of_Japan_e	704214597025173504	2016-02-29T08:00:18	Timetable and schedule of U.S. Dollar Funds-Supplying Operations 
+Bank_of_Japan_e	704214594743435264	2016-02-29T08:00:17	Outline of Outright Purchases of Japanese Government Bonds 
+Bank_of_Japan_e	704199487992889344	2016-02-29T07:00:15	Loan Disbursement under the Fund-Provisioning Measure to Support Strengthening the Foundations for Economic Growth 
+Bank_of_Japan_e	704123995285647360	2016-02-29T02:00:17	Payment and Settlement Statistics (Jan.) 
+Bank_of_Japan_e	704123992987205632	2016-02-29T02:00:16	IMES Discussion Paper Series (2016) 
+Bank_of_Japan_e	703082123742179328	2016-02-26T05:00:15	Measures of Underlying Inflation (Preliminary Version) 
+Bank_of_Japan_e	703009145511784448	2016-02-26T00:10:16	Remarks by Deputy Governor Nakaso at the BIS FXWG-MPG Meeting in Tokyo (Developing a Global Code of Conduct for th… 
+Bank_of_Japan_e	703004115454918656	2016-02-25T23:50:16	Input-Output Price Index of the Manufacturing Industry by Sector (Jan.) 
+Bank_of_Japan_e	702666890791882752	2016-02-25T01:30:16	Speech by Board Member Kiuchi in Kagoshima  (Recent Developments in Economic Activity, Prices, and Monetary Policy) 
+Bank_of_Japan_e	702281859099525120	2016-02-24T00:00:17	Summary of the "Meeting on Market Operations" (first round of 2016) 
+Bank_of_Japan_e	702279342189969408	2016-02-23T23:50:17	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	702279339895721984	2016-02-23T23:50:17	Services Producer Price Index (Jan.) 
+Bank_of_Japan_e	702040264647397377	2016-02-23T08:00:17	Japanese Government Bonds held by the Bank of Japan 
+Bank_of_Japan_e	702040262227267585	2016-02-23T08:00:16	T-Bills Purchased by the Bank of Japan 
+Bank_of_Japan_e	701994962506809344	2016-02-23T05:00:16	Developments in Real Exports and Real Imports 
+Bank_of_Japan_e	701934562750763008	2016-02-23T01:00:15	Bank of Japan Accounts (February 20) 
+Bank_of_Japan_e	701916950264295425	2016-02-22T23:50:16	Assets and Liabilities of Domestically Licensed Banks (Banking Accounts) (End of Dec.) 
+Bank_of_Japan_e	700575607466233856	2016-02-19T07:00:15	Liquidity Indicators in the JGB Markets (Jan.) 
+Bank_of_Japan_e	700183017491312640	2016-02-18T05:00:14	Developments in Real Exports and Real Imports 
+Bank_of_Japan_e	700162876686802944	2016-02-18T03:40:12	Statement by Governor Kuroda concerning the Bank's Semiannual Report on Currency and Monetary Control (Committee o… 
+Bank_of_Japan_e	699742620348579841	2016-02-16T23:50:15	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	699503539446362112	2016-02-16T08:00:14	BOJ Current Account Balances by Sector (Jan.) 
+Bank_of_Japan_e	699141167204569088	2016-02-15T08:00:18	Japanese Government Bonds held by the Bank of Japan 
+Bank_of_Japan_e	699141164968988672	2016-02-15T08:00:17	T-Bills Purchased by the Bank of Japan 
+Bank_of_Japan_e	699035461403090944	2016-02-15T01:00:16	Bank of Japan Accounts (February 10) 
+Bank_of_Japan_e	698295582587097088	2016-02-13T00:00:15	Speech by Deputy Governor Nakaso at the Japan Society in New York on Feb. 12, 2016 (Monetary Policy and Structural… 
+Bank_of_Japan_e	697329214937104384	2016-02-10T08:00:15	Operational Changes to the Securities Lending Facility 
+Bank_of_Japan_e	697321667144523776	2016-02-10T07:30:15	Basic Figures on Fails (Jan.) 
+Bank_of_Japan_e	697208417673326592	2016-02-10T00:00:14	Prime Lending Rates (Principal Banks) 
+Bank_of_Japan_e	697205957965647872	2016-02-09T23:50:28	Average Contract Interest Rates on Loans and Discounts (Dec.) 
+Bank_of_Japan_e	697205955683942400	2016-02-09T23:50:27	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	697205953154850816	2016-02-09T23:50:27	Corporate Goods Price Index (Jan.) 
+Bank_of_Japan_e	696951730362281985	2016-02-09T07:00:15	Minutes of Study Group on Risk-Free Reference Rates (Dec. 21, 2015) 
+Bank_of_Japan_e	696843519302873089	2016-02-08T23:50:16	Money Stock (Jan.) 
+Bank_of_Japan_e	696481135841267712	2016-02-07T23:50:17	Principal Figures of Financial Institutions (Jan.) 
+Bank_of_Japan_e	696481133580517378	2016-02-07T23:50:16	Summary of Opinions at the Monetary Policy Meeting on January 28 and 29, 2016 
+Bank_of_Japan_e	695393978393325568	2016-02-04T23:50:18	Monetary Base and the Bank of Japan's Transactions (Jan.) 
+Bank_of_Japan_e	695393975683805188	2016-02-04T23:50:18	Bank of Japan's Transactions with the Government (Jan.) 
+Bank_of_Japan_e	695393972672294912	2016-02-04T23:50:17	Money Market Operations Conducted by the Bank of Japan (Jan.) 
+Bank_of_Japan_e	695139790992191488	2016-02-04T07:00:15	Authorization regarding the conditions for purchases of J-REITs 
+Bank_of_Japan_e	694792506567843840	2016-02-03T08:00:16	Question 8 is added to the Q&amp;As for the "Quantitative and Qualitative Monetary Easing with a Negative Interest Rate" 
+Bank_of_Japan_e	694777398965858304	2016-02-03T07:00:14	Holding of the Second Repo Market Forum 
+Bank_of_Japan_e	694747203521245184	2016-02-03T05:00:15	Measures of Underlying Inflation 
+Bank_of_Japan_e	694709461512908800	2016-02-03T02:30:17	Speech by Governor Kuroda at the Kisaragi-kai Meeting (Introduction of "Quantitative and Qualitative Monetary Easi… 
+Bank_of_Japan_e	694669198765625344	2016-02-02T23:50:17	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	694669196521701376	2016-02-02T23:50:17	Sources of Changes in Current Account Balances (Projections for Feb.) 
+Bank_of_Japan_e	694669194239963136	2016-02-02T23:50:16	Minutes of the Monetary Policy Meeting on December 17 and 18, 2015 
+Bank_of_Japan_e	694430128881868801	2016-02-02T08:00:19	Japanese Government Bonds held by the Bank of Japan 
+Bank_of_Japan_e	694430126373646336	2016-02-02T08:00:18	T-Bills Purchased by the Bank of Japan 
+Bank_of_Japan_e	694430123890638848	2016-02-02T08:00:18	Collateral Accepted by the Bank of Japan (End of Jan.) 
+Bank_of_Japan_e	694324417829040128	2016-02-02T01:00:15	Bank of Japan Accounts (January 31) 
+Bank_of_Japan_e	694306800850472960	2016-02-01T23:50:15	Monetary Base (Jan.) 
+Bank_of_Japan_e	694052624417497088	2016-02-01T07:00:15	Amendment to "Principal Terms and Conditions of Complementary Deposit Facility as a Temporary Measure to Facilitat… 
+Bank_of_Japan_e	694007319701508096	2016-02-01T04:00:13	Sources of Changes in Current Account Balances and Market Operations (Jan.) 
+Bank_of_Japan_e	693977133639557120	2016-02-01T02:00:16	Release of Research Data "Developments in Real Exports and Real Imports" 
+Bank_of_Japan_e	693297651161235456	2016-01-30T05:00:15	Outlook for Economic Activity and Prices (January 2016, full text) 
+Bank_of_Japan_e	693027119127879682	2016-01-29T11:05:15	Sources of Changes in Current Account Balances and Market Operations (Preliminary for Jan.) 
+Bank_of_Japan_e	692980581374803969	2016-01-29T08:00:20	Timetable and schedule of U.S. Dollar Funds-Supplying Operations 
+Bank_of_Japan_e	692980577935441920	2016-01-29T08:00:19	Outline of Outright Purchases of Japanese Government Bonds 
+Bank_of_Japan_e	692980574399696896	2016-01-29T08:00:18	Schedules of Outright Purchases of CP and Corporate Bonds 
+Bank_of_Japan_e	692935269201395712	2016-01-29T05:00:16	Measures of Underlying Inflation (Preliminary Version) 
+Bank_of_Japan_e	692927740031426560	2016-01-29T04:30:21	Amendment to "Principal Terms and Conditions for Purchases of ETFs and J-REITs" 
+Bank_of_Japan_e	692927736520806403	2016-01-29T04:30:21	Amendment to "Principal Terms and Conditions for the Loan Support Program" 
+Bank_of_Japan_e	692927733089845248	2016-01-29T04:30:20	Establishment of "Temporary Rules regarding the Eligibility Standards for Loans on Deeds to Companies Denominated … 
+Bank_of_Japan_e	692915318218452992	2016-01-29T03:41:00	Introduction of "Quantitative and Qualitative Monetary Easing with a Negative Interest Rate" 
+Bank_of_Japan_e	692915314930118656	2016-01-29T03:40:59	Outlook for Economic Activity and Prices (January 2016, The Bank's View) 
+Bank_of_Japan_e	692915310337351680	2016-01-29T03:40:58	(Reference) Key Points of Today's Policy Decisions 
+Bank_of_Japan_e	692889956566446082	2016-01-29T02:00:13	Payment and Settlement Statistics (Dec.) 
+Bank_of_Japan_e	692494869605015562	2016-01-27T23:50:17	Input-Output Price Index of the Manufacturing Industry by Sector (Dec.) 
+Bank_of_Japan_e	692255790045007872	2016-01-27T08:00:16	Holding the "Meeting on Market Operations" 
+Bank_of_Japan_e	692165184148914177	2016-01-27T02:00:14	IMES Discussion Paper Series (2016) 
+Bank_of_Japan_e	692132476949565443	2016-01-26T23:50:16	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	691770084327555073	2016-01-25T23:50:15	Services Producer Price Index (Dec.) 
+Bank_of_Japan_e	690443867213189120	2016-01-22T08:00:20	T-Bills Purchased by the Bank of Japan 
+Bank_of_Japan_e	690443864012890112	2016-01-22T08:00:19	Japanese Government Bonds held by the Bank of Japan 
+Bank_of_Japan_e	690338151949205504	2016-01-22T01:00:15	Bank of Japan Accounts (January 20) 
+Bank_of_Japan_e	689975760258502656	2016-01-21T01:00:15	(Research Paper) Economic Impact of the Tokyo 2020 Olympic Games 
+Bank_of_Japan_e	689958151551127553	2016-01-20T23:50:16	Senior Loan Officer Opinion Survey (Jan.) 
+Bank_of_Japan_e	689595766344589312	2016-01-19T23:50:17	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	689311369204641792	2016-01-19T05:00:11	Confirmation of the Start Date of the Extension of the Operating Hours of the BOJ-NET 
+Bank_of_Japan_e	688994298075860993	2016-01-18T08:00:16	BOJ Current Account Balances by Sector (Dec.) 
+Bank_of_Japan_e	688948995507392512	2016-01-18T05:00:15	Regional Economic Report (Summary) (Jan. 2016) 
+Bank_of_Japan_e	688948993338941442	2016-01-18T05:00:14	64th Public Opinion Survey 
+Bank_of_Japan_e	687537190360854529	2016-01-14T07:30:14	Basic Figures on Fails (Dec.) 
+Bank_of_Japan_e	687529643881017344	2016-01-14T07:00:15	(Research Paper) Inflation expectations and monetary policy under disagreements 
+Bank_of_Japan_e	687421434134683649	2016-01-13T23:50:16	Corporate Goods Price Index (Dec.) 
+Bank_of_Japan_e	687421431437721602	2016-01-13T23:50:15	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	687182353806929920	2016-01-13T08:00:15	Japanese Government Bonds held by the Bank of Japan 
+Bank_of_Japan_e	687182351449755649	2016-01-13T08:00:14	T-Bills Purchased by the Bank of Japan 
+Bank_of_Japan_e	687076657924984832	2016-01-13T01:00:15	Bank of Japan Accounts (January 10) 
+Bank_of_Japan_e	687059040984170496	2016-01-12T23:50:14	Money Stock (Dec.) 
+Bank_of_Japan_e	686872819452395520	2016-01-12T11:30:16	Remarks by Governor Kuroda at the Farewell Symposium for Honorary Governor Christian Noyer Held by the Banque de F… 
+Bank_of_Japan_e	686696657568702465	2016-01-11T23:50:16	Principal Figures of Financial Institutions (Dec.) 
+Bank_of_Japan_e	686696655295352832	2016-01-11T23:50:15	Direct Investment by Region and Industry (3rd quarter 2015) 
+Bank_of_Japan_e	685247146208043008	2016-01-07T23:50:25	Monetary Base and the Bank of Japan's Transactions (Dec.) 
+Bank_of_Japan_e	685247143922147328	2016-01-07T23:50:25	Bank of Japan's Transactions with the Government (Dec.) 
+Bank_of_Japan_e	685247141699178496	2016-01-07T23:50:24	Money Market Operations Conducted by the Bank of Japan (Dec.) 
+Bank_of_Japan_e	685247139207720960	2016-01-07T23:50:23	Summary of Opinions at the Monetary Policy Meeting on December 17 and 18, 2015 
+Bank_of_Japan_e	684600328445034496	2016-01-06T05:00:12	Output Gap and Potential Growth Rate 
+Bank_of_Japan_e	684522328537972736	2016-01-05T23:50:15	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	684522326172409856	2016-01-05T23:50:15	Sources of Changes in Current Account Balances (Projections for Jan.) 
+Bank_of_Japan_e	684283261388890112	2016-01-05T08:00:17	Japanese Government Bonds held by the Bank of Japan 
+Bank_of_Japan_e	684283259195273216	2016-01-05T08:00:17	T-Bills Purchased by the Bank of Japan 
+Bank_of_Japan_e	684283256628355072	2016-01-05T08:00:16	Collateral Accepted by the Bank of Japan (End of Dec.) 
+Bank_of_Japan_e	684177546041098240	2016-01-05T01:00:13	Bank of Japan Accounts (December 31) 
+Bank_of_Japan_e	684159974528823296	2016-01-04T23:50:23	Monetary Base (Dec.) 
+Bank_of_Japan_e	684159972331008000	2016-01-04T23:50:23	Assets and Liabilities of Domestically Licensed Banks (Banking Accounts) (End of Nov.) 
+Bank_of_Japan_e	683860456453177344	2016-01-04T04:00:12	Sources of Changes in Current Account Balances and Market Operations (Dec.) 
+Bank_of_Japan_e	683797553222004736	2016-01-03T23:50:15	Average Interest Rates by Type of Deposit 
+Bank_of_Japan_e	683797550910943232	2016-01-03T23:50:15	Average Contract Interest Rates on Loans and Discounts (Nov.) 
+Bank_of_Japan_e	682144149110308864	2015-12-30T10:20:13	Sources of Changes in Current Account Balances and Market Operations (Preliminary for Dec.) 
+Bank_of_Japan_e	682108922790977536	2015-12-30T08:00:14	Schedules of Outright Purchases of CP and Corporate Bonds 
+Bank_of_Japan_e	682108920391794689	2015-12-30T08:00:14	Time table and schedule of U.S. Dollar Funds-Supplying Operations 
+Bank_of_Japan_e	682063618997792768	2015-12-30T05:00:13	Measures of Underlying Inflation 
+Bank_of_Japan_e	682018317142380546	2015-12-30T02:00:12	Payment and Settlement Statistics (Nov.) 
+Bank_of_Japan_e	681623222790426625	2015-12-28T23:50:14	Input-Output Price Index of the Manufacturing Industry by Sector (Nov.) 
+Bank_of_Japan_e	680289436735688704	2015-12-25T07:30:15	Schedule for Releases of Statistical Data and Publications (From Jan. to Dec. 2016) 
+Bank_of_Japan_e	680251683310419968	2015-12-25T05:00:14	Measures of Underlying Inflation (Preliminary Version) 

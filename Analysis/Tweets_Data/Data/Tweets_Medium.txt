@@ -1,0 +1,930 @@
+Medium	726229840102195202	2016-04-30T02:01:01	“Being Black Means We Have to be 200% Better” by IBJIYONGI 
+Medium	726199641851580416	2016-04-30T00:01:01	“The Forgotten Virtue of Not Caring” by gold__medallion 
+Medium	726163334358147072	2016-04-29T21:36:45	“The Internet Economy” by cdixon 
+Medium	726155253855346689	2016-04-29T21:04:38	juantrouilh there are only available to our partners.
+Medium	726155086309683200	2016-04-29T21:03:58	RunMikeRun sorry there isn't
+Medium	726122635529052160	2016-04-29T18:55:01	“Why the little things matter in communication” by SlackHQ 
+Medium	726117305000689664	2016-04-29T18:33:50	mulligan Go on the web, it's changed from the "homepage layout" tab. Click the existing logo and then hit dlete. You can then add a new one
+Medium	726107225660362752	2016-04-29T17:53:47	mulligan like on the top of posts? That is Publication logo.
+Medium	726106613933871105	2016-04-29T17:51:21	litmusapp It was automated. You can reach us at yourfriends@medium.com
+Medium	726106151872405504	2016-04-29T17:49:31	DavidDarnes consider it requested!
+Medium	726099077851656193	2016-04-29T17:21:25	mulligan It doesn't look like those are transparent. Can you DM us the source img? We want to make sure a background isn't getting added.
+Medium	726087042308825088	2016-04-29T16:33:35	“Leia Organa: The Galactic Senate’s Only Hope” by Claudia Gray 
+Medium	726076102431494145	2016-04-29T15:50:07	“Three black journalists talk about the L.A. Riots, 24 years later” by dexdigi 
+Medium	725847911511240705	2016-04-29T00:43:22	lito_lupena Try quitting out of the app entirely.
+Medium	725847469213380608	2016-04-29T00:41:36	“A man sent me a dick pic on Instagram” by ashsmash 
+Medium	725813800713244674	2016-04-28T22:27:49	davegandy Gotcha! We'll pass on your suggestion to the team!
+Medium	725811727179341824	2016-04-28T22:19:35	davegandy We don't have a public roadmap but you can make a code block (cmd+opt+6) or embed gists.
+Medium	725794208221515776	2016-04-28T21:09:58	“So I Removed My Birthday From Facebook…” by jingalingli 
+Medium	725753042402856961	2016-04-28T18:26:23	“How to help your kids fall in love with math” by MathforLove 
+Medium	725748257289183232	2016-04-28T18:07:22	tgebauer Not possible, you could make it unlisted, which would make it only visible to those with the link.
+Medium	725731568476512257	2016-04-28T17:01:04	“Do Digital Parents Really Need to Barf Rainbows to Connect With Their Kids?” by dbrodey 
+Medium	725712696650276866	2016-04-28T15:46:04	“Yelp Raises Wages After Talia Jane’s Open Letter” by laurensmiley 
+Medium	725480219172298752	2016-04-28T00:22:17	FemmesUnafraid You can change your display name in your profile settings.
+Medium	725480086053376000	2016-04-28T00:21:45	FemmesUnafraid It will say whatever you have your display name  set to. (in this case Femmes Unafraid)
+Medium	725474865768099842	2016-04-28T00:01:01	“How to Order Wine at a Restaurant” by MikeWP318 
+Medium	725470936867151872	2016-04-27T23:45:24	aaronwhite 😳
+Medium	725469868896612352	2016-04-27T23:41:09	fdevillamil We haven't built a bulk delete yet.
+Medium	725469622422626305	2016-04-27T23:40:11	FemmesUnafraid We aren't sure we understand the question?
+Medium	725436240963608576	2016-04-27T21:27:32	“Why Did the University of Montana Pay $245,000 to a Football Star Accused of Rape?” by Jon Krakauer 
+Medium	725427215232602113	2016-04-27T20:51:40	clemauyeung Sorry about that! This looks like a bug. We'll investigate ASAP.
+Medium	725409527500169216	2016-04-27T19:41:23	“Things Dudes Have Said to Me After Sex” by catccohen 
+Medium	725390371585302528	2016-04-27T18:25:16	fdevillamil you are good to go!
+Medium	725387145733492736	2016-04-27T18:12:27	Kobestarr yourfriends@medium.com
+Medium	725383598207954944	2016-04-27T17:58:21	fdevillamil We can whitelist but only if you are importing into a publication.
+Medium	725383393865691136	2016-04-27T17:57:32	“The Darkness of Skin and the Lightness of Lil’ Kim” by nilegirl 
+Medium	725379884248272896	2016-04-27T17:43:35	fdevillamil what's the name of the publication you are importing into?
+Medium	725377814611001344	2016-04-27T17:35:22	hoppo just scroll down a hair and back up to get a bar with a bookmark button on it.
+Medium	725354257151451136	2016-04-27T16:01:45	“Guess Which Country Is Among the World’s Most Corrupt” by warisboring 
+Medium	725322566953369600	2016-04-27T13:55:50	“Hillsborough: at last, the shameful truth is out” by ConversationUK 
+Medium	725115243505061888	2016-04-27T00:12:00	“Anatomy of a Mix Tape” by wordsbydan 
+Medium	725089073187037184	2016-04-26T22:28:01	“Why Western Mass Doesn’t Have the Internet” by scrawford 
+Medium	725079072255152129	2016-04-26T21:48:16	iceMagic Your bookmarks are on the homepage, last tab on the right. (if they don't display, try using one of our supported browsers)
+Medium	725053900298948608	2016-04-26T20:08:15	“Mars gears up for its closest approach to Earth in over a decade” by StartsWithABang 
+Medium	725027292439830528	2016-04-26T18:22:31	“When Waiting for Data Is a Death Sentence” by anrao 
+Medium	725024593732214784	2016-04-26T18:11:48	felicelam Yep!
+Medium	725023291539382274	2016-04-26T18:06:37	JohnBirmingham Ihnatko But it is: 
+Medium	725021818353012737	2016-04-26T18:00:46	fdevillamil Gotcha, it is supported via the API, just not documented. See: 
+Medium	725020348748427264	2016-04-26T17:54:56	felicelam To display snippets of code in their correct format.
+Medium	725020117109723137	2016-04-26T17:54:00	ZenoPopovici That's what the tl;dr section is for.
+Medium	725019880601341953	2016-04-26T17:53:04	iceMagic what device are you using?
+Medium	725017992849846272	2016-04-26T17:45:34	fdevillamil What are you migrating from? We already support backdating from wordpress:  (other providers soon!)
+Medium	724994360748572672	2016-04-26T16:11:40	“I Too Have An Idea On How To Save The Media Once And For All” by youngvulgarian 
+Medium	724963813909401601	2016-04-26T14:10:17	“Things I learned working on Serial” by kthread 
+Medium	724797904666267648	2016-04-26T03:11:01	“I Censor My Queerness Around My Straight Friends” by myhairisblue 
+Medium	724770561633611777	2016-04-26T01:22:22	silviakillings Oh, it looks like your picture didn't show up right the first time. That fuzzy effect is a feature!
+Medium	724766479749513217	2016-04-26T01:06:08	silviakillings that looks like a bug. Where are you seeing it?
+Medium	724761540289695744	2016-04-26T00:46:31	manidesto CaseyNewton Cause if you put it at the beginning it kind of ruins the joke.
+Medium	724760445068808194	2016-04-26T00:42:10	Lemonade: Beyoncé’s latest viral epic. 
+Medium	724718137040494592	2016-04-25T21:54:03	“Your Media Business Will Not Be Saved” by Joshua Topolsky 
+Medium	724703313267036161	2016-04-25T20:55:08	SamuelHHoward Sorry, nope.
+Medium	724690447013019650	2016-04-25T20:04:01	“The Web isn’t uniform” by fox 
+Medium	724671985549119489	2016-04-25T18:50:39	CraigElimeliah there should be an edit button in the upper right-hand corner of your post.
+Medium	724665732324171777	2016-04-25T18:25:48	CraigElimeliah You can in the app.
+Medium	724657410703429632	2016-04-25T17:52:44	“This is our real Nepal Earthquake story from one year ago.” by amaiorana 
+Medium	724634522839470080	2016-04-25T16:21:47	“I Will Do Better By My Sisters” by nilegirl 
+Medium	724441953534877696	2016-04-25T03:36:35	“Jon Snow is dead.” — HBOPR  
+Medium	724330168492281856	2016-04-24T20:12:24	“Failure” by JohnDeVore 
+Medium	724024288966119424	2016-04-23T23:56:56	emilindricau mgsiegler can you try logging in via email and see if that helps? If that doesn't work, drop us a line: yourfriends@medium
+Medium	723921241980039169	2016-04-23T17:07:28	“I am Alex St. John’s Daughter, and He is Wrong About Women in Tech” by Amilia St. John 
+Medium	723708070505803776	2016-04-23T03:00:24	“Moon on Prince: He had more tools than just about anybody. Ever.” by moonjawn 
+Medium	723666572284297216	2016-04-23T00:15:30	“In Photos: Secretary Lew visits the Bureau of Engraving &amp; Printing” by USTreasury 
+Medium	723640719819214848	2016-04-22T22:32:46	“We Need to Do Something About Album Credits” by PaulCantor 
+Medium	723620159252893696	2016-04-22T21:11:04	“let’s work” by modernistwitch 
+Medium	723582736112345088	2016-04-22T18:42:22	“It’s Bigger than Flint” by Vien Truong 
+Medium	723540761958981633	2016-04-22T15:55:35	“The Future of Technology Is In Your Ear” by jondotli 
+Medium	723344056663740418	2016-04-22T02:53:56	When Doves Cry: Remembering Prince Rogers Nelson, 1958-2016. 
+Medium	723292644349087744	2016-04-21T23:29:39	Exciting things are happening here at Medium! 
+Medium	723275725424349185	2016-04-21T22:22:25	mlitman Did you try disconnecting in the settings?
+Medium	723270102397808640	2016-04-21T22:00:04	“The Fall of Flint” by MattBlack_Matt 
+Medium	723231584715837440	2016-04-21T19:27:01	“Put the Moon Landing on the Hundred” by ltthompso 
+Medium	723221730349608960	2016-04-21T18:47:51	ProductHunt stevesi but Apple doesn't accept emoji!
+Medium	723219716219629569	2016-04-21T18:39:51	Agilix_ There should be an edit button in the upper right.
+Medium	723216063865856001	2016-04-21T18:25:20	tommarmstrong not yet!
+Medium	723215815676284928	2016-04-21T18:24:21	skitandcaboodle We deprecated the ability to embed a story in a website.
+Medium	723201191119708161	2016-04-21T17:26:15	“Jared Leto And How Method Acting Can Go Horribly Wrong” by bybowes 
+Medium	723168245549654016	2016-04-21T15:15:20	“Passing in the Valley” by mhkt 
+Medium	722973634277433345	2016-04-21T02:22:01	“Ten Quick Thoughts About Pot” by davepell 
+Medium	722941035387625473	2016-04-21T00:12:29	“Don’t Look Now, But Twitter Has Momentum With The Youth” by garyvee 
+Medium	722938223803179008	2016-04-21T00:01:18	mathowie That would be so cool. We'll see what we can do!
+Medium	722937773527687168	2016-04-20T23:59:31	beantownKMD You can DM us your q and we'll get an answer!
+Medium	722907950809894914	2016-04-20T22:01:01	“9x9 Pixels, The World’s Smallest Website(s)” by daniel_eckler 
+Medium	722903252526759939	2016-04-20T21:42:20	A huge thank you to mathowie for bringing some much-needed clarity to our release notes! 
+Medium	722877525735571457	2016-04-20T20:00:07	“Google image search is the true search” by Paul Ford 
+Medium	722852789769011200	2016-04-20T18:21:49	“Bill” by bhorowitz 
+Medium	722849701238870016	2016-04-20T18:09:33	ocexplore of course!
+Medium	722849022830968832	2016-04-20T18:06:51	roxalox88 Still having this issue? If so, try copy/pasting your text into a new draft.
+Medium	722831347820015618	2016-04-20T16:56:37	“Not Buying It” by mgsiegler 
+Medium	722571039222312960	2016-04-19T23:42:15	SonyRumors bloggers@medium.com
+Medium	722564437396205568	2016-04-19T23:16:01	“The Psychology of Climate Change Inaction” by sciencenathan 
+Medium	722563046707572737	2016-04-19T23:10:29	MattPRD mljungblad Yeah, that is a good workaround.
+Medium	722559610964447232	2016-04-19T22:56:50	MattPRD mljungblad They don't. It won't even allow you to send it.
+Medium	722558742689030144	2016-04-19T22:53:23	amuse The Instagrams should show up, they might take a few to load.
+Medium	722557884555403264	2016-04-19T22:49:58	amuse This is a bug, you are seeing the cached version but everyone else is seeing the updated one.
+Medium	722545355263385601	2016-04-19T22:00:11	ScottSandalow email us at brands@medium.com
+Medium	722544394314731521	2016-04-19T21:56:22	MattPRD You can just request his story by clicking on the three dots. Once he accepts you will be able to add it to your pub. mljungblad
+Medium	722538202402131968	2016-04-19T21:31:46	anniefryman Try rescraping it: 
+Medium	722537953835094016	2016-04-19T21:30:46	JonSalterUK Go back to the piece it is in and click the highlight again.
+Medium	722528771153141760	2016-04-19T20:54:17	“The Internet Really Has Changed Everything. Here’s the Proof.” by fimoculous 
+Medium	722496919864418304	2016-04-19T18:47:43	Medium is blocked in China 
+Medium	722495469251788800	2016-04-19T18:41:57	JonSalterUK Like a highlight that you have made?
+Medium	722490018875375616	2016-04-19T18:20:18	“The Next 100 Years of American Conservation” by Interior 
+Medium	722486163970195456	2016-04-19T18:04:59	bhyphen Sorry about that! We will be building a bulk deletion tool in the near future.
+Medium	722477215062040576	2016-04-19T17:29:25	hailleymari Sorry, we don't have this feature.
+Medium	722456677253906432	2016-04-19T16:07:49	“Fentanyl: The Drug That’s Ravaging Sacramento” by MadeleineTwnsnd 
+Medium	722323596794658818	2016-04-19T07:19:00	““Bot” is a hilariously over-simplified buzzword. Let’s fix that.” by mg 
+Medium	722171029343309825	2016-04-18T21:12:45	leemfrank Thanks for the suggestion! We'll let the team know.
+Medium	722169790341652481	2016-04-18T21:07:49	“The Model 3 and the Future of Cars” by nmoryl 
+Medium	722162976816566272	2016-04-18T20:40:45	leemfrank Ah, no we don't support it.
+Medium	722134632477564929	2016-04-18T18:48:07	gauravmc not at the moment but cool idea!
+Medium	722123759906258944	2016-04-18T18:04:55	meetmicah Did you unfollow mediumstaff?
+Medium	722123436986765313	2016-04-18T18:03:38	leemfrank Not sure what that is?
+Medium	722115328625369088	2016-04-18T17:31:25	“Unsolicited Advice for My Three Sons, In No Particular Order” by Rufus Griscom 
+Medium	722077735510618113	2016-04-18T15:02:02	“On Feeling Weird About Tesla” by hankgreen 
+Medium	721417631635546112	2016-04-16T19:19:01	“Without Kobe Bryant, There Is No Derek Fisher” by derekfisher 
+Medium	721354969027186688	2016-04-16T15:10:01	“The tool isn’t the problem: It’s not Slack. It’s you” by JoryMacKay 
+Medium	721201960104230914	2016-04-16T05:02:01	“Sometimes normal is messed up” by Heather_Poole 
+Medium	721156168463200258	2016-04-16T02:00:03	“How to Sleep Next To Someone With PTSD” by myhairisblue 
+Medium	721122939815350273	2016-04-15T23:48:01	JAPak Where?
+Medium	721122466949500928	2016-04-15T23:46:08	mxsawyer ev Nudity is allowed as long as it's not porn. 
+Medium	721121868686561280	2016-04-15T23:43:45	ChiefScientist There isn't a way to do this at the moment. You can feature posts though!
+Medium	721104317294317568	2016-04-15T22:34:01	“Turning Maslow’s Hierarchy on Its Head” by patricemrtn 
+Medium	721084723070574593	2016-04-15T21:16:09	tributaries_ Sorry, nope.
+Medium	721080118257410049	2016-04-15T20:57:51	“Inside Last Night’s NYC Trump Protest” by notabbynormal 
+Medium	721073674443481089	2016-04-15T20:32:15	SaneeshSukumar could be a browser extension that is causing this.
+Medium	721044084941549571	2016-04-15T18:34:40	SaneeshSukumar We haven't had any other reports of this. Try in an incognito window and see if you get the same thing?
+Medium	721034615792672768	2016-04-15T17:57:03	“The Minecraft comic that almost was” by necrosofty 
+Medium	721000487747604480	2016-04-15T15:41:26	“Unintuitive Things I’ve Learned about Management (Part 2)” by joulee 
+Medium	720764326731075584	2016-04-15T00:03:01	“Why Hillary Clinton Thrills the Hell Out of Me” by AmericaFerrera 
+Medium	720761189811138560	2016-04-14T23:50:33	michellegreer It's algorithmic. In this particular case it's because someone you follow recommended it.
+Medium	720756135964356609	2016-04-14T23:30:28	buzzb0x We hope to offer it soon!
+Medium	720734378868019201	2016-04-14T22:04:01	“Are We In It For The Likes?” by guster 
+Medium	720718255766183936	2016-04-14T20:59:57	Qaidj not yet!
+Medium	720713511916191745	2016-04-14T20:41:06	martinhuegli ev right click&gt;copy image, switch to draft, paste image.
+Medium	720706445201817601	2016-04-14T20:13:01	“No-kCupid” by JENocracy 
+Medium	720679791796580352	2016-04-14T18:27:06	samjturner 
+Medium	720679562963775488	2016-04-14T18:26:12	DimitrisTzouris On web? If you scroll down just a hair and back up it will pop up a metabar with a bookmark button.
+Medium	720671180777086976	2016-04-14T17:52:53	natekontny Not filtered by a tag, nope.
+Medium	720671023574573056	2016-04-14T17:52:16	“Is there a way to defeat Boko Haram?” by Joshua Hammer 
+Medium	720618782343897089	2016-04-14T14:24:40	“Life on the Human/Bot Continuum” by katelosse 
+Medium	720371236631502849	2016-04-13T22:01:01	“Instagram Is Ruining Vacation” by marypilon 
+Medium	720346942102904832	2016-04-13T20:24:29	irekthetester Thanks for the feedback!
+Medium	720341038401867776	2016-04-13T20:01:01	“Game of Thrones: The Real War is Here” by rejects 
+Medium	720313272679829504	2016-04-13T18:10:41	vishnugopal Did you send it to yourfriends@medium.com?
+Medium	720304965076410368	2016-04-13T17:37:40	“Welcome to the Dead Dad Club” by alohaj9 
+Medium	720274745447460866	2016-04-13T15:37:36	“The Reports of My Death Were Greatly Exaggerated ” by Zack Kaplan 
+Medium	720050340473675776	2016-04-13T00:45:53	“How Facebook is slowly eating the rest of the Internet” by washingtonpost 
+Medium	720031252812685312	2016-04-12T23:30:02	awelfle Yep! www
+Medium	720026783597273088	2016-04-12T23:12:17	awelfle Scroll down just a bit, then back up and a metabar will pop up with the bookmark button.
+Medium	720018819113029632	2016-04-12T22:40:38	“The 1996 Article Every Millennial Should Read” by savannah_lb 
+Medium	719996282828271617	2016-04-12T21:11:05	tplusrex This is a bug that should be fixed soon!
+Medium	719993749506371584	2016-04-12T21:01:01	“Why I’m Sick of Political Correctness*” by Hipstercrite 
+Medium	719959674578075648	2016-04-12T18:45:37	alexlafroscia Good feedback!
+Medium	719948719160844288	2016-04-12T18:02:05	javs_says It seems to be working fine. What happens when you try to download it?
+Medium	719947173178179584	2016-04-12T17:55:56	“My addiction to Twitter parody accounts” by hassanisms 
+Medium	719945510153531392	2016-04-12T17:49:20	alexlafroscia Go to your "drafts" and swipe left on any of them to share or get the link.
+Medium	719918069582200832	2016-04-12T16:00:17	“I wrote an essay about working overnights.” by PeterNickeas 
+Medium	719686977499455488	2016-04-12T00:42:01	“IN (PRAISE OF) PROCESS” by colbay 
+Medium	719671749185417216	2016-04-11T23:41:30	maitre_app Did you use yourfriends@medium.com?
+Medium	719671663407800320	2016-04-11T23:41:10	wrossmck Possibly! We'll ask our iOS devs.
+Medium	719671132140339200	2016-04-11T23:39:03	alphahw Not at the moment! Consider it requested.
+Medium	718516250310283266	2016-04-08T19:09:58	“Typos, mutability, and the world’s worst coat check” — tyler_hedrick  
+Medium	719631128584282112	2016-04-11T21:00:05	“The Many Faces of Pho” by Barbara Adam 
+Medium	719600406536409088	2016-04-11T18:58:01	“GoPro Isn’t Doomed Yet” by mhkt 
+Medium	719599505591566336	2016-04-11T18:54:26	nna_lee benhammer_ No update!
+Medium	719574512254095360	2016-04-11T17:15:07	“Should I Have Kids?” by amycao 
+Medium	719534474002767873	2016-04-11T14:36:01	“Why I love ugly, messy interfaces — and you probably do too” by jonasdowney 
+Medium	719503519359721472	2016-04-11T12:33:01	“The Elevation Economy” by umairh 
+Medium	719205154508001280	2016-04-10T16:47:25	“Angry Facebook Live is the New Angry Twitter” by jeffjarvis 
+Medium	718578535124709376	2016-04-08T23:17:27	“The Las Vegas Nightlife Explosion… of the 1950s” by Janis McKay 
+Medium	718559647800537089	2016-04-08T22:02:24	AnnoGalactic You can do this on the web by hitting shift-return. (not available on iOS)
+Medium	718554399065243648	2016-04-08T21:41:33	“How To Survive Parties Where You Don’t Know Anyone” by Femsplain 
+Medium	718534188052254721	2016-04-08T20:21:14	thegrumpygirl Ah gotcha. Sorry not a way to do that.
+Medium	718531477378478081	2016-04-08T20:10:28	TheGospelArmy send us an email to yourfriends@medium.com
+Medium	718528948611616769	2016-04-08T20:00:25	“Never the ‘Pretty Girl’” by Chillyn555 
+Medium	718508359104618497	2016-04-08T18:38:36	thegrumpygirl Until you hit the publish button everything is private. You can also publish "unlisted" which means you need the URL to see.
+Medium	718482904800579584	2016-04-08T16:57:27	“Designers at the Gates of Hell” by buckhouse 
+Medium	718452167317716992	2016-04-08T14:55:19	“The Weird Redemption of SF’s Most Reviled Tech Bro” by laurensmiley 
+Medium	718187788315836416	2016-04-07T21:24:46	“My Brother, the Unabomber” by MichaelaHaas 
+Medium	718179267817779200	2016-04-07T20:50:55	ksarrel On it! Thank you.
+Medium	718179127992262656	2016-04-07T20:50:21	osvaldouribe Fixed!
+Medium	718150125869264897	2016-04-07T18:55:07	AustinDetails thDigitalReader ElectricLit You can export all your posts under your user account. We hope to have publication export soon!
+Medium	718138209054527488	2016-04-07T18:07:46	today i realized medium is the singular of media. well. goodbye
+Medium	718141585704112128	2016-04-07T18:21:11	morphixstudio Right now!
+Medium	718141463066873856	2016-04-07T18:20:41	MikkelWinther They just went live (for everyone)!
+Medium	718140954364944385	2016-04-07T18:18:40	trayNTP Hit the "Tt" button
+Medium	718140507910643712	2016-04-07T18:16:54	itstheannmarie This sounds like a question for thebolditalic
+Medium	718139476401373184	2016-04-07T18:12:48	Our custom publication and migration tools are now live for everyone! Go forth and customize. 
+Medium	718138332606177281	2016-04-07T18:08:15	aaronjayledesma They will be out later today!
+Medium	718131604749697024	2016-04-07T17:41:31	dudemesticated It is indeed! Any minute now.
+Medium	718091568624697345	2016-04-07T15:02:26	“The Live-Streaming Paradox: 6 Pitfalls Blocking Network Effects” by cplimon 
+Medium	717861595418759168	2016-04-06T23:48:36	“I Visited San Francisco’s Worst-Rated Yelp Restaurants and Got Food Poisoning” by Hana Nobel 
+Medium	717834278407512064	2016-04-06T22:00:03	“The Bread Of Our Dreams” by theyearofelan 
+Medium	717822523455496192	2016-04-06T21:13:20	gurubit17 It's on the list but no timeframe yet!
+Medium	717812905035440128	2016-04-06T20:35:07	gurubit17 There isn't. You can connect Twitter to your individual accounts but that is it.
+Medium	717811118836740096	2016-04-06T20:28:01	gurubit17 But there will be a "thanks to" section at the bottom for the editor.
+Medium	717810965404778496	2016-04-06T20:27:25	gurubit17 No to both questions
+Medium	717809604927696898	2016-04-06T20:22:00	Vanessa_Enn How about in a Chrome incognito window? You might have an extension that is interfering.
+Medium	717804514049400833	2016-04-06T20:01:46	johnbattelle Sorry, they don't include images.
+Medium	717804389507997696	2016-04-06T20:01:17	gurubit17 One of you will need to be the owner, the other can be an editor and you will both be able to edit posts.
+Medium	717789778780037121	2016-04-06T19:03:13	keaton_taylor There isn't. You could add a dual byline manually (and @ mention the other author)
+Medium	717789200792162304	2016-04-06T19:00:56	marcymassura Sorry about the confusion! We'll have someone reach out to you ASAP.
+Medium	717761452438753280	2016-04-06T17:10:40	“Saving Coral Reefs Is Harder Than We Think” by Nathan Collins 
+Medium	717713529021661187	2016-04-06T14:00:14	“5 Castles That Are Cheaper Than An Apartment In San Francisco” by UpOutSF 
+Medium	717532531185303552	2016-04-06T02:01:01	“Techies: A Study of Silicon Valley” by helena 
+Medium	717501828909301760	2016-04-05T23:59:01	“Trump Vs. Sanders: Political Careers Compared 1959–2016” by BrokeAssStuart 
+Medium	717501662139559936	2016-04-05T23:58:21	evanwallace It should work but animated gifs have been on the fritz lately.  Are you making this one yourself?
+Medium	717500939943481344	2016-04-05T23:55:29	krjepsen You bet!
+Medium	717497097583329280	2016-04-05T23:40:13	krjepsen Because of how the editor is built. Each paragraph is its own cell. It's difficult to fix and a lowpri since it's a small use case
+Medium	717478172560855040	2016-04-05T22:25:01	“How Tech is Ruining Dating” by deutsch85 
+Medium	717451793907625985	2016-04-05T20:40:11	lucasbuick Potentially!
+Medium	717450092140056576	2016-04-05T20:33:26	“The 10 Best Things Gluten Free People Can’t Eat” by houseofstang 
+Medium	717449980773007361	2016-04-05T20:32:59	PanRysownik What display resolution are you using? Sounds like it's cutting off the rest (pub names need to be 8 chars and 2 words)
+Medium	717449540081754116	2016-04-05T20:31:14	dylanmaustin It's good feedback, we'll make sure our iOS team knows.
+Medium	717448933929168896	2016-04-05T20:28:50	drcab1e Awl Snippets only for the next couple days: 
+Medium	717429683344637952	2016-04-05T19:12:20	dylanmaustin but it would be very difficult to fix.
+Medium	717429543842107393	2016-04-05T19:11:47	dylanmaustin It's because of how our editor is implemented (each paragraph is a separate cell). It's not necessarily intentional.
+Medium	717428778062843904	2016-04-05T19:08:44	sproutworx Later this week!
+Medium	717427835854389249	2016-04-05T19:04:59	krjepsen On web you can easily copy out the text and paste it elsewhere.
+Medium	717427152401145856	2016-04-05T19:02:16	drcab1e Awl Eventually! Publishers will be able to offer a full feed or snippets in the very near future.
+Medium	717423969058496512	2016-04-05T18:49:37	tylermenezes We will be launching a bulk migration tool later this week. (it will only import posts into a publication though)
+Medium	717418145166655488	2016-04-05T18:26:29	profcarroll absolutely.
+Medium	717417945899479040	2016-04-05T18:25:41	Introducing Context: A publication that will help brands get the most out of Medium. 
+Medium	717403665460387840	2016-04-05T17:28:57	“What Was Lost in the Kunduz Hospital Attack” by MSF_USA 
+Medium	717348580411838464	2016-04-05T13:50:03	“Making Medium More Powerful for Publishers” by Medium 
+Medium	717155617270444033	2016-04-05T01:03:17	“My 10 Favorite Wrestlemania Matches” by Elliot Imes 
+Medium	717137825691361282	2016-04-04T23:52:36	jamesvarnham Please email us at yourfriends@medium.com
+Medium	717109517742288897	2016-04-04T22:00:06	“What Happens When Corruption Is Systemic” by Joe Brewer 
+Medium	717085969380282369	2016-04-04T20:26:32	“When there is no template: Writing on Pixar’s Inside Out” by Storymeg 
+Medium	717082671336173568	2016-04-04T20:13:26	Neej_Patel iOS? Android? What version are you using?
+Medium	717081894639243266	2016-04-04T20:10:21	Very_Heather We hear you. We'll share this with the team.
+Medium	717051170217336832	2016-04-04T18:08:15	“The Future is Without Apps” by Dovizu 
+Medium	717017036954546181	2016-04-04T15:52:37	“Buy All Your Furniture at Target, For Tomorrow We Die” by Catherine Baab-Muguira 
+Medium	716808560223453184	2016-04-04T02:04:13	“The Quiet Death of British Satire” by millsandboom 
+Medium	716704981831671808	2016-04-03T19:12:38	“Finding purpose in the loss of our son” by jmover 
+Medium	716682361593696256	2016-04-03T17:42:44	“Museum Logos: Drawing The Line” by FimJishwick 
+Medium	716344552882196480	2016-04-02T19:20:25	“The best!” by evany 
+Medium	716030932621205506	2016-04-01T22:34:12	flexRonin Unfortunately you can't merge them. Email us at yourfriends@medium and we can help you get it worked out!
+Medium	716002807166410753	2016-04-01T20:42:26	“Laughter Doesn’t Scale” by ftrain 
+Medium	715978984677314560	2016-04-01T19:07:46	Well it looks like the Medium release notes team is HEY WHAT THE HELL IS GOING ON HERE 
+Medium	715966816011624448	2016-04-01T18:19:25	“How to get caught in an avalanche” by AaronTeasdale 
+Medium	715915886545084416	2016-04-01T14:57:03	“The Tesla Model 3 Event, in GIFs.” by ProductHunt 
+Medium	715699699068448769	2016-04-01T00:37:59	“The Cashier Who Sniffed My Soap?” by Tremaine L. Loadholt 
+Medium	715609633243602944	2016-03-31T18:40:06	“Can a Dress Shirt Be Racist?” by moisesvm 
+Medium	715555755668017152	2016-03-31T15:06:01	“The Dating Advice That Changed Me” by lindseyjoy09 
+Medium	715274611798183937	2016-03-30T20:28:51	sholtaway Sounds like it could have been a caching bug.
+Medium	715274498090487808	2016-03-30T20:28:24	cdiddy42 We are introducing human curated collections (Already available in the app and coming soon to web)
+Medium	715274339629674497	2016-03-30T20:27:46	cdiddy42 We try to Tweet a wide variety of articles. Top stories on the site are computed algorithmically.
+Medium	715273747956039680	2016-03-30T20:25:25	StefanW buffer Interesting. We'll raise it with the team.
+Medium	715270942977445888	2016-03-30T20:14:16	“Twitter Might Be The Most-Advertised Company In History — And They’re Still F**king It Up” by fart 
+Medium	715247164675399682	2016-03-30T18:39:47	StefanW It would indeed! We hope to have that built soon.
+Medium	715246195631865856	2016-03-30T18:35:56	Koalemos MediumEng latest version?
+Medium	715245392753897473	2016-03-30T18:32:44	@ManUvSteal easiest way is to click on the last tab and then "bookmarks"
+Medium	715244802174902272	2016-03-30T18:30:24	sholtaway You shouldn't. Can you send screenshots to yourfriends@medium.com?
+Medium	715243848922824705	2016-03-30T18:26:36	“Four Years Ago Today, I Fell Out of Bed” by elizejackson 
+Medium	715203115192942592	2016-03-30T15:44:45	“On your concern for your fat friend’s health.” by yrfatfriend 
+Medium	715010666944270337	2016-03-30T03:00:01	“When Mobile Phone Ads Were Fun And Not Just So Boring My God” by AmandaRosenberg 
+Medium	714964455197708288	2016-03-29T23:56:24	“Here are the Top Tech Companies’ Secrets to Hiring the Best People” by sarahcpr 
+Medium	714957425074241536	2016-03-29T23:28:28	TDFarrell send us an email to yourfriends@medium.com
+Medium	714935175021395968	2016-03-29T22:00:03	“What Happened To My Friend Roger?” by OGpenn 
+Medium	714934212382556160	2016-03-29T21:56:13	ebonstorm Facebook fb_engineering what is the link you are trying to paste?
+Medium	714911632661487616	2016-03-29T20:26:30	“I work for a newspaper, and my job is to tell people the story of what’s going on in the world” by PRyanPaulsen 
+Medium	714890136224460800	2016-03-29T19:01:05	MJB21777 It just edits the original post.
+Medium	714889488061718528	2016-03-29T18:58:30	TruMog_ at the bottom of that email it says: "switch to the weekly email or unsubscribe" Click that.
+Medium	714884081075367936	2016-03-29T18:37:01	“The Waze Effect: AI &amp; The Public Commons” by John Battelle 
+Medium	714883279741198337	2016-03-29T18:33:50	unsplash You're the best. 😊
+Medium	714834538728464384	2016-03-29T15:20:09	Featured : Medium Highlights. A collection of photos used on   
+Medium	714880553560907776	2016-03-29T18:23:00	RobertSBoone yourfriends@medium.com
+Medium	714880125636980736	2016-03-29T18:21:18	hayhowrudoing ev Of course! Fiction is always welcome.
+Medium	714864242730532864	2016-03-29T17:18:11	“Requiem for a Debt Collector” by memefan2000 
+Medium	714786436906549248	2016-03-29T12:09:01	“What excites you?” by vanschneider 
+Medium	714636196937216000	2016-03-29T02:12:01	“When Kids + Screens = Happiness” by anya1anya 
+Medium	714598027831279616	2016-03-28T23:40:21	“The 20 Most Gripping Photo Essays On Prisons and Criminal Justice” by brookpete 
+Medium	714580977108922369	2016-03-28T22:32:35	“A Hacker’s Guide to Bending the Universe” by mwichary 
+Medium	714559173267103744	2016-03-28T21:05:57	AdamLaGreca Thanks! We do.
+Medium	714547892048961536	2016-03-28T20:21:07	WhatAnnoysMe 
+Medium	714542603161640960	2016-03-28T20:00:06	“How an Army of Ocean Farmers are Starting an Economic Revolution” by Bren Smith 
+Medium	714516111283191808	2016-03-28T18:14:50	“The Story of A Tribe Called Quest’s ‘The Low End Theory’” by Brian Coleman 
+Medium	714476104354914304	2016-03-28T15:35:52	“Last Letters: An emotional investigation about emails exchanged before death” by demori 
+Medium	713491392933199872	2016-03-25T22:22:58	“Garry Shandling: The ‘US’ Interview” by Tom O’Neill 
+Medium	713473011953704961	2016-03-25T21:09:56	dustin rrhoover ProductHunt we just call them mediums now.
+Medium	713454659483144193	2016-03-25T19:57:00	“Tay the racist Twitter bot should make us fear human nature, not A.I.” by washingtonpost 
+Medium	713424128020062208	2016-03-25T17:55:41	“How do you start to live your life at (nearly) 40?” by navalang 
+Medium	713398760856915969	2016-03-25T16:14:53	“It’s Garry Shandling’s Death That Stings” by debgalant 
+Medium	713165704774623233	2016-03-25T00:48:48	“Who Picks Up the Check in the Tinder-verse?” by caseyjohnston 
+Medium	713099694545604608	2016-03-24T20:26:30	jimcalliu ev 1) &amp; 2) reading history is already a feature in our app. (we haven't added it to the web yet)
+Medium	713093067545251840	2016-03-24T20:00:10	“How to Smuggle Money into North Korea” by OliverHotham 
+Medium	713083723084763136	2016-03-24T19:23:02	AnthonyQuintano Nope, it's been around for awhile. We're glad you like it!
+Medium	713082832302645248	2016-03-24T19:19:30	adamsigel follow us for a sec and we will DM you a link!
+Medium	713070316289933313	2016-03-24T18:29:46	TruMog_ We aren't sure what you mean. Can you tweet us a screenshot?
+Medium	713063805278769152	2016-03-24T18:03:53	adamsigel Would you accept payment in Medium t-shirts?
+Medium	713062576398008321	2016-03-24T17:59:00	“Those Entry-Level Startup Jobs? They’re Now Mostly Dead Ends in the Boondocks” by laurensmiley 
+Medium	713061246636007425	2016-03-24T17:53:43	TruMog_ All of our emails should have an "unsubscribe" link at the bottom.
+Medium	713058590450278400	2016-03-24T17:43:10	adamsigel Sounds like we owe you $10. 
+Medium	713032697635975168	2016-03-24T16:00:17	“The Whitest Man Who Ever Lived” by LilBillHaywood 
+Medium	713002484503937030	2016-03-24T14:00:13	“What You Need To Know About The Zubik v. Burwell Case” by notabbynormal 
+Medium	712972258306863104	2016-03-24T12:00:07	“Rey is a Palpatine” by TheFoodLab 
+Medium	712795485296144384	2016-03-24T00:17:41	We’re looking for a versatile, experienced marketer to help with publisher development. 
+Medium	712759213869510657	2016-03-23T21:53:33	“How a TV Sitcom Triggered the Downfall of Western Civilization” by David Hopkins 
+Medium	712730699111862272	2016-03-23T20:00:15	“James Deen: How Mainstream Media Got Its Favorite Porn Actor So Wrong” by ZakSmithSabbath 
+Medium	712723575552102402	2016-03-23T19:31:56	marsvesec GREAT idea!
+Medium	712720001531252736	2016-03-23T19:17:44	oSulleMani Sorry we have removed this option.
+Medium	712706861548474368	2016-03-23T18:25:31	fakepunju Agreed! We hope to have something for you soon.
+Medium	712706207408984064	2016-03-23T18:22:55	kmeyerTO stats are only presented in 30 day chunks atm. We are working on a new version! No API to do that yet.
+Medium	712705267008274432	2016-03-23T18:19:11	snumb130 not at this time. if you need syntax highlighting the best way is to embed a gist.
+Medium	712705093200699394	2016-03-23T18:18:30	objectivechad agreed! (the same person might or might not run this Twitter account)
+Medium	712704601351323648	2016-03-23T18:16:33	basgras There isn't. The only way would be to copy/paste into a new post.
+Medium	712699882847473664	2016-03-23T17:57:48	“Why I Am the Way I Am” by pauletteperhach 
+Medium	712672466775072770	2016-03-23T16:08:51	“I Met with Yezidi Victims of Terror in Iraq: Here’s What They Told Me” by Malinowski 
+Medium	712460106529517568	2016-03-23T02:05:00	“Is the NCAA Such a Brutal Organization? It’s Complicated” by GabbyReece 
+Medium	712432455383298049	2016-03-23T00:15:08	AmilDuverge That is why the tl;dr is there!
+Medium	712431764094849024	2016-03-23T00:12:23	happilycare send us an email to yourfriends@medium.com
+Medium	712428673085800450	2016-03-23T00:00:06	“On ‘boring’ Brussels and close calls” by tball 
+Medium	712423217806188544	2016-03-22T23:38:25	1Password sarthakgh CaseyNewton exactly! We 💚SlackHQ. They are like your smart friend that always has a good joke.
+Medium	712398493462081536	2016-03-22T22:00:11	“Humans of Silicon Valley” by EricaJoy 
+Medium	712397192015687681	2016-03-22T21:55:00	mfrank406 Good feedback thanks! We'll let the team know.
+Medium	712392390988804097	2016-03-22T21:35:56	cohix CaseyNewton Thanks for keeping us secure 1Password! We're huge fans.
+Medium	712390205638991872	2016-03-22T21:27:15	mrae19 We put in a tl;dr this time!
+Medium	712378451622146048	2016-03-22T20:40:32	snsmth Not quite yet but DM us your address and we will send you some when they come in.
+Medium	712377200763219968	2016-03-22T20:35:34	MustafaGeo not at the moment!
+Medium	712377011621203968	2016-03-22T20:34:49	mfrank406 Yes, we removed the ability to embed because it was expensive to maintain and usage was really low.
+Medium	712376848043216896	2016-03-22T20:34:10	pnowelldesign MediumEng Example?
+Medium	712367244265656320	2016-03-22T19:56:00	“When You’re At The Pool With All The Skinny Girls” by SashaBronner 
+Medium	712338919782621185	2016-03-22T18:03:27	“College Sports Are Corrupt. That Won’t Stop Me from Watching” by williamfleitch 
+Medium	712298518723973120	2016-03-22T15:22:55	“Middle School As Seen Through The Eyes Of A Teacher’s Cell Phone” by Alice Proujansky 
+Medium	712105519947722752	2016-03-22T02:36:00	“8 Days in North Korea” by etseng 
+Medium	712079120809656322	2016-03-22T00:51:06	We’re hiring a Head of Social Impact. 
+Medium	712066283668316160	2016-03-22T00:00:06	“For far too many, America’s legal system is about punishment, not justice” by ChrisCoons 
+Medium	712053558523199488	2016-03-21T23:09:32	maxestes Sorry, we don't support those yet.
+Medium	712022229584715776	2016-03-21T21:05:02	JudithStr Go to the tag page (ex: ) to unfollow. Tags are listed on your homepage.
+Medium	711991018636189696	2016-03-21T19:01:01	Today is World Poetry Day! Celebrate with us by turning your old emails into poems: 
+Medium	711990444763144192	2016-03-21T18:58:44	acityinohio seems to be working (albeit slowly). We don't handle large amounts of gifs well but we're working on it!
+Medium	711979090337669120	2016-03-21T18:13:37	girard_yann Sorry about that! Our top stories stat calculation got behind and it caught back up this morning.
+Medium	711975655429120002	2016-03-21T17:59:58	debryc Email us directly at yourfriends@medium.com
+Medium	711973044189724672	2016-03-21T17:49:36	orschiro Sorry, we do not.
+Medium	711971061647060992	2016-03-21T17:41:43	“Are You Being Exploited By March Madness?” by freedarko 
+Medium	711947765824131072	2016-03-21T16:09:09	“As We Become Cameras” by mhkt 
+Medium	711333181069201408	2016-03-19T23:27:00	“The Burning Mountain” by David Siglin 
+Medium	711300717324189696	2016-03-19T21:18:00	“Why Didn’t People Smile in Old Photos?” by lukemadethis 
+Medium	711245855328575489	2016-03-19T17:40:00	“Tracking down a cat GIF” by ftrain 
+Medium	710957391894843392	2016-03-18T22:33:45	“Stack Overflow’s developer survey analysis hurts women” by TessaHarmon 
+Medium	710899470360121344	2016-03-18T18:43:36	Lafi87 sorry?
+Medium	710899110182821888	2016-03-18T18:42:10	kolearyUX You can only dismiss stories in your stream, not at the bottom of posts.
+Medium	710897037152292865	2016-03-18T18:33:56	lvlierop we are revamping it as we speak. Send us an email to bloggers@medium.com if you would like to get beta group.
+Medium	710896656888176641	2016-03-18T18:32:25	julihermes Not at this time.
+Medium	710894286267506688	2016-03-18T18:23:00	“What Have They Been Smoking at Apple Music?” by StevenLevy 
+Medium	710884753201692672	2016-03-18T17:45:07	leodavesne We already have a ton of other languages! Which one were you thinking of? (but yes, feel free to write in any one you want)
+Medium	710882886182969345	2016-03-18T17:37:42	saurabh Android? 😜
+Medium	710882530631815173	2016-03-18T17:36:17	IamNateDavis good suggestion! we'll let the team know.
+Medium	710863748580265985	2016-03-18T16:21:39	“Who Is Startup L. Jackson?” by ryanlawler 
+Medium	710648166618501120	2016-03-18T02:05:00	“Dear Tech, You Suck at Delight” by sara_ann_marie 
+Medium	710616724475764737	2016-03-18T00:00:04	“The Story of the Story About a Troll” by DuneLawrence 
+Medium	710586761307525120	2016-03-17T22:01:00	“We Are All Flint” by ErinBrockovich 
+Medium	710574492993466369	2016-03-17T21:12:15	richburroughs What device?
+Medium	710574301146034176	2016-03-17T21:11:29	NAimprov Seems to be working for us.
+Medium	710572576381206528	2016-03-17T21:04:38	richburroughs latest version?
+Medium	710572455778062336	2016-03-17T21:04:09	jdjohnson After you make them green just hit the delete key.
+Medium	710561045849329664	2016-03-17T20:18:49	“Deep Learning Is Going to Teach Us All the Lesson of Our Lives” by 2noame 
+Medium	710532196319289344	2016-03-17T18:24:11	olivehoneybelle Make sure you are using Firefox, Safari, or Chrome. Our email is yourfriends@medium.com if you need additional help.
+Medium	710531113081556992	2016-03-17T18:19:53	“Interfaces over time” by ftrain 
+Medium	710506114312327168	2016-03-17T16:40:32	“Cheap Iced Tea: The Only Good Drink” by bafeldman 
+Medium	710479620622016512	2016-03-17T14:55:16	“Should Middle Class New Yorkers Apply For Affordable Housing?” by shorterstory 
+Medium	710254825292697600	2016-03-17T00:02:00	“Not a Black Chair” by amelielamont 
+Medium	710251818492813315	2016-03-16T23:50:04	cherryrae we do! Check your drafts folder.
+Medium	710251444448825344	2016-03-16T23:48:34	TaulantSulko That should work. Try another gif and see if you see the same thing?
+Medium	710232799219884032	2016-03-16T22:34:29	TaulantSulko How big is your gif?
+Medium	710229119489806336	2016-03-16T22:19:52	BaraLabs oh, and we still 💚 you too SlackHQ!
+Medium	710228701229625344	2016-03-16T22:18:12	SlackHQ Indeed they do! BaraLabs we try include a plain text summary for the more “high-concept” ones but we could be better about it.
+Medium	710220734996488192	2016-03-16T21:46:33	“I Took a Pill in Ibiza” by MikePosner 
+Medium	710195434992435200	2016-03-16T20:06:01	“Silicon Valley’s Unchecked Arrogance” by rossbaird 
+Medium	710175308721160192	2016-03-16T18:46:02	inababi we are working on adding a confirmation step right now. Until then, please go to  and click "leave pub"
+Medium	710162659178471424	2016-03-16T17:55:46	“What Happens When A Major Metro System Shuts Down Its Rail Service with Hours Notice?” chelseakiene Metroshutdown 
+Medium	710135765930348544	2016-03-16T16:08:54	“The Law is Clear: The FBI Cannot Make Apple Rewrite its OS” by scrawford 
+Medium	709941008717336578	2016-03-16T03:15:01	“Had Bernie been Bernadette — The heartbreaking truth about American patriarchy” by Lauren Besser 
+Medium	709892083180396544	2016-03-16T00:00:36	“Rent Control in San Francisco is a Golden Handcuff” by BrokeAssStuart 
+Medium	709891179131703296	2016-03-15T23:57:00	brandinginc We've deprecated embed links because no one was using them.
+Medium	709860591825854464	2016-03-15T21:55:28	Introducing collections: a brand new way to read Medium. 
+Medium	709859662682673152	2016-03-15T21:51:46	parasight thanks for letting us know! We'll get that fixed up.
+Medium	709859488996569088	2016-03-15T21:51:05	johnnyrodgersis This is a bug, we are working on it!
+Medium	709848830372671488	2016-03-15T21:08:44	Ms_Molinari That is a bug. We are working on it!
+Medium	709847584005758976	2016-03-15T21:03:47	sarahdoody You can. Just make sure your image is at least 2000 px.
+Medium	709836467367849984	2016-03-15T20:19:36	“Why I Have Not Endorsed Any Candidate” by Samaria Rice 
+Medium	709835582956900352	2016-03-15T20:16:05	gpenston 1Password Are you signed into Twitter on Mobile web?
+Medium	709809286965174272	2016-03-15T18:31:36	“It’s the fifth anniversary of the start of the Syrian conflict. How did we get here?” by washingtonpost 
+Medium	709771523289010176	2016-03-15T16:01:32	“Donald Trump and the politics of nostalgia” by Eric Fershtman 
+Medium	709574848834617345	2016-03-15T03:00:01	“Why the Tech Industry Shuns America’s Gun Problem” by scottros 
+Medium	709544897305423872	2016-03-15T01:01:00	“The Life and Death of Clippy” by ftrain 
+Medium	709518787268087810	2016-03-14T23:17:15	“A Picture is Worth a Thousand Trolls Or, How We Got Here” by davepell 
+Medium	709495261358219266	2016-03-14T21:43:46	whileseated Sorry, there is not.
+Medium	709483012744810496	2016-03-14T20:55:06	davepell Well, the “Dave published” klaxon has been broken for like two weeks. We got someone coming in to look at it today.
+Medium	709482192770969601	2016-03-14T20:51:50	lukefretwell Glad you figured it out. That is good feedback too. Thanks!
+Medium	709480784873316352	2016-03-14T20:46:15	davepell No link? Really gonna make us work for it huh? 😉
+Medium	709473243539894273	2016-03-14T20:16:17	lukefretwell Odd, that should be fine. Try starting over?
+Medium	709469174385356800	2016-03-14T20:00:07	“Pluto’s Color Variations Finally Make Sense” by StartsWithABang 
+Medium	709443078319443968	2016-03-14T18:16:25	“Cold Peace between Iran and Saudi Arabia?” by realZalmayMK 
+Medium	709404044247244800	2016-03-14T15:41:18	“Florida Man Goes Undercover at a Trump Rally” by BindingWave 
+Medium	709169271767609345	2016-03-14T00:08:24	“Why You Cannot Find “The One”” by hisern 
+Medium	709136148652810241	2016-03-13T21:56:47	“Donald Trump and the politics of nostalgia” by Eric Fershtman 
+Medium	708781366284910592	2016-03-12T22:27:00	“The Story Behind this Remarkable Photo of a Reef Shark Parting a School of Fish” by 500px 
+Medium	708411782365315072	2016-03-11T21:58:25	PedroPURocha open it on mobile web and there will be a button at the top to open in app.
+Medium	708411560838844417	2016-03-11T21:57:32	seanvosler yes, it wasn't really being used and it was expensive to maintain.
+Medium	708410791335034880	2016-03-11T21:54:28	igamebank Good to know!
+Medium	708409907171594240	2016-03-11T21:50:58	VarunJuice We can't repro. What browser?
+Medium	708397336087629824	2016-03-11T21:01:00	“Why Are We Fighting the Crypto Wars Again?” by StevenLevy 
+Medium	708369386915037184	2016-03-11T19:09:57	ddt email us at yourfriends@medium.com
+Medium	708368463291490304	2016-03-11T19:06:17	“My Interview Without Louis C.K.” by iamtedwilson 
+Medium	708367370423640064	2016-03-11T19:01:56	ngszehin Using the post scheduler? That can't back date. Our import tool can, or just email us at bloggers@medium and we can import it all!
+Medium	708363527703007232	2016-03-11T18:46:40	igamebank Thanks for the feedback! Keep in mind you can turn off notifications for you if they aren't valuable.
+Medium	708362317684027392	2016-03-11T18:41:51	VarunJuice Link?
+Medium	708361275483381762	2016-03-11T18:37:43	ddt Is that the web or are you on a mobile device?
+Medium	708353748251385856	2016-03-11T18:07:48	ddt You should just have to click "show more" to show responses outside your network. (Responses in your network will be auto-displayed)
+Medium	708345359437684736	2016-03-11T17:34:28	“Product Hunt’s Rise” by Ben Gelsey 
+Medium	708097651187781632	2016-03-11T01:10:10	“NYC, an insiders behind-the-scenes guide to neighborhoods, fashion, food, people, and SEO strat” by yurivictor 
+Medium	708062916923277313	2016-03-10T22:52:09	“Our worth is more than our work.” by sshope 
+Medium	708021559890460672	2016-03-10T20:07:48	Did you know we have an instagram now? We’re sharing the top highlighted posts of the day.  
+Medium	708003176620888064	2016-03-10T18:54:46	“Why Saving Banksy Means Saving Yourself” by DavidChoe 
+Medium	707974326075662340	2016-03-10T17:00:07	“Open letter to the tech bro who spat at me, from that pigeon eating a noodle on Market Street” by tharkibo 
+Medium	707914152711327745	2016-03-10T13:01:01	“For All Our Friends Who Died Way Too Young” by BrokeAssStuart 
+Medium	707738513538678784	2016-03-10T01:23:05	stellabelle This looks like a bug. We will investigate.
+Medium	707732720202309632	2016-03-10T01:00:04	“There is the South. Then, there is Mississippi.” by Deon T. Jones 
+Medium	707702530302586882	2016-03-09T23:00:06	“How to be a Widow Part 1” by gen_mueller 
+Medium	707686113423466500	2016-03-09T21:54:52	We’re having a live Town Hall discussion about police accountability on Medium right now! Respond here to join: 
+Medium	707676281241001984	2016-03-09T21:15:48	oleharland Not yet!
+Medium	707675807771172866	2016-03-09T21:13:55	mylokaye That is a feature. "Select all" is referring to the paragraph. (While select is referring to a word).
+Medium	707656849600843776	2016-03-09T19:58:35	GuilhermeVareta Not yet! (but hopefully soon)
+Medium	707653437614206976	2016-03-09T19:45:01	“Augmented reality is letting surgeons cut out and replace body parts like puzzle pieces” by Jane_Gayduk 
+Medium	707647426815877120	2016-03-09T19:21:08	austinmann We are investigating right now. We should have this fixed up soon!
+Medium	707645067092099072	2016-03-09T19:11:46	JonCleave You can still swipe on stories in your home stream on the app.
+Medium	707622722365329408	2016-03-09T17:42:58	Our digital town hall meeting on criminal justice reform kicks off today at 10 am PST! 
+Medium	707607009219055616	2016-03-09T16:40:32	“The UnDemocratic Democratic Primary” by Matt Rhoades 
+Medium	707379169169002496	2016-03-09T01:35:11	“Why I’m Returning to My Maiden Name” by emilyolson 
+Medium	707337817706340352	2016-03-08T22:50:52	eviloars Doesn't look like it's possible. Just download it and embed it manually.
+Medium	707336892954480641	2016-03-08T22:47:11	“Monday Night Risotto” by chazhutton 
+Medium	707279429462929408	2016-03-08T18:58:51	“Maybe We Should Start Diverting Social Security to Millennials” by shorterstory 
+Medium	707274407471763456	2016-03-08T18:38:53	guigraz It should work. Make sure you are using the URL and not the embed code.
+Medium	707274040961069057	2016-03-08T18:37:26	ericwbailey Is this still happening? Copy your changes somewhere safe and restart your browser.
+Medium	707272893340602368	2016-03-08T18:32:52	Sean_urphy We did. Sorry about that.
+Medium	707264913798901760	2016-03-08T18:01:10	“Would you rather be managed or be led?” By rands 
+Medium	707224860515172358	2016-03-08T15:22:01	“I’m a Conservative Who Supports Bernie Sanders. Here’s Why.” by BrokeAssStuart 
+Medium	707189154510036992	2016-03-08T13:00:08	“She’s 22, from rural Zimbabwe, and a mogul in the making” by Kiva 
+Medium	707129985123950592	2016-03-08T09:05:00	“Sophie L. — A Life in Five Moves” LeslieBerlinSV 
+Medium	707038143585787904	2016-03-08T03:00:04	“The 3 Wine Studies That Changed My Life” by MikeWP318 
+Medium	706995468375433216	2016-03-08T00:10:29	“The Logic of the Police State” by mharwood31 
+Medium	706981002711707649	2016-03-07T23:13:00	“Why your phone’s security is unlike any other” by blakeross 
+Medium	706947561249071104	2016-03-07T21:00:07	“The ‘Third World’ Is Not Your Classroom” by courtwrites 
+Medium	706936021942833152	2016-03-07T20:14:16	surlyshirley Yes. 
+Medium	706934584483512320	2016-03-07T20:08:33	ev 8BIT we've got this.
+Medium	706932321736200192	2016-03-07T19:59:34	unicoderainbows Should be ok, let us know if it continues not to update.
+Medium	706931334346715136	2016-03-07T19:55:38	bclund Sure is!
+Medium	706912447156760576	2016-03-07T18:40:35	“No one ever accused Joe Donovan of killing anyone, but he was convicted of murder nonetheless” by BINJreports 
+Medium	706889777241411584	2016-03-07T17:10:30	“What it’s like to be that fat person sitting next to you on the plane.” by Your Fat Friend 
+Medium	706536324338028545	2016-03-06T17:46:01	“In Photos: The Florida Jail that Doubles as an Exotic Animal Zoo” by kimraffphoto 
+Medium	705887024528678913	2016-03-04T22:45:56	“The First of the Gang to Die” by mgsiegler 
+Medium	705883903807102976	2016-03-04T22:33:32	dirosaur Nope, send us an email to yourfriends@medium.com and we can change it.
+Medium	705874755082031104	2016-03-04T21:57:10	djdewitt We've supported gifs since day one.
+Medium	705836210523021312	2016-03-04T19:24:01	“I Ride a 9-Hour Overnight Bus to See My Husband in Prison” by Everyday Incarceration 
+Medium	705813918673870848	2016-03-04T17:55:26	“Writing Tips to Spare You a Little Agony” by penguinrandom 
+Medium	705783624499486720	2016-03-04T15:55:03	“And now, the news. Or maybe not.” by Leah Todd 
+Medium	705626074932056064	2016-03-04T05:29:00	mowestudio Totally up to you.
+Medium	705625966324781056	2016-03-04T05:28:34	SanJoseFoodBlog Nope, totally up to you.
+Medium	705568847089180672	2016-03-04T01:41:36	We’re looking for bloggers to test some new features. Have a blog you would like to move to Medium? Let's talk. 
+Medium	705522783925592065	2016-03-03T22:38:34	alHiboux They might be a little delayed but will update soon.
+Medium	705522237793632256	2016-03-03T22:36:24	@Valley_Films We'll have a postmortem up soon here: 
+Medium	705507012776333313	2016-03-03T21:35:54	jgundy85 Sorry, it's no longer available.
+Medium	705506923148218368	2016-03-03T21:35:32	WillRussellMktg Send us an email to yourfriends@medium.com and we will investigate.
+Medium	705504640079568896	2016-03-03T21:26:28	alHiboux we were but it should be good now.
+Medium	705503958094073856	2016-03-03T21:23:45	We are back up and running. Thanks for your patience!
+Medium	705502511180812288	2016-03-03T21:18:00	We're looking for a Business/Tech Editor to join our NYC team! 
+Medium	705496994622476289	2016-03-03T20:56:05	Today Medium filed a brief with other web companies in support of Apple. AppleVsFBI 
+Medium	705490537030115328	2016-03-03T20:30:26	juhaliikala We are. We'll be back soon!
+Medium	705490314694254592	2016-03-03T20:29:33	813594 We are. We'll be back soon!
+Medium	705490096020025344	2016-03-03T20:28:40	Kallizm jessemaan 😊
+Medium	705489105598033920	2016-03-03T20:24:44	daninko soon.
+Medium	705489050329677825	2016-03-03T20:24:31	Haje We'll be back soon!
+Medium	705489018834694144	2016-03-03T20:24:24	emiliaf We'll be back soon!
+Medium	705488975268593664	2016-03-03T20:24:13	peterychuang We'll be back soon!
+Medium	705487515394793472	2016-03-03T20:18:25	Kallizm jessemaan We'll be back soon!
+Medium	705486432660488192	2016-03-03T20:14:07	MKutney Bear with us, we'll be back soon!
+Medium	705481874643095552	2016-03-03T19:56:00	geekbabel meyerweb We will be back momentarily!
+Medium	705479432287309824	2016-03-03T19:46:18	AlexanderHaque We are currently down. We'll be back soon!
+Medium	705479348799680512	2016-03-03T19:45:58	mattiasgeniar We'll be back soon!
+Medium	705479234223886336	2016-03-03T19:45:31	marissalowman We'll be back soon!
+Medium	705479180327084032	2016-03-03T19:45:18	Praval we'll be back soon!
+Medium	705478317000888320	2016-03-03T19:41:52	penelopejones We'll be back soon!
+Medium	705478210054533120	2016-03-03T19:41:27	jmanooch 😂
+Medium	705477922367275008	2016-03-03T19:40:18	kumarrk21 Bear with us! We'll be back soon.
+Medium	705477717806882816	2016-03-03T19:39:29	yabirgb We'll be back soon!
+Medium	705477639666937856	2016-03-03T19:39:11	bobkevin We'll be back soon!
+Medium	705477605609197569	2016-03-03T19:39:02	sara_ann_marie amythibodeau It should be auto-saved. Let us know at yourfriends@medium.com if it wasn't.
+Medium	705477449052614657	2016-03-03T19:38:25	HunterAlanKing We'll be back soon!
+Medium	705477402999132160	2016-03-03T19:38:14	msitver We'll be back soon!
+Medium	705477361328783360	2016-03-03T19:38:04	nico_lrx We'll be back soon!
+Medium	705477224502272001	2016-03-03T19:37:32	DonaldJohns we are. We'll be back soon!
+Medium	705477173746991104	2016-03-03T19:37:20	Ali_Hanzala We'll be back soon.
+Medium	705477110404685826	2016-03-03T19:37:04	JudithStr We will be back up momentarily!
+Medium	705476983552090112	2016-03-03T19:36:34	JaidenEverett We'll be back soon!
+Medium	705476944549191680	2016-03-03T19:36:25	amythibodeau Clearly. 😉
+Medium	705476856531841025	2016-03-03T19:36:04	cwRichardKim We'll be back soon!
+Medium	705476778861699072	2016-03-03T19:35:45	diwakergupta Yep! We should be back momentarily.
+Medium	705462272525672449	2016-03-03T18:38:07	ClickLearn Send us an email to yourfriends@medium.com and we'll see what we can do!
+Medium	705453600953118720	2016-03-03T18:03:39	“My remarks on the state of the 2016 presidential race” by MittRomney 
+Medium	705431676441067520	2016-03-03T16:36:32	“How Professional Wrestling Explains American Politics (Especially Donald Trump)” by owillis 
+Medium	705211699293396993	2016-03-03T02:02:25	“How to Talk To You Kids About Trump” by davepell 
+Medium	705194377388265472	2016-03-03T00:53:36	“How My Peter Pan Syndrome Landed Me In Prison For 10 Years” by Russel Omar-Shareef 
+Medium	705192701860315136	2016-03-03T00:46:56	peteonealjr At some point yes!
+Medium	705153467778641920	2016-03-02T22:11:02	“The skills gap at work … that no one is talking about” by invoker 
+Medium	705106701742047232	2016-03-02T19:05:12	“Today’s hoverboard hysteria isn’t so different from the early panic around bicycles” by PessimistsArc 
+Medium	705080034805940224	2016-03-02T17:19:14	“The Management Set” by rikrani 
+Medium	705047369197314048	2016-03-02T15:09:26	“The “I Don’t Feel Like It” Fallacy” by summertomato 
+Medium	704888558419480578	2016-03-02T04:38:23	“Fun Photoshop File Format Facts” by ftrain 
+Medium	704838517021499393	2016-03-02T01:19:32	“Baby-Making After 35: Am I Doing it Wrong?” by nicecobra 
+Medium	704808533284368384	2016-03-01T23:20:23	EliSymeon currently we only offer publishing through the app and don't have any other options planned for the near future.
+Medium	704793051697278978	2016-03-01T22:18:52	Got something to say about Medium? We want to hear from you. Seriously. 
+Medium	704741068491849729	2016-03-01T18:52:18	“My Thoughts On Getting Out This Year…After Being Incarcerated For 17 years, 8 months and 7 days” by Arnold Cabarris 
+Medium	704716946005061632	2016-03-01T17:16:27	“The Genocide That Genocide Created” by JohnLeeFisher3 
+Medium	704448353145257985	2016-02-29T23:29:10	elennemusic Sorry about that, remember you can always use a computer to write and publish.
+Medium	704446163810783232	2016-02-29T23:20:28	elennemusic Yes, you cannot publish from mobile web.
+Medium	704444545115664388	2016-02-29T23:14:02	We’re kicking off a conversation about criminal justice reform. Join by tagging your post “Criminal Justice Reform” 
+Medium	704426262681554944	2016-02-29T22:01:23	sboak What is the collection in question?
+Medium	704426136059711489	2016-02-29T22:00:53	KuraFire Good suggestion, we will let the team know.
+Medium	704425988910780416	2016-02-29T22:00:18	BrennerSpear Not possible at the moment but that's a great feature suggestion!
+Medium	704421782208380928	2016-02-29T21:43:35	sboak Only the owner of the publication can add editors.
+Medium	704421282574536704	2016-02-29T21:41:35	BrennerSpear your homepage is a blend of articles published and recommended by people/publications you follow.
+Medium	704420766075457537	2016-02-29T21:39:32	owenblacker Just select it and hit "highlight" again.
+Medium	704375141006835712	2016-02-29T18:38:14	“I’ve Had a Cyberstalker Since I Was 12” by RoniShayne 
+Medium	704349320443666432	2016-02-29T16:55:38	“The painful &amp; personal process of Black Consciousness” by anthoknees 
+Medium	704299758341398528	2016-02-29T13:38:42	“Slack, I’m Breaking Up with You” by SamuelHulick 
+Medium	704010684535681024	2016-02-28T18:30:01	“Your commitment to diversity is terrifying” by rBaten 
+Medium	703805505001533440	2016-02-28T04:54:43	“How to Prosecute an Internet Troll” by strutting 
+Medium	703645735653249024	2016-02-27T18:19:51	“Who’s Connected: 2 Stories of “Free Internet”” by anildash 
+Medium	703353917074178048	2016-02-26T23:00:16	“Japanese Street Fashion — 10 Things You Need To Know in 2016” by TokyoFashion 
+Medium	703337772136812545	2016-02-26T21:56:06	“Your Favorite Random Twitter Followers” by generallymade 
+Medium	703294196480765952	2016-02-26T19:02:57	“Google Is Going to Speed Up the Web. Is This Good?” by dangillmor 
+Medium	703255866586243072	2016-02-26T16:30:39	“The Value of Empathy” by ohheygreat 
+Medium	703202889112489985	2016-02-26T13:00:08	“Two Superpowers We Wish We Had” by melindagates 
+Medium	703051869250150402	2016-02-26T03:00:02	“On San Francisco’s Quantified Self-Delusion” by girlziplocked 
+Medium	703023676904464384	2016-02-26T01:08:00	“Become A Wine God” by MikeWP318 
+Medium	702995241264160768	2016-02-25T23:15:01	adamprocter Try going into edit, click the "…" and then choose custom title. Enter it there.
+Medium	702988882149830658	2016-02-25T22:49:45	adamprocter Looks like you fixed it?
+Medium	702986325410971649	2016-02-25T22:39:35	“Advanced defensive tactics for country living” by Lisa Lutz 
+Medium	702973618314018817	2016-02-25T21:49:05	JonasJanousek There isn't. You might be able to fudge it with a soft return. (shift-enter)
+Medium	702960361054449664	2016-02-25T20:56:25	“A self-righteous open letter to people who write self-righteous open letters to people who write…” by emeyerson 
+Medium	702928354979098625	2016-02-25T18:49:14	“It Takes A Village to Not Marry A Girl” by didem_tali 
+Medium	702902568934965249	2016-02-25T17:06:46	“I Opened 10,000 Texts Today” by JohnDeVore 
+Medium	702679156711038976	2016-02-25T02:19:00	“San Francisco is Strategically the Worst Place to Barricade, Techbros” by girlziplocked 
+Medium	702647871980630017	2016-02-25T00:14:41	AntoinePlu These broke yesterday but it should be fixed. Try loggin out and back in.
+Medium	702646648111890433	2016-02-25T00:09:50	“Who Are We Solving the Heroin Epidemic For?” by britnidlc 
+Medium	702628445562363904	2016-02-24T22:57:30	AntoinePlu Hmmmm, do you have any ad-blockers turned on?
+Medium	702627955789266944	2016-02-24T22:55:33	MemphisMicky email us at yourfriends@medium.com
+Medium	702627574027956224	2016-02-24T22:54:02	romulomachado_ you're hired.
+Medium	702584882677964800	2016-02-24T20:04:24	“Let’s talk about the criminal justice system” by dahanese 
+Medium	702553196258922496	2016-02-24T17:58:29	“Why Women Smile at Men Who Sexually Harass Us” by mshannabrooks 
+Medium	702523762374156290	2016-02-24T16:01:31	“Reactions: Not everything in life is Likable” by gt 
+Medium	702274558930235392	2016-02-23T23:31:17	“Goals for the age of 34” by drewber 
+Medium	702272598550294528	2016-02-23T23:23:29	Steven_Scaffidi MellowMuslim This is usually internet connection but sometimes copy/pasting your story into a new tab is the only fix.
+Medium	702272140549050370	2016-02-23T23:21:40	aindri We are working on it!
+Medium	702271651786809344	2016-02-23T23:19:44	lucaorio_ Those are in-house publications.
+Medium	702222933133905920	2016-02-23T20:06:08	rrhoover TheStefanStokic ProductHunt We could, but no one should know too much about their destiny. Didn't you see Back to the Future?
+Medium	702216444235223041	2016-02-23T19:40:21	rrhoover TheStefanStokic Cause we knew you were destined to make ProductHunt. We are a medium after all. 🔮
+Medium	702215779484176384	2016-02-23T19:37:43	ProductHunt ProductHuntLIVE A: We could be talked into it 😉
+Medium	702211241498947585	2016-02-23T19:19:41	“Tents on Sidewalks Are Inhumane and Aren’t Housing” by Scott_Wiener 
+Medium	702167615599345664	2016-02-23T16:26:19	We started talking to ev + his medium team last December, it's an impressive group, we love working w/ them. Next few months will be fun.
+Medium	702165228864180226	2016-02-23T16:16:50	Please join us in welcoming BillSimmons and his new site (The Ringer) to Medium! 
+Medium	701958156729999361	2016-02-23T02:34:00	“The U.S. has Gone F&amp;*%ing Mad” by jamesallworth 
+Medium	701930222212374529	2016-02-23T00:43:00	“When Comcast’s Business As Usual Turns Out to Limit Minority Access” by scrawford 
+Medium	701904511888138241	2016-02-22T23:00:51	durchgemacht There is not, are you using a german keyboard? If so, there is a bug with code blocks. (workaround is to change to US layout)
+Medium	701904315137437696	2016-02-22T23:00:04	“The Ugly Truth In Advertising” by SethMatlins 
+Medium	701883616846958592	2016-02-22T21:37:49	theunixbeard Thanks for letting us know! We'll get that fixed ASAP.
+Medium	701877883237588992	2016-02-22T21:15:02	“How to build and care for your own chatty, quirky, funny interface robot” by amythibodeau 
+Medium	701864070543122432	2016-02-22T20:20:09	“What’s Next in Computing?” by cdixon 
+Medium	701819775979098112	2016-02-22T17:24:08	“The Supreme Court Vacancy and the Majoritarian Difficulty” by DanielJHemel 
+Medium	701783523296841729	2016-02-22T15:00:05	“The Hidden Homescreen” by MattHartman 
+Medium	701753559784620032	2016-02-22T13:01:01	“Why we talk about information technologies and communication technologies” by EskoKilpi 
+Medium	701497866892652544	2016-02-21T20:04:59	“Archival Interview: Umberto Eco on Truth, Fiction, and the Holy Grail” by JessicaJernigan 
+Medium	701471172500656132	2016-02-21T18:18:54	“Jiro dreams in black and white” by craigmod 
+Medium	701110861012729861	2016-02-20T18:27:09	“From TED2016, 5 Fellows’ Ideas Worth Spreading” by Ben Kellogg 
+Medium	700818758537969664	2016-02-19T23:06:27	“Dear New York Times: how dare you.” By MissLoreleiLee  
+Medium	700786979202400257	2016-02-19T21:00:10	“We Are Now At Peak TED” by StevenLevy 
+Medium	700771092416180224	2016-02-19T19:57:02	mcastenfors hit the down arrow on the publication and choose edit. You can change it from there.
+Medium	700768062035795968	2016-02-19T19:45:00	atelierdechile Like export them? You can do that in your settings.
+Medium	700767318612135936	2016-02-19T19:42:03	InkSketch This should be fixed today.
+Medium	700759059671044096	2016-02-19T19:09:13	“Telling a good story is everything” by jasontoff 
+Medium	700730519969857537	2016-02-19T17:15:49	“The shortest mystery you’ve ever watched” by origiful 
+Medium	700486962105311232	2016-02-19T01:08:00	“If company slogans were honest…” by mtlbagelboy 
+Medium	700454771702894598	2016-02-18T23:00:06	“Better Countdown Clocks” by FullFrontalSamB 
+Medium	700453669326598144	2016-02-18T22:55:43	marcbrown no worries!
+Medium	700451687031439361	2016-02-18T22:47:50	marcbrown that isn't our platform.
+Medium	700436409748881408	2016-02-18T21:47:08	“I asked people living near the Porter Ranch gas leak how their lives had changed” by dhgerson 
+Medium	700432498942038017	2016-02-18T21:31:35	StacieBTX unfortunately, that is as big as they get for now. We will look into making them bigger.
+Medium	700410289485774849	2016-02-18T20:03:20	“Antonin Scalia’s Successor Could Determine the Fate of the Planet” by ClimateDesk 
+Medium	700385953152524289	2016-02-18T18:26:38	“The Future of Security: A Roundtable” by kpoulsen 
+Medium	700361024185069569	2016-02-18T16:47:34	“President Trump vs. the Bureaucratic State” by DanielJHemel 
+Medium	700130710451912704	2016-02-18T01:32:23	“What I Learned From Dating Women Who Have Been Raped” by Emma Lindsay 
+Medium	700093066556747776	2016-02-17T23:02:48	“If we don’t want the states between Kansas and California to turn into a wasteland, America needs beef” —Sarah Mock 
+Medium	700066438405447680	2016-02-17T21:17:00	“Get Off the Internet” by PaulCantor 
+Medium	700040455728156672	2016-02-17T19:33:45	“How does capital respond to a labour shortage?” by Duncan Weldon 
+Medium	700006926432628740	2016-02-17T17:20:31	“Why Everyone Is Wrong About Pandora (Or — Who Should Buy Pandora)” by hdemott3 
+Medium	699986155685572610	2016-02-17T15:57:59	“The Secret to Moonshots? Killing Our Projects” by astroteller 
+Medium	699760188665040897	2016-02-17T01:00:04	“Curbing HIV with Empathy, Not Bigotry” by iamAnaSantos 
+Medium	699744976238870528	2016-02-16T23:59:37	sarahdoody yourfriends@medium.com
+Medium	699722965236068352	2016-02-16T22:32:09	“22 Handy Slack Hacks Everyone Should Know” by HubSpot 
+Medium	699702051664605184	2016-02-16T21:09:03	“Creative Confidence” by joulee 
+Medium	699676877774987265	2016-02-16T19:29:01	“Automated Teachers, Augmented Reality And Floating Chairs” by oherick 
+Medium	699420687971147776	2016-02-16T02:31:01	“I’ll bet you $5,000 that bitcoin’s first hard fork works out just fine” by brian_armstrong 
+Medium	699403071089029120	2016-02-16T01:21:01	“Punctuation in novels” by neuroecology 
+Medium	699329587172544512	2016-02-15T20:29:01	“The Resurrection of E.T. Explained” by greim 
+Medium	699303418024714240	2016-02-15T18:45:01	“It’s not a crisis, guys, it’s another reality” by myslobodin 
+Medium	699283535102763009	2016-02-15T17:26:01	“NASA’s Hiring: Here Are Some Reasons Why You Should Apply” by ShuttleCDRKelly 
+Medium	699028855965614080	2016-02-15T00:34:01	“I no longer understand my PhD dissertation (and what this means for Mathematics Education)” by fjmubeen 
+Medium	698981291971051520	2016-02-14T21:25:01	“The Scalia I Knew Will Be Greatly Missed” by CassSunstein 
+Medium	698970471589552128	2016-02-14T20:42:01	“Why Texting is Better Than Calling” by DadandBuried 
+Medium	698944321404301312	2016-02-14T18:58:06	“A Dinosaur’s Guide to Valentine’s Day” by RefeUp 
+Medium	698231602229481474	2016-02-12T19:46:01	“The Oral History of Taylor Swift’s 1989” by TheGRAMMYs 
+Medium	698201907752402944	2016-02-12T17:48:01	“Say Happy Valentine’s Day with Bernie Sanders Cards” by Hipstercrite 
+Medium	698140756406460416	2016-02-12T13:45:01	“Realistic Candy Hearts” by ladyspinsterr 
+Medium	698022475553120257	2016-02-12T05:55:01	Rainer Weiss’s Multi-Decade Quest for Gravitational Waves: “The Incredible Story of LIGO” by phalpern 
+Medium	697988340012814336	2016-02-12T03:39:22	“When there is no template: Writing on Pixar’s Inside Out” by Storymeg 
+Medium	697921813582520320	2016-02-11T23:15:01	“This is What Happens When a Woman Supports Bernie Sanders Online” by Leslie Lee III 
+Medium	697904981081329664	2016-02-11T22:08:08	“From College Student to Class B Celebrity to Nobody to Kinda Sorta Getting Famous Again…” by MikePosner 
+Medium	697608499522457600	2016-02-11T02:30:01	“The President Delivers Remarks to the Illinois General Assembly” by WhiteHouse 
+Medium	697593401978400768	2016-02-11T01:30:02	“A Note From Trump To You Cows” by funnyordie 
+Medium	697579808176254976	2016-02-11T00:36:01	From the Future of Security Roundtable: “The Key To Security Is Being Open” by alexstamos 
+Medium	697530734160908289	2016-02-10T21:21:01	Thanks to CaseyNewton for our first-ever release note collaboration! Good times.  
+Medium	697517397310181376	2016-02-10T20:28:01	“The Case For Hillary” by ZacharyLeven 
+Medium	697485688451633152	2016-02-10T18:22:01	“‘I Couldn’t Decide If We Should Live or Die’” by jenkoons 
+Medium	697454986851065856	2016-02-10T16:20:01	“I’m Not Worried About Screen Time” by nicolebdavis 
+Medium	697424565882912768	2016-02-10T14:19:08	“Why Does Blowing On Your Hot Drink Cool It Down?” by StartsWithABang 
+Medium	697287128431001601	2016-02-10T05:13:01	“11 References You Missed in Beyoncé’s Formation” by FancyCapitalist 
+Medium	697241579560394753	2016-02-10T02:12:01	“Transformation: Cambodia” by IJM 
+Medium	697209927635316736	2016-02-10T00:06:14	“Why You’re Wrong About Cam Newton (And His Presser)” by ScottGustin 
+Medium	697082963557613568	2016-02-09T15:41:44	Set your reputation for racism on fire. “Dear Phil, about that joke bro.” by Weebeasty 
+Medium	696963495879815168	2016-02-09T07:47:01	“Free Medium Webinars” by Your Friends @ Medium 
+Medium	696937576444334080	2016-02-09T06:04:01	“Formation doesn’t include me— and that’s just fine.” by KateCForristall 
+Medium	696912661997441025	2016-02-09T04:25:01	“Chill, Portland: The downtown food carts are not about to close” by andersem 
+Medium	696858555819757569	2016-02-09T00:50:01	“Show Us Your Grocery Receipts, Part 1: Whole Foods, Sprouts, Real Canadian, and Trader Joe’s” by HelloTheFuture 
+Medium	696770501146882048	2016-02-08T19:00:07	Washington State has shown that farmers have been sold up a river. "Organic farming is a double win” by kimbal 
+Medium	696660499417554944	2016-02-08T11:43:01	“Cyber Criminals are getting smarter, organized and sophisticated.” by olufuwatayo 
+Medium	696557320373821440	2016-02-08T04:53:01	Breakfast is the same thing, every day: denuded feldspar.  “My LA Food Diary” by BoobsRadley 
+Medium	696460432022728704	2016-02-07T22:28:01	"Alcohol could be one of the toughest issues you encounter in your lives." A letter by Kelvin Read 
+Medium	696032064945020928	2016-02-06T18:05:50	beccawarner thompsonlaura instagram embedly The video won't play for you while it is still in draft, but will when you publish.
+Medium	695758836259401728	2016-02-06T00:00:07	We're looking for someone to develop publisher relationships and help them get the most out of the platform. 
+Medium	695752301030408193	2016-02-05T23:34:09	pseudovirtual Hit the publish button and then choose the "schedule to publish" button!
+Medium	695746868198834176	2016-02-05T23:12:34	“Open Letter to Uber, Travis, Josh Mohrer, Uber’s Investors and employees” by uberdriversnetw 
+Medium	695746674606546944	2016-02-05T23:11:48	designernaut If you followed them on Twitter we port that over.
+Medium	695701870644318209	2016-02-05T20:13:46	mkronthal joulee That post is a year old! 
+Medium	695700614794227712	2016-02-05T20:08:46	JeremyOberstein Nope, what are you seeing?
+Medium	695700247905894400	2016-02-05T20:07:19	james_brooks That would be super cool. We'll suggest it to the team.
+Medium	695700108386537472	2016-02-05T20:06:45	jbchaykowsky ev You may flag stories (or block users) from the 3 dots at the bottom. You can also send us details to yourfriends@medium
+Medium	695697433364279296	2016-02-05T19:56:08	“Who’s Really Addicting You to Technology?” by nireyal 
+Medium	695592740160077824	2016-02-05T13:00:07	“A Withdrawal Letter To The Super Bowl 50 Host Committee” by jennism 
+Medium	695426633591750657	2016-02-05T02:00:04	“Hanging with Nirvana at Kurt’s House in 1989” by Nick Soulsby 
+Medium	695396076619067392	2016-02-04T23:58:39	“It’s Stupid That My Actor Dad Is The One Who Has To Teach Us Not To Be Dumb” by harrydreyfuss 
+Medium	695369978816561154	2016-02-04T22:14:56	“Making Peace With a ‘Medicalized’ Birth in the Bay Area” by riddhi_shah 
+Medium	695351507818909697	2016-02-04T21:01:33	ClayShentrup expected behavior for unfollowing tags is that no new stories will be displayed. We hope to improve this soon!
+Medium	695332630347194369	2016-02-04T19:46:32	TheMacharia working on it!
+Medium	695332186061295617	2016-02-04T19:44:46	ClayShentrup This could be a caching issue, are they ever removed?
+Medium	695331742186471424	2016-02-04T19:43:00	TheAmyDance Not at this time.
+Medium	695322247192408064	2016-02-04T19:05:16	“If America is going to embrace its Muslim community, it needs to go beyond stereotypes” by nilofer 
+Medium	695282254201815040	2016-02-04T16:26:21	“I Am Running for Mayor of Baltimore” by deray 
+Medium	695085047523618816	2016-02-04T03:22:44	“How to Uncomplicate Your Life” by davepell 
+Medium	695051140979818497	2016-02-04T01:08:00	agentFin MediumEng FoodRunnersSF Sounds interesting! We'll have someone reach out to discuss details.
+Medium	695049045534846976	2016-02-04T00:59:40	“Epic Country-Level A/B Test Proves Open Is Better Than Closed” by AlecJRoss 
+Medium	695040495207092225	2016-02-04T00:25:41	ViableBen This looks like a bug. We are investigating, bear with us!
+Medium	695038772832907264	2016-02-04T00:18:51	im_diogodantas That should be fine. What device are you using?
+Medium	695003644035379201	2016-02-03T21:59:15	Leinadzet How big are they?
+Medium	694997462503653377	2016-02-03T21:34:42	stephenolmon 
+Medium	694996948865056768	2016-02-03T21:32:39	im_diogodantas We haven't heard of this one. Where are you located?
+Medium	694996565920886784	2016-02-03T21:31:08	AndruwCruz They are in your profile (scroll down on web or click the tab in the app)
+Medium	694994271561121792	2016-02-03T21:22:01	“The Fine Brothers Controversy Explained” by hankgreen 
+Medium	694967461746073600	2016-02-03T19:35:29	“The Day One Flint Mother Told Me The Story Of How America Poisoned Her Baby Girl” by MichaelSkolnik 
+Medium	694933896928989186	2016-02-03T17:22:06	“Closing This Nuclear Plant Could Cause an Environmental Disaster” by ClimateDesk 
+Medium	694895369914679296	2016-02-03T14:49:01	“My Bathroom Mirror Is Smarter Than Yours” by maxbraun 
+Medium	694710993339854849	2016-02-03T02:36:22	“Dog tales” by katelaurielee 
+Medium	694653668532948992	2016-02-02T22:48:35	Philip_R_Moon You can write in our Android/iOS apps.
+Medium	694645351358201856	2016-02-02T22:15:32	“Seventeen and Pregnant — in Rural Indonesia” by sonianarang 
+Medium	694623087795437568	2016-02-02T20:47:04	schoujar This one? 
+Medium	694621064018526208	2016-02-02T20:39:01	BBFiction send us an email at yourfriends@medium.com
+Medium	694560175718428672	2016-02-02T16:37:04	“The Door is the Party” by epic 
+Medium	694542042056118273	2016-02-02T15:25:01	“The Impact of Poetry on Acts of Laundry” by TheWoodenslurpy 
+Medium	694344117489422336	2016-02-02T02:18:32	The idea with ReadMatter has always been: Do work that's bigger, crazier, weirder, nervier, more honest, more beautiful.
+Medium	694330138465538048	2016-02-02T01:22:59	.ReadMatter wins Reporting category for “My Nurses Are Dead…” by Joshua Hammer. Congrats MarkLotto and ReadMatter team! ellies
+Medium	694324370034946048	2016-02-02T01:00:04	Have q’s about using Medium? We’ll be hosting our first ever webinar on 2/2 @ 10AM PST. Email yourfriends@medium.com to reserve your spot!
+Medium	694322525711405056	2016-02-02T00:52:44	manikantan_k email us at yourfriends@medium.com
+Medium	694308966973599745	2016-02-01T23:58:52	BrunoYsla We will be localizing for Spanish and other languages in the future!
+Medium	694308590484500480	2016-02-01T23:57:22	rawrsoft Not yet/
+Medium	694298173762764801	2016-02-01T23:15:58	preslavrachev Hopefully soonish. It's on the roadmap.
+Medium	694294408921911296	2016-02-01T23:01:01	“Marketing 101” by thelancearthur 
+Medium	694265280143314945	2016-02-01T21:05:16	guttmnn Done!
+Medium	694248748478693376	2016-02-01T19:59:34	alfarhan Yes, not in the immediate future but it's on our roadmap.
+Medium	694248623698128896	2016-02-01T19:59:05	guttmnn It should work from desktop, not mobile at this time.
+Medium	694248450796290048	2016-02-01T19:58:23	miksago we're back!
+Medium	694248262153347072	2016-02-01T19:57:38	rycaut all should be resolved now!
+Medium	694248145883045888	2016-02-01T19:57:11	jjmerelo we'll be back soon!
+Medium	694247923211632640	2016-02-01T19:56:18	DidierFranc MediumFrance We'll be back soon!
+Medium	694247803774595072	2016-02-01T19:55:49	MattBond21 We'll be back ASAP!
+Medium	694247729455730688	2016-02-01T19:55:31	julien_rath bear with us! We'll be back soon.
+Medium	694241995334774784	2016-02-01T19:32:44	“How India Pierced Facebook’s Free Internet Program” by laurensmiley 
+Medium	694203575493226496	2016-02-01T17:00:04	“Taking the wrong lesson from Uber” by sarahtavel 
+Medium	694173398071545856	2016-02-01T15:00:09	“My Toddler Watches As Much TV As She Wants” by wittelstephanie 
+Medium	694143188580208641	2016-02-01T13:00:07	“A Response to ‘The End of Twitter’” by AntDeRosa 
+Medium	693998665371746306	2016-02-01T03:25:50	“The Trouble with Trademarks” by hankgreen 
+Medium	693904175516639232	2016-01-31T21:10:22	“The Full History of Board Games” by PeterAttia 
+Medium	693853416229961728	2016-01-31T17:48:40	“Some Thoughts on Professional Etiquette (Part 1), Because Some of You Need It” by felsull 
+Medium	693236410279591936	2016-01-30T00:56:54	“On Flint’s shaken faith, and its childrens’ future” by Marketplace 
+Medium	693207246403055617	2016-01-29T23:01:01	“The Snap Generation: A Guide to Snapchat’s History” by garyvee 
+Medium	693179839436558336	2016-01-29T21:12:07	maurosgv what device?
+Medium	693176816702337024	2016-01-29T21:00:06	“Tackling a tough problem at work? Try this new approach” by invoker 
+Medium	693158115668168704	2016-01-29T19:45:47	wiseacre We hope to bring you more roust stats soon!
+Medium	693146583488040960	2016-01-29T18:59:58	“How to Clear Your Computer of Focus-Draining Distraction” by nireyal 
+Medium	693124099220992000	2016-01-29T17:30:37	“Making a Murderer: 7 Hilarious Things Wrong with Ken Kratz’s Website” by xsvfat 
+Medium	692852396498653184	2016-01-28T23:30:58	“The Cost Of My Sexual Assault” by Jennifer 
+Medium	692831248616525824	2016-01-28T22:06:56	OmanReagan Keep in mind that if you do this no responses will be linked from your post/+ no notifications. This essentially turns them off.
+Medium	692831016923205632	2016-01-28T22:06:01	OmanReagan Thanks for the feedback! We felt this was a good compromise between allowing responses and preventing harassment.
+Medium	692830048101896192	2016-01-28T22:02:10	rometty_ Not sure. Did you recently delete a story? If it continues please send an email to yourfriends@medium.com
+Medium	692829657075322881	2016-01-28T22:00:37	OmanReagan You may hide responses if you like: 
+Medium	692829294339321858	2016-01-28T21:59:10	ellencarmichael Since we are a writing platform, users are free to write what they want (as long as they don't break our rules).
+Medium	692827964992462849	2016-01-28T21:53:53	“I Do Sex Work So I Can Look at Myself in the Mirror” by jobhaver 
+Medium	692769873089265664	2016-01-28T18:03:03	“Supporting our veterans is a sacred responsibility” by HillaryClinton 
+Medium	692727519351443456	2016-01-28T15:14:45	“Sexism in the Oxford Dictionary of English” by OmanReagan 
+Medium	692517541684629505	2016-01-28T01:20:22	“The Secret To Writing Killer Product Copy” by davegerhardt 
+Medium	692517288877121536	2016-01-28T01:19:22	wardrobeguy Like to your profile?
+Medium	692517170249621510	2016-01-28T01:18:54	@reoT004 Let us know if they still won't load. Also, try some other posts (you can find them by searching gifs)
+Medium	692502624839536640	2016-01-28T00:21:06	@reoT004 Seems to be working for us on that configuration. Those are big gifs, could just be taking awhile to load.
+Medium	692499749165993985	2016-01-28T00:09:40	starweaver on Medium of course:  😉
+Medium	692493510675697664	2016-01-27T23:44:53	“Drawing the ‘Map of Every City’” by chazhutton 
+Medium	692457699498299392	2016-01-27T21:22:35	thpalmer75 email us at yourfriends@medium.com and we can do it for you.
+Medium	692453746182348805	2016-01-27T21:06:52	“You Should Ask Your Coworker How Much They Make. Right Now.” by RepMarkTakano 
+Medium	692429067568566273	2016-01-27T19:28:49	kashyapi_life A response? It should be on your profile.
+Medium	692428680950317056	2016-01-27T19:27:16	robert_we 
+Medium	692428519930875904	2016-01-27T19:26:38	olilewington We have. They are a tab on your homepage on the web and in the "you" section in the app.
+Medium	692424470921924608	2016-01-27T19:10:33	We’re excited to roll out three new features requested by users to enhance the writing and publishing experience. 
+Medium	692366456122527744	2016-01-27T15:20:01	“An Open Letter to the Leaders of Education” by wilsonforthewin 
+Medium	692331231623532545	2016-01-27T13:00:03	“Should Animals Have a Right to Privacy?” by 9brandon 
+Medium	692180237585637378	2016-01-27T03:00:03	“Sex Work Gives Me Anxiety — But For Me, It’s Better Than a Cubicle” by Mistress_Magpie 
+Medium	692150281363181570	2016-01-27T01:01:01	“Steve Jobs is Dead” by Jack Boulware 
+Medium	692126662159392769	2016-01-26T23:27:10	Here is what’s going on with Medium in Malaysia. 
+Medium	692089667013873664	2016-01-26T21:00:09	“I’m a Woman in Tech, But Even I Didn’t ‘Get It’ Until This Week” by lkr 
+Medium	692075806101622784	2016-01-26T20:05:04	drikerf MediumEng Yes, it's similar to Buzzfeed pound: 
+Medium	692075417054740480	2016-01-26T20:03:32	RoannaFernandes Unfortunately, disconnecting your social accounts is the only way.
+Medium	692073802595848192	2016-01-26T19:57:07	iam_benn send us an email to yourfriends@medium.com and we'll see what we can do.
+Medium	692067244788961280	2016-01-26T19:31:03	_dkannan You can embed gists or make a code block (sans highlighting) by hitting cmd+opt+6
+Medium	692066993055203328	2016-01-26T19:30:03	jamonholmgren this should be fixed today.
+Medium	692059323510358016	2016-01-26T18:59:35	ColinMansfield Cool idea! We'll let the devs know.
+Medium	692046963508785152	2016-01-26T18:10:28	“It’s Preschool Open House Season Motherfuckers” by hondanhon 
+Medium	692014882615484417	2016-01-26T16:02:59	“Flint’s Water: Poisoned by Lead, and by Race” by mckayjenkins 
+Medium	691821111038873600	2016-01-26T03:13:00	“These Vintage Ads Illustrate Why the World Needs Feminism” by AshleyLaurenD 
+Medium	691797929150005248	2016-01-26T01:40:53	agobaud Thanks! We will investigate.
+Medium	691793836448817152	2016-01-26T01:24:38	ChiefScientist Nope, sorry.
+Medium	691793677723811840	2016-01-26T01:24:00	agobaud This shouldn't be the case. What browser/login method?
+Medium	691791267894824960	2016-01-26T01:14:25	“The Classroom Is Dead” by Eli Horowitz 
+Medium	691789502965288960	2016-01-26T01:07:24	jhofker They are broken right now. We should have a fix tomorrow!
+Medium	691757465873092612	2016-01-25T23:00:06	“My Statement Regarding The American Apparel Bankruptcy Ruling” by Dov Charney 
+Medium	691756760479084544	2016-01-25T22:57:18	siuoljc It's on the roadmap!
+Medium	691754704569761792	2016-01-25T22:49:08	ChiefScientist virtualirfan that is correct.
+Medium	691729095198048256	2016-01-25T21:07:22	“Amazon’s customer service backdoor” by Eric 
+Medium	691708333254770688	2016-01-25T19:44:52	michellegreer Drafts should always autosave. Let us know if you have any problems.
+Medium	691708118112178176	2016-01-25T19:44:01	“White Privilege II: Who do you think you’re talking to?” by DrBFPalmer 
+Medium	691707744613576704	2016-01-25T19:42:32	kurtiskemple Seems to be working now. Let us know if you still have issues.
+Medium	691707484680028160	2016-01-25T19:41:30	ryancswapp kentcdodds This is all great feedback. We will share it with our devs. Thanks!
+Medium	691706220567093248	2016-01-25T19:36:28	bookoisseur Post image: width 1400px for in-column images, 2040px for outset images, 2500px for screen-width images.
+Medium	691704228801224704	2016-01-25T19:28:34	virtualirfan ChiefScientist Not sure what you mean?
+Medium	691675459650658304	2016-01-25T17:34:14	“22 Years Ago I Used a Cellular Telephone” by craigmod 
+Medium	690940308813557760	2016-01-23T16:53:01	“An Open Letter to Designers of Unsolicited Redesigns and Unbuildable Apps” by TedGoas 
+Medium	690707272226320384	2016-01-23T01:27:01	“Create your first ‘Snow-Lapse’ with the cameras laying around your home.” by bigchaz 
+Medium	690692283432235008	2016-01-23T00:27:27	“Inside the World’s Shittiest Museum” by bikkigill 
+Medium	690660927264264193	2016-01-22T22:22:51	BergkampSpin both should work.
+Medium	690660838722564096	2016-01-22T22:22:30	diversario True, hopefully someday!
+Medium	690660698267881472	2016-01-22T22:21:56	sliver86 The only way to do this is to disconnect Twitter and log in via another method.
+Medium	690659064687136769	2016-01-22T22:15:27	minerscale We are working on this!
+Medium	690624446558793728	2016-01-22T19:57:53	“CEO Advice from a New CEO” by biz 
+Medium	690621324792737792	2016-01-22T19:45:29	diversario You can make a code block by highlighting and hitting cmd+opt+6 or just embed a gist.
+Medium	690617472874057728	2016-01-22T19:30:11	andyjiang Text over image was causing display issues. We will revisit but for now we made the tough choice to focus on other things.
+Medium	690582799158390785	2016-01-22T17:12:24	“Lisbeth Salander’s Real Life Twin May Be Iceland’s Next Prime Minister” by florevasseur 
+Medium	690519314839957504	2016-01-22T13:00:08	“6 Great Contemporary Alternatives to Helvetica” by iHrvoje 
+Medium	690354151121907712	2016-01-22T02:03:50	zachhjar SoundCloud Just copy the URL and paste it. Don't use the embed code.
+Medium	690346051774054400	2016-01-22T01:31:39	nathan_korth Exactly. It's similar to Buzzfeed's "pound" tracking.
+Medium	690342871615066113	2016-01-22T01:19:01	“Why I travel solo” by beccawarner 
+Medium	690305203841568768	2016-01-21T22:49:20	fsimmons that's all we ask.
+Medium	690299646183223296	2016-01-21T22:27:15	HashRaygoza Ha, good suggestion. We will raise it with the design team.
+Medium	690298688552329216	2016-01-21T22:23:27	CBJason Theres should be an "x" in the upper right hand corner.
+Medium	690285297980977152	2016-01-21T21:30:14	darlingbec You can make a post unlisted, meaning only people with the link can see it.
+Medium	690253042218708992	2016-01-21T19:22:04	“An appeal to end the suffering in Syria” by UNICEF 
+Medium	690227573016526848	2016-01-21T17:40:51	“Parents (And All Workers) Need More Flexibility On The Job” by keanesian 
+Medium	689975720030932998	2016-01-21T01:00:05	“No Toilets for the Homeless” by Stacey McKenna 
+Medium	689945755126210560	2016-01-20T23:01:01	“2016 will be the year of conversational commerce” by chrismessina 
+Medium	689915348603154433	2016-01-20T21:00:11	“The Universe doesn’t care about your pile of acorns so do whatever you want with them” by cebsilver 
+Medium	689888164404572166	2016-01-20T19:12:10	CheekyPromo You should be able to add it. You don't need the hashtag though.
+Medium	689887220912656388	2016-01-20T19:08:25	shobhitic email us at yourfriends@medium.com
+Medium	689886791537549312	2016-01-20T19:06:43	joshuajenkins That shouldn't happen. We will check with our mobile team.
+Medium	689884710042861568	2016-01-20T18:58:26	andraganescu great suggestion! We'll raise this with the team.
+Medium	689883756560154624	2016-01-20T18:54:39	Medvidekpu that should work. What OS/browser are you using?
+Medium	689881835984158720	2016-01-20T18:47:01	Jayps Indeed it is.
+Medium	689881330201468928	2016-01-20T18:45:01	anthonycyl Not notifications no, but if you follow them their stories will appear on your homepage feed.
+Medium	689879196089233408	2016-01-20T18:36:32	TedMalakhov There should be an unsubscribe link at the bottom, or go into your settings to turn off all emails.
+Medium	689878781771649024	2016-01-20T18:34:53	AshleyRuski yourfriends@medium.com
+Medium	689878639333081088	2016-01-20T18:34:19	jaggeree Spotify Just paste in the URL of the playlist and hit return.
+Medium	689876626822139907	2016-01-20T18:26:19	“Why I left Google” by salomemagazine 
+Medium	689794257964535812	2016-01-20T12:59:01	“The Old People’s Guide to DJ Khaled” by ajt 
+Medium	689643524195618817	2016-01-20T03:00:03	“the eleven most boring conversations i can’t stop overhearing” by 108 
+Medium	689613336330121216	2016-01-20T01:00:06	“In Haiti, Turning Human Waste to Flowers” by MissAlexisK 
+Medium	689580819468279808	2016-01-19T22:50:53	OptimiseOrDie We will be revisiting this soon. Bear with us.
+Medium	689578586731249664	2016-01-19T22:42:01	“The 80/20 Rule” by tylercoates 
+Medium	689574610405163008	2016-01-19T22:26:13	lazylippylife Some do! It's totally ok with us.
+Medium	689573195058253824	2016-01-19T22:20:36	ViableBen Gotcha, try clicking on the activity tab and then onto another tab. That should clear it. We'll be clearing these on launch soon.
+Medium	689552932153331712	2016-01-19T21:00:04	“Saturday Nights for the Whole Hep World If Trump Gets Elected” by MrMildew 
+Medium	689527821882920961	2016-01-19T19:20:18	ViableBen Can you give us more details? What phone/iOS?
+Medium	689521461845856256	2016-01-19T18:55:01	“To Those Who Would Be Commander-in-Chief” by BobWoodruff 
+Medium	689497803597348864	2016-01-19T17:21:01	“The Law Everyone Should Hate” by cjoh 
+Medium	689467101770227712	2016-01-19T15:19:01	“Humans — engineers especially — underestimate the cost of getting things done in groups of people” by rands 
+Medium	689435898384003072	2016-01-19T13:15:01	“Xi Jinping Presides Over Ecocide in the South China Sea” by VictorRobertLee 
+Medium	689176075616714752	2016-01-18T20:02:35	“A message from Stewart Butterfield to Slack employees” (regarding MLK day) by EricaJoy 
+Medium	689109286044176387	2016-01-18T15:37:11	“The End of an Error” by bruneski 
+Medium	688855764010569728	2016-01-17T22:49:47	“An Open Letter to Lester Holt” by deray 
+Medium	688796689973379072	2016-01-17T18:55:02	“Restructuring the Financial Infrastructure” by robsiegel 
+Medium	688415401626087424	2016-01-16T17:39:56	“Network Inequality” by anildash 
+Medium	688183402013392896	2016-01-16T02:18:03	“This Unruly Mess I’ve Made” by macklemore 
+Medium	688137441593524224	2016-01-15T23:15:25	peterbowyer Sorry, currently not supported.
+Medium	688137323117068288	2016-01-15T23:14:57	davegandy Gotcha, you could group them using a unique tag.
+Medium	688124505089159169	2016-01-15T22:24:01	“Why I Went Vegetarian” by stevegrayfs 
+Medium	688114911784783872	2016-01-15T21:45:54	“El Chapo’s Texts With Samantha Bee” by Samantha Bee 
+Medium	688085641284866048	2016-01-15T19:49:35	CaseyNewton Excellent. we'll DM you as soon as the next release is ready. The bar is already stocked.
+Medium	688084369542524928	2016-01-15T19:44:32	CaseyNewton you want to come over for drinks and help us write  the next one?
+Medium	688071070893473792	2016-01-15T18:51:41	davegandy Thanks! Say more about that? Like a publication but different?
+Medium	688070662729023488	2016-01-15T18:50:04	OllieBrkr good suggestion! We'll let the team know.
+Medium	688042016672858112	2016-01-15T16:56:14	“A Day in the Life of a Bookmobile Librarian” by PAPress 
+Medium	688013093163667456	2016-01-15T15:01:18	“The resolution of the Bitcoin experiment” by OctSkyward 
+Medium	687801388630343680	2016-01-15T01:00:04	Congrats to our very own ReadMatter for three Ellie nominations this year! 
+Medium	687775823135391745	2016-01-14T23:18:29	“License to (Not) Drive” by StevenLevy 
+Medium	687725337585795072	2016-01-14T19:57:52	“When Games Try to Save the World” by Hana Schank 
+Medium	687698942016880640	2016-01-14T18:12:59	“The Most and Least Paid Teachers in the World” by Tom Ostapchuk 
+Medium	687663189148893185	2016-01-14T15:50:55	“Where are the Female Music Producers?” by TheGRAMMYs 
+Medium	687435602195824640	2016-01-14T00:46:34	shazow We have that! Change your post to "unlisted" before publishing.
+Medium	687435321231982592	2016-01-14T00:45:27	einfalles no worries!
+Medium	687414325234024448	2016-01-13T23:22:01	“Battling Light Pollution: Dark Skies Benefit Everyone, Not Just This Night Photographer” by BHPhotoVideo 
+Medium	687406646159642624	2016-01-13T22:51:30	einfalles Yep! It's on your profile. (Scroll down on the web, or click on the tab in the app)
+Medium	687401329057263616	2016-01-13T22:30:22	“Inspiring a New Generation to Defy the Bounds of Innovation: A Moonshot to Cure Cancer.” by VP 
+Medium	687366020990828544	2016-01-13T20:10:04	“Four Things Working at Facebook Has Taught Me About Design Critique” by tannerc 
+Medium	687318948346368001	2016-01-13T17:03:01	“In San Francisco Underwater Tourism Could Be the Next Big Thing” by TravelLeisure 
+Medium	687288496868872192	2016-01-13T15:02:01	“The Past, Present and Future of Sketch” by gt 
+Medium	687258800613494784	2016-01-13T13:04:01	“The Closest Star System To Ours Doesn’t Have Any Planets (Yet), After All” by StartsWithABang 
+Medium	687090661892329472	2016-01-13T01:55:53	jblanton Sorry, there isn't.
+Medium	687089336257413120	2016-01-13T01:50:37	The whitehouse just published the State of the Union address. Follow along live with the President here:  SOTU
+Medium	687059608318283776	2016-01-12T23:52:30	brillhart for best results keep them under 500k and limit 3 per story.
+Medium	687058972335996928	2016-01-12T23:49:58	denisechan26 send us an email to yourfriends@medium.com
+Medium	687058852387274752	2016-01-12T23:49:30	LJdeGara Thanks! You can change your email digest from daily to weekly in your settings.
+Medium	687058430838738944	2016-01-12T23:47:49	“On the President’s Final State of the Union: Let’s Own the Finish Line.” by VP 
+Medium	687044126953504769	2016-01-12T22:50:59	code0100fun That is a security measure. It's a one-time thing.
+Medium	687042008662159360	2016-01-12T22:42:34	Trixiebellexx What is the subject line of the email? If it's our daily digest, there should be an unsub link at the bottom.
+Medium	687041384184872960	2016-01-12T22:40:05	daonb What browser are you using? And can you send us what that link is pointed to?
+Medium	687034321580904448	2016-01-12T22:12:01	“Everyone is wondering: WhereisRey?” By coopermchatton 
+Medium	687010903519178752	2016-01-12T20:38:58	klaser Search is pretty basic right now. The only sort options are "all, people, or publications" we hope to have a better search this year
+Medium	687002751096586240	2016-01-12T20:06:34	“The change we wanted to believe in” by deray 
+Medium	686980497180774400	2016-01-12T18:38:08	“Remembering David Bowie” by wilw 
+Medium	686941618348240900	2016-01-12T16:03:39	“Jedi Principles of UI Animation” by AdaptivePath 
+Medium	686744413716885504	2016-01-12T03:00:01	“My point and shoot photo that made its way into the Smithsonian.” by Gtwy 
+Medium	686711675223842816	2016-01-12T00:49:56	“The Reductive Seduction of Other People’s Problems” by courtwrites 
+Medium	686673619863252993	2016-01-11T22:18:43	“People call me Aaron” by swartzcr 
+Medium	686634314763603968	2016-01-11T19:42:32	“Thank You, David Bowie, From The Weird Kids” by SaraJBenincasa 
+Medium	686632762418151429	2016-01-11T19:36:22	nenadciric just try ""
+Medium	686533048641294336	2016-01-11T13:00:08	“You’ve Got To Jump To Be Successful” by IAmSteveHarvey 
+Medium	685613588828917761	2016-01-09T00:06:32	“How to Become the Best in the World at What You Do” by BenjaminPHardy 
+Medium	685566691921670144	2016-01-08T21:00:11	“How A Robot Allowed My Seriously Ill Daughter To Attend School” by PamelaBrunskill 
+Medium	685549648681943040	2016-01-08T19:52:27	tymathews No, but you can unfollow them.
+Medium	685531949532753921	2016-01-08T18:42:07	“Why Your FitBit is Failing You” by TarynFixel 
+Medium	685484047737327616	2016-01-08T15:31:47	“The Unthinkable Is Happening in Our Own ‘Backyard’” by Jenna Elfman 
+Medium	685244963211231233	2016-01-07T23:41:45	jessicacheung Sorry there isn't. The best way would be to copy/paste them into new stories.
+Medium	685223745649131520	2016-01-07T22:17:26	“The Truth About Cosby Sweaters” by collectorswkly 
+Medium	685191380478525440	2016-01-07T20:08:50	GinaRClark Open your system settings on your phone, find Twitter and re-enter your Twitter password.
+Medium	685190654301876228	2016-01-07T20:05:56	brentellesmith are you pasting in an embed code? If so, it won't work. Try just using the URL instead.
+Medium	685190430627987457	2016-01-07T20:05:03	odower the emoji?
+Medium	685179309732933632	2016-01-07T19:20:52	“If you make technology, or work in the tech industry, I have good news for you” by anildash 
+Medium	685178118563217408	2016-01-07T19:16:08	mckiersey Sorry, there is not.
+Medium	685173840461221889	2016-01-07T18:59:08	staysmall It should be! On the web it's in a floating toolbar, in the app click the share button and then bookmark.
+Medium	685173059460845569	2016-01-07T18:56:01	robleathern That is annoying, we'll be revamping that stats page soon.
+Medium	685144879018606592	2016-01-07T17:04:03	“An Open Letter to Donald Trump” by rubinicholas 
+Medium	684902293452361728	2016-01-07T01:00:06	“The Secret Lives of Male Sex Abuse Survivors” by iproposethis 
+Medium	684872119126102016	2016-01-06T23:00:12	“The Fundamentalist Religious Views That Inspired Ammon Bundy to Occupy a Federal Facility” by Jon Krakauer 
+Medium	684846656336957440	2016-01-06T21:19:01	“The Easiest Way to Lose 125 Pounds Is to Gain 175 Pounds” by billbarnwell 
+Medium	684824134216364032	2016-01-06T19:49:31	lkivel Nope, we don't use passwords. Just click sign in with email, and we will email you a link to login.
+Medium	684823296798396416	2016-01-06T19:46:12	BallantyneSam They should be able to see them.
+Medium	684814930080468994	2016-01-06T19:12:57	“I Think Steven Avery Probably Did It. Here’s Why That Does And Doesn’t Matter” by SaraJBenincasa MakingAMurderer 
+Medium	684755556267995137	2016-01-06T15:17:01	“2015 in Review: The White House’s Year in GIFs” by WhiteHouse 
+Medium	684570098775027712	2016-01-06T03:00:04	“How I Saved My Cat’s Life with a Sledgehammer and a Selfie Stick” by jakek 
+Medium	684549367362027520	2016-01-06T01:37:42	PuraVidaChris try using the URL not the embed code.
+Medium	684539933407612929	2016-01-06T01:00:12	“Five Tips for Fact Checking Your Content!” by Megan_Cossey 
+Medium	684509721064165376	2016-01-05T23:00:09	[SPOILERS] “Rey is a Kenobi?” By benostrower 
+Medium	684493363165306880	2016-01-05T21:55:09	mrusme Ah yes, that will do it. There isn't a good solution for it. :(
+Medium	684488592702345216	2016-01-05T21:36:12	chrisdmacrae good catch! we'll get on that right away, thanks.
+Medium	684487610555744256	2016-01-05T21:32:18	mrusme make sure you don't have that shortcut mapped to something else in your keyboard settings.
+Medium	684479534398242817	2016-01-05T21:00:12	Writing prompt: Let’s talk about ‘Making A Murderer’ MakingAMurderer 
+Medium	684461043888689152	2016-01-05T19:46:44	dianakimball good suggestion! We'll let the team know.
+Medium	684450909443604480	2016-01-05T19:06:27	“When Television Is More Than an ‘Idiot Box’” by Charles Kenny 
+Medium	684419147321614336	2016-01-05T17:00:15	“When We Start Over” by omgstephlol 
+Medium	684388933631737856	2016-01-05T15:00:11	“Don’t Edit Your Imagination” by bchesky 
+Medium	684358733548273669	2016-01-05T13:00:11	“Machine learning for artists” by genekogan 
+Medium	684177526130749440	2016-01-05T01:00:08	“Medium accounts every designer must know” by usemuzli 
+Medium	684157364732170240	2016-01-04T23:40:01	“The Best Street Photographer In San Francisco, 2015” by brookpete 
+Medium	684126661697142784	2016-01-04T21:38:01	“I Moved to Linux and It’s Even Better Than I Expected” by dangillmor 
+Medium	684095026578636800	2016-01-04T19:32:18	“THE WORST CASE SCENARIO” by vanschneider 
+Medium	684056815986868224	2016-01-04T17:00:28	“What I learned not drinking for two years” by andymboyle 
+Medium	684026568209858561	2016-01-04T15:00:17	“How To Enjoy CES Or At Least Not Hate It So Much” by edzitron 
+Medium	683996338472656896	2016-01-04T13:00:09	“How an idea comes together for me” by jasonfried 
+Medium	683416623735246848	2016-01-02T22:36:35	“New Week’s Resolutions” by hassanisms 
+Medium	683360811394269185	2016-01-02T18:54:48	“Behind the Lens: 2015 Year in Photographs” by WhiteHouse 
+Medium	682247865557618688	2015-12-30T17:12:21	“My Mother Was An Undertaker” by myrtlemartin 
+Medium	681937396875706368	2015-12-29T20:38:39	“How to write a Slackbot in 40 lines of code” by mager 
+Medium	681701584909156352	2015-12-29T05:01:37	“A Map of the Introvert’s Heart” by gemmacorrell 
+Medium	680859632055631872	2015-12-26T21:16:00	“The Loneliest Day of the Year” by JSCarroll 
+Medium	680822351101988864	2015-12-26T18:47:52	“Can no longer abide by Touch ID” by craigmod 
+Medium	680206569775206400	2015-12-25T02:00:58	“Swipe Right On Monogamy” by CharoShane PostsFromTheNearFuture 
+Medium	679838147463659520	2015-12-24T01:36:59	“How I Growth-Hacked My Age In One Year” by hassanisms 
+Medium	679778546399641600	2015-12-23T21:40:09	“Don’t Blame Steve Harvey: Bad Design Caused the Miss Universe Fiasco” by josiahtullis 
+Medium	679761550228361216	2015-12-23T20:32:37	“How to Live, How to Work, and How to Die” by jakek 
+Medium	679718665256738816	2015-12-23T17:42:13	“The Most Wonderful Time Of The Year” by JohnDeVore 
+Medium	679464241561141248	2015-12-23T00:51:13	“Palo Alto Holiday Party Valet Parking Rules In Effect” by ericjackson 
+Medium	679414613604044804	2015-12-22T21:34:01	“A clear-eyed look at what worked with THE FORCE AWAKENS, what didn’t, and what’s next” by justdevin [SPOILERS] 
+Medium	679382271971868672	2015-12-22T19:25:30	cakesthebrain awwww, it's just what we've always wanted.
+Medium	679380120511971329	2015-12-22T19:16:57	crystalcy there isn't a way to do this yet. Better stats are high on the old to-do list.
+Medium	679379103422656512	2015-12-22T19:12:55	“When my Japanese-American family was treated as less than human” by RepMikeHonda 
+Medium	679373077109678081	2015-12-22T18:48:58	Meet PostsFromTheNearFuture, Medium’s end-of-the-year project that asks you to imagine a possible post from 2016 
+Medium	679365077984632832	2015-12-22T18:17:11	“Untangling the Tale of Ada Lovelace” by stephen_wolfram 

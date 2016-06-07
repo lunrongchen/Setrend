@@ -1,0 +1,480 @@
+patrickc	726168428009132032	2016-04-29T21:56:59	annawiener (cc michael_nielsen, bcrypt.)
+patrickc	726168366331879425	2016-04-29T21:56:44	annawiener yeah, I'm a fan -- the reformers have been fighting this one valiantly but seems the revolutionaries might finally force it…
+patrickc	726166081082155008	2016-04-29T21:47:39	Questionable tactics but so much obvious good in fixing the insane paywall system.
+patrickc	726165854832988161	2016-04-29T21:46:45	Very interesting piece on Sci-Hub: . Surprising that it took so long for something like this to exist.
+patrickc	726130166888566784	2016-04-29T19:24:57	annawiener I think Dulles read your piece 
+patrickc	725479583537991680	2016-04-28T00:19:46	micahbrich stripe DevPay4Lyfe
+patrickc	725392664514826240	2016-04-27T18:34:23	Finally got the original pair of routers that Stripe used to process its first $10B. (There are now a lot of them.) 
+patrickc	725191302967623680	2016-04-27T05:14:14	collision Aren't you supposed to buy and hold?
+patrickc	725070081877774337	2016-04-26T21:12:33	It's been interesting to see that our first couple of applications to BYOT have been teams with 50/50 men/women splits.
+patrickc	725041802818936833	2016-04-26T19:20:11	EricaJoy Was clear to me (and him!) that she was just as effective in their work together, though.
+patrickc	725041631607574528	2016-04-26T19:19:30	EricaJoy Tech cos valued him (standard well-credentialed engineer), really bad at understanding her. (Newer to industry, no CS degree).
+patrickc	725041263385268224	2016-04-26T19:18:02	EricaJoy For me, in addition to case cjc mentioned, the experience another close friend and her partner had in attempts to be hired.
+patrickc	724846464166404101	2016-04-26T06:23:58	stewart 😮 😯 😃 😍😍
+patrickc	724738754494128128	2016-04-25T23:15:58	shaft We already do! With you 100% on this.
+patrickc	724722227900370945	2016-04-25T22:10:18	shaft We'll update the post to reflect some of this discussion too.
+patrickc	724721608850427904	2016-04-25T22:07:50	shaft Good q. Will discuss that with the team.
+patrickc	724720297090273281	2016-04-25T22:02:38	shaft Central was a friend and former colleague being absolutely adamant that we should hire.
+patrickc	724720126675685377	2016-04-25T22:01:57	shaft If it doesn't, we'll adjust or stop.
+patrickc	724720015560183808	2016-04-25T22:01:31	shaft More broadly, since it seems it *could* help, we wanted to try it. I hate the ratio of talk to action in industry.
+patrickc	724719866452709378	2016-04-25T22:00:55	shaft Groups already migrate from company to company. We want to make sure we get *everyone*, not just those who look like what we expect.
+patrickc	724719143493062657	2016-04-25T21:58:03	shaft This is how we hired our first woman in eng -- an econ major who had only been programming for a year or two. And she was amazing!
+patrickc	724718957081456640	2016-04-25T21:57:18	shaft Because people can say "I know this person has unusual background but they're *awesome*!"
+patrickc	724718507141648385	2016-04-25T21:55:31	shaft Regardless, will absolutely be running program with this question (and goal) in mind.
+patrickc	724718357467930625	2016-04-25T21:54:55	shaft Part of idea's genesis was noticing that some of people from most unusual backgrounds at Stripe were hired as part of teams like this
+patrickc	724718044052750336	2016-04-25T21:53:40	shaft Goal is to better identify undervalued/underrepresented talent by not just applying traditional SV interview standards.
+patrickc	724714540089253888	2016-04-25T21:39:45	sean_a_rose Yeah, hard to know for sure. But given that it could work/help, we wanted to try it. We'll pay close attention to this.
+patrickc	724714115302748160	2016-04-25T21:38:04	sarahmei On contrary, we don't want to restrict team hiring to the set of founders with access to capital. Others deserve it too!
+patrickc	724713112767602688	2016-04-25T21:34:05	sean_a_rose Regardless, the standard SV approach empirically does not work well. So we want to start trying things and not just talking.
+patrickc	724712704213012480	2016-04-25T21:32:27	sean_a_rose And to overcome some of their associated structural biases. We'll monitor the results closely, though.
+patrickc	724712442882744321	2016-04-25T21:31:25	sean_a_rose First woman we hired in eng was part of a team like this. Our hope is that this is a way to get past traditional SV interviews.
+patrickc	724711785845018625	2016-04-25T21:28:48	tqbf Correct, that's the intent.
+patrickc	724711596769964033	2016-04-25T21:28:03	tqbf But it's what we're trying to avoid.
+patrickc	724711545062592512	2016-04-25T21:27:51	tqbf Hiring is complicated (as you know, I think :)), so I can't say that what you describe will categorically never happen.
+patrickc	724711244431642624	2016-04-25T21:26:39	tqbf The whole motivation behind making the commitment pass/fail is to avoid trying to split teams -- we don't like being in that position.
+patrickc	724710133167587328	2016-04-25T21:22:14	ninavizz hunterwalk We will monitor the results closely! It's at least clear that the standard approaches don't work so well.
+patrickc	724709579632705537	2016-04-25T21:20:02	ninavizz jess stripe avibryant On contrary, I hope this moves us past traditional SV interviews &amp; helps us overcome some of its biases.
+patrickc	724707956890042369	2016-04-25T21:13:36	hunterwalk And, more broadly, I hope that this is a way to help us move beyond the traditional SV interview process.
+patrickc	724707607336775680	2016-04-25T21:12:12	hunterwalk My hope is that it helps. The first woman in engineering at Stripe was part of a two-person team we hired.
+patrickc	724704888018468864	2016-04-25T21:01:24	3/ Yet virtually 100% of our hiring scenarios treat individuals outside of the context of their near network and coworkers.
+patrickc	724704603602735106	2016-04-25T21:00:16	2/ If you zoom out a little, talent travels in packs. People follow their friends and colleagues to new roles.
+patrickc	724704410262097922	2016-04-25T20:59:30	1/ Here's what I love about stripe's Bring Your Own Team (apply as a team) experiment... ()
+patrickc	724700401732218880	2016-04-25T20:43:34	You can now apply as a team to work at Stripe: 
+patrickc	724472477892497408	2016-04-25T05:37:53	Flying with collision, who was so taken with the inflight entertainment that he barely spoke for the flight. 
+patrickc	724339335210762241	2016-04-24T20:48:49	sacca rabois paulg We at least need to standardize Easter. Bane of metrics teams everywhere.
+patrickc	724338027779104768	2016-04-24T20:43:38	seldo paulg We used wonder what fraud detection had broken when we saw these wild spikes… and then realized it was 1st of month (again).
+patrickc	724337656436416514	2016-04-24T20:42:09	rabois paulg Yep. We've settled on trailing 28 day Y/Y as good combination of seasonally smooth but also unforgiving.
+patrickc	724336433087938560	2016-04-24T20:37:17	paulg Corollary (from early Stripe experience): metrics are an emotional rollercoaster until you accumulate the seasonality dataset.
+patrickc	724334711737180161	2016-04-24T20:30:27	stewartbrand interesting in the attitude / disposition. Reminds me of Carroll too: 
+patrickc	724334531159814144	2016-04-24T20:29:44	stewartbrand than ploddingly eliminating error in existing corpus. Obviously simplistic to set as true dichotomy but I think something […]
+patrickc	724334152548413440	2016-04-24T20:28:14	stewartbrand From conversation so a bit decontextualized. But basically more important to be affirmatively seeking important new truth […]
+patrickc	724292292270411776	2016-04-24T17:41:53	collision Reminds me of Carroll on falsifiability too. 
+patrickc	724291528772837378	2016-04-24T17:38:51	"We need less Less Wrong and more More Right." —peterthiel
+patrickc	724114883025862661	2016-04-24T05:56:56	This Scott Aaronson interview is very good (as usual): 
+patrickc	723198634066501632	2016-04-21T17:16:05	cjlew23 congrats!
+patrickc	723006294173442051	2016-04-21T04:31:47	pmarca Part of the famous "new tech is dangerous and scary" pmarca investment thesis, I presume.
+patrickc	722559336497553408	2016-04-19T22:55:44	RainerJoswig what setup is this?
+patrickc	722299122296836096	2016-04-19T05:41:45	sknthla bummed I missed it
+patrickc	722298349051744256	2016-04-19T05:38:40	sknthla SSC?
+patrickc	721734274517340162	2016-04-17T16:17:14	gavinsblog Good point -- will take a look
+patrickc	721477417487892481	2016-04-16T23:16:35	pbreit atlas not targeted at US founders (designed to solve problems of those overseas), but US folks welcome to use it if they like.
+patrickc	721455268022718465	2016-04-16T21:48:34	iotize BenedictEvans Twitter mis-parses it; should work if you copy/paste the whole thing
+patrickc	721444258176065536	2016-04-16T21:04:49	ciarancannon I wouldn't go quite that far! Wonderful place in so many ways. And such a remarkable success story. I'd happily live there.
+patrickc	721440364800774144	2016-04-16T20:49:21	Singapore's Midlife Crisis: ’s-midlife-crisis-14311.html 
+patrickc	721407608070930432	2016-04-16T18:39:11	nelson misspent weekends and recs from friends, pretty much. (Not being trite; don't have a clearer/better answer.)
+patrickc	721402503783288832	2016-04-16T18:18:54	nelson (reinvent the wheel poorly and slowly.)
+patrickc	721402236316753920	2016-04-16T18:17:50	johngmcguire will do!
+patrickc	721402153940594688	2016-04-16T18:17:31	nelson Eh I love this stuff. Seems a lot more efficient to start by reading about the old/great/ignored ideas than to first reinvent wheel.
+patrickc	721372845394165760	2016-04-16T16:21:03	kevin2kelly Did you ever post reply to Gordon you mentioned in ?
+patrickc	721367379003871233	2016-04-16T15:59:20	Reminiscent of LambdaMOO ()—another child of PARC, with characteristic empowerment attitude. 
+patrickc	721364328377491457	2016-04-16T15:47:12	Great piece on Minecraft, seeing it partly as response to our increasingly hermetic devices:  
+patrickc	721059003896188929	2016-04-15T19:33:57	My experience with Stripe Atlas:  
+patrickc	721037208656805888	2016-04-15T18:07:21	stuartaholmes74 I'm very sorry for the trouble. Can you email me? patrick@stripe.com
+patrickc	721012748281257984	2016-04-15T16:30:09	btaylor yeah, highly recommended -- up there with "masters of doom". scale/intensity far beyond any startup stories i've heard.
+patrickc	721012190971465728	2016-04-15T16:27:56	btaylor have you read "showstopper!"?
+patrickc	720990357928878081	2016-04-15T15:01:11	This wonderful talk from edelwax describes a huge shift that will eventually take place in our industry: 
+patrickc	720747523321630721	2016-04-14T22:56:15	I love PillPack -- they're unquestionably one of my favorite Stripe users. This is terribly frustrating. 
+patrickc	720636011470979072	2016-04-14T15:33:08	AustenAllred nope
+patrickc	720633941284114434	2016-04-14T15:24:54	Update:  appears to be building a bunch of the things I've always wanted.
+patrickc	720458775979782148	2016-04-14T03:48:52	San Francisco: an ongoing experiment in holocracy for cities.
+patrickc	720141730637418496	2016-04-13T06:49:02	sean_a_rose big fan
+patrickc	720094117993127936	2016-04-13T03:39:51	&gt; Poncho, what's the weather?  You are likely to get eaten by a grue.
+patrickc	720014613304070145	2016-04-12T22:23:55	Always trust your gut when it's right. Otherwise, go with your head.
+patrickc	720013887412670464	2016-04-12T22:21:02	I think "trust your gut" is questionable advice. So much post hoc selection bias. You neglect cases where you didn't but results were great.
+patrickc	719695662904815618	2016-04-12T01:16:31	香港, 你好！We're now sending out invites for our Hong Kong private beta. You can sign up for one at . 🇭🇰
+patrickc	719393843972472832	2016-04-11T05:17:12	nickcrocker one of my favorite quotes
+patrickc	718322489311498241	2016-04-08T06:20:01	collision I've seen "OIS" used in a few reports -- "officer-involved shooting". Curiously, the said involvement tends to be unidirectional.
+patrickc	718320403085729792	2016-04-08T06:11:44	I'm confident we'll address the underlying errors that led to this just as effectively as we have in the past.
+patrickc	718316336145920001	2016-04-08T05:55:34	If only there was any conceivable way to handle situations like this without murdering people. .
+patrickc	718315420739072000	2016-04-08T05:51:56	SF police shot a homeless man a block from our office today. Witness accounts contradict those of the officers.  
+patrickc	718261911599636481	2016-04-08T02:19:19	citadelgrad awesome.
+patrickc	718167311367032832	2016-04-07T20:03:24	joedamato post is really good! thank you for writing/publishing.
+patrickc	718083801126076416	2016-04-07T14:31:34	People from 185 countries have signed up for atlas. (collision's arms attempt to put that metric in perspective.)  
+patrickc	718082454523760640	2016-04-07T14:26:13	CrispinHeneise really glad to hear -- thank you!
+patrickc	717784920383328256	2016-04-06T18:43:55	CaseyNewton I look forward to your growing participation in the "how things are playing out on Facebook" ecosystem.
+patrickc	717750949872177152	2016-04-06T16:28:56	KarlOscarWeber yeah seemed to be large majority
+patrickc	717747878500773888	2016-04-06T16:16:44	clare_duignan There were at least two great talks from women. (Maybe more, I didn't see every one.) But yes. I wish it was more balanced :(
+patrickc	717745808548835329	2016-04-06T16:08:30	DannyvanKooten welcome aboard! Would love to hear any feedback along the way.
+patrickc	717745590688296960	2016-04-06T16:07:38	7/ And thanks to SingleFounder and robwalling for putting on a great event.
+patrickc	717745452301492224	2016-04-06T16:07:05	6/ I walked away with many pages of Stripe feedback and suggestions. (Thanks, all!)
+patrickc	717745313923006464	2016-04-06T16:06:32	5/ Talks aren't fluffy inspiration or burnished success stories. Instead, pricing models, funnel optimization, challenges of failure.
+patrickc	717745126248828928	2016-04-06T16:05:47	4/ Check out patio11's tweeting from the last few days for some good talk excerpts.
+patrickc	717744915975786496	2016-04-06T16:04:57	3/ The lack of VC money makes self-deception much harder. MicroConfers are strikingly rigorous, honest, and actively truth-seeking.
+patrickc	717744820802813953	2016-04-06T16:04:34	2/ Takeaways: when being small is okay, there are more interesting niches to build software for than you could ever imagine.
+patrickc	717744767015133188	2016-04-06T16:04:22	1/ I attended MicroConf -- a conference for bootstrapped entrepreneurs -- yesterday. 
+patrickc	717402578305175554	2016-04-05T17:24:38	nathanbarry yep, I'm here! Will be around all day.
+patrickc	717210367114539010	2016-04-05T04:40:51	collision 30 under 30%
+patrickc	717203229197602816	2016-04-05T04:12:29	sean_a_rose Plenty more where that came from. 
+patrickc	717199946592681984	2016-04-05T03:59:26	amy collision cjc lamps stripe 👏
+patrickc	717137882423500800	2016-04-04T23:52:49	gphat antifuchs uh maybe this is why nobody has been replying
+patrickc	717108650301468672	2016-04-04T21:56:40	antifuchs cc gphat
+patrickc	717088106298474496	2016-04-04T20:35:02	Or maybe a handwritten, high-latency reacji. Anyway, still figuring out the medium, but generally recommended.
+patrickc	717086681719922688	2016-04-04T20:29:22	It's like a paper-based, unidirectional, asynchronous version of Twitter in which you only say nice things.
+patrickc	717086528258723840	2016-04-04T20:28:45	Keeping a stack of blank thank you cards on my desk has increased my happiness.
+patrickc	716839634836152322	2016-04-04T04:07:41	Not just Fidelity downgrading the Internet any more. 
+patrickc	716820910590664704	2016-04-04T02:53:17	benthompson pmarca I think this is actually contested. And apparently untrue in the UK.  
+patrickc	716639674358312961	2016-04-03T14:53:07	william_griggs sorry about that; will fix
+patrickc	716637466111774721	2016-04-03T14:44:21	edelwax antimatter15 michael_nielsen would love to see/read more!
+patrickc	716453640538460164	2016-04-03T02:33:53	mrtazz joedamato jordw cheeseplus yeah agreed
+patrickc	716452943495434241	2016-04-03T02:31:07	joedamato 👍👍
+patrickc	716430454077808641	2016-04-03T01:01:45	 is awesome. I've wanted something like this to exist for ages.
+patrickc	716400419736387584	2016-04-02T23:02:24	stewart AFAIK, Utzon (architect) never saw the completed building.
+patrickc	716400156069863425	2016-04-02T23:01:21	stewart Recently learned that (like Eiffel Tower) people first thought it was kinda silly.  
+patrickc	716093464077688833	2016-04-02T02:42:40	We just shipped a new Stripe API quickstart tour:  
+patrickc	716291998961917953	2016-04-02T15:51:35	felixsalmon number of legs per person
+patrickc	715913001069465600	2016-04-01T14:45:35	In a related vein, new book from JSadikKhan (NYC transport commissioner under Bloomberg) is great: .
+patrickc	715911792652738562	2016-04-01T14:40:47	The Death and Life of Great Italian Cities: A Mobile Phone Data Perspective   
+patrickc	715031360998666241	2016-03-30T04:22:15	omid thank you!
+patrickc	715031277536206849	2016-03-30T04:21:55	Turns out the Twitter Moment works pretty well for this: 
+patrickc	715026572982484992	2016-03-30T04:03:14	Does anyone make 15 minute video summaries of the Democratic/Republican debates?
+patrickc	715008422022815744	2016-03-30T02:51:06	isaach I think it's the accent
+patrickc	715003406746648576	2016-03-30T02:31:10	CBognet ah yes! Didn't I tell you it was a good idea?
+patrickc	714998636719972354	2016-03-30T02:12:13	Canvas --  -- gets a lot of the small details *just* right.
+patrickc	714679953439268868	2016-03-29T05:05:53	synopsi Juan Bautista de Anza disagrees!
+patrickc	714649052688678912	2016-03-29T03:03:06	annawiener well I could hardly make the claim about financial undertakings more broadly 🙈
+patrickc	714646799084990464	2016-03-29T02:54:09	Oh well. We didn't move here for the arithmetic (numismatic pursuits are for New York), we came here for this. 
+patrickc	714644394154917889	2016-03-29T02:44:35	(Contrary to this tweet and despite just being a recent blow-in, I think it is just the 240th birthday. .)
+patrickc	714644002318880768	2016-03-29T02:43:02	San Francisco putting on a good show for its 240th birthday. 
+patrickc	713835538168487936	2016-03-26T21:10:29	colly I love that place
+patrickc	713618377927839744	2016-03-26T06:47:34	pmarca Ten selection biases about why they're the perfect entries for this list.
+patrickc	713064700498436096	2016-03-24T18:07:27	jshirley yes!
+patrickc	713011117497278464	2016-03-24T14:34:32	tobi Nah just linking fail on my part: . (Amazon review score is accurate!)
+patrickc	713009402299621376	2016-03-24T14:27:43	(I think I'm 30 years late to the party on the latter.)
+patrickc	713009297395822592	2016-03-24T14:27:18	From the flight-home-reading-material-dept.,  and  were 💯.
+patrickc	713007782715195392	2016-03-24T14:21:17	Really looking forward to attending MicroConf next week. Have wanted to go nearly every year since stripe started.
+patrickc	712737043361562624	2016-03-23T20:25:27	shefaliroy last todo before i went was to purchase one!
+patrickc	712667698019180544	2016-03-23T15:49:54	"Entrepreneurship in Cuba is the future" Meet the cuentapropistas—Cuban entrepreneurs—who told POTUS their stories: 
+patrickc	712650620876890112	2016-03-23T14:42:03	ProfJeffJarvis Many Cubans really want Uber/Lyft in Havana. Came up repeatedly.
+patrickc	712290808964186117	2016-03-22T14:52:17	rometty_ that may be too generalized, I think :-)
+patrickc	712289164037730304	2016-03-22T14:45:45	Bad housing policy has the same net effect as bad immigration policy. Negative sum outcome.
+patrickc	712144282337943552	2016-03-22T05:10:02	Remembering Andy Grove tonight. All of us in Silicon Valley are sitting in the shade of trees that he once planted.
+patrickc	712028824918056961	2016-03-21T21:31:15	.BarackObama advocates Stripe for Cuban entrepreneurs. 🇺🇸🇨🇺🐳 
+patrickc	711956321302523904	2016-03-21T16:43:09	.JamesFallows on Trump, Atlas and Cuba. (Three words I didn't expect together a few weeks ago.)  
+patrickc	711952117632663552	2016-03-21T16:26:26	Times change. Getting ready to chat with some locals in Cuba's first official panel on entrepreneurship. 
+patrickc	711592864690479104	2016-03-20T16:38:54	manp Not too bad. Need to work with someone to arrange permit but was pretty straightforward. Overall, recommended!
+patrickc	711574589243981827	2016-03-20T15:26:17	Jason manp Yeah. Pretty short leg -- ~1.5 hours including some delay vectors.
+patrickc	711515921794240512	2016-03-20T11:33:09	manp Jason Yep! DA42.
+patrickc	711278420177637376	2016-03-19T19:49:24	We made it! 
+patrickc	711226514960945153	2016-03-19T16:23:09	Departing Miami with my copilot. Next stop: Havana! 
+patrickc	710951924602785794	2016-03-18T22:12:02	TheTedNelson Of who and what is Ted Nelson?
+patrickc	710856998368190464	2016-03-18T15:54:50	Americans are *increasingly* likely to see trade as an opportunity, rather than a threat.  
+patrickc	710868798287454208	2016-03-18T16:41:43	Last year, mhelft wrote a great story about the challenges Cuban entrepreneurs have faced:  
+patrickc	710863591402921985	2016-03-18T16:21:02	As part of bringing atlas to Cuba, we're excited to work with Merchise Startup Circle. .
+patrickc	710859012833615872	2016-03-18T16:02:50	We're opening Atlas to entrepreneurs in Cuba:  🇨🇺 
+patrickc	710301961501810688	2016-03-17T03:09:19	Larry Summers sharing wisdom stripe. economics stripehighlights 
+patrickc	709201147806883842	2016-03-14T02:15:04	natfriedman Yep! Also, check out How Buildings Learn by stewartbrand. Super read.
+patrickc	709197620107870208	2016-03-14T02:01:03	China adopts New Urbanism: 
+patrickc	709186630968414209	2016-03-14T01:17:23	collision Also,  
+patrickc	709186048794841088	2016-03-14T01:15:04	collision I look forward to the JamesFallows thinkpiece explaining why it's all actually okay -- I think I need it.
+patrickc	708786551862366208	2016-03-12T22:47:37	This JeffreyGoldberg interview (novella -- 20,000 words) with Obama about his foreign policy is top-notch: 
+patrickc	708543973900464128	2016-03-12T06:43:42	@sibh Try Labyrinths by Borges next! Very clearly inspired by it...
+patrickc	708539450528178176	2016-03-12T06:25:43	sknthla Microsoft, Google also similar
+patrickc	708480689306357764	2016-03-12T02:32:13	The pivotal night. (The village lost.) 
+patrickc	708319610773196800	2016-03-11T15:52:09	In this time of national moral crisis, let us engage with a "recognizable global brand". brands 
+patrickc	708121843841024000	2016-03-11T02:46:18	I say this every GOP debate, but really true this time: I will lose my will to live if I hear any more of this, so once again pass the baton
+patrickc	707958655002349569	2016-03-10T15:57:51	Twitter ftw! 
+patrickc	707957310178459648	2016-03-10T15:52:30	Someone should turn this into an app: . cc finitor
+patrickc	707471328127926273	2016-03-09T07:41:23	Well, TeamHumanity didn't last long. 
+patrickc	707063572996579328	2016-03-08T04:41:07	JDcarlu arampell 😳
+patrickc	707017399384481793	2016-03-08T01:37:38	amberrayh 404 😧
+patrickc	706960280043925504	2016-03-07T21:50:40	Exciting rainfall numbers from the Northern Sierra 8-station Index!  
+patrickc	706873551580581889	2016-03-07T16:06:02	kevingibbon To be fair, completely fine with them/anyone pitching that. (Flattered even!) But copying those agonizingly-designed meteors…
+patrickc	706866660288802817	2016-03-07T15:38:39	🤔 
+patrickc	706556350772318208	2016-03-06T19:05:35	An excellent, scathing analysis from David Remnick makes some similar points: 
+patrickc	706217692433248256	2016-03-05T20:39:53	MikeIsaac yup I think that's true. (And the most common outcome.)
+patrickc	706216368484413440	2016-03-05T20:34:37	MikeIsaac Netscape, iOS, Lotus 1-2-3, WordStar were all cloned to huge success by big companies.
+patrickc	706215945287565312	2016-03-05T20:32:56	MikeIsaac I think there's a lot of selection bias -- we remember prominent failures more than quiet successes.
+patrickc	706157053249650688	2016-03-05T16:38:55	edwardlando obsessive trawling; quick discarding. Underlying source chasing. And a lot of misspent hours.
+patrickc	705830843013472256	2016-03-04T19:02:41	Good article on this paper from tylercowen in NYT today: 
+patrickc	705577231771238400	2016-03-04T02:14:55	Looking forwarded to the updated version of this tweet for tonight. 
+patrickc	705427734286041089	2016-03-03T16:20:52	DKThomp 
+patrickc	705427717521432576	2016-03-03T16:20:48	maxwellelliot 
+patrickc	705426959732355072	2016-03-03T16:17:48	Writing required a few iterations before we nailed it. 
+patrickc	705407969517633536	2016-03-03T15:02:20	Peterbart don't worry; irony far from lost
+patrickc	705403185926549504	2016-03-03T14:43:19	patio11 US embassies are uniquely bad at this
+patrickc	705054545840201729	2016-03-02T15:37:57	tommycollison just showed us no Pluto.
+patrickc	705052885046861824	2016-03-02T15:31:21	lsukernik Right, yes. Basically my argument is that the "hours worked" figure is increasingly a lie.
+patrickc	705043013974622209	2016-03-02T14:52:08	When you think about it, optimizing engagement is a horrifying goal. "Maximizing attention harvested!"
+patrickc	705040659846078466	2016-03-02T14:42:46	I know it sounds kinda crazy. But, then again, I also know how much of a productivity boost I get out of disabling my internet access…
+patrickc	705039375852130304	2016-03-02T14:37:40	Productivity grows more rapidly when we invent the internet... until '04, when we invent social media. 
+patrickc	705039105176932352	2016-03-02T14:36:36	We calculate productivity as GDP per hour worked. I wonder how much increasingly distracting technology is responsible for slowdown.
+patrickc	704907486869000192	2016-03-02T05:53:36	nelhage wait how many programming tumblrs do you even have
+patrickc	704628965433057280	2016-03-01T11:26:51	France Declares All New Rooftops Must Be Topped With Plants Or Solar Panels  via CSGlobe
+patrickc	704535692592812033	2016-03-01T05:16:13	patrickc I think we can all learn from each other's innovation 
+patrickc	704532600128319492	2016-03-01T05:03:56	ilyasu company HQ Illinois; he works from Boston.
+patrickc	704532070287060992	2016-03-01T05:01:49	But anyway back to the Facebook reacji.
+patrickc	704531476629450753	2016-03-01T04:59:28	Merrily developing influential, broadly-deployed software tools for scientists and engineers for 30 profitable years. With a remote CEO.
+patrickc	704530269148020737	2016-03-01T04:54:40	Wolfram Research continues to be such a fascinating and poorly told tech success story.
+patrickc	704529771586129920	2016-03-01T04:52:41	.Stephen_Wolfram speaks at Stripe this evening. 
+patrickc	704328355483484161	2016-02-29T15:32:20	😕.  
+patrickc	704129281241165824	2016-02-29T02:21:17	jan_sramek Would suggest he'll have increasingly little electoral success in a broad sense.
+patrickc	704128165296209920	2016-02-29T02:16:51	jan_sramek (From The Open Society.)
+patrickc	704127908416126976	2016-02-29T02:15:50	jan_sramek I think original characterization is accurate given this? (Just hunted down part I was remembering…) -- 
+patrickc	704118572369313794	2016-02-29T01:38:44	Great New Yorker profile on Derek Parfit: 
+patrickc	704102922330595329	2016-02-29T00:36:32	Didn't Popper argue that democracy is less representing the people and more weeding out bad rulers? Seems like we have a chance to check.
+patrickc	703904351149006848	2016-02-28T11:27:29	lukego awesome, thanks!
+patrickc	703901090065027072	2016-02-28T11:14:32	lukego what'd you use to learn it?
+patrickc	703703694500601856	2016-02-27T22:10:09	oanacarja thx!
+patrickc	703667828893868034	2016-02-27T19:47:38	oanacarja what's that from?
+patrickc	703617623771058177	2016-02-27T16:28:08	patrickc something I came across a while ago...  
+patrickc	703616605738110977	2016-02-27T16:24:06	jasonbrennan I think that's PlaNet, not Pl@ntNet :-)
+patrickc	703614323055263744	2016-02-27T16:15:01	(Unclear what image processing approach it uses, however.)
+patrickc	703614013456916480	2016-02-27T16:13:47	Sure enough, here's an attempt: !
+patrickc	703562538433306624	2016-02-27T12:49:15	johnjianwang wgyn_ Just found you! 
+patrickc	703328209576787969	2016-02-26T21:18:07	ezraklein (But, hey, on that front, you've to account for very deviously hidden growth: .)
+patrickc	703327422448607236	2016-02-26T21:14:59	ezraklein And so, given present exceptionalism you have to adopt (*now* it'll accelerate), I think I'm more sympathetic to mismeasurement…
+patrickc	703326463085387780	2016-02-26T21:11:10	ezraklein In sense that the arguments generally seem invariant under temporal translation -- can just as easily make them 10 years ago :-).
+patrickc	703326175905579009	2016-02-26T21:10:02	ezraklein Yes, for sure. Though anyone taking *that* out (hasn't but will) generally ends up proving too much, IMO.
+patrickc	703321900857090052	2016-02-26T20:53:02	ezraklein Are you convinced by his arguments?
+patrickc	703277485010477056	2016-02-26T17:56:33	FraudBird security. Existing incorporation procedures have *very* lax checks, as you no doubt know. We will do substantially more.
+patrickc	703277191988006912	2016-02-26T17:55:23	FraudBird stripe MikeIsaac Stripe + SVB will do regular stringent background checks and KYC. Important not to conflate complexity and […]
+patrickc	702971966588846083	2016-02-25T21:42:32	jbminn anildash stripe And getting good at *that* is also a journey :-).
+patrickc	702971676447936514	2016-02-25T21:41:22	jbminn anildash stripe Don't worry, we make lots of mistakes :-). Just try to value spotting and fixing them.
+patrickc	702967687056637952	2016-02-25T21:25:31	anildash Thank you! (But Stripe's actions are the product of all of Stripe.  gets the credit.)
+patrickc	702885617902878720	2016-02-25T15:59:24	I enjoyed chatting with benthompson about atlas: .
+patrickc	702631213454864384	2016-02-24T23:08:30	isaach yes this was great
+patrickc	702595862451519488	2016-02-24T20:48:01	NinaVlevin thank you!
+patrickc	702584717384785922	2016-02-24T20:03:44	pdeva collision thank you!
+patrickc	702584599726133248	2016-02-24T20:03:16	craigkerstiens Thank you so much for the feedback :-).
+patrickc	702557054251114496	2016-02-24T18:13:49	jazzychad Nope! Any model is just fine.
+patrickc	702538492413415424	2016-02-24T17:00:03	The Fellowship + Stripe Atlas 
+patrickc	702529279846916096	2016-02-24T16:23:27	sdw bdc Thank you very much!
+patrickc	702512446519398401	2016-02-24T15:16:33	janl Thank you very much! So excited to launch it :-)
+patrickc	702489041552277504	2016-02-24T13:43:33	Tears of joy. stripeatlas Stripe: Atlas 
+patrickc	702489583095844865	2016-02-24T13:45:42	 Seriously? this is a fucking huge game changer
+patrickc	702489600556732416	2016-02-24T13:45:47	Oh my god stripe yay  - want to look into this, but this solves a HUGE problem entrepreneurs have.
+patrickc	702483560070971392	2016-02-24T13:21:46	Wondering why it matters? Watch entrepreneurs from Guatemala to Egypt describe how Atlas would help them: 
+patrickc	702482739040112640	2016-02-24T13:18:31	We're launching Atlas: everything you need to start an internet business, from anywhere.  🗺🌐 
+patrickc	702478785342345216	2016-02-24T13:02:48	Dammit I can only find my slides for Desktop World Congress
+patrickc	702460891141255168	2016-02-24T11:51:42	Looking forward to speaking at MWC in an hour. We'll be showing something new. (There should be a livestream at …)
+patrickc	702193723476586496	2016-02-23T18:10:04	collision Any updates? 
+patrickc	702093414750363648	2016-02-23T11:31:28	chimeracoder Absolutely. I don't understand why this doesn't make people more pessimistic. It sure makes me epistemically despondent :-)
+patrickc	702092773126709248	2016-02-23T11:28:56	chimeracoder (In the strict sense -- .)
+patrickc	702092675332382720	2016-02-23T11:28:32	chimeracoder Yeah, he makes that point earlier on -- how trials might be commendably internally valid but have dubious external validity.
+patrickc	702090516754800640	2016-02-23T11:19:58	An interview with Vinay Prasad:  
+patrickc	702090025421422592	2016-02-23T11:18:00	Krugman (20 years ago) on politicians' obsession with remaining competitive:  
+patrickc	701911821331070980	2016-02-22T23:29:53	pdeva nice post!
+patrickc	701910250060955648	2016-02-22T23:23:39	natfriedman But while ostensibly arcane, in resolving the question it's only *the future of our civilization* in the balance.
+patrickc	701910088970272769	2016-02-22T23:23:00	natfriedman Jokes aside, I'm made fun of not infrequently for finding the productivity stuff so interesting.
+patrickc	701909930551463937	2016-02-22T23:22:22	natfriedman Right?! Such a cliffhanger. "Is the US going to make it?"
+patrickc	701899709070311430	2016-02-22T22:41:45	natfriedman Gordon book you mean? (Or the talk?)
+patrickc	701844561128255488	2016-02-22T19:02:37	On way way! he chirped inadvertently.
+patrickc	701842458221682689	2016-02-22T18:54:16	MikeIsaac "Should Apple have to design iPhones that governments around the world can force them to decrypt?"
+patrickc	701842204583657472	2016-02-22T18:53:15	MikeIsaac I think it just points to our collective failure to communicate issue. And question is arguably leading.
+patrickc	701831934134067200	2016-02-22T18:12:27	km paulg As the moment when the fate of administrations started to be determined by their ability to execute major software projects.
+patrickc	701830227614425088	2016-02-22T18:05:40	paulg (He really used that term! .)
+patrickc	701829125619769344	2016-02-22T18:01:17	paulg Yes; I think Obama's  "tech surge" speech on the Rose Lawn will be looked back at as a watershed moment.
+patrickc	701523429950955521	2016-02-21T21:46:34	NinjaEconomics is that... real?
+patrickc	701518460652752896	2016-02-21T21:26:49	artypapers chamath it's such mess
+patrickc	701451693549080576	2016-02-21T17:01:30	NinjaEconomics that's a scary chart
+patrickc	701269343116648448	2016-02-21T04:56:55	daniellegee uh, RENT 🙈
+patrickc	701266347540541441	2016-02-21T04:45:00	Benioff pmarca surely he disagrees with it?
+patrickc	701265599427641345	2016-02-21T04:42:02	daniellegee I also had to atone for falling asleep during the last musical we attended together
+patrickc	701265416727961600	2016-02-21T04:41:18	daniellegee pretty sure tommycollison would have disowned me if I hadn't gone
+patrickc	701260711213793280	2016-02-21T04:22:37	Given professional relevance (Treasury, banking system, etc.), went to go investigate Hamilton with tommycollison. 
+patrickc	701257417997291520	2016-02-21T04:09:31	johnjianwang wgyn_ hah! I wish he actually tried to quantify the degree of GDP mismeasurement back in the day
+patrickc	701187982292811777	2016-02-20T23:33:37	tommycollison collision Hm I think the hashtag is for things that actually happened...
+patrickc	701151969616990213	2016-02-20T21:10:30	AmmarM08 I did? :-)
+patrickc	701139061357076481	2016-02-20T20:19:13	skamille this post is great: 
+patrickc	701087799013941248	2016-02-20T16:55:31	Also, on the same topic, Gordon's new book is great: . (Despite pompous title, actually a page-turner!)
+patrickc	701076027011964928	2016-02-20T16:08:44	While not altogether convincing, this is an interesting read on the mismeasurement hypothesis: 
+patrickc	700763385290498048	2016-02-19T19:26:25	isamutlib Digital Ocean among others
+patrickc	700737569697374208	2016-02-19T17:43:50	jshirley Bought based on your previous recommendation but haven't had a chance to read yet!
+patrickc	700690554787651584	2016-02-19T14:37:01	A new salvo: they don't!  
+patrickc	700542576709996544	2016-02-19T04:49:00	nelhage Truth of that hinges on how you define algorithms of course. But maybe they just meant eliminating accidentally quadratic behavior.
+patrickc	700542428604981248	2016-02-19T04:48:25	nelhage I read the claim somewhere that better algorithms have done more for software speed than Moore's Law
+patrickc	700535796554665984	2016-02-19T04:22:03	zachklein I love Cazadero
+patrickc	700094409963020288	2016-02-17T23:08:09	Hat off to tim_cook in standing up so strongly for the only technically tenable (and the ethically correct) stance on encryption today.
+patrickc	699748075863089152	2016-02-17T00:11:56	If the efficient-market hypothesis were true, someone would have thought of it before Fama.
+patrickc	699692274565820416	2016-02-16T20:30:12	jf 😢
+patrickc	699480923058737152	2016-02-16T06:30:22	sch annawiener I think he signs the authentic Denis ones and the rest are from his brand management team
+patrickc	699476835235573760	2016-02-16T06:14:07	With these housewarming mints, I think deniscollison may be eligible for a lifetime achievement award in DadGifts. 
+patrickc	699410041460293632	2016-02-16T01:48:42	collision Why does modern culture have so much word-shaming
+patrickc	699268999914196992	2016-02-15T16:28:16	JamesFallows I was hoping you'd have a reassuring, historically-informed argument that'd convince us of its negligibility :(
+patrickc	699077364655923200	2016-02-15T03:46:46	vgr What are they? It's also interesting to think about what else is in this category.
+patrickc	699003526429540352	2016-02-14T22:53:22	JamesFallows what's your present assessment of probability of him winning the nomination?
+patrickc	698924268373946368	2016-02-14T17:38:25	isaach CircularArgument
+patrickc	698923211275153408	2016-02-14T17:34:13	Early tech community recognized that Engelbart's personal computing lark was pretty silly. 
+patrickc	698922243934425089	2016-02-14T17:30:22	Doctors advocating insane germ theory of disease would no doubt have had a great time on Twitter. 
+patrickc	698917949961187328	2016-02-14T17:13:19	Go heterodoxy! Keep Twitter weird!
+patrickc	698917926305333248	2016-02-14T17:13:13	Heaping snarky opprobrium on those who step outside orthodoxy will yield fewer bad ideas… and fewer good ones. And less interesting debate.
+patrickc	698917893598085120	2016-02-14T17:13:05	Maybe what he said is 100% wrong. But I still want people like him to say these things and for the ideas to progress.
+patrickc	698917850245795841	2016-02-14T17:12:55	Much easier to respond with the snark, the how-dare-they, and the easy ridicule. (Did Vinod *really* say that about liberal arts education?)
+patrickc	698917732511682561	2016-02-14T17:12:27	Related: I think we (as an internets/Twitter community) often do a pretty bad job of being receptive to interesting-but-perhaps-wrong ideas.
+patrickc	698912351630684160	2016-02-14T16:51:04	The Arc Of The Choral Universe 
+patrickc	698906850448711681	2016-02-14T16:29:12	Coda has an excellent post on the Fan-In Problem:  
+patrickc	698680004742402049	2016-02-14T01:27:48	patrickc I just keep picturing how mad Zuck must have been that it happened on Twitter. 😭😁
+patrickc	698679581948059648	2016-02-14T01:26:07	(And, yes, his tweet about India/colonialism was wrong. But many of the other 90k tweets were great!)
+patrickc	698679091310931968	2016-02-14T01:24:10	.pmarca has stopped tweeting ☹️
+patrickc	698576308259786752	2016-02-13T18:35:45	mdudas tristanwalker It's all just net present value of projected future free cash flow per share! (Not catchiest slogan though...)
+patrickc	698398896481914880	2016-02-13T06:50:47	naval shocking how many important decisions people make without properly consulting Internet forums
+patrickc	698174435111542786	2016-02-12T15:58:51	jshirley !! I have not yet had the chance to bask in its humane cabin altitude and soothing humidity but I eagerly await the opportunity
+patrickc	698173826299891714	2016-02-12T15:56:26	BenedictEvans stagnation there too 
+patrickc	698172201774624769	2016-02-12T15:49:58	
+patrickc	698039179905617920	2016-02-12T07:01:24	"It'll be more like air travel—and drug discovery, actually. What I'm saying is, imagine Congress made chips. We're going to be just fine."
+patrickc	698038791437549568	2016-02-12T06:59:51	I'm not sure this analogy is quite as reassuring as Reed intends. ☹️  
+patrickc	697999236038668289	2016-02-12T04:22:40	ilyasu feedbin
+patrickc	697810427183366144	2016-02-11T15:52:25	.seanmcarroll on the detection:  
+patrickc	697310545708318721	2016-02-10T06:46:04	tristanwalker 
+patrickc	697310448077533185	2016-02-10T06:45:40	tristanwalker this!!! And for music. It'll be a killer product whenever someone builds it. Don't undertaking how it doesn't exist.
+patrickc	697285788199841792	2016-02-10T05:07:41	naval Something seems inefficient since this was pretty much exactly what the polls predicted.
+patrickc	696943101202579456	2016-02-09T06:25:58	sknthla Sorta reminds me of  
+patrickc	696476271253925889	2016-02-07T23:30:57	seanmcarroll Found  very useful; thanks for writing!
+patrickc	696397522303000576	2016-02-07T18:18:02	artypapers Bernard Shaw!
+patrickc	696379353081339904	2016-02-07T17:05:50	zachklein :( that sucks
+patrickc	696148606881935363	2016-02-07T01:48:56	My thoughts on the Twitter algorithmic timeline: 
+patrickc	696149122886213632	2016-02-07T01:50:59	adamdangelo excellent post
+patrickc	696145265737076739	2016-02-07T01:35:39	wooster that was/is brutal
+patrickc	696108898026070016	2016-02-06T23:11:09	lisperati Congrats! Would you give a talk about them at Stripe some day? :-)
+patrickc	696108116925001729	2016-02-06T23:08:02	noahlt Oh and struggling slowly through Spacetime and Geometry by Carroll.
+patrickc	696107598613905408	2016-02-06T23:05:59	noahlt Chernow's Hamilton biography, How Buildings Learn by Brand, and Rise and Fall of American Growth by Gordon. All 👍
+patrickc	696095953095229440	2016-02-06T22:19:42	alamin_uddin  is the closest version I have
+patrickc	696093743045173248	2016-02-06T22:10:55	Field estimates that the telegraph saved the US ~$1B (7% of nominal 1890 GDP) on railroad construction alone. 
+patrickc	696093031842185216	2016-02-06T22:08:06	It's hard to predict the effects of new infrastructure. Neat article from Alexandier Field about the telegraph: .
+patrickc	696021556632227840	2016-02-06T17:24:05	evoinvitro yes I also disagree with that part
+patrickc	696019020802174976	2016-02-06T17:14:00	More on smartphones as this generation's automobile. (From .) 
+patrickc	696013353945161728	2016-02-06T16:51:29	jamesjyu btaylor I think they're often -- perhaps usually? -- implicit.
+patrickc	696003362878173184	2016-02-06T16:11:47	btaylor The revolution will be sequentially tweeted but the baby photos can be arbitrarily ordered.
+patrickc	696003241914437632	2016-02-06T16:11:18	btaylor I suspect it's a function of the content and mode. There's no inter-post discussion on FB so no value to chronological ordering.
+patrickc	695999076433661954	2016-02-06T15:54:45	sacca Initially missed your tweet while scrolling through some pertinent updates from Cool Ranch Doritos.
+patrickc	695522216838991872	2016-02-05T08:19:53	sch Were they ponzu cookies?
+patrickc	695521737224499200	2016-02-05T08:17:58	oskarth initial signs very promising!
+patrickc	695132897389318144	2016-02-04T06:32:52	tarstarr yep. I'll show it to you tomorrow!
+patrickc	695122752244621313	2016-02-04T05:52:33	(If longevity can be thusly enhanced I suspect we're going to be stuck with him for a long time.)
+patrickc	695122120355909632	2016-02-04T05:50:02	OH collision: "Not drinking is great. I think the major health benefit is less the lack of alcohol and more the warm sense of superiority."
+patrickc	694387091841486848	2016-02-02T05:09:18	(Somewhat ironically, it's quite difficult to figure out how to Tweet a link to one, however.)
+patrickc	694386528181555202	2016-02-02T05:07:04	The follow-able Moment for Iowa has been pretty cool. (I only just realized that you can temporarily follow events.) 
+patrickc	694163990629449728	2016-02-01T14:22:46	martinkl intensivedata 🎉
+patrickc	694008309028794368	2016-02-01T04:04:09	ohadsamet DelRey don't worry not new info
+patrickc	694003442751184896	2016-02-01T03:44:49	DelRey Hey I finally had a chance to make true my high school teacher's insistence that chemistry is useful in the modern world
+patrickc	693982372237168640	2016-02-01T02:21:05	In many ways, Twitter feels like a societal catalyst: a surface area increase that accelerates cultural chemical reactions.
+patrickc	693839197870764033	2016-01-31T16:52:10	CreativityKills not yet but you should email tmf@stripe.com. We'd love to bounce some ideas off you.
+patrickc	693689899786989568	2016-01-31T06:58:54	antifuchs dylanvee the shock is surprisingly strong. Btw I never want sugar again
+patrickc	693667784887132160	2016-01-31T05:31:02	jess isaach you have to do so (which apparently still works) cc natfriedman
+patrickc	693665740960829441	2016-01-31T05:22:54	(I thought it was a joke at first but natfriedman reports successful first-hand experience.)
+patrickc	693665182803894272	2016-01-31T05:20:41	isaach haven't definitively decided yet but probably sugar
+patrickc	693664723485655040	2016-01-31T05:18:52	I just got a . Very excited to try it.
+patrickc	693619058114064384	2016-01-31T02:17:24	Stripe Mt Tam run, winter edition. 
+patrickc	693536535900065793	2016-01-30T20:49:30	Startups. 
+patrickc	693317698852237312	2016-01-30T06:19:55	btaylor (Community, library support, IDE support, browser support, mobile support, runtime support…)
+patrickc	693316964173770753	2016-01-30T06:17:00	btaylor Yeah, fine balance. I wish we could experiment faster here. Languages are such sprawling edifices today that progress is glacial.
+patrickc	693315044143079424	2016-01-30T06:09:22	This is cool:  h/t duncanmak
+patrickc	692954681220452352	2016-01-29T06:17:25	colinmarc see page 329 of  
+patrickc	692953390419173377	2016-01-29T06:12:17	colinmarc that actually reminds me of Feynman derivation of gravity for people who can't observe heavens
+patrickc	692821914478211072	2016-01-28T21:29:51	collision We're like #859, you mean
+patrickc	692576354009657344	2016-01-28T05:14:04	Pity those generations past, forced into transcendent contemplation, bereft of the joys of Siri frenetically squawking the internet at them.
+patrickc	692574584164392960	2016-01-28T05:07:02	Good lord Pocket text-to-speech + running = the very best.
+patrickc	692455806038487040	2016-01-27T21:15:04	ellenhuet I have no idea. I'll admit that the milestone caught me somewhat by surprise. I'm still a base 365 traditionalist I guess.
+patrickc	692454206775672832	2016-01-27T21:08:42	Included an accurate projection of the promising growth curve. 
+patrickc	692453957902336000	2016-01-27T21:07:43	The folks at Stripe gave me a card for surviving the first 10^4 days on the planet! 💯x💯🎉 
+patrickc	692097485469122560	2016-01-26T21:31:13	spignal (If they already publish these, super interested to read!)
+patrickc	692097373107937280	2016-01-26T21:30:46	spignal Sorry, I should have clarified -- I mean overall + medium-term. Like, if I follow their targets in general, will I make money?
+patrickc	692012695617277953	2016-01-26T15:54:18	So do investment banks ever publish analyses of the accuracy of the 12 month stock price targets they report?
+patrickc	691871788641435648	2016-01-26T06:34:23	Trae Vassallo and Michele Madansky interviewed by karaswisher: 
+patrickc	691805658597949441	2016-01-26T02:11:36	peretti I love that book
+patrickc	691708696682868736	2016-01-25T19:46:19	I'm really exited to announce that I've joined Stripe.  Over that last year, building up Trimian with Amit has... 
+patrickc	691734987230486528	2016-01-25T21:30:47	martinkl I credit antifuchs with the original idea (though iirc his motivations were different)
+patrickc	691402224723857409	2016-01-24T23:28:30	VitalikButerin directionally correct exaggerations like that are the worst things in the universe
+patrickc	691342170553384961	2016-01-24T19:29:52	 
+patrickc	691341980916264960	2016-01-24T19:29:07	 
+patrickc	691341768801947648	2016-01-24T19:28:16	  "When a measure becomes a target, it ceases to be a good measure."
+patrickc	691309588402933760	2016-01-24T17:20:24	hunterwalk TheStalwart (sense of contradiction resolved by companies having different underlying, non-constant risks.)
+patrickc	691308453004881920	2016-01-24T17:15:53	hunterwalk TheStalwart And it's latter that employees observe -- P(failure|Series B) &lt; P(failure|seed round) across set of all companies.
+patrickc	691307950434947072	2016-01-24T17:13:53	hunterwalk TheStalwart I think it re-risks a given company. But it's still true that companies with more funding fail less.
+patrickc	691292166845390848	2016-01-24T16:11:10	Trivers' pursuit: 
+patrickc	691069763406077952	2016-01-24T01:27:25	sebasbensu nice to meet you, briefly :-)
+patrickc	691022188137152512	2016-01-23T22:18:22	 is great! (H/t stewartbbrand.)
+patrickc	690748060649988097	2016-01-23T04:09:05	pmarca Gravity is a great example!  Even gravity had bugs and required GR :-). (And still has issues…)
+patrickc	690744540131536896	2016-01-23T03:55:06	pmarca When all the evidence points one way, you start to suspect a measurement problem!
+patrickc	690743877213360128	2016-01-23T03:52:28	pmarca  
+patrickc	690742803786117120	2016-01-23T03:48:12	pmarca Do you think that the internet/smartphones have *any* downsides? (If so, what?)
+patrickc	690565798398570501	2016-01-22T16:04:51	[New ProductHunt Podcast Episode] patrickc on Stripe, education, immigration, advice for entrepreneurs, &amp; more.  
+patrickc	690416095434514432	2016-01-22T06:09:59	waxpancake That's pretty majestic. Chapeau to them I say.
+patrickc	690284923270246400	2016-01-21T21:28:45	28% of people who work at Stripe are immigrants.
+patrickc	689947760091619328	2016-01-20T23:08:59	pmarca asymco clipperhouse This is one of the biggest problems in the world and the root of so many evils. And I see no solution.
+patrickc	689873110279958528	2016-01-20T18:12:21	shaunmmaguire Caltech 10x the sun would be pretty impressive :-)
+patrickc	689703261507444736	2016-01-20T06:57:26	Trump and Palin: linguistically, both candidates from the post-sentence era of politics. Like badly tuned Markov generators.
+patrickc	689641144628555776	2016-01-20T02:50:36	baryshnikova yes I really like it
+patrickc	689586862847983617	2016-01-19T23:14:54	David Deutsch is one of my favorite people. Quantum physicist, philosopher, author, indie Mac developer… 
+patrickc	689167059331104769	2016-01-18T19:26:45	rabois sean_a_rose artypapers I'm too awkward to be a VC
+patrickc	689166585693507584	2016-01-18T19:24:52	isaach how would you frame this as an OKR?
+patrickc	688117970350911490	2016-01-15T21:58:03	Since most people show up to court and bail is returned, your donation is used many times over and benefits many lives.
+patrickc	688117752456851458	2016-01-15T21:57:11	Favorite stripe user discovery of the week:  covers bail to fight a flawed justice system.
+patrickc	688111863314296832	2016-01-15T21:33:47	CaseyNewton Haven't but fwiw I predict Bitcoin is ~fine and that people most likely just migrate to Classic. (Hearn is awesome though.)
+patrickc	688102196517289984	2016-01-15T20:55:22	Stripe is hiring machine learning scientists/engineers. Let me know if you (or anyone you know) might be interested! 
+patrickc	688022464052477953	2016-01-15T15:38:32	colinmarc I think some version of  could perhaps independently convince us that gravity works the way it does.
+patrickc	687877521207988224	2016-01-15T06:02:35	nathanielpopper great piece
+patrickc	687830270695751680	2016-01-15T02:54:50	aunder I suspect winter 2010/2011 yeah
+patrickc	687527255526932480	2016-01-14T06:50:46	rsg collision downloading WinKettle Registry Editor shareware edition as we speak
+patrickc	687526047739318272	2016-01-14T06:45:58	collision what even is this thing the old kettle did not need to have its printer drivers updated 
+patrickc	687492326910894081	2016-01-14T04:31:58	dcurtis 
+patrickc	687138481999486976	2016-01-13T05:05:55	robertmclaws very glad we can help! And thank you.
+patrickc	687129683230498816	2016-01-13T04:30:57	(Early on, was a challenge for us when talking to investors.  Reaction from those who'd dealt with payments: 😃🌟💯. Those who hadn't: 🤔.)
+patrickc	687128883590635520	2016-01-13T04:27:46	Reaction from people who previously had to deal with ACH:  
+patrickc	687126757485350912	2016-01-13T04:19:19	isaach so which part, if any, was wrong?
+patrickc	686999291647270912	2016-01-12T19:52:49	You can now accept ACH payments with Stripe:  
+patrickc	686725185282572288	2016-01-12T01:43:37	@aleprnr 
+patrickc	686442447790931969	2016-01-11T07:00:07	mccv ? does that bring up special snapchat filters or something?
+patrickc	685966513988210689	2016-01-09T23:28:56	Now that Apple Pencil exists (and it's pretty neat), who's working on ?
+patrickc	685950464932720640	2016-01-09T22:25:09	anildash Btw, there's an interesting discussion of this in The Gospel According to the Simpsons (of all places): 
+patrickc	685946741082853376	2016-01-09T22:10:22	anildash yup for sure
+patrickc	685946643393282048	2016-01-09T22:09:58	StephenIbachQED anildash Oh, I'm not defending it. I'm just pointing out that, per his original tweet, that does indeed take place.
+patrickc	685943175664373762	2016-01-09T21:56:11	anildash I think these magazines *are* totally willing to be sacrilegious with Christian imagery too. 
+patrickc	685937460900016128	2016-01-09T21:33:29	Mr Waldman goes to Washington:  
+patrickc	685931511745388545	2016-01-09T21:09:51	dbroockman Aha. You should go! (And I recommend Saltwater in Inverness if you haven't been yet.)
+patrickc	685927780098285569	2016-01-09T20:55:01	dbroockman Sea Ranch?
+patrickc	685893009611751424	2016-01-09T18:36:51	Econ journalism protip: As long as the world is not exploding, you can always flip the narrative by looking at a higher derivative.
+patrickc	685676193023037440	2016-01-09T04:15:18	These days, "must-read" books feel like the Windows updates of life.
+patrickc	685699383791239168	2016-01-09T05:47:27	isaach sch and that's the attitude that helps the terrorists win freedom threatlevelorange
+patrickc	685507935166836736	2016-01-08T17:06:42	pocketsupport saving (with native Twitter app) and viewing on iOS.
+patrickc	685480896825184257	2016-01-08T15:19:16	Pocket (The source tweet used to appear at the top.)
+patrickc	685480857767813120	2016-01-08T15:19:06	pocket for some reason, app no longer seems to preserve tweet context when I save a link from Twitter -- bug?
+patrickc	685477224070299648	2016-01-08T15:04:40	rauchg Good question... I'm not sure :-). It was in Palermo; that's about all I recall.
+patrickc	685348841139253249	2016-01-08T06:34:31	dwmerriman magic I love magic!
+patrickc	685344920261902336	2016-01-08T06:18:56	collision do you have a moment to talk about your relationship with Amazon Prime
+patrickc	685340072003043328	2016-01-08T05:59:40	gaberivera increasing the pecuniosity of the Internet!
+patrickc	685339506124394496	2016-01-08T05:57:25	More importantly, most of it yet to be built! (Taking a single payment is no achievement in the scheme of things.)  Kthx back to work.
+patrickc	685338941147332608	2016-01-08T05:55:11	Still, nothing remotely inevitable about what came next. Nearly all credit due to the hundreds on  (and more).
+patrickc	685336946516688897	2016-01-08T05:47:15	We were at a cafe somewhere in Buenos Aires, where we'd sequestered ourselves to work for a few weeks. (Suited impecunious students well.)
+patrickc	685336443489615873	2016-01-08T05:45:15	John hits deploy shortly before Stripe handles its first production payment, six years ago today. 
+patrickc	684943126323052544	2016-01-07T03:42:21	.forbes I thought this headline was a bit harsh: 
+patrickc	684265095464001536	2016-01-05T06:48:06	sw albertwenger yes, exactly, I think
+patrickc	684252173564157952	2016-01-05T05:56:45	albertwenger agreed!
+patrickc	684121173257404416	2016-01-04T21:16:12	sacca We're grateful for the many rounds you helped us put together. 🍻
+patrickc	683895336608268288	2016-01-04T06:18:49	As usual, the  annual question makes for excellent reading: 
+patrickc	683877513089564673	2016-01-04T05:07:59	sean_a_rose Best part is clearly the discussion of twin engine planes in the screenshot. (Stripe is still working on solving.) collision
+patrickc	683727129264046080	2016-01-03T19:10:25	lorakolodny No. I have a little ex officio stature as result of association with promising startup. But no delusions of power beyond that.
+patrickc	683724652737245184	2016-01-03T19:00:34	gaberivera Indeed. ¯\_(ツ)_/¯  (And I don't mean to wax all sanctimonious. I happily VC-bait too!)
+patrickc	683723945636278272	2016-01-03T18:57:46	gaberivera You could say, "well, just be more careful and don't be wrong!" But even with best intentions, that ends up fairly difficult.
+patrickc	683723698705043456	2016-01-03T18:56:47	gaberivera (I'm not powerful but I certainly steer clear of asserting much that could be controversial.)
+patrickc	683723551849844736	2016-01-03T18:56:12	gaberivera On the other hand, I suspect net effect is to make most shy away from saying much at all.
+patrickc	683723344974225412	2016-01-03T18:55:23	gaberivera Now, many of those are not exactly people who face a whole lot of adversity on the whole. So, on some level, who cares?
+patrickc	683722947010285568	2016-01-03T18:53:48	gaberivera So this is an interesting point. I often feel like we vilify people with mistaken ideas far too much.
+patrickc	683721345272647680	2016-01-03T18:47:26	RurikBradbury gaberivera If wrong, this makes them *easier* to criticize and reject.
+patrickc	683721209423368192	2016-01-03T18:46:53	RurikBradbury gaberivera I was talking about Twitter, not essays. But either way, I'm in favor of powerful people expressing their views.
+patrickc	683714819879387136	2016-01-03T18:21:30	tommycollison I thought your new book on Islam answered this charge pretty well in the introduction
+patrickc	683712546847633408	2016-01-03T18:12:28	gaberivera I think Twitter sucks as a debate medium in many ways but man do I appreciate having it compared to counterfactual world.
+patrickc	683712362965159936	2016-01-03T18:11:44	gaberivera Tbf, would we prefer they didn't engage, did so privately, or did so in medium that doesn't make disagreement easy?
+patrickc	683452487487995904	2016-01-03T00:59:05	Another: last few months of  have been great.
+patrickc	683040274558267392	2016-01-01T21:41:06	cdixon Modally very true!
+patrickc	682984320047316992	2016-01-01T17:58:45	coolbearcjs see my following tweet
+patrickc	682983882413588480	2016-01-01T17:57:01	Except they almost certainly do: 
+patrickc	682983257642684416	2016-01-01T17:54:32	Companies do not have an obligation to maximize long-term shareholder value: 
+patrickc	682959675126513665	2016-01-01T16:20:49	jedgar thank you! But no exit here :-)
+patrickc	682807920052932608	2016-01-01T06:17:48	fredbenenson well I had time to kill thanks to dilation of car I'm in
+patrickc	682799920630247424	2016-01-01T05:46:01	fredbenenson Minimal; 20m fall (say) =&gt; terminal velocity ~20 m/s. Time dilation at 20 m/s =~ 0.999999999999997777.
+patrickc	682610569875083264	2015-12-31T17:13:36	tonklaus I really enjoyed it!
+patrickc	682295029164040193	2015-12-30T20:19:46	The unmistakeable warm glow of the federal government website. 
+patrickc	682250559928152065	2015-12-30T17:23:03	levie collision Saw your mugs together on cover of Forbes. I'm expecting some exceptionally funny tweets, FYI.
+patrickc	682067028237090816	2015-12-30T05:13:46	posco These days, I suppose it'd have to be created with a random deep forest or whatever the cool kids are using.
+patrickc	682066791498039296	2015-12-30T05:12:49	posco (Interestingly, Dvorak scored highly on utility function, hence just using it.)
+patrickc	682066623818149888	2015-12-30T05:12:09	posco I wrote a genetic algorithm to evolve an optimal layout many years ago. Now a Dvorak user but perhaps we could switch to that...
+patrickc	682026461599936512	2015-12-30T02:32:34	collision is your filial status also "suggested" or are those lineage questions only being raised in my case?
+patrickc	682025415406260224	2015-12-30T02:28:25	Now just need Mom to endorse me for being a son on LinkedIn. 
+patrickc	681935637071581184	2015-12-29T20:31:40	@taraseshan Verdict on From Third World to First? Started but haven't finished.
+patrickc	681904220312739840	2015-12-29T18:26:49	@taraseshan which is which?
+patrickc	681574496214454273	2015-12-28T20:36:37	b0rk it's got a nice curve, too, whereby it's useful even when you only know a little
+patrickc	681574129468702720	2015-12-28T20:35:10	b0rk I've found it really useful. And doesn't really take too long to learn.
+patrickc	681532717805088768	2015-12-28T17:50:36	eboyden3 
+patrickc	681532060763226112	2015-12-28T17:48:00	eboyden3 
+patrickc	681516262556446721	2015-12-28T16:45:13	roidrage slicehost was awesome :(

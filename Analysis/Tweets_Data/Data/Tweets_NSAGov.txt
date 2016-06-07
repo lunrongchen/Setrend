@@ -1,0 +1,149 @@
+NSAGov	726142808873000960	2016-04-29T20:15:11	Tune in to NSA Executive Director Corin Stone's interview on FedNewsRadio WomenofWashington series 
+NSAGov	726115600217432065	2016-04-29T18:27:04	Hear from NSA Deputy Director Ledgett on WTOP Target USA podcast.  
+NSAGov	725738377585160192	2016-04-28T17:28:07	In April 1964, DoD established DEFSMAC (Defense Special Missile and Astronautics Center). TBT 
+NSAGov	725404417449586688	2016-04-27T19:21:05	Check out Language Magazine's inspiring interview with NSA language studies pioneer Dr. Laura Murray-pg 18  langmag
+NSAGov	725011071719739393	2016-04-26T17:18:04	April is MathAwarenessMonth, K-12 students and teachers be sure to register for GenCyber camps STEM Cyber NSA 
+NSAGov	724627854978330624	2016-04-25T15:55:18	Cap off Mathematics Awareness Month with one more CryptoChallenge puzzle.  NSA news 
+NSAGov	724579175353430017	2016-04-25T12:41:52	First up, keynote by Richard Ledgett Deputy Director nsa icitforum 
+NSAGov	723629730679808001	2016-04-22T21:49:06	IAD is working to get DoD PKI trusted in major commercial root stores - follow IADGov.
+NSAGov	723629209390718977	2016-04-22T21:47:02	IADGov uses a new SHA-2 DoD PKI cert. For access to great IAD content, load the DOD roots from the Trust Store: 
+NSAGov	723628726940897282	2016-04-22T21:45:07	On Apr 4th, IADGov switched the site TLS certificate from SHA-1 to SHA-2.  Learn more about SHA 1/2 transition: .
+NSAGov	723579964596039681	2016-04-22T18:31:21	Negroponte was sworn in on  April 21, 2005, in the Oval Office and the ODNI began operations at 7am on April 22. Happy 11th Birthday, ODNI!
+NSAGov	722957358985543680	2016-04-21T01:17:20	Deputy NSAGov Dir. officially presents CDX2016 Trophy to WestPoint_USMA Cyber Team! cybersecurity STEM 
+NSAGov	723566565526925313	2016-04-22T17:38:07	The Commercial National Security Algorithm (CNSA) Suite factsheet has been published on iadgov. 
+NSAGov	723548175601004544	2016-04-22T16:25:02	NSA thinks globally and acts locally in support of EarthDay. In 2015 we recycled over 9 million pounds of waste. 
+NSAGov	723524328684281856	2016-04-22T14:50:17	In honor of Harriet Tubman's placement on the $20, DIA commends her military &amp; intel service in the U.S. Civil War: 
+NSAGov	723502428486807552	2016-04-22T13:23:15	Abolitionist, Humanitarian &amp; Spy - Harriet Tubman to Replace Andrew Jackson on U.S. $20 Bill  
+NSAGov	723186037166493696	2016-04-21T16:26:02	Intercepts by Station Hypo revealed Japanese plans to attack Port Moresby, allowing Allied defense in 1942. TBT 
+NSAGov	722856613615276034	2016-04-20T18:37:01	IAD has just published its Top 10 Assurance Mitigation Strategies document on iadgov 
+NSAGov	722398371806330880	2016-04-19T12:16:08	Congratulations to the Maryland’s Top 100 Women and Circle of Excellence honorees! TDRawards TDRwomen 
+NSAGov	722803276521975809	2016-04-20T15:05:04	NSA's Tech Transfer Program Director named to MDDailyRecord's MD Top 100 Women. Congrats Linda. TTP 
+NSAGov	722470829401878528	2016-04-19T17:04:03	"To learn defense, you have to know offense,"  NSA's tech lead for CDX2016 to FCWnow  
+NSAGov	722131853126213632	2016-04-18T18:37:05	Check out IAD’s Top Technology Challenges for 2016 now on iadgov 
+NSAGov	722131106493915136	2016-04-18T18:34:06	They've been hit. NSA expert's screen shows the NSA21 graphic CDX students saw after they were hit.  CDX2016 
+NSAGov	722094086438539264	2016-04-18T16:07:00	Can you solve our latest “Mathematics Awareness Month” CryptoChallenge Puzzle?  NSA news 
+NSAGov	721010799393824769	2016-04-15T16:22:24	The CDX2016 trophy is coming home! WestPoint_USMA Cyber Defense Team crowned overall winner by NSAGov! 
+NSAGov	721002593900720128	2016-04-15T15:49:48	Coast Guard Academy competes against other service academies, NSA in cyber security exercise  
+NSAGov	721054271764955136	2016-04-15T19:15:09	Congrats to WestPoint_USMA on winning this year's CDX.   
+NSAGov	721028821068029952	2016-04-15T17:34:01	Get the latest IA advice on securely managing your network - Manageable Network Plan Guide is now on iadgov 
+NSAGov	720674760372330496	2016-04-14T18:07:07	Service academies are still working hard to defend their networks. WestPoint_USMA leads the scoreboard. CDX2016 NSA
+NSAGov	720669969659236352	2016-04-14T17:48:04	Born April 1889 CryptologicPioneer Herbert O. Yardley lead the first U.S. peacetime cryptanalytic organization TBT 
+NSAGov	720329691798720512	2016-04-13T19:15:56	CDX2016 is in full swing. WestPoint_USMA and NavalAcademy are neck and neck with West Point in the lead. Defend the networks!
+NSAGov	719918403851534337	2016-04-12T16:01:37	USMA cadets compete in the 2016 CyberDefense Exercise! For more on the CDX visit  NSAGov 
+NSAGov	719879751180107777	2016-04-12T13:28:02	AugustaUniversity &amp; ArmyCyberCoE to sign cyber agreement. NSAGov PresKeel 
+NSAGov	719616528375615488	2016-04-11T20:02:04	The Cyber Defense Exercise kicks off today! Service academy students defend computer networks against NSA.  CDX2016
+NSAGov	719557128919261186	2016-04-11T16:06:02	We’ve just posted this month’s 2nd puzzle honoring Math Month!  NSA news 
+NSAGov	718131989224665089	2016-04-07T17:43:03	The first cellphone call was made on Apr 3rd, 1973. Learn more about NSA's mobility program  TBT
+NSAGov	718099036121616386	2016-04-07T15:32:06	New NSA/IA tools at splunk.  Search CASA &amp; SAMI and raise your IA awareness. IADgov 
+NSAGov	717768952764612608	2016-04-06T17:40:28	DNI Clapper Signs IC Transparency Council Charter   
+NSAGov	717755770150883329	2016-04-06T16:48:05	Forbes names Dr. Deborah Frincke, NSA Research Director, a cool security role model for high school girls 
+NSAGov	717010539805745153	2016-04-04T15:26:48	This month’s Facebook CryptoChallenge puzzles honor Math Month!  NSA news 
+NSAGov	715629858122928128	2016-03-31T20:00:28	The NCM hosts WomeninSTEM free and open to the public today. Come hear from the women of NSA 
+NSAGov	715627118093271040	2016-03-31T19:49:35	An NSA Applied Research Mathematician Leans In  WomenInSTEM wmnhist 
+NSAGov	715600304469704704	2016-03-31T18:03:02	Lillie Berry became the first African-American woman assigned as an NSA recruiter in 1968.  wmnhist TBT
+NSAGov	715544035545354241	2016-03-31T14:19:26	“To the dedicated men and women of the IC, I want to say thank you…their efforts have helped thwart attacks around the globe.”-Lisa Monaco
+NSAGov	715242720558624769	2016-03-30T18:22:07	Petty Officer Paul advises young girls to “never let fear stop you from doing anything”. wmnhist NSA 
+NSAGov	715218552274325504	2016-03-30T16:46:05	The NCM hosts WomeninSTEM free and open to the public on March 31st. Come hear from the women of NSA 
+NSAGov	714858172716949508	2016-03-29T16:54:04	Genevieve Grotjan Feinstein’s discoveries changed the course of history. NSA womeninSTEM  
+NSAGov	714493319678599172	2016-03-28T16:44:16	Cap off Women’s History Month with one more Women in STEM CryptoChallenge puzzle!  NSA news 
+NSAGov	713422221973200896	2016-03-25T17:48:07	Sisters Dr. Edith Rickert and Dr. Margaret Rickert served as cryptologists in WWI &amp; WWII NSA wmnhist womeninSTEM 
+NSAGov	713059827094716416	2016-03-24T17:48:05	Marie Meyer becomes the first person to receive NSA’s Meritorious Civilian Service Award.  wmnhist TBT
+NSAGov	712326786059665409	2016-03-22T17:15:14	It Users - contact your local system administrators for info on how to get and install your SHA-2 certificates - 
+NSAGov	712305694922424320	2016-03-22T15:51:26	Genevieve Young Hitt and her husband moonlighted to solve intercepted messages womeninSTEM  
+NSAGov	711950402778828800	2016-03-21T16:19:38	Can you solve our latest “Women in STEM” CryptoChallenge Puzzle?  NSA news 
+NSAGov	710894307167711232	2016-03-18T18:23:05	Cryptanalyst Agnes Meyer Driscoll broke the Japanese “Blue Book” code wmnhist womeninSTEM  
+NSAGov	710854549292982272	2016-03-18T15:45:06	Honoring Women in Public Service and Government womeninSTEM wmnhist  
+NSAGov	710516811691732992	2016-03-17T17:23:03	Thousands of women helped to win World War II through their cryptologic efforts.  wmnhist TBT
+NSAGov	710475614034112512	2016-03-17T14:39:21	NSA is seeking nominations for the Best Scientific Cybersecurity Paper Competition.  news 
+NSAGov	709417202437361664	2016-03-14T16:33:36	We’ve just posted this month’s 2nd puzzle honoring Women’s History Month!  NSA news 
+NSAGov	708396986165293056	2016-03-11T20:59:37	U.S. spy agencies to celebrate LGBT employees:  SXSW 
+NSAGov	708348791615651840	2016-03-11T17:48:07	Watch The NRO and Operation DesertStorm Video:  ODNIgov DeptofDefense NGA_GEOINT NSAGov CIA usairforce USArmy
+NSAGov	708006032501387264	2016-03-10T19:06:06	NSA celebrates the legacy of Renatta Predmore-Lynch whose work ensured fair promotion hearings. wmnhist TBT 
+NSAGov	707591021358620673	2016-03-09T15:37:00	Thanks, millennials, for recognizing NSA as a terrific place to work! Can't wait to meet more of you!  news
+NSAGov	707265290426568705	2016-03-08T18:02:40	🎶 Podcast: Target USA March 8, 2016 In an exclusive interview with WTOP, DNI Clapper opens up about the... 
+NSAGov	707255539768492032	2016-03-08T17:23:55	Cryptanalyst Ann Caracristi was the first woman to serve as deputy director of NSA, the agency’s highest civilian position. SheInspiresMe
+NSAGov	706911752911515648	2016-03-07T18:37:50	Did you make a contribution to cybersecurity in 2015? Enter NSA's Best Scientific Cybersecurity Paper Competition 
+NSAGov	705447165217222657	2016-03-03T17:38:05	Annie Louise Newkirk becomes SIS’ first hire as a cryptographic clerk on March 1, 1930. wmnhist TBT 
+NSAGov	705083504183402497	2016-03-02T17:33:01	The IC Virtual Career Fair is being held on tomorrow from 2 to 8 p.m. (ETS). Register now:  
+NSAGov	704355763246858241	2016-02-29T17:21:14	Today’s Facebook CryptoChallenge Puzzle only happens every 4 yrs! Make it count!  NSA news 
+NSAGov	704758932485632000	2016-03-01T20:03:17	Are you at RSA2016 this week? Stop by booth 1927 on the South Expo Floor to learn more about Information Assurance. rsaconference
+NSAGov	704728059883032577	2016-03-01T18:00:37	NSA is at RSA2016- Where the world talks security. Tune in to ADM Rogers' keynote address here: 
+NSAGov	704678106754211840	2016-03-01T14:42:07	NSA weighs in at RSA2016. Hear ADM Rogers discuss current and future cyber threat landscape.
+NSAGov	704650251681013761	2016-03-01T12:51:26	113 new items added to Bin Laden's Bookshelf this morning:  
+NSAGov	704359994989215744	2016-02-29T17:38:03	Cryptologic Pioneer: Wilhelmena Ware taught keypunch to NSA's first hearing impaired employees BlackHistory 
+NSAGov	703283666718367744	2016-02-26T18:21:07	People. Integration. Innovation. NSA in the 21st Century. NSA21  
+NSAGov	702920504349360128	2016-02-25T18:18:02	Innovation.  It's been in our DNA for 63 years. NSA21  
+NSAGov	702897866142953473	2016-02-25T16:48:05	Dedicated in Feb 1996, NSA's Cryptologic Memorial Wall remembers those who gave their lives -serving in silence TBT 
+NSAGov	702562404064845824	2016-02-24T18:35:04	NSA works together as a unified team to accomplish the greatest mission success. Oneteam Integration NSA21 
+NSAGov	702496576627986432	2016-02-24T14:13:30	Cyberlaw Podcast: Interview with NSA General Counsel Glenn Gerstell  ApplevsFBI Privacy Encryption CFIUS NSAGov
+NSAGov	702186915882086401	2016-02-23T17:43:01	Our People are our greatest asset.  Investing in their future is top priority.  NSA21  
+NSAGov	702173947119292416	2016-02-23T16:51:29	At next week’s IC Virtual Career Fair, you can learn about NSA careers AND chat with recruiters!  TipTuesday news
+NSAGov	701852489327316992	2016-02-22T19:34:07	Threats are complex and evolving. NSA will remain ready to protect and defend in the 21st century. NSA21 
+NSAGov	701821761625595904	2016-02-22T17:32:01	Cryptologic pioneer: David Bryant was among the first African-American Russian linguists at NSA BlackHistory 
+NSAGov	701817421074575364	2016-02-22T17:14:46	We’ve just posted this week’s Facebook CryptoChallenge Puzzle!  NSA news 
+NSAGov	700723544854962177	2016-02-19T16:48:06	Cryptologic pioneer: Joseph McKinney was a member of the first engineering group at NSA in 1952 BlackHistory 
+NSAGov	700422920955232256	2016-02-18T20:53:32	NSA recruiters will be online &amp; ready to chat at the IC Virtual Career Fair!  news 
+NSAGov	700360655589625856	2016-02-18T16:46:07	Minnie Kenny received the Meritorious Executive Award. BlackHistory TBT  
+NSAGov	699335394161065984	2016-02-15T20:52:05	Think your time will be fastest? Ready … Set … Go!  NSA news 
+NSAGov	699980416179163136	2016-02-17T15:35:10	Happening now:  
+NSAGov	697852105453735939	2016-02-11T18:38:02	75 years ago a select group of U.S. officers met at Bletchley Park. Learn more about one of the officers.  TBT
+NSAGov	697835620631076865	2016-02-11T17:32:31	Who's your WomenInSTEM hero? Women from across the Administration tell their stories:  
+NSAGov	697832032232050688	2016-02-11T17:18:16	President Obama meeting the winners of the Google Science Fair. WomeninSTEM  
+NSAGov	697819393787428866	2016-02-11T16:28:02	ADM Rogers &amp; GCHQ DIR Hannigan walk the same path as the U.S. team 75 years ago. Photo courtesy of Bletchley Park. 
+NSAGov	697535037034647553	2016-02-10T21:38:07	The mission of intelligence professionals is to counter worldwide threats. Join us:  
+NSAGov	697458514688503808	2016-02-10T16:34:02	"The relationship was a cryptologic marriage made in heaven," David Hatch, an NSA historian with BBC 
+NSAGov	697443160159485953	2016-02-10T15:33:01	Interested in Information Assurance guidance, visit  iadgov
+NSAGov	697152496561618944	2016-02-09T20:18:02	The NCM unveiled a new exhibit to honor the first cryptologists to visit Bletchley Park.  
+NSAGov	697150656365387779	2016-02-09T20:10:43	Clapper: We are better as a community…because the whole is better than the sum of its parts... we are operating as an integrated enterprise
+NSAGov	697143034950086656	2016-02-09T19:40:26	WATCH LIVE starting now:   Senate Intelligence hearing on Terrorism Threats
+NSAGov	696794656051310594	2016-02-08T20:36:06	Today is the 75th anniversary of British allies &amp; U.S. personnel meeting at Bletchley Park  
+NSAGov	696743446145404928	2016-02-08T17:12:37	It’s time for this week’s Facebook CryptoChallenge Puzzle of the Week!  NSA news 
+NSAGov	695312367698079744	2016-02-04T18:26:01	Ralph Adams served as Executive Director-1995-96  BlackHistory TBT 
+NSAGov	694265539380772869	2016-02-01T21:06:18	DNI Clapper, "..I don’t know if we’ve been beset by a more diverse array of challenges and crises around the world" 
+NSAGov	694248973230542849	2016-02-01T20:00:28	NSA employees are among the most loyal in government. Here's why:  news
+NSAGov	694254413951561728	2016-02-01T20:22:05	NSA supports the CombinedFederalCampaign and gives back by raising $2.58 million in pledges this year! 
+NSAGov	694204076276322304	2016-02-01T17:02:04	Kick off your week AND month with our newest CryptoChallenge puzzle!  NSA news 
+NSAGov	693140588212817920	2016-01-29T18:36:08	Rob J at the 2016 enigmaconf: "You need to know your network better than anyone." 
+NSAGov	692807498760339456	2016-01-28T20:32:34	The U.S. Intelligence Community launched a new careers site:  intelcareers 
+NSAGov	692773650953449472	2016-01-28T18:18:04	Today in 2014, Richard Ledgett assumed office of the Deputy Director. TBT  
+NSAGov	691679365915025408	2016-01-25T17:49:46	Last CryptoChallenge Puzzle for this month! Will it be your fastest yet?  NSA news 
+NSAGov	689126910987636736	2016-01-18T16:47:13	Gear up for the week with a very special CryptoChallenge Puzzle of the Week!  NSA news 
+NSAGov	690215539432534016	2016-01-21T16:53:02	On Jan 17, 1917, the Zimmerman Telegram was intercepted by WW1 Allied Forces. tbt 
+NSAGov	689818933457649664	2016-01-20T14:37:04	NSA will host ADM Howard, the first African American female to command a U.S. Navy ship, at the MLK breakfast next week. honoronline
+NSAGov	688069417532440576	2016-01-15T18:45:07	NSA Senior Advisor for Equality hosted 2015 Horizon Award winner Mr. Steve Pemberton at the NSA Equality Expo. 
+NSAGov	688019576865488900	2016-01-15T15:27:04	NSA CLPO Releases USA FREEDOM Act Transparency Report.  Read more: 
+NSAGov	687701744311078912	2016-01-14T18:24:07	NSAers deploy worldwide. tbt: NSA historians’ account of life at an NSA facility in Ethiopia during the Cold War 
+NSAGov	687349915995910145	2016-01-13T19:06:04	NSA's first female Deputy Director passed away on Jan 10th. RIP Ann Caracristi  
+NSAGov	687297822438244352	2016-01-13T15:39:04	.Drexel_CoAS Alum Christina A on her work at NSA. “We make things better, period”  
+NSAGov	686602609075961856	2016-01-11T17:36:33	Start your week off with our newest Facebook CryptoChallenge Puzzle of the Week!  NSA news 
+NSAGov	685585622090821634	2016-01-08T22:15:24	Just announced! A new talk by Rob Joyce of the NSA takes place at enigma2016 on 1/27 at 5pm  
+NSAGov	685198067914641408	2016-01-07T20:35:24	DNI Clapper announces the leadership team for ODNI's new Cyber Threat Intelligence Integration Center: 
+NSAGov	685142606502694914	2016-01-07T16:55:01	On Jan 6, 2012, NSA marked completion of the new NSA-Hawaii building. TBT  
+NSAGov	685087288406097920	2016-01-07T13:15:12	NSA GC: New National Security Tool Activated At Challenging Time lawfareblog 
+NSAGov	684781999375151104	2016-01-06T17:02:05	.DHSgov Announces the 2016 Cyber Student Volunteer Initiative 
+NSAGov	684123292412850177	2016-01-04T21:24:37	It’s time to try 2016’s first CryptoChallenge Puzzle of the Week! Ready … set … GO!  news 
+NSAGov	682583012488286209	2015-12-31T15:24:06	Read an intercepted Soviet Venona HappyNewYear message from 1954  tbt 
+NSAGov	679979995368828929	2015-12-24T11:00:38	NORAD captured Santa's takeoff from the North Pole!  
+NSAGov	680029682062852097	2015-12-24T14:18:05	Today marks 60 years that NORADSANTA has been tracking santa. tbt 
+NSAGov	678984286767349760	2015-12-21T17:04:03	Gear up for the holidays with this week’s CryptoChallenge Puzzle of the Week!  NSA news 
+NSAGov	677561827971244032	2015-12-17T18:51:42	During his visit, the President &amp; his national security team reviewed efforts across the government to prevent attacks &amp; protect the country
+NSAGov	677561596852477952	2015-12-17T18:50:47	President Obama received a threat briefing from senior IC officials &amp; spoke to personnel from NCTC in McLean, Va. 
+NSAGov	677552621087952896	2015-12-17T18:15:07	The NCM opened its doors to the public on this day in 1993. TBT  
+NSAGov	676496418815782912	2015-12-14T20:18:09	Start your week off with our newest Facebook CryptoChallenge Puzzle of the Week!  NSA news 
+NSAGov	676436527711432704	2015-12-14T16:20:10	How ADM Rogers’ love of the Navy took him from seacadets to Admiral.  Read in the Sea Cadet Quarterly, pg 5.  
+NSAGov	675408486797172736	2015-12-11T20:15:06	Soundoff!: NSA celebration sheds light on Hanukkah 
+NSAGov	675392111013859328	2015-12-11T19:10:02	Anne Arundel County designated Nov 4th as “NSA Day.”  
+NSAGov	675340787836588033	2015-12-11T15:46:05	ICYMI: NSA's Dr. Frincke spoke on the Women in STEM panel at the 2015 SACNAS conf  
+NSAGov	675033017526566912	2015-12-10T19:23:07	Read the declass glossary that began standardization of cryptologic terminology  tbt 
+NSAGov	674279941509398529	2015-12-08T17:30:40	NEW in 2015: Scoring federal agencies by mission.  The IC tops the fedBPTW National Security category. 
+NSAGov	674246173205622786	2015-12-08T15:16:29	The Intelligence Community ranks 2nd in fedBPTW for large orgs:  
+NSAGov	674249635158876161	2015-12-08T15:30:14	NSA's TTP praised as an excellent example in the Federal Laboratory Technology Transfer 
+NSAGov	673836368154398721	2015-12-07T12:08:04	On the 74th anniversary of the PearlHarbor attack, we honor those who made the ultimate sacrifice. PearlHarbor74 
+NSAGov	672496041044783104	2015-12-03T19:22:05	NSAers give back to their communities. TBT: One employee made a difference last holiday season  RoofOverYourHeadDay
+NSAGov	671361169312083968	2015-11-30T16:12:30	Are you ready for November’s final Facebook CryptoChallenge Puzzle of the Week?  NSA news 
+NSAGov	670308457732509696	2015-11-27T18:29:24	ODNI Announces Transition to New Telephone Metadata Program: 
+NSAGov	670308620593143809	2015-11-27T18:30:03	FACT SHEET:  Implementation of the USA FREEDOM Act of 2015: 
+NSAGov	669885854588862465	2015-11-26T14:30:08	Today, and every day, we are thankful for the men &amp; women of NSA who serve in silence 24/7/365 in defense of our Nation. HappyThanksgiving
+NSAGov	669250660349509632	2015-11-24T20:26:06	NSA Employees: Working at NSA is a calling and an honor.  
+NSAGov	669202600453996544	2015-11-24T17:15:07	Congrats to ADM Rogers and Jeff Blank, NSA Tech Dir, who were honored fedscoop 50 awards.  
+NSAGov	668835606110171136	2015-11-23T16:56:49	Who will have this week’s fastest time solving the CryptoChallenge Puzzle?  NSA news 

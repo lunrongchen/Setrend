@@ -1,0 +1,1290 @@
+SPDJIndices	726146799598223360	2016-04-29T20:31:02	Market Close: Markets | DJU 654.44 +3.58 | GDOW 2377.38 -10.43
+SPDJIndices	726146798562205697	2016-04-29T20:31:02	Market Close: Markets | DJI 17773.64 -57.12 | DJC 6253.29 -25.63 | DJT 7871.63 -94.41
+SPDJIndices	726146797459132416	2016-04-29T20:31:02	Market Close: Markets | SP500 2065.30 -10.51
+SPDJIndices	726134003661721600	2016-04-29T19:40:12	Preferences of Preferred Stock  Indexology fixedincome fixedincome preferredstock
+SPDJIndices	726123155677405184	2016-04-29T18:57:05	S&amp;P Europe 350 gained 2.09% in April. Most sectors gained but the real drivers were Financials, Materials and Energy 
+SPDJIndices	726078852020195328	2016-04-29T16:01:02	Market Mid-day: Markets | DJU 649.96 -0.90 | GDOW 2371.44 -16.37
+SPDJIndices	726078850891919360	2016-04-29T16:01:02	Market Mid-day: Markets | DJI 17694.92 -135.84 | DJC 6226.13 -52.79 | DJT 7851.40 -114.64
+SPDJIndices	726078849524617216	2016-04-29T16:01:02	Market Mid-day: Markets | SP500 2057.54 -18.27
+SPDJIndices	726060528771158016	2016-04-29T14:48:14	Finally, the year has turned positive for Australia’s equity investors.  
+SPDJIndices	726041104974499840	2016-04-29T13:31:03	Market Open: Markets | DJU 648.69 -3.04 | GDOW 2390.99 -3.93
+SPDJIndices	726041104047562752	2016-04-29T13:31:03	Market Open: Markets | DJI 17813.09 -42.67 | DJC 6266.96 -22.51 | DJT 7943.63 -42.58
+SPDJIndices	726041103124824064	2016-04-29T13:31:02	Market Open: Markets | SP500 2071.82 -3.64
+SPDJIndices	725803146874880000	2016-04-28T21:45:29	Making the right decision with confidence is more important than ever. Choose S&amp;P Global WeAreSPGlobal 
+SPDJIndices	725784409836761088	2016-04-28T20:31:02	Market Close: Markets | DJU 650.86 -2.42 | GDOW 2390.71 -6.99
+SPDJIndices	725784408733716480	2016-04-28T20:31:02	Market Close: Markets | DJI 17830.76 -210.79 | DJC 6278.92 -72.15 | DJT 7966.04 -125.30
+SPDJIndices	725784407680933888	2016-04-28T20:31:01	Market Close: Markets | SP500 2075.81 -19.34
+SPDJIndices	725763927045492737	2016-04-28T19:09:38	How are institutional investors proposing to alleviate short-term thinking?  
+SPDJIndices	725747230989258752	2016-04-28T18:03:18	Dow Trivia: The Dow fell 3.5% on Dec 8, 1941, the day after the bombing of Pearl Harbor, then stayed on a downward trend for 5 mos. Dow120
+SPDJIndices	725744145525035012	2016-04-28T17:51:02	Why This New Way To Invest In Oil In Hong Kong Matters  Indexology commodities china
+SPDJIndices	725738590362329091	2016-04-28T17:28:58	How can you access China's A-share market?  
+SPDJIndices	725735650184581120	2016-04-28T17:17:17	Why this new way to invest In Oil in Hong Kong matters. Hear from JodieGunzberg  
+SPDJIndices	725697108343447553	2016-04-28T14:44:08	We are now S&amp;P Global, the world’s foremost provider of ratings, benchmarks and analytics:  WeAreSPGlobal
+SPDJIndices	725726300258848769	2016-04-28T16:40:07	Thanks NYSE for the opportunity to open the market this morning! WeAreSPGlobal 
+SPDJIndices	725724699477594113	2016-04-28T16:33:46	Are employer’s efforts to control healthcare costs futile?  Indexology uncategorized
+SPDJIndices	725716463655473154	2016-04-28T16:01:02	Market Mid-day: Markets | DJU 651.96 -1.32 | GDOW 2402.15 +4.45
+SPDJIndices	725716462690795521	2016-04-28T16:01:02	Market Mid-day: Markets | DJI 18015.15 -26.40 | DJC 6335.88 -15.19 | DJT 8055.22 -36.12
+SPDJIndices	725716461533167616	2016-04-28T16:01:02	Market Mid-day: Markets | SP500 2097.89 +2.74
+SPDJIndices	725701820518154240	2016-04-28T15:02:51	Measuring markets and providing cutting edge research is what we do best:  WeAreSPGlobal
+SPDJIndices	725686044025303041	2016-04-28T14:00:10	Essential reading sustainability carbon ESG &amp; long-termism RobecoSAM Trucost  
+SPDJIndices	725678713417945088	2016-04-28T13:31:02	Market Open: Markets | DJU 650.37 -4.13 | GDOW 2401.23 -9.11
+SPDJIndices	725678712453210113	2016-04-28T13:31:02	Market Open: Markets | DJI 18023.88 -57.05 | DJC 6337.48 -26.17 | DJT 8067.04 -32.71
+SPDJIndices	725678711467548672	2016-04-28T13:31:01	Market Open: Markets | SP500 2090.93 -4.64
+SPDJIndices	725673440607350784	2016-04-28T13:10:05	Join us for the NYSE bell ringing at 9:30AM ET this morning as S&amp;P Global  WeAreSPGlobal
+SPDJIndices	725661358621118464	2016-04-28T12:22:04	Our employees are our most valuable asset, bringing integrity and intelligence to our customers WeAreSPGlobal 
+SPDJIndices	725658842722361344	2016-04-28T12:12:04	The first index SPDJIndices was launched in 1882, says CEO Doug Peterson BloombergTV WeAreSPGlobal
+SPDJIndices	725422021555937281	2016-04-27T20:31:02	Market Close: Markets | DJU 653.28 +9.93 | GDOW 2397.79 +6.16
+SPDJIndices	725422020436103169	2016-04-27T20:31:02	Market Close: Markets | DJI 18041.55 +51.23 | DJC 6351.07 +28.70 | DJT 8091.34 +9.87
+SPDJIndices	725422019496521728	2016-04-27T20:31:01	Market Close: Markets | SP500 2095.15 +3.45
+SPDJIndices	725403964225802242	2016-04-27T19:19:17	Complimentary event for advisors in Houston on 5/10: Managing Risk to Maximize Returns.  
+SPDJIndices	725354076595179520	2016-04-27T16:01:02	Market Mid-day: Markets | DJU 650.84 +7.49 | GDOW 2395.51 +3.88
+SPDJIndices	725354075601117184	2016-04-27T16:01:02	Market Mid-day: Markets | DJI 18017.99 +27.67 | DJC 6338.92 +16.55 | DJT 8075.23 -6.24
+SPDJIndices	725354074590306304	2016-04-27T16:01:02	Market Mid-day: Markets | SP500 2090.39 -1.31
+SPDJIndices	725346831480266752	2016-04-27T15:32:15	Spotlight on Sustainability: Essential reads &amp; must watch videos ESG carbon  
+SPDJIndices	725316329616609284	2016-04-27T13:31:03	Market Open: Markets | DJU 644.59 +2.64 | GDOW 2391.11 -0.30
+SPDJIndices	725316328823898112	2016-04-27T13:31:03	Market Open: Markets | DJI 17996.14 -44.85 | DJC 6320.01 -8.61 | DJT 8055.89 -19.92
+SPDJIndices	725316327720816645	2016-04-27T13:31:02	Market Open: Markets | SP500 2092.33 -3.82
+SPDJIndices	725060838776815616	2016-04-26T20:35:49	Home Prices Hint at Slow Down  HousingViews construction economicdata spcaseshillerindices
+SPDJIndices	725059635019943936	2016-04-26T20:31:02	Market Close: Markets | DJU 643.35 +1.73 | GDOW 2390.35 +5.96
+SPDJIndices	725059634055241729	2016-04-26T20:31:02	Market Close: Markets | DJI 17990.32 +13.08 | DJC 6322.37 +25.28 | DJT 8081.47 +91.12
+SPDJIndices	725059631450624002	2016-04-26T20:31:01	Market Close: Markets | SP500 2091.70 +3.91
+SPDJIndices	724992755232026624	2016-04-26T16:05:17	Key Environmental Metrics for Investors: It’s not Just Carbon   via SPDJIndices ESG
+SPDJIndices	724991691191668737	2016-04-26T16:01:03	Market Mid-day: Markets | DJU 644.48 +2.86 | GDOW 2391.91 +7.52
+SPDJIndices	724991690189201412	2016-04-26T16:01:03	Market Mid-day: Markets | DJI 17981.80 +4.56 | DJC 6314.56 +17.47 | DJT 8044.44 +54.09
+SPDJIndices	724991689035812864	2016-04-26T16:01:03	Market Mid-day: Markets | SP500 2091.39 +3.60
+SPDJIndices	724953941507723264	2016-04-26T13:31:03	Market Open: Markets | DJU 642.39 +1.28 | GDOW 2382.89 +8.69
+SPDJIndices	724953940316540932	2016-04-26T13:31:03	Market Open: Markets | DJI 17987.38 +35.24 | DJC 6300.95 +12.75 | DJT 7993.15 +17.36
+SPDJIndices	724953939137929219	2016-04-26T13:31:02	Market Open: Markets | SP500 2089.84 +3.71
+SPDJIndices	724705104876560384	2016-04-25T21:02:16	Where are Home Prices Headed?  HousingViews construction economicdata spcaseshillerindices
+SPDJIndices	724697258520903680	2016-04-25T20:31:05	Market Close: Markets | DJU 641.62 +2.10 | GDOW 2383.32 -12.48
+SPDJIndices	724697257627516929	2016-04-25T20:31:05	Market Close: Markets | DJI 17977.24 -26.51 | DJC 6297.09 -22.44 | DJT 7990.35 -95.63
+SPDJIndices	724697256604123142	2016-04-25T20:31:04	Market Close: Markets | SP500 2087.79 -3.79
+SPDJIndices	724690898081202178	2016-04-25T20:05:48	Complimentary Webinar for Financial Advisors: A Practitioner's Guide to Sophisticated Sector Strategies. CE Credits. 
+SPDJIndices	724629302323625989	2016-04-25T16:01:03	Market Mid-day: Markets | DJU 639.85 +0.33 | GDOW 2380.22 -15.58
+SPDJIndices	724629301384085512	2016-04-25T16:01:03	Market Mid-day: Markets | DJI 17899.69 -104.06 | DJC 6272.07 -47.46 | DJT 7958.03 -127.95
+SPDJIndices	724629299932876804	2016-04-25T16:01:02	Market Mid-day: Markets | SP500 2080.58 -11.00
+SPDJIndices	724614832675282944	2016-04-25T15:03:33	Performance Analysis of Unconstrained Bond Funds  Indexology fixedincome bonds fixedincome
+SPDJIndices	724591553361154048	2016-04-25T13:31:03	Market Open: Markets | DJU 639.05 -0.19 | GDOW 2396.48 -10.05
+SPDJIndices	724591552438386689	2016-04-25T13:31:03	Market Open: Markets | DJI 17990.94 -51.50 | DJC 6314.00 -12.55 | DJT 8075.63 -11.09
+SPDJIndices	724591551385616385	2016-04-25T13:31:02	Market Open: Markets | SP500 2089.37 -5.91
+SPDJIndices	723610082953560064	2016-04-22T20:31:02	Market Close: Markets | DJU 639.52 +6.40 | GDOW 2394.48 -10.10
+SPDJIndices	723610082064388096	2016-04-22T20:31:02	Market Close: Markets | DJI 18003.75 +21.23 | DJC 6319.53 +31.18 | DJT 8085.98 +75.04
+SPDJIndices	723610081137418241	2016-04-22T20:31:02	Market Close: Markets | SP500 2091.58 +0.10
+SPDJIndices	723542137103638528	2016-04-22T16:01:02	Market Mid-day: Markets | DJU 638.44 +5.32 | GDOW 2392.58 -12.00
+SPDJIndices	723542136189267968	2016-04-22T16:01:02	Market Mid-day: Markets | DJI 17962.11 -20.41 | DJC 6306.34 +17.99 | DJT 8070.72 +59.78
+SPDJIndices	723542134687686660	2016-04-22T16:01:02	Market Mid-day: Markets | SP500 2086.02 -5.46
+SPDJIndices	723527168618336257	2016-04-22T15:01:34	Buybacks, Dividends, Capex, and Long-Term Value Creation  Indexology uncategorized ltvc
+SPDJIndices	723420773201776640	2016-04-22T07:58:47	160+ countries are set to sign the ParisAgreement today! What you need to know:  UN 
+SPDJIndices	723504386551492608	2016-04-22T13:31:02	Market Open: Markets | DJU 634.27 +4.52 | GDOW 2400.85 -11.75
+SPDJIndices	723504385637126144	2016-04-22T13:31:02	Market Open: Markets | DJI 17985.05 +5.03 | DJC 6291.25 +16.94 | DJT 8013.19 +38.55
+SPDJIndices	723504384601153536	2016-04-22T13:31:02	Market Open: Markets | SP500 2091.49 -4.05
+SPDJIndices	723361639748145152	2016-04-22T04:03:48	Asian Fixed Income: What Does it Look Like Without India and China?  Indexology fixedincome
+SPDJIndices	723247697130606592	2016-04-21T20:31:02	Market Close: Markets | DJU 633.12 -15.93 | GDOW 2403.53 -6.31
+SPDJIndices	723247695989760005	2016-04-21T20:31:02	Market Close: Markets | DJI 17982.52 -113.75 | DJC 6288.35 -70.12 | DJT 8010.94 -98.25
+SPDJIndices	723247694228103169	2016-04-21T20:31:02	Market Close: Markets | SP500 2091.48 -10.92
+SPDJIndices	723223320188039168	2016-04-21T18:54:11	Take a deeper look at China's local currency bonds.  
+SPDJIndices	723179749527437312	2016-04-21T16:01:02	Market Mid-day: Markets | DJU 635.61 -13.44 | GDOW 2408.41 -1.43
+SPDJIndices	723179748671807488	2016-04-21T16:01:02	Market Mid-day: Markets | DJI 18046.65 -49.62 | DJC 6311.29 -47.18 | DJT 8040.05 -69.14
+SPDJIndices	723179747417686018	2016-04-21T16:01:02	Market Mid-day: Markets | SP500 2096.48 -5.92
+SPDJIndices	723158825352593408	2016-04-21T14:37:54	What is the longest period of time that the NYSE has been closed? Dow120
+SPDJIndices	723142000564908032	2016-04-21T13:31:02	Market Open: Markets | DJU 648.79 -1.55 | GDOW 2408.25 +2.20
+SPDJIndices	723141999617028096	2016-04-21T13:31:02	Market Open: Markets | DJI 18092.84 -26.64 | DJC 6356.13 -14.65 | DJT 8103.46 -31.68
+SPDJIndices	723141998673309696	2016-04-21T13:31:02	Market Open: Markets | SP500 2102.09 +0.05
+SPDJIndices	722885307192860672	2016-04-20T20:31:02	Market Close: Markets | DJU 649.05 -16.34 | GDOW 2405.93 +1.60
+SPDJIndices	722885305750061057	2016-04-20T20:31:02	Market Close: Markets | DJI 18096.27 +42.67 | DJC 6358.47 -18.45 | DJT 8109.19 +3.05
+SPDJIndices	722885304432992256	2016-04-20T20:31:01	Market Close: Markets | SP500 2102.40 +1.60
+SPDJIndices	722822290950459392	2016-04-20T16:20:38	The Power of a Consensus Glide Path  Indexology uncategorized definedcontribution
+SPDJIndices	722817358046306304	2016-04-20T16:01:02	Market Mid-day: Markets | DJU 661.60 -3.79 | GDOW 2410.55 +6.22
+SPDJIndices	722817357102596096	2016-04-20T16:01:01	Market Mid-day: Markets | DJI 18097.40 +43.80 | DJC 6378.94 +2.02 | DJT 8105.63 -0.51
+SPDJIndices	722817356087615488	2016-04-20T16:01:01	Market Mid-day: Markets | SP500 2104.35 +3.55
+SPDJIndices	722805141322108931	2016-04-20T15:12:29	Thought provoking research from SPDJIndices on CO2 emissions for major equity benchmarks  
+SPDJIndices	722802096890732545	2016-04-20T15:00:23	Is there value in taking a multi-factor approach to a China A-share portfolio allocation?  
+SPDJIndices	722565816684830720	2016-04-19T23:21:29	.SPDJIndices and RobecoSAM the First to Launch Indices Using ESG as a Smart Beta Factor 
+SPDJIndices	722655734685634562	2016-04-20T05:18:48	Metals Don’t Reflect Chinese Demand Growth  via SPDJIndices Indexology China copper DXY 
+SPDJIndices	722779612921663488	2016-04-20T13:31:02	Market Open: Markets | DJU 665.59 +0.48 | GDOW 2406.15 +1.52
+SPDJIndices	722779611969503232	2016-04-20T13:31:02	Market Open: Markets | DJI 18059.49 -2.74 | DJC 6378.34 +3.81 | DJT 8105.90 +16.33
+SPDJIndices	722779610941952000	2016-04-20T13:31:02	Market Open: Markets | SP500 2101.52 +1.31
+SPDJIndices	722656667205308416	2016-04-20T05:22:30	A Closer Look at the SPIVA India Year-End 2015 Scorecard  Indexology equities index
+SPDJIndices	722656663061311488	2016-04-20T05:22:29	Metals Don’t Reflect Chinese Demand Growth  Indexology commodities china commodities
+SPDJIndices	722522921474867200	2016-04-19T20:31:02	Market Close: Markets | DJU 665.39 +0.97 | GDOW 2404.32 +34.69
+SPDJIndices	722522920619241473	2016-04-19T20:31:02	Market Close: Markets | DJI 18053.60 +49.44 | DJC 6376.92 +33.73 | DJT 8106.14 +103.49
+SPDJIndices	722522919679762432	2016-04-19T20:31:02	Market Close: Markets | SP500 2100.80 +6.46
+SPDJIndices	722454973146132480	2016-04-19T16:01:02	Market Mid-day: Markets | DJU 664.17 -0.25 | GDOW 2400.91 +31.28
+SPDJIndices	722454971296391169	2016-04-19T16:01:02	Market Mid-day: Markets | DJI 18027.41 +23.25 | DJC 6362.66 +19.47 | DJT 8073.25 +70.60
+SPDJIndices	722454970319167488	2016-04-19T16:01:02	Market Mid-day: Markets | SP500 2095.75 +1.41
+SPDJIndices	722448964235223040	2016-04-19T15:37:10	Key Environmental Metrics for Investors: It’s not Just Carbon  Indexology uncategorized
+SPDJIndices	722435333858713600	2016-04-19T14:43:00	Key Environmental Metrics for Investors: It’s not Just Carbon. Hear from Trucost on Indexology. 
+SPDJIndices	722417226494689280	2016-04-19T13:31:03	Market Open: Markets | DJU 664.87 +0.86 | GDOW 2368.73 +25.14
+SPDJIndices	722417225383211009	2016-04-19T13:31:03	Market Open: Markets | DJI 18012.10 -4.83 | DJC 6349.68 +16.35 | DJT 8021.96 +73.58
+SPDJIndices	722417224217137152	2016-04-19T13:31:02	Market Open: Markets | SP500 2096.05 +3.48
+SPDJIndices	722413980065611776	2016-04-19T13:18:09	Who’s Afraid of a Carbon Tax?  Indexology equities sp500djia strategy carbonemissions
+SPDJIndices	722160535140245504	2016-04-18T20:31:03	Market Close: Markets | DJU 664.42 +1.92 | GDOW 2368.90 +1.49
+SPDJIndices	722160534087471104	2016-04-18T20:31:03	Market Close: Markets | DJI 18004.16 +106.70 | DJC 6343.19 +29.20 | DJT 8002.65 +24.42
+SPDJIndices	722160532686438400	2016-04-18T20:31:02	Market Close: Markets | SP500 2094.34 +13.61
+SPDJIndices	722092584026378241	2016-04-18T16:01:02	Market Mid-day: Markets | DJU 660.11 -2.39 | GDOW 2368.25 +0.84
+SPDJIndices	722092583053352960	2016-04-18T16:01:02	Market Mid-day: Markets | DJI 17972.04 +74.58 | DJC 6329.87 +15.88 | DJT 8003.11 +24.88
+SPDJIndices	722092581958643717	2016-04-18T16:01:02	Market Mid-day: Markets | SP500 2089.44 +8.71
+SPDJIndices	722062171555938305	2016-04-18T14:00:11	Can combining esg &amp; factors contribute to returns &amp; enhanced performance? robecosam sustainability 
+SPDJIndices	722054834761949186	2016-04-18T13:31:02	Market Open: Markets | DJU 662.23 -1.59 | GDOW 2367.49 -17.88
+SPDJIndices	722054833918865408	2016-04-18T13:31:02	Market Open: Markets | DJI 17890.20 -30.41 | DJC 6307.74 -15.78 | DJT 7958.06 -33.14
+SPDJIndices	722054832861917185	2016-04-18T13:31:01	Market Open: Markets | SP500 2078.83 -5.35
+SPDJIndices	721986648905486336	2016-04-18T09:00:05	It’s not too late to register. Join cppib jpmorgan robecoSAM tomorrow in Paris 
+SPDJIndices	721073386231828480	2016-04-15T20:31:06	Market Close: Markets
+SPDJIndices	721073385355264006	2016-04-15T20:31:06	Market Close: Markets | SP500 2080.73 -2.05
+SPDJIndices	721005422006681601	2016-04-15T16:01:02	Market Mid-day: Markets | DJU 661.67 +4.09 | GDOW 2367.84 +0.18
+SPDJIndices	721005421113319424	2016-04-15T16:01:02	Market Mid-day: Markets | DJI 17914.79 -11.64 | DJC 6319.44 +7.54 | DJT 7994.25 +13.47
+SPDJIndices	721005420081516545	2016-04-15T16:01:02	Market Mid-day: Markets | SP500 2081.34 -1.44
+SPDJIndices	720967675011313664	2016-04-15T13:31:03	Market Open: Markets | DJU 657.57 +0.45 | GDOW 2364.58 -1.74
+SPDJIndices	720967674126315521	2016-04-15T13:31:03	Market Open: Markets | DJI 17925.95 +2.26 | DJC 6312.26 +2.97 | DJT 7982.92 +8.10
+SPDJIndices	720967672964509696	2016-04-15T13:31:02	Market Open: Markets | SP500 2083.10 -0.71
+SPDJIndices	720710983874953217	2016-04-14T20:31:03	Market Close: Markets | DJU 657.58 -0.64 | GDOW 2367.20 +9.82
+SPDJIndices	720710982935396353	2016-04-14T20:31:03	Market Close: Markets | DJI 17926.43 +18.15 | DJC 6311.90 +6.79 | DJT 7980.78 +20.04
+SPDJIndices	720710981899444224	2016-04-14T20:31:02	Market Close: Markets | SP500 2082.78 +0.36
+SPDJIndices	720643031066681344	2016-04-14T16:01:02	Market Mid-day: Markets | DJU 656.60 -1.62 | GDOW 2368.87 +11.49
+SPDJIndices	720643030160687108	2016-04-14T16:01:01	Market Mid-day: Markets | DJI 17937.69 +29.41 | DJC 6318.89 +13.78 | DJT 8010.39 +49.65
+SPDJIndices	720643029128888321	2016-04-14T16:01:01	Market Mid-day: Markets | SP500 2084.66 +2.24
+SPDJIndices	720605286759837696	2016-04-14T13:31:03	Market Open: Markets | DJU 657.75 -1.13 | GDOW 2359.75 +12.72
+SPDJIndices	720605285832900608	2016-04-14T13:31:02	Market Open: Markets | DJI 17912.25 +18.08 | DJC 6307.86 +7.56 | DJT 7973.47 +27.35
+SPDJIndices	720605284750725120	2016-04-14T13:31:02	Market Open: Markets | SP500 2082.89 +0.48
+SPDJIndices	720348593517944833	2016-04-13T20:31:02	Market Close: Markets | DJU 658.22 -4.55 | GDOW 2357.19 +40.76
+SPDJIndices	720348592632958976	2016-04-13T20:31:02	Market Close: Markets | DJI 17908.28 +187.03 | DJC 6305.11 +72.61 | DJT 7960.74 +202.05
+SPDJIndices	720348591689175040	2016-04-13T20:31:02	Market Close: Markets | SP500 2082.42 +20.70
+SPDJIndices	720280648229851137	2016-04-13T16:01:03	Market Mid-day: Markets | DJU 657.68 -5.09 | GDOW 2354.99 +38.56
+SPDJIndices	720280647034675200	2016-04-13T16:01:03	Market Mid-day: Markets | DJI 17874.45 +153.20 | DJC 6298.24 +65.74 | DJT 7963.45 +204.76
+SPDJIndices	720280645788786689	2016-04-13T16:01:02	Market Mid-day: Markets | SP500 2077.70 +15.98
+SPDJIndices	720264136370696193	2016-04-13T14:55:26	MHFI hosts panel discussion: Is Affordable Care Act financially healthy? Analysis from SPDJIndices standardpoors 
+SPDJIndices	720265023914909696	2016-04-13T14:58:58	Michael Taggart, SPDJIndices: Costs of prescription drugs have gone higher than medical services healthcare ACA 
+SPDJIndices	720242899514863618	2016-04-13T13:31:03	Market Open: Markets | DJU 663.31 +0.79 | GDOW 2320.11 +32.59
+SPDJIndices	720242898063593472	2016-04-13T13:31:03	Market Open: Markets | DJI 17741.66 +81.22 | DJC 6243.04 +28.26 | DJT 7784.70 +51.41
+SPDJIndices	720242896948105216	2016-04-13T13:31:02	Market Open: Markets | SP500 2065.92 +10.40
+SPDJIndices	720235131064213505	2016-04-13T13:00:11	How &amp; why are blended factors growing in popularity in sustainability? robecosam esg factors 
+SPDJIndices	720174711255261184	2016-04-13T09:00:06	It's   not too late to register. Join cppib jpmorgan robecoSAM in Frankfurt Paris London 
+SPDJIndices	720008765517479936	2016-04-12T22:00:41	Unnaturally Negative Interest Rates  Indexology blitzersinsights fixedincome strategy
+SPDJIndices	719986206176645120	2016-04-12T20:31:02	Market Close: Markets | DJU 662.77 +5.26 | GDOW 2318.52 +23.28
+SPDJIndices	719986205266485248	2016-04-12T20:31:02	Market Close: Markets | DJI 17721.25 +164.84 | DJC 6232.50 +53.62 | DJT 7758.69 +59.20
+SPDJIndices	719986202615640064	2016-04-12T20:31:02	Market Close: Markets | SP500 2061.72 +19.73
+SPDJIndices	719918259454242817	2016-04-12T16:01:03	Market Mid-day: Markets | DJU 661.97 +4.46 | GDOW 2313.23 +17.99
+SPDJIndices	719918258359558145	2016-04-12T16:01:02	Market Mid-day: Markets | DJI 17690.44 +134.03 | DJC 6224.68 +45.80 | DJT 7756.35 +56.86
+SPDJIndices	719918257155764224	2016-04-12T16:01:02	Market Mid-day: Markets | SP500 2055.43 +13.44
+SPDJIndices	719907852102602757	2016-04-12T15:19:41	What Is Driving the Mexican Peso?  Indexology fixedincome fixedincome mexico spvalmer
+SPDJIndices	719907843852406784	2016-04-12T15:19:39	How Did South African Active Managers Perform in 2015?  Indexology uncategorized
+SPDJIndices	719901911252672512	2016-04-12T14:56:05	Congrats to SPDJIndices for being honored in Asia Asset Management magazine as Index Provider of the Year, Asia 
+SPDJIndices	719880513352241153	2016-04-12T13:31:03	Market Open: Markets | DJU 657.83 +0.73 | GDOW 2293.59 +7.31
+SPDJIndices	719880512282759169	2016-04-12T13:31:03	Market Open: Markets | DJI 17571.34 +29.11 | DJC 6185.32 +13.04 | DJT 7713.37 +28.32
+SPDJIndices	719880511083180033	2016-04-12T13:31:03	Market Open: Markets | SP500 2043.72 +3.63
+SPDJIndices	719879044272140288	2016-04-12T13:25:13	.@MHFI hosts discussion on the financial health of the ACA &amp; its programs:  
+SPDJIndices	718893769509220352	2016-04-09T20:10:05	McGraw Hill Financial hosts discussion on the financial health of the ACA &amp; its programs:   
+SPDJIndices	719468303400505348	2016-04-11T10:13:05	Hear from our panel of experts on the winners and losers the Affordable Care Act  healthcare 
+SPDJIndices	719623846744223745	2016-04-11T20:31:09	Market Close: Markets | DJU 657.51 -2.60 | GDOW 2293.24 +5.64
+SPDJIndices	719623845678825472	2016-04-11T20:31:09	Market Close: Markets | DJI 17556.41 -20.55 | DJC 6178.88 -16.34 | DJT 7699.49 -36.79
+SPDJIndices	719623844563169285	2016-04-11T20:31:09	Market Close: Markets | SP500 2041.99 -5.61
+SPDJIndices	719555918426341377	2016-04-11T16:01:14	Market Mid-day: Markets | DJU 659.17 -0.94 | GDOW 2299.60 +12.00
+SPDJIndices	719555916929048576	2016-04-11T16:01:13	Market Mid-day: Markets | DJI 17638.22 +61.26 | DJC 6208.40 +13.18 | DJT 7749.59 +13.31
+SPDJIndices	719555915670806528	2016-04-11T16:01:13	Market Mid-day: Markets | SP500 2052.61 +5.01
+SPDJIndices	719545055724355585	2016-04-11T15:18:04	Who Fuelled the Oil Bonds Bubble?  Indexology fixedincome strategy activevpassive energy
+SPDJIndices	719518137092337664	2016-04-11T13:31:06	Market Open: Markets | DJU 660.27 +1.26 | GDOW 2286.84 +14.41
+SPDJIndices	719518135896973313	2016-04-11T13:31:06	Market Open: Markets | DJI 17586.48 +68.79 | DJC 6199.50 +18.83 | DJT 7746.21 +15.10
+SPDJIndices	719518134756098048	2016-04-11T13:31:05	Market Open: Markets | SP500 2050.23 +8.16
+SPDJIndices	718536653963411456	2016-04-08T20:31:02	Market Close: Markets | DJU 660.11 +3.67 | GDOW 2287.67 +20.48
+SPDJIndices	718536652864516097	2016-04-08T20:31:02	Market Close: Markets | DJI 17576.96 +35.00 | DJC 6195.22 +31.09 | DJT 7736.28 +83.45
+SPDJIndices	718536651803402245	2016-04-08T20:31:02	Market Close: Markets | SP500 2047.60 +5.69
+SPDJIndices	718536553295785984	2016-04-08T20:30:38	Active Versus Passive Funds in Latin America  Indexology equities brazil chile mexico
+SPDJIndices	718517882649350144	2016-04-08T19:16:27	Growth and Surging Popularity of Unconstrained Bond Funds  Indexology fixedincome bonds
+SPDJIndices	718468706880385025	2016-04-08T16:01:02	Market Mid-day: Markets | DJU 661.98 +5.54 | GDOW 2289.96 +22.77
+SPDJIndices	718468705844359171	2016-04-08T16:01:02	Market Mid-day: Markets | DJI 17609.76 +67.80 | DJC 6214.48 +50.35 | DJT 7781.11 +128.28
+SPDJIndices	718468704628031488	2016-04-08T16:01:02	Market Mid-day: Markets | SP500 2050.82 +8.91
+SPDJIndices	718458430726475776	2016-04-08T15:20:12	Complimentary forum for advisors in Houston. Managing Risk to Maximize Returns.  
+SPDJIndices	718430959562047490	2016-04-08T13:31:03	Market Open: Markets | DJU 657.38 +2.01 | GDOW 2262.55 +19.12
+SPDJIndices	718430957825572866	2016-04-08T13:31:02	Market Open: Markets | DJI 17555.39 +68.21 | DJC 6171.86 +25.19 | DJT 7668.73 +38.25
+SPDJIndices	718430956630196224	2016-04-08T13:31:02	Market Open: Markets | SP500 2045.54 +9.88
+SPDJIndices	718429834662264832	2016-04-08T13:26:35	Ulta Salon, Cosmetics &amp; Fragrance Set to Join the S&amp;P 500; Tenet Healthcare to Join S&amp;P MidCap 400. 
+SPDJIndices	718429119713832960	2016-04-08T13:23:44	What were the most read Indexology blog posts of Q1 2016?  
+SPDJIndices	718399259125661696	2016-04-08T11:25:05	SPDJIndices S&amp;P Index Carbon Emitter Scorecard on total emissions by sector:  
+SPDJIndices	718175352850399236	2016-04-07T20:35:21	Market Close: Markets
+SPDJIndices	718164648810430464	2016-04-07T19:52:49	Expect more starting and stopping at the Fed on Interest rates.  Indexology
+SPDJIndices	718106355681333248	2016-04-07T16:01:11	Market Mid-day: Markets | DJU 658.36 +2.20 | GDOW 2269.57 -10.53
+SPDJIndices	718106354557272064	2016-04-07T16:01:11	Market Mid-day: Markets | DJI 17566.65 -149.40 | DJC 6186.68 -32.69 | DJT 7719.71 -34.17
+SPDJIndices	718106353030533120	2016-04-07T16:01:10	Market Mid-day: Markets | SP500 2048.12 -18.54
+SPDJIndices	718092756497915904	2016-04-07T15:07:09	Rieger Report: Puerto Rico bonds fall after moves to suspend debt payments  Indexology
+SPDJIndices	718091415801176064	2016-04-07T15:01:49	SPIVA Australia results are in. Find out how active funds performed relative to benchmarks.  
+SPDJIndices	718075002512392192	2016-04-07T13:56:36	S&amp;P Index Carbon Emitter Scorecard provides data on greenhouse gas emissions for major equity benchmarks. 
+SPDJIndices	718072519488585729	2016-04-07T13:46:44	S&amp;P Index Carbon Emitter Scorecard provides data on greenhouse gas emissions for equity benchmarks across the globe 
+SPDJIndices	718068685655642113	2016-04-07T13:31:30	Market Open: Markets
+SPDJIndices	718068684590292993	2016-04-07T13:31:30	Market Open: Markets | SP500 2063.01 -10.41
+SPDJIndices	718055518946910208	2016-04-07T12:39:11	Necessary, but not sufficient  Indexology equities strategy carbonemissions esg
+SPDJIndices	717811879419240448	2016-04-06T20:31:03	Market Close: Markets | DJU 656.16 -0.39 | GDOW 2282.53 +18.03
+SPDJIndices	717811878328737792	2016-04-06T20:31:02	Market Close: Markets | DJI 17716.05 +112.73 | DJC 6219.37 +17.13 | DJT 7753.88 -18.58
+SPDJIndices	717811877200412673	2016-04-06T20:31:02	Market Close: Markets | SP500 2066.66 +21.49
+SPDJIndices	717743931589582848	2016-04-06T16:01:02	Market Mid-day: Markets | DJU 652.68 -3.87 | GDOW 2281.64 +17.14
+SPDJIndices	717743930473897985	2016-04-06T16:01:02	Market Mid-day: Markets | DJI 17689.58 +86.26 | DJC 6203.12 +0.88 | DJT 7729.58 -42.88
+SPDJIndices	717743928397709312	2016-04-06T16:01:02	Market Mid-day: Markets | SP500 2059.17 +14.00
+SPDJIndices	717482232156405764	2016-04-05T22:41:08	McGraw Hill Financial hosts panel on the financial health of the ACA &amp; its programs  ACA 
+SPDJIndices	717706218446397441	2016-04-06T13:31:11	Market Open: Markets | DJU 655.71 -1.20 | GDOW 2264.29 +1.58
+SPDJIndices	717706217427181568	2016-04-06T13:31:11	Market Open: Markets | DJI 17605.45 +14.52 | DJC 6201.47 -1.29 | DJT 7773.50 -9.62
+SPDJIndices	717706216311558144	2016-04-06T13:31:10	Market Open: Markets | SP500 2045.56 +2.34
+SPDJIndices	717701707535355904	2016-04-06T13:13:15	Oil’s strong rebound in March lifted not just energy, but the rest of the sp500 sectors as well. 
+SPDJIndices	717449489112555520	2016-04-05T20:31:02	Market Close: Markets | DJU 656.55 -11.79 | GDOW 2265.12 -34.32
+SPDJIndices	717449488047214592	2016-04-05T20:31:02	Market Close: Markets | DJI 17603.32 -133.68 | DJC 6202.24 -55.35 | DJT 7772.46 -44.53
+SPDJIndices	717449486889566208	2016-04-05T20:31:01	Market Close: Markets | SP500 2045.17 -20.96
+SPDJIndices	717381543837179904	2016-04-05T16:01:03	Market Mid-day: Markets | DJU 657.48 -10.86 | GDOW 2268.11 -31.33
+SPDJIndices	717381542708912128	2016-04-05T16:01:02	Market Mid-day: Markets | DJI 17653.32 -83.68 | DJC 6218.75 -38.84 | DJT 7795.42 -21.57
+SPDJIndices	717381541379325952	2016-04-05T16:01:02	Market Mid-day: Markets | SP500 2050.10 -16.03
+SPDJIndices	717343794870530049	2016-04-05T13:31:02	Market Open: Markets | DJU 668.02 -1.48 | GDOW 2297.43 -30.99
+SPDJIndices	717343793855467524	2016-04-05T13:31:02	Market Open: Markets | DJI 17718.03 -78.20 | DJC 6248.70 -26.31 | DJT 7795.49 -39.90
+SPDJIndices	717343792509100033	2016-04-05T13:31:02	Market Open: Markets | SP500 2062.50 -10.17
+SPDJIndices	717292066150170624	2016-04-05T10:05:29	The results of SPIVA South Africa are in. Have funds beaten their benchmark? 
+SPDJIndices	717095958853599233	2016-04-04T21:06:14	Every Commodity Benefits From A Falling Dollar  Indexology commodities commodities djci
+SPDJIndices	717087115675308032	2016-04-04T20:31:05	Market Close: Markets | DJU 668.34 -2.70 | GDOW 2299.32 +1.85
+SPDJIndices	717087109346107392	2016-04-04T20:31:04	Market Close: Markets | DJI 17737.00 -55.75 | DJC 6257.59 -30.73 | DJT 7816.99 -70.78
+SPDJIndices	717087108041715712	2016-04-04T20:31:04	Market Close: Markets | SP500 2066.13 -6.65
+SPDJIndices	717063324597399552	2016-04-04T18:56:33	Great Performances by High Yield, One Time or Early Signs?  Indexology uncategorized
+SPDJIndices	717055431642845184	2016-04-04T18:25:11	Complimentary event for advisors in Houston on 5/10: Managing Risk to Maximize Returns.  
+SPDJIndices	717019152112861184	2016-04-04T16:01:02	Market Mid-day: Markets | DJU 667.01 -4.03 | GDOW 2302.12 +4.65
+SPDJIndices	717019151030751233	2016-04-04T16:01:01	Market Mid-day: Markets | DJI 17771.38 -21.37 | DJC 6272.93 -15.39 | DJT 7867.45 -20.32
+SPDJIndices	717019149483057152	2016-04-04T16:01:01	Market Mid-day: Markets | SP500 2068.50 -4.28
+SPDJIndices	716981408519073792	2016-04-04T13:31:03	Market Open: Markets | DJU 670.80 -0.01 | GDOW 2300.38 +7.07
+SPDJIndices	716981407432773632	2016-04-04T13:31:03	Market Open: Markets | DJI 17799.39 -7.81 | DJC 6289.84 -8.01 | DJT 7890.69 -26.92
+SPDJIndices	716981406434467840	2016-04-04T13:31:02	Market Open: Markets | SP500 2073.19 -1.31
+SPDJIndices	715999938702868480	2016-04-01T20:31:02	Market Close: Markets | DJU 671.04 +2.47 | GDOW 2302.06 -12.79
+SPDJIndices	715999936920338432	2016-04-01T20:31:02	Market Close: Markets | DJI 17792.75 +107.66 | DJC 6288.32 +12.72 | DJT 7887.77 -56.34
+SPDJIndices	715999935162884096	2016-04-01T20:31:01	Market Close: Markets | SP500 2072.78 +13.04
+SPDJIndices	715998790394757120	2016-04-01T20:26:28	How can you reset the right allocation to manage risk? Hear from seasoned practitioners.  
+SPDJIndices	715931993662480385	2016-04-01T16:01:03	Market Mid-day: Markets | DJU 664.40 -4.17 | GDOW 2294.32 -20.53
+SPDJIndices	715931992349655041	2016-04-01T16:01:03	Market Mid-day: Markets | DJI 17731.83 +46.74 | DJC 6255.03 -20.57 | DJT 7840.17 -103.94
+SPDJIndices	715931991049428993	2016-04-01T16:01:02	Market Mid-day: Markets | SP500 2062.89 +3.15
+SPDJIndices	715922661000548352	2016-04-01T15:23:58	How are advisors &amp; wealthmanagers using indices &amp; index data to manage risk? 
+SPDJIndices	715894243861131264	2016-04-01T13:31:03	Market Open: Markets | DJU 667.45 -0.73 | GDOW 2313.01 -34.39
+SPDJIndices	715894242757984256	2016-04-01T13:31:02	Market Open: Markets | DJI 17661.74 -60.06 | DJC 6265.03 -26.98 | DJT 7924.99 -64.87
+SPDJIndices	715894241503932417	2016-04-01T13:31:02	Market Open: Markets | SP500 2056.62 -8.31
+SPDJIndices	715637549763600384	2016-03-31T20:31:02	Market Close: Markets | DJU 668.57 +3.25 | GDOW 2313.02 -10.31
+SPDJIndices	715637548538793985	2016-03-31T20:31:02	Market Close: Markets | DJI 17685.09 -31.57 | DJC 6275.60 -5.26 | DJT 7944.11 -21.08
+SPDJIndices	715637547083440132	2016-03-31T20:31:01	Market Close: Markets | SP500 2059.74 -4.21
+SPDJIndices	715610472251203584	2016-03-31T18:43:26	Must reads &amp; the latest index news from our March FA Focus Canada.  financialadvisors 
+SPDJIndices	715609519540142080	2016-03-31T18:39:39	Check out must reads &amp; the latest index news from our Q1 FA Focus Australia.  
+SPDJIndices	715608241535733760	2016-03-31T18:34:34	S&amp;P Pan Arab Composite LargeMidCap posted a 3.64% total return for March, limiting the losses for the Q1 to 2.94%. 
+SPDJIndices	715608003727138816	2016-03-31T18:33:38	The global recovery from a chaotic start to the yr continued throughout March; S&amp;P Europe 350 completed the month with a 1.41% total return.
+SPDJIndices	715591301098409984	2016-03-31T17:27:15	Get the latest results: S&amp;P/Case-Shiller Home Prices as of January 2016  
+SPDJIndices	715589175873896448	2016-03-31T17:18:49	“Home prices continue to climb at more than twice the rate of inflation” says David Blitzer  
+SPDJIndices	715588766291746817	2016-03-31T17:17:11	Does market volatility favor active management? Find out on Indexology. 
+SPDJIndices	715586321549500416	2016-03-31T17:07:28	US Markets Midday: DOW ($DJIA) +0.09% | NASDAQ ($COMPX) +0.41% | S&amp;P 500 ($SPX) +0.09% | More: 
+SPDJIndices	715588309477564416	2016-03-31T17:15:22	Why was 2015 was a significant year for the healthcare insurance market?  
+SPDJIndices	715588047325126656	2016-03-31T17:14:20	What 3 factors are worth considering before choosing a dividend index? 
+SPDJIndices	715585861388222465	2016-03-31T17:05:38	Has the ACA Achieved its Goal of Significantly Increasing Enrollment While…  Indexology
+SPDJIndices	715569603171205120	2016-03-31T16:01:02	Market Mid-day: Markets | DJU 667.16 +1.84 | GDOW 2319.51 -3.82
+SPDJIndices	715569601950650370	2016-03-31T16:01:02	Market Mid-day: Markets | DJI 17749.88 +33.22 | DJC 6289.70 +8.84 | DJT 7962.08 -3.11
+SPDJIndices	715569600214220804	2016-03-31T16:01:01	Market Mid-day: Markets | SP500 2067.37 +3.42
+SPDJIndices	715560542518317058	2016-03-31T15:25:02	An SPDJIndices back ETF from StateStreet can benefit from delayed Fed action| ETFTrends  …
+SPDJIndices	715558099633963008	2016-03-31T15:15:20	With gold heading for its best quarter since 1986, we recap its ups and downs  
+SPDJIndices	715557537479786496	2016-03-31T15:13:06	What can be observed from S&amp;P DJI fixed income indices?  
+SPDJIndices	715555709417603074	2016-03-31T15:05:50	Webinar 4/13: What constitutes real assets in a useful industry benchmark? CE Credits.  
+SPDJIndices	715554592054984704	2016-03-31T15:01:23	How should an investor evaluate a “smart beta” strategy? Hear from CraigLazzara on Indexologyblog. 
+SPDJIndices	715553559048286210	2016-03-31T14:57:17	It was the best March since March 2002 for coffee with a 10.4% gain.  
+SPDJIndices	715552461692469248	2016-03-31T14:52:55	This is the 1st March in history that all 8 agriculture commodities are up  JodieGunzberg 
+SPDJIndices	715526773878947840	2016-03-31T13:10:51	Thank you to our Gold Corporate Sponsors: HorizonsETFs SPDJIndices pension
+SPDJIndices	715538332869140480	2016-03-31T13:56:47	What is the longest period of time that the New York Stock Exchange has been closed? NYSE Dow120
+SPDJIndices	715537586593394688	2016-03-31T13:53:49	Take our latest poll in celebration of the Dow120!  
+SPDJIndices	715531857660612608	2016-03-31T13:31:03	Market Open: Markets | DJU 665.74 +0.99 | GDOW 2321.58 -3.43
+SPDJIndices	715531856637243392	2016-03-31T13:31:03	Market Open: Markets | DJI 17716.05 +0.14 | DJC 6280.11 -1.30 | DJT 7959.10 -13.74
+SPDJIndices	715531855534104576	2016-03-31T13:31:02	Market Open: Markets | SP500 2063.77 -0.96
+SPDJIndices	715493874454626304	2016-03-31T11:00:07	What is long-term value &amp; how can we measure? robecosam discuss the toolkit sustainability 
+SPDJIndices	715446957448294400	2016-03-31T07:53:41	Best March For #Commodities In 10 Years  Indexology indexperformance jodiegunzberg spgsci
+SPDJIndices	715275162346786816	2016-03-30T20:31:02	Market Close: Markets | DJU 665.32 -1.65 | GDOW 2321.46 +28.96
+SPDJIndices	715275161327558656	2016-03-30T20:31:02	Market Close: Markets | DJI 17716.66 +83.55 | DJC 6280.86 +16.38 | DJT 7965.19 +13.58
+SPDJIndices	715275159943442434	2016-03-30T20:31:01	Market Close: Markets | SP500 2063.95 +8.94
+SPDJIndices	715207215712485376	2016-03-30T16:01:02	Market Mid-day: Markets | DJU 665.93 -1.04 | GDOW 2323.36 +30.86
+SPDJIndices	715207214475116544	2016-03-30T16:01:02	Market Mid-day: Markets | DJI 17729.20 +96.09 | DJC 6287.78 +23.30 | DJT 7981.09 +29.48
+SPDJIndices	715207213409763329	2016-03-30T16:01:02	Market Mid-day: Markets | SP500 2065.66 +10.65
+SPDJIndices	715169469350473728	2016-03-30T13:31:03	Market Open: Markets | DJU 667.29 +0.55 | GDOW 2300.75 +29.63
+SPDJIndices	715169468268298240	2016-03-30T13:31:03	Market Open: Markets | DJI 17652.36 +75.40 | DJC 6272.23 +18.31 | DJT 7967.63 +12.73
+SPDJIndices	715169467018383360	2016-03-30T13:31:02	Market Open: Markets | SP500 2058.27 +9.41
+SPDJIndices	714925771266113536	2016-03-29T21:22:41	Indexing the Brexit  Indexology fixedincome bondyields britain corporatebond england
+SPDJIndices	714886165959221248	2016-03-29T18:45:18	Dow 20,000 still seems far off 17 years after 10k  
+SPDJIndices	714907000740691968	2016-03-29T20:08:05	Dow rises 98 points to the highest close of 2016. Nasdaq gains 1.7% as Netflix, Yahoo and Apple rally.  
+SPDJIndices	714912775580086272	2016-03-29T20:31:02	Market Close: Markets | DJU 666.97 +9.69 | GDOW 2301.19 +14.50
+SPDJIndices	714912774401495042	2016-03-29T20:31:02	Market Close: Markets | DJI 17633.11 +97.72 | DJC 6264.48 +55.39 | DJT 7951.61 +92.90
+SPDJIndices	714912773243854848	2016-03-29T20:31:02	Market Close: Markets | SP500 2055.01 +17.96
+SPDJIndices	714906317794713601	2016-03-29T20:05:23	The Teleology of Smart Beta  Indexology equities strategy activemanagement craiglazzara
+SPDJIndices	714887056829390848	2016-03-29T18:48:50	Here's our 2nd trivia question in honor of the Dow120. The answer will be posted on Friday.   
+SPDJIndices	714879319445794816	2016-03-29T18:18:06	S&amp;P/Case-Shiller Home Prices as of January 2016  HousingViews economicdata
+SPDJIndices	714844829340065792	2016-03-29T16:01:03	Market Mid-day: Markets | DJU 657.20 -0.08 | GDOW 2282.82 -3.87
+SPDJIndices	714844828115341314	2016-03-29T16:01:02	Market Mid-day: Markets | DJI 17496.66 -38.73 | DJC 6196.47 -12.62 | DJT 7835.78 -22.93
+SPDJIndices	714844826911510529	2016-03-29T16:01:02	Market Mid-day: Markets | SP500 2035.12 -1.93
+SPDJIndices	714807081937846272	2016-03-29T13:31:03	Market Open: Markets | DJU 657.73 +0.23 | GDOW 2286.09 -8.61
+SPDJIndices	714807080880889856	2016-03-29T13:31:03	Market Open: Markets | DJI 17512.58 -67.11 | DJC 6205.26 -19.85 | DJT 7858.17 -33.38
+SPDJIndices	714807079769411584	2016-03-29T13:31:02	Market Open: Markets | SP500 2035.75 -5.17
+SPDJIndices	714769090355806208	2016-03-29T11:00:05	What does long-term value mean &amp; how can investors incorporate it? Join us in Frankfurt Paris London 
+SPDJIndices	714550645198622722	2016-03-28T20:32:04	Market Close: Markets | DJU 657.28 -2.92 | GDOW 2285.98 +6.15
+SPDJIndices	714550643395072002	2016-03-28T20:32:03	Market Close: Markets | DJI 17535.39 +19.66 | DJC 6209.09 -15.73 | DJT 7858.71 -67.31
+SPDJIndices	714550641918668801	2016-03-28T20:32:03	Market Close: Markets | SP500 2037.05 +1.11
+SPDJIndices	714543294185758720	2016-03-28T20:02:51	What are some recent innovations in real assets’ indices? 
+SPDJIndices	714540764026519552	2016-03-28T19:52:48	What are myths &amp; realities of passiveinvesting? Is successful activemanagement prevalent?  
+SPDJIndices	714540408789983233	2016-03-28T19:51:23	Take a look at the S&amp;P China 500 Index that captures the complete China story. 
+SPDJIndices	714539377951694849	2016-03-28T19:47:17	S&amp;P 500 Low Volatility Target Beta Index Launched; Adds to S&amp;P DJI Growing Family of Smartbeta Indices. 
+SPDJIndices	714539164725809152	2016-03-28T19:46:27	Hologic, Centene Set to Join the SP500; Others to Join S&amp;P MidCap 400 and S&amp;P SmallCap 600. 
+SPDJIndices	714538834822881280	2016-03-28T19:45:08	We are just starting to see the evolution of the new healthcare market.  
+SPDJIndices	713113976188575746	2016-03-24T21:23:15	Hologic to replace Pepco &amp; Centene to replace Ensco in the S&amp;P 500 - S&amp;P Dow Jones Indices
+SPDJIndices	714534809322840064	2016-03-28T19:29:08	Webinar on 4/13: What constitutes real assets in a useful industry benchmark? CE Credits Available. 
+SPDJIndices	714533839058640898	2016-03-28T19:25:17	What 3 factors are worth considering before choosing a dividend index?  
+SPDJIndices	714532090272989186	2016-03-28T19:18:20	Dow Trivia: It took The Dow 76 years to hit 1000 in 1972; it took one month to get from 10k to 11k in 1999. Dow120
+SPDJIndices	714531923289317377	2016-03-28T19:17:40	Can House Prices Keep Rising? David Blitzer discusses on Indexology. 
+SPDJIndices	714530052373807104	2016-03-28T19:10:14	What's the potential impact of resource efficiency on risk and performance?  
+SPDJIndices	714528252887347200	2016-03-28T19:03:05	Introducing a new monthly report detailing effects of market-driven events on Mexico's fixedincome sector 
+SPDJIndices	714526521617203200	2016-03-28T18:56:12	What characteristics are driving the rise of real assets? Hear from JodieGunzberg 
+SPDJIndices	714522740326182912	2016-03-28T18:41:11	How do U.S. equities fit into wealth management strategies outside of the U.S.?  
+SPDJIndices	714482439222067200	2016-03-28T16:01:02	Market Mid-day: Markets | DJU 657.29 -2.91 | GDOW 2285.31 +5.48
+SPDJIndices	714482437955457025	2016-03-28T16:01:02	Market Mid-day: Markets | DJI 17531.66 +15.93 | DJC 6199.61 -25.21 | DJT 7818.45 -107.57
+SPDJIndices	714482436793565184	2016-03-28T16:01:02	Market Mid-day: Markets | SP500 2037.17 +1.23
+SPDJIndices	714444692671348737	2016-03-28T13:31:03	Market Open: Markets | DJU 660.65 +0.42 | GDOW 2279.00 +7.23
+SPDJIndices	714444691639545856	2016-03-28T13:31:02	Market Open: Markets | DJI 17526.08 +31.71 | DJC 6229.28 +9.34 | DJT 7933.82 +11.45
+SPDJIndices	714444690486112256	2016-03-28T13:31:02	Market Open: Markets | SP500 2037.89 +4.21
+SPDJIndices	713463224973320192	2016-03-25T20:31:02	Market Close: Markets | DJU 660.20 +1.37 | GDOW 2279.29 +2.83
+SPDJIndices	713463223668850688	2016-03-25T20:31:02	Market Close: Markets | DJI 17515.73 +13.14 | DJC 6224.82 -1.87 | DJT 7926.02 -30.76
+SPDJIndices	713463222502866946	2016-03-25T20:31:02	Market Close: Markets | SP500 2035.94 -0.77
+SPDJIndices	713404678474711041	2016-03-25T16:38:24	Can House Prices Keep Rising?  Indexology blitzersinsights strategy homeprices
+SPDJIndices	713395278389321728	2016-03-25T16:01:03	Market Mid-day: Markets | DJU 660.20 +1.37 | GDOW 2279.29 +2.83
+SPDJIndices	713395276988461057	2016-03-25T16:01:02	Market Mid-day: Markets | DJI 17515.73 +13.14 | DJC 6224.82 -1.87 | DJT 7926.02 -30.76
+SPDJIndices	713395275830804481	2016-03-25T16:01:02	Market Mid-day: Markets | SP500 2035.94 -0.77
+SPDJIndices	713363536936718336	2016-03-25T13:54:55	During our upcoming webinar, JodieGunzberg will define what constitutes real assets in a useful industry benchmark 
+SPDJIndices	713357528994877440	2016-03-25T13:31:03	Market Open: Markets | DJU 657.98 +1.37 | GDOW 2276.93 +2.83
+SPDJIndices	713357527669452801	2016-03-25T13:31:02	Market Open: Markets | DJI 17485.33 +13.14 | DJC 6216.87 -1.87 | DJT 7933.58 -30.76
+SPDJIndices	713357526197276672	2016-03-25T13:31:02	Market Open: Markets | SP500 2032.48 -0.77
+SPDJIndices	713100836117823490	2016-03-24T20:31:02	Market Close: Markets | DJU 660.20 +1.37 | GDOW 2277.12 -19.59
+SPDJIndices	713100835044126720	2016-03-24T20:31:02	Market Close: Markets | DJI 17515.73 +13.14 | DJC 6224.82 -1.87 | DJT 7926.02 -30.76
+SPDJIndices	713100833911664640	2016-03-24T20:31:02	Market Close: Markets | SP500 2035.94 -0.77
+SPDJIndices	713090421283532800	2016-03-24T19:49:39	Has the Affordable Care Act Achieved its Goal of Significantly Increasing…  Indexology
+SPDJIndices	713032890842480646	2016-03-24T16:01:03	Market Mid-day: Markets | DJU 658.81 -0.02 | GDOW 2273.82 -22.89
+SPDJIndices	713032889651302400	2016-03-24T16:01:03	Market Mid-day: Markets | DJI 17445.61 -56.98 | DJC 6201.21 -25.48 | DJT 7890.63 -66.15
+SPDJIndices	713032888418177024	2016-03-24T16:01:02	Market Mid-day: Markets | SP500 2028.40 -8.31
+SPDJIndices	712995255264657408	2016-03-24T13:31:30	CFOs - What can you learn from S&amp;P Dow Jones Indices’ SVP and CFO? Come to our conference &amp; find out SPDJIndices 
+SPDJIndices	712995564611182593	2016-03-24T13:32:44	Check out 3 must reads from our latest Asia focus - S&amp;P China 500, smartbeta&amp; Real Assets.  
+SPDJIndices	712995141536071680	2016-03-24T13:31:03	Market Open: Markets | DJU 657.98 -1.13 | GDOW 2296.60 -27.79
+SPDJIndices	712995140382670848	2016-03-24T13:31:02	Market Open: Markets | DJI 17485.33 -63.01 | DJC 6216.87 -23.63 | DJT 7933.58 -43.79
+SPDJIndices	712995139283763200	2016-03-24T13:31:02	Market Open: Markets | SP500 2032.48 -8.34
+SPDJIndices	712738452845027329	2016-03-23T20:31:03	Market Close: Markets | DJU 658.83 +3.84 | GDOW 2296.83 -20.47
+SPDJIndices	712738447765737472	2016-03-23T20:31:02	Market Close: Markets | DJI 17502.59 -79.98 | DJC 6226.69 -21.00 | DJT 7956.78 -54.89
+SPDJIndices	712738446616444928	2016-03-23T20:31:02	Market Close: Markets | SP500 2036.71 -13.09
+SPDJIndices	712717867406352384	2016-03-23T19:09:15	What do today's investors need to know about carbon risk &amp; climate change?  
+SPDJIndices	712717314831962112	2016-03-23T19:07:04	What muni tools are available for managing interestrate risk w/ muni bond laddering?  
+SPDJIndices	712716238426808321	2016-03-23T19:02:47	Why should oil index investors be flying high?  
+SPDJIndices	712678087054462976	2016-03-23T16:31:11	Long-Term Underperformance of European Active Management continues to play out…  Indexology
+SPDJIndices	712670501844488193	2016-03-23T16:01:03	Market Mid-day: Markets | DJU 659.36 +4.37 | GDOW 2296.53 -20.77
+SPDJIndices	712670500741320706	2016-03-23T16:01:02	Market Mid-day: Markets | DJI 17519.71 -62.86 | DJC 6236.11 -11.58 | DJT 7980.75 -30.92
+SPDJIndices	712670499722149888	2016-03-23T16:01:02	Market Mid-day: Markets | SP500 2039.78 -10.02
+SPDJIndices	712666435479343104	2016-03-23T15:44:53	Dow Trivia: The Dow fell 3.5% on Dec 8, 1941, the day after the bombing of Pearl Harbor, then stayed on a downward trend for 5 mos. Dow120
+SPDJIndices	712666323147440128	2016-03-23T15:44:26	In honor of the DJIA’s 120th Anniversary we’ll be tweeting with market insight, trivia &amp;  more. Spread the word about Dow120
+SPDJIndices	712632755251712000	2016-03-23T13:31:03	Market Open: Markets | DJU 654.97 -0.72 | GDOW 2315.50 -12.65
+SPDJIndices	712632754224119808	2016-03-23T13:31:03	Market Open: Markets | DJI 17588.81 -43.83 | DJC 6248.33 -11.90 | DJT 8009.17 -10.12
+SPDJIndices	712632752944898048	2016-03-23T13:31:03	Market Open: Markets | SP500 2048.55 -4.34
+SPDJIndices	712594766186283008	2016-03-23T11:00:06	What’s in your smartbeta portfolio &amp; how may combining factors affect performance? 
+SPDJIndices	712376061640761345	2016-03-22T20:31:03	Market Close: Markets | DJU 654.99 -2.02 | GDOW 2315.67 -7.69
+SPDJIndices	712376060634112000	2016-03-22T20:31:02	Market Close: Markets | DJI 17582.57 -41.30 | DJC 6247.69 -25.27 | DJT 8011.67 -63.71
+SPDJIndices	712376058457296896	2016-03-22T20:31:02	Market Close: Markets | SP500 2049.80 -1.80
+SPDJIndices	712351756420784133	2016-03-22T18:54:28	How are oil, the possible return of headline inflation &amp; other macro themes effecting risk management strategies? 
+SPDJIndices	712308113941118976	2016-03-22T16:01:03	Market Mid-day: Markets | DJU 656.40 -0.61 | GDOW 2313.56 -9.80
+SPDJIndices	712308112716394496	2016-03-22T16:01:02	Market Mid-day: Markets | DJI 17589.80 -34.07 | DJC 6253.50 -19.46 | DJT 8021.08 -54.30
+SPDJIndices	712308111143383040	2016-03-22T16:01:02	Market Mid-day: Markets | SP500 2048.42 -3.18
+SPDJIndices	712036456156569600	2016-03-21T22:01:34	Why Oil Index Investors Should Be Flying High  via SPDJIndices
+SPDJIndices	712270366404681728	2016-03-22T13:31:03	Market Open: Markets | DJU 657.51 +0.63 | GDOW 2320.60 -14.13
+SPDJIndices	712270365238685696	2016-03-22T13:31:03	Market Open: Markets | DJI 17602.71 -51.16 | DJC 6263.90 -20.20 | DJT 8048.76 -51.53
+SPDJIndices	712270363749654528	2016-03-22T13:31:02	Market Open: Markets | SP500 2048.64 -7.22
+SPDJIndices	712269615485820928	2016-03-22T13:28:04	How may blending smartbeta factors affect performance in different macroeconomic environments? 
+SPDJIndices	712044704049790978	2016-03-21T22:34:21	Why Oil Index Investors Should Be Flying High  Indexology commodities aal commodities
+SPDJIndices	712015401249599489	2016-03-21T20:37:54	Active Management in Volatile Markets  Indexology equities sp500djia strategy
+SPDJIndices	712013672357437442	2016-03-21T20:31:02	Market Close: Markets | DJU 657.01 -1.53 | GDOW 2321.50 -6.19
+SPDJIndices	712013671392800768	2016-03-21T20:31:02	Market Close: Markets | DJI 17623.87 +21.57 | DJC 6272.96 +1.55 | DJT 8075.38 -0.31
+SPDJIndices	712013670218375169	2016-03-21T20:31:02	Market Close: Markets | SP500 2051.60 +2.02
+SPDJIndices	712011173219192833	2016-03-21T20:21:06	Why was 2015 was a significant year for the healthcare insurance market?  
+SPDJIndices	711959617505464321	2016-03-21T16:56:15	How are oil and other macro themes effecting strategies for riskmanagement? Watch SPDJIndices 
+SPDJIndices	711955304599183361	2016-03-21T16:39:06	Have funds lagged or beaten their benchmark in Europe? SPIVA Europe YE2015 get the results  
+SPDJIndices	711945725911961600	2016-03-21T16:01:03	Market Mid-day: Markets | DJU 659.24 +0.70 | GDOW 2319.85 -7.84
+SPDJIndices	711945724599144448	2016-03-21T16:01:02	Market Mid-day: Markets | DJI 17607.09 +4.79 | DJC 6268.39 -3.02 | DJT 8052.17 -23.52
+SPDJIndices	711945723026268160	2016-03-21T16:01:02	Market Mid-day: Markets | SP500 2048.00 -1.58
+SPDJIndices	711942966743588864	2016-03-21T15:50:05	Dow Trivia: The Dow fell 3.5% on Dec 8, 1941, the day after the bombing of Pearl Harbor, then stayed on a downward trend for 5 mos. Dow120
+SPDJIndices	711907978170003456	2016-03-21T13:31:03	Market Open: Markets | DJU 657.28 -1.91 | GDOW 2325.97 -8.14
+SPDJIndices	711907976928497665	2016-03-21T13:31:02	Market Open: Markets | DJI 17589.70 -25.31 | DJC 6266.29 -10.47 | DJT 8073.07 -11.21
+SPDJIndices	711907975380783104	2016-03-21T13:31:02	Market Open: Markets | SP500 2047.88 -3.30
+SPDJIndices	710926507645001729	2016-03-18T20:31:02	Market Close: Markets | DJU 658.54 -4.65 | GDOW 2326.07 +7.52
+SPDJIndices	710926506504146946	2016-03-18T20:31:02	Market Close: Markets | DJI 17602.30 +120.81 | DJC 6271.30 +40.71 | DJT 8075.20 +115.25
+SPDJIndices	710926504847351809	2016-03-18T20:31:01	Market Close: Markets | SP500 2049.56 +8.97
+SPDJIndices	710530041139077121	2016-03-17T18:15:37	The S&amp;P 500 joins the Dow and has gone positive for the year  
+SPDJIndices	710669833025810432	2016-03-18T03:31:06	Talk about a stunning turnaround. The Dow turned positive for the year today  
+SPDJIndices	710822320605159424	2016-03-18T13:37:02	Stocks rise at the open as S&amp;P 500 turns positive for 2016 and the Dow aims for a 6th straight day of gains; Dow up about 75.
+SPDJIndices	710834435147456517	2016-03-18T14:25:10	Dow Industrials Turn Positive for the Year, Oil Hits New 2016 High  stockaction 
+SPDJIndices	710858561941872641	2016-03-18T16:01:02	Market Mid-day: Markets | DJU 661.81 -1.38 | GDOW 2326.35 +7.80
+SPDJIndices	710858560943616000	2016-03-18T16:01:02	Market Mid-day: Markets | DJI 17589.76 +108.27 | DJC 6273.19 +42.60 | DJT 8069.87 +109.92
+SPDJIndices	710858559765012480	2016-03-18T16:01:02	Market Mid-day: Markets | SP500 2049.55 +8.96
+SPDJIndices	710837112548024320	2016-03-18T14:35:49	The S&amp;P GSCI reached its highest level since Dec. 10, 2015. JodieGunzberg  
+SPDJIndices	710820814749376512	2016-03-18T13:31:03	Market Open: Markets | DJU 663.19 +0.23 | GDOW 2318.81 +5.26
+SPDJIndices	710820813314854912	2016-03-18T13:31:02	Market Open: Markets | DJI 17481.49 +45.61 | DJC 6230.63 +9.81 | DJT 7960.13 +2.68
+SPDJIndices	710820812169879552	2016-03-18T13:31:02	Market Open: Markets | SP500 2041.16 +4.36
+SPDJIndices	710819862189314048	2016-03-18T13:27:16	Biggest commodity comeback ever, the most the S&amp;P GSCI has increased in just 40 days after bottoms. JodieGunzberg 
+SPDJIndices	710704655391715328	2016-03-18T05:49:28	Biggest Commodity Comeback Ever  via SPDJIndices weakdollar industrialmetals
+SPDJIndices	710711034877755392	2016-03-18T06:14:49	Biggest Commodity Comeback Ever  Indexology commodities commodities commoditycomeback
+SPDJIndices	710564119850696704	2016-03-17T20:31:02	Market Close: Markets | DJU 663.19 +7.45 | GDOW 2318.85 +43.52
+SPDJIndices	710564118714052615	2016-03-17T20:31:02	Market Close: Markets | DJI 17481.49 +155.73 | DJC 6230.59 +92.86 | DJT 7959.95 +230.62
+SPDJIndices	710564117615140864	2016-03-17T20:31:01	Market Close: Markets | SP500 2040.59 +13.37
+SPDJIndices	710561858432978944	2016-03-17T20:22:03	Does Market Volatility Favor Active Management? Evidence From the 2015 Year-End…  Indexology
+SPDJIndices	710556775074897921	2016-03-17T20:01:51	Dow rises 155 points. Index turns positive for the year, erasing 2,000-point loss from beginning of 2016. 
+SPDJIndices	710556187113164800	2016-03-17T19:59:31	Does market volatility favor active management? Find out on Indexology.  
+SPDJIndices	710538951325519873	2016-03-17T18:51:01	Investments in real assets have more than tripled in the past 5 years. Find out more.  
+SPDJIndices	710536128353456128	2016-03-17T18:39:48	How do real assets offer a unique &amp; efficient approach to portfolio diversification &amp; risk management? 
+SPDJIndices	710496174093025280	2016-03-17T16:01:02	Market Mid-day: Markets | DJU 661.22 +5.48 | GDOW 2312.95 +37.62
+SPDJIndices	710496172994117632	2016-03-17T16:01:02	Market Mid-day: Markets | DJI 17412.29 +86.53 | DJC 6205.07 +67.34 | DJT 7919.38 +190.05
+SPDJIndices	710496171857412096	2016-03-17T16:01:02	Market Mid-day: Markets | SP500 2033.81 +6.59
+SPDJIndices	710458472945602564	2016-03-17T13:31:14	Market Open: Markets | DJU 656.38 -0.41 | GDOW 2287.25 +26.96
+SPDJIndices	710458471955750912	2016-03-17T13:31:14	Market Open: Markets | DJI 17321.38 -8.83 | DJC 6138.13 +11.44 | DJT 7730.13 +63.60
+SPDJIndices	710458470735200256	2016-03-17T13:31:13	Market Open: Markets | SP500 2026.90 -1.26
+SPDJIndices	710224162766327808	2016-03-16T22:00:10	Take a closer look at factor attributes &amp; smartbeta. What's in your portfolio? 
+SPDJIndices	710209527111667713	2016-03-16T21:02:00	Join CBOE and SPDJIndices for a retrospect celebrating the ten year anniversary of VIX options
+SPDJIndices	710207977253433344	2016-03-16T20:55:51	Stocks hit high for the year on Fed  
+SPDJIndices	710201733406990336	2016-03-16T20:31:02	Market Close: Markets | DJU 655.74 +6.42 | GDOW 2288.21 +14.85
+SPDJIndices	710201732169605120	2016-03-16T20:31:02	Market Close: Markets | DJI 17325.76 +74.23 | DJC 6137.73 +43.07 | DJT 7729.33 +82.35
+SPDJIndices	710201730936545280	2016-03-16T20:31:02	Market Close: Markets | SP500 2027.22 +11.29
+SPDJIndices	710199917881507840	2016-03-16T20:23:49	S&amp;P/ASX index series has helped define the Australian domestic market for over 10 yrs asx  
+SPDJIndices	710198427037081601	2016-03-16T20:17:54	Dow Trivia: The Dow did not have a single component change in the 1940s or 1960s. Dow120
+SPDJIndices	710198069099372544	2016-03-16T20:16:29	Does adjusting by risk matter? Understand the misunderstood factor of momentum.  
+SPDJIndices	710197032586252288	2016-03-16T20:12:22	Why should investors consider realassets in their portfolios? 
+SPDJIndices	710188939966070784	2016-03-16T19:40:12	There has been a shift from DB to DC plans over the past 3 decades.  
+SPDJIndices	710183668027924480	2016-03-16T19:19:15	Has the lowvolatility anomaly disappeared?  
+SPDJIndices	710136314423877632	2016-03-16T16:11:05	What are myths &amp; realities of passiveinvesting? Is successful activemanagement prevalent?  
+SPDJIndices	710133788127453184	2016-03-16T16:01:03	Market Mid-day: Markets | DJU 646.08 -3.24 | GDOW 2267.24 -6.12
+SPDJIndices	710133786986602497	2016-03-16T16:01:03	Market Mid-day: Markets | DJI 17257.86 +6.33 | DJC 6088.32 -6.34 | DJT 7637.17 -9.81
+SPDJIndices	710133785808015361	2016-03-16T16:01:02	Market Mid-day: Markets | SP500 2017.12 +1.19
+SPDJIndices	710126007689150464	2016-03-16T15:30:08	How are index innovations &amp; demand contributing to munis' role as a potential source of growth &amp; income? 
+SPDJIndices	710096041773821954	2016-03-16T13:31:03	Market Open: Markets | DJU 649.09 -1.38 | GDOW 2271.99 -10.67
+SPDJIndices	710096040666468352	2016-03-16T13:31:03	Market Open: Markets | DJI 17249.34 -24.86 | DJC 6090.74 -14.30 | DJT 7632.66 -32.89
+SPDJIndices	710096039492059138	2016-03-16T13:31:03	Market Open: Markets | SP500 2014.24 -2.59
+SPDJIndices	710078191331905536	2016-03-16T12:20:08	Take a look at the S&amp;P China 500 Index that captures the complete China story. 
+SPDJIndices	709914097811206144	2016-03-16T01:28:05	How are advisors leveraging smartbeta, including single &amp; multi-factor, sector &amp; dividend indices, strategically? 
+SPDJIndices	709844013550067712	2016-03-15T20:49:35	What makes the Dividend Aristocrats different than other income driven strategies?  
+SPDJIndices	709839344161431552	2016-03-15T20:31:02	Market Close: Markets | DJU 649.32 +1.68 | GDOW 2272.11 -18.73
+SPDJIndices	709839342685048832	2016-03-15T20:31:02	Market Close: Markets | DJI 17251.53 +22.40 | DJC 6094.66 -2.31 | DJT 7646.98 -43.43
+SPDJIndices	709839341066002432	2016-03-15T20:31:01	Market Close: Markets | SP500 2015.93 -3.71
+SPDJIndices	709070299312947200	2016-03-13T17:35:07	Commodities Speculation Doesn't Increase Food Prices via forbes 
+SPDJIndices	709399268474396672	2016-03-14T15:22:20	OPEC trims 2016 global oil demand outlook 
+SPDJIndices	709836763330695168	2016-03-15T20:20:47	Equal weights across sectors &amp; transparency, 2 factors driving the DowJones Commodity Index  
+SPDJIndices	709829732385353728	2016-03-15T19:52:50	A complimentary seminar for investment professionals in Frankfurt, Paris &amp; London.  
+SPDJIndices	709829298719494145	2016-03-15T19:51:07	Investors &amp; advisors consider past performance &amp; related metrics to be important factors in fund selection. 
+SPDJIndices	709815064321204224	2016-03-15T18:54:33	Our first poll is now live in honor of the DJIA's 120th Anniversary this year. Dow120 
+SPDJIndices	709811972238413824	2016-03-15T18:42:16	What's the impact of dispersion and correlation on broad market indices?  
+SPDJIndices	709810635425583104	2016-03-15T18:36:57	What makes VIX attractive in diversification strategy is its consistently negative correlation w/ equity securities 
+SPDJIndices	709806340605145088	2016-03-15T18:19:53	What's the SPIVA Difference? 
+SPDJIndices	709804640884363265	2016-03-15T18:13:08	How many high-yield corporatebonds react to higher interestrates?  
+SPDJIndices	709803714823983108	2016-03-15T18:09:27	How is VIX used to calculate the expected range of the SP500? Discover the 4 steps.   
+SPDJIndices	709798396824035330	2016-03-15T17:48:19	"Relative behavior of stocks &amp; oilprices are another puzzle." David Blitzer on Indexology.  
+SPDJIndices	709796736164827137	2016-03-15T17:41:43	The bank card default rate increased 4 basis points in Feb recording a default rate of 2.56%  
+SPDJIndices	709794654485671936	2016-03-15T17:33:27	What are latest developments in the Asian ETF market? Attend our 5/18 seminar in Hong Kong.  
+SPDJIndices	709771397954985984	2016-03-15T16:01:02	Market Mid-day: Markets | DJU 647.69 +0.05 | GDOW 2268.34 -22.50
+SPDJIndices	709771396721876996	2016-03-15T16:01:02	Market Mid-day: Markets | DJI 17200.06 -29.07 | DJC 6073.00 -23.97 | DJT 7605.92 -84.49
+SPDJIndices	709771395379666946	2016-03-15T16:01:02	Market Mid-day: Markets | SP500 2008.78 -10.86
+SPDJIndices	709769229470449664	2016-03-15T15:52:25	What is the longest length of time between changes in DJIA components? Dow120
+SPDJIndices	709763262317985792	2016-03-15T15:28:43	This year is The Dow’s 120th birthday! We’ll be tweeting with market insight, trivia &amp; more. Spread the word about Dow120 DJIA
+SPDJIndices	709733653136465920	2016-03-15T13:31:03	Market Open: Markets | DJU 647.43 -0.58 | GDOW 2289.84 -20.99
+SPDJIndices	709733652058542081	2016-03-15T13:31:03	Market Open: Markets | DJI 17217.15 -68.89 | DJC 6089.26 -21.27 | DJT 7666.59 -31.80
+SPDJIndices	709733650699522049	2016-03-15T13:31:03	Market Open: Markets | SP500 2015.27 -7.42
+SPDJIndices	709680566153703424	2016-03-15T10:00:06	What's in your smartbeta portfolio &amp; how have these strategies gained traction? 
+SPDJIndices	709485614077452289	2016-03-14T21:05:26	Schisms  Indexology blitzersinsights commodities equities strategy
+SPDJIndices	709482735769878528	2016-03-14T20:54:00	OK to turn your back on the market on the Ides of March: SPX up 61.5% of the time vs historical 52.1%,w/avg 1.15%gain, vs. historical 0.75%
+SPDJIndices	709482332202389505	2016-03-14T20:52:24	In search of the lowvolatility anomaly. Check out our latest Indexology post.  
+SPDJIndices	709476957788966912	2016-03-14T20:31:02	Market Close: Markets | DJU 647.64 +0.50 | GDOW 2289.73 +2.07
+SPDJIndices	709476956543324161	2016-03-14T20:31:02	Market Close: Markets | DJI 17229.13 +15.82 | DJC 6096.97 +3.32 | DJT 7690.41 -2.68
+SPDJIndices	709476954571980800	2016-03-14T20:31:02	Market Close: Markets | SP500 2019.64 -2.55
+SPDJIndices	709468979920773120	2016-03-14T19:59:20	Contrary to what the performance differentials suggested, the lowvolatility anomaly is alive and well. 
+SPDJIndices	709466647040548865	2016-03-14T19:50:04	In Search of the Low Volatility Anomaly  Indexology equities strategy defensivestrategies
+SPDJIndices	709457453684015105	2016-03-14T19:13:32	What can happen if companies do not promote efficiency in their business activities? 
+SPDJIndices	709429421845966848	2016-03-14T17:22:09	A Tale of Two Benchmarks: S&amp;P SmallCap 600 versus Russell 2000.  
+SPDJIndices	709409014103347201	2016-03-14T16:01:03	Market Mid-day: Markets | DJU 646.94 -0.20 | GDOW 2288.97 +1.31
+SPDJIndices	709409012912164864	2016-03-14T16:01:03	Market Mid-day: Markets | DJI 17200.43 -12.88 | DJC 6086.49 -7.16 | DJT 7672.81 -20.28
+SPDJIndices	709409011733495811	2016-03-14T16:01:03	Market Mid-day: Markets | SP500 2015.71 -6.48
+SPDJIndices	709378312699678720	2016-03-14T13:59:04	Volatility, Short- and Long-Term: The Financial Times highlighted a study of market volatility suggesting that... 
+SPDJIndices	709371261105917952	2016-03-14T13:31:02	Market Open: Markets | DJU 647.14 -0.06 | GDOW 2287.95 +1.69
+SPDJIndices	709371260011192320	2016-03-14T13:31:02	Market Open: Markets | DJI 17207.49 -23.49 | DJC 6090.64 -11.27 | DJT 7684.50 -30.40
+SPDJIndices	709371258690007041	2016-03-14T13:31:02	Market Open: Markets | SP500 2019.27 -4.89
+SPDJIndices	707449681429790721	2016-03-09T06:15:22	Know what is Index Investing  SPDJIndices SENSEX_BSE Index Investing
+SPDJIndices	708631271971364864	2016-03-12T12:30:35	Active funds better in "less efficient" emerging markets? The latest data suggests the opposite SPDJIndices SPIVA 
+SPDJIndices	708404894730944512	2016-03-11T21:31:03	Market Close: Markets | DJU 647.14 +1.18 | GDOW 2287.17 +41.94
+SPDJIndices	708404893648867330	2016-03-11T21:31:02	Market Close: Markets | DJI 17213.31 +218.18 | DJC 6093.65 +82.34 | DJT 7693.09 +175.00
+SPDJIndices	708404892470263808	2016-03-11T21:31:02	Market Close: Markets | SP500 2022.19 +32.62
+SPDJIndices	708376488102531072	2016-03-11T19:38:10	Upcoming Webinar 3/15: Smartbeta Indices: The Key to Passively Unlocking Alpha? 
+SPDJIndices	708082074222272517	2016-03-11T00:08:16	New Blog Post Majority of Active Mutual Funds Fail, Again - According to the S&amp;P Dow Jones Indices just release... 
+SPDJIndices	708337425962176513	2016-03-11T17:02:57	US Market Update: Dow Jones 17210.51 +1.27%: S&amp;P 500 (US) 2016.35 +1.35% CNBCTV18Market
+SPDJIndices	708336947199143936	2016-03-11T17:01:03	Market Mid-day: Markets | DJU 648.64 +2.68 | GDOW 2286.70 +41.47
+SPDJIndices	708336946150559744	2016-03-11T17:01:02	Market Mid-day: Markets | DJI 17211.74 +216.61 | DJC 6088.97 +77.66 | DJT 7660.99 +142.90
+SPDJIndices	708336944841932800	2016-03-11T17:01:02	Market Mid-day: Markets | SP500 2016.44 +26.87
+SPDJIndices	708335710563074048	2016-03-11T16:56:08	Is there merit in blending factors in smartbeta strategies? 
+SPDJIndices	708335071707549696	2016-03-11T16:53:35	Can your homeprice protect as well as gold in a stock market crash? jodiegunzberg discusses 
+SPDJIndices	708333159620976641	2016-03-11T16:46:00	What makes the DowJones U.S. Dividend 100 Index different from other dividend strategies?  
+SPDJIndices	708331144262057985	2016-03-11T16:37:59	What makes dividends relevant in today's markets? 
+SPDJIndices	708330403829030913	2016-03-11T16:35:03	S&amp;P/ASX index series has helped define the Australian domestic market for over 10 yrs asx  
+SPDJIndices	708326700090826752	2016-03-11T16:20:20	We are just starting to see the evolution of the new healthcare market.  
+SPDJIndices	707682348867792897	2016-03-09T21:39:54	Results of the SPIVA scorecard for 2015 are in. You'll be shocked, SHOCKED to learn the results. 
+SPDJIndices	708282020397498368	2016-03-11T13:22:47	Are the odds ever in your favor as an investor? My story on fund underperformance. americanfunds spdjindices 
+SPDJIndices	708278569588408320	2016-03-11T13:09:04	Wow. 82% of all large cap mutual funds underperformed S&amp;P 500 over last 10 years spiva SPY SPDJindices 
+SPDJIndices	708299251915366400	2016-03-11T14:31:15	Market Open: Markets | DJU 648.33 +3.69 | GDOW 2247.09 +28.93
+SPDJIndices	708299250615111680	2016-03-11T14:31:15	Market Open: Markets | DJI 17014.99 +106.01 | DJC 6024.54 +40.97 | DJT 7542.94 +65.48
+SPDJIndices	708299249503625216	2016-03-11T14:31:15	Market Open: Markets | SP500 1994.71 +14.20
+SPDJIndices	708059182788911106	2016-03-10T22:37:18	Volatility, Short- and Long-term  Indexology equities sp500djia strategy craiglazzara
+SPDJIndices	708047376905326596	2016-03-10T21:50:24	How is VIX built and calculated?  
+SPDJIndices	708046665412911104	2016-03-10T21:47:34	Socially responsible investing has continued to grow in popularity all over the world  
+SPDJIndices	708045653683863553	2016-03-10T21:43:33	What's hsilverb's take on the latest monthly performance of the U.S. equity market?  
+SPDJIndices	708044657318563840	2016-03-10T21:39:35	The recently launched S&amp;P 500 Bond Index is a corporate bond counterpart of the SP500.  
+SPDJIndices	707325026706575360	2016-03-08T22:00:02	Expert: Two signs that oil prices may have bottomed 
+SPDJIndices	708036824963354625	2016-03-10T21:08:28	This still holds true and even more so today. Unleaded gasoline is up 15.2% YTD, more than double All Crude up 6.5% 
+SPDJIndices	708042600952033280	2016-03-10T21:31:25	Market Close: Markets | DJU 645.96 -0.04 | GDOW 2247.05 -1.03
+SPDJIndices	708042599676952576	2016-03-10T21:31:25	Market Close: Markets | DJI 16995.13 -5.23 | DJC 6011.31 -3.34 | DJT 7518.09 -10.35
+SPDJIndices	708042598347366400	2016-03-10T21:31:24	Market Close: Markets | SP500 1989.57 +0.31
+SPDJIndices	708032262823145472	2016-03-10T20:50:20	As of Dec 31, 2015 the S&amp;P Composite 1500 returned 1.01% while the SP500 posted 1.3 on a total return basis. SPIVA 
+SPDJIndices	708030538037198848	2016-03-10T20:43:29	What does VIX tell us about the SP500?  
+SPDJIndices	708028217265881088	2016-03-10T20:34:16	Your gas prices should be cheaper. Find out why from JodieGunzberg Indexology  
+SPDJIndices	708027703241392131	2016-03-10T20:32:13	.tomdorsey &amp; StovallSPGlobal discuss putting factors to work with ShaunWurzbach.  
+SPDJIndices	708026431985610752	2016-03-10T20:27:10	What three metrics are used to define a quality company for the S&amp;P Quality Indices? 
+SPDJIndices	708026184727183360	2016-03-10T20:26:11	Advisors, check out our latest Canada FA Focus for must reads &amp; market performance.  
+SPDJIndices	708025817125789696	2016-03-10T20:24:43	S&amp;P Pure Style Indices eliminate the muddle in the middle problem. What does this mean?  
+SPDJIndices	708024269779898373	2016-03-10T20:18:35	Resource Efficiency: A Step Beyond Climate Change  Indexology uncategorized carbon
+SPDJIndices	708024068910534659	2016-03-10T20:17:47	How are advisors using assetallocation strategies to manage risk w/ indices?  
+SPDJIndices	708023351755841536	2016-03-10T20:14:56	Check out our latest edition of InSIGHTS dedicated to investment trends &amp; index innovation.  
+SPDJIndices	708018760418988032	2016-03-10T19:56:41	If companies don't promote efficiency in business activities what risks might they face?  
+SPDJIndices	708014549375569920	2016-03-10T19:39:57	What might you be overlooking in your core U.S. equity portfolio?  
+SPDJIndices	707974589062750209	2016-03-10T17:01:10	Market Mid-day: Markets | DJU 642.45 -3.55 | GDOW 2240.43 -7.65
+SPDJIndices	707974587875729413	2016-03-10T17:01:09	Market Mid-day: Markets | DJI 16921.95 -78.41 | DJC 5983.76 -30.89 | DJT 7483.67 -44.77
+SPDJIndices	707974586600701952	2016-03-10T17:01:09	Market Mid-day: Markets | SP500 1981.81 -7.45
+SPDJIndices	707964462419058688	2016-03-10T16:20:55	The latest SPIVA results are in, the de facto scorekeeper of the active versus passive debate. 
+SPDJIndices	707963685415821312	2016-03-10T16:17:50	Over a 1-year period ending Dec. 31, 2015, 66.11% of large-cap managers underperformed their respective benchmarks. 
+SPDJIndices	707958362915397632	2016-03-10T15:56:41	Join our complimentary webinar: SmartBeta Indices - The Key to Passively Unlocking Alpha?  
+SPDJIndices	707936832323981312	2016-03-10T14:31:08	Market Open: Markets | DJU 646.19 -0.10 | GDOW 2246.85 +6.81
+SPDJIndices	707936831057367041	2016-03-10T14:31:08	Market Open: Markets | DJI 17006.05 +22.19 | DJC 6016.98 +10.76 | DJT 7532.65 +28.14
+SPDJIndices	707936829505404929	2016-03-10T14:31:07	Market Open: Markets | SP500 1990.97 +2.49
+SPDJIndices	707680116516765696	2016-03-09T21:31:02	Market Close: Markets | DJU 646.00 +3.23 | GDOW 2247.26 +1.83
+SPDJIndices	707680115476529152	2016-03-09T21:31:02	Market Close: Markets | DJI 17000.36 +36.26 | DJC 6014.65 +23.35 | DJT 7528.44 +50.07
+SPDJIndices	707680114289614848	2016-03-09T21:31:01	Market Close: Markets | SP500 1989.26 +10.00
+SPDJIndices	707649766705000448	2016-03-09T19:30:26	Did you miss the SPDJIndices SmartBeta event in Miami? Watch the replay on AssetTVUS: 
+SPDJIndices	707612198378606592	2016-03-09T17:01:09	Market Mid-day: Markets | DJU 647.22 +4.45 | GDOW 2250.78 +5.35
+SPDJIndices	707612196109492224	2016-03-09T17:01:09	Market Mid-day: Markets | DJI 17039.78 +75.68 | DJC 6023.28 +31.98 | DJT 7523.75 +45.38
+SPDJIndices	707612194884730880	2016-03-09T17:01:08	Market Mid-day: Markets | SP500 1991.68 +12.42
+SPDJIndices	707344979748737026	2016-03-08T23:19:19	MSCI # MSCI : S&amp;P DOW JONES INDICES AND MSCI REVISIONS TO THE GLOBAL INDUSTRY CLASSIFICATION S... Read more: 
+SPDJIndices	707533140688900096	2016-03-09T11:47:00	.SPDJIndices &amp; MSCI Revisions to the Global Industry Classification Standard (GICS®) Structure.Latest press release 
+SPDJIndices	707574424455741440	2016-03-09T14:31:03	Market Open: Markets | DJU 642.13 +0.22 | GDOW 2243.17 +3.58
+SPDJIndices	707574423394656256	2016-03-09T14:31:03	Market Open: Markets | DJI 16969.17 +64.27 | DJC 5991.92 +13.37 | DJT 7481.66 +2.56
+SPDJIndices	707574422291550208	2016-03-09T14:31:03	Market Open: Markets | SP500 1981.44 +7.80
+SPDJIndices	707313051561811968	2016-03-08T21:12:27	Thank you so much to everyone supporting our bell ringing NASDAQ -- what an amazing crowd! 
+SPDJIndices	707317730442084352	2016-03-08T21:31:02	Market Close: Markets | DJU 642.77 +6.16 | GDOW 2243.33 -19.58
+SPDJIndices	707317729179648000	2016-03-08T21:31:02	Market Close: Markets | DJI 16964.10 -109.85 | DJC 5991.30 -56.17 | DJT 7478.37 -207.65
+SPDJIndices	707317727778705410	2016-03-08T21:31:02	Market Close: Markets | SP500 1979.26 -22.50
+SPDJIndices	707311793518059524	2016-03-08T21:07:27	How may equity &amp; fixedincome markets react to interestrate hikes? fed  
+SPDJIndices	707311166125711360	2016-03-08T21:04:57	Is the lowvolatility anomaly universal? CraigLazzara discusses.  
+SPDJIndices	707310621763698689	2016-03-08T21:02:48	What are the latest trends in the sustainability indexing space? We discuss w/ RobecoSAM  
+SPDJIndices	707301669986557952	2016-03-08T20:27:13	China’s nominal GDP is estimated to reach USD 11.4 trillion in 2015  
+SPDJIndices	706974804923052034	2016-03-07T22:48:23	Netflix is the worst-performing stock on the S&amp;P 500 
+SPDJIndices	707279458219237376	2016-03-08T18:58:58	S&amp;P DJI CEO Alex Matturri comments on the importance of market transparency &amp; accessibility in China. 
+SPDJIndices	707249785997299715	2016-03-08T17:01:03	Market Mid-day: Markets | DJU 642.44 +5.83 | GDOW 2248.58 -14.33
+SPDJIndices	707249784688680962	2016-03-08T17:01:03	Market Mid-day: Markets | DJI 17001.77 -72.18 | DJC 6012.70 -34.77 | DJT 7545.65 -140.37
+SPDJIndices	707249783073857537	2016-03-08T17:01:03	Market Mid-day: Markets | SP500 1988.01 -13.75
+SPDJIndices	707212035076050944	2016-03-08T14:31:03	Market Open: Markets | DJU 636.28 -0.29 | GDOW 2265.39 -8.06
+SPDJIndices	707212033754832897	2016-03-08T14:31:02	Market Open: Markets | DJI 17050.67 -74.30 | DJC 6037.79 -25.19 | DJT 7664.77 -47.39
+SPDJIndices	707212032601366528	2016-03-08T14:31:02	Market Open: Markets | SP500 1996.88 -10.58
+SPDJIndices	707209768545488896	2016-03-08T14:22:02	We are proud to support the WomeninETFs ASX opening bell ringing for gender equality. genderimpact WEPs IWD2016
+SPDJIndices	707143854101807105	2016-03-08T10:00:07	Attending PLSAinvest &amp; interested in adopting a long-term mindset? Join us stand #2 thePLSA Investment Conf  
+SPDJIndices	706955342580682752	2016-03-07T21:31:02	Market Close: Markets | DJU 636.61 +3.56 | GDOW 2265.49 +5.41
+SPDJIndices	706955341234380800	2016-03-07T21:31:02	Market Close: Markets | DJI 17073.95 +67.18 | DJC 6047.47 +26.41 | DJT 7686.02 +34.17
+SPDJIndices	706955340022202368	2016-03-07T21:31:02	Market Close: Markets | SP500 2001.76 +1.77
+SPDJIndices	706943936946896897	2016-03-07T20:45:43	Defaults Are on the Rise  Indexology fixedincome bonds corporatebonds fixedincome
+SPDJIndices	706922652871426048	2016-03-07T19:21:09	S&amp;P DJI’s definition of real assets goes beyond equities to include bonds and futures.  
+SPDJIndices	706920693296992257	2016-03-07T19:13:21	How can dividends, realestate, preferreds, bonds, and globaldebt help you reach income objectives? 
+SPDJIndices	706916330100887552	2016-03-07T18:56:01	Tom shares how ETF Alchemy works.  tomdorsey smartbeta Momentum 
+SPDJIndices	706915138574655488	2016-03-07T18:51:17	How does technical analysis work with smartbeta? ShaunWurzbach sits down with tomdorsey to discuss. 
+SPDJIndices	706706015337582592	2016-03-07T05:00:18	S&amp;P Dow Jones Indices' Tim Edwards will speak about volatility at a CFA Society Melbourne lunchtime event March 14th 
+SPDJIndices	706911345472577537	2016-03-07T18:36:13	The S&amp;P China 500 Index features enhanced sector diversification.  
+SPDJIndices	706910247638716416	2016-03-07T18:31:51	How can the S&amp;P China 500 help provide a more transparent &amp; comprehensive view of the world’s 2nd largest economy? 
+SPDJIndices	706908365478301697	2016-03-07T18:24:22	Advisors, check out our latest Canada FA Focus for must reads &amp; market performance.  
+SPDJIndices	706906626725433344	2016-03-07T18:17:28	What three metrics are used to define a quality company for the S&amp;P Quality Indices? 
+SPDJIndices	706906011706249216	2016-03-07T18:15:01	Can incorporating ESG country risk metrics reduce risk in sovereign bond portfolios?  
+SPDJIndices	706887392830033922	2016-03-07T17:01:02	Market Mid-day: Markets | DJU 635.68 +2.63 | GDOW 2265.26 +5.18
+SPDJIndices	706887391550771200	2016-03-07T17:01:02	Market Mid-day: Markets | DJI 17057.89 +51.12 | DJC 6037.78 +16.72 | DJT 7662.94 +11.09
+SPDJIndices	706887390519017473	2016-03-07T17:01:01	Market Mid-day: Markets | SP500 2002.09 +2.10
+SPDJIndices	706884848783400962	2016-03-07T16:50:55	The S&amp;P/NZX Composite Investment Grade Bond Index gained 1.20% in Feb. while its yield-to-maturity tightened 22 bps 
+SPDJIndices	706849649701814272	2016-03-07T14:31:03	Market Open: Markets | DJU 632.28 -1.08 | GDOW 2259.91 -12.66
+SPDJIndices	706849648586182656	2016-03-07T14:31:03	Market Open: Markets | DJI 16991.29 -41.06 | DJC 6014.26 -19.94 | DJT 7640.34 -46.35
+SPDJIndices	706849647499874304	2016-03-07T14:31:03	Market Open: Markets | SP500 1996.11 -9.19
+SPDJIndices	706796576958750720	2016-03-07T11:00:10	What does long-term value look like? Visit stand #2 the PLSA Investment Conf this week to discuss  PLSAinvest
+SPDJIndices	705835971162546177	2016-03-04T19:23:03	Watch AssetTVUS's HOTLIST highlighting videos from PIMCO Natixis_com DBAmericas NYLandMainStay &amp; SPDJIndices 
+SPDJIndices	705868179676012545	2016-03-04T21:31:03	Market Close: Markets | DJU 633.05 +7.26 | GDOW 2260.73 +21.20
+SPDJIndices	705868178598055937	2016-03-04T21:31:02	Market Close: Markets | DJI 17006.77 +62.87 | DJC 6021.06 +35.20 | DJT 7651.85 +49.82
+SPDJIndices	705868176953905152	2016-03-04T21:31:02	Market Close: Markets | SP500 1999.99 +6.59
+SPDJIndices	705800232236400642	2016-03-04T17:01:03	Market Mid-day: Markets | DJU 629.18 +3.39 | GDOW 2261.17 +21.64
+SPDJIndices	705800230923587586	2016-03-04T17:01:02	Market Mid-day: Markets | DJI 17015.19 +71.29 | DJC 6027.52 +41.66 | DJT 7703.87 +101.84
+SPDJIndices	705800229724033025	2016-03-04T17:01:02	Market Mid-day: Markets | SP500 2003.11 +9.71
+SPDJIndices	705762482804150272	2016-03-04T14:31:02	Market Open: Markets | DJU 623.42 -3.06 | GDOW 2240.31 +12.16
+SPDJIndices	705762481344487424	2016-03-04T14:31:02	Market Open: Markets | DJI 16945.00 +29.96 | DJC 5982.75 +2.72 | DJT 7605.01 +9.44
+SPDJIndices	705762480149102595	2016-03-04T14:31:02	Market Open: Markets | SP500 1994.01 +3.17
+SPDJIndices	705688886396104704	2016-03-04T09:38:36	India's Index the World Tracks S&amp;P BSE SENSEX TheBSEJournal 
+SPDJIndices	705479356907397121	2016-03-03T19:46:00	Shrinking Supply of Alpha? CraigLazzara Most active managers underperform the index. S&amp;SPDJIndices Live Stream: 
+SPDJIndices	705505790879211520	2016-03-03T21:31:02	Market Close: Markets | DJU 625.79 +2.74 | GDOW 2241.07 +22.37
+SPDJIndices	705505789876772864	2016-03-03T21:31:02	Market Close: Markets | DJI 16943.90 +44.58 | DJC 5985.86 +31.70 | DJT 7602.03 +84.86
+SPDJIndices	705505788350078976	2016-03-03T21:31:02	Market Close: Markets | SP500 1993.40 +6.95
+SPDJIndices	705437846660898816	2016-03-03T17:01:03	Market Mid-day: Markets | DJU 621.38 -1.67 | GDOW 2233.21 +14.51
+SPDJIndices	705437845381513216	2016-03-03T17:01:03	Market Mid-day: Markets | DJI 16855.39 -43.93 | DJC 5953.65 -0.51 | DJT 7566.82 +49.65
+SPDJIndices	705437843771015168	2016-03-03T17:01:03	Market Mid-day: Markets | SP500 1981.94 -4.51
+SPDJIndices	705400097018933249	2016-03-03T14:31:03	Market Open: Markets | DJU 623.37 +0.27 | GDOW 2221.61 +10.66
+SPDJIndices	705400095907450880	2016-03-03T14:31:03	Market Open: Markets | DJI 16896.17 -24.66 | DJC 5953.33 -5.76 | DJT 7513.70 -6.58
+SPDJIndices	705400094221324288	2016-03-03T14:31:02	Market Open: Markets | SP500 1985.60 -2.50
+SPDJIndices	705155410978803714	2016-03-02T22:18:45	What the Beige Book Hints About the Fed  Indexology blitzersinsights equities sp500djia
+SPDJIndices	705143403386896385	2016-03-02T21:31:02	Market Close: Markets | DJU 623.05 +4.55 | GDOW 2222.11 +28.13
+SPDJIndices	705143402086662144	2016-03-02T21:31:02	Market Close: Markets | DJI 16899.32 +34.24 | DJC 5954.16 +17.94 | DJT 7517.17 +16.87
+SPDJIndices	705143400891334656	2016-03-02T21:31:02	Market Close: Markets | SP500 1986.45 +8.10
+SPDJIndices	705075456018661376	2016-03-02T17:01:03	Market Mid-day: Markets | DJU 619.90 +1.40 | GDOW 2212.64 +18.66
+SPDJIndices	705075454756200450	2016-03-02T17:01:02	Market Mid-day: Markets | DJI 16822.04 -43.04 | DJC 5929.83 -6.39 | DJT 7498.41 -1.89
+SPDJIndices	705075453443350529	2016-03-02T17:01:02	Market Mid-day: Markets | SP500 1973.04 -5.31
+SPDJIndices	705058611437965312	2016-03-02T15:54:06	The Role of Quality in Long-Term Value Creation  Indexology uncategorized ltvc
+SPDJIndices	705037706540261377	2016-03-02T14:31:02	Market Open: Markets | DJU 617.38 +0.36 | GDOW 2194.45 +12.15
+SPDJIndices	705037705537822721	2016-03-02T14:31:02	Market Open: Markets | DJI 16851.17 -52.53 | DJC 5930.37 -10.93 | DJT 7494.45 -6.21
+SPDJIndices	705037704111788032	2016-03-02T14:31:02	Market Open: Markets | SP500 1976.60 -4.75
+SPDJIndices	704783460284633089	2016-03-01T21:40:45	Bond Returns Barely Positive in February  Indexology fixedincome bondyields corporatebond
+SPDJIndices	704782446441668608	2016-03-01T21:36:44	What do today's investors need to know about carbon risk and climate change?  
+SPDJIndices	704781765861367808	2016-03-01T21:34:01	What were some significant changes in the commercial health insurance market last year?  
+SPDJIndices	704781015995301889	2016-03-01T21:31:03	Market Close: Markets | DJU 618.50 -2.20 | GDOW 2195.16 +38.00
+SPDJIndices	704781014594412544	2016-03-01T21:31:02	Market Close: Markets | DJI 16865.08 +348.58 | DJC 5936.22 +97.63 | DJT 7500.30 +155.27
+SPDJIndices	704781013235470337	2016-03-01T21:31:02	Market Close: Markets | SP500 1978.35 +46.12
+SPDJIndices	704780670896316416	2016-03-01T21:29:40	Better understand the growing Sukuk market.  
+SPDJIndices	704780265965678592	2016-03-01T21:28:04	Mid Cap: A Sweet Spot for Performance. What makes this market segment intriguing?  
+SPDJIndices	704765348231385088	2016-03-01T20:28:47	The S&amp;P All Africa returned 1.77% in February, outperforming the majority of developed market equity indices. 
+SPDJIndices	704764120357281793	2016-03-01T20:23:54	The S&amp;P STRIDE Indices act as benchmarks for an innovative approach to retirement investing  
+SPDJIndices	704713198159659008	2016-03-01T17:01:34	Market Mid-day: Markets | DJU 618.33 -2.37 | GDOW 2187.39 +30.23
+SPDJIndices	704713196880437248	2016-03-01T17:01:33	Market Mid-day: Markets | DJI 16774.61 +258.11 | DJC 5916.27 +77.68 | DJT 7490.43 +145.40
+SPDJIndices	704713195714420737	2016-03-01T17:01:33	Market Mid-day: Markets | SP500 1966.19 +33.96
+SPDJIndices	704675363956375552	2016-03-01T14:31:13	Market Open: Markets | DJU 623.13 +3.85 | GDOW 2158.36 +16.90
+SPDJIndices	704675362698076160	2016-03-01T14:31:13	Market Open: Markets | DJI 16545.67 +82.04 | DJC 5853.43 +35.30 | DJT 7368.55 +59.58
+SPDJIndices	704675361540448256	2016-03-01T14:31:13	Market Open: Markets | SP500 1937.09 +13.57
+SPDJIndices	704418729845723136	2016-02-29T21:31:27	Market Close: Markets | DJU 620.70 +1.67 | GDOW 2157.17 -7.28
+SPDJIndices	704418726028963840	2016-02-29T21:31:26	Market Close: Markets | DJI 16516.50 -123.47 | DJC 5838.59 -34.18 | DJT 7345.03 -60.00
+SPDJIndices	704418724783194112	2016-02-29T21:31:26	Market Close: Markets | SP500 1932.23 -15.82
+SPDJIndices	704392323124346880	2016-02-29T19:46:31	The S&amp;P/ASX 200 Index completed February with a total return of -1.76%. 
+SPDJIndices	704355494748499968	2016-02-29T17:20:10	Not all lowvolatility strategies are the same. Read about one critical difference  
+SPDJIndices	704384239656148997	2016-02-29T19:14:24	The percentage of dividends as a part of personal income has steadily increased over time.  
+SPDJIndices	704382457534136320	2016-02-29T19:07:19	Take a look at the S&amp;P China 500 Index that captures the complete China story.  
+SPDJIndices	704350680732016640	2016-02-29T17:01:03	Market Mid-day: Markets | DJU 625.84 +6.81 | GDOW 2170.13 +5.68
+SPDJIndices	704350679624769538	2016-02-29T17:01:02	Market Mid-day: Markets | DJI 16705.41 +65.44 | DJC 5897.13 +24.36 | DJT 7406.34 +1.31
+SPDJIndices	704350678030946305	2016-02-29T17:01:02	Market Mid-day: Markets | SP500 1955.91 +7.86
+SPDJIndices	704341901319737344	2016-02-29T16:26:09	What makes the Dividend Aristocrats different than other income driven strategies?  
+SPDJIndices	704340137589796864	2016-02-29T16:19:09	Are real assets today's real diversifier? Find out how real assets fit into a portfolio.  
+SPDJIndices	704319250471714817	2016-02-29T14:56:09	As February comes to an end, so might be the commodity catastrophe. JodieGunzberg discusses on Indexology. 
+SPDJIndices	702808038529474560	2016-02-25T10:51:08	Disclosing environmental impacts for investors? brianwerner22 shows you how 
+SPDJIndices	704268151744147456	2016-02-29T11:33:06	UK investors: align your investments with the clean energy transition. Webinar 16 March 11am GMT  Trucost
+SPDJIndices	704312931987619840	2016-02-29T14:31:03	Market Open: Markets | DJU 618.88 -0.81 | GDOW 2164.16 -5.80
+SPDJIndices	704312930901303296	2016-02-29T14:31:02	Market Open: Markets | DJI 16634.15 -14.31 | DJC 5869.34 -8.39 | DJT 7395.65 -18.94
+SPDJIndices	704312929353650177	2016-02-29T14:31:02	Market Open: Markets | SP500 1947.13 -2.26
+SPDJIndices	704307636267786240	2016-02-29T14:10:00	.SPDJIndices launched the S&amp;P China 500: . Many China IT leaders listed offshore only. 
+SPDJIndices	704138936403292160	2016-02-29T02:59:39	Asia Fixed Income: PBOC Has Widened Access to China’s Onshore Bond Market for…  Indexology
+SPDJIndices	704110482701955072	2016-02-29T01:06:35	Ex-Energy, Commodities Are Up In 2016  via SPDJIndices
+SPDJIndices	704074667821240320	2016-02-28T22:44:16	Economy Looking Up  Indexology blitzersinsights commodities equities sp500djia strategy
+SPDJIndices	704058869601931266	2016-02-28T21:41:29	Ex-Energy, #Commodities Are Up In 2016  Indexology indexperformance jodiegunzberg spgsci
+SPDJIndices	703334066985246722	2016-02-26T21:41:23	How can you build a solid core and get the most out of your core allocation?  
+SPDJIndices	703331464235106305	2016-02-26T21:31:02	Market Close: Markets | DJU 619.03 -18.77 | GDOW 2164.66 +1.88
+SPDJIndices	703331463119413249	2016-02-26T21:31:02	Market Close: Markets | DJI 16639.97 -57.32 | DJC 5872.77 -34.83 | DJT 7405.03 +35.45
+SPDJIndices	703331462016270337	2016-02-26T21:31:02	Market Close: Markets | SP500 1948.05 -3.65
+SPDJIndices	703329001209786369	2016-02-26T21:21:15	What are sector strategies for riding the market's ups &amp; downs? Watch our webinar replay.  
+SPDJIndices	703321564176064513	2016-02-26T20:51:42	The Indebtedness of the U.S. Corporate Bond Market  Indexology fixedincome
+SPDJIndices	703316435045642240	2016-02-26T20:31:19	Over the past five years, investment in realassets has spiked 325%. Why? 
+SPDJIndices	703268528573562880	2016-02-26T17:20:57	Homeprices marginally increased in Dec. according to the SP/Case-Shiller Home Price Indices  
+SPDJIndices	703268300441198594	2016-02-26T17:20:03	Mexican Government Issues Two More International Bonds  Indexology fixedincome fixedincome
+SPDJIndices	703268299715567616	2016-02-26T17:20:03	Rieger Report: Insured municipal bonds remain cheap  Indexology fixedincome bond
+SPDJIndices	703268291847000064	2016-02-26T17:20:01	Low Vol: A little goes a long way  Indexology uncategorized
+SPDJIndices	703267777394642944	2016-02-26T17:17:58	How can the S&amp;P China 500 help provide a more transparent and comprehensive view of the world’s 2nd largest economy? 
+SPDJIndices	703267290637312002	2016-02-26T17:16:02	How effective is your defined contribution plan? 
+SPDJIndices	703263515977637888	2016-02-26T17:01:02	Market Mid-day: Markets | DJU 620.38 -17.42 | GDOW 2168.91 +6.13
+SPDJIndices	703263514891329536	2016-02-26T17:01:02	Market Mid-day: Markets | DJI 16678.90 -18.39 | DJC 5891.08 -16.52 | DJT 7444.08 +74.50
+SPDJIndices	703263513754673152	2016-02-26T17:01:02	Market Mid-day: Markets | SP500 1952.61 +0.91
+SPDJIndices	703225767585570817	2016-02-26T14:31:02	Market Open: Markets | DJU 636.05 -3.17 | GDOW 2162.13 +15.65
+SPDJIndices	703225766297919488	2016-02-26T14:31:02	Market Open: Markets | DJI 16712.70 +71.36 | DJC 5911.83 +17.84 | DJT 7387.61 +42.82
+SPDJIndices	703225764771135488	2016-02-26T14:31:02	Market Open: Markets | SP500 1954.95 +8.17
+SPDJIndices	703181575266164736	2016-02-26T11:35:26	Latest agenda  NotreDame cppib SPDJIndices Wealthsimple ForstrongGlobal WealthBar Aequitas_NEO see u there!
+SPDJIndices	702982716552302593	2016-02-25T22:25:15	The True North Strong and Free! (But Not Free From Debt)  Indexology fixedincome bonds
+SPDJIndices	702969076650516482	2016-02-25T21:31:03	Market Close: Markets | DJU 637.80 +7.60 | GDOW 2162.62 +21.72
+SPDJIndices	702969075383853057	2016-02-25T21:31:02	Market Close: Markets | DJI 16697.29 +212.30 | DJC 5907.60 +70.99 | DJT 7369.58 +78.70
+SPDJIndices	702969074331029505	2016-02-25T21:31:02	Market Close: Markets | SP500 1951.70 +21.90
+SPDJIndices	702911569424990209	2016-02-25T17:42:32	Rieger Report: Puerto Rico Watch  Indexology fixedincome bond fixedincome jrrieger
+SPDJIndices	702901128015519744	2016-02-25T17:01:02	Market Mid-day: Markets | DJU 634.70 +4.50 | GDOW 2153.33 +12.43
+SPDJIndices	702901126786637825	2016-02-25T17:01:02	Market Mid-day: Markets | DJI 16545.05 +60.06 | DJC 5855.95 +19.34 | DJT 7291.67 +0.79
+SPDJIndices	702901124752347136	2016-02-25T17:01:02	Market Mid-day: Markets | SP500 1934.83 +5.03
+SPDJIndices	702863380470693888	2016-02-25T14:31:03	Market Open: Markets | DJU 631.25 +1.11 | GDOW 2139.53 +14.40
+SPDJIndices	702863379103354880	2016-02-25T14:31:02	Market Open: Markets | DJI 16504.38 +34.59 | DJC 5843.89 +11.84 | DJT 7298.98 +14.59
+SPDJIndices	702863378008698880	2016-02-25T14:31:02	Market Open: Markets | SP500 1931.87 +4.92
+SPDJIndices	702613372949405696	2016-02-24T21:57:36	Thank you to all who participated in today's SPDJIFAForum2016! For those who missed the event, stay tuned for the replay.
+SPDJIndices	702611578412277761	2016-02-24T21:50:28	Tweet at us if you have any questions for StovallSPGlobal SPDJIFAForum2016
+SPDJIndices	702609142079475712	2016-02-24T21:40:47	"Investors tend to favor stocks with above-average consistencies of raising EPS and dividends during challenging times" -StovallSPGlobal
+SPDJIndices	702608210226778113	2016-02-24T21:37:05	"The "Rule of 20" says that stocks can still climb, provided EPS continues to recover and inflation remains subdued." -StovallSPGlobal
+SPDJIndices	702606451970330624	2016-02-24T21:30:06	StovallSPGlobal gives his outlook live spdjifaforum2016 
+SPDJIndices	702607223609036800	2016-02-24T21:33:10	"A narrow yield differential is usually good." -StovallSPGlobal SPDJIFAForum2016
+SPDJIndices	702606916724367361	2016-02-24T21:31:57	"All 11 recessions since 1948 were anticipated by corrections of bear markets" -StovallSPGlobal SPDJIFAForum2016
+SPDJIndices	702606685114920960	2016-02-24T21:31:02	Market Close: Markets | DJU 630.20 +3.03 | GDOW 2139.31 -14.72
+SPDJIndices	702606684016025601	2016-02-24T21:31:01	Market Close: Markets | DJI 16484.99 +53.21 | DJC 5836.61 +7.92 | DJT 7290.88 -34.29
+SPDJIndices	702606682728308736	2016-02-24T21:31:01	Market Close: Markets | SP500 1929.80 +8.53
+SPDJIndices	702605773713580032	2016-02-24T21:27:24	Thank you to the practitioners and smart beta gurus for great panels this afternoon! StovallSPGlobal will now provide closing remarks.
+SPDJIndices	702604771954454537	2016-02-24T21:23:26	.StovallSPGlobal to provide closing remarks shortly on smartbeta strategies which have outperformed. Tune in LIVE. 
+SPDJIndices	702604178837905408	2016-02-24T21:21:04	"The etf of the future is an intelligent etf." - tomdorsey SPDJIFAForum2016
+SPDJIndices	702597854276284416	2016-02-24T20:55:56	Ben Fulton: we took low vol around and only S&amp;P would listen and build it SPDJIndices 
+SPDJIndices	702593428308271105	2016-02-24T20:38:21	What do the gurus have to say about smartbeta? Tune in live to find out. 
+SPDJIndices	702592463907786752	2016-02-24T20:34:31	Bobby Brooks asks the audience: "How many of you are using etfs in some capacity in your practice?" SPDJIFAForum2016
+SPDJIndices	702591773172961284	2016-02-24T20:31:46	Up next at our smartbeta event: The Gurus - The Future of Smart Beta  ElkhornInvest RA_Insights DorseyWrightDWA 
+SPDJIndices	702587888605782016	2016-02-24T20:16:20	We are in Miami! Watch the SPDJIndices smartbeta Live Stream here:  
+SPDJIndices	702581093166399488	2016-02-24T19:49:20	Where Are Spreads?  Indexology fixedincome bondyields corporatebond fixedincome
+SPDJIndices	702576920660217856	2016-02-24T19:32:45	Our moderator, Tony Davidow of CharlesSchwab asks the panelists how they describe smartbeta strategies 
+SPDJIndices	702575016928485376	2016-02-24T19:25:11	How can you be more tactical when making portfolio decisions? Tune in LIVE &amp; hear from experts:  SPDJIFAForum2016
+SPDJIndices	702574665491992576	2016-02-24T19:23:48	Tune in &amp; watch our first panel live at our SPDJIFAForum2016: Using Smart Beta Effectively. 
+SPDJIndices	702574343327502336	2016-02-24T19:22:31	Interested in Custom Indices? Check out some information here:  SPDJIFAForum2016
+SPDJIndices	702574087659454464	2016-02-24T19:21:30	Up next in our smartbeta event: The Practitioners: Using Smart Beta Effectively - Tune in LIVE: 
+SPDJIndices	702573694028218369	2016-02-24T19:19:56	ShaunWurzbach: "Do Active and Passive Mix?" Hevensky: "Absolutely" SPDJIFAForum2016
+SPDJIndices	702572652062482432	2016-02-24T19:15:48	ShaunWurzbach is asking tough questions on behavioralfinance and roboadvisors to Hevensky LIVE check it out now 
+SPDJIndices	702255446099435520	2016-02-23T22:15:20	Thank you SPDJIndices for sponsoring the CFAChicago Smart Beta Networking Reception! 
+SPDJIndices	702568532127698945	2016-02-24T18:59:25	willinnagshead could you please try this link? 
+SPDJIndices	702566518262001664	2016-02-24T18:51:25	willinnagshead Here is the link: 
+SPDJIndices	702566390046318593	2016-02-24T18:50:55	Have questions for Hevensky? Tweet at us. SPDJIFAForum2016. 
+SPDJIndices	702565784220995584	2016-02-24T18:48:30	Our SPDJIFAForum2016 has started. Live stream now to hear ShaunWurzbach &amp; Hevensky discuss the future of financial planning.
+SPDJIndices	702548840868614145	2016-02-24T17:41:11	Watch Your Weight: How a Few Stocks Can Tilt the Scales  Indexology equities strategy
+SPDJIndices	702542026345226241	2016-02-24T17:14:06	Where can smart beta take you? Join SPDJIndices live webcast with Schwab's Tony Davidow today to find out 
+SPDJIndices	702538740925865985	2016-02-24T17:01:03	Market Mid-day: Markets | DJU 625.54 -1.63 | GDOW 2126.23 -27.80
+SPDJIndices	702538739759849472	2016-02-24T17:01:02	Market Mid-day: Markets | DJI 16304.82 -126.96 | DJC 5775.41 -53.28 | DJT 7206.00 -119.17
+SPDJIndices	702538738623238144	2016-02-24T17:01:02	Market Mid-day: Markets | SP500 1907.09 -14.18
+SPDJIndices	702516177294249985	2016-02-24T15:31:23	Rieger Report: Quietly higher- Municipal bonds continue to shine  Indexology fixedincome
+SPDJIndices	702500994656112640	2016-02-24T14:31:03	Market Open: Markets | DJU 625.45 -1.25 | GDOW 2152.38 -30.47
+SPDJIndices	702500993624358912	2016-02-24T14:31:03	Market Open: Markets | DJI 16418.84 -121.31 | DJC 5814.10 -42.56 | DJT 7282.90 -77.96
+SPDJIndices	702500992466731008	2016-02-24T14:31:03	Market Open: Markets | SP500 1917.56 -14.73
+SPDJIndices	702244300017561601	2016-02-23T21:31:02	Market Close: Markets | DJU 627.17 +1.09 | GDOW 2152.95 -24.83
+SPDJIndices	702244298360811520	2016-02-23T21:31:02	Market Close: Markets | DJI 16431.78 -188.88 | DJC 5828.69 -55.66 | DJT 7325.17 -95.94
+SPDJIndices	702244297358385152	2016-02-23T21:31:02	Market Close: Markets | SP500 1921.27 -24.23
+SPDJIndices	702176361495052288	2016-02-23T17:01:05	Market Mid-day: Markets | DJU 627.00 +0.92 | GDOW 2155.33 -22.45
+SPDJIndices	702176360039583749	2016-02-23T17:01:04	Market Mid-day: Markets | DJI 16461.30 -159.36 | DJC 5835.09 -49.26 | DJT 7329.93 -91.18
+SPDJIndices	702176358680686592	2016-02-23T17:01:04	Market Mid-day: Markets | SP500 1926.95 -18.55
+SPDJIndices	702150558250098688	2016-02-23T15:18:33	Rieger Report: Oil State Municipal Bonds – Risk or Opportunity  Indexology fixedincome
+SPDJIndices	702138602952773634	2016-02-23T14:31:02	Market Open: Markets | DJU 625.12 -1.80 | GDOW 2177.94 -9.44
+SPDJIndices	702138601912541184	2016-02-23T14:31:02	Market Open: Markets | DJI 16610.39 -67.62 | DJC 5870.87 -29.10 | DJT 7373.91 -59.20
+SPDJIndices	702138600767537153	2016-02-23T14:31:02	Market Open: Markets | SP500 1942.38 -7.98
+SPDJIndices	701881919370346496	2016-02-22T21:31:04	Market Close: Markets | DJU 626.08 +7.47 | GDOW 2178.05 +31.63
+SPDJIndices	701881917029937154	2016-02-22T21:31:04	Market Close: Markets | DJI 16620.66 +228.67 | DJC 5884.35 +86.25 | DJT 7421.11 +135.16
+SPDJIndices	701881915222192128	2016-02-22T21:31:03	Market Close: Markets | SP500 1945.50 +27.72
+SPDJIndices	701813963940614146	2016-02-22T17:01:02	Market Mid-day: Markets | DJU 623.99 +5.38 | GDOW 2176.94 +30.52
+SPDJIndices	701813962791321601	2016-02-22T17:01:02	Market Mid-day: Markets | DJI 16607.72 +215.73 | DJC 5878.05 +79.95 | DJT 7419.71 +133.76
+SPDJIndices	701813961642131458	2016-02-22T17:01:02	Market Mid-day: Markets | SP500 1942.47 +24.69
+SPDJIndices	701804492048695297	2016-02-22T16:23:24	Rieger Report: Dogs of the Bond Market – Energy and Puerto Rico G.O.s  Indexology
+SPDJIndices	701798177817677824	2016-02-22T15:58:19	Take a deeper dive into how the S&amp;P 500 Risk Control Family of Indices are being implemented  SPDJIndices
+SPDJIndices	701776217524015105	2016-02-22T14:31:03	Market Open: Markets | DJU 619.43 +4.03 | GDOW 2147.91 +17.17
+SPDJIndices	701776216257392640	2016-02-22T14:31:02	Market Open: Markets | DJI 16417.13 +90.27 | DJC 5816.43 +41.51 | DJT 7341.44 +77.45
+SPDJIndices	701776215049433088	2016-02-22T14:31:02	Market Open: Markets | SP500 1924.44 +14.24
+SPDJIndices	700794750279032832	2016-02-19T21:31:03	Market Close: Markets | DJU 618.61 -4.13 | GDOW 2149.19 -12.40
+SPDJIndices	700794749037326336	2016-02-19T21:31:02	Market Close: Markets | DJI 16391.99 -21.44 | DJC 5798.10 -10.81 | DJT 7285.95 +1.22
+SPDJIndices	700794747770822657	2016-02-19T21:31:02	Market Close: Markets | SP500 1917.78 -0.05
+SPDJIndices	700786033802289152	2016-02-19T20:56:25	Making the Patient Sicker  Indexology equities sp500djia strategy activemanagement
+SPDJIndices	700726800943546368	2016-02-19T17:01:02	Market Mid-day: Markets | DJI 16367.61 -45.82 | DJC 5792.15 -16.76 | DJT 7264.75 -19.98
+SPDJIndices	700726799748243459	2016-02-19T17:01:02	Market Mid-day: Markets | SP500 1915.01 -2.82
+SPDJIndices	700689057878249473	2016-02-19T14:31:04	Market Open: Markets | DJU 622.48 -2.61 | GDOW 2161.44 -18.59
+SPDJIndices	700689056607428608	2016-02-19T14:31:03	Market Open: Markets | DJI 16410.96 -27.84 | DJC 5805.65 -18.97 | DJT 7273.95 -42.28
+SPDJIndices	700689055328182272	2016-02-19T14:31:03	Market Open: Markets | SP500 1916.74 -6.28
+SPDJIndices	700432361419313153	2016-02-18T21:31:03	Market Close: Markets | DJU 622.74 +10.75 | GDOW 2161.66 +2.91
+SPDJIndices	700432360362405889	2016-02-18T21:31:02	Market Close: Markets | DJI 16413.43 -40.40 | DJC 5808.91 +1.10 | DJT 7284.73 -41.72
+SPDJIndices	700432359208939520	2016-02-18T21:31:02	Market Close: Markets | SP500 1917.83 -8.99
+SPDJIndices	700420779574497280	2016-02-18T20:45:01	Check out our latest FA Focus on topics including smartbeta, corporate bonds and low vol.  
+SPDJIndices	700405055346864128	2016-02-18T19:42:32	Advisors, don't miss our complimentary smartbeta event next Wed. CFA, CFP &amp; CIMA credits.  
+SPDJIndices	700403208330457088	2016-02-18T19:35:12	RT SPDJIndices: How are the SP500 Risk Control Indices being implemented strategically in the insurance space? 
+SPDJIndices	700394950433902592	2016-02-18T19:02:23	"The S&amp;P GSCI (WTI) Crude Oil posted a 3-day gain of 14.4% ending Feb. 17." JodieGunzberg on Indexology 
+SPDJIndices	700381319654739970	2016-02-18T18:08:13	Paper by Professor Bondarenko Has Intriguing New Analysis of PUT and WPUT Indexes  Indexology
+SPDJIndices	700364447047684096	2016-02-18T17:01:10	Market Mid-day: Markets | DJU 623.17 +11.18 | GDOW 2162.62 +3.87
+SPDJIndices	700364445718048768	2016-02-18T17:01:10	Market Mid-day: Markets | DJI 16451.06 -2.77 | DJC 5813.98 +6.17 | DJT 7271.21 -55.24
+SPDJIndices	700364444673699841	2016-02-18T17:01:10	Market Mid-day: Markets | SP500 1923.90 -2.92
+SPDJIndices	700326665164087296	2016-02-18T14:31:03	Market Open: Markets | DJU 613.20 +0.08 | GDOW 2159.33 +12.38
+SPDJIndices	700326664191012868	2016-02-18T14:31:02	Market Open: Markets | DJI 16483.76 +38.03 | DJC 5816.29 +10.07 | DJT 7329.44 +11.79
+SPDJIndices	700326662706221056	2016-02-18T14:31:02	Market Open: Markets | SP500 1927.57 +2.29
+SPDJIndices	700297337688756224	2016-02-18T12:34:30	Factor Based Indices in India  Indexology equities factorinvesting spbsesensex smartbeta
+SPDJIndices	700101173458681862	2016-02-17T23:35:01	Oil Gains This Big Only Happen Around Bottoms  Indexology commodities commodities crudeoil
+SPDJIndices	700069971431448576	2016-02-17T21:31:02	Market Close: Markets | DJU 611.99 -2.50 | GDOW 2159.02 +34.43
+SPDJIndices	700069970290544640	2016-02-17T21:31:02	Market Close: Markets | DJI 16453.83 +257.42 | DJC 5807.81 +71.12 | DJT 7326.45 +116.89
+SPDJIndices	700069968763875328	2016-02-17T21:31:01	Market Close: Markets | SP500 1926.82 +31.24
+SPDJIndices	700007694598606848	2016-02-17T17:23:34	Pure Style Eliminates the Muddle in the Middle  Indexology equities sp500djia
+SPDJIndices	700006269839675392	2016-02-17T17:17:54	Why were the S&amp;P Pure Style Indices created? ShaunWurzbach explains on Indexology
+SPDJIndices	700005284597649408	2016-02-17T17:13:59	S&amp;P Pure Style Indices eliminate the muddle in the middle problem. What does this mean?  
+SPDJIndices	700002026252562432	2016-02-17T17:01:03	Market Mid-day: Markets | DJU 612.57 -1.92 | GDOW 2157.21 +32.62
+SPDJIndices	700002025229123589	2016-02-17T17:01:02	Market Mid-day: Markets | DJI 16408.84 +212.43 | DJC 5799.91 +63.22 | DJT 7325.72 +116.16
+SPDJIndices	700002023941521408	2016-02-17T17:01:02	Market Mid-day: Markets | SP500 1922.32 +26.74
+SPDJIndices	699964277009027072	2016-02-17T14:31:03	Market Open: Markets | DJU 614.61 -0.27 | GDOW 2123.24 +14.44
+SPDJIndices	699964275893391360	2016-02-17T14:31:02	Market Open: Markets | DJI 16217.98 +88.96 | DJC 5744.94 +20.63 | DJT 7227.35 +16.81
+SPDJIndices	699964274895163392	2016-02-17T14:31:02	Market Open: Markets | SP500 1898.80 +12.79
+SPDJIndices	699722747736358912	2016-02-16T22:31:17	Recession Rumors  Indexology blitzersinsights equities fixedincome sp500djia strategy
+SPDJIndices	699707810523774977	2016-02-16T21:31:56	Market Close: Markets | DJU 614.49 +3.62 | GDOW 2123.54 +20.55
+SPDJIndices	699707809244516356	2016-02-16T21:31:56	Market Close: Markets | DJI 16196.41 +222.57 | DJC 5736.69 +84.21 | DJT 7209.56 +160.87
+SPDJIndices	699707808149860352	2016-02-16T21:31:56	Market Close: Markets | SP500 1895.58 +30.80
+SPDJIndices	699686489131769857	2016-02-16T20:07:13	Great use of SPDJIndices data for risk on/risk off analysis from StovallSPGlobal ShaunWurzbach SPHB SPLV ETF 
+SPDJIndices	699664102088638465	2016-02-16T18:38:15	How are advisors applying smartbeta strategies to manage risk? StovallSPGlobal &amp; ShaunWurzbach discuss. 
+SPDJIndices	699643504423739392	2016-02-16T17:16:24	Details of the Two-Factor Model  Indexology fixedincome factors lowvolatility
+SPDJIndices	699639635434196992	2016-02-16T17:01:02	Market Mid-day: Markets | DJU 613.02 +2.15 | GDOW 2119.60 +16.61
+SPDJIndices	699639634440122368	2016-02-16T17:01:02	Market Mid-day: Markets | DJI 16121.18 +147.34 | DJC 5710.25 +57.77 | DJT 7166.37 +117.68
+SPDJIndices	699639633328611328	2016-02-16T17:01:01	Market Mid-day: Markets | SP500 1886.73 +21.95
+SPDJIndices	699628348264353792	2016-02-16T16:16:11	Tune in: Schwab's Tony Davidow to discuss new frontiers in smart beta @ SPDJIndices live webcast 2/24. Register now 
+SPDJIndices	699601890229755904	2016-02-16T14:31:03	Market Open: Markets | DJU 613.08 +1.77 | GDOW 2103.91 +15.84
+SPDJIndices	699601889206345728	2016-02-16T14:31:03	Market Open: Markets | DJI 16012.39 +128.57 | DJC 5668.26 +38.92 | DJT 7069.89 +46.60
+SPDJIndices	699601888174546944	2016-02-16T14:31:02	Market Open: Markets | SP500 1871.44 +15.77
+SPDJIndices	699582615624531968	2016-02-16T13:14:27	Can Sustainability Be Quantified?  Indexology uncategorized spltvc
+SPDJIndices	699508535097475072	2016-02-16T08:20:05	2015 – The Year of Hope and Despair for the India Market  Indexology equities spbsesensex
+SPDJIndices	699364528761499648	2016-02-15T22:47:51	Election Year 2016: Will A Republican President Help Oil?  Indexology commodities
+SPDJIndices	699345194420932609	2016-02-15T21:31:02	Market Close: Markets | DJU 610.87 -3.16 | GDOW 2103.21 +33.06
+SPDJIndices	699345193263300608	2016-02-15T21:31:01	Market Close: Markets | DJI 15973.84 +313.66 | DJC 5652.48 +91.43 | DJT 7048.69 +165.20
+SPDJIndices	699345191585587201	2016-02-15T21:31:01	Market Close: Markets | SP500 1864.78 +35.70
+SPDJIndices	699277250940764160	2016-02-15T17:01:03	Market Mid-day: Markets | DJU 610.87 -3.16 | GDOW 2102.38 +32.23
+SPDJIndices	699277249762226177	2016-02-15T17:01:02	Market Mid-day: Markets | DJI 15973.84 +313.66 | DJC 5652.48 +91.43 | DJT 7048.69 +165.20
+SPDJIndices	699277248428384256	2016-02-15T17:01:02	Market Mid-day: Markets | SP500 1864.78 +35.70
+SPDJIndices	699239503966425088	2016-02-15T14:31:03	Market Open: Markets | DJU 614.14 -3.16 | GDOW 2069.48 +34.05
+SPDJIndices	699239502984978432	2016-02-15T14:31:03	Market Open: Markets | DJI 15691.62 +313.66 | DJC 5571.59 +91.43 | DJT 6903.11 +165.20
+SPDJIndices	699239501823090688	2016-02-15T14:31:03	Market Open: Markets | SP500 1833.40 +35.70
+SPDJIndices	699069376478244865	2016-02-15T03:15:02	Asia Fixed Income: Southeast Asian Bond Markets  Indexology fixedincome emergingmarkets
+SPDJIndices	698278927807213569	2016-02-12T22:54:04	Seven Commodities To Love  Indexology commoditypoem indexperformance jodiegunzberg
+SPDJIndices	698260765636235266	2016-02-12T21:41:54	How are the SP500 Risk Control Indices being implemented strategically in the insurance space? IndexedGirl 
+SPDJIndices	698258149971771392	2016-02-12T21:31:30	Market Close: Markets | DJU 610.87 -3.16 | GDOW 2070.54 +23.10
+SPDJIndices	698258148931584000	2016-02-12T21:31:30	Market Close: Markets | DJI 15973.84 +313.66 | DJC 5652.48 +91.43 | DJT 7048.69 +165.20
+SPDJIndices	698258147752996865	2016-02-12T21:31:30	Market Close: Markets | SP500 1864.78 +35.70
+SPDJIndices	698258136306728965	2016-02-12T21:31:27	What are real assets &amp; how can they help investors manage risk? Hear from JodieGunzberg.  
+SPDJIndices	698254717613273088	2016-02-12T21:17:52	The active vs. passive debate applies to markets around the world. Find out more.  
+SPDJIndices	698254176502022144	2016-02-12T21:15:43	Check out our latest InSIGHTS magazine dedicated to investment trends &amp; index innovation.  
+SPDJIndices	698221417607860226	2016-02-12T19:05:32	Why are more long-term investors considering carbon asset risk?  
+SPDJIndices	698220768103174144	2016-02-12T19:02:58	Does adjusting by risk matter? Understand the often misunderstood factor of momentum.  
+SPDJIndices	698212593782157312	2016-02-12T18:30:29	Something for the weekend from TEBI SFTW Ritholtz CraigLazzara SPDJIndices ReformedBroker MichaelBatnick 
+SPDJIndices	698202786199138307	2016-02-12T17:51:30	Mexico Fixed Income Markets: Foreign Investors Repositioning in Linkers  Indexology
+SPDJIndices	698190089336307714	2016-02-12T17:01:03	Market Mid-day: Markets | DJU 609.36 -4.67 | GDOW 2064.79 +17.35
+SPDJIndices	698190088228970496	2016-02-12T17:01:03	Market Mid-day: Markets | DJI 15886.73 +226.55 | DJC 5627.96 +66.91 | DJT 7025.21 +141.72
+SPDJIndices	698190086798733313	2016-02-12T17:01:03	Market Mid-day: Markets | SP500 1854.64 +25.56
+SPDJIndices	698152337517506560	2016-02-12T14:31:02	Market Open: Markets | DJU 614.14 +0.14 | GDOW 2045.89 +5.88
+SPDJIndices	698152336544395265	2016-02-12T14:31:02	Market Open: Markets | DJI 15691.62 +119.71 | DJC 5571.59 +32.75 | DJT 6903.11 +42.67
+SPDJIndices	698152335160250368	2016-02-12T14:31:02	Market Open: Markets | SP500 1833.40 +13.98
+SPDJIndices	697895644762079233	2016-02-11T21:31:02	Market Close: Markets | DJU 614.03 -11.99 | GDOW 2046.14 -33.83
+SPDJIndices	697895643705188353	2016-02-11T21:31:02	Market Close: Markets | DJI 15660.18 -254.56 | DJC 5561.05 -91.27 | DJT 6883.49 -100.45
+SPDJIndices	697895642652418048	2016-02-11T21:31:02	Market Close: Markets | SP500 1829.08 -22.78
+SPDJIndices	697871359343529984	2016-02-11T19:54:32	Thank you tomdorsey, StovallSPGlobal &amp; ShaunWurzbach for joining us in the S&amp;P studios today. Stay tuned for the videos. SPDJIForum2016
+SPDJIndices	697870770861694976	2016-02-11T19:52:12	Want a preview of SPDJIForum2016 ?    Videos w/ tomdorsey &amp; @StovallSPCAPIQ on smartbeta are on the way
+SPDJIndices	697867056025374721	2016-02-11T19:37:26	"To me smart beta is a rules based approach to investing"-tomdorsey SPDJIFAForum2016
+SPDJIndices	697867052615393280	2016-02-11T19:37:25	"What's the one key to success at DWA? Education" -tomdorsey at our S&amp;P studios SPDJIFAForum2016 
+SPDJIndices	697866271514357761	2016-02-11T19:34:19	We're live from the S&amp;P studios with ShaunWurzbach &amp; tomdorsey discussing smartbeta SPDJIFAForum2016 
+SPDJIndices	697866188710346757	2016-02-11T19:33:59	How can smartbeta &amp; technical analysis work together? ShaunWurzbach asks tomdorsey SPDJIFAForum2016
+SPDJIndices	697863819390033922	2016-02-11T19:24:34	.tomdorsey plans to talk about "sector rotation" at our upcoming SPDJIFAForum
+SPDJIndices	697862794746716161	2016-02-11T19:20:30	.@StovallSPCAPIQ talking about how smartbeta works in his “Sell in May” Rules of WallStreet with tomdorsey SPDJIForum2016
+SPDJIndices	697861869986521088	2016-02-11T19:16:50	.tomdorsey answering how do I implement smartbeta in a portfolio for financialadvisors SPDJIForum2016 
+SPDJIndices	697861520064180224	2016-02-11T19:15:26	.tomdorsey, StovallSPGlobal &amp; ShaunWurzbach in our studios this afternoon discussing smartbeta spdjiforum2016 
+SPDJIndices	697858415142576129	2016-02-11T19:03:06	.tomdorsey, founder of DorseyWrightDWA is with S&amp;P on 2/11 to discuss leadership and smartbeta SPDJIForum2016
+SPDJIndices	697827696638828544	2016-02-11T17:01:02	Market Mid-day: Markets | DJU 617.31 -8.71 | GDOW 2042.76 -37.21
+SPDJIndices	697827695573536769	2016-02-11T17:01:02	Market Mid-day: Markets | DJI 15582.52 -332.22 | DJC 5544.67 -107.65 | DJT 6852.06 -131.88
+SPDJIndices	697827694134870016	2016-02-11T17:01:01	Market Mid-day: Markets | SP500 1818.95 -32.91
+SPDJIndices	697789949253386240	2016-02-11T14:31:02	Market Open: Markets | DJU 625.54 -3.00 | GDOW 2085.62 -25.07
+SPDJIndices	697789948238422016	2016-02-11T14:31:02	Market Open: Markets | DJI 15897.82 -156.28 | DJC 5640.49 -51.14 | DJT 6948.37 -72.73
+SPDJIndices	697789947055632386	2016-02-11T14:31:02	Market Open: Markets | SP500 1847.00 -16.80
+SPDJIndices	697534834177155072	2016-02-10T21:37:18	February Brings Both the Positive and the Negative in European Government Bond…  Indexology
+SPDJIndices	697533256489693185	2016-02-10T21:31:02	Market Close: Markets | DJU 626.02 -0.75 | GDOW 2086.82 +2.19
+SPDJIndices	697533255357227008	2016-02-10T21:31:02	Market Close: Markets | DJI 15914.74 -99.64 | DJC 5652.32 -23.25 | DJT 6983.94 -12.36
+SPDJIndices	697533254174449665	2016-02-10T21:31:01	Market Close: Markets | SP500 1851.86 -0.35
+SPDJIndices	697531399771914240	2016-02-10T21:23:39	Live stream our smartbeta event. Don't miss ElkhornInvest SPGLMarketIntel RA_Insights  
+SPDJIndices	697518598164770816	2016-02-10T20:32:47	Check out our latest InSIGHTS. Top feature: SPIVA Through A Global lens.   
+SPDJIndices	697515790766047232	2016-02-10T20:21:38	The right balance of inflation and economic growth is important for a healthy economy.  
+SPDJIndices	697514526971977733	2016-02-10T20:16:37	How are riskcontrol frameworks being used in the insurance space? space. Hear from IndexedGirl &amp; S&amp;P DJI. 
+SPDJIndices	697465098093383682	2016-02-10T17:00:12	Don't miss SPDJIndices livestreaming event on how to apply SmartBeta with some of the leading factor gurus 
+SPDJIndices	697465308911693824	2016-02-10T17:01:02	Market Mid-day: Markets | DJU 622.37 -4.40 | GDOW 2091.26 +6.63
+SPDJIndices	697465307854667776	2016-02-10T17:01:02	Market Mid-day: Markets | DJI 16038.47 +24.09 | DJC 5679.91 +4.34 | DJT 7028.65 +32.35
+SPDJIndices	697465306739056640	2016-02-10T17:01:02	Market Mid-day: Markets | SP500 1866.43 +14.22
+SPDJIndices	697430655248916480	2016-02-10T14:43:20	Alka Banerjee, SPDJIndices: Expect markets to remain volatile for next few months. China concerns weighing on market sentiment.
+SPDJIndices	697205131662614528	2016-02-09T23:47:11	Great catching up with SPDJIndices team to discuss all things ETFs financialplanning SMSF
+SPDJIndices	697397540195581952	2016-02-10T12:31:45	Be careful what you wish for CraigLazzara SPDJIndices investing 
+SPDJIndices	697427609840459776	2016-02-10T14:31:14	Market Open: Markets | DJU 626.08 -0.19 | GDOW 2082.77 +5.09
+SPDJIndices	697427608733118464	2016-02-10T14:31:14	Market Open: Markets | DJI 16035.61 +56.80 | DJC 5681.01 +20.76 | DJT 7007.70 +46.30
+SPDJIndices	697427607629996033	2016-02-10T14:31:13	Market Open: Markets | SP500 1857.10 +10.57
+SPDJIndices	697151777192308736	2016-02-09T20:15:10	DYK: PowerShares Canada’s lowvolatility strategies protect on the downside &amp; provide unconstrained sector rotation 
+SPDJIndices	697170868640837632	2016-02-09T21:31:02	Market Close: Markets | DJU 626.77 +3.82 | GDOW 2083.02 -20.40
+SPDJIndices	697170867193827328	2016-02-09T21:31:02	Market Close: Markets | DJI 16014.38 -12.67 | DJC 5675.57 +19.63 | DJT 6996.30 +71.99
+SPDJIndices	697170865734217729	2016-02-09T21:31:01	Market Close: Markets | SP500 1852.21 -1.23
+SPDJIndices	697168605729964032	2016-02-09T21:22:03	Will History Repeat Itself in Feb. 2016?  Indexology fixedincome bondyields corporatebond
+SPDJIndices	697164904730640384	2016-02-09T21:07:20	.tomdorsey, founder of DorseyWrightDWA is with S&amp;P DJI on 2/11 to discuss leadership and smartbeta SPDJIForum2016
+SPDJIndices	697153185731969026	2016-02-09T20:20:46	Dividend and Low Volatility-Investments  Indexology equities sp500djia sp500
+SPDJIndices	697148346515877888	2016-02-09T20:01:32	RT SPDJIndices Volatility Rides Again  Indexology equities strategy bondyields china chrisbennett
+SPDJIndices	697139864651882497	2016-02-09T19:27:50	In SPDJIndices blog post, a look at exposure of low volatility and dividends products. With StovallSPGlobal 
+SPDJIndices	697102924665765892	2016-02-09T17:01:03	Market Mid-day: Markets | DJU 625.72 +2.77 | GDOW 2080.95 -22.47
+SPDJIndices	697102923365486593	2016-02-09T17:01:03	Market Mid-day: Markets | DJI 15957.54 -69.51 | DJC 5659.56 +3.62 | DJT 6981.44 +57.13
+SPDJIndices	697102922052673536	2016-02-09T17:01:02	Market Mid-day: Markets | SP500 1846.49 -6.95
+SPDJIndices	697069420556980224	2016-02-09T14:47:55	Can your homeprice protect as well as gold in a stockmarket crash? JodieGunzberg  
+SPDJIndices	697068494240813057	2016-02-09T14:44:14	Factor-based investing in equities has gained traction in recent yrs. How does fixedincome fit into the equation? 
+SPDJIndices	697065712121024512	2016-02-09T14:33:11	Homes In These Two Cities May Shelter Better Than Gold  HousingViews spcaseshillerindices
+SPDJIndices	697065173413134336	2016-02-09T14:31:02	Market Open: Markets | DJU 621.99 +0.97 | GDOW 2105.66 -31.73
+SPDJIndices	697065172435861504	2016-02-09T14:31:02	Market Open: Markets | DJI 16005.41 -100.12 | DJC 5646.77 -27.19 | DJT 6908.83 -43.31
+SPDJIndices	697065171353792513	2016-02-09T14:31:02	Market Open: Markets | SP500 1848.46 -15.73
+SPDJIndices	697062485388627968	2016-02-09T14:20:21	Homes In These Two Cities May Shelter Better Than Gold SPDJIndices Indexology SPCaseShiller HomePrices 
+SPDJIndices	697013322013634560	2016-02-09T11:05:00	Does it Have to Be Active OR Passive? Why Not the Best of Both Worlds?  Indexology india
+SPDJIndices	696949422698184706	2016-02-09T06:51:05	Homes In These Two Cities May Shelter Better Than Gold  Indexology commodities equities
+SPDJIndices	696824116112924672	2016-02-08T22:33:10	Volatility Rides Again  Indexology equities strategy bondyields china chrisbennett
+SPDJIndices	696808482771726337	2016-02-08T21:31:03	Market Close: Markets | DJU 622.95 -1.67 | GDOW 2105.22 -33.58
+SPDJIndices	696808481450549253	2016-02-08T21:31:02	Market Close: Markets | DJI 16027.05 -177.92 | DJC 5655.94 -41.29 | DJT 6924.31 -18.51
+SPDJIndices	696808479630172160	2016-02-08T21:31:02	Market Close: Markets | SP500 1853.44 -26.61
+SPDJIndices	696035875285823488	2016-02-06T18:20:59	Hevensky wants your ?'s and input to inform his keynote at SPDJIForum2016  Let me know by 2/24   FPA Fiduciary
+SPDJIndices	695291862886825984	2016-02-04T17:04:32	Harold Evensky keynote speaker at SPDJIForum2016 check it out via livestream  or in person 
+SPDJIndices	696740535600594944	2016-02-08T17:01:03	Market Mid-day: Markets | DJU 618.63 -5.99 | GDOW 2097.62 -41.18
+SPDJIndices	696740534447169536	2016-02-08T17:01:02	Market Mid-day: Markets | DJI 15883.99 -320.98 | DJC 5602.13 -95.10 | DJT 6837.63 -105.19
+SPDJIndices	696740533226622976	2016-02-08T17:01:02	Market Mid-day: Markets | SP500 1842.90 -37.15
+SPDJIndices	695643928721281024	2016-02-05T16:23:31	The Trade: Gold prices surging to start 2016  It may help all commodities 2016.  Indexology
+SPDJIndices	696715242236198912	2016-02-08T15:20:32	Join SPDJIndices for a livestreaming event on how to apply SmartBeta 
+SPDJIndices	696702785488883712	2016-02-08T14:31:02	Market Open: Markets | DJU 624.16 +0.65 | GDOW 2138.86 -26.03
+SPDJIndices	696702784410939392	2016-02-08T14:31:02	Market Open: Markets | DJI 16147.51 -114.44 | DJC 5679.93 -31.37 | DJT 6918.03 -46.72
+SPDJIndices	696702783244914688	2016-02-08T14:31:02	Market Open: Markets | SP500 1873.25 -19.11
+SPDJIndices	695724152129503232	2016-02-05T21:42:18	How does fixedincome fit into the smartbeta picture?  
+SPDJIndices	695721317459476480	2016-02-05T21:31:02	Market Close: Markets | DJU 624.62 +2.55 | GDOW 2139.62 -23.48
+SPDJIndices	695721316347998210	2016-02-05T21:31:02	Market Close: Markets | DJI 16204.83 -211.75 | DJC 5697.18 -60.37 | DJT 6942.70 -108.55
+SPDJIndices	695721315181920256	2016-02-05T21:31:02	Market Close: Markets | SP500 1880.02 -35.43
+SPDJIndices	695690901331537920	2016-02-05T19:30:10	Get ready for this year's Community Impact Month! We're proud of our employees MHFIImpact:  
+SPDJIndices	695715562035539969	2016-02-05T21:08:10	Is Oil’s Spill Turning the Credit Cycle?  Indexology fixedincome corporatebonds
+SPDJIndices	695702224274649089	2016-02-05T20:15:10	Join SPDJIndices in Miami on 2/24 to learn how financial advisors can better manage risk  
+SPDJIndices	695696893591089153	2016-02-05T19:53:59	Better Than the Headline  Indexology blitzersinsights equities fixedincome strategy
+SPDJIndices	695668596085780480	2016-02-05T18:01:32	Risk Off, Yields Move Lower  Indexology fixedincome bondyields fixedincome
+SPDJIndices	695653375245971456	2016-02-05T17:01:03	Market Mid-day: Markets | DJU 622.61 +0.54 | GDOW 2143.95 -19.15
+SPDJIndices	695653373576658944	2016-02-05T17:01:03	Market Mid-day: Markets | DJI 16260.34 -156.24 | DJC 5713.93 -43.62 | DJT 6985.34 -65.91
+SPDJIndices	695653371643097088	2016-02-05T17:01:03	Market Mid-day: Markets | SP500 1889.34 -26.11
+SPDJIndices	695578031574880256	2016-02-05T12:01:40	Be careful what you wish for CraigLazzara SPDJIndices investing 
+SPDJIndices	695629112505999360	2016-02-05T15:24:39	¿Por qué caen los mercados latinoamericanos?  SPDJIndices LatAm dashboard indexperformance
+SPDJIndices	695615623540424705	2016-02-05T14:31:03	Market Open: Markets | DJU 620.90 -2.30 | GDOW 2165.14 -3.00
+SPDJIndices	695615622303059968	2016-02-05T14:31:02	Market Open: Markets | DJI 16417.95 -3.42 | DJC 5752.99 -9.87 | DJT 7038.09 -23.57
+SPDJIndices	695615621120266240	2016-02-05T14:31:02	Market Open: Markets | SP500 1913.07 -5.32
+SPDJIndices	695358932835930114	2016-02-04T21:31:03	Market Close: Markets | DJU 622.07 -4.57 | GDOW 2165.47 +24.17
+SPDJIndices	695358930654855168	2016-02-04T21:31:02	Market Close: Markets | DJI 16416.58 +79.92 | DJC 5757.55 +54.96 | DJT 7051.25 +216.49
+SPDJIndices	695358928889053184	2016-02-04T21:31:02	Market Close: Markets | SP500 1915.45 +2.92
+SPDJIndices	695350999368671233	2016-02-04T20:59:31	Does Smart Beta Offer a Better Mousetrap?  Indexology uncategorized
+SPDJIndices	695328246041284609	2016-02-04T19:29:07	Looking forward to CraigLazzara sharing with us his indexing research SPDJIndices on March 3.
+SPDJIndices	694602184110030848	2016-02-02T19:24:00	Had enough of marketvolatility? Learn more about lowvolatility investing 
+SPDJIndices	695324803469807617	2016-02-04T19:15:26	What can we expect at the 2/24 SPDJIFAForum on smartbeta?  @StovallSPCAPIQ &amp; ShaunWurzbach discuss. 
+SPDJIndices	695321616688009216	2016-02-04T19:02:46	Does smartbeta offer a better mousetrap? Hear from @StovallSPCAPIQ &amp; ShaunWurzbach  
+SPDJIndices	695316564741091328	2016-02-04T18:42:42	Credit Spread and Low Volatility Factors  Indexology fixedincome fixedincome
+SPDJIndices	695290987137101825	2016-02-04T17:01:03	Market Mid-day: Markets | DJU 621.61 -5.03 | GDOW 2159.68 +18.38
+SPDJIndices	695290985958522880	2016-02-04T17:01:03	Market Mid-day: Markets | DJI 16322.76 -13.90 | DJC 5724.94 +22.35 | DJT 6988.45 +153.69
+SPDJIndices	695290984624734209	2016-02-04T17:01:03	Market Mid-day: Markets | SP500 1906.29 -6.24
+SPDJIndices	695287993591058432	2016-02-04T16:49:10	We're proud to support BCCCC and share our CSRStory in their Film Festival:  BostonCollege 
+SPDJIndices	695286100403843072	2016-02-04T16:41:38	We're excited for our conversation with Hevensky on financial planning. SPDJIForum2016  
+SPDJIndices	695278701097938944	2016-02-04T16:12:14	32nd Annual CBOE Risk Management Conference. 2/29- 3/2. David Blitzer will provide keynote.  
+SPDJIndices	695259560701988864	2016-02-04T14:56:11	Is There Merit in Blending Factors in Smart Beta Strategies?  Indexology equities
+SPDJIndices	695229750655197184	2016-02-04T12:57:43	View last night’s episode of ETF Investor with GarethStobie &amp; Zack Bezuidenhout of SPDJIndices South Africa here 
+SPDJIndices	694996545419214848	2016-02-03T21:31:03	Market Close: Markets | DJU 626.64 +8.01 | GDOW 2145.81 +4.07
+SPDJIndices	694996544244862976	2016-02-03T21:31:03	Market Close: Markets | DJI 16336.66 +183.12 | DJC 5702.59 +64.27 | DJT 6834.76 +70.60
+SPDJIndices	694996542965563396	2016-02-03T21:31:02	Market Close: Markets | SP500 1912.53 +9.50
+SPDJIndices	694206110421684225	2016-02-01T17:10:09	.SPDJIndices JodieGunzberg on why January's commodity performance is promising  Indexology commodities
+SPDJIndices	694994310534574080	2016-02-03T21:22:10	All commodities rise with oil. silver copper natgas do best.  SPDJIndices Indexology 
+SPDJIndices	694989966141591553	2016-02-03T21:04:54	Why did Vanguard_FA launch a muniland fund tied to SPDJIndices in '15? Read my interview on SNLFinancial  …
+SPDJIndices	694962803422158848	2016-02-03T19:16:58	Why might a particular strategy outperform, above and beyond sheer luck?  
+SPDJIndices	694953371070021632	2016-02-03T18:39:29	Successful active management is possible, but is it prevalent? Hear from CraigLazzara  
+SPDJIndices	694952412533166080	2016-02-03T18:35:41	How can you passively access impactinvestments in the listed equities universe?  
+SPDJIndices	694223448898277377	2016-02-01T18:19:02	Think risk = return? Learn how lowvolatility investing redefines the relationship  
+SPDJIndices	694928593449803777	2016-02-03T17:01:02	Market Mid-day: Markets | DJU 623.88 +5.25 | GDOW 2131.22 -10.52
+SPDJIndices	694928592401219584	2016-02-03T17:01:02	Market Mid-day: Markets | DJI 16160.62 +7.08 | DJC 5655.51 +17.19 | DJT 6796.33 +32.17
+SPDJIndices	694928591092584450	2016-02-03T17:01:01	Market Mid-day: Markets | SP500 1895.03 -8.00
+SPDJIndices	694890859192541184	2016-02-03T14:31:05	Market Open: Markets | DJU 619.07 +1.69 | GDOW 2143.29 +0.24
+SPDJIndices	694890848195059712	2016-02-03T14:31:03	Market Open: Markets | DJI 16186.20 +83.96 | DJC 5651.60 +29.30 | DJT 6792.67 +47.21
+SPDJIndices	694890846823563264	2016-02-03T14:31:02	Market Open: Markets | SP500 1907.07 +9.28
+SPDJIndices	694634157792759808	2016-02-02T21:31:03	Market Close: Markets | DJU 618.63 +2.20 | GDOW 2143.03 -41.20
+SPDJIndices	694634155016085504	2016-02-02T21:31:02	Market Close: Markets | DJI 16153.54 -295.64 | DJC 5638.32 -98.14 | DJT 6764.16 -204.67
+SPDJIndices	694634153812312064	2016-02-02T21:31:02	Market Close: Markets | SP500 1903.03 -36.35
+SPDJIndices	694623292448202752	2016-02-02T20:47:53	Factor-Based Investing in US IG Corporate Bonds: Volatility and Credit Spread  Indexology
+SPDJIndices	694616798570901507	2016-02-02T20:22:04	What is the S&amp;P Long-Term Value Creation (LTVC) Global Index?  
+SPDJIndices	694566214476107776	2016-02-02T17:01:04	Market Mid-day: Markets | DJU 614.95 -1.48 | GDOW 2147.28 -36.95
+SPDJIndices	694566213448515584	2016-02-02T17:01:04	Market Mid-day: Markets | DJI 16209.76 -239.42 | DJC 5655.00 -81.46 | DJT 6819.11 -149.72
+SPDJIndices	694566211905011713	2016-02-02T17:01:03	Market Mid-day: Markets | SP500 1911.46 -27.92
+SPDJIndices	694536938779459584	2016-02-02T15:04:44	Looking Beyond the Short Term  Indexology uncategorized ltvc sustainability
+SPDJIndices	694528461277380608	2016-02-02T14:31:03	Market Open: Markets | DJU 613.38 -2.93 | GDOW 2184.57 -27.07
+SPDJIndices	694528460262346753	2016-02-02T14:31:03	Market Open: Markets | DJI 16420.21 -153.06 | DJC 5721.12 -42.26 | DJT 6947.57 -31.67
+SPDJIndices	694528458924396544	2016-02-02T14:31:02	Market Open: Markets | SP500 1935.26 -13.29
+SPDJIndices	694292887358541824	2016-02-01T22:54:58	Be Careful What You Wish For  Indexology equities sp500djia strategy activemanagement
+SPDJIndices	694280804738940928	2016-02-01T22:06:57	Complimentary live event for Advisors. Join S&amp;P DJI &amp; leading smart beta gurus on 2/24  
+SPDJIndices	694279210962178048	2016-02-01T22:00:37	Why is January's Commodity performance promising?  Hear from JodieGunzberg on Indexology. 
+SPDJIndices	694271786666610688	2016-02-01T21:31:07	Market Close: Markets | DJU 616.43 +5.08 | GDOW 2184.86 +7.22
+SPDJIndices	694271784481353728	2016-02-01T21:31:07	Market Close: Markets | DJI 16449.18 -17.12 | DJC 5736.46 +18.70 | DJT 6968.83 +62.07
+SPDJIndices	694271783004946432	2016-02-01T21:31:06	Market Close: Markets | SP500 1939.38 -0.86
+SPDJIndices	694203827399102469	2016-02-01T17:01:04	Market Mid-day: Markets | DJU 617.35 +6.00 | GDOW 2180.19 +2.55
+SPDJIndices	694203825389965316	2016-02-01T17:01:04	Market Mid-day: Markets | DJI 16416.27 -50.03 | DJC 5721.52 +3.76 | DJT 6922.36 +15.60
+SPDJIndices	694203824064565249	2016-02-01T17:01:03	Market Mid-day: Markets | SP500 1934.28 -5.96
+SPDJIndices	694166079040524289	2016-02-01T14:31:04	Market Open: Markets | DJU 610.96 -1.44 | GDOW 2177.99 -6.15
+SPDJIndices	694166077966815233	2016-02-01T14:31:04	Market Open: Markets | DJI 16453.63 -81.84 | DJC 5710.37 -29.76 | DJT 6887.15 -51.41
+SPDJIndices	694166076813348865	2016-02-01T14:31:04	Market Open: Markets | SP500 1936.94 -9.72
+SPDJIndices	694099016607490048	2016-02-01T10:04:35	Why January’s Commodity Performance Is Promising  Indexology commodities commodities
+SPDJIndices	694097892739518465	2016-02-01T10:00:08	Last chance: Can smart beta strategies unlock alpha? Cape Town &amp; Joburg 2&amp;3 Feb  
+SPDJIndices	693184602924568577	2016-01-29T21:31:02	Market Close: Markets | DJU 611.35 +12.16 | GDOW 2179.01 +42.31
+SPDJIndices	693184601796255744	2016-01-29T21:31:02	Market Close: Markets | DJI 16466.30 +396.66 | DJC 5717.76 +141.79 | DJT 6906.76 +204.79
+SPDJIndices	693184600705765376	2016-01-29T21:31:02	Market Close: Markets | SP500 1940.24 +46.88
+SPDJIndices	693158298120556546	2016-01-29T19:46:31	A Better Mousetrap: Smart Beta Offers Superior “Risk-On/Risk-Off” Relative…  Indexology
+SPDJIndices	693116656466419712	2016-01-29T17:01:03	Market Mid-day: Markets | DJU 610.41 +11.22 | GDOW 2164.77 +28.07
+SPDJIndices	693116655283601408	2016-01-29T17:01:02	Market Mid-day: Markets | DJI 16306.05 +236.41 | DJC 5664.64 +88.67 | DJT 6812.56 +110.59
+SPDJIndices	693116653907922944	2016-01-29T17:01:02	Market Mid-day: Markets | SP500 1919.56 +26.20
+SPDJIndices	693096523350052867	2016-01-29T15:41:02	Watch J.R. Rieger SPDJIndices discuss the drivers of the market for 2016 on MASTERCLASS:  
+SPDJIndices	693088863934373888	2016-01-29T15:10:36	Performance of Smart Beta Strategies Across Market and Economic Cycles from SPDJIndices 
+SPDJIndices	693078908640563204	2016-01-29T14:31:03	Market Open: Markets | DJU 603.33 +4.64 | GDOW 2136.37 +10.91
+SPDJIndices	693078907495563264	2016-01-29T14:31:02	Market Open: Markets | DJI 16090.26 +77.05 | DJC 5590.12 +23.59 | DJT 6716.84 +4.30
+SPDJIndices	693078906249875457	2016-01-29T14:31:02	Market Open: Markets | SP500 1894.00 +6.06
+SPDJIndices	692916499082797062	2016-01-29T03:45:41	Top Three Questions About Japan’s Bond Market  Indexology fixedincome boj inflationlinked
+SPDJIndices	692852928625844224	2016-01-28T23:33:05	.SPDJIndices Index that blends wealth creation with the need to mitigate uncertainty of in-retirement income: 
+SPDJIndices	692825774437580801	2016-01-28T21:45:11	.TMXGroup hosted SPDJIndices execs at market close to celebrate multi-year agreement.  
+SPDJIndices	692822216954765313	2016-01-28T21:31:03	Market Close: Markets | DJU 599.19 +9.69 | GDOW 2136.49 -0.04
+SPDJIndices	692822215826472960	2016-01-28T21:31:02	Market Close: Markets | DJI 16069.64 +125.18 | DJC 5575.97 +28.71 | DJT 6701.97 -54.15
+SPDJIndices	692822214442352641	2016-01-28T21:31:02	Market Close: Markets | SP500 1893.36 +10.41
+SPDJIndices	692773359323594752	2016-01-28T18:16:54	We're proud to support BCCCC and share our CSRStory in their Film Festival:  BostonCollege 
+SPDJIndices	692795047058735109	2016-01-28T19:43:05	.SPDJIndices JR Rieger speaks on BloombergRadio after credit cycle conference on HY credit spreads, liquidity: 
+SPDJIndices	692754140892520449	2016-01-28T17:00:32	SmartBeta strategies are everywhere,you'd better understand their sources of risk and return  via SPDJIndices
+SPDJIndices	692754268206534658	2016-01-28T17:01:02	Market Mid-day: Markets | DJU 594.35 +4.85 | GDOW 2128.01 -8.52
+SPDJIndices	692754266868555776	2016-01-28T17:01:02	Market Mid-day: Markets | DJI 15901.58 -42.88 | DJC 5524.20 -23.06 | DJT 6650.99 -105.13
+SPDJIndices	692754265736122368	2016-01-28T17:01:02	Market Mid-day: Markets | SP500 1881.25 -1.70
+SPDJIndices	692736564951158785	2016-01-28T15:50:42	USConcrete joins S&amp;P SmallCap index, names energy-seasoned CFO  USConcrete SPDJIndices
+SPDJIndices	692468589278928897	2016-01-27T22:05:51	TMX CEO delighted to host SPDJIndices execs at market close to celebrate renewal of Index Op &amp; License Agreement. 
+SPDJIndices	692730932340613120	2016-01-28T15:28:19	Performance of Smart Beta Strategies Across Market and Economic Cycles  Indexology equities
+SPDJIndices	692716519822852096	2016-01-28T14:31:03	Market Open: Markets | DJU 589.60 -1.30 | GDOW 2137.70 +8.71
+SPDJIndices	692716517474070528	2016-01-28T14:31:02	Market Open: Markets | DJI 15960.28 +104.09 | DJC 5553.92 +21.31 | DJT 6771.84 +15.23
+SPDJIndices	692716516291272707	2016-01-28T14:31:02	Market Open: Markets | SP500 1885.22 +13.86
+SPDJIndices	692459836592775168	2016-01-27T21:31:04	Market Close: Markets | DJU 589.50 +1.03 | GDOW 2137.03 +0.46
+SPDJIndices	692459828892037121	2016-01-27T21:31:03	Market Close: Markets | DJI 15944.46 -222.77 | DJC 5547.26 -54.41 | DJT 6756.12 -59.64
+SPDJIndices	692459827478597632	2016-01-27T21:31:02	Market Close: Markets | SP500 1882.95 -20.68
+SPDJIndices	691667507711721473	2016-01-25T17:02:39	Does smart beta suggest traditional cap-weighted indexes are ‘dumb’? Not at all, says S&amp;P/DJ Indices Craig Lazzara insideETFs
+SPDJIndices	692446563638087680	2016-01-27T20:38:20	What can dispersion tell us about sector opportunities?  
+SPDJIndices	692445885821771776	2016-01-27T20:35:38	What's in your smartbeta portfolio?  
+SPDJIndices	692444806371491840	2016-01-27T20:31:21	Why are Dividend Aristocrats different than other income driven strategies? ShaunWurzbach  
+SPDJIndices	692443930802130944	2016-01-27T20:27:52	What are U.S. Preferred Stocks? Uncover what's driving growth in this market.   
+SPDJIndices	692423078769508352	2016-01-27T19:05:01	How are advisors applying factor &amp; alternatively weighted approaches to manage risk &amp; potentially enhance returns? 
+SPDJIndices	692420424358051844	2016-01-27T18:54:28	Falling oil prices are leading to concerns of lower future earnings.  
+SPDJIndices	692419654808125440	2016-01-27T18:51:24	Homeprices continue to increase in Nov according to the S&amp;P/Case-Shiller Home Price Indices  
+SPDJIndices	692417301359022080	2016-01-27T18:42:03	Are REITs designed to underperform when interestrates rise?  
+SPDJIndices	692391880756183041	2016-01-27T17:01:03	Market Mid-day: Markets | DJU 592.21 +3.74 | GDOW 2152.40 +15.83
+SPDJIndices	692391879581786112	2016-01-27T17:01:02	Market Mid-day: Markets | DJI 16197.98 +30.75 | DJC 5629.69 +28.02 | DJT 6888.18 +72.42
+SPDJIndices	692391878117986304	2016-01-27T17:01:02	Market Mid-day: Markets | SP500 1911.63 +8.00
+SPDJIndices	692369369960157187	2016-01-27T15:31:36	Make Room for a New Target Date Category  Indexology uncategorized 401ks dcplans
+SPDJIndices	692362801977888769	2016-01-27T15:05:30	Make room for a new targetdate category: S&amp;P STRIDE Indices 
+SPDJIndices	691221932730114048	2016-01-24T11:32:05	Why is the gender gap at the CEO level of S&amp;P 500 companies getting bigger not smaller?  
+SPDJIndices	690989677227151360	2016-01-23T20:09:11	Rieger Report: Factors impacting bond liquidity  Indexology fixedincome corporatebond
+SPDJIndices	690652316530270208	2016-01-22T21:48:38	How can cheap gasoline lead to costly insurance? Find out on Indexology. 
+SPDJIndices	690649527833989120	2016-01-22T21:37:33	Always a pleasure to work with Rick_Ferri   Semper Fi! 
+SPDJIndices	690649907464663042	2016-01-22T21:39:04	Examine the origins and evolution of factorbased investing.  
+SPDJIndices	690647886632239104	2016-01-22T21:31:02	Market Close: Markets | DJU 589.14 +10.48 | GDOW 2135.79 +51.16
+SPDJIndices	690647885612974082	2016-01-22T21:31:02	Market Close: Markets | DJI 16093.51 +210.83 | DJC 5580.42 +77.68 | DJT 6778.54 +88.57
+SPDJIndices	690647884220481536	2016-01-22T21:31:01	Market Close: Markets | SP500 1906.90 +37.91
+SPDJIndices	690644946253172738	2016-01-22T21:19:21	"The Power of Passive Investing Now." Rick_Ferri &amp; ShaunWurzbach discuss. passivestrategies roboadvisors 
+SPDJIndices	690644206587678721	2016-01-22T21:16:25	What might you be overlooking in your core U.S. equity portfolio?  
+SPDJIndices	690643121051406336	2016-01-22T21:12:06	"Percentage of dividends as a part of personal income has steadily increased over time."  
+SPDJIndices	690641221203656708	2016-01-22T21:04:33	Explore investment strategies that may have a place within sustainability benchmarks.  
+SPDJIndices	690640593299619842	2016-01-22T21:02:03	Is the lowvolatility anomaly universal? Hear from CraigLazzara  
+SPDJIndices	690636109978669056	2016-01-22T20:44:14	Coordination call today for SPDJIndices upcoming webinar Feb 3rd for Advisors on Growth and Income.  indexing 
+SPDJIndices	690636958775799808	2016-01-22T20:47:37	S&amp;P/Case-Shiller Home Prices on Tuesday January 26th  HousingViews economicdata housingdata
+SPDJIndices	690614719728730112	2016-01-22T19:19:14	What are realassets?  
+SPDJIndices	690614356682412042	2016-01-22T19:17:48	The combination of realassets allows investors to get inflation protection without giving up portfolio efficiency 
+SPDJIndices	690326781769949184	2016-01-22T00:15:05	Join SPDJIndices for a live webstream on February 24 to learn how financial advisors can better manage risk 
+SPDJIndices	690575591976890368	2016-01-22T16:43:46	.SPDJIndices collaborates with cppib on Long Term Value Creation (LTVC) Global Index via @MHFI_Institute: 
+SPDJIndices	690579939620425729	2016-01-22T17:01:02	Market Mid-day: Markets | DJU 584.45 +5.79 | GDOW 2130.94 +46.31
+SPDJIndices	690579938232160256	2016-01-22T17:01:02	Market Mid-day: Markets | DJI 16005.68 +123.00 | DJC 5551.64 +48.90 | DJT 6763.46 +73.49
+SPDJIndices	690579937070313473	2016-01-22T17:01:02	Market Mid-day: Markets | SP500 1894.40 +25.41
+SPDJIndices	690329350168780800	2016-01-22T00:25:17	SPDJIndices collaborates with cppib on new index -  
+SPDJIndices	690542191542931456	2016-01-22T14:31:02	Market Open: Markets | DJU 581.94 +3.41 | GDOW 2088.07 +48.80
+SPDJIndices	690542190314000385	2016-01-22T14:31:02	Market Open: Markets | DJI 15921.10 +144.06 | DJC 5520.48 +48.07 | DJT 6712.08 +66.40
+SPDJIndices	690542189248659456	2016-01-22T14:31:02	Market Open: Markets | SP500 1877.40 +20.78
+SPDJIndices	690316226610880512	2016-01-21T23:33:08	When Diversification Fails  Indexology commodities equities fixedincome inflation
+SPDJIndices	690285500272398338	2016-01-21T21:31:02	Market Close: Markets | DJU 578.66 -0.37 | GDOW 2087.80 +9.65
+SPDJIndices	690285499257323525	2016-01-21T21:31:02	Market Close: Markets | DJI 15882.68 +115.94 | DJC 5502.74 +35.87 | DJT 6689.97 +64.44
+SPDJIndices	690285498007334917	2016-01-21T21:31:02	Market Close: Markets | SP500 1868.99 +9.66
+SPDJIndices	690279819955806208	2016-01-21T21:08:28	Greg King of REX Shares &amp; Vinit Srivastava SPDJIndices discuss index-based gold hedged strategies: 
+SPDJIndices	690279791728140289	2016-01-21T21:08:21	Valuing Low Volatility: Does Timing Matter?  Indexology equities strategy
+SPDJIndices	690266744942780416	2016-01-21T20:16:31	.SPDJIndices partners with pensions and SWFs on LT index GIC .NZSuperFund .CPPIB .OtppInfo 
+SPDJIndices	690274419617460224	2016-01-21T20:47:00	Question:  Will snowmaggedon2016 keep SPDJIndices from attending InsideETFs this weekend?
+SPDJIndices	690238742808940545	2016-01-21T18:25:14	How are index-based gold hedged strategies being used in the current climate?  
+SPDJIndices	690207479297380353	2016-01-21T16:21:01	More important than you think: 6 sovereign &amp; pension funds invest $2bn in SPDJIndices Long-Term Value Index  FCLT
+SPDJIndices	690217552463712258	2016-01-21T17:01:02	Market Mid-day: Markets | DJU 580.08 +1.05 | GDOW 2093.86 +15.71
+SPDJIndices	690217551381581825	2016-01-21T17:01:02	Market Mid-day: Markets | DJI 16009.31 +242.57 | DJC 5527.19 +60.32 | DJT 6678.22 +52.69
+SPDJIndices	690217550098087942	2016-01-21T17:01:02	Market Mid-day: Markets | SP500 1885.49 +26.16
+SPDJIndices	690181560927133698	2016-01-21T14:38:01	Assess risk/return of single &amp; multi-factor index-based strategies across asset classes. Cape Town &amp; Joburg 2&amp;3 Feb 
+SPDJIndices	690179806617571330	2016-01-21T14:31:03	Market Open: Markets | DJU 580.00 +0.44 | GDOW 2077.66 -5.10
+SPDJIndices	690179805594193920	2016-01-21T14:31:03	Market Open: Markets | DJI 15768.87 +0.72 | DJC 5468.62 -1.89 | DJT 6624.25 -14.26
+SPDJIndices	690179804470079488	2016-01-21T14:31:02	Market Open: Markets | SP500 1861.46 +0.83
+SPDJIndices	689940185631563778	2016-01-20T22:38:53	“Round Up the Usual Suspects”  Indexology blitzersinsights equities sp500djia strategy
+SPDJIndices	689923111551111169	2016-01-20T21:31:02	Market Close: Markets | DJU 579.03 -12.84 | GDOW 2077.73 -52.59
+SPDJIndices	689923110263484417	2016-01-20T21:31:02	Market Close: Markets | DJI 15766.74 -249.28 | DJC 5466.87 -76.69 | DJT 6625.53 -31.67
+SPDJIndices	689923109068095492	2016-01-20T21:31:02	Market Close: Markets | SP500 1859.33 -22.00
+SPDJIndices	689895085027258369	2016-01-20T19:39:40	Where can smartbeta take you? Hear from ShaunWurzbach on Indexology SPDJIForum2016 
+SPDJIndices	689855163780169729	2016-01-20T17:01:02	Market Mid-day: Markets | DJU 576.93 -14.94 | GDOW 2061.45 -68.87
+SPDJIndices	689855162639355904	2016-01-20T17:01:02	Market Mid-day: Markets | DJI 15583.21 -432.81 | DJC 5391.60 -151.96 | DJT 6459.93 -197.27
+SPDJIndices	689855161607589889	2016-01-20T17:01:02	Market Mid-day: Markets | SP500 1828.70 -52.63
+SPDJIndices	689834321767698433	2016-01-20T15:38:13	What areas of investment management are most important for Hevensky to cover at our upcoming event? SPDJIForum2016
+SPDJIndices	689817413995642880	2016-01-20T14:31:02	Market Open: Markets | DJU 589.36 -2.43 | GDOW 2131.01 -42.80
+SPDJIndices	689817412955435010	2016-01-20T14:31:02	Market Open: Markets | DJI 15989.45 -204.49 | DJC 5523.43 -55.90 | DJT 6607.74 -55.64
+SPDJIndices	689817411890122753	2016-01-20T14:31:01	Market Open: Markets | SP500 1876.18 -20.29
+SPDJIndices	689582097518968833	2016-01-19T22:55:58	How Cheap Gasoline Can Lead to Costly Insurance  Indexology fixedincome bondprices bonds
+SPDJIndices	689562496466821120	2016-01-19T21:38:05	Join SPDJIndices for a live webstream on February 24 to learn how financial advisors are managing risk 
+SPDJIndices	689561733766254593	2016-01-19T21:35:03	Where Can SmartBeta Take You? Financial Advisor forum in Miami - 2/24. SPDJIForum2016  
+SPDJIndices	689560726323777536	2016-01-19T21:31:03	Market Close: Markets | DJU 591.87 +9.08 | GDOW 2131.28 +16.60
+SPDJIndices	689560725317099521	2016-01-19T21:31:02	Market Close: Markets | DJI 16016.02 +27.94 | DJC 5543.56 +13.70 | DJT 6657.20 -31.86
+SPDJIndices	689560724079824896	2016-01-19T21:31:02	Market Close: Markets | SP500 1881.33 +1.00
+SPDJIndices	689546358445846528	2016-01-19T20:33:57	Understanding the Risk and Return Drivers of Smart Beta Strategies  Indexology sp500djia
+SPDJIndices	689492778108084225	2016-01-19T17:01:03	Market Mid-day: Markets | DJU 589.52 +6.73 | GDOW 2136.58 +21.90
+SPDJIndices	689492776216489984	2016-01-19T17:01:02	Market Mid-day: Markets | DJI 16090.02 +101.94 | DJC 5568.02 +38.16 | DJT 6722.74 +33.68
+SPDJIndices	689492773968285696	2016-01-19T17:01:02	Market Mid-day: Markets | SP500 1891.09 +10.76
+SPDJIndices	689469986201440256	2016-01-19T15:30:29	How do smartbeta strategies seek to capture &amp; exploit particular investment factors? 
+SPDJIndices	689469426635157505	2016-01-19T15:28:15	“Consumer credit default rates are low and stable." Find out more.  
+SPDJIndices	688506287563386881	2016-01-16T23:41:05	Join SPDJIndices for a live webstream on February 24 to learn how financial advisors are managing risk 
+SPDJIndices	688879505012879361	2016-01-18T00:24:07	Understanding the two distinct sources of market volatility:  Indexology equities SPDJIndices
+SPDJIndices	689428478395977729	2016-01-19T12:45:32	To investment professionals: Join us and SPDJIndices "Can Smart Beta Strategies Unlock Alpha?" JHB 2-Feb CPT 3-Feb 
+SPDJIndices	689198341780049920	2016-01-18T21:31:04	Market Close: Markets | DJU 582.79 -4.63 | GDOW 2115.34 -14.42
+SPDJIndices	689198340844703744	2016-01-18T21:31:03	Market Close: Markets | DJI 15988.08 -390.97 | DJC 5529.86 -107.64 | DJT 6689.06 -110.86
+SPDJIndices	689198339678695424	2016-01-18T21:31:03	Market Close: Markets | SP500 1880.33 -41.51
+SPDJIndices	689147114706763778	2016-01-18T18:07:30	The Rieger Report: Munis Rich or Cheap? It’s all relative  Indexology fixedincome bond
+SPDJIndices	689130387147112448	2016-01-18T17:01:02	Market Mid-day: Markets | DJU 582.79 -4.63 | GDOW 2115.50 -14.26
+SPDJIndices	689130385993773056	2016-01-18T17:01:02	Market Mid-day: Markets | DJI 15988.08 -390.97 | DJC 5529.86 -107.64 | DJT 6689.06 -110.86
+SPDJIndices	689130384848752640	2016-01-18T17:01:01	Market Mid-day: Markets | SP500 1880.33 -41.51
+SPDJIndices	689092643326939137	2016-01-18T14:31:03	Market Open: Markets | DJU 586.53 -4.63 | GDOW 2127.17 -13.12
+SPDJIndices	689092642039279616	2016-01-18T14:31:03	Market Open: Markets | DJI 16354.33 -390.97 | DJC 5623.33 -107.64 | DJT 6763.74 -110.86
+SPDJIndices	689092640428654592	2016-01-18T14:31:02	Market Open: Markets | SP500 1916.68 -41.51
+SPDJIndices	688111174005571585	2016-01-15T21:31:03	Market Close: Markets | DJU 582.79 -4.63 | GDOW 2127.02 -44.59
+SPDJIndices	688111172264968193	2016-01-15T21:31:02	Market Close: Markets | DJI 15988.08 -390.97 | DJC 5529.86 -107.64 | DJT 6689.06 -110.86
+SPDJIndices	688111170322993152	2016-01-15T21:31:02	Market Close: Markets | SP500 1880.29 -41.55
+SPDJIndices	688064599464099841	2016-01-15T18:25:58	U.S. Treasuries: A Higher Chance of Lower Yields  Indexology fixedincome bondyields
+SPDJIndices	687779253237198848	2016-01-14T23:32:06	Harold Evensky, Tom Dorsey, Ben Fulton, Jason Hsu...just some of our agenda. 
+SPDJIndices	688043231892889601	2016-01-15T17:01:04	Market Mid-day: Markets | DJU 580.73 -6.69 | GDOW 2127.04 -44.57
+SPDJIndices	688043230856888322	2016-01-15T17:01:04	Market Mid-day: Markets | DJI 15968.60 -410.45 | DJC 5508.66 -128.84 | DJT 6624.73 -175.19
+SPDJIndices	688043229577621504	2016-01-15T17:01:03	Market Mid-day: Markets | SP500 1874.37 -47.47
+SPDJIndices	688005475082891264	2016-01-15T14:31:02	Market Open: Markets | DJU 586.53 -1.34 | GDOW 2173.02 -33.56
+SPDJIndices	688005474067857409	2016-01-15T14:31:02	Market Open: Markets | DJI 16354.33 -226.71 | DJC 5623.33 -56.90 | DJT 6763.74 -85.70
+SPDJIndices	688005472964755456	2016-01-15T14:31:01	Market Open: Markets | SP500 1916.68 -27.16
+SPDJIndices	687762936832593921	2016-01-14T22:27:16	Recession Angst  Indexology blitzersinsights equities sp500djia strategy recssion
+SPDJIndices	687748785926238209	2016-01-14T21:31:02	Market Close: Markets | DJU 587.42 +8.41 | GDOW 2173.01 +5.42
+SPDJIndices	687748784806309888	2016-01-14T21:31:02	Market Close: Markets | DJI 16379.05 +227.64 | DJC 5637.50 +75.29 | DJT 6799.92 +78.55
+SPDJIndices	687748783585779712	2016-01-14T21:31:02	Market Close: Markets | SP500 1921.84 +31.56
+SPDJIndices	687730501298339841	2016-01-14T20:18:23	Why Choosing Between Managers Requires a Two-Dimensional View – Part 2  Indexology
+SPDJIndices	687680840780922880	2016-01-14T17:01:03	Market Mid-day: Markets | DJU 585.13 +6.12 | GDOW 2168.10 +0.51
+SPDJIndices	687680839686197248	2016-01-14T17:01:03	Market Mid-day: Markets | DJI 16362.20 +210.79 | DJC 5615.02 +52.81 | DJT 6729.35 +7.98
+SPDJIndices	687680838587289600	2016-01-14T17:01:03	Market Mid-day: Markets | SP500 1913.38 +23.10
+SPDJIndices	687643091159937024	2016-01-14T14:31:03	Market Open: Markets | DJU 578.89 +1.19 | GDOW 2169.19 -8.97
+SPDJIndices	687643089729499138	2016-01-14T14:31:03	Market Open: Markets | DJI 16159.01 +76.91 | DJC 5565.58 +22.66 | DJT 6731.03 +26.53
+SPDJIndices	687643088492314624	2016-01-14T14:31:02	Market Open: Markets | SP500 1891.68 +7.73
+SPDJIndices	687386404465328130	2016-01-13T21:31:04	Market Close: Markets | DJU 579.01 -0.48 | GDOW 2169.20 -13.58
+SPDJIndices	687386403064393730	2016-01-13T21:31:04	Market Close: Markets | DJI 16151.41 -364.81 | DJC 5562.21 -127.38 | DJT 6721.37 -256.84
+SPDJIndices	687386401801924608	2016-01-13T21:31:03	Market Close: Markets | SP500 1890.28 -48.40
+SPDJIndices	687318270836391936	2016-01-13T17:00:20	Come and hear about how SPDJIndices RealAssets index is redefining the space. It's the first to include bonds!   
+SPDJIndices	687318452995002370	2016-01-13T17:01:03	Market Mid-day: Markets | DJU 582.58 +3.09 | GDOW 2188.59 +5.81
+SPDJIndices	687318451963215873	2016-01-13T17:01:03	Market Mid-day: Markets | DJI 16422.85 -93.37 | DJC 5646.96 -42.63 | DJT 6841.71 -136.50
+SPDJIndices	687318450801393664	2016-01-13T17:01:03	Market Mid-day: Markets | SP500 1927.81 -10.87
+SPDJIndices	687297576786366466	2016-01-13T15:38:06	The Sources of Volatility and the Challenge for Active Management  Indexology equities
+SPDJIndices	687281907025985536	2016-01-13T14:35:50	What's next for smartbeta in 2016? SPDJIForum2016 CE Credits Available.   
+SPDJIndices	687280702711279617	2016-01-13T14:31:03	Market Open: Markets | DJU 579.88 +1.06 | GDOW 2184.30 +21.31
+SPDJIndices	687280701524279296	2016-01-13T14:31:02	Market Open: Markets | DJI 16526.63 +40.82 | DJC 5694.44 +12.91 | DJT 6988.20 +14.74
+SPDJIndices	687280700270211073	2016-01-13T14:31:02	Market Open: Markets | SP500 1940.34 +5.89
+SPDJIndices	687276103203946497	2016-01-13T14:12:46	Does the performance in the first 7 days of the year matter to investors who intend to hold through to year-end? 
+SPDJIndices	687275165164695552	2016-01-13T14:09:02	Oilprices are falling at an alarming rate.  Hear from JodieGunzberg on Indexology.  
+SPDJIndices	687274044438216705	2016-01-13T14:04:35	22% of mutualfunds in bottom quartile in one 12 months period bounced back to top half in one of next two periods. Via SPDJIndices.
+SPDJIndices	687045108181655553	2016-01-12T22:54:53	Oil Prices Falling At An Alarming Rate  Indexology commodities commodities jodiegunzberg
+SPDJIndices	687024011134529537	2016-01-12T21:31:03	Market Close: Markets | DJU 579.49 -2.72 | GDOW 2185.00 +2.00
+SPDJIndices	687024010102714368	2016-01-12T21:31:02	Market Close: Markets | DJI 16516.22 +117.65 | DJC 5689.59 +32.09 | DJT 6978.21 +63.65
+SPDJIndices	687024009079296000	2016-01-12T21:31:02	Market Close: Markets | SP500 1938.68 +15.01
+SPDJIndices	686995547031474176	2016-01-12T19:37:56	SPGSCI crudeoil ER broke 2 bottoms today, erasing another 10 years. New 27 yr low since Mar 1989! SPDJIndices 
+SPDJIndices	686994685290745856	2016-01-12T19:34:31	Where Can Smart Beta Take You? Our FA Forum Is Coming to an Internet Near You  Indexology
+SPDJIndices	686989406113251328	2016-01-12T19:13:32	How does smartbeta work? @StovallSPCAPIQ will share some of his 7 Rules of Wall Street.  
+SPDJIndices	686938912619507712	2016-01-12T15:52:54	.GiraldaAdvisors' Jerry Miccolis shares indexing tools for riskmanagement:  (via SPDJIndices)
+SPDJIndices	686956060683427840	2016-01-12T17:01:02	Market Mid-day: Markets | DJU 578.20 -4.01 | GDOW 2177.43 -5.57
+SPDJIndices	686956059290906624	2016-01-12T17:01:02	Market Mid-day: Markets | DJI 16411.17 +12.60 | DJC 5656.92 -0.58 | DJT 6931.43 +16.87
+SPDJIndices	686956057705492481	2016-01-12T17:01:01	Market Mid-day: Markets | SP500 1927.43 +3.76
+SPDJIndices	686942870620737537	2016-01-12T16:08:37	Why Choosing Between Managers Requires a Two-Dimensional View  Indexology equities taxaware
+SPDJIndices	686921728862257153	2016-01-12T14:44:37	Jerry Miccolis' indexing tools for riskmanagement, complex strategies from basic building blocks:  via SPDJIndices
+SPDJIndices	686918316397576192	2016-01-12T14:31:03	Market Open: Markets | DJU 582.94 +0.81 | GDOW 2182.59 +8.77
+SPDJIndices	686918314799542273	2016-01-12T14:31:03	Market Open: Markets | DJI 16419.11 +121.90 | DJC 5666.58 +36.12 | DJT 6932.35 +51.53
+SPDJIndices	686918313721606144	2016-01-12T14:31:02	Market Open: Markets | SP500 1927.83 +12.89
+SPDJIndices	686917250943741952	2016-01-12T14:26:49	Worst Crude Oil Start In History: Or Best Rebalance? JodieGunzberg Indexology commodities  
+SPDJIndices	686734393411563520	2016-01-12T02:20:12	Research finds that most factor anomalies are not persistent   via SPDJIndices CraigLazzara 
+SPDJIndices	686885809073553408	2016-01-12T12:21:53	Smart Beta on the Rise in India  Indexology equities factorindices spbsesensex smartbeta
+SPDJIndices	686850134580326400	2016-01-12T10:00:07	Can smart beta strategies unlock alpha? Complimentary events in Cape Town &amp; Joburg 2&amp;3 Feb  
+SPDJIndices	686710617646956544	2016-01-12T00:45:44	Worst Crude Oil Start In History: Or Best Rebalance?  Indexology commodities commodities
+SPDJIndices	686652325004443648	2016-01-11T20:54:06	.SPDJIndices on why low volatility investing isn't what it used to be  Indexology equities 
+SPDJIndices	686661619959656448	2016-01-11T21:31:02	Market Close: Markets | DJU 582.21 +3.39 | GDOW 2182.56 -6.92
+SPDJIndices	686661618726469633	2016-01-11T21:31:02	Market Close: Markets | DJI 16398.57 +52.12 | DJC 5657.50 +8.84 | DJT 6914.56 -31.80
+SPDJIndices	686661617375952896	2016-01-11T21:31:01	Market Close: Markets | SP500 1923.67 +1.64
+SPDJIndices	685127783203389441	2016-01-07T15:56:07	.SPDJIndices challenge for a New Year's Resolution: Lose Weight…in Carbon  Indexology 
+SPDJIndices	686593675330252802	2016-01-11T17:01:03	Market Mid-day: Markets | DJU 584.37 +5.55 | GDOW 2184.31 -5.17
+SPDJIndices	686593674113888257	2016-01-11T17:01:02	Market Mid-day: Markets | DJI 16394.77 +48.32 | DJC 5656.69 +8.03 | DJT 6898.11 -48.25
+SPDJIndices	686593672910094336	2016-01-11T17:01:02	Market Mid-day: Markets | SP500 1923.63 +1.60
+SPDJIndices	686578407732297728	2016-01-11T16:00:23	What is SPIVA?  
+SPDJIndices	686577895079329792	2016-01-11T15:58:20	What is the "Portfolio Problem" and how does it arise? Find out on Indexology advisors 
+SPDJIndices	686576399185002496	2016-01-11T15:52:24	Using Indexing Tools for Risk Management — Sophisticated Strategies from Basic…  Indexology
+SPDJIndices	686555927634378752	2016-01-11T14:31:03	Market Open: Markets | DJU 579.50 +1.95 | GDOW 2190.33 +8.00
+SPDJIndices	686555926690676738	2016-01-11T14:31:03	Market Open: Markets | DJI 16358.71 +91.98 | DJC 5656.04 +29.95 | DJT 6964.14 +38.16
+SPDJIndices	686555925298163712	2016-01-11T14:31:02	Market Open: Markets | SP500 1926.12 +10.94
+SPDJIndices	686439560453189632	2016-01-11T06:48:39	Sukuk Market in 2015: Year in Review  Indexology fixedincome
+SPDJIndices	685574455855296512	2016-01-08T21:31:02	Market Close: Markets | DJU 578.82 +1.31 | GDOW 2189.79 -15.73
+SPDJIndices	685574454781587456	2016-01-08T21:31:02	Market Close: Markets | DJI 16346.45 -167.65 | DJC 5648.66 -40.96 | DJT 6946.36 -49.03
+SPDJIndices	685574452638314496	2016-01-08T21:31:01	Market Close: Markets | SP500 1922.03 -21.06
+SPDJIndices	685572674656014339	2016-01-08T21:23:57	Where can smartbeta take you? Livestreamed webcast - 2/24. CE Credits Available. advisors  
+SPDJIndices	685511069155094529	2016-01-08T17:19:09	Sector Diversification: A Better Way to Track the Chinese Equity Market?  Indexology
+SPDJIndices	685506510873583616	2016-01-08T17:01:02	Market Mid-day: Markets | DJU 580.91 +3.40 | GDOW 2200.09 -5.43
+SPDJIndices	685506509921456128	2016-01-08T17:01:02	Market Mid-day: Markets | DJI 16538.31 +24.21 | DJC 5706.37 +16.75 | DJT 7024.75 +29.36
+SPDJIndices	685506508910686209	2016-01-08T17:01:02	Market Mid-day: Markets | SP500 1944.04 +0.95
+SPDJIndices	685468759700672512	2016-01-08T14:31:02	Market Open: Markets | DJI 16519.17 +77.18 | DJC 5694.20 +19.85 | DJT 7011.11 +17.24
+SPDJIndices	685468758740189184	2016-01-08T14:31:02	Market Open: Markets | SP500 1945.97 +9.80
+SPDJIndices	685445498208124929	2016-01-08T12:58:36	As goes the first week, so goes …  Indexology equities strategy indexperformance january
+SPDJIndices	685308839223099392	2016-01-08T03:55:34	Asia Fixed Income: 2015 Pan Asia Report Card  Indexology fixedincome 2015bondperformance
+SPDJIndices	685234647207440388	2016-01-07T23:00:45	China’s Stock Market and Its Currency  Indexology blitzersinsights equities strategy rmb
+SPDJIndices	685212068828561410	2016-01-07T21:31:02	Market Close: Markets | DJU 577.51 -2.99 | GDOW 2211.29 -44.07
+SPDJIndices	685212067859689480	2016-01-07T21:31:02	Market Close: Markets | DJI 16514.10 -392.41 | DJC 5689.62 -129.27 | DJT 6995.39 -221.66
+SPDJIndices	685212066462961664	2016-01-07T21:31:01	Market Close: Markets | SP500 1943.09 -47.17
+SPDJIndices	685185910313455618	2016-01-07T19:47:05	Not Your Father’s Low Volatility #Strategy  Indexology equities feimeichan
+SPDJIndices	685144125532946432	2016-01-07T17:01:03	Market Mid-day: Markets | DJU 577.88 -2.62 | GDOW 2219.56 -35.80
+SPDJIndices	685144124383715328	2016-01-07T17:01:03	Market Mid-day: Markets | DJI 16697.02 -209.49 | DJC 5741.15 -77.74 | DJT 7066.54 -150.51
+SPDJIndices	685144117907734530	2016-01-07T17:01:01	Market Mid-day: Markets | SP500 1964.56 -25.70
+SPDJIndices	685106375748378628	2016-01-07T14:31:03	Market Open: Markets | DJU 577.64 -4.91 | GDOW 2256.45 -40.94
+SPDJIndices	685106374657839104	2016-01-07T14:31:03	Market Open: Markets | DJI 16888.36 -228.22 | DJC 5803.61 -68.97 | DJT 7185.01 -75.95
+SPDJIndices	685106373231820800	2016-01-07T14:31:02	Market Open: Markets | SP500 1985.32 -24.14
+SPDJIndices	684849682451968000	2016-01-06T21:31:02	Market Close: Markets | DJU 580.50 -0.47 | GDOW 2257.26 -26.43
+SPDJIndices	684849681294356480	2016-01-06T21:31:02	Market Close: Markets | DJI 16906.51 -252.15 | DJC 5818.89 -81.62 | DJT 7217.05 -146.90
+SPDJIndices	684849680208019456	2016-01-06T21:31:02	Market Close: Markets | SP500 1990.26 -26.45
+SPDJIndices	684794870045753344	2016-01-06T17:53:14	What's driving the oil price down to its lowest level in 11 years? JodieGunzberg SPDJIndices 
+SPDJIndices	684781739512860672	2016-01-06T17:01:03	Market Mid-day: Markets | DJU 578.92 -2.05 | GDOW 2260.43 -23.26
+SPDJIndices	684781738506227713	2016-01-06T17:01:03	Market Mid-day: Markets | DJI 16947.70 -210.96 | DJC 5834.84 -65.67 | DJT 7265.85 -98.10
+SPDJIndices	684781737319231489	2016-01-06T17:01:03	Market Mid-day: Markets | SP500 1995.54 -21.17
+SPDJIndices	684768835669508096	2016-01-06T16:09:47	New Year’s Resolution: Lose Weight…in Carbon  Indexology uncategorized
+SPDJIndices	684756904875278336	2016-01-06T15:22:22	New year’s resolution from Trucost is to lose weight ... in carbon. Read more on Indexology. 
+SPDJIndices	684711362421993472	2016-01-06T12:21:24	Our post “DJSI: A Journey Toward Sustainability and Beyond” is one of the most-read on SPDJIndices’ Indexology! 
+SPDJIndices	684743986704179200	2016-01-06T14:31:03	Market Open: Markets | DJU 578.96 -3.27 | GDOW 2285.64 -27.75
+SPDJIndices	684743985693376512	2016-01-06T14:31:02	Market Open: Markets | DJI 17154.83 -161.62 | DJC 5890.04 -52.32 | DJT 7334.80 -71.36
+SPDJIndices	684743984267313152	2016-01-06T14:31:02	Market Open: Markets | SP500 2011.71 -19.35
+SPDJIndices	684490913075343360	2016-01-05T21:45:25	The S&amp;P 500’s Flat Year  Indexology sp500djia craiglazzara currency
+SPDJIndices	684487293126709249	2016-01-05T21:31:02	Market Close: Markets | DJU 580.97 +3.49 | GDOW 2285.54 +0.91
+SPDJIndices	684487292115914753	2016-01-05T21:31:02	Market Close: Markets | DJI 17158.66 +9.72 | DJC 5900.51 +10.22 | DJT 7363.95 +11.36
+SPDJIndices	684487291033808897	2016-01-05T21:31:01	Market Close: Markets | SP500 2016.71 +4.05
+SPDJIndices	684483671374610432	2016-01-05T21:16:39	Most-Read Blog Posts Q4 2015  Indexology commodities equities fixedincome india
+SPDJIndices	684419348077916160	2016-01-05T17:01:03	Market Mid-day: Markets | DJU 577.63 +0.15 | GDOW 2280.96 -3.67
+SPDJIndices	684419347016749057	2016-01-05T17:01:02	Market Mid-day: Markets | DJI 17092.82 -56.12 | DJC 5870.61 -19.68 | DJT 7310.74 -41.85
+SPDJIndices	684419346014334976	2016-01-05T17:01:02	Market Mid-day: Markets | SP500 2011.10 -1.56
+SPDJIndices	684418838855860225	2016-01-05T16:59:01	What were the most-read Indexology posts of Q4 2015? equities fixedincome commodities  
+SPDJIndices	684381601594249217	2016-01-05T14:31:03	Market Open: Markets | DJU 577.30 -0.66 | GDOW 2285.84 +2.06
+SPDJIndices	684381600549875712	2016-01-05T14:31:03	Market Open: Markets | DJI 17147.50 +4.52 | DJC 5891.79 +2.37 | DJT 7362.09 +13.82
+SPDJIndices	684381599270572032	2016-01-05T14:31:03	Market Open: Markets | SP500 2013.78 +3.11
+SPDJIndices	684124907144347648	2016-01-04T21:31:02	Market Close: Markets | DJU 577.48 -0.34 | GDOW 2286.23 -50.20
+SPDJIndices	684124906070642688	2016-01-04T21:31:02	Market Close: Markets | DJI 17148.94 -276.09 | DJC 5890.29 -88.05 | DJT 7352.59 -156.12
+SPDJIndices	684124904938143744	2016-01-04T21:31:02	Market Close: Markets | SP500 2012.66 -31.28
+SPDJIndices	684056958526210048	2016-01-04T17:01:02	Market Mid-day: Markets | DJU 572.94 -4.88 | GDOW 2274.71 -61.72
+SPDJIndices	684056957515382785	2016-01-04T17:01:02	Market Mid-day: Markets | DJI 16996.73 -428.30 | DJC 5847.76 -130.58 | DJT 7327.55 -181.16
+SPDJIndices	684056956458414080	2016-01-04T17:01:02	Market Mid-day: Markets | SP500 1996.26 -47.68
+SPDJIndices	684055836742815744	2016-01-04T16:56:35	Dow Jones Industrial Average – 2015 Year in Review  Indexology equities sp500djia djia
+SPDJIndices	684039999248035840	2016-01-04T15:53:39	The DJIA ended 2015 at 17,425.03, down 398.04 points on the year for a -2.23% annual return  
+SPDJIndices	684020525727879168	2016-01-04T14:36:16	What was energy’s impact across markets in 2015? Hear from J.R. Rieger, hsilverb &amp; JodieGunzberg. 
+SPDJIndices	684019209538387969	2016-01-04T14:31:02	Market Open: Markets | DJU 574.51 -2.98 | GDOW 2336.61 -40.47
+SPDJIndices	684019208347320324	2016-01-04T14:31:02	Market Open: Markets | DJI 17405.48 -235.82 | DJC 5965.23 -70.16 | DJT 7491.41 -90.22
+SPDJIndices	684019206912917504	2016-01-04T14:31:02	Market Open: Markets | SP500 2038.20 -25.96
+SPDJIndices	683967612016062464	2016-01-04T11:06:00	The Rieger Report: 500 Index Sectors – Final 2015 Results  Indexology fixedincome bond
+SPDJIndices	683944604614422528	2016-01-04T09:34:35	2015’s Rising Tide of ETFs in India  Indexology equities spbsesensex
+SPDJIndices	683852198476943360	2016-01-04T03:27:24	The Commodity Catastrophe of 2015  Indexology commodities commodities djci
+SPDJIndices	683695539888754689	2016-01-03T17:04:53	The Rieger Report: Municipal Bonds – In volatile markets boring did the job  Indexology
+SPDJIndices	683060798818783232	2016-01-01T23:02:39	The Rieger Report: Bonds in 2016?  Indexology fixedincome bond fixedincome highyield
+SPDJIndices	683037740066320384	2016-01-01T21:31:02	Market Close: Markets | DJU 577.82 -6.68 | GDOW 2336.45 +0.05
+SPDJIndices	683037739080630273	2016-01-01T21:31:01	Market Close: Markets | DJI 17425.03 -178.84 | DJC 5978.34 -52.07 | DJT 7508.71 -28.69
+SPDJIndices	683037738090770432	2016-01-01T21:31:01	Market Close: Markets | SP500 2043.94 -19.42
+SPDJIndices	682969795147509760	2016-01-01T17:01:02	Market Mid-day: Markets | DJU 577.82 -6.68 | GDOW 2336.45 +0.05
+SPDJIndices	682969794056990720	2016-01-01T17:01:02	Market Mid-day: Markets | DJI 17425.03 -178.84 | DJC 5978.34 -52.07 | DJT 7508.71 -28.69
+SPDJIndices	682969792765128704	2016-01-01T17:01:02	Market Mid-day: Markets | SP500 2043.94 -19.42
+SPDJIndices	682932046453424128	2016-01-01T14:31:02	Market Open: Markets | DJU 583.99 -6.68 | GDOW 2336.30 +0.05
+SPDJIndices	682932045518106624	2016-01-01T14:31:02	Market Open: Markets | DJI 17590.66 -178.84 | DJC 6024.42 -52.07 | DJT 7525.52 -28.69
+SPDJIndices	682932043945263104	2016-01-01T14:31:02	Market Open: Markets | SP500 2060.59 -19.42
+SPDJIndices	682675354985730051	2015-12-31T21:31:02	Market Close: Markets | DJU 577.82 -6.68 | GDOW 2336.79 -16.02
+SPDJIndices	682675354037825536	2015-12-31T21:31:02	Market Close: Markets | DJI 17425.03 -178.84 | DJC 5978.34 -52.07 | DJT 7508.71 -28.69
+SPDJIndices	682675352972439553	2015-12-31T21:31:02	Market Close: Markets | SP500 2043.94 -19.42
+SPDJIndices	682607407038656513	2015-12-31T17:01:02	Market Mid-day: Markets | DJU 576.64 -7.86 | GDOW 2343.86 -8.95
+SPDJIndices	682607406078115840	2015-12-31T17:01:02	Market Mid-day: Markets | DJI 17546.76 -57.11 | DJC 6009.06 -21.35 | DJT 7550.61 +13.21
+SPDJIndices	682607405016940545	2015-12-31T17:01:02	Market Mid-day: Markets | SP500 2057.59 -5.77
+SPDJIndices	682569661406380032	2015-12-31T14:31:03	Market Open: Markets | DJU 583.99 -1.41 | GDOW 2353.15 -10.24
+SPDJIndices	682569660408147968	2015-12-31T14:31:03	Market Open: Markets | DJI 17590.66 -79.23 | DJC 6024.42 -25.35 | DJT 7525.52 -35.09
+SPDJIndices	682569659288260609	2015-12-31T14:31:02	Market Open: Markets | SP500 2060.59 -9.38
+SPDJIndices	682312966667153408	2015-12-30T21:31:02	Market Close: Markets | DJU 584.50 -0.61 | GDOW 2353.88 -13.75
+SPDJIndices	682312965589233665	2015-12-30T21:31:02	Market Close: Markets | DJI 17603.87 -117.11 | DJC 6030.41 -41.66 | DJT 7537.40 -82.38
+SPDJIndices	682312964293177344	2015-12-30T21:31:02	Market Close: Markets | SP500 2063.36 -15.00
+SPDJIndices	682253973064159234	2015-12-30T17:36:37	The Rieger Report: S&amp;P 500 &amp; Investment Grade Munis – Neck &amp; Neck  Indexology fixedincome
+SPDJIndices	682245019609219073	2015-12-30T17:01:02	Market Mid-day: Markets | DJU 584.12 -0.99 | GDOW 2356.97 -10.66

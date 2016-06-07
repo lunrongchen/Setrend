@@ -1,0 +1,750 @@
+Selerity	726093930551496704	2016-04-29T17:00:57	BREAKING: Weekly U.S. Oil Rig Count Change (Baker Hughes) for April 29 is (11). OIL
+Selerity	726077077733134336	2016-04-29T15:53:59	Earnings Preview: Herbalife Ltd. Q1 2016 HLF  
+Selerity	726073621609873410	2016-04-29T15:40:15	Earnings Preview:  Q1 2016 PCLN  
+Selerity	726068475207229440	2016-04-29T15:19:48	Earnings Preview: Whole Foods Market Q2 2016 WFM  
+Selerity	726063629276172289	2016-04-29T15:00:33	Earnings Preview: Tesla Motors Q1 2016 TSLA  
+Selerity	726057541743087616	2016-04-29T14:36:22	April Monthly Auto Sales Preview: Ford F and General Motors GM  
+Selerity	726048394314129408	2016-04-29T14:00:01	BREAKING: University of Michigan Sentiment (April-Final), 89 vs. 90 expected. USD
+Selerity	726019146840944641	2016-04-29T12:03:48	BREAKING: Exxon Mobil XOM Q1 Revenue, $48.71B vs. $45.42B expected
+Selerity	726019100061868032	2016-04-29T12:03:36	BREAKING: Exxon Mobil XOM Q1 Earnings Per Share (EPS) beats estimates, $0.43 vs. $0.31 expected
+Selerity	725859789549481984	2016-04-29T01:30:34	BREAKING: Australian Producer Price Index (Y/Y), Q1 1.2%, Q4 1.9%. AUD
+Selerity	725859786793861120	2016-04-29T01:30:33	BREAKING: Australian Producer Price Index (Q/Q), Q1   (0.2%) vs. 0.2% expected. AUD
+Selerity	725784513452904449	2016-04-28T20:31:27	BREAKING:  BIDU Q1 Revenue, $2.45B
+Selerity	725784512509140993	2016-04-28T20:31:26	BREAKING:  BIDU Q1 Non-GAAP Earnings Per Share (EPS), $1.06
+Selerity	725780380104663040	2016-04-28T20:15:01	BREAKING: Juniper JNPR Q1 Revenue, $1.1B vs. $1.12B expected
+Selerity	725780379211325440	2016-04-28T20:15:01	BREAKING: Juniper JNPR Q1 Non-GAAP Earnings Per Share (EPS) misses estimates, $0.37 vs. $0.38 expected
+Selerity	725777976814632960	2016-04-28T20:05:28	BREAKING: Groupon GRPN Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, ($0.01) vs. ($0.02) expected
+Selerity	725777976034471937	2016-04-28T20:05:28	BREAKING: Groupon GRPN Q1 Revenue, $731.97M vs. $717.52M expected
+Selerity	725777899517804544	2016-04-28T20:05:10	BREAKING: LinkedIn LNKD Q1 Revenue, $860.65M vs. $828.47M expected
+Selerity	725777898616066048	2016-04-28T20:05:09	BREAKING: LinkedIn LNKD Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.74 vs. $0.6 expected
+Selerity	725777419752361985	2016-04-28T20:03:15	BREAKING: Expedia EXPE Q1 Adjusted Earnings Per Share (EPS) beats estimates, $0.09 vs. ($0.06) expected
+Selerity	725776976967929857	2016-04-28T20:01:30	BREAKING: Amazon AMZN Q1 Revenue, $29.13B vs. $27.99B expected
+Selerity	725776975407652864	2016-04-28T20:01:29	BREAKING: Amazon AMZN Q1 Earnings Per Share (EPS) beats estimates, $1.07 vs. $0.58 expected
+Selerity	725776944424316929	2016-04-28T20:01:22	BREAKING: Expedia EXPE Q1 Revenue, $1.9B vs. $1.84B expected
+Selerity	725693556065734656	2016-04-28T14:30:01	BREAKING: U.S. DOE Natural Gas Inventories Weekly Change for April 22 is 73B. NATGAS
+Selerity	725655911512023040	2016-04-28T12:00:25	BREAKING: Travelzoo TZOO Q1 Revenue, $34.8M vs. $37.58M expected
+Selerity	725655354009391104	2016-04-28T11:58:13	BREAKING: MasterCard MA Q1 Revenue, $2.45B vs. $2.38B expected
+Selerity	725641955372326912	2016-04-28T11:04:58	BREAKING: Ford Motor F Q1 Revenue, $37.7B vs. $35.69B expected
+Selerity	725640828962660352	2016-04-28T11:00:30	BREAKING: Ford Motor F Q1 Earnings Per Share (EPS) Excluding Items beats estimates, $0.68 vs. $0.46 expected
+Selerity	725637082165743616	2016-04-28T10:45:36	BREAKING: Dow Chemical DOW Q1 Revenue, $10.7B vs. $10.66B expected
+Selerity	725637081444306944	2016-04-28T10:45:36	BREAKING: Dow Chemical DOW Q1 Adjusted Earnings Per Share (EPS) beats estimates, $0.89 vs. $0.83 expected
+Selerity	725628846473498625	2016-04-28T10:12:53	BREAKING: Time Warner Cable TWC Q1 Revenue, $6.19B vs. $6.14B expected
+Selerity	725625958909239296	2016-04-28T10:01:24	BREAKING: Dunkin' Brands DNKN Q1 Revenue, $189.78M vs. $188M expected
+Selerity	725625958309441536	2016-04-28T10:01:24	BREAKING: Dunkin' Brands DNKN Q1 Adjusted Earnings Per Share (EPS) beats estimates, $0.44 vs. $0.43 expected
+Selerity	725625813241073666	2016-04-28T10:00:50	BREAKING: Time Warner Cable TWC Q1 Adjusted Earnings Per Share (EPS) beats estimates, $1.81 vs. $1.74 expected
+Selerity	725415069320908800	2016-04-27T20:03:24	BREAKING: Facebook FB Q1 Mobile Monthly Active Users, 1.51B
+Selerity	725415068612042752	2016-04-27T20:03:24	BREAKING: Facebook FB Q1 Monthly Active Users, 1.65B
+Selerity	725415067810979840	2016-04-27T20:03:24	BREAKING: Facebook FB Q1 Revenue, $5.38B vs. $5.26B expected
+Selerity	725415066892402688	2016-04-27T20:03:24	BREAKING: Facebook FB Q1 Daily Active Users, 1.09B
+Selerity	725415066049347584	2016-04-27T20:03:23	BREAKING: Facebook FB Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.77 vs. $0.62 expected
+Selerity	725414527584604160	2016-04-27T20:01:15	BREAKING: Netgear NTGR Q1 Revenue, $310.26M vs. $298.59M expected
+Selerity	725414526317920256	2016-04-27T20:01:15	BREAKING: Netgear NTGR Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.74 vs. $0.6 expected
+Selerity	725384001297473536	2016-04-27T17:59:57	USD Fed's Statement: 
+Selerity	725331172050481153	2016-04-27T14:30:02	BREAKING: U.S. DOE Distillate Inventories 04/22 Weekly Change: (1.7M). OIL
+Selerity	725331170947375104	2016-04-27T14:30:01	BREAKING: U.S. DOE Gasoline Inventories 04/22 Weekly Change: 1.61M. OIL
+Selerity	725331170033078273	2016-04-27T14:30:01	BREAKING: U.S. DOE Crude Oil Inventories 04/22 Weekly Change: 2M. OIL
+Selerity	725285924985262082	2016-04-27T11:30:14	BREAKING: Boeing BA Q1 Revenue, $22.63B vs. $21.44B expected
+Selerity	725285924184150016	2016-04-27T11:30:14	BREAKING: Boeing BA Q1 Adjusted Earnings Per Share (EPS) misses estimates, $1.74 vs. $1.83 expected
+Selerity	725278524664369152	2016-04-27T11:00:49	BREAKING: Comcast CMCSA Q1 Revenue, $18.79B vs. $18.64B expected
+Selerity	725278523863261184	2016-04-27T11:00:49	BREAKING: Comcast CMCSA Q1 Earnings Per Share (EPS) Excluding Items beats estimates, $0.84 vs. $0.79 expected
+Selerity	725134900412690434	2016-04-27T01:30:07	BREAKING: Australian Q1 Consumer Price Index Y/Y, 1.3% vs. 1.8% expected. AUD
+Selerity	725134889155203074	2016-04-27T01:30:04	BREAKING: Australian Q1 Consumer Price Index Q/Q, (0.2%) vs. 0.3% expected. AUD
+Selerity	725134878824603650	2016-04-27T01:30:02	BREAKING: Australian Q1 Consumer Price Index Trimmed Mean Q/Q, 0.2% vs. 0.5% expected. AUD
+Selerity	725066268374605824	2016-04-26T20:57:24	willtylko Factset had 317M but that may have been incorrect as 3rd party data suggested 309M and 307M was being talked about.
+Selerity	725059504287678466	2016-04-26T20:30:31	BREAKING: Apple AAPL Q2 iPad Shipments: 10.25M.
+Selerity	725059503201329153	2016-04-26T20:30:31	BREAKING: Apple AAPL Q2 Earnings Per Share (EPS) misses estimates, $1.9 vs. $2 expected
+Selerity	725059501817233408	2016-04-26T20:30:30	BREAKING: Apple AAPL Q2 iPhone Shipments, 51.19M vs. 50M expected
+Selerity	725059500487614464	2016-04-26T20:30:30	BREAKING: Apple AAPL Q2 Revenue, $50.56B vs. $51.97B expected
+Selerity	725059499464216576	2016-04-26T20:30:30	BREAKING: Chipotle Mexican Grill CMG Q1 Revenue, $834.46M vs. $868.52M expected
+Selerity	725059498268852224	2016-04-26T20:30:29	BREAKING: Chipotle Mexican Grill CMG Q1 Earnings Per Share (EPS), ($0.88) vs. ($0.94) expected
+Selerity	725055809273630720	2016-04-26T20:15:50	BREAKING: Twitter TWTR Q1 Revenue, $594.52M vs. $607.84M expected
+Selerity	725055711114309633	2016-04-26T20:15:27	BREAKING: eBay EBAY Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.47 vs. $0.45 expected
+Selerity	725055710187409409	2016-04-26T20:15:26	BREAKING: eBay EBAY Q1 Revenue, $2.14B vs. $2.08B expected
+Selerity	725054811767476224	2016-04-26T20:11:52	BREAKING: Twitter TWTR Q1 Mobile Monthly Active Users (MAUs), 257.3M vs. 254M expected
+Selerity	725054810924433409	2016-04-26T20:11:52	BREAKING: Twitter TWTR Q1 Average Monthly Active Users (MAUs), 310M vs. 317M expected
+Selerity	725054810127499267	2016-04-26T20:11:52	BREAKING: Twitter TWTR Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.15 vs. $0.1 expected
+Selerity	725052108312055808	2016-04-26T20:01:08	BREAKING: Panera Bread PNRA Q1 Revenue, $685.15M vs. $673.9M expected
+Selerity	725052106877624321	2016-04-26T20:01:07	BREAKING: Panera Bread PNRA Q1 Earnings Per Share (EPS) Excluding Items beats estimates, $1.56 vs. $1.5 expected
+Selerity	724961238401335296	2016-04-26T14:00:03	BREAKING: Conference Board April Consumer Confidence, 94.2 vs. 96 expected. USD
+Selerity	724916019186245633	2016-04-26T11:00:21	BREAKING: Procter &amp; Gamble PG Q3 Revenue, $15.8B vs. $15.81B expected
+Selerity	724916018318086145	2016-04-26T11:00:21	BREAKING: Procter &amp; Gamble PG Q3 Adjusted Earnings Per Share (EPS) beats estimates, $0.86 vs. $0.82 expected
+Selerity	724652368617418752	2016-04-25T17:32:42	Earnings Preview: Groupon Q1 2016 GRPN  
+Selerity	724606462148927488	2016-04-25T14:30:17	BREAKING: Dallas Fed Manufacturing Business Activity Index: April (13.9), March (13.6). USD
+Selerity	723569522934837249	2016-04-22T17:49:52	Earnings Preview: Expedia Q1 2016 EXPE  
+Selerity	723557082486677504	2016-04-22T17:00:26	BREAKING: Weekly U.S. Oil Rig Count Change (Baker Hughes) for April 22: (8). OIL
+Selerity	723539436504514560	2016-04-22T15:50:19	Earnings Preview:  Q1 2016 AMZN  
+Selerity	723537371497672709	2016-04-22T15:42:06	Earnings Preview: LinkedIn Q1 2016 LNKD  
+Selerity	723534536185929728	2016-04-22T15:30:50	Earnings Preview: Juniper Networks Q1 2016 JNPR  
+Selerity	723490834579132416	2016-04-22T12:37:11	asianarbalot lost 1c for GAAP
+Selerity	723481198517997569	2016-04-22T11:58:54	BREAKING: McDonald's MCD Q1 Revenue, $5.9B vs. $5.82B expected
+Selerity	723481198081761281	2016-04-22T11:58:53	BREAKING: McDonald's MCD Q1 Earnings Per Share (EPS), $1.23 vs. $1.16 expected
+Selerity	723474271947886592	2016-04-22T11:31:22	BREAKING: Caterpillar CAT Q1 Revenue, $9.46B vs. $9.39B expected
+Selerity	723474271171973120	2016-04-22T11:31:22	BREAKING: Caterpillar CAT Q1 Earnings Per Share (EPS) Excluding Items misses estimates, $0.67 vs. $0.68 expected
+Selerity	723459797778096128	2016-04-22T10:33:51	BREAKING: General Electric GE Q1 Revenue, $27.6B vs. $27.67B expected
+Selerity	723458968316719104	2016-04-22T10:30:33	BREAKING: General Electric GE Q1 Adjusted Earnings Per Share (EPS) beats estimates, $0.21 vs. $0.19 expected
+Selerity	723246176531800064	2016-04-21T20:25:00	BREAKING: Microsoft MSFT Q3 Revenue, $20.53B vs. $22.09B expected
+Selerity	723243647886565376	2016-04-21T20:14:57	BREAKING: Microsoft MSFT Q3 Non-GAAP Earnings Per Share (EPS) misses estimates, $0.62 vs. $0.64 expected
+Selerity	723241269632348162	2016-04-21T20:05:30	BREAKING: Visa V Q2 Revenue, $3.63B vs. $3.6B expected
+Selerity	723241268361441280	2016-04-21T20:05:30	BREAKING: Visa V Q2 Adjusted Earnings Per Share (EPS) beats estimates, $0.68 vs. $0.67 expected
+Selerity	723241003591847936	2016-04-21T20:04:27	BREAKING: Starbucks SBUX Q2 Revenue, $4.99B vs. $5.03B expected
+Selerity	723241002186756097	2016-04-21T20:04:26	BREAKING: Starbucks SBUX Q2 Non-GAAP Earnings Per Share (EPS) $0.39 inline with expectations
+Selerity	723240421015601152	2016-04-21T20:02:08	BREAKING: Alphabet GOOGL Q1 Revenue Ex-Tac, $16.47B vs. $16.51B expected
+Selerity	723240420168335362	2016-04-21T20:02:07	BREAKING: Alphabet GOOGL Q1 Non-GAAP Earnings Per Share (EPS) misses estimates, $7.5 vs. $7.97 expected
+Selerity	723190627861712897	2016-04-21T16:44:16	Earnings Preview: Facebook Q1 2016 FB  
+Selerity	723188575093821440	2016-04-21T16:36:07	Earnings Preview: eBay Q1 2016 EBAY  
+Selerity	723186402863800321	2016-04-21T16:27:29	Earnings Preview: Twitter Q1 2016 TWTR  
+Selerity	723183461423583232	2016-04-21T16:15:47	Earnings Preview: Chipotle Mexican Grill Q1 2016 CMG  
+Selerity	723181301008883712	2016-04-21T16:07:12	Earnings Preview: Apple Q2 2016 AAPL  
+Selerity	723156841035866112	2016-04-21T14:30:01	BREAKING: U.S. DOE Natural Gas Inventories Weekly Change for April 15th is 7B. NATGAS
+Selerity	723126698653392896	2016-04-21T12:30:14	BREAKING: Philly Fed April Mftg Index, (1.6) vs. 8.9 expected. USD
+Selerity	723111617664323585	2016-04-21T11:30:19	BREAKING: General Motors GM Q1 Revenues beats estimates, $37.3B vs. $35.41B expected
+Selerity	723111616657678336	2016-04-21T11:30:18	BREAKING: General Motors GM Q1 Adjusted Earnings Per Share (EPS) beats estimates, $1.26 vs. $1.01 expected
+Selerity	723110437424910336	2016-04-21T11:25:37	BREAKING: Verizon VZ Q1 Revenues misses estimates, $32.2B vs. $32.49B expected
+Selerity	723097130139803648	2016-04-21T10:32:44	BREAKING: Southwest Airlines LUV Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.88 vs. $0.84 expected
+Selerity	723097129711984640	2016-04-21T10:32:44	BREAKING: Southwest Airlines LUV Q1 Revenue, $4.83B vs. $4.81B expected
+Selerity	723051226032660480	2016-04-21T07:30:20	BREAKING: Sweden Riksbank leaves rates unchanged at (0.5%) as expected. SEK
+Selerity	722881388031123456	2016-04-20T20:15:28	BREAKING: Yum! Brands YUM Q1 Revenue, $2.62B vs. $2.66B expected
+Selerity	722881387498446849	2016-04-20T20:15:27	BREAKING: Yum! Brands Inc YUM Q1 Earnings Per Share (EPS) Excluding Items beats estimates, $0.95 vs. $0.83 expected
+Selerity	722878875492052992	2016-04-20T20:05:29	BREAKING: F5 Networks FFIV Q2 Non-GAAP Earnings Per Share (EPS) beats estimates, $1.68 vs. $1.63 expected
+Selerity	722878875022266369	2016-04-20T20:05:28	BREAKING: F5 Networks FFIV Q2 Revenue, $483.68M vs. $485.93M expected
+Selerity	722878629500338176	2016-04-20T20:04:30	BREAKING: Qualcomm QCOM Q2 Revenues beats estimates, $5.54B vs. $5.34B expected
+Selerity	722878202843152384	2016-04-20T20:02:48	BREAKING: Las Vegas Sands LVS Q1 Revenue, $2.72B vs. $2.88B expected
+Selerity	722878202037813248	2016-04-20T20:02:48	BREAKING: Las Vegas Sands LVS Q1 Adjusted Earnings Per Share (EPS) misses estimates, $0.57 vs. $0.62 expected
+Selerity	722877744917409792	2016-04-20T20:00:59	BREAKING: Qualcomm QCOM Q2 Non-GAAP Earnings Per Share (EPS) beats estimates, $1.04 vs. $0.96 expected
+Selerity	722877626784878594	2016-04-20T20:00:31	BREAKING: ServiceNow NOW Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.09 vs. $0.07 expected
+Selerity	722877626277355520	2016-04-20T20:00:31	BREAKING: ServiceNow, Inc NOW Q1 Revenues beats estimates, $305.88M vs. $300.87M expected
+Selerity	722794454223056897	2016-04-20T14:30:01	BREAKING: DOE Distillate Inventories Change Over Previous Week as an Amount is (3.55M) on 04/15. OIL
+Selerity	722794453686161409	2016-04-20T14:30:01	BREAKING: DOE Motor Gasoline Inventory Change Over Previous Week as an Amount is (110,000) on 04/15. OIL
+Selerity	722794453170266112	2016-04-20T14:30:01	BREAKING: DOE Crude Oil Inventory Change Over Previous Week as an Amount is 2.08M on 04/15. OIL
+Selerity	722787349084680193	2016-04-20T14:01:47	BREAKING: U.S. March Existing Home Sales, 5.33M vs. 5.26M expected. USD
+Selerity	722787348690440192	2016-04-20T14:01:47	BREAKING: US: Existing Home Sales grew to 5.33M in March vs. 5.08M February. USD
+Selerity	722748267453419520	2016-04-20T11:26:29	RSmithInc OMillionaires Intel reported a Non-GAAP EPS for the first time since Q4 2012. This 54c number was tweeted out after the GAAP 42c
+Selerity	722741691850088448	2016-04-20T11:00:21	BREAKING: Turkish Central Bank leaves the Repo Rate unchanged at 7.5% as expected. TRY
+Selerity	722740451472732160	2016-04-20T10:55:26	BREAKING: Coca-Cola KO Q1 Revenues beats estimates, $10.28B vs. $10.28B expected
+Selerity	722740450684219392	2016-04-20T10:55:25	BREAKING: Coca-Cola KO Non-GAAP Earnings Per Share (EPS) beats estimates, $0.45 vs. $0.44 expected
+Selerity	722517562907627520	2016-04-19T20:09:45	BREAKING: Intuitive Surgical ISRG Q1 Revenue, $594.5M vs. $593.08M expected
+Selerity	722516885955342336	2016-04-19T20:07:03	Intel INTC Q1 Non-GAAP Earnings Per Share (EPS)  $0.54 vs. $0.48 expected
+Selerity	722516485671940097	2016-04-19T20:05:28	BREAKING: Yahoo! YHOO Q1 Revenue Ex-TAC, $859.39M vs. $847.81M expected
+Selerity	722516484912758784	2016-04-19T20:05:28	BREAKING: Yahoo! YHOO Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.08 vs. $0.07 expected
+Selerity	722516403669057538	2016-04-19T20:05:08	BREAKING: Intuitive Surgical ISRG Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $4.42 vs. $4.33 expected
+Selerity	722516041100881923	2016-04-19T20:03:42	BREAKING: Intel INTC Q1 Earnings Per Share (EPS) misses estimates, $0.42 vs. $0.48 expected
+Selerity	722515808841297920	2016-04-19T20:02:47	BREAKING: Intel INTC Q1 Revenues misses estimates, $13.8B vs. $13.88B expected
+Selerity	722427296167145472	2016-04-19T14:11:04	BREAKING: NZ: Global Dairy Trade Change from Previous Event (Whole Milk) is 7.5% on 04/19. NZD
+Selerity	722388185528066048	2016-04-19T11:35:39	BREAKING: Goldman Sachs GS Q1 Revenues misses estimates, $6.34B vs. $6.76B expected
+Selerity	722388185037303809	2016-04-19T11:35:39	BREAKING: Goldman Sachs GS Q1 Earnings Per Share (EPS) beats estimates, $2.68 vs. $2.45 expected
+Selerity	722375092328652801	2016-04-19T10:43:37	BREAKING: Johnson &amp; Johnson JNJ Q1 Revenue, $17.48B vs. $17.47B expected
+Selerity	722374481310781440	2016-04-19T10:41:12	BREAKING: Johnson &amp; Johnson JNJ Q1 Adjusted Earnings Per Share (EPS) beats estimates, $1.68 vs. $1.65 expected
+Selerity	722154985740509184	2016-04-18T20:09:00	BREAKING: IBM Corp. IBM Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $2.35 vs. $2.09 expected
+Selerity	722154848599322625	2016-04-18T20:08:27	BREAKING: IBM Corp. IBM Q1 Revenues beats estimates, $18.68B vs. $18.29B expected
+Selerity	722154043662036992	2016-04-18T20:05:15	BREAKING: Netflix Inc NFLX Q1 Revenues misses estimates, $1.96B vs. $1.97B expected
+Selerity	722015677868089344	2016-04-18T10:55:26	BREAKING: Morgan Stanley MS Q1 Revenues misses estimates, $7.79B vs. $7.97B expected
+Selerity	721020344937639937	2016-04-15T17:00:20	BREAKING: Baker Hughes Weekly U.S. Oil Rig Count Change for April 15th is (3). OIL
+Selerity	721010048357568512	2016-04-15T16:19:25	Earnings Preview: Caterpillar Q1 2016 CAT  
+Selerity	721008412021153792	2016-04-15T16:12:55	Earnings Preview: McDonald’s Q1 2016 MCD  
+Selerity	721006839010344961	2016-04-15T16:06:40	Earnings Preview: General Electric Q1 2016 GE  
+Selerity	721005230427496448	2016-04-15T16:00:17	Earnings Preview: Visa Q2 2016 V  
+Selerity	721003014522331136	2016-04-15T15:51:28	Earnings Preview: Alphabet Q1 2016 GOOGL GOOG  
+Selerity	721001143241949186	2016-04-15T15:44:02	Earnings Preview: Microsoft Q3 2016 MSFT  
+Selerity	720999536538337280	2016-04-15T15:37:39	Earnings Preview: Starbucks Q2 2016 SBUX  
+Selerity	720997499482279936	2016-04-15T15:29:34	Earnings Preview: Qualcomm Q2 2016 QCOM  
+Selerity	720995503564025857	2016-04-15T15:21:38	Earnings Preview: Yum! Brands Q1 2016 YUM  
+Selerity	720974965533708288	2016-04-15T14:00:01	BREAKING: U.S. University of Michigan Sentiment Prel-April, 89.7 vs. 92.5 expected. USD
+Selerity	720944802016178176	2016-04-15T12:00:09	TravelwdavDave You're right! The values have really changed. Preview has been updated. Much appreciated.
+Selerity	720944665713905664	2016-04-15T11:59:37	BREAKING: Citigroup C Q1 Revenue, $17.55B vs. $17.46B expected
+Selerity	720944665114054657	2016-04-15T11:59:37	BREAKING: Citigroup C Q1 Adjusted Earnings Per Share (EPS) beats estimates, $1.1 vs. $1.03 expected
+Selerity	720797354174083072	2016-04-15T02:14:15	BREAKING: China March New Yuan Loans, 1,370.6B vs. 1,100B expected. CNY
+Selerity	720794015352889345	2016-04-15T02:00:59	BREAKING: China March M2 Money Supply Y/Y, 13.4% vs. 13.5% expected. CNY
+Selerity	720779131621912576	2016-04-15T01:01:51	TravelwdavDave The $40 breakdown was the number being used by analysts earlier. Core assets are probably drawing more interest, as well.
+Selerity	720679309703299073	2016-04-14T18:25:11	Earnings Preview: Yahoo! Q1 2016 YHOO  
+Selerity	720676291326976000	2016-04-14T18:13:12	Earnings Preview: Johnson &amp; Johnson Q1 2016 JNJ  
+Selerity	720674098762780673	2016-04-14T18:04:29	Earnings Preview: Intuitive Surgical Q1 2016 ISRG  
+Selerity	720671995751366656	2016-04-14T17:56:07	Earnings Preview: Goldman Sachs Q1 2016 GS  
+Selerity	720669522391363584	2016-04-14T17:46:18	Earnings Preview: Intel Corp Q1 2016 INTC  
+Selerity	720667413323362304	2016-04-14T17:37:55	Earnings Preview: Morgan Stanley Q1 2016 MS  
+Selerity	720664765492764672	2016-04-14T17:27:24	Earnings Preview: Netflix Q1 2016 NFLX  
+Selerity	720661605801988096	2016-04-14T17:14:50	Earnings Preview: IBM Corp Q1 2016 IBM  
+Selerity	720620125922181120	2016-04-14T14:30:01	BREAKING: U.S. DOE Natural Gas Inventories Weekly Change for 04/08: (3B). NATGAS
+Selerity	720582573727051776	2016-04-14T12:00:48	BREAKING: Wells Fargo WFC Q1 Revenue, $22.2B vs. $21.6B expected
+Selerity	720582572833652736	2016-04-14T12:00:47	BREAKING: Wells Fargo WFC Q1 Earnings Per Share (EPS) is $0.99.
+Selerity	720567988169089024	2016-04-14T11:02:50	BREAKING: Delta Air Lines DAL Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $1.32 vs. $1.29 expected
+Selerity	720567987569303552	2016-04-14T11:02:50	BREAKING: Delta Air Lines DAL Q1 Revenue, $9.25B vs. $9.27B expected
+Selerity	720559848904138752	2016-04-14T10:30:29	BREAKING: BlackRock BLK Q1 Adjusted Earnings Per Share (EPS) misses estimates, $4.25 vs. $4.29 expected
+Selerity	720559848283369473	2016-04-14T10:30:29	BREAKING: BlackRock BLK Q1 Revenue, $2.62B vs. $2.73B expected
+Selerity	720423852891860992	2016-04-14T01:30:06	BREAKING: Australia March Unemployment Rate, 5.7% vs. 5.9% expected. AUD
+Selerity	720423842175447040	2016-04-14T01:30:03	BREAKING: Australia March Labour Force Change, 26,100 vs. 20,000 expected. AUD
+Selerity	720378533961269250	2016-04-13T22:30:01	BREAKING: New Zealand PMI: March 54.7, February 56. NZD
+Selerity	720257740350861313	2016-04-13T14:30:01	BREAKING: DOE Distillate Inventories Weekly Change for 04/08: 505,000. OIL
+Selerity	720257738823958529	2016-04-13T14:30:01	BREAKING: DOE Gasoline Inventories Weekly Change for 04/08: (4.24M). OIL
+Selerity	720257738161405952	2016-04-13T14:30:01	BREAKING: DOE Crude Oil Inventories Weekly Change for 04/08: 6.63M. OIL
+Selerity	719930612769906688	2016-04-12T16:50:08	.Symphony partner Flextrade demo of OTAS &amp; Symphony at Tradetech TradeTech 
+Selerity	720074746050789376	2016-04-13T02:22:52	BREAKING: China March Exports Y/Y 11.5% vs. 2.5% expected. CNY
+Selerity	720074745509756930	2016-04-13T02:22:52	BREAKING: China March Imports Y/Y (7.6%) vs. (10.2%) expected. CNY
+Selerity	720074744050135041	2016-04-13T02:22:51	BREAKING: China March Trade Balance $29.86B vs. $30.85B expected. CNY
+Selerity	720068994284306432	2016-04-13T02:00:01	BREAKING: China March Trade Balance (in Yuan), 194.6B vs. 198.3B expected. CNY
+Selerity	719631425461448706	2016-04-11T21:01:16	BREAKING: Alcoa AA Q1 Revenue, $4.95B vs. $5.13B expected
+Selerity	719630316764340224	2016-04-11T20:56:52	BREAKING: Alcoa AA Q1 Earnings Per Share (EPS) Excluding Items beats estimates, $0.07 vs. $0.03 expected
+Selerity	719336645535875073	2016-04-11T01:29:55	BREAKING: China March Consumer Price Index Y/Y 2.3% vs. 2.5% expected. CNY
+Selerity	719336645015810049	2016-04-11T01:29:55	BREAKING: China March Producer Price Index Y/Y (4.3%) vs. (4.6%) expected. CNY
+Selerity	718485837080576006	2016-04-08T17:09:07	Earnings Preview: Citigroup Q1 2016 C  
+Selerity	718483182547570688	2016-04-08T16:58:34	Earnings Preview: Bank of America Q1 2016 BAC  
+Selerity	718479698339217412	2016-04-08T16:44:43	Earnings Preview: Wells Fargo Q1 2016 WFC  
+Selerity	718477160391053313	2016-04-08T16:34:38	Earnings Preview: JP Morgan Chase Q1 2016 JPM  
+Selerity	718170348668194822	2016-04-07T20:15:28	BREAKING: The Gap GPS March Comparable Store Sales y/y change is (6%).
+Selerity	718083410892365824	2016-04-07T14:30:01	BREAKING: DOE Weekly Natural Gas Inventories Change Over Previous Week as an Amount is 12B for 04/01. gas
+Selerity	718060766226685953	2016-04-07T13:00:02	BREAKING: Mexico March CPI M/M, 0.15% vs. 0.2% expected. MXN
+Selerity	717879567772467200	2016-04-07T01:00:01	BREAKING: Costco COST March Same Store Sales ex-items y/y change is 4%.
+Selerity	717817319737659392	2016-04-06T20:52:40	Selerity's Founder &amp; CEO RyanTerpstra sat down for an interview with Fin_Revolution 
+Selerity	717808259034288128	2016-04-06T20:16:39	BREAKING: Bed Bath &amp; Beyond BBBY Q4 Earnings Per Share (EPS) beats estimates, $1.91 vs. $1.81 expected
+Selerity	717808258212368385	2016-04-06T20:16:39	BREAKING: Bed Bath &amp; Beyond BBBY Q4 Revenue, $3.42B vs. $3.39B expected
+Selerity	717721025228750848	2016-04-06T14:30:01	BREAKING: DOE Weekly Inventories - Petroleum Distillate Inventories Change Over Previous Week as an Amount is 1.8M for 04/01. OIL
+Selerity	717721024314343425	2016-04-06T14:30:01	BREAKING: DOE Weekly Inventories - Petroleum Motor Gasoline Inventories Change Over Previous Week as an Amount is 1.44M for 04/01. OIL
+Selerity	717721023160967170	2016-04-06T14:30:01	BREAKING: DOE Weekly Inventories - Petroleum Crude Oil Inventory Change over Previous Week as an Amount is (4.94M) for 04/01. OIL
+Selerity	717713476437864449	2016-04-06T14:00:01	BREAKING: CA: Canada Ivey Purchasing Managers Index for March is 50.1 vs. 53.4 in February. CAD
+Selerity	717683472345776128	2016-04-06T12:00:48	BREAKING: Monsanto MON Q2 Revenue, $4.53B vs. $4.76B expected
+Selerity	717683471527895040	2016-04-06T12:00:48	BREAKING: Monsanto MON Q2 Adjusted Earnings Per Share (EPS) misses estimates, $2.42 vs. $2.44 expected
+Selerity	717658110505197568	2016-04-06T10:20:01	BREAKING: Poland Central Bank leaves the Base Rate unchanged as expected at 1.5%. PLN
+Selerity	717357892840591360	2016-04-05T14:27:04	BREAKING: NZ: Global Dairy Trade Change in Price Index from Previous Event (Whole Milk) is 1.5% for 04/05. NZD
+Selerity	717207654364483584	2016-04-05T04:30:04	BREAKING: Reserve Bank of Australia leaves the Cash Rate unchanged as expected at 2%. AUD
+Selerity	717162352710402049	2016-04-05T01:30:03	BREAKING: Australian February Trade Balance, ($3.41B) vs. ($2.6B) expected. AUD
+Selerity	717085821552214017	2016-04-04T20:25:57	BREAKING: Tesla Motors TSLA Q1 Total Vehicle Deliveries 14,820 vs. 16,000 guidance.
+Selerity	716799988924354560	2016-04-04T01:30:09	BREAKING: AU: Australian Building Approvals M/M for February is 3.1% vs. (7.5%) in January. AUD
+Selerity	716799965436239872	2016-04-04T01:30:03	BREAKING: Australian February Retail Sales m/m, 0% vs. 0.4% expected. AUD
+Selerity	715947411068350469	2016-04-01T17:02:19	BREAKING: Baker Hughes Weekly U.S. Oil Rig Count Change for April 1st is (10). OIL
+Selerity	715947323017273344	2016-04-01T17:01:58	BREAKING: Baker Hughes Weekly U.S. Total Rig Count Change for April 1st is (14). OIL
+Selerity	715890631307079680	2016-04-01T13:16:41	BREAKING: Ford F Monthly Sales for March, 8% vs. 9.3% expected
+Selerity	715857077986598912	2016-04-01T11:03:22	BREAKING: BlackBerry BBRY Q4 Revenue, $487M vs. $563.18M expected
+Selerity	715857056658497536	2016-04-01T11:03:16	BREAKING: BlackBerry BBRY Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, ($0.03) vs. ($0.1) expected
+Selerity	715705165605650432	2016-04-01T00:59:43	BREAKING: China NBS March Manufacturing PMI, 50.2 vs. 49.3 expected. CNY
+Selerity	715703282195427328	2016-04-01T00:52:14	BREAKING: China NBS Non-manufacturing PMI: March 53.8, February 52.7 expected. CNY
+Selerity	715605122705973252	2016-03-31T18:22:11	Earnings Preview: Bed Bath and Beyond Q4 2015 BBBY  
+Selerity	715546695858257920	2016-03-31T14:30:01	BREAKING: DOE Natural Gas Inventories Weekly Change for 3/25 is (25B). NATGAS
+Selerity	715493849167073281	2016-03-31T11:00:01	BREAKING: Czech CNB Repo Rate is left unchanged as expected at 0.05%. CZK
+Selerity	715433514125172738	2016-03-31T07:00:16	BREAKING: Turkey Q4 GDP y/y, 5.7% vs. 5.2% expected. TRY
+Selerity	715268821511233536	2016-03-30T20:05:50	BREAKING: Micron Technology MU Q2 Revenue, $2.93B vs. $3.05B expected
+Selerity	715268820819132421	2016-03-30T20:05:50	BREAKING: Micron Technology MU Q2 Non-GAAP Earnings Per Share (EPS) beats estimates, ($0.05) vs. ($0.08) expected
+Selerity	715184309603274752	2016-03-30T14:30:01	BREAKING: DOE Distillate Inventories Weekly Change for 03/25: (1.07M). OIL
+Selerity	715184309066473473	2016-03-30T14:30:01	BREAKING: DOE Gasoline Inventories Weekly Change for 03/25: (2.51M). OIL
+Selerity	715184308173058048	2016-03-30T14:30:01	BREAKING: DOE Crude Oil Inventories Weekly Change for 03/25: 2.3M. OIL
+Selerity	715150334088372224	2016-03-30T12:15:01	BREAKING: US: ADP March Employment Change, 200,000 vs. 194,000 expected. USD
+Selerity	714863625148739584	2016-03-29T17:15:44	USD Fed's Yellen: Debt-to-GDP levels for several countries are probably unsustainable given demographics.
+Selerity	714862594788601857	2016-03-29T17:11:38	USD Fed's Yellen: Labor productivity weakness should improve but is a huge uncertainty.
+Selerity	714860336097189888	2016-03-29T17:02:40	USD Fed's Yellen: Abnormally high levels of involuntary part-time suggests more slack in the economy than is generally thought.
+Selerity	714850015903096832	2016-03-29T16:21:39	USD Fed's Yellen New York Economic Club Speech: 
+Selerity	714528075719946241	2016-03-28T19:02:23	March Monthly Auto Sales Preview: Ford F and General Motors GM  
+Selerity	714459626130042880	2016-03-28T14:30:23	BREAKING: Dallas Fed March Manufacturing Index, (13.6) vs. (26) expected. USD
+Selerity	713048496899768320	2016-03-24T17:03:04	BREAKING: US: Baker Hughes U.S. Oil Rig Count Change for March 24th is (15). OIL
+Selerity	713048062797676544	2016-03-24T17:01:20	BREAKING: US: Baker Hughes Total Rig Count Change for March 24th is (12). OIL
+Selerity	713038025198948352	2016-03-24T16:21:27	Earnings Preview: BlackBerry Q4 2016 BBRY  
+Selerity	713009980778143745	2016-03-24T14:30:01	BREAKING: DOE Natural Gas Inventories Weekly Change for 3/18 is 15B. NATGAS
+Selerity	712973684164702208	2016-03-24T12:05:47	Turkey Central Bank reduced the Marginal Funding Rate  from 10.75 percent to 10.5 percent. TRY
+Selerity	712972306532941824	2016-03-24T12:00:18	BREAKING: Turkey Central Bank leaves the Repo Rate unchanged as expected at 7.5%. TRY
+Selerity	712647595420557313	2016-03-23T14:30:01	BREAKING: DOE Distillate Inventories Weekly Change for 03/18: 917,000. OIL
+Selerity	712647594577559553	2016-03-23T14:30:01	BREAKING: DOE Gasoline Inventories Weekly Change for 03/18: (4.64M). OIL
+Selerity	712647593801555969	2016-03-23T14:30:01	BREAKING: DOE Crude Oil Inventories Weekly Change for 03/18: 9.36M. OIL
+Selerity	712372144538316800	2016-03-22T20:15:29	BREAKING: Nike NKE Q3 Earnings Per Share (EPS) beats estimates, $0.55 vs. $0.49 expected
+Selerity	712372143489687552	2016-03-22T20:15:28	BREAKING: Nike NKE Q3 Revenue, $8.03B vs. $8.2B expected
+Selerity	712372142441156611	2016-03-22T20:15:28	BREAKING: Red Hat RHT Q4 Revenue, $543.5M vs. $537.2M expected
+Selerity	712372141925265408	2016-03-22T20:15:28	BREAKING: Red Hat RHT Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.52 vs. $0.47 expected
+Selerity	712006227505635328	2016-03-21T20:01:27	BREAKING: Mattress Firm MFRM Q4 Revenue, $618.55M vs. $622.36M expected
+Selerity	712006226905862144	2016-03-21T20:01:27	BREAKING: Mattress Firm MFRM Q4 Adjusted Earnings Per Share (EPS) misses estimates, $0.53 vs. $0.56 expected
+Selerity	711915502126374917	2016-03-21T14:00:57	BREAKING: US Existing Home Sales for February, 5.08M vs. 5.4M expected. USD
+Selerity	710903626697461761	2016-03-18T19:00:07	BREAKING: Mexico Central Bank Overnight Rate is left unchanged at 3.75% as expected following the 2/17 unscheduled 50bp increase. MXN
+Selerity	710874280649744384	2016-03-18T17:03:30	BREAKING: Baker Hughes U.S. Oil Rig Count Change was 1 as of 03/18. oil
+Selerity	710873673746550784	2016-03-18T17:01:05	BREAKING: Baker Hughes U.S. Total Rig Count Change was (4) as of 03/18. oil
+Selerity	710828103921172481	2016-03-18T14:00:01	BREAKING: University of Michigan Sentiment (Prelim) for March, 90 vs. 92.2 expected. USD
+Selerity	710557692977397760	2016-03-17T20:05:30	BREAKING: Adobe Systems Inc ADBE Q1 Revenue, $1.38B vs. $1.34B expected
+Selerity	710557691379326977	2016-03-17T20:05:29	BREAKING: Adobe Systems Inc ADBE Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.66 vs. $0.61 expected
+Selerity	710536369597186048	2016-03-17T18:40:46	Earnings Preview: Red Hat Q4 2016 RHT  
+Selerity	710532015892856832	2016-03-17T18:23:28	Earnings Preview: Nike Q3 2016 NKE  
+Selerity	710473267145023490	2016-03-17T14:30:01	BREAKING: DOE Natural Gas Inventories Weekly Change for 3/11 is (1B). NATGAS
+Selerity	710443110090842112	2016-03-17T12:30:11	BREAKING: US: Philly Fed Business Survey beats estimates, 12.4 vs. (1.5) expected. USD
+Selerity	710390219720286208	2016-03-17T09:00:01	BREAKING: Norway Central Bank Interest Rate is reduced as expected, 0.5% vs. 0.5% expected. NOK
+Selerity	710261892749647872	2016-03-17T00:30:05	BREAKING: Australian February Unemployment Rate, 5.8% vs. 6% expected. AUD
+Selerity	710261881999630336	2016-03-17T00:30:03	BREAKING: Australian February Labour Force Change M/M, 300 vs. 10,000 expected. AUD
+Selerity	710197815578902528	2016-03-16T20:15:28	BREAKING: FedEx FDX Q3 Non-GAAP Earnings Per Share (EPS) beats estimates, $2.51 vs. $2.35 expected
+Selerity	710197814916202496	2016-03-16T20:15:28	BREAKING: FedEx FDX Q3 Revenues beats estimates, $12.7B vs. $12.4B expected
+Selerity	710186393885155328	2016-03-16T19:30:05	USD Fed's Yellen: I want to make clear that negative rates is not actively being discussed.
+Selerity	710185822755135488	2016-03-16T19:27:49	USD Fed's Yellen: Inflation expectations tend to be based on transitory price changes.
+Selerity	710185367664779264	2016-03-16T19:26:00	USD Fed's Yellen: Relationship of inflation to labor tightness still exists but impact is modest.
+Selerity	710182589357805568	2016-03-16T19:14:58	USD Fed's Yellen: Monetary divergance is natural among countries and shouldn't hinder policy.
+Selerity	710177934896730112	2016-03-16T18:56:28	USD Fed's Yellen Press Conference Speech: 
+Selerity	710176376037490688	2016-03-16T18:50:17	USD Fed's Yellen: Economy is close to maximum employment objective.
+Selerity	710172043917058049	2016-03-16T18:33:04	USD Fed's Yellen Press Conference Broadcast: 
+Selerity	710164310773932032	2016-03-16T18:02:20	USD Fed's Economic Projections page: 
+Selerity	710163926642761728	2016-03-16T18:00:48	USD Fed's Economic Projections (PDF): 
+Selerity	710163716713684992	2016-03-16T17:59:58	USD Fed's Statement: 
+Selerity	710110879304556544	2016-03-16T14:30:01	BREAKING: DOE Weekly Distillate Inventories Change Over Previous Week as an Amount for 03/11 is (1.14M). OIL
+Selerity	710110878616723456	2016-03-16T14:30:01	BREAKING: DOE Weekly Motor Gasoline Inventories Change Over Previous Week as an Amount for 03/11 is (747,000). OIL
+Selerity	710110877966594048	2016-03-16T14:30:01	BREAKING: DOE Weekly Crude Oil Inventory Change Over Previous Week as an Amount for 03/11 is 1.32M. OIL
+Selerity	709831537911590912	2016-03-15T20:00:01	BREAKING: Oracle ORCL Q3 Revenues misses estimates, $9B vs. $9.13B expected
+Selerity	709831537118855168	2016-03-15T20:00:01	BREAKING: Oracle ORCL Q3 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.64 vs. $0.62 expected
+Selerity	709743221254045701	2016-03-15T14:09:04	BREAKING: Global Dairy Trade Auction Price Change for Whole Milk is (0.8%). NZD
+Selerity	708667899880210433	2016-03-12T14:56:08	BREAKING: China February Retail Sales Y/Y, 10.2% vs. 9.5% expected. CNY
+Selerity	708525410275991552	2016-03-12T05:29:56	BREAKING: China February Industrial Production Y/Y, 5.4% vs. 5.6% expected. CNY
+Selerity	708352527666966528	2016-03-11T18:02:57	BREAKING: Baker Hughes U.S. Oil Rig Count Change for March 11 is (6). OIL
+Selerity	708352119401783297	2016-03-11T18:01:20	BREAKING: Baker Hughes U.S. Total Rig Count Change for March 11 is (9). OIL
+Selerity	708317394654117889	2016-03-11T15:43:21	Earnings Preview: Adobe Q1 2016 ADBE  
+Selerity	708247503217541120	2016-03-11T11:05:38	BREAKING: Poland Central Bank leaves the Base Rate unchanged at 1.5% as expected. PLN
+Selerity	708042331644157953	2016-03-10T21:30:21	BREAKING: New Zealand Mftg PMI: February 56, January 57.9. NZD
+Selerity	708031019501232128	2016-03-10T20:45:24	Earnings Preview: FedEx Q3 2016 FDX  
+Selerity	707991558566645761	2016-03-10T18:08:36	Earnings Preview: Oracle Q3 2016 ORCL  
+Selerity	707951650271584256	2016-03-10T15:30:01	BREAKING: DOE Natural Gas Inventories Weekly Change for 3/4, (57B) vs. (57B) expected. NATGAS
+Selerity	707589263932653569	2016-03-09T15:30:01	BREAKING: U.S. DOE Distillate Inventories Weekly Change for 03/04 is (1.12M). OIL
+Selerity	707589263408414720	2016-03-09T15:30:01	BREAKING: U.S. DOE Gasoline Inventories Weekly Change for 03/04 is (4.53M). OIL
+Selerity	707589262284300288	2016-03-09T15:30:01	BREAKING: U.S. DOE Crude Oil Inventories Weekly Change for 03/04 is 3.88M. OIL
+Selerity	707290972951019521	2016-03-08T19:44:43	Citi leads $4.2 million round for content recommendation startup Selerity  by siindy64 
+Selerity	707213198051647488	2016-03-08T14:35:40	Citi has backed contextual information startup Selerity 
+Selerity	707204618409910272	2016-03-08T14:01:34	Citi leads $4.2 million Selerity funding round  fintech
+Selerity	707206691297828865	2016-03-08T14:09:49	Excited to announce Selerity 's $4.2M investment led by Citi C  
+Selerity	707181871076155392	2016-03-08T12:31:11	BREAKING: Dick's Sporting Goods DKS Q4 Revenue, $2.24B vs. $2.28B expected
+Selerity	707125175704231936	2016-03-08T08:45:54	CORRECTION: China February Exports (Y/Y) in Yuan is (20.6%). The first two months combined are (15.7%). CNY
+Selerity	707032339315040256	2016-03-08T02:37:00	BREAKING: China February Imports (Y/Y) in Yuan is (8%). CNY
+Selerity	707032338744655873	2016-03-08T02:37:00	BREAKING: China February Trade Balance in Yuan, 209.5B vs. 321.2B expected. CNY
+Selerity	706915424877809665	2016-03-07T18:52:25	USD Fed's Fischer: 1.7% core inflation is forecast and not far off the 2% target.
+Selerity	706914404571488260	2016-03-07T18:48:22	USD Fed's Fischer: Negative rates used by 5 central banks has worked better than expected.
+Selerity	706904261679058944	2016-03-07T18:08:04	USD Fed's Fischer speech to NABE (text): 
+Selerity	706903352978841601	2016-03-07T18:04:27	USD Fed's Brainard Int'l Bankers speech (text): 
+Selerity	705815724716064768	2016-03-04T18:02:36	BREAKING: U.S. Total Rig Count (Baker Hughes) Weekly Change for 03/04 is (13). oil
+Selerity	705815724120543232	2016-03-04T18:02:36	BREAKING: U.S. Oil Rig Count (Baker Hughes) Weekly Change for 03/04 is (8). oil
+Selerity	705709515732348928	2016-03-04T11:00:34	BREAKING: Staples SPLS Q4 Revenue, $5.27B vs. $5.41B expected.
+Selerity	705709515249950720	2016-03-04T11:00:34	BREAKING: Staples SPLS Q4 Non-GAAP Earnings Per Share (EPS) misses estimates, $0.26 vs.   $0.28 expected
+Selerity	705550835946749957	2016-03-04T00:30:02	BREAKING: Australian January Retail Sales m/m, 0.3% vs. 0.4% expected. AUD
+Selerity	705501867162398720	2016-03-03T21:15:27	BREAKING: Gap Inc GPS Comparable Store Sales for February y/y change is (2%).
+Selerity	705499698895982597	2016-03-03T21:06:50	BREAKING: Smith &amp; Wesson SWHC Q3 Revenue, $210.8M vs. $174.93M expected
+Selerity	705499698380075008	2016-03-03T21:06:50	BREAKING: Smith &amp; Wesson SWHC Q3 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.59 vs.   $0.39 expected
+Selerity	705499242001993728	2016-03-03T21:05:01	BREAKING: Hewlett Packard Enterprise HPE Q1 Revenue, $12.72B vs. $12.68B expected
+Selerity	705499241234472960	2016-03-03T21:05:01	BREAKING: Hewlett Packard Enterprise HPE Q1 Non-GAAP Earnings Per Share (EPS) beats estimates,   $0.41 vs. $0.4 expected
+Selerity	705415095598391296	2016-03-03T15:30:39	BREAKING: U.S. DOE Natural Gas Inventories Weekly Change for 02/26 is (48B). natgas
+Selerity	705366300873400321	2016-03-03T12:16:45	BREAKING: L Brands LB Comparable Store Sales for February y/y change is 5%.
+Selerity	705211093132681216	2016-03-03T02:00:01	BREAKING: Costco COST Q2 Revenue, $28.17B vs. $28.42B expected.
+Selerity	705211092356628480	2016-03-03T02:00:01	BREAKING: Costco COST Q2 Earnings Per Share (EPS) misses estimates, $1.24 vs. $1.28   expected
+Selerity	705188610291716096	2016-03-03T00:30:41	BREAKING: Australian January Trade Balance, ($2.94B) vs. ($3.1B) expected. AUD
+Selerity	705143180572884992	2016-03-02T21:30:09	BREAKING: WEIBO WB Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.15 vs. $0.13   expected
+Selerity	705143179792785408	2016-03-02T21:30:09	BREAKING: WEIBO WB Q4 Revenue, $149.03M vs. $148.59M expected
+Selerity	705052549146144769	2016-03-02T15:30:01	BREAKING: U.S. DOE Distillate Inventories Weekly Change for 02/26 is 2.88M. OIL
+Selerity	705052547791384576	2016-03-02T15:30:01	BREAKING: U.S. DOE Gasoline Inventories Weekly Change for 02/26 is (1.47M). OIL
+Selerity	705052547116048384	2016-03-02T15:30:01	BREAKING: U.S. DOE Crude Oil Inventories Weekly Change for 02/26 is 10.37M. OIL
+Selerity	705018573186588673	2016-03-02T13:15:01	BREAKING: ADP February Employment Change, 214,000 vs. 185,000 expected. USD
+Selerity	704826098614456320	2016-03-02T00:30:11	BREAKING: Australian GDP y/y Q4, 3% vs. 2.6% expected. AUD
+Selerity	704826092138471424	2016-03-02T00:30:10	BREAKING: Australian GDP q/q Q4, 0.6% vs. 0.5% expected. AUD
+Selerity	704773933078286336	2016-03-01T21:02:54	BREAKING: TiVo Inc. TIVO Q4 Earnings Per Share (EPS) beats estimates, $0 vs. ($0.06) expected
+Selerity	704773460896194560	2016-03-01T21:01:01	BREAKING: TiVo Inc. TIVO Q4 Revenue, $123.11M vs. $102.73M expected.
+Selerity	704671351634845696	2016-03-01T14:15:17	BREAKING: Ford F February Auto Sales, 20% vs. 14.2% expected.
+Selerity	704508975287558144	2016-03-01T03:30:03	BREAKING: Reserve Bank of Australia leaves the Cash Rate unchanged at 2% as expected. AUD
+Selerity	704471153411289088	2016-03-01T00:59:46	BREAKING: CN: China Non - Manufacturing PMI for February is 52.7. CNY
+Selerity	704471152933126144	2016-03-01T00:59:45	BREAKING: China February NBS Manufacturing PMI, 49 vs. 49.3 expected. CNY
+Selerity	704463735319035904	2016-03-01T00:30:17	BREAKING: Australian January Building Approvals M/M, (7.5%) vs. (2%) expected. AUD
+Selerity	704413650841427969	2016-02-29T21:11:16	Crocs Inc. CROX Q4 loss was $73.9 million. Ex-charges was a loss of $52.9 million.
+Selerity	704412142850744320	2016-02-29T21:05:16	BREAKING: Crocs Inc. CROX Q4 Revenue, $208.7M vs. $201.59M expected.
+Selerity	704412142137692161	2016-02-29T21:05:16	BREAKING: Crocs Inc. CROX Q4 Earnings Per Share (EPS) misses estimates, ($1.01) vs. ($0.33) expected
+Selerity	703278886432456704	2016-02-26T18:02:07	BREAKING: U.S. Oil Rig Count (Baker Hughes) Change for 02/26 is (13). oil
+Selerity	703233058162548736	2016-02-26T15:00:01	BREAKING: University of Michigan Sentiment (Final) for February is 91.7 vs. 91 expected. USD
+Selerity	703187785340076033	2016-02-26T12:00:07	BREAKING: Sotheby's BID Q4 Revenue, $335.82M vs. $331.14M expected
+Selerity	703187784442507264	2016-02-26T12:00:07	BREAKING: Sotheby's BID Q4 Adjusted Earnings Per Share (EPS) beats estimates, $1.19 vs. $1.14 expected
+Selerity	703187783892992000	2016-02-26T12:00:06	BREAKING: Sotheby's BID Q4 Adjusted Earnings Per Share (EPS) beats estimates, $1.19 vs. $1.14   expected
+Selerity	703184193203863553	2016-02-26T11:45:50	BREAKING: Foot Locker FL Q4 Revenue, $2.01B vs. $2B expected
+Selerity	703184192268476416	2016-02-26T11:45:50	BREAKING: Foot Locker FL Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $1.16 vs. $1.12 expected
+Selerity	702971631447179269	2016-02-25T21:41:12	CORRECTION:  BIDU Q4 Non-GAAP Earnings Per Share (EPS) $11.1  (consensus was $6.62 rather than $0.86)
+Selerity	702969032073412609	2016-02-25T21:30:52	BREAKING:  BIDU Q4 Revenue, $2.89B vs. $2.73B expected
+Selerity	702969031150669825	2016-02-25T21:30:52	BREAKING:  BIDU Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $11.1 vs. $0.86 expected
+Selerity	702965162513461249	2016-02-25T21:15:29	BREAKING: Herbalife HLF Q4 Adjusted Earnings Per Share (EPS) beats estimates, $1.19 vs. $0.94 expected
+Selerity	702965161884258304	2016-02-25T21:15:29	BREAKING: Herbalife HLF Q4 Revenue, $1.1B vs. $1.06B expected
+Selerity	702965161414549504	2016-02-25T21:15:29	BREAKING: Gap Inc. GPS Q4 Revenue, $4.38B vs. $4.46B expected
+Selerity	702965160823169025	2016-02-25T21:15:29	BREAKING: Gap Inc. GPS Q4 Adjusted Earnings Per Share (EPS) $0.57 inline with expectations
+Selerity	702962577966559232	2016-02-25T21:05:13	BREAKING: NOODLES &amp; Co NDLS Q4 Revenue, $117.13M vs. $117.19M expected
+Selerity	702962577404502016	2016-02-25T21:05:13	BREAKING: NOODLES &amp; Co NDLS Q4 Adjusted Earnings Per Share (EPS) $0 inline with expectations
+Selerity	702961399044173824	2016-02-25T21:00:32	BREAKING: Intuit INTU Q2 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.25 vs. $0.19 expected
+Selerity	702961398356320258	2016-02-25T21:00:32	BREAKING: Intuit INTU Q2 Revenue, $923M vs. $893.23M expected
+Selerity	702951964754239488	2016-02-25T20:23:03	February Monthly Auto Sales Preview: Ford F and General Motors GM  
+Selerity	702895783855710208	2016-02-25T16:39:48	Earnings Preview: Hewlett Packard Enterprise Q1 2016 HPE  
+Selerity	702878220119629825	2016-02-25T15:30:01	BREAKING: U.S. DOE Natural Gas Inventories Weekly Change for 02/19 is (117B). natgas
+Selerity	702826938478534656	2016-02-25T12:06:14	BREAKING: Kohl's Corp. KSS Q4 Earnings Per Share (EPS) Excluding Items beats estimates, $1.58 vs. $1.56 expected
+Selerity	702825513040084993	2016-02-25T12:00:34	BREAKING: Best Buy BBY Q4 Revenue, $13.62B vs. $13.61B expected
+Selerity	702825512587157504	2016-02-25T12:00:34	BREAKING: Kohl's Corp. KSS Q4 Revenue, $6.39B vs. $6.39B expected
+Selerity	702825511144316928	2016-02-25T12:00:34	BREAKING: Best Buy BBY Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $1.53 vs. $1.39 expected
+Selerity	702810557968207872	2016-02-25T11:01:09	BREAKING: Sears Holdings SHLD Q4 Earnings Per Share (EPS) Excluding Items misses estimates, ($1.7) vs. ($1.36) expected
+Selerity	702810557460697088	2016-02-25T11:01:09	BREAKING: Sears Holdings SHLD Q4 Revenue, $7.3B vs. $7.26B expected
+Selerity	702651766064746496	2016-02-25T00:30:10	BREAKING: Australia Q4 Private New Capital Expenditures Q/Q, 0.8% vs. (3%) expected. AUD
+Selerity	702644821693964289	2016-02-25T00:02:34	mahyarrabbanian "Non-GAAP basic and diluted earnings per ADS were US$2.77 and US$2.74, respectively, for the fourth quarter of 2015."
+Selerity	702629568344104960	2016-02-24T23:01:57	BREAKING:  NTES Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $2.74 vs. $1.81 expected
+Selerity	702629567714959360	2016-02-24T23:01:57	BREAKING:  NTES Q4 Revenue, $1.22B vs. $953.8M expected
+Selerity	702606470811131911	2016-02-24T21:30:11	BREAKING: L Brands LB Q4 Revenue, $4.39B vs. $4.37B expected
+Selerity	702600400814395392	2016-02-24T21:06:03	BREAKING:  CRM Q4 Revenue, $1.81B vs. $1.79B expected
+Selerity	702600399556124673	2016-02-24T21:06:03	BREAKING:  CRM Q4 Non-GAAP Earnings Per Share (EPS) $0.19 inline with expectations
+Selerity	702600139576381440	2016-02-24T21:05:01	BREAKING: HP Inc. HPQ Q1 Non-GAAP Earnings Per Share (EPS) $0.36 inline with expectations
+Selerity	702600139098161152	2016-02-24T21:05:01	BREAKING: HP Inc. HPQ Q1 Revenue, $12.25B vs. $12.2B expected
+Selerity	702515834120486917	2016-02-24T15:30:01	BREAKING: U.S. DOE Distillate Inventories Weekly Change for 02/19 is (1.66M). oil
+Selerity	702515833365536773	2016-02-24T15:30:01	BREAKING: U.S. DOE Gasoline Inventories Weekly Change for 02/19 is (2.24M). oil
+Selerity	702515832505634820	2016-02-24T15:30:01	BREAKING: U.S. DOE Crude Oil Inventories Weekly Change for 02/19 is 3.5M. oil
+Selerity	702490639649345536	2016-02-24T13:49:54	craigellan Lowe's hasn't reported an adjusted number in the past few years but did this time on their exit from an Australian joint venture
+Selerity	702478259947216896	2016-02-24T13:00:43	BREAKING: Target TGT Q4 Revenue, $21.63B vs. $21.84B expected
+Selerity	702478259355787264	2016-02-24T13:00:43	BREAKING: Target TGT Q4 Adjusted Earnings Per Share (EPS) misses estimates, $1.52 vs. $1.54   expected
+Selerity	702450679135268864	2016-02-24T11:11:07	Lowe's Companies LOW Q4 Adjusted Earnings Per Share (EPS), $0.59 vs. $0.59 expected
+Selerity	702448179506233344	2016-02-24T11:01:11	BREAKING: Lowe's Companies LOW Q4 Revenue, $13.24B vs. $13.07B expected
+Selerity	702448178868654080	2016-02-24T11:01:11	BREAKING: Lowe's Companies LOW Q4 Earnings Per Share (EPS), $0.01 vs. $0.59 expected
+Selerity	702240697815015424	2016-02-23T21:16:44	BREAKING: Avis Budget Group CAR Q4 Revenue, $1.9B vs. $1.93B expected
+Selerity	702240696951054336	2016-02-23T21:16:43	BREAKING: Avis Budget Group CAR Q4 Adjusted Earnings Per Share (EPS) $0.18 inline with expectations
+Selerity	702237140994940933	2016-02-23T21:02:36	BREAKING: DreamWorks Animation DWA Q4 Adjusted Earnings Per Share (EPS) beats estimates, $0.55 vs.   $0.16 expected
+Selerity	702237139979935744	2016-02-23T21:02:35	BREAKING: DreamWorks Animation DWA Q4 Revenue, $319.34M vs. $274.02M expected
+Selerity	702145903700869121	2016-02-23T15:00:03	BREAKING: U.S. Conference Board - Consumer Confidence for February, 92.2 vs. 96.8 expected. USD
+Selerity	702130811546501120	2016-02-23T14:00:05	BREAKING: Mexico Q4 GDP q/q, 0.5% vs. 0.6% expected. MXN
+Selerity	702116749215399937	2016-02-23T13:04:12	BREAKING: Macy's M Q4 Earnings Per Share (EPS) Excluding Items beats estimates, $2.09 vs. $1.88   expected
+Selerity	702116174302224384	2016-02-23T13:01:55	BREAKING: Macy's M Q4 Revenue, $8.87B vs. $8.83B expected
+Selerity	702101134765387776	2016-02-23T12:02:09	BREAKING: Turkey Central Bank leaves the Repo Rate unchanged as expected at 7.5%. TRY
+Selerity	702086105450024960	2016-02-23T11:02:26	BREAKING: Home Depot HD Q4 Revenue, $20.98B vs. $20.38B expected
+Selerity	701885691442102272	2016-02-22T21:46:03	RKLouie1 Much appreciated, Raymond.
+Selerity	701768461228359680	2016-02-22T14:00:14	BREAKING: Israel Base Rate is left unchanged as expected at 0.1%. ILS
+Selerity	700742066066874372	2016-02-19T18:01:42	BREAKING: U.S. Oil Rig Count (Baker Hughes)   Weekly Change for 02/19 is (26). oil
+Selerity	700741756539772928	2016-02-19T18:00:28	BREAKING: U.S. Total Rig Count (Baker Hughes)   Weekly Change for 02/19 is (27). oil
+Selerity	700703654874054657	2016-02-19T15:29:04	Earnings Preview: Herbalife Q4 2015 HLF  
+Selerity	700696556664713217	2016-02-19T15:00:52	Earnings Preview: Best Buy Q4 2016 BBY  
+Selerity	700689425878032387	2016-02-19T14:32:31	Earnings Preview: HP Inc. Q1 2016 HPQ  
+Selerity	700680879086166016	2016-02-19T13:58:34	Earnings Preview:  Q4 2016 CRM  
+Selerity	700647602769899520	2016-02-19T11:46:20	BREAKING: Deere &amp; Co. DE Q1 Revenue, $5.53B   vs. $4.96B expected
+Selerity	700647601725542400	2016-02-19T11:46:20	BREAKING: Deere &amp; Co. DE Q1 Earnings Per Share   (EPS) beats estimates, $0.8 vs. $0.7 expected
+Selerity	700426604066037761	2016-02-18T21:08:10	Nordstrom JWN Q4 Earnings Per Share (EPS), $1 (includes 17c charges) vs. $1.22 expected
+Selerity	700425920587374593	2016-02-18T21:05:27	BREAKING: Nordstrom JWN Q4 Revenue, $4.19B   vs. $4.23B expected
+Selerity	700425919937318912	2016-02-18T21:05:27	BREAKING: Nordstrom JWN Q4 Earnings Per Share   (EPS), $1 vs. $1.22 expected
+Selerity	700349055789047808	2016-02-18T16:00:01	BREAKING: U.S. DOE Distillate Inventories Weekly   Change for 02/12 is 1.4M. oil
+Selerity	700349055159963648	2016-02-18T16:00:01	BREAKING: U.S. DOE Gasoline Inventories Weekly   Change for 02/12 is 3.04M. oil
+Selerity	700349054455279617	2016-02-18T16:00:01	BREAKING: U.S. DOE Crude Oil Inventories Weekly   Change for 02/12 is 2.15M. oil
+Selerity	700341504628363264	2016-02-18T15:30:01	BREAKING: U.S. DOE Natural Gas Inventories   Weekly Change for 02/12 is (158B). natgas
+Selerity	700311351546220544	2016-02-18T13:30:12	BREAKING: Philly Fed February Business   Activity, (2.8) vs. (2.8) expected. USD
+Selerity	700289196154605569	2016-02-18T12:02:09	BREAKING: Wal-Mart WMT Q4 Revenue, $129.67B   vs. $130.65B expected
+Selerity	700289195651284993	2016-02-18T12:02:09	BREAKING: Wal-Mart WMT Q4 Adjusted Earnings Per   Share (EPS) beats estimates, $1.49 vs. $1.43 expected
+Selerity	700130035638935553	2016-02-18T01:29:42	BREAKING: China Producer Price Index (Y/Y) for January, (5.3%) vs. (5.4%) expected. CNY
+Selerity	700130033826922496	2016-02-18T01:29:42	BREAKING: China Consumer Price Index All Items y/y for January, 1.8% vs. 1.9% expected. CNY
+Selerity	700115056114196480	2016-02-18T00:30:11	BREAKING: Australian Full Time Employment Change for January is (40,600). AUD
+Selerity	700115032881889281	2016-02-18T00:30:06	BREAKING: Australian Unemployment Rate for January is 6%. AUD
+Selerity	700115021519519744	2016-02-18T00:30:03	BREAKING: Australian Labour Force Change m/m for January is (7,900). AUD
+Selerity	699926594756964352	2016-02-17T12:01:18	BREAKING:  PCLN Q4 Revenue, $2B vs. $1.96B expected
+Selerity	699926594043904001	2016-02-17T12:01:18	BREAKING:  PCLN Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $12.63 vs. $11.81 expected
+Selerity	699597112862994432	2016-02-16T14:12:04	BREAKING: Global Dairy Trade (Whole Milk) Average Price Change from the last auction is (3.7%). NZD
+Selerity	699065043359547392	2016-02-15T02:57:48	BREAKING: China Imports (Y/Y change) for January, (18.8%) vs. (0.8%) expected. CNY
+Selerity	699065042495369216	2016-02-15T02:57:48	BREAKING: China Exports (Y/Y change) for January, (11.2%) vs. 1.9% expected. CNY
+Selerity	699054270302310400	2016-02-15T02:15:00	CORRECTION: China Trade Balance for January, $62.15B vs. $58.85B expected. (Exports in Yuan -6.6%, Imports in Yuan -14.4%) CNY
+Selerity	699051522139750401	2016-02-15T02:04:05	BREAKING: China Trade Balance for January, $13.1B vs. $58.85B expected. CNY
+Selerity	698210016055160833	2016-02-12T18:20:14	halabshow There are 439 oil rigs now vs 1056 a year ago. There were 1609 oil rigs on 10/10/2014. Gas rigs have dropped 2/3 from a year ago.
+Selerity	698205328983384064	2016-02-12T18:01:37	BREAKING: U.S. Oil Rig Count (Baker Hughes) Weekly Change for 02/12 is (28). oil
+Selerity	698205151744679936	2016-02-12T18:00:54	BREAKING: U.S. Total Rig Count (Baker Hughes) Weekly Change for 02/12 is (30). oil
+Selerity	698159628098650112	2016-02-12T15:00:01	BREAKING: University of Michigan Sentiment (February-Prel), 90.7 vs. 93 expected. USD
+Selerity	698132559033720832	2016-02-12T13:12:27	haydenth Probably there was some confusion around the switch to a Shareholder letter.
+Selerity	698110688980529154	2016-02-12T11:45:33	BREAKING: ITT Corp ITT Q4 Adjusted Earnings Per Share (EPS) beats estimates, $0.58 vs. $0.55 expected
+Selerity	698110688242352129	2016-02-12T11:45:33	BREAKING: ITT Corp ITT Q4 Revenue, $666.8M vs. $631.95M expected
+Selerity	697888703063183360	2016-02-11T21:03:27	BREAKING: Groupon GRPN Q4 Revenue, $917.2M vs. $845.9M expected
+Selerity	697888702509486081	2016-02-11T21:03:27	BREAKING: Groupon GRPN Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.04 vs. $0 expected
+Selerity	697888451350364160	2016-02-11T21:02:27	BREAKING: Pandora Media P Q4 Non-GAAP Earnings Per Share (EPS) misses estimates, $0.04 vs. $0.07 expected
+Selerity	697888450876469248	2016-02-11T21:02:27	BREAKING: Pandora Media P Q4 Revenue, $336.16M vs. $331.83M expected
+Selerity	697877825299345410	2016-02-11T20:20:14	Earnings Preview: Priceline Q4 2015 PCLN  
+Selerity	697871713808293888	2016-02-11T19:55:57	Earnings Preview: Wal-Mart Q4 2016 WMT  
+Selerity	697867915698294784	2016-02-11T19:40:51	Earnings Preview: Deere Q1 2016 DE  
+Selerity	697837993583886336	2016-02-11T17:41:57	USD Fed's Yellen: Level 2a asset designation for muni bonds is something I do not support. They aren't liquid enough.
+Selerity	697830893524799490	2016-02-11T17:13:44	USD Fed's Yellen: USD strength is one of the reasons a neutral Fed Funds rate is low at the moment.
+Selerity	697828554185244672	2016-02-11T17:04:27	USD Fed's Yellen: Broader fears of weakening global growth is probably what's responsible for the recent stock market decline.
+Selerity	697813692361129984	2016-02-11T16:05:23	USD Fed's Yellen: We previously considered negative rates in 2010 and we are again evaluating such a policy.
+Selerity	697805980214697984	2016-02-11T15:34:44	USD Fed's Yellen: Oil price moves have been surprising but that's probably more supply related than demand.
+Selerity	697804790114467841	2016-02-11T15:30:01	BREAKING: U.S. DOE Natural Gas Inventories Weekly Change for 02/05 is (70B). natgas
+Selerity	697767150497501184	2016-02-11T13:00:27	BREAKING: Travelzoo TZOO Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.03 vs. ($0.03) expected
+Selerity	697767149897674752	2016-02-11T13:00:27	BREAKING: Travelzoo TZOO Q4 Revenue, $32.1M vs. $32.14M expected
+Selerity	697745052437708800	2016-02-11T11:32:38	BREAKING: PepsiCo PEP Q4 Revenue, $18.59B vs. $18.51B expected
+Selerity	697745051988918272	2016-02-11T11:32:38	BREAKING: PepsiCo PEP Q4 Adjusted Earnings Per Share (EPS) $1.06 inline with expectations
+Selerity	697532998816788480	2016-02-10T21:30:01	BREAKING: NZ: New Zealand PMI for January is 57.9.   NZD
+Selerity	697532147410853888	2016-02-10T21:26:38	BREAKING: Tesla Motors, Incorporated TSLA Q4 Revenues   misses estimates, $1.75B vs. $1.79B expected
+Selerity	697531302082428933	2016-02-10T21:23:16	BREAKING: Twitter Inc. TWTR Average Monthly Active   Users (MAUs) for Q4 320M vs. 320M in Q3
+Selerity	697531301633638400	2016-02-10T21:23:16	BREAKING: Twitter Inc. TWTR Q4 Non-GAAP Earnings Per   Share (EPS) beats estimates, $0.16 vs. $0.12 expected
+Selerity	697531301168025604	2016-02-10T21:23:16	BREAKING: Twitter Inc. TWTR Average Monthly Active   Users (MAUs) for Q4 is 256M vs. 256M in Q3
+Selerity	697531300547317760	2016-02-10T21:23:16	BREAKING: Twitter Inc. TWTR Q4 Revenues beats   estimates, $710M vs. $709.94M expected
+Selerity	697529310421393409	2016-02-10T21:15:21	BREAKING: Tesla Motors, Incorporated TSLA Deliveries   for Q4 17,478 vs. 11,603 in Q3
+Selerity	697529309792202753	2016-02-10T21:15:21	BREAKING: Tesla Motors, Incorporated TSLA Q4 Non-GAAP   Earnings Per Share (EPS) misses estimates, ($0.87) vs. $0.1   expected
+Selerity	697526906124685312	2016-02-10T21:05:48	BREAKING: Whole Foods Market WFM Q1 Revenues beats   estimates, $4.83B vs. $4.81B expected
+Selerity	697526905474523138	2016-02-10T21:05:48	BREAKING: Whole Foods Market WFM Q1 Earnings Per Share   (EPS) beats estimates, $0.46 vs. $0.4 expected
+Selerity	697526708417732608	2016-02-10T21:05:01	BREAKING: Cisco CSCO Q2 Revenues beats estimates,   $11.93B vs. $11.76B expected
+Selerity	697526707843153920	2016-02-10T21:05:01	BREAKING: Cisco CSCO Q2 Non-GAAP Earnings Per Share   (EPS) beats estimates, $0.57 vs. $0.54 expected
+Selerity	697482981024395266	2016-02-10T18:11:15	USD Fed's Yellen: We do see that low grade bond spreads have widened and not just for energy.
+Selerity	697482389501648898	2016-02-10T18:08:54	USD Fed's Yellen: Maybe the economic situation has changed since December but the jury is still out.
+Selerity	697474708057546752	2016-02-10T17:38:23	USD Fed's Yellen: Unemployment rate is close to the minimum long-term rate but we recognize that slack remains.
+Selerity	697468696835551233	2016-02-10T17:14:30	USD Fed's Yellen: Taylor rules suggests a 2.5% overnight rate but we think that's too high.
+Selerity	697463794537230336	2016-02-10T16:55:01	USD Fed's Yellen: Negative interest rates are in stress tests since T-Bills could go negative without the Fed being negative.
+Selerity	697451335403380736	2016-02-10T16:05:31	USD Fed's Yellen: I do not expect we will have to cut rates in 2016.
+Selerity	697448989906620416	2016-02-10T15:56:11	USD Fed's Yellen: Negative rates are a matter that the FOMC considered in 2010. We didn't fully look at legality of that.
+Selerity	697446798718341120	2016-02-10T15:47:29	USD Fed's Yellen: The neutral level of the Fed Funds rate is by no means normal.
+Selerity	697445298927439876	2016-02-10T15:41:31	USD Fed's Yellen: Paying interest to banks on excess reserves was allowed 2006. We couldn't have increased rates without it.
+Selerity	697442404538970113	2016-02-10T15:30:01	BREAKING: U.S. DOE Distillate Inventories Weekly Change for 02/5 is 1.28M. oil
+Selerity	697442403758817281	2016-02-10T15:30:01	BREAKING: U.S. DOE Gasoline Inventories Weekly Change for 02/5 is 1.26M. oil
+Selerity	697442403150655488	2016-02-10T15:30:01	BREAKING: U.S. DOE Crude Oil Inventories Weekly Change for 02/5 is (754,000). oil
+Selerity	697417521968844800	2016-02-10T13:51:09	USD Fed's Yellen Testimony Text: 
+Selerity	697389935070945280	2016-02-10T12:01:32	BREAKING: Time Warner TWX Q4 Revenue, $7.08B vs. $7.53B expected
+Selerity	697389934487982080	2016-02-10T12:01:31	BREAKING: Time Warner TWX Q4 Adjusted Earnings Per Share (EPS) beats estimates, $1.06 vs. $1.01 expected
+Selerity	697169541101658113	2016-02-09T21:25:46	BREAKING: Panera Bread PNRA Q4 Revenue, $691.77M vs. $695.43M expected
+Selerity	697169540573171716	2016-02-09T21:25:45	BREAKING: Panera Bread PNRA Q4 Earnings Per Share (EPS) Excluding Items beats estimates, $1.88 vs. $1.78 expected
+Selerity	697168195480903680	2016-02-09T21:20:25	BREAKING: Walt-Disney DIS Q1 Earnings Per Share (EPS) Excluding Items beats estimates, $1.63 vs. $1.45 expected
+Selerity	697168194818146306	2016-02-09T21:20:25	BREAKING: Walt-Disney DIS Q1 Revenue, $15.24B vs. $14.75B expected
+Selerity	697164906328649728	2016-02-09T21:07:21	BREAKING:  OSTK Q4 Revenue, $480M vs. $526M expected
+Selerity	697164905426898944	2016-02-09T21:07:20	BREAKING:  OSTK Q4 Earnings Per Share (EPS), $0 vs. $0.31 expected
+Selerity	697072725072994304	2016-02-09T15:01:03	.twitter content now available via our Selerity Context App on symphony ! TWTR 
+Selerity	697058920578355206	2016-02-09T14:06:12	We’re pleased to announce our partnership with Twitter today. Read all about it here:  
+Selerity	697025998743801856	2016-02-09T11:55:22	BREAKING: Coca-Cola KO Q4 Non-GAAP Earnings Per Share   (EPS) beats estimates, $0.38 vs. $0.37 expected
+Selerity	697025998173446144	2016-02-09T11:55:22	BREAKING: Coca-Cola KO Q4 Revenues beats estimates,   $10B vs. $9.88B expected
+Selerity	696804665254612992	2016-02-08T21:15:52	BREAKING: Gap Inc GPS Same Store Sales for January   fell to (8%) vs. (5%) in December.
+Selerity	695690104275218432	2016-02-05T19:27:00	Earnings Preview: Cisco Systems Q2 2016 CSCO  
+Selerity	695671718921293825	2016-02-05T18:13:57	Earnings Preview: Twitter Q4 2015 TWTR  
+Selerity	695668711676583936	2016-02-05T18:02:00	BREAKING: U.S. Oil Rig Count (Baker Hughes) Change for 02/05 is (31). oil
+Selerity	695668307182100480	2016-02-05T18:00:23	BREAKING: U.S. Total Rig Count (Baker Hughes) Change for 02/05 is (48). oil
+Selerity	695622923386818560	2016-02-05T15:00:03	BREAKING: Canada Ivey Purchasing Managers Index s.a. (Jan), 66 vs. 50 expected. CAD
+Selerity	695620427620679680	2016-02-05T14:50:08	craigellan Hey Craig, Thanks for the heads up. Should be interesting.
+Selerity	695577725063577601	2016-02-05T12:00:27	BREAKING: Moodys MCO Q4 Revenue, $865.9M vs. $855.89M expected
+Selerity	695403978020945922	2016-02-05T00:30:02	BREAKING: Australian Retail Sales for December, 0% vs. 0.5% expected. AUD
+Selerity	695357708979994624	2016-02-04T21:26:11	NukemosS 
+Selerity	695353143295549440	2016-02-04T21:08:03	BREAKING: Deckers Outdoor DECK Q3 Revenue, $795.9M vs. $833.15M expected
+Selerity	695352478166966276	2016-02-04T21:05:24	BREAKING: LinkedIn LNKD Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.94 vs. $0.78 expected
+Selerity	695352477147754496	2016-02-04T21:05:24	BREAKING: LinkedIn LNKD Q4 Revenue, $861.89M vs. $857.59M expected
+Selerity	695343081248284672	2016-02-04T20:28:04	Earnings Preview: Expedia Q4 2015 EXPE  
+Selerity	695320957171470336	2016-02-04T19:00:09	BREAKING: Mexico Overnight Rate left unchanged at 3.25%. MXN
+Selerity	695319252799221763	2016-02-04T18:53:22	Earnings Preview: Whole Foods Q1 2016 WFM  
+Selerity	695294257272340482	2016-02-04T17:14:03	Earnings Preview: Tesla Motors Q4 2015 TSLA  
+Selerity	695268074916835328	2016-02-04T15:30:01	BREAKING: U.S. DOE Natural Gas Inventories Weekly Change for 01/29 is (152B). natgas
+Selerity	695219025744412673	2016-02-04T12:15:06	BREAKING: L Brands LB Same Store Sales y/y for January is (2%).
+Selerity	695215335289520128	2016-02-04T12:00:27	BREAKING: ConocoPhillips COP Q4 Adjusted Earnings Per Share (EPS) misses estimates, ($0.9) vs. ($0.65) expected
+Selerity	695215227793760256	2016-02-04T12:00:01	BREAKING: Czech National Bank Repo Rate is left unchanged at 0.05% inline with expectations. CZK
+Selerity	695215085191614464	2016-02-04T11:59:27	BREAKING: Philip Morris PM Q4 Revenue, $6.4B vs. $6.49B expected
+Selerity	695215084503724032	2016-02-04T11:59:27	BREAKING: Philip Morris PM Q4 Adjusted Earnings Per Share (EPS) $0.81 inline with expectations
+Selerity	695200797915758592	2016-02-04T11:02:41	BREAKING: Dunkin Brands DNKN Q4 Revenue, $203.8M vs. $203.31M expected
+Selerity	695200797357957120	2016-02-04T11:02:40	BREAKING: Dunkin Brands DNKN Q4 Adjusted Earnings Per Share (EPS) beats estimates, $0.52 vs. $0.5 expected
+Selerity	695064231608193024	2016-02-04T02:00:01	BREAKING: Costco January Same Store Sales ex-items y/y change is 4%. COST
+Selerity	695049187860291584	2016-02-04T01:00:14	BREAKING: NXP Semiconductors NV NXPI Q4 Revenue, $1.61B vs. $1.29B expected
+Selerity	695049186585231360	2016-02-04T01:00:14	BREAKING: NXP Semiconductors NV NXPI Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $1.25 vs. $1.07 expected
+Selerity	694996305903501312	2016-02-03T21:30:06	BREAKING: GoPro GPRO Q4 Revenue, $436.6M vs. $496.1M expected
+Selerity	694996305165312000	2016-02-03T21:30:06	BREAKING: GoPro GPRO Q4 Non-GAAP Earnings Per Share (EPS) misses estimates, ($0.08) vs. $0 expected
+Selerity	694992632452366337	2016-02-03T21:15:30	BREAKING: Yum! Brands YUM Q4 Revenue, $3.95B vs. $4.02B expected
+Selerity	694992630942425088	2016-02-03T21:15:30	BREAKING: Yum! Brands YUM Q4 Earnings Per Share (EPS) Excluding Items beats estimates, $0.68 vs. $0.66 expected
+Selerity	694990118067765248	2016-02-03T21:05:31	BREAKING: Take Two Interactive TTWO Q3 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.89 vs. $0.5 expected
+Selerity	694990117413482496	2016-02-03T21:05:30	BREAKING: Take Two Interactive TTWO Q3 Revenue, $486.79M vs. $452.79M expected
+Selerity	694964420032753665	2016-02-03T19:23:24	Earnings Preview: Walt Disney Q1 2016 DIS  
+Selerity	694961140053336064	2016-02-03T19:10:22	Earnings Preview: Groupon Q4 2015 GRPN  
+Selerity	694905690167582720	2016-02-03T15:30:01	BREAKING: U.S. DOE Crude Oil Inventories Weekly Change for 1/29 is 7.79M. oil
+Selerity	694905689576181760	2016-02-03T15:30:01	BREAKING: U.S. DOE Distillate Inventories Weekly Change for 1/29 is (777,000). oil
+Selerity	694905688846417920	2016-02-03T15:30:01	BREAKING: U.S. DOE Gasoline Inventories Weekly Change for 1/29 is 5.94M. oil
+Selerity	694860820442955778	2016-02-03T12:31:44	BREAKING: General Motors GM Q4 Revenue, $39.6B vs. $38.07B expected
+Selerity	694860819763433472	2016-02-03T12:31:43	BREAKING: General Motors GM Q4 Adjusted Earnings Per Share (EPS) beats estimates, $1.39 vs. $1.22 expected
+Selerity	694853016743235584	2016-02-03T12:00:43	BREAKING: Comcast Corp CMCSA Q4 Revenue $19.25B vs. $18.77B expected
+Selerity	694853015732424704	2016-02-03T12:00:43	BREAKING: Comcast Corp CMCSA Q4 Earnings Per Share (EPS) Excluding Items misses estimates, $0.81 vs. $0.82 expected
+Selerity	694849142833745925	2016-02-03T11:45:19	BREAKING: Merck MRK Q4 Revenue, $10.21B vs. $10.36B expected
+Selerity	694849142053543936	2016-02-03T11:45:19	BREAKING: Merck MRK Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.93 vs. $0.91 expected
+Selerity	694845485325127680	2016-02-03T11:30:47	BREAKING: Poland Central Bank leaves the Base Rate unchanged at 1.5% as expected. PLN
+Selerity	694679246149664768	2016-02-03T00:30:13	BREAKING: Australian Building Approvals Y/Y: December (2.5%), November (8.4%). AUD
+Selerity	694679242769092608	2016-02-03T00:30:12	BREAKING: Australian December Trade Balance, ($3.54B) vs. ($2.5B) expected. AUD
+Selerity	694679204353413121	2016-02-03T00:30:03	BREAKING: Australian December Building Approvals M/M, 9.2% vs. 5.4% expected. AUD
+Selerity	694638328562475009	2016-02-02T21:47:37	BREAKING: New Zealand Q4 Unemployment Rate, 5.3% vs. 6% expected. NZD
+Selerity	694633992625262592	2016-02-02T21:30:24	BREAKING: Yahoo! YHOO Q4 Revenues Ex-Traffic Acquisition Costs (TAC), $1B vs. $948.68M expected, $1B vs. $948.68M expected
+Selerity	694633991576616960	2016-02-02T21:30:23	BREAKING: Yahoo! YHOO Q4 Non-GAAP Earnings Per Share (EPS) $0.13 inline with expectations
+Selerity	694633990817447937	2016-02-02T21:30:23	BREAKING: Chipotle Mexican Grill CMG Q4 Revenue $997.51M vs. $1.01B expected
+Selerity	694633989601148929	2016-02-02T21:30:23	BREAKING: Chipotle Mexican Grill CMG Q4 Earnings Per Share (EPS) beats estimates, $2.17 vs. $1.86 expected
+Selerity	694524459001188356	2016-02-02T14:15:09	BREAKING: Ford Motor F January Vehicle Sales y/y, (2.6%) vs. (3.13%) expected
+Selerity	694523532844384256	2016-02-02T14:11:28	cordial No misprint. XOM revenue consensus expectations was for a 41.2% y/y drop, so better than expected is still down.
+Selerity	694518900676005888	2016-02-02T13:53:04	BREAKING: Global Dairy Whole Milk Price Change for 2/2 from the previous auction is (10.4%). NZD
+Selerity	694518899472273410	2016-02-02T13:53:03	BREAKING: Global Dairy Trade (GDT) Index Price Change for 2/2 from the previous auction is (7.4%). NZD
+Selerity	694505702199578624	2016-02-02T13:00:37	BREAKING: Exxon Mobil XOM Q4 Revenue, $59.81B vs. $51.36B expected
+Selerity	694505701088088064	2016-02-02T13:00:37	BREAKING: Exxon Mobil XOM Q4 Earnings Per Share (EPS) beats estimates, $0.67 vs. $0.64 expected
+Selerity	694487346180444160	2016-02-02T11:47:40	BREAKING: Dow Chemical DOW Q4 Revenue $11.46B vs. $11.22B expected
+Selerity	694486833498046464	2016-02-02T11:45:38	BREAKING: Pfizer PFE Q4 Revenue, $14.05B vs. $13.57B expected
+Selerity	694486832948613121	2016-02-02T11:45:38	BREAKING: Pfizer PFE Q4 Adjusted Earnings Per Share (EPS) beats estimates, $0.53 vs. $0.52 expected
+Selerity	694486830381711360	2016-02-02T11:45:37	BREAKING: Dow Chemical DOW Q4 Adjusted Earnings Per Share (EPS) beats estimates, $0.93 vs. $0.7 expected
+Selerity	694362119068872705	2016-02-02T03:30:04	BREAKING: Reserve Bank of Australia leaves the Cash Rate unchanged at 2% as expected. AUD
+Selerity	694263889907818496	2016-02-01T20:59:44	Earnings Preview: Deckers Outdoor Q3 2016 DECK  
+Selerity	694250927398723584	2016-02-01T20:08:14	Earnings Preview: LinkedIn Q4 2015 LNKD  
+Selerity	694242153518780416	2016-02-01T19:33:22	Earnings Preview: Yum! Brands Q4 2015 YUM  
+Selerity	693960625924489216	2016-02-01T00:54:41	BREAKING: China NBS Manufacturing PMI for January, 49.4 vs. 49.6 expected. CNY
+Selerity	693959971961204737	2016-02-01T00:52:05	BREAKING: China NBS Non-manufacturing PMI: January 53.5, December 54.4. CNY
+Selerity	693132217212624896	2016-01-29T18:02:53	BREAKING: U.S. Oil Rig Count (Baker Hughes) Change for 01/29 is (12). oil
+Selerity	693131894049918978	2016-01-29T18:01:35	BREAKING: U.S. Total Rig Count (Baker Hughes) Change for 01/29 is (18). oil
+Selerity	693096409520816128	2016-01-29T15:40:35	Earnings Preview: Chipotle Q4 2015 CMG  
+Selerity	693086198101835778	2016-01-29T15:00:01	BREAKING: US: University of Michigan Sentiment (Final) for January is misses estimates, 92 vs. 93 expected. USD
+Selerity	693069118988271616	2016-01-29T13:52:09	Earnings Preview: Yahoo! Q4 2015 YHOO  
+Selerity	693064735126872065	2016-01-29T13:34:44	Chevron CVX Q4 Earnings Per Share (EPS) of ($0.31) (Fourth quarter earnings include impairments and other charges of $1.1 billion)
+Selerity	693063621442666496	2016-01-29T13:30:18	BREAKING: Chevron CVX Q4 Revenues beats estimates, $29.25B vs. $28.72B expected
+Selerity	693063620893241344	2016-01-29T13:30:18	BREAKING: Chevron CVX Q4 Earnings Per Share (EPS) misses estimates, ($0.31) vs. $0.44 expected
+Selerity	692867260193464321	2016-01-29T00:30:02	BREAKING: AU: Australian Producer Price Index (PPI) q/q for Q4 misses estimates, 0.3% vs. 0.6% expected. AUD
+Selerity	692825859934285824	2016-01-28T21:45:31	BREAKING: New Zealand Building Permits m/m: December 2.3%, November 1.8%. NZD
+Selerity	692815746766913536	2016-01-28T21:05:20	BREAKING: Visa V Q1 Revenues misses estimates, $3.56B vs. $3.62B expected
+Selerity	692815745806376962	2016-01-28T21:05:20	BREAKING: Visa V Q1 Adjusted Earnings Per Share (EPS) beats estimates, $0.69 vs. $0.68 expected
+Selerity	692815725661134849	2016-01-28T21:05:15	BREAKING: Microsoft MSFT Q2 Revenues beats estimates, $25.7B vs. $25.26B expected
+Selerity	692814732567388160	2016-01-28T21:01:18	BREAKING: Amazon AMZN Q4 Revenues misses estimates, $35.75B vs. $35.98B expected
+Selerity	692814731556622337	2016-01-28T21:01:18	BREAKING: Amazon AMZN Q4 Earnings Per Share (EPS) misses estimates, $1 vs. $1.62 expected
+Selerity	692813148211036160	2016-01-28T20:55:01	January Monthly Auto Sales Preview: Ford F and General Motors GM  
+Selerity	692785154591473664	2016-01-28T19:03:46	Earnings Preview: Alphabet Q4 2015 GOOGL  
+Selerity	692731359945756672	2016-01-28T15:30:01	BREAKING: U.S. DOE Natural Gas Inventories Weekly Change for 01/22 is (211B). natgas
+Selerity	692686640393883648	2016-01-28T12:32:19	BREAKING: Caterpillar CAT Q4 Revenues misses estimates, $11B vs. $11.45B expected
+Selerity	692686639420825604	2016-01-28T12:32:18	BREAKING: Caterpillar CAT Q4 Earnings Per Share (EPS) Excluding Items beats estimates, $0.74 vs. $0.7 expected
+Selerity	692684802009473024	2016-01-28T12:25:00	CORRECTION: Ford Motor F Q4 Earnings Per Share (EPS) Excluding Items beats, $0.58 vs. $0.5 expected
+Selerity	692683095531745280	2016-01-28T12:18:14	BREAKING: Ford Motor F Q4 Revenues beats estimates, $40.3B vs. $36.4B expected
+Selerity	692683093229043713	2016-01-28T12:18:13	BREAKING: Ford Motor F Q4 Earnings Per Share (EPS)misses estimates, $0.47 vs. $0.5 expected
+Selerity	692677585956966400	2016-01-28T11:56:20	BREAKING: Alibaba Group Holding BABA Q3 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.99 vs. $0.93 expected
+Selerity	692677585382305800	2016-01-28T11:56:20	BREAKING: Alibaba Group Holding BABA Q3 Revenues beats estimates, $5.33B vs. $5.08B expected
+Selerity	692670166489010176	2016-01-28T11:26:51	BREAKING: Eli Lilly LLY Q4 Revenues beats estimates, $5.38B vs. $5.32B expected
+Selerity	692670165935378432	2016-01-28T11:26:51	BREAKING: Eli Lilly LLY Q4 Non-GAAP Earnings Per Share (EPS) $0.78 inline with expectations
+Selerity	692463792991637504	2016-01-27T21:46:48	BREAKING: New Zealand Trade Balance for December is ($52.62M). NZD
+Selerity	692456173044375553	2016-01-27T21:16:31	CORRECTION: Facebook Inc FB Q4 Daily Active Users is 1.04B. (Mobile DAUs were 934M.)
+Selerity	692453790574854144	2016-01-27T21:07:03	BREAKING: Facebook Inc FB Q4 Mobile Monthly Active Users is 1.44B.
+Selerity	692453789647933440	2016-01-27T21:07:03	BREAKING: Facebook Inc FB Q4 Mobile Daily Active Users is 1.04B.
+Selerity	692453789165568000	2016-01-27T21:07:03	BREAKING: Facebook Inc FB Q4 Monthly Active Users is 1.59B.
+Selerity	692453788494462976	2016-01-27T21:07:03	BREAKING: Facebook Inc FB Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.79 vs. $0.68 expected
+Selerity	692453787697545216	2016-01-27T21:07:02	BREAKING: Facebook Inc FB Q4 Revenues beats estimates, $5.84B vs. $5.36B expected
+Selerity	692452433910460418	2016-01-27T21:01:40	BREAKING: Qualcomm QCOM Q1 Revenues beats estimates, $5.77B vs. $5.69B expected
+Selerity	692452433306460161	2016-01-27T21:01:39	BREAKING: Qualcomm QCOM Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.97 vs. $0.9 expected
+Selerity	692452392814694401	2016-01-27T21:01:30	BREAKING: eBay EBAY Q4 Revenues beats estimates, $2.32B vs. $2.32B expected
+Selerity	692452392126828544	2016-01-27T21:01:30	BREAKING: eBay EBAY Q4 Non-GAAP Earnings Per Share (EPS) $0.5 inline with expectations
+Selerity	692421803319361539	2016-01-27T18:59:57	USD Fed's Statement: 
+Selerity	692368974470856705	2016-01-27T15:30:01	BREAKING: U.S. DOE Distillate Inventories Weekly Change for 01/22 is (4.06M). OIL
+Selerity	692368973569073152	2016-01-27T15:30:01	BREAKING: U.S. DOE Gasoline Inventories Weekly Change for 01/22 is 3.46M. OIL
+Selerity	692368972101062656	2016-01-27T15:30:01	BREAKING: U.S. DOE Crude Oil Inventories Weekly Change for 01/22 is 8.38M. OIL
+Selerity	692326715524276224	2016-01-27T12:42:06	CORRECTION: Boeing BA Q4 Non-GAAP Earnings Per Share (EPS), $1.6 vs. $1.27 expected (consensus was reduced from the $2.13 on Friday)
+Selerity	692323939788394497	2016-01-27T12:31:04	BREAKING: Boeing BA Q4 Non-GAAP Earnings Per Share (EPS) misses estimates, $1.6 vs. $2.13 expected
+Selerity	692323939339649024	2016-01-27T12:31:04	BREAKING: Boeing BA Q4 Revenues misses estimates, $23.57B vs. $23.64B expected
+Selerity	692142503043166208	2016-01-27T00:30:06	BREAKING: Australian Q4 Consumer Price Index Y/Y, 1.7% vs. 1.6% expected. AUD
+Selerity	692142493727588352	2016-01-27T00:30:04	BREAKING: Australian Q4 Consumer Price Index Q/Q, 0.4% vs. 0.3% expected. AUD
+Selerity	692142486391820288	2016-01-27T00:30:02	BREAKING: Australian Q4 Consumer Price Index Trimmed Mean Q/Q, 0.6% vs. 0.5% expected. AUD
+Selerity	692097276987187201	2016-01-26T21:30:24	BREAKING: Apple AAPL Q1 iPad Shipments is 16.12M.
+Selerity	692097276404240384	2016-01-26T21:30:23	BREAKING: Apple AAPL Q1 iPhone Shipments is 74.78M.
+Selerity	692097259945750529	2016-01-26T21:30:19	BREAKING: Apple AAPL Q1 Revenues misses estimates, $75.9B vs. $76.67B expected
+Selerity	692097259043950593	2016-01-26T21:30:19	BREAKING: Apple AAPL Q1 Earnings Per Share (EPS) beats estimates, $3.28 vs. $3.23 expected
+Selerity	692090003220987910	2016-01-26T21:01:29	BREAKING: AT&amp;T T Q4 Revenues misses estimates, $42.1B vs. $42.75B expected
+Selerity	692090002637987840	2016-01-26T21:01:29	BREAKING: AT&amp;T T Q4 Adjusted Earnings Per Share (EPS) $0.63 inline with expectations
+Selerity	691999035255853060	2016-01-26T15:00:01	BREAKING: U.S. January Consumer Confidence, 98.1 vs. 97 expected. USD
+Selerity	691961821759193089	2016-01-26T12:32:08	3M MMM Q4 Earnings Per Share (EPS) ex-restructuring charge, $1.80 vs. $1.63 expected
+Selerity	691961350726225920	2016-01-26T12:30:16	BREAKING: 3M MMM Q4 Revenue beats estimates, $7.3B vs. $7.21B expected
+Selerity	691961350071980032	2016-01-26T12:30:16	BREAKING: 3M MMM Q4 Earnings Per Share (EPS) beats estimates, $1.66 vs. $1.63 expected
+Selerity	691954585834016769	2016-01-26T12:03:23	BREAKING: Lockheed Martin beats LMT Q4 Revenues beats estimates, $12.92B vs. $12.33B expected
+Selerity	691954585250979840	2016-01-26T12:03:23	BREAKING: Lockheed Martin beats LMT Q4 Earnings Per Share estimates, $3.01 vs. $2.93 expected
+Selerity	691949171276922881	2016-01-26T11:41:52	BREAKING: Johnson &amp; Johnson JNJ Q4 Revenues misses estimates, $17.81B vs. $17.88B expected
+Selerity	691949170433900545	2016-01-26T11:41:52	BREAKING: Johnson &amp; Johnson JNJ Q4 Adjusted Earnings Per Share (EPS) beats estimates, $1.44 vs. $1.42 expected
+Selerity	691943423788597252	2016-01-26T11:19:02	BREAKING: DuPont DD Q4 Revenues misses estimates, $5.3B vs. $5.47B expected
+Selerity	691943423276929024	2016-01-26T11:19:02	BREAKING: DuPont DD Q4 Adjusted Earnings Per Share (EPS) beats estimates, $0.27 vs. $0.25 expected
+Selerity	691709284124643329	2016-01-25T19:48:39	Earnings Preview: Microsoft Q2 2016 MSFT  
+Selerity	691697142717485056	2016-01-25T19:00:24	Earnings Preview: Visa Q1 2016 V  
+Selerity	691685363224596481	2016-01-25T18:13:36	Earnings Preview: Caterpillar Q4 2015 CAT  
+Selerity	691663631646208004	2016-01-25T16:47:14	Earnings Preview:  Q4 2015 AMZN  
+Selerity	691606153734787072	2016-01-25T12:58:51	BREAKING: McDonald's MCD Q4 Revenues beats estimates, $6.34B vs. $6.23B expected
+Selerity	691606153214693376	2016-01-25T12:58:51	BREAKING: McDonald's MCD Q4 Earnings Per Share (EPS) beats estimates, $1.31 vs. $1.23 expected
+Selerity	690886104027959296	2016-01-23T13:17:37	shawski5000 Much appreciated. Typo has been fixed.
+Selerity	690601947200622592	2016-01-22T18:28:29	Earnings Preview: Facebook Q4 2015 FB  
+Selerity	690595426916044802	2016-01-22T18:02:35	BREAKING: U.S. Oil Rig Count (Baker Hughes) Change for 01/22 is (5). oil
+Selerity	690595173185757185	2016-01-22T18:01:34	BREAKING: U.S. Total Rig Count (Baker Hughes) Change for 01/22 is (13). oil
+Selerity	690591921400586240	2016-01-22T17:48:39	Earnings Preview: Qualcomm Q1 2016 QCOM  
+Selerity	690583178986266624	2016-01-22T17:13:54	Earnings Preview: Juniper Networks Q4 2015 JNPR  
+Selerity	690576338386882560	2016-01-22T16:46:44	Earnings Preview: eBay, Inc. Q4 2015 EBAY  
+Selerity	690562985669083136	2016-01-22T15:53:40	Earnings Preview: Apple Q1 2016 AAPL  
+Selerity	690546125925908481	2016-01-22T14:46:40	Earnings Preview: Johnson &amp; Johnson Q4 2015 JNJ  
+Selerity	690534582068842497	2016-01-22T14:00:48	Earnings Preview: McDonald’s Q4 2015 MCD  
+Selerity	690279598685319168	2016-01-21T21:07:35	American Express AXP Q4 Adjusted Earnings Per Share (EPS), $1.23 vs. $1.13 expected
+Selerity	690279041161650177	2016-01-21T21:05:22	BREAKING: American Express AXP Q4 Revenues beats estimates, $8.39B vs. $8.35B expected
+Selerity	690279040624824320	2016-01-21T21:05:22	BREAKING: American Express AXP Q4 Earnings Per Share (EPS) misses estimates, $0.89 vs. $1.13 expected
+Selerity	690278733979189252	2016-01-21T21:04:09	BREAKING: Starbucks SBUX Q1 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.46 vs. $0.45 expected
+Selerity	690278733220024320	2016-01-21T21:04:09	BREAKING:  Starbucks SBUX Q1 Revenues misses estimates, $5.37B vs. $5.39B expected
+Selerity	690202197028642817	2016-01-21T16:00:01	BREAKING: U.S. DOE Crude Oil Inventories Weekly Change for 1/15 is 3.98M. oil
+Selerity	690202195673882626	2016-01-21T16:00:01	BREAKING: U.S. DOE Distillate Inventories Weekly Change for 1/15 is (1.02M). oil
+Selerity	690202194663063553	2016-01-21T16:00:01	BREAKING: U.S. DOE Gasoline Inventories Weekly Change for 1/15 is 4.56M. oil
+Selerity	690164552000999425	2016-01-21T13:30:26	BREAKING: US: Philly Fed Business Activity for January beats estimates, (3.5) vs. (5) expected. USD
+Selerity	689790485498613760	2016-01-20T12:44:02	Goldman Sachs GS Q4 Earnings Per Share (EPS), $1.27 (includes $3.41 settlement charge) vs. $3.53 expected
+Selerity	689788239251664896	2016-01-20T12:35:06	BREAKING: Goldman Sachs GS Q4 Revenues beats estimates, $7.27B vs. $7.09B expected
+Selerity	689788237741690880	2016-01-20T12:35:06	BREAKING: Goldman Sachs GS Q4 Earnings Per Share (EPS) misses estimates, $1.27 vs. $3.53 expected
+Selerity	689556355347267584	2016-01-19T21:13:41	Netflix Inc NFLX Q4 Non-GAAP Earnings Per Share (EPS) $0.07 vs. $0.02 expected
+Selerity	689555396030287872	2016-01-19T21:09:52	BREAKING: Netflix Inc NFLX Q4 Net Subscriber Additions is 5.44M.
+Selerity	689555395417935874	2016-01-19T21:09:52	BREAKING: Netflix Inc NFLX Q4 Revenues misses estimates, $1.82B vs. $1.83B expected
+Selerity	689555394784595968	2016-01-19T21:09:52	BREAKING: Netflix Inc NFLX Q4 Earnings Per Share (EPS) beats estimates, $0.1 vs. $0.02 expected
+Selerity	689554531026366469	2016-01-19T21:06:26	BREAKING: IBM Corp. IBM Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $4.84 vs. $4.81 expected
+Selerity	689554530447552512	2016-01-19T21:06:26	BREAKING: IBM Corp. IBM Q4 Revenues misses estimates, $22.06B vs. $22.07B expected
+Selerity	689417096762028032	2016-01-19T12:00:19	BREAKING: TR: Turkey Central Bank leaves the Overnight Borrowing Rate unchanged at 7.25% for January. TRY
+Selerity	689417094497107970	2016-01-19T12:00:18	BREAKING: TR: Turkey Central Bank leaves the Overnight Lending Rate unchanged at 10.75% for January. TRY
+Selerity	689417091120660481	2016-01-19T12:00:17	BREAKING: TR: Turkey Central Bank leaves the Repo Borrowing Rate unchanged at 7.5% for January. TRY
+Selerity	689415833299202050	2016-01-19T11:55:18	BREAKING: Morgan Stanley MS Q4 Revenues beats estimates, $7.74B vs. $7.6B expected
+Selerity	689415830463840257	2016-01-19T11:55:17	BREAKING: Morgan Stanley MS Q4 Non-GAAP Earnings Per Share (EPS) beats estimates, $0.43 vs. $0.33 expected
+Selerity	689414557509386240	2016-01-19T11:50:13	BREAKING: Bank of America BAC Q4 Revenues misses estimates, $19.76B vs. $19.86B expected
+Selerity	689266025515347968	2016-01-19T02:00:01	BREAKING: CN: China Real GDP for Q4 6.8% inline with expectations. CNY
+Selerity	689265975716352000	2016-01-19T01:59:49	BREAKING: CN: China Industrial Production y/y for December misses estimates, 5.9% vs. 6% expected
+Selerity	689265967369744386	2016-01-19T01:59:47	BREAKING: CN: China Retail Sales y/y for December misses estimates, 11.1% vs. 11.3% expected. CNY
+Selerity	688073186408280064	2016-01-15T19:00:06	Earnings Preview: General Electric Q4 2015 GE  
+Selerity	688066398434758658	2016-01-15T18:33:07	Earnings Preview: Starbucks Q1 2016 SBUX  
+Selerity	688062719421886464	2016-01-15T18:18:30	Earnings Preview: Intuitive Surgical Q4 2015 ISRG  
+Selerity	688058629895909377	2016-01-15T18:02:15	BREAKING: U.S. Oil Rig Count (Baker Hughes) Change for 01/15 is (1). oil
+Selerity	688058324215017472	2016-01-15T18:01:02	BREAKING: U.S. Total Rig Count (Baker Hughes) Change for 01/15 is (14). oil
+Selerity	688012811067375616	2016-01-15T15:00:11	BREAKING: US: University of Michigan Sentiment (Prelim) for January beats estimates, 93.3 vs. 93 expected. USD
+Selerity	687982750637359104	2016-01-15T13:00:44	BREAKING: Citigroup C Q4 Revenues beats estimates, $18.46B vs. $17.9B expected
+Selerity	687982704739151872	2016-01-15T13:00:33	BREAKING: Wells Fargo &amp; Company WFC Q4 Revenues misses estimates, $21.59B vs. $21.83B expected
+Selerity	687982702625185792	2016-01-15T13:00:33	BREAKING: Wells Fargo &amp; Company WFC Q4 Earnings Per Share (EPS) $1.03 inline with expectations
+Selerity	687982445841506304	2016-01-15T12:59:31	BREAKING: Citigroup C Q4 Adjusted Earnings Per Share (EPS) misses estimates, $1.06 vs. $1.09 expected
+Selerity	687947475743813633	2016-01-15T10:40:34	BREAKING: BlackRock Inc BLK Q4 Revenues beats estimates, $2.86B vs. $2.84B expected
+Selerity	687947475274043393	2016-01-15T10:40:34	BREAKING: BlackRock Inc BLK Q4 Adjusted Earnings Per Share (EPS) misses estimates, $4.75 vs. $4.82 expected
+Selerity	687741127093518336	2016-01-14T21:00:36	BREAKING: Intel INTC Q4 Revenues beats estimates, $14.9B vs. $14.8B expected
+Selerity	687741126506364932	2016-01-14T21:00:36	BREAKING: Intel INTC Q4 Earnings Per Share (EPS) beats estimates, $0.74 vs. $0.63 expected
+Selerity	687731469557575682	2016-01-14T20:22:14	Earnings Preview: Goldman Sachs Q4 2015 GS  
+Selerity	687726632602365952	2016-01-14T20:03:01	Earnings Preview: IBM Corp Q4 2015 IBM  
+Selerity	687719022356480001	2016-01-14T19:32:46	Earnings Preview: Netflix Q4 2015 NFLX  
+Selerity	687711876529131521	2016-01-14T19:04:23	Earnings Preview: Bank of America Q4 2015 BAC  
+Selerity	687705719144091648	2016-01-14T18:39:55	Earnings Preview: Morgan Stanley Q4 2015 MS  
+Selerity	687657929605025792	2016-01-14T15:30:01	BREAKING: U.S. DOE Natural Gas Inventories Weekly Change for 01/08 is (168B). natgas
+Selerity	687605588495364099	2016-01-14T12:02:02	JP Morgan Chase JPM Q4 Earnings Per Share (EPS) $1.32 (includes legal related costs of $0.03). The Street consensus was $1.30.
+Selerity	687602676360712192	2016-01-14T11:50:27	BREAKING: JP Morgan Chase JPM Q4 Revenues beats estimates, $23.7B vs. $23B expected
+Selerity	687594959290109953	2016-01-14T11:19:47	BREAKING: Bank of Poland leaves January Base Rate unchanged at 1.5%. PLN
+Selerity	687431467899695110	2016-01-14T00:30:08	BREAKING: Australian December Unemployment Rate, 5.8% vs. 5.9% expected. AUD
+Selerity	687431454582829057	2016-01-14T00:30:05	BREAKING: Australian December Labour Force Change, (1,000) vs. (12,500) expected. AUD
+Selerity	687295546105659392	2016-01-13T15:30:02	BREAKING: U.S. DOE Motor Gasoline Inventories Weekly Change for 01/08 is 8.44M. OIL
+Selerity	687295543190663168	2016-01-13T15:30:01	BREAKING: U.S. DOE Distillate Inventories Weekly Change for 1/8 is 6.14M. oil
+Selerity	687295542418882560	2016-01-13T15:30:01	BREAKING: U.S. DOE Crude Oil Inventory Weekly Change for 01/08 is 234,000. OIL
+Selerity	687105694890344448	2016-01-13T02:55:38	BREAKING: China December Exports Y/Y, (1.4%) vs. (8%) expected. CNY
+Selerity	687105694462521345	2016-01-13T02:55:38	BREAKING: China December Imports Y/Y, (7.6%) vs. (11.5%) expected. CNY
+Selerity	687105693900509184	2016-01-13T02:55:37	BREAKING: China December Trade Balance, $60.09B vs. $53B expected. CNY
+Selerity	686654682278813697	2016-01-11T21:03:28	BREAKING: Alcoa Inc. AA Q4 Revenues misses estimates, $5.25B vs. $5.34B expected
+Selerity	686303157513777152	2016-01-10T21:46:38	BREAKING: NZ: New Zealand Building Permits for November is 1.8%. NZD
+Selerity	685634493869363200	2016-01-09T01:29:36	BREAKING: China December Consumer Price Index Y/Y, 1.6% vs. 1.6% expected. CNY
+Selerity	685634493139517442	2016-01-09T01:29:36	BREAKING: China December Producer Price Index Y/Y, (5.9%) vs. (5.8%) expected. CNY
+Selerity	685541598868959232	2016-01-08T19:20:28	Earnings Preview: Citigroup Q4 2015 C  
+Selerity	685536724840235008	2016-01-08T19:01:06	Earnings Preview: Wells Fargo Q4 2015 WFC 
+Selerity	685518622324727808	2016-01-08T17:49:10	Also launched awesome Top News section for each stock power by selerity today, only the most important news CMG 
+Selerity	685521963708747777	2016-01-08T18:02:27	BREAKING: U.S. Total Rig Count (Baker Hughes) Change for 1/08 is (34). OIL
+Selerity	685521889205293056	2016-01-08T18:02:09	BREAKING: U.S. Oil Rig Count (Baker Hughes) Change for 1/08 is (20). OIL
+Selerity	685517374452269057	2016-01-08T17:44:13	Earnings Preview: Intel Q4 2015 INTC  
+Selerity	685257149417676805	2016-01-08T00:30:10	BREAKING: Australian November Retail Sales M/M, 0.4% vs. 0.4% expected. AUD
+Selerity	685208395822034944	2016-01-07T21:16:26	BREAKING: Bed Bath &amp; Beyond BBBY Q3 Earnings Per Share (EPS) $1.09 inline with expectations
+Selerity	685208395301928961	2016-01-07T21:16:26	BREAKING: Bed Bath &amp; Beyond BBBY Q3 Revenue, $2.95B vs. $2.97B expected
+Selerity	685208162283163648	2016-01-07T21:15:31	BREAKING: Gap Inc GPS December Same Store Sales Y/Y change is (5%).
+Selerity	685121214688432128	2016-01-07T15:30:01	BREAKING: U.S. DOE Natural Gas Inventories Weekly Change for 01/01 is (113B). natgas
+Selerity	685072158511493121	2016-01-07T12:15:05	BREAKING: L Brands LB Same Store Sales Y/Y December change is 8%.
+Selerity	684917371484651522	2016-01-07T02:00:01	BREAKING: Costco December Same Store Sales ex-items y/y change is 5%. COST
+Selerity	684894803172167681	2016-01-07T00:30:20	BREAKING: Australian November Trade Balance, ($2.91B) vs. ($3.1B) expected. AUD
+Selerity	684894764869775360	2016-01-07T00:30:11	BREAKING: Australian Building Approvals Y/Y: November (8.4%), October 12.3%. AUD
+Selerity	684894736591749121	2016-01-07T00:30:04	BREAKING: Australian November Building Approvals M/M, (12.7%) vs. (3%) expected. AUD
+Selerity	684724852788441088	2016-01-06T13:15:01	BREAKING: ADP Employment Change for December, 257,000 vs. 190,000 expected. USD
+Selerity	684722481249304576	2016-01-06T13:05:35	BREAKING: Monsanto MON Q1 Adjusted Earnings Per Share (EPS) beats estimates, ($0.11) vs. ($0.22) expected
+Selerity	684722480469114882	2016-01-06T13:05:35	BREAKING: Monsanto MON Q1 Revenue, $2.22B vs. $2.41B expected
+Selerity	684381658611642368	2016-01-05T14:31:17	BREAKING: General Motors GM December Vehicle Sales, 5.7% vs. 8.5% expected
+Selerity	684377599599112192	2016-01-05T14:15:09	BREAKING: Ford F December Vehicle Sales, 8.4% vs. 10.4% expected
+Selerity	684375570646450177	2016-01-05T14:07:05	BREAKING: Global Dairy Trade (GDT) Index Price Change for 1/5 from the previous auction is (1.6%). NZD
+Selerity	684375569996361728	2016-01-05T14:07:05	BREAKING: Global Dairy Whole Milk Price Change for 1/5 from the previous auction is (4.4%). NZD
+Selerity	682729929583235072	2016-01-01T01:07:54	BREAKING: China NBS Manufacturing PMI: December 49.7, November 49.6. CNY
+Selerity	682729226433359872	2016-01-01T01:05:06	BREAKING: China NBS Services PMI: December 54.4, November 53.6. CNY
+Selerity	682623006313680896	2015-12-31T18:03:01	BREAKING: U.S. Oil Rig Count (Baker Hughes) Change for 12/31 is (2). OIL
+Selerity	682622325309706243	2015-12-31T18:00:19	BREAKING: U.S. Total Rig Count (Baker Hughes) Change for 12/31 is (2). OIL
+Selerity	682584499775995905	2015-12-31T15:30:01	BREAKING: U.S. DOE Natural Gas Inventories Weekly Change for 12/25 is (58B). natgas
+Selerity	682554426465370112	2015-12-31T13:30:31	BREAKING: Rite-Aid Same Store Sales y/y change for December is (0.1%). RAD
+Selerity	682222113445539841	2015-12-30T15:30:01	BREAKING: U.S. DOE Distillate Inventories Weekly Change for 12/25 is 1.79M. oil
+Selerity	682222112904450048	2015-12-30T15:30:01	BREAKING: U.S. DOE Gasoline Inventories Weekly Change for 12/25 is 925,000. oil
+Selerity	682222111885246464	2015-12-30T15:30:01	BREAKING: U.S. DOE Crude Oil Inventories Weekly Change for 12/25 is 2.63M. oil
+Selerity	682220019917299712	2015-12-30T15:21:42	Earnings Preview: Bed Bath and Beyond Q3 2015 BBBY  
+Selerity	681852177569189892	2015-12-29T15:00:01	BREAKING: Conference Board Consumer Confidence for December, 96.5 vs. 92.9 expected. USD
+Selerity	681559039348637696	2015-12-28T19:35:12	December Monthly Auto Sales Preview: Ford and General Motors F GM  
+Selerity	681497715306565640	2015-12-28T15:31:31	BREAKING: Dallas Fed Manufacturing Index for December is (20.1). USD
+Selerity	681474604519534592	2015-12-28T13:59:41	BREAKING: Israel leaves the Base Rate unchanged for January at 0.1%. ILS
+Selerity	680047784700035072	2015-12-24T15:30:01	BREAKING: U.S. DOE Natural Gas Inventories Weekly Change for 12/18 is (32B). natgas
+Selerity	679723724036304896	2015-12-23T18:02:19	BREAKING: U.S. Oil Rig Count (Baker Hughes) Change for 12/23 is (3). oil
+Selerity	679723227363540992	2015-12-23T18:00:20	BREAKING: U.S. Total Rig Count (Baker Hughes) Change for 12/23 is (9). oil
+Selerity	679685398436667393	2015-12-23T15:30:01	BREAKING: U.S. DOE Distillate Inventories Weekly Change for 12/18 is (661,000). oil
+Selerity	679685397975318528	2015-12-23T15:30:01	BREAKING: U.S. DOE Gasoline Inventories Weekly Change for 12/18 is 1.11M. oil
+Selerity	679685396750561280	2015-12-23T15:30:01	BREAKING: U.S. DOE Crude Oil Inventories Weekly Change for 12/18 is (5.88M). oil
+Selerity	679678098896453632	2015-12-23T15:01:01	BREAKING: US: University of Michigan Sentiment (Final) for December misses estimates, 92.6 vs. 92.9 expected USD
+Selerity	679409883209404416	2015-12-22T21:15:13	BREAKING: Nike NKE Q2 Revenues, $7.7B vs. $7.86B expected
+Selerity	679409882613813249	2015-12-22T21:15:13	BREAKING: Nike NKE Q2 Earnings Per Share (EPS) beats estimates, $0.9 vs. $0.86 expected
+Selerity	679315717477564420	2015-12-22T15:01:02	BREAKING: US: Existing Home Sales for November misses estimates, 4.76M vs. 5.39M expected USD
+Selerity	677911949850603520	2015-12-18T18:02:58	BREAKING:  U.S. Oil Rig Count (Baker Hughes) Change for 12/18 is 17. oil
+Selerity	677911636460642304	2015-12-18T18:01:43	BREAKING: U.S. Total Rig Count (Baker Hughes) Change for 12/18 is 0. oil
+Selerity	677844099718758400	2015-12-18T13:33:21	Earnings Preview: Nike Q2 2016 NKE  
+Selerity	677598220684533760	2015-12-17T21:16:19	BREAKING: Red Hat Inc RHT Q3 Revenues misses estimates, $523.58M vs. $524.34M expected

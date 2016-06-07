@@ -1,0 +1,810 @@
+DerivAlert	726069584189620224	2016-04-29T15:24:13	Europe to Brace for Widening CCP Costs 
+DerivAlert	726067287258726401	2016-04-29T15:15:05	Japan Struggling with Negative Rate Impact on Swaps 
+DerivAlert	726063593884647424	2016-04-29T15:00:25	Derivatives Houses to Open Accounts with Federal Reserve 
+DerivAlert	726061303102578688	2016-04-29T14:51:18	China to Consider Starting Trading of Credit-Default Swaps 
+DerivAlert	726057572881543168	2016-04-29T14:36:29	India Joins Global Move to Tighten CCP Capital Standards 
+DerivAlert	726055055355424768	2016-04-29T14:26:29	FIA: Basel Capital Requirements to Harm End-Users 
+DerivAlert	726049930645770240	2016-04-29T14:06:07	Comment: ETD Meets OTC in Rates – the Missing Link 
+DerivAlert	726044725720010752	2016-04-29T13:45:26	Economist Predicts Regulatory Headwinds Will Ease in U.S. 
+DerivAlert	726039669876641792	2016-04-29T13:25:21	U.K. Watchdog Issues Guidance on E.U. Market Abuse Rules 
+DerivAlert	726035838526742528	2016-04-29T13:10:07	Brexit Could Put U.K. Clearinghouses in Limbo 
+DerivAlert	725737487142899712	2016-04-28T17:24:35	Bond Market Liquidity? Look to the Buy Side 
+DerivAlert	725705271679565824	2016-04-28T15:16:34	E.U. Nations Back One-Year Delay of MiFID II Market-Rule Revamp 
+DerivAlert	725702388888276994	2016-04-28T15:05:07	E.U. Parliament Approves Rules to Stop Market Benchmarks Rigging 
+DerivAlert	725696865656823808	2016-04-28T14:43:10	SEC Proposes Design of New Audit System to Better Catch Market Manipulation 
+DerivAlert	725693617914953728	2016-04-28T14:30:15	Prime Brokerage Reassessed as Banks Seek Growth and Stable Earnings 
+DerivAlert	725689991683264512	2016-04-28T14:15:51	Analysis: Market Needs Practical Clarity on MAR 
+DerivAlert	725684995747016705	2016-04-28T13:56:00	PRIIPs Performance Scenario Rules Under Fire 
+DerivAlert	725681068569972737	2016-04-28T13:40:23	Default Risk Floors Threaten €72bn of RWAs in E.U. Performance Scenario Rules Under Fire 
+DerivAlert	725674677784469504	2016-04-28T13:15:00	E.U. Bank-Failure System Needs Uniform Insolvency Law, Koenig Says 
+DerivAlert	725331882016169984	2016-04-27T14:32:51	New Rule Proposed for Big U.S. Banks’ Liquidity 
+DerivAlert	725327547572064256	2016-04-27T14:15:37	Australian Clearing Volumes Steady Despite New Mandate 
+DerivAlert	725325096622129153	2016-04-27T14:05:53	Investors Turn to CMBS Derivatives for Liquidity 
+DerivAlert	725321589982662656	2016-04-27T13:51:57	SFTR: Illuminating E.U. Securities Financing Transactions? 
+DerivAlert	725314368049676288	2016-04-27T13:23:15	The Priests, the Temples and the Blockchain Clearing Systems 
+DerivAlert	724970017486438401	2016-04-26T14:34:56	Europe Overhauls Market Definitions 
+DerivAlert	724965726180757504	2016-04-26T14:17:52	Statement of Chairman Timothy Massad before the CFTC Market Risk Advisory Committee - 
+DerivAlert	724964459891068929	2016-04-26T14:12:51	MiFID II: A Cheat Sheet on HFT, Market Data and More 
+DerivAlert	724960450505531392	2016-04-26T13:56:55	E.U. 'Blocked' on Trading Desk Separation Plan 
+DerivAlert	724955887392198657	2016-04-26T13:38:47	ESMA’s First Stress Test for E.U. CCPs Looming 
+DerivAlert	724950423833071616	2016-04-26T13:17:04	E.U.'s Top Banks Likely to Face Stiffer Leverage Rules, Scope Says 
+DerivAlert	724611564653936640	2016-04-25T14:50:34	Buyside Scrambles on Market Abuse Rules 
+DerivAlert	724607481155072000	2016-04-25T14:34:20	Asset Managers Not Yet Sold on Collateral Management Utilities 
+DerivAlert	724604077057945600	2016-04-25T14:20:49	Blockchain Adoption Does Not Mean T+0 
+DerivAlert	724600536247468032	2016-04-25T14:06:44	Clearing Houses Asked to Draw Up Brexit Recovery Plans 
+DerivAlert	724596855787642880	2016-04-25T13:52:07	Comment: Sludge of Excess Brexit Costs Would Clog the Global Economy 
+DerivAlert	724592770598461441	2016-04-25T13:35:53	U.S. Regulators to Propose New Liquidity Demand for Big Banks 
+DerivAlert	724590076206956547	2016-04-25T13:25:11	Comment: Another Bank Capital Review? Perfect. 
+DerivAlert	724587620102230017	2016-04-25T13:15:25	Banks to Ramp-Up Credit Risk if Basel Scraps Internal Models 
+DerivAlert	723547321489850368	2016-04-22T16:21:38	Banks Hope for Reprieve on Mifid II Bond Rules by _TimCave    via FinancialNews
+DerivAlert	723527160837877760	2016-04-22T15:01:32	Funds Want More Flexibility in SEC Derivative Proposal 
+DerivAlert	723522905351573504	2016-04-22T14:44:37	Panel: Data Key Hurdle in MiFID Prep 
+DerivAlert	723520104324055040	2016-04-22T14:33:29	CFTC Reaches Cross-Border Deal with Canadian Peers 
+DerivAlert	723516830665572353	2016-04-22T14:20:29	European Regulator Hesitates on Higher Leverage Ratio 
+DerivAlert	723514424737312770	2016-04-22T14:10:55	Comment: Basel Plans Would Weaken Leverage Ratio 
+DerivAlert	723511749496954880	2016-04-22T14:00:17	E.U. Executive Seeks to Ease Regulatory Burden on Small Banks 
+DerivAlert	723503601243557888	2016-04-22T13:27:55	Webinar: E.U.-­.U.S. CCP Agreement Needs More Clarity 
+DerivAlert	723498220329021441	2016-04-22T13:06:32	China Aims to Expand Forex Market, Unify Onshore/Offshore Yuan Rates 
+DerivAlert	723171154395951105	2016-04-21T15:26:53	U.S. Regulators Query Banks on Their 'Brexit' Contingency Plans 
+DerivAlert	723166869503365120	2016-04-21T15:09:52	Brexit Would Be Bad for Derivatives, Warns Allen &amp; Overy 
+DerivAlert	723162770783408128	2016-04-21T14:53:34	Comment: Removing Swaps in Covered Bonds Is the Way Forward 
+DerivAlert	723159223291375616	2016-04-21T14:39:29	Comment: How Blockchain Can Aid Dodd-Frank Compliance 
+DerivAlert	723155626180796416	2016-04-21T14:25:11	Analysis: Timing Crucial for Compliance Projects 
+DerivAlert	723132574579724288	2016-04-21T12:53:35	Via LouieWoodall: US fiduciary rules could clear path for structured products  in RiskDotNet
+DerivAlert	722804827848245248	2016-04-20T15:11:14	OTC Derivatives Under MiFID II – Transparency Only Through Collaboration 
+DerivAlert	722798223400640512	2016-04-20T14:45:00	Fed's Powell in Senate Testimony: Better Data Key to Efficient Functioning of Fixed Income Markets 
+DerivAlert	722794664034590724	2016-04-20T14:30:51	Treasury Market’s Fastest Traders Don’t Like Trading Treasuries 
+DerivAlert	722790814473007110	2016-04-20T14:15:33	OCC "Pushing Big Time" for SEC-E.U. Equivalence Deal 
+DerivAlert	722787183204040704	2016-04-20T14:01:07	Comment: SEC's Fund Leverage Cap Needs Revising but the Idea Is Sound 
+DerivAlert	722781345743638532	2016-04-20T13:37:56	Comment: XVAs: A Gap Between Theory and Practice 
+DerivAlert	722458288898621442	2016-04-19T16:14:13	Once more: MiFID II Ushers in New Reality for Regulatory Reporting 
+DerivAlert	722453783926685696	2016-04-19T15:56:19	Once more: European Asset Managers Are Using MiFID II as a Weapon in the Battle for Global Asset Flows 
+DerivAlert	722447663162093568	2016-04-19T15:31:59	U.S. Regulators Concerned About Leverage in Large Hedge Funds 
+DerivAlert	722444967642296321	2016-04-19T15:21:17	Costs Top Concerns of MiFID II Traders 
+DerivAlert	722441658189672449	2016-04-19T15:08:08	Asset Managers Should Not Ignore Securities Finance Regs 
+DerivAlert	722437036221841408	2016-04-19T14:49:46	JFSA: CCP Recovery Funds Would Inspire Risk Management 
+DerivAlert	722433974799319040	2016-04-19T14:37:36	Comment: SEC Proposal Challenges Liquid Alternatives Funds 
+DerivAlert	722430250915930112	2016-04-19T14:22:48	Comment: What Will MiFIR’s Impact Be on Retail Derivatives? 
+DerivAlert	722427325254647809	2016-04-19T14:11:11	Commodity Futures Lead Charge in Exchange-Traded Derivatives 
+DerivAlert	722424230097391616	2016-04-19T13:58:53	Comment: FCA Study on High-Frequency Trading Provides Few Answers 
+DerivAlert	722419502529556480	2016-04-19T13:40:05	Derivatives Volumes Back Above 2011 Levels 
+DerivAlert	722416715548790784	2016-04-19T13:29:01	New E.U. Liquidity Risk Study Promotes Market Tools 
+DerivAlert	722413653903990784	2016-04-19T13:16:51	ESMA Pries Open Derivatives Clearing 
+DerivAlert	722410276549705728	2016-04-19T13:03:26	Comment: Blockchain in Financial Services: Six Real-World Pilots 
+DerivAlert	722100229047238661	2016-04-18T16:31:25	Once more: CFTC’s Proposed Algo Trading Rules Need a Few Tweaks 
+DerivAlert	722090008421777408	2016-04-18T15:50:48	Once more: Comment by .AlstonBirdLLP's Willa Bruckner: E.U.-U.S. Agreement on Equivalence for Central Clearing...
+DerivAlert	722082349127700481	2016-04-18T15:20:22	E.U. Weighs Softer Derivatives Rules as MiFID Delay Bogs Down 
+DerivAlert	722077867014778880	2016-04-18T15:02:33	Regulatory Intervention Triggers Complicate CCP Resolution 
+DerivAlert	722075252218531840	2016-04-18T14:52:10	Cold Comfort for Dealers at Crunch FRTB Meeting 
+DerivAlert	722071841645465600	2016-04-18T14:38:37	MiFID II Transparency Rules Pose Swaps Pricing Challenge 
+DerivAlert	722067796050518017	2016-04-18T14:22:32	Analysis: FCA Sandbox Could Be Key in MiFID Prep 
+DerivAlert	722063303493754882	2016-04-18T14:04:41	Comment: What's Next on the Clearing and Settlement Horizon? 
+DerivAlert	722059749588643842	2016-04-18T13:50:34	Comment: Artificial Intelligence in Post Trade: New Era? 
+DerivAlert	722056998733377536	2016-04-18T13:39:38	Comment: How Regulators Mess With Bankers’ Minds, and Why That’s Good 
+DerivAlert	722053832889511937	2016-04-18T13:27:03	E.U. Mulls Regulation for Funds Engaged in 'Shadow Banking' 
+DerivAlert	722050209824509953	2016-04-18T13:12:39	CCP Leaders Disagree Over Blockchain 
+DerivAlert	720998660692123648	2016-04-15T15:34:10	Dealers Boost Tech Focus in Response to Citadel Swaps Success 
+DerivAlert	720993214090637313	2016-04-15T15:12:32	PIMCO Raises Concern Over Benchmark Equivalence 
+DerivAlert	720989595744223232	2016-04-15T14:58:09	BOJ: Unsecured Overnight Rate Top Pick for IBOR Alternative 
+DerivAlert	720985915167010816	2016-04-15T14:43:32	Derivative Users Still in Dark Over MiFID Liquidity 
+DerivAlert	720982097507315712	2016-04-15T14:28:21	FCA: MiFID Tech Testing Welcome in Sandbox Initiative 
+DerivAlert	720978087509430274	2016-04-15T14:12:25	ISDA: Brexit Would Cause Major Legal Issues for Derivatives Market 
+DerivAlert	720974723333693440	2016-04-15T13:59:03	Regulators Have 'Keen Interest' in FRTB Liquidity Effect 
+DerivAlert	720969361876467712	2016-04-15T13:37:45	Internal Model Cull to Create 'Perverse Incentives' 
+DerivAlert	720967438112833536	2016-04-15T13:30:06	Senate Committee Approves Authorization for U.S. Commodities Regulator 
+DerivAlert	720965065516662787	2016-04-15T13:20:41	Exchange and CCP Leaders Assemble in Kuala Lumpur 
+DerivAlert	720961455462486018	2016-04-15T13:06:20	Options Volumes Rise in Spite of Slow March 
+DerivAlert	720635373479546880	2016-04-14T15:30:36	ESMA Announces E.U.-Wide Stress Tests for CCPs 
+DerivAlert	720631123215314944	2016-04-14T15:13:43	BIS Mulls New Guidance on CCP Resolution 
+DerivAlert	720626341306068993	2016-04-14T14:54:43	ISDA Details Margin Collateral Requirements 
+DerivAlert	720622168363675653	2016-04-14T14:38:08	Swaps Margin Rules Show Fragmentation 
+DerivAlert	720617421728530432	2016-04-14T14:19:16	Blockchain Faces Obstacles in Uncleared Swap Market 
+DerivAlert	720613086185525249	2016-04-14T14:02:02	APRA Softens Uncleared Swaps Margin Rules 
+DerivAlert	720610144279773184	2016-04-14T13:50:21	JFSA Calls for More Dynamic Approach to Bank Regulation 
+DerivAlert	720605473012064256	2016-04-14T13:31:47	Comment: Complexity, Not Size, Is the Real Danger in Banking 
+DerivAlert	720599962309042176	2016-04-14T13:09:53	SEC Looking to Fit Final Piece of Swaps Data Puzzle 
+DerivAlert	720272425103953922	2016-04-13T15:28:22	Industry Says Derivatives Rules Need Tweaking to Spot Risks Better 
+DerivAlert	720268023945269252	2016-04-13T15:10:53	Clearing Banks Crushed by Regulation: Panel 
+DerivAlert	720264568044269568	2016-04-13T14:57:09	Dealers: Narrow Japan E-Trading Mandate Is Compliance Headache 
+DerivAlert	720260118093246465	2016-04-13T14:39:28	ISDA Chair on Twin Threats Facing OTC Market 
+DerivAlert	720256853016502273	2016-04-13T14:26:30	FRTB Packs Bigger-Than-Expected Capital Punch 
+DerivAlert	720253351150108672	2016-04-13T14:12:35	Massad Asks for $80m CFTC Budget Boost 
+DerivAlert	720250354898604032	2016-04-13T14:00:40	OCC Says New Risk Policy Won't Stop Fintech Innovation 
+DerivAlert	720245919531315201	2016-04-13T13:43:03	Brexit Could Boost U.K. Financial Technology Firms - but Only in Short-Term 
+DerivAlert	720240795601600512	2016-04-13T13:22:41	Blockchain Tech Crucial Tool for Regulator: CFTC 
+DerivAlert	720236005811363840	2016-04-13T13:03:39	European Regulators Call for Closer Supervision of Fintech 
+DerivAlert	719918729119838208	2016-04-12T16:02:55	Guest commentary from .ChicagoFed FMG researcher Ivana Ruffini: Central Clearing: Customer Protections 
+DerivAlert	719910348527157248	2016-04-12T15:29:37	March 2016 Swaps Review: Compression Trades Tell the Story 
+DerivAlert	719904971068731393	2016-04-12T15:08:14	MiFID Transparency Rules Could See Firms Exit Market 
+DerivAlert	719901213551108098	2016-04-12T14:53:19	Currency-Hedged Funds – Safer or Riskier Thanks to Derivatives? 
+DerivAlert	719898066053148672	2016-04-12T14:40:48	Credit Businesses Braced for Q1 Carnage 
+DerivAlert	719893555918057472	2016-04-12T14:22:53	Comment: With Blockchain, Regulators Should First Do No Harm 
+DerivAlert	719890277046054913	2016-04-12T14:09:51	Comment: Time to Reform Deficient Market Structures 
+DerivAlert	719884357234724864	2016-04-12T13:46:20	Will Investment Banking Join the Digital Age? 
+DerivAlert	719881257245650944	2016-04-12T13:34:01	Wall Street's Big, Bad Post-Crisis Regulator Is Cautious 
+DerivAlert	719878267390533632	2016-04-12T13:22:08	Senate Committee to Take up Bill on CFTC 
+DerivAlert	719873781301448713	2016-04-12T13:04:18	Industry Leaders to Examine Regulatory Impact on Derivs 
+DerivAlert	719545116780806144	2016-04-11T15:18:18	CLOB Revolution Put On Hold 
+DerivAlert	719541183752597504	2016-04-11T15:02:41	Banks Eye Victory on Derivatives in E.U. Trading-Revamp Delay 
+DerivAlert	719537387387363330	2016-04-11T14:47:36	Analysis: New Derivatives Era Keeps Dollar Swap Spreads Negative 
+DerivAlert	719534688063352833	2016-04-11T14:36:52	Comment: Big Banks Use a Footnote to Look Smaller 
+DerivAlert	719531664922263552	2016-04-11T14:24:51	Comment: Why Europe's Banks Don't Have Enough Capital 
+DerivAlert	719525132260257792	2016-04-11T13:58:54	More Global Banks Test or Explore Blockchain 
+DerivAlert	719521399681990656	2016-04-11T13:44:04	Comment: MiFID II Requires New Communications Approach 
+DerivAlert	719517086930874368	2016-04-11T13:26:56	ICMA: Britain Faces No Less Financial Regulation Outside E.U. than in 
+DerivAlert	719512372650635264	2016-04-11T13:08:12	Indonesian Regulators Want Banks to Trade More Derivatives 
+DerivAlert	718477397876715521	2016-04-08T16:35:34	E.U. Lawmakers Approve MiFID II Market Rule Delay by One Year 
+DerivAlert	718472973758394369	2016-04-08T16:18:00	Buy-Side Hit Out Against MiFID II Reporting Rules 
+DerivAlert	718469959429570560	2016-04-08T16:06:01	Banks’ Favorite New Strategy: Footnote 151 
+DerivAlert	718466409106423808	2016-04-08T15:51:55	Bond Traders Flock to Equity Options - Report 
+DerivAlert	718462523201228801	2016-04-08T15:36:28	MAC Swaps, Swap Futures Face New Tax Threat 
+DerivAlert	718458285314195459	2016-04-08T15:19:38	Capital Sums Set to Drive FRTB Desk Decisions 
+DerivAlert	718455797710254080	2016-04-08T15:09:45	SEC Derivatives Rule Could Push Up Risk 
+DerivAlert	718451052006256645	2016-04-08T14:50:53	Fed's CCAR Changes Spell Supervision Shift 
+DerivAlert	718448810243006464	2016-04-08T14:41:59	OCC Endorses DOL Listed Options Ruling 
+DerivAlert	718444922693619712	2016-04-08T14:26:32	Summers Criticizes Minneapolis Fed President’s ‘Too Big to Fail’ Push 
+DerivAlert	718441568257118208	2016-04-08T14:13:12	ESMA Shifts Data Project Into Gear 
+DerivAlert	718438492976640001	2016-04-08T14:00:59	Analysis: Experts Split Over Blockchain 
+DerivAlert	718435599200477184	2016-04-08T13:49:29	Transaction Tax Poses Bigger Threat Than `Brexit' to Traders 
+DerivAlert	718432460623724544	2016-04-08T13:37:01	FIA Pledges to Continue Working with Basel Committee on Impact of Capital Requirements 
+DerivAlert	718427454755500032	2016-04-08T13:17:07	SEC Greenlights FINRA’s Algorithmic Developer Rule 
+DerivAlert	718133383935746052	2016-04-07T17:48:35	Bitcoin’s Blockchain Technology Proves Itself in Wall Street Test 
+DerivAlert	718111924718845952	2016-04-07T16:23:19	ESMA Hits Out at Trade Repositories Over Data Delays 
+DerivAlert	718108179742212096	2016-04-07T16:08:26	U.S. Fiduciary Rules Soften Their Assault on Listed Options 
+DerivAlert	718099152337547265	2016-04-07T15:32:34	Buy Side Targets Leverage Cap in SEC Derivatives Plans 
+DerivAlert	718094194674429953	2016-04-07T15:12:52	Analysis: Basel Leverage Ratio Paper Spooks Banks 
+DerivAlert	718090718959562752	2016-04-07T14:59:03	SG Backs Consultation Over Leverage Ratio Reform 
+DerivAlert	718086470523822080	2016-04-07T14:42:10	Q&amp;A: FDIC's Hoenig Warns on Daily Settled Swaps 
+DerivAlert	718083825243447296	2016-04-07T14:31:39	ESMA Backs Early Adoption of Open Access for Futures 
+DerivAlert	718080238450839552	2016-04-07T14:17:24	Best Execution: A Call to Action 
+DerivAlert	718076730469138432	2016-04-07T14:03:28	ESMA Rules Out Open Access Exemption for Listed Derivatives 
+DerivAlert	718073551836856321	2016-04-07T13:50:50	Firms Unaware of MiFID II's Impact on Recordkeeping 
+DerivAlert	718070278539051008	2016-04-07T13:37:50	Germany on Track for New E.U. Clash Over Bank-Failure Rules 
+DerivAlert	718066850752495616	2016-04-07T13:24:12	Regulators Could Halt Blockchain’s Progress 
+DerivAlert	717727089198243841	2016-04-06T14:54:07	Counter(party) Intuitive 
+DerivAlert	717723008442494977	2016-04-06T14:37:54	SEC Leverage Ratio Discussions Alarm Broker-Dealers 
+DerivAlert	717719206570160128	2016-04-06T14:22:48	Basel Committee to Amend Leverage Ratio Calculation 
+DerivAlert	717715489389207553	2016-04-06T14:08:01	FDIC's Hoenig: Don't Impose TLAC, Let Equity 'Do Its Job' 
+DerivAlert	717710915236454401	2016-04-06T13:49:51	Regulators Take Softer Line on Bank Capital for Derivatives 
+DerivAlert	717702820871479296	2016-04-06T13:17:41	Basel Warns Against `Myopic' Calls to Ease Bank Capital Demands 
+DerivAlert	717698946328563712	2016-04-06T13:02:17	ECB Reduces Securities-Lending Fee on QE Bonds to 30 bps 
+DerivAlert	717373009095434240	2016-04-05T15:27:08	The Race to the MAR Deadline Is On: Can Buy-Side Firms Cross the Finish Line on Time? 
+DerivAlert	717369748594540544	2016-04-05T15:14:10	Blockchain: Disruption or Distraction? 
+DerivAlert	717365733190209538	2016-04-05T14:58:13	Europe Retreats in U.S. Derivatives Battle 
+DerivAlert	717362356309852164	2016-04-05T14:44:48	Questions Remain After Final E.U. Uncleared Margin Rules 
+DerivAlert	717358253617889281	2016-04-05T14:28:30	European Banks Face U.S. Capital Hit Unless Rules Converge 
+DerivAlert	717353628395249665	2016-04-05T14:10:07	Unresolvable Clearing Houses Pose "Enormous Risk" 
+DerivAlert	717349321092567040	2016-04-05T13:53:00	E.U. Watchdog Backs More Competition in Derivatives Clearing 
+DerivAlert	717342140293099525	2016-04-05T13:24:28	MEPs Demand Better Coordination of Financial Supervision 
+DerivAlert	717337777839476736	2016-04-05T13:07:08	A Dodd-Frank Watchdog Still Growls, on a Slightly Tighter Leash 
+DerivAlert	716995717492027392	2016-04-04T14:27:54	Swaps Click-to-Trade Going Backwards, Study Shows 
+DerivAlert	716991992274755587	2016-04-04T14:13:06	Big Banks on Edge as U.S. Stress-Test Deadline Looms 
+DerivAlert	716989754856890368	2016-04-04T14:04:13	MEPs demand better co-ordination of financial supervision by JimRundle via eFinancialNews 
+DerivAlert	716987909178580992	2016-04-04T13:56:53	Comment: Portability Via Indirect Clearing Under Threat 
+DerivAlert	716983110487949312	2016-04-04T13:37:49	Comment: A Sucker Punch for Banks 
+DerivAlert	716978874823929856	2016-04-04T13:20:59	Comment: Crying Wolf on CVA? 
+DerivAlert	715946112285339648	2016-04-01T16:57:09	Basel Said to Weigh Change That Could Ease Derivatives Capital 
+DerivAlert	715936488098250756	2016-04-01T16:18:54	FSB Backs Clearing Recovery Plan by Year-End 
+DerivAlert	715932363063222276	2016-04-01T16:02:31	MiFID III May Be Introduced Before MiFID II Says E.U. 
+DerivAlert	715928723569115136	2016-04-01T15:48:03	Asset Managers Could See Role in Single-Name CDS Clearing 
+DerivAlert	715925007130574848	2016-04-01T15:33:17	Brexit Risks Taking Multi-Trillion Euro Trading from London 
+DerivAlert	715917898116698112	2016-04-01T15:05:02	Wall Street Banks Have Basel's Ear in Pushback on Market Risk 
+DerivAlert	715914896844697600	2016-04-01T14:53:07	Industry Slams E.U. Equity Derivatives Disclosure Proposals 
+DerivAlert	715911796150910978	2016-04-01T14:40:47	FRTB Data Standards Seen as Threat to Emerging Markets 
+DerivAlert	715909940787937281	2016-04-01T14:33:25	G20 Regulators to Propose Rules for Asset Managers in the Summer 
+DerivAlert	715907566400847873	2016-04-01T14:23:59	Global Regulators Move Closer to Regulating Fintech 
+DerivAlert	715904634804695041	2016-04-01T14:12:20	Asset Managers Fear Operational Headaches from Brexit 
+DerivAlert	715901298202296320	2016-04-01T13:59:04	T2S Moves Forward 
+DerivAlert	715898725403639808	2016-04-01T13:48:51	Portuguese Swaps Case Loss Sets Precedent 
+DerivAlert	715896149270511616	2016-04-01T13:38:37	Basel Risk Model May Put a Lid on Lending, Japanese Banker Says 
+DerivAlert	715893946002587648	2016-04-01T13:29:52	China to Let Firms Offset FX Swap Positions Directly on Trial Basis 
+DerivAlert	715891418842152960	2016-04-01T13:19:49	Comment: SEC Needs a Derivatives Sanity Check 
+DerivAlert	715887668916301824	2016-04-01T13:04:55	SEC Mauled from All Angles on Plan to Curb Derivatives Trading 
+DerivAlert	715561307676807168	2016-03-31T15:28:04	End-Users Shun 'Broken' U.S. Swap Market 
+DerivAlert	715558842617237504	2016-03-31T15:18:17	Smaller Firms Get Boost on Timing for Non-Cleared Margin 
+DerivAlert	715554877263515648	2016-03-31T15:02:31	Clearing Trade Body Proposes EMIR Changes 
+DerivAlert	715552591367815169	2016-03-31T14:53:26	Basel Watchdog Adopts Softer Rules on Banks' Rate Risk 
+DerivAlert	715548699137548289	2016-03-31T14:37:58	China Considers CDS Market as Defaults Rise 
+DerivAlert	715545662394228738	2016-03-31T14:25:54	Financial Technology Draws Regulators’ Attention 
+DerivAlert	715542873278652416	2016-03-31T14:14:49	Here's Why the Blockchain Would Have Saved Lehman Brothers 
+DerivAlert	715539612278595584	2016-03-31T14:01:52	How Wall Street Is Embracing Bitcoin 
+DerivAlert	715536965949595652	2016-03-31T13:51:21	CFTC Calls for Global Regulation of Blockchain 
+DerivAlert	715534212229701632	2016-03-31T13:40:24	What You Need to Know about SIFIs 
+DerivAlert	715530634022764544	2016-03-31T13:26:11	ESMA Consults on Future MAR List of Information on Commodity and Spot Markets 
+DerivAlert	715526527358730240	2016-03-31T13:09:52	Small Business Group Joins Call for Changes to SEC’s Derivatives Rule 
+DerivAlert	715195897471176704	2016-03-30T15:16:04	ISDA Queries T+1 on Uncleared Margin 
+DerivAlert	715191576016846849	2016-03-30T14:58:53	Post-LIBOR Squeeze Could Stifle Benchmarks, Industry Warns 
+DerivAlert	715188515005468672	2016-03-30T14:46:44	SIFMA: SEC's Asset Management Rules Must Change 
+DerivAlert	715185804017065984	2016-03-30T14:35:57	Blockchain Tipped as Fix for Margin Segregation 
+DerivAlert	715181784330280960	2016-03-30T14:19:59	Bitcoin Technology’s Next Big Test: Trillion-Dollar Repo Market 
+DerivAlert	715176990802853888	2016-03-30T14:00:56	Comment: Dealers ‘Getting Very Creative’ Ahead of FRTB Implementation 
+DerivAlert	715173651277025280	2016-03-30T13:47:40	OCC Voices Concern Over SEC Derivatives Proposal 
+DerivAlert	715170660746727424	2016-03-30T13:35:47	Fed to Use CCAR to Push BCBS 239 Compliance 
+DerivAlert	715166333458124800	2016-03-30T13:18:35	Comment: The Next Perfect Banking Storm 
+DerivAlert	715162582907228161	2016-03-30T13:03:41	Regulator Moves to Create New Fintech Framework 
+DerivAlert	714824792302620672	2016-03-29T14:41:25	IOSCO Predicts Boom in Use of Collateral Transformation 
+DerivAlert	714821463593893888	2016-03-29T14:28:12	AIMA, MFA Wade Into SEC Derivatives Debate 
+DerivAlert	714818578411872258	2016-03-29T14:16:44	Experts Warn ESMA Budget "Insufficient" for Remit 
+DerivAlert	714815352253857792	2016-03-29T14:03:55	How the Volcker Rule Could Have Succeeded 
+DerivAlert	714810272507117568	2016-03-29T13:43:44	Blockchain Is Old News for European Markets 
+DerivAlert	714806680417079296	2016-03-29T13:29:27	Cybercrime and Regulations Spooking Bank Leaders, Says PwC 
+DerivAlert	714802254738558977	2016-03-29T13:11:52	Comment: Banking Will Be Permanently Smaller and Poorer 
+DerivAlert	714461904777961472	2016-03-28T14:39:26	CCP Margin Variations Raise Buyside Concerns 
+DerivAlert	714458645161984001	2016-03-28T14:26:29	ESMA Stands Ground in MiFID RTS Spat 
+DerivAlert	714455073842143232	2016-03-28T14:12:18	U.S. Derivatives Users Cheer Hedge Accounting Rejig 
+DerivAlert	714450556497080320	2016-03-28T13:54:21	E.U. Financial Regulatory Machine Sputters as Crisis-Era Urgency Wanes 
+DerivAlert	714446757191614464	2016-03-28T13:39:15	Hedge Funds for Retail Class Face Regulatory Reckoning 
+DerivAlert	714442680844075008	2016-03-28T13:23:03	Credit Tranches Add Zero-Recovery Features 
+DerivAlert	714438440994078720	2016-03-28T13:06:12	Basel Plans Modelling Curb for Billions in Credit RWAs 
+DerivAlert	713025574214705155	2016-03-24T15:31:58	Bond Funds Could Suffer from U.S. Derivatives Proposal - Industry Advocate 
+DerivAlert	713021345295155200	2016-03-24T15:15:10	MiFID II: Drowning in Data 
+DerivAlert	713017726768451585	2016-03-24T15:00:47	Threat of Further MiFID II Delays Loom 
+DerivAlert	713015090820345856	2016-03-24T14:50:19	European Dealers Wrestle with Corporate CVA Changes 
+DerivAlert	713011284086820866	2016-03-24T14:35:11	Comment: Why Raiding CCPs' Initial Margin Would Be Bad Policy 
+DerivAlert	713007303499378688	2016-03-24T14:19:22	Comment: Refining Reporting: Where Is ESMA Heading? 
+DerivAlert	713004484847398913	2016-03-24T14:08:10	Comment: MiFID II Nears Final, if Not Finest, Hour 
+DerivAlert	713001911880957952	2016-03-24T13:57:57	Comment: MiFID II: So Much to Do, So Little Time - Fidessa 
+DerivAlert	712999669010448384	2016-03-24T13:49:02	Comment: A Brief History of On/Off-Exchange - Fidessa 
+DerivAlert	712997440543191041	2016-03-24T13:40:11	AFME: What Would 'Brexit' Mean for Europe's Capital Markets? 
+DerivAlert	712994418110959616	2016-03-24T13:28:10	Wall Street Pushes Back on Trading Tax 
+DerivAlert	712988781905911813	2016-03-24T13:05:46	U.S. Automated Trading Rules Cause Uproar 
+DerivAlert	712652860937396225	2016-03-23T14:50:57	Investors Replace Futures with ETFs 
+DerivAlert	712648986872692736	2016-03-23T14:35:33	Are Credit Default Swaps Worse than You Thought? 
+DerivAlert	712645422372757508	2016-03-23T14:21:23	How European Banks Play Hide-And-Seek with Regulators 
+DerivAlert	712639647046877184	2016-03-23T13:58:26	EMIR Prep Work Gets Timely Boost 
+DerivAlert	712634313465012224	2016-03-23T13:37:15	Comment: Leverage Ratio Change "Vital" for Market 
+DerivAlert	712630567238545408	2016-03-23T13:22:21	ESMA Accepts EC Call for MiFID Rewrite 
+DerivAlert	712627974080749568	2016-03-23T13:12:03	Something Very Significant Is Happening in Repo 
+DerivAlert	712293909054033920	2016-03-22T15:04:36	ESMA Keen to Remind Commission of Deadlines as MiFID II Rumbles On 
+DerivAlert	712290191743045632	2016-03-22T14:49:50	ECB's Constancio Backs Stricter Curbs on Fund Managers 
+DerivAlert	712286245385342977	2016-03-22T14:34:09	Industry Looks to Curb ISIN Complications 
+DerivAlert	712281910697975808	2016-03-22T14:16:55	Repo Failures at Highest Level Since 2008 
+DerivAlert	712278433347346432	2016-03-22T14:03:06	Q&amp;A: Regrouping for a Renewed MiFIR Compliance Effort 
+DerivAlert	712274928268124162	2016-03-22T13:49:10	Comment: Credit Default Swaps Make Restructuring More Difficult 
+DerivAlert	712271404264247296	2016-03-22T13:35:10	ESMA to Work with South Korean Regulators on CCPs 
+DerivAlert	712266759768817664	2016-03-22T13:16:43	IMF Pressing China to Disclose More Data on Currency Operations 
+DerivAlert	712021825790844933	2016-03-21T21:03:26	Our President, WilliamHult  talks Tradeweb's Best FI Platform win at the marketsmedia 2016 Markets Choice Awards 
+DerivAlert	711946730586116097	2016-03-21T16:05:02	Timothy Massad on European Clearing Equivalence: ‘Cleaning Up The Spider-Web of Opaque Complexity’ 
+DerivAlert	711937269024870401	2016-03-21T15:27:26	SBSDR: The SEC Version of a Swap Data Repository 
+DerivAlert	711933253373071360	2016-03-21T15:11:29	Frontloading Pushes Buyside Into Clearing 
+DerivAlert	711930595509714945	2016-03-21T15:00:55	EC Warned Amid Swap ID Chaos 
+DerivAlert	711928992195022848	2016-03-21T14:54:33	ESMA Warns of Collateral Shortage in Bear Market 
+DerivAlert	711924322378629121	2016-03-21T14:36:00	Industry Fears Grow Ahead of Basel IRB Consultation 
+DerivAlert	711921010765930497	2016-03-21T14:22:50	Global Watchdog Flags Slow 'Too Big to Fail' Bank Rule Adoption 
+DerivAlert	711916927304781824	2016-03-21T14:06:36	Constant Delays Show Deep Flaws in Europe's Rulemaking 
+DerivAlert	711914346000031744	2016-03-21T13:56:21	The Tangle That's Not Fit for Purpose 
+DerivAlert	711910138416906240	2016-03-21T13:39:38	Leverage Ratio Ruling Imminent – Clearing Panel 
+DerivAlert	711907669104312321	2016-03-21T13:29:49	GAO Investigator Says Federal Reserve Review May Involve Other Regulators 
+DerivAlert	711904468607094784	2016-03-21T13:17:06	Deriv Markets Go Wild for ECB and Fed Tune 
+DerivAlert	710847662455713793	2016-03-18T15:17:44	E.U. Banks Set to Win Easier Curbs on Bond, Derivative Trading 
+DerivAlert	710844708503818243	2016-03-18T15:06:00	U.K. Narrows Carve-Out for Swap Bail-In Clauses 
+DerivAlert	710842545866215426	2016-03-18T14:57:24	Sovereign Concentration Rule to Hit U.K. Buy-Siders 
+DerivAlert	710840287472517121	2016-03-18T14:48:25	Industry Criticizes CFTC's Plans for New Automated Trading Rules 
+DerivAlert	710836361318813696	2016-03-18T14:32:49	Fund Industry Defends Use of Credit Lines as Liquidity 
+DerivAlert	710832267942338560	2016-03-18T14:16:33	Next Financial Crisis Could Overwhelm World's Defenses, IMF Says 
+DerivAlert	710830257100746752	2016-03-18T14:08:34	Fed’s Dudley Nods to Challenges in Averting Another Financial Crisis 
+DerivAlert	710826327042088960	2016-03-18T13:52:57	ESMA Maintains Market Risk Indicator at Highest Level 
+DerivAlert	710824096485998592	2016-03-18T13:44:05	We've Been Here Basel IV 
+DerivAlert	710822226786983936	2016-03-18T13:36:39	Wall Street Group Seeks Closer Coordination With Regulators 
+DerivAlert	710819590599786496	2016-03-18T13:26:11	2 Senate Democrats Introduce Bill to Curb Activist Hedge Funds 
+DerivAlert	710815167513272320	2016-03-18T13:08:36	EC Seeks Redo of Controversial MiFID II Commodity Provisions 
+DerivAlert	710480528894513160	2016-03-17T14:58:52	ESMA Ordered to Revisit MiFID II Bond Trading Rules 
+DerivAlert	710477901796347905	2016-03-17T14:48:26	Europe Will Open Gates to U.S. CCPs, Says Massad 
+DerivAlert	710473666744721408	2016-03-17T14:31:36	U.S. End-Users Risk Tax Hit in Move to Daily Settled Swaps 
+DerivAlert	710469742260318209	2016-03-17T14:16:01	Bank Names Obstruct Single-Name CDS Clearing 
+DerivAlert	710466005944950785	2016-03-17T14:01:10	Swap Reporting Costs Drive Industry Shift 
+DerivAlert	710461564793589760	2016-03-17T13:43:31	ESMA Welcomes Industry Comment on SFTR 
+DerivAlert	710458252237086721	2016-03-17T13:30:21	Escape From Negative Japan Rates Wrecked by Record Hedging Costs 
+DerivAlert	710455568977281024	2016-03-17T13:19:41	Comment: Buyside Adapting to Changing Market 
+DerivAlert	710452795023958016	2016-03-17T13:08:40	Comment: Thought April 7 was the REMIT Finish Line? Nope, Keep Running 
+DerivAlert	710120766378020864	2016-03-16T15:09:18	Can the CFTC Improve Swaps Data? 
+DerivAlert	710115911110365184	2016-03-16T14:50:01	MiFID II Ushers in New Reality for Regulatory Reporting 
+DerivAlert	710113329973432320	2016-03-16T14:39:45	National Archives Opens Financial Crisis Inquiry Commission Records 
+DerivAlert	710109070087290880	2016-03-16T14:22:50	Europe Grants Equivalence to U.S. Derivatives Rules 
+DerivAlert	710105826216824832	2016-03-16T14:09:56	BOE Says Regulators May Lighten Capital Burden on Derivatives 
+DerivAlert	710101821772140545	2016-03-16T13:54:02	Basel Nears Probe Into Leverage Ratio 
+DerivAlert	710098200972140545	2016-03-16T13:39:38	Margin Rules Joke Will Bring a Punchline in the Face for ESMA 
+DerivAlert	710094430007652353	2016-03-16T13:24:39	Report Finds 'No Evidence' of Banks Manipulating Risk Models 
+DerivAlert	710091000866279425	2016-03-16T13:11:02	Buyside Backs ESMA Over Trade Reporting Codes 
+DerivAlert	709757456860254210	2016-03-15T15:05:39	Germany Says Proposed MiFID Market-Rules Delay Comes Up Short 
+DerivAlert	709753970009493505	2016-03-15T14:51:47	Buy-Side Told to Expect Higher Clearing Fees 
+DerivAlert	709750956142039040	2016-03-15T14:39:49	BOE Concerned Over Access to Clearing 
+DerivAlert	709748264007028736	2016-03-15T14:29:07	FASB Updates Standards for Put and Call Options 
+DerivAlert	709745719004041216	2016-03-15T14:19:00	Comment: MiFID II Timestamping – There Are No Secrets That Time Does Not Reveal 
+DerivAlert	709742872363458561	2016-03-15T14:07:41	WFE Wades Into Cyber Security Debate 
+DerivAlert	709739678413492226	2016-03-15T13:55:00	Why the Gridlock Slowing New Rules for Wall Street Won't Go Away 
+DerivAlert	709737789903007744	2016-03-15T13:47:30	Buyside backs Esma over trade reporting codes 
+DerivAlert	709737768906301440	2016-03-15T13:47:25	CFTC Staff Provides Relief in Connection with Swap Trade Confirmations 
+DerivAlert	709732740535623680	2016-03-15T13:27:26	Jury Still Out on Post-Crisis Regulation 
+DerivAlert	709729887205072896	2016-03-15T13:16:05	Derivatives Association to Hold Institutional Blockchain Event in London 
+DerivAlert	709726328279470080	2016-03-15T13:01:57	Wall Street Is Obsessed with This Technology That No One Quite Understands — Here's the Best Explanation We've Seen 
+DerivAlert	709408411281182720	2016-03-14T15:58:40	Europe Submits Final Swaps Margin Rules 
+DerivAlert	709405022623289344	2016-03-14T15:45:12	Blockchain Can't Handle Volumes or Security, Says ESMA 
+DerivAlert	709402045292408832	2016-03-14T15:33:22	Some European Banks Pricing in Pillar 2 CVA Charge 
+DerivAlert	709395591508463617	2016-03-14T15:07:43	FASB Updates Standards on Derivatives and Hedging 
+DerivAlert	709391991768006656	2016-03-14T14:53:25	E.U. Moves to Shine Light on Shadow Banking Trades to Rein in Risk 
+DerivAlert	709387875553513472	2016-03-14T14:37:03	Here's What's at Stake for London's Trading Share in a `Brexit' 
+DerivAlert	709384823081713665	2016-03-14T14:24:56	Banks Reach for 'Renewable' Financing to Satisfy Long-Term Funding Rules 
+DerivAlert	709380695701979136	2016-03-14T14:08:32	Comment: Inching Our Way to a Level Derivatives Playing Field 
+DerivAlert	709376704628842496	2016-03-14T13:52:40	Banks Weigh up Options as ECB Dangles Free Funding 
+DerivAlert	709372118954340352	2016-03-14T13:34:27	CFTC Commissioner Withdraws Controversial Report on Position Limits 
+DerivAlert	709367748879638528	2016-03-14T13:17:05	Comment: Wall St. Wants a Piece of BlackRock 
+DerivAlert	708338879586312192	2016-03-11T17:08:43	Professor to Wall Street: You're Doing Swaps Accounting Wrong 
+DerivAlert	708335443629178880	2016-03-11T16:55:04	Buyside Firms Face MiFID II Reporting Headache 
+DerivAlert	708332748084215813	2016-03-11T16:44:21	How Fed's SCCL Proposal Diverges from Basel 
+DerivAlert	708329800134479872	2016-03-11T16:32:39	Proposed Regulatory Change Could Hit U.S. Options Trading Volume 
+DerivAlert	708326121440464896	2016-03-11T16:18:02	Comment: The Past, Present, and Future of Asset Segregation 
+DerivAlert	708323156948287488	2016-03-11T16:06:15	Pain Still Is in the Post for Corps, as Margin Rules Get Slower Roll-Out 
+DerivAlert	708318746201477120	2016-03-11T15:48:43	Reprieve for FX and Equity as E.U. Toughens Rules on Uncleared Margin 
+DerivAlert	708316271566331905	2016-03-11T15:38:53	Comment: Just Scrap Operational Risk – It Can't Really Be Measured 
+DerivAlert	708313820880642049	2016-03-11T15:29:09	Proportionality Key Risk for Props Under MiFID II - FIA 
+DerivAlert	708311304763789312	2016-03-11T15:19:09	AFM Opens Regulator Talks for MiFID II Tech Work 
+DerivAlert	708309325517819904	2016-03-11T15:11:17	Swaps Clearing Mandate Key Driver in Europe Push - Citadel 
+DerivAlert	708307258992685056	2016-03-11T15:03:04	Clearing: Waiting for Blockchain to Spark 
+DerivAlert	708304128338960384	2016-03-11T14:50:38	Comment: China Debt Swap Could Leave Banks in Capital Hole 
+DerivAlert	708300453042376704	2016-03-11T14:36:02	ALFI: Banks Will Survive UCITS V 
+DerivAlert	708297456488988672	2016-03-11T14:24:07	FTT on the Back Burner Again 
+DerivAlert	708294765054464001	2016-03-11T14:13:26	CFTC Staff Clarifies Registration Relief for Non U.S. CPOs &amp; CTAs 
+DerivAlert	708291394188779521	2016-03-11T14:00:02	SEC Revamps OCIE to Bolster Surveillance 
+DerivAlert	707977097952759809	2016-03-10T17:11:08	European Asset Managers Are Using MiFID II as a Weapon in the Battle for Global Asset Flows 
+DerivAlert	707973820032880640	2016-03-10T16:58:06	Treasuries Market Shows Signs of Stress 
+DerivAlert	707969706439872512	2016-03-10T16:41:46	EC Urged to Target Initial Margin for CCP Recovery 
+DerivAlert	707965362483105792	2016-03-10T16:24:30	MiFID II Requires Multi-Exchange Links - Report 
+DerivAlert	707961945790529536	2016-03-10T16:10:55	Indirect Impact of Regulation Could Exceed Direct Impact - Report 
+DerivAlert	707957577464860673	2016-03-10T15:53:34	CFTC Has Chronic Economist Shortfall, Watchdog Says 
+DerivAlert	707954142875152384	2016-03-10T15:39:55	CCPs Face Pressure to Deal with Cyber Security Threats 
+DerivAlert	707951448026423297	2016-03-10T15:29:12	New Hedging Tools Needed in the Philippines, Says SEC 
+DerivAlert	707948622231552000	2016-03-10T15:17:59	BOE to Offer Extra Repo Operations Near E.U. Referendum 
+DerivAlert	707945976279998464	2016-03-10T15:07:28	Equities as Collateral on the Rise 
+DerivAlert	707943355116863488	2016-03-10T14:57:03	MiFID II Delay Raises Questions Over MAR 
+DerivAlert	707940263403061249	2016-03-10T14:44:46	U.S. Counsel React to FSB Collateral Re-Use Study 
+DerivAlert	707937642915217408	2016-03-10T14:34:21	Uncertainty Lingers After Asia's First TLAC-Bond 
+DerivAlert	707933317417603072	2016-03-10T14:17:10	Comment: Default-Swap Traders Needed 
+DerivAlert	707931097330487296	2016-03-10T14:08:20	Markets Policy Expert King Trades FCA for BOE 
+DerivAlert	707596296111177728	2016-03-09T15:57:58	U.S. Financial Watchdog Flags Up Flaws in Stress Tests 
+DerivAlert	707593621751652352	2016-03-09T15:47:20	Buy-Side Reluctant to Join the Clearing Party 
+DerivAlert	707591098533863424	2016-03-09T15:37:18	ESMA Publishes Final EMIR Draft RTS 
+DerivAlert	707587738153959424	2016-03-09T15:23:57	Banks Face Billions in Collateral Needs Under E.U. Swap Rules 
+DerivAlert	707585255964864514	2016-03-09T15:14:05	Comment: LIBOR Reform: The Sound of Silence 
+DerivAlert	707580133532688385	2016-03-09T14:53:44	Comment: The Limits of the Leverage Ratio 
+DerivAlert	707578196808572928	2016-03-09T14:46:02	U.S. to Change Settlement Times in 2017 
+DerivAlert	707576409858904064	2016-03-09T14:38:56	SEC Facing Struggle to Finish Market Stability Rules, White Says 
+DerivAlert	707573990567645185	2016-03-09T14:29:20	Q&amp;A: Occupy the SEC's Top Lawyer, on Post-Volcker Banking and Reform Agenda 
+DerivAlert	707571006622343169	2016-03-09T14:17:28	Comment: What Would a President Trump Mean for the U.S. Banking Sector? 
+DerivAlert	707236686871339009	2016-03-08T16:09:00	CFTC Boss Expects European CCPs Equivalence Soon 
+DerivAlert	707233009309626368	2016-03-08T15:54:23	Why Blockchain Won't Save Banks from the Capital Squeeze 
+DerivAlert	707230144881147909	2016-03-08T15:43:00	BOE Set to Review Market Risk Managers 
+DerivAlert	707227247367872512	2016-03-08T15:31:30	Comment: The New Danger From Derivatives 
+DerivAlert	707224557992681476	2016-03-08T15:20:48	Wells Fargo Said to Expand in Credit Swaps as Clients Hedge 
+DerivAlert	707220954066321413	2016-03-08T15:06:29	IOSCO Calls for Greater Collateral Transparency 
+DerivAlert	707218677725306881	2016-03-08T14:57:26	Treasury Official Calls for Greater Foreign Bank Policies 
+DerivAlert	707216295851401216	2016-03-08T14:47:59	New Laws’ Effect on Market Liquidity Is ‘Reasonable’ Concern – Fed Economist 
+DerivAlert	707213307942473728	2016-03-08T14:36:06	Why Obama Says Bank Reform Is a Success but Bernie Sanders Says It's a Failure 
+DerivAlert	707209564148637696	2016-03-08T14:21:14	Capital Markets: Swap Spreads Signal Market Failure 
+DerivAlert	707207683418497024	2016-03-08T14:13:45	Portugal Loses U.K. Court Battle Over 'Toxic' Derivatives 
+DerivAlert	707205556843446273	2016-03-08T14:05:18	Comment: Corporate Credit Markets Set for Extended… Period of Balance? 
+DerivAlert	706883320056029185	2016-03-07T16:44:51	Beyond LIBOR: What Reform Plans Mean for Swaps Users 
+DerivAlert	706878452285227008	2016-03-07T16:25:30	Banks Ponder Rates Strategy 
+DerivAlert	706875285938020352	2016-03-07T16:12:55	SEC-Registered CCPs in Limbo on Equivalence Deal 
+DerivAlert	706872059410980866	2016-03-07T16:00:06	Firms Face Massive MiFID II Pre-Trade Changes 
+DerivAlert	706867743891595264	2016-03-07T15:42:57	Comment: U.S. Swaps Transparency Has Yielded Numerous Benefits 
+DerivAlert	706864060810272768	2016-03-07T15:28:19	Fed Proposes New Rule Capping Business Between Banks 
+DerivAlert	706861108737482754	2016-03-07T15:16:35	Reforms Could Cost European Pensioners €4.7bn 
+DerivAlert	706858653899423744	2016-03-07T15:06:50	Comment: What If Bitter Bankers Are Proved Right? 
+DerivAlert	706855730515714048	2016-03-07T14:55:13	MEPs Draft MiFID II Amendments to Avoid HFT Trap 
+DerivAlert	706852205274533888	2016-03-07T14:41:13	E.U. Markets Chief Says Banks Want Capital Rules to Scale 
+DerivAlert	706848819691053057	2016-03-07T14:27:45	Trade Groups Back New E.U. Securitization Regulations 
+DerivAlert	706845102082289664	2016-03-07T14:12:59	Hong Kong Clarifies Rules for OTC Derivatives Trading 
+DerivAlert	705785177528803328	2016-03-04T16:01:13	Trading Venues Ask E.U. to Hurry Up on MiFID II 
+DerivAlert	705782632659984384	2016-03-04T15:51:07	SEC in Wait-And-See Mode on CDS Clearing Mandate 
+DerivAlert	705779790733774848	2016-03-04T15:39:49	ISDA Issues Aussie Swaps Clearing Guidelines 
+DerivAlert	705776996882763776	2016-03-04T15:28:43	Fed to Unveil New Rules Aimed at Corralling Banks’ Risk 
+DerivAlert	705773219807154178	2016-03-04T15:13:42	CFTC, SEC Inch Closer to Full Strength With Nominations Moves 
+DerivAlert	705770517379153920	2016-03-04T15:02:58	Comment: KVA Pushes Accounting Standards to the Limit 
+DerivAlert	705768122943414274	2016-03-04T14:53:27	Credit Markets Look Cheap But Structurally Challenged: Goldman 
+DerivAlert	705764966738042880	2016-03-04T14:40:55	Freddie Mac Reviews $600bn Hedge Book as Losses Mount 
+DerivAlert	705763238835830785	2016-03-04T14:34:03	New Doubts About ‘Too Big to Fail’ Banks Rattle Foundation of Regulations 
+DerivAlert	705760180932366336	2016-03-04T14:21:54	Euro Zone Banks Body Sees Harmonized "Bail In" Rules 
+DerivAlert	705756896486166528	2016-03-04T14:08:51	Regulatory Pressure Set to Increase - Analysts 
+DerivAlert	705755107103793153	2016-03-04T14:01:44	Cybersecurity, Blockchain to Dominate in 2016: ISITC 
+DerivAlert	705409203276521472	2016-03-03T15:07:14	ESMA Sounds Positive Note on Clearinghouse Safety 
+DerivAlert	705406635443920900	2016-03-03T14:57:02	Europe Opens Door to MiFID II Package Trade Waiver 
+DerivAlert	705403491951493120	2016-03-03T14:44:32	E.U. Dawdling Puts MiFID Market-Rule Plans at Risk, Lawmakers Say 
+DerivAlert	705400006698799108	2016-03-03T14:30:41	IOSCO Lays out Fintech Concerns in Risk Report 
+DerivAlert	705395188022247425	2016-03-03T14:11:33	How Will Blockchains Cross the Clearing and Settlement Chasm? 
+DerivAlert	705054651067080705	2016-03-02T15:38:22	EC Approves Credit Derivatives Clearing 
+DerivAlert	705051465912590336	2016-03-02T15:25:43	Accounting Puts Brake on Move to Daily Settled Swaps 
+DerivAlert	705048568286060544	2016-03-02T15:14:12	Pensions Industry Says Permanent EMIR Exemption Not Enough 
+DerivAlert	705045642389934080	2016-03-02T15:02:34	Novo Banco Swaps Ruling Adds to Letdowns in Derivatives Market 
+DerivAlert	705043839556386816	2016-03-02T14:55:25	IOSCO on 2016 Risk 
+DerivAlert	705035702434721793	2016-03-02T14:23:05	HFT Lobby Goes Dutch for Johannah Ladd Successor 
+DerivAlert	705033760639688704	2016-03-02T14:15:22	‘Brexit’: Lots of Risk, Little Obvious Reward, BlackRock Says 
+DerivAlert	705031131918372868	2016-03-02T14:04:55	ISDA General Counsel David Geen Departs 
+DerivAlert	704694335279915008	2016-03-01T15:46:36	ISDA Creates Protocol for Swap Rate 'Big Bang' 
+DerivAlert	704691855947128832	2016-03-01T15:36:45	Buy-Siders Hope for Late Reprieve on Margining for Non-Cleared Swaps 
+DerivAlert	704689022686384128	2016-03-01T15:25:30	Dealers Turn to Structured Products for LCR Relief 
+DerivAlert	704686806080593920	2016-03-01T15:16:41	Banking Industry Needs to Change Attitude on Shared Operations 
+DerivAlert	704684005854220289	2016-03-01T15:05:34	U.S. Credit Derivatives Increasingly Chosen by Investors 
+DerivAlert	704681955980414976	2016-03-01T14:57:25	Comment: Golden Copy: Maybe It's Not a Tale of Two Identifiers 
+DerivAlert	704678324258340865	2016-03-01T14:42:59	PASLA: Pushback on Regulation Begins 
+DerivAlert	704675030823735296	2016-03-01T14:29:54	Will Japan's Negative Rate Backlash Affect Its Central Bank's Next Decision? 
+DerivAlert	704671770540974080	2016-03-01T14:16:56	E.U. Finance Services Chief Warns U.K. of 'Brexit' Damage 
+DerivAlert	704334974871343104	2016-02-29T15:58:38	ISDA to CFTC: Exempt SEF-Compliant European Venues 
+DerivAlert	704331002185949185	2016-02-29T15:42:51	CCP Equivalence Raises Questions 
+DerivAlert	704327886162022400	2016-02-29T15:30:28	Exchange Fees "Boost Pressure" on Props – Panel 
+DerivAlert	704324273767317504	2016-02-29T15:16:07	CCPs Seen as Reluctant to Report Cyber Attacks 
+DerivAlert	704320462482968576	2016-02-29T15:00:58	Global Regulators May Propose Rules for Fintech: FSB's Carney 
+DerivAlert	704316626762645504	2016-02-29T14:45:44	Collateral Settlement Fails Pose Swaps Problem 
+DerivAlert	704312573387259904	2016-02-29T14:29:37	MiFID II Is Capital Threat for Props – Panel 
+DerivAlert	704310153680691200	2016-02-29T14:20:00	Experts Warn Over MiFID Third Country Firm Rules 
+DerivAlert	704308405700325377	2016-02-29T14:13:03	Comment: Hedge Funds Seek Refuge from Unfair European Regulations 
+DerivAlert	704305522527358976	2016-02-29T14:01:36	SIFMA and Others Have Warning for T-TIP Negotiations 
+DerivAlert	703254063903862785	2016-02-26T16:23:29	Regulators Edge Closer to CCP Resolution Plan 
+DerivAlert	703250099049209856	2016-02-26T16:07:44	E.U.-U.S. CCPs Agreement Unpicked 
+DerivAlert	703247261610995714	2016-02-26T15:56:27	E.U., U.K. Regulators Bemoan National Discrepancies 
+DerivAlert	703244109989978114	2016-02-26T15:43:56	MEPs Push for Blockchain Regulation Taskforce 
+DerivAlert	703240788118016000	2016-02-26T15:30:44	Leap Year Date Confusion Leads to Derivatives Fallout 
+DerivAlert	703236049678573569	2016-02-26T15:11:54	Further Delays Loom for MiFID II's Remaining Rules 
+DerivAlert	703234273751470080	2016-02-26T15:04:50	FCA Eyes Foreign Ties to Boost Fintech 
+DerivAlert	703231080552390656	2016-02-26T14:52:09	SDRs Urge CFTC for More Help on Data Harmonization 
+DerivAlert	703227019203637253	2016-02-26T14:36:01	Canada's 'Early Warning' Changes to Impact Sec Lending 
+DerivAlert	703225732491825152	2016-02-26T14:30:54	Comment: MiFID II Delay: Not an Opportunity to Relax 
+DerivAlert	703223564435103745	2016-02-26T14:22:17	Flexibility a Sticking Point in Buy-Side Resolution Stay Protocol 
+DerivAlert	703221911636070400	2016-02-26T14:15:43	Comment: DVA Shift a Net Positive for Structured Notes 
+DerivAlert	703220100560719873	2016-02-26T14:08:31	CFTC Chief Rejects Calls to Set Aside Trading Caps 
+DerivAlert	702883094139936768	2016-02-25T15:49:23	CFTC’s Proposed Algo Trading Rules Need a Few Tweaks
+DerivAlert	702879264878755840	2016-02-25T15:34:10	MEPs Split on How to Protect Package Trades from MiFID II
+DerivAlert	702876116814589952	2016-02-25T15:21:39	Cost of CFTC Trading Rule Will Top $15mn - New Report
+DerivAlert	702872378108416001	2016-02-25T15:06:48	Performance and Clients Taking Back Seat to Regulatory Issues for Buy-Side
+DerivAlert	702869109667708928	2016-02-25T14:53:49	Accounting Change Threatens Structured Note DVA Hedges 
+DerivAlert	702863807970975745	2016-02-25T14:32:45	Basel Should Stick to Leverage Ratio as Risk Backstop, ING Says
+DerivAlert	702861487463927808	2016-02-25T14:23:31	Banks Can't Fail as Europe Rolls Out Post-Crisis Stress Test 
+DerivAlert	702859632398737408	2016-02-25T14:16:09	Commodities Agency Advised to Drop Plan to Limit Futures Contracts 
+DerivAlert	702856951839879170	2016-02-25T14:05:30	Comment: 7 Reasons Why Breaking Up Big Banks Is a Bad Idea 
+DerivAlert	702581499036626944	2016-02-24T19:50:57	Timothy Massad Highlights Automated Trading and Data Reporting at the Technology Advisory Committee Meeting 
+DerivAlert	702520214186020869	2016-02-24T15:47:25	ISDA Publishes Principles for U.S./E.U. Trading Platform Recognition 
+DerivAlert	702509965580308481	2016-02-24T15:06:42	CFTC Proposal to Expand Swap Data Reporting Criticized 
+DerivAlert	702506106380275712	2016-02-24T14:51:22	CFTC Feels Pressure on HFT Rules 
+DerivAlert	702501359225069568	2016-02-24T14:32:30	FSB Issues Collateral Re-Use Report 
+DerivAlert	702497081601236992	2016-02-24T14:15:30	FCA: Blockchain Is No 'Panacea' 
+DerivAlert	702494551840268288	2016-02-24T14:05:27	CFTC Hearing Explores Role of Regulators in Blockchain Future 
+DerivAlert	702153969469149185	2016-02-23T15:32:06	Banks Face $27bn Risk from Failed Derivatives Payments 
+DerivAlert	702151058894798850	2016-02-23T15:20:32	A Radical World for FCMs 
+DerivAlert	702149440711348229	2016-02-23T15:14:06	Frontloading Starts Under EMIR 
+DerivAlert	702147446739173377	2016-02-23T15:06:11	E.U.’s Foreign Benchmark Equivalence Rules Under Fire 
+DerivAlert	702145575874125825	2016-02-23T14:58:45	PBOC Paper Calls for Further Opening Up of China's Bond Market 
+DerivAlert	702141712827871232	2016-02-23T14:43:24	Fed Says Rate Rise Manoeuvre Was Smooth 
+DerivAlert	702139676426166272	2016-02-23T14:35:18	Comment: Golden Copy: Thoughts About MiFID II Postponement 
+DerivAlert	702137436864962560	2016-02-23T14:26:24	U.K. Bank Rules Won't Revert to Pre-Crisis Days on `Brexit' 
+DerivAlert	702135453374349312	2016-02-23T14:18:31	Biggest U.S. Banks Fight Back Against Fed's Too-Big-to-Fail Plan 
+DerivAlert	702131320177213440	2016-02-23T14:02:06	IOSCO to Open Asia Office 
+DerivAlert	701795812976807936	2016-02-22T15:48:55	Weak Bank Balance Sheets Cause Dislocations 
+DerivAlert	701792972812263424	2016-02-22T15:37:38	Use of Fed’s Foreign Repo Program Grows 
+DerivAlert	701790099994976257	2016-02-22T15:26:13	U.S. Regs Seek Q1 Rollout of Swaps Opt-In Rules 
+DerivAlert	701786251976953856	2016-02-22T15:10:55	Comment: A Clearer View of the Banking Crisis 
+DerivAlert	701782855433768961	2016-02-22T14:57:25	Investment Banks' Trading Revenue Declined 9 Percent in 2015: Survey 
+DerivAlert	701779372206911488	2016-02-22T14:43:35	How Bernie Sanders Wants to Tax Your Trades 
+DerivAlert	701777897099382784	2016-02-22T14:37:43	ESMA Upgrades Public Register with Aggregated Category 1 Clearing Members 
+DerivAlert	701774741682659329	2016-02-22T14:25:11	Comment: Why the Bank Bill Swap Rate Must Be Made Trustworthy Again 
+DerivAlert	701771553244127232	2016-02-22T14:12:31	Comment: The Rise of RegTech Across Capital Markets 
+DerivAlert	701769489868840960	2016-02-22T14:04:19	Mixed Views on Brexit from U.K. Asset Managers 
+DerivAlert	700721235844464640	2016-02-19T16:38:56	U.S. and E.U. Still Have Hurdles to Clear in Derivatives Détente 
+DerivAlert	700715002903158785	2016-02-19T16:14:10	ESMA Pledges to Ease Reporting Burden on Trading Firms 
+DerivAlert	700711942537682948	2016-02-19T16:02:00	CFTC Signals Retreat over 'Source Code' Repository 
+DerivAlert	700708708351803394	2016-02-19T15:49:09	EBA Lacks Mandate for New CVA Push, Critics Claim 
+DerivAlert	700704593571753984	2016-02-19T15:32:48	KfW $4 Billion Issue Underscores New Normal of Negative Swap Spreads 
+DerivAlert	700698879767908352	2016-02-19T15:10:05	Stress Continues to Build in Junk-Bond Market 
+DerivAlert	700695994975924224	2016-02-19T14:58:38	Comment: Banks Cast Shadow Over Credit Market 
+DerivAlert	700694344567664642	2016-02-19T14:52:04	NFA Cybersecurity Rules May Hit Smaller Firms 
+DerivAlert	700692436260007936	2016-02-19T14:44:29	Ferber Proposes Delay to MiFID Adoption Date 
+DerivAlert	700688144983691264	2016-02-19T14:27:26	European Banks Gain Reprieve as ECB Retreats on Capital Demands 
+DerivAlert	700686191683764224	2016-02-19T14:19:40	What Would `Brexit' Really Mean for Firms in London's City?: Q&amp;A 
+DerivAlert	700681995890786304	2016-02-19T14:03:00	Bank of England and Vickers Clash on Capital Rules 
+DerivAlert	700350924187893760	2016-02-18T16:07:26	U.K., E.U. Leaders Set to Clash over Financial Regulation 
+DerivAlert	700346458231455745	2016-02-18T15:49:42	Emerging Market Benchmarks under Threat from E.U. Law 
+DerivAlert	700342748856057856	2016-02-18T15:34:57	Comment: Why Regulators Are to Blame for the MiFID II Delay 
+DerivAlert	700338739634163712	2016-02-18T15:19:01	Comment: CFTC Does the Right Thing on Trade Reporting 
+DerivAlert	700334247924625408	2016-02-18T15:01:10	Comment: Tensions at For-Profit CCPs Could Put Them at Risk 
+DerivAlert	700329944392581120	2016-02-18T14:44:04	A New Worry for Bank Investors: Bail-In Risk 
+DerivAlert	700328187876786176	2016-02-18T14:37:06	Blockchain - the Next Level 
+DerivAlert	700326293867470849	2016-02-18T14:29:34	ECB Open to Blockchain's Settlement Potential 
+DerivAlert	700323567314014209	2016-02-18T14:18:44	Why the Euro Area Is Resisting Cameron's Demand for Bank Shield 
+DerivAlert	700319457097478145	2016-02-18T14:02:24	Australia Is in the Vanguard of Blockchain's March to Market 
+DerivAlert	699994347689873409	2016-02-17T16:30:32	E.U.-U.S. Agreement on Equivalence for Central Clearing Parties: Building Cross-Border Harmony 
+DerivAlert	699990782493794306	2016-02-17T16:16:22	E.U. Benchmark Rules Open to Regulatory Arbitrage, Say Rate-Setters 
+DerivAlert	699987713680875521	2016-02-17T16:04:10	Buy-Side Firms Doubtful Over Regulatory Data 
+DerivAlert	699984740246548481	2016-02-17T15:52:21	MiFID II: When Obeying the Rules Could Land You in Jail 
+DerivAlert	699981515082563584	2016-02-17T15:39:32	Comment: Don't Always Believe a Balance Sheet 
+DerivAlert	699978166606102528	2016-02-17T15:26:14	Comment: Nouy's Right: E.U. Should Stop Using Directives for Financial Regulation 
+DerivAlert	699976502423773184	2016-02-17T15:19:37	Credit Default Swaps: Not a Lehman Moment 
+DerivAlert	699974808818343941	2016-02-17T15:12:53	Comment: Vickers-Bank Spat Underlines U.K.'s Toxic Attitude to Regulation 
+DerivAlert	699972635015430144	2016-02-17T15:04:15	ESMA Urged to Open Up Trade Reporting Data 
+DerivAlert	699969873808658437	2016-02-17T14:53:17	Fund Managers Doubt Collateral Transformation Services 
+DerivAlert	699965938553245696	2016-02-17T14:37:39	Daily Fund Liquidity Needs Rethinking, Say Asset Managers 
+DerivAlert	699963897135177728	2016-02-17T14:29:32	Energy Industry Blasts 'Unusable' CFTC Commodity Swap Data 
+DerivAlert	699961047445278721	2016-02-17T14:18:13	Junk-Bond Market Facing Record Refinancing Cliff: Moody’s 
+DerivAlert	699958692054171650	2016-02-17T14:08:51	Credit Index ETFs Face Extinction on Outflows 
+DerivAlert	699615865755586560	2016-02-16T15:26:35	Examining ‘Phantom Liquidity’ and the Cost of HFT Regulation 
+DerivAlert	699613250476969984	2016-02-16T15:16:11	Rule Delays Eat into MiFID Postponement 
+DerivAlert	699610912249016324	2016-02-16T15:06:54	MiFID Delay May Not Be Enough 
+DerivAlert	699607537600110592	2016-02-16T14:53:29	Blockchain Implementation Gets Roadmap 
+DerivAlert	699604857293033472	2016-02-16T14:42:50	Demand for Cleared Swaps Strong on Buy-Side - Report 
+DerivAlert	699602015895289856	2016-02-16T14:31:33	Credit-Default Swaps Are Back as Investor Fear Grows 
+DerivAlert	699600468687876096	2016-02-16T14:25:24	Banks Listen in to Traders' Banter for Evidence of Market Abuse 
+DerivAlert	699598665384497155	2016-02-16T14:18:14	Daleep Singh to Run U.S. Treasury's Financial Markets Office 
+DerivAlert	699596793663852544	2016-02-16T14:10:48	European Regulators Lag on Model Validation, Top Quant Claims 
+DerivAlert	699595086708011009	2016-02-16T14:04:01	Novo Banco Swaps Panel Rejects Payout on Portugal Bond Shift 
+DerivAlert	698179430712287232	2016-02-12T16:18:42	ISDA and FIA Urge Phased Implementation of MiFID II 
+DerivAlert	698176804415279104	2016-02-12T16:08:16	Kay Swinburne: 'Approving MiFID Delay Won't Be Just a Nod' 
+DerivAlert	698173812827885568	2016-02-12T15:56:23	What in the Name of Leverage Ratios Is Going On? 
+DerivAlert	698171006825996288	2016-02-12T15:45:14	Repo Stable Despite Book Decline Says ICMA 
+DerivAlert	698167763114860544	2016-02-12T15:32:20	CFTC Too Broke to Properly Police Flash Traders, Massad Says 
+DerivAlert	698163359703810050	2016-02-12T15:14:50	Schelling Sees March Reckoning for E.U. Push on Transaction Tax 
+DerivAlert	698161246777036800	2016-02-12T15:06:27	Why Negative Rates May Dominate in 2016 
+DerivAlert	698159489296560128	2016-02-12T14:59:28	Comment: Planning for the Unknown 
+DerivAlert	698158168652718082	2016-02-12T14:54:13	Comment: Nervous Recs: Necessary Evil to Boardoom Priority 
+DerivAlert	698155963753361408	2016-02-12T14:45:27	U.S. Options Recover in January - Report 
+DerivAlert	698152467557720064	2016-02-12T14:31:33	Bank Data Executives Split on BCBS 239 Sanctions 
+DerivAlert	698150569333157888	2016-02-12T14:24:01	Swap Auction Frictions Prompt Search for New Tactics 
+DerivAlert	698148088440098817	2016-02-12T14:14:09	Euro Area Stalls Deal to Shield London Banks from E.U. Rules 
+DerivAlert	698145296728137729	2016-02-12T14:03:04	Goldman Sachs, Credit Suisse Top U.S. Clearers List 
+DerivAlert	697812755559088128	2016-02-11T16:01:40	SEC Rule Hikes Cost of Trading U.S. CDS for Non-U.S. Firms 
+DerivAlert	697808351900672000	2016-02-11T15:44:10	E.U.'s MiFID II Market-Rule Delay Seen as Too Little, Too Late 
+DerivAlert	697806407375196160	2016-02-11T15:36:26	Long Slog to E.U.-CFTC Clearing Deal May Color Future Talks 
+DerivAlert	697802620346490884	2016-02-11T15:21:23	Pension Funds Quick off the Mark Over Swaps Clearing 
+DerivAlert	697799942782525440	2016-02-11T15:10:45	Comment: What Credit Auction Friction Says About the OTC Market 
+DerivAlert	697795987822215169	2016-02-11T14:55:02	ESMA Calls on Market Data Experts 
+DerivAlert	697793295892746240	2016-02-11T14:44:20	Market Experts Welcome MiFID II Delay 
+DerivAlert	697791801546113024	2016-02-11T14:38:24	Old Lady Calls Next LIBOR Reform Meeting in March 
+DerivAlert	697790369493291008	2016-02-11T14:32:43	ESMA, ECB Move to Secure Europe-Wide Pacts 
+DerivAlert	697788323901939713	2016-02-11T14:24:35	Beware the Next Avalanche, Warns CFTC’s Sharon Bowen 
+DerivAlert	697786063654383616	2016-02-11T14:15:36	Comment: SA-CCR: Key Considerations to Tackle New Basel Rules 
+DerivAlert	697783982566608897	2016-02-11T14:07:20	CFTC Told to Free Foreigners from FCM Registration 
+DerivAlert	697527891899379712	2016-02-10T21:09:43	US Treasury Yield Curve Flattest Since Early Days of the Financial Crisis: 2Y v. 10Y spread now at 98.5 bp 
+DerivAlert	697444586181021696	2016-02-10T15:38:41	E.U. and U.S. Strive Derivatives Regulation Deal 
+DerivAlert	697440759881080832	2016-02-10T15:23:29	Europe's MiFID II Market Reforms Set to Be Delayed by a Year 
+DerivAlert	697436235183349760	2016-02-10T15:05:30	BOE: Leverage Ratio Carve-Out Needed for Clearing 
+DerivAlert	697433635918577664	2016-02-10T14:55:11	Dealer-Run Platforms Face Hard Choices Under MiFID II 
+DerivAlert	697429892514844672	2016-02-10T14:40:18	Trading Firms Given New MiFID Point Man in FCA Shuffle 
+DerivAlert	697427481289191424	2016-02-10T14:30:43	European Systemic Risk Concerns Overblown – Goldman 
+DerivAlert	697425354168913921	2016-02-10T14:22:16	New SEC Rule Proposals Aimed at ETFs May Chase Investors Into ETNs 
+DerivAlert	697423749721821184	2016-02-10T14:15:54	Comment: How Many Ways to Win in Swaps? 
+DerivAlert	697422517108088838	2016-02-10T14:11:00	Banks See Market Liquidity Sapped by E.U.'s Failed-Trade Fix 
+DerivAlert	697420339756691456	2016-02-10T14:02:21	EU Plans 1-Year Extension of MiFID II Market Rule Start Date  via business
+DerivAlert	697417668475793409	2016-02-10T13:51:44	And CFTC Chairman Massad's statement on their common approach for Transatlantic CCPs 
+DerivAlert	697416996795846656	2016-02-10T13:49:04	.CFTC Commissioner Giancarlo's statement on newly announced derivatives CCP equivalence: 
+DerivAlert	697415648520097793	2016-02-10T13:43:42	BREAKING: EU / US strike derivatives deal: staffordphilip 
+DerivAlert	697093364995485700	2016-02-09T16:23:04	You’re Not Ready for MAR? Are You MAD? 
+DerivAlert	697089915427934210	2016-02-09T16:09:21	CFTC Head Timothy Massad Says Swaps Industry Shares Blame for Lack of Clear Data 
+DerivAlert	697085129152397312	2016-02-09T15:50:20	Banks Explore Spin-Offs for Cleared Swaps Desks 
+DerivAlert	697081637704765440	2016-02-09T15:36:28	Investors Urge SEC Reform of CDS Rules 
+DerivAlert	697077714658988036	2016-02-09T15:20:52	Basel Risk Framework Could Reduce Liquidity 
+DerivAlert	697073798823157760	2016-02-09T15:05:19	Comment: ISIN Questioned as Possible Trade Identifier for OTC Derivatives 
+DerivAlert	697070766983143424	2016-02-09T14:53:16	Comment: Don’t Break Up the Banks. They’re Not Our Real Problem. 
+DerivAlert	697068761078173697	2016-02-09T14:45:18	CFTC Can’t Give Whistleblower Money Away 
+DerivAlert	697064768876761088	2016-02-09T14:29:26	Obama Wants SEC, CFTC Funding Doubled By 2021 
+DerivAlert	697060581946351616	2016-02-09T14:12:48	Credit Market Risk Surges to Four-Year High Amid Global Selloff 
+DerivAlert	697058745239654400	2016-02-09T14:05:30	Bank of America: This Chart Shows 'Deteriorating Liquidity' Is at the Heart of Market Carnage 
+DerivAlert	696730330141761536	2016-02-08T16:20:29	Clearing Fees Up for 60% of Swaps Users Due to Leverage Ratio 
+DerivAlert	696726473588273152	2016-02-08T16:05:10	Buy-Side Loses Faith on Equivalence Pact 
+DerivAlert	696722385228197888	2016-02-08T15:48:55	Fund Managers Kick Off SEC Derivatives Battle 
+DerivAlert	696717648210608128	2016-02-08T15:30:06	High Levels of Bond Fund Leverage Alarms IMF 
+DerivAlert	696713053069516800	2016-02-08T15:11:50	ESMA to Tackle Trade Repository Data Quality in 2016 
+DerivAlert	696707903819030528	2016-02-08T14:51:23	U.K. Treasury Wants Tweaks, Not a Bonfire of E.U. Regulation 
+DerivAlert	696706239854731264	2016-02-08T14:44:46	FCA Boss: MiFID II Phase-In 'Would Have Been Helpful' 
+DerivAlert	696704185409077248	2016-02-08T14:36:36	Fears Leveraged ETFs Could Amplify Japan Equity Swings 
+DerivAlert	696701763110436864	2016-02-08T14:26:59	Euribor Administrator Woos Banks to Revamp Dwindling Panel 
+DerivAlert	696698478647472129	2016-02-08T14:13:55	Mixed Industry Reaction to Moody's CCP Ratings 
+DerivAlert	696695486099693569	2016-02-08T14:02:02	Comment: Credit Default Swaps and Solvency Analysis 
+DerivAlert	695646917833945089	2016-02-05T16:35:24	Central Bankers in Europe Put Clearinghouses to the Test 
+DerivAlert	695644191922200576	2016-02-05T16:24:34	E.U. to Propose Rules on Failed Clearinghouses by Year End: E.U. Official 
+DerivAlert	695641084622467072	2016-02-05T16:12:13	Banks Press E.U. to Drop `Arbitrary' Derivatives-Collateral Rule 
+DerivAlert	695637913577644033	2016-02-05T15:59:37	Citadel Pushes SEC to Fix Fractured Credit-Default Swaps Market 
+DerivAlert	695633857354342400	2016-02-05T15:43:30	Hong Kong Securities Regulator Unveils Rules Permitting Higher Risk ETFs 
+DerivAlert	695629717484019712	2016-02-05T15:27:03	IMN: CCPs Not Quite Central to Sec Lending Plans 
+DerivAlert	695628421737615361	2016-02-05T15:21:54	IMN: Keeping Securities Lending Fees-able 
+DerivAlert	695626844553527296	2016-02-05T15:15:38	IMN: Cyber Concerns About Regulators 
+DerivAlert	695621111275507712	2016-02-05T14:52:51	Comment: FVA Skeptics Lose Ground in Valuation Debate 
+DerivAlert	695617305632444416	2016-02-05T14:37:44	CFTC’s Bowen Pushes to Toughen Penalties for Offenders 
+DerivAlert	695613248008224768	2016-02-05T14:21:36	More than Half of Rec Systems Are 5+ Years Old - Report 
+DerivAlert	695610324096053250	2016-02-05T14:09:59	U.K. Watchdog Takes Aim at New E.U. Commodities, Bond Market Rules 
+DerivAlert	695284457650016256	2016-02-04T16:35:07	We're at FIA/SIFMA Asset Management Derivatives Forum. Stop by our table and meet our team if you're here! 
+DerivAlert	695286710259814402	2016-02-04T16:44:04	Risky Derivatives Trades Face Higher Costs 
+DerivAlert	695279559554547712	2016-02-04T16:15:39	Credit Default Swaps Activity Heats Up 
+DerivAlert	695274216984334337	2016-02-04T15:54:25	Buy-Side Should Be Allowed to Provide Liquidity to CCPs 
+DerivAlert	695271166022410240	2016-02-04T15:42:18	Futures Markets Regulator Absent from SEC Discussion of Volatility 
+DerivAlert	695267810998669312	2016-02-04T15:28:58	The Success of the E.U. Regulatory Framework Is Vital 
+DerivAlert	695264375008030721	2016-02-04T15:15:19	Global Banking Agenda Can't Be Left to Basel, Denmark Says 
+DerivAlert	695262140232499200	2016-02-04T15:06:26	Liquidity Concerns Highlighted to E.U. Commission 
+DerivAlert	695255659789557760	2016-02-04T14:40:41	LIBOR Acquittals Raise Doubts About SFO’s Future 
+DerivAlert	695253958198194178	2016-02-04T14:33:55	FIA's Puleston-Jones Chairs Industry Group 
+DerivAlert	695251389191163906	2016-02-04T14:23:42	SIFMA Attacks U.S. Plan to Limit Options Trading 
+DerivAlert	695249455512174593	2016-02-04T14:16:01	Firms Risk Missing Market Abuse Deadline – Report 
+DerivAlert	695246634456846336	2016-02-04T14:04:49	China's Debt Default Risk Climbs to Highest Since June 2013 
+DerivAlert	695064688413900800	2016-02-04T02:01:50	We're at the FIA/SIFMA Asset Mgmt Derivatives Forum 2016. Stay tuned for insights and discussions from the conference!
+DerivAlert	694979994368503808	2016-02-03T20:25:17	FIA_SIFMA Don’t miss Tradeweb Head of U.S. Institutional Rates Markets, Chris Amen on the Swap Execution panel tomorrow at 11am PT
+DerivAlert	694919289216851968	2016-02-03T16:24:04	Financial Transaction Tax: Oversimplifying Complex Market Issues 
+DerivAlert	694916264003813376	2016-02-03T16:12:02	Corporates Warn of Legal Risk in Euribor Transition 
+DerivAlert	694911361504120832	2016-02-03T15:52:34	Banks Blaming Regulators for Repo Squeeze May Have Their Proof 
+DerivAlert	694906503690641408	2016-02-03T15:33:15	The Fed Wants to Test How Banks Would Handle Negative Rates 
+DerivAlert	694901505757954048	2016-02-03T15:13:24	E.U. Proposals Give U.K. More Autonomy on Financial Rules 
+DerivAlert	694897824081801216	2016-02-03T14:58:46	E.U. Banking Rules Divide at Euro-Area Border in Cameron Deal 
+DerivAlert	694894010813419523	2016-02-03T14:43:37	Comment: The Brexit Fight Is On: Look to the Big Issues 
+DerivAlert	694890008260415490	2016-02-03T14:27:43	ECSDA Seeks Better Post-Trade Regulation 
+DerivAlert	694888187521421312	2016-02-03T14:20:28	ESMA Endorses Clearing Exemption to 16 U.K. Pension Funds 
+DerivAlert	694546352060141568	2016-02-02T15:42:09	U.S. Derivatives Chief Urges EC to Move Fast on Clearinghouse Rules 
+DerivAlert	694542856464236544	2016-02-02T15:28:15	ESMA Finalizes New Settlement Rules 
+DerivAlert	694540299058728961	2016-02-02T15:18:05	Equities Considered for Margin Collateral 
+DerivAlert	694537850432417792	2016-02-02T15:08:22	U.K. FCA Raises Concerns Over Firms Trading Unlisted Derivatives 
+DerivAlert	694534719376089089	2016-02-02T14:55:55	Banks Work Together in Effort to Reduce XVA Costs 
+DerivAlert	694531448934637569	2016-02-02T14:42:55	E.U. Regulations Blamed for 'Swamping' Businesses 
+DerivAlert	694528580315930624	2016-02-02T14:31:31	Comment: Shift in Political Mood May Give Respite from Regulation 
+DerivAlert	694525578876162048	2016-02-02T14:19:36	FSB's Andresen: Liquidity Risks Were Underpriced Pre-Crisis 
+DerivAlert	694522606603669504	2016-02-02T14:07:47	New Name for SOFA as It Plots Global Expansion 
+DerivAlert	694521054979579905	2016-02-02T14:01:37	Abu Dhabi Regulatory Authority Joins Basel Committee 
+DerivAlert	694189464516694016	2016-02-01T16:04:00	2015 – A Year in Market Milestones: Tradeweb’s Billy Hult 
+DerivAlert	694184193069289476	2016-02-01T15:43:03	Uncleared Margin Rules Face Trans-Atlantic Mismatch 
+DerivAlert	694180726649020416	2016-02-01T15:29:17	Repo Infrastructure Faces Overhaul 
+DerivAlert	694177476902264832	2016-02-01T15:16:22	EC Shocks Market with TLAC Harmonization Push 
+DerivAlert	694175075772338176	2016-02-01T15:06:49	Comment: Clearinghouse Push Created Unforeseen Systemic Risks 
+DerivAlert	694171736594616321	2016-02-01T14:53:33	E.U. Watchdogs Call for Role in Regulation's Political Process 
+DerivAlert	694170435727069184	2016-02-01T14:48:23	Slow Start to U.S. Dollar Rates Clearing in Japan 
+DerivAlert	694166554758496257	2016-02-01T14:32:58	A Market Driven by 'Speculators' 
+DerivAlert	694165297373257728	2016-02-01T14:27:58	ECB's Nouy Says Differing Rule Interpretations Cause Imbalances 
+DerivAlert	694164163774517248	2016-02-01T14:23:28	Bank Lobby Group Seeks E.U. Review of Regulatory Costs on Economy 
+DerivAlert	694162381019181056	2016-02-01T14:16:23	MPs to Debate Whether Financial Conduct Authority Is Up to Job of Regulating City 
+DerivAlert	694161315632390144	2016-02-01T14:12:09	Bank of England Boosts Capital Rules for Big Retail Lenders 
+DerivAlert	694159889896206336	2016-02-01T14:06:29	New Vice Chair for ESMA 
+DerivAlert	693101740569313280	2016-01-29T16:01:46	OTC Margin Rules Will Hit the Buy-Side Hardest, Says Panel 
+DerivAlert	693099233780617217	2016-01-29T15:51:49	Member States Plead for More Time for MiFID 
+DerivAlert	693093515694362625	2016-01-29T15:29:05	MiFID II's Delegated Acts Face Fresh Delays 
+DerivAlert	693089744624943104	2016-01-29T15:14:06	Banks Weigh Call for Extra Delay to Parts of MiFID II 
+DerivAlert	693087168160378880	2016-01-29T15:03:52	Comment: Banks Hold Advantage in Clearing Contract Talks 
+DerivAlert	693083711844278273	2016-01-29T14:50:08	CFTC, German Regulators Sign Derivatives Oversight MOU 
+DerivAlert	693079990494195712	2016-01-29T14:35:21	ESMA to Cooperate with Mexican and South African Regulators on CCPs 
+DerivAlert	693078629719379968	2016-01-29T14:29:56	ESMA Opens Consultation on Market Abuse Rules 
+DerivAlert	693077052652654592	2016-01-29T14:23:40	Europe Hit Hardest by Regulation - New Report 
+DerivAlert	693074759668633600	2016-01-29T14:14:34	Asia Overtakes U.S. as World's Top Futures Hub 
+DerivAlert	693072317338030080	2016-01-29T14:04:51	When Systematic Trading Comes to Credit Markets 
+DerivAlert	692730697312833536	2016-01-28T15:27:23	Swaps Clearinghouses Can Pose Contagion Risks: U.S. Monitor 
+DerivAlert	692728569320046592	2016-01-28T15:18:55	European Investors Refuse to Budge in Move to Electronic Trading 
+DerivAlert	692726208916758528	2016-01-28T15:09:33	Comment: Obstacles to Europe's Reporting Vision 
+DerivAlert	692723003109588992	2016-01-28T14:56:48	Liquidity Stress Test Regime Needs Attention, Say Central Bankers 
+DerivAlert	692720127427608576	2016-01-28T14:45:23	PIMCO Asks if Swap Rates Could Be the New Risk-Free Benchmark for Bonds 
+DerivAlert	692717190634676224	2016-01-28T14:33:42	BOE’s Bailey Wants Clarity from Fund Managers on Assets 
+DerivAlert	692715577014624256	2016-01-28T14:27:18	U.S. Watchdog Warns of Rising Corporate Defaults 
+DerivAlert	692713761891815424	2016-01-28T14:20:05	The $29 Trillion Corporate Debt Hangover that Could Spark a Recession 
+DerivAlert	692711780116795392	2016-01-28T14:12:12	Credit Market Turmoil Crimps Bond Sales in Worst Start Since '05 
+DerivAlert	692709460779896832	2016-01-28T14:03:00	Treasury Traders Becoming ‘24 Hour Party People’ 
+DerivAlert	692369048655523840	2016-01-27T15:30:19	Big Companies Call on E.U. to Rewrite Derivative Rules 
+DerivAlert	692366028077142016	2016-01-27T15:18:19	Duffie: Regulators May Push Swaps Market Off LIBOR 
+DerivAlert	692361545574158336	2016-01-27T15:00:30	'Frustration' Claims Unlikely to Hit LIBOR Reform 
+DerivAlert	692359451383336960	2016-01-27T14:52:11	U.K. Names BOE's Andrew Bailey as New Head of Financial Industry Watchdog 
+DerivAlert	692355912770699264	2016-01-27T14:38:07	Comment: Technicals Are Keeping Derivatives Docile 
+DerivAlert	692352039024730113	2016-01-27T14:22:44	Europe Should Disclose Big Banks' Failure Planning, Study Says 
+DerivAlert	692347686255738880	2016-01-27T14:05:26	Bets on Negative U.S. Rates by End-2017 Jump Above 10% Chance 
+DerivAlert	692004370527948800	2016-01-26T15:21:13	Massad: Let Market Decide What It Wants from SEFs 
+DerivAlert	692001746852409348	2016-01-26T15:10:47	Pressure Mounts to Ease Challenger Capital Rules 
+DerivAlert	691996457625350144	2016-01-26T14:49:46	Collapsing Roll Cost Provides Futures Boost 
+DerivAlert	691993164257869829	2016-01-26T14:36:41	Comment: Blunt SEC Derivatives Proposals Too Onerous for Funds 
+DerivAlert	691990006802583553	2016-01-26T14:24:08	Canadian Regulators Harmonize Derivatives Reporting Rules 
+DerivAlert	691985854345134085	2016-01-26T14:07:38	Belgian Support Shrinking for Eurozone Transactions Tax 
+DerivAlert	691643426484412416	2016-01-25T15:26:57	U.S. Watchdog Approves New Venues for Trading Interest Rate Swaps 
+DerivAlert	691640528031584257	2016-01-25T15:15:26	CFTC Chair Massad Outlines 2016 Priorities 
+DerivAlert	691638392136863745	2016-01-25T15:06:57	SEFs Boost Liquidity and Cut Costs, Says BOE 
+DerivAlert	691635627645931520	2016-01-25T14:55:58	Industry Grapples with 80 Changes in Final FRTB Rules 
+DerivAlert	691633437967552512	2016-01-25T14:47:16	Comment: Euro Authorities Must Get a Grip on MiFID II 
+DerivAlert	691630538466140160	2016-01-25T14:35:44	BOE Suggests ISDA Role in Benchmark Administration 
+DerivAlert	691628074241245184	2016-01-25T14:25:57	Banks' Wait for Clarity on E.U. Market Overhaul Will Soon Be Over 
+DerivAlert	691625511429214212	2016-01-25T14:15:46	Fed's Unexpected Partner to Manage Rates: Foreign Central Banks 
+DerivAlert	690560781738512385	2016-01-22T15:44:55	Comment: New E.U. Rate-Swap Rule Will Deal a Big Blow to U.S. 
+DerivAlert	690556964259102720	2016-01-22T15:29:44	Swaps Exposure Slashed by Nearly Two-Thirds 
+DerivAlert	690554299806568448	2016-01-22T15:19:09	E.U. Banks Eye Hard Slog of Contract Changes to Meet Bail-In Rule 
+DerivAlert	690551680740560896	2016-01-22T15:08:45	CFTC Takes Steps to Clean Up 'Garbage' Swaps Data 
+DerivAlert	690549060235829248	2016-01-22T14:58:20	Canada Floats New OTC Derivatives Trading Rules 
+DerivAlert	690546561424703488	2016-01-22T14:48:24	Comment: the People vs. the Machine 
+DerivAlert	690536751530692608	2016-01-22T14:09:25	Tradeweb's TW and DW SEF have been granted full registration by the CFTC  derivatives
+DerivAlert	690545038917529600	2016-01-22T14:42:21	Debates on Blockchain Eclipse Talk of Basel III at Davos 
+DerivAlert	690542938611408898	2016-01-22T14:34:00	Outlook 2016: Blockchain Technology Is Coming 
+DerivAlert	690541551458590720	2016-01-22T14:28:30	FCA Seeks Strong Leader After Stormy Year for Financial Regulator 
+DerivAlert	690538443198316544	2016-01-22T14:16:09	Cuomo Picks Maria Vullo as State’s Top Financial Watchdog 
+DerivAlert	690535562894299137	2016-01-22T14:04:42	Proposed Legislation Would Add Scrutiny of Wall Street Regulators 
+DerivAlert	690198459442405377	2016-01-21T15:45:10	The Future of Swaps Trading: Are We All Missing Something? 
+DerivAlert	690194587244195840	2016-01-21T15:29:47	Banks Expect to Cut Market-Making in 2016 
+DerivAlert	690190282483224576	2016-01-21T15:12:41	Trans-Atlantic Derivatives Fight Nears End as Capital Rules Loom 
+DerivAlert	690185916674129922	2016-01-21T14:55:20	Looming E.U.-U.S. Deal on Clearing Gets Cool Welcome from Banks 
+DerivAlert	690182097538060289	2016-01-21T14:40:09	Revised Basel III Better Reflects Bank Risk, Research Finds 
+DerivAlert	690176827571245056	2016-01-21T14:19:13	Comment: Battle Over Future of Data ID Standards Hots Up 
+DerivAlert	690172442346700800	2016-01-21T14:01:47	Derivative Hedges Set to Add to China Volatility 
+DerivAlert	689837800825475073	2016-01-20T15:52:02	Fixed Income Markets in the New Year: Ring in the Changes 
+DerivAlert	689835174075461632	2016-01-20T15:41:36	E.U. Securities Chief Says One-Year MiFID II Delay May Not Be Enough 
+DerivAlert	689832421647327232	2016-01-20T15:30:40	Buy-Side Urged Do More on Securities Finance Regs 
+DerivAlert	689830122443165700	2016-01-20T15:21:32	Government Blockchain Review Urges Regulation 
+DerivAlert	689827124572786688	2016-01-20T15:09:37	U.S. Broker Start-Ups Fall by Half in 2015 
+DerivAlert	689823399259037696	2016-01-20T14:54:49	Comment: Breaking Up the Banks by the Back Door 
+DerivAlert	689823122825035776	2016-01-20T14:53:43	Nine key facts about ETF activity on Tradeweb in 2015: 
+DerivAlert	689819362010734592	2016-01-20T14:38:46	ETFs Ditch Derivatives as Investors Flock to Physical Products 
+DerivAlert	689816424001454080	2016-01-20T14:27:06	TRS Gets Attention as CDS Decouples from Cash 
+DerivAlert	689813260170829824	2016-01-20T14:14:31	Credit Focus Remains on Companies Not Crises 
+DerivAlert	689811023063355392	2016-01-20T14:05:38	Potential Bond Downgrades Climb to Highest Since 2009, S&amp;P Says 
+DerivAlert	689474844870635521	2016-01-19T15:49:47	Tracing Time: Clarifying MiFID II/MiFIR Timestamp Requirements 
+DerivAlert	689471563985367041	2016-01-19T15:36:45	U.S. Interest Rate Swaps Trading Rules 'Fragment' Global Market 
+DerivAlert	689469151748890624	2016-01-19T15:27:10	‘Brexit’ Won’t Remove E.U. Compliance Mandates 
+DerivAlert	689466988314243072	2016-01-19T15:18:34	U.S. May Target ETFs for Collateral Add-Ons 
+DerivAlert	689460262399664128	2016-01-19T14:51:50	Final FRTB Is a Game of Give-and-Take, Say Dealers 
+DerivAlert	689456907984080898	2016-01-19T14:38:31	Basel Rules to Cost Banks €40m-€120m Each, Says Study 
+DerivAlert	689452835843342337	2016-01-19T14:22:20	Five Takeaways from the Basel Committee's New Risk Rules 
+DerivAlert	689447997361422336	2016-01-19T14:03:06	A Hint of Trouble in European Debt 
+DerivAlert	688020602662338561	2016-01-15T15:31:09	E.U. and U.S. Close in on Derivatives Oversight Agreement 
+DerivAlert	688018610841907201	2016-01-15T15:23:14	Europe May Face EMIR Changes 
+DerivAlert	688015269831290881	2016-01-15T15:09:57	FTT Slips Off E.U. Agenda 
+DerivAlert	688013309950488576	2016-01-15T15:02:10	Wall Street Frets Fed Proposal Will Become $550 Billion Headache 
+DerivAlert	688009718913208322	2016-01-15T14:47:54	SEC's Proposed Liquidity Rules Are Not Good Enough 
+DerivAlert	688007139730833408	2016-01-15T14:37:39	Overnight Repo Still Shines 
+DerivAlert	688004479808106496	2016-01-15T14:27:05	Comment: Debt Market Makeovers 
+DerivAlert	688000149612814341	2016-01-15T14:09:52	Basel Committee Softens New Rules on Bank Capital 
+DerivAlert	687655701930504192	2016-01-14T15:21:10	Fed, Other Regulators Seek New Data on Repo Market 
+DerivAlert	687651871452991488	2016-01-14T15:05:56	Bank Regulators Are About to Get Really Close to Traders 
+DerivAlert	687647762511454208	2016-01-14T14:49:37	ESMA to Cooperate on Non-E.U. CCPs 
+DerivAlert	687644406699134977	2016-01-14T14:36:17	ISDA to Give Buy-Side a Bigger Say 
+DerivAlert	687641276473327617	2016-01-14T14:23:50	Comment: ISDA Overhaul Is a Cause for New Year Cheer 
+DerivAlert	687637436520882176	2016-01-14T14:08:35	Liquidity "Not an Exact Science" Regulators Warned 
+DerivAlert	687302152826535939	2016-01-13T15:56:17	Fresh Delay for E.U. Rules on CCP Spillover Losses 
+DerivAlert	687297163915857920	2016-01-13T15:36:27	Banks Unyielding in Contract Talks on Clearing 
+DerivAlert	687293607779397632	2016-01-13T15:22:20	CFTC Mulls Reverse on “Arbitrary” Swap Dealer Rules 
+DerivAlert	687290824992927746	2016-01-13T15:11:16	Regulation Watch: Setting the Precedent 
+DerivAlert	687288176705179648	2016-01-13T15:00:45	Blockchain Debate to Headline CFTC Meeting 
+DerivAlert	687285527113011200	2016-01-13T14:50:13	ISDA Boosts Board to Tackle 2016 Challenges 
+DerivAlert	687281866194423808	2016-01-13T14:35:40	Banks' Worst Fears Eased as Basel Soft-Pedals Capital Overhaul 
+DerivAlert	687273872052326400	2016-01-13T14:03:54	S&amp;P Says Corporate Credit Conditions Worsening at Fastest Pace Since Crisis 
+DerivAlert	686931390504501250	2016-01-12T15:23:00	December 2015 Swaps Volume in 10 Charts 
+DerivAlert	686928685232992256	2016-01-12T15:12:15	Banks Pitch Flexible ‘Sunset CSAs’ for Pension Funds, Insurers 
+DerivAlert	686924880181346305	2016-01-12T14:57:08	Europe Goes Belt and Braces on Margin 
+DerivAlert	686921254809550848	2016-01-12T14:42:44	FCA Highlights Poor Data Quality 
+DerivAlert	686918211535826944	2016-01-12T14:30:38	ISDA Tightens Up Rules for Determining Credit Events 
+DerivAlert	686913763237359616	2016-01-12T14:12:58	Credit Swaps Panel Adopts Rules to Mitigate Conflict of Interest 
+DerivAlert	686568734513848320	2016-01-11T15:21:56	Good Intentions, Unintended Consequences: Tax Reform Threatens Options Market 
+DerivAlert	686566174335852548	2016-01-11T15:11:46	Fed Eyes Margin Rules to Bolster Oversight 
+DerivAlert	686560606686699520	2016-01-11T14:49:38	Comment: MiFID II: Excess of Ambition, Lack of Action 
+DerivAlert	686556787764510720	2016-01-11T14:34:28	Comment: Eight U.S. Regulatory Predictions for 2016 
+DerivAlert	686554518000144384	2016-01-11T14:25:27	The Centralization Game 
+DerivAlert	686551014581911552	2016-01-11T14:11:32	ESMA Debates Financial Innovation 
+DerivAlert	685487486555058176	2016-01-08T15:45:27	The Waiting Game: 5 Themes That Will Define Capital Markets in 2016 
+DerivAlert	685483819584077828	2016-01-08T15:30:52	Regulation Around the Corner 
+DerivAlert	685481115558277120	2016-01-08T15:20:08	Moody's Gives Nod to Systemic Role of Clearing Houses 
+DerivAlert	685477892281733120	2016-01-08T15:07:19	Exchanges Draw Battle Lines in Regulatory Crunch Year 
+DerivAlert	685474337768497152	2016-01-08T14:53:12	U.S. Regulators Told to Expect VM Status Change 
+DerivAlert	685472111754895360	2016-01-08T14:44:21	Comment: How FAV Saved the Cross-Currency Swap 
+DerivAlert	685468997672931328	2016-01-08T14:31:59	Comment: European Regulation: Key Points to Know About MiFID II/MiFIR 
+DerivAlert	685464078861660160	2016-01-08T14:12:26	Swap Spreads Are Falling Again, and Analysts Are Blaming China 
+DerivAlert	685119365667241985	2016-01-07T15:22:40	MiFID II Still Tops Regulatory Agenda 
+DerivAlert	685115148000956416	2016-01-07T15:05:54	E.U. and U.S. Securitization Split Worries Investors 
+DerivAlert	685111565037735936	2016-01-07T14:51:40	ECB Says Low Bank Profits Bigger Worry than Capital 
+DerivAlert	685108852837212161	2016-01-07T14:40:53	Comment: Dodgy Discounts: DVA Claims Fly in Cross-Currency Market 
+DerivAlert	685104748878540800	2016-01-07T14:24:35	Comment: Why Too Big to Fail Isn’t Over in Europe 
+DerivAlert	685101728467955712	2016-01-07T14:12:35	Bank Rule Distorting Performance Is Repealed 
+DerivAlert	684753723906748416	2016-01-06T15:09:44	U.S. FINRA Latest to Target Firm's Trading Culture 
+DerivAlert	684750028645203968	2016-01-06T14:55:03	ESMA Raps Regulators Over Short-Selling Shortcomings 
+DerivAlert	684746285841276928	2016-01-06T14:40:11	Leaving Europe Outweighs MiFID on Risk Scale 
+DerivAlert	684741742759915520	2016-01-06T14:22:08	Three Brexit Scenarios for Traders 
+DerivAlert	684737572900352001	2016-01-06T14:05:33	Comment: Why ETFs Are Taking Territory from Futures 
+DerivAlert	684394984834002944	2016-01-05T15:24:14	The Never-Ending Journey: Banks Braced for Next Volley of Regs 
+DerivAlert	684391338222170113	2016-01-05T15:09:45	Dehydrated Bond Markets Face Up to Life Without Liquidity 
+DerivAlert	684388062663688192	2016-01-05T14:56:44	Buy-Side Looking to Go It Alone 
+DerivAlert	684384695942037504	2016-01-05T14:43:21	Blockchain: Wisdom of Crowds Begins in Blind Competition 
+DerivAlert	684379399853051905	2016-01-05T14:22:18	Ex-BOE Deputy Governor Warns on Slowing Pace of Regulation 
+DerivAlert	684030726518489088	2016-01-04T15:16:48	Structural Reforms Left Behind by Changes to Banking Markets 
+DerivAlert	684026873786068992	2016-01-04T15:01:29	Banks Adjust to Stress-Testing as Supervisory Tool 
+DerivAlert	684023453972869120	2016-01-04T14:47:54	France Considers New Type of Loss-Absorbing Debt for Banks 
+DerivAlert	684020367057354752	2016-01-04T14:35:38	ETFs Hit Record as BlackRock Sees Shift Away from Futures 
+DerivAlert	684014999539417088	2016-01-04T14:14:18	Fed's Fischer Supports Higher Rates if Markets Overheat 
+DerivAlert	682583819740934146	2015-12-31T15:27:19	CFTC May Be Forced to Learn More on Industry Self-Policing After Budget Freeze 
+DerivAlert	682579548261724160	2015-12-31T15:10:20	Clearing Quarterly: T+2 Migration Picks Up Speed 
+DerivAlert	682576841882890240	2015-12-31T14:59:35	Where Have All the Muni-Bond Dealers Gone? 
+DerivAlert	682573556241305600	2015-12-31T14:46:32	Investors Aren't Very Happy With Portugal's Bank Bond Decision 
+DerivAlert	682570742802853889	2015-12-31T14:35:21	A Continental View of TLAC 
+DerivAlert	682228437235462145	2015-12-30T15:55:09	Derivalert’s Top 10 News Stories of the Year: 2015 
+DerivAlert	682225255088295937	2015-12-30T15:42:30	Bond Buyers Readying Defenses for 2016 Leave Nothing to Chance 
+DerivAlert	682221615992680448	2015-12-30T15:28:02	Banks Asked to Plot Own Collapse in Tests to Find Hidden Risks 
+DerivAlert	682215228973674496	2015-12-30T15:02:40	Fed's Asset-Bubble Focus Tries to Clear Path for Gradual Hikes 
+DerivAlert	682211099895304192	2015-12-30T14:46:15	How the Fed Might Change Stress Tests in Version 2.0 
